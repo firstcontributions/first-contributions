@@ -13,10 +13,16 @@ Now clone this repo to your machine. Click on clone button and then copy to clip
 Open a terminal and run
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git`
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 Where the url can be pasted from clipboard
+
+Go in to that directory
+
+```
+cd first-contributions
+```
 
 Now cut a branch using `git checkout command`
 
@@ -43,7 +49,7 @@ git commit -m "Add your-name to Contributors list"
 Push your changes using `git push`
 
 ```
-git push origin master
+git push origin add-your-name
 ```
 
 If you go to your repo on github, you'll see a button to open a pull request. click on that button
