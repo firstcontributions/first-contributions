@@ -4,12 +4,12 @@ If you don't have git on machine, [ install it ]( https://help.github.com/articl
 
 Fork this repo by clicking on the fork button
 
-<img style="float: right;" src="assets/fork.png">
+<img style="float: right;" width="300" src="assets/fork.png">
 
 Now clone this repo to your machine. Click on clone button and then copy to clipboard icon
 
-<img style="float: right;" src="assets/clone.png">
-<img style="float: right;" src="assets/copy-to-clipboard.png">
+<img style="float: right;" width="300" src="assets/clone.png">
+<img style="float: right;" width="300" src="assets/copy-to-clipboard.png">
 
 Open a terminal and run
 
@@ -55,4 +55,8 @@ git push origin add-your-name
 
 If you go to your repo on github, you'll see a button to open a pull request. click on that button
 
+<img style="float: right;" src="assets/compare-and-pull.png">
+
 Now submit the pull request 
+
+<img style="float: right;" src="assets/submit-pull.png">
