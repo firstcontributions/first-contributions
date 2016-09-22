@@ -1,3 +1,3 @@
-(Roshan Jossey)[https://github.com/Roshanjossey]
-Ujjwal
-Shruthi
+- [ Roshan Jossey ]( https://github.com/Roshanjossey )
+- [Ujjwal](https://github.com/uforujjwal/first-contributions)
+- [Shruthi](https://github.com/lakshmishruthi/first-contributions) 

@@ -1,14 +1,15 @@
 # First-contributions
 
-If you don't have git on machine, (install it)[https://help.github.com/articles/set-up-git/]
+If you don't have git on machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 
 Fork this repo by clicking on the fork button
-![ fork repo ](assets/fork.png )
+
+<img style="float: right;" src="assets/fork.png">
 
 Now clone this repo to your machine. Click on clone button and then copy to clipboard icon
 
-![clone button](assets/clone.png )
-![copy to clipboard button](assets/copy-to-clipboard.png)
+<img style="float: right;" src="assets/clone.png">
+<img style="float: right;" src="assets/copy-to-clipboard.png">
 
 Open a terminal and run
 
@@ -34,7 +35,7 @@ Now open Contributors.md file in a text editor and add your name to it, save the
 
 If you go to the project directory and do `git status`, you'll see there are changes
 
-Add those chanage using `git add`
+Add those change using `git add`
 
 ```
 git add Contributors.md
