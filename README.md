@@ -1,4 +1,4 @@
-# First-contributions
+# First Contributions
 
 If you don't have git on machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 
