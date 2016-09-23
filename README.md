@@ -25,7 +25,7 @@ Go in to that directory
 cd first-contributions
 ```
 
-Now cut a branch using `git checkout command`
+Now create a branch using `git checkout command`
 
 ```
 git checkout -b add-your-name
