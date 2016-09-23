@@ -3,3 +3,4 @@
 - [Shruthi](https://github.com/lakshmishruthi/first-contributions) 
 - [Tapan Prakash T](https://github.com/tapanprakasht/first-contributions)
 - [Kamal Mohanan](https://github.com/kmlmhnn)
+- [Ankit Raturi] (https://github.com/ankitraturi/first-contributions)
