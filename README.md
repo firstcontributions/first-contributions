@@ -14,10 +14,14 @@ Now clone this repo to your machine. Click on clone button and then copy to clip
 Open a terminal and run
 
 ```
+git clone <url you just copied>
+```
+Where the url can be pasted from clipboard
+For example
+```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-
-Where the url can be pasted from clipboard
+Here you're copying the contents of first-contributions repository in github to your computer
 
 Go in to that directory
 
@@ -28,10 +32,14 @@ cd first-contributions
 Now create a branch using `git checkout command`
 
 ```
-git checkout -b add-your-name
+git checkout -b <add-your-name>
+```
+For example
+```
+git checkout -b add-alonzo-church
 ```
 
-Now open Contributors.md file in a text editor and add your name to it, save the file
+Now open `Contributors.md` file in a text editor and add your name to it, save the file
 
 If you go to the project directory and do `git status`, you'll see there are changes
 
@@ -44,14 +52,16 @@ git add Contributors.md
 Now commit those changes using `git commit`
 
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
+replace `<your-name>` with your name
 
 Push your changes using `git push`
 
 ```
-git push origin add-your-name
+git push origin <add-your-name>
 ```
+Replace `<add-your-name>` with the name of the branch you created earlier
 
 If you go to your repo on github, you'll see a button to open a pull request. click on that button
 
