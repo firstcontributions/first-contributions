@@ -70,3 +70,30 @@ If you go to your repo on github, you'll see a button to open a pull request. cl
 Now submit the pull request 
 
 <img style="float: right;" src="assets/submit-pull.png">
+
+### Keeping your fork synced with this repo
+
+Now I'll be merging all your changes in to master branch of this project.
+Then your fork won't have those changes. In order to keep your fork synced with mine,
+
+Add my repo's url as `upstream remote url`
+
+```
+git remote add upstream https://github.com/Roshanjossey/first-contributions
+```
+This is a way of telling git that another version of this project exists in the specified url and we're calling it master.
+
+```
+git fetch upstream
+```
+Here we're fetching all the changes is my fork (upstream remote)
+
+```
+git rebase upstream/master
+```
+Here you're applying all the changes you fetched to master branch.
+If you push master branch now, your fork will also have the changes
+```
+git push origin master
+```
+Notice here you're pushing to the remote named origin
