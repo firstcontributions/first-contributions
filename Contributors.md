@@ -8,3 +8,4 @@
 - [Akhil Achuthan] (https://github.com/akhilachu01)
 - [Rony Cherian] (https://github.com/phoe-nix-)
 - [Angad Gill] (https://github.com/angadgill92)
+- [Adi] (https://github.com/adityabhushan)
