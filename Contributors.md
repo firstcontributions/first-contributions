@@ -7,4 +7,3 @@
 - [Sarath S Menon] (https://github.com/sarathsme)
 - [Akhil Achuthan] (https://github.com/akhilachu01)
 - [Rony Cherian] (https://github.com/phoe-nix-)
-- [Adi] (https://github.com/adityabhushan)
