@@ -86,7 +86,7 @@ This is a way of telling git that another version of this project exists in the 
 ```
 git fetch upstream
 ```
-Here we're fetching all the changes is my fork (upstream remote)
+Here we're fetching all the changes in my fork (upstream remote)
 
 ```
 git rebase upstream/master
