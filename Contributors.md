@@ -13,3 +13,5 @@
 - [Mukesh M] (https://github.com/mukeshm)
 - [Diego Gonzalez] (https://github.com/luarca84)
 - [MartenBE] (https://github.com/MartenBE)
+- [Jayakrishnan] (https://github.com/JAYKRISHNAN)
+- [EvanDCP] (https://github.com/EvanDCP)
