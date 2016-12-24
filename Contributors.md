@@ -18,3 +18,4 @@
 - [VinothKumar] (https://github.com/Vinoth18)
 - [Jon Johnson] (https://github.com/jonjohnson34)
 - [Brandon Brigance] (https://github.com/b-random)
+- [Jaspreet Singh] (https://github.com/singh19196)
