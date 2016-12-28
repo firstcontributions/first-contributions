@@ -19,5 +19,4 @@
 - [Jon Johnson] (https://github.com/jonjohnson34)
 - [Brandon Brigance] (https://github.com/b-random)
 - [Jaspreet Singh] (https://github.com/singh19196)
-
 - [ajborka](https://www.github.com/ajborka)
