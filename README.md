@@ -18,9 +18,9 @@ Now clone this repo to your machine. Click on the clone button and then the copy
 Open a terminal and run the following git command:
 
 ```
-git clone <url you just copied>
+git clone "url you just copied"
 ```
-Where "<url>" is the url to this repository. See the previous steps to obtain the url.
+Where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
 
 For example:
 ```
