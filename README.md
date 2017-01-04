@@ -20,7 +20,7 @@ Open a terminal and run the following git command:
 ```
 git clone <url you just copied>
 ```
-Where <url> is the url to this repository. See the previous steps to obtain the url.
+Where "<url>" is the url to this repository. See the previous steps to obtain the url.
 
 For example:
 ```
@@ -66,7 +66,7 @@ git push origin <add-your-name>
 Replace `<add-your-name>` with the name of the branch you created earlier
 
 ## Submitting your changes for review
-If you go to your repo on github, you'll see a button to open a pull request. click on that button.
+If you go to your repository on github, you'll see a button to open a pull request. click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
