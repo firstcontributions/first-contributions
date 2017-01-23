@@ -4,9 +4,9 @@
 
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 
-## Fork this repository
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+## Fork this repository
 
 Fork this repo by clicking on the fork button
 
