@@ -16,14 +16,14 @@ Fork this repo by clicking on the fork button
 
 Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
 Open a terminal and run the following git command:
 
 ```
 git clone "url you just copied"
 ```
 Where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
