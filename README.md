@@ -6,16 +6,17 @@ If you don't have git on your machine, [ install it ]( https://help.github.com/a
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-<img style="float: right;" width="300" src="assets/fork.png" alt="fork this repository" />
+Fork this repo by clicking on the fork button
 
 ## Clone the repository
 
 Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
 
-<img style="float: right;" width="300" src="assets/clone.png" alt="clone this repository" />
-<img style="float: right;" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Open a terminal and run the following git command:
 
