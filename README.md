@@ -99,3 +99,11 @@ Here you're applying all the changes you fetched to master branch. If you push m
 git push origin master
 ```
 Notice here you're pushing to the remote named origin.
+
+## Where to go from here?
+
+Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+
+|![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)|![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)|<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">|![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)|![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)|<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">|<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">|![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)|
+|---|---|---|---|---|---|---|---|
+|[exercism](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[Fun Retros](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[react](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[habitat](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[scikit-learn](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[Leiningen](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[numpy](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[elasticsearch](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
