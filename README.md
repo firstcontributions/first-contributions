@@ -50,12 +50,12 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. If you go to the project directory and do `git status`, you'll see there are changes. Add those changes using `git add`
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file. If you go to the project directory and do `git status`, you'll see there are changes. Add those changes using the below `git add` commad.
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using `git commit`
+Now commit those changes using the below `git commit` command.
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
@@ -71,7 +71,7 @@ Replace `<add-your-name>` with the name of the branch you created earlier
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see a button to open a pull request. click on that button.
+If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
