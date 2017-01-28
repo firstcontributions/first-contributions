@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md)*
+*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md)*
 
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 
