@@ -27,3 +27,4 @@
 - [Chris Caldwell] (https://github.com/ImmutableGlitch)
 - [Palash Shah](https://github.com/palashshah)
 - [raigon44](https://github.com/raigon44/)
+- [thibmaek](https://github.com/thibmaek)
