@@ -30,3 +30,4 @@
 - [Palash Shah](https://github.com/palashshah)
 - [raigon44](https://github.com/raigon44/)
 - [thibmaek](https://github.com/thibmaek)
+- [Shrut] (https://github.com/shrut1996)
