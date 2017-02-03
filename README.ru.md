@@ -14,14 +14,14 @@
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
 
-Теперь склоинруйте ваш репозиторий к вам на пк. Нажмите на кнопку "clone", а затем на иконку планшта, чтобы скопировать ссылку.
+Теперь склонируйте ваш репозиторий на пк. Нажмите на кнопку "clone", а затем на иконку планшета, чтобы скопировать ссылку.
 
 Откройте терминал и запустите следующую git команду:
 
 ```
 git clone "url you just copied"
 ```
-Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, как получить эту ссылку.
+Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -49,9 +49,9 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-## Внесите необходимые изменения и закоммитьте их
+## Внесите необходимые изменения и создайте коммит
 
-Теперь откройте файл `Contributors.md` в вашем текстовом редакторе, впешите ваше имя и сохраните файл. Если вы перейдете в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
+Откройте файл `Contributors.md` в вашем текстовом редакторе, впешите ваше имя и сохраните файл. Если вы перейдете в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
 
 ```
 git add Contributors.md
@@ -83,20 +83,20 @@ git push origin <add-your-name>
 
 ## Синхронизируйте ваше ответвление с данным репозиторием
 
-Теперь вы смержите все ваши изменения в мастер-ветку данного репозитория. Ваше ответвление не будет иметь данные изменения. Для того, чтобы синхронизировать ваше ответлвение с моим, добавьте ссылку на мой репозиторий с помощью `upstream remote url`.
+Теперь вы готовы смержить все ваши изменения в мастер-ветку данного репозитория. Данные изменения не будут добавлены к вашему ответвлению. Для того, чтобы синхронизировать ваше ответлвение с моим, добавьте ссылку на мой репозиторий с помощью `upstream remote url`.
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Таким образом мы сообщим git'у что существует другая версия данного проекта по определенной ссылки и мы ее считаем мастером. Как только измнения смержены, подгрузите новую версию моего репозитория.
+Таким образом мы сообщим git'у что существует другая версия данного проекта по определенной ссылке и мы ее считаем мастером. Как только измнения смержены, подгрузите новую версию моего репозитория.
 ```
 git fetch upstream
 ```
 
-Таким образом мы забрали все изменения в моем ответвлении (upstream remote). Теперь, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
+Таким образом мы забрали все изменения в моем ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
 ```
 git rebase upstream/master
 ```
-Таким образом вы применяете все изменения, которые вы подтянули к мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
+Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
 ```
 git push origin master
 ```
@@ -106,7 +106,7 @@ git push origin master
 
 Вы найдете много заданий для новичков на: [contributor.ninja](https://contributor.ninja).
 
-Далее несколько задач для новчиков в популярных репозиториях. Вперед, перейдите в репозитории, чтобы узнать больше.
+Ниже несколько популярных репозиториев, где вы можете найти задания для ноичков. Вперед, перейдите в репозитории, чтобы узнать больше.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
