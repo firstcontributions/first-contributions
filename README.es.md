@@ -1,12 +1,12 @@
 # Primeras Contribuciones
 
-Si no tienes git en tu equipo, [ instálalo ]( https://help.github.com/articles/set-up-git/ )
+Si no tienes git en tu equipo, [ instÃ¡lalo ]( https://help.github.com/articles/set-up-git/ )
 
-Haz Fork de este repositorio clicando en el botón fork
+Haz Fork de este repositorio clicando en el botÃ³n fork
 
 <img style="float: right;" width="300" src="assets/fork.png">
 
-Ahora clona este repositorio a tu equipo. Haz click sobre el botón clone y luego en el icono copiar a clipboard
+Ahora clona este repositorio a tu equipo. Haz click sobre el botÃ³n clone y luego en el icono copiar a clipboard
 
 <img style="float: right;" width="300" src="assets/clone.png">
 <img style="float: right;" width="300" src="assets/copy-to-clipboard.png">
@@ -21,7 +21,7 @@ Por ejemplo
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Aquí tú estas copiando el contenido del repositorio first-contributions en github a tu ordenador
+AquÃ­ tÃº estas copiando el contenido del repositorio first-contributions en github a tu ordenador
 
 Entra en ese directorio
 
@@ -32,18 +32,18 @@ cd first-contributions
 Ahora crea una branch usando `git checkout command`
 
 ```
-git checkout -b <añade tu nombre>
+git checkout -b <aÃ±ade tu nombre>
 ```
 Por ejemplo
 ```
 git checkout -b add-alonzo-church
 ```
 
-Ahora abre el archivo `Contributors.md` en un editor de texto y añade tu nombre, guarda el archivo
+Ahora abre el archivo `Contributors.md` en un editor de texto y aÃ±ade tu nombre, guarda el archivo
 
-Si vas al directorio del proyecto y haces `git status`, tú verás los cambios
+Si vas al directorio del proyecto y haces `git status`, tÃº verÃ¡s los cambios
 
-Añade estos cambios con el comando `git add`
+AÃ±ade estos cambios con el comando `git add`
 
 ```
 git add Contributors.md
@@ -59,11 +59,11 @@ cambia `<tu-nombre>` con tu nombre
 Puedes hacer Push en tus cambios con el comando `git push`
 
 ```
-git push origin <añade-tu-nombre>
+git push origin <aÃ±ade-tu-nombre>
 ```
-Cambia `<añade-tu-nombre>` con el nombre de la branch que creaste antes
+Cambia `<aÃ±ade-tu-nombre>` con el nombre de la branch que creaste antes
 
-Si vas a tu repositorio en github verás un botón para abrir una pull request. Haz click sobre ese botón
+Si vas a tu repositorio en github verÃ¡s un botÃ³n para abrir una pull request. Haz click sobre ese botÃ³n
 
 <img style="float: right;" src="assets/compare-and-pull.png">
 
@@ -73,27 +73,27 @@ Ahora submit la pull request
 
 ### Manten tu fork sincronizado con este repositorio
 
-Ahora yo haré merge con tus cambios dentro de la master branch de este proyecto.
-Luego tu fork no tendrá estos cambios. En orden a mantener tu fork sincronizado con el mío,
+Ahora yo harÃ© merge con tus cambios dentro de la master branch de este proyecto.
+Luego tu fork no tendrÃ¡ estos cambios. En orden a mantener tu fork sincronizado con el mÃ­o,
 
-Añade la url de mi repositorio como `upstream remote url`
+AÃ±ade la url de mi repositorio como `upstream remote url`
 
 ```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
+git remote add upstream https://github.com/multunus/first-contributions
 ```
-Este es una manera de decirle a git que otra versión de este proyecto existe en esa url y nosotros estamos llamando a su master.
+Este es una manera de decirle a git que otra versiÃ³n de este proyecto existe en esa url y nosotros estamos llamando a su master.
 
 ```
 git fetch upstream
 ```
-Aquí estamos trayendo todos los cambios en mi fork (upstream remote)
+AquÃ­ estamos trayendo todos los cambios en mi fork (upstream remote)
 
 ```
 git rebase upstream/master
 ```
-Aquí tú estas aplicando todos los cambios anteriores en master branch.
-Si tú haces push en master branch ahora, tu fork también tendrá los cambios.
+AquÃ­ tÃº estas aplicando todos los cambios anteriores en master branch.
+Si tÃº haces push en master branch ahora, tu fork tambiÃ©n tendrÃ¡ los cambios.
 ```
 git push origin master
 ```
-Date cuenta que aquí tú estas haciendo Push hacia el remoto llamado origin
+Date cuenta que aquÃ­ tÃº estas haciendo Push hacia el remoto llamado origin
