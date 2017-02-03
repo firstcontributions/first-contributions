@@ -2,11 +2,11 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) 
+अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md)
 
 आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)
 
-## कांट इस भंडार 
+## कांट इस भंडार
 
 कांटा बटन पर क्लिक करके इस रेपो कांटा
 
@@ -59,7 +59,7 @@ git checkout -b add-alonzo-church
 अब खुले `Contributors.md` फ़ाइल एक पाठ संपादक में और इसे आपके नाम जोड़, और फ़ाइल सहेजें। आप अगर इस परियोजना निर्देशिका कर और `git status` करते हैं, तो आप परिवर्तन देखेंगे। उन परिवर्तनों को नीचे `git add` commad का उपयोग कर जोड़ें।
 
 ```
-git add Contributors.md 
+git add Contributors.md
 ```
 
 अब नीचे `git commit` आदेश का उपयोग उन परिवर्तनों को प्रतिबद्ध है।
@@ -104,7 +104,7 @@ git remote add upstream https://github.com/multunus/first-contributions
 git fetch upstream
 ```
 
-यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है। 
+यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है।
 
 ```
 git rebase upstream/master
@@ -131,3 +131,5 @@ git push origin master
 |[homebrew](https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)|[Rust](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)|[vuejs](https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22)|[Suave](https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy)|[OpenRA](https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[PowerShell](https://github.com/powershell/powershell/issues?q=is%3Aopen+is%3Aissue+label%3AUp-for-Grabs)|[coala](https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer)|[moment](https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs)|
 |[![ava](https://avatars0.githubusercontent.com/u/8527916?v=3&s=100)](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[![freeCodeCamp](https://avatars0.githubusercontent.com/u/9892522?v=3&s=100)](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![webpack](https://avatars3.githubusercontent.com/u/2105791?v=3&s=100)](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[![hoodie](https://avatars1.githubusercontent.com/u/1888826?v=3&s=100)](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![pouchdb](https://avatars3.githubusercontent.com/u/3406112?v=3&s=100)](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[![neovim](https://avatars0.githubusercontent.com/u/6471485?v=3&s=100)](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[![babel](https://avatars2.githubusercontent.com/u/9637642?v=3&s=100)](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[<img width="100" src="https://github.com/adobe/brackets/blob/gh-pages/images/brackets_128.png?raw=true">](https://github.com/adobe/brackets/labels/Starter%20bug)|
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
+| [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+| [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
