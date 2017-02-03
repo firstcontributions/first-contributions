@@ -1,128 +1,113 @@
-# प्रथम योगदान
+# First Contributions
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) (रूसी)[README.ru.md]
+*Read this in other languages: [英語](README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md)*
 
-आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)
+まだ Git をインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/) からインストールしてください
 
-## कांट इस भंडार
+## レポジトリをフォーク
 
-कांटा बटन पर क्लिक करके इस रेपो कांटा
+Fork ボタンをクリックしてこのレポジトリをフォークしてください
 
-## रिपोजिटरी क्लोन
+## レポジトリをクローン
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-अब आप अपने मशीन को यह रेपो क्लोन। क्लोन बटन पर क्लिक करें और फिर कॉपी आइकन क्लिपबोर्ड
+レポジトリをクローンします。Clone or Download ボタンをクリックしてクリップボードアイコンをクリックしてください。
 
-एक टर्मिनल खोलें और निम्न git आदेश चलाएँ:
-
-```
-git clone "यूआरएल का नकल "
-```
-
-कहाँ "यूआरएल का नकल" (उद्धरण चिह्नों के बिना) इस भंडार के लिए यूआरएल  है। यूआरएल प्राप्त करने के लिए पिछले चरण देखें।
-
-उदाहरण के लिए:
+ターミナルを開いて以下のコマンドを実行してください：
 
 ```
-git clone https://github.com/यह तुम हो/first-contributions.git
+git clone "コピーした URL"
 ```
+"コピーした URL" (ダブルクオーテーションは除いてください) をコピーしたレポジトリの URL と置き換えてください。
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-' यह तुम हो 'अपने GitHub उपयोगकर्ता नाम है। यहाँ आप अपने कंप्यूटर के लिए GitHub में पहली योगदान भंडार की सामग्री नकल कर रहे हैं
+例：
+```
+git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
+```
+'あなたのユーザー名' はご自身の GitHub ユーザー名に置き換えてください。ここでは GitHub のリポジトリの内容をあなたのコンピュータにコピーします。
 
-## एक शाखा बनाएं
+## ブランチを作成
 
-आपके कंप्यूटर पर रिपोजिटरी निर्देशिका के लिए परिवर्तित करें अगर आप पहले से ही वहाँ नहीं कर रहे हैं।
+もしレポジトリのディレクトリにいなければそこまで移動してください。
 
 ```
 cd first-contributions
 ```
-
-अब एक शाखा  बना  `git checkout command` उपयोग करके
-
+`git checkout command`　コマンドを使用してブランチを作成します：
 ```
-git checkout -b <अपना नाम जोड़>
+git checkout -b <add-your-name>
 ```
 
-उदाहरण के लिए:
-
+例:
 ```
 git checkout -b add-alonzo-church
 ```
 
-## आवश्यक परिवर्तन करें और उन परिवर्तनों के लिए प्रतिबद्ध
+## コードを変更してその変更をコミット
 
-अब खुले `Contributors.md` फ़ाइल एक पाठ संपादक में और इसे आपके नाम जोड़, और फ़ाइल सहेजें। आप अगर इस परियोजना निर्देशिका कर और `git status` करते हैं, तो आप परिवर्तन देखेंगे। उन परिवर्तनों को नीचे `git add` commad का उपयोग कर जोड़ें।
-
+テキストエディタで `Contributors.md` ファイルを開いてあなたの名前を追加し、ファイルを保存します。プロジェクトディレクトリに移動して `git status` を実行すると、変更があることがわかります。以下の `git add` コマンドを使ってそれらの変更を適用してください。
 ```
 git add Contributors.md
 ```
 
-अब नीचे `git commit` आदेश का उपयोग उन परिवर्तनों को प्रतिबद्ध है।
 
+以下の `git commit`コマンドを使ってこれらの変更をコミットします。
 ```
-git commit -m "Add <आपका-नाम> to Contributors list"
+git commit -m "Add <あなたの名前> to Contributors list"
 ```
+`<あなたの名前>` をご自身の名前に置き換えてください
 
-आपके नाम के साथ `<आपका-नाम>` की जगह
+## GitHub に変更を push する
 
-## GitHub में परिवर्तन पुश
-
-`git push` का उपयोग कर अपने परिवर्तन धक्का
-
+`git push` コマンドを使って変更を push してください
 ```
-git push origin <अपना नाम जोड़>
+git push origin <ブランチ名>
 ```
+`<ブランチ名>` を先程作ったブランチ名にへんこうしてください
 
-बदलें `<अपना नाम जोड़>` शाखा आपने पहले बनाया के नाम के साथ
+## レビューのためにプルリクエストを送る
 
-## समीक्षा के लिए अपने परिवर्तनों को जमा करें
-
-आप GitHub पर अपने भंडार के लिए जाना है, तो आप देख `Compare & pull request` बटन खींच लेंगे। उस बटन पर क्लिक करें।
+GitHub であなたのリポジトリに行くと、 `Compare＆pull request` ボタンが表示されます。そのボタンをクリックしてください。
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-अब पुल अनुरोध सबमिट करें।
+プルリクエストを作ってください：
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## अपने कांटा इस भंडार के साथ समन्वयित रखते हुए
+## ォークしたレポジトリと元のレポジトリを同期させる
 
-अब मैं इस परियोजना के मास्टर शाखा में अपने सभी परिवर्तन विलय हो जाएगा। अपने कांटा उन परिवर्तनों की जरूरत नहीं होगी। आदेश में अपने कांटा खान के साथ समन्वयित रखने के लिए, `upstream remote url` के रूप में मेरे रेपो के यूआरएल जोड़ें।
-
+今、私はこのプロジェクトの master ブランチにすべての変更をマージしています。しかしあなたのフォークしたレポジトリにはどのような変更は加えられていません。あなたのフォークしたレポジトリと元のレポジトリとの変更を同期させるために、私のレポジトリのURLを「上流のリモート URL 」として追加する必要があります：
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-
-यह git को इस परियोजना के दूसरे संस्करण निर्दिष्ट यूआरएल में मौजूद बताने का एक तरीका है और हम इसे मास्टर बुला रहे हैं। एक बार परिवर्तन विलय कर रहे हैं, मेरे रिपॉजिटरी के नए संस्करण लाने।
-
+これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを master と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
 ```
 git fetch upstream
 ```
 
-यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है।
 
+ここで私のフォークレポジトリ（上流のリモート）のすべての変更を取得しています。今度は、新しいリポジトリのリビジョンを master ブランチにマージする必要があります。
 ```
 git rebase upstream/master
 ```
 
-यहाँ आप सभी परिवर्तनों को आप गुरु शाखा को दिलवाया आवेदन कर रहे हैं। तुम अब मास्टर शाखा धक्का, अपने कांटा भी परिवर्तन होगा
-
+ここでは、取得したすべての変更を master ブランチに適用します。master ブランチを押した場合、フォークにも変更が加えられます
 ```
 git push origin master
 ```
+ここでは remote に移動していることに注目してください
 
-यहां सूचना आप दूरदराज के नाम पर रखा मूल करने के लिए जोर दे रहे हैं।
+## 次のステップ
 
-## यहाँ से कहाँ जाएं ?
+初心者向けの不具合を [contributor.ninja](https://contributor.ninja) 見つけられます。
 
-आप : [Contributor.ninja](https://contributor.ninja) पर कई शुरुआत के अनुकूल मुद्दों मिलेगा।
-
-यहाँ लोकप्रिय रेपो कि आप को हल कर सकते हैं में कुछ शुरुआत के स्तर के मुद्दों है। आगे बढ़ो और अधिक जानने के लिए उन रेपो करने के लिए जाना
+ここでは、人気のあるレポジトリにいくつかの初心者レベルの不具合がまとめてあります。レポジトリにアクセスして詳細を調べてみてください：
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
