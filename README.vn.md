@@ -100,7 +100,7 @@ git push origin master
 ```
 Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
 
-## Tiếp tục tử đây?
+## Tiếp tục đóng góp?
 
 Bạn sẽ tìm thấy nhiều vấn đề (issues) dễ cho người bắt đầu tại: [contributor.ninja](https://contributor.ninja).
 
