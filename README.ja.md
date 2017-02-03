@@ -84,9 +84,9 @@ GitHub であなたのリポジトリに行くと、 `Compare＆pull request` �
 
 今、私はこのプロジェクトの master ブランチにすべての変更をマージしています。しかしあなたのフォークしたレポジトリにはどのような変更は加えられていません。あなたのフォークしたレポジトリと元のレポジトリとの変更を同期させるために、私のレポジトリのURLを「上流のリモート URL 」として追加する必要があります：
 ```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
+git remote add upstream https://github.com/multunus/first-contributions
 ```
-これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを master と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
+これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを upstream と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
 ```
 git fetch upstream
 ```
