@@ -1,110 +1,110 @@
-# First Contributions
+# Đóng góp đầu tiên
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md).*
+*Đọc bản hướng dẵn này trong các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md).*
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
+Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
-## Fork this repository
+## Fork kho mã nguồn này
 
-Fork this repo by clicking on the fork button
+Fork kho mã nguồn này bằng cách nhấn vào nút Fork
 
-## Clone the repository
+## Sao chép (clone) kho mã nguồn
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
 
-Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
+Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
 
-Open a terminal and run the following git command:
+Mở một bộ xử lý terminal và chạy lệnh git sau đây:
 
 ```
-git clone "url you just copied"
+git clone "url bạn vừa sao chép"
 ```
-Where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Ví dụ:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Where 'this-is-you' is your github username. Here you're copying the contents of first-contributions repository in github to your computer
+Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
 
-## Create a branch
+## Tạo một chi nhánh (branch)
 
-Change to the repository directory on your computer if you are not already there.
+Thay đổi thư mục lưu trữ trên máy tính của bạn nếu bạn chưa làm điều này.
 
 ```
 cd first-contributions
 ```
-Now create a branch using `git checkout command`
+Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
 ```
-git checkout -b <add-your-name>
-```
-
-For example:
-```
-git checkout -b add-alonzo-church
+git checkout -b <them-ten-ban>
 ```
 
-## Make necessary changes and commit those changes
+Ví dụ:
+```
+git checkout -b them-Tran-Ly-Vu
+```
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. If you go to the project directory and do `git status`, you'll see there are changes. Add those changes using the below `git add` commad.
+## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
+
+Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the below `git commit` command.
+Bây giờ chấp nhận những thay đổi bằng cách sử dụng dòng lệnh 'git commit` dưới đây.
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Them <ten-ban> vào danh sách Cộng tác viên"
 ```
-replace `<your-name>` with your name
+thay thế `<ten-ban>` với tên của bạn
 
-## Push changes to github
+## Đẩy thay đổi lên github
 
-Push your changes using `git push`
+Đẩy những thay đổi của bạn sử dụng `git push`
 ```
-git push origin <add-your-name>
+git push origin <them-ten-ban>
 ```
-Replace `<add-your-name>` with the name of the branch you created earlier
+Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó
 
-## Submit your changes for review
+## Gửi những thay đổi của bạn để được xem xét
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nút `Compare & pull request`.Nhấp vào nút đó.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Bây giờ gửi yêu cầu kéo.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## Keeping your fork synced with this repository
+## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
 
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes. In order to keep your fork synced with mine, add my repo's url as `upstream remote url`.
+Bây giờ tôi sẽ sáp nhập tất cả các thay đổi của bạn vào chi nhánh chủ (master) của dự án này. Fork của bạn sẽ không có những thay đổi này. Để giữ bản sao của bạn được đồng bộ hóa với kho lưu thữ của tôi, thêm url của kho mã nguồn của tôi như là một `upstream remote url`.
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it master. Once the changes are merged, fetch the new version of my repository.
+Đây là một cách để nói với git rằng một phiên bản khác của dự án này đang tồn tại trong một url khác và chúng ta gọi đó là phiên bản chủ (master). Một khi các thay đổi được sáp nhập, kéo phiên bản mới này đang nằm trong kho mã nguồn của tôi.
 ```
 git fetch upstream
 ```
 
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
+Ở đây chúng ta lấy tất cả những thay đổi trong fork của tôi (upstream remote). Bây giờ, bạn cần phải hợp nhất các phiên bản mới của kho mã nguồn của tôi vào chi nhánh chủ (master) của bạn.
 ```
 git rebase upstream/master
 ```
-Here you're applying all the changes you fetched to master branch. If you push master branch now, your fork will also have the changes
+Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
 ```
 git push origin master
 ```
-Notice here you're pushing to the remote named origin.
+Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
 
-## Where to go from here?
+## Tiếp tục đóng góp?
 
-You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
+Bạn sẽ tìm thấy nhiều vấn đề (issues) dễ cho người bắt đầu tại: [contributor.ninja](https://contributor.ninja).
 
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+Dưới đây là một số vấn đề cho người bắt đầu trong các kho mã nguồn phổ biến mà bạn có thể tham gia đóng góp. Nhấn vào những kho mã nguồn này để tìm hiểu thêm
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
