@@ -33,3 +33,4 @@
 - [thibmaek](https://github.com/thibmaek)
 - [Shrut] (https://github.com/shrut1996)
 - [webgene] (https://github.com/webgene)
+- [solodynamo] (https://github.com/solodynamo)
