@@ -81,7 +81,7 @@ Añade la url de mi repositorio como `upstream remote url`
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Este es una manera de decirle a git que otra versión de este proyecto existe en esa url y nosotros estamos llamando a su master.
+Este es una manera de decirle a git que otra versión de este proyecto existe en esa url y nosotros estamos llamando a su upstream.
 
 ```
 git fetch upstream

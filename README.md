@@ -85,7 +85,7 @@ Now I'll be merging all your changes into the master branch of this project. You
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it master. Once the changes are merged, fetch the new version of my repository.
+This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
 ```
 git fetch upstream
 ```

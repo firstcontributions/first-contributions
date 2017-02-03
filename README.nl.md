@@ -82,7 +82,7 @@ Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het master zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
+Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
 ```
 git fetch upstream
 ```

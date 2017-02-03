@@ -86,7 +86,7 @@ GitHub であなたのリポジトリに行くと、 `Compare＆pull request` �
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを master と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
+これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを upstream と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
 ```
 git fetch upstream
 ```
