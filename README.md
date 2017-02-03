@@ -2,7 +2,11 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
+<<<<<<< HEAD
 *Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md) [Russian](README.ru.md) [Japanese](README.ja.md) Vietnamese](README.vn.md)*
+=======
+*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Vietnamese](README.vn.md)*
+>>>>>>> c40c2359f24eb1bf27ee9122fe6746ccde1d4234
 
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 

@@ -2,7 +2,11 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
 
+<<<<<<< HEAD
 * Đọc bản hướng dẵn này trong các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md) [Tiếng Nga](README.ru.md) [Tiếng Nhật](README.ja.md) [Tiếng Việt](README.vn.md)*
+=======
+* Đọc bản hướng dẵn này trong các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Việt](README.vn.md)*
+>>>>>>> c40c2359f24eb1bf27ee9122fe6746ccde1d4234
 
 Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
