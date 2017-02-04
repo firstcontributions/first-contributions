@@ -36,3 +36,4 @@
 - [solodynamo] (https://github.com/solodynamo)
 - [wilgjah] (https://github.com/wilkinv)
 - [kamdz] (https://github.com/kamdz)
+- [Tran Ly Vu] (https://github.com/tranlyvu)
