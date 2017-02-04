@@ -1,105 +1,109 @@
+# Pierwsze kontrybucje
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+*Przeczytaj to w innych językach: [Angielski](README.md), [Hiszpański](README.es.md), [Holenderski](README.nl.md), [Hindi](README.hi.md), [Rosyjski](README.ru.md), [Japoński](README.ja.md), [Wietnamski](README.vn.md).*
 
-## Deze repo forken
+Jeżeli nie masz gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ )
 
-Fork deze repo door op de fork knop te klikken
+## Fork repozytorium
 
-## De repo clonen
+Zrobisz swoją kopię tego repozytorum naciskając przycisk fork
+
+## Klonowanie repozytorium
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
+Teraz skopiuj to na swój komputer. Kliknij przycisk clone, a następnie ikonę schowka
 
-Open een terminal en voer volgend git commando uit:
+Otwórz konsolę i uruchom komendę git:
 
 ```
-git clone "url die je net kopieerde"
+git clone "wklej skopiowany adres"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+Gdzie "wklej skopiowany adres" (bez cudzysłowiów) to adres tego repozytorium. Zobacz poprzedni krok jak skopiować ten adres.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Bijvoorbeeld:
+Przykład:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
+Gdzie 'this-is-you' to Twój login na githubie. Tu ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer
 
-## Een branch aanmaken
+## Zakładanie gałęzi
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+Wejdź w folder ze swoim repozytorium jeżeli jeszcze tam nie jesteś.
 
 ```
 cd first-contributions
 ```
-Maak nu een branch aan door middel van het `git checkout command`
+Teraz utwórz nową gałąź wykonując `git checkout command`
 ```
-git checkout -b <je-nieuwe-branch-naam>
-```
-
-Bijvoorbeeld:
-```
-git checkout -b add-thibmaek
+git checkout -b <add-your-name>
 ```
 
-## Maak de benodigde wijzigingen en commit deze
+Przykład
+```
+git checkout -b add-alonzo-church
+```
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+## Zrób potrzebne zmiany i scommituj je
+
+Otwórz plik `Contributors.md` w edytorze tekstu, dodaj swoje dane i zapisz go. Jeżeli będziesz w folderze repozytorium i zrobisz `git status` to zobaczysz te zmiany. Dodaj te zmiany przy pomocy komendy `git add`.
 ```
 git add Contributors.md
 ```
 
-Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
+Teraz scommituj te zmiany wykonując komendę `git commit`.
 ```
-git commit -m "Add <jouw-naam> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
-vervang `<jouw-naam>` met jouw naam
+Zastąp `<your-name>` swoim loginem
 
-## Push de wijzigingen naar Github
+## Wysyłanie zmian github
 
-Push je wijzigingen met `git push`
+Wyślij swoje zmiany komendą `git push`
 ```
-git push origin <je-nieuwe-branch-naam>
+git push origin <add-your-name>
 ```
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+Zastąp `<add-your-name>` nazwą gałęzi, którą wcześniej utworzyłeś
 
-## Verstuur je wijzigingen voor review
+## Wyślij swoje zmiany do recenzji
 
-Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
+Jeżeli wejdziesz w swoje repozytorium na githubie, to zobaczysz przycisk `Compare & pull request`. Kliknij go.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Verstuur nu je pull request.
+Teraz wyślij żądanie scalenia.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## Je fork in sync houden met de hoofd-repository
+## Utrzymywanie swojej kopii aktualnej
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
+Jeżeli jakieś zmiany zostaną dołączone do głównej gałęzi tego projektu, Twoja kopia nie zobaczy tego. Musisz zsynchronizować swoją kopię z głownym repozytorium, dodaj adres tego repozytorium jako nadrzędny `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
+Dzięki temu git będzie wiedzieć, że istnieje taki sam projekt pod tym adresem i jest nadrzędny. Gdy zajdą w nim zmiany zostaną musisz pobrać nową wersję repozytorium.
 ```
 git fetch upstream
 ```
 
-Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
+Tu ściągamy zmiany z nadrzędnego repozytorium. Teraz musimy je dołączyć do naszej kopii.
 ```
 git rebase upstream/master
 ```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
+Akceptujemy wszystkie zmiany, które przyszły do naszej gałęzi głównej. Teraz jeżeli wypchniemy naszą gałąź głowną to będzie już zawierać te zmiany.
 ```
 git push origin master
 ```
-Merk op dat je in dit geval pusht naar de remote met de naam origin.
 
-## Verdergaan van hieruit
+## Co dalej?
 
-Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
+Znajdziesz dużo łatwych do zrobienia rzeczy na: [contributor.ninja](https://contributor.ninja).
+
+Oto lista popularnych projektów, w których jest dużo łatwych rzeczy do zrobienia. Miłej nauki!
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
