@@ -37,3 +37,4 @@
 - [wilgjah] (https://github.com/wilkinv)
 - [kamdz] (https://github.com/kamdz)
 - [Tran Ly Vu] (https://github.com/tranlyvu)
+- [Raghav Sethi] (https://github.com/rghv96)
