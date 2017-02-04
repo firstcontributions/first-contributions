@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
 
-*Đọc bản hướng dẵn này trong các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md).*
+*Đọc bản hướng dẵn này bằng các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md).*
 
 Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
@@ -33,7 +33,7 @@ Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây b
 
 ## Tạo một chi nhánh (branch)
 
-Thay đổi thư mục lưu trữ trên máy tính của bạn nếu bạn chưa làm điều này.
+Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
 
 ```
 cd first-contributions
