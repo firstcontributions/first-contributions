@@ -34,6 +34,7 @@
 - [Shrut] (https://github.com/shrut1996)
 - [webgene] (https://github.com/webgene)
 - [solodynamo] (https://github.com/solodynamo)
+- [nicolas oppitz] (https://github.com/nickoppitz)
 - [wilgjah] (https://github.com/wilkinv)
 - [kamdz] (https://github.com/kamdz)
 - [Tran Ly Vu] (https://github.com/tranlyvu)
