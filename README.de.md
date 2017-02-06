@@ -1,110 +1,108 @@
 # First Contributions
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets/fork.png" alt="Repository forken" />
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md).*
+Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
+## Repository forken
 
-## Fork this repository
+Forke das Repo durch klicken auf den fork button
 
-Fork this repo by clicking on the fork button
+## Repository klonen
 
-## Clone the repository
+<img align="right" width="300" src="assets/clone.png" alt="Repository klonen" />
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+Klone das Repo auf deinen Computer. Klicke auf den clone button und anschliessend auf das "copy to clipboard" icon
 
-Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
-
-Open a terminal and run the following git command:
+Öffne ein terminal gib das folgende git Kommando ein:
 
 ```
-git clone "url you just copied"
+git clone "Deine kopierte URL"
 ```
-Where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+Statt 'Deine kopierte URL' (ohne Anführungszeichen) füge die Repository URL aus dem vorherigen Schritt ein.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="URL kopieren" />
 
-For example:
+Beispiel:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/dein-account/first-contributions.git
 ```
-Where 'this-is-you' is your github username. Here you're copying the contents of first-contributions repository in github to your computer
+An der Stelle 'dein-account' muss dein Github Username stehen. Hier landet die Kopie deines first-contributions repository von Github.
 
-## Create a branch
+## Erstelle einen Branch
 
-Change to the repository directory on your computer if you are not already there.
+Wechsle zum Repository Verzeichnis auf deinem Computer, falls du es nicht schon getan hast.
 
 ```
 cd first-contributions
 ```
-Now create a branch using `git checkout command`
+Erstelle nun einen Branch mit dem Befehl `git checkout command`
 ```
-git checkout -b <add-your-name>
-```
-
-For example:
-```
-git checkout -b add-alonzo-church
+git checkout -b <add-dein-name>
 ```
 
-## Make necessary changes and commit those changes
+Beispiel:
+```
+git checkout -b add-max-mustermann
+```
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. If you go to the project directory and do `git status`, you'll see there are changes. Add those changes using the below `git add` commad.
+## Mache die nötigen Änderungen and committe sie
+
+Öffne `Contributors.md` in einem Text-Editor, füge deinen Namen hinzu und speichere die Datei. Gibst du im Terminal nun `git status` ein, siehst du die Änderungen. Füge die Änderungen mit dem Befehl `git add` hinzu.
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the below `git commit` command.
+Nun committest du mit `git commit`.
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <dein-name> to Contributors list"
 ```
-replace `<your-name>` with your name
+Ersetze `<dein-name>` mit deinem Namen.
 
-## Push changes to github
+## Pushe die Änderung zu Github
 
-Push your changes using `git push`
+Pushe die Änderungen mit `git push`
 ```
-git push origin <add-your-name>
+git push origin <add-dein-name>
 ```
-Replace `<add-your-name>` with the name of the branch you created earlier
+Ersetze `<add-dein-name>` mit dem Namen des Branches, den du zuvor erstellt hast.
 
-## Submit your changes for review
+## Sende deine Änderungen zum Review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen `Compare & pull request` button. Klicke darauf.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="Erstelle einen pull request" />
 
-Now submit the pull request.
+Erstelle einen Pull Request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull.png" alt="Pull Request senden" />
 
-## Keeping your fork synced with this repository
+## Halte deinen Fork syncron
 
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes. In order to keep your fork synced with mine, add my repo's url as `upstream remote url`.
+Ich werde nun deine Änderungen in den Master Branch dieses Projekts mergen. In deinen Fork werden die Änderungen aber nicht übernommen. Damit er synchronisiert bleibt, füge meine Repo URL mit `upstream remote url` hinzu.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
+Auf diese Weise sagst du Git, dass es noch eine andere Version dieses Projekts gibt, die wir upstream nennen. Sobald die Änderungen gemerged sind, lade die neueste Version des Repository's.
 ```
 git fetch upstream
 ```
 
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
+Hier laden wir alle Änderungen meines Forks herunter (upstream remote). Nun musst du die neueste Version meines Repository's in deinen Master Branch mergen.
 ```
 git rebase upstream/master
 ```
-Here you're applying all the changes you fetched to master branch. If you push master branch now, your fork will also have the changes
+So wendest du alle Änderungen, die du heruntergeladen hast, in den Master Branch. Wenn du den Master Branch jetzt pushst, ist auch dein Fork wieder aktuell.
 ```
 git push origin master
 ```
-Notice here you're pushing to the remote named origin.
+Beachte, dass du hier zum Remote names origin pushen musst.
 
-## Where to go from here?
+## Wie geht es weiter?
 
-You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
+Du findest viele anfängerfreundliche issues unter: [contributor.ninja](https://contributor.ninja).
 
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+Hier sind einige Anfänger-Level issues in bekannten repos die du lösen kannst. Schau sie dir an und erfahre mehr darüber
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
