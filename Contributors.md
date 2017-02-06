@@ -40,3 +40,4 @@
 - [Tran Ly Vu] (https://github.com/tranlyvu)
 - [Raghav Sethi] (https://github.com/rghv96)
 - [Sherfin Shamsudeen] (https://github.com/sherfin94)
+- [diego oppitz] (https://github.com/diegooppitz) 
