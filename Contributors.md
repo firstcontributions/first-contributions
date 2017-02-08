@@ -1,4 +1,5 @@
 - [ Dominic Valenciana] (https://github.com/Kiricon)
+- [Aswin Sanakan](https://github.com/aswinsanakan)
 - [ shreya bhandare ]( https://github.com/shreab373 )
 - [ Lord Adarsh ]( https://github.com/adarsh-why )
 - [ Roshan Jossey ]( https://github.com/Roshanjossey )
@@ -43,3 +44,5 @@
 - [diego oppitz] (https://github.com/diegooppitz)
 - [Tom Lutzenberger](https://github.com/tomlutzenberger)
 - [Rares Matei](https://github.com/rarmatei)
+- [Aditya Vishwekar](https://github.com/adityavishwekar)
+
