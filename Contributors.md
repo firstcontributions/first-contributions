@@ -48,3 +48,4 @@
 - [Eloisa Guerrero] (http:s//github.com/grrrero)
 - [Santhosh] (https://github.com/sanreddevils)
 - [Prakhar tripathi]
+- [Ji Wu](https://github.com/j1wu)
