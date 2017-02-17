@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Przeczytaj to w innych językach: [Angielski](README.md), [Hiszpański](README.es.md), [Holenderski](README.nl.md), [Hindi](README.hi.md), [Rosyjski](README.ru.md), [Japoński](README.ja.md), [Wietnamski](README.vn.md).*
+*Przeczytaj to w innych językach: [Angielski](README.md), [Hiszpański](README.es.md), [Holenderski](README.nl.md), [Hindi](README.hi.md), [Rosyjski](README.ru.md), [Japoński](README.ja.md), [Wietnamski](README.vn.md), [Greek](README.gr.md).*
 
 Jeżeli nie masz gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ )
 
