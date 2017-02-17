@@ -1,3 +1,4 @@
+- [Chris Winsor](https://github.com/cwinsor)
 - [ Dominic Valenciana] (https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
 - [ shreya bhandare ]( https://github.com/shreab373 )
