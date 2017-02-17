@@ -49,3 +49,4 @@
 - [Santhosh] (https://github.com/sanreddevils)
 - [Prakhar tripathi]
 - [Ji Wu](https://github.com/j1wu)
+- [Sota Yamashita](https://github.com/sotayamashita)
