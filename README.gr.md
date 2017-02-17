@@ -1,113 +1,114 @@
-# First Contributions
+# Πρώτη Συνεισφορά
+
+Είναι πάντα πολύ δύσκολο όταν κάνεις κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεσαι με άλλους και κάνεις λάθη, η κατάσταση γίνεται ιδιαίτερη άβολη. Αλλά το σημαντικότερο πράγμα στο ανοιχτό λογισμικό είναι η συνεργασία και να δουλεύουμε μαζί. Θέλαμε να απλοποιήσουμε τον τρόπο με τον οποίο οι άνθρωποι που για πρώτη φορά συνεισφέρουν στο ανοιχτό λογισμικό, μαθαίνουν και κάνουν πράγματα.
+
+Μπορείτε να βοηθηθήτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να κάνετε στην πραγματικότητα πράγματα χώρις να χαλάτε κάτι. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε οτι όσο πιο χαλαροί έιστε τόσο πιο έυκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά κώδικα, ακολουθήστε τα επόμενα απλά βήματα. Σας υποσχόμαστε οτι θα το διασκεδάσετε.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [英語](README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md), [Greek](README.gr.md)*
+*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
 
-まだ Git をインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/) からインストールしてください
+Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 
-## レポジトリをフォーク
+## Αντιγράψτε το πρόγραμμα (fork)
 
-Fork ボタンをクリックしてこのレポジトリをフォークしてください
+Αντιγράψτε το πρόγραμμα πατώντας το κουμπί με τίτλο `Fork` στην κορυφή αυτής της σελίδας. Με αυτό τον τρόπο ένα ακριβές αντίγραφο του προγράμματος θα δημιουργηθεί στο λογαριασμό σας.
 
-## レポジトリをクローン
+## Αποθηκεύστε τοπικά το πρόγραμμα (clone)
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-レポジトリをクローンします。Clone or Download ボタンをクリックしてクリップボードアイコンをクリックしてください。
+Τώρα αποθηκεύστε το πρόγραμμα στον υπολογιστή σας. Κάντε κλικ στο κουμπί `Clone or download` και μετά στο εικονίδιο δεξιά απο το σύνδεσμο για αντιγραφή στο πρόχειρο.
 
-ターミナルを開いて以下のコマンドを実行してください：
+Ανοίξτε ένα τερματικό και τρέξτε την ακόλουθη git εντολή:
 
 ```
-git clone "コピーした URL"
+git clone "αντεγραμμένος σύνδεσμος"
 ```
-"コピーした URL" (ダブルクオーテーションは除いてください) をコピーしたレポジトリの URL と置き換えてください。
+Όπου "αντεγραμμένος σύνδεσμος" (χωρίς τα εισαγωγικά) είναι ο σύνδεσμος για αυτό το πρόγραμμα. Δείτε τα προηγούμενα βήματα για να βρείτε αυτό το σύνδεσμο.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-例：
+Για παράδειγμα:
 ```
-git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
-'あなたのユーザー名' はご自身の GitHub ユーザー名に置き換えてください。ここでは GitHub のリポジトリの内容をあなたのコンピュータにコピーします。
+Όπου 'this-is-you' είναι το όνομα χρήστη σας στο github. Εδώ αντιγράφετε τα περιεχόμενα του προγράμματος `first-contributions` απο το github στον υπολογιστή σας.
 
-## ブランチを作成
+## Δημιουργήστε ένα νέο παρακλάδι (branch)
 
-もしレポジトリのディレクトリにいなければそこまで移動してください。
+Μεταφερθείτε στο φάκελλο του προγράμματος στον υπολογιστή σας εάν δεν είστε ήδη εκεί.
 
 ```
 cd first-contributions
 ```
-`git checkout command`　コマンドを使用してブランチを作成します：
+Τώρα δημιουργείστε ένα νέο παρακλάδι χρησιμοποιώντας `git checkout command`
 ```
 git checkout -b <add-your-name>
 ```
 
-例:
+Για παράδειγμα:
 ```
 git checkout -b add-alonzo-church
 ```
 
-## コードを変更してその変更をコミット
+## Πραγματοποιήστε αλλαγές και σώστε τες (add & commit)
 
-テキストエディタで `Contributors.md` ファイルを開いてあなたの名前を追加し、ファイルを保存します。プロジェクトディレクトリに移動して `git status` を実行すると、変更があることがわかります。以下の `git add` コマンドを使ってそれらの変更を適用してください。
+Τώρα ανοίξτε το αρχείο `Contributors.md` προς επεξεργασία και προσθέστε το όνομα σας σε αυτό, έπειτα σώστε το αρχείο. Εάν πάτε στο φάκελλο του προγράμματος και τρέξετε `git status`, θα δείτε ότι υπάρχουν αλλαγές. Προσθέστε αυτές τις αλλαγές χρησιμοποιώντας την εντολή `git add`.
 ```
 git add Contributors.md
 ```
 
-
-以下の `git commit`コマンドを使ってこれらの変更をコミットします。
+Τώρα σώστε αυτές τις αλλαγές χρησιμοποιώντας την παρακάτω `git commit` εντολή.
 ```
-git commit -m "Add <あなたの名前> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
-`<あなたの名前>` をご自身の名前に置き換えてください
+όπου `<your-name>` αντικαταστήστε με το όνομα σας
 
-## GitHub に変更を push する
+## Αποθηκεύστε τις αλλαγές σας στο github (push)
 
-`git push` コマンドを使って変更を push してください
+Αποθηκεύστε τις αλλαγές σας χρησιμοποιώντας `git push`
 ```
-git push origin <ブランチ名>
+git push origin <add-your-name>
 ```
-`<ブランチ名>` を先程作ったブランチ名にへんこうしてください
+όπου `<add-your-name>` αντικαταστήστε με το όνομα του branch που δημιουργήσατε προηγουμένως
 
-## レビューのためにプルリクエストを送る
+## Υποβάλλετε τις αλλαγές σας για έλεγχο
 
-GitHub であなたのリポジトリに行くと、 `Compare＆pull request` ボタンが表示されます。そのボタンをクリックしてください。
+Εάν πάτε στο repository στο github θα δείτε ένα κουμπί με τίτλο `Compare & pull request`. Κλικάρετε αυτό το κουμπί.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-プルリクエストを作ってください：
+Τώρα υποβάλλετε την pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## ォークしたレポジトリと元のレポジトリを同期させる
+## Διατηρείστε το αντίγραφο σας συγχρονισμένο με το αυθεντικό πρόγραμμα
 
-今、私はこのプロジェクトの master ブランチにすべての変更をマージしています。しかしあなたのフォークしたレポジトリにはどのような変更は加えられていません。あなたのフォークしたレポジトリと元のレポジトリとの変更を同期させるために、私のレポジトリのURLを「上流のリモート URL 」として追加する必要があります：
+Τώρα θα ενσωματώσω όλες τις αλλαγές σας στο master branch του προγράμματος. Το αντίγραφο σας δε θα έχει τις αλλαγές αυτές. Για να διατηρήσετε το αντίγραφο σας συγχρονισμένο με το δικό μου, προσθέστε τη διεύθυνση του δικού μου σαν `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを upstream と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
+Αυτός είναι ο τρόπος για να πείτε οτι μια άλλη έκδοση του υφιστάμενου προγράμματος υπάρχει στην καθορισμένη διεύθυνση και την αποκαλούμε `upstream`. Μόλις οι αλλαγές ενσωματωθούν, τραβήξτε την νέα έκδοση απο το δικό μου repository.
 ```
 git fetch upstream
 ```
 
-
-ここで私のフォークレポジトリ（上流のリモート）のすべての変更を取得しています。今度は、新しいリポジトリのリビジョンを master ブランチにマージする必要があります。
+Με αυτόν τον τρόπο φέρνουμε όλες τις αλλαγές στο αντίγραφο μας (upstream remote). Τώρα πρέπει να ενσωματώσετε τη νέα έκδοση του δικού μου repository στο δικό σας master branch.
 ```
 git rebase upstream/master
 ```
-
-ここでは、取得したすべての変更を master ブランチに適用します。master ブランチを押した場合、フォークにも変更が加えられます
+Έτσι αποθηκεύετε όλες τις αλλαγές που φέρατε στο master branch. Εάν στείλετε τις αλλαγές για αποθήκευση, το αντίγραφο θα έχει τις αλλαγές επίσης.
 ```
 git push origin master
 ```
-ここでは remote に移動していることに注目してください
+Προσέξτε εδώ ότι στέλνετε τις αλλαγές στο απομακρυσμένο repository με τίτλο `origin`.
 
-## 次のステップ
+## Επόμενα βήματα
 
-初心者向けの不具合を [contributor.ninja](https://contributor.ninja) 見つけられます。
+Θα βρείτε πολλές φιλικές για αρχάριους εργασίες εδω: [contributor.ninja](https://contributor.ninja).
 
-ここでは、人気のあるレポジトリにいくつかの初心者レベルの不具合がまとめてあります。レポジトリにアクセスして詳細を調べてみてください：
+Εδώ είναι μερικές σχετικά εύκολες εργασίες για αρχαρίους οπου μπορείτε να φέρετε εις πέρας. Συνεχίστε και ρίξτε μια ματιά στα παρακάτω για να μάθετε περισσότερα:
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

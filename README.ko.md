@@ -5,7 +5,7 @@
 *Read this in other languages: [English](README.md), [Spanish](README.es.md),
 [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md),
 [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md),
-[Korean](README.ko.md).*
+[Korean](README.ko.md), [Greek](README.gr.md).*
 
 지금 Git 이 없으면 [설치](https://help.github.com/articles/set-up-git/)하세요.
 
