@@ -51,4 +51,5 @@
 - [Prakhar tripathi]
 - [Ji Wu](https://github.com/j1wu)
 - [Sota Yamashita](https://github.com/sotayamashita)
+- [Nishant Ranjan](https://github.com/darkfist)
 - [Fakiolas Marios](https://github.com/fakiolinho)
