@@ -55,3 +55,4 @@
 - [Nishant Ranjan](https://github.com/darkfist)
 - [Fakiolas Marios](https://github.com/fakiolinho)
 - [Praful Singh](https://github.com/prafulSingh)
+- [Rodrigo Cordova](https://github.com/Thrasheristico)
