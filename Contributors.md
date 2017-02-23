@@ -56,3 +56,4 @@
 - [Fakiolas Marios](https://github.com/fakiolinho)
 - [Praful Singh](https://github.com/prafulSingh)
 - [Rodrigo Cordova](https://github.com/Thrasheristico)
+- [Denis Orehovsky](https://github.com/apirobot)
