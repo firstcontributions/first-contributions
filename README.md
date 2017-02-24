@@ -1,6 +1,6 @@
-# First Contributions
+<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">
 
-<img align="right" src="https://slack.firstcontributors.com/badge.svg">
+# First Contributions
 
 Its hard. Its always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
