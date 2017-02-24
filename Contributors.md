@@ -47,9 +47,9 @@
 - [Tom Lutzenberger](https://github.com/tomlutzenberger)
 - [Rares Matei](https://github.com/rarmatei)
 - [Aditya Vishwekar](https://github.com/adityavishwekar)
-- [Eloisa Guerrero] (http:s//github.com/grrrero)
+- [Eloisa Guerrero] (https//github.com/grrrero)
 - [Santhosh] (https://github.com/sanreddevils)
-- [Prakhar tripathi]
+- [Prakhar tripathi] (https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
 - [Sota Yamashita](https://github.com/sotayamashita)
 - [Nishant Ranjan](https://github.com/darkfist)
