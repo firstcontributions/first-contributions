@@ -1,113 +1,112 @@
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+
 # First Contributions
+
+Its hard. Its always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [英語](README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md), [Greek](README.gr.md)*
+*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md).*
 
-まだ Git をインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/) からインストールしてください
+If you don't have GitHub Desktop on your machine, [ install it ]( https://desktop.github.com/ )
 
-## レポジトリをフォーク
+## Fork this repository
 
-Fork ボタンをクリックしてこのレポジトリをフォークしてください
+Fork this repo by clicking on the fork button on the top of this page.
+This will create of copy of this repository in your account.
 
-## レポジトリをクローン
+## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+Now clone this repo to your machine.
 
-レポジトリをクローンします。Clone or Download ボタンをクリックしてクリップボードアイコンをクリックしてください。
+Open the GitHub Desktop app and click on the `+` on the top left.
 
-ターミナルを開いて以下のコマンドを実行してください：
+<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
 
-```
-git clone "コピーした URL"
-```
-"コピーした URL" (ダブルクオーテーションは除いてください) をコピーしたレポジトリの URL と置き換えてください。
+If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-例：
-```
-git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
-```
-'あなたのユーザー名' はご自身の GitHub ユーザー名に置き換えてください。ここでは GitHub のリポジトリの内容をあなたのコンピュータにコピーします。
+Choose the directory on your machine you would like to clone first-contributions into 
 
-## ブランチを作成
+<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
-もしレポジトリのディレクトリにいなければそこまで移動してください。
+Now you have copied the contents of the first-contributions repository in github to your computer.
 
-```
-cd first-contributions
-```
-`git checkout command`　コマンドを使用してブランチを作成します：
-```
-git checkout -b <add-your-name>
-```
+## Create a branch
 
-例:
-```
-git checkout -b add-alonzo-church
-```
+Now create a branch by clicking on the branch icon at the top left:
 
-## コードを変更してその変更をコミット
+<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
 
-テキストエディタで `Contributors.md` ファイルを開いてあなたの名前を追加し、ファイルを保存します。プロジェクトディレクトリに移動して `git status` を実行すると、変更があることがわかります。以下の `git add` コマンドを使ってそれらの変更を適用してください。
-```
-git add Contributors.md
-```
+Name your branch add-your-name. For example, add-crawleya
 
+Click on `Create new branch`
 
-以下の `git commit`コマンドを使ってこれらの変更をコミットします。
-```
-git commit -m "Add <あなたの名前> to Contributors list"
-```
-`<あなたの名前>` をご自身の名前に置き換えてください
+<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
 
-## GitHub に変更を push する
+## Make necessary changes and commit those changes
 
-`git push` コマンドを使って変更を push してください
-```
-git push origin <ブランチ名>
-```
-`<ブランチ名>` を先程作ったブランチ名にへんこうしてください
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
 
-## レビューのためにプルリクエストを送る
+You can see that there are changes to Contributors.md and they have been added.
 
-GitHub であなたのリポジトリに行くと、 `Compare＆pull request` ボタンが表示されます。そのボタンをクリックしてください。
+<img style="float: right;" src="assets/dt-status.png" alt="check status" />
+
+Now commit those changes:
+
+Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+
+Replace `<your-name>` with your name
+
+Click on the button that says `Commit to add-your-name`
+
+<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
+
+At the bottom, you can see that the commit has been created.
+
+<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
+
+## Push changes to github
+
+Click the `Publish` button on the top right.
+
+<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
+
+## Submit your changes for review
+
+If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-プルリクエストを作ってください：
+Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## ォークしたレポジトリと元のレポジトリを同期させる
+## Keeping your fork synced with this repository
 
-今、私はこのプロジェクトの master ブランチにすべての変更をマージしています。しかしあなたのフォークしたレポジトリにはどのような変更は加えられていません。あなたのフォークしたレポジトリと元のレポジトリとの変更を同期させるために、私のレポジトリのURLを「上流のリモート URL 」として追加する必要があります：
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-これは、指定された URL にこのプロジェクトの別のバージョンが存在することを Git に伝える方法で、これを upstream と呼んでいます。変更がマージされたら、新しいバージョンのリポジトリを取得します。
-```
-git fetch upstream
-```
+Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
+
+In order to keep your fork synced with mine, click `Sync` on the top right.
+
+<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
+
+When there are new commits to sync, click `Update from multunus/master`
+
+<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
+
+Hovering over `Update from multunus/master` will show you that you are up to date:
+
+<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
 
 
-ここで私のフォークレポジトリ（上流のリモート）のすべての変更を取得しています。今度は、新しいリポジトリのリビジョンを master ブランチにマージする必要があります。
-```
-git rebase upstream/master
-```
+## Where to go from here?
 
-ここでは、取得したすべての変更を master ブランチに適用します。master ブランチを押した場合、フォークにも変更が加えられます
-```
-git push origin master
-```
-ここでは remote に移動していることに注目してください
+You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
 
-## 次のステップ
-
-初心者向けの不具合を [contributor.ninja](https://contributor.ninja) 見つけられます。
-
-ここでは、人気のあるレポジトリにいくつかの初心者レベルの不具合がまとめてあります。レポジトリにアクセスして詳細を調べてみてください：
+Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -118,5 +117,3 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
-
-[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

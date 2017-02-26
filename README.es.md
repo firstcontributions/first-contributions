@@ -97,3 +97,5 @@ Si tú haces push en master branch ahora, tu fork también tendrá los cambios.
 git push origin master
 ```
 Date cuenta que aquí tú estas haciendo Push hacia el remoto llamado origin
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)
