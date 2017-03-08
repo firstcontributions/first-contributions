@@ -1,6 +1,6 @@
 # First Contributions
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [英語](README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md), [Greek](README.gr.md)*
 
@@ -12,7 +12,7 @@ Fork ボタンをクリックしてこのレポジトリをフォークしてく
 
 ## レポジトリをクローン
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 レポジトリをクローンします。Clone or Download ボタンをクリックしてクリップボードアイコンをクリックしてください。
 
@@ -23,7 +23,7 @@ git clone "コピーした URL"
 ```
 "コピーした URL" (ダブルクオーテーションは除いてください) をコピーしたレポジトリの URL と置き換えてください。
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 例：
 ```
@@ -74,11 +74,11 @@ git push origin <ブランチ名>
 
 GitHub であなたのリポジトリに行くと、 `Compare＆pull request` ボタンが表示されます。そのボタンをクリックしてください。
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 プルリクエストを作ってください：
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## ォークしたレポジトリと元のレポジトリを同期させる
 

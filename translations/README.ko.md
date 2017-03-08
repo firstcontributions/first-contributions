@@ -1,6 +1,6 @@
 # 첫 기여
 
-<img align="right" width="300" src="assets/fork.png" alt="이 저장소 포크하기" />
+<img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
 
 *Read this in other languages: [English](README.md), [Spanish](README.es.md),
 [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md),
@@ -15,7 +15,7 @@
 
 ## 저장소 복제하기
 
-<img align="right" width="300" src="assets/clone.png" alt="이 저장소 복제하기"
+<img align="right" width="300" src="../assets/clone.png" alt="이 저장소 복제하기"
 />
 
 이제 이 저장소를 자신의 기기에 복제합니다. 복제 버튼을 클릭하고 클립보드로 복사
@@ -30,7 +30,7 @@ git clone "방금 복사한 주소"
 (따옴표를 제외한) "방금 복사한 주소"는 이 저장소의 주소입니다. 주소를 얻으려면
 이전 단계를 참조하세요.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="URL 을
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="URL 을
 클립보드로 복사" />
 
 예시:
@@ -95,12 +95,12 @@ git push origin <add-your-name>
 깃허브의 당신의 저장소에 가면, `Compare & pull request` 버튼을 볼 수 있습니다.
 그 버튼을 클릭하세요.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="풀 요청
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="풀 요청
 생성하기" />
 
 이제 풀 요청을 제출합니다.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="풀 요청 제출하기"
+<img style="float: right;" src="../assets/submit-pull.png" alt="풀 요청 제출하기"
 />
 
 ## 포크한 저장소와 이 저장소 동기화하기

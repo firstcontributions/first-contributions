@@ -1,5 +1,5 @@
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
@@ -9,7 +9,7 @@ Fork deze repo door op de fork knop te klikken
 
 ## De repo clonen
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
 
@@ -20,7 +20,7 @@ git clone "url die je net kopieerde"
 ```
 Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Bijvoorbeeld:
 ```
@@ -70,11 +70,11 @@ Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaa
 
 Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Verstuur nu je pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## Je fork in sync houden met de hoofd-repository
 

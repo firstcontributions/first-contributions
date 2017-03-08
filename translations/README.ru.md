@@ -1,6 +1,6 @@
 # Первый вклад в проект
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md) [Japanese](README.ja.md), [Greek](README.gr.md)*
 
@@ -12,7 +12,7 @@
 
 ## Склонируйте репозиторий
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Теперь склонируйте ваш репозиторий на пк. Нажмите на кнопку "clone", а затем на иконку планшета, чтобы скопировать ссылку.
 
@@ -23,7 +23,7 @@ git clone "url you just copied"
 ```
 Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Например:
 ```
@@ -75,11 +75,11 @@ git push origin <add-your-name>
 
 Если вы зайдете в свой репозиторий на github, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Теперь подтвердите пулл-реквест.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## Синхронизируйте ваше ответвление с данным репозиторием
 

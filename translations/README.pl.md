@@ -1,6 +1,6 @@
 # Pierwsze kontrybucje
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Przeczytaj to w innych językach: [Angielski](README.md), [Hiszpański](README.es.md), [Holenderski](README.nl.md), [Hindi](README.hi.md), [Rosyjski](README.ru.md), [Japoński](README.ja.md), [Wietnamski](README.vn.md), [Greek](README.gr.md).*
 
@@ -12,7 +12,7 @@ Zrobisz swoją kopię tego repozytorum naciskając przycisk fork
 
 ## Klonowanie repozytorium
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Teraz skopiuj to na swój komputer. Kliknij przycisk clone, a następnie ikonę schowka
 
@@ -23,7 +23,7 @@ git clone "wklej skopiowany adres"
 ```
 Gdzie "wklej skopiowany adres" (bez cudzysłowiów) to adres tego repozytorium. Zobacz poprzedni krok jak skopiować ten adres.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Przykład:
 ```
@@ -73,11 +73,11 @@ Zastąp `<add-your-name>` nazwą gałęzi, którą wcześniej utworzyłeś
 
 Jeżeli wejdziesz w swoje repozytorium na githubie, to zobaczysz przycisk `Compare & pull request`. Kliknij go.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Teraz wyślij żądanie scalenia.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## Utrzymywanie swojej kopii aktualnej
 

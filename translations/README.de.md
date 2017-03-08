@@ -1,6 +1,6 @@
 # First Contributions
 
-<img align="right" width="300" src="assets/fork.png" alt="Repository forken" />
+<img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
@@ -10,7 +10,7 @@ Forke das Repo durch klicken auf den fork button
 
 ## Repository klonen
 
-<img align="right" width="300" src="assets/clone.png" alt="Repository klonen" />
+<img align="right" width="300" src="../assets/clone.png" alt="Repository klonen" />
 
 Klone das Repo auf deinen Computer. Klicke auf den clone button und anschliessend auf das "copy to clipboard" icon
 
@@ -21,7 +21,7 @@ git clone "Deine kopierte URL"
 ```
 Statt 'Deine kopierte URL' (ohne Anführungszeichen) füge die Repository URL aus dem vorherigen Schritt ein.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="URL kopieren" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="URL kopieren" />
 
 Beispiel:
 ```
@@ -71,11 +71,11 @@ Ersetze `<add-dein-name>` mit dem Namen des Branches, den du zuvor erstellt hast
 
 Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen `Compare & pull request` button. Klicke darauf.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="Erstelle einen pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="Erstelle einen pull request" />
 
 Erstelle einen Pull Request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="Pull Request senden" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
 ## Halte deinen Fork syncron
 

@@ -1,6 +1,6 @@
 # Đóng góp đầu tiên
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />  
 
 *Đọc bản hướng dẵn này bằng các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md), [Greek](README.gr.md).*
 
@@ -12,7 +12,7 @@ Fork kho mã nguồn này bằng cách nhấn vào nút Fork
 
 ## Sao chép (clone) kho mã nguồn
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />  
 
 Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
 
@@ -23,7 +23,7 @@ git clone "url bạn vừa sao chép"
 ```
 Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Ví dụ:
 ```
@@ -73,11 +73,11 @@ Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước 
 
 Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nút `Compare & pull request`.Nhấp vào nút đó.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Bây giờ gửi yêu cầu kéo.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
 

@@ -1,6 +1,6 @@
 # First Contributions
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *其他語言版本: [英語](README.md), [西班牙語](README.es.md), [荷蘭語](README.nl.md), [印度語](README.hi.md), [俄語](README.ru.md), [日語](README.ja.md), [越南語](README.vn.md), [波蘭語](README.pl.md), [韓語](README.ko.md), [德語](README.de.md), [簡體中文](README.chs.md), [繁體中文](README.cht.md), [Greek](README.gr.md).*
 
@@ -13,7 +13,7 @@
 
 ## Clone（克隆）代碼倉庫
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 接下來將複製後的代碼倉庫克隆到你的電腦上，點擊圖示中的綠色按鈕，接著再點擊複製到剪切版按鈕（將代碼倉庫地址複製下來）
 
@@ -24,7 +24,7 @@ git clone "才複製的 url 鏈接"
 ```
 "才複製的 url 鏈接"（去掉雙引號）就是複製到你賬戶名下的代碼倉庫地址。如何獲取這個鏈接地址請見上一步。
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 譬如：
 ```
@@ -74,11 +74,11 @@ git push origin <分支的名稱>
 
 前往 Github 你的代碼倉庫，你會看到一個 `Compare & pull request` 的按鈕。點擊該按鈕。
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 接著再點擊 `Create pull request` 按鈕，正式提交 pull request。
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## 讓你複製的代碼倉庫和本倉庫保持一致
 
