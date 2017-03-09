@@ -2,7 +2,7 @@
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="200">|GitHub Desktop Edition|
+|<img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="200">|Visual Studio 2017 Edition|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -11,7 +11,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have GitHub Desktop on your machine, [ install it ]( https://desktop.github.com/ )
+If you don't have Visual Studio 2017 on your machine, [ install it ]( https://www.visualstudio.com/downloads/ )
 
 ## Fork this repository
 
@@ -20,61 +20,24 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Open the GitHub Desktop app and click on the `+` on the top left.
+Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
 
-<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
+*TBD*
 
-If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
-
-<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
-
-Choose the directory on your machine you would like to clone first-contributions into 
-
-<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
-
-Now you have copied the contents of the first-contributions repository in github to your computer.
 
 ## Create a branch
 
-Now create a branch by clicking on the branch icon at the top left:
-
-<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
-
-Name your branch add-your-name. For example, add-crawleya
-
-Click on `Create new branch`
-
-<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
+*TBD*
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+*TBD*
 
-You can see that there are changes to Contributors.md and they have been added.
+## Push changes to GitHub
 
-<img style="float: right;" src="assets/dt-status.png" alt="check status" />
-
-Now commit those changes:
-
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field
-
-Replace `<your-name>` with your name
-
-Click on the button that says `Commit to add-your-name`
-
-<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
-
-At the bottom, you can see that the commit has been created.
-
-<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
-
-## Push changes to github
-
-Click the `Publish` button on the top right.
-
-<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
+*TBD*
 
 ## Submit your changes for review
 
@@ -88,25 +51,13 @@ Now submit the pull request.
 
 ## Keeping your fork synced with this repository
 
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
-
-In order to keep your fork synced with mine, click `Sync` on the top right.
-
-<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
-
-When there are new commits to sync, click `Update from multunus/master`
-
-<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
-
-Hovering over `Update from multunus/master` will show you that you are up to date:
-
-<img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
+*TBD*
 
 ## Tutorials Using Other Tools
 
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|
 |---|---|
-|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
+|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|
 
 ## Where to go from here?
 
