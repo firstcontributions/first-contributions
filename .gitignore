@@ -41,3 +41,4 @@ coverage/
 # config
 #
 config.json
+/.vs
