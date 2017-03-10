@@ -9,11 +9,11 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-
-If you don't have Visual Studio 2017 on your machine, [ install it ]( https://www.visualstudio.com/downloads/ ).
+If you don't have Visual Studio 2017 on your machine, [install it](https://www.visualstudio.com/downloads/).
 
 ## Fork this repository
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 Fork this repo by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
@@ -26,31 +26,47 @@ GitHub keeps track of the relationship between your repo and the one you forked 
 The next step is to clone your repo down to your machine so you can begin making changes. Visual Studio needs the URL of your repo, so click the clone button and then 
 click the copy to clipboard icon.
 
-**CAREFUL:** One mistake new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browsers address bar and make sure you are cloning your repo.
+**CAREFUL:** One mistake new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
 
-Most GitHub repos have a small core team of people who can directly commit changes to the repo.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
-to ask for your changes to be merged back into the primary project. If the project owner likes your changes they will be merged.  More on how to do that later.
+Most top-level GitHub repos (i.e. they are not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
+to ask for their changes to be merged back into the primary project. If the project owner likes the changes they will be merged.  More on how to do that later.
 
-You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
+It is now time to jump in to Visual Studio 2017!  You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
 
 <img src="assets/vs2017-01-clone1.png" alt="Team Explorer" />
 
 Team Explorer has many views and there are navigation buttons located at the top to help you find the different areas.  To clone a repo, you need to be on the Connect view, which should be the
 default.  If you do not see the clone button, click the green plug at the top.
 
-Click `Clone` and paste the URL to your repo in the text box.  This is the URL you copied to your clipboard from GitHub in the previous step.
+Click the `Clone` option under **Local Git Repositories** and paste the URL to your repo in the text box.  This should be the URL you copied to your clipboard from GitHub previously.
 
-Click `Clone` to initiate the process.
+Click the `Clone` button to initiate the process.
 
 <img src="assets/vs2017-02-clone2.png" alt="Clone repo" />
 
-When the process is complete you will be moved over to the Solution Explorer tab and show the contents of your repo.  It will probably look different than this screenshot because things change!
+When the process is complete you will be moved over to the Solution Explorer tab where you can see the contents of your repo.  Yours will look different than the screenshot below because things change!
 
 <img src="assets/vs2017-03-clone3.png" alt="Solution Explorer" />
 
 ## Create a branch
 
-*TBD*
+Click back to the Team Explorer tab and use the main navigation dropdown to open the Branches view.
+
+<img src="assets/vs2017-04-branch1.png" alt="Branches view" />
+
+You should see the **first-contributions** repo and the default branch, which is called `master`.  Right-click on `master` and choose `New Local Branch From...`.
+
+<img src="assets/vs2017-05-branch2.png" alt="New branch" />
+
+Give your branch a name like `add-<your_name_here>`, for example `add-alonzo-church`.
+
+Leave the `Checkout branch` box checked and click the `Create Branch` button.
+
+<img src="assets/vs2017-06-branch3.png" alt="Create branch" />
+
+You should see your new branch in the list.
+
+<img src="assets/vs2017-07-branch4.png" alt="See new branch" />
 
 ## Make necessary changes and commit those changes
 
