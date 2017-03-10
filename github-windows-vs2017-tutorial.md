@@ -19,6 +19,9 @@ Fork this repo by clicking on the fork button on the top of this page. This will
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
+Most top-level GitHub repos (i.e. they are not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
+to ask for their changes to be merged back into the primary project. If the project owner likes the changes they will be merged.  More on how to do that later.
+
 ## Clone your repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
@@ -27,9 +30,6 @@ The next step is to clone your repo down to your machine so you can begin making
 click the copy to clipboard icon.
 
 **CAREFUL:** One mistake new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
-
-Most top-level GitHub repos (i.e. they are not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
-to ask for their changes to be merged back into the primary project. If the project owner likes the changes they will be merged.  More on how to do that later.
 
 It is now time to jump in to Visual Studio 2017!  You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
 
@@ -58,7 +58,7 @@ You should see the **first-contributions** repo and the default branch, which is
 
 <img src="assets/vs2017-05-branch2.png" alt="New branch" />
 
-Give your branch a name like `add-<your_name_here>`, for example `add-alonzo-church`.
+Give your branch a name like `add-<your_name_here>`, for example: `add-alonzo-church`.
 
 Leave the `Checkout branch` box checked and click the `Create Branch` button.
 
@@ -68,11 +68,15 @@ You should see your new branch in the list.
 
 <img src="assets/vs2017-07-branch4.png" alt="See new branch" />
 
-## Make necessary changes and commit those changes
+## Make necessary changes
 
-*TBD*
+Open `Contributors.md` and add your name to the end of the list. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
-## Push changes to GitHub
+Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
+
+<img src="assets/vs2017-08-change1.png" alt="Add your name" />
+
+## Commit & Push changes to GitHub
 
 *TBD*
 
