@@ -19,8 +19,8 @@ Fork this repo by clicking on the fork button on the top of this page. This will
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. they are not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
-to ask for their changes to be merged back into the primary project. If the project owner likes the changes they will be merged.  More on how to do that later.
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
+to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
 
 ## Clone your repository
 
@@ -78,17 +78,52 @@ Copy one of the other contributors&apos; lines and modify it with your name to m
 
 ## Commit & Push changes to GitHub
 
-*TBD*
+Switch back to Team Explorer and navigate to the Changes view.
+
+<img src="assets/vs2017-09-commit1.png" alt="Changes" />
+
+Enter the information you want posted with your commits and click `Save`. Once you set this Visual Studio will remember it for future commits.
+
+<img src="assets/vs2017-10-commit2.png" alt="Git user information" />
+
+**NOTE:** Visual Studio uses a hidden folder called `.vs` to store your settings and preferences.  These do not apply to anyone else and **should not be saved in Git**.
+If it has not been ignored already, you may need to tell Git to ignore this folder so it does not send it up to the repo.
+
+This folder has already been ignored in this repo, so you should not have to perform this step...it is just here for your reference on future projects.
+
+<img src="assets/vs2017-11-commit3.png" alt="Ignore vs folder" />
+
+You should see a list of files you have changed and a textbox to type a commit comment.  Comments should be brief but thorough.  There is nothing worse than reading through commit comments and
+seeing nothing but a list of comments like: `Updated some stuff`. Take a couple seconds to outline what is in the commit - your team will thank you and you might even thank yourself later!
+
+Click `Commit All and Push` to perform a local commit and push your changes back up to your repo, all in one step.
+
+**NOTE:** Commit and Push can be performed separately. Commit logs your changes locally but they will not be reflected in your GitHub repo until you Push.
+
+<img src="assets/vs2017-12-commit4.png" alt="Commit and Push" />
+
+The first time you Push to GitHub, Visual Studio will ask for your GitHub credentials.  They will be cached so you should not see this very often.
+
+<img src="assets/vs2017-13-commit5.png" alt="Login" />
+
+After the Push operation completes, open your repo in GitHub and you should see a message indicating a recently pushed branch.
+
+You can view your changes by opening the `Branch: master` dropdown and selecting your new branch. Congratulations, you can share the branch URL with the world to show your progress!
+
+<img src="assets/vs2017-14-commit6.png" alt="View pushed branch on GitHub" />
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your
+change.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+In your repo on GitHub and you'll see the `Compare & pull request` button next to the new branch notification. Click that button.
+
+<img src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img src="assets/submit-pull.png" alt="submit pull request" />
 
 ## Keeping your fork synced with this repository
 
