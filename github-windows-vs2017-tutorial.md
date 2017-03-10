@@ -11,21 +11,42 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have Visual Studio 2017 on your machine, [ install it ]( https://www.visualstudio.com/downloads/ )
+If you don't have Visual Studio 2017 on your machine, [ install it ]( https://www.visualstudio.com/downloads/ ).
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create of copy of this repository in your account.
+Fork this repo by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
-## Clone the repository
+GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
+
+## Clone your repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
+The next step is to clone your repo down to your machine so you can begin making changes. Visual Studio needs the URL of your repo, so click the clone button and then 
+click the copy to clipboard icon.
 
-*TBD*
+**CAREFUL:** One mistake new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browsers address bar and make sure you are cloning your repo.
 
+Most GitHub repos have a small core team of people who can directly commit changes to the repo.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request 
+to ask for your changes to be merged back into the primary project. If the project owner likes your changes they will be merged.  More on how to do that later.
+
+You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
+
+<img src="assets/vs2017-01-clone1.png" alt="Team Explorer" />
+
+Team Explorer has many views and there are navigation buttons located at the top to help you find the different areas.  To clone a repo, you need to be on the Connect view, which should be the
+default.  If you do not see the clone button, click the green plug at the top.
+
+Click `Clone` and paste the URL to your repo in the text box.  This is the URL you copied to your clipboard from GitHub in the previous step.
+
+Click `Clone` to initiate the process.
+
+<img src="assets/vs2017-02-clone2.png" alt="Clone repo" />
+
+When the process is complete you will be moved over to the Solution Explorer tab and show the contents of your repo.  It will probably look different than this screenshot because things change!
+
+<img src="assets/vs2017-03-clone3.png" alt="Solution Explorer" />
 
 ## Create a branch
 
