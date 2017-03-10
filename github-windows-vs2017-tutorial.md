@@ -82,23 +82,23 @@ Switch back to Team Explorer and navigate to the Changes view.
 
 <img src="assets/vs2017-09-commit1.png" alt="Changes" />
 
-Enter the information you want posted with your commits and click `Save`. Once you set this Visual Studio will remember it for future commits.
+Enter the information you want posted with your commits and click `Save`. Visual Studio will remember it for future commits.
 
 <img src="assets/vs2017-10-commit2.png" alt="Git user information" />
 
-**NOTE:** Visual Studio uses a hidden folder called `.vs` to store your settings and preferences.  These do not apply to anyone else and **should not be saved in Git**.
+**NOTE:** Visual Studio uses a hidden folder called `.vs` to store your personal settings and preferences.  The contents of this folder **should not be saved in Git**.
 If it has not been ignored already, you may need to tell Git to ignore this folder so it does not send it up to the repo.
 
 This folder has already been ignored in this repo, so you should not have to perform this step...it is just here for your reference on future projects.
 
 <img src="assets/vs2017-11-commit3.png" alt="Ignore vs folder" />
 
-You should see a list of files you have changed and a textbox to type a commit comment.  Comments should be brief but thorough.  There is nothing worse than reading through commit comments and
-seeing nothing but a list of comments like: `Updated some stuff`. Take a couple seconds to outline what is in the commit - your team will thank you and you might even thank yourself later!
+Now you should see a list of changed files and a textbox to type a commit comment.  Comments should be brief but thorough.  There is nothing worse than reading through commit comments and
+seeing this: `"I updated some stuff"`. Take a few seconds to outline your commit.  Your team will thank you later, and you might even thank yourself!
 
 Click `Commit All and Push` to perform a local commit and push your changes back up to your repo, all in one step.
 
-**NOTE:** Commit and Push can be performed separately. Commit logs your changes locally but they will not be reflected in your GitHub repo until you Push.
+**NOTE:** Commit can be performed separately from Push.  We do both here for convenience. Commit logs your changes locally but they will not be reflected in your GitHub repo until you Push.
 
 <img src="assets/vs2017-12-commit4.png" alt="Commit and Push" />
 
@@ -117,7 +117,7 @@ You can view your changes by opening the `Branch: master` dropdown and selecting
 At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your
 change.
 
-In your repo on GitHub and you'll see the `Compare & pull request` button next to the new branch notification. Click that button.
+In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click that button.
 
 <img src="assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -127,7 +127,84 @@ Now submit the pull request.
 
 ## Keeping your fork synced with this repository
 
-*TBD*
+Over time the top-level repo will continue to change.  For example, every time someone completes this tutorial the result is a merged commit to the top-level repo's `master` branch.
+It is great when that happens, but now your `master` is out of sync.  This whole time you've been making changes in your `add-alonzo-church` branch.
+
+This section will show you how to make your `master` branch match the `master` branch of the top-level repo you forked from.  The top-level repo can also be referred to as the `upstream` repo.
+
+GitHub does not automatically push new changes from the upstream repo down to all forks.  Instead, it is your job as the administrator of your fork to keep it in sync.  There is no way to push 
+changes from the upstream repo to your fork directly - you must fetch the changes from the upstream repo down to your local machine and replay all the commits against the files locally.  That is 
+called a `rebase` operation.
+
+After you rebase onto your local `master` branch, you then push to your fork and now you are in sync!  Let's get started.
+
+Open Team Explorer and click on the house icon to open the Home view, then click `Settings`.
+
+<img src="assets/vs2017-15-sync1.png" alt="Settings" />
+
+Click **Repository Settings**.
+
+<img src="assets/vs2017-16-sync2.png" alt="Repository Settings" />
+
+At this point your local machine does not know about the upstream repo you forked from, it only knows about your fork.  In Git terminology, a connection to any remote repo is called a `remote`.
+When you clone your repo, Git automatically creates a remote called `origin`.
+
+You will now create a remote called `upstream` which points to the top-level repo.  The name `upstream` is just a convention - you could call it anything you like.
+
+In Visual Studio click **Add** under the listing of `Remotes`.  You can see that `origin` already exists.
+
+Name the remote `upstream` and paste the top-level URL from GitHub (e.g. `https://github.com/Roshanjossey/first-contributions`) into the dialog box.
+
+<img src="assets/vs2017-17-sync3.png" alt="Upstream" />
+
+You should see the remote added to the list.
+
+Next, use the main navigation dropdown to open the Branches view.
+
+<img src="assets/vs2017-18-sync4.png" alt="Branches" />
+
+**IMPORTANT:** You must change your active branch to `master` since that's the branch you want to synchronize.  Changing the active branch is called `checkout`.
+
+You can see your active branch in the bottom right corner of the Visual Studio window.
+
+<img src="assets/vs2017-19-sync5.png" alt="Checkout master" />
+
+After the checkout process completes, use the main navigation dropdown to open the Sync view.
+
+<img src="assets/vs2017-20-sync6.png" alt="Sync fetch" />
+
+The Sync view should have `Branch: master` at the top if your checkout worked.  Now it is time to fetch the latest changes from the upstream repo down to your local machine.
+
+Click **Fetch** and choose the `upstream` remote from the list.
+
+Click the `Fetch` button.
+
+<img src="assets/vs2017-21-sync7.png" alt="Fetch" />
+
+Next, use the main navigation dropdown to open the Branches view again.
+
+<img src="assets/vs2017-22-sync8.png" alt="Branches for rebase" />
+
+Click **Rebase** and choose `upstream/master` in the **Onto branch:** list.
+
+Click the `Rebase` button.
+
+<img src="assets/vs2017-23-sync9.png" alt="Rebase" />
+
+All of the changes from the upstream repo have been replayed onto your local master branch.  Now it is time to push these changes up to your repo (a.k.a the `origin` remote).
+
+Use the main navigation dropdown to open the Sync view.
+
+<img src="assets/vs2017-24-sync10.png" alt="Sync push" />
+
+Click **Push** and choose `origin` / `master` in the lists.  If there are changes you can see them in the `Outgoing Commits` list at the bottom of the Sync view.
+
+Click the `Push` button.
+
+<img src="assets/vs2017-25-sync11.png" alt="Push" />
+
+Way to go, you are in sync!
+
 
 ## Tutorials Using Other Tools
 
