@@ -13,7 +13,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 *Read this in other languages: [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md).*
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
+If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
 
@@ -24,7 +24,7 @@ This will create of copy of this repository in your account.
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then the copy to clipboard icon
+Now clone this repo to your machine. Click on the clone button and then click the copy to clipboard icon
 
 Open a terminal and run the following git command:
 

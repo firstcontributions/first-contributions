@@ -165,7 +165,7 @@ Next, use the main navigation dropdown to open the Branches view.
 
 **IMPORTANT:** You must change your active branch to `master` since that's the branch you want to synchronize.  Changing the active branch is called `checkout`.
 
-You can see your active branch in the bottom right corner of the Visual Studio window.
+Right-click on `master` and choose `Checkout` to change your active branch.  You can see your active branch in the bottom right corner of the Visual Studio window.
 
 <img src="assets/vs2017-19-sync5.png" alt="Checkout master" />
 

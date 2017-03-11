@@ -11,7 +11,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have GitHub Desktop on your machine, [ install it ]( https://desktop.github.com/ )
+If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 ## Fork this repository
 
