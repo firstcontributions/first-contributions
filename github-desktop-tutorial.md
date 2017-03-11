@@ -2,15 +2,16 @@
 
 # First Contributions
 
-Its hard. Its always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="200">|GitHub Desktop Edition|
+|---|---|
+
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md).*
-
-If you don't have GitHub Desktop on your machine, [ install it ]( https://desktop.github.com/ )
+If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 ## Fork this repository
 
@@ -101,6 +102,11 @@ Hovering over `Update from multunus/master` will show you that you are up to dat
 
 <img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
 
+## Tutorials Using Other Tools
+
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|
+|---|---|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
 
 ## Where to go from here?
 
