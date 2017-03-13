@@ -68,3 +68,4 @@
 - [ramseyjacob](https://github.com/ramseyjacob)
 - [Nithin K Vijayan](https://github.com/nithin-vijayan)
 - [Karan Deep Batra](https://github.com/krnbatra)
+- [Shaznim Hussain](https://github.com/shaznimhussain)
