@@ -71,4 +71,5 @@
 - [Shaznim Hussain](https://github.com/shaznimhussain)
 - [Abhijeet Goel](https://github.com/aninjamonk)
 - [Leticia Valderas](https://github.com/monaLeti)
--[Jimmy Mannan](https://github.com/jiimms)
+- [Amar Yadav] (https://github.com/amar-yadav)
+- [Jimmy Mannan](https://github.com/jiimms)
