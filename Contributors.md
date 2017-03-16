@@ -1,5 +1,5 @@
+- [Aravinth Natarajan] (https://github.com/aravinth-itsme)
 - [Simon Tite] (https://github.com/simontite-capita-ti)
-- [Aravinth Natarajan] (https://github.com/aravith-itsme)
 - [Chris Winsor](https://github.com/cwinsor)
 - [ Dominic Valenciana] (https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
