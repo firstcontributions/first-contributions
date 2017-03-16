@@ -1,128 +1,112 @@
-# प्रथम योगदान
+# Первый вклад в проект
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) (रूसी)[README.ru.md]
+*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md) [Japanese](README.ja.md), [Greek](README.gr.md)*
 
-आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)
+Если у вас не установлен git на компьютере, [ установите его ]( https://help.github.com/articles/set-up-git/ )
 
-## कांट इस भंडार
+## Создайте ответвление
 
-कांटा बटन पर क्लिक करके इस रेपो कांटा
+Создайте собственное ответвление, нажав на кнопку "fork"
 
-## रिपोजिटरी क्लोन
+## Склонируйте репозиторий
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-अब आप अपने मशीन को यह रेपो क्लोन। क्लोन बटन पर क्लिक करें और फिर कॉपी आइकन क्लिपबोर्ड
+Теперь склонируйте ваш репозиторий на пк. Нажмите на кнопку "clone", а затем на иконку планшета, чтобы скопировать ссылку.
 
-एक टर्मिनल खोलें और निम्न git आदेश चलाएँ:
-
-```
-git clone "यूआरएल का नकल "
-```
-
-कहाँ "यूआरएल का नकल" (उद्धरण चिह्नों के बिना) इस भंडार के लिए यूआरएल  है। यूआरएल प्राप्त करने के लिए पिछले चरण देखें।
-
-उदाहरण के लिए:
+Откройте терминал и запустите следующую git команду:
 
 ```
-git clone https://github.com/यह तुम हो/first-contributions.git
+git clone "url you just copied"
 ```
+Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-' यह तुम हो 'अपने GitHub उपयोगकर्ता नाम है। यहाँ आप अपने कंप्यूटर के लिए GitHub में पहली योगदान भंडार की सामग्री नकल कर रहे हैं
+Например:
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
+Где 'this-is-you' ваш логин на github'e.  Таким образом вы копируете репозиторий для вашего первого вклада на ваш компьютер.
 
-## एक शाखा बनाएं
+## Создайте ветку
 
-आपके कंप्यूटर पर रिपोजिटरी निर्देशिका के लिए परिवर्तित करें अगर आप पहले से ही वहाँ नहीं कर रहे हैं।
+Перейдите в директорию репозитория на вашем компьютере, если вы еще не там.
 
 ```
 cd first-contributions
 ```
-
-अब एक शाखा  बना  `git checkout command` उपयोग करके
+Теперь создайте ветку, с помощью `команды git checkout`
 
 ```
-git checkout -b <अपना नाम जोड़>
+git checkout -b <add-your-name>
 ```
 
-उदाहरण के लिए:
-
+Например:
 ```
 git checkout -b add-alonzo-church
 ```
 
-## आवश्यक परिवर्तन करें और उन परिवर्तनों के लिए प्रतिबद्ध
+## Внесите необходимые изменения и создайте коммит
 
-अब खुले `Contributors.md` फ़ाइल एक पाठ संपादक में और इसे आपके नाम जोड़, और फ़ाइल सहेजें। आप अगर इस परियोजना निर्देशिका कर और `git status` करते हैं, तो आप परिवर्तन देखेंगे। उन परिवर्तनों को नीचे `git add` commad का उपयोग कर जोड़ें।
+Откройте файл `Contributors.md` в вашем текстовом редакторе, впешите ваше имя и сохраните файл. Если вы перейдете в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
 
 ```
 git add Contributors.md
 ```
 
-अब नीचे `git commit` आदेश का उपयोग उन परिवर्तनों को प्रतिबद्ध है।
-
+Теперь закоммитьте данные изменния с помощью команды `git commit`.
 ```
-git commit -m "Add <आपका-नाम> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
+Измените `<your-name>` на ваше имя
 
-आपके नाम के साथ `<आपका-नाम>` की जगह
+## Запушьте изменения на github
 
-## GitHub में परिवर्तन पुश
-
-`git push` का उपयोग कर अपने परिवर्तन धक्का
-
+Запушьте ваши изменения с помощью `git push`
 ```
-git push origin <अपना नाम जोड़>
+git push origin <add-your-name>
 ```
+Измените `<add-your-name>` на имя ветки, которую вы создали ранее.
 
-बदलें `<अपना नाम जोड़>` शाखा आपने पहले बनाया के नाम के साथ
+## Подтвердите измнения для ревью
 
-## समीक्षा के लिए अपने परिवर्तनों को जमा करें
+Если вы зайдете в свой репозиторий на github, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
 
-आप GitHub पर अपने भंडार के लिए जाना है, तो आप देख `Compare & pull request` बटन खींच लेंगे। उस बटन पर क्लिक करें।
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+Теперь подтвердите пулл-реквест.
 
-अब पुल अनुरोध सबमिट करें।
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+## Синхронизируйте ваше ответвление с данным репозиторием
 
-## अपने कांटा इस भंडार के साथ समन्वयित रखते हुए
-
-अब मैं इस परियोजना के मास्टर शाखा में अपने सभी परिवर्तन विलय हो जाएगा। अपने कांटा उन परिवर्तनों की जरूरत नहीं होगी। आदेश में अपने कांटा खान के साथ समन्वयित रखने के लिए, `upstream remote url` के रूप में मेरे रेपो के यूआरएल जोड़ें।
-
+Теперь вы готовы смержить все ваши изменения в мастер-ветку данного репозитория. Данные изменения не будут добавлены к вашему ответвлению. Для того, чтобы синхронизировать ваше ответлвение с моим, добавьте ссылку на мой репозиторий с помощью `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-
-यह git को इस परियोजना के दूसरे संस्करण निर्दिष्ट यूआरएल में मौजूद बताने का एक तरीका है और हम इसे मास्टर बुला रहे हैं। एक बार परिवर्तन विलय कर रहे हैं, मेरे रिपॉजिटरी के नए संस्करण लाने।
-
+Таким образом мы сообщим git'у что существует другая версия данного проекта по определенной ссылке и мы ее считаем мастером. Как только измнения смержены, подгрузите новую версию моего репозитория.
 ```
 git fetch upstream
 ```
 
-यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है।
-
+Таким образом мы забрали все изменения в моем ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
 ```
 git rebase upstream/master
 ```
-
-यहाँ आप सभी परिवर्तनों को आप गुरु शाखा को दिलवाया आवेदन कर रहे हैं। तुम अब मास्टर शाखा धक्का, अपने कांटा भी परिवर्तन होगा
-
+Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
 ```
 git push origin master
 ```
+Обратите внимение, что вы пушите в удаленной репозиторий origin.
 
-यहां सूचना आप दूरदराज के नाम पर रखा मूल करने के लिए जोर दे रहे हैं।
+## Что далее?
 
-## यहाँ से कहाँ जाएं ?
+Вы найдете много заданий для новичков на: [contributor.ninja](https://contributor.ninja).
 
-आप : [Contributor.ninja](https://contributor.ninja) पर कई शुरुआत के अनुकूल मुद्दों मिलेगा।
-
-यहाँ लोकप्रिय रेपो कि आप को हल कर सकते हैं में कुछ शुरुआत के स्तर के मुद्दों है। आगे बढ़ो और अधिक जानने के लिए उन रेपो करने के लिए जाना
+Ниже несколько популярных репозиториев, где вы можете найти задания для ноичков. Вперед, перейдите в репозитории, чтобы узнать больше.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -133,3 +117,5 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

@@ -4,12 +4,12 @@ Si no tienes git en tu equipo, [ instálalo ]( https://help.github.com/articles/
 
 Haz Fork de este repositorio clicando en el botón fork
 
-<img style="float: right;" width="300" src="assets/fork.png">
+<img style="float: right;" width="300" src="../assets/fork.png">
 
 Ahora clona este repositorio a tu equipo. Haz click sobre el botón clone y luego en el icono copiar a clipboard
 
-<img style="float: right;" width="300" src="assets/clone.png">
-<img style="float: right;" width="300" src="assets/copy-to-clipboard.png">
+<img style="float: right;" width="300" src="../assets/clone.png">
+<img style="float: right;" width="300" src="../assets/copy-to-clipboard.png">
 
 Abre un terminal y escribe
 
@@ -65,11 +65,11 @@ Cambia `<añade-tu-nombre>` con el nombre de la branch que creaste antes
 
 Si vas a tu repositorio en github verás un botón para abrir una pull request. Haz click sobre ese botón
 
-<img style="float: right;" src="assets/compare-and-pull.png">
+<img style="float: right;" src="../assets/compare-and-pull.png">
 
 Ahora submit la pull request 
 
-<img style="float: right;" src="assets/submit-pull.png">
+<img style="float: right;" src="../assets/submit-pull.png">
 
 ### Manten tu fork sincronizado con este repositorio
 
@@ -97,3 +97,5 @@ Si tú haces push en master branch ahora, tu fork también tendrá los cambios.
 git push origin master
 ```
 Date cuenta que aquí tú estas haciendo Push hacia el remoto llamado origin
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

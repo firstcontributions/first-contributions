@@ -4,7 +4,7 @@
 
 Μπορείτε να βοηθηθήτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να κάνετε στην πραγματικότητα πράγματα χώρις να χαλάτε κάτι. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε οτι όσο πιο χαλαροί έιστε τόσο πιο έυκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά κώδικα, ακολουθήστε τα επόμενα απλά βήματα. Σας υποσχόμαστε οτι θα το διασκεδάσετε.
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Διαβάστε σε άλλες γλώσσες: [Αγγλικά](README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
 
@@ -16,7 +16,7 @@
 
 ## Αποθηκεύστε τοπικά το πρόγραμμα (clone)
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Τώρα αποθηκεύστε το πρόγραμμα στον υπολογιστή σας. Κάντε κλικ στο κουμπί `Clone or download` και μετά στο εικονίδιο δεξιά απο το σύνδεσμο για αντιγραφή στο πρόχειρο.
 
@@ -27,7 +27,7 @@ git clone "αντεγραμμένος σύνδεσμος"
 ```
 Όπου "αντεγραμμένος σύνδεσμος" (χωρίς τα εισαγωγικά) είναι ο σύνδεσμος για αυτό το πρόγραμμα. Δείτε τα προηγούμενα βήματα για να βρείτε αυτό το σύνδεσμο.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Για παράδειγμα:
 ```
@@ -77,11 +77,11 @@ git push origin <add-your-name>
 
 Εάν πάτε στο repository στο github θα δείτε ένα κουμπί με τίτλο `Compare & pull request`. Κλικάρετε αυτό το κουμπί.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Τώρα υποβάλλετε την pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## Διατηρείστε το αντίγραφο σας συγχρονισμένο με το αυθεντικό πρόγραμμα
 
@@ -119,3 +119,5 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

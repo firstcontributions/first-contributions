@@ -1,110 +1,128 @@
-# Đóng góp đầu tiên
+# प्रथम योगदान
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Đọc bản hướng dẵn này bằng các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md), [Greek](README.gr.md).*
+अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) (रूसी)[README.ru.md]
 
-Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
+आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)
 
-## Fork kho mã nguồn này
+## कांट इस भंडार
 
-Fork kho mã nguồn này bằng cách nhấn vào nút Fork
+कांटा बटन पर क्लिक करके इस रेपो कांटा
 
-## Sao chép (clone) kho mã nguồn
+## रिपोजिटरी क्लोन
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
+अब आप अपने मशीन को यह रेपो क्लोन। क्लोन बटन पर क्लिक करें और फिर कॉपी आइकन क्लिपबोर्ड
 
-Mở một bộ xử lý terminal và chạy lệnh git sau đây:
+एक टर्मिनल खोलें और निम्न git आदेश चलाएँ:
 
 ```
-git clone "url bạn vừa sao chép"
+git clone "यूआरएल का नकल "
 ```
-Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+कहाँ "यूआरएल का नकल" (उद्धरण चिह्नों के बिना) इस भंडार के लिए यूआरएल  है। यूआरएल प्राप्त करने के लिए पिछले चरण देखें।
 
-Ví dụ:
+उदाहरण के लिए:
+
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/यह तुम हो/first-contributions.git
 ```
-Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
 
-## Tạo một chi nhánh (branch)
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
+' यह तुम हो 'अपने GitHub उपयोगकर्ता नाम है। यहाँ आप अपने कंप्यूटर के लिए GitHub में पहली योगदान भंडार की सामग्री नकल कर रहे हैं
+
+## एक शाखा बनाएं
+
+आपके कंप्यूटर पर रिपोजिटरी निर्देशिका के लिए परिवर्तित करें अगर आप पहले से ही वहाँ नहीं कर रहे हैं।
 
 ```
 cd first-contributions
 ```
-Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
+
+अब एक शाखा  बना  `git checkout command` उपयोग करके
+
 ```
-git checkout -b <them-ten-ban>
+git checkout -b <अपना नाम जोड़>
 ```
 
-Ví dụ:
+उदाहरण के लिए:
+
 ```
-git checkout -b them-Tran-Ly-Vu
+git checkout -b add-alonzo-church
 ```
 
-## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
+## आवश्यक परिवर्तन करें और उन परिवर्तनों के लिए प्रतिबद्ध
 
-Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
+अब खुले `Contributors.md` फ़ाइल एक पाठ संपादक में और इसे आपके नाम जोड़, और फ़ाइल सहेजें। आप अगर इस परियोजना निर्देशिका कर और `git status` करते हैं, तो आप परिवर्तन देखेंगे। उन परिवर्तनों को नीचे `git add` commad का उपयोग कर जोड़ें।
+
 ```
 git add Contributors.md
 ```
 
-Bây giờ chấp nhận những thay đổi bằng cách sử dụng dòng lệnh 'git commit` dưới đây.
+अब नीचे `git commit` आदेश का उपयोग उन परिवर्तनों को प्रतिबद्ध है।
+
 ```
-git commit -m "Them <ten-ban> vào danh sách Cộng tác viên"
+git commit -m "Add <आपका-नाम> to Contributors list"
 ```
-thay thế `<ten-ban>` với tên của bạn
 
-## Đẩy thay đổi lên github
+आपके नाम के साथ `<आपका-नाम>` की जगह
 
-Đẩy những thay đổi của bạn sử dụng `git push`
+## GitHub में परिवर्तन पुश
+
+`git push` का उपयोग कर अपने परिवर्तन धक्का
+
 ```
-git push origin <them-ten-ban>
+git push origin <अपना नाम जोड़>
 ```
-Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó
 
-## Gửi những thay đổi của bạn để được xem xét
+बदलें `<अपना नाम जोड़>` शाखा आपने पहले बनाया के नाम के साथ
 
-Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nút `Compare & pull request`.Nhấp vào nút đó.
+## समीक्षा के लिए अपने परिवर्तनों को जमा करें
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+आप GitHub पर अपने भंडार के लिए जाना है, तो आप देख `Compare & pull request` बटन खींच लेंगे। उस बटन पर क्लिक करें।
 
-Bây giờ gửi yêu cầu kéo.
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+अब पुल अनुरोध सबमिट करें।
 
-## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-Bây giờ tôi sẽ sáp nhập tất cả các thay đổi của bạn vào chi nhánh chủ (master) của dự án này. Fork của bạn sẽ không có những thay đổi này. Để giữ bản sao của bạn được đồng bộ hóa với kho lưu thữ của tôi, thêm url của kho mã nguồn của tôi như là một `upstream remote url`.
+## अपने कांटा इस भंडार के साथ समन्वयित रखते हुए
+
+अब मैं इस परियोजना के मास्टर शाखा में अपने सभी परिवर्तन विलय हो जाएगा। अपने कांटा उन परिवर्तनों की जरूरत नहीं होगी। आदेश में अपने कांटा खान के साथ समन्वयित रखने के लिए, `upstream remote url` के रूप में मेरे रेपो के यूआरएल जोड़ें।
+
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Đây là một cách để nói với git rằng một phiên bản khác của dự án này đang tồn tại trong một url khác và chúng ta gọi đó là phiên bản chủ (master). Một khi các thay đổi được sáp nhập, kéo phiên bản mới này đang nằm trong kho mã nguồn của tôi.
+
+यह git को इस परियोजना के दूसरे संस्करण निर्दिष्ट यूआरएल में मौजूद बताने का एक तरीका है और हम इसे मास्टर बुला रहे हैं। एक बार परिवर्तन विलय कर रहे हैं, मेरे रिपॉजिटरी के नए संस्करण लाने।
+
 ```
 git fetch upstream
 ```
 
-Ở đây chúng ta lấy tất cả những thay đổi trong fork của tôi (upstream remote). Bây giờ, bạn cần phải hợp nhất các phiên bản mới của kho mã nguồn của tôi vào chi nhánh chủ (master) của bạn.
+यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है।
+
 ```
 git rebase upstream/master
 ```
-Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
+
+यहाँ आप सभी परिवर्तनों को आप गुरु शाखा को दिलवाया आवेदन कर रहे हैं। तुम अब मास्टर शाखा धक्का, अपने कांटा भी परिवर्तन होगा
+
 ```
 git push origin master
 ```
-Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
 
-## Tiếp tục đóng góp?
+यहां सूचना आप दूरदराज के नाम पर रखा मूल करने के लिए जोर दे रहे हैं।
 
-Bạn sẽ tìm thấy nhiều vấn đề (issues) dễ cho người bắt đầu tại: [contributor.ninja](https://contributor.ninja).
+## यहाँ से कहाँ जाएं ?
 
-Dưới đây là một số vấn đề cho người bắt đầu trong các kho mã nguồn phổ biến mà bạn có thể tham gia đóng góp. Nhấn vào những kho mã nguồn này để tìm hiểu thêm
+आप : [Contributor.ninja](https://contributor.ninja) पर कई शुरुआत के अनुकूल मुद्दों मिलेगा।
+
+यहाँ लोकप्रिय रेपो कि आप को हल कर सकते हैं में कुछ शुरुआत के स्तर के मुद्दों है। आगे बढ़ो और अधिक जानने के लिए उन रेपो करने के लिए जाना
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -115,3 +133,5 @@ Dưới đây là một số vấn đề cho người bắt đầu trong các kh
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

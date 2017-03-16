@@ -1,105 +1,112 @@
+# First Contributions
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+*其他语言版本: [英语](README.md), [西班牙语](README.es.md), [荷兰语](README.nl.md), [印度语](README.hi.md), [俄语](README.ru.md), [日语](README.ja.md), [越南语](README.vn.md), [波兰语](README.pl.md), [韩语](README.ko.md), [德语](README.de.md), [简体中文](README.chs.md), [繁体中文](README.cht.md), [Greek](README.gr.md).*
 
-## Deze repo forken
+如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ]( https://help.github.com/articles/set-up-git/ )进行安装。
 
-Fork deze repo door op de fork knop te klikken
+## Fork（复制）本代码仓库
 
-## De repo clonen
+通过点击图示中的按钮，Fork 这个代码仓库。
+这个操作会将这个代码仓库复制到你的账户名下。
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+## Clone（克隆）代码仓库
 
-Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Open een terminal en voer volgend git commando uit:
+接下来将复制后的代码仓库克隆到你的电脑上，点击图示中的绿色按钮，接着再点击复制到剪切版按钮（将代码仓库地址复制下来）
+
+随后打开命令行窗口，敲入如下 git 命令：
 
 ```
-git clone "url die je net kopieerde"
+git clone "才复制的 url 链接"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+"才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。如何获取这个链接地址请见上一步。
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Bijvoorbeeld:
+譬如：
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/你的Github用户名/first-contributions.git
 ```
-Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
+'你的 Github 用户名' 指的就是你的 Github 用户名。在这一步中，你是将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
 
-## Een branch aanmaken
+## 新建一个分支
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+通过下面这个命令在命令行窗口中切换到 first-contributions 这个目录下面
 
 ```
 cd first-contributions
 ```
-Maak nu een branch aan door middel van het `git checkout command`
+接下来使用 `git checkout` 命令新建一个代码分支
 ```
-git checkout -b <je-nieuwe-branch-naam>
-```
-
-Bijvoorbeeld:
-```
-git checkout -b add-thibmaek
+git checkout -b <新分支的名称>
 ```
 
-## Maak de benodigde wijzigingen en commit deze
+譬如：
+```
+git checkout -b 新分支的名称
+```
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+## 对代码进行修改，而后 commit 修改
+
+打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。通过 `git status` 这个命令你可以看到被改动了的文件被列了出来。接着通过 `git add` 命令则可以添加你的改动（以便随后提交改动），就像如下这条命令。
 ```
 git add Contributors.md
 ```
 
-Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
+现在就可以使用 `git commit` 命令 commit 你的修改了。
 ```
-git commit -m "Add <jouw-naam> to Contributors list"
+git commit -m "Add <你的名字> to Contributors list"
 ```
-vervang `<jouw-naam>` met jouw naam
+将 `<你的名字>` 替换为你的名字
 
-## Push de wijzigingen naar Github
+## 将改动 Push（提交）到 Github
 
-Push je wijzigingen met `git push`
+使用 `git push` 命令提交代码
 ```
-git push origin <je-nieuwe-branch-naam>
+git push origin <分支的名称>
 ```
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+将 `<分支的名称>` 替换为之前新建的分支名称
 
-## Verstuur je wijzigingen voor review
+## 提交你的变动供他人审阅
 
-Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
+前往 Github 你的代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Verstuur nu je pull request.
+接着再点击 `Create pull request` 按钮，正式提交 pull request。
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## Je fork in sync houden met de hoofd-repository
+## 让你复制的代码仓库和本仓库保持一致
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
+收到你提交的变动后，我会将你提交到新分支中的改动，合并到 master（主分支）中。而你复制的代码仓库不会自动获取到合并后的更新内容。为了让你复制的代码仓库和我的代码仓库内容保持一致，首先你需要将我的代码仓库的地址使用 `upstream remote url` 命令添加到你的仓库配置信息中。
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
+如此一来，你就让 git 知道了你本地的这个代码仓库在远端还存在另一个版本（即我的代码仓库），而那个版本我们将其叫做 upstream。一旦我合并了你提交的改动到我的代码仓库后，你在本地通过下面这个命令便能将更新的内容同步到本地。
 ```
 git fetch upstream
 ```
 
-Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
+通过上面这个命令，我们便将远端我的代码仓库（upstream remote）中所有新增的改动抓回到了本地。但这样还没有结束，接下来，你也需要将更新 rebase（按照 git 中文文档将其翻译为 '衍合'）进入你本地的 master 主分支中。
 ```
 git rebase upstream/master
 ```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
+通过上面这个命令，你就能够将从远端抓下来的所有改动衍合到本地的 master 主分支中。接着如果你再做一次 push master 提交你本地代码到你自己的远端主分支的操作，你在 Github 上复制的远端代码仓库就也包含最新的代码了。
 ```
 git push origin master
 ```
-Merk op dat je in dit geval pusht naar de remote met de naam origin.
+注意，上面这个命令中，你远端的代码仓库的名字叫做 origin。
 
-## Verdergaan van hieruit
+## 接下来做什么呢？
 
-Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
+你在这个链接页面中可以看到很多初学者友好的 issues（问题）：
+[contributor.ninja](https://contributor.ninja).
+
+通过下面这些链接，你能看到当前流行的众多代码仓库中，适合初学者解决的问题列表，还等什么，去吧 :)
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -110,3 +117,5 @@ Hier zijn enkele beginner-level issues in populaire repos die je kan proberen op
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+
+[Tutorial for Github desktop app - English](github-desktop-tutorial.md)

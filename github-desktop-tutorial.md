@@ -2,15 +2,16 @@
 
 # First Contributions
 
+|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="200">|GitHub Desktop Edition|
+|---|---|
+
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md).*
-
-If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
 ## Fork this repository
 
@@ -19,62 +20,61 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+Now clone this repo to your machine.
 
-Now clone this repo to your machine. Click on the clone button and then click the copy to clipboard icon
+Open the GitHub Desktop app and click on the `+` on the top left.
 
-Open a terminal and run the following git command:
+<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
 
-```
-git clone "url you just copied"
-```
-Where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-For example:
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-Where 'this-is-you' is your github username. Here you're copying the contents of first-contributions repository in github to your computer
+Choose the directory on your machine you would like to clone first-contributions into 
+
+<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
+
+Now you have copied the contents of the first-contributions repository in github to your computer.
 
 ## Create a branch
 
-Change to the repository directory on your computer if you are not already there.
+Now create a branch by clicking on the branch icon at the top left:
 
-```
-cd first-contributions
-```
-Now create a branch using `git checkout command`
-```
-git checkout -b <add-your-name>
-```
+<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
 
-For example:
-```
-git checkout -b add-alonzo-church
-```
+Name your branch add-your-name. For example, add-crawleya
+
+Click on `Create new branch`
+
+<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. If you go to the project directory and do `git status`, you'll see there are changes. Add those changes using the below `git add` command.
-```
-git add Contributors.md
-```
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
 
-Now commit those changes using the below `git commit` command.
-```
-git commit -m "Add <your-name> to Contributors list"
-```
-replace `<your-name>` with your name
+You can see that there are changes to Contributors.md and they have been added.
+
+<img style="float: right;" src="assets/dt-status.png" alt="check status" />
+
+Now commit those changes:
+
+Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+
+Replace `<your-name>` with your name
+
+Click on the button that says `Commit to add-your-name`
+
+<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
+
+At the bottom, you can see that the commit has been created.
+
+<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
 
 ## Push changes to github
 
-Push your changes using `git push`
-```
-git push origin <add-your-name>
-```
-Replace `<add-your-name>` with the name of the branch you created earlier
+Click the `Publish` button on the top right.
+
+<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
 
 ## Submit your changes for review
 
@@ -88,30 +88,25 @@ Now submit the pull request.
 
 ## Keeping your fork synced with this repository
 
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes. In order to keep your fork synced with mine, add my repo's url as `upstream remote url`.
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
-```
-git fetch upstream
-```
+Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
 
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
-```
-git rebase upstream/master
-```
-Here you're applying all the changes you fetched to master branch. If you push master branch now, your fork will also have the changes
-```
-git push origin master
-```
-Notice here you're pushing to the remote named origin.
+In order to keep your fork synced with mine, click `Sync` on the top right.
+
+<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
+
+When there are new commits to sync, click `Update from multunus/master`
+
+<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
+
+Hovering over `Update from multunus/master` will show you that you are up to date:
+
+<img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
 
 ## Tutorials Using Other Tools
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|
 |---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
 
 ## Where to go from here?
 
