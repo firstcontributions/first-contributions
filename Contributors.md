@@ -1,4 +1,4 @@
-- [Aravinth Natarajan] (https://github.com/aravith-itsme)
+- [Aravinth Natarajan] (https://github.com/aravinth-itsme)
 - [Chris Winsor](https://github.com/cwinsor)
 - [ Dominic Valenciana] (https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
