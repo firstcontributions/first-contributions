@@ -87,9 +87,16 @@ Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
+Now I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+Your fork won't have those changes. In order to keep your fork synced with mine, follow the steps below.
+
 ## Keeping your fork synced with this repository
 
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes. In order to keep your fork synced with mine, add my repo's url as `upstream remote url`.
+ First, switch to master branch.
+ `git checkout master`
+
+ Then, add my repo's url as `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
