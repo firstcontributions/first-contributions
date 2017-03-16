@@ -72,3 +72,4 @@
 - [Abhijeet Goel](https://github.com/aninjamonk)
 - [Leticia Valderas](https://github.com/monaLeti)
 - [Amar Yadav] (https://github.com/amar-yadav)
+- [Jimmy Mannan](https://github.com/jiimms)
