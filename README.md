@@ -100,7 +100,7 @@ Master branch of your fork won't have those changes. In order to keep your fork 
 
  Then, add my repo's url as `upstream remote url`.
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
 ```

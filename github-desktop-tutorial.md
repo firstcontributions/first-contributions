@@ -94,11 +94,11 @@ In order to keep your fork synced with mine, click `Sync` on the top right.
 
 <img style="float: right;" src="assets/dt-sync.png" alt="sync" />
 
-When there are new commits to sync, click `Update from multunus/master`
+When there are new commits to sync, click `Update from Roshanjossey/master`
 
 <img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
 
-Hovering over `Update from multunus/master` will show you that you are up to date:
+Hovering over `Update from Roshanjossey/master` will show you that you are up to date:
 
 <img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
 
