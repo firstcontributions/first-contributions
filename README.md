@@ -37,7 +37,7 @@ For example:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Where 'this-is-you' is your github username. Here you're copying the contents of first-contributions repository in github to your computer
+Where 'this-is-you' is your GitHub username. Here you're copying the contents of first-contributions repository in GitHub to your computer
 
 ## Create a branch
 
@@ -69,7 +69,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 replace `<your-name>` with your name
 
-## Push changes to github
+## Push changes to GitHub
 
 Push your changes using `git push`
 ```
@@ -79,7 +79,7 @@ Replace `<add-your-name>` with the name of the branch you created earlier
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+If you go to your repository on GitHub, you'll see  `Compare & pull request` button. click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
