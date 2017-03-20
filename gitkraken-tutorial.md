@@ -1,115 +1,171 @@
-# Primeras Contribuciones
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-Si no tienes git en tu equipo, [ instálalo ]( https://help.github.com/articles/set-up-git/ )
+# First Contributions
 
-Haz Fork de este repositorio clicando en el botón fork
+|<img alt="GitKraken" src="https://www.gitkraken.com/img/logo-gk-h-dark.svg" width="200">|GitKraken Edition|
+|---|---|
 
-<img style="float: right;" width="300" src="../assets/fork.png">
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Ahora clona este repositorio a tu equipo. Haz click sobre el botón clone y luego en el icono copiar a clipboard
-
-<img style="float: right;" width="300" src="../assets/clone.png">
-<img style="float: right;" width="300" src="../assets/copy-to-clipboard.png">
-
-Abre un terminal y escribe
-
-```
-git clone <url que tu has copiado>
-```
-Donde la url puede ser pegada desde el clipboard
-Por ejemplo
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-Aquí tú estas copiando el contenido del repositorio first-contributions en github a tu ordenador
-
-Entra en ese directorio
-
-```
-cd first-contributions
-```
-
-Ahora crea una branch usando `git checkout command`
-
-```
-git checkout -b <añade tu nombre>
-```
-Por ejemplo
-```
-git checkout -b add-alonzo-church
-```
-
-Ahora abre el archivo `Contributors.md` en un editor de texto y añade tu nombre, guarda el archivo
-
-Si vas al directorio del proyecto y haces `git status`, tú verás los cambios
-
-Añade estos cambios con el comando `git add`
-
-```
-git add Contributors.md
-```
-
-Ahora puedes hacer commit sobre los cambios con el comando `git commit`
-
-```
-git commit -m "Add <tu-nombre> to Contributors list"
-```
-cambia `<tu-nombre>` con tu nombre
-
-Puedes hacer Push en tus cambios con el comando `git push`
-
-```
-git push origin <añade-tu-nombre>
-```
-Cambia `<añade-tu-nombre>` con el nombre de la branch que creaste antes
-
-Si vas a tu repositorio en github verás un botón para abrir una pull request. Haz click sobre ese botón
-
-<img style="float: right;" src="../assets/compare-and-pull.png">
-
-Ahora submit la pull request 
-
-<img style="float: right;" src="../assets/submit-pull.png">
-
-### Manten tu fork sincronizado con este repositorio
-
-Ahora yo haré merge con tus cambios dentro de la master branch de este proyecto.
-Luego tu fork no tendrá estos cambios. En orden a mantener tu fork sincronizado con el mío,
-
-Añade la url de mi repositorio como `upstream remote url`
-
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-Este es una manera de decirle a git que otra versión de este proyecto existe en esa url y nosotros estamos llamando a su upstream.
-
-```
-git fetch upstream
-```
-Aquí estamos trayendo todos los cambios en mi fork (upstream remote)
-
-```
-git rebase upstream/master
-```
-Aquí tú estas aplicando todos los cambios anteriores en master branch.
-Si tú haces push en master branch ahora, tu fork también tendrá los cambios.
-```
-git push origin master
-```
-Date cuenta que aquí tú estas haciendo Push hacia el remoto llamado origin
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 
-## Tutoriales con otras herramientas
+## Git Kraken
+
+Download [GitKraken](https://www.gitkraken.com), install and open it.
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="https://www.gitkraken.com/img/logo-gk-h-dark.svg" width="100"></a>|
+You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
+
+
+<img style="float: right;" src="assets/gk-login.png" alt="login to GitHub" />
+
+(optional) Go to File->Preferences and set your project directory to the root of your local repositories.
+
+
+## Fork this repository
+
+Fork this repo by clicking on the fork button on the top of this page.
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+This will create of copy of this repository in your account.
+
+
+## Clone the repository
+
+In GitKraken, go to File->Clone Repo.
+
+
+<img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
+
+
+Select GitHub.com in the right pane.  Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
+
+Once you're satisfied with the path, click "Clone the repo!".
+
+
+## Create a branch
+
+Click the branch button on the toolbar.
+
+Name your branch add-your-name, for example: "add-william-sutton"
+
+<img style="float: right;" src="assets/gk-branch.png" alt="name your branch" />
+
+
+## Make necessary changes and commit those changes
+
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+
+If you have the repo open in GitKraken you'll see there are changes. Review and stage those changes by selecting the newest commit marked with "// WIP" and the number of files changed and the type of change.
+
+<img style="float: right;" src="assets/gk-edit.png" alt="edit some file(s)" />
+
+Review the files that have been changed and decide what you would like to stage.  Staging is important to tell git exactly what file changes you want associated with this commit.
+
+
+<img style="float: right;" src="assets/gk-stage.png" alt="stage your changes" />
+
+
+Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that's modified or "Stage File" to stage an individual file.
+
+
+<img style="float: right;" src="assets/gk-commit.png" alt="clone this repository" />
+
+
+If you change your mind, you can unstage those changes, or you can discard them all together.  WARNING: As the word discard implies, this is a destructive operation.  Only do this if you don't want any change from whatever repository you're in.
+
+Hit commit.
+
+Congratulations, you've commited changes to your local copy of your branch of your fork of first-contributions.  Onward!
+
+
+## Push changes to GitHub
+
+<img style="float: right;" src="assets/gk-push.png" alt="push your changes" />
+
+Click the Push button on the toolbar.
+
+
+## Submit your changes for review
+
+If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+
+Now I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+Master branch of your fork won't have those changes. In order to keep your fork synced with mine, follow the steps below.
+
+## Keeping your fork synced with this repository
+
+ First, switch to master branch.
+ 
+<img style="float: right;" src="assets/gk-checkoutsuccessful.png" alt="checkout success" />
+
+ Double click on master on the left under origin.
+ 
+
+ Then, add my repo's url as `upstream remote url`.
+ 
+ 
+ 
+<img style="float: right;" src="assets/gk-clickaddremote.png" alt="click add remote" />
+
+ Click on the '+' that reveals itself after you hover Remote on the left.
+ 
+ 
+ 
+ 
+<img style="float: right;" src="assets/gk-addremote.png" alt="add remote dialog" />
+ Select Roshanjossey/first-contributions and name the remote upstream.
+ 
+ Click Add Remote.
+
+ 
+ This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
+
+ 
+ Double click the master branch under upstream on the left.
+
+ 
+<img style="float: right;" src="assets/gk-checkoutsuccessful.png" alt="checkout success" />
+ 
+
+ 
+ 
+Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
+
+Drag your master branch (marked by your profile picture) on top of the upstream's master.
+
+<img style="float: right;" src="assets/gk-rebase.png" alt="rebasing to master" />
+
+Here you're applying all the changes you fetched to master branch. If you push master branch now, your fork will also have the changes
+
+Click push again, and this time make sure to select origin/master at the top
+
+Notice here you're pushing to the remote named origin.
+
+
+## Tutorials Using Other Tools
+
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>
+|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>
+|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitHub Desktop](github-desktop-tutorial.md)|
 
-## A dónde ir desde aquí?
 
-Usted encontrará muchos problemas para principiantes en: [contributor.ninja](https://contributor.ninja).
-Aquí hay algunos problemas de nivel de principiante en repos populares que puede resolver. Adelante e ir a esos repos para aprender más
+## Where to go from here?
+
+You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
+
+Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
