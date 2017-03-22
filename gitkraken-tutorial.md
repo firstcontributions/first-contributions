@@ -3,7 +3,7 @@
 
 # First Contributions
 
-|<img alt="GitKraken" src="https://www.gitkraken.com/img/logo-gk-h-dark.svg" width="200">|GitKraken Edition|
+|<img alt="GitKraken" src="/assets/gk-icon.png" width="200">|GitKraken Edition|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
