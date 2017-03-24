@@ -78,3 +78,4 @@
 - [Vipin Chacko] (https://github.com/vipin7)
 - [ivlv] (https://github.com/ivlv)
 - [Shiro Developer] (https://github.com/shirodeveloper)
+- [Ivan Stojanov] (https://github.com/ivostojanov)
