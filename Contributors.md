@@ -77,3 +77,4 @@
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Vipin Chacko] (https://github.com/vipin7)
 - [ivlv] (https://github.com/ivlv)
+- [Alvin Raygon] (https://github.com/blackchalk)
