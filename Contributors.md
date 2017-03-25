@@ -77,6 +77,7 @@
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Vipin Chacko] (https://github.com/vipin7)
 - [ivlv] (https://github.com/ivlv)
+- [Alvin Raygon] (https://github.com/blackchalk)
 - [Shiro Developer] (https://github.com/shirodeveloper)
 - [Ivan Stojanov] (https://github.com/ivostojanov)
 - [Rohan Gurjar] (https://github.com/RohanGurjar)
