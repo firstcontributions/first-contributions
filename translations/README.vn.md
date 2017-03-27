@@ -7,7 +7,7 @@ Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đ�
 
 Đọc bài báo và hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng bạn càng thoải mái thì học càng tốt. Nếu bạn đang tìm kiếm đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa với bạn, bạn sẽ có nhiều niềm vui.  
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Đọc bản hướng dẵn này bằng các ngôn ngữ khác: [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Anh](../README.md), [Tiếng Ba Lan](README.pl.md), [Tiếng Hàn Quốc](README.ko.md), [Tiếng Đức](README.de.md), [Tiếng Trung giản thể](README.chs.md), [Tiếng Trung truyền thống](README.cht.md), [Tiếng Hy Lạp](README.gr.md).*
 
