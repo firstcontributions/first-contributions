@@ -1,18 +1,27 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+
 # Đóng góp đầu tiên
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />  
+Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
 
-*Đọc bản hướng dẵn này bằng các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md), [Greek](README.gr.md).*
+Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
+
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+
+*Đọc bản hướng dẵn này bằng các ngôn ngữ khác: [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Anh](../README.md), [Tiếng Ba Lan](README.pl.md), [Tiếng Hàn Quốc](README.ko.md), [Tiếng Đức](README.de.md), [Tiếng Trung giản thể](README.chs.md), [Tiếng Trung truyền thống](README.cht.md), [Tiếng Hy Lạp](README.gr.md).*
+
+Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](gitkraken-tutorial.md).
 
 Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
 ## Fork kho mã nguồn này
 
-Fork kho mã nguồn này bằng cách nhấn vào nút Fork
+Fork kho mã nguồn này bằng cách nhấn vào nút Fork đầu trang này. Bản sao kho mã nguồn mày sẽ được tạo ra trong tài khoản của bạn.
 
 ## Sao chép (clone) kho mã nguồn
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />  
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
 
@@ -79,13 +88,22 @@ Bây giờ gửi yêu cầu kéo.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
+Bây giờ tôi sẽ kết hợp tất cả các thay đổi của bạn vào chi nhánh chủ (master branch) của dự án này. Bạn sẽ nhận được một email thông báo khi những thay đổi đã được sáp nhập.
+
+Chi nhánh chủ của fork của bạn sẽ không có những thay đổi. Để giữ cho khớp của bạn được đồng bộ với chi nhánh chủ của tôi, hãy làm theo các bước dưới đây.
+
 ## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
 
-Bây giờ tôi sẽ sáp nhập tất cả các thay đổi của bạn vào chi nhánh chủ (master) của dự án này. Fork của bạn sẽ không có những thay đổi này. Để giữ bản sao của bạn được đồng bộ hóa với kho lưu thữ của tôi, thêm url của kho mã nguồn của tôi như là một `upstream remote url`.
+Đầu tiên, chuyển sang chi nhánh chủ.
+ ```
+ git checkout master
+ ```
+
+Sau đó, thêm url repo của tôi như sau `upstream remote url`.
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+ git remote add upstream https://github.com/multunus/first-contributions
 ```
-Đây là một cách để nói với git rằng một phiên bản khác của dự án này đang tồn tại trong một url khác và chúng ta gọi đó là phiên bản chủ (master). Một khi các thay đổi được sáp nhập, kéo phiên bản mới này đang nằm trong kho mã nguồn của tôi.
+Đây là một cách để nói với git rằng một phiên bản khác của dự án này đang tồn tại trong một url khác và chúng ta gọi đó là phiên bản chủ. Một khi các thay đổi được sáp nhập, kéo phiên bản mới này đang nằm trong kho mã nguồn của tôi.
 ```
 git fetch upstream
 ```
@@ -99,13 +117,13 @@ git rebase upstream/master
 git push origin master
 ```
 Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
+
 ## Hướng dẫn sử dụng các công cụ khác
+
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
-
-
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Tiếp tục đóng góp?
 
