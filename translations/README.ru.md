@@ -1,109 +1,119 @@
-# Pierwsze kontrybucje
+# Первый вклад в проект
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Przeczytaj to w innych językach: [Angielski](README.md), [Hiszpański](README.es.md), [Holenderski](README.nl.md), [Hindi](README.hi.md), [Rosyjski](README.ru.md), [Japoński](README.ja.md), [Wietnamski](README.vn.md).*
+*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md) [Japanese](README.ja.md), [Greek](README.gr.md)*
 
-Jeżeli nie masz gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ )
+Если у вас не установлен git на компьютере, [ установите его ]( https://help.github.com/articles/set-up-git/ )
 
-## Fork repozytorium
+## Создайте ответвление
 
-Zrobisz swoją kopię tego repozytorum naciskając przycisk fork
+Создайте собственное ответвление, нажав на кнопку "fork"
 
-## Klonowanie repozytorium
+## Склонируйте репозиторий
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Teraz skopiuj to na swój komputer. Kliknij przycisk clone, a następnie ikonę schowka
+Теперь склонируйте ваш репозиторий на пк. Нажмите на кнопку "clone", а затем на иконку планшета, чтобы скопировать ссылку.
 
-Otwórz konsolę i uruchom komendę git:
+Откройте терминал и запустите следующую git команду:
 
 ```
-git clone "wklej skopiowany adres"
+git clone "url you just copied"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowiów) to adres tego repozytorium. Zobacz poprzedni krok jak skopiować ten adres.
+Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Przykład:
+Например:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Gdzie 'this-is-you' to Twój login na githubie. Tu ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer
+Где 'this-is-you' ваш логин на github'e.  Таким образом вы копируете репозиторий для вашего первого вклада на ваш компьютер.
 
-## Zakładanie gałęzi
+## Создайте ветку
 
-Wejdź w folder ze swoim repozytorium jeżeli jeszcze tam nie jesteś.
+Перейдите в директорию репозитория на вашем компьютере, если вы еще не там.
 
 ```
 cd first-contributions
 ```
-Teraz utwórz nową gałąź wykonując `git checkout command`
+Теперь создайте ветку, с помощью `команды git checkout`
+
 ```
 git checkout -b <add-your-name>
 ```
 
-Przykład
+Например:
 ```
 git checkout -b add-alonzo-church
 ```
 
-## Zrób potrzebne zmiany i scommituj je
+## Внесите необходимые изменения и создайте коммит
 
-Otwórz plik `Contributors.md` w edytorze tekstu, dodaj swoje dane i zapisz go. Jeżeli będziesz w folderze repozytorium i zrobisz `git status` to zobaczysz te zmiany. Dodaj te zmiany przy pomocy komendy `git add`.
+Откройте файл `Contributors.md` в вашем текстовом редакторе, впешите ваше имя и сохраните файл. Если вы перейдете в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
+
 ```
 git add Contributors.md
 ```
 
-Teraz scommituj te zmiany wykonując komendę `git commit`.
+Теперь закоммитьте данные изменния с помощью команды `git commit`.
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-Zastąp `<your-name>` swoim loginem
+Измените `<your-name>` на ваше имя
 
-## Wysyłanie zmian github
+## Запушьте изменения на github
 
-Wyślij swoje zmiany komendą `git push`
+Запушьте ваши изменения с помощью `git push`
 ```
 git push origin <add-your-name>
 ```
-Zastąp `<add-your-name>` nazwą gałęzi, którą wcześniej utworzyłeś
+Измените `<add-your-name>` на имя ветки, которую вы создали ранее.
 
-## Wyślij swoje zmiany do recenzji
+## Подтвердите измнения для ревью
 
-Jeżeli wejdziesz w swoje repozytorium na githubie, to zobaczysz przycisk `Compare & pull request`. Kliknij go.
+Если вы зайдете в свой репозиторий на github, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Teraz wyślij żądanie scalenia.
+Теперь подтвердите пулл-реквест.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## Utrzymywanie swojej kopii aktualnej
+## Синхронизируйте ваше ответвление с данным репозиторием
 
-Jeżeli jakieś zmiany zostaną dołączone do głównej gałęzi tego projektu, Twoja kopia nie zobaczy tego. Musisz zsynchronizować swoją kopię z głownym repozytorium, dodaj adres tego repozytorium jako nadrzędny `upstream remote url`.
+Теперь вы готовы смержить все ваши изменения в мастер-ветку данного репозитория. Данные изменения не будут добавлены к вашему ответвлению. Для того, чтобы синхронизировать ваше ответлвение с моим, добавьте ссылку на мой репозиторий с помощью `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Dzięki temu git będzie wiedzieć, że istnieje taki sam projekt pod tym adresem i jest nadrzędny. Gdy zajdą w nim zmiany zostaną musisz pobrać nową wersję repozytorium.
+Таким образом мы сообщим git'у что существует другая версия данного проекта по определенной ссылке и мы ее считаем мастером. Как только измнения смержены, подгрузите новую версию моего репозитория.
 ```
 git fetch upstream
 ```
 
-Tu ściągamy zmiany z nadrzędnego repozytorium. Teraz musimy je dołączyć do naszej kopii.
+Таким образом мы забрали все изменения в моем ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
 ```
 git rebase upstream/master
 ```
-Akceptujemy wszystkie zmiany, które przyszły do naszej gałęzi głównej. Teraz jeżeli wypchniemy naszą gałąź głowną to będzie już zawierać te zmiany.
+Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
 ```
 git push origin master
 ```
+Обратите внимение, что вы пушите в удаленной репозиторий origin.
 
-## Co dalej?
+## Использование других инструментов
 
-Znajdziesz dużo łatwych do zrobienia rzeczy na: [contributor.ninja](https://contributor.ninja).
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-Oto lista popularnych projektów, w których jest dużo łatwych rzeczy do zrobienia. Miłej nauki!
+
+## Что далее?
+
+Вы найдете много заданий для новичков на: [contributor.ninja](https://contributor.ninja).
+
+Ниже несколько популярных репозиториев, где вы можете найти задания для ноичков. Вперед, перейдите в репозитории, чтобы узнать больше.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -114,3 +124,4 @@ Oto lista popularnych projektów, w których jest dużo łatwych rzeczy do zrobi
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+

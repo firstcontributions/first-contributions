@@ -1,6 +1,6 @@
 # प्रथम योगदान
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) (रूसी)[README.ru.md]
 
@@ -12,7 +12,7 @@
 
 ## रिपोजिटरी क्लोन
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 अब आप अपने मशीन को यह रेपो क्लोन। क्लोन बटन पर क्लिक करें और फिर कॉपी आइकन क्लिपबोर्ड
 
@@ -30,7 +30,7 @@ git clone "यूआरएल का नकल "
 git clone https://github.com/यह तुम हो/first-contributions.git
 ```
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ' यह तुम हो 'अपने GitHub उपयोगकर्ता नाम है। यहाँ आप अपने कंप्यूटर के लिए GitHub में पहली योगदान भंडार की सामग्री नकल कर रहे हैं
 
@@ -84,11 +84,11 @@ git push origin <अपना नाम जोड़>
 
 आप GitHub पर अपने भंडार के लिए जाना है, तो आप देख `Compare & pull request` बटन खींच लेंगे। उस बटन पर क्लिक करें।
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 अब पुल अनुरोध सबमिट करें।
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 ## अपने कांटा इस भंडार के साथ समन्वयित रखते हुए
 
@@ -117,6 +117,15 @@ git push origin master
 ```
 
 यहां सूचना आप दूरदराज के नाम पर रखा मूल करने के लिए जोर दे रहे हैं।
+
+
+## अन्य टूल का उपयोग करके ट्यूटोरियल
+
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+
+
 
 ## यहाँ से कहाँ जाएं ?
 

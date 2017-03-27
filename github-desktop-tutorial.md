@@ -1,110 +1,119 @@
-# Đóng góp đầu tiên
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />  
+# First Contributions
 
-*Đọc bản hướng dẵn này bằng các ngôn ngữ khác:  [Tiếng Anh](README.md), [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Việt](README.vn.md).*
+|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="200">|GitHub Desktop Edition|
+|---|---|
 
-Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-## Fork kho mã nguồn này
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-Fork kho mã nguồn này bằng cách nhấn vào nút Fork
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-## Sao chép (clone) kho mã nguồn
+If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />  
+## Fork this repository
 
-Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
+Fork this repo by clicking on the fork button on the top of this page.
+This will create of copy of this repository in your account.
 
-Mở một bộ xử lý terminal và chạy lệnh git sau đây:
+## Clone the repository
 
-```
-git clone "url bạn vừa sao chép"
-```
-Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
+Now clone this repo to your machine.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+Open the GitHub Desktop app and click on the `+` on the top left.
 
-Ví dụ:
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
+<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
 
-## Tạo một chi nhánh (branch)
+If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
 
-Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
+<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-```
-cd first-contributions
-```
-Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
-```
-git checkout -b <them-ten-ban>
-```
+Choose the directory on your machine you would like to clone first-contributions into 
 
-Ví dụ:
-```
-git checkout -b them-Tran-Ly-Vu
-```
+<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
-## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
+Now you have copied the contents of the first-contributions repository in github to your computer.
 
-Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
-```
-git add Contributors.md
-```
+## Create a branch
 
-Bây giờ chấp nhận những thay đổi bằng cách sử dụng dòng lệnh 'git commit` dưới đây.
-```
-git commit -m "Them <ten-ban> vào danh sách Cộng tác viên"
-```
-thay thế `<ten-ban>` với tên của bạn
+Now create a branch by clicking on the branch icon at the top left:
 
-## Đẩy thay đổi lên github
+<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
 
-Đẩy những thay đổi của bạn sử dụng `git push`
-```
-git push origin <them-ten-ban>
-```
-Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó
+Name your branch add-your-name. For example, add-crawleya
 
-## Gửi những thay đổi của bạn để được xem xét
+Click on `Create new branch`
 
-Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nút `Compare & pull request`.Nhấp vào nút đó.
+<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
+
+## Make necessary changes and commit those changes
+
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+
+You can see that there are changes to Contributors.md and they have been added.
+
+<img style="float: right;" src="assets/dt-status.png" alt="check status" />
+
+Now commit those changes:
+
+Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+
+Replace `<your-name>` with your name
+
+Click on the button that says `Commit to add-your-name`
+
+<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
+
+At the bottom, you can see that the commit has been created.
+
+<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
+
+## Push changes to github
+
+Click the `Publish` button on the top right.
+
+<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
+
+## Submit your changes for review
+
+If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Bây giờ gửi yêu cầu kéo.
+Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
+## Keeping your fork synced with this repository
 
-Bây giờ tôi sẽ sáp nhập tất cả các thay đổi của bạn vào chi nhánh chủ (master) của dự án này. Fork của bạn sẽ không có những thay đổi này. Để giữ bản sao của bạn được đồng bộ hóa với kho lưu thữ của tôi, thêm url của kho mã nguồn của tôi như là một `upstream remote url`.
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-Đây là một cách để nói với git rằng một phiên bản khác của dự án này đang tồn tại trong một url khác và chúng ta gọi đó là phiên bản chủ (master). Một khi các thay đổi được sáp nhập, kéo phiên bản mới này đang nằm trong kho mã nguồn của tôi.
-```
-git fetch upstream
-```
+Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
 
-Ở đây chúng ta lấy tất cả những thay đổi trong fork của tôi (upstream remote). Bây giờ, bạn cần phải hợp nhất các phiên bản mới của kho mã nguồn của tôi vào chi nhánh chủ (master) của bạn.
-```
-git rebase upstream/master
-```
-Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
-```
-git push origin master
-```
-Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
+In order to keep your fork synced with mine, click `Sync` on the top right.
 
-## Tiếp tục đóng góp?
+<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
 
-Bạn sẽ tìm thấy nhiều vấn đề (issues) dễ cho người bắt đầu tại: [contributor.ninja](https://contributor.ninja).
+When there are new commits to sync, click `Update from Roshanjossey/master`
 
-Dưới đây là một số vấn đề cho người bắt đầu trong các kho mã nguồn phổ biến mà bạn có thể tham gia đóng góp. Nhấn vào những kho mã nguồn này để tìm hiểu thêm
+<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
+
+Hovering over `Update from Roshanjossey/master` will show you that you are up to date:
+
+<img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
+
+## Tutorials Using Other Tools
+
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+
+## Where to go from here?
+
+You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
+
+Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

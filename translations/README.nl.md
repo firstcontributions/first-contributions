@@ -1,112 +1,112 @@
-# Первый вклад в проект
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md) [Japanese](README.ja.md)*
+Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
-Если у вас не установлен git на компьютере, [ установите его ]( https://help.github.com/articles/set-up-git/ )
+## Deze repo forken
 
-## Создайте ответвление
+Fork deze repo door op de fork knop te klikken
 
-Создайте собственное ответвление, нажав на кнопку "fork"
+## De repo clonen
 
-## Склонируйте репозиторий
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
 
-Теперь склонируйте ваш репозиторий на пк. Нажмите на кнопку "clone", а затем на иконку планшета, чтобы скопировать ссылку.
-
-Откройте терминал и запустите следующую git команду:
+Open een terminal en voer volgend git commando uit:
 
 ```
-git clone "url you just copied"
+git clone "url die je net kopieerde"
 ```
-Где "url you just copied" (без кавычек) это ссылка на ваш репозиторий. Посмотрите предыдущие шаги, чтобы получить эту ссылку.
+Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Например:
+Bijvoorbeeld:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Где 'this-is-you' ваш логин на github'e.  Таким образом вы копируете репозиторий для вашего первого вклада на ваш компьютер.
+Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
 
-## Создайте ветку
+## Een branch aanmaken
 
-Перейдите в директорию репозитория на вашем компьютере, если вы еще не там.
+Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
 
 ```
 cd first-contributions
 ```
-Теперь создайте ветку, с помощью `команды git checkout`
-
+Maak nu een branch aan door middel van het `git checkout command`
 ```
-git checkout -b <add-your-name>
-```
-
-Например:
-```
-git checkout -b add-alonzo-church
+git checkout -b <je-nieuwe-branch-naam>
 ```
 
-## Внесите необходимые изменения и создайте коммит
+Bijvoorbeeld:
+```
+git checkout -b add-thibmaek
+```
 
-Откройте файл `Contributors.md` в вашем текстовом редакторе, впешите ваше имя и сохраните файл. Если вы перейдете в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
+## Maak de benodigde wijzigingen en commit deze
 
+Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
 ```
 git add Contributors.md
 ```
 
-Теперь закоммитьте данные изменния с помощью команды `git commit`.
+Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <jouw-naam> to Contributors list"
 ```
-Измените `<your-name>` на ваше имя
+vervang `<jouw-naam>` met jouw naam
 
-## Запушьте изменения на github
+## Push de wijzigingen naar Github
 
-Запушьте ваши изменения с помощью `git push`
+Push je wijzigingen met `git push`
 ```
-git push origin <add-your-name>
+git push origin <je-nieuwe-branch-naam>
 ```
-Измените `<add-your-name>` на имя ветки, которую вы создали ранее.
+Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
 
-## Подтвердите измнения для ревью
+## Verstuur je wijzigingen voor review
 
-Если вы зайдете в свой репозиторий на github, вы увидите кнопку `Compare & pull request`. Нажмите на нее.
+Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Теперь подтвердите пулл-реквест.
+Verstuur nu je pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## Синхронизируйте ваше ответвление с данным репозиторием
+## Je fork in sync houden met de hoofd-repository
 
-Теперь вы готовы смержить все ваши изменения в мастер-ветку данного репозитория. Данные изменения не будут добавлены к вашему ответвлению. Для того, чтобы синхронизировать ваше ответлвение с моим, добавьте ссылку на мой репозиторий с помощью `upstream remote url`.
+Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
-Таким образом мы сообщим git'у что существует другая версия данного проекта по определенной ссылке и мы ее считаем мастером. Как только измнения смержены, подгрузите новую версию моего репозитория.
+Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
 ```
 git fetch upstream
 ```
 
-Таким образом мы забрали все изменения в моем ответвлении (upstream remote). После, вам нужно смержить новую версию моего репозитория с вашей мастер-веткой.
+Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
 ```
 git rebase upstream/master
 ```
-Так вы применяете все изменения, которые вы подтянули к вашей мастер-ветке. Если вы запушите сейчас мастер-ветку, ваше ответвление тоже будет содержать изменения.
+Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
 ```
 git push origin master
 ```
-Обратите внимение, что вы пушите в удаленной репозиторий origin.
+Merk op dat je in dit geval pusht naar de remote met de naam origin.
 
-## Что далее?
+## Tutorials gebruiken Andere hulpmiddelen
 
-Вы найдете много заданий для новичков на: [contributor.ninja](https://contributor.ninja).
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-Ниже несколько популярных репозиториев, где вы можете найти задания для ноичков. Вперед, перейдите в репозитории, чтобы узнать больше.
+
+## Verdergaan van hieruit
+
+Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
