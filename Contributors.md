@@ -81,3 +81,4 @@
 - [Shiro Developer](https://github.com/shirodeveloper)
 - [Ivan Stojanov](https://github.com/ivostojanov)
 - [Rohan Gurjar](https://github.com/RohanGurjar)
+- [Carlos Dias](https://github.com/carloscdias)
