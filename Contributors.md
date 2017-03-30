@@ -83,3 +83,4 @@
 - [Rohan Gurjar](https://github.com/RohanGurjar)
 - [Carlos Dias](https://github.com/carloscdias)
 - [Lucas Martino](https://github.com/lucas95inc)
+Alsendor Nucum(Draymond)
