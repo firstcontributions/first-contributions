@@ -85,3 +85,4 @@
 - [Carlos Dias](https://github.com/carloscdias)
 - [Lucas Martino](https://github.com/lucas95inc)
 - [Alsendor Nucum (Draymond)](https://github.com/alsendor)
+- [Alin Musat](https://github.com/alinbr)
