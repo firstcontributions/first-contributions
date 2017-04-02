@@ -111,8 +111,6 @@ Hovering over `Update from Roshanjossey/master` will show you that you are up to
 
 ## Where to go from here?
 
-You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
-
 You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
 
 Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
