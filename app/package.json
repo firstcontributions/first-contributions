@@ -2,7 +2,7 @@
   "name": "first-contributions",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://multunus.github.io/first-contributions",
+  "homepage": "https://roshanjossey.github.io/first-contributions",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.7.0"
