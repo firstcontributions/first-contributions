@@ -16,7 +16,7 @@ Si no tienes git en tu máquina, [ instálalo ]( https://help.github.com/article
 Haz *fork* de éste repo haciendo click en el botón "Fork" que está arriba de esta página.
 Esto creará una copia de éste repositorio en tu cuenta.
 
-## Cloná el repositorio
+## Cloná(*Clone*) el repositorio
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar éste repositorio" />
 
@@ -37,7 +37,7 @@ git clone https://github.com/éste-eres-tu/first-contributions.git
 ```
 Donde "éste-eres-tu" es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio first-contributions en GitHub a tú computador
 
-## Crear una rama(*branch*)
+## Crear una rama(*Branch*)
 
 Cambiá al directorio del repositorio en tu computador si es que no estás ahí.
 
@@ -56,7 +56,7 @@ Por ejemplo
 git checkout -b add-alonzo-church
 ```
 
-## Hacer los cambios necesarios y confirmar(commit) esos cambios
+## Hacer los cambios necesarios y confirmar(*Commit*) esos cambios
 
 Ahora abrí el archivo `Contributors.md` en un editor de texto y añadi tu nombre, luego guardá el archivo. Si vas al directorio del proyecto y haces `git status`, verás que hay cambios. Agregá esos cambios usando el comando `git add` que está abajo.
 ```
@@ -77,7 +77,7 @@ git push origin <añade-tu-nombre>
 ```
 Cambiá `<añade-tu-nombre>` con el nombre de la branch que creaste antes
 
-## Enviar(*submit*) tus cambios para ser revisados
+## Enviar(*Submit*) tus cambios para ser revisados
 
 Si vas a tú repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre éste botón.
 
