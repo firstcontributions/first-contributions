@@ -5,7 +5,8 @@
   "homepage": "https://roshanjossey.github.io/first-contributions",
   "devDependencies": {
     "gh-pages": "^0.12.0",
-    "react-scripts": "0.7.0"
+    "react-scripts": "0.7.0",
+    "sw-precache": "^4.0.0"
   },
   "dependencies": {
     "react": "^15.3.2",
@@ -13,9 +14,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp manifest.json build/ && sw-precache --root='build/' --static-file-globs='build/**/!(*map*)'",
+    "gh-pages": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "npm run build&&gh-pages -d build"
-  }
+  },
+  "homepage": "./"
 }
