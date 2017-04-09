@@ -91,3 +91,4 @@
 - [Steve Ford](https://github.com/d1sco)
 - [Mike Chatsky](https://github.com/mikeChatsky)
 - [Chris Ball](https://github.com/Balldy)
+- [Rahul Malhotra](https://github.com/rahulmalhotra9620)
