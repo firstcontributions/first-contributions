@@ -97,3 +97,4 @@
 - [Ahmad W Khan](https://github.com/oli18)
 - [organdonor86](https://github.com/organdonor86)
 - [RocketSc](https://github.com/RocketSc)
+- [Pratik6554](https://github.com/pratik6554)
