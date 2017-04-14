@@ -1,0 +1,24 @@
+.CardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border: solid 1px black;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    background: white;
+}
+
+.CardTitle{
+    
+}
+
+.CardSummary{
+
+
+}
+
+.CardLink{
+
+}
