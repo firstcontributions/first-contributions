@@ -1,17 +1,43 @@
 .CardContainer{
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    border: solid 1px black;
+    align-items: flex-start;
+    justify-content: space-around;
     padding: 20px;
     width: 200px;
     height: 200px;
-    background: white;
+    background: #ECEFF1;
+}
+
+.CardContainer:hover{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    background: #ECEFF1;
+    box-shadow: 3px 3px 1px 1px #B0BEC5;
+}
+
+.Row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-self: center;
+}
+
+.Image{
+    height: 50px;
+    width: auto;
+    padding: 0px;
+    margin: 0px;
 }
 
 .CardTitle{
-    
+    color: #212121;
 }
 
 .CardSummary{
@@ -20,5 +46,5 @@
 }
 
 .CardLink{
-
+    align-self: center;
 }
