@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Card from './Card';
 import ListOfProjects from './ListOfProjects';
 import SearchInput from './SearchInput';
+import "./ProjectsList.css";
 
 class ProjectsList extends Component {
     constructor(props){
@@ -27,7 +28,7 @@ class ProjectsList extends Component {
 
     displayFiltered(){
         return(
-            <div>
+            <div className="RowContainer">
                 {this.state.projects.map((comp, index) => (
                     this.renderCard(comp)
                 ))}
@@ -37,7 +38,7 @@ class ProjectsList extends Component {
 
     render() {
         return (
-            <div>
+            <div className="ColumnContainer">
                 <SearchInput passValueUp={this.getSearchValue}/>
                 {this.displayFiltered()}
             </div>
