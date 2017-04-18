@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Card from './Card';
-import ListOfProjects from './ListOfPorjects';
+import ListOfProjects from './ListOfProjects';
 import SearchInput from './SearchInput';
 
 class ProjectsList extends Component {
@@ -12,6 +12,7 @@ class ProjectsList extends Component {
             searchValue: ""
         };
 
+        this.renderCard = this.renderCard.bind(this);
         this.displayFiltered = this.displayFiltered.bind(this);
         this.getSearchValue = this.getSearchValue.bind(this);
     }
@@ -20,9 +21,17 @@ class ProjectsList extends Component {
         this.setState({searchValue: newValue});
     }
 
+    renderCard(dataObj){
+        return(<Card Info={dataObj}/>);
+    }
+
     displayFiltered(){
         return(
-            
+            <div>
+                {this.state.projects.map((comp, index) => (
+                    this.renderCard(comp)
+                ))}
+            </div>
         );
     }
 
@@ -30,7 +39,7 @@ class ProjectsList extends Component {
         return (
             <div>
                 <SearchInput passValueUp={this.getSearchValue}/>
-                {displayFiltered()}
+                {this.displayFiltered()}
             </div>
         );
     }
