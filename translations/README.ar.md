@@ -29,9 +29,6 @@
 <div dir="rtl">
 إفرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع في حسابك الخاص.
-
-<br>
-<br>
 </div>
 
 ## <div dir="rtl"> إستنسخ هذا المشروع - Clone the repository </div>
@@ -42,18 +39,8 @@
 استنسخ هذا المشروع إلى جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-<br>
-<br>
-<br>
-<br>
-<br>
 إفتح التريمنال وأكتب الأمر التالي:
 </div>
 
@@ -98,9 +85,9 @@ git checkout -b <add-your-name>
 <br>
 على سبيل المثال: </div>
 <br>
-```
+<code>
 git checkout -b add-alonzo-church
-```
+</code>
 
 <br>
 ## <div dir="rtl"> قم بإجراء التعديلات المطلوبة وأتممها </div>
@@ -116,23 +103,28 @@ git add Contributors.md
 ```
 
 <div dir="rtl">الآن قم بإتمام التغيررات بإستخدام الأمر <code>git commit</code>.</div>
-```
+
+<code>
 git commit -m "Add <your-name> to Contributors list"
-```
+</code>
+
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
 
 ## <div dir="rtl"> إرفع التغيررات إلى جت هاب - Push changes to Github </div>
 
 <div dir="rtl">إرفع التغيررات عن طريق الأمر <code>git push</code></div>
-```
+
+<code>
 git push origin <add-your-name>
-```
+</code>
+
 <div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع الذي أنشأته من قبل.</div>
 
 
 <br>
-## <div dir="rtl">سلم تغيراتك للمراجعة</div>
+<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
+
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare & pull request</code>. إضغط على هذا الزر.</div>
 
@@ -150,31 +142,31 @@ git push origin <add-your-name>
 
  <div dir="rtl">الخطوة الأولى، إنتقل إلى الفرع الرئيسي.</div>
 
- ```
+ <code>
  git checkout master
- ```
+ </code>
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
-```
+<code>
 git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
+</code>
 
 <div dir="rtl">بهذه الطريقة نخبر جت أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
 بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:</div>
 
-```
+<code>
 git fetch upstream
-```
+</code>
 
 <div dir="rtl">هنا سنقوم بسحب جميع التغيررات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
-```
+<code>
 git rebase upstream/master
-```
+</code>
 
 <div dir="rtl">وهنا تطبق التغيررات إلى الفرع الرئيسي. إذا رفعت التغيررات لفرعك الرئيسي سيتم تحديث مشروعك</div>
-```
+<code>
 git push origin master
-```
+</code>
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> إسمه <code>origin</code>.</div>
 <br>
 
