@@ -48,13 +48,9 @@
 git clone "url you just copied"
 ```
 
-<div dir="rtl">
-قم بإستبدال "url you just copied" بالرابط الذي نسخته من الخطوة السابقة، هذا الرابط يحتوي على المشروع.
-</div>
+<div dir="rtl">قم بإستبدال "url you just copied" بالرابط الذي نسخته من الخطوة السابقة، هذا الرابط يحتوي على المشروع.</div>
 
-<div dir="rtl">
-على سبيل المثال:
-</div>
+<div dir="rtl">على سبيل المثال:</div>
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
@@ -77,20 +73,20 @@ cd first-contributions
 <div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
 
 ```
-git checkout -b <add-your-name>
+git checkout -b "add-your-name"
 ```
 
-<div dir="rtl">
-إسمك بدل add-your-name
-<br>
-على سبيل المثال: </div>
-<br>
-<code>
-git checkout -b add-alonzo-church
-</code>
+<div dir="rtl">إسمك بدل add-your-name</div>
+
+<div dir="rtl">على سبيل المثال:</div>
+
+```
+git checkout -b "add-alonzo-church"
+```
 
 <br>
-## <div dir="rtl"> قم بإجراء التعديلات المطلوبة وأتممها </div>
+
+## <div dir="rtl">قم بإجراء التعديلات المطلوبة وأتممها</div></h2>
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف إسمك ثم إحفظ الملف.
@@ -104,9 +100,9 @@ git add Contributors.md
 
 <div dir="rtl">الآن قم بإتمام التغيررات بإستخدام الأمر <code>git commit</code>.</div>
 
-<code>
+```
 git commit -m "Add <your-name> to Contributors list"
-</code>
+```
 
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
@@ -115,9 +111,9 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl">إرفع التغيررات عن طريق الأمر <code>git push</code></div>
 
-<code>
-git push origin <add-your-name>
-</code>
+```
+git push origin "add-your-name"
+```
 
 <div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع الذي أنشأته من قبل.</div>
 
@@ -126,7 +122,7 @@ git push origin <add-your-name>
 <h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
 
 
-<div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare & pull request</code>. إضغط على هذا الزر.</div>
+<div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. إضغط على هذا الزر.</div>
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -142,31 +138,36 @@ git push origin <add-your-name>
 
  <div dir="rtl">الخطوة الأولى، إنتقل إلى الفرع الرئيسي.</div>
 
- <code>
- git checkout master
- </code>
+```
+git checkout master
+```
 
  <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
-<code>
+ 
+```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
-</code>
+```
 
 <div dir="rtl">بهذه الطريقة نخبر جت أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
-بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:</div>
+بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
+</div>
 
-<code>
+```
 git fetch upstream
-</code>
+```
 
 <div dir="rtl">هنا سنقوم بسحب جميع التغيررات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
-<code>
+
+```
 git rebase upstream/master
-</code>
+```
 
 <div dir="rtl">وهنا تطبق التغيررات إلى الفرع الرئيسي. إذا رفعت التغيررات لفرعك الرئيسي سيتم تحديث مشروعك</div>
-<code>
+
+```
 git push origin master
-</code>
+```
+
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> إسمه <code>origin</code>.</div>
 <br>
 
