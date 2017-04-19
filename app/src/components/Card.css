@@ -1,3 +1,5 @@
+/* Styling for the Card.jsx class */
+
 .CardContainer{
     display: flex;
     flex-direction: column;

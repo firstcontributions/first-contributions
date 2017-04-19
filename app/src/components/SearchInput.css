@@ -1,3 +1,7 @@
+/*
+    Styling for the SearchInput class
+*/
+
 .RowContainer{
     display: flex;
     flex-direction: row;

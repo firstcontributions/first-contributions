@@ -1,3 +1,7 @@
+/*
+    Styling for ProjectsList.css
+*/
+
 .RowContainer{
     display: flex;
     flex-direction: row;

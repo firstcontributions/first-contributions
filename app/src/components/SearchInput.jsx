@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 
+/**
+ * This is a component with state. It is used in the ProjectsList Class to allow the user to 
+ * enter information. A function is passed down from the ProjectsList class, which allows the
+ * value of the input to be passed up.
+ */
 class SearchInput extends Component {
     constructor(props){
         super(props);
@@ -16,6 +21,9 @@ class SearchInput extends Component {
         this.setState({value: event.target.value})
     }
 
+    /**
+     * Runs the passed down function when called.
+     */
     submit(){
         this.props.passValueUp(this.state.value);
     }
