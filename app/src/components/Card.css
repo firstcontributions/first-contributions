@@ -3,7 +3,8 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-around;
-    padding: 20px;
+    padding: 50px;
+    margin: 20px;
     width: 200px;
     height: 200px;
     background: #ECEFF1;

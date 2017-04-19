@@ -10,37 +10,33 @@ class ProjectsList extends Component {
 
         this.state = {
             projects: ListOfProjects,
+            tempList: ListOfProjects,
             searchValue: ""
         };
 
-        this.renderCard = this.renderCard.bind(this);
-        this.displayFiltered = this.displayFiltered.bind(this);
         this.getSearchValue = this.getSearchValue.bind(this);
     }
     
     getSearchValue(newValue){
         this.setState({searchValue: newValue});
-    }
-
-    renderCard(dataObj){
-        return(<Card Info={dataObj}/>);
-    }
-
-    displayFiltered(){
-        return(
-            <div className="RowContainer">
-                {this.state.projects.map((comp, index) => (
-                    this.renderCard(comp)
-                ))}
-            </div>
-        );
+        let arr = [];
+        for(let i = 0; i < this.state.projects.length; i++){
+            if(this.state.projects[i].keywords.indexOf(this.state.searchValue) != -1){
+                arr.push(this.state.projects[i]);
+            }
+        }
+        this.setState({tempList: arr});
     }
 
     render() {
         return (
             <div className="ColumnContainer">
                 <SearchInput passValueUp={this.getSearchValue}/>
-                {this.displayFiltered()}
+                <div className="RowContainer">
+                    {this.state.tempList.map((item, index)=>(
+                        <Card Info={item} />
+                    ))}
+                </div>
             </div>
         );
     }

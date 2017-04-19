@@ -9,10 +9,14 @@ class SearchInput extends Component {
         }
 
         this.handleChange = this.handleChange.bind(this);
+        this.submit = this.submit.bind(this);
     }
 
     handleChange(event){
         this.setState({value: event.target.value})
+    }
+
+    submit(){
         this.props.passValueUp(this.state.value);
     }
 
@@ -21,6 +25,7 @@ class SearchInput extends Component {
             <div className="">
                 <h3 className="">Search: </h3>
                 <input className=""type="text" value={this.state.value} onChange={this.handleChange}/>
+                <button onClick={this.submit}>Filter</button>
             </div>
         );
     }
