@@ -2,11 +2,11 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-around;
-    padding: 50px;
+    justify-content: space-between;
+    padding: 20px;
     margin: 20px;
-    width: 200px;
-    height: 200px;
+    width: 230px;
+    height: 250px;
     background: #ECEFF1;
 }
 
@@ -14,12 +14,13 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 20px;
-    width: 200px;
-    height: 200px;
+    margin: 20px;
+    width: 230px;
+    height: 250px;
     background: #ECEFF1;
-    box-shadow: 3px 3px 1px 1px #B0BEC5;
+    box-shadow: 0 10px 6px -6px #B0BEC5;
 }
 
 .Row{
@@ -27,7 +28,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    align-self: center;
 }
 
 .Image{
@@ -39,13 +39,16 @@
 
 .CardTitle{
     color: #212121;
+    font-size: 23px;
 }
 
 .CardSummary{
 
-
+    font-size: 15px;
 }
 
 .CardLink{
     align-self: center;
+    text-decoration: none;
+    color: blue;
 }

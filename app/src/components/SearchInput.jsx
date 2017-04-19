@@ -22,9 +22,8 @@ class SearchInput extends Component {
 
     render() {
         return (
-            <div className="">
-                <h3 className="">Search: </h3>
-                <input className=""type="text" value={this.state.value} onChange={this.handleChange}/>
+            <div className="RowContainer">
+                <input className="" type="text" value={this.state.value} onChange={this.handleChange}/>
                 <button onClick={this.submit}>Filter</button>
             </div>
         );
