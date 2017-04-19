@@ -19,7 +19,7 @@
 
 
 <div dir="rtl">
-إذا لم يكن لديك جت على الجهاز الخاص بك، [ قم بتثبيته من هنا ]( https://help.github.com/articles/set-up-git/ )
+إذا لم يكن لديك جت على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
 
 ## <div dir="rtl"> إفرق هذا المشروع - Fork this Repository </div>
