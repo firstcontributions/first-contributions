@@ -15,8 +15,15 @@ const companiesList = [
         summary: "An open source community that helps you learn to code",
         site: "https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md",
         keywords: ["freeCodeCamp", "JavaScript", "HTML", "CSS"]
-    }
+    },
 
+    {
+        title: "exercism",
+        src: "https://avatars2.githubusercontent.com/u/5624255?v=3&s=200",
+        summary: "Exercism gives you hundreds of practice problems in over 30 programming languages, and a place where you can get feedback on your solutions.",
+        site: "https://github.com/exercism/exercism.io/blob/master/CONTRIBUTING.md",
+        keywords: ["JavaScript", "Java", "Ruby", "C#"]
+    },
 
 ];
 
