@@ -11,8 +11,6 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 *Read this in other languages: [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md).*
 
-If command-line tools make you uneasy, try our guide based on [GitKraken](gitkraken-tutorial.md).
-
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
 
 ## Fork this repository
@@ -127,8 +125,6 @@ Notice here you're pushing to the remote named origin.
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 ## Where to go from here?
-
-You will find many beginner-friendly issues on: [contributor.ninja](https://contributor.ninja).
 
 You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
 
