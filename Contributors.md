@@ -111,3 +111,4 @@
 - [Emily Symonds](https://github.com/emilysymonds)
 - [Richa Singhal] (https://github.com/RichaSinghal)
 - [Vivek Kumar](https://github.com/vivekaltruist)
+- [Sumit KA] (https://github.com/sumitk39)
