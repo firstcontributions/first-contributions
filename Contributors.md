@@ -111,4 +111,5 @@
 - [Emily Symonds](https://github.com/emilysymonds)
 - [Richa Singhal] (https://github.com/RichaSinghal)
 - [Vivek Kumar](https://github.com/vivekaltruist)
-- [Sumit KA] (https://github.com/sumitk39)
+- [Thomas Herman](https://github.com/thomasherman)
+- [Sumit Kumar] (https://github.com/sumitk39)
