@@ -1,0 +1,56 @@
+/* Styling for the Card.jsx class */
+
+.CardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    width: 230px;
+    height: 250px;
+    background: #ECEFF1;
+}
+
+.CardContainer:hover{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    width: 230px;
+    height: 250px;
+    background: #ECEFF1;
+    box-shadow: 0 10px 6px -6px #B0BEC5;
+}
+
+.Row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Image{
+    height: 50px;
+    width: auto;
+    padding: 0px;
+    margin: 0px;
+}
+
+.CardTitle{
+    color: #212121;
+    font-size: 23px;
+}
+
+.CardSummary{
+
+    font-size: 15px;
+}
+
+.CardLink{
+    align-self: center;
+    text-decoration: none;
+    color: blue;
+}
