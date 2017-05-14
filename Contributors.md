@@ -117,3 +117,5 @@
 - [Rahul Agarwal](https://github.com/RTG8055)
 - [Vedant Chakravadhanula](https://github.com/Vedant-sopho)
 - [Allen Johnson](https://github.com/allenhj
+Vijay Kumar
+Deepak Hooda
