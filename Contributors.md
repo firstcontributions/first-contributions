@@ -116,6 +116,7 @@
 - [Ankur Gupta](https://github.com/ankurg22)
 - [Rahul Agarwal](https://github.com/RTG8055)
 - [Vedant Chakravadhanula](https://github.com/Vedant-sopho)
-- [Allen Johnson](https://github.com/allenhj
+- [Allen Johnson](https://github.com/allenhj)
+- [Saurabh Datir](https://github.com/dinosaurabh)
 Vijay Kumar
 Deepak Hooda
