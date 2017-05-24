@@ -119,5 +119,6 @@
 - [Allen Johnson](https://github.com/allenhj)
 - [Saurabh Datir](https://github.com/dinosaurabh)
 - [Yogendra Sharma] (https://github.com/Yogendra0Sharma)
+- [George Doykan](https://github.com/gdoykan)
 Vijay Kumar
 Deepak Hooda
