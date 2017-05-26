@@ -122,3 +122,4 @@
 - [George Doykan](https://github.com/gdoykan)
 Vijay Kumar
 Deepak Hooda
+[Panayiotis Kaizo](https://github.com/pns2050)
