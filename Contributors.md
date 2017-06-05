@@ -125,4 +125,5 @@ Deepak Hooda
 - [Panayiotis Kaizo](https://github.com/pns2050)
 - [Kartik Sharma](https://github.com/StarryFire)
 Grant Hixson
+- [AndroidFanatic](https://github.com/androidfanatic)
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
