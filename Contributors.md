@@ -126,3 +126,4 @@ Deepak Hooda
 - [Kartik Sharma](https://github.com/StarryFire)
 Grant Hixson
 - [AndroidFanatic](https://github.com/androidfanatic)
+- [Ernesto Alarcon](https://github.com/ernestoalarcon)
