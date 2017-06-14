@@ -129,3 +129,4 @@ Grant Hixson
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
 - [Santiago Carello](https://github.com/santiagocarello)
 - [Nilesh Deepak](https://github.com/nileshdeepak)
+- [Vakas Zia]
