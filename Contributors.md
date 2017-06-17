@@ -135,3 +135,4 @@ Grant Hixson
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu�n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
+- [Hakeem Davis](https://github.com/dearhakeemdavis)
