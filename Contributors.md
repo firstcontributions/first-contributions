@@ -137,3 +137,4 @@ Grant Hixson
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 Kira
+- [Sergey Solovev](https://github.com/sergeysolovev)
