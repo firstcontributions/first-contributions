@@ -139,3 +139,4 @@ Grant Hixson
 Kira
 -[Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
+- [Rachit](https://github.com/iamrachitgulati)
