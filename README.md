@@ -5,13 +5,13 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ )
+If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Fork this repository
 
@@ -37,11 +37,11 @@ For example:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
 ## Create a branch
 
-Change to the repository directory on your computer (if you are not already there.)
+Change to the repository directory on your computer (if you are not already there):
 
 ```
 cd first-contributions
@@ -68,7 +68,7 @@ Now commit those changes using the `git commit` command:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-(Replace `<your-name>` with your name.)
+replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
@@ -76,7 +76,7 @@ Push your changes using the command `git push`:
 ```
 git push origin <add-your-name>
 ```
-Replace `<add-your-name>` with the name of the branch you created earlier
+replacing `<add-your-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
@@ -112,7 +112,7 @@ Here we're fetching all the changes in my fork (upstream remote). Now, you need 
 ```
 git rebase upstream/master
 ```
-Here you're applying all the changes you fetched to master branch. If you push master branch now, your fork will also have the changes
+Here you're applying all the changes you fetched to master branch. If you push the master branch now, your fork will also have the changes:
 ```
 git push origin master
 ```
