@@ -5,7 +5,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -103,7 +103,7 @@ The master branch of your fork won't have the changes. In order to keep your for
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository:
+This is a way of telling git that another version of this project exists in the specified url and we're calling it `upstream`. Once the changes are merged, fetch the new version of my repository:
 ```
 git fetch upstream
 ```
@@ -118,15 +118,15 @@ git push origin master
 ```
 Notice here you're pushing to the remote named origin.
 
-At this point I have merged your branch into my master,  you have merged my master into yours, and your branch is no longer needed, so you may delete it:
+At this point I have merged your branch `<add-your-name>` into my master branch, and you have merged my master branch into your own master branch.  Your branch is now no longer needed, so you may delete it:
 ```
 git branch -d <add-your-name>
 ```
-and you can also delete the version of it in the remote repository, too:
+and you can delete the version of it in the remote repository, too:
 ```
 git push origin --delete <add-your-name>
 ```
-This isn't necessary, but the name of this branch suggests its rather special purpose and its life can be made correspondingly short.
+This isn't necessary, but the name of this branch shows its rather special purpose.  Its life can be made correspondingly short.
 
 ## Tutorials Using Other Tools
 
