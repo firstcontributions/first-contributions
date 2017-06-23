@@ -142,3 +142,4 @@ Kira
 - [Rachit](https://github.com/iamrachitgulati)
 - [joseph](https://github.com/Joseph1989)
 - [Marnix](https://github.com/MarnixDev)
+- [Tatiana Leontieva](https://github.com/yepstepz)
