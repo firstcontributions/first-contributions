@@ -144,4 +144,4 @@ Kira
 - [Marnix](https://github.com/MarnixDev)
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
-- [Kanav Gupta](https://github.com/kanav-7)
+-[Kanav Gupta](https://github.com/kanav-7)
