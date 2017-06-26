@@ -1,4 +1,4 @@
-﻿- [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
+- [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
 - [Aravinth Natarajan](https://github.com/aravinth-itsme)
 - [Simon Tite](https://github.com/simontite-capita-ti)
 - [Chris Winsor](https://github.com/cwinsor)
@@ -145,4 +145,5 @@ Kira
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
 - [Kanav](https://github.com/kanav-7)
+Akanksha jolly
 
