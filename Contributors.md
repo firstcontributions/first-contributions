@@ -145,4 +145,4 @@ Kira
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
 - [Kanav](https://github.com/kanav-7)
-
+- [Neisy Wilson](https://github.com/yirini)
