@@ -146,3 +146,4 @@ Kira
 - [Tatiana Leontieva](https://github.com/yepstepz)
 - [Kanav](https://github.com/kanav-7)
 - [Neisy Wilson](https://github.com/yirini)
+- [Frank Silver](https://github.com/FrankSilver)
