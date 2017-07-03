@@ -154,4 +154,5 @@ Kira
 -[Muhsin.K] (https://github.com/muhzi4u)
 - [Eishan Lawrence] (https://github.com/eishan05)
 - [Blake] (https://github.com/Blake575)
+- [Sidekick] (https://github.com/KumarAmitMehta)
 
