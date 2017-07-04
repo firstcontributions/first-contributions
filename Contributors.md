@@ -156,4 +156,5 @@ Kira
 - [Eishan Lawrence] (https://github.com/eishan05)
 - [Blake] (https://github.com/Blake575)
 - [Sidekick] (https://github.com/KumarAmitMehta)
+- [Stanley Yu](https://github.com/stanley98yu)
 
