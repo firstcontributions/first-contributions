@@ -159,4 +159,4 @@ Kira
 - [Sidekick] (https://github.com/KumarAmitMehta)
 - [Stanley Yu](https://github.com/stanley98yu)
 - [Alex Scherbanov](https://github.com/koddo)
-
+- [David](https://github.com/nowtech)
