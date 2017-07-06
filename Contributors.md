@@ -160,3 +160,4 @@ Kira
 - [Stanley Yu](https://github.com/stanley98yu)
 - [Alex Scherbanov](https://github.com/koddo)
 - [David](https://github.com/nowtech)
+- [Prerna Sony](https://github.com/prernasony)
