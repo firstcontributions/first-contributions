@@ -2,9 +2,9 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) (रूसी)[README.ru.md]
+अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
 
-आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें] (https://help.github.com/articles/set-up-git/)
+आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
 
 ## कांट इस भंडार
 
