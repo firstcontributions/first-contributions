@@ -170,3 +170,4 @@ Kira
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
 - [Inci Qasimova](https://github.com/inci-august)
+- [Mickey Diener](https://github.com/mbdiener)
