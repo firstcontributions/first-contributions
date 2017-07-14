@@ -1,4 +1,4 @@
-﻿- [Victor Muigua](https://github.com/vamuigua)
+- [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S] (https://github.com/WSchindler)
 - [Gisel Calvo] (https://github.com/giselcalvo)
 - [Stefan Generalao](https://github.com/stefangeneralao)
@@ -170,3 +170,4 @@ Kira
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
 - [Inci Qasimova](https://github.com/inci-august)
+- [Tomas Falgui](https://github.com/tomy8910)
