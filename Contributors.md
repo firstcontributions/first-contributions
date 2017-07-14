@@ -171,3 +171,4 @@ Kira
 - [Ayush Aggarwal](https://github.com/ayushagg31)
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
+- [Mickey Diener](https://github.com/mbdiener)
