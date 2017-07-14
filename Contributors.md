@@ -1,4 +1,5 @@
-﻿- [Wolfgang S] (https://github.com/WSchindler)
+﻿- [Victor Muigua](https://github.com/vamuigua)
+- [Wolfgang S] (https://github.com/WSchindler)
 - [Gisel Calvo] (https://github.com/giselcalvo)
 - [Stefan Generalao](https://github.com/stefangeneralao)
 - [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
