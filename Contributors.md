@@ -172,5 +172,6 @@ Kira
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
+- [Arkadiusz Machalica](https://github.com/pokiujf)
 - [Mark Brown] (https://github.com/bethanybeachbum)
 - [Sarah G](https://github.com/sarahg813)
