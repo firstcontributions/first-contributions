@@ -177,4 +177,5 @@
 - [Mark Brown](https://github.com/bethanybeachbum)
 - [Sarah G](https://github.com/sarahg813)
 - [Saket](https://github.com/saket700)
+- [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
