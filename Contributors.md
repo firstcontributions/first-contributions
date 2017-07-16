@@ -179,3 +179,4 @@
 - [Saket](https://github.com/saket700)
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
+- [Manish Bhatt](https://github.com/manishbhatt94)
