@@ -1,3 +1,4 @@
+- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S](https://github.com/WSchindler)
@@ -180,3 +181,4 @@
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
 - [Manish Bhatt](https://github.com/manishbhatt94)
+- [Austin Leatham](https://github.com/aleatham)
