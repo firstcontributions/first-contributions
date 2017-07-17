@@ -183,3 +183,4 @@
 - [Manish Bhatt](https://github.com/manishbhatt94)
 - [Austin Leatham](https://github.com/aleatham)
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
+- [Connie Li](https://github.com/lishiyo)
