@@ -201,4 +201,5 @@
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo](https://github.com/casaja)
+- [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
