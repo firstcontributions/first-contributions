@@ -193,4 +193,5 @@
 - [Sachchit Bansal](https://github.com/sachiiit)
 - [Shreyash Soni] (https://github.com/ShreyashSoni)
 - [Christiaan Naude](https://github.com/cjnaude)
+- [Gudbjartur Sigurbergsson](https://github.com/gsig123)
 - [Marcelo Barbosa] (https://github.com/marbosa)
