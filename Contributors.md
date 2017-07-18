@@ -194,3 +194,7 @@
 - [Shreyash Soni] (https://github.com/ShreyashSoni)
 - [Christiaan Naude](https://github.com/cjnaude)
 - [Koffi Sani](https://github.com/koffisani)
+- [Gudbjartur Sigurbergsson](https://github.com/gsig123)
+- [Marcelo Barbosa] (https://github.com/marbosa)
+- [Vlad Bogdan](https://github.com/vladbogdan10)
+- [Svein Håvard Djupvik] (https://github.com/sveinhd)
