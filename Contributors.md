@@ -175,6 +175,7 @@
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
+- [chadb](https://github.com/chadb4184)
 - [Arkadiusz Machalica](https://github.com/pokiujf)
 - [Mark Brown](https://github.com/bethanybeachbum)
 - [Matei David](https://github.com/matei207)
