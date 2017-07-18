@@ -171,7 +171,7 @@
 - [Ashish Singh](https://github.com/ashish061291)
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
-- [Balaji Mj]
+- [Balaji Mj](https://github.com/Bala1718)
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
@@ -183,6 +183,7 @@
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
 - [Manish Bhatt](https://github.com/manishbhatt94)
 - [Austin Leatham](https://github.com/aleatham)
+- [mksap](https://github.com/mksap)
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
 - [eljoth](https://github.com/eljoth)
 - [Diky Pratansyah](https://github.com/pratansyah)
@@ -191,11 +192,11 @@
 - [Moshe Reubinoff](https://github.com/reubinoff)
 - [Arif Maulana](https://github.com/maulanaahmadarif)
 - [Sachchit Bansal](https://github.com/sachiiit)
-- [Shreyash Soni] (https://github.com/ShreyashSoni)
+- [Shreyash Soni](https://github.com/ShreyashSoni)
 - [Christiaan Naude](https://github.com/cjnaude)
 - [Koffi Sani](https://github.com/koffisani)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
-- [Marcelo Barbosa] (https://github.com/marbosa)
+- [Marcelo Barbosa](https://github.com/marbosa)
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
-- [Svein Håvard Djupvik] (https://github.com/sveinhd)
-- [Javier S. Castillo] [https://github.com/casaja]
+- [Svein Håvard Djupvik](https://github.com/sveinhd)
+- [Javier S. Castillo][https://github.com/casaja]
