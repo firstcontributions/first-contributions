@@ -195,4 +195,5 @@
 - [Christiaan Naude](https://github.com/cjnaude)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
 - [Marcelo Barbosa] (https://github.com/marbosa)
+- [Vlad Bogdan](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik] (https://github.com/sveinhd)
