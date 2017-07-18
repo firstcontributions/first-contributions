@@ -194,3 +194,4 @@
 - [Shreyash Soni] (https://github.com/ShreyashSoni)
 - [Christiaan Naude](https://github.com/cjnaude)
 - [Marcelo Barbosa] (https://github.com/marbosa)
+- [Vlad Bogdan](https://github.com/vladbogdan10)
