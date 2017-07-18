@@ -171,6 +171,7 @@
 - [Ashish Singh](https://github.com/ashish061291)
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
+- [Balaji Mj]
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
