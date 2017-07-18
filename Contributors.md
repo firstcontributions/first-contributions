@@ -199,4 +199,5 @@
 - [Marcelo Barbosa](https://github.com/marbosa)
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
-- [Javier S. Castillo][https://github.com/casaja]
+- [Javier S. Castillo](https://github.com/casaja)
+- [Rashid Lasker](https://github.com/rashidlasker)
