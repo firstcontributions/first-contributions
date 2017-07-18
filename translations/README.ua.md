@@ -1,145 +1,144 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# First Contributions
+# Перший внесок
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Це важко. Це завжди важко, коли ви робите щось вперше. Особливо, коли ви працюєте над проектом з кимось, помикли будуть вдвічі неприємнішими. Але Open Source завжди пов’язаний з колективною роботою. Ми хочемо спростити шлях для початківців, які бажають зробити свій перший внесок.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
+Можна прочитати безліч інструкцій та переглянути сотні відео, але що може бути краще, ніж спробувати зробити внесок і не зламати нічого? Ціль цього проекту надати можливість новачкам зробити їх перший внесок. Запам’ятайте: чим більше ви розслаблені, тим краще ви вчитеся. Якщо ви хочете зробити свій перший внесок, просто слідуйте простим крокам нижче. Ми обіцяємо, це буде весело!
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [Indonesian](translations/README.id.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md).*
+*Read this in other languages: [Indonesian](translations/README.id.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ ).
+Якщо ви ще не встановили GIT, тоді [ зробіть це негайно ]( https://help.github.com/articles/set-up-git/ ) :)
 
-## Fork this repository
+## Відгалужте репозиторій
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Відгалужте свою власну копію цього репозиторія, натиснувши кнопку `fork` зверху цієї сторінки.
+Це призведе до створення копії цього репозиторія у вашому акаунті.
 
-## Clone the repository
+## Клонуйте репозиторій
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
+Тепер клонуйте цей репозиторій на ваш комп’ютер. Натисніть на кнопку `clone`, а потім на іконку `copy to clipboard`.
 
-Open a terminal and run the following git command:
+Відкрийте термінал і виконайте наступні команди:
 
 ```
-git clone "url you just copied"
+git clone "посилання, яке ви щойно скопіювали"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+де `посилання, яке ви щойно скопіювали` (без кавичок) є адресою цього репозиторію. Дивіться попередній крок для того, щоб отримати цю адресу.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Наприклад:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+де `this-is-you` ваш GitHub нікнейм. Таким чином ви копіюєте вміст репозиторію з GitHub, в який збираєтесь зробити внесок, на ваш комп’ютер. 
 
-## Create a branch
+## Створюємо вітку
 
-Change to the repository directory on your computer (if you are not already there):
+Перейдіть в директорію з репозиторієм на вашому комп’ютері (якщо ви ще цього не зробили):
 
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+Тепер створюємо вітку за допомогою команди `git checkout`:
 ```
 git checkout -b <add-your-name>
 ```
 
-For example:
+Наприклад:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-petro-church
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Назва вітки не повинна обов’язково містити слово *add*, але це має сенс, якщо майбутні зміни передбачають додавання чогось, наприклад, вашого імені в список контрибуторів.)
 
-## Make necessary changes and commit those changes
+## Робимо необхідні зміни та записуємо їх в репозиторій
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Тепер відкриваємо файл `Contributors.md` в текстовому редакторі, і додаємо ваше ім’я, а потім зберігаємо файл. Якщо ви перейдети в директорію проекту і виконаєте команду `git status`, ви побачите зміни. Додайте ці зміни до вітки, яку ви тільки що створили за допомогою команди `git add`:
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Тепер запишіть ці зміни за допомогою команди `git commit`:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+замініть `<your-name>` своїм іменем.
 
-## Push changes to GitHub
+## Відправляємо зміни в GitHub
 
-Push your changes using the command `git push`:
+Відправте зміни на віддалений репозиторій в GitHub за допомогою команди `git push`:
 ```
 git push origin <add-your-name>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+замініть `<add-your-name>` назвою вітки, яку ви створили раніше.
 
-## Submit your changes for review
+## Відправляємо звіни на перевірку
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+Коли ви перейдети до свого репозиторія в GitHub, ви побачити кнопку `Compare & pull request`. Сміливо натисніть на цю кнопку.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Тапер зміни відправлені на перевірку і затвердження.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Скоро я об’єднаю ваші зміни з основною віткою цього репозиторія. Ви отримаєте листа коли це буде зроблено.
 
-The master branch of your fork won't have the changes. In order to keep your fork synchronized with mine, follow the steps below.
+Основна вітка вашого репозиторія не буде змінена. Якщо ви хочете синхронізувати ваше відгалуження з моїм репозиторієм, слідуйте цієї інструкції.
 
-## Keeping your fork synced with this repository
+## Зберігаємо свій репозиторій синхронізованим 
 
- First, switch to the master branch.
+ Спочатку перейдіть на основну вітку.
  ```
  git checkout master
  ```
 
- Then add my repo's url as `upstream remote url`:
+ Потім додаєм мій репозиторій як `upstream remote url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it `upstream`. Once the changes are merged, fetch the new version of my repository:
+Таким чином ми повідомляємо git, про те що інша версія цього проекту існує за визначеною адресою і ми називаєм це  `upstream`. Як тільки зміни будуть об’єднані, заберіть нову версію мого репозиторію:
 ```
 git fetch upstream
 ```
-
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
+Таким чином ви забираєте всі зміни з мого репозиторію. Тепер ви повинні об’єднати, зміни які прийшли з мого репозиторію, в вашу основну вітку.
 ```
 git rebase upstream/master
 ```
-Here you're applying all the changes you fetched to master branch. If you push the master branch now, your fork will also have the changes:
+Таким чином ви приймаєте всі зміни до основної вітки. Якщо ви відправите зміни до GitHub, ваше відгалуження також буде мати ці зміни:
 ```
 git push origin master
 ```
-Notice here you're pushing to the remote named origin.
+Зауважте, таким чином ви відправляєте зміни до віддаленого репозиторія, який був названий `origin`.
 
-At this point I have merged your branch `<add-your-name>` into my master branch, and you have merged my master branch into your own master branch.  Your branch is now no longer needed, so you may delete it:
+Тепер я обє’днав вашу вітку `<add-your-name>` з моєю основною віткою, а ви об’єднали мою основну вітку зі свією основною віткою. Вітка, яку ви створювали для внесення змін більше не оптрібна, ви можете видалити її:
 ```
 git branch -d <add-your-name>
 ```
-and you can delete the version of it in the remote repository, too:
+дотого ж ви можете видалити і її віддалену версію також:
 ```
 git push origin --delete <add-your-name>
 ```
-This isn't necessary, but the name of this branch shows its rather special purpose.  Its life can be made correspondingly short.
+Називати вітку в такий спосіб не обов’язково, однак це було з роблено з певною метою, щоб показати призначення цієї вітки. Існування будь-якої вітки може бути коротким, адже в кінці-кінців, всі вітки об’єднуються з основною віткою.
 
-## Tutorials Using Other Tools
+## Інструкції для інших інструментів
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Where to go from here?
+## Що далі?
 
-You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
+Ви можете приєднатися до нашої команди в slack якщо ви потребуєте будь-якої допомоги, або маєте якісь запитання. [Приєднатися до команди в slack](https://firstcontributions.herokuapp.com)
 
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+Нижче список задач для початківців в популярних репозиторіях, які ви можете легко вирішити. Не соромтеся, переходьте в репозиторії, щоб дізнатися більше
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
