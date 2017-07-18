@@ -7,7 +7,7 @@ Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama apabil
 
 Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan mensederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami berjanji, ini akan menyenangkan.
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
@@ -20,7 +20,7 @@ Hal tersebut akan membuat copy repositori ini di akun anda.
 
 ## Clone repositori
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Sekarang clone repositori ini ke komputer anda. Tekan tombol clone lalu tekan icon "copy to clipboard".
 
@@ -31,7 +31,7 @@ git clone "url yang telah anda copy"
 ```
 where "url yang telah anda copy" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Contoh:
 ```
@@ -82,11 +82,11 @@ Ganti `<add-nama>` dengan nama branch yang sebelumnya telah dibuat.
 
 Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Submit pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 Suatu saat nanti saya akan melakukan merge terhadap semua perubahan anda ke master branch proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai di-merge.
 
