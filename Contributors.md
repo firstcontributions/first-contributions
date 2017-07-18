@@ -1,4 +1,4 @@
-- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
+﻿- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S](https://github.com/WSchindler)
@@ -200,3 +200,4 @@
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo][https://github.com/casaja]
+- [Obinna A. Kalu](https://github.com/obkalu)
