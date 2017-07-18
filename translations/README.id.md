@@ -1,145 +1,144 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# First Contributions
+# Kontribusi Pertama
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama apabila berkolaborasi dimana membuat kesalahan akan menimbulkan rasa tidak nyaman. Namun, open source adalah tentang berkolaborasi dan kerja sama. Kami ingin mensederhanakan cara kontributor open-source baru untuk belajar dan berkontribusi untuk pertama kali
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
+Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan mensederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami berjanji, ini akan menyenangkan.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [Indonesia](translations/README.id.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
+*Read this in other languages: [English](../README.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
-If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ ).
+Apabila belum memiliki git, [ install ]( https://help.github.com/articles/set-up-git/ ).
 
-## Fork this repository
+## Fork repositori ini
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
+Hal tersebut akan membuat copy repositori ini di akun anda.
 
-## Clone the repository
+## Clone repositori
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
+Sekarang clone repositori ini ke komputer anda. Tekan tombol clone lalu tekan icon "copy to clipboard".
 
-Open a terminal and run the following git command:
+Buka terminal dan eksekusi perintah git berikut:
 
 ```
-git clone "url you just copied"
+git clone "url yang telah anda copy"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+where "url yang telah anda copy" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Contoh:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/username-anda/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+Dimana `username-anda` adalah username Github. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Create a branch
+## Membuat Branch
 
-Change to the repository directory on your computer (if you are not already there):
+Ganti ke direktori repositori di komputer (jika belum ada di di sana):
 
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+Buat branch dengan perintah `git checkout`:
 ```
-git checkout -b <add-your-name>
+git checkout -b <add-nama>
 ```
 
-For example:
+Contoh:
 ```
 git checkout -b add-alonzo-church
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Nama branch tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari branch ini adalah menambahkan nama anda ke dalam sebuah daftar.)
 
-## Make necessary changes and commit those changes
+## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Buka berkas `Contributors.md` menggunakan text editor, tambahkan nama anda ke dalamnya lalu save berkas tersebut. Apabila anda masuk ke direktori dan mengeksekusi perintah `git status` maka anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam branch yang sebelumnya telah dibuat menggunakan perintah `git add`:
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Commit perubahan tersebut menggunakan perintah `git commit`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <nama> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+ganti `<nama>` dengan nama anda.
 
-## Push changes to GitHub
+## Push perubahan ke GitHub
 
-Push your changes using the command `git push`:
+Push perubahan menggunakan perintah `git push`:
 ```
-git push origin <add-your-name>
+git push origin <add-nama>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+Ganti `<add-nama>` dengan nama branch yang sebelumnya telah dibuat.
 
-## Submit your changes for review
+## Submit perubahan untuk di-review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Submit pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Suatu saat nanti saya akan melakukan merge terhadap semua perubahan anda ke master branch proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai di-merge.
 
-The master branch of your fork won't have the changes. In order to keep your fork synchronized with mine, follow the steps below.
+Branch master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
-## Keeping your fork synced with this repository
+## Membuat fork anda selaras dengan repositori ini
 
- First, switch to the master branch.
+ Pertama, ganti posisi ke branch master.
  ```
  git checkout master
  ```
-
- Then add my repo's url as `upstream remote url`:
+ Tambahkan url repo saya sebagai `upstream remote url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it `upstream`. Once the changes are merged, fetch the new version of my repository:
+Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang telah dispesifikasikan dan disebut sebagai `upstream`. Apabila perubahan telah di-merge, fetch versi baru dari repositori saya:
 ```
 git fetch upstream
 ```
 
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
+Di sini kita melakukan fetch terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan merge terhadap revisi baru dari repositori saya ke dalam branch master milik anda.
 ```
 git rebase upstream/master
 ```
-Here you're applying all the changes you fetched to master branch. If you push the master branch now, your fork will also have the changes:
+Di sini anda menerapkan semua perubahan yang telah anda fetch ke branch master. Jika anda push branch master sekarang, fork anda juga akan memiliki perubahan:
 ```
 git push origin master
 ```
-Notice here you're pushing to the remote named origin.
+Perhatikan bahwa di sini anda melakukan push ke remote bernama origin.
 
-At this point I have merged your branch `<add-your-name>` into my master branch, and you have merged my master branch into your own master branch.  Your branch is now no longer needed, so you may delete it:
+Pada titik ini saya telah melakukan merge terhadap branch anda `<add-nama>` ke dalam branch master dan anda telah melakukan merge terhadap branch master saya ke dalam branch master milik anda. Branch milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
 ```
-git branch -d <add-your-name>
+git branch -d <add-nama>
 ```
-and you can delete the version of it in the remote repository, too:
+dan anda dapat menghapus versi tersebut yang ada di repositori remote:
 ```
-git push origin --delete <add-your-name>
+git push origin --delete <add-nama>
 ```
-This isn't necessary, but the name of this branch shows its rather special purpose.  Its life can be made correspondingly short.
+Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukan tujuan yang spesial. Masa hidupnya bisa dijadikan pendek
 
-## Tutorials Using Other Tools
+## Tutorial Menggunakan Tools Lain
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Where to go from here?
+## Ke mana lagi setelah dari sini?
 
-You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
+Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://firstcontributions.herokuapp.com)
 
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+Berikut adalah beberapa isu level pemula di repositori populer yang dapat anda kerjakan. Silahkan kunjungi repositori-repositori tersebut untuk belajar lebih lanjut.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
