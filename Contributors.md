@@ -196,6 +196,6 @@
 - [Koffi Sani](https://github.com/koffisani)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
 - [Marcelo Barbosa] (https://github.com/marbosa)
-- [Vlad Bogdan](https://github.com/vladbogdan10)
+- [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik] (https://github.com/sveinhd)
 - [Javier S. Castillo] [https://github.com/casaja]
