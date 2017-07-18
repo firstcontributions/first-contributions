@@ -189,6 +189,7 @@
 - [Connie Li](https://github.com/lishiyo)
 - [Tim Stelter](https://github.com/tstelter93)
 - [Moshe Reubinoff](https://github.com/reubinoff)
+- [Arif Maulana](https://github.com/maulanaahmadarif)
 - [Sachchit Bansal](https://github.com/sachiiit)
 - [Shreyash Soni] (https://github.com/ShreyashSoni)
 - [Christiaan Naude](https://github.com/cjnaude)
