@@ -184,6 +184,7 @@
 - [Manish Bhatt](https://github.com/manishbhatt94)
 - [Austin Leatham](https://github.com/aleatham)
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
+- [eljoth](https://github.com/eljoth)
 - [Diky Pratansyah](https://github.com/pratansyah)
 - [Connie Li](https://github.com/lishiyo)
 - [Tim Stelter](https://github.com/tstelter93)
