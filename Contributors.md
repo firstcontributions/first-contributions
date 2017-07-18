@@ -171,6 +171,7 @@
 - [Ashish Singh](https://github.com/ashish061291)
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
+- [Balaji Mj]
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
@@ -184,3 +185,6 @@
 - [Austin Leatham](https://github.com/aleatham)
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
 - [Diky Pratansyah](https://github.com/pratansyah)
+- [Connie Li](https://github.com/lishiyo)
+- [Tim Stelter](https://github.com/tstelter93)
+- [Moshe Reubinoff](https://github.com/reubinoff)
