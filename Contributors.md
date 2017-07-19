@@ -33,6 +33,7 @@
 - [HallLinux](https://github.com/HallLinux)
 - [Jon Johnson](https://github.com/jonjohnson34)
 - [Brandon Brigance](https://github.com/b-random)
+-[Patrick Rickson] (https://github.com/patrickcmd)
 - [Jaspreet Singh](https://github.com/singh19196)
 - [ ajborka ]( https://www.github.com/ajborka )
 - [Aravind](https://github.com/m-arav)
