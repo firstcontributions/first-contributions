@@ -214,3 +214,4 @@
 - [Marek] (https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [Christopher Chiu](https://github.com/vicehope/)
