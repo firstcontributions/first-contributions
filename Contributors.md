@@ -175,8 +175,10 @@
 - [Inci Qasimova](https://github.com/inci-august)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
+- [chadb](https://github.com/chadb4184)
 - [Arkadiusz Machalica](https://github.com/pokiujf)
 - [Mark Brown](https://github.com/bethanybeachbum)
+- [Matei David](https://github.com/matei207)
 - [Sarah G](https://github.com/sarahg813)
 - [Saket](https://github.com/saket700)
 - [Renato Santos](https://github.com/RNT17)
@@ -201,3 +203,6 @@
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo][https://github.com/casaja]
 - [Obinna A. Kalu](https://github.com/obkalu)
+- [Javier S. Castillo](https://github.com/casaja)
+- [Diego Stiehl](https://github.com/seccomiro)
+- [Rashid Lasker](https://github.com/rashidlasker)
