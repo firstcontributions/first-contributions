@@ -213,3 +213,4 @@
 - [Piash Sarker] (https://github.com/piashsarker)
 - [Marek] (https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
+- [Håkon Andreas Jensen](https://github.com/hakonaj)
