@@ -1,4 +1,4 @@
-- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
+﻿- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S](https://github.com/WSchindler)
@@ -204,3 +204,4 @@
 - [Javier S. Castillo](https://github.com/casaja)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
+- [Hoang Le](https://github.com/hoangle96)
