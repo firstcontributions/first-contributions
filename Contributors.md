@@ -216,6 +216,7 @@
 - [Marek] (https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [Abir Bin Ayub Khan, AbSak](https://github.com/absak)
 - [Micah Hedrick](https://github.com/MH0303)
 - [Nomi Vos](https://github.com/nomi811)
 - [Christopher Chiu](https://github.com/vicehope/)
