@@ -202,6 +202,8 @@
 - [Marcelo Barbosa](https://github.com/marbosa)
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
+- [Javier S. Castillo](https://github.com/casaja)
+- [Carlos Eduardo](https://github.com/edunogodz)
 - [Javier S. Castillo][https://github.com/casaja]
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Javier S. Castillo](https://github.com/casaja)
