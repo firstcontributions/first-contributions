@@ -202,6 +202,8 @@
 - [Marcelo Barbosa](https://github.com/marbosa)
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
+- [Javier S. Castillo](https://github.com/casaja)
+- [Carlos Eduardo](https://github.com/edunogodz)
 - [Javier S. Castillo][https://github.com/casaja]
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Javier S. Castillo](https://github.com/casaja)
@@ -215,3 +217,6 @@
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
 - [Abir Bin Ayub Khan, AbSak](https://github.com/absak)
+- [Micah Hedrick](https://github.com/MH0303)
+- [Nomi Vos](https://github.com/nomi811)
+- [Christopher Chiu](https://github.com/vicehope/)
