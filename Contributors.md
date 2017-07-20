@@ -217,6 +217,7 @@
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [Sergey Podkovyrin](https://github.com/podkovyrin-sergey)
 - [Cindy Yates](https://github.com/estudiochispa)
 - [Vinay vkk](https://github.com/VINAYVKK)
 - [Aditya Kamble](https://github.com/adityakamble49)
@@ -229,3 +230,6 @@
 - [Peter Lazar](https://github.com/peterlazar1993)
 - [Ali Tanırlar] (https://github.com/alitanirlar)
 - [Kalil Silva] (https://github.com/kalilsilvasousa)
+- [Anubha Gupta] (https://github.com/anubhamoon)
+- [Josh Martin](https://github.com/josh-martino)
+
