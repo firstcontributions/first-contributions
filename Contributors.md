@@ -232,4 +232,4 @@
 - [Kalil Silva] (https://github.com/kalilsilvasousa)
 - [Anubha Gupta] (https://github.com/anubhamoon)
 - [Josh Martin](https://github.com/josh-martino)
-
+- [Dave Hurley](https://github.com/dmhurley)
