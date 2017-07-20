@@ -209,6 +209,7 @@
 - [Javier S. Castillo](https://github.com/casaja)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
+- [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
 - [Andrew Millar](https://github.com/Sl4rtyb4rtf4st)
