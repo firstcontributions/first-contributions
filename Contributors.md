@@ -225,3 +225,5 @@
 - [Micah Hedrick](https://github.com/MH0303)
 - [Nomi Vos](https://github.com/nomi811)
 - [Christopher Chiu](https://github.com/vicehope/)
+- [Ali Ashraf](https://github.com/syedaliashraf)
+
