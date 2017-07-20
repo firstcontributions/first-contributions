@@ -122,7 +122,7 @@ git push origin master
 ```
 git branch -d <add-your-name>
 ```
-А так-же можете удалить ее версию в удаленном репозитории:
+Так-же можете удалить ее версию в удаленном репозитории:
 ```
 git push origin --delete <add-your-name>
 ```
