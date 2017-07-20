@@ -216,6 +216,7 @@
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [Cindy Yates](https://github.com/estudiochispa)
 - [Vinay vkk](https://github.com/VINAYVKK)
 - [Aditya Kamble](https://github.com/adityakamble49)
 - [Deex Iv](https://github.com/DeexIv)
