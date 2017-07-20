@@ -215,3 +215,4 @@
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
 - [Nomi Vos](https://github.com/nomi811)
+- [Christopher Chiu](https://github.com/vicehope/)
