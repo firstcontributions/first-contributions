@@ -209,3 +209,4 @@
 - [Rashid Lasker](https://github.com/rashidlasker)
 - [netserf](https://github.com/netserf)
 - [Andrew Millar](https://github.com/Sl4rtyb4rtf4st)
+- [Hieratikos](https://github.com/Hieratikos)
