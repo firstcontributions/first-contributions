@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# Primeiras Contribuiçoes
+# Primeiras Contribuições
 
 É difícil. Sempre é difícil fazer algo a primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (o código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos contribuidores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver turoriais pode ajudar, mas nada melhor do que fazer as coisas sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que fazer as coisas sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
@@ -44,14 +44,14 @@ cd first-contributions
 
 Agora crie um branch usando `git checkout command`
 ```
-git checkout -b <adicione-seu-nome>
+git checkout -b <add-seu-nome>
 ```
 
 Por exemplo:
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não necessita ter a palavra "adicionar", mas é algo comum, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
+Obs.: O nome do Branch não necessita ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
 ## Faça as alterações necessárias e realize o Commit.
 
@@ -63,7 +63,7 @@ Agora faça um Commit dessas alterações utilizando o comando git `git commit`:
 ```
 git commit -m "Add <seu-nome> to Contributors list"
 ```
-preencha `<seu-nome>` com o seu nome.
+Preencha `<seu-nome>` com o seu nome.
 
 ## Faça um Push das alterações para o GitHub
 
@@ -73,7 +73,7 @@ git push origin <add-kalil-silva>
 ```
 Substitua `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
-##Envie suas alterações para serem revisadas
+## Envie suas alterações para serem revisadas
 
 Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
 
@@ -83,7 +83,7 @@ Agora envie o Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
 
-Logo estarei mesclando as suas mudanças na ramificação principal deste projeto. Você verá um e-mail de notificação quando as alterações forem mescladas.
+Logo estarei mesclando as suas mudanças na ramificação principal deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
 O Master Branch do seu Fork não terá as mudanças. Para manter o seu Fork sincronizado com o meu, siga os passos abaixo.
 
@@ -107,7 +107,7 @@ Aqui estamos buscando todas as mudanças no meu Fork (Upstream Remote). Agora, v
 ```
 git rebase upstream/master
 ```
-Aqui você está aplicando todas as mudanças que você busco para o seu Master Branch. Se você fizer Push em seu Master Branch agora, seu Fork também terá as alterações.
+Aqui você está aplicando todas as mudanças que buscou para o seu Master Branch. Se você fizer Push em seu Master Branch agora, seu Fork também terá as alterações.
 ```
 git push origin master
 ```
@@ -116,15 +116,15 @@ Note que aqui você está fazendo Push para a URL remota chamada origin.
 ## Tutoriais com outras ferramentas
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 ## Para onde ir a partir daqui?
 
-Você tambem pode se juntar a nossa equipe Slack no caso de você precisar de alguma ajuda ou ter alguma dúvida. [Junte-se a nossa equipe Slack](https://firstcontributions.herokuapp.com)
+Você tambem pode se juntar a nossa equipe Slack no caso de você precisar de alguma ajuda ou ter alguma dúvida. [Junte-se a nossa equipe Slack](https://firstcontributions.herokuapp.com).
 
-Aqui estão alguns repositórios a nível de inciantes que você poderia resolver. Vá em frente para aprender mais.
+Aqui estão alguns repositórios a nível de inciante que você poderia resolver. Vá em frente para aprender mais.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
