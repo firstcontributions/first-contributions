@@ -234,3 +234,5 @@
 - [Anubha Gupta] (https://github.com/anubhamoon)
 - [Josh Martin](https://github.com/josh-martino)
 - [Dave Hurley](https://github.com/dmhurley)
+- [Eliardo Costa](https://github.com/eliardocosta)
+
