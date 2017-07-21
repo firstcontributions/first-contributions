@@ -205,6 +205,7 @@
 - [Javier S. Castillo](https://github.com/casaja)
 - [Carlos Eduardo](https://github.com/edunogodz)
 - [Javier S. Castillo][https://github.com/casaja]
+- [LaQuita G] (https://github.com/yoscheherazade)
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Javier S. Castillo](https://github.com/casaja)
 - [Diego Stiehl](https://github.com/seccomiro)
