@@ -237,5 +237,4 @@
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Varun M]
-
-
+- [Junior Gantin](https://github.com/nioperas06)
