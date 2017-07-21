@@ -214,6 +214,7 @@
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
 - [Andrew Millar](https://github.com/Sl4rtyb4rtf4st)
+- [Hieratikos](https://github.com/Hieratikos)
 - [Piash Sarker](https://github.com/piashsarker)
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
@@ -236,4 +237,5 @@
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Varun M]
+
 
