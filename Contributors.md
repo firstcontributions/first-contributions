@@ -239,3 +239,5 @@
 - [Varun M]
 - [Junior Gantin](https://github.com/nioperas06)
 - [Ashish Yadav](https://github.com/ashish-y)
+- [Mark Slingerland](https://github.com/markslingerland)
+
