@@ -1,5 +1,5 @@
 .App {
-  height: 500px;
+  /* height: 500px; */
   background-color: #007EE5;
   text-align: center;
   display: flex;
@@ -14,5 +14,6 @@
 }
 
 .App-header > h1 {
+  padding-top: 10%;
   font-size: 2.5em;
 }
