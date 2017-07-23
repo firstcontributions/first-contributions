@@ -115,6 +115,7 @@
 - [Dino Daniel](https://github.com/dinodn)
 - [SVinodh](https://github.com/paintedskies)
 - [Uche Osahor](https://github.com/Electronicshelf)
+- [Amith Kalathil](https://github.com/amithkr)
 - [Emily Symonds](https://github.com/emilysymonds)
 - [Richa Singhal](https://github.com/RichaSinghal)
 - [Vivek Kumar](https://github.com/vivekaltruist)
