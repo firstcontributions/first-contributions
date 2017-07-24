@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Tykisha Pittman](https"//github.com/tspittma)
 -[Danielle Pankey](https://github.com/D-Pankey)
 - [Noor Thabit](https://github.com/pionoor))
 - [JP Miller](https://github.com/TheChronicMonster)
