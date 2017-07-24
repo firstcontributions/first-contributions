@@ -245,3 +245,17 @@
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
 - [Robert Helmick](https://github.com/roberthelmick08)
+- [Vijay Kumar] (https://github.com/vijay925)
+- [Alex Lippincott](https://github.com/ALippincott)
+- [Bilal Zafar] (https://github.com/Blal2306)
+- [Joe Wagner](https://github.com/joseph-wagner)
+- [Nick Khoury](https://github.com/nick-khoury)
+- [Michael Fulton](https://github.com/frenchfulton94)
+- [Andrew Um](https://github.com/ndrwum)
+- [Arturo Muller](https://github.com/arturomuller)
+- [Eshawn Karim](https://github.com/ek1437)
+- [Doyin Kareem](https://github.com/deekay112)
+- [Sharif Kabir](https://github.com/shark1120)
+- [Danielle Pankey](https://github.com/D-Pankey)
+
+
