@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Sharabh Shukla](https://github.com/sharabhss)
 - [Yao Zhang](https://github.com/yazhang28)
 - [Taha Khan](https://github.com/tahankhan)
 - [Ethan Chu](https://github.com/ethan-chu)
