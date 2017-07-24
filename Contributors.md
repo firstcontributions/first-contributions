@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Nick Khoury](https://github.com/nick-khoury)
 - [Michael Fulton](https://github.com/frenchfulton94)
 - [Andrew Um](https://github.com/ndrwum)
 - [Arturo Muller](https://github.com/arturomuller)
