@@ -244,3 +244,4 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Nick Khoury](https://github.com/nick-khoury)
