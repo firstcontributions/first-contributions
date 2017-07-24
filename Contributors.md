@@ -1,4 +1,5 @@
-﻿- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
+﻿- [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
+- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S](https://github.com/WSchindler)
