@@ -1,119 +1,130 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# First Contributions
+# Primeiras Contribuições
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
-|---|---|
+É difícil. Sempre é difícil fazer algo a primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (o código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos contribuidores *open source* aprendem e contribuem pela primeira vez.
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que fazer as coisas sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+<img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+Se não possui o git em sua máquina, [clique aqui]( https://help.github.com/articles/set-up-git/ )
 
-If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
+## Faça um Fork deste repositório
 
-## Fork this repository
+Faça um Fork, clicando no botão "Fork" no topo desta página. Isto irá criar uma cópia deste repositório na sua conta.
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create of copy of this repository in your account.
+## Clone um repositório
 
-## Clone the repository
+<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositório" />
 
-Now clone this repo to your machine.
+Agora clone este repositório para a sua máquina. Clique no botão "Clone" e, em seguida, clique no icone "Copy to clipboard".
 
-Open the GitHub Desktop app and click on the `+` on the top left.
+Abra o seu terminal e execute o seguinte comando do git:
+```
+git clone "url que copiou"
+```
+Onde "url que copiou" (sem as aspas) é a URL para este repositório. Consulte as etapas anteriores para obter a URL.
 
-<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL" />
 
-If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
+Por exemplo:
+```
+git clone https://github.com/este-e-voce/first-contributions.git
+```
+Onde "este-e-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
-<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
+## Crie um Branch
 
-Choose the directory on your machine you would like to clone first-contributions into 
+Altere para o repositório no seu computador(caso você não esteja lá).
+```
+cd first-contributions
+```
 
-<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
+Agora crie um branch usando `git checkout command`
+```
+git checkout -b <add-seu-nome>
+```
 
-Now you have copied the contents of the first-contributions repository in github to your computer.
+Por exemplo:
+```
+git checkout -b add-alonzo-church
+```
+Obs.: O nome do Branch não necessita ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
-## Create a branch
+## Faça as alterações necessárias e realize o Commit.
 
-Now create a branch by clicking on the branch icon at the top left:
+Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. Se você ir para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+```
+git add Contributors.md
+```
+Agora faça um Commit dessas alterações utilizando o comando git `git commit`:
+```
+git commit -m "Add <seu-nome> to Contributors list"
+```
+Preencha `<seu-nome>` com o seu nome.
 
-<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
+## Faça um Push das alterações para o GitHub
 
-Name your branch add-your-name. For example, add-crawleya
+Faça o Push utilizando o comando `git push`:
+```
+git push origin <add-kalil-silva>
+```
+Substitua `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
-Click on `Create new branch`
+## Envie suas alterações para serem revisadas
 
-<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
+Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
 
-## Make necessary changes and commit those changes
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull e Request" />
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+Agora envie o Pull Request.
 
-You can see that there are changes to Contributors.md and they have been added.
+<img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
 
-<img style="float: right;" src="assets/dt-status.png" alt="check status" />
+Logo estarei mesclando as suas mudanças na ramificação principal deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
-Now commit those changes:
+O Master Branch do seu Fork não terá as mudanças. Para manter o seu Fork sincronizado com o meu, siga os passos abaixo.
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+## Mantendo o seu Fork sincronizado com este repositório
 
-Replace `<your-name>` with your name
+Primeiro, troque para o Master Branch.
+```
+git checkout master
+```
 
-Click on the button that says `Commit to add-your-name`
+Em seguida, adicione a URL do meu repositório como `upstream remote url`:
+```
+git remote add upstream https://github.com/Roshanjossey/first-contributions
+```
+Esta é uma forma de dizer ao Git que existe uma outra versão deste projeto na URL especificada e estamos chamando-a de Upstream. Depois que as alterações forem mescladas, busque a nova versão do meu repositório.
+```
+git fetch upstream
+```
 
-<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
+Aqui estamos buscando todas as mudanças no meu Fork (Upstream Remote). Agora, você precisa mesclar a nova revisão do meu repositório no seu Master Branch.
+```
+git rebase upstream/master
+```
+Aqui você está aplicando todas as mudanças que buscou para o seu Master Branch. Se você fizer Push em seu Master Branch agora, seu Fork também terá as alterações.
+```
+git push origin master
+```
+Note que aqui você está fazendo Push para a URL remota chamada origin.
 
-At the bottom, you can see that the commit has been created.
+## Tutoriais com outras ferramentas
 
-<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
 
-## Push changes to github
-
-Click the `Publish` button on the top right.
-
-<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
-
-## Submit your changes for review
-
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
-
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
-
-Now submit the pull request.
-
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
-
-## Keeping your fork synced with this repository
-
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
-
-In order to keep your fork synced with mine, click `Sync` on the top right.
-
-<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
-
-When there are new commits to sync, click `Update from Roshanjossey/master`
-
-<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
-
-Hovering over `Update from Roshanjossey/master` will show you that you are up to date:
-
-<img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
-
-## Tutorials Using Other Tools
-
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Where to go from here?
+## Para onde ir a partir daqui?
 
-You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
+Você tambem pode se juntar a nossa equipe Slack no caso de você precisar de alguma ajuda ou ter alguma dúvida. [Junte-se a nossa equipe Slack](https://firstcontributions.herokuapp.com).
 
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+Aqui estão alguns repositórios a nível de inciante que você poderia resolver. Vá em frente para aprender mais.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
