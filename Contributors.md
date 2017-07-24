@@ -244,4 +244,5 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
--[Danielle Pankey](https://github.com/D-Pankey)
+- [Sharif Kabir](https://github.com/shark1120)
+- [Danielle Pankey](https://github.com/D-Pankey)
