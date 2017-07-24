@@ -245,4 +245,8 @@
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
 - [Arturo Muller](https://github.com/arturomuller)
+- [Eshawn Karim](https://github.com/ek1437)
+- [Doyin Kareem](https://github.com/deekay112)
+- [Sharif Kabir](https://github.com/shark1120)
+- [Danielle Pankey](https://github.com/D-Pankey)
 
