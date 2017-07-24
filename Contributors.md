@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Wesley Liang](https://github.com/wesliang)
 - [Robert Helmick](https://github.com/roberthelmick08)
 - [Vijay Kumar] (https://github.com/vijay925)
 - [Alex Lippincott](https://github.com/ALippincott)
@@ -257,5 +258,4 @@
 - [Doyin Kareem](https://github.com/deekay112)
 - [Sharif Kabir](https://github.com/shark1120)
 - [Danielle Pankey](https://github.com/D-Pankey)
-
 
