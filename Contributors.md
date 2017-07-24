@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Alex Tan](https://github.com/atan009)
 - [Colin Beard] (https://github.com/NegaBlitz)
 - [Ling Li](https://github.com/LingLi-su)
 - [Wesley Liang](https://github.com/wesliang)
