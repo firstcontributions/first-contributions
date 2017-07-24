@@ -244,6 +244,7 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Vijay Kumar] (https://github.com/vijay925)
 - [Alex Lippincott](https://github.com/ALippincott)
 - [Bilal Zafar] (https://github.com/Blal2306)
 - [Joe Wagner](https://github.com/joseph-wagner)
