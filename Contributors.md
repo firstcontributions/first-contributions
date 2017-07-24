@@ -244,3 +244,4 @@
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [Suraj Rathod](https://github.com/surajrathod)
+- [Michael Fulton](https://github.com/frenchfulton94)
