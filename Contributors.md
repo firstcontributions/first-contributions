@@ -211,6 +211,7 @@
 - [Javier S. Castillo](https://github.com/casaja)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
+- Melanie Hudson aka Seekingcat
 - [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
