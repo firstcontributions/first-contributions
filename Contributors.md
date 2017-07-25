@@ -1,4 +1,4 @@
-﻿- [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
+- [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
 - [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
@@ -270,4 +270,5 @@
 - [Doyin Kareem](https://github.com/deekay112)
 - [Sharif Kabir](https://github.com/shark1120)
 - [Danielle Pankey](https://github.com/D-Pankey)
+- [Mohamed Falah](https://github.com/mohamedFalah)
 
