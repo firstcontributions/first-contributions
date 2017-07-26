@@ -238,7 +238,7 @@
 - [Josh Martin](https://github.com/josh-martino)
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
-- [Varun M]
+- Varun M
 - [Junior Gantin](https://github.com/nioperas06)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
