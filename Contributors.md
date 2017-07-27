@@ -1,4 +1,4 @@
-- [William Leung](https://github.com/thisiswhale)
+﻿- [William Leung](https://github.com/thisiswhale)
 - [Marcio Melo](https://github.com/marciosmelo)
 - [Pranav AP](https://github.com/pranav-cs)
 - [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
@@ -280,3 +280,4 @@
 - [Ayyy Lmao](https://github.com/asr1191)
 - [Faisal Kanji](https://github.com/faisalkanji)
 - [Nilufer Yilmaz](https://github.com/niluferyilmaz)
+- [Samuel Koch](https://github.com/mumumilk)
