@@ -275,3 +275,4 @@
 - [Misha Zhukov](https://github.com/3v1l91l)
 - [Rob Wood](https://github.com/RobWVisix)
 - [Ayyy Lmao](https://github.com/asr1191)
+- [Faisal Kanji](https://github.com/faisalkanji)
