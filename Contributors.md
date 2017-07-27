@@ -214,3 +214,4 @@
 - [Marek] (https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [Vanessa Sena Teixeira] (https://github.com/vanessasena)
