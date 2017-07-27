@@ -1,3 +1,4 @@
+- [William Leung](https://github.com/thisiswhale)
 - [Pranav AP](https://github.com/pranav-cs)
 - [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
 - [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
