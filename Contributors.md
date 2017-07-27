@@ -1,3 +1,4 @@
+- [William Leung](https://github.com/thisiswhale)
 - [Marcio Melo](https://github.com/marciosmelo)
 - [Pranav AP](https://github.com/pranav-cs)
 - [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
