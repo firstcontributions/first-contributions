@@ -281,4 +281,5 @@
 - [Faisal Kanji](https://github.com/faisalkanji)
 - [Nilufer Yilmaz](https://github.com/niluferyilmaz)
 - [Samuel Koch](https://github.com/mumumilk)
+- [Fernando Vega](https://github.com/fvegagiga)
 - [Patrick Tumbucon](https://github.com/ptumb001)
