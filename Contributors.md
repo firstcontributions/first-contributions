@@ -283,3 +283,4 @@
 - [Samuel Koch](https://github.com/mumumilk)
 - [Fernando Vega](https://github.com/fvegagiga)
 - [Patrick Tumbucon](https://github.com/ptumb001)
+- [Yuriy Stul](https://github.com/ysden123)
