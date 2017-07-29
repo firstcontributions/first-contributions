@@ -284,3 +284,4 @@
 - [Fernando Vega](https://github.com/fvegagiga)
 - [Patrick Tumbucon](https://github.com/ptumb001)
 - [Yuriy Stul](https://github.com/ysden123)
+- [Denis Kajgorodov](https://github.com/terracott)
