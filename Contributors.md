@@ -286,3 +286,4 @@
 - [Patrick Tumbucon](https://github.com/ptumb001)
 - [Yuriy Stul](https://github.com/ysden123)
 - [Denis Kajgorodov](https://github.com/terracott)
+- [David Jung](https://github.com/sungwonida)
