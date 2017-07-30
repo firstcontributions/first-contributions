@@ -3,29 +3,29 @@
 
 # Primeiras Contribuições
 
-É difícil. Sempre é difícil fazer algo a primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (o código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos contribuidores *open source* aprendem e contribuem pela primeira vez.
+É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que fazer as coisas sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
-Se não possui o git em sua máquina, [clique aqui]( https://help.github.com/articles/set-up-git/ )
+Se não possui o git em sua máquina, [clique aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faça um Fork deste repositório
 
-Faça um Fork, clicando no botão "Fork" no topo desta página. Isto irá criar uma cópia deste repositório na sua conta.
+Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar uma cópia deste repositório na sua conta.
 
-## Clone um repositório
+## Clone o repositório
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "Clone" e, em seguida, clique no icone "Copy to clipboard".
+Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no icone "Copy to clipboard".
 
 Abra o seu terminal e execute o seguinte comando do git:
 ```
 git clone "url que copiou"
 ```
-Onde "url que copiou" (sem as aspas) é a URL para este repositório. Consulte as etapas anteriores para obter a URL.
+onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL" />
 
@@ -33,16 +33,16 @@ Por exemplo:
 ```
 git clone https://github.com/este-e-voce/first-contributions.git
 ```
-Onde "este-e-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "este-e-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
 ## Crie um Branch
 
-Altere para o repositório no seu computador(caso você não esteja lá).
+Vá para o diretório do repositório no seu computador (caso você não esteja lá).
 ```
 cd first-contributions
 ```
 
-Agora crie um branch usando `git checkout command`
+Agora crie um Branch usando o comando `git checkout`
 ```
 git checkout -b <add-seu-nome>
 ```
@@ -53,25 +53,25 @@ git checkout -b add-alonzo-church
 ```
 Obs.: O nome do Branch não necessita ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
-## Faça as alterações necessárias e realize o Commit.
+## Efetue as alterações necessárias e faça um Commit.
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. Se você ir para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
-Agora faça um Commit dessas alterações utilizando o comando git `git commit`:
+Agora faça um Commit dessas alterações utilizando o comando `git commit`:
 ```
 git commit -m "Add <seu-nome> to Contributors list"
 ```
-Preencha `<seu-nome>` com o seu nome.
+preenchendo `<seu-nome>` com o seu nome.
 
 ## Faça um Push das alterações para o GitHub
 
-Faça o Push utilizando o comando `git push`:
+Faça um Push utilizando o comando `git push`:
 ```
-git push origin <add-kalil-silva>
+git push origin <add-seu-nome>
 ```
-Substitua `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
+substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -79,17 +79,17 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull e Request" />
 
-Agora envie o Pull Request.
+Agora envie um Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
 
-Logo estarei mesclando as suas mudanças na ramificação principal deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Logo estarei mesclando as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
-O Master Branch do seu Fork não terá as mudanças. Para manter o seu Fork sincronizado com o meu, siga os passos abaixo.
+O Branch principal (master) do seu Fork não terá as mudanças. Para manter o seu Fork sincronizado com o meu, siga os passos abaixo.
 
 ## Mantendo o seu Fork sincronizado com este repositório
 
-Primeiro, troque para o Master Branch.
+Primeiro, troque para o Branch principal (master).
 ```
 git checkout master
 ```
@@ -98,20 +98,30 @@ Em seguida, adicione a URL do meu repositório como `upstream remote url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Esta é uma forma de dizer ao Git que existe uma outra versão deste projeto na URL especificada e estamos chamando-a de Upstream. Depois que as alterações forem mescladas, busque a nova versão do meu repositório.
+Esta é uma forma de dizer ao Git que existe uma outra versão deste projeto na URL especificada e estamos chamando-a de `upstream`. Depois que as alterações forem mescladas, busque a nova versão do meu repositório:
 ```
 git fetch upstream
 ```
 
-Aqui estamos buscando todas as mudanças no meu Fork (Upstream Remote). Agora, você precisa mesclar a nova revisão do meu repositório no seu Master Branch.
+Aqui estamos buscando todas as mudanças no meu Fork (upstream remote). Agora, você precisa mesclar a nova revisão do meu repositório no seu Master Branch.
 ```
 git rebase upstream/master
 ```
-Aqui você está aplicando todas as mudanças que buscou para o seu Master Branch. Se você fizer Push em seu Master Branch agora, seu Fork também terá as alterações.
+Aqui você está aplicando todas as mudanças que buscou para o seu Branch principal (master). Se você fizer um Push para o seu Branch principal (master) agora, seu Fork também terá as alterações.
 ```
 git push origin master
 ```
-Note que aqui você está fazendo Push para a URL remota chamada origin.
+Note que aqui você está fazendo um Push para a URL remota chamada origin.
+
+Neste momento, eu mesclei o seu Branch `<add-your-name>` com o meu Branch principal (master), e você mesclou o meu Branch principal (master) com o seu próprio Branch principal (master). O Branch que você criou para adicionar o seu nome a lista não é mais necessário, então você pode deletá-lo:
+```
+git branch -d <add-your-name>
+```
+e você pode deletar a versão deste repositório no repositŕorio remoto também:
+```
+git push origin --delete <add-your-name>
+```
+Isso não é necessário, mas o nome desse Branch mostra seu propósito bastante especial. Seu tempo de utilidade é curto.
 
 ## Tutoriais com outras ferramentas
 
