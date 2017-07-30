@@ -245,6 +245,7 @@
 - [Junior Gantin](https://github.com/nioperas06)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
+- [GardenSnake](https://github.com/GardenSnake)
 - [Suraj Rathod](https://github.com/surajrathod)
 - [Bhavik Joshi](https://github.com/BhavikJoshi07)
 - [Tykisha Pittman](https"//github.com/tspittma)
