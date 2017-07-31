@@ -1,4 +1,5 @@
-﻿- [William Leung](https://github.com/thisiswhale)
+- [Janardhan Nallapati](https://github.com/janardhannallapati)
+- [William Leung](https://github.com/thisiswhale)
 - [Marcio Melo](https://github.com/marciosmelo)
 - [Pranav AP](https://github.com/pranav-cs)
 - [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
