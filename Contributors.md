@@ -292,3 +292,4 @@
 - [Paolo Manca](https://github.com/piemme)
 - [Sheila Gomes](https://github.com/sheilagomes)
 - [Garden Snake](https://github.com/GardenSnake)
+- [Daniele Di Lucido](https://github.com/DanieleDiLucido)
