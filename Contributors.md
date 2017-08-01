@@ -291,3 +291,4 @@
 - [David Jung](https://github.com/sungwonida)
 - [Paolo Manca](https://github.com/piemme)
 - [Sheila Gomes](https://github.com/sheilagomes)
+- [Hidestor](https://github.com/Hidestor)
