@@ -3,13 +3,13 @@
 
 # Premières Contributions
 
-C'est dur. C'est toujours dur la première fois que l'on fait quelque chose. Spécialement quand vous collaborez, faire des fautes n'est pas du tout confortable. Mais le logiciel libre est fait de collaboration et de travail de groupe. Nous voulons simplifier la manière dont les nouveaux contributeurs au logiciel libre apprennent et contribuent pour la première fois.  
+C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage pour les nouveaux contributeurs au logiciel libre apprennant à contribuer pour la première fois.  
 
-Lire des articles et suivre des tutoriels peut aider, mais qu'y a-t-il de meilleur que de faire un truc sans le moindre désordre ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les bleus font leur première contribution. Rappel : plus vous êtes relax, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
+Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
 <img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
-*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [العربية](translations/README.ar.md).*
+*Pour lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -30,7 +30,7 @@ Ouvrez un invite de commande et exécutez les commandes git suivantes :
 ```
 git clone "l'url que vous venz de copier"
 ```
-où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. VVoir la section précédante afin d'obtenir l'url. 
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url. 
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
@@ -56,7 +56,7 @@ Par exemple:
 ```
 git checkout -b add-koffi-sani
 ```
-(Le nom de la branch n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Le nom de la branch n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
 ## Effectuez les modifications nécessaires et engagez-les
 
@@ -67,17 +67,17 @@ git add Contributors.md
 
 Maintenant engagez ces modifications avec la commande `git commit`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <votre-nom> to Contributors list"
 ```
-en remplaçant `<your-name>` par votre nom.
+en remplaçant `<votre-nom>` par votre nom.
 
 ## Poussez les modifications vers GitHub
 
 Poussez vos modifications avec la commande `git push`:
 ```
-git push origin <add-your-name>
+git push origin <add-votre-nom>
 ```
-en remplaçant `<add-your-name>` avec le nom de la branche précédemment créée.
+en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
 
 ## Soumettez vos changements pour révision
 
@@ -89,7 +89,7 @@ Maintenant soumettez la demande de tirage.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion est effectuée. 
+Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée. 
 
 La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes. 
 
@@ -104,7 +104,7 @@ La branche master de votre embranchement ne subira pas de modification à cet in
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons  `upstream`. Une fois les modifications fusionnées, cherchez la nouvelleversion de mon répertoire :
+Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons  `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
 ```
 git fetch upstream
 ```
@@ -119,15 +119,15 @@ git push origin master
 ```
 Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-your-name>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-your-name>` n'est plus utile, donc vous pouvez la supprimer: 
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer: 
 ```
-git branch -d <add-your-name>
+git branch -d <add-votre-nom>
 ```
 et vous pouvez supprimer sa version dans le répertoire distant aussi : 
 ```
-git push origin --delete <add-your-name>
+git push origin --delete <add-votre-nom>
 ```
-Ceci n'est pas nécessaire, mais le nom de la branche montre son but plutôt particulier. Sa durée de vie peut être rendue courte. 
+Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte. 
 
 ## Tutoriels en utilisant d'autres outils 
 
@@ -136,11 +136,11 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre son but plutôt par
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Où aller depuis ici ?
+## Où aller ensuite ?
 
 Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous avec besoin d'aide ou avez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
 
-Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'apprendre davantage.
+Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'en apprendre davantage.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
