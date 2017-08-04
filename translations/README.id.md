@@ -111,7 +111,7 @@ Di sini kita melakukan fetch terhadap semua perubahan di fork saya (upstream rem
 ```
 git rebase upstream/master
 ```
-Di sini anda menerapkan semua perubahan yang telah anda ambil ke cabang master. Jika anda push branch master sekarang, fork anda juga akan memiliki perubahan:
+Di sini anda menerapkan semua perubahan yang telah anda fetch ke cabang master. Jika anda push branch master sekarang, fork anda juga akan memiliki perubahan:
 ```
 git push origin master
 ```
