@@ -132,12 +132,16 @@ Our second move will be to push your local repo to your GitHub fork. As you've s
 
 Now, let's see how to do it:
 
-First, you must be on your master branch, if you are not:
+First, you must be on your master branch to know which branch you are on check the first line of:
+```
+git status
+```
+if you are not already on master:
 ```
 git checkout master
 ```
 
- Then give a name to the public GitHub repo's url into your git with `add upstream remote-url`:
+Then you should add my public repo to your git with `add upstream remote-url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
@@ -150,14 +154,13 @@ You've just fetched the latest version of my fork (upstream remote). Now, you ne
 ```
 git rebase upstream/master
 ```
-Here you're merging the public repository you'd fetched with your master branch. Your local machine's master branch is now up-to-date. Now, if you push your master branch to your fork, your GitHub fork will also have the changes:
+Here you're merging the public repository with your master branch. Your local machine's master branch is now up-to-date. Lastly, if you push your master branch to your fork, your GitHub fork will also have the changes:
 ```
 git push origin master
 ```
 Notice here you're pushing to the remote named origin.
 
-
-At this point, your repositories are all up-to-date.
+At this point, all your repositories are up-to-date. Well done! You should do this, everytime you're GitHub repo tells you that you are a few commits behind.
 
 ## Tutorials Using Other Tools
 
