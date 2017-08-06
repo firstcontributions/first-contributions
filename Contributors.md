@@ -298,3 +298,4 @@
 - [Yatin Yadav](https://github.com/yyxtreme)
 - [Nathan Blaubach](https://github.com/blaubachn)
 - [Mark Moeckel](https://github.com/heymark)
+- [Eric Hall] (https://github.com/halleri)
