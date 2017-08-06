@@ -1,3 +1,4 @@
+- [Michael Isprihanto](https://github.com/michaelisprihanto)
 - [Janardhan Nallapati](https://github.com/janardhannallapati)
 - [William Leung](https://github.com/thisiswhale)
 - [Marcio Melo](https://github.com/marciosmelo)
