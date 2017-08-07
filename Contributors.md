@@ -300,3 +300,4 @@
 - [Nathan Blaubach](https://github.com/blaubachn)
 - [Mark Moeckel](https://github.com/heymark)
 - [Naman Sachdeva](https://github.com/namansachdeva)
+- [Eric Hall] (https://github.com/halleri)
