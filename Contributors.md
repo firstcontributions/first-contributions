@@ -301,3 +301,4 @@
 - [Mark Moeckel](https://github.com/heymark)
 - [Naman Sachdeva](https://github.com/namansachdeva)
 - [Eric Hall] (https://github.com/halleri)
+- [Neil Lupton](https://github.com/Neil188)
