@@ -225,6 +225,7 @@
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+- [chitaranjan sahu](https://github.com/TheCodeTalker)
 - [Vanessa Sena Teixeira] (https://github.com/vanessasena)
 - [Sergey Podkovyrin](https://github.com/podkovyrin-sergey)
 - [Cindy Yates](https://github.com/estudiochispa)
