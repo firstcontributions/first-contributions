@@ -205,6 +205,7 @@
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo](https://github.com/casaja)
+- [Pranav AP](https://github.com/pranav-cs)
 - [Carlos Eduardo](https://github.com/edunogodz)
 - [Javier S. Castillo][https://github.com/casaja]
 - [LaQuita G] (https://github.com/yoscheherazade)
