@@ -307,3 +307,4 @@
 - [Paul Rosset](https://github.com/PaulRosset)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
 - [Salome Suxiashvili](https://github.com/salome)
+- [Luka Khonelidze](https://github.com/luka)
