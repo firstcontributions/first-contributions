@@ -306,4 +306,5 @@
 - [Eric Hall] (https://github.com/halleri)
 - [Neil Lupton](https://github.com/Neil188)
 - [Paul Rosset](https://github.com/PaulRosset)
+- Jean Zombie
 - [Ofonime Francis](https://github.com/opiumated)
