@@ -312,5 +312,5 @@
 - [Keith Watson](https://github.com/WhowantsToknow)
 - Jean Zombie
 - [Ofonime Francis](https://github.com/opiumated)
-- [Miguel Martinez](https://github.com/cortazar11)
+
 
