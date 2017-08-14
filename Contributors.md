@@ -209,12 +209,10 @@
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo](https://github.com/casaja)
-- [Pranav AP](https://github.com/pranav-cs)
+- [Richard Keightley](https://github.com/richardk70)
 - [Carlos Eduardo](https://github.com/edunogodz)
-- [Javier S. Castillo](https://github.com/casaja)
 - [LaQuita G](https://github.com/yoscheherazade)
 - [Obinna A. Kalu](https://github.com/obkalu)
-- [Javier S. Castillo](https://github.com/casaja)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
 - Melanie Hudson aka Seekingcat
@@ -227,6 +225,10 @@
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
+<<<<<<< HEAD
+=======
+- [chitaranjan sahu](https://github.com/TheCodeTalker)
+>>>>>>> Clean up Contributors list
 - [Vanessa Sena Teixeira](https://github.com/vanessasena)
 - [Sergey Podkovyrin](https://github.com/podkovyrin-sergey)
 - [Cindy Yates](https://github.com/estudiochispa)
@@ -276,7 +278,6 @@
 - [Eshawn Karim](https://github.com/ek1437)
 - [Doyin Kareem](https://github.com/deekay112)
 - [Sharif Kabir](https://github.com/shark1120)
-- [Danielle Pankey](https://github.com/D-Pankey)
 - [Mohamed Falah](https://github.com/mohamedFalah)
 - [Aslam Shah ](https://github.com/hunzaboy)
 - [Wahyu BS](https://github.com/qteen)
@@ -302,7 +303,7 @@
 - [Nathan Blaubach](https://github.com/blaubachn)
 - [Mark Moeckel](https://github.com/heymark)
 - [Naman Sachdeva](https://github.com/namansachdeva)
-- [Eric Hall] (https://github.com/halleri)
+- [Eric Hall](https://github.com/halleri)
 - [Neil Lupton](https://github.com/Neil188)
 - [Paul Rosset](https://github.com/PaulRosset)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
