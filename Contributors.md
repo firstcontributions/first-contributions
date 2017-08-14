@@ -1,3 +1,5 @@
+- [Silvino Vieiew](https://github.com/silvinovieira)
+- [Michael Isprihanto](https://github.com/michaelisprihanto)
 - [Janardhan Nallapati](https://github.com/janardhannallapati)
 - [William Leung](https://github.com/thisiswhale)
 - [Marcio Melo](https://github.com/marciosmelo)
@@ -207,6 +209,7 @@
 - [Vlad Bogdan Florin](https://github.com/vladbogdan10)
 - [Svein Håvard Djupvik](https://github.com/sveinhd)
 - [Javier S. Castillo](https://github.com/casaja)
+- [Pranav AP](https://github.com/pranav-cs)
 - [Carlos Eduardo](https://github.com/edunogodz)
 - [Javier S. Castillo](https://github.com/casaja)
 - [LaQuita G](https://github.com/yoscheherazade)
@@ -296,3 +299,18 @@
 - [LePetitRenard](https://github.com/LePetitRenard)
 - [Abdullah Alam](https://github.com/abdullahalam)
 - [Yatin Yadav](https://github.com/yyxtreme)
+- [Nathan Blaubach](https://github.com/blaubachn)
+- [Mark Moeckel](https://github.com/heymark)
+- [Naman Sachdeva](https://github.com/namansachdeva)
+- [Eric Hall] (https://github.com/halleri)
+- [Neil Lupton](https://github.com/Neil188)
+- [Paul Rosset](https://github.com/PaulRosset)
+- [Tornike Gomareli](https://github.com/tornikegomareli)
+- [Salome Suxiashvili](https://github.com/salome)
+- [Luka Khonelidze](https://github.com/luka)
+- [Keith Watson](https://github.com/WhowantsToknow)
+- Jean Zombie
+- [Ofonime Francis](https://github.com/opiumated)
+- [Velimir Kumric](https://github.com/vkumric)
+
+
