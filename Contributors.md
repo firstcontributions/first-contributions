@@ -225,10 +225,7 @@
 - [Marek](https://github.com/marekpetak)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
-<<<<<<< HEAD
-=======
 - [chitaranjan sahu](https://github.com/TheCodeTalker)
->>>>>>> Clean up Contributors list
 - [Vanessa Sena Teixeira](https://github.com/vanessasena)
 - [Sergey Podkovyrin](https://github.com/podkovyrin-sergey)
 - [Cindy Yates](https://github.com/estudiochispa)
@@ -305,6 +302,7 @@
 - [Naman Sachdeva](https://github.com/namansachdeva)
 - [Eric Hall](https://github.com/halleri)
 - [Neil Lupton](https://github.com/Neil188)
+- [Kartik Gurajr](https://github.com/Kartik666)
 - [Paul Rosset](https://github.com/PaulRosset)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
 - [Salome Suxiashvili](https://github.com/salome)
