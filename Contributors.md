@@ -302,3 +302,4 @@
 - [Naman Sachdeva](https://github.com/namansachdeva)
 - [Eric Hall] (https://github.com/halleri)
 - [Neil Lupton](https://github.com/Neil188)
+- [Kartik Gurajr](https://github.com/Kartik666)
