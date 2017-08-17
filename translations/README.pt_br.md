@@ -117,7 +117,7 @@ Neste momento, eu mesclei o seu Branch `<add-your-name>` com o meu Branch princi
 ```
 git branch -d <add-your-name>
 ```
-e você pode deletar a versão deste repositório no repositŕorio remoto também:
+e você pode deletar a versão deste repositório no repositório remoto também:
 ```
 git push origin --delete <add-your-name>
 ```
@@ -134,7 +134,7 @@ Isso não é necessário, mas o nome desse Branch mostra seu propósito bastante
 
 Você tambem pode se juntar a nossa equipe Slack no caso de você precisar de alguma ajuda ou ter alguma dúvida. [Junte-se a nossa equipe Slack](https://firstcontributions.herokuapp.com).
 
-Aqui estão alguns repositórios a nível de inciante que você poderia resolver. Vá em frente para aprender mais.
+Aqui estão alguns repositórios a nível de iniciante que você poderia resolver. Vá em frente para aprender mais.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

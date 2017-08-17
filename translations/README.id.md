@@ -3,9 +3,9 @@
 
 # Kontribusi Pertama
 
-Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama apabila berkolaborasi dimana membuat kesalahan akan menimbulkan rasa tidak nyaman. Namun, open source adalah tentang berkolaborasi dan kerja sama. Kami ingin mensederhanakan cara kontributor open-source baru untuk belajar dan berkontribusi untuk pertama kali
+Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama apabila berkolaborasi dimana membuat kesalahan akan menimbulkan rasa tidak nyaman. Namun, sumber terbuka adalah tentang berkolaborasi dan kerja sama. Kami ingin menyederhanakan cara kontributor sumber terbuka yang baru untuk mulai belajar dan berkontribusi untuk pertama kali
 
-Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan mensederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami berjanji, ini akan menyenangkan.
+Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -16,20 +16,20 @@ Apabila belum memiliki git, [ install ]( https://help.github.com/articles/set-up
 ## Fork repositori ini
 
 Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
-Hal tersebut akan membuat copy repositori ini di akun anda.
+Hal tersebut akan membuat salinan repositori ini di akun anda.
 
 ## Clone repositori
 
 <img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang clone repositori ini ke komputer anda. Tekan tombol clone lalu tekan icon "copy to clipboard".
+Sekarang clone repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon "copy to clipboard".
 
 Buka terminal dan eksekusi perintah git berikut:
 
 ```
 git clone "url yang telah anda copy"
 ```
-where "url yang telah anda copy" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+yang mana "url yang telah anda copy" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -46,7 +46,7 @@ Ganti ke direktori repositori di komputer (jika belum ada di di sana):
 ```
 cd first-contributions
 ```
-Buat branch dengan perintah `git checkout`:
+Buat cabang dengan perintah `git checkout`:
 ```
 git checkout -b <add-nama>
 ```
@@ -55,11 +55,11 @@ Contoh:
 ```
 git checkout -b add-alonzo-church
 ```
-(Nama branch tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari branch ini adalah menambahkan nama anda ke dalam sebuah daftar.)
+(Nama cabang tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
 
 ## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
-Buka berkas `Contributors.md` menggunakan text editor, tambahkan nama anda ke dalamnya lalu save berkas tersebut. Apabila anda masuk ke direktori dan mengeksekusi perintah `git status` maka anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam branch yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama anda ke dalamnya lalu simpan berkas tersebut. Apabila anda masuk ke direktori dan mengeksekusi perintah `git status` maka anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
 ```
 git add Contributors.md
 ```
@@ -76,9 +76,9 @@ Push perubahan menggunakan perintah `git push`:
 ```
 git push origin <add-nama>
 ```
-Ganti `<add-nama>` dengan nama branch yang sebelumnya telah dibuat.
+Ganti `<add-nama>` dengan nama cabang yang sebelumnya telah dibuat.
 
-## Submit perubahan untuk di-review
+## Submit perubahan untuk diulas
 
 Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
 
@@ -88,9 +88,9 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-Suatu saat nanti saya akan melakukan merge terhadap semua perubahan anda ke master branch proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai di-merge.
+Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan anda ke master cabang proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
 
-Branch master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork anda selaras dengan milik saya, ikuti langkah-langkah berikut.
+Cabang master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
 ## Membuat fork anda selaras dengan repositori ini
 
@@ -102,22 +102,22 @@ Branch master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. U
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang telah dispesifikasikan dan disebut sebagai `upstream`. Apabila perubahan telah di-merge, fetch versi baru dari repositori saya:
+Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang telah dispesifikasikan dan disebut sebagai `upstream`. Apabila perubahan telah digabungkan, ambil versi baru dari repositori saya:
 ```
 git fetch upstream
 ```
 
-Di sini kita melakukan fetch terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan merge terhadap revisi baru dari repositori saya ke dalam branch master milik anda.
+Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam branch master milik anda.
 ```
 git rebase upstream/master
 ```
-Di sini anda menerapkan semua perubahan yang telah anda fetch ke branch master. Jika anda push branch master sekarang, fork anda juga akan memiliki perubahan:
+Di sini anda menerapkan semua perubahan yang telah anda ambil ke cabang master. Jika anda dorong cabang master sekarang, fork anda juga akan memiliki perubahan:
 ```
 git push origin master
 ```
 Perhatikan bahwa di sini anda melakukan push ke remote bernama origin.
 
-Pada titik ini saya telah melakukan merge terhadap branch anda `<add-nama>` ke dalam branch master dan anda telah melakukan merge terhadap branch master saya ke dalam branch master milik anda. Branch milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
+Pada titik ini saya telah melakukan penggabungan terhadap cabang anda `<add-nama>` ke dalam cabang master dan anda telah melakukan penggabungan terhadap cabang master saya ke dalam cabang master milik anda. Cabang milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
 ```
 git branch -d <add-nama>
 ```
