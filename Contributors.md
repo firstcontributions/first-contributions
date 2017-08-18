@@ -1,3 +1,4 @@
+- [Jake Frn](https://github.com/jakefrn)
 - [Eric Audran](https://github.com/Nevosis)
 - [Silvino Vieiew](https://github.com/silvinovieira)
 - [Michael Isprihanto](https://github.com/michaelisprihanto)
