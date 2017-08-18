@@ -1,3 +1,4 @@
+- [Eric Audran](https://github.com/Nevosis)
 - [Silvino Vieiew](https://github.com/silvinovieira)
 - [Michael Isprihanto](https://github.com/michaelisprihanto)
 - [Janardhan Nallapati](https://github.com/janardhannallapati)
