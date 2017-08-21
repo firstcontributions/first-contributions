@@ -1,135 +1,146 @@
-# प्रथम योगदान
+[![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+# Premières Contributions
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
+C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
 
-आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
+Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-## कांट इस भंडार
+<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
-कांटा बटन पर क्लिक करके इस रेपो कांटा
+*Pour lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
-## रिपोजिटरी क्लोन
+Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+## Embranchez ce répertoire
 
-अब आप अपने मशीन को यह रेपो क्लोन। क्लोन बटन पर क्लिक करें और फिर कॉपी आइकन क्लिपबोर्ड
+Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page. 
 
-एक टर्मिनल खोलें और निम्न git आदेश चलाएँ:
+Ceci créera une copie du répertoire sous votre compte.
+
+## Clonez ce répertoire
+
+<img align="right" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
+
+Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icon *copier dans le presse-papier*.
+
+Ouvrez un invite de commande et exécutez les commandes git suivantes :
 
 ```
-git clone "यूआरएल का नकल "
+git clone "l'url que vous venz de copier"
 ```
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url. 
 
-कहाँ "यूआरएल का नकल" (उद्धरण चिह्नों के बिना) इस भंडार के लिए यूआरएल  है। यूआरएल प्राप्त करने के लिए पिछले चरण देखें।
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-उदाहरण के लिए:
-
+Par exemple:
 ```
-git clone https://github.com/यह तुम हो/first-contributions.git
+git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
+où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+## Créez une branche
 
-' यह तुम हो 'अपने GitHub उपयोगकर्ता नाम है। यहाँ आप अपने कंप्यूटर के लिए GitHub में पहली योगदान भंडार की सामग्री नकल कर रहे हैं
-
-## एक शाखा बनाएं
-
-आपके कंप्यूटर पर रिपोजिटरी निर्देशिका के लिए परिवर्तित करें अगर आप पहले से ही वहाँ नहीं कर रहे हैं।
+Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
 
 ```
 cd first-contributions
 ```
-
-अब एक शाखा  बना  `git checkout command` उपयोग करके
-
+Maintenant créez une branche avec le commande `git checkout` :
 ```
-git checkout -b <अपना नाम जोड़>
+git checkout -b <add-votre-nom>
 ```
 
-उदाहरण के लिए:
-
+Par exemple:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-koffi-sani
 ```
+(Le nom de la branch n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
-## आवश्यक परिवर्तन करें और उन परिवर्तनों के लिए प्रतिबद्ध
+## Effectuez les modifications nécessaires et engagez-les
 
-अब खुले `Contributors.md` फ़ाइल एक पाठ संपादक में और इसे आपके नाम जोड़, और फ़ाइल सहेजें। आप अगर इस परियोजना निर्देशिका कर और `git status` करते हैं, तो आप परिवर्तन देखेंगे। उन परिवर्तनों को नीचे `git add` commad का उपयोग कर जोड़ें।
-
+Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enrégistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
 ```
 git add Contributors.md
 ```
 
-अब नीचे `git commit` आदेश का उपयोग उन परिवर्तनों को प्रतिबद्ध है।
-
+Maintenant engagez ces modifications avec la commande `git commit`:
 ```
-git commit -m "Add <आपका-नाम> to Contributors list"
+git commit -m "Add <votre-nom> to Contributors list"
 ```
+en remplaçant `<votre-nom>` par votre nom.
 
-आपके नाम के साथ `<आपका-नाम>` की जगह
+## Poussez les modifications vers GitHub
 
-## GitHub में परिवर्तन पुश
-
-`git push` का उपयोग कर अपने परिवर्तन धक्का
-
+Poussez vos modifications avec la commande `git push`:
 ```
-git push origin <अपना नाम जोड़>
+git push origin <add-votre-nom>
 ```
+en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
 
-बदलें `<अपना नाम जोड़>` शाखा आपने पहले बनाया के नाम के साथ
+## Soumettez vos changements pour révision
 
-## समीक्षा के लिए अपने परिवर्तनों को जमा करें
-
-आप GitHub पर अपने भंडार के लिए जाना है, तो आप देख `Compare & pull request` बटन खींच लेंगे। उस बटन पर क्लिक करें।
+Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-अब पुल अनुरोध सबमिट करें।
+Maintenant soumettez la demande de tirage. 
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## अपने कांटा इस भंडार के साथ समन्वयित रखते हुए
+Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée. 
 
-अब मैं इस परियोजना के मास्टर शाखा में अपने सभी परिवर्तन विलय हो जाएगा। अपने कांटा उन परिवर्तनों की जरूरत नहीं होगी। आदेश में अपने कांटा खान के साथ समन्वयित रखने के लिए, `upstream remote url` के रूप में मेरे रेपो के यूआरएल जोड़ें।
+La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes. 
 
+## Gardez votre embranchement synchronisé avec ce répertoire 
+
+ D'abord, basculez sur la branche master 
+ ```
+ git checkout master
+ ```
+
+ Et ajouter l'url de mon répertoire comme  `upstream remote url`:
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-
-यह git को इस परियोजना के दूसरे संस्करण निर्दिष्ट यूआरएल में मौजूद बताने का एक तरीका है और हम इसे मास्टर बुला रहे हैं। एक बार परिवर्तन विलय कर रहे हैं, मेरे रिपॉजिटरी के नए संस्करण लाने।
-
+Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons  `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
 ```
 git fetch upstream
 ```
 
-यहाँ हम अपने कांटा (अपस्ट्रीम दूरदराज) में सभी परिवर्तन ला रहे हैं। अब, आप अपने गुरु शाखा में अपने भंडार के नए संशोधन विलय करने की जरूरत है।
-
+Ici nous cherchons toutes les modification dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
 ```
 git rebase upstream/master
 ```
-
-यहाँ आप सभी परिवर्तनों को आप गुरु शाखा को दिलवाया आवेदन कर रहे हैं। तुम अब मास्टर शाखा धक्का, अपने कांटा भी परिवर्तन होगा
-
+Ici nous appliquons toutes les modifications que vous avez cherché à la branche master. Si vous poussez la branche master maintenant, votre embranchement aussi aura les modifications :
 ```
 git push origin master
 ```
+Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-यहां सूचना आप दूरदराज के नाम पर रखा मूल करने के लिए जोर दे रहे हैं।
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer: 
+```
+git branch -d <add-votre-nom>
+```
+et vous pouvez supprimer sa version dans le répertoire distant aussi : 
+```
+git push origin --delete <add-votre-nom>
+```
+Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte. 
+
+## Tutoriels en utilisant d'autres outils 
 
 
-## अन्य टूल का उपयोग करके ट्यूटोरियल
-
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
+## Où aller ensuite ?
 
+Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous avec besoin d'aide ou avez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
 
-## यहाँ से कहाँ जाएं ?
-
-यहाँ लोकप्रिय रेपो कि आप को हल कर सकते हैं में कुछ शुरुआत के स्तर के मुद्दों है। आगे बढ़ो और अधिक जानने के लिए उन रेपो करने के लिए जाना
+Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'en apprendre davantage.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
