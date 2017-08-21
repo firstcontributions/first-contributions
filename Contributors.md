@@ -176,6 +176,8 @@
 - [David](https://github.com/nowtech)
 - [Prerna Sony](https://github.com/prernasony)
 - [binkpitch](https://github.com/binkpitch)
+- [Sudeshana Ariyasena](https://github.com/sudeshana)
+- [Ashish Singh](https://github.com/ashishkumsingh)
 - [Ryan Brink](https://github.com/brink-ry)
 - [Sudeshana Ariyasena](https://github.com/sudeshana)
 - [Ashish Singh](https://github.com/ashish061291)
