@@ -316,5 +316,7 @@
 - Jean Zombie
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
+- [Monir Zaman](https://github.com/zamanuap)
+- [Kiran](https://github.com/mysninja)
 - [Monir Zaman] (https://github.com/zamanuap)
 - [Zachary Kearns](https://github.com/zacharykearns)
