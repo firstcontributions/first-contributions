@@ -321,6 +321,7 @@
 - [Monir Zaman] (https://github.com/zamanuap)
 - [Zachary Kearns](https://github.com/zacharykearns)
 - [Birksy89](https://github.com/birksy89)
+- [Kamil Doroszewicz](https://github.com/l3szcz)
 - [Gamecock](https://github.com/Gamecock)
 - [Sopanhavuth-aka-Sam](https://github.com/sopanhavuth-aka-sam) 
 - [Boxie](https://github.com/box5525)
