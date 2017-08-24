@@ -329,3 +329,4 @@
 - [Sarthak](https://github.com/Sarthakdtu)
 - [David Webb](https://github.com/davidw76)
 - [CodeInBit](https://github.com/codeinbit)
+- [Ryan Slade](https://github.com/rdslade)
