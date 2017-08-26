@@ -90,77 +90,7 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-Now, your `<add-your-name>` branch has finished it's purpose, so let's see how to remove this branch. 
-
-## Remove a branch from your repository
-
-If you have followed the tutorial up-to-now, our `<add-your-name>` branch has finished it's purpose, it is time to delete it from your local machine's repo. This isn't necessary, but the name of this branch shows its rather special purpose.  Its life can be made correspondingly short. 
-
-First, let's merge your `<add-your-name>` to your master, so to go your master branch:
-```
-git checkout master
-```
-
-Merge `<add-your-name>` to master:
-```
-git merge <add-your-name> master
-```
-
-Remove `<add-your-name>` on your local machine's repo:
-```
-git branch -d <add-your-name>
-```
-
-You have now deleted your local machine's `<add-your-name>` branch and everything looks neat and tidy.
-Though, at this point, you should still have the `<add-your-name>` branch in your GitHub fork. However, before you delete this, remember that you have sent a "Pull request" to my repo from this remote branch. So unless I've already merged it, don't delete this branch. 
-
-However, if I have merged your branch and you want to delete the remote branch, use: 
-```
-git push origin --delete <add-your-name>
-```
-
-Now, you know how to tidy your branches.
-With time, many commits will be added to my public repo. And the master branches of your local machine and of your GitHub fork won't be up-to-date. So in order to keep your repositories synchronized with mine, follow the steps below.
-
-
-## Keeping your fork synced with this repository
-
-First, the flow for a full sync should be understood. In this schema, there are 3 different repos: my public repo on Github `github.com/Roshanjossey/first-contributions/`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are suppose to work. 
-
-To keep your two repos up-to-date with my public repo, our first move is to fetch and merge the public repo with your local machine's repo.
-Our second move will be to push your local repo to your GitHub fork. As you've seen earlier, it's only from your fork that you can ask for a "pull request". So your GitHub for is the last repo to be updated. (A drawing should be inserted here for clarity)
-
-Now, let's see how to do it:
-
-First, you must be on your master branch to know which branch you are on check the first line of:
-```
-git status
-```
-if you are not already on master:
-```
-git checkout master
-```
-
-Then you should add my public repo to your git with `add upstream remote-url`:
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it `upstream`. Once your git has a name let's fetch the latest version of the public repository:
-```
-git fetch upstream
-```
-
-You've just fetched the latest version of my fork (upstream remote). Now, you need to merge the public repository into your master branch.
-```
-git rebase upstream/master
-```
-Here you're merging the public repository with your master branch. Your local machine's master branch is now up-to-date. Lastly, if you push your master branch to your fork, your GitHub fork will also have the changes:
-```
-git push origin master
-```
-Notice here you're pushing to the remote named origin.
-
-At this point, all your repositories are up-to-date. Well done! You should do this, everytime you're GitHub repo tells you that you are a few commits behind.
+[ ### Next steps ](additional-material)
 
 ## Tutorials Using Other Tools
 
