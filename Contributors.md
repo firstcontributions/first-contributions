@@ -1,4 +1,4 @@
-- [Eduard Barata](https://github.com/bar-alex)
+﻿- [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
 - [Jake Frn](https://github.com/jakefrn)
 - [Eric Audran](https://github.com/Nevosis)
@@ -330,3 +330,4 @@
 - [David Webb](https://github.com/davidw76)
 - [CodeInBit](https://github.com/codeinbit)
 - [Ryan Slade](https://github.com/rdslade)
+- [Chris Cerilli](http://github.com/chrisacerilli)
