@@ -334,3 +334,4 @@
 - [Phillip Drake](https://github.com/pldrake26)
 - [Lawrence Narh-Lawson] (https://github.com/lawlawson)
 - [Harimangal Pandey](https://github.com/pananon)
+- [Harimangal Pandey](https://github.com/pananon)
