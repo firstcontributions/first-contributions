@@ -334,3 +334,4 @@
 - [Phillip Drake](https://github.com/pldrake26)
 - [Lawrence Narh-Lawson](https://github.com/lawlawson)
 - [John James Romano](https://github.com/jjroma)
+- [Harimangal Pandey](https://github.com/pananon)
