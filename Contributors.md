@@ -332,6 +332,6 @@
 - [Ryan Slade](https://github.com/rdslade)
 - [Chris Cerilli](http://github.com/chrisacerilli)
 - [Phillip Drake](https://github.com/pldrake26)
-- [Lawrence Narh-Lawson] (https://github.com/lawlawson)
-- [Harimangal Pandey](https://github.com/pananon)
+- [Lawrence Narh-Lawson](https://github.com/lawlawson)
+- [John James Romano](https://github.com/jjroma)
 - [Harimangal Pandey](https://github.com/pananon)
