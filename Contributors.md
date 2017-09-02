@@ -338,3 +338,4 @@
 - [Harimangal Pandey](https://github.com/pananon)
 - [dh-dev-prog](https://github.com/dh-dev-prog)
 - [Caleb Cordell](https://github.com/RetroHeroSX)
+- [Christopher McDonald](https://github.com/Nixon1517)
