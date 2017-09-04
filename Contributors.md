@@ -339,3 +339,5 @@
 - [dh-dev-prog](https://github.com/dh-dev-prog)
 - [Caleb Cordell](https://github.com/RetroHeroSX)
 - [Christopher McDonald](https://github.com/Nixon1517)
+- [Bailey Harrison](https://github.com/bailwillharr)
+- [John Salter](https://github.com/NinjaSalt)
