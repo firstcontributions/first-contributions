@@ -338,4 +338,5 @@
 - [Harimangal Pandey](https://github.com/pananon)
 - [dh-dev-prog](https://github.com/dh-dev-prog)
 - [Caleb Cordell](https://github.com/RetroHeroSX)
+- [Bailey Harrison](https://github.com/bailwillharr)
 - [John Salter](https://github.com/NinjaSalt)
