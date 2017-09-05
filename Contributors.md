@@ -341,3 +341,4 @@
 - [Christopher McDonald](https://github.com/Nixon1517)
 - [Bailey Harrison](https://github.com/bailwillharr)
 - [John Salter](https://github.com/NinjaSalt)
+- [William Schwab](https://github.com/wschwab)
