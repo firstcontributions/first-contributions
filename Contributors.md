@@ -343,3 +343,4 @@
 - [John Salter](https://github.com/NinjaSalt)
 - [William Schwab](https://github.com/wschwab)
 - [Thanapong Prathumchat](https://github.com/thanapongp)
+- [Shivam Arora](https://github.com/shivamarora13)
