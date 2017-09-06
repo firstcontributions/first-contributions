@@ -345,3 +345,4 @@
 - [Thanapong Prathumchat](https://github.com/thanapongp)
 - [Shivam Arora](https://github.com/shivamarora13)
 - [Michael Chung](https://github.com/mikechung11)
+- [Michael Montero](https://github.com/michaelmontero)
