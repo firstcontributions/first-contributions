@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
+अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](../README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
 
 कठिन होता है| पहली बार कुछ करना हमेशा कठिन होता है| ख़ास तौर पर जब आप सहयोग और गलतियां करना आरामदायक नहीं होता । परन्तु ओपन सोर्स सहयोग के बारे में है ।
 
