@@ -1,4 +1,4 @@
-﻿- [Zakaria Soufiani](https://github.com/zakaria-soufiani)
+- [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
 - [Jake Frn](https://github.com/jakefrn)
@@ -347,3 +347,6 @@
 - [Michael Chung](https://github.com/mikechung11)
 - [Michael Montero](https://github.com/michaelmontero)
 - [余小磊](https://github.com/yuxiaolei1989)
+- [Ryann McQuilton](https://github.com/ryannmcq)
+- [Austin Overholt](https://github.com/austinoverholt)
+- [Alan Caro](https://github.com/alanc9016)
