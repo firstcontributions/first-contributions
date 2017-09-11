@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md),
+*Read this in other languages: [English](../README.md), [Spanish](README.es.md),
 [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md),
 [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md),
 [Korean](README.ko.md), [Greek](README.gr.md).*
@@ -140,7 +140,7 @@ origin 이라 명명된 원격으로 푸시하고 있는 것에 주목하세요.
 
 ## 자습서 다른 도구 사용
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

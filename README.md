@@ -9,7 +9,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md).*
+*Read this in other languages: [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md) and [Português/Brasil](translations/README.pt_br.md).*
 
 If you don't have git on your machine, [ install it ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -90,48 +90,12 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-The master branch of your fork won't have the changes. In order to keep your fork synchronized with mine, follow the steps below.
-
-## Keeping your fork synced with this repository
-
- First, switch to the master branch.
- ```
- git checkout master
- ```
-
- Then add my repo's url as `upstream remote url`:
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-This is a way of telling git that another version of this project exists in the specified url and we're calling it `upstream`. Once the changes are merged, fetch the new version of my repository:
-```
-git fetch upstream
-```
-
-Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
-```
-git rebase upstream/master
-```
-Here you're applying all the changes you fetched to master branch. If you push the master branch now, your fork will also have the changes:
-```
-git push origin master
-```
-Notice here you're pushing to the remote named origin.
-
-At this point I have merged your branch `<add-your-name>` into my master branch, and you have merged my master branch into your own master branch.  Your branch is now no longer needed, so you may delete it:
-```
-git branch -d <add-your-name>
-```
-and you can delete the version of it in the remote repository, too:
-```
-git push origin --delete <add-your-name>
-```
-This isn't necessary, but the name of this branch shows its rather special purpose.  Its life can be made correspondingly short.
+### [ Next steps ](additional-material)
 
 ## Tutorials Using Other Tools
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 

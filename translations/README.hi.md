@@ -2,9 +2,11 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
+अन्य भाषाओं में इस पढ़ें: [अंग्रेजी](../README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
 
-आप अपने मशीन पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
+कठिन होता है| पहली बार कुछ करना हमेशा कठिन होता है| ख़ास तौर पर जब आप सहयोग और गलतियां करना आरामदायक नहीं होता । परन्तु ओपन सोर्स सहयोग के बारे में है ।
+
+अगर आपके मशीन पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
 
 ## कांट इस भंडार
 
@@ -121,7 +123,7 @@ git push origin master
 
 ## अन्य टूल का उपयोग करके ट्यूटोरियल
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

@@ -1,118 +1,146 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# First Contributions
+# Premières Contributions
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
 
-*其他語言版本: [英語](../README.md), [西班牙語](README.es.md), [荷蘭語](README.nl.md), [印度語](README.hi.md), [俄語](README.ru.md), [日語](README.ja.md), [越南語](README.vn.md), [波蘭語](README.pl.md), [韓語](README.ko.md), [德語](README.de.md), [簡體中文](README.chs.md), [繁體中文](README.cht.md), [Greek](README.gr.md).*
+Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-如果你的電腦上尚未安裝 git, 請按照這個[ 安裝指引 ]( https://help.github.com/articles/set-up-git/ )進行安裝。
+<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
-## Fork（複製）本代碼倉庫
+*Pour lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [العربية](translations/README.ar.md).*
 
-通過點擊圖示中的按鈕，Fork 這個代碼倉庫。
-這個操作會將這個代碼倉庫複製到你的賬戶名下。
+Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
-## Clone（克隆）代碼倉庫
+## Embranchez ce répertoire
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page. 
 
-接下來將複製後的代碼倉庫克隆到你的電腦上，點擊圖示中的綠色按鈕，接著再點擊複製到剪切版按鈕（將代碼倉庫地址複製下來）
+Ceci créera une copie du répertoire sous votre compte.
 
-隨後打開命令行窗口，敲入如下 git 命令：
+## Clonez ce répertoire
+
+<img align="right" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
+
+Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icon *copier dans le presse-papier*.
+
+Ouvrez un invite de commande et exécutez les commandes git suivantes :
 
 ```
-git clone "才複製的 url 鏈接"
+git clone "l'url que vous venz de copier"
 ```
-"才複製的 url 鏈接"（去掉雙引號）就是複製到你賬戶名下的代碼倉庫地址。如何獲取這個鏈接地址請見上一步。
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url. 
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-譬如：
+Par exemple:
 ```
-git clone https://github.com/你的Github用戶名/first-contributions.git
+git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
-'你的 Github 用戶名' 指的就是你的 Github 用戶名。在這一步中，你是將複製到你賬戶名下的 first-contributions 這個代碼倉庫克隆到本地電腦上。
+où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
 
-## 新建一個分支
+## Créez une branche
 
-通過下面這個命令在命令行窗口中切換到 first-contributions 這個目錄下面
+Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
 
 ```
 cd first-contributions
 ```
-接下來使用 `git checkout` 命令新建一個代碼分支
+Maintenant créez une branche avec le commande `git checkout` :
 ```
-git checkout -b <新分支的名稱>
-```
-
-譬如：
-```
-git checkout -b 新分支的名稱
+git checkout -b <add-votre-nom>
 ```
 
-## 對代碼進行修改，而後 commit 修改
+Par exemple:
+```
+git checkout -b add-koffi-sani
+```
+(Le nom de la branch n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
-打開 `Contributors.md` 這個文件，更新文件內容，將你的名字加上去，保存修改。通過 `git status` 這個命令你可以看到被改動了的文件被列了出來。接著通過 `git add` 命令則可以添加你的改動（以便隨後提交改動），就像如下這條命令。
+## Effectuez les modifications nécessaires et engagez-les
+
+Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enrégistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
 ```
 git add Contributors.md
 ```
 
-現在就可以使用 `git commit` 命令 commit 你的修改了。
+Maintenant engagez ces modifications avec la commande `git commit`:
 ```
-git commit -m "Add <你的名字> to Contributors list"
+git commit -m "Add <votre-nom> to Contributors list"
 ```
-將 `<你的名字>` 替換為你的名字
+en remplaçant `<votre-nom>` par votre nom.
 
-## 將改動 Push（提交）到 Github
+## Poussez les modifications vers GitHub
 
-使用 `git push` 命令提交代碼
+Poussez vos modifications avec la commande `git push`:
 ```
-git push origin <分支的名稱>
+git push origin <add-votre-nom>
 ```
-將 `<分支的名稱>` 替換為之前新建的分支名稱
+en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
 
-## 提交你的變動供他人審閱
+## Soumettez vos changements pour révision
 
-前往 Github 你的代碼倉庫，你會看到一個 `Compare & pull request` 的按鈕。點擊該按鈕。
+Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-接著再點擊 `Create pull request` 按鈕，正式提交 pull request。
+Maintenant soumettez la demande de tirage. 
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## 讓你複製的代碼倉庫和本倉庫保持一致
+Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée. 
 
-收到你提交的變動後，我會將你提交到新分支中的改動，合併到 master（主分支）中。而你複製的代碼倉庫不會自動獲取到合併後的更新內容。為了讓你複製的代碼倉庫和我的代碼倉庫內容保持一致，首先你需要將我的代碼倉庫的地址使用 `upstream remote url` 命令添加到你的倉庫配置信息中。
+La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes. 
+
+## Gardez votre embranchement synchronisé avec ce répertoire 
+
+ D'abord, basculez sur la branche master 
+ ```
+ git checkout master
+ ```
+
+ Et ajouter l'url de mon répertoire comme  `upstream remote url`:
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-如此一來，你就讓 git 知道了你本地的這個代碼倉庫在遠端還存在另一個版本（即我的代碼倉庫），而那個版本我們將其叫做 upstream。一旦我合併了你提交的改動到我的代碼倉庫後，你在本地通過下面這個命令便能將更新的內容同步到本地。
+Ceci est une manière de dire à git qu'une autre version de ce répertoire existe à l'adresse spécifiée et que nous l'appelons  `upstream`. Une fois les modifications fusionnées, cherchez la nouvelle version de mon répertoire :
 ```
 git fetch upstream
 ```
 
-通過上面這個命令，我們便將遠端我的代碼倉庫（upstream remote）中所有新增的改動抓回到了本地。但這樣還沒有結束，接下來，你也需要將更新 rebase（按照 git 中文文檔將其翻譯為 '衍合'）進入你本地的 master 主分支中。
+Ici nous cherchons toutes les modification dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
 ```
 git rebase upstream/master
 ```
-通過上面這個命令，你就能夠將從遠端抓下來的所有改動衍合到本地的 master 主分支中。接著如果你再做一次 push master 提交你本地代碼到你自己的遠端主分支的操作，你在 Github 上複製的遠端代碼倉庫就也包含最新的代碼了。
+Ici nous appliquons toutes les modifications que vous avez cherché à la branche master. Si vous poussez la branche master maintenant, votre embranchement aussi aura les modifications :
 ```
 git push origin master
 ```
-注意，上面這個命令中，你遠端的代碼倉庫的名字叫做 origin。
+Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-教程使用其他工具
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer: 
+```
+git branch -d <add-votre-nom>
+```
+et vous pouvez supprimer sa version dans le répertoire distant aussi : 
+```
+git push origin --delete <add-votre-nom>
+```
+Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte. 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+## Tutoriels en utilisant d'autres outils 
+
+
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## 接下來做什麼呢？
+## Où aller ensuite ?
 
-通過下面這些鏈接，你能看到當前流行的眾多代碼倉庫中，適合初學者解決的問題列表，還等什麼，去吧 :)
+Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous avec besoin d'aide ou avez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
+
+Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'en apprendre davantage.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -123,4 +151,3 @@ git push origin master
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
-

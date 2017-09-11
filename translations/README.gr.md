@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
+*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](../README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
 
 Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 
@@ -109,7 +109,7 @@ git push origin master
 
 ## Tutorials Χρησιμοποιώντας Άλλα Εργαλεία
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
