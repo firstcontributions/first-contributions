@@ -350,3 +350,4 @@
 - [Ryann McQuilton](https://github.com/ryannmcq)
 - [Austin Overholt](https://github.com/austinoverholt)
 - [Alan Caro](https://github.com/alanc9016)
+- [Weekend Warrior](https://github.com/avadlamudi)
