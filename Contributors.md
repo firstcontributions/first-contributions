@@ -356,5 +356,6 @@
 - [Alan Caro](https://github.com/alanc9016)
 - [Weekend Warrior](https://github.com/avadlamudi)
 - [Andrew Chow](https://github.com/andrewRChow)
+- [GlueckskindRU](https://github.com/glueckskindu)
 - [Torty Emmanuel](https://github.com/tengine8000)
 
