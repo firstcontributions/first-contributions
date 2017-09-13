@@ -358,4 +358,5 @@
 - [Andrew Chow](https://github.com/andrewRChow)
 - [GlueckskindRU](https://github.com/glueckskindu)
 - [Torty Emmanuel](https://github.com/tengine8000)
+- [Todd Mason](https://github.com/ToddMason/first-contributions)
 
