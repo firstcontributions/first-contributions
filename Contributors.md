@@ -187,7 +187,6 @@
 - [Ashish Singh](https://github.com/ashish061291)
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
-- [Inci Qasimova](https://github.com/inci-august)
 - [Raquel Ventas] (https://github.com/rventas)
 - [Balaji Mj](https://github.com/Bala1718)
 - [Inci Qasimova](https://github.com/inci-august)
