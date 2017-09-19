@@ -362,4 +362,5 @@
 - 阿甘
 - [Adimali](https://github.com/adimali)
 - [Neethu Santhosh](https://github.com/neethusanthosh)
-- [Shashank Shekhar]{https://github.com/thunderandrain}
+- [Shashank Shekhar](https://github.com/thunderandrain)
+- [Sergio Gayon](https://github.com/sergaben)
