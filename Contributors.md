@@ -1,3 +1,4 @@
+- [Rebecca Williams](https://github.com/Becca941)
 - [Andrei Ushakov](https://github.com/aushakov95)
 - [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - [Eduard Barata](https://github.com/bar-alex)
