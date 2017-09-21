@@ -7,11 +7,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <Navbar/>
+      <Navbar />
       <div className="App-header">
       <h1>Make your first open source contribution in 5 minutes</h1>
       </div>
-      <LinkButton/>
+      <LinkButton />
       <CardsContainer/>
       </div>
     );
