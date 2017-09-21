@@ -1,0 +1,5 @@
+.Container-layout{
+    display: -ms-flexbox;
+    padding: 1.2em;
+    overflow: hidden;
+}
