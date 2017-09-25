@@ -367,3 +367,4 @@
 - [Sergio Gayon](https://github.com/sergaben)
 - [Zachary Amerman](https://github.com/zamerman)
 - [Arif Iqbal] (https://github.com/arifktk32)
+- [Tom Powell] (https://github.com/thatlegendtom)
