@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import LinkButton from './components/LinkButton/LinkButton';
 import Navbar from './components/Navbar/Navbar';
-import CardsContainer from './components/ProjectList/ContainerForCards';
+import CardsContainer from './components/ProjectList/CardsContainer';
 class App extends Component {
   render() {
     return (
