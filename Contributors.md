@@ -368,3 +368,4 @@
 - [Zachary Amerman](https://github.com/zamerman)
 - [Arif Iqbal] (https://github.com/arifktk32)
 - [Tom Powell] (https://github.com/thatlegendtom)
+- [Charletta Bullard] (https://github.com/Charletta)
