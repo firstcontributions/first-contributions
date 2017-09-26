@@ -1,0 +1,6 @@
+.Container-layout{
+    background: white;
+    display: -ms-flexbox;
+    padding: 1.2em;
+    overflow: hidden;
+}
