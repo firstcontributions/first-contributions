@@ -1,11 +1,17 @@
 import React from 'react';
-import Card from '../ProjectList/ProjectsCards';
+//import Card from '../ProjectList/ProjectsCards';
 
 export default class Search extends React.Component{
     render(){
-            return(
-                console.log("search component goes here")
-            )
+       
+   
+        
+        return(
+            console.log("Nothing to see here")
+        )
+
+        
+
     }
 
 

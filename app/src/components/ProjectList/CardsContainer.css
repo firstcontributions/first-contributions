@@ -1,6 +1,7 @@
 .Container-layout{
     background: white;
-    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
     padding: 1.2em;
     overflow: hidden;
 }
