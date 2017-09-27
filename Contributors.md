@@ -379,3 +379,4 @@
 - [Omar Aguinaga](https://github.com/OmarAguinaga)
 - [Enzo Monjardín](https://github.com/enzomonjardin)
 - [Ariela Bawol](https://github.com/Ariela1127)
+-[Mridul Parakh](https://github.com/Mridul-parakh)
