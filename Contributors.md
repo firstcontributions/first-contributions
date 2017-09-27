@@ -1,3 +1,4 @@
+- [Parker Dyer] (https://github.com/parkerdyer)
 - [Jessica Campbell](https://github.com/jlcampbell)
 - [Rebecca Williams](https://github.com/Becca941)
 - [Andrei Ushakov](https://github.com/aushakov95)
