@@ -374,4 +374,6 @@
 - [Reyahh H] (https://github.com/reyahH)
 - [Joao Silva](https://github.com/joaopfsilva)
 - [Aakash K T] (https://github.com/kt20162)
-
+-[Mridul Parakh]
+- [Hitoishi Das]
+- [Omar Aguinaga](https://github.com/OmarAguinaga)
