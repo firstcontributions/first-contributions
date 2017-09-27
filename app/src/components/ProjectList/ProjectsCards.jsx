@@ -13,7 +13,7 @@ export default class Card extends React.Component {
                             <p> {this.props.description}</p>
                         </div>
                         <div className="Card-Link">
-                        Link to Project
+                        Go to Project
                         </div> 
                     </div> 
                 </a>
