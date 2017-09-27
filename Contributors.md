@@ -378,3 +378,4 @@
 - [Hitoishi Das]
 - [Omar Aguinaga](https://github.com/OmarAguinaga)
 - [Enzo Monjardín](https://github.com/enzomonjardin)
+- [Ariela Bawol](https://github.com/Ariela1127)
