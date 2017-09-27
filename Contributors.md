@@ -370,3 +370,4 @@
 - [Arif Iqbal] (https://github.com/arifktk32)
 - [Tom Powell] (https://github.com/thatlegendtom)
 - [Charletta Bullard] (https://github.com/Charletta)
+- [Reyahh H] (https://github.com/reyahH)
