@@ -400,4 +400,5 @@
 - [Harsh Shah] (https://github.com/harshcrop)
 - [Juan Jimenez](https://github.com/PurgePJ)
 - [Hari](https://github.com/hapr05)
+- [Kavan Pancholi](https://github.com/kavanpancholi)
 - [Martin Mortensen](https://github.com/spiritsack)
