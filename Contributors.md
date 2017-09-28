@@ -2,6 +2,7 @@
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
 - [Aditya Agarwal](https://github.com/itaditya)
+- [Rohit Jakhmola](https://github.com/Rohit599)
 - [Mukund Banka](https://github.com/mukund54)
 ﻿- [Michael Kolodziejski](https://github.com/Packetdude)
 - [Parker Dyer](https://github.com/parkerdyer)
@@ -423,3 +424,4 @@
 - [Panu Kettunen](https://github.com/panukettu)
 - [Hartama Putra](https://github.com/haruute0/)
 - [Prosper Doko](https://github.com/shadonet/)
+- [Bilal Cagiran](https://github.com/extwiii/)
