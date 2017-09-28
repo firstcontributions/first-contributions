@@ -418,4 +418,5 @@
 - [Brett](https://github.com/CrazyLlama)
 - [Stéphane Salomon](https://github.com/theflupke)
 - [Vito Labalestra](https://github.com/xit4)
+- [Theo Markovic](https://github.com/tmarkovic)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
