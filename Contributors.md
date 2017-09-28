@@ -1,4 +1,4 @@
-- [joranhezon](https://github.com/joranhezon)
+﻿- [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
@@ -436,4 +436,5 @@
 - [Chaiwud Taitanee](https://github.com/artdvp)
 - [Kristian Os](https://github.com/codedevstem)
 - [Thiago Brasil](https://github.com/tchaguitos)
+- [Leonardo Pedreira](https://github.com/leopedreira)
 
