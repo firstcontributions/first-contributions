@@ -422,3 +422,4 @@
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
 - [Panu Kettunen](https://github.com/panukettu)
 - [Hartama Putra](https://github.com/haruute0/)
+- [Prosper Doko](https://github.com/shadonet/)
