@@ -77,6 +77,7 @@
 - [Rares Matei](https://github.com/rarmatei)
 - [Aditya Vishwekar](https://github.com/adityavishwekar)
 - [Eloisa Guerrero](https//github.com/grrrero)
+- [Mukuma Musenge](https//github.com/k9uma)
 - [Santhosh](https://github.com/sanreddevils)
 - [Prakhar tripathi](https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
