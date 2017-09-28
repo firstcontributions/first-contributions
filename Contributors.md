@@ -1,3 +1,4 @@
+- [Aditya Agarwal](https://github.com/itaditya)
 - [Mukund Banka] (https://github.com/mukund54)
 ﻿- [Michael Kolodziejski] (https://github.com/Packetdude)
 - [Parker Dyer] (https://github.com/parkerdyer)
@@ -400,3 +401,5 @@
 - [Juan Jimenez](https://github.com/PurgePJ)
 - [Hari](https://github.com/hapr05)
 - [Srinivas Panuganti] (https://github.com/cnuis2cool)
+- [Kavan Pancholi](https://github.com/kavanpancholi)
+- [Martin Mortensen](https://github.com/spiritsack)
