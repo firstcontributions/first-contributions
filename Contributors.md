@@ -384,6 +384,8 @@
 - [Ariela Bawol](https://github.com/Ariela1127)
 - [Ashutosh Yadav](https://github.com/ashu-beckham)
 - [Clayton Surfus](https://github.com/csurfus)
+- [Ronald Thompson](https://github.com/ronwthompson)
+- [Shivam](https://github.com/Shivam-sopho)
 - [Anupam Dagar](https://github.com/Anupam-dagar)
 - [Ronald Thompson](https://github.com/ronwthompson)
 - [Zach McCall](https://github.com/zwmccall)
