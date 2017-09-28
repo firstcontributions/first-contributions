@@ -385,5 +385,6 @@
 - [Clayton Surfus](https://github.com/csurfus)
 - [Anupam Dagar](https://github.com/Anupam-dagar)
 - [Ronald Thompson](https://github.com/ronwthompson)
+- [Zach McCall](https://github.com/zwmccall)
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
 - [Santosh Viswanatham](https://github.com/viswanathamsantosh)
