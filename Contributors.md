@@ -426,3 +426,4 @@
 - [Enrico Paganin](https://github.com/platipo)
 - [Prosper Doko](https://github.com/shadonet/)
 - [Bilal Cagiran](https://github.com/extwiii/)
+- [Steffen Hasse](https://github.com/Hazen91/)
