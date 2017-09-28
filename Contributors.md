@@ -1,4 +1,4 @@
-﻿
+
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
 - [Aditya Agarwal](https://github.com/itaditya)
@@ -416,3 +416,4 @@
 - [Raj Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
 - [Brett](https://github.com/CrazyLlama)
+- [Stéphane Salomon](https://github.com/theflupke)
