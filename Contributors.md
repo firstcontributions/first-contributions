@@ -414,3 +414,4 @@
 - [Igor Chiriac](https://github.com/yanime)
 - [Raj Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
+- [Brett](https://github.com/CrazyLlama)
