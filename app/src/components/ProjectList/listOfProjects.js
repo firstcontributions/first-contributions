@@ -2,7 +2,7 @@ const projectList = [
   {
     name: 'React',
     imageSrc: 'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667',
-    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22',
+    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22Difficulty%3A+beginner%22',
     description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces',
   }, {
     name: 'Exercism',
@@ -12,12 +12,12 @@ const projectList = [
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
-    githubLink: 'https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly',
+    githubLink: 'https://github.com/funretro/distributed/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3A%22beginner%20friendly%22%20',
     description: 'Easy to use and beautiful restrospective tool',
   }, {
     name: 'Habitat',
     imageSrc: 'https://avatars1.githubusercontent.com/u/18171698?v=3&s=100',
-    githubLink: 'https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy',
+    githubLink: 'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3AE-Easy%20',
     description: 'Modern applications with built-in automation',
   }, {
     name: 'Scikit-learn',
@@ -32,7 +32,7 @@ const projectList = [
   }, {
     name: 'Numpy',
     imageSrc: 'https://camo.githubusercontent.com/b310fd3c9c5f7da5de0911b77d201408b76b8a58/68747470733a2f2f696d616765732e706c6f742e6c792f706c6f746c792d646f63756d656e746174696f6e2f7468756d626e61696c2f6e756d70792d6c6f676f2e6a7067',
-    githubLink: 'https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22',
+    githubLink: 'https://github.com/numpy/numpy/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3A%22difficulty%3A%20Easy%22%20',
     description: 'Scientific computing with Python',
   }, {
     name: 'Elasticsearch',
