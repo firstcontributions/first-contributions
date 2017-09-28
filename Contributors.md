@@ -432,4 +432,5 @@
 - [Panagiotis Vourtsis](https://github.com/panvourtsis/)
 -  [Johanne Andersen](https://github.com/JohanneA)
 - [Emre Yilmaz](https://github.com/emre-yilmaz)
+- [Chaiwud Taitanee](https://github.com/artdvp)
 
