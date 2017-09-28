@@ -385,3 +385,4 @@
 - [Clayton Surfus](https://github.com/csurfus)
 - [Anupam Dagar](https://github.com/Anupam-dagar)
 - [Ronald Thompson](https://github.com/ronwthompson)
+- [Vaibhav Rai](https://github.com/RaiVaibhav)
