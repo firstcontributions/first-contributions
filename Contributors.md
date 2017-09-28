@@ -433,4 +433,5 @@
 -  [Johanne Andersen](https://github.com/JohanneA)
 - [Emre Yilmaz](https://github.com/emre-yilmaz)
 - [Ben Trybulski](https://github.com/btrybulski)
+- [Chaiwud Taitanee](https://github.com/artdvp)
 
