@@ -397,3 +397,4 @@
 - [Vaibhav Jain](https://github.com/VJ-Jain)
 - [Rishabh Bansal] (https://github.com/rishabh-bansal)
 - [Juan Jimenez](https://github.com/PurgePJ)
+- [Hari](https://github.com/hapr05)
