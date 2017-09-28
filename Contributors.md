@@ -1,4 +1,4 @@
-- [joranhezon](https://github.com/joranhezon)
+﻿- [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
@@ -429,3 +429,4 @@
 - [Bilal Cagiran](https://github.com/extwiii/)
 - [Steffen Hasse](https://github.com/Hazen91/)
 - [Hyunwoo Kim](https://github.com/khw1031/)
+-  [Johanne Andersen](https://github.com/JohanneA)
