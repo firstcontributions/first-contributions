@@ -412,3 +412,4 @@
 - [Oliver Taylor](https://github.com/olitaylor)
 - [Rein Bauwens](https://github.com/reinbauwens)
 - [Igor Chiriac](https://github.com/yanime)
+- [Raj Dosanjh](https://github.com/rdosanjh)
