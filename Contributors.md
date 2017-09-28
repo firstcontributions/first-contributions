@@ -394,3 +394,4 @@
 - [A Aditya](https://github.com/aditya5558)
 - [Sahan Serasinghe](https://github.com/sahan91)
 - [Gerald Hernandez](https://github.com/monoliths)
+- [Rishabh Bansal] (https://github.com/rishabh-bansal)
