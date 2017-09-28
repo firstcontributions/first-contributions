@@ -429,3 +429,4 @@
 - [Bilal Cagiran](https://github.com/extwiii/)
 - [Steffen Hasse](https://github.com/Hazen91/)
 - [Hyunwoo Kim](https://github.com/khw1031/)
+- [Panagiotis Vourtsis](https://github.com/panvourtsis/)
