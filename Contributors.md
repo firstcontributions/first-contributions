@@ -440,3 +440,4 @@
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull] (https://github.com/bahull)
 - [Kevin Vu](https://github.com/kkv263)
+- [Luigi Pizarro] (https://github.com/soyluking)
