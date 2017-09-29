@@ -447,3 +447,4 @@
 - [Bryce Hull] (https://github.com/bahull)
 - [Kevin Vu](https://github.com/kkv263)
 - [Luigi Pizarro] (https://github.com/soyluking)
+- [Michaelsun Baluyos](https://github.com/michaelsunb)
