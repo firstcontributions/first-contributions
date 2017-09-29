@@ -392,4 +392,4 @@
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
 - [Santosh Viswanatham](https://github.com/viswanathamsantosh)
 - [A Aditya](https://github.com/aditya5558)
-- [Akeem Amusat](https://github.com/dev-haykay)
+- [HAKEEM AMUSAT](https://github.com/dev-haykay)
