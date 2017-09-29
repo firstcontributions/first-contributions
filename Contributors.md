@@ -1,3 +1,6 @@
+﻿- [Mukund Banka] (https://github.com/mukund54)
+﻿- [Michael Kolodziejski] (https://github.com/Packetdude)
+- [Parker Dyer] (https://github.com/parkerdyer)
 ﻿- meherpooja
 - [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
@@ -401,6 +404,7 @@
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
 - [Santosh Viswanatham](https://github.com/viswanathamsantosh)
 - [A Aditya](https://github.com/aditya5558)
+- [HAKEEM AMUSAT](https://github.com/dev-haykay)
 - [Sahan Serasinghe](https://github.com/sahan91)
 - [Gerald Hernandez](https://github.com/monoliths)
 - [Vaibhav Jain](https://github.com/VJ-Jain)
