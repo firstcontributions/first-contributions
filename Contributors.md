@@ -109,6 +109,7 @@
 - [Jimmy Mannan](https://github.com/jiimms)
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
+- [John Salvie](https://github.com/outofgamut)
 - [Vipin Chacko](https://github.com/vipin7)
 - [ivlv](https://github.com/ivlv)
 - [Alvin Raygon](https://github.com/blackchalk)
