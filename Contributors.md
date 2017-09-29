@@ -439,3 +439,4 @@
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull] (https://github.com/bahull)
+- [Kevin Vu](https://github.com/kkv263)
