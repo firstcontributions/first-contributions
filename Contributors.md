@@ -439,3 +439,4 @@
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull] (https://github.com/bahull)
+- [Luigi Pizarro] (https://github.com/soyluking)
