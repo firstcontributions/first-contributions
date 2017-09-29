@@ -438,3 +438,4 @@
 - [Thiago Brasil](https://github.com/tchaguitos)
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Uliana Sirotina](https://github.com/bulliana)
+- [Bryce Hull] (https://github.com/bahull)
