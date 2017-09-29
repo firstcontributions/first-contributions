@@ -1,4 +1,4 @@
-﻿- [meherpooja]
+﻿- meherpooja
 - [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
