@@ -7,7 +7,7 @@ export default class CardsContainer extends React.Component {
   render() {
     return (
       <div className="Container-layout">
-        {projectList.map((item) => {
+        { projectList.map((item) => {
           return (
             <Card
               name={item.name}
