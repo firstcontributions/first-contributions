@@ -1,4 +1,4 @@
-﻿- [Mukund Banka] (https://github.com/mukund54)
+- [Mukund Banka] (https://github.com/mukund54)
 ﻿- [Michael Kolodziejski] (https://github.com/Packetdude)
 - [Parker Dyer] (https://github.com/parkerdyer)
 ﻿- meherpooja
@@ -452,3 +452,9 @@
 - [Apoorv Vardhan]
 - [Anuj Pahade](https://github.com/Username-anuj)
 - [Wasim Akram](https://github.com/wasimwazi)
+- [Ducksper](https://github.com/ducksper)
+- [Kunal Vishnoi](https://github.com/kunalvishnoi)
+- [Ankit Tiwari](https://github.com/anku255)
+- [Renisha Christie. A](https://github.com/crisner)
+- [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
+- [Nicholas Meschke](https://github.com/Nixsm)
