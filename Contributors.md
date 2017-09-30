@@ -456,3 +456,4 @@
 - [Ankit Tiwari](https://github.com/anku255)
 - [Renisha Christie. A](https://github.com/crisner)
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
+- [Nicholas Meschke](https://github.com/Nixsm)
