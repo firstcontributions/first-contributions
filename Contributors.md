@@ -452,7 +452,12 @@
 - [Suryadeep Pal](https://github.com/techpool)
 - [Apoorv Vardhan]
 - [Anuj Pahade](https://github.com/Username-anuj)
+- [Wasim Akram](https://github.com/wasimwazi)
 - [Ducksper](https://github.com/ducksper)
 - [Kunal Vishnoi](https://github.com/kunalvishnoi)
 - [Ankit Tiwari](https://github.com/anku255)
 - [Renisha Christie. A](https://github.com/crisner)
+- [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
+- [Nicholas Meschke](https://github.com/Nixsm)
+- [Swapnil Sharma](https://github.com/swapsha96)
+- [Rishabh Bansal](https://github.com/rishabh-bansal)
