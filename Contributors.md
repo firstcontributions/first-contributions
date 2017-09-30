@@ -459,3 +459,4 @@
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
 - [Nicholas Meschke](https://github.com/Nixsm)
 - [Swapnil Sharma](https://github.com/swapsha96)
+- [Rishabh Bansal](https://github.com/rishabh-bansal)
