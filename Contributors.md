@@ -2,7 +2,7 @@
 - [Mukund Banka] (https://github.com/mukund54)
 ﻿- [Michael Kolodziejski] (https://github.com/Packetdude)
 - [Parker Dyer] (https://github.com/parkerdyer)
-﻿- meherpooja
+- meherpooja
 - [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
@@ -109,6 +109,7 @@
 - [Shaznim Hussain](https://github.com/shaznimhussain)
 - [Abhijeet Goel](https://github.com/aninjamonk)
 - [Leticia Valderas](https://github.com/monaLeti)
+- [Justin Kim] (https://github.com/justinkimsgithub)
 - [Amar Yadav](https://github.com/amar-yadav)
 - [Jimmy Mannan](https://github.com/jiimms)
 - [Soroush Torkzadeh](https://github.com/sorousht)
@@ -462,3 +463,4 @@
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Yasha Singh](https://github.com/yashasingh)
+- [Desiderio Martinez](https://github.com/siderio2)
