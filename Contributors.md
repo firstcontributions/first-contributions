@@ -424,7 +424,7 @@
 - [Oliver Taylor](https://github.com/olitaylor)
 - [Rein Bauwens](https://github.com/reinbauwens)
 - [Igor Chiriac](https://github.com/yanime)
-- [Raj Dosanjh](https://github.com/rdosanjh)
+- [Rajdeep Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
 - [Brett](https://github.com/CrazyLlama)
 - [jlapitan](https://github.com/jlapitan)
