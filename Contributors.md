@@ -426,6 +426,7 @@
 - [Raj Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
 - [Brett](https://github.com/CrazyLlama)
+- [jlapitan](https://github.com/jlapitan)
 - [Stéphane Salomon](https://github.com/theflupke)
 - [Vito Labalestra](https://github.com/xit4)
 - [Theo Markovic](https://github.com/tmarkovic)
