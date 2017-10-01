@@ -483,3 +483,4 @@
 - [Connor Phee](https://github.com/connorphee)
 - [Joseph Frank](https://github.com/JoeyFrank)
 - [Jaye](https://github.com/Jaye-Culverhouse)
+- [Paul Bergmeir](https://github.com/paulbrgmr)
