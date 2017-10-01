@@ -476,3 +476,4 @@
 - [Jemal Ahmedov](https://github.com/jimjja)
 - [Rishabh Mishra](https://github.com/rishabh09)
 - [Connor Parsons](https://github.com/southcapital)
+- [Aishwarya Chaturvedi](https://github.com/AishwaryaChat)
