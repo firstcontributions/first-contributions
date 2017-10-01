@@ -2,6 +2,7 @@
 - [Mukund Banka] (https://github.com/mukund54)
 ﻿- [Michael Kolodziejski] (https://github.com/Packetdude)
 - [Parker Dyer] (https://github.com/parkerdyer)
+- meherpooja
 - [joranhezon](https://github.com/joranhezon)
 ﻿- [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
@@ -461,4 +462,5 @@
 - [Nicholas Meschke](https://github.com/Nixsm)
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [Yasha Singh](https://github.com/yashasingh)
 - [Desiderio Martinez](https://github.com/siderio2)
