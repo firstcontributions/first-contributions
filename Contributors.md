@@ -330,6 +330,7 @@
 - [Nathan Blaubach](https://github.com/blaubachn)
 - [Mark Moeckel](https://github.com/heymark)
 - [Naman Sachdeva](https://github.com/namansachdeva)
+- [Tannishk Sharma](https://github.com/tannishk)
 - [Eric Hall](https://github.com/halleri)
 - [Neil Lupton](https://github.com/Neil188)
 - [Kartik Gurajr](https://github.com/Kartik666)
