@@ -467,3 +467,4 @@
 - [Yasha Singh](https://github.com/yashasingh)
 - [Desiderio Martinez](https://github.com/siderio2)
 - [Rishabh kr bothra](https://github.com/geekychaser)
+- [Manas Khatua](https://github.com/manask4)
