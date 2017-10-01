@@ -485,3 +485,5 @@
 - [Jaye](https://github.com/Jaye-Culverhouse)
 - [Paul Bergmeir](https://github.com/paulbrgmr)
 - [Prankur Verma](https://github.com/prankurverma)
+- [Dan Steren](https://github.com/dansteren)
+
