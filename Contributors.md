@@ -479,3 +479,4 @@
 - [Connor Parsons](https://github.com/southcapital)
 - [Aishwarya Chaturvedi](https://github.com/AishwaryaChat)
 - [Joost Kneepkens](https://github.com/kneepnl)
+- [Akshay Iyer](https://github.com/Akshayiyer12)
