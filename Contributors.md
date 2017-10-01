@@ -462,5 +462,6 @@
 - [Nicholas Meschke](https://github.com/Nixsm)
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [WeiChiaChang](https://github.com/WeiChiaChang/)
 - [Yasha Singh](https://github.com/yashasingh)
 - [Desiderio Martinez](https://github.com/siderio2)
