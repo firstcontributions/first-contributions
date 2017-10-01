@@ -5,3 +5,9 @@
     padding: 3em;
     overflow: hidden;
 }
+
+@media only screen and (max-width: 767px) {
+    .Container-layout{
+        padding: 0.5vw;
+    }
+}

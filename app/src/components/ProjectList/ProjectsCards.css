@@ -66,3 +66,32 @@
     margin-left: 10%;
     
 }
+
+@media only screen and (max-width: 767px) {
+    .Card-Container{
+        width: 46vw;
+        margin: 1vh 1.5vw;
+    }
+    .Project-Logo{
+        width: 75%;
+        height: 40%;
+        margin-top: 3%;
+    }
+    .Card-Title{
+        margin: 1% 3%;
+        height: 5%;
+    }
+    .Card-Description{
+        position: relative;
+        padding:2%;
+    }
+    .Card-Description p{
+        margin: 8px;
+    }
+    .Card-Link{
+        padding: 4% 2%;
+        background-color: #007EE5;
+        text-decoration: none;
+        color: #ffffff;
+    }
+}
