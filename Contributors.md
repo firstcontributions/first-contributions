@@ -480,3 +480,4 @@
 - [Aishwarya Chaturvedi](https://github.com/AishwaryaChat)
 - [Joost Kneepkens](https://github.com/kneepnl)
 - [Akshay Iyer](https://github.com/Akshayiyer12)
+- [Connor Phee](https://github.com/connorphee)
