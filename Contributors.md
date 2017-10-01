@@ -475,3 +475,6 @@
 - [Kristof Arron](https://github.com/KristofArron)
 - [Jemal Ahmedov](https://github.com/jimjja)
 - [Mary Hull](https://github.com/thegreyelephant)
+- [Rishabh Mishra](https://github.com/rishabh09)
+- [Connor Parsons](https://github.com/southcapital)
+- [Joost Kneepkens](https://github.com/kneepnl)
