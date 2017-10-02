@@ -7,7 +7,7 @@ Zor. Herhangi yaptığın bir iş ilk seferinde her zaman zor gelir. Özellikle 
 
 Makale okumak ve eğitim videoları yardımcı olabilir fakat, o işi gerçekten senin yapman yapmandan daha iyi ne olabilir? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolyalaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki; ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer ilk defa bir GitHub projesine katkıda bulunacaksınız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olucak.
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -18,7 +18,7 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 ## Depoyu (Repository) klonlama
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Şimdi bu repoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
@@ -29,7 +29,7 @@ git clone "kopyaladığınız-url"
 ```
 "kopyaladığınız-url" (tırnak işaretleri olmadan) bu deponun linki oluyor. 
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Örneğin:
 ```
@@ -81,11 +81,11 @@ git push origin <ekle-kendi-isminiz>
 
 GitHub üzerinde oluşturmuş olduğunuz repoya baktığınız zaman `Compare & pull request` butonunu göreceksiniz. Bu butona basın.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Şimdi bir pull request isteği gönderin.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 En kısa zamanda yaptığınız değişiklikler master branch ile birleştirilecek. Bu işlem tamamlandı zaman bilgilendirme maili alıcaksınız.
 
@@ -94,7 +94,7 @@ En kısa zamanda yaptığınız değişiklikler master branch ile birleştirilec
 ## Diğer araçlar için eğitimler
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
