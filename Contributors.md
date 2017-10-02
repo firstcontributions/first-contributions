@@ -485,6 +485,7 @@
 - [Jaye](https://github.com/Jaye-Culverhouse)
 - [Paul Bergmeir](https://github.com/paulbrgmr)
 - [Prankur Verma](https://github.com/prankurverma)
+- [Dan Steren](https://github.com/dansteren)
 - [Shoten](https://github.com/shotenxz)
 - [shajimon philip](https://github.com/shajiphilip22)
 - [Eduardo Diaz](https://github.com/edjroz)
