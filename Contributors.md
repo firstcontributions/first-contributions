@@ -490,6 +490,7 @@
 - [shajimon philip](https://github.com/shajiphilip22)
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
+- [Laurent Devernay](https://github.com/ldevernay)
 - [Darkpingouin](https://github.com/mmoderwell)
 - [Hasan Mesut Meral](https://github.com/hmmeral)
 - [Bui Ha Duong](https://github.com/buihaduong)
