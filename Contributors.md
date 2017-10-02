@@ -501,3 +501,5 @@
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
 - [Athyk](https://github.com/Athyk)
+- [Felipe Guimaraes] (https://github.com/Fguimaraess)
+- [Digaant Arora](https://github.com/digaant333)
