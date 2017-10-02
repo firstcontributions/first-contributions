@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md),
+*Read this in other languages: [English](../README.md), [Spanish](README.es.md),
 [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md),
 [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md),
 [Korean](README.ko.md), [Greek](README.gr.md).*

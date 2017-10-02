@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
+*Διαβάστε σε άλλες γλώσσες: [Αγγλικά](../README.md), [Ισπανικά](README.es.md), [Ολλανδικά](README.nl.md), [Ινδικά](README.hi.md), [Ρώσσικα](README.ru.md), [Ιαπωνέζικα](README.ja.md), [Βιετναμέζικα](README.vn.md), [Πολωνικά](README.pl.md), [Κορεάτικα](README.ko.md), [Γερμανικά](README.de.md), [Απλοποιημένα Κινέζικα](README.chs.md), [Παραδοσιακά Κινέζικα](README.cht.md), [Ελληνικά](README.gr.md).*
 
 Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
 
