@@ -2,19 +2,25 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
 
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas falsches tun. Aber Open Source dreht sich um Zusammenarbeit und Collaboration. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open Source Gemeinde ihren ersten Schritt so einfach wie möglich zu machen. 
+
+Natürlich helfen die vorhandenen Artikel und Videotutorials, aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchstest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+
+*Dieser Artikel ist in folgenden anderen Sprachen verfügbar: [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md), [Português/Brasil](translations/README.pt_br.md) and [Italian](translations/README.it.md).*
+
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
 ## Repository forken
 
-Forke das Repo durch klicken auf den fork button
+Forke das Repository durch klicken auf Knopf "Fork". Dadurch enthälst du deine eigenen Version des Projektes in deinem Profil.
 
 ## Repository klonen
 
 <img align="right" width="300" src="../assets/clone.png" alt="Repository klonen" />
 
-Klone das Repo auf deinen Computer. Klicke auf den clone button und anschliessend auf das "copy to clipboard" icon
+Klone das Repository auf deinen Computer. Klicke auf den Button "Clone or download" und anschliessend auf das "copy to clipboard" Symbol.
 
-Öffne ein terminal gib das folgende git Kommando ein:
+Öffne eine Kommandozeile gib das folgende git Kommando ein:
 
 ```
 git clone "Deine kopierte URL"
@@ -31,14 +37,14 @@ An der Stelle 'dein-account' muss dein Github Username stehen. Hier landet die K
 
 ## Erstelle einen Branch
 
-Wechsle zum Repository Verzeichnis auf deinem Computer, falls du es nicht schon getan hast.
+Wechsle zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon getan hast).
 
 ```
 cd first-contributions
 ```
 Erstelle nun einen Branch mit dem Befehl `git checkout command`
 ```
-git checkout -b <add-dein-name>
+git checkout -b <add-dein-Name>
 ```
 
 Beispiel:
@@ -46,30 +52,30 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-## Mache die nötigen Änderungen and committe sie
+## Mache die nötigen Änderungen und committe sie
 
-Öffne `Contributors.md` in einem Text-Editor, füge deinen Namen hinzu und speichere die Datei. Gibst du im Terminal nun `git status` ein, siehst du die Änderungen. Füge die Änderungen mit dem Befehl `git add` hinzu.
+Öffne `Contributors.md` in einem Text-Editor, füge deinen Namen hinzu und speichere die Datei. Gibst du in der Kommandozeile nun `git status` ein, siehst du die Änderungen. Füge die Änderungen mit dem Befehl `git add` hinzu.
 ```
 git add Contributors.md
 ```
 
 Nun committest du mit `git commit`.
 ```
-git commit -m "Add <dein-name> to Contributors list"
+git commit -m "Add <dein-Name> to Contributors list"
 ```
-Ersetze `<dein-name>` mit deinem Namen.
+Ersetze `<dein-Name>` mit deinem Namen.
 
 ## Pushe die Änderung zu Github
 
 Pushe die Änderungen mit `git push`
 ```
-git push origin <add-dein-name>
+git push origin <add-dein-Name>
 ```
-Ersetze `<add-dein-name>` mit dem Namen des Branches, den du zuvor erstellt hast.
+Ersetze `<add-dein-Name>` mit dem Namen des Branches, den du zuvor erstellt hast.
 
 ## Sende deine Änderungen zum Review
 
-Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen `Compare & pull request` button. Klicke darauf.
+Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen Knopf `Compare & pull request`. Klicke darauf.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="Erstelle einen pull request" />
 
@@ -77,9 +83,13 @@ Erstelle einen Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
+Ich werde nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine Email sobald dies geschehen ist. 
+
+
 ## Halte deinen Fork syncron
 
-Ich werde nun deine Änderungen in den Master Branch dieses Projekts mergen. In deinen Fork werden die Änderungen aber nicht übernommen. Damit er synchronisiert bleibt, füge meine Repo URL mit `upstream remote url` hinzu.
+Nach dem Merge sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen aber nicht automatisch übernommen. Damit er synchronisiert bleibt, füge meine Repo URL mit `upstream remote url` hinzu.
+
 ```
 git remote add upstream https://github.com/multunus/first-contributions
 ```
