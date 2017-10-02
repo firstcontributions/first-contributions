@@ -495,3 +495,4 @@
 - [Hasan Mesut Meral](https://github.com/hmmeral)
 - [Bui Ha Duong](https://github.com/buihaduong)
 - [Valer Varga] (https://github.com/valervarga)
+- [Shantanu Kamath](https://github.com/shantanukamath)
