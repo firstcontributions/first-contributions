@@ -506,3 +506,4 @@
 - [Felipe Guimaraes] (https://github.com/Fguimaraess)
 - [Digaant Arora](https://github.com/digaant333)
 - [Kenneth Bruce](https://github.com/kpengwin)
+- [brunneis](https://github.com/brunneis)
