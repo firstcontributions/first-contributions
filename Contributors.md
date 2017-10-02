@@ -491,3 +491,6 @@
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
 - [Darkpingouin](https://github.com/mmoderwell)
+- [Hasan Mesut Meral](https://github.com/hmmeral)
+- [Bui Ha Duong](https://github.com/buihaduong)
+- [Valer Varga] (https://github.com/valervarga)
