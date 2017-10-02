@@ -486,3 +486,5 @@
 - [Paul Bergmeir](https://github.com/paulbrgmr)
 - [Prankur Verma](https://github.com/prankurverma)
 - [Shoten](https://github.com/shotenxz)
+- [shajimon philip](https://github.com/shajiphilip22)
+- [Eduardo Diaz](https://github.com/edjroz)
