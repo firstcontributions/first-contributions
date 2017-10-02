@@ -35,9 +35,9 @@ git clone "kopyaladığınız-url"
 
 Örneğin:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/kullanıcı-adi/first-contributions.git
 ```
-`this-is-you` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayırınıza kopyalıyorsunuz. 
+`kullanıcı-adi` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayırınıza kopyalıyorsunuz. 
 
 ## Dal (Branch) oluşturma
 
