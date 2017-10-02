@@ -412,6 +412,8 @@
 - [Sahan Serasinghe](https://github.com/sahan91)
 - [Gerald Hernandez](https://github.com/monoliths)
 - [Vaibhav Jain](https://github.com/VJ-Jain)
+- [Rishabh Bansal] (https://github.com/rishabh-bansal)
+- [Arjun Agarwal] (https://github.com/a-agrwaal)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Harsh Shah](https://github.com/harshcrop)
 - [Juan Jimenez](https://github.com/PurgePJ)
