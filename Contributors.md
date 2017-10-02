@@ -490,3 +490,4 @@
 - [shajimon philip](https://github.com/shajiphilip22)
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
+- [Laurent Devernay](https://github.com/ldevernay)
