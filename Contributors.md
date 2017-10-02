@@ -491,3 +491,4 @@
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
 - [Bui Ha Duong](https://github.com/buihaduong)
+- [Valer Varga] (https://github.com/valervarga)
