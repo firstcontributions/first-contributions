@@ -22,12 +22,10 @@
     width: 16%;
     height: 100%;
     display: block;
-    margin-left: 4%;
-    margin-bottom: 1.15em;
-    margin-top: 1.15em;
+    margin: 2%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
-    -webkit-transition: box-shadow .1s ease-in-out;
-    transition: box-shadow .1s ease-in-out;
+    -webkit-transition: box-shadow .3s ease-in-out;
+    transition: box-shadow .3s ease-in-out;
 }
 
 .Card-Container:hover{
@@ -57,12 +55,38 @@
     position: relative;
     padding:10px;
     color:#0F3CEF;
-} 
+}
 .Card-Title{
     margin-top: 6%;
     height: 10%;
 }
 .Card-Link-Style{
     margin-left: 10%;
-    
+}
+
+/*Card Responsiveness*/
+@media only screen and (max-width: 992px) {
+    .Card-Container {
+      width: 23%;
+      margin: 1%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .Card-Container {
+      width: 31%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .Card-Container {
+      width: 48%;
+    }
+}
+
+@media only screen and (max-width: 412px) {
+    .Card-Container {
+      width: 100%;
+      margin: 2%;
+    }
 }
