@@ -1,3 +1,4 @@
+- [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
 - [Mukund Banka](https://github.com/mukund54)
@@ -514,4 +515,3 @@
 - [James Rice](https://github.com/jamesrice96)
 - [Lubits](https://github.com/kieran23101)
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
-
