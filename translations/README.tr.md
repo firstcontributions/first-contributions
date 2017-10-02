@@ -1,116 +1,108 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je samen werkt kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
+# İlk defa katkıda bulunma
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
+Zor. Herhangi yaptığın bir iş ilk seferinde her zaman zor gelir. Özellikle birileriyle işbirliği içindeysen, hata yapmak rahatsız edici olabilir. Fakat açık kaynak tamamen işbirliği ve birlikle çalışmaktır. Biz ilk defa açık kaynak projelere katkıda bulunacak kişilerin öğrenme ve katkıda bulunmasını kolaylaştırmak istiyoruz.
+
+Makale okumak ve eğitim videoları yardımcı olabilir fakat, o işi gerçekten senin yapman yapmandan daha iyi ne olabilir? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolyalaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki; ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer ilk defa bir GitHub projesine katkıda bulunacaksınız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olucak.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
-## Deze repo forken
+## Projeyi kopyalama
 
-Fork deze repo door op de fork knop te klikken
+Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi forklayın.
+Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
-## De repo clonen
+## Depoyu (Repository) klonlama
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
+Şimdi bu repoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
-Open een terminal en voer volgend git commando uit:
+Daha sonra terminali açıp aşağıda ki git komut satırını girmemiz gerekiyor:
 
 ```
-git clone "url die je net kopieerde"
+git clone "kopyaladığınız-url"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın. 
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Bijvoorbeeld:
+Örneğin:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/kullanıcı-adi/first-contributions.git
 ```
-Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
+`kullanıcı-adi` sizin GitHub kullanıcı adınız. Burada GitHub üzerinde bulunan first-contributions reposunun içeriğini bilgisayırınıza kopyalıyorsunuz. 
 
-## Een branch aanmaken
+## Dal (Branch) oluşturma
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+Eğer zaten klasör içinde değilseniz terminal üzerinde repo klasörünün bulunduğu konuma gidin:
 
 ```
 cd first-contributions
 ```
-Maak nu een branch aan door middel van het `git checkout command`
+`git checkout` komutunu kullanarak yeni bir branch oluşutrun:
 ```
-git checkout -b <je-nieuwe-branch-naam>
-```
-
-Bijvoorbeeld:
-```
-git checkout -b add-thibmaek
+git checkout -b <ekle-sizin-isminiz>
 ```
 
-## Maak de benodigde wijzigingen en commit deze
+Örneğin:
+```
+git checkout -b ekle-aydin-cagri-dumlu
+```
+(Branch ismi içinde *ekle* kelimesinin zorunluluğu bulunmamakta, fakat bu branch ismimizi contributor listesine eklemek için oluşturduğundan ekle kelimesinin konulması mantıklı olacaktır.)
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+## Gerekli değişiklikleri yapıp commit işlemini gerçekleştrimek
+
+Text editor ile `Contributors.md` dosyasını açıp, içinde ismininizi yazdıktan sonra dosyayı kaydedin. Terminal üzerinden projen klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. Daha sonra `git add` komutu ile bu değişiklikleri oluşturduğunuz branch içine ekleyin.
+
 ```
 git add Contributors.md
 ```
 
-Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
+Şimdi `git commit` komutunu kullanarak dosyalarınızı commit edin:
 ```
-git commit -m "Add <jouw-naam> to Contributors list"
+git commit -m "Contributors listesine <isminiz> ekle"
 ```
-vervang `<jouw-naam>` met jouw naam
+`<isminiz>` yerine kendi isminizi yazın.
 
-## Push de wijzigingen naar Github
+## Değişiklikleri GitHub üzerine gönderme (Push)
 
-Push je wijzigingen met `git push`
+`git push` komutu ile değişiklikleriniz pushlayın:
 ```
-git push origin <je-nieuwe-branch-naam>
+git push origin <ekle-kendi-isminiz>
 ```
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+`<ekle-kendi-isminiz>` yerine daha önce oluşturduğunuz branch ismini girin.
 
-## Verstuur je wijzigingen voor review
+## Değişikliklerinizi inceleme için gönderin
 
-Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
+GitHub üzerinde oluşturmuş olduğunuz repoya baktığınız zaman `Compare & pull request` butonunu göreceksiniz. Bu butona basın.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Verstuur nu je pull request.
+Şimdi bir pull request isteği gönderin.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## Je fork in sync houden met de hoofd-repository
+En kısa zamanda yaptığınız değişiklikler master branch ile birleştirilecek. Bu işlem tamamlandı zaman bilgilendirme maili alıcaksınız.
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
-```
-git fetch upstream
-```
+### [ Sonraki adımlar ](additional-material)
 
-Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
-```
-git rebase upstream/master
-```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
-```
-git push origin master
-```
-Merk op dat je in dit geval pusht naar de remote met de naam origin.
+## Diğer araçlar için eğitimler
 
-## Tutorials gebruiken Andere hulpmiddelen
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
+## Bundan sonra ne yapabilirim?
 
-## Verdergaan van hieruit
+Bir sorunuz veya yardıma ihtiyacınız olma durumunda slack takımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
 
-Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
+Popüler repolarda ki başlangıç seviyesinde çözebileceğiniz konulara ait linkler aşağıda yer almaktadır. İnceleyin ve daha fazla bilgiye sahip olun
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
