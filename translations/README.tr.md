@@ -27,7 +27,7 @@ Daha sonra terminali açıp aşağıda ki git komut satırını girmemiz gerekiy
 ```
 git clone "kopyaladığınız-url"
 ```
-"kopyaladığınız-url" (tırnak işaretleri olmadan) bu deponun linki oluyor. 
+"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın. 
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
