@@ -511,3 +511,6 @@
 - [Lubits](https://github.com/lubits)
 - [Jeremy Brun] (https://github.com/jeremytbrun)
 - [Allan Guy] (https://github.com/alguy)
+- [James Rice](https://github.com/jamesrice96)
+- [Lubits](https://github.com/kieran23101)
+- [Jeremy Brun] (https://github.com/jeremytbrun)
