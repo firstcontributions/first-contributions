@@ -500,4 +500,5 @@
 - [Kevin](https://github.com/cmd-kvn)
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
+- [Felipe Guimaraes] (https://github.com/Fguimaraess)
 - [Digaant Arora](https://github.com/digaant333)
