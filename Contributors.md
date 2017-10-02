@@ -510,3 +510,4 @@
 - [brunneis](https://github.com/brunneis)
 - [Lubits](https://github.com/lubits)
 - [Lubits](https://github.com/kieran23101)
+- [Jeremy Brun] (https://github.com/jeremytbrun)
