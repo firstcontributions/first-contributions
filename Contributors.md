@@ -496,3 +496,4 @@
 - [Bui Ha Duong](https://github.com/buihaduong)
 - [Valer Varga] (https://github.com/valervarga)
 - [Shantanu Kamath](https://github.com/shantanukamath)
+- [Kevin](https://github.com/cmd-kvn)
