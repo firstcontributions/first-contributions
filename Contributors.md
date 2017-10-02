@@ -514,3 +514,4 @@
 - [Allan Guy] (https://github.com/alguy)
 - [James Rice](https://github.com/jamesrice96)
 - [Lubits](https://github.com/kieran23101)
+- [Scott Williams aka Rogues](https://github.com/Rogue00)
