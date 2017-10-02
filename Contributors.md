@@ -510,3 +510,5 @@
 - [brunneis](https://github.com/brunneis)
 - [Lubits](https://github.com/lubits)
 - [James Rice](https://github.com/jamesrice96)
+- [Lubits](https://github.com/kieran23101)
+- [Jeremy Brun] (https://github.com/jeremytbrun)
