@@ -509,3 +509,4 @@
 - [Kenneth Bruce](https://github.com/kpengwin)
 - [brunneis](https://github.com/brunneis)
 - [Lubits](https://github.com/lubits)
+- [James Rice](https://github.com/jamesrice96)
