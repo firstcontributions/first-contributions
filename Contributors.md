@@ -445,6 +445,7 @@
 - [Emre Yilmaz](https://github.com/emre-yilmaz)
 - [Ben Trybulski](https://github.com/btrybulski)
 - [Chaiwud Taitanee](https://github.com/artdvp)
+- [Jake Wesorick](https://github.com/jwesorick)
 - [Kristian Os](https://github.com/codedevstem)
 - [Thiago Brasil](https://github.com/tchaguitos)
 - [Leonardo Pedreira](https://github.com/leopedreira)
@@ -500,3 +501,4 @@
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
 - [Felipe Guimaraes] (https://github.com/Fguimaraess)
+- [Digaant Arora](https://github.com/digaant333)
