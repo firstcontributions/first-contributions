@@ -531,4 +531,5 @@
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
+- [Karthick Thoppe](https://github.com/karthicktv)
 - [Kurtis Taylor](https://github.com/quietgiant)
