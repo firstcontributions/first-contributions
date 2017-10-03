@@ -525,3 +525,4 @@
 - [Shahzad Mirza](https://github.com/shhzdmrz)
 - [Praneen Shakya](https://github.com/shakyapranin)
 - [Andrew Titmuss](https://github.com/iandrewt)
+- [Samuel Tan] (https://github.com/samueltan3972)
