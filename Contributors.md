@@ -530,3 +530,4 @@
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
+- [Kurtis Taylor](https://github.com/quietgiant)
