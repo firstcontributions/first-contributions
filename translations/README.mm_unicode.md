@@ -7,7 +7,7 @@
 
 လေ့ကျင်ခန်း စာစောင်တေွနဲ့ ဗီဒီယိုတေွက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံမဲ့ သူတေွအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီးအထောက်ပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံတယ် သင့်သာ အောက်မှာရှိတဲံ အဆင့်တိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *Read this in other languages: [English](../README.md), [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md), [Português/Brasil](translations/README.pt_br.md), [Italian](translations/README.it.md), [ภาษาไทย](translations/README.th.md) and [Galician](translations/README.gl.md).*
 
@@ -20,7 +20,7 @@ Frok လုပ်ဖို့အတွက် စာမျက်နှာအပ�
 
 ## ဒီ repository ကို clone လုပ်ပါ
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 *copy to clipboard* icon ကိုနိုပ်ပီး သင့်စက်အတွင်းသို့ ဒီ repository ကို clone လုပ်ယူပါ။
 
@@ -31,7 +31,7 @@ git clone "သင့်ကူးထားတဲ့ url ကိုထည့်ပ�
 ```
 "သင့်ကူးထားတဲ့ url ကိုထည့်ပါ" (သင့်ကူထားတာ quote အမှတ်အသားမှာမပါ) နေရာမှာ ထည့်ရမှာက သင့် clone လုပ်မဲ့ repository ရဲ့ url ဖြစ်ပါတယ်။ ဒီအဆင့်ကို အဆင်မပြေဖြစ်ခဲ့ရင် အနောက်တစ်ဆင့်ကို ပြန်ကြည့်ပါ။ *copy to clipboard* icon ကို နိုပ်ပီး url ကို copy ကူးထားတာကိုတေွ့ရမှာပါ။
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ဥပမာကို အောက်မှာကြည့်ပါ:
 ```
@@ -83,11 +83,11 @@ git push origin <add-your-name>
 
 သင့် GitHub က သင့် repository ကိုမှာဆို `Compare & pull request` ဆုိတဲ့ ခလုပ်မြင်နေရမှာပါ။ အဲ့ခလုပ်ကို နိုပ်လိုက်ပါ။
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 အခုဆို pull request လုပ်ဖို့အဆင်သင့်ဖြစ်သွားပါပြီး။
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
