@@ -31,9 +31,9 @@ Statt 'Deine kopierte URL' (ohne Anführungszeichen) füge die Repository URL au
 
 Beispiel:
 ```
-git clone https://github.com/dein-account/first-contributions.git
+git clone https://github.com/dein-Name/first-contributions.git
 ```
-An der Stelle 'dein-account' muss dein Github Username stehen. Hier landet die Kopie deines first-contributions repository von Github.
+An der Stelle 'dein-Name' muss dein Github Username stehen. Hier landet die Kopie deines first-contributions Repository von Github.
 
 ## Erstelle einen Branch
 
@@ -83,41 +83,85 @@ Erstelle einen Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
-Ich werde nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine Email sobald dies geschehen ist. 
+Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine Email sobald dies geschehen ist. 
 
+## Einen Branch aus deinem Repository löschen
+Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
+
+Lass uns dazu zuerst den Branch `<add-dein-Name>` aus deiner lokalen Arbeitskopie in deinen master Branch mergen:
+```
+git checkout master
+```
+
+Merge `<add-dein-Name>` zu Master deiner lokalen Arbeitskopie:
+```
+git merge <add-dein-Name> master
+```
+
+Lösche nun den Branch `<add-dein-Name>` in deiner Arbeitskopie:
+```
+git branch -d <add-dein-Name>
+```
+
+Damit hast du nun dien Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angnommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
+
+Um einen Branch auf GitHub zu löschen verwende folgenden Befehl:
+```
+git push origin --delete <add-dein-Name>
+```
+
+Nun weißt du, wie man Branches am Ende ihrer Lebenszeit löscht.
+
+So wie du einen Pull Request gestellt hast, werden hoffentliche viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
 
 ## Halte deinen Fork syncron
 
-Nach dem Merge sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen aber nicht automatisch übernommen. Damit er synchronisiert bleibt, füge meine Repo URL mit `upstream remote url` hinzu.
+Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
+`github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das iust wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Proejekt Pull Request stellen kannst.
+
+Hier die Schritte für eine vollständige Synchronistation:
+
+Stelle zuerst sicher, dass du im Master Branch deiner Arbeitskopie bist. Dies kannst du mit folgendem Befehl prüfen:
+```
+git status
+```
+Wenn du nicht im Master bist, dann wechsle mit folgendem Befehl:
+```
+git checkout master
+```
+
+Füge Roshanjossey Repository URL mit `upstream remote url` hinzu.
 
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Auf diese Weise sagst du Git, dass es noch eine andere Version dieses Projekts gibt, die wir upstream nennen. Sobald die Änderungen gemerged sind, lade die neueste Version des Repository's.
+Auf diese Weise sagst du Git, dass es noch eine andere Version dieses Projekts gibt, die wir upstream nennen. Lade nur die neueste Version dieses Repositories.
 ```
 git fetch upstream
 ```
 
-Hier laden wir alle Änderungen meines Forks herunter (upstream remote). Nun musst du die neueste Version meines Repository's in deinen Master Branch mergen.
+Hier laden wir alle Änderungen von Roshanjosseys Forks herunter (upstream). Danach müssen wir dessen Änderungen in den Master deiner lokalen Arbeitskopie mergen.
 ```
 git rebase upstream/master
 ```
-So wendest du alle Änderungen, die du heruntergeladen hast, in den Master Branch. Wenn du den Master Branch jetzt pushst, ist auch dein Fork wieder aktuell.
+So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an. Deine lokale Kopie hat nur den gleichen Stand, wie das öffentliche Repository. Wenn du den Master Branch jetzt pushst, ist auch dein Fork auf GitHub wieder aktuell.
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote names origin pushen musst.
+Beachte, dass du hier zum Remote Names origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 
 ## Wie geht es weiter?
 
-Hier sind einige Anfänger-Level issues in bekannten repos die du lösen kannst. Schau sie dir an und erfahre mehr darüber
+Wenn du weitere Fragen hast kannst du Mitglied in unserem Slackteam werden. [Join slack team](https://firstcontributions.herokuapp.com)
+
+Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories die du lösen kannst. Schau sie dir an und erfahre mehr darüber
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -129,4 +173,3 @@ Hier sind einige Anfänger-Level issues in bekannten repos die du lösen kannst.
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
 
-[Tutorial for Github desktop app - English](github-desktop-tutorial.md)
