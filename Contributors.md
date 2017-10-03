@@ -523,3 +523,4 @@
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
 - [Manjunatha D](https://github.com/kalabhairava)
+- [Andrew Titmuss](https://github.com/iandrewt)
