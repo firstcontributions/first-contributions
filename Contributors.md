@@ -537,3 +537,4 @@
 - [Rick Sanchez Wabba Labba Dub Dub](https://github.com/bhvk)
 - [Karthick Thoppe](https://github.com/karthicktv)
 - [Kurtis Taylor](https://github.com/quietgiant)
+- [Claire Russell](https://github.com/clairefied)
