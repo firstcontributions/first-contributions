@@ -1,3 +1,5 @@
+﻿- [Jessica Campbell](https://github.com/jlcampbell)
+- [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
 - [Mukund Banka](https://github.com/mukund54)
@@ -392,6 +394,7 @@
 - [Sifat HAque](https://github.com/sifat009)
 - [Reyahh H](https://github.com/reyahH)
 - [Joao Silva](https://github.com/joaopfsilva)
+- hhi11
 - [Aakash K T](https://github.com/kt20162)
 - [Mridul Parakh]
 - [Hitoishi Das]
@@ -515,3 +518,6 @@
 - [Lubits](https://github.com/kieran23101)
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
 - [Patrick Stephens](https://github.com/patsteph)
+- [Zara Otamias](https://github.com/zotamias)
+- [Jason Arnold](https://github.com/thejasonfile)
+- [Jennifer Pazos](https://github.com/jmb521)
