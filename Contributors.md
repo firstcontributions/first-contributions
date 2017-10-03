@@ -523,4 +523,8 @@
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
 - [Manjunatha D](https://github.com/kalabhairava)
+- [Shahzad Mirza](https://github.com/shhzdmrz)
+- [Praneen Shakya](https://github.com/shakyapranin)
 - [Andrew Titmuss](https://github.com/iandrewt)
+- [Shawn Quinn](https://github.com/shawnquinn)
+- [Samuel Tan](https://github.com/samueltan3972)
