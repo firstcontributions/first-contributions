@@ -523,3 +523,5 @@
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
 - [Shahzad Mirza](https://github.com/shhzdmrz)
+- [Praneen Shakya](https://github.com/shakyapranin)
+- [Andrew Titmuss](https://github.com/iandrewt)
