@@ -517,5 +517,6 @@
 - [James Rice](https://github.com/jamesrice96)
 - [Lubits](https://github.com/kieran23101)
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
+- [Zara Otamias](https://github.com/zotamias)
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
