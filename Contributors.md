@@ -532,6 +532,7 @@
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Krati Mittal] (https://github.com/krati13)
 - [Marianne Hval](https://github.com/mahval)
+- [ekrempel](https://github.com/ekrempel)
 - [Martin Mehl](https://github.com/mehlleniumfalke)
 - [Rick Sanchez Wabba Labba Dub Dub](https://github.com/bhvk)
 - [Karthick Thoppe](https://github.com/karthicktv)
