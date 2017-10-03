@@ -528,4 +528,5 @@
 - [Andrew Titmuss](https://github.com/iandrewt)
 - [Shawn Quinn](https://github.com/shawnquinn)
 - [Samuel Tan](https://github.com/samueltan3972)
+- [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
