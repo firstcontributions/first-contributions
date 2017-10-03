@@ -15,7 +15,7 @@ Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.gith
 
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
-Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page. 
+Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
 Cela va crée une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
@@ -29,7 +29,7 @@ Ouvrez un invite de commande et exécutez les commandes git suivantes :
 ```
 git clone "l'url que vous venez de copier"
 ```
-où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url. 
+où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
@@ -84,17 +84,17 @@ Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & 
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Maintenant soumettez la demande de tirage. 
+Maintenant soumettez la demande de tirage.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée. 
+Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
 
-La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes. 
+La branche master de votre embranchement ne subira pas de modification à cet instant. Pour que votre embranchement soit synchronisé avec le mien, suivez les étapes suivantes.
 
-## Gardez votre embranchement synchronisé avec ce répertoire 
+## Gardez votre embranchement synchronisé avec ce répertoire
 
- D'abord, basculez sur la branche master 
+ D'abord, basculez sur la branche master
  ```
  git checkout master
  ```
@@ -118,22 +118,22 @@ git push origin master
 ```
 Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer: 
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer:
 ```
 git branch -d <add-votre-nom>
 ```
-et vous pouvez supprimer sa version dans le répertoire distant aussi : 
+et vous pouvez supprimer sa version dans le répertoire distant aussi :
 ```
 git push origin --delete <add-votre-nom>
 ```
-Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte. 
+Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte.
 
-## Tutoriels en utilisant d'autres outils 
+## Tutoriels en utilisant d'autres outils
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Où aller ensuite ?
 

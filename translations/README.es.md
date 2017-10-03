@@ -5,7 +5,7 @@
 
 Es difícil. Siempre es difícil la primera vez que hacés algo. Especialmente cuando estás colaborando, equivocarse no es algo agradable. Pero *open source* (o código abierto) se trata de colaboración y de trabajar juntos. Queremos simplificár la forma en la que nuevos contribuidores *open-source* aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero lo que viene es mejor que hacer las cosas sin estropear nada realmente. Éste proyecto se enfoca en ser una guía y en simplificár la forma en la que los novatos hacen su primera contribución. Recuerda que mientras más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución sólo sigue los sencillos pasos que se muestran a continuación. Te lo prometemos, será entretenido. 
+Leer artículos y ver tutoriales puede ayudar, pero lo que viene es mejor que hacer las cosas sin estropear nada realmente. Éste proyecto se enfoca en ser una guía y en simplificár la forma en la que los novatos hacen su primera contribución. Recuerda que mientras más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución sólo sigue los sencillos pasos que se muestran a continuación. Te lo prometemos, será entretenido.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
@@ -122,7 +122,7 @@ Notarás aquí que estás empujando(push) a la url remota llamada origin.
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## A dónde ir desde aquí?
 
