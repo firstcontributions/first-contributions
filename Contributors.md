@@ -515,3 +515,4 @@
 - [Lubits](https://github.com/kieran23101)
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
 - [Jason Arnold](https://github.com/thejasonfile)
+- [Jennifer Pazos](https://github.com/jmb521)
