@@ -1,116 +1,107 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je samen werkt kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
+# La prima collaborazione
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
+È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare non è una cosa comoda. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Lo scopo di questo progetto è quello di semplificare il modo in cui per la prima si impara come contribuire in progetti open-source.
+
+Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che fare effettivamente le cose, senza sbagliare nulla? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati sotto. Ti promettiamo che sarà divertente.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
 
-## Deze repo forken
+## Forka questa repository
 
-Fork deze repo door op de fork knop te klikken
+Forka questa repo cliccando sul bottone fork in cima alla pagina.
+Questo creeerà una copia di questa repository nel tuo account.
 
-## De repo clonen
+## Clona la repository
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
+Ora clona questa repo nel tuo computer. Clicca sul pulsante per clonare e poi copia l'url.
 
-Open een terminal en voer volgend git commando uit:
+Apri il terminale e lancia il seguente comando:
 
 ```
-git clone "url die je net kopieerde"
+git clone "url appena copiato"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Bijvoorbeeld:
+Per esempio:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
-Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
+dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
 
-## Een branch aanmaken
+## Crea un branch
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+Entra nella directory della repository (se non lo hai già fatto):
 
 ```
 cd first-contributions
 ```
-Maak nu een branch aan door middel van het `git checkout command`
+Ora crea un branch usando il comando `git checkout`:
 ```
-git checkout -b <je-nieuwe-branch-naam>
-```
-
-Bijvoorbeeld:
-```
-git checkout -b add-thibmaek
+git checkout -b <aggiungi-il-tuo-nome>
 ```
 
-## Maak de benodigde wijzigingen en commit deze
+Ad esempio:
+```
+git checkout -b aggiungi-alonzo-church
+```
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista.)
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+## Fai le modifiche necessarie e crea un commit
+
+Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il the file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
 
-Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
+Ora valida i cambiamenti usando `git commit`:
 ```
-git commit -m "Add <jouw-naam> to Contributors list"
+git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
-vervang `<jouw-naam>` met jouw naam
+cambiando `<il-tuo-nome>` con il tuo nome.
 
-## Push de wijzigingen naar Github
+## Invia le modifiche a GitHub
 
-Push je wijzigingen met `git push`
+Invia le tue modifiche con il comando `git push`:
 ```
-git push origin <je-nieuwe-branch-naam>
+git push origin <aggiungi-il-tuo-nome>
 ```
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
-## Verstuur je wijzigingen voor review
+## Invia i tuoi cambiamenti per una revisione
 
-Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
+Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Verstuur nu je pull request.
+Ora invia la pull request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## Je fork in sync houden met de hoofd-repository
+Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
-```
-git fetch upstream
-```
+### [ Prossimi passi ](additional-material)
 
-Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de nieuwe revisie/versie van mijn repo moeten mergen in jouw master branch.
-```
-git rebase upstream/master
-```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
-```
-git push origin master
-```
-Merk op dat je in dit geval pusht naar de remote met de naam origin.
+## Tutorial usando altri tool
 
-## Tutorials gebruiken Andere hulpmiddelen
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
+## E ora?
 
-## Verdergaan van hieruit
+Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra](https://firstcontributions.herokuapp.com)
 
-Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
+Qui sotto puoi trovare delle repo popolari dove cercare issue semplici che potresti risolvere. Continua nelle repo per imparare di più
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

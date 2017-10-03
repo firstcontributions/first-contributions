@@ -4,10 +4,9 @@
 .Card-Header{
     position: relative;
     font-weight: bold;
-    border-bottom: 2px solid black;
-    background: whitesmoke;
+    background: white;
     padding: 2%;
-    line-height: 16px;
+    line-height: 18px;
 }
 .Project-Logo{
     width: 45%;
@@ -16,25 +15,23 @@
 }
 .Card-Body{
     position: relative;
-    word-break: break-all;
     background: white;
 }
 .Card-Container{
-    
     overflow: hidden;
-    width: 20%;
+    width: 16%;
     height: 100%;
-    word-break: break-all;
     display: block;
     margin-left: 4%;
     margin-bottom: 1.15em;
     margin-top: 1.15em;
-    box-shadow: 0 0.13em 0px 0.04em rgba(0,0,0,.12);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
 }
+
 .Card-Container:hover{
-    box-shadow: 0 0.16em 0px 0.18em rgba(0,0,0,.12);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px;
 }
 .Card-Real-Link:hover{
     text-decoration: none;
@@ -54,12 +51,10 @@
 }
 .Card-Description{
     position: relative;
-    text-align: justify;
     padding:5%;
 }
  .Card-Link{
     position: relative;
-    background: lightskyblue;
     padding:10px;
     color:#0F3CEF;
 } 

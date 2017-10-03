@@ -9,26 +9,25 @@ Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'e
 
 <img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
-*Pour lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [العربية](translations/README.ar.md).*
+*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japonais](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [Arabe](translations/README.ar.md), [Ukrainien](translations/README.ua.md), [Portugais](translations/README.pt_br.md) et [Italien](translations/README.it.md).*
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
-## Embranchez ce répertoire
+## Embranchez ce répertoire (aussi appelé un Fork)
 
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page. 
-
-Ceci créera une copie du répertoire sous votre compte.
+Cela va crée une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
 
-Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icon *copier dans le presse-papier*.
+Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
 
 Ouvrez un invite de commande et exécutez les commandes git suivantes :
 
 ```
-git clone "l'url que vous venz de copier"
+git clone "l'url que vous venez de copier"
 ```
 où "l'url que vous venez de copier" (sans les guillemets) est l'url du répertoire. Voir la section précédente afin d'obtenir l'url. 
 
