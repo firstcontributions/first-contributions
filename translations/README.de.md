@@ -88,7 +88,7 @@ Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mer
 ## Einen Branch aus deinem Repository löschen
 Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
 
-Lass uns dazu zuerst den Branch `<add-dein-Name>` aus deiner lokalen Arbeitskopie in deinen master Branch mergen:
+Lass uns dazu zuerst den Branch `<add-dein-Name>` aus deiner lokalen Arbeitskopie in deinen master Branch mergen. Dazu wechseln wir zuerst in den master:
 ```
 git checkout master
 ```
