@@ -517,3 +517,4 @@
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
+- [Andrew Titmuss](https://github.com/iandrewt)
