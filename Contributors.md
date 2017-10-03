@@ -1,4 +1,4 @@
-﻿- [Aaron Dills](https://github.com/AaronDills))
+- [Aaron Dills](https://github.com/AaronDills))
 - [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
@@ -541,3 +541,4 @@
 - [Dhanush c](https://github.com/dhanush13-c)
 - [Claire Russell](https://github.com/clairefied)
 - [airbnben](https://github.com/airbnben)
+- [qsunnx](https://github.com/qsunnx)
