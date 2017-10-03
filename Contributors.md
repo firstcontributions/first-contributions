@@ -505,6 +505,7 @@
 - [Valer Varga](https://github.com/valervarga)
 - [Shantanu Kamath](https://github.com/shantanukamath)
 - [Kevin](https://github.com/cmd-kvn)
+- [Bobby](https://github.com/bobby)
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
 - [Athyk](https://github.com/Athyk)
@@ -538,3 +539,4 @@
 - [Karthick Thoppe](https://github.com/karthicktv)
 - [Kurtis Taylor](https://github.com/quietgiant)
 - [Dhanush c](https://github.com/dhanush13-c)
+- [Claire Russell](https://github.com/clairefied)
