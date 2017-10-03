@@ -83,7 +83,7 @@ Erstelle einen Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
-Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine Email sobald dies geschehen ist. 
+Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine E-Mail sobald dies geschehen ist. 
 
 ## Einen Branch aus deinem Repository löschen
 Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
@@ -103,7 +103,7 @@ Lösche nun den Branch `<add-dein-Name>` in deiner Arbeitskopie:
 git branch -d <add-dein-Name>
 ```
 
-Damit hast du nun dien Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angnommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
+Damit hast du nun dein Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angenommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
 
 Um einen Branch auf GitHub zu löschen verwende folgenden Befehl:
 ```
@@ -112,14 +112,14 @@ git push origin --delete <add-dein-Name>
 
 Nun weißt du, wie man Branches am Ende ihrer Lebenszeit löscht.
 
-So wie du einen Pull Request gestellt hast, werden hoffentliche viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
+So wie du einen Pull Request gestellt hast, werden hoffentlich viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
 
 ## Halte deinen Fork syncron
 
 Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
-`github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das iust wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Proejekt Pull Request stellen kannst.
+`github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das ist wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Projekt Pull Request stellen kannst.
 
-Hier die Schritte für eine vollständige Synchronistation:
+Hier die Schritte für eine vollständige Synchronisation:
 
 Stelle zuerst sicher, dass du im Master Branch deiner Arbeitskopie bist. Dies kannst du mit folgendem Befehl prüfen:
 ```
@@ -148,7 +148,7 @@ So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote Names origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
+Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
@@ -174,5 +174,3 @@ Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories die
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
 
 [Tutorial for Github desktop app - English](github-desktop-tutorial.md)
-
-
