@@ -505,6 +505,7 @@
 - [Valer Varga](https://github.com/valervarga)
 - [Shantanu Kamath](https://github.com/shantanukamath)
 - [Kevin](https://github.com/cmd-kvn)
+- [Bobby](https://github.com/bobby)
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
 - [Athyk](https://github.com/Athyk)
