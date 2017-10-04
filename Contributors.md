@@ -554,3 +554,4 @@
 - [Xing Wang](https://github.com/xingwang)
 - [Harish Raju](https://github.com/harisharaju1)
 - [Juha Pekkarinen](https://github.com/sirjuan)
+- [Herman Hallstedt](https://github.com/0mN1)
