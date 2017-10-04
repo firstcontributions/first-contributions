@@ -542,6 +542,7 @@
 - [Claire Russell](https://github.com/clairefied)
 - [airbnben](https://github.com/airbnben)
 - [qsunnx](https://github.com/qsunnx)
+- [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
 - [James Brett](https://github.com/qsunnx)
