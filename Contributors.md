@@ -549,3 +549,4 @@
 - [Jayant Sarkar](https://github.com/codejayant)
 - [James Brett](https://github.com/qsunnx)
 - [luisenrike](https://github.com/luisenrike)
+- [Eric Jonelunas](https://github.com/ejjonzey)
