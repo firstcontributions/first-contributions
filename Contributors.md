@@ -567,3 +567,4 @@
 - [Ashley Woodall](https://github.com/ashwoodall)
 - [Alice Chuang](https://github.com/AliceWonderland)
 - [John Earl](https://github.com/jearl4)
+- [Ed Mendoza](https://github.com/Polyneue)
