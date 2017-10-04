@@ -565,3 +565,4 @@
 - [ricardoschroeder](https://github.com/ricardoschroeder)
 - [Jerome Estiller](https://github.com/jromest)
 - [Ashley Woodall](https://github.com/ashwoodall)
+- [Alice Chuang](https://github.com/AliceWonderland)
