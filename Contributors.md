@@ -1,5 +1,5 @@
-﻿- [Merve Erdol](https://github.com/merveer))
-- [Aaron Dills](https://github.com/AaronDills))
+﻿- [Merve Erdol](https://github.com/merveer)
+- [Aaron Dills](https://github.com/AaronDills)
 - [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
@@ -398,8 +398,8 @@
 - [Joao Silva](https://github.com/joaopfsilva)
 - hhi11
 - [Aakash K T](https://github.com/kt20162)
-- [Mridul Parakh]
-- [Hitoishi Das]
+- Mridul Parakh
+- Hitoishi Das
 - [Omar Aguinaga](https://github.com/OmarAguinaga)
 - [Enzo Monjardín](https://github.com/enzomonjardin)
 - [Ariela Bawol](https://github.com/Ariela1127)
@@ -417,8 +417,8 @@
 - [Sahan Serasinghe](https://github.com/sahan91)
 - [Gerald Hernandez](https://github.com/monoliths)
 - [Vaibhav Jain](https://github.com/VJ-Jain)
-- [Rishabh Bansal] (https://github.com/rishabh-bansal)
-- [Arjun Agarwal] (https://github.com/a-agrwaal)
+- [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Harsh Shah](https://github.com/harshcrop)
 - [Juan Jimenez](https://github.com/PurgePJ)
@@ -428,7 +428,7 @@
 - [Kavan Pancholi](https://github.com/kavanpancholi)
 - [Martin Mortensen](https://github.com/spiritsack)
 - [Martin Alonso](https://github.com/mtnalonso)
-- [Ayush khare]
+- Ayush khare
 - [Oliver Taylor](https://github.com/olitaylor)
 - [Rein Bauwens](https://github.com/reinbauwens)
 - [Igor Chiriac](https://github.com/yanime)
@@ -463,7 +463,7 @@
 - [Michaelsun Baluyos](https://github.com/michaelsunb)
 - [Caleb Ikhuohon-Eboreime](https://github.com/calebikhuohon)
 - [Suryadeep Pal](https://github.com/techpool)
-- [Apoorv Vardhan]
+- Apoorv Vardhan
 - [Anuj Pahade](https://github.com/Username-anuj)
 - [Wasim Akram](https://github.com/wasimwazi)
 - [Ducksper](https://github.com/ducksper)
@@ -532,7 +532,7 @@
 - [Shawn Quinn](https://github.com/shawnquinn)
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
-- [Krati Mittal] (https://github.com/krati13)
+- [Krati Mittal](https://github.com/krati13)
 - [Marianne Hval](https://github.com/mahval)
 - [ekrempel](https://github.com/ekrempel)
 - [Martin Mehl](https://github.com/mehlleniumfalke)
