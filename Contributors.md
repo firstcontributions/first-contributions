@@ -552,3 +552,4 @@
 - [luisenrike](https://github.com/luisenrike)
 - [Eric Jonelunas](https://github.com/ejjonzey)
 - [Xing Wang](https://github.com/xingwang)
+- [Juha Pekkarinen](https://github.com/sirjuan)
