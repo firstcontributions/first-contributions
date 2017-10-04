@@ -542,6 +542,7 @@
 - [Claire Russell](https://github.com/clairefied)
 - [airbnben](https://github.com/airbnben)
 - [qsunnx](https://github.com/qsunnx)
+- [Dragos Dobre](https://github.com/dobredragos24)
 - [Vishal Koosuri](https://github.com/dainvinc)
 - [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
