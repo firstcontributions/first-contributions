@@ -559,3 +559,5 @@
 - [Joey Z](https://github.com/joeyz)
 - [Rajat Gupta](https://github.com/Rajat16nov)
 - [notwaving](https://github.com/notwaving)
+- [connordowson](https://github.com/connordowson)
+
