@@ -561,4 +561,5 @@
 - [Rajat Gupta](https://github.com/Rajat16nov)
 - [notwaving](https://github.com/notwaving)
 - [connordowson](https://github.com/connordowson)
+- [ricardoschroeder](https://github.com/ricardoschroeder)
 - [Jerome Estiller](https://github.com/jromest)
