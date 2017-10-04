@@ -543,3 +543,5 @@
 - [airbnben](https://github.com/airbnben)
 - [qsunnx](https://github.com/qsunnx)
 - [Jayant Sarkar](https://github.com/codejayant)
+- [James Brett](https://github.com/qsunnx)
+- [luisenrike](https://github.com/luisenrike)
