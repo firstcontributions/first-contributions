@@ -557,4 +557,5 @@
 - [Brane](https://github.com/brane)
 - [Herman Hallstedt](https://github.com/0mN1)
 - [Joey Z](https://github.com/joeyz)
+- [Rajat Gupta](https://github.com/Rajat16nov)
 - [notwaving](https://github.com/notwaving)
