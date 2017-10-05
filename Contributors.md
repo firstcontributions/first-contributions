@@ -571,3 +571,4 @@
 - [Justin Mills](https://github.com/jbmills327)
 - [Matthew Smith](https://github.com/msmith710)
 - [Frank Mcdonald](https://github.com/Morecai)
+- [Shade Ruangwan](https://github.com/sruangwan)
