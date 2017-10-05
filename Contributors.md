@@ -575,3 +575,4 @@
 - [Frank Mcdonald](https://github.com/Morecai)
 - [Shade Ruangwan](https://github.com/sruangwan)
 - [Ania Brajtkopf](https://github.com/anya92)
+- [AlphaSoldier](https://github.com/AlphaSoldier)
