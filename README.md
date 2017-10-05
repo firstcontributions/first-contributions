@@ -58,11 +58,18 @@ git checkout -b add-alonzo-church
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
+Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. You do not need to move/rename this file - the current location and name is just fine! If you go to the project directory and execute the command `git status`, you'll see there are changes.
+You will notice the file appear in your terminal output like this:
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+<img align="center" src="assets/git-status-unstaged.png">
+
+Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
+If you re-run `git-status` now, you will see that your changes are now staged and ready to be committed:
+
+<img align="center" src="assets/git-status-staged.png">
 
 Now commit those changes using the `git commit` command:
 ```
