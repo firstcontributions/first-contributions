@@ -483,6 +483,7 @@
 - [Rishabh kr bothra](https://github.com/geekychaser)
 - [Manas Khatua](https://github.com/manask4)
 - [Jigar Chavada](https://github.com/Jigar3)
+- [Althaf Hussain](https://github.com/AlthafHussainK)
 - [Kristof Arron](https://github.com/KristofArron)
 - [Jemal Ahmedov](https://github.com/jimjja)
 - [Mary Hull](https://github.com/thegreyelephant)
@@ -576,3 +577,4 @@
 - [Shade Ruangwan](https://github.com/sruangwan)
 - [Ania Brajtkopf](https://github.com/anya92)
 - [Gagan Ganapathy](https://github.com/CodHeK)
+- [Freddy Rondon](https://githubt.com/ifreddyrondon)
