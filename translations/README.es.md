@@ -3,31 +3,33 @@
 
 # Primeras Contribuciones
 
-Es difícil. Siempre es difícil la primera vez que hacés algo. Especialmente cuando estás colaborando, equivocarse no es algo agradable. Pero *open source* (o código abierto) se trata de colaboración y de trabajar juntos. Queremos simplificár la forma en la que nuevos contribuidores *open-source* aprenden y contribuyen por primera vez.
+Siempre resulta difícil cuando se comienza a hacer algo por primera vez.Principalmente cuando trabajas o colaboras con varias personas, pues equivocarse no es nada agradable.
+Sin embargo el "open source" o código abierto nos ofrece la posibilidad de trabajar en equipo.Asi que nuestro objetivo es simplificar la forma en la que los nuevos contribuidores "open source" aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero lo que viene es mejor que hacer las cosas sin estropear nada realmente. Éste proyecto se enfoca en ser una guía y en simplificár la forma en la que los novatos hacen su primera contribución. Recuerda que mientras más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución sólo sigue los sencillos pasos que se muestran a continuación. Te lo prometemos, será entretenido. 
+Leer artículos y ver tutoriales nos sirve de gran ayuda,pero siempre es mejor evitar la mayor cantidad de errores.
+Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los novatos hacen su primera contribución.Recuerda que mientras más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución sólo sigue los sencillos pasos que se muestran a continuación. Te lo prometemos,será entretenido. 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
 Si no tienes git en tu máquina, [ instálalo ]( https://help.github.com/articles/set-up-git/ )
 
-## Bifurcá(*Fork*) éste repositorio
+## Bifurca(*Fork*) este repositorio
 
-Haz *fork* de éste repo haciendo click en el botón "Fork" que está arriba de esta página.
-Esto creará una copia de éste repositorio en tu cuenta.
+Haz *fork* de este repo haciendo click en el botón "Fork" que está arriba de esta página.
+Esto creará una copia de este repositorio en tu cuenta.
 
-## Cloná(*Clone*) el repositorio
+## Clona(*Clone*) el repositorio
 
-<img align="right" width="300" src="../assets/clone.png" alt="clonar éste repositorio" />
+<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
 
-Ahora cloná éste repo en tu equipo. Haz click en el botón "*Clone*" y luego haz click en el ícono para copiar al portapapeles(clipboard)
+Ahora clona este repo en tu equipo. Haz click en el botón "*Clone*" y luego haz click en el ícono para copiar al portapapeles(clipboard)
 
-Abre tu consola o terminal y ejecutá el siguiente comando de git:
+Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
 ```
 git clone "url que copiaste"
 ```
-Donde "url que copiaste" (sin las comillas) es la url a éste repositorio. Mire los pasos previos para obtener la url.
+Donde "url que copiaste" (sin las comillas) es la url a este repositorio. Mire los pasos previos para obtener la url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL a clipboard" />
 
@@ -35,17 +37,17 @@ Por ejemplo:
 ```
 git clone https://github.com/éste-eres-tu/first-contributions.git
 ```
-Donde "éste-eres-tu" es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio first-contributions en GitHub a tú computador
+Donde "éste-eres-tu" es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio first-contributions en GitHub a tu computador
 
 ## Crear una rama(*Branch*)
 
-Cambiá al directorio del repositorio en tu computador si es que no estás ahí.
+Cambia al directorio del repositorio en tu computador si es que no estás ahí.
 
 ```
 cd first-contributions
 ```
 
-Ahora creá una branch usando `git checkout command`
+Ahora crea una branch usando `git checkout command`
 
 ```
 git checkout -b <añade tu nombre>
@@ -58,7 +60,7 @@ git checkout -b add-alonzo-church
 
 ## Hacer los cambios necesarios y confirmar(*Commit*) esos cambios
 
-Ahora abrí el archivo `Contributors.md` en un editor de texto y añadi tu nombre, luego guardá el archivo. Si vas al directorio del proyecto y haces `git status`, verás que hay cambios. Agregá esos cambios usando el comando `git add` que está abajo.
+Ahora abre el archivo `Contributors.md` en un editor de texto y añade tu nombre, luego guarda el archivo. Si vas al directorio del proyecto y haces `git status`, verás que hay cambios. Agrega esos cambios usando el comando `git add` que está abajo.
 ```
 git add Contributors.md
 ```
@@ -67,51 +69,51 @@ Ahora puedes hacer commit sobre los cambios con el comando `git commit`
 ```
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
-cambiá `<tu-nombre>` con tu nombre
+cambia `<tu-nombre>` con tu nombre
 
-## Mandá(*Push*) tus cambios a GitHub
+## Manda(*Push*) tus cambios a GitHub
 
 Haz *push* de tus cambios usando el comando `git push`
 ```
 git push origin <añade-tu-nombre>
 ```
-Cambiá `<añade-tu-nombre>` con el nombre de la branch que creaste antes
+Cambia `<añade-tu-nombre>` con el nombre de la branch que creaste antes
 
 ## Enviar(*Submit*) tus cambios para ser revisados
 
-Si vas a tú repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre éste botón.
+Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="crea una pull request" />
 
-Ahora creá la pull request
+Ahora crea la pull request
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
 
-Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch de éste proyecto. Recibirás una notificación por correo cuando los cambios hayan sido fusionados.
+Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch de este proyecto. Recibirás una notificación por correo cuando los cambios hayan sido fusionados.
 
 La master branch de tu fork no tendrá esos cambios. Para mantener tu fork sincronizado con el mío, sigue los siguientes pasos.
 
 ### Manteniendo tu fork sincronizado con éste repositorio
 
-Primero, cambiá a la master branch
+Primero, cambia a la master branch
 ```
 git checkout master
 ```
 
-Luego, agregá la url de mi repo como `upstream remote url`
+Luego, agrega la url de mi repo como `upstream remote url`
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Ésta es una forma de decirle a git que otra versión de éste proyecto existe en la url especificada y que la llamaremos upstream. Una vez que los cambios sean agregados (cuando hice *merge*), recuperá la nueva versión de mi repositorio.
+Esta es una forma de decirle a git que otra versión de este proyecto existe en la url especificada y que la llamaremos upstream. Una vez que los cambios sean agregados (cuando hice *merge*), recupera la nueva versión de mi repositorio.
 ```
 git fetch upstream
 ```
 
-Aquí estamos trayendo todos los cambios en mi fork (upstream remote). Ahora, necesitás agregar la nueva revisión de mi repositorio en tu master branch (harás *merge*)
+Aquí estamos trayendo todos los cambios en mi fork (upstream remote). Ahora, necesitas agregar la nueva revisión de mi repositorio en tu master branch (harás *merge*)
 ```
 git rebase upstream/master
 ```
-Aquí estarás aplicando todos los cambios que recuperaste a la master branch. Si hacés push de la master branch ahora, tu fork también tendrá los cambios
+Aquí estarás aplicando todos los cambios que recuperaste a la master branch. Si haces push de la master branch ahora, tu fork también tendrá los cambios
 ```
 git push origin master
 ```
