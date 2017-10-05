@@ -576,3 +576,4 @@
 - [Frank Mcdonald](https://github.com/Morecai)
 - [Shade Ruangwan](https://github.com/sruangwan)
 - [Ania Brajtkopf](https://github.com/anya92)
+- [Freddy Rondon](https://githubt.com/ifreddyrondon)
