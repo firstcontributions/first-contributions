@@ -581,6 +581,7 @@
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
+- [Nicole Li](http://github.com/nicolehli)
 - [Gabriel Dekoladenu](https:github.com/gabedeko) 
 - [Ramon Reyes] (https://github.com/reyesjunk)
 - [Jesus Antonio Zuñiga Arce](https://github.com/jzunigarce)
