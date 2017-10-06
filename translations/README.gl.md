@@ -5,7 +5,7 @@
 
 É difícil. Sempre é difícil a primeira vez que fas algo. Especialmente cando estás colaborando, equivocarse non é algo agradable. Pero no *open source* (o código abierto) todo trata de colaboración e de traballar xuntos. Quixemos simplificar a forma na que novos contribuidores *open-source* aprenden y contribúen pola primeira vez.
 
-Ler artículos e ver titoriais pode axudar, pero que haberá mellor que facer as cousas sen derramar nada?. Iste proxecto enfócase en prover unha guía e en simplificar a forma na que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometemosche que será entretido. 
+Ler artículos e ver titoriais pode axudar, pero que haberá mellor que facer as cousas sen derramar nada?. Iste proxecto enfócase en prover unha guía e en simplificar a forma na que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometemosche que será entretido.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
@@ -55,7 +55,7 @@ Por exemplo
 ```
 git checkout -b engade-María-Soliña
 ```
- 
+
 (O nome da branch non ten que incluir necesariamente a palabra 'engade', pero resulta razoable se consideramos que o propósito desta póla é engadir o teu nome a unha lista).
 
 ## Fai os trocos necesarios e efectúa(*Commit*) eses trocos
@@ -98,7 +98,7 @@ Axiña fusionarei os teus trocos (facendo *merge*) na master branch deste proxec
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Onde ir dende aquí?
 
