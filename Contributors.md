@@ -1,4 +1,5 @@
-﻿- [Cody R](https://github.com/crod93)
+- [Varun](https://github.com/varunzxzx)
+- [Cody R](https://github.com/crod93)
 - [Mrunmayee A](https://github.com/MrunmayeeA)
 - [Merve Erdol](https://github.com/merveer)
 - [Aaron Dills](https://github.com/AaronDills)
@@ -581,3 +582,4 @@
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
+- [deodesumitsingh](https://github.com/deodesumitsingh)
