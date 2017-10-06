@@ -581,6 +581,7 @@
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
+- [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
 - [Jeff Thompson](https://github.com/jello7654)
 - [Shannu Ali](https://github.com/zeroxenator)
