@@ -580,3 +580,4 @@
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
+- [Ruslan Posevkin](https://github.com/rusposevkin)
