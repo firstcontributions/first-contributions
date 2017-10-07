@@ -1,4 +1,4 @@
--[Shaheem](https://github.com/shaheemMPM)
+- [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
 - [Mrunmayee A](https://github.com/MrunmayeeA)
@@ -600,3 +600,6 @@
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
+- [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
+- [Sarath P K](https://github.com/sarathpk931s)
+
