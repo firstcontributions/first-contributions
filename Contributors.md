@@ -601,4 +601,4 @@
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
 - [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
 - [Sarath P K](https://github.com/sarathpk931s)
-
+- [Haziel Sánchez] (https://github.com/HazielS)
