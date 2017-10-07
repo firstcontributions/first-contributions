@@ -593,3 +593,5 @@
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
 - [deodesumitsingh](https://github.com/deodesumitsingh)
 - [Gina Hortenbach](https://github.com/hortenbach)
+- [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
+- [Lucas Cordeiro Marques](https://github.com/lucascmgs)
