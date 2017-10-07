@@ -599,3 +599,4 @@
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
+- [Jyoti Duwal] (https://github.com/coderjay12)
