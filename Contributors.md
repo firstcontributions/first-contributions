@@ -592,4 +592,5 @@
 - [Ruslan Posevkin](https://github.com/rusposevkin)
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
 - [deodesumitsingh](https://github.com/deodesumitsingh)
+- [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
