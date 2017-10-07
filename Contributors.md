@@ -592,6 +592,7 @@
 - [Ruslan Posevkin](https://github.com/rusposevkin)
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
 - [deodesumitsingh](https://github.com/deodesumitsingh)
+- [Raghvendra Gupta](https://github.com/raghav9-97)
 - [Rafael Milani Barbosa](https://github.com/rafaelmilanibarbosa)
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
