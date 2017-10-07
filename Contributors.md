@@ -1,4 +1,5 @@
--- [Varun](https://github.com/varunzxzx)
+- [Shaheem](https://github.com/shaheemMPM)
+- [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
 - [Mrunmayee A](https://github.com/MrunmayeeA)
 - [Merve Erdol](https://github.com/merveer)
@@ -599,7 +600,10 @@
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
+- [Jyoti Duwal] (https://github.com/coderjay12)
 - [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
 - [Sarath P K](https://github.com/sarathpk931s)
 - [Pablo J](https://github.com/pablo0910)
+- [Abhishek Tiwari](https://github.com/zeus0789)
+- [Sudhanshu Jaiswal](https://github.com/sudsj)
 
