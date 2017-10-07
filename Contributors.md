@@ -603,6 +603,7 @@
 - [Jyoti Duwal] (https://github.com/coderjay12)
 - [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
 - [Sarath P K](https://github.com/sarathpk931s)
+- [Haziel Sánchez] (https://github.com/HazielS)
 - [Pablo J](https://github.com/pablo0910)
 - [Abhishek Tiwari](https://github.com/zeus0789)
 - [Sudhanshu Jaiswal](https://github.com/sudsj)
