@@ -582,6 +582,7 @@
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
+- [Ben Jervis](https://github.com/benJervis)
 - [Nicole Li](http://github.com/nicolehli)
 - [Gabriel Dekoladenu](https:github.com/gabedeko)
 - [Ramon Reyes] (https://github.com/reyesjunk)
@@ -600,7 +601,6 @@
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
-- [Tom Davis](https://github.com/Kat35601)
 - [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
 - [Sarath P K](https://github.com/sarathpk931s)
 
