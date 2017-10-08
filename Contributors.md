@@ -609,6 +609,7 @@
 - [Abhishek Tiwari](https://github.com/zeus0789)
 - [Sudhanshu Jaiswal](https://github.com/sudsj)
 - [Eric Karschner](https://github.com/EricKarschner37)
+- [Pedro Ávila](https://github.com/avilapedro/)
 - [Jason](https://github.com/daxapps)
 - [Diana Monteiro] (https://github.com/dichaves)
 - [Lise Ho](https://github.com/koprty)
