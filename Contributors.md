@@ -609,6 +609,7 @@
 - [Abhishek Tiwari](https://github.com/zeus0789)
 - [Sudhanshu Jaiswal](https://github.com/sudsj)
 - [Eric Karschner](https://github.com/EricKarschner37)
+- [John Doyke](https://github.com/johnjohn12)
 - [Geoffrey Wong](https://github.com/GeoffreyHW)
 - [Aman Agarwal](https://github.com/amanagarwal-sopho)
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
