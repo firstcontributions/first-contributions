@@ -620,3 +620,4 @@
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
 - [Eric Bryant](https://github.com/shmickle)
+- [Ceci Tran](https://github.com/Ceciceciceci)
