@@ -635,3 +635,4 @@
 - [R. Alex Clark](https://github.com/Aclark2089)
 - [Markus (Qoutroy)](https://github.com/qoutroy)
 - [Lee Magbanua](https://github.com/leesenpai)
+- [Zach Van Uum](https://github.com/zvanuum)
