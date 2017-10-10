@@ -1,4 +1,4 @@
-﻿- [Anish Duwal](https://github.com/duwalanise)
+- [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
@@ -638,3 +638,4 @@
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg] (https://github.com/akhilgarg007)
+- [Thirdoptics] (https://github.com/Thirdoptics)
