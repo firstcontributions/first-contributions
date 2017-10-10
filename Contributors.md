@@ -620,6 +620,7 @@
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
 - [Eric Bryant](https://github.com/shmickle)
+- [Erendira Garcia](https://github.com/erendira)
 - [Ceci Tran](https://github.com/Ceciceciceci)
 - [Sakait Bhandari](https://github.com/SakaitBhandari2807)
 - [Miguel Almonte 😎🎉](https://github.com/miguel550)
