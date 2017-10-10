@@ -620,6 +620,7 @@
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
 - [Eric Bryant](https://github.com/shmickle)
+- [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
 - [Greg Wong](https://github.com/gregorywong)
 - [Tony Wu](https://github.com/t-wu)
