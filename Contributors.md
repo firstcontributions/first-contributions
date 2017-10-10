@@ -620,6 +620,7 @@
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
 - [Eric Bryant](https://github.com/shmickle)
+- [Greg Wong](https://github.com/gregorywong)
 - [Tony Wu](https://github.com/t-wu)
 - [Heather Rusnica] (https://github.com/HRusnica)
 - [R. Alex Clark](https://github.com/Aclark2089)
