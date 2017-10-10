@@ -594,6 +594,7 @@
 - [Ruslan Posevkin](https://github.com/rusposevkin)
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
 - [deodesumitsingh](https://github.com/deodesumitsingh)
+- [Waheeb Aghers](https://github.com/Wahe3bru)
 - [Dylan Yang](https://github.com/DylanLovesCoffee)
 - [amirulabu](https://github.com/amirulabu)
 - [Raghvendra Gupta](https://github.com/raghav9-97)
