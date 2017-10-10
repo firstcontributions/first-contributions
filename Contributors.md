@@ -620,6 +620,7 @@
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
 - [Eric Bryant](https://github.com/shmickle)
+- [Adrien Rousselet](https://github.com/Optarion)
 - [Rishi Raj](https://github.com/rishiraj22)
 - [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
