@@ -638,4 +638,4 @@
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg] (https://github.com/akhilgarg007)
-- [Ande-ronayt](https://github/ande-ronayt)
+- [Andrew-安德-Андрей](https://github/ande-ronayt)
