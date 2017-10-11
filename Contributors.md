@@ -651,3 +651,4 @@
 - [Thirdoptics] (https://github.com/Thirdoptics)
 - [Balázs Weirich] (https://github.com/wbali)
 - [Margaret Tavares](https://github.com/margotavares)
+- [Maimuna Syed](https://github.com/jalentheory)
