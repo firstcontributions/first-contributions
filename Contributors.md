@@ -652,3 +652,6 @@
 - [Balázs Weirich] (https://github.com/wbali)
 - [Margaret Tavares](https://github.com/margotavares)
 - [Maimuna Syed](https://github.com/jalentheory)
+- [Ziper90](https://github.com/Ziper90)
+- [Dushyant Rathore](https://github.com/dushyantRathore)
+- [Evelyn Utterson](https://github.com/eveu)
