@@ -638,7 +638,7 @@
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg] (https://github.com/akhilgarg007)
-- [Andrew-安德-Андрей](https://github/ande-ronayt)
+- [Andrii-安德-Андрей](https://github/ande-ronayt)
 - [Leonardo Bonetti] (https://github.com/LeonardoBonetti)
 - [2067599054](https://github.com/2067599054)
 - [savli](https://github.com/savli)
