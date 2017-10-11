@@ -21,10 +21,9 @@
     overflow: hidden;
     width: 16%;
     height: 100%;
+    min-width: 225px;
     display: block;
-    margin-left: 4%;
-    margin-bottom: 1.15em;
-    margin-top: 1.15em;
+    margin: 1.5%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
@@ -53,7 +52,7 @@
     position: relative;
     padding:5%;
 }
- .Card-Link{
+.Card-Link{
     position: relative;
     padding:10px;
     color:#0F3CEF;
@@ -65,33 +64,4 @@
 .Card-Link-Style{
     margin-left: 10%;
     
-}
-
-@media only screen and (max-width: 767px) {
-    .Card-Container{
-        width: 46vw;
-        margin: 1vh 1.5vw;
-    }
-    .Project-Logo{
-        width: 75%;
-        height: 40%;
-        margin-top: 3%;
-    }
-    .Card-Title{
-        margin: 1% 3%;
-        height: 5%;
-    }
-    .Card-Description{
-        position: relative;
-        padding:2%;
-    }
-    .Card-Description p{
-        margin: 8px;
-    }
-    .Card-Link{
-        padding: 4% 2%;
-        background-color: #007EE5;
-        text-decoration: none;
-        color: #ffffff;
-    }
 }

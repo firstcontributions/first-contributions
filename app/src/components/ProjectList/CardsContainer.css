@@ -2,12 +2,7 @@
     background: #f7f7fc;
     display: flex;
     flex-wrap: wrap;
-    padding: 3em;
+    justify-content: center;
+    padding: 1vw;
     overflow: hidden;
-}
-
-@media only screen and (max-width: 767px) {
-    .Container-layout{
-        padding: 0.5vw;
-    }
 }
