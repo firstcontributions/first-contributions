@@ -638,6 +638,7 @@
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg] (https://github.com/akhilgarg007)
+- [savli](https://github.com/savli)
 - [Limarenko Denis] (https://github.com/LimarenkoDenis)
 - [Laura Sprauer] (https://github.com/laurasprauer)
 - [Hermes Espínola] (https://github.com/hermesespinola)
