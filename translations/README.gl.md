@@ -1,111 +1,110 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# 第一次参与开源
+# Primeiras Contribucións
 
-万事起头难。特别是和其他人合作时，犯错格外令人不舒服。不过，开源的本质就是和其他人合作。我们希望为初学者带来一个简单的方法去学习及参与开源项目。
+É difícil. Sempre é difícil a primeira vez que fas algo. Especialmente cando estás colaborando, equivocarse non é algo agradable. Pero no *open source* (o código abierto) todo trata de colaboración e de traballar xuntos. Quixemos simplificar a forma na que novos contribuidores *open-source* aprenden y contribúen pola primeira vez.
 
-阅读文章和观看教程会有所帮助。不过，有什麽方法能比，在不会弄乱任何东西的情况下，实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
+Ler artículos e ver titoriais pode axudar, pero que haberá mellor que facer as cousas sen derramar nada?. Iste proxecto enfócase en prover unha guía e en simplificar a forma na que os novatos fan a súa primeira contribución. Lembra que mentres máis relaxado esteas, mellor aprenderás. Se queres facer a túa primeira contribución só tés que seguir os sinxelos pasos que se amosan a continuación. E prometemosche que será entretido.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
-*其他语言版本: [英语](../README.md), [西班牙语](README.es.md), [荷兰语](README.nl.md), [印度语](README.hi.md), [俄语](README.ru.md), [日语](README.ja.md), [越南语](README.vn.md), [波兰语](README.pl.md), [韩语](README.ko.md), [德语](README.de.md), [简体中文](README.chs.md), [繁体中文](README.cht.md), [Greek](README.gr.md).*
+Se aínda non tés git na túa máquina, [ instálao ]( https://help.github.com/articles/set-up-git/ )
 
-如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
+## Bifurca(*Fork*) este repositorio
 
-## Fork（复制）本代码仓库
+Fai un *fork* (bifurcación) deste repo facendo click no botón "Fork" que está na cima desta páxina.
+Isto creará unha copia deste repositorio na túa conta.
 
-点击图示中的按钮去 Fork 这个代码仓库。
-这个操作会将代码仓库复制到你的账户名下。
+## Clona(*Clone*) o repositorio
 
-## Clone（克隆）代码仓库
+<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+A continuación clona este repo no teu equipo. Fai click no botón "*Clone*" e despois na icona para copiar ó portapapeis (clipboard)
 
-接下来，将复制後的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切版按钮（将代码仓库地址复制下来）
-
-随後打开命令行窗口，敲入如下 git 命令：
+Abre a túa consola ou terminal e executa o seguinte comando de git:
 
 ```
-git clone "刚才复制的 url 链接"
+git clone "url que copiache"
 ```
-"刚才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。获取这链接地址的方法请见上一步。
+Onde "url que copiache" (sen as comiñas) é a url  deste repositorio. Mira os pasos previos para obter a url.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL a clipboard" />
 
-譬如：
+Por exemplo:
 ```
-git clone https://github.com/你的Github用户名/first-contributions.git
+git clone https://github.com/o-teu-nome/first-contributions.git
 ```
+Onde "o-teu-nome" é o teu usuario de GitHub. Aquí estarás copiando os contidos do repositorio first-contributions en GitHub para o teu computador.
 
-'你的 Github 用户名' 指的就是你的 Github 用户名。这一步，你将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
+## Crear unha póla(*Branch*)
 
-## 新建一个分支
-
-下面的命令能在命令行窗口中，把目録切换到 first-contributions 
+Cambia ó directorio do repositorio no teu computador (se é que non estás xa nel).
 
 ```
 cd first-contributions
 ```
-接下来使用 `git checkout` 命令新建一个代码分支
-```
-git checkout -b <新分支的名称>
-```
 
-譬如：
+Agora crea unha branch (póla) usando o comando `git checkout`
+
 ```
-git checkout -b add-myname
+git checkout -b <engade-o-teu-nome>
 ```
 
-(新分支的名称不一定需要有* add *。然而，在新分支的名称加入* add *是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
+Por exemplo
+```
+git checkout -b engade-María-Soliña
+```
 
-## 对代码进行修改，而後 Commit (提交) 修改
+(O nome da branch non ten que incluir necesariamente a palabra 'engade', pero resulta razoable se consideramos que o propósito desta póla é engadir o teu nome a unha lista).
 
-打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
+## Fai os trocos necesarios e efectúa(*Commit*) eses trocos
+
+Agora abre o arquivo `Contributors.md` nun editor de texto, engade o teu nome e despois garda o arquivo. Se vas ó directorio do proxecto e executas `git status`, verás que hai trocos. Agrega eses trocos usando o comando `git add`  tal como se amosa:
 ```
 git add Contributors.md
 ```
 
-现在就可以使用 `git commit` 命令 commit 你的修改了。
+Agora podes facer commit sobre os trocos co comando `git commit`
 ```
-git commit -m "Add <你的名字> to Contributors list"
+git commit -m "Add <o-teu-nome> to Contributors list"
 ```
-将 `<你的名字>` 替换为你的名字
+cambiando `<o-teu-nome>` polo teu nome.
 
-## 将改动 Push（发布）到 GitHub
+## Envía (*Push*) os teus trocos a GitHub
 
-使用 `git push` 命令发布代码
+Fai un  *push* dos teus trocos usando o comando `git push`
 ```
-git push origin <分支的名称>
+git push origin <engade-o-teu-nome>
 ```
-将 `<分支的名称>` 替换为之前新建的分支名称。
+cambiando `<engade-o-teu-nome>` polo nome da branch que creaches antes.
 
-## 提出 Pull Request 将你的修改供他人审阅
+## Envía os teus trocos para seren revisados
 
-前往 Github 你的代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
+Se vas ó teu repositorio en GitHub, verás un botón `Compare & pull request`. Fai click nese botón:
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="crea unha pull request" />
 
-接着再点击 `Create pull request` 按钮，正式提交 pull request。
+Agora crea e envía a pull request:
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="sube a pull request" />
 
-不久之後，我便会把你所有的变化合并到这个项目的主分支。更改合并後，你会收到通知电邮。
+Axiña fusionarei os teus trocos (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando los trocos xa estean fusionados.
 
-### [ 更多资料 ](additional-material/additional-material.md)
+### [ Material adicional ](additional-material/additional-material.md)
 
-## 使用其他工具的教程
+## Titoriais con outras ferramentas
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
+## Onde ir dende aquí?
 
-## 接下来做什麽呢？ 
+Tamén poderías unirte á nosa *equipa* en Slack no caso de que necesites axuda ou teñas algunha pregunta. [Únete ó noso Slack](https://firstcontributions.herokuapp.com)
 
-如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://firstcontributions.herokuapp.com)！
-
-通过下面这些链接，你能看到当前流行的众多代码仓库中，适合初学者解决的问题列表，还等什麽，去吧 :)
+Aquí hai algúns *issues* para principiantes en repositorios populares que poderías resolver. Anímate e vai a eses repos para aprender máis:
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
@@ -116,4 +115,3 @@ git push origin <分支的名称>
 |[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
 | [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
 | [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
-

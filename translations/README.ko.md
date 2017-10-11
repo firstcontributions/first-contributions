@@ -103,6 +103,8 @@ git push origin <add-your-name>
 <img style="float: right;" src="../assets/submit-pull.png" alt="풀 요청 제출하기"
 />
 
+이제 여러분의 변경사항을 제가 확인 후에  마스터 브랜치에 머지하게되면 알림메일을 받으실 수 있습니다.
+
 ## 포크한 저장소와 이 저장소 동기화하기
 
 이제 나는 이 프로젝트의 마스터 브랜치에 모든 변경사항을 병합할 것 입니다. 당신의
@@ -137,6 +139,8 @@ git push origin master
 
 origin 이라 명명된 원격으로 푸시하고 있는 것에 주목하세요.
 
+
+### [ 추가 정보 ](additional-material/additional-material.ko.md)
 
 ## 자습서 다른 도구 사용
 
