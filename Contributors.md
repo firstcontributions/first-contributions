@@ -638,6 +638,7 @@
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg] (https://github.com/akhilgarg007)
+- [Hermes Espínola] (https://github.com/hermesespinola)
 - [Thirdoptics] (https://github.com/Thirdoptics)
 - [Balázs Weirich] (https://github.com/wbali)
 - [Margaret Tavares](https://github.com/margotavares)
