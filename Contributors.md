@@ -1,4 +1,4 @@
-- [Anish Duwal](https://github.com/duwalanise)
+﻿- [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
@@ -655,3 +655,4 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
+- [Harsh Paliwal](https://github.com/hpaliwal4)
