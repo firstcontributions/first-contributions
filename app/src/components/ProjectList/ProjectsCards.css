@@ -14,17 +14,24 @@
     margin-top: 5%;
 }
 .Card-Body{
+	flex: 1;
     position: relative;
     background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .Card-Container{
     overflow: hidden;
-    width: 16%;
-    height: 100%;
+    width: 250px;
+    min-width: 120px;
+    height: auto;
     display: block;
-    margin-left: 4%;
+    margin: 1.15em;
     margin-bottom: 1.15em;
     margin-top: 1.15em;
+    padding: 1em;
+    background-color: white;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
@@ -33,6 +40,14 @@
 .Card-Container:hover{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px;
 }
+
+.Card-Real-Link
+{
+	height: 100%;	
+	display: flex;
+	flex-direction: column;
+}
+
 .Card-Real-Link:hover{
     text-decoration: none;
     color:black;
@@ -50,8 +65,10 @@
     color:black;
 }
 .Card-Description{
+	flex: 2;
     position: relative;
     padding:5%;
+    text-align: top;
 }
  .Card-Link{
     position: relative;
@@ -66,3 +83,20 @@
     margin-left: 10%;
     
 }
+
+@media screen and (max-width: 1387px)
+{
+    .Card-Container
+    {
+      width: 225px;
+    }
+}
+
+@media screen and (max-width: 648px)
+{
+    .Card-Container
+    {
+      width: 100%;
+    }
+}
+
