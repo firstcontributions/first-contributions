@@ -1,4 +1,5 @@
-
+﻿- [Muaaz Bin Sarfaraz] (https://github.com/MuaazBin)
+- [Anish Duwal](https://github.com/duwalanise)
 ﻿- [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
