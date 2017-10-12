@@ -659,6 +659,7 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
+- [Andrei Vasile](https://github.com/johnsilver97)
 - [Harsh Paliwal](https://github.com/hpaliwal4)
 - [Ayush Goyal](https://github.com/ayush987goyal)
 - [Bruno Scheufler](https://github.com/bsZeroFive)
