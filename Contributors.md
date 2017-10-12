@@ -673,6 +673,7 @@
 - [Steve Wang](https://github.com/PureHyd)
 - [Sergey Gorky](https://github.com/sergeygorky)
 - [Derick Dsouza](https://github.com/derickdsouza)
+- [Mansi Sharma](https://github.com/MansiSharma1)
 - [Dulan Hewage](https://github.com/Dulan666)
 - [Sarat Maharjan](https://github.com/smhrjn)
 - [Vishnu](https://github.com/vishnu980)
