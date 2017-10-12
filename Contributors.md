@@ -1,3 +1,4 @@
+﻿- [Anish Duwal](https://github.com/duwalanise)
 - [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
@@ -658,6 +659,7 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
+- [Harsh Paliwal](https://github.com/hpaliwal4)
 - [Ayush Goyal](https://github.com/ayush987goyal)
 - [Bruno Scheufler](https://github.com/bsZeroFive)
 - [Wade Hammes](https://github.com/wadehammes)
