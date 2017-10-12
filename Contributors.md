@@ -657,6 +657,7 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
+- [Wade Hammes](https://github.com/wadehammes)
 - [Jyri Vähä-Pietilä](https://github.com/jjjyrki)
 - [Susan Brooks](https://github.com/getjnxed)
 - [Santanaraj Esguerra](https://github.com/akiyamamio16)
