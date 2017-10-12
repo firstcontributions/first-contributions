@@ -18,6 +18,7 @@
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
+- [Vidushi Jain](https://github.com/VidushiJain30)
 - [Aditya Agarwal](https://github.com/itaditya)
 - [Rohit Jakhmola](https://github.com/Rohit599)
 - [Mukund Banka](https://github.com/mukund54)
