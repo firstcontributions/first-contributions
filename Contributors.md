@@ -1,4 +1,5 @@
-﻿- [Anish Duwal](https://github.com/duwalanise)
+﻿- [Muaaz Bin Sarfaraz] (https://github.com/MuaazBin)
+- [Anish Duwal](https://github.com/duwalanise)
 - [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
