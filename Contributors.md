@@ -1,4 +1,4 @@
-﻿- [Muaaz Bin Sarfaraz] (https://github.com/MuaazBin)
+- [Muaaz Bin Sarfaraz] (https://github.com/MuaazBin)
 - [Anish Duwal](https://github.com/duwalanise)
 ﻿- [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
@@ -687,3 +687,4 @@
 - [Vishnu](https://github.com/vishnu980)
 - [Attaphong Rattanaveerachanon](https://github.com/detohm)
 - [Santiago Martín Agra](http://github.com/santima10)
+- [Dennis Truong](https://github.com/dt9)
