@@ -1,4 +1,5 @@
 ﻿- [Anish Duwal](https://github.com/duwalanise)
+- [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
