@@ -1,3 +1,4 @@
+- [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
@@ -656,3 +657,4 @@
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
 - [Susan Brooks](https://github.com/getjnxed)
+- [Santanaraj Esguerra](https://github.com/akiyamamio16)
