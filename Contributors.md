@@ -1,3 +1,4 @@
+- [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
