@@ -673,3 +673,5 @@
 - [Sergey Gorky](https://github.com/sergeygorky)
 - [Derick Dsouza](https://github.com/derickdsouza)
 - [Vishnu](https://github.com/vishnu980)
+- [Attaphong Rattanaveerachanon](https://github.com/detohm)
+- [Santiago Martín Agra](http://github.com/santima10)
