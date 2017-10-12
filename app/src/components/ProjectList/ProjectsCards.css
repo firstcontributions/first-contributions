@@ -21,10 +21,9 @@
     overflow: hidden;
     width: 16%;
     height: 100%;
+    min-width: 225px;
     display: block;
-    margin-left: 4%;
-    margin-bottom: 1.15em;
-    margin-top: 1.15em;
+    margin: 1.5%;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
@@ -53,7 +52,7 @@
     position: relative;
     padding:5%;
 }
- .Card-Link{
+.Card-Link{
     position: relative;
     padding:10px;
     color:#0F3CEF;
