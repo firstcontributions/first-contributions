@@ -465,6 +465,7 @@
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull](https://github.com/bahull)
 - [Kevin Vu](https://github.com/kkv263)
+- [Mikaela Hallenberg] (https://github.com/mikaelahallenberg)
 - [Luigi Pizarro](https://github.com/soyluking)
 - [Michaelsun Baluyos](https://github.com/michaelsunb)
 - [Caleb Ikhuohon-Eboreime](https://github.com/calebikhuohon)
