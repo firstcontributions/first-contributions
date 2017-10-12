@@ -656,5 +656,5 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
-- [Lana Lana](https://github.com/Svetula)
+- [Susan Brooks](https://github.com/getjnxed)
 - [Santanaraj Esguerra](https://github.com/akiyamamio16)
