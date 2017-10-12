@@ -1,6 +1,5 @@
-﻿- [Anish Duwal](https://github.com/duwalanise)
-- [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
+- [Magnus Cardell](https://github.com/MagnusCardell)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
@@ -672,3 +671,4 @@
 - [Steve Wang](https://github.com/PureHyd)
 - [Sergey Gorky](https://github.com/sergeygorky)
 - [Derick Dsouza](https://github.com/derickdsouza)
+- [Vaibhav Mule](https://github.com/vaibhavmule)
