@@ -671,3 +671,4 @@
 - [Eric Ngu](https://github.com/ericngu)
 - [Steve Wang](https://github.com/PureHyd)
 - [Sergey Gorky](https://github.com/sergeygorky)
+- [Derick Dsouza](https://github.com/derickdsouza)
