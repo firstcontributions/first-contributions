@@ -690,4 +690,5 @@
 - [Santiago Martín Agra](http://github.com/santima10)
 - [Kamil Wojcicki](https://github.com/dsplabs)
 - [Dennis Truong](https://github.com/dt9)
+- [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
