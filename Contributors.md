@@ -419,3 +419,4 @@
 - [Stéphane Salomon](https://github.com/theflupke)
 - [Vito Labalestra](https://github.com/xit4)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
+- [Kate Boyko](https://github.com/kateboyko)
