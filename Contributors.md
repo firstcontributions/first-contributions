@@ -675,6 +675,7 @@
 - [Eric Ngu](https://github.com/ericngu)
 - [Steve Wang](https://github.com/PureHyd)
 - [Sergey Gorky](https://github.com/sergeygorky)
+- [Rugantio Costa](https://github.com/rugantio)
 - [Derick Dsouza](https://github.com/derickdsouza)
 - [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - [Dragan Theodora-Augustina](https://github.com/theodoradragan)
