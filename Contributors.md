@@ -663,6 +663,7 @@
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
 - [Evelyn Utterson](https://github.com/eveu)
+- [Vipul Gupta](https://github.com/vipulgupta2048)
 - [Kyle O'Hehir] (https://github.com/kohehir)
 - [Andrei Vasile](https://github.com/johnsilver97)
 - [Harsh Paliwal](https://github.com/hpaliwal4)
