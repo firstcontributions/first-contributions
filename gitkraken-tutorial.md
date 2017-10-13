@@ -153,13 +153,9 @@ Notice here you're pushing to the remote named origin.
 
 ## Tutorials Using Other Tools
 
-<br><a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>
-&emsp;&emsp;&nbsp;<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>
-&emsp;&emsp;&nbsp;&nbsp;<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>
-<br>
-[Command Line](README.md)
-&emsp;[Visual Studio 2017](github-windows-vs2017-tutorial.md)
-&emsp;[GitHub Desktop](github-desktop-tutorial.md)
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|
+|---|---|---|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitHub Desktop](github-desktop-tutorial.md)|
 
 ## Where to go from here?
 
