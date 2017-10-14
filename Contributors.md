@@ -453,6 +453,7 @@
 - [Vito Labalestra](https://github.com/xit4)
 - [Theo Markovic](https://github.com/tmarkovic)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
+- [Kate Boyko](https://github.com/kateboyko)
 - [Panu Kettunen](https://github.com/panukettu)
 - [Hartama Putra](https://github.com/haruute0/)
 - [Enrico Paganin](https://github.com/platipo)
@@ -695,3 +696,5 @@
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
 - [e20zip](https://github.com/e20zip)
+- [Martin Löffler](https://github.com/FatalErrorCode)
+- [Digenaldo Neto](https://github.com/digenaldo)
