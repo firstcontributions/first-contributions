@@ -363,7 +363,6 @@
 - [Velimir Kumric](https://github.com/vkumric)
 - [Monir Zaman](https://github.com/zamanuap)
 - [Kiran](https://github.com/mysninja)
-- [Monir Zaman](https://github.com/zamanuap)
 - [Zachary Kearns](https://github.com/zacharykearns)
 - [Birksy89](https://github.com/birksy89)
 - [Kamil Doroszewicz](https://github.com/l3szcz)
