@@ -441,6 +441,7 @@
 - [Igor Chiriac](https://github.com/yanime)
 - [Rajdeep Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
+- [Rohit Jakhmola](https://github.com/Rohit599)
 - [Brett](https://github.com/CrazyLlama)
 - [jlapitan](https://github.com/jlapitan)
 - [Stéphane Salomon](https://github.com/theflupke)
