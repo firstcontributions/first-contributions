@@ -15,6 +15,7 @@
   -webkit-transition: background-color .3s;
   -moz-transition: background-color .3s;
   transition: background-color .3s;
+  margin-bottom: 10%;
 }
 
 .LinkButton:hover {
