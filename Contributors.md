@@ -697,6 +697,7 @@
 - [Dennis Truong](https://github.com/dt9)
 - [John Eddie Ayson](https://github.com/aysonje)
 - [Kris Hoja](https://github.com/krzysiekh)
+- [Rick Haan](https://github.com/rickhaan)
 - [Alexey Salangin](https://github.com/Magauran)
 - [James Hobo](https://github.com/thignus)
 - [Brandon Lum](https://github.com/theheck1)
