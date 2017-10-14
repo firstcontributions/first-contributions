@@ -721,3 +721,4 @@
 - [subhamtandon](https://github.com/subhamtandon)
 - [Vanessa Osuka](https://github.com/Ijebusoma)
 - [Akash Saravanan](https://github.com/akashsara)
+- [Marek Dano](https://github.com/marekdano)
