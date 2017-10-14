@@ -6,7 +6,7 @@ import projectList from './listOfProjects';
 export default class CardsContainer extends React.Component {
   render() {
     return (
-      <div className="Container-layout">
+      <section id='project-list' className='Container-layout'>
         { projectList.map((item, key) => {
           return (
             <Card
@@ -18,7 +18,7 @@ export default class CardsContainer extends React.Component {
             />
           );
         })}
-      </div>
+      </section>
     );
   }
 }
