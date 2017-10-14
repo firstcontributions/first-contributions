@@ -12,12 +12,12 @@ const projectList = [
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
-    githubLink: 'https://github.com/funretro/distributed/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3A%22beginner%20friendly%22%20',
+    githubLink: 'https://github.com/funretro/distributed/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22',
     description: 'Easy to use and beautiful restrospective tool',
   }, {
     name: 'Habitat',
     imageSrc: 'https://avatars1.githubusercontent.com/u/18171698?v=3&s=100',
-    githubLink: 'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3AE-Easy%20',
+    githubLink: 'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-Easy',
     description: 'Modern applications with built-in automation',
   }, {
     name: 'Scikit-learn',
@@ -32,7 +32,7 @@ const projectList = [
   }, {
     name: 'Numpy',
     imageSrc: 'https://camo.githubusercontent.com/b310fd3c9c5f7da5de0911b77d201408b76b8a58/68747470733a2f2f696d616765732e706c6f742e6c792f706c6f746c792d646f63756d656e746174696f6e2f7468756d626e61696c2f6e756d70792d6c6f676f2e6a7067',
-    githubLink: 'https://github.com/numpy/numpy/issues?utf8=%E2%9C%93&q=is%3Aopen%20is%3Aissue%20label%3A%22difficulty%3A%20Easy%22%20',
+    githubLink: 'https://github.com/numpy/numpy/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22difficulty%3A+Easy%22',
     description: 'Scientific computing with Python',
   }, {
     name: 'Elasticsearch',
@@ -87,7 +87,7 @@ const projectList = [
   }, {
     name: 'Brackets',
     imageSrc: 'https://github.com/adobe/brackets/raw/gh-pages/images/brackets_128.png?raw=true',
-    githubLink: 'https://github.com/adobe/brackets/labels/Starter%20bug',
+    githubLink: 'https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22Starter+bug%22',
     description: 'An open source code editor for the web, written in JavaScript, HTML and CSS',
   }, {
     name: 'Webpack',
@@ -97,7 +97,7 @@ const projectList = [
   }, {
     name: 'Babel',
     imageSrc: 'https://avatars2.githubusercontent.com/u/9637642?v=3&s=100',
-    githubLink: 'https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly',
+    githubLink: 'https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22',
     description: 'Babel is a compiler for writing next generation JavaScript',
   }, {
     name: 'Pouchdb',
@@ -107,7 +107,7 @@ const projectList = [
   }, {
     name: 'Neovim',
     imageSrc: 'https://avatars0.githubusercontent.com/u/6471485?v=3&s=100',
-    githubLink: 'https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level',
+    githubLink: 'https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Acomplexity%3Alow',
     description: 'Vim-fork focused on extensibility and usability',
   }, {
     name: 'Hoodie',
@@ -122,12 +122,12 @@ const projectList = [
   }, {
     name: 'Node.js',
     imageSrc: 'https://avatars1.githubusercontent.com/u/9950313?v=3&s=100',
-    githubLink: 'https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22',
+    githubLink: 'https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'Node.js JavaScript runtime',
   }, {
     name: 'Semantic-UI-React',
     imageSrc: 'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
-    githubLink: 'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22',
+    githubLink: 'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration',
   },
 ];
