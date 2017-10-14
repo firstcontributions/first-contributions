@@ -695,5 +695,6 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [e20zip](https://github.com/e20zip)
 - [Martin Löffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
