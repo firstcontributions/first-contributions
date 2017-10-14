@@ -718,3 +718,4 @@
 - [Marcos Gómez](https://github.com/margobra8)
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Min Hoo Lee](https://github.com/minhoolee)
+- [Matic Zavadlal](https://github.com/maticzav)
