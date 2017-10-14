@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# "Contribute" ผลงานในกิตฮับกับผู้อื่นครั้งแรกใช่ไหม?
+# "Contribute" ผลงานใน Github กับผู้อื่นครั้งแรกใช่ไหม?
 
 ครั้งแรกของทุกอย่างมันมักจะยากเสมอ โดยเฉพาะการทำงานร่วมกับผู้อื่น เมื่อเราทำอะไรผิดพลาดเรามักรู้สึกไม่สบายใจ แต่ Opensource คือโลกของการทำงานร่วมกัน! เราจึงอยากให้ผู้ที่เข้ามาใหม่ได้เรียนรู้วิธีการ "คอนทริบิ้วต์" ผลงานร่วมกับผู้อื่นใน Github แบบง่ายๆ
 
@@ -79,9 +79,9 @@ git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
 แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริงๆของคุณ.
 
-## "Push" โค้ดที่เปลี่ยนไปขึ้นบนกิตฮับ
+## "Push" โค้ดที่เปลี่ยนไปขึ้นบน Github
 
-"Push" ผลงานที่คุณทำเมื่อกี้นี้ขึ้นกิตฮับ ด้วยคำสั่ง `git push`:
+"Push" ผลงานที่คุณทำเมื่อกี้นี้ขึ้น Github ด้วยคำสั่ง `git push`:
 ```
 git push origin <ชื่อ branch ของคุณ>
 ```
@@ -89,7 +89,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 ## ส่งผลงานของคุณและรอรีวิวจากเจ้าของโปรเจ็ค
 
-ไปที่ repository ของคุณบนกิตฮับ คลิ๊กที่ `Compare & pull request`
+ไปที่ repository ของคุณบน Github คลิ๊กที่ `Compare & pull request`
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -101,7 +101,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 ### [ข้อมูลอื่นๆเพิ่มเติม](additional-material/additional-material.md)
 
-## ทัวเทอร์เรียลสำหรับการใช้กิตฮับร่วมกับ Tools อื่นๆ
+## ทัวเทอร์เรียลสำหรับการใช้ Github ร่วมกับ Tools อื่นๆ
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
