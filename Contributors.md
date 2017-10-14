@@ -718,3 +718,6 @@
 - [Marcos Gómez](https://github.com/margobra8)
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Yern Yee](https://github.com/YernYee)
+- [Min Hoo Lee](https://github.com/minhoolee)
+- [Matic Zavadlal](https://github.com/maticzav)
+- [Nate Denys](https://github.com/ndenys650)
