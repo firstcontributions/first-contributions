@@ -1,179 +1,107 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# Pierwsze kontrybucje
+# La prima collaborazione
 
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemny. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcieliśmy uprościć dla nowych programistów proces nauki i wgrania swojej pierwszej zmiany w obcym projekcie.
+È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare non è una cosa comoda. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Lo scopo di questo progetto è quello di semplificare il modo in cui per la prima si impara come contribuire in progetti open-source.
 
-Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć wskazówek i uprościć wgranie pierwszej zmiany nowicjuszom. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
+Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che fare effettivamente le cose, senza sbagliare nulla? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati sotto. Ti promettiamo che sarà divertente.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Przeczytaj w innych językach: [English](../README.md), [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md) and [Português/Brasil](translations/README.pt_br.md).*
+Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
 
-Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
+## Forka questa repository
 
-## Utwórz fork repozytorium
+Forka questa repo cliccando sul bottone fork in cima alla pagina.
+Questo creeerà una copia di questa repository nel tuo account.
 
-Utwórz fork tego repozytorium klikając przycisk "Fork" na górze tej strony.
-Stworzysz tym samym kopie tego repozytorium na swoim koncie.
-
-## Sklonuj repozytorium
+## Clona la repository
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Teraz sklonuj repozytorium na swój komputer. Kliknij na przycisk "clone" a później na ikonkę *skopiuj do schowka*.
+Ora clona questa repo nel tuo computer. Clicca sul pulsante per clonare e poi copia l'url.
 
-Otwórz konsolę i uruchom komendę git:
+Apri il terminale e lancia il seguente comando:
 
 ```
-git clone "wklej skopiowany adres"
+git clone "url appena copiato"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowów) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+dove "url appena copiato" (senza le virgolette) è l'url di questa repository. Leggi i passaggi precedenti per ottenere l'url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Przykład:
+Per esempio:
 ```
-git clone https://github.com/to-ty/first-contributions.git
+git clone https://github.com/questo-sei-tu/first-contributions.git
 ```
-W miejscu 'to-ty' to Twój login na githubie. W tym kroku ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer.
+dove `questo-sei-tu` è il tuo username GitHub. Qui stai copiando il contenuto della repository da GitHub al tuo computer.
 
-## Stwórz gałąź
+## Crea un branch
 
-Wejdź w folder ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
+Entra nella directory della repository (se non lo hai già fatto):
 
 ```
 cd first-contributions
 ```
-Teraz utwórz nową gałąź wykonując polecenie `git checkout`:
+Ora crea un branch usando il comando `git checkout`:
 ```
-git checkout -b <add-twoje-imie>
+git checkout -b <aggiungi-il-tuo-nome>
 ```
 
-Przykład
+Ad esempio:
 ```
-git checkout -b add-adam-kowalski
+git checkout -b aggiungi-alonzo-church
 ```
-(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia to listy.)
+(Non è necessario inserire la parola *aggiungi* nel nome del branch, ma in questo caso è ragionevole includerlo poiché lo scopo di questo branch è aggiungere il tuo nome alla lista.)
 
-## Wprowadź zmiany i wgraj je
+## Fai le modifiche necessarie e crea un commit
 
-Otwórz plik `Contributors.md` w edytorze tekstu, dodaj swoje dane i zapisz go. Jeżeli będziesz w folderze repozytorium i uruchomisz polecenie `git status` zobaczysz, że pojawiły się zmiany. Dodaj te zmiany do wcześniej utworzonej gałęzi przy pomocy polecenia `git add`.
+Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il the file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
 
-Teraz zapisz te zmiany wykonując komendę `git commit`:
+Ora valida i cambiamenti usando `git commit`:
 ```
-git commit -m "Add <twoje-imie> to Contributors list"
+git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
-Zastąp `<twoje-imie>` swoim imieniem i nazwiskiem.
+cambiando `<il-tuo-nome>` con il tuo nome.
 
-## Wyślij zmiany na GitHub
+## Invia le modifiche a GitHub
 
-Wyślij swoje zmiany komendą `git push`:
+Invia le tue modifiche con il comando `git push`:
 ```
-git push origin <add-twoje-imie>
+git push origin <aggiungi-il-tuo-nome>
 ```
-Zastąp `<add-twoje-imie>` nazwą gałęzi, którą wcześniej utworzyłeś.
+sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
-## Wyślij swoje zmiany do zatwierdzenia
+## Invia i tuoi cambiamenti per una revisione
 
-W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. Kliknij go.
+Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Teraz wyślij prośbę o scalenie.
+Ora invia la pull request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
+Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
 
-Teraz, kiedy gałąź `<add-twoje-imie>` spełniła swoje zadanie, usuńmy ją.
+### [ Prossimi passi ](additional-material)
 
-## Usuń gałąź ze swojego repozytorium
-
-Jeśli dotarłeś z poradnikiem do tego momentu, nasza gałąź `<add-twoje-imie>` spełniła swoje zadanie i pora usunąć ją z twojego komputera. Nie jest to koniecznie, ale sama nazwa gałęzi wskazuje na jej konkretny cel i tym samym naturalnie krótki żywot.
-
-Najpierw połączy gałąź `<add-twoje-imie>` z gałęzią główną. Przejdź więc do gałęzi głównej:
-```
-git checkout master
-```
-
-Scal `<add-twoje-imie>` z master:
-```
-git merge <add-twoje-imie> master
-```
-
-Usuń `<add-twoje-imie>` z repozytorium na swoim komputerze:
-```
-git branch -d <add-twoje-imie>
-```
-
-Właśnie usunąłeś gałąź `<add-twoje-imie>` ze swojego komputery i wszystko wygląda schludnie.
-Jednakże, nadal masz gałąź `<add-twoje-imie>` w swoim forku na GitHubie. Zanim ją usuniesz pamiętaj, że wysłałeś "Pull request" do mojego repozytorium z tej zdalnej gałęzi. Jeśli jeszcze jej nie scaliłem - nie usuwaj jej.
-
-Jeśli scaliłem już twoją gałąź i chcesz ją usunąć, użyj:
-```
-git push origin --delete <add-twoje-imie>
-```
-
-Teraz już wiesz jak uporządkować swoje gałęzie.
-Z czasem wiele zmian zostanie wprowadzonych do mojego publicznego repozytorium. Gałąź główna na twoim komputerze i w twoim forku repozytorium nie będą aktualne. Aby utrzymać swoje repozytoria zsynchronizowane z moim, wykonaj kroki poniżej.
-
-
-## Utrzymywanie swojego forka zsynchronizowanego z tym repozytorium
-
-Na początku musisz zrozumieć idee pełnej synchronizacji. W tym wypadku istnieją 3 różne repozytoria: moje publiczne na Githubie `github.com/Roshanjossey/first-contributions/`, twój fork na Githubie `github.com/twoj-login/first-contributions/` i lokalne repozytorium na twoim komputerze, na którym pracujesz.
-
-Aby zsynchronizować twoje 2 repozytoria z moim musisz wpierw ściągnąć i scalić publiczne repozytorium z tym na twoim komputerze.
-Drugim krokiem jest wgranie twojego lokalnego repozytorium do forka na GitHubie. Jak już wcześniej widziałeś możesz poprosić o scalanie zmian (pull request) tylko ze swojego forka. Twój fork na GitHubie jest ostatnim repozytorium, które będzie zaktualizowane.
-
-Ok, działamy:
-
-Musisz znajdować się w głównej gałęzi swojego repozytorium (master). Sprawdź aktualną gałąź w pierwszej linijce po wpisaniu polecenia:
-```
-git status
-```
-jeśli nie jesteś w gałęzi master wpisz:
-```
-git checkout master
-```
-
-Dodaj moje publiczne repozytorium do swojego gita `add upstream remote-url`:
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-Tym sposobem powiesz gitowi, że istnieje inna wersja tego repozytorium pod podanym adresem i nazywamy ją `upstream`. Gdy git zna już nazwę, ściągnijmy aktualną wersje publicznego repozytorium:
-```
-git fetch upstream
-```
-
-Właśnie ściągnąłeś najnowszą wersję mojego repozytorium (upstream remote). Teraz scal publiczne repozytorium do swojej gałęzi master.
-```
-git rebase upstream/master
-```
-W tym kroku scalasz publiczne repozytorium ze swoją gałęzią master. Twoja lokalna gałąź master jest aktualna. Teraz, kiedy wyślesz swoje zmiany do swojego forka na GitHubie, też będzie aktualny:
-```
-git push origin master
-```
-W tym momencie wysyłasz zmiany do nazwanej gałęzi zdalnej.
-
-Wszystkie twoje repozytoria są aktualne. Dobra robota! Powinieneś wykonać ten proces za każdym razem, kiedy twoje repozytorium stwierdzi, że jest kilka zmian (commitów) do tyłu za publicznym repozytorium.
-
-## Ćwiczenia przy użyciu innych narzędzi
+## Tutorial usando altri tool
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Co dalej?
+## E ora?
 
-Możesz dołączyć do naszego Slacka jeśli potrzebujesz pomocy albo masz jakieś pytania (Wersja angielska). [Dołącz do Slacka](https://firstcontributions.herokuapp.com)
+Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra](https://firstcontributions.herokuapp.com)
 
-Oto lista kilku problemów w popularnych repozytoriach z którymi poradzi sobie osoba początkująca. Zajrzyj do nich żeby dowiedzieć się więcej
+Qui sotto puoi trovare delle repo popolari dove cercare issue semplici che potresti risolvere. Continua nelle repo per imparare di più
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
