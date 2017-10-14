@@ -719,3 +719,4 @@
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Min Hoo Lee](https://github.com/minhoolee)
 - [Matic Zavadlal](https://github.com/maticzav)
+- [Nate Denys](https://github.com/ndenys650)
