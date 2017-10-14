@@ -695,6 +695,7 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Dmitriy Babinkin](https://github.com/babinkin)
 - [Non Intanon](https://github.com/nonintanon)
 - [Martin Löffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
