@@ -92,6 +92,9 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+Some links are not working and when you click on them it shows no results found .
+Those lnks has been removed.
+
 ### [ Additional material ](additional-material/additional-material.md)
 
 ## Tutorials Using Other Tools
