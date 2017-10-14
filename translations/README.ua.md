@@ -37,7 +37,7 @@ git clone "посилання, яке ви щойно скопіювали"
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-де `this-is-you` ваш GitHub нікнейм. Таким чином ви копіюєте вміст репозиторію з GitHub, в який збираєтесь зробити внесок, на ваш комп’ютер. 
+де `this-is-you` ваш GitHub нікнейм. Таким чином ви копіюєте вміст репозиторію з GitHub, в який збираєтесь зробити внесок, на ваш комп’ютер.
 
 ## Створюємо вітку
 
@@ -92,7 +92,7 @@ git push origin <add-your-name>
 
 Основна вітка вашого репозиторія не буде змінена. Якщо ви хочете синхронізувати ваше відгалуження з моїм репозиторієм, слідуйте цієї інструкції.
 
-## Зберігаємо свій репозиторій синхронізованим 
+## Зберігаємо свій репозиторій синхронізованим
 
  Спочатку перейдіть на основну вітку.
  ```
@@ -132,7 +132,7 @@ git push origin --delete <add-your-name>
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Що далі?
 
