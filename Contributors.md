@@ -1,8 +1,8 @@
+- [Pankaj Kumar Gautam](https://github.com/kd098)
 - [Abhinav Mathur](https://github.com/597abhinav)
 - [Manish Sharma](https://github.com/iammangod96)
 - [Muaaz Bin Sarfaraz](https://github.com/MuaazBin)
 - [Anish Duwal](https://github.com/duwalanise)
-﻿- [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
@@ -715,4 +715,5 @@
 - [Metas Kerdwat](https://github.com/oakkub)
 - [Katy Duncan](https://github.com/katyduncan)
 - [Yen Hoang Le](https://github.com/LeHoangYen)
-
+- [Srabani Paikray](https://github.com/Srabanipaikray)
+- [subhamtandon](https://github.com/subhamtandon)

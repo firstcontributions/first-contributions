@@ -7,8 +7,8 @@
     "enzyme": "^3.0.0",
     "gh-pages": "^0.12.0",
     "react-scripts": "0.7.0",
+    "sw-precache": "^5.2.0"
     "react-test-renderer": "^15.0.0",
-    "sw-precache": "^4.2.2"
   },
   "dependencies": {
     "react": "^15.4.0",
