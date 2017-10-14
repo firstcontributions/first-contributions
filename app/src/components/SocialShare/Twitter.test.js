@@ -1,11 +1,10 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import LinkButton from './LinkButton';
-
+import TwitterCard from './Twitter';
 
 it('renders a project card', () => {
   const tree = renderer.create(
-    <LinkButton />
+    <TwitterCard/>
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });
