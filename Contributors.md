@@ -4,6 +4,7 @@
 - [Abhinav Mathur](https://github.com/597abhinav)
 - [Ritwik Raj Srivastava](https://github.com/ritwik787)
 - [Manish Sharma](https://github.com/iammangod96)
+- [fromMaybe](https://github.com/fromMaybe)
 - [Muaaz Bin Sarfaraz](https://github.com/MuaazBin)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
