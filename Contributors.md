@@ -1,4 +1,4 @@
-﻿- [Abhinav Mathur](https://github.com/597abhinav)
+- [Abhinav Mathur](https://github.com/597abhinav)
 - [Manish Sharma](https://github.com/iammangod96)
 - [Muaaz Bin Sarfaraz](https://github.com/MuaazBin)
 - [Anish Duwal](https://github.com/duwalanise)
@@ -711,5 +711,6 @@
 - [Non Intanon](https://github.com/nonintanon)
 - [Martin Löffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
+- [Metas Kerdwat](https://github.com/oakkub)
 - [Katy Duncan](https://github.com/katyduncan)
 - [Yen Hoang Le](https://github.com/LeHoangYen)
