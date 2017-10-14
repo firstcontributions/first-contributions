@@ -13,3 +13,7 @@ This document provides information about how to keep your forked repository up-t
 ### [ Reverting a commit](reverting-a-commit.md)
 This document provides information about how to revert a commit on the remote repository. It comes in handy in case you when you need to undo a commit that has already been pushed to Github.
 > Take these steps if you want to reverse a commit.
+
+### [ Amending a commit](amending-a-commit.md)
+This document provides information about how to amend a commit on the remote repository. 
+> Use this when you need to adjust a commit you made.
