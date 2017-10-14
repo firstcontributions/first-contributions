@@ -695,6 +695,7 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Himanshu Ratnani](https://github.com/ratnani1996)
 - [Reuns]
 - [Dmitriy Babinkin](https://github.com/babinkin)
 - [Non Intanon](https://github.com/nonintanon)
