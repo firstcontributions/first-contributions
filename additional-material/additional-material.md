@@ -9,3 +9,7 @@ This document provides information about how to delete a branch from your reposi
 ### [ Keeping your fork synced with the repository ](keeping-your-fork-synced-with-this-repository.md)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
 > Follow these steps if your fork doesn't have any changes in parent repository.
+
+### [ Reverting a commit](reverting-a-commit.md)
+This document provides information about how to revert a commit on the remote repository. It comes in handy in case you when you need to undo a commit that has already been pushed to Github.
+> Take these steps if you want to reverse a commit.
