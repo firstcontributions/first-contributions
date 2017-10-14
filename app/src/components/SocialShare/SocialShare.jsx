@@ -1,10 +1,10 @@
 import React from 'react';
-import TwitterCard from './twitter';
+import TwitterCard from './Twitter';
 import './SocialShare.css';
 
 const SocialShare = () => (
   <section id="social-share">
-    <h3>Share your first contribution</h3>
+    <h2>Share the news of your first contribution</h2>
     <TwitterCard/>
   </section>
 );
