@@ -696,6 +696,7 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Brandon Lum](https://github.com/theheck1)
 - [Ataeraxia](https://github.com/Ataeraxia)
 - [Lucas Melin](https://github.com/lucasmelin)
 - [Rodolhe Duterval](https://github.com/bu7ch)
