@@ -695,6 +695,7 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Todd Brock](https://github.com/bitlbot)
 - [Renan Pessoa](https://github.com/renanpessoa)
 - [Himanshu Ratnani](https://github.com/ratnani1996)
 - [Reuns]
