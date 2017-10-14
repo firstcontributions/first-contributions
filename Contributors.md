@@ -715,3 +715,4 @@
 - [Shaun O'Connor](https://github.com/shaunoc09)
 - [Marek Dano](https://github.com/marekdano)
 - [Marcos Gómez](https://github.com/margobra8)
+- [Gabriel Arruda](https://github.com/gabrieldi95)
