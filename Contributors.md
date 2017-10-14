@@ -708,7 +708,7 @@
 - [Todd Brock](https://github.com/bitlbot)
 - [Renan Pessoa](https://github.com/renanpessoa)
 - [Himanshu Ratnani](https://github.com/ratnani1996)
-- [Reuns]
+- [Reuns](https://github.com/hacksignn)
 - [Dmitriy Babinkin](https://github.com/babinkin)
 - [Non Intanon](https://github.com/nonintanon)
 - [Martin Löffler](https://github.com/FatalErrorCode)
