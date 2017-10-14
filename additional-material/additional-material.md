@@ -17,3 +17,7 @@ This document provides information about how to revert a commit on the remote re
 ### [ Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository. 
 > Use this when you need to adjust a commit you made.
+
+### [Useful Links](Useful-links-for-further-learning.md)
+This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more. 
+
