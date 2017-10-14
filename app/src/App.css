@@ -14,6 +14,20 @@
 }
 
 .App-header > h1 {
-  padding-top: 10%;
   font-size: 2.5em;
+}
+
+#cf6_image {
+  margin:0 auto;
+  width:1200px;
+  height:500px;
+  transition: background-image 0.1s ease-out;
+  background-image:url("background.png");
+  background-color: #007EE5; 
+  
+}
+
+#cf6_image:hover {
+  background-image:url("think.png");
+  background-repeat: no-repeat;
 }

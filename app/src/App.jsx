@@ -8,15 +8,22 @@ import SocialShare from './components/SocialShare/SocialShare';
 class App extends Component {
   render() {
     return (
+      
       <div className="App">
+        <div id = "cf6_image" className = "shadow">
         <Navbar />
-        <div className="App-header">
+        </div>    
+        <div className="App-header"> 
           <h1>Make your first open source contribution in 5 minutes</h1>
+          <LinkButton />
         </div>
-        <LinkButton />
         <CardsContainer />
+   
         <SocialShare/>
+
+       
       </div>
+      
     );
   }
 }
