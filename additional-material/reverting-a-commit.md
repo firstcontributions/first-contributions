@@ -3,7 +3,7 @@
 To revert a commit simply means to create a brand new commit that undoes all 
 the changes made in a previous one. It is like doing a ```CTRL + Z ``` on git.
 
-Reversion is made easier in git because every commit you push to your remote repository has a unique alphanumeric key known as SHA(Source Hash Algorithm) tied to it it. 
+Reversion is made easier in git because every commit you push to your remote repository has a unique alphanumeric key known as SHA(Secure Hash Algorithm) tied to it. 
 So this means you can revert any commit as long as you have the SHA.
 But then, you have to be careful to reverse orderly so as not to mess your repository up.
 
@@ -12,7 +12,10 @@ To pick out the SHA of the specific commit we want to undo, a log of all the com
 To get this, we would run the command:
 ```git log --oneline ```
 Running the ```git log``` command alone would also give us the SHAs (in long form) 
-However using the ```--oneline ``` flag tells git that we want it displayed in a concise (oneline) manner for easy read.
+However using the ```--oneline ``` flag tells git that we want it displayed in a concise (one line) manner for easy read. 
+
+The first 7 characters displayed when you run this command is called the abbreviated commit hash.
+
 For example, here is what I get when I run ```git log --oneline ``` on this repository:
 ```
 389004d added spacing in title
