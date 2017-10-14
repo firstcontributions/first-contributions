@@ -694,6 +694,7 @@
 - [Santiago Martín Agra](http://github.com/santima10)
 - [Kamil Wojcicki](https://github.com/dsplabs)
 - [Dennis Truong](https://github.com/dt9)
+- [John Eddie Ayson](https://github.com/aysonje)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
 - [James Hobo](https://github.com/thignus)
@@ -711,3 +712,5 @@
 - [Martin Löffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
 - [Metas Kerdwat](https://github.com/oakkub)
+- [Katy Duncan](https://github.com/katyduncan)
+- [Yen Hoang Le](https://github.com/LeHoangYen)
