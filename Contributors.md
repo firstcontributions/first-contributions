@@ -695,3 +695,4 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Digenaldo Neto](https://github.com/digenaldo)
