@@ -7,8 +7,6 @@
 - [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
-- [Anish Duwal](https://github.com/duwalanise)
-- [Magnus Cardell](https://github.com/MagnusCardell)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
