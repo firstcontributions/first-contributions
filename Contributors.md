@@ -694,3 +694,4 @@
 - [Dennis Truong](https://github.com/dt9)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Alexey Salangin](https://github.com/Magauran)
+- [Brandon Lum](https://github.com/theheck1)
