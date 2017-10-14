@@ -711,6 +711,7 @@
 - [Non Intanon](https://github.com/nonintanon)
 - [Martin Löffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
+- [Siddharth Mahapatra](https://github.com/SiddharthMahapatra12)
 - [Metas Kerdwat](https://github.com/oakkub)
 - [Katy Duncan](https://github.com/katyduncan)
 - [Yen Hoang Le](https://github.com/LeHoangYen)
