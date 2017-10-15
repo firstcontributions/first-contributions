@@ -725,3 +725,7 @@
 - [Nate Denys](https://github.com/ndenys650)
 - [Dmitry Kudriavtsev](https://github.com/dkudriavtsev)
 - [Mark Freeman](https://github.com/Jac08H)
+- [Zac Cericola](https://github.com/zcericola)
+- [Fabio Serrao](https://github.com/Serrones)
+- [Simon W.] (https://github.com/b30bd351371c686298d32281b337e8e9)
+- [B Maynard](https://github.com/bmaynard87)
