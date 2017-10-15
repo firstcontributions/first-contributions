@@ -1,4 +1,4 @@
-- [Rohan Taneja](https://github.com/rohan20)
+﻿- [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 ﻿- [Manuka Maduranga](https://github.com/manukam)
 - [Pankaj Kumar Gautam](https://github.com/kd098)
@@ -731,3 +731,4 @@
 - [Simon W.] (https://github.com/b30bd351371c686298d32281b337e8e9)
 - [B Maynard](https://github.com/bmaynard87)
 - [Doug Allrich](https://github.com/185driver)
+- [Thayumaanavan C R](https://github.com/thayumaanavan)
