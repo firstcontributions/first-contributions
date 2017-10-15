@@ -718,6 +718,7 @@
 - [Shaun O'Connor](https://github.com/shaunoc09)
 - [Marek Dano](https://github.com/marekdano)
 - [Marcos Gómez](https://github.com/margobra8)
+- [Pronomita Dey](https://github.com/PronomitaDey)
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Yern Yee](https://github.com/YernYee)
 - [Min Hoo Lee](https://github.com/minhoolee)
