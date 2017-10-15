@@ -724,3 +724,4 @@
 - [Matic Zavadlal](https://github.com/maticzav)
 - [Nate Denys](https://github.com/ndenys650)
 - [Dmitry Kudriavtsev](https://github.com/dkudriavtsev)
+- [B Maynard](https://github.com/bmaynard87)
