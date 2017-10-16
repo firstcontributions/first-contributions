@@ -1,5 +1,5 @@
-﻿- [Rohan Taneja](https://github.com/rohan20)
 - Neha Upadhyay
+- [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 ﻿- [Manuka Maduranga](https://github.com/manukam)
 - [Pankaj Kumar Gautam](https://github.com/kd098)
@@ -733,4 +733,14 @@
 - [B Maynard](https://github.com/bmaynard87)
 - [Doug Allrich](https://github.com/185driver)
 - [Thayumaanavan C R](https://github.com/thayumaanavan)
-
+- [Kester Lotz](https://github.com/FoxyHutch)
+- [Maaike V R](https://github.com/MaaikeVR)
+- [Sarthak Thakur](https://github.com/sarthakthakur24)
+- [Wathin Sonnukij](https://github.com/iamwee)
+- [Piotr Zawadzki](https://github.com/zaramid)
+- [Gary Dhillon] (https://github.com/gary-dhillon)
+- [Robat Das Orvi] (https://github.com/orvi2014)
+- [Allysa Fletcher] (https://github.com/alldanfin)
+- [NVS ABHISHEK](https://github.com/NVS16)
+- [Frank Schiller](https://github.com/frankles12)
+- [Darren Potter](https://github.com/darpots)
