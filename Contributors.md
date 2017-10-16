@@ -732,6 +732,7 @@
 - [B Maynard](https://github.com/bmaynard87)
 - [Doug Allrich](https://github.com/185driver)
 - [Thayumaanavan C R](https://github.com/thayumaanavan)
+- [Maaike V R](https://github.com/MaaikeVR)
 - [Sarthak Thakur](https://github.com/sarthakthakur24)
 - [Wathin Sonnukij](https://github.com/iamwee)
 - [Piotr Zawadzki](https://github.com/zaramid)
