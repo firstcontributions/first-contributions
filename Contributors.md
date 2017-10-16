@@ -733,6 +733,7 @@
 - [B Maynard](https://github.com/bmaynard87)
 - [Doug Allrich](https://github.com/185driver)
 - [Thayumaanavan C R](https://github.com/thayumaanavan)
+- [Batbayar S](https://github.com/batbayar-su)
 - [Kester Lotz](https://github.com/FoxyHutch)
 - [Maaike V R](https://github.com/MaaikeVR)
 - [Sarthak Thakur](https://github.com/sarthakthakur24)
