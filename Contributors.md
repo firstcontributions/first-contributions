@@ -758,3 +758,4 @@
 - [Valeriia Kolesnyk](https://github.com/xvaleriex)
 - [Reynaldo Wijaya Hendry] (https://github.com/rwhendry)
 - [Josef] (https://github.com/josef9283)
+- [Jose Almaraz](https://github.com/lazaruspolar)
