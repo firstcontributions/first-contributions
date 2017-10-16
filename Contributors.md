@@ -745,3 +745,4 @@
 - [NVS ABHISHEK](https://github.com/NVS16)
 - [Frank Schiller](https://github.com/frankles12)
 - [Darren Potter](https://github.com/darpots)
+- [Filip Vrlak](https://github.com/fvrlak)
