@@ -732,6 +732,7 @@
 - [B Maynard](https://github.com/bmaynard87)
 - [Doug Allrich](https://github.com/185driver)
 - [Thayumaanavan C R](https://github.com/thayumaanavan)
+- [Allysa Fletcher] (https://github.com/alldanfin)
 - [NVS ABHISHEK](https://github.com/NVS16)
 - [Frank Schiller](https://github.com/frankles12)
 - [Darren Potter](https://github.com/darpots)
