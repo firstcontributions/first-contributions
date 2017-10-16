@@ -747,3 +747,4 @@
 - [Darren Potter](https://github.com/darpots)
 - [Kevin McLoughlin](https://github.com/trustyknave)
 - [Filip Vrlak](https://github.com/fvrlak)
+- [Jing Rong Lim](https://github.com/jjingrong)
