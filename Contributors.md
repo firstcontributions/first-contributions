@@ -1,3 +1,4 @@
+- [jaro36](https://github.com/jaro36/)
 - drac00l (https://github.com/drac00l)
 - Neha Upadhyay
 - [Rohan Taneja](https://github.com/rohan20)
