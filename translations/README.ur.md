@@ -4,7 +4,6 @@
 # <div dir="rtl">پہلی شراکت</div>
 
 <div dir="rtl">
-
 یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
 <br />
 مضامین پڑھنے اور سبق دیکھنے سے مدد مل سکتی ہے، لیکن چیزوں میں الجھے بغیر کسی کام کو اصل میں کرنا کتنا بہتر ہے؟ اس پروجیکٹ کا مقصد رہنمائی فراہم کرنا اور نئے شرکت کرنے والے لوگوں کے راستے کو آسان بنانا ہے. یاد رکھیں: آپ جتنا پرسکوں ہوں گے، آپ اتنا بہتر سیکھیں گے. اگر آپ اپنا پہلا اشتراک کرنا چاہتے ہیں، تو ذیل میں دیے گئے سادہ مراحل پر عمل کریں. ہم آپ سے وعدہ کرتے ہیں، یہ قابل لطف ہوں گے.
@@ -38,13 +37,13 @@
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
 ```
-git clone "url you just copied"
+git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 ```
 <div dir="rtl">
 جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
-<img style="float: left;" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img style="float: left;" width="300" src="assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 
 <div dir="rtl">مثال کے طور پر:</div>
 ```
@@ -68,55 +67,59 @@ git checkout -b <add-your-name>
 ```
 git checkout -b add-alonzo-church
 ```
-<div dir="rtl"> (شاخ کا نام میں ضروری نہیں "add" شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.)</div>
+<div dir="rtl"> (شاخ کا نام میں ضروری نہیں *add* شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
-## Make necessary changes and commit those changes
+## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+<div dir="rtl">
+اب `Contributors.md` فائل کو ٹیکسٹ ایڈیٹر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ `git status` کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں `git add` کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+</div>
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+<div dir="rtl"> اب `git commit` کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کا سونپ دیں: </div>
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+<div dir="rtl"> `<your-name>` کو اپنے نام کے ساتھ تبدیل کردیں. </div>
 
-## Push changes to GitHub
+## <div dir="rtl"> ان تبدیلیوں کو GitHub پردهکیل دیں۔ </div>
 
-Push your changes using the command `git push`:
+<div dir="rtl"> `git push` کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
 ```
 git push origin <add-your-name>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+<div dir="rtl"> `<add-your-name>` کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
-## Submit your changes for review
+## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+<div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو `Compare & pull request` دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: left;" src="assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
-Now submit the pull request.
+<div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="assets/submit-pull.png" alt="پل درخواست جمع کروائیں" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
-### [ Additional material ](additional-material/additional-material.md)
+### <div dir="rtl"> [ اضافی مواد ](additional-material/additional-material.md) </div>
 
-## Tutorials Using Other Tools
+## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Where to go from here?
+## <div dir="rtl"> یہاں سے کہاں جایا جائے؟ </div>
 
-You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
-
-Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
+<div dir="rtl">
+آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں. [سلیک ٹیم میں شمولیت اختیار کریں۔](https://firstcontributions.herokuapp.com) </div>
+<br />
+<div dir="rtl">
+ادھر آپ چند مقبول ذخیروں میں کچھ ابتدائی سطح کے مسائل حل کر سکتے ہیں. آگے بڑھیے اور مزید جاننے کے لئے ان ذخیروں پر جائیے۔ </div>
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
