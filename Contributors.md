@@ -1,5 +1,6 @@
 - drac00l (https://github.com/drac00l)
 - Neha Upadhyay
+- [KidSunday] (https://github.com/KidSunday)
 - [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 ﻿- [Manuka Maduranga](https://github.com/manukam)
