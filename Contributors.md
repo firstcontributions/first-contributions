@@ -752,4 +752,5 @@
 - [Udit Mittal](https://github.com/udit-001)
 - [Yugasnh Tyagi](https://github.com/YuganshT79)
 - [Teo Liang wei](https://github.com/liangwei93)
+- [Karthik Murugesan](https://github.com/karthikmuru)
 
