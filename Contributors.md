@@ -790,4 +790,4 @@
 - [Mohamed Gomaa](https://github.com/mrgomaa)
 - [James Lave](https://github.com/jameslave)
 - [Rovaron](https://github.com/Rovaron)
-
+- [Augusto Queiroz](https://github.com/AugustoQueiroz)
