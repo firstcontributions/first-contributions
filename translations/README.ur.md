@@ -1,7 +1,10 @@
+<div dir="rtl">
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+</div>
 
-# <div dir="rtl">پہلی شراکت</div>
+# <div dir="rtl"> پہلی شراکت </div>
 
 <div dir="rtl">
 یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
@@ -12,10 +15,7 @@
 
 <img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
 
-<div dir="rtl">
-[دیگر زبانوں](translations/README.id.md)
-* میں یہ پڑھیں: [Indonesian](translations/README.id.md).*
-</div>
+#### <div dir="rtl">*میں یہ پڑھیں [دیگر زبانوں](LANGUAGES.md)* </div>
 
 <div dir="rtl">
 اگر آپ کی مشین پر گٹ نہیں ہے تو، [ انسٹال کریں ]( https://help.github.com/articles/set-up-git/ ).
@@ -37,9 +37,11 @@
 <br />
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
+
 ```
 git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 ```
+
 <div dir="rtl">
 جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
@@ -47,9 +49,11 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 
 <div dir="rtl">مثال کے طور پر:</div>
+
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+
 <div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
 ## <div dir="rtl"> ایک شاخ بنائیں </div>
@@ -59,15 +63,19 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 cd first-contributions
 ```
+
 <div dir="rtl"> اب `git checkout`  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
+
 ```
 git checkout -b <add-your-name>
 ```
 
 <div dir="rtl">مثال کے طور پر:</div>
+
 ```
 git checkout -b add-alonzo-church
 ```
+
 <div dir="rtl"> (شاخ کا نام میں ضروری نہیں *add* شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
 ## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
@@ -75,22 +83,27 @@ git checkout -b add-alonzo-church
 <div dir="rtl">
 اب `Contributors.md` فائل کو ٹیکسٹ ایڈیٹر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ `git status` کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں `git add` کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
 </div>
+
 ```
 git add Contributors.md
 ```
 
 <div dir="rtl"> اب `git commit` کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کا سونپ دیں: </div>
+
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+
 <div dir="rtl"> `<your-name>` کو اپنے نام کے ساتھ تبدیل کردیں. </div>
 
 ## <div dir="rtl"> ان تبدیلیوں کو GitHub پردهکیل دیں۔ </div>
 
 <div dir="rtl"> `git push` کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
+
 ```
 git push origin <add-your-name>
 ```
+
 <div dir="rtl"> `<add-your-name>` کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
 ## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
