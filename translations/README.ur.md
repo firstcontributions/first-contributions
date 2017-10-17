@@ -1,7 +1,5 @@
 <div dir="rtl">
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://firstcontributions.herokuapp.com"><img align="left" src="https://firstcontributions.herokuapp.com/badge.svg"></a>
 </div>
 
 # <div dir="rtl"> پہلی شراکت </div>
@@ -9,32 +7,37 @@
 <div dir="rtl">
 یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
 </div>
+<br />
 <div dir="rtl">
 مضامین پڑھنے اور سبق دیکھنے سے مدد مل سکتی ہے، لیکن چیزوں میں الجھے بغیر کسی کام کو اصل میں کرنا کتنا بہتر ہے؟ اس پروجیکٹ کا مقصد رہنمائی فراہم کرنا اور نئے شرکت کرنے والے لوگوں کے راستے کو آسان بنانا ہے. یاد رکھیں: آپ جتنا پرسکوں ہوں گے، آپ اتنا بہتر سیکھیں گے. اگر آپ اپنا پہلا اشتراک کرنا چاہتے ہیں، تو ذیل میں دیے گئے سادہ مراحل پر عمل کریں. ہم آپ سے وعدہ کرتے ہیں، یہ قابل لطف ہوں گے.
 </div>
 
-<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
+#### <div dir="rtl">*  [ دیگر زبانوں ](LANGUAGES.md) میں یہ پڑھیں* </div>
 
-#### <div dir="rtl">*میں یہ پڑھیں [دیگر زبانوں](LANGUAGES.md)* </div>
-
-<div dir="rtl">
-اگر آپ کی مشین پر گٹ نہیں ہے تو، [ انسٹال کریں ]( https://help.github.com/articles/set-up-git/ ).
+<div dir="rtl"> 
+اگر آپ کی مشین پر گٹ نہیں ہے تو،
+<a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
 ## <div dir="rtl"> اس گودام کوفورک کریں </div>
 <div dir="rtl">
 اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
+<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>
 
 ## <div dir="rtl"> ذخیرے کا کلون کجیے </div>
 
-<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
-
 <div dir="rtl">
-اب آپ اپنی مشین پر یہ ریپو کلون کریں. کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
-<br />
+اب آپ اپنی مشین پر یہ ریپو کلون کریں.
+</div>
+<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
+<div dir="rtl">
+ کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
+</div>
+<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
+<div dir="rtl">
 ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
 </div>
 
@@ -46,8 +49,6 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
-<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
-
 <div dir="rtl">مثال کے طور پر:</div>
 
 ```
@@ -58,13 +59,13 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 ## <div dir="rtl"> ایک شاخ بنائیں </div>
 
-<div dir="rtl"> )اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں )اگرآپ پہلے سے وہاں نہیں ہیں: </div>
+<div dir="rtl"> اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> اب `git checkout`  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
+<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
 
 ```
 git checkout -b <add-your-name>
@@ -76,39 +77,39 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-<div dir="rtl"> (شاخ کا نام میں ضروری نہیں *add* شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
+<div dir="rtl"> (شاخ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
 ## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
 
 <div dir="rtl">
-اب `Contributors.md` فائل کو ٹیکسٹ ایڈیٹر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ `git status` کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں `git add` کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
 </div>
 
 ```
 git add Contributors.md
 ```
 
-<div dir="rtl"> اب `git commit` کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کا سونپ دیں: </div>
+<div dir="rtl"> اب <code>git commit</code> کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کو سونپ دیں: </div>
 
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
 
-<div dir="rtl"> `<your-name>` کو اپنے نام کے ساتھ تبدیل کردیں. </div>
+<div dir="rtl"> <code>&lt;your-name&gt;</code> کو اپنے نام کے ساتھ تبدیل کردیں. </div>
 
 ## <div dir="rtl"> ان تبدیلیوں کو GitHub پردهکیل دیں۔ </div>
 
-<div dir="rtl"> `git push` کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
+<div dir="rtl"> <code>git push</code> کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
 
 ```
 git push origin <add-your-name>
 ```
 
-<div dir="rtl"> `<add-your-name>` کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
+<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
 ## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
-<div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو `Compare & pull request` دیکھائ دے گا. اس بٹن کو دبائیں. </div>
+<div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
@@ -129,11 +130,15 @@ git push origin <add-your-name>
 
 ## <div dir="rtl"> یہاں سے کہاں جایا جائے؟ </div>
 
-<div dir="rtl">
-آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں. [سلیک ٹیم میں شمولیت اختیار کریں۔](https://firstcontributions.herokuapp.com) </div>
+<div dir="rtl"> 
+  آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں.
+<a href="https://firstcontributions.herokuapp.com">سلیک ٹیم میں شمولیت اختیار کریں۔</a>
+</div>
 <br />
 <div dir="rtl">
-ادھر آپ چند مقبول ذخیروں میں کچھ ابتدائی سطح کے مسائل حل کر سکتے ہیں. آگے بڑھیے اور مزید جاننے کے لئے ان ذخیروں پر جائیے۔ </div>
+ادھر آپ چند مقبول ذخیروں میں کچھ ابتدائی سطح کے مسائل حل کر سکتے ہیں. آگے بڑھیے اور مزید جاننے کے لئے ان ذخیروں پر جائیے۔ 
+</div>
+<br />
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
