@@ -2,6 +2,7 @@
 - [DevMaterial] (https://github.com/DevMaterial)
 - drac00l (https://github.com/drac00l)
 - Neha Upadhyay
+- [HeavyVin 👓](https://github.com/HeavyVin)
 - [KidSunday](https://github.com/KidSunday)
 - [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
