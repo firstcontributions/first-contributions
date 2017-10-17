@@ -782,5 +782,6 @@
 - [Juli Cheng](https://github.com/julicheng)
 - [odzeno](https://github.com/odzeno)
 - [Titowisk](https://github.com/Titowisk)
+- [Noel-bk](https://github.com/Noel-bk)
 - [daannxz](https://github.com/daannxz)
 
