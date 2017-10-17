@@ -5,15 +5,19 @@
 
 <div dir="rtl">
 یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
-<br />
+
+<br>
+
 مضامین پڑھنے اور سبق دیکھنے سے مدد مل سکتی ہے، لیکن چیزوں میں الجھے بغیر کسی کام کو اصل میں کرنا کتنا بہتر ہے؟ اس پروجیکٹ کا مقصد رہنمائی فراہم کرنا اور نئے شرکت کرنے والے لوگوں کے راستے کو آسان بنانا ہے. یاد رکھیں: آپ جتنا پرسکوں ہوں گے، آپ اتنا بہتر سیکھیں گے. اگر آپ اپنا پہلا اشتراک کرنا چاہتے ہیں، تو ذیل میں دیے گئے سادہ مراحل پر عمل کریں. ہم آپ سے وعدہ کرتے ہیں، یہ قابل لطف ہوں گے.
-<br />
+
+<br>
 </div>
 
-<img style="float: left" width="300" src="assets/fork.png" alt="اس گودام کوفورک کریں" />
+<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
 
 <div dir="rtl">
-*دیگر زبانوں میں یہ پڑھیں: [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md), [Português/Brasil](translations/README.pt_br.md), [Italian](translations/README.it.md), [ภาษาไทย](translations/README.th.md) and [Galician](translations/README.gl.md).*
+[دیگر زبانوں](translations/README.id.md)
+* میں یہ پڑھیں: [Indonesian](translations/README.id.md).*
 </div>
 
 <div dir="rtl">
@@ -29,7 +33,7 @@
 
 ## <div dir="rtl"> ذخیرے کا کلون کجیے </div>
 
-<img style="float: left;" width="300" src="assets/clone.png" alt="ذخیرے کا کلون کجیے" />
+<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
 
 <div dir="rtl">
 اب آپ اپنی مشین پر یہ ریپو کلون کریں. کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
@@ -43,7 +47,7 @@ git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
 </div>
 
-<img style="float: left;" width="300" src="assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
+<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 
 <div dir="rtl">مثال کے طور پر:</div>
 ```
@@ -96,11 +100,11 @@ git push origin <add-your-name>
 
 <div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو `Compare & pull request` دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
-<img style="float: left;" src="assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
+<img style="float: left;" src="../assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
 <div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-<img style="float: left;" src="assets/submit-pull.png" alt="پل درخواست جمع کروائیں" />
+<img style="float: left;" src="../assets/submit-pull.png" alt="پل درخواست جمع کروائیں" />
 
 <div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
@@ -109,7 +113,7 @@ git push origin <add-your-name>
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
