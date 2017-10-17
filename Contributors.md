@@ -788,4 +788,6 @@
 - [Fahim](https://github.com/faahim)
 - [luisslanca](https://github.com/luisslanca)
 - [Mohamed Gomaa](https://github.com/mrgomaa)
+- [James Lave](https://github.com/jameslave)
+- [Rovaron](https://github.com/Rovaron)
 
