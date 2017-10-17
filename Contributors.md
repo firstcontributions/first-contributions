@@ -780,3 +780,6 @@
 - [divijsingh(https://github.com/divijsingh)
 - [nerfox22](https://github.com/nerfox22)
 - [Juli Cheng](https://github.com/julicheng)
+- [odzeno](https://github.com/odzeno)
+- [Titowisk](https://github.com/Titowisk)
+
