@@ -8,6 +8,7 @@
 - [Björn Hjorth](https://github.com/Kaffesumpen)
 - [HeavyVin 👓](https://github.com/HeavyVin)
 - [KidSunday](https://github.com/KidSunday)
+- [Nishant Rodrigues](https://github.com/nishnash54)
 - [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 - [Manuka Maduranga](https://github.com/manukam)
