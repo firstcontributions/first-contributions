@@ -779,5 +779,6 @@
 - [PvcPre](https://github.com/pvcpre)
 - [divijsingh(https://github.com/divijsingh)
 - [nerfox22](https://github.com/nerfox22)
+- [odzeno](https://github.com/odzeno)
 - [Titowisk](https://github.com/Titowisk)
 
