@@ -4,6 +4,8 @@
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
 - [Neha Upadhyay]
+- [jaro36](https://github.com/jaro36/)
+- [Björn Hjorth](https://github.com/Kaffesumpen)
 - [HeavyVin 👓](https://github.com/HeavyVin)
 - [KidSunday](https://github.com/KidSunday)
 - [Rohan Taneja](https://github.com/rohan20)
@@ -775,3 +777,4 @@
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
 - [PvcPre](https://github.com/pvcpre)
+- [divijsingh(https://github.com/divijsingh)
