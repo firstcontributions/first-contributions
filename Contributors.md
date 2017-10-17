@@ -762,6 +762,7 @@
 - [Josef](https://github.com/josef9283)
 - [Reynaldo Wijaya Hendry] (https://github.com/rwhendry)
 - [Josef] (https://github.com/josef9283)
+- [Jose Almaraz](https://github.com/lazaruspolar)
 - [Celio Paiva](https://github.com/cjuniorr)
 - [Bogdan Manole](https://github.com/BogdanManole)
 - [Mridul tuteja] (https://github.com/mridultuteja)
