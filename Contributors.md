@@ -1,3 +1,5 @@
+﻿- girlzap (https://github.com/girlzap)
+- [DevMaterial] (https://github.com/DevMaterial)
 - drac00l (https://github.com/drac00l)
 - Neha Upadhyay
 - [KidSunday] (https://github.com/KidSunday)
@@ -759,3 +761,4 @@
 - [Reynaldo Wijaya Hendry] (https://github.com/rwhendry)
 - [Josef] (https://github.com/josef9283)
 - [Mridul tuteja] (https://github.com/mridultuteja)
+- [Thadeu Cotts] (https://github.com/cotts)
