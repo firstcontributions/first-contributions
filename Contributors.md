@@ -2,7 +2,7 @@
 - [DevMaterial] (https://github.com/DevMaterial)
 - drac00l (https://github.com/drac00l)
 - Neha Upadhyay
-- [KidSunday] (https://github.com/KidSunday)
+- [KidSunday](https://github.com/KidSunday)
 - [Rohan Taneja](https://github.com/rohan20)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 ﻿- [Manuka Maduranga](https://github.com/manukam)
@@ -758,6 +758,8 @@
 - [Karthik Murugesan](https://github.com/karthikmuru)
 - [TheHungryBu](https://github.com/TheHungryBu)
 - [Valeriia Kolesnyk](https://github.com/xvaleriex)
+- [Reynaldo Wijaya Hendry](https://github.com/rwhendry)
+- [Josef](https://github.com/josef9283)
 - [Reynaldo Wijaya Hendry] (https://github.com/rwhendry)
 - [Josef] (https://github.com/josef9283)
 - [Mridul tuteja] (https://github.com/mridultuteja)
