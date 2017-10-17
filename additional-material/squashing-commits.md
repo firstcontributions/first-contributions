@@ -25,7 +25,7 @@ Date:   10/10/20
     Commit message 2
 ```
 
-So now that you see the commits you wish to merge to one, we can move along into doing that with git rebase. Assuming you're already familiar with git rebase, we can starting squashing commits in the interactive mode of git rebase that you can activate like so:
+So now that you see the commits you wish to merge to one, we can move along into doing that with ```git rebase```. Assuming you're already familiar with ```git rebase```, we can starting squashing commits in the interactive mode of git rebase that you can activate like so:
 
 ```
 git rebase -i 
@@ -61,7 +61,7 @@ pick blablabla2 Adding dummy01.txt file
 # Note that empty commits are commented out
 ```
 
-So if you want to squash blablabla2 into blablablabla, you would change the following :
+So if you want to squash ```blablabla2``` into ```blablablabla```, you would change the following :
 
 ```
 pick blablabla Changing test01.txt file
@@ -79,7 +79,6 @@ commit message 1
 # This is the 2nd commit message:
 
 commit message 2
-
 ```
 
 That you can freely change before you decide to exit the editor to save these changes.
