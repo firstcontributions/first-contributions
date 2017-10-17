@@ -781,4 +781,5 @@
 - [nerfox22](https://github.com/nerfox22)
 - [odzeno](https://github.com/odzeno)
 - [Titowisk](https://github.com/Titowisk)
+- [daannxz](https://github.com/daannxz)
 
