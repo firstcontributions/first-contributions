@@ -23,3 +23,6 @@
 | 🇮🇹 Italy | [Italian](translations/README.it.md)
 | 🇹🇭 Thailand | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 Galicia | [Galician](translations/README.gl.md) |
+| 🇵🇰 Pakistan | [Urdu](translations/README.ur.md) |
+
+
