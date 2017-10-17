@@ -764,6 +764,7 @@
 - [Karthik Murugesan](https://github.com/karthikmuru)
 - [TheHungryBu](https://github.com/TheHungryBu)
 - [Valeriia Kolesnyk](https://github.com/xvaleriex)
+- [Rakesh Bal](https://github.com/rakeshbal99)
 - [Reynaldo Wijaya Hendry](https://github.com/rwhendry)
 - [Josef](https://github.com/josef9283)
 - [Reynaldo Wijaya Hendry](https://github.com/rwhendry)
