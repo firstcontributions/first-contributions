@@ -140,7 +140,7 @@ git push origin master
 origin 이라 명명된 원격으로 푸시하고 있는 것에 주목하세요.
 
 
-### [ 추가 정보 ](../additional-material/additional-material.ko.md)
+### [ 추가 정보 ](../additional-material/translations/additional-material.ko.md)
 
 ## 자습서 다른 도구 사용
 
