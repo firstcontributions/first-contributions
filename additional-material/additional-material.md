@@ -26,6 +26,10 @@ This document provides information about how to undo a commit on your local repo
 This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
+### [ Configuring git ](configuring-git.md)
+This document provides information about how to configure user details and other options in git.
+> Use this to better control your git configurations.
+
 ### [Useful Links](Useful-links-for-further-learning.md)
 This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more. 
 
