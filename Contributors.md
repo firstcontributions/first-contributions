@@ -1,4 +1,6 @@
-﻿- [Jithu R Jacob 🤓](https://github.com/jithurjacob) 
+- [Lewis Shaw](https://github.com/iRuisu)
+- [Bao Tran](https://github.com/cyborg103)
+- [Jithu R Jacob 🤓](https://github.com/jithurjacob)
 - [gipsi](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
@@ -793,3 +795,5 @@
 - [Rovaron](https://github.com/Rovaron)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
 - [Brianna Florio](https://github.com/Bflorio14)
+- [Joe Wilson] (https://github.com/jaw0608)
+- [Paul Chabot](https://github.com/paulch4bot)
