@@ -1,4 +1,4 @@
-- [Jithu R Jacob 🤓](https://github.com/jithurjacob)
+﻿- [Jithu R Jacob 🤓](https://github.com/jithurjacob)
 - [gipsi](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
@@ -792,3 +792,4 @@
 - [James Lave](https://github.com/jameslave)
 - [Rovaron](https://github.com/Rovaron)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
+- [Brianna Florio] (https://github.com/Bflorio14)
