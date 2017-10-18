@@ -4,12 +4,18 @@ What if you commit a change, and then realize that you commited to a different b
 How can you change that? This is what this tutorial covers.
 
 ### Moving the lastest commits to an existing Branch 
-To do this, type:  
-```git checkout existingbranch```  
-```git merge master```  
-```git checkout master```  
-```git reset --hard HEAD~#``` - Move master back by # commits. Remember, this commits will be gone from master
-```git checkout existingbranch```
+To do this, type:
+
+```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
+```git stash```  
+
+```git checkout name-of-the-correct-branch``` - Moves previous changes to the correct branch  
+```git stash pop```  
+```git add .``` - Or try adding individual files  
+```git commit -m "your message here"```  
+
+Now your changes are on the correct branch
+
 
 ### Moving the lastest commits to a new Branch 
 To do this, type:  
