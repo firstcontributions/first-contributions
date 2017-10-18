@@ -51,6 +51,7 @@
 - [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
 - [Jake Frn](https://github.com/jakefrn)
+- [Napat](https://github.com/napatwongchr)
 - [Eric Audran](https://github.com/Nevosis)
 - [Silvino Vieiew](https://github.com/silvinovieira)
 - [Michael Isprihanto](https://github.com/michaelisprihanto)
