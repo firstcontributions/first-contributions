@@ -1,4 +1,5 @@
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
+- [Ashutosh Singh](https://github.com/ashubly25)
 - [gipsi](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
@@ -787,4 +788,3 @@
 - [daannxz](https://github.com/daannxz)
 - [Fahim](https://github.com/faahim)
 - [luisslanca](https://github.com/luisslanca)
-
