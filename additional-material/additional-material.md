@@ -29,3 +29,6 @@ This document provides information about how to resolve merge conflicts.
 ### [Useful Links](Useful-links-for-further-learning.md)
 This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more. 
 
+### [ Squashing Commits ](squashing-commits.md)
+This document provides information about how to squash commits with an interactive rebase.
+> Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
