@@ -1,3 +1,4 @@
+- [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
 - [gipsi](https://github.com/gipsi)
