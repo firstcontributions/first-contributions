@@ -797,3 +797,4 @@
 - [Brianna Florio](https://github.com/Bflorio14)
 - [Joe Wilson] (https://github.com/jaw0608)
 - [Paul Chabot](https://github.com/paulch4bot)
+- [Tim Guenthner](https://github.com/aerotog)
