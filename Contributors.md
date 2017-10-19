@@ -1,4 +1,4 @@
-﻿- [Oliver Miller](https://github.com/Oliver-H-Miller)
+- [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
@@ -834,5 +834,8 @@
 - [Uğur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
+- [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
 - [Daniel Benton] (https://github.com/dbenton2)
+- [Cesar Omar](https://github.com/wasa4587)
+-  dtk https://github.com/dtk0528
