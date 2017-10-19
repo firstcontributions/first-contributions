@@ -832,4 +832,5 @@
 - [avcoder](https://github.com/avcoder)
 - [Gowtham R](https://github.com/gowtham1997)
 - [Uğur Atmaca](https://github.com/uguratmaca)
+- [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
