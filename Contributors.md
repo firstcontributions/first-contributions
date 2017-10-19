@@ -7,6 +7,7 @@
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
+- [Jonathan Rinciari] (https://github.com/jonathanRinciari)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -821,6 +822,7 @@
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
 - [Jim Plourde](https://github.com/giant995/first-contributions)
+- [h4rdw0rk](https://github.com/h4rdw0rk/first-contributions)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Danny Lai](https://github.com/tocalai)
@@ -834,8 +836,11 @@
 - [Uğur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
+- [Matthew Dray](https://github.com/17robots)
 - [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
 - [Gilad Bar](https://github.com/GomuGilad6)
+- [Daniel Benton] (https://github.com/dbenton2)
 - [Cesar Omar](https://github.com/wasa4587)
 -  dtk https://github.com/dtk0528
+- [WanWan](https://github.com/lf2com)
