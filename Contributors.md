@@ -834,4 +834,5 @@
 - [Uğur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
+- [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
