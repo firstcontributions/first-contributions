@@ -806,6 +806,7 @@
 - [Anastasios (Tasos) Beis](https://github.com/abeis)
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
+- [Ivan Shen](https://github.com/ivanshen)
 - [Jonathan Arredondo](https://github.com/angelyonas)
 - [handrezescobar94](https://github.com/handrezescobar94)
 - [Ariel Blasi](https://github.com/LiteSoul)
