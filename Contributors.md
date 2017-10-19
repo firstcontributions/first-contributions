@@ -807,3 +807,5 @@
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
+- [daniel-enriquez](https://github.com/daniel-enriquez)
+- [Luke Taylor](https://github.com/Luke-Taylor)
