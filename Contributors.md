@@ -823,4 +823,5 @@
 - [Jim Plourde](https://github.com/giant995/first-contributions)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
+- [Danny Lai](https://github.com/tocalai)
 - [Tu Szu Chi](https://github.com/Tu-Szu-Chi)
