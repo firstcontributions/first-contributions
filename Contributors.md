@@ -821,3 +821,4 @@
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
 - [Jim Plourde](https://github.com/giant995/first-contributions)
+- [James Francis](https://github.com/greengory)
