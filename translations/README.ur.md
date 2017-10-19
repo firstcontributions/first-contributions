@@ -1,104 +1,144 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+<div dir="rtl">
+<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://firstcontributions.herokuapp.com"><img align="left" src="https://firstcontributions.herokuapp.com/badge.svg"></a>
+</div>
 
-# Primeiras Contribuições
+# <div dir="rtl"> پہلی شراکت </div>
 
-É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
+<div dir="rtl">
+یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
+</div>
+<br />
+<div dir="rtl">
+مضامین پڑھنے اور سبق دیکھنے سے مدد مل سکتی ہے، لیکن چیزوں میں الجھے بغیر کسی کام کو اصل میں کرنا کتنا بہتر ہے؟ اس پروجیکٹ کا مقصد رہنمائی فراہم کرنا اور نئے شرکت کرنے والے لوگوں کے راستے کو آسان بنانا ہے. یاد رکھیں: آپ جتنا پرسکوں ہوں گے، آپ اتنا بہتر سیکھیں گے. اگر آپ اپنا پہلا اشتراک کرنا چاہتے ہیں، تو ذیل میں دیے گئے سادہ مراحل پر عمل کریں. ہم آپ سے وعدہ کرتے ہیں، یہ قابل لطف ہوں گے.
+</div>
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+#### <div dir="rtl">*  [ دیگر زبانوں ](LANGUAGES.md) میں یہ پڑھیں* </div>
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
+<div dir="rtl"> 
+اگر آپ کی مشین پر گٹ نہیں ہے تو،
+<a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
+</div>
 
-Se não possui o git em sua máquina, [instale aqui]( https://help.github.com/articles/set-up-git/ ).
+## <div dir="rtl"> اس گودام کوفورک کریں </div>
+<div dir="rtl">
+اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
+<img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
+<br />
+یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
+</div>
 
-## Faça um Fork deste repositório
+## <div dir="rtl"> ذخیرے کا کلون کجیے </div>
 
-Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar uma cópia deste repositório na sua conta.
+<div dir="rtl">
+اب آپ اپنی مشین پر یہ ریپو کلون کریں.
+</div>
+<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
+<div dir="rtl">
+ کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
+</div>
+<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
+<div dir="rtl">
+ایک ٹرمینل کھولیں اور مندرجہ ذیل گٹ کمانڈ چلائیں:
+</div>
 
-## Clone o repositório
-
-<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositório" />
-
-Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
-
-Abra o seu terminal e execute o seguinte comando do git:
 ```
-git clone "url que copiou"
+git clone "یو آر ایل جو آپنے ابھی کاپی کی"
 ```
-onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL" />
+<div dir="rtl">
+جہاں "یو آر ایل آپ نے کاپی کیا ہے" (اقتباس کے نشانات " " کے بغیر) اس ذخیرہ کرنے کے لئے یو آر ایل ہے. یو آر ایل حاصل کرنے کیلئے پچھلے مرحلے کو دیکھیں.
+</div>
 
-Por exemplo:
+<div dir="rtl">مثال کے طور پر:</div>
+
 ```
-git clone https://github.com/este-eh-voce/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
-onde "este-eh-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
-## Crie um Branch
+<div dir="rtl">اس میں 'this-is-you' آپکا GitHub یوزرنیم ہے۔ یہاں آپ first-contributions GitHub گودام کے  مندرجات کمپیوٹر پر نقل کر رہے ہیں.</div>
 
-Vá para o diretório do repositório no seu computador (caso você não esteja lá):
+## <div dir="rtl"> ایک شاخ بنائیں </div>
+
+<div dir="rtl"> اپنے کمپیوٹر پر ذخیرہ کرنے والی ڈائرکٹری میں تبدیل کریں (اگرآپ پہلے سے وہاں نہیں ہیں): </div>
+
 ```
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`:
+<div dir="rtl"> اب <code>git checkout</code>  کمانڈاستعمال کرتے ہوئے ایک شاخ تشکیل دیں : </div>
+
 ```
-git checkout -b <add-seu-nome>
+git checkout -b <add-your-name>
 ```
 
-Por exemplo:
+<div dir="rtl">مثال کے طور پر:</div>
+
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
-## Efetue as alterações necessárias e faça um Commit
+<div dir="rtl"> (شاخ کا نام میں ضروری نہیں <i>add</i> شامل کریں، لیکن یہ مناسب ہے کہ اس میں یہ شامل ہو، کیونکہ اس شاخ کا مقصد آپ کے نام کو فہرست میں شامل کرنا ہے.) </div>
 
-Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+## <div dir="rtl"> ضروری تبد یلیاں کریں اور ان تبد یلیوں کو انجام دیں۔ </div>
+
+<div dir="rtl">
+اب <code>Contributors.md</code> فائل کو ٹیکسٹ ایڈیٹر پر کھولیں، اپنا نام اس میں شامل کریں، اور پھر فائل کو محفوظ کریں. اگر آپ پراجیکٹ ڈائرکٹری میں جاتے ہیں اور کمانڈ <code>git status</code> کو چلاتے ہیں، تو آپ دیکھیں گے کہ تبدیلیاں موجود ہیں. ان تبدیلیوں کو اس شاخ میں شامل کریں <code>git add</code> کمانڈ استعمال کرتے ہوے، جسے ابھی آپنے بنایا تھا۔ :
+</div>
+
 ```
 git add Contributors.md
 ```
-Agora faça um Commit dessas alterações utilizando o comando `git commit`:
+
+<div dir="rtl"> اب <code>git commit</code> کمانڈ کا استعمال کرتے ہوئے ان تبدیلیوں کو سونپ دیں: </div>
+
 ```
-git commit -m "Add <seu-nome> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
-preenchendo `<seu-nome>` com o seu nome.
 
-## Faça um Push das alterações para o GitHub
+<div dir="rtl"> <code>&lt;your-name&gt;</code> کو اپنے نام کے ساتھ تبدیل کردیں. </div>
 
-Faça um Push utilizando o comando `git push`:
+## <div dir="rtl"> ان تبدیلیوں کو GitHub پردهکیل دیں۔ </div>
+
+<div dir="rtl"> <code>git push</code> کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
+
 ```
-git push origin <add-seu-nome>
+git push origin <add-your-name>
 ```
-substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
-## Envie suas alterações para serem revisadas
+<div dir="rtl"> <code>&lt;add-your-name&gt;</code> کو شاخ کے نام کے ساتھ بدل دیں، جسے آپ نے پہلے بنایا تھا. </div>
 
-Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
+## <div dir="rtl">  اپنی تبدیلیوں کوجائزے کیلئے جمع کروائیں۔ </div>
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull e Request" />
+<div dir="rtl"> اگر آپ GitHub پر اپنے ذخیرے پر جاتے ہیں تو، آپ کو <code>Compare & pull request</code> دیکھائ دے گا. اس بٹن کو دبائیں. </div>
 
-Agora envie um Pull Request.
+<img style="float: left;" src="../assets/compare-and-pull.png" alt="ایک پل درخواست کریں" />
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
+<div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-Logo estarei mesclando as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+<img style="float: left;" src="../assets/submit-pull.png" alt="پل درخواست جمع کروائیں" />
 
-### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
+<div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
-## Tutoriais com outras ferramentas
+### <div dir="rtl"> [ اضافی مواد ](additional-material/additional-material.md) </div>
+
+## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../(github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Para onde ir a partir daqui?
+## <div dir="rtl"> یہاں سے کہاں جایا جائے؟ </div>
 
-Você tambem pode se juntar a nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se a nossa equipe no Slack](https://firstcontributions.herokuapp.com).
-
-Aqui estão alguns repositórios com Issues a nível de iniciante que você poderia resolver. Vá em frente e clique nos repositórios para saber mais.
+<div dir="rtl"> 
+  آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں.
+<a href="https://firstcontributions.herokuapp.com">سلیک ٹیم میں شمولیت اختیار کریں۔</a>
+</div>
+<br />
+<div dir="rtl">
+ادھر آپ چند مقبول ذخیروں میں کچھ ابتدائی سطح کے مسائل حل کر سکتے ہیں. آگے بڑھیے اور مزید جاننے کے لئے ان ذخیروں پر جائیے۔ 
+</div>
+<br />
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
