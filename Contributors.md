@@ -1,4 +1,5 @@
 - [Rubén Ortiz](https://github.com/rubenortiz)
+- [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Gabriel Cueto](https://github.com/TheMushrr00m)
 - [Lewis Shaw](https://github.com/iRuisu)
@@ -208,6 +209,7 @@
 - [Vakas Zia](https://github.com/MVakas)
 - [xribene](https://github.com/xribene)
 - [ArcticSniper]
+- [Wei-Chien Hsu](https://github.com/WeiChienHsu)
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu�n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
