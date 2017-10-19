@@ -26,6 +26,10 @@ This document provides information about how to undo a commit on your local repo
 This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
+### [ Moving a Commit to a different Branch ](moving-a-commit-to-a-different-branch.md)
+This document provides information about how to move a Commit to another Branch.
+> Take these steps to move a commit to another branch.
+
 ### [Useful Links](Useful-links-for-further-learning.md)
 This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more. 
 
