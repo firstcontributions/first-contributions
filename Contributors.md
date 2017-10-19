@@ -1,4 +1,4 @@
-﻿- [Oliver Miller](https://github.com/Oliver-H-Miller)
+- [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
@@ -821,6 +821,7 @@
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
 - [Jim Plourde](https://github.com/giant995/first-contributions)
+- [h4rdw0rk](https://github.com/h4rdw0rk/first-contributions)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Danny Lai](https://github.com/tocalai)
@@ -835,3 +836,8 @@
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
 - [Matthew Dray](https://github.com/17robots)
+- [Berkay Ersengun](https://github.com/berkayersengun)
+- [Guy Livni](https://github.com/GuyLivni)
+- [Daniel Benton] (https://github.com/dbenton2)
+- [Cesar Omar](https://github.com/wasa4587)
+-  dtk https://github.com/dtk0528
