@@ -26,6 +26,10 @@ This document provides information about how to undo a commit on your local repo
 This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
+### [ Moving a Commit to a different Branch ](moving-a-commit-to-a-different-branch.md)
+This document provides information about how to move a Commit to another Branch.
+> Take these steps to move a commit to another branch.
+
 ### [ Configuring git ](configuring-git.md)
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
