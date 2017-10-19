@@ -828,6 +828,7 @@
 - [Mark John C. Moreno](https://github.com/phakk)
 - [Jianhao Tan](https://github.com/jaanhio)
 - [Prajwal Patil](https://github.com/prajwalkpatil)
+- [Alex Hsu](https://github.com/Juchuhsu)
 - [avcoder](https://github.com/avcoder)
 - [Gowtham R](https://github.com/gowtham1997)
 - [Uğur Atmaca](https://github.com/uguratmaca)
