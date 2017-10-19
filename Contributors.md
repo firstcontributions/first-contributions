@@ -835,3 +835,4 @@
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
 - [Guy Livni](https://github.com/GuyLivni)
+- [Cesar Omar](https://github.com/wasa4587)
