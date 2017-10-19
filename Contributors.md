@@ -839,6 +839,7 @@
 - [Matthew Dray](https://github.com/17robots)
 - [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
+- [Gilad Bar](https://github.com/GomuGilad6)
 - [Daniel Benton] (https://github.com/dbenton2)
 - [Cesar Omar](https://github.com/wasa4587)
 -  dtk https://github.com/dtk0528
