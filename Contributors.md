@@ -1,4 +1,4 @@
-﻿- [Oliver Miller](https://github.com/Oliver-H-Miller)
+- [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
@@ -837,3 +837,4 @@
 - [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
 - [Cesar Omar](https://github.com/wasa4587)
+-  dtk https://github.com/dtk0528
