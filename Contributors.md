@@ -807,3 +807,7 @@
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
 - [handrezescobar94](https://github.com/handrezescobar94)
+- [Ariel Blasi](https://github.com/LiteSoul)
+- [Faisal Hassan](https://faisalhassanx.bitbucket.io)
+- [daniel-enriquez](https://github.com/daniel-enriquez)
+- [Luke Taylor](https://github.com/Luke-Taylor)
