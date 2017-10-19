@@ -843,6 +843,7 @@
 - [Gilad Bar](https://github.com/GomuGilad6)
 - [Daniel Benton] (https://github.com/dbenton2)
 - [Cesar Omar](https://github.com/wasa4587)
+- [Huntley Reep](https://github.com/huntleyreep)
 - [dtk](https://github.com/dtk0528)
 - [Ocean](https://github.com/ocean0212)
 - [Francis](https://github.com/borbefg)
