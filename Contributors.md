@@ -755,3 +755,4 @@
 - [Karthik Murugesan](https://github.com/karthikmuru)
 - [TheHungryBu](https://github.com/TheHungryBu)
 - [Valeriia Kolesnyk](https://github.com/xvaleriex)
+- [José Carlos Peñuelas Armenta](https://github.com/Jocapear)
