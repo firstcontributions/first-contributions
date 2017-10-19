@@ -7,12 +7,12 @@ How can you change that? This is what this tutorial covers.
 To do this, type:
 
 ```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
-```git stash```  
+```git stash``` - Records the state of the directory.  
 
-```git checkout name-of-the-correct-branch``` - Moves previous changes to the correct branch  
-```git stash pop```  
-```git add .``` - Or try adding individual files  
-```git commit -m "your message here"```  
+```git checkout name-of-the-correct-branch``` - Swiches to another branch.    
+```git stash pop``` - Removes lastest stashed state.  
+```git add .``` - Or try adding individual files.  
+```git commit -m "your message here"``` - Saves and Commits the changes.  
 
 Now your changes are on the correct branch
 
