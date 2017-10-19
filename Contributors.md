@@ -806,6 +806,7 @@
 - [Anastasios (Tasos) Beis](https://github.com/abeis)
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
+- [Zimi14](https://github.com/Zimi14)
 - [samanthalgibson](https://github.com/samanthalgibson)
 - [Atlas34](https://github.com/Atlas34)
 - [Ivan Shen](https://github.com/ivanshen)
