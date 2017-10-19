@@ -37,8 +37,8 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","b3e421b9b3d90078a0c85080405c75e5"],["manifest.json","f1fbae540a11c453a060b59cf14d5a75"],["static/css/main.a8aa68e3.css","7a7992169b9628f2fd83b4a7f2458b4f"],["static/js/main.b86fddce.js","e2acb2831a9e5d5381b1cad887def441"]];
-var cacheName = 'sw-precache-v2-sw-precache-' + (self.registration ? self.registration.scope : '');
+var precacheConfig = [["index.html","9b488464af08c2a1f7b124a55a8094fa"],["manifest.json","f1fbae540a11c453a060b59cf14d5a75"],["static/css/main.63cf2722.css","892eede00656527b9dcc976b60845891"],["static/js/main.e18d2ace.js","8626d508c3dd120e924900a2ec2bcb70"]];
+var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
 var ignoreUrlParametersMatching = [/^utm_/];
@@ -53,6 +53,28 @@ var addDirectoryIndex = function (originalUrl, index) {
     return url.toString();
   };
 
+var cleanResponse = function (originalResponse) {
+    // If this is not a redirected response, then we don't have to do anything.
+    if (!originalResponse.redirected) {
+      return Promise.resolve(originalResponse);
+    }
+
+    // Firefox 50 and below doesn't support the Response.body stream, so we may
+    // need to read the entire body to memory as a Blob.
+    var bodyPromise = 'body' in originalResponse ?
+      Promise.resolve(originalResponse.body) :
+      originalResponse.blob();
+
+    return bodyPromise.then(function(body) {
+      // new Response() is happy when passed either a stream or a Blob.
+      return new Response(body, {
+        headers: originalResponse.headers,
+        status: originalResponse.status,
+        statusText: originalResponse.statusText
+      });
+    });
+  };
+
 var createCacheKey = function (originalUrl, paramName, paramValue,
                            dontCacheBustUrlsMatching) {
     // Create a new URL object to avoid modifying originalUrl.
@@ -61,7 +83,7 @@ var createCacheKey = function (originalUrl, paramName, paramValue,
     // If dontCacheBustUrlsMatching is not set, or if we don't have a match,
     // then add in the extra cache-busting URL parameter.
     if (!dontCacheBustUrlsMatching ||
-        !(url.toString().match(dontCacheBustUrlsMatching))) {
+        !(url.pathname.match(dontCacheBustUrlsMatching))) {
       url.search += (url.search ? '&' : '') +
         encodeURIComponent(paramName) + '=' + encodeURIComponent(paramValue);
     }
@@ -85,6 +107,8 @@ var isPathWhitelisted = function (whitelist, absoluteUrlString) {
 var stripIgnoredUrlParameters = function (originalUrl,
     ignoreUrlParametersMatching) {
     var url = new URL(originalUrl);
+    // Remove the hash; see https://github.com/GoogleChrome/sw-precache/issues/290
+    url.hash = '';
 
     url.search = url.search.slice(1) // Exclude initial '?'
       .split('&') // Split into an array of 'key=value' strings
@@ -134,10 +158,19 @@ self.addEventListener('install', function(event) {
           Array.from(urlsToCacheKeys.values()).map(function(cacheKey) {
             // If we don't have a key matching url in the cache already, add it.
             if (!cachedUrls.has(cacheKey)) {
-              return cache.add(new Request(cacheKey, {
-                credentials: 'same-origin',
-                redirect: 'follow'
-              }));
+              var request = new Request(cacheKey, {credentials: 'same-origin'});
+              return fetch(request).then(function(response) {
+                // Bail out of installation unless we get back a 200 OK for
+                // every request.
+                if (!response.ok) {
+                  throw new Error('Request for ' + cacheKey + ' returned a ' +
+                    'response with status ' + response.status);
+                }
+
+                return cleanResponse(response).then(function(responseToCache) {
+                  return cache.put(cacheKey, responseToCache);
+                });
+              });
             }
           })
         );
@@ -181,8 +214,8 @@ self.addEventListener('fetch', function(event) {
     // handlers a chance to handle the request if need be.
     var shouldRespond;
 
-    // First, remove all the ignored parameter and see if we have that URL
-    // in our cache. If so, great! shouldRespond will be true.
+    // First, remove all the ignored parameters and hash fragment, and see if we
+    // have that URL in our cache. If so, great! shouldRespond will be true.
     var url = stripIgnoredUrlParameters(event.request.url, ignoreUrlParametersMatching);
     shouldRespond = urlsToCacheKeys.has(url);
 
