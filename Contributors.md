@@ -806,6 +806,7 @@
 - [Anastasios (Tasos) Beis](https://github.com/abeis)
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
+- [dmnkhhn](https://github.com/dmnkhhn)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [CJ Haviland](https://github.com/cjhaviland)
 - [Shuyue Wang](http://github.com/k1631111)
