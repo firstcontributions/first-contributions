@@ -824,3 +824,4 @@
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Tu Szu Chi](https://github.com/Tu-Szu-Chi)
+- [Mark John C. Moreno](https://github.com/phakk)
