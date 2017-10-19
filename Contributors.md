@@ -1,4 +1,4 @@
-- [Oliver Miller](https://github.com/Oliver-H-Miller)
+﻿- [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Lewis Shaw](https://github.com/iRuisu)
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
@@ -821,3 +821,4 @@
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
 - [Jim Plourde](https://github.com/giant995/first-contributions)
+- [Jimmy Xiao](https://github.com/Fatmylin)
