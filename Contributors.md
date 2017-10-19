@@ -825,3 +825,4 @@
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Danny Lai](https://github.com/tocalai)
 - [Tu Szu Chi](https://github.com/Tu-Szu-Chi)
+- [Mark John C. Moreno](https://github.com/phakk)
