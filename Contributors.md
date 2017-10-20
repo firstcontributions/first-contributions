@@ -872,3 +872,4 @@
 - [syamkumar](https://github.com/syam3526/)
 - [awesomejerry](https://github.com/awesomejerry)
 - [Nathan Mkaya](https://github.com/nathanmkaya/)
+- [Renan Vichetti](https://github.com/rvconessa/)
