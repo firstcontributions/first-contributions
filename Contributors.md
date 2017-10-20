@@ -867,3 +867,4 @@
 - [Trevor Roest](https://github.com/twroest)
 - [Sukeer](https://github.com/Sukeer)
 - [Rohit Mathew](https://github.com/rohitjmathew/)
+- [Nathan Mkaya](https://github.com/nathanmkaya/)
