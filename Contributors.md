@@ -861,4 +861,5 @@
 - [bl-rd](https://github.com/bl-rd)
 - [Henrik Jönsson](https://github.com/heggrik)
 - [Adithya J](https://github.com/adithya321)
+- [Hardik Surana](https://github.com/hardiksurana)
 - [Carlos Lima](https://github.com/kakamg0)
