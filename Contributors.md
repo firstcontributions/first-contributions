@@ -868,3 +868,5 @@
 - [Sukeer](https://github.com/Sukeer)
 - [Rohit Mathew](https://github.com/rohitjmathew/)
 -[syamkumar](https://github.com/syam3526/)
+- [awesomejerry](https://github.com/awesomejerry)
+- [Nathan Mkaya](https://github.com/nathanmkaya/)
