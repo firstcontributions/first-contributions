@@ -738,6 +738,7 @@
 - [subhamtandon](https://github.com/subhamtandon)
 - [Vanessa Osuka](https://github.com/Ijebusoma)
 - [Akash Saravanan](https://github.com/akashsara)
+- [Spencer Burleigh](https://github.com/leaous)
 - [Shaun O'Connor](https://github.com/shaunoc09)
 - [Marek Dano](https://github.com/marekdano)
 - [Marcos Gómez](https://github.com/margobra8)
