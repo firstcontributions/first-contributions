@@ -805,6 +805,7 @@
 - [James Lave](https://github.com/jameslave)
 - [Rovaron](https://github.com/Rovaron)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
+- [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
 - [Joe Wilson] (https://github.com/jaw0608)
 - [Paul Chabot](https://github.com/paulch4bot)
