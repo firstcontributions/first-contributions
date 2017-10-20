@@ -11,18 +11,18 @@ Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bin
 
 #### *Citește în [alte limbi](LANGUAGES.md)* 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Dacă nu ai git instalat, [ instalează-l ]( https://help.github.com/articles/set-up-git/ ).
 
-## Ramifică reopozitoriul(depozit)
+## Ramifică repozitoriul(depozit)
 
 Ramifică acest repo(depozit) făcând clic pe butonul fork locat pe partea de sus a paginii.
 Acesta va creea o copie a repozitoriului în contul tău.
 
 ## Clonează repozitoriul(depozit)
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Acum clonează acest repo pe mașina ta. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
 
@@ -33,7 +33,7 @@ git clone "adresa copiată"
 ```
 Unde "adresa copiată" (Fără de ghilimele) este adresa repozitorului. Vezi pașii anteriori pentru a obține adresa.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 De exemplu:
 ```
@@ -84,11 +84,11 @@ Schimbând `<adaug-numele-tău>` cu numele ramurii create de tine anterior.
 
 Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Fă clic pe el.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Acum Trimiteți solicitarea de tragere.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 Curând Eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
 
