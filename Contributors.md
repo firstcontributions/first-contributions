@@ -1,4 +1,4 @@
-- [Rubén Ortiz](https://github.com/rubenortiz)
+﻿- [Rubén Ortiz](https://github.com/rubenortiz)
 - [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Gabriel Cueto](https://github.com/TheMushrr00m)
@@ -857,6 +857,7 @@
 - [Ana Perez](https://github.com/anacperez)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [Aman Jain](https://github.com/amanjain97)
+- [Mikaeri Ohana](https://github.com/miohana)
 - [bl-rd](https://github.com/bl-rd)
 - [Henrik Jönsson](https://github.com/heggrik)
 - [Adithya J](https://github.com/adithya321)
