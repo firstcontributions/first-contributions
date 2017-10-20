@@ -1,4 +1,4 @@
-﻿- [Rubén Ortiz](https://github.com/rubenortiz)
+- [Rubén Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
 - [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
@@ -878,3 +878,4 @@
 - [cek-cek](https://github.com/cek-cek)
 - [Renan Vichetti](https://github.com/rvconessa/)
 - [GaganDeep Singh](https://github.com/SGagan)
+- [MikeWLloyd](https://github.com/MikeWLloyd)
