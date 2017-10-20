@@ -24,6 +24,6 @@
 | 🇹🇭 Thailand | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 Galicia | [Galician](translations/README.gl.md) |
 | 🇵🇰 Pakistan | [Urdu](translations/README.ur.md) |
-|  Moldova | [Romanian](translation/README.ro.md)|
+| :moldova: Moldova, :romania: Romania | [Romanian](translation/README.ro.md)|
 
 
