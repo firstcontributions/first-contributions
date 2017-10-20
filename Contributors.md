@@ -858,3 +858,5 @@
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [Aman Jain](https://github.com/amanjain97)
 - [bl-rd](https://github.com/bl-rd)
+- [Henrik Jönsson](https://github.com/heggrik)
+- [Adithya J](https://github.com/adithya321)
