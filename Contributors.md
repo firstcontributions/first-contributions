@@ -10,7 +10,7 @@
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
-- [Jonathan Rinciari] (https://github.com/jonathanRinciari)
+- [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -865,3 +865,4 @@
 - [Carlos Lima](https://github.com/kakamg0)
 - [Trevor Roest](https://github.com/twroest)
 - [Sukeer](https://github.com/Sukeer)
+- [Rohit Mathew](https://github.com/rohitjmathew/)
