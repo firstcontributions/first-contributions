@@ -25,5 +25,5 @@
 | 🏴󠁥󠁳󠁧󠁡󠁿 Galicia | [Galician](translations/README.gl.md) |
 | 🇵🇰 Pakistan | [Urdu](translations/README.ur.md) |
 | :bangladesh: Bangladesh | [Bangla](translations/README.bn.md) |
-
+| :moldova: Moldova, :romania: Romania | [Romanian](translation/README.ro.md)|
 
