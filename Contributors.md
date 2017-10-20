@@ -857,4 +857,5 @@
 - [Ana Perez](https://github.com/anacperez)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [Aman Jain](https://github.com/amanjain97)
+- [Henrik Jönsson](https://github.com/heggrik)
 - [Adithya J](https://github.com/adithya321)
