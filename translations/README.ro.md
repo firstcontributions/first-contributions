@@ -94,7 +94,7 @@ Curând Eu voi îmbina toate schimbările în ramura principală a acestui proie
 
 ## De unde să mergi de aici?
 
-Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web] (https://roshanjossey.github.io/first-contributions/#social-share).
+Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alaturăte echipei Slack](https://firstcontributions.herokuapp.com).
 
