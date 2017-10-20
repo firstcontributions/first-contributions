@@ -873,3 +873,4 @@
 - [awesomejerry](https://github.com/awesomejerry)
 - [Nathan Mkaya](https://github.com/nathanmkaya/)
 - [cek-cek](https://github.com/cek-cek)
+- [Renan Vichetti](https://github.com/rvconessa/)
