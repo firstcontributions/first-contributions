@@ -1,4 +1,5 @@
 ﻿- [Rubén Ortiz](https://github.com/rubenortiz)
+- [Petrov Dumitru](https://github.com/dp97)
 - [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Gabriel Cueto](https://github.com/TheMushrr00m)
@@ -868,3 +869,6 @@
 - [Sukeer](https://github.com/Sukeer)
 - [Rohit Mathew](https://github.com/rohitjmathew/)
 - [Michele Armellini] (https://github.com/armaDio)
+- [syamkumar](https://github.com/syam3526/)
+- [awesomejerry](https://github.com/awesomejerry)
+- [Nathan Mkaya](https://github.com/nathanmkaya/)
