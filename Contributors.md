@@ -877,3 +877,4 @@
 - [Akkshay Lawrence](https://github.com/akkshaylawrence)
 - [cek-cek](https://github.com/cek-cek)
 - [Renan Vichetti](https://github.com/rvconessa/)
+- [GaganDeep Singh](https://github.com/SGagan)
