@@ -792,3 +792,4 @@
 - [James Lave](https://github.com/jameslave)
 - [Rovaron](https://github.com/Rovaron)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
+- [LRThesier](https://github.com/lrthesier)
