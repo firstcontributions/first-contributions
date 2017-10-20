@@ -15,91 +15,90 @@ Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bin
 
 Dacă nu ai git instalat, [ instalează-l ]( https://help.github.com/articles/set-up-git/ ).
 
-## Ramifică acest reopozitor(depozit)
+## Ramifică reopozitoriul(depozit)
 
+Ramifică acest repo(depozit) făcând clic pe butonul fork locat pe partea de sus a paginii.
+Acesta va creea o copie a repozitoriului în contul tău.
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
-## Clone the repository
+## Clonează repozitoriul(depozit)
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
+Acum clonează acest repo pe mașina ta. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
 
-Open a terminal and run the following git command:
+Deschideți un terminal și executați următoarea comanda git: 
 
 ```
-git clone "url you just copied"
+git clone "adresa copiată"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+Unde "adresa copiată" (Fără de ghilimele) este adresa repozitorului. Vezi pașii anteriori pentru a obține adresa.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+De exemplu:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/acesta-ești-tu/prima-contribuție.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+Unde `acesta-ești-tu` este numele tău GitHub. Aici tu copii conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
 
-## Create a branch
+## Creează o Ramură
 
-Change to the repository directory on your computer (if you are not already there):
+Schimbați directorul în repozitoriu pe computer (dacă nu sunteți deja acolo):
 
 ```
-cd first-contributions
+cd prima-contribuție
 ```
-Now create a branch using the `git checkout` command:
+Acum creați o ramură cu ajutorul comenzii `git checkout`:
 ```
-git checkout -b <add-your-name>
+git checkout -b <adaug-numele-tău>
 ```
 
-For example:
+De exemplu:
 ```
-git checkout -b add-alonzo-church
+git checkout -b adaug-alonzo-church
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Numele ramurii nu e obligatoriu să fie *adaug*, dar e un lucru rezonabil pentru a include deoarece scopul acestei ramure este de a adăuga numele tău în lista!)
 
-## Make necessary changes and commit those changes
+## Fă schimbările necesare si comite aceste schimbări
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Acum deschide fișierul `Contributors.md` într-un editor de text (ca NotePad, Vim, nano, emacs, etc.), adaugă numele tău în el, apoi salvează fișierul. Dacă accesezi directorul de proiect și execuți comanda `git status`, vei vedea schimbări. Adaugă acele schimbări la ramura creată de tine cu comanda `git add`:
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Acum comite acele schimbări cu comanda `git commit`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Adaug <numele-tău> la lista de contribuitori"
 ```
-replacing `<your-name>` with your name.
+Schimbând `<numele-tău>` cu numele tău.
 
-## Push changes to GitHub
+## Împinge Schimbările pe GitHub
 
-Push your changes using the command `git push`:
+Împinge schimbările tale cu comanda `git push`:
 ```
-git push origin <add-your-name>
+git push origin <adaug-numele-tău>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+Schimbând `<adaug-numele-tău>` cu numele ramurii create de tine anterior.
 
-## Submit your changes for review
+## Trimite modificările pentru examinare
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Fă clic pe el.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Acum Trimiteți solicitarea de tragere.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Curând Eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
 
-## Where to go from here?
+## De unde să mergi de aici?
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web] (https://roshanjossey.github.io/first-contributions/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com).
+Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alaturăte echipei Slack](https://firstcontributions.herokuapp.com).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare pe care le puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [ Additional material ](additional-material/additional-material.md)
 
@@ -112,8 +111,8 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Self-Promotion
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+Dacă ți-a plăcut acest proiect, pune-i o stea pe [GitHub](https://github.com/Roshanjossey/first-contributions).
+Dacă vă simțiți deosebit de caritabili, urmați-mă [Roshan](https://roshanjossey.github.io/) pe
+[Twitter](https://twitter.com/sudo__bangbang) și
 [GitHub](https://github.com/roshanjossey).
 
