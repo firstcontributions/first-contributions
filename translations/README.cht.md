@@ -16,7 +16,7 @@
 ## Fork（複製）本代碼倉庫
 
 點擊圖示中的按鈕去 Fork 這個代碼倉庫。
-這個操作會將代碼倉庫複製到你的賬戶名下。
+這個操作會將代碼倉庫複製到你的Github帳號下。
 
 ## Clone（克隆）代碼倉庫
 
@@ -61,7 +61,7 @@ git checkout -b add-myname
 
 ## 對代碼進行修改，而後 Commit (提交) 修改
 
-打開 `Contributors.md` 這個文件，更新文件內容，將你的名字加上去，保存修改。`git status` 這命令會列出被改動的文件。接著 `git add` 這命令則可以添加你的改動，就像如下這條命令。
+打開 `Contributors.md` 這個文件，更新文件內容，將你的名字加上去，保存修改。`git status` 這命令會列出被改動的文件。接著 `git add` 這命令則可以添加你的改動，就像以下這條命令。
 ```
 git add Contributors.md
 ```
@@ -90,7 +90,8 @@ git push origin <分支的名稱>
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-不久之後，我便會把你所有的變化合併到這個項目的主分支。更改合併後，你會收到通知電郵。
+不久之後，如果你更改的文件與原本沒有衝突，我們會把你所有的變化合併到這個項目的主分支。
+更改合併後，你會收到通知電郵。
 
 ### [ 更多資料 ](additional-material/additional-material.md)
 
@@ -105,7 +106,7 @@ git push origin <分支的名稱>
 
 如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://firstcontributions.herokuapp.com)！
 
-通過下面這些鏈接，你能看到當前流行的眾多代碼倉庫中，適合初學者解決的問題列表，還等什麼，去吧 :)
+通過下面這些連結，你能看到當前流行的眾多代碼倉庫中，適合初學者解決的問題列表，還等什麼，去吧 :)
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
