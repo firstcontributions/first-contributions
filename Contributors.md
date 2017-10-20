@@ -872,6 +872,7 @@
 - [syamkumar](https://github.com/syam3526/)
 - [awesomejerry](https://github.com/awesomejerry)
 - [Nathan Mkaya](https://github.com/nathanmkaya/)
+- [Rahat](https://github.com/MAHRahat)
 - [Justin Abbott](https://github.com/justinabbott)
 - [Akkshay Lawrence](https://github.com/akkshaylawrence)
 - [cek-cek](https://github.com/cek-cek)
