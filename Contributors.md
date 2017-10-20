@@ -880,3 +880,5 @@
 - [GaganDeep Singh](https://github.com/SGagan)
 - [MikeWLloyd](https://github.com/MikeWLloyd)
 - [Ple](https://github.com/plemomay)
+- [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
+- [Akani](https://github.com/akanijade)
