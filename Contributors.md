@@ -1,3 +1,4 @@
+- [Mintoo Kumar](https://github.com/mintoo511)
 - [Rubén Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
 - [Saideep Dicholkar](https://github.com/saideepd)
