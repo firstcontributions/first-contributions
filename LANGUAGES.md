@@ -24,6 +24,5 @@
 | 🇹🇭 Thailand | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 Galicia | [Galician](translations/README.gl.md) |
 | 🇵🇰 Pakistan | [Urdu](translations/README.ur.md) |
-| https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f7-1f1f4.png Moldova, :romania: Romania | [Romanian](translation/README.ro.md)|
-
+| :moldova: Moldova, :romania: Romania | [Romanian](translation/README.ro.md)|
 
