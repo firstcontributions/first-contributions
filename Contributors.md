@@ -873,3 +873,6 @@
 - [awesomejerry](https://github.com/awesomejerry)
 - [Nathan Mkaya](https://github.com/nathanmkaya/)
 - [Justin Abbott](https://github.com/justinabbott)
+- [Akkshay Lawrence](https://github.com/akkshaylawrence)
+- [cek-cek](https://github.com/cek-cek)
+- [Renan Vichetti](https://github.com/rvconessa/)
