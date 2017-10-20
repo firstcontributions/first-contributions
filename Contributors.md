@@ -1,4 +1,5 @@
 ﻿- [Rubén Ortiz](https://github.com/rubenortiz)
+- [Petrov Dumitru](https://github.com/dp97)
 - [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Gabriel Cueto](https://github.com/TheMushrr00m)
