@@ -1,3 +1,4 @@
+- [Brett Davis](https://github.com/saintbernie)
 - [Mintoo Kumar](https://github.com/mintoo511)
 - [Rubén Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
