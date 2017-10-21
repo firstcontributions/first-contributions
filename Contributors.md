@@ -904,6 +904,7 @@
 - [hosjiu](https://github.com/hosjiu1702)
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
+- [ekas](https://github.com/ekas)
 - [namanpreetsingh](https://github.com/namanpreetsingh_)
 - [Ahmad Javed](https://github.com/ahmadjaved97)
 - [BinhPhamKMA](https://github.com/BinhPhamKMA)
