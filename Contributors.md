@@ -920,4 +920,5 @@
 - [masta-bhawk](https://github.com/masta-bhawk)
 - [Vishal Raj Shukla](https://github.com/vrs-git)
 - [emmaodia](https://github.com/emmaodia)
+-	[Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
