@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 1em;
+  background: #4b4949;
 }
 
 #social-share > h2 {
@@ -19,20 +20,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 136px;
-  height: 160px;
-  margin: .25em;
-  background-color: rgb(255, 255, 255);
+  width: 90px;
+  height: 90px;
+  margin: 1.1em;
   border-radius: 2px;
-  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
-  -webkit-transition: box-shadow .1s ease-in-out;
-  transition: box-shadow .1s ease-in-out;
+  background: #4b4949;
+  border: solid white 4px;
 }
 
-.icon-card:hover{
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px;
-}
-
-.twitter {
-  background-color: rgb(29, 202, 255);
-}
