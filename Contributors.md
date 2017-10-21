@@ -916,3 +916,4 @@
 - [Galleria](https://github.com/Galleria)
 - [Vishal Raj Shukla](https://github.com/vrs-git)
 - [emmaodia](https://github.com/emmaodia)
+-	[Manuel Romero](https://github.com/Manu8083)
