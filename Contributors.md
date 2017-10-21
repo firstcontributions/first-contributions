@@ -1,3 +1,4 @@
+﻿- [Gaurav Rai](https://github.com/ThinkHattke)
 - [Mintoo Kumar](https://github.com/mintoo511)
 - [Rubén Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
@@ -903,3 +904,6 @@
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
 - [BinhPhamKMA](https://github.com/BinhPhamKMA)
+- [TheZenti](https://github.com/TheZenti)
+- [Matheus Lucena] (https://github.com/matehuslucena)
+- [Galleria](https://github.com/Galleria)
