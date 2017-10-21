@@ -96,9 +96,9 @@ git push origin <अपना नाम जोड़>
 
 ## यहाँ से कहाँ जाएं ?
 
-Github पे अपने पहले योगदान की खुश में जश्न मनाएं और अपने दोस्तों के साथ शेयर करें [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके|
-आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं अगर आपको कोई मदद चाहिए या आपके कोई परेशानी हों| [स्लैक पे ज्वाइन करें](https://firstcontributions.herokuapp.com)
-अब आप और प्रोजेक्ट्स में कंट्रीब्यूट करना शुरू कर सकते हैं| हमने आपके लिए एक लिस्ट बनायीं है जो कि बहुत आसान मुद्दे हैं| [प्रोजेक्ट्स कि लिस्ट](https://roshanjossey.github.io/first-contributions/#project-list)
+Github पे अपने पहले योगदान की खुश में जश्न मनाएं और अपने दोस्तों के साथ शेयर करें [वेब एप्प](https://roshanjossey.github.io/first-contributions/#social-share) पे जाके| <br/>
+आप हमारी स्लैक टीम को ज्वाइन कर सकते हैं अगर आपको कोई मदद चाहिए या आपके कोई परेशानी हों| [स्लैक पे ज्वाइन करें](https://firstcontributions.herokuapp.com) <br/>
+अब आप और प्रोजेक्ट्स में कंट्रीब्यूट करना शुरू कर सकते हैं| हमने आपके लिए एक लिस्ट बनायीं है जो कि बहुत आसान मुद्दे हैं| [प्रोजेक्ट्स कि लिस्ट](https://roshanjossey.github.io/first-contributions/#project-list)<br/>
 
 ## अन्य टूल का उपयोग करके ट्यूटोरियल
 
