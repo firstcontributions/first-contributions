@@ -865,6 +865,7 @@
 - [Ana Perez](https://github.com/anacperez)
 - [Arjun Rajpal](https://github.com/arjunrajpal)
 - [Aman Jain](https://github.com/amanjain97)
+- [David Carew](https://github.com/carewdavid)
 - [Burste](https://github.com/Burste)
 - [Mikaeri Ohana](https://github.com/miohana)
 - [bl-rd](https://github.com/bl-rd)
