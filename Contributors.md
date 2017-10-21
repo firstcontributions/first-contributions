@@ -914,6 +914,7 @@
 - [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena] (https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
+- [Kirill Motkov](https://github.com/sosiska)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
 - [masta-bhawk](https://github.com/masta-bhawk)
 - [Vishal Raj Shukla](https://github.com/vrs-git)
