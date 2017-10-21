@@ -903,3 +903,4 @@
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
 - [Matheus Lucena] (https://github.com/matehuslucena)
+- [Galleria](https://github.com/Galleria)
