@@ -912,3 +912,4 @@
 - [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena] (https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
+- [AJ Berman](https://github.com/AlexanderAJBerman)
