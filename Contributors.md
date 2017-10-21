@@ -922,3 +922,4 @@
 - [emmaodia](https://github.com/emmaodia)
 -	[Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
+- [allykates](https://github.com/allykates)
