@@ -902,5 +902,6 @@
 - [hosjiu](https://github.com/hosjiu1702)
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
+- [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena] (https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
