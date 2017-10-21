@@ -912,3 +912,4 @@
 - [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena] (https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
+- [Vishal Raj Shukla](https://github.com/vrs-git)
