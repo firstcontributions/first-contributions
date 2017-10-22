@@ -924,6 +924,7 @@
 - [Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
 - [allykates](https://github.com/allykates)
+- [MuhFaridZia](https://github.com/mfaridzia)
 - [Akshay Ramesh](https://github.com/AkshayRameshAppDEV)
 - [Pavillin](https://github.com/Pavillin)
 - [Randall Whitlock](https://github.com/randallwhitlock)
