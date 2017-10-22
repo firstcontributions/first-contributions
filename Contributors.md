@@ -216,7 +216,7 @@
 - [Nilesh Deepak](https://github.com/nileshdeepak)
 - [Vakas Zia](https://github.com/MVakas)
 - [xribene](https://github.com/xribene)
-- [ArcticSniper]
+- [ArcticSniper](https://github.com/ArcticSniper)
 - [Wei-Chien Hsu](https://github.com/WeiChienHsu)
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu�n Pignol](https://github.com/joespi)
@@ -290,7 +290,7 @@
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
-- [Melanie Hudson aka Seekingcat]
+- [Melanie Hudson aka Seekingcat](https://github.com/seekingcat)
 - [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
@@ -799,7 +799,7 @@
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
 - [PvcPre](https://github.com/pvcpre)
-- [divijsingh(https://github.com/divijsingh)
+- [divijsingh](https://github.com/divijsingh)
 - [nerfox22](https://github.com/nerfox22)
 - [Juli Cheng](https://github.com/julicheng)
 - [odzeno](https://github.com/odzeno)
@@ -949,3 +949,6 @@
 - [Shambhavi Jagtap](https://github.com/ShambhaviJagtap)
 - [Debashish Nayak 😎](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
+- [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk) 
+- [Graham Beekamn] https://github.com/gbeekman
+- [Utkarsh Deep](https://github.com/utkarshdeep)
