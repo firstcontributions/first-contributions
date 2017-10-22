@@ -937,3 +937,4 @@
 - [BrumGB](https://github.com/brumgb)
 - [lthlong](https://github.com/lthlong)
 - [decantr](https://github.com/decantr)
+- [Anna Karpińska](https://github.com/annakarpinska)
