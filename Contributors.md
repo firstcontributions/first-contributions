@@ -925,3 +925,4 @@
 - [ninjandroid](https://github.com/ninjandroid)
 - [allykates](https://github.com/allykates)
 - [lthlong](https://github.com/lthlong)
+- [decantr](https://github.com/decantr)
