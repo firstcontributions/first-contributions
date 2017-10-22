@@ -924,6 +924,7 @@
 - [Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
 - [allykates](https://github.com/allykates)
+- [Pavillin](https://github.com/Pavillin)
 - [Randall Whitlock](https://github.com/randallwhitlock)
 - [charlesmonson](https://github.com/charlesmonson)
 - [imyrfield](https://github.com/imyrfield)
