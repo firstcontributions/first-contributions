@@ -26,6 +26,10 @@ This document provides information about how to undo a commit on your local repo
 This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
+### [Removing a File](removing-a-file.md)
+This document provides information about how to remove a file from your local repository.
+> Follow these steps to learn how to remove a file prior to a commit
+
 ### [ Moving a Commit to a different Branch ](moving-a-commit-to-a-different-branch.md)
 This document provides information about how to move a Commit to another Branch.
 > Take these steps to move a commit to another branch.
