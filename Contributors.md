@@ -924,6 +924,7 @@
 - [Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
 - [allykates](https://github.com/allykates)
+- [imyrfield](https://github.com/imyrfield)
 - [melisaim](https://github.com/MelisaIm)
 - [Dario Gabriel](https://github.com/dariogabriel113)
 - [BrumGB](https://github.com/brumgb)
