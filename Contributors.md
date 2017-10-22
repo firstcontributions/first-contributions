@@ -12,6 +12,7 @@
 - [Bao Tran](https://github.com/cyborg103)
 - [Jithu R Jacob 🤓](https://github.com/jithurjacob)
 - [Ashutosh Singh](https://github.com/ashubly25)
+- [Julio Melchor](https://github.com/k4vglitcher)
 - [gipsi](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
