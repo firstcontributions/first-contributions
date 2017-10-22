@@ -85,7 +85,7 @@ Agora envie um Pull Request.
 
 Logo estarei mesclando as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
-### [ Material adicional ](additional-material/translations/additional-material.pt_br.md)
+### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
 ## Tutoriais com outras ferramentas
 
