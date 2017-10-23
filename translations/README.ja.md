@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [英語](README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md), [Greek](README.gr.md)*
+*Read this in other languages: [英語](../README.md), [スペイン語](README.es.md), [オランダ語](README.nl.md), [ヒンディー語](README.hi.md)　[ロシア語](README.ru.md), [Greek](README.gr.md)*
 
 まだ Git をインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/) からインストールしてください
 
@@ -106,7 +106,7 @@ git push origin master
 
 ## その他のツールを使用したチュートリアル
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-logo.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
