@@ -924,6 +924,7 @@
 - [emmaodia](https://github.com/emmaodia)
 - [Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
+- [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
 - [Roy Sung](https://github.com/roysung)
 - [Meghna Ayyar][https://github.com/leomi7]
