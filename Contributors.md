@@ -928,7 +928,7 @@
 - [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
 - [Roy Sung](https://github.com/roysung)
-- [Meghna Ayyar][https://github.com/leomi7]
+- [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
 - [Akshay Ramesh](https://github.com/AkshayRameshAppDEV)
 - [Pavillin](https://github.com/Pavillin)
@@ -952,8 +952,9 @@
 - [Debashish Nayak 😎](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
 - [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk)
-- [Graham Beekamn] https://github.com/gbeekman
+- [Graham Beekamn](https://github.com/gbeekman)
 - [Utkarsh Deep](https://github.com/utkarshdeep)
 - [Daniel Chiang](https://github.com/generalyi0057)
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
 - [Aaron Jen](https://github.com/bugarma)
+- [Chang Shu-huai](https://github.com/junsuwhy)
