@@ -956,6 +956,7 @@
 - [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk)
 - [Graham Beekamn] https://github.com/gbeekman
 - [Utkarsh Deep](https://github.com/utkarshdeep)
+- [justjavac](https://github.com/justjavac)
 - [Jeffrey Ho](https://github.com/Jeffrey-Ho)
 - [Daniel Chiang](https://github.com/generalyi0057)
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
