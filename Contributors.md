@@ -618,6 +618,7 @@
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
+- [Raphael gako](https://github.com/artoodeeto)
 - [Nicole Li](http://github.com/nicolehli)
 - [Gabriel Dekoladenu](https:github.com/gabedeko)
 - [Ramon Reyes](https://github.com/reyesjunk)
@@ -924,6 +925,7 @@
 - [emmaodia](https://github.com/emmaodia)
 - [Manuel Romero](https://github.com/Manu8083)
 - [ninjandroid](https://github.com/ninjandroid)
+- [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
 - [Roy Sung](https://github.com/roysung)
 - [Meghna Ayyar][https://github.com/leomi7]
@@ -949,7 +951,8 @@
 - [Shambhavi Jagtap](https://github.com/ShambhaviJagtap)
 - [Debashish Nayak 😎](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
-- [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk) 
+- [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk)
 - [Graham Beekamn] https://github.com/gbeekman
 - [Utkarsh Deep](https://github.com/utkarshdeep)
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
+- [Aaron Jen](https://github.com/bugarma)
