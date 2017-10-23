@@ -954,5 +954,6 @@
 - [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk)
 - [Graham Beekamn] https://github.com/gbeekman
 - [Utkarsh Deep](https://github.com/utkarshdeep)
+- [Daniel Chiang](https://github.com/generalyi0057)
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
 - [Aaron Jen](https://github.com/bugarma)
