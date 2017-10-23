@@ -949,6 +949,7 @@
 - [Shambhavi Jagtap](https://github.com/ShambhaviJagtap)
 - [Debashish Nayak 😎](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
-- [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk) 
+- [Dipti Kulkarni ( ͡° ͜ʖ ͡°) ](https://github.com/cyberdrk)
 - [Graham Beekamn] https://github.com/gbeekman
 - [Utkarsh Deep](https://github.com/utkarshdeep)
+- [Aaron Jen](https://github.com/bugarma)
