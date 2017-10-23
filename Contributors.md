@@ -146,6 +146,7 @@
 - [Samuel Hwang](https://github.com/samhwangg)
 - [Denis Orehovsky](https://github.com/apirobot)
 - [William Sutton](https://github.com/suttonwilliamd)
+- [Prahar](https://github.com/PraharIjner15)
 - [Pbaboe](https://github.com/Pbaboe)
 - [Adarsh Lilha](https://github.com/adarshlilha)
 - [Meghana](https://github.com/meMegna)
