@@ -1,3 +1,4 @@
+- [Reyes Cheng](https://github.com/machiko)
 - [Brett Davis](https://github.com/saintbernie)
 - [Shadab Khan](https://github.com/shadabk96)
 - [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
