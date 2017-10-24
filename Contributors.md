@@ -971,7 +971,9 @@
 - [Gökhan Gurbetoğlu] (https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
-- [Developer Wahala](https://github.com/devwahala)
 - [Darshan](https://github.com/darshan45)
+- [Developer Wahala](https://github.com/devwahala)
+- [Jibi John David](https://github.com/jibijohndavid)
+
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
