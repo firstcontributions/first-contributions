@@ -972,6 +972,7 @@
 - [Gökhan Gurbetoğlu] (https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
+- [Chen Hui Jing](https://github.com/huijing)
 - [blue98](https://github.com/blue98)
 - [Ravi kishore Thella](ravikishorethella.com) (https://github.com/ravikishorethella)
 - [Nico Kelds](https://github.com/nicokelds)
