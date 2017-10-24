@@ -971,6 +971,7 @@
 - [Gökhan Gurbetoğlu] (https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
+- [Olufisayo Akinmoju](https://github.com/holuphisayor)
 - [Jibi John David](https://github.com/jibijohndavid)
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
