@@ -972,5 +972,6 @@
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
 - [Developer Wahala](https://github.com/devwahala)
+- [Darshan](https://github.com/darshan45)
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
