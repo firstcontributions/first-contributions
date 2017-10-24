@@ -20,6 +20,7 @@
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
+- [Hcbille](https://github.com/hcbille)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
