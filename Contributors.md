@@ -1,5 +1,6 @@
-- [Emily Wivell] (https://github.com/emjwivell)
+- [Emily Wivell](https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
+- [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
 - [Shadab Khan](https://github.com/shadabk96)
 - [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
