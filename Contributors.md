@@ -304,6 +304,7 @@
 - [Hieratikos](https://github.com/Hieratikos)
 - [Piash Sarker](https://github.com/piashsarker)
 - [Marek](https://github.com/marekpetak)
+- [atalreja](https://github.com/atalreja)
 - [Knave](https://github.com/knave)
 - [Håkon Andreas Jensen](https://github.com/hakonaj)
 - [chitaranjan sahu](https://github.com/TheCodeTalker)
