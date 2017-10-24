@@ -993,6 +993,7 @@
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
+- [Robert Wadley](https://github.com/Scarycrumb45)
 - [Mat Sac](https://github.com/matsac)
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
