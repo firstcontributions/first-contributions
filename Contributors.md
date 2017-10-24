@@ -21,6 +21,7 @@
 - [drac00l](https://github.com/drac00l)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
+- [jdouty](https://github.com/jdouty)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -993,3 +994,8 @@
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
+- [Robert Wadley](https://github.com/Scarycrumb45)
+- [Mat Sac](https://github.com/matsac)
+- [Harish Venkatesan](https://github.com/harishv7)
+- [Maulik Rathod](https://github.com/maulikrathod)
+- [Tee Toast](https://github.com/teetoast)
