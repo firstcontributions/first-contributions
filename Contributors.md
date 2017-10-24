@@ -971,6 +971,7 @@
 - [Gökhan Gurbetoğlu] (https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
+- [Nico Kelds](https://github.com/nicokelds)
 - [Drew Rautenerg](https://github.com/drewrautenberg)
 - [Daniel Wang](https://github.com/meow404)
 - [kunwar97](https://github.com/kunwar97)
