@@ -1005,5 +1005,5 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
-- [Chinmay Chandak)(https://github.com/CCAtAlvis)
+- [Chinmay Chandak](https://github.com/CCAtAlvis)
 
