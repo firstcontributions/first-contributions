@@ -1,4 +1,5 @@
 - [Emily Wivell](https://github.com/emjwivell)
+- [Anupam Kumar Singh](https://github.com/anupam691997)
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
