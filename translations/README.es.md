@@ -15,7 +15,7 @@ sin romper nada. Este proyecto se enfoca en ser una guía y en simplificar la
 forma en la que los novatos hacen su primera contribución. Recuerda: mientras 
 más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución 
 sólo sigue los sencillos pasos que se muestran a continuación. 
-Te lo prometemos,será divertido. 
+Te lo prometemos, será divertido. 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
