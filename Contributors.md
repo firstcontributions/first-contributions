@@ -168,6 +168,7 @@
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
 - [John Salvie](https://github.com/outofgamut)
 - [Vipin Chacko](https://github.com/vipin7)
+- [Molotovna](https://github.com/molotovna)
 - [ivlv](https://github.com/ivlv)
 - [Alvin Raygon](https://github.com/blackchalk)
 - [Shiro Developer](https://github.com/shirodeveloper)
