@@ -20,6 +20,7 @@
 - [DevMaterial](https://github.com/DevMaterial)
 - [drac00l](https://github.com/drac00l)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
+- [jdouty](https://github.com/jdouty)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -993,3 +994,6 @@
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
 - [Mat Sac](https://github.com/matsac)
+- [Harish Venkatesan](https://github.com/harishv7)
+- [Maulik Rathod](https://github.com/maulikrathod)
+- [Tee Toast](https://github.com/teetoast)
