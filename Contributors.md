@@ -1,3 +1,4 @@
+- [Tony Bratswil](https://github.com/deeproot2k)
 - [Emily Wivell](https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
