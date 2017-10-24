@@ -971,6 +971,7 @@
 - [Gökhan Gurbetoğlu] (https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
+- [Pallavi V G](https://github.com/pallavigopi)
 - [MrRose44](https://github.com/MrRose44)
 - [Shubham Maheshwari](https://github.com/shu121197)
 - [Olufisayo Akinmoju](https://github.com/holuphisayor)
