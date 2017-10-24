@@ -1,3 +1,4 @@
+- [Emily Wivell] (https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
 - [Brett Davis](https://github.com/saintbernie)
 - [Shadab Khan](https://github.com/shadabk96)
