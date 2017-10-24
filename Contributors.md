@@ -972,3 +972,5 @@
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
 - [Jibi John David](https://github.com/jibijohndavid)
+- [Julia Lamenza](https://github.com/julialamenza)
+- [Adam Vincent](https://github.com/CaptMurphy)
