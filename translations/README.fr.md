@@ -16,7 +16,7 @@ Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.gith
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
-Cela va crée une copie du répertoire sur votre compte.
+Cela va créer une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
 
