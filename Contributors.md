@@ -1,3 +1,4 @@
+- [Jorge Monte](https://github.com/jorgemonte)
 - [Emily Wivell](https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
