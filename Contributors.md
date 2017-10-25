@@ -1069,7 +1069,9 @@
 - [Dmitry Polovinkin](http://github.com/polovinkin)
 - [Trina Lu](https://github.com/tri613)
 - [Mark Hernandez](https://github.com/markh817)
-- [Narimantas Sedys] (https://github.com/natasman)
+- [Narimantas Sedys](https://github.com/natasman)
 - [Elias Silva](http://github.com/eliassilva8)
+- [Bhavika Potdar](http://github.com/bhavi12)
+- [Ihor Kufley](https://github.com/ihorku)
 - [Mike Wales](https://github.com/walesmd)
-- [Ihor Kufley] (https://github.com/ihorku)
+
