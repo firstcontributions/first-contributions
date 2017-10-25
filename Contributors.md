@@ -1011,6 +1011,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Bayu Adji Laksono](https://github.com/desfilt)
 - [Mr. Hudson](https://github.com/AllenCompSci)
 - [Mauricio Zarallo](https://github.com/zockfoul)
 - [Saheel Wagh] (https://github.com/waghspur10)
