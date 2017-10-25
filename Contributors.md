@@ -1,3 +1,4 @@
+- [Tarun Jain](https://github.com/tarun885)
 - [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
@@ -1016,6 +1017,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Oussama Zouaki](https://github.com/oussama4)
 - [Mhammed CHIBANE](https://github.com/momoz2017)
 - [Runningghost](https://github.com/Runningghost)
 - [Tanakid Laoyawira](https://github.com/dome2034)
@@ -1071,3 +1073,5 @@
 - [Elias Silva](http://github.com/eliassilva8)
 - [Bhavika Potdar](http://github.com/bhavi12)
 - [Ihor Kufley](https://github.com/ihorku)
+- [Mike Wales](https://github.com/walesmd)
+
