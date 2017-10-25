@@ -1007,6 +1007,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Mauricio Zarallo](https://github.com/zockfoul)
 - [Saheel Wagh] (https://github.com/waghspur10)
 - [Ankit Jena](https://github.com/ankitjena)
 - [Asaf Ofer](https://github.com/asafofer)
