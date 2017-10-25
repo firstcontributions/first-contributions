@@ -1011,6 +1011,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Kumari Akanksha](https://github.com/akanksha40)
 - [randomMesh](https://github.com/randomMesh)
 - [Italo Góis](https://github.com/italogois)
 - [Gaurav Gupta](https://github.com/tango025)
