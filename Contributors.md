@@ -1005,4 +1005,5 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
