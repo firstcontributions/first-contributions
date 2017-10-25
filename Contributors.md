@@ -1014,6 +1014,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Miguel Péres](https://github.com/miguelperes)
 - [lad-47](https://github.com/lad-47)
 - [BVIDev Kaisma](https://github.com/bviengineer)
 - [Arindam Das Modak](https://github.com/arindam-modak)
