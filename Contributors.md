@@ -1,4 +1,3 @@
-- [Tony Bratswil](https://github.com/deeproot2k)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
 - [kunwar09](https://github.com/kunwar09)
 - [Emily Wivell](https://github.com/emjwivell)
@@ -1012,6 +1011,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Judar Lima](https://github.com/judarlima)
 - [Sudesh Gutta](https://github.com/sudeshgutta)
 - [Mike Dettmer](https://github.com/maximumdata)
 - [Dave Cooper](https://github.com/grug)
