@@ -1059,4 +1059,5 @@
 - [Hyewon Jin](https://github.com/hyewonjin)
 - [Derik Lu](https://github.com/DerikLu)
 - [Viral Vin](http://github.com/viralvin)
+- [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
