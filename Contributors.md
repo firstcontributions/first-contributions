@@ -1,3 +1,4 @@
+- [Tarun Jain](https://github.com/tarun885)
 - [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
@@ -1070,3 +1071,4 @@
 - [Narimantas Sedys] (https://github.com/natasman)
 - [Elias Silva](http://github.com/eliassilva8)
 - [Mike Wales](https://github.com/walesmd)
+- [Ihor Kufley] (https://github.com/ihorku)
