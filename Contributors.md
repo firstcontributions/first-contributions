@@ -1011,6 +1011,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Sudesh Gutta](https://github.com/sudeshgutta)
 - [Mike Dettmer](https://github.com/maximumdata)
 - [Dave Cooper](https://github.com/grug)
 - [Rendi Agung Setiyawan](https://github.com/rendi1xx)
