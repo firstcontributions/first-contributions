@@ -1062,3 +1062,5 @@
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Elias Silva](http://github.com/eliassilva8)
+
