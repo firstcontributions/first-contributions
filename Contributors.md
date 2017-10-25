@@ -1008,6 +1008,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Rafael Ruiz](https://github.com/rruimor)
 - [Mr. Hudson](https://github.com/AllenCompSci)
 - [Mauricio Zarallo](https://github.com/zockfoul)
 - [Saheel Wagh] (https://github.com/waghspur10)
