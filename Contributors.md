@@ -1,3 +1,4 @@
+- [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
 - [kunwar09](https://github.com/kunwar09)
