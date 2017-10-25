@@ -1052,5 +1052,6 @@
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
+- [Ricardo](https://github.com/granttrec)
 - [Hyewon Jin](https://github.com/hyewonjin)
 - [Derik Lu](https://github.com/DerikLu)
