@@ -1061,4 +1061,4 @@
 - [Viral Vin](http://github.com/viralvin)
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
-- [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Igor Cvitas](https://github.com/Vijuu)
