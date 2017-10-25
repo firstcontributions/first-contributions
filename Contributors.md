@@ -1062,6 +1062,7 @@
 - [Viral Vin](http://github.com/viralvin)
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
+- [Igor Cvitas](https://github.com/Vijuu)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
 - [Dmitry Polovinkin](http://github.com/polovinkin)
 - [Trina Lu](https://github.com/tri613)
