@@ -1062,6 +1062,7 @@
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Trina Lu](https://github.com/tri613)
 - [Mark Hernandez](https://github.com/markh817)
 - [Narimantas Sedys] (https://github.com/natasman)
 - [Elias Silva](http://github.com/eliassilva8)
