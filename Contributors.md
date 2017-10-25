@@ -1011,6 +1011,10 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Mhammed CHIBANE](https://github.com/momoz2017)
+- [Mikail Seremet](https://github.com/mikailseremet)
+- [Aquib Javed](https://github.com/smashingspirit67)
+- [eikliw](https://github.com/eikliw)
 - [Mitchell Stack](https://github.com/mitchellrstack)
 - [Kumari Akanksha](https://github.com/akanksha40)
 - [randomMesh](https://github.com/randomMesh)
@@ -1033,4 +1037,4 @@
 - [Ankit Jena](https://github.com/ankitjena)
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
-- [Mhammed CHIBANE](https://github.com/momoz2017)
+
