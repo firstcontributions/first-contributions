@@ -1017,6 +1017,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Oussama Zouaki](https://github.com/oussama4)
 - [Mhammed CHIBANE](https://github.com/momoz2017)
 - [Runningghost](https://github.com/Runningghost)
 - [Tanakid Laoyawira](https://github.com/dome2034)
