@@ -59,6 +59,7 @@
 - [Michael Kolodziejski](https://github.com/Packetdude)
 - [Parker Dyer](https://github.com/parkerdyer)
 - [meherpooja]
+- [LostSeaWay](https://github.com/lostseaway)
 - [joranhezon](https://github.com/joranhezon)
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
@@ -1052,3 +1053,5 @@
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
 - [Ricardo](https://github.com/granttrec)
+- [Hyewon Jin](https://github.com/hyewonjin)
+- [Derik Lu](https://github.com/DerikLu)
