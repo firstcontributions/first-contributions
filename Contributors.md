@@ -1,4 +1,4 @@
-- [Emily Wivell](https://github.com/emjwivell)
+﻿- [Emily Wivell](https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
@@ -1005,3 +1005,4 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Runningghost](https://github.com/Runningghost)
