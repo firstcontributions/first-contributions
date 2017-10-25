@@ -1059,3 +1059,4 @@
 - [Hyewon Jin](https://github.com/hyewonjin)
 - [Derik Lu](https://github.com/DerikLu)
 - [Viral Vin](http://github.com/viralvin)
+- [Adjie Saputra Wijaya](http://github.com/uyeh)
