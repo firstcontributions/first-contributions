@@ -1063,3 +1063,5 @@
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
 - [Narimantas Sedys] (https://github.com/natasman)
+- [Elias Silva](http://github.com/eliassilva8)
+
