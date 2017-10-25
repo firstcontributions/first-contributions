@@ -1011,6 +1011,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Chinmay Chandak](https://github.com/CCAtAlvis)
 - [Judar Lima](https://github.com/judarlima)
 - [Sudesh Gutta](https://github.com/sudeshgutta)
 - [Mike Dettmer](https://github.com/maximumdata)
