@@ -1062,3 +1062,4 @@
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Trina Lu](https://github.com/tri613)
