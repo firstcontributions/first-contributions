@@ -1013,6 +1013,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [BVIDev Kaisma](https://github.com/bviengineer)
 - [Arindam Das Modak](https://github.com/arindam-modak)
 - [Lada Mcek](https://github.com/ladamcek)
 - [Samuel Pisa](https://github.com/samfrezza)
