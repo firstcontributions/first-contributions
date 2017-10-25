@@ -1,4 +1,3 @@
-- [Yago Fontenla](https://github.com/Yagouus)
 - [Emily Wivell](https://github.com/emjwivell)
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
@@ -1006,6 +1005,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Saheel Wagh] (https://github.com/waghspur10)
 - [Ankit Jena](https://github.com/ankitjena)
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
