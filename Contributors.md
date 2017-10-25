@@ -1071,3 +1071,4 @@
 - [Narimantas Sedys] (https://github.com/natasman)
 - [Elias Silva](http://github.com/eliassilva8)
 - [Ihor Kufley] (https://github.com/ihorku)
+- [Arpit Jain](https://github.com/maiarpitjain)
