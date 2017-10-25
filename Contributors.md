@@ -1078,4 +1078,6 @@
 - [Bhavika Potdar](http://github.com/bhavi12)
 - [Ihor Kufley](https://github.com/ihorku)
 - [Paul Benson](https://github.com/prbenson)
-- [Mike Wales](https://github.com/walesmd)
+- [Mike Wales](https://github.com/walesmd)  
+- [mind-as-well](https://github.com/mind-as-well)  
+
