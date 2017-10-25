@@ -1012,6 +1012,7 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Aquib Javed](https://github.com/smashingspirit67)
 - [eikliw](https://github.com/eikliw)
 - [Mitchell Stack](https://github.com/mitchellrstack)
 - [Kumari Akanksha](https://github.com/akanksha40)
