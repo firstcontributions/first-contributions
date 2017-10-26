@@ -1066,6 +1066,7 @@
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Igor Cvitas](https://github.com/Vijuu)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Alper Karatas](http://github.com/malperk)
 - [Dmitry Polovinkin](http://github.com/polovinkin)
 - [Trina Lu](https://github.com/tri613)
 - [Mark Hernandez](https://github.com/markh817)
