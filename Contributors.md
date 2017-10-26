@@ -1061,3 +1061,4 @@
 - [Viral Vin](http://github.com/viralvin)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
+- [Alper Karatas](http://github.com/malperk)
