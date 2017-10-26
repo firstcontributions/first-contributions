@@ -12,8 +12,8 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 7. [Official Git cheat sheet in many languages](https://services.github.com/on-demand/resources/cheatsheets)
 8. [Git cheat sheet from Tower](https://www.git-tower.com/learn/cheat-sheets/git)
 9. [Common Git Problems](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
-10.[Git Rebase](https://blog.gitprime.com/git-rebase-an-illustrated-guide/)
-11.[Beginner's Guide to Rebasing and Squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
+10. [Git Rebase](https://blog.gitprime.com/git-rebase-an-illustrated-guide/)
+11. [Beginner's Guide to Rebasing and Squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
 
 
 Keep adding more links, that you find helpful.
