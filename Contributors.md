@@ -1080,3 +1080,5 @@
 - [Paul Benson](https://github.com/prbenson)
 - [Mike Wales](https://github.com/walesmd)
 - [Rishabh Chauhan](https://github.com/rishabhc32)
+- [Cole Mortensen](https://github.com/magicole)
+- [Kent Mok](https://github.com/kmok23)
