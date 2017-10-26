@@ -1085,5 +1085,6 @@
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
+- [Erika Ornstein @erorcodes](https://github.com/erorcodes)
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
 - [Michael Wright](https://github.com/michaelwright74)
