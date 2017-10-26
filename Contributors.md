@@ -1085,3 +1085,4 @@
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
+- [Michael Wright](https://github.com/michaelwright74)
