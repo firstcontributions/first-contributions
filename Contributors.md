@@ -1084,3 +1084,4 @@
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
+- [Sergei Tomin](https://github.com/driver-by)
