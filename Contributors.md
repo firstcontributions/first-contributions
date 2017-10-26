@@ -1095,3 +1095,4 @@
 - [Durga Venkatesh](https://github.com/buredurgagod)
 - [EnderManOfCoding](https://github.com/EndermanOfCoding)
 - [Clifford Mugerwa](https://github.com/cl14d)
+- [Elijah Rwothoromo](https://github.com/rwothoromo)
