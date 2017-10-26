@@ -1085,6 +1085,7 @@
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
+- [Sergei Tomin](https://github.com/driver-by)
 - [Abhay Chawla](https://github.com/abhaychawla)
 - [Erika Ornstein @erorcodes](https://github.com/erorcodes)
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
