@@ -1094,3 +1094,4 @@
 - [Michael Wright](https://github.com/michaelwright74)
 - [Durga Venkatesh](https://github.com/buredurgagod)
 - [EnderManOfCoding](https://github.com/EndermanOfCoding)
+- [Clifford Mugerwa](https://github.com/cl14d)
