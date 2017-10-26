@@ -1080,6 +1080,7 @@
 - [Paul Benson](https://github.com/prbenson)  
 - [mind-as-well](https://github.com/mind-as-well)  
 - [Mike Wales](https://github.com/walesmd)
+- [Kyle Johnston](https://github.com/kylejohnston)
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
