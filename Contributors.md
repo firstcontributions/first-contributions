@@ -1084,3 +1084,4 @@
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
+- [Rahul Kumar](https://github.com/r5k5)
