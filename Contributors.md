@@ -1097,3 +1097,4 @@
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
+- [Tamara Howell] (https://github.com/t-howell)
