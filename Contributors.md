@@ -1,4 +1,4 @@
-- [Tarun Jain](https://github.com/tarun885)
+﻿- [Tarun Jain](https://github.com/tarun885)
 - [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
@@ -1085,6 +1085,7 @@
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
 - [Kent Mok](https://github.com/kmok23)
+- [Paulo Lima](https://github.com/pbruny)
 - [Sergei Tomin](https://github.com/driver-by)
 - [Abhay Chawla](https://github.com/abhaychawla)
 - [Erika Ornstein @erorcodes](https://github.com/erorcodes)
