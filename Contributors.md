@@ -1093,3 +1093,4 @@
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
 - [Michael Wright](https://github.com/michaelwright74)
 - [Durga Venkatesh](https://github.com/buredurgagod)
+- [EnderManOfCoding](https://github.com/EndermanOfCoding)
