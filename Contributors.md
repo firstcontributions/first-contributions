@@ -1096,7 +1096,8 @@
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
 - [Michael Wright](https://github.com/michaelwright74)
 - [Durga Venkatesh](https://github.com/buredurgagod)
-- [EnderManOfCoding](https://github.com/EndermanOfCoding)
+- [EnderManOfCoding](https://github.com/EndermanOfCoding
+Jsjajakw teri maa ki chut)
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
