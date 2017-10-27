@@ -1,4 +1,5 @@
-﻿- [Tarun Jain](https://github.com/tarun885)
+﻿- [Baz Scourfield] (https://github.com/bazscourfield)
+- [Tarun Jain](https://github.com/tarun885)
 - [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
@@ -1096,5 +1097,11 @@
 - [EnderManOfCoding](https://github.com/EndermanOfCoding)
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
-- [Elijah Rwothoromo](https://github.com/rwothoromo)]
-- [Jamiekwi] (https://github.com/jamiekwi)
+- [Jamiekwi](https://github.com/jamiekwi)
+- [Elijah Rwothoromo](https://github.com/rwothoromo)
+- [Anthony_Voss](https://github.com/anthonyjvoss)
+- [Tamara Howell] (https://github.com/t-howell)
+- [Kartik](https://github.com/kartikishere)
+- [Arpit Mathur](https://github.com/MrMathur)
+- [Vikneshwar](https://github.com/vikneshwar)
+
