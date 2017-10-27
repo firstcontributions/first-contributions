@@ -1099,7 +1099,7 @@
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
-- [Ansel](https://github.com/anselb)
+- [Miftakhul Arzak](https://github.com/arzakmiftakhul)
 - [Anthony_Voss](https://github.com/anthonyjvoss)
 - [Tamara Howell] (https://github.com/t-howell)
 - [Kartik](https://github.com/kartikishere)
