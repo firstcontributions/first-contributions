@@ -1,4 +1,5 @@
-﻿- [Sachin Shetty](https://github.com/sachinsshetty)
+﻿- [Jack Sodeman](https://github.com/TICG)
+- [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
 ﻿- [Baz Scourfield] (https://github.com/bazscourfield)
 - [Icaro Leite](https://github.com/icaaro)
