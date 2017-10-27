@@ -1,5 +1,6 @@
 ﻿- [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
+﻿- [Baz Scourfield] (https://github.com/bazscourfield)
 - [Icaro Leite](https://github.com/icaaro)
 - [Jorge Monte](https://github.com/jorgemonte)
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
@@ -1098,3 +1099,9 @@
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
+- [Anthony_Voss](https://github.com/anthonyjvoss)
+- [Tamara Howell] (https://github.com/t-howell)
+- [Kartik](https://github.com/kartikishere)
+- [Arpit Mathur](https://github.com/MrMathur)
+- [Vikneshwar](https://github.com/vikneshwar)
+
