@@ -1079,3 +1079,4 @@
 - [Ihor Kufley](https://github.com/ihorku)
 - [Paul Benson](https://github.com/prbenson)
 - [Mike Wales](https://github.com/walesmd)
+- [Eric Tran](https://github.com/erctrn)
