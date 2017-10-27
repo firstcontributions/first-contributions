@@ -1100,6 +1100,7 @@
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
+- [Hieu Nguyen](https://github.com/hieunguyenm)
 - [OctoMat](https://github.com/octomat)
 - [Ben West](https://github.com/benwestdev)
 - [Miftakhul Arzak](https://github.com/arzakmiftakhul)
