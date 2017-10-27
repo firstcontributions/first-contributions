@@ -1097,6 +1097,7 @@
 - [EnderManOfCoding](https://github.com/EndermanOfCoding)
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
+- [Jamiekwi](https://github.com/jamiekwi)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
 - [Anthony_Voss](https://github.com/anthonyjvoss)
 - [Tamara Howell] (https://github.com/t-howell)
