@@ -1157,3 +1157,4 @@
 - [Juan Francisco López Luna](https://github.com/JuanLoLuna)
 - [Andre Cruz](https://github.com/AndreFCruz)
 - [2 of 5, Auxiliary Drone of Unimatrix 12](https://github.com/potherca-bot)
+- [Kai Chen](https://github.com/KaiUsesThis)
