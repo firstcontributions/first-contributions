@@ -1,3 +1,4 @@
+- [Rod Gudge](https://github.com/RodGudge)
 ﻿- [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
@@ -1089,7 +1090,6 @@
 - [Paul Benson](https://github.com/prbenson)  
 - [mind-as-well](https://github.com/mind-as-well)  
 - [Mike Wales](https://github.com/walesmd)
-- [Eric Tran](https://github.com/erctrn)
 - [Kyle Johnston](https://github.com/kylejohnston)
 - [Rishabh Chauhan](https://github.com/rishabhc32)
 - [Cole Mortensen](https://github.com/magicole)
