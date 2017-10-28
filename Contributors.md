@@ -1146,3 +1146,8 @@
 - [Rohit Pandey](https://github.com/masterdungeon)
 - [Viral Thakkar](https://github.com/viralnt)
 - [Dear Salisa](https://github.com/dearsalisa)
+- [Nikhil Arora](https://github.com/iamoperand)
+- [Alex Mayol](https://github.com/AlexMayol)
+- [Sam Tiwari](https://github.com/Saumya29)
+- [Tyler Viles](https://github.com/tviles)
+
