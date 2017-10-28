@@ -1156,3 +1156,4 @@
 - [Anish Agnihotri](https://github.com/anish-agnihotri)
 - [Juan Francisco López Luna](https://github.com/JuanLoLuna)
 - [Andre Cruz](https://github.com/AndreFCruz)
+- [Kai Chen](https://github.com/KaiUsesThis)
