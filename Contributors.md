@@ -1,4 +1,5 @@
-﻿- Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
+- [Lina Grybauskaite](https://github.com/linaou)
+- Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
 ﻿- [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
