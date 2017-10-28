@@ -1115,6 +1115,7 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [Jitendra Kumar Tripathi](https://github.com/callowidealist)
 - [Niloy](https://github.com/Front3ndNinja)
 - [Aquib](https://github.com/aquib786)
 - [Pradeep](https://github.com/pradunmt)
