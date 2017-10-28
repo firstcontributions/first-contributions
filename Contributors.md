@@ -1111,5 +1111,6 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [mysqlbox](https://github.com/mysqlbox)
 - [Chahat Bansal](https://github.com/chahatbansal)
 - [TheKhenzie](https://github.com/thekhenzi)
