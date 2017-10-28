@@ -64,6 +64,7 @@
 - [Parker Dyer](https://github.com/parkerdyer)
 - [meherpooja]
 - [LostSeaWay](https://github.com/lostseaway)
+- [Raryson](https://github.com/raryson)
 - [joranhezon](https://github.com/joranhezon)
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
@@ -523,6 +524,7 @@
 - [Michaelsun Baluyos](https://github.com/michaelsunb)
 - [Caleb Ikhuohon-Eboreime](https://github.com/calebikhuohon)
 - [Suryadeep Pal](https://github.com/techpool)
+- [Manggala CIty](https://github.com/manggalacity)
 - [Apoorv Vardhan]
 - [Anuj Pahade](https://github.com/Username-anuj)
 - [Wasim Akram](https://github.com/wasimwazi)
@@ -992,7 +994,7 @@
 - [Developer Wahala](https://github.com/devwahala)
 - [Chen Hui Jing](https://github.com/huijing)
 - [blue98](https://github.com/blue98)
-- [Ravi kishore Thella](ravikishorethella.com) (https://github.com/ravikishorethella)
+- [Ravi kishore Thella](https://github.com/ravikishorethella)
 - [Nico Kelds](https://github.com/nicokelds)
 - [Drew Rautenerg](https://github.com/drewrautenberg)
 - [Daniel Wang](https://github.com/meow404)
@@ -1106,7 +1108,7 @@
 - [Ben West](https://github.com/benwestdev)
 - [Miftakhul Arzak](https://github.com/arzakmiftakhul)
 - [Anthony_Voss](https://github.com/anthonyjvoss)
-- [Tamara Howell] (https://github.com/t-howell)
+- [Tamara Howell](https://github.com/t-howell)
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
