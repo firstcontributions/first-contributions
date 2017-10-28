@@ -1,4 +1,4 @@
-- [Sanjay Johny](https://github.com/san45) 
+- [Sanjay Johny](https://github.com/san45)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
 - Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
@@ -1090,8 +1090,8 @@
 - [Imesh Umayanga](http://github.com/imesh94)
 - [Bhavika Potdar](http://github.com/bhavi12)
 - [Ihor Kufley](https://github.com/ihorku)
-- [Paul Benson](https://github.com/prbenson)  
-- [mind-as-well](https://github.com/mind-as-well)  
+- [Paul Benson](https://github.com/prbenson)
+- [mind-as-well](https://github.com/mind-as-well)
 - [Mike Wales](https://github.com/walesmd)
 - [Kyle Johnston](https://github.com/kylejohnston)
 - [Rishabh Chauhan](https://github.com/rishabhc32)
@@ -1150,4 +1150,5 @@
 - [Alex Mayol](https://github.com/AlexMayol)
 - [Sam Tiwari](https://github.com/Saumya29)
 - [Tyler Viles](https://github.com/tviles)
+- [Chelong Lin](https://github.com/chelomg)
 
