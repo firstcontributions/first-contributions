@@ -524,6 +524,7 @@
 - [Michaelsun Baluyos](https://github.com/michaelsunb)
 - [Caleb Ikhuohon-Eboreime](https://github.com/calebikhuohon)
 - [Suryadeep Pal](https://github.com/techpool)
+- [Manggala CIty](https://github.com/manggalacity)
 - [Apoorv Vardhan]
 - [Anuj Pahade](https://github.com/Username-anuj)
 - [Wasim Akram](https://github.com/wasimwazi)
