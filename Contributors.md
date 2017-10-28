@@ -1145,6 +1145,7 @@
 - [Ajay Tanwar](https://github.com/ajayt365)
 - [Rohit Pandey](https://github.com/masterdungeon)
 - [Viral Thakkar](https://github.com/viralnt)
+- [Alex Mayol](https://github.com/AlexMayol)
 - [Sam Tiwari](https://github.com/Saumya29)
 - [Tyler Viles](https://github.com/tviles)
 
