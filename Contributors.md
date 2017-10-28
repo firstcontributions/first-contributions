@@ -1154,3 +1154,4 @@
 - [Chelong Lin](https://github.com/chelomg)
 - [Pimmie Schoorl](https://github.com/pimmieschoorl)
 - [Anish Agnihotri](https://github.com/anish-agnihotri)
+- [Andre Cruz](https://github.com/AndreFCruz)
