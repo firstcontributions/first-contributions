@@ -1,3 +1,4 @@
+- Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
 ﻿- [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
@@ -1115,6 +1116,7 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [Robert Holl](https://github.com/robertholl)
 - [bixor](https://github.com/bixor)
 - [Jitendra Kumar Tripathi](https://github.com/callowidealist)
 - [Niloy](https://github.com/Front3ndNinja)
@@ -1129,3 +1131,5 @@
 - [Dmitry Shamrilo](https://github.com/shamrilods)
 - [libelluleoupapillon75] (https://github.com/libelluleoupapillon75)
 - [Ravi Pocha](https://github.com/pocharavi)
+- [kaushal196](https://github.com/Kaushal196)
+- [Ball Surasit] (https://github.com/ballsurasit)
