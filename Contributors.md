@@ -1,4 +1,3 @@
-- [Rod Gudge](https://github.com/RodGudge)
 ﻿- [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
@@ -1116,6 +1115,7 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [Paul Russavage] (https://github.com/russav)
 - [bixor](https://github.com/bixor)
 - [Jitendra Kumar Tripathi](https://github.com/callowidealist)
 - [Niloy](https://github.com/Front3ndNinja)
