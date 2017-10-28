@@ -10,7 +10,7 @@ const projectList = [
     imageSrc: 'https://avatars2.githubusercontent.com/u/5624255?v=3&s=100',
     githubLink: 'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
     description: 'Quickly ramp up in new programming languages',
-    tag: ['multi language', 'exercises', 'CLI', 'web app'],
+    tag: ['Ruby', 'exercises', 'CLI', 'web app'],
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
@@ -22,7 +22,7 @@ const projectList = [
     imageSrc: 'https://avatars1.githubusercontent.com/u/18171698?v=3&s=100',
     githubLink: 'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-Easy',
     description: 'Modern applications with built-in automation',
-    tag: ['docs', 'css', 'html', 'frontend', 'UI', 'rust', 'shell', 'CLI', 'MacOS', 'Windows', 'Linux'],
+    tag: ['docs','frontend','rust','multiOS'],
   }, {
     name: 'Scikit-learn',
     imageSrc: 'https://avatars0.githubusercontent.com/u/365630?v=3&s=100',
@@ -46,7 +46,7 @@ const projectList = [
     imageSrc: 'https://avatars2.githubusercontent.com/u/6764390?v=3&s=100',
     githubLink: 'https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22',
     description: 'Open Source, Distributed, RESTful Search Engine',
-    tag: ['REST', 'API', 'docs', 'java', 'lucene'],
+    tag: ['REST', 'docs', 'java', 'lucene'],
   }, {
     name: 'Homebrew',
     imageSrc: 'https://avatars2.githubusercontent.com/u/1503512?v=3&s=100',
@@ -76,7 +76,7 @@ const projectList = [
     imageSrc: 'https://avatars3.githubusercontent.com/u/409046?v=3&s=100',
     githubLink: 'https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy',
     description: 'Open Source real-time strategy game engine for early Westwood games',
-    tag: ['AI', 'RTS', 'Front end', 'Docs', 'UI', 'C#', 'SDL', 'OpenGL'],
+    tag: ['AI', 'C#', 'SDL', 'OpenGL'],
   }, {
     name: 'PowerShell',
     imageSrc: 'https://avatars0.githubusercontent.com/u/11524380?v=3&s=100',
