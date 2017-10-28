@@ -64,6 +64,7 @@
 - [Parker Dyer](https://github.com/parkerdyer)
 - [meherpooja]
 - [LostSeaWay](https://github.com/lostseaway)
+- [Raryson](https://github.com/raryson)
 - [joranhezon](https://github.com/joranhezon)
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
