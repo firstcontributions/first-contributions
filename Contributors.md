@@ -1,4 +1,5 @@
-﻿- [Sachin Shetty](https://github.com/sachinsshetty)
+- Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
+- [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
 ﻿- [Baz Scourfield] (https://github.com/bazscourfield)
 - [Icaro Leite](https://github.com/icaaro)
