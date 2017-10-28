@@ -792,6 +792,7 @@
 - [Wathin Sonnukij](https://github.com/iamwee)
 - [Piotr Zawadzki](https://github.com/zaramid)
 - [Gary Dhillon](https://github.com/gary-dhillon)
+- [Karthik Jagadeesha](https://github.com/karthikJagadeesh)
 - [Robat Das Orvi](https://github.com/orvi2014)
 - [Allysa Fletcher](https://github.com/alldanfin)
 - [NVS ABHISHEK](https://github.com/NVS16)
