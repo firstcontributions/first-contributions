@@ -1112,4 +1112,5 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [Dmitry Shamrilo](https://github.com/shamrilods)
 - [libelluleoupapillon75] (https://github.com/libelluleoupapillon75)
