@@ -1,4 +1,3 @@
-﻿-[Kailash Mandal](https://github.com/kailashmandal13)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 ﻿- [Tarun Jain](https://github.com/tarun885)
 ﻿- [Baz Scourfield] (https://github.com/bazscourfield)
@@ -1113,5 +1112,7 @@
 - [Kartik](https://github.com/kartikishere)
 - [Arpit Mathur](https://github.com/MrMathur)
 - [Vikneshwar](https://github.com/vikneshwar)
+- [Rayudu Bobbili](https://github.com/rayudu4321)
+- [Loracsilva](https://github.com/loracsilva)
 - [Dmitry Shamrilo](https://github.com/shamrilods)
 - [libelluleoupapillon75] (https://github.com/libelluleoupapillon75)
