@@ -37,6 +37,7 @@
 - [jdouty](https://github.com/jdouty)
 - [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36/)
+- [yecicen](https://github.com/yecicen/)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
 - [HeavyVin 👓](https://github.com/HeavyVin)
 - [KidSunday](https://github.com/KidSunday)
