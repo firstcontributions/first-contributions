@@ -1,4 +1,4 @@
-- [Adam Benckeser](https://github.com/yourfriendadam)
+﻿- [Adam Benckeser](https://github.com/yourfriendadam)
   [Sanjay Johny](https://github.com/san45)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
@@ -35,6 +35,7 @@
 - [gipsi](https://github.com/gipsi)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
+- [Narayana Suri](https://github.com/narayanasuri)
 - [drac00l](https://github.com/drac00l)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
@@ -1167,3 +1168,4 @@
 - [Niks](https://github.com/nikhilatmaple)
 - [Yi](https://github.com/frozzie)
 - [tvixxx](https://github.com/tvixxx)
+- [Beso94](https://github.com/beso94)
