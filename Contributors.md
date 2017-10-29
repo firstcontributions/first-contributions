@@ -1177,3 +1177,4 @@
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
+- [John Johnson](https://github.com/JohnJohnsonIII)
