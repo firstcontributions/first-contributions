@@ -1162,4 +1162,5 @@
 - [Samuel Lando](https://github.com/samuellando)
 - [António Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
+- [Shara Soguilon](https://github.com/lancelotx01)
 - [Yi] (https://github.com/frozzie)
