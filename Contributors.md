@@ -1159,6 +1159,7 @@
 - [Anish Agnihotri](https://github.com/anish-agnihotri)
 - [Juan Francisco López Luna](https://github.com/JuanLoLuna)
 - [Andre Cruz](https://github.com/AndreFCruz)
+- [Andrew Zhuravchak](https://github.com/Retsediv)
 - [2 of 5, Auxiliary Drone of Unimatrix 12](https://github.com/potherca-bot)
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [Samuel Lando](https://github.com/samuellando)
