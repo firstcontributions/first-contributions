@@ -1166,3 +1166,4 @@
 - [Shara Soguilon](https://github.com/lancelotx01)
 - [Niks](https://github.com/nikhilatmaple)
 - [Yi](https://github.com/frozzie)
+- [Beso94](https://github.com/beso94)
