@@ -1193,3 +1193,4 @@
 - [John Johnson](https://github.com/JohnJohnsonIII)
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
+- [Max Vasin Limsukhawat](https://github.com/vasinl124/)
