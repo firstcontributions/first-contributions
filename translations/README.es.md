@@ -1,13 +1,21 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Primeras Contribuciones
 
-Siempre resulta difícil cuando se comienza a hacer algo por primera vez.Principalmente cuando trabajas o colaboras con varias personas, pues equivocarse no es nada agradable.
-Sin embargo el "open source" o código abierto nos ofrece la posibilidad de trabajar en equipo.Asi que nuestro objetivo es simplificar la forma en la que los nuevos contribuidores "open source" aprenden y contribuyen por primera vez.
+Es difícil. Siempre resulta difícil cuando se comienza a hacer algo por primera vez. 
+Principalmente cuando colaboras con otros, pues cometer errores no es nada agradable.
+Sin embargo el código abierto tiene que ver con la colaboración y el trabajo conjunto. 
+Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores del 
+"open source" aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales nos sirve de gran ayuda,pero siempre es mejor evitar la mayor cantidad de errores.
-Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los novatos hacen su primera contribución.Recuerda que mientras más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución sólo sigue los sencillos pasos que se muestran a continuación. Te lo prometemos,será entretenido. 
+Leer artículos y ver tutoriales puede ayudar, pero qué mejor es hacer las cosas
+sin romper nada. Este proyecto se enfoca en ser una guía y en simplificar la 
+forma en la que los novatos hacen su primera contribución. Recuerda: mientras 
+más relajado estés, aprenderás mejor. Si quieres hacer tu primera contribución 
+sólo sigue los sencillos pasos que se muestran a continuación. 
+Te lo prometemos, será divertido. 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 

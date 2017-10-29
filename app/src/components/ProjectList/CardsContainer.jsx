@@ -15,6 +15,7 @@ export default class CardsContainer extends React.Component {
               logoLink={item.imageSrc}
               githubLink={item.githubLink}
               description={item.description}
+              tag={item.tag}
             />
           );
         })}
