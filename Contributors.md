@@ -1137,6 +1137,7 @@
 - [libelluleoupapillon75](https://github.com/libelluleoupapillon75)
 - [Ravi Pocha](https://github.com/pocharavi)
 - [kaushal196](https://github.com/Kaushal196)
+- [Ajay Singh] (https://github.com/AjayZinngg)
 - [Ball Surasit](https://github.com/ballsurasit)
 - [Ojas](https://github.com/ojas360)
 - [hale](https://github.com/haleilk)
@@ -1163,4 +1164,4 @@
 - [António Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
 - [Shara Soguilon](https://github.com/lancelotx01)
-- [Yi] (https://github.com/frozzie)
+- [Yi](https://github.com/frozzie)
