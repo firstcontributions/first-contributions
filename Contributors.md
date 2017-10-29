@@ -1,4 +1,5 @@
-- [Sanjay Johny](https://github.com/san45)
+- [Adam Benckeser](https://github.com/yourfriendadam)
+  [Sanjay Johny](https://github.com/san45)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
 - Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
@@ -1159,3 +1160,4 @@
 - [2 of 5, Auxiliary Drone of Unimatrix 12](https://github.com/potherca-bot)
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [António Almeida](https://github.com/antonioalmeida)
+- [Umesh Pandey](https://github.com/umeshpandey1994)
