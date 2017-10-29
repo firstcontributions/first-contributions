@@ -1,4 +1,5 @@
-﻿- [Adam Benckeser](https://github.com/yourfriendadam)
+﻿- [Kelly von Borstel] (https://github.com/vonborke)
+- [Adam Benckeser](https://github.com/yourfriendadam)
   [Sanjay Johny](https://github.com/san45)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
