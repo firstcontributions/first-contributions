@@ -1177,4 +1177,5 @@
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
+- [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
