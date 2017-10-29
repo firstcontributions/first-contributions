@@ -1178,3 +1178,5 @@
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
 - [John Johnson](https://github.com/JohnJohnsonIII)
+- [Olivia Lorimor](https://github.com/olorimor)
+- [CSIGildea](https://github.com/csigildea)
