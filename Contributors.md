@@ -1178,6 +1178,7 @@
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
+- [Robson Cruz](https://github.com/deadpyxel)
 - [Gopi Surendra] (https://github.com/gsrc1026)
 - [Bryan Falls](https://github.com/bfalls158)
 - [David Saul](https://github.com/DSaul91)
