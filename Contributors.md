@@ -1168,3 +1168,4 @@
 - [Niks](https://github.com/nikhilatmaple)
 - [Yi](https://github.com/frozzie)
 - [Beso94](https://github.com/beso94)
+- [Miguel Lentisco](https://github.com/alfaomegax)
