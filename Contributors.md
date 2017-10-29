@@ -1175,4 +1175,5 @@
 - [Tharindu Dilshan](https://github.com/TharinduDilshan)
 - [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi)
 - [Ceferino V.](https://github.com/whathejoe)
-- [Nathan Nash] (https://github.com/player2point0)
+- [Shved Peter](https://github.com/ShvedPeter)
+- [Nathan Nash](https://github.com/player2point0)
