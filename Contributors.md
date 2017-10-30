@@ -1,4 +1,5 @@
-﻿- [heroccccc] (https://github.com/heroccccc)
+﻿- [andynur] (https://github.com/andynur)
+- [heroccccc] (https://github.com/heroccccc)
 - [Kelly von Borstel] (https://github.com/vonborke)
 - [Adam Benckeser](https://github.com/yourfriendadam)
   [Sanjay Johny](https://github.com/san45)
@@ -1200,3 +1201,5 @@
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
 - [zuhurul](https://github.com/zuhurul)
+- [Irfan](https://github.com/irfannafri)
+- [djippers](https://github.com/djippers)
