@@ -1226,3 +1226,4 @@
 - [Sally Chin](https://github.com/summerhopes)
 - [Darian Low](https://github.com/shoe17)
 - [Anubhav Patel](https://github.com/anubhavp28)
+- [Shruti Kapoor](https://github.com/shrutikapoor08)
