@@ -1195,5 +1195,6 @@
 - [John Johnson](https://github.com/JohnJohnsonIII)
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
+- [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
