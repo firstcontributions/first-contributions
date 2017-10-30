@@ -1221,4 +1221,5 @@
 - [Arpan Samanta](https://github.com/arpan1998)
 - [Davisdoctor](https://github.com/Davisdoctor)
 - [Soumil Ghosh](https://github.com/lonewolf16)
+- [Cassi Gallagher-Shearer](https://github.com/CassiG)
 - [Sally Chin](https://github.com/summerhopes)
