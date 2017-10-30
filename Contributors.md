@@ -1220,4 +1220,7 @@
 - [Sidhant Subramanian](https://github.com/coderoda)
 - [Arpan Samanta](https://github.com/arpan1998)
 - [Emma Ogden] (https://github.com/SleepySheepy172)
-
+- [Davisdoctor](https://github.com/Davisdoctor)
+- [Soumil Ghosh](https://github.com/lonewolf16)
+- [Cassi Gallagher-Shearer](https://github.com/CassiG)
+- [Sally Chin](https://github.com/summerhopes)
