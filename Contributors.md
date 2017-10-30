@@ -1220,3 +1220,4 @@
 - [Sidhant Subramanian](https://github.com/coderoda)
 - [Arpan Samanta](https://github.com/arpan1998)
 - [Soumil Ghosh](https://github.com/lonewolf16)
+- [Cassi Gallagher-Shearer](https://github.com/CassiG)
