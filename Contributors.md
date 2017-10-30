@@ -1199,3 +1199,4 @@
 - [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
+- [Erlend Axelsson](https://github.com/erlend-axelsson)
