@@ -1,4 +1,5 @@
-﻿- [avidevil] (https://github.com/avidevil)
+﻿- [Sugeng Sulistiyawan] (https://github.com/die-coding)
+- [avidevil] (https://github.com/avidevil)
   [andynur] (https://github.com/andynur)
 - [heroccccc] (https://github.com/heroccccc)
 - [Kelly von Borstel] (https://github.com/vonborke)
