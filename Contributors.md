@@ -1206,6 +1206,7 @@
 - [Jitsak](https://github.com/jitsak-po)
 - [Erlend Axelsson](https://github.com/erlend-axelsson)
 - [Andrei Shauko](https://github.com/lapayx)
+- [Samuel Chris](https://github.com/sandec-fcc)
 - [zuhurul](https://github.com/zuhurul)
 - [Irfan](https://github.com/irfannafri)
 - [djippers](https://github.com/djippers)
