@@ -1202,6 +1202,7 @@
 - [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
+- [Jitsak](https://github.com/jitsak-po)
 - [Erlend Axelsson](https://github.com/erlend-axelsson)
 - [Andrei Shauko](https://github.com/lapayx)
 - [zuhurul](https://github.com/zuhurul)
