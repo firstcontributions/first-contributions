@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*อ่านบทความนี้ในภาษาอื่นๆ: [English](../README.md), [Myanmar Unicode](README.mm_unicode.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md) และ [Galician](README.gl.md).*
+#### *อ่านบทความนี้ใน[ภาษาอื่นๆ](../LANGUAGES.md)*
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
 
