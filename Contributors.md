@@ -1,4 +1,5 @@
-﻿- [andynur] (https://github.com/andynur)
+﻿- [avidevil] (https://github.com/avidevil)
+  [andynur] (https://github.com/andynur)
 - [heroccccc] (https://github.com/heroccccc)
 - [Kelly von Borstel] (https://github.com/vonborke)
 - [Adam Benckeser](https://github.com/yourfriendadam)
