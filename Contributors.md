@@ -62,6 +62,7 @@
 - [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
+- [Okeaja17](https://github.com/Okeaja17)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
 - [Cody R](https://github.com/crod93)
