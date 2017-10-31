@@ -1233,6 +1233,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Sherwin Watson](https://github.com/sherwinWatson)
 - [Jose Mendoza](https://github.com/jmendozav)
 - [Gene Xu](https://github.com/genexu)
 - [Aqsha Syahri Ramadhani](https://github.com/Nabbskuy)
