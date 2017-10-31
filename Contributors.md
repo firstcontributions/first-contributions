@@ -1229,3 +1229,4 @@
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
 - [Letícia Fernandes](https://github.com/leticiamara)
+- [Stupy spyy](https://github.com/Stupyspyy)
