@@ -3,7 +3,7 @@
 
 # Pierwsze kontrybucje
 
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemny. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcieliśmy uprościć dla nowych programistów proces nauki i wgrania swojej pierwszej zmiany w obcym projekcie.
+Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcieliśmy uprościć dla nowych programistów proces nauki i wgrania swojej pierwszej zmiany w obcym projekcie.
 
 Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć wskazówek i uprościć wgranie pierwszej zmiany nowicjuszom. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
@@ -125,7 +125,7 @@ Z czasem wiele zmian zostanie wprowadzonych do mojego publicznego repozytorium. 
 
 ## Utrzymywanie swojego forka zsynchronizowanego z tym repozytorium
 
-Na początku musisz zrozumieć idee pełnej synchronizacji. W tym wypadku istnieją 3 różne repozytoria: moje publiczne na Githubie `github.com/Roshanjossey/first-contributions/`, twój fork na Githubie `github.com/twoj-login/first-contributions/` i lokalne repozytorium na twoim komputerze, na którym pracujesz.
+Na początku musisz zrozumieć ideę pełnej synchronizacji. W tym wypadku istnieją 3 różne repozytoria: moje publiczne na Githubie `github.com/Roshanjossey/first-contributions/`, twój fork na Githubie `github.com/twoj-login/first-contributions/` i lokalne repozytorium na twoim komputerze, na którym pracujesz.
 
 Aby zsynchronizować twoje 2 repozytoria z moim musisz wpierw ściągnąć i scalić publiczne repozytorium z tym na twoim komputerze.
 Drugim krokiem jest wgranie twojego lokalnego repozytorium do forka na GitHubie. Jak już wcześniej widziałeś możesz poprosić o scalanie zmian (pull request) tylko ze swojego forka. Twój fork na GitHubie jest ostatnim repozytorium, które będzie zaktualizowane.
@@ -145,7 +145,7 @@ Dodaj moje publiczne repozytorium do swojego gita `add upstream remote-url`:
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
-Tym sposobem powiesz gitowi, że istnieje inna wersja tego repozytorium pod podanym adresem i nazywamy ją `upstream`. Gdy git zna już nazwę, ściągnijmy aktualną wersje publicznego repozytorium:
+Tym sposobem powiesz gitowi, że istnieje inna wersja tego repozytorium pod podanym adresem i nazywamy ją `upstream`. Gdy git zna już nazwę, ściągnijmy aktualną wersję publicznego repozytorium:
 ```
 git fetch upstream
 ```
