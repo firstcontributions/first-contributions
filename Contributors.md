@@ -1228,4 +1228,3 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
-- [Rob White](https://github.com/FearTheFrail)
