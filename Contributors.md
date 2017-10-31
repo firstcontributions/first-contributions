@@ -628,6 +628,7 @@
 - [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
+- [Omer Can Yazici] (https://github.com/yaziciom)
 - [James Brett](https://github.com/qsunnx)
 - [luisenrike](https://github.com/luisenrike)
 - [Eric Jonelunas](https://github.com/ejjonzey)
