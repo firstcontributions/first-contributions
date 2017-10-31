@@ -2785,6 +2785,7 @@
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
+- [aaazureee](https://github.com/aaazureee)
 - [Jim Plourde](https://github.com/giant995/first-contributions)
 - [Shashwat](https://github.com/shpulak)
 - [h4rdw0rk](https://github.com/h4rdw0rk/first-contributions)
