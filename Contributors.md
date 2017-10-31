@@ -1228,6 +1228,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Fitriana Alivia](https://github.com/mrsdark)
 - [Le Bon Bauma](https://github.com/Sharkzuria)
 - [Adi Bet](https://github.com/adibet)
 - [HemeraOne](https://github.com/HemeraOne)
