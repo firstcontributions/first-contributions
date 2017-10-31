@@ -3169,3 +3169,4 @@
 - [Deni Ardiansyah](https://github.com/denibla)
 - Amanda Slavinsky(https://github.com/amandaslav)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Caio Lopes](https://github.com/caiolopes)
