@@ -1230,6 +1230,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Scott Lin](https://github.com/MAJA-Lin)
 - [Avish Cheetaram](https://github.com/avish0694)
 - [Muhammad Aziz Idharrulhaq](https://github.com/Azidharr)
 - [Brian Nomwesigwa](https://github.com/Brian-Van-Stoner)
