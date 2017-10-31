@@ -1232,6 +1232,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Gene Xu](https://github.com/genexu)
 - [Aqsha Syahri Ramadhani](https://github.com/Nabbskuy)
 - [Kaustubh Welankar](https://github.com/kaustubh-welankar)
 - [Dilina De Silva](https://github.com/dilinadesilva)
