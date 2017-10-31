@@ -3165,3 +3165,4 @@
 - [Joy GM](https://github.com/royranger)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
+- Amanda Slavinsky(https://github.com/amandaslav)
