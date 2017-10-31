@@ -222,6 +222,7 @@
 - [Narendra Avula](https://github.com/narendradivi)
 - [Christian Hansen](https://github.com/ChrisWcs)
 - [Emil Plmkn](https://github.com/Plmkn)
+- [David Rojas](https://github.com/DavidRojas1612)
 - [Vinod K](https://github.com/vinodkoliyat)
 - [Dino Daniel](https://github.com/dinodn)
 - [SVinodh](https://github.com/paintedskies)
