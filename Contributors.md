@@ -3158,6 +3158,7 @@
 - [Michelle](https://github.com/michellechristina)
 - [Letícia Fernandes](https://github.com/leticiamara)
 - [Stupy spyy](https://github.com/Stupyspyy)
+- [astrofowl](https://github.com/astrofowl)
 - [Joy GM](https://github.com/royranger)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
