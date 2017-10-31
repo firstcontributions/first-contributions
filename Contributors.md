@@ -1228,7 +1228,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
-- [Bryen V](https://github.com/bryen95)
+- [HemeraOne](https://github.com/HemeraOne)
 - [Anish Duwal](https://github.com/duwalanise)
 - [Magnus Cardell](https://github.com/MagnusCardell)
 - [Anish Duwal](https://github.com/duwalanise)
