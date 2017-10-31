@@ -35,7 +35,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du réperto
 
 Par exemple:
 ```
-git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
 
