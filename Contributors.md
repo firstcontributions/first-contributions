@@ -1228,6 +1228,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Brian Nomwesigwa](https://github.com/Brian-Van-Stoner)
 - [Damir Podbojec](https://github.com/dpodboj1)
 - [Fitriana Alivia](https://github.com/mrsdark)
 - [Le Bon Bauma](https://github.com/Sharkzuria)
