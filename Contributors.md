@@ -820,3 +820,4 @@
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
+- [aaazureee](https://github.com/aaazureee)
