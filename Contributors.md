@@ -1,4 +1,5 @@
-﻿- [Sugeng Sulistiyawan] (https://github.com/die-coding)
+﻿- [devsur](https://github.com/devsur)
+- [Sugeng Sulistiyawan] (https://github.com/die-coding)
 - [avidevil] (https://github.com/avidevil)
   [andynur] (https://github.com/andynur)
 - [heroccccc] (https://github.com/heroccccc)
