@@ -1122,6 +1122,7 @@
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
+- [Justin Bubel](https://github.com/jbubel)
 - [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
 - [Hieu Nguyen](https://github.com/hieunguyenm)
 - [OctoMat](https://github.com/octomat)
