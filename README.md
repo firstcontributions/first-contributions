@@ -57,7 +57,7 @@ For example:
 ```
 git checkout -b add-alonzo-church
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+Note : The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.
 
 ## Make necessary changes and commit those changes
 
