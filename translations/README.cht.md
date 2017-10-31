@@ -35,7 +35,7 @@ git clone "剛才複製的 url 鏈接"
 
 譬如：
 ```
-git clone https://github.com/你的Github用戶名/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 '你的 Github 用戶名' 指的就是你的 Github 用戶名。這一步，你將複製到你賬戶名下的 first-contributions 這個代碼倉庫克隆到本地電腦上。
