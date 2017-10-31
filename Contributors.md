@@ -1228,5 +1228,5 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
-- [Inzimam Ul Haq](https://github.com/inhaq)
+- [Letícia Fernandes](https://github.com/leticiamara)
 - [Stupy spyy](https://github.com/Stupyspyy)
