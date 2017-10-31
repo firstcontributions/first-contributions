@@ -966,6 +966,7 @@
 - [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
 - [Roy Sung](https://github.com/roysung)
+- [Jim Yeh](https://github.com/JimYah)
 - [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
 - [Akshay Ramesh](https://github.com/AkshayRameshAppDEV)
