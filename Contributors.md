@@ -1232,6 +1232,7 @@
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
+- [Kitty Engineer](https://github.com/kittyengineer)
 - [Dilina De Silva](https://github.com/dilinadesilva)
 - [Anup Shrestha](https://github.com/demonsterking)
 - [Michelle](https://github.com/michellechristina)
