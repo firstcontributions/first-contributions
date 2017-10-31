@@ -1,4 +1,5 @@
-﻿- [Doruk Gezici](https://github.com/dorukgezici)
+﻿- [Atul Nair](https://github.com/atulnair)
+- [Doruk Gezici](https://github.com/dorukgezici)
 - [Sugeng Sulistiyawan] (https://github.com/die-coding)
 - [avidevil] (https://github.com/avidevil)
   [andynur] (https://github.com/andynur)
