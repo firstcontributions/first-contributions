@@ -3176,6 +3176,7 @@
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Robert Yuen](https://github.com/rhyuen)
 - [Echoskope](https://github.com/echoskope)
 - [Kevin Madison](https://github.com/kevinlmadison)
 - [Echessa](https://github.com/echessa)
