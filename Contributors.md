@@ -4,6 +4,7 @@
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
+- [Shiny](https://github.com/Shine0707)
 - [heroccccc](https://github.com/heroccccc)
 - [Kelly von Borstel](https://github.com/vonborke)
 - [Lokesh Agrawal](https://github.com/lkagrawal19)
@@ -3203,5 +3204,3 @@
 - [Irshad Ismayil](https://github.com/irshadshalu)
 - [Johnnycus](https://github.com/Johnnycus)
 - [dan](https://github.com/danctechi)
-
-
