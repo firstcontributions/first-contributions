@@ -1241,8 +1241,6 @@
 - [Adi Bet](https://github.com/adibet)
 - [HemeraOne](https://github.com/HemeraOne)
 - [ajborka ](https://www.github.com/ajborka )
-- ArcticSniper
-- Melanie Hudson aka Seekingcat
 - [Dorrito](https://github.com/DORRITO)
 - [Ajay Kumar Jogawath](https://github.com/akjogawath)
 ﻿- [devsur](https://github.com/devsur)
