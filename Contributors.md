@@ -1246,7 +1246,7 @@
 - [Dorrito](https://github.com/DORRITO)
 - [Ajay Kumar Jogawath](https://github.com/akjogawath)
 ﻿- [devsur](https://github.com/devsur)
-  [Sanjay Johny](https://github.com/san45)
+- [Sanjay Johny](https://github.com/san45)
 - [@fanbyprinciple](https://github.com/fanbyprinciple))
 - [Cheng](https://github.com/machiko)
 - [David Rojas](https://github.com/DavidRojas1612)
