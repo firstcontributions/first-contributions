@@ -12,6 +12,7 @@
 - [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 - [sudheerdarla](https://github.com/sudheerdarla)
+- [Jacurtis](https://github.com/jacurtis) DevMarketer
 - [Tarun Jain](https://github.com/tarun885)
 - [Baz Scourfield] (https://github.com/bazscourfield)
 - [kunwar11](https://github.com/kunwar11)
