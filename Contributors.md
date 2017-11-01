@@ -3174,6 +3174,7 @@
 - Amanda Slavinsky(https://github.com/amandaslav)
 - [Erica Culbreath](https://github.com/EriJBreeze)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Chelsea C](https://github.com/sea-of-chel)
 - [Vladi Beeblebrox](https://github.com/ewoks)
 - [Caio Lopes](https://github.com/caiolopes)
 - [Hussain Sakriwala](https://github.com/hussainskr)
