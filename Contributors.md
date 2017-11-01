@@ -3173,6 +3173,7 @@
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Rishi-kaushik](https://github.com/Rishi-kaushik)
 - [Vladi Beeblebrox](https://github.com/ewoks)
 - [Erica Culbreath](https://github.com/EriJBreeze)
 - [Chelsea C](https://github.com/sea-of-chel)
