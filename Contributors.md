@@ -3173,6 +3173,7 @@
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Echessa](https://github.com/echessa)
 - [jessynay](https://github.com/jessynay)
 - [Ranjith Kumar Nagella](https://github.com/rnagella)
 - [Rishi-kaushik](https://github.com/Rishi-kaushik)
