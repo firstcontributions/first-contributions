@@ -3171,3 +3171,4 @@
 - [Deni Ardiansyah](https://github.com/denibla)
 - Amanda Slavinsky(https://github.com/amandaslav)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Jonathan Burk](https://github.com/JMB2K)
