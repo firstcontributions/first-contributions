@@ -2610,6 +2610,7 @@
 - [Pablo J](https://github.com/pablo0910)
 - [Abhishek Tiwari](https://github.com/zeus0789)
 - [Sudhanshu Jaiswal](https://github.com/sudsj)
+- [Augusto da Silva Costa](https://github.com/gutocosta)
 - [Eric Karschner](https://github.com/EricKarschner37)
 - [Rakesh Raghu](https://github.com/rakeshraghupr)
 - [Pedro Ávila](https://github.com/avilapedro/)
