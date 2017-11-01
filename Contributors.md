@@ -1,4 +1,5 @@
-﻿- [Doruk Gezici](https://github.com/dorukgezici)
+- [JXTG] (https://github.com/JXTG)
+- [Doruk Gezici](https://github.com/dorukgezici)
 - [Sugeng Sulistiyawan] (https://github.com/die-coding)
 - [avidevil] (https://github.com/avidevil)
   [andynur] (https://github.com/andynur)
