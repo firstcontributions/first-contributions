@@ -7,11 +7,11 @@ Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama ketika
 
 Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+#### *Baca di [bahasa lainnya](LANGUAGES.md)* 
 
-*Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md).*
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install ]( https://help.github.com/articles/set-up-git/ ) segera.
+Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Fork repositori ini
 
