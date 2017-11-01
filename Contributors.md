@@ -1,3 +1,4 @@
+- [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG] (https://github.com/JXTG)
 ﻿- [Doruk Gezici](https://github.com/dorukgezici)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
@@ -1924,7 +1925,7 @@
 ﻿- [devsur](https://github.com/devsur)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
 - [avidevil](https://github.com/avidevil)
-  [andynur](https://github.com/andynur)
+- [andynur](https://github.com/andynur)
 - [heroccccc](https://github.com/heroccccc)
 - [Kelly von Borstel](https://github.com/vonborke)
 - [Adam Benckeser](https://github.com/yourfriendadam)
