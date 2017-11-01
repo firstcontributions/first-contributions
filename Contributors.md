@@ -1434,7 +1434,7 @@
 - [xribene](https://github.com/xribene)
 - ArcticSniper
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
-- [Joaqu�n Pignol](https://github.com/joespi)
+- [Joaquín Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
@@ -2180,7 +2180,7 @@
 - [ArcticSniper](https://github.com/ArcticSniper)
 - [Wei-Chien Hsu](https://github.com/WeiChienHsu)
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
-- [Joaqu�n Pignol](https://github.com/joespi)
+- [Joaquín Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
