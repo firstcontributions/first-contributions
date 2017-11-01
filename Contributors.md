@@ -3172,7 +3172,7 @@
 - Amanda Slavinsky(https://github.com/amandaslav)
 - [Erica Culbreath](https://github.com/EriJBreeze)
 - [Agham Arta Bima](https://github.com/aghambla)
-- [Izuumka](https://github.com/Izuumka)
+- [Raja Dorji](https://github.com/raja-d)
 - [Sakshi Jain] (https://github.com/sakshi7896)
 - [Decipher](https://github.com/Decipher0)
 - [Félix Alejandro Guzmán](https://github.com/felixalguzman)
