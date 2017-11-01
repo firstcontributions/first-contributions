@@ -3172,6 +3172,7 @@
 - Amanda Slavinsky(https://github.com/amandaslav)
 - [Erica Culbreath](https://github.com/EriJBreeze)
 - [Agham Arta Bima](https://github.com/aghambla)
+- [Decipher](https://github.com/Decipher0)
 - [Félix Alejandro Guzmán](https://github.com/felixalguzman)
 - [osolarik](https://github.com/osolarik)
 - [ShubhiL](https://github.com/ShubhiL)
