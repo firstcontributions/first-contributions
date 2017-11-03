@@ -1,4 +1,4 @@
-- [Aly Sheppard](https://github.com/asheppard6)
+﻿- [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
 ﻿- [Doruk Gezici](https://github.com/dorukgezici)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
@@ -689,6 +689,7 @@
 - [Abhishek Tiwari](https://github.com/zeus0789)
 - [Sudhanshu Jaiswal](https://github.com/sudsj)
 - [Eric Karschner](https://github.com/EricKarschner37)
+- [Cercei](https://github.com/cercei)
 - [Rakesh Raghu](https://github.com/rakeshraghupr)
 - [Pedro Ávila](https://github.com/avilapedro/)
 - [Jason](https://github.com/daxapps)
