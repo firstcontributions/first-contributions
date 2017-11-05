@@ -1,3 +1,4 @@
+- [Giuseppe Masino](https://github.com/qub1750ul)
 - [Gareth Davies](http://github.com/gareth-d85)
 - [Nic Schmidt](https://github.com/166inter)
 - [Monika Bhardwaj](https://github.com/monikabhardwaj)
