@@ -1,5 +1,6 @@
--[Monika Bhardwaj](https://github.com/monikabhardwaj)
-﻿- [Nic Schmidt](https://github.com/166inter)
+- [Gareth Davies](http://github.com/gareth-d85)
+- [Nic Schmidt](https://github.com/166inter)
+- [Monika Bhardwaj](https://github.com/monikabhardwaj)
 - [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
 ﻿- [Doruk Gezici](https://github.com/dorukgezici)
