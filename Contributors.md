@@ -1319,3 +1319,4 @@
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
+- [Gilliano Menezes](https://github.com/gillianomenezes)
