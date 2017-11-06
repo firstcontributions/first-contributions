@@ -1,3 +1,4 @@
+- [Bill McClung](https://github.com/cfgauss)
 - [Giuseppe Masino](https://github.com/qub1750ul)
 - [Gareth Davies](http://github.com/gareth-d85)
 - [Nic Schmidt](https://github.com/166inter)
