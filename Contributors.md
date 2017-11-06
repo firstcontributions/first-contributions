@@ -1312,5 +1312,6 @@
 - [Jaspreet Singh](https://github.com/iamjaspreetsingh)
 - [Nao000](https://github.com/Nao000)
 - [Austin](https://github.com/apcatx)
+- [ParkourKarthik](https://github.com/parkourkarthik)
 - [Douglas Feuser](https://github.com/Douglasfeuser)
 - [Daphnie Donnell](https://github.com/daphnied)
