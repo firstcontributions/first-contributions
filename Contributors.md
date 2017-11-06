@@ -1311,3 +1311,4 @@
 - [Jaspreet Singh](https://github.com/iamjaspreetsingh)
 - [Nao000](https://github.com/Nao000)
 - [Austin](https://github.com/apcatx)
+- [Adil Mahmood](https://github.com/AdilMah)
