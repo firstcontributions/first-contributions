@@ -1321,3 +1321,4 @@
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
 - [Gilliano Menezes](https://github.com/gillianomenezes)
+- [Alex Weininger](https://github.com/alexweininger)
