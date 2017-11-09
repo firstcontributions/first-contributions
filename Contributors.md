@@ -1324,3 +1324,4 @@
 - [Alex Weininger](https://github.com/alexweininger)
 - [Sureshkumar Subramani](https://github.com/sureshjsweb)
 - [Mikki Mesfin](https://github.com/mikkimesfin)
+- [Raffy Alcoriza](https://github.com/picapixa)
