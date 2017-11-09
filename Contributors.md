@@ -1,4 +1,5 @@
 - [Baptistemz](https://github.com/baptistemz)
+- [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
 - [Giuseppe Masino](https://github.com/qub1750ul)
 - [Gareth Davies](http://github.com/gareth-d85)
