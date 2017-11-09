@@ -1326,3 +1326,4 @@
 - [Mikki Mesfin](https://github.com/mikkimesfin)
 - [Christine Ocana](https://github.com/hikikomouri)
 - [Raffy Alcoriza](https://github.com/picapixa)
+- [Ashish Mishra](https://github.com/ashish10677)
