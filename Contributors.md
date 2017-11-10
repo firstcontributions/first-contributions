@@ -1331,4 +1331,5 @@
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
+- [Anamol Saxena](https://github.com/anamol-saxena)
 
