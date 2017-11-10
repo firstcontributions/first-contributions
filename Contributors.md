@@ -1,4 +1,4 @@
-﻿- [Baptistemz](https://github.com/baptistemz)
+- [Baptistemz](https://github.com/baptistemz)
 - [arun](https://github.com/arun99481)
 - [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
@@ -1333,4 +1333,4 @@
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Anamol Saxena](https://github.com/anamol-saxena)
-
+Cheng Chin Lim
