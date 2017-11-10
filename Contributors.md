@@ -1333,4 +1333,4 @@
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Anamol Saxena](https://github.com/anamol-saxena)
-
+- [Oskar F] (https://github.com/osa1313)
