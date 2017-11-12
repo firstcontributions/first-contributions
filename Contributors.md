@@ -1335,5 +1335,6 @@
 - [Anamol Saxena](https://github.com/anamol-saxena)
 Cheng Chin Lim
 - [Oskar F] (https://github.com/osa1313)
-[Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Sindar King](https://github.com/sindarking)
 
