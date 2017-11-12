@@ -149,6 +149,7 @@ const projectList = [
     imageSrc: 'https://image.ibb.co/fUM5oG/profile_first_pr.png',
     githubLink: 'https://github.com/danthareja/contribute-to-open-source',
     description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project ',
+    tag: ['GitHub', 'tutorial'],
   },
 ];
 
