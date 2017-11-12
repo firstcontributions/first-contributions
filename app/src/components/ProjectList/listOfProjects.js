@@ -144,6 +144,11 @@ const projectList = [
     imageSrc: 'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
     githubLink: 'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration',
+  }, {
+    name: 'Contribute to Open Source',
+    imageSrc: 'https://image.ibb.co/fUM5oG/profile_first_pr.png',
+    githubLink: 'https://github.com/danthareja/contribute-to-open-source',
+    description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project ',
   },
 ];
 
