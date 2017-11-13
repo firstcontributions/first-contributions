@@ -1332,6 +1332,7 @@
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
+- [Ross Lillis](https://github.com/roscolil)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 Cheng Chin Lim
 - [Oskar F] (https://github.com/osa1313)
