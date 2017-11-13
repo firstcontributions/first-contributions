@@ -1336,6 +1336,8 @@
 Cheng Chin Lim
 - [Oskar F] (https://github.com/osa1313)
 - [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Remya Maya](https://github.com/mtremya)
+- [Mohamed Sayyaf](https://github.com/Sayyaf123)
 - [Sindar King](https://github.com/sindarking)
 - [Tomi Odusanya](https://github.com/odusanya)
 
