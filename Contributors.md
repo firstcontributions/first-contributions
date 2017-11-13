@@ -1,4 +1,5 @@
 - [Baptistemz](https://github.com/baptistemz)
+- [arun](https://github.com/arun99481)
 - [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
 - [Giuseppe Masino](https://github.com/qub1750ul)
@@ -1332,4 +1333,12 @@
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Ross Lillis](https://github.com/roscolil)
+- [Anamol Saxena](https://github.com/anamol-saxena)
+Cheng Chin Lim
+- [Oskar F] (https://github.com/osa1313)
+- [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Remya Maya](https://github.com/mtremya)
+- [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Sindar King](https://github.com/sindarking)
+- [Tomi Odusanya](https://github.com/odusanya)
 
