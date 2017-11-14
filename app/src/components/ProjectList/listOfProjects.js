@@ -119,6 +119,7 @@ const projectList = [
     imageSrc: 'https://avatars3.githubusercontent.com/u/3406112?v=3&s=100',
     githubLink: 'https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22',
     description: 'Pocket-sized database',
+    tag: ['JavaScript','Node.js','CouchDB'],
   }, {
     name: 'Neovim',
     imageSrc: 'https://avatars0.githubusercontent.com/u/6471485?v=3&s=100',
@@ -129,6 +130,7 @@ const projectList = [
     imageSrc: 'https://avatars1.githubusercontent.com/u/1888826?v=3&s=100',
     githubLink: 'https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
     description: 'The Offline First JavaScript Backend',
+    tag: ['JavaScript','Node.js'],
   }, {
     name: 'freeCodeCamp',
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
@@ -139,6 +141,7 @@ const projectList = [
     imageSrc: 'https://avatars1.githubusercontent.com/u/9950313?v=3&s=100',
     githubLink: 'https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'Node.js JavaScript runtime',
+    tag: ['JavaScript', 'HTML', 'CSS'],
   }, {
     name: 'Semantic-UI-React',
     imageSrc: 'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
