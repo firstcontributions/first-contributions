@@ -1,19 +1,18 @@
 ## 로컬 커밋 되돌리기
 
-로컬에서 이미 커밋을 완료한 소스를 되돌리기 위해서는 다음 명령을 실행합니다.
+로컬에서 커밋을 위해 스테이징 영역에 추가한 작업 내용을 되돌리기 위해서는 다음 명령을 실행합니다.
 ```
 git reset
 ```
 
-위 명령어는 스테이징 영역에서 가장 최근에 반영한 커밋을 리셋합니다. 
-하지만 여러분의 작업 디렉토리에 변경한 파일들은 수정하지 않습니다. 따라서 여러분이 수정한 소스를 다시 커밋할 수 있습니다. 
-만일 이전에 커밋한 변경된 파일 중에서 하나의 파일만 제거하기를 원할 경우, 아래 명령을 실행하세요.
+위 명령어는 수정한 코드가 반영된 스테이징 영역을 가장 최근에 반영한 커밋상태로 되돌립니다. 
+하지만 여러분의 작업 디렉토리에 수정한 내용들은 변경되지 않습니다. 따라서 여러분이 수정한 소스를 다시 커밋할 수 있습니다. 
+만일 이미 스테이징 영역에 반영된 수정한 파일들 중에서 하나의 파일만 커밋에서 제거하기를 원할 경우, 아래 명령을 실행합니다.
 
 ```
 git reset <file>
 ```
-The command will remove only the specified file from the staging area, but changes made on the file still remained.
-이 명령어는 스테이징 영역에서 해당 파일만 제거합니다. 그러나 작업 디렉토리에서는 변경된 상태 그대로 남아 있습니다.
+이 명령어는 스테이징 영역에서 해당 파일만 제거합니다. 그러나 작업 디렉토리에는 변경된 파일 상태 그대로 남아 있습니다.
 
 다음은 ```git reset``` 사용법에 관한 예제입니다.
 ```
@@ -30,13 +29,10 @@ $ git add tutorial.php
 $ git commit -m "Changed tutorial.php"
 ```
 
-로컬 저장소에 문제가 생겨 여러분의 마지막 커밋 상태로 되돌리고 싶다면 아래 명령을 실행할 수 있습니다.
+로컬 저장소에 문제가 생겨 여러분의 코드를 마지막 커밋 상태로 모두 되돌리고 싶다면 아래 명령을 실행할 수 있습니다.
 ```
 git reset --hard 
 ```
-The command will not only reset your staging area, but also revert all your changes on the files to your last commit.
-The mode ```--hard``` tells Git to undo all the changes in the working directory too.
-You should only run this when you are really sure of throwing your whole local development out.
 
 이 명령어는 스테이징 영역을 마지막 커밋 상태로 되돌리는 것 뿐만 아니라 여러분의 로컬에 변경된 파일도 되돌릴 수 있습니다.
 ```--hard``` 모드는 Git으로 하여금 작업 디렉토리에 대한 변경들도 되돌릴 수 있도록 합니다.
