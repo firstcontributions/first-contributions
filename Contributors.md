@@ -1342,3 +1342,4 @@ Cheng Chin Lim
 - [Sindar King](https://github.com/sindarking)
 - [Tomi Odusanya](https://github.com/odusanya)
 - [Harith Manoj](https://github.com/harithmanoj)
+- [Aditya Nihal Kumar Singh](https://github.com/aditya314)
