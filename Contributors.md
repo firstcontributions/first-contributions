@@ -1347,3 +1347,4 @@ Cheng Chin Lim
 - [Aditya Nihal Kumar Singh](https://github.com/aditya314)
 -[Devon JohnBaptiste](https://github.com/devondacoda)
 - [Rachna Bansal](https://github.com/rachnaban)
+- [Jesse Jacobs](https://github.com/jjacobs21)
