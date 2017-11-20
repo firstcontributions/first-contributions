@@ -1348,3 +1348,4 @@ Cheng Chin Lim
 -[Devon JohnBaptiste](https://github.com/devondacoda)
 - [Rachna Bansal](https://github.com/rachnaban)
 - [Jesse Jacobs](https://github.com/jjacobs21)
+- [Claudius King](https://github.com/protean-phoenix)
