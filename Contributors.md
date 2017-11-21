@@ -1337,7 +1337,7 @@
 - [Ross Lillis](https://github.com/roscolil)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 Cheng Chin Lim
-- [Oskar F] (https://github.com/osa1313)
+- [Oskar F](https://github.com/osa1313)
 - [Mohamed Sayyaf](https://github.com/Sayyaf123)
 - [Remya Maya](https://github.com/mtremya)
 - [Mohamed Sayyaf](https://github.com/Sayyaf123)
@@ -1350,4 +1350,5 @@ Cheng Chin Lim
 - [Jesse Jacobs](https://github.com/jjacobs21)
 - [Claudius King](https://github.com/protean-phoenix)
 - [Karen King](https://github.com/lorlenes)
-- [Saif] (https://github.com/saifcoding)
+- [Saif](https://github.com/saifcoding)
+- [Vitor Dias](https://github.com/VitorDiass)
