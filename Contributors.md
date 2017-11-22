@@ -1,4 +1,4 @@
-﻿- [Juan Dougnac] (http://github.com/jdougnac)
+- [Juan Dougnac] (http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
 - [arun](https://github.com/arun99481)
 - [Harsh Mutha](https://github.com/harshm31)
@@ -1352,3 +1352,4 @@ Cheng Chin Lim
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
 - [Vitor Dias](https://github.com/VitorDiass)
+- [Annisa Nadia](https://github.com/annisanadia)
