@@ -1353,3 +1353,4 @@ Cheng Chin Lim
 - [Saif](https://github.com/saifcoding)
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
+- [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
