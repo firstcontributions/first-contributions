@@ -1359,3 +1359,4 @@ Cheng Chin Lim
 - [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
+- [Faisal Ali](https://github.com/faisal3389)
