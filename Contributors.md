@@ -1309,7 +1309,7 @@
 - [ShubhiL](https://github.com/ShubhiL)
 - [Amit](https://github.com/amit9651)
 - [Subham Kumar Soni](https://github.com/sks4903440)
-- [Irshad Ismayil](https://github.com/irshadshalu)
+[- [Irshad Ismayil](https://github.com/irshadshalu)
 - [Johnnycus](https://github.com/Johnnycus)
 - [dan](https://github.com/danctechi)
 - [Randall] (https://github.com/randallh95)
@@ -1360,3 +1360,4 @@ Cheng Chin Lim
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Faisal Ali](https://github.com/faisal3389)
+- [Kasey Wilson](http://github.com/wilsonkasey)
