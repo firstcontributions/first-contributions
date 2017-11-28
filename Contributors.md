@@ -1364,3 +1364,4 @@ Cheng Chin Lim
 - [Kasey Wilson](http://github.com/wilsonkasey)
 - [Wanchai Wuthikun](https://github.com/wanchaiwuthikun)
 - [Artur Maslov](https://github.com/neone35)
+- [Emmanuel Kyeyune](https://github.com/emmanuelnk)
