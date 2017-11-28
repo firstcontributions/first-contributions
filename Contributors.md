@@ -1362,3 +1362,4 @@ Cheng Chin Lim
 - [Amberzizi](https://github.com/amberzizi)
 - [Faisal Ali](https://github.com/faisal3389)
 - [Kasey Wilson](http://github.com/wilsonkasey)
+- [Wanchai Wuthikun](https://github.com/wanchaiwuthikun)
