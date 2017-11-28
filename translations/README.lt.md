@@ -9,9 +9,9 @@ Sunku. Visada sunku ką nors padaryti pirmą kartą. Ypač bendradarbiaujant, kl
 
 Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai daro pirmąjį indėlį. Prisiminkite: kuo labiau esate atsipalaidavęs, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
 
-#### *Skaitykite [kita kalba](LANGUAGES.md)* 
+#### *Skaitykite [kita kalba](../LANGUAGES.md)* 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Jei neturite instaliuoto git, [ instaliuokite čia ]( https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Tai sukurs šios saugyklos kopiją jūsų GitHub paskyroje.
 
 ## Klonuokite saugyklą
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Dabar klonuokite šią saugyklą į savo kompiuterį. Spustelėkite klonavimo mygtuką ir tada spustelėkite *copy to clipboard* piktogramą.
 
@@ -33,7 +33,7 @@ git clone "kopijuota nuoroda"
 ```
 kur "kopijuota nuoroda" (be citatos ženklų) yra url nuoroda jūsų saugyklai. Peržiūrėkite ankstesnius veiksmus, kad gautumėte url nuorodą.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Pavyzdžiui:
 ```
@@ -84,11 +84,11 @@ pakeisdami `<tavo-vardas>` anskčiau sukurtos šakos (branch) vardu.
 
 Eikite į savo saugyklą GitHub. Pamatysite mygtuką `Compare & pull request` (palyginti ir įtraukti užklausą). Spustelėkite šį mygtuką.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Dabar pateikite įtraukimo į pradinę saugyklą (pull) užklausą.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projekto pagrindine šaka. Kai pakeitimai bus sujungti, gausite tai patvirtinantį el. laišką.
 
@@ -100,14 +100,14 @@ Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite kl
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Papildoma medžiaga ](additional-material/additional-material.md)
+### [ Papildoma medžiaga ](../additional-material/additional-material.md)
 
 
 ## Pamokos naudojant kitus įrankius
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Padėka autoriui
 
