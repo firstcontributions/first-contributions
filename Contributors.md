@@ -1363,3 +1363,4 @@ Cheng Chin Lim
 - [Faisal Ali](https://github.com/faisal3389)
 - [Kasey Wilson](http://github.com/wilsonkasey)
 - [Wanchai Wuthikun](https://github.com/wanchaiwuthikun)
+- [Artur Maslov](https://github.com/neone35)
