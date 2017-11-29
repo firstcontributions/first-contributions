@@ -116,5 +116,3 @@ Jei jaučiatės ypač dėkingi, sekite [Roshan](https://roshanjossey.github.io/)
 [Twitter](https://twitter.com/sudo__bangbang) arba
 [GitHub](https://github.com/roshanjossey).
 
-
-[![Code Sponsor](https://app.codesponsor.io/embed/nLbkHk2SAChJrMkf8NrS52k2/Roshanjossey/first-contributions.svg)](https://app.codesponsor.io/link/nLbkHk2SAChJrMkf8NrS52k2/Roshanjossey/first-contributions)
