@@ -116,3 +116,5 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
+
+[![Code Sponsor](https://app.codesponsor.io/embed/nLbkHk2SAChJrMkf8NrS52k2/Roshanjossey/first-contributions.svg)](https://app.codesponsor.io/link/nLbkHk2SAChJrMkf8NrS52k2/Roshanjossey/first-contributions)
