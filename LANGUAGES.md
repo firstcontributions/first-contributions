@@ -13,6 +13,7 @@
 | 🇯🇵 Japan | [Japanese](translations/README.ja.md) |
 | 🇻🇳 Vietnam | [Vietnamese](translations/README.vn.md) |
 | 🇵🇱 Poland | [Polish](translations/README.pl.md) |
+| 🇱🇹 Lithuania | [Lithuanian](translations/README.lt.md) |
 | 🇰🇷 South Korea, 🇰🇵 North Korea | [Korean](translations/README.ko.md) |
 | 🇩🇪 Germany | [German](translations/README.de.md) |
 | 🇨🇳 China | [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md) |
@@ -26,4 +27,3 @@
 | 🇵🇰 Pakistan | [Urdu](translations/README.ur.md) |
 | :bangladesh: Bangladesh | [Bangla](translations/README.bn.md) |
 | :moldova: Moldova, :romania: Romania | [Romanian](translations/README.ro.md)|
-
