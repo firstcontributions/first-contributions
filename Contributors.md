@@ -1369,4 +1369,5 @@ Cheng Chin Lim
 - [Chris Dunleavy](https://github.com/christopherdunleavy)
 - [Yeswanth Annadata](https://github.com/yeswanthannadata)
 - [Brady Sutton](https://github.com/bsutt123)
+- [Michal Danco](https://github.com/devdanco)
 - [venkyvb](https://github.com/venkyvb)
