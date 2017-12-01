@@ -1362,6 +1362,7 @@ Cheng Chin Lim
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Amberzizi](https://github.com/amberzizi)
 - [Faisal Ali](https://github.com/faisal3389)
+- [Charmie Quiño](https://github.com/LightDev777)
 - [Kasey Wilson](http://github.com/wilsonkasey)
 - [Wanchai Wuthikun](https://github.com/wanchaiwuthikun)
 - [Artur Maslov](https://github.com/neone35)
