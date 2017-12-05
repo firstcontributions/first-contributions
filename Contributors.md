@@ -1,4 +1,4 @@
-- [Ibadullah Khan](https://github.com/ibadullah25)
+﻿- [Ibadullah Khan](https://github.com/ibadullah25)
 - [Alvin Chipmunk](https://github.com)
 - [Philip Mutua](https://github.com/pmutua)
 - [Juan Dougnac](http://github.com/jdougnac)
@@ -1381,3 +1381,4 @@
 - [Mohammad Apel Mahmod](https://github.com/amahmod)
 - [Arshad AQ](https://github.com/ArshadAQ)
 - [Dexter Rualo](https://github.com/dexrualo)
+- [Lou Dommer](https://github.com/loudom8579)
