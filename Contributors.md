@@ -1383,3 +1383,4 @@
 - [Dexter Rualo](https://github.com/dexrualo)
 - [Nathan_Brubaker](https://github.com/nathan-brubaker)
 - [Lou Dommer](https://github.com/loudom8579)
+- [Kevin Nguyen](https://github.com/NoobCIT)
