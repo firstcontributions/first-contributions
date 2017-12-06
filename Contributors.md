@@ -1386,3 +1386,4 @@
 - [Kevin Nguyen](https://github.com/NoobCIT)
 - [Olumide Okedusi](https://github.com/Lumie31)
 - [Aravindh](https://github.com/aruvi198)
+- [Julia Fiorino](https://github.com/juliaf2)
