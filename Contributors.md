@@ -1388,3 +1388,4 @@
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
 - [Gordon Hendry] (https://github.com/gordyh1)
+- [Valentyn Troian](https://github.com/ValentynTroian)
