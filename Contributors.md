@@ -1391,3 +1391,4 @@
 - [Valentyn Troian](https://github.com/ValentynTroian)
 - [Lucas Sterzinger](https://github.com/lsterzinger)
 - [Ning LI](https://github.com/lininglouis)
+- [Rodrigo Davy](https://github.com/RodrigoDavy)
