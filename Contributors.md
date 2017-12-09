@@ -1390,3 +1390,4 @@
 - [Gordon Hendry] (https://github.com/gordyh1)
 - [Valentyn Troian](https://github.com/ValentynTroian)
 - [Lucas Sterzinger](https://github.com/lsterzinger)
+- [Rodrigo Davy](https://github.com/RodrigoDavy)
