@@ -1394,5 +1394,6 @@
 - [Angie L Yu](https://github.com/AngieLYu)
 - [Ning LI](https://github.com/lininglouis)
 - [Rodrigo Davy](https://github.com/RodrigoDavy)
+- [Robert Maru de Vera](https://github.com/sheepd)
 - [Ryan Tarzia](https://github.com/rtarzia)
 - [David Greenwald](https://github.com/davidegreenwald)
