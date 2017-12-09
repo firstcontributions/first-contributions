@@ -1391,3 +1391,6 @@
 - [Valentyn Troian](https://github.com/ValentynTroian)
 - [Lucas Sterzinger](https://github.com/lsterzinger)
 - [Cedric Trollwut](https://github.com/Trollwut)
+- [Angie L Yu](https://github.com/AngieLYu)
+- [Ning LI](https://github.com/lininglouis)
+- [Rodrigo Davy](https://github.com/RodrigoDavy)
