@@ -122,7 +122,7 @@ git push origin master
 ```
 git branch -d <add-your-name>
 ```
-Так-же можете удалить ее версию в удаленном репозитории:
+Так же можете удалить ее версию в удаленном репозитории:
 ```
 git push origin --delete <add-your-name>
 ```
@@ -135,7 +135,7 @@ git push origin --delete <add-your-name>
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 
-## Что далее?
+## Что дальше?
 
 Ниже несколько популярных репозиториев, где вы можете найти задания для новичков. Вперед, перейдите в репозитории, чтобы узнать больше.
 
