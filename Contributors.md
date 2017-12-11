@@ -1400,3 +1400,4 @@
 - [Ryan Tarzia](https://github.com/rtarzia)
 - [David Greenwald](https://github.com/davidegreenwald)
 - [jadhav ganesh](https://github.com/jadhavganesh)
+- [Sinjon Bartel](https://github.com/SinjonB/)
