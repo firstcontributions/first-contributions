@@ -32,10 +32,11 @@ export default class CardsContainer extends React.Component {
     if (value.length === 0) return this.setState({ filterList: projectList });
     let valueList = [];
     let updatedList = [];
+
     value.map(v => { valueList.push(v.value) });
     projectList.map(project => {
       if (!project.tag) return;
-      if (valueList.some(v => project.tag.includes(v))) {
+      if (valueList.every(v => project.tag.includes(v))) {
         updatedList.push(project);
       }
     })
