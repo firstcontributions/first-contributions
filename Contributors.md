@@ -1,4 +1,5 @@
-﻿- [Ibadullah Khan](https://github.com/ibadullah25)
+- [Conner Bondurant](https://github.com/cbondurant)
+- [Ibadullah Khan](https://github.com/ibadullah25)
 - [Lane Schmidt](https://github.com/spoiledgoods)
 - [Alvin Chipmunk](https://github.com)
 - [Philip Mutua](https://github.com/pmutua)
