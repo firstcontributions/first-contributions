@@ -1406,5 +1406,5 @@
 - [Smruti Ranjan Senapati](https://github.com/smruti59/)
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
-
+- [Simone Dagna] (https://github.com/SimoneDagna)
 
