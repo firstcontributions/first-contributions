@@ -1415,4 +1415,3 @@
 - [Rhaiv](https://github.com/rhaiv)
 - [Luca D'Onofrio](https://github.com/Aranyae)
 - [Jeremy Kepf](https://github.com/Khepf)
-- [Jack McCutcheon](https://github.com/JackMac2904)
