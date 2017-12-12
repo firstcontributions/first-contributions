@@ -1410,3 +1410,4 @@
 - [Simone Dagna](https://github.com/SimoneDagna)
 - [Bill Hammond](https://github.com/zenthunder)
 - [Irene Tomaini](https://github.com/ir3ne)
+- [Rhaiv](https://github.com/rhaiv)
