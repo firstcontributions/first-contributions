@@ -1,4 +1,4 @@
-- [Conner Bondurant](https://github.com/cbondurant)
+﻿- [Conner Bondurant](https://github.com/cbondurant)
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Lane Schmidt](https://github.com/spoiledgoods)
 - [Alvin Chipmunk](https://github.com)
@@ -1404,5 +1404,6 @@
 - [Sinjon Bartel](https://github.com/SinjonB/)
 - [Arpit Gupta](https://github.com/Codarp/)
 - [Smruti Ranjan Senapati](https://github.com/smruti59/)
+- [Sagar Parre](https://github.com/sagar19298-sopho)
 
 
