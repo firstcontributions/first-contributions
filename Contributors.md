@@ -1407,4 +1407,4 @@
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
 - [Simone Dagna] (https://github.com/SimoneDagna)
-
+- [Bill Hammond] (https://github.com/zenthunder)
