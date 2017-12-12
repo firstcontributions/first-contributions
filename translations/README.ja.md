@@ -29,7 +29,7 @@ git clone "コピーした URL"
 ```
 git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
 ```
-'あなたのユーザー名' はご自身の GitHub ユーザー名に置き換えてください。ここでは GitHub のリポジトリの内容をあなたのコンピュータにコピーします。
+`あなたのユーザー名` はご自身の GitHub ユーザー名に置き換えてください。ここでは GitHub のリポジトリの内容をあなたのコンピュータにコピーします。
 
 ## ブランチを作成
 
@@ -72,7 +72,7 @@ git push origin <ブランチ名>
 
 ## レビューのためにプルリクエストを送る
 
-GitHub であなたのリポジトリに行くと、 `Compare＆pull request` ボタンが表示されます。そのボタンをクリックしてください。
+GitHub であなたのリポジトリに行くと、 `Compare & pull request` ボタンが表示されます。そのボタンをクリックしてください。
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
