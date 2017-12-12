@@ -1,3 +1,4 @@
+- [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
 - [Conner Bondurant](https://github.com/cbondurant)
 - [Ibadullah Khan](https://github.com/ibadullah25)
