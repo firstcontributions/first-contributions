@@ -1,3 +1,4 @@
+- [Quang Nguyen](https://github.com/quang2705)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
 - [Conner Bondurant](https://github.com/cbondurant)
