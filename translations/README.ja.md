@@ -5,7 +5,7 @@
 
 # First Contributions
 
-#### *Read this in [other languages](LANGUAGES.md)*
+#### *[言語を](LANGUAGES.md)読みます*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
