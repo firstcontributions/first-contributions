@@ -80,9 +80,10 @@ GitHub であなたのリポジトリに行くと、 `Compare & pull request` �
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## [ 次のステップ ](additional-material/additional-material.md)
+## [ 次のステップ ](additional-material/additional-material.md)(日本語じゃないです)
 
 
+## その他のツールを使用したチュートリアル(日本語じゃないです)
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
