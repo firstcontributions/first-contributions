@@ -1,8 +1,13 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 # First Contributions
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 #### *Read this in [other languages](LANGUAGES.md)*
 
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 まだ Git をインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/) からインストールしてください
 
