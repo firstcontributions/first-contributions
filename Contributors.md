@@ -1404,5 +1404,6 @@
 - [Sinjon Bartel](https://github.com/SinjonB/)
 - [Arpit Gupta](https://github.com/Codarp/)
 - [Smruti Ranjan Senapati](https://github.com/smruti59/)
+- [John](https://github.com/krispykangaroo)
 
 
