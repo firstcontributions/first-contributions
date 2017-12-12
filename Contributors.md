@@ -1412,3 +1412,4 @@
 - [Bill Hammond](https://github.com/zenthunder)
 - [Irene Tomaini](https://github.com/ir3ne)
 - [Rhaiv](https://github.com/rhaiv)
+- [Luca D'Onofrio](https://github.com/Aranyae)
