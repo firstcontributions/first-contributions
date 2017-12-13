@@ -1,4 +1,4 @@
-- [Quang Nguyen](https://github.com/quang2705)
+﻿- [Quang Nguyen](https://github.com/quang2705)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
 - [Conner Bondurant](https://github.com/cbondurant)
@@ -1418,3 +1418,4 @@
 - [wsong]
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [qmlowery](https://github.com/qmlowery)
+- [Simran Kohli](https://github.com/simran0807)
