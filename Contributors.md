@@ -1424,4 +1424,5 @@
 - [Luis Louro](https://github.com/lapisdecor)
 - [Alexandre Navarro](https://github.com/alexnavarro)
 - [Andrew Benavides](https://github.com/thoughtquery)
+- [Christopher Smith](https://github.com/toledosq)
 - [Andy Finnell](https://github.com/scatterbrain-d)
