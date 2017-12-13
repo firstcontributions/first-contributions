@@ -1420,6 +1420,7 @@
 - [qmlowery](https://github.com/qmlowery)
 - [Simran Kohli](https://github.com/simran0807)
 - [Kapil Goyal](https://github.com/kapil-goyal)
+- [André Segatto Carrasque](https://github.com/andseg)
 - [Luis Louro](https://github.com/lapisdecor)
 - [Alexandre Navarro](https://github.com/alexnavarro)
 - [Andrew Benavides](https://github.com/thoughtquery)
