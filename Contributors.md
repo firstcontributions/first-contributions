@@ -1420,3 +1420,4 @@
 - [qmlowery](https://github.com/qmlowery)
 - [Simran Kohli](https://github.com/simran0807)
 - [Kapil Goyal](https://github.com/kapil-goyal)
+- [André Segatto Carrasque](https://github.com/andseg)
