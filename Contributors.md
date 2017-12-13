@@ -1422,3 +1422,4 @@
 - [Kapil Goyal](https://github.com/kapil-goyal)
 - [Luis Louro](https://github.com/lapisdecor)
 - [Alexandre Navarro](https://github.com/alexnavarro)
+- [Andrew Benavides](https://github.com/thoughtquery)
