@@ -1418,6 +1418,7 @@
 - [wsong]
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [qmlowery](https://github.com/qmlowery)
+- Eyal Mendel
 - [Simran Kohli](https://github.com/simran0807)
 - [Kapil Goyal](https://github.com/kapil-goyal)
 - [André Segatto Carrasque](https://github.com/andseg)
@@ -1427,3 +1428,8 @@
 - [Christopher Smith](https://github.com/toledosq)
 - [Andy Finnell](https://github.com/scatterbrain-d)
 - [Mark Leybourne](https://github.com/mleyb)
+- [Manoj Shankar AJ](https://github.com/manojShankarAsu/)
+- [Gabriel Poltronieri](https://github.com/gabriel-poltronieri)
+- [Anthony Perez](https://github.com/AntPerez69367)
+- [Elizabeth Maraan](https://github.com/emaraan)
+- [Andrej Premrn - mikirejf](https://github.com/mikirejf)
