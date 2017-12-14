@@ -1418,6 +1418,7 @@
 - [wsong]
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [qmlowery](https://github.com/qmlowery)
+- Eyal Mendel
 - [Simran Kohli](https://github.com/simran0807)
 - [Kapil Goyal](https://github.com/kapil-goyal)
 - [André Segatto Carrasque](https://github.com/andseg)
