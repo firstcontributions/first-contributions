@@ -18,6 +18,7 @@
 - [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
 ﻿- [Doruk Gezici](https://github.com/dorukgezici)
+- [Avi98](https://github.com/Avi9)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
