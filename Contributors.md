@@ -1434,3 +1434,4 @@
 - [Elizabeth Maraan](https://github.com/emaraan)
 - [Andrej Premrn - mikirejf](https://github.com/mikirejf)
 - [Kalpana Dey]
+- [Hamish Sams](https://github.com/Hammie217)
