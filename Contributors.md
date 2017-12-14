@@ -1427,3 +1427,4 @@
 - [Christopher Smith](https://github.com/toledosq)
 - [Andy Finnell](https://github.com/scatterbrain-d)
 - [Manoj Shankar AJ](https://github.com/manojShankarAsu/)
+- [Gabriel Poltronieri](https://github.com/gabriel-poltronieri)
