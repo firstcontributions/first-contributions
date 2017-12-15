@@ -1444,3 +1444,5 @@
 - [Adam Olsson](https://github.com/adamol)
 - [Ashutosh Rahi](https://github.com/rahiAshutosh)
 - [Sean Wayman](https://github.com/Flieh)
+- [Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Dalia Maarek](https://github.com/daliamaarek)
