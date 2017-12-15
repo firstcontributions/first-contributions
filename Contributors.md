@@ -1440,3 +1440,4 @@
 - [Praveen](https://github.com/Prav92)
 - [Sholom Steinmetz](https://github.com/peacestone)
 - [Bapireddy](https://github.com/Bapi-Reddy)
+- [Adam Olsson](https://github.com/adamol)
