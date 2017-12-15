@@ -1442,4 +1442,5 @@
 - [Sourabh Pruthi](https://github.com/sourabh1031)
 - [Bapireddy](https://github.com/Bapi-Reddy)
 - [Adam Olsson](https://github.com/adamol)
--[Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Sean Wayman](https://github.com/Flieh)
