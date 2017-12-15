@@ -351,6 +351,7 @@
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Rashid Lasker](https://github.com/rashidlasker)
 - [Melanie Hudson aka Seekingcat](https://github.com/seekingcat)
+- [Jacob Villegas](https://gitub.com/jacobv126)
 - [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
