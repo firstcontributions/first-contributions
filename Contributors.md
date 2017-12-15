@@ -1443,6 +1443,8 @@
 - [Sourabh Pruthi](https://github.com/sourabh1031)
 - [Bapireddy](https://github.com/Bapi-Reddy)
 - [Adam Olsson](https://github.com/adamol)
+- [Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Kerim Arat](https://github.com/kerimarat)
 - [Devonte Cunningham](https://github.com/DevonteDC)
 - [Arpit Bajaj](https://github.com/arpitbajaj98)
 - [Ashutosh Rahi](https://github.com/rahiAshutosh)
