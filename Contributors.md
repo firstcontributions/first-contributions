@@ -1443,3 +1443,4 @@
 - [Bapireddy](https://github.com/Bapi-Reddy)
 - [Adam Olsson](https://github.com/adamol)
 -[Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Sumrit Gupta](https://github.com/awesumrit)
