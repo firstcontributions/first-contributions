@@ -1,4 +1,4 @@
-- [Quang Nguyen](https://github.com/quang2705)
+﻿- [Quang Nguyen](https://github.com/quang2705)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
 - [Conner Bondurant](https://github.com/cbondurant)
@@ -1442,3 +1442,4 @@
 - [Sourabh Pruthi](https://github.com/sourabh1031)
 - [Bapireddy](https://github.com/Bapi-Reddy)
 - [Adam Olsson](https://github.com/adamol)
+-[Ashutosh Rahi](https://github.com/rahiAshutosh)
