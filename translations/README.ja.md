@@ -109,3 +109,8 @@ GitHub であなたのリポジトリに行くと、 `Compare & pull request` �
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+
+# 自己宣伝
+このプロジェクトが好きであれば [github](https://github.com/Roshanjossey/first-contributions) にstarしてください。
+大好きであれば Roshan をたどってください。
+[Roshan](https://roshanjossey.github.io/) [Twitter](https://twitter.com/sudo__bangbang) [GitHub](https://github.com/roshanjossey)
