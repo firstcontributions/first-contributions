@@ -1,4 +1,5 @@
-﻿-Guilemon(-_-+)(https://github.com/Guilemon)- [Anuar Talipov](https://github.com/anuartb)
+﻿-Guilemon(-_-+)(https://github.com/Guilemon)
+- [Anuar Talipov](https://github.com/anuartb)
 ﻿- [Quang Nguyen](https://github.com/quang2705)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
@@ -1457,3 +1458,4 @@
 - [Jeremy Tsang](https://github.com/jeremytsang1)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
 - [Tim Sweeney](http://github.com/sweeneyt)
+- [Sarah Murphy](https://github.com/msarah)
