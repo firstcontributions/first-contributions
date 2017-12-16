@@ -1456,3 +1456,4 @@
 - [Lachlan Brown](https://github.com/lachie246)
 - [Jeremy Tsang](https://github.com/jeremytsang1)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
+- [Josh Coles](https://github.com/joshcoles)
