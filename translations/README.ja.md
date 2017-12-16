@@ -9,7 +9,7 @@
 
 下の指示に従うなら案内書を読んだり勉強を見てあげます。そうした方が有益だと思うよ。
 
-#### *[言語を](LANGUAGES.md)読みます*
+#### *[言語を](../Translations.md)読みます*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
