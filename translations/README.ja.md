@@ -92,6 +92,17 @@ GitHub であなたのリポジトリに行くと、 `Compare & pull request` �
 
 ## [ 次のステップ ](additional-material/additional-material.md)(日本語じゃないです)
 
+私はまもなくあなたの変化をと`master`のブランチのこのプロジェクトを会います。会うのの仕上げの時あなたにメールを送ります。
+
+##　次いで何をしますか。
+
+[ここのウェブアプ](https://roshanjossey.github.io/first-contributions/#social-share)に祝うに行きて。（日本語じゃないです）
+
+救いを必要とれば, [我がSlack](https://firstcontributions.herokuapp.com)に行きてください。（日本語じゃないんです）
+
+[これ](https://roshanjossey.github.io/first-contributions/#project-list)はリストのやさしい問題擁するプロジェクト。そこに初めて。
+
+###　[追加リソース](additional-material/additional-material.md)(日本語じゃない)
 
 ## その他のツールを使用したチュートリアル(日本語じゃないです)
 
