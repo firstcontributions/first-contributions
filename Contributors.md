@@ -1,5 +1,6 @@
 ﻿-Guilemon(-_-+)(https://github.com/Guilemon)- [Anuar Talipov](https://github.com/anuartb)
 ﻿- [Quang Nguyen](https://github.com/quang2705)
+- [Sapir-Whorf](https://github.com/Sapir-Whorf)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
 - [Bradley Koenen](https://github.com/bradleydkoenen)
 - [Conner Bondurant](https://github.com/cbondurant)
