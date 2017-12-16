@@ -1452,4 +1452,5 @@
 - [Sean Wayman](https://github.com/Flieh)
 - [Ashutosh Rahi](https://github.com/rahiAshutosh)
 - [Dalia Maarek](https://github.com/daliamaarek)
+- [Ninad]
 - [Yogesh Patel](https://github.com/yogeshpatel276052)
