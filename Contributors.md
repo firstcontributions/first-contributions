@@ -1460,3 +1460,4 @@
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Sarah Murphy](https://github.com/msarah)
+- [Sean Barber](https://github.com/SeanBarber)
