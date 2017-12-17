@@ -1,4 +1,5 @@
-﻿-Guilemon(-_-+)(https://github.com/Guilemon)
+﻿- [Renan Souza](https://github.com/renanba)
+-Guilemon(-_-+)(https://github.com/Guilemon)
 - [Anuar Talipov](https://github.com/anuartb)
 ﻿- [Quang Nguyen](https://github.com/quang2705)
 - [Sapir-Whorf](https://github.com/Sapir-Whorf)
