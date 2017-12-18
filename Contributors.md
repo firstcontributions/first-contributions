@@ -1,5 +1,6 @@
 ﻿- [Renan Souza](https://github.com/renanba)
 - Guilemon(-_-+)(https://github.com/Guilemon)
+- [Deddy Tandean](https://github.com/Busterz)
 - [Christopher Ivanovich](https://github.com/ctivanovich/)
 - [Anuar Talipov](https://github.com/anuartb)
 ﻿- [Quang Nguyen](https://github.com/quang2705)
@@ -1472,6 +1473,6 @@
 - [Sabba][https://notactualgitrepo.io]
 - [Karan Nehra](https://github.com/karanehra)
 - [Patrick Hopkins](https://github.com/patrickdhopkins)
-- [Albert Yu] [https://github.com/albertyu85) 
+- [Albert Yu] [https://github.com/albertyu85)
 - [Joe Reynolds](https://github.com/reynoldsDesign)
 - [Michael Pare](https://github.com/mpare002)
