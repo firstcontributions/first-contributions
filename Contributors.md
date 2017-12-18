@@ -1476,3 +1476,4 @@
 - [Albert Yu] [https://github.com/albertyu85)
 - [Joe Reynolds](https://github.com/reynoldsDesign)
 - [Michael Pare](https://github.com/mpare002)
+- [Jonas H](https://github.com/BasemantDeveloper)
