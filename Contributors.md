@@ -1476,3 +1476,5 @@
 - [Albert Yu] [https://github.com/albertyu85)
 - [Joe Reynolds](https://github.com/reynoldsDesign)
 - [Michael Pare](https://github.com/mpare002)
+- [Harry M](https://github.com/harimm)
+
