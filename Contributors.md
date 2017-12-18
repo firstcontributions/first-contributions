@@ -1480,3 +1480,4 @@
 - [Jonas H](https://github.com/BasemantDeveloper)
 - [Harry M](https://github.com/harimm)
 - [Aditya Gaykar](https://github.com/adityagaykar)
+- [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
