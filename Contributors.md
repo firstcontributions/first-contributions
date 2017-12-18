@@ -1,5 +1,6 @@
 ﻿- [Renan Souza](https://github.com/renanba)
--Guilemon(-_-+)(https://github.com/Guilemon)
+- Guilemon(-_-+)(https://github.com/Guilemon)
+- [Christopher Ivanovich](https://github.com/ctivanovich/)
 - [Anuar Talipov](https://github.com/anuartb)
 ﻿- [Quang Nguyen](https://github.com/quang2705)
 - [Sapir-Whorf](https://github.com/Sapir-Whorf)
@@ -1470,3 +1471,6 @@
 - [Egon Malfroy](https://github.com/malfroyegon)
 - [Sabba][https://notactualgitrepo.io]
 - [Karan Nehra](https://github.com/karanehra)
+- [Patrick Hopkins](https://github.com/patrickdhopkins)
+- [Albert Yu] [https://github.com/albertyu85) 
+- [Joe Reynolds](https://github.com/reynoldsDesign)
