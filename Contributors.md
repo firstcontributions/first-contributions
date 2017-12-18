@@ -1470,5 +1470,6 @@
 - [Egon Malfroy](https://github.com/malfroyegon)
 - [Sabba][https://notactualgitrepo.io]
 - [Karan Nehra](https://github.com/karanehra)
+- [Patrick Hopkins](https://github.com/patrickdhopkins)
 - [Albert Yu] [https://github.com/albertyu85) 
 - [Joe Reynolds](https://github.com/reynoldsDesign)
