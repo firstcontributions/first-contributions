@@ -1474,3 +1474,4 @@
 - [Patrick Hopkins](https://github.com/patrickdhopkins)
 - [Albert Yu] [https://github.com/albertyu85) 
 - [Joe Reynolds](https://github.com/reynoldsDesign)
+- [Michael Pare](https://github.com/mpare002)
