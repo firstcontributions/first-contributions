@@ -1,6 +1,6 @@
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
-- Guilemon(-_-+)(https://github.com/Guilemon)
+- [Guilemon(-_-+)](https://github.com/Guilemon)
 - [Deddy Tandean](https://github.com/Busterz)
 - [Christopher Ivanovich](https://github.com/ctivanovich/)
 - [Anuar Talipov](https://github.com/anuartb)
@@ -24,7 +24,7 @@
 - [Monika Bhardwaj](https://github.com/monikabhardwaj)
 - [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
-﻿- [Doruk Gezici](https://github.com/dorukgezici)
+- [Doruk Gezici](https://github.com/dorukgezici)
 - [Avi98](https://github.com/Avi9)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
 - [avidevil](https://github.com/avidevil)
@@ -33,7 +33,7 @@
 - [heroccccc](https://github.com/heroccccc)
 - [Kelly von Borstel](https://github.com/vonborke)
 - [Lokesh Agrawal](https://github.com/lkagrawal19)
-﻿- [Atul Nair](https://github.com/atulnair)
+- [Atul Nair](https://github.com/atulnair)
 - [Adam Benckeser](https://github.com/yourfriendadam)
 - [Sanjay Johny](https://github.com/san45)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
@@ -1274,7 +1274,7 @@
 - [ajborka ](https://www.github.com/ajborka )
 - [Dorrito](https://github.com/DORRITO)
 - [Ajay Kumar Jogawath](https://github.com/akjogawath)
-﻿- [devsur](https://github.com/devsur)
+- [devsur](https://github.com/devsur)
 - [Sanjay Johny](https://github.com/san45)
 - [@fanbyprinciple](https://github.com/fanbyprinciple))
 - [Cheng](https://github.com/machiko)
@@ -1388,7 +1388,7 @@
 - [Michal Danco](https://github.com/devdanco)
 - [venkyvb](https://github.com/venkyvb)
 - [n3u3w3lt](https://github.com/n3u3w3lt)
-- [Himanshu]
+- Himanshu
 - [Justin Juno](https://github.com/junocodes)
 - [Peter Turner](https://github.com/Syntax753)
 - [Abang Farhan](https://github.com/abangfarhan)
@@ -1424,7 +1424,7 @@
 - [Rhaiv](https://github.com/rhaiv)
 - [Luca D'Onofrio](https://github.com/Aranyae)
 - [Jeremy Kepf](https://github.com/Khepf)
-- [wsong]
+- wsong
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [qmlowery](https://github.com/qmlowery)
 - Eyal Mendel
@@ -1442,7 +1442,7 @@
 - [Anthony Perez](https://github.com/AntPerez69367)
 - [Elizabeth Maraan](https://github.com/emaraan)
 - [Andrej Premrn - mikirejf](https://github.com/mikirejf)
-- [Kalpana Dey]
+- Kalpana Dey
 - [Hamish Sams](https://github.com/Hammie217)
 - [Praveen](https://github.com/Prav92)
 - [Sholom Steinmetz](https://github.com/peacestone)
@@ -1471,10 +1471,10 @@
 - [Ashley Harvey](https://github.com/ashleyharvey)
 - [Shruthi Raju](https://github.com/shruthiiraju)
 - [Egon Malfroy](https://github.com/malfroyegon)
-- [Sabba][https://notactualgitrepo.io]
+- [Sabba](https://notactualgitrepo.io)
 - [Karan Nehra](https://github.com/karanehra)
 - [Patrick Hopkins](https://github.com/patrickdhopkins)
-- [Albert Yu] [https://github.com/albertyu85)
+- [Albert Yu](https://github.com/albertyu85)
 - [Joe Reynolds](https://github.com/reynoldsDesign)
 - [Michael Pare](https://github.com/mpare002)
 - [Jonas H](https://github.com/BasemantDeveloper)
