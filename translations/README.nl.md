@@ -9,7 +9,7 @@ Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-#### *Lees dit in [andere talen](../LANGUAGES.md)* 
+#### *Lees dit in [andere talen](../Translations.md)* 
 
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
