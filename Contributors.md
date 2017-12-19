@@ -1409,6 +1409,7 @@
 - [Angie L Yu](https://github.com/AngieLYu)
 - [Ning LI](https://github.com/lininglouis)
 - [Rodrigo Davy](https://github.com/RodrigoDavy)
+- [Byron Blank](https://github.com/ByronCoder)
 - [Robert Maru de Vera](https://github.com/sheepd)
 - [Ryan Tarzia](https://github.com/rtarzia)
 - [David Greenwald](https://github.com/davidegreenwald)
@@ -1482,3 +1483,5 @@
 - [Aditya Gaykar](https://github.com/adityagaykar)
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
 - [Maksym Kosenko](https://github.com/maxie7)
+- [Bill Oniszko](https://github.com/boniszko)
+- [Yong Wang](https://github.com/yongwangd)
