@@ -1486,4 +1486,5 @@
 - [Corey Mitchell](https://github.com/reemitch)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
+- [Sam Wischnewsky](https://github.com/samw430)
 - [Yong Wang](https://github.com/yongwangd)
