@@ -1482,6 +1482,7 @@
 - [Harry M](https://github.com/harimm)
 - [Aditya Gaykar](https://github.com/adityagaykar)
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
+- [Fran Mowinckel]
 - [Corey Mitchell](https://github.com/reemitch)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
