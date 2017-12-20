@@ -1501,3 +1501,5 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Adam Friedl](https://github.com/adamfriedl)
+
