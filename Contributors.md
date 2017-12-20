@@ -1490,6 +1490,7 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
+- [Mudit Gurjar](https://github.com/mudit182)
 - [Hannarae Nam](https://github.com/hannaraenam)
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
