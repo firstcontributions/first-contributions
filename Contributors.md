@@ -1,4 +1,4 @@
-- [Noam Kantor](https://github.com/Doise)
+﻿- [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
 - [Deddy Tandean](https://github.com/Busterz)
@@ -1490,6 +1490,7 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
+- [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
 - Poomulus
 - [Sikander Singh](https://github.com/sikander441)
 - [Kun Peng](https://github.com/Kun17)
