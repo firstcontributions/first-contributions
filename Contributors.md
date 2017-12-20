@@ -1490,7 +1490,8 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
-- [Poomulus] 
+- Poomulus
+- [Sikander Singh](https://github.com/sikander441)
 - [Kun Peng](https://github.com/Kun17)
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
