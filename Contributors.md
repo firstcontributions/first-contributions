@@ -1492,3 +1492,5 @@
 - [James Wang](https://github.com/alphafishprop)
 - [Poomulus] 
 - [Kun Peng](https://github.com/Kun17)
+- [Martin Stickley](http://github.com/chromaticranger)
+- [Juventino Romero](https://github.com/juventinoromero)
