@@ -1502,6 +1502,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Jennifer Ng](https://github.com/dreamng)
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
