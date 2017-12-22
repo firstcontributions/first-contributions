@@ -1,3 +1,4 @@
+﻿- [Andrew Wyman](https://github.com/Seawolf631)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
@@ -1503,7 +1504,6 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [Kenneth Mphele](https://github.com/k3nnet)
 - [Stephen Meyer](https://github.com/stmeyer17)
   [Rohit Gupta]( https://github.com/ShunyaHumm)
 - [Edgar Gonzalez](https://github.com/edgargonzalez2020)
