@@ -1491,7 +1491,6 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
-- [Poomulus] 
 - [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
@@ -1504,7 +1503,8 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [Shubham Singh] (https://github.com/shubhams-ingh)
+- [Jordan King](https://github.com/jordanking-96)
+- [Shubham Singh](https://github.com/shubhams-ingh)
 - [Jennifer Ng](https://github.com/dreamng)
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
