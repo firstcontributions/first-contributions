@@ -1503,6 +1503,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Sam Zeter](https://github.com/samzeter)
 - [Scott Splavec](https://github.com/ssplavec)
 - [Stephen Meyer](https://github.com/stmeyer17)
   [Rohit Gupta]( https://github.com/ShunyaHumm)
