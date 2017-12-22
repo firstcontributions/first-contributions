@@ -1,4 +1,5 @@
 - [Shaurya Gomber](https://github.com/shaurya31)
+- [Mike Schmitz] (https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
