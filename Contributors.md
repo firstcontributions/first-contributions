@@ -1504,6 +1504,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Yasharth Singh](https://github.com/yasharths)
 - [Kiran Raj](https://github.com/codingcooker)
 - [Amirah Anwar](https://github.com/amirah-anwar)
 - [Sam Zeter](https://github.com/samzeter)
