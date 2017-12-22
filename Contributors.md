@@ -1,3 +1,4 @@
+- [Shaurya Gomber](https://github.com/shaurya31)
 ﻿- [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
@@ -1482,7 +1483,7 @@
 - [Harry M](https://github.com/harimm)
 - [Aditya Gaykar](https://github.com/adityagaykar)
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
-- [Fran Mowinckel]
+- Fran Mowinckel
 - [Corey Mitchell](https://github.com/reemitch)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
@@ -1490,6 +1491,8 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
+- [Poomulus] 
+- [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
 - [Hannarae Nam](https://github.com/hannaraenam)
@@ -1502,3 +1505,7 @@
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
 - [Shubham Singh] (https://github.com/shubhams-ingh)
+- [Jennifer Ng](https://github.com/dreamng)
+- [Faraaz Ali](https://github.com/ArslanAAA)
+- [Harrison Hur](https://github.com/harhur)
+- [Bjoern Baertschi](https://github.com/bisbeb)
