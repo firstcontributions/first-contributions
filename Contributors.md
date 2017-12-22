@@ -1524,3 +1524,4 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [Michael Leone](https://github.com/msleone90)
