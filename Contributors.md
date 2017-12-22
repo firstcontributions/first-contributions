@@ -1,3 +1,4 @@
+- [Shaurya Gomber](https://github.com/shaurya31)
 ﻿- [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
@@ -1482,7 +1483,7 @@
 - [Harry M](https://github.com/harimm)
 - [Aditya Gaykar](https://github.com/adityagaykar)
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
-- [Fran Mowinckel]
+- Fran Mowinckel
 - [Corey Mitchell](https://github.com/reemitch)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
@@ -1502,3 +1503,6 @@
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
 - [Jennifer Ng](https://github.com/dreamng)
+- [Faraaz Ali](https://github.com/ArslanAAA)
+- [Harrison Hur](https://github.com/harhur)
+- [Bjoern Baertschi](https://github.com/bisbeb)
