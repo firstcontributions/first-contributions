@@ -1,4 +1,4 @@
-﻿- [Andrew Wyman](https://github.com/Seawolf631)
+﻿- [Chris Davis](https://github.com/WhiteLion777)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
