@@ -1502,5 +1502,5 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [Harrison Hur](https://github.com/harhur)
-- [Bjoern Baertschi](https://github.com/bisbeb)
+- [William Lin](https://github.com/FanciestW)
+- [Bjoern Baertschi] (https://github.com/bisbeb)
