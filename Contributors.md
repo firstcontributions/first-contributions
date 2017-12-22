@@ -1483,7 +1483,7 @@
 - [Harry M](https://github.com/harimm)
 - [Aditya Gaykar](https://github.com/adityagaykar)
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
-- [Fran Mowinckel]
+- Fran Mowinckel
 - [Corey Mitchell](https://github.com/reemitch)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
@@ -1502,5 +1502,6 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [William Lin](https://github.com/FanciestW)
-- [Bjoern Baertschi] (https://github.com/bisbeb)
+- [Faraaz Ali](https://github.com/ArslanAAA)
+- [Harrison Hur](https://github.com/harhur)
+- [Bjoern Baertschi](https://github.com/bisbeb)
