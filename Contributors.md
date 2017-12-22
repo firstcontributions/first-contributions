@@ -1,4 +1,4 @@
-﻿- [Noam Kantor](https://github.com/Doise)
+- [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
 - [Deddy Tandean](https://github.com/Busterz)
@@ -1501,3 +1501,4 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Jonathan Butler](https://github.com/jonbutler41)
