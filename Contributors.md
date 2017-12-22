@@ -1503,7 +1503,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [Hue Vang](https://github.com/HueVang)
+- [Kenneth Mphele](https://github.com/k3nnet)
 - [Stephen Meyer](https://github.com/stmeyer17)
   [Rohit Gupta]( https://github.com/ShunyaHumm)
 - [Edgar Gonzalez](https://github.com/edgargonzalez2020)
