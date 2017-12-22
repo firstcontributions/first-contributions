@@ -1504,6 +1504,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [G V Sandeep](https://github.com/gvsandeep2647)
 - [Amirah Anwar](https://github.com/amirah-anwar)
 - [Sam Zeter](https://github.com/samzeter)
 - [Scott Splavec](https://github.com/ssplavec)
