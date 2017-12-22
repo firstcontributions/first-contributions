@@ -1503,6 +1503,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Kristian Jackson](https://github.com/kjackson1509)
 - [Yash Chapani](https://github.com/yashchapani)
 - [Michael Gutman](https://github.com/michael-gutman)
 - [Valeria Sheveleva](https://github.com/l25)
