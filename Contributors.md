@@ -1,4 +1,4 @@
-- [Kiefer Cover](https://github.com/kcover)
+  - [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
@@ -1525,3 +1525,4 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [Eskaine](https://github.com/eskaine)
