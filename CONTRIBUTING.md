@@ -1,6 +1,6 @@
 # Contribution guide
 
-Welcome to your first contribution. :poelon:
+Welcome to your first contribution. :heart:
 
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -30,4 +30,4 @@ We have some rules for translation. If you make the first translation for your l
 - [ ] Add more example and more guide
 
 
-Thanks! :poelon:
+Thanks! :heart:
