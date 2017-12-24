@@ -1505,7 +1505,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
-- [Thomas Hillyer](https://github.com/thomashillyer)
+- [Harsh](https://github.com/h-sinha)
 - [Marek Koszlak](https://github.com/marrreg)
 - [Yasharth Singh](https://github.com/yasharths)
 - [Kiran Raj](https://github.com/codingcooker)
@@ -1526,4 +1526,3 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
-- [Paul Noël](https://github.com/poelon)
