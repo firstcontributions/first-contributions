@@ -1527,6 +1527,7 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [Rathna Subramanian](https://github.com/rathnasubramanian2603)
 - [Roger Zimmermann](https://github.com/AlpineCoder)
 - [Carsten](https://github.com/ckruhs)
 - [Mike Higginbottom](https://github.com/MikeHigginbottom)
