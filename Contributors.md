@@ -1526,6 +1526,6 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
-- [Thales Iwashima](https://github.com/TIwashima)
+- [Maha Amin](https://github.com/MahaAmin)
 - [Candelario Gutierrez](https://github.com/cande1gut)
 - [David Sharkey](https://github.com/DavidSharkey)
