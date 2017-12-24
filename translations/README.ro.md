@@ -9,7 +9,7 @@ Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales c
 
 Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și simplificarea modului în care începătorii își fac prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât mai bine înveți. Dacă dorești să faci prima ta contribuție, simplu urmați pașii de mai jos. Vă promit că va fi distractiv.
 
-#### *Citește în [alte limbi](LANGUAGES.md)* 
+#### *Citește în [alte limbi](Translations.md)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
