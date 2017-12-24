@@ -1,4 +1,4 @@
-  - [Kiefer Cover](https://github.com/kcover)
+﻿  - [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
@@ -1545,3 +1545,4 @@
 - [David Sharkey](https://github.com/DavidSharkey)
 - [Amjad Chami](https://github.com/mjchami)
 - [NGS Harshavardhan](https://github.com/harsha602)
+- [Ronnie](https://github.com/geekslider)
