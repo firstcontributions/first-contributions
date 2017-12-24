@@ -1528,6 +1528,7 @@
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
 - [Paul Noël](https://github.com/poelon)
+- [Evan LeValley](https://github.com/holmcross)
 - [Joe Tomaselli](https://github.com/Xaentor)
 - [Eskaine](https://github.com/eskaine)
 - [Rathna Subramanian](https://github.com/rathnasubramanian2603)
