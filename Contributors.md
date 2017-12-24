@@ -1533,3 +1533,4 @@
 - [Thales Iwashima](https://github.com/TIwashima)
 - [Candelario Gutierrez](https://github.com/cande1gut)
 - [David Sharkey](https://github.com/DavidSharkey)
+- [Amjad Chami](https://github.com/mjchami)
