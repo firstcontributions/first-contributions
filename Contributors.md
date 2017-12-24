@@ -1527,6 +1527,7 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [Carsten](https://github.com/ckruhs)
 - [Mike Higginbottom](https://github.com/MikeHigginbottom)
 - [Oliver Tonnesen](https://github.com/otonnesen)
 - [Pranjal Aswani](https://github.com/aswanipranjal)
