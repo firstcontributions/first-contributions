@@ -1527,6 +1527,7 @@
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [Oliver Tonnesen](https://github.com/otonnesen)
 - [Pranjal Aswani](https://github.com/aswanipranjal)
 - [Alex Noble](https://github.com/Alex-Noble4)
 - [Thales Iwashima](https://github.com/TIwashima)
