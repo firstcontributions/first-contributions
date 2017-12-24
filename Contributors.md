@@ -1378,6 +1378,7 @@
 - [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
+- [Vind VS](https://github.com/arvindvs)
 - [Amberzizi](https://github.com/amberzizi)
 - [Faisal Ali](https://github.com/faisal3389)
 - [Charmie Quiño](https://github.com/LightDev777)
