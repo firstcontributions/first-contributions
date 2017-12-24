@@ -1526,3 +1526,4 @@
 - [Harrison Hur](https://github.com/harhur)
 - [Bjoern Baertschi](https://github.com/bisbeb)
 - [Paul Noël](https://github.com/poelon)
+- [Chris Warren](https://github.com/cwar)
