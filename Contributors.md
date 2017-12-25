@@ -1545,4 +1545,5 @@
 - [David Sharkey](https://github.com/DavidSharkey)
 - [Amjad Chami](https://github.com/mjchami)
 - [NGS Harshavardhan](https://github.com/harsha602)
+- [Hitesh Jain] (https://github.com/jainhitesh3)
 - [Ronnie](https://github.com/geekslider)
