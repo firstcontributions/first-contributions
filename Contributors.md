@@ -1,4 +1,4 @@
-  - [Kiefer Cover](https://github.com/kcover)
+﻿  - [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
@@ -1546,3 +1546,6 @@
 - [Amjad Chami](https://github.com/mjchami)
 - [NGS Harshavardhan](https://github.com/harsha602)
 - [Mishi Charles](https://github.com/MsMishi)
+- [Shai Glatshtein](https://github.com/theAshenfire)
+- [Hitesh Jain](https://github.com/jainhitesh3)
+- [Ronnie](https://github.com/geekslider)
