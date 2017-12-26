@@ -1,4 +1,4 @@
-# Translations
+﻿# Translations
 
 |  | Translated Link |
 | --- | --- |
@@ -16,7 +16,7 @@
 | 🇰🇷 🇰🇵 | [한국어](translations/README.ko.md) |
 | 🇩🇪  | [Plattdüütsch](translations/README.de.md) |
 | 🇨🇳 | [中文(Simplified)](translations/README.chs.md), [中文(Traditional)](translations/README.cht.md) |
-| 🇬🇷 | [ελληνικά](translations/README.gr.md) |
+| 🇬🇷 | [Ελληνικά](translations/README.gr.md) |
 | العربية | [العربية](translations/README.ar.md) |
 | 🇺🇦 | [Українська](translations/README.ua.md) |
 | 🇵🇹 🇧🇷 | [Português](translations/README.pt_br.md) |
