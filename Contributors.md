@@ -1557,3 +1557,4 @@
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Arica Chakraborty](https://github.com/uemarica)
+- [Michel Michels](https://github.com/MichelMichels)
