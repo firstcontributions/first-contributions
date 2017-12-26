@@ -1549,3 +1549,6 @@
 - [NGS Harshavardhan](https://github.com/harsha602)
 - [Joshua Swift] (https://github.com/joshuaswift)
 - [Neel Neogi](https://github.com/neelflash07)
+- [Aditya Roy](https://github.com/han0305)
+- [Lovrenc Gregorcic](https://github.com/lovrenc)
+- [Ayush Rawal](https://github.com/ayush-rawal)
