@@ -1556,3 +1556,4 @@
 - [Aditya Roy](https://github.com/han0305)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
+- [Arica Chakraborty](https://github.com/uemarica)
