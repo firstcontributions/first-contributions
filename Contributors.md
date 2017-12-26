@@ -1561,3 +1561,4 @@
 - [Michel Michels](https://github.com/MichelMichels)
 - [DerekL1688](https://github.com/derekl1688)
 - [Tricia Cuninghame](https://github.com/Tricky2712)
+- [Brendan Hanna](https://github.com/gepetto503)
