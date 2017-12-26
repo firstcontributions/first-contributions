@@ -1,4 +1,4 @@
-- [Kiefer Cover](https://github.com/kcover)
+﻿- [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
@@ -1548,5 +1548,6 @@
 - [NGS Harshavardhan](https://github.com/harsha602)
 - [Joshua Swift] (https://github.com/joshuaswift)
 - [Neel Neogi](https://github.com/neelflash07)
+- [Aditya Roy](https://github.com/han0305)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
