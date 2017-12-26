@@ -1549,3 +1549,4 @@
 - [Joshua Swift] (https://github.com/joshuaswift)
 - [Neel Neogi](https://github.com/neelflash07)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
+- [Ayush Rawal](https://github.com/ayush-rawal)
