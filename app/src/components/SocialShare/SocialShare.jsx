@@ -1,7 +1,7 @@
 import React from 'react';
 import TwitterCard from './Twitter';
 import FacebookCard from './Facebook';
-import LinkedinLink from './Linkedin';
+import LinkedinCard from './Linkedin';
 import './SocialShare.css';
 
 const SocialShare = () => (
@@ -10,7 +10,7 @@ const SocialShare = () => (
         <div id='social-shares-container'>
             <TwitterCard/>
             <FacebookCard/>
-            <LinkedinLink/>
+            <LinkedinCard/>
 
         </div>
     </section>
