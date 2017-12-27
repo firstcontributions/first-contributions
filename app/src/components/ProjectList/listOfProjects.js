@@ -162,6 +162,13 @@ const projectList = [
     description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project ',
     tag: ['GitHub', 'tutorial'],
   },
+   {
+    name: 'RubyGems ecosystem',
+    imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
+    githubLink: 'https://github.com/rubygems/contribute',
+    description: 'One site to show all related RubyGems ecosystem projects and help developers get involved',
+    tag: ['ruby', 'rubygems'],
+  }
 ];
 
 export default projectList;
