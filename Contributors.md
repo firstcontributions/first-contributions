@@ -1286,6 +1286,7 @@
 - [Cheng](https://github.com/machiko)
 - [David Rojas](https://github.com/DavidRojas1612)
 - [Aman Tiwari](https://github.com/aman9875)
+- [Kunal Chakrabarty](https://github.com/KUNAL1612)
 - [Omer Can Yazici](https://github.com/yaziciom)
 - [Augusto da Silva Costa](https://github.com/gutocosta)
 - [aaazureee](https://github.com/aaazureee)
