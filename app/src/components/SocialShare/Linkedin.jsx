@@ -1,9 +1,9 @@
 import React from 'react';
 import { Icon, IconPaths } from './icons.js';
 
-const LinkedinCard = "https://www.linkedin.com/shareArticle?mini=true&url=https://roshanjossey.github.io/first-contributions/#social-share&title=LinkedIn%20First%Contributions&hashtags=OpenSource,CodeNewbie"
+const LinkedinLink = "https://www.linkedin.com/shareArticle?mini=true&url=https://goo.gl/66Axwe&title=First%20Contributionsr%20&summary=A%20project%20to%20help%20beginners%20get%20started%20with%20contributing%20to%20open&20source&source=https://roshanjossey.github.io"
 
-const LinkedinCard = () => (
+const LinkedinLink = () => (
     <a className="icon-card linkedin" href={LinkedinLink} target="_blank">
         <Icon
             color="rgb(255, 255, 255)"
@@ -13,4 +13,4 @@ const LinkedinCard = () => (
     </a>
 );
 
-export default LinkedinCard;
+export default LinkedinLink;
