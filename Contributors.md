@@ -1567,3 +1567,4 @@
 - [Renu](https://github.com/RenuGreen)
 - [Juan Romani](https://github.com/JuanRomani)
 - [Callum King](https://github.com/CKING-82)
+- [Marius Nicolae](https://github.com/bytao7mao)
