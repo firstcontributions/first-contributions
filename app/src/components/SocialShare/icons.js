@@ -24,7 +24,7 @@ export const Icon = props => {
     style={styles.svg}
     width={`${props.size}px`}
     height={`${props.size}px`}
-    viewBox={props.boxStyle}
+    viewBox= "0 0 25 25"
         >
         <path
     style={styles.path}
