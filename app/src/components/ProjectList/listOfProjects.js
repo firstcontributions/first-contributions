@@ -169,6 +169,13 @@ const projectList = [
     description: 'One site to show all related RubyGems ecosystem projects and help developers get involved',
     tag: ['ruby', 'rubygems'],
   },
+  {
+    name: 'Mail For Good',
+    imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
+    githubLink: 'https://github.com/freeCodeCamp/mail-for-good',
+    description: 'An open source email campaign management tool',
+    tag: ['nodejs', 'javascript', 'email-campaigns']
+  }
 ];
 
 export default projectList;
