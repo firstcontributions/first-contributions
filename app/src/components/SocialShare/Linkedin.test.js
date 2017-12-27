@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import LinkedinCard from './Linkedin';
+import LinkedinLink from './Linkedin';
 
 it('renders a project card', () => {
   const tree = renderer.create(
