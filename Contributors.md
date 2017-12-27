@@ -1,3 +1,4 @@
+- Subhag Bhatia
 - [Kiefer Cover](https://github.com/kcover)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
@@ -1563,3 +1564,4 @@
 - [Tricia Cuninghame](https://github.com/Tricky2712)
 - [Brendan Hanna](https://github.com/gepetto503)
 - [Renu](https://github.com/RenuGreen)
+- [Juan Romani](https://github.com/JuanRomani)
