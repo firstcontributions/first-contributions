@@ -9,7 +9,7 @@ const LinkedinCard = () => (
             color="rgb(255, 255, 255)"
             size={50}
             icon={IconPaths.linkedin}
-            boxStyle="0 0 67 67"
+            boxStyle="0 0 24 28"
         />
     </a>
 );
