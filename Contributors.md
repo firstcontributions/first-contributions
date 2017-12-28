@@ -1577,3 +1577,4 @@
 - [Martina Morigi](https://github.com/Marthiee)
 - [Andrew](https://github.com/darthm3gatron)
 - [Levente Vig](https://github.com/levivig)
+- [André Carvalho](https://github.com/AndrCarvalho)
