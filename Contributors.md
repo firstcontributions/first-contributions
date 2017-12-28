@@ -1,3 +1,4 @@
+- [Sundae And Pizza](https://github.com/sundaeandpizza)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - Subhag Bhatia
 - [Brandon Gioggia](https://github.com/bgioggia)
@@ -1571,4 +1572,5 @@
 - [Callum King](https://github.com/CKING-82)
 - [Marius Nicolae](https://github.com/bytao7mao)
 - [Dasari Sridhar](https://github.com/reddysridhar53)
-- [Martina Morigi] (https://github.com/Marthiee)
+- [Martina Morigi](https://github.com/Marthiee)
+- [Andrew](https://github.com/darthm3gatron)
