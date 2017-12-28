@@ -1539,7 +1539,7 @@
 - [Chris Warren](https://github.com/cwar)
 - [Jamal Taylor](https://github.com/Louis345)
 - [Evan LeValley](https://github.com/holmcross)
-- [Joe Tomaselli](https://github.com/Xaentor)
+- [Joe Tomaselli](https://github.com/tjomaselli)
 - [Eskaine](https://github.com/eskaine)
 - [Rathna Subramanian](https://github.com/rathnasubramanian2603)
 - [Roger Zimmermann](https://github.com/AlpineCoder)
