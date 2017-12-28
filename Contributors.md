@@ -1580,3 +1580,4 @@
 - [Andr? Carvalho](https://github.com/AndrCarvalho)
 - [Vlad Buzea](https://github.com/buzea )
 - [Shulammite Lim](https://github.com/shulim)
+- [Kawaljit Singh](https://github.com/Kawaljit)
