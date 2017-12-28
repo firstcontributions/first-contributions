@@ -9,7 +9,7 @@ Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
-Se não possui o git em sua máquina, [instale aqui]( https://help.github.com/articles/set-up-git/ ).
+Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faça um Fork deste repositório
 
