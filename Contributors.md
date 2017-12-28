@@ -1577,5 +1577,6 @@
 - [Martina Morigi](https://github.com/Marthiee)
 - [Andrew](https://github.com/darthm3gatron)
 - [Levente Vig](https://github.com/levivig)
-- [André Carvalho](https://github.com/AndrCarvalho)
+- [Andr? Carvalho](https://github.com/AndrCarvalho)
 - [Vlad Buzea] (https://github.com/buzea )
+- [Shu Lim] (https://github.com/shulim)
