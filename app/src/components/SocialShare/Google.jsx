@@ -1,7 +1,7 @@
 import React from 'react';
 import { Icon, IconPaths } from './icons.js';
 
-const GoogleLink = "https://plus.google.com/share?url= https://goo.gl/66Axwe&prefilltext=I have made my first PR using this tutorial and I find it really simple and encouraging."
+const GoogleLink = "https://plus.google.com/share?url=https://goo.gl/66Axwe&prefilltext=I have made my first PR using this tutorial and I find it really simple and encouraging."
 
 const GoogleCard = () => (
     <a className="icon-card Google" href={GoogleLink} target="_blank">
