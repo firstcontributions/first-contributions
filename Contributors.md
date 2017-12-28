@@ -1579,4 +1579,4 @@
 - [Levente Vig](https://github.com/levivig)
 - [Andr? Carvalho](https://github.com/AndrCarvalho)
 - [Vlad Buzea] (https://github.com/buzea )
-- [Shu Lim] (https://github.com/shulim)
+- [Shulammite Lim] (https://github.com/shulim)
