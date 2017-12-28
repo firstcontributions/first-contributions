@@ -175,6 +175,13 @@ const projectList = [
     githubLink: 'https://github.com/freeCodeCamp/mail-for-good',
     description: 'An open source email campaign management tool',
     tag: ['nodejs', 'javascript', 'email-campaigns']
+  },
+  {
+    name: 'Visual Studio Code',
+    imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
+    githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
+    description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
+    tags: ['typescript', 'text-editor', 'electron']
   }
 ];
 
