@@ -1578,5 +1578,5 @@
 - [Andrew](https://github.com/darthm3gatron)
 - [Levente Vig](https://github.com/levivig)
 - [Andr? Carvalho](https://github.com/AndrCarvalho)
-- [Vlad Buzea] (https://github.com/buzea )
-- [Shulammite Lim] (https://github.com/shulim)
+- [Vlad Buzea](https://github.com/buzea )
+- [Shulammite Lim](https://github.com/shulim)
