@@ -1,4 +1,4 @@
-﻿-[Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
+﻿- [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - [Matt Hallada](https://github.com/matthallada)
@@ -1576,3 +1576,4 @@
 - [Dasari Sridhar](https://github.com/reddysridhar53)
 - [Martina Morigi](https://github.com/Marthiee)
 - [Andrew](https://github.com/darthm3gatron)
+- [Levente Vig](https://github.com/levivig)
