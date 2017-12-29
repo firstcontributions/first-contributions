@@ -1,3 +1,5 @@
+- [Momchil Zhivkov](https://github.com/mrZhivkov)
+- [Ibadullah Khan](https://github.com/ibadullah25)
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
 - [Yugesh Kothari](https://github.com/yugeshK)
@@ -1586,3 +1588,8 @@
 - [Emerson Lopes](https://github.com/emersonlbr)
 - [Rahul Roshan](https://github.com/rahulroshan96)
 - [Jonathon Yallop](https://github.com/jyallop)
+- [George Gkasdrogkas](https://github.com/georgegkas)
+- [Robert Vunabandi](https://github.com/robertvunabandi)
+- [Rafael Rahal](https://github.com/rrrahal)
+- Massi
+- [Shel Benfield](https://github.com/camrhosyn)
