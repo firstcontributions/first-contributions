@@ -1586,3 +1586,6 @@
 - [Emerson Lopes](https://github.com/emersonlbr)
 - [Rahul Roshan](https://github.com/rahulroshan96)
 - [Robert Vunabandi](https://github.com/robertvunabandi)
+- [Rafael Rahal](https://github.com/rrrahal)
+- Massi
+- [Shel Benfield](https://github.com/camrhosyn)
