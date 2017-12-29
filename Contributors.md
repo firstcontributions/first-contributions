@@ -68,6 +68,7 @@
 - [Reyes Cheng](https://github.com/machiko)
 - [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
+- [Edward Mooney](https://github.com/brnagn7)
 - [Shadab Khan](https://github.com/shadabk96)
 - [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
 - [Ryan Ouyang](https://github.com/ryan-ouyang)
