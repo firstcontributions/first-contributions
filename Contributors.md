@@ -1596,6 +1596,7 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
+- [Sello Ramolelle](https://github.com/sello-rex/)
 - [Gareth Ensor](https://github.com/garens80)
 - [Ben Stitt](https://github.com/galacticdeep)
 - [Morgan Lovett](https://github.com/mrlovett)
