@@ -1596,3 +1596,4 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
+- [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
