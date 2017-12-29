@@ -1,4 +1,4 @@
-- [Momchil Zhivkov](https://github.com/mrZhivkov)
+﻿- [Momchil Zhivkov](https://github.com/mrZhivkov)
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
@@ -1596,3 +1596,4 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
+- [Mike D](https://github.com/myked)
