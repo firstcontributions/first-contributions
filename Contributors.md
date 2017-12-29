@@ -1596,4 +1596,8 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
-- [Ben Stitt] (https://github.com/galacticdeep)
+- [Ben Stitt](https://github.com/galacticdeep)
+- [Morgan Lovett](https://github.com/mrlovett)
+- [Shan Rizvi](https://github.com/OneTrueKill/)
+- [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
+- [Srikanth Arugula](https://github.com/asrikanth27)
