@@ -9,6 +9,7 @@ const TwitterCard = () => (
             color="rgb(255, 255, 255)"
             size={40}
             icon={IconPaths.twitter}
+            boxStyle="0 0 22 22"
         />
     </a>
 );

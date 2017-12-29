@@ -162,6 +162,27 @@ const projectList = [
     description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project ',
     tag: ['GitHub', 'tutorial'],
   },
+  {
+    name: 'RubyGems ecosystem',
+    imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
+    githubLink: 'https://github.com/rubygems/contribute',
+    description: 'One site to show all related RubyGems ecosystem projects and help developers get involved',
+    tag: ['ruby', 'rubygems'],
+  },
+  {
+    name: 'Mail For Good',
+    imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
+    githubLink: 'https://github.com/freeCodeCamp/mail-for-good',
+    description: 'An open source email campaign management tool',
+    tag: ['nodejs', 'javascript', 'email-campaigns']
+  },
+  {
+    name: 'Visual Studio Code',
+    imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
+    githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
+    description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
+    tags: ['typescript', 'text-editor', 'electron']
+  }
 ];
 
 export default projectList;
