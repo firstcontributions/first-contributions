@@ -1597,3 +1597,6 @@
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
 - [Morgan Lovett](https://github.com/mrlovett)
+- [Shan Rizvi](https://github.com/OneTrueKill/)
+- [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
+- [Srikanth Arugula](https://github.com/asrikanth27)
