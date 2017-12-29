@@ -1596,3 +1596,4 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
+- [Sello Ramolelle](https://github.com/sello-rex/)
