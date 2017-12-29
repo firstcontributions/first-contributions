@@ -4,6 +4,7 @@
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - [Matt Hallada](https://github.com/matthallada)
+- [Mateusz Osuch](https://github.com/mateuszosuch)
 - Subhag Bhatia
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [Kiefer Cover](https://github.com/kcover)
