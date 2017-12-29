@@ -1596,3 +1596,4 @@
 - [Rafael Rahal](https://github.com/rrrahal)
 - Massi
 - [Shel Benfield](https://github.com/camrhosyn)
+- [Gareth Ensor](https://github.com/garens80)
