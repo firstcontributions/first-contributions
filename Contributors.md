@@ -1605,6 +1605,7 @@
 - [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
 - [Srikanth Arugula](https://github.com/asrikanth27)
 - [Aaron Faubion](https://github.com/afaubz)
+- [Kevin C](https://github.com/caokevinc)
 - [Jimil Patel](https://github.com/p4telj)
 - [Mark Fenske](https://github.com/markfenske84)
 - [Dinesh Patil](https://github.com/dineshp23)
