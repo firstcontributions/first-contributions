@@ -1610,3 +1610,4 @@
 - [Mark Fenske](https://github.com/markfenske84)
 - [Dinesh Patil](https://github.com/dineshp23)
 - [Priyance Mandlewala](https://github.com/princemandlewala)
+- [Daniel Tanti] (https://github.com/dnl228)
