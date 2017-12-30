@@ -1606,3 +1606,5 @@
 - [Srikanth Arugula](https://github.com/asrikanth27)
 - [Aaron Faubion](https://github.com/afaubz)
 - [Jimil Patel](https://github.com/p4telj)
+- [Mark Fenske](https://github.com/markfenske84)
+- [Dinesh Patil](https://github.com/dineshp23)
