@@ -1612,3 +1612,4 @@
 - [Priyance Mandlewala](https://github.com/princemandlewala)
 - [Daniel Tanti] (https://github.com/dnl228)
 - [Jussi Pennanen](https://github.com/jussipennanen)
+- [Daniel Little] (https://github.com/LittleDan9)
