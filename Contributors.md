@@ -1612,6 +1612,7 @@
 - [Priyance Mandlewala](https://github.com/princemandlewala)
 - [Daniel Tanti] (https://github.com/dnl228)
 - [Jussi Pennanen](https://github.com/jussipennanen)
+- [Takuya Kato](https://github.com/Ktakuya332C/)
 - [Matthew Thomas] (https://github.com/mthomas1202)
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
 - [Daniel Little] (https://github.com/LittleDan9)
