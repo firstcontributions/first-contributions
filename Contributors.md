@@ -1619,3 +1619,4 @@
 - Wasiq Noor
 - [Mike Smith] (https://github.com/Skinward)
 - [Abhishek Kumar] (https://github.com/ismabhishek)
+- [Pierre Biver] (https://github.com/pierrebiver/)
