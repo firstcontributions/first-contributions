@@ -1618,4 +1618,7 @@
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
 - [Mike Smith] (https://github.com/Skinward)
-- [Jean-David Daviet] (https://github.com/JeanDavidDaviet)
+- [Jean-David Daviet](https://github.com/JeanDavidDaviet)
+- [Lola Barbier](https://github.com/coughinbach)
+- [Abhishek Kumar](https://github.com/ismabhishek)
+- [Pierre Biver](https://github.com/pierrebiver/)
