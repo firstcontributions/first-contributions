@@ -1,4 +1,4 @@
-﻿- [Momchil Zhivkov](https://github.com/mrZhivkov)
+- [Momchil Zhivkov](https://github.com/mrZhivkov)
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
@@ -1628,3 +1628,4 @@
 - [Abhishek Kumar](https://github.com/ismabhishek)
 - [Pierre Biver](https://github.com/pierrebiver/)
 - [Cedric Wille](https://github.com/cwille97/)
+- [Caroline Birch] (https://github.com/Caroline99)
