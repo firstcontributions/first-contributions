@@ -1618,7 +1618,8 @@
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
-- [Mike Smith] (https://github.com/Skinward)
+- [Mike Smith](https://github.com/Skinward)
+- Barnash
 - [Jean-David Daviet](https://github.com/JeanDavidDaviet)
 - [Lola Barbier](https://github.com/coughinbach)
 - [Abhishek Kumar](https://github.com/ismabhishek)
