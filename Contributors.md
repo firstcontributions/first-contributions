@@ -78,6 +78,7 @@
 - [Mintoo Kumar](https://github.com/mintoo511)
 - [Rubén Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
+- [Alex Dragan](https://github.com/KENadiaNz)
 - [Saideep Dicholkar](https://github.com/saideepd)
 - [Oliver Miller](https://github.com/Oliver-H-Miller)
 - [Gabriel Cueto](https://github.com/TheMushrr00m)
@@ -1617,5 +1618,11 @@
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
-- [Mike Smith] (https://github.com/Skinward)
 - [Eslam Shala](https://github.com/eslamunto)
+- [webitekt](https://github.com/webitekt)
+- [Mike Smith](https://github.com/Skinward)
+- Barnash
+- [Jean-David Daviet](https://github.com/JeanDavidDaviet)
+- [Lola Barbier](https://github.com/coughinbach)
+- [Abhishek Kumar](https://github.com/ismabhishek)
+- [Pierre Biver](https://github.com/pierrebiver/)
