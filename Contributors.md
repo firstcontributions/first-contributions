@@ -1618,6 +1618,7 @@
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
+- [Eslam Shala](https://github.com/eslamunto)
 - [webitekt](https://github.com/webitekt)
 - [Mike Smith](https://github.com/Skinward)
 - Barnash
