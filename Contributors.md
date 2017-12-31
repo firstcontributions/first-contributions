@@ -1627,3 +1627,4 @@
 - [Lola Barbier](https://github.com/coughinbach)
 - [Abhishek Kumar](https://github.com/ismabhishek)
 - [Pierre Biver](https://github.com/pierrebiver/)
+- [Cedric Wille](https://github.com/cwille97/)
