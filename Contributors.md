@@ -1630,3 +1630,4 @@
 - [Pierre Biver](https://github.com/pierrebiver/)
 - [Cedric Wille](https://github.com/cwille97/)
 - [Caroline Birch] (https://github.com/Caroline99)
+- [Victor Hidrogo] (https://github.com/vhidrogo)
