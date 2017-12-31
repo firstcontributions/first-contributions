@@ -1,3 +1,4 @@
+- [David Bang] (https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz] (https://github.com/misterschmitz)
