@@ -1613,3 +1613,5 @@
 - [Daniel Tanti] (https://github.com/dnl228)
 - [Jussi Pennanen](https://github.com/jussipennanen)
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
+- [Daniel Little] (https://github.com/LittleDan9)
+- Wasiq Noor
