@@ -1618,3 +1618,4 @@
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
 - [Mike Smith] (https://github.com/Skinward)
+- [Jean-David Daviet] (https://github.com/JeanDavidDaviet)
