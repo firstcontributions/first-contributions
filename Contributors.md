@@ -1618,6 +1618,7 @@
 - [Filip Ivanovski] (https://github.com/filipivanovski42)
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
+- [webitekt](https://github.com/webitekt)
 - [Mike Smith](https://github.com/Skinward)
 - Barnash
 - [Jean-David Daviet](https://github.com/JeanDavidDaviet)
