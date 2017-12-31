@@ -1618,5 +1618,6 @@
 - [Daniel Little] (https://github.com/LittleDan9)
 - Wasiq Noor
 - [Mike Smith] (https://github.com/Skinward)
-- [Abhishek Kumar] (https://github.com/ismabhishek)
-- [Pierre Biver] (https://github.com/pierrebiver/)
+- [Lola Barbier](https://github.com/coughinbach)
+- [Abhishek Kumar](https://github.com/ismabhishek)
+- [Pierre Biver](https://github.com/pierrebiver/)
