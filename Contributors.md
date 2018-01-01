@@ -1635,3 +1635,4 @@
 - [Caroline Birch](https://github.com/Caroline99)
 - [Sait Gulmez](https://github.com/saitgulmez)
 - [Hari Kuduva](https://github.com/sriharikuduva)
+- [Kinsey Favre](https://github.com/kinstalinist)
