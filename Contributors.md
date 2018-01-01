@@ -1629,6 +1629,7 @@
 - [Abhishek Kumar](https://github.com/ismabhishek)
 - [Pierre Biver](https://github.com/pierrebiver/)
 - [Cedric Wille](https://github.com/cwille97/)
+- [Jue Wang] (https://github.com/juedewang)
 - [J. Arthur Baker](https://github.com/baker-jeremy)
 - [Victor Hidrogo] (https://github.com/vhidrogo)
 - [Caroline Birch](https://github.com/Caroline99)
