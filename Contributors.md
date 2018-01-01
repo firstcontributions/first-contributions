@@ -1630,3 +1630,5 @@
 - [Pierre Biver](https://github.com/pierrebiver/)
 - [Cedric Wille](https://github.com/cwille97/)
 - [Caroline Birch] (https://github.com/Caroline99)
+- [J. Arthur Baker](https://github.com/baker-jeremy)
+
