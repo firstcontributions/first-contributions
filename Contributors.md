@@ -9,6 +9,7 @@
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - Subhag Bhatia
 - [Brandon Gioggia](https://github.com/bgioggia)
+- [David Bang] (https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
