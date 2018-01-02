@@ -1641,3 +1641,4 @@
 - [Kinsey Favre](https://github.com/kinstalinist)
 - [Taylor Prescott](https://github.com/taycott3)
 - [Brandon Meeks](https://github.com/brandon-meeks)
+- [Lee](https://github.com/lnsykalski)
