@@ -1642,3 +1642,4 @@
 - [Taylor Prescott](https://github.com/taycott3)
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
+- [Jacob Brown](https://github.com/Gamerick)
