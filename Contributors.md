@@ -1,3 +1,4 @@
+- [Maxime Pare](https://github.com/Lepare)
 ﻿- [Japneet Singh](https://github.com/designercoder123)
 - [Kyle Pu](https://github.com/Kyle-P)
 - [Asim Ansari](https://github.com/Asim1996)
@@ -1644,7 +1645,6 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
-- [Tianhao Wang](https://github.com/Tianhao25)
 - [kaotikus](https://github.com/kaotikus)
 - [beardww](https://github.com/beardww)
 - [Annabel MacGregor](http://github.com/a-macgregor)
