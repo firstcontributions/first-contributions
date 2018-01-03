@@ -1644,5 +1644,6 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
+- [Breno Barreto](https://github.com/brenobarreto)
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
