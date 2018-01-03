@@ -1646,6 +1646,7 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
+- [Eric Johnson] (https://github.com/erjohns3)
 - [Beecallpaw Thapa](https://github.com/Beecallpaw)
 - [kaotikus](https://github.com/kaotikus)
 - [beardww](https://github.com/beardww)
