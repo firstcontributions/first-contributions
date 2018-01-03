@@ -1643,4 +1643,4 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
-Ashish Bansode
+- [Ashish Bansode](https://github.com/bansodeashish24)
