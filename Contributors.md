@@ -1644,6 +1644,7 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
+- [kaotikus](https://github.com/kaotikus)
 - [beardww](https://github.com/beardww)
 - [Annabel MacGregor](http://github.com/a-macgregor)
 - [Gareth](https://github.com/Gareth-L)
