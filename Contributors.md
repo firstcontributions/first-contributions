@@ -1644,6 +1644,7 @@
 - [Brandon Meeks](https://github.com/brandon-meeks)
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
-- [Annabel MacGregor](http://github.com/a-macgregor)
+- [Jonathan Lambert](https://github.com/jonathanlambert82)
+- [Breno Barreto](https://github.com/brenobarreto)
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
