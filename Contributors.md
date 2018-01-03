@@ -1,3 +1,4 @@
+﻿- [Japneet Singh](https://github.com/designercoder123)
 - [Kyle Pu](https://github.com/Kyle-P)
 - [Asim Ansari](https://github.com/Asim1996)
 - [Momchil Zhivkov](https://github.com/mrZhivkov)
@@ -1644,3 +1645,8 @@
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
 - [Tianhao Wang](https://github.com/Tianhao25)
+- [kaotikus](https://github.com/kaotikus)
+- [beardww](https://github.com/beardww)
+- [Annabel MacGregor](http://github.com/a-macgregor)
+- [Gareth](https://github.com/Gareth-L)
+- [josaks](https://github.com/josaks)
