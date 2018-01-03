@@ -1,4 +1,4 @@
-- [Kyle Pu](https://github.com/Kyle-P)
+﻿- [Kyle Pu](https://github.com/Kyle-P)
 - [Asim Ansari](https://github.com/Asim1996)
 - [Momchil Zhivkov](https://github.com/mrZhivkov)
 - [Ibadullah Khan](https://github.com/ibadullah25)
@@ -1621,6 +1621,7 @@
 - [Filip Ivanovski](https://github.com/filipivanovski42)
 - [Daniel Little](https://github.com/LittleDan9)
 - Wasiq Noor
+- [Steven Te](https://github.com/testeven152)
 - [Kanishk Kumar](https://github.com/kanishk509)
 - [Eslam Shala](https://github.com/eslamunto)
 - [webitekt](https://github.com/webitekt)
