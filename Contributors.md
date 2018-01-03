@@ -1,3 +1,4 @@
+﻿- [Japneet Singh](https://github.com/designercoder123)
 - [Kyle Pu](https://github.com/Kyle-P)
 - [Asim Ansari](https://github.com/Asim1996)
 - [Momchil Zhivkov](https://github.com/mrZhivkov)
