@@ -1658,3 +1658,4 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Kyle Magee](https://github.com/Kyle-Magee)
