@@ -1634,6 +1634,7 @@
 - [Mike Smith](https://github.com/Skinward)
 - Barnash
 - [Jean-David Daviet](https://github.com/JeanDavidDaviet)
+- [Primula Mukherjee] (https://github.com/Primuk)
 - [Lola Barbier](https://github.com/coughinbach)
 - [Abhishek Kumar](https://github.com/ismabhishek)
 - [Pierre Biver](https://github.com/pierrebiver/)
