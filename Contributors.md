@@ -1679,4 +1679,5 @@
 - [AlexBula](https://github.com/alexbula)
 - [Myhr86](https://github.com/Myhr86)
 - [Richard Boell](https://github.com/RichardBoell)
+- [Aditya Chettri] (https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
