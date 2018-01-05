@@ -13,7 +13,6 @@
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - Subhag Bhatia
-- [Andrew Nichols](https://github.com/y3ahright)
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang] (https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
@@ -1661,6 +1660,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Brian D. Hopper](https://github.com/bubbabeans)
 - [Janie Tito](http://github.com/janie-t)
 - [Yiwen Lux](https://github.com/yiwen-lux)
 - [Vedhachala](https://github.com/Vedhachala)
