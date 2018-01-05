@@ -1,4 +1,4 @@
-- [Aditya Sahu](https://github.com/aditya-sahu)
+﻿- [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
 ﻿- [Japneet Singh](https://github.com/designercoder123)
 - [Kyle Pu](https://github.com/Kyle-P)
@@ -1659,3 +1659,5 @@
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
 - [AlexBula](https://github.com/alexbula)
+- [Myhr86](https://github.com/Myhr86)
+- [Richard Boell](https://github.com/RichardBoell)
