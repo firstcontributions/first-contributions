@@ -13,6 +13,7 @@
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - Subhag Bhatia
+- [Andrew Nichols](https://github.com/y3ahright)
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang] (https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
