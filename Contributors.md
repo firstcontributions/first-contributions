@@ -80,6 +80,7 @@
 - [Edward Mooney](https://github.com/brnagn7)
 - [Shadab Khan](https://github.com/shadabk96)
 - [Shubham Chauhan](https://github.com/ShubhamSinghChauhan)
+- [Javed Hussain](https://github.com/trailblazer42)
 - [Ryan Ouyang](https://github.com/ryan-ouyang)
 - [Dalip](https://github.com/dalip123)
 - [Gaurav Rai](https://github.com/ThinkHattke)
