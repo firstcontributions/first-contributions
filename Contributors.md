@@ -1660,6 +1660,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Dheeraj Varshney](https://github.com/DheerajVarshney19)
 - [Jonathan Broderick](https://github.com/jonathanbroderick)
 - [Brian D. Hopper](https://github.com/bubbabeans)
 - [Janie Tito](http://github.com/janie-t)
