@@ -1,3 +1,4 @@
+- [Christy Welsh] (https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
 ﻿- [Japneet Singh](https://github.com/designercoder123)
@@ -1659,3 +1660,7 @@
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
 - [Kyle Magee](https://github.com/Kyle-Magee)
+- [Al Amadou](https://github.com/alilah)
+- [AlexBula](https://github.com/alexbula)
+- [Myhr86](https://github.com/Myhr86)
+- [Richard Boell](https://github.com/RichardBoell)
