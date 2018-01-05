@@ -1658,4 +1658,5 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Trevor Lezynski](https://github.com/TLezynski)
 - [Richard Boell](https://github.com/RichardBoell)
