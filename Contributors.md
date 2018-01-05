@@ -1659,3 +1659,5 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Myhr86](https://github.com/Myhr86)
+- [Richard Boell](https://github.com/RichardBoell)
