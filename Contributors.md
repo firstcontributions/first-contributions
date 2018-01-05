@@ -1659,6 +1659,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Kyle Magee](https://github.com/Kyle-Magee)
 - [Al Amadou](https://github.com/alilah)
 - [AlexBula](https://github.com/alexbula)
 - [Myhr86](https://github.com/Myhr86)
