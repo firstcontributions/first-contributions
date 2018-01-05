@@ -1659,6 +1659,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [migomlevi](https://github.com/migomlevi)
 - [senbihan](https://github.com/senbihan)
 - [Taasin Saquib](https://github.com/taasinsaquib)
 - [Kyle Magee](https://github.com/Kyle-Magee)
