@@ -1660,6 +1660,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [Janie Tito](http://github.com/janie-t)
 - [Yiwen Lux](https://github.com/yiwen-lux)
 - [Vedhachala](https://github.com/Vedhachala)
 - [Norman Kloeber](https://github.com/icekult)
