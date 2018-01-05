@@ -1660,6 +1660,7 @@
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
+- [p1v0t](https://github.com/p1v0t)
 - [Nicholas Mandal](https://github.com/nmandal)
 - [Dheeraj Varshney](https://github.com/DheerajVarshney19)
 - [Jonathan Broderick](https://github.com/jonathanbroderick)
