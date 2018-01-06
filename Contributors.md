@@ -1,3 +1,4 @@
+- [Minchan Jun] (https://github.com/MinchanJun)
 - [Christy Welsh] (https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
