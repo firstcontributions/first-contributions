@@ -1681,4 +1681,5 @@
 - [Richard Boell](https://github.com/RichardBoell)
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri] (https://github.com/drumsapkota)
+ - [Alexander Markelov] (https://github.com/CaptainCarrot42)
 - [Nicholas Orji](https://github.com/nicholas343)
