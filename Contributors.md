@@ -1692,3 +1692,4 @@
 - [Kartik Khariwal](https://github.com/KartikKhariwal)
 - [Jeyhun Ashurbayov](https://github.com/ashurbeyli)
 - [Brandon Bynum](https://github.com/munyb)
+- [Dhairya Khale](https://github.com/dhairyakhale)
