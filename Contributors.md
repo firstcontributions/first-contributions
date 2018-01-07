@@ -1704,3 +1704,4 @@
 - [Jeyhun Ashurbayov](https://github.com/ashurbeyli)
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
+- [Grzegorz Goryszewski](https://github.com/goryszewskig)
