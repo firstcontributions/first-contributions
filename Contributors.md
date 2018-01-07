@@ -1683,6 +1683,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [Haziq Hassan](https://github.com/hzqhssn)
 - [Rg Thomas](https://github.com/rgt47)
 - [Hayden van Reyswoud](https://github.com/haydenvr)
 - [Ricky Reyes](https://github.com/rickyreyes30)
