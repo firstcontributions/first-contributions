@@ -1705,3 +1705,4 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
+- [JC Connell](https://github.com/jcconnell)
