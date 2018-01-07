@@ -1683,7 +1683,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
-- Ivelton Queiroz
+- [Liam Tuite](https://github.com/liam-tuite)
 - [Evan Grzeda](https://github.com/merp101)
 - [Abhin Krishnan](https://github.com/abhin-k)
 - [Silky Priya](https://github.com/silkypriya)
