@@ -1683,6 +1683,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [Chao Jin](https://github.com/kim1003037440)
 - [Yap Boon Peng](https://github.com/BPYap)
 - [Shristi Raj](https://github.com/enazuma11)
 - [Yiti J](https://github.com/YitiJ)
