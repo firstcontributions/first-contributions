@@ -1683,7 +1683,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
-- [SreeRamSai Chandrala](https://github.com/SreeRamSaiChandrala)
+- [Chris Finigan](https://github.com/chrisfinigan/)
 - [Evan Grzeda](https://github.com/merp101)
 - [Abhin Krishnan](https://github.com/abhin-k)
 - [Silky Priya](https://github.com/silkypriya)
