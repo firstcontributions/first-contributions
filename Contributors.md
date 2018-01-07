@@ -1682,6 +1682,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [Merbles minmerblestein](https://github.com/mariadeck)
 - [Nayan Nair](https://github.com/NayanNair)
 - [Joe Daniels](https://github.com/joedaniels)
 - [Mick McMahon](https://github.com/mickm77)
