@@ -514,7 +514,6 @@
 - [Andrew Chow](https://github.com/andrewRChow)
 - [GlueckskindRU](https://github.com/glueckskindu)
 - [Torty Emmanuel](https://github.com/tengine8000)
-- [Prakhar Gupta](https://github.com/prakharcipher)
 - [Michael Karr](https://github.com/mdkarr01)
 - [Todd Mason](https://github.com/ToddMason/first-contributions)
 - 阿甘
@@ -1683,6 +1682,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [syk1k](https://github.com/syk1k)
 - [Kartik Khariwal](https://github.com/KartikKhariwal)
 - [Jeyhun Ashurbayov](https://github.com/ashurbeyli)
 - [Brandon Bynum](https://github.com/munyb)
