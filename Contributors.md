@@ -1681,9 +1681,9 @@
 - [Myhr86](https://github.com/Myhr86)
 - [Richard Boell](https://github.com/RichardBoell)
 - [Beom Jin Lee](https://github.com/beomjin-lee)
-- [Aditya Chettri] (https://github.com/drumsapkota)
-- [Alexander Markelov] (https://github.com/CaptainCarrot42)
+- [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- Ivelton Queiroz
 - [Evan Grzeda](https://github.com/merp101)
 - [Abhin Krishnan](https://github.com/abhin-k)
 - [Silky Priya](https://github.com/silkypriya)
