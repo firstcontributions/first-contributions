@@ -57,6 +57,7 @@
 - [Atul Nair](https://github.com/atulnair)
 - [Adam Benckeser](https://github.com/yourfriendadam)
 - [Sanjay Johny](https://github.com/san45)
+- [Michael Ebenstein](https://github.com/mebenstein-tgm)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
 - Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
