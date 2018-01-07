@@ -1705,4 +1705,4 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
-- [Luiz Henrique Domingues Soares} (https://github.com/luizhenrique07)
+- [Luiz Henrique Domingues Soares] (https://github.com/luizhenrique07)
