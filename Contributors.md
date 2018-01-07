@@ -1682,6 +1682,7 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [Shristi Raj](https://github.com/enazuma11)
 - [Yiti J](https://github.com/YitiJ)
 - [Merbles minmerblestein](https://github.com/mariadeck)
 - [Nayan Nair](https://github.com/NayanNair)
