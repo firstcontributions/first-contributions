@@ -1,6 +1,6 @@
 # Contribution guide
 
-Welcome to your first contribution. :heart: vp
+Welcome to your first contribution. :heart:
 
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
