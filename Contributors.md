@@ -1707,6 +1707,7 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
+- [Joseph Weller](https://github.com/jaweller)
 - [Karthikeyan](https://github.com/skarthikeyan96)
 - [Jack Lenehan](https://github.com/jacklenehan)
 - [Aman Singh](https://github.com/aman199596)
