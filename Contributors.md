@@ -1530,6 +1530,7 @@
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
+- [Adam Friedl](https://github.com/adamfriedl)
 - [Alph4class](https://github.com/Alph4class)
 - [Harsh](https://github.com/h-sinha)
 - [Marek Koszlak](https://github.com/marrreg)
