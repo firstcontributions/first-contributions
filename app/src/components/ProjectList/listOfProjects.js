@@ -182,6 +182,13 @@ const projectList = [
     githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
     description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
     tags: ['typescript', 'text-editor', 'electron']
+  },
+  {
+    name: 'Scrapy',
+    imageSrc: 'https://delftswa.gitbooks.io/desosa-2017/content/scrapy/images-scrapy/Scrapy-Logo-Horizontal.png',
+    githubLink: 'https://github.com/scrapy/scrapy',
+    description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
+    tags: ['python', 'module', 'data-mining','automated-testing']
   }
 ];
 
