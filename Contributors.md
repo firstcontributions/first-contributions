@@ -1705,7 +1705,8 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
-- [VanheeArne]
+- [JC Connell](https://github.com/jcconnell)
+- VanheeArne
 - [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
