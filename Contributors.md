@@ -1725,3 +1725,4 @@
 - [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
+- [Juvid Aryaman](https://github.com/jaryaman)
