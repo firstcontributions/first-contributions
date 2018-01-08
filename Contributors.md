@@ -1705,3 +1705,4 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
+- [Dennis Adam] (https://github.com/Piket95)
