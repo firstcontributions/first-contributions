@@ -1707,6 +1707,7 @@
 - [Brandon Bynum](https://github.com/munyb)
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
+- [Aman Singh] (https://github.com/aman199596)
 - [Justin Oliver](https://github.com/justinolive)
 - [Aaron Trammell](https://github.com/ern19)
 - [Simon Biddle](https://github.com/BigNom)
