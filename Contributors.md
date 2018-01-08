@@ -1,4 +1,5 @@
-﻿- [Christy Welsh] (https://github.com/christycakes)
+﻿- [Chloe Stamper](https://github.com/chloelikescats)
+- [Christy Welsh] (https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
 ﻿- [Japneet Singh](https://github.com/designercoder123)
@@ -1706,3 +1707,9 @@
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
 - [Simon Biddle](https://github.com/BigNom)
+- [Manos Koutselakis](https://github.com/manoskoutselakis)
+- [JC Connell](https://github.com/jcconnell)
+- VanheeArne
+- [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
+- [Pablo Nieto](https://github.com/nietopablo19)
+- [Pratik Agarwal](https://github.com/pratik151192)
