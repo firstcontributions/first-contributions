@@ -1726,3 +1726,4 @@
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
 - [Lawrence Dang](https://github.com/re-blank)
+- [Daniel Pinho](https://github.com/Dannih95)
