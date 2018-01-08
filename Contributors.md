@@ -1706,3 +1706,4 @@
 - [Dhairya Khale](https://github.com/dhairyakhale)
 - [Grzegorz Goryszewski](https://github.com/goryszewskig)
 - [Pablo Nieto](https://github.com/nietopablo19)
+- [Pratik Agarwal](https://github.com/pratik151192)
