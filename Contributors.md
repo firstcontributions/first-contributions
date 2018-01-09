@@ -1,4 +1,4 @@
-- [Chloe Stamper](https://github.com/chloelikescats)
+﻿- [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
@@ -1729,6 +1729,7 @@
 - [Juvid Aryaman](https://github.com/jaryaman)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
+- [Alex Bonilla](https://github.com/Abonilla17)
 - [Diego Shimizu](https://github.com/dmshimizu)
 - [Jonathan Saysay](https://github.com/jsaysay)
 - [Grant Dellar](https://github.com/BFGD)
