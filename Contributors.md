@@ -1,4 +1,4 @@
-﻿- [Chloe Stamper](https://github.com/chloelikescats)
+- [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
 - [Maxime Pare](https://github.com/Lepare)
@@ -1739,3 +1739,4 @@
 - [Kevin Rosenberg](https://github.com/kevsters)
 - [Mingyu Hu](https://github.com/mingyuhu)
 - [Sean Stamm](https://github.com/sherlocktech)
+- [Abhishek Katti] (https://github.com/KattCoder)
