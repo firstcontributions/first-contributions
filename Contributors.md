@@ -1739,4 +1739,6 @@
 - [Kevin Rosenberg](https://github.com/kevsters)
 - [Mingyu Hu](https://github.com/mingyuhu)
 - [Sean Stamm](https://github.com/sherlocktech)
-- [Abhishek Katti] (https://github.com/KattCoder)
+- [Abhishek Katti](https://github.com/KattCoder)
+- [Ahmed Shawky](https://github.com/Ahmed-ShawkyEgy)
+- [Jill Platts](https://github.com/jmppmj)
