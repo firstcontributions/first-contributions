@@ -1728,3 +1728,4 @@
 - [Pratik Agarwal](https://github.com/pratik151192)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
+- [Jonathan Saysay](https://github.com/jsaysay)
