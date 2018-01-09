@@ -1727,3 +1727,4 @@
 - [Pratik Agarwal](https://github.com/pratik151192)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
+- [Diego Shimizu](https://github.com/dmshimizu)
