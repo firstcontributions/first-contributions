@@ -1729,6 +1729,7 @@
 - [Juvid Aryaman](https://github.com/jaryaman)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
+- [Joshua Munn](https://github.com/jams2)
 - [Alex Bonilla](https://github.com/Abonilla17)
 - [Diego Shimizu](https://github.com/dmshimizu)
 - [Jonathan Saysay](https://github.com/jsaysay)
