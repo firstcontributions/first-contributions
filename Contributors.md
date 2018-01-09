@@ -1742,4 +1742,4 @@
 - [Abhishek Katti](https://github.com/KattCoder)
 - [Ahmed Shawky](https://github.com/Ahmed-ShawkyEgy)
 - [Jill Platts](https://github.com/jmppmj)
-- [David Park](https://github.com/davepark1)
+- [David Park.](https://github.com/davepark1)
