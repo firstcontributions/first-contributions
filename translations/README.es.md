@@ -101,7 +101,7 @@ Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch d
 
 La master branch de tu fork no tendrá esos cambios. Para mantener tu fork sincronizado con el mío, sigue los siguientes pasos.
 
-### Manteniendo tu fork sincronizado con éste repositorio
+### Manteniendo tu fork sincronizado con este repositorio
 
 Primero, cambia a la master branch
 ```
