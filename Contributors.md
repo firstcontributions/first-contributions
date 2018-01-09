@@ -1735,3 +1735,4 @@
 - [Jonathan Saysay](https://github.com/jsaysay)
 - [Grant Dellar](https://github.com/BFGD)
 - [Kevin Rosenberg](https://github.com/kevsters)
+- [Mingyu Hu](https://github.com/mingyuhu)
