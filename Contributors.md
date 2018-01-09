@@ -1740,3 +1740,4 @@
 - [Mingyu Hu](https://github.com/mingyuhu)
 - [Sean Stamm](https://github.com/sherlocktech)
 - [Ahmed Shawky](https://github.com/Ahmed-ShawkyEgy)
+- [Jill Platts](https://github.com/jmppmj)
