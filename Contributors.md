@@ -1729,6 +1729,6 @@
 - [Juvid Aryaman](https://github.com/jaryaman)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
+- [Diego Shimizu](https://github.com/dmshimizu)
 - [Jonathan Saysay](https://github.com/jsaysay)
 - [Grant Dellar](https://github.com/BFGD)
-- [Daniel Pinho](https://github.com/Dannih95)
