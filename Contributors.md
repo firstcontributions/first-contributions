@@ -1726,6 +1726,7 @@
 - [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
+- [Juvid Aryaman](https://github.com/jaryaman)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Grant Dellar](https://github.com/BFGD)
 - [Daniel Pinho](https://github.com/Dannih95)
