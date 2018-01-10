@@ -1753,3 +1753,4 @@
 - [sjahed](https://github.com/sjahed)
 [Andy Winarko](https://github.com/AndyWinarko)
 - [Nathan Yost](https://github.com/nathanyost15)
+- [Andreas Bergh](https://github.com/Bendreas)
