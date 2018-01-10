@@ -1763,3 +1763,4 @@
 bar hoshen
 - [Ibrahim Elsakka](https://github.com/ibrahimelsakka)
 - [Mitchell Andreasen](https://github.com/thetogolopian)
+- [Katherine Carter] (https://github.com/gruvian)
