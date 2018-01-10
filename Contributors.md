@@ -1756,3 +1756,4 @@
 - [Andreas Bergh](https://github.com/Bendreas)
 - arpitjjw
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
+- [David Goodrich](https://github.com/djgoodrich)
