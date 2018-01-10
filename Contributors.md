@@ -1,4 +1,4 @@
-﻿- [Manish Nagdevani] (https://github.com/manish-nagdevani)
+﻿- Manish Nagdevani
 -[Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 -[Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
