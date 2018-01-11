@@ -181,21 +181,21 @@ const projectList = [
     imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
     githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
     description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
-    tags: ['typescript', 'text-editor', 'electron']
+    tag: ['typescript', 'text-editor', 'electron']
   },
   {
     name: 'Scrapy',
     imageSrc: 'https://delftswa.gitbooks.io/desosa-2017/content/scrapy/images-scrapy/Scrapy-Logo-Horizontal.png',
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
-    tags: ['python', 'module', 'data-mining','automated-testing']
+    tag: ['python', 'module', 'data-mining','automated-testing']
   },
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
     githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
     description: 'Angular is a development platform for building mobile and desktop web applications using Typescript or JavaScript and other languages.',
-    tags: ['angular', 'typescript', 'javascript']
+    tag: ['angular', 'typescript', 'javascript']
   }
 ];
 
