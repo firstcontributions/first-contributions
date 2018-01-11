@@ -50,6 +50,7 @@
 - [Monika Bhardwaj](https://github.com/monikabhardwaj)
 - [Aly Sheppard](https://github.com/asheppard6)
 - [JXTG](https://github.com/JXTG)
+- [Jpelttari](https://github.com/Jpelttari)
 - [Doruk Gezici](https://github.com/dorukgezici)
 - [Avi98](https://github.com/Avi9)
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
