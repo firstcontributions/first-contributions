@@ -1764,6 +1764,7 @@
 - [Adam Goatley](https://github.com/AGoatley)
 - bar hoshen
 - [Ibrahim Elsakka](https://github.com/ibrahimelsakka)
+- [Tom Engler](https://github.com/thetengler)
 - [Mitchell Andreasen](https://github.com/thetogolopian)
 - [Katherine Carter] (https://github.com/gruvian)
 - [Gavin Christie](https://github.com/gavinchristie)
