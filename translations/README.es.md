@@ -99,34 +99,6 @@ Ahora crea la pull request
 
 Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch de este proyecto. Recibirás una notificación por correo cuando los cambios hayan sido fusionados.
 
-La master branch de tu fork no tendrá esos cambios. Para mantener tu fork sincronizado con el mío, sigue los siguientes pasos.
-
-### Manteniendo tu fork sincronizado con este repositorio
-
-Primero, cambia a la master branch
-```
-git checkout master
-```
-
-Luego, agrega la url de mi repo como `upstream remote url`
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-Esta es una forma de decirle a git que otra versión de este proyecto existe en la url especificada y que la llamaremos upstream. Una vez que los cambios sean agregados (cuando hice *merge*), recupera la nueva versión de mi repositorio.
-```
-git fetch upstream
-```
-
-Aquí estamos trayendo todos los cambios en mi fork (upstream remote). Ahora, necesitas agregar la nueva revisión de mi repositorio en tu master branch (harás *merge*)
-```
-git rebase upstream/master
-```
-Aquí estarás aplicando todos los cambios que recuperaste a la master branch. Si haces push de la master branch ahora, tu fork también tendrá los cambios
-```
-git push origin master
-```
-Notarás aquí que estás empujando(push) a la url remota llamada origin.
-
 ## Tutoriales con otras herramientas
 
 
