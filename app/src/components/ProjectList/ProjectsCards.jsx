@@ -5,7 +5,7 @@ export default class Card extends React.Component {
   render() {
     let tags = [];
     if (this.props.tag){
-        this.props.tag.map(tag => <div><p>{tag}</p></div>)
+        tags = this.props.tag.map(tag => <div><p>{tag}</p></div>)
     }
 
     return (
