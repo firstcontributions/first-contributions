@@ -1759,8 +1759,9 @@
 - arpitjjw
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
+- [Nadav Mary](https://github.com/Slash7GNR)
 - [Sridhar Bandavaram](https://github.com/sbandavaram)
-bar hoshen
+- bar hoshen
 - [Ibrahim Elsakka](https://github.com/ibrahimelsakka)
 - [Mitchell Andreasen](https://github.com/thetogolopian)
 - [Katherine Carter] (https://github.com/gruvian)
