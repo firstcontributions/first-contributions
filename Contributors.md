@@ -1,3 +1,4 @@
+- [Manish Nagdevani] (https://github.com/manish-nagdevani)
 -[Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 -[Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
@@ -1759,3 +1760,10 @@
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
 - [Nadav Mary](https://github.com/Slash7GNR)
+- [Sridhar Bandavaram](https://github.com/sbandavaram)
+- bar hoshen
+- [Ibrahim Elsakka](https://github.com/ibrahimelsakka)
+- [Mitchell Andreasen](https://github.com/thetogolopian)
+- [Katherine Carter] (https://github.com/gruvian)
+- [Gavin Christie](https://github.com/gavinchristie)
+- [Andrew Davis](https://github.com/rreeppeeaatteerr)
