@@ -1765,3 +1765,4 @@ bar hoshen
 - [Mitchell Andreasen](https://github.com/thetogolopian)
 - [Katherine Carter] (https://github.com/gruvian)
 - [Gavin Christie](https://github.com/gavinchristie)
+- [Shane Haggerty](https://github.com/smhaggerty)
