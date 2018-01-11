@@ -1,3 +1,4 @@
+- [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
