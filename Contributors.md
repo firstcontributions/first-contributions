@@ -1,4 +1,4 @@
-﻿- [Manish Nagdevani] (https://github.com/manish-nagdevani)
+- [Manish Nagdevani] (https://github.com/manish-nagdevani)
 -[Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 -[Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
@@ -1765,3 +1765,4 @@ bar hoshen
 - [Mitchell Andreasen](https://github.com/thetogolopian)
 - [Katherine Carter] (https://github.com/gruvian)
 - [Gavin Christie](https://github.com/gavinchristie)
+- [Andrew Davis](https://github.com/rreeppeeaatteerr)
