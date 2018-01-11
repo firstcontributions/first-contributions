@@ -189,6 +189,13 @@ const projectList = [
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['python', 'module', 'data-mining','automated-testing']
+  },
+  {
+    name: 'Angular',
+    imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
+    githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
+    description: 'Angular is a development platform for building mobile and desktop web applications using Typescript or JavaScript and other languages.',
+    tags: ['angular', 'typescript', 'javascript']
   }
 ];
 
