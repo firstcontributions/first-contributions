@@ -1772,3 +1772,4 @@
 - [Gavin Christie](https://github.com/gavinchristie)
 - [Shane Haggerty](https://github.com/smhaggerty)
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
+- [Gabriele Sani](https://github.com/gabryatfendor)
