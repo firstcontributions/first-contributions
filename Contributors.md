@@ -1761,6 +1761,7 @@
 - [David Goodrich](https://github.com/djgoodrich)
 - [Nadav Mary](https://github.com/Slash7GNR)
 - [Sridhar Bandavaram](https://github.com/sbandavaram)
+- [Adam Goatley](https://github.com/AGoatley)
 - bar hoshen
 - [Ibrahim Elsakka](https://github.com/ibrahimelsakka)
 - [Mitchell Andreasen](https://github.com/thetogolopian)
