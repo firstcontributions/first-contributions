@@ -1784,5 +1784,5 @@
 - [Mujadded](https://github.com/mujadded)
 - [coljadu](https://github.com/coljadu)
 - ANONYMOUS
-- [b smith] (https://github.com/brdlysmth)
+- [bradley smith] (https://github.com/brdlysmth)
 
