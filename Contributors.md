@@ -1790,3 +1790,4 @@
 - [akalive](https://github.com/akalive)
 - [Ashton](https://github.com/shepparda13)
 - [Nick] (https://github.com/codekip)
+- [Kate Hanahoe] (https://github.com/KateHanahoe)
