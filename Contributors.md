@@ -1789,3 +1789,5 @@
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
 - [Kaaylim](https://github.com/kaaylim)
+- [Ashton](https://github.com/shepparda13)
+- [Nick] (https://github.com/codekip)
