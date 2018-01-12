@@ -1784,5 +1784,5 @@
 - [Mujadded](https://github.com/mujadded)
 - [coljadu](https://github.com/coljadu)
 - ANONYMOUS
-- [brdlysmth] (https://github.com/brdlysmth)
-
+- [brdlysmth](https://github.com/brdlysmth)
+- Maukrack
