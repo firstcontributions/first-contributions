@@ -1787,4 +1787,3 @@
 - [Clara Buenconsejo](https://github.com/alquanna)
 - Maukrack
 - [Vivi 😎](https://github.com/vshirokova)
-- [akalive](https://github.com/akalive)
