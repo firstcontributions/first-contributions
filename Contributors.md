@@ -1789,3 +1789,4 @@
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
 - [Ashton](https://github.com/shepparda13)
+- [Nick] (https://github.com/codekip)
