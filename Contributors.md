@@ -1,4 +1,4 @@
-
+﻿
 -[KMJUN](https://github.com/KMJUN)
 -[Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
@@ -1784,5 +1784,5 @@
 - [Mujadded](https://github.com/mujadded)
 - [coljadu](https://github.com/coljadu)
 - ANONYMOUS
-- [brdlysmth](https://github.com/brdlysmth)
+- [Clara Buenconsejo](https://github.com/alquanna)
 - Maukrack
