@@ -330,6 +330,7 @@
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
+- [Julie Buma](https://github.com/JBuma)
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
 - [Rachit](https://github.com/iamrachitgulati)
@@ -1408,6 +1409,7 @@
 - [Aditya Nihal Kumar Singh](https://github.com/aditya314)
 - [Devon JohnBaptiste](https://github.com/devondacoda)
 - [Rachna Bansal](https://github.com/rachnaban)
+- [Shyam Mohan V M](https://github.com/shyammvm)
 - [Jesse Jacobs](https://github.com/jjacobs21)
 - [Claudius King](https://github.com/protean-phoenix)
 - [Karen King](https://github.com/lorlenes)
@@ -1791,8 +1793,8 @@
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
 - [Kaaylim](https://github.com/kaaylim)
-C
-- [Nick] (https://github.com/codekip)
-- [Kate Hanahoe] (https://github.com/KateHanahoe)
+- [Ashton](https://github.com/shepparda13)
+- [Nick](https://github.com/codekip)
+- [Kate Hanahoe](https://github.com/KateHanahoe)
 - [build65](https://github.com/build65)
-
+- [Pradhuman Goyal](https://github.com/pradhumangoyal)
