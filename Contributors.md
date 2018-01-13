@@ -1804,3 +1804,4 @@
 - [Murilo Camargos](https://github.com/murilocamargos)
 - [Anton Filippov](https://github.com/riseagain558)
 - [Andrew Dean](https://github.com/Sema4) 
+- [Omar Diaz](https://github.com/omaralej04)
