@@ -1802,3 +1802,4 @@
 - [James Melling](https://github.com/UncleVesimir)
 - [Lukas Lönnroth](https://github.com/LukasLonnroth)
 - [Murilo Camargos](https://github.com/murilocamargos)
+- [Anton Filippov](https://github.com/riseagain558)
