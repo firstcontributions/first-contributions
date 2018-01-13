@@ -1791,6 +1791,8 @@
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
 - [Kaaylim](https://github.com/kaaylim)
-- [Ashton](https://github.com/shepparda13)
+C
 - [Nick] (https://github.com/codekip)
 - [Kate Hanahoe] (https://github.com/KateHanahoe)
+- [build65](https://github.com/build65)
+
