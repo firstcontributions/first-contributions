@@ -1,4 +1,4 @@
-﻿-[Jose Tandavala](https://github.com/tandavala) 
+﻿-[Jose Tandavala](https://github.com/tandavala)
 -[KMJUN](https://github.com/KMJUN)
 -[Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
@@ -64,6 +64,7 @@
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
 - [Shiny](https://github.com/Shine0707)
+- [Blinky Bloomberg](https://github.com/carly000)
 - [heroccccc](https://github.com/heroccccc)
 - [Kelly von Borstel](https://github.com/vonborke)
 - [Lokesh Agrawal](https://github.com/lkagrawal19)
