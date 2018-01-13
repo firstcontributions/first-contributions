@@ -94,26 +94,31 @@ const projectList = [
     imageSrc: 'https://avatars2.githubusercontent.com/u/4129662?v=3&s=100',
     githubLink: 'https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs',
     description: 'Parse, validate, manipulate, and display dates in javascript',
+    tag: ['javascript', 'frontend', 'meta'],
   }, {
     name: 'Leiningen',
     imageSrc: 'https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067',
     githubLink: 'https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie',
     description: 'Automate Clojure projects without setting your hair on fire',
+    tag: ['clojure', 'automation'],
   }, {
     name: 'Brackets',
     imageSrc: 'https://github.com/adobe/brackets/raw/gh-pages/images/brackets_128.png?raw=true',
     githubLink: 'https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22Starter+bug%22',
     description: 'An open source code editor for the web, written in JavaScript, HTML and CSS',
+    tag: ['editor', 'windows', 'Linux', 'MacOS'],
   }, {
     name: 'Webpack',
     imageSrc: 'https://avatars3.githubusercontent.com/u/2105791?v=3&s=100',
     githubLink: 'https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22',
     description: 'A bundler for javascript and friends. Packs many modules into a few bundled assets',
+    tag: ['bundler', 'javascript', 'compiler', 'loader'],
   }, {
     name: 'Babel',
     imageSrc: 'https://avatars2.githubusercontent.com/u/9637642?v=3&s=100',
     githubLink: 'https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22',
     description: 'Babel is a compiler for writing next generation JavaScript',
+    tag: ['es2015', 'javascript', 'compiler'],
   }, {
     name: 'Pouchdb',
     imageSrc: 'https://avatars3.githubusercontent.com/u/3406112?v=3&s=100',
@@ -125,6 +130,7 @@ const projectList = [
     imageSrc: 'https://avatars0.githubusercontent.com/u/6471485?v=3&s=100',
     githubLink: 'https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Acomplexity%3Alow',
     description: 'Vim-fork focused on extensibility and usability',
+    tag: ['editor', 'api', 'cross-platform', 'vim'],
   }, {
     name: 'Hoodie',
     imageSrc: 'https://avatars1.githubusercontent.com/u/1888826?v=3&s=100',
@@ -136,6 +142,7 @@ const projectList = [
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
     githubLink: 'https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
     description: 'Open source codebase and curriculum',
+    tag: ['learn', 'education', 'nonprofit', 'certification'],
   }, {
     name: 'Node.js',
     imageSrc: 'https://avatars1.githubusercontent.com/u/9950313?v=3&s=100',
@@ -147,6 +154,7 @@ const projectList = [
     imageSrc: 'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
     githubLink: 'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration',
+    tag: ['react', 'library', 'component', 'frontend'],
   }, {
     name: 'Contribute to Open Source',
     imageSrc: 'https://image.ibb.co/fUM5oG/profile_first_pr.png',
@@ -154,6 +162,34 @@ const projectList = [
     description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project ',
     tag: ['GitHub', 'tutorial'],
   },
+  {
+    name: 'RubyGems ecosystem',
+    imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
+    githubLink: 'https://github.com/rubygems/contribute',
+    description: 'One site to show all related RubyGems ecosystem projects and help developers get involved',
+    tag: ['ruby', 'rubygems'],
+  },
+  {
+    name: 'Mail For Good',
+    imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
+    githubLink: 'https://github.com/freeCodeCamp/mail-for-good',
+    description: 'An open source email campaign management tool',
+    tag: ['nodejs', 'javascript', 'email-campaigns']
+  },
+  {
+    name: 'Visual Studio Code',
+    imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
+    githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
+    description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
+    tags: ['typescript', 'text-editor', 'electron']
+  },
+  {
+    name: 'Scrapy',
+    imageSrc: 'https://delftswa.gitbooks.io/desosa-2017/content/scrapy/images-scrapy/Scrapy-Logo-Horizontal.png',
+    githubLink: 'https://github.com/scrapy/scrapy',
+    description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
+    tags: ['python', 'module', 'data-mining','automated-testing']
+  }
 ];
 
 export default projectList;

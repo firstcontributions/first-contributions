@@ -13,7 +13,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-#### *อ่านบทความนี้ใน[ภาษาอื่นๆ](../LANGUAGES.md)*
+#### *อ่านบทความนี้ใน[ภาษาอื่นๆ](../Translations.md)*
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
 

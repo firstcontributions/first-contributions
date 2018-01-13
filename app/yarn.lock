@@ -1396,6 +1396,10 @@ clap@^1.0.9:
   dependencies:
     chalk "^1.1.3"
 
+classnames@^2.2.4:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.5.tgz#fb3801d453467649ef3603c7d61a02bd129bde6d"
+
 clean-css@4.1.x:
   version "4.1.9"
   resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-4.1.9.tgz#35cee8ae7687a49b98034f70de00c4edd3826301"
@@ -5163,7 +5167,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10:
+prop-types@^15.5.10, prop-types@^15.5.8:
   version "15.6.0"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.0.tgz#ceaf083022fc46b4a35f69e13ef75aed0d639856"
   dependencies:
@@ -5351,6 +5355,12 @@ react-error-overlay@^2.0.2:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
+react-input-autosize@^2.1.0:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-input-autosize/-/react-input-autosize-2.1.2.tgz#a3dc11a5517c434db25229925541309de3f7a8f5"
+  dependencies:
+    prop-types "^15.5.8"
+
 react-scripts@1.0.14:
   version "1.0.14"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-1.0.14.tgz#70fe76c9beb67b136b953e875bdfe4ad78d410d1"
@@ -5392,6 +5402,14 @@ react-scripts@1.0.14:
     whatwg-fetch "2.0.3"
   optionalDependencies:
     fsevents "1.1.2"
+
+react-select@^1.0.0-rc.10:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-select/-/react-select-1.1.0.tgz#626a2de839fdea2ade74dd1b143a9bde34be6c82"
+  dependencies:
+    classnames "^2.2.4"
+    prop-types "^15.5.8"
+    react-input-autosize "^2.1.0"
 
 react-test-renderer@^15.0.0:
   version "15.6.2"
