@@ -14,6 +14,7 @@
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
+- [David Hermes](https://github.com/Davidinion)
 - [Deddy Tandean](https://github.com/Busterz)
 - [Christopher Ivanovich](https://github.com/ctivanovich/)
 - [Anuar Talipov](https://github.com/anuartb)
