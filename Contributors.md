@@ -330,6 +330,7 @@
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
+- [Julie Buma](https://github.com/JBuma)
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
 - [Rachit](https://github.com/iamrachitgulati)
