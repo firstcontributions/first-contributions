@@ -1801,3 +1801,4 @@
 - [Pradhuman Goyal](https://github.com/pradhumangoyal)
 - [James Melling](https://github.com/UncleVesimir)
 - [Lukas Lönnroth](https://github.com/LukasLonnroth)
+- [Murilo Camargos](https://github.com/murilocamargos)
