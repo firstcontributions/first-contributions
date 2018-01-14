@@ -28,6 +28,7 @@
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
+- [Daniel White](https://github.com/whitedann)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Mike Schmitz](https://github.com/misterschmitz)
