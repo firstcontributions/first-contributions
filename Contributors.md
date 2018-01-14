@@ -1817,3 +1817,4 @@
 - [Karolin Thunman](https://github.com/Kath-1)
 - [Aditya Khursale] (https://github.com/AdityaKhursale)
 - [Kotaman Meoplo](https://github.com/KotamanMeOplo)
+- [John Stotz](https://gihub.com/JohnStotz)
