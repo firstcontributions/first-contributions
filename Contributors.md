@@ -1809,6 +1809,7 @@
 - [Priyanka Daryani](https://github.com/priyankajune)
 - [andrew strozyk](https://github.com/astrozyk)
 - [Nick Mancuso](https://github.com/nmancus1)
+- [Vladislav (6ecuw) Tsepilov](https://github.com/6ecuw)
 - [Eesha Goyal](https://github.com/eeshagoyal)
 - [Shinjanee Gupta](https://github.com/Shinjanee)
 - [Vikranth Kanumuru](https://github.com/highskillzz)
