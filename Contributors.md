@@ -1,4 +1,4 @@
-﻿- [zihao Lin](https://github.com/schneiderlin)
+- [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
@@ -1810,3 +1810,5 @@
 - [andrew strozyk](https://github.com/astrozyk)
 - [Nick Mancuso](https://github.com/nmancus1)
 - [Eesha Goyal](https://github.com/eeshagoyal)
+- [Shinjanee Gupta](https://github.com/Shinjanee)
+
