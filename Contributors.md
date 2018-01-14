@@ -1806,3 +1806,4 @@
 - [Andrew Dean](https://github.com/Sema4) 
 - [Omar Diaz](https://github.com/omaralej04)
 - [Vinothkumar Kabirdoss](https://github.com/kayvee83)
+- [Nick Mancuso](https://github.com/nmancus1)
