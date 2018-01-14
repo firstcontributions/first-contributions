@@ -1812,3 +1812,4 @@
 - [Shinjanee Gupta](https://github.com/Shinjanee)
 - [Vikranth Kanumuru](https://github.com/highskillzz)
 - [Sukhada Kulkarni](https://github.com/Sukhada11)
+- [Karolin Thunman](https://github.com/Kath-1)
