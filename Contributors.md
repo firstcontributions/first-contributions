@@ -1,4 +1,4 @@
-- [zihao Lin](https://github.com/schneiderlin)
+﻿- [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
@@ -1806,5 +1806,6 @@
 - [Andrew Dean](https://github.com/Sema4) 
 - [Omar Diaz](https://github.com/omaralej04)
 - [Vinothkumar Kabirdoss](https://github.com/kayvee83)
+- [Priyanka Daryani](https://github.com/priyankajune)
 - [andrew strozyk](https://github.com/astrozyk)
 - [Nick Mancuso](https://github.com/nmancus1)
