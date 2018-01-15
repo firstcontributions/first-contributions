@@ -1834,3 +1834,4 @@
 - [Robert Trigg](https://github.com/rtrigg)
 - [Brian] (https://github.com/lastnoise)
 - [Miles] (https://github.com/miles200)
+- [Olga Rose] (https://github.com/olgarose)
