@@ -1,4 +1,4 @@
-- [zihao Lin](https://github.com/schneiderlin)
+﻿- [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
@@ -1825,3 +1825,4 @@
 - [Tan Kucukoglu] (https://github.com/tankucukoglu)
 - [Cihan Adrian Towery] (https://github.com/actowery)
 - [Chenrui He] (https://github.com/hechenrui123)
+- [Vincent Chan] (https://github.com/Vintachii)
