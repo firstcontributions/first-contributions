@@ -125,4 +125,4 @@ Si te sientes muy agradecido, sigue a [Roshan](https://roshanjossey.github.io/) 
 [Twitter](https://twitter.com/sudo__bangbang) y
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
