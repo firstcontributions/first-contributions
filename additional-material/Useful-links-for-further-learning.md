@@ -14,6 +14,9 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 9. [Common Git Problems](https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
 10. [Git Rebase](https://blog.gitprime.com/git-rebase-an-illustrated-guide/)
 11. [Beginner's Guide to Rebasing and Squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
-
+12. [Git Cheatsheet that shows correlations between commands and files](http://ndpsoftware.com/git-cheatsheet.html)
+13. [How to contribute](https://opensource.guide/how-to-contribute/)
+14. [Getting started with Open Source](https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources)
+15. [How to contribute](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 Keep adding more links, that you find helpful.
