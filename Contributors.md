@@ -1,5 +1,5 @@
 - [dawiditer](https://github.com/dawiditer)
-﻿- [zihao Lin](https://github.com/schneiderlin)
+- [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
@@ -1827,3 +1827,4 @@
 - [Cihan Adrian Towery] (https://github.com/actowery)
 - [Chenrui He] (https://github.com/hechenrui123)
 - [Vincent Chan] (https://github.com/Vintachii)
+- [Apoorv Kumar] (https://github.com/apoorvkumar91)
