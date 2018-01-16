@@ -35,6 +35,7 @@
 - [Mike Schmitz](https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
+- [Daniel Bernstein] (https://github.com/drood87)
 - [Guilemon(-_-+)](https://github.com/Guilemon)
 - [David Hermes](https://github.com/Davidinion)
 - [Deddy Tandean](https://github.com/Busterz)
