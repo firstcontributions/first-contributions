@@ -1846,3 +1846,4 @@
 - [Adam] (https://github.com/apodraz2)
 - [Simran Sohal] (https://github.com/simransohal)
 - [Fabian] (https://github.com/fabianhough)
+- [Vaibhav] (https://github.com/vaibhavkumar11)
