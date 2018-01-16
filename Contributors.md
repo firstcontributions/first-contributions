@@ -1514,6 +1514,7 @@
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Sarah Murphy](https://github.com/msarah)
+
 - [Matthew Chambers](https://github.com/mattchambers)
 - [Sean Barber](https://github.com/SeanBarber)
 - [Pankti Majmudar](https://github.com/pankti-m)
@@ -1810,6 +1811,7 @@
 - [Andrew Dean](https://github.com/Sema4)
 - [Omar Diaz](https://github.com/omaralej04)
 - [Vinothkumar Kabirdoss](https://github.com/kayvee83)
+- [Danielle Kay] (https://github.com/kdani99)
 - [Priyanka Daryani](https://github.com/priyankajune)
 - [andrew strozyk](https://github.com/astrozyk)
 - [Nick Mancuso](https://github.com/nmancus1)
