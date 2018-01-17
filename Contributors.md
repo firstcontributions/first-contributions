@@ -1,3 +1,4 @@
+- [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
@@ -7,7 +8,7 @@
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
-- [Manish Nagdevani] (https://github.com/manish-nagdevani)
+- [Manish Nagdevani](https://github.com/manish-nagdevani)
 - [Abhilekh Panwar](https://github.com/AbhilekhPanwar)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
