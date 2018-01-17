@@ -1843,6 +1843,7 @@
 - [Erlinis Quintana](https://github.com/erlinis)
 - [Messiah](https://github.com/Messiahhh)
 - [Scott](https://github.com/underwaterlad)
+- [Brian Do](https://github.com/briancldo)
 - [Stefan Russo](https://github.com/lifestronaut)
 - [iShoe](https://github.com/ishoe)
 - [Adam](https://github.com/apodraz2)
@@ -1857,4 +1858,4 @@
 - [Steven E](https://github.com/stevenengelen)
 - [Dhruv Chauhan](https://github.com/dhruv-chauhan)
 - [Marian Adrian Gadescu](https://github.com/adrianmarian)
-- [Fabio] (https://github.com/Fabricc)
+- [Fabio](https://github.com/Fabricc)
