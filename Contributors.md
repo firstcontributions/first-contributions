@@ -1,4 +1,4 @@
-- [Meelad Dawood](https://github.com/meeladdawood)
+﻿- [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
 - [Jose Tandavala](https://github.com/tandavala)
@@ -1856,4 +1856,4 @@
 - [Astrid Varga](https://github.com/AstiV)
 - [Steven E](https://github.com/stevenengelen)
 - [Dhruv Chauhan](https://github.com/dhruv-chauhan)
-- [Marian Adrian Gadescu](https://github.com/adrianmarian)
+- [Marian Adrian Gadescu](https://github.com/adrianmarian)- [Marcus Söderlund](https://github.com/avatarbabe)
