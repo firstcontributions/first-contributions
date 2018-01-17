@@ -1862,5 +1862,6 @@
 - [Marian Adrian Gadescu](https://github.com/adrianmarian)
 - [Fabio](https://github.com/Fabricc)
 - [StepanovV](https://github.com/StepanovV)
+- [Tsufael](https://github.com/Tsufael)
 - [Sidartha](https://github.com/sidarthar)
 - [Edgar]
