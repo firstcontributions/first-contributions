@@ -1843,6 +1843,7 @@
 - [Erlinis Quintana](https://github.com/erlinis)
 - [Messiah](https://github.com/Messiahhh)
 - [Scott](https://github.com/underwaterlad)
+- [Stefan Russo](https://github.com/lifestronaut)
 - [iShoe](https://github.com/ishoe)
 - [Adam](https://github.com/apodraz2)
 - [Simran Sohal](https://github.com/simransohal)
