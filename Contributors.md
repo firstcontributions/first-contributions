@@ -1856,3 +1856,4 @@
 - [Astrid Varga](https://github.com/AstiV)
 - [Steven E](https://github.com/stevenengelen)
 - [Dhruv Chauhan](https://github.com/dhruv-chauhan)
+- [Marian Adrian Gadescu](https://github.com/adrianmarian)
