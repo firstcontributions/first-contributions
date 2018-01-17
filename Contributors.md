@@ -1848,3 +1848,4 @@
 - [Fabian] (https://github.com/fabianhough)
 - [Vaibhav] (https://github.com/vaibhavkumar11)
 - [Matt Jones] (https://github.com/medesthai)
+- [Brian Do] (https://github.com/briancldo)
