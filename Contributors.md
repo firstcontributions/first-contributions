@@ -1860,3 +1860,4 @@
 - [Marcus Söderlund](https://github.com/avatarbabe)
 - [Marian Adrian Gadescu](https://github.com/adrianmarian)
 - [Fabio](https://github.com/Fabricc)
+- [StepanovV](https://github.com/StepanovV)
