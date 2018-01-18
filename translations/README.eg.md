@@ -5,9 +5,9 @@
 <div dir="rtl">
 الصعوبة متوقعة لما تبدأ أي مشروع جديد، خصوصاً لو كان المشروع بيتضمن ناس تانية، ودة بيخلي الوقوع في الخطأ مزعج ومتعب.
 <br>
-لكن المساهمة في مشاريع مفتوحة المصدر اسسها العمل الجماعي والعطاء
+لكن المساهمة في مشاريع مفتوحة المصدر اسسها العمل الجماعي والعطاء.
 <br>
-في هذا المشروع هدفنا هو تبسيط الطريق لأول مساهمة ليك.
+في المشروع دة هدفنا هو تبسيط الطريق لأول مساهمة ليك.
 </div>
 
 
@@ -69,13 +69,13 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 
-<div dir="rtl"> قبل مانعمل التغيير عنعمل ما يسمي ب"الفرع" زي كدة: </div>
+<div dir="rtl"> قبل مانعمل التغيير هنعمل "فرع" وهنديله اسم زي كدة: </div>
 
 ```
 git checkout -b "add-your-name"
 ```
 
-<div dir="rtl">هتحط اسمك بدل add-your-name</div>
+<div dir="rtl">هتحط اسمك بدل your-name</div>
 
 <div dir="rtl">مثلا:</div>
 
@@ -85,11 +85,11 @@ git checkout -b "add-alonzo-church"
 
 <br>
 
-## <div dir="rtl">غير التغيير اللي حابب تغيره:</div></h2>
+## <div dir="rtl">غيّر التغيير اللي حابب تغيره:</div></h2>
 
 <div dir="rtl">
-التغيير اللي هتغيره فى الحالة دي انك تحط اسمك فى نهاية قايمة الأسماء فى فايل. افتح فايل اسمه "Contributors.md" ب text editor المفضل وحط إسمك و إحفظ الفايل.
-بعد كدو ارجع للترمينال وأكتب الأمر دة <code>git status</code>  الأمر دة بيظهر لك أي تغيرات حصلت في المشروع.
+التغيير اللي هتغيره فى الحالة دي انك تحط اسمك فى نهاية قايمة الأسماء فى فايل. افتح فايل اسمه "Contributors.md" بالـ text editor المفضل ليك وحط إسمك و إحفظ الفايل.
+بعد كدة ارجع للترمينال وأكتب الأمر دة <code>git status</code>  الأمر دة بيظهر لك أي تغيرات حصلت في المشروع.
 عشان تضيف التغيرات دي للفرع بتاعك هتستخدم الأمر دا <code>git add</code>.
 </div>
 
@@ -106,7 +106,7 @@ git commit -m "Add <your-name> to Contributors list"
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
 
-## <div dir="rtl"> بعدين ترفع التغيررات إلى github - Push changes to Github </div>
+## <div dir="rtl"> بعدين ترفع التغيررات - Push changes to Github </div>
 
 <div dir="rtl">هترفع التغيررات عن طريق الأمر <code>git push</code></div>
 
@@ -114,7 +114,7 @@ git commit -m "Add <your-name> to Contributors list"
 git push origin "add-your-name"
 ```
 
-<div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع اللي انت لسة عمله .</div>
+<div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع اللي انت لسة عامله .</div>
 
 
 <br>
@@ -141,27 +141,27 @@ git push origin "add-your-name"
 git checkout master
 ```
 
- <div dir="rtl">ثانياً،ضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
+ <div dir="rtl">ثانياً،ضيف رابط المشروع الرئيسي كـ<code>upstream remote url</code>.</div>
  
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 <div dir="rtl">بالطريقة دي احنا بنقول لgithub أن فيه نسخة تانية من المشروع دة في الرابط دة ونسميها <code>upstream</code>.
-بعد ما أكون وافقت على تغيرراتك، أسحب النسخة الجديدة من المشروع عن طريق الأمر دة:
+بعد ما أكون وافقت على تغيرراتك، لما تسحب النسخة الجديدة من المشروع عن طريق الأمر دة:
 </div>
 
 ```
 git fetch upstream
 ```
 
-<div dir="rtl">هنا هنقوم بسحب كل التغيررات من <code>(upstream remote)</code>.  دلوقت، لازم تدمج التحديثات الجديدة من فرعي لفرعك الرئيسي.</div>
+<div dir="rtl">هتقوم بسحب كل التغيررات من <code>(upstream remote)</code>.  دلوقت، لازم تدمج التحديثات الجديدة من فرعي لفرعك الرئيسي.</div>
 
 ```
 git rebase upstream/master
 ```
 
-<div dir="rtl">وهنا هنطبق التغيررات للفرع الرئيسي. لو رفعت التغيررات لفرعك الرئيسي هيتحديث مشروعك</div>
+<div dir="rtl">وهنا هنحط التغيررات للفرع الرئيسي عندك. لو رفعت التغيررات لفرعك الرئيسي هيتحديث مشروعك</div>
 
 ```
 git push origin master
@@ -178,7 +178,7 @@ git push origin master
 
 ## <div dir="rtl">طب اعمل ايه بعد كدة؟</div>
 
-<div dir="rtl">ممكن تنضم للفريق على Slack لو حابب تساعد او عندك أسئلة. <a href="https://firstcontributions.herokuapp.com">إنضم للفريق Slack</a></div>
+<div dir="rtl">ممكن تنضم للفريق على Slack لو حابب تساعد او عندك أسئلة. <a href="https://firstcontributions.herokuapp.com"> إنضم للفريق على Slack</a></div>
 
 <br>
 
