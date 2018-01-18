@@ -1,4 +1,4 @@
-- [Mateusz Trybulec](https://github.com/ultcyber)
+﻿- [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
@@ -1881,4 +1881,4 @@
 - [Tang Liang](https://github.com/shinytang6)
 - [Kiriakos Kontostathis](https://github.com/kontostathisk)
 - [Saurav Prakash]
-
+- [Zachary Frank]
