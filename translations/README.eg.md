@@ -12,7 +12,7 @@
 
 
 <div dir="rtl">
-ممكن تقرأ وتتفرج على فيديوهات على الإنترنت عشان تعرف تبدأ فى المساهمة للمشاريع مفتوحة المصدر، لكن هتستفيد أكتر لو عرفت تساهم في مشروع دلوقت، من غير خوف لحسن تعمل حاجة غلط. المشروع اللى انت فاتحه حاليا بيركز انه يوفرلك التوجيهات الأولية اللي هتحتجهاعشان تبدأ أول مساهمة ليك. مش مشكلة تغلط المهم انك تتعلم من الغلط ودة الهدف هنا. تابع الخطوات واحدة واخجة ونوعدك انك هتستمتع.
+ممكن تقرأ وتتفرج على فيديوهات على الإنترنت عشان تعرف تبدأ فى المساهمة للمشاريع مفتوحة المصدر، لكن هتستفيد أكتر لو عرفت تساهم في مشروع دلوقتي من غير خوف لحسن تعمل حاجة غلط. المشروع اللى انت فاتحه حاليا بيركز انه يوفرلك التوجيهات الأولية اللي هتحتجها عشان تبدأ أول مساهمة ليك. مش مشكلة تغلط المهم انك تتعلم من الغلط ودة الهدف هنا. تابع الخطوات واحدة واحدة ونوعدك انك هتستمتع.
 </div>
 
 
@@ -20,14 +20,14 @@
 
 
 <div dir="rtl">
-لو ماكنش عندك git على جهازك،<a href="https://help.github.com/articles/set-up-git/">حمله من هنا</a>
+لو ماكنش عندك git على جهازك <a href="https://help.github.com/articles/set-up-git/">حمله من هنا.</a>
 </div>
 
 ## <div dir="rtl"> أفصل المشروع دة - Fork this Repository </div>
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
 <div dir="rtl">
 خد نسخة من المشروع دة (أو افصله) عن طريق انك تدوس على Fork في أعلى الصفحة.
-لو عملت كدة فأنت اخدت نسخة من الفولدر دة فى حسابك على github
+لو عملت كدة فأنت اخدت نسخة من الفولدر دة فى حسابك على github.
 </div>
 
 ## <div dir="rtl"> إنسخ المشروع دة - Clone the repository </div>
@@ -36,18 +36,18 @@
 
 <div dir="rtl">
 انسخ المشروع دة لجهازك.
-اضغط Clone ثم انقر على أيقونة Copy to clipboard
+اضغط Clone بعدين دوس على أيقونة Copy to clipboard
 </div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-إفتح التريمنال وأكتب الأمر التالي:
+إفتح التريمنال وأكتب الأمر دة:
 </div>
 
 ```
 git clone "url you just copied"
 ```
 
-<div dir="rtl">قم بإستبدال "url you just copied" بالرابط الذي نسخته من الخطوة السابقة، هذا الرابط يحتوي على المشروع.</div>
+<div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع اللي على حسابك فى github.</div>
 
 <div dir="rtl">على سبيل المثال:</div>
 
@@ -56,28 +56,28 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <div dir="rtl">
-في هذا المثال لاحظ 'this-is-you' سيكون إسم حسابك في موقع جيت هاب يتليه رابط المشروع اللذي فرقته في أول خطوة، الأمر هذا سينسخ محتويات المشروع إلى جهازك الخاص لتتمكن من التعديل عليه بحريه.
+في هذا المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
 </div>
 <br>
 
-## <div dir="rtl">  إنشاء فرع - Create a branch </div>
+## <div dir="rtl">  فصل فرع - Create a branch </div>
 
 
-<div dir="rtl"> إنتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
+<div dir="rtl"> بما اننا عايزين نعمل تغيير فى الفايل اللى عملناله نسخة على الجهاز.. الأول ننتقل للفولدر اللي لسة نسخينه: </div>
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
+<div dir="rtl"> قبل مانعمل التغيير عنعمل ما يسمي ب"الفرع" زي كدة: </div>
 
 ```
 git checkout -b "add-your-name"
 ```
 
-<div dir="rtl">إسمك بدل add-your-name</div>
+<div dir="rtl">هتحط اسمك بدل add-your-name</div>
 
-<div dir="rtl">على سبيل المثال:</div>
+<div dir="rtl">مثلا:</div>
 
 ```
 git checkout -b "add-alonzo-church"
@@ -85,19 +85,19 @@ git checkout -b "add-alonzo-church"
 
 <br>
 
-## <div dir="rtl">قم بإجراء التعديلات المطلوبة وأتممها</div></h2>
+## <div dir="rtl">غير التغيير اللي حابب تغيره:</div></h2>
 
 <div dir="rtl">
-الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف إسمك ثم إحفظ الملف.
-بعد ذلك إذهب إلى الترمينال وأكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
-لإضافة هذه التغيرات قم بإضافتها عن طريق الأمر هذا <code>git add</code>.
+التغيير اللي هتغيره فى الحالة دي انك تحط اسمك فى نهاية قايمة الأسماء فى فايل. افتح فايل اسمه "Contributors.md" ب text editor المفضل وحط إسمك و إحفظ الفايل.
+بعد كدو ارجع للترمينال وأكتب الأمر دة <code>git status</code>  الأمر دة بيظهر لك أي تغيرات حصلت في المشروع.
+عشان تضيف التغيرات دي للفرع بتاعك هتستخدم الأمر دا <code>git add</code>.
 </div>
 
 ```
 git add Contributors.md
 ```
 
-<div dir="rtl">الآن قم بإتمام التغيررات بإستخدام الأمر <code>git commit</code>.</div>
+<div dir="rtl">حتى الأن انت عندك فرع فيه التغيير، عشان تبعت التغيير دة وتتمه  هيتعمل على خطوتين: الأولى انك تعمل للتغيير دة اسم فهتستخدم الأمر <code>git commit</code>.</div>
 
 ```
 git commit -m "Add <your-name> to Contributors list"
@@ -106,83 +106,83 @@ git commit -m "Add <your-name> to Contributors list"
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
 
-## <div dir="rtl"> إرفع التغيررات إلى جت هاب - Push changes to Github </div>
+## <div dir="rtl"> بعدين ترفع التغيررات إلى github - Push changes to Github </div>
 
-<div dir="rtl">إرفع التغيررات عن طريق الأمر <code>git push</code></div>
+<div dir="rtl">هترفع التغيررات عن طريق الأمر <code>git push</code></div>
 
 ```
 git push origin "add-your-name"
 ```
 
-<div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع الذي أنشأته من قبل.</div>
+<div dir="rtl">إستبدل <code>&#60;add-your-name&#62;</code> بإسم الفرع اللي انت لسة عمله .</div>
 
 
 <br>
 <h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
 
 
-<div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. إضغط على هذا الزر.</div>
+<div dir="rtl">في صفحة المشروع بتاعك على صفحتك الشخصية على github دوس على زرار <code>Compare &amp; pull request</code>. هو ماكنش  ظاهر قبل كدة.</div>
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-<div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
+<div dir="rtl">دلوقتي هتسلم طلبك لصاحب المشروع الأساسي عشان يراجع عليه، في الحالة دي الطلب بتاعك هيوصلي. </div>
 
 <img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة هدمج تغيرراتك للفرع الرئيسي في المشروع. وهيتم تنبيهك عن طريق البريد الإلكتروني بدة.</div>
 
-<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغيررات. عليك بمزامنته مع الفرع الرئيسي عن طريق الخطوات التالية.</div>
+<div dir="rtl">لما يحصل وأقبل طلبك هتلاقي ان المشروع المنسوخ على حسابك مفيهوش التغيررات. فلازم تزامن المشروع الرئيسي باللي على حسابك بالخطوات دي:</div>
 
 ## <div dir="rtl">مزامنة نسختك مع المشروع الرئيسي</div>
 
- <div dir="rtl">الخطوة الأولى، إنتقل إلى الفرع الرئيسي.</div>
+ <div dir="rtl">الخطوة الأولى، روح للفرع الرئيسي.</div>
 
 ```
 git checkout master
 ```
 
- <div dir="rtl">ثانياً، أضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
+ <div dir="rtl">ثانياً،ضف رابط مشروعي كـ<code>upstream remote url</code>.</div>
  
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
-<div dir="rtl">بهذه الطريقة نخبر جت أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
-بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
+<div dir="rtl">بالطريقة دي احنا بنقول لgithub أن فيه نسخة تانية من المشروع دة في الرابط دة ونسميها <code>upstream</code>.
+بعد ما أكون وافقت على تغيرراتك، أسحب النسخة الجديدة من المشروع عن طريق الأمر دة:
 </div>
 
 ```
 git fetch upstream
 ```
 
-<div dir="rtl">هنا سنقوم بسحب جميع التغيررات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
+<div dir="rtl">هنا هنقوم بسحب كل التغيررات من <code>(upstream remote)</code>.  دلوقت، لازم تدمج التحديثات الجديدة من فرعي لفرعك الرئيسي.</div>
 
 ```
 git rebase upstream/master
 ```
 
-<div dir="rtl">وهنا تطبق التغيررات إلى الفرع الرئيسي. إذا رفعت التغيررات لفرعك الرئيسي سيتم تحديث مشروعك</div>
+<div dir="rtl">وهنا هنطبق التغيررات للفرع الرئيسي. لو رفعت التغيررات لفرعك الرئيسي هيتحديث مشروعك</div>
 
 ```
 git push origin master
 ```
 
-<div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> إسمه <code>origin</code>.</div>
+<div dir="rtl">لاحظ أنك بترفع ل <code>remote</code> إسمه <code>origin</code>.</div>
 <br>
 
-## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
+## <div dir="rtl">ممكن تستخدم أدوات تانية</div>
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## <div dir="rtl">ماذا أفعل بعد هذا؟</div>
+## <div dir="rtl">طب اعمل ايه بعد كدة؟</div>
 
-<div dir="rtl">يمكنك الإنضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">إنضم إلى فريق Slack</a></div>
+<div dir="rtl">ممكن تنضم للفريق على Slack لو حابب تساعد او عندك أسئلة. <a href="https://firstcontributions.herokuapp.com">إنضم للفريق Slack</a></div>
 
 <br>
 
-<div dir="rtl">أيضا إطلع على المشاريع التالي وإبحث عن مشكال أو مميزات يمكنك حلها أو إضافتها، بالتوفيق.</div>
+<div dir="rtl">ممكن بردو تشوف المشاريع دي ودور على مشاكل أو مميزات ممكن تحلها أو تضيفها، بالتوفيق.</div>
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
