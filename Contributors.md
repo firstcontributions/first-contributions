@@ -1872,3 +1872,4 @@
 - [Nazareh Velho Turmina] (https://github.com/Nazareh)
 - [Tyler Kluszczynski] (https://github.com/tklusz)
 - [Michael Malak] (https://github.com/MichaelKMalak)
+- [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
