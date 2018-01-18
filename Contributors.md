@@ -1868,8 +1868,9 @@
 - [Tsufael](https://github.com/Tsufael)
 - [Sidartha](https://github.com/sidarthar)
 - [Edgar]
-- [Krystle Weinrich] (https://github.com/kmweinrich)
-- [Nazareh Velho Turmina] (https://github.com/Nazareh)
-- [Tyler Kluszczynski] (https://github.com/tklusz)
-- [Michael Malak] (https://github.com/MichaelKMalak)
+- [Krystle Weinrich](https://github.com/kmweinrich)
+- [Nazareh Velho Turmina](https://github.com/Nazareh)
+- [songjiyang](https://github.com/songjiyang) 
+- [Tyler Kluszczynski](https://github.com/tklusz)
+- [Michael Malak](https://github.com/MichaelKMalak)
 - [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
