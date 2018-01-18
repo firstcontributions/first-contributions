@@ -1518,7 +1518,6 @@
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Sarah Murphy](https://github.com/msarah)
-
 - [Matthew Chambers](https://github.com/mattchambers)
 - [Sean Barber](https://github.com/SeanBarber)
 - [Pankti Majmudar](https://github.com/pankti-m)
@@ -1880,3 +1879,5 @@
 - [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
 - [Aseged-Woldeselassie](https://github.com/Aseged)
 - [Tang Liang](https://github.com/shinytang6)
+- [Kiriakos Kontostathis](https://github.com/kontostathisk)
+
