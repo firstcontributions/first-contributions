@@ -1858,6 +1858,8 @@
 - [Astrid Varga](https://github.com/AstiV)
 - [Steven E](https://github.com/stevenengelen)
 - [Dhruv Chauhan](https://github.com/dhruv-chauhan)
+- [Marian Adrian Gadescu](https://github.com/adrianmarian)
+- [Aneta Wozniak] (https://github.com/wozane)
 - [Marcus Söderlund](https://github.com/avatarbabe)
 - [Marian Adrian Gadescu](https://github.com/adrianmarian)
 - [Fabio](https://github.com/Fabricc)
