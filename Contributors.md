@@ -1,4 +1,4 @@
-﻿- [Mateusz Trybulec](https://github.com/ultcyber)
+﻿	- [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
@@ -1868,3 +1868,4 @@
 - [Sidartha](https://github.com/sidarthar)
 - [Edgar]
 - [Krystle Weinrich] (https://github.com/kmweinrich)
+- [Nazareh Velho Turmina] (https://github.com/Nazareh)
