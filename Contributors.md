@@ -1871,3 +1871,4 @@
 - [Krystle Weinrich] (https://github.com/kmweinrich)
 - [Nazareh Velho Turmina] (https://github.com/Nazareh)
 - [Tyler Kluszczynski] (https://github.com/tklusz)
+- [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
