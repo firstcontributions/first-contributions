@@ -1,4 +1,4 @@
-﻿	- [Mateusz Trybulec](https://github.com/ultcyber)
+﻿- [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
@@ -1871,3 +1871,12 @@
 - [Krystle Weinrich] (https://github.com/kmweinrich)
 - [Nazareh Velho Turmina] (https://github.com/Nazareh)
 - [Mohammed Nabeel] (https://github.com/mnabeelp)
+- [Krystle Weinrich](https://github.com/kmweinrich)
+- [Nazareh Velho Turmina](https://github.com/Nazareh)
+- [songjiyang](https://github.com/songjiyang) 
+- [Tyler Kluszczynski](https://github.com/tklusz)
+- [Michael Malak](https://github.com/MichaelKMalak)
+- [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
+- [Aseged-Woldeselassie](https://github.com/Aseged)
+
+
