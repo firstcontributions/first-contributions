@@ -1874,3 +1874,5 @@
 - [Tyler Kluszczynski](https://github.com/tklusz)
 - [Michael Malak](https://github.com/MichaelKMalak)
 - [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
+- [Aseged-Woldeselassie](https://github.com/Aseged)
+
