@@ -1875,4 +1875,4 @@
 - [Michael Malak](https://github.com/MichaelKMalak)
 - [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
 - [Aseged-Woldeselassie](https://github.com/Aseged)
-- [shinytang6](https://github.com/shinytang6)
+- [Tang Liang](https://github.com/shinytang6)
