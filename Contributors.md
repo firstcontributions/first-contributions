@@ -634,6 +634,7 @@
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [WeiChiaChang](https://github.com/WeiChiaChang)
 - [Yasha Singh](https://github.com/yashasingh)
+- [Tal Koren](https://github.com/talkor)
 - [Desiderio Martinez](https://github.com/siderio2)
 - [Rishabh kr bothra](https://github.com/geekychaser)
 - [Manas Khatua](https://github.com/manask4)
@@ -1870,7 +1871,7 @@
 - [Edgar]
 - [Krystle Weinrich](https://github.com/kmweinrich)
 - [Nazareh Velho Turmina](https://github.com/Nazareh)
-- [songjiyang](https://github.com/songjiyang) 
+- [songjiyang](https://github.com/songjiyang)
 - [Tyler Kluszczynski](https://github.com/tklusz)
 - [Michael Malak](https://github.com/MichaelKMalak)
 - [Fasoro-Joseph Alexander](https://github.com/lexcorp16)
