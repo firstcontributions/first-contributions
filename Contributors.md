@@ -1880,5 +1880,7 @@
 - [Aseged-Woldeselassie](https://github.com/Aseged)
 - [Tang Liang](https://github.com/shinytang6)
 - [Kiriakos Kontostathis](https://github.com/kontostathisk)
-- [Saurav Prakash]
 - [Zachary Frank]
+- [Sudarshan]
+- [Brecht Verhoeve](https://github.com/bjverhoe)
+- [Saurav Prakash]
