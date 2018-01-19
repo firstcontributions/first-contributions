@@ -1887,3 +1887,4 @@
 - [John DeBord](https://github.com/johndebord)
 - [Zoe Aron](https://github.com/zoearon)
 - [Menna ElKashef](https://github.com/mennaelkashef)
+- [Julian White](https://github.com/eclipse-man)
