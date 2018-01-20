@@ -1891,3 +1891,4 @@
 - [Julian White](https://github.com/eclipse-man)
 - [Ben Faus](https://github.com/bdfoz)
 - [Riley Chetwood](https://github.com/rchetwood)
+- [James Huang](https://github.com/jamespeace)
