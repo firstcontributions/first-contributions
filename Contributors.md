@@ -1897,3 +1897,4 @@
 - [Thakur Karthik](https://github.com/ThakurKarthik)
 - [David Gabriel](https://github.com/xxzozaxx)
 - [Sohieb Mohamed](https://github.com/Sohieeb)
+- [André Varandas](https://github.com/andrevarandas)
