@@ -1,4 +1,4 @@
-- [Navneet Sahota](https://github.com/Navneet-Sahota)
+﻿- [Navneet Sahota](https://github.com/Navneet-Sahota)
 - [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
@@ -1473,6 +1473,7 @@
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
 - [Simone Dagna](https://github.com/SimoneDagna)
+- [Saransh Ambarte](https://github.com/sarrocks1)
 - [Bill Hammond](https://github.com/zenthunder)
 - [Irene Tomaini](https://github.com/ir3ne)
 - [Rhaiv](https://github.com/rhaiv)
