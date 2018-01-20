@@ -1,4 +1,4 @@
-- [Navneet Sahota](https://github.com/Navneet-Sahota)
+﻿- [Navneet Sahota](https://github.com/Navneet-Sahota)
 - [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
@@ -1892,3 +1892,4 @@
 - [Ben Faus](https://github.com/bdfoz)
 - [Riley Chetwood](https://github.com/rchetwood)
 - [James Huang](https://github.com/jamespeace)
+- [Thakur Karthik](https://github.com/ThakurKarthik)
