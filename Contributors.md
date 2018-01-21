@@ -1906,3 +1906,4 @@
 - [Nicholas Meletiou](https://github.com/literaln)
 - [Nikhilendra Atheti](https://github.com/nikhil7934)
 - [Eyüb Yıldırım](https://github.com/VatorLol)
+- [Torsten Kneuss](https://github.com/TorstenKn)
