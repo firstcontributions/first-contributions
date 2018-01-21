@@ -1,4 +1,4 @@
-﻿- [Yashwanth Manchikatla](https://github.com/yashwanthmanchikatla)
+- [Yashwanth Manchikatla](https://github.com/yashwanthmanchikatla)
 - [Navneet Sahota](https://github.com/Navneet-Sahota)
 - [Mateusz Trybulec](https://github.com/ultcyber)
 - [Meelad Dawood](https://github.com/meeladdawood)
@@ -1898,6 +1898,7 @@
 - [David Gabriel](https://github.com/xxzozaxx)
 - [Sohieb Mohamed](https://github.com/Sohieeb)
 - [André Varandas](https://github.com/andrevarandas)
+- [Lingyi Li](https://github.com/lilingyiyisa)
 - [Tiantai Zhou](https://github.com/TI-130)
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
 - [Charlie Chen](http://github.com/charlieBat)
