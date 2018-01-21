@@ -1910,3 +1910,4 @@
 - [Eyüb Yıldırım](https://github.com/VatorLol)
 - [Torsten Kneuss](https://github.com/TorstenKn)
 - [Jason Gan](https://github.com/staktika)
+- [Nathan Barteaux](https://github.com/ndbarteaux)
