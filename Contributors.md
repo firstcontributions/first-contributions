@@ -1911,3 +1911,4 @@
 - [Torsten Kneuss](https://github.com/TorstenKn)
 - [Jason Gan](https://github.com/staktika)
 - [Shivank Awasthi](https://github.com/shivank-awasthi)
+- [Frederic Le Gac] (https://github.com/fredgit2016)
