@@ -1903,3 +1903,4 @@
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
 - [Charlie Chen](http://github.com/charlieBat)
 - [Sadhana Yatapanage](https://github.com/syatapanage)
+- [Nicholas Meletiou](https://github.com/literaln)
