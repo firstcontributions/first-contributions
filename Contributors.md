@@ -1,4 +1,5 @@
-﻿- [James Farrell](https://github.com/wopps)
+﻿- [Avijit Roy](https://github.com/avijitpunk)
+- [James Farrell](https://github.com/wopps)
 - [Yashwanth Manchikatla](https://github.com/yashwanthmanchikatla)
 - [Navneet Sahota](https://github.com/Navneet-Sahota)
 - [Mateusz Trybulec](https://github.com/ultcyber)
