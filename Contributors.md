@@ -1900,3 +1900,4 @@
 - [André Varandas](https://github.com/andrevarandas)
 - [Tiantai Zhou](https://github.com/TI-130)
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
+- [Charlie Chen](http://github.com/charlieBat)
