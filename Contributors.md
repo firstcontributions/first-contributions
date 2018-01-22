@@ -1,4 +1,4 @@
-﻿- [Gegory Leleytner](https://github.com/RunFMe)
+- [Gegory Leleytner](https://github.com/RunFMe)
 - [Avijit Roy](https://github.com/avijitpunk)
 - [James Farrell](https://github.com/wopps)
 - [Yashwanth Manchikatla](https://github.com/yashwanthmanchikatla)
@@ -1939,3 +1939,4 @@
 - [Adam Romlein](https://github.com/romleiaj)
 - [Raghav Shrivastava](https://github.com/raghav1810)
 - [Jayesh Yeola](https://github.com/JayeshYeola)
+- [Rebecca Newborn](https://github.com/rebeccanewborn)
