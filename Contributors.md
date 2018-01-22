@@ -1927,10 +1927,11 @@
 - [Tahir Moedeen](https://github.com/tahirmoedeen53)
 - [Michael Persson](https://github.com/mippzon)
 - [Paweł Wamej](https://github.com/pwamej)
+- [Adnan Azmat](https://github.com/adnan-azmat)
 - [Emily Lan](https://github.com/emilyhub)
 - [Caleb Miller](https://github.com/FoolInTheWave)
 - [Keith Selbee](https://github.com/kselbee)
 - gkchan
 - [Kiki Batterson](https://github.com/ki2batt)
-- [Zane Mather] (https://github.com/Zanemonkey)
-- [Dinislam] (https://github.com/cheburan)
+- [Zane Mather](https://github.com/Zanemonkey)
+- [Dinislam](https://github.com/cheburan)
