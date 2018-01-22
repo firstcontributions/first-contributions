@@ -1902,6 +1902,7 @@
 - [David Gabriel](https://github.com/xxzozaxx)
 - [Sohieb Mohamed](https://github.com/Sohieeb)
 - [André Varandas](https://github.com/andrevarandas)
+- [Tharun]
 - [Lingyi Li](https://github.com/lilingyiyisa)
 - [Tiantai Zhou](https://github.com/TI-130)
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
