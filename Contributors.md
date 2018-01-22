@@ -1935,5 +1935,6 @@
 - [Kiki Batterson](https://github.com/ki2batt)
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Dinislam](https://github.com/cheburan)
+- [Adam Romlein](https://github.com/romleiaj)
 - [Raghav Shrivastava](https://github.com/raghav1810)
 - [Jayesh Yeola](https://github.com/JayeshYeola)
