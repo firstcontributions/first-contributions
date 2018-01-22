@@ -1916,3 +1916,4 @@
 - [Michael Persson] (https://github.com/mippzon)
 - [Paweł Wamej](https://github.com/pwamej)
 - [Emily Lan] (https://github.com/emilyhub)
+- [Caleb Miller](https://github.com/FoolInTheWave)
