@@ -1928,7 +1928,8 @@
 - [Paweł Wamej](https://github.com/pwamej)
 - [Emily Lan](https://github.com/emilyhub)
 - [Caleb Miller](https://github.com/FoolInTheWave)
-- [Keith Selbee](https://github.com/kselbee) 
+- [Keith Selbee](https://github.com/kselbee)
 - gkchan
 - [Kiki Batterson](https://github.com/ki2batt)
 - [Zane Mather] (https://github.com/Zanemonkey)
+- [Dinislam] (https://github.com/cheburan)
