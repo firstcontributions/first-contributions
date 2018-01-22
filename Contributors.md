@@ -1904,6 +1904,7 @@
 - [Tiantai Zhou](https://github.com/TI-130)
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
 - [Charlie Chen](http://github.com/charlieBat)
+- [Dale Kwapich](https://github.com/RevealingFortune)
 - [Sadhana Yatapanage](https://github.com/syatapanage)
 - [Nicholas Meletiou](https://github.com/literaln)
 - [Nikhilendra Atheti](https://github.com/nikhil7934)
