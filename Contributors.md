@@ -1944,3 +1944,4 @@
 - [Shabbir Ahmed](https://github.com/samax-mw)
 - [GeekBoxIT](https://github.com/GeekBoxIT)
 - [Tyler Hines] (https://github.com/thines92)
+- [Alexey Zhitnik] (https://github.com/azhitnik)
