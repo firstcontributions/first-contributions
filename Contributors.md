@@ -1946,3 +1946,4 @@
 - [Tyler Hines] (https://github.com/thines92)
 - [Alexey Zhitnik] (https://github.com/azhitnik)
 - [Mehdi Saffar] (https://github.com/MehdiSaffar)
+- [Sean Asiala] (https://github.com/asialasr)
