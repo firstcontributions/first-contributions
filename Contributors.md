@@ -1943,4 +1943,4 @@
 - [Shabbir Ahmed](https://github.com/samax-mw)
 - [GeekBoxIT](https://github.com/GeekBoxIT)
 - [Tyler Hines] (https://github.com/thines92)
-- [Zernab Gohar] (https://github.com/zernab1)
+- [zernab1] (https://github.com/zernab1)
