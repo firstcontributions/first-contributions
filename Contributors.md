@@ -1942,3 +1942,4 @@
 - [Rebecca Newborn](https://github.com/rebeccanewborn)
 - [Shabbir Ahmed](https://github.com/samax-mw)
 - [GeekBoxIT](https://github.com/GeekBoxIT)
+- [Tyler Hines] (https://github.com/thines92)
