@@ -1953,3 +1953,4 @@
 - [Joshua Kim](https://github.com/joshuabkim)
 - [Carlos Alfaro](https://github.com/devbysalas)
 - [Ian Drummond] (https://github.com/ianH92)
+- [Emil Samuel] (https://github.com/aaliste)
