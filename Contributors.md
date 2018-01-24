@@ -1949,6 +1949,7 @@
 - [Alexey Zhitnik](https://github.com/azhitnik)
 - [Mehdi Saffar](https://github.com/MehdiSaffar)
 - [Sean Asiala](https://github.com/asialasr)
+- [Daryl Mae](https://github.com/darmae)
 - [Rezvi Ahmed](https://github.com/rezviahmed)
 - [Joshua Kim](https://github.com/joshuabkim)
 - [Carlos Alfaro](https://github.com/devbysalas)
