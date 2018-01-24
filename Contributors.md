@@ -1,4 +1,4 @@
-﻿- [Ben Trono] (https://github.com/BT-VT)
+- [Ben Trono] (https://github.com/BT-VT)
 - [Gegory Leleytner](https://github.com/RunFMe)
 - [Avijit Roy](https://github.com/avijitpunk)
 - [James Farrell](https://github.com/wopps)
