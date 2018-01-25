@@ -1,4 +1,4 @@
-- [Eddie Dong](https://github.com/Eddienewpath)
+﻿- [Eddie Dong](https://github.com/Eddienewpath)
 - [Tyrant Davis](https://github.com/tyrantdavis)
 - [Shubham Patra] (https://github.com/Shubham189)
 - [Ben Trono] (https://github.com/BT-VT)
@@ -1968,3 +1968,4 @@
 - [Saumya Sachdev](https://github.com/saumya0220)
 - [Michael Villanueva](https://github.com/g11v8a)
 John Murphy
+- [Daniel Vidana](https://github.com/danvidana)
