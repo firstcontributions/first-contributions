@@ -1956,6 +1956,7 @@
 - [Rezvi Ahmed](https://github.com/rezviahmed)
 - [Joshua Kim](https://github.com/joshuabkim)
 - [Carlos Alfaro](https://github.com/devbysalas)
+- [Emil Samuel] (https://github.com/aaliste)
 - [Ian Drummond](https://github.com/ianH92)
 - [Ayodele Opetumo](https://github.com/ayodeleopetumo)
 - [Quoc Nguyen](https://github.com/qngn93)
