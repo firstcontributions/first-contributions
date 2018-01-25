@@ -1962,3 +1962,4 @@
 - [Kiyun](https://github.com/kiyunkim)
 - [Elena Yatzeck](https://github.com/eyatzeck)
 - [Dayo Ojo Jnr](https://github.com/flipponachi)
+- [Maikko Aleman](https://github.com/maikkoko/)
