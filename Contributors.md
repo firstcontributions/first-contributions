@@ -1964,3 +1964,4 @@
 - [Dayo Ojo Jnr](https://github.com/flipponachi)
 - [Maikko Aleman](https://github.com/maikkoko/)
 - [Jaroslaw Bryk](https://github.com/Jaras7)
+- [Stefan K](https://github.com/StefaK)
