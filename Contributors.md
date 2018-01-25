@@ -1971,3 +1971,4 @@ John Murphy
 - [Daniel Vidana](https://github.com/danvidana)
 - [David Denny] (https://github.com/david-denny)
 - [Pragyan Pandey](https://github.com/pragyan478)
+- [Eric Shi](https://github.com/eric60)
