@@ -1954,7 +1954,6 @@
 - [Joshua Kim](https://github.com/joshuabkim)
 - [Carlos Alfaro](https://github.com/devbysalas)
 - [Ian Drummond] (https://github.com/ianH92)
-- [Stefan K](https://github.com/StefaK)
 - [Ayodele Opetumo] (https://github.com/ayodeleopetumo)
 - [Quoc Nguyen] (https://github.com/qngn93)
 - [Kiyun](https://github.com/kiyunkim)
@@ -1962,3 +1961,4 @@
 - [Dayo Ojo Jnr](https://github.com/flipponachi)
 - [Maikko Aleman](https://github.com/maikkoko/)
 - [Jaroslaw Bryk](https://github.com/Jaras7)
+- [Stefan K](https://github.com/StefaK)
