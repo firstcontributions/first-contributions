@@ -1979,3 +1979,4 @@
 - [Pragyan Pandey](https://github.com/pragyan478)
 - [Eric Shi](https://github.com/eric60)
 - omichaello
+- [James (Ju Seong) Kim](https://github.com/jk2528)
