@@ -1,3 +1,4 @@
+- [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
 - [Eddie Dong](https://github.com/Eddienewpath)
 - [Tyrant Davis](https://github.com/tyrantdavis)
