@@ -1,4 +1,5 @@
-﻿- [Eddie Dong](https://github.com/Eddienewpath)
+- [Akshit Dhar](https://github.com/kyrierose)
+- [Eddie Dong](https://github.com/Eddienewpath)
 - [Tyrant Davis](https://github.com/tyrantdavis)
 - [Shubham Patra] (https://github.com/Shubham189)
 - [Ben Trono] (https://github.com/BT-VT)
