@@ -269,7 +269,7 @@ const projectList = [
     imageSrc: 'https://d3vv6lp55qjaqc.cloudfront.net/items/061f0A2n1B0H3p0T1p1f/react-styleguidist-logo.png',
     githubLink: 'https://github.com/styleguidist/react-styleguidist',
     description: 'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',		
-    tags: ['javascript', 'ui']		
+    tag: ['javascript', 'ui']		
   }
 ];
 
