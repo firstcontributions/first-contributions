@@ -1982,3 +1982,4 @@
 - [Eric Shi](https://github.com/eric60)
 - omichaello
 - [James (Ju Seong) Kim](https://github.com/jk2528)
+- [Addie Johnson] (https://github.com/Addie27)
