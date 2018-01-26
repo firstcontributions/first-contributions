@@ -1119,6 +1119,7 @@
 - [Julia Lamenza](https://github.com/julialamenza)
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
+- [Simon Verhoeven](https://github.com/SimonVerhoeven)
 - [Min Naing Oo](https://github.com/min9ox2)
 - [Peiyu Liao](https://github.com/pyliaorachel)
 - [Peerarust Siriamphan](https://github.com/Gnoyoyo)
