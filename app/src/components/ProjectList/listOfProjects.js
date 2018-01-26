@@ -245,29 +245,24 @@ const projectList = [
   {
     name: 'Visual Studio Code',
     imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
-    githubLink:
-      'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
-    description:
-      'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
-    tags: ['typescript', 'text-editor', 'electron']
+    githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
+    description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
+    tag: ['typescript', 'text-editor', 'electron']
   },
   {
     name: 'Scrapy',
     imageSrc:
       'https://delftswa.gitbooks.io/desosa-2017/content/scrapy/images-scrapy/Scrapy-Logo-Horizontal.png',
     githubLink: 'https://github.com/scrapy/scrapy',
-    description:
-      'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
-    tags: ['python', 'module', 'data-mining', 'automated-testing']
+    description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
+    tag: ['python', 'module', 'data-mining','automated-testing']
   },
   {
-    name: 'React Styleguidist',
-    imageSrc:
-      'https://d3vv6lp55qjaqc.cloudfront.net/items/061f0A2n1B0H3p0T1p1f/react-styleguidist-logo.png',
-    githubLink: 'https://github.com/styleguidist/react-styleguidist',
-    description:
-      'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',
-    tags: ['javascript', 'ui']
+    name: 'Angular',
+    imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
+    githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
+    description: 'Angular is a development platform for building mobile and desktop web applications using Typescript or JavaScript and other languages.',
+    tag: ['angular', 'typescript', 'javascript']
   }
 ];
 

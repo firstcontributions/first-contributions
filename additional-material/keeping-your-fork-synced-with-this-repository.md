@@ -37,4 +37,4 @@ git push origin master
 ```
 Notice here you're pushing to the remote named `origin`.
 
-At this point, all your repositories are up-to-date. Well done! You should do this, everytime you're GitHub repo tells you that you are a few commits behind.
+At this point, all your repositories are up-to-date. Well done! You should do this, everytime your GitHub repo tells you that you are a few commits behind.
