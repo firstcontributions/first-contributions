@@ -263,6 +263,13 @@ const projectList = [
     githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
     description: 'Angular is a development platform for building mobile and desktop web applications using Typescript or JavaScript and other languages.',
     tag: ['angular', 'typescript', 'javascript']
+  },
+  {
+    name: 'React Styleguidist',
+    imageSrc: 'https://d3vv6lp55qjaqc.cloudfront.net/items/061f0A2n1B0H3p0T1p1f/react-styleguidist-logo.png',
+    githubLink: 'https://github.com/styleguidist/react-styleguidist',
+    description: 'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',		
+    tags: ['javascript', 'ui']		
   }
 ];
 
