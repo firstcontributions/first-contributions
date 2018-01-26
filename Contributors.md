@@ -1867,6 +1867,7 @@
 - [Matt Jones](https://github.com/medesthai)
 - [Alberto Martínez](https://github.com/albermav)
 - [Eric Ochoa](https://github.com/eric8ah)
+- [Salil Shenoy](https://github.com/SalilShenoy)
 - [Steven L](https://github.com/sliw)
 - [Astrid Varga](https://github.com/AstiV)
 - [Steven E](https://github.com/stevenengelen)
