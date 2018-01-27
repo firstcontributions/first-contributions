@@ -61,7 +61,16 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. Your name should be registered as follows:
+```
+- [<your-name>](https://github.com/your-username)
+```
+If you only wish to add your name, with no link to your profile's url:
+```
+- <your-name>
+```
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
