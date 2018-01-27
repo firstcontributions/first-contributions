@@ -1,3 +1,4 @@
+- [Jean Carlo Ovalles] (https://github.com/jeanov92)
 - [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
 - [Aravinth Natarajan](https://github.com/aravinth-itsme)
 - [Simon Tite](https://github.com/simontite-capita-ti)
