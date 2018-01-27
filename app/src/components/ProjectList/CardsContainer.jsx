@@ -15,8 +15,8 @@ export default class CardsContainer extends React.Component {
     this.setTags = new Set();
     this.filterOptions = [];
     for (let i = 0; i < projectList.length; i++) {
-      if (projectList[i].tag) {
-        projectList[i].tag.forEach(tag => {
+      if (projectList[i].tags) {
+        projectList[i].tags.forEach(tag => {
           this.setTags.add(tag)
         })
       }
@@ -35,8 +35,8 @@ export default class CardsContainer extends React.Component {
 
     value.map(v => { valueList.push(v.value) });
     projectList.map(project => {
-      if (!project.tag) return;
-      if (valueList.every(v => project.tag.includes(v))) {
+      if (!project.tags) return;
+      if (valueList.every(v => project.tags.includes(v))) {
         updatedList.push(project);
       }
     })
@@ -61,7 +61,7 @@ export default class CardsContainer extends React.Component {
                 logoLink={item.imageSrc}
                 githubLink={item.githubLink}
                 description={item.description}
-                tag={item.tag}
+                tags={item.tags}
               />
             );
           })}
