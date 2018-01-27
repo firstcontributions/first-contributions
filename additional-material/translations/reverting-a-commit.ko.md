@@ -18,19 +18,18 @@ For example, here is what I get when I run ```git log --oneline ``` on this repo
 c1b9fc1 Merge branch 'master' into tutorials
 77eaafd added tutorial for reverting a commit
 ```
- 
+
 따라서 ```git log --oneline``` 을 사용하면 SHA의 처음 7개의 문자와 함께 저장소에서 작성한 모든 커밋 목록을 가져올 수 있습니다.
 
 이제 "added spacing in title"에 대한 커밋을 취소하고 싶다고 가정하고, 다음 단계를 수행하겠습니다.
 
-* 커밋의 SHA를 복사합니다. 여기서는 ```389004d``` 입니다.
-* 그리고 나서 ```git revert 389004d``` 명령을 싱행합니다.
+*   커밋의 SHA를 복사합니다. 여기서는 ```389004d``` 입니다.
+*   그리고 나서 ```git revert 389004d``` 명령을 싱행합니다.
 
 이렇게 하면 텍스트 편집기가 열리고 커밋 메시지를 편집하라는 메시지가 표시됩니다. 커밋 메시지를 `Revert` 라는 단어로 시작하는 기본 git 메시지로 남겨두거나 원하는대로 메시지를 작성할 수도 있습니다.
 
-* 다음으로, 텍스트 편집기를 저장하고 닫습니다.
-* 커맨드 라인으로 돌아갑니다.
-* ```git push origin <branch-name>``` 을 실행하여 되돌린 변경사항을 Github에 푸시하십시오.
+*   다음으로, 텍스트 편집기를 저장하고 닫습니다.
+*   커맨드 라인으로 돌아갑니다.
+*   ```git push origin <branch-name>``` 을 실행하여 되돌린 변경사항을 Github에 푸시하십시오.
 
 그리고 바로 변경사항이 원상태로 돌아갈 것입니다. 이 경우에 저장소가 ```c1b9fc1``` 의 상태로 되돌아갑니다.
-
