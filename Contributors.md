@@ -1,4 +1,4 @@
-- [Lucas Paganini](https://github.com/LucasPaganini)
+﻿- [Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
@@ -1754,3 +1754,4 @@
 [Andy Winarko](https://github.com/AndyWinarko)
 - [Nathan Yost](https://github.com/nathanyost15)
 - [Andreas Bergh](https://github.com/Bendreas)
+- [Alberto Siviero](https://github.com/albisivi)
