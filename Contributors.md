@@ -1,4 +1,4 @@
-- [Neloy Ahmed] (https://github.com/neloy-ahmed)
+﻿- [Neloy Ahmed] (https://github.com/neloy-ahmed)
 - [Harjot Singh Parmr](https://github.com/harjotsinghparmar)
 - [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
@@ -1989,3 +1989,5 @@
 - [Sandeep Kawale](https://github.com/skawaleonline)
 - [NeedleInSpace](https://github.com/NeedleInSpace)
 - [telarmago](https://github.com/telarmago)
+- [Ellis Williams] (https://github.com/ekwilliams94)
+- [Assa Schneider] (https://github.com/AssaSch)
