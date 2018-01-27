@@ -1986,3 +1986,4 @@
 - [Tanner Cook](https://github.com/tvcook)
 - [Sandeep Kawale](https://github.com/skawaleonline)
 - [NeedleInSpace](https://github.com/NeedleInSpace)
+- [Ryan Lee Clark](https://github.com/rglc12)
