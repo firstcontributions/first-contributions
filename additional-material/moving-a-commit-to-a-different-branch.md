@@ -1,9 +1,8 @@
-## Moving a Commit to a different Branch
-
+# Moving a commit to a different Branch
 What if you commit a change, and then realize that you commited to a different branch?
 How can you change that? This is what this tutorial covers.
 
-### Moving the lastest commits to an existing Branch
+## Moving the lastest commits to an existing branch
 To do this, type:
 
 ```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
