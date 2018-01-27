@@ -1,4 +1,4 @@
-# What is a merge conflict ?
+# What is a merge conflict?
 
 When you try to merge another branch into your current working branch, you are taking changes from another context and combine them with your current working files.
 If two people changed the same lines in that same file, or if one person decided to delete it while the other person decided to modify it, Git simply cannot know what is correct. Git will then mark the file as having a conflict - which you'll have to solve before you can continue your work.
