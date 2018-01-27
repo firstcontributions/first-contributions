@@ -1,4 +1,4 @@
-# Moving a commit to a different Branch
+# Moving a commit to a different branch
 What if you commit a change, and then realize that you commited to a different branch?
 How can you change that? This is what this tutorial covers.
 
