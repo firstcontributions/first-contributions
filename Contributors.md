@@ -1986,3 +1986,4 @@
 - [Tanner Cook](https://github.com/tvcook)
 - [Sandeep Kawale](https://github.com/skawaleonline)
 - [NeedleInSpace](https://github.com/NeedleInSpace)
+- [telarmago](https://github.com/telarmago)
