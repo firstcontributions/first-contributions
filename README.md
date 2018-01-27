@@ -61,7 +61,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. The following format must be used in order for your name and profile link to display and work correctly: - [Name here](Link to profile here)  NOTE: Make sure to insert a single space after the hyphen and no space after the closing bracket for your name. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
