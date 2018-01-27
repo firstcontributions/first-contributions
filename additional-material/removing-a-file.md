@@ -14,10 +14,10 @@ If you commit the change with `git commit -m "Remove file1.js"` and pushed it to
 
 ### Additional Features
 
--If you want to remove more than one file, you can include them all in the same command:
+- If you want to remove more than one file, you can include them all in the same command:
 
-    `git rm file1.js file2.js file3.js --cached`
+  `git rm file1.js file2.js file3.js --cached`
 
--You can use a wildcard (*) to remove similar files. For example, if you would like to remove all .txt files from your local repository:
+- You can use a wildcard (*) to remove similar files. For example, if you would like to remove all .txt files from your local repository:
 
   `git rm *.txt --cached`
