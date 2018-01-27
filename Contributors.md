@@ -1,3 +1,4 @@
+- [Harjot Singh Parmr](https://github.com/harjotsinghparmar)
 - [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
 - [Eddie Dong](https://github.com/Eddienewpath)
