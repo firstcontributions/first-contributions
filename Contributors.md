@@ -1993,3 +1993,4 @@
 - [Ellis Williams] (https://github.com/ekwilliams94)
 - [Assa Schneider] (https://github.com/AssaSch)
 - [Jordan Skophammer] (https://github.com/skop22)
+- [Spencer Wolf] (https://github.com/spwolf22)
