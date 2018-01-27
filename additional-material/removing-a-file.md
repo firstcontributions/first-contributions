@@ -1,4 +1,4 @@
-# Removing a File From Git
+# Removing a file from Git
 
 Sometimes, you may want to remove a file from Git but not delete it from your computer. You can achieve this by using the following command:
 
@@ -12,7 +12,7 @@ Notice that in the example above, the flag `--cached` is used. If we didn't add 
 
 If you commit the change with `git commit -m "Remove file1.js"` and pushed it to the remote repository using `git push origin master`, the remote repository will remove the file.
 
-## Additional Features
+## Additional features
 
 -   If you want to remove more than one file, you can include them all in the same command:
 
