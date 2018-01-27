@@ -6,7 +6,7 @@ Sometimes, you may want to remove a file from Git but not delete it from your co
 
 ## So what happened?
 
-Git will no longer keeps track of changes in the removed file. As far as Git knows, it's as if you had deleted the file. If you were to locate the file in your file system, you will notice that it's still there.
+Git will no longer keep track of changes in the removed file. As far as Git knows, it's as if you had deleted the file. If you were to locate the file in your file system, you will notice that it's still there.
 
 Notice that in the example above, the flag `--cached` is used. If we didn't add this flag, Git will remove the file from not just the repo, but from your file system too.
 
