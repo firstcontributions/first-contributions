@@ -1,4 +1,4 @@
-## Configuring git
+# Configuring git
 
 The first time you tried to commit using git, you might have gotten a prompt like the one below:
 
