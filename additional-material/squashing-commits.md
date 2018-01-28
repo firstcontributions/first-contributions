@@ -1,10 +1,8 @@
 # What is squashing?
-
 In git, squashing refers to rewriting the history of your commits, so you end up with one commit with a description of the changes done.
 It's usually done in open source projects because a lot of the history of a branch in open source projects is only relevant to the developer who created it, and this provides a simpler way to describe the changes made and also revert them if needed.
 
-# How do you squash commits?
-
+## How do you squash commits?
 First, perform a git log to review the commits you would like to merge in your current branch.
 
 ```
