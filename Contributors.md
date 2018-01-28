@@ -2005,3 +2005,5 @@
 - [Hemant Pande] (https://github.com/hemantpande)
 - [Drikus Roor] (https://github.com/drikusroor)
 - [Mita Ramabulana] (https://github.com/smalltheta)
+- [Michal Petrik] (https://github.com/vikingviolinist)
+- [Saisriram Sankaran] (https://github.com/saisriram-sankaran)
