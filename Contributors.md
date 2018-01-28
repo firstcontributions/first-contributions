@@ -326,6 +326,7 @@
 - [Amith Kalathil](https://github.com/amithkr)
 - [Emily Symonds](https://github.com/emilysymonds)
 - [Richa Singhal](https://github.com/RichaSinghal)
+- [Nirup Murali](https://github.com/Nirupg63)
 - [Vivek Kumar](https://github.com/vivekaltruist)
 - [Thomas Herman](https://github.com/thomasherman)
 - [Sumit Kumar](https://github.com/sumitk39)
