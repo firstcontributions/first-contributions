@@ -3,8 +3,8 @@
 Welcome to your first contribution. :heart:
 
 #### Table Of Contents
-- [Code of Conduct](#code-of-conduct)
-- [Translation Guide](#translation-guide)
+-   [Code of Conduct](#code-of-conduct)
+-   [Translation Guide](#translation-guide)
 
 ## Code of Conduct
 If you want to contribute, you need to know a few things.
