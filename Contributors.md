@@ -1,5 +1,5 @@
-﻿
 - [Stephen Jacob] (https://github.com/sjacob90)
+- [Lucas Paganini](https://github.com/LucasPaganini)
 - [Neloy Ahmed] (https://github.com/neloy-ahmed)
 - [Harjot Singh Parmr](https://github.com/harjotsinghparmar)
 - [Dilsheen Kaur](https://github.com/dilsheen)
@@ -1796,6 +1796,7 @@
 - [Andy Winarko](https://github.com/AndyWinarko)
 - [Nathan Yost](https://github.com/nathanyost15)
 - [Andreas Bergh](https://github.com/Bendreas)
+- [Alberto Siviero](https://github.com/albisivi)
 - arpitjjw
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
@@ -1820,6 +1821,7 @@
 - Maukrack
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
+- [xichao chen](https://github.com/chenshaw1995)
 - [Kaaylim](https://github.com/kaaylim)
 - [Ashton](https://github.com/shepparda13)
 - [Nick](https://github.com/codekip)
@@ -1998,3 +2000,4 @@
 - [Spencer Wolf] (https://github.com/spwolf22)
 - [David Deng] (https://github.com/PROgram52bc)
 - [Linh Huynh] (https://github.com/linh4)
+- [Hemant Pande] (https://github.com/hemantpande)
