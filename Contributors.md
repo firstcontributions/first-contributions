@@ -1820,6 +1820,7 @@
 - Maukrack
 - [Vivi 😎](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
+- [xichao chen](https://github.com/chenshaw1995)
 - [Kaaylim](https://github.com/kaaylim)
 - [Ashton](https://github.com/shepparda13)
 - [Nick](https://github.com/codekip)
