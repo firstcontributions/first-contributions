@@ -1,3 +1,4 @@
+- [Kyrill Langhans] (github.com/KyrillL1)
 ﻿- [GWCS] (https://github.com/GWCS)
 - [STephen Docy] (https://github.com/sdocy)
 - [Stephen Jacob] (https://github.com/sjacob90)
