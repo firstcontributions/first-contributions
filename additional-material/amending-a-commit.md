@@ -37,8 +37,8 @@ To achieve this, we would do the following:
 *   Modify the file. In this case, I will modify the botfile to include the word I omitted previously.
 *   Next, add the file to the staging area with ```git add <filename>```
 
- Usually after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?
- But since what we want to achieve here is to amend the previous commit, we would instead run:
+Usually after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?
+But since what we want to achieve here is to amend the previous commit, we would instead run:
 
 * ```git commit --ammend```
  This would then bring up the text editor and prompt you to edit the message. You can decide to leave the message as it was before or change it.
