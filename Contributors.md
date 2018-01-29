@@ -54,6 +54,7 @@
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Krishnan V]  (https://github.com/Krishnanv070490)
+- [Richa](https://github.com/richa208)
 - [Mike Schmitz](https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
