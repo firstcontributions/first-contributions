@@ -226,6 +226,37 @@ const projectList = [
     description: 'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',
     tags: ['javascript', 'ui']
   }
+  {
+    name: 'Ruby Koans',
+    imageSrc: 'http://cdn.skilledup.com/public/images/provider/Ruby-Koans-Image-2x.jpg',
+    githubLink: 'https://github.com/edgecase/ruby_koans',
+    description: 'Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
+    tags: ['Ruby', 'exercises', 'CLI', 'web app']
+  }
+  {
+    name: 'Python Koans',
+    imageSrc: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/akoebbe/b35d77/python-koans.jpg',
+    githubLink: 'https://github.com/gregmalcolm/python_koans',
+    description: 'Python Koans is a port of Edgecase\'s "Ruby Koans".',
+    tags: ['python', 'exercises', 'CLI', 'web app']
+  }
+  {
+    name: 'Scala Exercises',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/17570897?s=200&v=4',
+    githubLink: 'https://github.com/scala-exercises',
+    description: 'Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language.',
+    tags: ['scala', 'exercises', 'functional-programming']
+  }
+  {
+    name: 'CodeWorkout',
+    imageSrc: 'https://i.imgur.com/ZsSiCqi.png',
+    githubLink: 'https://github.com/web-cat/code-workout',
+    description: 'CodeWorkout is an online system for people learning a programming language for the first time. It is a free, open-source solution for practicing small programming problems. Students may practice coding exercises on a variety of programming concepts within the convenience of a web browser!',
+    tags: ['java', 'Ruby', 'python', 'exercises']
+  }
+
+  
+
 ];
 
 export default projectList;
