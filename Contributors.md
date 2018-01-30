@@ -2032,3 +2032,4 @@
 - [Beryl Young](https://github.com/beal2000)
 - Nguyen Nguyen
 - [Michael Bauer] (https://github.com/bauerpm7)
+- [Harsh Bhardwaj] (https://github.com/harshbhardwaj)
