@@ -2048,3 +2048,4 @@
 - [Nick Bohannan](https://github.com/NickBohannan)
 - [Elena Yatzeck](https://github.com/eyatzeck)
 - [Sawan Singh Mahara] (https://github.com/SmellingSalt)
+- [Joshua Denzau] (https://github.com/joshdenz)
