@@ -2025,6 +2025,7 @@
 - [Matthew Beevor](https://github.com/mattbeevor)
 - [Austin Jess](https://github.com/ajess33)
 - [Kartik Kulkarni](https://github.com/kartik-karz)
+- [Yash Bhardwaj](https://github.com/imyashbhardwaj)
 - [Nick](https://github.com/nickn10)
 - [Cristian Rodriguez](https://github.com/crisr10)
 - [Aman Jain](https://github.com/jainaman1398)
