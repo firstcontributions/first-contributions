@@ -1,9 +1,9 @@
-- [Kyrill Langhans] (github.com/KyrillL1)
-﻿- [GWCS] (https://github.com/GWCS)
-- [STephen Docy] (https://github.com/sdocy)
-- [Stephen Jacob] (https://github.com/sjacob90)
+- [Kyrill Langhans](github.com/KyrillL1)
+- [GWCS](https://github.com/GWCS)
+- [STephen Docy](https://github.com/sdocy)
+- [Stephen Jacob](https://github.com/sjacob90)
 - [Lucas Paganini](https://github.com/LucasPaganini)
-- [Neloy Ahmed] (https://github.com/neloy-ahmed)
+- [Neloy Ahmed](https://github.com/neloy-ahmed)
 - [Harjot Singh Parmr](https://github.com/harjotsinghparmar)
 - [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
@@ -21,7 +21,7 @@
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
-- [Stella Lu] (https://github.com/stella-lu/)
+- [Stella Lu](https://github.com/stella-lu/)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
@@ -47,14 +47,14 @@
 - [Mohamed Rahmouni](https://github.com/Rahamoon)
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
-- Subhag Bhatia
+- [Subhag Bhatia]()
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
 - [Daniel White](https://github.com/whitedann)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
-- [Krishnan V]  (https://github.com/Krishnanv070490)
+- [Krishnan V](https://github.com/Krishnanv070490)
 - [Richa](https://github.com/richa208)
 - [Mike Schmitz](https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
@@ -102,11 +102,11 @@
 - [Michael Ebenstein](https://github.com/mebenstein-tgm)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
-- Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
+- [Alyssa ([@rageunleashed69], Head Dev, Computer Science Major[Lab]](https://github.com/rageunleashed69))
 - [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 - [sudheerdarla](https://github.com/sudheerdarla)
-- [Jacurtis](https://github.com/jacurtis) DevMarketer
+- [Jacurtis DevMarketer](https://github.com/jacurtis)
 - [Tarun Jain](https://github.com/tarun885)
 - [Baz Scourfield](https://github.com/bazscourfield)
 - [kunwar11](https://github.com/kunwar11)
@@ -147,7 +147,7 @@
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
-- Neha Upadhyay
+- [Neha Upadhyay]
 - [jaro36](https://github.com/jaro36)
 - [yecicen](https://github.com/yecicen)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -180,7 +180,7 @@
 - [Mukund Banka](https://github.com/mukund54)
 - [Michael Kolodziejski](https://github.com/Packetdude)
 - [Parker Dyer](https://github.com/parkerdyer)
-- meherpooja
+- [meherpooja]
 - [LostSeaWay](https://github.com/lostseaway)
 - [Raryson](https://github.com/raryson)
 - [joranhezon](https://github.com/joranhezon)
@@ -342,7 +342,7 @@
 - [Yogendra Sharma](https://github.com/Yogendra0Sharma)
 - [George Doykan](https://github.com/gdoykan)
 - [Vijay Kumar](https://github.com/VijayVj7)
-- Deepak Hooda
+- [Deepak Hooda]
 - [Panayiotis Kaizo](https://github.com/pns2050)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Grant Hixson](https://github.com/androidfanatic)
@@ -457,7 +457,7 @@
 - [Josh Martin](https://github.com/josh-martino)
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
-- Varun M
+- [Varun M]
 - [Junior Gantin](https://github.com/nioperas06)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
