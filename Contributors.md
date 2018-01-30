@@ -1039,7 +1039,7 @@
 - [javmonisu](https://github.com/javmonisu)
 - [Dulantha_teshan](https://github.com/DTeshan)
 - [Hussain Mustafa](https://github.com/hussainbadri21)
-- [Dilan Nilaksha](https://github.com/jpdilan) gd one dudes :)
+- [Dilan Nilaksha gd one dudes :)](https://github.com/jpdilan) 
 - [Sangeetha Sasikumar](https://github.com/Sangeetha-007)
 - [Ple](https://github.com/plemomay)
 - [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
@@ -1396,8 +1396,8 @@
 - [Félix Alejandro Guzmán](https://github.com/felixalguzman)
 - [osolarik](https://github.com/osolarik)
 - [ShubhiL](https://github.com/ShubhiL)
-- [Amit](https://github`.com/amit9651)
-- [Subham Kumar Soni](h`ttps://github.com/sks4903440)
+- [Amit](https://github.com/amit9651)
+- [Subham Kumar Soni](https://github.com/sks4903440)
 - [Irshad Ismayil](https://github.com/irshadshalu)
 - [Johnnycus](https://github.com/Johnnycus)
 - [dan](https://github.com/danctechi)
@@ -1894,7 +1894,7 @@
 - [StepanovV](https://github.com/StepanovV)
 - [Tsufael](https://github.com/Tsufael)
 - [Sidartha](https://github.com/sidarthar)
-- [Edgar]
+- Edgar
 - [Krystle Weinrich](https://github.com/kmweinrich)
 - [Nazareh Velho Turmina](https://github.com/Nazareh)
 - [Mohammed Nabeel](https://github.com/mnabeelp)
@@ -1907,10 +1907,10 @@
 - [Aseged-Woldeselassie](https://github.com/Aseged)
 - [Tang Liang](https://github.com/shinytang6)
 - [Kiriakos Kontostathis](https://github.com/kontostathisk)
-- [Zachary Frank]
-- [Sudarshan]
+- Zachary Frank
+- Sudarshan
 - [Brecht Verhoeve](https://github.com/bjverhoe)
-- [Saurav Prakash]
+- Saurav Prakash
 - [John DeBord](https://github.com/johndebord)
 - [Zoe Aron](https://github.com/zoearon)
 - [Menna ElKashef](https://github.com/mennaelkashef)
@@ -1922,7 +1922,7 @@
 - [David Gabriel](https://github.com/xxzozaxx)
 - [Sohieb Mohamed](https://github.com/Sohieeb)
 - [André Varandas](https://github.com/andrevarandas)
-- [Tharun]
+- Tharun
 - [Lingyi Li](https://github.com/lilingyiyisa)
 - [Tiantai Zhou](https://github.com/TI-130)
 - [Yugansh Bhatnagar](https://github.com/yuganshb)
@@ -1962,9 +1962,9 @@
 - [Meggan M Green](https://github.com/meggangreen)
 - [Shabbir Ahmed](https://github.com/samax-mw)
 - [GeekBoxIT](https://github.com/GeekBoxIT)
-- [Tyler Hines] (https://github.com/thines92)
-- [Alexey Zhitnik] (https://github.com/azhitnik)
-- [Vishwanath Sharma] (https://github.com/Vishwanath26)
+- [Tyler Hines](https://github.com/thines92)
+- [Alexey Zhitnik](https://github.com/azhitnik)
+- [Vishwanath Sharma](https://github.com/Vishwanath26)
 - [Tyler Hines](https://github.com/thines92)
 - [zernab1](https://github.com/zernab1)
 - [Alexey Zhitnik](https://github.com/azhitnik)
