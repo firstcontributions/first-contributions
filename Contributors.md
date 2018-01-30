@@ -1,4 +1,4 @@
-- [Kyrill Langhans] (github.com/KyrillL1)
+﻿- [Kyrill Langhans] (github.com/KyrillL1)
 ﻿- [GWCS] (https://github.com/GWCS)
 - [STephen Docy] (https://github.com/sdocy)
 - [Stephen Jacob] (https://github.com/sjacob90)
@@ -2028,3 +2028,4 @@
 - [Aman Jain] (https://github.com/jainaman1398)
 - [Nathan Lin] (https://github.com/nlin24)
 - [Humbl3Stud3nt] (https://github.com/Humbl3Stud3nt)
+- [David Magee] (https://github.com/dmagee15)
