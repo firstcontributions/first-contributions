@@ -1,6 +1,6 @@
 # What is squashing?
 
-In git, squashing refers to rewriting the history of your commits, so you end up with one commit with a description of the changes done. 
+In git, squashing refers to rewriting the history of your commits, so you end up with one commit with a description of the changes done.
 It's usually done in open source projects because a lot of the history of a branch in open source projects is only relevant to the developer who created it, and this provides a simpler way to describe the changes made and also revert them if needed.
 
 # How do you squash commits?
@@ -15,12 +15,12 @@ You should see a series of your commits like so:
 
 ```
 commit blablabla
-Author: omguhh 
+Author: omguhh
 Date:   10/10/20
     Commit message 1
 
 commit blablabla2
-Author: omguhh 
+Author: omguhh
 Date:   10/10/20
     Commit message 2
 ```
@@ -28,16 +28,16 @@ Date:   10/10/20
 So now that you see the commits you wish to merge to one, we can move along into doing that with ```git rebase```. Assuming you're already familiar with ```git rebase```, we can starting squashing commits in the interactive mode of git rebase that you can activate like so:
 
 ```
-git rebase -i 
+git rebase -i
 ```
 
-Now, with interactive rebasing you can specify the starting and end point of how far back you want to go with commits like so: 
+Now, with interactive rebasing you can specify the starting and end point of how far back you want to go with commits like so:
 
 ```
 git rebase -i HEAD~2
 ```
 
-Running this command will show you something like the following: 
+Running this command will show you something like the following:
 
 ```
 pick blablabla Changing test01.txt file

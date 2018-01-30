@@ -69,8 +69,8 @@ Among the three methods described here, the precedence order is `command-line > 
 
 We have dealt with only the user details till now while working with the config. However, there are several other configuration options available. Some of them are:
 
-1. `core.editor` - to specify the name of the editor used for writing commit messages, etc.
-2. `commit.template` - to specify a file on the system as the initial commit template.
-3. `color.ui` - to specify a boolean value for using colors in git's output.
+1.  `core.editor` - to specify the name of the editor used for writing commit messages, etc.
+2.  `commit.template` - to specify a file on the system as the initial commit template.
+3.  `color.ui` - to specify a boolean value for using colors in git's output.
 
 We have abstracted some details for ease of understanding. For further reading, head over to [git-scm.com](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).
