@@ -2044,3 +2044,4 @@
 - [Alessandra Bianchin](https://github.com/alekrishna)
 - [Maira Martins](https://github.com/mairamartinsk)
 - [Ludvig Falck](https://github.com/lfalck)
+- [Nick Bohannan](https://github.com/NickBohannan)
