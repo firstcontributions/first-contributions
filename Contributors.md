@@ -2021,3 +2021,4 @@
 - [Matthew Beevor](https://github.com/mattbeevor)
 - [Austin Jess](https://github.com/ajess33)
 - [Kartik Kulkarni](https://github.com/kartik-karz)
+- [Yash Bhardwaj](https://github.com/imyashbhardwaj)
