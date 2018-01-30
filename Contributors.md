@@ -9,7 +9,7 @@
 - [Akshit Dhar](https://github.com/kyrierose)
 - [Eddie Dong](https://github.com/Eddienewpath)
 - [Tyrant Davis](https://github.com/tyrantdavis)
-- [Shubham Patra](https://github.com/Shubham189)
+- [Shubham Patraf](https://github.com/Shubham189)
 - [Ben Trono](https://github.com/BT-VT)
 - [Gegory Leleytner](https://github.com/RunFMe)
 - [Avijit Roy](https://github.com/avijitpunk)
@@ -147,7 +147,7 @@
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
-- [Neha Upadhyay]
+- Neha Upadhyay
 - [jaro36](https://github.com/jaro36)
 - [yecicen](https://github.com/yecicen)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -180,7 +180,7 @@
 - [Mukund Banka](https://github.com/mukund54)
 - [Michael Kolodziejski](https://github.com/Packetdude)
 - [Parker Dyer](https://github.com/parkerdyer)
-- [meherpooja]
+- meherpooja
 - [LostSeaWay](https://github.com/lostseaway)
 - [Raryson](https://github.com/raryson)
 - [joranhezon](https://github.com/joranhezon)
@@ -342,7 +342,7 @@
 - [Yogendra Sharma](https://github.com/Yogendra0Sharma)
 - [George Doykan](https://github.com/gdoykan)
 - [Vijay Kumar](https://github.com/VijayVj7)
-- [Deepak Hooda]
+- Deepak Hooda
 - [Panayiotis Kaizo](https://github.com/pns2050)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Grant Hixson](https://github.com/androidfanatic)
@@ -457,7 +457,7 @@
 - [Josh Martin](https://github.com/josh-martino)
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
-- [Varun M]
+- Varun M
 - [Junior Gantin](https://github.com/nioperas06)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
