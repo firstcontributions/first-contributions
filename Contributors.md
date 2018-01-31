@@ -2057,3 +2057,4 @@
 - [Ivan Chaffardett](https://github.com/ivanchaffardett)
 - [Hussain Alseddiq](https://github.com/alseddiq)
 - [Sakhile Naga Koti Reddy](https://github.com/snkreddy)
+- [Harshdeep Kanhai](https://github.com/harshdeepkanhai)
