@@ -231,7 +231,7 @@ const projectList = [
     imageSrc: 'http://cdn.skilledup.com/public/images/provider/Ruby-Koans-Image-2x.jpg',
     githubLink: 'https://github.com/edgecase/ruby_koans',
     description: 'Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
-    tags: ['Python', 'Exercises', 'CLI', 'Web app']
+    tags: ['Ruby', 'Exercises', 'CLI', 'Web app']
   },
   {
     name: 'Python Koans',
