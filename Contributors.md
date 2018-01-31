@@ -1041,7 +1041,7 @@
 - [javmonisu](https://github.com/javmonisu)
 - [Dulantha_teshan](https://github.com/DTeshan)
 - [Hussain Mustafa](https://github.com/hussainbadri21)
-- [Dilan Nilaksha gd one dudes :)](https://github.com/jpdilan) 
+- [Dilan Nilaksha gd one dudes :)](https://github.com/jpdilan)
 - [Sangeetha Sasikumar](https://github.com/Sangeetha-007)
 - [Ple](https://github.com/plemomay)
 - [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
@@ -2055,3 +2055,4 @@
 - [David C](https://github.com/arbeglanretsc)
 - [Moonkwanghyun](https://github.com/mgh3326)
 - [Ivan Chaffardett](https://github.com/ivanchaffardett)
+- [Hussain Alseddiq](https://github.com/alseddiq)
