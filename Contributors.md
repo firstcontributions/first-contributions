@@ -2070,3 +2070,4 @@
 - [Azamat Fayziev](https://github.com/AFayziev)
 - [Anshuman Chakravarty](https://github.com/anshu1997)
 - [Evgeny Pavlov](https://github.com/kindanoob)
+- [Petr Janik](https://github.com/petr7555)
