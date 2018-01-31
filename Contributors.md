@@ -2067,3 +2067,4 @@
 - [Hashim Ikram](https://github.com/hikram/)
 - [mandymuf](https://github.com/mandymuf)
 - [Azamat Fayziev](https://github.com/AFayziev)
+- [Anshuman Chakravarty](https://github.com/anshu1997)
