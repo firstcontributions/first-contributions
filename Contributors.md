@@ -2063,3 +2063,4 @@
 - [Paul Baur](https://github.com/pjbaur)
 - [Ibrar Yunus](https://github.com/IbrarYunus)
 - [Diego Kascharowski](https://github.com/kascharowski)
+- [Kevin Lemon](https://github.com/KevinLemon14)
