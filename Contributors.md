@@ -2062,3 +2062,4 @@
 - [Thein Than Htun](https://github.com/tthtun)
 - [Paul Baur](https://github.com/pjbaur)
 - [Ibrar Yunus](https://github.com/IbrarYunus)
+- [Diego Kascharowski](https://github.com/kascharowski)
