@@ -1,3 +1,4 @@
+- [Seanebum](https://github.com/seanebum)
 - [Helen 12agnes](https://github.com/12agnes)
 - [Kyrill Langhans](github.com/KyrillL1)
 - [GWCS](https://github.com/GWCS)
