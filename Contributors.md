@@ -2083,4 +2083,5 @@
 - [Gabriel Machado](https://github.com/gm1357)
 - [Marcelo Ferreira](https://github.com/marcelosife)
 - [mcyusuf](https://github.com/mcyusuf)
+- [Alisson Valdir de Souza](https://github.com/alivs)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
