@@ -1,4 +1,4 @@
-- [Steven Siperko](https://github.com/ssiperko)
+﻿- [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
 - [Phil Andrews](https://github.com/phil-andrews)
 - [Helen 12agnes](https://github.com/12agnes)
@@ -2072,3 +2072,4 @@
 - [Evgeny Pavlov](https://github.com/kindanoob)
 - [Petr Janik](https://github.com/petr7555)
 - [Patrick Naughton](https://github.com/patricknaughton01)
+- [Nina R](https://github.com/ASTG17) 
