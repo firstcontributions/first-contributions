@@ -1,4 +1,4 @@
-## Remove a branch from your repository
+# Remove a branch from your repository
 
 If you have followed the tutorial up-to-now, our `<add-your-name>` branch has finished its purpose, it is time to delete it from your local machine's repo. This isn't necessary, but the name of this branch shows its rather special purpose. Its life can be made correspondingly short.
 

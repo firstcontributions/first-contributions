@@ -1,4 +1,4 @@
-## Revert a commit
+# Revert a commit
 
 To revert a commit simply means to create a brand new commit that undoes all
 the changes made in a previous one. It is like doing a ```CTRL + Z ``` on git.
