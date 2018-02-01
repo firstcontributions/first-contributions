@@ -149,7 +149,7 @@ git push origin "add-your-name"
 <div dir="rtl">يلا نخليك تبدأ تساهم في مشاريع بجد؟ عملنا قائمة بمشاريع بمشاكل بسيطة ممكن تبدأ بيها النهاردة.</div>
 <div dir="rtl">شوف <a href="https://roshanjossey.github.io/first-contributions/#project-list">قائمة المشاريع على الموقع. </a> </div>
 
-## <div dir="rtl"><a href="../additional-material/additional-material.md">قائمة المشاريع على الموقع</a></div>
+## <div dir="rtl"><a href="../additional-material/additional-material.md">حاجات وأدوات زيادة</a></div>
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 
@@ -160,12 +160,8 @@ git push origin "add-your-name"
 ## <div dir="rtl">دعاية</div>
 <div dir="rtl"> لو المشروع دة عجبك ممكن تديله نجمة على <a href="https://github.com/Roshanjossey/first-contributions">Github </a> </div>
 <div dir="rtl"> لو حابب الموضوع أوي ممكن تتابع <a href="https://roshanjossey.github.io/">Roshan </a>
-على <a href="(https://twitter.com/sudo__bangbang">تويتر </a> 
-و [GitHub](https://github.com/roshanjossey).
+على <a href="https://twitter.com/sudo__bangbang">تويتر </a> 
+و <a href="https://github.com/roshanjossey">GitHub </a>
 </div> 
 
-
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
-
-
-
