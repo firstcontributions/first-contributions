@@ -2077,7 +2077,7 @@
 - [Patrick Naughton](https://github.com/patricknaughton01)
 - [Nina R](https://github.com/ASTG17)
 - [Manu](https://github.com/manutastic)
-- [Alex](https://github.com/LiAlexJ) 
+- [Alex](https://github.com/LiAlexJ)
 - [Gary](https://github.com/thatguy227)
 - [Jack](https://github.com/jack99999)
 - [Gabriel Machado](https://github.com/gm1357)
@@ -2088,3 +2088,4 @@
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin] (https://github.com/camberlucian)
 - [Antonio Bucciol](https://github.com/TBuc)
+- [Yu Zhou](https://github.com/yuzhoujr)
