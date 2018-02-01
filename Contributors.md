@@ -2079,6 +2079,6 @@
 - [Alex](https://github.com/LiAlexJ) 
 - [Gary](https://github.com/thatguy227)
 - [Jack](https://github.com/jack99999)
+- [Gabriel Machado](https://github.com/gm1357)
+- [Marcelo Ferreira](https://github.com/marcelosife)
 - [mcyusuf](https://github.com/mcyusuf)
- 
-
