@@ -2071,3 +2071,4 @@
 - [Anshuman Chakravarty](https://github.com/anshu1997)
 - [Evgeny Pavlov](https://github.com/kindanoob)
 - [Petr Janik](https://github.com/petr7555)
+- [Patrick Naughton](https://github.com/patricknaughton01)
