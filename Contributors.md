@@ -1,4 +1,5 @@
-﻿- [Steven Siperko](https://github.com/ssiperko)
+- marcos-padilla
+- [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
 - [Phil Andrews](https://github.com/phil-andrews)
 - [Helen 12agnes](https://github.com/12agnes)
@@ -2046,7 +2047,6 @@
 - [Andrew Pushkin](https://github.com/pushkingav)
 - [Nishkt](https://github.com/nishkt)
 - [Greyson Jenkins](https://github.com/greysonjenkins)
-- [Richard Magnelli](https://github.com/rmagnelli1)
 - [Adnen Saadaoui](https://github.com/sadnen)
 - [Alessandra Bianchin](https://github.com/alekrishna)
 - [Maira Martins](https://github.com/mairamartinsk)
@@ -2072,6 +2072,7 @@
 - [Anshuman Chakravarty](https://github.com/anshu1997)
 - [Evgeny Pavlov](https://github.com/kindanoob)
 - [Petr Janik](https://github.com/petr7555)
+- [Petr Janik](https://github.comjjjjjj/petr7555)
 - [Patrick Naughton](https://github.com/patricknaughton01)
 - [Nina R](https://github.com/ASTG17)
 - [Manu](https://github.com/manutastic)
