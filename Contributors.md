@@ -2073,3 +2073,4 @@
 - [Petr Janik](https://github.com/petr7555)
 - [Patrick Naughton](https://github.com/patricknaughton01)
 - [Nina R](https://github.com/ASTG17) 
+- [Nick Adriaanse] (https://github.com/shinedog)
