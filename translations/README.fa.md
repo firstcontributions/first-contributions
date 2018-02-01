@@ -5,24 +5,26 @@
 <h1 dir="rtl">
 <a id="user-content-اولین-مشارکت" class="anchor" href="#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>اولین مشارکت</h1>
 <p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
-<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ حدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره :D</p>
-<p dir="rtl"><a href="assets/fork.png" target="_blank"><img align="right" width="300" src="assets/fork.png" alt="fork this repository" style="max-width:100%;"></a></p>
+<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ حدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
+  
 #### *Read this in [other languages](Translations.md).*
 <p dir="rtl">اگه روی دستگاهت گیت نداری. نصبش کن
-<a href="https://help.github.com/articles/set-up-git/">https://help.github.com/articles/set-up-git/</a>).</p>
+<a href="https://help.github.com/articles/set-up-git/">https://help.github.com/articles/set-up-git/</a>.</p>
 <h2 dir="rtl">
 <a id="user-content-این-ریپوزیتوری-رو-فورک-کن" class="anchor" href="#%D8%A7%DB%8C%D9%86-%D8%B1%DB%8C%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D9%81%D9%88%D8%B1%DA%A9-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>این ریپوزیتوری رو فورک کن</h2>
 <p dir="rtl">این ریپوزیتوری رو از طریق کلیک کردن روی دکمه فورک بالای این صفحه فورک کن
 این کار یک کپی از ریپوزیتوری تو اکانتت میسازه</p>
+<img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
 <h2 dir="rtl">
 <a id="user-content-ریپپوزیتوری-رو-کلون-کن" class="anchor" href="#%D8%B1%DB%8C%D9%BE%D9%BE%D9%88%D8%B2%DB%8C%D8%AA%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%DA%A9%D9%84%D9%88%D9%86-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ریپپوزیتوری رو کلون کن</h2>
-<p dir="rtl"><a href="assets/clone.png" target="_blank"><img align="right" width="300" src="assets/clone.png" alt="clone this repository" style="max-width:100%;"></a></p>
 <p dir="rtl">حالا ریپ و رو داخل کامپیوترت کلون کن. روی دکمه کلون کلیک کن و بعد روی (کپی در کلیپبورد) کلیک کن</p>
+<img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <p dir="rtl">ترمینال رو باز کن و دستورات زیر رو وارد کن</p>
 <pre><code>git clone "لینکی که کپی کردی"
 </code></pre>
 <p dir="rtl">جایی که (لینکی که کپی کردی) هست درواقع آدرس ریپوزیتوری هست که تو قدم پیش دیدی</p>
-<p dir="rtl"><a href="assets/copy-to-clipboard.png" target="_blank"><img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" style="max-width:100%;"></a></p>
+
 <p dir="rtl">برای مثال</p>
 <pre><code>git clone https://github.com/this-is-you/first-contributions.git
 </code></pre>
@@ -77,9 +79,9 @@
 <p dir="rtl">اگه بری داخل ریپوزیتوریت تو گیتهاب. میبینی که دکمه
 <code>Compare &amp; pull request</code>
 وجود داره . روش کلیک کن</p>
-<p dir="rtl"><a href="assets/compare-and-pull.png" target="_blank"><img src="assets/compare-and-pull.png" alt="create a pull request" style="max-width:100%;"></a></p>
+<img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 <p dir="rtl">حالا دستور پل رو ثبت کن</p>
-<p dir="rtl"><a href="assets/submit-pull.png" target="_blank"><img src="assets/submit-pull.png" alt="submit pull request" style="max-width:100%;"></a></p>
+<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
 <p dir="rtl">بزودی من تمام تغیرات تو رو به شاخه اصلی این پروژه اضافه میکنم
 زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
 <h2 dir="rtl">
