@@ -1,5 +1,6 @@
 # Contribution guide
 
+Author: Yu Zhou
 Welcome to your first contribution. :heart:
 
 #### Table Of Contents
