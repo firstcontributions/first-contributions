@@ -2087,3 +2087,4 @@
 - [Alisson Valdir de Souza](https://github.com/alivs)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin] (https://github.com/camberlucian)
+- [Antonio Bucciol](https://github.com/TBuc)
