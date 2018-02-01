@@ -159,9 +159,10 @@ git push origin "add-your-name"
 
 ## <div dir="rtl">دعاية</div>
 <div dir="rtl"> لو المشروع دة عجبك ممكن تديله نجمة على <a href="https://github.com/Roshanjossey/first-contributions">Github </a> </div>
-<div dir="rtl"> لو حابب الموضوع أوي ممكن تتابع <a href="https://roshanjossey.github.io/">Roshan </a>
-على <a href="https://twitter.com/sudo__bangbang">تويتر </a> 
-و <a href="https://github.com/roshanjossey">GitHub </a>
-</div> 
+<div dir="rtl"> لو حابب الموضوع أوي ممكن تتابع <a href="https://roshanjossey.github.io/">Roshan </a></div> 
+<div dir="rtl">على <a href="https://twitter.com/sudo__bangbang">تويتر </a></div> 
+<div dir="rtl">و <a href="https://github.com/roshanjossey">GitHub </a></div> 
+
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+
