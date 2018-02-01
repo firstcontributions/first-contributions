@@ -12,7 +12,7 @@ Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Bar
 
 #### *IN Ro Dar [Zaban Haye Dige](Translations.md) Bekhoonin.*
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Age Rooye Computeret GIT Nadari,Nasbesh Kon
 [Install It]( https://help.github.com/articles/set-up-git/).
@@ -24,7 +24,7 @@ IN Ye Copy Az Repository Miare Too Accountet
 
 ## Repository Ro Clone Kon
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 Hala Repo Ro Roo Computeret Clone Kon. Click Kon Roo Dokmeye Clome Va Bad Click Kon Rooye Icone *copy to clipboard*
 
 Terminal Ro Baz Kon Va Dastoorate Zir Ro Vared Kon:
@@ -34,7 +34,7 @@ git clone "url you just copied"
 ```
 Jayi Ke "URL You Just Copied" ( Bedoone Alamate " Vojood Dare ) URL IN Repository Ke Too Marhaleye Ghabli Didi Vojood Dare
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Baraye Mesal:
 ```
@@ -85,11 +85,11 @@ Be Jaye `<add-your-name>` Esme Branchi Ke Sakhte Boodi Ro Benevis.
 
 Age Beri Too Repository Roo GitHub, Dokmeye `Compare & pull request` Ro Mibini. Roosh Click Kon
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Hala Darkhate Pull Ro Submit Kon
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 Be Zoodi Man Tamame Taghiratet Ro Be Branche "Master" Ezafe Mikonam. Be Mahze IN Ke Taghirat Submit Shod Email Daryaft Mikoni
 
