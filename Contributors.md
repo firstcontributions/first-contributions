@@ -2053,6 +2053,7 @@
 - [Ludvig Falck](https://github.com/lfalck)
 - [Nick Bohannan](https://github.com/NickBohannan)
 - [Elena Yatzeck](https://github.com/eyatzeck)
+- [Sepehr Hosseini](https://github.com/ThirdScript)
 - [Sawan Singh Mahara](https://github.com/SmellingSalt)
 - [Joshua Denzau](https://github.com/joshdenz)
 - [David C](https://github.com/arbeglanretsc)
@@ -2083,3 +2084,5 @@
 - [Marcelo Ferreira](https://github.com/marcelosife)
 - [mcyusuf](https://github.com/mcyusuf)
 - [Aditya Gupta](https://github.com/ag93999)
+- [Alisson Valdir de Souza](https://github.com/alivs)
+- [Mitchell Jeppson](https://github.com/mitchelljeppson)

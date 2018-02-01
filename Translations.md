@@ -12,6 +12,8 @@
 | 🇯🇵 | [日本語](translations/README.ja.md) |
 | 🇻🇳 | [㗂越](translations/README.vn.md) |
 | 🇵🇱 | [Polski](translations/README.pl.md) |
+| 🇮🇷 | [Persian](translations/README.fa.md) |
+| 🇮🇷 | [Persian_Finglish](translations/README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](translations/README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](translations/README.ko.md) |
 | 🇩🇪  | [Plattdüütsch](translations/README.de.md) |
