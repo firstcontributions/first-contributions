@@ -2088,3 +2088,4 @@
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin] (https://github.com/camberlucian)
 - [Antonio Bucciol](https://github.com/TBuc)
+- [Gabriel Fanelli](https://github.com/gabrielfanelli)
