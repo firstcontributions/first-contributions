@@ -2038,3 +2038,4 @@
 - [Nishkt](https://github.com/nishkt)
 - [Greyson Jenkins](https://github.com/greysonjenkins)
 - [Adnen Saadaoui] (https://github.com/sadnen)
+- [Richard Magnelli] (https://github.com/rmagnelli1)
