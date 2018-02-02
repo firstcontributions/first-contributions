@@ -153,16 +153,13 @@ git push origin "add-your-name"
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## <div dir="rtl">دعاية</div>
-<div dir="rtl"> لو المشروع دة عجبك ممكن تديله نجمة على <a href="https://github.com/Roshanjossey/first-contributions">Github </a> </div>
-<div dir="rtl"> لو حابب الموضوع أوي ممكن تتابع <a href="https://roshanjossey.github.io/">Roshan </a></div> 
-<div dir="rtl">على <a href="https://twitter.com/sudo__bangbang">تويتر </a></div> 
-<div dir="rtl">و <a href="https://github.com/roshanjossey">GitHub </a></div> 
+<div dir="rtl"> لو المشروع دة عجبك ممكن تديله نجمة على <a href="https://github.com/Roshanjossey/first-contributions">Github </a> </div><div dir="rtl"> لو حابب الموضوع أوي ممكن تتابع <a href="https://roshanjossey.github.io/">Roshan </a></div> <div dir="rtl">على <a href="https://twitter.com/sudo__bangbang">تويتر </a></div> <div dir="rtl">و <a href="https://github.com/roshanjossey">GitHub </a></div> 
 
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
 
