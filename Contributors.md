@@ -1,4 +1,4 @@
-﻿- marcos-padilla
+- marcos-padilla
 - [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
 - [Phil Andrews](https://github.com/phil-andrews)
@@ -2088,6 +2088,7 @@
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin] (https://github.com/camberlucian)
 - [Antonio Bucciol](https://github.com/TBuc)
+- [Ryan Alexander](https://github.com/RKAlexander)
 - [Gabriel Fanelli](https://github.com/gabrielfanelli)
 - [Jaime Sandoval](https://github.com/jaimex8)
 - [Wynne Tran] (https://github.com/wynnethepooh)
