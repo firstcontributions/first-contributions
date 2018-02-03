@@ -1,6 +1,7 @@
 ﻿- [ankush-rawat](https://github.com/Rawkush)
 - marcos-padilla
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
+- [Prakhar Pandey](https://github.com/prakharvk)
 - [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
@@ -2106,4 +2107,6 @@
 - [Vishal Arora](https://github.com/aroravishal50)
 - [Brock Pinnington](https://github.com/dinkletron)
 - [Eoghan Murphy](https://github.com/Eoghan-Murphy)
+- [Belguith Omar](https://github.com/OmarBelguith)
 - [Basangeac Alexandru](https://github.com/Basa0)
+- [Yu Zhou](https://github.com/yuzhoujr)
