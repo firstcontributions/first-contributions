@@ -7,6 +7,8 @@
 
 Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
 
+#### *Ler em [outros idiomas](Translations.md)* 
+
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
@@ -31,9 +33,9 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as et
 
 Por exemplo:
 ```
-git clone https://github.com/este-eh-voce/first-contributions.git
+git clone https://github.com/este-e-voce/first-contributions.git
 ```
-onde "este-eh-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "este-e-voce" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
 ## Crie um Branch
 
