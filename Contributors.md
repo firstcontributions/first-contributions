@@ -2101,3 +2101,4 @@
 - [Kevin Nguyen] (https://github.com/kwin555)
 - [Vinícius Figueiredo](https://github.com/mvinoba)
 - [Nick Adriaanse](https://github.com/shinedog)
+- [Vishal Arora](https://github.com/aroravishal50)
