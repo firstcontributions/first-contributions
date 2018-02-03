@@ -2100,3 +2100,4 @@
 - [Edan Lewis](https://github.com/fishshiz)
 - [Kevin Nguyen] (https://github.com/kwin555)
 - [Vinícius Figueiredo](https://github.com/mvinoba)
+- [Nick Adriaanse](https://github.com/shinedog)
