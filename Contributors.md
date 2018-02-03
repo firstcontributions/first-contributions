@@ -1,5 +1,6 @@
 - ankush-rawat (https://github.com/Rawkush)
 - marcos-padilla
+- [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
 - [Phil Andrews](https://github.com/phil-andrews)
