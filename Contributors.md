@@ -1,5 +1,6 @@
 - [ankush-rawat](https://github.com/Rawkush)
 - marcos-padilla
+- [Prakhar Pandey](https://github.com/prakharvk)
 - [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
 - [Seanebum](https://github.com/seanebum)
