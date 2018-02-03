@@ -1,3 +1,5 @@
+
+﻿- [Connor McCurrie](https://github.com/adinsxx)
 - [ankush-rawat](https://github.com/Rawkush)
 - marcos-padilla
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
