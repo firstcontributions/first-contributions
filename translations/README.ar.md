@@ -3,17 +3,17 @@
 # <div dir="rtl">مساهمتك الأولى</div>
 
 <div dir="rtl">
-الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعج.
+الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرين، مما يجعل الوقوع في الخطأ مزعج.
 <br>
-لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سياعدونك في تصحيح هذا الخطأ.
+لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
 <br>
 في هذا المشروع هدفنا هو تبسيط الطريق لمساهمتك الأولى.
 </div>
 
 
 <div dir="rtl">
-القرائة ومشاهدة التعلميات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستسدفيت أكثر إذا إستطعت المساهمة في مشروع بدون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفيرك بالتوجيهات والتعليمات البسيطة لإتمام أول مساهمة.
-تذكر أن الخطأ متوقع والهدف أنك تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخي ومتابعة الخطوات المتوفرة لإتمام مشاركتك الأولى. نوعدك ستسمتع بذلك.
+القرائة ومشاهدة التعلميات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا إستطعت المساهمة في مشروع بدون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفيرك بالتوجيهات والتعليمات البسيطة لإتمام أول مساهمة.
+تذكر أن الخطأ متوقع والهدف أنك تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخي ومتابعة الخطوات المتوفرة لإتمام مشاركتك الأولى. نوعدك ستستمتع بذلك.
 </div>
 
 
@@ -41,7 +41,7 @@
 </div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
-إفتح التريمنال وأكتب الأمر التالي:
+إفتح التّرمنال وأكتب الأمر التالي:
 </div>
 
 ```
@@ -57,7 +57,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <div dir="rtl">
-في هذا المثال لاحظ 'this-is-you' سيكون إسم حسابك في موقع جيت هاب يتليه رابط المشروع اللذي فرقته في أول خطوة، الأمر هذا سينسخ محتويات المشروع إلى جهازك الخاص لتتمكن من التعديل عليه بحريه.
+في هذا المثال لاحظ 'this-is-you' سيكون إسم حسابك في موقع جيت هاب يتليه رابط المشروع اللذي فرقته في أول خطوة، الأمر هذا سينسخ محتويات المشروع إلى جهازك الخاص لتتمكن من التعديل عليه بحرية.
 </div>
 <br>
 
@@ -90,7 +90,7 @@ git checkout -b "add-alonzo-church"
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف إسمك ثم إحفظ الملف.
-بعد ذلك إذهب إلى الترمينال وأكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
+بعد ذلك إذهب إلى الترمنال وأكتب الأمر هذا<code>git status</code> هذا الأمر سيظهر لك التغيرات التي حدثت في المشروع.
 لإضافة هذه التغيرات قم بإضافتها عن طريق الأمر هذا <code>git add</code>.
 </div>
 
@@ -98,7 +98,7 @@ git checkout -b "add-alonzo-church"
 git add Contributors.md
 ```
 
-<div dir="rtl">الآن قم بإتمام التغيررات بإستخدام الأمر <code>git commit</code>.</div>
+<div dir="rtl">الآن قم بإتمام التغيّرات بإستخدام الأمر <code>git commit</code>.</div>
 
 ```
 git commit -m "Add <your-name> to Contributors list"
@@ -107,9 +107,9 @@ git commit -m "Add <your-name> to Contributors list"
 <div dir="rtl"> إستبدل <code>&#60;your-name&#62;</code> بإسمك. </div>
 <br>
 
-## <div dir="rtl"> إرفع التغيررات إلى جت هاب - Push changes to Github </div>
+## <div dir="rtl"> إرفع التغّيرات إلى جت هاب - Push changes to Github </div>
 
-<div dir="rtl">إرفع التغيررات عن طريق الأمر <code>git push</code></div>
+<div dir="rtl">إرفع التغيّرات عن طريق الأمر <code>git push</code></div>
 
 ```
 git push origin "add-your-name"
@@ -119,7 +119,7 @@ git push origin "add-your-name"
 
 
 <br>
-<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
+<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيّراتك للمراجعة</div></h2>
 
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. إضغط على هذا الزر.</div>
@@ -130,9 +130,9 @@ git push origin "add-your-name"
 
 <img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
+<div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيّراتك إلى الفرع الرئيسي في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 
-<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغيررات. عليك بمزامنته مع الفرع الرئيسي عن طريق الخطوات التالية.</div>
+<div dir="rtl">الفرع الرئيسي الخاص بك لن يحتوي على هذه التغيّرات. عليك بمزامنته مع الفرع الرئيسي عن طريق الخطوات التالية.</div>
 
 ## <div dir="rtl">مزامنة نسختك مع المشروع الرئيسي</div>
 
@@ -149,20 +149,20 @@ git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
 
 <div dir="rtl">بهذه الطريقة نخبر جت أن هناك نسخة أخرى من هذا المشروع في هذا الرابط ونسميها <code>upstream</code>.
-بعد أن أوافق على تغيرراتك، قم بسحب النسخة الجديدة من المشروع عن طريق الأمر التالي:
+بعد أن أوافق على تغيّراتك، قم بسحب النّسخة الجديدة من المشروع عن طريق الأمر التالي:
 </div>
 
 ```
 git fetch upstream
 ```
 
-<div dir="rtl">هنا سنقوم بسحب جميع التغيررات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
+<div dir="rtl">هنا سنقوم بسحب جميع التغيّرات من <code>(upstream remote)</code>. والآن، عليك أن تدمج التحديثات الجديدة من فرعي إلى فرعك الرئيسي.</div>
 
 ```
 git rebase upstream/master
 ```
 
-<div dir="rtl">وهنا تطبق التغيررات إلى الفرع الرئيسي. إذا رفعت التغيررات لفرعك الرئيسي سيتم تحديث مشروعك</div>
+<div dir="rtl">وهنا تطبق التغيّرات إلى الفرع الرئيسي. إذا رفعت التغيّرات لفرعك الرئيسي سيتم تحديث مشروعك</div>
 
 ```
 git push origin master
@@ -179,11 +179,11 @@ git push origin master
 
 ## <div dir="rtl">ماذا أفعل بعد هذا؟</div>
 
-<div dir="rtl">يمكنك الإنضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">إنضم إلى فريق Slack</a></div>
+<div dir="rtl">يمكنك الإنضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">إنضم إلى الفريق Slack</a></div>
 
 <br>
 
-<div dir="rtl">أيضا إطلع على المشاريع التالي وإبحث عن مشكال أو مميزات يمكنك حلها أو إضافتها، بالتوفيق.</div>
+<div dir="rtl">أيضا إطلع على المشاريع التالية وإبحث عن مشكال أو مميزات يمكنك حلها أو إضافتها، بالتوفيق.</div>
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
