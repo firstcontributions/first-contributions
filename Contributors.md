@@ -2105,5 +2105,6 @@
 - [Vishal Arora](https://github.com/aroravishal50)
 - [Brock Pinnington](https://github.com/dinkletron)
 - [Eoghan Murphy](https://github.com/Eoghan-Murphy)
+- [Belguith Omar](https://github.com/OmarBelguith)
 - [Basangeac Alexandru](https://github.com/Basa0)
 - [Yu Zhou](https://github.com/yuzhoujr)
