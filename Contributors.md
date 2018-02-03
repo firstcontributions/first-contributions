@@ -2103,4 +2103,4 @@
 - [Vinícius Figueiredo](https://github.com/mvinoba)
 - [Nick Adriaanse](https://github.com/shinedog)
 - [Vishal Arora](https://github.com/aroravishal50)
-- [Brock Pinnington]*(https://github.com/dinkletron)
+- [Brock Pinnington](https://github.com/dinkletron)
