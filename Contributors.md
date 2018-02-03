@@ -2105,3 +2105,4 @@
 - [Vishal Arora](https://github.com/aroravishal50)
 - [Brock Pinnington](https://github.com/dinkletron)
 - [Eoghan Murphy](https://github.com/Eoghan-Murphy)
+- [Basangeac Alexandru](https://github.com/Basa0)
