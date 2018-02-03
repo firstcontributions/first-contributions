@@ -2115,3 +2115,4 @@
 - [Jessie Rymph] (https://github.com/forcethesales)
 - [Gabriel Huwe](https://github.com/ghuwe)
 - [Joseph Umano] (https://github.com/jsumano)
+- [Dany Likoris] (https://github.com/likorisd)
