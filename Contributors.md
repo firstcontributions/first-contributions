@@ -2160,5 +2160,6 @@
 - [teuzi](https://github.com/teuzi)
 - [Jason Dailey](https://github.com/jpdail01)
 - [Nicola Carpene](https://github.com/zeronicola3)
+- [Rahul Kumar](https://github.com/rkredux)
 - [Jurica](https://github.com/juricav/)
 - [Dhruvam Sharma](https://github.com/DhruvamSharma)
