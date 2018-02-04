@@ -2139,5 +2139,6 @@
 - [Schacal](https://github.com/Schacal)
 - [Matthew Sweet](https://github.com/themattbook)
 - [mtawse](https://github.com/mtawse)
+- [lemoneydes](https://github.com/lemoneydes)
 - [Lazizhon Ahmedov](https://github.com/lazizhon)
 - [Mikel Tejero](https://github.com/teje87)
