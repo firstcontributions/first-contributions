@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
+    "react-router-dom": "^4.2.2",
     "react-select": "^1.0.0-rc.10"
   },
   "scripts": {
