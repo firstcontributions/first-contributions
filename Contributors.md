@@ -2156,4 +2156,5 @@
 - [Suraj Bhor](https://github.com/Suraj-Bhor)
 - [Ozgur Toprak](https://github.com/ToprakOzgur)
 - [Vadim Pochivalin](https://github.com/vakhet)
+- [Jason Dailey](https://github.com/jpdail01)
 - [Nicola Carpene](https://github.com/zeronicola3)
