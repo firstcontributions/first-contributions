@@ -1,3 +1,4 @@
+- [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
@@ -2156,3 +2157,5 @@
 - [Suraj Bhor](https://github.com/Suraj-Bhor)
 - [Ozgur Toprak](https://github.com/ToprakOzgur)
 - [Vadim Pochivalin](https://github.com/vakhet)
+
+
