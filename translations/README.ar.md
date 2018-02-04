@@ -13,10 +13,9 @@
 #### *Read this in [other languages](Translations.md).*
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-<div dir="rtl">
-إذا لم يكن لديك جت على الجهاز الخاص بك،( https://help.github.com/articles/set-up-git/)[قم بتثبيته]. من هنا
+اذا ليس لديك جت على حاسوبك فقم [بتسجيله](https://help.github.com/articles/set-up-git/).
 
-## <div dir="rtl"> إفرق هذا المشروع - Fork this Repository </div>
+##  إفرق هذا المشروع - Fork this Repository
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
 <div dir="rtl">
 إفرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
