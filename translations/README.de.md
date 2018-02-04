@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
 
-Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open Source Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
 Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
@@ -12,15 +12,15 @@ Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com
 
 ## Repository forken
 
-Forke das Repository durch klicken auf Knopf "Fork". Dadurch enthälst du deine eigenen Version des Projektes in deinem Profil.
+Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhältst du deine eigenen Version des Projektes in deinem Profil.
 
 ## Repository klonen
 
 <img align="right" width="300" src="../assets/clone.png" alt="Repository klonen" />
 
-Klone das Repository auf deinen Computer. Klicke auf den Button "Clone or download" und anschließend auf das "copy to clipboard" Symbol.
+Klone das Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard" Symbol.
 
-Öffne eine Kommandozeile gib das folgende git Kommando ein:
+Öffne eine Kommandozeile und gib das folgende git Kommando ein:
 
 ```
 git clone "Deine kopierte URL"
@@ -83,7 +83,7 @@ Erstelle einen Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
-Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhälst eine E-Mail sobald dies geschehen ist. 
+Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
 
 ## Einen Branch aus deinem Repository löschen
 Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
@@ -103,7 +103,7 @@ Lösche nun den Branch `<add-dein-Name>` in deiner Arbeitskopie:
 git branch -d <add-dein-Name>
 ```
 
-Damit hast du nun dein Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angenommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
+Damit hast du nun deinen Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angenommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
 
 Um einen Branch auf GitHub zu löschen verwende folgenden Befehl:
 ```
@@ -144,7 +144,7 @@ Hier laden wir alle Änderungen von Roshanjosseys Forks herunter (upstream). Dan
 ```
 git rebase upstream/master
 ```
-So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an. Deine lokale Kopie hat nur den gleichen Stand, wie das öffentliche Repository. Wenn du den Master Branch jetzt pushst, ist auch dein Fork auf GitHub wieder aktuell.
+So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an. Deine lokale Kopie hat nun den gleichen Stand, wie das öffentliche Repository. Wenn du den Master Branch jetzt pushst, ist auch dein Fork auf GitHub wieder aktuell.
 ```
 git push origin master
 ```
