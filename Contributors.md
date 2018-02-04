@@ -1,4 +1,4 @@
-﻿- [Daniel Contreras](https://github.com/danielcontreras)
+- [Daniel Contreras](https://github.com/danielcontreras)
 - [Connor McCurrie](https://github.com/adinsxx)
 - [ankush-rawat](https://github.com/Rawkush)
 - marcos-padilla
@@ -2123,3 +2123,4 @@
 - [th3r1singking] (https://github.com/th3r1singking)
 - [Joshua Kennedy](https://github.com/joshkennede)
 - [Tom Zhang] (https://github.com/TomZhangg)
+- [Melissa Lucas] (https://github.com/mlucas2218)
