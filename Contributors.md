@@ -2102,6 +2102,7 @@
 - [Jaime Sandoval](https://github.com/jaimex8)
 - [Wynne Tran](https://github.com/wynnethepooh)
 - [Dongmin An](https://github.com/dksehdals216)
+- [Videet Singhai](https://github.com/videetssinghai)
 - [Pablo](https://github.com/pfragai)
 - [Matija Maric](https://github.com/matya157)
 - [Harry Kim](https://github.com/veryveryharry)
