@@ -2136,3 +2136,6 @@
 - [imaN Neo](https://github.com/imaNNeoFighT)
 - [alik](https://github.com/ochebotar)
 - [suchendra](https://github.com/suchendra)
+- [mtawse](https://github.com/mtawse)
+- [Lazizhon Ahmedov](https://github.com/lazizhon)
+- [Mikel Tejero](https://github.com/teje87)
