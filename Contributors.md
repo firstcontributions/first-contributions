@@ -2133,6 +2133,7 @@
 - [Josh Burgess](https://github.com/joshburgess79)
 - [Sharat Madanapalli](https://github.com/sharat910)
 - [Ersikan](https://github.com/Ersikan)
+- [Fabio Mancin](https://github.com/fender1990)
 - [imaN Neo](https://github.com/imaNNeoFighT)
 - [alik](https://github.com/ochebotar)
 - [mtawse](https://github.com/mtawse)
