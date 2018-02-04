@@ -2167,3 +2167,4 @@
 - [delovan](https://github.com/delovan)
 - [Irsyad](https://github.com/irxd)
 - [Broadteam](https://github.com/broadteam)
+- [Humding3r](https://github.com/Humding3r)
