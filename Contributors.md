@@ -2124,6 +2124,7 @@
 - [th3r1singking](https://github.com/th3r1singking)
 - [Joshua Kennedy](https://github.com/joshkennede)
 - [Tom Zhang](https://github.com/TomZhangg)
+- [Melissa Lucas](https://github.com/mlucas2218)
 - [Kyle OBrien](https://github.com/webbhostnet)
 - [Firas Omrane](https://github.com/firou1925)
 - [Dany Likoris](https://github.com/likorisd)
