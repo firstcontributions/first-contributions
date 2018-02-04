@@ -1,3 +1,4 @@
+- [Taylor Short](https://github.com/treddson)
 - ankush-rawat (https://github.com/Rawkush)
 - marcos-padilla
 - [Steven Siperko](https://github.com/ssiperko)
