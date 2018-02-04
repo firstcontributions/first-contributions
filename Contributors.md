@@ -368,3 +368,4 @@
 - [Zachary Amerman](https://github.com/zamerman)
 - [Arif Iqbal] (https://github.com/arifktk32)
 - [Tom Powell] (https://github.com/thatlegendtom)
+- [Sidi said Karim] (https://github.com/sidisaidkarim)
