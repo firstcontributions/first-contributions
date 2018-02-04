@@ -1,4 +1,4 @@
-- [Ruslan Vostretsov] (https://github.com/RD-503/)
+- [Ruslan Vostretsov](https://github.com/RD-503)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
 - [Daniel Contreras](https://github.com/danielcontreras)
