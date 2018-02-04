@@ -2167,3 +2167,6 @@
 - [delovan](https://github.com/delovan)
 - [Irsyad](https://github.com/irxd)
 - [Namrata Mukhija](https://github.com/Namrata96)
+- [Broadteam](https://github.com/broadteam)
+- [Humding3r](https://github.com/Humding3r)
+- [marceltransier](https://github.com/marceltransier)
