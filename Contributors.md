@@ -584,6 +584,7 @@
 - [Shashank Shekhar](https://github.com/thunderandrain)
 - [Sergio Gayon](https://github.com/sergaben)
 - [Zachary Amerman](https://github.com/zamerman)
+- [Sidi said Karim](https://github.com/sidisaidkarim)
 - [Arif Iqbal](https://github.com/arifktk32)
 - [Tom Powell](https://github.com/thatlegendtom)
 - [Karim Sidi Said](https://github.io/thessk)
