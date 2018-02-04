@@ -13,19 +13,18 @@
 #### *Read this in [other languages](Translations.md).*
 
 اذا ليس لديك جت على حاسوبك فقم [بتسجيله](https://help.github.com/articles/set-up-git).
-<img style="float: right;" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 ##  إفرق هذا المشروع
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
 إفرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع في حسابك الخاص.
 
+
+
+## إستنسخ هذا المشروع
 <img style="float: right;" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 <img style="float: right;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-## إستنسخ هذا المشروع
-
 
 استنسخ هذا المشروع إلى جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
@@ -127,8 +126,8 @@ git push origin "add-your-name"
 ## اشهار 
 
 اذا أعجبك هذا المشروع أنقر على النّجمة [GitHub](https://github.com/Roshanjossey/first-contributions).
-اذا اردت يمكنك متابعتي [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+اذا اردت يمكنك متابعتي [Roshan](https://roshanjossey.github.io/) في
+[Twitter](https://twitter.com/sudo__bangbang) و
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
