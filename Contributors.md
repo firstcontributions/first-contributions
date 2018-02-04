@@ -1,3 +1,4 @@
+- [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
 - [Daniel Contreras](https://github.com/danielcontreras)
 - [Connor McCurrie](https://github.com/adinsxx)
