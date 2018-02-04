@@ -1,3 +1,4 @@
+- [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
@@ -2157,3 +2158,7 @@
 - [Ozgur Toprak](https://github.com/ToprakOzgur)
 - [Vadim Pochivalin](https://github.com/vakhet)
 - [teuzi](https://github.com/teuzi)
+- [Jason Dailey](https://github.com/jpdail01)
+- [Nicola Carpene](https://github.com/zeronicola3)
+- [Jurica](https://github.com/juricav/)
+- [Dhruvam Sharma](https://github.com/DhruvamSharma)
