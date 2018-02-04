@@ -1,3 +1,4 @@
+- [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
@@ -2147,5 +2148,7 @@
 - [Mikel Tejero](https://github.com/teje87)
 - [Dave Regg](https://github.com/drregg6)
 - [Agitaev Seid Akhmed](https://github.com/agitaev)
+- [Ron Montero](https://github.com/rhmdev)
 - [ZoomStop](https://github.com/ZoomStop)
 - [Natalia Nazaruk] (https://github.com/natansalda)
+- [Danny Mcwaves](https://github.com/DannyMcwaves)
