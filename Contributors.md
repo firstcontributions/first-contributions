@@ -1,4 +1,4 @@
-- [Ruslan Vostretsov](https://github.com/RD-503)
+﻿- [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
@@ -2159,3 +2159,4 @@
 - [Jason Dailey](https://github.com/jpdail01)
 - [Nicola Carpene](https://github.com/zeronicola3)
 - [Jurica](https://github.com/juricav/)
+- [Dhruvam Sharma](https://github.com/DhruvamSharma)
