@@ -2121,3 +2121,4 @@
 - [D H] (https://github.com/yeaido)
 - [Akshdeep Sharma] (https://github.com/akshdeepsharma)
 - [th3r1singking] (https://github.com/th3r1singking)
+- [Joshua Kennedy](https://github.com/joshkennede)
