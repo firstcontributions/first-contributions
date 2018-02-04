@@ -12,8 +12,7 @@
 
 #### *Read this in [other languages](Translations.md).*
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-اذا ليس لديك جت على حاسوبك فقم [بتسجيله](https://help.github.com/articles/set-up-git/).
+اذا ليس لديك جت على حاسوبك فقم [بتسجيله](https://help.github.com/articles/set-up-git).
 
 ##  إفرق هذا المشروع - Fork this Repository
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
