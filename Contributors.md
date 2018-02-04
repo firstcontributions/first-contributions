@@ -2148,3 +2148,4 @@
 - [Dave Regg](https://github.com/drregg6)
 - [Agitaev Seid Akhmed](https://github.com/agitaev)
 - [ZoomStop](https://github.com/ZoomStop)
+- [Natalia Nazaruk] (https://github.com/natansalda)
