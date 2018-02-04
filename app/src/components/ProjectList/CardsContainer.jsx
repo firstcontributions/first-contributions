@@ -14,10 +14,10 @@ export default class CardsContainer extends React.Component {
     }
     this.setTags = new Set();
     this.filterOptions = [];
-    filterOptions.sort();
     for (let i = 0; i < projectList.length; i++) {
       if (projectList[i].tags) {
         projectList[i].tags.forEach(tag => {
+          projectList[i].tags.sort()
           this.setTags.add(tag)
         })
       }

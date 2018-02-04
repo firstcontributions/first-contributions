@@ -25,7 +25,7 @@ const projectList = [
     githubLink:
       'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-Easy',
     description: 'Modern applications with built-in automation',
-    tags: ['Docs','Front-end','Rust','MultiOS'],
+    tags: ['Docs','Front-End','Rust','MultiOS'],
   }, {
     name: 'Scikit-learn',
     imageSrc: 'https://avatars0.githubusercontent.com/u/365630?v=3&s=100',
@@ -74,7 +74,7 @@ const projectList = [
     imageSrc: 'https://avatars1.githubusercontent.com/u/6128107?v=3&s=100',
     githubLink: 'https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22',
     description: 'A progressive, incrementally-adoptable JavaScript framework for building UI on the web',
-    tags: ['JavaScript', 'UI', 'Front-end'],
+    tags: ['JavaScript', 'UI', 'Front-End'],
   }, {
     name: 'Suave',
     imageSrc: 'https://avatars2.githubusercontent.com/u/5822862?v=3&s=100',
@@ -106,7 +106,7 @@ const projectList = [
     githubLink:
       'https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs',
     description: 'Parse, validate, manipulate, and display dates in JavaScript',
-    tags: ['JavaScript', 'Front-end', 'Meta'],
+    tags: ['JavaScript', 'Front-End', 'Meta'],
   }, {
     name: 'Leiningen',
     imageSrc:
@@ -176,7 +176,7 @@ const projectList = [
     githubLink:
       'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration',
-    tags: ['React', 'Library', 'Component', 'Front-end'],
+    tags: ['React', 'Library', 'Component', 'Front-End'],
   }, {
     name: 'Contribute to Open Source',
     imageSrc: 'https://image.ibb.co/fUM5oG/profile_first_pr.png',
@@ -203,7 +203,7 @@ const projectList = [
     imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
     githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
     description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
-    tags: ['Typescript', 'Text-Editor', 'Electron']
+    tags: ['TypeScript', 'Text-Editor', 'Electron']
   },
   {
     name: 'Scrapy',
@@ -216,7 +216,7 @@ const projectList = [
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
     githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
-    description: 'Angular is a development platform for building mobile and desktop Web Applications using Typescript or JavaScript and other languages.',
+    description: 'Angular is a development platform for building mobile and desktop Web Applications using TypeScript or JavaScript and other languages.',
     tags: ['Angular', 'TypeScript', 'JavaScript']
   },
   {
