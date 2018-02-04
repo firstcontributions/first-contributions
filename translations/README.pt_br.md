@@ -5,11 +5,13 @@
 
 É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas nada melhor do realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+Ler artigos e ver tutoriais pode ajudar, mas nada melhor do que realmente "pôr a mão na massa" sem estragar nada. Este projeto visa simplificar a forma com que os novatos fazem a sua primeira contribuição. Lembre-se: quanto mais relaxado você estiver, melhor aprenderá. Se quiser fazer a sua primeira contribuição, siga os passos abaixo. Nós prometemos, será divertido.
+
+#### *Ler em [outros idiomas](Translations.md)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
-Se não possui o git em sua máquina, [clique aqui]( https://help.github.com/articles/set-up-git/ ).
+Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faça um Fork deste repositório
 
@@ -19,7 +21,7 @@ Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar u
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositório" />
 
-Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no icone "Copy to clipboard".
+Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
 
 Abra o seu terminal e execute o seguinte comando do git:
 ```
@@ -37,12 +39,12 @@ onde "este-e-voce" é o seu usuário do GitHub. Aqui você está copiando o cont
 
 ## Crie um Branch
 
-Vá para o diretório do repositório no seu computador (caso você não esteja lá).
+Vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`
+Agora crie um Branch usando o comando `git checkout`:
 ```
 git checkout -b <add-seu-nome>
 ```
@@ -51,9 +53,9 @@ Por exemplo:
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não necessita ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
+Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
-## Efetue as alterações necessárias e faça um Commit.
+## Efetue as alterações necessárias e faça um Commit
 
 Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
 ```
@@ -85,56 +87,20 @@ Agora envie um Pull Request.
 
 Logo estarei mesclando as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
-O Branch principal (master) do seu Fork não terá as mudanças. Para manter o seu Fork sincronizado com o meu, siga os passos abaixo.
-
-## Mantendo o seu Fork sincronizado com este repositório
-
-Primeiro, troque para o Branch principal (master).
-```
-git checkout master
-```
-
-Em seguida, adicione a URL do meu repositório como `upstream remote url`:
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-Esta é uma forma de dizer ao Git que existe uma outra versão deste projeto na URL especificada e estamos chamando-a de `upstream`. Depois que as alterações forem mescladas, busque a nova versão do meu repositório:
-```
-git fetch upstream
-```
-
-Aqui estamos buscando todas as mudanças no meu Fork (upstream remote). Agora, você precisa mesclar a nova revisão do meu repositório no seu Master Branch.
-```
-git rebase upstream/master
-```
-Aqui você está aplicando todas as mudanças que buscou para o seu Branch principal (master). Se você fizer um Push para o seu Branch principal (master) agora, seu Fork também terá as alterações.
-```
-git push origin master
-```
-Note que aqui você está fazendo um Push para a URL remota chamada origin.
-
-Neste momento, eu mesclei o seu Branch `<add-your-name>` com o meu Branch principal (master), e você mesclou o meu Branch principal (master) com o seu próprio Branch principal (master). O Branch que você criou para adicionar o seu nome a lista não é mais necessário, então você pode deletá-lo:
-```
-git branch -d <add-your-name>
-```
-e você pode deletar a versão deste repositório no repositório remoto também:
-```
-git push origin --delete <add-your-name>
-```
-Isso não é necessário, mas o nome desse Branch mostra seu propósito bastante especial. Seu tempo de utilidade é curto.
+### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
 ## Tutoriais com outras ferramentas
 
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../(github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Para onde ir a partir daqui?
 
-Você tambem pode se juntar a nossa equipe Slack no caso de você precisar de alguma ajuda ou ter alguma dúvida. [Junte-se a nossa equipe Slack](https://firstcontributions.herokuapp.com).
+Você tambem pode se juntar a nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se a nossa equipe no Slack](https://firstcontributions.herokuapp.com).
 
-Aqui estão alguns repositórios a nível de iniciante que você poderia resolver. Vá em frente para aprender mais.
+Aqui estão alguns repositórios com Issues a nível de iniciante que você poderia resolver. Vá em frente e clique nos repositórios para saber mais.
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

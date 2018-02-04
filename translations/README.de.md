@@ -2,19 +2,25 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
 
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
+
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+
+*Dieser Artikel ist in folgenden anderen Sprachen verfügbar: [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md), [Português/Brasil](translations/README.pt_br.md) and [Italian](translations/README.it.md).*
+
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
 ## Repository forken
 
-Forke das Repo durch klicken auf den fork button
+Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhältst du deine eigenen Version des Projektes in deinem Profil.
 
 ## Repository klonen
 
 <img align="right" width="300" src="../assets/clone.png" alt="Repository klonen" />
 
-Klone das Repo auf deinen Computer. Klicke auf den clone button und anschliessend auf das "copy to clipboard" icon
+Klone das Repository auf deinen Computer. Klicke auf die Schaltfläche "Clone or download" und anschließend auf das "copy to clipboard" Symbol.
 
-Öffne ein terminal gib das folgende git Kommando ein:
+Öffne eine Kommandozeile und gib das folgende git Kommando ein:
 
 ```
 git clone "Deine kopierte URL"
@@ -25,20 +31,20 @@ Statt 'Deine kopierte URL' (ohne Anführungszeichen) füge die Repository URL au
 
 Beispiel:
 ```
-git clone https://github.com/dein-account/first-contributions.git
+git clone https://github.com/dein-Name/first-contributions.git
 ```
-An der Stelle 'dein-account' muss dein Github Username stehen. Hier landet die Kopie deines first-contributions repository von Github.
+An der Stelle 'dein-Name' muss dein Github Username stehen. Hier landet die Kopie deines first-contributions Repository von Github.
 
 ## Erstelle einen Branch
 
-Wechsle zum Repository Verzeichnis auf deinem Computer, falls du es nicht schon getan hast.
+Wechsle zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon getan hast).
 
 ```
 cd first-contributions
 ```
 Erstelle nun einen Branch mit dem Befehl `git checkout command`
 ```
-git checkout -b <add-dein-name>
+git checkout -b <add-dein-Name>
 ```
 
 Beispiel:
@@ -46,30 +52,30 @@ Beispiel:
 git checkout -b add-max-mustermann
 ```
 
-## Mache die nötigen Änderungen and committe sie
+## Mache die nötigen Änderungen und committe sie
 
-Öffne `Contributors.md` in einem Text-Editor, füge deinen Namen hinzu und speichere die Datei. Gibst du im Terminal nun `git status` ein, siehst du die Änderungen. Füge die Änderungen mit dem Befehl `git add` hinzu.
+Öffne `Contributors.md` in einem Text-Editor, füge deinen Namen hinzu und speichere die Datei. Gibst du in der Kommandozeile nun `git status` ein, siehst du die Änderungen. Füge die Änderungen mit dem Befehl `git add` hinzu.
 ```
 git add Contributors.md
 ```
 
 Nun committest du mit `git commit`.
 ```
-git commit -m "Add <dein-name> to Contributors list"
+git commit -m "Add <dein-Name> to Contributors list"
 ```
-Ersetze `<dein-name>` mit deinem Namen.
+Ersetze `<dein-Name>` mit deinem Namen.
 
 ## Pushe die Änderung zu Github
 
 Pushe die Änderungen mit `git push`
 ```
-git push origin <add-dein-name>
+git push origin <add-dein-Name>
 ```
-Ersetze `<add-dein-name>` mit dem Namen des Branches, den du zuvor erstellt hast.
+Ersetze `<add-dein-Name>` mit dem Namen des Branches, den du zuvor erstellt hast.
 
 ## Sende deine Änderungen zum Review
 
-Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen `Compare & pull request` button. Klicke darauf.
+Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen Knopf `Compare & pull request`. Klicke darauf.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="Erstelle einen pull request" />
 
@@ -77,37 +83,85 @@ Erstelle einen Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
 
+Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
+
+## Einen Branch aus deinem Repository löschen
+Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
+
+Lass uns dazu zuerst den Branch `<add-dein-Name>` aus deiner lokalen Arbeitskopie in deinen master Branch mergen. Dazu wechseln wir zuerst in den master:
+```
+git checkout master
+```
+
+Merge `<add-dein-Name>` zu Master deiner lokalen Arbeitskopie:
+```
+git merge <add-dein-Name> master
+```
+
+Lösche nun den Branch `<add-dein-Name>` in deiner Arbeitskopie:
+```
+git branch -d <add-dein-Name>
+```
+
+Damit hast du nun deinen Branch `<add-dein-Name>` in deiner lokalen Arbeitskopie gelöscht. In deinem öffentlichen Repository auf GitHub ist er aber weiterhin vorhanden. Wenn du ihn auch dort löschen möchtest, stelle zuerst sicher, dass du einen Pull Request gestellt hast und er von Roshanjossey angenommen wurde. Du solltest keine Branches löschen solange sie Änderungen enthalten, die nicht gemergt sind!
+
+Um einen Branch auf GitHub zu löschen verwende folgenden Befehl:
+```
+git push origin --delete <add-dein-Name>
+```
+
+Nun weißt du, wie man Branches am Ende ihrer Lebenszeit löscht.
+
+So wie du einen Pull Request gestellt hast, werden hoffentlich viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
+
 ## Halte deinen Fork syncron
 
-Ich werde nun deine Änderungen in den Master Branch dieses Projekts mergen. In deinen Fork werden die Änderungen aber nicht übernommen. Damit er synchronisiert bleibt, füge meine Repo URL mit `upstream remote url` hinzu.
+Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
+`github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das ist wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Projekt Pull Request stellen kannst.
+
+Hier die Schritte für eine vollständige Synchronisation:
+
+Stelle zuerst sicher, dass du im Master Branch deiner Arbeitskopie bist. Dies kannst du mit folgendem Befehl prüfen:
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git status
 ```
-Auf diese Weise sagst du Git, dass es noch eine andere Version dieses Projekts gibt, die wir upstream nennen. Sobald die Änderungen gemerged sind, lade die neueste Version des Repository's.
+Wenn du nicht im Master bist, dann wechsle mit folgendem Befehl:
+```
+git checkout master
+```
+
+Füge Roshanjossey Repository URL mit `upstream remote url` hinzu.
+
+```
+git remote add upstream https://github.com/Roshanjossey/first-contributions
+```
+Auf diese Weise sagst du Git, dass es noch eine andere Version dieses Projekts gibt, die wir upstream nennen. Lade nur die neueste Version dieses Repositories.
 ```
 git fetch upstream
 ```
 
-Hier laden wir alle Änderungen meines Forks herunter (upstream remote). Nun musst du die neueste Version meines Repository's in deinen Master Branch mergen.
+Hier laden wir alle Änderungen von Roshanjosseys Forks herunter (upstream). Danach müssen wir dessen Änderungen in den Master deiner lokalen Arbeitskopie mergen.
 ```
 git rebase upstream/master
 ```
-So wendest du alle Änderungen, die du heruntergeladen hast, in den Master Branch. Wenn du den Master Branch jetzt pushst, ist auch dein Fork wieder aktuell.
+So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an. Deine lokale Kopie hat nun den gleichen Stand, wie das öffentliche Repository. Wenn du den Master Branch jetzt pushst, ist auch dein Fork auf GitHub wieder aktuell.
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote names origin pushen musst.
+Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 
 ## Wie geht es weiter?
 
-Hier sind einige Anfänger-Level issues in bekannten repos die du lösen kannst. Schau sie dir an und erfahre mehr darüber
+Wenn du weitere Fragen hast kannst du Mitglied in unserem Slackteam werden. [Join slack team](https://firstcontributions.herokuapp.com)
+
+Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories die du lösen kannst. Schau sie dir an und erfahre mehr darüber
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

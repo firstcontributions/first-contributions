@@ -1,21 +1,27 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+# Eerste bijdragen
 
 Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je samen werkt kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
 
-Het lezen van artikelen en het bekijken van video's kan helpen, maar wat is beter dan het gelijk doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
+Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
+#### *Lees dit in [andere talen](../Translations.md)* 
+
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
-## Deze repo forken
+## Deze repository forken
 
-Fork deze repo door op de fork knop te klikken
+Fork deze repository door op de fork knop te klikken. Dit creëert een kopie van deze repository in jouw account.
 
-## De repo clonen
+## De repository clonen
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Kloon nu deze repo naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon
+Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon.
 
 Open een terminal en voer volgend git commando uit:
 
@@ -30,7 +36,7 @@ Bijvoorbeeld:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Waar 'this-is-you' je Github gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op Github naar je systeem.
+Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je inhoud van de first-contributions repo op GitHub naar je systeem.
 
 ## Een branch aanmaken
 
@@ -48,6 +54,7 @@ Bijvoorbeeld:
 ```
 git checkout -b add-thibmaek
 ```
+(De naam van de branch hoeft niet *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
 
 ## Maak de benodigde wijzigingen en commit deze
 
@@ -62,7 +69,7 @@ git commit -m "Add <jouw-naam> to Contributors list"
 ```
 vervang `<jouw-naam>` met jouw naam
 
-## Push de wijzigingen naar Github
+## Push de wijzigingen naar GitHub
 
 Push je wijzigingen met `git push`
 ```
@@ -72,7 +79,7 @@ Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaa
 
 ## Verstuur je wijzigingen voor review
 
-Als je naar je repository gaat op Github, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
+Als je naar je repository gaat op GitHub, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 

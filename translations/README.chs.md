@@ -1,31 +1,35 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 
-# First Contributions
+# 第一次参与开源
+
+万事起头难。特别是和其他人合作时，犯错格外令人不舒服。不过，开源的本质就是和其他人合作。我们希望为初学者带来一个简单的方法去学习及参与开源项目。
+
+阅读文章和观看教程会有所帮助。不过，有什麽方法能比，在不会弄乱任何东西的情况下，实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 *其他语言版本: [英语](../README.md), [西班牙语](README.es.md), [荷兰语](README.nl.md), [印度语](README.hi.md), [俄语](README.ru.md), [日语](README.ja.md), [越南语](README.vn.md), [波兰语](README.pl.md), [韩语](README.ko.md), [德语](README.de.md), [简体中文](README.chs.md), [繁体中文](README.cht.md), [Greek](README.gr.md).*
 
-如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ]( https://help.github.com/articles/set-up-git/ )进行安装。
+如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
 
 ## Fork（复制）本代码仓库
 
-通过点击图示中的按钮，Fork 这个代码仓库。
-这个操作会将这个代码仓库复制到你的账户名下。
+点击图示中的按钮去 Fork 这个代码仓库。
+这个操作会将代码仓库复制到你的账户名下。
 
 ## Clone（克隆）代码仓库
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-接下来将复制后的代码仓库克隆到你的电脑上，点击图示中的绿色按钮，接着再点击复制到剪切版按钮（将代码仓库地址复制下来）
+接下来，将复制後的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切版按钮（将代码仓库地址复制下来）
 
-随后打开命令行窗口，敲入如下 git 命令：
+随後打开命令行窗口，敲入如下 git 命令：
 
 ```
-git clone "才复制的 url 链接"
+git clone "刚才复制的 url 链接"
 ```
-"才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。如何获取这个链接地址请见上一步。
+"刚才复制的 url 链接"（去掉双引号）就是复制到你账户名下的代码仓库地址。获取这链接地址的方法请见上一步。
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -33,11 +37,12 @@ git clone "才复制的 url 链接"
 ```
 git clone https://github.com/你的Github用户名/first-contributions.git
 ```
-'你的 Github 用户名' 指的就是你的 Github 用户名。在这一步中，你是将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
+
+'你的 Github 用户名' 指的就是你的 Github 用户名。这一步，你将复制到你账户名下的 first-contributions 这个代码仓库克隆到本地电脑上。
 
 ## 新建一个分支
 
-通过下面这个命令在命令行窗口中切换到 first-contributions 这个目录下面
+下面的命令能在命令行窗口中，把目録切换到 first-contributions 
 
 ```
 cd first-contributions
@@ -49,12 +54,14 @@ git checkout -b <新分支的名称>
 
 譬如：
 ```
-git checkout -b 新分支的名称
+git checkout -b add-myname
 ```
 
-## 对代码进行修改，而后 commit 修改
+(新分支的名称不一定需要有* add *。然而，在新分支的名称加入* add *是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
 
-打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。通过 `git status` 这个命令你可以看到被改动了的文件被列了出来。接着通过 `git add` 命令则可以添加你的改动（以便随后提交改动），就像如下这条命令。
+## 对代码进行修改，而後 Commit (提交) 修改
+
+打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
 ```
 git add Contributors.md
 ```
@@ -65,15 +72,15 @@ git commit -m "Add <你的名字> to Contributors list"
 ```
 将 `<你的名字>` 替换为你的名字
 
-## 将改动 Push（提交）到 Github
+## 将改动 Push（发布）到 GitHub
 
-使用 `git push` 命令提交代码
+使用 `git push` 命令发布代码
 ```
 git push origin <分支的名称>
 ```
-将 `<分支的名称>` 替换为之前新建的分支名称
+将 `<分支的名称>` 替换为之前新建的分支名称。
 
-## 提交你的变动供他人审阅
+## 提出 Pull Request 将你的修改供他人审阅
 
 前往 Github 你的代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
 
@@ -83,36 +90,22 @@ git push origin <分支的名称>
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-## 让你复制的代码仓库和本仓库保持一致
+不久之後，我便会把你所有的变化合并到这个项目的主分支。更改合并後，你会收到通知电邮。
 
-收到你提交的变动后，我会将你提交到新分支中的改动，合并到 master（主分支）中。而你复制的代码仓库不会自动获取到合并后的更新内容。为了让你复制的代码仓库和我的代码仓库内容保持一致，首先你需要将我的代码仓库的地址使用 `upstream remote url` 命令添加到你的仓库配置信息中。
-```
-git remote add upstream https://github.com/multunus/first-contributions
-```
-如此一来，你就让 git 知道了你本地的这个代码仓库在远端还存在另一个版本（即我的代码仓库），而那个版本我们将其叫做 upstream。一旦我合并了你提交的改动到我的代码仓库后，你在本地通过下面这个命令便能将更新的内容同步到本地。
-```
-git fetch upstream
-```
+### [ 更多资料 ](additional-material/additional-material.md)
 
-通过上面这个命令，我们便将远端我的代码仓库（upstream remote）中所有新增的改动抓回到了本地。但这样还没有结束，接下来，你也需要将更新 rebase（按照 git 中文文档将其翻译为 '衍合'）进入你本地的 master 主分支中。
-```
-git rebase upstream/master
-```
-通过上面这个命令，你就能够将从远端抓下来的所有改动衍合到本地的 master 主分支中。接着如果你再做一次 push master 提交你本地代码到你自己的远端主分支的操作，你在 Github 上复制的远端代码仓库就也包含最新的代码了。
-```
-git push origin master
-```
-注意，上面这个命令中，你远端的代码仓库的名字叫做 origin。
-
-## 教程使用其他工具
+## 使用其他工具的教程
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## 接下来做什么呢？
 
-通过下面这些链接，你能看到当前流行的众多代码仓库中，适合初学者解决的问题列表，还等什么，去吧 :)
+## 接下来做什麽呢？ 
+
+如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://firstcontributions.herokuapp.com)！
+
+通过下面这些链接，你能看到当前流行的众多代码仓库中，适合初学者解决的问题列表，还等什麽，去吧 :)
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|

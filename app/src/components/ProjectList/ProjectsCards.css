@@ -3,74 +3,78 @@
 }
 .Card-Header{
     position: relative;
-    display: flex;
     font-weight: bold;
-    border-bottom: 2px solid black;
-    background: #E3E9E6;
+    background: white;
     padding: 2%;
-    line-height: 16px;
+    line-height: 18px;
 }
 .Project-Logo{
-    float:right;
-    width: 20%;
+    width: 45%;
     height: 40%;
-    margin-left: 35%;
+    margin-top: 5%;
 }
 .Card-Body{
     position: relative;
-    height: 50%;
-    word-break: break-all;
-    background: #F8F8F8;
+    background: white;
 }
 .Card-Container{
     overflow: hidden;
-    float: left;
-    width: 20%;
-    word-break: break-all;
+    width: 16%;
+    height: 100%;
+    min-width: 225px;
     display: block;
-    margin-left: 4%;
-    margin-bottom: 1.15em;
-    margin-top: 1.15em;
-    box-shadow: 0 0.13em 0px 0.04em rgba(0,0,0,.12);
+    margin: 1.5%;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
 }
+
 .Card-Container:hover{
-    box-shadow: 0 0.16em 0px 0.18em rgba(0,0,0,.12);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px;
+}
+.Card-Real-Link:hover{
     text-decoration: none;
     color:black;
 }
-.Card-Container:visited{
+.Card-Real-Link:visited{
     text-decoration: none;
     color:black;
 }
-.Card-Container:link{
+.Card-Real-Link:link{
     text-decoration: none;
     color:black;
 }
-.Card-Container:active {
+.Card-Real-Link:active {
     text-decoration: none;
     color:black;
 }
 .Card-Description{
     position: relative;
-    text-align: justify;
     padding:5%;
 }
- .Card-Link{
+.Card-Link{
     position: relative;
-    background: lightskyblue;
-    text-align: left;
     padding:10px;
     color:#0F3CEF;
-} 
+}
 .Card-Title{
-    float:left;
     margin-top: 6%;
     height: 10%;
-    margin-left: 10%;
 }
 .Card-Link-Style{
     margin-left: 10%;
-    
+
+}
+
+.Card-Tag div {
+    display: inline-block;
+    background-color: #C8E1F9;
+    width: 40%;
+    border-radius: 12px;
+    margin: 10px 10px;
+    vertical-align: middle;
+}
+
+.Card-Tag p {
+    margin: 3px 0;
 }
