@@ -29,5 +29,6 @@ We have some rules for translation. If you make the first translation for your l
 - [x] Fixed grammar for contribution Guide
 - [ ] Add more example and more guide
 
+ldt contributor
 
 Thanks! :heart:
