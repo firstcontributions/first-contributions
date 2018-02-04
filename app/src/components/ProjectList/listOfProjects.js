@@ -261,7 +261,13 @@ const projectList = [
     description: 'An online feedback management system for students and teachers',
     tags: ['Java', 'Javascript', 'HTML', 'Web App']
   },
-
+  {
+    name: 'electron',
+    imageSrc: 'https://avatars3.githubusercontent.com/u/13409222?s=200&v=4',
+    githubLink: 'https://github.com/electron/electron',
+    description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS',
+    tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
+  },
 
 
 ];

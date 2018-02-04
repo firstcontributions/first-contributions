@@ -1,3 +1,4 @@
+- [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
@@ -2151,3 +2152,4 @@
 - [ZoomStop](https://github.com/ZoomStop)
 - [markm248]
 (https://github.com/markm248)
+- [Danny Mcwaves](https://github.com/DannyMcwaves)
