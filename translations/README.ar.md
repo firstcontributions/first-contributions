@@ -1,28 +1,20 @@
-<div dir="rtl"><a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://firstcontributions.herokuapp.com"><img align="left" src="https://firstcontributions.herokuapp.com/badge.svg"></a></div>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# <div dir="rtl">مساهمتك الأولى</div>
 
-<div dir="rtl">
+# مساهمتك الأولى 
+
 الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرين، مما يجعل الوقوع في الخطأ مزعج.
-<br>
 لكن المساهمة في مشاريع مفتوحة المصدر يتطلب ويتوقع الخطأ ولهذا السبب الآخرون سيساعدونك في تصحيح هذا الخطأ.
-<br>
-في هذا المشروع هدفنا هو تبسيط الطريق لمساهمتك الأولى.
-</div>
-
-
-<div dir="rtl">
-القرائة ومشاهدة التعلميات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا إستطعت المساهمة في مشروع بدون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفيرك بالتوجيهات والتعليمات البسيطة لإتمام أول مساهمة.
+في هذا المشروع هدفنا هو تبسيط الطريق لمساهمتك الأولى. القرائة ومشاهدة التعلميات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا إستطعت المساهمة في مشروع بدون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفيرك بالتوجيهات والتعليمات البسيطة لإتمام أول مساهمة.
 تذكر أن الخطأ متوقع والهدف أنك تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخي ومتابعة الخطوات المتوفرة لإتمام مشاركتك الأولى. نوعدك ستستمتع بذلك.
-</div>
 
+#### *Read this in [other languages](Translations.md).*
 
-*Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md).*
-
-
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 <div dir="rtl">
-إذا لم يكن لديك جت على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
-</div>
+إذا لم يكن لديك جت على الجهاز الخاص بك،[قم بتثبيته]( https://help.github.com/articles/set-up-git/). من هنا
 
 ## <div dir="rtl"> إفرق هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
