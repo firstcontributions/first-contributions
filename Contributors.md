@@ -2138,3 +2138,4 @@
 - [mtawse](https://github.com/mtawse)
 - [Lazizhon Ahmedov](https://github.com/lazizhon)
 - [Mikel Tejero](https://github.com/teje87)
+- [Dave Regg](https://github.com/drregg6)
