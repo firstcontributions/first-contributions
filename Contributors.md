@@ -122,7 +122,7 @@
 - [Michael Ebenstein](https://github.com/mebenstein-tgm)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lina Grybauskaite](https://github.com/linaou)
-- [Alyssa ([@rageunleashed69], Head Dev, Computer Science Major[Lab]](https://github.com/rageunleashed69))
+- [Alyssa ([@rageunleashed69], Head Dev, Computer Science Major[Lab])](https://github.com/rageunleashed69)
 - [Jack Sodeman](https://github.com/TICG)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 - [sudheerdarla](https://github.com/sudheerdarla)
@@ -2178,5 +2178,6 @@
 - [33tr](https://github.com/33tr)
 - [Andrew Melchor](https://github.com/andrewmelchor)
 - [Dan Tipaldo](https://github.com/dtipaldo)
-Manuel Becerra; github.com/M-Becerra
-- [Kevin Niemeyer(htps://github.com/KevinNiemeyer)
+- [Manuel Becerra](github.com/M-Becerra)
+- [Kevin Niemeyer](htps://github.com/KevinNiemeyer)
+- [Dikaeinstein](https://github.com/Dikaeinstein)
