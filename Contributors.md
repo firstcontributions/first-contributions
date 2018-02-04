@@ -2124,3 +2124,4 @@
 - [Joshua Kennedy](https://github.com/joshkennede)
 - [Tom Zhang] (https://github.com/TomZhangg)
 - [Kyle OBrien] (https://github.com/webbhostnet)
+- [Firas Omrane](https://github.com/firou1925)
