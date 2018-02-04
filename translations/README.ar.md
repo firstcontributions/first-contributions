@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 <div dir="rtl">
-إذا لم يكن لديك جت على الجهاز الخاص بك،[قم بتثبيته]( https://help.github.com/articles/set-up-git/). من هنا
+إذا لم يكن لديك جت على الجهاز الخاص بك،( https://help.github.com/articles/set-up-git/)[قم بتثبيته]. من هنا
 
 ## <div dir="rtl"> إفرق هذا المشروع - Fork this Repository </div>
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
