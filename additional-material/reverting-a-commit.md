@@ -34,8 +34,8 @@ This would pop open my text editor and prompt me to edit the commit message.
 You can decide to leave the commit message as the default git message which starts with the word `Revert`
 or you can also decide to customize the message to your liking.
 
-* Next, I will save and close the text editor.
-* Return to the command line.
-* Run ```git push origin <branch-name>``` to push the reverted changes to Github.
+*   Next, I will save and close the text editor.
+*   Return to the command line.
+*   Run ```git push origin <branch-name>``` to push the reverted changes to Github.
 
 And that is it, the change would be undone. In this case,  my repository would be reverted to how it looked like in ```c1b9fc1```
