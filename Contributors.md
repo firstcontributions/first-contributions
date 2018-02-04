@@ -2149,3 +2149,5 @@
 - [Agitaev Seid Akhmed](https://github.com/agitaev)
 - [Ron Montero](https://github.com/rhmdev)
 - [ZoomStop](https://github.com/ZoomStop)
+- [Danny Mcwaves](https://github.com/DannyMcwaves)
+
