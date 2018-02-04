@@ -2180,3 +2180,4 @@
 - [Dan Tipaldo](https://github.com/dtipaldo)
 Manuel Becerra; github.com/M-Becerra
 - [Kevin Niemeyer(htps://github.com/KevinNiemeyer)
+- [Dávid Szép](https://github.com/itafet)
