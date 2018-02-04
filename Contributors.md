@@ -1,3 +1,4 @@
+- [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
 - [VeraButler](https://github.com/VeraButler)
