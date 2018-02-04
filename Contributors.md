@@ -2156,3 +2156,4 @@
 - [Suraj Bhor](https://github.com/Suraj-Bhor)
 - [Ozgur Toprak](https://github.com/ToprakOzgur)
 - [Vadim Pochivalin](https://github.com/vakhet)
+- [Nicola Carpene] (https://github.com/zeronicola3)
