@@ -2177,3 +2177,4 @@
 - [33tr](https://github.com/33tr)
 - [Andrew Melchor](https://github.com/andrewmelchor)
 - [Shane Perry](https://github.com/shaneperrydc)
+- [Dan Tipaldo](https://github.com/dtipaldo)
