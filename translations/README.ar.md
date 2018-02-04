@@ -14,69 +14,57 @@
 
 اذا ليس لديك جت على حاسوبك فقم [بتسجيله](https://help.github.com/articles/set-up-git).
 
-##  إفرق هذا المشروع - Fork this Repository
+##  إفرق هذا المشروع
 <img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository" />
-<div dir="rtl">
 إفرق هذا المشروع بالضغط على زر Fork في أعلى هذه الصفحة.
 من خلال ذلك ستنشأ نسخة من هذا المشروع في حسابك الخاص.
-</div>
 
-## <div dir="rtl"> إستنسخ هذا المشروع - Clone the repository </div>
+## إستنسخ هذا المشروع
 
 <img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-<div dir="rtl">
 استنسخ هذا المشروع إلى جهازك.
 انقر على زر Clone ثم انقر على أيقونة Copy to clipboard
-</div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-<div dir="rtl">
 إفتح التّرمنال وأكتب الأمر التالي:
-</div>
 
 ```
 git clone "url you just copied"
 ```
 
-<div dir="rtl">قم بإستبدال "url you just copied" بالرابط الذي نسخته من الخطوة السابقة، هذا الرابط يحتوي على المشروع.</div>
+قم بإستبدال "url you just copied" بالرابط الذي نسخته من الخطوة السابقة، هذا الرابط يحتوي على المشروع.
 
-<div dir="rtl">على سبيل المثال:</div>
+على سبيل المثال:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-<div dir="rtl">
 في هذا المثال لاحظ 'this-is-you' سيكون إسم حسابك في موقع جيت هاب يتليه رابط المشروع اللذي فرقته في أول خطوة، الأمر هذا سينسخ محتويات المشروع إلى جهازك الخاص لتتمكن من التعديل عليه بحرية.
-</div>
-<br>
 
-## <div dir="rtl">  إنشاء فرع - Create a branch </div>
+## إنشاء فرع 
 
-
-<div dir="rtl"> إنتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
+إنتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي:
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
+الآن قم بإنشاء فرع عن طريق الأمر التالي:
 
 ```
 git checkout -b "add-your-name"
 ```
 
-<div dir="rtl">إسمك بدل add-your-name</div>
+إسمك بدل add-your-name
 
-<div dir="rtl">على سبيل المثال:</div>
+على سبيل المثال:
 
 ```
 git checkout -b "add-alonzo-church"
 ```
-
-<br>
-
-## <div dir="rtl">قم بإجراء التعديلات المطلوبة وأتممها</div></h2>
+( اسم الفرع لا يلزم ان يبدأ ب *add* انّما هو شيئ معقول لأنّ هدف الفرع اظافة اسمك الى الائحة
+## قم بإجراء التعديلات المطلوبة وأتممها
 
 <div dir="rtl">
 الآن قم بفتح الملف "Contributors.md" في محرر النصوص المفضل لديك وأضف إسمك ثم إحفظ الملف.
