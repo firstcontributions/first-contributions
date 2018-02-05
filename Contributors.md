@@ -2191,3 +2191,4 @@
 - [Mebtte](https://github.com/mebtte)
 - [Agustin Daguerre](https://github.com/agustindaguerre)
 - [Alex Calhoun](https://github.com/alhoun17)
+- [Jean Lopes](https://github.com/JeanLLopes)
