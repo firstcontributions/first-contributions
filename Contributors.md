@@ -2189,3 +2189,4 @@ Manuel Becerra; github.com/M-Becerra
 - [DaoBee] (https://github.com/daobee)
 - [Mihir Thatte] (https://github.com/mihirthatte)
 - [Mebtte](https://github.com/mebtte)
+- [Agustin Daguerre](https://github.com/agustindaguerre)
