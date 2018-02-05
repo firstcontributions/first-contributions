@@ -2187,3 +2187,4 @@ Manuel Becerra; github.com/M-Becerra
 - [Miguel Hernanz] (https://github.com/MigHerCas)
 - [DaoBee] (https://github.com/daobee)
 - [Mihir Thatte] (https://github.com/mihirthatte)
+- [Jean Lopes](https://github.com/JeanLLopes)
