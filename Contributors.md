@@ -2183,3 +2183,4 @@ Manuel Becerra; github.com/M-Becerra
 - [Dávid Szép](https://github.com/itafet)
 - [Yang Yang] (https://github.com/yang573)
 - [Venkata Buddhiraju](https://github.com/nagarakesh4)
+- [Bill Hefty](https://github.com/bhefty)
