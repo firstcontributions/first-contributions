@@ -2213,3 +2213,4 @@
 - [Rizky Januarianto](https://github.com/januarry)
 - [Alex Kondov](https://github.com/AlexKondov)
 - [Abdul Moiz Ansari](https://github.com/Abdul-Moiz-Ansari)
+- [David Curtis](https://github.com/dcurtis303)
