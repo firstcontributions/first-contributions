@@ -1,4 +1,4 @@
-﻿- [Nafis Fuad](https://github.com/nafis-fuad)
+- [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
@@ -1003,6 +1003,7 @@
 - [Jim Plourde](https://github.com/giant995/first-contributions)
 - [Shashwat](https://github.com/shpulak)
 - [h4rdw0rk](https://github.com/h4rdw0rk/first-contributions)
+- [alekDevNinja] (https://github.com/alekDevNinja)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Danny Lai](https://github.com/tocalai)
@@ -2203,4 +2204,9 @@
 - [Abhishek Kulshrestha](https://github.com/abhikulshrestha22)
 - [Broadteam](https://github.com/broadteam)
 - [kholterhoff](https://github.com/kholterhoff)
+- [Raptor121-SA](https://github.com/Raptor121-SA)
+- [AfamO](https://github.com/AfamO)
+- [Anthony Tomson](https://github.com/Skyller360)
+- [Federico Dal Colle] (https://github.com/dalco)
+- [Yogesh Telang] (https://github.com/dpgc11)
 - [Mius00](https://github.com/mius00)
