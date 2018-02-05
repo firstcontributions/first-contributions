@@ -2212,3 +2212,4 @@
 - [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
 - [Alex Kondov](https://github.com/AlexKondov)
+- [Abdul Moiz Ansari](https://github.com/Abdul-Moiz-Ansari)
