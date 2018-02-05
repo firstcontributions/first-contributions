@@ -1,4 +1,4 @@
-﻿- [Nafis Fuad](https://github.com/nafis-fuad)
+- [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
@@ -2204,3 +2204,4 @@
 - [Broadteam](https://github.com/broadteam)
 - [kholterhoff](https://github.com/kholterhoff)
 - [Raptor121-SA](https://github.com/Raptor121-SA)
+- [AfamO](https://github.com/AfamO)
