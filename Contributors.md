@@ -2185,3 +2185,4 @@ Manuel Becerra; github.com/M-Becerra
 - [Venkata Buddhiraju](https://github.com/nagarakesh4)
 - [Bill Hefty](https://github.com/bhefty)
 - [Miguel Hernanz] (https://github.com/MigHerCas)
+- [DaoBee] (https://github.com/daobee)
