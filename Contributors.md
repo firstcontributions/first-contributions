@@ -1,4 +1,5 @@
-﻿- [Nafis Fuad](https://github.com/nafis-fuad)
+- [Teddy Ngwenya](https://github.com/linteddy)
+- [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
