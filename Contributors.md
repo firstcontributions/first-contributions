@@ -1003,6 +1003,7 @@
 - [Jim Plourde](https://github.com/giant995/first-contributions)
 - [Shashwat](https://github.com/shpulak)
 - [h4rdw0rk](https://github.com/h4rdw0rk/first-contributions)
+- [alekDevNinja] (https://github.com/alekDevNinja)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
 - [Danny Lai](https://github.com/tocalai)
