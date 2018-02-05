@@ -2192,3 +2192,4 @@
 - [Agustin Daguerre](https://github.com/agustindaguerre)
 - [Alex Calhoun](https://github.com/alhoun17)
 - [Jean Lopes](https://github.com/JeanLLopes)
+- [Jarrod Van Doren](https://github.com/Demonico)
