@@ -2196,3 +2196,4 @@
 - [Jarrod Van Doren](https://github.com/Demonico)
 - [Neal](https://github.com/YogiAgency)
 - [Mehmood Deshmukh](https://github.com/meshde)
+- [Denys Ratushnyi](https://github.com/driamend)
