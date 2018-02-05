@@ -2219,3 +2219,4 @@
 - [Vinicius Costa](https://github.com/viniciuscrw)
 - [Taylor Morris](https://github.com/taylorhmorris)
 - [Spiros H] (https://github.com/programmmerr)
+- [Aljaž Škrinjar] (https://github.com/aljazskrinjar)
