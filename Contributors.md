@@ -2208,4 +2208,6 @@
 - [AfamO](https://github.com/AfamO)
 - [Anthony Tomson](https://github.com/Skyller360)
 - [Federico Dal Colle] (https://github.com/dalco)
+- [Yogesh Telang] (https://github.com/dpgc11)
+- [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
