@@ -2207,3 +2207,4 @@
 - [Raptor121-SA](https://github.com/Raptor121-SA)
 - [AfamO](https://github.com/AfamO)
 - [Anthony Tomson](https://github.com/Skyller360)
+- [Federico Dal Colle] (https://github.com/dalco)
