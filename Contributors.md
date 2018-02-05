@@ -1,4 +1,4 @@
-- [Nafis Fuad](https://github.com/nafis-fuad)
+﻿- [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
@@ -2212,3 +2212,4 @@
 - [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
 - [Alex Kondov](https://github.com/AlexKondov)
+- [Vinicius Costa](https://github.com/viniciuscrw)
