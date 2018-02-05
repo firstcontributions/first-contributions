@@ -2178,6 +2178,7 @@
 - [marceltransier](https://github.com/marceltransier)
 - [33tr](https://github.com/33tr)
 - [Andrew Melchor](https://github.com/andrewmelchor)
+- [Shane Perry](https://github.com/shaneperrydc)
 - [Dan Tipaldo](https://github.com/dtipaldo)
 - [Manuel Becerra](github.com/M-Becerra)
 - [Kevin Niemeyer](htps://github.com/KevinNiemeyer)
