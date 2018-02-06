@@ -2223,4 +2223,6 @@
 - [Matteo Pipitone](https://github.com/crakdelpol)
 - [Jared Parker](https://github.com/VIISilver)
 - [Qudus Yekeen](https://github.com/udus97)
+- [David Curtis](https://github.com/dcurtis303)
+- [Joi Whitmore](https://github.com/myrajoi)
 - [Steven Hitchcock](https://github.com/Germlord)
