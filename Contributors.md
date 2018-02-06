@@ -2234,4 +2234,5 @@
 - [Alberto Riggi](https://github.com/alberto-riggi)
 - [Patrick Alvin Luwum](https://github.com/pluwum)
 - [Nadeem Khan](https://github.com/nadeemkhan)
+- [Nelson Sandoval](https://github.com/techednelson)
 - [S4BB1R](https://github.com/S4BB1R/)
