@@ -1,3 +1,4 @@
+- [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Navjot Dhanawat](https://github.com/navjotdhanawat)
 - [Karthikeyan](https://github.com/atlantis23)
 - [Samuelson Osoba](https://github.com/samuelsons)
@@ -2217,6 +2218,7 @@
 - [Yogesh Telang](https://github.com/dpgc11)
 - [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
+- [Alex Kondov](https://github.com/AlexKondov)
 - [Hareluuu](https://github.com/hareluuu)
 - [Alex Kondov](https://github.com/AlexKondov)
 - [Abdul Moiz Ansari](https://github.com/Abdul-Moiz-Ansari)
