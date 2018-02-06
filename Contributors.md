@@ -2232,3 +2232,4 @@
 - [Deivid Araujo](https://github.com/dvaraujo)
 - [Alberto Riggi](https://github.com/alberto-riggi)
 - [Patrick Alvin Luwum](https://github.com/pluwum)
+- [Nikita Smirnov](https://github.com/nismirno)
