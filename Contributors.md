@@ -2222,4 +2222,4 @@
 - [Aljaž Škrinjar] (https://github.com/aljazskrinjar)
 - [Matteo Pipitone](https://github.com/crakdelpol)
 - [Joi Whitmore](https://github.com/myrajoi)
-
+- [Jared Parker](https://github.com/VIISilver)
