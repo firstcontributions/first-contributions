@@ -7,9 +7,9 @@
 
 閱讀文章和觀看教學會有所幫助。不過，有什麼方法能比，在不會弄亂任何東西的情況下，實際動手做更好？本項目旨在指導初學者及簡化初學者參與開源的方式。記住：過程越輕鬆，學習效益越高。如果妳/你想要做出第一次貢獻，只需按照以下簡單步驟操作即可。跟你保證，這會很好玩 :)
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+#### *此文檔的 [其他語種](../Translations.md).*
 
-*其他語言版本: [英語](../README.md), [西班牙語](README.es.md), [荷蘭語](README.nl.md), [印度語](README.hi.md), [俄語](README.ru.md), [日語](README.ja.md), [越南語](README.vn.md), [波蘭語](README.pl.md), [韓語](README.ko.md), [德語](README.de.md), [簡體中文](README.chs.md), [繁體中文](README.cht.md), [Greek](README.gr.md).*
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 如果你的電腦上尚未安裝 git, 請按照這個[ 安裝指引(英文) ](https://help.github.com/articles/set-up-git/)進行安裝。
 
