@@ -2231,3 +2231,4 @@
 - [Leonardo Ferreira](https://github.com/Valeyard1)
 - [Deivid Araujo](https://github.com/dvaraujo)
 - [Alberto Riggi](https://github.com/alberto-riggi)
+- [Patrick Alvin Luwum](https://github.com/pluwum)
