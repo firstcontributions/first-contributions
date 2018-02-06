@@ -2247,3 +2247,4 @@
 - [yarocruz](https://github.com/yarocruz)
 - [Thompadude](https://github.com/Thompadude)
 - [Klockner](https://github.com/Klockner)
+- [Pedro Cruz](https://github.com/cruzpedro)
