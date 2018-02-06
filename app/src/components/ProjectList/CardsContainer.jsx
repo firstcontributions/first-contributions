@@ -36,7 +36,7 @@ export default class CardsContainer extends React.Component {
     value.map(v => { valueList.push(v.value) });
     projectList.map(project => {
       if (!project.tags) return;
-      if (valueList.every(v => project.tags.includes(v))) {
+      if (valueList.every(v => project.tags.find(tag => v.toLowerCase() === tag.toLowerCase()))) {
         updatedList.push(project);
       }
     })
