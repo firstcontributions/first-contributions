@@ -2221,4 +2221,3 @@
 - [Spiros H] (https://github.com/programmmerr)
 - [Aljaž Škrinjar] (https://github.com/aljazskrinjar)
 - [Matteo Pipitone](https://github.com/crakdelpol)
-- [Deivid Araujo](https://github.com/dvaraujo)
