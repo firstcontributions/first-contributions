@@ -2221,3 +2221,5 @@
 - [Spiros H] (https://github.com/programmmerr)
 - [Aljaž Škrinjar] (https://github.com/aljazskrinjar)
 - [Matteo Pipitone](https://github.com/crakdelpol)
+- [Joi Whitmore](https://github.com/myrajoi)
+
