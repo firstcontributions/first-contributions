@@ -1,4 +1,4 @@
-- [Teddy Ngwenya](https://github.com/linteddy)
+﻿- [Teddy Ngwenya](https://github.com/linteddy)
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
@@ -2225,3 +2225,4 @@
 - [Qudus Yekeen](https://github.com/udus97)
 - [David Curtis](https://github.com/dcurtis303)
 - [Joi Whitmore](https://github.com/myrajoi)
+- [Steven Hitchcock](https://github.com/Germlord)
