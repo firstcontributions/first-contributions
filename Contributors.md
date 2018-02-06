@@ -1,3 +1,4 @@
+- [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
