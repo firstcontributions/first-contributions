@@ -110,10 +110,10 @@ git push origin <分支的名称>
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## 自身推广
+## 原作者自身推广
 
-如果你喜欢这个项目， 请在 [GitHub](https://github.com/Roshanjossey/first-contributions)点赞.
-如果你感觉今天心情好，适合做慈善, 请加[Roshan](https://roshanjossey.github.io/)的
+如果你喜欢这个项目， 请给这个 [GitHub](https://github.com/Roshanjossey/first-contributions)点星星 ⭐️.
+如果你感觉今天心情好，适合做慈善, 可以 follow [Roshan](https://roshanjossey.github.io/) 的
 [Twitter](https://twitter.com/sudo__bangbang) 和
 [GitHub](https://github.com/roshanjossey).
 
