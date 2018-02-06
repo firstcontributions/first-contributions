@@ -1,5 +1,5 @@
 # Contribution guide
-akk
+
 Welcome to your first contribution. :heart:
 
 #### Table Of Contents
