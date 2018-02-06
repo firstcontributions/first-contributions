@@ -2228,3 +2228,4 @@
 - [Steven Hitchcock](https://github.com/Germlord)
 - [Leonardo Ferreira](https://github.com/Valeyard1)
 - [Deivid Araujo](https://github.com/dvaraujo)
+- [Alberto Riggi](https://github.com/alberto-riggi)
