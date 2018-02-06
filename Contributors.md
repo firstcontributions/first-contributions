@@ -2238,3 +2238,4 @@
 - [Nadeem Khan](https://github.com/nadeemkhan)
 - [Nelson Sandoval](https://github.com/techednelson)
 - [S4BB1R](https://github.com/S4BB1R/)
+- [Tiago Gomes](https://github.com/TiagoGomesDesign/)
