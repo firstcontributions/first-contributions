@@ -2226,3 +2226,4 @@
 - [David Curtis](https://github.com/dcurtis303)
 - [Joi Whitmore](https://github.com/myrajoi)
 - [Steven Hitchcock](https://github.com/Germlord)
+- [Leonardo Ferreira](https://github.com/Valeyard1)
