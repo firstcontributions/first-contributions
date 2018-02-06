@@ -1,3 +1,4 @@
+- [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Navjot Dhanawat](https://github.com/navjotdhanawat)
 - [Karthikeyan](https://github.com/atlantis23)
