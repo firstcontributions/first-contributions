@@ -4,6 +4,7 @@
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
+- [Andres Fernando Saa](https://github.com/afsaa)
 - marcos-padilla
 - [VeraButler](https://github.com/VeraButler)
 - [Tailor Vijay](https://github.com/tailorvj)
@@ -2233,3 +2234,4 @@
 - [Alberto Riggi](https://github.com/alberto-riggi)
 - [Patrick Alvin Luwum](https://github.com/pluwum)
 - [Nadeem Khan](https://github.com/nadeemkhan)
+- [S4BB1R](https://github.com/S4BB1R/)
