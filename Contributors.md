@@ -2249,3 +2249,4 @@
 - [Klockner](https://github.com/Klockner)
 - [Pedro Cruz](https://github.com/cruzpedro)
 - [Ingrid Machado](https://github.com/ingridmachado)
+- [Brent Farand] (https://github.com/BFarand)
