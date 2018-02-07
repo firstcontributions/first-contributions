@@ -2248,3 +2248,4 @@
 - [Thompadude](https://github.com/Thompadude)
 - [Klockner](https://github.com/Klockner)
 - [Pedro Cruz](https://github.com/cruzpedro)
+- [Ingrid Machado](https://github.com/ingridmachado)
