@@ -2255,3 +2255,4 @@
 - [Duanym](https://github.com/dym0080)
 - [Yashwanth](https://github.com/Yashwanthp)
 - [Paul Rodriguez](https://github.com/prdesignwork)
+- [John Kazer](https://github.com/johnkazer)
