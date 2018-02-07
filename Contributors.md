@@ -2264,3 +2264,4 @@
 - [Craig Menne](https://github.com/Tsukiyonocm)
 - [Krystian Antoniak](https://github.com/Sinon2025)
 - [Wéder Pacheco da Silva](https://github.com/WederPachecoSilva)
+- [Daniel Bonham](https://github.com/bonhamdaniel)
