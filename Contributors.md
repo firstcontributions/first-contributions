@@ -2251,7 +2251,7 @@
 - [Pedro Cruz](https://github.com/cruzpedro)
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
-- [Brent Farand] (https://github.com/BFarand)
+- [Brent Farand](https://github.com/BFarand)
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Duanym](https://github.com/dym0080)
 - [Yashwanth](https://github.com/Yashwanthp)
@@ -2261,3 +2261,4 @@
 - [Tito Yslas](https://github.com/tyslas)
 - [Michael Porter](https://github.com/mporter45042)
 - [Mary Ellen Weber](https://github.com/mmweber2)
+- [Craig Menne](https://github.com/Tsukiyonocm)
