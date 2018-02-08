@@ -1,4 +1,4 @@
-- [Noah Haasis](https://github.com/noahhaasis)
+﻿- [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Navjot Dhanawat](https://github.com/navjotdhanawat)
@@ -2265,7 +2265,7 @@
 - [Krystian Antoniak](hhtps://github.com/Sinon2025)
 - [Daniel Bonham](https://github.com/bonhamdaniel)
 - [Scott Michaud](https://github.com/SDMichaud)
-- [Tony Lam](https://github.com/tonylam07)
 - [Viktor Wong](https://github.com/ViktorWong)
 - [This is a test](https://github.com/thisisatest)
-
+- [Tony Lam](https://github.com/tonylam07)
+- [Adam Fike](https://github.com/ecliptic007)
