@@ -2271,3 +2271,4 @@
 - [Adam Fike](https://github.com/ecliptic007)
 - [Wéder Pacheco da Silva](https://github.com/WederPachecoSilva)
 - [ifossz](https://github.com/ifossz)
+- [Tony Lam](https://github.com/tonylam07)
