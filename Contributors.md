@@ -2235,3 +2235,4 @@
 - [Patrick Alvin Luwum](https://github.com/pluwum)
 - [Nadeem Khan](https://github.com/nadeemkhan)
 - [S4BB1R](https://github.com/S4BB1R/)
+- [Michael Khalil](https://github.com/mike13k)
