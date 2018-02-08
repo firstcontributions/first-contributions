@@ -2030,6 +2030,7 @@
 - [Tanner Cook](https://github.com/tvcook)
 - [Sandeep Kawale](https://github.com/skawaleonline)
 - [NeedleInSpace](https://github.com/NeedleInSpace)
+- [Ryan Lee Clark](https://github.com/rglc12)
 - [telarmago](https://github.com/telarmago)
 - [Ellis Williams](https://github.com/ekwilliams94)
 - [Assa Schneider](https://github.com/AssaSch)
