@@ -2286,3 +2286,4 @@
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
 - [Souna](https://github.com/sounaa)
+- [William Edwards](https://github.com/williamedwards)
