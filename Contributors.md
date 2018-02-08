@@ -2265,3 +2265,4 @@
 - [Krystian Antoniak](hhtps://github.com/Sinon2025)
 - [Daniel Bonham](https://github.com/bonhamdaniel)
 - [Scott Michaud](https://github.com/SDMichaud)
+- [Viktor Wong](https://github.com/ViktorWong)
