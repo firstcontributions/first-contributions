@@ -1,4 +1,4 @@
-- [Noah Haasis](https://github.com/noahhaasis)
+﻿- [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Navjot Dhanawat](https://github.com/navjotdhanawat)
@@ -2267,3 +2267,4 @@
 - [Scott Michaud](https://github.com/SDMichaud)
 - [Viktor Wong](https://github.com/ViktorWong)
 - [This is a test](https://github.com/thisisatest)
+- [Adam Fike](https://github.com/ecliptic007)
