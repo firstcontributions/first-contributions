@@ -2262,6 +2262,7 @@
 - [Michael Porter](https://github.com/mporter45042)
 - [Mary Ellen Weber](https://github.com/mmweber2)
 - [Craig Menne](https://github.com/Tsukiyonocm)
+- [Pratham Nawal](https://github.com/PrathamNawal)
 - [Krystian Antoniak](hhtps://github.com/Sinon2025)
 - [Daniel Bonham](https://github.com/bonhamdaniel)
 - [Scott Michaud](https://github.com/SDMichaud)
