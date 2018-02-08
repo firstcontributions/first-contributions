@@ -268,7 +268,13 @@ const projectList = [
     description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS',
     tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
   },
-
+  {
+    name: 'Public Lab',
+    imageSrc: 'https://publiclab.org/system/images/photos/000/023/444/large/Screenshot_20180204-101546_2.png',
+    githubLink: 'https://publiclab.github.io/community-toolbox/#r=all',
+    description: 'PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈',
+    tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'nonprofit', 'web app', 'first-timers', 'environment', 'science']
+  }
 
 ];
 
