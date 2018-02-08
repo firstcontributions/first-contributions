@@ -2269,3 +2269,4 @@
 - [Viktor Wong](https://github.com/ViktorWong)
 - [This is a test](https://github.com/thisisatest)
 - [Adam Fike](https://github.com/ecliptic007)
+- [Wéder Pacheco da Silva](https://github.com/WederPachecoSilva)
