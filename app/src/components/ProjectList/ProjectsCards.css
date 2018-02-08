@@ -23,7 +23,7 @@
     height: 100%;
     min-width: 225px;
     display: block;
-    margin: 1.5%;
+    margin: 1.5vw;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
