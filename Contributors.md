@@ -2190,3 +2190,4 @@ Manuel Becerra; github.com/M-Becerra
 - [Mihir Thatte] (https://github.com/mihirthatte)
 - [Mebtte](https://github.com/mebtte)
 - [Agustin Daguerre](https://github.com/agustindaguerre)
+- [Souna] (https://github.com/sounaa)
