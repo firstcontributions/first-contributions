@@ -19,6 +19,7 @@ export default class CardsContainer extends React.Component {
         projectList[i].tags.forEach(tag => {
           projectList[i].tags.sort()
           this.setTags.add(tag)
+          this.setTags.add(tag.toLowerCase())
         })
       }
     }
@@ -37,7 +38,8 @@ export default class CardsContainer extends React.Component {
     value.map(v => { valueList.push(v.value) });
     projectList.map(project => {
       if (!project.tags) return;
-      if (valueList.every(v => project.tags.includes(v))) {
+      let lowerCaseTags = project.tags.map(v => v.toLowerCase())
+      if (valueList.every(v => lowerCaseTags.includes(v))) {
         updatedList.push(project);
       }
     })
@@ -53,7 +55,7 @@ export default class CardsContainer extends React.Component {
           options={this.filterOptions}
           multi={true}
         />
-        <section id='project-list' className='Container-layout'> 
+        <section id='project-list' className='Container-layout'>
           { this.state.filterList.map((item, key) => {
             return (
               <Card
