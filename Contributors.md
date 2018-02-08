@@ -395,6 +395,7 @@
 - [Rachit](https://github.com/iamrachitgulati)
 - [joseph](https://github.com/Joseph1989)
 - [Marnix](https://github.com/MarnixDev)
+- [Matt Whol] (https://github.com/Wholinator)
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
 - [Kanav](https://github.com/kanav-7)
