@@ -1,4 +1,5 @@
-﻿- [Cheryl Hartman](https://github.com/chartman4)
+﻿- [Alisa Terzieva] (https://github.com/AlisaTerzieva)
+- [Cheryl Hartman](https://github.com/chartman4)
 - [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
