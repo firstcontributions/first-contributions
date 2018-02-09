@@ -1,3 +1,5 @@
+- [Edwin L](https://github.com/cslasher)
+- [Umang Garg](https://github.com/umanggarg27)
 - [Alisa Terzieva] (https://github.com/AlisaTerzieva)
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Noah Haasis](https://github.com/noahhaasis)
@@ -2282,6 +2284,7 @@
 - [Glenn Morrow](https://github.com/GlennGlenGlenn)
 - [Francesco Scalise](https://github.com/ciccioska)
 - [Michael Khalil](https://github.com/mike13k)
+- [Tenzin Singhay Bhotia](https://github.com/10-zin)
 - [Harry Rudolph](https://github.com/HarryRudolph)
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
@@ -2296,3 +2299,4 @@
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
 - [fawaleb](https://github.com/fawaleb/first-contributions)
+- [cuji](https://github.com/cuji)
