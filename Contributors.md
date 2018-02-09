@@ -2295,3 +2295,4 @@
 - [Jared Barrow](https://github.com/SwordOfLonginus)
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
+- [fawaleb](https://github.com/fawaleb/first-contributions)
