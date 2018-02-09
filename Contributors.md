@@ -1,3 +1,4 @@
+- [Umang Garg](https://github.com/umanggarg27)
 - [Alisa Terzieva] (https://github.com/AlisaTerzieva)
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Noah Haasis](https://github.com/noahhaasis)
