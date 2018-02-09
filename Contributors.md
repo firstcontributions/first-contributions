@@ -2284,6 +2284,7 @@
 - [Glenn Morrow](https://github.com/GlennGlenGlenn)
 - [Francesco Scalise](https://github.com/ciccioska)
 - [Michael Khalil](https://github.com/mike13k)
+- [Tenzin Singhay Bhotia](https://github.com/10-zin)
 - [Harry Rudolph](https://github.com/HarryRudolph)
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
@@ -2297,7 +2298,6 @@
 - [Jared Barrow](https://github.com/SwordOfLonginus)
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
+- [fawaleb](https://github.com/fawaleb/first-contributions)
 - [cuji](https://github.com/cuji)
 - [tom322](https://github.com/tom322)
-
-
