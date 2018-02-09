@@ -2284,6 +2284,7 @@
 - [Glenn Morrow](https://github.com/GlennGlenGlenn)
 - [Francesco Scalise](https://github.com/ciccioska)
 - [Michael Khalil](https://github.com/mike13k)
+- [Tenzin Singhay Bhotia](https://github.com/10-zin)
 - [Harry Rudolph](https://github.com/HarryRudolph)
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
