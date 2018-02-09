@@ -2290,6 +2290,7 @@
 - [William Edwards](https://github.com/williamedwards)
 - [Eric Rolfe](https://github.com/elrolfe)
 - [Manoaj Kandiakounder](https://github.com/manoajk)
+- [Jonathan von Kelaita](https://github.com/skillt3ch)
 - [Alex Tatarinov](https://github.com/atatarinov)
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
