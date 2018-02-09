@@ -2292,5 +2292,6 @@
 - [Manoaj Kandiakounder](https://github.com/manoajk)
 - [Jonathan von Kelaita](https://github.com/skillt3ch)
 - [Alex Tatarinov](https://github.com/atatarinov)
+- [Jared Barrow](https://github.com/SwordOfLonginus)
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
