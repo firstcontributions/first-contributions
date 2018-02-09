@@ -2290,3 +2290,4 @@
 - [William Edwards](https://github.com/williamedwards)
 - [Eric Rolfe](https://github.com/elrolfe)
 - [Manoaj Kandiakounder](https://github.com/manoajk)
+- [Jonathan von Kelaita](https://github.com/skillt3ch)
