@@ -1,4 +1,4 @@
-﻿- [Alisa Terzieva] (https://github.com/AlisaTerzieva)
+- [Alisa Terzieva] (https://github.com/AlisaTerzieva)
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
@@ -2293,3 +2293,4 @@
 - [Jonathan von Kelaita](https://github.com/skillt3ch)
 - [Alex Tatarinov](https://github.com/atatarinov)
 - [jitters](https://github.com/umudkip)
+- [silver](https://github.com/silverchenyolo)
