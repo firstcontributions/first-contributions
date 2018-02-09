@@ -2300,6 +2300,7 @@
 - [silver](https://github.com/silverchenyolo)
 - [fawaleb](https://github.com/fawaleb/first-contributions)
 - [cuji](https://github.com/cuji)
+- [LiftDev](https://github.com/farantDEV)
 - [tom322](https://github.com/tom322)
 - [Abhishek Kumar](https://github.com/abhishek63)
 - [Ganesh Sharma](https://github.com/erganeshsharma)
