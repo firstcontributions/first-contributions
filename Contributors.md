@@ -2291,4 +2291,3 @@
 - [Eric Rolfe](https://github.com/elrolfe)
 - [Manoaj Kandiakounder](https://github.com/manoajk)
 - [Alex Tatarinov](https://github.com/atatarinov)
-- [Jared Barrow](https://github.com/SwordOfLonginus)
