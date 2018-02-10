@@ -2316,3 +2316,4 @@
 - [Avinash Bharti](https://github.com/avinashbharti97)
 - [Leonardo Medina](https://github.com/leonardomedina)
 - [Waseem Asghar](https://github.com/waseempk)
+- [Chris Dempsey](https://github.com/cdempsey)
