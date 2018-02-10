@@ -2314,3 +2314,4 @@
 - [Wesley Tian](https://github.com/wesleytian)
 - [Anupam Asok](https://github.com/anu-asok)
 - [Avinash Bharti](https://github.com/avinashbharti97)
+- [Leonardo Medina](https://github.com/leonardomedina)
