@@ -1,3 +1,4 @@
+- [Joe Corapi](https://github.com/JoeCorapi)
 - [Edwin L](https://github.com/cslasher)
 - [Umang Garg](https://github.com/umanggarg27)
 - [Alisa Terzieva] (https://github.com/AlisaTerzieva)
@@ -60,6 +61,7 @@
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
+- [Saria L ] (http://github.com/ceculia)
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2306,4 +2308,5 @@
 - [Ganesh Sharma](https://github.com/erganeshsharma)
 - [Mark Steele](https://github.com/steele002)
 - [Katie McCarthy](https://github.com/mccarthinator)
-- [sm-coding]
+- sm-coding
+- [Rafael Roman](https://github.com/raftael)
