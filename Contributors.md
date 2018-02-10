@@ -2283,6 +2283,7 @@
 - [Saif Halila :computer:](https://github.com/saifhalila)
 - [Matty Plo](https://github.com/mattyplo)
 - [Ronika Das](https://github.com/ronika-das)
+- [Michael Manges](https://github.com/mkmanges)
 - [Glenn Morrow](https://github.com/GlennGlenGlenn)
 - [Francesco Scalise](https://github.com/ciccioska)
 - [Michael Khalil](https://github.com/mike13k)
