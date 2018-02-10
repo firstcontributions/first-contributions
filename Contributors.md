@@ -2317,3 +2317,4 @@
 - [Leonardo Medina](https://github.com/leonardomedina)
 - [Waseem Asghar](https://github.com/waseempk)
 - [Chris Dempsey](https://github.com/cdempsey)
+- [Doug Sauve](https://github.com/DougSauve)
