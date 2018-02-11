@@ -1,4 +1,4 @@
-- comso1
+﻿- comso1
 - [Wyatt Hoodes](https://github.com/whoodes)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
 - [Joe Corapi](https://github.com/JoeCorapi)
@@ -2331,3 +2331,4 @@
 - [Brandon welsh](https://github.com/brandonarmand)
 - [Animasaun M]  (https://github.com/manimasa)
 - [João Santos](https://github.com/skoyah)
+- [Suleman Bashir](https://github.com/sulemanbashir)
