@@ -2323,5 +2323,6 @@
 - [Doug Sauve](https://github.com/DougSauve)
 - [Govind Sharma](https://github.com/gnsharma)
 - [Micah Wood](https://github.com/micahwood50)
-- [Mark K] (https://github.com/MarkKGit)
-- [Aditya Chandla] (https://github.com/adityachandla)
+- [Mark K](https://github.com/MarkKGit)
+- [Aditya Chandla](https://github.com/adityachandla)
+- [Brandon welsh](https://github.com/brandonarmand)
