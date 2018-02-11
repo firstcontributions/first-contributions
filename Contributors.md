@@ -1,4 +1,5 @@
-﻿- [Spoorthi Sreedhara](https://github.com/sxs71620)
+- [Wyatt Hoodes] (https://github.com/whoodes)
+- [Spoorthi Sreedhara](https://github.com/sxs71620)
 - [Joe Corapi](https://github.com/JoeCorapi)
 - [Edwin L](https://github.com/cslasher)
 - [Umang Garg](https://github.com/umanggarg27)
@@ -2325,4 +2326,5 @@
 - [Micah Wood](https://github.com/micahwood50)
 - [Mark K](https://github.com/MarkKGit)
 - [Aditya Chandla](https://github.com/adityachandla)
+- [Michael Cornelius](https://github.com/BigFun76)
 - [Brandon welsh](https://github.com/brandonarmand)
