@@ -2334,6 +2334,7 @@
 - [João Santos](https://github.com/skoyah)
 - [Suleman Bashir](https://github.com/sulemanbashir)
 - [Dinolin yp job](https://github.com/dinolinjob)
+- [Rishabh Srivastava](https://github.com/krypto94)
 - [Rebecca Oliver](https://github.com/cinnabarmoth)
 - [Waleed Occidental](https://github.com/waleedoccidental)
 - [Matthew Scarfe](https://github.com/MattScarfe)
