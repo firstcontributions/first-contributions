@@ -1892,3 +1892,4 @@
 - [Ben Faus](https://github.com/bdfoz)
 - [Riley Chetwood](https://github.com/rchetwood)
 - [James Huang](https://github.com/jamespeace)
+- [Siaka Kone](https://github.com/siakakone)
