@@ -2340,3 +2340,4 @@
 - [Matthew Scarfe](https://github.com/MattScarfe)
 - [Beñat Aranburu](https://github.com/benataranburu)
 - [Daan Schutt](https://github.com/daanskitte)
+- [Damon Clark](https//github.com/damonclark)
