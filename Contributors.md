@@ -2343,3 +2343,4 @@
 - [Damon Clark](https//github.com/damonclark)
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
+- [Miguel Gallardo](https://github.com/MiguelGT98)
