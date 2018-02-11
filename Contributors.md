@@ -1343,6 +1343,7 @@
 - [Gopi Surendra](https://github.com/gsrc1026)
 - [Bryan Falls](https://github.com/bfalls158)
 - [David Saul](https://github.com/DSaul91)
+- [Tramezzini](https://github.com/tramezzini)
 - [Abhishek Chakravarty](https://github.com/Abhishekchakru)
 - [Sumit Agarwal](https://github.com/sumiet)
 - [John Johnson](https://github.com/JohnJohnsonIII)
