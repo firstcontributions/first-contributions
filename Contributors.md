@@ -2334,6 +2334,7 @@
 - [João Santos](https://github.com/skoyah)
 - [Suleman Bashir](https://github.com/sulemanbashir)
 - [Dinolin yp job](https://github.com/dinolinjob)
+- [Rebecca Oliver](https://github.com/cinnabarmoth)
 - [Waleed Occidental](https://github.com/waleedoccidental)
 - [Matthew Scarfe](https://github.com/MattScarfe)
 - [Beñat Aranburu](https://github.com/benataranburu)
