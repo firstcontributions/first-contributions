@@ -1,4 +1,4 @@
-- comso1
+﻿- comso1
 - [Wyatt Hoodes](https://github.com/whoodes)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
 - [Joe Corapi](https://github.com/JoeCorapi)
@@ -2341,3 +2341,4 @@
 - [Beñat Aranburu](https://github.com/benataranburu)
 - [Daan Schutt](https://github.com/daanskitte)
 - [Damon Clark](https//github.com/damonclark)
+- [Aparna Dhurjati](https//github.com/adhurjati-da)
