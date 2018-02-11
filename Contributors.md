@@ -2330,3 +2330,4 @@
 - [Michael Cornelius](https://github.com/BigFun76)
 - [Brandon welsh](https://github.com/brandonarmand)
 - [Animasaun M]  (https://github.com/manimasa)
+- [João Santos](https://github.com/skoyah)
