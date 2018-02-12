@@ -2360,3 +2360,4 @@
 - [Siaka Kone](https://github.com/siakakone)
 - [Matthew James Booth](https://github.com/MJBooth1989)
 - [Nikhil Babu](https://github.com/Nikhil713)
+- [Mateusz Hamerla](https://github.com/CrownClownX)
