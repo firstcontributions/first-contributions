@@ -2346,3 +2346,4 @@
 - [Miguel Gallardo](https://github.com/MiguelGT98)
 - [Erik Aoki](https://github.com/ErikAoki)
 - [Celina Harris](https://github.com/katspajamas)
+- [James Matthews III](https://github.com/JamesRobertMatthewsIII)
