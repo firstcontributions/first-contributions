@@ -2343,6 +2343,7 @@
 - [Damon Clark](https//github.com/damonclark)
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
+- [Dylanus](https://github.com/Dylanus)
 - [Miguel Gallardo](https://github.com/MiguelGT98)
 - [Erik Aoki](https://github.com/ErikAoki)
 - [Celina Harris](https://github.com/katspajamas)
