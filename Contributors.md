@@ -2366,3 +2366,4 @@
 - [Nikhil Babu](https://github.com/Nikhil713)
 - [Mateusz Hamerla](https://github.com/CrownClownX)
 - [tcdsv]
+- [Peter Robitaille](https://github.com/pwrobitaille)
