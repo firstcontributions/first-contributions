@@ -2369,3 +2369,4 @@
 - [Mateusz Hamerla](https://github.com/CrownClownX)
 - [tcdsv]
 - [Peter Robitaille](https://github.com/pwrobitaille)
+- [Rafał Kozłowski](https://github.com/rafalk42)
