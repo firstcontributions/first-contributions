@@ -1,4 +1,4 @@
-﻿- comso1
+- comso1
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
 - [Wyatt Hoodes](https://github.com/whoodes)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
@@ -72,6 +72,7 @@
 - [Lucas Paganini](https://github.com/LucasPaganini)
 - [Manish Nagdevani](https://github.com/manish-nagdevani)
 - [Abhilekh Panwar](https://github.com/AbhilekhPanwar)
+﻿- [Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
@@ -2363,3 +2364,4 @@
 - [Togo Kida](https://github.com/togogo/)
 - [Nikhil Babu](https://github.com/Nikhil713)
 - [Mateusz Hamerla](https://github.com/CrownClownX)
+- [tcdsv]
