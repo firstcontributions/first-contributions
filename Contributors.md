@@ -2335,6 +2335,7 @@
 - [Suleman Bashir](https://github.com/sulemanbashir)
 - [Ahsan Zia](https://github.com/AhsanDeGreat)
 - [Dinolin yp job](https://github.com/dinolinjob)
+- [Amir Naghibi](https://github.com/amirnaghibi)
 - [Rishabh Srivastava](https://github.com/krypto94)
 - [Rebecca Oliver](https://github.com/cinnabarmoth)
 - [Waleed Occidental](https://github.com/waleedoccidental)
