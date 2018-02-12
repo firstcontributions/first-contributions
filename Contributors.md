@@ -2356,3 +2356,4 @@
 - [Danika Hayman](https://github.com/danikahayman)
 - [NomelemoN](https://github.com/NomelemoN)
 - [Nrike](https://github.com/electrixgeek)
+- [Siaka Kone](https://github.com/siakakone)
