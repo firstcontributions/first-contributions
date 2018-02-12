@@ -2336,3 +2336,4 @@
 - [Dinolin yp job](https://github.com/dinolinjob)
 - [Matthew Scarfe] (https://github.com/MattScarfe)
 - [Beñat Aranburu] (https://github.com/benataranburu)
+- [Amir Naghibi] (https://github.com/amirnaghibi)
