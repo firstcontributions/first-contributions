@@ -1,4 +1,5 @@
 - comso1
+- [Sean Lee] (https://github.com/seankarltonlee)
 - [Michael Melvin] (https://github.com/mmelvin0581)
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
 - [Wyatt Hoodes](https://github.com/whoodes)
