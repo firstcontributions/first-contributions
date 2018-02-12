@@ -2349,3 +2349,4 @@
 - [Erik Aoki](https://github.com/ErikAoki)
 - [Celina Harris](https://github.com/katspajamas)
 - [James Matthews III](https://github.com/JamesRobertMatthewsIII)
+- [Danika Hayman] (https://github.com/danikahayman)
