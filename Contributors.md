@@ -1,4 +1,4 @@
-- [Lucas Paganini](https://github.com/LucasPaganini)
+﻿- [Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
@@ -1756,3 +1756,4 @@
 - [Andreas Bergh](https://github.com/Bendreas)
 - arpitjjw
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
+- [tcdsv]
