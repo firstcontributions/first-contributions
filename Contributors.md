@@ -1,3 +1,4 @@
+- [Rodrigo Reyes](https://github.com/ByteDecoder)
 ﻿- comso1
 - [Wyatt Hoodes](https://github.com/whoodes)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
