@@ -2344,3 +2344,4 @@
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
 - [Miguel Gallardo](https://github.com/MiguelGT98)
+- [Erik Aoki](https://github.com/ErikAoki)
