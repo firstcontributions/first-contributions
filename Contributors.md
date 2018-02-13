@@ -2376,6 +2376,7 @@
 - [Nicholas Hrboka](https://github.com/boka44/)
 - [Paul Steimel](https://github.com/redbaron372)
 - [Pablo Paglilla](https://github.com/PabloPaglilla)
+- [Barsha Shrestha](https://github.com/shresthabarsha)
 - [Rafał Kozłowski](https://github.com/rafalk42)
 - [Thomas Yeater](https://github.com/yeatert81786)
 - [Amirmehdi Naghibi](https://github.com/AmirNaghibi)
