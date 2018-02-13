@@ -2387,3 +2387,4 @@
 - [Ravikanth Koraveni](https://github.com/Ravikanth-koraveni)
 - [Mohan Kukreja](http://github.com/mohankukreja1)
 - [Joshua Christian](http://github.com/jchris1901)
+- [Seth Cope](http://github.com/sethcope)
