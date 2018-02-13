@@ -1661,6 +1661,7 @@
 - [Roger Zimmermann](https://github.com/AlpineCoder)
 - [Carsten](https://github.com/ckruhs)
 - [Mike Higginbottom](https://github.com/MikeHigginbottom)
+- [Matt Kunimoto](https://github.com/MattKunimoto)
 - [Oliver Tonnesen](https://github.com/otonnesen)
 - [Pranjal Aswani](https://github.com/aswanipranjal)
 - [Alex Noble](https://github.com/Alex-Noble4)
