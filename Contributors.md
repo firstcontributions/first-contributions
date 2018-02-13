@@ -330,6 +330,7 @@
 - [mrluissan](https://github.com/mrluissan)
 - [Jibin Mathews](https://github.com/jazzyarchitects)
 - [ramseyjacob](https://github.com/ramseyjacob)
+- [Konstantin Müller](https://github.com/konstantin-mueller)
 - [Nithin K Vijayan](https://github.com/nithin-vijayan)
 - [Karan Deep Batra](https://github.com/krnbatra)
 - [Shaznim Hussain](https://github.com/shaznimhussain)
