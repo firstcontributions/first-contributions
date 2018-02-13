@@ -1,3 +1,4 @@
+﻿-Shweta
 -Saraansh
 - comso1
 - [Sean Lee] (https://github.com/seankarltonlee)
@@ -2369,4 +2370,10 @@
 - [Mateusz Hamerla](https://github.com/CrownClownX)
 - [tcdsv]
 - [Peter Robitaille](https://github.com/pwrobitaille)
+- [Mark M](https://github.com/markm248)
+- [Brittany Cumens](https://github.com/bcfsu/)
+- [Andrew Lesh](https://github.com/adlesh/)
+- [Nicholas Hrboka](https://github.com/boka44/)
+- [Paul Steimel](https://github.com/redbaron372)
+- [Pablo Paglilla](https://github.com/PabloPaglilla)
 - [Rafał Kozłowski](https://github.com/rafalk42)
