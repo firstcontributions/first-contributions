@@ -55,7 +55,7 @@ Name your branch add-your-name, for example: "add-william-sutton"
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file.
 
 If you have the repo open in GitKraken you'll see there are changes. Review and stage those changes by selecting the newest commit marked with "// WIP" and the number of files changed and the type of change.
 
@@ -81,10 +81,9 @@ Congratulations, you've commited changes to your local copy of your branch of yo
 
 
 ## Push changes to GitHub
+Click the Push button on the toolbar.
 
 <img style="float: right;" src="assets/gk-push.png" alt="push your changes" />
-
-Click the Push button on the toolbar.
 
 
 ## Submit your changes for review
@@ -104,40 +103,40 @@ Master branch of your fork won't have those changes. In order to keep your fork 
 ## Keeping your fork synced with this repository
 
  First, switch to master branch.
- 
+
 <img style="float: right;" src="assets/gk-checkoutsuccessful.png" alt="checkout success" />
 
  Double click on master on the left under origin.
- 
+
 
  Then, add my repo's url as `upstream remote url`.
- 
- 
- 
+
+
+
 <img style="float: right;" src="assets/gk-clickaddremote.png" alt="click add remote" />
 
  Click on the '+' that reveals itself after you hover Remote on the left.
- 
- 
- 
- 
+
+
+
+
 <img style="float: right;" src="assets/gk-addremote.png" alt="add remote dialog" />
  Select Roshanjossey/first-contributions and name the remote upstream.
- 
+
  Click Add Remote.
 
- 
+
  This is a way of telling git that another version of this project exists in the specified url and we're calling it upstream. Once the changes are merged, fetch the new version of my repository.
 
- 
+
  Double click the master branch under upstream on the left.
 
- 
-<img style="float: right;" src="assets/gk-checkoutsuccessful.png" alt="checkout success" />
- 
 
- 
- 
+<img style="float: right;" src="assets/gk-checkoutsuccessful.png" alt="checkout success" />
+
+
+
+
 Here we're fetching all the changes in my fork (upstream remote). Now, you need to merge the new revision of my repository into your master branch.
 
 Drag your master branch (marked by your profile picture) on top of the upstream's master.
