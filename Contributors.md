@@ -1,6 +1,6 @@
-[Ashish Rao] (https://github.com/ashishra0)
--Shweta
--Saraansh
+- [Ashish Rao](https://github.com/ashishra0)
+- Shweta
+- Saraansh
 - comso1
 - [Sean Lee] (https://github.com/seankarltonlee)
 - [Michael Melvin] (https://github.com/mmelvin0581)
@@ -2394,3 +2394,4 @@
 - [Jacqueline Villaver](http://github.com/jfvillaver)
 - [Yank7](https://github.com/yank7)
 - [hvijaychandra]
+- [Shahzad Virani](https://github.com/shahzad-virani)
