@@ -2405,3 +2405,4 @@
 - [David Bernstein](https://github.com/davidbernstein)
 - [Mean Mango](https://github.com/mean-mango)
 - [Enrique Dutra](https://github.com/edutra)
+- [Richard Red](https://github.com/richardred)
