@@ -198,6 +198,7 @@
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
 - Neha Upadhyay
+-[taeguk1991](http://github.com/taeguk1991)
 - [jaro36](https://github.com/jaro36)
 - [yecicen](https://github.com/yecicen)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
