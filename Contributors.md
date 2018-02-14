@@ -1,5 +1,6 @@
-﻿-Shweta
--Saraansh
+- [Ashish Rao](https://github.com/ashishra0)
+- Shweta
+- Saraansh
 - comso1
 - [Sean Lee] (https://github.com/seankarltonlee)
 - [Michael Melvin] (https://github.com/mmelvin0581)
@@ -330,6 +331,7 @@
 - [mrluissan](https://github.com/mrluissan)
 - [Jibin Mathews](https://github.com/jazzyarchitects)
 - [ramseyjacob](https://github.com/ramseyjacob)
+- [Konstantin Müller](https://github.com/konstantin-mueller)
 - [Nithin K Vijayan](https://github.com/nithin-vijayan)
 - [Karan Deep Batra](https://github.com/krnbatra)
 - [Shaznim Hussain](https://github.com/shaznimhussain)
@@ -2387,4 +2389,9 @@
 - [Ravikanth Koraveni](https://github.com/Ravikanth-koraveni)
 - [Mohan Kukreja](http://github.com/mohankukreja1)
 - [Joshua Christian](http://github.com/jchris1901)
+- [Seth Cope](http://github.com/sethcope)
+- [Jason Nemecek](http://github.com/jason-nemecek)
+- [Jacqueline Villaver](http://github.com/jfvillaver)
+- [Yank7](https://github.com/yank7)
+- [hvijaychandra]
 - [Shahzad Virani](https://github.com/shahzad-virani)
