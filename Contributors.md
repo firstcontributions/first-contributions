@@ -20,6 +20,7 @@
 - [Samuelson Osoba](https://github.com/samuelsons)
 - [Joeylene Rivera](https://github.com/merakireal)
 - [Teddy Ngwenya](https://github.com/linteddy)
+- [Sonja Duijvesteijn](https://github.com/MissMormie)
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
