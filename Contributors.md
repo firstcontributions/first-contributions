@@ -2403,4 +2403,5 @@
 - [Kevin Haggerty](https://github.com/kghaggerty/) 
 - [Michael Landon](https://github.com/heylittlehouse/) 
 - [David Bernstein](https://github.com/davidbernstein)
-- [Mean Mango](https://github.com/mean-mango) 
+- [Mean Mango](https://github.com/mean-mango)
+- [Enrique Dutra](https://github.com/edutra)
