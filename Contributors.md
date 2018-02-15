@@ -2419,4 +2419,4 @@
 - [daniel] (https://github.com/dlemel8)
 - [yonatancoh](https://github.com/yonatancoh)
 - [Viking Mann](https://github.com/PoeticArcher)
-
+- [Seung Chi] (https://github.com/sychi77)
