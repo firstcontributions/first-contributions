@@ -268,11 +268,11 @@ const projectList = [
     tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
   },
   {
-    name: 'C Exercises',
-    imageSrc: 'http://graffitialphabet.org/graffiti-alphabet-letter-c.html',
-    githubLink: 'https://github.com/cexer/cexer',
-    description: 'Online Exercises for learning C',
-    tags: ['JavaScript', 'C','ExerciseC' ,'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
+    name: 'Oppia',
+    imageSrc: 'https://www.oppia.org/build/assets/images/logo/288x128_logo_mint.42f8d38467fe745205b3374b33668068.png',
+    githubLink: 'https://github.com/oppia/oppia',
+    description: 'Tool for collaboratively building interactive lessons.',
+    tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
   },
 ];
 
