@@ -2416,5 +2416,5 @@
 - [piuserre]
 -[Soumya](https://github.com/soumyajain51)
 - [Muqadar Ali Jamali (https://github.com/muqadar-ali-jamali)]
-- [dlemel8] (https://github.com/dlemel8)
+- [daniel] (https://github.com/dlemel8)
 
