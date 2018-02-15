@@ -2364,7 +2364,7 @@
 - [Stephen Petrides](https://github.com/sdpetrides)
 - [Dylanus](https://github.com/Dylanus)
 - [Miguel Gallardo](https://github.com/MiguelGT98)
-- [Erik Aoki](https://github.com/ErikAoki)
+-- [Erik Aoki](https://github.com/ErikAoki)
 - [Celina Harris](https://github.com/katspajamas)
 - [James Matthews III](https://github.com/JamesRobertMatthewsIII)
 - [Halima Dewanbabee](https://github.com/dewanbabee)
@@ -2413,3 +2413,4 @@
 - [Eric Semianczuk] (https://github.com/esemianczuk)
 - [Mithesh] (https://github.com/mithesh109)
 - [piuserre]
+-[Soumya](https://github.com/soumyajain51)
