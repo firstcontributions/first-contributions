@@ -267,6 +267,13 @@ const projectList = [
     description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS',
     tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
   },
+  {
+    name: 'C Exercises',
+    imageSrc: 'http://graffitialphabet.org/graffiti-alphabet-letter-c.html',
+    githubLink: 'https://github.com/cexer/cexer',
+    description: 'Online Exercises for learning C',
+    tags: ['JavaScript', 'C','ExerciseC' ,'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
+  },
 ];
 
 export default projectList;
