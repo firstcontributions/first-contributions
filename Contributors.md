@@ -77,6 +77,7 @@
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L ](http://github.com/ceculia)
+
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2413,3 +2414,4 @@
 - [Eric Semianczuk] (https://github.com/esemianczuk)
 - [Mithesh] (https://github.com/mithesh109)
 - [piuserre]
+-[Soumya](https://github.com/soumyajain51)
