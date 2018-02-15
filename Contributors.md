@@ -5,6 +5,7 @@
 - Shweta
 - Saraansh
 - comso1
+- [Vamsi Gandra](https://github.com/VamsiGandra)
 - [Sean Lee] (https://github.com/seankarltonlee)
 - [Michael Melvin] (https://github.com/mmelvin0581)
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
