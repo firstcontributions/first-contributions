@@ -1,4 +1,4 @@
-﻿- [Alexis Salcedo] (https://github.com/alexisss1928)
+- [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma] (https://github.com/abhaysharma419)
 - [Ashish Rao](https://github.com/ashishra0)
@@ -2134,6 +2134,7 @@
 - [Alex](https://github.com/LiAlexJ)
 - [Gary](https://github.com/thatguy227)
 - [Jack](https://github.com/jack99999)
+- [Harsh](https://github.com/harshp.97)
 - [Gabriel Machado](https://github.com/gm1357)
 - [Marcelo Ferreira](https://github.com/marcelosife)
 - [mcyusuf](https://github.com/mcyusuf)
