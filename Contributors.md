@@ -2407,3 +2407,4 @@
 - [Mean Mango](https://github.com/mean-mango)
 - [Enrique Dutra](https://github.com/edutra)
 - [Richard Red](https://github.com/richardred)
+- [Eric Semianczuk] (https://github.com/esemianczuk)
