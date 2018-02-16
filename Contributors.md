@@ -1,4 +1,4 @@
-- [Alexis Salcedo] (https://github.com/alexisss1928)
+﻿- [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma] (https://github.com/abhaysharma419)
 - [Ashish Rao](https://github.com/ashishra0)
@@ -2426,3 +2426,4 @@
 - [Seung Chi](https://github.com/sychi77)
 - [Anne Suzuki](https://github.com/annesuzuki)
 - [Gil Goldstein](https://github.com/gilgold)
+- [Ananya Pathak](https://github.com/EpcLoler)
