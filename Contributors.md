@@ -2411,8 +2411,8 @@
 - [Mean Mango](https://github.com/mean-mango)
 - [Enrique Dutra](https://github.com/edutra)
 - [Richard Red](https://github.com/richardred)
-- [Eric Semianczuk] (https://github.com/esemianczuk)
-- [Mithesh] (https://github.com/mithesh109)
+- [Eric Semianczuk](https://github.com/esemianczuk)
+- [Mithesh](https://github.com/mithesh109)
 - [piuserre]
 -[Soumya](https://github.com/soumyajain51)
 - [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
@@ -2421,6 +2421,7 @@
 - [Viking Mann](https://github.com/PoeticArcher)
 - [Adilene Constante](https://github.com/adiconstante)
 - [MarkM](https://github.com/markm248)
+- [Joe TePas](https://github.com/Joetgithub)
 - [Jesse Jones](https://github.com/jessemj1232)
 - [Seung Chi](https://github.com/sychi77)
 - [Anne Suzuki](https://github.com/annesuzuki)
