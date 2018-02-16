@@ -2441,3 +2441,4 @@
 - [Eamon Bauman](https://github.com/ebauman)
 - [Matt Wolford](https://github.com/mattrick04)
 - [Mai](https://github.com/softseal)
+- [Simon Gray](https://github.com/DukeOfNewYork)
