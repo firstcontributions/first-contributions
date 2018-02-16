@@ -2437,4 +2437,5 @@
 - [Edoardo Canobbio](https://github.com/canobbioe)
 - [Colton Hart](https://github.com/hartc17)
 - [Priyam Jain](https://github.com/pj1527)
+- [Cristian Adam](https://github.com/CrisAdam)
 - [Eamon Bauman](https://github.com/ebauman)
