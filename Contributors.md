@@ -2415,8 +2415,11 @@
 - [Mithesh] (https://github.com/mithesh109)
 - [piuserre]
 -[Soumya](https://github.com/soumyajain51)
-- [Muqadar Ali Jamali (https://github.com/muqadar-ali-jamali)]
-- [daniel] (https://github.com/dlemel8)
+- [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
+- [daniel](https://github.com/dlemel8)
 - [yonatancoh](https://github.com/yonatancoh)
 - [Viking Mann](https://github.com/PoeticArcher)
-- [Anne Suzuki] (https://github.com/annesuzuki)
+- [Adilene Constante](https://github.com/adiconstante)
+- [MarkM](https://github.com/markm248)
+- [Seung Chi](https://github.com/sychi77)
+- [Anne Suzuki](https://github.com/annesuzuki)
