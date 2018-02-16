@@ -2422,3 +2422,5 @@
 - [Adilene Constante](https://github.com/adiconstante)
 - [MarkM](https://github.com/markm248)
 - [Jesse Jones](https://github.com/jessemj1232)
+- [Seung Chi](https://github.com/sychi77)
+- [Anne Suzuki](https://github.com/annesuzuki)
