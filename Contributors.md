@@ -2421,3 +2421,4 @@
 - [Viking Mann](https://github.com/PoeticArcher)
 - [Adilene Constante](https://github.com/adiconstante)
 - [MarkM](https://github.com/markm248)
+- [Seung Chi](https://github.com/sychi77)
