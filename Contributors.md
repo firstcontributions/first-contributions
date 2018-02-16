@@ -2429,4 +2429,6 @@
 - [Gil Goldstein](https://github.com/gilgold)
 - [Ananya Pathak](https://github.com/EpcLoler)
 - [Rajat Gupta](https://github.com/rajatguptarg1)
+- [Alexander Hostrup](https://github.com/alexchrist)
+- [Yonatan Schachter](https://github.com/yonsch)
 - [David Maia](https://github.com/dagadbm)
