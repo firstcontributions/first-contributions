@@ -2434,3 +2434,4 @@
 - [David Maia](https://github.com/dagadbm)
 - [Shendy M Y] (https://github.com/shendymy)
 - [Daniel Lisunkin] (https://github.com/dlisunkin)
+- [Edoardo Canobbio] (https://github.com/canobbioe)
