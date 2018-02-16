@@ -2415,7 +2415,7 @@
 - [Eric Semianczuk](https://github.com/esemianczuk)
 - [Mithesh](https://github.com/mithesh109)
 - [piuserre]
--[Soumya](https://github.com/soumyajain51)
+- [Soumya](https://github.com/soumyajain51)
 - [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
 - [daniel](https://github.com/dlemel8)
 - [yonatancoh](https://github.com/yonatancoh)
@@ -2429,3 +2429,4 @@
 - [Gil Goldstein](https://github.com/gilgold)
 - [Ananya Pathak](https://github.com/EpcLoler)
 - [Rajat Gupta](https://github.com/rajatguptarg1)
+- [David Maia](https://github.com/dagadbm)
