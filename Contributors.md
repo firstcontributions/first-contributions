@@ -2422,3 +2422,4 @@
 - [Adilene Constante](https://github.com/adiconstante)
 - [MarkM](https://github.com/markm248)
 - [Seung Chi](https://github.com/sychi77)
+- [Anne Suzuki](https://github.com/annesuzuki)
