@@ -1,4 +1,4 @@
-﻿- [Franciscus Agnew] (https://github.com/franciscusagnew)
+- [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma] (https://github.com/abhaysharma419)
@@ -2432,3 +2432,4 @@
 - [Alexander Hostrup](https://github.com/alexchrist)
 - [Yonatan Schachter](https://github.com/yonsch)
 - [David Maia](https://github.com/dagadbm)
+- [Shendy M Y] (https://github.com/shendymy)
