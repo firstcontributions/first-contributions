@@ -2442,3 +2442,4 @@
 - [Matt Wolford](https://github.com/mattrick04)
 - [Mai](https://github.com/softseal)
 - [Simon Gray](https://github.com/DukeOfNewYork)
+- [Will Senn](https://github.com/decuser)
