@@ -2415,9 +2415,9 @@
 - [Mithesh] (https://github.com/mithesh109)
 - [piuserre]
 -[Soumya](https://github.com/soumyajain51)
-- [Muqadar Ali Jamali (https://github.com/muqadar-ali-jamali)]
-- [daniel] (https://github.com/dlemel8)
+- [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
+- [daniel](https://github.com/dlemel8)
 - [yonatancoh](https://github.com/yonatancoh)
 - [Viking Mann](https://github.com/PoeticArcher)
 - [Adilene Constante](https://github.com/adiconstante)
-
+- [MarkM](https://github.com/markm248)
