@@ -2414,7 +2414,7 @@
 - [Richard Red](https://github.com/richardred)
 - [Eric Semianczuk](https://github.com/esemianczuk)
 - [Mithesh](https://github.com/mithesh109)
-- [piuserre]
+- piuserre
 - [Soumya](https://github.com/soumyajain51)
 - [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
 - [daniel](https://github.com/dlemel8)
@@ -2432,6 +2432,8 @@
 - [Alexander Hostrup](https://github.com/alexchrist)
 - [Yonatan Schachter](https://github.com/yonsch)
 - [David Maia](https://github.com/dagadbm)
-- [Shendy M Y] (https://github.com/shendymy)
-- [Daniel Lisunkin] (https://github.com/dlisunkin)
-- [Edoardo Canobbio] (https://github.com/canobbioe)
+- [Shendy M Y](https://github.com/shendymy)
+- [Daniel Lisunkin](https://github.com/dlisunkin)
+- [Edoardo Canobbio](https://github.com/canobbioe)
+- [Colton Hart](https://github.com/hartc17)
+- [Priyam Jain](https://github.com/pj1527)
