@@ -2450,3 +2450,4 @@
 - [Shane Delaney] (https://github.com/baBounch)
 - [Paulina Moreno] (https://github.com/PaulinaMoreno)
 - [Mangalnathan Vijayagopal] (https://github.com/mangalnathanvg)
+- [Waldemar Penner] (https://github.com/w0wka91)
