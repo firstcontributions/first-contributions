@@ -1,5 +1,6 @@
 - [Derek BLue] (https://github.com/Starkiller4011)
 - [Bhargav Srinivasan] (https://github.com/bhargav95)
+- [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
 - [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
@@ -2449,3 +2450,4 @@
 - [Matthew Swanson] (https://github.com/MattSwanny)
 - [Shane Delaney] (https://github.com/baBounch)
 - [Paulina Moreno] (https://github.com/PaulinaMoreno)
+- [Mangalnathan Vijayagopal] (https://github.com/mangalnathanvg)
