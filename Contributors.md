@@ -2449,3 +2449,4 @@
 - [Matthew Swanson] (https://github.com/MattSwanny)
 - [Shane Delaney] (https://github.com/baBounch)
 - [Paulina Moreno] (https://github.com/PaulinaMoreno)
+- [Mangalnathan Vijayagopal] (https://github.com/mangalnathanvg)
