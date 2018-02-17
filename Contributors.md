@@ -1,4 +1,5 @@
-﻿- [Austin LeBel] (https://github.com/slatefox
+
+﻿- [Austin LeBel] (https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
@@ -2452,7 +2453,9 @@
 - [Shane Delaney](https://github.com/baBounch)
 - [Paulina Moreno](https://github.com/PaulinaMoreno)
 - [Mangalnathan Vijayagopal](https://github.com/mangalnathanvg)
-- [Waldemar Penner] (https://github.com/w0wka91
+- [Waldemar Penner](https://github.com/w0wka91
 - [Daniel Waters](https://github.com/DryWaters)
 - [Sinkler-Nemeth Istvan](https://github.com/isinkler)
 - [Ahmed Adel Fahmy Hassan](https://github.com/AhmedAdelFahmyHassanIbrahim)
+- [Morgan Webb](https://github.com/TelefunkenU87)
+- [Zonayed Ahmed](https://github.com/zonayedpca)
