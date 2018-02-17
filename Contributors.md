@@ -1,3 +1,4 @@
+- [Derek BLue] (https://github.com/Starkiller4011)
 - [Bhargav Srinivasan] (https://github.com/bhargav95)
 - [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
