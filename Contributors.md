@@ -1,5 +1,5 @@
-- [Aditya Varma] (https://github.com/AdityaVarmaUddaraju)
-- [Bhargav Srinivasan] (https://github.com/bhargav95)
+- [Bhargav Srinivasan](https://github.com/bhargav95)
+- [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
 - [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
