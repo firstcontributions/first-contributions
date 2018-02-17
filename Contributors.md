@@ -2459,3 +2459,4 @@
 - [Ahmed Adel Fahmy Hassan](https://github.com/AhmedAdelFahmyHassanIbrahim)
 - [Morgan Webb](https://github.com/TelefunkenU87)
 - [Zonayed Ahmed](https://github.com/zonayedpca)
+- [Marius Lazar] (https://github.com/mariuslazar93)
