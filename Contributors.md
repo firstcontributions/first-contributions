@@ -2460,3 +2460,4 @@
 - [Morgan Webb](https://github.com/TelefunkenU87)
 - [Zonayed Ahmed](https://github.com/zonayedpca)
 - [Marius Lazar] (https://github.com/mariuslazar93)
+- [Farhan Khan](https://github.com/farhan5900)
