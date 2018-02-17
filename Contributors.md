@@ -2454,3 +2454,4 @@
 - [Waldemar Penner] (https://github.com/w0wka91
 - [Daniel Waters] https://github.com/DryWaters)
 - [Sinkler-Nemeth Istvan] (https://github.com/isinkler)
+- [Jon Widow] (https://github.com/JonWidow)
