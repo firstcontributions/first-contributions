@@ -2453,3 +2453,4 @@
 - [Mangalnathan Vijayagopal] (https://github.com/mangalnathanvg)
 - [Waldemar Penner] (https://github.com/w0wka91
 - [Daniel Waters] https://github.com/DryWaters)
+- [Sinkler-Nemeth Istvan] (https://github.com/isinkler)
