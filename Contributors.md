@@ -1,3 +1,4 @@
+- [Bhargav Srinivasan] (https://github.com/bhargav95)
 - [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
