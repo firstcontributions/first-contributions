@@ -1,4 +1,5 @@
-- [Bhargav Srinivasan](https://github.com/bhargav95)
+- [Derek BLue] (https://github.com/Starkiller4011)
+- [Bhargav Srinivasan] (https://github.com/bhargav95)
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
 - [Franciscus Agnew] (https://github.com/franciscusagnew)
 - [Alexis Salcedo] (https://github.com/alexisss1928)
