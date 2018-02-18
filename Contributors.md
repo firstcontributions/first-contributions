@@ -2468,3 +2468,4 @@
 - [Lim Min](https://github.com/minjeckli)
 - [Abhishek Raj](https://github.com/abhishekraj007)
 - [Samuel Weekes](https:/github.com/samuelweekes)
+- [Loïc Combis](https://github.com/combisloic)
