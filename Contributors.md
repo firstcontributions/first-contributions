@@ -2470,3 +2470,4 @@
 - [Samuel Weekes](https:/github.com/samuelweekes)
 - [Loïc Combis](https://github.com/combisloic)
 -[Muhtasim Chowdhury](https://github.com/thegodofwar9732)
+- [Mariann Vakula](https://github.com/vakulamariann/)
