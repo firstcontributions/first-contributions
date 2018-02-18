@@ -2464,3 +2464,4 @@
 - [Merril Jeffs](https://github.com/merrilj)
 - [Jon Widow](https://github.com/JonWidow)
 - [Pedro Caetano](https://github.com/pedroccaetano)
+- [Vijay Aggarwal](https://github.com/vijayaggarwal)
