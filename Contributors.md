@@ -2463,3 +2463,4 @@
 - [Farhan Khan](https://github.com/farhan5900)
 - [Merril Jeffs](https://github.com/merrilj)
 - [Jon Widow](https://github.com/JonWidow)
+- [Pedro Caetano](https://github.com/pedroccaetano)
