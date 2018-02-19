@@ -2469,6 +2469,7 @@
 - [Abhishek Raj](https://github.com/abhishekraj007)
 - [Samuel Weekes](https:/github.com/samuelweekes)
 - [Loïc Combis](https://github.com/combisloic)
+- [Ali Almohaya](https://github.com/almo7aya)
 - [Muhtasim Chowdhury](https://github.com/thegodofwar9732)
 - [Mariann Vakula](https://github.com/vakulamariann/)
 - [James Touri](https://github.com/jamestouri)
