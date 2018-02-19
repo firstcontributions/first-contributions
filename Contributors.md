@@ -2469,3 +2469,4 @@
 - [Abhishek Raj](https://github.com/abhishekraj007)
 - [Samuel Weekes](https:/github.com/samuelweekes)
 - [Loïc Combis](https://github.com/combisloic)
+- [Ali Almohaya](https://github.com/almo7aya)
