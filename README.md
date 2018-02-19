@@ -1,13 +1,14 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below.
 
 #### *Read this in [other languages](Translations.md).*
 
@@ -61,7 +62,24 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor. You must be familiar with Markdown, a lightweight markup language. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown. 
+
+In this case, add the following line at the end of `Contributors.md:`
+
+```
+-[Your-name](https://github.com/Your-username)
+```
+
+For example:
+
+```
+-[John Doe](https://github.com/johndoe)
+```
+
+Make sure there is no space between `](` . Save the file and then close it. 
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+
 ```
 git add Contributors.md
 ```
