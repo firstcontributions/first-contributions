@@ -2474,3 +2474,4 @@
 -[James Touri](https://github.com/jamestouri)
 - [Danh Nguyen](https://github.com/NguyenDa18)
 - [Rahul S Varma](https://github.com/Raul9595)
+- [Gary Dawson Smith](https://github.com/garydawsonsmith)
