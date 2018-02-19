@@ -2481,3 +2481,4 @@
 - [Luke Wahlmeier](https://github.com/lukehw)
 - [Angela Schneider](https://github.com/BLUEBUNNY12)
 - [Juliana Sarmento](https://github.com/JulianaSarmento)
+- [Sascha Ormanns](https://github.com/s-ormanns)
