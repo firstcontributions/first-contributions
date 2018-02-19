@@ -1,4 +1,4 @@
-﻿
+
 ﻿- [Austin LeBel] (https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
@@ -2471,3 +2471,4 @@
 - [Loïc Combis](https://github.com/combisloic)
 -[Muhtasim Chowdhury](https://github.com/thegodofwar9732)
 - [Mariann Vakula](https://github.com/vakulamariann/)
+-[James Touri](https://github.com/jamestouri)
