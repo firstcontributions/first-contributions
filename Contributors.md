@@ -2490,4 +2490,5 @@
 - [Rafael Possenti](https://github.com/rafaelpossenti)
 - [Bryan Tam](https://github.com/nitehawk39)
 - [Hoshiki Tsunoda](https://github.com/hoshikitsunoda)
-- [maqor](https://github.com/maqor) 
+- [maqor](https://github.com/maqor)
+- [jonascastulik] (https://github.com/jonascastulik) 
