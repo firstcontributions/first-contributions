@@ -2496,4 +2496,5 @@
 - [jonascastulik](https://github.com/jonascastulik) 
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
+- [Vishal Jasrotia](https://github.com/vishalsingh8989)
 
