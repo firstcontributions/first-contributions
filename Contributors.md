@@ -2488,3 +2488,4 @@
 - [Filip Mihalic](https://github.com/nathan-drake)
 - [James Gadoury](https://github.com/jamesGadoury)
 - [Rafael Possenti](https://github.com/rafaelpossenti)
+- [Bryan Tam](https://github.com/nitehawk39)
