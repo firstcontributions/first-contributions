@@ -31,11 +31,15 @@ export default class CardsContainer extends React.Component {
     this.handleFilterListUpdate(value);
   }
   handleFilterListUpdate(value) {
-    if (value.length === 0) return this.setState({ filterList: projectList });
+    if (value.length === 0) {
+      return this.setState({ filterList: projectList });
+    }
     let valueList = [];
     let updatedList = [];
 
-    value.map(v => { valueList.push(v.value) });
+    value.map(v => { 
+      return valueList.push(v.value) 
+    });
     projectList.map(project => {
       if (!project.tags) return;
       let lowerCaseTags = project.tags.map(v => v.toLowerCase())
