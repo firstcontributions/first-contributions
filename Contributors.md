@@ -2498,4 +2498,5 @@
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
 - [Petio Petrov](https://github.com/petioptrv)
+- [Marvin Pollock](https://github.com/MarvinPollock)
 - [Kyle Johnson](https://github.com/PoweredByDilithium)
