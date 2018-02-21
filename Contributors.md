@@ -1,4 +1,4 @@
-﻿
+
 ﻿- [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
@@ -2500,3 +2500,5 @@
 - [Petio Petrov](https://github.com/petioptrv)
 - [Marvin Pollock](https://github.com/MarvinPollock)
 - [Kyle Johnson](https://github.com/PoweredByDilithium)
+- [Farrah Derderian](https://github.com/farrahD)
+
