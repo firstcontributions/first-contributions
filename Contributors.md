@@ -2494,7 +2494,7 @@
 - [Hoshiki Tsunoda](https://github.com/hoshikitsunoda)
 - [maqor](https://github.com/maqor)
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
-- [jonascastulik](https://github.com/jonascastulik) 
+- [jonascastulik](https://github.com/jonascastulik)
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
 - [Petio Petrov](https://github.com/petioptrv)
@@ -2502,3 +2502,4 @@
 - [Kyle Johnson](https://github.com/PoweredByDilithium)
 - [brtrduon](https://github.com/brtrduon)
 - [Farrah Derderian](https://github.com/farrahD)
+-[Vishal Nand](https://github.com/abavish)
