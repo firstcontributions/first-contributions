@@ -2504,3 +2504,5 @@
 - [brtrduon](https://github.com/brtrduon)
 - [Farrah Derderian](https://github.com/farrahD)
 - [Vishal Nand](https://github.com/abavish)
+- [Vishal Jasrotia](https://github.com/vishalsingh8989)
+- [Sneha Watharkar](https://github.com/Sneha-Watharkar)
