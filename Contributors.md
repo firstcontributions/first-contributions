@@ -2500,5 +2500,5 @@
 - [Petio Petrov](https://github.com/petioptrv)
 - [Marvin Pollock](https://github.com/MarvinPollock)
 - [Kyle Johnson](https://github.com/PoweredByDilithium)
+- [brtrduon](https://github.com/brtrduon)
 - [Farrah Derderian](https://github.com/farrahD)
-
