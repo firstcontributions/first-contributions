@@ -2515,3 +2515,4 @@
 - [Edwin Moses](https://github.com/3dw1nM0535)
 - [Richard Rolfes](https://github.com/rarwolf47)
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
+- [Jon Hawranko](https://github.com/Shlim45)
