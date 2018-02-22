@@ -2523,3 +2523,4 @@
 - [Michael Cuomo](https://github.com/MikeX777)
 - [Samuel Elbaz](https://github.com/raregamer)
 - [Linda Cai](https://game123tttoe.herokuapp.com/)
+- [Haneesh Reddy](https://github.com/haneeshr)
