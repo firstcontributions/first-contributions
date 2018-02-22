@@ -2527,3 +2527,4 @@
 - [Haneesh Reddy](https://github.com/haneeshr)
 - [Hamza](https://github.com/Achtelnote)
 - [Alexandre Vasse](https://github.com/Avasse)
+- [Ergul Azizler](https://github.com/ergaziz)
