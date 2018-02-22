@@ -2516,3 +2516,4 @@
 - [Richard Rolfes](https://github.com/rarwolf47)
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
 - [Jon Hawranko](https://github.com/Shlim45)
+- [Celso Moraes](https://github.com/cemarte)
