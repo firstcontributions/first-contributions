@@ -1,4 +1,4 @@
-﻿- [mefff](https://github.com/mefff)
+- [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
@@ -2531,3 +2531,4 @@
 - [Igor Dragutinović](https://github.com/igor-dragutinovic)
 - [Ida P](https://github.com/northantsvintage)
 - [MMarinov](https://github.com/MMarinov97)
+[Derrick Chaparro](https://github.com/dchaparro801)
