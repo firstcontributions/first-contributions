@@ -12,7 +12,6 @@ const projectList = [
       'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
     description: 'Quickly ramp up in new programming languages',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
-    tags: ['Ruby', 'Exercises', 'CLI', 'Web app'],
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
