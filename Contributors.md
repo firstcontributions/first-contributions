@@ -2518,3 +2518,4 @@
 - [Jon Hawranko](https://github.com/Shlim45)
 - [Celso Moraes](https://github.com/cemarte)
 - [Bill Brocker](https://github.com/bbrocker)
+- [Samuel Elbaz](https://github.com/raregamer)
