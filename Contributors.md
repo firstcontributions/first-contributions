@@ -2518,4 +2518,5 @@
 - [Jon Hawranko](https://github.com/Shlim45)
 - [Celso Moraes](https://github.com/cemarte)
 - [Bill Brocker](https://github.com/bbrocker)
-- [Esteban Diaz] (https://github.com/RoloCao)
+- [Esteban Diaz](https://github.com/RoloCao)
+- [Michael Cuomo](https://github.com/MikeX777)
