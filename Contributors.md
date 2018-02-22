@@ -1,4 +1,4 @@
-- [mefff](https://github.com/mefff)
+﻿- [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
@@ -2522,5 +2522,6 @@
 - [Esteban Diaz](https://github.com/RoloCao)
 - [Michael Cuomo](https://github.com/MikeX777)
 - [Samuel Elbaz](https://github.com/raregamer)
+-[Dan Langley](https://github.com/dlangleychi)
 - [Linda Cai](https://game123tttoe.herokuapp.com/)
 - [Haneesh Reddy](https://github.com/haneeshr)
