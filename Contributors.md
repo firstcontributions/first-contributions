@@ -2535,3 +2535,4 @@
 [Derrick Chaparro](https://github.com/dchaparro801)
 - [Kelby Lu](https://github.com/kelby2)
 - [Gary W](https://github.com/garywallace-uk)
+- [Sean Connolly](https://github.com/maegico)
