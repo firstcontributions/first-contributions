@@ -2520,3 +2520,4 @@
 - [Li Sun](https://github.com/reelsun)
 - [Bill Brocker](https://github.com/bbrocker)
 - [Michael Cuomo](https://github.com/MikeX777)
+- [Samuel Elbaz](https://github.com/raregamer)
