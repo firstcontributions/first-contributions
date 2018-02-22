@@ -2517,7 +2517,7 @@
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
 - [Jon Hawranko](https://github.com/Shlim45)
 - [Celso Moraes](https://github.com/cemarte)
-- [Li Sun](https://github.com/reelsun)
 - [Bill Brocker](https://github.com/bbrocker)
+- [Esteban Diaz](https://github.com/RoloCao)
 - [Michael Cuomo](https://github.com/MikeX777)
 - [Samuel Elbaz](https://github.com/raregamer)
