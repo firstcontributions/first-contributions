@@ -2526,3 +2526,4 @@
 - [Linda Cai](https://game123tttoe.herokuapp.com/)
 - [Haneesh Reddy](https://github.com/haneeshr)
 - [Hamza](https://github.com/Achtelnote)
+- [Alexandre Vasse](https://github.com/Avasse)
