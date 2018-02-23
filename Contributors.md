@@ -1355,4 +1355,5 @@ Cheng Chin Lim
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
 - [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
-- [Melissa Sorrells](https://github.com/msorre2)
+[Melissa Sorrells](https://github.com/msorre2)
+
