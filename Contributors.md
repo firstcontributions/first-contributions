@@ -2547,3 +2547,4 @@
 - [Luke Stoward](https://github.com/Stoward94)
 - [Pepijn Overbeeke](https://github.com/pepijno)
 - [Rohith Gilla](https://github.com/Rohithgilla12)
+- [William Lan](https://github.com/williamlangroudi)
