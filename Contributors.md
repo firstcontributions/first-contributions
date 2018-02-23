@@ -2541,3 +2541,4 @@
 - [Uxmal Cuellar](https://github.com/UxmalCuellar)
 - [Melvin Viana](https://github.com/Melvino5)
 - [Arif Mafazan Simohartono](https://github.com/mafazans)
+- [Viral Haria](https://github.com/viralharia)
