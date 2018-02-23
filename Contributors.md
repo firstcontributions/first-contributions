@@ -1518,6 +1518,7 @@
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
 - [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
+<<<<<<< HEAD
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Amberzizi](https://github.com/amberzizi)
@@ -2547,3 +2548,4 @@
 - [Luke Stoward](https://github.com/Stoward94)
 - [Pepijn Overbeeke](https://github.com/pepijno)
 - [Rohith Gilla](https://github.com/Rohithgilla12)
+- [Melissa Sorrells](https://github.com/msorre2)
