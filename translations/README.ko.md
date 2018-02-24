@@ -41,7 +41,7 @@ git clone "방금 복사한 주소"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-'this-is-you' 는 당신의 깃허브 계정입니다. 여기서 깃허브에 있는
+`this-is-you` 는 당신의 깃허브 계정입니다. 여기서 깃허브에 있는
 first-contributions 저장소의 내용을 컴퓨터에 복사합니다.
 
 ## 브랜치 생성하기
@@ -52,7 +52,7 @@ first-contributions 저장소의 내용을 컴퓨터에 복사합니다.
 cd first-contributions
 ```
 
-이제 'git checkout' 명령을 사용하여 브랜치를 생성합니다.
+이제 `git checkout` 명령을 사용하여 브랜치를 생성합니다.
 
 ```
 git checkout -b <add-your-name>
@@ -68,10 +68,10 @@ git checkout -b add-alonzo-church
 
 ## 필요한 변경사항을 작성하고 커밋하기
 
-이제 텍스트 편집기에서 'Contributors.md' 파일을 엽니다. 당신은 분명 가벼운 마크업 언어인 Markdown에 익숙할 겁니다.
+이제 텍스트 편집기에서 `Contributors.md` 파일을 엽니다. 당신은 분명 가벼운 마크업 언어인 Markdown에 익숙할 겁니다.
 Markdown을 어떻게 사용하는지는 이 [치트시트](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)를 참조하세요.
 
-이 경우에는 다음을 'Contributors.md'의 마지막에 추가하세요:
+이 경우에는 다음을 `Contributors.md`의 마지막에 추가하세요:
 
 ```
 -[Your-name](https://github.com/Your-username)
@@ -83,35 +83,35 @@ Markdown을 어떻게 사용하는지는 이 [치트시트](https://github.com/a
 -[John Doe](https://github.com/johndoe)
 ```
 
-'](' 사이에 스페이스가 없다는 것에 주의하십시오. 파일을 저장하고 종료하십시오.
+`](` 사이에 스페이스가 없다는 것에 주의하십시오. 파일을 저장하고 종료하십시오.
 
-프로젝트 디렉토리에서 'git status' 명령을 실행하면 변경사항을 볼 수 있습니다. 변경사항을 아래 'git add' 명령으로 추가합니다.
+프로젝트 디렉토리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 변경사항을 아래 `git add` 명령으로 추가합니다.
 
 ```
 git add Contributors.md
 ```
 
-이제 아래 'git commit' 명령으로 변경사항을 커밋합니다.
+이제 아래 `git commit` 명령으로 변경사항을 커밋합니다.
 
 ```
 git commit -m "Add <Your-name> to Contributors list"
 ```
 
-'<Your-name>'을 당신의 이름으로 바꾸세요.
+`<Your-name>`을 당신의 이름으로 바꾸세요.
 
 ## 변경사항을 깃허브에 푸시하기
 
-'git push' 명령으로 변경사항을 푸시합니다.
+`git push` 명령으로 변경사항을 푸시합니다.
 
 ```
 git push origin <add-your-name>
 ```
 
-'<add-your-name>'을 이전에 생성한 브랜치 이름으로 바꾸세요.
+`<add-your-name>`을 이전에 생성한 브랜치 이름으로 바꾸세요.
 
 ## 검토를 위해 변경사항을 제출하기
 
-깃허브의 당신의 저장소에 가면, 'Compare & pull request' 버튼을 볼 수 있습니다. 그 버튼을 클릭하세요.
+깃허브의 당신의 저장소에 가면, `Compare & pull request` 버튼을 볼 수 있습니다. 그 버튼을 클릭하세요.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="풀 요청
 생성하기" />
@@ -143,6 +143,6 @@ git push origin <add-your-name>
 
 ## Self-Promotion
 
-본 프로젝트가 마음에 드신다면, [GitHub](https://github.com/Roshanjossey/first-contributions)를 star버튼을 눌러주세요.
+본 프로젝트가 마음에 드신다면, [GitHub](https://github.com/Roshanjossey/first-contributions)를 star 버튼을 눌러주세요.
 
 특히 도움이 되고자하신다면 [Twitter](https://twitter.com/sudo__bangbang)와 [GitHub](https://github.com/roshanjossey)의 [Roshan](https://roshanjossey.github.io/)을 팔로우해주세요.
