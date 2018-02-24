@@ -2563,3 +2563,4 @@
 - [Matt Steadman](https://github.com/mattsteadman)
 - [Jarl](https://github.com/Biograf)
 - [Anne Lee Steele](https://github.com/aleesteele)
+- [Liran Farage](https://github.com/liranfar)
