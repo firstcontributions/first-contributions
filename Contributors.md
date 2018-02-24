@@ -2567,3 +2567,4 @@
 - [Damon Shackleton](https://github.com/damon-daemon)
 - [Rohit Markam](https://github.com/DarkMethod)
 - [Mohammad Maaz Khan](https://github.com/maaz92)
+- [Hugo Matus](https://github.com/hugomatus)
