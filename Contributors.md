@@ -2561,3 +2561,4 @@
 - [Amin Limbada](https://github.com/loxator)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
 - [Matt Steadman](https://github.com/mattsteadman)
+- [Jarl](https://github.com/Biograf)
