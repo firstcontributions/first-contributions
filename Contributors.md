@@ -1,4 +1,4 @@
-- [samneatherlin](https://github.com/sneatherlin)
+﻿- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2559,3 +2559,4 @@
 - [Saiharsha B](https://github.com/thewhitewolf17)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Amin Limbada](https://github.com/loxator)
+- [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
