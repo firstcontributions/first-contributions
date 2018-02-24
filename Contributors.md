@@ -2559,3 +2559,4 @@
 - [Saiharsha B](https://github.com/thewhitewolf17)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Amin Limbada](https://github.com/loxator)
+- [Anne Lee Steele](https://github.com/aleesteele)
