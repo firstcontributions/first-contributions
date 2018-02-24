@@ -2553,4 +2553,6 @@
 - [Bhavesh Poddar](https://github.com/bhaveshpoddar94)
 - [Tim Liu](https://github.com/bonkerstim)
 - [Uma](https://github.com/umamurugesan)
--[Saiharsha B](https://github.com/thewhitewolf17)
+- [Adam Hoffman](https://github.com/ahoffm24)
+- [Carl Rizk](https://github.com/carlrizk)
+- [Saiharsha B](https://github.com/thewhitewolf17)
