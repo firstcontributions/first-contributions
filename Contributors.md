@@ -87,7 +87,6 @@
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L ](http://github.com/ceculia)
-
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2563,3 +2562,4 @@
 - [Matt Steadman](https://github.com/mattsteadman)
 - [Jarl](https://github.com/Biograf)
 - [Anne Lee Steele](https://github.com/aleesteele)
+- [Mensisa](www.github.com/mensisa) 
