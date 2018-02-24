@@ -1,4 +1,4 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -1518,7 +1518,6 @@
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
 - [Ícaro Pinho Esmeraldo](https://github.com/icaropj)
-<<<<<<< HEAD
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Amberzizi](https://github.com/amberzizi)
@@ -2552,3 +2551,4 @@
 - [Abhishek Kumar](https://github.com/KmrAbhi)
 - [Pia Leung](https://github.com/misspia)
 - [Bhavesh Poddar](https://github.com/bhaveshpoddar94)
+- [Tim Liu](https://github.com/bonkerstim)
