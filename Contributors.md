@@ -2564,3 +2564,4 @@
 - [Jarl](https://github.com/Biograf)
 - [Anne Lee Steele](https://github.com/aleesteele)
 - [Liran Farage](https://github.com/liranfar)
+- [Mohammad Maaz Khan](https://github.com/maaz92)
