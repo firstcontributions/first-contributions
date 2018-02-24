@@ -1,4 +1,4 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2551,3 +2551,4 @@
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Abhishek Kumar](https://github.com/KmrAbhi)
 - [Pia Leung](https://github.com/misspia)
+- [Tim Liu](https://github.com/bonkerstim)
