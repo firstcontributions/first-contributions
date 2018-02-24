@@ -2565,3 +2565,4 @@
 - [Anne Lee Steele](https://github.com/aleesteele)
 - [Liran Farage](https://github.com/liranfar)
 - [Damon Shackleton](https://github.com/damon-daemon)
+- [Rohit Markam](https://github.com/DarkMethod)
