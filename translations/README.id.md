@@ -41,7 +41,7 @@ Dimana `username-anda` adalah username Github anda. Pada langkah ini anda mendup
 
 ## Membuat Branch
 
-Ganti ke direktori repositori di komputer (jika belum ada di di sana):
+Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
 ```
 cd first-contributions
