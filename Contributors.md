@@ -2574,3 +2574,4 @@
 - [Mensisa](www.github.com/mensisa) 
 - [Harry BP](https://github.com/harrybp)
 - [Yash Sharma](https://github.com/Yashs744)
+- [George Tarnaras](https://github.com/georgedb)
