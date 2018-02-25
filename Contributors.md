@@ -1,4 +1,4 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -87,7 +87,6 @@
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L ](http://github.com/ceculia)
-
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2569,5 +2568,7 @@
 - [Mohammad Maaz Khan](https://github.com/maaz92)
 - [Hugo Matus](https://github.com/hugomatus)
 - [Frauke Nonnenmacher](https://github.com/FraukeN)
+- [Reza Handzalah](https://github.com/tbmreza)
 - [Caleb Cauthon](https://github.com/calebcauthon)
 - [Mandar Karlekar](https://github.com/mkarlekar3)
+- [Mensisa](www.github.com/mensisa) 
