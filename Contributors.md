@@ -1,4 +1,4 @@
-- [samneatherlin](https://github.com/sneatherlin)
+﻿- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2577,3 +2577,4 @@
 - [George Tarnaras](https://github.com/georgedb)
 - [HalfTOXIC](https://github.com/HalfTOXIC)
 - [Marek Mego](https://github.com/jejdacz)
+- [Beth Haworth](https://github.com/bethhaworth)
