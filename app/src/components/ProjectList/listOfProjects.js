@@ -189,7 +189,14 @@ const projectList = [
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['python', 'module', 'data-mining','automated-testing']
-  }
+  },
+  {
+       name:'MissionControl',
+       imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+       githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+       description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
+       tags: ['Javascript','Docker','Thrift','Good First Issue']
+    },
 ];
 
 export default projectList;
