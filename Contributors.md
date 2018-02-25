@@ -1,4 +1,4 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2569,3 +2569,4 @@
 - [Mohammad Maaz Khan](https://github.com/maaz92)
 - [Hugo Matus](https://github.com/hugomatus)
 - [Frauke Nonnenmacher](https://github.com/FraukeN)
+- [Reza Handzalah](https://github.com/tbmreza)
