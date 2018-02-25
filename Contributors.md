@@ -87,7 +87,6 @@
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L ](http://github.com/ceculia)
-
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2570,3 +2569,5 @@
 - [Hugo Matus](https://github.com/hugomatus)
 - [Frauke Nonnenmacher](https://github.com/FraukeN)
 - [Reza Handzalah](https://github.com/tbmreza)
+- [Caleb Cauthon](https://github.com/calebcauthon)
+- [Mensisa](www.github.com/mensisa) 
