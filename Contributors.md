@@ -2578,4 +2578,7 @@
 - [HalfTOXIC](https://github.com/HalfTOXIC)
 - [Marek Mego](https://github.com/jejdacz)
 - [Beth Haworth](https://github.com/bethhaworth)
+- [Madan Vadicharla](https://github.com/madanvadicharla)
+- [Stefan Strut](https://github.com/StrStefan)
+- [Rohit Kumar](https://github.com/rohitchaudhary701)
 - [Aaron Lee](https://github.com/onlyhope) 
