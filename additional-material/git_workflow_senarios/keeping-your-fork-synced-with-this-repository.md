@@ -1,4 +1,4 @@
-## Keeping your fork synced with this repository
+# Keeping your fork synced with this repository
 
 First, the flow for a full sync should be understood. In this schema, there are 3 different repos: my public repo on Github `github.com/Roshanjossey/first-contributions/`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are suppose to work. This kind of cooperation is typical for open source projects and called `Triangle Workflows`.
 
@@ -37,4 +37,4 @@ git push origin master
 ```
 Notice here you're pushing to the remote named `origin`.
 
-At this point, all your repositories are up-to-date. Well done! You should do this, everytime you're GitHub repo tells you that you are a few commits behind.
+At this point, all your repositories are up-to-date. Well done! You should do this, everytime your GitHub repo tells you that you are a few commits behind.
