@@ -2584,3 +2584,6 @@
 - [Aaron Lee](https://github.com/onlyhope)
 - [Enrique Novoa](https://github.com/enriquenov)
 - [Ruchika Salwan](https://github.com/Ruchika8)
+- [Roopali Rawat](https://github.com/roopali8)
+- [Fan-Wang](https://github.com/q1w2e3r4127)
+- [Achilleas Tzenetopoulos](https://github.com/iwita)
