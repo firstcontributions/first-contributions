@@ -2590,3 +2590,4 @@
 - [SakHam](https://github.com/SakHam)
 - [Sumant Sahney](https://github.com/sumantsahney)
 - [Brendan Perry](https://github.com/brendanperry05)
+- [Francisco Rodrigues](https://github.com/FRodrigues21)
