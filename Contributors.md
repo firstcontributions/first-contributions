@@ -2580,3 +2580,4 @@
 - [Beth Haworth](https://github.com/bethhaworth)
 - [Madan Vadicharla](https://github.com/madanvadicharla)
 - [Stefan Strut](https://github.com/StrStefan)
+- [Rohit Kumar](https://github.com/rohitchaudhary701)
