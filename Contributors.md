@@ -2599,4 +2599,4 @@
 - [Mohan dere] (https://github.com/mohandere)
 - [Hermanus Bosman](https://github.com/hermanusb)  
 - [Nick Holbrook](https://github.com/ndh175)
-- [Hypnotra](https://github.com/hypnotra)
+- [Hypnotra](https://github.com/hypnotraZ)
