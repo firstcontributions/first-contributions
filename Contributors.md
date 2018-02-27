@@ -2604,3 +2604,4 @@
 - [Hugo Rocha](https://github.com/hugo-rocha)
 - [Guy Even](https://github.com/gforce2k5)
 - [Oliver Causey](https://github.com/olivercausey)
+- [André Rodrigues](https://github.com/ao-rodrigues)
