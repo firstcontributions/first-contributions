@@ -2,6 +2,7 @@
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
+- [jmadd](https://github.com/jmadd)
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
@@ -2591,3 +2592,4 @@
 - [Sumant Sahney](https://github.com/sumantsahney)
 - [Brendan Perry](https://github.com/brendanperry05)
 - [Bradley Dong](https://github.com/newcasio)
+- [Francisco Rodrigues](https://github.com/FRodrigues21)
