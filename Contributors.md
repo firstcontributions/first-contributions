@@ -2542,6 +2542,7 @@
 - [Uxmal Cuellar](https://github.com/UxmalCuellar)
 - [Melvin Viana](https://github.com/Melvino5)
 - [Arif Mafazan Simohartono](https://github.com/mafazans)
+- [Cale Riggs](https://github.com/caleriggs)
 - [Viral Haria](https://github.com/viralharia)
 - [Saikat Tapu](https://github.com/srt0)
 - [Luke Stoward](https://github.com/Stoward94)
