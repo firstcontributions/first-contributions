@@ -100,7 +100,7 @@
 <thead>
 <tr>
 <th><a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://camo.githubusercontent.com/59366250bb159bb039b8eba5bd19c615dfc1819a/68747470733a2f2f6465736b746f702e6769746875622e636f6d2f696d616765732f6465736b746f702d69636f6e2e737667" width="100" data-canonical-src="https://desktop.github.com/images/desktop-icon.svg" style="max-width:100%;"></a></th>
-<th><a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/3860efdf8f5c7f13181764ff963ef6cad2a28ac9/68747470733a2f2f7777772e6d6963726f736f66742e636f6d2f6e65742f696d616765732f76736c6f676f2e706e67" width="100" data-canonical-src="https://www.microsoft.com/net/images/vslogo.png" style="max-width:100%;"></a></th>
+<th><a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/4dc59d7919925e4ebab5a98180b2a9d21446ca53/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f30657865323578584f7263566e726e33544964736735342d344677684341716f466d6f3545494d795a7443464e39706d763633484e427375457939643771656a7158782d486c49615159342d42526b6c6a6636373d77313336362d68363239" width="100" data-canonical-src="https://www.microsoft.com/net/images/vslogo.png" style="max-width:100%;"></a></th>
 <th><a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100" style="max-width:100%;"></a></th>
 </tr>
 </thead>
