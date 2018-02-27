@@ -2601,3 +2601,4 @@
 - [Nick Holbrook](https://github.com/ndh175)
 - [Christopher Govender](https://github.com/mykubicle)
 - [Harshit](https://github.com/harshit13)
+- [Hugo Rocha](https://github.com/hugo-rocha)
