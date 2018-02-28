@@ -1,4 +1,5 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+﻿- [Bruno Pinto] (https://github.com/brcjsp)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
