@@ -2614,3 +2614,4 @@
 - [Jon Mabale](https://github.com/jonmabale)
 - [Kat Batuigas](https://github.com/kbatuigas)
 - [Kaue Silva](https://github.com/klolivei)
+- [Karl Roldan](https://github.com/karlfroldan)
