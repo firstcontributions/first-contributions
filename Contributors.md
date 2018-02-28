@@ -2616,3 +2616,4 @@
 - [Kaue Silva](https://github.com/klolivei)
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
+- [Don Smith](https://github.com/DB-Smith)
