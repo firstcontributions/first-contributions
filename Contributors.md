@@ -2615,3 +2615,4 @@
 - [Kat Batuigas](https://github.com/kbatuigas)
 - [Kaue Silva](https://github.com/klolivei)
 - [Karl Roldan](https://github.com/karlfroldan)
+- [Sebastian Perez](https://github.com/sgp715)
