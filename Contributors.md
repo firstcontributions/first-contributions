@@ -2613,3 +2613,4 @@
 - [Peter Vlasveld](https://github.com/Fizzizist)
 - [Jon Mabale](https://github.com/jonmabale)
 - [Kat Batuigas](https://github.com/kbatuigas)
+- [Kaue Silva](https://github.com/klolivei)
