@@ -1,4 +1,4 @@
-- [samneatherlin](https://github.com/sneatherlin)
+﻿- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2605,6 +2605,6 @@
 - [Gabriel Stein](https://github.com/SteinGabriel)
 - [Guy Even](https://github.com/gforce2k5)
 - [Oliver Causey](https://github.com/olivercausey)
+- [Joshua Gutierrez](https://github.com/customprogramming
 - [André Rodrigues](https://github.com/ao-rodrigues)
-- [Molly Moran](https://github.com/mcginnis92)
 - [Juwan Petty](https://github.com/juwanpetty)
