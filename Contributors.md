@@ -2606,7 +2606,7 @@
 - [Gabriel Stein](https://github.com/SteinGabriel)
 - [Guy Even](https://github.com/gforce2k5)
 - [Oliver Causey](https://github.com/olivercausey)
-- [Joshua Gutierrez](https://github.com/customprogramming
+- [Joshua Gutierrez](https://github.com/customprogramming)
 - [André Rodrigues](https://github.com/ao-rodrigues)
 - [Juwan Petty](https://github.com/juwanpetty)
 - [Jon Hodgins](https://github.com/JonHodgins)
@@ -2616,3 +2616,6 @@
 - [Kaue Silva](https://github.com/klolivei)
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
+- [Susan Lippa](https://github.com/slippa91)
+
+
