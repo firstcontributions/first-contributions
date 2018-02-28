@@ -2612,3 +2612,4 @@
 - [Jon Hodgins](https://github.com/JonHodgins)
 - [Peter Vlasveld](https://github.com/Fizzizist)
 - [Jon Mabale](https://github.com/jonmabale)
+- [Kat Batuigas](https://github.com/kbatuigas)
