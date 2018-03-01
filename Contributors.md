@@ -2622,3 +2622,4 @@
 - [Jalen Adams](https://github.com/LeftySolara)
 - [Akshay Havile](https://github.com/akshayhavile)
 - [Josh Slater](https://github.com/jslaterwriter)
+- [Veerendra Mahawar](https://github.com/VeerendraMahawar)
