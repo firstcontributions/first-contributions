@@ -1,4 +1,5 @@
-﻿- [Bruno Pinto] (https://github.com/brcjsp)
+﻿- [pku](https://github.com/pkugithub)
+- [Bruno Pinto] (https://github.com/brcjsp)
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
@@ -2617,5 +2618,6 @@
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
 - [Susan Lippa](https://github.com/slippa91)
-
+- [Don Smith](https://github.com/DB-Smith)
+- [Jalen Adams](https://github.com/LeftySolara)
 
