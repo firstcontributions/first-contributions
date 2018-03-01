@@ -209,7 +209,7 @@ const projectList = [
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
-  },
+  }, 
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
@@ -280,6 +280,12 @@ const projectList = [
     description: 'PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈',
     tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
   },
+  {
+       name:'MissionControl',
+       imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+       githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+       description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
+       tags: ['Javascript','Docker','Thrift','Good First Issue']
+    },
 ];
-
 export default projectList;

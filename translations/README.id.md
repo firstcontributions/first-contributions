@@ -7,9 +7,9 @@ Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama ketika
 
 Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
-#### *Baca di [bahasa lainnya](Translations.md)* 
+#### *Baca dalam [bahasa lainnya](Translations.md)* 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -20,7 +20,7 @@ Hal tersebut akan membuat salinan repositori ini di akun anda.
 
 ## Klon repositori
 
-<img style="float: left;" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Sekarang klon repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon "copy to clipboard".
 
@@ -41,7 +41,7 @@ Dimana `username-anda` adalah username Github anda. Pada langkah ini anda mendup
 
 ## Membuat Branch
 
-Ganti ke direktori repositori di komputer (jika belum ada di di sana):
+Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
 ```
 cd first-contributions
