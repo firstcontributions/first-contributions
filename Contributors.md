@@ -2621,3 +2621,4 @@
 - [Don Smith](https://github.com/DB-Smith)
 - [Jalen Adams](https://github.com/LeftySolara)
 - [Akshay Havile](https://github.com/akshayhavile)
+- [Josh Slater](https://github.com/jslaterwriter)
