@@ -1,4 +1,5 @@
-﻿- [pku](https://github.com/pkugithub)
+- [William Brocker](https://github.com/bbrocker)
+- [pku](https://github.com/pkugithub)
 - [Bruno Pinto] (https://github.com/brcjsp)
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
@@ -2635,3 +2636,4 @@
 - [Shubham Garg](https://github.com/sbeesm)
 - [Nate Weeks](https://github.com/Nate-weeks)
 - [Longwen Ou](https://github.com/oulongwen)
+- [J-tanz](https://github.com/j-tanz)
