@@ -2624,3 +2624,4 @@
 - [Josh Slater](https://github.com/jslaterwriter)
 - [Veerendra Mahawar](https://github.com/VeerendraMahawar)
 - [Ashok Manghat](https://github.com/ashokmanghat)
+- [Eirini Galati](https://github.com/Sreini)
