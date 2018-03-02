@@ -1,4 +1,4 @@
-﻿- [William Brocker](https://github.com/bbrocker)
+- [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
 - [Bruno Pinto] (https://github.com/brcjsp)
 - [samneatherlin](https://github.com/sneatherlin)
@@ -2641,3 +2641,4 @@
 - [David Organ](https://github.com/davidorgan)
 - [Thien Tran](https://github.com/Continuiti)
 - [Christine Betts](https://github.com/chrstnb)
+- [Pai Zhang](https://github.com/paizhang)
