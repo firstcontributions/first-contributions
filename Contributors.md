@@ -1,4 +1,5 @@
-- [William Brocker](https://github.com/bbrocker)
+- [Mayank Khanna](https://github.com/khanna98)
+﻿- [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
 - [Bruno Pinto] (https://github.com/brcjsp)
 - [samneatherlin](https://github.com/sneatherlin)
@@ -18,6 +19,7 @@
 - Shweta
 - Saraansh
 - comso1
+- [Santosh Bhulun](https://github.com/San-tosh)
 - [Ivan Vera](https://github.com/Ivanjosevera)
 - [Vamsi Gandra](https://github.com/VamsiGandra)
 - [Sean Lee](https://github.com/seankarltonlee)
@@ -2637,5 +2639,15 @@
 - [Nate Weeks](https://github.com/Nate-weeks)
 - [Longwen Ou](https://github.com/oulongwen)
 - [J-tanz](https://github.com/j-tanz)
-- [David Organ](https://github.com/davidorgan
+- [David Organ](https://github.com/davidorgan)
+- [Thien Tran](https://github.com/Continuiti)
+- [Christine Betts](https://github.com/chrstnb)
+- [Pai Zhang](https://github.com/paizhang)
+- [Varun Rathore](https://github.com/Rathovarun)
+- [Amar Alaa](https://github.com/amaralaa)
+- [Paulo Baskovic](https://github.com/BaskovicP)
+- [Aymeric Royenette](https://github.com/Wedge-)
+- [Lightxer](https://github.com/Lightxer)
+- [Dee](https://github.com/Sipty)
+- [Rodrigo Cortezi](https://github.com/rodrigovcortezi)
 - [Jordan Gary](https://github.com/JigSays)
