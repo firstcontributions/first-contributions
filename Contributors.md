@@ -2642,6 +2642,7 @@
 - [Thien Tran](https://github.com/Continuiti)
 - [Christine Betts](https://github.com/chrstnb)
 - [Pai Zhang](https://github.com/paizhang)
+- [Amar Alaa](https://github.com/amaralaa)
 - [Paulo Baskovic](https://github.com/BaskovicP)
 - [Aymeric Royenette](https://github.com/Wedge-)
--[Lightxer](https://github.com/Lightxer)
+- [Lightxer](https://github.com/Lightxer)
