@@ -2643,3 +2643,5 @@
 - [Christine Betts](https://github.com/chrstnb)
 - [Pai Zhang](https://github.com/paizhang)
 - [Amar Alaa](https://github.com/amaralaa)
+- [Paulo Baskovic](https://github.com/BaskovicP)
+- [Aymeric Royenette](https://github.com/Wedge-)
