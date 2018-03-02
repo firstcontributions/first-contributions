@@ -2647,3 +2647,4 @@
 - [Paulo Baskovic](https://github.com/BaskovicP)
 - [Aymeric Royenette](https://github.com/Wedge-)
 - [Lightxer](https://github.com/Lightxer)
+- [Dee](https://github.com/Sipty)
