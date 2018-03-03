@@ -2649,6 +2649,7 @@
 - [Aymeric Royenette](https://github.com/Wedge-)
 - [Lightxer](https://github.com/Lightxer)
 - [Dee](https://github.com/Sipty)
+- [Robby DeRosa](https://github.com/dero24)
 - [Rodrigo Cortezi](https://github.com/rodrigovcortezi)
 - [Andre Willomitzer](https://github.com/AndreWillomitzer)
 - [Jordan Gary](https://github.com/JigSays)
