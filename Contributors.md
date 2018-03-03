@@ -2658,3 +2658,4 @@
 - [Zach Mitchell](https://github.com/zjmitche)
 - [Shelly Yu](https://github.com/hsiaohsy)
 - [Johan Yim](https://github.com/johanyim)
+- [Giuseppe Milicia](https://github.com/giuseppemilicia)
