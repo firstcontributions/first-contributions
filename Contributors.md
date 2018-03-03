@@ -2650,5 +2650,6 @@
 - [Lightxer](https://github.com/Lightxer)
 - [Dee](https://github.com/Sipty)
 - [Rodrigo Cortezi](https://github.com/rodrigovcortezi)
+- [Jordan Gary](https://github.com/JigSays)
 - [Julius Ijie](https://github.com/realjay007)
 - [Zach Mitchell](https://github.com/zjmitche)
