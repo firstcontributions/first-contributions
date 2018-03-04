@@ -2668,3 +2668,4 @@
 - [Yoong Jian](https://github.com/Sherlock1998)
 - [Sean McCarthy](https://github.com/seany467/)
 - [Changyu Yan](https://github.com/Changyu1920)
+- [Kamal Lamgade](https://github.com/klamgade)
