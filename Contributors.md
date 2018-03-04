@@ -2673,3 +2673,4 @@
 - [Dejan Vjestica](https://github.com/DejanVjestica)
 - [Tushar Nitave](https://github.com/tushar-nitave)
 - [Nam Nguyen](https://github.com/BornToWin)
+- [Ali Kaan](https://github.com/alikaanbaci)
