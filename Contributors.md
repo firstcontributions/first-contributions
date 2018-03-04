@@ -2660,3 +2660,6 @@
 - [Johan Yim](https://github.com/johanyim)
 - [Giuseppe Milicia](https://github.com/giuseppemilicia)
 - [Jesen Tanadi](https://github.com/jtanadi/)
+- [NsLib](https://github.com/NsLib)
+- [Lewis Green](https://github.com/lewisxgreen)
+- [Isaac Littman](https://github.com/misteresock/)
