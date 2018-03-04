@@ -2671,3 +2671,4 @@
 - [Kamal Lamgade](https://github.com/klamgade)
 - [Dejan Vjestica](https://github.com/DejanVjestica)
 - [Tushar Nitave](https://github.com/tushar-nitave)
+- [Ali Kaan](https://github.com/alikaanbaci)
