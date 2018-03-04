@@ -2678,3 +2678,6 @@
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
 - [Robert Ghereben](https://github.com/gherebenr)
+- [Thomas Young-Audet](https://github.com/thomasyoung-audet)
+
+
