@@ -2677,7 +2677,6 @@
 - [Abhishek Kandi](https://github.com/abhishekkandi)
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
+- [Efosa Ogiesoba](https://github.com/eogiesoba)
 - [Robert Ghereben](https://github.com/gherebenr)
 - [Thomas Young-Audet](https://github.com/thomasyoung-audet)
-
-
