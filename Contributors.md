@@ -2681,3 +2681,4 @@
 - [Efosa Ogiesoba](https://github.com/eogiesoba)
 - [Robert Ghereben](https://github.com/gherebenr)
 - [Thomas Young-Audet](https://github.com/thomasyoung-audet)
+- [Les Cooper](https://github.com/ltcoop)
