@@ -2678,4 +2678,6 @@
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
 - [Natasha Desai](https://github.com/tashadesai)
-
+- [Efosa Ogiesoba](https://github.com/eogiesoba)
+- [Robert Ghereben](https://github.com/gherebenr)
+- [Thomas Young-Audet](https://github.com/thomasyoung-audet)
