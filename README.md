@@ -67,13 +67,13 @@ Now open `Contributors.md` file in a text editor. You must be familiar with Mark
 In this case, add the following line at the end of `Contributors.md:`
 
 ```
--[Your-name](https://github.com/Your-username)
+- [Your-name](https://github.com/Your-username)
 ```
 
 For example:
 
 ```
--[John Doe](https://github.com/johndoe)
+- [John Doe](https://github.com/johndoe)
 ```
 
 Make sure there is no space between `](` . Save the file and then close it.
