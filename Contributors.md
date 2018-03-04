@@ -2665,3 +2665,4 @@
 - [Lewis Green](https://github.com/lewisxgreen)
 - [Isaac Littman](https://github.com/misteresock/)
 - [Yoong Jian](https://github.com/Sherlock1998)
+- [Sean McCarthy](https://github.com/seany467/)
