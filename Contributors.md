@@ -1,6 +1,6 @@
 - [Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
-﻿- [William Brocker](https://github.com/bbrocker)
+- [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
 - [Bruno Pinto] (https://github.com/brcjsp)
 - [samneatherlin](https://github.com/sneatherlin)
