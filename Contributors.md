@@ -2688,3 +2688,4 @@
 - [Bodey Provansal](https://github.com/bodeyp1234)
 - [Zhanar Kaliyeva](https://github.com/zhanarkaliyeva)
 - [Dhanarenomi Ahmad](https://github.com/dhanarenomi)
+- [CHIp/DORRITO](https://github.com/DORRITO)
