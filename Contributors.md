@@ -1,4 +1,5 @@
-- [Nikith Rachakonda](https://github.com/mrhitnik)
+[Bria Walker](https://github.com/briajnae)
+[Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
 - [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
@@ -2685,3 +2686,5 @@
 - [Les Cooper](https://github.com/ltcoop)
 - [Tiki Shabudin](https://github.com/tikishabudin)
 - [James Leung](https://github.com/jwl)
+- [Bodey Provansal](https://github.com/bodeyp1234)
+- [Zhanar Kaliyeva](https://github.com/zhanarkaliyeva)
