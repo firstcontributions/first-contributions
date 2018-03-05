@@ -1,4 +1,4 @@
-[Bria Walker](https://github.com/briajnae)
+﻿[Bria Walker](https://github.com/briajnae)
 [Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
 - [William Brocker](https://github.com/bbrocker)
@@ -2687,3 +2687,4 @@
 - [Tiki Shabudin](https://github.com/tikishabudin)
 - [Bodey Provansal](https://github.com/bodeyp1234)
 - [Zhanar Kaliyeva](https://github.com/zhanarkaliyeva)
+- [Tharun amireddy](https://github.com/tharun323)
