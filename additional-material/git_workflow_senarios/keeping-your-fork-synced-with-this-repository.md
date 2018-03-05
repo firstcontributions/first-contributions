@@ -2,7 +2,7 @@
 
 First, the flow for a full sync should be understood. In this schema, there are 3 different repos: my public repo on Github `github.com/Roshanjossey/first-contributions/`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are suppose to work. This kind of cooperation is typical for open source projects and called `Triangle Workflows`.
 
-<img style="float;" src="../assets/triangle_workflow.png" alt="triangle workflow" />
+<img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
 
 To keep your two repos up-to-date with my public repo, our first move is to fetch and merge the public repo with your local machine's repo.
 Our second move will be to push your local repo to your GitHub fork. As you've seen earlier, it's only from your fork that you can ask for a "pull request". So your GitHub fork is the last repo to be updated.
