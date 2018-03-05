@@ -2675,6 +2675,7 @@
 - [Nam Nguyen](https://github.com/BornToWin)
 - [Ali Kaan](https://github.com/alikaanbaci)
 - [Abhishek Kandi](https://github.com/abhishekkandi)
+- [Jenna Conway](http://github.com/jennaconway)
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
 - [Natasha Desai](https://github.com/tashadesai)
