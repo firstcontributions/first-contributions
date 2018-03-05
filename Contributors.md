@@ -2691,3 +2691,4 @@
 - [CHIp/DORRITO](https://github.com/DORRITO)
 - [Eddaoust](https://github.com/Eddaoust)
 - [Jared Zhu](https://github.com/jaredzhu1993)
+- [Richard Southard](https://github.com/rsouthar)
