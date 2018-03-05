@@ -2675,6 +2675,7 @@
 - [Nam Nguyen](https://github.com/BornToWin)
 - [Ali Kaan](https://github.com/alikaanbaci)
 - [Abhishek Kandi](https://github.com/abhishekkandi)
+- [Jenna Conway](http://github.com/jennaconway)
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
 - [Natasha Desai](https://github.com/tashadesai)
@@ -2682,3 +2683,4 @@
 - [Robert Ghereben](https://github.com/gherebenr)
 - [Thomas Young-Audet](https://github.com/thomasyoung-audet)
 - [Les Cooper](https://github.com/ltcoop)
+- [Tiki Shabudin](https://github.com/tikishabudin)
