@@ -2685,6 +2685,7 @@
 - [Thomas Young-Audet](https://github.com/thomasyoung-audet)
 - [Les Cooper](https://github.com/ltcoop)
 - [Tiki Shabudin](https://github.com/tikishabudin)
+- [James Leung](https://github.com/jwl)
 - [Bodey Provansal](https://github.com/bodeyp1234)
 - [Zhanar Kaliyeva](https://github.com/zhanarkaliyeva)
 - [Dhanarenomi Ahmad](https://github.com/dhanarenomi)
