@@ -2690,3 +2690,4 @@
 - [Dhanarenomi Ahmad](https://github.com/dhanarenomi)
 - [CHIp/DORRITO](https://github.com/DORRITO)
 - [Eddaoust](https://github.com/Eddaoust)
+- [Jared Zhu](https://github.com/jaredzhu1993)
