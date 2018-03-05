@@ -1,4 +1,5 @@
-- [Nikith Rachakonda](https://github.com/mrhitnik)
+[Bria Walker](https://github.com/briajnae)
+[Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
 - [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
