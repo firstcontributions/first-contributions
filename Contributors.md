@@ -2702,3 +2702,4 @@
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
 - [Federico Viceconti](https://github.com/federicoviceconti/)
+- [Sergei Gushchin](https://github.com/GuschinS)
