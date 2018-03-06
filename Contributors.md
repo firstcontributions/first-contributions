@@ -2705,3 +2705,4 @@
 - [Sergei Gushchin](https://github.com/GuschinS)
 - [Elton Lin](https://github.com/Gustwalker)
 - [Ryan Sherrell](https://github.com/rysherrell)
+- [Mathieu Frechette](https://github.com/MathFrechette
