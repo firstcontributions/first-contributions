@@ -2697,3 +2697,4 @@
 - [John Jackson](https://github.com/DQuieJohn)
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
 - [Keith Bessette](https://github.com/kabeste/)
+- [Austin French](https://github.com/frogr/)
