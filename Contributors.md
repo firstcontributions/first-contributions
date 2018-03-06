@@ -2707,3 +2707,4 @@
 - [Ryan Sherrell](https://github.com/rysherrell)
 - [Mathieu Frechette](https://github.com/MathFrechette)
 - [Alvaro Sanchez](https://github.com/heyalvaro)
+- [Michael Palhidai](https://github.com/MPalhidai)
