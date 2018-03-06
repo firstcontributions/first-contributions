@@ -2699,3 +2699,4 @@
 - [Keith Bessette](https://github.com/kabeste/)
 - [Austin French](https://github.com/frogr/)
 - [Vusal Alishov](https://github.com/vusalalishov)
+- [Jerry Hsieh](https://github.com/cyhs)
