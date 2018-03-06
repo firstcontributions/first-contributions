@@ -1,4 +1,4 @@
-[Bria Walker](https://github.com/briajnae)
+﻿[Bria Walker](https://github.com/briajnae)
 [Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
 - [William Brocker](https://github.com/bbrocker)
@@ -2701,3 +2701,4 @@
 - [Vusal Alishov](https://github.com/vusalalishov)
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
+- [Federico Viceconti](https://github.com/federicoviceconti/)
