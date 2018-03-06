@@ -2698,3 +2698,4 @@
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
 - [Keith Bessette](https://github.com/kabeste/)
 - [Austin French](https://github.com/frogr/)
+- [Vusal Alishov](https://github.com/vusalalishov)
