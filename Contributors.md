@@ -2702,4 +2702,4 @@
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
 - [Federico Viceconti](https://github.com/federicoviceconti/)
-- [Gaibe](https://github.com/creixx)
+- [Gaibbe](https://github.com/creixx)
