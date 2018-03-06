@@ -2696,3 +2696,4 @@
 - [Richard Southard](https://github.com/rsouthar)
 - [John Jackson](https://github.com/DQuieJohn)
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
+- [Keith Bessette](https://github.com/kabeste/)
