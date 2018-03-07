@@ -2703,6 +2703,7 @@
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
 - [Federico Viceconti](https://github.com/federicoviceconti/)
+- [Gaibbe](https://github.com/creixx)
 - [Sergei Gushchin](https://github.com/GuschinS)
 - [Elton Lin](https://github.com/Gustwalker)
 - [Ryan Sherrell](https://github.com/rysherrell)
