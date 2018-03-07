@@ -2712,3 +2712,5 @@
 - [emreozcan3320](https://github.com/emreozcan3320)
 - [azanbertre](https://github.com/azanbertre)
 - [Edward de Jongh](https://github.com/edejongh
+- [Avdo Seferović](https://github.com/avdoseferovic)
+
