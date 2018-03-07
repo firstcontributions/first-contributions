@@ -2713,3 +2713,6 @@
 - [azanbertre](https://github.com/azanbertre)
 - [Edward de Jongh](https://github.com/edejongh
 - [Aastha Shrivastava](https://github.com/shriaas2898)
+- [Niranjan A Kartha](https://github.com/n-kartha)
+- [Duncan Fermor](https://github.com/Peregrine42)
+- [Andrew Dunstall](https://github.com/andydunstall1998)
