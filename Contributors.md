@@ -1,4 +1,4 @@
-- [Nick Berrie](https://github.com/machevalia)
+﻿- [Nick Berrie](https://github.com/machevalia)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
 - [Mayank Khanna](https://github.com/khanna98)
@@ -2719,3 +2719,4 @@
 - [Niranjan A Kartha](https://github.com/n-kartha)
 - [Duncan Fermor](https://github.com/Peregrine42)
 - [Andrew Dunstall](https://github.com/andydunstall1998)
+- [Lua Machado]()(https://github.com/luaivo14)
