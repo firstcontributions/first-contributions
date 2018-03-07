@@ -2606,6 +2606,7 @@
 - [Mohan dere](https://github.com/mohandere)
 - [Hermanus Bosman](https://github.com/hermanusb)
 - [Nick Holbrook](https://github.com/ndh175)
+- [Hypnotra](https://github.com/hypnotra)
 - [Christopher Govender](https://github.com/mykubicle)
 - [Harshit](https://github.com/harshit13)
 - [Hugo Rocha](https://github.com/hugo-rocha)
@@ -2713,4 +2714,6 @@
 - [azanbertre](https://github.com/azanbertre)
 - [Edward de Jongh](https://github.com/edejongh
 - [Avdo Seferović](https://github.com/avdoseferovic)
-
+- [Niranjan A Kartha](https://github.com/n-kartha)
+- [Duncan Fermor](https://github.com/Peregrine42)
+- [Andrew Dunstall](https://github.com/andydunstall1998)
