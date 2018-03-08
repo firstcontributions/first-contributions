@@ -2742,3 +2742,5 @@
 - [Praveen Dubba](https://github.com/PraveenDubba)
 - [Ian Pritt](https://github.com/ipritt)
 - [Chris Greenway](https://github.com/slothropbodine)
+- [Rafael Santos](https://github.com/rafaelnsantos)
+- [Samuel Alaskewicz](https://github.com/samioco)
