@@ -2722,3 +2722,6 @@
 - [Lua Machado](https://github.com/luaivo14)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Tiago Pereira Coelho](http://github.com/nefestor)
+- [Lua Machado]()(https://github.com/luaivo14)
+- [Luiz Guilherme Devide] (https://github.com/luizdevide)
+- [Gabriel Vitor Silva de Carli] (https://github.com/GabrielDeCarli)
