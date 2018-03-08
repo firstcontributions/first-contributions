@@ -2740,3 +2740,4 @@
 - [Aron Gassilewski](https://github.com/Argasz)
 - [Harut Galadzhyan](https://github.com/theoriginalhush)
 - [Praveen Dubba](https://github.com/PraveenDubba)
+- [Ian Pritt](https://github.com/ipritt)
