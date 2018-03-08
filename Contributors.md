@@ -2742,3 +2742,4 @@
 - [Praveen Dubba](https://github.com/PraveenDubba)
 - [Ian Pritt](https://github.com/ipritt)
 - [Rafael Santos](https://github.com/rafaelnsantos)
+- [Samuel Alaskewicz](https://github.com/samioco)
