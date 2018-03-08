@@ -2740,7 +2740,7 @@
 - [Aron Gassilewski](https://github.com/Argasz)
 - [Harut Galadzhyan](https://github.com/theoriginalhush)
 - [Praveen Dubba](https://github.com/PraveenDubba)
-- [Tohar Pingley](https://github.com/Toharpng)
 - [Ian Pritt](https://github.com/ipritt)
+- [Chris Greenway](https://github.com/slothropbodine)
 - [Rafael Santos](https://github.com/rafaelnsantos)
 - [Samuel Alaskewicz](https://github.com/samioco)
