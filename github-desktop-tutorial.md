@@ -6,9 +6,9 @@
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+இது கடினமானது. நீங்கள் எதையாவது செய்வது முதல் முறையாக எப்போதும் கடினமாக இருக்கிறது. குறிப்பாக நீங்கள் ஒத்துழைக்கும் போது, தவறுகளை செய்வது ஒரு வசதியான விடயம் அல்ல. ஆனால் திறந்த மூல ஒத்துழைப்பு மற்றும் ஒன்றாக வேலை செய்வது. நாங்கள் புதிய திறந்த மூல பங்களிப்பாளர்கள் கற்று முதல் முறையாக பங்களிக்க வழி எளிமைப்படுத்த வேண்டும்.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+கட்டுரைகளை வாசிப்பது மற்றும் பயிற்சிகளைப் பார்ப்பது உதவ முடியும், ஆனால் உண்மையில் எதையும் செய்வதைத் தவிர வேறு எதையும் செய்யாமல் விடலாம். இந்த திட்டம் வழிகாட்டலை வழங்கும் மற்றும் rookies தங்கள் முதல் பங்களிப்பு செய்ய வழி எளிமைப்படுத்த நோக்கம். நீங்கள் கற்றுக்கொள்வதைவிட மிகவும் தளர்வானவை என்பதை நினைவில் கொள்ளுங்கள். உங்கள் முதல் பங்களிப்பை செய்வதற்கு நீங்கள் தேடுகிறீர்களானால் கீழே உள்ள எளிய வழிமுறைகளைப் பின்பற்றவும். நாங்கள் உங்களுக்கு சத்தியம் செய்கிறோம், அது வேடிக்கையாக இருக்கும்.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
