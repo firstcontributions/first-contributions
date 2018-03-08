@@ -2721,4 +2721,5 @@
 - [Andrew Dunstall](https://github.com/andydunstall1998)
 - [Anderson Soares](https://github.com/AndersonMSoares)
 - [Lua Machado]()(https://github.com/luaivo14)
+- [Luiz Guilherme Devide] (https://github.com/luizdevide)
 
