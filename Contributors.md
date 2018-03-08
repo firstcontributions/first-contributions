@@ -2722,6 +2722,7 @@
 - [Niranjan A Kartha](https://github.com/n-kartha)
 - [Duncan Fermor](https://github.com/Peregrine42)
 - [Andrew Dunstall](https://github.com/andydunstall1998)
+- [Adam Nemeth](https://github.com/nemad88)
 - [Lucas Jacinto](http://github.com/lucasjcs)
 - [Lua Machado](https://github.com/luaivo14)
 - [Tiago Pereira Coelho](http://github.com/nefestor)
