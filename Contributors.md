@@ -2717,3 +2717,4 @@
 - [Niranjan A Kartha](https://github.com/n-kartha)
 - [Duncan Fermor](https://github.com/Peregrine42)
 - [Andrew Dunstall](https://github.com/andydunstall1998)
+- [Anderson Soares](https://github.com/AndersonMSoares)
