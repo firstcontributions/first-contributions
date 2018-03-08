@@ -2705,6 +2705,7 @@
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
 - [Federico Viceconti](https://github.com/federicoviceconti/)
+- [Piyush Ranjan](https://github.com/piyush27ranjan/)
 - [Gaibbe](https://github.com/creixx)
 - [Sergei Gushchin](https://github.com/GuschinS)
 - [Elton Lin](https://github.com/Gustwalker)
