@@ -2722,4 +2722,5 @@
 - [Anderson Soares](https://github.com/AndersonMSoares)
 - [Lua Machado]()(https://github.com/luaivo14)
 - [Luiz Guilherme Devide] (https://github.com/luizdevide)
+- [Gabriel Vitor Silva de Carli] (https://github.com/GabrielDeCarli)
 
