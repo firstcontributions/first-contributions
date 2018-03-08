@@ -2733,3 +2733,4 @@
 - [Gabriel Vitor Silva de Carli](https://github.com/GabrielDeCarli)
 - [Roberto Guimaraes junior](https://github.com/robertoutfpr)
 - [Matthew Ritter](https://github.com/https://github.com/mwritter)
+- [Byron Perez](https://github.com/thereisnotspoo)
