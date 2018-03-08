@@ -2735,4 +2735,4 @@
 - [Roberto Guimaraes junior](https://github.com/robertoutfpr)
 - [Matthew Ritter](https://github.com/https://github.com/mwritter)
 - [Byron Perez](https://github.com/thereisnotspoo)
-- [Nek Liakis](https://github.com/NekCS/)
+- [Nektarios Liakis](https://github.com/NekCS/)
