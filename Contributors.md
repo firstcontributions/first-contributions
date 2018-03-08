@@ -2721,3 +2721,4 @@
 - [Andrew Dunstall](https://github.com/andydunstall1998)
 - [Lua Machado]()(https://github.com/luaivo14)
 - [Luiz Guilherme Devide] (https://github.com/luizdevide)
+- [Gabriel Vitor Silva de Carli] (https://github.com/GabrielDeCarli)
