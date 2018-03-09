@@ -2763,3 +2763,4 @@
 - [David Jarrin](https://github.com/djarrin)
 - [Manish Kumar Pal](https://github.com/manp3104)
 - [Tobias N](https://github.com/T0b1asN)
+- [Kallaen](https://github.com/Kallaen)
