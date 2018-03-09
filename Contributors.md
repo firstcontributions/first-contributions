@@ -2754,3 +2754,4 @@
 - [Maya Farber](https://github.com/farberbrodsky)
 - [Rambabu Govind](https://github.com/rambabugovind)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
+- [Maged Milad](https://github.com/MagedMilad)
