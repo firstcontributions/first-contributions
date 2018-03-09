@@ -2746,3 +2746,8 @@
 - [Samuel Alaskewicz](https://github.com/samioco)
 - [Paul Li](https://github.com/illuap)
 - [Shankar](https://github.com/codebyshankar)
+- [Rahul Singh](https://github.com/rahulsingh178)
+- [Will Xu](https://github.com/insertmynamethere)
+- [Hubert Jung](https://github.com/hubertjung)
+- [Aswani Prakash](https://github.com/aswaniprakash)
+- [Maxime Elkael](https://github.com/e-maxou)
