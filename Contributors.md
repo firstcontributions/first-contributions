@@ -2760,3 +2760,4 @@
 - [Vic Patel](https://github.com/vp932712)
 - [Yash Baheti](https://github.com/yashbth)
 - [David Jarrin](https://github.com/djarrin)
+- [Manish Kumar Pal](https://github.com/manp3104)
