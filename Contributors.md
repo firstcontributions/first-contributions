@@ -2759,4 +2759,4 @@
 - [Divyansh Batham](https://github.com/DivyanshBatham)
 - [Vic Patel](https://github.com/vp932712)
 - [Yash Baheti](https://github.com/yashbth)
-- [Sven Stockmann](https://github.com/EagleTrusstSeven)
+- [Sven Stockmann](https://github.com/EagleTrustSeven)
