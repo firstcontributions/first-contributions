@@ -1,4 +1,4 @@
-﻿- [Nick Berrie](https://github.com/machevalia)
+- [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
@@ -2753,3 +2753,4 @@
 - [Maxime Elkael](https://github.com/e-maxou)
 - [Maya Farber](https://github.com/farberbrodsky)
 - [Rambabu Govind](https://github.com/rambabugovind)
+- [Rashi Agarwal](https://github.com/rashiagarwal)
