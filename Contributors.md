@@ -11,6 +11,7 @@
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [jmadd](https://github.com/jmadd)
+- [M Hanzala](https://github.com/MuhammadHanzala)
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
