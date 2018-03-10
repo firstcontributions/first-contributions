@@ -2769,5 +2769,10 @@
 - [Matt Read](https://github.com/matthewreaduk)
 - [Emilio Silva](https://github.com/emi-silva)
 - [Sarfraz Baig](https://github.com/sarfrazbaig)
+<<<<<<< HEAD
 - [Josh Ackerman](https://github.com/jackerman69)
 - [Bryan Mason](https://github.com/flymason)	
+=======
+[Josh Ackerman](https://github.com/jackerman69)
+- [Sameer Sinha](https://github.com/sameersinha)
+>>>>>>> 02d853a6233cbdda552fb6eb7af43f1857b94169
