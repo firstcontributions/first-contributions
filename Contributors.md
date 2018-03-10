@@ -2767,3 +2767,4 @@
 - [Kallaen](https://github.com/Kallaen)
 - [Roniaxe](https://github.com/roniaxe)
 - [Matt Read](https://github.com/matthewreaduk)
+- [Emilio Silva](https://github.com/emi-silva)
