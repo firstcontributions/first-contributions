@@ -1,4 +1,5 @@
-﻿- [Nick Berrie](https://github.com/machevalia)
+﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+- [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
