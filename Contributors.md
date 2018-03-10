@@ -1729,7 +1729,6 @@
 - [Shulammite Lim](https://github.com/shulim)
 - [Kawaljit Singh](https://github.com/Kawaljit)
 - [Derrick Williams](https://github.com/derrickaw)
-<<<<<<< HEAD
 - [Ajith Pandian](https://github.com/Ajith-Pandian)
 - [Emerson Lopes](https://github.com/emersonlbr)
 - [Rahul Roshan](https://github.com/rahulroshan96)
