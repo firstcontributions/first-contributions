@@ -1,4 +1,5 @@
-﻿- [Nick Berrie](https://github.com/machevalia)
+﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+- [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
@@ -2780,3 +2781,5 @@
 - [Rahul Senguttuvan](https://github.com/RahulSenguttuvan)
 - [OmkarNix](https://github.com/omkarnix)
 - [Yasser El-Sayed](https://github.com/YasserZ)
+- [Jinil Sasidharan](https://github.com/jinilcs)
+- [Rajesh Chandramohan](https://github.com/rajeshcode)
