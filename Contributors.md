@@ -2774,3 +2774,4 @@
 - [Bryan Mason](https://github.com/flymason)	
 - [Sameer Sinha](https://github.com/sameersinha)
 - [Pankaja Paranavitharana](https://github.com/pankaja92)  
+- [Michal Zelinka](https://github.com/MICHAL53Q)
