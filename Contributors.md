@@ -2771,3 +2771,4 @@
 - [Sarfraz Baig](https://github.com/sarfrazbaig)
 [Josh Ackerman](https://github.com/jackerman69)
 - [Sameer Sinha](https://github.com/sameersinha)
+- [Brian Hummel](https://github.com/brianpatrickhummel)
