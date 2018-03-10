@@ -2770,3 +2770,4 @@
 - [Emilio Silva](https://github.com/emi-silva)
 - [Sarfraz Baig](https://github.com/sarfrazbaig)
 [Josh Ackerman](https://github.com/jackerman69)
+- [Sameer Sinha](https://github.com/sameersinha)
