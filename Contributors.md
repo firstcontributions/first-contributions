@@ -1,4 +1,4 @@
-- [Nick Berrie](https://github.com/machevalia)
+﻿- [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
@@ -2775,3 +2775,4 @@
 - [Sameer Sinha](https://github.com/sameersinha)
 - [Pankaja Paranavitharana](https://github.com/pankaja92)  
 - [Michal Zelinka](https://github.com/MICHAL53Q)
+- [Vipul Aggarwal](https://github.com/vipuldcoder)
