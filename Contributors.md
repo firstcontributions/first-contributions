@@ -2798,3 +2798,4 @@
 - [Aditya Dev](https://github.com/adityadev98)
 - [Faizan Khan](https://github.com/LoneWolf36)
 - [Filipe molina](https://github.com/filipemolina)
+- [Morgan Page](https://github.com/morganpage)
