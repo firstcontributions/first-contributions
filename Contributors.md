@@ -2774,7 +2774,7 @@
 - [Josh Ackerman](https://github.com/jackerman69)
 - [Bryan Mason](https://github.com/flymason)
 - [Sameer Sinha](https://github.com/sameersinha)
-- [Pankaja Paranavitharana](https://github.com/pankaja92)  
+- [Pankaja Paranavitharana](https://github.com/pankaja92)
 - [Michal Zelinka](https://github.com/MICHAL53Q)
 - [Vipul Aggarwal](https://github.com/vipuldcoder)
 - [Jay Kothari](https://github.com/JayKothari)
@@ -2795,3 +2795,4 @@
 - [Vinay V.](https://github.com/vinayv1234)
 - [Pauliusz15](https://github.com/Pauliusz15)
 - [Aditya Dev](https://github.com/adityadev98)
+- [Sathaporn Thitsarak](https://github.com/anthoz69)
