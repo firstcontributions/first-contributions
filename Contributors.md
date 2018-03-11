@@ -1885,6 +1885,7 @@
 - [Andreas Bergh](https://github.com/Bendreas)
 - [Alberto Siviero](https://github.com/albisivi)
 - arpitjjw
+- [Brandon Zhu](https://github.com/Brandonlucaszhu)
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
 - [Nadav Mary](https://github.com/Slash7GNR)
