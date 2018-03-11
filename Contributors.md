@@ -1,4 +1,4 @@
-﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -104,7 +104,6 @@
 - [Lucas Paganini](https://github.com/LucasPaganini)
 - [Manish Nagdevani](https://github.com/manish-nagdevani)
 - [Abhilekh Panwar](https://github.com/AbhilekhPanwar)
-﻿- [Lucas Paganini](https://github.com/LucasPaganini)
 - [Chloe Stamper](https://github.com/chloelikescats)
 - [Christy Welsh](https://github.com/christycakes)
 - [Aditya Sahu](https://github.com/aditya-sahu)
@@ -223,7 +222,7 @@
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
 - Neha Upadhyay
--[taeguk1991](http://github.com/taeguk1991)
+- [taeguk1991](http://github.com/taeguk1991)
 - [jaro36](https://github.com/jaro36)
 - [yecicen](https://github.com/yecicen)
 - [Björn Hjorth](https://github.com/Kaffesumpen)
@@ -2720,7 +2719,7 @@
 - [emreozcan3320](https://github.com/emreozcan3320)
 - [azanbertre](https://github.com/azanbertre)
 - [Saibal Roy](https://github.com/sunnyroy21)
-- [Edward de Jongh](https://github.com/edejongh
+- [Edward de Jongh](https://github.com/edejongh)
 - [Avdo Seferović](https://github.com/avdoseferovic)
 - [Niranjan A Kartha](https://github.com/n-kartha)
 - [Duncan Fermor](https://github.com/Peregrine42)
@@ -2787,5 +2786,6 @@
 - [Rajesh Chandramohan](https://github.com/rajeshcode)
 - [Shayan Daryoush](https://github.com/sdaryoush)
 - [Zambrzycki Zbigniew](https://github.com/zambrzycki-zbigniew)
+- [SirCaptainCrumpet](https://github.com/SirCaptainCrumpet)
 - [Rangana Udara](https://github.com/rurangana)
 - [bekawas](https://github.com/bekawas)
