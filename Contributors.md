@@ -2780,6 +2780,7 @@
 - [Jay Kothari](https://github.com/JayKothari)
 - [Rahul Senguttuvan](https://github.com/RahulSenguttuvan)
 - [OmkarNix](https://github.com/omkarnix)
+- [Yasser El-Sayed](https://github.com/YasserZ)
 - [Jinil Sasidharan](https://github.com/jinilcs)
 - [Josh Hillmann](https://github.com/hillmannj)
 - [Rajesh Chandramohan](https://github.com/rajeshcode)
