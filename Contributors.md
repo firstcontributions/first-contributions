@@ -1,4 +1,4 @@
-- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -2791,3 +2791,4 @@
 - [bekawas](https://github.com/bekawas)
 - [Karan P](https://github.com/karan20000000000)
 - [Ali Karaman] (https://github.com/karamanali)
+- [Aditi Tipnis](https://github.com/adititipnis)
