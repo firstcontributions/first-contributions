@@ -1885,6 +1885,7 @@
 - [Andreas Bergh](https://github.com/Bendreas)
 - [Alberto Siviero](https://github.com/albisivi)
 - arpitjjw
+- [Brandon Zhu](https://github.com/Brandonlucaszhu)
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
 - [Nadav Mary](https://github.com/Slash7GNR)
@@ -2796,3 +2797,7 @@
 - [Pauliusz15](https://github.com/Pauliusz15)
 - [Aditya Dev](https://github.com/adityadev98)
 - [Sathaporn Thitsarak](https://github.com/anthoz69)
+- [Faizan Khan](https://github.com/LoneWolf36)
+- [Filipe molina](https://github.com/filipemolina)
+- [Morgan Page](https://github.com/morganpage)
+- [ARoennau](https://github.com/ARoennau)
