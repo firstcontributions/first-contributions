@@ -2769,3 +2769,4 @@
 - [Matt Read](https://github.com/matthewreaduk)
 - [Emilio Silva](https://github.com/emi-silva)
 - [Sarfraz Baig](https://github.com/sarfrazbaig)
+- [Andrew Konecki](https://github.com/awkonecki)
