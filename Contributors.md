@@ -1,4 +1,4 @@
-﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -2785,3 +2785,4 @@
 - [Shayan Daryoush](https://github.com/sdaryoush)
 - [Zambrzycki Zbigniew](https://github.com/zambrzycki-zbigniew)
 - [bekawas](https://github.com/bekawas)
+- [SirCaptainCrumpet](https://github.com/SirCaptainCrumpet)
