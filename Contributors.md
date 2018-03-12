@@ -2797,6 +2797,7 @@
 - [Celestin Ekoh-Ordan](https://github.com/ceoehis)
 - [Pauliusz15](https://github.com/Pauliusz15)
 - [Aditya Dev](https://github.com/adityadev98)
+- [Fahad Hamed](https://github.com/fahad-hamed)
 - [Faizan Khan](https://github.com/LoneWolf36)
 - [Kirill Bolotsky](https://github.com/BolotskyDev)
 - [Filipe molina](https://github.com/filipemolina)
