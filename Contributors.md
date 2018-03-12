@@ -2811,3 +2811,4 @@
 - [Suzannah Emairi](https://github.com/emairi)
 - [Andrew Hatfield](https://github.com/andrewhatfield)
 - [Arthur Zinck](https://github.com/arthurzinck)
+- [Legendahkiin](https://github.com/Legendahkiin/)
