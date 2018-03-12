@@ -2803,3 +2803,4 @@
 - [Morgan Page](https://github.com/morganpage)
 - [ARoennau](https://github.com/ARoennau)
 - [Mehdi Messaoud](https://github.com/mehdimessaoud)
+- [E Goetz](https://github.com/egoetz)
