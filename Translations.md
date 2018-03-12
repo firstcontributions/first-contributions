@@ -2,6 +2,7 @@
 
 |  | Translated Link |
 | --- | --- |
+| 🇹🇷 | [Türkçe ](translations/README.tr.md) |
 | 🇮🇳 | [हिन्दी ](translations/README.hi.md) |
 | 🇲🇲 | [Myanmar Unicode](translations/README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](translations/README.id.md) |
