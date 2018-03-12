@@ -2810,3 +2810,4 @@
 - [learningHere](https://github.com/learningHere)
 - [Suzannah Emairi](https://github.com/emairi)
 - [Andrew Hatfield](https://github.com/andrewhatfield)
+- [Arthur Zinck](https://github.com/arthurzinck)
