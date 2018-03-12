@@ -1,4 +1,4 @@
-- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -2815,3 +2815,4 @@
 - [David Mayes](https://github.com/David-Mayes)
 - [Avinash Tomar](https://github.com/avistomar)
 - [Daniel j2ee](https://github.com/daniele-j2ee)
+- [Sheryl Darroch](https://github.com/sheryldarroch)
