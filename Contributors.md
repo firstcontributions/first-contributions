@@ -2791,7 +2791,7 @@
 - [Rangana Udara](https://github.com/rurangana)
 - [bekawas](https://github.com/bekawas)
 - [Karan P](https://github.com/karan20000000000)
-- [Ali Karaman] (https://github.com/karamanali)
+- [Ali Karaman](https://github.com/karamanali)
 - [Aditi Tipnis](https://github.com/adititipnis)
 - [Vinay V.](https://github.com/vinayv1234)
 - [Celestin Ekoh-Ordan](https://github.com/ceoehis)
@@ -2817,3 +2817,4 @@
 - [Daniel j2ee](https://github.com/daniele-j2ee)
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
+- [Musa Serdar Arslan](https://github.com/karsibali)
