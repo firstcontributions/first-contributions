@@ -2814,3 +2814,4 @@
 - [Legendahkiin](https://github.com/Legendahkiin/)
 - [David Mayes](https://github.com/David-Mayes)
 - [Avinash Tomar](https://github.com/avistomar)
+- [Daniel j2ee](https://github.com/daniele-j2ee)
