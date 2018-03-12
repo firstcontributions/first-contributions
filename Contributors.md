@@ -1,4 +1,4 @@
-﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+﻿- [aRNAS aMANKAVICIUS](HTTPS://GITHUB.COM/deemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -2818,3 +2818,4 @@
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
 - [Natalie Poon](https://github.com/nataliezpoon)
+- [Alicia Hyland](https://github.com/Vinnatan)
