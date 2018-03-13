@@ -2839,3 +2839,4 @@
 - [Vinicius Falcão](https://github.com/vinyfalcao)
 - [Ahmed Fouzan](https://github.com/ahmedfouzan)
 - [Satya Mohan](https://github.com/SatyaMohan)
+- [Kirill Stepanov](https://github.com/kvstepanov)
