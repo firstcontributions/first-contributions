@@ -2827,3 +2827,4 @@
 - [Carl Y](https://github.com/TyroneSmith1)
 - [Louis Sanchez](https://github.com/Ls777)
 - [Gabriel Macario](https://github.com/gabriel-macario)
+- [Zach Miller](https://github.com/ZachSandburgMiller)
