@@ -1,4 +1,4 @@
-- [Kunal Khanwalkar](https://github.com/Kunal-khanwalkar)
+G [Kunal Khanwalkar](https://github.com/Kunal-khanwalkar)
 - [aRNAS aMANKAVICIUS](HTTPS://GITHUB.COM/deemoKittyKat)
 - [Phil Smeby](https://github.com/smoothdude11)
 - [Arnas Amankavicius](https://github.com/DeemoKittyKat)
@@ -2830,3 +2830,4 @@
 - [Gabriel Macario](https://github.com/gabriel-macario)
 - [h yagirty](https://github.com/hyagirty)
 - [Zohar Landau](https://github.com/zoharl)
+- [Stefano Pasquini](https://github.com/stefoxp)
