@@ -2813,3 +2813,4 @@
 - [Arthur Zinck](https://github.com/arthurzinck)
 - [Legendahkiin](https://github.com/Legendahkiin/)
 - [David Mayes](https://github.com/David-Mayes)
+- [Hung-Chuan Huang](https://github.com/huanghungchuan)
