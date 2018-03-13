@@ -2762,3 +2762,4 @@
 - [Sven Stockmann](https://github.com/EagleTrustSeven)
 - [David Jarrin](https://github.com/djarrin)
 - [Manish Kumar Pal](https://github.com/manp3104)
+- [clinton wambugu](https://github.com/kwambugu)
