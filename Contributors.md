@@ -1,4 +1,5 @@
-﻿- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
+﻿- [Phil Smeby](https://github.com/smoothdude11)
+- [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
@@ -2818,4 +2819,7 @@
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
 - [Sonali Aggarwal](https://github.com/sonaliagg02)
-
+- [Natalie Poon](https://github.com/nataliezpoon)
+- [Frank Delaguila](https://github.com/franky212)
+- [Carl Y](https://github.com/TyroneSmith1)
+- [Louis Sanchez](https://github.com/Ls777)
