@@ -2837,3 +2837,4 @@
 - [JK](https://github.com/faunarooska/)
 - [Zach Miller](https://github.com/ZachSandburgMiller)	
 - [Vinicius Falcão](https://github.com/vinyfalcao)
+- [Ahmed Fouzan](https://github.com/ahmedfouzan)
