@@ -2818,3 +2818,4 @@
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
 - [Natalie Poon](https://github.com/nataliezpoon)
+- [Frank Delaguila](https://github.com/franky212)
