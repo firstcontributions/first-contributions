@@ -2815,6 +2815,7 @@
 - [Arthur Zinck](https://github.com/arthurzinck)
 - [Legendahkiin](https://github.com/Legendahkiin/)
 - [David Mayes](https://github.com/David-Mayes)
+- [Hung-Chuan Huang](https://github.com/huanghungchuan)
 - [Avinash Tomar](https://github.com/avistomar)
 - [Daniel j2ee](https://github.com/daniele-j2ee)
 - [Sheryl Darroch](https://github.com/sheryldarroch)
