@@ -1,4 +1,4 @@
-﻿- [Tina The Ace - Tina Hoang](https://github.com/nnh242)
+- [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Akhtam Ismatov](https://github.com/Akhtam)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
 - [clinton wambugu](https://github.com/kwambugu)
@@ -2857,5 +2857,5 @@
 - [Arsen Losenko](https://github.com/arsenlosenko)
 - [Shreya Parashare](https://github.com/shreyavp)
 - [James Mills](https://github.com/jfmills)
+- [Charles Day](https://github.com/daycharles)
 - [Thomas Woodley](https://github.com/TomWoodley2)
-
