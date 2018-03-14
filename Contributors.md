@@ -2849,3 +2849,4 @@
 - [Nishant Gupt](https://github.com/NishantGupt1)
 - [Jason Herold](https://github.com/JasonHerold)
 - [Bhaarat Pachori](https://github.com/Bhaarat-Pachori)
+- [Deepak Agarwal](https://github.com/cool-hack)
