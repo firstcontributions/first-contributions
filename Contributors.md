@@ -2847,3 +2847,4 @@
 - [Daniel Lee](https://github.comd/danielylee)
 - [Antony Natale](https://github.comd/tonytheleg)
 - [Nishant Gupt](https://github.com/NishantGupt1)
+- [Jason Herold](https://github.com/JasonHerold)
