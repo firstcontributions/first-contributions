@@ -2854,3 +2854,4 @@
 - [Zach Tucker](https://github.com/zachtucker)
 - [K. Coleman](https://github.com/namelock)
 - [Olaf Galekop](https://github.com/MrGMan133)
+- [Arsen Losenko](https://github.com/arsenlosenko)
