@@ -2842,3 +2842,4 @@
 - [Kirill Stepanov](https://github.com/kvstepanov)
 - [Alex Lang](https://github.com/alexclang)
 - [Lesley Hogg](https://github.com/lesleyhogg)
+- [Daniel Lee](https://github.comd/danielylee)
