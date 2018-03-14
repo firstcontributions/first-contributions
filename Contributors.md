@@ -2842,6 +2842,7 @@
 - [Satya Mohan](https://github.com/SatyaMohan)
 - [Kirill Stepanov](https://github.com/kvstepanov)
 - [Alex Lang](https://github.com/alexclang)
+- [Daniel Rivas Perez](https://github.com/PoorLazlo)
 - [Lesley Hogg](https://github.com/lesleyhogg)
 - [Daniel Lee](https://github.comd/danielylee)
 - [Antony Natale](https://github.comd/tonytheleg)
