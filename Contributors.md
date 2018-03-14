@@ -2845,3 +2845,4 @@
 - [Lesley Hogg](https://github.com/lesleyhogg)
 - [Daniel Lee](https://github.comd/danielylee)
 - [Antony Natale](https://github.comd/tonytheleg)
+- [Nishant Gupt](https://github.com/NishantGupt1)
