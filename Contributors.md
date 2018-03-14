@@ -1,3 +1,4 @@
+- [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
 - [clinton wambugu](https://github.com/kwambugu)
 - [Kunal Khanwalkar](https://github.com/Kunal-khanwalkar)
@@ -2842,3 +2843,7 @@
 - [Kirill Stepanov](https://github.com/kvstepanov)
 - [Alex Lang](https://github.com/alexclang)
 - [Daniel Rivas Perez](https://github.com/PoorLazlo)
+- [Lesley Hogg](https://github.com/lesleyhogg)
+- [Daniel Lee](https://github.comd/danielylee)
+- [Antony Natale](https://github.comd/tonytheleg)
+- [Nishant Gupt](https://github.com/NishantGupt1)
