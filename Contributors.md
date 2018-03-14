@@ -2850,3 +2850,4 @@
 - [Jason Herold](https://github.com/JasonHerold)
 - [Bhaarat Pachori](https://github.com/Bhaarat-Pachori)
 - [Deepak Agarwal](https://github.com/cool-hack)
+- [Zach Tucker](https://github.com/zachtucker)
