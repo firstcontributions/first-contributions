@@ -2861,6 +2861,7 @@
 - [Devin Miller](https://github.com/devinbmiller)
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
+- [vimery](https://github.com/vimery)
 - [Andy Bae](https://github.com/baeandy)
 - [Jishnu V](https://github.com/jishnuvijayan97)
 - [Prathamesh Dabre](https://github.com/praths)
