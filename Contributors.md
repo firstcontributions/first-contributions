@@ -648,7 +648,6 @@
 - [Torty Emmanuel](https://github.com/tengine8000)
 - [Michael Karr](https://github.com/mdkarr01)
 - [Todd Mason](https://github.com/ToddMason/first-contributions)
-- ??
 - [Adimali](https://github.com/adimali)
 - [Neethu Santhosh](https://github.com/neethusanthosh)
 - [Shashank Shekhar](https://github.com/thunderandrain)
@@ -2862,7 +2861,10 @@
 - [Devin Miller](https://github.com/devinbmiller)
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
+- [vimery](https://github.com/vimery)
+- [Andy Bae](https://github.com/baeandy)
 - [Jishnu V](https://github.com/jishnuvijayan97)
 - [Prathamesh Dabre](https://github.com/praths)
 - [Darshan Kathiriya](https://github/Darshan201)
 - [Gaurav Sood](https://github.com/gauravsood1410)
+- [Kelly Tompkins](https://github.com/ktompky)
