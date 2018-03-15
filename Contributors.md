@@ -2859,6 +2859,7 @@
 - [James Mills](https://github.com/jfmills)
 - [Thomas McKanna](https://github.com/Thomas-McKanna)
 - [Thomas Woodley](https://github.com/TomWoodley2)
+- [matias](https://github.com/cuervo357)
 - [Devin Miller](https://github.com/devinbmiller)
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
@@ -2875,3 +2876,5 @@
 - [Daniel Padrta](https://github.com/dpadrta)
 - [Kyle Roberts](https://github.com/lekyle)
 - [Javier Uribe](https://github.com/javiuribe)
+- [David Claxton](https://github.com/dclaxton6)
+- [Zach Gollwitzer](https://github.com/zachgoll)
