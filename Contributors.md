@@ -1,4 +1,4 @@
-﻿- [Tina The Ace - Tina Hoang](https://github.com/nnh242)
+- [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Akhtam Ismatov](https://github.com/Akhtam)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
 - [clinton wambugu](https://github.com/kwambugu)
@@ -648,7 +648,6 @@
 - [Torty Emmanuel](https://github.com/tengine8000)
 - [Michael Karr](https://github.com/mdkarr01)
 - [Todd Mason](https://github.com/ToddMason/first-contributions)
-- ??
 - [Adimali](https://github.com/adimali)
 - [Neethu Santhosh](https://github.com/neethusanthosh)
 - [Shashank Shekhar](https://github.com/thunderandrain)
@@ -2863,3 +2862,8 @@
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
 - [vimery](https://github.com/vimery)
+- [Andy Bae](https://github.com/baeandy)
+- [Jishnu V](https://github.com/jishnuvijayan97)
+- [Prathamesh Dabre](https://github.com/praths)
+- [Darshan Kathiriya](https://github/Darshan201)
+- [Kelly Tompkins](https://github.com/ktompky)
