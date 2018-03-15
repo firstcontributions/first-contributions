@@ -2875,5 +2875,6 @@
 - [Venkata Vamsy](https://github.com/Vaaaaa)
 - [Daniel Padrta](https://github.com/dpadrta)
 - [Kyle Roberts](https://github.com/lekyle)
+- [Javier Uribe](https://github.com/javiuribe)
 - [David Claxton](https://github.com/dclaxton6)
 - [Zach Gollwitzer](https://github.com/zachgoll)
