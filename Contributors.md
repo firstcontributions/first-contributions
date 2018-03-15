@@ -2866,4 +2866,5 @@
 - [Jishnu V](https://github.com/jishnuvijayan97)
 - [Prathamesh Dabre](https://github.com/praths)
 - [Darshan Kathiriya](https://github/Darshan201)
+- [Gaurav Sood](https://github.com/gauravsood1410)
 - [Kelly Tompkins](https://github.com/ktompky)
