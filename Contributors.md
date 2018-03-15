@@ -2858,5 +2858,6 @@
 - [Shreya Parashare](https://github.com/shreyavp)
 - [James Mills](https://github.com/jfmills)
 - [Thomas Woodley](https://github.com/TomWoodley2)
+- [Devin Miller](https://github.com/devinbmiller)
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
