@@ -104,6 +104,11 @@
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
+=======
+﻿-[Jose Tandavala](https://github.com/tandavala)
+-[KMJUN](https://github.com/KMJUN)
+-[Swathy Jayaseelan](https://github.com/swathyjayaseelan)
+>>>>>>> edf5301260dec4ac2728b4be42402d3bad2c3896
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L ](http://github.com/ceculia)
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
@@ -1919,6 +1924,7 @@
 - [xichao chen](https://github.com/chenshaw1995)
 - [Kaaylim](https://github.com/kaaylim)
 - [Ashton](https://github.com/shepparda13)
+<<<<<<< HEAD
 - [Nick](https://github.com/codekip)
 - [Kate Hanahoe](https://github.com/KateHanahoe)
 - [build65](https://github.com/build65)
@@ -2865,3 +2871,6 @@
 - [Jishnu V](https://github.com/jishnuvijayan97)
 - [Prathamesh Dabre](https://github.com/praths)
 - [Darshan Kathiriya](https://github/Darshan201)
+- [Nick](https://github.com/codekip)
+- [Kate Hanahoe](https://github.com/KateHanahoe)
+- [Kelly Tompkins](https://github.com/ktompky)
