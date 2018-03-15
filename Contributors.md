@@ -2864,3 +2864,4 @@
 - [Scott Peterson](https://github.com/scpeterson)
 - [Jishnu V](https://github.com/jishnuvijayan97)
 - [Prathamesh Dabre](https://github.com/praths)
+- [Darshan Kathiriya](https://github/Darshan201)
