@@ -1,3 +1,4 @@
+- [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Akhtam Ismatov](https://github.com/Akhtam)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
