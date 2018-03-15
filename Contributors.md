@@ -2875,3 +2875,4 @@
 - [Daniel Padrta](https://github.com/dpadrta)
 - [Kyle Roberts](https://github.com/lekyle)
 - [David Claxton](https://github.com/dclaxton6)
+- [Zach Gollwitzer](https://github.com/zachgoll)
