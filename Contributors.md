@@ -2881,6 +2881,7 @@
 - [André Kraak](https://github.com/AndreKraak)
 - [abrandell](https://github.com/abrandell)
 - [Zorana Vukmirovic](https://github.com/zvukmiro)
+- [Hugh Rennie](https://github.com/hfanglement)
 - [Kamran Bhatti](https://github.com/bhattikj)
 - [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
 - [Sudipta](https://github.com/dsud98)
