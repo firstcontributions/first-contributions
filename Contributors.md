@@ -2902,3 +2902,4 @@
 - [Jessi DiTocco](https://github.com/jessiditocco)
 - [Julia Berkovitz](https://github.com/juliaberk)
 - [Jade Hayes](https://github.com/JadeHayes)
+- [John Anderson](https://github.com/John905)
