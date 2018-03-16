@@ -2893,3 +2893,4 @@
 - [Andrew Mlamba](https://github.com/AndrewMlamba)
 - [Vrelinn Vailati](https://github.com/VrelinnVailati)
 - [Petter Berntsson](https://github.com/Pethead)
+- [Chia-Hao Tu](https://github.com/chiahaotu)
