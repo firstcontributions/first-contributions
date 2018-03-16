@@ -1,3 +1,4 @@
+- [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
@@ -2894,3 +2895,5 @@
 - [Vrelinn Vailati](https://github.com/VrelinnVailati)
 - [Petter Berntsson](https://github.com/Pethead)
 - [Chia-Hao Tu](https://github.com/chiahaotu)
+- [Bryan Noriega](https://github.com/melicard)
+- [Luke Jennings](https://github.com/MoltenBear)
