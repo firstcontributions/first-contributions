@@ -2901,6 +2901,7 @@
 - [Phakin Cheangkrachange](https://github.com/teamsoo)
 - [Jessi DiTocco](https://github.com/jessiditocco)
 - [Julia Berkovitz](https://github.com/juliaberk)
+- [Valerie Moy](https://github.com/thevalerie)
 - [Jade Hayes](https://github.com/JadeHayes)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
 - [Jamie Shiers](http://github.com/jamiesheirs)
