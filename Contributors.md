@@ -2903,3 +2903,4 @@
 - [Julia Berkovitz](https://github.com/juliaberk)
 - [Jade Hayes](https://github.com/JadeHayes)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
+- [Jamie Shiers](http://github.com/jamiesheirs)
