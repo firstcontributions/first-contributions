@@ -2884,3 +2884,4 @@
 - [Kamran Bhatti](https://github.com/bhattikj)
 - [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
 - [Sudipta](https://github.com/dsud98)
+- [Michał Hawełka](https://github.com/hawelkam)
