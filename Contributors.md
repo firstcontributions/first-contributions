@@ -2882,13 +2882,10 @@
 - [abrandell](https://github.com/abrandell)
 - [Zorana Vukmirovic](https://github.com/zvukmiro)
 - [Hugh Rennie](https://github.com/hfanglement)
-
-
-
-
-
-
-
-
-
-
+- [Kamran Bhatti](https://github.com/bhattikj)
+- [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
+- [Sudipta](https://github.com/dsud98)
+- [Michał Hawełka](https://github.com/hawelkam)
+- [Henry Chen](https://github.com/scotchka)
+- [Maxwell Powlison](https://github.com/bobdavelisafrank)
+- [Andrey Kishtov](https://github.com/AndreyKishtov)
