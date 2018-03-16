@@ -2905,3 +2905,4 @@
 - [Jade Hayes](https://github.com/JadeHayes)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
 - [Jamie Shiers](http://github.com/jamiesheirs)
+- [Britt Neal](http://github.com/beeneal)
