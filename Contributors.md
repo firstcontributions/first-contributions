@@ -2903,6 +2903,7 @@
 - [Julia Berkovitz](https://github.com/juliaberk)
 - [Valerie Moy](https://github.com/thevalerie)
 - [Jade Hayes](https://github.com/JadeHayes)
+- [John Anderson](https://github.com/John905)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
 - [Jamie Shiers](http://github.com/jamiesheirs)
 - [Britt Neal](http://github.com/beeneal)
