@@ -143,7 +143,7 @@
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Daniel Bernstein](https://github.com/drood87)
-- [Guilemon(-_-+)](https://github.com/Guilemon)
+- [Guilemon](https://github.com/Guilemon)
 - [David Hermes](https://github.com/Davidinion)
 - [Deddy Tandean](https://github.com/Busterz)
 - [Christopher Ivanovich](https://github.com/ctivanovich/)
@@ -2921,3 +2921,4 @@
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Keegan Mallaney](https://github.com/kpmallaney)
 - [Justin McLaren](https://github.com/chinapalace)
+- [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)
