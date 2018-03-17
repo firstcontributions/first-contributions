@@ -2909,6 +2909,7 @@
 - [Puneeth Saladi](http://github.com/puneethsaladi)
 - [Jamie Shiers](http://github.com/jamiesheirs)
 - [Britt Neal](http://github.com/beeneal)
+- [Nirav Trivedi](https://github.com/niravtrivedi)
 - [Ivar Stange](https://github.com/ivarstange)
 - [Henrik Lehmann](https://github.com/Lehmannhen)
 - [Michael Pardo](https://github.com/michaelpuw)
