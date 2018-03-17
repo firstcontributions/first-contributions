@@ -2783,7 +2783,7 @@
 - [Brian Hummel](https://github.com/brianpatrickhummel)
 - [Josh Ackerman](https://github.com/jackerman69)
 - [Bryan Mason](https://github.com/flymason)
-- [Sameer Sinha](https://github.com/sameersinha) 
+- [Sameer Sinha](https://github.com/sameersinha)
 - [Euripidis Kotsantzis](https://github.com/EuripidisK)
 - [Pankaja Paranavitharana](https://github.com/pankaja92)
 - [Michal Zelinka](https://github.com/MICHAL53Q)
@@ -2921,3 +2921,4 @@
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Keegan Mallaney](https://github.com/kpmallaney)
 - [Justin McLaren](https://github.com/chinapalace)
+- [Rob Williams](https://github.com/poppashingles)
