@@ -30,4 +30,4 @@ We have some rules for translation. If you make the first translation for your l
 - [ ] Add more example and more guide
 
 
-Thanks! :heart:
+Thanks! :heart:- [Suhanshu Patel](https://github.com/Suhanshu123)
