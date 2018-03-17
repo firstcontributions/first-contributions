@@ -2913,3 +2913,4 @@
 - [Junnan Wang](https://github.com/JuneW49)
 - [Samarth Aggarwal](https://github.com/samarthaggarwal)
 - [nVidia Priyadarshini](https://github.com/nVidiaPriyadarshini)
+- [Samuel Muiruri](https://github.com/Six-wars)
