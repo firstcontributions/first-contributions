@@ -31,3 +31,4 @@ We have some rules for translation. If you make the first translation for your l
 
 
 Thanks! :heart:
+- [Nikita Kokitkar](https://github.com/niki-1905)
