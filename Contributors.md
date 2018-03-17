@@ -2910,6 +2910,7 @@
 - [Jamie Shiers](http://github.com/jamiesheirs)
 - [Britt Neal](http://github.com/beeneal)
 - [Ivar Stange](https://github.com/ivarstange)
+- [Henrik Lehmann](https://github.com/Lehmannhen)
 - [Michael Pardo](https://github.com/michaelpuw)
 - [Chris Burton](https://github.com/burtoncl)
 - [Junnan Wang](https://github.com/JuneW49)
