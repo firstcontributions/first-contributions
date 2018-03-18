@@ -2925,4 +2925,5 @@
 - [Alex Flores-Veliz](https://github.com/AlexFloresVeliz)
 - [Mark Phillipson](https://github.com/mark-phillipson)
 - [Justin McLaren](https://github.com/chinapalace)
+- [Alex Swigart](https://github.com/alexjswigart)
 - [Zachary Banducci](https://github.com/zchndcc9)
