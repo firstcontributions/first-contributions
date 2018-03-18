@@ -2923,3 +2923,4 @@
 - [Keegan Mallaney](https://github.com/kpmallaney)
 - [Justin McLaren](https://github.com/chinapalace)
 - [Zachary Banducci](https://github.com/zchndcc9)
+- [Alex Swigart](https://github.com/alexjswigart)
