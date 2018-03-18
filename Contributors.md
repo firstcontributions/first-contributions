@@ -2515,6 +2515,7 @@
 - [Rafael Possenti](https://github.com/rafaelpossenti)
 - [Bryan Tam](https://github.com/nitehawk39)
 - [Hoshiki Tsunoda](https://github.com/hoshikitsunoda)
+- [Dilan Sachintha](https://github.com/dilanSachi)
 - [maqor](https://github.com/maqor)
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
 - [jonascastulik](https://github.com/jonascastulik)
