@@ -2921,5 +2921,6 @@
 - [Samuel Muiruri](https://github.com/Six-wars)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
 - [Keegan Mallaney](https://github.com/kpmallaney)
+- [Mark Phillipson](https://github.com/mark-phillipson)
 - [Justin McLaren](https://github.com/chinapalace)
 - [Zachary Banducci](https://github.com/zchndcc9)
