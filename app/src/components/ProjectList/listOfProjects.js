@@ -12,7 +12,6 @@ const projectList = [
       'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
     description: 'Quickly ramp up in new programming languages',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
-    tags: ['Ruby', 'Exercises', 'CLI', 'Web app'],
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
@@ -210,7 +209,7 @@ const projectList = [
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
-  },
+  }, 
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
@@ -281,6 +280,12 @@ const projectList = [
     description: 'PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈',
     tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
   },
+  {
+       name:'MissionControl',
+       imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+       githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+       description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
+       tags: ['Javascript','Docker','Thrift','Good First Issue']
+    },
 ];
-
 export default projectList;

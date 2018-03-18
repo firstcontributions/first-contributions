@@ -28,6 +28,11 @@
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
 }
+@media (max-width: 700px){
+    .Card-Container{
+        width: 100%;
+    }
+}
 
 .Card-Container:hover{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px;
