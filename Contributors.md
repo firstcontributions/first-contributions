@@ -2928,6 +2928,7 @@
 - [Justin McLaren](https://github.com/chinapalace)
 - [Zachary Banducci](https://github.com/zchndcc9)
 - [wenwen](https://github.com/beginnerBate)
+- [Christopher King](https://github.com/ausdev18)
 - [demansh](https://github.com/demansh)
 - [Alan Li](https://github.com/WillOverSkill)
 - [Mus'ab Husaini](https://github.com/musabhusaini)
