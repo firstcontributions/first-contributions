@@ -1,4 +1,4 @@
-- [Gokul](https://github.com/gokulg201)
+﻿- [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
@@ -2928,3 +2928,5 @@
 - [Zachary Banducci](https://github.com/zchndcc9)
 - [wenwen](https://github.com/beginnerBate)
 - [misteu](https://github.com/misteu)
+- [Alan Li](https://github.com/WillOverSkill)
+- [Mus'ab Husaini](https://github.com/musabhusaini)
