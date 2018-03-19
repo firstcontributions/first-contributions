@@ -2938,5 +2938,6 @@
 - [Subhramitra Borkakati](https://github.com/Suvra1990)
 - [Robert Van Housen](https://github.com/Javabob61)
 - [Mishal Sanghvi](https://github.com/mishal153)
+- [Veronika Ivhed](https://github.com/lindviveronika)
 - [Jeeeun Byun](https://github.com/jeeeunevans)
 - [xstarx2001uk](https://github.com/xstarx2001uk)
