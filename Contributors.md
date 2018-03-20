@@ -2907,6 +2907,7 @@
 - [Phakin Cheangkrachange](https://github.com/teamsoo)
 - [Jessi DiTocco](https://github.com/jessiditocco)
 - [Julia Berkovitz](https://github.com/juliaberk)
+- [Liz Lee](https://github.com/eljlee)
 - [Valerie Moy](https://github.com/thevalerie)
 - [Jade Hayes](https://github.com/JadeHayes)
 - [Becca Moss](https://github.com/beccamoss)
@@ -2953,3 +2954,4 @@
 - [Michael Hathi](https://github.com/numerative)
 - [Michael Blair](https://github.com/Fortyonehertz)
 - [Leonard Dalmacio](https://github.com/leodalmacio)
+
