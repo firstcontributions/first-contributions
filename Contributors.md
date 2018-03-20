@@ -1,4 +1,5 @@
-﻿- [Michael Nelson](https://github.com/mtnj356)
+- [James Tompkins](https://github.com/JamesTompkins)
+- [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
 - [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
