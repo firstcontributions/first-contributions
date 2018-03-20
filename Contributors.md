@@ -2951,3 +2951,4 @@
 - [Annie Rose Webb](https://github.com/arwebb)
 - [Michael Hathi](https://github.com/numerative)
 - [Michael Blair](https://github.com/Fortyonehertz)
+- [Leonard Dalmacio](https://github.com/leodalmacio)
