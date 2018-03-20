@@ -273,7 +273,7 @@ const projectList = [
     description: 'Tool for collaboratively building interactive lessons.',
     tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
   },
-   {
+  {
     name: 'Public Lab',
     imageSrc: 'https://publiclab.org/system/images/photos/000/023/444/large/Screenshot_20180204-101546_2.png',
     githubLink: 'https://publiclab.github.io/community-toolbox/#r=all',
@@ -281,11 +281,18 @@ const projectList = [
     tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
   },
   {
-       name:'MissionControl',
-       imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
-       githubLink: 'https://github.com/DAVFoundation/missioncontrol',
-       description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
-       tags: ['Javascript','Docker','Thrift','Good First Issue']
-    },
+    name:'MissionControl',
+    imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+    githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+    description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
+    tags: ['Javascript','Docker','Thrift','Good First Issue']
+  },
+  {
+    name:'DuckDuckGo',
+    imageSrc:'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
+    githubLink: 'https://github.com/duckduckgo',
+    description:'The search engine that doesn\'t track you',
+    tags: ['Javascript','Perl','Python','Privacy']
+  },
 ];
 export default projectList;
