@@ -2953,6 +2953,6 @@
 - [Annie Rose Webb](https://github.com/arwebb)
 - [Michael Hathi](https://github.com/numerative)
 - [Michael Blair](https://github.com/Fortyonehertz)
+- [Jessica Yin](https://github.com/jeqyin)
+- [Himanshu Saini](https://github.com/saini-himanshu)
 - [Leonard Dalmacio](https://github.com/leodalmacio)
-- [MarshyC](https://github.com/marshyc)
-
