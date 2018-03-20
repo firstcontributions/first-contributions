@@ -2715,6 +2715,7 @@
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
 - [Keith Bessette](https://github.com/kabeste/)
 - [Austin French](https://github.com/frogr/)
+- [Pritika Shenoy](https://github.com/pritikashenoy/)
 - [Vusal Alishov](https://github.com/vusalalishov)
 - [Jerry Hsieh](https://github.com/cyhs)
 - [Tommy Dato](https://github.com/Gmaing)
