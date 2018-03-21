@@ -71,6 +71,11 @@ Dodaj następującą linię na końcu `Contributors.md`
 ```
 [Twoje imię](https://github.com/Twoja nazwa użytkownika)
 ```
+Przykład: 
+```
+[John Doe](https://github.com/johndoe)
+```
+
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
 Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany.Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
