@@ -2963,4 +2963,5 @@
 - [Sylvester Hillary](https://github.com/sylvacoin)
 - [Zach Gonzales](https://github.com/zgonzales)
 - [Mark Sampson](https://github.com/SampsonM)
+- [Joseph Crisolo](https://github.com/crisolo527)
 - [Sal Gonzalez](https://github.com/fuey3000)
