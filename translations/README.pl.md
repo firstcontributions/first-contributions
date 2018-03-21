@@ -115,7 +115,7 @@ Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. 
 Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Dołącz do slacka</a>.
 Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
-### [Materiały dodatkowe](additional-material/git_workflow_senarios/additional-material.md) 
+### [Materiały dodatkowe](https://github.com/Roshanjossey/first-contributions/blob/master/additional-material/git_workflow_senarios/additional-material.md) 
  
 ## Ćwiczenia przy użyciu innych narzędzi
 
