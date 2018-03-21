@@ -2968,3 +2968,4 @@
 - [Rohini Joshi](https://github.com/rohini21)
 - [Sergio Zurita](https://github.com/SergioZ96)
 - [Harun Tuncay](https://github.com/haruntuncay)
+- [Ali Tariq](https://github.com/atariq6298)
