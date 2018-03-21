@@ -78,7 +78,7 @@ Przykład:
 
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
-Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany.Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
+Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
 ```
 `git add Contributors.md`
 ```
