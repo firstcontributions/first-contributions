@@ -2900,6 +2900,7 @@
 - [Maxwell Powlison](https://github.com/bobdavelisafrank)
 - [Andrey Kishtov](https://github.com/AndreyKishtov)
 - [Andrew Mlamba](https://github.com/AndrewMlamba)
+- [Longjam Somesh Singh](https://github.com/longsom)
 - [Vrelinn Vailati](https://github.com/VrelinnVailati)
 - [Petter Berntsson](https://github.com/Pethead)
 - [Chia-Hao Tu](https://github.com/chiahaotu)
@@ -2969,3 +2970,5 @@
 - [Sergio Zurita](https://github.com/SergioZ96)
 - [Harun Tuncay](https://github.com/haruntuncay)
 - [Ali Tariq](https://github.com/atariq6298)
+- [Vanshika Darbari](https://github.com/vanshikadarbari)
+- [Sam](https://github.com/imsamazing)
