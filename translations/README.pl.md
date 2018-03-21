@@ -115,6 +115,8 @@ Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. 
 Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Dołącz do slacka</a>.
 Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
+### [Materiały dodatkowe](additional-material/git_workflow_senarios/additional-material.md) 
+ 
 ## Ćwiczenia przy użyciu innych narzędzi
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
@@ -125,3 +127,4 @@ Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę
 
 Jeżeli spodobał Ci się ten projekt, dodaj mu gwiazdkę na <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>. Jeżeli chcesz nas wspomóc śledź <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> na <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitterze</a> i na <a href="https://github.com/roshanjossey">GitHub</a>.
 
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
