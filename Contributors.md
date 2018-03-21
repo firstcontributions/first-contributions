@@ -2714,3 +2714,4 @@
 - [Edward de Jongh](https://github.com/edejongh
 - [Niranjan A Kartha](https://github.com/n-kartha)
 - [Duncan Fermor](https://github.com/Peregrine42)
+- [Tihomir Tadic](https://github.com/tahgit)
