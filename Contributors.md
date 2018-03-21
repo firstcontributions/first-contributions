@@ -2956,7 +2956,7 @@
 - [Jessica Yin](https://github.com/jeqyin)
 - [Himanshu Saini](https://github.com/saini-himanshu)
 - [Leonard Dalmacio](https://github.com/leodalmacio)
-- [Deepika Pandhi](https://github.com/dpandhi-git)
 - [Sylvester Hillary](https://github.com/sylvacoin)
 - [Zach Gonzales](https://github.com/zgonzales)
 - [Mark Sampson](https://github.com/SampsonM)
+- [Nachiket Bhoyar](https://github.com/nsb-xps)
