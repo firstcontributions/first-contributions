@@ -2956,5 +2956,6 @@
 - [Jessica Yin](https://github.com/jeqyin)
 - [Himanshu Saini](https://github.com/saini-himanshu)
 - [Leonard Dalmacio](https://github.com/leodalmacio)
+- [Sylvester Hillary](https://github.com/sylvacoin)
 - [Zach Gonzales](https://github.com/zgonzales)
 - [Mark Sampson](https://github.com/SampsonM)
