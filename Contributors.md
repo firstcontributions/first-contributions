@@ -2987,3 +2987,4 @@
 - [Halom Vered](https://github.com/Halomvered)
 - [Arron Kennedy](https://github.com/Arronk)
 - [Sreelekshmi V](https://github.com/vsreelekshmi)
+- [Samidha Verma](https://github.com/samidhaVerma)
