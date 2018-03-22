@@ -2988,3 +2988,5 @@
 - [Arron Kennedy](https://github.com/Arronk)
 - [Sreelekshmi V](https://github.com/vsreelekshmi)
 - [Usohatchi](http://github.com/Usohatchi)
+- [Ian Johnston](https://github.com/ijohnst13)
+- [Samidha Verma](https://github.com/samidhaVerma)
