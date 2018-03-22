@@ -1,4 +1,5 @@
-﻿- [James Tompkins](https://github.com/JamesTompkins)
+﻿- [Jonathan Cooper](https://github.com/jon23cooper)
+- [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
 - [Gokul](https://github.com/gokulg201)
