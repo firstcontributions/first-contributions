@@ -2984,3 +2984,4 @@
 - [George Jones](https://github.com/gsjonesjr)
 - [Jess Rossi](https://github.com/jrossi3526)
 - [Hannah Bourke](https://github.com/hannah-be)
+- [Halom Vered](https://github.com/Halomvered)
