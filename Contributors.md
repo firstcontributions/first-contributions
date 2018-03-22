@@ -1,4 +1,4 @@
-﻿- [James Tompkins](https://github.com/JamesTompkins)
+- [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
 - [Gokul](https://github.com/gokulg201)
@@ -2972,3 +2972,4 @@
 - [Ali Tariq](https://github.com/atariq6298)
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
+- [David Haynes](https://github.com/DavidHaynesHasGitHub)
