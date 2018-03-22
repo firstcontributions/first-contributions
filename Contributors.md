@@ -2973,5 +2973,6 @@
 - [Ali Tariq](https://github.com/atariq6298)
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
+- [andreas cormack](https://github.com/squadran2003)
 - [George Jones](https://github.com/gsjonesjr)
 - [Jess Rossi](https://github.com/jrossi3526)
