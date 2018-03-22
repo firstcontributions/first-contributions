@@ -2973,6 +2973,7 @@
 - [Ali Tariq](https://github.com/atariq6298)
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
+- [Durgesh Agrawal](https://github.com/durgeshra)
 - [Maya](https://github.com/thegirlfromipanema)
 - [David Haynes](https://github.com/DavidHaynesHasGitHub)
 - [Josh](https://github.com/kiwi-koder)
