@@ -1,4 +1,4 @@
-- [Jonathan Cooper](https://github.com/jon23cooper)
+﻿- [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
@@ -2985,3 +2985,4 @@
 - [Jess Rossi](https://github.com/jrossi3526)
 - [Hannah Bourke](https://github.com/hannah-be)
 - [Halom Vered](https://github.com/Halomvered)
+- [Arron Kennedy](https://github.com/Arronk)
