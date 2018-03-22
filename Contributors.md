@@ -2972,3 +2972,5 @@
 - [Ali Tariq](https://github.com/atariq6298)
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
+- [Alex Okros](https://github.com/Okry)
+
