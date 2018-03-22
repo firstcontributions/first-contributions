@@ -1,3 +1,4 @@
+- [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
@@ -2973,3 +2974,8 @@
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
 - [David Haynes](https://github.com/DavidHaynesHasGitHub)
+- [Josh](https://github.com/kiwi-koder)
+- [Callat](https://github.com/latimercaleb)
+- [andreas cormack](https://github.com/squadran2003)
+- [George Jones](https://github.com/gsjonesjr)
+- [Jess Rossi](https://github.com/jrossi3526)
