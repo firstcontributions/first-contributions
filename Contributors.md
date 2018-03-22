@@ -1,3 +1,4 @@
+- [Praveen Krishnan](https://github.com/praveenkrishnan81)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
@@ -2987,3 +2988,6 @@
 - [Halom Vered](https://github.com/Halomvered)
 - [Arron Kennedy](https://github.com/Arronk)
 - [Anastasios Tsourounis](https://github.com/tsourou21)
+- [Sreelekshmi V](https://github.com/vsreelekshmi)
+- [Ian Johnston](https://github.com/ijohnst13)
+- [Samidha Verma](https://github.com/samidhaVerma)
