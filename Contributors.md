@@ -2970,6 +2970,7 @@
 - [Joseph Crisolo](https://github.com/crisolo527)
 - [Sal Gonzalez](https://github.com/fuey3000)
 - [Rohini Joshi](https://github.com/rohini21)
+- [Ali Kabiri](https://github.com/alikabiris)
 - [Sergio Zurita](https://github.com/SergioZ96)
 - [Harun Tuncay](https://github.com/haruntuncay)
 - [Ali Tariq](https://github.com/atariq6298)
@@ -2996,3 +2997,4 @@
 - [Ethan Shearer](https://github.com/itaden1)
 - [Didier CHEUNG](https://github.com/casdidier)
 - mtdkki
+- [larenala](https://github.com/larenala)
