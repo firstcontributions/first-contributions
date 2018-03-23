@@ -2998,6 +2998,7 @@
 - [Didier CHEUNG](https://github.com/casdidier)
 - mtdkki
 - [larenala](https://github.com/larenala)
+- [benbe](https://github.com/dienhoa)
 - [PRElias](https://github.com/PRElias)
 - [Dimitra Intze](https://github.com/mimikaTU)
 - [Martin Quintero](https://github.com/martineliasq)
