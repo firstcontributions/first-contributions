@@ -2994,3 +2994,4 @@
 - [Jon-Head](https://github.com/qronix)
 - [Kanwar Sahdra](https://github.com/KNWR)
 - [Ethan Shearer](https://github.com/itaden1)
+- [Didier CHEUNG](https://github.com/casdidier)
