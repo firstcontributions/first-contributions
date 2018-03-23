@@ -2991,5 +2991,6 @@
 - [Sreelekshmi V](https://github.com/vsreelekshmi)
 - [Ian Johnston](https://github.com/ijohnst13)
 - [Samidha Verma](https://github.com/samidhaVerma)
+- [Jon-Head](https://github.com/qronix)
 - [Kanwar Sahdra](https://github.com/KNWR)
 - [Ethan Shearer](https://github.com/itaden1)
