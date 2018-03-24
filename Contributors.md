@@ -1,4 +1,4 @@
-- [Praveen Krishnan](https://github.com/praveenkrishnan81)
+﻿- [Praveen Krishnan](https://github.com/praveenkrishnan81)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
@@ -2994,3 +2994,4 @@
 - [Jon-Head](https://github.com/qronix)
 - [Kanwar Sahdra](https://github.com/KNWR)
 - [Ethan Shearer](https://github.com/itaden1)
+- [Carlo Candoy](https://github.com/mondogoat)
