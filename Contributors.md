@@ -3012,3 +3012,4 @@
 - [Daniel Korchinski](https://github.com/DJKorchinski)
 - [Tim Browne](https://github.com/HeyTimmy)
 - [Stephanie M. Davis](https://github.com/stephaniemdavis)
+- [theloca95](https://github.com/theloca95)
