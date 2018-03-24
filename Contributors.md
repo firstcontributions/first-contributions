@@ -2997,6 +2997,7 @@
 - [Jon-Head](https://github.com/qronix)
 - [Kanwar Sahdra](https://github.com/KNWR)
 - [Ethan Shearer](https://github.com/itaden1)
+- [Carlo Candoy](https://github.com/mondogoat)
 - [Didier CHEUNG](https://github.com/casdidier)
 - mtdkki
 - [larenala](https://github.com/larenala)
