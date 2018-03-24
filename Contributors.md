@@ -2541,6 +2541,7 @@
 - [Ferhat Sahinkaya](https://github.com/ferhatsahinkaya)
 - [Carl Isaac](https://github.com/carlisaac)
 - [Edwin Moses](https://github.com/3dw1nM0535)
+- [Edwin Mwaniki](https://github.com/emwani1)
 - [Richard Rolfes](https://github.com/rarwolf47)
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
 - [Jon Hawranko](https://github.com/Shlim45)
@@ -3007,4 +3008,3 @@
 - [Gareth Lyle](https://github.com/gslyle)
 - [Harshit Shah](https://github.com/harshitbshah)
 - [Daniel Korchinski](https://github.com/DJKorchinski)
-- [Di Wu](https://github.com/CaptainAwesomeDi)
