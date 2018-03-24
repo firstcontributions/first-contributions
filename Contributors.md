@@ -3007,3 +3007,4 @@
 - [Gareth Lyle](https://github.com/gslyle)
 - [Harshit Shah](https://github.com/harshitbshah)
 - [Daniel Korchinski](https://github.com/DJKorchinski)
+- [Di Wu](https://github.com/CaptainAwesomeDi)
