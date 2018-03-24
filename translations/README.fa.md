@@ -7,7 +7,10 @@
 <p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
 <p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ حدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
   
-#### *Read this in [other languages](Translations.md).*
+#### *Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), 
+ [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Arabic](README.ar.md).*
+
+
 <p dir="rtl">اگه روی دستگاهت گیت نداری. نصبش کن
 <a href="https://help.github.com/articles/set-up-git/">https://help.github.com/articles/set-up-git/</a>.</p>
 <h2 dir="rtl">
@@ -100,7 +103,7 @@
 <thead>
 <tr>
 <th><a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://camo.githubusercontent.com/59366250bb159bb039b8eba5bd19c615dfc1819a/68747470733a2f2f6465736b746f702e6769746875622e636f6d2f696d616765732f6465736b746f702d69636f6e2e737667" width="100" data-canonical-src="https://desktop.github.com/images/desktop-icon.svg" style="max-width:100%;"></a></th>
-<th><a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/3860efdf8f5c7f13181764ff963ef6cad2a28ac9/68747470733a2f2f7777772e6d6963726f736f66742e636f6d2f6e65742f696d616765732f76736c6f676f2e706e67" width="100" data-canonical-src="https://www.microsoft.com/net/images/vslogo.png" style="max-width:100%;"></a></th>
+<th><a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100" data-canonical-src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" style="max-width:100%;"></a></th>
 <th><a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100" style="max-width:100%;"></a></th>
 </tr>
 </thead>
