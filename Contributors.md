@@ -2513,3 +2513,6 @@
 - [Ferhat Sahinkaya](https://github.com/ferhatsahinkaya)
 - [Carl Isaac](https://github.com/carlisaac)
 - [Edwin Moses](https://github.com/3dw1nM0535)
+- [Edwin Mwaniki](https://github.com/emwani1)
+
+
