@@ -3011,3 +3011,4 @@
 - [Harshit Shah](https://github.com/harshitbshah)
 - [Daniel Korchinski](https://github.com/DJKorchinski)
 - [Tim Browne](https://github.com/HeyTimmy)
+- [Stephanie M. Davis](https://github.com/stephaniemdavis)
