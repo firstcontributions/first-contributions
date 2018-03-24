@@ -1,4 +1,4 @@
-- [Thomas Lim](https://github.com/TrottPilgrim)
+﻿- [Thomas Lim](https://github.com/TrottPilgrim)
 - [Praveen Krishnan](https://github.com/praveenkrishnan81)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
@@ -3012,4 +3012,5 @@
 - [Daniel Korchinski](https://github.com/DJKorchinski)
 - [Tim Browne](https://github.com/HeyTimmy)
 - [Stephanie M. Davis](https://github.com/stephaniemdavis)
--[Jonah Eisenstock](https://github.com/j-eisen)
+- [Jason Clarke](https://github.com/jasonclarke116)
+- [Jonah Eisenstock](https://github.com/j-eisen)
