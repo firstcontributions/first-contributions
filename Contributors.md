@@ -2050,6 +2050,7 @@
 - [Keith Selbee](https://github.com/kselbee)
 - gkchan
 - [Kiki Batterson](https://github.com/ki2batt)
+<<<<<<< HEAD
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Dinislam](https://github.com/cheburan)
 - [Samer Kanakri](https://github.com/samerkanakri)
@@ -3023,3 +3024,6 @@
 - [Mohamed AboBakr](https://github.com/MohamedAboBakr)
 - [Andrew Moll](https://github.com/andrewmoll913)
 - [Mohamed Ihsan K](https://github.com/excelnd)
+- [Zane Mather](https://github.com/Zanemonkey)
+- [Dinislam](https://github.com/cheburan)
+- [Suyash Nene](https://github.com/suyashnene)
