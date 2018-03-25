@@ -29,4 +29,4 @@
 | :bangladesh:| [Bangla](translations/README.bn.md) |
 | :moldova: :romania: | [Limba Română](translations/README.ro.md)|
 | :uk: | [English](README.md) |
-| :tr: | [Turkish](translations/Readme.tr.md)
+| :tr: | [Turkish](translations/README.tr.md)
