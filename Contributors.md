@@ -1,4 +1,4 @@
-- [Thomas Lim](https://github.com/TrottPilgrim)
+﻿- [Thomas Lim](https://github.com/TrottPilgrim)
 - [Praveen Krishnan](https://github.com/praveenkrishnan81)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
@@ -3027,3 +3027,4 @@
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Dinislam](https://github.com/cheburan)
 - [Suyash Nene](https://github.com/suyashnene)
+- [Ratnesh Murugesan](https://github.com/ratneshmurugesan)
