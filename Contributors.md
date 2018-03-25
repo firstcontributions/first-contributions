@@ -3015,6 +3015,7 @@
 - [Stephanie M. Davis](https://github.com/stephaniemdavis)
 - [theloca95](https://github.com/theloca95)
 - [Jonah Eisenstock](https://github.com/j-eisen)
+- [Rachael Saxby](https://github.com/rsaxby)
 - [Abhinav Ramkumar](https://github.com/lifeinvader00)
 - [Andi Wang](https://github.com/Andi-Wang)
 - [Mohamed AboBakr](https://github.com/MohamedAboBakr)
