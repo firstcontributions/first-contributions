@@ -2050,7 +2050,6 @@
 - [Keith Selbee](https://github.com/kselbee)
 - gkchan
 - [Kiki Batterson](https://github.com/ki2batt)
-<<<<<<< HEAD
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Dinislam](https://github.com/cheburan)
 - [Samer Kanakri](https://github.com/samerkanakri)
@@ -2178,7 +2177,7 @@
 - [Harsh](https://github.com/harshp.97)
 - [Gabriel Machado](https://github.com/gm1357)
 - [Marcelo Ferreira](https://github.com/marcelosife)
--�[mcyusuf](https://github.com/mcyusuf)
+- [mcyusuf](https://github.com/mcyusuf)
 - [Aditya Gupta](https://github.com/ag93999)
 - [Alisson Valdir de Souza](https://github.com/alivs)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
@@ -3028,3 +3027,4 @@
 - [Dinislam](https://github.com/cheburan)
 - [Suyash Nene](https://github.com/suyashnene)
 - [Paskalouis Patressi](https://github.com/Paskalouis)
+- [Ratnesh Murugesan](https://github.com/ratneshmurugesan)
