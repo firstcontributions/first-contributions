@@ -3032,4 +3032,5 @@
 - [DavNej](https://github.com/DavNej)
 - [Jaâfar Biyadi](http://github.com/jaafarbi)
 - [Merry Degaga](https://github.com/MerryDe)
+- [Mohit Negi](https://github.com/negimohit1209)
 - [Nikolay Kosev](https://github.com/narlah)
