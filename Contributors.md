@@ -2997,6 +2997,7 @@
 - [Jon-Head](https://github.com/qronix)
 - [Kanwar Sahdra](https://github.com/KNWR)
 - [Ethan Shearer](https://github.com/itaden1)
+- [Carlo Candoy](https://github.com/mondogoat)
 - [Didier CHEUNG](https://github.com/casdidier)
 - mtdkki
 - [larenala](https://github.com/larenala)
@@ -3010,3 +3011,9 @@
 - [Harshit Shah](https://github.com/harshitbshah)
 - [Daniel Korchinski](https://github.com/DJKorchinski)
 - [Nick Nelson](https://github.com/deadpool013)
+- [Tim Browne](https://github.com/HeyTimmy)
+- [Stephanie M. Davis](https://github.com/stephaniemdavis)
+- [theloca95](https://github.com/theloca95)
+- [Jonah Eisenstock](https://github.com/j-eisen)
+- [Andi Wang](https://github.com/Andi-Wang)
+- [Mohamed AboBakr](https://github.com/MohamedAboBakr)
