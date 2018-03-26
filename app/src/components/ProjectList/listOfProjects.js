@@ -294,5 +294,12 @@ const projectList = [
     description:'The search engine that doesn\'t track you',
     tags: ['Javascript','Perl','Python','Privacy']
   },
+  {
+    name:'Kinto',
+    imageSrc:'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
+    githubLink: 'https://github.com/kinto',
+    description:'A generic JSON document store with sharing and synchronisation capabilities.',
+    tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
+  },
 ];
 export default projectList;
