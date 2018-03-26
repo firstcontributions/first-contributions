@@ -3041,3 +3041,4 @@
 - [Huda Hawasli](https://github.com/hudahawasli)
 - [Paritosh Borkar](https://github.com/Keebu)
 - [Noyze](https://github.com/Noyze)
+- [Jarrod Yellets](https://github.com/jarrodyellets)
