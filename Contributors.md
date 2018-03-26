@@ -1,3 +1,4 @@
+- [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
 - [Thomas Lim](https://github.com/TrottPilgrim)
 - [Praveen Krishnan](https://github.com/praveenkrishnan81)
@@ -710,6 +711,7 @@
 - [jlapitan](https://github.com/jlapitan)
 - [St?phane Salomon](https://github.com/theflupke)
 - [Vito Labalestra](https://github.com/xit4)
+- [Vitalii Vrublevskyi](https://github.com/vrublevskiyvitaliy)
 - [Theo Markovic](https://github.com/tmarkovic)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
 - [Kate Boyko](https://github.com/kateboyko)
