@@ -3008,7 +3008,7 @@
 - [PRElias](https://github.com/PRElias)
 - [Dimitra Intze](https://github.com/mimikaTU)
 - [Martin Quintero](https://github.com/martineliasq)
-- [Brandon D'Alleva](https://github.com/bdalleva)  
+- [Brandon D'Alleva](https://github.com/bdalleva)
 - [Rob Goelz](https://github.com/RobGoelz/)
 - [Gareth Lyle](https://github.com/gslyle)
 - [Harshit Shah](https://github.com/harshitbshah)
@@ -3044,3 +3044,4 @@
 - [Jarrod Yellets](https://github.com/jarrodyellets)
 - [Stas Orlenko](https://github.com/stas-orlenko)
 - [Vhr121](https://github.com/vhr121)
+- [Winfield Ly](https://github.com/wly5)
