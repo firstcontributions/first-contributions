@@ -710,6 +710,7 @@
 - [jlapitan](https://github.com/jlapitan)
 - [St?phane Salomon](https://github.com/theflupke)
 - [Vito Labalestra](https://github.com/xit4)
+- [Vitalii Vrublevskyi](https://github.com/vrublevskiyvitaliy)
 - [Theo Markovic](https://github.com/tmarkovic)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
 - [Kate Boyko](https://github.com/kateboyko)
