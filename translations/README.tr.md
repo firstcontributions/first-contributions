@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# İlk açık kaynak katkısı
+# İlk katkılar
 
 Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
 
@@ -27,9 +27,9 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 Daha sonra uçbirimi açıp aşağıdaki git komut satırını girmemiz gerekiyor:
 
 ```
-git clone "kopyaladığınız-alan-adı"
+git clone "kopyaladığınız-url"
 ```
-"kopyaladığınız-alan-adı" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
+"kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki koplayın.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -91,7 +91,7 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 
 ## Değişiklikleri GitHub üzerine "itme" (Push)
 
-`git push` komutu ile değişikliklerinizi itin:
+`git push` komutu ile değişikliklerinizi ittirin:
 ```
 git push origin <ekle-kendi-isminiz>
 ```
@@ -113,9 +113,9 @@ Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile bir
 
 ## Bundan sonra ne yapabilirim?
 
-Katkınızı kutlamak ve arkadaşlarınız ve takipçilerinizle paylaşmak için bu bağlantıyı kullanabilirsiniz. [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
 
-Bir sorunuz veya yardıma ihtiyacınız olursa slack takımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
+Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
 
 Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki konulara (issue) sahip projeleri [sizin için derledik](https://roshanjossey.github.io/first-contributions/#project-list).
 
