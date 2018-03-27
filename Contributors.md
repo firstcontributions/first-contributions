@@ -3055,5 +3055,8 @@
 - [Anuj Bansal](https://github.com/ab63)
 - [Victor França](https://github.com/victorfrancax1)
 - [Umashankar Varma](https://github.com/usvarma)
+- [Jose Georges](https://github.com/josegeorges8)
+- [Jase Languasco](https://github.com/jase-languasco)
 - [Bao Do](https://github.com/btdo)
 - [Spyros Foniadakis](https://github.com/spyrosfoniadakis)
+- [Tony Phan](https:/github.com/phanx211)
