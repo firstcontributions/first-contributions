@@ -1229,6 +1229,7 @@
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
 - [Min Naing Oo](https://github.com/min9ox2)
+- [Jorge Ros Gil](https://github.com/jorrgme)
 - [Peiyu Liao](https://github.com/pyliaorachel)
 - [Peerarust Siriamphan](https://github.com/Gnoyoyo)
 - [Ales Jagric](https://github.com/OmegaModr)
