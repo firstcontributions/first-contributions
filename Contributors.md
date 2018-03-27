@@ -3046,6 +3046,7 @@
 - [Vhr121](https://github.com/vhr121)
 - [Winfield Ly](https://github.com/wly5)
 - [David Cornelius](https://github.com/corneliusdavid)
+- [Adrian Mastronardi](https://github.com/AdrianMastronardi)
 - [Josiah Donor](https://github.com/jdonor)
 - [Martin Clifford](https://github.com/mclifford82)
 - [codedu](https://github.com/codedu84)
