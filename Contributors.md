@@ -3054,3 +3054,5 @@
 - [Anuj Bansal](https://github.com/ab63)
 - [Victor França](https://github.com/victorfrancax1)
 - [Umashankar Varma](https://github.com/usvarma)
+- [Jose Georges](https:///github.com/josegeorges8)
+
