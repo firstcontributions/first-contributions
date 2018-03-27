@@ -3046,6 +3046,7 @@
 - [Vhr121](https://github.com/vhr121)
 - [Winfield Ly](https://github.com/wly5)
 - [David Cornelius](https://github.com/corneliusdavid)
+- [HermitMoon](https://github.com/HermitMoon)
 - [Anuj Bansal](https://github.com/ab63)
 - [Victor França](https://github.com/victorfrancax1)
 - [Umashankar Varma](https://github.com/usvarma)
