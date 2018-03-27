@@ -3054,4 +3054,5 @@
 - [Anuj Bansal](https://github.com/ab63)
 - [Victor França](https://github.com/victorfrancax1)
 - [Umashankar Varma](https://github.com/usvarma)
+- [Bao Do](https://github.com/btdo)
 - [Spyros Foniadakis](https://github.com/spyrosfoniadakis)
