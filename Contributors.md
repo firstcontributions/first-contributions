@@ -3063,4 +3063,5 @@
 - [Bruno Mazza](https://github.com/DownTheMatrix)
 - [Roneet Nagale](https://github.com/r0vina)
 - [Tony Phan](https:/github.com/phanx211)
+- [Joshua Hirsch](https://github.com/joshhirsch)
 - [Filip Zukowski](https://github.com/paradise997)
