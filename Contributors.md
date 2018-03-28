@@ -3076,3 +3076,4 @@
 - [psittacine](https://github.com/psittacine)
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
+- [Alessandro Racheli](https://github.com/floydjohn)
