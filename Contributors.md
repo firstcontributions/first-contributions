@@ -3066,3 +3066,4 @@
 - [Joshua Hirsch](https://github.com/joshhirsch)
 - [Filip Zukowski](https://github.com/paradise997)
 - [Gareth Jackson](https://github.com/garethjackson)
+- [Dennis Eldridge](https://github.com/dennis-eldridge)
