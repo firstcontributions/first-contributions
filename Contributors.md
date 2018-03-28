@@ -3085,5 +3085,6 @@
 - [Greg Czaplicki](https://github.com/greg-czaplicki)
 - [Mathew McHugh](https://github.com/mathmch)
 - [Gurjar Shakti](https://github.com/gurjarshakti)
+- [Zaire Paterson](https://github.com/zpaterson)
 - [Vivian San](https://github.com/vsan21)
 - [Soona Mata](https://github.com/SoonaMata)
