@@ -1,4 +1,4 @@
-- [Deny Purnama Ramadan](https://github.com/ramadandeny)
+﻿- [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
 - [Thomas Lim](https://github.com/TrottPilgrim)
@@ -3068,4 +3068,7 @@
 - [Gareth Jackson](https://github.com/garethjackson)
 - [Dennis Eldridge](https://github.com/dennis-eldridge)
 - [Plamen Gurov](https://github.com/psg666)
+- [Paul Sethre](https://github.com/radarthreat)
+- [Jessica Sutton](https://github.com/jmsutton0703)
+- [Jack Lange](https://github.com/bld456)
 - [Rinal P](https://github.com/rinal96)
