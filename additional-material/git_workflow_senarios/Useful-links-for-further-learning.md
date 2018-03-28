@@ -19,5 +19,7 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 14. [Getting started with Open Source](https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources)
 15. [How to contribute](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 16. [Atlassians Git Tutorials](https://www.atlassian.com/git)
+17. [Pull request reviews](https://help.github.com/articles/about-pull-request-reviews/)
+18. [Another Interactive tutorial for git](https://learngitbranching.js.org/)
 
 Keep adding more links, that you find helpful.

@@ -12,7 +12,6 @@ const projectList = [
       'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
     description: 'Quickly ramp up in new programming languages',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
-    tags: ['Ruby', 'Exercises', 'CLI', 'Web app'],
   }, {
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
@@ -210,7 +209,7 @@ const projectList = [
     githubLink: 'https://github.com/scrapy/scrapy',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
-  },
+  }, 
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
@@ -267,6 +266,40 @@ const projectList = [
     description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS',
     tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
   },
+  {
+    name: 'Oppia',
+    imageSrc: 'https://www.oppia.org/build/assets/images/logo/288x128_logo_mint.42f8d38467fe745205b3374b33668068.png',
+    githubLink: 'https://github.com/oppia/oppia',
+    description: 'Tool for collaboratively building interactive lessons.',
+    tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
+  },
+  {
+    name: 'Public Lab',
+    imageSrc: 'https://publiclab.org/system/images/photos/000/023/444/large/Screenshot_20180204-101546_2.png',
+    githubLink: 'https://publiclab.github.io/community-toolbox/#r=all',
+    description: 'PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈',
+    tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
+  },
+  {
+    name:'MissionControl',
+    imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+    githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+    description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
+    tags: ['Javascript','Docker','Thrift','Good First Issue']
+  },
+  {
+    name:'DuckDuckGo',
+    imageSrc:'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
+    githubLink: 'https://github.com/duckduckgo',
+    description:'The search engine that doesn\'t track you',
+    tags: ['Javascript','Perl','Python','Privacy']
+  },
+  {
+    name:'Kinto',
+    imageSrc:'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
+    githubLink: 'https://github.com/kinto',
+    description:'A generic JSON document store with sharing and synchronisation capabilities.',
+    tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
+  },
 ];
-
 export default projectList;
