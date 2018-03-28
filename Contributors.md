@@ -1,4 +1,4 @@
-- [Deny Purnama Ramadan](https://github.com/ramadandeny)
+﻿- [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
 - [Thomas Lim](https://github.com/TrottPilgrim)
@@ -3065,3 +3065,4 @@
 - [Tony Phan](https:/github.com/phanx211)
 - [Joshua Hirsch](https://github.com/joshhirsch)
 - [Filip Zukowski](https://github.com/paradise997)
+- [Jack Lange](https://github.com/bld456)
