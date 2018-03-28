@@ -3072,5 +3072,6 @@
 - [Jessica Sutton](https://github.com/jmsutton0703)
 - [Jack Lange](https://github.com/bld456)
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
+- [Rinal P](https://github.com/rinal96)
 - [psittacine](https://github.com/psittacine)
 - [Karim Rebai](https://github.com/karimrebai)
