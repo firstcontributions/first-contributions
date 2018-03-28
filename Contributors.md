@@ -3075,3 +3075,4 @@
 - [Rinal P](https://github.com/rinal96)
 - [psittacine](https://github.com/psittacine)
 - [Karim Rebai](https://github.com/karimrebai)
+- [Alessandro Racheli](https://github.com/floydjohn)
