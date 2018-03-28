@@ -3077,5 +3077,6 @@
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
 - [Alessandro Racheli](https://github.com/floydjohn)
+- [Amadu Askofare](https://github.com/amaduasko)
 - [Musa Serdar Arslan](https://github.com/karsibali)
 - [Yamaç Kurtuluş](https://github.com/yamac-kurtulus)
