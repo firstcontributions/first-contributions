@@ -3101,3 +3101,5 @@
 - [iamaninja](https://github.com/iamaninja)
 - [Ankit Anvesh](https://github.com/Ankitanvesh)
 - [Simphiwe Zondi](https://github.com/SimzoAKA)
+- [Kathy Wu](https://github.com/fluffytree)
+
