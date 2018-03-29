@@ -3092,5 +3092,6 @@
 - [Lon Porter](https://github.com/lonjporter)
 - [Kiron Roy](https://github.com/kironroy)
 - [Cherian Paul](https://github.com/cheriannet)
+- [Isaac Fife](https://github.com/isaacfife)
 - [Shamly Mackey](https://github.com/shamlymackey)
 - [Ryan Cabanas](https://github.com/ryancabanas)
