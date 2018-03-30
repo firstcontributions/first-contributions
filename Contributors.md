@@ -3102,3 +3102,6 @@
 - [Ankit Anvesh](https://github.com/Ankitanvesh)
 - [Simphiwe Zondi](https://github.com/SimzoAKA)
 - [Shruti Harihar](https://github.com/ShrutiHarihar)
+- [Carlos Valdez](https://github.com/IronValdez)
+- [Richmond Liew](https://github.com/liewrichmond)
+- [Mohamed Niyaz](https://github.com/Niyaz2498)
