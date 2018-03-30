@@ -3113,5 +3113,6 @@
 - [Mohamed Niyaz](https://github.com/Niyaz2498)
 - [Ankit Dwivedi](https://github.com/ankit-kumar-dwivedi)
 - [Michal Pietruszka](https://github.com/pietruh)
+- [Colin Hughes](https://github.com/colinhughes98)
 - [Ahmad Masabni](https://github.com/Ahmad94Masabni)
 - [Jaskirat Singh](https://github.com/jaskiratsingh-98)
