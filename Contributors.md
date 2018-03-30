@@ -3118,4 +3118,5 @@
 - [Ahmad Masabni](https://github.com/Ahmad94Masabni)
 - [Jaskirat Singh](https://github.com/jaskiratsingh-98)
 - [Shashank Gupta](https://github.com/shashankgupta06)
+- [Jonathan Wilson](https://github.com/jonathantaylorwilson)
 - [Chivorn Kouch](https://github.com/kchivorn)
