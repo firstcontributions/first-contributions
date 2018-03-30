@@ -282,7 +282,7 @@ const projectList = [
   },
   {
     name:'MissionControl',
-    imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
+    imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/mission_control.gif',
     githubLink: 'https://github.com/DAVFoundation/missioncontrol',
     description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
     tags: ['Javascript','Docker','Thrift','Good First Issue']
