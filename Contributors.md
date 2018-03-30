@@ -3101,3 +3101,4 @@
 - [iamaninja](https://github.com/iamaninja)
 - [Ankit Anvesh](https://github.com/Ankitanvesh)
 - [Simphiwe Zondi](https://github.com/SimzoAKA)
+- [Mohamed Niyaz](https://github.com/Niyaz2498)
