@@ -3101,8 +3101,9 @@
 - [iamaninja](https://github.com/iamaninja)
 - [Ankit Anvesh](https://github.com/Ankitanvesh)
 - [Simphiwe Zondi](https://github.com/SimzoAKA)
-- [Pradeep Bhosale](https://github.com/pbhosale87)
-- [mihcael](https://github.com/mihcael)
+- [Yiran Cao](https://github.com/wanderlustyc)
+- [Raj Kumar](https://github.com/rajcrk)
+- [Kathy Wu](https://github.com/fluffytree)
 - [Mohammad Hosseini](https://github.com/mohammadh73)
 - ...My try...
 - [Srishti Yadav](https://github.com/copperwiring)
