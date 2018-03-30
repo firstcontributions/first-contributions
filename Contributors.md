@@ -3114,3 +3114,6 @@
 - [Ankit Dwivedi](https://github.com/ankit-kumar-dwivedi)
 - [Michal Pietruszka](https://github.com/pietruh)
 - [Sachin kumar](https://github.com/sachinKumarGautam)
+- [Colin Hughes](https://github.com/colinhughes98)
+- [Ahmad Masabni](https://github.com/Ahmad94Masabni)
+- [Jaskirat Singh](https://github.com/jaskiratsingh-98)
