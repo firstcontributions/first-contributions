@@ -3126,3 +3126,4 @@
 - [Gavin Kerrigan](httpsL//github.com/gavinkerrigan)
 - [Manos Kasimatis](https://github.com/manosKas)
 - [Da Vinxi](https://github.com/johndoe)
+- [Karen Jamalyan](https://github.com/jamkar)
