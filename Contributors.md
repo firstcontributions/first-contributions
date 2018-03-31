@@ -3122,3 +3122,4 @@
 - [Chivorn Kouch](https://github.com/kchivorn)
 - [Firat Tale](https://github.com/firattale)
 - [Gavin Kerrigan](httpsL//github.com/gavinkerrigan)
+- [Manos Kasimatis](https://github.com/manosKas)
