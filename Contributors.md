@@ -3129,3 +3129,5 @@
 - [Da Vinxi](https://github.com/johndoe)
 - [Karen Jamalyan](https://github.com/jamkar)
 - [Yohan-Bejannin](https://github.com/eckmoule)
+- [Seachellemz](https://github.com/seachellemz)
+- [Laís Figueiredo](https://github.com/lsfgrd)
