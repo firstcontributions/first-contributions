@@ -1,4 +1,4 @@
-﻿- [Lian Thompson](https://github.com/lianthompson)
+- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -3138,3 +3138,4 @@
 - [Seachellemz](https://github.com/seachellemz)
 - [Laís Figueiredo](https://github.com/lsfgrd)
 - [Jared Gross](https://github.com/jgross979)
+- [Laura Trager](https://github.com/ElleeB)
