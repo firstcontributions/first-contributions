@@ -3128,6 +3128,7 @@
 - [Manos Kasimatis](https://github.com/manosKas)
 - [Da Vinxi](https://github.com/johndoe)
 - [Karen Jamalyan](https://github.com/jamkar)
+- [Prathusha Naidu](https://github.com/prathusha94)
 - [Sai](https://github.com/nsaicharan)
 - [Domenic Zingsheim](https://github.com/DerAndereDomenic)
 - [Yohan-Bejannin](https://github.com/eckmoule)
