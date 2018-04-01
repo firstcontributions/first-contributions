@@ -3128,7 +3128,7 @@
 - [Manos Kasimatis](https://github.com/manosKas)
 - [Da Vinxi](https://github.com/johndoe)
 - [Karen Jamalyan](https://github.com/jamkar)
-- [Brenton Lin](https://github.com/notnerb)
+- [Kush Misra](https://github.com/kushmisra)
 - [Meisuleen Kased](https://github.com/meikay)
 - [schiluka](https://github.com/schiluka)
 - [Prathusha Naidu](https://github.com/prathusha94)
