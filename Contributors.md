@@ -3138,3 +3138,4 @@
 - [Seachellemz](https://github.com/seachellemz)
 - [Laís Figueiredo](https://github.com/lsfgrd)
 - [Jared Gross](https://github.com/jgross979)
+- [Jim Beggs](https://github.com/azathothcult)
