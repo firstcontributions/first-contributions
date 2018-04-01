@@ -3129,4 +3129,11 @@
 - [Da Vinxi](https://github.com/johndoe)
 - [Karen Jamalyan](https://github.com/jamkar)
 - [Brenton Lin](https://github.com/notnerb)
-
+- [Meisuleen Kased](https://github.com/meikay)
+- [schiluka](https://github.com/schiluka)
+- [Prathusha Naidu](https://github.com/prathusha94)
+- [Sai](https://github.com/nsaicharan)
+- [Domenic Zingsheim](https://github.com/DerAndereDomenic)
+- [Yohan-Bejannin](https://github.com/eckmoule)
+- [Seachellemz](https://github.com/seachellemz)
+- [Laís Figueiredo](https://github.com/lsfgrd)
