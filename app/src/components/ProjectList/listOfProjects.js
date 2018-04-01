@@ -301,5 +301,12 @@ const projectList = [
     description:'A generic JSON document store with sharing and synchronisation capabilities.',
     tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
   },
+  {
+    name: 'OpenGenus',
+    imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
+    githubLink: 'https://github.com/OpenGenus',
+    description: 'A positive open-source community working to bring essential programming knowledge offline.',
+    tags: ['C++','Python','Java','Good First Issue']
+  },
 ];
 export default projectList;
