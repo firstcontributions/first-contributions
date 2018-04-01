@@ -3137,3 +3137,4 @@
 - [Yohan-Bejannin](https://github.com/eckmoule)
 - [Seachellemz](https://github.com/seachellemz)
 - [Laís Figueiredo](https://github.com/lsfgrd)
+- [Jared Gross](https://github.com/jgross979)
