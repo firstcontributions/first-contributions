@@ -1,4 +1,4 @@
-- [Lian Thompson](https://github.com/lianthompson)
+﻿- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -3154,4 +3154,5 @@
 - [John Morrison](https://github.com/jslmorrison)
 - [Jack Tyrer](https://github.com/jtyrer)
 - [Cyril Khan](https://github.com/khanlifts)
+- [Dana Detwiler](https://github.com/goodguns)
 - [DS Nutter](https://github.com/dsnutter)
