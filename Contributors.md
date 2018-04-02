@@ -3147,6 +3147,7 @@
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
 - [Dakota Sexton](https://github.com/tinykite)
+- [Guilherme Wachs](https://github.com/lopespt)
 - [Fabien Malbois](https://github.com/rrreeezzz)
 - [Shashi Jangra](https://github.com/shashijangra22)
 - [Yashpal sharma](https://github.com/yashpal17)
