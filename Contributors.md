@@ -3139,3 +3139,5 @@
 - [Laís Figueiredo](https://github.com/lsfgrd)
 - [Jared Gross](https://github.com/jgross979)
 - [Jim Beggs](https://github.com/azathothcult)
+- [nos65](https://github.com/nos65)
+- [Dakota Sexton](https://github.com/tinykite)
