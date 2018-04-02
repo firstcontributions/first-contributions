@@ -3152,4 +3152,5 @@
 - [Shashi Jangra](https://github.com/shashijangra22)
 - [Yashpal sharma](https://github.com/yashpal17)
 - [John Morrison](https://github.com/jslmorrison)
+- [Jack Tyrer](https://github.com/jtyrer)
 - [Cyril Khan](https://github.com/khanlifts)
