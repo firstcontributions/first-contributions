@@ -3157,3 +3157,4 @@
 - [Dana Detwiler](https://github.com/goodguns)
 - [DS Nutter](https://github.com/dsnutter)
 - [Nassim Daoud](https://github.com/Nasdav)
+- [Connor Lamon](https://github.com/conlamon)
