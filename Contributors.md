@@ -3159,3 +3159,4 @@
 - [Nassim Daoud](https://github.com/Nasdav)
 - [Tristan Spakes](https://github.com/tspakes)
 - [Özge Engin](https://github.com/ozgeengin)
+- [Cristian Cuda](https://github.com/cristiancuda)
