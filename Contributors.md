@@ -3138,6 +3138,7 @@
 - [Seachellemz](https://github.com/seachellemz)
 - [Laís Figueiredo](https://github.com/lsfgrd)
 - [Jared Gross](https://github.com/jgross979)
+- [Ankit Pandey](https://github.com/mark-ankit)
 - [Joseph Calhoun](https://github.com/joeycalhoun)
 - [Samuel Bowman](https://github.com/samuelpbowman)
 - [lineofbestgit](https://github.com/lineofbestgit)
@@ -3145,3 +3146,4 @@
 - [nos65](https://github.com/nos65)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
+- [Dakota Sexton](https://github.com/tinykite)
