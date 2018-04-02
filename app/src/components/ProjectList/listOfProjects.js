@@ -282,7 +282,7 @@ const projectList = [
   },
   {
     name:'MissionControl',
-    imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/mission_control.gif',
+    imageSrc:'https://i.imgur.com/nSRLFas.gif',
     githubLink: 'https://github.com/DAVFoundation/missioncontrol',
     description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
     tags: ['Javascript','Docker','Thrift','Good First Issue']
@@ -307,7 +307,14 @@ const projectList = [
     githubLink:
        'https://github.com/atom/atom',
     description:'A customizable text editor built on electron',
-    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']  
+    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']
+  },
+  {
+    name: 'OpenGenus',
+    imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
+    githubLink: 'https://github.com/OpenGenus',
+    description: 'A positive open-source community working to bring essential programming knowledge offline.',
+    tags: ['C++','Python','Java','Good First Issue']
   },
 ];
 export default projectList;
