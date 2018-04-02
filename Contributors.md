@@ -3157,6 +3157,7 @@
 - [Dana Detwiler](https://github.com/goodguns)
 - [DS Nutter](https://github.com/dsnutter)
 - [Nassim Daoud](https://github.com/Nasdav)
+- [Connor Lamon](https://github.com/conlamon)
 - [Tristan Spakes](https://github.com/tspakes)
 - [Özge Engin](https://github.com/ozgeengin)
 - [Cristian Cuda](https://github.com/cristiancuda)
