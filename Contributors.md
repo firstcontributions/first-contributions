@@ -3148,5 +3148,7 @@
 - [Aleisha Sebastian](https://github.com/aleisha116)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Guilherme Wachs](https://github.com/lopespt)
-- [John Morrison](https://github.com/jslmorrison)
+- [Fabien Malbois](https://github.com/rrreeezzz)
+- [Shashi Jangra](https://github.com/shashijangra22)
 - [Yashpal sharma](https://github.com/yashpal17)
+- [John Morrison](https://github.com/jslmorrison)
