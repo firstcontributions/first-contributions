@@ -301,6 +301,14 @@ const projectList = [
     description:'A generic JSON document store with sharing and synchronisation capabilities.',
     tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
   },
+  {  
+    name:'atom',
+    imageSrc:'https://commons.wikimedia.org/wiki/File:Atom_1.0_icon.png',
+    githubLink:
+       'https://github.com/atom/atom',
+    description:'A customizable text editor built on electron',
+    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']
+  },
   {
     name: 'OpenGenus',
     imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
