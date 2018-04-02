@@ -3147,3 +3147,4 @@
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
 - [Dakota Sexton](https://github.com/tinykite)
+- [Fabien Malbois](https://github.com/rrreeezzz)
