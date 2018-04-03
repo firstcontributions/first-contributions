@@ -3182,3 +3182,4 @@
 - [MaliciousWyvern (Ryan Armstrong)](https://github.com/MaliciousWyvern)
 - [Jorge Rodriguez](https://github.com/jorgeivvn)
 - [Tuguldur Bayarnyam](https://github.com/tuguscript)
+- [discimus-scientia](https://github.com/discimus-scientia)
