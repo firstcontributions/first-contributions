@@ -3163,3 +3163,5 @@
 - [Cristian Cuda](https://github.com/cristiancuda)
 - [J. Hernandez](https://github.com/Sereton)
 - [Laurie Gloge](https://github.com/TazzyG)
+- [Will G.](https://github.com/will-gebbie)
+- [Kalyan Sripathi](https://github.com/spkalyan1520)
