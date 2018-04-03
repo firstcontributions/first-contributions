@@ -3170,3 +3170,4 @@
 - [Emir Amanbekov](https://github.com/Eamanbekov)
 - [Ajay Jedhe](https://github.com/ajay1011)
 - [Vivian Wu](https://github.com/vywu)
+- [Giovanni HoSang](https://github.com/realgio95)
