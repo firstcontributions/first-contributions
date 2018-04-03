@@ -3179,3 +3179,4 @@
 - [Utkarsh Mishra](https://github.com/ulshell)
 - [Zadjad R.](https://github.com/zjk758)
 - [Charles Oma](https://github.com/charlesoma)
+- [MaliciousWyvern (Ryan Armstrong)](https://github.com/MaliciousWyvern)
