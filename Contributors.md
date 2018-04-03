@@ -1,4 +1,4 @@
-﻿- [Lian Thompson](https://github.com/lianthompson)
+- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -3163,3 +3163,4 @@
 - [Cristian Cuda](https://github.com/cristiancuda)
 - [J. Hernandez](https://github.com/Sereton)
 - [Will G.](https://github.com/will-gebbie)
+- [Willy Lee](https://github.com/willylee007)
