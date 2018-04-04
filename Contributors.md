@@ -3197,3 +3197,4 @@
 - [Sonny Pham](https://github.com/sonnytag123)
 - [d0ubs](https://github.com/d0ubs)
 - [khalil choudhry](https://github.com/khalilchoudhry)
+- [Nicholas-Halvorsen](https://github.com/nickrhalvorsen)
