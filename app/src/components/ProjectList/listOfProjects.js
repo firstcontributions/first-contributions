@@ -303,7 +303,7 @@ const projectList = [
   },
   {  
     name:'atom',
-    imageSrc:'https://commons.wikimedia.org/wiki/File:Atom_1.0_icon.png',
+    imageSrc:'https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png',
     githubLink:
        'https://github.com/atom/atom',
     description:'A customizable text editor built on electron',
