@@ -3193,3 +3193,4 @@
 - [Jakub Sosnovec](https://github.com/EpicDeas)
 - [Karthick Sahadevan](https://github.com/karthick121)
 - [Eli Eliyahu](https://github.com/the-profi)
+- [Nick Mistretta](https://github.com/nickmistretta9)
