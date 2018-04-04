@@ -3185,3 +3185,4 @@
 - [discimus-scientia](https://github.com/discimus-scientia)
 - [Jacob Byers](https://github.com/byebyers)
 - [Abhinav Verma](https://github.com/blagawuga)
+- [Don Zaragoza](https://github.com/cheramor)
