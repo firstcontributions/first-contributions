@@ -3197,4 +3197,4 @@
 - [Sonny Pham](https://github.com/sonnytag123)
 - [d0ubs](https://github.com/d0ubs)
 - [khalil choudhry](https://github.com/khalilchoudhry)
-- [Felix Zhang](https://github.com/Hogwarts250)
+- [Nicholas-Halvorsen](https://github.com/nickrhalvorsen)
