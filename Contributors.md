@@ -1,4 +1,4 @@
-﻿- [Lian Thompson](https://github.com/lianthompson)
+- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -3197,3 +3197,4 @@
 - [Sonny Pham](https://github.com/sonnytag123)
 - [d0ubs](https://github.com/d0ubs)
 - [khalil choudhry](https://github.com/khalilchoudhry)
+- [Felix Zhang](https://github.com/Hogwarts250)
