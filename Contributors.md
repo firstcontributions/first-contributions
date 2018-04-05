@@ -1,4 +1,5 @@
-﻿- [Lian Thompson](https://github.com/lianthompson)
+- [Zain Khan](https://github.com/gimpster05)
+- [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
@@ -1921,6 +1922,7 @@
 - [Shane Haggerty](https://github.com/smhaggerty)
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
 - [Gabriele Sani](https://github.com/gabryatfendor)
+- [Mohd Talha](https://github.com/mdtalham)
 - Vurp
 - [n00bady](https://github.com/n00bady)
 - [Mujadded](https://github.com/mujadded)
@@ -3194,6 +3196,7 @@
 - [Karthick Sahadevan](https://github.com/karthick121)
 - [Eli Eliyahu](https://github.com/the-profi)
 - [Nick Mistretta](https://github.com/nickmistretta9)
+- [Michael Emmons](https://github.com/memmo01)
 - [Sonny Pham](https://github.com/sonnytag123)
 - [d0ubs](https://github.com/d0ubs)
 - [khalil choudhry](https://github.com/khalilchoudhry)
@@ -3202,3 +3205,5 @@
 - [TJ Park](https://github.com/tginx)
 - [Emma Robbins](https://github.com/smartsupial)
 - [Shivprasad Sagare](https://github.com/shivprasadsagare)
+- [Kusado](https://github.com/Kusado)
+- [SimonFjee](https://github.com/SimonFjee)
