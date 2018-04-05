@@ -1921,6 +1921,7 @@
 - [Shane Haggerty](https://github.com/smhaggerty)
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
 - [Gabriele Sani](https://github.com/gabryatfendor)
+- [Mohd Talha](https://github.com/mdtalham)
 - Vurp
 - [n00bady](https://github.com/n00bady)
 - [Mujadded](https://github.com/mujadded)
