@@ -3,6 +3,7 @@
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
+- [Alp Deveci](https://github.com/iceveda06)
 - [Thomas Lim](https://github.com/TrottPilgrim)
 - [Praveen Krishnan](https://github.com/praveenkrishnan81)
 - [Jonathan Cooper](https://github.com/jon23cooper)
