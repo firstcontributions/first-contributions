@@ -1,4 +1,4 @@
-- [Zain Khan](https://github.com/gimpster05)
+﻿- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3206,3 +3206,4 @@
 - [Emma Robbins](https://github.com/smartsupial)
 - [Kusado](https://github.com/Kusado)
 - [SimonFjee](https://github.com/SimonFjee)
+- [Patrik Hermansson](https://github.com/bphermansson)
