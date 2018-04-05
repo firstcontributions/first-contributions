@@ -3206,5 +3206,6 @@
 - [Emma Robbins](https://github.com/smartsupial)
 - [Shivprasad Sagare](https://github.com/shivprasadsagare)
 - [Kusado](https://github.com/Kusado)
-- [Chanukya](https://github.com/chanu0459)
 - [SimonFjee](https://github.com/SimonFjee)
+- [Patrik Hermansson](https://github.com/bphermansson)
+- [Chanukya](https://github.com/chanu0459)
