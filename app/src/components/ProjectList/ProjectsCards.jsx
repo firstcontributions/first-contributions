@@ -4,8 +4,8 @@ import './ProjectsCards.css';
 export default class Card extends React.Component {
   render() {
     let tags = [];
-    if (this.props.tag){
-        tags = this.props.tag.map(tag => <div><p>{tag}</p></div>)
+    if (this.props.tags){
+        tags = this.props.tags.map((tag, key) => <div key={key}><p>{tag}</p></div>)
     }
 
     return (

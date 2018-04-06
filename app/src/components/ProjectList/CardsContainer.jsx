@@ -15,9 +15,11 @@ export default class CardsContainer extends React.Component {
     this.setTags = new Set();
     this.filterOptions = [];
     for (let i = 0; i < projectList.length; i++) {
-      if (projectList[i].tag) {
-        projectList[i].tag.forEach(tag => {
+      if (projectList[i].tags) {
+        projectList[i].tags.forEach(tag => {
+          projectList[i].tags.sort()
           this.setTags.add(tag)
+          this.setTags.add(tag.toLowerCase())
         })
       }
     }
@@ -29,14 +31,19 @@ export default class CardsContainer extends React.Component {
     this.handleFilterListUpdate(value);
   }
   handleFilterListUpdate(value) {
-    if (value.length === 0) return this.setState({ filterList: projectList });
+    if (value.length === 0) {
+      return this.setState({ filterList: projectList });
+    }
     let valueList = [];
     let updatedList = [];
 
-    value.map(v => { valueList.push(v.value) });
+    value.map(v => { 
+      return valueList.push(v.value) 
+    });
     projectList.map(project => {
-      if (!project.tag) return;
-      if (valueList.every(v => project.tag.includes(v))) {
+      if (!project.tags) return;
+      let lowerCaseTags = project.tags.map(v => v.toLowerCase())
+      if (valueList.every(v => lowerCaseTags.includes(v))) {
         updatedList.push(project);
       }
     })
@@ -52,7 +59,7 @@ export default class CardsContainer extends React.Component {
           options={this.filterOptions}
           multi={true}
         />
-        <section id='project-list' className='Container-layout'> 
+        <section id='project-list' className='Container-layout'>
           { this.state.filterList.map((item, key) => {
             return (
               <Card
@@ -61,7 +68,7 @@ export default class CardsContainer extends React.Component {
                 logoLink={item.imageSrc}
                 githubLink={item.githubLink}
                 description={item.description}
-                tag={item.tag}
+                tags={item.tags}
               />
             );
           })}
