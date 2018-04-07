@@ -3234,5 +3234,6 @@
 - [Ernesto Chaves](https://github.com/ernestochaves)
 - [Edit B.](https://github.com/EditB)
 - [Brian Judaprawira](https://github.com/brianjuda)
+- [Divya Rose Raju](https://github.com/ROZZ01)
 - [Cristian-perez](https://github.com/snaket2003)
 - [Geoff-Sher](https://github.com/TheSnuggle)
