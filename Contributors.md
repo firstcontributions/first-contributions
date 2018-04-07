@@ -3246,3 +3246,4 @@
 - [Curtis Mac](https://github.com/CurtisMac)
 - [Phil Shaheen](https://github.com/pshaheen)
 - [Jitesh Golatkar](https://github.com/jgolatkar)
+- [Cristian Garcia](https://github.com/2940cristian)
