@@ -1,4 +1,4 @@
-- [Zain Khan](https://github.com/gimpster05)
+﻿- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3236,4 +3236,5 @@
 - [Brian Judaprawira](https://github.com/brianjuda)
 - [Divya Rose Raju](https://github.com/ROZZ01)
 - [Cristian-perez](https://github.com/snaket2003)
+- [Anju Karanji](https://github.com/anjukaranji)
 - [Geoff-Sher](https://github.com/TheSnuggle)
