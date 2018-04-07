@@ -1,4 +1,4 @@
-- [Zain Khan](https://github.com/gimpster05)
+﻿- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3224,6 +3224,7 @@
 - [Mario Orlando](https://github.com/marioorlando)
 - [Cristhian Polania](https://github.com/polaniavera)
 - [Craig Rautenbach](https://github.com/craig8two)
+- [Aleksei Ivanov](https://github.com/fktrctqbdfyjd)
 - [John Doe](https://github.com/johnDoe)
 - [Saif Ahmed](https://github.com/saif-ahmed)
 - [Gun Gun Priatna](https://github.com/doublegunz)
@@ -3233,6 +3234,9 @@
 - [Ernesto Chaves](https://github.com/ernestochaves)
 - [Edit B.](https://github.com/EditB)
 - [Brian Judaprawira](https://github.com/brianjuda)
+- [Divya Rose Raju](https://github.com/ROZZ01)
 - [Cristian-perez](https://github.com/snaket2003)
 - [Geoff-Sher](https://github.com/TheSnuggle)
 - [Palash Jhamnani](https://github.com/palashjhamnani)
+- [Anju Karanji](https://github.com/anjukaranji)
+
