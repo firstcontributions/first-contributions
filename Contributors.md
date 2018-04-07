@@ -3243,3 +3243,4 @@
 - [Ilya Moskovkin](https://github.com/TargiX)
 - [arun gajora](http://github.com/arungajora)
 - [Reinards](https://github.com/Reinards)
+- [Curtis Mac](https://github.com/CurtisMac)
