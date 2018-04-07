@@ -3231,3 +3231,4 @@
 -[Praveen Jindal](https://github.com/praveenjindal25)
 - [Steve Chin](https://gitbud.com/sbchin)
 - [Ernesto Chaves](https://github.com/ernestochaves)
+- [Edit B.](https://github.com/EditB)
