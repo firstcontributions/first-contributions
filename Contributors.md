@@ -3247,6 +3247,7 @@
 - [Phil Shaheen](https://github.com/pshaheen)
 - [Jitesh Golatkar](https://github.com/jgolatkar)
 - [Cristian Garcia](https://github.com/2940cristian)
+- [Kubra Ayvaz](https://github.com/kubraayvaz)
 - [Felipe Lopes](https://github.com/felipelopess)
 - [Chrsitian Pardillo Laursen](https://github.com/theshutupman)
 - [Blake Mullinax](https://github.com/chaningblake)
