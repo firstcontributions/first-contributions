@@ -3249,3 +3249,4 @@
 - [Cristian Garcia](https://github.com/2940cristian)
 - [Felipe Lopes](https://github.com/felipelopess)
 - [Chrsitian Pardillo Laursen](https://github.com/theshutupman)
+- [Blake Mullinax](https://github.com/chaningblake)
