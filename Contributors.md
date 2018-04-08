@@ -47,6 +47,7 @@
 - Shweta
 - Saraansh
 - comso1
+- [Kyle Thomas](https://github.com/its-kyle-yo)
 - [Santosh Bhulun](https://github.com/San-tosh)
 - [Ivan Vera](https://github.com/Ivanjosevera)
 - [Vamsi Gandra](https://github.com/VamsiGandra)
@@ -3251,5 +3252,6 @@
 - [Felipe Lopes](https://github.com/felipelopess)
 - [Chrsitian Pardillo Laursen](https://github.com/theshutupman)
 - [Blake Mullinax](https://github.com/chaningblake)
-- [Alexandre Beaudet](https://github.com/redowl0v0) 
+- [Alexandre Beaudet](https://github.com/redowl0v0)
 - [Sachin Wakle](https://github.com/sachinwakle)
+- [arabgb] (https://github.com/arabgb)
