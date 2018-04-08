@@ -3255,3 +3255,4 @@
 - [Alexandre Beaudet](https://github.com/redowl0v0)
 - [Sachin Wakle](https://github.com/sachinwakle)
 - [arabgb] (https://github.com/arabgb)
+- [Pietro Maggi](https://github.com/pfmaggi)
