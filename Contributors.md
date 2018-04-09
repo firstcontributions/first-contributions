@@ -3256,3 +3256,4 @@
 - [Sachin Wakle](https://github.com/sachinwakle)
 - [arabgb] (https://github.com/arabgb)
 - [Manmeet singh](https://github.com/1singhmanmeet)
+- [Anthony Dellechiaie](https://github.com/anthonydelle)
