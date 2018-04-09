@@ -3258,3 +3258,4 @@
 - [Manmeet singh](https://github.com/1singhmanmeet)
 - [Anthony Dellechiaie](https://github.com/anthonydelle)
 - [Annalyn Sarmiento](https://github.com/annalyncs)
+- [Pietro F. Maggi](https://github.com/pfmaggi)
