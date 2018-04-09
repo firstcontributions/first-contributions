@@ -3262,3 +3262,5 @@
 - [Pietro F. Maggi](https://github.com/pfmaggi)
 - [Swati Rajwal](https://github.com/semicolon123)
 - [Anthi Iliopoulou](https://github.com/ailiolmous)
+- [Amit Kumar] (https://github.com/amit-sgwn/)
+
