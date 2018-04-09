@@ -3252,6 +3252,7 @@
 - [Felipe Lopes](https://github.com/felipelopess)
 - [Chrsitian Pardillo Laursen](https://github.com/theshutupman)
 - [Blake Mullinax](https://github.com/chaningblake)
+- [Lefteris Moussiades](https:/github.com/lmous)
 - [Alexandre Beaudet](https://github.com/redowl0v0)
 - [Sachin Wakle](https://github.com/sachinwakle)
 - [arabgb] (https://github.com/arabgb)
