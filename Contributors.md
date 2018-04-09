@@ -1,4 +1,4 @@
-- [Zain Khan](https://github.com/gimpster05)
+﻿- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3191,6 +3191,7 @@
 - [Jacob Byers](https://github.com/byebyers)
 - [Abhinav Verma](https://github.com/blagawuga)
 - [Don Zaragoza](https://github.com/cheramor)
+- [Sachan55](https://github.com/Sachan55)
 - [Eric Gumba](https://github.com/okmanl)
 - [Uthpala Herath](https://github.com/uthpalah)
 - [Austin Richardson](https://github.com/richardson3535)
@@ -3263,4 +3264,4 @@
 - [Swati Rajwal](https://github.com/semicolon123)
 - [Anthi Iliopoulou](https://github.com/ailiolmous)
 - [Amit Kumar] (https://github.com/amit-sgwn/)
-
+- [Dinesh Balachandran](https://github.com/dineshbalachandran)
