@@ -3265,3 +3265,4 @@
 - [Anthi Iliopoulou](https://github.com/ailiolmous)
 - [Amit Kumar] (https://github.com/amit-sgwn/)
 - [Dinesh Balachandran](https://github.com/dineshbalachandran)
+- [Thiago Hickmann](https://github.com/thiagoeh)
