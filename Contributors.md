@@ -3266,3 +3266,4 @@
 - [Amit Kumar] (https://github.com/amit-sgwn/)
 - [Dinesh Balachandran](https://github.com/dineshbalachandran)
 - [Thiago Hickmann](https://github.com/thiagoeh)
+- [Bjarne Henriquez](https://github.com/bhenriquez8)
