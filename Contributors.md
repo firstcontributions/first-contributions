@@ -1,4 +1,4 @@
-﻿- [Zain Khan](https://github.com/gimpster05)
+- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3273,3 +3273,7 @@
 - [Taylor Sebesta](https://github.com/TimBot92)
 - [Marc Tibbs](https://github.com/tibbsm)
 - [Gustav Byberg](https://github.com/gubyb)
+- [Dhrubo Hasan](https://github.com/dhrubo55)
+- [Michael Sullivan](https://github.com/gitChimp88)
+- [Dogukan Zengin](https://github.com/DogukanZengin)
+- [Andrei Mircea](https://github.com/andrei-mircea)
