@@ -3282,4 +3282,5 @@
 - [Andrei Mircea](https://github.com/andrei-mircea)
 - [Pavel Anni](https://github.com/pavelanni)
 - [Ryan Backa](https://github.com/RyanBacka)
+- [Derek Pickern](https://github.com/pick1)
 - [Homero Marin](https://github.com/homero304)
