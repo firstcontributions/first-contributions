@@ -3272,6 +3272,7 @@
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
 - [Taylor Sebesta](https://github.com/TimBot92)
 - [Marc Tibbs](https://github.com/tibbsm)
+- [Chak Tang](https://github.com/chak89)
 - [Gustav Byberg](https://github.com/gubyb)
 - [Dhrubo Hasan](https://github.com/dhrubo55)
 - [Michael Sullivan](https://github.com/gitChimp88)
