@@ -3271,3 +3271,4 @@
 - [Bjarne Henriquez](https://github.com/bhenriquez8)
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
 - [Taylor Sebesta](https://github.com/TimBot92)
+- [Gustav Byberg](https://github.com/gubyb)
