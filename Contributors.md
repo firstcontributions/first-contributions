@@ -1,4 +1,4 @@
-﻿- [Zain Khan](https://github.com/gimpster05)
+- [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
@@ -3272,3 +3272,4 @@
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
 - [Taylor Sebesta](https://github.com/TimBot92)
 - [Marc Tibbs](https://github.com/tibbsm)
+- [Michael Sullivan](https://github.com/gitChimp88)
