@@ -3268,3 +3268,4 @@
 - [Thiago Hickmann](https://github.com/thiagoeh)
 - [Bjarne Henriquez](https://github.com/bhenriquez8)
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
+- [Taylor Sebesta](https://github.com/TimBot92)
