@@ -3272,3 +3272,4 @@
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
 - [Taylor Sebesta](https://github.com/TimBot92)
 - [Marc Tibbs](https://github.com/tibbsm)
+- [Chak Tang](https://github.com/chak89)
