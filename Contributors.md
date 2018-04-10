@@ -3266,3 +3266,8 @@
 - [Amit Kumar] (https://github.com/amit-sgwn/)
 - [Dinesh Balachandran](https://github.com/dineshbalachandran)
 - [Cecilia Hwang](https://github.com/ceciliahwang)
+- [Abbi Jones](https://github.com/abbi1911)
+- [Thiago Hickmann](https://github.com/thiagoeh)
+- [Bjarne Henriquez](https://github.com/bhenriquez8)
+- [Matt Yashinsky](https://github.com/matt-yashinsky)
+- [Taylor Sebesta](https://github.com/TimBot92)
