@@ -3299,4 +3299,3 @@
 - [Nestor Cortes](https://github.com/nestor-c)
 - [Ryan Bassette](https://github.com/ryebass)
 - [Tim Teal](https://github.com/timteal)
-- [Akash Dobaria](https://github.com/akashdobaria)
