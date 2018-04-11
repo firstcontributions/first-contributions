@@ -3298,3 +3298,4 @@
 - [Solmaz Khosravi](https://github.com/solmazkh)
 - [Nestor Cortes](https://github.com/nestor-c)
 - [Ryan Bassette](https://github.com/ryebass)
+- [Lloyd Edwards](https://github.com/meanlamp)
