@@ -31,3 +31,5 @@ We have some rules for translation. If you make the first translation for your l
 
 
 Thanks! :heart:
+
+- [Darwin Boaventura](https://github.com/darwinboaventura)
