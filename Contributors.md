@@ -3286,3 +3286,6 @@
 - [Shanta Sukhoo](https://github.com/ShantaSukhoo)
 - [Prince Verma](https://github.com/verma-o)
 - [staysee](https://github.com/staysee)
+- [Gabriel Lechenco](https://github.com/lechenco)
+- [Gabriel Dain](https://github.com/gabrieldain)
+- [Nikhil Bhatewara](https://github.com/nikhilbhatewara)
