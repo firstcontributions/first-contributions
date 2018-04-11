@@ -1,4 +1,4 @@
-﻿- [SamuelHBrojack](https://github.com/SamuelHBrojack)
+- [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
@@ -3298,3 +3298,4 @@
 - [Solmaz Khosravi](https://github.com/solmazkh)
 - [Nestor Cortes](https://github.com/nestor-c)
 - [Ryan Bassette](https://github.com/ryebass)
+- [Tim Teal](https://github.com/timteal)
