@@ -3310,4 +3310,5 @@
 - [Ahsan Ahmad](https://github.com/AhsanIO)
 - [Anchit Dave](https://github.com/anchitDave)
 - [Valvolt Nova](https://github.com/ValvoltNova)
+- [Janifa Nowfal](https://github.com/JanifaMNowfal)
 - [Petr Galko](https://github.com/petr3460)
