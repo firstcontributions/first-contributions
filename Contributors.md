@@ -3313,3 +3313,4 @@
 - [Janifa Nowfal](https://github.com/JanifaMNowfal)
 - [Petr Galko](https://github.com/petr3460)
 - [Gabriel Barbosa](https://github.com/laturine)
+- [Ryan Powers](https://github.com/rynpowers)
