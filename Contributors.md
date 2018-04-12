@@ -3298,6 +3298,7 @@
 - [Solmaz Khosravi](https://github.com/solmazkh)
 - [Nestor Cortes](https://github.com/nestor-c)
 - [Ryan Bassette](https://github.com/ryebass)
+- [Josh Burton](https://github.com/jburton8686)
 - [Tim Teal](https://github.com/timteal)
 - [Akash Dobaria](https://github.com/akashdobaria)
 - [Matt Strickland](https://github.com/mstrick7)
