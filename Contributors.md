@@ -3312,3 +3312,4 @@
 - [Valvolt Nova](https://github.com/ValvoltNova)
 - [Janifa Nowfal](https://github.com/JanifaMNowfal)
 - [Petr Galko](https://github.com/petr3460)
+- [Gabriel Barbosa](https://github.com/laturine)
