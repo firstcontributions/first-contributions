@@ -3323,3 +3323,4 @@
 - [Oscar Ng](https://github.com/oscar2d2)
 - [Elisheva](https://github.com/elishevaelbaz)
 - [J Marshall](https://github.com/jmarshall120)
+- [Katie Schmidt](https://github.com/KatieSchmidt)
