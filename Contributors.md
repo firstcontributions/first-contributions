@@ -1,4 +1,4 @@
-﻿- [SamuelHBrojack](https://github.com/SamuelHBrojack)
+- [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
@@ -3324,3 +3324,4 @@
 - [Elisheva](https://github.com/elishevaelbaz)
 - [J Marshall](https://github.com/jmarshall120)
 - [Katie Schmidt](https://github.com/KatieSchmidt)
+– [Jan Shé](https://github.com/guiKailu)
