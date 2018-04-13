@@ -3308,6 +3308,7 @@
 - [Elijah Bocz](https://gituhb.com/elijahboats)
 - [Murray Hopkins](https://github.com/flowt-au)
 - [Ahsan Ahmad](https://github.com/AhsanIO)
+- [Michael Smith](https://github.com/jsm2199)
 - [Anchit Dave](https://github.com/anchitDave)
 - [Valvolt Nova](https://github.com/ValvoltNova)
 - [Janifa Nowfal](https://github.com/JanifaMNowfal)
