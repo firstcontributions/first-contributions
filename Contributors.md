@@ -3318,3 +3318,4 @@
 - [Marc L](https://github.com/ShadowM0nkey)
 - [Korey K](https://github.com/KoreyKrauskopf)
 - [Enrico G](https://github.com/euskalhenriko)
+- [Curly Brace](https://github.com/curly-brace)
