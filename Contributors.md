@@ -1,4 +1,4 @@
-- [SamuelHBrojack](https://github.com/SamuelHBrojack)
+﻿- [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
@@ -3316,3 +3316,4 @@
 - [Gabriel Barbosa](https://github.com/laturine)
 - [Ryan Powers](https://github.com/rynpowers)
 - [Marc L](https://github.com/ShadowM0nkey)
+- [Korey K](https://github.com/KoreyKrauskopf)
