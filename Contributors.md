@@ -3319,3 +3319,4 @@
 - [Korey K](https://github.com/KoreyKrauskopf)
 - [Enrico G](https://github.com/euskalhenriko)
 - [Curly Brace](https://github.com/curly-brace)
+- [Curly Brace again, using gitkraken, same local repo and rebase stuff](https://github.com/curly-brace)
