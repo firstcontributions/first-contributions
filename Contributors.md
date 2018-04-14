@@ -1,3 +1,4 @@
+- [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
