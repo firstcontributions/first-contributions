@@ -23,10 +23,15 @@
     height: 100%;
     min-width: 225px;
     display: block;
-    margin: 1.5%;
+    margin: 1.5vw;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
     -webkit-transition: box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
+}
+@media (max-width: 700px){
+    .Card-Container{
+        width: 100%;
+    }
 }
 
 .Card-Container:hover{
@@ -56,12 +61,25 @@
     position: relative;
     padding:10px;
     color:#0F3CEF;
-} 
+}
 .Card-Title{
     margin-top: 6%;
     height: 10%;
 }
 .Card-Link-Style{
     margin-left: 10%;
-    
+
+}
+
+.Card-Tag div {
+    display: inline-block;
+    background-color: #C8E1F9;
+    width: 40%;
+    border-radius: 12px;
+    margin: 10px 10px;
+    vertical-align: middle;
+}
+
+.Card-Tag p {
+    margin: 3px 0;
 }

@@ -3,6 +3,11 @@ import './ProjectsCards.css';
 
 export default class Card extends React.Component {
   render() {
+    let tags = [];
+    if (this.props.tags){
+        tags = this.props.tags.map((tag, key) => <div key={key}><p>{tag}</p></div>)
+    }
+
     return (
       <div className="Card-Container">
         <a  className="Card-Real-Link" href={this.props.githubLink}>
@@ -13,6 +18,9 @@ export default class Card extends React.Component {
             <h3 className="Card-Title">{ this.props.name }</h3>
           </div>
           <div className="Card-Body">
+            <div className="Card-Tag">
+                {tags}
+            </div>
             <div className="Card-Description">
               <p> { this.props.description }</p>
             </div>

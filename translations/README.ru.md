@@ -122,7 +122,7 @@ git push origin master
 ```
 git branch -d <add-your-name>
 ```
-Так-же можете удалить ее версию в удаленном репозитории:
+Так же можете удалить ее версию в удаленном репозитории:
 ```
 git push origin --delete <add-your-name>
 ```
@@ -130,12 +130,12 @@ git push origin --delete <add-your-name>
 
 ## Использование других инструментов
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 
-## Что далее?
+## Что дальше?
 
 Ниже несколько популярных репозиториев, где вы можете найти задания для новичков. Вперед, перейдите в репозитории, чтобы узнать больше.
 
