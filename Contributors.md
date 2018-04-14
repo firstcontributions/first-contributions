@@ -3327,3 +3327,5 @@
 – [Jan Shé](https://github.com/guiKailu)
 - [B Souty](https://github.com/B-Souty)
 - [Karan Mirani](https://github.com/miranikaran01)
+- [Marcus C](https//github.com/marcus290)
+- [Subham Singhal](https://github.com/SubhamSinghal)
