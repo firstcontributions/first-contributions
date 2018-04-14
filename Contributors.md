@@ -3323,6 +3323,7 @@
 - [Curly Brace](https://github.com/curly-brace)
 - [Curly Brace again, using gitkraken, same local repo and rebase stuff](https://github.com/curly-brace)
 - [Oscar Ng](https://github.com/oscar2d2)
+- [hsl](https://github.com/cldssty)
 - [Elisheva](https://github.com/elishevaelbaz)
 - [J Marshall](https://github.com/jmarshall120)
 - [Katie Schmidt](https://github.com/KatieSchmidt)
