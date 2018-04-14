@@ -1,3 +1,4 @@
+- [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
@@ -3336,3 +3337,6 @@
 - [Arit Amana](https://github.com/msarit)
 - [Anubhav Gupta](https://github.com/gupta1anubhav)
 - [Asif Khan](https://github.com/asif10388)
+- [Joseph Bradshaw](https://github.com/MojoJojo86)
+- [Johnathan Ortiz-Sonnen](https://github.com/johnathandos)
+- [Jonikiro](https://github.com/Jonikiro)
