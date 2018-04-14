@@ -1,4 +1,5 @@
-﻿- [SamuelHBrojack](https://github.com/SamuelHBrojack)
+﻿- [Aimee Fenech](https://github.com/aimeejulia)
+- [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
