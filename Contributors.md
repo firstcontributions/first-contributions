@@ -3331,5 +3331,7 @@
 - [B Souty](https://github.com/B-Souty)
 - [Karan Mirani](https://github.com/miranikaran01)
 - [Marcus C](https//github.com/marcus290)
+- [Maximiliano Estudies](https://github.com/maxiestudies)
 - [Subham Singhal](https://github.com/SubhamSinghal)
 - [Arit Amana](https://github.com/msarit)
+- [Anubhav Gupta](https://github.com/gupta1anubhav)
