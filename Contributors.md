@@ -3336,6 +3336,7 @@
 - [Subham Singhal](https://github.com/SubhamSinghal)
 - [Arit Amana](https://github.com/msarit)
 - [Anubhav Gupta](https://github.com/gupta1anubhav)
+- [Asif Khan](https://github.com/asif10388)
 - [Joseph Bradshaw](https://github.com/MojoJojo86)
 - [Johnathan Ortiz-Sonnen](https://github.com/johnathandos)
 - [Jonikiro](https://github.com/Jonikiro)
