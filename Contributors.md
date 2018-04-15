@@ -3344,3 +3344,4 @@
 - [Siddharth](https://github.com/siddrtm)
 - [Venkatesh Ellaboina](https://github.com/venkateshellaboina)
 - [Ivan Ramos](https://github.com/AjaxianK)
+- [Michael Powers](https://github.com/eventuallyrises)
