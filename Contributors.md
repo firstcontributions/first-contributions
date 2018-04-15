@@ -3346,6 +3346,7 @@
 - [Ivan Ramos](https://github.com/AjaxianK)
 - [Michael Powers](https://github.com/eventuallyrises)
 -[Darin J Williams](https://github.com/darinjswilliams)
-- [Payal Pandya] (https://github.com/payPan22)
+- [Payal Pandya](https://github.com/payPan22)
 - [Hannah C](https://github.com/hannah-c)
 - [Stephen](https://github.com/sc1341)
+- [Alejandro Gines](https://github.com/alexBCN84)
