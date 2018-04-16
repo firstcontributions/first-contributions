@@ -1,4 +1,4 @@
-﻿- kamran alam
+- kamran alam
   [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
@@ -3356,3 +3356,4 @@
 - [Poe C](https://github.com/poesche)
 - [Jonathan Gin](https://github.com/JonathanGin52)
 - [Kyle Gildea](https://github.com/kylegildea)
+- [Seyed Jafari](https://github.com/worldsnas)
