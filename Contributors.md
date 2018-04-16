@@ -3363,3 +3363,4 @@
 - [Simon Niu](https://github.com/s18692001)
 - [colsch](https://github.com/colsch)
 - [Gabriel Silva](https://github.com/gsmatos)
+- [Jo P.](https://github.com/jomustech)
