@@ -3362,3 +3362,4 @@
 - [Junaid Zubair Shaikh](https://github.com/junaidzubairshaikh)
 - [Simon Niu](https://github.com/s18692001)
 - [colsch](https://github.com/colsch)
+- [Gabriel Silva](https://github.com/gsmatos)
