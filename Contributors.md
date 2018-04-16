@@ -3365,3 +3365,4 @@
 - [Gabriel Silva](https://github.com/gsmatos)
 - [Jo P.](https://github.com/jomustech)
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
+- [Noah Sragow](https://github.com/nsragow)
