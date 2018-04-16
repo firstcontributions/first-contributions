@@ -1,6 +1,6 @@
 ﻿- [Hans Winzell](https://github.com/hanwin)
-- kamran alam
-  [Nick Stellato](https://github.com/nickstellato)
+- [kamran alam](https://github.com/kammyy)
+- [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
