@@ -1,5 +1,5 @@
 - [Tim Bobker](https://github.com/tbobkertest)
-﻿- [Hans Winzell](https://github.com/hanwin)
+- [Hans Winzell](https://github.com/hanwin)
 - kamran alam
   [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
