@@ -2146,7 +2146,7 @@
 - [Cristian Rodriguez](https://github.com/crisr10)
 - [Aman Jain](https://github.com/jainaman1398)
 - [Nathan Lin](https://github.com/nlin24)
-- [Humbl3Stud3nt](https://github.com/Humbl3Stud3nt)
+- [Humbl4Stud3nt](https://github.com/Humbl3Stud3nt)
 - [Steph Bacon](https://github.com/sbacon017)
 - [Nathan Lin](https://github.com/nlin24)
 - [Humbl3Stud3nt](https://github.com/Humbl3Stud3nt)
@@ -3377,3 +3377,4 @@
 - [Sudarshan Parvatikar](https://github.com/Tensai7)
 - [Ed Hazledine](https://github.com/edhaz)
 - [Naveed Gazi](https://github.com/returnpointer)
+- [Navneet Pandey](https://github.com/npcode15)
