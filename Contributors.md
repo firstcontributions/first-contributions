@@ -3260,3 +3260,4 @@
 - [Anthony Dellechiaie](https://github.com/anthonydelle)
 - [Annalyn Sarmiento](https://github.com/annalyncs)
 - [Pietro F. Maggi](https://github.com/pfmaggi)
+- [Ranjit Gupta](https://github.com/ranjitkgupta)
