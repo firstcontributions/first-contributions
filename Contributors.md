@@ -3367,3 +3367,4 @@
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
 - [Noah Sragow](https://github.com/nsragow)
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
+- [Cara Hale](https://github.com/caradianne)
