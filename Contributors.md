@@ -3375,5 +3375,6 @@
 - [Ayush Gupta](https://github.com/siAyush)
 - [George Fields](https://github.com/hyler)
 - [Sudarshan Parvatikar](https://github.com/Tensai7)
+- [Javier Tris](https://github.com/tris18)
 - [Ed Hazledine](https://github.com/edhaz)
 - [Naveed Gazi](https://github.com/returnpointer)
