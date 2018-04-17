@@ -3374,3 +3374,4 @@
 - [Vela the Great](https://github.com/yuthan)
 - [Ayush Gupta](https://github.com/siAyush)
 - [George Fields](https://github.com/hyler)
+- [Sudarshan Parvatikar](https://github.com/Tensai7)
