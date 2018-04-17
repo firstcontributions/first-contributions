@@ -3370,3 +3370,4 @@
 - [rrriki](https://github.com/reveware)
 - [Jacob Goodall](https://github.com/jgoodall13)
 - [Myeong Kim](https://github.com/cgopia94)
+- [Vela the Great](https://github.com/yuthan)
