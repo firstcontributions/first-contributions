@@ -3368,3 +3368,4 @@
 - [Noah Sragow](https://github.com/nsragow)
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
 - [rrriki](https://github.com/reveware)
+- [Jacob Goodall](https://github.com/jgoodall13)
