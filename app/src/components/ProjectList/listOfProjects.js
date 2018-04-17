@@ -316,5 +316,21 @@ const projectList = [
     description: 'A positive open-source community working to bring essential programming knowledge offline.',
     tags: ['C++','Python','Java','Good First Issue']
   },
+  {
+    name:'css-protips',
+    imageSrc:'https://camo.githubusercontent.com/9b290de6835cf807aaa81bb6a7cfdf3835636f8c/68747470733a2f2f7261776769742e636f6d2f416c6c5468696e6773536d697474792f6373732d70726f746970732f6d61737465722f6d656469612f6c6f676f2e737667',
+    githubLink:'https://github.com/AllThingsSmitty/css-protips',
+    description:'Simple but useful tips to improve your CSS skills',
+    tags:['CSS','tips','guide','simple','useful']
+    },
+  {
+    name:'Hoodie',
+    imageSrc:'http://hoodiehq.github.io/hoodie-css/src/content_img/animals/low-profile-dog-3.png',
+    githubLink:'https://github.com/hoodiehq',
+    description:'Provides offline backend support for apps you have created',
+    tags:['Web development''user-friendly']
+  },
+  
+  
 ];
 export default projectList;
