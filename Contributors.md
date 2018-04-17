@@ -1,4 +1,5 @@
-﻿- [Hans Winzell](https://github.com/hanwin)
+- [Gavin Miller](https://github.com/gavinmiller)
+- [Hans Winzell](https://github.com/hanwin)
 - kamran alam
   [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
