@@ -3391,3 +3391,4 @@
 - [Idan Raman](https://github.com/Idanraman)
 - [Brian-Burke](https://github.com/bburke1996)
 - [Kalalau Cantrell](https://github.com/klcantrell)
+- [Jerry Noftz](https://github.com/jnoftz)
