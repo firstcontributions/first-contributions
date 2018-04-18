@@ -91,12 +91,12 @@ git push origin <add-your-name>
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
-### [ Additional material ](../additional-material/additional-material.md)
+### [ Additional material ](../additional-material/git_workflow_senarios/additional-material.md)
 
 ## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
