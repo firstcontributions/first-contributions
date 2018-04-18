@@ -3367,6 +3367,7 @@
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
 - [Noah Sragow](https://github.com/nsragow)
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
+- [Cara Hale](https://github.com/caradianne)
 - [rrriki](https://github.com/reveware)
 - [Jacob Goodall](https://github.com/jgoodall13)
 - [Myeong Kim](https://github.com/cgopia94)
