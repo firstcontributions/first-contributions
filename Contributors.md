@@ -3378,3 +3378,8 @@
 - [Ed Hazledine](https://github.com/edhaz)
 - [Naveed Gazi](https://github.com/returnpointer)
 - [A Toufali](https://github.com/HandsomeMedia)
+- [Pavan Varma](https://github.com/dpavankvarma)
+- [Daniele Bonilha](https://github.com/danibonilha)
+- [Alex Chavkin](https://github.com/1Question)
+- [geor](https://github.com/ge0rrr)
+- [Chewy Paste](https://github.com/ChewyPaste)
