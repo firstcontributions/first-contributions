@@ -141,7 +141,7 @@ Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memilik
 
 Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga anda dapat segera memulai. Cek di [daftar proyek web app] (https://roshanjossey.github.io/first-contributions/#project-list).
 
-## [ Materi tambahan ](../additional-material/additional-material.md)
+## [ Materi tambahan ](../additional-material/git_workflow_senarios/additional-material.md)
 
 ## Tutorial menggunakan alat lain
 
