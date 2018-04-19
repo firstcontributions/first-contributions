@@ -1,3 +1,5 @@
+- [Tom Anderson](https://github.com/tomanderson)
+- [Tim Again Changing](https://github.com/tbobkertest)
 - [Matthew Alp] (https://github.com/MattAlp)
 - [Gavin Miller](https://github.com/gavinmiller)
 - [Hans Winzell](https://github.com/hanwin)
