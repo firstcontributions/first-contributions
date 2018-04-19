@@ -1959,3 +1959,4 @@
 - [Ayodele Opetumo] (https://github.com/ayodeleopetumo)
 - [Quoc Nguyen] (https://github.com/qngn93)
 - [Kiyun](https://github.com/kiyunkim)
+- [Lauren Clifford](https://github.com/lmclifford89)
