@@ -3391,6 +3391,7 @@
 - [Supreet Singh](https://github.com/supreetsingh247)
 - [Idan Raman](https://github.com/Idanraman)
 - [Brian-Burke](https://github.com/bburke1996)
+- [Kalalau Cantrell](https://github.com/klcantrell)
 - [Jerry Noftz](https://github.com/jnoftz)
 - [Yann Mulonda](https://github.com/YannMjl)
 - [Krishan Sharma](https://github.com/Krishan-Sharma)
