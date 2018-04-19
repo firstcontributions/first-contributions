@@ -95,7 +95,7 @@
 <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Join slack team</a>.</p>
 <p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
 <h3 dir="rtl">
-<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="..additional-material/git_workflow_senarios/additional-material.md">Additional material</a>
+<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_senarios/additional-material.md">Additional material</a>
 </h3>
 <h2 dir="rtl">
 <a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>
@@ -121,5 +121,5 @@
 If you're feeling especially charitable, follow <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> on
 <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitter</a> and
 <a href="https://github.com/roshanjossey">GitHub</a>.</p>
-<p><a href="http://saasgrids.com" rel="nofollow"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500" style="max-width:100%;"></a></p>
+<p><a href="http://saasgrids.com" rel="nofollow"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500" style="max-width:100%;"></a></p>
 </article></body></html>
