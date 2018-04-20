@@ -180,19 +180,19 @@ const projectList = [
   }, {
     name: 'Contribute to Open Source',
     imageSrc: 'https://image.ibb.co/fUM5oG/profile_first_pr.png',
-    githubLink: 'https://github.com/danthareja/contribute-to-open-source',
+    githubLink: 'https://github.com/danthareja/contribute-to-open-source/issues',
     description: 'Learn GitHub\'s pull request process by contributing code in a fun simulation project.',
     tags: ['GitHub', 'Tutorial'],
   }, {
     name: 'RubyGems ecosystem',
     imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
-    githubLink: 'https://github.com/rubygems/contribute',
+    githubLink: 'https://github.com/rubygems/contribute'(Read-only),
     description: 'One site to show all related RubyGems ecosystem projects and help developers get involved.',
     tags: ['Ruby', 'Rubygems'],
   }, {
     name: 'Mail For Good',
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
-    githubLink: 'https://github.com/freeCodeCamp/mail-for-good',
+    githubLink: 'https://github.com/freeCodeCamp/mail-for-good/issues',
     description: 'An open source email campaign management tool.',
     tags: ['Nodejs', 'JavaScript', 'Email-Campaigns']
   },
@@ -206,7 +206,7 @@ const projectList = [
   {
     name: 'Scrapy',
     imageSrc: 'https://blog-media.scrapinghub.com/production/wp-content/uploads/2016/10/06054611/Scrapy-300x300.png',
-    githubLink: 'https://github.com/scrapy/scrapy',
+    githubLink: 'https://github.com/scrapy/scrapy/issues',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
   }, 
@@ -220,56 +220,56 @@ const projectList = [
   {
     name: 'React Styleguidist',
     imageSrc: 'https://d3vv6lp55qjaqc.cloudfront.net/items/061f0A2n1B0H3p0T1p1f/react-styleguidist-logo.png',
-    githubLink: 'https://github.com/styleguidist/react-styleguidist',
+    githubLink: 'https://github.com/styleguidist/react-styleguidist/issues',
     description: 'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',
     tags: ['JavaScript', 'UI']
   },
   {
     name: 'Ruby Koans',
     imageSrc: 'http://cdn.skilledup.com/public/images/provider/Ruby-Koans-Image-2x.jpg',
-    githubLink: 'https://github.com/edgecase/ruby_koans',
+    githubLink: 'https://github.com/neall/ruby_koans/issues',
     description: 'Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App']
   },
   {
     name: 'Python Koans',
     imageSrc: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/akoebbe/b35d77/python-koans.jpg',
-    githubLink: 'https://github.com/gregmalcolm/python_koans',
+    githubLink: 'https://github.com/gregmalcolm/python_koans/issues',
     description: 'Python Koans is a port of Edgecase\'s "Ruby Koans".',
     tags: ['Python', 'Exercises', 'CLI', 'Web App']
   },
   {
     name: 'Scala Exercises',
     imageSrc: 'https://avatars1.githubusercontent.com/u/17570897?s=200&v=4',
-    githubLink: 'https://github.com/scala-exercises',
+    githubLink: 'https://github.com/scala-exercises/scala-exercises/issues',
     description: 'Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language.',
     tags: ['Scala', 'Exercises', 'Functional Programming']
   },
   {
     name: 'CodeWorkout',
     imageSrc: 'https://i.imgur.com/ZsSiCqi.png',
-    githubLink: 'https://github.com/web-cat/code-workout',
+    githubLink: 'https://github.com/web-cat/code-workout/issues',
     description: 'CodeWorkout is an online system for people learning a programming language for the first time. It is a free, open-source solution for practicing small programming problems. Students may practice coding exercises on a variety of programming concepts within the convenience of a web browser!',
     tags: ['Java', 'Ruby', 'Python', 'Exercises']
   },
   {
     name: 'TEAMMATES',
     imageSrc: 'https://raw.githubusercontent.com/TEAMMATES/teammates/master/src/main/webapp/images/teammateslogo-black.png',
-    githubLink: 'https://github.com/TEAMMATES/teammates',
+    githubLink: 'https://github.com/TEAMMATES/teammates/issues',
     description: 'An online feedback management system for students and teachers',
     tags: ['Java', 'Javascript', 'HTML', 'Web App']
   },
   {
     name: 'electron',
     imageSrc: 'https://avatars3.githubusercontent.com/u/13409222?s=200&v=4',
-    githubLink: 'https://github.com/electron/electron',
+    githubLink: 'https://github.com/electron/electron/issues',
     description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS!',
     tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
   },
   {
     name: 'Oppia',
     imageSrc: 'https://www.oppia.org/build/assets/images/logo/288x128_logo_mint.42f8d38467fe745205b3374b33668068.png',
-    githubLink: 'https://github.com/oppia/oppia',
+    githubLink: 'https://github.com/oppia/oppia/issues',
     description: 'Tool for collaboratively building interactive lessons.',
     tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
   },
@@ -283,21 +283,21 @@ const projectList = [
   {
     name:'MissionControl',
     imageSrc:'https://i.imgur.com/nSRLFas.gif',
-    githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+    githubLink: 'https://github.com/DAVFoundation/missioncontrol/issues',
     description:'Controls and orchestrates missions between autonomous vehicles and DAV users.',
     tags: ['Javascript','Docker','Thrift','Good First Issue']
   },
   {
     name:'DuckDuckGo',
     imageSrc:'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
-    githubLink: 'https://github.com/duckduckgo',
+    githubLink: 'https://github.com/duckduckgo/duckduckgo-privacy-extension/issues',
     description:'The search engine that doesn\'t track you!',
     tags: ['Javascript','Perl','Python','Privacy']
   },
   {
     name:'Kinto',
     imageSrc:'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
-    githubLink: 'https://github.com/kinto',
+    githubLink: 'https://github.com/Kinto/kinto/issues',
     description:'A generic JSON document store with sharing and synchronisation capabilities.',
     tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
   },
@@ -305,28 +305,28 @@ const projectList = [
     name:'atom',
     imageSrc:'https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png',
     githubLink:
-       'https://github.com/atom/atom',
+       'https://github.com/atom/atom/issues',
     description:'A customizable text editor built on electron.',
     tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']
   },
   {
     name: 'OpenGenus',
     imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
-    githubLink: 'https://github.com/OpenGenus',
+    githubLink: 'https://github.com/OpenGenus/Join_OpenGenus/issues',
     description: 'A positive open-source community working to bring essential programming knowledge offline.',
     tags: ['C++','Python','Java','Good First Issue']
   },
   {
     name:'css-protips',
     imageSrc:'https://camo.githubusercontent.com/9b290de6835cf807aaa81bb6a7cfdf3835636f8c/68747470733a2f2f7261776769742e636f6d2f416c6c5468696e6773536d697474792f6373732d70726f746970732f6d61737465722f6d656469612f6c6f676f2e737667',
-    githubLink:'https://github.com/AllThingsSmitty/css-protips',
+    githubLink:'https://github.com/AllThingsSmitty/css-protips/issues',
     description:'Simple but useful tips to improve your CSS skills.',
     tags:['CSS','tips','guide','simple','useful']
     },
   {
     name:'Hoodie',
     imageSrc:'http://hoodiehq.github.io/hoodie-css/src/content_img/animals/low-profile-dog-3.png',
-    githubLink:'https://github.com/hoodiehq',
+    githubLink:'https://github.com/hoodiehq/hoodie/issues',
     description:'Provides offline backend support for apps you have created.',
     tags:['Web development''user-friendly']
   },
