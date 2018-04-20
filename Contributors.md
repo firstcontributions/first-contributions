@@ -948,6 +948,7 @@
 - [Andrei Vasile](https://github.com/johnsilver97)
 - [Harsh Paliwal](https://github.com/hpaliwal4)
 - [Ayush Goyal](https://github.com/ayush987goyal)
+- [Ruslan Hassonov](https://github.com/RuslanHassonov)
 - [Bruno Scheufler](https://github.com/bsZeroFive)
 - [Wade Hammes](https://github.com/wadehammes)
 - [Jyri V?h?-Pietil?](https://github.com/jjjyrki)
@@ -3402,3 +3403,4 @@
 - [Pedro Gomes](https://github.com/pgomesdev)
 - [Johannes Riebold](https://github.com/jobo95)
 - [Claudio Lara](https://github.com/cfernandez-nisum-com)
+- [Mario Santos](https://github.com/xmaps)
