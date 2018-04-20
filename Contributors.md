@@ -3403,6 +3403,7 @@
 - [riddhesh jani](https://github.com/ritz1711)
 - [Pedro Gomes](https://github.com/pgomesdev)
 - [Johannes Riebold](https://github.com/jobo95)
+- [Chris zqc](https://github.com/chriszq)
 - [Lorenzo Addazi](https://github.com/loradd)
 - [uday](https://github.com/udaybattu15)
 - [Claudio Lara](https://github.com/cfernandez-nisum-com)
