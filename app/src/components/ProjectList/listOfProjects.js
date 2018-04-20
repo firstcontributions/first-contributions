@@ -3,14 +3,14 @@ const projectList = [
     name: 'React',
     imageSrc: 'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667',
     githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22Difficulty%3A+beginner%22',
-    description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces!',
+    description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces.',
     tags: ['JavaScript', 'UI', 'Web App'],
   }, {
     name: 'Exercism',
     imageSrc: 'https://avatars2.githubusercontent.com/u/5624255?v=3&s=100',
     githubLink:
       'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
-    description: 'Quickly ramp up in new programming languages.',
+    description: 'Quickly ramp up in new programming languages!',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
   }, {
     name: 'Fun Retros',
@@ -38,7 +38,7 @@ const projectList = [
     imageSrc: 'https://avatars0.githubusercontent.com/u/8527916?v=3&s=100',
     githubLink:
       'https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22',
-    description: 'Futuristic JavaScript test runner!',
+    description: 'The Futuristic JavaScript test runner!',
     tags: ['JavaScript','Tests', 'Docs', 'Babel'],
   }, {
     name: 'Numpy',
@@ -46,46 +46,46 @@ const projectList = [
       'https://camo.githubusercontent.com/b310fd3c9c5f7da5de0911b77d201408b76b8a58/68747470733a2f2f696d616765732e706c6f742e6c792f706c6f746c792d646f63756d656e746174696f6e2f7468756d626e61696c2f6e756d70792d6c6f676f2e6a7067',
     githubLink:
       'https://github.com/numpy/numpy/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22difficulty%3A+Easy%22',
-    description: 'Scientific computing with Python.',
+    description: 'Scientific computing with Python!',
     tags: ['Python', 'Math', 'Module', 'Docs'],
   }, {
     name: 'Elasticsearch',
     imageSrc: 'https://avatars2.githubusercontent.com/u/6764390?v=3&s=100',
     githubLink:
       'https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22',
-    description: 'Open Source, distributed, RESTful search engine!',
+    description: 'Open Source, Distributed, RESTful Search Engine.',
     tags: ['REST', 'Docs', 'Java', 'Lucene'],
   }, {
     name: 'Homebrew',
     imageSrc: 'https://avatars2.githubusercontent.com/u/1503512?v=3&s=100',
     githubLink:
       'https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22',
-    description: 'The missing package manager for macOS!',
+    description: 'The missing package manager for macOS.',
     tags: ['MacOS', 'Ruby', 'C++'],
   }, {
     name: 'Rust',
     imageSrc: 'https://avatars1.githubusercontent.com/u/5430905?v=3&s=100',
     githubLink:
       'https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy',
-    description: 'A safe, concurrent, practical language.',
+    description: 'A safe, concurrent, practical language!',
     tags: ['Rust', 'Compiler', 'Mentored', 'Parser'],
   }, {
     name: 'Vuejs',
     imageSrc: 'https://avatars1.githubusercontent.com/u/6128107?v=3&s=100',
     githubLink: 'https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22',
-    description: 'A progressive, incrementally-adoptable JavaScript framework for building UI on the web!',
+    description: 'A progressive, incrementally-adoptable JavaScript framework for building UI on the web.',
     tags: ['JavaScript', 'UI', 'Front-End'],
   }, {
     name: 'Suave',
     imageSrc: 'https://avatars2.githubusercontent.com/u/5822862?v=3&s=100',
     githubLink: 'https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy',
-    description: 'Simple web development F# library to manipulate route flow and task composition!',
+    description: 'simple web development F# library to manipulate route flow and task composition.',
     tags: ['F#', 'WebDev', 'Library'],
   }, {
     name: 'OpenRA',
     imageSrc: 'https://avatars3.githubusercontent.com/u/409046?v=3&s=100',
     githubLink: 'https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy',
-    description: 'Open Source real-time strategy game engine for early Westwood games!',
+    description: 'Open Source real-time strategy game engine for early Westwood games.',
     tags: ['AI', 'C#', 'SDL', 'OpenGL'],
   }, {
     name: 'PowerShell',
@@ -105,7 +105,7 @@ const projectList = [
     imageSrc: 'https://avatars2.githubusercontent.com/u/4129662?v=3&s=100',
     githubLink:
       'https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs',
-    description: 'Parse, validate, manipulate, and display dates in JavaScript!',
+    description: 'Parse, validate, manipulate, and display dates in JavaScript.',
     tags: ['JavaScript', 'Front-End', 'Meta'],
   }, {
     name: 'Leiningen',
@@ -113,7 +113,7 @@ const projectList = [
       'https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067',
     githubLink:
       'https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie',
-    description: 'Automate Clojure projects without setting your hair on fire!',
+    description: 'Automate Clojure projects without setting your hair on fire.',
     tags: ['Clojure', 'Automation'],
   }, {
     name: 'Brackets',
@@ -139,43 +139,43 @@ const projectList = [
     imageSrc: 'https://avatars3.githubusercontent.com/u/3406112?v=3&s=100',
     githubLink:
       'https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22',
-    description: 'A pocket-sized database!',
+    description: 'A Pocket-sized database.',
     tags: ['JavaScript','Node.js','CouchDB'],
   }, {
     name: 'Neovim',
     imageSrc: 'https://avatars0.githubusercontent.com/u/6471485?v=3&s=100',
     githubLink:
       'https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Acomplexity%3Alow',
-    description: 'A Vim-fork focused on extensibility and usability!',
+    description: 'Vim-fork focused on extensibility and usability.',
     tags: ['Editor', 'API', 'Cross-Platform', 'Vim'],
   }, {
     name: 'Hoodie',
     imageSrc: 'https://avatars1.githubusercontent.com/u/1888826?v=3&s=100',
     githubLink:
       'https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
-    description: 'The first offline JavaScript backend!',
+    description: 'The Offline First JavaScript Backend.',
     tags: ['JavaScript','Node.js'],
   }, {
     name: 'freeCodeCamp',
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
-    githubLinkf
+    githubLink:
       'https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
-    description: 'Open source codebase and curriculum!',
+    description: 'Open source codebase and curriculum.',
     tags: ['Learn', 'Education', 'Non-Profit', 'Certification'],
   }, {
     name: 'Node.js',
     imageSrc: 'https://avatars1.githubusercontent.com/u/9950313?v=3&s=100',
     githubLink:
       'https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
-    description: 'Node.js JavaScript runtime!',
+    description: 'Node.js JavaScript runtime.',
     tags: ['JavaScript', 'HTML', 'CSS'],
   }, {
-    name: 'Semantic-UI-React',!
+    name: 'Semantic-UI-React',
     imageSrc:
       'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
     githubLink:
       'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
-    description: 'The official Semantic-UI-React integration!',
+    description: 'The official Semantic-UI-React integration.',
     tags: ['React', 'Library', 'Component', 'Front-End'],
   }, {
     name: 'Contribute to Open Source',
@@ -187,7 +187,7 @@ const projectList = [
     name: 'RubyGems ecosystem',
     imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
     githubLink: 'https://github.com/rubygems/contribute',
-    description: 'One site to show all related RubyGems ecosystem projects and help developers get involved!',
+    description: 'One site to show all related RubyGems ecosystem projects and help developers get involved.',
     tags: ['Ruby', 'Rubygems'],
   }, {
     name: 'Mail For Good',
@@ -207,14 +207,14 @@ const projectList = [
     name: 'Scrapy',
     imageSrc: 'https://blog-media.scrapinghub.com/production/wp-content/uploads/2016/10/06054611/Scrapy-300x300.png',
     githubLink: 'https://github.com/scrapy/scrapy',
-    description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages.',
+    description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
     tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
   }, 
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
     githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
-    description: 'Angular is a development platform for building mobile and desktop web applications using TypeScript or JavaScript and other languages.',
+    description: 'Angular is a development platform for building mobile and desktop Web Applications using TypeScript or JavaScript and other languages.',
     tags: ['Angular', 'TypeScript', 'JavaScript']
   },
   {
@@ -228,7 +228,7 @@ const projectList = [
     name: 'Ruby Koans',
     imageSrc: 'http://cdn.skilledup.com/public/images/provider/Ruby-Koans-Image-2x.jpg',
     githubLink: 'https://github.com/edgecase/ruby_koans',
-    description: 'Learn Ruby with the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
+    description: 'Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App']
   },
   {
@@ -256,7 +256,7 @@ const projectList = [
     name: 'TEAMMATES',
     imageSrc: 'https://raw.githubusercontent.com/TEAMMATES/teammates/master/src/main/webapp/images/teammateslogo-black.png',
     githubLink: 'https://github.com/TEAMMATES/teammates',
-    description: 'An online feedback management system for students and teachers!',
+    description: 'An online feedback management system for students and teachers',
     tags: ['Java', 'Javascript', 'HTML', 'Web App']
   },
   {
@@ -273,7 +273,7 @@ const projectList = [
     description: 'Tool for collaboratively building interactive lessons.',
     tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
   },
-   {
+  {
     name: 'Public Lab',
     imageSrc: 'https://publiclab.org/system/images/photos/000/023/444/large/Screenshot_20180204-101546_2.png',
     githubLink: 'https://publiclab.github.io/community-toolbox/#r=all',
@@ -281,11 +281,56 @@ const projectList = [
     tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
   },
   {
-       name:'MissionControl',
-       imageSrc:'https://raw.githubusercontent.com/DAVFoundation/missioncontrol/master/resources/images/logo-missioncontrol.jpg',
-       githubLink: 'https://github.com/DAVFoundation/missioncontrol',
-       description:'Controls and orchestrates missions between autonomous vehicles and DAV users!',
-       tags: ['Javascript','Docker','Thrift','Good First Issue']
+    name:'MissionControl',
+    imageSrc:'https://i.imgur.com/nSRLFas.gif',
+    githubLink: 'https://github.com/DAVFoundation/missioncontrol',
+    description:'Controls and orchestrates missions between autonomous vehicles and DAV users.',
+    tags: ['Javascript','Docker','Thrift','Good First Issue']
+  },
+  {
+    name:'DuckDuckGo',
+    imageSrc:'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
+    githubLink: 'https://github.com/duckduckgo',
+    description:'The search engine that doesn\'t track you!',
+    tags: ['Javascript','Perl','Python','Privacy']
+  },
+  {
+    name:'Kinto',
+    imageSrc:'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
+    githubLink: 'https://github.com/kinto',
+    description:'A generic JSON document store with sharing and synchronisation capabilities.',
+    tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
+  },
+  {  
+    name:'atom',
+    imageSrc:'https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png',
+    githubLink:
+       'https://github.com/atom/atom',
+    description:'A customizable text editor built on electron.',
+    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']
+  },
+  {
+    name: 'OpenGenus',
+    imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
+    githubLink: 'https://github.com/OpenGenus',
+    description: 'A positive open-source community working to bring essential programming knowledge offline.',
+    tags: ['C++','Python','Java','Good First Issue']
+  },
+  {
+    name:'css-protips',
+    imageSrc:'https://camo.githubusercontent.com/9b290de6835cf807aaa81bb6a7cfdf3835636f8c/68747470733a2f2f7261776769742e636f6d2f416c6c5468696e6773536d697474792f6373732d70726f746970732f6d61737465722f6d656469612f6c6f676f2e737667',
+    githubLink:'https://github.com/AllThingsSmitty/css-protips',
+    description:'Simple but useful tips to improve your CSS skills.',
+    tags:['CSS','tips','guide','simple','useful']
     },
+  {
+    name:'Hoodie',
+    imageSrc:'http://hoodiehq.github.io/hoodie-css/src/content_img/animals/low-profile-dog-3.png',
+    githubLink:'https://github.com/hoodiehq',
+    description:'Provides offline backend support for apps you have created.',
+    tags:['Web development''user-friendly']
+  },
+  
+  
 ];
 export default projectList;
