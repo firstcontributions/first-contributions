@@ -3396,6 +3396,7 @@
 - [Brian-Burke](https://github.com/bburke1996)
 - [Kalalau Cantrell](https://github.com/klcantrell)
 - [Jerry Noftz](https://github.com/jnoftz)
+- [Jean Enzbrenner](https://github.com/jeanenz)
 - [Yann Mulonda](https://github.com/YannMjl)
 - [Krishan Sharma](https://github.com/Krishan-Sharma)
 - [Shabin Hashim](https://github.com/shabin5785)
