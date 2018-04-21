@@ -118,12 +118,12 @@ git push origin <add-your-name>
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [η λίστα με τα project](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Επιπρόσθετο υλικό](additional-material/git_workflow_senarios/additional-material.md)
+### [Επιπρόσθετο υλικό](../additional-material/git_workflow_senarios/additional-material.md)
 
 
 ## Tutorials χρησιμοποιώντας Άλλα Εργαλεία
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
