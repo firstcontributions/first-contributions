@@ -1,3 +1,4 @@
+- [Glenn Halstead](https://github.com/glennh)
 - [Tom Anderson](https://github.com/tomanderson)
 - [Tim Again Changing](https://github.com/tbobkertest)
 - [Matthew Alp](https://github.com/MattAlp)
