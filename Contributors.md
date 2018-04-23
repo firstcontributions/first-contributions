@@ -3412,3 +3412,5 @@
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
 - [Liang Chen](https://github.com/lngchn)
+- [Alex Widmann](https://github.com/ALKW)
+- [NK2164](https://github.com/nk2164)
