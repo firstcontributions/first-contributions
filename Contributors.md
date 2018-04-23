@@ -1,3 +1,4 @@
+- [Qiaowei Tang](https://github.com/dangjoeltang)
 - [Nick Stellato](https://github.com/nickstellato)
 - [Ranjit Gupta](https://github.com/ranjitkgupta)
 - [Tom Anderson](https://github.com/tomanderson)
