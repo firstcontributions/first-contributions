@@ -3422,6 +3422,7 @@
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
+- [Aharon Hyman](https://github.com/hymanaharon)
 - [Bryan Barrows](https://github.com/bbarrows89)
 - [Priyam Mishra](https://github.com/priyammishra25)
 - [Tomek Moryl](https://github.com/TomekMoryl)
