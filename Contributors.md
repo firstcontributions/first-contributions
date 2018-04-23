@@ -3418,6 +3418,7 @@
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
+- [David Cho](https://github.com/profnachos)
 - [Edgar Paez](https://github.com/edgarpaez)
 - [Duane Michael](https://github.com/wr4thchild)
 - [Shane Ko Naung](https://github.com/ShaneKoNaung)
