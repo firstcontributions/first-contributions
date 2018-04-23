@@ -11,7 +11,7 @@ Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đ�
 
 *Đọc bản hướng dẵn này bằng các ngôn ngữ khác: [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Anh](../README.md), [Tiếng Ba Lan](README.pl.md), [Tiếng Hàn Quốc](README.ko.md), [Tiếng Đức](README.de.md), [Tiếng Trung giản thể](README.chs.md), [Tiếng Trung truyền thống](README.cht.md), [Tiếng Hy Lạp](README.gr.md).*
 
-Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](gitkraken-tutorial.md).
+Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](../gitkraken-tutorial.md).
 
 Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
 
@@ -121,7 +121,7 @@ Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là
 ## Hướng dẫn sử dụng các công cụ khác
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
