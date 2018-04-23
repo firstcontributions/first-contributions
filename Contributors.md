@@ -3026,7 +3026,7 @@
 - [Ethan Shearer](https://github.com/itaden1)
 - [Carlo Candoy](https://github.com/mondogoat)
 - [Didier CHEUNG](https://github.com/casdidier)
-- Joseph- 
+- Joseph-
 - mtdkki
 - [larenala](https://github.com/larenala)
 - [benbe](https://github.com/dienhoa)
@@ -3460,3 +3460,6 @@
 - [Hrishikesh Baidya](https://github.com/hrishi7)
 - [Mark Li](https://github.com/Houwang123)
 - [Ihor Hrybeniuk](https://github.com/hrybeniuk)
+- [CH Strydom](https://github.com/lsch23)
+- [Sam Peinado](https://github.com/sampeinado)
+- [Grant Virtue](https://github.com/VirtualGrant)
