@@ -63,7 +63,7 @@ In our example, we would run the commit command as follows:
 
 ### Note on Precedence
 
-Among the three methods described here, the precedence order is `command-line > repository > global`. This means that, if a variable is configured in the command-line as well as globally, the command-line value would be used for the opetaion.
+Among the three methods described here, the precedence order is `command-line > repository > global`. This means that, if a variable is configured in the command-line as well as globally, the command-line value would be used for the operation.
 
 ## Beyond User Details
 
