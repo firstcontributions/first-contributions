@@ -3411,4 +3411,5 @@
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
+- [Alex Widmann](https://github.com/ALKW)
 - [NK2164](https://github.com/nk2164)
