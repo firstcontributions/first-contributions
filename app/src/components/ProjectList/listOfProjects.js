@@ -330,6 +330,13 @@ const projectList = [
     description:'Provides offline backend support for apps you have created',
     tags:['Web development''user-friendly']
   },
+  {
+    name:'Movie-Stream',
+    imageSrc:'https://photos.google.com/photo/AF1QipPJCV3q2ZGqe9YJvz5TRCmHDPNrtoys-qLiLif3',
+    githubLink:'https://github.com/hrishi7/streamIt',
+    description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
+    tags:['Web development''HTML','Javascript','Api calls','css','bootstrap']
+  }
   
   
 ];
