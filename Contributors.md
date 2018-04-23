@@ -3464,3 +3464,4 @@
 - [CH Strydom](https://github.com/lsch23)
 - [Sam Peinado](https://github.com/sampeinado)
 - [Grant Virtue](https://github.com/VirtualGrant)
+- [Himzo Tahic](https://github.com/himzo-tahic)
