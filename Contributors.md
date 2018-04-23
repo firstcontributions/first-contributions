@@ -3422,6 +3422,7 @@
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
 - [Tomek Moryl](https://github.com/TomekMoryl)
+- [Rocky Rizwan](https://github.com/rrocks18)
 - [Nicholas Steven Darmawan](https://github.com/steve1998)
 - [Vincent Ivy](https://github.com/ivyv)
 - [Shengyang Zhang](https://github.com/zsy715)
