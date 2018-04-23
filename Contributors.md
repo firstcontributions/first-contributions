@@ -1,4 +1,4 @@
-- [Glenn Halstead](https://github.com/glennh)
+﻿- [Glenn Halstead](https://github.com/glennh)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
 - [Qiaowei Tang](https://github.com/dangjoeltang)
 - [Nick Stellato](https://github.com/nickstellato)
@@ -3469,3 +3469,4 @@
 - [Mitch Waldman](https://github.com/mitchswaldman)
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
+- [Micah Workman](https://github.com/nidoprince)
