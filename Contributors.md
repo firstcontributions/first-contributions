@@ -2,6 +2,7 @@
 - [Nick Stellato](https://github.com/nickstellato)
 - [Ranjit Gupta](https://github.com/ranjitkgupta)
 - [Tom Anderson](https://github.com/tomanderson)
+- [Mahran Elmasri](https://github.com/mahranelmasri)
 - [Tim Again Changing](https://github.com/tbobkertest)
 - [Matthew Alp](https://github.com/MattAlp)
 - [Gavin Miller](https://github.com/gavinmiller)
