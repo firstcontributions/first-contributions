@@ -3361,6 +3361,7 @@
 - [Eric Lew](https://github.com/hyser521)
 - [Poe C](https://github.com/poesche)
 - [Jonathan Gin](https://github.com/JonathanGin52)
+- [Myeong Kim](https://github.com/cgopia94)
 - [Kyle Gildea](https://github.com/kylegildea)
 - [Amrutha A J](https://github.com/amrutha-a-j)
 - [Matthew Chung](https://github.com/mchuuung)
