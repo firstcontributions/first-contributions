@@ -100,14 +100,14 @@ git push origin <add-your-name>
 
 এখন আপনি অন্যান্য প্রজেক্টগুলোতেও অবদান রাখতে পারেন। আপনার সুবিধার্থে আমরা সহজ সমস্যা সম্বলিত প্রজেক্টগুলোর একটি তালিকা তৈরি করেছি। ওয়েব অ্যাপে [প্রজেক্টগুলোর তালিকা](https://roshanjossey.github.io/first-contributions/#project-list) দেখুন।
 
-### [ অতিরিক্ত উপাদানসমূহ ](additional-material/additional-material.md)
+### [ অতিরিক্ত উপাদানসমূহ ](../additional-material/git_workflow_senarios/additional-material.md)
 
 
 ## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/redesign/tools-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/redesign/tools-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[গিটহাব ডেস্কটপ](github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](gitkraken-tutorial.md)|
+|[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
 
 ## সেলফ-প্রমোশন
 
