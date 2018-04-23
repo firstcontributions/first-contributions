@@ -12,7 +12,7 @@
 مضامین پڑھنے اور سبق دیکھنے سے مدد مل سکتی ہے، لیکن چیزوں میں الجھے بغیر کسی کام کو اصل میں کرنا کتنا بہتر ہے؟ اس پروجیکٹ کا مقصد رہنمائی فراہم کرنا اور نئے شرکت کرنے والے لوگوں کے راستے کو آسان بنانا ہے. یاد رکھیں: آپ جتنا پرسکوں ہوں گے، آپ اتنا بہتر سیکھیں گے. اگر آپ اپنا پہلا اشتراک کرنا چاہتے ہیں، تو ذیل میں دیے گئے سادہ مراحل پر عمل کریں. ہم آپ سے وعدہ کرتے ہیں، یہ قابل لطف ہوں گے.
 </div>
 
-#### <div dir="rtl">*  [ دیگر زبانوں ](Translations.md) میں یہ پڑھیں* </div>
+#### <div dir="rtl">*  [ دیگر زبانوں ](../Translations.md) میں یہ پڑھیں* </div>
 
 <div dir="rtl"> 
 اگر آپ کی مشین پر گٹ نہیں ہے تو،
@@ -119,14 +119,14 @@ git push origin <add-your-name>
 
 <div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
-### <div dir="rtl"> [ اضافی مواد ](additional-material/additional-material.md) </div>
+### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_senarios/additional-material.md) </div>
 
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## <div dir="rtl"> یہاں سے کہاں جایا جائے؟ </div>
 
