@@ -3421,6 +3421,7 @@
 - [Claudio Lara](https://github.com/cfernandez-nisum-com)
 - [Mario Santos](https://github.com/xmaps)
 - [Jordan Limperis](https://github.com/Jlimp)
+- [Priyam Mishra](https://github.com/priyammishra25)
 - [Tomek Moryl](https://github.com/TomekMoryl)
 - [Aleksandar Vracarevic](https://github.com/rubidijum)
 - [karan kumar](https://github.com/karanshrm44)
