@@ -3482,3 +3482,4 @@
 - [Pushkar Anand](https://github.com/pushkar-anand)
 - [Saara Rautiainen](https://github.com/saararautiainen)
 - [Jereme Daniels](https://github.com/Jereme2147)
+- [Smitha Narayanaswamy](https://github.cm/smithanarayanaswamy)
