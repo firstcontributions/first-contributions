@@ -3466,6 +3466,7 @@
 - [Grant Virtue](https://github.com/VirtualGrant)
 - [Himzo Tahic](https://github.com/himzo-tahic)
 - [James Ball](https://github.com/jamesballs)
+- [Lara Okafor](https://github.com/lcokafor)
 - [Mitch Waldman](https://github.com/mitchswaldman)
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
