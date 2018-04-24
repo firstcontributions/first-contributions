@@ -332,10 +332,10 @@ const projectList = [
   },
   {
     name:'Movie-Stream',
-    imageSrc:'https://photos.google.com/photo/AF1QipPJCV3q2ZGqe9YJvz5TRCmHDPNrtoys-qLiLif3',
+    imageSrc:'https://ibb.co/bFroZH',
     githubLink:'https://github.com/hrishi7/streamIt',
     description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
-    tags:['Web development''HTML','Javascript','Api calls','css','bootstrap']
+    tags:['Web development','HTML','Javascript','API','CSS','Bootstrap']
   }
   
   
