@@ -3471,3 +3471,4 @@
 - [Jake Crawford](https://github.com.jcrawford812)
 - [Marc Cooperstein](https://github.com/mcooperstein)
 - [Andrew Chau](https://github.com/a4chau)
+- [Zachariah Garcia](https://github.com/zachacaria)
