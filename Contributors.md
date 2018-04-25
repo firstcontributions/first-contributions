@@ -3482,5 +3482,5 @@
 - [Pushkar Anand](https://github.com/pushkar-anand)
 - [Saara Rautiainen](https://github.com/saararautiainen)
 - [Jereme Daniels](https://github.com/Jereme2147)
-- [Bren Santos](https://github.com/brenbread)
 - [Chandana Kithalagama](https://github.com/ckit)
+- [Mohamed Sahouli](https://github.com/msahouli)
