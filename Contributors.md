@@ -1,6 +1,7 @@
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
+- [Chandana Kithalagama](https://github.com/ckit)
 - [Qiaowei Tang](https://github.com/dangjoeltang)
 - [Nick Stellato](https://github.com/nickstellato)
 - [Ranjit Gupta](https://github.com/ranjitkgupta)
