@@ -1,4 +1,4 @@
-﻿- [LoveArie](https://github.com/LoveArie)
+- [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
 - [Chandana Kithalagama](https://github.com/ckit)
@@ -3500,3 +3500,4 @@
 - [Patrick Ellway](https://github.com/pellway/)
 - [Dominik Bogunia](https://github.com/dbogunia)
 - [Karthik Datta](https://github.com/karthikdatta)
+- [Bartolome Estelrich](https://github.com/BEstelrich)
