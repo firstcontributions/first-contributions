@@ -3509,3 +3509,4 @@
 - [Manuel Brausch](https://github.com/manuelbrausch)
 - [Cristobal Soto](https://github.com/CristobalSoto)
 - [Kjosev Tasho](https://github.com/Kjosev)
+- [Matt Musser](https://github.com/mattMusser)
