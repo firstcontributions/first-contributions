@@ -3507,6 +3507,8 @@
 - [Laimonas Oberauskis](https://github.com/olaimonas)
 - [Ellen Merchant](https://github.com/ellllllen)
 - [Manuel Brausch](https://github.com/manuelbrausch)
+- [Cristobal Soto](https://github.com/CristobalSoto)
+- [Andronicus Kim](https://github.com/andronicus-kim)
 - [orvalho](https://github.com/orvalho)
 - [Cristobal Soto](https://github.com/CristobalSoto)
 - [Kjosev Tasho](https://github.com/Kjosev)
