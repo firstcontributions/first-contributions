@@ -3510,4 +3510,4 @@
 - [Cristobal Soto](https://github.com/CristobalSoto)
 - [Kjosev Tasho](https://github.com/Kjosev)
 - [Matt Musser](https://github.com/mattMusser)
-- [Diogo Simões](https://github.com/s1moe2)
+- [Diogo Simões](https://github.com/s1moe2)- [Patrick Farnham](https://github.com/pfarnham/)
