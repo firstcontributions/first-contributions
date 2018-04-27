@@ -3512,3 +3512,4 @@
 - [Matt Musser](https://github.com/mattMusser)
 - [Diogo Simões](https://github.com/s1moe2)
 - [Manali Joshi](https://github.com/manalijoshi82)
+- [Colin M](https://github.com/Semicolon23)
