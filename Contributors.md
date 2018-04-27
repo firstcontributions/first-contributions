@@ -1,3 +1,4 @@
+- [Arel Clemente](https://github.com/arelC)
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
