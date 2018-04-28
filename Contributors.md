@@ -3474,3 +3474,4 @@
 - [Marc Cooperstein](https://github.com/mcooperstein)
 - [Andrew Chau](https://github.com/a4chau)
 - [Zachariah Garcia](https://github.com/zachacaria)
+- [Jesus Redondo](https://github.com/JSRound)
