@@ -3530,3 +3530,4 @@
 - [Divya Muralidharan](https://github.com/divya-muralidharan-a)
 - [Phoenix Campos](https://github.com/pacampos)
 - [Cesar Palacios](https://github.com/Clpalacios)
+- [Jonathan Guerrero](https://github.com/guerjon/first-contributions)
