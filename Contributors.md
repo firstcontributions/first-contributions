@@ -3526,3 +3526,4 @@
 - [Sean Cunningham](https://github.com/kyorlin2001)
 - [Irfan Ansari](https://github.com/irfan-ansari-me)
 - [Pragin Martin](https://github.com/pragin)
+- [Will Cole](https://github.com/wcolejordan)
