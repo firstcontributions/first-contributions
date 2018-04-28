@@ -3529,3 +3529,4 @@
 - [Will Cole](https://github.com/wcolejordan)
 - [Divya Muralidharan](https://github.com/divya-muralidharan-a)
 - [Phoenix Campos](https://github.com/pacampos)
+- [Cesar Palacios](https://github.com/Clpalacios)
