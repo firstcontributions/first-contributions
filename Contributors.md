@@ -3522,3 +3522,4 @@
 - [Miriam Crowley](https://github.com/msperlgirl)
 - [Todd Hoffman](https://github.com/toddahoffman)
 - [spanderman](https://github.com/spanderman)
+- [alanbarretto](https://github.com/alanbarretto)
