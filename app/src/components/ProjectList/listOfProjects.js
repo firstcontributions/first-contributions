@@ -79,7 +79,7 @@ const projectList = [
     name: 'Suave',
     imageSrc: 'https://avatars2.githubusercontent.com/u/5822862?v=3&s=100',
     githubLink: 'https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy',
-    description: 'simple web development F# library to manipulate route flow and task composition.',
+    description: 'Simple web development F# library to manipulate route flow and task composition.',
     tags: ['F#', 'WebDev', 'Library'],
   }, {
     name: 'OpenRA',
@@ -139,7 +139,7 @@ const projectList = [
     imageSrc: 'https://avatars3.githubusercontent.com/u/3406112?v=3&s=100',
     githubLink:
       'https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22',
-    description: 'A Pocket-sized database.',
+    description: 'A pocket-sized database.',
     tags: ['JavaScript','Node.js','CouchDB'],
   }, {
     name: 'Neovim',
@@ -160,7 +160,7 @@ const projectList = [
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
     githubLink:
       'https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
-    description: 'Open source codebase and curriculum.',
+    description: 'Open Source codebase and curriculum.',
     tags: ['Learn', 'Education', 'Non-Profit', 'Certification'],
   }, {
     name: 'Node.js',
