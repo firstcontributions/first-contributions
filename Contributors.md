@@ -3533,3 +3533,4 @@
 - [Jonathan Guerrero](https://github.com/guerjon/first-contributions)
 - [John Yzaguirre](https://github.com/sojohnnysaid)
 - [YoungWook Baek](https://github.com/kywbaek)
+- [Jaythras](https://github.com/jaythras)
