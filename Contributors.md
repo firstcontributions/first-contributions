@@ -335,6 +335,7 @@
 - [shreya bhandare]( https://github.com/shreab373 )
 - [Lord Adarsh]( https://github.com/adarsh-why )
 - [Roshan Jossey]( https://github.com/Roshanjossey )
+- [Ray Al](https://github.com/ray4spd)
 - [Ujjwal](https://github.com/uforujjwal)
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
