@@ -3518,6 +3518,7 @@
 - [Manali Joshi](https://github.com/manalijoshi82)
 - [Irving Delgado](https://github.com/irving2delgado)
 - [Vulchi Vijaya Kumar](https://github.com/vulchivijayakumar)
+- [Patrick Peters](https://github.com/ppeters0502)
 - [Colten Webb](https://github.com/coltenwebb)
 - [Miriam Crowley](https://github.com/msperlgirl)
 - [Todd Hoffman](https://github.com/toddahoffman)
