@@ -3521,6 +3521,7 @@
 - [Colten Webb](https://github.com/coltenwebb)
 - [Miriam Crowley](https://github.com/msperlgirl)
 - [Todd Hoffman](https://github.com/toddahoffman)
+- [Dave Feucht](https://github.com/davefeucht)
 - [spanderman](https://github.com/spanderman)
 - [alanbarretto](https://github.com/alanbarretto)
 - [Sean Cunningham](https://github.com/kyorlin2001)
