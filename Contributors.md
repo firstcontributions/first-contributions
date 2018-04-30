@@ -1,4 +1,4 @@
-﻿- [acheeseye](https://github.com/acheeseye)
+- [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [Arel Clemente](https://github.com/arelC)
 - [LoveArie](https://github.com/LoveArie)
@@ -3558,3 +3558,4 @@
 - [riotstarter](https://github.com/riotstarter)
 - [Nabheet Madan](https://github.com/NabheetCloud)
 - [Tye Borden](https://github.com/WokeCoder)
+- [Julie Norris](https://github.com/julie-norris)
