@@ -3553,3 +3553,4 @@
 - [James Martin](https://github.com/jkekoamartin)
 - [Muhammad Kamal](https://github.com/mkamalkayani)
 - [Matt Lucrida](https://github.com/mlucrida)
+- [Sam Barranco](https://github.com/openloop)
