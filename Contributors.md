@@ -832,6 +832,7 @@
 - [Shahzad Mirza](https://github.com/shhzdmrz)
 - [Praneen Shakya](https://github.com/shakyapranin)
 - [Andrew Titmuss](https://github.com/iandrewt)
+- [Ian Brown](https://github.com/ir-brown)
 - [Shawn Quinn](https://github.com/shawnquinn)
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
