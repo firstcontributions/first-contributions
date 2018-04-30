@@ -3415,6 +3415,7 @@
 - [Jerry Noftz](https://github.com/jnoftz)
 - [Jean Enzbrenner](https://github.com/jeanenz)
 - [Yann Mulonda](https://github.com/YannMjl)
+- [Devaka Kumarasinghe](https://github.com/theyworker)
 - [Krishan Sharma](https://github.com/Krishan-Sharma)
 - [Shabin Hashim](https://github.com/shabin5785)
 - [riddhesh jani](https://github.com/ritz1711)
