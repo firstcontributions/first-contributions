@@ -1,4 +1,4 @@
-﻿- [acheeseye](https://github.com/acheeseye)
+- [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [Arel Clemente](https://github.com/arelC)
 - [LoveArie](https://github.com/LoveArie)
@@ -3558,3 +3558,7 @@
 - [riotstarter](https://github.com/riotstarter)
 - [Nabheet Madan](https://github.com/NabheetCloud)
 - [KamiZhan](https://github.com/KamiZhan)
+- [Tye Borden](https://github.com/WokeCoder)
+- [Julie Norris](https://github.com/julie-norris)
+- [Ankit Chouhan](https://github.com/ankitchouhan1020)
+- [Brandon Harrington](https://github.com/bh68484)
