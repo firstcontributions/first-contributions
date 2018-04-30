@@ -3557,6 +3557,7 @@
 - [zomblake](https://github.com/zomblake)
 - [riotstarter](https://github.com/riotstarter)
 - [Nabheet Madan](https://github.com/NabheetCloud)
+- [KamiZhan](https://github.com/KamiZhan)
 - [Tye Borden](https://github.com/WokeCoder)
 - [Julie Norris](https://github.com/julie-norris)
 - [Ankit Chouhan](https://github.com/ankitchouhan1020)
