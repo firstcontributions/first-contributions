@@ -3545,6 +3545,7 @@
 - [Kevin Villanueva](https://github.com/VillanuevaK)
 - [Rachel Liu](https://github.com/rachel98rl)
 - [Theo Niko](https://github.com/theoniko)
+- [Angie Hurley](https://github.com/lundencreative)
 - [Brian Short](https://github.com/brianshortnh)
 - [Vani Sancheti](https://github.com/vanisancheti)
 - [Mark Wentworth](https://github.com/MarkWent)
