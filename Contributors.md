@@ -3557,3 +3557,4 @@
 - [zomblake](https://github.com/zomblake)
 - [riotstarter](https://github.com/riotstarter)
 - [Nabheet Madan](https://github.com/NabheetCloud)
+- [KamiZhan](https://github.com/KamiZhan)
