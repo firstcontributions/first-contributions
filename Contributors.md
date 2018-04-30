@@ -1,4 +1,5 @@
-﻿- [Maximilian Sarter](https://github.com/rqd3)
+﻿- [acheeseye](https://github.com/acheeseye)
+- [Maximilian Sarter](https://github.com/rqd3)
 - [Arel Clemente](https://github.com/arelC)
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
@@ -3546,3 +3547,6 @@
 - [Brian Short](https://github.com/brianshortnh)
 - [Vani Sancheti](https://github.com/vanisancheti)
 - [Mark Wentworth](https://github.com/MarkWent)
+- [James Martin](https://github.com/jkekoamartin)
+- [Muhammad Kamal](https://github.com/mkamalkayani)
+- [Matt Lucrida](https://github.com/mlucrida)
