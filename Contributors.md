@@ -3570,4 +3570,5 @@
 - [Trigueiro Neto](https://github.com/grandtrigger)
 - [Katrice](https://github.com/kmwd306)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
-- [Sourobrata Sarkar](https://github.com/Souro7) 
+- [Sourobrata Sarkar](https://github.com/Souro7)
+- [Danya Pekarchuk](https://github.com/pinlast)
