@@ -2575,4 +2575,4 @@
 - [Harry BP](https://github.com/harrybp)
 - [Yash Sharma](https://github.com/Yashs744)
 - [George Tarnaras](https://github.com/georgedb)
-- Stefan
+- [Stefan Strut](https://github.com/StrStefan)
