@@ -3568,4 +3568,5 @@
 - [Sharad Vijalapuram](https://github.com/sharad-vm)
 - [Sean Carpenter](https://github.com/secarpenter)
 - [Trigueiro Neto](https://github.com/grandtrigger)
+- [Katrice](https://github.com/kmwd306)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
