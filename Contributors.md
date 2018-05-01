@@ -3571,3 +3571,4 @@
 - [Katrice](https://github.com/kmwd306)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
 - [Sourobrata Sarkar](https://github.com/Souro7) 
+- [Diego Palacios](https://github.com/diepala)
