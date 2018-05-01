@@ -3569,3 +3569,4 @@
 - [Sean Carpenter](https://github.com/secarpenter)
 - [Trigueiro Neto](https://github.com/grandtrigger)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
+- [Karmanya Kakkar](https://github.com/karmanya)
