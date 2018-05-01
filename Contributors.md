@@ -3566,3 +3566,4 @@
 - [Max Garber](https://github.com/bubblebooy)
 - [Nick Benevento](https://github.com/nickbenevento)
 - [Sharad Vijalapuram](https://github.com/sharad-vm)
+- [Sean Carpenter](https://github.com/secarpenter)
