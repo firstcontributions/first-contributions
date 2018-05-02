@@ -21,6 +21,7 @@
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
+- [Sabine Maennel](https://github.com/sabinem)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
 - [Alp Deveci](https://github.com/iceveda06)
 - [Thomas Lim](https://github.com/TrottPilgrim)
