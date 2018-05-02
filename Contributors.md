@@ -3582,3 +3582,4 @@
 - [Jack Roof](https://github.com/jroof88)
 - [Duane Shaffer](https://github.com/DuaneShaffer)
 - [Tiago Maia](https://github.com/tiagomvf)
+- [Jake Happersett](https://github.com/JakeHappersett)
