@@ -334,7 +334,7 @@ const projectList = [
     imageSrc: 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png',
     githubLink: 'https://github.com/kubernetes',
     description: 'Production-Grade Container Scheduling and Management',
-    tags: ['Go Language', 'HTML'],
+    tags: ['Go', 'Container','Orchestration],
   },
 ];
 export default projectList;
