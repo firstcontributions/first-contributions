@@ -3589,4 +3589,4 @@
 - [Whesley Barnard](https://github.com/whesleybarnard)
 - [JT Mark](https://github.com/JT-Mark)
 - [Jasper Chong](https://github.com/jasperchong)
-- [Emil Johansen](https://github.com/EmilOJ)
+- [Emil Ø. Johansen](https://github.com/EmilOJ)
