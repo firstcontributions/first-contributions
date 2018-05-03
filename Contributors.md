@@ -1,4 +1,4 @@
-﻿- [samneatherlin](https://github.com/sneatherlin)
+- [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
@@ -2609,3 +2609,4 @@
 - [André Rodrigues](https://github.com/ao-rodrigues)
 - [Juwan Petty](https://github.com/juwanpetty)
 - [Jon Hodgins](https://github.com/JonHodgins)
+- [Andrei Vulpe](https://github.com/AndreiVulpe)
