@@ -3571,7 +3571,7 @@
 - [Trigueiro Neto](https://github.com/grandtrigger)
 - [Katrice](https://github.com/kmwd306)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
-- [Sourobrata Sarkar](https://github.com/Souro7) 
+- [Sourobrata Sarkar](https://github.com/Souro7)
 - [Diego Palacios](https://github.com/diepala)
 - [Luciano Strika](https://github.com/strikingloo)
 - [Fatma Mohamed](https://github.com/fatma-mohamed)
@@ -3583,3 +3583,4 @@
 - [Duane Shaffer](https://github.com/DuaneShaffer)
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Jake Happersett](https://github.com/JakeHappersett)
+- [Sherin Binu](https://github.com/SherOnDale13)
