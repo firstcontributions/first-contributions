@@ -3583,3 +3583,4 @@
 - [Duane Shaffer](https://github.com/DuaneShaffer)
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Jake Happersett](https://github.com/JakeHappersett)
+- [Michael CHiang](https://github.com/mchiang9)
