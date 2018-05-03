@@ -3585,3 +3585,4 @@
 - [Jake Happersett](https://github.com/JakeHappersett)
 - [Sherin Binu](https://github.com/SherOnDale13)
 - [Nikica Maksimovski](https://github.com/NikicaCh)
+- [William Horn](https://github.com/williamh890)
