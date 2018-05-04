@@ -3591,3 +3591,4 @@
 - [Jasper Chong](https://github.com/jasperchong)
 - [Emil Ø. Johansen](https://github.com/EmilOJ)
 - [Doug Dozier](https://github.com/ddozier)
+- [Itanor Strapazzon](https://github.com/itanor)
