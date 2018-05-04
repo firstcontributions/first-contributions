@@ -3592,3 +3592,4 @@
 - [Emil Ø. Johansen](https://github.com/EmilOJ)
 - [Doug Dozier](https://github.com/ddozier)
 - [Itanor Strapazzon](https://github.com/itanor)
+- [Michael Eichenberger](https://github.com/MichaelE919)
