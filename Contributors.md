@@ -3590,3 +3590,4 @@
 - [JT Mark](https://github.com/JT-Mark)
 - [Jasper Chong](https://github.com/jasperchong)
 - [Emil Ø. Johansen](https://github.com/EmilOJ)
+- [Doug Dozier](https://github.com/ddozier)
