@@ -3606,3 +3606,4 @@
 - [Juan Rodriguez](https://github.com/timrodz)
 - [Ben Schoenfeldt](https://github.com/benscho)
 - [Dale Seo](https://github.com/DaleSeo)
+- [Sergio Barker](https://github.com/sbrycebarker)
