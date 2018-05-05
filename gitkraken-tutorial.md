@@ -99,7 +99,7 @@ If you go to your repository on github, you'll see  `Compare & pull request` but
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Resolve conflicts if any.
 
