@@ -3583,6 +3583,7 @@
 - [Michiel Jespers](https://github.com/MichielJespers)
 - [Aadarsh](https://github.com/aadarsh3996)
 - [Jack Roof](https://github.com/jroof88)
+- [Hal DiMarchi](https://github.com/hadimarchi)
 - [Duane Shaffer](https://github.com/DuaneShaffer)
 - [njw dev](https://github.com/njwdev)
 - [Tiago Maia](https://github.com/tiagomvf)
