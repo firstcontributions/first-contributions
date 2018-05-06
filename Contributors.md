@@ -3579,6 +3579,7 @@
 - [Fatma Mohamed](https://github.com/fatma-mohamed)
 - [Melissa Pabst](https://github.com/MelissaPabst)
 - [Kritika Jalan](https://github.com/Krithi07)
+- [Marcelo Macedo](https://github.com/marcelo3macedo)
 - [Sandeep Bais](https://github.com/sandbais)
 - [Michiel Jespers](https://github.com/MichielJespers)
 - [Aadarsh](https://github.com/aadarsh3996)
