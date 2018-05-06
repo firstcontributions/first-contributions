@@ -3579,6 +3579,7 @@
 - [Sophie M](https://github.com/S0f1eM)
 - [Fatma Mohamed](https://github.com/fatma-mohamed)
 - [Melissa Pabst](https://github.com/MelissaPabst)
+- [Adrian Anderson](https://github.com/devguru876)
 - [Kritika Jalan](https://github.com/Krithi07)
 - [Marcelo Macedo](https://github.com/marcelo3macedo)
 - [Sandeep Bais](https://github.com/sandbais)
