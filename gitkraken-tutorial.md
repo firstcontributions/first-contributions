@@ -86,16 +86,24 @@ Congratulations, you've commited changes to your local copy of your branch of yo
 
 Click the Push button on the toolbar.
 
+<img style="float: right;" src="assets/gk-origin.png" alt="origin or branch" />
+
+Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
+
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+
+Resolve conflicts if any.
+
+<img style="float: right;" src="assets/resolve-conflicts.png" alt="resolve conflicts" />
 
 Now I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
