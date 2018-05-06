@@ -3627,3 +3627,4 @@
 - [Marietta Akumbom](https://github.com/akumbommarietta)
 - [Oleksii R](https://github.com/oleksiiRybak)
 - [Andrei Vulpe](https://github.com/AndreiVulpe)
+- [Stefan Strut](https://github.com/StrStefan)
