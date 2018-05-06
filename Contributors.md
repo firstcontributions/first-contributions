@@ -3577,6 +3577,7 @@
 - [Fatma Mohamed](https://github.com/fatma-mohamed)
 - [Melissa Pabst](https://github.com/MelissaPabst)
 - [Kritika Jalan](https://github.com/Krithi07)
+- [Sandeep Bais](https://github.com/sandbais)
 - [Michiel Jespers](https://github.com/MichielJespers)
 - [Aadarsh](https://github.com/aadarsh3996)
 - [Jack Roof](https://github.com/jroof88)
