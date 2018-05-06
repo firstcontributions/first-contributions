@@ -3575,6 +3575,7 @@
 - [Trigueiro Neto](https://github.com/grandtrigger)
 - [Katrice](https://github.com/kmwd306)
 - [Nikos Kalomiris](https://github.com/nikalomiris)
+- [Michael CHiang](https://github.com/mchiang9)
 - [Danya Pekarchuk](https://github.com/pinlast)
 - [Karmanya Kakkar](https://github.com/karmanya)
 - [Sourobrata Sarkar](https://github.com/Souro7)
