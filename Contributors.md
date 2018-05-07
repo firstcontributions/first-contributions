@@ -3631,4 +3631,4 @@
 - [Stefan Strut](https://github.com/StrStefan)
 - [Nikhil Hegde](https://github.com/nikhilh-20)
 - [Ken Matsui](https://github.com/kenchalros)
-- [Brooke Wittenberg](https://github.com/brooksquil)
+- [Brooke Wittenber](https://github.com/brooksquil)
