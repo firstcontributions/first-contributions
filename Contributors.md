@@ -51,6 +51,7 @@
 - [William Brocker](https://github.com/bbrocker)
 - [pku](https://github.com/pkugithub)
 - [Bruno Pinto](https://github.com/brcjsp)
+- [Nyatt Isaias](https://github.com/nyattisaias)
 =======
 >>>>>>> a6d836e3621779ff2d6f0472f5efd9b18420fb7b
 - [samneatherlin](https://github.com/sneatherlin)
