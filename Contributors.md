@@ -3635,3 +3635,4 @@
 - [Rahul](https://github.com/RahulReddy75)
 - [Rani Rawat](https://github.com/ranirawat)
 - [Alex Yanovsky](https://github.com/ayanovsk)
+- [Juan C. Vilarrubia](https://github.com/jucavi)
