@@ -3639,3 +3639,4 @@
 - [Juan C. Vilarrubia](https://github.com/jucavi)
 - [Gregory Vinyard](https://github.com/gregvinyard)
 - [Daniel Berryman](https://github.com/danielberryman)
+- [Kristina Grigaityte](https://github.com/kgrigaityte)
