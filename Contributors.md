@@ -3636,3 +3636,4 @@
 - [Rani Rawat](https://github.com/ranirawat)
 - [Alex Yanovsky](https://github.com/ayanovsk)
 - [Juan C. Vilarrubia](https://github.com/jucavi)
+- [Gregory Vinyard](https://github.com/gregvinyard)
