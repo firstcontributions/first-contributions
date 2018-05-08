@@ -3626,6 +3626,7 @@
 - [Marietta Akumbom](https://github.com/akumbommarietta)
 - [Oleksii R](https://github.com/oleksiiRybak)
 - [Andrei Vulpe](https://github.com/AndreiVulpe)
+- [Archit Checker](https://github.com/checker5965)
 - [Stefan Strut](https://github.com/StrStefan)
 - [Nikhil Hegde](https://github.com/nikhilh-20)
 - [Ken Matsui](https://github.com/kenchalros)
