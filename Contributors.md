@@ -3630,6 +3630,7 @@
 - [Stefan Strut](https://github.com/StrStefan)
 - [Nikhil Hegde](https://github.com/nikhilh-20)
 - [Ken Matsui](https://github.com/kenchalros)
+- [Cainan Mahar](https://github.com/cainanmahar)
 - [Brooke Wittenber](https://github.com/brooksquil)
 - [Rahul](https://github.com/RahulReddy75)
 - [Rani Rawat](https://github.com/ranirawat)
