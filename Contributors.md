@@ -3659,3 +3659,4 @@
 - [Vladut Muresan](https://github.com/yoomury)
 - [Ericsupreme](https://github.com/ericsupreme)
 - [Jazilch](https://github.com/Jazilch)
+- [Devin Dodson](https://github.com/trambopoline)
