@@ -1,4 +1,4 @@
-- [Caleb Powell](https://github.com/Caleb-Powell)
+﻿- [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
@@ -3639,6 +3639,7 @@
 - [Daniel Berryman](https://github.com/danielberryman)
 - [Kristina Grigaityte](https://github.com/kgrigaityte)
 - [Christopher Pennington](https://github.com/Eaglefan4life)
+- [Jonathan Xu](https://github.com/JonathanXu1)
 - [Frank Hancock](https://github.com/FrankJWH)
 - [Jalen Springfield] (https://github.com/JalenSpringfield)
 - [Mohit Sharma](https://github.com/xxholyChalicexx)
