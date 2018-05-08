@@ -1,4 +1,4 @@
-- [Caleb Powell](https://github.com/Caleb-Powell)
+﻿- [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
@@ -3642,3 +3642,4 @@
 - [Kristina Grigaityte](https://github.com/kgrigaityte)
 - [Christopher Pennington](https://github.com/Eaglefan4life)
 - [Frank Hancock](https://github.com/FrankJWH)
+- [Mason Clarke](https://github.com/masonclarke24)
