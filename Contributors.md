@@ -3643,6 +3643,7 @@
 - [Christopher Pennington](https://github.com/Eaglefan4life)
 - [Jonathan Xu](https://github.com/JonathanXu1)
 - [Frank Hancock](https://github.com/FrankJWH)
+- [Mason Clarke](https://github.com/masonclarke24)
 - [Jalen Springfield] (https://github.com/JalenSpringfield)
 - [Mohit Sharma](https://github.com/xxholyChalicexx)
 - [Audrius Simpukas](https://github.com/ChaplinHouse)
