@@ -1,4 +1,4 @@
-﻿- [Caleb Powell](https://github.com/Caleb-Powell)
+- [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
@@ -52,8 +52,6 @@
 - [pku](https://github.com/pkugithub)
 - [Bruno Pinto](https://github.com/brcjsp)
 - [Nyatt Isaias](https://github.com/nyattisaias)
-=======
->>>>>>> a6d836e3621779ff2d6f0472f5efd9b18420fb7b
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
@@ -2680,7 +2678,6 @@
 - [Andr? Rodrigues](https://github.com/ao-rodrigues)
 - [Juwan Petty](https://github.com/juwanpetty)
 - [Jon Hodgins](https://github.com/JonHodgins)
-<<<<<<< HEAD
 - [Peter Vlasveld](https://github.com/Fizzizist)
 - [Jon Mabale](https://github.com/jonmabale)
 - [Kat Batuigas](https://github.com/kbatuigas)
@@ -3637,6 +3634,7 @@
 - [Rani Rawat](https://github.com/ranirawat)
 - [Alex Yanovsky](https://github.com/ayanovsk)
 - [Juan C. Vilarrubia](https://github.com/jucavi)
+- [Krishan](https://github.com/krishan-kataria)
 - [Gregory Vinyard](https://github.com/gregvinyard)
 - [Daniel Berryman](https://github.com/danielberryman)
 - [Kristina Grigaityte](https://github.com/kgrigaityte)
@@ -3645,3 +3643,4 @@
 - [Jalen Springfield] (https://github.com/JalenSpringfield)
 - [Mohit Sharma](https://github.com/xxholyChalicexx)
 - [Anshu S Panda](https://github.com/asp2809)
+- [Kseang Tan](https://github.com/s1lent92)
