@@ -3651,5 +3651,6 @@
 - [Kseang Tan](https://github.com/s1lent92)
 - [Meghna Srivastava](https://github.com/meghna-saxena)
 - [Andrew Karpyn](https://github.com/Twinkle942910)
+- [Jake Wags](https://github.com/JakeWags)
 - [Eamonn Daley](https://github.com/edaley5177)
 - [Eddy Martinez](https://github.com/Eddymh)
