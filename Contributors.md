@@ -1,4 +1,5 @@
-﻿- [Adithya Menon](https://github.com/adithyamenon)
+- [Brian Wahome](https://github.com/GitWahome)
+- [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
