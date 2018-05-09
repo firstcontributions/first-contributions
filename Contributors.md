@@ -3660,3 +3660,6 @@
 - [Ericsupreme](https://github.com/ericsupreme)
 - [Jazilch](https://github.com/Jazilch)
 - [Leonardo Werk](htttps://github.com/leowerk)
+- [Devin Dodson](https://github.com/trambopoline)
+- [Darryl Paul](https://github.com/darrylpaul)
+- [Adji Kuncoro Bhangun](https://github.com/adjiesusanti)
