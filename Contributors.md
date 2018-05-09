@@ -3663,3 +3663,4 @@
 - [Devin Dodson](https://github.com/trambopoline)
 - [Darryl Paul](https://github.com/darrylpaul)
 - [Adji Kuncoro Bhangun](https://github.com/adjiesusanti)
+- [Kamal Laungani](https://github.com/launganik)
