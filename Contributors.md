@@ -3660,3 +3660,4 @@
 - [Ericsupreme](https://github.com/ericsupreme)
 - [Jazilch](https://github.com/Jazilch)
 - [Devin Dodson](https://github.com/trambopoline)
+- [Darryl Paul](https://github.com/darrylpaul)
