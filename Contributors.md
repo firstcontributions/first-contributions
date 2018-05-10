@@ -1,4 +1,4 @@
-- [Toby Chow](https://github.com/tobychow)
+﻿- [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
 - [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
@@ -3682,3 +3682,5 @@
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [Preethi Vallam](https://github.com/preethidv)
+
