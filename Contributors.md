@@ -1,3 +1,4 @@
+- [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
 - [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
