@@ -3677,3 +3677,4 @@
 - [Ricky Colson](https://github.com/rickycolson)
 - [Ali Hassan](https://github.com/opllama2)
 - [Sully Dev](https://github.com/maXi-star)
+- [Theo Messenger-Jones](https://github.com/theomjones)
