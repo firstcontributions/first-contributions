@@ -3697,3 +3697,4 @@
 - [Connor C](https://github.com/TheConnorC)
 - [Bryan Mierdel](https://github.com/bmierdel)
 - [William Dana](https://github.com/wbdana)
+- [Brandon Gant](https://github.com/bgant)
