@@ -3682,3 +3682,4 @@
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [Uriel from Mexico] (https://github.com/urielmx/)
