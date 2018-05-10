@@ -3672,3 +3672,6 @@
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
 - [Jacob Zwickler](https://github.com/Zwiqler94)
+- [Steve Pickering](https://github.com/spickering-git)
+- [Aaron Loomis](https://github.com/aloomis85419)
+- [Ricky Colson](https://github.com/rickycolson)
