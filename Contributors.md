@@ -3696,3 +3696,4 @@
 - [Jeff Garcia](https://github.com/jgarciabu)
 - [Connor C](https://github.com/TheConnorC)
 - [Bryan Mierdel](https://github.com/bmierdel)
+- [William Dana](https://github.com/wbdana)
