@@ -3672,6 +3672,7 @@
 - [Andrew Rekko](https://github.com/arekko)
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
+- [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Carolina Ceja](https://github.com/cejac)
 - [Suraj Shah](https://github.com/sshah98)
