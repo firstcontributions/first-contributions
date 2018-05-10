@@ -3691,3 +3691,5 @@
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [Uriel from Mexico](https://github.com/urielmx/)
+- [Loek Janssen](https://github.com/ljspeltdutch)
