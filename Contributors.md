@@ -3680,3 +3680,4 @@
 - [Sully Dev](https://github.com/maXi-star)
 - [Theo Messenger-Jones](https://github.com/theomjones)
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
+- [Damiyr Leonard](https://github.com/damidre)
