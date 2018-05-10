@@ -3695,3 +3695,4 @@
 - [Loek Janssen](https://github.com/ljspeltdutch)
 - [Jeff Garcia](https://github.com/jgarciabu)
 - [Connor C](https://github.com/TheConnorC)
+- [Bryan Mierdel](https://github.com/bmierdel)
