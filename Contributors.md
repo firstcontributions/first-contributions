@@ -3678,6 +3678,7 @@
 - [Aaron Loomis](https://github.com/aloomis85419)
 - [Ricky Colson](https://github.com/rickycolson)
 - [Ali Hassan](https://github.com/opllama2)
+- [Sagar Vrajalal](https://github.com/S4G4R)
 - [Sully Dev](https://github.com/maXi-star)
 - [Theo Messenger-Jones](https://github.com/theomjones)
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
