@@ -3671,6 +3671,7 @@
 - [kola014](https://github.com/kola014)
 - [Andrew Rekko](https://github.com/arekko)
 - [Pablo Rivas](https://github.com/pmrivas)
+- [Olli Hanhimaki](https://github.com/ohanhimaki)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
