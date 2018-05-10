@@ -3689,3 +3689,4 @@
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [Zoe Katz](https://github.com/zoenkatz)
