@@ -1,3 +1,4 @@
+- [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
 - [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
