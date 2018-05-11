@@ -3674,6 +3674,7 @@
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
+- [Andrew Juby](https://github.com/juby)
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Carolina Ceja](https://github.com/cejac)
