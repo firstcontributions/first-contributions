@@ -1,4 +1,4 @@
-- [Amarsingh Pardeshi](https://github.com/amarsiingh)
+﻿- [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
 - [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
@@ -3714,3 +3714,4 @@
 - [Renato Porto](https://github.com/PortoRAF)
 - [Brian Cecil](https://github.com/brian-c-cecil)
 - [Ishan Ojha](https://github.com/ozishan91)
+- [Ayal Pelc](https://github.com/AyalPelc)
