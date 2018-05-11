@@ -1,3 +1,4 @@
+- [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
 - [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
@@ -3710,4 +3711,6 @@
 - [Purva Udai Singh](https://github.com/purvaudai)
 - [Erwinson Mesa](https://github.com/erwinsonljc)
 - [Stephen Ringl](https://github.com/seringl)
+- [Renato Porto](https://github.com/PortoRAF)
+- [Brian Cecil](https://github.com/brian-c-cecil)
 - [Maria Gabriela Guarecuco](https://github.com/katsari)
