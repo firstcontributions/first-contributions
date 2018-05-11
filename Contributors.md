@@ -3699,6 +3699,7 @@
 - [Jeff Garcia](https://github.com/jgarciabu)
 - [Connor C](https://github.com/TheConnorC)
 - [Bryan Mierdel](https://github.com/bmierdel)
+- [Cong Do Nguyen](https://github.com/donguyencong)
 - [William Dana](https://github.com/wbdana)
 - [Brandon Gant](https://github.com/bgant)
 - [Bradford Swanson](https://github.com/bradfordswanson)
