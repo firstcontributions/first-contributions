@@ -3691,6 +3691,7 @@
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [Zoe Katz](https://github.com/zoenkatz)
 - [Uriel from Mexico](https://github.com/urielmx/)
 - [Loek Janssen](https://github.com/ljspeltdutch)
 - [Jeff Garcia](https://github.com/jgarciabu)
