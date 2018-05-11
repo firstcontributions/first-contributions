@@ -3690,6 +3690,7 @@
 - [Sagar Vrajalal](https://github.com/S4G4R)
 - [Sully Dev](https://github.com/maXi-star)
 - [Theo Messenger-Jones](https://github.com/theomjones)
+- [Tony Afula](https://github.com/neoliteconsultant)
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
