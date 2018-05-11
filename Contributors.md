@@ -3711,3 +3711,4 @@
 - [Erwinson Mesa](https://github.com/erwinsonljc)
 - [Stephen Ringl](https://github.com/seringl)
 - [Renato Porto](https://github.com/PortoRAF)
+- [Brian Cecil](https://github.com/brian-c-cecil)
