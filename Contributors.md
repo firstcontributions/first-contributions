@@ -3670,6 +3670,7 @@
 - [Kamal Laungani](https://github.com/launganik)
 - [kola014](https://github.com/kola014)
 - [Andrew Rekko](https://github.com/arekko)
+- [Samantha Ramos](https://github.com/samr26)
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
