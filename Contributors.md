@@ -3699,3 +3699,4 @@
 - [William Dana](https://github.com/wbdana)
 - [Brandon Gant](https://github.com/bgant)
 - [Bradford Swanson](https://github.com/bradfordswanson)
+- [Drew Hayward](https://github.com/drewhayward)
