@@ -1,3 +1,4 @@
+- [Dara Carolan](https://github.com/daraclare)
 - [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
 - [Adithya Menon](https://github.com/adithyamenon)
@@ -3689,6 +3690,7 @@
 - [Sagar Vrajalal](https://github.com/S4G4R)
 - [Sully Dev](https://github.com/maXi-star)
 - [Theo Messenger-Jones](https://github.com/theomjones)
+- [Tony Afula](https://github.com/neoliteconsultant)
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
@@ -3705,3 +3707,5 @@
 - [Bradford Swanson](https://github.com/bradfordswanson)
 - [Pranavi Dadireddy](https://github.com/PranaviDadireddy)
 - [Abin Paul](https://github.com/abinpaul1)
+- [Purva Udai Singh](https://github.com/purvaudai)
+- [Erwinson Mesa](https://github.com/erwinsonljc)
