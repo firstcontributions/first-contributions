@@ -45,7 +45,7 @@ Now create a branch by clicking on the "Current branch" icon at the top and then
 
 <img style="left;" src="assets/dt1-create-branch.png" alt="make a branch" />
 
-Name your branch add-your-name. For example, add-crawleya
+Name your branch add-your-name. For example, add-james-smith
 
 <img style="left;" src="assets/dt1-create-branch-name.png" alt="name your branch" />
 
@@ -71,27 +71,27 @@ Replace `<your-name>` with your name
 
 Click on the button that says `Commit to add-your-name`
 
-<img style="float: right;" src="assets/dt-commit1.png" alt="commit your changes" />
+<img style="left;" src="assets/dt1-commit1.png" alt="commit your changes" />
 
 At the bottom, you can see that the commit has been created.
 
-<img style="float: right;" src="assets/dt-commit2.png" alt="commit your changes" />
+<img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
 
 ## Push changes to github
 
 Click the `Publish` button on the top right.
 
-<img style="float: right;" src="assets/dt-publish1.png" alt="push your changes" />
+<img style="left;" src="assets/dt1-publish1.png" alt="push your changes" />
 
 ## Submit your changes for review
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="left;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="left;" src="assets/submit-pull.png" alt="submit pull request" />
 
 ## Keeping your fork synced with this repository
 
@@ -99,15 +99,15 @@ Now I'll be merging all your changes into the master branch of this project. You
 
 In order to keep your fork synced with mine, click `Sync` on the top right.
 
-<img style="float: right;" src="assets/dt-sync.png" alt="sync" />
+<img style="left;" src="assets/dt-sync.png" alt="sync" />
 
 When there are new commits to sync, click `Update from Roshanjossey/master`
 
-<img style="float: right;" src="assets/dt-sync2.png" alt="sync" />
+<img style="left;" src="assets/dt-sync2.png" alt="sync" />
 
 Hovering over `Update from Roshanjossey/master` will show you that you are up to date:
 
-<img style="float: right;" src="assets/dt-sync3.png" alt="sync" />
+<img style="left;" src="assets/dt-sync3.png" alt="sync" />
 
 ## Tutorials Using Other Tools
 
