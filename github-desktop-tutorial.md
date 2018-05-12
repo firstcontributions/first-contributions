@@ -97,21 +97,40 @@ Now submit the pull request.
 
 <img style="left;" src="assets/submit-pull.png" alt="submit pull request" />
 
-## Keeping your fork synced with this repository
+You have now sucessfully completeed your first github source code update. Please give yourself a pat in the back. :) 
+
+## Keeping your fork synced with this repository (Optional)
 
 Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
 
-In order to keep your fork synced with mine, click `Sync` on the top right.
+In order to keep your fork synced with mine, go to github.com and go to your fork.
 
-<img style="left;" src="assets/dt-sync.png" alt="sync" />
+You'll see that your fork is several commits behind of Roshanjossey:master.
 
-When there are new commits to sync, click `Update from Roshanjossey/master`
+Now click on "New pull request" on your fork. 
 
-<img style="left;" src="assets/dt-sync2.png" alt="sync" />
+IMPORTANT: YOU HAVE TO DO THIS ON YOUR FORK, NOT ON THE ORIGINAL FORK.
 
-Hovering over `Update from Roshanjossey/master` will show you that you are up to date:
+<img style="left;" src="assets/dt1-new-pull.png" alt="new pull request" />
 
-<img style="left;" src="assets/dt-sync3.png" alt="sync" />
+When you are there, make sure Roshan's fork is on the right and your fork on the left. If not change it manually. And then click `Create Pull Request`
+
+<img style="left;" src="assets/dt1-create-pull-request.png" alt="sync" />
+
+Type the title "Update Original" for your pull and click on `Create pull request`
+
+<img style="left;" src="assets/dt1-update-original.png" alt="sync" />
+
+
+Scroll down and click on `Merge pull request`
+
+<img style="left;" src="assets/dt1-merge-pull.png" alt="sync" />
+
+Click on `Confirm Merge`
+
+<img style="left;" src="assets/dt1-confirm-pull.png" alt="sync" />
+
+You have now synced with Roshan's fork. 
 
 ## Tutorials Using Other Tools
 
