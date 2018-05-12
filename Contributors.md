@@ -3728,3 +3728,4 @@
 - [Aman Singhal](https://github.com/singhalaman007)
 - [Abhinav Chawla](https://github.com/abhinavchawla07)
 - [Kasidit (Kass) Ouitayakul](https://github.com/kouitayakul)
+- [Waqar Mohammad](https://github.com/waqardm)
