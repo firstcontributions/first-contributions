@@ -1,4 +1,5 @@
-﻿- [Amarsingh Pardeshi](https://github.com/amarsiingh)
+- [Linus Young](https://github.com/st4rgut22)
+- [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
 - [Toby Chow](https://github.com/tobychow)
 - [Brian Wahome](https://github.com/GitWahome)
