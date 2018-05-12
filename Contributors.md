@@ -3711,6 +3711,8 @@
 - [Abin Paul](https://github.com/abinpaul1)
 - [Purva Udai Singh](https://github.com/purvaudai)
 - [Erwinson Mesa](https://github.com/erwinsonljc)
+- [Stephen Ringl](https://github.com/seringl)
+- [Drew Hayward](https://github.com/drewhayward)
 - [primaveraentalca](https://gitub.com/primaveraentalca)
 - [Stephen Ringl](https://github.com/seringl)
 - [Aakanksha Dhurandhar](https://github.com/aakankshadhurandhar)
