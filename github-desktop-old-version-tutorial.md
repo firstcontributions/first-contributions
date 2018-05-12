@@ -23,41 +23,35 @@ This will create of copy of this repository in your account.
 
 Now clone this repo to your machine.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it. 
+Open the GitHub Desktop app and click on the `+` on the top left.
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop"
+<img style="float: right;" src="assets/dt-clone1.png" alt="clone this repository" />
 
-<img style="left;" src="assets/dt1-clonetodesktop.png" alt="clone this repository" />
+If it is not already selected, click on `Clone`. Then choose first-contributions and then click on `Clone first-contributions`
 
-A pop up window will open. Click on "Open GitHubDesktop.exe"
+<img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-<img style="left;" src="assets/dt1-open-githubdesktop.png" alt="clone this repository" />
+Choose the directory on your machine you would like to clone first-contributions into 
 
-After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
-
-<img style="left;" src="assets/dt1-downloaded.png" alt="clone this repository" />
+<img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
 ## Create a branch
 
-Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
+Now create a branch by clicking on the branch icon at the top left:
 
-<img style="left;" src="assets/dt1-create-branch.png" alt="make a branch" />
+<img style="float: right;" src="assets/dt-branch1.png" alt="make a branch" />
 
 Name your branch add-your-name. For example, add-crawleya
 
-<img style="left;" src="assets/dt1-create-branch-name.png" alt="name your branch" />
+Click on `Create new branch`
 
-Click on `Create branch`
+<img style="float: right;" src="assets/dt-branch2.png" alt="name your branch" />
 
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
-
-Example: If your name is James Smith, It should look like this.
-
-\[James Smith] (https://github.com/jamessmith)
 
 You can see that there are changes to Contributors.md and they have been added.
 
