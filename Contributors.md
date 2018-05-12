@@ -3731,3 +3731,4 @@
 - [Kasidit (Kass) Ouitayakul](https://github.com/kouitayakul)
 - [Waqar Mohammad](https://github.com/waqardm)
 - [Igor B](https://github.com/Luckybox59)
+- [Philipp Adams](https://github.com/thebeardedbackpacker)
