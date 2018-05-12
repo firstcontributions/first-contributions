@@ -61,7 +61,7 @@ Example: If your name is James Smith, It should look like this.
 
 You can see that there are changes to Contributors.md and they have been added.
 
-<img style="float: right;" src="assets/dt-status.png" alt="check status" />
+<img style="left;" src="assets/dt1-status.png" alt="check status" />
 
 Now commit those changes:
 
