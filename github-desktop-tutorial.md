@@ -53,13 +53,13 @@ Click on `Create branch`
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+Now open `Contributors.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file. 
 
 Example: If your name is James Smith, It should look like this.
 
 \[James Smith] (https://github.com/jamessmith)
 
-You can see that there are changes to Contributors.md and they have been added.
+You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
 <img style="left;" src="assets/dt1-status.png" alt="check status" />
 
@@ -78,6 +78,10 @@ At the bottom, you can see that the commit has been created.
 <img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
 
 ## Push changes to github
+
+Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+
+<img style="left;" src="assets/dt1-sign-in.png" alt="log-in to Github" />
 
 Click the `Publish` button on the top right.
 
