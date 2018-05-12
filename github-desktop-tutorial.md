@@ -97,7 +97,7 @@ Now submit the pull request.
 
 <img style="left;" src="assets/submit-pull.png" alt="submit pull request" />
 
-You have now sucessfully completeed your first github source code update. Please give yourself a pat in the back. :) 
+You have now successfully completed your first github source code update. Please give yourself a pat in the back. :) 
 
 ## Keeping your fork synced with this repository (Optional)
 
