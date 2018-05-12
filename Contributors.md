@@ -3714,6 +3714,7 @@
 - [Stephen Ringl](https://github.com/seringl)
 - [Renato Porto](https://github.com/PortoRAF)
 - [Brian Cecil](https://github.com/brian-c-cecil)
+- [Maria Gabriela Guarecuco](https://github.com/katsari)
 - [Ishan Ojha](https://github.com/ozishan91)
 - [Ayal Pelc](https://github.com/AyalPelc)
 - [yelkaets](https://github.com/yelkaets)
