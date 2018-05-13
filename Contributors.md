@@ -1,4 +1,4 @@
-﻿- [vikas sharma](https://github.com/vikassharma1999)
+- [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
