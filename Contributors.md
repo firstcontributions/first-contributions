@@ -1,3 +1,4 @@
+- Stefan
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
@@ -3148,7 +3149,6 @@
 - [Raj Kumar](https://github.com/rajcrk)
 - [Kathy Wu](https://github.com/fluffytree)
 - [Mohammad Hosseini](https://github.com/mohammadh73)
-- ...My try...
 - [Srishti Yadav](https://github.com/copperwiring)
 - [Shruti Harihar](https://github.com/ShrutiHarihar)
 - [Carlos Valdez](https://github.com/IronValdez)
@@ -3474,7 +3474,6 @@
 - [B Wei](https://github.com/B-Wei)
 - [Rahul Raj](https://github.com/rahul-raj/)
 - [Dipika Bhattacharya](https://github.com/dipikabh)
-- Stefan
 - [Krthick Natarajan](https://github.com/karthickrajan81/)
 - [Ajinkya Mulay](https://github.com/aji2828)
 - [Niclas Wimmerstedt](https://github.com/niwim)
@@ -3694,6 +3693,7 @@
 - [Sully Dev](https://github.com/maXi-star)
 - [Theo Messenger-Jones](https://github.com/theomjones)
 - [Tony Afula](https://github.com/neoliteconsultant)
+- [Lakisha Johnson](https://github.com/lakishaj)
 - [Gabby Josebachvili](https://github.com/Gabbyjose)
 - [Damiyr Leonard](https://github.com/damidre)
 - [Bikash Jaiswal](https://github.com/bjjaiswal)
