@@ -1,4 +1,4 @@
-- [vikas sharma](https://github.com/vikassharma1999)
+﻿- [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
@@ -3736,3 +3736,4 @@
 - [George](https://github.com/george-wicked)
 - [Guilherme Mattiello](https://github.com/guimattiello)
 - [Henrique Neves da Silva] (https://github.com/neves01)
+- [Ariel Shaked](https://github.com/Nolshine)
