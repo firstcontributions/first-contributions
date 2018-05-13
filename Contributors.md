@@ -3733,6 +3733,7 @@
 - [Igor B](https://github.com/Luckybox59)
 - [Philipp Adams](https://github.com/thebeardedbackpacker)
 - [Shanu Singh](https://github.com/SinghShanu)
+- [Staci Holmes](https://github.com/Stacihs)
 - [George](https://github.com/george-wicked)
 - [Guilherme Mattiello](https://github.com/guimattiello)
 - [Henrique Neves da Silva](https://github.com/neves01)
