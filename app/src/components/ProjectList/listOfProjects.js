@@ -328,13 +328,13 @@ const projectList = [
     imageSrc:'http://hoodiehq.github.io/hoodie-css/src/content_img/animals/low-profile-dog-3.png',
     githubLink:'https://github.com/hoodiehq',
     description:'Provides offline backend support for apps you have created',
-    tags:['Web development','user-friendly']
+    tags:['Web development','User-Friendly']
   },
   {
     name:'Systers',
     imageSrc:'https://avatars3.githubusercontent.com/u/6520415?s=200&v=4',
     githubLink:'https://github.com/systers',
-    description:'Helping women find their potential in code',
+    description:'Helping women find their potential in code.',
     tags:['Python','Java','Swift','Javascript','HTML']
   },
   {
