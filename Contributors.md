@@ -3748,3 +3748,4 @@
 - [InsignificantSpeck](https://github.com/InsignificantSpeck)
 - [Syed Zulqarnain](https://github.com/Shah14)
 - [Jake Hemmerle](https://github.com/JakeHemmerle)
+- [Trent Murchison](https://github.com/murchiosn)
