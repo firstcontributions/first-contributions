@@ -3738,6 +3738,7 @@
 - [Staci Holmes](https://github.com/Stacihs)
 - [George](https://github.com/george-wicked)
 - [Guilherme Mattiello](https://github.com/guimattiello)
+- [Jonathan E](https://github.com/JE-)
 - [Henrique Neves da Silva](https://github.com/neves01)
 - [Ariel Shaked](https://github.com/Nolshine)
 - [Kendrick Ang](https://github.com/KendrickAng)
