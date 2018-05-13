@@ -1,4 +1,4 @@
-﻿- Stefan
+- Stefan
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
@@ -3741,3 +3741,6 @@
 - [Ariel Shaked](https://github.com/Nolshine)
 - [Kendrick Ang](https://github.com/KendrickAng)
 - [Roman Bebenin](https://github.com/RomanBebenin)
+- [Vishal R](https://github.com/BBloggsbott)
+- [Steve Martin](https://github.com/stevemartin87)
+- [InsignificantSpeck](https://github.com/InsignificantSpeck)
