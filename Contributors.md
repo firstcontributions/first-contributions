@@ -3736,3 +3736,4 @@
 - [George](https://github.com/george-wicked)
 - [Guilherme Mattiello](https://github.com/guimattiello)
 - [Henrique Neves da Silva] (https://github.com/neves01)
+- [Jonathan E](https://github.com/JE-)
