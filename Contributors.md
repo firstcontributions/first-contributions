@@ -3737,3 +3737,4 @@
 - [Guilherme Mattiello](https://github.com/guimattiello)
 - [Henrique Neves da Silva] (https://github.com/neves01)
 - [Kendrick Ang](https://github.com/KendrickAng)
+- [Ricardo Brambila Mussi](https://github.com/rickmussi)
