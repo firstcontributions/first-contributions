@@ -3734,3 +3734,8 @@
 - [Philipp Adams](https://github.com/thebeardedbackpacker)
 - [Shanu Singh](https://github.com/SinghShanu)
 - [Staci Holmes](https://github.com/Stacihs)
+- [George](https://github.com/george-wicked)
+- [Guilherme Mattiello](https://github.com/guimattiello)
+- [Henrique Neves da Silva](https://github.com/neves01)
+- [Ariel Shaked](https://github.com/Nolshine)
+- [Kendrick Ang](https://github.com/KendrickAng)
