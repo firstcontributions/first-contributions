@@ -350,6 +350,13 @@ const projectList = [
     githubLink:'https://github.com/npm',
     description:'Npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.',
     tags:['Javascript','Shell','CSS','HTML','Rust']
+  },
+  {
+    name:'openEBS',
+    imageSrc:'https://avatars1.githubusercontent.com/u/20769039?s=200&v=4',
+    githubLink:'https://github.com/openebs/',
+    description:'OpenEBS is an open source storage platform that provides persistent and containerized  block storage for DevOps and container environments.',
+    tags:['Containers','DevOps','Go']
   }
   
   
