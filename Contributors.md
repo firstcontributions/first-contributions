@@ -1,3 +1,4 @@
+- [Sagar Bansal](https://github.com/sagban)
 - Stefan
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
@@ -3759,3 +3760,7 @@
 - [Pranav Maheshwari](https://github.com/Blazing-Loris)
 - [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
 - [Guilherme de Lemos](https://github.com/guilhermedelemos)
+- [ed-lev](https://github.com/EduardLev)
+- [Trshant](https://github.com/Trshant)
+- [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
+- [Brett Goldfine](https://github.com/brettzg)
