@@ -1,4 +1,4 @@
-﻿f- Stefan
+- Stefan
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
@@ -3738,6 +3738,8 @@
 - [Staci Holmes](https://github.com/Stacihs)
 - [George](https://github.com/george-wicked)
 - [Guilherme Mattiello](https://github.com/guimattiello)
+- [Kendrick Ang](https://github.com/KendrickAng)
+- [Ricardo Brambila Mussi](https://github.com/rickmussi)
 - [Jonathan E](https://github.com/JE-)
 - [Henrique Neves da Silva](https://github.com/neves01)
 - [Ariel Shaked](https://github.com/Nolshine)
@@ -3753,3 +3755,5 @@
 - [Garret Sweetwood](https://github.com/gsweetwood)
 - [Connor Virzi](https://github.com/cvirzi-1)
 - [Shammah Agwor](https://github.com/zealsham/)
+- [Pranav Maheshwari](https://github.com/Blazing-Loris)
+- [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
