@@ -3751,3 +3751,4 @@
 - [Jake Hemmerle](https://github.com/JakeHemmerle)
 - [Trent Murchison](https://github.com/murchiosn)
 - [Garret Sweetwood](https://github.com/gsweetwood)
+- [Connor Virzi](https://github.com/cvirzi-1)
