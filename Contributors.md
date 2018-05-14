@@ -3754,6 +3754,7 @@
 - [Trent Murchison](https://github.com/murchiosn)
 - [Garret Sweetwood](https://github.com/gsweetwood)
 - [Connor Virzi](https://github.com/cvirzi-1)
+- [Rakesh Singh](https://github.com/raksingh)
 - [Shammah Agwor](https://github.com/zealsham/)
 - [Pranav Maheshwari](https://github.com/Blazing-Loris)
 - [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
