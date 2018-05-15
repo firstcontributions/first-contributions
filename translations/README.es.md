@@ -102,7 +102,7 @@ Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch d
 
 ## ¿A dónde ir desde aquí?
 
-Celebra tu contribución y compártela con tus amigos y seguidores iendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 También podrías unirte a nuestro *equipo* Slack en caso de que necesites alguna ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://firstcontributions.herokuapp.com)
 

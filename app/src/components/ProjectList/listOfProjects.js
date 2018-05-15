@@ -25,7 +25,7 @@ const projectList = [
     githubLink:
       'https://github.com/habitat-sh/habitat/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-Easy',
     description: 'Modern applications with built-in automation',
-    tags: ['Docs','Front-End','Rust','MultiOS'],
+    tags: ['Docs', 'Front-End', 'Rust', 'MultiOS'],
   }, {
     name: 'Scikit-learn',
     imageSrc: 'https://avatars0.githubusercontent.com/u/365630?v=3&s=100',
@@ -39,7 +39,7 @@ const projectList = [
     githubLink:
       'https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22',
     description: 'Futuristic JavaScript test runner',
-    tags: ['JavaScript','Tests', 'Docs', 'Babel'],
+    tags: ['JavaScript', 'Tests', 'Docs', 'Babel'],
   }, {
     name: 'Numpy',
     imageSrc:
@@ -140,7 +140,7 @@ const projectList = [
     githubLink:
       'https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22',
     description: 'Pocket-sized database',
-    tags: ['JavaScript','Node.js','CouchDB'],
+    tags: ['JavaScript', 'Node.js', 'CouchDB'],
   }, {
     name: 'Neovim',
     imageSrc: 'https://avatars0.githubusercontent.com/u/6471485?v=3&s=100',
@@ -154,7 +154,7 @@ const projectList = [
     githubLink:
       'https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only',
     description: 'The Offline First JavaScript Backend',
-    tags: ['JavaScript','Node.js'],
+    tags: ['JavaScript', 'Node.js'],
   }, {
     name: 'freeCodeCamp',
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
@@ -194,171 +194,175 @@ const projectList = [
     imageSrc: 'https://avatars0.githubusercontent.com/u/9892522?v=3&s=100',
     githubLink: 'https://github.com/freeCodeCamp/mail-for-good/issues',
     description: 'An open source email campaign management tool',
-    tags: ['Nodejs', 'JavaScript', 'Email-Campaigns']
+    tags: ['Nodejs', 'JavaScript', 'Email-Campaigns'],
   },
   {
     name: 'Visual Studio Code',
     imageSrc: 'https://i.warosu.org/data/g/img/0514/15/1447907357729.png',
     githubLink: 'https://github.com/Microsoft/vscode/issues?q=is%3Aopen+is%3Aissue',
     description: 'VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.',
-    tags: ['TypeScript', 'Text-Editor', 'Electron']
+    tags: ['TypeScript', 'Text-Editor', 'Electron'],
   },
   {
     name: 'Scrapy',
     imageSrc: 'https://blog-media.scrapinghub.com/production/wp-content/uploads/2016/10/06054611/Scrapy-300x300.png',
     githubLink: 'https://github.com/scrapy/scrapy/issues',
     description: 'Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. ',
-    tags: ['Python', 'Module', 'Data-Mining','Automated-Testing']
-  }, 
+    tags: ['Python', 'Module', 'Data-Mining', 'Automated-Testing'],
+  },
   {
     name: 'Angular',
     imageSrc: 'https://avatars0.githubusercontent.com/u/139426?s=200&v=4',
     githubLink: 'https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22effort1%3A+easy+%28hours%29%22',
     description: 'Angular is a development platform for building mobile and desktop Web Applications using TypeScript or JavaScript and other languages.',
-    tags: ['Angular', 'TypeScript', 'JavaScript']
+    tags: ['Angular', 'TypeScript', 'JavaScript'],
   },
   {
     name: 'React Styleguidist',
     imageSrc: 'https://d3vv6lp55qjaqc.cloudfront.net/items/061f0A2n1B0H3p0T1p1f/react-styleguidist-logo.png',
     githubLink: 'https://github.com/styleguidist/react-styleguidist/issues',
     description: 'React Styleguidist is a component development environment with hot reloaded dev server and a living style guide that you can share with your team. It lists component propTypes and shows live, editable usage examples based on Markdown files.',
-    tags: ['JavaScript', 'UI']
+    tags: ['JavaScript', 'UI'],
   },
   {
     name: 'Ruby Koans',
     imageSrc: 'http://cdn.skilledup.com/public/images/provider/Ruby-Koans-Image-2x.jpg',
     githubLink: 'https://github.com/edgecase/ruby_koans',
     description: 'Learn Ruby With the Edgecase Ruby Koans. The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries.',
-    tags: ['Ruby', 'Exercises', 'CLI', 'Web App']
+    tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
   },
   {
     name: 'Python Koans',
     imageSrc: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/akoebbe/b35d77/python-koans.jpg',
     githubLink: 'https://github.com/gregmalcolm/python_koans/issues',
     description: 'Python Koans is a port of Edgecase\'s "Ruby Koans".',
-    tags: ['Python', 'Exercises', 'CLI', 'Web App']
+    tags: ['Python', 'Exercises', 'CLI', 'Web App'],
   },
   {
     name: 'Scala Exercises',
     imageSrc: 'https://avatars1.githubusercontent.com/u/17570897?s=200&v=4',
     githubLink: 'https://github.com/scala-exercises',
     description: 'Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language.',
-    tags: ['Scala', 'Exercises', 'Functional Programming']
+    tags: ['Scala', 'Exercises', 'Functional Programming'],
   },
   {
     name: 'CodeWorkout',
     imageSrc: 'https://i.imgur.com/ZsSiCqi.png',
     githubLink: 'https://github.com/web-cat/code-workout/issues',
     description: 'CodeWorkout is an online system for people learning a programming language for the first time. It is a free, open-source solution for practicing small programming problems. Students may practice coding exercises on a variety of programming concepts within the convenience of a web browser!',
-    tags: ['Java', 'Ruby', 'Python', 'Exercises']
+    tags: ['Java', 'Ruby', 'Python', 'Exercises'],
   },
   {
     name: 'TEAMMATES',
     imageSrc: 'https://raw.githubusercontent.com/TEAMMATES/teammates/master/src/main/webapp/images/teammateslogo-black.png',
     githubLink: 'https://github.com/TEAMMATES/teammates/issues',
     description: 'An online feedback management system for students and teachers',
-    tags: ['Java', 'Javascript', 'HTML', 'Web App']
+    tags: ['Java', 'Javascript', 'HTML', 'Web App'],
   },
   {
     name: 'electron',
     imageSrc: 'https://avatars3.githubusercontent.com/u/13409222?s=200&v=4',
     githubLink: 'https://github.com/electron/electron/issues',
     description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS',
-    tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8']
+    tags: ['JavaScript', 'Electron', 'Css', 'Html', 'Chrome', 'Nodejs', 'V8'],
   },
   {
     name: 'Oppia',
     imageSrc: 'https://www.oppia.org/build/assets/images/logo/288x128_logo_mint.42f8d38467fe745205b3374b33668068.png',
     githubLink: 'https://github.com/oppia/oppia/issues',
     description: 'Tool for collaboratively building interactive lessons.',
-    tags: ['Python', 'Javascript','Css', 'Html', 'Shell']
+    tags: ['Python', 'Javascript', 'Css', 'Html', 'Shell'],
   },
   {
     name: 'Public Lab',
     imageSrc: 'https://publiclab.org/system/images/photos/000/023/444/large/Screenshot_20180204-101546_2.png',
     githubLink: 'https://publiclab.github.io/community-toolbox/#r=all',
     description: 'PublicLab.org - a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors! 🎈',
-    tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science']
+    tags: ['Ruby on Rails', 'Ruby', 'JavaScript', 'Non-Profit', 'Web App', 'First-Timers', 'Environment', 'Science'],
   },
   {
     name:'MissionControl',
     imageSrc:'https://i.imgur.com/nSRLFas.gif',
     githubLink: 'https://github.com/DAVFoundation/missioncontrol/issues',
     description:'Controls and orchestrates missions between autonomous vehicles and DAV users',
-    tags: ['Javascript','Docker','Thrift','Good First Issue']
+    tags: ['Javascript','Docker','Thrift','Good First Issue'],
   },
   {
-    name:'DuckDuckGo',
-    imageSrc:'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
+    name: 'DuckDuckGo',
+    imageSrc: 'https://avatars3.githubusercontent.com/u/342708?s=200&v=4',
     githubLink: 'https://github.com/duckduckgo',
-    description:'The search engine that doesn\'t track you',
-    tags: ['Javascript','Perl','Python','Privacy']
+    description: 'The search engine that doesn\'t track you',
+    tags: ['Javascript', 'Perl', 'Python', 'Privacy'],
   },
   {
-    name:'Kinto',
-    imageSrc:'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
+    name: 'Kinto',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/13413813?s=200&v=4',
     githubLink: 'https://github.com/kinto',
-    description:'A generic JSON document store with sharing and synchronisation capabilities.',
-    tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation']
+    description: 'A generic JSON document store with sharing and synchronisation capabilities.',
+    tags: ['Python', 'API', 'HTTP', 'Web', 'Decentralisation'],
   },
   {  
-    name:'atom',
-    imageSrc:'https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png',
-    githubLink:
-       'https://github.com/atom/atom/issues',
-    description:'A customizable text editor built on electron',
-    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos']
+    name: 'atom',
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png',
+    githubLink: 'https://github.com/atom/atom/issues',
+    description: 'A customizable text editor built on electron',
+    tags: ['atom', 'editor', 'javascript', 'electron', 'windows', 'linux', 'macos'],
   },
   {
     name: 'OpenGenus',
-    imageSrc:'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
+    imageSrc: 'https://raw.githubusercontent.com/notnerb/FamilySite/master/logo.png',
     githubLink: 'https://github.com/OpenGenus',
     description: 'A positive open-source community working to bring essential programming knowledge offline.',
-    tags: ['C++','Python','Java','Good First Issue']
+    tags: ['C++', 'Python', 'Java', 'Good First Issue'],
   },
   {
     name:'css-protips',
     imageSrc:'https://camo.githubusercontent.com/9b290de6835cf807aaa81bb6a7cfdf3835636f8c/68747470733a2f2f7261776769742e636f6d2f416c6c5468696e6773536d697474792f6373732d70726f746970732f6d61737465722f6d656469612f6c6f676f2e737667',
     githubLink:'https://github.com/AllThingsSmitty/css-protips/issues',
     description:'Simple but useful tips to improve your CSS skills',
-    tags:['CSS','tips','guide','simple','useful']
-    },
+    tags:['CSS','tips','guide','simple','useful'],
+  },
   {
     name:'Hoodie',
     imageSrc:'http://hoodiehq.github.io/hoodie-css/src/content_img/animals/low-profile-dog-3.png',
     githubLink:'https://github.com/hoodiehq',
     description:'Provides offline backend support for apps you have created',
-    tags:['Web development','User-Friendly']
+    tags:['Web development','User-Friendly'],
   },
   {
     name:'Systers',
     imageSrc:'https://avatars3.githubusercontent.com/u/6520415?s=200&v=4',
     githubLink:'https://github.com/systers',
     description:'Helping women find their potential in code.',
-    tags:['Python','Java','Swift','Javascript','HTML']
+    tags:['Python','Java','Swift','Javascript','HTML'],
   },
   {
     name:'Centos',
     imageSrc:'https://avatars2.githubusercontent.com/u/79192?s=200&v=4',
     githubLink:'https://github.com/CentOS',
     description:'A community-driven free software effort focused on delivering a robust open source ecosystem.',
-    tags:['Shell','Python','HTML','Ruby','Puppet']
+    tags:['Shell','Python','HTML','Ruby','Puppet'],
   },
   {
     name:'NPM',
     imageSrc:'https://avatars0.githubusercontent.com/u/6078720?s=200&v=4',
     githubLink:'https://github.com/npm',
     description:'Npm is the package manager for JavaScript and the world’s largest software registry. Discover packages of reusable code — and assemble them in powerful new ways.',
-    tags:['Javascript','Shell','CSS','HTML','Rust']
+    tags:['Javascript','Shell','CSS','HTML','Rust'],
   },
   {
     name:'openEBS',
     imageSrc:'https://avatars1.githubusercontent.com/u/20769039?s=200&v=4',
     githubLink:'https://github.com/openebs/',
     description:'OpenEBS is an open source storage platform that provides persistent and containerized  block storage for DevOps and container environments.',
-    tags:['Containers','DevOps','Go']
-  }
-  
-  
+    tags:['Containers','DevOps','Go'],
+  },
+  {
+    name: 'Kubernetes',
+    imageSrc: 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png',
+    githubLink: 'https://github.com/kubernetes',
+    description: 'Production-Grade Container Scheduling and Management',
+    tags: ['Go', 'Container','Orchestration'],
+  },
 ];
 export default projectList;

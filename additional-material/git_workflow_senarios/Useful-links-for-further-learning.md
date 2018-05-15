@@ -21,5 +21,6 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 16. [Atlassians Git Tutorials](https://www.atlassian.com/git)
 17. [Pull request reviews](https://help.github.com/articles/about-pull-request-reviews/)
 18. [Another Interactive tutorial for git](https://learngitbranching.js.org/)
+19. [Git commandline cheat-sheet](https://gist.github.com/davfre/8313299)
 
 Keep adding more links, that you find helpful.
