@@ -3779,3 +3779,4 @@
 - [Mirza Suga](https://github.com/mirzasuga)
 - [Pratik Gawali](https://github.com/pratikgawali)
 - [Garrett Chesnut](https://github.com/Vikingnut)
+- [Spencer Evison](https://github.com/spencerevison)
