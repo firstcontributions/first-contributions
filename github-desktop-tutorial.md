@@ -1,5 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 # First Contributions
 
@@ -99,50 +102,35 @@ Now submit the pull request.
 
 <img style="left;" src="assets/submit-pull.png" alt="submit pull request" />
 
-You have now successfully completed your first github source code update. Please give yourself a pat in the back. :) 
-
-## Keeping your fork synced with this repository (Optional)
-
-Now I'll be merging all your changes into the master branch of this project. Your fork won't have those changes.
-
-In order to keep your fork synced with mine, go to github.com and go to your fork.
-
-You'll see that your fork is several commits behind of Roshanjossey:master.
-
-Now click on "New pull request" on your fork. 
-
-IMPORTANT: YOU HAVE TO DO THIS ON YOUR FORK, NOT ON THE ORIGINAL FORK.
-
-<img style="left;" src="assets/dt1-new-pull.png" alt="new pull request" />
-
-When you are there, make sure Roshan's fork is on the right and your fork on the left. If not change it manually. And then click `Create Pull Request`
-
-<img style="left;" src="assets/dt1-create-pull-request.png" alt="sync" />
-
-Type the title "Update Original" for your pull and click on `Create pull request`
-
-<img style="left;" src="assets/dt1-update-original.png" alt="sync" />
-
-
-Scroll down and click on `Merge pull request`
-
-<img style="left;" src="assets/dt1-merge-pull.png" alt="sync" />
-
-Click on `Confirm Merge`
-
-<img style="left;" src="assets/dt1-confirm-pull.png" alt="sync" />
-
-You have now synced with Roshan's fork. 
-
-## Tutorials Using Other Tools
-
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
-You could also join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com)
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+
+You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+
+### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
+
+
+## Tutorials Using Other Tools
+
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+
+## Self-Promotion
+
+If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
+If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
+[Twitter](https://twitter.com/sudo__bangbang) and
+[GitHub](https://github.com/roshanjossey).
+
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
 
 Here's some beginner level issues in popular repos that you can solve. Go ahead and go to those repos to learn more
 
