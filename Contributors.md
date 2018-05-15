@@ -3781,3 +3781,4 @@
 - [Garrett Chesnut](https://github.com/Vikingnut)
 - [Spencer Evison](https://github.com/spencerevison)
 - [Hugo Ribeiro](https://github.com/hugoribeiros)
+- [Aljon Pineda](https://github.com/aljonpineda)
