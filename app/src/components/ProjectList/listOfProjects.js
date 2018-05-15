@@ -364,5 +364,16 @@ const projectList = [
     description: 'Production-Grade Container Scheduling and Management',
     tags: ['Go', 'Container','Orchestration'],
   },
+
+  {
+    name:'Movie-Stream',
+    imageSrc:'https://ibb.co/bFroZH',
+    githubLink:'https://github.com/hrishi7/streamIt',
+    description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
+    tags:['Web development','HTML','Javascript','API','CSS','Bootstrap']
+  }
+  
+  
+
 ];
 export default projectList;
