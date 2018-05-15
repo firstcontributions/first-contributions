@@ -10,10 +10,6 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below.
 
-You can use Github on command line, [Github Desktop](github-desktop-tutorial.md) , [Visual Studio 2017](github-windows-vs2017-tutorial.md) or [Gitkraken](gitkraken-tutorial.md).
-
-If you want to do it in command line, follow the instructions below else go to the appropriate tutorials by clicking on the links above. 
-
 #### *Read this in [other languages](Translations.md).*
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
