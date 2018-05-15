@@ -32,3 +32,4 @@ We have some rules for translation. If you make the first translation for your l
 
 Thanks! :heart:
 
+- [Jared Churchman](https://github.com/jchurchman100)
