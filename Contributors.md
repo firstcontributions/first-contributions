@@ -1,4 +1,5 @@
-﻿- [Edmundo1100](https://github.com/Edmundo1100)
+﻿- [Laurence](https://github.com/multitudes)
+- [Edmundo1100](https://github.com/Edmundo1100)
 - [Sagar Bansal](https://github.com/sagban)
 - Stefan
 - [vikas sharma](https://github.com/vikassharma1999)
@@ -3766,6 +3767,9 @@
 - [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
 - [Brett Goldfine](https://github.com/brettzg)
 - [Xilena Xarcabard](https://github.com/ybfe1853)
--[Donna Tolentino](https://github.com/dtolent)
+- [Donna Tolentino](https://github.com/dtolent)
 - [Daniel Burgess](https://github.com/burgo888)
 - [Ashik Chowdhury](https://github.com/AshikChowdhury)
+- [Ananta Pratama](https://github.com/Princhaa)
+- [Muneeb JS](https://github.com/MuneebJS)
+- [Marta Beveridge](https://github.com/martabeveridge)
