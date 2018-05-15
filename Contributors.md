@@ -3774,3 +3774,4 @@
 - [Muneeb JS](https://github.com/MuneebJS)
 - [Marta Beveridge](https://github.com/martabeveridge)
 - [Yoseph Parai](https://github.com/yosephoche)
+- [Edmilson Verona](https://github.com/edmilsonverona)
