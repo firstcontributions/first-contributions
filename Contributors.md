@@ -3776,3 +3776,4 @@
 - [Yoseph Parai](https://github.com/yosephoche)
 - [Edmilson Verona](https://github.com/edmilsonverona)
 - [Antonio Gargaro](https://github.com/AntonioGargaro97)
+- [Mirza Suga](https://github.com/mirzasuga)
