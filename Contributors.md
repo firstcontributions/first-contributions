@@ -3777,6 +3777,7 @@
 - [Edmilson Verona](https://github.com/edmilsonverona)
 - [Antonio Gargaro](https://github.com/AntonioGargaro97)
 - [Mirza Suga](https://github.com/mirzasuga)
+- [Anushree Jain](https://github.com/anushreejain98)
 - [Pratik Gawali](https://github.com/pratikgawali)
 - [Garrett Chesnut](https://github.com/Vikingnut)
 - [Spencer Evison](https://github.com/spencerevison)
