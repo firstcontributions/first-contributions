@@ -3792,3 +3792,4 @@
 - [Justin Goldby](https://github.com/goldbeedev)
 - [Sharla Field](https://github.com/sharlafield)
 - [Ira Laurin](https://github.com/toiya)
+- [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
