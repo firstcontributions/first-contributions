@@ -3803,4 +3803,4 @@
 - [Sibin Thomas](https://github.com/Sibin-Thomas)
 - [Akshay Gupta](https://github.com/akshaygupta533)
 - [Firas manla](https://github.com/mfirasm)
-- [Justin Garza](https://github.com/j-leeroy
+- [Justin Garza](https://github.com/j-leeroy)
