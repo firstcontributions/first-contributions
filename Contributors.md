@@ -3790,3 +3790,8 @@
 - [Dave Hill](https://github.com/biffhuxtable)
 - [Jokke Darthbrant](https://github.com/skraek)
 - [Ellen Kidane](https://github.com/ekidane)
+- [Justin Goldby](https://github.com/goldbeedev)
+- [Sharla Field](https://github.com/sharlafield)
+- [Ira Laurin](https://github.com/toiya)
+- [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
+- [Camilo Muñoz](https://github.com/jcamilom)
