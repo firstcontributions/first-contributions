@@ -3803,4 +3803,5 @@
 - [Sibin Thomas](https://github.com/Sibin-Thomas)
 - [Akshay Gupta](https://github.com/akshaygupta533)
 - [Firas manla](https://github.com/mfirasm)
-- [Cerdivall](https://github.com/Cerdivall
+- [Cerdivall](https://github.com/Cerdivall)
+- [Thanasis Sotiroglou](https://github/com/thanasissot)
