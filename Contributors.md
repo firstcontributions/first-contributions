@@ -3795,4 +3795,5 @@
 - [Ira Laurin](https://github.com/toiya)
 - [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
 - [Camilo Muñoz](https://github.com/jcamilom)
+- [Mark Ian Pamintuan](https://github.com/ianpamintuan)
 - [Steven Chu](https://github.com/stevenchu)
