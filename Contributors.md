@@ -3805,3 +3805,4 @@
 - [Firas manla](https://github.com/mfirasm)
 - [Cerdivall](https://github.com/Cerdivall)
 - [Thanasis Sotiroglou](https://github/com/thanasissot)
+- [Luciano Rovanni](https://github.com/rovanni)
