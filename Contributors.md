@@ -3806,3 +3806,4 @@
 - [Cerdivall](https://github.com/Cerdivall)
 - [Thanasis Sotiroglou](https://github/com/thanasissot)
 - [Luciano Rovanni](https://github.com/rovanni)
+- [Mariano Salamanca](https://github.com/omoosey)
