@@ -3816,3 +3816,4 @@
 - [Akshay Bheda](https://github.com/akshaybheda)
 - [Maria Pantsiou](https://github.com/Punchyou)
 - [Andy McGowan](https://github.com/andymcg303)
+- [Ha-Hoa Hamano](https://github.com/hahoa)
