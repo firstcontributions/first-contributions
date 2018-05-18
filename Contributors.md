@@ -3803,5 +3803,11 @@
 - [Sibin Thomas](https://github.com/Sibin-Thomas)
 - [Akshay Gupta](https://github.com/akshaygupta533)
 - [Firas manla](https://github.com/mfirasm)
-- [Cerdivall](https://github.com/Cerdivall
 - [Roshan](https://github.com/wert4326)
+- [Jerimiah Huston](https://github.com/jhuston357)
+- [Cerdivall](https://github.com/Cerdivall)
+- [Thanasis Sotiroglou](https://github/com/thanasissot)
+- [Luciano Rovanni](https://github.com/rovanni)
+- [Mariano Salamanca](https://github.com/omoosey)
+- [Travis Holt](https://github.com/trpaleho75)
+- [Jake Tripp](https://github.com/jaketripp)
