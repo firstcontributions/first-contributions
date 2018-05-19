@@ -3816,6 +3816,7 @@
 - [Akshay Bheda](https://github.com/akshaybheda)
 - [Maria Pantsiou](https://github.com/Punchyou)
 - [Andy McGowan](https://github.com/andymcg303)
+- [Govind Chandak](https://github.com/govind1996)
 - [Ha-Hoa Hamano](https://github.com/hahoa)
 - [Christopher Samuel](https://github.com/malfple)
 - [Taylor Gibson](https://github.com/Taylor-Gibson)
