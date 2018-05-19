@@ -3822,3 +3822,5 @@
 - [Deepti Mahesh](https://github.com/deeptimahesh)
 - [Noah Krell](https://github.com/noahkrell)
 - [Nakagawa Satoshi](https://github.com/nkgwsatoshi)
+- [Kshitij Badkas](https://github.com/kshitij-badkas)
+
