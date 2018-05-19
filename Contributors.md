@@ -3832,3 +3832,4 @@
 - [Ken Cruz](https://github.com/cruzken)
 - [Sean Nemann](https://github.com/seannemann21)
 - [Guang-yi "Mike" Lee](https://github.com/guang-yi)
+- [David Smith](https://github.com/smithdc1)
