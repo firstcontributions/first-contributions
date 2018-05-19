@@ -3825,5 +3825,6 @@
 - [Nakagawa Satoshi](https://github.com/nkgwsatoshi)
 - [Kshitij Badkas](https://github.com/kshitij-badkas)
 - [Ivan Nieto](https://github.com/inietov)
-- [Vishnu Poothery](https://github.com/vishnupoothery)
 - [Debasree Samadder](https://github.com/debasree888)
+- [Smit Patel](https://github.com/smitpatl)
+- [Vishnu Poothery](https://github.com/vishnupoothery)
