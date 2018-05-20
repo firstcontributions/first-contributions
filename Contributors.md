@@ -3847,3 +3847,4 @@
 - [Kshitij Sharma](http://github.com/kshitij63)
 - [Noah Schade](https://github.com/noah99)
 - [Kumar Gaurav](https://github.com/devautor/)
+- [Mihai Soficaru](https://github.com/msoficaru)
