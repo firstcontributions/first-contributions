@@ -3848,3 +3848,4 @@
 - [Noah Schade](https://github.com/noah99)
 - [Kumar Gaurav](https://github.com/devautor/)
 - [Mihai Soficaru](https://github.com/msoficaru)
+- [Sean Lightfoot](https://github.com/blackinferno1000)
