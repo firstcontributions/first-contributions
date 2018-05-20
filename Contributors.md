@@ -3849,3 +3849,4 @@
 - [Kumar Gaurav](https://github.com/devautor/)
 - [Mihai Soficaru](https://github.com/msoficaru)
 - [Sean Lightfoot](https://github.com/blackinferno1000)
+- [Seamus Holland](https://github.com/oddtyme)
