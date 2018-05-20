@@ -3834,4 +3834,5 @@
 - [Guang-yi "Mike" Lee](https://github.com/guang-yi)
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
-- [QwertyQuill](https://github.com/dmonrod)
+- [QwertyQuill](https://github.com/dmonrod
+- [Leif Brockman](https://github.com/MrWoo034))
