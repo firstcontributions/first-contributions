@@ -1,3 +1,4 @@
+- [Dalton H](https://github.com/daltonherriman76)
 ﻿- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
 - [Edmundo1100](https://github.com/Edmundo1100)
