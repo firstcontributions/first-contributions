@@ -1,4 +1,4 @@
-- [Toby Chow](https://github.com/tobychow)
+﻿- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
 - [Edmundo1100](https://github.com/Edmundo1100)
 - [Sagar Bansal](https://github.com/sagban)
@@ -3842,3 +3842,4 @@
 - [Budi Erwanto](https://github.com/sariroti)
 - [Timothy Yuen](https://github.com/tyuen11)
 - [Mohammed Haris](https://github.com/tonystaa)
+- [Salman "sal" Ali](https://github.com/Sal-Ali)
