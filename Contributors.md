@@ -3851,6 +3851,7 @@
 - [Mihai Soficaru](https://github.com/msoficaru)
 - [Sean Lightfoot](https://github.com/blackinferno1000)
 - [Seamus Holland](https://github.com/oddtyme)
+- [Shohre Mansouri] (https://github.com/shohre)
 - [Nathaniel Unruh](https://github.com/Nathaniel-Joe-Unruh)
 - [Dan Bradley](https://github.com/dbradley15)
 - [Abhishek Garain](https://github.com/abhi211199)
