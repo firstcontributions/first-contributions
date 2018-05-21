@@ -3871,3 +3871,4 @@
 - [Ethan Boswell](https://github.com/ethanboswell00)
 - [Nathan Spanenberg](https://github.com/nathanspang)
 - [Vivian Akinyi](https://github.com/vivianakinyi)
+- [Tafadzwa Machiridza](https://github.com/TafInnMac)
