@@ -3872,3 +3872,4 @@
 - [Nathan Spanenberg](https://github.com/nathanspang)
 - [Vivian Akinyi](https://github.com/vivianakinyi)
 - [Tafadzwa Machiridza](https://github.com/TafInnMac)
+- [Devin Workman](https://github.com/MrCondescending)
