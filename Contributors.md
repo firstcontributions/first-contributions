@@ -3878,3 +3878,4 @@
 - [Bryan Moore](https://github.com/brymoe)
 - [Tanmay Hembram](https://github.com/Hayate-Ayasaki)
 - [Rieljun Liguid](https://github.com/iamriel)
+- [Philip Andreas Kingo](https://github.com/Pkingo)
