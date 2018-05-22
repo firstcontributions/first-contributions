@@ -1,6 +1,6 @@
 - [Camilo A] (https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
-﻿- [Toby Chow](https://github.com/tobychow)
+- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
 - [Edmundo1100](https://github.com/Edmundo1100)
 - [Sagar Bansal](https://github.com/sagban)
@@ -3883,4 +3883,6 @@
 - [Mayank Agarwal](https://github.com/mayankagarwal44442)
 - [Mano](https://github.com/acxz94)
 - [Foozhan](https://github.com/sharpblade95)
+- [Chad Crowell](https://github.com/chadmcrowell)
 - [Iqrah](https://github.com/iiqrah)
+
