@@ -3896,3 +3896,4 @@
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
 - [Chase Davies][https://github.com/chasepd]
 - [Ina Vukmirovich][https://github.com/inavuk]
+- [Dany Diaz](https://github.com/danydiaz91)
