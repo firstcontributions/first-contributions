@@ -3889,3 +3889,4 @@
 - [David Maulik](https://github.com/damauk/)
 - [Liam Shanny](https://github.com/lfshammu/first-contributions)
 - [Niral Munjariya](https://github.com/niralmunjariya)
+- [Kiran "Rin" Oliver](https://github.com/celanthe)
