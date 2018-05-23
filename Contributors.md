@@ -3894,3 +3894,4 @@
 - [Jake Akers](https://github.com/jakers821)
 - [Zack Hitchcock](https://github.com/zackhitch)
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
+- [Chase Davies][https://github.com/chasepd]
