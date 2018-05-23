@@ -3891,3 +3891,4 @@
 - [Niral Munjariya](https://github.com/niralmunjariya)
 - [Kiran "Rin" Oliver](https://github.com/celanthe)
 - [Juan Sebastian Goldberg](https://github.com/sebasgoldberg)
+- [Jake Akers](https://github.com/jakers821)
