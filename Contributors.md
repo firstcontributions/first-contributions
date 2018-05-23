@@ -3892,3 +3892,4 @@
 - [Kiran "Rin" Oliver](https://github.com/celanthe)
 - [Juan Sebastian Goldberg](https://github.com/sebasgoldberg)
 - [Jake Akers](https://github.com/jakers821)
+- [Zack Hitchcock](https://github.com/zackhitch)
