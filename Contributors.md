@@ -3892,3 +3892,4 @@
 - [Kiran "Rin" Oliver](https://github.com/celanthe)
 - [Juan Sebastian Goldberg](https://github.com/sebasgoldberg)
 - [Jake Akers](https://github.com/jakers821)
+- [Christopher David Miller](https://github.com/miller365)
