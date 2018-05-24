@@ -3914,3 +3914,4 @@
 - [Ross McLane](https://github.com/rossmclane/)
 - [Kris Kamau](https://github.com/KrisKamau)
 - [Mohit Sharma](https://github.com/mohitsharma23)
+- [Khris Marcial](https://github.com/OkuboTV)
