@@ -1,4 +1,4 @@
-- [Camilo A] (https://github.com/CamiloAvelar)
+﻿- [Camilo A] (https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
 ﻿- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
@@ -3893,3 +3893,16 @@
 - [Juan Sebastian Goldberg](https://github.com/sebasgoldberg)
 - [Jake Akers](https://github.com/jakers821)
 - [Christopher David Miller](https://github.com/miller365)
+- [Zack Hitchcock](https://github.com/zackhitch)
+- [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
+- [Marek B](https://github.com/Marmare)
+- [Chase Davies][https://github.com/chasepd]
+- [Ina Vukmirovich][https://github.com/inavuk]
+- [Dany Diaz](https://github.com/danydiaz91)
+- [Forrest Babola](https://github.com/fbabola)
+- [Kyle Askine](https://github.com/kaskine)
+- [Xander Madsen](https://github.com/vasedgod)
+- [Antoine Rolland](https://github.com/tonio6071)
+- [Katrina Mosimann](https://github.com/kmosimann)
+- [bulnak](https://github.com/bulnak)
+- [Madhur](https://github.com/madhurcodes)
