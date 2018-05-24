@@ -3895,3 +3895,13 @@
 - [Zack Hitchcock](https://github.com/zackhitch)
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
 - [Marek B](https://github.com/Marmare)
+- [Chase Davies][https://github.com/chasepd]
+- [Ina Vukmirovich][https://github.com/inavuk]
+- [Dany Diaz](https://github.com/danydiaz91)
+- [Forrest Babola](https://github.com/fbabola)
+- [Kyle Askine](https://github.com/kaskine)
+- [Xander Madsen](https://github.com/vasedgod)
+- [Antoine Rolland](https://github.com/tonio6071)
+- [Katrina Mosimann](https://github.com/kmosimann)
+- [bulnak](https://github.com/bulnak)
+- [Madhur](https://github.com/madhurcodes)
