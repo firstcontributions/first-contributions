@@ -3894,6 +3894,7 @@
 - [Jake Akers](https://github.com/jakers821)
 - [Zack Hitchcock](https://github.com/zackhitch)
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
+- [Marek B](https://github.com/Marmare)
 - [Chase Davies][https://github.com/chasepd]
 - [Ina Vukmirovich][https://github.com/inavuk]
 - [Dany Diaz](https://github.com/danydiaz91)
