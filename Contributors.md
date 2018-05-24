@@ -3899,3 +3899,4 @@
 - [Dany Diaz](https://github.com/danydiaz91)
 - [Kyle Askine](https://github.com/kaskine)
 - [Xander Madsen](https://github.com/vasedgod)
+- [Antoine Rolland](https://github.com/tonio6071)
