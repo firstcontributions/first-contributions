@@ -3875,6 +3875,7 @@
 - [Nathan Spanenberg](https://github.com/nathanspang)
 - [Vivian Akinyi](https://github.com/vivianakinyi)
 - [Tafadzwa Machiridza](https://github.com/TafInnMac)
+- [Justin Pusztay](https://github.com/pusztayj)
 - [Devin Workman](https://github.com/MrCondescending)
 - [Alexei Naumann](https://github.com/A1exei)
 - [Bryan Moore](https://github.com/brymoe)
