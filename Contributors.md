@@ -3915,3 +3915,4 @@
 - [Kris Kamau](https://github.com/KrisKamau)
 - [Mohit Sharma](https://github.com/mohitsharma23)
 - [Khris Marcial](https://github.com/OkuboTV)
+- [Jakob Gross](https://github.com/jakobgross)
