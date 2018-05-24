@@ -1,4 +1,4 @@
-- [Camilo A] (https://github.com/CamiloAvelar)
+﻿- [Camilo A] (https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
 ﻿- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
@@ -3903,3 +3903,4 @@
 - [Katrina Mosimann](https://github.com/kmosimann)
 - [bulnak](https://github.com/bulnak)
 - [Madhur](https://github.com/madhurcodes)
+- [Steve Golden](https://github.com/Stevegolden12)
