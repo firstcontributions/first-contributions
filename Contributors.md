@@ -3810,6 +3810,7 @@
 - [Jerimiah Huston](https://github.com/jhuston357)
 - [Cerdivall](https://github.com/Cerdivall)
 - [Thanasis Sotiroglou](https://github/com/thanasissot)
+- [Austin Hudson](https://github.com/AustinHudson)
 - [Luciano Rovanni](https://github.com/rovanni)
 - [Mariano Salamanca](https://github.com/omoosey)
 - [Arindum Roy](https://github.com/AsliRoy)
