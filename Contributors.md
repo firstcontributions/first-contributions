@@ -1,4 +1,4 @@
-﻿- kamran alam
+- kamran alam
   [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
@@ -3354,3 +3354,4 @@
 - [Collin Feldpausch](https://github.com/cfeldpa2)
 - [Eric Lew](https://github.com/hyser521)
 - [Poe C](https://github.com/poesche)
+- [Sindhura B](https://github.com/SindhuraB)
