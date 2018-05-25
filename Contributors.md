@@ -657,7 +657,14 @@
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
 - [Keith Watson](https://github.com/WhowantsToknow)
-- [Jonny]<https://github.com/Yeti725> 
+- [Jonny]<https://github.com/Yeti725>
+- Shweta
+- Saraansh
+- comsol
+- marcos-padilla
+- Neha Upadhyay
+- Varun M
+- Jean Zombie
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
 - [Monir Zaman](https://github.com/zamanuap)
