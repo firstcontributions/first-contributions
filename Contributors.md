@@ -3912,4 +3912,8 @@
 - [Steve Golden](https://github.com/Stevegolden12)
 - [Taylane Bn](https://github.com/Taylane)
 - [Ross McLane](https://github.com/rossmclane/)
-
+- [Kris Kamau](https://github.com/KrisKamau)
+- [Mohit Sharma](https://github.com/mohitsharma23)
+- [Khris Marcial](https://github.com/OkuboTV)
+- [Jakob Gross](https://github.com/jakobgross)
+- [Tuna](https://github.com/tinahe75)
