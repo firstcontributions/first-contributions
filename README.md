@@ -25,14 +25,14 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
+Now clone this repo to your machine. Go to your GitHub account, click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
 
 ```
 git clone "url you just copied"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+where "url you just copied" (without the quote marks) is the url to this repository(your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -51,7 +51,7 @@ cd first-contributions
 ```
 Now create a branch using the `git checkout` command:
 ```
-git checkout -b <add-your-name>
+git checkout -b <add-your-new-branch-name>
 ```
 
 For example:
@@ -94,9 +94,9 @@ replacing `<your-name>` with your name.
 
 Push your changes using the command `git push`:
 ```
-git push origin <add-your-name>
+git push origin <add-your-branch-name>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
@@ -111,6 +111,8 @@ Now submit the pull request.
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
+
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
