@@ -3915,6 +3915,7 @@
 - [Antoine Rolland](https://github.com/tonio6071)
 - [Katrina Mosimann](https://github.com/kmosimann)
 - [bulnak](https://github.com/bulnak)
+- [Devesh Kaushik](https://github.com/deveshkau)
 - [Madhur](https://github.com/madhurcodes)
 - [Steve Golden](https://github.com/Stevegolden12)
 - [Taylane Bn](https://github.com/Taylane)
