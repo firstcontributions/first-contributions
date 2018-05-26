@@ -1,4 +1,4 @@
-- [Jason Secrest](https://github.com/jsecrest)
+﻿- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -3935,4 +3935,5 @@
 - [Mauri](https://github.com/MauriRojas)
 - [Shailesh Samudrala](https://github.com/shailesh2088)
 - [Voislav Vasiljevski](https://github.com/voioo)
+- [imfuhsin](https://github.com/imfuhsin)
 - [Kunal Sharma](https://github.com/kunal097)
