@@ -3938,3 +3938,4 @@
 - [imfuhsin](https://github.com/imfuhsin)
 - [Kunal Sharma](https://github.com/kunal097)
 - [DarrowBlue](https://github.com/DarrowBlue)
+- [jeremie8](https://github.com/jeremie8)
