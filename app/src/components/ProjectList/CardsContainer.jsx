@@ -61,7 +61,7 @@ export default class CardsContainer extends React.Component {
         />
         <section id='project-list' className='Container-layout'>
           { this.state.filterList.map((item, key) => {
-            return (
+            return (  
               <Card
                 key={key}
                 name={item.name}

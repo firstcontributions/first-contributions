@@ -27,5 +27,6 @@
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](translations/README.gl.md) |
 | 🇵🇰 | [اردو](translations/README.ur.md) |
 | :bangladesh:| [Bangla](translations/README.bn.md) |
-| :moldova: :romania: | [Limba Română](translations/README.ro.md)|
+| :moldova: :romania: | [Limba Română](translations/README.ro.md) |
 | :uk: | [English](README.md) |
+| 🇹🇷 | [Turkish](translations/README.tr.md) |
