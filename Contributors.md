@@ -1,4 +1,4 @@
-- [Camilo A] (https://github.com/CamiloAvelar)
+﻿- [Camilo A] (https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
 ﻿- [Toby Chow](https://github.com/tobychow)
 - [Laurence](https://github.com/multitudes)
@@ -3902,3 +3902,4 @@
 - [Antoine Rolland](https://github.com/tonio6071)
 - [Katrina Mosimann](https://github.com/kmosimann)
 - [bulnak](https://github.com/bulnak)
+- [Devesh Kaushik](https://github.com/deveshkau)
