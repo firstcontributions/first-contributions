@@ -3932,4 +3932,5 @@
 - [Abdul Rehman](https://github.com/abdul-rehman0)
 - [Dan Vidoni](https://github.com/vidonidan)
 - [infoalisaa](https://github.com/infoalisaa)
+- [Mauri](https://github.com/MauriRojas)
 - [Shailesh Samudrala](https://github.com/shailesh2088)
