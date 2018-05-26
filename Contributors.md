@@ -3942,3 +3942,4 @@
 - [prem](https://github.com/prems1891)
 - [Cameron-Bechtloff](https://github.com/cjbechtl)
 - [Rahul Nagekar](https://github.com/RahulNagekar)
+- [Michael Kareithi](https://github.com/bikeboi)
