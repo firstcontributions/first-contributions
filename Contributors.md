@@ -3948,3 +3948,4 @@
 - [Amitabh Soni](https://github.com/beats55)
 - [Kelli Summers](https://github.com/kellisum)
 - [Tarun Rao](https://github.com/TarunRaoK98)
+- [Vitor Felix](https://github.com/Vitor-Felix)
