@@ -3948,6 +3948,7 @@
 - [Amitabh Soni](https://github.com/beats55)
 - [Kelli Summers](https://github.com/kellisum)
 - [Tarun Rao](https://github.com/TarunRaoK98)
+- [Rudolfs Puteklis](https://github.com/Wildlander)
 - [Vitor Felix](https://github.com/Vitor-Felix)
 - [Arturas0](https://github.com/Arturas0)
 - [Jamie McDade](https://github.com/jmcdade11)
