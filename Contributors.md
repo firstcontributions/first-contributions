@@ -3947,3 +3947,4 @@
 - [Michael Kareithi](https://github.com/bikeboi)
 - [Amitabh Soni](https://github.com/beats55)
 - [Kelli Summers](https://github.com/kellisum)
+- [Tarun Rao](https://github.com/TarunRaoK98)
