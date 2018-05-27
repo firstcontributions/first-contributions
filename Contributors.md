@@ -82,9 +82,6 @@
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma](https://github.com/abhaysharma419)
 - [Ashish Rao](https://github.com/ashishra0)
-- Shweta
-- Saraansh
-- comso1
 - [Kyle Thomas](https://github.com/its-kyle-yo)
 - [Santosh Bhulun](https://github.com/San-tosh)
 - [Ivan Vera](https://github.com/Ivanjosevera)
@@ -112,7 +109,6 @@
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - [Andres Fernando Saa](https://github.com/afsaa)
-- marcos-padilla
 - [VeraButler](https://github.com/VeraButler)
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
@@ -282,7 +278,6 @@
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
-- Neha Upadhyay
 - [taeguk1991](http://github.com/taeguk1991)
 - [jaro36](https://github.com/jaro36)
 - [yecicen](https://github.com/yecicen)
@@ -596,7 +591,6 @@
 - [Josh Martin](https://github.com/josh-martino)
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
-- Varun M
 - [Junior Gantin](https://github.com/nioperas06)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
@@ -664,6 +658,13 @@
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
 - [Keith Watson](https://github.com/WhowantsToknow)
+- [Jonny]<https://github.com/Yeti725>
+- Shweta
+- Saraansh
+- comsol
+- marcos-padilla
+- Neha Upadhyay
+- Varun M
 - Jean Zombie
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
@@ -3940,3 +3941,9 @@
 - [DarrowBlue](https://github.com/DarrowBlue)
 - [jeremie8](https://github.com/jeremie8)
 - [KyleTran](https://github.com/kyletran24)
+- [prem](https://github.com/prems1891)
+- [Cameron-Bechtloff](https://github.com/cjbechtl)
+- [Rahul Nagekar](https://github.com/RahulNagekar)
+- [Michael Kareithi](https://github.com/bikeboi)
+- [Amitabh Soni](https://github.com/beats55)
+- [Kelli Summers](https://github.com/kellisum)
