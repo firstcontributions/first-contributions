@@ -3940,6 +3940,7 @@
 - [Kunal Sharma](https://github.com/kunal097)
 - [DarrowBlue](https://github.com/DarrowBlue)
 - [jeremie8](https://github.com/jeremie8)
+- [KyleTran](https://github.com/kyletran24)
 - [prem](https://github.com/prems1891)
 - [Cameron-Bechtloff](https://github.com/cjbechtl)
 - [Rahul Nagekar](https://github.com/RahulNagekar)
