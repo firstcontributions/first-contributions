@@ -3953,3 +3953,8 @@
 - [Arturas0](https://github.com/Arturas0)
 - [Jamie McDade](https://github.com/jmcdade11)
 - [Marci Bertsch](https://github.com/mbertsch3)
+- [pryordesign](https://github.com/pryordesign)
+- [Vinay Chi](https://github.com/viri)
+- [Nick Gent](https://github.com/TactualNick)
+- [Doken Edgar](https://github.com/dokenedgar)
+- [Briana Wright](https://github.com/brianametta)
