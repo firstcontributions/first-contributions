@@ -3969,3 +3969,4 @@
 - [Garras](https://github.com/Garras)
 - [Ryan Boris](https://github.com/neodynia)
 - [Sterling Smith](https://github.com/sterlingssmith)
+- [Roger Baker](https://github.com/myVarEquals)
