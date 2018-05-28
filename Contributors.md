@@ -3958,3 +3958,4 @@
 - [Nick Gent](https://github.com/TactualNick)
 - [Doken Edgar](https://github.com/dokenedgar)
 - [Briana Wright](https://github.com/brianametta)
+- [Nicolas Vastrade](https://github.com/nicolius13)
