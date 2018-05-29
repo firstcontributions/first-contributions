@@ -3971,3 +3971,7 @@
 - [Sterling Smith](https://github.com/sterlingssmith)
 - [Roger Baker](https://github.com/myVarEquals)
 - [Aaron Gravelle](https://github.com/AaronGr)
+- [Nikki Bright](https://github.com/Nikkistorme)
+- [mHz](https://github.com/mhz28)
+- [Thilina Wishvekeerthi](https://github.com/ThilinaDeshan)
+- [Mohammed Larabi](https://github.com/MohammedLarabi)
