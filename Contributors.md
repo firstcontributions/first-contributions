@@ -3966,3 +3966,4 @@
 - [Pedro Zunino](https://github.com/pedrozs)
 - [Neo Cho](https://github.com/neocho)
 - [Zoe Woodward](https://github.com/zoefwoodward)
+- [Sina Moslehi](https://github.com/sinamos)
