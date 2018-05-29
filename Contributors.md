@@ -3966,6 +3966,7 @@
 - [Pedro Zunino](https://github.com/pedrozs)
 - [Neo Cho](https://github.com/neocho)
 - [Zoe Woodward](https://github.com/zoefwoodward)
+- [Sina Moslehi](https://github.com/sinamos)
 - [Garras](https://github.com/Garras)
 - [Ryan Boris](https://github.com/neodynia)
 - [Sterling Smith](https://github.com/sterlingssmith)
@@ -3980,3 +3981,4 @@
 - [Santosh Hemashekar](https://github.com/hemashekarsantosh)
 - [Alfie Bowman](https://github.com/a1fus)
 - [Haydar Al-Rikabi](https://github.com/haydaralrikabi)
+- [Micheal Arsenault](https://github.com/mike2ykme/)
