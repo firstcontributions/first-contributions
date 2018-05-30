@@ -1,4 +1,4 @@
-﻿- [Jason Secrest](https://github.com/jsecrest)
+- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -3983,6 +3983,7 @@
 - [Alfie Bowman](https://github.com/a1fus)
 - [Haydar Al-Rikabi](https://github.com/haydaralrikabi)
 - [Micheal Arsenault](https://github.com/mike2ykme/)
+- [Martin Navarro](https://github.com/MartinVNavarro)
 - [James Newtron](https://github.com/Jasonc8901)  
 - [Kebba Kanyi](https://github.com/kebbakanyi)
 - [Roberto Orozco](https://github.com/robertoissc)
