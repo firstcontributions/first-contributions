@@ -3988,3 +3988,4 @@
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
 - [Fleurevca Francois](https://github.com/FFrancois98)
+- [Conner Hogue](https://github.com/connerhogue)
