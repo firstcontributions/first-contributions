@@ -3984,6 +3984,7 @@
 - [Haydar Al-Rikabi](https://github.com/haydaralrikabi)
 - [Micheal Arsenault](https://github.com/mike2ykme/)
 - [James Newtron](https://github.com/Jasonc8901)  
+- [Kebba Kanyi](https://github.com/kebbakanyi)
 - [Roberto Orozco](https://github.com/robertoissc)
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
