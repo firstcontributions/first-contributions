@@ -460,6 +460,7 @@
 - [Dino Daniel](https://github.com/dinodn)
 - [SVinodh](https://github.com/paintedskies)
 - [Uche Osahor](https://github.com/Electronicshelf)
+- [dadading](https://github.com/dadading)
 - [Amith Kalathil](https://github.com/amithkr)
 - [Emily Symonds](https://github.com/emilysymonds)
 - [Richa Singhal](https://github.com/RichaSinghal)
@@ -3998,4 +3999,5 @@
 - [Deepak Singh](https://github.com/deepaksingh100)
 - [Hyeonho Lee](https://github.com/prayeo)
 - [Lars Sjögreen](https://github.com/LarsSjogreen)
+  [didada](nospace)
 - [Cyrus Frost](https://github.com/cyfrost)
