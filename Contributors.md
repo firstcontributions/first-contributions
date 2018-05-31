@@ -1,4 +1,4 @@
-﻿- [Jason Secrest](https://github.com/jsecrest)
+- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -4010,3 +4010,4 @@
 - [Rinalds Pudulis](https://github.com/Sangsom)
 - [Sagy Mzirahi](https://github.com/wildhamster26)
 - [Anthony-Pogliano](https://github.com/k0mb4tw0mb4t)
+- [Dan-N](https://github.com/dn6dm)
