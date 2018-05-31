@@ -4012,4 +4012,5 @@
 - [Anthony-Pogliano](https://github.com/k0mb4tw0mb4t)
 - [Dan-N](https://github.com/dn6dm)
 - [Data-Kiss](https://github.com/Data-Kiss)
-- [chandan0506] (https://gihub.com/chandan0506)
+- [chandan0506](https://github.com/chandan0506)
+- [Jean-Pierre Coetzee](https://github.com/jpc0)
