@@ -1,4 +1,4 @@
-- [Jason Secrest](https://github.com/jsecrest)
+﻿- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -4002,3 +4002,4 @@
 - [Krishanu Singh](https://github.com/Krishanu230)
 - [ZHiao li](https://github.com/Zhiaoli1992)
 - [Zachery Emerson](https://github.com/zacisme07)
+- [Will H](https://github.com/billy-the-squid)
