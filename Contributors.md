@@ -3999,3 +3999,4 @@
 - [Hyeonho Lee](https://github.com/prayeo)
 - [Lars Sjögreen](https://github.com/LarsSjogreen)
 - [Cyrus Frost](https://github.com/cyfrost)
+- [Krishanu Singh](https://github.com/Krishanu230)
