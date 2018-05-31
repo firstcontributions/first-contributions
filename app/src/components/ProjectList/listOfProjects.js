@@ -371,6 +371,14 @@ const projectList = [
     githubLink:'https://github.com/hrishi7/streamIt',
     description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
     tags:['Web development','HTML','Javascript','API','CSS','Bootstrap']
+  },
+  {
+    name: 'ethereum',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/6250754?s=200&v=4',
+    githubLink: 'https://github.com/ethereum/',
+    description: 'Ethereum is a decentralized platform that runs smart contracts applications.',
+    tags: ['Go', 'C++', 'Solidity','Python', 'Shell', 'Java'
+    ]
   }
   
   
