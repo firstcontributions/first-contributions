@@ -4015,3 +4015,4 @@
 - [chandan0506](https://github.com/chandan0506)
 - [Jean-Pierre Coetzee](https://github.com/jpc0)
 - [Becci Melson](https://github.com/beccimelson)
+- [Rachael Kent](https://github.com/rbkent07)
