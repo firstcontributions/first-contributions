@@ -4007,3 +4007,4 @@
 - [James Seward](https://github.com/zlzshowtime)
 - [Kevin Bebel](https://github.com/kevin-bebel)
 - [Sean McGettrick](https://github.com/smcgettrick)
+- [Rinalds Pudulis](https://github.com/Sangsom)
