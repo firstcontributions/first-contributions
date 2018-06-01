@@ -3983,6 +3983,7 @@
 - [Alfie Bowman](https://github.com/a1fus)
 - [Haydar Al-Rikabi](https://github.com/haydaralrikabi)
 - [Micheal Arsenault](https://github.com/mike2ykme/)
+- [Prateek Surana](https://github.com/prateek3255/)
 - [Martin Navarro](https://github.com/MartinVNavarro)
 - [James Newtron](https://github.com/Jasonc8901)  
 - [Kebba Kanyi](https://github.com/kebbakanyi)
