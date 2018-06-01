@@ -1,4 +1,4 @@
-﻿- [Jason Secrest](https://github.com/jsecrest)
+- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -4023,6 +4023,7 @@
 - [Shreyas Aiyar](https://github.com/ShreyasAiyar)
 - [Saumya Agnihotri](https://github.com/saumyaagnihotri)
 - [Naushad Shukoor](https://github.com/naushadS)
+- [Rashidul Hasan](https://github.com/rashidul-hasan)
 - [Shreya Patil](https://github.com/ShreyaPatil23)
 - [Zak Shatila](https://github.com/zakshatila)
 - [Emilio Bernal](https://github.com/eBernalZ)
