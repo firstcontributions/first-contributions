@@ -4026,3 +4026,4 @@
 - [Shreya Patil](https://github.com/ShreyaPatil23)
 - [Emilio Bernal](https://github.com/eBernalZ)
 - [Devjyoti Datta](https://github.com/Dev05)
+- [Jack Mead](https://github.com/JM3ad)
