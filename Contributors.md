@@ -1,4 +1,4 @@
-- [Jason Secrest](https://github.com/jsecrest)
+﻿- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -3999,6 +3999,7 @@
 - [Hyeonho Lee](https://github.com/prayeo)
 - [Lars Sjögreen](https://github.com/LarsSjogreen)
 - [Cyrus Frost](https://github.com/cyfrost)
+- [Jason Israel](https://github.com/jaisrael1)
 - [Krishanu Singh](https://github.com/Krishanu230)
 - [ZHiao li](https://github.com/Zhiaoli1992)
 - [Zachery Emerson](https://github.com/zacisme07)
