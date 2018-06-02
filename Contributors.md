@@ -1,3 +1,4 @@
+- [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
