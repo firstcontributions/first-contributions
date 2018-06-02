@@ -4039,3 +4039,4 @@
 - [Devjyoti Datta](https://github.com/Dev05)
 - [Ron Forbes](https://github.com/ronforbes)
 - [Jack Mead](https://github.com/JM3ad)
+- [Elijah Templeton](https://github.com/AutoluxAfter)
