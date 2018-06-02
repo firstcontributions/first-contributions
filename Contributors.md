@@ -4043,3 +4043,4 @@
 - [Elijah Templeton](https://github.com/AutoluxAfter)
 - [Abishek Reddy Wdaru](https://github.com/reddy100)
 - [Joe Parkin](https://github.com/chattererman)
+- [Safonov Maksim](https://github.com/NERD535)
