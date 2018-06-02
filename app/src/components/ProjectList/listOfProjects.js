@@ -172,7 +172,7 @@ const projectList = [
   }, {
     name: 'Semantic-UI-React',
     imageSrc:
-      'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
+      'https://avatars1.githubusercontent.com/u/5796209?s=200&v=4',
     githubLink:
       'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration.',
