@@ -1,3 +1,4 @@
+- [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
