@@ -4044,3 +4044,4 @@
 - [Abishek Reddy Wdaru](https://github.com/reddy100)
 - [Joe Parkin](https://github.com/chattererman)
 - [Carl Hossner](https://github.com/hossner)
+- [Henrik Ripa](https://github.com/Gieron)
