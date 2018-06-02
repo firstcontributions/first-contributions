@@ -172,7 +172,7 @@ const projectList = [
   }, {
     name: 'Semantic-UI-React',
     imageSrc:
-      'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
+      'https://avatars1.githubusercontent.com/u/5796209?s=200&v=4',
     githubLink:
       'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration.',
@@ -186,7 +186,7 @@ const projectList = [
   }, {
     name: 'RubyGems ecosystem',
     imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
-    githubLink: 'https://github.com/rubygems/contribute'(Read-only),
+    githubLink: 'https://github.com/rubygems/contribute',
     description: 'One site to show all related RubyGems ecosystem projects and help developers get involved.',
     tags: ['Ruby', 'Rubygems'],
   }, {
@@ -359,7 +359,7 @@ const projectList = [
   },
   {
     name: 'Kubernetes',
-    imageSrc: 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png',
+    imageSrc: 'https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png',
     githubLink: 'https://github.com/kubernetes',
     description: 'Production-Grade Container Scheduling and Management',
     tags: ['Go', 'Container','Orchestration'],
@@ -367,10 +367,18 @@ const projectList = [
 
   {
     name:'Movie-Stream',
-    imageSrc:'https://ibb.co/bFroZH',
+    imageSrc:'https://image.ibb.co/faTroc/movie_stream.png',
     githubLink:'https://github.com/hrishi7/streamIt',
     description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
     tags:['Web development','HTML','Javascript','API','CSS','Bootstrap']
+  },
+  {
+    name: 'ethereum',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/6250754?s=200&v=4',
+    githubLink: 'https://github.com/ethereum/',
+    description: 'Ethereum is a decentralized platform that runs smart contracts applications.',
+    tags: ['Go', 'C++', 'Solidity','Python', 'Shell', 'Java'
+    ]
   }
   
   
