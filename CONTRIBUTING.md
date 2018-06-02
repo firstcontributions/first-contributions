@@ -26,7 +26,7 @@ We have some rules for translation. If you make the first translation for your l
 ```
 
 ## TODO
-- [x] Fixed grammar for contribution Guide
+- [] Fixed grammar for contribution Guide
 - [ ] Add more example and more guide
 
 
