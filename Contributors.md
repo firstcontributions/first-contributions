@@ -1,3 +1,4 @@
+- [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
