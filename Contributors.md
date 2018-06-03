@@ -4050,3 +4050,4 @@
 - [Sumeeta Farrukh](https://github.com/sumeetaf)
 - [Avocadizr](https://github.com/avocadizr)
 - [Adriano Marinho](https://github.com/adrianosmarinho)
+- [Adam Van Scyoc](https://github.com/AdamVanScyoc)
