@@ -4057,3 +4057,4 @@
 - [Daniel Vinitsky](https://github.com/dvinitsky)
 - [Sayaka Suzuki](https://github.com/ssyk442)
 - [Saugaat Allabadi](https://github.com/saugaatallabadi)
+- [Elias Norstrom](https://github.com/e-norstrom)
