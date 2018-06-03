@@ -1,3 +1,4 @@
+- [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
