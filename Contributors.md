@@ -4051,5 +4051,5 @@
 - [Avocadizr](https://github.com/avocadizr)
 - [Adriano Marinho](https://github.com/adrianosmarinho)
 - [Adam Van Scyoc](https://github.com/AdamVanScyoc)
-- [Rish Agrawal(https://github.com/rishuag)
+- [Rish Agrawal](https://github.com/rishuag)
 - [Daniel Vinitsky](https://github.com/dvinitsky)
