@@ -4060,4 +4060,6 @@
 - [Elias Norstrom](https://github.com/e-norstrom)
 - [Diego Hernan Bogado](https://github.com/bogadodiegoh)
 - [Lena Tevar](https://github.com/LenaTevar)
+- [Heather Williams](https://github.com/yoheathur)
+- [Tom Murphy](https://github.com/TomMurphyDev)
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
