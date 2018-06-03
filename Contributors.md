@@ -4049,3 +4049,4 @@
 - [Klmnv Srg](https://github.com/klmnvsrg)
 - [Sumeeta Farrukh](https://github.com/sumeetaf)
 - [Avocadizr](https://github.com/avocadizr)
+- [Adriano Marinho](https://github.com/adrianosmarinho)
