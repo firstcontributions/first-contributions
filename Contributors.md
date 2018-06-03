@@ -1,3 +1,4 @@
+- [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
@@ -4051,5 +4052,6 @@
 - [Avocadizr](https://github.com/avocadizr)
 - [Adriano Marinho](https://github.com/adrianosmarinho)
 - [Adam Van Scyoc](https://github.com/AdamVanScyoc)
-- [Rish Agrawal(https://github.com/rishuag)
+- [Rish Agrawal](https://github.com/rishuag)
 - [Bhavesh Patidar](https://github.com/BhaveshPatidar)
+- [Daniel Vinitsky](https://github.com/dvinitsky)
