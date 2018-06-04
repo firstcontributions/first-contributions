@@ -1,3 +1,4 @@
+- [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
@@ -4063,3 +4064,6 @@
 - [Heather Williams](https://github.com/yoheathur)
 - [Tom Murphy](https://github.com/TomMurphyDev)
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
+- [Josh Anderson](https://github.com/Bedhead015)
+- [Matthew Silva](https://github.com/matthewsilva)
+- [Luis Bauza](https://github.com/hllywluis)
