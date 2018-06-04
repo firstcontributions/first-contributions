@@ -4057,6 +4057,7 @@
 - [Rish Agrawal](https://github.com/rishuag)
 - [Bhavesh Patidar](https://github.com/BhaveshPatidar)
 - [Daniel Vinitsky](https://github.com/dvinitsky)
+- [Anand K Parmar](https://github.com/anandkumarkparmar)
 - [Sayaka Suzuki](https://github.com/ssyk442)
 - [Saugaat Allabadi](https://github.com/saugaatallabadi)
 - [Elias Norstrom](https://github.com/e-norstrom)
