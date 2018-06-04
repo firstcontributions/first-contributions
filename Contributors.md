@@ -4071,3 +4071,4 @@
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
+- [William Rhoads](https://github.com/WRhoads)
