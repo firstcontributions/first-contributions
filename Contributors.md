@@ -4065,3 +4065,4 @@
 - [Tom Murphy](https://github.com/TomMurphyDev)
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
+- [Luis Bauza](https://github.com/hllywluis)
