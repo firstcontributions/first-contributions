@@ -4074,6 +4074,7 @@
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
 - [William Rhoads](https://github.com/WRhoads)
+- [Zachary Gottschall](https://github.com/zacgottschall)
 - [Andres Beltran](https://github.com/andresbeltran98)
 - [Sulabh Chaturvedi](https://github.com/ChaturvediSulabh)
 - [Muhammed Salih](https://github.com/MSVO)
