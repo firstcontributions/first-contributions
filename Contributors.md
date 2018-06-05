@@ -4100,3 +4100,4 @@
 - [Will JV Smith](https://github.com/smithwjv)
 - [Marius Borcan](https://github.com/MariusBorcan)
 - [Jose Olivares](https://github.com/jolivaresc)
+- [Ayumi Mizuno](https://github.com/ayumizuno)
