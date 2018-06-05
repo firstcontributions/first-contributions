@@ -4099,3 +4099,4 @@
 - [Kevin-Wu-3373](https://github.com/Kevin-Wu-3373)
 - [Will JV Smith](https://github.com/smithwjv)
 - [Marius Borcan](https://github.com/MariusBorcan)
+- [Jose Olivares](https://github.com/jolivaresc)
