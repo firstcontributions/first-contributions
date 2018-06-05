@@ -4085,3 +4085,7 @@
 - [Justin Gaskins](https://github.com/jgaskins331)
 - [Ramadan35](https://github.com/ramadan35)
 - [xiajingwang](https:github.com/xiajingwang)
+- [Eric Knight](https://github.com/HortusHonu)
+- [Nathan Gaul](https://github.com/Infining)
+- [Richa Agarwal](https://github.com/richa031)
+- [Fireblade812](https://github.com/fireblade812)
