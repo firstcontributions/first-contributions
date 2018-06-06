@@ -23,6 +23,7 @@
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [Arel Clemente](https://github.com/arelC)
+- [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
