@@ -4104,6 +4104,7 @@
 - [Jose Olivares](https://github.com/jolivaresc)
 - [Ayumi Mizuno](https://github.com/ayumizuno)
 - [Zach Richards](https://github.com/zachricha)
+- [Lucky Adogun](https://github.com/luckyadogun)
 - [Hanson Zhao](https://github.com/zhaohanson1)
 - [Andy Lu](https://github.com/luandy64)
 - [Abhishek Kumar](https://github.com/abhy-kumar)
