@@ -18,7 +18,6 @@ export default class CardsContainer extends React.Component {
       if (projectList[i].tags) {
         projectList[i].tags.forEach(tag => {
           projectList[i].tags.sort()
-          this.setTags.add(tag)
           this.setTags.add(tag.toLowerCase())
         })
       }
@@ -61,7 +60,7 @@ export default class CardsContainer extends React.Component {
         />
         <section id='project-list' className='Container-layout'>
           { this.state.filterList.map((item, key) => {
-            return (
+            return (  
               <Card
                 key={key}
                 name={item.name}
