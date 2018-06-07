@@ -8242,3 +8242,4 @@
 - [Phatt Pisootrapee](http://github.com/phattp)
 - [Nikos Nikoloutsakos](https://github.com/nikoloutsa)
 - [Dillon Chouhan](https://github.com/DillonCh)
+- [Mahery Haja](https://github.com/maheryhaja)
