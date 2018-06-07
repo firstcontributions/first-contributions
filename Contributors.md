@@ -8236,4 +8236,5 @@
 - [Abdulhafeez Babatunde](https://github.com/mistaOba)
 - [Christopher Denny](https://github.com/DrLeeroyPhD)
 - [Alexander Lee](https://github.com/alexanderhlee)
-- [Dhruv Methi](https://github.com/dmethi
+- [Dhruv Methi](https://github.com/dmethi)
+- [Da Kim](http://github.com/kellydkim)
