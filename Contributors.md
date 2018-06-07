@@ -8240,3 +8240,4 @@
 - [Dhruv Methi](https://github.com/dmethi)
 - [Da Kim](http://github.com/kellydkim)
 - [Phatt Pisootrapee](http://github.com/phattp)
+- [Nikos Nikoloutsakos](https://github.com/nikoloutsa)
