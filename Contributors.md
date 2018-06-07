@@ -1,5 +1,6 @@
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Read Hughes](https://github.com/rthugh02)
+- [Bert78](https://github.com/bert78)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
