@@ -8252,3 +8252,4 @@
 - [Ajala Ayodotun](https://github.com/DotunAj)
 - [Tristan Anderson](https://github.com/tevedeh)
 - [oecisneros](https://github.com/oecisneros)
+- [Jeanvally Beato](https://github.com/jeanBEY)
