@@ -8278,3 +8278,4 @@
 - [Amit Levy](https://github.com/amitlevy21)
 - [Sean Mahoney](https://github.com/mahonbone)
 - [Pratyush Sinha](https://github.com/pratyush773)
+- [Joel Chartier](https://github.com/joelchartier)
