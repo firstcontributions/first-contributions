@@ -8281,3 +8281,4 @@
 - [Joel Chartier](https://github.com/joelchartier)
 - [Wilbred Anto](https://github.com/wilsantow)
 - [Luis A. Soto-Garcia](https://github.com/LuisAntonioSG)
+- [Deep Bhattacharyya](https://github.com/DeeplyDiligent)
