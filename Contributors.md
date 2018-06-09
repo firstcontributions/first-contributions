@@ -1,4 +1,4 @@
-﻿- [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
+- [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
@@ -8280,3 +8280,4 @@
 - [Pratyush Sinha](https://github.com/pratyush773)
 - [Joel Chartier](https://github.com/joelchartier)
 - [Wilbred Anto](https://github.com/wilsantow)
+- [Eric Redekopp](https://github.com/eRedekopp)
