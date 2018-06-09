@@ -8280,3 +8280,4 @@
 - [Pratyush Sinha](https://github.com/pratyush773)
 - [Joel Chartier](https://github.com/joelchartier)
 - [Wilbred Anto](https://github.com/wilsantow)
+- [Deep Bhattacharyya](https://github.com/DeeplyDiligent)
