@@ -8246,6 +8246,7 @@
 - [Jennifer Dennis](https://www.githib.com/jldennis)
 - [Matthew Fennell](https://github.com/MatthewRFennell)
 - [Chukwuma Elui](https://github.com/worldwayii)
+- [Joy Zhang](https://github.com/joy8zhang)
 - [Cody Neiman](https://github.com/Matrix-Guy)
 - [Sarah Bass](https://github.com/hedwidgetty)
 - [Jesse Pink](https://github.com/jessepink)
