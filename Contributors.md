@@ -8284,3 +8284,4 @@
 - [Cheng Li](https://github.com/azaleax)
 - [Brent Keath] (https://github.com/zzbrent)
 - [Sebastian Gutierrez] (https://github.com/pepas24)
+- [Daniel Chen](https://github.com/danielmhchen)
