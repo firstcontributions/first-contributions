@@ -28,6 +28,6 @@ We have some rules for translation. If you make the first translation for your l
 ## TODO
 - [] Fixed grammar for contribution Guide
 - [ ] Add more example and more guide
-
+- [lujain alskran](https://github.com/Your-lujainalskran)
 
 Thanks! :heart:
