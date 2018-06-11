@@ -4192,3 +4192,4 @@
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
 - [Torsten Eriksson](https://github.com/ermteri)
+- [Simon C Wong](https://github.com/scwong93)
