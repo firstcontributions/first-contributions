@@ -1,3 +1,4 @@
+- [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
@@ -4127,6 +4128,7 @@
 - [Da Kim](http://github.com/kellydkim)
 - [Phatt Pisootrapee](http://github.com/phattp)
 - [Nikos Nikoloutsakos](https://github.com/nikoloutsa)
+- [Kumar Anand](https://github.com/kranand6)
 - [Dillon Chouhan](https://github.com/DillonCh)
 - [Mahery Haja](https://github.com/maheryhaja)
 - [Jennifer Dennis](https://www.githib.com/jldennis)
