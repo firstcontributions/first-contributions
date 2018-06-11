@@ -4172,6 +4172,7 @@
 - [Eric Redekopp](https://github.com/eRedekopp)
 - [Deep Bhattacharyya](https://github.com/DeeplyDiligent)
 - [Cheng Li](https://github.com/azaleax)
+- [Connor Wilkinson](https://github.com/mcWilkinson)
 - [Brent Keath] (https://github.com/zzbrent)
 - [Sebastian Gutierrez] (https://github.com/pepas24)
 - [Daniel Chen](https://github.com/danielmhchen)
