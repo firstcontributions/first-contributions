@@ -1,6 +1,7 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Primeras Contribuciones
 
@@ -102,7 +103,7 @@ Ahora yo estaré fusionando tus cambios (haciendo *merge*) en la master branch d
 
 ## ¿A dónde ir desde aquí?
 
-Celebra tu contribución y compártela con tus amigos y seguidores iendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 También podrías unirte a nuestro *equipo* Slack en caso de que necesites alguna ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://firstcontributions.herokuapp.com)
 

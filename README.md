@@ -6,9 +6,9 @@
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 #### *Read this in [other languages](Translations.md).*
 
@@ -51,7 +51,7 @@ cd first-contributions
 ```
 Now create a branch using the `git checkout` command:
 ```
-git checkout -b <add-your-name>
+git checkout -b <add-your-new-branch-name>
 ```
 
 For example:
@@ -94,9 +94,9 @@ replacing `<your-name>` with your name.
 
 Push your changes using the command `git push`:
 ```
-git push origin <add-your-name>
+git push origin <add-your-branch-name>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
@@ -111,6 +111,8 @@ Now submit the pull request.
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
+
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
