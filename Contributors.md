@@ -671,7 +671,7 @@
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
 - [Keith Watson](https://github.com/WhowantsToknow)
-- [Jonny]<https://github.com/Yeti725>
+- [Jonny](https://github.com/Yeti725)
 - Shweta
 - Saraansh
 - comsol
@@ -2935,7 +2935,7 @@
 - [Deepak Agarwal](https://github.com/cool-hack)
 - [Zach Tucker](https://github.com/zachtucker)
 - [Olaf Galekop](https://github.com/MrGMan133)
-- [Steven Hertogs]((https://github.com/stevenhertogs)
+- [Steven Hertogs](https://github.com/stevenhertogs)
 - [Arsen Losenko](https://github.com/arsenlosenko)
 - [Shreya Parashare](https://github.com/shreyavp)
 - [James Mills](https://github.com/jfmills)
@@ -3922,8 +3922,8 @@
 - [Zack Hitchcock](https://github.com/zackhitch)
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
 - [Marek B](https://github.com/Marmare)
-- [Chase Davies][https://github.com/chasepd]
-- [Ina Vukmirovich][https://github.com/inavuk]
+- [Chase Davies](https://github.com/chasepd)
+- [Ina Vukmirovich](https://github.com/inavuk)
 - [Dany Diaz](https://github.com/danydiaz91)
 - [Forrest Babola](https://github.com/fbabola)
 - [Kyle Askine](https://github.com/kaskine)
@@ -4186,10 +4186,11 @@
 - [Swetanjal Murati Dutta](https://github.com/swetanjal)
 - [Ian Winstanley](https://github.com/Ianwin8)
 - [Harshit Pruthi](https://github.com/harshitpruthi)
-- [Ahmad Almawi] (https://github.com/AhmadAlmawi)
+- [Ahmad Almawi](https://github.com/AhmadAlmawi)
 - [AhmadReza Mohammadi](https://github.com/ARMy4D)
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
 - [Torsten Eriksson](https://github.com/ermteri)
 - [Simon Wong](https://github.com/scwong93)
+- [Ayush Gupta](https://github.com/gupta-ji6)
