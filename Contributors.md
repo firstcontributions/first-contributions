@@ -4195,3 +4195,4 @@
 - [Simon Wong](https://github.com/scwong93)
 - [Phil Hannant](https://github.com/philhannant)
 - [Ray Kuo](https://github.com/raykuonz)
+- [Michael Hall](https://github.com/michaelhall923)
