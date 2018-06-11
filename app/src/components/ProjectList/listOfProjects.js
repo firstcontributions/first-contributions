@@ -2,7 +2,7 @@ const projectList = [
   {
     name: 'React',
     imageSrc: 'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667',
-    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22Difficulty%3A+beginner%22',
+    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces',
     tags: ['JavaScript', 'UI', 'Web App'],
   }, {
