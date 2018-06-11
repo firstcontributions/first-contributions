@@ -4191,3 +4191,4 @@
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
+- [Torsten Eriksson](https://github.com/ermteri)
