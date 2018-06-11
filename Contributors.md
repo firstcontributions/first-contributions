@@ -1,4 +1,4 @@
-- [Chris Rogers](https://github.com/armitroncee)
+﻿- [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
 - [Myles Heck](https://github.com/myheck)
@@ -4189,3 +4189,4 @@
 - [Ahmad Almawi] (https://github.com/AhmadAlmawi)
 - [AhmadReza Mohammadi](https://github.com/ARMy4D)
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
+- [Ofir Rosner](https://github.com/Styxer)
