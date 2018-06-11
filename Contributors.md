@@ -4193,3 +4193,4 @@
 - [Daniel Philistin](https://github.com/lexxyboy)
 - [Torsten Eriksson](https://github.com/ermteri)
 - [Simon Wong](https://github.com/scwong93)
+- [Phil Hannant](https://github.com/philhannant)
