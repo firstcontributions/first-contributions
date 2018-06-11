@@ -1,4 +1,3 @@
-- [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
@@ -4169,6 +4168,7 @@
 - [Pratyush Sinha](https://github.com/pratyush773)
 - [Joel Chartier](https://github.com/joelchartier)
 - [Wilbred Anto](https://github.com/wilsantow)
+- [Eric Redekopp](https://github.com/eRedekopp)
 - [Deep Bhattacharyya](https://github.com/DeeplyDiligent)
 - [Cheng Li](https://github.com/azaleax)
 - [Brent Keath] (https://github.com/zzbrent)
