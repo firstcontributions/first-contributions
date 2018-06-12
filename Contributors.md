@@ -4196,6 +4196,7 @@
 - [Simon Wong](https://github.com/scwong93)
 - [Phil Hannant](https://github.com/philhannant)
 - [Ray Kuo](https://github.com/raykuonz)
+- [Wentao Zhang](https://github.com/hellowentao)
 - [Michael Hall](https://github.com/michaelhall923)
 - [Felix Cabrera](https://github.com/ysites)
 - [Robert Crockett](https://github.com/slashafd)
