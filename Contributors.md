@@ -4192,6 +4192,7 @@
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
 - [Torsten Eriksson](https://github.com/ermteri)
+- [Christopher Clement](https://github.com/jclement92)
 - [Simon Wong](https://github.com/scwong93)
 - [Phil Hannant](https://github.com/philhannant)
 - [Ray Kuo](https://github.com/raykuonz)
