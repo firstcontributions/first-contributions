@@ -4199,6 +4199,7 @@
 - [Michael Hall](https://github.com/michaelhall923)
 - [Felix Cabrera](https://github.com/ysites)
 - [Robert Crockett](https://github.com/slashafd)
+- [Peter Karaganis](https://github.com/llaslo)
 - [Matthew J. Whitney](https://github.com/matthewjwhitney)
 - [Tiffany Yeh](https://github.com/chenhuiyeh)
 - [Bryant N](https://github.com/Bryant-N)
