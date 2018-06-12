@@ -4188,6 +4188,7 @@
 - [Harshit Pruthi](https://github.com/harshitpruthi)
 - [Ahmad Almawi](https://github.com/AhmadAlmawi)
 - [AhmadReza Mohammadi](https://github.com/ARMy4D)
+- [Maksim P](https://github.com/red4211)
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
