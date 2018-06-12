@@ -4194,6 +4194,7 @@
 - [Torsten Eriksson](https://github.com/ermteri)
 - [Christopher Clement](https://github.com/jclement92)
 - [Simon Wong](https://github.com/scwong93)
+- [Ryan Blake](https://github.com/RainSoakedBear)
 - [Phil Hannant](https://github.com/philhannant)
 - [Ray Kuo](https://github.com/raykuonz)
 - [Wentao Zhang](https://github.com/hellowentao)
