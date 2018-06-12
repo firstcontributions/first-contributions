@@ -4210,6 +4210,7 @@
 - [Rohit Krishna](https://github.com/rohitkrishna094)
 - [Subhrangshu Ghosh](https://github.com/subhro098)
 - [Adeyosola Mustapha](https://github.com/Adeyossy)
+- [Bhrigu Kansra](https://github.com/kinetickansra)
 - [cserspring](https://github.com/cserspring)
 - [Bolun Huang](https://github.com/BolunH)
 - [Hu Xinpeng](https://github.com/cloudstalker)
