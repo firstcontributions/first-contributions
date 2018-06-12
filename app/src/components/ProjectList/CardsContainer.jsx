@@ -18,7 +18,6 @@ export default class CardsContainer extends React.Component {
       if (projectList[i].tags) {
         projectList[i].tags.forEach(tag => {
           projectList[i].tags.sort()
-          this.setTags.add(tag)
           this.setTags.add(tag.toLowerCase())
         })
       }
