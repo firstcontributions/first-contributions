@@ -4219,6 +4219,7 @@
 - [Lisethe Sanmartin] (https://github.com/smartLisethe)
 - [Patricia Sazama](https://github.com/psazama)
 - [Manisha Awasthi](https://github.com/manisha-A)
+- [Sean Moltaji] (https://github.com/sm100)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Vasu Agrawal ](https://github.com/vasuagrawal19)
