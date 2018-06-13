@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
-#### Don't want to code? [Here]( #tutorials-using-other-tools ) are tutorials using other GUI tools.
+#### *Don't want to code? [Here]( #tutorials-using-other-tools ) are tutorials using other GUI tools.
 
 ## Fork this repository
 
