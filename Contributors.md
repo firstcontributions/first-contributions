@@ -4223,3 +4223,4 @@
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Aaron Schollen](https://githib.com/ianog)
 - [George Kurobara Benjamin](https://github.com/georgeben)
+- [Luc Blassel](https://github.com/zlanderous)
