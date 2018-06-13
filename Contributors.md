@@ -1,4 +1,4 @@
-- [Chris Rogers](https://github.com/armitroncee)
+﻿- [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
 - [Myles Heck](https://github.com/myheck)
@@ -4219,3 +4219,4 @@
 - [Lisethe Sanmartin] (https://github.com/smartLisethe)
 - [Patricia Sazama](https://github.com/psazama)
 - [Manisha Awasthi](https://github.com/manisha-A)
+- [Abhi](https://github.com/GigaBrowser690)
