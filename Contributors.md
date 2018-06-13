@@ -4222,3 +4222,4 @@
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Aaron Schollen](https://githib.com/ianog)
+- [Luc Blassel](https://github.com/zlanderous)
