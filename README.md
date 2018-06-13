@@ -10,13 +10,13 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+#### *Don't want to code? [Here]( #tutorials-using-other-tools ) are tutorials using GUI tools.*
+
 #### *Read this in [other languages](Translations.md).*
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
-
-#### *Don't want to code? [Here]( #tutorials-using-other-tools ) are tutorials using other GUI tools.*
 
 ## Fork this repository
 
