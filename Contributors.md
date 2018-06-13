@@ -4220,3 +4220,4 @@
 - [Patricia Sazama](https://github.com/psazama)
 - [Manisha Awasthi](https://github.com/manisha-A)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
+- [Bruno Chicre](https://github.com/BrChicre)
