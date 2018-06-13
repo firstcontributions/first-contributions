@@ -1,4 +1,4 @@
-- [Jason Secrest](https://github.com/jsecrest)
+-Pietil- [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
@@ -3997,3 +3997,4 @@
 - [Brandon Patterson](https://github.com/brandnpatterson)
 - [Deepak Singh](https://github.com/deepaksingh100)
 - [Hyeonho Lee](https://github.com/prayeo)
+- [Piyush Karki](https://github.com/pkarki113)
