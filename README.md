@@ -10,7 +10,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### *Don't want to code? [Here]( #tutorials-using-other-tools ) are tutorials using GUI tools.*
+#### *Don't want to code? [Jump to]( #tutorials-using-other-tools ) tutorials using GUI tools.*
 
 #### *Read this in [other languages](Translations.md).*
 
