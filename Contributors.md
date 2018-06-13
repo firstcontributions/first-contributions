@@ -4219,6 +4219,7 @@
 - [Lisethe Sanmartin](https://github.com/smartLisethe)
 - [Patricia Sazama](https://github.com/psazama)
 - [Manisha Awasthi](https://github.com/manisha-A)
+- [Naor z](https://github.com/naorzr)
 - [Abhi](https://github.com/GigaBrowser690)
 - [Hemant Kumar](https://github.com/hemant659)
 - [Sean Moltaji](https://github.com/sm100)
