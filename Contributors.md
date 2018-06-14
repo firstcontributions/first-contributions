@@ -4182,6 +4182,7 @@
 - [Sebastian Gutierrez](https://github.com/pepas24)
 - [Connor Wilkinson](https://github.com/mcWilkinson)
 - [Daniel Chen](https://github.com/danielmhchen)
+- [Jelly C Moon](https://github.com/argon36)
 - [Meli B](https://github.com)
 - [Audrey Mbogho](https://github.com/walegwa)
 - [Cain Anderson](https://github.com/rbarzegar)
