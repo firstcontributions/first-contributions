@@ -4244,4 +4244,5 @@
 - [Roy Prigat](https://github.com/royprigat)
 - [Arthur Buhl](https://github.com/arthurbuhl)
 - [T Mill](https://github.com/tkmiller85)
+- [Holly Deitz](https://github.com/techgravy)
 - [Arshdeep Singh](https://github.com/iamarshsingh)
