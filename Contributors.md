@@ -1,3 +1,4 @@
+- [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
 - [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
