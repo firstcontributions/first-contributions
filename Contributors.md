@@ -4241,4 +4241,5 @@
 - [Boris Savinkin] (https://github.com/bsavinkin)
 - [Sanchya Bhagat] (https://github.com/sanchyabhagat)
 - [Roy Prigat] (https://github.com/royprigat)
+- [Arthur Buhl](https://github.com/arthurbuhl)
 - [T Mill](https://github.com/tkmiller85)
