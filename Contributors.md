@@ -4249,4 +4249,4 @@
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
-- [Stole P]
+- [Stole P] 
