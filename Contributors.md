@@ -4239,3 +4239,4 @@
 - [Will DuCharme](https://github.com/wducharme)
 - [Boris Savinkin] (https://github.com/bsavinkin)
 - [Sanchya Bhagat] (https://github.com/sanchyabhagat)
+- [Roy Prigat] (https://github.com/royprigat)
