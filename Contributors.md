@@ -1,3 +1,4 @@
+- [Adam Boryslawski](https://github.com/worstahrieu)
 - [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
