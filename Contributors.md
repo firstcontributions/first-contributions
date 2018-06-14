@@ -1,3 +1,4 @@
+- [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
@@ -4234,3 +4235,5 @@
 - [David Gray](https://github.com/dagrayvid)
 - [Love-choco](https://github.com/love-choco)
 - Antwaun Johnson
+- [tue truong](https://github.com/ganemotue)
+- [Will DuCharme](https://github.com/wducharme)
