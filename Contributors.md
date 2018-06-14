@@ -1,4 +1,5 @@
-﻿- [Chris Rogers](https://github.com/armitroncee)
+- [Caixia Han](https://https://github.com/webgirlCX)
+- [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
 - [Bert78](https://github.com/bert78)
 - [Myles Heck](https://github.com/myheck)
@@ -4219,6 +4220,7 @@
 - [Lisethe Sanmartin](https://github.com/smartLisethe)
 - [Patricia Sazama](https://github.com/psazama)
 - [Manisha Awasthi](https://github.com/manisha-A)
+- [Naor z](https://github.com/naorzr)
 - [Abhi](https://github.com/GigaBrowser690)
 - [Hemant Kumar](https://github.com/hemant659)
 - [Sean Moltaji](https://github.com/sm100)
@@ -4230,3 +4232,4 @@
 - [Luc Blassel](https://github.com/zlanderous)
 - [Nicky Mateev](https://github.com/NickyMateev)
 - [Shankhadeep Banerjee](https://github.com/TechnoBoss)
+
