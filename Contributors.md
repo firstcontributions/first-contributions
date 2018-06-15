@@ -4260,3 +4260,4 @@
 - [Phil Friedman](https://github.com/pmfriedman)
 - [George Zhu](https://github.com/MrGeorgeZhu)
 - [Aditya Rana](https://github.com/adityassrana)
+- [Jansen Malem](https://github.com/jmalem)
