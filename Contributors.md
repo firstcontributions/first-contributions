@@ -4236,12 +4236,12 @@
 - [George Kurobara Benjamin](https://github.com/georgeben)
 - [Luc Blassel](https://github.com/zlanderous)
 - [Nicky Mateev](https://github.com/NickyMateev)
-add-SDb-Contribution
 - [Shankhadeep Banerjee](https://github.com/TechnoBoss)
 - [Turlough O'Hagan](https://github.com/Turlough831)
 - [David Gray](https://github.com/dagrayvid)
 - [Kristen Bean](https://github.com/baumergrl)
 - [Love-choco](https://github.com/love-choco)
+- Antwaun Johnson
 - [tue truong](https://github.com/ganemotue)
 - [Will DuCharme](https://github.com/wducharme)
 - [Boris Savinkin](https://github.com/bsavinkin)
@@ -4253,6 +4253,7 @@ add-SDb-Contribution
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
+- Stole P
 - [J. Gravse](https://github.com/jwgravesfl)
 - [Ashwin Mathews](https://github.com/ashwinmathews)
 - [Zach Zollner](https://github.com/zez9787)
@@ -4261,4 +4262,4 @@ add-SDb-Contribution
 - [George Zhu](https://github.com/MrGeorgeZhu)
 - [Aditya Rana](https://github.com/adityassrana)
 - [Jansen Malem](https://github.com/jmalem)
-master
+- [Chetan Khanna](https://github.com/ChetanKhanna)
