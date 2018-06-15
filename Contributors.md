@@ -4273,3 +4273,4 @@
 - [alegz91](https://github.com/alegz91)
 - [Ali](https://github.com/nestedscope)
 - [Germaine Beazer](https://github.com/gbiz21)
+- [Guillaume Lemieux](https://github.com/guilemieux)
