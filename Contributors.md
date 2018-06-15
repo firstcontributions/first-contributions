@@ -4236,6 +4236,7 @@
 - [George Kurobara Benjamin](https://github.com/georgeben)
 - [Luc Blassel](https://github.com/zlanderous)
 - [Nicky Mateev](https://github.com/NickyMateev)
+- [Shankhadeep Banerjee](https://github.com/TechnoBoss)
 - [Turlough O'Hagan](https://github.com/Turlough831)
 - [David Gray](https://github.com/dagrayvid)
 - [Kristen Bean](https://github.com/baumergrl)
