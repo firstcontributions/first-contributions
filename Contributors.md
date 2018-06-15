@@ -1,4 +1,4 @@
-- [Sean Thomas](https://github.com/thomasean)
+﻿- [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
 - [Caixia Han](https://https://github.com/webgirlCX)
@@ -4257,3 +4257,4 @@
 - [Zach Zollner](https://github.com/zez9787)
 - [Alan Medina](https://github.com/spacebromx)
 - [Phil Friedman](https://github.com/pmfriedman)
+- [Aditya Rana](https://github.com/adityassrana)
