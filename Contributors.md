@@ -4261,3 +4261,4 @@
 - [George Zhu](https://github.com/MrGeorgeZhu)
 - [Aditya Rana](https://github.com/adityassrana)
 - [Jansen Malem](https://github.com/jmalem)
+- [Chetan Khanna](https://github.com/ChetanKhanna)
