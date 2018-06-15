@@ -1,3 +1,4 @@
+- [Fadly Munandar]q(https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
 - [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
@@ -4236,6 +4237,7 @@
 - [George Kurobara Benjamin](https://github.com/georgeben)
 - [Luc Blassel](https://github.com/zlanderous)
 - [Nicky Mateev](https://github.com/NickyMateev)
+- [Shankhadeep Banerjee](https://github.com/TechnoBoss)
 - [Turlough O'Hagan](https://github.com/Turlough831)
 - [David Gray](https://github.com/dagrayvid)
 - [Kristen Bean](https://github.com/baumergrl)
@@ -4262,3 +4264,7 @@
 - [Aditya Rana](https://github.com/adityassrana)
 - [Jansen Malem](https://github.com/jmalem)
 - [Saarthak Modi](https://github.com/starlord1999)
+- [Chetan Khanna](https://github.com/ChetanKhanna)
+- [Andreas Steffensen](https://github.com/Amsteffensen)
+- Luke R
+- [Chandra Shekhar Mehta](https://github.com/csmehta)
