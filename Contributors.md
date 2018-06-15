@@ -4274,3 +4274,5 @@
 - [Ali](https://github.com/nestedscope)
 - [Germaine Beazer](https://github.com/gbiz21)
 - [Guillaume Lemieux](https://github.com/guilemieux)
+- [Treasure](https://github.com/onojatreasure)
+- [graezzon algemer](https://github.com/graezzon)
