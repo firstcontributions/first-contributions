@@ -1,4 +1,5 @@
-﻿- [Sean Thomas](https://github.com/thomasean)
+- [Aiden Lucas](https://github.com/transvivor)
+- [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
 - [Caixia Han](https://https://github.com/webgirlCX)
@@ -4251,7 +4252,7 @@
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
-- [Stole P] 
+- Stole P
 - [J. Gravse](https://github.com/jwgravesfl)
 - [Ashwin Mathews](https://github.com/ashwinmathews)
 - [Zach Zollner](https://github.com/zez9787)
