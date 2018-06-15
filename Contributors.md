@@ -4252,8 +4252,9 @@
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
-- [Stole P]
+- Stole P
 - [J. Gravse](https://github.com/jwgravesfl)
 - [Ashwin Mathews](https://github.com/ashwinmathews)
 - [Zach Zollner](https://github.com/zez9787)
 - [Alan Medina](https://github.com/spacebromx)
+- [Phil Friedman](https://github.com/pmfriedman)
