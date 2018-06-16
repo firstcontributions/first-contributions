@@ -379,8 +379,15 @@ const projectList = [
     description: 'Ethereum is a decentralized platform that runs smart contracts applications.',
     tags: ['Go', 'C++', 'Solidity','Python', 'Shell', 'Java'
     ]
+  },
+  {
+    name: 'Rust Lang Nursery',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/14631425?s=200&v=4',
+    githubLink: 'https://github.com/rust-lang-nursery/rust-clippy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
+    description: 'A collection of lints to catch common mistakes and improve your Rust code.',
+    tags: ['Rust','Compiler','Parser','Mentors'
+    ]
   }
-  
   
 
 ];
