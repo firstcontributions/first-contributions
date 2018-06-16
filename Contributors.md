@@ -4276,6 +4276,7 @@
 - [Guillaume Lemieux](https://github.com/guilemieux)
 - [Samantha Spivey](https://github.com/SamanthaDSpivey)
 - [Treasure](https://github.com/onojatreasure)
+- [Wesley Maffly-Kipp](https://github.com/maffkipp)
 - [graezzon algemer](https://github.com/graezzon)
 - [Diego Garcia](https://github.com/diegarc)
 - [Leon Hojegian](https://github.com/leonh71)
