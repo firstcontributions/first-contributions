@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Julius Dorfman](https://github.com/JuliusDorfman)
 - [Fadly Munandar](https://github.com/corsairoad)
@@ -4286,7 +4286,7 @@
 - [omer2500](https://github.com/omer2500)
 - [Guilpot](https://github.com/guilpot)
 - [Dom](https://github.com/Dofarrell1)
-- [MartynasDru] (https://github.com/MartynasDru)
-- [pulkitkapoor15] (https://github.com/pulkitkapoor15)
-- [Muhammad Kemal] (https://github.com/bangkems)
-- [Shahzada Khoso] (https://github.com/Khosos)
+- [MartynasDru](https://github.com/MartynasDru)
+- [pulkitkapoor15](https://github.com/pulkitkapoor15)
+- [Muhammad Kemal](https://github.com/bangkems)
+- [Shahzada Khoso](https://github.com/Khosos)
