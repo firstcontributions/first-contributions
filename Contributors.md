@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Fadly Munandar](https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
@@ -4282,3 +4282,4 @@
 - [Diego Garcia](https://github.com/diegarc)
 - [Leon Hojegian](https://github.com/leonh71)
 - [Rishabh Bajpai] (https://github.com/CodeSeeker99)
+- [Guilpot] (https://github.com/guilpot)
