@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Fadly Munandar](https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
@@ -4281,6 +4281,6 @@
 - [graezzon algemer](https://github.com/graezzon)
 - [Diego Garcia](https://github.com/diegarc)
 - [Leon Hojegian](https://github.com/leonh71)
-- [Rishabh Bajpai] (https://github.com/CodeSeeker99)
-- [omer2500] (https://github.com/omer2500)
-
+- [Rishabh Bajpai](https://github.com/CodeSeeker99)
+- [omer2500](https://github.com/omer2500)
+- [Guilpot](https://github.com/guilpot)
