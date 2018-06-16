@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Julius Dorfman](https://github.com/JuliusDorfman)
 - [Fadly Munandar](https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
 - [Sean Thomas](https://github.com/thomasean)
