@@ -4274,5 +4274,8 @@
 - [Ali](https://github.com/nestedscope)
 - [Germaine Beazer](https://github.com/gbiz21)
 - [Guillaume Lemieux](https://github.com/guilemieux)
+- [Samantha Spivey](https://github.com/SamanthaDSpivey)
 - [Treasure](https://github.com/onojatreasure)
 - [graezzon algemer](https://github.com/graezzon)
+- [Diego Garcia](https://github.com/diegarc)
+- [Leon Hojegian](https://github.com/leonh71)
