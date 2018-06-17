@@ -1,5 +1,6 @@
 # Contributors
 
+- [Hendy Serrano] (https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
 - [Fadly Munandar](https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
