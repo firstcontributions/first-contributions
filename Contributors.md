@@ -4294,3 +4294,4 @@
 - [Leoncio O. de Santana](https://github.com/leoncio26)
 - [Sherrie Fuqua](https://github.com/hikinthru)
 - [Raj Chettri] (https://github.com/rbchettri1)
+- [Tauseef Malik](https://github.com/TauseefMalik)
