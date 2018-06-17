@@ -4246,6 +4246,7 @@
 - [Shankhadeep Banerjee](https://github.com/TechnoBoss)
 - [Turlough O'Hagan](https://github.com/Turlough831)
 - [David Gray](https://github.com/dagrayvid)
+- [Yun C Yang](https://github.com/YunCYang)
 - [Kristen Bean](https://github.com/baumergrl)
 - [Love-choco](https://github.com/love-choco)
 - Antwaun Johnson
