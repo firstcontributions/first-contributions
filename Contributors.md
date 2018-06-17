@@ -1,5 +1,5 @@
 # Contributors
-
+- [David Trafford] (https://github.com/DTrafford)
 - [Hendy Serrano] (https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
 - [Fadly Munandar](https://github.com/corsairoad)
