@@ -1,6 +1,6 @@
 # Contributors
 
-- [Hendy Serrano] (https://github.com/HJSR)
+- [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
 - [Fadly Munandar](https://github.com/corsairoad)
 - [Aiden Lucas](https://github.com/transvivor)
@@ -4294,8 +4294,9 @@
 - [Shahzada Khoso](https://github.com/Khosos)
 - [Leoncio O. de Santana](https://github.com/leoncio26)
 - [Sherrie Fuqua](https://github.com/hikinthru)
-- [Raj Chettri] (https://github.com/rbchettri1)
+- [Raj Chettri](https://github.com/rbchettri1)
 - [Mohammad Hassan](https://github.com/MdHassan403)
 - [Nicholas Ho](https://github.com/terran324)
 - [Yashaswi Karnati](https://github.com/yash-5595)
-
+- [Rohan Rao](https://github.com/themathgeek13)
+- Ben P
