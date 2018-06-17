@@ -2025,6 +2025,7 @@
 - [Vikranth Kanumuru](https://github.com/highskillzz)
 - [Sukhada Kulkarni](https://github.com/Sukhada11)
 - [Karolin Thunman](https://github.com/Kath-1)
+
 - [Aditya Khursale](https://github.com/AdityaKhursale)
 - [Kotaman Meoplo](https://github.com/KotamanMeOplo)
 - [John Stotz](https://gihub.com/JohnStotz)
@@ -4290,4 +4291,5 @@
 - [pulkitkapoor15](https://github.com/pulkitkapoor15)
 - [Muhammad Kemal](https://github.com/bangkems)
 - [Shahzada Khoso](https://github.com/Khosos)
+- [Leoncio O. de Santana](https://github.com/leoncio26)
 - [Sherrie Fuqua](https://github.com/hikinthru)
