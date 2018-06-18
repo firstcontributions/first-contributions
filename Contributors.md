@@ -4303,7 +4303,7 @@
 - [Nicholas Ho](https://github.com/terran324)
 - [Yashaswi Karnati](https://github.com/yash-5595)
 - [Rohan Rao](https://github.com/themathgeek13)
-- Ben P
+- [Ben P]
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
 - [Alejandro Guevara](https://github.com/alejandroge)
@@ -4317,3 +4317,4 @@
 - [Irina Munteanu] (https://github.com/irinamunteanu)
 - [Justin Holt] (https://github.com/jsholt43)
 - [Andrew Blum] (https://github.com/andrewblum)
+- [Christina Kim](https://github.com/chk-yo-self)
