@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
