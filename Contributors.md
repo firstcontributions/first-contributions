@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
@@ -4307,3 +4307,4 @@
 - [Alejandro Guevara](https://github.com/alejandroge)
 - [Jennifer Diederich](https://github.com/jdiederich2)
 - [Natalia](https://github.com/SuokN)
+- [Andrew Brady](https://github.com/red-gazelle)
