@@ -4316,6 +4316,7 @@
 - [Si Feng](https://github.com/vermicelli)
 - [colin Moulds](https://github.com/Mico110813)
 - [Hari Karki](https://github.com/elbeyon/)
+- [Siobhan Power](https://github.com/Sipower)
 - [Irina Munteanu](https://github.com/irinamunteanu)
 - [Justin Holt](https://github.com/jsholt43)
 - [Andrew Blum](https://github.com/andrewblum)
