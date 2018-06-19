@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
@@ -4303,7 +4304,7 @@
 - [Nicholas Ho](https://github.com/terran324)
 - [Yashaswi Karnati](https://github.com/yash-5595)
 - [Rohan Rao](https://github.com/themathgeek13)
-- Ben P
+- [Ben P]
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
 - [Alejandro Guevara](https://github.com/alejandroge)
@@ -4312,6 +4313,14 @@
 - [Andrew Brady](https://github.com/red-gazelle)
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
+- [Si Feng](https://github.com/vermicelli)
 - [colin Moulds](https://github.com/Mico110813)
 - [Hari Karki](https://github.com/elbeyon/)
 - [Siobhan Power](https://github.com/Sipower)
+- [Irina Munteanu](https://github.com/irinamunteanu)
+- [Justin Holt](https://github.com/jsholt43)
+- [Andrew Blum](https://github.com/andrewblum)
+- [Christina Kim](https://github.com/chk-yo-self)
+- [Joao Coelho](https://github.com/jopijuco)
+- [Rishabh Ravindra](https://github.com/rishabhravindra)
+- [Ravi Bharadwaj](https://github.com/Ravi-0809)
