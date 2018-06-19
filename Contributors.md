@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
@@ -70,6 +71,7 @@
 - [Luke Lan](https://github.com/luke84320136)
 - [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
+- [Calstream](https://github.com/Calstream)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Akhtam Ismatov](https://github.com/Akhtam)
@@ -4189,6 +4191,7 @@
 - [Sebastian Gutierrez](https://github.com/pepas24)
 - [Connor Wilkinson](https://github.com/mcWilkinson)
 - [Daniel Chen](https://github.com/danielmhchen)
+- [Umut Aktepe](https://github.com/gamer7281)
 - [Jelly C Moon](https://github.com/argon36)
 - [Meli B](https://github.com)
 - [Audrey Mbogho](https://github.com/walegwa)
@@ -4301,7 +4304,7 @@
 - [Nicholas Ho](https://github.com/terran324)
 - [Yashaswi Karnati](https://github.com/yash-5595)
 - [Rohan Rao](https://github.com/themathgeek13)
-- Ben P
+- [Ben P]
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
 - [Alejandro Guevara](https://github.com/alejandroge)
@@ -4311,3 +4314,11 @@
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
 - [Si Feng](https://github.com/vermicelli)
+- [colin Moulds](https://github.com/Mico110813)
+- [Hari Karki](https://github.com/elbeyon/)
+- [Irina Munteanu](https://github.com/irinamunteanu)
+- [Justin Holt](https://github.com/jsholt43)
+- [Andrew Blum](https://github.com/andrewblum)
+- [Christina Kim](https://github.com/chk-yo-self)
+- [Joao Coelho](https://github.com/jopijuco)
+- [Rishabh Ravindra](https://github.com/rishabhravindra)
