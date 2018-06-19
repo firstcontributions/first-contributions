@@ -23,6 +23,7 @@
 - [Subi Dangol](https://github.com/subidangol)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
+- [Dom Samphier](https://github.com/wildgeodude)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
 - [Toby Chow](https://github.com/tobychow)
