@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
