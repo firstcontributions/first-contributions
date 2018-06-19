@@ -4319,3 +4319,4 @@
 - [Justin Holt] (https://github.com/jsholt43)
 - [Andrew Blum] (https://github.com/andrewblum)
 - [Christina Kim](https://github.com/chk-yo-self)
+- [Joao Coelho](https://github.com/jopijuco)
