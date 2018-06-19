@@ -193,6 +193,7 @@
 - [Aman Agrawal](http://github.com/AmAnAgr)
 - [Telmo Felgueira](https://github.com/TFelgueira)
 - [Asim Ansari](https://github.com/Asim1996)
+- Basher
 - [Momchil Zhivkov](https://github.com/mrZhivkov)
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
