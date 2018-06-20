@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Michael Thariath](https://github.com/mthariath)
+- [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
