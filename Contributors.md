@@ -1,4 +1,7 @@
 ﻿# Contributors
+- [Michael Thariath](https://github.com/mthariath)
+- [Giorgos Topalidis](https://github.com/TopFlankerKiller)
+- [Young Lu](https://github.com/young-lu)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
@@ -4306,7 +4309,7 @@
 - [Nicholas Ho](https://github.com/terran324)
 - [Yashaswi Karnati](https://github.com/yash-5595)
 - [Rohan Rao](https://github.com/themathgeek13)
-- [Ben P]
+- Ben P
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
 - [Alejandro Guevara](https://github.com/alejandroge)
@@ -4331,3 +4334,6 @@
 - [Unnati Pulla](https://github.com/UnnatiPulla)
 - [Josh Akeman](https://github.com/joshakeman)
 - [Arkady Titenko](https://github.com/arkadyt) (Record added: June 19, 2018)
+- [Emil Valentin Toma](https://github.com/Emil-Valentin-Toma)
+- [Sammyak Sangai](https://github.com/sammyaksangai)
+- [Tim Smith](https://github.com/iamtimsmith)
