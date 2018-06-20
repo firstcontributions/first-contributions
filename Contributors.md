@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Idan Madar](https://github.com/T882200)
@@ -4334,4 +4335,3 @@
 - [Unnati Pulla](https://github.com/UnnatiPulla)
 - [Josh Akeman](https://github.com/joshakeman)
 - [Emil Valentin Toma] (https://github.com/Emil-Valentin-Toma)
-
