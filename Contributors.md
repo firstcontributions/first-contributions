@@ -134,7 +134,6 @@
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
-- [Andres Fernando Saa](https://github.com/afsaa)
 - [VeraButler](https://github.com/VeraButler)
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
@@ -4331,4 +4330,4 @@
 - [Matthew Chen](https://github.com/mattc30)
 - [Unnati Pulla](https://github.com/UnnatiPulla)
 - [Josh Akeman](https://github.com/joshakeman)
-
+- [Arkady Titenko](https://github.com/arkadyt) (Record added: June 19, 2018)
