@@ -4332,6 +4332,7 @@
 - [Hans Gunnoo](https://github.com/Albert-Hanstein)
 - [Matthew Chen](https://github.com/mattc30)
 - [Unnati Pulla](https://github.com/UnnatiPulla)
+- [Simon Pearson](https://github.com/simon-pearson)
 - [Thomas Falk](https://github.com/x8-ball)
 - [Josh Akeman](https://github.com/joshakeman)
 - [Arkady Titenko](https://github.com/arkadyt) (Record added: June 19, 2018)
