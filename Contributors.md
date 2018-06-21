@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
@@ -43,6 +43,7 @@
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
+- [Vengret!]
 - [Arel Clemente](https://github.com/arelC)
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
