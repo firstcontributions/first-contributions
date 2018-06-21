@@ -17,6 +17,7 @@ Move to desired location where package.json file is located
 
 - Run this final commands to run it locally
   `npm run build`
+  
   `npm start`
 
 #### Table Of Contents
