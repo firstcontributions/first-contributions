@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
 - [Julius Dorfman](https://github.com/JuliusDorfman)
@@ -4310,3 +4310,4 @@
 - [Andrew Brady](https://github.com/red-gazelle)
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
+- [Craig Gundacker](https://github.com/craig-gundacker)
