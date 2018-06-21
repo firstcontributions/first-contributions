@@ -4344,6 +4344,7 @@
 - [Cesar T](https://github.com/CDTREVINO1)
 - [Cai Jun](https://github.com/JohnCaiJun)
 - [Henry Anfang](https://github.com/hpanfang)
+- [Kenji Morizono](https://github.com/KenjiMorizono)
 - [Max Copeland](https://github.com/maxcopeland61)
 - [Peter Yan](https://github.com/yanlinchengrui)
 - [Vedabrat Etwaru](https://github.com/vedabrat)
