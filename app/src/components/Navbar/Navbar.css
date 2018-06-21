@@ -1,5 +1,5 @@
 .topnav {
-    background-color:#007EE5;
+    background-color:#333;
     overflow: hidden;
     text-align: right;
 }
@@ -11,7 +11,7 @@
 
 .topnav a {
     display: inline-block;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,8 +19,7 @@
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #111;
 }
 
 .topnav a.active {
