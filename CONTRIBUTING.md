@@ -2,6 +2,23 @@
 
 Welcome to your first contribution. :heart:
 
+#### Before Contribution:
+You need to run it locally on your desktop.
+In order to do that
+
+Move to desired location where package.json file is located 
+
+- Install npm(latest version) - 
+    npm is distributed with Node.js- which means that when you download Node.js, 
+    you automatically get npm installed on your computer.
+    https://www.npmjs.com/get-npm
+- Install all the dependencies used by this project.
+   Use this command -  `install npm`
+
+- Run this final commands to run it locally
+  `npm run build`
+  `npm start`
+
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
 - [Translation Guide](#translation-guide)
