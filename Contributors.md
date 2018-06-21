@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
@@ -43,6 +43,7 @@
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
+- [Vengret!]
 - [Arel Clemente](https://github.com/arelC)
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
@@ -4344,3 +4345,12 @@
 - [Cai Jun](https://github.com/JohnCaiJun)
 - [Henry Anfang](https://github.com/hpanfang)
 - [Kenji Morizono](https://github.com/KenjiMorizono)
+- [Max Copeland](https://github.com/maxcopeland61)
+- [Peter Yan](https://github.com/yanlinchengrui)
+- [Vedabrat Etwaru](https://github.com/vedabrat)
+- [Tao Shen](https://github.com/pyshen)
+- [Agung Kurniawan](https://github.com/agungsid)
+- [Shehan Pathirathne](https://github.com/shehanpathi)
+- [Mohammed Ibraheem](https://github.com/moibra)
+- [Tonida Baraza](https://github.com/tbaraza)
+- [Sachin](https://github.com/SachinAilwar)
