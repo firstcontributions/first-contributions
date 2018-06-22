@@ -4359,6 +4359,7 @@
 - [Mohammed Ibraheem](https://github.com/moibra)
 - [Tonida Baraza](https://github.com/tbaraza)
 - [Sachin](https://github.com/SachinAilwar)
+- [Skorpio](https://github.com/rajalakshmi-v15)
 - [Hector Diaz](https://github.com/hedico)
 - [Bence](https://github.com/vrjolke)
 - [Tanmaya Kumar](https://github.com/argets08)
