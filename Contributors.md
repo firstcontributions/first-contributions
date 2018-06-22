@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+
 - [Tillmann Int-Veen](https://github.com/tintveen)
 - [Saurabh Raj]
 - [Michael Thariath](https://github.com/mthariath)
@@ -4322,6 +4323,7 @@
 - [Andrew Brady](https://github.com/red-gazelle)
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
+- [Craig Gundacker](https://github.com/craig-gundacker)
 - [Si Feng](https://github.com/vermicelli)
 - [colin Moulds](https://github.com/Mico110813)
 - [Hari Karki](https://github.com/elbeyon/)
