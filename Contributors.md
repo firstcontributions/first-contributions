@@ -239,6 +239,7 @@
 - [Juan Dougnac](http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
 - [arun](https://github.com/arun99481)
+- [Esteban](https://github.com/estebaanbisocoli)
 - [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
 - [Giuseppe Masino](https://github.com/qub1750ul)
