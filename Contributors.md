@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Warren]
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
@@ -4372,3 +4372,5 @@
 - [Nic le Roux](https://github.com/NicLR)
 - [Ilya Ivanov](https://github.com/IlyaIvanov1)
 - [Ouadie Limouni](https://github.com/ouadielim)
+- [David Robinson](https://github.com/foibuls)
+
