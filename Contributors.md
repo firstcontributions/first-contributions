@@ -1,4 +1,7 @@
-﻿# Contributors
+# Contributors
+
+- [Tillmann Int-Veen](https://github.com/tintveen)
+- [Saurabh Raj]
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
@@ -237,6 +240,7 @@
 - [Juan Dougnac](http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
 - [arun](https://github.com/arun99481)
+- [Esteban](https://github.com/estebaanbisocoli)
 - [Harsh Mutha](https://github.com/harshm31)
 - [Bill McClung](https://github.com/cfgauss)
 - [Giuseppe Masino](https://github.com/qub1750ul)
@@ -4319,6 +4323,7 @@
 - [Andrew Brady](https://github.com/red-gazelle)
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
+- [Craig Gundacker](https://github.com/craig-gundacker)
 - [Si Feng](https://github.com/vermicelli)
 - [colin Moulds](https://github.com/Mico110813)
 - [Hari Karki](https://github.com/elbeyon/)
@@ -4355,4 +4360,7 @@
 - [Tonida Baraza](https://github.com/tbaraza)
 - [Sachin](https://github.com/SachinAilwar)
 - [Skorpio](https://github.com/rajalakshmi-v15)
-
+- [Hector Diaz](https://github.com/hedico)
+- [Bence](https://github.com/vrjolke)
+- [Tanmaya Kumar](https://github.com/argets08)
+- [Omid Rooholfada](https://github.com/omeshomes)
