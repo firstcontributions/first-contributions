@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
@@ -4364,5 +4364,6 @@
 - [Skorpio](https://github.com/rajalakshmi-v15)
 - [Hector Diaz](https://github.com/hedico)
 - [Bence](https://github.com/vrjolke)
+- [Rafi Ravid](https://github.com/rravid)
 - [Tanmaya Kumar](https://github.com/argets08)
 - [Omid Rooholfada](https://github.com/omeshomes)
