@@ -1261,6 +1261,7 @@
 - [charlesmonson](https://github.com/charlesmonson)
 - [imyrfield](https://github.com/imyrfield)
 - [melisaim](https://github.com/MelisaIm)
+- [MacStan](https://github.com/MacStan)
 - [Dario Gabriel](https://github.com/dariogabriel113)
 - [BrumGB](https://github.com/brumgb)
 - [lthlong](https://github.com/lthlong)
