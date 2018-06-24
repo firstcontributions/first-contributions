@@ -4382,3 +4382,4 @@
 - [Vipul Sharma] (https://github.com/vipshae)
 - [Aidan Saull] (https://github.com/ASaull)
 - [Helgi Helgason] (https://github.com/HelgiHe)
+- [Victor Orozco] (https://github.com/metrognome1)
