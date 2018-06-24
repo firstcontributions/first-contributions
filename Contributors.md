@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Warren]
 - [Adarsh Kumar](https://github.com/iamadarshk)
