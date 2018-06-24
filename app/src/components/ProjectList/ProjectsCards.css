@@ -78,6 +78,9 @@
     border-radius: 12px;
     margin: 10px 10px;
     vertical-align: middle;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 126, 229);
 }
 
 .Card-Tag p {

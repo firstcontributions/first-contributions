@@ -16,11 +16,13 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 20px;
+    transition: 0.5s;
 }
 
 .topnav a:hover {
     background-color: #ddd;
     color: black;
+    
 }
 
 .topnav a.active {
