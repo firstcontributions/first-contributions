@@ -4390,5 +4390,8 @@
   Jai Agarwal
   [RaddeKT] (https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
-- [Luiz Lima](https://github.com/umluizlima)
 - [Earnest Jammer](https://github.com/EJammer)
+- [Luiz Lima](https://github.com/umluizlima)
+- [Jack] 
+- [Joseph Climber]
+- [Ryzal Kamis](https://github.com/ryzalk)
