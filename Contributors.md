@@ -4377,6 +4377,7 @@
 - [Ouadie Limouni](https://github.com/ouadielim)
 - [Bilal Mahmood](https://github.com/bmahmood1)
 - [Alan Mathew](https://github.com/alamathe1)
+- [apoc]
 - [Apoorv Tomar](https://github.com/apoorvtomar2222)
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
@@ -4390,7 +4391,7 @@
 - [Nandan Meda](https://github.com/nandanmeda1999)
 - [HSARMA](https://github.com/hsarma)
 - [Ronit Ray](https://github.com/RonitRay)
-- Jai Agarwal
+- [Jai Agarwal]
 - [RaddeKT](https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
