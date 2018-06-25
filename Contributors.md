@@ -1,4 +1,7 @@
 # Contributors
+- [Amandeep Singh](https://github.com/as1993)
+- [Rio804]
+- [Oghenetega]
 - [Warren]
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
@@ -1261,6 +1264,7 @@
 - [charlesmonson](https://github.com/charlesmonson)
 - [imyrfield](https://github.com/imyrfield)
 - [melisaim](https://github.com/MelisaIm)
+- [MacStan](https://github.com/MacStan)
 - [Dario Gabriel](https://github.com/dariogabriel113)
 - [BrumGB](https://github.com/brumgb)
 - [lthlong](https://github.com/lthlong)
@@ -4023,11 +4027,11 @@
 - [Santosh Hemashekar](https://github.com/hemashekarsantosh)
 - [Alfie Bowman](https://github.com/a1fus)
 - [Haydar Al-Rikabi](https://github.com/haydaralrikabi)
-- [Micheal Arsenault](https://github.com/mike2ykme/)  
+- [Micheal Arsenault](https://github.com/mike2ykme/)
 - [TJ Hemphill](https://github.com/TJHemphill)
 - [Prateek Surana](https://github.com/prateek3255/)
 - [Martin Navarro](https://github.com/MartinVNavarro)
-- [James Newtron](https://github.com/Jasonc8901)  
+- [James Newtron](https://github.com/Jasonc8901)
 - [Kebba Kanyi](https://github.com/kebbakanyi)
 - [Roberto Orozco](https://github.com/robertoissc)
 - [Alberto Pastor](https://github.com/albertopastormr)
@@ -4372,5 +4376,28 @@
 - [Nic le Roux](https://github.com/NicLR)
 - [Ilya Ivanov](https://github.com/IlyaIvanov1)
 - [Ouadie Limouni](https://github.com/ouadielim)
-- [David Robinson](https://github.com/foibuls)
-
+- [Ouadie Limouni](https://github.com/ouadielim)
+- [Bilal Mahmood](https://github.com/bmahmood1)
+- [Alan Mathew](https://github.com/alamathe1)
+- [apoc]
+- [Apoorv Tomar](https://github.com/apoorvtomar2222)
+- [Jeff Cutler](https://github.com/jefferycutler)
+- [Saad](https://github.com/MuhammadSaadQadeer)
+- [Nkoro Joeph](https://github.com/nkorojoseph)
+- [Joshua Pacana](https://github.com/JPacana)
+- [Vipul Sharma](https://github.com/vipshae)
+- [Aidan Saull](https://github.com/ASaull)
+- [Helgi Helgason](https://github.com/HelgiHe)
+- [Victor Orozco](https://github.com/metrognome1)
+- [Rocky Santiago](https://github.com/RockySantiago)
+- [Nandan Meda](https://github.com/nandanmeda1999)
+- [HSARMA](https://github.com/hsarma)
+- [Ronit Ray](https://github.com/RonitRay)
+- [Jai Agarwal]
+- [RaddeKT](https://github.com/RaddeKT)
+- [Srdjan Hrvacanin](https://github.com/srdz131)
+- [Earnest Jammer](https://github.com/EJammer)
+- [Luiz Lima](https://github.com/umluizlima)
+- [Jack] 
+- [Joseph Climber]
+- [Ryzal Kamis](https://github.com/ryzalk)
