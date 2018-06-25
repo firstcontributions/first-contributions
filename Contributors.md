@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Warren]
@@ -4391,3 +4391,4 @@
   [RaddeKT] (https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Luiz Lima](https://github.com/umluizlima)
+- [Earnest Jammer](https://github.com/EJammer)
