@@ -4405,3 +4405,7 @@
 - [Ryzal Kamis](https://github.com/ryzalk)
 - [Ian Fenwick](https://github.com/rokumsockum/)
 - [honka honka]
+- [Randy Harkediansa](https://github.com/harked/)
+- [Wil Santana](https://github.com/fredosantana/)
+-[Harriet Adkins](https://github.com/harrietadkins/) 
+
