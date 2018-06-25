@@ -4388,7 +4388,7 @@
 - [HSARMA] (https://github.com/hsarma)
 - [Ronit Ray] (https://github.com/RonitRay)
   Jai Agarwal
-  [RaddeKT] (https://github.com/RaddeKT)
+  [RaddeKT](https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
