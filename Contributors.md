@@ -4407,3 +4407,4 @@
 - [Randy Harkediansa](https://github.com/harked/)
 - [Wil Santana](https://github.com/fredosantana/)
 -[Harriet Adkins](https://github.com/harrietadkins/) 
+- [Jaime Arteaga](https://github.com/jandres742/)
