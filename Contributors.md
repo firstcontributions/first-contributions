@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Warren]
@@ -4390,6 +4390,7 @@
   Jai Agarwal
   [RaddeKT] (https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
+- [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
 - [Jack] 
 - [Joseph Climber]
