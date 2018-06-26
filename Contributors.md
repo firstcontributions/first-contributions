@@ -4413,3 +4413,4 @@
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
 - [Khayame] (https://github.com/Khayame)
+- [Tarun Kashyap] (https://github.com/tarun-kashyap)
