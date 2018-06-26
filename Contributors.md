@@ -4415,3 +4415,4 @@
 - [Hunter Czarnik](https://github.com/hczarnik)
 - [Khayame] (https://github.com/Khayame)
 - [Tarun Kashyap] (https://github.com/tarun-kashyap)
+- [Jose Francisco Matundan] (https://github.com/iskomt)
