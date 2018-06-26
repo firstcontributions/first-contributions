@@ -1,6 +1,7 @@
 # Contributors
 - [Vipul bhardwaj] (https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
+- [Amaury Perrin](https://github.com/ryudii)
 - [Rio804]
 - [Oghenetega]
 - [Warren]
