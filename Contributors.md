@@ -1,4 +1,5 @@
 # Contributors
+- [Aurora Maybee] {https://github.com/auroramaybee}
 - [Vipul bhardwaj] (https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
