@@ -4400,12 +4400,13 @@
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
-- [Jack] 
+- [Jack]
 - [Joseph Climber]
 - [Ryzal Kamis](https://github.com/ryzalk)
 - [Ian Fenwick](https://github.com/rokumsockum/)
 - [Randy Harkediansa](https://github.com/harked/)
 - [Wil Santana](https://github.com/fredosantana/)
--[Harriet Adkins](https://github.com/harrietadkins/) 
+- [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
-- [Will Cutler] (https://github.com/dantraboy)
+- [Will Cutler](https://github.com/dantraboy)
+- [Jordan Bourne](https://github.com/JordanBourne/)
