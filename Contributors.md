@@ -1,4 +1,5 @@
 # Contributors
+- [Roland Kr] (https://github.com/rolandkr)
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Oghenetega]
