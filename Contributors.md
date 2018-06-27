@@ -4435,3 +4435,4 @@
 - [Jessica Bujazia](https://github.com/jessijean)
 - [Liam Smith](https://github.com/liamcs98)
 - [Aviv Biton](https://github.com/avivbiton)
+- [Michele Bernini](https://github.com/mbernini)
