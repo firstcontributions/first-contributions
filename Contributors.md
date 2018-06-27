@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Oghenetega]
@@ -4408,3 +4408,5 @@
 - [Wil Santana](https://github.com/fredosantana/)
 -[Harriet Adkins](https://github.com/harrietadkins/) 
 - [Jaime Arteaga](https://github.com/jandres742/)
+
+- [Nathan Pearson](https://github.com/NathanPearson)
