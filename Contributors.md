@@ -1,4 +1,5 @@
 # Contributors
+- [Michael Zeng] {https://github.com/michaelzeng96}
 - [pqrsumit] {https://github.com/pqrsumit}
 - [Aurora Maybee] {https://github.com/auroramaybee}
 - [Vipul bhardwaj] (https://github.com/vipulbhj)
@@ -4411,10 +4412,10 @@
 - [Wil Santana](https://github.com/fredosantana/)
 -[Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
-- [Will Cutler] (https://github.com/dantraboy)
+- [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
 - [Khayame] (https://github.com/Khayame)
-- [Tarun Kashyap] (https://github.com/tarun-kashyap)
-- [Jose Francisco Matundan] (https://github.com/iskomt)
+- [Tarun Kashyap](https://github.com/tarun-kashyap)
+- [Jose Francisco Matundan](https://github.com/iskomt)
 - [Connor Martin](https://github.com/connormartin7)
