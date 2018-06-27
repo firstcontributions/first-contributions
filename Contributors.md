@@ -1,4 +1,5 @@
 # Contributors
+- [pqrsumit] {https://github.com/pqrsumit}
 - [Aurora Maybee] {https://github.com/auroramaybee}
 - [Vipul bhardwaj] (https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
