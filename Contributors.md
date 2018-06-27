@@ -4416,3 +4416,4 @@
 - [Khayame] (https://github.com/Khayame)
 - [Tarun Kashyap] (https://github.com/tarun-kashyap)
 - [Jose Francisco Matundan] (https://github.com/iskomt)
+- [Brandon Joplin] (https://github.com/thebiggfudge)
