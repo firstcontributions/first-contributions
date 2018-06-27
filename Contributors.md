@@ -4415,6 +4415,7 @@
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
+- [Chamath T](https://github.com/chamatht)
 - [Khayame](https://github.com/Khayame)
 - [Brandon Joplin](https://github.com/thebiggfudge)
 - [Tarun Kashyap](https://github.com/tarun-kashyap)
