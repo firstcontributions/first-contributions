@@ -1,4 +1,5 @@
 # Contributors
+- [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
