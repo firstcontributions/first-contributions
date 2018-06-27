@@ -1,4 +1,7 @@
-﻿# Contributors
+# Contributors
+- [pqrsumit](https://github.com/pqrsumit)
+- [Aurora Maybee](https://github.com/auroramaybee)
+- [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Oghenetega]
@@ -4407,5 +4410,11 @@
 - [honka honka]
 - [Randy Harkediansa](https://github.com/harked/)
 - [Wil Santana](https://github.com/fredosantana/)
--[Harriet Adkins](https://github.com/harrietadkins/) 
-
+- [Harriet Adkins](https://github.com/harrietadkins/) 
+- [Jaime Arteaga](https://github.com/jandres742/)
+- [Will Cutler](https://github.com/dantraboy)
+- [Jacob Goldsworthy](https://github.com/LostLaser)
+- [Hunter Czarnik](https://github.com/hczarnik)
+- [Khayame](https://github.com/Khayame)
+- [Tarun Kashyap](https://github.com/tarun-kashyap)
+- [Jose Francisco Matundan](https://github.com/iskomt)
