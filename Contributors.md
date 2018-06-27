@@ -1,4 +1,6 @@
 # Contributors
+- [Qqlick]
+- [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
 - [Aurora Maybee](https://github.com/auroramaybee)
 - [Vipul bhardwaj](https://github.com/vipulbhj)
@@ -4403,7 +4405,7 @@
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
-- [Jack] 
+- [Jack]
 - [Joseph Climber]
 - [Ryzal Kamis](https://github.com/ryzalk)
 - [Ian Fenwick](https://github.com/rokumsockum/)
@@ -4415,6 +4417,10 @@
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
+- [Hazim Khaled](https://github.com/Haziim7)
+- [Chamath T](https://github.com/chamatht)
 - [Khayame](https://github.com/Khayame)
+- [Brandon Joplin](https://github.com/thebiggfudge)
 - [Tarun Kashyap](https://github.com/tarun-kashyap)
 - [Jose Francisco Matundan](https://github.com/iskomt)
+- [Connor Martin](https://github.com/connormartin7)
