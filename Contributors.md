@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
@@ -4425,3 +4425,4 @@
 - [Tarun Kashyap](https://github.com/tarun-kashyap)
 - [Jose Francisco Matundan](https://github.com/iskomt)
 - [Connor Martin](https://github.com/connormartin7)
+- [Irshad Shaikh](https://github.com/IrshaadS)
