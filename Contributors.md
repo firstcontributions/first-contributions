@@ -4426,6 +4426,7 @@
 - [Tarun Kashyap](https://github.com/tarun-kashyap)
 - [Jose Francisco Matundan](https://github.com/iskomt)
 - [Connor Martin](https://github.com/connormartin7)
-- [Sachin Tandon] (https://github.com/sachintandon11)
+- [Sachin Tandon](https://github.com/sachintandon11)
 - [Adam Simpson](https://github.com/adamosimpson21)
 - [Murat Mermerkaya](https://github.com/muratmer)
+- [Daniela Muniz](https://github.com/danielamuniz367)
