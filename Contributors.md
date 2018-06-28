@@ -1,4 +1,10 @@
-﻿# Contributors
+# Contributors
+- [Kumar Kaushik](https://github.com/BobbleHeadAlien)
+- [Qqlick]
+- [Michael Zeng](https://github.com/michaelzeng96)
+- [pqrsumit](https://github.com/pqrsumit)
+- [Aurora Maybee](https://github.com/auroramaybee)
+- [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Rio804]
 - [Oghenetega]
@@ -4400,13 +4406,35 @@
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
-- [Jack] 
+- [Jack]
 - [Joseph Climber]
 - [Ryzal Kamis](https://github.com/ryzalk)
+- [Swapnil Ojha](https://github.com/swakansh/)
 - [Ian Fenwick](https://github.com/rokumsockum/)
+- [honka honka]
 - [Randy Harkediansa](https://github.com/harked/)
-- [Wil Santana](https://github.com/fredosantana/)
--[Harriet Adkins](https://github.com/harrietadkins/) 
-- [Jaime Arteaga](https://github.com/jandres742/)
-
 - [Nathan Pearson](https://github.com/NathanPearson)
+- [Wil Santana](https://github.com/fredosantana/)
+- [Harriet Adkins](https://github.com/harrietadkins/) 
+- [Jaime Arteaga](https://github.com/jandres742/)
+- [Will Cutler](https://github.com/dantraboy)
+- [Jacob Goldsworthy](https://github.com/LostLaser)
+- [Hunter Czarnik](https://github.com/hczarnik)
+- [Hazim Khaled](https://github.com/Haziim7)
+- [Chamath T](https://github.com/chamatht)
+- [Khayame](https://github.com/Khayame)
+- [Brandon Joplin](https://github.com/thebiggfudge)
+- [Tarun Kashyap](https://github.com/tarun-kashyap)
+- [Jose Francisco Matundan](https://github.com/iskomt)
+- [Connor Martin](https://github.com/connormartin7)
+- [Sachin Tandon](https://github.com/sachintandon11)
+- [Adam Simpson](https://github.com/adamosimpson21)
+- [Murat Mermerkaya](https://github.com/muratmer)
+- [Alisa Levin](https://github.com/alisalevin)
+- [Prince Carter](https://github.com/PrinceCarter)
+- [lwk](https://github.com/wk32)
+- [Jessica Bujazia](https://github.com/jessijean)
+- [Liam Smith](https://github.com/liamcs98)
+- [Aviv Biton](https://github.com/avivbiton)
+- [Sunjoli Aggarwal](https://github.com/sunjolia)
+- [Sakshar Thakkar](https://github.com/shthakkar)
