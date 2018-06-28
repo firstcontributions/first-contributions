@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Qqlick]
@@ -4445,3 +4445,4 @@
 [Muhammad Zubari](https://github.com/zuby641)
 - [VivekKumar Singh](https://github.com/viveksin88)
 - [Xin Chen](https://github.com/outformatics)
+- [Amit Tiwary](https://github.com/akt114)
