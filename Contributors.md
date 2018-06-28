@@ -4416,7 +4416,7 @@
 - [Randy Harkediansa](https://github.com/harked/)
 - [Nathan Pearson](https://github.com/NathanPearson)
 - [Wil Santana](https://github.com/fredosantana/)
-- [Harriet Adkins](https://github.com/harrietadkins/) 
+- [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
@@ -4441,3 +4441,4 @@
 - [Sakshar Thakkar](https://github.com/shthakkar)
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
+- [Alicja Sawczuk](https://github.com/Szona)
