@@ -1,4 +1,5 @@
 # Contributors
+- [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
