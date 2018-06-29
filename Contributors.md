@@ -4440,6 +4440,7 @@
 - [Aviv Biton](https://github.com/avivbiton)
 - [Sunjoli Aggarwal](https://github.com/sunjolia)
 - [Sakshar Thakkar](https://github.com/shthakkar)
+- [Archit Bhatia](https://github.com/archit-bhatia)
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
 - [Siddesh chavan](https://github.com/siddesh001)
