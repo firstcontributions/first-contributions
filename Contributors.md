@@ -4442,10 +4442,11 @@
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
 - [Siddesh chavan](https://github.com/siddesh001)
-[Muhammad Zubari](https://github.com/zuby641)
+- [Muhammad Zubari](https://github.com/zuby641)
 - [VivekKumar Singh](https://github.com/viveksin88)
 - [Xin Chen](https://github.com/outformatics)
 - [Imran Ahmed](https://github.com/iamimran)
 - [Tim Andre Jacobsen](https://github.com/TimAndreJacobsen)
-- [Steffen Böhringer] (https://github.com/dableGit)
-
+- [Steffen Böhringer](https://github.com/dableGit)
+- [Ellen Choi](https://github.com/ellenchoi97)
+- [Osa Bo]
