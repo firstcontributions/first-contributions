@@ -1,6 +1,7 @@
 # Contributors
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
+- [Rahul Krishna](https://github.com/krishrahul98)
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
