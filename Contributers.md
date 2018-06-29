@@ -1,1 +1,0 @@
-Archit Bhatia
