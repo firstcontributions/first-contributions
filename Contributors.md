@@ -1,6 +1,7 @@
 # Contributors
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
+- [Rahul Krishna](https://github.com/krishrahul98)
 - [Qqlick]
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
@@ -4416,7 +4417,7 @@
 - [Randy Harkediansa](https://github.com/harked/)
 - [Nathan Pearson](https://github.com/NathanPearson)
 - [Wil Santana](https://github.com/fredosantana/)
-- [Harriet Adkins](https://github.com/harrietadkins/) 
+- [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
@@ -4442,9 +4443,13 @@
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
 - [Siddesh chavan](https://github.com/siddesh001)
-[Muhammad Zubari](https://github.com/zuby641)
+- [Muhammad Zubair](https://github.com/zuby641)
 - [VivekKumar Singh](https://github.com/viveksin88)
 - [Xin Chen](https://github.com/outformatics)
+- [Imran Ahmed](https://github.com/iamimran)
 - [Tim Andre Jacobsen](https://github.com/TimAndreJacobsen)
 - [Vimalraj](https://github.com/vimalraj571)
-- [Steffen Böhringer] (https://github.com/dableGit)
+- [Steffen Böhringer](https://github.com/dableGit)
+- [Ellen Choi](https://github.com/ellenchoi97)
+- [Osa Bo]
+- [Kenji Japra](https://github.com/kensj)
