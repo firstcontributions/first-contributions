@@ -4459,3 +4459,4 @@
 - [Elizabeth Berg](https://github.com/reykjaviks)
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
+- [Dylan Sharhon](https://github.com/dsharhon)
