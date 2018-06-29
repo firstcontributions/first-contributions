@@ -4454,3 +4454,4 @@
 - [Ellen Choi](https://github.com/ellenchoi97)
 - [Osa Bo]
 - [Kenji Japra](https://github.com/kensj)
+- [Arthur Loukes](https://github.com/arthurloukes)
