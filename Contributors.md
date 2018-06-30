@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Preeti Mukherjee](https://github.com/preeti98)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Rahul Krishna](https://github.com/krishrahul98)
