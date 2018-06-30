@@ -16,10 +16,10 @@
 - [Blessing Mutava](https://github.com/MaKloudz)
 - [Tillmann Int-Veen](https://github.com/tintveen)
 - [Saurabh Raj]
-- [Amal Thelly](https://github.com/amalthelly)
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
+- [Amal Thelly](https://github.com/amalthelly)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
