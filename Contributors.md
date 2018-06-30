@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Rahul Krishna](https://github.com/krishrahul98)
@@ -4447,6 +4447,7 @@
 - [Muhammad Zubair](https://github.com/zuby641)
 - [VivekKumar Singh](https://github.com/viveksin88)
 - [Xin Chen](https://github.com/outformatics)
+- [Amit Tiwary](https://github.com/akt114)
 - [Imran Ahmed](https://github.com/iamimran)
 - [Tim Andre Jacobsen](https://github.com/TimAndreJacobsen)
 - [Vimalraj](https://github.com/vimalraj571)
