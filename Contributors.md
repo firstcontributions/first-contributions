@@ -4444,6 +4444,7 @@
 - [Archit Bhatia](https://github.com/archit-bhatia)
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
+- [Alicja Sawczuk](https://github.com/Szona)
 - [Anuj Raj](https://github.com/ajraj27)
 - [Siddesh chavan](https://github.com/siddesh001)
 - [Muhammad Zubair](https://github.com/zuby641)
