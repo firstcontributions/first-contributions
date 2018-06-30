@@ -4454,8 +4454,9 @@
 - [Ellen Choi](https://github.com/ellenchoi97)
 - [Osa Bo]
 - [Kenji Japra](https://github.com/kensj)
+- [Arthur Loukes](https://github.com/arthurloukes)
 - [Rajeev Ranjan](https://github.com/rajeevcoding)
-- [Chris G] (https://github.com/chdgriff)
+- [Chris G](https://github.com/chdgriff)
 - [Elizabeth Berg](https://github.com/reykjaviks)
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
