@@ -4461,6 +4461,7 @@
 - [Rajeev Ranjan](https://github.com/rajeevcoding)
 - [Chris G](https://github.com/chdgriff)
 - [Elizabeth Berg](https://github.com/reykjaviks)
+- [dave7ter](https://github.com/dave7ter)
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
