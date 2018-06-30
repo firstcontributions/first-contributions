@@ -202,7 +202,7 @@
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
-- [Saria L](http://github.com/ceculia)
+https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.com/ceculia)
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -1132,7 +1132,7 @@
 - [Celio Paiva](https://github.com/cjuniorr)
 - [Bogdan Manole](https://github.com/BogdanManole)
 - [Mridul tuteja](https://github.com/mridultuteja)
-- [Thadeu Cotts](https://github.com/cotts)
+- [Thadeu Cotts](https://github.com/cotts)https://github.com/cyclerdan/first-contributions.git
 - [Debaditya Dey](https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
@@ -2662,7 +2662,7 @@
 - [Michael Cuomo](https://github.com/MikeX777)
 - [Samuel Elbaz](https://github.com/raregamer)
 - [Dan Langley](https://github.com/dlangleychi)
-- [Linda Cai](https://game123tttoe.herokuapp.com/)
+- [Linda Cai](https://game123tttoe.herokuapp.com/)https://github.com/cyclerdan/first-contributions.git
 - [Haneesh Reddy](https://github.com/haneeshr)
 - [Hamza](https://github.com/Achtelnote)
 - [Alexandre Vasse](https://github.com/Avasse)
@@ -2758,7 +2758,7 @@
 - [Jalen Adams](https://github.com/LeftySolara)
 - [Akshay Havile](https://github.com/akshayhavile)
 - [Venkat Rao Pasupuleti](https://github.com/venkatraopasupuleti)
-- [Josh Slater](https://github.com/jslaterwriter)
+- [Josh Slater](https://github.com/jslaterwriter)https://github.com/cyclerdan/first-contributions.git
 - [Veerendra Mahawar](https://github.com/VeerendraMahawar)
 - [Ashok Manghat](https://github.com/ashokmanghat)
 - [Claudia Vidican](https://github.com/DoctorAsia)
@@ -3178,7 +3178,7 @@
 - [Jack Lange](https://github.com/bld456)
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
 - [Rinal P](https://github.com/rinal96)
-- [psittacine](https://github.com/psittacine)
+- [psittacine](https://github.com/psittacine)https://github.com/cyclerdan/first-contributions.git
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
 - [Alessandro Racheli](https://github.com/floydjohn)
@@ -4470,3 +4470,4 @@
 - [Marius Gelez](https://github.com/mariusgelez)
 - [Otim Fredrick](https://github.com/otim22)
 - [Razvan Radoi](https://github.com/razvanra2)
+- [cyclerdan](https://github.com/cyclerdan)
