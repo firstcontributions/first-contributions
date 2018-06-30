@@ -4469,3 +4469,4 @@
 - [Marius Gelez](https://github.com/mariusgelez)
 - [Otim Fredrick](https://github.com/otim22)
 - [Razvan Radoi](https://github.com/razvanra2)
+- [Eric Hart](https://github.com/erichart)
