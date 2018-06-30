@@ -4444,7 +4444,7 @@
 - [Archit Bhatia](https://github.com/archit-bhatia)
 - [bhaltair](https://github.com/bhaltair)
 - [William Martinsson](https://github.com/Marwil96)
-- [Anuj Raj](https://github.com/ajraj27) 
+- [Anuj Raj](https://github.com/ajraj27)
 - [Siddesh chavan](https://github.com/siddesh001)
 - [Muhammad Zubair](https://github.com/zuby641)
 - [VivekKumar Singh](https://github.com/viveksin88)
@@ -4466,3 +4466,4 @@
 - [Dylan Sharhon](https://github.com/dsharhon)
 - [Marius Gelez](https://github.com/mariusgelez)
 - [Otim Fredrick](https://github.com/otim22)
+- [Razvan Radoi](https://github.com/razvanra2)
