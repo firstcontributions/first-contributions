@@ -1,5 +1,6 @@
 # Contributors
 
+- [Oisin Quinn](https://github.com/oisinq)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
