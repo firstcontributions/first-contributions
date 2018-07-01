@@ -1,26 +1,26 @@
 # Contributors
 
 - [Vincent Tern](https://github.com/vincenttern)
-- [Oliver Wilkins] (https://github.com/HomelessSandwich)
+- [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Marlo Carreon](https://github.com/mcarreon)
 - [Rahul Krishna](https://github.com/krishrahul98)
-- [Qqlick]
+- Qqlick
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
 - [Aurora Maybee](https://github.com/auroramaybee)
 - [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
-- [Rio804]
-- [Oghenetega]
-- [Warren]
+- Rio804
+- Oghenetega
+- Warren
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
 - [Tillmann Int-Veen](https://github.com/tintveen)
-- [Saurabh Raj]
+- Saurabh Raj
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
@@ -4395,7 +4395,7 @@
 - [Ouadie Limouni](https://github.com/ouadielim)
 - [Bilal Mahmood](https://github.com/bmahmood1)
 - [Alan Mathew](https://github.com/alamathe1)
-- [apoc]
+- apoc
 - [Apoorv Tomar](https://github.com/apoorvtomar2222)
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
@@ -4406,20 +4406,21 @@
 - [Helgi Helgason](https://github.com/HelgiHe)
 - [Victor Orozco](https://github.com/metrognome1)
 - [Rocky Santiago](https://github.com/RockySantiago)
+- [Fernando Recede](https://github.com/fernandorecede)
 - [Nandan Meda](https://github.com/nandanmeda1999)
 - [HSARMA](https://github.com/hsarma)
 - [Ronit Ray](https://github.com/RonitRay)
-- [Jai Agarwal]
+- Jai Agarwal
 - [RaddeKT](https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
-- [Jack]
-- [Joseph Climber]
+- Jack
+- Joseph Climber
 - [Ryzal Kamis](https://github.com/ryzalk)
 - [Swapnil Ojha](https://github.com/swakansh/)
 - [Ian Fenwick](https://github.com/rokumsockum/)
-- [honka honka]
+- honka honka
 - [Randy Harkediansa](https://github.com/harked/)
 - [Nathan Pearson](https://github.com/NathanPearson)
 - [Wil Santana](https://github.com/fredosantana/)
@@ -4461,7 +4462,7 @@
 - [Vimalraj](https://github.com/vimalraj571)
 - [Steffen Böhringer](https://github.com/dableGit)
 - [Ellen Choi](https://github.com/ellenchoi97)
-- [Osa Bo]
+- Osa Bo
 - [Kenji Japra](https://github.com/kensj)
 - [Arthur Loukes](https://github.com/arthurloukes)
 - [Rajeev Ranjan](https://github.com/rajeevcoding)
