@@ -202,7 +202,7 @@
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
-https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.com/ceculia)
+- [Saria L](http://github.com/ceculia)
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -1132,7 +1132,7 @@ https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.co
 - [Celio Paiva](https://github.com/cjuniorr)
 - [Bogdan Manole](https://github.com/BogdanManole)
 - [Mridul tuteja](https://github.com/mridultuteja)
-- [Thadeu Cotts](https://github.com/cotts)https://github.com/cyclerdan/first-contributions.git
+- [Thadeu Cotts](https://github.com/cotts)
 - [Debaditya Dey](https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
@@ -2662,7 +2662,7 @@ https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.co
 - [Michael Cuomo](https://github.com/MikeX777)
 - [Samuel Elbaz](https://github.com/raregamer)
 - [Dan Langley](https://github.com/dlangleychi)
-- [Linda Cai](https://game123tttoe.herokuapp.com/)https://github.com/cyclerdan/first-contributions.git
+- [Linda Cai](https://game123tttoe.herokuapp.com/)
 - [Haneesh Reddy](https://github.com/haneeshr)
 - [Hamza](https://github.com/Achtelnote)
 - [Alexandre Vasse](https://github.com/Avasse)
@@ -2758,7 +2758,7 @@ https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.co
 - [Jalen Adams](https://github.com/LeftySolara)
 - [Akshay Havile](https://github.com/akshayhavile)
 - [Venkat Rao Pasupuleti](https://github.com/venkatraopasupuleti)
-- [Josh Slater](https://github.com/jslaterwriter)https://github.com/cyclerdan/first-contributions.git
+- [Josh Slater](https://github.com/jslaterwriter)
 - [Veerendra Mahawar](https://github.com/VeerendraMahawar)
 - [Ashok Manghat](https://github.com/ashokmanghat)
 - [Claudia Vidican](https://github.com/DoctorAsia)
@@ -3178,7 +3178,7 @@ https://github.com/cyclerdan/first-contributions.git- [Saria L](http://github.co
 - [Jack Lange](https://github.com/bld456)
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
 - [Rinal P](https://github.com/rinal96)
-- [psittacine](https://github.com/psittacine)https://github.com/cyclerdan/first-contributions.git
+- [psittacine](https://github.com/psittacine)
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
 - [Alessandro Racheli](https://github.com/floydjohn)
