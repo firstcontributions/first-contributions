@@ -4471,6 +4471,7 @@
 - [Marius Gelez](https://github.com/mariusgelez)
 - [Otim Fredrick](https://github.com/otim22)
 - [Razvan Radoi](https://github.com/razvanra2)
+- [Eric Hart](https://github.com/erichart)
 - [Steven Tortora](https://github.com/stvtortora)
 - [Cosmas Udom](https://github.com/udom19)
 - [James Bie](https://github.com/JamesBie)
