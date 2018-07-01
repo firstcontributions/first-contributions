@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Oliver Wilkins] (https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
@@ -4471,4 +4472,9 @@
 - [Otim Fredrick](https://github.com/otim22)
 - [Razvan Radoi](https://github.com/razvanra2)
 - [cyclerdan](https://github.com/cyclerdan)
+- [Eric Hart](https://github.com/erichart)
 - [Steven Tortora](https://github.com/stvtortora)
+- [Cosmas Udom](https://github.com/udom19)
+- [James Bie](https://github.com/JamesBie)
+- [Aditya Kolla](https://github.com/Aditya-Kolla)
+- [stipan128](https://github.com/stipan128)
