@@ -4469,6 +4469,7 @@
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
 - [Marius Gelez](https://github.com/mariusgelez)
+- [Manjunatha Bairi](https://github.com/Manjunatha-b)
 - [Otim Fredrick](https://github.com/otim22)
 - [Razvan Radoi](https://github.com/razvanra2)
 - [cyclerdan](https://github.com/cyclerdan)
