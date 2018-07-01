@@ -4468,6 +4468,7 @@
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
+- [Dipesh Digwal](https://github.com/dipeshdigwal)
 - [Marius Gelez](https://github.com/mariusgelez)
 - [Manjunatha Bairi](https://github.com/Manjunatha-b)
 - [Otim Fredrick](https://github.com/otim22)
