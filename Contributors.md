@@ -1,5 +1,6 @@
 # Contributors
 
+- [Amaury Perrin](https://github.com/ryudii)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
