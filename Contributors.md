@@ -1,4 +1,6 @@
-﻿# Contributors
+# Contributors
+
+- [Anoushka Saraswat](https://github.com/anoushkasaraswat)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
