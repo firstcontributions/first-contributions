@@ -4436,6 +4436,7 @@
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
+- [Muhammad Tajjiou](https://github.com/shutsugan)
 - [Elvin Samuel](https://github.com/elvinsamuel)
 - [Hazim Khaled](https://github.com/Haziim7)
 - [Chamath T](https://github.com/chamatht)
