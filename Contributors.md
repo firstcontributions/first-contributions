@@ -1,6 +1,7 @@
 # Contributors
-- [Roland Kr] (https://github.com/rolandkr)
-- [Sudhanshu Dwivedi] (https://github.com/Sudhanshudwivedi)
+
+- [Roland Kr](https://github.com/rolandkr)
+- [Sudhanshu Dwivedi](https://github.com/Sudhanshudwivedi)
 - [Amaury Perrin](https://github.com/ryudii)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
@@ -4436,6 +4437,7 @@
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
+- [Yvette Ruiz](https://github.com/yruiz/)
 - [Muhammad Tajjiou](https://github.com/shutsugan)
 - [Elvin Samuel](https://github.com/elvinsamuel)
 - [Hazim Khaled](https://github.com/Haziim7)
