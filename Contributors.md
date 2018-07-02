@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [vishal](https://github.com/cyberne7work)
 - [Oisin Quinn](https://github.com/oisinq)
 - [Felipe Rigo](https://github.com/rigo4rigo)
@@ -4522,3 +4522,5 @@
 - [Craig Campbell](https://github.com/craigsoup)
 - [Jefferson] (https://github.com/jefferson2z)
 - [Marc Kelechava](https://github.com/marcmuon)
+- [Sam DePierro](https://github.com/sdepierro)
+
