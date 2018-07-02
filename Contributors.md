@@ -1,5 +1,6 @@
 # Contributors
 
+- [Bryan Hitchcock](https://github.com/bryanhitchcock)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
