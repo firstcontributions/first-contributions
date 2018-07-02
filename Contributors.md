@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
@@ -4434,6 +4434,7 @@
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
+- [Elvin Samuel](https://github.com/elvinsamuel)
 - [Hazim Khaled](https://github.com/Haziim7)
 - [Chamath T](https://github.com/chamatht)
 - [Khayame](https://github.com/Khayame)
