@@ -4429,6 +4429,7 @@
 - [Wil Santana](https://github.com/fredosantana/)
 - [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
+- [Nicholas Rogers](https://github.com/TheirOwn)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
