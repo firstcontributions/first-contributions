@@ -4502,6 +4502,7 @@
 - [Aditya Kolla](https://github.com/Aditya-Kolla)
 - [stipan128](https://github.com/stipan128)
 - [Pavel Yermalovich](https://github.com/pavel-yermalovich)
+- [Hugues Ferland](https://github.com/huguesf)
 - [Marcin Dampc](https://github.com/marcindampc)
 - [Johann Lembach](https://github.com/jole6826)
 - [Matthew A](https://github.com/bloodbornebi)
