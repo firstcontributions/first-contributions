@@ -1,5 +1,6 @@
 # Contributors
 
+- [Bryan Hitchcock](https://github.com/bryanhitchcock)
 - [Anoushka Saraswat](https://github.com/anoushkasaraswat)
 - [Roland Kr](https://github.com/rolandkr)
 - [Sudhanshu Dwivedi](https://github.com/Sudhanshudwivedi)
