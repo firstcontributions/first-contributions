@@ -4448,6 +4448,7 @@
 - [Sachin Tandon](https://github.com/sachintandon11)
 - [Adam Simpson](https://github.com/adamosimpson21)
 - [Murat Mermerkaya](https://github.com/muratmer)
+- [Daniela Muniz](https://github.com/danielamuniz367)
 - [Alisa Levin](https://github.com/alisalevin)
 - [Prince Carter](https://github.com/PrinceCarter)
 - [lwk](https://github.com/wk32)
