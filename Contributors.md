@@ -1,5 +1,5 @@
 # Contributors
-
+- [Roland Kr] (https://github.com/rolandkr)
 - [Sudhanshu Dwivedi] (https://github.com/Sudhanshudwivedi)
 - [Amaury Perrin](https://github.com/ryudii)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
