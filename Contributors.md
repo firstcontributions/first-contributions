@@ -4506,6 +4506,7 @@
 - [Kaan Ant](https://github.com/kaanant)
 - [Zain Patel](https://github.com/mzjp2)
 - [Rohit Pujar](https://github.com/rohitpujar)
+- [Hamza Hachimi](https://github.com/hachimihamza)
 - [Wesley Hutchinson](https://github.com/wesleyhutchinson)
 - [Eden Santana](https://github.com/edenalsant)
 - [A.C. Miller](https://github.com/spielere1n)
