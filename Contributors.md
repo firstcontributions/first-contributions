@@ -4507,4 +4507,5 @@
 - [Wesley Hutchinson](https://github.com/wesleyhutchinson)
 - [Eden Santana](https://github.com/edenalsant)
 - [A.C. Miller](https://github.com/spielere1n)
-- [Prathamesh Borhade](https://github.com/Prathamesh99) 
+- [Prathamesh Borhade](https://github.com/Prathamesh99)
+- [Killer Bouy](https://github.com/KillerBouy)
