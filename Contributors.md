@@ -4518,4 +4518,5 @@
 - [Prathamesh Borhade](https://github.com/Prathamesh99)
 - [Killer Bouy](https://github.com/KillerBouy)
 - Joshua Malone
+- [Alasdair Bannatyne](https://github.com/Bannatyne84)
 - [Craig Campbell](https://github.com/craigsoup)
