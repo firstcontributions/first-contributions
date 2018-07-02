@@ -1,5 +1,6 @@
 # Contributors
 
+- [Anoushka Saraswat](https://github.com/anoushkasaraswat)
 - [Roland Kr](https://github.com/rolandkr)
 - [Sudhanshu Dwivedi](https://github.com/Sudhanshudwivedi)
 - [Amaury Perrin](https://github.com/ryudii)
