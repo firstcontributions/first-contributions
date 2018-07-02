@@ -1,6 +1,7 @@
 # Contributors
 
 - [Oisin Quinn](https://github.com/oisinq)
+- [Felipe Rigo](https://github.com/rigo4rigo)
 - [Kishore Mohanavelu](https://github.com/kmohanavelu)
 - [Bryan Hitchcock](https://github.com/bryanhitchcock)
 - [Anoushka Saraswat](https://github.com/anoushkasaraswat)
