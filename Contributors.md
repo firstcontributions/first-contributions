@@ -21,6 +21,7 @@
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
 - [Tillmann Int-Veen](https://github.com/tintveen)
+- [Nicolas](https://github.com/nicolasvallee)
 - Saurabh Raj
 - [Michael Thariath](https://github.com/mthariath)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
