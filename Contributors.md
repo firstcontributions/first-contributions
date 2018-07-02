@@ -4424,6 +4424,7 @@
 - [Ian Fenwick](https://github.com/rokumsockum/)
 - honka honka
 - [Randy Harkediansa](https://github.com/harked/)
+- [Jordan Bourne](https://github.com/JordanBourne/)
 - [Breta Skinner](https://github.com/BretaCS/) 
 - [Nathan Pearson](https://github.com/NathanPearson)
 - [Wil Santana](https://github.com/fredosantana/)
