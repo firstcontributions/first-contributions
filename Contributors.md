@@ -4535,3 +4535,4 @@
 - Kamalakannan Ranganathan
 - [InfiniteFor](https://github.com/InfiniteFor)
 - [Collin Choy](collincchoy.github.io)
+- [Jonas Mazza](https://github.com/JonasMazza)
