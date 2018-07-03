@@ -4531,4 +4531,5 @@
 - [Marc Kelechava](https://github.com/marcmuon)
 - [Sam DePierro](https://github.com/sdepierro)
 - Jiajing Fang
+- [Michael Aizenshtat](https://github.com/MichaelAizenshtat)
 - Kamalakannan Ranganathan
