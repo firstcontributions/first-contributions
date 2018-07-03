@@ -1,4 +1,7 @@
-﻿# Contributors
+# Contributors
+
+- [Rohan Sharma](https://github.com/rohansharma777)
+- [Shubham Sharma](https://github.com/shubham99999)
 - [Jasper Martin] (https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - [Oisin Quinn](https://github.com/oisinq)
@@ -4433,6 +4436,7 @@
 - [Ian Fenwick](https://github.com/rokumsockum/)
 - honka honka
 - [Randy Harkediansa](https://github.com/harked/)
+- [Mohabdu](https://github.com/Mohabdu)
 - [Jordan Bourne](https://github.com/JordanBourne/)
 - [Breta Skinner](https://github.com/BretaCS/)
 - [Nathan Pearson](https://github.com/NathanPearson)
@@ -4440,6 +4444,7 @@
 - [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
 - [Nicholas Rogers](https://github.com/TheirOwn)
+- [Francisca Matamala](https://github.com/Jamonzito)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
@@ -4481,6 +4486,7 @@
 - [Vimalraj](https://github.com/vimalraj571)
 - [Steffen Böhringer](https://github.com/dableGit)
 - [Ellen Choi](https://github.com/ellenchoi97)
+- [libernon](https://github.com/libernon)
 - Osa Bo
 - [Kenji Japra](https://github.com/kensj)
 - [Arthur Loukes](https://github.com/arthurloukes)
@@ -4525,4 +4531,5 @@
 - [Marc Kelechava](https://github.com/marcmuon)
 - [Sam DePierro](https://github.com/sdepierro)
 - Jiajing Fang
-- Michael Aizenshtat(https://github.com/MichaelAizenshtat)
+- [Michael Aizenshtat](https://github.com/MichaelAizenshtat)
+- Kamalakannan Ranganathan
