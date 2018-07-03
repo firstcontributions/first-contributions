@@ -4538,3 +4538,4 @@
 - [Jonas Mazza](https://github.com/JonasMazza)
 - [Sid Lab](https://github.com/SidSoft)
 - [James Baxter](https://github.com/ekstasis)
+- [Emily Wilson](https://github.com/wilsonem)
