@@ -4441,6 +4441,7 @@
 - [Harriet Adkins](https://github.com/harrietadkins/)
 - [Jaime Arteaga](https://github.com/jandres742/)
 - [Nicholas Rogers](https://github.com/TheirOwn)
+- [Francisca Matamala](https://github.com/Jamonzito)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Hunter Czarnik](https://github.com/hczarnik)
