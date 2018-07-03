@@ -4534,3 +4534,4 @@
 - [Michael Aizenshtat](https://github.com/MichaelAizenshtat)
 - Kamalakannan Ranganathan
 - [InfiniteFor](https://github.com/InfiniteFor)
+- [Collin Choy](collincchoy.github.io)
