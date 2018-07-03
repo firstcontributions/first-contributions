@@ -4537,3 +4537,4 @@
 - [Collin Choy](collincchoy.github.io)
 - [Jonas Mazza](https://github.com/JonasMazza)
 - [Sid Lab](https://github.com/SidSoft)
+- [James Baxter](https://github.com/ekstasis)
