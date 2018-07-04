@@ -4552,3 +4552,4 @@
 - [Matt Outen](https://github.com/mouten57)
 - [Adam Britto](https://github.com/AtomCB)
 - [Mike Cornelissen](https://github.com/MikeCornelissen)
+- [Chris Arnold](https://github.com/chrisjarnold)
