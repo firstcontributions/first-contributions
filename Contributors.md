@@ -1,5 +1,5 @@
 # Contributors
-
+- [Chie Noda](https://github.com/chienoda)
 - archerkg
 - [Jonathan Mizrachi] (https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
