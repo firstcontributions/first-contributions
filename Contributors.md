@@ -4544,3 +4544,4 @@
 - [Gilberto Lopes](https://github.com/lopesgil)
 - [Ihar Mashniakou](https://github.com/Iharson)
 - [Stephen Yang](https://github.com/SYctonu)
+- [David Batty](https://github.com/dbaleeds)
