@@ -4540,3 +4540,4 @@
 - [James Baxter](https://github.com/ekstasis)
 - [Emily Wilson](https://github.com/wilsonem)
 - [Cat Ireton](https://github.com/somethingtrippy)
+- [Gilberto Lopes](https://github.com/lopesgil)
