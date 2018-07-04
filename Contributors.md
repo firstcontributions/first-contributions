@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - archerkg
 - [Rohan Sharma](https://github.com/rohansharma777)
@@ -4543,3 +4543,4 @@
 - [Cat Ireton](https://github.com/somethingtrippy)
 - [Gilberto Lopes](https://github.com/lopesgil)
 - [Ihar Mashniakou](https://github.com/Iharson)
+- [Vivek Talreja] (https://github.com/vivektalreja)
