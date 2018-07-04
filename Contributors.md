@@ -1,6 +1,7 @@
 # Contributors
 
 - archerkg
+- [Jonathan Mizrachi] (https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
 - [Jasper Martin] (https://github.com/jaspervanbrian)
