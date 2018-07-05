@@ -1,5 +1,6 @@
 # Contributors
 
+- [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
 - [Jonathan Mizrachi] (https://github.com/JohnMiz)
