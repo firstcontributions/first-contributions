@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
@@ -4560,3 +4560,4 @@
 - [S. Ben Stewart](https://github.com/sbenstewart)
 - [Millán Castro](https://github.com/diffo82)
 - [Algimantas Rauduve] (https://github.com/Algraud)
+- [Sakshi Dagar] (https://github.com/Dagarsakshi)
