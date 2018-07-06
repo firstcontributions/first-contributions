@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
