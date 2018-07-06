@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Sebastian Upjohn] (https://github.com/supjohn)
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
