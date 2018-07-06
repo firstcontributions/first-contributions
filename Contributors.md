@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
@@ -4563,3 +4563,4 @@
 - [Sakshi Dagar] (https://github.com/Dagarsakshi)
 - [Dinagar R] (https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
+- [Aditya Pallerlamudi](https://github.com/stpaditya)
