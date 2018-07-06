@@ -4564,3 +4564,6 @@
 - [Dinagar R] (https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
 - [Aditya Pallerlamudi](https://github.com/stpaditya)
+- [Koder Mustafa] (https://github.com/KoderTheCoder)
+- [Amine Troudi] (https://github.com/protoxy)
+- [JeffyJS](https://github.com/jeffyjs)
