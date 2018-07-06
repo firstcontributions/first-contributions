@@ -13,6 +13,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](Translations.md).*
+[<img align="right" width="700" src="assets/flags/all-flags-small.png" alt="list of flags" />](Translations.md)
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
