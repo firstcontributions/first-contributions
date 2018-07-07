@@ -1,13 +1,13 @@
 # Contributors
-
-- [Sebastian Upjohn] (https://github.com/supjohn)
-- [Anthony Bilic] (https://github.com/irulenot)
+- [Harikesh Pallantla](https://github.com/harikesh409)
+- [Sebastian Upjohn](https://github.com/supjohn)
+- [Anthony Bilic](https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
-- [Jonathan Mizrachi] (https://github.com/JohnMiz)
+- [Jonathan Mizrachi](https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
-- [Jasper Martin] (https://github.com/jaspervanbrian)
+- [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - [Oisin Quinn](https://github.com/oisinq)
 - [Felipe Rigo](https://github.com/rigo4rigo)
