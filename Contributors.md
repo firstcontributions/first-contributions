@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Anthony Bilic] (https://github.com/irulenot)
@@ -4568,3 +4568,4 @@
 - [Amine Troudi] (https://github.com/protoxy)
 - [JeffyJS](https://github.com/jeffyjs)
 - [Garen C](http://github.com/88gaz88)
+- [Imtiyaz](https://github.com/ahmedmi9)
