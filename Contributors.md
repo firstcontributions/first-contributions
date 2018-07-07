@@ -4,6 +4,7 @@
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
+- Asya Su
 - [Jonathan Mizrachi] (https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
