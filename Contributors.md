@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Jonathon Brandt] (https://github.com/jonathonjb2015)
 - [Sannan Ansari] (https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
