@@ -4561,6 +4561,7 @@
 - [Adam Britto](https://github.com/AtomCB)
 - [Mike Cornelissen](https://github.com/MikeCornelissen)
 - [Chris Arnold](https://github.com/chrisjarnold)
+- [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
 - [Steve Flames] (https://github.com/SteveFlames)
 - [S. Ben Stewart](https://github.com/sbenstewart)
