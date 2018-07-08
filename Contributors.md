@@ -1,4 +1,5 @@
 # Contributors
+
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Anthony Bilic] (https://github.com/irulenot)
@@ -4549,6 +4550,7 @@
 - [Cat Ireton](https://github.com/somethingtrippy)
 - [Gilberto Lopes](https://github.com/lopesgil)
 - [Ihar Mashniakou](https://github.com/Iharson)
+- [Vivek Talreja] (https://github.com/vivektalreja)
 - [Stephen Yang](https://github.com/SYctonu)
 - [David Batty](https://github.com/dbaleeds)
 - [Ryan Cornelius](https://github.com/Ryan-Cornelius)
