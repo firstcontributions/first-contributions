@@ -4532,7 +4532,7 @@
 - Joshua Malone
 - [Alasdair Bannatyne](https://github.com/Bannatyne84)
 - [Craig Campbell](https://github.com/craigsoup)
-- [Jefferson] (https://github.com/jefferson2z)
+- [Jefferson](https://github.com/jefferson2z)
 - [Marc Kelechava](https://github.com/marcmuon)
 - [Sam DePierro](https://github.com/sdepierro)
 - Jiajing Fang
@@ -4571,5 +4571,6 @@
 - [Imtiyaz](https://github.com/ahmedmi9)
 - [yoavravid](https://github.com/yoavravid)
 - [Ruijing Li](https://github.com/rjli13)
+- [Jona Reyes](https://github.com/rookie-cookie)
 - [bkapp15](https://github.com/bkapp15)
-- [Rx_Smar] (https://github.com/Smarpit-Singh)
+- [Rx_Smar](https://github.com/Smarpit-Singh)
