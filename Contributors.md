@@ -1,10 +1,11 @@
 # Contributors
 - [Harikesh Pallantla](https://github.com/harikesh409)
-- [Sebastian Upjohn](https://github.com/supjohn)
-- [Anthony Bilic](https://github.com/irulenot)
+- [Sebastian Upjohn] (https://github.com/supjohn)
+- [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
-- [Jonathan Mizrachi](https://github.com/JohnMiz)
+- Asya Su
+- [Jonathan Mizrachi] (https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
 - [Jasper Martin](https://github.com/jaspervanbrian)
@@ -4532,7 +4533,7 @@
 - Joshua Malone
 - [Alasdair Bannatyne](https://github.com/Bannatyne84)
 - [Craig Campbell](https://github.com/craigsoup)
-- [Jefferson] (https://github.com/jefferson2z)
+- [Jefferson](https://github.com/jefferson2z)
 - [Marc Kelechava](https://github.com/marcmuon)
 - [Sam DePierro](https://github.com/sdepierro)
 - Jiajing Fang
@@ -4569,3 +4570,13 @@
 - [JeffyJS](https://github.com/jeffyjs)
 - [Garen C](http://github.com/88gaz88)
 - [Imtiyaz](https://github.com/ahmedmi9)
+- [yoavravid](https://github.com/yoavravid)
+- [Ruijing Li](https://github.com/rjli13)
+- [Noah Schairer](https://github.com/nschairer)
+- [Rebecca Lassiter](https://github.com/RebeccaLassiter)
+- [Paul](https://github.com/grilledchickenthighs)
+- [bkapp15](https://github.com/bkapp15)
+- [Rajiv Sharma] (https://github.com/Rajivts)
+- [Jona Reyes](https://github.com/rookie-cookie)
+- [bkapp15](https://github.com/bkapp15)
+- [Rx_Smar](https://github.com/Smarpit-Singh)
