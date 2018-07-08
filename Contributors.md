@@ -4571,6 +4571,7 @@
 - [Imtiyaz](https://github.com/ahmedmi9)
 - [yoavravid](https://github.com/yoavravid)
 - [Ruijing Li](https://github.com/rjli13)
+- [Rebecca Lassiter](https://github.com/RebeccaLassiter)
 - [Paul](https://github.com/grilledchickenthighs)
 - [bkapp15](https://github.com/bkapp15)
 - [Rajiv Sharma] (https://github.com/Rajivts)
