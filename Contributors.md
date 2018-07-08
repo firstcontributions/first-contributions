@@ -4560,6 +4560,7 @@
 - [Matt Outen](https://github.com/mouten57)
 - [Carol Liang](https://github.com/chuqiao-liang)
 - [Adam Britto](https://github.com/AtomCB)
+- [Paul Duvall] (https://github.com/paul-duvall)
 - [Mike Cornelissen](https://github.com/MikeCornelissen)
 - [Chris Arnold](https://github.com/chrisjarnold)
 - [Saurab Dahal](https://github.com/saurabdahal)
