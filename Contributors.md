@@ -4577,6 +4577,7 @@
 - [Sakshi Dagar] (https://github.com/Dagarsakshi)
 - [Dinagar R] (https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
+- [Madhu Nagaraj] (https://github.com/madhusgit)
 - [Gavin Yang] (https://github.com/redagavin)
 - [Catherine Ting](https://github.com/catherineting)
 - [Christian Marca](https://github.com/ChristianMarca)
