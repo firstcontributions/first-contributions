@@ -4566,6 +4566,7 @@
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
 - [Steve Flames] (https://github.com/SteveFlames)
+- [Ines Santos] (https://github.com/inespalmasantos)
 - [S. Ben Stewart](https://github.com/sbenstewart)
 - [Millán Castro](https://github.com/diffo82)
 - [Algimantas Rauduve] (https://github.com/Algraud)
