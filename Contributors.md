@@ -4614,5 +4614,6 @@
 - [Ivan Rivera](https://github.com/Zigozig)
 - [Hunter B](https://github.com/h90barron)
 - [Brandon Wind](https://github.com/brandonrwind)
-- [sriranjani] (https://github.com/sriran)
+- [David Cid](https://github.com/davidcid)
+- [sriranjani](https://github.com/sriran)
 - [jmcintyre1](https://github.com/jmcintyre1)
