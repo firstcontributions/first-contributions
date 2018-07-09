@@ -4610,3 +4610,4 @@
 - [Rohan Kapur](https://github.com/RohanKapurDEV)
 - [Ivan Rivera](https://github.com/Zigozig)
 - [Brandon Wind](https://github.com/brandonrwind)
+- [David Cid](https://github.com/davidcid)
