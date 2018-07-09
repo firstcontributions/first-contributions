@@ -518,6 +518,7 @@
 - [Molotovna](https://github.com/molotovna)
 - [ivlv](https://github.com/ivlv)
 - [Alvin Raygon](https://github.com/blackchalk)
+- [Edewa Josh](https://github.com/edewajosh)
 - [Shiro Developer](https://github.com/shirodeveloper)
 - [Ivan Stojanov](https://github.com/ivostojanov)
 - [Rohan Gurjar](https://github.com/RohanGurjar)
