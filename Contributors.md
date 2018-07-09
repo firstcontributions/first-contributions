@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-- [Michal Pekar] (https://github.com/pekac45)
+- [Michal Pekar](https://github.com/pekac45)
 - [Ty Christian] (https://github.com/tchristian315)
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
