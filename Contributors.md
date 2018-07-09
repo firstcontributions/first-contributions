@@ -3860,6 +3860,7 @@
 - [Pranav Maheshwari](https://github.com/Blazing-Loris)
 - [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
 - [Guilherme de Lemos](https://github.com/guilhermedelemos)
+- [Gaurav Mitra] (https://github.com/gauravcse)
 - [ed-lev](https://github.com/EduardLev)
 - [Trshant](https://github.com/Trshant)
 - [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
