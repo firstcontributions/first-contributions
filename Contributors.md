@@ -4572,6 +4572,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [Aditya Pallerlamudi](https://github.com/stpaditya)
 - [Abhinav Ayush] (https://github.com/Abhinav2807)
 - [Steve Flames](https://github.com/SteveFlames)
 - [Ebenezer Don-Ugwu](https://github.com/ebenezerdon)
