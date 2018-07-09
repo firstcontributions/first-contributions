@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Michal Pekar] (https://github.com/pekac45)
 - [Ty Christian] (https://github.com/tchristian315)
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
@@ -4600,7 +4601,7 @@
 - [JeffyJS](https://github.com/jeffyjs)
 - [Garen C](http://github.com/88gaz88)
 - [Imtiyaz](https://github.com/ahmedmi9)
-- [yoavravid](https://github.com/yoavravid)
+- [yoavravid](https://github.com/yoavravid)Hunter B
 - [Ruijing Li](https://github.com/rjli13)
 - [Noah Schairer](https://github.com/nschairer)
 - [Rebecca Lassiter](https://github.com/RebeccaLassiter)
