@@ -1,5 +1,5 @@
 # Contributors
-
+- [Nikita Chernykh](https://github.com/NikitaChernykh)
 - [Ty Christian] (https://github.com/tchristian315)
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
