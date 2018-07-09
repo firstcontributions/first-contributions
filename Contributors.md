@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- [Ty Christian] (https://github.com/tchristian315)
 - [Sebastian Upjohn] (https://github.com/supjohn)
 - [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
 - [Anthony Bilic] (https://github.com/irulenot)
@@ -518,6 +519,7 @@
 - [Molotovna](https://github.com/molotovna)
 - [ivlv](https://github.com/ivlv)
 - [Alvin Raygon](https://github.com/blackchalk)
+- [Edewa Josh](https://github.com/edewajosh)
 - [Shiro Developer](https://github.com/shirodeveloper)
 - [Ivan Stojanov](https://github.com/ivostojanov)
 - [Rohan Gurjar](https://github.com/RohanGurjar)
@@ -3858,6 +3860,7 @@
 - [Pranav Maheshwari](https://github.com/Blazing-Loris)
 - [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
 - [Guilherme de Lemos](https://github.com/guilhermedelemos)
+- [Gaurav Mitra] (https://github.com/gauravcse)
 - [ed-lev](https://github.com/EduardLev)
 - [Trshant](https://github.com/Trshant)
 - [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
@@ -4609,5 +4612,8 @@
 - [Rx_Smar](https://github.com/Smarpit-Singh)
 - [Rohan Kapur](https://github.com/RohanKapurDEV)
 - [Ivan Rivera](https://github.com/Zigozig)
+- [Hunter B](https://github.com/h90barron)
 - [Brandon Wind](https://github.com/brandonrwind)
 - [David Cid](https://github.com/davidcid)
+- [sriranjani](https://github.com/sriran)
+- [jmcintyre1](https://github.com/jmcintyre1)
