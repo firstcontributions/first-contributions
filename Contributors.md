@@ -1,7 +1,7 @@
-﻿# Contributors
-
-- [Jonathon Brandt] (https://github.com/jonathonjb2015)
-- [Sannan Ansari] (https://github.com/sannanansari)
+# Contributors
+- [Virginia Balseiro](https://github.com/VirginiaBalseiro)
+- [Jonathon Brandt](https://github.com/jonathonjb2015)
+- [Sannan Ansari](https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
 - [Harikesh Pallantla](https://github.com/harikesh409)
@@ -4578,8 +4578,8 @@
 - [Dinagar R](https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
 - J
-- [Madhu Nagaraj] (https://github.com/madhusgit)
-- [Gavin Yang] (https://github.com/redagavin)
+- [Madhu Nagaraj](https://github.com/madhusgit)
+- [Gavin Yang](https://github.com/redagavin)
 - [Catherine Ting](https://github.com/catherineting)
 - [Christian Marca](https://github.com/ChristianMarca)
 - [Koder Mustafa](https://github.com/KoderTheCoder)
