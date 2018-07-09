@@ -4601,3 +4601,4 @@
 - [Rx_Smar](https://github.com/Smarpit-Singh)
 - [Rohan Kapur](https://github.com/RohanKapurDEV)
 - [Ivan Rivera](https://github.com/Zigozig)
+- [Lichi Chen](https://github.com/aldy120)
