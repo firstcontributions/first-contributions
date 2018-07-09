@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ty Christian] (https://github.com/tchristian315)
 - [Sebastian Upjohn] (https://github.com/supjohn)
@@ -4612,6 +4612,7 @@
 - [Rx_Smar](https://github.com/Smarpit-Singh)
 - [Rohan Kapur](https://github.com/RohanKapurDEV)
 - [Ivan Rivera](https://github.com/Zigozig)
+- [Hunter B](https://github.com/h90barron)
 - [Brandon Wind](https://github.com/brandonrwind)
 - [sriranjani] (https://github.com/sriran)
 - [jmcintyre1](https://github.com/jmcintyre1)
