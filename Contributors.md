@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sebastian Upjohn] (https://github.com/supjohn)
 - [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
 - [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
@@ -4573,6 +4574,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [Guilherme Ferreira](https://github.com/Guiponsoni)
 - [Aditya Pallerlamudi](https://github.com/stpaditya)
 - [Abhinav Ayush] (https://github.com/Abhinav2807)
 - [Steve Flames](https://github.com/SteveFlames)
