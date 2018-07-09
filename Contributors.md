@@ -1,4 +1,7 @@
 # Contributors
+
+- [Anthony Bilic] (https://github.com/irulenot)
+- Getenet Wol (https://github.com/getsei)
 - [Shreyans Jain](https://github.com/skull-Knight)
 - archerkg
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
@@ -4569,6 +4572,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [Abhinav Ayush] (https://github.com/Abhinav2807)
 - [Steve Flames](https://github.com/SteveFlames)
 - [Ebenezer Don-Ugwu](https://github.com/ebenezerdon)
 - [Andrew Caldwell](https://github.com/drew23c)
