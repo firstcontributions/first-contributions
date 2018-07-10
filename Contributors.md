@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Trevor Yarmovich] (https://github.com/Prometheus1970)
 - [Michal Pekar] (https://github.com/pekac45)
 - [Nabeel Hussain] (https://github.com/nabeelh21)
 - [Ty Christian] (https://github.com/tchristian315)
