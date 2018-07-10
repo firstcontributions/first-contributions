@@ -1,13 +1,13 @@
 ﻿# Contributors
 
-- [Trevor Yarmovich] (https://github.com/Prometheus1970)
-- [Michal Pekar] (https://github.com/pekac45)
-- [Nabeel Hussain] (https://github.com/nabeelh21)
-- [Ty Christian] (https://github.com/tchristian315)
-- [Sebastian Upjohn] (https://github.com/supjohn)
-- [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
-- [Anthony Bilic] (https://github.com/irulenot)
-- Getenet Wol (https://github.com/getsei)
+- [Trevor Yarmovich](https://github.com/Prometheus1970)
+- [Michal Pekar](https://github.com/pekac45)
+- [Nabeel Hussain](https://github.com/nabeelh21)
+- [Ty Christian](https://github.com/tchristian315)
+- [Sebastian Upjohn](https://github.com/supjohn)
+- [Arthur Cavalcante Gomes Coelho](https://github.com/arthurcgc)
+- [Anthony Bilic](https://github.com/irulenot)
+- Getenet Wol(https://github.com/getsei)
 - [Shreyans Jain](https://github.com/skull-Knight)
 - archerkg
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
@@ -4622,3 +4622,4 @@
 - [jmcintyre1](https://github.com/jmcintyre1)
 - [joerho](https://github.com/joerho)
 - [Liran Mery](https://github.com/liranm)
+- [thearunster](https://github.com/thearunster)
