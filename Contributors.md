@@ -4629,3 +4629,4 @@
 - [Ronnie Skowron](https://github.com/ronskowron)
 - [Christian Campusano](https://github.com/campusano13)
 - [Nichelle Richardson](https://github.com/nrrichardson05)
+- [Daniel Rogers](https://github.com/daniel-rogers-gh)
