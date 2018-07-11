@@ -6,9 +6,11 @@
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+
+#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](Translations.md).*
 
@@ -25,14 +27,14 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
+Now clone this repo to your machine. Go to your GitHub account, click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
 
 ```
 git clone "url you just copied"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+where "url you just copied" (without the quote marks) is the url to this repository(your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -51,7 +53,7 @@ cd first-contributions
 ```
 Now create a branch using the `git checkout` command:
 ```
-git checkout -b <add-your-name>
+git checkout -b <add-your-new-branch-name>
 ```
 
 For example:
@@ -62,23 +64,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor. You must be familiar with Markdown, a lightweight markup language. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown.
-
-In this case, add the following line at the end of `Contributors.md:`
-
-```
-- [Your-name](https://github.com/Your-username)
-```
-
-For example:
-
-```
-- [John Doe](https://github.com/johndoe)
-```
-
-Make sure there is no space between `](` . Save the file and then close it.
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
@@ -94,9 +80,9 @@ replacing `<your-name>` with your name.
 
 Push your changes using the command `git push`:
 ```
-git push origin <add-your-name>
+git push origin <add-your-branch-name>
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
@@ -112,13 +98,15 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools

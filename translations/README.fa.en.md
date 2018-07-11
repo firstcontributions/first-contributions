@@ -10,7 +10,7 @@ Sakhte. Hamishe Anjam Dadane Kari Baraye Avvalin Bar Sakhte. Makhsoosan Vaghti D
 Khoondane Maghale Va Didane Tutorial Ha Mitoone Komak Kone, Amma Chi Az Vaghan Anjam Dadane Kar Ha Bedoone Kharab Kari Behtare ?
 Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Baraye Avvalin Mosharekat.eshoone . Yadetoon Bashe: Harchi Relax Tar Bashi, Behtar Yad Migiri. Age Donbale IN Hasti Ke Avvalin Contribute Ro Anjam Bedi, Faghat Ghadam Be Ghadam Rahnamaye Zir Ro Donbal Kon. Ma Behet Ghol Midim, Gharare Khosh Begzare :D
 
-#### *IN Ro Dar [Zaban Haye Dige](Translations.md) Bekhoonin.*
+#### *IN Ro Dar [Zaban Haye Dige](../Translations.md) Bekhoonin.*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -104,14 +104,14 @@ Dar Soorati Ke Soal Dashti Ya Komak Khasti Mitooni Be Teame Slacke Ma Bepeyvandi
 Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Moshkelate Sade Gerd Avari Kardim Ke Mitooni Az OON Ja Shoroo Koni.
 [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](additional-material/additional-material.md)
+### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Self-Promotion
 
@@ -120,4 +120,4 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
