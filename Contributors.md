@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
@@ -4633,3 +4633,4 @@
 - [Daniel Rogers](https://github.com/daniel-rogers-gh)
 - [SamperMan44] (https://github.com/SamperMan44)
 - [adityapoorna] (https://github.com/adityapoorna)
+- [Muhammad Uzair Razzaq] (https://github.com/UzairRazzaq)
