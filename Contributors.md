@@ -4638,3 +4638,4 @@
 - [anderfred] (https://github.com/anderfred)
 - [Szymon Ożóg] (https://github.com/SzymonOzog)
 - [Yogesh Mangaj](https://github.com/yogeshmangaj)
+- [Thomas Allan](https://github.com/ThomasAllan)
