@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Alex Chiang] (https://github.com/kschiang19)
 - [Trevor Yarmovich] (https://github.com/Prometheus1970)
 - [Michal Pekar] (https://github.com/pekac45)
 - [Nabeel Hussain] (https://github.com/nabeelh21)
