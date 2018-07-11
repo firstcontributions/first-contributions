@@ -1,11 +1,14 @@
-﻿# Contributors
-
+# Contributors
+- [Alex Chiang](https://github.com/kschiang19)
+- [Hector SM](https://github.com/ZhectorSM)
+- [Trevor Yarmovich](https://github.com/Prometheus1970)
 - [Michal Pekar](https://github.com/pekac45)
-- [Ty Christian] (https://github.com/tchristian315)
-- [Sebastian Upjohn] (https://github.com/supjohn)
-- [Arthur Cavalcante Gomes Coelho] (https://github.com/arthurcgc)
-- [Anthony Bilic] (https://github.com/irulenot)
-- Getenet Wol (https://github.com/getsei)
+- [Nabeel Hussain](https://github.com/nabeelh21)
+- [Ty Christian](https://github.com/tchristian315)
+- [Sebastian Upjohn](https://github.com/supjohn)
+- [Arthur Cavalcante Gomes Coelho](https://github.com/arthurcgc)
+- [Anthony Bilic](https://github.com/irulenot)
+- [Getenet Wol](https://github.com/getsei)
 - [Shreyans Jain](https://github.com/skull-Knight)
 - archerkg
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
@@ -4618,3 +4621,11 @@
 - [David Cid](https://github.com/davidcid)
 - [sriranjani](https://github.com/sriran)
 - [jmcintyre1](https://github.com/jmcintyre1)
+- [joerho](https://github.com/joerho)
+- [Liran Mery](https://github.com/liranm)
+- [Steve Core](https:github.com/CorattiS86)
+- [Sergiu Ilciuc](https://github.com/SergiuIlciuc)
+- [Shin Yee Tan](https://github.com/shinyeet)
+- [Ronnie Skowron](https://github.com/ronskowron)
+- [Christian Campusano](https://github.com/campusano13)
+- [Nichelle Richardson](https://github.com/nrrichardson05)
