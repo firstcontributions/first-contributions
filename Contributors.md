@@ -4635,3 +4635,4 @@
 - [adityapoorna] (https://github.com/adityapoorna)
 - [Vvitsen] (https://github.com/Vvitsen)
 - [ReemOA] (https://github.com/ReemOA)
+- [John Karaplis] (http://github.com/jzkarap)
