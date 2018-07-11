@@ -4635,5 +4635,5 @@
 - [adityapoorna] (https://github.com/adityapoorna)
 - [Vvitsen] (https://github.com/Vvitsen)
 - [ReemOA] (https://github.com/ReemOA)
-- [Szymon Ożóg] (https://github.com/SzymonOzog)
 - [anderfred] (https://github.com/anderfred)
+- [Szymon Ożóg] (https://github.com/SzymonOzog)
