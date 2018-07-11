@@ -2792,6 +2792,7 @@
 - [Jon Mabale](https://github.com/jonmabale)
 - [Kat Batuigas](https://github.com/kbatuigas)
 - [Kaue Silva](https://github.com/klolivei)
+- [Omry Zur](https://github.com/zomry1)
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
 - [Susan Lippa](https://github.com/slippa91)
