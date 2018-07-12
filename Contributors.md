@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+
 
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
@@ -4585,6 +4586,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [Aritro Ghosh](htps://github.com/aritro01)
 - [Shafique Mohammad](https://github.com/shafique-md18)
 - [Guilherme Ferreira](https://github.com/Guiponsoni)
 - [Aditya Pallerlamudi](https://github.com/stpaditya)
