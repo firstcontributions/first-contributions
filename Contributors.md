@@ -1,5 +1,6 @@
 # Contributors
 
+- [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
 - [Peeyush Sharma](https://github.com/peeyushshawarma)
 - [Alakhator](https://github.com/Alakhator)
