@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
@@ -4637,3 +4637,4 @@
 - [ReemOA] (https://github.com/ReemOA)
 - [anderfred] (https://github.com/anderfred)
 - [Szymon Ożóg] (https://github.com/SzymonOzog)
+- [Annie] (https://github.com/as156)
