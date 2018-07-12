@@ -572,6 +572,7 @@
 - [Panayiotis Kaizo](https://github.com/pns2050)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Grant Hixson](https://github.com/androidfanatic)
+- [Edmund Lai](https://github.com/EdmundLai)
 - [AndroidFanatic](https://github.com/androidfanatic)
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
 - [Santiago Carello](https://github.com/santiagocarello)
