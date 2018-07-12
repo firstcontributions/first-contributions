@@ -4664,6 +4664,7 @@
 - [Amee Li](https://github.com/ameeli)
 - [Ben Danen](https://github.com/HendrikBD)
 - [Adarsh Nanwani](https://github.com/adarshnanwani)
+- [Sonny Lamsong](https://github.com/piratesonny)
 - [Dan Elias](https://github.com/dan-elias)
 - [evondev](https://github.com/evondev)
 - [Shraddha Agarwala](https://github.com/ashraddha)
