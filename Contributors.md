@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
@@ -4646,3 +4646,4 @@
 - [Ben Danen](https://github.com/HendrikBD)
 - [Adarsh Nanwani](https://github.com/adarshnanwani)
 - [Shraddha Agarwala] (https://github.com/ashraddha)
+- [Sonny Lamsong]()https://github.com/piratesonny)
