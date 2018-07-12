@@ -25,7 +25,7 @@ Acesta va creea o copie a repozitoriului în contul tău.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Acum clonează acest repo pe computerul tau. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
+Acum clonează acest repo pe computerul tău. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
 
 Deschideți un terminal și executați următoarea comanda git: 
 
@@ -97,11 +97,11 @@ Curând eu voi îmbina toate schimbările în ramura principală a acestui proie
 
 Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alatură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alătură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare pe care le puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Materiale aditionale ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Materiale adiționale ](../additional-material/git_workflow_senarios/additional-material.md)
 
 
 ## Tutoriale Folosind Alte Unelte
@@ -110,7 +110,7 @@ Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de pr
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Promovare-Personala
+## Promovare-Personală
 
 Dacă ți-a plăcut acest proiect, pune-i o stea pe [GitHub](https://github.com/Roshanjossey/first-contributions).
 Dacă vă simțiți deosebit de caritabili, urmați-mă [Roshan](https://roshanjossey.github.io/) pe
