@@ -4627,6 +4627,7 @@
 - [Lichi Chen](https://github.com/aldy120)
 - [Hunter B](https://github.com/h90barron)
 - [Brandon Wind](https://github.com/brandonrwind)
+- [Ash Ringler](https://github.com/AshRing)
 - [David Cid](https://github.com/davidcid)
 - [sriranjani](https://github.com/sriran)
 - [jmcintyre1](https://github.com/jmcintyre1)
