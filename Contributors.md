@@ -4646,6 +4646,7 @@
 - [Christian Campusano](https://github.com/campusano13)
 - [Nichelle Richardson](https://github.com/nrrichardson05)
 - [Daniel Rogers](https://github.com/daniel-rogers-gh)
+- [John Karaplis](http://github.com/jzkarap)
 - [Muhammad Uzair Razzaq](https://github.com/UzairRazzaq)
 - [SamperMan44](https://github.com/SamperMan44)
 - [adityapoorna](https://github.com/adityapoorna)
