@@ -4647,3 +4647,4 @@
 - [Ben Danen](https://github.com/HendrikBD)
 - [Adarsh Nanwani](https://github.com/adarshnanwani)
 - [Shraddha Agarwala] (https://github.com/ashraddha)
+- [Dan Elias] (https://github.com/dan-elias)
