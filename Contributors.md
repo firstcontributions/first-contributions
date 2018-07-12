@@ -4656,6 +4656,7 @@
 - [Szymon Ożóg](https://github.com/SzymonOzog)
 - [Yogesh Mangaj](https://github.com/yogeshmangaj)
 - [Thomas Allan](https://github.com/ThomasAllan)
+- [Kristjan Koemets] (https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
 - [Erik Boström](https://github.com/erikbostrom)
 - [Ahmet Aykut Ay](https://github.com/ahmetaykutay)
