@@ -4623,6 +4623,7 @@
 - [Rx_Smar](https://github.com/Smarpit-Singh)
 - [Rohan Kapur](https://github.com/RohanKapurDEV)
 - [Ivan Rivera](https://github.com/Zigozig)
+- [Lichi Chen](https://github.com/aldy120)
 - [Hunter B](https://github.com/h90barron)
 - [Brandon Wind](https://github.com/brandonrwind)
 - [David Cid](https://github.com/davidcid)
