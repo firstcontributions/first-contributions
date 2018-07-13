@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Adam Ghannoum] (https://github.com/AmDji)
 - [Shradha Sharma] (https://github.com/Shradha27)
 - [Abhith Krishna](https//github.com/donosco98)
 - [Nic B](https://github.com/Stepper2909)
