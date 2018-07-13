@@ -96,6 +96,16 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Delete the branch after pull request has been merged
+
+You can safely delete your branch "<add-your-branch-name>" after the pull request has been merged. You'll see a button to delete the branch:
+
+<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+
+If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
+
+<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
