@@ -4673,3 +4673,4 @@
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
+- [Connor Dovell] (https://github.com/connordovell)
