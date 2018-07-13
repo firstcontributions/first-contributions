@@ -1,5 +1,7 @@
 # Contributors
-- [Abhith Krishna] (https//github.com/donosco98)
+
+- [Abhith Krishna](https//github.com/donosco98)
+- [Nic B](https://github.com/Stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
 - [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
@@ -4674,3 +4676,5 @@
 - [Graham Wright](https://github.com/Reebster)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell] (https://github.com/connordovell)
+- [Yash Patil](https://https://github.com/ypatil12)
+- [Will Torres](https://github.com/gtrstr)
