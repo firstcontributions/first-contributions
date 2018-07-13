@@ -2682,6 +2682,7 @@
 - [Hoshiki Tsunoda](https://github.com/hoshikitsunoda)
 - [Dilan Sachintha](https://github.com/dilanSachi)
 - [maqor](https://github.com/maqor)
+- [Diya Liza Varghses](https://github.com/diya-liza)
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
 - [jonascastulik](https://github.com/jonascastulik)
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
