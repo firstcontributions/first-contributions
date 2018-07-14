@@ -4692,3 +4692,4 @@
 - [Nick Cruess](https://github.com/ngcruess)
 - [Eric Leung](https://github.com/itsercleung)
 - [gmt20](https://github.com/gmt20)
+- [Vedant vasishtha](https://github.com/vedantv)
