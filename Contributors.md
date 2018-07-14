@@ -1,7 +1,8 @@
 ﻿# Contributors
 
 - [Mohita Chaudhary](https://github.com/mohita02)
-- [Shradha Sharma] (https://github.com/Shradha27)
+- [Tanuj Nagpal](https://github.com/Tanuj69)
+- [Shradha Sharma](https://github.com/Shradha27)
 - [Abhith Krishna](https//github.com/donosco98)
 - [Nic B](https://github.com/Stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
