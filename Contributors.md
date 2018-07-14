@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Patrick Pelayo] (https://github.com/ppelayo1)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
 - [Shradha Sharma](https://github.com/Shradha27)
