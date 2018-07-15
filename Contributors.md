@@ -4688,6 +4688,7 @@
 - [Yujin Takayanagi](https://github.com/ytakayanagi)
 - [RaviTejaKomma](https://github.com/RaviTejaKomma)
 - [SriKrishnaJ](https://github.com/jsrikrishna11)
+- [NamithaMurali](https://github.com/NamithaMurali)
 - [Bazyli Kot](https://github.com/gitBKrp)
 - [Mocanu Gabriel](https://github.com/gabrielmocanu)
 - [Lee Roberts](https://github.com/leejroberts)
