@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Rainier Go] (https://github.com/raini35)
 - [Patrick Pelayo] (https://github.com/ppelayo1)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
