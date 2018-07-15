@@ -1,7 +1,7 @@
 # Contributors
 
-- [Rainier Go] (https://github.com/raini35)
-- [Patrick Pelayo] (https://github.com/ppelayo1)
+- [Rainier Go](https://github.com/raini35)
+- [Patrick Pelayo](https://github.com/ppelayo1)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
 - [Shradha Sharma](https://github.com/Shradha27)
@@ -4648,7 +4648,7 @@
 - [Liran Mery](https://github.com/liranm)
 - [Steve Core](https:github.com/CorattiS86)
 - [Sergiu Ilciuc](https://github.com/SergiuIlciuc)
-- [Carrie Morris] (https://github.com/Antephus/)
+- [Carrie Morris](https://github.com/Antephus/)
 - [Shin Yee Tan](https://github.com/shinyeet)
 - [Ronnie Skowron](https://github.com/ronskowron)
 - [Christian Campusano](https://github.com/campusano13)
@@ -4682,7 +4682,7 @@
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
-- [Connor Dovell] (https://github.com/connordovell)
+- [Connor Dovell](https://github.com/connordovell)
 - [Yash Patil](https://https://github.com/ypatil12)
 - [Will Torres](https://github.com/gtrstr)
 - [Yujin Takayanagi](https://github.com/ytakayanagi)
@@ -4706,4 +4706,5 @@
 - [Sagar Jani](https://github.com/alwaysreadytolearn)
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
 - Hammerhead
-- [Scott Shriver] (https://github.com/sshriver)
+- [Scott Shriver](https://github.com/sshriver)
+- [Zhenyu Yang](https://github.com/shrimpie)
