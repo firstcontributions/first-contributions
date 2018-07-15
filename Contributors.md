@@ -4707,3 +4707,4 @@
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
 - Hammerhead
 - [Scott Shriver] (https://github.com/sshriver)
+- [Laura Tremblay] (https://github.com/lauratremblay)
