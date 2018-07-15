@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Rainier Go] (https://github.com/raini35)
 - [Patrick Pelayo] (https://github.com/ppelayo1)
@@ -4664,6 +4664,7 @@
 - [anderfred](https://github.com/anderfred)
 - [Szymon Ożóg](https://github.com/SzymonOzog)
 - [Yogesh Mangaj](https://github.com/yogeshmangaj)
+- [Tj Muscarella](https://github.com/tmuscar)
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
