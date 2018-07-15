@@ -122,4 +122,5 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://api.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
