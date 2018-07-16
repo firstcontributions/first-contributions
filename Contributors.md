@@ -4714,3 +4714,4 @@
 - [Hartmann Fabian](https://github.com/fabianhartmann98)
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [Mehmet Baran](https://github.com/mbrn)
+- [Chris Palomares](https://github.com/eviljorge)
