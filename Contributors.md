@@ -4710,3 +4710,5 @@
 - [Laura Tremblay] (https://github.com/lauratremblay)
 - [Lachlan F](https://github.com/greenfur05/)
 - [Vishnu Chandrappan](http://github.com/vishnuchandrappan)
+- [Codius Nomadus] (http://github.com/thecodenomad)
+
