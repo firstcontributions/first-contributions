@@ -4672,3 +4672,4 @@
 - [Hattori Henzo](https://github.com/HattoriHenzo)
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
+- [Dustin Sugasa](https://github.com/dpsugasa)
