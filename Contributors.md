@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Aditya Dehal] (https://github.com/aditya2000)
 - [Rainier Go] (https://github.com/raini35)
@@ -4716,3 +4716,5 @@
 - [Mehmet Baran](https://github.com/mbrn)
 - [Chris Palomares](https://github.com/eviljorge)
 - [Blessing Sibanda](https://github.com/banQomania)
+- [Kwezan] (https://github.com/Kwezan)
+
