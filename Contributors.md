@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
@@ -4721,3 +4721,4 @@
 - [Blessing Sibanda](https://github.com/banQomania)
 - [Rahul Chandra](https://github.com/irahulcse)
 - [Coldfight](https://github.com/coldfight)
+- [Xavier Salazar](https://github.com/xaviersalazar)
