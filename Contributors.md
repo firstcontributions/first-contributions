@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
@@ -4723,3 +4723,4 @@
 - [Coldfight](https://github.com/coldfight)
 - [Xavier Salazar](https://github.com/xaviersalazar)
 - [Omar](https://github.com/omardeleo)
+- [XDoubleU](https://github.com/xdoubleu)
