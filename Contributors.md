@@ -4715,3 +4715,4 @@
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [Mehmet Baran](https://github.com/mbrn)
 - [Chris Palomares](https://github.com/eviljorge)
+- [Chiraag Gohel](https://github.com/chi-raag
