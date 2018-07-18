@@ -1,12 +1,14 @@
-﻿# Contributors
+# Contributors
 
-- [Benjamin Kawecki] (https://github.com/benkawecki)
+
+- [Shukry Zablah](szablah20@amherst.edu)
+- [Benjamin Kawecki](https://github.com/benkawecki)
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
 - [Sathish Babu](https://github.com/sbsathish999)
-- [Aditya Dehal] (https://github.com/aditya2000)
-- [Rainier Go] (https://github.com/raini35)
-- [Patrick Pelayo] (https://github.com/ppelayo1)
+- [Aditya Dehal](https://github.com/aditya2000)
+- [Rainier Go](https://github.com/raini35)
+- [Patrick Pelayo](https://github.com/ppelayo1)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
 - [Shradha Sharma](https://github.com/Shradha27)
@@ -4711,8 +4713,8 @@
 - [Sagar Jani](https://github.com/alwaysreadytolearn)
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
 - Hammerhead
-- [Scott Shriver] (https://github.com/sshriver)
-- [Laura Tremblay] (https://github.com/lauratremblay)
+- [Scott Shriver](https://github.com/sshriver)
+- [Laura Tremblay](https://github.com/lauratremblay)
 - [Lachlan F](https://github.com/greenfur05/)
 - [Vishnu Chandrappan](http://github.com/vishnuchandrappan)
 - [Hartmann Fabian](https://github.com/fabianhartmann98)
@@ -4726,6 +4728,7 @@
 - [Omar](https://github.com/omardeleo)
 - [XDoubleU](https://github.com/xdoubleu)
 - [Yuxiang Zi](https://github.com/yxzi)
+- [Krishna](https://github.com/chkrishna411)
 - [Dwayne Taylor](https://github.com/codedragoncom)
 - [Krishna](https://github.com/chkrishna411)
 - [Will Taylor](https://github.com/wtaylor45)
