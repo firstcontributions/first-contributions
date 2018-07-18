@@ -4737,3 +4737,4 @@
 - [Salma Sultana](https://github.com/Sultaness)
 - [Danail Tsvetanov](https://github.com/AirborneB6)
 - [Ian Schenck] (https://github.com/ischenck)
+- [Douglas Hernandes] (https://github.com/hernandesdoug)
