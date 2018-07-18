@@ -1,5 +1,6 @@
 # Contributors
 
+- [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Martin Kim](https://github.com/martin0829)
 - [Shukry Zablah](szablah20@amherst.edu)
 - [Benjamin Kawecki](https://github.com/benkawecki)
