@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- Shukry Zablah (szablah20@amherst.edu)
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
 - [Sathish Babu](https://github.com/sbsathish999)
