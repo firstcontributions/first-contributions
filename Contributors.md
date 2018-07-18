@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Benjamin Kawecki] (https://github.com/benkawecki)
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
 - [Sathish Babu](https://github.com/sbsathish999)
@@ -4726,3 +4727,8 @@
 - [XDoubleU](https://github.com/xdoubleu)
 - [Yuxiang Zi](https://github.com/yxzi)
 - [Dwayne Taylor](https://github.com/codedragoncom)
+- [Krishna](https://github.com/chkrishna411)
+- [Will Taylor](https://github.com/wtaylor45)
+- Eric P
+- [Tszfung Chan](https://github.com/tszfung730)
+- [Salma Sultana](https://github.com/Sultaness)
