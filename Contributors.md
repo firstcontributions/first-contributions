@@ -4726,6 +4726,7 @@
 - [Omar](https://github.com/omardeleo)
 - [XDoubleU](https://github.com/xdoubleu)
 - [Yuxiang Zi](https://github.com/yxzi)
+- [Dwayne Taylor](https://github.com/codedragoncom)
 - [Krishna](https://github.com/chkrishna411)
 - [Will Taylor](https://github.com/wtaylor45)
 - Eric P
