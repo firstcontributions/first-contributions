@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Martin Kim](https://github.com/martin0829)
@@ -4744,3 +4744,4 @@
 - [Elias Flores](https://github.com/EliasFl)
 - [Kevinmbt](https://github.com/kevinmbt)
 - [Kevin Mak](https://github.com/kevinkmmak)
+- [Jesvin Palatty](https://github.com/PALATTY-J)
