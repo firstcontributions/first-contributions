@@ -4740,3 +4740,4 @@
 - [Ian Schenck] (https://github.com/ischenck)
 - [Douglas Hernandes] (https://github.com/hernandesdoug)
 - [Lucas Milne) (https://github.com/lucasmilne)
+- [Ryan Ozelie] (https://github.com/rozelie)
