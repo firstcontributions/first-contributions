@@ -4743,3 +4743,4 @@
 - [Ryan Ozelie] (https://github.com/rozelie)
 - [Elias Flores](https://github.com/EliasFl)
 - [Kevinmbt](https://github.com/kevinmbt)
+- [Kevin Mak](https://github.com/kevinkmmak)
