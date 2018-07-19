@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Brittany Donowho] (https://github.com/BrittWho)
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Martin Kim](https://github.com/martin0829)
