@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Brittany Donowho] (https://github.com/BrittWho)
+- [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Martin Kim](https://github.com/martin0829)
@@ -4739,10 +4740,10 @@
 - [Tszfung Chan](https://github.com/tszfung730)
 - [Salma Sultana](https://github.com/Sultaness)
 - [Danail Tsvetanov](https://github.com/AirborneB6)
-- [Ian Schenck] (https://github.com/ischenck)
-- [Douglas Hernandes] (https://github.com/hernandesdoug)
-- [Lucas Milne) (https://github.com/lucasmilne)
-- [Ryan Ozelie] (https://github.com/rozelie)
+- [Ian Schenck](https://github.com/ischenck)
+- [Douglas Hernandes](https://github.com/hernandesdoug)
+- [Lucas Milne](https://github.com/lucasmilne)
+- [Ryan Ozelie](https://github.com/rozelie)
 - [Elias Flores](https://github.com/EliasFl)
 - [Kevinmbt](https://github.com/kevinmbt)
 - [Kevin Mak](https://github.com/kevinkmmak)
@@ -4758,3 +4759,5 @@
 - [Vaibhav Yadav](https://github.com/Vaibhav-Yadav-1998)
 - [Ryan Kwon](https://github.com/108thAvenue)
 - [Alwin Sunny](https://github.com/alwin12)
+- [Bradley Rappa](https://github.com/konsoul)
+- [Sai Manideep Jinka](https://github.com/sai93)
