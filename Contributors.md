@@ -4609,6 +4609,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [anusha](https://github.com/Anushaksasindran/first-contributions)
 - Wesley Noss
 - [Aritro Ghosh](htps://github.com/aritro01)
 - [Shafique Mohammad](https://github.com/shafique-md18)
@@ -4768,7 +4769,7 @@
 - [Sai Manideep Jinka](https://github.com/sai93)
 - [JosifV](https://github.com/JosifV)
 - [Hassaan Rafique](https://github.com/hassaanseeker)
-- [Naomi C.] (https://github.com/naomi-rc)
+- [Naomi C.](https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
-- [Berzee] (https://github.com/Berzee)
+- [Berzee](https://github.com/Berzee)
