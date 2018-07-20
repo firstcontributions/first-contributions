@@ -4769,3 +4769,4 @@
 - [JosifV](https://github.com/JosifV)
 - [Hassaan Rafique](https://github.com/hassaanseeker)
 - [Naomi C.] (https://github.com/naomi-rc)
+- [Joe Paravisini](https://github.com/jparavisini)
