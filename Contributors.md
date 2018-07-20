@@ -4771,4 +4771,3 @@
 - [Naomi C.] (https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
-- [Berzee] (https://github.com/Berzee)
