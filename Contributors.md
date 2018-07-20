@@ -4731,6 +4731,7 @@
 - [Laura Tremblay](https://github.com/lauratremblay)
 - [Lachlan F](https://github.com/greenfur05/)
 - [Vishnu Chandrappan](http://github.com/vishnuchandrappan)
+- [Codius Nomadus](http://github.com/thecodenomad)
 - [Hartmann Fabian](https://github.com/fabianhartmann98)
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [Mehmet Baran](https://github.com/mbrn)
