@@ -4612,6 +4612,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [Nimmy K Dominic](https://github.com/NimmyKDominic)
 - [Andrea Moncada](https://github.com/Andrea206)
 - [anusha](https://github.com/Anushaksasindran/first-contributions)
 - Wesley Noss
