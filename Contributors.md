@@ -1,4 +1,6 @@
 # Contributors
+
+- [Adam Ghannoum](https://github.com/AmDji)
 - [Hardik dadhich](https://github.com/hardik-dadhich)
 - [John Daugherty](http://github.com/jmd1986)
 - [Brittany Donowho](https://github.com/BrittWho)
