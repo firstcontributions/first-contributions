@@ -4698,6 +4698,7 @@
 - [Hattori Henzo](https://github.com/HattoriHenzo)
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
+- [Dustin Sugasa](https://github.com/dpsugasa)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell](https://github.com/connordovell)
 - [Yash Patil](https://https://github.com/ypatil12)
