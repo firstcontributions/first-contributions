@@ -1,6 +1,6 @@
-﻿# Contributors
-
-- [Brittany Donowho] (https://github.com/BrittWho)
+# Contributors
+- [John Daugherty](http://github.com/jmd1986)
+- [Brittany Donowho](https://github.com/BrittWho)
 - [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
