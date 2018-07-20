@@ -4739,6 +4739,7 @@
 - [Mehmet Baran](https://github.com/mbrn)
 - [Chris Palomares](https://github.com/eviljorge)
 - [Blessing Sibanda](https://github.com/banQomania)
+- [Daoud Boulad](https://github.com/Boltmerz/)
 - [Rahul Chandra](https://github.com/irahulcse)
 - [Coldfight](https://github.com/coldfight)
 - [Xavier Salazar](https://github.com/xaviersalazar)
