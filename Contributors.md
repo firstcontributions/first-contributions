@@ -4756,6 +4756,7 @@
 - [Jeong Juhyeon](https://github.com/JeongJuhyeon)
 - [mesopotamija9](https://github.com/mesopotamija9)
 - [grcameron](https://github.com/grcameron)
+- [Bradley Chen](https://github.com/bradhchen)
 - Hissalht
 - [Vaibhav Yadav](https://github.com/Vaibhav-Yadav-1998)
 - [Ryan Kwon](https://github.com/108thAvenue)
