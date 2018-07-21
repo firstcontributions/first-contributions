@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Hardik dadhich](https://github.com/hardik-dadhich)
 - [John Daugherty](http://github.com/jmd1986)
 - [Brittany Donowho](https://github.com/BrittWho)
@@ -4770,3 +4770,4 @@
 - [Hassaan Rafique](https://github.com/hassaanseeker)
 - [Naomi C.] (https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
+- [Copeland♥Corley](https://github.com/CopelandCorley)
