@@ -4786,6 +4786,7 @@
 - [Sai Manideep Jinka](https://github.com/sai93)
 - [JosifV](https://github.com/JosifV)
 - [Hassaan Rafique](https://github.com/hassaanseeker)
+- [Mridul Aggarwal](https://github.com/Mridul97)
 - [Naomi C.](https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
