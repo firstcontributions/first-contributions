@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mahima](https://github.com/mav11)
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
