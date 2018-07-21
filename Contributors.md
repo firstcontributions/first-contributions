@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
@@ -4614,6 +4614,7 @@
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+- [nimisha](https://github.com/NimishaCp)
 - [Nimmy K Dominic](https://github.com/NimmyKDominic)
 - [Andrea Moncada](https://github.com/Andrea206)
 - [anusha](https://github.com/Anushaksasindran/first-contributions)
