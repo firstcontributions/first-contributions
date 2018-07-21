@@ -4793,6 +4793,7 @@
 - [Guy Gavergun](https://github.com/guygaver)
 - [Berzee](https://github.com/Berzee)
 - [Aron Lawrence](https://github.com/pluggles)
+- [Nicholas Eubanks](https://github.com/MoonShooter/)
 - [Pablo A](https://github.com/pabloalbian)
 - [Jason](https://github.com/chownt)
 - [Anil](https://github.com/nilanil)
