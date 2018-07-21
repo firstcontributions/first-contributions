@@ -1,6 +1,6 @@
-# Contribution guide
+﻿# Contribution guide
 
-Welcome to your first contribution. :heart: vp
+Welcome to your first contribution. :heart:
 
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -26,8 +26,8 @@ We have some rules for translation. If you make the first translation for your l
 ```
 
 ## TODO
-- [x] Fixed grammar for contribution Guide
-- [ ] Add more example and more guide
+- [] Fix grammar for contribution guide
+- [ ] Add more examples and more guides
 
 
 Thanks! :heart:
