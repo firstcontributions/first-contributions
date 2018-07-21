@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
 - [Hardik dadhich](https://github.com/hardik-dadhich)
 - [John Daugherty](http://github.com/jmd1986)
