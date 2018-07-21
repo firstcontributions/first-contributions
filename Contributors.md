@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- [Richard Wang] (https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [George Fang](https://github.com/fang570)
