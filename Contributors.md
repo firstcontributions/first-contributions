@@ -4799,4 +4799,5 @@
 - [Anil](https://github.com/nilanil)
 - [Dominic Lobo](https://github.com/domlobo)
 - [Kinwy](https://github.com/Kinwy)
+- [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
