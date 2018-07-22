@@ -4804,3 +4804,4 @@
 - [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
 - [Russell Rosario](https://github.com/rosariorussell)
+- [Edgar Ramirez-Mondragon](https://github.com/EdgarRMmex)
