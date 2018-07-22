@@ -4812,3 +4812,4 @@
 - [Saurin Shah](https://github.com/shahsaurin)
 - [Phil Fernandez](https://github.com/philFernandez)
 - [Ayush Bhardwaj](https://github.com/hastagAB)
+- [Anurag Gupta](https://github.com/flashygoose96)
