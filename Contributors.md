@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Richard Wang] (https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
@@ -4789,6 +4789,7 @@
 - [Sai Manideep Jinka](https://github.com/sai93)
 - [JosifV](https://github.com/JosifV)
 - [Hassaan Rafique](https://github.com/hassaanseeker)
+- [Copeland♥Corley](https://github.com/CopelandCorley)
 - [Mridul Aggarwal](https://github.com/Mridul97)
 - [Naomi C.](https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
