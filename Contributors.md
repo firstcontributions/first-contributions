@@ -4803,5 +4803,6 @@
 - [Kinwy](https://github.com/Kinwy)
 - [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
+- [Jun Guo](https://github.com/gjuoun/)
 - [Russell Rosario](https://github.com/rosariorussell)
 - [Edgar Ramirez-Mondragon](https://github.com/EdgarRMmex)
