@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Richard Wang] (https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
@@ -4804,3 +4804,6 @@
 - [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
 - [Russell Rosario](https://github.com/rosariorussell)
+- [Guy Noble](https://github.com/guytanium)
+
+
