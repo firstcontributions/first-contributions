@@ -4824,3 +4824,4 @@
 - [Glen Liang](https://github.com/elgnailng)
 - [Grant Bond](https://github.com/gbonczek)
 - [Vijay Vardhan](https://github.com/VijayVardhan23)
+- [Kan Yamamoto](https://github.com/YamaKan77)
