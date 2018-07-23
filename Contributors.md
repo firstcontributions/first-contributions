@@ -1,5 +1,6 @@
 # Contributors
 
+- [Thomas Lee] (https://github.com/sendmebiscuits)
 - [Richard Wang] (https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
