@@ -4810,6 +4810,7 @@
 - [Edgar Ramirez-Mondragon](https://github.com/EdgarRMmex)
 - [Hanifa Suleiman](https://github.com/hanifasuleiman)
 - [Nazanin Sabri](https://github.com/nazaninsbr)
+- [Shane Wen](https://githubb.com/cheezeburger)
 - [Wasu Sonthichai](https://github.com/GreenColoredLife)
 - [Saurin Shah](https://github.com/shahsaurin)
 - [Phil Fernandez](https://github.com/philFernandez)
