@@ -4808,6 +4808,7 @@
 - [Jun Guo](https://github.com/gjuoun/)
 - [Russell Rosario](https://github.com/rosariorussell)
 - [Edgar Ramirez-Mondragon](https://github.com/EdgarRMmex)
+- [Hanifa Suleiman](https://github.com/hanifasuleiman)
 - [Nazanin Sabri](https://github.com/nazaninsbr)
 - [Wasu Sonthichai](https://github.com/GreenColoredLife)
 - [Saurin Shah](https://github.com/shahsaurin)
