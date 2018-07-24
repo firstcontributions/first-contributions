@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Aunik Ahmed] (https://github.com/aunik22)
 - [Richard Wang] (https://github.com/richardlwang)
@@ -4826,3 +4826,4 @@
 - [Vijay Vardhan](https://github.com/VijayVardhan23)
 - [Kan Yamamoto](https://github.com/YamaKan77)
 - [Mike Herring](https://github.com/mike87120)
+- [Li Zhi](https://github.com/lizhi1989)
