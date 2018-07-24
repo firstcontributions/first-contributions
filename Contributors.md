@@ -1,7 +1,7 @@
 # Contributors
 
-- [Aunik Ahmed] (https://github.com/aunik22)
-- [Richard Wang] (https://github.com/richardlwang)
+- [Aunik Ahmed](https://github.com/aunik22)
+- [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [George Fang](https://github.com/fang570)
@@ -86,6 +86,7 @@
 - Oghenetega
 - Warren
 - [Adarsh Kumar](https://github.com/iamadarshk)
+- [Shaheen N S](https://github.com/Shaheennamboori)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
 - [Tillmann Int-Veen](https://github.com/tintveen)
