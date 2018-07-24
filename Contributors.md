@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rainier Go] (https://github.com/raini35)
 - [Patrick Pelayo] (https://github.com/ppelayo1)
@@ -4709,3 +4709,5 @@
 - [Scott Shriver] (https://github.com/sshriver)
 - [Laura Tremblay] (https://github.com/lauratremblay)
 - [Lachlan F](https://github.com/greenfur05/)
+
+-Joshua Riley
