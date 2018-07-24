@@ -1,5 +1,5 @@
 # Contributors
-
+- [Charles Loder](https://github.com/charlesLoder)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - [Aunik Ahmed](https://github.com/aunik22)
