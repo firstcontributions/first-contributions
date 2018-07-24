@@ -1,5 +1,6 @@
 # Contributors
 
+- [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Richard Wang](https://github.com/richardlwang)
