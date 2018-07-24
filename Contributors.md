@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Richard Wang](https://github.com/richardlwang)
@@ -4736,6 +4736,7 @@
 - [Sagar Jani](https://github.com/alwaysreadytolearn)
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
 - Hammerhead
+- Joshua Riley
 - [Zhenyu Yang](https://github.com/shrimpie)
 - [Flower17](https://github.com/flower17)
 - [Scott Shriver](https://github.com/sshriver)
