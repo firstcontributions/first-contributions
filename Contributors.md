@@ -1,8 +1,6 @@
 # Contributors
 
 - [Taylor Murray](https://github.com/murraytay)
-- [Aunik Ahmed] (https://github.com/aunik22)
-- [Richard Wang] (https://github.com/richardlwang)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
