@@ -1,5 +1,6 @@
 # Contributors
 
+- [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Shorya Agarwal](https://github.com/kinochi)
