@@ -4828,6 +4828,7 @@
 - [LUANGKHOT Nalongsak](https://github.com/loongluangkhot)
 - [Mudra Desai](https://github.com/Mudra01)
 - [Timothy Y. Fong](https://github.com/timfong1015)
+- [SJ Kadali](https://github.com/sjkadali)
 - [Glen Liang](https://github.com/elgnailng)
 - [Grant Bond](https://github.com/gbonczek)
 - [Vijay Vardhan](https://github.com/VijayVardhan23)
