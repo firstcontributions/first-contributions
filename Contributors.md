@@ -4827,6 +4827,7 @@
 - [Anurag Gupta](https://github.com/flashygoose96)
 - [Martijn van de Wetering](https://github.com/martijnwetering)
 - [LUANGKHOT Nalongsak](https://github.com/loongluangkhot)
+- zbrasseaux
 - [Mudra Desai](https://github.com/Mudra01)
 - [Eldar Yaacobi](https://github.com/eldariko)
 - [Timothy Y. Fong](https://github.com/timfong1015)
