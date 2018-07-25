@@ -1,5 +1,6 @@
 # Contributors
 
+- [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag
 - nini faroux
 - [Ritika Nair](https://github.com/ritikavnair) 
