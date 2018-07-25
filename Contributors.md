@@ -1,5 +1,8 @@
 # Contributors
 
+- [Charles Loder](https://github.com/charlesLoder)
+- [Jordan Garcia](https://github.com/JordanEGarcia)
+- [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Richard Wang](https://github.com/richardlwang)
@@ -1113,6 +1116,7 @@
 - [Harsh Paliwal](https://github.com/hpaliwal4)
 - [Ayush Goyal](https://github.com/ayush987goyal)
 - [Ruslan Hassonov](https://github.com/RuslanHassonov)
+- [Anusha De] (https://github.com/anushade98)
 - [Bruno Scheufler](https://github.com/bsZeroFive)
 - [Wade Hammes](https://github.com/wadehammes)
 - [Jyri Vaha-Pietila](https://github.com/jjjyrki)
@@ -4831,3 +4835,15 @@
 - [Mike Herring](https://github.com/mike87120)
 - [Li Zhi](https://github.com/lizhi1989)
 - [Daniel Nicolescu](https://github.com/DaNicolescu)
+- [Kavita Nambissan Ganguli](https://github.com/kvnam)
+- [Mohammed Mubeen](https://github.com/umi001)
+- [Neville Fernandes](https://github.com/nevfdes)
+- Rambo G
+- [Anmol Goel](https://github.com/goela00)
+- [Felix Le](https://github.com/felixle96)
+- [Anthony Ho](https://github.com/anwyho)
+- [Alice Shan](https://github.com/aliceshan)
+- [Dayan Kodippily](https://github.com/dkodippily)
+- [Test MSK](https://github.com)
+- [Adigun Adefisola](https://github.com/fifirulez)
+- [Denzel Lee](https://github.com/denzeltl)
