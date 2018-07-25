@@ -1,7 +1,8 @@
 # Contributors
 
+- [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
-- [Chiraag Gohel](https://github.com/chi-raag
+- [Chiraag Gohel](https://github.com/chi-raag)
 - nini faroux
 - [Ritika Nair](https://github.com/ritikavnair) 
 - [Thomas Lee](https://github.com/sendmebiscuits)
