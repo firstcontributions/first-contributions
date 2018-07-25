@@ -6,12 +6,12 @@
   overflow: hidden;
 
   border-width: 0;
-  border-radius: 2px;
+  border-radius:40px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
-  
+
   background-color: #2ecc71;
   color: #fff;
-  
+
   -webkit-transition: background-color .3s;
   -moz-transition: background-color .3s;
   transition: background-color .3s;
