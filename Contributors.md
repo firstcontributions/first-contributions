@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - [Aunik Ahmed](https://github.com/aunik22)
@@ -4834,10 +4835,10 @@
 - [Li Zhi](https://github.com/lizhi1989)
 - [Mohammed Mubeen](https://github.com/umi001)
 - [Neville Fernandes](https://github.com/nevfdes)
-- [Rambo G]
+- Rambo G
 - [Anmol Goel](https://github.com/goela00)
 - [Anthony Ho](https://github.com/anwyho)
 - [Dayan Kodippily](https://github.com/dkodippily)
 - [Test MSK](https://github.com)
 - [Adigun Adefisola](https://github.com/fifirulez)
-- [Denzel Lee] (https://github.com/denzeltl)
+- [Denzel Lee](https://github.com/denzeltl)
