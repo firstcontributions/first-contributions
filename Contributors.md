@@ -1,5 +1,6 @@
 # Contributors
 
+- nini faroux
 - [Ritika Nair](https://github.com/ritikavnair) 
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
