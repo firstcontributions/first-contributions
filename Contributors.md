@@ -4834,6 +4834,7 @@
 - [Kan Yamamoto](https://github.com/YamaKan77)
 - [Mike Herring](https://github.com/mike87120)
 - [Li Zhi](https://github.com/lizhi1989)
+- [Kavita Nambissan Ganguli](https://github.com/kvnam)
 - [Mohammed Mubeen](https://github.com/umi001)
 - [Neville Fernandes](https://github.com/nevfdes)
 - Rambo G
