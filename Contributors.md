@@ -1,5 +1,6 @@
 # Contributors
 
+- [Chiraag Gohel](https://github.com/chi-raag
 - nini faroux
 - [Ritika Nair](https://github.com/ritikavnair) 
 - [Thomas Lee](https://github.com/sendmebiscuits)
