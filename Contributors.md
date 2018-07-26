@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
@@ -4872,3 +4872,4 @@
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
+- [Donald Guy](https://github.com/donaldguy22)
