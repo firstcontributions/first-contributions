@@ -2379,6 +2379,7 @@
 - [mcyusuf](https://github.com/mcyusuf)
 - [Aditya Gupta](https://github.com/ag93999)
 - [Alisson Valdir de Souza](https://github.com/alivs)
+- [Tucker](https://github.com/TuckMonty)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin](https://github.com/camberlucian)
 - [Antonio Bucciol](https://github.com/TBuc)
