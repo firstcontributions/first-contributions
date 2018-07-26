@@ -4845,6 +4845,7 @@
 - [Vijay Vardhan](https://github.com/VijayVardhan23)
 - [Kan Yamamoto](https://github.com/YamaKan77)
 - [Mike Herring](https://github.com/mike87120)
+- [Jeremy Levett](https://github.com/Jlevett)
 - [Li Zhi](https://github.com/lizhi1989)
 - [Daniel Nicolescu](https://github.com/DaNicolescu)
 - [Kavita Nambissan Ganguli](https://github.com/kvnam)
@@ -4865,3 +4866,4 @@
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
+
