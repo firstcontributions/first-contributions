@@ -4857,4 +4857,5 @@
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
-- [Jordan Mohler](https://github.com/jsmohler)
+- [Jordan Mohler]
+- [Felicia Khan]
