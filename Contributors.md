@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
