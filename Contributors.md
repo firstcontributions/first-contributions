@@ -4195,6 +4195,7 @@
 - [Klmnv Srg](https://github.com/klmnvsrg)
 - [Sumeeta Farrukh](https://github.com/sumeetaf)
 - [Joshua Roberts](https://github.com/banananaki)
+- [Tarek Elbeih](https://github.com/ISpoonJelly)
 - [Avocadizr](https://github.com/avocadizr)
 - [Adriano Marinho](https://github.com/adrianosmarinho)
 - [Adam Van Scyoc](https://github.com/AdamVanScyoc)
@@ -4866,4 +4867,3 @@
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
-
