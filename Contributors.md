@@ -1,5 +1,6 @@
 # Contributors
 
+- [Andrew Hoverson] (https://github.com/ahoverson)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
@@ -4857,5 +4858,8 @@
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
-- [Jordan Mohler]
-- [Felicia Khan]
+- Felicia Khan
+- [Jordan Mohler](https://github.com/jsmohler)
+- [William Willden](https://github.com/lights-a5)
+- [Anatoly Buchatsky](https://github.com/scaredChatsky)
+- [Mykola Maistrenko](https://github.com/MaistrNCo)
