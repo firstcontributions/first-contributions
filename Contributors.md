@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- [Rebecca Hoffenberg] (https://github.com/rhoffen)
 - [Andrew Hoverson] (https://github.com/ahoverson)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
