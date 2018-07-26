@@ -1,6 +1,7 @@
 # Contributors
 
-- [Andrew Hoverson] (https://github.com/ahoverson)
+- [Jennifer Williams](https://github.com/Taljjaa)
+- [Andrew Hoverson](https://github.com/ahoverson)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
