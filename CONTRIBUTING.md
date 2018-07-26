@@ -31,3 +31,7 @@ We have some rules for translation. If you make the first translation for your l
 
 
 Thanks! :heart:
+
+
+Hi this is my first commmit on git.
+harsh yadav
