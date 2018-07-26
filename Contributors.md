@@ -1,9 +1,12 @@
 # Contributors
 
+- [Jennifer Williams](https://github.com/Taljjaa)
+- [Andrew Hoverson](https://github.com/ahoverson)
+- [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
-- [Chiraag Gohel](https://github.com/chi-raag
+- [Chiraag Gohel](https://github.com/chi-raag)
 - nini faroux
-- [Ritika Nair](https://github.com/ritikavnair) 
+- [Ritika Nair](https://github.com/ritikavnair)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
@@ -4856,4 +4859,8 @@
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
-- [Jennifer Williams](https://github.com/Taljjaa)
+- Felicia Khan
+- [Jordan Mohler](https://github.com/jsmohler)
+- [William Willden](https://github.com/lights-a5)
+- [Anatoly Buchatsky](https://github.com/scaredChatsky)
+- [Mykola Maistrenko](https://github.com/MaistrNCo)
