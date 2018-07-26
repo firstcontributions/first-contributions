@@ -1,1 +1,3 @@
-Add some txt here.
+I was trying to follow the instructions for first contributions, but I couldn't find Contributors.md in the cloned project.  So here's my contribution:  Thank you for writing this tutorial!
+
+Rebecca Hoffenberg
