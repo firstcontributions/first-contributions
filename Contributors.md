@@ -4874,3 +4874,4 @@
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
+- [Rafael Pereira Dias] (https://github.com/thelol-br)
