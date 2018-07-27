@@ -4890,7 +4890,6 @@
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
 - [Rafael Pereira Dias] (https://github.com/thelol-br)
-- [Rafael Pereira Dias](https://github.com/thelol-br)
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
 - [Richard Lim] (https://github.com/rickyl7)
