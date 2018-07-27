@@ -68,6 +68,7 @@
 - [Sannan Ansari](https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
+- [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Anthony Bilic](https://github.com/irulenot)
