@@ -4880,4 +4880,5 @@
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
+- [Wincenty Pukar] (https://github.com/Errancer/first-contributions)
 - [Rafael Pereira Dias] (https://github.com/thelol-br)
