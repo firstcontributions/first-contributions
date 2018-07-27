@@ -4859,6 +4859,7 @@
 - [Kavita Nambissan Ganguli](https://github.com/kvnam)
 - [Mohammed Mubeen](https://github.com/umi001)
 - [Neville Fernandes](https://github.com/nevfdes)
+  [Thai Morris](https://github.com/Thai-Morris)
 - Rambo G
 - [Anmol Goel](https://github.com/goela00)
 - [Felix Le](https://github.com/felixle96)
