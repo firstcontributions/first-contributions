@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
@@ -4879,4 +4879,5 @@
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
-- [Rafael Pereira Dias] (https://github.com/thelol-br)
+- [Rafael Pereira Dias](https://github.com/thelol-br)
+- [Olivier JM](https://github.com/olivierjm)
