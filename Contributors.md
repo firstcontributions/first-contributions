@@ -15,6 +15,7 @@
 - [Taylor Murray](https://github.com/murraytay)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
+- Abiud Ayele
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
