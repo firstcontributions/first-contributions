@@ -17,6 +17,7 @@
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
+- [Dylan Kirby](https://github.com/dylankirby)
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
