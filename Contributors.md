@@ -76,6 +76,7 @@
 - [Jonathan Mizrachi](https://github.com/JohnMiz)
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
+- [Nikolov G](https://github.com/segastep)
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - [Oisin Quinn](https://github.com/oisinq)
