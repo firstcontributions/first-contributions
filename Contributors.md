@@ -150,6 +150,7 @@
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
 - [Brian Wahome](https://github.com/GitWahome)
+- [Silas Carvalho](https://github.com/silasalvares)
 - [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
