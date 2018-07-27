@@ -1,4 +1,4 @@
-﻿# Contribution guide
+# Contribution guide
 
 Welcome to your first contribution. :heart:
 
@@ -31,3 +31,6 @@ We have some rules for translation. If you make the first translation for your l
 
 
 Thanks! :heart:
+
+
+- [Josh Jeong](https://github.com/jeongjw)
