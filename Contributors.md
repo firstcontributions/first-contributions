@@ -36,6 +36,7 @@
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
 - [Calin Suciu](https://github.com/SuciuCalin)
 - [Sathish Babu](https://github.com/sbsathish999)
+- [Kanchan Naukudkar](https://github.com/naukudkarkanchan11)
 - [Aditya Dehal](https://github.com/aditya2000)
 - [Rainier Go](https://github.com/raini35)
 - [Patrick Pelayo](https://github.com/ppelayo1)
