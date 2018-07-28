@@ -2272,6 +2272,7 @@
 - [Adam Romlein](https://github.com/romleiaj)
 - [Raghav Shrivastava](https://github.com/raghav1810)
 - [Jayesh Yeola](https://github.com/JayeshYeola)
+[Aruparna Maity](https://github.com/AruparnaMaity)
 - [Rebecca Newborn](https://github.com/rebeccanewborn)
 - [Meggan M Green](https://github.com/meggangreen)
 - [Shabbir Ahmed](https://github.com/samax-mw)
