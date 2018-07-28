@@ -1,5 +1,6 @@
 # Contributors
 
+- [Barkshire Purringtonn](https://github.com/barkshire) 
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
