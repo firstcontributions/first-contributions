@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
@@ -2414,6 +2414,7 @@
 - [Edan Lewis](https://github.com/fishshiz)
 - [Kevin Nguyen](https://github.com/kwin555)
 - [Vin?cius Figueiredo](https://github.com/mvinoba)
+- [Aruparna Maity](https://github.com/AruparnaMaity)
 - [Nick Adriaanse](https://github.com/shinedog)
 - [Vishal Arora](https://github.com/aroravishal50)
 - [Brock Pinnington](https://github.com/dinkletron)
