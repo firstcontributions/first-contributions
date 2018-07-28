@@ -21,6 +21,7 @@
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
+- Aaron Melendez
 - [Marco Cucchi] (https://github.com/marco-cucchi)
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
