@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
@@ -4893,9 +4894,9 @@
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
-- [Rafael Pereira Dias] (https://github.com/thelol-br)
+- [Rafael Pereira Dias](https://github.com/thelol-br)
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
-- [Richard Lim] (https://github.com/rickyl7)
-- [Ajinkya Kale (https://github.com/AjinkyaKaley)]
+- [Richard Lim](https://github.com/rickyl7)
+- [Ajinkya Kale](https://github.com/AjinkyaKaley)]
 - [Abdelrahman Ashraf](https://github.com/theashraf)
