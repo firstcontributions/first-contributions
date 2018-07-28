@@ -84,6 +84,7 @@
 - [Nikolov G](https://github.com/segastep)
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
+- Manasa Devarapalli
 - [Oisin Quinn](https://github.com/oisinq)
 - [Felipe Rigo](https://github.com/rigo4rigo)
 - [Kishore Mohanavelu](https://github.com/kmohanavelu)
