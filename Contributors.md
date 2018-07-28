@@ -1,5 +1,7 @@
 # Contributors
 
+- [Barkshire Purringtonn](https://github.com/barkshire) 
+- [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
@@ -2414,6 +2416,7 @@
 - [Edan Lewis](https://github.com/fishshiz)
 - [Kevin Nguyen](https://github.com/kwin555)
 - [Vin?cius Figueiredo](https://github.com/mvinoba)
+- [Aruparna Maity](https://github.com/AruparnaMaity)
 - [Nick Adriaanse](https://github.com/shinedog)
 - [Vishal Arora](https://github.com/aroravishal50)
 - [Brock Pinnington](https://github.com/dinkletron)
@@ -4892,10 +4895,9 @@
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
-- [Rafael Pereira Dias] (https://github.com/thelol-br)
+- [Rafael Pereira Dias](https://github.com/thelol-br)
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
-- [Richard Lim] (https://github.com/rickyl7)
-- [Ajinkya Kale] (https://github.com/AjinkyaKaley)
+- [Richard Lim](https://github.com/rickyl7)
+- [Ajinkya Kale](https://github.com/AjinkyaKaley)]
 - [Abdelrahman Ashraf](https://github.com/theashraf)
-- [Barkshire Purringtonn](https://github.com/barkshire) 
