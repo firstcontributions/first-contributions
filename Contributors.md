@@ -1,6 +1,6 @@
 # Contributors
 
-- [Barkshire Purringtonn](https://github.com/barkshire) 
+- [Barkshire Purringtonn](https://github.com/barkshire)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
@@ -4905,3 +4905,4 @@
 - [Richard Lim](https://github.com/rickyl7)
 - [Ajinkya Kale](https://github.com/AjinkyaKaley)]
 - [Abdelrahman Ashraf](https://github.com/theashraf)
+- [Spam Man](https://github.com/spam-man)
