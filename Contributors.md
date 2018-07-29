@@ -1615,6 +1615,7 @@
 - [Sayon Nayek](https://github.com/sayonanyek1)
 - [Arkadip Ghosh](https://github.com/arkadip10)
 - [Ekam Walia](https://github.com/EkamWalia)
+- [Brad Baguyo](https://github.com/bradrar/)
 - [R Burd](https://github.com/rjburdish)
 - [Robson Cruz](https://github.com/deadpyxel)
 - [Gopi Surendra](https://github.com/gsrc1026)
