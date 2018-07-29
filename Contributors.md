@@ -555,6 +555,7 @@
 - [Raghav Sethi](https://github.com/rghv96)
 - [saasgrids ??](https://saasgrids.com)
 - [Sherfin Shamsudeen](https://github.com/sherfin94)
+- [Ming Wen](https://github.com/mwen1993)
 - [diego oppitz](https://github.com/diegooppitz)
 - [Tom Lutzenberger](https://github.com/tomlutzenberger)
 - [Rares Matei](https://github.com/rarmatei)
