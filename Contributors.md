@@ -1306,6 +1306,7 @@
 - [Prajwal Patil](https://github.com/prajwalkpatil)
 - [Alex Hsu](https://github.com/Juchuhsu)
 - [avcoder](https://github.com/avcoder)
+- [Chris Bridges](https://github.com/chrisbridges)
 - [Gowtham R](https://github.com/gowtham1997)
 - [U?ur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
