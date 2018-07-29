@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
@@ -36,6 +36,7 @@
 - [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
+- [Benson M]
 - [Martin Kim](https://github.com/martin0829)
 - [Shukry Zablah](szablah20@amherst.edu)
 - [Benjamin Kawecki](https://github.com/benkawecki)
