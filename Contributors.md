@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
+- [Beatrice Olivera](https://github.com/beatriceo)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
