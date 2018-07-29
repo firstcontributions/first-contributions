@@ -1660,6 +1660,7 @@
 - [Brian Nomwesigwa](https://github.com/Brian-Van-Stoner)
 - [Damir Podbojec](https://github.com/dpodboj1)
 - [Fitriana Alivia](https://github.com/mrsdark)
+- [Jason Law](https://github.com/lckj210)
 - [Le Bon Bauma](https://github.com/Sharkzuria)
 - [Adi Bet](https://github.com/adibet)
 - [HemeraOne](https://github.com/HemeraOne)
