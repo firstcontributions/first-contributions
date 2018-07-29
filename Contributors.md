@@ -19,6 +19,7 @@
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
+-Hemant Mishra
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
