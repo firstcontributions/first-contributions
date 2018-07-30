@@ -4921,6 +4921,7 @@
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
 - [Richard Lim](https://github.com/rickyl7)
-- [Ajinkya Kale](https://github.com/AjinkyaKaley)]
+- [Ajinkya Kale](https://github.com/AjinkyaKaley)
 - [Abdelrahman Ashraf](https://github.com/theashraf)
 - [Spam Man](https://github.com/spam-man)
+- [Tommy Wang](https://github.com/wangmedia)
