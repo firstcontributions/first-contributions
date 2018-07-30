@@ -274,6 +274,7 @@
 - [VeraButler](https://github.com/VeraButler)
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
+- [Sachin Mohla](https://github.com/sac24)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
