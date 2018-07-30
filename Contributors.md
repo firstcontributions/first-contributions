@@ -161,6 +161,7 @@
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
 - [Toby Chow](https://github.com/tobychow)
+- [Daniel Koch](https://github.com/dkprog)
 - [Laurence](https://github.com/multitudes)
 - [Edmundo1100](https://github.com/Edmundo1100)
 - [Sagar Bansal](https://github.com/sagban)
