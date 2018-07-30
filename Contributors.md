@@ -2283,6 +2283,7 @@
 - [Frederic Le Gac](https://github.com/fredgit2016)
 - [Tahir Moedeen](https://github.com/tahirmoedeen53)
 - [Michael Persson](https://github.com/mippzon)
+- [Rodolfo de Luna](https://github.com/rodefdema)
 - [Pawe? Wamej](https://github.com/pwamej)
 - [Adnan Azmat](https://github.com/adnan-azmat)
 - [Emily Lan](https://github.com/emilyhub)
