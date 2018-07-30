@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
@@ -4924,6 +4924,6 @@
 - [Ajinkya Kale](https://github.com/AjinkyaKaley)
 - [Abdelrahman Ashraf](https://github.com/theashraf)
 - [Spam Man](https://github.com/spam-man)
+- [Joshua Moore](https://github.com/jmjoshua)
 - [Omar Amr](https://github.com/OmarAdelAmr)
 - [Tommy Wang](https://github.com/wangmedia)
-
