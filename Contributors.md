@@ -20,6 +20,7 @@
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
+- Christopher Tang
 -Hemant Mishra
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
@@ -179,6 +180,7 @@
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
+- [Gabriel Fuentes](https://github.com/Helper2020)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
 - [Chandana Kithalagama](https://github.com/ckit)
 - [Qiaowei Tang](https://github.com/dangjoeltang)
@@ -274,6 +276,7 @@
 - [VeraButler](https://github.com/VeraButler)
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
+- [Sachin Mohla](https://github.com/sac24)
 - [Sashikanth](https://github.com/satyasashi)
 - [Divakar Verma](https://github.com/vdivakar)
 - [FarooqAR](https://github.com/FarooqAR)
@@ -4839,6 +4842,7 @@
 - [Mark Tonks](https://github.com/unnecessaryroughness)
 - [Jayden Wise](https://github.com/wisejayden)
 - [Hany Mahmoud](http://github.com/H-4-N-1)
+- [Tiggerito](https://github.com/Tiggerito)
 - [Jeong Juhyeon](https://github.com/JeongJuhyeon)
 - [mesopotamija9](https://github.com/mesopotamija9)
 - [grcameron](https://github.com/grcameron)
@@ -4917,7 +4921,9 @@
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
 - [Richard Lim](https://github.com/rickyl7)
-- [Ajinkya Kale](https://github.com/AjinkyaKaley)]
+- [Ajinkya Kale](https://github.com/AjinkyaKaley)
 - [Abdelrahman Ashraf](https://github.com/theashraf)
 - [Spam Man](https://github.com/spam-man)
 - [Omar Amr](https://github.com/OmarAdelAmr)
+- [Tommy Wang](https://github.com/wangmedia)
+
