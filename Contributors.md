@@ -14,6 +14,7 @@
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - nini faroux
+- [Jacob Bovee](https://github.com/jbovee)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
