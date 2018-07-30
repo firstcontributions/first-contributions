@@ -180,6 +180,7 @@
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
 - [Glenn Halstead](https://github.com/glennh)
+- [Gabriel Fuentes](https://github.com/Helper2020)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
 - [Chandana Kithalagama](https://github.com/ckit)
 - [Qiaowei Tang](https://github.com/dangjoeltang)
