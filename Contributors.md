@@ -12,6 +12,7 @@
 - [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
+- [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - nini faroux
