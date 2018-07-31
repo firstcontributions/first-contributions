@@ -18,6 +18,7 @@
 - [Jacob Bovee](https://github.com/jbovee)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Tea Har](https://github.com/teahar)
+- [Dante Anthony](https://github/com/Calikidd86)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
