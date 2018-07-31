@@ -4517,6 +4517,7 @@
 - [Emil Valentin Toma](https://github.com/Emil-Valentin-Toma)
 - [Sammyak Sangai](https://github.com/sammyaksangai)
 - [Tim Smith](https://github.com/iamtimsmith)
+- [Luca Fissore](https://github.com/LukaF88)
 - [Al Buchala](https://github.com/albcf)
 - [Cesar T](https://github.com/CDTREVINO1)
 - [Cai Jun](https://github.com/JohnCaiJun)
