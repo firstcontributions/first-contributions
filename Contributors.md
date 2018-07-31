@@ -47,6 +47,7 @@
 - [Brittany Donowho](https://github.com/BrittWho)
 - [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
+- [James Courcelle] (https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Benson M]
 - [Martin Kim](https://github.com/martin0829)
