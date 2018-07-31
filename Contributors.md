@@ -4287,6 +4287,7 @@
 - [Marcos Villar](https://github.com/marcosfvc)
 - [Mason Doug](https://github.com/iwanttocode12)
 - [Praise Mariah](https://github.com/praiseG)
+- [Jacob Nocentino](https://github.com/JakeNocentino)
 - [Simon Osipov](http://github.com/SimonOsipov)
 - [Matt Gurule](https://github.com/mmguru)
 - [Jacob Burton](https://github.com/jburton3141)
