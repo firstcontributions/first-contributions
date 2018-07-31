@@ -2,6 +2,7 @@
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
+- [Marina Dargitz](https://github.com/mdargitz)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
