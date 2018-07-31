@@ -1,4 +1,4 @@
-﻿# Contributors
+﻿	# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
@@ -9,6 +9,7 @@
 - [James S. Lee](https://github.com/sanghawk)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Andrew Albert](https://github.com/andyalbert)
+- [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [George Zhao](https://github.com/zhaogeorge3)
