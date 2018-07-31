@@ -1,4 +1,4 @@
-﻿	# Contributors
+	# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
@@ -1881,6 +1881,7 @@
 - [Jeremy Tsang](https://github.com/jeremytsang1)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
 - [Josh Coles](https://github.com/joshcoles)
+- [Neeraj M S](https://github.com/neerajms)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Sarah Murphy](https://github.com/msarah)
 - [Matthew Chambers](https://github.com/mattchambers)
