@@ -348,6 +348,7 @@
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - [Mohamed Rahmouni](https://github.com/Rahamoon)
+- [Richard Snyder](https://github.com/rsnydr)
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - [Subhag Bhatia](https://github.com/subhag7)
