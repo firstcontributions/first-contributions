@@ -1194,6 +1194,7 @@
 - [Kamil Wojcicki](https://github.com/dsplabs)
 - [Dennis Truong](https://github.com/dt9)
 - [John Eddie Ayson](https://github.com/aysonje)
+- [MMuIT] (https://github.com/MMuIT)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Rick Haan](https://github.com/rickhaan)
 - [Alexey Salangin](https://github.com/Magauran)
