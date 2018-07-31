@@ -1401,6 +1401,7 @@
 - [ninjandroid](https://github.com/ninjandroid)
 - [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
+- [Christopher Martin](https://github.com/Seasick-Turtle)
 - [Roy Sung](https://github.com/roysung)
 - [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
