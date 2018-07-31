@@ -37,6 +37,7 @@
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
+- [Dante Anthony](https://github.com/Calikidd86)
 - [Hardik dadhich](https://github.com/hardik-dadhich)
 - [John Daugherty](http://github.com/jmd1986)
 - [Pratyushx](https://github.com/Pratyushx)
