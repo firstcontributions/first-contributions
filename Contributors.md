@@ -31,6 +31,7 @@
 - Aaron Melendez
 - [Marco Cucchi] (https://github.com/marco-cucchi)
 - [Richard Wang](https://github.com/richardlwang)
+- [Surya Kanigolla](https://github.com/suryavegeta123)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
