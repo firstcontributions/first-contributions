@@ -892,6 +892,7 @@
 - [Sifat HAque](https://github.com/sifat009)
 - [Reyahh H](https://github.com/reyahH)
 - [Joao Silva](https://github.com/joaopfsilva)
+- [Michael Meesseman](https://github.com/mmeesseman)
 - [hhi11](https://github.com/hhi11)
 - [Aakash K T](https://github.com/kt20162)
 - [Mridul Parakh](https://github.com/Mridul-parakh)
