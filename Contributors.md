@@ -4966,3 +4966,4 @@
 - [Amit Ambardekar](https://github.com/amitamb)
 - [Nicholas Eng](https://github.com/Nicholas-Eng)
 - [David Adrianzen](https://github.com/jorgedav-id)
+- [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
