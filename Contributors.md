@@ -4056,6 +4056,7 @@
 - [Vashist Hegde](https://github.com/vashist99)
 - [Fueoui Filetto](https://github.com/fueoui)
 - [Guang-yi "Mike" Lee](https://github.com/guang-yi)
+- [Jefferson Ighalo](https://github.com/jeffersonnnn)
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
 - [QwertyQuill](https://github.com/dmonrod)
