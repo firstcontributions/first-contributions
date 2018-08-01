@@ -9,6 +9,7 @@
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
+- [Shahe Ansar](https://github.com/ShaheAnsar)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Andrew Albert](https://github.com/andyalbert)
 - [Nicolas Chiaramello](https://github.com/96nico)
