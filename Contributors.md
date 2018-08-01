@@ -11,6 +11,7 @@
 - [James S. Lee](https://github.com/sanghawk)
 - [Shahe Ansar](https://github.com/ShaheAnsar)
 - [Andrew Hoverson](https://github.com/ahoverson)
+- [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Andrew Albert](https://github.com/andyalbert)
 - [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
