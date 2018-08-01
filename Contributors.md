@@ -37,6 +37,7 @@
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
+- [Jacob Cornwell](https://github.com/jpcornwell)
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
