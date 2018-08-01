@@ -35,6 +35,7 @@
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
 - Aaron Melendez
+- Rubén Aciego
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
