@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire) 
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
@@ -483,6 +483,7 @@
 - [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
+-[Sun B]
 - [Jake Frn](https://github.com/jakefrn)
 - [Napat](https://github.com/napatwongchr)
 - [Eric Audran](https://github.com/Nevosis)
