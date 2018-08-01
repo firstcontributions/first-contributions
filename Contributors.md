@@ -3104,6 +3104,7 @@
 - [David Mayes](https://github.com/David-Mayes)
 - [Hung-Chuan Huang](https://github.com/huanghungchuan)
 - [Avinash Tomar](https://github.com/avistomar)
+- [Avinash Rajendran](https://github.com/AviKumarRaj)
 - [Daniel j2ee](https://github.com/daniele-j2ee)
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
