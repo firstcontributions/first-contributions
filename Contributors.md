@@ -2994,6 +2994,7 @@
 - [Pritika Shenoy](https://github.com/pritikashenoy/)
 - [Vusal Alishov](https://github.com/vusalalishov)
 - [Jerry Hsieh](https://github.com/cyhs)
+- [Mrwan Zein](https://github.com/mrwanzein)
 - [Tommy Dato](https://github.com/Gmaing)
 - [Federico Viceconti](https://github.com/federicoviceconti/)
 - [Piyush Ranjan](https://github.com/piyush27ranjan/)
