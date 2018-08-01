@@ -4953,5 +4953,6 @@
 - [Omar Amr](https://github.com/OmarAdelAmr)
 - [Tommy Wang](https://github.com/wangmedia)
 - [Chris Starkey](https://github.com/chrisstarkey)
+- [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
 - [Amit Ambardekar](https://github.com/amitamb)
