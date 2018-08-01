@@ -26,6 +26,7 @@
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
+- [Abubakar Sambo](https://github.com/saslamp)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - Christopher Tang
