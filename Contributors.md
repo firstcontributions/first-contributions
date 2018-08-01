@@ -35,6 +35,7 @@
 - Abiud Ayele
 - Aaron Melendez
 - [Marco Cucchi](https://github.com/marco-cucchi)
+- [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
