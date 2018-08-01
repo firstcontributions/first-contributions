@@ -1,4 +1,4 @@
-﻿	# Contributors
+# Contributors
 
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
@@ -28,12 +28,12 @@
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - Christopher Tang
--Hemant Mishra
+- Hemant Mishra
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
 - Aaron Melendez
-- [Marco Cucchi] (https://github.com/marco-cucchi)
+- [Marco Cucchi](https://github.com/marco-cucchi)
 - [Richard Wang](https://github.com/richardlwang)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
@@ -49,7 +49,7 @@
 - [Brittany Donowho](https://github.com/BrittWho)
 - [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
-- [James Courcelle] (https://github.com/JamesCourcelle)
+- [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Benson M]
 - [Martin Kim](https://github.com/martin0829)
@@ -70,7 +70,7 @@
 - [Ankur Dubey](https://github.com/ankurdubey521)
 - [Nic B](https://github.com/Stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
-- [Gary Fishell] (https://github.com/garyfish618)
+- [Gary Fishell](https://github.com/garyfish618)
 - [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
 - [Peeyush Sharma](https://github.com/peeyushshawarma)
@@ -83,7 +83,7 @@
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
 - [Sebastian Upjohn](https://github.com/supjohn)
-- [Jace McGough] (https://github.com/TangyOhio)
+- [Jace McGough](https://github.com/TangyOhio)
 - [Arthur Cavalcante Gomes Coelho](https://github.com/arthurcgc)
 - [Anthony Bilic](https://github.com/irulenot)
 - [Getenet Wol](https://github.com/getsei)
@@ -144,7 +144,7 @@
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
-- [Brian Drake] (https://github.com/bdrakester)
+- [Brian Drake](https://github.com/bdrakester)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
@@ -189,7 +189,7 @@
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
-- [dblankin] (https://github.com/dblankin)
+- [dblankin](https://github.com/dblankin)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
 - [Rich Xu](https://github.com/richardxu100)
@@ -512,6 +512,7 @@
 - [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
+-[Sun B]
 - [Jake Frn](https://github.com/jakefrn)
 - [Napat](https://github.com/napatwongchr)
 - [Eric Audran](https://github.com/Nevosis)
