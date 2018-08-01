@@ -18,6 +18,7 @@
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
+- [Neutrix](https://github.com/NeuTrix)
 - nini faroux
 - [Jacob Bovee](https://github.com/jbovee)
 - [Ritika Nair](https://github.com/ritikavnair)
