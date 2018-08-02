@@ -117,6 +117,7 @@
 - [Roland Kr](https://github.com/rolandkr)
 - [Sudhanshu Dwivedi](https://github.com/Sudhanshudwivedi)
 - [Amaury Perrin](https://github.com/ryudii)
+- [Rena Friedman](https://github.com/rbfriedman)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
