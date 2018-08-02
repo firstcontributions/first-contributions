@@ -24,7 +24,7 @@
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Neutrix](https://github.com/NeuTrix) 
 
--[JustinStanger](https://github.com/JStanger13)
+-[JustinStanger](https://github.com/JStanger13)  
 - nini faroux
 - [Jacob Bovee](https://github.com/jbovee)
 - [The Sicilian Bull] (https://github.com/denisjlanza)
