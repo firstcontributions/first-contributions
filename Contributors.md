@@ -28,6 +28,7 @@
 - [Taylor Murray](https://github.com/murraytay)
 - Christopher Tang
 -Hemant Mishra
+- [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
