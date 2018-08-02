@@ -4976,3 +4976,4 @@
 - [Nicholas Eng](https://github.com/Nicholas-Eng)
 - [David Adrianzen](https://github.com/jorgedav-id)
 - [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
+- [Krzysztof Bogusz](https://github.com/krzysztofbogusz91)
