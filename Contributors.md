@@ -140,6 +140,7 @@
 - [Qqlick](https://github.com/Qqlick)
 - [Michael Zeng](https://github.com/michaelzeng96)
 - [pqrsumit](https://github.com/pqrsumit)
+- Themis
 - [Aurora Maybee](https://github.com/auroramaybee)
 - [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
