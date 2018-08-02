@@ -4982,3 +4982,4 @@
 - [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
 - [Krzysztof Bogusz](https://github.com/krzysztofbogusz91)
 - [Matej Konrad](https://github.com/matejkonrad)
+- [Jaskaran Singh](https://github.com/jaskaransr93)
