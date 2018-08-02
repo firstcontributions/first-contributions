@@ -60,6 +60,7 @@
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Benson M]
 - [Martin Kim](https://github.com/martin0829)
+- [Jaime Luengo](https://github.com/jaimeluengo)
 - [Shukry Zablah](szablah20@amherst.edu)
 - [Benjamin Kawecki](https://github.com/benkawecki)
 - [Sukh Raj Limbu](https://github.com/sorablaze11)
