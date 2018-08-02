@@ -21,9 +21,10 @@
 - [MikeyForYou](https://github.com/MikeyForYou)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
-- [Neutrix](https://github.com/NeuTrix)
+- [Neutrix](https://github.com/NeuTrix) 
 - nini faroux
 - [Jacob Bovee](https://github.com/jbovee)
+- [The Sicilian Bull] (https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
