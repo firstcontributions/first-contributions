@@ -1,3 +1,4 @@
+- [Amit Pareek](https://github.com/amit0021)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Justin Largo](https://github.com/jlargs64)
 - [Camilo A](https://github.com/CamiloAvelar)
