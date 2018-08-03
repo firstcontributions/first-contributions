@@ -2266,6 +2266,7 @@
 - [Tsufael](https://github.com/Tsufael)
 - [Sidartha](https://github.com/sidarthar)
 - [Edgar](https://github.com/edgarbc)
+- [Josh](https://github.com/jhsones)
 - [Krystle Weinrich](https://github.com/kmweinrich)
 - [Nazareh Velho Turmina](https://github.com/Nazareh)
 - [Mohammed Nabeel](https://github.com/mnabeelp)
