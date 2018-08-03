@@ -14,8 +14,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](Translations.md).*
 
-<table>
-<tr>
+<table >
+<tr bgcolor="#666">
 <td>
 <a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.hi.md"><img src="assets/country-4x3/in.svg" width="25" ><img></a>
 </td>
@@ -57,7 +57,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 </td>
 </tr>
 
-<tr>
+<tr bgcolor="#666">
 
 <td>
 <a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.fa.md">Persian</a>
@@ -112,7 +112,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 </td>
 </tr>
 
-<tr>
+<tr bgcolor="#666">
 <td>
 <a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.it.md"><img src="assets/country-4x3/it.svg" width="25" ><img></a>
 </td>
