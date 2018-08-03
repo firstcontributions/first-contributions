@@ -4698,6 +4698,7 @@
 - [Eden Santana](https://github.com/edenalsant)
 - [A.C. Miller](https://github.com/spielere1n)
 - [Prathamesh Borhade](https://github.com/Prathamesh99)
+- [Aniruddha Bhattacharjee](https://github.com/anirudnits)
 - [Killer Bouy](https://github.com/KillerBouy)
 - Joshua Malone
 - [Alasdair Bannatyne](https://github.com/Bannatyne84)
