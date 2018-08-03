@@ -28,7 +28,7 @@
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
 - [Jacob Bovee](http://github.com/jbovee)
-- [The Sicilian Bull] (https://github.com/denisjlanza)
+- [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Manik Chugh](http://github.com/manikrc98)
 - [Tea Har](https://github.com/teahar)
@@ -40,7 +40,8 @@
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - Christopher Tang
-- Hemant Mishra
+-Hemant Mishra
+- [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
