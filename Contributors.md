@@ -26,9 +26,10 @@
 - [Neutrix](https://github.com/NeuTrix) 
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
-- [Jacob Bovee](https://github.com/jbovee)
+- [Jacob Bovee](http://github.com/jbovee)
 - [The Sicilian Bull] (https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
+- [Manik Chugh](http://github.com/manikrc98)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
 - [Thomas Lee](https://github.com/sendmebiscuits)
