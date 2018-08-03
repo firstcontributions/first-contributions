@@ -1,6 +1,7 @@
 # Contributors
 
 - [Tanveer Ahmed] (https://github.com/Tan66)
+  [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
 - [Marina Dargitz](https://github.com/mdargitz)
