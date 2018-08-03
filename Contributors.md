@@ -21,6 +21,7 @@
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
+- [Mayank Gupta](https://github.com/mayank2424)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Neutrix](https://github.com/NeuTrix) 
