@@ -4986,6 +4986,7 @@
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
 - [zenott](https://github.com/zenott)
+- [Will Morris](https://github.com/morriswr00)
 - [cagdassalur](https://github.com/cagdassalur)
 - [AboodMadridista](https://github.com/AboodMadridista)
 - [Amit Ambardekar](https://github.com/amitamb)
@@ -4997,4 +4998,4 @@
 - [Jaskaran Singh](https://github.com/jaskaransr93)
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
-- [Myren Eario] (https://github.com/myren-eario)
+- [Myren Eario](https://github.com/myren-eario)
