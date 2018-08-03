@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Comoros' Flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Andrew Duhan</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+
+</rdf:RDF>
+
+-->
+<svg id="svg660" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4850">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs662">
+  <clipPath id="clipPath4687" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4689" fill-opacity="0.67" height="512" width="682.67" y="0" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath4687)" fill-rule="evenodd" transform="scale(.9375)">
+  <rect id="rect665" height="128" width="768.77" y="-.0000018630" x="0" stroke-width="1pt" fill="#ff0"/>
+  <rect id="rect668" height="128" width="768.77" y="128" x="0" stroke-width="1pt" fill="#fff"/>
+  <rect id="rect667" height="128" width="768.77" y="256" x="0" stroke-width="1pt" fill="#be0027"/>
+  <rect id="rect666" height="128" width="768.77" y="384" x="0" stroke-width="1pt" fill="#3b5aa3"/>
+  <path id="path664" d="m0 0.000019406v512l381.86-255.28-381.86-256.72z" fill="#239e46"/>
+  <path id="path673" d="m157.21 141.43c-85.097-4.31-123.87 63.47-123.78 115.87-0.194 61.97 58.529 113.08 112.81 109.99-29.27-13.84-65.008-52.66-65.337-110.25-0.3-52.18 29.497-97.55 76.307-115.61z" fill="#fff"/>
+  <polygon id="polygon674" d="m 126.77341,160.21338 -9.75793,-7.62986 -11.8172,3.71287 4.24106,-11.63809 -7.18286,-10.0915 12.37904,0.43712 7.37795,-9.94975 3.40961,11.90825 11.74269,3.94221 -10.27179,6.92258 z" points="126.77 160.21 117.02 152.58 105.2 156.3 109.44 144.66 102.26 134.57 114.64 135 122.01 125.05 125.42 136.96 137.17 140.9 126.89 147.83" transform="matrix(1.23 0 0 1.23 0 .000016587)" stroke-width="1pt" fill="#fff"/>
+  <polygon id="polygon675" d="m 126.77341,160.21338 -9.75793,-7.62986 -11.8172,3.71287 4.24106,-11.63809 -7.18286,-10.0915 12.37904,0.43712 7.37795,-9.94975 3.40961,11.90825 11.74269,3.94221 -10.27179,6.92258 z" points="126.77 160.21 117.02 152.58 105.2 156.3 109.44 144.66 102.26 134.57 114.64 135 122.01 125.05 125.42 136.96 137.17 140.9 126.89 147.83" transform="matrix(1.23 0 0 1.23 -.25522 52.063)" stroke-width="1pt" fill="#fff"/>
+  <polygon id="polygon676" d="m 126.77341,160.21338 -9.75793,-7.62986 -11.8172,3.71287 4.24106,-11.63809 -7.18286,-10.0915 12.37904,0.43712 7.37795,-9.94975 3.40961,11.90825 11.74269,3.94221 -10.27179,6.92258 z" points="126.77 160.21 117.02 152.58 105.2 156.3 109.44 144.66 102.26 134.57 114.64 135 122.01 125.05 125.42 136.96 137.17 140.9 126.89 147.83" transform="matrix(1.23 0 0 1.23 -.000011822 104.64)" stroke-width="1pt" fill="#fff"/>
+  <polygon id="polygon677" d="m 126.77341,160.21338 -9.75793,-7.62986 -11.8172,3.71287 4.24106,-11.63809 -7.18286,-10.0915 12.37904,0.43712 7.37795,-9.94975 3.40961,11.90825 11.74269,3.94221 -10.27179,6.92258 z" points="126.77 160.21 117.02 152.58 105.2 156.3 109.44 144.66 102.26 134.57 114.64 135 122.01 125.05 125.42 136.96 137.17 140.9 126.89 147.83" transform="matrix(1.23 0 0 1.23 -.25522 157.72)" stroke-width="1pt" fill="#fff"/>
+ </g>
+</svg>

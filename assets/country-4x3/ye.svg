@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg3466" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3772">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" fill-rule="evenodd" transform="matrix(.86011 0 0 .96762 0 .000060435)" stroke-width="1pt">
+  <rect id="rect3472" height="488.61" width="744.09" y="-.000015260" x="0" fill="#fff"/>
+  <rect id="rect3470" height="162.64" width="744.09" y="-0.000062" x="0" fill="#f10600"/>
+  <rect id="rect3471" height="162.64" width="744.09" y="333.42" x="0"/>
+ </g>
+</svg>

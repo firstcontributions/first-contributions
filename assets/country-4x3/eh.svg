@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Western Sahara's Flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Andrew Duhan</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+
+</rdf:RDF>
+
+-->
+<svg id="svg607" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3053">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs609">
+  <clipPath id="clipPath8609" clipPathUnits="userSpaceOnUse">
+   <rect id="rect8611" fill-opacity="0.67" height="512" width="682.67" y="-.000032843" x="-158.67"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath8609)" fill-rule="evenodd" transform="matrix(.93750 0 0 .93750 148.75 .000030790)">
+  <rect id="rect611" height="256" width="1024" y="-.000030518" x="-180" stroke-width="1pt"/>
+  <rect id="rect612" height="256" width="1024" y="256" x="-180" stroke-width="1pt" fill="#107b00"/>
+  <rect id="rect643" height="176.13" width="1024" y="169.31" x="-180" stroke-width="1pt" fill="#fff"/>
+  <path id="path645" d="m309.98 195.55c-45.202-19.423-84.107 20.644-84.063 58.085 0.0459 39.158 38.021 80.919 86.168 62.431-34.087-10.038-48.156-35.216-48.149-60.68-0.24576-25.217 15.886-54.541 46.044-59.836z" fill="#f0f"/>
+  <polygon id="polygon644" d="m 331.8761,176.56204 -15.90909,-11.31718 -15.71867,11.7239 5.8471,-18.62764 -16.00743,-11.32646 19.5228,-0.19533 5.82553,-18.72404 6.21865,18.50692 19.60781,-0.24564 -15.67946,11.63324 z" points="331.88 176.56 315.97 165.24 300.25 176.97 306.1 158.34 290.09 147.02 309.61 146.82 315.44 128.1 321.66 146.6 341.26 146.36 325.58 157.99" transform="matrix(1.6383 .020298 -.020298 1.6383 -176.99 -1.7807)" stroke-width="1pt" fill="#ff1800"/>
+  <path id="path648" d="m314.34 315.65c-50.517 17.536-88.554-20.48-89.216-59.456-0.66027-38.976 37.59-79.167 89.473-60.865-29.355 4.3532-50.912 30.081-51.169 59.169-0.19661 21.994 12.811 53.345 50.912 61.152z" fill="#f00"/>
+  <path id="path615" d="m-179.98 0.000043252 348.61 256.62l-348.63 255.38 0.002-509.38 0.0148-2.6217z" fill="#f00"/>
+ </g>
+</svg>

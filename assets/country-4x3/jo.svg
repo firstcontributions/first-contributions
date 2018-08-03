@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- /Creative Commons Public Domain -->
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+    <dc:title>New Zealand, Australia, United Kingdom, United States, 
+Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
+Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
+Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
+    <dc:rights><Agent>
+       <dc:title>Daniel McRae</dc:title>
+    </Agent></dc:rights>
+    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4629">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs550">
+  <clipPath id="clipPath3191" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3193" fill-opacity="0.67" height="512" width="682.67" y=".000016181" x="-117.82"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath3191)" transform="matrix(.93750 0 0 .93750 110.46 -.000015169)">
+  <g id="g558" fill-rule="evenodd" stroke-width="1pt" transform="matrix(24.381 0 0 24.381 -117.82 .00001745)">
+   <rect id="rect551" height="7" width="42" y="0" x="0"/>
+   <rect id="rect552" height="7" width="42" y="7" x="0" fill="#fff"/>
+   <rect id="rect553" height="7" width="42" y="14" x="0" fill="#090"/>
+   <path id="path554" d="m0 21 21-10.5-21-10.5v21z" fill="#f00"/>
+   <polygon id="polygon557" points="5.8385 11.852 6.0708 10.834 5.027 10.834 5.9674 10.381 5.3166 9.5648 6.2571 10.018 6.4894 9 6.4894 9 6.7216 10.018 7.6621 9.5648 7.0113 10.381 7.9518 10.834 6.9079 10.834 7.1402 11.852 6.4894 11.035" fill="#fff"/>
+  </g>
+ </g>
+</svg>

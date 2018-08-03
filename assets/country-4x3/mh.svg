@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of the Marshall Islands' Flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Andrew Duhan</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+
+</rdf:RDF>
+
+-->
+<svg id="svg650" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3495">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" fill-rule="evenodd">
+  <g id="g9216" transform="scale(1.3333 1)">
+   <rect id="rect659" height="480" width="479.91" y="0" x="0" stroke-width="1pt" fill="#3b5aa3"/>
+   <path id="path655" d="m0 467.08 479.94-467.08-0.02 86.915-479.92 393.08v-12.92z" fill="#e2ae57"/>
+   <path id="path654" d="m16.798 479.98 463.2-300.76-0.1-95.479-479.9 396.26 16.798-0.02z" fill="#fff"/>
+  </g>
+  <path id="path656" d="m175.32 15.163-6.3145 102.79-27.009-65.552 10.361 69.775l-41.83-56.378 27.42 64.338-54.935-42.616 42.765 53.546-62.102-27.52 54.392 41.19-67.651-8.95 63.931 25.34-100.35 9.18 100.59 6.7232-63.742 26.207 66.972-9.0623-54.195 40.018 62.891-27.595-42.896 53.99 54.573-41.318-27.036 62.889 43.684-54.69-11.824 68.173 27.478-63.7 6.2111 100.63 9.6904-100.38 23.692 64.088-9.0321-69.057 43.468 54.738-28.561-63.93 54.55 43.996-43.37-54.929 64.834 26.994-57.379-41.902 69.878 11.78-66.896-25.694 104.05-6.4608-104.05-9.6904 68.486-22.828-70.972 8.9141 58.638-40.996-66.091 26.586 45.644-55.334-55.582 43.408 26.746-66.412-43.146 56.474 9.2674-70.43-25.665 66.455-9.587-102.79z" fill="#fff"/>
+ </g>
+</svg>

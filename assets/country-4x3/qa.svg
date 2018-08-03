@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4320">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath3030" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3032" fill-opacity="0.67" height="512" width="682.67" y=".0000024116" x="-27.334"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3030)" transform="matrix(.9375 0 0 .9375 25.626 -.0000022609)" stroke-width="1pt">
+  <rect id="rect171" height="512" width="768" y=".0000024116" x="-70" fill="#660057"/>
+  <path id="path193" d="m86.533 511.76-156.53 0.24-0.003-512 155.8 0.081472 100.53 32.327-99.795 31.51l99.791 32.489-99.791 31.511 99.791 32.489-99.791 31.511 99.791 32.489-99.791 31.511 99.791 32.49-99.791 31.511 99.791 32.49-99.791 31.511 99.791 32.489-99.791 31.511 99.791 32.489-99.791 31.511" fill="#fff"/>
+ </g>
+</svg>

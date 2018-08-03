@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!--
+On October 30, 2003, Brett Roper dedicated to the public domain the
+work "SVG graphic of Cote d'Ivoire Flag." Before making the dedication,
+Brett Roper
+represented that Brett Roper owned all copyrights in the
+work. By making the dedication, Brett Roper made an overt act
+of relinquishment in perpetuity of all present and future rights under
+copyright law, whether vested or contingent, in "SVG graphic of Cote
+d'Ivoire
+Flag."
+
+Brett Roper understands that such relinquishment of all rights
+includes the relinquishment of all rights to enforce (by lawsuit or
+otherwise) those copyrights in the Work.
+
+Brett Roper recognizes that, once placed in the public domain,
+"SVG graphic of Cote d'Ivoire Flag" may be freely reproduced,
+distributed, transmitted, used,
+modified, built upon, or otherwise exploited by anyone for any
+purpose, commercial or non-commercial, and in any way, including by
+methods that have not yet been invented or conceived.
+-->
+<svg id="canada" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" fill-opacity="14.118" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" fill="#28ff09">
+ <metadata id="metadata8">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" fill-rule="evenodd" fill-opacity="1">
+  <rect id="rect595" height="480" width="213.17" y="0" x="426.83" fill="#00cd00"/>
+  <rect id="rect593" height="480" width="212.88" y="0" x="0" fill="#ff9a00"/>
+  <rect id="rect594" height="480" width="213.95" y="0" x="212.88" fill="#fff"/>
+ </g>
+</svg>

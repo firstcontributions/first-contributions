@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="Flag_of_Curacao" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata12">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs3"><!-- the following is a regular 5-pointed star, radius 1, vertically aligned, centered at the 
+	origin.  It was produced with the following bc script:
+		scale=100
+		x=(cosd(72)-1)*sind(144)/(cosd(144)-1)
+		r=sqrt(x^2+cosd(72)^2)			(the inner radius)
+		for(i=0; i<5; ++i) {phi=72*i; sind(phi); -cosd(phi); r*sind(phi+36); -r*cosd(phi+36)}
+    -->
+  <polygon id="pentagram" points="0 -1 0.22451 -0.30902 0.95106 -0.30902 0.36327 0.11803 0.58779 0.80902 0 0.38197 -0.58779 0.80902 -0.36327 0.11803 -0.95106 -0.30902 -0.22451 -0.30902"/>
+  <clipPath id="clipPath3551" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3553" fill-opacity="0.67" height="512" width="682.67" y="-0.00001" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath3551)" transform="matrix(.9375 0 0 .9375 0 .0000093750)">
+  <rect id="blue_background_Pantone_280" height="512" width="768" y="-0.00001" x="0" fill="#002b7f"/>
+  <rect id="yellow_stripe_Pantone_102" height="64" width="768" y="320" x="0" fill="#f9e814"/>
+  <use id="small_star" xlink:href="#pentagram" transform="scale(42.667)" height="9000" width="13500" y="2" x="2" fill="#ffffff"/>
+  <use id="large_star" xlink:href="#pentagram" transform="scale(56.889)" height="9000" width="13500" y="3" x="3" fill="#ffffff"/>
+ </g>
+</svg>

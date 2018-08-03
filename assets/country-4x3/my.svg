@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4199">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" stroke-width="1pt" fill-rule="evenodd">
+  <rect id="rect149" height="480" width="640" y="-7.1136e-7" x=".90062" fill="#e80008"/>
+  <rect id="rect299" height="34.286" width="640" y="34.286" x=".90062" fill="#fff"/>
+  <rect id="rect300" height="34.286" width="640" y="102.86" x=".90062" fill="#fff"/>
+  <rect id="rect301" height="34.286" width="640" y="171.43" x=".90062" fill="#fff"/>
+  <rect id="rect302" height="34.286" width="640" y="240" x=".90062" fill="#fff"/>
+  <rect id="rect303" height="34.286" width="640" y="308.57" x=".90062" fill="#fff"/>
+  <rect id="rect304" height="34.286" width="640" y="377.14" x=".90062" fill="#fff"/>
+  <rect id="rect305" height="34.286" width="640" y="445.71" x=".90062" fill="#fff"/>
+  <rect id="rect298" height="141.39" width="245.17" y="5.3671e-8" x="0" fill="#000689"/>
+  <g id="g4518" fill="#fe0" transform="matrix(.48288 0 0 .48288 0 7.6956)">
+   <path id="path297" d="m257.76 232.94c-54.627 30.397-122.92 9.8571-152.44-45.2-29.517-55.058-9.1377-123.89 45.49-153.64 33.777-18.395 70.875-18.76 104.58-0.66665-19.02-4.578-36.004-4.3319-54.459 1.1505-53.759 15.97-84.662 73.362-68.979 128.11 15.683 54.745 72.042 86.214 125.8 70.244z"/>
+   <polygon id="polygon291" transform="matrix(.84992 0 0 .84992 34.931 -42.019)" points="370.61 162.91 438.48 124.35 384.56 180.79 462.44 175.5 389.37 202.96 461.83 231.98 384.09 225.02 436.78 282.6 369.76 242.6 392.24 317.34 349.22 252.22 337.04 329.31 337.04 329.31 326.54 251.97 282.12 316.16 306.21 241.91 238.34 280.47 292.26 224.03 214.38 229.32 287.45 201.86 214.99 172.84 292.73 179.8 240.04 122.22 307.06 162.22 284.58 87.482 327.6 152.6 339.78 75.507 350.28 152.85 394.7 88.666"/>
+  </g>
+ </g>
+</svg>

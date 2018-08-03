@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3772">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs3">
+  <clipPath id="clipPath7218" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7220" fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath7218)">
+  <rect id="rect124" height="480" width="960" y="0" x="0" fill="#006"/>
+  <g id="g7141" transform="scale(.66667)">
+   <path id="path146" d="m0 0v26.833l426.33 213.17h53.67v-26.83l-426.33-213.17h-53.67zm480 0v26.832l-426.33 213.17h-53.67v-26.83l426.33-213.17h53.67z" fill="#fff"/>
+   <path id="path136" stroke-width="1pt" fill="#fff" d="m200 0v240h80v-240h-80zm-200 80v80h480v-80h-480z"/>
+   <path id="path141" d="m0 96v48h480v-48h-480zm216-96v240h48v-240h-48z" stroke-width="1pt" fill="#c00"/>
+   <path id="path150" d="m0 240 160-80h35.777l-160 80h-35.78zm0-240 160 80h-35.78l-124.22-62.111v-17.889zm284.22 80 160-80h35.78l-160 80h-35.78zm195.78 160-160-80h35.78l124.22 62.11v17.89z" fill="#c00"/>
+  </g>
+  <g id="g5930" transform="matrix(.88070 0 0 .88070 -192.09 65.009)">
+   <g id="g141" transform="scale(8.5333)">
+    <path id="path133" d="m90 7.995 0.89919 2.7674h2.9098l-2.3541 1.7104 0.89919 2.7674-2.354-1.709-2.3541 1.7104 0.89919-2.7674-2.3541-1.7104h2.9098z" fill="#fff"/>
+    <path id="path132" d="m90 8.8456 0.7082 2.1796h2.2918l-1.8541 1.3471 0.7082 2.1796-1.854-1.347-1.854 1.347 0.708-2.18-1.854-1.347h2.2918z" fill="#c00"/>
+   </g>
+   <g id="g132" transform="matrix(8.5333 0 0 8.5333 -118.3 119.03)">
+    <path id="path134" d="m90 7.995 0.89919 2.7674h2.9098l-2.3541 1.7104 0.89919 2.7674-2.354-1.709-2.3541 1.7104 0.89919-2.7674-2.3541-1.7104h2.9098z" fill="#fff"/>
+    <path id="path135" d="m90 8.8456 0.7082 2.1796h2.2918l-1.8541 1.3471 0.7082 2.1796-1.854-1.347-1.854 1.347 0.708-2.18-1.854-1.347h2.2918z" fill="#c00"/>
+   </g>
+   <g id="g139" transform="matrix(8.5333 0 0 8.5333 101.4 -14.251)">
+    <path id="path138" d="m90 20.648 0.75263 2.3164h2.4356l-1.9704 1.4316 0.75263 2.3164-1.972-1.432-1.9704 1.4316 0.75263-2.3164-1.9704-1.4316h2.4356z" fill="#fff"/>
+    <path id="path137" d="m90 21.371 0.59017 1.8164h1.9098l-1.5451 1.1226 0.59017 1.8164-1.545-1.122-1.5451 1.1226 0.59017-1.8164-1.5451-1.1226h1.9098z" fill="#c00"/>
+   </g>
+   <path id="path142" d="m768 372.02 8.4369 25.966h27.302l-22.088 16.048 8.4369 25.966-22.09-16.06-22.088 16.048 8.4369-25.966-22.088-16.048h27.302z" fill-rule="evenodd" fill="#fff"/>
+   <path id="path143" d="m768 378.2 7.0506 21.699h22.816l-18.459 13.411 7.0506 21.699-18.46-13.41-18.459 13.411 7.0506-21.699-18.459-13.411h22.816z" fill-rule="evenodd" fill="#c00"/>
+  </g>
+ </g>
+</svg>

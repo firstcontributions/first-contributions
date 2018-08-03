@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4657">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs550">
+  <clipPath id="clipPath5873" clipPathUnits="userSpaceOnUse">
+   <rect id="rect5875" fill-opacity="0.67" height="514.11" width="685.48" y="-2.1096" x="-84.325"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath5873)" fill-rule="evenodd" transform="matrix(.93365 0 0 .93365 78.73 1.9696)">
+  <rect id="rect551" height="509.73" width="750.87" y="1.1357" x="-116.04" fill="#fff"/>
+  <rect id="rect552" height="147.04" width="750.87" y="364.96" x="-116.04" stroke-width="1pt" fill="#008900"/>
+  <rect id="rect553" height="147.04" width="750.87" y="185.42" x="-118" stroke-width="1pt" fill="#c23743"/>
+  <rect id="rect554" height="160.08" width="750.87" y="-2.1096" x="-116.04" stroke-width="1pt"/>
+  <path id="path565" d="m158.63 436.28c37.957-70.646 165.2-304.64 163.95-305.32-20.81-12.213 16.82-30.975 44.455-74.966-19.688 47.28-17.599 91.404-37.812 78.702-33.616 63.449-137.53 257.39-163.36 305.3-2.7356-1.4698-3.5398-2.069-7.2283-3.7123z" stroke="#000" stroke-width="1.0805" fill="#fff"/>
+  <path id="path568" d="m349.01 439.05c-37.96-70.64-165.21-304.64-163.95-305.32 20.81-12.213-16.82-30.975-44.455-74.966 19.688 47.28 17.599 91.404 37.812 78.702 33.616 63.449 137.53 257.39 163.36 305.3 2.7356-1.4698 3.5398-2.069 7.2283-3.7123z" stroke="#000" stroke-width="1.0805" fill="#fff"/>
+  <path id="path555" d="m252.53 85.435c119.59 84.303 117.63 288.19 0 358.77-109.79-74.5-125.47-276.43 0-358.77z" stroke="#000" stroke-width="1.1357" fill="#c23743"/>
+  <path id="path557" d="m359.93 494.67c0 4.1115-2.1737 7.4446-4.8552 7.4446-2.6814 0-4.8552-3.3331-4.8552-7.4446s2.1737-7.4446 4.8552-7.4446c2.6814 0 4.8552 3.3331 4.8552 7.4446z" transform="matrix(3.0285 0 0 3.0285 -821.82 -1237.2)" fill="#fffffb"/>
+  <path id="path558" d="m251.78 93.278c33.627 32.534 33.075 111.22 0 138.46-30.87-28.751-35.28-106.68 0-138.46z" stroke="#000" stroke-width=".37410" fill="#fff"/>
+  <path id="path559" d="m251.78 297.17c33.627 32.534 33.075 111.22 0 138.46-30.87-28.751-35.28-106.68 0-138.46z" stroke="#000" stroke-width=".37410" fill="#fff"/>
+  <rect id="rect560" height="141.16" width="13.723" y="93.279" x="244.69" stroke-width="1pt" fill="#c23743"/>
+  <rect id="rect561" height="141.16" width="13.723" y="295.21" x="246.65" stroke-width="1pt" fill="#c23743"/>
+  <path id="path562" d="m179.28 181.5c20.401 37.985 20.067 129.85 0 161.66-18.729-33.568-21.405-124.55 0-161.66z" stroke="#000" stroke-width=".31486"/>
+  <path id="path563" d="m328.28 183.46c20.401 37.985 20.067 129.85 0 161.66-18.729-33.568-21.405-124.55 0-161.66z" stroke="#000" stroke-width=".31486"/>
+ </g>
+</svg>

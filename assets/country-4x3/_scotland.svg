@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   x="0.00000000"
+   y="0.00000000"
+   width="640"
+   height="480"
+   id="svg548"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="_Scotland.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     id="namedview3756"
+     showgrid="false"
+     inkscape:zoom="0.57452381"
+     inkscape:cx="-185.80605"
+     inkscape:cy="266.3075"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg548" />
+  <metadata
+     id="metadata3758">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs549">
+    <marker
+       markerUnits="strokeWidth"
+       refX="0.00000000"
+       refY="5.00000000"
+       markerWidth="4.00000000"
+       markerHeight="3.00000000"
+       orient="auto"
+       viewBox="0 0 10 10"
+       id="ArrowEnd">
+      <path
+         d="M 0 0 L 10 5 L 0 10 L 0 0 z "
+         style="font-size:12;"
+         id="path551" />
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       refX="10.0000000"
+       refY="5.00000000"
+       markerWidth="4.00000000"
+       markerHeight="3.00000000"
+       orient="auto"
+       viewBox="0 0 10 10"
+       id="ArrowStart">
+      <path
+         d="M 10 0 L 0 5 L 10 10 L 10 0 z "
+         style="font-size:12;"
+         id="path553" />
+    </marker>
+    <clipPath
+       id="a">
+      <rect
+         id="rect5949"
+         height="3"
+         width="5" />
+    </clipPath>
+  </defs>
+  <g
+     id="g5951"
+     clip-path="url(#a)"
+     transform="scale(128,160)">
+    <rect
+       id="rect5953"
+       height="30"
+       width="50"
+       x="0"
+       y="0"
+       style="fill:#0065bd" />
+    <path
+       id="path5955"
+       d="M 0,0 5,3 M 0,3 5,0"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ffffff;stroke-width:0.60000002" />
+  </g>
+</svg>

@@ -14,6 +14,142 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](Translations.md).*
 
+<table>
+<tr>
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.hi.md"><img src="assets/country-4x3/in.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.mm_unicode.md"><img src="assets/country-4x3/mm.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.id.md"><img src="assets/country-4x3/id.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.fr.md"><img src="assets/country-4x3/fr.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.es.md"><img src="assets/country-4x3/es.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.nl.md"><img src="assets/country-4x3/nl.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ru.md"><img src="assets/country-4x3/ru.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ja.md"><img src="assets/country-4x3/jp.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.vn.md"><img src="assets/country-4x3/vn.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.pl.md"><img src="assets/country-4x3/pl.svg" width="25" ><img></a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.fa.md">Persian</a>
+<br>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.fa.en.md">Finglish</a>
+<br>
+<img src="assets/country-4x3/ir.svg" width="25" ><img>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.lt.md"><img src="assets/country-4x3/lt.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ko.md"><img src="assets/country-4x3/kr.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.de.md"><img src="assets/country-4x3/de.svg" width="25" ><img></a>
+</td>
+
+<td>
+<font size="2">
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.chs.md">中文(Simplified)</a>
+</font>
+<br>
+<font size="2">
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.cht.md">中文(Traditional)</a>
+</font>
+<br>
+<img src="assets/country-4x3/cn.svg" width="25"><img>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.gr.md"><img src="assets/country-4x3/gr.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ar.md"><img src="assets/country-4x3/ae.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ua.md"><img src="assets/country-4x3/ua.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.pt_br.md"><img src="assets/country-4x3/br.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.pt-pt.md"><img src="assets/country-4x3/pt.svg" width="25" ><img></a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.it.md"><img src="assets/country-4x3/it.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.th.md"><img src="assets/country-4x3/th.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.gl.md"><img src="assets/country-4x3/&#95;galicia.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ur.md"><img src="assets/country-4x3/pk.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.bn.md"><img src="assets/country-4x3/bd.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ro.md"><img src="assets/country-4x3/md.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/README.md"><img src="assets/country-4x3/gb.svg" width="25" ><img></a>
+</td>
+
+<td>
+<a href="https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.tr.md"><img src="assets/country-4x3/tr.svg" width="25" ><img></a>
+</td>
+</tr>
+
+</table>
+
+
+
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
@@ -64,12 +200,12 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 
 Add those changes to the branch you just created using the `git add` command:

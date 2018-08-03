@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata9">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath4190" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4192" fill-opacity="0.67" height="512" width="682.67" y=".0000024116" x="-40"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath4190)" fill-rule="evenodd" transform="matrix(.9375 0 0 .9375 37.5 -.0000022609)">
+  <rect id="rect149" height="512" width="768" y=".0000024116" x="-40" stroke-width="1pt" fill="#0c0"/>
+  <rect id="rect280" height="256" width="768" y=".000047206" x="-40" stroke-width="1pt" fill="#69f"/>
+  <path id="path279" d="m-40 0.000025157 382.73 255.67-382.73 255.34v-511.01z" stroke-width="1pt" fill="#fffefe"/>
+  <path id="path205" d="m119.8 292.07-30.82-22.18-30.67 22.4 11.407-36.41-30.613-22.48 37.874-0.31l11.747-36.299 11.999 36.215 37.875 0.0478-30.457 22.695 11.659 36.329z" stroke-width=".11287" fill="#f00"/>
+ </g>
+</svg>

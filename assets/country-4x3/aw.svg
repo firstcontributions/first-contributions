@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg1358" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3195">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs1558">
+  <clipPath id="clipPath4541" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4543" fill-opacity="0.67" height="216" width="288" y="-.000060480" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag">
+  <g id="g3442" transform="matrix(2.2222 0 0 2.2222 0 .0001344)" clip-path="url(#clipPath4541)">
+   <path id="path1359" fill="#39c" d="m0-0.000064185v216h324v-216h-324z"/>
+   <path id="path1553" fill="#ff0" d="m0 144v12h324v-12h-324z"/>
+   <path id="path1555" fill="#ff0" d="m0 168v12h324v-12h-324z"/>
+  </g>
+  <g id="g3256" transform="matrix(2.9521 0 0 2.9521 0.946 -7.3585)">
+   <path id="path1360" fill="#9cc" d="m48 12 1 1-1-1z"/>
+   <path id="path1362" fill="#9cc" d="m47 14 1 1-1-1m2 0 1 1-1-1z"/>
+   <path id="path1363" fill="#ccf" d="m47 15 1 1-1-1m2 0 1 1-1-1z"/>
+   <path id="path1364" fill="#6cc" d="m46 17 1 1-1-1z"/>
+   <path id="path1365" fill="#c66" d="m48 17 1 1-1-1z"/>
+   <path id="path1366" fill="#6cc" d="m50 17 1 1-1-1z"/>
+   <path id="path1367" fill="#ccf" d="m46 18 1 1-1-1z"/>
+   <path id="path1369" fill="#ccf" d="m50 18 1 1-1-1z"/>
+   <path id="path1370" fill="#fcc" d="m47 19 1 1-1-1m2 0 1 1-1-1z"/>
+   <path id="path1371" fill="#6cc" d="m45 20 1 1-1-1z"/>
+   <path id="path1372" d="m47.835 14.032-7.01 26.574-26.652 7.238 26.575 6.936 7.087 26.574 7.086-26.574 26.575-7.087-26.575-7.087-7.086-26.574z" stroke="#fff" stroke-width="1.25" fill="#c00"/>
+   <path id="path1373" fill="#6cc" d="m51 20 1 1-1-1z"/>
+   <path id="path1374" fill="#9cf" d="m45 21 1 1-1-1m6 0 1 1-1-1z"/>
+   <path id="path1375" fill="#fcc" d="m46 22 1 1-1-1m4 0 1 1-1-1z"/>
+   <path id="path1376" fill="#69c" d="m44 23 1 1-1-1z"/>
+   <path id="path1377" fill="#c33" d="m46.333 23.667 0.3334 0.6666-0.3334-0.6666m4 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1378" fill="#69c" d="m52 23 1 1-1-1z"/>
+   <path id="path1379" fill="#9cf" d="m44 24 1 1-1-1m8 0 1 1-1-1z"/>
+   <path id="path1380" fill="#fcc" d="m45 25 1 1-1-1m6 0 1 1-1-1z"/>
+   <path id="path1381" fill="#69c" d="m43 26 1 1-1-1z"/>
+   <path id="path1383" fill="#69c" d="m53 26 1 1-1-1z"/>
+   <path id="path1384" fill="#9cc" d="m43 27 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1385" fill="#cff" d="m43 28 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1386" fill="#69c" d="m42 29 1 1-1-1z"/>
+   <path id="path1387" fill="#fcc" d="m44 29 1 1-1-1m8 0 1 1-1-1z"/>
+   <path id="path1388" fill="#69c" d="m54 29 1 1-1-1z"/>
+   <path id="path1389" fill="#9cc" d="m42 30 1 1-1-1z"/>
+   <path id="path1390" fill="#c33" d="m44.333 30.667 0.3334 0.6666-0.3334-0.6666m8 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1391" fill="#9cc" d="m54 30 1 1-1-1z"/>
+   <path id="path1392" fill="#cff" d="m42 31 1 1-1-1m12 0 1 1-1-1z"/>
+   <path id="path1393" fill="#fcc" d="m43 32 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1394" fill="#9cc" d="m41 33 1 1-1-1z"/>
+   <path id="path1395" fill="#c33" d="m43.333 33.667 0.3334 0.6666-0.3334-0.6666m10 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1396" fill="#9cc" d="m55 33 1 1-1-1z"/>
+   <path id="path1397" fill="#ccf" d="m41 34 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1398" fill="#fcc" d="m42 35 1 1-1-1m12 0 1 1-1-1z"/>
+   <path id="path1399" fill="#9cc" d="m40 36 1 1-1-1z"/>
+   <path id="path1400" fill="#c33" d="m42.333 36.667 0.3334 0.6666-0.3334-0.6666m12 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1401" fill="#9cc" d="m56 36 1 1-1-1z"/>
+   <path id="path1402" fill="#ccf" d="m40 37 1 1-1-1m16 0 1 1-1-1z"/>
+   <path id="path1403" fill="#fcc" d="m41 38 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1404" fill="#9cc" d="m39 39 1 1-1-1z"/>
+   <path id="path1405" fill="#c33" d="m41 39 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1406" fill="#9cc" d="m57 39 1 1-1-1m-21 1 1 1-1-1z"/>
+   <path id="path1407" fill="#ccf" d="m37 40 1 1-1-1m22 0 1 1-1-1z"/>
+   <path id="path1408" fill="#9cc" d="m60 40 1 1-1-1m-27 1 1 1-1-1z"/>
+   <path id="path1409" fill="#ccf" d="m34 41 1 1-1-1z"/>
+   <path id="path1410" fill="#fcc" d="m38 41 1 1-1-1z"/>
+   <path id="path1411" fill="#c33" d="m39 41 1 1-1-1m18 0 1 1-1-1z"/>
+   <path id="path1412" fill="#fcc" d="m58 41 1 1-1-1z"/>
+   <path id="path1413" fill="#ccf" d="m62 41 1 1-1-1z"/>
+   <path id="path1414" fill="#9cc" d="m63 41 1 1-1-1z"/>
+   <path id="path1415" fill="#69c" d="m29 42 1 1-1-1z"/>
+   <path id="path1416" fill="#9cc" d="m30 42 1 1-1-1z"/>
+   <path id="path1417" fill="#cff" d="m31 42 1 1-1-1z"/>
+   <path id="path1418" fill="#fcc" d="m35 42 1 1-1-1z"/>
+   <path id="path1419" fill="#c33" d="m36.667 42.333 0.6666 0.3334-0.6666-0.3334m23 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1420" fill="#fcc" d="m61 42 1 1-1-1z"/>
+   <path id="path1421" fill="#cff" d="m65 42 1 1-1-1z"/>
+   <path id="path1422" fill="#9cc" d="m66 42 1 1-1-1z"/>
+   <path id="path1423" fill="#69c" d="m67 42 1 1-1-1m-41 1 1 1-1-1z"/>
+   <path id="path1424" fill="#9cc" d="m27 43 1 1-1-1z"/>
+   <path id="path1425" fill="#cff" d="m28 43 1 1-1-1z"/>
+   <path id="path1426" fill="#fcc" d="m32 43 1 1-1-1z"/>
+   <path id="path1427" fill="#c33" d="m33.667 43.333 0.6666 0.3334-0.6666-0.3334m29 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1428" fill="#fcc" d="m64 43 1 1-1-1z"/>
+   <path id="path1429" fill="#cff" d="m68 43 1 1-1-1z"/>
+   <path id="path1430" fill="#9cc" d="m69 43 1 1-1-1z"/>
+   <path id="path1431" fill="#69c" d="m70 43 1 1-1-1m-47 1 1 1-1-1z"/>
+   <path id="path1432" fill="#9cf" d="m24 44 1 1-1-1z"/>
+   <path id="path1433" fill="#fcc" d="m29 44 1 1-1-1z"/>
+   <path id="path1434" fill="#c33" d="m30.667 44.333 0.6666 0.3334-0.6666-0.3334m35 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1435" fill="#fcc" d="m67 44 1 1-1-1z"/>
+   <path id="path1436" fill="#9cf" d="m72 44 1 1-1-1z"/>
+   <path id="path1437" fill="#69c" d="m73 44 1 1-1-1z"/>
+   <path id="path1438" fill="#6cc" d="m20 45 1 1-1-1z"/>
+   <path id="path1439" fill="#9cf" d="m21 45 1 1-1-1z"/>
+   <path id="path1440" fill="#fcc" d="m25 45 1 1-1-1z"/>
+   <path id="path1442" fill="#fcc" d="m71 45 1 1-1-1z"/>
+   <path id="path1443" fill="#9cf" d="m75 45 1 1-1-1z"/>
+   <path id="path1444" fill="#6cc" d="m76 45 1 1-1-1m-59 1 1 1-1-1z"/>
+   <path id="path1445" fill="#ccf" d="m18 46 1 1-1-1z"/>
+   <path id="path1446" fill="#fcc" d="m22 46 1 1-1-1z"/>
+   <path id="path1447" fill="#c33" d="m23.667 46.333 0.6666 0.3334-0.6666-0.3334m49 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1448" fill="#fcc" d="m74 46 1 1-1-1z"/>
+   <path id="path1449" fill="#ccf" d="m78 46 1 1-1-1z"/>
+   <path id="path1450" fill="#6cc" d="m79 46 1 1-1-1z"/>
+   <path id="path1451" fill="#9cc" d="m14 47 1 1-1-1z"/>
+   <path id="path1452" fill="#ccf" d="m15 47 1 1-1-1z"/>
+   <path id="path1453" fill="#fcc" d="m19 47 1 1-1-1z"/>
+   <path id="path1455" fill="#fcc" d="m77 47 1 1-1-1z"/>
+   <path id="path1456" fill="#ccf" d="m81 47 1 1-1-1z"/>
+   <path id="path1457" fill="#9cc" d="m82 47 1 1-1-1m-70 1 1 1-1-1z"/>
+   <path id="path1458" fill="#c66" d="m17 48 1 1-1-1z"/>
+   <path id="path1460" fill="#c66" d="m79 48 1 1-1-1z"/>
+   <path id="path1461" fill="#9cc" d="m84 48 1 1-1-1m-70 1 1 1-1-1z"/>
+   <path id="path1462" fill="#ccf" d="m15 49 1 1-1-1z"/>
+   <path id="path1463" fill="#fcc" d="m19 49 1 1-1-1m58 0 1 1-1-1z"/>
+   <path id="path1464" fill="#ccf" d="m81 49 1 1-1-1z"/>
+   <path id="path1465" fill="#9cc" d="m82 49 1 1-1-1z"/>
+   <path id="path1466" fill="#6cc" d="m17 50 1 1-1-1z"/>
+   <path id="path1467" fill="#ccf" d="m18 50 1 1-1-1z"/>
+   <path id="path1468" fill="#fcc" d="m22 50 1 1-1-1z"/>
+   <path id="path1469" fill="#c33" d="m23.667 50.333 0.6666 0.3334-0.6666-0.3334m49 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1470" fill="#fcc" d="m74 50 1 1-1-1z"/>
+   <path id="path1471" fill="#ccf" d="m78 50 1 1-1-1z"/>
+   <path id="path1472" fill="#6cc" d="m79 50 1 1-1-1m-59 1 1 1-1-1z"/>
+   <path id="path1473" fill="#9cf" d="m21 51 1 1-1-1z"/>
+   <path id="path1474" fill="#fcc" d="m25 51 1 1-1-1z"/>
+   <path id="path1476" fill="#fcc" d="m71 51 1 1-1-1z"/>
+   <path id="path1477" fill="#9cf" d="m75 51 1 1-1-1z"/>
+   <path id="path1478" fill="#6cc" d="m76 51 1 1-1-1z"/>
+   <path id="path1479" fill="#69c" d="m23 52 1 1-1-1z"/>
+   <path id="path1480" fill="#9cf" d="m24 52 1 1-1-1z"/>
+   <path id="path1481" fill="#fcc" d="m29 52 1 1-1-1z"/>
+   <path id="path1482" fill="#c33" d="m30.667 52.333 0.6666 0.3334-0.6666-0.3334m35 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1483" fill="#fcc" d="m67 52 1 1-1-1z"/>
+   <path id="path1484" fill="#9cf" d="m72 52 1 1-1-1z"/>
+   <path id="path1485" fill="#69c" d="m73 52 1 1-1-1m-47 1 1 1-1-1z"/>
+   <path id="path1486" fill="#9cc" d="m27 53 1 1-1-1z"/>
+   <path id="path1487" fill="#cff" d="m28 53 1 1-1-1z"/>
+   <path id="path1488" fill="#fcc" d="m32 53 1 1-1-1z"/>
+   <path id="path1489" fill="#c33" d="m33.667 53.333 0.6666 0.3334-0.6666-0.3334m29 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1490" fill="#fcc" d="m64 53 1 1-1-1z"/>
+   <path id="path1491" fill="#cff" d="m68 53 1 1-1-1z"/>
+   <path id="path1492" fill="#9cc" d="m69 53 1 1-1-1z"/>
+   <path id="path1493" fill="#69c" d="m70 53 1 1-1-1m-41 1 1 1-1-1z"/>
+   <path id="path1494" fill="#9cc" d="m30 54 1 1-1-1z"/>
+   <path id="path1495" fill="#cff" d="m31 54 1 1-1-1z"/>
+   <path id="path1496" fill="#fcc" d="m35 54 1 1-1-1z"/>
+   <path id="path1497" fill="#c33" d="m36.667 54.333 0.6666 0.3334-0.6666-0.3334m23 0 0.6666 0.3334-0.6666-0.3334z"/>
+   <path id="path1498" fill="#fcc" d="m61 54 1 1-1-1z"/>
+   <path id="path1499" fill="#cff" d="m65 54 1 1-1-1z"/>
+   <path id="path1500" fill="#9cc" d="m66 54 1 1-1-1z"/>
+   <path id="path1501" fill="#69c" d="m67 54 1 1-1-1z"/>
+   <path id="path1502" fill="#9cc" d="m33 55 1 1-1-1z"/>
+   <path id="path1503" fill="#ccf" d="m34 55 1 1-1-1z"/>
+   <path id="path1504" fill="#fcc" d="m38 55 1 1-1-1z"/>
+   <path id="path1505" fill="#c33" d="m39 55 1 1-1-1m18 0 1 1-1-1z"/>
+   <path id="path1506" fill="#fcc" d="m58 55 1 1-1-1z"/>
+   <path id="path1507" fill="#ccf" d="m62 55 1 1-1-1z"/>
+   <path id="path1508" fill="#9cc" d="m63 55 1 1-1-1m-27 1 1 1-1-1z"/>
+   <path id="path1509" fill="#ccf" d="m37 56 1 1-1-1m22 0 1 1-1-1z"/>
+   <path id="path1510" fill="#9cc" d="m60 56 1 1-1-1m-21 1 1 1-1-1z"/>
+   <path id="path1511" fill="#c33" d="m41 57 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1512" fill="#9cc" d="m57 57 1 1-1-1z"/>
+   <path id="path1513" fill="#fcc" d="m41 58 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1514" fill="#ccf" d="m40 59 1 1-1-1z"/>
+   <path id="path1515" fill="#c33" d="m42.333 59.667 0.3334 0.6666-0.3334-0.6666m12 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1516" fill="#ccf" d="m56 59 1 1-1-1z"/>
+   <path id="path1517" fill="#9cc" d="m40 60 1 1-1-1m16 0 1 1-1-1z"/>
+   <path id="path1518" fill="#fcc" d="m42 61 1 1-1-1m12 0 1 1-1-1z"/>
+   <path id="path1519" fill="#ccf" d="m41 62 1 1-1-1z"/>
+   <path id="path1520" fill="#c33" d="m43.333 62.667 0.3334 0.6666-0.3334-0.6666m10 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1521" fill="#ccf" d="m55 62 1 1-1-1z"/>
+   <path id="path1522" fill="#9cc" d="m41 63 1 1-1-1m14 0 1 1-1-1z"/>
+   <path id="path1523" fill="#fcc" d="m43 64 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1524" fill="#cff" d="m42 65 1 1-1-1z"/>
+   <path id="path1525" fill="#c33" d="m44.333 65.667 0.3334 0.6666-0.3334-0.6666m8 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1526" fill="#cff" d="m54 65 1 1-1-1z"/>
+   <path id="path1527" fill="#9cc" d="m42 66 1 1-1-1m12 0 1 1-1-1z"/>
+   <path id="path1528" fill="#69c" d="m42 67 1 1-1-1z"/>
+   <path id="path1529" fill="#fcc" d="m44 67 1 1-1-1m8 0 1 1-1-1z"/>
+   <path id="path1530" fill="#69c" d="m54 67 1 1-1-1z"/>
+   <path id="path1531" fill="#cff" d="m43 68 1 1-1-1z"/>
+   <path id="path1533" fill="#cff" d="m53 68 1 1-1-1z"/>
+   <path id="path1534" fill="#9cc" d="m43 69 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1535" fill="#69c" d="m43 70 1 1-1-1m10 0 1 1-1-1z"/>
+   <path id="path1536" fill="#fcc" d="m45 71 1 1-1-1m6 0 1 1-1-1z"/>
+   <path id="path1537" fill="#9cf" d="m44 72 1 1-1-1z"/>
+   <path id="path1538" fill="#c33" d="m46.333 72.667 0.3334 0.6666-0.3334-0.6666m4 0 0.3334 0.6666-0.3334-0.6666z"/>
+   <path id="path1539" fill="#9cf" d="m52 72 1 1-1-1z"/>
+   <path id="path1540" fill="#69c" d="m44 73 1 1-1-1m8 0 1 1-1-1z"/>
+   <path id="path1541" fill="#fcc" d="m46 74 1 1-1-1m4 0 1 1-1-1z"/>
+   <path id="path1542" fill="#9cf" d="m45 75 1 1-1-1z"/>
+   <path id="path1544" fill="#9cf" d="m51 75 1 1-1-1z"/>
+   <path id="path1545" fill="#6cc" d="m45 76 1 1-1-1m6 0 1 1-1-1z"/>
+   <path id="path1546" fill="#fcc" d="m47 77 1 1-1-1m2 0 1 1-1-1z"/>
+   <path id="path1547" fill="#ccf" d="m46 78 1 1-1-1m4 0 1 1-1-1z"/>
+   <path id="path1548" fill="#6cc" d="m46 79 1 1-1-1z"/>
+   <path id="path1549" fill="#c66" d="m48 79 1 1-1-1z"/>
+   <path id="path1550" fill="#6cc" d="m50 79 1 1-1-1z"/>
+   <path id="path1551" fill="#ccf" d="m47 81 1 1-1-1m2 0 1 1-1-1z"/>
+   <path id="path1552" fill="#9cc" d="m47 82 1 1-1-1m2 0 1 1-1-1m-1 2 1 1-1-1z"/>
+  </g>
+ </g>
+</svg>

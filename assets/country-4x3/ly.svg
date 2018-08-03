@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata16">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs14">
+  <clipPath id="clipPath3005" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3007" height="500" width="666.67" y="-20" x="166.67"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath3005)" transform="matrix(.96 0 0 .96 -160 19.2)">
+  <rect id="rect4" height="500" width="1e3" y="-20" x="0" fill="#239e46"/>
+  <rect id="rect6" height="375" width="1e3" y="-20" x="0"/>
+  <rect id="rect8" height="125" width="1e3" y="-20" x="0" fill="#e70013"/>
+  <path id="path10" d="m544.2 185.8a54.3 54.3 0 1 0 0 88.4 62.5 62.5 0 1 1 0 -88.4m-13.8 44.2 84.1-27.3-52 71.5v-88.4l52 71.5z" fill="#fff"/>
+ </g>
+</svg>

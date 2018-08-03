@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3016">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath3237" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3239" fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" stroke-width="1pt" clip-path="url(#clipPath3237)">
+  <rect id="rect171" height="480" width="720" y="0" x="-32.5" fill="#e10011"/>
+  <path id="path193" d="m114.25 479.77-146.75 0.22894v-480l146.06 0.07638 94.242 30.306-93.554 29.541 93.554 30.458-93.554 29.542 93.554 30.458-93.554 29.541 93.554 30.458-93.554 29.542 93.554 30.459-93.554 29.541 93.554 30.459-93.554 29.541 93.554 30.458-93.554 29.542 93.554 30.458-93.554 29.542" fill="#fff"/>
+ </g>
+</svg>
