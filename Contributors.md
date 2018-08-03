@@ -21,6 +21,7 @@
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
+- [Mayank Gupta](https://github.com/mayank2424)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Neutrix](https://github.com/NeuTrix) 
@@ -4997,4 +4998,4 @@
 - [Jaskaran Singh](https://github.com/jaskaransr93)
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
-
+- [Myren Eario](https://github.com/myren-eario)
