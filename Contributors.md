@@ -6,6 +6,7 @@
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
+- [Boris Yordanov](https://github.com/borisyordanov)
 - [Marina Dargitz](https://github.com/mdargitz)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
