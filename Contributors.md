@@ -1968,6 +1968,7 @@
 - [Stephen Meyer](https://github.com/stmeyer17)
 - [Rohit Gupta]( https://github.com/ShunyaHumm)
 - [Edgar Gonzalez](https://github.com/edgargonzalez2020)
+- [Daniel Oliveira](https://github.com/Dnlrco)
 - [Kristian Jackson](https://github.com/kjackson1509)
 - [Yash Chapani](https://github.com/yashchapani)
 - [Michael Gutman](https://github.com/michael-gutman)
@@ -5011,3 +5012,4 @@
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
 - [Rachel Lima](https://github.com/rachellimaa)
+- [Hermes Autran](https://github.com/hrmsautran)
