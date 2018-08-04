@@ -5013,6 +5013,7 @@
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
+- [Bruno Trindade](https://github.com/iHollyZinhO)
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
