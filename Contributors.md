@@ -4985,6 +4985,7 @@
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
 - Felicia Khan
+- [Thomas Muijs] (http://github.com/bigtukker)
 - [Jordan Mohler](https://github.com/jsmohler)
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
