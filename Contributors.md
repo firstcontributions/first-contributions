@@ -27,6 +27,7 @@
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix) 
+- [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
 - [Jacob Bovee](http://github.com/jbovee)
@@ -2762,6 +2763,7 @@
 - [Alexander Hostrup](https://github.com/alexchrist)
 - [Yonatan Schachter](https://github.com/yonsch)
 - [David Maia](https://github.com/dagadbm)
+- [Lavanya]()
 - [Shendy M Y](https://github.com/shendymy)
 - [Daniel Lisunkin](https://github.com/dlisunkin)
 - [Edoardo Canobbio](https://github.com/canobbioe)
@@ -5012,4 +5014,5 @@
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
 - [Macilon Neto](https://github.com/macilonneto)
+- [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
