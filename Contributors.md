@@ -5010,3 +5010,4 @@
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
+- [Larissa França](https://github.com/EmeraldL)
