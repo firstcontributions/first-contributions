@@ -62,7 +62,7 @@ Now open `Contributors.md` file in a text editor, scroll to the bottom of the pa
 
 Example: If your name is James Smith, It should look like this.
 
-\[James Smith] (https://github.com/jamessmith)
+\[James Smith](https://github.com/jamessmith)
 
 You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
