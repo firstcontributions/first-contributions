@@ -53,6 +53,7 @@
 - Abiud Ayele
 - Aaron Melendez
 - Rubén Aciego
+- Optimus-pri
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
