@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
@@ -5010,3 +5010,4 @@
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
+- [Thales Gomes](https://github.com/thalesg)
