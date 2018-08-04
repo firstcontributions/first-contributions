@@ -1,10 +1,12 @@
 # Contributors
 
+- [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
+- [Boris Yordanov](https://github.com/borisyordanov)
 - [Marina Dargitz](https://github.com/mdargitz)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
@@ -16,6 +18,7 @@
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Andrew Albert](https://github.com/andyalbert)
+- [Mahendren S](https://github.com/smahe)
 - [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Ankit Girdhar](https://github.com/ankit14136)
@@ -26,7 +29,7 @@
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Corey Russ](https://github.com/cruss13)
-- [Neutrix](https://github.com/NeuTrix)
+- [Neutrix](https://github.com/NeuTrix) 
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
@@ -50,7 +53,9 @@
 - Abiud Ayele
 - Aaron Melendez
 - Rubén Aciego
+- Optimus-pri
 - [Marco Cucchi](https://github.com/marco-cucchi)
+- [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
 - [Surya Kanigolla](https://github.com/suryavegeta123)
@@ -110,6 +115,7 @@
 - [Getenet Wol](https://github.com/getsei)
 - [Shreyans Jain](https://github.com/skull-Knight)
 - archerkg
+- [Shubham jha ](https://github.com/whoami-shubham)
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
 - [Jonathon Brandt](https://github.com/jonathonjb2015)
 - [Sannan Ansari](https://github.com/sannanansari)
@@ -4338,11 +4344,11 @@
 - [Silverio Gonzalez](https://github.com/silveriogonzalezolea)
 - [Justin Gaskins](https://github.com/jgaskins331)
 - [Ramadan35](https://github.com/ramadan35)
+- [Renee](https://github.com/ReneeAB)
 - [xiajingwang](https:github.com/xiajingwang)
 - [Eric Knight](https://github.com/HortusHonu)
 - [Nathan Gaul](https://github.com/Infining)
 - [Richa Agarwal](https://github.com/richa031)
-- [Renee](https://github.com/ReneeAB)
 - [Fireblade812](https://github.com/fireblade812)
 - [Kevin-Wu-3373](https://github.com/Kevin-Wu-3373)
 - [Will JV Smith](https://github.com/smithwjv)
@@ -4931,6 +4937,7 @@
 - [Jason](https://github.com/chownt)
 - [Anil](https://github.com/nilanil)
 - [Dominic Lobo](https://github.com/domlobo)
+- [Annalise Tarhan](https://github.com/amberlise)
 - [Kinwy](https://github.com/Kinwy)
 - [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
@@ -5014,6 +5021,7 @@
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
+- [Thales Gomes](https://github.com/thalesg)
 - [Sergio Henrique Menta Garcia](https://github.com/SergioHenrique19)
 - [Bruno Trindade](https://github.com/iHollyZinhO)
 - [Thales Junior](https://github.com/ThalesGomesJr)
@@ -5023,3 +5031,4 @@
 - [Macilon Neto](https://github.com/macilonneto)
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
+- [Narat S](https://github.com/mixth)
