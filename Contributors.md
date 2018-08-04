@@ -25,6 +25,7 @@
 - [Mayank Gupta](https://github.com/mayank2424)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
+- [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix) 
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
