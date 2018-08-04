@@ -26,7 +26,7 @@
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Corey Russ](https://github.com/cruss13)
-- [Neutrix](https://github.com/NeuTrix) 
+- [Neutrix](https://github.com/NeuTrix)
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
@@ -4342,6 +4342,7 @@
 - [Eric Knight](https://github.com/HortusHonu)
 - [Nathan Gaul](https://github.com/Infining)
 - [Richa Agarwal](https://github.com/richa031)
+- [Renee](https://github.com/ReneeAB)
 - [Fireblade812](https://github.com/fireblade812)
 - [Kevin-Wu-3373](https://github.com/Kevin-Wu-3373)
 - [Will JV Smith](https://github.com/smithwjv)
