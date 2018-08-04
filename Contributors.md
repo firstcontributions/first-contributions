@@ -5039,3 +5039,5 @@
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
 - [Nathaniel Tye] (https://github.com/Morvidus)
+- [Manoel Limeira] (https://github.com/juniorlimeira)
+
