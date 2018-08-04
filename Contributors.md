@@ -1,9 +1,10 @@
 # Contributors
 
-- [Amit Pareek](https://github.com/amit0021)
 - [Shashi Srinath](https://github.com/profghost)
+- [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
@@ -19,6 +20,7 @@
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Andrew Albert](https://github.com/andyalbert)
+- [Cemil Oten](https://github.com/cemiloten) 
 - [Mahendren S](https://github.com/smahe)
 - [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
@@ -4345,6 +4347,7 @@
 - [Silverio Gonzalez](https://github.com/silveriogonzalezolea)
 - [Justin Gaskins](https://github.com/jgaskins331)
 - [Ramadan35](https://github.com/ramadan35)
+- [Renee](https://github.com/ReneeAB)
 - [xiajingwang](https:github.com/xiajingwang)
 - [Eric Knight](https://github.com/HortusHonu)
 - [Nathan Gaul](https://github.com/Infining)
