@@ -52,6 +52,7 @@
 - Aaron Melendez
 - Rubén Aciego
 - [Marco Cucchi](https://github.com/marco-cucchi)
+- [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
 - [Surya Kanigolla](https://github.com/suryavegeta123)
