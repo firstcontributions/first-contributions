@@ -27,6 +27,7 @@
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix) 
+- [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
 - [Jacob Bovee](http://github.com/jbovee)
