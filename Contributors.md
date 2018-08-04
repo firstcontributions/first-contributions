@@ -5013,6 +5013,7 @@
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
+- [Rachel Lima](https://github.com/rachellimaa)
 - [Macilon Neto](https://github.com/macilonneto)
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
