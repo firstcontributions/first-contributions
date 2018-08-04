@@ -51,3 +51,6 @@ coverage/
 #
 config.json
 /.vs
+
+#Visual Studio Code
+.vscode/*
