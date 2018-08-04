@@ -1,6 +1,7 @@
 # Contributors
 
 - [Amit Pareek](https://github.com/amit0021)
+- [Shashi Srinath](https://github.com/profghost)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
