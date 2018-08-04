@@ -5028,6 +5028,7 @@
 - [Thales Gomes](https://github.com/thalesg)
 - [Sergio Henrique Menta Garcia](https://github.com/SergioHenrique19)
 - [Bruno Trindade](https://github.com/iHollyZinhO)
+- [Tom Raley](https://github.com/halcyondays22)
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
