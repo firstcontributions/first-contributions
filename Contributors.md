@@ -45,6 +45,7 @@
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Manik Chugh](http://github.com/manikrc98)
+- [J Othniel](http://github.com/jothniel)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
 - [Thomas Lee](https://github.com/sendmebiscuits)
