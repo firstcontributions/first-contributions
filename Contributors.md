@@ -236,6 +236,7 @@
 - [Arel Clemente](https://github.com/arelC)
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
+- [Alwathiqubellah Abumaali](https://github.com/wathiqabumaali)
 - [NivethSaran](https://github.com/nivethsaran)
 - [Glenn Halstead](https://github.com/glennh)
 - [Gabriel Fuentes](https://github.com/Helper2020)
