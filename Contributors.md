@@ -2334,6 +2334,7 @@
 - [Dale Kwapich](https://github.com/RevealingFortune)
 - [Sadhana Yatapanage](https://github.com/syatapanage)
 - [Nicholas Meletiou](https://github.com/literaln)
+- [Nischal Dutt](https://github.com/nischaldutt)
 - [Nikhilendra Atheti](https://github.com/nikhil7934)
 - [Ey?b Y?ld?r?m](https://github.com/VatorLol)
 - [Torsten Kneuss](https://github.com/TorstenKn)
