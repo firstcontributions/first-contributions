@@ -1,8 +1,11 @@
 # Contributors
 
+- [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
+- SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
@@ -12,6 +15,7 @@
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
+- [Sagar Patel](https://github.com/patelsv)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
@@ -79,6 +83,7 @@
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - [Benson M]
+- [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Martin Kim](https://github.com/martin0829)
 - [Jaime Luengo](https://github.com/jaimeluengo)
 - [Shukry Zablah](szablah20@amherst.edu)
@@ -1106,6 +1111,7 @@
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
 - [James Brett](https://github.com/qsunnx)
+- [Klaus Dresbach](https://githun.com/Taufi) 
 - [luisenrike](https://github.com/luisenrike)
 - [Eric Jonelunas](https://github.com/ejjonzey)
 - [Xing Wang](https://github.com/xingwang)
@@ -4980,12 +4986,12 @@
 - [Anthony Ho](https://github.com/anwyho)
 - [Alice Shan](https://github.com/aliceshan)
 - [Dayan Kodippily](https://github.com/dkodippily)
+- [Thomas Muijs](http://github.com/bigtukker)
 - [Test MSK](https://github.com)
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
 - Felicia Khan
-- [Thomas Muijs] (http://github.com/bigtukker)
 - [Jordan Mohler](https://github.com/jsmohler)
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
@@ -5027,6 +5033,7 @@
 - [Thales Gomes](https://github.com/thalesg)
 - [Sergio Henrique Menta Garcia](https://github.com/SergioHenrique19)
 - [Bruno Trindade](https://github.com/iHollyZinhO)
+- [Tom Raley](https://github.com/halcyondays22)
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
@@ -5035,3 +5042,5 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
+- [Nathaniel Tye](https://github.com/Morvidus)
+- [Aaron Ankiel](https://github.com/aar0nsky)
