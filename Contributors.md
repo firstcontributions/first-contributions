@@ -12,6 +12,7 @@
 - [Beatrice Olivera](https://github.com/beatriceo)
 - [Boris Yordanov](https://github.com/borisyordanov)
 - [Marina Dargitz](https://github.com/mdargitz)
+- [Masih Tamsoy](https://github.com/masihtamsoy)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
