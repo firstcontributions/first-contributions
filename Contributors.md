@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
@@ -5051,3 +5051,4 @@
 - [Aaron Ankiel](https://github.com/aar0nsky)
 - [Manoel Limeira](https://github.com/juniorlimeira)
 - [John Paul Santos](https://github.com/jpsantosdeveloper7)
+- [Rahul Kumar] (https://github.com/rahuls321)
