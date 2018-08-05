@@ -52,7 +52,7 @@
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Taylor Murray](https://github.com/murraytay)
 - Christopher Tang
--Hemant Mishra
+- Hemant Mishra
 - [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
@@ -69,7 +69,7 @@
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
 - [Jacob Cornwell](https://github.com/jpcornwell)
-- [Ca Da] (https://github.com/Camdamish)
+- [Ca Da](https://github.com/Camdamish)
 - [George Fang](https://github.com/fang570)
 - [Eugene Levit](https://github.com/euglevit)
 - [Adam Ghannoum](https://github.com/AmDji)
@@ -82,7 +82,7 @@
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
-- [Benson M]
+- Benson M
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Martin Kim](https://github.com/martin0829)
 - [Jaime Luengo](https://github.com/jaimeluengo)
@@ -142,7 +142,7 @@
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - Manasa Devarapalli
-- [SummerPines] (https://githum.com/summerpines)
+- [SummerPines](https://githum.com/summerpines)
 - [Oisin Quinn](https://github.com/oisinq)
 - [Felipe Rigo](https://github.com/rigo4rigo)
 - [Kishore Mohanavelu](https://github.com/kmohanavelu)
@@ -3608,7 +3608,7 @@
 - [Lloyd Edwards](https://github.com/meanlamp)
 - [Josh Burton](https://github.com/jburton8686)
 - [Tim Teal](https://github.com/timteal)
-- [Kunwarpreet Singh] (https://github.com/kunwarpreetnarang)
+- [Kunwarpreet Singh](https://github.com/kunwarpreetnarang)
 - [Akash Dobaria](https://github.com/akashdobaria)
 - [Matt Strickland](https://github.com/mstrick7)
 - [Elijah Bocz](https://gituhb.com/elijahboats)
