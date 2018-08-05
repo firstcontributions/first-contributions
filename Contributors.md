@@ -5044,3 +5044,4 @@
 - [Narat S](https://github.com/mixth)
 - [Nathaniel Tye](https://github.com/Morvidus)
 - [Aaron Ankiel](https://github.com/aar0nsky)
+- [Manoel Limeira](https://github.com/juniorlimeira)
