@@ -126,6 +126,7 @@
 - archerkg
 - [Shubham jha ](https://github.com/whoami-shubham)
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
+- [Joaquin Erario](https://github.com/jerario)
 - [Jonathon Brandt](https://github.com/jonathonjb2015)
 - [Sannan Ansari](https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
