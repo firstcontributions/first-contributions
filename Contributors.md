@@ -1,11 +1,11 @@
-﻿# Contributors
+# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
--Josh Friesen
+- Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
@@ -4986,6 +4986,7 @@
 - [Anthony Ho](https://github.com/anwyho)
 - [Alice Shan](https://github.com/aliceshan)
 - [Dayan Kodippily](https://github.com/dkodippily)
+- [Thomas Muijs](http://github.com/bigtukker)
 - [Test MSK](https://github.com)
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
@@ -5041,5 +5042,5 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
-- [Nathaniel Tye] (https://github.com/Morvidus)
-- [Aaron Ankiel] (https://github.com/aar0nsky)
+- [Nathaniel Tye](https://github.com/Morvidus)
+- [Aaron Ankiel](https://github.com/aar0nsky)
