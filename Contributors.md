@@ -5038,5 +5038,5 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
-- [Nathaniel Tye] (https://github.com/Morvidus)
-- [Aaron Ankiel] (https://github.com/aar0nsky)
+- [Nathaniel Tye](https://github.com/Morvidus)
+- [Aaron Ankiel](https://github.com/aar0nsky)
