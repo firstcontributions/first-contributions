@@ -3,7 +3,9 @@
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
+- SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
@@ -13,6 +15,7 @@
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
+- [Sagar Patel](https://github.com/patelsv)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
@@ -4983,6 +4986,7 @@
 - [Anthony Ho](https://github.com/anwyho)
 - [Alice Shan](https://github.com/aliceshan)
 - [Dayan Kodippily](https://github.com/dkodippily)
+- [Thomas Muijs](http://github.com/bigtukker)
 - [Test MSK](https://github.com)
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
@@ -5038,6 +5042,6 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
-- [Nathaniel Tye] (https://github.com/Morvidus)
-- [Manoel Limeira] (https://github.com/juniorlimeira)
-
+- [Nathaniel Tye](https://github.com/Morvidus)
+- [Aaron Ankiel](https://github.com/aar0nsky)
+- [Manoel Limeira](https://github.com/juniorlimeira)
