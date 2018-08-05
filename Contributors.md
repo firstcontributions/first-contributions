@@ -989,6 +989,7 @@
 - [Igor Chiriac](https://github.com/yanime)
 - [Rajdeep Dosanjh](https://github.com/rdosanjh)
 - [Nikita Tiwari](https://github.com/nikitiwari)
+- [Red John](https://github.com/20164276)
 - [Brett](https://github.com/CrazyLlama)
 - [jlapitan](https://github.com/jlapitan)
 - [Stephane Salomon](https://github.com/theflupke)
