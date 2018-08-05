@@ -1,9 +1,10 @@
-# Contributors
+﻿# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+-Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
