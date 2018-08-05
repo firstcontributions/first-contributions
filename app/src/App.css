@@ -1,6 +1,6 @@
 .App {
-  /* height: 500px; */
-  background-color: #007EE5;
+  background-image: url("coder_image.jpg");
+  background-size: 1500px 600px;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -11,6 +11,7 @@
 .App-header {
   padding: 20px;
   color: white;
+  text-shadow: 3px 2px red;
 }
 
 .App-header > h1 {
