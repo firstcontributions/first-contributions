@@ -2,8 +2,6 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-अन्य भाषाओं में इसे पढ़ें: [अंग्रेजी](../README.md), [स्पेन](README.es.md), [डच](README.nl.md), [हिंदी](README.hi.md) [जापानी](README.ja.md) [रूसी](README.ru.md)
-
 पहली बार कुछ करना कठिन होता है| ख़ास तौर पर जब आप मिलकर काम कर रहे हों तब गलतियां करना एक अच्छी बात नहीं है| मगर आपस में मिलना और एक जुट होकर काम करना ही तो है ओपन सोर्स| हम आपका ये पहला ओपन सोर्स कॉन्ट्रिब्यूशन आसान बनाने में आपकी मदद करेंगे|
 
 आर्टिकल्स पढ़ना और ऑनलाइन ट्यूटोरियलज़ देखना मदद कर सकते हैं मगर बिना कुछ गलत करे खुद वो काम करने से अच्छा क्या हो सकता है? यह प्रोजेक्ट आपको आपके पहले कॉन्ट्रिब्यूशन के लिए दिशा निर्देशन में मदद करेगा| याद रखिये - जितने तनाव मुक्त होकर आप सीखेंगे उतना ही बेहतर सीख पाएंगे| अगर आप अपनी पहली कॉन्ट्रिब्यूशन करना चाहते हैं तो आगे दिए गए स्टेप्स को फॉलो करें|
@@ -64,7 +62,7 @@ git checkout -b add-alonzo-church
 
 अब `Contributors.md` फ़ाइल को एक टेक्स्ट एडिटर में खोलकर इसमें अपना नाम लिखें। फ़ाइल की शुरुआत या अंत में इसे न जोड़ें। इसे बीच में कहीं भी रखें| 
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 आप अगर `git status` निर्देश चलाएंगे , तो आप परिवर्तन देखेंगे।
@@ -107,11 +105,11 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 पुल अनुरोध मर्ज होने के बाद आप अपनी शाखा को सुरक्षित रूप से हटा सकते हैं। शाखा को हटाने के लिए आपको एक बटन दिखाई देगा:
 
-<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
 
 अगर पुल अनुरोध मर्ज किए बिना बंद कर दिया गया था, तो github आपको मर्ज न किए गए कामों को हटाने के बारे में चेतावनी देगा और बटन इस तरह दिखेगा:
 
-<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## यहाँ से कहाँ जाएं ?
 
@@ -125,7 +123,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 ## अन्य टूल का उपयोग करके ट्यूटोरियल
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
@@ -135,4 +133,4 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 यदि आप विशेष रूप से धर्मार्थ महसूस कर रहे हैं, तो follow [Roshan](https://roshanjossey.github.io/) twitter और
 [GitHub](https://github.com/roshanjossey) पर|
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
