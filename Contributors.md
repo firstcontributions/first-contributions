@@ -3,6 +3,7 @@
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
+- [Apurv Mishra](https://github.com/apurvmishra99)
 - SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - Josh Friesen
