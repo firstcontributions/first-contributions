@@ -64,7 +64,15 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+
+
+Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
@@ -96,6 +104,16 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Delete the branch after pull request has been merged
+
+You can safely delete your branch "<add-your-branch-name>" after the pull request has been merged. You'll see a button to delete the branch:
+
+<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+
+If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
+
+<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
@@ -122,4 +140,4 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
