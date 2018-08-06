@@ -2390,6 +2390,7 @@
 - [Emil Samuel](https://github.com/aaliste)
 - [Ian Drummond](https://github.com/ianH92)
 - [Ayodele Opetumo](https://github.com/ayodeleopetumo)
+- [Ali Adel](https://github.com/ali-adel)
 - [Quoc Nguyen](https://github.com/qngn93)
 - [Kiyun](https://github.com/kiyunkim)
 - [Lauren Clifford](https://github.com/lmclifford89)
