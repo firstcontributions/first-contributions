@@ -435,6 +435,7 @@
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Lane Schmidt](https://github.com/spoiledgoods)
 - [Alvin Chipmunk](https://github.com)
+- [FilWil] (https://github.com/FilWil)
 - [Philip Mutua](https://github.com/pmutua)
 - [Juan Dougnac](http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
