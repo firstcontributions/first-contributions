@@ -212,6 +212,7 @@
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
+- [Akram Kazmi](https://github.com/akramkazmi71)
 - [Priya M V](https://github.com/priyamv22)
 - [Akash Sharma](https://github.com/akashsharma99)
 - [Subi Dangol](https://github.com/subidangol)
