@@ -4804,6 +4804,7 @@
 - [Rebecca Lassiter](https://github.com/RebeccaLassiter)
 - [Paul](https://github.com/grilledchickenthighs)
 - [bkapp15](https://github.com/bkapp15)
+- [Blaine Cantrell](https://github.com/Whatchamazog)
 - [Rajiv Sharma](https://github.com/Rajivts)
 - [Jona Reyes](https://github.com/rookie-cookie)
 - [bkapp15](https://github.com/bkapp15)
