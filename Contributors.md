@@ -42,6 +42,7 @@
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)  
 - nini faroux
+- [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
