@@ -101,6 +101,7 @@
 - [Rainier Go](https://github.com/raini35)
 - [Patrick Pelayo](https://github.com/ppelayo1)
 - Lionel Ortega
+- [Henry Scheible](https://github.com/bubsy2103h)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [wongsiewyuei](https:/github.com/wongsiewyuei)
 - [yati padia](https:??github.com/yati1998)
