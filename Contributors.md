@@ -4904,6 +4904,7 @@
 - [Coldfight](https://github.com/coldfight)
 - [Xavier Salazar](https://github.com/xaviersalazar)
 - [Omar](https://github.com/omardeleo)
+- [Marium Kazmi](https://github.com/mariumfirdous)
 - [XDoubleU](https://github.com/xdoubleu)
 - [Yuxiang Zi](https://github.com/yxzi)
 - [Kay Mok](https://github.com/mokaymokay/)
