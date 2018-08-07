@@ -3257,6 +3257,7 @@
 - [Becca Moss](https://github.com/beccamoss)
 - [John Anderson](https://github.com/John905)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
+- [Daniel Thomas](https://github.com/dtorlando)
 - [Jamie Shiers](http://github.com/jamiesheirs)
 - [Britt Neal](http://github.com/beeneal)
 - [Nirav Trivedi](https://github.com/nt-git)
