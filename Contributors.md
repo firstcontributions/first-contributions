@@ -5079,6 +5079,7 @@
 - [Narat S](https://github.com/mixth)
 - [lincrampton](https://github.com/lincrampton)
 - [Nathaniel Tye](https://github.com/Morvidus)
+- [Lauren Van Sloun](https://github.com/Ashera138)
 - [Aaron Ankiel](https://github.com/aar0nsky)
 - [Manoel Limeira](https://github.com/juniorlimeira)
 - [John Paul Santos](https://github.com/jpsantosdeveloper7)
