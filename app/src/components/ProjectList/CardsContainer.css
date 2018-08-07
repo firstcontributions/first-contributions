@@ -6,3 +6,7 @@
     padding: 1vw;
     overflow: hidden;
 }
+
+#container {
+    background: #f7f7fc;
+}
