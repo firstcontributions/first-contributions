@@ -79,6 +79,7 @@
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
 - [Surya Kanigolla](https://github.com/suryavegeta123)
+- [Jason Bryant](https://github.com/jbryant32)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
