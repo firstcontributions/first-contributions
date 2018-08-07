@@ -8,6 +8,7 @@
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
+- [Patrick O'Neill] (https://github.com/howelloneill)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
