@@ -7,6 +7,7 @@
 - SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - Josh Friesen
+- Avanti Prasanna
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
