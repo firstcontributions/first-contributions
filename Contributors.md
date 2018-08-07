@@ -29,6 +29,7 @@
 - [Shadrach Jakes](https://github.com/ShadrachJ)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
+- [Nibraas Khan](https://github.com/nibraaska)
 - [Andrew Albert](https://github.com/andyalbert)
 - [Cemil Oten](https://github.com/cemiloten)
 - [Mahendren S](https://github.com/smahe)
