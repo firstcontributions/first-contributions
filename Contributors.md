@@ -6,6 +6,7 @@
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - SteveFFresno
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- [Rishikesh Jadhav] (https://github.com/rishikeshjadhav)
 - Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
