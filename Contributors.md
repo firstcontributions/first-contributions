@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Amit Pareek](https://github.com/amit0021)
@@ -26,6 +26,7 @@
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
 - [Shahe Ansar](https://github.com/ShaheAnsar)
+- [Shadrach Jakes](https://github.com/ShadrachJ)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Andrew Albert](https://github.com/andyalbert)
