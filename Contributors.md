@@ -5082,3 +5082,4 @@
 - [Elijah Akins](https://github.com/happly)
 - [Min Lee](https://github.com/Minho-Lee)
 - [Chikwado Emmanuel](https://github.com/quado2)
+- [Kamal Kal](https://github.com/Tradingcoder)
