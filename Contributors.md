@@ -2853,6 +2853,7 @@
 - [Shibani S Dash](https://github.com/ssd71)
 - [Mariann Vakula](https://github.com/vakulamariann/)
 - [James Touri](https://github.com/jamestouri)
+- [Iván Petrini](https://github.com/ipetrini)
 - [Danh Nguyen](https://github.com/NguyenDa18)
 - [Rahul S Varma](https://github.com/Raul9595)
 - [Gary Dawson Smith](https://github.com/garydawsonsmith)
