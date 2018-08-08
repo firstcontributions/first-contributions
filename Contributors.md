@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Christian Salinas] (https://github.com/CTSalinas)
@@ -5079,6 +5079,7 @@
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
 - [Rachel Lima](https://github.com/rachellimaa)
+- [Leslie Clausen](https://github.com/leslieclausen)
 - [Macilon Neto](https://github.com/macilonneto)
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
