@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -4874,6 +4874,7 @@
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
+- [Matthew Guo](https://github.com/Funplings)
 - [Erik Boström](https://github.com/erikbostrom)
 - [Ahmet Aykut Ay](https://github.com/ahmetaykutay)
 - [Amee Li](https://github.com/ameeli)
