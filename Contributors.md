@@ -17,6 +17,7 @@
 - Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
+- [Siva Kumar Lakkoju](https://github.com/sivakumar97)
 - [Thibault d'Aboville] (https://github.com/ThibaultDBVLL)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
