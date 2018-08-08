@@ -2,7 +2,7 @@
 What if you commit a change, and then realize that you committed to a different branch?
 How can you change that? This is what this tutorial covers.
 
-## Moving the lastest commits to an existing branch
+## Moving the latest commits to an existing branch
 To do this, type:
 
 ```git reset HEAD~ --soft``` - Undoes the last commit, but leave the changes available.  
@@ -16,7 +16,7 @@ To do this, type:
 Now your changes are on the correct branch
 
 
-### Moving the lastest commits to a new Branch
+### Moving the latest commits to a new Branch
 To do this, type:  
 ```git branch newbranch``` -  Creates a new Branch. Saving all the Commits.  
 ```git reset --hard HEAD~#``` - Move master back by # commits. Remember, these commits will be gone from master  
