@@ -11,6 +11,7 @@
 - [Rishikesh Jadhav] (https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
 - Avanti Prasanna
+- [Rafal Cieslinski](https://github.com/Bitz3d)
 - Josh Friesen
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
