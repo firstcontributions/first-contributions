@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -5106,3 +5106,4 @@
 - [Jacob Garcia](https://github.com/janikgar)
 - [muphi](https://github.com/muphi)
 - [Jaret Screws](https://github.com/jaretscrews)
+- [Sami Perälahti](https://github.com/SamiNami)
