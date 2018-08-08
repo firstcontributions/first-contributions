@@ -8,6 +8,7 @@
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - SteveFFresno
+- alonzo church
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rishikesh Jadhav] (https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
