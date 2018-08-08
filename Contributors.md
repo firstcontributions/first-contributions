@@ -5069,6 +5069,7 @@
 - [Bhavya Srivastava](https://github.com/bhavya17037)
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
+- [Brittnee Keller] (https://github.com/bkeller108)
 - [Lin Yang](https://github.com/darktef)
 - [Thales Gomes](https://github.com/thalesg)
 - [Sergio Henrique Menta Garcia](https://github.com/SergioHenrique19)
