@@ -15,6 +15,7 @@
 - Avanti Prasanna
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - Josh Friesen
+- Padmashantha Rajapakshe
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
 - [Siva Kumar Lakkoju](https://github.com/sivakumar97)
