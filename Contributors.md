@@ -9,6 +9,7 @@
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - SteveFFresno
 - alonzo church
+- [Apoorva Teli](https://github.com/apoorvateli)
 - UTKARSH AGRAWAL(https://github.com/wompowe) PEACE!!
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rishikesh Jadhav] (https://github.com/rishikeshjadhav)
