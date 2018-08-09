@@ -2,7 +2,7 @@
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Elizabeth Onder](https://github.com/eonder)
-- [Christian Salinas] (https://github.com/CTSalinas)
+- [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
