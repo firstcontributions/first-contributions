@@ -7,6 +7,7 @@
 - [Amit Pareek](https://github.com/amit0021)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
+- [Rajesh Mainali](https://github.com/Stereoraj)
 - SteveFFresno
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
