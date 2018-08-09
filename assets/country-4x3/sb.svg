@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3032">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs550">
+  <clipPath id="clipPath15551" clipPathUnits="userSpaceOnUse">
+   <rect id="rect15553" fill-opacity="0.67" height="512" width="682.67" y="0" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath15551)" transform="scale(.9375)" stroke-width="1pt">
+  <path id="path1338" d="m0.000065516 507.17 987.43-507.17h-987.43v507.17z" fill="#0000d6"/>
+  <path id="path552" d="m1024 0.0000021658-996.83 512h996.83v-512z" fill="#006000"/>
+  <path id="path558" d="m1024 0.000057287h-54.858l-969.14 485.36v26.64h54.857l969.14-484.4v-27.596z" fill="#fc0"/>
+  <polygon id="polygon1350" transform="matrix(.54314 0 0 .51115 -218.52 -122.19)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#fff"/>
+  <polygon id="polygon1351" transform="matrix(.54314 0 0 .51115 -27.378 -122.19)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#fff"/>
+  <polygon id="polygon1352" transform="matrix(.54314 0 0 .51115 -27.378 22.289)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#fff"/>
+  <polygon id="polygon1353" transform="matrix(.54314 0 0 .51115 -122.39 -49.108)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#fff"/>
+  <polygon id="polygon1354" transform="matrix(.54314 0 0 .51115 -218.52 22.289)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#fff"/>
+ </g>
+</svg>

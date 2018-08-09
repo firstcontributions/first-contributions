@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3619">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" fill-rule="evenodd">
+  <rect id="rect171" rx="0" ry="0" height="480" width="640" y=".0000010549" x="-2.1606e-8" fill="#fff"/>
+  <rect id="rect256" rx="0" ry="0" height="159.3" width="480" y="320.7" x="-3.457e-7" fill="#fff"/>
+  <rect id="rect255" height="159.3" width="480" y=".000033733" x="-3.457e-7" fill="#fff"/>
+  <path id="path205" d="m201.9 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z" fill="#fff"/>
+  <path id="path583" d="m509.54 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z" fill="#fff"/>
+  <rect id="rect7524" rx="0" ry="0" height="159.3" width="640" y="320.7" x="-3.457e-7" stroke-width="1pt"/>
+  <rect id="rect7526" height="159.3" width="640" y=".000033733" x="-3.457e-7" stroke-width="1pt" fill="#f00"/>
+  <path id="path7528" d="m201.9 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z" stroke-width=".11287" fill="#090"/>
+  <path id="path7530" d="m509.54 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z" stroke-width=".11287" fill="#090"/>
+ </g>
+</svg>

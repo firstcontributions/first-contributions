@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 12.8 9.6">
+ <metadata id="metadata22">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Flag of South Sudan</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title4">Flag of South Sudan</title>
+ <g id="g3116">
+  <rect id="rect6" height="2.88" width="12.8" y="6.72" x="0" fill="#078930"/>
+  <rect id="rect8" height="3.84" width="12.8" y="2.88" x="0" fill="#fff"/>
+  <rect id="rect10" height="2.88" width="12.8" y="4.278e-9" x="0"/>
+  <rect id="rect12" height="2.88" width="12.8" y="3.36" x="0" fill="#da121a"/>
+  <polygon id="polygon14" points="0 0 8.6603 5 0 10" fill="#0f47af" transform="scale(.96)"/>
+  <polygon id="polygon16" points="4.1557e5 -3.0193e5 -5.1367e5 0 4.1557e5 3.0193e5 -1.5873e5 -4.8853e5 -1.5873e5 4.8853e5" fill="#fcdd09" transform="matrix(.0000029902 0 0 .0000029902 2.7713 4.8)"/>
+ </g>
+</svg>

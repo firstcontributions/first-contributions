@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- /Creative Commons Public Domain -->
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:title>SVG graphic of Puerto Rico flag</dc:title>
+   <dc:rights><Agent>
+      <dc:title>Ricardo Veguilla González</dc:title>
+   </Agent></dc:rights>
+   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3702">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath7650" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7652" fill-opacity="0.67" height="512" width="682.67" y=".0000024116" x="-37.298"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath7650)" transform="matrix(.9375 0 0 .9375 34.967 -.0000022609)">
+  <rect id="rect149" height="512" width="768" y=".0000024116" x="-37.298" stroke-width="1pt" fill="#ed0000"/>
+  <rect id="rect280" height="102.4" width="768" y="102.4" x="-37.298" stroke-width="1pt" fill="#fff"/>
+  <rect id="rect281" height="102.4" width="768" y="307.2" x="-37.298" stroke-width="1pt" fill="#fff"/>
+  <path id="path279" d="m-37.298 0.0000024116 440.69 255.67-440.69 255.34v-511.01z" stroke-width="1pt" fill="#0050f0"/>
+  <path id="path205" d="m156.45 325.47-47.447-35.432-47.214 35.78 17.56-58.144-47.128-35.904 58.305-0.50059 18.084-57.968 18.472 57.835 58.305 0.0763-46.886 36.243 17.947 58.016z" stroke-width=".11287" fill="#fff"/>
+ </g>
+</svg>

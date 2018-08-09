@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- Creative Commons Public Domain -->
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work rdf:about="">
+    <dc:title>SVG graphic of South African Flag</dc:title>
+                                                                                                 
+    <dc:rights>
+      <Agent>
+        <dc:title>Farrel Lifson</dc:title>
+      </Agent>
+    </dc:rights>
+                                                                                                 
+    <license
+    rdf:resource="http://web.resource.org/cc/PublicDomain" />
+  </Work>
+                                                                                                 
+  <License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <permits
+    rdf:resource="http://web.resource.org/cc/Reproduction" />
+                                                                                                 
+    <permits
+    rdf:resource="http://web.resource.org/cc/Distribution" />
+                                                                                                 
+    <permits
+    rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+  </License>
+</rdf:RDF>
+-->
+<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3794">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs550">
+  <clipPath id="clipPath3532" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3534" fill-opacity="0.67" height="512.01" width="682.68" y="-.012254" x="-71.873"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath3532)" transform="matrix(.93748 0 0 .93748 67.379 .011488)">
+  <g id="g603" fill-rule="evenodd" stroke-width="1pt" transform="matrix(2.0478 0 0 2.0484 -148.57 -1592.2)">
+   <path id="path581" d="m37.451 976.39v-148.12l110.28 74.022-110.28 74.103z"/>
+   <path id="path597" d="m112.7 1027.3 123.81-83.306h175.98v83.306h-299.79z" fill="#00c"/>
+   <path id="path598" d="m104.74 777.32 307.74 0.006v83.32h-175.98s-130.11-84.15-131.76-83.326z" fill="#f00"/>
+   <path id="path599" d="m37.451 808.57v19.688l110.28 74.022-110.28 74.103v19.687l138.9-93.79-138.9-93.71z" fill="#fc0"/>
+   <path id="path600" d="m37.451 808.57v-31.25h46.338l147.14 99.531h181.55v50.899h-181.55l-147.14 99.517h-46.338v-31.197l138.9-93.79-138.9-93.71z" fill="#093"/>
+   <path id="path601" d="m83.789 777.32h28.906l123.81 83.32h175.98v16.211h-181.55l-147.14-99.531z" fill="#fff"/>
+   <path id="path602" d="m83.789 1027.3h28.906l123.81-83.306h175.98v-16.211h-181.55l-147.14 99.517z" fill="#fff"/>
+  </g>
+ </g>
+</svg>

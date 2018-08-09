@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata2993">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" fill-rule="evenodd">
+  <g id="g5125" transform="matrix(1.141 0 0 1 52.486 -32)">
+   <rect id="rect149" transform="scale(-1)" height="480" width="560.91" y="-512" x="-514.91" fill="#fff"/>
+   <rect id="rect148" transform="scale(-1)" height="160" width="560.91" y="-192" x="-514.91" fill="#ff7000"/>
+   <rect id="rect585" transform="scale(-1)" height="160" width="560.91" y="-512" x="-514.91" fill="#36a100"/>
+  </g>
+  <path id="path578" d="m580.68 372.84a69.808 69.808 0 1 1 -139.62 0 69.808 69.808 0 1 1 139.62 0z" transform="matrix(.81359 0 0 .81359 -181.18 -65.342)" fill="#ff7000"/>
+ </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg665" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3336">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs667">
+  <clipPath id="clipPath3540" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3542" fill-opacity="0.67" height="512" width="682.67" y="-.0000021241" x="0"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath3540)" fill-rule="evenodd" transform="matrix(.93750 0 0 .93750 0 .0000019913)">
+  <rect id="rect560" height="511.92" width="767.87" y=".083530" x=".000014447" stroke-width="1pt" fill="#fff"/>
+  <rect id="rect668" height="232.75" width="232.74" y="-9.5483e-7" x="-3.5028e-14" stroke-width="1pt" fill="#006"/>
+  <rect id="rect669" height="47.127" width="767.89" y="464.87" x=".000014447" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect670" height="46.574" width="767.89" y="465.43" x=".000014447" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect672" height="46.21" width="767.89" y="372.52" x="0" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect673" height="46.7" width="765.96" y="279.26" x="0" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect675" height="46.494" width="535.17" y=".055372" x="232.67" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect676" height="46.796" width="535.17" y="186.06" x="232.67" stroke-width="1pt" fill="#c00"/>
+  <rect id="rect677" height="46.494" width="535.17" y="93.361" x="232.67" stroke-width="1pt" fill="#c00"/>
+  <path id="path205" d="m166.35 177.47-50.71-30.98-50.465 31.29 18.769-50.85-50.373-31.394 62.321-0.438 19.328-50.691l19.744 50.574 62.321 0.0667-50.115 31.693 19.184 50.732z" stroke-width=".11287" fill="#fff"/>
+ </g>
+</svg>

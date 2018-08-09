@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- /Creative Commons Public Domain -->
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+    <dc:title>New Zealand, Australia, United Kingdom, United States, 
+Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
+Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
+Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
+    <dc:rights><Agent>
+       <dc:title>Daniel McRae</dc:title>
+    </Agent></dc:rights>
+    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+<svg id="svg555" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3013">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs557">
+  <clipPath id="clipPath3605" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3607" fill-opacity="0.67" height="512" width="682.67" y="-.0000019138" x="-19.451"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3605)" transform="matrix(.93750 0 0 .93750 18.235 .0000017942)" stroke-width="1pt">
+  <rect id="rect565" height="186.34" width="249.35" y="325.66" x="-105.62" fill="#fff"/>
+  <rect id="rect566" height="512" width="149.94" y="-.0000027024" x="143.57" fill="#0062da"/>
+  <rect id="rect567" height="139.64" width="897.67" y="186.18" x="-105.62" fill="#0062da"/>
+  <rect id="rect568" height="186.34" width="249.35" y=".0030247" x="-105.62" fill="#fff"/>
+  <rect id="rect570" height="186.34" width="498.7" y="325.66" x="293.35" fill="#fff"/>
+  <rect id="rect574" height="186.34" width="498.7" y=".0015173" x="293.35" fill="#fff"/>
+  <rect id="rect564" height="186.34" width="249.35" y="325.66" x="-105.62" fill="#fff"/>
+  <rect id="rect569" height="512" width="149.94" y="-.0000027024" x="143.57" fill="#0062da"/>
+  <rect id="rect572" height="186.34" width="249.35" y=".0030247" x="-105.62" fill="#fff"/>
+  <rect id="rect573" height="186.34" width="498.7" y="325.66" x="293.35" fill="#fff"/>
+  <rect id="rect575" height="186.34" width="498.7" y=".0015173" x="293.35" fill="#fff"/>
+ </g>
+</svg>

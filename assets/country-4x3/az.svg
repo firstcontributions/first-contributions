@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<!-- /Creative Commons Public Domain -->
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+    <dc:title>New Zealand, Australia, United Kingdom, United States, 
+Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
+Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
+Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
+    <dc:rights><Agent>
+       <dc:title>Daniel McRae</dc:title>
+    </Agent></dc:rights>
+    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+<svg id="svg618" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3211">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flag" stroke-width="1pt">
+  <g id="g646" fill-rule="evenodd" transform="scale(5.3333 8)">
+   <rect id="rect622" height="20" width="120" y="20" x="0" fill="#c33"/>
+   <rect id="rect621" height="20" width="120" y="0" x="0" fill="#09c"/>
+   <rect id="rect623" height="20" width="120" y="40" x="0" fill="#093"/>
+  </g>
+  <g id="g575" transform="matrix(14.068 0 0 14.068 -494.02 -182.71)">
+   <g id="g638">
+    <path id="path637" d="m66 30c0.004 4.968-4.0248 9-8.9928 9-4.968 0.008-9.003-4.018-9.007-8.986-0.012-4.968 4.01-9.006 8.978-9.014 4.968-0.0158 9.0096 4.0033 9.0215 8.9713v0.0287z" fill="#fff"/>
+    <path id="path636" d="m66.5 30c0.0033 4.0848-3.3093 7.4-7.3941 7.4-4.0848 0.0065-7.4026-3.3034-7.4059-7.3882-0.0098-4.0848 3.2975-7.4053 7.3823-7.4118 4.0848-0.013 7.4079 3.2916 7.4177 7.3764v0.0236z" fill="#c33"/>
+   </g>
+   <polygon id="polygon574" fill-rule="evenodd" points="67 25 67.957 27.69 70.536 26.464 69.31 29.043 72 30 69.31 30.957 70.536 33.536 67.957 32.31 67 35 66.043 32.31 63.464 33.536 64.69 30.957 62 30 64.69 29.043 63.464 26.464 66.043 27.69" fill="#fff"/>
+  </g>
+ </g>
+</svg>

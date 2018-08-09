@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-18 -12 36 24" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata19">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs17">
+  <clipPath id="clipPath8432" clipPathUnits="userSpaceOnUse">
+   <rect id="rect8434" fill-opacity="0.67" height="27" width="36" y="-13.5" x="-18"/>
+  </clipPath>
+ </defs>
+ <g id="flag" clip-path="url(#clipPath8432)">
+  <g id="g8347">
+   <rect id="rect3003" height="36" width="36" y="-18" x="-18" fill="#fff"/>
+   <rect id="rect4" height="27" width="36" y="-13.5" x="-18" fill="#fff"/>
+   <path id="path6" d="m0-21.586v43.172m-21.586-21.586h43.172" stroke="#e8112d" stroke-width="7.1954" fill="none"/>
+   <g id="g8341" transform="scale(1.7529)">
+    <path id="arm" fill="#f9dd16" d="m-6.75 1.5 0.75-0.75h6.75v-1.5h-6.75l-0.75-0.75z"/>
+    <use id="use9" xlink:href="#arm" transform="rotate(90)" height="24" width="36" y="0" x="0"/>
+    <use id="use11" xlink:href="#arm" transform="rotate(-90)" height="24" width="36" y="0" x="0"/>
+    <use id="use13" xlink:href="#arm" transform="scale(-1)" height="24" width="36" y="0" x="0"/>
+   </g>
+  </g>
+ </g>
+</svg>

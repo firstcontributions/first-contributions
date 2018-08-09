@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata4637">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath3121" clipPathUnits="userSpaceOnUse">
+   <rect id="rect3123" fill-opacity="0.67" height="480" width="640" y="32" x="-88.001"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3121)" transform="translate(88.001 -32)" stroke-width="1pt">
+  <rect id="rect149" height="480" width="720" y="32" x="-128" fill="#fff"/>
+  <ellipse id="path194" d="m 718.01048,344.04666 c 0,107.65611 -87.27252,194.92862 -194.92863,194.92862 -107.65611,0 -194.92864,-87.27251 -194.92864,-194.92862 0,-107.6561 87.27253,-194.92862 194.92864,-194.92862 107.65611,0 194.92863,87.27252 194.92863,194.92862 z" rx="194.93" ry="194.93" transform="matrix(.76554 0 0 .76554 -168.44 8.6176)" cy="344.05" cx="523.08" fill="#d30000"/>
+ </g>
+</svg>

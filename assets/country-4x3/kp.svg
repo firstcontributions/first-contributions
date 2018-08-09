@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata11">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs380">
+  <clipPath id="clipPath4479" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4481" fill-opacity="0.67" height="511.9" width="682.53" y=".10048" x="5.0774"/>
+  </clipPath>
+ </defs>
+ <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath4479)" transform="matrix(.93768 0 0 .93768 -4.761 -.094216)">
+  <rect id="rect149" transform="scale(-1)" height="510.95" width="851.86" stroke="#000" y="-511.52" x="-775.94" stroke-width=".76014pt" fill="#fff"/>
+  <rect id="rect148" transform="scale(-1,1)" height="92.457" width="851.86" y="419.07" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
+  <rect id="rect605" transform="scale(-1)" height="283.21" width="851.86" y="-397.65" x="-775.94" stroke-width="1pt" fill="#c60000"/>
+  <rect id="rect606" transform="scale(-1,1)" height="92.457" width="851.86" y=".57557" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
+  <path id="path607" d="m495.86 1148c0 90.46-73.332 163.79-163.79 163.79-90.46 0-163.79-73.332-163.79-163.79 0-90.46 73.332-163.79 163.79-163.79 90.46 0 163.79 73.332 163.79 163.79z" transform="matrix(.72421 0 0 .70142 -30.589 -549.16)" fill="#fff"/>
+  <polygon id="polygon136" transform="matrix(1.0032 -.0050477 -.010923 .98334 -320.22 -86.633)" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15" fill="#c40000"/>
+ </g>
+</svg>
