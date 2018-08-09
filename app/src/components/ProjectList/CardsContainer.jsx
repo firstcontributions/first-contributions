@@ -5,8 +5,8 @@ import each from 'lodash/each'
 import Card from './ProjectsCards';
 import projectList from './listOfProjects';
 
-import './CardsContainer.css';
-import './SearchCss.css';
+import './css/cards-container.css';
+import './css/search.css';
 import 'react-select/dist/react-select.css';
 
 export default class CardsContainer extends React.Component {
@@ -84,14 +84,14 @@ export default class CardsContainer extends React.Component {
         if (project.name.toLowerCase().includes(this.inputValue)
           || project.description.toLowerCase().includes(this.inputValue)
           || project.tags.toString().toLowerCase().includes(this.inputValue)) {
-  
-            searchedList.push(project)
+
+          searchedList.push(project)
         }
       });
-      
+
       updatedList = searchedList;
-    } 
-    
+    }
+
     this.setState({ filterList: updatedList });
   }
 
@@ -110,16 +110,22 @@ export default class CardsContainer extends React.Component {
 
     return (
       <div>
-        <Select
-          name='tag-selector'
-          value={this.state.value}
-          onChange={this.handleSelectChange}
-          options={this.filterOptions}
-          multi={true}
-        />
         <div id='container'>
-        <input type='text' name='search' id='search' placeholder='Search...' onChange={this.handleChange} />
-        <section id='project-list' className='Container-layout'>
+          <div className='inputContainer'>
+            <input id='search' type='text' name='search' placeholder='Search...' onChange={this.handleChange} />
+          </div>
+          <div className='inputContainer'>
+            <Select
+              name='tag-selector'
+              value={this.state.value}
+              onChange={this.handleSelectChange}
+              options={this.filterOptions}
+              multi={true}
+              placeholder='Filter'
+            />
+          </div>
+        </div>
+        <section id='project-list' className='containerLayout'>
           {this.state.filterList.map((item, key) => {
             return (
               <Card
@@ -133,7 +139,6 @@ export default class CardsContainer extends React.Component {
             );
           })}
         </section>
-        </div>
       </div>
     );
   }
