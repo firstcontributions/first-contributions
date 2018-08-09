@@ -639,6 +639,7 @@
 - [Jayakrishnan](https://github.com/JAYKRISHNAN)
 - [EvanDCP](https://github.com/EvanDCP)
 - [VinothKumar](https://github.com/Vinoth18)
+- [LarryHastings](https://github.com/hastings360)
 - [HallLinux](https://github.com/HallLinux)
 - [Jon Johnson](https://github.com/jonjohnson34)
 - [Brandon Brigance](https://github.com/b-random)
