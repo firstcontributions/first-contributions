@@ -3819,6 +3819,7 @@
 - [Micah Workman](https://github.com/nidoprince)
 - [Marc Cooperstein](https://github.com/mcooperstein)
 - [Andrew Chau](https://github.com/a4chau)
+- [SurenSN](https://github.com/SurenSN)
 - [Zachariah Garcia](https://github.com/zachacaria)
 - [Jesus Redondo](https://github.com/JSRound)
 - [Otazz](https://github.com/Otazz)
