@@ -11,6 +11,7 @@
     "sw-precache": "^5.2.0"
   },
   "dependencies": {
+    "lodash": "^4.17.10",
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
     "react-select": "^1.0.0-rc.10"
