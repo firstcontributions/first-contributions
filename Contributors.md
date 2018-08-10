@@ -5053,6 +5053,7 @@
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
 - Felicia Khan
+- [Cahak George](https://github.com/cahakgeorge)  
 - [Jordan Mohler](https://github.com/jsmohler)
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
