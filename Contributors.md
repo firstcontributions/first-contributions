@@ -62,9 +62,10 @@
 - [Neutrix](https://github.com/NeuTrix)
 - [Nukeproof21](https://github.com/Nukeproof21
 - [ElMitch](https://github.com/ElMitch)
-- [JustinStanger](https://github.com/JStanger13)  
+- [JustinStanger](https://github.com/JStanger13)
 - nini faroux
 - Sushrut Raina
+- [Neptune Cabelin](https://github.com/ncabelin)
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
@@ -75,6 +76,7 @@
 - [J Othniel](http://github.com/jothniel)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
+- [Nisarg Chitaliya](https://github.com/nisarg4)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
@@ -127,6 +129,7 @@
 - [Rainier Go](https://github.com/raini35)
 - [Patrick Pelayo](https://github.com/ppelayo1)
 - Lionel Ortega
+- [Arun Kumar Arunachalam](https://github.com/aak211th)
 - [Henry Scheible](https://github.com/bubsy2103h)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [wongsiewyuei](https://github.com/wongsiewyuei)
@@ -5135,4 +5138,7 @@
 - [Michele Bernini](https://github.com/mbernini)
 - [Niclas Wim](https://github.com/niwim)
 - [Penny Pan](https://github.com/pennypchy)
--[shabari jonnalagadda] (https://github.com/shabari004)
+- [shabari jonnalagadda](https://github.com/shabari004)
+- [Rafael Sampy](https://github.com/rafaelsampy)
+- [Vinicius Baroni Soares](https://github.com/vinibs)
+- [Kara Konieczny](https://github.com/apersonfromflorida)
