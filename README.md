@@ -18,9 +18,9 @@ Reading articles & watching tutorials can help, but what's better than actually 
  
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
-
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
