@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -5122,6 +5122,7 @@
 - [muphi](https://github.com/muphi)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
+- [Vinicius de Souza Augutis](https://github.com/viniciusaugutis)
 - [Jonata William](https://github.com/jonatawilliam)
 - [Lori Godoy](https://github.com/kuneho-yellow/)
 - [Caio Thizio](https://github.com/caiothizio)
