@@ -5140,3 +5140,4 @@
 -[shabari jonnalagadda] (https://github.com/shabari004)
 -[Rafael Sampy] (https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
+- [Kara Konieczny] (https://github.com/apersonfromflorida)
