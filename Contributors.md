@@ -5146,3 +5146,4 @@
 - [Vinicius Baroni Soares](https://github.com/vinibs)
 - [Priyanka Garg](https://github.com/garg-priyanka)
 - [Kara Konieczny](https://github.com/apersonfromflorida)
+- [Jefferson de França Filho](https://github.com/JaTemJeff)
