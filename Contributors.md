@@ -5125,4 +5125,5 @@
 - [Jonata William](https://github.com/jonatawilliam)
 - [Lori Godoy](https://github.com/kuneho-yellow/)
 - [Caio Thizio](https://github.com/caiothizio)
-- [kachomsky] (https://github.com/kachomsky)
+- [kachomsky](https://github.com/kachomsky)
+- [Joao Salgado](https://github.com/joao-salgado)
