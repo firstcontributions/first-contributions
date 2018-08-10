@@ -65,6 +65,7 @@
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
 - Sushrut Raina
+- [Neptune Cabelin](https://github.com/ncabelin)
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
@@ -3821,6 +3822,7 @@
 - [Micah Workman](https://github.com/nidoprince)
 - [Marc Cooperstein](https://github.com/mcooperstein)
 - [Andrew Chau](https://github.com/a4chau)
+- [SurenSN](https://github.com/SurenSN)
 - [Zachariah Garcia](https://github.com/zachacaria)
 - [Jesus Redondo](https://github.com/JSRound)
 - [Otazz](https://github.com/Otazz)
@@ -5136,7 +5138,8 @@
 - [Michele Bernini](https://github.com/mbernini)
 - [Niclas Wim](https://github.com/niwim)
 - [Penny Pan](https://github.com/pennypchy)
--[shabari jonnalagadda] (https://github.com/shabari004)
--[Rafael Sampy] (https://github.com/rafaelsampy)
+- [shabari jonnalagadda](https://github.com/shabari004)
+- [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
 - [Priyanka Garg](https://github.com/garg-priyanka)
+- [Kara Konieczny](https://github.com/apersonfromflorida)
