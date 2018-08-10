@@ -147,6 +147,7 @@
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
 - [Michal Pekar](https://github.com/pekac45)
 - [Jack Wu](https://github.com/jackwu413)
+- Tommaso Levato
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
 - [Sebastian Upjohn](https://github.com/supjohn)
