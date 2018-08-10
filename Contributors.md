@@ -774,6 +774,7 @@
 - [Rachit](https://github.com/iamrachitgulati)
 - [joseph](https://github.com/Joseph1989)
 - [Marnix](https://github.com/MarnixDev)
+- [Maniesha Blakey](https://github.com/manieshablakey)
 - [Matt Whol](https://github.com/Wholinator)
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
