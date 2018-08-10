@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shashi Srinath](https://github.com/profghost)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -5128,3 +5128,4 @@
 - [Caio Thizio](https://github.com/caiothizio)
 - [kachomsky](https://github.com/kachomsky)
 - [Joao Salgado](https://github.com/joao-salgado)
+- [Michele Bernini](https://github.com/mbernini)
