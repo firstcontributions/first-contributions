@@ -103,6 +103,7 @@
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
 - Benson M
+- Johan Eriksson
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Martin Kim](https://github.com/martin0829)
 - [Jaime Luengo](https://github.com/jaimeluengo)
