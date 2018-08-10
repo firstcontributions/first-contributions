@@ -62,7 +62,7 @@
 - [Neutrix](https://github.com/NeuTrix)
 - [Nukeproof21](https://github.com/Nukeproof21
 - [ElMitch](https://github.com/ElMitch)
-- [JustinStanger](https://github.com/JStanger13)  
+- [JustinStanger](https://github.com/JStanger13)
 - nini faroux
 - Sushrut Raina
 - [Matt Duffy](https://github.com/DuffyCodes)
@@ -75,6 +75,7 @@
 - [J Othniel](http://github.com/jothniel)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
+- [Nisarg Chitaliya](https://github.com/nisarg4)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
