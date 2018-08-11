@@ -57,6 +57,7 @@
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Ankit Girdhar](https://github.com/ankit14136)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
+- [Andrew Khalel](https://github.com/andrewekhalel)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
 - [Simon M](https://github.com/nmsq)
