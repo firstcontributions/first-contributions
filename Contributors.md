@@ -9,6 +9,7 @@
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - SteveFFresno
+- Shubham Tyagi
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
 - UTKARSH AGRAWAL(https://github.com/wompowe) PEACE!!
