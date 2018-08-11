@@ -13,6 +13,7 @@
 - shubham tyagi
 - tyagi shubham
 - shubham
+- tyagi
 - [Apoorva Teli](https://github.com/apoorvateli)
 - UTKARSH AGRAWAL(https://github.com/wompowe) PEACE!!
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
