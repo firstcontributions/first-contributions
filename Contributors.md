@@ -20,6 +20,7 @@
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - Josh Friesen
 - Padmashantha Rajapakshe
+- [Tony Huang](https://github.com/tonyth00)
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
 - [Siva Kumar Lakkoju](https://github.com/sivakumar97)
