@@ -70,6 +70,7 @@
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
 - Sushrut Raina
+- Johan Eriksson
 - [Neptune Cabelin](https://github.com/ncabelin)
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
