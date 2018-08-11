@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
@@ -24,6 +24,7 @@ Ananya Keshari
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - Charlie Chew
 - Josh Friesen
+- Justin Calma(https://github.com/JCCII) 8/11/2018
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
 - [kholood Eassa](https://github.com/kholood-ea)
