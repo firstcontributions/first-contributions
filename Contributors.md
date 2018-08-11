@@ -5164,3 +5164,4 @@
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
 - [Mihir Jhala](https://github.com/mihirjhala)
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
+- [Amaan Nathoo](https://github.com/amaannt)
