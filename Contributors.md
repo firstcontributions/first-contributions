@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
@@ -16,7 +16,7 @@
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
-Ananya Keshari
+- Ananya Keshari
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
@@ -24,7 +24,7 @@ Ananya Keshari
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - Charlie Chew
 - Josh Friesen
-- Justin Calma(https://github.com/JCCII) 8/11/2018
+- [Justin Calma](https://github.com/JCCII) 8/11/2018
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
 - [kholood Eassa](https://github.com/kholood-ea)
@@ -5166,4 +5166,5 @@ Ananya Keshari
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
 - [Mihir Jhala](https://github.com/mihirjhala)
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
+- [Amaan Nathoo](https://github.com/amaannt)
 - [Cintia Nunes](https://github.com/Cintiaa)
