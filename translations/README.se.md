@@ -1,14 +1,14 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # First Contributions
 
-Det är svårt. Det är alltid svårt första gången men gör något. När du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill förenkla att lära sig hur man tillför till ett öppen källkods-projekt.
+Det är alltid svårt första gången man gör något. När du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill förenkla för dig att lära sig hur man bidrar till ett öppet källkods-projekt.
 
-Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som mål att tillhandahålla en guide och förenkla för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
+Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som syfte att tillhandahålla en guide och förenkla för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
 
 
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.]( #tutorials-using-other-tools )*
@@ -17,7 +17,7 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/).
+Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/ )
 
 ## Gör en Fork på detta repository
 
@@ -26,9 +26,9 @@ Detta kommer att skapa en kopia av detta repo i ditt konto.
 
 ## Clona repositoryt
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Clona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klickka sedan på *copy to cliboard*-ikonen.
+Clona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to cliboard*-ikonen.
 
 Öppna en terminal och kör följande git-kommando:
 
@@ -37,13 +37,13 @@ git clone "url you just copied"
 ```
 där "url you just copied" (utan citat-tecken) är URL:en för detta repo (din fork för detta projekt). Se föregående steg för att hitta URL:en.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Till exempel:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar du innehållet i detta rep till din dator.
+där `this-is-you` är ditt användarnamn på GitHub. På detta sätt kopierar du innehållet i repot till din dator.
 
 ## Skapa en branch
 
@@ -67,7 +67,7 @@ git checkout -b mitt-tillag
 
 Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lägg inte till något i början eller slutet av dokumentet. Lägg till någonstans mitt emellan. Spara filen.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Ge kommando `git status` i projektkatalogen för att se de ändringar du gjort.
 
@@ -82,7 +82,7 @@ Commita dina ändringar genom att använda `git commit`:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-erätt `<your-name>` med ditt namn.
+ersätt `<your-name>` med ditt namn.
 
 ## Pusha ändringar till GitHub
 
@@ -100,7 +100,7 @@ Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare
 
 Skicka iväg din s.k. pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
 Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett e-mail så fort dina ändringar blivit införda.
 
@@ -108,11 +108,11 @@ Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett
 
 Du kan lugnt ta bort din branch "<add-your-branch-name> efter det att din begäran blivit införd. Du kommer att se en knapp i GitHub:
 
-<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
 
 Om din begäran stängdes utan att införas kommer GitHub att varna för att du försöker ta bort ändringar som inte införts, knappen kommer se ut så här:
 
-<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Hur går man vidare?
 
@@ -140,4 +140,4 @@ Känner du dig särskilt snäll kan du följa [Roshan](https://roshanjossey.gith
 [Twitter](https://twitter.com/sudo__bangbang) och
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
