@@ -21,7 +21,8 @@
 | 🇬🇷 | [ελληνικά](translations/README.gr.md) |
 | العربية | [العربية](translations/README.ar.md) |
 | 🇺🇦 | [Українська](translations/README.ua.md) |
-| 🇵🇹 🇧🇷 | [Português](translations/README.pt_br.md) |
+| 🇧🇷 | [Português (Brasil)](translations/README.pt_br.md) |
+| 🇵🇹 | [Português (Portugal)](translations/README.pt-pt.md) |
 | 🇮🇹 | [Italiano](translations/README.it.md)
 | 🇹🇭 | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](translations/README.gl.md) |
