@@ -1,5 +1,7 @@
-﻿# Contributors
+# Contributors
 
+- Pietil
+- [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - [Jenny Justh](https://github.com/jennyjj)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -4331,6 +4333,7 @@
 - [Brandon Patterson](https://github.com/brandnpatterson)
 - [Deepak Singh](https://github.com/deepaksingh100)
 - [Hyeonho Lee](https://github.com/prayeo)
+- [Piyush Karki](https://github.com/pkarki113)
 - [Lars Sjogreen](https://github.com/LarsSjogreen)
 - [didada](nospace)
 - [Cyrus Frost](https://github.com/cyfrost)
