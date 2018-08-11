@@ -196,6 +196,7 @@
 - [SummerPines](https://githum.com/summerpines)
 - [Oisin Quinn](https://github.com/oisinq)
 - [Kengo Wada](https://github.com/KengoWada)
+- [Steve Knipping](https://github.com/sknipping)
 - [Felipe Rigo](https://github.com/rigo4rigo)
 - [Kishore Mohanavelu](https://github.com/kmohanavelu)
 - [Bryan Hitchcock](https://github.com/bryanhitchcock)
