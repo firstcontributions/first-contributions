@@ -20,6 +20,7 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
+- Charlie Chew
 - Josh Friesen
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
