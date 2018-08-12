@@ -8,6 +8,7 @@
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [Amit Pareek](https://github.com/amit0021)
+- [Javier "Javi" Carrion](https://github.com/JavaVista/)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
