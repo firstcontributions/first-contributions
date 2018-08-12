@@ -3,6 +3,7 @@
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
+- Jithu Nair
 - [Jenny Justh](https://github.com/jennyjj)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Christian Salinas](https://github.com/CTSalinas)
