@@ -347,6 +347,7 @@
 - [Nyatt Isaias](https://github.com/nyattisaias)
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
+- [mngdnmw](https://github.com/mngdnmw)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [jmadd](https://github.com/jmadd)
