@@ -434,7 +434,6 @@
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
 - [Stella Lu](https://github.com/stella-lu/)
-- [Steffen Ness](https://github.com/steffenalexander)
 - [Jose Tandavala](https://github.com/tandavala)
 - [KMJUN](https://github.com/KMJUN)
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
