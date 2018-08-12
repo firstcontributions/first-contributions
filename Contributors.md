@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
@@ -5136,6 +5136,7 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
+- [Andre du Plessis](https://github.com/AndreDP-Developer)
 - [lincrampton](https://github.com/lincrampton)
 - [Nathaniel Tye](https://github.com/Morvidus)
 - [Lauren Van Sloun](https://github.com/Ashera138)
