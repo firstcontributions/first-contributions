@@ -158,6 +158,7 @@
 - [Gary Fishell](https://github.com/garyfish618)
 - [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
+- [A Shepherd](https://github.com/alkalinemusic)
 - [Peeyush Sharma](https://github.com/peeyushshawarma)
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
