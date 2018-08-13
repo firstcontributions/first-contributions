@@ -3295,6 +3295,7 @@
 - [David Claxton](https://github.com/dclaxton6)
 - [Zach Gollwitzer](https://github.com/zachgoll)
 - [Andre Kraak](https://github.com/AndreKraak)
+- [Ryan Lingle](https://github.com/ryan-lingle/)
 - [abrandell](https://github.com/abrandell)
 - [Zorana Vukmirovic](https://github.com/zvukmiro)
 - [soliquid](https://github.com/soliquid)
@@ -5092,7 +5093,7 @@
 - Felicia Khan
 - Usman Farooq
 - [Tomer Ben-Rachel](https://github.com/TomerPacific)
-- [Cahak George](https://github.com/cahakgeorge)  
+- [Cahak George](https://github.com/cahakgeorge)
 - [Jordan Mohler](https://github.com/jsmohler)
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
