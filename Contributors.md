@@ -342,6 +342,7 @@
 - [Phil Smeby](https://github.com/smoothdude11)
 - [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
+- [Brian Casteel](https://github.com/briancasteel)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
