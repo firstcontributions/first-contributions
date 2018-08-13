@@ -194,6 +194,7 @@
 - [Anthony Bilic](https://github.com/irulenot)
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Getenet Wol](https://github.com/getsei)
+- [Jonas S](https://github.com/jonasstr)
 - [Kyle A](https://www.github.com/archerkg)
 - [Asya Su](https://www.github.com/asyasusen)
 - [Jonathan Mizrachi](https://github.com/JohnMiz)
