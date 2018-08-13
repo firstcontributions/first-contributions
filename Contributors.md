@@ -2,6 +2,7 @@
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
+- Sarthak Singhal
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
