@@ -298,6 +298,7 @@
 - [dblankin](https://github.com/dblankin)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
+- [Jae Lim] (https://github.com/jaewow)
 - [Nacho Navarro](https://github.com/NachoNav)
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
