@@ -6,23 +6,23 @@
 
 # First Contributions
 
-Det är alltid svårt första gången man gör något. När du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill förenkla för dig att lära sig hur man bidrar till ett öppet källkods-projekt.
+Det är alltid svårt första gången man gör något och speciellt när du samarbetar med andra kan det vara extra känsligt att göra misstag. Vi vill förenkla för dig att lära sig hur man bidrar till ett öppet källkods-projekt.
 
-Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som syfte att tillhandahålla en guide och förenkla för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
+Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är alltid bättre att göra det på riktigt. Detta projeket har som syfte att tillhandahålla en guide och göra det enkelt för nybörjare att göra sina första bidrag. Om du är ute efter att göra ditt första bidrag kan du följa stegen nedan.
 
 
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.]( #tutorials-using-other-tools )*
 
 #### *Läs detta på [andra språk](Translations.md).*
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Om du inte har git installerat [så installera det]( https://help.github.com/articles/set-up-git/ )
 
 ## Gör en Fork på detta repository
 
-Forka detta repo genom att klicka på fork-knappen överst på denna sida.
-Detta kommer att skapa en kopia av detta repo i ditt konto.
+Forka repot genom att klicka på fork-knappen överst på denna sida.
+Detta kommer att skapa en kopia av repot i ditt GitHub-konto.
 
 ## Clona repositoryt
 
@@ -30,7 +30,7 @@ Detta kommer att skapa en kopia av detta repo i ditt konto.
 
 Clona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to cliboard*-ikonen.
 
-Öppna en terminal och kör följande git-kommando:
+Öppna en terminal och kör följande kommando:
 
 ```
 git clone "url you just copied"
@@ -65,7 +65,7 @@ git checkout -b mitt-tillag
 
 ## Gör de ändringar du vill göra och commita dem
 
-Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lägg inte till något i början eller slutet av dokumentet. Lägg till någonstans mitt emellan. Spara filen.
+Nu öppnar du `Contributors.md` i en text-editor och lägger till ditt namn. Lägg inte till något i början eller slutet av dokumentet utan lägg till någonstans mitt emellan. Spara filen.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
@@ -96,7 +96,7 @@ ersätt `<add-your-branch-name>` med det branch-namn du använt tidigare.
 
 Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare & pull request`. Klicka på den.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Skicka iväg din s.k. pull request.
 
@@ -116,7 +116,7 @@ Om din begäran stängdes utan att införas kommer GitHub att varna för att du 
 
 ## Hur går man vidare?
 
-Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit -> PR_ som du kommer att stöta på ofta!
+Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit -> PR_, en process du kommer att stöta på ofta!
 
 Fira genom att dela med dina vänner och följare genom att gå till [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -129,7 +129,7 @@ Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en li
 
 ## Handledningar för andra verktyg
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 

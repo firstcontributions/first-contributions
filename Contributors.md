@@ -1,8 +1,10 @@
-# Contributors
-
+﻿# Contributors
+- [Renata Gizzi](https://github.com/RenataGizzi)
+- [Dafny Garcia](https://github./daphnemillss)
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
+- Jithu Nair
 - [Jenny Justh](https://github.com/jennyjj)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Christian Salinas](https://github.com/CTSalinas)
@@ -42,6 +44,7 @@
 - [Jose Berrio](https://github.com/aldarisbm)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
+- [Steffen Ness](https://github.com/steffenalexander)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Sagar Patel](https://github.com/patelsv)
@@ -61,6 +64,7 @@
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Ankit Girdhar](https://github.com/ankit14136)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
+- Someone
 - [Andrew Khalel](https://github.com/andrewekhalel)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
@@ -72,6 +76,7 @@
 - [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix)
 - [Nukeproof21](https://github.com/Nukeproof21
+- [Susarla Nikhilesh] (https://github.com/susarlanikhilesh)
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
@@ -157,6 +162,7 @@
 - [Gary Fishell](https://github.com/garyfish618)
 - [Darren McGregor](https://github.com/avanzac)
 - [Nikita Chernykh](https://github.com/NikitaChernykh)
+- [A Shepherd](https://github.com/alkalinemusic)
 - [Peeyush Sharma](https://github.com/peeyushshawarma)
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
@@ -338,6 +344,7 @@
 - [Phil Smeby](https://github.com/smoothdude11)
 - [Arnas Amankavicius](https://github.com/DeemoKittyKat)
 - [Nick Berrie](https://github.com/machevalia)
+- [Brian Casteel](https://github.com/briancasteel)
 - [Vitor](https://github.com/stelmastchuk)
 - [Bria Walker](https://github.com/briajnae)
 - [Nikith Rachakonda](https://github.com/mrhitnik)
@@ -348,6 +355,7 @@
 - [Nyatt Isaias](https://github.com/nyattisaias)
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
+- [mngdnmw](https://github.com/mngdnmw)
 - [mefff](https://github.com/mefff)
 - [JD Bequette](https://github.com/jdbequette)
 - [jmadd](https://github.com/jmadd)
@@ -5079,6 +5087,7 @@
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
 - Felicia Khan
+- Usman Farooq
 - [Tomer Ben-Rachel](https://github.com/TomerPacific)
 - [Cahak George](https://github.com/cahakgeorge)  
 - [Jordan Mohler](https://github.com/jsmohler)
@@ -5135,6 +5144,7 @@
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
+- [Andre du Plessis](https://github.com/AndreDP-Developer)
 - [lincrampton](https://github.com/lincrampton)
 - [Nathaniel Tye](https://github.com/Morvidus)
 - [Lauren Van Sloun](https://github.com/Ashera138)
@@ -5170,3 +5180,5 @@
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
 - [Amaan Nathoo](https://github.com/amaannt)
 - [Cintia Nunes](https://github.com/Cintiaa)
+- [Prakhar Dubey](https://github.com/Starlight3)
+- [Brenton L](https://github.com/LalondeBrenton)
