@@ -295,6 +295,7 @@
 - [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
+- [Benjamin Calvin](https://github.com/benjamincalvin
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [dblankin](https://github.com/dblankin)
