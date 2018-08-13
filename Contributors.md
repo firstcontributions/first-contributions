@@ -5178,3 +5178,4 @@
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
 - [Amaan Nathoo](https://github.com/amaannt)
 - [Cintia Nunes](https://github.com/Cintiaa)
+- [Brenton L](https://github.com/LalondeBrenton)
