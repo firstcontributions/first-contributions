@@ -151,6 +151,7 @@
 - [Shradha Sharma](https://github.com/Shradha27)
 - [Abhith Krishna](https//github.com/donosco98)
 - [Ankur Dubey](https://github.com/ankurdubey521)
+[Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Nic B](https://github.com/Stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
 - [Gary Fishell](https://github.com/garyfish618)
