@@ -22,6 +22,7 @@
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
 - Ananya Keshari
+- [Matan Cohen] (https://github.com/comatan96)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
