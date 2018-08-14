@@ -4207,6 +4207,7 @@
 - [Jefferson Ighalo](https://github.com/jeffersonnnn)
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
+- [Elio Ramiro Flores Choque](https://github.com/erfc993)
 - [QwertyQuill](https://github.com/dmonrod)
 - [Leif Brockman](https://github.com/MrWoo034)
 - [Premchand Thumati](https://github.com/Premchand007)
