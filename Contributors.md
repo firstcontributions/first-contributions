@@ -475,6 +475,7 @@
 - [Pravesh-Jamgade](https://github.com/Pravesh-Jamgade)
 - [Sundae And Pizza](https://github.com/sundaeandpizza)
 - Ron Mapue
+- [Osamu Morozumi](https://github.com/ozmos)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - [Mohamed Rahmouni](https://github.com/Rahamoon)
 - [Richard Snyder](https://github.com/rsnydr)
