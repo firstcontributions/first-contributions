@@ -329,6 +329,7 @@
 - [Gavin Miller](https://github.com/gavinmiller)
 - [Hans Winzell](https://github.com/hanwin)
 - [Kamran Alam](https://github.com/kammyy)
+- [Clament John](https://github.com/clamoj)
 - [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
