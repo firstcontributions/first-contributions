@@ -996,6 +996,7 @@
 - marcos-padilla
 - [Neha Upadhyay](https://github.com/nehaNIT)
 - Varun M
+- Maks
 - [Jean Zombie](https://github.com/Jean-Zombie)
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
