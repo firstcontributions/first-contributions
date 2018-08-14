@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
@@ -5192,3 +5192,4 @@
 - [Prakhar Dubey](https://github.com/Starlight3)
 - [Brenton L](https://github.com/LalondeBrenton)
 - [Andrés Serna](https://github.com/andres0107)
+- [Sebastian Carter](https://github.com/sebastiancarter)
