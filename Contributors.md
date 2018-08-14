@@ -29,7 +29,6 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
-- [Warren Cheng](https://github.com/et265831)
 - Charlie Chew
 - Josh Friesen
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
@@ -117,6 +116,7 @@
 - Aaron Melendez
 - Rubén Aciego
 - Optimus-pri
+- [Warren Cheng](https://github.com/et265831)
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
