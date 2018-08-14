@@ -39,6 +39,7 @@
 - Vinicius Vaz
 - Charlie Chew
 - Josh Friesen
+- juvestig
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - Ankita
 - Padmashantha Rajapakshe
