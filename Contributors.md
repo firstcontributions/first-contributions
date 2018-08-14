@@ -22,6 +22,7 @@
 - SteveFFresno
 - newOne ##
 - Shubham Tyagi
+- [Anurag Roy](https://github.com/anuragroy11)
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
