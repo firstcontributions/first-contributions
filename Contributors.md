@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
@@ -29,6 +29,7 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
+- [Warren Cheng](https://github.com/et265831)
 - Charlie Chew
 - Josh Friesen
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
