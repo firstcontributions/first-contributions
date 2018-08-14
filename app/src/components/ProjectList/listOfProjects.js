@@ -399,8 +399,8 @@ const projectList = [
     name: 'Open Data Kit',
     imageSrc: 'https://opendatakit.org/assets/images/logo.png',
     githubLink: 'https://github.com/opendatakit',
-    description: 'Free and open-source set of tools for collecting data in challenging environments.',
-    tags: ['Open Source','Software']
+    description: 'Free and open-source set of tools for collecting data in challenging environments',
+    tags: ['Open Source','Software','JAVA', 'Android']
   },
   {
     name: 'Sugar Labs',
@@ -413,15 +413,15 @@ const projectList = [
     name: 'Jupyter Hub',
     imageSrc: 'https://avatars2.githubusercontent.com/u/17927519?s=400&v=4',
     githubLink: 'https://github.com/jupyterhub/jupyterhub',
-    description: 'A multi-user Hub, spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.',
+    description: 'A multi-user Hub, spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server',
     tags: ['Proxy Server','Python','REST API']
   },
   {
     name: 'Allenai',
     imageSrc: 'https://news.cs.washington.edu/wp-content/uploads/2015/10/AI2-logo-300x300.png',
     githubLink: 'https://github.com/allenai/allennlp',
-    description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence.',
-    tags: ['Artificial Intelligence','Institute']
+    description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence',
+    tags: ['Artificial Intelligence','Python','NLP']
   }
 
 ];
