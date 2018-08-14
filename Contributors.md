@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Harrison Wilde](https://github.com/HarrisonWilde)
 - Raihan Kabir Ratul
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
