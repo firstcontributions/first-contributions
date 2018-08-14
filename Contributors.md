@@ -34,6 +34,7 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
+- Vinicius Vaz
 - Charlie Chew
 - Josh Friesen
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
