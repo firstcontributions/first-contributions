@@ -8,6 +8,7 @@
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - Jithu Nair
+- [Igor Antonov](https://github.com/IgorAntonov)
 - [Jenny Justh](https://github.com/jennyjj)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Christian Salinas](https://github.com/CTSalinas)
