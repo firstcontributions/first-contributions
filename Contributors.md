@@ -26,6 +26,7 @@
 - Ananya Keshari
 - [Matan Cohen](https://github.com/comatan96)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
