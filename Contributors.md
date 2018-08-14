@@ -5213,3 +5213,4 @@
 - [Justin Bickerstaff] (https://github.com/jmbickerstaff)
 - [Okenna Isa] (https://github.com/romy4life)
 - [Rajat Rana] (https://github.com/rajatrana86728)
+- [Zach Carciu] (https://github.com/zcarciu)
