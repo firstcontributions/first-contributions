@@ -1605,6 +1605,7 @@
 - [Adam Vincent](https://github.com/CaptMurphy)
 - [Don Marsh](https://github.com/runsforbeer)
 - [Min Naing Oo](https://github.com/min9ox2)
+- [Stanley Lambot](https://github.com/Syltaen/)
 - [Jorge Ros Gil](https://github.com/jorrgme)
 - [Peiyu Liao](https://github.com/pyliaorachel)
 - [Peerarust Siriamphan](https://github.com/Gnoyoyo)
