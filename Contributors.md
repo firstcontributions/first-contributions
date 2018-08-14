@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
@@ -117,6 +117,7 @@
 - Aaron Melendez
 - Rubén Aciego
 - Optimus-pri
+- [Warren Cheng](https://github.com/et265831)
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
