@@ -18,6 +18,7 @@
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
+- [Pamela Van Wyk] (https://github.com/Squeakidy)
 - SteveFFresno
 - newOne ##
 - Shubham Tyagi
