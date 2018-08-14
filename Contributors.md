@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- Raihan Kabir Ratul
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
