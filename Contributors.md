@@ -18,6 +18,7 @@
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - SteveFFresno
+- newOne ##
 - Shubham Tyagi
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
