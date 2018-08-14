@@ -5,7 +5,7 @@
 </div>
 
 <div dir="rtl">
-# תרומות ראשונות
+<h1> תרומות ראשונות </h1>
 </div>
 
 <div dir="rtl">
@@ -14,13 +14,13 @@
 </div>
 
 <div dir="rtl">
-#### אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#tutorials-using-other-tools">קישור לכלים גרפיים</a>
+<h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
+<a href="#tutorials-using-other-tools">קישור לכלים גרפיים</a></h4>
 </div>
 
 <div dir="rtl">
-####ניתן לתקרוא את המאמר
-<a href="">בשפות אחרות</a>
+<h4>ניתן לתקרוא את המאמר
+<a href="">בשפות אחרות</a></h4>
 </div>
 
 <div dir="rtl">
@@ -32,7 +32,7 @@
 </div>
 
 <div dir="rtl">
-## בצעו FORK למאגר זה
+<h2> בצעו FORK למאגר זה </h2>
 </div>
 
 <div dir="rtl">
@@ -41,7 +41,7 @@
 
 
 <div dir="rtl">
-## שכפול המאגר
+<h2> שכפול המאגר </h2>
 </div>
 
 <div dir="rtl">
@@ -60,7 +60,7 @@ git clone "url you just copied"
 כאשר הביטוי "url you just copied" (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 </div>
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="left" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 <div dir="rtl">
 לדוגמא:
@@ -73,10 +73,8 @@ git clone https://github.com/this-is-you/first-contributions.git
 כאשר 'this-is-you' הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 </div>
 
-<img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
 <div dir="rtl">
-## יצירת ענף
+<h2> יצירת ענף </h2>
 </div>
 
 <div dir="rtl">
@@ -106,7 +104,7 @@ git checkout -b add-alonzo-church
 </div>
 
 <div dir="rtl">
-## בצעו שינוי הכרחי ובצעו(commit) את השינויים
+<h2> ערכו שינויים הכרחיים ובצעו להם commit </h2>
 </div>
 
 <div dir="rtl">
@@ -132,7 +130,7 @@ git commit -m "Add <your-name> to Contributors list"
 </div>
 
 <div dir="rtl">
-## לדחוף את השינויים ל-GitHub
+<h2> לדחוף את השינויים ל-GitHub </h2>
 </div>
 
 <div dir="rtl">
@@ -147,7 +145,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-## הגישו את השינויים שלכם לסקירה
+<h2> הגישו את השינויים שלכם לסקירה </h2>
 </div>
 
 <div dir="rtl">
@@ -163,7 +161,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-## מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה
+<h2> מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה </h2>
 </div>
 
 <div dir="rtl">
@@ -178,7 +176,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-## מה לעשות מכאן?
+<h2> מה לעשות מכאן? </h2>
 </div>
 
 <div dir="rtl">
@@ -190,21 +188,30 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-### [חומר נוסף](additional-material/git_workflow_scenarios/additional-material.md)
+<h3> [חומר נוסף](additional-material/git_workflow_scenarios/additional-material.md)</h3>
 </div>
 
 <div dir="rtl">
-## הדרכות בשימוש כלים אחרים
+<h2> הדרכות בשימוש כלים אחרים </h2>
 </div>
 
 <div dir="rtl">
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+  <table style="width:100%">
+    <tr>
+      <th><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></th>
+      <th><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></th>
+      <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
+    </tr>
+    <tr>
+      <th><a href="gitkraken-tutorial.md">GitKraken</th>
+      <th><a href="github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
+      <th><a href="github-desktop-tutorial.md">GitHub Desktop</a></th>
+    </tr>
+  </table>
 </div>
 
 <div dir="rtl">
-## קידום עצמי
+<h2> קידום עצמי </h2>
 </div>
 
 <div dir="rtl">
