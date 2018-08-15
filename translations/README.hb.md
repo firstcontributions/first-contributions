@@ -181,14 +181,17 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
 כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של Fork->Clone->Edit->PR שאתם תפגשו באופן שכיח כתורמים!
-חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל- [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://roshanjossey.github.io/first-contributions/#social-share">web app</a>.
 אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות.
-[הצטרפו לסלאק team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
-עכשיו אפשר להתחיל לתרום לפרויקטים אחרים. הכנו רשימה של פרויקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם. תבדקו את  [רשימה של פרויקטים באפליקציית WEB app](https://roshanjossey.github.io/first-contributions/#project-list).
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">הצטרפו לקבוצת סלאק</a>.
+
+עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם.
+
+<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>
 </div>
 
 <div dir="rtl">
-<h3> [חומר נוסף](additional-material/git_workflow_scenarios/additional-material.md)</h3>
+<h3><a href="additional-material/git_workflow_scenarios/additional-material.md">חומר נוסף</a></h3>
 </div>
 
 <div dir="rtl">
