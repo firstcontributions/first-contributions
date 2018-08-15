@@ -258,6 +258,7 @@
 - [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Neeraj Bansal](https://github.com/rio804)
+- Arthur Rocha 
 - Oghenetega
 - Warren
 - [Martin Neifert](https://github.com/MartinNeifert)
