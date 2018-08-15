@@ -5176,6 +5176,7 @@
 - [Vidushi](https://github.com/vidushi04)
 - [Jacob Garcia](https://github.com/janikgar)
 - [muphi](https://github.com/muphi)
+- [Justin Bickerstaff] (https://github.com/jmbickerstaff)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
 - [Vinicius de Souza Augutis](https://github.com/viniciusaugutis)
