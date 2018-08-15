@@ -13,6 +13,7 @@
 - Jithu Nair
 - [Igor Antonov](https://github.com/IgorAntonov)
 - [Jenny Justh](https://github.com/jennyjj)
+- [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
