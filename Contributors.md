@@ -9,6 +9,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
 - Pietil
+- [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - Jithu Nair
@@ -257,6 +258,7 @@
 - [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Neeraj Bansal](https://github.com/rio804)
+- Arthur Rocha 
 - Oghenetega
 - Warren
 - [Martin Neifert](https://github.com/MartinNeifert)
@@ -5236,3 +5238,4 @@
 - [Alex Glaze](https://github.com/glazey132)
 - [Saif Kotwal](https://github.com/saifnsound)
 - [Jonathan Santos] (https://github.com/jsantos93)
+- [Kumar Rahul](https://github.com/dieWithYourBootsON)
