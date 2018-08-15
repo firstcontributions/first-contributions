@@ -197,6 +197,7 @@
 - Tommaso Levato
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
+- [Luke Bentley-Fox](https://github.com/deusexmacchiato)
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Jace McGough](https://github.com/TangyOhio)
 - [Arthur Cavalcante Gomes Coelho](https://github.com/arthurcgc)
