@@ -5000,6 +5000,7 @@
 - [Davie Truong](https://github.com/davie890)
 - [Sagar Jani](https://github.com/alwaysreadytolearn)
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
+- Muzammil
 - Hammerhead
 - [Joshua Riley](https://github.com/JoshRiley)
 - [Zhenyu Yang](https://github.com/shrimpie)
@@ -5204,6 +5205,9 @@
 - [Michele Bernini](https://github.com/mbernini)
 - [Niclas Wim](https://github.com/niwim)
 - [Penny Pan](https://github.com/pennypchy)
+- [shabari jonnalagadda] (https://github.com/shabari004)
+- [Rafael Sampy] (https://github.com/rafaelsampy)
+- [Vinicius Baroni Soares](https://github.com/vinibs)
 - [shabari jonnalagadda](https://github.com/shabari004)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
