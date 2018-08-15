@@ -16,7 +16,7 @@ Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.gith
 ## Embranchez ce répertoire (aussi appelé un Fork)
 
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
-Cela va crée une copie du répertoire sur votre compte.
+Cela va créer une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
 
@@ -55,11 +55,11 @@ Par exemple:
 ```
 git checkout -b add-koffi-sani
 ```
-(Le nom de la branch n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
+(Le nom de la branche n'a pas besoin de contenir le terme *add*, mais c'est raisonnable de l'inclure parce que l'objectif de cette branche est d'ajouter votre nom à une liste.)
 
 ## Effectuez les modifications nécessaires et engagez-les
 
-Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enrégistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
+Maintenant, ouvrez le fichier `Contributors.md` dans un éditeur de texte, ajoutez-y votre nom, et enregistrez-le. Si vous ouvrez l'invite de commande et vous exécutez la commande  `git status`, vous verrez qu'il y a des modifications. Ajoutez ces modifications à la branche que vous venez de créer avec la commande  `git add` :
 ```
 git add Contributors.md
 ```
@@ -131,13 +131,13 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif es
 ## Tutoriels en utilisant d'autres outils
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Où aller ensuite ?
 
-Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous avec besoin d'aide ou avez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
+Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous auriez besoin d'aide ou auriez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
 
 Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'en apprendre davantage.
 
