@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
