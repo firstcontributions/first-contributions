@@ -109,7 +109,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Delete the branch after pull request has been merged
 
-You can safely delete your branch "<add-your-branch-name>" after the pull request has been merged. You'll see a button to delete the branch:
+You can safely delete your branch '<add-your-branch-name>' after the pull request has been merged. You'll see a button to delete the branch:
 
 <img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
 
