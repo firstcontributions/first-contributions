@@ -24,7 +24,7 @@
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
-- [Pamela Van Wyk] (https://github.com/Squeakidy)
+- [Pamela Van Wyk](https://github.com/Squeakidy)
 - SteveFFresno
 - newOne ##
 - Shubham Tyagi
@@ -65,7 +65,7 @@
 - [Steffen Ness](https://github.com/steffenalexander)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - Malika Asim
-- [Melanie Mills] (https://github.com/codeherlife)
+- [Melanie Mills](https://github.com/codeherlife)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Sagar Patel](https://github.com/patelsv)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
@@ -5219,7 +5219,8 @@
 - [Andrés Serna](https://github.com/andres0107)
 - [Sebastian Carter](https://github.com/sebastiancarter)
 - [Renato Barbosa Candido](https://github.com/r144)
-- [Justin Bickerstaff] (https://github.com/jmbickerstaff)
-- [Okenna Isa] (https://github.com/romy4life)
-- [Rajat Rana] (https://github.com/rajatrana86728)
-- [Zach Carciu] (https://github.com/zcarciu)
+- [Justin Bickerstaff](https://github.com/jmbickerstaff)
+- [Okenna Isa](https://github.com/romy4life)
+- [Rajat Rana](https://github.com/rajatrana86728)
+- [Zach Carciu](https://github.com/zcarciu)
+- [Alex Glaze](https://github.com/glazey132)
