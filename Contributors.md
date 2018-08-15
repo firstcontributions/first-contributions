@@ -6,6 +6,7 @@
 - Raihan Kabir Ratul
 - KyungJae Min (https://github.com/mnkjamie)
 - Ujjal Sharma
+- Bhavana Sudharshan
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
