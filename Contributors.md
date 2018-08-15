@@ -4,11 +4,14 @@
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
+- KyungJae Min (https://github.com/mnkjamie)
 - Ujjal Sharma
+- Bhavana Sudharshan
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
 - Pietil
+- Kamilla Dallmann
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
@@ -17,6 +20,7 @@
 - [Jenny Justh](https://github.com/jennyjj)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
+- [Mike Guilmette] (https://github.com/mg0678)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - ShwethaU
@@ -32,6 +36,7 @@
 - Shubham Tyagi
 - [Anurag Roy](https://github.com/anuragroy11)
 - alonzo church
+- [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
 - Ananya Keshari
@@ -5021,6 +5026,7 @@
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [kiran-mk](https://github.com/kiranmk3331)
 - [Mehmet Baran](https://github.com/mbrn)
+- [Jason Kobuchi](https://github.com/kabocha23)
 - [Chris Palomares](https://github.com/eviljorge)
 - [Blessing Sibanda](https://github.com/banQomania)
 - [Daoud Boulad](https://github.com/Boltmerz/)
@@ -5200,6 +5206,7 @@
 - [Vidushi](https://github.com/vidushi04)
 - [Jacob Garcia](https://github.com/janikgar)
 - [muphi](https://github.com/muphi)
+- [João Paulo Paes](https://github.com/paesjoaopaulo)
 - [Justin Bickerstaff] (https://github.com/jmbickerstaff)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
@@ -5238,4 +5245,5 @@
 - [Alex Glaze](https://github.com/glazey132)
 - [Saif Kotwal](https://github.com/saifnsound)
 - [Guilherme Albuquerque](https://github.com/GuilhermeAO)
+- [Jonathan Santos](https://github.com/jsantos93)
 - [Kumar Rahul](https://github.com/dieWithYourBootsON)
