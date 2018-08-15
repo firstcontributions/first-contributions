@@ -5,6 +5,7 @@
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
 - Ujjal Sharma
+- Bhavana Sudharshan
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
