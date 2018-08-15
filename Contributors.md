@@ -4,6 +4,7 @@
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
+- KyungJae Min (https://github.com/mnkjamie)
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
