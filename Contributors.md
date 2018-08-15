@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [Harrison Wilde](https://github.com/HarrisonWilde)
+- [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
 - Ujjal Sharma
 - [Renata Gizzi](https://github.com/RenataGizzi)
@@ -12,9 +13,11 @@
 - Jithu Nair
 - [Igor Antonov](https://github.com/IgorAntonov)
 - [Jenny Justh](https://github.com/jennyjj)
+- [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
+- ShwethaU
 - [Morteza Kavakebi](https://github.com/mkavakebi)
 - [Amit Pareek](https://github.com/amit0021)
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
@@ -1117,6 +1120,7 @@
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull](https://github.com/bahull)
+- [Rudy Olsson](https://github.com/rudyolsson)
 - [Kevin Vu](https://github.com/kkv263)
 - [Mikaela Hallenberg](https://github.com/mikaelahallenberg)
 - [Luigi Pizarro](https://github.com/soyluking)
