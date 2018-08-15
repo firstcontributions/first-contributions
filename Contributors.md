@@ -5213,6 +5213,7 @@
 - [Mihir Jhala](https://github.com/mihirjhala)
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
 - [Amaan Nathoo](https://github.com/amaannt)
+- [Diego Varela](https://github.com/Diego-Varela-Silva)
 - [Cintia Nunes](https://github.com/Cintiaa)
 - [Prakhar Dubey](https://github.com/Starlight3)
 - [Brenton L](https://github.com/LalondeBrenton)
