@@ -5024,6 +5024,7 @@
 - [Adithyan KV](https://github.com/Adithyan-KV)
 - [kiran-mk](https://github.com/kiranmk3331)
 - [Mehmet Baran](https://github.com/mbrn)
+- [Jason Kobuchi](https://github.com/kabocha23)
 - [Chris Palomares](https://github.com/eviljorge)
 - [Blessing Sibanda](https://github.com/banQomania)
 - [Daoud Boulad](https://github.com/Boltmerz/)
