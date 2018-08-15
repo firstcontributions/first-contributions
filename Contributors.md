@@ -9,6 +9,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
 - Pietil
+- Kamilla Dallmann
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
