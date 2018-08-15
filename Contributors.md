@@ -5204,6 +5204,7 @@
 - [Vidushi](https://github.com/vidushi04)
 - [Jacob Garcia](https://github.com/janikgar)
 - [muphi](https://github.com/muphi)
+- [João Paulo Paes](https://github.com/paesjoaopaulo)
 - [Justin Bickerstaff] (https://github.com/jmbickerstaff)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
