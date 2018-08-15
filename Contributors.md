@@ -1,5 +1,5 @@
 # Contributors
-
+- Robert Augustus
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
