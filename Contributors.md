@@ -5244,4 +5244,5 @@
 - [Zach Carciu](https://github.com/zcarciu)
 - [Alex Glaze](https://github.com/glazey132)
 - [Saif Kotwal](https://github.com/saifnsound)
+- [Jonathan Santos] (https://github.com/jsantos93)
 - [Kumar Rahul](https://github.com/dieWithYourBootsON)
