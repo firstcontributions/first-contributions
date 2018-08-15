@@ -2821,6 +2821,7 @@
 - [Matthew Scarfe](https://github.com/MattScarfe)
 - [Be?at Aranburu](https://github.com/benataranburu)
 - [Daan Schutt](https://github.com/daanskitte)
+- [Emil Carlén](https://github.com/loidsemus)
 - [Damon Clark](https//github.com/damonclark)
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
