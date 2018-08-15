@@ -1303,6 +1303,7 @@
 - [Markus (Qoutroy)](https://github.com/qoutroy)
 - [Lee Magbanua](https://github.com/leesenpai)
 - [Zach Van Uum](https://github.com/zvanuum)
+- [Akhil Garg](https://github.com/akhilgarg007)
 - [Drew Davis](https://github.com/kalaborative)
 - [Akhil Garg](https://github.com/akhilgarg007)
 - [Roy Verrips](https://github.com/rverrips)
