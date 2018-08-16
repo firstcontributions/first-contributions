@@ -12,6 +12,7 @@
 - Sarthak Singhal
 - Pietil
 - Kamilla Dallmann
+- [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
@@ -264,7 +265,7 @@
 - [Vipul bhardwaj](https://github.com/vipulbhj)
 - [Amandeep Singh](https://github.com/as1993)
 - [Neeraj Bansal](https://github.com/rio804)
-- Arthur Rocha 
+- Arthur Rocha
 - Oghenetega
 - Warren
 - [Martin Neifert](https://github.com/MartinNeifert)
