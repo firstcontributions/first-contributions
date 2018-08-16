@@ -7,6 +7,7 @@
 - [KyungJae Min](https://github.com/mnkjamie)
 - Ujjal Sharma
 - Bhavana Sudharshan
+- tsehori
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
 - Sarthak Singhal
