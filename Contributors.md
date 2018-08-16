@@ -46,6 +46,7 @@
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
 - Ananya Keshari
 - [Matan Cohen](https://github.com/comatan96)
+- [Manisha Tripayhy](https://github.com/ManishaTripathy)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
