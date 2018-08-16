@@ -1,5 +1,6 @@
 # Contributors
 
+- [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
@@ -5226,3 +5227,7 @@
 - [Rajat Rana](https://github.com/rajatrana86728)
 - [Zach Carciu](https://github.com/zcarciu)
 - [Alex Glaze](https://github.com/glazey132)
+- [Saif Kotwal](https://github.com/saifnsound)
+- [Guilherme Albuquerque](https://github.com/GuilhermeAO)
+- [Jonathan Santos](https://github.com/jsantos93)
+- [Kumar Rahul](https://github.com/dieWithYourBootsON)
