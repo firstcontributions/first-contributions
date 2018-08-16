@@ -203,6 +203,7 @@
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Anthony Bilic](https://github.com/irulenot)
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
+- [Neeson911](https://github.com/Neeson911)
 - [Getenet Wol](https://github.com/getsei)
 - [Jonas S](https://github.com/jonasstr)
 - [Kyle A](https://www.github.com/archerkg)
