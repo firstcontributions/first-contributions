@@ -36,6 +36,7 @@
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - SteveFFresno
+- [Aditya Naidu](https://github.com/aditya9509/)
 - [newOne ##](https://github.com/arthurAdinayevProjects)
 - Shubham Tyagi
 - [Anurag Roy](https://github.com/anuragroy11)
