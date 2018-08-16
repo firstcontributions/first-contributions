@@ -114,6 +114,7 @@
 - [Nukeproof21](https://github.com/Nukeproof21)
 - [Susarla Nikhilesh](https://github.com/susarlanikhilesh)
 - [ElMitch](https://github.com/ElMitch)
+- [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
 - Sushrut Raina
