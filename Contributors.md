@@ -3,11 +3,11 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
-[hemanthreddyk](https://github.com/hemanthreddyk)
-- Raihan Kabir Ratul
+- [hemanthreddyk](https://github.com/hemanthreddyk)
+- [Raihan Kabir Ratul](https://github.com/ratulKabir)
 - [KyungJae Min](https://github.com/mnkjamie)
 - Ujjal Sharma
-- Bhavana Sudharshan
+- [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
 - tsehori
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Dafny Garcia](https://github./daphnemillss)
@@ -27,7 +27,7 @@
 - [Mike Guilmette](https://github.com/mg0678)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
-- ShwethaU
+- [ShwethaU](https://github.com/kamath-shwetha)
 - [Morteza Kavakebi](https://github.com/mkavakebi)
 - [Amit Pareek](https://github.com/amit0021)
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
@@ -36,7 +36,7 @@
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - SteveFFresno
-- newOne ##
+- [newOne ##](https://github.com/arthurAdinayevProjects)
 - Shubham Tyagi
 - [Anurag Roy](https://github.com/anuragroy11)
 - alonzo church
@@ -52,12 +52,12 @@
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
-- Vinicius Vaz
+- [Vinicius Vaz](https://github.com/VinVaz)
 - Charlie Chew
 - Josh Friesen
-- juvestig
+- [juvestig](https://github.com/juvestig)
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
-- Ankita
+- [Ankita](https://github.com/Ankita3010)
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
 - [kholood Eassa](https://github.com/kholood-ea)
