@@ -3,6 +3,7 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
+[hemanthreddyk](https://github.com/hemanthreddyk)
 - Raihan Kabir Ratul
 - [KyungJae Min](https://github.com/mnkjamie)
 - Ujjal Sharma
