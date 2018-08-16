@@ -1,10 +1,10 @@
-﻿# Contributors
+# Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
-- KyungJae Min (https://github.com/mnkjamie)
+- [KyungJae Min](https://github.com/mnkjamie)
 - Ujjal Sharma
 - Bhavana Sudharshan
 - [Renata Gizzi](https://github.com/RenataGizzi)
@@ -20,7 +20,7 @@
 - [Jenny Justh](https://github.com/jennyjj)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
-- [Mike Guilmette] (https://github.com/mg0678)
+- [Mike Guilmette](https://github.com/mg0678)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - ShwethaU
@@ -47,6 +47,7 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
+- [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - Vinicius Vaz
 - Charlie Chew
 - Josh Friesen
@@ -105,7 +106,7 @@
 - [Aman Sharma](https://github.com/algomaster99/)
 - [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix)
-- [Nukeproof21](https://github.com/Nukeproof21
+- [Nukeproof21](https://github.com/Nukeproof21)
 - [Susarla Nikhilesh](https://github.com/susarlanikhilesh)
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)
@@ -323,7 +324,7 @@
 - [Adithya Menon](https://github.com/adithyamenon)
 - [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
-- [Benjamin Calvin](https://github.com/benjamincalvin
+- [Benjamin Calvin](https://github.com/benjamincalvin)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [dblankin](https://github.com/dblankin)
@@ -5208,7 +5209,6 @@
 - [Jacob Garcia](https://github.com/janikgar)
 - [muphi](https://github.com/muphi)
 - [João Paulo Paes](https://github.com/paesjoaopaulo)
-- [Justin Bickerstaff] (https://github.com/jmbickerstaff)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
 - [Vinicius de Souza Augutis](https://github.com/viniciusaugutis)
