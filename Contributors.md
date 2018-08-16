@@ -5248,3 +5248,4 @@
 - [Guilherme Albuquerque](https://github.com/GuilhermeAO)
 - [Jonathan Santos](https://github.com/jsantos93)
 - [Kumar Rahul](https://github.com/dieWithYourBootsON)
+- [Khizir Siddiqui](https://github.com/khizirsiddiqui)
