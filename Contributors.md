@@ -154,6 +154,7 @@
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
+- [Leon Merc] (https://github.com/leonmerc)
 - [Jacob Cornwell](https://github.com/jpcornwell)
 - [Ca Da](https://github.com/Camdamish)
 - [George Fang](https://github.com/fang570)
