@@ -2010,6 +2010,7 @@
 - [Olumide Okedusi](https://github.com/Lumie31)
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
+- [Richard Meadows](https://github.com/rjmead23)
 - [Gordon Hendry](https://github.com/gordyh1)
 - [Valentyn Troian](https://github.com/ValentynTroian)
 - [Lucas Sterzinger](https://github.com/lsterzinger)
