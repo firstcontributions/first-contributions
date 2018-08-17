@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
@@ -389,6 +389,7 @@
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
 - [clinton wambugu](https://github.com/kwambugu)
 - [Kunal Khanwalkar](https://github.com/Kunal-khanwalkar)
+- [Param Gupta](https://github.com/paramgupta107)
 - [aRNAS aMANKAVICIUS](HTTPS://GITHUB.COM/deemoKittyKat)
 - [Phil Smeby](https://github.com/smoothdude11)
 - [Arnas Amankavicius](https://github.com/DeemoKittyKat)
