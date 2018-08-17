@@ -466,6 +466,7 @@
 - [Helen 12agnes](https://github.com/12agnes)
 - [Kyrill Langhans](github.com/KyrillL1)
 - [Srinidhi Krishna](https://github.com/kss682)
+- [Ayush Sharma] (https://github.com/ayush-vibrant)
 - [GWCS](https://github.com/GWCS)
 - [STephen Docy](https://github.com/sdocy)
 - [Stephen Jacob](https://github.com/sjacob90)
