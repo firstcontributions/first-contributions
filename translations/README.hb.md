@@ -206,7 +206,7 @@ git push origin <add-your-branch-name>
       <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
     </tr>
     <tr>
-      <th><a href="gitkraken-tutorial.md">GitKraken</th>
+      <th><a href="gitkraken-tutorial.md">GitKraken</a></th>
       <th><a href="github-windows-vs2017-tutorial.md">Visual Studio 2017</a></th>
       <th><a href="github-desktop-tutorial.md">GitHub Desktop</a></th>
     </tr>
@@ -218,10 +218,10 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-אם אהבתם את הפרויקט הזה, תתנו לו כוכב [GitHub](https://github.com/Roshanjossey/first-contributions)
-אם אתם מרגישים נדיבים במיוחד, תעקבו אחרי [Roshan](https://roshanjossey.github.io/)
-בטוויטר, [Twitter](https://twitter.com/sudo__bangbang)
-ובגיטהב [GitHub](https://github.com/roshanjossey)
+אם אהבתם את הפרויקט הזה, תתנו לו כוכב <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>
+  אם אתם מרגישים נדיבים במיוחד, תעקבו אחרי <a href="https://roshanjossey.github.io/">Roshan</a>
+  בטוויטר, <a href="https://twitter.com/sudo__bangbang">Twitter</a>
+  ובגיטהב <a href="https://github.com/roshanjossey"> GitHub</a>
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
 </div>
