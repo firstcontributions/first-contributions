@@ -32,3 +32,4 @@
 | :uk: | [English](README.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
 | :israel: | [Hebrew](translations/README.hb.md) |
+| <span>&#x1f1f8;&#x1f1ea;</span> | [Swedish](translations/README.se.md) |
