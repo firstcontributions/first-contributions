@@ -14,6 +14,7 @@
 - Sarthak Singhal
 - Pietil
 - Kamilla Dallmann
+- [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
