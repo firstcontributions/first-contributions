@@ -126,6 +126,7 @@
 - [Jacob Bovee](http://github.com/jbovee)
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
+- [Anjali Ahuja](https://github.com/anjaliannahuja)
 - [Armando Marin](https://github.com/ArmandoMetlich)
 - [Manik Chugh](http://github.com/manikrc98)
 - [J Othniel](http://github.com/jothniel)
