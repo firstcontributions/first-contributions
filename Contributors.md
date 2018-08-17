@@ -147,6 +147,7 @@
 - Aaron Melendez
 - Rubén Aciego
 - Optimus-pri
+- [Angielf] (https://github.com/Angielf)
 - [Warren Cheng](https://github.com/et265831)
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Denis Rossi](https://github.com/denisrossi)
