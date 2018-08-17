@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
@@ -2504,6 +2504,7 @@
 - [GeekBoxIT](https://github.com/GeekBoxIT)
 - [Tyler Hines](https://github.com/thines92)
 - [Alexey Zhitnik](https://github.com/azhitnik)
+- [Aleksei Kuzmin](https://github.com/Flex73)
 - [Vishwanath Sharma](https://github.com/Vishwanath26)
 - [Tyler Hines](https://github.com/thines92)
 - [zernab1](https://github.com/zernab1)
