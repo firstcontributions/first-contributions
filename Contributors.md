@@ -1281,6 +1281,7 @@
 - [Waheeb Aghers](https://github.com/Wahe3bru)
 - [Dylan Yang](https://github.com/DylanLovesCoffee)
 - [amirulabu](https://github.com/amirulabu)
+- [Vikrant Bhopatrao](https://github.com/V-krant)
 - [Raghvendra Gupta](https://github.com/raghav9-97)
 - [Rafael Milani Barbosa](https://github.com/rafaelmilanibarbosa)
 - [Gina Hortenbach](https://github.com/hortenbach)
