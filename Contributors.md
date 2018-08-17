@@ -3042,6 +3042,7 @@
 - [Anne Lee Steele](https://github.com/aleesteele)
 - [Liran Farage](https://github.com/liranfar)
 - [Damon Shackleton](https://github.com/damon-daemon)
+- [Carolyn Goodell](https://github.com/imcarolyn)
 - [Rohit Markam](https://github.com/DarkMethod)
 - [Mohammad Maaz Khan](https://github.com/maaz92)
 - [Hugo Matus](https://github.com/hugomatus)
