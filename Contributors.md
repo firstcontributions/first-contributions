@@ -118,6 +118,7 @@
 - [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
+  Supriyo Dey	
 - Sushrut Raina
 - Johan Eriksson
 - [Neptune Cabelin](https://github.com/ncabelin)
