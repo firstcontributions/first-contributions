@@ -119,7 +119,7 @@
 - [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
-  Supriyo Dey	
+  Supriyo Dey
 - Sushrut Raina
 - Johan Eriksson
 - [Neptune Cabelin](https://github.com/ncabelin)
@@ -210,6 +210,7 @@
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
+- [Gardiner Nardini](https://github.com/gnardinigh)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
 - [Michal Pekar](https://github.com/pekac45)
 - [Jack Wu](https://github.com/jackwu413)
