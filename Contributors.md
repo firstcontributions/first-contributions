@@ -1918,6 +1918,7 @@
 - [Caio Lopes](https://github.com/caiolopes)
 - [Hussain Sakriwala](https://github.com/hussainskr)
 - [Skapunker](https://github.com/skapunker)
+- [Fabien Poulinet] (https://github.com/frpoulinet)
 - [Raja Dorji](https://github.com/raja-d)
 - [Sakshi Jain](https://github.com/sakshi7896)
 - [Decipher](https://github.com/Decipher0)
