@@ -709,6 +709,7 @@
 - [Lord Adarsh](https://github.com/adarsh-why)
 - [Roshan Jossey](https://github.com/Roshanjossey)
 - [Ray Al](https://github.com/ray4spd)
+- [Christian Brill](https://github.com/christianbrill)
 - [Ujjwal](https://github.com/uforujjwal)
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
@@ -3662,7 +3663,7 @@
 - [Austin Richardson](https://github.com/richardson3535)
 - [Hieu Lam](https://github.com/lamtrhieu)
 - [Jakub Sosnovec](https://github.com/EpicDeas)
-- aVideogamer 
+- aVideogamer
 - [Karthick Sahadevan](https://github.com/karthick121)
 - [Eli Eliyahu](https://github.com/the-profi)
 - [Nick Mistretta](https://github.com/nickmistretta9)
