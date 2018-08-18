@@ -1,6 +1,7 @@
 # Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
+- [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
