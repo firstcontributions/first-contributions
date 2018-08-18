@@ -5235,6 +5235,7 @@
 - [kachomsky](https://github.com/kachomsky)
 - [Joao Salgado](https://github.com/joao-salgado)
 - [Michele Bernini](https://github.com/mbernini)
+- [Sukhnandan Malhotra](https://github.com/SukhnandanMalhotra)
 - [Niclas Wim](https://github.com/niwim)
 - [Penny Pan](https://github.com/pennypchy)
 - [shabari jonnalagadda](https://github.com/shabari004)
