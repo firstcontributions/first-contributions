@@ -3451,6 +3451,7 @@
 - [Alex Okros](https://github.com/Okry)
 - [Durgesh Agrawal](https://github.com/durgeshra)
 - [Maya](https://github.com/thegirlfromipanema)
+- [Pedro França](https://github.com/pfranca)
 - [David Haynes](https://github.com/DavidHaynesHasGitHub)
 - [Josh](https://github.com/kiwi-koder)
 - [Callat](https://github.com/latimercaleb)
