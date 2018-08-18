@@ -98,6 +98,7 @@
 - [Cemil Oten](https://github.com/cemiloten)
 - [Leonard Woody]
 - [Mahendren S](https://github.com/smahe)
+- [lbossle](https://github.com/lbossle)
 - [Nicolas Chiaramello](https://github.com/96nico)
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Ankit Girdhar](https://github.com/ankit14136)
