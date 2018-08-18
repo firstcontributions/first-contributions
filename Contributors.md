@@ -3,6 +3,7 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
+- [Aparajit Chatterjee](https://github.com/aparajit0511)
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
