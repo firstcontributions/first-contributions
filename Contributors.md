@@ -7,6 +7,7 @@
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
 - [KyungJae Min](https://github.com/mnkjamie)
 - Ujjal Sharma
+- [Dinko Pehar](https://github.com/PinkFrojd)
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
 - tsehori
 - [Renata Gizzi](https://github.com/RenataGizzi)
