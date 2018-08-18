@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
@@ -1813,6 +1813,7 @@
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
+- [Dinara Aliyeva] (https://github.com/dinara92)
 - [Sayon Nayek](https://github.com/sayonanyek1)
 - [Arkadip Ghosh](https://github.com/arkadip10)
 - [Ekam Walia](https://github.com/EkamWalia)
