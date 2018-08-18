@@ -2,6 +2,7 @@
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
+- [Aparajit Chatterjee](https://github.com/aparajit0511)
 - [Devansh Sharma](https://github.com/devansh289)
 - Raihan Kabir Ratul
 - KyungJae Min (https://github.com/mnkjamie)
