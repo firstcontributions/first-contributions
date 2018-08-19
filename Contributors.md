@@ -8,6 +8,7 @@
 - [hemanthreddyk](https://github.com/hemanthreddyk)
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
 - [KyungJae Min](https://github.com/mnkjamie)
+- [Charikleia Niouraki](https://github.com/niouraki)
 - [Ujjal Sharma](https://github.com/ujjalstark)
 - [Dinko Pehar](https://github.com/PinkFrojd)
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
