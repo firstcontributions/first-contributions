@@ -45,6 +45,7 @@
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
+- [Devpur Developer] (https://github.com/devpur)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [SteveFFresno](https://github.com/stevef-fresno)
 - [Aditya Naidu](https://github.com/aditya9509/)
