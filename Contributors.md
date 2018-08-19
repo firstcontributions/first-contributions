@@ -58,6 +58,7 @@
 - [Matan Cohen](https://github.com/comatan96)
 - [Manisha Tripathy](https://github.com/ManishaTripathy)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- [Ryan Anstotz](https://github.com/ranstotz)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
