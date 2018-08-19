@@ -37,6 +37,7 @@
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
+- [Purusharth Verma](http://gitub.com/puru12)
 - [Morteza Kavakebi](https://github.com/mkavakebi)
 - [Amit Pareek](https://github.com/amit0021)
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
