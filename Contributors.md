@@ -22,6 +22,7 @@
 - Pietil
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
+- [James Howerton](https://github.com/thejimster82)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
