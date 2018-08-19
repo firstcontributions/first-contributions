@@ -1493,6 +1493,7 @@
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
 - [Kik Tachanok](https://github.com/tachanokkik)
+- [Sotiris Kotitsas](https://github.com/SotirisKot)
 - [Anastasios (Tasos) Beis](https://github.com/abeis)
 - [Syk Houdeib](https://github.com/Syknapse)
 - [avsingh999](https://github.com/avsingh999)
