@@ -31,4 +31,4 @@
 | :moldova: :romania: | [Limba Română](translations/README.ro.md) |
 | :uk: | [English](README.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
-| :israel: | [Hebrew](translations/README.hb.md) |
+| עברית | [Hebrew](translations/README.hb.md) |
