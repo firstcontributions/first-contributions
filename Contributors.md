@@ -1,6 +1,7 @@
 # Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
+- [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
