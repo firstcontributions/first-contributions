@@ -2434,6 +2434,7 @@
 - [Matt Jones](https://github.com/medesthai)
 - [Alberto Mart?nez](https://github.com/albermav)
 - [Eric Ochoa](https://github.com/eric8ah)
+- [Roger Lu](https://github.com/rogerlu69)
 - [Salil Shenoy](https://github.com/SalilShenoy)
 - [Steven L](https://github.com/sliw)
 - [Astrid Varga](https://github.com/AstiV)
