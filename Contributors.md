@@ -4658,6 +4658,7 @@
 - [Abhi](https://github.com/GigaBrowser690)
 - [Hemant Kumar](https://github.com/hemant659)
 - [Sean Moltaji](https://github.com/sm100)
+- [Lino Lastella] (https://github.com/linolastella)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Vasu Agrawal](https://github.com/vasuagrawal19)
