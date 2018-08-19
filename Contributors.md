@@ -222,6 +222,7 @@
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
+- [Dovydas Ciomenas](https://github.com/icouldbreathe)
 - [Gardiner Nardini](https://github.com/gnardinigh)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
 - [Michal Pekar](https://github.com/pekac45)
