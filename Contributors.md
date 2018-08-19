@@ -1,5 +1,6 @@
 # Contributors
 
+- [Thomas Bigger](https://github.com/thomasbigger584)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
