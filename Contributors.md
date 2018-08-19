@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
@@ -5294,4 +5294,5 @@
 - [A NJ] (https://github.com/adarshnj)
 - [Ng Yang Theng] (https://github.com/yangtheng)
 - Barbara
+- [Derek Lorimer] (https://github.com/DerekLorimer)
 - [Ankit Sinha] (https://github.com/ankisinha3005)
