@@ -49,6 +49,7 @@
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
+- [Kiyas](https://github.com/kiyas)
 - Ananya Keshari
 - [Matan Cohen](https://github.com/comatan96)
 - [Manisha Tripathy](https://github.com/ManishaTripathy)
