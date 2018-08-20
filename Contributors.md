@@ -172,6 +172,7 @@
 - [Richard Wang](https://github.com/richardlwang)
 - [Surya Kanigolla](https://github.com/suryavegeta123)
 - [Daniel Zhu](https://github.com/NotDachun)
+- [Vijayv](https://github.com/vijayv)
 - [Jason Bryant](https://github.com/jbryant32)
 - [Diego Murray](https://github.com/dmurr)
 - [Mahima](https://github.com/mav11)
