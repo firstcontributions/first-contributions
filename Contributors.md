@@ -329,6 +329,7 @@
 - [samneatherlin](https://github.com/sneatherlin)
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mefff](https://github.com/mefff)
+- [Alexander Vladimirov](https://github.com/AlexanderVladimirov9090)
 - [JD Bequette](https://github.com/jdbequette)
 - [jmadd](https://github.com/jmadd)
 - [M Hanzala](https://github.com/MuhammadHanzala)
@@ -5130,4 +5131,4 @@
 - [kachomsky](https://github.com/kachomsky)
 - [Joao Salgado](https://github.com/joao-salgado)
 - [Michele Bernini](https://github.com/mbernini)
-- [Niclas Wim](https://github.com/niwim) 
+- [Niclas Wim](https://github.com/niwim)
