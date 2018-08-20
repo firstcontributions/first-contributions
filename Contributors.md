@@ -22,6 +22,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - Pietil
+- [Carlos Arellano](https://github.com/carellano96/)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [James Howerton](https://github.com/thejimster82)
@@ -5331,3 +5332,4 @@ len probert
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
+
