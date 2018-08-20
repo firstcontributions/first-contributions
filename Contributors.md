@@ -53,6 +53,7 @@
 - [newOne ##](https://github.com/arthurAdinayevProjects)
 - [Shubham Tyagi](https://github.com/shubham-tyagi)
 - [Anurag Roy](https://github.com/anuragroy11)
+- [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - alonzo church
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
