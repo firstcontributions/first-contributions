@@ -1,4 +1,4 @@
-# Contributors
+ Contributors
 
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
@@ -32,6 +32,7 @@
 - [Isabelle Xu](https://github.com/xuyumi)
 - [Seton Raynor](https://github.com/setonr)
 - [Igor Antonov](https://github.com/IgorAntonov)
+- [Xamenyap](https://github.com/xamenyap)
 - [Jenny Justh](https://github.com/jennyjj)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
