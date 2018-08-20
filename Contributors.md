@@ -1204,6 +1204,7 @@ len probert
 - [Jemal Ahmedov](https://github.com/jimjja)
 - [Mary Hull](https://github.com/thegreyelephant)
 - [Rishabh Mishra](https://github.com/rishabh09)
+- [Max Kubicki](https://github.com/maximilian-k)
 - [Connor Parsons](https://github.com/southcapital)
 - [Aishwarya Chaturvedi](https://github.com/AishwaryaChat)
 - [Joost Kneepkens](https://github.com/kneepnl)
