@@ -286,6 +286,7 @@
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
+- [Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Marlo Carreon](https://github.com/mcarreon)
 - [Rahul Krishna](https://github.com/krishrahul98)
