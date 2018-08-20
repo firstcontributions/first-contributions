@@ -3353,6 +3353,7 @@ len probert
 - [Daniel Lee](https://github.comd/danielylee)
 - [Antony Natale](https://github.comd/tonytheleg)
 - [Nishant Gupt](https://github.com/NishantGupt1)
+- [Brandon Curry](https://github.com/bccurry)
 - [Jason Herold](https://github.com/JasonHerold)
 - [Bhaarat Pachori](https://github.com/Bhaarat-Pachori)
 - [Deepak Agarwal](https://github.com/cool-hack)
