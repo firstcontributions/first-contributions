@@ -17,6 +17,7 @@
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
 - [tsehori](https://github.com/tsehori)
 - [Renata Gizzi](https://github.com/RenataGizzi)
+- [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - Pietil
