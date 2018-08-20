@@ -5318,3 +5318,4 @@ len probert
 - [Prawit Boonthue](https://github.com/cantacoop)
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Stephen Under](https://github.com/stephenunder)
+- [Paola Guarasci](https://github.com/paolaguarasci)
