@@ -261,6 +261,7 @@
 - [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Sebastian Upjohn](https://github.com/supjohn)
+- [Patrick Endicott](https://github.com/EndoxgrO)
 - [Anthony Bilic](https://github.com/irulenot)
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Getenet Wol](https://github.com/getsei)
