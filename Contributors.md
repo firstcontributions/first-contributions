@@ -596,6 +596,7 @@
 - [Sugeng Sulistiyawan](https://github.com/die-coding)
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
+- [smieras](https://github.com/smieras)
 - [joel7871](https://github.com/joel7871)
 - [Shiny](https://github.com/Shine0707)
 - [Blinky Bloomberg](https://github.com/carly000)
