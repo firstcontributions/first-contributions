@@ -3038,6 +3038,7 @@ len probert
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
 - [Petio Petrov](https://github.com/petioptrv)
+- [Evil Rabbit](https://github.com/wang10517)
 - [Marvin Pollock](https://github.com/MarvinPollock)
 - [Kyle Johnson](https://github.com/PoweredByDilithium)
 - [brtrduon](https://github.com/brtrduon)
