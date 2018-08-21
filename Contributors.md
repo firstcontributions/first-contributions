@@ -11,6 +11,7 @@
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
+- [Jose Aguilar](https://github.com/joeyDevelops)
 - [KyungJae Min](https://github.com/mnkjamie)
 - [Charikleia Niouraki](https://github.com/niouraki)
 - [Ujjal Sharma](https://github.com/ujjalstark)
