@@ -45,6 +45,7 @@
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Mike Guilmette](https://github.com/mg0678)
+- [Boonpraserd Treerayapiwat](https://github.com/boonpraserd)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
