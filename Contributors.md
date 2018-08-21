@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [rockstar](https://github.com/rockstar)
 - [Lawrence Fidelino](https://github.com/lfidelino)
@@ -35,7 +35,8 @@
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
-- [Jithu Nair](https://github.com/JithuNair)
+- Jithu Nair
+- [Priyesh](https://github.com/Priyeshpandey)
 - [Isabelle Xu](https://github.com/xuyumi)
 - [Mushtaq SMB](https://github.com/mushtaq96)
 - [Seton Raynor](https://github.com/setonr)
@@ -5349,5 +5350,4 @@ len probert
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
-- [ghostgost] (https://github.com/ghostgost)
-
+- [ghostgost](https://github.com/ghostgost)
