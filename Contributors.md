@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [rockstar](https://github.com/rockstar)
 - [Lawrence Fidelino](https://github.com/lfidelino)
@@ -26,6 +26,7 @@
 - [Not Sharing My Name](https://github.com/BP-21)
 - Pietil
 - Aakash Shah
+- [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [James Howerton](https://github.com/thejimster82)
