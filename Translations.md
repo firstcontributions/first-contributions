@@ -27,9 +27,9 @@
 | 🇹🇭 | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](translations/README.gl.md) |
 | 🇵🇰 | [اردو](translations/README.ur.md) |
-| :bangladesh:| [Bangla](translations/README.bn.md) |
-| :moldova: :romania: | [Limba Română](translations/README.ro.md) |
+| 🇧🇩| [Bangla](translations/README.bn.md) |
+| 🇲🇩 🇷🇴 | [Limba Română](translations/README.ro.md) |
 | :uk: | [English](README.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
-| :israel: | [Hebrew](translations/README.hb.md) |
-| <span>&#x1f1f8;&#x1f1ea;</span> | [Swedish](translations/README.se.md) |
+| 🇮🇱 | [עברית](translations/README.hb.md) |
+| 🇸🇪 | [Swedish](translations/README.se.md) |
