@@ -1,5 +1,6 @@
-﻿ Contributors
+# Contributors
 
+- [rockstar](https://github.com/rockstar)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
@@ -52,7 +53,7 @@
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
-- [Devpur Developer] (https://github.com/devpur)
+- [Devpur Developer](https://github.com/devpur)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [SteveFFresno](https://github.com/stevef-fresno)
 - [Aditya Naidu](https://github.com/aditya9509/)
@@ -76,7 +77,7 @@
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
-- [Sankarganesh Gandhi] (https://github.com/sankarganeshgandhi)
+- [Sankarganesh Gandhi](https://github.com/sankarganeshgandhi)
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
 - [Charlie Chew](https://github.com/s120472006)
@@ -86,7 +87,7 @@
 - [Ankita](https://github.com/Ankita3010)
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
-- [Darren Greenfield] (https://github.com/umbauk)
+- [Darren Greenfield](https://github.com/umbauk)
 - [John Goure](https://github.com/johngoure)
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
@@ -1721,7 +1722,7 @@ len probert
 - [Samuel Pisa](https://github.com/samfrezza)
 - [Mikail Seremet](https://github.com/mikailseremet)
 - [Aquib Javed](https://github.com/smashingspirit67)
-- [Andrew Apostol] (https://github.com/aapos001)
+- [Andrew Apostol](https://github.com/aapos001)
 - [eikliw](https://github.com/eikliw)
 - [Mitchell Stack](https://github.com/mitchellrstack)
 - [Kumari Akanksha](https://github.com/akanksha40)
@@ -4689,7 +4690,7 @@ len probert
 - [Abhi](https://github.com/GigaBrowser690)
 - [Hemant Kumar](https://github.com/hemant659)
 - [Sean Moltaji](https://github.com/sm100)
-- [Lino Lastella] (https://github.com/linolastella)
+- [Lino Lastella](https://github.com/linolastella)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Vasu Agrawal](https://github.com/vasuagrawal19)
