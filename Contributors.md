@@ -22,6 +22,7 @@
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
 - [Sarthak Singhal](https://github.com/sarthak2007)
+- [Not Sharing My Name](https://github.com/BP-21)
 - Pietil
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
