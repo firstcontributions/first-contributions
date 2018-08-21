@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Thomas Bigger](https://github.com/thomasbigger584)
@@ -218,6 +218,7 @@
 - [Patrick Pelayo](https://github.com/ppelayo1)
 - Lionel Ortega
 - [Arun Kumar Arunachalam](https://github.com/aak211th)
+- [Hirak Adhvaryu](https://github.com/somebodyanybody)
 - [Henry Scheible](https://github.com/bubsy2103h)
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [wongsiewyuei](https://github.com/wongsiewyuei)
