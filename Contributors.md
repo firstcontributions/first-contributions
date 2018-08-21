@@ -155,6 +155,7 @@
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
+- [Ratika Bhuwalka](http://github.com/ratikabhuwalka)
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Anjali Ahuja](https://github.com/anjaliannahuja)
