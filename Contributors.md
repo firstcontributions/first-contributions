@@ -388,6 +388,7 @@
 - [Arel Clemente](https://github.com/arelC)
 - [Jae Lim](https://github.com/jaewow)
 - [Nacho Navarro](https://github.com/NachoNav)
+- [Kunal gupta](https://github.com/kunalgupta94)
 - [Rich Xu](https://github.com/richardxu100)
 - [LoveArie](https://github.com/LoveArie)
 - [Alwathiqubellah Abumaali](https://github.com/wathiqabumaali)
