@@ -28,6 +28,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
+- [Niall Moran](https://github.com/niallermoran)
 - Pietil
 - Aakash Shah
 - [Guy Zilberg](https://github.com/guyzilberg)
