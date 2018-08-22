@@ -1,5 +1,5 @@
 # Contributors
-
+- [Dougie](https://github.com/newenglandfall)
 - [rockstar](https://github.com/rockstar)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Thomas Bigger](https://github.com/thomasbigger584)
