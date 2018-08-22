@@ -32,6 +32,7 @@
 - [Niall Moran](https://github.com/niallermoran)
 - Pietil
 - Aakash Shah
+- [evanzko](https://github.com/evanzko)
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
