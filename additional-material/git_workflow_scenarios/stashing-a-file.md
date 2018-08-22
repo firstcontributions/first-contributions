@@ -1,10 +1,10 @@
 # Stashing
 
-What if you are working on a big code and suddenly you need to switch the branch from which you are currently working on to some other branch. Since the code you are writing is not completed, and you don't want to commit it either since the code has not been tested too. How to prevent this? This is what this tutorial covers.
+What if you are working on a big code and suddenly you need to switch the branch from which you are currently working on to some other branch. Since the code, is not complete, and without any tests, you probably don't want to commit it. But you cannot move to the other branch without committing the changes, Git won't let you break this flow. What do we do then? How do we prevent an unnecessary commit, while being able to jump branches? This is what this tutorial covers.
 
 ## Stashing your work
 
-Let's assume you are working on some project and made some changes with some files. Now if you run ```git status``` you can see your changes in the files.
+Let's assume you are working on a project's branch where you have changed some files. Now if you run ```git status``` you can see your changes in the files.
 
 ```
 $ git status
@@ -40,7 +40,7 @@ $ git status
 nothing to commit, working directory clean
 ```
 
-Now you can switch to any branch and do your work; your changes will be stored in the stack. To see which stashes you have stored in the stack you can use ```git stash list```:
+Now you can switch to any branch and do your work; your stashed changes are stored in form of a stack. To see which stashes you have stored in the stack you can use ```git stash list```:
 
 ```
 $ git stash list
@@ -49,7 +49,7 @@ stash@{1}: WIP on master: c264051 Revert "added file_size"
 stash@{2}: WIP on master: 21d80a5 added number to log
 ```
 
-In case you want to reapply the one you just stashed, you can use the command ```git stash apply```. By using this command you can reapply the most recent stashed file. In order to reapply any other file, you can specify it by naming it like: ```git stash apply <stash-name>```, in place of ```<stash-name>``` write the name of the stash you need to reapply.
+In case you want to re-apply the changes you just stashed, you can use the command ```git stash apply```. By using this command you can reapply the most recent stashed file. In order to reapply any other file, you can specify it by naming it like: ```git stash apply <stash-name>```, in place of ```<stash-name>``` write the name of the stash you need to reapply.
 
 ```
 $ git stash apply
@@ -62,9 +62,9 @@ $ git stash apply
 #
 ```
 
-You can see that git re-modifies the file that you uncommitted when you saved the stash. In this case, you had a clean working directory when you tried to apply the stash, and you tried to apply it on the same branch you saved it from; but having a clean working directory and applying it on the same branch aren’t necessary to successfully apply a stash. You can save a stash on one branch, switch to another branch later, and try to reapply the changes. You can also have modified and uncommitted files in your working directory when you apply a stash, git gives merge conflicts if anything no longer apply cleanly.
+You can see that git re-modifies the file that you uncommitted when you saved the stash. In this case, you had a clean working directory when you tried to apply the stash, and you tried to apply it on the same branch you saved it from; but having a clean working directory and applying it on the same branch aren’t necessary to successfully apply a stash. You can save a stash on one branch, switch to another branch later, and re-apply the changes in the new branch. You can also have modified and uncommitted files in your working directory when you apply a stash, git gives merge conflicts if anything no longer applies cleanly.
 
-The changes made to your files are reapplied, but the file you staged did not restaged. To do so you need to run the command ```git stash apply``` with a ```--index``` to tell the command to reapply the staged changes. If you have run that instead, you would have returned to your original position:
+The changes made to your files are reapplied, but the file you staged was not restaged. To do so you need to run the command ```git stash apply``` with a ```--index``` to tell the command to reapply the staged changes. If you have run that instead, you would have returned to your original position:
 
 ```
 $ git stash apply --index
@@ -92,11 +92,11 @@ $ git stash drop stash@{0}
 Dropped stash@{0} (364e91f3f268f0900bc3ee613f9f733e82aaed43)
 ```
 
-You can even use ```git stash pop``` to apply the stash and then immediately drop it from your stack.
+You can use ```git stash pop``` to un-stash the last changes drop it from your stash's stack.
 
 ## Un-applying a Stash
 
-In some cases you want to apply stashed changes, do some work, but up-apply the changes originally came from the stash. Git does not provide command like ```git unapply```, but it is possible to achieve this effect by simply retrieving the patch associated with a stash and applying it in reverse:
+In some cases you want to apply stashed changes, do some work, but up-apply the changes that originally came from the stash. Git does not provide command like ```git unapply```, but it is possible to achieve this effect by simply retrieving the patch associated with a stash and applying it in reverse:
 
 ```$ git stash show -p stash@{0} | git apply -R```
 
@@ -115,7 +115,7 @@ $ git stash-unapply
 
 ## Creating a Branch from Stash
 
-If you stash some work, leave it there for a while, and continue on the branch from which you stashed the work, you may have a problem reapplying the work. If the apply tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to try to resolve it. If you want an easier way to test the stashed changes again, you can run ```git stash branch```, which creates a new branch for you, checks out the commit you were on when you stashed your work, reapplies your work there, and then drops the stash if it applies successfully:
+If you stash some work, leave it there for a while, and continue on the branch from which you stashed the work, you may have a problem reapplying the work. If the apply tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to resolve it. If you want an easier way to test the stashed changes again, you can run ```git stash branch```, which creates a new branch for you, checks out the commit you were on when you stashed your work, reapplies your work there, and then drops the stash if it applies successfully:
 
 ```
 $ git stash branch testchanges
