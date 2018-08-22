@@ -96,6 +96,7 @@
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
 - [Charlie Chew](https://github.com/s120472006)
+- [Varun Nair](https://github.com/VarunDelft)
 - [Josh Friesen](https://github.com/joshfriesen)
 - [juvestig](https://github.com/juvestig)
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
