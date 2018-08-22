@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
 - [suresh37](https://github.com/suresh37/)
@@ -36,6 +35,7 @@
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
+- [Vero Donoso] (https://github.com/veroca88)
 - [James Howerton](https://github.com/thejimster82)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
