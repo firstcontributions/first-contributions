@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [rockstar](https://github.com/rockstar)
+- [jhonof](https://github.com/jhonof)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
