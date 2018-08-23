@@ -34,13 +34,13 @@
 - [Ross Tapson](https://github.com/rosstapson)
 - Pietil
 - Aakash Shah
-- [Cliff McCall]
+- [Cliff McCall](https://github.com/cliffmccall1)
 - [evanzko](https://github.com/evanzko)
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
-- [Vero Donoso] (https://github.com/veroca88)
+- [Vero Donoso](https://github.com/veroca88)
 - [James Howerton](https://github.com/thejimster82)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
@@ -5380,6 +5380,7 @@ len probert
 - [Barbara](https://github.com/bnibia)
 - [Derek Lorimer](https://github.com/DerekLorimer)
 - [Ankit Sinha](https://github.com/ankisinha3005)
+- [Michael Pollente](https://github.com/polykhel)
 - [Prawit Boonthue](https://github.com/cantacoop)
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Stephen Under](https://github.com/stephenunder)
