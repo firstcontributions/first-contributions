@@ -30,6 +30,7 @@
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
+- [Ross Tapson](https://github.com/rosstapson)
 - Pietil
 - Aakash Shah
 - [evanzko](https://github.com/evanzko)
