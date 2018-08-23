@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
 - [suresh37](https://github.com/suresh37/)
@@ -5338,6 +5338,7 @@ len probert
 - [Penny Pan](https://github.com/pennypchy)
 - [shabari jonnalagadda](https://github.com/shabari004)
 - [Rafael Sampy](https://github.com/rafaelsampy)
+- [Kwabena Boohene](https://github.com/KBoohene)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
 - [shabari jonnalagadda](https://github.com/shabari004)
 - [Rafael Sampy](https://github.com/rafaelsampy)
