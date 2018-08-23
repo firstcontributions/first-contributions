@@ -1407,6 +1407,7 @@ len probert
 - [savli](https://github.com/savli)
 - [Limarenko Denis](https://github.com/LimarenkoDenis)
 - [Laura Sprauer](https://github.com/laurasprauer)
+- [Gonzalo Rodríguez](https://github.com/gonzarodriguezt)
 - [Hermes Espinola](https://github.com/hermesespinola)
 - [Thirdoptics](https://github.com/Thirdoptics)
 - [Balazs Weirich](https://github.com/wbali)
