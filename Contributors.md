@@ -1871,6 +1871,7 @@ len probert
 - [Andrew Zhuravchak](https://github.com/Retsediv)
 - [2 of 5, Auxiliary Drone of Unimatrix 12](https://github.com/potherca-bot)
 - [Kai Chen](https://github.com/KaiUsesThis)
+- [Canyon Schwartz] (https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
