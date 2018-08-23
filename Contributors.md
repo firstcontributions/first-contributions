@@ -5380,6 +5380,7 @@ len probert
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
+- Dipti Butola
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
 - [Raufoon](https://github.com/Raufoon)
