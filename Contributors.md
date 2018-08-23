@@ -3414,6 +3414,7 @@ len probert
 - [James Mills](https://github.com/jfmills)
 - [Thomas McKanna](https://github.com/Thomas-McKanna)
 - [Thomas Woodley](https://github.com/TomWoodley2)
+- [Naman Attri](https://github.com/namanattri)
 - [matias](https://github.com/cuervo357)
 - [Devin Miller](https://github.com/devinbmiller)
 - [John Hong](https://github.com/Johnhong25)
