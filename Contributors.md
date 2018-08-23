@@ -1657,6 +1657,7 @@ len probert
 - [nicolopomini](https://github.com/nicolopomini)
 - [allykates](https://github.com/allykates)
 - [Christopher Martin](https://github.com/Seasick-Turtle)
+- [Kanchan Jirel](https://github.com/s344)
 - [Roy Sung](https://github.com/roysung)
 - [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
