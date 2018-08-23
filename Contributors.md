@@ -33,6 +33,7 @@
 - [Ross Tapson](https://github.com/rosstapson)
 - Pietil
 - Aakash Shah
+- [Cliff McCall]
 - [evanzko](https://github.com/evanzko)
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Guy Zilberg](https://github.com/guyzilberg)
