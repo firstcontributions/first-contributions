@@ -272,6 +272,7 @@
 - [Ty Christian](https://github.com/tchristian315)
 - [Luke Bentley-Fox](https://github.com/deusexmacchiato)
 - [Sebastian Upjohn](https://github.com/supjohn)
+- [Iury Marques](https://github.com/iurymarqs)
 - [Jace McGough](https://github.com/TangyOhio)
 - [Arthur Cavalcante Gomes Coelho](https://github.com/arthurcgc)
 - [Anthony Bilic](https://github.com/irulenot)
