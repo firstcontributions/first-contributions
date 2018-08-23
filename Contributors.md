@@ -86,6 +86,7 @@
 - [Ananya Keshari](https://github.com/ana301)
 - [Matan Cohen](https://github.com/comatan96)
 - [Manisha Tripathy](https://github.com/ManishaTripathy)
+- [Jackson Salt](https://github.com/SaltJackson)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Ryan Anstotz](https://github.com/ranstotz)
 - [Tal Sheldon](https://github.com/sheldonzy)
