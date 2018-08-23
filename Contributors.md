@@ -6,6 +6,7 @@
 - [suresh37](https://github.com/suresh37/)
 - [Peter Donovan](https://github.com/pj-donovan/)
 - [Lawrence Fidelino](https://github.com/lfidelino)
+- [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
