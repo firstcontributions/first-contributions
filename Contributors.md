@@ -4142,6 +4142,7 @@
 - [Whesley Barnard](https://github.com/whesleybarnard)
 - [JT Mark](https://github.com/JT-Mark)
 - [Jasper Chong](https://github.com/jasperchong)
+- [Yousef Saif](https://github.com/yousefsaif)
 - [Emil O. Johansen](https://github.com/EmilOJ)
 - [Doug Dozier](https://github.com/ddozier)
 - [Itanor Strapazzon](https://github.com/itanor)
