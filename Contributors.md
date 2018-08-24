@@ -46,6 +46,7 @@
 - [Vero Donoso](https://github.com/veroca88)
 - [James Howerton](https://github.com/thejimster82)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
+- [Morgan McCauley](https://github.com/morgsmccauley)
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
