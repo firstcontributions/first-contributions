@@ -2198,6 +2198,7 @@
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
 - [Poomulus](https://github.com/Poomulus)
 - [Sikander Singh](https://github.com/sikander441)
+- [Jade Dhangwattanotai](https://github.com/jadedh)
 - [Kun Peng](https://github.com/Kun17)
 - [Martin Stickley](http://github.com/chromaticranger)
 - [Juventino Romero](https://github.com/juventinoromero)
