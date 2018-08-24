@@ -5,6 +5,7 @@
 - [jhonof](https://github.com/jhonof)
 - [suresh37](https://github.com/suresh37/)
 - [Peter Donovan](https://github.com/pj-donovan/)
+- [htk25](https://github.com/htk25/)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
