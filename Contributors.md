@@ -1,4 +1,5 @@
 # Contributors
+
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [rockstar](https://github.com/rockstar)
@@ -76,7 +77,7 @@
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - [Devpur Developer](https://github.com/devpur)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
-- [Caleb Bolton] (https://github.com/AstroBolt) Wubba Lubba Dub Dub!
+- [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
 - [SteveFFresno](https://github.com/stevef-fresno)
 - [Aditya Naidu](https://github.com/aditya9509/)
 - [newOne ##](https://github.com/arthurAdinayevProjects)
@@ -928,7 +929,7 @@
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
 - [Rachit](https://github.com/iamrachitgulati)
-len probert
+  len probert
 - [joseph](https://github.com/Joseph1989)
 - [Marnix](https://github.com/MarnixDev)
 - [Maniesha Blakey](https://github.com/manieshablakey)
@@ -1390,7 +1391,7 @@ len probert
 - [Eric Bryant](https://github.com/shmickle)
 - [Jaechul Kim](https://github.com/espozbob)
 - [Erendira Garcia](https://github.com/erendira)
-- [Popsicles](https://github.com/andreas720)		)
+- [Popsicles](https://github.com/andreas720) )
 - [Ceci Tran](https://github.com/Ceciceciceci)
 - [Sakait Bhandari](https://github.com/SakaitBhandari2807)
 - [Miguel Almonte](https://github.com/miguel550)
@@ -1706,7 +1707,7 @@ len probert
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
 - [Aaron Jen](https://github.com/bugarma)
 - [Chang Shu-huai](https://github.com/junsuwhy)
-- [Louie Aroy] (https://github.com/kosenshou)
+- [Louie Aroy](https://github.com/kosenshou)
 - [Jeswin Thomas](https://github.com/Jeswin01)
 - [Adi Darmawan](https://github.com/adisiji)
 - [Abhi](https://github.com/abhi010101)
@@ -1886,7 +1887,7 @@ len probert
 - [Andrew Zhuravchak](https://github.com/Retsediv)
 - [2 of 5, Auxiliary Drone of Unimatrix 12](https://github.com/potherca-bot)
 - [Kai Chen](https://github.com/KaiUsesThis)
-- [Canyon Schwartz] (https://github.com/OneEcho)
+- [Canyon Schwartz](https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
@@ -1978,7 +1979,7 @@ len probert
 - [Sherwin Watson](https://github.com/sherwinWatson)
 - [Jose Mendoza](https://github.com/jmendozav)
 - [Gene Xu](https://github.com/genexu)
-- [Yosef Mihretie] (https://github.com/yosefmih)
+- [Yosef Mihretie](https://github.com/yosefmih)
 - [Aqsha Syahri Ramadhani](https://github.com/Nabbskuy)
 - [Kaustubh Welankar](https://github.com/kaustubh-welankar)
 - [Dilina De Silva](https://github.com/dilinadesilva)
@@ -5285,7 +5286,7 @@ len probert
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
 - [zenott](https://github.com/zenott)
-- [kclaka] (https://github.com/kclaka)
+- [kclaka](https://github.com/kclaka)
 - [Ndifreke Ekim](https://github.com/ndifreke)
 - [Will Morris](https://github.com/morriswr00)
 - [cagdassalur](https://github.com/cagdassalur)
@@ -5396,6 +5397,7 @@ len probert
 - Dipti Butola
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
+- [David Harris](https://github.com/dahveed15)
 - [Raufoon](https://github.com/Raufoon)
 - [shubham715](https://github.com/shubham715)
 - [Protocol73](https://github.com/Protocol73)
