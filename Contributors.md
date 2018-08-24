@@ -67,6 +67,7 @@
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
 - [Hunter Cote](https://github.com/hcote)
+- [Lin Zhou](https://github.com/LinZhouWebDev)
 - [Purusharth Verma](http://gitub.com/puru12)
 - [Morteza Kavakebi](https://github.com/mkavakebi)
 - [Amit Pareek](https://github.com/amit0021)
