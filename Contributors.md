@@ -138,6 +138,7 @@
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Malika Asim](https://github.com/itsvoodoochild)
 - [Melanie Mills](https://github.com/codeherlife)
+- [Katie Stutts] (https://github.com/stuttskl)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Sagar Patel](https://github.com/patelsv)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
