@@ -32,6 +32,7 @@
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
+- [Tony Chen](https//github.com/tchen98)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
