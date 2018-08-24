@@ -5395,6 +5395,7 @@
 - [Michael Pollente](https://github.com/polykhel)
 - [Prawit Boonthue](https://github.com/cantacoop)
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
+- [Kudzai V](https://github.com/kudzaidotnet)
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
 - Dipti Butola
