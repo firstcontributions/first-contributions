@@ -683,6 +683,7 @@
 - [Ryan Ouyang](https://github.com/ryan-ouyang)
 - [Dalip](https://github.com/dalip123)
 - [Gaurav Rai](https://github.com/ThinkHattke)
+- [Roald Ruiter](https://github.com/Roald87)
 - [Mintoo Kumar](https://github.com/mintoo511)
 - [Rub?n Ortiz](https://github.com/rubenortiz)
 - [Petrov Dumitru](https://github.com/dp97)
