@@ -24,6 +24,7 @@
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
+- [Mayukh Maitra](https://github.com/mayukhdeep18)
 - [Jose Aguilar](https://github.com/joeyDevelops)
 - [KyungJae Min](https://github.com/mnkjamie)
 - [youyou22222](https://github.com/youyou22222)
