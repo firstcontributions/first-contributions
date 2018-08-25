@@ -6,6 +6,7 @@
 - [jhonof](https://github.com/jhonof)
 - [suresh37](https://github.com/suresh37/)
 - [Peter Donovan](https://github.com/pj-donovan/)
+- [Jaquan Brown] (https://github.com/JayLBrown/)
 - [htk25](https://github.com/htk25/)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
