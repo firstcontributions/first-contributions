@@ -4,6 +4,7 @@
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
+- [hritikgupta](https://github.com/hritikgupta)
 - [suresh37](https://github.com/suresh37/)
 - [Peter Donovan](https://github.com/pj-donovan/)
 - [Jaquan Brown](https://github.com/JayLBrown/)
