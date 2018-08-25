@@ -32,6 +32,7 @@
 - [Dinko Pehar](https://github.com/PinkFrojd)
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
 - [tsehori](https://github.com/tsehori)
+- [vamshi aruru](https://github.com/vamshiaruru)
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
