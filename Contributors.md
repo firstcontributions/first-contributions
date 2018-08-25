@@ -126,6 +126,7 @@
 - [Ankita](https://github.com/Ankita3010)
 - Padmashantha Rajapakshe
 - [Tony Huang](https://github.com/tonyth00)
+- [Marc Isaac](https://github.com/phoenx34)
 - [Darren Greenfield](https://github.com/umbauk)
 - [John Goure](https://github.com/johngoure)
 - [kholood Eassa](https://github.com/kholood-ea)
