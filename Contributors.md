@@ -62,6 +62,7 @@
 - [Shashi Srinath](https://github.com/profghost)
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
+- [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
 - [Mushtaq SMB](https://github.com/mushtaq96)
 - [sahushivam](https://github.com/sahushivam)
