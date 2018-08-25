@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
@@ -5428,4 +5428,4 @@
 - [IIRawcodeII](https://github.com/IIRawcodeII)
 - [Ahmed Belhadj](https://github.com/ahmed-belhadj)
 - [Preetpal Kaur](https://github.com/Preetpalkaur3701)
-
+- [vizav](https://github.com/VizAV)
