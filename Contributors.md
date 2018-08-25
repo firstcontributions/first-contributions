@@ -39,6 +39,7 @@
 - [Niall Moran](https://github.com/niallermoran)
 - [Ross Tapson](https://github.com/rosstapson)
 - Pietil
+- Jose Antonio
 - Aakash Shah
 - [Cliff McCall](https://github.com/cliffmccall1)
 - [evanzko](https://github.com/evanzko)
