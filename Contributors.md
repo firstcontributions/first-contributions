@@ -149,6 +149,7 @@
 - [Jose Berrio](https://github.com/aldarisbm)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
+- [GlacierLollipop](https://github.com/glacierlollipop)
 - [Steffen Ness](https://github.com/steffenalexander)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Malika Asim](https://github.com/itsvoodoochild)
