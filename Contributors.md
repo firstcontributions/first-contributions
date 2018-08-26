@@ -9,6 +9,7 @@
 - [Peter Donovan](https://github.com/pj-donovan/)
 - [Jaquan Brown](https://github.com/JayLBrown/)
 - [Supreme Kai](https://github.com/Supreme-Kai/)
+- [Caz W](https://github.com/cazyw)
 - [htk25](https://github.com/htk25/)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
