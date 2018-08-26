@@ -4223,6 +4223,7 @@
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
 - [Andrew Juby](https://github.com/juby)
+- [Kwadwo Busumtwi](https://github.com/supasheva)
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Carolina Ceja](https://github.com/cejac)
@@ -5440,4 +5441,4 @@
 - [Mike MacDougall] (https://github.com/mgmacdougall)
 - [Vedanth Narayanan] (https://github.com/narayave)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
--
+
