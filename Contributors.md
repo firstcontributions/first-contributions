@@ -76,6 +76,7 @@
 - [Mike Guilmette](https://github.com/mg0678)
 - [Boonpraserd Treerayapiwat](https://github.com/boonpraserd)
 - [Christian Salinas](https://github.com/CTSalinas)
+- [Aaron Klapatch](https://github.com/me-of-the-present)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
 - [Hunter Cote](https://github.com/hcote)
