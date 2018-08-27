@@ -224,6 +224,7 @@
 - Hemant Mishra
 - [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
+- [Jethro Bakker](https://github.com/Jetisr)
 - [Ahsan Zaman](https://github.com/ahsanzaman)
 - Abiud Ayele
 - Aaron Melendez
