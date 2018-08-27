@@ -83,6 +83,7 @@
 - [csy0296]
 - [Elizabeth Onder](https://github.com/eonder)
 - [Mike Guilmette](https://github.com/mg0678)
+- [Alexander Mandt](https://github.com/alexmandt)
 - [Boonpraserd Treerayapiwat](https://github.com/boonpraserd)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [Aaron Klapatch](https://github.com/aklapatch)
