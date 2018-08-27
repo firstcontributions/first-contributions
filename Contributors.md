@@ -75,6 +75,7 @@
 - [Igor Antonov](https://github.com/IgorAntonov)
 - [Xamenyap](https://github.com/xamenyap)
 - [Jenny Justh](https://github.com/jennyjj)
+- [Hi Adamsu](https://github.com/hiadamsu)
 - [Nathen Rader](https://github.com/ndrader)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296]
