@@ -2,6 +2,7 @@
 
 - patrik
 - [Hiatt Zhao](https://github.com/hiattzhao)
+- [Bill Clark](https://github.com/billrobclark)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
@@ -70,7 +71,7 @@
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
-- [Kurt Neaderhiser](https://github.com/KurtN91) 
+- [Kurt Neaderhiser](https://github.com/KurtN91)
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Wendy Wang](https://github.com/wenddyywang)
