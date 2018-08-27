@@ -135,6 +135,7 @@
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - [Ankita](https://github.com/Ankita3010)
 - Padmashantha Rajapakshe
+- Lauren Rodney
 - [Tony Huang](https://github.com/tonyth00)
 - [Marc Isaac](https://github.com/phoenx34)
 - [Darren Greenfield](https://github.com/umbauk)
