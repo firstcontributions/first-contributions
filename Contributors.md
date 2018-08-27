@@ -48,6 +48,7 @@
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
 - [Ross Tapson](https://github.com/rosstapson)
+- Elliott Weeks
 - Pietil
 - Jose Antonio
 - Aakash Shah
