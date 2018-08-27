@@ -14,6 +14,7 @@
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
+- [Justin Lepiten](https://github.com/jlepiten)
 - [Gio Noa] (https://github.com/gionoa)
 - [Marouane Rassili](https://github.com/mrassili)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
