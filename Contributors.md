@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
@@ -14,6 +14,7 @@
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
+- [Gio Noa] (https://github.com/gionoa)
 - [Marouane Rassili](https://github.com/mrassili)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
