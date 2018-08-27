@@ -139,6 +139,7 @@
 - [Marc Isaac](https://github.com/phoenx34)
 - [Darren Greenfield](https://github.com/umbauk)
 - [John Goure](https://github.com/johngoure)
+- [Felix Lechleitner](https://github.com/brettljausn)
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
 - [Siva Kumar Lakkoju](https://github.com/sivakumar97)
@@ -5456,4 +5457,3 @@
 - [Vedanth Narayanan] (https://github.com/narayave)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [Shyveon] (https://github.com/Shyveon)
-
