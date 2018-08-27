@@ -72,6 +72,7 @@
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
+- [Donald Pittard][https://github.com/donaldpittard]
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Wendy Wang](https://github.com/wenddyywang)
