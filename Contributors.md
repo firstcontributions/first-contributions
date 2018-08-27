@@ -70,7 +70,7 @@
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
-- [Kurt Neaderhiser](https://github.com/KurtN91) 
+- [Kurt Neaderhiser](https://github.com/KurtN91)
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Wendy Wang](https://github.com/wenddyywang)
@@ -5466,4 +5466,4 @@
 - [Vedanth Narayanan] (https://github.com/narayave)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [Shyveon] (https://github.com/Shyveon)
-
+- [Dodgers] (https://github.com/dodgers76)
