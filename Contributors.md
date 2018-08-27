@@ -55,6 +55,7 @@
 - [Cliff McCall](https://github.com/cliffmccall1)
 - [evanzko](https://github.com/evanzko)
 - [Borislav Krastev](https://github.com/bKrystev)
+- [Attila Greguss](https://github.com/Floyd0122)
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
