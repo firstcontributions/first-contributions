@@ -5466,4 +5466,4 @@
 - [Vedanth Narayanan] (https://github.com/narayave)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [Shyveon] (https://github.com/Shyveon)
-
+- [Aleš Rakovec](https://github.com/alesrakovec)
