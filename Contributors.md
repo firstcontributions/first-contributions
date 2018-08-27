@@ -2,6 +2,7 @@
 
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
+- [Vidya Mani] (https://github.com/vidyasrimani)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
 - [hritikgupta](https://github.com/hritikgupta)
@@ -5464,4 +5465,5 @@
 - [Vedanth Narayanan] (https://github.com/narayave)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [Shyveon] (https://github.com/Shyveon)
+
 
