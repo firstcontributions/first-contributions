@@ -568,6 +568,7 @@
 - [Connor McCurrie](https://github.com/adinsxx)
 - [ankush-rawat](https://github.com/Rawkush)
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
+- [Duha Hassan](https://github.com/duha-h)
 - [Prakhar Pandey](https://github.com/prakharvk)
 - [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
