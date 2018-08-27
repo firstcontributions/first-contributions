@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - patrik
 - [Hiatt Zhao] (https://github.com/hiattzhao)
@@ -15,6 +15,7 @@
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
+- [Justin Lepiten](https://github.com/jlepiten)
 - [Gio Noa] (https://github.com/gionoa)
 - [Marouane Rassili](https://github.com/mrassili)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
@@ -67,6 +68,8 @@
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
+- [Amaka Mbah](https://github.com/devsisi)
+- [Kurt Neaderhiser](https://github.com/KurtN91) 
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Wendy Wang](https://github.com/wenddyywang)
@@ -83,6 +86,7 @@
 - [csy0296]
 - [Elizabeth Onder](https://github.com/eonder)
 - [Mike Guilmette](https://github.com/mg0678)
+- [Alexander Mandt](https://github.com/alexmandt)
 - [Boonpraserd Treerayapiwat](https://github.com/boonpraserd)
 - [Christian Salinas](https://github.com/CTSalinas)
 - [Aaron Klapatch](https://github.com/aklapatch)
@@ -94,6 +98,7 @@
 - [Morteza Kavakebi](https://github.com/mkavakebi)
 - [Amit Pareek](https://github.com/amit0021)
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
+- [Mohan Das](https://github.com/mohandast52)
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Rajesh Mainali](https://github.com/Stereoraj)
@@ -123,6 +128,7 @@
 - [Tal Sheldon](https://github.com/sheldonzy)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
+- [Nelson Almendra](https://github.com/nelsonalmendra)
 - [Akash Barve](https://github.com/AkashBarve)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
@@ -136,6 +142,7 @@
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - [Ankita](https://github.com/Ankita3010)
 - Padmashantha Rajapakshe
+- Lauren Rodney
 - [Tony Huang](https://github.com/tonyth00)
 - [Marc Isaac](https://github.com/phoenx34)
 - [Darren Greenfield](https://github.com/umbauk)
@@ -3172,6 +3179,7 @@
 - [Carl Rizk](https://github.com/carlrizk)
 - [Saiharsha B](https://github.com/thewhitewolf17)
 - [Sangwon Kim](https://github.com/sangwo)
+- [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
 - [Matt Steadman](https://github.com/mattsteadman)
