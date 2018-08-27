@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - patrik
 - [Ilkhom Safarov](https://github.com/ilhom-s)
@@ -66,6 +66,7 @@
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
+- [Amaka Mbah](https://github.com/devsisi)
 - [Kurt Neaderhiser](https://github.com/KurtN91) 
 - Jithu Nair
 - [Priyesh](https://github.com/Priyeshpandey)
