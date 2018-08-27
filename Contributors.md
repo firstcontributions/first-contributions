@@ -5426,6 +5426,7 @@
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
 - Dipti Butola
+- [James Jung](https://github.com/thejcode24)
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
