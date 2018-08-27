@@ -63,6 +63,7 @@
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Vero Donoso](https://github.com/veroca88)
 - [James Howerton](https://github.com/thejimster82)
+- [Christian Moronta](https://github.com/Poliphria)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [Morgan McCauley](https://github.com/morgsmccauley)
 - [touletan](https://github.com/touletan)
