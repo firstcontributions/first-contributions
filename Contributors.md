@@ -155,6 +155,7 @@
 - [Paulo Ricardo Kenshun Nakaima](https://github.com/guimpo)
 - [Thibault d'Aboville](https://github.com/ThibaultDBVLL)
 - Luis Fernando Robles
+- [Andy Yao] (https://github.com/atyao)
 - [Chris Page] (https://github.com/pageyboy)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
