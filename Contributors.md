@@ -50,6 +50,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Milos Stanojevic](https://github.com/IndoMisa)
 - [Tony Chen](https//github.com/tchen98)
+- [Prince](https://github.com/PrinceSharzeel)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
