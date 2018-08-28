@@ -19,6 +19,7 @@
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
+- [Jocelyn Englund](https://github.com/therealjawss)
 - [Gio Noa] (https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
 - [Marouane Rassili](https://github.com/mrassili)
