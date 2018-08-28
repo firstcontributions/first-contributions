@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - patrik
+- [Abhipsha Das](https://github.com/chiral-carbon)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
 - [Bill Clark](https://github.com/billrobclark)
