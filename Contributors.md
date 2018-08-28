@@ -4175,6 +4175,7 @@
 - [Hal DiMarchi](https://github.com/hadimarchi)
 - [Duane Shaffer](https://github.com/DuaneShaffer)
 - [njw dev](https://github.com/njwdev)
+- [Rodrigo Ali](https://github.com/ElRodrigote/)
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Jake Happersett](https://github.com/JakeHappersett)
 - [Sherin Binu](https://github.com/SherOnDale13)
