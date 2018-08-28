@@ -4,6 +4,7 @@
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
 - [Bill Clark](https://github.com/billrobclark)
+- [Scott Wickersham] (https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
