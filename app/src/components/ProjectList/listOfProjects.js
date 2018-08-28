@@ -429,7 +429,7 @@ const projectList = [
     githubLink:
       'https://github.com/qutebrowser/qutebrowser',
     description: 'A keyboard-driven, vim-like browser based on PyQt5',
-    tags: ['Python','Qt','Vim','Browser','qtWebEngine','pyqt5','web']
+    tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
   }
 
 ];
