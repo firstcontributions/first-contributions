@@ -20,6 +20,7 @@
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
 - [Jocelyn Englund](https://github.com/therealjawss)
+- [Oxana Ermolenko](https://github.com/okyska)
 - [Gio Noa] (https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
 - [Marouane Rassili](https://github.com/mrassili)
