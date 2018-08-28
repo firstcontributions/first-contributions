@@ -120,6 +120,7 @@
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - alonzo church
   Ahmed Abdulkadir
+- Toon Brinks
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
 - [Miguel Morell](https://github.com/lilMiggz)
 - [Jarrad Cisco](https://github.com/jcc5225)
