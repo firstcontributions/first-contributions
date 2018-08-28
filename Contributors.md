@@ -5476,6 +5476,7 @@
 - [Xobx CHERIF](https://github.com/xobx-cherif)
 - [Hernán Gimenez](https://github.com/hgimenez/)
 - [Daniel Bailey](https://github.com/DanielJBailey)
+- [Michael Hunt-Reyes](https://github.com/mikeb530)
 -Harini Narayanan
 - [IIRawcodeII](https://github.com/IIRawcodeII)
 - [Ahmed Belhadj](https://github.com/ahmed-belhadj)
