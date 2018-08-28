@@ -5486,4 +5486,5 @@
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
+- [Ed Graham] (https://github.com/ed-graham)
 
