@@ -2802,6 +2802,7 @@
 - [Tom Zhang](https://github.com/TomZhangg)
 - Ron Lester Crisostomo
 - [Melissa Lucas](https://github.com/mlucas2218)
+- [Will Fitch](https://github.com/WRFitch)
 - [Kyle OBrien](https://github.com/webbhostnet)
 - [Firas Omrane](https://github.com/firou1925)
 - [Dany Likoris](https://github.com/likorisd)
