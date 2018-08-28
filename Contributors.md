@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - patrik
 - [Mrinmay Mukherjee](https://github.com/devmrin)
@@ -701,6 +701,7 @@
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lasgidy Gideon](https://github.com/lasgidy)
 - [Lina Grybauskaite](https://github.com/linaou)
+- [Faizaan Sakib](https://github.com/fznsakib)
 - [Alyssa](https://github.com/rageunleashed69)
 - [Jack Sodeman](https://github.com/TICG)
 - [Hpearson](https://github.com/harrytpstudent)
