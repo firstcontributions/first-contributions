@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - patrik
 - [Abhipsha Das](https://github.com/chiral-carbon)
@@ -5439,6 +5439,7 @@
 - [Diego Varela](https://github.com/Diego-Varela-Silva)
 - [Cintia Nunes](https://github.com/Cintiaa)
 - [Prakhar Dubey](https://github.com/Starlight3)
+- [Michael Hon] (https://github.com/mhon2014)
 - [Brenton L](https://github.com/LalondeBrenton)
 - [Andrés Serna](https://github.com/andres0107)
 - [impxia](https://github.com/impxia)
