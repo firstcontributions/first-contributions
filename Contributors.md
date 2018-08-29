@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Farrell Seah](https://github.com/farrellseah)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
@@ -106,6 +106,7 @@
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296]
 - [Elizabeth Onder](https://github.com/eonder)
+- [Piyush Srivastava](https://github.com/Shdw-Cat)
 - [Mike Guilmette](https://github.com/mg0678)
 - [Alexander Mandt](https://github.com/alexmandt)
 - [Boonpraserd Treerayapiwat](https://github.com/boonpraserd)
