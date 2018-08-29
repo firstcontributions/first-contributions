@@ -2997,6 +2997,7 @@
 - [Waseem Asghar](https://github.com/waseempk)
 - [Chris Dempsey](https://github.com/cdempsey)
 - [Magda Bu](https://github.com/BukaBu)
+- [EliasRosendahl](https://github.com/EliasRosendahl)
 - [Pankaj Kumar](http://github.com/pankaj512)
 - [Doug Sauve](https://github.com/DougSauve)
 - [Govind Sharma](https://github.com/gnsharma)
