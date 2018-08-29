@@ -34,6 +34,7 @@
 - [Aparajit Chatterjee](https://github.com/aparajit0511)
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
+- [kamajeetSingh]
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
 - [Jason Halbur](https://github.com/Jsnhlbr5)
 - [Mayukh Maitra](https://github.com/mayukhdeep18)
