@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
