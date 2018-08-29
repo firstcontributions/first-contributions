@@ -697,6 +697,7 @@
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
 - [smieras](https://github.com/smieras)
+- [Jani Rantanen](https://github.com/JaniRantanen)
 - [joel7871](https://github.com/joel7871)
 - [Shiny](https://github.com/Shine0707)
 - [Blinky Bloomberg](https://github.com/carly000)
@@ -5495,6 +5496,7 @@
 - Johnstone Wahome
 - [Antwane Fowler](https://github.com/fowlerkantwane23)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
+- [Shyveon] (https://github.com/Shyveon)
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
 - [Ev] (https://github.com/Evvie)
