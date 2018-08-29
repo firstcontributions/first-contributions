@@ -487,6 +487,7 @@
 - [Zain Khan](https://github.com/gimpster05)
 - [Ephraim Harris](https://github.com/eharris91)
 - [Lian Thompson](https://github.com/lianthompson)
+- [Boahen Gyan] (https://github.com/Ohenegyan)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
 - [Ajay Neethi Kannan](https://github.com/Ajayneethikannan)
