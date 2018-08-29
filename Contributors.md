@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Farrell Seah](https://github.com/farrellseah)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
@@ -91,6 +91,7 @@
 - Jithu Nair
 - Asmin Budha
 - [Priyesh](https://github.com/Priyeshpandey)
+- [Shubham Tarade] (https://github.com/coder-shanks)
 - [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
 - [Mushtaq SMB](https://github.com/mushtaq96)
