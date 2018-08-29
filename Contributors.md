@@ -5497,6 +5497,7 @@
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
+- [Ev] (https://github.com/Evvie)
 - [Vinay Chawla] (https://github.com/vinaychawla11)
 - [Vjroby] (https://github.com/vjroby)
 - [Pranav Hundekari] (https://github.com/pranav-h)
