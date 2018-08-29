@@ -13,6 +13,7 @@
 - [Vidya Mani](https://github.com/vidyasrimani)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
+- [lancelot1337](https://github.com/lancelot1337)
 - [hritikgupta](https://github.com/hritikgupta)
 - [suresh37](https://github.com/suresh37/)
 - [Peter Donovan](https://github.com/pj-donovan/)
