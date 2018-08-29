@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - patrik
 - [Mrinmay Mukherjee](https://github.com/devmrin)
@@ -5490,4 +5490,5 @@
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
 - [Ed Graham] (https://github.com/ed-graham)
+- [Jerand Tze] (https://github.com/jerandtze)
 
