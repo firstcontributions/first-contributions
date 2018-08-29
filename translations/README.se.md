@@ -13,7 +13,7 @@ Att läsa artiklar och titta på handledningar kan så klart hjälpa men det är
 
 #### *Om du inte känner dig bekväm med kommandoraden, [så finns en vägledning här.]( #tutorials-using-other-tools )*
 
-#### *Läs detta på [andra språk](Translations.md).*
+#### *Läs detta på [andra språk](../Translations.md).*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
