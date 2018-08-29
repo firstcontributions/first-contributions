@@ -5486,6 +5486,7 @@
 - [Mike MacDougall] (https://github.com/mgmacdougall)
 - [Vedanth Narayanan] (https://github.com/narayave)
 - Johnstone Wahome
+- [Antwane Fowler](https://github.com/fowlerkantwane23)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
