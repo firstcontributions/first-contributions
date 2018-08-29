@@ -7,6 +7,7 @@
 - [Bill Clark](https://github.com/billrobclark)
 - [Scott Wickersham] (https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
+- [Vidya Mani] (https://github.com/vidyasrimani)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
 - [hritikgupta](https://github.com/hritikgupta)
