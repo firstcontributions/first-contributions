@@ -5483,7 +5483,7 @@
 - [Hernán Gimenez](https://github.com/hgimenez/)
 - [Daniel Bailey](https://github.com/DanielJBailey)
 - [Michael Hunt-Reyes](https://github.com/mikeb530)
--Harini Narayanan
+- Harini Narayanan
 - [IIRawcodeII](https://github.com/IIRawcodeII)
 - [Ahmed Belhadj](https://github.com/ahmed-belhadj)
 - [Preetpal Kaur](https://github.com/Preetpalkaur3701)
@@ -5494,6 +5494,7 @@
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
+- [Siddharth Maurya] (http://github.com/savvysiddharth)
 - [Ed Graham] (https://github.com/ed-graham)
 - [Kanishk Bansal] (https://github.com/kanishk2112)
 - [Jerand Tze] (https://github.com/jerandtze)
