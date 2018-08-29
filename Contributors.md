@@ -182,6 +182,7 @@
 - [Siva Kumar Lakkoju](https://github.com/sivakumar97)
 - [Paulo Ricardo Kenshun Nakaima](https://github.com/guimpo)
 - [Thibault d'Aboville](https://github.com/ThibaultDBVLL)
+- Mike Smith
 - Luis Fernando Robles
 - [Andy Yao](https://github.com/atyao)
 - [Chris Page](https://github.com/pageyboy)
