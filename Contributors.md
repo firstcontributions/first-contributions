@@ -88,6 +88,7 @@
 - [Donald Pittard][https://github.com/donaldpittard]
 - Jamie Davis
 - Jithu Nair
+- Asmin Budha
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
