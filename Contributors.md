@@ -5498,6 +5498,7 @@
 - Johnstone Wahome
 - [Antwane Fowler](https://github.com/fowlerkantwane23)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
+- [cngJo] (http://github.com/cngJo)
 - [Ryan Steel] (http://github.com/rsteel1)
 - [Shyveon] (https://github.com/Shyveon)
 - [MB] (https://github.com/0rthogonal)
