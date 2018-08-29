@@ -5494,5 +5494,5 @@
 - [MB] (https://github.com/0rthogonal)
 - [Shyveon] (https://github.com/Shyveon)
 - [Ed Graham] (https://github.com/ed-graham)
+- [Kanishk Bansal] (https://github.com/kanishk2112)
 - [Jerand Tze] (https://github.com/jerandtze)
-
