@@ -97,7 +97,7 @@ const projectList = [
   }, {
     name: 'Coala',
     imageSrc: 'https://avatars2.githubusercontent.com/u/10620750?v=3&s=100',
-    githubLink: 'https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer',
+    githubLink: 'https://coala.io/new',
     description: 'Unified command-line interface for linting and fixing all your code.',
     tags: ['UX', 'Linter', 'Python'],
   }, {
@@ -422,6 +422,14 @@ const projectList = [
     githubLink: 'https://github.com/allenai/allennlp',
     description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence.',
     tags: ['Artificial Intelligence','Python','NLP']
+  }
+  {
+    name: 'Qute Browser',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/21955151?s=200&v=4',
+    githubLink:
+      'https://github.com/qutebrowser/qutebrowser',
+    description: 'A keyboard-driven, vim-like browser based on PyQt5',
+    tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
   }
 
 ];
