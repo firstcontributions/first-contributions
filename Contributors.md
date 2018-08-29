@@ -1,5 +1,6 @@
 # Contributors
 
+- [Farrell Seah](https://github.com/farrellseah)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - [Abhipsha Das](https://github.com/chiral-carbon)
