@@ -3,6 +3,7 @@
 - [Farrell Seah](https://github.com/farrellseah)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
+- [Ian Sapp] (https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
