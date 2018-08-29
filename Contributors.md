@@ -57,6 +57,7 @@
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
 - [Ross Tapson](https://github.com/rosstapson)
+- [Pedro Acosta](https://github.com/Pcost8300)
 - Elliott Weeks
 - Pietil
 - Jose Antonio
