@@ -5496,6 +5496,7 @@
 - [Preetpal Kaur](https://github.com/Preetpalkaur3701)
 - [Mike MacDougall] (https://github.com/mgmacdougall)
 - [Vedanth Narayanan] (https://github.com/narayave)
+- [Saran Balaji C](https://github.com/csaranbalaji)
 - Johnstone Wahome
 - [Antwane Fowler](https://github.com/fowlerkantwane23)
 - [Neel Mani Rajput] (http://github.com/neelmani07)(26/8/18)
