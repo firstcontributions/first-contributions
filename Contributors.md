@@ -4964,6 +4964,7 @@
 - [Jai Agarwal](https://github.com/jaibhageria)
 - [RaddeKT](https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
+- [Halley Pates](https://github.com/hpates)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
 - [Jack Lim](https://github.com/thecodingjack)
