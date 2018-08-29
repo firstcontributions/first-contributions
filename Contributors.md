@@ -62,6 +62,7 @@
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
+- [Hayward Harris] (https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
 - [Tony Chen](https//github.com/tchen98)
 - [Prince](https://github.com/PrinceSharzeel)
