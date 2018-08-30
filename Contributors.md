@@ -5556,4 +5556,4 @@
 - [Abduraoof T](https://github.com/ra00f)
 - ijavap
 - [Joseph Park](https://github.com/vapor47)
-- [Lettícia Aimée](https://github.com/letticiaaimee)
+- [Lettícia Aimée](https://github.com/softwithscars)
