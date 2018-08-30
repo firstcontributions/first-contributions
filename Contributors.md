@@ -5543,4 +5543,4 @@
 - [Polina A](https://github.com/thelittlepo)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
-
+- [Gabriele Gavarini](https://github.com/vartuex)
