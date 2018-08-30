@@ -5538,4 +5538,5 @@
 - [Kanishk Bansal](https://github.com/kanishk2112)
 - [Jerand Tze](https://github.com/jerandtze)
 - [Polina A](https://github.com/thelittlepo)
+- [Event Horizon](https://github.com/evorizon)
 
