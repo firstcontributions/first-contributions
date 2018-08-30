@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Aviv Alon] (https://github.com/aalon2)
 - [Farrell Seah](https://github.com/farrellseah)
@@ -5558,3 +5558,4 @@
 - [Joseph Park](https://github.com/vapor47)
 - [Lettícia Aimée](https://github.com/softwithscars)
 - [Reinid Valarino](https://github.com/dwarflarino)
+- [Bartolome Estelrich](https://github.com/BEstelrich)
