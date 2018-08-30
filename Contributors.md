@@ -5541,6 +5541,7 @@
 - [Kanishk Bansal](https://github.com/kanishk2112)
 - [Jerand Tze](https://github.com/jerandtze)
 - [Polina A](https://github.com/thelittlepo)
+- [Pratik L](https://github.com/plade)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
 - [Lubbock](https://github.com/Lubbock)
