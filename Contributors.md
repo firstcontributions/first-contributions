@@ -454,6 +454,7 @@
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
+- [Shweta Sharma](https://github.com/ShwetaNIT)
 - [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akram Kazmi](https://github.com/akramkazmi71)
 - [Priya M V](https://github.com/priyamv22)
