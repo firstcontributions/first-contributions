@@ -5557,3 +5557,4 @@
 - ijavap
 - [Joseph Park](https://github.com/vapor47)
 - [Lettícia Aimée](https://github.com/softwithscars)
+- [Reinid Valarino](https://github.com/dwarflarino)
