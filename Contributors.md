@@ -392,6 +392,7 @@
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - Manasa Devarapalli
+- [dotChristo] (https://github.com/BusinessChris/)
 - [Piyush Singh](https://github.com/piyush-kgp)
 - [SummerPines](https://githum.com/summerpines)
 - [Oisin Quinn](https://github.com/oisinq)
