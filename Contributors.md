@@ -5358,6 +5358,7 @@
 - [Denzel Lee](https://github.com/denzeltl)
 - [RohitRaj Mishra](https://github.com/rohitrajmishra)
 - [Ian Rodney](https://github.com/ijrsvt)
+- [Nelch](https://github.com/nelch)
 - Felicia Khan
 - Usman Farooq
 - [Tomer Ben-Rachel](https://github.com/TomerPacific)
