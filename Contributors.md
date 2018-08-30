@@ -5099,6 +5099,7 @@
 - [Sid Lab](https://github.com/SidSoft)
 - [James Baxter](https://github.com/ekstasis)
 - [Emily Wilson](https://github.com/wilsonem)
+- [Lei Chen](http://github.com/grok-phantom)
 - [Cat Ireton](https://github.com/somethingtrippy)
 - [Tudor Robaciu](https://github.com/HurstOlds455)
 - [Gilberto Lopes](https://github.com/lopesgil)
