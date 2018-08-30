@@ -209,6 +209,7 @@
 - [Katie Stutts](https://github.com/stuttskl)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Sagar Patel](https://github.com/patelsv)
+- [Cole Smith](https://github.com/ColeGitHub)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
