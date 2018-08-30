@@ -5533,6 +5533,7 @@
 - [Dodgers](https://github.com/dodgers76)
 - [Siddharth Maurya](http://github.com/savvysiddharth)
 - [Ed Graham](https://github.com/ed-graham)
+- [sama](https://github.com/sama42)
 - [Kanishk Bansal](https://github.com/kanishk2112)
 - [Jerand Tze](https://github.com/jerandtze)
 - [Polina A](https://github.com/thelittlepo)
