@@ -38,6 +38,7 @@
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Gio Noa](https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
+- [Ciaran Ashton](https://github.com/CiaranAshton)
 - [Marouane Rassili](https://github.com/mrassili)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
