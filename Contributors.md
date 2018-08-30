@@ -5445,6 +5445,7 @@
 - [Michele Bernini](https://github.com/mbernini)
 - [Sukhnandan Malhotra](https://github.com/SukhnandanMalhotra)
 - [Niclas Wim](https://github.com/niwim)
+- [Usman Rafi](https://github.com/usmanrafi)
 - [Penny Pan](https://github.com/pennypchy)
 - [shabari jonnalagadda](https://github.com/shabari004)
 - [Rafael Sampy](https://github.com/rafaelsampy)
