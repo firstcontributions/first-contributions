@@ -27,6 +27,7 @@
 - [Scott Wickersham](https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [Emily Ji](https://github.com/emilyji/)
+- [Andy Kuang](https://github.com/andykuang1/)
 - [Vidya Mani](https://github.com/vidyasrimani)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
