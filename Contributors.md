@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
@@ -5570,3 +5570,4 @@
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
 - Federico Raue
+- [Dhananjai Sharma](https://github.com/devastatingdj)
