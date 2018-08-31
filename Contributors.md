@@ -175,6 +175,7 @@
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
 - [Akash Barve](https://github.com/AkashBarve)
+- Rikoudo Senin
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - [Sankarganesh Gandhi](https://github.com/sankarganeshgandhi)
