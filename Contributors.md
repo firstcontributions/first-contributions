@@ -8,6 +8,7 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - anoushka
+- [Sumit Singh] (https://github.com/sumit9696)
 - [Igor Strapko] (https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Ayush Goyal](https://github.com/ayushggoyal)
