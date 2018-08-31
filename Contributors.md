@@ -41,6 +41,7 @@
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
 - [Jocelyn Englund](https://github.com/therealjawss)
+- [Patrick Hsieh](https://github.com/HsiehPatrick)
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Gio Noa](https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
