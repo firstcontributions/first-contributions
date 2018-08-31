@@ -9,6 +9,7 @@
 - patrik
 - anoushka
 - [Sumit Singh] (https://github.com/sumit9696)
+- [daniel hemmati](https://github.com/danielhemmati)
 - [Igor Strapko] (https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Ayush Goyal](https://github.com/ayushggoyal)
