@@ -6,6 +6,7 @@
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
+- [Igor Strapko] (https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp] (https://github.com/FourthMeal128)
