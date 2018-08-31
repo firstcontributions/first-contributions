@@ -2320,6 +2320,7 @@
 - [Jennifer Ng](https://github.com/dreamng)
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
+  [Kenny Rowlands](https://github.com/krowlands4)
 - [Bjoern Baertschi](https://github.com/bisbeb)
 - [Paul No?l](https://github.com/poelon)
 - [Chris Warren](https://github.com/cwar)
@@ -5570,3 +5571,4 @@
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
 - Federico Raue
+
