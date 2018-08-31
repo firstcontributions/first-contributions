@@ -5514,6 +5514,7 @@
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
+- [Bryan Boubion](https://github.com/bjboubion)
 - [Raufoon](https://github.com/Raufoon)
 - [shubham715](https://github.com/shubham715)
 - [Protocol73](https://github.com/Protocol73)
