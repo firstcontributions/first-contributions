@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
@@ -7,6 +7,9 @@
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
+- anoushka
+- [Sumit Singh] (https://github.com/sumit9696)
+- [daniel hemmati](https://github.com/danielhemmati)
 - [Igor Strapko] (https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Ayush Goyal](https://github.com/ayushggoyal)
@@ -36,11 +39,13 @@
 - [Supreme Kai](https://github.com/Supreme-Kai/)
 - [Caz W](https://github.com/cazyw)
 - [htk25](https://github.com/htk25/)
+- [ghyun](https://github.com/gjhyun)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
 - [Jocelyn Englund](https://github.com/therealjawss)
+- [Patrick Hsieh](https://github.com/HsiehPatrick)
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Gio Noa](https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
@@ -175,6 +180,7 @@
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
 - [Akash Barve](https://github.com/AkashBarve)
+- Rikoudo Senin
 - [Avanti Prasanna](https://github.com/avantiprasanna)
 - [Rafal Cieslinski](https://github.com/Bitz3d)
 - [Sankarganesh Gandhi](https://github.com/sankarganeshgandhi)
@@ -1330,6 +1336,7 @@
 - [Ducksper](https://github.com/ducksper)
 - [Kunal Vishnoi](https://github.com/kunalvishnoi)
 - [Ankit Tiwari](https://github.com/anku255)
+- [Erik Lopez] (https://github.com/eglopez07)
 - [Renisha Christie. A](https://github.com/crisner)
 - [Anto Samalona](https://github.com/antosamalona)
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
@@ -5571,4 +5578,5 @@
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
 - Federico Raue
-
+- [Kenny Rowlands](https://github.com/krowlands4)
+- [Dhananjai Sharma](https://github.com/devastatingdj)
