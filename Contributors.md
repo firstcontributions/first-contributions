@@ -7,6 +7,7 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
+[Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp] (https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
