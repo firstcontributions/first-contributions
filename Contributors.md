@@ -5558,6 +5558,7 @@
 - [Pratik L](https://github.com/plade)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
+- [Gabriele Gavarini](https://github.com/vartuex)
 - [Lubbock](https://github.com/Lubbock)
 - [Maurice C Lofton](https://github.com/MCLofton)
 - [Abduraoof T](https://github.com/ra00f)
