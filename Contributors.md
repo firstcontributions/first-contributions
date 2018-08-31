@@ -1335,6 +1335,7 @@
 - [Ducksper](https://github.com/ducksper)
 - [Kunal Vishnoi](https://github.com/kunalvishnoi)
 - [Ankit Tiwari](https://github.com/anku255)
+- [Erik Lopez] (https://github.com/eglopez07)
 - [Renisha Christie. A](https://github.com/crisner)
 - [Anto Samalona](https://github.com/antosamalona)
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
