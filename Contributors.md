@@ -1,5 +1,6 @@
 # Contributors
 
+- [Harris Levine] (https://github.com/pynchmeister)
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Farrell Seah](https://github.com/farrellseah)
@@ -506,6 +507,7 @@
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [dblankin](https://github.com/dblankin)
+- [Divyansh Kamboj](https://github.com/agilephoenix)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
 - [Jae Lim](https://github.com/jaewow)
@@ -5584,4 +5586,5 @@
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
 - [Omari RB](https://github.com/orbville)
+- [Rajat Kanti Nandi](https://github.com/rajatkantinandi)
 - [Czeide Avanzado](https://github.com/czeideavanzado)
