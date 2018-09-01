@@ -9,6 +9,7 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - anoushka
+- [hamit taylan yuce] (https://github.com/htaylanyuce)
 - [Sumit Singh] (https://github.com/sumit9696)
 - [daniel hemmati](https://github.com/danielhemmati)
 - [Igor Strapko] (https://github.com/igorstrapko/)
@@ -798,7 +799,7 @@
 - [Ashutosh Singh](https://github.com/ashubly25)
 - [Julio Melchor](https://github.com/k4vglitcher)
 - [gipsi](https://github.com/gipsi)
-- [Abdallah Ahmad](https://github.com/AbdallahDev) 
+- [Abdallah Ahmad](https://github.com/AbdallahDev)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [Narayana Suri](https://github.com/narayanasuri)
