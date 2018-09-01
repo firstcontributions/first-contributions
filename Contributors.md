@@ -21,6 +21,7 @@
 - [Timothy](https://github.com/tdawes33)
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
+- [Klemen Benedicic] (https://github.com/CoderKlemen)
 - [Vandy Thong](https://github.com/vandythong)
 - [Michael Feninets](https://github.com/kopenhamn)
 - [Bill Clark](https://github.com/billrobclark)
