@@ -89,6 +89,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Hayward Harris] (https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
+- [Kenny Luu](https://github.com/kennyluuluu)
 - [Tony Chen](https//github.com/tchen98)
 - [Prince](https://github.com/PrinceSharzeel)
 - [Sarthak Singhal](https://github.com/sarthak2007)
