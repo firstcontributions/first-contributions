@@ -1397,6 +1397,7 @@
 - [Natalie Smith](https://github.com/natmegs)
 - [Patrick Stephens](https://github.com/patsteph)
 - [Zara Otamias](https://github.com/zotamias)
+- [Ali Rodell](https://github.com/alirodell)
 - [Jason Arnold](https://github.com/thejasonfile)
 - [Jennifer Pazos](https://github.com/jmb521)
 - [Manjunatha D](https://github.com/kalabhairava)
