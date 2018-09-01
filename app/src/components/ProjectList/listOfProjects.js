@@ -392,7 +392,7 @@ const projectList = [
     name: 'probot',
     imageSrc: 'https://avatars2.githubusercontent.com/u/26350515?s=400&v=4',
     githubLink: 'https://github.com/probot/probot',
-    description: 'Probot is a framework for building Github Apps in Node.js'.,
+    description: 'Probot is a framework for building Github Apps in Node.js',
     tags: ['Node.js','Github','Javascript']
   },
   {
@@ -422,7 +422,7 @@ const projectList = [
     githubLink: 'https://github.com/allenai/allennlp',
     description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence.',
     tags: ['Artificial Intelligence','Python','NLP']
-  }
+  },
   {
     name: 'Qute Browser',
     imageSrc: 'https://avatars1.githubusercontent.com/u/21955151?s=200&v=4',
