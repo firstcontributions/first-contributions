@@ -506,6 +506,7 @@
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
 - [dblankin](https://github.com/dblankin)
+- [Divyansh Kamboj](https://github.com/agilephoenix)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
 - [Jae Lim](https://github.com/jaewow)
