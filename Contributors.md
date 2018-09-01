@@ -1682,4 +1682,3 @@
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri] (https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
-- [Silky](https://github.com/silkypriya)
