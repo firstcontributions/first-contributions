@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
@@ -5581,3 +5581,4 @@
 - Federico Raue
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
+- [James](https://github.com/jrandj)
