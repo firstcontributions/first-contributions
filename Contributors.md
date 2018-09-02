@@ -7,6 +7,7 @@
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
+- [Utkarsh Nag](https://github.com/utkarshnag)
 - patrik
 - anoushka
 - [Somit Mittal](https://github.com/somitmittal)
