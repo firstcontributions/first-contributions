@@ -169,6 +169,7 @@
 - alonzo church
   Ahmed Abdulkadir
 - Toon Brinks
+- [Caleb Pomazon] (https://github.com/calebpomazon)
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
 - [Miguel Morell](https://github.com/lilMiggz)
 - [Jarrad Cisco](https://github.com/jcc5225)
