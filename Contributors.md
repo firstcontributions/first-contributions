@@ -136,6 +136,7 @@
 - [Nathen Rader](https://github.com/ndrader)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296]
+- [Caleb Pomazon] (https://github.com/calebpomazon)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Piyush Srivastava](https://github.com/Shdw-Cat)
 - [Mike Guilmette](https://github.com/mg0678)
