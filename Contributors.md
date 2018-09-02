@@ -1059,6 +1059,7 @@
 - [shanmuga sudan](https://github.com/ShanmugasudanVeerabahu)
 - [jokri](https://github.com/jokri)
 - [Muhsin.K](https://github.com/muhzi4u)
+- [Sagnik_Ghosh](https://github.com/Sagnik-Ghosh)
 - [Eishan Lawrence](https://github.com/eishan05)
 - [Blake](https://github.com/Blake575)
 - [Sidekick](https://github.com/KumarAmitMehta)
