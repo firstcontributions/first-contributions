@@ -9,6 +9,7 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - anoushka
+- [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
 - [Sumit Singh] (https://github.com/sumit9696)
