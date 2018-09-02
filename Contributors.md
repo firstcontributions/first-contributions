@@ -55,6 +55,7 @@
 - [Justin Lepiten](https://github.com/jlepiten)
 - [Jocelyn Englund](https://github.com/therealjawss)
 - [Patrick Hsieh](https://github.com/HsiehPatrick)
+- [Franjo Pintarić](https://github.com/unforgiven1909/)
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Gio Noa](https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
