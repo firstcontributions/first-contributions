@@ -46,6 +46,7 @@
 - [Jaquan Brown](https://github.com/JayLBrown/)
 - [Supreme Kai](https://github.com/Supreme-Kai/)
 - [Caz W](https://github.com/cazyw)
+- [landmn] (https://github.com/landmn)
 - [htk25](https://github.com/htk25/)
 - [ghyun](https://github.com/gjhyun)
 - [Lawrence Fidelino](https://github.com/lfidelino)
