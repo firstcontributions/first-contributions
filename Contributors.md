@@ -178,6 +178,7 @@
   Ahmed Abdulkadir
 - Toon Brinks
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
+- [Gabe Kudirka](https://github.com/itskudi)
 - [Miguel Morell](https://github.com/lilMiggz)
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
