@@ -9,7 +9,6 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - patrik
 - anoushka
-- [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
 - [Sumit Singh] (https://github.com/sumit9696)
@@ -5590,6 +5589,7 @@
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
 - Federico Raue
+- [Somit Mittal](https://github.com/somitmittal)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
