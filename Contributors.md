@@ -20,6 +20,7 @@
 - [Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp] (https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
+- [Tiffany Kyu](https://github.com/teafunnyq)
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
