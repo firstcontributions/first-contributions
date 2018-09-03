@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Harris Levine] (https://github.com/pynchmeister)
+- Surbhi Singh
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Farrell Seah](https://github.com/farrellseah)
