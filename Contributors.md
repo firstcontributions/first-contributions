@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Harris Levine] (https://github.com/pynchmeister)
 - [Aviv Alon] (https://github.com/aalon2)
@@ -24,6 +24,7 @@
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
+- [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
 - [Timothy](https://github.com/tdawes33)
 - [Epharra M](https://github.com/emendoza06)
