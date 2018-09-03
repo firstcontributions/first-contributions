@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Harris Levine] (https://github.com/pynchmeister)
 - [Aviv Alon] (https://github.com/aalon2)
@@ -13,6 +13,7 @@
 - patrik
 - anoushka
 - Aldo Paul Carranza - Hitzoft
+- [Anisha Pai]
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
