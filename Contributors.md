@@ -4009,6 +4009,7 @@
 - [Janifa Nowfal](https://github.com/JanifaMNowfal)
 - [Petr Galko](https://github.com/petr3460)
 - [Gabriel Barbosa](https://github.com/laturine)
+- [Thibaut Daniel](https://github.com/thibaut-daniel)
 - [Ryan Powers](https://github.com/rynpowers)
 - [Marc L](https://github.com/ShadowM0nkey)
 - [Korey K](https://github.com/KoreyKrauskopf)
