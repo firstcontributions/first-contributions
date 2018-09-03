@@ -2541,6 +2541,7 @@
 - [Joshua Munn](https://github.com/jams2)
 - [Alex Bonilla](https://github.com/Abonilla17)
 - [Diego Shimizu](https://github.com/dmshimizu)
+- [bokeeee](https://github.com/bokeeee)
 - [Jonathan Saysay](https://github.com/jsaysay)
 - [Grant Dellar](https://github.com/BFGD)
 - [zeldalaw](https://github.com/zeldalaw)
