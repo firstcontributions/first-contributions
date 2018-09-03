@@ -10,6 +10,7 @@
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - patrik
 - anoushka
+- Aldo Paul Carranza - Hitzoft
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
