@@ -5595,6 +5595,7 @@
 - [Pratik L](https://github.com/plade)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
+- [Kevin Manalili](https://github.com/maines-pet)
 - [Gabriele Gavarini](https://github.com/vartuex)
 - [Lubbock](https://github.com/Lubbock)
 - [Maurice C Lofton](https://github.com/MCLofton)
