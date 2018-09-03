@@ -14,6 +14,7 @@
 - anoushka
 - Aldo Paul Carranza - Hitzoft
 - [Anisha Pai]
+- [trueSherlock] (https://github.com/trueSherlock)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
