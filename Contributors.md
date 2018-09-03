@@ -7,6 +7,7 @@
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
+- [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [Rickard Lundberg](https://github.com/deerel)
 - patrik
