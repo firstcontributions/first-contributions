@@ -5024,6 +5024,7 @@
 - [Vipul Sharma](https://github.com/vipshae)
 - [Aidan Saull](https://github.com/ASaull)
 - [Helgi Helgason](https://github.com/HelgiHe)
+- [Omar Hamdan]
 - [Victor Orozco](https://github.com/metrognome1)
 - [Rocky Santiago](https://github.com/RockySantiago)
 - [Fernando Recede](https://github.com/fernandorecede)
