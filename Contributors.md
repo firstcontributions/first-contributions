@@ -32,6 +32,7 @@
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
 - [Klemen Benedicic] (https://github.com/CoderKlemen)
+- [Mishail Singh] (https://github.com/Mishail98)
 - [Vandy Thong](https://github.com/vandythong)
 - [Michael Feninets](https://github.com/kopenhamn)
 - [Bill Clark](https://github.com/billrobclark)
