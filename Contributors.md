@@ -8,6 +8,7 @@
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Utkarsh Nag](https://github.com/utkarshnag)
+- [Rickard Lundberg](https://github.com/deerel)
 - patrik
 - anoushka
 - Aldo Paul Carranza - Hitzoft
