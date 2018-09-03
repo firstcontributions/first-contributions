@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -112,7 +112,7 @@ You can safely delete your branch '<add-your-branch-name>' after the pull reques
 
 <img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
 
-If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
+If victor the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
 
 <img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
