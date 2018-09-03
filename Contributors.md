@@ -63,6 +63,7 @@
 - [Patrick Hsieh](https://github.com/HsiehPatrick)
 - [Franjo Pintarić](https://github.com/unforgiven1909/)
 - [Oxana Ermolenko](https://github.com/okyska)
+- [Tsion Adefres](https://github.com/Tsionad)
 - [Gio Noa](https://github.com/gionoa)
 - [Matt Magda](https://github.com/realgs)
 - [Ciaran Ashton](https://github.com/CiaranAshton)
