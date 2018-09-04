@@ -2364,6 +2364,7 @@
 - [Jennifer Ng](https://github.com/dreamng)
 - [Faraaz Ali](https://github.com/ArslanAAA)
 - [Harrison Hur](https://github.com/harhur)
+  [Kenny Rowlands](https://github.com/krowlands4)
 - [Bjoern Baertschi](https://github.com/bisbeb)
 - [Paul No?l](https://github.com/poelon)
 - [Chris Warren](https://github.com/cwar)
@@ -5620,6 +5621,7 @@
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
 - Federico Raue
+- [Kenny Rowlands](https://github.com/krowlands4)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
@@ -5630,6 +5632,6 @@
 - [Satya Sagar](https://github.com/satyasagar)
 - [James]((https://github.com/jrandj)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
-- [Laxmikanth Madhyastha] (https://github.com/LaxmikanthMadhyastha)
+- [Laxmikanth Madhyastha](https://github.com/LaxmikanthMadhyastha)
 - [Cam Deatherage](https://github.com/ctd1077)
 - [Andri Ramdan](https://github.com/andrimramdan)
