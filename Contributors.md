@@ -2,6 +2,7 @@
 
 - [Aviv Alon](https://github.com/aalon2)
 - [Harris Levine] (https://github.com/pynchmeister)
+- [Shawn Pang] (https://github.com/CometS1)
 - Surbhi Singh
 - [Dontavious Sanders] (https://github.com/sanddc318)
 - [Joe Toh Djojo] (https://github.com/joseph-tohdjojo)
