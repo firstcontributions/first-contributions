@@ -14,6 +14,7 @@
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
+- A.Lau
 - [Rickard Lundberg](https://github.com/deerel)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [J. Nathan Allen](https://github.com/nateonmission)
