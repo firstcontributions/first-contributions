@@ -64,6 +64,7 @@
 - [htk25](https://github.com/htk25/)
 - [ghyun](https://github.com/gjhyun)
 - [Lawrence Fidelino](https://github.com/lfidelino)
+- [rroche](https://github.com/rrocheec)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
@@ -191,6 +192,7 @@
 - [Anurag Roy](https://github.com/anuragroy11)
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - [Shubham Pampattiwar](https://github.com/shubhamself7)
+- 
 - alonzo church
   Ahmed Abdulkadir
 - Toon Brinks
