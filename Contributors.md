@@ -5614,6 +5614,7 @@
 - [Jerand Tze](https://github.com/jerandtze)
 - [Polina A](https://github.com/thelittlepo)
 - [Pratik L](https://github.com/plade)
+- [Ma C] (https://github.com/mcohen30)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
 - [Kevin Manalili](https://github.com/maines-pet)
