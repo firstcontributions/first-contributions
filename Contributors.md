@@ -14,6 +14,7 @@
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [Rickard Lundberg](https://github.com/deerel)
+- [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - patrik
 - anoushka
 - Aldo Paul Carranza - Hitzoft
