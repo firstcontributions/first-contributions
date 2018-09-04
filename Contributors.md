@@ -127,6 +127,7 @@
 - [Ramesh](https://github.com/rameshnayak100)
 - Aakash Shah
 - [Cliff McCall](https://github.com/cliffmccall1)
+  [Morioka](https://github.com/OthankQ)
 - [evanzko](https://github.com/evanzko)
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Attila Greguss](https://github.com/Floyd0122)
@@ -194,7 +195,7 @@
 - [Anurag Roy](https://github.com/anuragroy11)
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - [Shubham Pampattiwar](https://github.com/shubhamself7)
-- 
+-
 - alonzo church
   Ahmed Abdulkadir
 - Toon Brinks
