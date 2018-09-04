@@ -3,6 +3,7 @@
 
 - [Harris Levine] (https://github.com/pynchmeister)
 - Surbhi Singh
+- [Dontavious Sanders] (https://github.com/sanddc318)
 - [Joe Toh Djojo] (https://github.com/joseph-tohdjojo)
 - [Aviv Alon] (https://github.com/aalon2)
 - [Artur Pieluszczak](https://github.com/pieluart)
