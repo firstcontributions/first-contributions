@@ -16,6 +16,7 @@
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
+- [J. Nathan Allen](https://github.com/nateonmission)
 - patrik
 - anoushka
 - Aldo Paul Carranza - Hitzoft
