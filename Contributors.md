@@ -23,6 +23,7 @@
 - anoushka
 - Aldo Paul Carranza - Hitzoft
 - [Anisha Pai]
+- [ivonetafe] (https://github.com/ivonetafe/)
 - [trueSherlock] (https://github.com/trueSherlock)
 - [Crossy2804] (https://github.com/Crossy2804)
 - [Somit Mittal](https://github.com/somitmittal)
