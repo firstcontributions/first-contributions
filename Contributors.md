@@ -24,6 +24,7 @@
 - anoushka
 - Aldo Paul Carranza - Hitzoft
 - [Anisha Pai]
+- [Adrian Mark Perea](https://github.com/adrianmarkperea)
 - [ivonetafe] (https://github.com/ivonetafe/)
 - [trueSherlock] (https://github.com/trueSherlock)
 - [Crossy2804] (https://github.com/Crossy2804)
