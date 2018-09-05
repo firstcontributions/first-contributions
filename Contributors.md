@@ -265,6 +265,7 @@
 - [Masih Tamsoy](https://github.com/masihtamsoy)
 - [Jose Berrio](https://github.com/aldarisbm)
 - [Sheetal](https://github.com/sheetalpsl)
+- [Ectras](https://github.com/Ectras)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [GlacierLollipop](https://github.com/glacierlollipop)
 - [Steffen Ness](https://github.com/steffenalexander)
