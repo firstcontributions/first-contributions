@@ -19,6 +19,7 @@
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
+- [Ryan Slager] (https://github.com/RyanSlager)
 - [J. Nathan Allen](https://github.com/nateonmission)
 - [Sebas Duranona)(https://github.com/SebasDuranona)
 - patrik
