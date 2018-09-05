@@ -5568,3 +5568,4 @@
 - [Lettícia Aimée](https://github.com/softwithscars)
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
+- [Igor Strapko](https://github.com/igorstrapko)
