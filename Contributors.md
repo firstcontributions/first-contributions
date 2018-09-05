@@ -20,6 +20,7 @@
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [J. Nathan Allen](https://github.com/nateonmission)
 - patrik
+- [Mamdouh Almutairi](https://github.com/MamdouhA)
 - anoushka
 - Aldo Paul Carranza - Hitzoft
 - [Anisha Pai]
