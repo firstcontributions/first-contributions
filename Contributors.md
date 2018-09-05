@@ -81,6 +81,7 @@
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Tsion Adefres](https://github.com/Tsionad)
 - [Gio Noa](https://github.com/gionoa)
+- [weizheng xing](https://github.com/meilier)
 - [Matt Magda](https://github.com/realgs)
 - [Ciaran Ashton](https://github.com/CiaranAshton)
 - [Marouane Rassili](https://github.com/mrassili)
