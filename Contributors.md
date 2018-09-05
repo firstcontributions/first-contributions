@@ -61,6 +61,7 @@
 - [lancelot1337](https://github.com/lancelot1337)
 - [hritikgupta](https://github.com/hritikgupta)
 - [suresh37](https://github.com/suresh37/)
+- [Oscar Flores](https://github.com/ojflores)
 - [Peter Donovan](https://github.com/pj-donovan/)
 - [Jaquan Brown](https://github.com/JayLBrown/)
 - [Supreme Kai](https://github.com/Supreme-Kai/)
