@@ -41,6 +41,7 @@
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
+- [Cedric Bonaudo](https://github.com/cbonaudo)
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
 - [Timothy](https://github.com/tdawes33)
