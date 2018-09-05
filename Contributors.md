@@ -280,6 +280,7 @@
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Nibraas Khan](https://github.com/nibraaska)
 - [Andrew Albert](https://github.com/andyalbert)
+- [Jon-Luke Willemsen](https://github.com/jonlukewtafe)
 - [Maqor](https://github.com/maqor)
 - [Humayun Tanwar](https://github.com/humayuntanwar)
 - [Cemil Oten](https://github.com/cemiloten)
