@@ -4205,6 +4205,7 @@
 - [Vani Sancheti](https://github.com/vanisancheti)
 - [Mark Wentworth](https://github.com/MarkWent)
 - [James Martin](https://github.com/jkekoamartin)
+- [Shashwat Patel](https://github.com/shashwatjay)
 - [Muhammad Kamal](https://github.com/mkamalkayani)
 - [Matt Lucrida](https://github.com/mlucrida)
 - [Sam Barranco](https://github.com/openloop)
