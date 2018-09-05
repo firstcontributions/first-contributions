@@ -298,6 +298,7 @@
 - [Mahendren S](https://github.com/smahe)
 - [lbossle](https://github.com/lbossle)
 - [Nicolas Chiaramello](https://github.com/96nico)
+- [bkahloon] (https://github.com/bkahloon)
 - [Ankit Verma](https://github.com/ankitverma31)
 - [Ankit Girdhar](https://github.com/ankit14136)
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
@@ -5331,6 +5332,7 @@
 - [Sabique Ahmed Khan](https://github.com/sabique)
 - [Scott Shriver](https://github.com/sshriver)
 - [Laura Tremblay](https://github.com/lauratremblay)
+-
 - [Lachlan F](https://github.com/greenfur05/)
 - [Vishnu Chandrappan](http://github.com/vishnuchandrappan)
 - [Codius Nomadus](http://github.com/thecodenomad)
