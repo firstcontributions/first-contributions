@@ -2282,6 +2282,7 @@
 - [Jeremy Kepf](https://github.com/Khepf)
 - wsong
 - [Jack McCutcheon](https://github.com/JackMac2904)
+- [Hassen Morad](https://github.com/hassenmorad)
 - [qmlowery](https://github.com/qmlowery)
 - [Eyal Mendel](https://github.com/eyalmendel)
 - [Simran Kohli](https://github.com/simran0807)
