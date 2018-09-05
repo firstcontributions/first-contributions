@@ -24,6 +24,7 @@
 - Aldo Paul Carranza - Hitzoft
 - [Anisha Pai]
 - [trueSherlock] (https://github.com/trueSherlock)
+- [Crossy2804] (https://github.com/Crossy2804)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
