@@ -320,6 +320,7 @@
 - [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
 - [nini faroux](https://github.com/nini-faroux)
+- [zopad](https://github.com/zopad)
 - [Supriyo Dey](https://github.com/supriyodey)
 - [Sushrut Raina](https://github.com/sushrut-raina)
 - [Johan Eriksson](https://github.com/jcer)
