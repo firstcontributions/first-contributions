@@ -19,6 +19,7 @@
 - [Rickard Lundberg](https://github.com/deerel)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [J. Nathan Allen](https://github.com/nateonmission)
+- [Sebas Duranona)(https://github.com/SebasDuranona)
 - patrik
 - [Mamdouh Almutairi](https://github.com/MamdouhA)
 - anoushka
