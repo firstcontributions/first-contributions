@@ -4,7 +4,7 @@
 - [Harris Levine] (https://github.com/pynchmeister)
 - [Shawn Pang] (https://github.com/CometS1)
 - Surbhi Singh
-- [Dontavious Sanders] (https://github.com/sanddc318)
+56
 - [Joe Toh Djojo] (https://github.com/joseph-tohdjojo)
 - [Aviv Alon] (https://github.com/aalon2)
 - [Ashley Sherwood] (https://github.com/AshleyMSherwood)
@@ -564,6 +564,7 @@
 - [Divyansh Kamboj](https://github.com/agilephoenix)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
+- [Collin Smith](https://github.com/crsmi)
 - [Jae Lim](https://github.com/jaewow)
 - [Nacho Navarro](https://github.com/NachoNav)
 - [Kunal gupta](https://github.com/kunalgupta94)
