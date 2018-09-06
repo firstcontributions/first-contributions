@@ -1,7 +1,8 @@
 ﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
-- Rafia Anwar
+- [Marco Nascimento Jr](https://github.com/MarcoNasc)
+- [Rafia Anwar](https://github.com/rafia95)
 - [Aviv Alon](https://github.com/aalon2)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Shawn Pang](https://github.com/CometS1)
