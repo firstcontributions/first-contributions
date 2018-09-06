@@ -3,7 +3,7 @@
 
 # Перший внесок
 
-Це важко. Це завжди важко, коли ви робите щось вперше. Особливо, коли ви працюєте над проектом з кимось, помикли будуть вдвічі неприємнішими. Але Open Source завжди пов’язаний з колективною роботою. Ми хочемо спростити шлях для початківців, які бажають зробити свій перший внесок.
+Це важко. Це завжди важко, коли ви робите щось вперше. Особливо, коли ви працюєте над проектом з кимось, помилки будуть вдвічі неприємнішими. Але Open Source завжди пов’язаний з колективною роботою. Ми хочемо спростити шлях для початківців, які бажають зробити свій перший внесок.
 
 Можна прочитати безліч інструкцій та переглянути сотні відео, але що може бути краще, ніж спробувати зробити внесок і не зламати нічого? Ціль цього проекту надати можливість новачкам зробити їх перший внесок. Запам’ятайте: чим більше ви розслаблені, тим краще ви вчитеся. Якщо ви хочете зробити свій перший внесок, просто слідуйте простим крокам нижче. Ми обіцяємо, це буде весело!
 
@@ -117,7 +117,7 @@ git push origin master
 ```
 Зауважте, таким чином ви відправляєте зміни до віддаленого репозиторія, який був названий `origin`.
 
-Тепер я обє’днав вашу вітку `<add-your-name>` з моєю основною віткою, а ви об’єднали мою основну вітку зі свією основною віткою. Вітка, яку ви створювали для внесення змін більше не потрібна, ви можете видалити її:
+Тепер я об’єднав вашу вітку `<add-your-name>` з моєю основною віткою, а ви об’єднали мою основну вітку зі своєю основною віткою. Вітка, яку ви створювали для внесення змін більше не потрібна, ви можете видалити її:
 ```
 git branch -d <add-your-name>
 ```
@@ -130,7 +130,7 @@ git push origin --delete <add-your-name>
 ## Інструкції для інших інструментів
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
