@@ -5662,6 +5662,7 @@
 - [Gagandeep Singh](https://github.com/GSingh1994)
 - [Omari RB](https://github.com/orbville)
 - [Rajat Kanti Nandi](https://github.com/rajatkantinandi)
+- [Czeide Avanzado](https://github.com/czeideavanzado)
 - [Chamoda Pandithage](https://github.com/chamoda)
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Satya Sagar](https://github.com/satyasagar)
