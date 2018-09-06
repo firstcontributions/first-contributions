@@ -5656,6 +5656,7 @@
 - [Lettícia Aimée](https://github.com/softwithscars)
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
+- [Igor Strapko](https://github.com/igorstrapko)
 - [Federico Raue](https://github.com/rave78)
 - [Kenny Rowlands](https://github.com/krowlands4)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
