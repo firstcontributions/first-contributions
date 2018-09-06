@@ -4,6 +4,7 @@
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Aviv Alon](https://github.com/aalon2)
+- [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Shawn Pang](https://github.com/CometS1)
 - [Surbhi Singh](https://github.com/codegirl20)
