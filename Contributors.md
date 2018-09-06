@@ -437,6 +437,7 @@
 - [Nicolas](https://github.com/nicolasvallee)
 - Saurabh Raj
 - [Michael Thariath](https://github.com/mthariath)
+- [Alexander Sanchez](https://github.com/sancheza2389)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
@@ -780,7 +781,7 @@
 - [Ashutosh Singh](https://github.com/ashubly25)
 - [Julio Melchor](https://github.com/k4vglitcher)
 - [gipsi](https://github.com/gipsi)
-- [Abdallah Ahmad](https://github.com/AbdallahDev) 
+- [Abdallah Ahmad](https://github.com/AbdallahDev)
 - [girlzap](https://github.com/girlzap)
 - [DevMaterial](https://github.com/DevMaterial)
 - [Narayana Suri](https://github.com/narayanasuri)
