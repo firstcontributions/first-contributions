@@ -5661,7 +5661,7 @@
 - [Lubbock](https://github.com/Lubbock)
 - [Maurice C Lofton](https://github.com/MCLofton)
 - [Abduraoof T](https://github.com/ra00f)
-- ijavap
+- [ijavap](https://github.com/jacobvarghese)
 - [Joseph Park](https://github.com/vapor47)
 - [Lettícia Aimée](https://github.com/softwithscars)
 - [Reinid Valarino](https://github.com/dwarflarino)
@@ -5680,7 +5680,7 @@
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Tetra Visum](https://github.com/TetraVisum)
 - [Satya Sagar](https://github.com/satyasagar)
-- [James]((https://github.com/jrandj)
+- [James](https://github.com/jrandj)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
 - [Laxmikanth Madhyastha](https://github.com/LaxmikanthMadhyastha)
 - [Cam Deatherage](https://github.com/ctd1077)
