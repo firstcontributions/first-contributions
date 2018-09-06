@@ -1,5 +1,6 @@
 # Contributors
 
+- [Catarina Belém](https://github.com/PastelBelem8)
 - [Aviv Alon](https://github.com/aalon2)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Shawn Pang](https://github.com/CometS1)
