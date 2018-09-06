@@ -5664,6 +5664,7 @@
 - [Rajat Kanti Nandi](https://github.com/rajatkantinandi)
 - [Czeide Avanzado](https://github.com/czeideavanzado)
 - [Chamoda Pandithage](https://github.com/chamoda)
+- [Lokesh Sharma](https://github.com/konohakesh)
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Satya Sagar](https://github.com/satyasagar)
 - [James]((https://github.com/jrandj)
