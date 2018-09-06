@@ -138,6 +138,7 @@
 - [Ross Tapson](https://github.com/rosstapson)
 - [Pedro Acosta](https://github.com/Pcost8300)
 - Elliott Weeks
+- [David Buttler] (https://github.com/dwbuttler)
 - Pietil
 -TreliaGT
 - Jose Antonio
