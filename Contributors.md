@@ -5673,6 +5673,7 @@
 - [Azkar Moulana](https://github.com/azkarmoulana)
 - [Allen Worker](https://github.com/AllenWorker)
 - [Jaisurya Nanduri](https://github.com/Jaisu-1)
+- [Jimin Yook](https://github.com/sprkal129/)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
