@@ -133,7 +133,7 @@
 - [Kenny Luu](https://github.com/kennyluuluu)
 - [Tony Chen](https//github.com/tchen98)
 - [Prince](https://github.com/PrinceSharzeel)
-- [Elina Ho].(https://github.com/elinaho)
+- [Elina Ho](https://github.com/elinaho)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
@@ -164,7 +164,7 @@
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
-- [Donald Pittard][https://github.com/donaldpittard]
+- [Donald Pittard](https://github.com/donaldpittard)
 - [Jamie Davis](https://github.com/dev-jamie-davis)
 - [Jithu Nair](https://github.com/JithuNair)
 - [Asmin Budha](https://github.com/AsminBudha)
