@@ -509,6 +509,7 @@
 - [Nicolas](https://github.com/nicolasvallee)
 - Saurabh Raj
 - [Michael Thariath](https://github.com/mthariath)
+- [Jacob Smith](https://github.com/jake4mich)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
