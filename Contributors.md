@@ -1,12 +1,13 @@
 ﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
-- [Marco Nascimento Jr](https://github.com/MarcoNasc) - [Rafia Anwar]
+- [Marco Nascimento Jr](https://github.com/MarcoNasc)
+- [Rafia Anwar](https://github.com/rafia95)
 - [Aviv Alon](https://github.com/aalon2)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Shawn Pang](https://github.com/CometS1)
 - [Surbhi Singh](https://github.com/codegirl20)
-- [Dontavious Sanders](https://github.com/sanddc318)	
+- [Dontavious Sanders](https://github.com/sanddc318)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
 - [Aviv Alon](https://github.com/aalon2)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
@@ -21,6 +22,7 @@
 - [A.Lau](https://github.com/ALau2088)
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
 - [Rickard Lundberg](https://github.com/deerel)
+- [Ted W](https://github.com/tlwillke)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
 - [J. Nathan Allen](https://github.com/nateonmission)
@@ -775,6 +777,7 @@
 - [Deddy Tandean](https://github.com/Busterz)
 - [Christopher Ivanovich](https://github.com/ctivanovich/)
 - [Anuar Talipov](https://github.com/anuartb)
+- [Christopher Larsen](https://github.com/cjl0749)
 - [Quang Nguyen](https://github.com/quang2705)
 - [Sapir-Whorf](https://github.com/Sapir-Whorf)
 - [Chiara DeLucia](https://github.com/chiaramdelucia/)
