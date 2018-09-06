@@ -5666,6 +5666,7 @@
 - [Chamoda Pandithage](https://github.com/chamoda)
 - [Lokesh Sharma](https://github.com/konohakesh)
 - [Steven Kidd](https://github.com/proofskiddie)
+- [Tetra Visum](https://github.com/TetraVisum)
 - [Satya Sagar](https://github.com/satyasagar)
 - [James]((https://github.com/jrandj)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
