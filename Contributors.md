@@ -162,6 +162,7 @@
 - [Vero Donoso](https://github.com/veroca88)
 - [James Howerton](https://github.com/thejimster82)
 - [Christian Moronta](https://github.com/Poliphria)
+- [Nikhil Patel](https://github.com/nikhilpatel2021)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [Morgan McCauley](https://github.com/morgsmccauley)
 - [touletan](https://github.com/touletan)
