@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Rafia Anwar]
@@ -222,6 +222,7 @@
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
 - [Gabe Kudirka](https://github.com/itskudi)
 - [Miguel Morell](https://github.com/lilMiggz)
+- [Tanya Pulley] (https://github.com/wonntann)
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
