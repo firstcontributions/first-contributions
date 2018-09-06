@@ -8,6 +8,7 @@
 - [Joe Toh Djojo] (https://github.com/joseph-tohdjojo)
 - [Aviv Alon] (https://github.com/aalon2)
 - [Ashley Sherwood] (https://github.com/AshleyMSherwood)
+  [Amer Sohail Shaik] (https://github.com/amer-s-shaik)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
