@@ -9,6 +9,7 @@
 - [Aviv Alon] (https://github.com/aalon2)
 - [Ashley Sherwood] (https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
+- [Sonu rana](https://github.com/sonu-rana)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Prajwal Shetty](https://github.com/Prajwal041)
