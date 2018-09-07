@@ -150,6 +150,7 @@
 - [David Buttler](https://github.com/dwbuttler)
 - Pietil
 - [TreliaGT](https://github.com/TreliaGT)
+- nimish
 - [Jose Antonio](https://github.com/jkno87)
 - [Ramesh](https://github.com/rameshnayak100)
 - [Aakash Shah](https://github.com/Aakash0410)
