@@ -19,6 +19,7 @@
 - [Chris Boujoukos] (https://github.com/cboujoukos)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
+- [Jaspreet Singh ](https://github.com/JustFact)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Omer Shomrat](https://github.com/Omersho)
