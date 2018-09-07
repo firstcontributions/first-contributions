@@ -166,6 +166,7 @@
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Vero Donoso](https://github.com/veroca88)
+- [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
 - [Christian Moronta](https://github.com/Poliphria)
 - [Nikhil Patel](https://github.com/nikhilpatel2021)
