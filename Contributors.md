@@ -56,6 +56,7 @@
 - [Ian Sapp](https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Larry D'Almeida](https://github.com/larry-dalmeida)
+- [cooltiger](https://github.com/stimit)
 - [Tiffany Kyu](https://github.com/teafunnyq)
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
