@@ -41,6 +41,7 @@
 - [Crossy2804](https://github.com/Crossy2804)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
+- [Ano Newb](https://github.com/anonewb)
 - [Troy Udarbe](https://github.com/tjudarbe)
 - [hamit taylan yuce](https://github.com/htaylanyuce)
 - [Sumit Singh](https://github.com/sumit9696)
