@@ -13,6 +13,7 @@
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
+- [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Aviv Alon](https://github.com/aalon2)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
