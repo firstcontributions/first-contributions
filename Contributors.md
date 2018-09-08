@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Anchit Shukla](https://github.com/anchit1)
@@ -5727,3 +5727,4 @@ Keithan Philander
 - [Poh Ti](https://github.com/pohti)
 - [Nasrin Shirali](https://github.com/Nasrin-Shiraly)
 - [moonyl](https://github.com/moonyl)
+- [Luigi Mangione] (https://github.com/luiman3209)
