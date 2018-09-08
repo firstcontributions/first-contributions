@@ -63,6 +63,7 @@
 - [Lina Grybauskaite](https://github.com/linaou)
 - Alyssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Computer Science Major[Lab]
 - [Jack Sodeman](https://github.com/TICG)
+- [Kevin Rosenberg](https://github.com/kevsters)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 - [sudheerdarla](https://github.com/sudheerdarla)
 - [Jacurtis](https://github.com/jacurtis) DevMarketer
