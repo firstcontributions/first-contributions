@@ -3389,6 +3389,7 @@ Keithan Philander
 - [Brendan Perry](https://github.com/brendanperry05)
 - [Bradley Dong](https://github.com/newcasio)
 - [Francisco Rodrigues](https://github.com/FRodrigues21)
+- [Hadrian Valentine](https://github.com/hadrianvalentine)
 - [Mirt Suljic](https://github.com/mi5ul)
 - [Sashwat Mishra](https://github.com/sash5391)
 - [Mohan dere](https://github.com/mohandere)
