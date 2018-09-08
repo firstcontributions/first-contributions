@@ -1,8 +1,9 @@
-# Contributors
+﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Rafia Anwar](https://github.com/rafia95)
+- [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Aviv Alon](https://github.com/aalon2)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
