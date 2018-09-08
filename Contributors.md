@@ -1,6 +1,7 @@
 # Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
+- [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Sachin Singh] (https://github.com/sacsachin)
