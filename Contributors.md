@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
+- [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
