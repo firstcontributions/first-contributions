@@ -1886,7 +1886,7 @@
 - [charlesmonson](https://github.com/charlesmonson)
 - [imyrfield](https://github.com/imyrfield)
 - [melisaim](https://github.com/MelisaIm)
-- [zbelway] (https://github.com/zbelway
+- [zbelway] (https://github.com/zbelway)
 - [MacStan](https://github.com/MacStan)
 - [Dario Gabriel](https://github.com/dariogabriel113)
 - [BrumGB](https://github.com/brumgb)
