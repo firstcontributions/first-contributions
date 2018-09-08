@@ -1166,6 +1166,7 @@
 - [Hannah Zulueta](https://github.com/hanapotski)
 - [Jose Almaraz](https://github.com/lazaruspolar)
 - [Celio Paiva](https://github.com/cjuniorr)
+- [Peeyush Sharma](https://github.com/peeyushshawarma)
 - [Bogdan Manole](https://github.com/BogdanManole)
 - [Mridul tuteja](https://github.com/mridultuteja)
 - [Thadeu Cotts](https://github.com/cotts)
