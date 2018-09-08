@@ -5708,6 +5708,7 @@ Keithan Philander
 - [Satya Sagar](https://github.com/satyasagar)
 - [James](https://github.com/jrandj)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
+- [Jordan Mercado] (ttps://github.com/jmercad0)
 - [Laxmikanth Madhyastha](https://github.com/LaxmikanthMadhyastha)
 - [Cam Deatherage](https://github.com/ctd1077)
 - [Andri Ramdan](https://github.com/andrimramdan)
@@ -5728,3 +5729,4 @@ Keithan Philander
 - [Nasrin Shirali](https://github.com/Nasrin-Shiraly)
 - [moonyl](https://github.com/moonyl)
 - [Luigi Mangione] (https://github.com/luiman3209)
+
