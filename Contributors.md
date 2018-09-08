@@ -3,6 +3,7 @@
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
+- [Sachin Singh] (https://github.com/sacsachin)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Aviv Alon](https://github.com/aalon2)
