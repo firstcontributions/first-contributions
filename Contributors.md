@@ -960,6 +960,7 @@
 - [Chris Winsor](https://github.com/cwinsor)
 - [Dominic Valenciana](https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
+- [Sally Chhuon](https://github.com/sc2225)
 - [shreya bhandare](https://github.com/shreab373)
 - [Lord Adarsh](https://github.com/adarsh-why)
 - [Roshan Jossey](https://github.com/Roshanjossey)
