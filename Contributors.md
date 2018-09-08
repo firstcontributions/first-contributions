@@ -370,6 +370,7 @@
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Abubakar Sambo](https://github.com/saslamp)
 - [Shorya Agarwal](https://github.com/kinochi)
+- [Mulenga Bowa](https://github.com/mul53)
 - [Taylor Murray](https://github.com/murraytay)
 - [Christopher Tang](https://github.com/chrtang-exp)
 - Hemant Mishra
