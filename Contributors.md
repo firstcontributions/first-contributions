@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
@@ -22,6 +22,7 @@
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
+- [Robin Lashof-Regas](https://github.com/RLashofRegas)
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [A.Lau](https://github.com/ALau2088)
