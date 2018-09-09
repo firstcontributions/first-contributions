@@ -21,6 +21,7 @@
 - [Jesse Cook](https://github.com/JesseCook)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
+- [Varun Horril](https://github.com/varunhorril)
 - [Aviv Alon](https://github.com/aalon2)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
