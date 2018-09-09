@@ -982,6 +982,7 @@
 - [Ray Al](https://github.com/ray4spd)
 - [Christian Brill](https://github.com/christianbrill)
 - [Ujjwal](https://github.com/uforujjwal)
+- [Sai Rahul](https://github.com/rahulsai2341)
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
 - [Kamal Mohanan](https://github.com/kmlmhnn)
