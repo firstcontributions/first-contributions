@@ -69,7 +69,7 @@
 - [Ian Sapp](https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Larry D'Almeida](https://github.com/larry-dalmeida)
-- [Randall Jordan] (https://github.com/TsarVandall)
+- [Randall Jordan](https://github.com/TsarVandall)
 - [cooltiger](https://github.com/stimit)
 - [Tiffany Kyu](https://github.com/teafunnyq)
 - [Aaron Shivers](https://github.com/aaronshivers)
