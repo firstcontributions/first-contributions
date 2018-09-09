@@ -77,6 +77,7 @@
 - [Cedric Bonaudo](https://github.com/cbonaudo)
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
+- [Kostas Vasileiadis] (https://github.com/konsvasi)
 - [Timothy](https://github.com/tdawes33)
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
