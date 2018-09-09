@@ -30,6 +30,7 @@
 - [Paulo Ricardo Kenshun Nakaima](https://github.com/guimpo)
 - [Thibault d'Aboville](https://github.com/ThibaultDBVLL)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
+- [Evgeny Lahav](https://github.com/evgenylahav)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
 - [Boris Yordanov](https://github.com/borisyordanov)
