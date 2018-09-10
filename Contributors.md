@@ -3562,6 +3562,7 @@ Keithan Philander
 - [Rambabu Govind](https://github.com/rambabugovind)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
+- [Lavaskie Clark](https://github.com/LVSKEClark90)
 - [Noam The Great](https://github.com/DragonPie635)
 - [Divyansh Batham](https://github.com/DivyanshBatham)
 - [Vic Patel](https://github.com/vp932712)
