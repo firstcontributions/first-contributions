@@ -62,6 +62,7 @@
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [Ano Newb](https://github.com/anonewb)
 - [Juliana Cynthia](https://github.com/jaycynth)
+- [Anthony Serrano](https://github.com/aserrabi)
 - [Troy Udarbe](https://github.com/tjudarbe)
 - [hamit taylan yuce](https://github.com/htaylanyuce)
 - [Sumit Singh](https://github.com/sumit9696)
