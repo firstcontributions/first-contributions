@@ -398,6 +398,7 @@
 - [Taylor Murray](https://github.com/murraytay)
 - [Christopher Tang](https://github.com/chrtang-exp)
 - Hemant Mishra
+- [Bilal Norelden](https://github.com/BNorelden)
 - [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
 - [Jethro Bakker](https://github.com/Jetisr)
