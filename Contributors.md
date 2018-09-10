@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [James King](https://github.com/2000jcking)
@@ -84,6 +84,7 @@
 - [Cedric Bonaudo](https://github.com/cbonaudo)
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
+- [Haytham Hakim] (https://github.com/haithamhakim)
 - [Kostas Vasileiadis] (https://github.com/konsvasi)
 - [Timothy](https://github.com/tdawes33)
 - [Epharra M](https://github.com/emendoza06)
