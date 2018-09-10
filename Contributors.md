@@ -21,6 +21,7 @@
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
 - [Jesse Cook](https://github.com/JesseCook)
+- [Saraansh Tandon](https://github.com/saraansh1999)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Varun Horril](https://github.com/varunhorril)
