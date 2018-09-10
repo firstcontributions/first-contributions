@@ -2432,6 +2432,7 @@
 - [Daniel Oliveira](https://github.com/Dnlrco)
 - [Kristian Jackson](https://github.com/kjackson1509)
 - [Yash Chapani](https://github.com/yashchapani)
+- [Muhammad Farid](https://github.com/muhfred)
 - [Michael Gutman](https://github.com/michael-gutman)
 - [Valeria Sheveleva](https://github.com/l25)
 - [Chintan Parekh](https://github.com/xchintan)
