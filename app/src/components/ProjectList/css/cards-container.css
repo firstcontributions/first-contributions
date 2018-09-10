@@ -1,0 +1,8 @@
+.containerLayout{
+  background: #f7f7fc;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1vw;
+  overflow: hidden;
+}

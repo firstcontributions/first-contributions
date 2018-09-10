@@ -7,7 +7,7 @@
 
 万事起头难。特别是和其他人合作时，犯错格外令人不舒服。不过，开源的本质就是和其他人合作。我们希望为初学者带来一个简单的方法去学习及参与开源项目。
 
-阅读文章和观看教程会有所帮助。不过，有什麽方法能比，在不会弄乱任何东西的情况下，实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
+阅读文章和观看教程会有所帮助。不过，有什么方法能比实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
 
 #### *此文档的 [其他语种](../Translations.md).*
 
@@ -24,9 +24,9 @@
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-接下来，将复制後的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切版按钮（将代码仓库地址复制下来）
+接下来，将复制后的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
 
-随後打开命令行窗口，敲入如下 git 命令：
+随后打开命令行窗口，敲入如下 git 命令：
 
 ```
 git clone "刚才复制的 url 链接"
@@ -44,7 +44,7 @@ git clone https://github.com/你的Github用户名/first-contributions.git
 
 ## 新建一个分支
 
-下面的命令能在命令行窗口中，把目録切换到 first-contributions 
+下面的命令能在命令行窗口中，把目录切换到 first-contributions
 
 ```
 cd first-contributions
@@ -92,11 +92,11 @@ git push origin <分支的名称>
 
 <img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
 
-不久之後，我便会把你所有的变化合并到这个项目的主分支。更改合并後，你会收到通知电邮。
+不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
 
 ### [ 更多资料 ](../additional-material/git_workflow_senarios/additional-material.md)
 
-## 接下来做什麽呢？ 
+## 接下来做什么呢？
 
 为你第一次的贡献庆祝吧，不要忘记和你的朋友以及迷弟迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
@@ -118,4 +118,3 @@ git push origin <分支的名称>
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-

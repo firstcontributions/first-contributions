@@ -14,6 +14,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](Translations.md).*
 
+[🇮🇳](translations/README.hi.md) [🇲🇲](translations/README.mm_unicode.md) [🇮🇩](translations/README.id.md) [🇫🇷](translations/README.fr.md) [🇪🇸](translations/README.es.md) [🇳🇱](translations/README.nl.md) [🇷🇺](translations/README.ru.md) [🇯🇵](translations/README.ja.md) [🇻🇳](translations/README.vn.md) [🇵🇱](translations/README.pl.md) [🇮🇷](translations/README.fa.md) [🇮🇷](translations/README.fa.en.md) [🇰🇷 🇰🇵](translations/README.ko.md) [🇩🇪](translations/README.de.md) [🇨🇳](translations/README.chs.md) [🇹🇼](translations/README.cht.md) [🇬🇷](translations/README.gr.md) [🇺🇦](translations/README.ua.md) [🇧🇷](translations/README.pt_br.md) [🇵🇹](translations/README.pt-pt.md) [🇮🇹](translations/README.it.md) [🇹🇭](translations/README.th.md) [🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md) [🇵🇰](translations/README.ur.md) [:bangladesh:](translations/README.bn.md) [🇲🇩 🇷🇴](translations/README.ro.md) [🇹🇷](translations/README.tr.md) [🇸🇪](translations/README.se.md) [🇮🇱](translations/README.hb.md)
+
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
@@ -64,7 +66,15 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+
+
+Add those changes to the branch you just created using the `git add` command:
 
 ```
 git add Contributors.md
@@ -96,6 +106,16 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Delete the branch after pull request has been merged
+
+You can safely delete your branch `<add-your-branch-name>` after the pull request has been merged. You'll see a button to delete the branch:
+
+<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+
+If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
+
+<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
@@ -122,4 +142,4 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>

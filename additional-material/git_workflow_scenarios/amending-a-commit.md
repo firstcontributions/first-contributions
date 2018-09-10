@@ -1,6 +1,6 @@
 # Amending a Commit
 
-What if you commit a change to your remote repository only to realise later that you have a typo in the commit message or you forgot to add a line in your most recent commit.
+What if you commit a change to your remote repository only to realize later that you have a typo in the commit message or you forgot to add a line in your most recent commit.
 How do you edit that? This is what this tutorial covers.
 
 ## Changing a recent commit message after you have pushed to Github.
@@ -40,9 +40,9 @@ To achieve this, we would do the following:
 Usually after adding files to the staging area, the next thing we do is git commit -m "our commit message" right?
 But since what we want to achieve here is to amend the previous commit, we would instead run:
 
-* ```git commit --ammend```
+* ```git commit --amend```
  This would then bring up the text editor and prompt you to edit the message. You can decide to leave the message as it was before or change it.
 * Exit the editor
-* Push your changes with ```git push origin <branch-name```
+* Push your changes with `` `git push origin <branch-name>` ``
 
 That way, both changes would be in one single commit.

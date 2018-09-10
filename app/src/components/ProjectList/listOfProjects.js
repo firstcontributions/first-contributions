@@ -97,7 +97,7 @@ const projectList = [
   }, {
     name: 'Coala',
     imageSrc: 'https://avatars2.githubusercontent.com/u/10620750?v=3&s=100',
-    githubLink: 'https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer',
+    githubLink: 'https://coala.io/new',
     description: 'Unified command-line interface for linting and fixing all your code.',
     tags: ['UX', 'Linter', 'Python'],
   }, {
@@ -387,8 +387,50 @@ const projectList = [
     description: 'A collection of lints to catch common mistakes and improve your Rust code.',
     tags: ['Rust','Compiler','Parser','Mentors'
     ]
+  },
+  {
+    name: 'probot',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/26350515?s=400&v=4',
+    githubLink: 'https://github.com/probot/probot',
+    description: 'Probot is a framework for building Github Apps in Node.js',
+    tags: ['Node.js','Github','Javascript']
+  },
+  {
+    name: 'Open Data Kit',
+    imageSrc: 'https://opendatakit.org/assets/images/logo.png',
+    githubLink: 'https://github.com/opendatakit',
+    description: 'Free and open-source set of tools for collecting data in challenging environments.',
+    tags: ['Open Source','Software','JAVA', 'Android']
+  },
+  {
+    name: 'Sugar Labs',
+    imageSrc: 'https://avatars3.githubusercontent.com/u/3996398?s=280&v=4',
+    githubLink: 'https://github.com/sugarlabs',
+    description: 'Learning Software for children.',
+    tags: ['Ubuntu','Rasberry Pi','Debian','Fedora']
+  },
+  {
+    name: 'Jupyter Hub',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/17927519?s=400&v=4',
+    githubLink: 'https://github.com/jupyterhub/jupyterhub',
+    description: 'A multi-user Hub, spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.',
+    tags: ['Proxy Server','Python','REST API']
+  },
+  {
+    name: 'Allenai',
+    imageSrc: 'https://news.cs.washington.edu/wp-content/uploads/2015/10/AI2-logo-300x300.png',
+    githubLink: 'https://github.com/allenai/allennlp',
+    description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence.',
+    tags: ['Artificial Intelligence','Python','NLP']
+  },
+  {
+    name: 'Qute Browser',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/21955151?s=200&v=4',
+    githubLink:
+      'https://github.com/qutebrowser/qutebrowser',
+    description: 'A keyboard-driven, vim-like browser based on PyQt5',
+    tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
   }
-  
 
 ];
 export default projectList;

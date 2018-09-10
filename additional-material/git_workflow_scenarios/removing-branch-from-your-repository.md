@@ -2,7 +2,7 @@
 
 If you have followed the tutorial up-to-now, our `<add-your-name>` branch has finished its purpose, it is time to delete it from your local machine's repo. This isn't necessary, but the name of this branch shows its rather special purpose. Its life can be made correspondingly short.
 
-First, let's merge your `<add-your-name>` to your master, so to go your master branch:
+First, let's merge your `<add-your-name>` to your master, so to go to your master branch:
 ```
 git checkout master
 ```
