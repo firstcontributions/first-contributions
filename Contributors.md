@@ -29,6 +29,7 @@
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Sonu rana](https://github.com/sonu-rana)
+- [Henry Jackson](https://github.com/henry-jackson)
 - [Chris Boujoukos](https://github.com/cboujoukos)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
