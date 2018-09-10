@@ -17,6 +17,7 @@
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Varsha Chahal](https://github.com/VarshaChahal)
+- [Shashwat Sanghavi](https://github.com/srsanghavi)
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
