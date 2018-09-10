@@ -225,7 +225,7 @@
 - [Nathen Rader](https://github.com/ndrader)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296](https://github.com/csy0296)
-- [Alexandro Perez] (https://github.com/AlexandroPerez)
+- [Alexandro Perez](https://github.com/AlexandroPerez)
 - [Caleb Pomazon](https://github.com/calebpomazon)
 - [Elizabeth Onder](https://github.com/eonder)
 - [Piyush Srivastava](https://github.com/Shdw-Cat)
