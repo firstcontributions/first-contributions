@@ -8,6 +8,7 @@
 - [Sachin Singh](https://github.com/sacsachin)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
+- [Chit Thae Naing] (https://github.com/chitthaenaing)
 - [Aviv Alon](https://github.com/aalon2)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
