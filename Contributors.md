@@ -31,6 +31,7 @@
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Prajwal Shetty](https://github.com/Prajwal041)
+- [Evgeny Lahav](https://github.com/evgenylahav)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Robin Lashof-Regas](https://github.com/RLashofRegas)
 - [Omer Shomrat](https://github.com/Omersho)
