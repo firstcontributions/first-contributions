@@ -5727,6 +5727,7 @@ Keithan Philander
 - [Czeide Avanzado](https://github.com/czeideavanzado)
 - [Chamoda Pandithage](https://github.com/chamoda)
 - [Lokesh Sharma](https://github.com/konohakesh)
+- [Razor yo](https://github.com/imrazory0)
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Tetra Visum](https://github.com/TetraVisum)
 - [Satya Sagar](https://github.com/satyasagar)
