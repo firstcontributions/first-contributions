@@ -4,8 +4,8 @@
 
 ### Github에 이미 푸시한 후에 최근 커밋 메시지 변경하기
 파일을 열지 않고 수행할 경우:
-* 다음을 타이핑합니다. ```git commit --amend -m "followed by your new commit message"```
-* 변경사항을 저장소에 커밋하려면 다음을 실행합니다. ```git push origin <branch-name>```
+*   다음을 타이핑합니다. ```git commit --amend -m "followed by your new commit message"```
+*   변경사항을 저장소에 커밋하려면 다음을 실행합니다. ```git push origin <branch-name>```
 
 참고: 단지 ```git commit --amend``` 이것만 입력한다면, 텍스트 편집기가 커밋 메시지를 입력하라고 할 것입니다. ``-m`` 플래그를 추가하면 이것을 막을 수 있습니다.
 
@@ -32,8 +32,8 @@ b0ca8f added single word to botfile
 이 방법은 사소한 변화이기 때문에 더 나을수도 있습니다.
 
 이를 위해 다음을 수행하십시오:
-* 파일을 수정하십시오. 이 경우, 이전에 빠뜨린 단어를 포함하여 봇 파일을 수정합니다.
-* 그 다음, ```git add <filename>``` 을 실행하여 파일을 스테이징 영역으로 추가합니다.
+*   파일을 수정하십시오. 이 경우, 이전에 빠뜨린 단어를 포함하여 봇 파일을 수정합니다.
+*   그 다음, ```git add <filename>``` 을 실행하여 파일을 스테이징 영역으로 추가합니다.
 
 보통 파일을 스테이징 영역에 추가하고 나면, 다음으로 우리가 해야할 일은 git commit -m "our commit message" 입니다.
 그러나 여기서 우리가 원하는 것은 이전 커밋을 수정하는 것이므로, 다음을 실행합니다:
@@ -44,4 +44,3 @@ b0ca8f added single word to botfile
 * ```git push origin <branch-name``` 으로 변경사항을 푸시하십시오.
 
 이렇게 하면 두 변경사항이 단일 커밋이 됩니다.
-

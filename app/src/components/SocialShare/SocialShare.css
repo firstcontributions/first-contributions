@@ -14,6 +14,7 @@
 
 #social-shares-container {
   display: flex;
+  max-width: 100%;
 }
 
 .icon-card {
@@ -26,5 +27,10 @@
   border-radius: 2px;
   background: #4b4949;
   border: solid white 4px;
+}
+@media (max-width: 700px) {
+  .icon-card {
+    border: none;
+  }
 }
 

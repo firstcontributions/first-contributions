@@ -1,11 +1,16 @@
 .topnav {
     background-color:#007EE5;
     overflow: hidden;
+    text-align: right;
+}
+@media (max-width: 700px) {
+    .topnav {
+        text-align: center;
+    }
 }
 
 .topnav a {
-    float: right;
-    display: block;
+    display: inline-block;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
