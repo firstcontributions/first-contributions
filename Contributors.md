@@ -191,6 +191,7 @@
 - [Attila Greguss](https://github.com/Floyd0122)
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
+- [Kris Witalewski](https://github.com/witalewski)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Vero Donoso](https://github.com/veroca88)
 - [Stuart Kehoe](https://github.com/sfkehoe)
