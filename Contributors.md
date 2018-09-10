@@ -1167,6 +1167,7 @@
 - [Ryan Brink](https://github.com/brink-ry)
 - [Sudeshana Ariyasena](https://github.com/sudeshana)
 - [Ashish Singh](https://github.com/ashish061291)
+- [Peeyush Sharma](https://github.com/peeyushshawarma)
 - [Lahernan](http://github.com/lahernan661)
 - [Ayush Aggarwal](https://github.com/ayushagg31)
 - [Raquel Ventas](https://github.com/rventas)
