@@ -90,6 +90,7 @@
 - [Haytham Hakim] (https://github.com/haithamhakim)
 - [Kostas Vasileiadis] (https://github.com/konsvasi)
 - [Timothy](https://github.com/tdawes33)
+- [Blanca](https://github.com/helloart3mis)
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
 - [deviled](https://github.com/deviled)
