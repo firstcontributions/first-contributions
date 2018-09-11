@@ -5774,3 +5774,4 @@ Keithan Philander
 - [Mike Adams](https://github.com/MADCookie)
 - [Viktor Black](https://github.com/korki-ayo)
 - [Rafal Rudko](https://github.com/kegriz)
+- [Markus Petersson](https://github.com/marpe163)
