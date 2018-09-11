@@ -2671,6 +2671,7 @@
 - [Nathan Yost](https://github.com/nathanyost15)
 - [Andreas Bergh](https://github.com/Bendreas)
 - [Alberto Siviero](https://github.com/albisivi)
+- [Michele Salvador](https://github.com/michelesalvador)
 - [Arpit Jhunjhunwala](https://github.com/arpitjjw)
 - [Brandon Zhu](https://github.com/Brandonlucaszhu)
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
