@@ -2461,6 +2461,7 @@
 - [Valeria Sheveleva](https://github.com/l25)
 - [Chintan Parekh](https://github.com/xchintan)
 - [Jordan King](https://github.com/jordanking-96)
+- [Robert Szwajkowski](https://github.com/bszwajk)
 - [Shubham Singh](https://github.com/shubhams-ingh)
 - [Jennifer Ng](https://github.com/dreamng)
 - [Faraaz Ali](https://github.com/ArslanAAA)
