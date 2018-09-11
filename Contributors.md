@@ -42,6 +42,7 @@
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [A.Lau](https://github.com/ALau2088)
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
+- [Madhu Murthy](https://github.com/madhumurthy16)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
