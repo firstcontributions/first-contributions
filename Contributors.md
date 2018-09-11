@@ -383,6 +383,7 @@
 - [Sushrut Raina](https://github.com/sushrut-raina)
 - [Johan Eriksson](https://github.com/jcer)
 - [Neptune Cabelin](https://github.com/ncabelin)
+- [Serhii Burtsev](https://github.com/z0976190100)
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
