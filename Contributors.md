@@ -297,6 +297,7 @@
 - [juvestig](https://github.com/juvestig)
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - [Ankita](https://github.com/Ankita3010)
+- [Chinmay Ingle](https://github.com/chinmayingle)
 - [Padmashantha Rajapakshe](https://github.com/padmashantha)
 - [Lauren Rodney](https://github.com/laurenrodney)
 - [Tony Huang](https://github.com/tonyth00)
