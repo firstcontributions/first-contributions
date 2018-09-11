@@ -62,6 +62,7 @@
 - [trueSherlock](https://github.com/trueSherlock)
 - [Crossy2804](https://github.com/Crossy2804)
 - [Somit Mittal](https://github.com/somitmittal)
+- [Andrew Hadden](https://github.com/ahadden09)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [Saeed Ahmadi](https://github.com/saeedahmadee)
 - [Ano Newb](https://github.com/anonewb)
