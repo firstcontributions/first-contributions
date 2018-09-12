@@ -1311,6 +1311,7 @@
 - [Fernando Vega](https://github.com/fvegagiga)
 - [Patrick Tumbucon](https://github.com/ptumb001)
 - [Yuriy Stul](https://github.com/ysden123)
+- [Tonia Del Priore](https://github.com/toninjaa)
 - [Denis Kajgorodov](https://github.com/terracott)
 - [David Jung](https://github.com/sungwonida)
 - [Paolo Manca](https://github.com/piemme)
