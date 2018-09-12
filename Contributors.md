@@ -80,6 +80,7 @@
 - [daniel hemmati](https://github.com/danielhemmati)
 - [Igor Strapko](https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
+- [Tyrell Roberts](https://github.com/TyrellR7872)
 - [Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp](https://github.com/FourthMeal128)
 - [Abhipsha Das](https://github.com/chiral-carbon)
