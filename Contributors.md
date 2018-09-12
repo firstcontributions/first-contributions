@@ -7,6 +7,7 @@
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Sachin Singh](https://github.com/sacsachin)
+- [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Chit Thae Naing] (https://github.com/chitthaenaing)
