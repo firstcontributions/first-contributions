@@ -1771,6 +1771,7 @@
 - [Jose Almaraz](https://github.com/lazaruspolar)
 - [Celio Paiva](https://github.com/cjuniorr)
 - [Bogdan Manole](https://github.com/BogdanManole)
+- [Razvan05] (https://github.com/razvan05)
 - [Mridul tuteja](https://github.com/mridultuteja)
 - [Thadeu Cotts](https://github.com/cotts)
 - [Debaditya Dey](https://github.com/deydebaditya)
