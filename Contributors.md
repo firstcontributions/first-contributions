@@ -5781,3 +5781,4 @@ Keithan Philander
 - [Viktor Black](https://github.com/korki-ayo)
 - [Rafal Rudko](https://github.com/kegriz)
 - [Markus Petersson](https://github.com/marpe163)
+- [Nemohack](https://github.com/nemohack)
