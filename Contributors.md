@@ -21,6 +21,7 @@
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
+- [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
 - [Saraansh Tandon](https://github.com/saraansh1999)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
