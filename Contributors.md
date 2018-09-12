@@ -15,6 +15,7 @@
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
+- [Nandini Rao](https://github.com/nrao16)
 - [Shawn Pang](https://github.com/CometS1)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
