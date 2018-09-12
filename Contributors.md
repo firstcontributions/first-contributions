@@ -50,6 +50,7 @@
 - [Rickard Lundberg](https://github.com/deerel)
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
+- [Damo Ando](https://github.com/damoando4)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
 - [J. Nathan Allen](https://github.com/nateonmission)
