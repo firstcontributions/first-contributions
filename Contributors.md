@@ -36,6 +36,7 @@
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Evgeny Lahav](https://github.com/evgenylahav)
+- [Tshele Litabe](https://github.com/tshele)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Robin Lashof-Regas](https://github.com/RLashofRegas)
 - [Omer Shomrat](https://github.com/Omersho)
