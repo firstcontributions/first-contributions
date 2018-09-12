@@ -743,6 +743,7 @@
 - [Joeylene Rivera](https://github.com/merakireal)
 - [Teddy Ngwenya](https://github.com/linteddy)
 - [Sonja Duijvesteijn](https://github.com/MissMormie)
+- [Jean-Michel Brunet] (https://github.com/jmbrunet)
 - [Nafis Fuad](https://github.com/nafis-fuad)
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
