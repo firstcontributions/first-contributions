@@ -71,6 +71,7 @@
 - [Andrew Hadden](https://github.com/ahadden09)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [Saeed Ahmadi](https://github.com/saeedahmadee)
+- [Jason Allshorn](https://github.com/supertopoz)
 - [Ano Newb](https://github.com/anonewb)
 - [Juliana Cynthia](https://github.com/jaycynth)
 - [Anthony Serrano](https://github.com/aserrabi)
