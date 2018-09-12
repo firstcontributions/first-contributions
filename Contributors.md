@@ -4,7 +4,7 @@
 - [Joe Corapi](https://github.com/JoeCorapi)
 - [Edwin L](https://github.com/cslasher)
 - [Umang Garg](https://github.com/umanggarg27)
-- [Alisa Terzieva] (https://github.com/AlisaTerzieva)
+- [Alisa Terzieva](https://github.com/AlisaTerzieva)
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
@@ -2329,3 +2329,4 @@
 - [Aditya Chandla](https://github.com/adityachandla)
 - [Michael Cornelius](https://github.com/BigFun76)
 - [Brandon welsh](https://github.com/brandonarmand)
+- [Anusha M](https://github.com/coder90875)
