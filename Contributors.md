@@ -5600,6 +5600,7 @@ Keithan Philander
 - [John Paul Santos](https://github.com/jpsantosdeveloper7)
 - [Rahul Kumar](https://github.com/rahuls321)
 - [Elijah Akins](https://github.com/happly)
+- [Michael Nader](https://github.com/Nader7)
 - [Min Lee](https://github.com/Minho-Lee)
 - [Chikwado Emmanuel](https://github.com/quado2)
 - [Kamal Kal](https://github.com/Tradingcoder)
