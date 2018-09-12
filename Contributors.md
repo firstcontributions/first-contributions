@@ -5774,7 +5774,7 @@ Keithan Philander
 - [Simon](https://github.com/Simon2828/)
 - [Nasrin Shirali](https://github.com/Nasrin-Shiraly)
 - [Saurabh Srivastava](https://github.com/saurass)
-- [moonyl](https://github.com/moonyl)
+- [moonyl] (https://github.com/moonyl)
 - [Luigi Mangione] (https://github.com/luiman3209)
 - [Pedro Ferreira](https://github.com/Pe-Ferreira)
 - [Keivn O'Neill](https://github.com/franzero01)
@@ -5785,3 +5785,4 @@ Keithan Philander
 - [Markus Petersson](https://github.com/marpe163)
 - [Nemohack](https://github.com/nemohack)
 - [Saumya Wardhan](https://github.com/swardhan)
+- [dmitri-desh] (https://github.com/dmitri-desh/)
