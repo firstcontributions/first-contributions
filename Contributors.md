@@ -139,6 +139,7 @@
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Tsion Adefres](https://github.com/Tsionad)
 - [Gio Noa](https://github.com/gionoa)
+- [Joshua Brandt](https://github.com/demasu)
 - [weizheng xing](https://github.com/meilier)
 - [Matt Magda](https://github.com/realgs)
 - [Ciaran Ashton](https://github.com/CiaranAshton)
