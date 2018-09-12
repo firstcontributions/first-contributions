@@ -5794,3 +5794,4 @@ Keithan Philander
 - [Nemohack](https://github.com/nemohack)
 - [Saumya Wardhan](https://github.com/swardhan)
 - [Akshai TR](https://github.com/akshait)
+- [Jesse Penber](https://github.com/Jesse-Penber)
