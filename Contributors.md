@@ -24,6 +24,7 @@
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Hiatt Zhao](https://github.com/hiattzhao)
+- [Jonathan Calles](https://github.com/jcall057)
 - [Adam Watts](https://github.com/AdamWatts)
 - [Timothy](https://github.com/tdawes33)
 - [Epharra M](https://github.com/emendoza06)
