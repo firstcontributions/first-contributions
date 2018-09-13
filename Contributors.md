@@ -102,6 +102,7 @@
 - [Adam Watts](https://github.com/AdamWatts)
 - [Haytham Hakim] (https://github.com/haithamhakim)
 - [Kostas Vasileiadis] (https://github.com/konsvasi)
+- [Mariana Oliveira] (https://github.com/tpoliveira-mariana)
 - [Timothy](https://github.com/tdawes33)
 - [Blanca](https://github.com/helloart3mis)
 - [Epharra M](https://github.com/emendoza06)
