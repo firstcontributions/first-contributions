@@ -11,6 +11,7 @@
 - [Rafia Anwar](https://github.com/rafia95)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Chit Thae Naing] (https://github.com/chitthaenaing)
+- [Amanchi Naga Sai Sree Deepthi] (https://github.com/SreeDeepthi1253)
 - [Aviv Alon](https://github.com/aalon2)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
