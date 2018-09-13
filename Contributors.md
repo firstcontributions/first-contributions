@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Adrian Sudbury](https://github.com/asudbury)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [James King](https://github.com/2000jcking)
