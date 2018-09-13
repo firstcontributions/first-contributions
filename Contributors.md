@@ -135,6 +135,7 @@
 - [ghyun](https://github.com/gjhyun)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [rroche](https://github.com/rrocheec)
+- [Jun Teng](https://github.com/teng-oh)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
