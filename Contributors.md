@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Jeff GaoEy](https://github.com/Gaoey)
@@ -362,6 +362,7 @@
 - [Andrew Albert](https://github.com/andyalbert)
 - [Jon-Luke Willemsen](https://github.com/jonlukewtafe)
 - [Maqor](https://github.com/maqor)
+- [Fishbowl] (https://github.com/FishBowl025)
 - [Humayun Tanwar](https://github.com/humayuntanwar)
 - [Cemil Oten](https://github.com/cemiloten)
 - [Leonard Woody](https://github.com/lwoodyiii)
