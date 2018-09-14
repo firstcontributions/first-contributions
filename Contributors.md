@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Jeff GaoEy](https://github.com/Gaoey)
