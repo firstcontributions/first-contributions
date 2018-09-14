@@ -101,6 +101,7 @@
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Sri Chunchu](https://github.com/srichunchu)
 - [Hiatt Zhao](https://github.com/hiattzhao)
+- [Jonathan Calles](https://github.com/jcall057)
 - [Cedric Bonaudo](https://github.com/cbonaudo)
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts) 
