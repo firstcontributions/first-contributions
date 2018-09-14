@@ -5795,6 +5795,7 @@ Keithan Philander
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
 - [Onkar Pandit](https://github.com/onkarpandit)
+- [Menekam Rudy](https://github.com/Rudy-Menekam)
 - [Ankur](https://github.com/Ankurk99)
 - [Limberger](https://github.com/Limberger)
 - [Poh Ti](https://github.com/pohti)
