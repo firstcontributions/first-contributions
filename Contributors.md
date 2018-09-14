@@ -2572,6 +2572,7 @@
 - [Takuya Kato](https://github.com/Ktakuya332C/)
 - [Matthew Thomas](https://github.com/mthomas1202)
 - [Filip Ivanovski](https://github.com/filipivanovski42)
+- [Matheus Battirola](https://github.com/mcbattirola)
 - [Daniel Little](https://github.com/LittleDan9)
 - [Wasiq Noor](https://github.com/wasiqnoorahmad)
 - [Steven Te](https://github.com/testeven152)
