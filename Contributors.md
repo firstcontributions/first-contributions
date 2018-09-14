@@ -212,6 +212,7 @@
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Kris Witalewski](https://github.com/witalewski)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
+- [Bobby Liang Wei Tan](https://github.com/tanliangwei)
 - [Vero Donoso](https://github.com/veroca88)
 - [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
