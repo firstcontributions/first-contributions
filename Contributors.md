@@ -115,6 +115,7 @@
 - [Mishail Singh](https://github.com/Mishail98)
 - [Vandy Thong](https://github.com/vandythong)
 - [Michael Feninets](https://github.com/kopenhamn)
+- [Neveon](https://github.com/Neveon)
 - [Bill Clark](https://github.com/billrobclark)
 - [Scott Wickersham](https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
