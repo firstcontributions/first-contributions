@@ -5823,4 +5823,6 @@ Keithan Philander
 - [Mathew Rupp](https://github.com/Cybnew)
 - [tarun singh](https://github.com/tarunsingh021)
 - [Zach Bayoff](https://github.com/zbayoff)
+- [David Cohn](https://github.com/c0hnhead)
+
 
