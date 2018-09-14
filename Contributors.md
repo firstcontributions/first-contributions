@@ -34,6 +34,7 @@
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Varun Horril](https://github.com/varunhorril)
 - [Aviv Alon](https://github.com/aalon2)
+- [Matheus Genteluci](https://github.com/MGenteluci)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Sonu rana](https://github.com/sonu-rana)
