@@ -19,10 +19,10 @@ Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les
 
 Si no disposa de git en el seu ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Bifurca (*Fork*) aquest respositori
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Faci un *fork* d'aquest repositori clicant al botó "*Fork*" a la part superior dreta d'aquesta pàgina.
+Això crearà una còpia d'aquest repositori en el seu compte.
 
 ## Clone the repository
 
