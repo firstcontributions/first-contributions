@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+
 # Primeres Contribucions
 
 És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
@@ -52,7 +53,7 @@ Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà j
 ```
 cd first-contributions
 ```
-Ara creeu una nova branca (*branch*) utilitzant la comanda `git checkout`:
+Creeu una nova branca (*branch*) utilitzant la comanda `git checkout`:
 ```
 git checkout -b <afegeixi-el-nom-de-la-nova-branca>
 ```
@@ -63,27 +64,27 @@ git checkout -b add-nom-cognom
 ```
 (No és necessari que el nom de la branca contingui la paraula *add*, però es recomanable ja que el propòsit d'aquesta branca és afegir el seu nom a la llista.)
 
-## Make necessary changes and commit those changes
+## Fer els canvis necessaris i confirmar *commit* els canvis
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+Obriu l'arxiu `Contributors.md` en un editor de text i afegeiu el vostre nom. No l'afegiu ni al principi ni al final de l'arxiu. Poseu-lo en qualsevol altre posició. Guardeu l'arxiu.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
-
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
-Add those changes to the branch you just created using the `git add` command:
+Si aneu al directori del projecte i executeu la comanda `git status`, veureu els canvis. 
+
+
+Afegiu aquests canvis a la branca que acabeu de crear utilitzant la comanda `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Confirmeu (*commit*) els canvis utilitzant la comanda `git init`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <el-teu-nom> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+reemplaçant `<el-teu-nom>` amb el vostre nom.
 
 ## Push changes to GitHub
 
