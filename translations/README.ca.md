@@ -106,7 +106,7 @@ Envía la *pull request*.
 
 Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
 
-## Eliminar la branca (*branch*) master després de que la *pull request* hagi sigut fusionada
+## Eliminar la branca (*branch*) master després de que la *pull request* hagi estat fusionada
 
 Podeu eliminar de forma segura la branca (*branch*) `<afegiu-el-nom-de-la-branca>` un cop la *pull request* hagi sigut fusionada. Veureu un botó per a leiminar la branca (*branch*):
 
