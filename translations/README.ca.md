@@ -8,9 +8,9 @@
 
 És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
 
-Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si vol fer la primera contribució, segueixi les instruccions que es mostren a continuació: 
+Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si voleu fer la primera contribució, seguiu les instruccions que es mostren a continuació: 
 
-#### *Si no està còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-using-other-tools )*
+#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-using-other-tools )*
 
 #### *Llegir en [altres idiomes](Translations.md).*
 
@@ -18,7 +18,7 @@ Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les
 
 <img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repsoitori" />
 
-Si no disposa de git en el seu ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
+Si no disposeu de git en el vostre ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
 
 ## Bifurca (*Fork*) aquest respositori
 
