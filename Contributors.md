@@ -3324,6 +3324,7 @@ Keithan Philander
 - [Zonayed Ahmed](https://github.com/zonayedpca)
 - [Marius Lazar](https://github.com/mariuslazar93)
 - [Farhan Khan](https://github.com/farhan5900)
+- [Juan Nathaniel](https://github.com/juannat95)
 - [Merril Jeffs](https://github.com/merrilj)
 - [Jon Widow](https://github.com/JonWidow)
 - [Pedro Caetano](https://github.com/pedroccaetano)
