@@ -64,7 +64,7 @@ git checkout -b add-nom-cognom
 ```
 (No és necessari que el nom de la branca contingui la paraula *add*, però es recomanable ja que el propòsit d'aquesta branca és afegir el seu nom a la llista.)
 
-## Fer els canvis necessaris i confirmar *commit* els canvis
+## Fer els canvis necessaris i confirmar (*commit*) els canvis
 
 Obriu l'arxiu `Contributors.md` en un editor de text i afegeiu el vostre nom. No l'afegiu ni al principi ni al final de l'arxiu. Poseu-lo en qualsevol altre posició. Guardeu l'arxiu.
 
