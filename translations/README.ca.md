@@ -55,7 +55,7 @@ cd first-contributions
 ```
 Creeu una nova branca (*branch*) utilitzant la comanda `git checkout`:
 ```
-git checkout -b <afegeixi-el-nom-de-la-nova-branca>
+git checkout -b <afegiu-el-nom-de-la-nova-branca>
 ```
 
 Per exemple:
