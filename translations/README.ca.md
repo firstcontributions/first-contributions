@@ -7,9 +7,9 @@
 
 És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
 
-Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si vol fer la primera contirbució, segueixi les instruccions que es mostren a continuació: 
+Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si vol fer la primera contribució, segueixi les instruccions que es mostren a continuació: 
 
-#### *Si no està còmode amb la línea de comandes, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràcia]( #tutorials-using-other-tools )*
+#### *Si no està còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-using-other-tools )*
 
 #### *Llegir en [altres idiomes](Translations.md).*
 
