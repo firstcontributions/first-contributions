@@ -94,17 +94,17 @@ git push origin <afegiu-el-nom-de-la-branca>
 ```
 reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que heu creat anteriorment.
 
-## Submit your changes for review
+## Envía (*Submit*) els canvis per a ser revisats
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request`. Cliqueu sobre aquest botó.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="crear una pull request" />
 
-Now submit the pull request.
+Envía la *pull request*.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull.png" alt="envia la pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
 
 ## Delete the branch after pull request has been merged
 
