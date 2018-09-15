@@ -22,7 +22,7 @@ Si no disposa de git en el seu ordinador, [instal·leu-lo]( https://help.github.
 
 ## Bifurca (*Fork*) aquest respositori
 
-Faci un *fork* d'aquest repositori clicant al botó "*Fork*" a la part superior dreta d'aquesta pàgina.
+Feu un *fork* d'aquest repositori clicant al botó "*Fork*" a la part superior dreta d'aquesta pàgina.
 Això crearà una còpia d'aquest repositori en el seu compte.
 
 ## Clona (*Clone*) el repositori
