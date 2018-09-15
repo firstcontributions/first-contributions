@@ -82,9 +82,9 @@ git add Contributors.md
 
 Confirmeu (*commit*) els canvis utilitzant la comanda `git init`:
 ```
-git commit -m "Add <el-teu-nom> to Contributors list"
+git commit -m "Add <el-meu-nom> to Contributors list"
 ```
-reemplaçant `<el-teu-nom>` amb el vostre nom.
+reemplaçant `<el-meu-nom>` amb el vostre nom.
 
 ## Push changes to GitHub
 
