@@ -106,15 +106,15 @@ Envía la *pull request*.
 
 Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
 
-## Delete the branch after pull request has been merged
+## Eliminar la branca (*branch*) master després de que la *pull request* hagi sigut fusionada
 
-You can safely delete your branch `<add-your-branch-name>` after the pull request has been merged. You'll see a button to delete the branch:
+Podeu eliminar de forma segura la branca (*branch*) `<afegiu-el-nom-de-la-branca>` un cop la *pull request* hagi sigut fusionada. Veureu un botó per a leiminar la branca (*branch*):
 
-<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
+<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="eliminar branch un cop PR s'ha fusionat" />
 
-If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
+Si la *Pull Request* ha sigut tancada sense haver estat fusionada, GitHub li advertirà sobre el fet d'eliminar *commits* no fusionats i el botó es veurà així:
 
-<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
+<img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar branca després de que la PR no estigui fusionada" />
 
 ## Where to go from here?
 
