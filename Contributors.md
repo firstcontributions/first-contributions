@@ -5776,6 +5776,7 @@ Keithan Philander
 - [Jordan Mercado] (ttps://github.com/jmercad0)
 - [Federico Raue](https://github.com/rave78)
 - [Kenny Rowlands](https://github.com/krowlands4)
+- [Konrad Zajac](https://github.com/konrad-zajac)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
