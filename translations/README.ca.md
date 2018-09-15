@@ -34,9 +34,9 @@ Cloneu aquest repositori al vostre ordinador. Adreceu-vos al vostre compte de Gi
 Obriu una terminal i executeu la següent comanda de git:
 
 ```
-git clone "url que acaba de copiar"
+git clone "url que acabeu de copiar"
 ```
-on "url que acaba de copiar" (sense cometes dobles) és la *url* per a aquest respositori (el seu *fork* d'aquest projecte). Veure els passos anteriors per a obtenir la *url*.
+on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest respositori (el vostre *fork* d'aquest projecte). Veure els passos anteriors per a obtenir la *url*.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
@@ -44,7 +44,7 @@ Per exemple:
 ```
 git clone https://github.com/aquest-es-voste/first-contributions.git
 ```
-on `aquest-es-voste` és el seu nom d'usuari de GitHub. Aquí està copiant el contingut del repository *first-contributions* de GitHub al seu ordinador.
+on `aquest-es-voste` és el vostre nom d'usuari de GitHub. Aquí està copiant el contingut del repository *first-contributions* de GitHub al vostre ordinador.
 
 ## Crea una branca (*branch*)
 
