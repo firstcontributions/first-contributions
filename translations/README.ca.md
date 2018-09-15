@@ -116,17 +116,17 @@ Si la *Pull Request* ha sigut tancada sense haver estat fusionada, GitHub li adv
 
 <img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar branca després de que la PR no estigui fusionada" />
 
-## Where to go from here?
+## On anar des d'aquí?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Enhorabona! Acabeu de completar l'estàndard flux de treball *_fork -> clone -> edit -> PR_* que trobareu sovint com a col·laborador!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebreu la vostra contribució i compartiu-ho amb els vostres amics i seguidors anant a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Podeu unir-vos al nostre equip d'*slack* en cas de que necessiteu ajuda o tingueu alguna pregunta. [Unir-se a l'equip d'slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llista de projectes amb îssues* facils per a que pugueu començar. Doneu un cop d'ull [la llista de projectes en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools
