@@ -5778,6 +5778,7 @@ Keithan Philander
 - [Lokesh Sharma](https://github.com/konohakesh)
 - [Razor yo](https://github.com/imrazory0)
 - [Steven Kidd](https://github.com/proofskiddie)
+- [Ali Mansour](https://github.com/alimans3)
 - [Tetra Visum](https://github.com/TetraVisum)
 - [Satya Sagar](https://github.com/satyasagar)
 - [James](https://github.com/jrandj)
