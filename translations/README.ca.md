@@ -86,13 +86,13 @@ git commit -m "Add <el-meu-nom> to Contributors list"
 ```
 reemplaçant `<el-meu-nom>` amb el vostre nom.
 
-## Push changes to GitHub
+## Envia (*Push*) els canvis a GitHub
 
-Push your changes using the command `git push`:
+Feu un *Push* dels canvis utilitzant la comanda  `git push`:
 ```
-git push origin <add-your-branch-name>
+git push origin <afegiu-el-nom-de-la-branca>
 ```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+reemplaçant  `<afegiu-el-nom-de-la-branca>` amb el nom de la branca que heu creat anteriorment.
 
 ## Submit your changes for review
 
