@@ -29,7 +29,7 @@ Això crearà una còpia d'aquest repositori en el seu compte.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar aquest repositori" />
 
-Ara cloni aquest repositori al seu ordinador. Adreceu-vos al vostre compte de GitHub, cliqueu al botó clonar "*clone or download*" i després cliqueu a la icona de *copiar al porta-retalls*.
+Cloneu aquest repositori al vostre ordinador. Adreceu-vos al vostre compte de GitHub, cliqueu al botó clonar "*clone or download*" i després cliqueu a la icona de *copiar al porta-retalls*.
 
 Obriu una terminal i executeu la següent comanda de git:
 
