@@ -45,23 +45,23 @@ git clone https://github.com/aquest-es-voste/first-contributions.git
 ```
 on `aquest-es-voste` és el seu nom d'usuari de GitHub. Aquí està copiant el contingut del repository *first-contributions* de GitHub al seu ordinador.
 
-## Create a branch
+## Crea una branca (*branch*)
 
-Change to the repository directory on your computer (if you are not already there):
+Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà ja):
 
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+Ara creeu una nova branca (*branch*) utilitzant la comanda `git checkout`:
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <afegeixi-el-nom-de-la-nova-branca>
 ```
 
-For example:
+Per exemple:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-nom-cognom
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(No és necessari que el nom de la branca contingui la paraula *add*, però es recomanable ja que el propòsit d'aquesta branca és afegir el seu nom a la llista.)
 
 ## Make necessary changes and commit those changes
 
