@@ -5835,5 +5835,6 @@ Keithan Philander
 - [tarun singh](https://github.com/tarunsingh021)
 - [Zach Bayoff](https://github.com/zbayoff)
 - [Jeff Whetstone](https://github.com/korym)
+- [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
 
