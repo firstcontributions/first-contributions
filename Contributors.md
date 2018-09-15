@@ -5824,6 +5824,7 @@ Keithan Philander
 - [Jesse Penber](https://github.com/Jesse-Penber)
 - [Marcin Marcinkowski](https://github.com/daxter44)
 - [Mathew Rupp](https://github.com/Cybnew)
+- [Sergi Heras](https://github.com/Sergih28)
 - [tarun singh](https://github.com/tarunsingh021)
 - [Zach Bayoff](https://github.com/zbayoff)
 - [Jeff Whetstone](https://github.com/korym)
