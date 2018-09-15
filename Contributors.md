@@ -2866,6 +2866,7 @@
 - [gkchan](https://github.com/gkchan)
 - [Kiki Batterson](https://github.com/ki2batt)
 - [Zane Mather](https://github.com/Zanemonkey)
+- [Iain Logan](https://github.com/iainlogan)
 - [Dinislam](https://github.com/cheburan)
 - [Samer Kanakri](https://github.com/samerkanakri)
 - [Adam Romlein](https://github.com/romleiaj)
