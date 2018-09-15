@@ -42,9 +42,9 @@ on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest r
 
 Per exemple:
 ```
-git clone https://github.com/aquest-es-voste/first-contributions.git
+git clone https://github.com/aquest-soc-jo/first-contributions.git
 ```
-on `aquest-es-voste` és el vostre nom d'usuari de GitHub. Aquí està copiant el contingut del repository *first-contributions* de GitHub al vostre ordinador.
+on `aquest-soc-jo` és el vostre nom d'usuari de GitHub. Aquí esteu copiant el contingut del repository *first-contributions* de GitHub al vostre ordinador.
 
 ## Crea una branca (*branch*)
 
