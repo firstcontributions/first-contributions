@@ -19,31 +19,31 @@ Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les
 
 Si no disposa de git en el seu ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Bifurca (*Fork*) aquest respositori
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Faci un *fork* d'aquest repositori clicant al botó "*Fork*" a la part superior dreta d'aquesta pàgina.
+Això crearà una còpia d'aquest repositori en el seu compte.
 
-## Clone the repository
+## Clona (*Clone*) el repositori
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clonar aquest repositori" />
 
-Now clone this repo to your machine. Go to your GitHub account, click on the clone button and then click the *copy to clipboard* icon.
+Ara cloni aquest repositori al seu ordinador. Adreceu-vos al vostre compte de GitHub, cliqueu al botó clonar "*clone or download*" i després cliqueu a la icona de *copiar al porta-retalls*.
 
-Open a terminal and run the following git command:
+Obriu una terminal i executeu la següent comanda de git:
 
 ```
-git clone "url you just copied"
+git clone "url que acaba de copiar"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository(your fork of this project). See the previous steps to obtain the url.
+on "url que acaba de copiar" (sense cometes dobles) és la *url* per a aquest respositori (el seu *fork* d'aquest projecte). Veure els passos anteriors per a obtenir la *url*.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
 
-For example:
+Per exemple:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/aquest-es-voste/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+on `aquest-es-voste` és el seu nom d'usuari de GitHub. Aquí està copiant el contingut del repository *first-contributions* de GitHub al seu ordinador.
 
 ## Create a branch
 
