@@ -24,6 +24,7 @@
 - [Harris Levine](https://github.com/pynchmeister)
 - [Nandini Rao](https://github.com/nrao16)
 - [Shawn Pang](https://github.com/CometS1)
+- [Babs Craig](https://github.com/babzcraig)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Varsha Chahal](https://github.com/VarshaChahal)
