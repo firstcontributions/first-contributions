@@ -33,6 +33,7 @@
 - [Dontavious Sanders](https://github.com/sanddc318)
 - [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
+- [Jesus Chavez] (https://github.com/jesuschavez)
 - [Boban Ljubicic](https://github.com/ljubicicbobo)
 - [Saraansh Tandon](https://github.com/saraansh1999)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
@@ -5843,4 +5844,3 @@ Keithan Philander
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
-
