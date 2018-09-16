@@ -54,6 +54,8 @@
 - [Tshele Litabe](https://github.com/tshele)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Robin Lashof-Regas](https://github.com/RLashofRegas)
+- [Robin Lashof-Regas](https://github.com/RLashofRegas)
+- [Paresh Gupta] (https://github.com/guptaparesh)
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [A.Lau](https://github.com/ALau2088)
