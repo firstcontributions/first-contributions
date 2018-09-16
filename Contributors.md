@@ -86,6 +86,7 @@
 - [Ano Newb](https://github.com/anonewb)
 - [Juliana Cynthia](https://github.com/jaycynth)
 - [Anthony Serrano](https://github.com/aserrabi)
+- [Arnon Danon](https://github.com/ArnonDanon)
 - [Troy Udarbe](https://github.com/tjudarbe)
 - [hamit taylan yuce](https://github.com/htaylanyuce)
 - [Sumit Singh](https://github.com/sumit9696)
