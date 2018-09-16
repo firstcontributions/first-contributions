@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Zhana Dougherty](https://github.com/ZPPD)
@@ -4006,6 +4006,7 @@ Keithan Philander
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
 - [Dakota Sexton](https://github.com/tinykite)
+- [Nisal Fernando](https://github.com/n1sam1Media)
 - [Guilherme Wachs](https://github.com/lopespt)
 - [Fabien Malbois](https://github.com/rrreeezzz)
 - [Shashi Jangra](https://github.com/shashijangra22)
