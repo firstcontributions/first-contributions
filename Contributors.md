@@ -3117,6 +3117,7 @@
 - [Anthony Tomson](https://github.com/Skyller360)
 - [Federico Dal Colle](https://github.com/dalco)
 - [Yogesh Telang](https://github.com/dpgc11)
+- [Jeremy Cruz](https://github.com/JCruz8482)
 - [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
 - [Alex Kondov](https://github.com/AlexKondov)
