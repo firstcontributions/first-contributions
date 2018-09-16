@@ -857,6 +857,7 @@
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
 - [Daniel Bernstein](https://github.com/drood87)
+- [Junoothula Rashmitha Reddy](https://github.com/rashmithajunoothula)
 - [Guilemon](https://github.com/Guilemon)
 - [David Hermes](https://github.com/Davidinion)
 - [Deddy Tandean](https://github.com/Busterz)
