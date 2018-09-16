@@ -130,6 +130,7 @@
 - [Emily Ji](https://github.com/emilyji/)
 - [Andy Kuang](https://github.com/andykuang1/)
 - [Vidya Mani](https://github.com/vidyasrimani)
+- [Jacob Brannum](https://github.com/jwbrannum)
 - [rockstar](https://github.com/rockstar)
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
