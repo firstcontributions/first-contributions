@@ -5785,6 +5785,7 @@ Keithan Philander
 - [Kenny Rowlands](https://github.com/krowlands4)
 - [Konrad Zajac](https://github.com/konrad-zajac)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
+- [Fabien Plongeron](https://github.com/FabienPL)
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
 - [Omari RB](https://github.com/orbville)
