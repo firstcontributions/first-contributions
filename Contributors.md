@@ -8,6 +8,7 @@
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
+- [Andrew Hoang] (https://github.com/ndrwhoang)
 - [James King](https://github.com/2000jcking)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
