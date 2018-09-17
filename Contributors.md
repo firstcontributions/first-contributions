@@ -5800,6 +5800,7 @@ Keithan Philander
 - [Razor yo](https://github.com/imrazory0)
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Ali Mansour](https://github.com/alimans3)
+- [Jocelyn Hsu](https://github.com/unaccomplished)
 - [Tetra Visum](https://github.com/TetraVisum)
 - [Satya Sagar](https://github.com/satyasagar)
 - [James](https://github.com/jrandj)
@@ -5853,4 +5854,3 @@ Keithan Philander
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
 - [Kadyn](https://github.com/klowe123)
-
