@@ -5743,6 +5743,7 @@ Keithan Philander
 - [Daniel Bailey](https://github.com/DanielJBailey)
 - [Nick Weber](https://github.com/tazguy999)
 - [Michael Hunt-Reyes](https://github.com/mikeb530)
+- [Kartik Pandey](https://github.com/kartikpandey2)
 - Harini Narayanan
 - [IIRawcodeII](https://github.com/IIRawcodeII)
 - [Ahmed Belhadj](https://github.com/ahmed-belhadj)
