@@ -11,6 +11,7 @@
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Andrew Hoang] (https://github.com/ndrwhoang)
 - [James King](https://github.com/2000jcking)
+- [Chon Pa Sa](https://github.com/ChonPaSa)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
