@@ -2383,6 +2383,7 @@
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
 - [Richard Meadows](https://github.com/rjmead23)
+- [J Fsal] (https://github.com/jfsal)
 - [Gordon Hendry](https://github.com/gordyh1)
 - [Valentyn Troian](https://github.com/ValentynTroian)
 - [Lucas Sterzinger](https://github.com/lsterzinger)
