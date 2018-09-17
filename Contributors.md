@@ -5853,6 +5853,7 @@ Keithan Philander
 - [Sergi Heras](https://github.com/Sergih28)
 - [tarun singh](https://github.com/tarunsingh021)
 - [Zach Bayoff](https://github.com/zbayoff)
+- [David Cohn](https://github.com/c0hnhead)
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
