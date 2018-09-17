@@ -146,6 +146,7 @@
 - [Ifyokoh](https://github.com/Ifyokoh)
 - [lancelot1337](https://github.com/lancelot1337)
 - [hritikgupta](https://github.com/hritikgupta)
+- [Aidan Buchanan](https://github.com/N3XTL1FE)
 - [suresh37](https://github.com/suresh37/)
 - [Oscar Flores](https://github.com/ojflores)
 - [Peter Donovan](https://github.com/pj-donovan/)
