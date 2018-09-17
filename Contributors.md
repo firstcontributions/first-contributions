@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Zhana Dougherty](https://github.com/ZPPD)
@@ -21,6 +21,7 @@
 - [Chit Thae Naing](https://github.com/chitthaenaing)
 - [Amanchi Naga Sai Sree Deepthi](https://github.com/SreeDeepthi1253)
 - [Aviv Alon](https://github.com/aalon2)
+- [Vincent Huang](https://github.com/vinceajcs)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
