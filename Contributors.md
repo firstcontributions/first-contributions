@@ -14,6 +14,7 @@
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
+- [Ricky Lu](https://github.com/RCLU30)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Sachin Singh](https://github.com/sacsachin)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
