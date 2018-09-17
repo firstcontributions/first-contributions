@@ -5789,6 +5789,7 @@ Keithan Philander
 - [Abduraoof T](https://github.com/ra00f)
 - [ijavap](https://github.com/jacobvarghese)
 - [Joseph Park](https://github.com/vapor47)
+- [Ian Schmidt] (https://github.com/ianschmidt83)
 - [Lettícia Aimée](https://github.com/softwithscars)
 - [Reinid Valarino](https://github.com/dwarflarino)
 - [Robert Yi](https://github.com/rsyi)
