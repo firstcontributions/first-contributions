@@ -1,5 +1,5 @@
 # Contributors
-
+- [Shivangi Agarwal](https://github.com/AShivangi)
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [Laimon Katalor](https://github.com/bzddd)
