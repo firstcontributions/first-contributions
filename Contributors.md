@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Zhana Dougherty](https://github.com/ZPPD)
@@ -8,6 +8,7 @@
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
+- [Andrew Hoang] (https://github.com/ndrwhoang)
 - [James King](https://github.com/2000jcking)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
@@ -20,6 +21,7 @@
 - [Chit Thae Naing](https://github.com/chitthaenaing)
 - [Amanchi Naga Sai Sree Deepthi](https://github.com/SreeDeepthi1253)
 - [Aviv Alon](https://github.com/aalon2)
+- [Vincent Huang](https://github.com/vinceajcs)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
@@ -501,6 +503,7 @@
 - [Shradha Sharma](https://github.com/Shradha27)
 - [Abhith Krishna](https//github.com/donosco98)
 - [Ankur Dubey](https://github.com/ankurdubey521)
+- [Brian Dinh] https://github.com/brydinh how can mirrors be real if our eyes arent real?
 - [Nic B](https://github.com/Stepper2909)
 - [Rahul Samrat](https://github.com/rahulsamrat)
 - [Gary Fishell](https://github.com/garyfish618)
@@ -5850,3 +5853,4 @@ Keithan Philander
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
+- [Kadyn](https://github.com/klowe123)
