@@ -5856,4 +5856,5 @@ Keithan Philander
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier] (https://github.com/iso54)
 - [Donna Vito](https://github.com/dvito42)
+- [Arthur Badger](https://github.com/abadger2k11)
 - [Kadyn](https://github.com/klowe123)
