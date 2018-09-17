@@ -4844,6 +4844,7 @@ Keithan Philander
 - [Will H](https://github.com/billy-the-squid)
 - [Saurabh A](https://github.com/saurabh308)
 - [James Seward](https://github.com/zlzshowtime)
+- [En Quer](https://github.com/enquer)
 - [Kevin Bebel](https://github.com/kevin-bebel)
 - [Sean McGettrick](https://github.com/smcgettrick)
 - [Rinalds Pudulis](https://github.com/Sangsom)
