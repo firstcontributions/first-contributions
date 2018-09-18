@@ -365,6 +365,7 @@
 - [Mike Smith](https://github.com/MIkesmith415)
 - [Luis Fernando Robles](https://github.com/lfr4704)
 - [Andy Yao](https://github.com/atyao)
+- [Ellie Cherrill](https://github.com/elliecherrill)
 - [Chris Page](https://github.com/pageyboy)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
