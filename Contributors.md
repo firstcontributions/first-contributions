@@ -5753,6 +5753,7 @@ Keithan Philander
 - [Eran Segal](https://github.com/segaler)
 - [Kalidrev](https://github.com/kalidrev)
 - [Bui Le Vu Tam](https://github.com/itsmetambui)
+- [Shruti Shastri]
 - [Alex Cheng](https://github.com/alexcheng94)
 - [Xobx CHERIF](https://github.com/xobx-cherif)
 - [Hernán Gimenez](https://github.com/hgimenez/)
