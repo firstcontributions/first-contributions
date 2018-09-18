@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Jason Cole](https://github.com/jaymcole)
+-[SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
