@@ -85,6 +85,7 @@
 - [Sebas Duranona](https://github.com/SebasDuranona)
 - [patrik](https://github.com/patrik13)
 - [Mamdouh Almutairi](https://github.com/MamdouhA)
+- [Ankit Bando](https://github.com/OutrageousStop)
 - [Ryan Robinson](https://github.com/Ryan00000)
 - [anoushka](https://github.com/Anoushka-Anu)
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
