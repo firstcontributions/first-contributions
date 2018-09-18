@@ -5833,6 +5833,7 @@ Keithan Philander
 - [Greg Groff](https://github.com/gagroff)
 - [Ishwarya Manivannan](https://github.com/misscoder6)
 - [Jaisurya Nanduri](https://github.com/Jaisu-1)
+- [David Jurgens](https://github.com/d-jurgens/)
 - [Shishir Umesh](https://github.com/Shishir94)
 - [Jimin Yook](https://github.com/sprkal129/)
 - [Muhammad Zeshan](https://github.com/zeshan77/)
