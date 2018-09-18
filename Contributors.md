@@ -1911,6 +1911,7 @@
 - [bl-rd](https://github.com/bl-rd)
 - [Henrik J?nsson](https://github.com/heggrik)
 - [Adithya J](https://github.com/adithya321)
+- [Vishal Bhalerao](https://github.com/Vishal-V-Bhalerao)
 - [Hardik Surana](https://github.com/hardiksurana)
 - [Carlos Lima](https://github.com/kakamg0)
 - [Trevor Roest](https://github.com/twroest)
