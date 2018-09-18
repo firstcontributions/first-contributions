@@ -2710,6 +2710,7 @@
 - [zeldalaw](https://github.com/zeldalaw)
 - [Kevin Rosenberg](https://github.com/kevsters)
 - [Mingyu Hu](https://github.com/mingyuhu)
+- [Ryan Moore](https://github.com/moore-r)
 - [Sean Stamm](https://github.com/sherlocktech)
 - [Abhishek Katti](https://github.com/KattCoder)
 - [Ahmed Shawky](https://github.com/Ahmed-ShawkyEgy)
