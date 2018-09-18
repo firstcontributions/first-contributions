@@ -5888,3 +5888,4 @@ Keithan Philander
 - [Amelia](https://github.com/amelia181)
 - [Brandon Thompson](https://github.com/roric32)
 - [Electric Keet](https://github.com/electrickeet)
+- [Yannick De Jonghe](https://github.com/yadejo)
