@@ -189,6 +189,7 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Toms Engelis](https://github.com/Angeltoms)
+- [Grace DuMez] (https://github.com/notsavinggrace)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
