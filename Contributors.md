@@ -1,5 +1,6 @@
 # Contributors
 - [Jason Cole](https://github.com/jaymcole)
+- [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
