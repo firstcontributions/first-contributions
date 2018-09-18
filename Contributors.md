@@ -23,6 +23,7 @@
 - [Sachin Singh](https://github.com/sacsachin)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
+- [Rodrigo Andrade](https://github.com/rodrigodata)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Paresh Gupta] (https://github.com/guptaparesh)
 - [Chit Thae Naing](https://github.com/chitthaenaing)
