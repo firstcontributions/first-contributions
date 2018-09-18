@@ -28,6 +28,7 @@
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
+- [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
 - [Shawn Pang](https://github.com/CometS1)
 - [Babs Craig](https://github.com/babzcraig)
