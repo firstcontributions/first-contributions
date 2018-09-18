@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Jason Cole](https://github.com/jaymcole)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
@@ -88,6 +88,7 @@
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
 - [Armaan Singh Bhullar](https://github.com/ArmaanBhullar)
 - [Anisha Pai](https://github.com/anishapai)
+- [Sai Surya](https://github.com/saisurya027)
 - [Adrian Mark Perea](https://github.com/adrianmarkperea)
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
