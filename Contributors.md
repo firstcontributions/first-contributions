@@ -5472,6 +5472,7 @@ Keithan Philander
 - [NamithaMurali](https://github.com/NamithaMurali)
 - [Bazyli Kot](https://github.com/gitBKrp)
 - [Mocanu Gabriel](https://github.com/gabrielmocanu)
+- [Alistair Amick](https://github.com/AlistairAmick)
 - [Lee Roberts](https://github.com/leejroberts)
 - [Scott Blackwood](https://github.com/SDBlackwood)
 - [Derek Xia](https://github.com/derek-xia)
