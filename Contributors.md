@@ -5898,3 +5898,4 @@ Keithan Philander
 - [Electric Keet](https://github.com/electrickeet)
 - [Yannick De Jonghe](https://github.com/yadejo)
 - [Joshua Jarvis](https://github.come/bynarlogic)
+- [Rachna Pathak](https://github.com/rachnapathak)
