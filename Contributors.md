@@ -19,6 +19,7 @@
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Andrew Hoang](https://github.com/ndrwhoang)
+- [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 - [Anchit Shukla](https://github.com/anchit1)
