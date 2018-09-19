@@ -33,4 +33,5 @@
 | 🏴‍☠ | [English (Pirate)](translations/README.en-pirate.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
 | 🇮🇱 | [עברית](translations/README.hb.md) |
+| :slovenia: | [Slovene](translations/README.sl.md) |
 | 🇸🇪 | [Swedish](translations/README.se.md) |
