@@ -1,4 +1,6 @@
 ﻿# Contributors
+
+- [Nomit Pahuja] (https://github.com/jaymcole/nomitpahuja)
 - [Jason Cole](https://github.com/jaymcole)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 -[SINGAM MOHIT REDDY](https://github.com/foxpixel)
