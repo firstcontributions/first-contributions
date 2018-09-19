@@ -1204,6 +1204,7 @@
 - Deepak Hooda
 - [Panayiotis Kaizo](https://github.com/pns2050)
 - [Kartik Sharma](https://github.com/StarryFire)
+- [Tyler Trout](https://github.com/tiller1010)
 - [Grant Hixson](https://github.com/androidfanatic)
 - [Edmund Lai](https://github.com/EdmundLai)
 - [AndroidFanatic](https://github.com/androidfanatic)
