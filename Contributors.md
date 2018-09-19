@@ -64,6 +64,7 @@
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Sonu rana](https://github.com/sonu-rana)
 - [Henry Jackson](https://github.com/henry-jackson)
+- [Jan Ferec](https://github.com/jferec)
 - [Chris Boujoukos](https://github.com/cboujoukos)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
