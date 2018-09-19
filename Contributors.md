@@ -3159,6 +3159,7 @@
 - [AfamO](https://github.com/AfamO)
 - [Anthony Tomson](https://github.com/Skyller360)
 - [Federico Dal Colle](https://github.com/dalco)
+- [Joe Fitzsimmons](https://github.com/jfitzsimmons)
 - [Yogesh Telang](https://github.com/dpgc11)
 - [Jeremy Cruz](https://github.com/JCruz8482)
 - [Mius00](https://github.com/mius00)
