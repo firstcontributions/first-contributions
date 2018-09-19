@@ -16,6 +16,7 @@
 - [Taehyun Lee](https://github.com/taehyun-lee)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
+- [Bcsrn]
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Andrew Hoang](https://github.com/ndrwhoang)
