@@ -9,6 +9,7 @@
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [Laimon Katalor](https://github.com/bzddd)
+- [Taehyun Lee](https://github.com/taehyun-lee)
 - [Martin Nguyen] (https://github.com/NguyenMartin/)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
