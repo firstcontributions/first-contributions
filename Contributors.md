@@ -1813,6 +1813,7 @@
 - [NVS ABHISHEK](https://github.com/NVS16)
 - [Frank Schiller](https://github.com/frankles12)
 - [Darren Potter](https://github.com/darpots)
+- [Tomas Suarez Lissi](https://github.com/TomasSuarezL)
 - [Kevin McLoughlin](https://github.com/trustyknave)
 - [Filip Vrlak](https://github.com/fvrlak)
 - [Jing Rong Lim](https://github.com/jjingrong)
