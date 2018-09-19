@@ -102,6 +102,7 @@
 - [Adrian Mark Perea](https://github.com/adrianmarkperea)
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
+- [Vickie LM](https://github.com/vlemas)
 - [Crossy2804](https://github.com/Crossy2804)
 - [Deth Tek](https://github.com/DethTek)
 - [Somit Mittal](https://github.com/somitmittal)
