@@ -22,6 +22,7 @@
 - [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
+- [Peter Vondras](https://github.com/PeterVondras)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Ricky Lu](https://github.com/RCLU30)
