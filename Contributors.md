@@ -101,7 +101,7 @@
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
 - [Crossy2804](https://github.com/Crossy2804)
-- [DethTek](https://github.com/DethTek)
+- [Deth Tek](https://github.com/DethTek)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Andrew Hadden](https://github.com/ahadden09)
 - [Raghav Prasad](https://github.com/raghavprasad13)
