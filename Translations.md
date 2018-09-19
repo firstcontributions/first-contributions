@@ -30,6 +30,7 @@
 | 🇧🇩| [Bangla](translations/README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](translations/README.ro.md) |
 | :uk: | [English](README.md) |
+| 🏴‍☠ | [English (Pirate)](translations/README.en-pirate.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
 | 🇮🇱 | [עברית](translations/README.hb.md) |
 | :slovenia: | [Slovene](translations/README.sl.md) |
