@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Jason Cole](https://github.com/jaymcole)
@@ -100,6 +100,7 @@
 - [Adrian Mark Perea](https://github.com/adrianmarkperea)
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
+- [Vickie LM](https://github.com/vlemas)
 - [Crossy2804](https://github.com/Crossy2804)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Andrew Hadden](https://github.com/ahadden09)
