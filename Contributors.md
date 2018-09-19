@@ -190,6 +190,7 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Toms Engelis](https://github.com/Angeltoms)
+- [Jonathan Perea] (https://github.com/jtperea)
 - [Grace DuMez] (https://github.com/notsavinggrace)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
