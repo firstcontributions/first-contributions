@@ -1,9 +1,9 @@
-﻿# Contributors
+# Contributors
 
-- [Nomit Pahuja] (https://github.com/jaymcole/nomitpahuja)
+- [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Jason Cole](https://github.com/jaymcole)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
--[SINGAM MOHIT REDDY](https://github.com/foxpixel)
+- [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
@@ -192,8 +192,8 @@
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Toms Engelis](https://github.com/Angeltoms)
-- [Jonathan Perea] (https://github.com/jtperea)
-- [Grace DuMez] (https://github.com/notsavinggrace)
+- [Jonathan Perea](https://github.com/jtperea)
+- [Grace DuMez](https://github.com/notsavinggrace)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
