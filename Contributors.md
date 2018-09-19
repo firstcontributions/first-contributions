@@ -2,6 +2,7 @@
 
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Jason Cole](https://github.com/jaymcole)
+- [Udit Jain](https://github.com/udit01)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
