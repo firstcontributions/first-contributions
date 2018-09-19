@@ -5893,3 +5893,4 @@ Keithan Philander
 - [Brandon Thompson](https://github.com/roric32)
 - [Electric Keet](https://github.com/electrickeet)
 - [Yannick De Jonghe](https://github.com/yadejo)
+- [Joshua Jarvis](https://github.come/bynarlogic)
