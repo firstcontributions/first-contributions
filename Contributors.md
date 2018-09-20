@@ -5924,3 +5924,4 @@ Keithan Philander
 - [GammaWaves](https://github.com/GammaWaves)
 - [Mohammed GUERMOUD](https://github.com/MohammedGuermoud)
 - [Anup Dhakal](https://github.com/anuphunt)
+- [Ziyad Alamri](https://github.com/iZezoh)
