@@ -3960,6 +3960,7 @@ Keithan Philander
 - [Nikolay Kosev](https://github.com/narlah)
 - [Nick Gagnepin](https://github.com/Gangawiggy)
 - [Huda Hawasli](https://github.com/hudahawasli)
+- [Tushar Shahi](https://github.com/TusharShahi)
 - [Paritosh Borkar](https://github.com/Keebu)
 - [Noyze](https://github.com/Noyze)
 - [Jarrod Yellets](https://github.com/jarrodyellets)
