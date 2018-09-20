@@ -60,6 +60,7 @@ modified by bin-w
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
+- [Marianne Tamminen](https://github.com/mrainne)
 - [Jesus Chavez](https://github.com/jesuschavez)
 - [Tony Flores](https://github.com/florestony54)
 - [Boban Ljubicic](https://github.com/ljubicicbobo)
