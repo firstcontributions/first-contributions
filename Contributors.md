@@ -3523,6 +3523,7 @@ Keithan Philander
 - [HalfTOXIC](https://github.com/HalfTOXIC)
 - [Marek Mego](https://github.com/jejdacz)
 - [Beth Haworth](https://github.com/bethhaworth)
+- [Daniel Luna](https://github.com/daniellunsc)
 - [Madan Vadicharla](https://github.com/madanvadicharla)
 - [Stefan Strut](https://github.com/StrStefan)
 - [Rohit Kumar](https://github.com/rohitchaudhary701)
