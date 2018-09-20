@@ -5916,4 +5916,5 @@ Keithan Philander
 - [Yannick De Jonghe](https://github.com/yadejo)
 - [Joshua Jarvis](https://github.come/bynarlogic)
 - [Rachna Pathak](https://github.com/rachnapathak)
+- [GammaWaves](https://github.com/GammaWaves)
 - [Mohammed GUERMOUD](https://github.com/MohammedGuermoud)
