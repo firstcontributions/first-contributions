@@ -5666,6 +5666,7 @@ Keithan Philander
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
 - [Myren Eario](https://github.com/myren-eario)
+- [Max Wilets](https://github.com/maxwilets)
 - [Subhan Ali](https://github.com/MobDev1994)
 - [Bhavya Srivastava](https://github.com/bhavya17037)
 - [Stone Teele](https://github.com/stoneteele)
