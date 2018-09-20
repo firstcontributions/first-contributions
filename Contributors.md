@@ -66,6 +66,7 @@ modified by bin-w
 - [Boban Ljubicic](https://github.com/ljubicicbobo)
 - [Saraansh Tandon](https://github.com/saraansh1999)
 - [Joe Toh Djojo](https://github.com/joseph-tohdjojo)
+- [Will Tillett](https://github.com/wtillett)
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Varun Horril](https://github.com/varunhorril)
 - [Aviv Alon](https://github.com/aalon2)
