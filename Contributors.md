@@ -350,6 +350,7 @@ modified by bin-w
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Ryan Anstotz](https://github.com/ranstotz)
 - [Tal Sheldon](https://github.com/sheldonzy)
+- [Clari Romero](https://github.com/clarii)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
