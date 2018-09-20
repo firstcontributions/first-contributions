@@ -1118,6 +1118,7 @@ modified by bin-w
 - [nicolas oppitz](https://github.com/nickoppitz)
 - [wilgjah](https://github.com/wilkinv)
 - [kamdz](https://github.com/kamdz)
+- [Joyce Wambui](https://github.com/joycewambui)
 - [Afras Ashraf](https://github.com/GComputeNerd)
 - [Tran Ly Vu](https://github.com/tranlyvu)
 - [Raghav Sethi](https://github.com/rghv96)
