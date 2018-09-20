@@ -1961,6 +1961,7 @@ modified by bin-w
 - [GaganDeep Singh](https://github.com/SGagan)
 - [MikeWLloyd](https://github.com/MikeWLloyd)
 - [Thespawnexe](https://github.com/Thespawnexe)
+- [Chris Watkin](https://github.com/CQW-Code)
 - [Andrew Niekamp](https://github.com/andrewniekamp)
 - [David Yi](https://github.com/kvah)
 - [Aayush Babbar](https://github.com/mooonshot)
