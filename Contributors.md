@@ -44,6 +44,7 @@ modified by bin-w
 - [Vincent Huang](https://github.com/vinceajcs)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
+- [Elena Cristina]
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Joaquim Moraes](https://github.com/jtbdm)
