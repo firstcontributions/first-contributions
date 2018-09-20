@@ -5711,6 +5711,7 @@ Keithan Philander
 - [Lori Godoy](https://github.com/kuneho-yellow/)
 - [Caio Thizio](https://github.com/caiothizio)
 - [kachomsky](https://github.com/kachomsky)
+- [Janet Yu](https://github.com/janet-yu)
 - [Joao Salgado](https://github.com/joao-salgado)
 - [Michele Bernini](https://github.com/mbernini)
 - [Sukhnandan Malhotra](https://github.com/SukhnandanMalhotra)
