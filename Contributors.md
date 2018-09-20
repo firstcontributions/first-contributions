@@ -637,6 +637,7 @@
 - [Saurabh Raj](https://github.com/B2-Raj09)
 - [Michael Thariath](https://github.com/mthariath)
 - [Alexander Sanchez](https://github.com/sancheza2389)
+- [Nick Kimball] (https://github.com/NKimball1)
 - [Jacob Smith](https://github.com/jake4mich)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
