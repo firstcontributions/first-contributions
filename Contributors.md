@@ -27,6 +27,7 @@ modified by bin-w
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 - [Peter Vondras](https://github.com/PeterVondras)
 - [Anchit Shukla](https://github.com/anchit1)
+- [Nep Ysb](https://github.com/nepysb)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Ricky Lu](https://github.com/RCLU30)
 - [Italo Soares](https://github.com/LinuxUserIRS)
