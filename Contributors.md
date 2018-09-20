@@ -2,6 +2,7 @@
 
 modified by bin-w
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+- [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
