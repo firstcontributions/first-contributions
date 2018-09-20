@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Shivangi Agarwal](https://github.com/AShivangi)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
@@ -2120,6 +2120,7 @@
 - [Clifford Mugerwa](https://github.com/cl14d)
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
 - [Justin Bubel](https://github.com/jbubel)
+- [Luca Giacchino](https://github.com/lucagiac81)
 - [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
 - [Hieu Nguyen](https://github.com/hieunguyenm)
 - [OctoMat](https://github.com/octomat)
