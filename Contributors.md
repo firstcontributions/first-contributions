@@ -26,6 +26,7 @@ modified by bin-w
 - [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
+- [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
