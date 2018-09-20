@@ -1547,6 +1547,7 @@
 - [Anto Samalona](https://github.com/antosamalona)
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
 - [Nicholas Meschke](https://github.com/Nixsm)
+- [vakhtang svanidze](https://github.com/vaxosv)
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [WeiChiaChang](https://github.com/WeiChiaChang)
 - [Yasha Singh](https://github.com/yashasingh)
