@@ -29,6 +29,7 @@
 - [Ricky Lu](https://github.com/RCLU30)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Sachin Singh](https://github.com/sacsachin)
+- [Chantz Anderson](https://github.com/chantzcy)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
