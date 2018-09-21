@@ -1679,7 +1679,7 @@ modified by bin-w
 - [Gabriel Dekoladenu](https://github.com/gabedeko)
 - [Ramon Reyes](https://github.com/reyesjunk)
 - [Jesus Antonio Zu?iga Arce](https://github.com/jzunigarce)
-- [Antonio Suarez] (https://github.com/GrupoKino)
+- [Antonio Suarez](https://github.com/GrupoKino)
 - [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
 - [Jeff Thompson](https://github.com/jello7654)
