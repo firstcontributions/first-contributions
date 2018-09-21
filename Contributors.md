@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 modified by bin-w
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
@@ -50,6 +50,7 @@ modified by bin-w
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Elena Cristina]
+- [Aryan Agrawal]
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Joaquim Moraes](https://github.com/jtbdm)
