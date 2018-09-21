@@ -263,6 +263,7 @@ modified by bin-w
 - Pietil
 - [TreliaGT](https://github.com/TreliaGT)
 - nimish
+- [Jonathan Nilsson](https://github.com/Baleith)
 - [Jose Antonio](https://github.com/jkno87)
 - [Ramesh](https://github.com/rameshnayak100)
 - [Aakash Shah](https://github.com/Aakash0410)
