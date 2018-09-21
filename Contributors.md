@@ -5957,3 +5957,4 @@ Keithan Philander
 - [Kacper Maczka] (https://github.com/kacper19990)
 - [Ray Chen] (https://github.com/Vowlue)
 - [Deepak Suresh](https://github.com/deepaksuresh)
+- [Gabriel Maldonado](https://github.com/info-gabriel)
