@@ -5958,3 +5958,4 @@ Keithan Philander
 - [Ray Chen] (https://github.com/Vowlue)
 - [Deepak Suresh](https://github.com/deepaksuresh)
 - [Gabriel Maldonado](https://github.com/info-gabriel)
+- [Kirtan Patel](https://github.com/pkirtan)
