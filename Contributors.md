@@ -5952,3 +5952,4 @@ Keithan Philander
 - [Anup Dhakal](https://github.com/anuphunt)
 - [Ziyad Alamri](https://github.com/iZezoh)
 - [Roberto Vicuna](https://github.com//RoberVH/)
+- [Kacper Maczka] (https://github.com/kacper19990)
