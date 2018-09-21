@@ -330,6 +330,7 @@ modified by bin-w
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
 - [Mohan Das](https://github.com/mohandast52)
 - [Tanveer Ahmed](https://github.com/Tan66)
+- [Jophs](https://github.com/Jophs)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Christopher Beards](https://github.com/ChristopherBeards)
 - [Rajesh Mainali](https://github.com/Stereoraj)
