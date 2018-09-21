@@ -87,6 +87,7 @@ modified by bin-w
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Stephan Lyons](https://github.com/LyonsStephan/)
+- [Leonardo Silvestre] (https://github.com/Khanatoshs)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Evgeny Lahav](https://github.com/evgenylahav)
 - [Tshele Litabe](https://github.com/tshele)
