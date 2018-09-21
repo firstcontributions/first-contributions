@@ -275,6 +275,7 @@ modified by bin-w
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Kris Witalewski](https://github.com/witalewski)
+- [Joe Ganobsik](https://github.com/jganobsik)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Bobby Liang Wei Tan](https://github.com/tanliangwei)
 - [Vero Donoso](https://github.com/veroca88)
