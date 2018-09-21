@@ -157,6 +157,7 @@ modified by bin-w
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
 - [Haytham Hakim](https://github.com/haithamhakim)
+- [Adi Ben-Porat Givati](https://github.com/adibpg)
 - [Kostas Vasileiadis](https://github.com/konsvasi)
 - [Mariana Oliveira](https://github.com/tpoliveira-mariana)
 - [Timothy](https://github.com/tdawes33)
