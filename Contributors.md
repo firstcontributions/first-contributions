@@ -2397,6 +2397,7 @@ modified by bin-w
 - [Cheng Chin Lim](https://github.com/chenggarnett)
 - [Oskar F](https://github.com/osa1313)
 - [Mohamed Sayyaf](https://github.com/Sayyaf123)
+- [Omar Barboza] (https://github.com/yurajurqu)
 - [Remya Maya](https://github.com/mtremya)
 - [Mohamed Sayyaf](https://github.com/Sayyaf123)
 - [Sindar King](https://github.com/sindarking)
