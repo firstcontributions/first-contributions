@@ -1287,6 +1287,7 @@ modified by bin-w
 - [Mark Brown](https://github.com/bethanybeachbum)
 - [Matei David](https://github.com/matei207)
 - [Sarah G](https://github.com/sarahg813)
+- [Abdel Mounaim Tazi](https://github.com/AMTazi)
 - [Saket](https://github.com/saket700)
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
