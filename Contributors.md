@@ -54,6 +54,7 @@ modified by bin-w
 - [Harris Levine](https://github.com/pynchmeister)
 - [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
+- [Daniel Biehle] (https://github.com/dannybrain)
 - [Shawn Pang](https://github.com/CometS1)
 - [Babs Craig](https://github.com/babzcraig)
 - [Nicholas Chumney](https://github.com/chumnend)
