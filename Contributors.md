@@ -277,6 +277,7 @@ Kevin Hudson
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Attila Greguss](https://github.com/Floyd0122)
 - [Guy Zilberg](https://github.com/guyzilberg)
+- [Hall Bregg](https://github.com/HallBregg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Kris Witalewski](https://github.com/witalewski)
 - [Joe Ganobsik](https://github.com/jganobsik)
