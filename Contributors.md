@@ -21,6 +21,7 @@ modified by bin-w
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Bcsrn]
+Kevin Hudson
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Andrew Hoang](https://github.com/ndrwhoang)
