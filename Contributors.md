@@ -5962,3 +5962,4 @@ Keithan Philander
 - [Gabriel Maldonado](https://github.com/info-gabriel)
 - [Kirtan Patel](https://github.com/pkirtan)
 - [Oswaldo Lopez](https://github.com/ozlop)
+- [Rajat Varyani](https://github.com/RajatVaryani)
