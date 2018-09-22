@@ -53,6 +53,7 @@ Kevin Hudson
 - [Elena Cristina]
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
+- [Alejandro Z. Reed](https://github.com/AZReed)
 - [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
 - [Daniel Biehle] (https://github.com/dannybrain)
