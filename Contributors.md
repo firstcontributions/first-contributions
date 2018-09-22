@@ -63,6 +63,7 @@ modified by bin-w
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
+- [Chris Bratene](https://github.com/chrisbratene)
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
@@ -5961,3 +5962,4 @@ Keithan Philander
 - [Gabriel Maldonado](https://github.com/info-gabriel)
 - [Kirtan Patel](https://github.com/pkirtan)
 - [Oswaldo Lopez](https://github.com/ozlop)
+- [Rajat Varyani](https://github.com/RajatVaryani)
