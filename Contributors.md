@@ -5973,3 +5973,4 @@ Keithan Philander
 - [Oswaldo Lopez](https://github.com/ozlop)
 - [Rajat Varyani](https://github.com/RajatVaryani)
 - [Kyle Conrad](https://github.com/conraddev)
+- [Felipe Domingues](https://github.com/felipeeu)
