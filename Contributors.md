@@ -6,6 +6,7 @@ modified by bin-w
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
+- [BugDiver](https://github.com/bugdiver)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
