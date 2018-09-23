@@ -5947,6 +5947,7 @@ Keithan Philander
 - [tarun singh](https://github.com/tarunsingh021)
 - [kam dibus](https://github.com/kamdibus)
 - [Zach Bayoff](https://github.com/zbayoff)
+- [Sarfraz Anwar](https://github.com/msarfrazanwar)
 - [David Cohn](https://github.com/c0hnhead)
 - [Jeff Whetstone](https://github.com/korym)
 - [Steve Charpentier](https://github.com/iso54)
