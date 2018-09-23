@@ -1508,7 +1508,7 @@ Kevin Hudson
 - [Mridul Parakh](https://github.com/Mridul-parakh)
 - Hitoishi Das
 - Santhosh Ramachandran
-- Ling Mahlow 
+- Ling Mahlow
 - [Omar Aguinaga](https://github.com/OmarAguinaga)
 - [Enzo Monjard?n](https://github.com/enzomonjardin)
 - [Ariela Bawol](https://github.com/Ariela1127)
@@ -2692,6 +2692,7 @@ Kevin Hudson
 - [Pierre Biver](https://github.com/pierrebiver/)
 - [Cedric Wille](https://github.com/cwille97/)
 - [Junfei Gu](https://github.com/Jun209)
+- [Zeeshan Zahid](https://github.com/zzahid)
 - [Jue Wang](https://github.com/juedewang)
 - [J. Arthur Baker](https://github.com/baker-jeremy)
 - [Victor Hidrogo](https://github.com/vhidrogo)
