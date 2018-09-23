@@ -349,6 +349,7 @@ Kevin Hudson
 - [Christopher Beards](https://github.com/ChristopherBeards)
 - [Rajesh Mainali](https://github.com/Stereoraj)
 - [Devpur Developer](https://github.com/devpur)
+- [Elaguy](https://github.com/elaguy)
 - [Javisth](https://github.com/javisth)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
