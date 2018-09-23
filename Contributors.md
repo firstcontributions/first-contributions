@@ -294,6 +294,7 @@ Kevin Hudson
 - [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
 - [Christian Moronta](https://github.com/Poliphria)
+- [Joshua Osborne](https://github.com/thepolm3)
 - [Nikhil Patel](https://github.com/nikhilpatel2021)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [Morgan McCauley](https://github.com/morgsmccauley)
