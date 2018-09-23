@@ -616,6 +616,7 @@ Kevin Hudson
 - [Rohan Sharma](https://github.com/rohansharma777)
 - [Shubham Sharma](https://github.com/shubham99999)
 - [Nikolov G](https://github.com/segastep)
+- [Oskar Kuklinski](https://github.com/oskarkuklinski) 
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [vishal](https://github.com/cyberne7work)
 - [Manasa Devarapalli](https://github.com/dmanasa6)
