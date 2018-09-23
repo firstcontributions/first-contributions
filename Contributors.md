@@ -184,6 +184,7 @@ Kevin Hudson
 - [Vidya Mani](https://github.com/vidyasrimani)
 - [Jacob Brannum](https://github.com/jwbrannum)
 - [rockstar](https://github.com/rockstar)
+- [Nkg18](https://github.com/Nkg18)
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
 - [lancelot1337](https://github.com/lancelot1337)
