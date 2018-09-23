@@ -102,6 +102,15 @@ Ahora envía la *pull request*.
 
 Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
+## Elimina la rama (*branch*) después de que la *pull request* haya sido fusionada
+
+Puedes eliminar de forma segura tu rama `<añade-el-nombre-de-la-rama>` después de que la *pull request* haya sido fusionada. Verás este botón para eliminar la rama:
+
+<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="eliminar rama después de que la PR haya sido fusionada" />
+
+Si la *Pull Request* ha sido cerrada sin ser fusionada, GitHub te alertará por intentar eliminar *commits* no sincronizados y el botón será el siguiente:
+
+<img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar rama después de que la PR no haya sido fusionada" />
 
 ## ¿A dónde ir desde aquí?
 
