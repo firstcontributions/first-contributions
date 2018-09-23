@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 modified by bin-w
+- [Arya Bhardwaj(https://github.com/ARYA-BHARDWAJ)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Jason Cole](https://github.com/jaymcole)
