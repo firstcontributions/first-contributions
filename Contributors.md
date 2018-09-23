@@ -3,6 +3,7 @@
 modified by bin-w
 - [Arya Bhardwaj(https://github.com/ARYA-BHARDWAJ)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+- [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
