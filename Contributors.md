@@ -16,6 +16,7 @@ modified by bin-w
 - [Shivangi Agarwal](https://github.com/AShivangi)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
+- [Cameron Blake](https://github.com/mcblake)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [Jeff Darling](https://github.com/jeffld)
 - [Laimon Katalor](https://github.com/bzddd)
