@@ -1334,6 +1334,7 @@ Kevin Hudson
 - [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
+- [deya](https://github.com/miscdats)
 - [Andrew Millar](https://github.com/Sl4rtyb4rtf4st)
 - [Hieratikos](https://github.com/Hieratikos)
 - [Piash Sarker](https://github.com/piashsarker)
