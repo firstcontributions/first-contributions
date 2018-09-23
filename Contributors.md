@@ -5881,6 +5881,7 @@ Keithan Philander
 - [Jordan Mercado](ttps://github.com/jmercad0)
 - [Federico Raue](https://github.com/rave78)
 - [Kenny Rowlands](https://github.com/krowlands4)
+- [Michael Rickertt](https://github.com/mricke)
 - [Konrad Zajac](https://github.com/konrad-zajac)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Fabien Plongeron](https://github.com/FabienPL)
