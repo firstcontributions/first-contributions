@@ -398,7 +398,7 @@ const projectList = [
     name: 'probot',
     imageSrc: 'https://avatars2.githubusercontent.com/u/26350515?s=400&v=4',
     githubLink: 'https://github.com/probot/probot',
-    description: 'Probot is a framework for building Github Apps in Node.js',
+    description: 'Probot is a framework for building Github Apps in Node.js.',
     tags: ['Node.js','Github','Javascript']
   },
   {
