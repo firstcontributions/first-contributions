@@ -26,6 +26,7 @@ modified by bin-w
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Tony Jafar](https://github.com/tonyjafar)
 - [Bcsrn]
+Martin Corby
 Kevin Hudson
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
