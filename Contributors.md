@@ -66,6 +66,7 @@ Kevin Hudson
 - [Nandini Rao](https://github.com/nrao16)
 - [Daniel Biehle] (https://github.com/dannybrain)
 - [Shawn Pang](https://github.com/CometS1)
+- [Finley McIlwaine](https://github.com/FinleyMcIlwaine)
 - [Babs Craig](https://github.com/babzcraig)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
