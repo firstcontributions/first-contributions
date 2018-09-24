@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 modified by bin-w
 - [Arya Bhardwaj(https://github.com/ARYA-BHARDWAJ)
@@ -641,6 +641,7 @@ Kevin Hudson
 - [Amaury Perrin](https://github.com/ryudii)
 - [Rena Friedman](https://github.com/rbfriedman)
 - [Abhishek Raj Ravi](https://github.com/arrbxr)
+- [Adam Shaffer](https://github.com/GreatDeveloper66)
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
