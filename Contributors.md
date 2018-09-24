@@ -5183,6 +5183,7 @@ Keithan Philander
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
 - Stole P
+- [Kieran Ramnarine](https://github.com/DongerZone)
 - [J. Gravse](https://github.com/jwgravesfl)
 - [Ashwin Mathews](https://github.com/ashwinmathews)
 - [Zach Zollner](https://github.com/zez9787)
