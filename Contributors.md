@@ -2362,6 +2362,7 @@ Kevin Hudson
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
+- [Danny Wagstaff](https://github.com/danny1000008)
 - [Agham Arta Bima](https://github.com/aghambla)
 - [Jonathan Burk](https://github.com/JMB2K)
 - [Robert Yuen](https://github.com/rhyuen)
