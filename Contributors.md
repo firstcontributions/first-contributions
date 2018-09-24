@@ -293,6 +293,7 @@ Kevin Hudson
 - [Joe Ganobsik](https://github.com/jganobsik)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Bobby Liang Wei Tan](https://github.com/tanliangwei)
+- [Rohit K Bharadwaj](https://github.com/rohit901)
 - [Vero Donoso](https://github.com/veroca88)
 - [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
