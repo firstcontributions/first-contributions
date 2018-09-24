@@ -9,6 +9,7 @@ modified by bin-w
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
+- [Michael W Anderson] (https://github.com/michanders)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
