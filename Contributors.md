@@ -1066,6 +1066,7 @@ Kevin Hudson
 - [Aaron Dills](https://github.com/AaronDills)
 - [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
+- [Józef Bongowski](https://github.com/jb0hn)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
 - [Mukund Banka](https://github.com/mukund54)
