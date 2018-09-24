@@ -46,6 +46,7 @@ Kevin Hudson
 - [Chantz Anderson](https://github.com/chantzcy)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
+- [Ashutosh Sangwan](https://github.com/ashkkr)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Paresh Gupta](https://github.com/guptaparesh)
