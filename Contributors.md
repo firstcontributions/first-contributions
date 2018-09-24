@@ -1940,7 +1940,7 @@ Kevin Hudson
 - [Jonathan Arredondo](https://github.com/angelyonas)
 - [handrezescobar94](https://github.com/handrezescobar94)
 - [Ariel Blasi](https://github.com/LiteSoul)
-- [Anthony Montoya] (https://github/com/anthony-montoya)
+- [Anthony Montoya](https://github/com/anthony-montoya)
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
 - [daniel-enriquez](https://github.com/daniel-enriquez)
 - [Luke Taylor](https://github.com/Luke-Taylor)
