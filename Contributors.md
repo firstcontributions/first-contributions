@@ -1170,6 +1170,7 @@ Jeremy Sipple
 - [nicolas oppitz](https://github.com/nickoppitz)
 - [wilgjah](https://github.com/wilkinv)
 - [kamdz](https://github.com/kamdz)
+- [Mitchell Shelton](https://github.com/armoured)
 - [Joyce Wambui](https://github.com/joycewambui)
 - [Afras Ashraf](https://github.com/GComputeNerd)
 - [Tran Ly Vu](https://github.com/tranlyvu)
