@@ -27,6 +27,7 @@
 - [Taehyun Lee](https://github.com/taehyun-lee)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
+- [Yeshwanth Venkatesh](https://github.com/yeshwanth93)
 - [Tony Jafar](https://github.com/tonyjafar)
 - [Bcsrn]
 - [Zamblom](https://github.com/Zamblom)
