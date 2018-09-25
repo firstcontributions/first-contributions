@@ -94,7 +94,7 @@ git push origin <分支的名称>
 
 不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
 
-### [ 更多资料 ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ 更多资料 ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 接下来做什么呢？
 

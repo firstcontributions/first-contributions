@@ -101,7 +101,7 @@ Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie 
 
 Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare pe care le puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Materiale adiționale ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Materiale adiționale ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutoriale Folosind Alte Unelte

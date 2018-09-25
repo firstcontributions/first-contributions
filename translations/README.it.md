@@ -88,7 +88,7 @@ Ora invia la pull request.
 
 Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
 
-### [ Prossimi passi ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Prossimi passi ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorial usando altri tool
 

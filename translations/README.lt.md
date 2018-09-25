@@ -100,7 +100,7 @@ Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite kl
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Papildoma medžiaga ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Papildoma medžiaga ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Pamokos naudojant kitus įrankius

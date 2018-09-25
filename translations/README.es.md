@@ -121,7 +121,7 @@ También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ay
 
 Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Material adicional](../additional-material/git_workflow_senarios/additional-material.md)
+### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutoriales con otras herramientas

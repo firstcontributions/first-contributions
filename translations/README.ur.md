@@ -119,7 +119,7 @@ git push origin <add-your-name>
 
 <div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
-### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_senarios/additional-material.md) </div>
+### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_scenarios/additional-material.md) </div>
 
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
 

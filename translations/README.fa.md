@@ -95,7 +95,7 @@
 <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Join slack team</a>.</p>
 <p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
 <h3 dir="rtl">
-<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_senarios/additional-material.md">Additional material</a>
+<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_scenarios/additional-material.md">Additional material</a>
 </h3>
 <h2 dir="rtl">
 <a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>

@@ -107,7 +107,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่นๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
 
-### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_senarios/additional-material.md)
+### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่นๆ
 
