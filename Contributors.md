@@ -3359,6 +3359,7 @@ Keithan Philander
 - [Be?at Aranburu](https://github.com/benataranburu)
 - [Daan Schutt](https://github.com/daanskitte)
 - [Emil Carlén](https://github.com/loidsemus)
+- [Robert Hamby](https://github.com/rhambyjr)
 - [Damon Clark](https//github.com/damonclark)
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
