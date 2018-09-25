@@ -7,17 +7,17 @@
 
 Es complicado. Resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor es hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
+Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
-#### *Si no estás cómodo con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutorials-using-other-tools )*
+#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutorials-using-other-tools )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, [instálalo]( https://help.github.com/articles/set-up-git/ )
+Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ )
 
 ## Bifurca (*Fork*) este repositorio
 
-Haz *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha esta página.
+Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha esta página.
 Esto creará una copia de este repositorio en tu cuenta.
 
 ## Clona (*Clone*) el repositorio
@@ -31,6 +31,7 @@ Abre tu consola o terminal y ejecuta el siguiente comando de git:
 ```
 git clone "url que acabas de copiar"
 ```
+
 Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
@@ -66,9 +67,7 @@ Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No l
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
-
 Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios. 
-
 
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
@@ -112,7 +111,7 @@ Si la *Pull Request* ha sido cerrada sin ser fusionada, GitHub te alertará por 
 
 <img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar rama después de que la PR no haya sido fusionada" />
 
-## ¿A dónde ir desde aquí?
+## ¿Cuáles son los siguientes pasos?
 
 ¡Enhorabuena! ¡Has completado el flujo de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
 
