@@ -14,6 +14,7 @@ Jeremy Sipple
 - [BugDiver](https://github.com/bugdiver)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
+- [Cody Garrett](https://github.com/CsCody)
 Saumya Prakash
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
