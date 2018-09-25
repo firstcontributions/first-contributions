@@ -4,6 +4,7 @@
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
@@ -33,7 +34,7 @@
 - [Tony Jafar](https://github.com/tonyjafar)
 - [Bcsrn]
 - [Zamblom](https://github.com/Zamblom)
-Kevin Hudson
+- Kevin Hudson
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
