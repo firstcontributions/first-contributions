@@ -6024,6 +6024,7 @@ Keithan Philander
 - [Felipe Domingues](https://github.com/felipeeu)
 - [Gwenael Ielpo](https://github.com/Bobsloth)
 - [H Droider](https://github.com/h-droider)
+- [James Baffoni](https://github.com/jaybaffoni)
 - [Anzony White](https://github.com/anblaca3790)
 - [Anusha M](https://github.com/coder90875)
 - [Pakornsak](https://github.com/pakornsak)
