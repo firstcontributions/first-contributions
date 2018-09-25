@@ -12,7 +12,13 @@ const projectList = [
       'https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22',
     description: 'Quickly ramp up in new programming languages!',
     tags: ['Ruby', 'Exercises', 'CLI', 'Web App'],
-  }, {
+  },{
+    name: 'Gauge',
+    imageSrc: 'https://avatars3.githubusercontent.com/u/7044589?s=400&u=8d2ce328da30e81978c303fdb31a2a7a1f0328e3&v=4',
+    githubLink: 'https://github.com/getgauge/gauge',
+    description: 'A free and open source test automation framework',
+    tags: ['Golang','Automation','command line','testing']
+  },{
     name: 'Fun Retros',
     imageSrc: 'https://avatars3.githubusercontent.com/u/15913975?v=3&s=100',
     githubLink:
@@ -431,6 +437,5 @@ const projectList = [
     description: 'A keyboard-driven, vim-like browser based on PyQt5',
     tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
   }
-
 ];
 export default projectList;
