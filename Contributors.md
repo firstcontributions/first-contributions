@@ -5,6 +5,7 @@ modified by bin-w
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
+- [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
