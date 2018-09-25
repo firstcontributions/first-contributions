@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
@@ -279,6 +279,7 @@ Saumya Prakash
 - [Hayward Harris](https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
 - [Kenny Luu](https://github.com/kennyluuluu)
+- [trickypicky](https://github.com/trickypicky)
 - [Alexander Janßen](https://github.com/AlexJanss)
 - [Tony Chen](https//github.com/tchen98)
 - [Prince](https://github.com/PrinceSharzeel)
