@@ -6007,4 +6007,5 @@ Keithan Philander
 - [Kyle Conrad](https://github.com/conraddev)
 - [Felipe Domingues](https://github.com/felipeeu)
 - [Gwenael Ielpo](https://github.com/Bobsloth)
+- [H Droider](https://github.com/h-droider)
 - [Anzony White](https://github.com/anblaca3790)
