@@ -3643,6 +3643,7 @@ Keithan Philander
 - [BO41](https://github.com/BO41)
 - [Shubham Garg](https://github.com/sbeesm)
 - [Nate Weeks](https://github.com/Nate-weeks)
+- [Tasdid](https://github.com/Tasdid)
 - [Longwen Ou](https://github.com/oulongwen)
 - [J-tanz](https://github.com/j-tanz)
 - [David Organ](https://github.com/davidorgan)
