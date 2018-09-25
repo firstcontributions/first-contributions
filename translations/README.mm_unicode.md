@@ -91,7 +91,7 @@ git push origin <add-your-name>
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
-### [ Additional material ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Additional material ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 

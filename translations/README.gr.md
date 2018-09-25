@@ -118,7 +118,7 @@ git push origin <add-your-name>
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [η λίστα με τα project](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Επιπρόσθετο υλικό](../additional-material/git_workflow_senarios/additional-material.md)
+### [Επιπρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials χρησιμοποιώντας Άλλα Εργαλεία

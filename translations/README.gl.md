@@ -91,7 +91,7 @@ Agora crea e envía a pull request:
 
 Axiña fusionarei os teus trocos (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando los trocos xa estean fusionados.
 
-### [ Material adicional ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Material adicional ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Titoriais con outras ferramentas
 
