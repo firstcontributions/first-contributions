@@ -104,6 +104,7 @@ Saumya Prakash
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Varun Horril](https://github.com/varunhorril)
 - [Aviv Alon](https://github.com/aalon2)
+- [Zheng Yang Ning](https://github.com/ningzy)
 - [Matheus Genteluci](https://github.com/MGenteluci)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
