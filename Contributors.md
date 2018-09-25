@@ -188,6 +188,7 @@ Jeremy Sipple
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
 - [deviled](https://github.com/deviled)
+- [William Thorne](https://github.com/318Thorne)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
 - [Vandy Thong](https://github.com/vandythong)
