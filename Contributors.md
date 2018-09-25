@@ -11,6 +11,7 @@
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
+- [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
