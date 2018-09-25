@@ -29,6 +29,7 @@ modified by bin-w
 - [Bcsrn]
 Martin Corby
 Kevin Hudson
+- [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
