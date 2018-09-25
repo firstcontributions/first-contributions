@@ -3,6 +3,7 @@
 modified by bin-w
 - [Arya Bhardwaj(https://github.com/ARYA-BHARDWAJ)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Jason Cole](https://github.com/jaymcole)
@@ -10,7 +11,8 @@ modified by bin-w
 - [BugDiver](https://github.com/bugdiver)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Michael W Anderson] (https://github.com/michanders)
-- [SINGAM MOHIT REDDY](https://github.com/foxpixel)
+- [SINGAM MOHIT RED
+DY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
