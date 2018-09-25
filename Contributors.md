@@ -21,6 +21,7 @@
 - [Cameron Blake](https://github.com/mcblake)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [Jeff Darling](https://github.com/jeffld)
+- [Chau Ly](https://github.com/lycb)
 - [Laimon Katalor](https://github.com/bzddd)
 - [Martin Nguyen](https://github.com/NguyenMartin/)
 - [Taehyun Lee](https://github.com/taehyun-lee)
