@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
@@ -7,6 +7,7 @@
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
+Elizabeth
 Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
