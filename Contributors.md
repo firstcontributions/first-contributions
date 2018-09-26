@@ -2666,6 +2666,7 @@ Saumya Prakash
 - [Michel Michels](https://github.com/MichelMichels)
 - [DerekL1688](https://github.com/derekl1688)
 - [Tricia Cuninghame](https://github.com/Tricky2712)
+- [Caio Vilas](https://github.com/caiovilas)
 - [Brendan Hanna](https://github.com/gepetto503)
 - [Renu](https://github.com/RenuGreen)
 - [Juan Romani](https://github.com/JuanRomani)
