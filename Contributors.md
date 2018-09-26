@@ -222,6 +222,7 @@ Ruslan
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
 - [lancelot1337](https://github.com/lancelot1337)
+-[mrKappen](https://github.com/mrKappen)
 - [hritikgupta](https://github.com/hritikgupta)
 - [Aidan Buchanan](https://github.com/N3XTL1FE)
 - [suresh37](https://github.com/suresh37/)
