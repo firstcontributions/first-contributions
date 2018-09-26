@@ -100,19 +100,9 @@ Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare
 
 Skicka iväg din s.k. pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett e-mail så fort dina ändringar blivit införda.
-
-## Ta bort din branch efter det att dina ändringar blivit införda
-
-Du kan lugnt ta bort din branch "<add-your-branch-name> efter det att din begäran blivit införd. Du kommer att se en knapp i GitHub:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-Om din begäran stängdes utan att införas kommer GitHub att varna för att du försöker ta bort ändringar som inte införts, knappen kommer se ut så här:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Hur går man vidare?
 

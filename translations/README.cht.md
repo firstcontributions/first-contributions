@@ -88,7 +88,7 @@ git push origin <add-your-name>
 
 接著再點擊 `Create pull request` 按鈕，正式提交 pull request。
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 不久之後，如果妳/你更改的文件與原本沒有衝突，我們會把所有的變化合併到這個項目的主分支。
 更改合併後，妳/你會收到通知電郵。

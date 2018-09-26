@@ -128,7 +128,7 @@ git push origin "add-your-name"
 
 <div dir="rtl">والآن سلم طلبك لتتم مراجعته </div>
 
-<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 <div dir="rtl">بعد المراجعة سوف أقوم بدمج تغيرراتك إلى الفرع الرئيس في المشروع. سيتم تنبيهك عن طريق البريد الإلكتروني بذلك.</div>
 

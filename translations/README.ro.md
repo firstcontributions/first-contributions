@@ -89,7 +89,7 @@ Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull
 
 Acum trimiteți solicitarea de tragere.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Curând eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
 

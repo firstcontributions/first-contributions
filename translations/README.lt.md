@@ -88,7 +88,7 @@ Eikite į savo saugyklą GitHub. Pamatysite mygtuką `Compare & pull request` (p
 
 Dabar pateikite įtraukimo į pradinę saugyklą (pull) užklausą.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projekto pagrindine šaka. Kai pakeitimai bus sujungti, gausite tai patvirtinantį el. laišką.
 

@@ -111,19 +111,9 @@ If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` butt
 
 Now submit th' pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
-
-## Delete th' branch aft pull request has been merged
-
-Ye can safely scuttle yer branch `<add-yer-branch-name>` aft th' pull request has been merged. Ye'll see a button t' scuttle th' branch:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-If th' Pull Request was closed without bein' merged, GitHub will warn ye about scuttlin' unmerged commits 'n th' button will look like this:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Where t' go from here?
 

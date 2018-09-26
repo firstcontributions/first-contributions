@@ -86,7 +86,7 @@ Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & 
 
 Maintenant soumettez la demande de tirage.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Sous peu j'aurai fusionné toutes vos modifications avec la branche master de ce projet. Vous recevrez un mail de notification dès que la fusion sera effectuée.
 

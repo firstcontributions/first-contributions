@@ -98,18 +98,8 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 
 अब अपनी pull request सबमिट करें|
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 जल्द ही मैं आपके बदलावों को इस प्रोजेक्ट की मास्टर शाखा में मर्ज क्र दूंगा| आपको एक मेल आजायेगी जब आपके बदलाव मर्ज होंगे|
-
-## पुल अनुरोध मर्ज के बाद शाखा हटाएं
-
-पुल अनुरोध मर्ज होने के बाद आप अपनी शाखा को सुरक्षित रूप से हटा सकते हैं। शाखा को हटाने के लिए आपको एक बटन दिखाई देगा:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-अगर पुल अनुरोध मर्ज किए बिना बंद कर दिया गया था, तो github आपको मर्ज न किए गए कामों को हटाने के बारे में चेतावनी देगा और बटन इस तरह दिखेगा:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## यहाँ से कहाँ जाएं ?
 

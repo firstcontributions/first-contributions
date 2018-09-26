@@ -86,7 +86,7 @@ git push origin <add-your-name>
 
 Тепер зміни відправлені на перевірку і затвердження.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Скоро я об’єднаю ваші зміни з основною віткою цього репозиторія. Ви отримаєте листа коли це буде зроблено.
 

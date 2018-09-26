@@ -87,7 +87,7 @@ git push origin <add-your-name>
 
 Теперь подтвердите пулл-реквест.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Скоро я произведу объединение всех ваших изменений с основной ветвью данного проекта. Вы получите сообщение по электронной почте, когда изменения будут приняты (смержены).
 
