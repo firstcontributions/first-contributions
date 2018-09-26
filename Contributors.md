@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
@@ -120,6 +120,7 @@ Ruslan
 - [Henry Jackson](https://github.com/henry-jackson)
 - [Jan Ferec](https://github.com/jferec)
 - [Chris Boujoukos](https://github.com/cboujoukos)
+- [Lucas Gates](https://github.com/lucasg234)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
