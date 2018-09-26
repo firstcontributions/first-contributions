@@ -6042,3 +6042,4 @@ Keithan Philander
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
+- [Rishik Rohan](https://github.com/Rishik233)
