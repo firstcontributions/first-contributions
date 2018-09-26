@@ -6047,3 +6047,4 @@ Keithan Philander
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
+- [Maurice A](https://github.com/matrop)
