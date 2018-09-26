@@ -1,6 +1,7 @@
 ﻿# Contributors
   
 - [modified by bin-w](https://github.com/Tiptiks)
+- [Coding With E](https://github.com/codingwithe)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
