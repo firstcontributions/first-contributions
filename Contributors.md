@@ -6035,3 +6035,4 @@ Keithan Philander
 - [Anusha M](https://github.com/coder90875)
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
+- [Wallace Soares](https://github.com/soareswallace)
