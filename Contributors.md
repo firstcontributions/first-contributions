@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
@@ -2080,6 +2080,7 @@ Saumya Prakash
 - [melisaim](https://github.com/MelisaIm)
 - [zbelway](https://github.com/zbelway)
 - [MacStan](https://github.com/MacStan)
+- [kkaiser87](https://github.com/kkaiser87)
 - [Dario Gabriel](https://github.com/dariogabriel113)
 - [BrumGB](https://github.com/brumgb)
 - [lthlong](https://github.com/lthlong)
