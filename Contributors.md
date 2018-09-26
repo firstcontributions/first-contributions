@@ -1,9 +1,12 @@
 # Contributors
-khelalfa rabeh
+
+- [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
+- [Coding With E](https://github.com/codingwithe)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+- [Nikil99](https://github.com/Nikil99)
 Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
@@ -13,6 +16,7 @@ Jeremy Sipple
 - [BugDiver](https://github.com/bugdiver)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
+- [Cody Garrett](https://github.com/CsCody)
 Saumya Prakash
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
@@ -102,6 +106,7 @@ Saumya Prakash
 - [Prasad Chitnis](https://github.com/Prasadchitnis26)
 - [Varun Horril](https://github.com/varunhorril)
 - [Aviv Alon](https://github.com/aalon2)
+- [Zheng Yang Ning](https://github.com/ningzy)
 - [Matheus Genteluci](https://github.com/MGenteluci)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Artur Pieluszczak](https://github.com/pieluart)
@@ -279,6 +284,7 @@ Saumya Prakash
 - [Hayward Harris](https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
 - [Kenny Luu](https://github.com/kennyluuluu)
+- [trickypicky](https://github.com/trickypicky)
 - [Alexander Janßen](https://github.com/AlexJanss)
 - [Tony Chen](https//github.com/tchen98)
 - [Prince](https://github.com/PrinceSharzeel)
@@ -3641,6 +3647,7 @@ Keithan Philander
 - [BO41](https://github.com/BO41)
 - [Shubham Garg](https://github.com/sbeesm)
 - [Nate Weeks](https://github.com/Nate-weeks)
+- [Tasdid](https://github.com/Tasdid)
 - [Longwen Ou](https://github.com/oulongwen)
 - [J-tanz](https://github.com/j-tanz)
 - [David Organ](https://github.com/davidorgan)
@@ -6029,3 +6036,5 @@ Keithan Philander
 - [Anzony White](https://github.com/anblaca3790)
 - [Anusha M](https://github.com/coder90875)
 - [Pakornsak](https://github.com/pakornsak)
+- [Maciej Kietlinski](https://github.com/MKietlinski)
+- [Wallace Soares](https://github.com/soareswallace)
