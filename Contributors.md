@@ -18,6 +18,7 @@ Jeremy Sipple
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Cody Garrett](https://github.com/CsCody)
 Saumya Prakash
+- [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
