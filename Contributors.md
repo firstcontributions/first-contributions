@@ -54,6 +54,7 @@
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
+Carol L 
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
