@@ -5930,6 +5930,7 @@
 - [Ev](https://github.com/Evvie)
 - [Vinay Chawla](https://github.com/vinaychawla11)
 - [Vjroby](https://github.com/vjroby)
+- [Kosuke](https://github.com/coarse-k)
 - [Pranav Hundekari](https://github.com/pranav-h)
 - [Dodgers](https://github.com/dodgers76)
 - [Siddharth Maurya](http://github.com/savvysiddharth)
