@@ -87,6 +87,7 @@
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Elena Cristina]
 - [Sankarsh Pallela](https://github.com/sankarsh98)
+- [G Heller](https://github.com/hellerguyh)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Alejandro Z. Reed](https://github.com/AZReed)
@@ -4096,6 +4097,7 @@
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
 - [Rinal P](https://github.com/rinal96)
 - [psittacine](https://github.com/psittacine)
+- [Onas](https://github.com/onxssiss)
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
 - [Alessandro Racheli](https://github.com/floydjohn)
@@ -5961,6 +5963,7 @@
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
 - [Omari RB](https://github.com/orbville)
+- [Awonusi Olajide](https://github.com/zenithcoder)
 - [Rajat Kanti Nandi](https://github.com/rajatkantinandi)
 - [Czeide Avanzado](https://github.com/czeideavanzado)
 - [Chamoda Pandithage](https://github.com/chamoda)
