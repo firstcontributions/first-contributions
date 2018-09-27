@@ -10,8 +10,8 @@
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
-Elizabeth
-Jeremy Sipple
+  Elizabeth
+  Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
@@ -22,14 +22,14 @@ Jeremy Sipple
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Cody Garrett](https://github.com/CsCody)
-Saumya Prakash
+  Saumya Prakash
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
-Ruslan
+  Ruslan
 - [Aananya](https://github.com/aananya27)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
@@ -227,8 +227,7 @@ Ruslan
 - [Nkg18](https://github.com/Nkg18)
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
-- [lancelot1337](https://github.com/lancelot1337)
--[mrKappen](https://github.com/mrKappen)
+- [lancelot1337](https://github.com/lancelot1337) -[mrKappen](https://github.com/mrKappen)
 - [hritikgupta](https://github.com/hritikgupta)
 - [Aidan Buchanan](https://github.com/N3XTL1FE)
 - [suresh37](https://github.com/suresh37/)
@@ -499,6 +498,7 @@ Ruslan
 - Someone
 - [Stephen Charlton](https://github.com/StephenCalChar)
 - [Adam Irby](https://github.com/adamirby)
+  Vishnu Umakanthan
 - [Andrew Khalel](https://github.com/andrewekhalel)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
@@ -1999,7 +1999,7 @@ Ruslan
 - [Gowtham R](https://github.com/gowtham1997)
 - [U?ur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
-- [MoJen Jenkins] (https://github.com/mojenmojen)
+- [MoJen Jenkins](https://github.com/mojenmojen)
 - [Dave Gray](https://github.com/gitdagray)
 - [Matthew Dray](https://github.com/17robots)
 - [Berkay Ersengun](https://github.com/berkayersengun)
@@ -3339,7 +3339,7 @@ Ruslan
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
 - [Niklas Matthias](https://github.com/1Niklas)
-Keithan Philander
+  Keithan Philander
 - [Souna](https://github.com/sounaa)
 - [William Edwards](https://github.com/williamedwards)
 - [Eric Rolfe](https://github.com/elrolfe)
@@ -6065,6 +6065,6 @@ Keithan Philander
 - [Rishik Rohan](https://github.com/Rishik233)
   [Thomas M](https://github.com/thomas901/first-contributions)
 - [Maurice A](https://github.com/matrop)
-- [CodersFiles] (https://github.com/CodersFiles)
-- [Kushal Vijay] (https://github.com/KushalVijay)
+- [CodersFiles](https://github.com/CodersFiles)
+- [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
