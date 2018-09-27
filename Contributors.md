@@ -3874,6 +3874,7 @@ Carol L
 - [Stefano Pasquini](https://github.com/stefoxp)
 - [JK](https://github.com/faunarooska/)
 - [Zach Miller](https://github.com/ZachSandburgMiller)
+- [Emily Cheyne](https://github.com/echeyne)
 - [Vinicius Falcao](https://github.com/vinyfalcao)
 - [Ahmed Fouzan](https://github.com/ahmedfouzan)
 - [Satya Mohan](https://github.com/SatyaMohan)
