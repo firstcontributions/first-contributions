@@ -151,6 +151,7 @@ Carol L
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
 - [Damo Ando](https://github.com/damoando4)
+- [Daniel Kim](https://github.com/danjkim)
 - [xiaochun Lee](https://github.com/xiaochunlee)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
