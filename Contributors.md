@@ -12,6 +12,7 @@
 - [Neighlyd](https://github.com/neighlyd)
   Elizabeth
   Jeremy Sipple
+- [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
