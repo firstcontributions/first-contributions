@@ -86,6 +86,7 @@
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Elena Cristina]
+- [G Heller](https://github.com/hellerguyh)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Alejandro Z. Reed](https://github.com/AZReed)
