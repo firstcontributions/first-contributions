@@ -3660,6 +3660,7 @@ Keithan Philander
 - [Veerendra Mahawar](https://github.com/VeerendraMahawar)
 - [Ashok Manghat](https://github.com/ashokmanghat)
 - [Claudia Vidican](https://github.com/DoctorAsia)
+- [Lawrence Thompson] (https://githib.com/Larrynom)
 - [Eirini Galati](https://github.com/Sreini)
 - [Andre Endo](https://github.com/andreendo)
 - [Martin Vengai](https://github.com/MartinVengai)
