@@ -698,6 +698,7 @@ Ruslan
 - [Arthur Rocha](https://github.com/Arthurcrs)
 - [Oghenetega](https://github.com/agbanagba)
 - [Warren](https://github.com/et265831)
+- [Melisa Griffin](https://github.com/missylbytes)
 - [Martin Neifert](https://github.com/MartinNeifert)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Shaheen N S](https://github.com/Shaheennamboori)
