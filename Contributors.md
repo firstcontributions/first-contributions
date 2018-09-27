@@ -4095,6 +4095,7 @@
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
 - [Rinal P](https://github.com/rinal96)
 - [psittacine](https://github.com/psittacine)
+- [Onas](https://github.com/onxssiss)
 - [Karim Rebai](https://github.com/karimrebai)
 - [GL Fontana](https://github.com/glfontana)
 - [Alessandro Racheli](https://github.com/floydjohn)
