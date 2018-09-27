@@ -6061,6 +6061,7 @@ Keithan Philander
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
+  [Thomas M](https://github.com/thomas901/first-contributions)
 - [Maurice A](https://github.com/matrop)
 - [CodersFiles] (https://github.com/CodersFiles)
 - [Kushal Vijay] (https://github.com/KushalVijay)
