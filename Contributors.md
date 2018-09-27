@@ -6062,6 +6062,7 @@
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
+- [iandr](https://github.com/iandr)
 - [Rishik Rohan](https://github.com/Rishik233)
   [Thomas M](https://github.com/thomas901/first-contributions)
 - [Maurice A](https://github.com/matrop)
