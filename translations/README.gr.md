@@ -105,7 +105,7 @@ git push origin <add-your-name>
 
 Τώρα υποβάλλετε την pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στο master branch του προγράμματος. Θα ειδοποιηθείτε με email όταν οι αλλαγές που κάνατε ενσωματωθούν.
 

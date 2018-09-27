@@ -90,7 +90,7 @@ git push origin <分支的名称>
 
 接着再点击 `Create pull request` 按钮，正式提交 pull request。
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
 

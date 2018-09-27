@@ -81,7 +81,7 @@ Wenn du jetzt zu deinem Repository auf Github gehst, siehst du einen Knopf `Comp
 
 Erstelle einen Pull Request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="Pull Request senden" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="Pull Request senden" />
 
 Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
 

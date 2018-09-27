@@ -84,7 +84,7 @@
 وجود داره . روش کلیک کن</p>
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 <p dir="rtl">حالا دستور پل رو ثبت کن</p>
-<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 <p dir="rtl">بزودی من تمام تغیرات تو رو به شاخه اصلی این پروژه اضافه میکنم
 زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
 <h2 dir="rtl">

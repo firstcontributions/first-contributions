@@ -29,14 +29,14 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone this repo to your machine. Go to your GitHub account, click on the clone button and then click the *copy to clipboard* icon.
+Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
 
 ```
 git clone "url you just copied"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository(your fork of this project). See the previous steps to obtain the url.
+where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -102,19 +102,9 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
-
-## Delete the branch after pull request has been merged
-
-You can safely delete your branch `<add-your-branch-name>` after the pull request has been merged. You'll see a button to delete the branch:
-
-<img style="float: right;" src="assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-If the Pull Request was closed without being merged, GitHub will warn you about deleting unmerged commits and the button will look like this:
-
-<img style="float: right;" src="assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Where to go from here?
 

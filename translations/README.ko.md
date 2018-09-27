@@ -118,7 +118,7 @@ git push origin <add-your-name>
 
 이제 풀 요청을 제출합니다.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="풀 요청 제출하기"
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="풀 요청 제출하기"
 />
 
 이제 여러분의 변경사항을 제가 확인 후에  마스터 브랜치에 머지하게되면 알림메일을 받으실 수 있습니다.

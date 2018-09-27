@@ -115,7 +115,7 @@ git push origin <add-your-name>
 
 <div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
 
-<img style="float: left;" src="../assets/submit-pull.png" alt="پل درخواست جمع کروائیں" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="پل درخواست جمع کروائیں" />
 
 <div dir="rtl"> جلد ہی میں آپ کی تمام تبدیلیوں کو اس پروجیکٹ کی ماسٹر شاخ میں ضم کر دونگا. تبدیلیوں کو ضم کرنے کے بعد آپ کو نوٹیفکیشن ای میل مل جائے گی </div>
 
