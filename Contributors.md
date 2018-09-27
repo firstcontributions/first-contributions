@@ -10,6 +10,7 @@
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
+- [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
   Jeremy Sipple
 - [Matt Rigby](https://github.com/Matt-Rigby)
