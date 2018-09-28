@@ -44,6 +44,7 @@
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Cameron Blake](https://github.com/mcblake)
 - [Zhana Dougherty](https://github.com/ZPPD)
+- [Eric Simard](https://github.com/ericsimard52)
 - [Jeff Darling](https://github.com/jeffld)
 - [Chau Ly](https://github.com/lycb)
 - [Laimon Katalor](https://github.com/bzddd)
