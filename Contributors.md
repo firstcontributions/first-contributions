@@ -6044,3 +6044,4 @@ Keithan Philander
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
+- [Eric Fernandez](https://github.com/I300tcamp)
