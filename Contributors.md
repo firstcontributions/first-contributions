@@ -1,6 +1,7 @@
 # Contributors
 
 - [sia4](https://github.com/sia4)
+- [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
