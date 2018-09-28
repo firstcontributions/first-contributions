@@ -57,7 +57,7 @@
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
-Carol L 
+Carol L
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
@@ -4277,6 +4277,7 @@ Harish Indla
 - [jaskaran singh](https://github.com/Jaskaran12)
 - [Ilya Moskovkin](https://github.com/TargiX)
 - [arun gajora](http://github.com/arungajora)
+- [Aaron Meaney](http://github.com/Reccy)
 - [Reinards](https://github.com/Reinards)
 - [Curtis Mac](https://github.com/CurtisMac)
 - [Phil Shaheen](https://github.com/pshaheen)
@@ -6093,4 +6094,3 @@ Harish Indla
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
-
