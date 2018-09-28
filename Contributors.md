@@ -6079,6 +6079,8 @@ Harish Indla
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
+- [Rishik Rohan](https://github.com/Rishik233)
+- [Eric Fernandez](https://github.com/I300tcamp)
 - [iandr](https://github.com/iandr)
 - [Rishik Rohan](https://github.com/Rishik233)
   [Thomas M](https://github.com/thomas901/first-contributions)
@@ -6086,3 +6088,4 @@ Harish Indla
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
+
