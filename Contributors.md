@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [sia4](https://github.com/sia4)
 - [setesti](https://github.com/setesti)
@@ -13,6 +13,7 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
   Jeremy Sipple
+- [Bridget Liu]
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
