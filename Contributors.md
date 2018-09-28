@@ -68,6 +68,7 @@ Harish Indla
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
+- [Maurizio Bruetsch](https://github.com/MaurizioBruetsch)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
