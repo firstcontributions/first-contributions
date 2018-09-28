@@ -13,7 +13,7 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
   Jeremy Sipple
-- [Bridget Liu](https://github.com/bridget72)
+- [Bridget Liu]
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
