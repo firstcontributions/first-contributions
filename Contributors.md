@@ -57,7 +57,7 @@
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
-Carol L 
+Carol L
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
@@ -6091,4 +6091,4 @@ Harish Indla
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
-
+- [mhaagen ](https://github.com/mhaagen)
