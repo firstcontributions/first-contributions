@@ -90,19 +90,9 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 Agora envie um Pull Request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="sube la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="sube la pull request" />
 
 Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
-
-## Delete o branch após o pull request ser mesclado
-
-Você pode seguramente deletar o seu branch `<add-nome-do-branch>` após o pull request ser mesclado. Você verá um botão de deletar o branch:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-Se o seu Pull Request foi fechado sem ser mergeado, o GitHub irá lhe alertar sobre deleção de commits não mesclados e o botão irá se parecer com isto:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 

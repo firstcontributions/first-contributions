@@ -105,7 +105,7 @@ W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. K
 
 Teraz wyślij prośbę o scalenie.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
 

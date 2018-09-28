@@ -90,7 +90,7 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 プルリクエストを作ってください：
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 すぐに私が加えられた変更をmasterブランチにマージします。マージが終了した際にはその旨のメールが送られます。
 

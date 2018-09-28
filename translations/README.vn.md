@@ -86,7 +86,7 @@ Nếu bạn mở kho mã nguồn của bạn trên github, bạn sẽ thấy nú
 
 Bây giờ gửi yêu cầu kéo.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Bây giờ tôi sẽ kết hợp tất cả các thay đổi của bạn vào chi nhánh chủ (master branch) của dự án này. Bạn sẽ nhận được một email thông báo khi những thay đổi đã được sáp nhập.
 

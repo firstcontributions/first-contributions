@@ -81,7 +81,7 @@ Se fores para o teu repositório no GitHub, verás um botão `Compare & pull req
 
 Agora envia um Pull Request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="Envia um pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="Envia um pull request" />
 
 Logo estarei a incorporar as tuas mudanças no Branch principal (master) deste projeto. Vais receber um e-mail de notificação quando as alterações forem incorporadas.
 

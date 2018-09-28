@@ -86,7 +86,7 @@ Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & pul
 
 Submit pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan anda ke master cabang proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
 

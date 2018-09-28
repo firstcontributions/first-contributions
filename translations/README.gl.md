@@ -87,7 +87,7 @@ Se vas ó teu repositorio en GitHub, verás un botón `Compare & pull request`. 
 
 Agora crea e envía a pull request:
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="sube a pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="sube a pull request" />
 
 Axiña fusionarei os teus trocos (facendo *merge*) na master branch deste proxecto. Recibirás unha notificación por correo cando los trocos xa estean fusionados.
 

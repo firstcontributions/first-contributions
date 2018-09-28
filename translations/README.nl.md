@@ -85,7 +85,7 @@ Als je naar je repository gaat op GitHub, zal je zien dat er een `Compare & pull
 
 Verstuur nu je pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 ## Je fork in sync houden met de hoofd-repository
 

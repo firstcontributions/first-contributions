@@ -89,7 +89,7 @@ Age Beri Too Repository Roo GitHub, Dokmeye `Compare & pull request` Ro Mibini. 
 
 Hala Darkhate Pull Ro Submit Kon
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Be Zoodi Man Tamame Taghiratet Ro Be Branche "Master" Ezafe Mikonam. Be Mahze IN Ke Taghirat Submit Shod Email Daryaft Mikoni
 
