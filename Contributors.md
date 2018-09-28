@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [sia4](https://github.com/sia4)
+- [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
@@ -14,10 +15,12 @@
   Elizabeth
   Jeremy Sipple
   Briana Oursler
+- [Bridget Liu]
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
+- [Nav k] (https://github.com/DevNavpreet)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
@@ -64,9 +67,11 @@ Carol L
 - [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
+Harish Indla
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
+- [Maurizio Bruetsch](https://github.com/MaurizioBruetsch)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
@@ -91,6 +96,7 @@ Carol L
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Elena Cristina]
+- [Sankarsh Pallela](https://github.com/sankarsh98)
 - [G Heller](https://github.com/hellerguyh)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
@@ -152,6 +158,7 @@ Carol L
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
 - [Damo Ando](https://github.com/damoando4)
+- [Daniel Kim](https://github.com/danjkim)
 - [xiaochun Lee](https://github.com/xiaochunlee)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
@@ -216,6 +223,7 @@ Carol L
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
 - [deviled](https://github.com/deviled)
+- [mayvar](https://github.com/vmayce)
 - [William Thorne](https://github.com/318Thorne)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
@@ -260,6 +268,7 @@ Carol L
 - [Oxana Ermolenko](https://github.com/okyska)
 - [Tsion Adefres](https://github.com/Tsionad)
 - [Gio Noa](https://github.com/gionoa)
+- [Saurabh Bayani](https://github.com/SaurabhBayani)
 - [Joshua Brandt](https://github.com/demasu)
 - [weizheng xing](https://github.com/meilier)
 - [Matt Magda](https://github.com/realgs)
@@ -3795,6 +3804,7 @@ Carol L
 - [Aswani Prakash](https://github.com/aswaniprakash)
 - [Maxime Elkael](https://github.com/e-maxou)
 - [Maya Farber](https://github.com/farberbrodsky)
+- [Matt Southward](https://github.com/mattsouthward)
 - [Rambabu Govind](https://github.com/rambabugovind)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
@@ -3875,6 +3885,7 @@ Carol L
 - [Stefano Pasquini](https://github.com/stefoxp)
 - [JK](https://github.com/faunarooska/)
 - [Zach Miller](https://github.com/ZachSandburgMiller)
+- [Emily Cheyne](https://github.com/echeyne)
 - [Vinicius Falcao](https://github.com/vinyfalcao)
 - [Ahmed Fouzan](https://github.com/ahmedfouzan)
 - [Satya Mohan](https://github.com/SatyaMohan)
@@ -4775,6 +4786,7 @@ Carol L
 - [Yoseph Parai](https://github.com/yosephoche)
 - [Edmilson Verona](https://github.com/edmilsonverona)
 - [Antonio Gargaro](https://github.com/AntonioGargaro97)
+- [Md Riyadh] (https://github.com/riyadhctg)
 - [Mirza Suga](https://github.com/mirzasuga)
 - [Anushree Jain](https://github.com/anushreejain98)
 - [Pratik Gawali](https://github.com/pratikgawali)
@@ -5182,6 +5194,7 @@ Carol L
 - [Ahmad Almawi](https://github.com/AhmadAlmawi)
 - [AhmadReza Mohammadi](https://github.com/ARMy4D)
 - [Maksim P](https://github.com/red4211)
+  [Kyle Archuleta](https://github.com/guitarchie)
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
@@ -6074,6 +6087,8 @@ Carol L
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
+- [Rishik Rohan](https://github.com/Rishik233)
+- [Eric Fernandez](https://github.com/I300tcamp)
 - [iandr](https://github.com/iandr)
 - [Rishik Rohan](https://github.com/Rishik233)
   [Thomas M](https://github.com/thomas901/first-contributions)
@@ -6081,3 +6096,4 @@ Carol L
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
+
