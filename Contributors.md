@@ -5191,6 +5191,7 @@ Harish Indla
 - [Ahmad Almawi](https://github.com/AhmadAlmawi)
 - [AhmadReza Mohammadi](https://github.com/ARMy4D)
 - [Maksim P](https://github.com/red4211)
+  [Kyle Archuleta](https://github.com/guitarchie)
 - [Ratnajothy Sangeethanan](https://github.com/Sangeethanan96)
 - [Ofir Rosner](https://github.com/Styxer)
 - [Daniel Philistin](https://github.com/lexxyboy)
