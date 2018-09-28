@@ -216,6 +216,7 @@ Carol L
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
 - [deviled](https://github.com/deviled)
+- [mayvar](https://github.com/vmayce)
 - [William Thorne](https://github.com/318Thorne)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
