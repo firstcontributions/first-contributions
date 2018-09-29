@@ -3,6 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [sia4](https://github.com/sia4)
 - [Basheer88](https://github.com/Basheer88)
+- [Greg Dardis](https://github.com/gregdardis)
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
