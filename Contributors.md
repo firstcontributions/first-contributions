@@ -5825,6 +5825,7 @@ Harish Indla
 - [Bruno Trindade](https://github.com/iHollyZinhO)
 - [Tom Raley](https://github.com/halcyondays22)
 - [Thales Junior](https://github.com/ThalesGomesJr)
+- [Jose Freitas](http://github.com/jaugustocesar)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
 - [Rachel Lima](https://github.com/rachellimaa)
