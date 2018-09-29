@@ -1,6 +1,8 @@
 # Contributors
 
+- [Anton Medvedev](https://github.com/antonmdv)
 - [sia4](https://github.com/sia4)
+- [Basheer88](https://github.com/Basheer88)
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
@@ -14,11 +16,13 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
   Jeremy Sipple
+  Briana Oursler
 - [Bridget Liu]
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
+- [Nav k] (https://github.com/DevNavpreet)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
@@ -42,6 +46,7 @@
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Cameron Blake](https://github.com/mcblake)
 - [Zhana Dougherty](https://github.com/ZPPD)
+- [Eric Simard](https://github.com/ericsimard52)
 - [Jeff Darling](https://github.com/jeffld)
 - [Chau Ly](https://github.com/lycb)
 - [Laimon Katalor](https://github.com/bzddd)
@@ -3802,6 +3807,7 @@ Harish Indla
 - [Aswani Prakash](https://github.com/aswaniprakash)
 - [Maxime Elkael](https://github.com/e-maxou)
 - [Maya Farber](https://github.com/farberbrodsky)
+- [Matt Southward](https://github.com/mattsouthward)
 - [Rambabu Govind](https://github.com/rambabugovind)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
@@ -6094,3 +6100,4 @@ Harish Indla
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
+- [mhaagen ](https://github.com/mhaagen)
