@@ -12,6 +12,7 @@
 - [Coding With E](https://github.com/codingwithe)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
+- [Nikki Sharpley](https://github.com/nikk15)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
