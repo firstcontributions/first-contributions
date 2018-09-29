@@ -885,6 +885,7 @@ Harish Indla
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
 - [Nathaniel Ngo](https://github.com/ndngo)
 - [Wyatt Hoodes](https://github.com/whoodes)
+- [Eduardo Patrice](https://github.com/epatrice)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
 - [Joe Corapi](https://github.com/JoeCorapi)
 - [Edwin L](https://github.com/cslasher)
