@@ -98,6 +98,7 @@
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Varsha Chahal](https://github.com/VarshaChahal)
+- [Kavinda Senarathne](https://github.com/Kavinda-Senarathne)
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
