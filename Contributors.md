@@ -19,6 +19,7 @@
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
+- [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
