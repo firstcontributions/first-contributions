@@ -29,6 +29,7 @@
 - [BugDiver](https://github.com/bugdiver)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
+- Alon
 - [Cody Garrett](https://github.com/CsCody)
   Saumya Prakash
 - [Dan Ingenthron](https://github.com/daningenthron)
