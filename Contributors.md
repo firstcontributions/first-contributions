@@ -104,6 +104,7 @@ Harish Indla
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Elena Cristina]
 - [Sankarsh Pallela](https://github.com/sankarsh98)
+- [Kevin Cheong] (https://github.com/sicksticky)
 - [G Heller](https://github.com/hellerguyh)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
