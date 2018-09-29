@@ -991,6 +991,7 @@ Harish Indla
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Krishnan V](https://github.com/Krishnanv070490)
 - [Richa](https://github.com/richa208)
+- [n1ckyb](https://github.com/n1ckyb)
 - [Mike Schmitz](https://github.com/misterschmitz)
 - [Noam Kantor](https://github.com/Doise)
 - [Renan Souza](https://github.com/renanba)
