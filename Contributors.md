@@ -834,6 +834,7 @@ Harish Indla
 - [Zain Khan](https://github.com/gimpster05)
 - [Ephraim Harris](https://github.com/eharris91)
 - [Lian Thompson](https://github.com/lianthompson)
+- [Sweta Behera](https://github.com/swetax)
 - [Boahen Gyan](https://github.com/Ohenegyan)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
