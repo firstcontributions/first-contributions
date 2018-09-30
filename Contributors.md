@@ -3,6 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [sia4](https://github.com/sia4)
 - [Basheer88](https://github.com/Basheer88)
+- [iamprayush] (https://github.com/iamprayush)
 - [Greg Dardis](https://github.com/gregdardis)
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
@@ -10,6 +11,7 @@
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
+- [Adina Budriga](https://github.com/AdinaBudriga)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
@@ -18,6 +20,7 @@
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
+- Aniket  
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
@@ -79,6 +82,8 @@ Harish Indla
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
+- [Lesly Quiñonez](https://github.com/leslykqi89)
+- [Steven Tellez](https://github.com/stellez)
 - [Maurizio Bruetsch](https://github.com/MaurizioBruetsch)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
@@ -5825,6 +5830,7 @@ Harish Indla
 - [Bruno Trindade](https://github.com/iHollyZinhO)
 - [Tom Raley](https://github.com/halcyondays22)
 - [Thales Junior](https://github.com/ThalesGomesJr)
+- [Jose Freitas](http://github.com/jaugustocesar)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
 - [Rachel Lima](https://github.com/rachellimaa)
@@ -5863,6 +5869,7 @@ Harish Indla
 - [Michele Bernini](https://github.com/mbernini)
 - [Sukhnandan Malhotra](https://github.com/SukhnandanMalhotra)
 - [Niclas Wim](https://github.com/niwim)
+- [Ashish Iyer]((https://github.com/ashishiyer)
 - [MH](https://github.com/mh22)
 - [Usman Rafi](https://github.com/usmanrafi)
 - [Penny Pan](https://github.com/pennypchy)
@@ -6114,3 +6121,4 @@ Harish Indla
 - [mhaagen ](https://github.com/mhaagen)
 - [Renato Fekete](https://github.com/renatofekete)
 - [Jill Liu](https://github.com/ChJillOut)
+- [Mike Brad](https://github.com/mikebrad75)
