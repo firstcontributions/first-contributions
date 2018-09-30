@@ -19,6 +19,7 @@
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
   Elizabeth
+- Aniket  
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
