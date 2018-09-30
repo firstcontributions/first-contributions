@@ -19,6 +19,7 @@
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
+- [Indraneel Sarkar](https://github.com/sark01)
   Elizabeth
 - Aniket  
   Jeremy Sipple
