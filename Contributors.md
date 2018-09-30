@@ -82,6 +82,7 @@ Harish Indla
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
 - [Lesly Quiñonez](https://github.com/leslykqi89)
+- [Steven Tellez](https://github.com/stellez)
 - [Maurizio Bruetsch](https://github.com/MaurizioBruetsch)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
