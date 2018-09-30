@@ -47,6 +47,7 @@
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
   Ruslan
+- [Melis](https://github.com/melisdogan) 
 - [Aananya](https://github.com/aananya27)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
