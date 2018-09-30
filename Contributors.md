@@ -3,6 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [sia4](https://github.com/sia4)
 - [Basheer88](https://github.com/Basheer88)
+- [Pranay Agarwal](https://github.com/pranayag)
 - [iamprayush] (https://github.com/iamprayush)
 - [Greg Dardis](https://github.com/gregdardis)
 - [Batey Martin](https://github.com/D3RVUN1x)
@@ -6127,4 +6128,4 @@ Harish Indla
 - [Jill Liu](https://github.com/ChJillOut)
 - [Mike Brad](https://github.com/mikebrad75)
 - [Tim Smith](https://github.com/WebRuin)
-- [Justin Estaris] (https://github.com/JustinEstaris)
+- [Justin Estaris](https://github.com/JustinEstaris)
