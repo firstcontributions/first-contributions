@@ -76,6 +76,7 @@ Carol L
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
+- [David Lee](https://github.com/dlee129)
 - [Pietro Metuh](https://github.com/pietrometuh)
 - [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
@@ -6124,4 +6125,4 @@ Harish Indla
 - [Renato Fekete](https://github.com/renatofekete)
 - [Jill Liu](https://github.com/ChJillOut)
 - [Mike Brad](https://github.com/mikebrad75)
-- [Tim Smith](https://github.com/WebRuin) 
+- [Tim Smith](https://github.com/WebRuin)
