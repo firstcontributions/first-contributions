@@ -42,6 +42,7 @@
 - [James]
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
+- [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
