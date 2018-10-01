@@ -1,5 +1,6 @@
 # Contributors
 
+- [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Marta Laís](https://github.com/martalais)
