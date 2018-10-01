@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Marco Jesus](https://github.com/marcojesus)
+- [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Marta Laís](https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
