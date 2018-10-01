@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Shafran Naizer](https://github.com/Shafran123)
 - [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
 - [Long Tran](https://github.com/nhulongctk35)
@@ -6202,6 +6203,6 @@ Harish Indla
 - [JmZero](https://github.com/JmZero)
 - [smuniz](https://github.com/smuniz18)
 - [Manvi] (https://github.com/The-lady-developer)
-- [Dan Postelnicu] (https://github.com/kolapsys)
 - [Ayush Agrawal] (https://github.com/ayush1507)
-
+- [Dan Postelnicu](https://github.com/kolapsys)
+- [Hadnazzar](https://github.com/hadnazzar)
