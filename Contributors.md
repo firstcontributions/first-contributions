@@ -67,6 +67,7 @@
 - [Jeremy Sipple](https://github.com/jsioh11)
 - [Briana Oursler](https://github.com/Boursler)
 - [Bridget Liu](https://github.com/bridget72)
+- [Michael Schoderer](https://github.com/schoderer)
 - [Emma Andrews](https://github.com/emma-andrews)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
