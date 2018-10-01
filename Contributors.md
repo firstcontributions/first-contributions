@@ -4723,6 +4723,7 @@ Harish Indla
 - [Kwadwo Busumtwi](https://github.com/supasheva)
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
+- [Yann Hoffmann](https://github.com/Yann21)
 - [Carolina Ceja](https://github.com/cejac)
 - [Suraj Shah](https://github.com/sshah98)
 - [Jacob Zwickler](https://github.com/Zwiqler94)
