@@ -52,6 +52,7 @@
 - [Akshay Subramanian](https://github.com/aksub99)
   Ruslan
 - [Melis](https://github.com/melisdogan)
+- [Aidan Kelly](https://github.com/aidan-kelly)
 - [Aananya](https://github.com/aananya27)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
