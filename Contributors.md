@@ -286,6 +286,7 @@ Harish Indla
 - [Tyrell Roberts](https://github.com/TyrellR7872)
 - [Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp](https://github.com/FourthMeal128)
+- [Ross Heaney] (https://github.com/ross39)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Larry D'Almeida](https://github.com/larry-dalmeida)
 - [Randall Jordan](https://github.com/TsarVandall)
