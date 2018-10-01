@@ -6146,3 +6146,4 @@ Harish Indla
 - [Jakob S](https://github.com/zjael)
 - [Pranav Garg](https://github.com/pranavgarg123)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
+- [Jasper Danan](https://github.com/JasperDanan)
