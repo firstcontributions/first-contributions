@@ -11,6 +11,7 @@
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
+- [Ankit Suman](https://github.com/ankitsuman4)
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
@@ -5664,7 +5665,6 @@ Harish Indla
 - [Sabique Ahmed Khan](https://github.com/sabique)
 - [Scott Shriver](https://github.com/sshriver)
 - [Laura Tremblay](https://github.com/lauratremblay)
--
 - [Lachlan F](https://github.com/greenfur05/)
 - [Vishnu Chandrappan](http://github.com/vishnuchandrappan)
 - [Codius Nomadus](http://github.com/thecodenomad)
@@ -6063,7 +6063,6 @@ Harish Indla
 - [Markus Petersson](https://github.com/marpe163)
 - [Nemohack](https://github.com/nemohack)
 - [Saumya Wardhan](https://github.com/swardhan)
-
 - [Sreelakshmi Sudey](https://github.com/sreesudey)
 - [Arka Saha](https://github.com/ArkaJU)
 - [dmitri-desh](https://github.com/dmitri-desh/)
@@ -6130,4 +6129,4 @@ Harish Indla
 - [Tim Smith](https://github.com/WebRuin)
 - [Justin Estaris] (https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
-- [Ankit Suman]
+
