@@ -1,6 +1,7 @@
 # Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Pablo Rey](https://github.com/PFeynman)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Wenqin Wang](https://github.com/wenqinduke)
