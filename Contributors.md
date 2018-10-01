@@ -16,6 +16,7 @@
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Ayush Jindal]
 - [Saksham Jain](https://github.com/bhavayAnand9)
+- [Matthew Abrey](https://github.com/Mabrey)
 - [Zhixue Wang](https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Siddharth Naithani](https://github.com/sn99)
