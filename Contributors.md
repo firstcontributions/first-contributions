@@ -10,7 +10,7 @@
 - [Pablo Rey](https://github.com/PFeynman)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
-- [Manish](https://github.com/Manish17292000)	
+- [Manish](https://github.com/Manish17292000)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Ayush Jindal]
@@ -315,6 +315,7 @@
 - [deviled](https://github.com/deviled)
 - [mayvar](https://github.com/vmayce)
 - [William Thorne](https://github.com/318Thorne)
+- [Mikey Korst](https://github.com/paranoidandroid81)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
 - [Vandy Thong](https://github.com/vandythong)
