@@ -2588,6 +2588,7 @@ Harish Indla
 - [jadhav ganesh](https://github.com/jadhavganesh)
 - [Sinjon Bartel](https://github.com/SinjonB/)
 - [Arpit Gupta](https://github.com/Codarp/)
+- [Sagar R Parre](https://github.com/sud0m0nk/)
 - [Smruti Ranjan Senapati](https://github.com/smruti59/)
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
