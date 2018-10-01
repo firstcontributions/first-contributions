@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Pablo Rey](https://github.com/PFeynman)
@@ -10,6 +10,7 @@
 - [Jose Garrido](https://github.com/josej30)
 - [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
+- [Mansi Breja](https://github.com/MansiBreja)
 - [Long Tran](https://github.com/nhulongctk35)
 - [Basheer88](https://github.com/Basheer88)
 - [Pranay Agarwal](https://github.com/pranayag)
