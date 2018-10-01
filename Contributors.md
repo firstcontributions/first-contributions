@@ -2619,6 +2619,7 @@
 - [Tomi Odusanya](https://github.com/odusanya)
 - [Harith Manoj](https://github.com/harithmanoj)
 - [Aditya Nihal Kumar Singh](https://github.com/aditya314)
+- [Shiloh](https://github.com/datalorrre)
 - [Devon JohnBaptiste](https://github.com/devondacoda)
 - [Rachna Bansal](https://github.com/rachnaban)
 - [Shyam Mohan V M](https://github.com/shyammvm)
