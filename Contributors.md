@@ -107,6 +107,7 @@ Harish Indla
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Gabriel Cruz](https://github.com/LTKills)
 - [Sachin Singh](https://github.com/sacsachin)
+- [Akshat Srivastava](https://github.com/AkshatSrivastava2)
 - [Pakata Goh](https://github.com/pakatagoh)
 - [Chantz Anderson](https://github.com/chantzcy)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
