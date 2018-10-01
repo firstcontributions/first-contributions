@@ -71,6 +71,7 @@
 - [Smit Rajput](https://github.com/smitrajput)
 - [Elizabeth](https://github.com/marbeth8899)
 - [Aniket](https://github.com/ani-jarvis)
+- [Bill Gates](https://www.google.com)
 - [Jeremy Sipple](https://github.com/jsioh11)
 - [Briana Oursler](https://github.com/Boursler)
 - [Bridget Liu](https://github.com/bridget72)
