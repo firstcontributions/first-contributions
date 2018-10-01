@@ -5894,6 +5894,7 @@ Harish Indla
 - [Moises Santos Rodrigues](https://github.com/moisesSRO)
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Narat S](https://github.com/mixth)
+- [Shashank Bairy R](https://github.com/BA1RY)
 - [Andre du Plessis](https://github.com/AndreDP-Developer)
 - [lincrampton](https://github.com/lincrampton)
 - [Nathaniel Tye](https://github.com/Morvidus)
@@ -6202,6 +6203,7 @@ Harish Indla
 - [radusqrt](https://github.com/radusqrt)
 - [Yoshyyy](https://github.com/Yoshyyy
 - [JmZero](https://github.com/JmZero)
+- [smuniz](https://github.com/smuniz18)
 - [smuniz](https://github.com/smuniz18)
 - [Manvi] (https://github.com/The-lady-developer)
 - [Ayush Agrawal] (https://github.com/ayush1507)
