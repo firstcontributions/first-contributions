@@ -210,6 +210,7 @@ Harish Indla
 - [Anisha Pai](https://github.com/anishapai)
 - [Sai Surya](https://github.com/saisurya027)
 - [Adrian Mark Perea](https://github.com/adrianmarkperea)
+- [Karynne Black](https://github.com/kab11)
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
 - [Vickie LM](https://github.com/vlemas)
