@@ -6039,6 +6039,7 @@
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
 - [Dipti Butola]()
+- [Mikko Maja](https://github.com/mikmaj)
 - [James Jung](https://github.com/thejcode24)
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
