@@ -6234,3 +6234,4 @@ Harish Indla
 - [Dan Postelnicu](https://github.com/kolapsys)
 - [Hadnazzar](https://github.com/hadnazzar)
 - [rkruk](https://github.com/rkruk)
+- [fischbot](https://github.com/fischbot)
