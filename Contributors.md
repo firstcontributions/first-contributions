@@ -6287,3 +6287,4 @@
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
 - [Will Kaczmarek] (https://github.com/KaczmarekWill)
+- [Akshat Ahuja] (https://github.com/akshatah33)
