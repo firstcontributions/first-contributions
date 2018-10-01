@@ -1,5 +1,6 @@
 # Contributors
 
+- [Tanner Crook] (https://github.com/tannercrook)
 - [Marta Laís] (https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Emily Colón](https://github.com/emilycolon)
