@@ -31,7 +31,7 @@
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
-| 🇹🇷 | [Turkish](README.tr.md) |
+| 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovene](README.sl.md) |
-| 🇸🇪 | [Swedish](README.se.md) |
+| 🇸🇪 | [Svenska](README.se.md) |
