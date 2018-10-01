@@ -2,7 +2,7 @@
 
 - [Marco Jesus](https://github.com/marcojesus)
 - [Tanner Crook](https://github.com/tannercrook)
-- [Adrián Rodríguez](https://github.com/adrianRodriguez123)
+- [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
