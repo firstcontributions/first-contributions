@@ -1646,6 +1646,7 @@ Harish Indla
 - [Kate Boyko](https://github.com/kateboyko)
 - [Mohnish Tiwari]
 - [Panu Kettunen](https://github.com/panukettu)
+- [Mohra Arsala] (https://github.com/mohra-arsala)
 - [Hartama Putra](https://github.com/haruute0)
 - [Enrico Paganin](https://github.com/platipo)
 - [Prosper Doko](https://github.com/shadonet)
