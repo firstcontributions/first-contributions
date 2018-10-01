@@ -3,7 +3,7 @@
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
-| 🇲🇲 | [Myanmar Unicode](README.mm_unicode.md) |
+| 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
@@ -31,7 +31,7 @@
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
-| 🇹🇷 | [Turkish](README.tr.md) |
+| 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovene](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
