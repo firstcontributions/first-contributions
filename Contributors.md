@@ -16,6 +16,7 @@
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Manish](https://github.com/Manish17292000)
+- [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Konnor Timmons](https://github.com/KonnorTimmons1297)
