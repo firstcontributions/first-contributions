@@ -3,7 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Pablo Rey](https://github.com/PFeynman)
 - [Shafran Naizer](https://github.com/Shafran123)
-- [Ayush Jindal] 
+- [Ayush Jindal]
 - [Saksham Jain]
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Jose Garrido](https://github.com/josej30)
@@ -18,6 +18,7 @@
 - [setesti](https://github.com/setesti)
 - [Waheed Afolabi](https://github.com/wptechprodigy)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
+- [Shaurya Pratap Singh Tomar](https://github.com/Shauryapst)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Kin Lam](https://github.com/alanklam)
