@@ -6236,3 +6236,4 @@ Harish Indla
 - [Hadnazzar](https://github.com/hadnazzar)
 - [rkruk](https://github.com/rkruk)
 - [fischbot](https://github.com/fischbot)
+- [Nicola Pasquali](https://github.com/NicolaPasquali)
