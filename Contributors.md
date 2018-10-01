@@ -11,6 +11,7 @@
 - [Cortney Thomas] (https://github.com/cSparkle)
 - [Ayush Jindal]
 - [Saksham Jain]
+- [vikas ](https://github.com/vikassharma1999)
 - [Zhixue Wang] )https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Siddharth Naithani](https://github.com/sn99)
