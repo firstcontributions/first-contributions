@@ -27,7 +27,7 @@
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
-| 🇧🇩| [Bangla](README.bn.md) |
+| 🇧🇩| [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
