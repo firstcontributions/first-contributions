@@ -6168,6 +6168,7 @@ Harish Indla
 - [Behrooz Fathi](https://github.com/behro0oz)
 - [Anzony White](https://github.com/anblaca3790)
 - [Anusha M](https://github.com/coder90875)
+- [Nelson Chinedu](https://github.com/Nelson-Chinedu)
 - [Pakornsak](https://github.com/pakornsak)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
