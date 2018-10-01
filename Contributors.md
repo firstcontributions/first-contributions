@@ -24,6 +24,7 @@
 - [Waheed Afolabi](https://github.com/wptechprodigy)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [Shaurya Pratap Singh Tomar](https://github.com/Shauryapst)
+- [Oluwakorede Cole](https://github.com/asincole)
 - [Ryan Hill] (https://github.com/RyanHillGit)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
