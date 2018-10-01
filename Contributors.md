@@ -2808,6 +2808,7 @@
 - [Aditya Roy](https://github.com/han0305)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
+- [Stephanie Leazer] (https://github.com/saleazer)
 - [Arica Chakraborty](https://github.com/uemarica)
 - [Joshua Moffett](https://github.com/Wingnod)
 - [Michel Michels](https://github.com/MichelMichels)
