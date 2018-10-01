@@ -23,6 +23,7 @@
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
+- [Natalie Wyll](https://github.com/nwyll)
 - [Indraneel Sarkar](https://github.com/sark01)
 - [Smit Rajput](https://github.com/smitrajput)]
   Elizabeth
