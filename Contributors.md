@@ -2359,6 +2359,7 @@ Harish Indla
 - [Shara Soguilon](https://github.com/lancelotx01)
 - [Niks](https://github.com/nikhilatmaple)
 - [Yi](https://github.com/frozzie)
+- [Shafran](https://github.com/Shafran123)
 - [tvixxx](https://github.com/tvixxx)
 - [Beso94](https://github.com/beso94)
 - [Miguel Lentisco](https://github.com/alfaomegax)
