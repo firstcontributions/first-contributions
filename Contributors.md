@@ -670,6 +670,7 @@ Harish Indla
 - [Tommaso Levato](https://github.com/tommasolevato)
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
+- [David Kröll](https://github.com/david-kroell)
 - [Luke Bentley-Fox](https://github.com/deusexmacchiato)
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Iury Marques](https://github.com/iurymarqs)
