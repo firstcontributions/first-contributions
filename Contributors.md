@@ -15,6 +15,7 @@
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Ayush Jindal]
+- [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Matthew Abrey](https://github.com/Mabrey)
 - [Zhixue Wang](https://github.com/z-marywang)
