@@ -57,6 +57,7 @@
 - [Cody Garrett](https://github.com/CsCody)
   Anderson Borba
   Saumya Prakash
+- [Nicholas Puglia](http://github.com/nicholaspuglia)
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
