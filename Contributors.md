@@ -2996,6 +2996,7 @@ Harish Indla
 - [Brian Do](https://github.com/briancldo)
 - [Stefan Russo](https://github.com/lifestronaut)
 - [iShoe](https://github.com/ishoe)
+- [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Adam](https://github.com/apodraz2)
 - [Simran Sohal](https://github.com/simransohal)
 - [Fabian](https://github.com/fabianhough)
