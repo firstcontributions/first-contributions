@@ -6204,6 +6204,7 @@ Harish Indla
 - [Yoshyyy](https://github.com/Yoshyyy
 - [JmZero](https://github.com/JmZero)
 - [smuniz](https://github.com/smuniz18)
+- [Aakash Agarwal](https://github.com/aakash2602)
 - [smuniz](https://github.com/smuniz18)
 - [Manvi] (https://github.com/The-lady-developer)
 - [Ayush Agrawal] (https://github.com/ayush1507)
