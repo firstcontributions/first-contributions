@@ -1,11 +1,8 @@
 ﻿# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
-
-
-
+- [Shafran Naizer](https://github.com/Shafran123)
 - [Achiv Chauhan](https://github.com/achiv)
-
 - [sia4](https://github.com/sia4)
 - [Long Tran](https://github.com/nhulongctk35)
 - [Basheer88](https://github.com/Basheer88)
