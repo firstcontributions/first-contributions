@@ -6187,6 +6187,7 @@ Harish Indla
 - [Naveen Naidu](httlps://github.com/Naveenaidu)
 - [Shubhankar Ranade](https://github.com/shubhankar30)
 - [Shivangi](https://github.com/shivangibithel)
+- [bvishal8510](https://github.com/bvishal8510)
 - [radusqrt](https://github.com/radusqrt)
 - [Yoshyyy](https://github.com/Yoshyyy
 - [JmZero](https://github.com/JmZero)
