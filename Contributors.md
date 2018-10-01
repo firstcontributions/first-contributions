@@ -27,6 +27,7 @@
 - [Bridget Liu]
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
+- [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
