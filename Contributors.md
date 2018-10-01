@@ -4202,6 +4202,7 @@ Harish Indla
 - [Jonathan Wilson](https://github.com/jonathantaylorwilson)
 - [Chivorn Kouch](https://github.com/kchivorn)
 - [Firat Tale](https://github.com/firattale)
+- [Conor Mullin](https://github.com/easterncalculus)
 - [Jason Fedevich](https://github.com/jfed01)
 - [Yuriy Koziy](https://github.com/ykoziy/)
 - [Andrew Lee](https://github.com/adamandrew)
