@@ -3341,6 +3341,7 @@ Harish Indla
 - [Rahul Kumar](https://github.com/rkredux)
 - [Jurica](https://github.com/juricav/)
 - [Dhruvam Sharma](https://github.com/DhruvamSharma)
+- [frannievas](https://github.com/frannievas)
 - [nicolasknauber](https://github.com/nicolasknauber)
 - [delovan](https://github.com/delovan)
 - [Irsyad](https://github.com/irxd)
