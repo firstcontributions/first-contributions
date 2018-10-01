@@ -3,7 +3,8 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Pablo Rey](https://github.com/PFeynman)
 - [Shafran Naizer](https://github.com/Shafran123)
-- [Ayush Jindal]
+- [Manish](https://github.com/Manish17292000)	
+  [Ayush Jindal]
 - [Saksham Jain]
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Siddharth Naithani](https://github.com/sn99)
