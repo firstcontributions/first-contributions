@@ -57,6 +57,7 @@
 - [Paras Lakhani](https://github.com/paras112)
 - [Emily Qin]
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
+- [Tarun Jindal](https://github.com/tarunjindal790)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Nav k] (https://github.com/DevNavpreet)
 - [Adam Hyder](https://github.com/adamhyder)
