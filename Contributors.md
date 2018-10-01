@@ -2,6 +2,7 @@
 
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Shafran Naizer](https://github.com/Shafran123)
+- [Anjali Agarwal](https://github.com/aganjali10)
 - [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
 - [Long Tran](https://github.com/nhulongctk35)
