@@ -2226,6 +2226,7 @@
 - [decantr](https://github.com/decantr)
 - [ramanandY](https://github.com/ramanandY)
 - [avirup](https://github.com/avirupdg17)
+- [cancu](https://github.com/cancu)
 - [Mustafa Adam](https://github.com/mustafadam)
 - [rohit-136](https://github.com/rohit-136)
 - [Anna Karpi?ska](https://github.com/annakarpinska)
