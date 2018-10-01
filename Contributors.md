@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
 - [Long Tran](https://github.com/nhulongctk35)
 - [Basheer88](https://github.com/Basheer88)
@@ -11,6 +12,7 @@
 - [setesti](https://github.com/setesti)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
+- [Kanika Agrawal](https://github.com/Kanika1799)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
 - [Adina Budriga](https://github.com/AdinaBudriga)
@@ -28,9 +30,12 @@
   Briana Oursler
 - [Bridget Liu]
 - [Emma Andrews]
+- [Bhavay Anand] (https://github.com/bhavayAnand9)
+- [Nikunj Verma] (https://github.com/VermaNikunj)
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
+- [aortmann](https://gitbuh.com/aortmann)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
@@ -38,6 +43,7 @@
 - [Adam Hyder](https://github.com/adamhyder)
 - [Sagar Kumar](https://github.com/sagarkrsd)
 - [Jason Cole](https://github.com/jaymcole)
+- [Prateek Vijayvergiya](https://github.com/prateekvijayvergiya)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
 - [Wh1t3fang] (https://github.com/wh1t3fang)
@@ -46,6 +52,7 @@
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
 - Max
+- [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
   Anderson Borba
   Saumya Prakash
@@ -56,6 +63,7 @@
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
   Ruslan
+  Swami
 - [Melis](https://github.com/melisdogan)
 - [Aidan Kelly](https://github.com/aidan-kelly)
 - [Aananya](https://github.com/aananya27)
@@ -65,6 +73,7 @@
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Cameron Blake](https://github.com/mcblake)
+- Sazzyx
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
 - [Eric Simard](https://github.com/ericsimard52)
@@ -209,6 +218,7 @@ Harish Indla
 - [Anisha Pai](https://github.com/anishapai)
 - [Sai Surya](https://github.com/saisurya027)
 - [Adrian Mark Perea](https://github.com/adrianmarkperea)
+- [Karynne Black](https://github.com/kab11)
 - [ivonetafe](https://github.com/ivonetafe/)
 - [trueSherlock](https://github.com/trueSherlock)
 - [Vickie LM](https://github.com/vlemas)
@@ -1229,6 +1239,7 @@ Harish Indla
 - [Diego Gonzalez](https://github.com/luarca84)
 - [saxe405](https://github.com/saxe405)
 - [MartenBE](https://github.com/MartenBE)
+- [David Paiva](https://github.com/bolsomito)
 - [Jayakrishnan](https://github.com/JAYKRISHNAN)
 - [EvanDCP](https://github.com/EvanDCP)
 - [VinothKumar](https://github.com/Vinoth18)
@@ -5667,6 +5678,7 @@ Harish Indla
 - [Akhil Madhav](https://github.com/akhil1234567)
 - [NamithaMurali](https://github.com/NamithaMurali)
 - [Bazyli Kot](https://github.com/gitBKrp)
+- [Lehone](https://github.com/lehone-hp)
 - [Mocanu Gabriel](https://github.com/gabrielmocanu)
 - [Alistair Amick](https://github.com/AlistairAmick)
 - [Lee Roberts](https://github.com/leejroberts)
@@ -6167,6 +6179,7 @@ Harish Indla
 - [Gokul T P](https://github.com/gokultp)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
 - [MasterKN](https://github.com/MasterKN48)
+- [HackedByMKN](https://github.com/HackedByMKN)
 - [grilam14](https://github.com/grilam14)
 - [HackedByMKN](https://github.com/HackedByMKN)
 - [Abdus](https://github.com/thisisabdus)
@@ -6175,3 +6188,9 @@ Harish Indla
 - [Shubhankar Ranade](https://github.com/shubhankar30)
 - [Shivangi](https://github.com/shivangibithel)
 - [bvishal8510](https://github.com/bvishal8510)
+- [radusqrt](https://github.com/radusqrt)
+- [Yoshyyy](https://github.com/Yoshyyy
+- [JmZero](https://github.com/JmZero)
+- [smuniz](https://github.com/smuniz18)
+- [Manvi] (https://github.com/The-lady-developer)
+- [Dan Postelnicu] (https://github.com/kolapsys)
