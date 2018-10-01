@@ -10,6 +10,7 @@
 - [Greg Dardis](https://github.com/gregdardis)
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
+- [Waheed Afolabi](https://github.com/wptechprodigy)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
