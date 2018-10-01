@@ -25,6 +25,7 @@
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
+- [Emma Andrews] 
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
