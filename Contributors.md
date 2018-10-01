@@ -3,6 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Pablo Rey](https://github.com/PFeynman)
 - [Shafran Naizer](https://github.com/Shafran123)
+- [Wenqin Wang](https://github.com/wenqinduke)
 - [Ayush Jindal]
 - [Saksham Jain]
 - [Anjali Agarwal](https://github.com/aganjali10)
