@@ -103,6 +103,7 @@ Carol L
 - [Andrew Hoang](https://github.com/ndrwhoang)
 - [Ana P Marquez](http://github.com/anpams)
 - [David Lee](https://github.com/dlee129)
+- [Ziane Maamar](https://github.com/DRXDesign)
 - [Pietro Metuh](https://github.com/pietrometuh)
 - [Badal Moradia](https://github.com/bamoradia)
 Saurabh Bansal
