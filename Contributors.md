@@ -114,6 +114,7 @@
 - [Melis](https://github.com/melisdogan)
 - [Aidan Kelly](https://github.com/aidan-kelly)
 - [Aananya](https://github.com/aananya27)
+- [Jared White](https://github.com/JaredWhiteOne)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
