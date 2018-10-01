@@ -1,5 +1,6 @@
 # Contributors
 
+- [Marco Jesus] (https://github.com/marcojesus)
 - [Tanner Crook] (https://github.com/tannercrook)
 - [Marta Laís] (https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
