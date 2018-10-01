@@ -14,14 +14,13 @@
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Ayush Jindal]
-- [Saksham Jain]
+- [Saksham Jain](https://github.com/bhavayAnand9)
 - [vikas ](https://github.com/vikassharma1999)
-- [Zhixue Wang] )https://github.com/z-marywang)
+- [Zhixue Wang](https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Siddharth Naithani](https://github.com/sn99)
 - [Jose Garrido](https://github.com/josej30)
 - [Achiv Chauhan](https://github.com/achiv)
-- [Joe McCraw](https://github.com/SerialForBreakfast)
 - [sia4](https://github.com/sia4)
 - [Zafar Hussain](https://github.com/zafar-hussain)
 - [aman kumar soni](https://github.com/computerwala)
@@ -43,7 +42,7 @@
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Kin Lam](https://github.com/alanklam)
-- [James]
+- [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
 - [Nilotpal Pramanik](https://github.com/goodday451999)
@@ -57,13 +56,13 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Natalie Wyll](https://github.com/nwyll)
 - [Indraneel Sarkar](https://github.com/sark01)
-- [Smit Rajput](https://github.com/smitrajput)]
-  Elizabeth
-- Aniket
-  Jeremy Sipple
-  Briana Oursler
-- [Bridget Liu]
-- [Emma Andrews]
+- [Smit Rajput](https://github.com/smitrajput)
+- [Elizabeth](https://github.com/marbeth8899)
+- [Aniket](https://github.com/ani-jarvis)
+- [Jeremy Sipple](https://github.com/jsioh11)
+- [Briana Oursler](https://github.com/Boursler)
+- [Bridget Liu](https://github.com/bridget72)
+- [Emma Andrews](https://github.com/emma-andrews)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
 - [Rafael Lotto Machado](https://github.com/ralomach)
