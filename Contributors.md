@@ -6273,3 +6273,4 @@
 - [Asam Shan](https://github.com/shan5742)
 - [Michael Pimentel](https://github.com/mtpjr88)
 - [Zara Saldanha](https://github.com/zara-nicole)
+- [Robert Smayda](https://github.com/rsmayda)
