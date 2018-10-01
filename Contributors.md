@@ -217,6 +217,7 @@ Harish Indla
 - [Zheng Yang Ning](https://github.com/ningzy)
 - [Matheus Genteluci](https://github.com/MGenteluci)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
+- [Patrick Dugan](https://github.com/pdoogs)
 - [Artur Pieluszczak](https://github.com/pieluart)
 - [Sonu rana](https://github.com/sonu-rana)
 - [Henry Jackson](https://github.com/henry-jackson)
