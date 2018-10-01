@@ -38,7 +38,10 @@
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
 - [Wh1t3fang] (https://github.com/wh1t3fang)
-- [Asiedu Brempong](https://github.com/asiedubrempong)
+- [Asiedu Brempong]
+(https://github.com/asiedubrempong)
+- [AdrianTeri]
+(https://github.com/Adrianteri)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
 - [Cody Garrett](https://github.com/CsCody)
