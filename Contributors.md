@@ -6188,6 +6188,7 @@ Harish Indla
 - [Shubhankar Ranade](https://github.com/shubhankar30)
 - [Shivangi](https://github.com/shivangibithel)
 - [radusqrt](https://github.com/radusqrt)
+- [Yoshyyy](https://github.com/Yoshyyy
 - [JmZero](https://github.com/JmZero)
 - [smuniz](https://github.com/smuniz18)
 - [Manvi] (https://github.com/The-lady-developer)
