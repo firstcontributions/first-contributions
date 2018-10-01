@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Tanner Crook] (https://github.com/tannercrook)
+- [Divyanshi Mangal] (https://github.com/divyanshidm)
 - [Marta Laís] (https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Emily Colón](https://github.com/emilycolon)
