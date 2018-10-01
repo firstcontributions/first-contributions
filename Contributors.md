@@ -3,6 +3,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Emily Colón](https://github.com/emilycolon)
 - [Pablo Rey](https://github.com/PFeynman)
+- [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas] (https://github.com/cSparkle)
