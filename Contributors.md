@@ -12,6 +12,7 @@
 -[vikas](https://github.com/vikassharma1999)
 -[vicky](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
+- [Manish](https://github.com/Manish17292000)	
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas] (https://github.com/cSparkle)
 - [Ayush Jindal]
