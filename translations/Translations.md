@@ -1,4 +1,4 @@
-# Translations
+﻿# Translations
 
 |  | Translated Link |
 | --- | --- |
@@ -13,7 +13,7 @@
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [㗂越](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
-| 🇮🇷 | [Persian](README.fa.md) |
+| 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
