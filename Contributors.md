@@ -42,6 +42,7 @@
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
+- Max
 - [Cody Garrett](https://github.com/CsCody)
   Anderson Borba
   Saumya Prakash
