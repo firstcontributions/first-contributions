@@ -3,7 +3,7 @@
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
-| 🇲🇲 | [Myanmar Unicode](README.mm_unicode.md) |
+| 🇲🇲 | [မြန်မာယူနီကုဒ်](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
