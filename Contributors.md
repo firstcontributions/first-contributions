@@ -6,6 +6,7 @@
 - [Pablo Rey](https://github.com/PFeynman)
 - [vikas sharma](https://github.com/vikassharma1999)
 -[vikas](https://github.com/vikassharma1999)
+-[vicky](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas] (https://github.com/cSparkle)
