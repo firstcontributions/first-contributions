@@ -119,6 +119,7 @@ Carol L
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
+- [Andriano Winatra](https://github.com/andrianowinatra)
 - [Ana P Marquez](http://github.com/anpams)
 - [David Lee](https://github.com/dlee129)
 - [Ziane Maamar](https://github.com/DRXDesign)
