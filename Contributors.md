@@ -40,6 +40,7 @@
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
 - [Cody Garrett](https://github.com/CsCody)
+  Anderson Borba
   Saumya Prakash
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
@@ -48,7 +49,7 @@
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
   Ruslan
-- [Melis](https://github.com/melisdogan) 
+- [Melis](https://github.com/melisdogan)
 - [Aananya](https://github.com/aananya27)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
