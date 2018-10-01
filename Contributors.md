@@ -21,11 +21,11 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Indraneel Sarkar](https://github.com/sark01)
   Elizabeth
-- Aniket  
+- Aniket
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
-- [Emma Andrews] 
+- [Emma Andrews]
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
@@ -6050,6 +6050,7 @@ Harish Indla
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
+- [Michael Peng](https://github.com/michaelpeng)
 - [Onkar Pandit](https://github.com/onkarpandit)
 - [Menekam Rudy](https://github.com/Rudy-Menekam)
 - [Ankur](https://github.com/Ankurk99)
