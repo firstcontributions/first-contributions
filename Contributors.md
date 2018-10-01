@@ -16,6 +16,7 @@
 - [Manish](https://github.com/Manish17292000)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
+- [Konnor Timmons](https://github.com/KonnorTimmons1297)
 - [Ayush Jindal]
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
