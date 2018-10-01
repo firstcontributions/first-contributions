@@ -2399,7 +2399,7 @@ Harish Indla
 - [Arpan Samanta](https://github.com/arpan1998)
 - [Emma Ogden](https://github.com/SleepySheepy172)
 - [Davisdoctor](https://github.com/Davisdoctor)
-- [Josh Leib] (https://github.com/leibjuwp)
+- [Josh Leib](https://github.com/leibjuwp)
 - [Soumil Ghosh](https://github.com/lonewolf16)
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
 - [Sally Chin](https://github.com/summerhopes)
