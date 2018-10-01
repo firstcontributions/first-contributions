@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 modified by bin-w
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
@@ -63,6 +63,7 @@ modified by bin-w
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
 - [Jesse Cook](https://github.com/JesseCook)
+- [Tara Joy](https://github.com/tarajoy)
 - [Marianne Tamminen](https://github.com/mrainne)
 - [Jesus Chavez](https://github.com/jesuschavez)
 - [Tony Flores](https://github.com/florestony54)
