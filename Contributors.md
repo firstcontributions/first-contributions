@@ -54,6 +54,7 @@
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
 - [aortmann](https://gitbuh.com/aortmann)
 - [Paras Lakhani](https://github.com/paras112)
+- [Emily Qin]
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Nav k] (https://github.com/DevNavpreet)
