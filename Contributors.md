@@ -11,6 +11,7 @@
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Emily Colón](https://github.com/emilycolon)
+- [Antonio Neto](https://github.com/aacgn)
 - [Pablo Rey](https://github.com/PFeynman)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
