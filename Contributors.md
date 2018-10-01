@@ -47,6 +47,7 @@
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
 - Max
+- [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
   Anderson Borba
   Saumya Prakash
