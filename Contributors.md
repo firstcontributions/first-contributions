@@ -3921,6 +3921,7 @@
 - [Hubert Jung](https://github.com/hubertjung)
 - [Aswani Prakash](https://github.com/aswaniprakash)
 - [Maxime Elkael](https://github.com/e-maxou)
+- [Henrik Edholm](https://github.com/Edholm92)
 - [Maya Farber](https://github.com/farberbrodsky)
 - [Matt Southward](https://github.com/mattsouthward)
 - [Rambabu Govind](https://github.com/rambabugovind)
