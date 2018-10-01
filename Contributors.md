@@ -1,8 +1,8 @@
 # Contributors
 
-- [Marco Jesus] (https://github.com/marcojesus)
-- [Tanner Crook] (https://github.com/tannercrook)
-- [Marta Laís] (https://github.com/martalais)
+- [Marco Jesus](https://github.com/marcojesus)
+- [Tanner Crook](https://github.com/tannercrook)
+- [Marta Laís](https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Emily Colón](https://github.com/emilycolon)
@@ -23,6 +23,7 @@
 - [Jose Garrido](https://github.com/josej30)
 - [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
+- [Zafar Hussain](https://github.com/zafar-hussain)
 - [aman kumar soni](https://github.com/computerwala)
 - [Mansi Breja](https://github.com/MansiBreja)
 - [Long Tran](https://github.com/nhulongctk35)
