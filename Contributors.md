@@ -4,6 +4,7 @@
 - [Pablo Rey](https://github.com/PFeynman)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Wenqin Wang](https://github.com/wenqinduke)
+- [Cortney Thomas] (https://github.com/cSparkle)
 - [Ayush Jindal]
 - [Saksham Jain]
 - [Zhixue Wang] )https://github.com/z-marywang)
