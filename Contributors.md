@@ -59,6 +59,8 @@
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
+- [BeAsYit](https://github.com/BeAsYit)
+- [Shivangi](https://github.com/shivangibithel)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
