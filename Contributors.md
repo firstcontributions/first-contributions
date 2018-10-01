@@ -19,6 +19,7 @@
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [setesti](https://github.com/setesti)
 - [nickxla](https://github.com/nickxla)
+- [Dayyan O'Brien](https://github.com/dayyanobrien)
 - [Waheed Afolabi](https://github.com/wptechprodigy)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [Shaurya Pratap Singh Tomar](https://github.com/Shauryapst)
