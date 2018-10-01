@@ -4,6 +4,7 @@
 - [Tanner Crook] (https://github.com/tannercrook)
 - [Marta Laís] (https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Emily Colón](https://github.com/emilycolon)
 - [Pablo Rey](https://github.com/PFeynman)
 - [vikas sharma](https://github.com/vikassharma1999)
