@@ -2647,6 +2647,7 @@ Harish Indla
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
 - [Simone Dagna](https://github.com/SimoneDagna)
+- [Stu Finn](https://github.com/stufinn)
 - [Saransh Ambarte](https://github.com/sarrocks1)
 - [Bill Hammond](https://github.com/zenthunder)
 - [Irene Tomaini](https://github.com/ir3ne)
