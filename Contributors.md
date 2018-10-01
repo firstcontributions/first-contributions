@@ -6217,3 +6217,4 @@ Harish Indla
 - [Ayush Agrawal] (https://github.com/ayush1507)
 - [Dan Postelnicu](https://github.com/kolapsys)
 - [Hadnazzar](https://github.com/hadnazzar)
+- [Vini Farias](https://github.com/ViniFarias)
