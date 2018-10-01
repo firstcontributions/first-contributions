@@ -107,6 +107,7 @@
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
 Carol L
+- [Katie Campbell](https://github.com/katyasoup)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
