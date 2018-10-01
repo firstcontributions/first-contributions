@@ -1,6 +1,7 @@
 # Contributors
 
 - [Marco Jesus] (https://github.com/marcojesus)
+- [Tanner Crook] (https://github.com/tannercrook)
 - [Marta Laís] (https://github.com/martalais)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Emily Colón](https://github.com/emilycolon)
@@ -43,6 +44,7 @@
 - [James]
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Coding With E](https://github.com/codingwithe)
+- [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
@@ -4041,6 +4043,7 @@ Harish Indla
 - [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
 - [Sudipta](https://github.com/dsud98)
 - [Micha? Hawe?ka](https://github.com/hawelkam)
+- [Muhammad Waqas Maqsood](https://github.com/waqasisme)
 - [Henry Chen](https://github.com/scotchka)
 - [Maxwell Powlison](https://github.com/bobdavelisafrank)
 - [Andrey Kishtov](https://github.com/AndreyKishtov)
@@ -6252,3 +6255,4 @@ Harish Indla
 - [fischbot](https://github.com/fischbot)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
 - [Asam Shan](https://github.com/shan5742)
+- [Michael Pimentel](https://github.com/mtpjr88)
