@@ -6148,5 +6148,6 @@ Harish Indla
 - [Justin Estaris] (https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
 - [Pranav Garg](https://github.com/pranavgarg123)
+- [Gokul T P](https://github.com/gokultp)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
 - [MasterKN](https://github.com/MasterKN48)
