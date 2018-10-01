@@ -148,6 +148,7 @@ Saurabh Bansal
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 Harish Indla
+- [Zona Gilreath](https://github.com/zonagilreath)
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
