@@ -38,6 +38,7 @@
 - [Adam Hyder](https://github.com/adamhyder)
 - [Sagar Kumar](https://github.com/sagarkrsd)
 - [Jason Cole](https://github.com/jaymcole)
+- [Prateek Vijayvergiya](https://github.com/prateekvijayvergiya)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
 - [Wh1t3fang] (https://github.com/wh1t3fang)
