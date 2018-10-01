@@ -31,6 +31,7 @@
 - [Bridget Liu]
 - [Emma Andrews]
 - [Bhavay Anand] (https://github.com/bhavayAnand9)
+- [Nikunj Verma] (https://github.com/VermaNikunj)
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
