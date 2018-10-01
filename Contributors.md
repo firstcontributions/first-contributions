@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
 - [sia4](https://github.com/sia4)
@@ -4431,6 +4431,7 @@ Harish Indla
 - [Cara Hale](https://github.com/caradianne)
 - [rrriki](https://github.com/reveware)
 - [Jacob Goodall](https://github.com/jgoodall13)
+- [Abdelrahman Mosa'ed](https://github.com/AMosa3d)
 - [Myeong Kim](https://github.com/cgopia94)
 - [Vela the Great](https://github.com/yuthan)
 - [Ayush Gupta](https://github.com/siAyush)
