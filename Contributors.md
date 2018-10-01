@@ -2435,6 +2435,7 @@ Harish Indla
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
 - [Sally Chin](https://github.com/summerhopes)
 - [Darian Low](https://github.com/shoe17)
+- [John Hinson](https://github.com/jlhinson)
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
 - [Ashish Vishwakarma](https://github.com/AshV)
