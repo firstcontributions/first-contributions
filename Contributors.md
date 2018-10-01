@@ -6,6 +6,7 @@
 - [Ayush Jindal]
 - [Saksham Jain]
 - [Anjali Agarwal](https://github.com/aganjali10)
+- [Siddharth Naithani](https://github.com/sn99)
 - [Jose Garrido](https://github.com/josej30)
 - [Achiv Chauhan](https://github.com/achiv)
 - [sia4](https://github.com/sia4)
