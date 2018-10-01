@@ -176,6 +176,7 @@
 - [Chantz Anderson](https://github.com/chantzcy)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
+- [Izabela Cardozo] (https://github.com/izabela963)
 - [Ashutosh Sangwan](https://github.com/ashkkr)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
