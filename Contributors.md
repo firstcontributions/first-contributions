@@ -1,6 +1,7 @@
 # Contributors
 
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Shafran Naizer](https://github.com/Shafran123)
 - [sia4](https://github.com/sia4)
 - [Basheer88](https://github.com/Basheer88)
 - [Pranay Agarwal](https://github.com/pranayag)
