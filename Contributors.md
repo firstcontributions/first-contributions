@@ -2,6 +2,7 @@
 
 - [Tanner Crook] (https://github.com/tannercrook)
 - [Marta Laís] (https://github.com/martalais)
+-[Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Emily Colón](https://github.com/emilycolon)
 - [Pablo Rey](https://github.com/PFeynman)
@@ -10,6 +11,7 @@
 -[vikas](https://github.com/vikassharma1999)
 -[vicky](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
+
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas] (https://github.com/cSparkle)
 - [Ayush Jindal]
