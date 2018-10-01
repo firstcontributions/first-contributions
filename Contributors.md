@@ -5,6 +5,7 @@
 - [Emily Colón](https://github.com/emilycolon)
 - [Pablo Rey](https://github.com/PFeynman)
 - [vikas sharma](https://github.com/vikassharma1999)
+- [vikas sharma](https://github.com/vikassharma1999)
 -[vikas](https://github.com/vikassharma1999)
 -[vicky](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
