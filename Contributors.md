@@ -22,7 +22,7 @@
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Indraneel Sarkar](https://github.com/sark01)
   Elizabeth
-- Aniket  
+- Aniket
   Jeremy Sipple
   Briana Oursler
 - [Bridget Liu]
@@ -1543,6 +1543,7 @@ Harish Indla
 - [Neha Upadhyay](https://github.com/nehaNIT)
 - Varun M
 - Maks
+- [Manuel Figueroa](https://github.com/manuelfs12)
 - [Jean Zombie](https://github.com/Jean-Zombie)
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
