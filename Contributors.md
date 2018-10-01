@@ -24,6 +24,7 @@
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Indraneel Sarkar](https://github.com/sark01)
+- [Smit Rajput](https://github.com/smitrajput)]
   Elizabeth
 - Aniket
   Jeremy Sipple
