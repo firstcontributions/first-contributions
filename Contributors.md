@@ -6203,3 +6203,4 @@ Harish Indla
 - [smuniz](https://github.com/smuniz18)
 - [Manvi] (https://github.com/The-lady-developer)
 - [Dan Postelnicu](https://github.com/kolapsys)
+- [Hadnazzar](https://github.com/hadnazzar)
