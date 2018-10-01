@@ -6254,3 +6254,4 @@ Harish Indla
 - [fischbot](https://github.com/fischbot)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
 - [Asam Shan](https://github.com/shan5742)
+- [Michael Pimentel](https://github.com/mtpjr88)
