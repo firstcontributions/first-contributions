@@ -70,6 +70,7 @@
 - [Emma Andrews](https://github.com/emma-andrews)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
+- [Simon Altrogge](https://github.com/SimonAltrogge)
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
