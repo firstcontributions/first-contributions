@@ -4042,6 +4042,7 @@ Harish Indla
 - [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
 - [Sudipta](https://github.com/dsud98)
 - [Micha? Hawe?ka](https://github.com/hawelkam)
+- [Muhammad Waqas Maqsood](https://github.com/waqasisme)
 - [Henry Chen](https://github.com/scotchka)
 - [Maxwell Powlison](https://github.com/bobdavelisafrank)
 - [Andrey Kishtov](https://github.com/AndreyKishtov)
