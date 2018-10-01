@@ -77,6 +77,7 @@
 - [Elizabeth Salazar](https://github.com/annelizs)
 - [Yeshwanth Venkatesh](https://github.com/yeshwanth93)
 - [Tony Jafar](https://github.com/tonyjafar)
+- [BenjaminRochez](https://github.com/BenjaminRochez)
 - [Bcsrn]
 - [Zamblom](https://github.com/Zamblom)
 - Kevin Hudson
