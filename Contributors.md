@@ -1232,6 +1232,7 @@ Harish Indla
 - [Diego Gonzalez](https://github.com/luarca84)
 - [saxe405](https://github.com/saxe405)
 - [MartenBE](https://github.com/MartenBE)
+- [David Paiva](https://github.com/bolsomito)
 - [Jayakrishnan](https://github.com/JAYKRISHNAN)
 - [EvanDCP](https://github.com/EvanDCP)
 - [VinothKumar](https://github.com/Vinoth18)
