@@ -3754,6 +3754,7 @@
 - [Adam Hoffman](https://github.com/ahoffm24)
 - [Carl Rizk](https://github.com/carlrizk)
 - [Saiharsha B](https://github.com/thewhitewolf17)
+- [Pablo Trinidad](https://github.com/pablotrinidad)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
