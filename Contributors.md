@@ -6338,6 +6338,7 @@
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
 - [Asam Shan](https://github.com/shan5742)
 - [Michael Pimentel](https://github.com/mtpjr88)
+- [Ankur Anant](https://github.com/anantankur)
 - [Christian Davi](https://github.com/cdbm)
 - [Anurag Rai](https://github.com/anurag-rai)
 - [Zara Saldanha](https://github.com/zara-nicole)
