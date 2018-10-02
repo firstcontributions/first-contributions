@@ -97,6 +97,7 @@
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
 - [aortmann](https://gitbuh.com/aortmann)
 - [Paras Lakhani](https://github.com/paras112)
+- [Balindam Bajpai](ttps://github.com/codename404)
 - [Emily Qin]()
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Tarun Jindal](https://github.com/tarunjindal790)
