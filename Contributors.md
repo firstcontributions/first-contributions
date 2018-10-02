@@ -362,6 +362,7 @@
 - [trueSherlock](https://github.com/trueSherlock)
 - [Vickie LM](https://github.com/vlemas)
 - [Crossy2804](https://github.com/Crossy2804)
+- [Ishaan Malik](https://github.com/Ishaan28malik)
 - [Deth Tek](https://github.com/DethTek)
 - [Somit Mittal](https://github.com/somitmittal)
 - [Andrew Hadden](https://github.com/ahadden09)
