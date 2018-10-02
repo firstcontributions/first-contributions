@@ -5177,7 +5177,6 @@
 - [Vinay Chi](https://github.com/viri)
 - [Nick Gent](https://github.com/TactualNick)
 - [Doken Edgar](https://github.com/dokenedgar)
-- [Joseph Fanous](https://github.com/GoogleDownload)
 - [Briana Wright](https://github.com/brianametta)
 - [Nicolas Vastrade](https://github.com/nicolius13)
 - [Mahesh Reddy](https://github.com/maheshreddys)
@@ -6407,3 +6406,4 @@
 - [Max Rugen](https://github.com/maxrugen)
 - [ttapar](https://github.com/ttapar)
 - [Tunap Paul](https://github.com/tunap)
+- [Joseph Fanous](https://github.com/GoogleDownload)
