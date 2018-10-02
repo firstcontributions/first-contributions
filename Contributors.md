@@ -3714,6 +3714,7 @@
 - [David Maia](https://github.com/dagadbm)
 - [Lavanya]()
 - [Shendy M Y](https://github.com/shendymy)
+- [HenD-11](https://github.com/HenD-11/)
 - [Daniel Lisunkin](https://github.com/dlisunkin)
 - [Edoardo Canobbio](https://github.com/canobbioe)
 - [Colton Hart](https://github.com/hartc17)
