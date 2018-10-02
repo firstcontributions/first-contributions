@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Nitish Sharma](https://github.com/nitish81299)
@@ -68,6 +68,7 @@
 - [Natalie Roberts]()
 - [Ayush Jindal]()
 - [Dan Pham](https://github.com/hdp617)
+- [Taylor Flagg](https://github.com/Tflagg97)
 - [Mesagoh]()
 - [c-kirkeby](https://github.com/c-kirkeby)
 - [Matt McCherry](https://github.com/MattMcCherry/)
