@@ -70,6 +70,7 @@
 - [Matthew Abrey](https://github.com/Mabrey)
 - [Zhixue Wang](https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
+- [Manish Sharma](https://github.com/Manish17292000)
 - [Siddharth Naithani](https://github.com/sn99)
 - [Manthan Keim](https://github.com/ManthanKeim)
 - [Jose Garrido](https://github.com/josej30)
