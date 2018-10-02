@@ -4,6 +4,7 @@
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [John Baltazar](https://github.com/jbaltazar03)
+- [Aniket Agarwal](https://github.com/aniket0702)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
 - [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
