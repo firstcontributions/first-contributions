@@ -157,6 +157,7 @@
 - [Prateek Vijayvergiya](https://github.com/prateekvijayvergiya)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
+- [Tanmay Singhal](https://github.com/tanmaysinghal98)
 - [Wh1t3fang](https://github.com/wh1t3fang)
 - [Arogore](https://github.com/arogore)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
