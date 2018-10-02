@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
@@ -27,6 +27,7 @@
 - [dfontana](https://github.com/dfontana)
 - [Natalie Roberts]
 - [Ayush Jindal]
+- Mesagoh
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Matthew Abrey](https://github.com/Mabrey)
