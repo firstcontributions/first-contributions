@@ -1994,6 +1994,7 @@
 - [Hermes Espinola](https://github.com/hermesespinola)
 - [Thirdoptics](https://github.com/Thirdoptics)
 - [Balazs Weirich](https://github.com/wbali)
+- [James Allured](https://github.com/jamesallured)
 - [Margaret Tavares](https://github.com/margotavares)
 - [Maimuna Syed](https://github.com/jalentheory)
 - [Ziper90](https://github.com/Ziper90)
