@@ -118,6 +118,7 @@
 - [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
 - [Tarun Jindal](https://github.com/tarunjindal790)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
+- [Garvit Bhatia](https://github.com/GarvitBhatia)
 - [Nav k](https://github.com/DevNavpreet)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Nicholas Ko](https://github.com/Mailnickko)
