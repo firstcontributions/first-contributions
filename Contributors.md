@@ -6384,3 +6384,4 @@
 - [Tomas K](https://github.com/tomaskul/)
 - [StefanDu](https://github.com/StefanDu)
 - [iamwee](https://github.com/iamwee)
+- [Daniyel Rocha](https://github.com/dnrocha1)
