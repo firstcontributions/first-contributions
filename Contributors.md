@@ -299,6 +299,7 @@
 - [Henry Jackson](https://github.com/henry-jackson)
 - [Jan Ferec](https://github.com/jferec)
 - [Chris Boujoukos](https://github.com/cboujoukos)
+- [Funmito Blessed](https://github.com/ofunmito)
 - [Lucas Gates](https://github.com/lucasg234)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
