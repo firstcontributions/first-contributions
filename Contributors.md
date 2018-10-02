@@ -6304,3 +6304,4 @@
 - [Valter Lucena] (https://github.com/valterlucena)
 - [Sdmmssa] (https://github.com/sdmmssa)
 - [RobbiNespu](https://github.com/RobbiNespu)
+- [LiteBright](https://github.com/litebright)
