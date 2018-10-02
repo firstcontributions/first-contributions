@@ -6325,6 +6325,7 @@
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
 - [Asam Shan](https://github.com/shan5742)
 - [Michael Pimentel](https://github.com/mtpjr88)
+- [Anurag Rai](https://github.com/anurag-rai)
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
 - [Will Kaczmarek] (https://github.com/KaczmarekWill)
