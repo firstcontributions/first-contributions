@@ -1617,6 +1617,7 @@
 - [Kalil Silva](https://github.com/kalilsilvasousa)
 - [Anubha Gupta](https://github.com/anubhamoon)
 - [Josh Martin](https://github.com/josh-martino)
+- [Max Paul](https://github.com/Max-Paul)
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Junior Gantin](https://github.com/nioperas06)
