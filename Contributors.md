@@ -6437,5 +6437,6 @@
 - [Matthew](https://github.com/TechDimension)
 - [Manuel Delgado](https://github.com/ManuelTheDev)
 - [Robert Laws](https://github.com/robert-laws)
+- [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
 - [Caio Augusto](https://github.com/caioag)
