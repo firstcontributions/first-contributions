@@ -316,6 +316,7 @@
 - [Ross Heaney](https://github.com/ross39)
 - [Abhipsha Das](https://github.com/chiral-carbon)
 - [Larry D'Almeida](https://github.com/larry-dalmeida)
+- [Rose White](https://github.com/memo_off)
 - [Randall Jordan](https://github.com/TsarVandall)
 - [cooltiger](https://github.com/stimit)
 - [Tiffany Kyu](https://github.com/teafunnyq)
