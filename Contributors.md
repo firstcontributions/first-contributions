@@ -6160,6 +6160,7 @@
 - [Jimin Yook](https://github.com/sprkal129/)
 - [Muhammad Zeshan](https://github.com/zeshan77/)
 - [Alexander Yamamura](https://github.com/AlexYamamura)
+- [Mario Martinez](https://github.com/mariobytes)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
