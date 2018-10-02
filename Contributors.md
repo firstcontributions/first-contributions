@@ -6449,3 +6449,4 @@
 - [Dave Brener](https://github.com/davebrener)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
+- [Kyle Schwartz](https://github.com/ksmarty)
