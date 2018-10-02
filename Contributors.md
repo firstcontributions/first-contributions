@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [John Baltazar](https://github.com/jbaltazar03)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
