@@ -6293,3 +6293,4 @@
 - [Will Kaczmarek] (https://github.com/KaczmarekWill)
 - [Akshat Ahuja] (https://github.com/akshatah33)
 - [Valter Lucena] (https://github.com/valterlucena)
+- [Rafael Gomes] (https://github.com/elrafa-sg)
