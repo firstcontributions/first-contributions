@@ -3328,6 +3328,7 @@
 - [Evgeny Pavlov](https://github.com/kindanoob)
 - [Petr Janik](https://github.com/petr7555)
 - [Petr Janik](https://github.comjjjjjj/petr7555)
+- [Sarthak Singhal](https://github.com/sarthak77)
 - [Patrick Naughton](https://github.com/patricknaughton01)
 - [Nina R](https://github.com/ASTG17)
 - [Manu](https://github.com/manutastic)
