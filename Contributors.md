@@ -34,10 +34,10 @@
 - [Konnor Timmons](https://github.com/KonnorTimmons1297)
 - [bwoconnor](https://github.com/bwoconnor)
 - [dfontana](https://github.com/dfontana)
-- [Natalie Roberts]
-- [Ayush Jindal]
+- [Natalie Roberts]()
+- [Ayush Jindal]()
 - [Dan Pham](https://github.com/hdp617)
-- Mesagoh
+- [Mesagoh]()
 - [c-kirkeby](https://github.com/c-kirkeby)
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
@@ -378,7 +378,8 @@
 - [Nkg18](https://github.com/Nkg18)
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
-- [lancelot1337](https://github.com/lancelot1337) -[mrKappen](https://github.com/mrKappen)
+- [lancelot1337](https://github.com/lancelot1337)
+- [mrKappen](https://github.com/mrKappen)
 - [hritikgupta](https://github.com/hritikgupta)
 - [Aidan Buchanan](https://github.com/N3XTL1FE)
 - [suresh37](https://github.com/suresh37/)
