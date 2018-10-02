@@ -6407,5 +6407,6 @@
 - [Ramy Gamal](https://github.com/Raamyy)
 - [Max Rugen](https://github.com/maxrugen)
 - [ttapar](https://github.com/ttapar)
+- [Charlie Rizor] (https://github.com/Shakespeares-Ghost)
 - [Tunap Paul](https://github.com/tunap)
 - [Joseph Fanous](https://github.com/GoogleDownload)
