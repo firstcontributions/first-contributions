@@ -2,6 +2,7 @@
 
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Mohit Routela](https://github.com/mohitroutela)
+- [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
