@@ -35,4 +35,4 @@
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovene](README.sl.md) |
-| 🇸🇪 | [Svenska](README.se.md) |
+| 🇸🇪 | [slovenska](README.se.md) |
