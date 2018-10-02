@@ -1,18 +1,20 @@
-# Translations
+﻿# Translations
 
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
-| 🇲🇲 | [Myanmar Unicode](README.mm_unicode.md) |
+| 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
-| <img src="assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
+| <img src="assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) 
+| <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
+| 🇫🇷 | [Français](README.fr.md) 
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
-| 🇻🇳 | [㗂越](README.vn.md) |
+| 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
-| 🇮🇷 | [Persian](README.fa.md) |
+| 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
@@ -27,12 +29,13 @@
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
-| 🇧🇩| [Bangla](README.bn.md) |
+| 🇧🇩| [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
-| :slovenia: | [Slovene](README.sl.md) |
+| :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
 |     | [Nederlands](READMe.du.md)|
+| 🇪🇬 | [المصرية](README.eg.md) |
