@@ -163,6 +163,7 @@
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Cameron Blake](https://github.com/mcblake)
+- [Evie Skinner] (https://github.com/Evie-Skinner18)
 - [Sazzyx]()
 - [AGunnerson]()
 - [Zhana Dougherty](https://github.com/ZPPD)
