@@ -17,6 +17,7 @@
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
 - [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
+- [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Yogesh](https://github.com/yog24esh)
