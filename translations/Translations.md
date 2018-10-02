@@ -13,7 +13,7 @@
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [㗂越](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
-| 🇮🇷 | [Persian](README.fa.md) |
+| 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
@@ -28,7 +28,7 @@
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
-| 🇧🇩| [Bangla](README.bn.md) |
+| 🇧🇩| [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
