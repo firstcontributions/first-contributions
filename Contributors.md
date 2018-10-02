@@ -22,6 +22,7 @@
 - [Marta Laís](https://github.com/martalais)
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
+- [Arnesh Agrawal] (https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
