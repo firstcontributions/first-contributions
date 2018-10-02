@@ -6463,3 +6463,4 @@
 - [Juan Espinoza](https://github.com/seethersan)
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
+- [Zachery Gentry](https://github.com/zacherygentry)
