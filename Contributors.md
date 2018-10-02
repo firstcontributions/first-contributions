@@ -482,6 +482,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Hayward Harris](https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
+- [Noozster](https://github.com/noozster)
 - [Kenny Luu](https://github.com/kennyluuluu)
 - [trickypicky](https://github.com/trickypicky)
 - [Alexander Janßen](https://github.com/AlexJanss)
