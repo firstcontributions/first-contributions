@@ -19,6 +19,7 @@
 - [Ritwik Sharma](https://github.com/ritrage)
 - [Drew Bragg](https://github.com/drbragg)
 - [João Silva](https//github.com/l32355)
+- [mara] (https://github.com/mara2701)
 - [Tyler Stanley](https://github.com/tystanley)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marco Jesus](https://github.com/marcojesus)
