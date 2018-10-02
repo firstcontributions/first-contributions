@@ -1112,6 +1112,7 @@
 - [Prakhar Pandey](https://github.com/prakharvk)
 - [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
+- [Nate Celeste] (https://github.com/ntceleste)
 - [Seanebum](https://github.com/seanebum)
 - [Phil Andrews](https://github.com/phil-andrews)
 - [Helen 12agnes](https://github.com/12agnes)
