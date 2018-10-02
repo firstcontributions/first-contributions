@@ -175,6 +175,7 @@
 - [Evie Skinner] (https://github.com/Evie-Skinner18)
 - [Sazzyx]()
 - [AGunnerson]()
+- [Laksh Dhamija](https://github.com/Alumenium)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
 - [Parithimalan A](https://github.com/superhakar)
