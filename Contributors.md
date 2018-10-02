@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Ritwik Sharma](https://github.com/ritrage)
