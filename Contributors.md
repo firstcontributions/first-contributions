@@ -1,5 +1,6 @@
 # Contributors
 
+- [Piyush Aggarwal](https://github.com/piyushagru)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Paul Caoile](https://github.com/m2paulc)
 - [Byungjin Park](https://github.com/posquit0)
