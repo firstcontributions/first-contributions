@@ -22,7 +22,7 @@
 - [Marta Laís](https://github.com/martalais)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Anton Medvedev](https://github.com/antonmdv)
-- [KSHITIJ BITHEL]
+- [KSHITIJ BITHEL](https://github.com/KSHITIJBITHEL)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
 - [Emily Colón](https://github.com/emilycolon)
