@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mohit Routela](https://github.com/mohitroutela)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
