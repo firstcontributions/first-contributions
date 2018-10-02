@@ -2776,6 +2776,7 @@
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
 - [Poomulus](https://github.com/Poomulus)
+- [Ivan Mendez](https://github.com/imendez)
 - [Sikander Singh](https://github.com/sikander441)
 - [Jade Dhangwattanotai](https://github.com/jadedh)
 - [Kun Peng](https://github.com/Kun17)
