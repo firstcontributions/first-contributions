@@ -32,6 +32,7 @@
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin] (https://github.com/jcat1504)
+- [Vyom Jain] (https://github.com/vvyomjjain)
 - [Harshita Khare](https://github.com/harshita269)
 - [Mary Frances](https://github.com/maryfranceshull
 - [Mitch Stevens](https://github.com/MitchStevens)
@@ -2703,7 +2704,7 @@
 - [Olumide Okedusi](https://github.com/Lumie31)
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
-- [Angel Young](http://github.com/angelyoung24) 
+- [Angel Young](http://github.com/angelyoung24)
 - [Richard Meadows](https://github.com/rjmead23)
 - [J Fsal](https://github.com/jfsal)
 - [Gordon Hendry](https://github.com/gordyh1)
