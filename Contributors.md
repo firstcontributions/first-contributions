@@ -2677,6 +2677,7 @@
 - [Olumide Okedusi](https://github.com/Lumie31)
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
+- [Angel Young](http://github.com/angelyoung24) 
 - [Richard Meadows](https://github.com/rjmead23)
 - [J Fsal](https://github.com/jfsal)
 - [Gordon Hendry](https://github.com/gordyh1)
