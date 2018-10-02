@@ -6373,4 +6373,5 @@
 - [Nadish Shajahan](https://github.com/nadishs)
 - [JustBSka](https://github.com/JustBSka)
 - [gdim7](https://github.com/gdim7)
+- [Tomas K](https://github.com/tomaskul/)
 - [StefanDu](https://github.com/StefanDu)
