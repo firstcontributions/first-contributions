@@ -46,7 +46,7 @@ Eğer henüz klasör içinde değilseniz uçbirimde depo klasörünün konumuna 
 ```
 cd first-contributions
 ```
-`git checkout` komutunu kullanarak yeni bir dal(branch) oluşutrun:
+`git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
 ```
 git checkout -b <ekle-sizin-isminiz>
 ```
