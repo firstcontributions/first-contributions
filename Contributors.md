@@ -6305,3 +6305,4 @@
 - [Valter Lucena] (https://github.com/valterlucena)
 - [Sdmmssa] (https://github.com/sdmmssa)
 - [RobbiNespu](https://github.com/RobbiNespu)
+- [Eduardo Moura](https://github.com/eduardosm7)
