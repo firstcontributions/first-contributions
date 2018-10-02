@@ -134,6 +134,7 @@
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Garvit Bhatia](https://github.com/GarvitBhatia)
 - [Nav k](https://github.com/DevNavpreet)
+- [Rishabh Garg](https://github.com/rishabhgarg25699)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Nicholas Ko](https://github.com/Mailnickko)
 - [Sagar Kumar](https://github.com/sagarkrsd)
