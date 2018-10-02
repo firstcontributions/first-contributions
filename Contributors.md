@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Ritwik Sharma](https://github.com/ritrage)
