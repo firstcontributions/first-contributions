@@ -1,6 +1,7 @@
 # Contributors
 
 - [Mohit Routela](https://github.com/mohitroutela)
+- [Paul Caoile](https://github.com/m2paulc)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
