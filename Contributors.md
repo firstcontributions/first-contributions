@@ -5145,6 +5145,7 @@
 - [Mohit Sharma](https://github.com/mohitsharma23)
 - [Khris Marcial](https://github.com/OkuboTV)
 - [Jakob Gross](https://github.com/jakobgross)
+- [Jakob Skallebæk](https://github.com/jskallebak)
 - [Tuna](https://github.com/tinahe75)
 - [Elizabeth Lin](https://github.com/elizabethlin6)
 - [Ross Macdonald](https://github.com/aarr5)
