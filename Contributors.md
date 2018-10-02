@@ -6110,6 +6110,7 @@
 - [Shyveon](https://github.com/Shyveon)
 - [MB](https://github.com/0rthogonal)
 - [Shyveon](https://github.com/Shyveon)
+- [Juan Rodriguez](http://github.com/jcrodriguezu)
 - [Ev](https://github.com/Evvie)
 - [Vinay Chawla](https://github.com/vinaychawla11)
 - [Vjroby](https://github.com/vjroby)
