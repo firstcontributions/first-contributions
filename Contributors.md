@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
@@ -1296,6 +1296,7 @@
 - [Chris Winsor](https://github.com/cwinsor)
 - [Dominic Valenciana](https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
+- [Jake Harrington](https://github.com/harringtonjd0)
 - [Sally Chhuon](https://github.com/sc2225)
 - [shreya bhandare](https://github.com/shreab373)
 - [Lord Adarsh](https://github.com/adarsh-why)
