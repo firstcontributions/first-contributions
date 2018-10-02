@@ -103,6 +103,7 @@
 - [Shaurya Pratap Singh Tomar](https://github.com/Shauryapst)
 - [Oluwakorede Cole](https://github.com/asincole)
 - [Ryan Hill](https://github.com/RyanHillGit)
+- [lemoncurry](https://github.com/lemoncurry)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Kin Lam](https://github.com/alanklam)
