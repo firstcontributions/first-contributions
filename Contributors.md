@@ -34,6 +34,7 @@
 - [Ayush Jindal]
 - [Dan Pham](https://github.com/hdp617)
 - Mesagoh
+- [c-kirkeby](https://github.com/c-kirkeby)
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Shubham Bhandari](https://github.com/dev-SB)
