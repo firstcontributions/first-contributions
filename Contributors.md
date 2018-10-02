@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
@@ -6370,3 +6370,4 @@
 - [Nadish Shajahan](https://github.com/nadishs)
 - [JustBSka](https://github.com/JustBSka)
 - [gdim7](https://github.com/gdim7)
+- [StefanDu](https://github.com/StefanDu)
