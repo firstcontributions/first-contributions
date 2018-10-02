@@ -6333,3 +6333,4 @@
 - [Bruno Nakayabu](https://github.com/BrNaka)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
+- [TaeRim](https://github.com/Ta2Rim)
