@@ -6414,3 +6414,4 @@
 - [Joseph Fanous](https://github.com/GoogleDownload)
 - [Aditya Choudhary](https://github.com/adich23)
 - [Matthew](https://github.com/TechDimension)
+- [Manuel Delgado](https://github.com/ManuelTheDev)
