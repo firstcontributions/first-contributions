@@ -8,6 +8,7 @@
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Samith Basnayaka](https://github.com/SamithDB)
+- [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
