@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [João Silva](https//github.com/l32355)
+- [Tyler Stanley](https://github.com/tystanley)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
