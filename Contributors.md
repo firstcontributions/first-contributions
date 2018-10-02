@@ -6317,6 +6317,7 @@
 - [Vini Farias](https://github.com/ViniFarias)
 - [rkruk](https://github.com/rkruk)
 - [fischbot](https://github.com/fischbot)
+- [Mohammed Farhan](https://github.com/farhankn)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
 - [Asam Shan](https://github.com/shan5742)
 - [Michael Pimentel](https://github.com/mtpjr88)
