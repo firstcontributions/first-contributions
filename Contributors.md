@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
@@ -17,7 +18,7 @@
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Zach Capshaw](https://github.com/zcapshaw)
-- [Aayush Sharma](https://github.com/andy1771)
+- [Aayush Sharma](https://github.com/andy1771) 
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Anna Scott](https://github.com/forfireonly)
@@ -6227,7 +6228,6 @@
 - [Muhammad Zeshan](https://github.com/zeshan77/)
 - [Alexander Yamamura](https://github.com/AlexYamamura)
 - [Mario Martinez](https://github.com/mariobytes)
-- [Ryan Troxler](https://github.com/rtroxler)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
