@@ -4027,3 +4027,4 @@
 - [Emilio Bernal](https://github.com/eBernalZ)
 - [Devjyoti Datta](https://github.com/Dev05)
 - [Jack Mead](https://github.com/JM3ad)
+- [Tanmay Kumar Bisoi](https://github.com/PseudoNerd)
