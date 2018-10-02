@@ -20,6 +20,7 @@
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
+- [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
