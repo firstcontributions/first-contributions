@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [palak bansal](https://github.com/bansal51197)
 
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
@@ -43,6 +43,7 @@
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
+- [Rajat](https://github.com/rjkumar22)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Konnor Timmons](https://github.com/KonnorTimmons1297)
 - [bwoconnor](https://github.com/bwoconnor)
