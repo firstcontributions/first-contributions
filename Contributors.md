@@ -6346,6 +6346,7 @@
 - [LiteBright](https://github.com/litebright)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Bruno Nakayabu](https://github.com/BrNaka)
+- [Scott Christian](https://github.com/dezryth)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
 - [Muskan Goyal](https://github.com/Muskan-goyal6)
