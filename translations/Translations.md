@@ -36,3 +36,4 @@
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
+| 🇪🇬 | [المصرية](README.eg.md) |
