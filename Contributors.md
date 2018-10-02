@@ -1,6 +1,6 @@
 ﻿# Contributors
 - [palak bansal](https://github.com/bansal51197)
-
+- [Mohammad Anas](https://github.com/zns-20)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [John Baltazar](https://github.com/jbaltazar03)
