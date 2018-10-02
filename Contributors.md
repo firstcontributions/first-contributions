@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [João Silva](https//github.com/l32355)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
@@ -6290,5 +6290,6 @@
 - [Michael Pimentel](https://github.com/mtpjr88)
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
-- [Will Kaczmarek] (https://github.com/KaczmarekWill)
-- [Akshat Ahuja] (https://github.com/akshatah33)
+- [Will Kaczmarek](https://github.com/KaczmarekWill)
+- [Akshat Ahuja](https://github.com/akshatah33)
+- [Daniyel Rocha](https://github.com/dnrocha1)
