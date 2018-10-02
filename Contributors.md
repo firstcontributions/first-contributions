@@ -6334,6 +6334,7 @@
 - [Anurag Rai](https://github.com/anurag-rai)
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
+- [Rafael Gomes](https://github.com/elrafa-sg)
 - [Will Kaczmarek](https://github.com/KaczmarekWill)
 - [Akshat Ahuja](https://github.com/akshatah33)
 - [Sumeet Kulkarni](https://github.com/sumeetk321)
