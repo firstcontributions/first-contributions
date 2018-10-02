@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ritwik Sharma](https://github.com/ritrage)
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
