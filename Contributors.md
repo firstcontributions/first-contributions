@@ -1732,6 +1732,7 @@
 - [Vaibhav Jain](https://github.com/VJ-Jain)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
+- [Anirudh Mukherjee](https://github.com/AnirudhMukherjee)
 - [Harsh Shah](https://github.com/harshcrop)
 - [Juan Jimenez](https://github.com/PurgePJ)
 - [Hari](https://github.com/hapr05)
