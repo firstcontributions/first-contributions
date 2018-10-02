@@ -116,6 +116,7 @@
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Nav k](https://github.com/DevNavpreet)
 - [Adam Hyder](https://github.com/adamhyder)
+- [Nicholas Ko](https://github.com/Mailnickko)
 - [Sagar Kumar](https://github.com/sagarkrsd)
 - [Jason Cole](https://github.com/jaymcole)
 - [Prateek Vijayvergiya](https://github.com/prateekvijayvergiya)
