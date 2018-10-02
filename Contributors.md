@@ -4989,6 +4989,7 @@
 - [Juliano Rodrigues Ramos](https://github.com/JulianoVcom)
 - [Guilherme de Lemos](https://github.com/guilhermedelemos)
 - [Gaurav Mitra](https://github.com/gauravcse)
+- [William Conway](https://github.com/wilc0n)
 - [ed-lev](https://github.com/EduardLev)
 - [Trshant](https://github.com/Trshant)
 - [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
