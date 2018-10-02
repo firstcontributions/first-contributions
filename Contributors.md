@@ -1,4 +1,5 @@
 # Contributors
+- [palak bansal](https://github.com/bansal51197)
 
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
