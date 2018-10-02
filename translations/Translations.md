@@ -1,11 +1,11 @@
-﻿# Translations
+# Translations
 
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
-| <img src="assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) 
+| <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
