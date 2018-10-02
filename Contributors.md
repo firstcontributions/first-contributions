@@ -6403,6 +6403,7 @@
 - [Rafael Gomes](https://github.com/elrafa-sg)
 - [Will Kaczmarek](https://github.com/KaczmarekWill)
 - [Akshat Ahuja](https://github.com/akshatah33)
+- [Kenneth Wright](https://github.com/WrightKD)
 - [Sumeet Kulkarni](https://github.com/sumeetk321)
 - [Valter Lucena](https://github.com/valterlucena)
 - [Sdmmssa](https://github.com/sdmmssa)
