@@ -114,6 +114,7 @@
 - [Kin Lam](https://github.com/alanklam)
 - [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
+- [Shivansh](https://github.com/shivanshkroos)
 - [Coding With E](https://github.com/codingwithe)
 - [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Adina Budriga](https://github.com/AdinaBudriga)
