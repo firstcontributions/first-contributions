@@ -997,6 +997,7 @@
 - [Alp Deveci](https://github.com/iceveda06)
 - [Thomas Lim](https://github.com/TrottPilgrim)
 - [Praveen Krishnan](https://github.com/praveenkrishnan81)
+- [Deji Adesoga](https://github.com/desoga10)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
