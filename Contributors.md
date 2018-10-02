@@ -26,6 +26,7 @@
 - [Anton Höög](https://github.com/AntonHoog)
 - [Arnesh Agrawal] (https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
 - [Emily Colón](https://github.com/emilycolon)
