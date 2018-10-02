@@ -1,6 +1,7 @@
 # Contributors
 
 - [Piyush Aggarwal](https://github.com/piyushagru)
+- [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
