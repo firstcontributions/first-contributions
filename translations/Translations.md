@@ -5,7 +5,6 @@
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
-| <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
@@ -32,7 +31,7 @@
 | 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
-| 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
+| <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
