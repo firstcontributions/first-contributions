@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
@@ -8,6 +8,7 @@
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Samith Basnayaka](https://github.com/SamithDB)
+- [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
@@ -20,7 +21,9 @@
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
+- [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
+- [Arnesh Agrawal] (https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
@@ -6371,3 +6374,4 @@
 - [JustBSka](https://github.com/JustBSka)
 - [gdim7](https://github.com/gdim7)
 - [Tomas K](https://github.com/tomaskul/)
+- [StefanDu](https://github.com/StefanDu)
