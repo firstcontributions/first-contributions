@@ -2002,6 +2002,7 @@
 - [Rick Haan](https://github.com/rickhaan)
 - [Alexey Salangin](https://github.com/Magauran)
 - [James Hobo](https://github.com/thignus)
+- [Jason Koh](https://github.com/WildlyManifest)
 - [Brandon Lum](https://github.com/theheck1)
 - [Ataeraxia](https://github.com/Ataeraxia)
 - [Lucas Melin](https://github.com/lucasmelin)
