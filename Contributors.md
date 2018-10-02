@@ -32,6 +32,7 @@
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Nico Jeske] (https://github.com/nicojeske)
 - [Tanner Crook](https://github.com/tannercrook)
+- [Brad Cutten](https://github.com/bcutten)
 - [Anna Scott](https://github.com/forfireonly)
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
