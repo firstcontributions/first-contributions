@@ -31,6 +31,7 @@
 - [Marco Jesus](https://github.com/marcojesus)
 - [Zach Capshaw](https://github.com/zcapshaw)
 - [Aayush Sharma](https://github.com/andy1771)
+- [Zach Wienandt] (https://github/com/thezymurgist)
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Nico Jeske] (https://github.com/nicojeske)
 - [Tanner Crook](https://github.com/tannercrook)
