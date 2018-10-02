@@ -34,6 +34,7 @@
 - [Zach Wienandt] (https://github/com/thezymurgist)
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Nico Jeske] (https://github.com/nicojeske)
+- [cunning weasel]
 - [Tanner Crook](https://github.com/tannercrook)
 - [Brad Cutten](https://github.com/bcutten)
 - [Anna Scott](https://github.com/forfireonly)
