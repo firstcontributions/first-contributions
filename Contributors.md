@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [John Baltazar](https://github.com/jbaltazar03)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Ritwik Sharma](https://github.com/ritrage)
 - [João Silva](https//github.com/l32355)
