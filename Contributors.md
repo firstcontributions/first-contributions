@@ -45,6 +45,7 @@
 - [Marta Laís](https://github.com/martalais)
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
+- [Demetrius Lewis](https://github.com/Dlewis89)
 - [Arnesh Agrawal](https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
