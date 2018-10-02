@@ -6458,4 +6458,5 @@
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Juan Espinoza](https://github.com/seethersan)
+- [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
