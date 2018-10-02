@@ -23,6 +23,7 @@
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Konnor Timmons](https://github.com/KonnorTimmons1297)
+- [bwoconnor](https://github.com/bwoconnor)
 - [Natalie Roberts]
 - [Ayush Jindal]
 - [Matt McCherry](https://github.com/MattMcCherry/)
