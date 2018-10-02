@@ -1,6 +1,7 @@
 # Contributors
 
 - [Mohit Routela](https://github.com/mohitroutela)
+- [Anthony Huang](https://github.com/Nycarus)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
