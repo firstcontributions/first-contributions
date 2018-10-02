@@ -759,6 +759,7 @@
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
+- [Federico Pasqua](https://github.com/eisterman)
 - [Benson M](https://github.com/bensonma)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Martin Kim](https://github.com/martin0829)
@@ -6387,4 +6388,5 @@
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Kee Heng](https://github.com/keeheng)
 - [Tanmay Kumar Bisoi](https://github.com/PseudoNerd)
+- [armoredelephant](https://github.com/armoredelephant)
 - [Ramy Gamal](https://github.com/Raamyy)
