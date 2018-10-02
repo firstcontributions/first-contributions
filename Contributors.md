@@ -87,6 +87,7 @@
 - [Paras Lakhani](https://github.com/paras112)
 - [Emily Qin]()
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
+- [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
 - [Tarun Jindal](https://github.com/tarunjindal790)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Nav k](https://github.com/DevNavpreet)
