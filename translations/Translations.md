@@ -11,7 +11,7 @@
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
-| 🇻🇳 | [㗂越](README.vn.md) |
+| 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
 | 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
