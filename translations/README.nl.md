@@ -28,7 +28,7 @@ Open een terminal en voer volgend git commando uit:
 ```
 git clone "url die je net kopieerde"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,7 +40,7 @@ Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je inhoud van de
 
 ## Een branch aanmaken
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+Navigeer naar de map van de repository op je systeem (mocht je daar niet al zijn).
 
 ```
 cd first-contributions
@@ -54,11 +54,13 @@ Bijvoorbeeld:
 ```
 git checkout -b add-thibmaek
 ```
-(De naam van de branch hoeft niet *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
+(De naam van de branch hoeft niet het woord *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
 
 ## Maak de benodigde wijzigingen en commit deze
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe. Doe dit niet aan het begin of eind, maar ergens in het midden. Sla vervolgens het bestand op.
+
+Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. Voeg deze toe aan je branch met behulp van onderstaand `git add` commando.
 ```
 git add Contributors.md
 ```
@@ -87,13 +89,17 @@ Verstuur nu je pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
+Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een email notificatie over ontvangen.
+
 ## Je fork in sync houden met de hoofd-repository
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
+Wanneer de pull request wordt geaccepteerd en gemerged, zal jouw fork de wijzigingen nog niet bevatten. Hiervoor moet je nog een aantal extra stappen ondernemen.
+
+Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/firstcontributions/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
+Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Wanneer de wijzigingen gemerged zijn, kun je de nieuwe versie fetchen van mijn repo.
 ```
 git fetch upstream
 ```
@@ -102,7 +108,7 @@ Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de
 ```
 git rebase upstream/master
 ```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
+Dit voegt alle wijzigingen toe die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
 ```
 git push origin master
 ```
@@ -114,8 +120,15 @@ Merk op dat je in dit geval pusht naar de remote met de naam origin.
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
+## Hoe nu verder?
 
-## Verdergaan van hieruit
+Gefeliciteerd! Je hebt zojuist de standaard _fork -> clone -> edit -> PR_ workflow doorlopen die je vaak zult tegenkomen als bijdrager!
+
+Vier je bijdrage en deel het met je vrienden en volgers via de [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+
+Mocht je nog vragen of hulp nodig hebben dan kun je je aanmelden voor ons [Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Laten we je nu op weg helpen met het bijdragen aan andere projecten. We hebben een lijst samengesteld met projecten die makkelijke issues bevatten waar je aan kunt werken. Bekijk [de lijst op de web app](https://roshanjossey.github.io/first-contributions/#project-list)
 
 Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
 
