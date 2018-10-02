@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [John Baltazar](https://github.com/jbaltazar03)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
 - [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
@@ -6346,6 +6347,7 @@
 - [LiteBright](https://github.com/litebright)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Bruno Nakayabu](https://github.com/BrNaka)
+- [lhiny](https://github.com/lhiny)
 - [Scott Christian](https://github.com/dezryth)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
