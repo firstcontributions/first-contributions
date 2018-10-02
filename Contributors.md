@@ -507,6 +507,7 @@
 - [Pietil]()
 - [TreliaGT](https://github.com/TreliaGT)
 - [nimish]()
+- [Ed Gargan](https://github.com/egargan)
 - [Jonathan Nilsson](https://github.com/Baleith)
 - [Jose Antonio](https://github.com/jkno87)
 - [Ramesh](https://github.com/rameshnayak100)
@@ -6432,4 +6433,3 @@
 - [Manuel Delgado](https://github.com/ManuelTheDev)
 - [Robert Laws](https://github.com/robert-laws)
 - [Dave Brener](https://github.com/davebrener)
-
