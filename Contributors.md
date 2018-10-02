@@ -6454,3 +6454,4 @@
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
+- [Juan Espinoza](https://github.com/seethersan)
