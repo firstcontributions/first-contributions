@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Aishwarya Bansal](https://github.com/aish51197)
 - [John Baltazar](https://github.com/jbaltazar03)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
 - [Divyanshi Mangal](https://github.com/divyanshidm)
