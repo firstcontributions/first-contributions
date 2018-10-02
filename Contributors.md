@@ -1176,6 +1176,7 @@
 - [David Bang](https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
 - [Daniel White](https://github.com/whitedann)
+- [Milco Majoor](https://github.com/MJMajoor)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
 - [Krishnan V](https://github.com/Krishnanv070490)
