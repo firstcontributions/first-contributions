@@ -23,6 +23,7 @@
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
 - [Drew Bragg](https://github.com/drbragg)
+- [Pooja Sethia](https://github.com/poojasethia)
 - [João Silva](https//github.com/l32355)
 - [mara] (https://github.com/mara2701)
 - [Tyler Stanley](https://github.com/tystanley)
