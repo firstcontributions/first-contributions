@@ -2698,6 +2698,7 @@
 - [Shyam Mohan V M](https://github.com/shyammvm)
 - [Jesse Jacobs](https://github.com/jjacobs21)
 - [Claudius King](https://github.com/protean-phoenix)
+- [Mohit Gauniyal](https://github.com/mohitgauniyal19a)
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
 - [Vitor Dias](https://github.com/VitorDiass)
