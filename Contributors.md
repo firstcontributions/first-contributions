@@ -110,6 +110,7 @@
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Alon]()
 - [Max]()
+- [Minh Chau](https://github.com/ctrongminh)
 - [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
 - [Anderson Borba]()
