@@ -3,8 +3,9 @@
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
-| 🇲🇲 | [Myanmar Unicode](README.mm_unicode.md) |
+| 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
+| 🇨🇦| [Català](README.ca.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
@@ -12,7 +13,7 @@
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [㗂越](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
-| 🇮🇷 | [Persian](README.fa.md) |
+| 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
@@ -27,11 +28,11 @@
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
-| 🇧🇩| [Bangla](README.bn.md) |
+| 🇧🇩| [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](README.md) |
 | 🏴‍☠ | [English (Pirate)](README.en-pirate.md) |
-| 🇹🇷 | [Turkish](README.tr.md) |
+| 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovene](README.sl.md) |
-| 🇸🇪 | [Swedish](README.se.md) |
+| 🇸🇪 | [Svenska](README.se.md) |
