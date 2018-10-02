@@ -20,7 +20,7 @@
 | 🇩🇪  | [Plattdüütsch](README.de.md) |
 | 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
 | 🇬🇷 | [ελληνικά](README.gr.md) |
-| العربية🇦 | [العربية](README.ar.md) |
+| العربية | [العربية](README.ar.md) |
 | 🇺🇦 | [Українська](README.ua.md) |
 | 🇧🇷 | [Português (Brasil)](README.pt_br.md) |
 | 🇵🇹 | [Português (Portugal)](README.pt-pt.md) |
