@@ -689,6 +689,7 @@
 - [Shadrach Jakes](https://github.com/ShadrachJ)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
+- [Priyanshu Nandan](https://github.com/priyanshuN)
 - [Nibraas Khan](https://github.com/nibraaska)
 - [Andrew Albert](https://github.com/andyalbert)
 - [Jon-Luke Willemsen](https://github.com/jonlukewtafe)
