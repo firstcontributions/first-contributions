@@ -195,6 +195,7 @@
 - [Laksh Dhamija](https://github.com/Alumenium)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
+- [Edward Ezekiel](https://github.com/edezekiel)
 - [Parithimalan A](https://github.com/superhakar)
 - [Eric Simard](https://github.com/ericsimard52)
 - [Jeff Darling](https://github.com/jeffld)
