@@ -221,6 +221,7 @@
 - [Babs Craig](https://github.com/babzcraig)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
+- [Rupal Jain](https://github.com/rupal16)
 - [Varsha Chahal](https://github.com/VarshaChahal)
 - [Kavinda Senarathne](https://github.com/Kavinda-Senarathne)
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
