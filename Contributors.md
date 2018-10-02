@@ -107,6 +107,7 @@
 - [Balindam Bajpai](ttps://github.com/codename404)
 - [Emily Qin]()
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
+- [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
 - [Tarun Jindal](https://github.com/tarunjindal790)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
 - [Nav k](https://github.com/DevNavpreet)
