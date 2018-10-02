@@ -6292,3 +6292,4 @@
 - [Robert Smayda](https://github.com/rsmayda)
 - [Will Kaczmarek] (https://github.com/KaczmarekWill)
 - [Akshat Ahuja] (https://github.com/akshatah33)
+- [Valter Lucena] (https://github.com/valterlucena)
