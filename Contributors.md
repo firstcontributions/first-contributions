@@ -19,6 +19,7 @@
 - [Emily Colón](https://github.com/emilycolon)
 - [Antonio Neto](https://github.com/aacgn)
 - [Pablo Rey](https://github.com/PFeynman)
+- [Francesco Zardi](https://github.com/frazar)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Manish](https://github.com/Manish17292000)
