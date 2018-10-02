@@ -13,6 +13,7 @@
 - [Tyler Stanley](https://github.com/tystanley)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marco Jesus](https://github.com/marcojesus)
+- [Aayush Sharma](https://github.com/andy1771) 
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Anna Scott](https://github.com/forfireonly)
