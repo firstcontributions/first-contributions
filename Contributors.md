@@ -6278,3 +6278,4 @@
 - [Michael Pimentel](https://github.com/mtpjr88)
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
+- [Vitor de Lima](https://github.com/vitorlc)
