@@ -511,6 +511,7 @@
 - [Pietil]()
 - [TreliaGT](https://github.com/TreliaGT)
 - [nimish]()
+- [Ed Gargan](https://github.com/egargan)
 - [Jonathan Nilsson](https://github.com/Baleith)
 - [Jose Antonio](https://github.com/jkno87)
 - [Ramesh](https://github.com/rameshnayak100)
