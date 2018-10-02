@@ -6343,6 +6343,7 @@
 - [Valter Lucena](https://github.com/valterlucena)
 - [Sdmmssa](https://github.com/sdmmssa)
 - [RobbiNespu](https://github.com/RobbiNespu)
+- [LiteBright](https://github.com/litebright)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Bruno Nakayabu](https://github.com/BrNaka)
 - [lhiny](https://github.com/lhiny)
