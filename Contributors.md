@@ -250,6 +250,7 @@
 - [Shawn Pang](https://github.com/CometS1)
 - [Finley McIlwaine](https://github.com/FinleyMcIlwaine)
 - [Babs Craig](https://github.com/babzcraig)
+- [NotThatBowser](https://github.com/NotThatBowser)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Rupal Jain](https://github.com/rupal16)
