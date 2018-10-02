@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
+- [Samith Basnayaka](https://github.com/SamithDB)
 - [Ritwik Sharma](https://github.com/ritrage)
 - [João Silva](https//github.com/l32355)
 - [Tyler Stanley](https://github.com/tystanley)
