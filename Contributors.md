@@ -30,6 +30,7 @@
 - [Natalie Roberts]
 - [Ayush Jindal]
 - Mesagoh
+- [c-kirkeby](https://github.com/c-kirkeby)
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Matthew Abrey](https://github.com/Mabrey)
