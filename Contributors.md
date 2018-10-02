@@ -1,6 +1,8 @@
-﻿# Contributors
-- [palak bansal](https://github.com/bansal51197)
+# Contributors
 
+- [Byungjin Park](https://github.com/posquit0)
+- [palak bansal](https://github.com/bansal51197)
+- [Mohammad Anas](https://github.com/zns-20)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [John Baltazar](https://github.com/jbaltazar03)
@@ -6227,6 +6229,7 @@
 - [Muhammad Zeshan](https://github.com/zeshan77/)
 - [Alexander Yamamura](https://github.com/AlexYamamura)
 - [Mario Martinez](https://github.com/mariobytes)
+- [Ryan Troxler](https://github.com/rtroxler)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
@@ -6389,8 +6392,10 @@
 - [StefanDu](https://github.com/StefanDu)
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
+- [Ugurkan Ates](https://github.com/ugurkanates)
 - [Kee Heng](https://github.com/keeheng)
 - [Tanmay Kumar Bisoi](https://github.com/PseudoNerd)
 - [armoredelephant](https://github.com/armoredelephant)
 - [Ramy Gamal](https://github.com/Raamyy)
 - [Max Rugen](https://github.com/maxrugen)
+- [ttapar](https://github.com/ttapar)
