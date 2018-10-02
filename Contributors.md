@@ -17,6 +17,7 @@
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin] (https://github.com/jcat1504)
+- [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Cortney Thomas](https://github.com/cSparkle)
