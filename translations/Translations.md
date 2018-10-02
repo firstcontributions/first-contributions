@@ -1,4 +1,4 @@
-# Translations
+﻿# Translations
 
 |  | Translated Link |
 | --- | --- |
