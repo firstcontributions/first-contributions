@@ -5,7 +5,7 @@
 | 🇮🇳 | [हिन्दी ](README.hi.md) |
 | 🇲🇲 | [Myanmar Unicode](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
-| 🇫🇷 | [Français](README.fr.md) |
+| <img src="assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
