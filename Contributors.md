@@ -25,6 +25,7 @@
 - [Zach Capshaw](https://github.com/zcapshaw)
 - [Aayush Sharma](https://github.com/andy1771)
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
+- [Nico Jeske] (https://github.com/nicojeske)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Anna Scott](https://github.com/forfireonly)
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
