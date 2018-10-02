@@ -435,6 +435,7 @@
 - [Recep Emül](https://github.com/rcpml)
 - [Muslim Razi](https://github.com/raz4)
 - [Danny Lan](https://github.com/ddlan)
+- [Shivam Chaudhary](https://github.com/andy6975)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Aparajit Chatterjee](https://github.com/aparajit0511)
 - [Anshul Khattar](https://github.com/anshulkhattar)
