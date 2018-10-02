@@ -5252,6 +5252,7 @@
 - [Ramadan35](https://github.com/ramadan35)
 - [Renee](https://github.com/ReneeAB)
 - [xiajingwang](https:github.com/xiajingwang)
+- [Ian Machuca](https://github.com/zerot13)
 - [Eric Knight](https://github.com/HortusHonu)
 - [Nathan Gaul](https://github.com/Infining)
 - [Richa Agarwal](https://github.com/richa031)
