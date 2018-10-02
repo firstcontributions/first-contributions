@@ -6439,4 +6439,5 @@
 - [Robert Laws](https://github.com/robert-laws)
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
+- [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
