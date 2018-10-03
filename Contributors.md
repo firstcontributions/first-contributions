@@ -45,6 +45,7 @@
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
+- [Dan Bolta](https://github.com/dbolta)
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Demetrius Lewis](https://github.com/Dlewis89)
