@@ -278,6 +278,7 @@
 - [Marissa Shaffer](https://github.com/msshaffer2003)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
+- [Jadson Luan](https://github.com/jadsonluan)
 - [Elena Cristina]()
 - [Sankarsh Pallela](https://github.com/sankarsh98)
 - [Kevin Cheong](https://github.com/sicksticky)
