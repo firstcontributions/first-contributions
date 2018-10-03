@@ -13,6 +13,7 @@
 - [Ashok Singh](https://github.com/XLAR-8)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
+- [Daniel Burns](https://github.com/danieljburns143)
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
