@@ -1,4 +1,4 @@
-﻿#Informações Adicionais
+﻿# Informações Adicionais
 
 Nós imaginamos que você já tenha terminado o tutorial basico antes de vir aqui. As informações adicionais irão a dar você algumas informações sobre técnicas mais avançadas de Git.
 
