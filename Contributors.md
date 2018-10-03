@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Mahdi HB](https://github.com/mhb8898)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
