@@ -6518,5 +6518,6 @@
 - [Stefan Clem](https://github.com/iepoch)
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
-- [amey-kudari](https://github.com/amey-kudari)
 - [Katie West](https://github.com/katcode)
+- [Suvansh Rana](https://github.com/Sherlock2000)
+- [amey-kudari](https://github.com/amey-kudari)
