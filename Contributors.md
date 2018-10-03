@@ -19,6 +19,7 @@
 - [palak bansal](https://github.com/bansal51197)
 - [Lewis Williams] (https://github.com/lewis150193)
 - [Mohammad Anas](https://github.com/zns-20)
+- [Sarah D. Perea](https://github.com/sarahperea)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
