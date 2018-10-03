@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Piyush Aggarwal](https://github.com/piyushagru)
@@ -5618,6 +5618,7 @@
 - [Bilal Mahmood](https://github.com/bmahmood1)
 - [Alan Mathew](https://github.com/alamathe1)
 - [apoc](https://github.com/apoc146)
+- [Terry]
 - [Apoorv Tomar](https://github.com/apoorvtomar2222)
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
