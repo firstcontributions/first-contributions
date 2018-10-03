@@ -144,7 +144,7 @@
 - [AGunnerson]()
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
-- [Parithimalan A](https://github.com/superhakar)
+- [Parithimalan A.](https://github.com/superhakar)
 - [Eric Simard](https://github.com/ericsimard52)
 - [Jeff Darling](https://github.com/jeffld)
 - [Chau Ly](https://github.com/lycb)
