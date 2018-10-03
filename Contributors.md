@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Yik Jin](https://github.com/yikjin)
