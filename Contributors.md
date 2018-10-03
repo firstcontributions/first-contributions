@@ -3153,6 +3153,7 @@
 - [Messiah](https://github.com/Messiahhh)
 - [Scott](https://github.com/underwaterlad)
 - [Brian Do](https://github.com/briancldo)
+- [Vinicius Araujo](https://github.com/viniaraujoo)
 - [Stefan Russo](https://github.com/lifestronaut)
 - [iShoe](https://github.com/ishoe)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
