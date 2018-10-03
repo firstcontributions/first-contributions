@@ -99,6 +99,7 @@
 - [Vyom Jain](https://github.com/vvyomjjain)
 - [Harshita Khare](https://github.com/harshita269)
 - [Mary Frances](https://github.com/maryfranceshull)
+- [Matthew Heath](https://github.com/matthewheath)
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Danial](https://github.com/DeeHechEss)
