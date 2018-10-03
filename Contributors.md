@@ -6311,6 +6311,7 @@
 - [Michael Yang](https://github.com/yangmichaelkcs/)
 - [Michael Peng](https://github.com/michaelpeng)
 - [Onkar Pandit](https://github.com/onkarpandit)
+- [Mridul Agarwal](https://github.com/mridul2899)
 - [Menekam Rudy](https://github.com/Rudy-Menekam)
 - [Ankur](https://github.com/Ankurk99)
 - [Limberger](https://github.com/Limberger)
