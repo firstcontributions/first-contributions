@@ -6467,3 +6467,4 @@
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
 - [John P](https://github.com/palumboj)
+- [prydt](https://github.com/prydt)
