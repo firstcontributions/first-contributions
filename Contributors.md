@@ -29,6 +29,7 @@
 - [Lewis Williams](https://github.com/lewis150193)
 - [Mohammad Anas](https://github.com/zns-20)
 - [Sarah D. Perea](https://github.com/sarahperea)
+- [Varun](https://github.com/2000Varun)
 - [Devin Henslee](https://github.com/DCHenslee)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
