@@ -19,6 +19,7 @@
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
+- [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
 - [Android](https://github.com/androidtestuser)
