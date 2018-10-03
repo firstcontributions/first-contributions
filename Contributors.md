@@ -2,6 +2,7 @@
 
 - [Yik Jin](https://github.com/yikjin)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
+- [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
