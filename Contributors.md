@@ -2336,6 +2336,7 @@
 - [Michele Armellini](https://github.com/armaDio)
 - [syamkumar](https://github.com/syam3526)
 - [awesomejerry](https://github.com/awesomejerry)
+- [Met D] {https://github.com/mdekaj}
 - [Nathan Mkaya](https://github.com/nathanmkaya)
 - [Rahat](https://github.com/MAHRahat)
 - [Justin Abbott](https://github.com/justinabbott)
