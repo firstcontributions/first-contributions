@@ -65,7 +65,7 @@ git checkout -b add-alonzo-church
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios. 
 
