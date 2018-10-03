@@ -18,6 +18,7 @@
 - [Saswat Kar] (https://github.com/skksanchez)
 - [Greet Van der Linden](https://github.com/GreetVdL)
 - [Saswat Kar](https://github.com/skksanchez)
+- [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [senpai](https://github.com/windowstestuser)
