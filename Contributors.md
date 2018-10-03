@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Yik Jin](https://github.com/yikjin)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
@@ -3446,6 +3446,7 @@
 - [Paul Baur](https://github.com/pjbaur)
 - [Ibrar Yunus](https://github.com/IbrarYunus)
 - [Diego Kascharowski](https://github.com/kascharowski)
+- [Chad Meadowcroft](https://github.com/cheezyy)
 - [Kevin Lemon](https://github.com/KevinLemon14)
 - [Hashim Ikram](https://github.com/hikram/)
 - [mandymuf](https://github.com/mandymuf)
