@@ -28,6 +28,7 @@
 - [Shashank Avunoori] (https://github.com/Shashank100297)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
+- [Rory Mulcahey] (https://github.com/rorymulcahey)
 - [palak bansal](https://github.com/bansal51197)
 - [Lewis Williams](https://github.com/lewis150193)
 - [Mohammad Anas](https://github.com/zns-20)
