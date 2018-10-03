@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
+- [Sherezz Grant](https://github.com/rezziemaven/)
 - [Yik Jin](https://github.com/yikjin)
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
@@ -12,7 +13,8 @@
 - [Myles Brown](https://github.com/Myles2)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Piyush Aggarwal](https://github.com/piyushagru)
-- [Ashok Singh](https://github.com/XLAR-8)
+- [Ashok Singh
+- ](https://github.com/XLAR-8)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Daniel Burns](https://github.com/danieljburns143)
@@ -5623,7 +5625,7 @@
 - [Yashaswi Karnati](https://github.com/yash-5595)
 - [Rohan Rao](https://github.com/themathgeek13)
 - [Ben P]()
--[RuhanRK](https://github.com/RuhanRK)
+  -[RuhanRK](https://github.com/RuhanRK)
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
 - [Alejandro Guevara](https://github.com/alejandroge)
