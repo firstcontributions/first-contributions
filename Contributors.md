@@ -123,6 +123,7 @@
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Kin Lam](https://github.com/alanklam)
+- [Rohit katlaa](https://github.com/rohitkatlaa)
 - [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Shivansh](https://github.com/shivanshkroos)
@@ -1400,8 +1401,8 @@
 - [Roshan Jossey](https://github.com/Roshanjossey)
 - [Ray Al](https://github.com/ray4spd)
 - [Christian Brill](https://github.com/christianbrill)
-- [Ujjwal](https://github.com/uforujjwal)
-- [Sai Rahul](https://github.com/rahulsai2341)
+- [Ujjwal](https://github.com/uforujjwal)https://github.com/rohitkatlaa/first-contributions
+- [Sai Rahul](https://github.com/rahulsai2341)https://github.com/rohitkatlaa/first-contributions
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
 - [Kamal Mohanan](https://github.com/kmlmhnn)
@@ -1491,6 +1492,7 @@
 - [Vipin Chacko](https://github.com/vipin7)
 - [Molotovna](https://github.com/molotovna)
 - [ivlv](https://github.com/ivlv)
+- [Rohit Katlaa](https://github.com/rohitkatlaa)
 - [Alvin Raygon](https://github.com/blackchalk)
 - [Edewa Josh](https://github.com/edewajosh)
 - [Shiro Developer](https://github.com/shirodeveloper)
