@@ -68,6 +68,7 @@
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Nico Jeske](https://github.com/nicojeske)
 - [cunning weasel]()
+- [Pulkit Gupta](https://github.com/Pulkitg64)
 - [Dominic](https://github.com/doms)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Brad Cutten](https://github.com/bcutten)
