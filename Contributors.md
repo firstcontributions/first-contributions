@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Piyush Aggarwal](https://github.com/piyushagru)
@@ -6467,3 +6467,4 @@
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
 - [John P](https://github.com/palumboj)
+- [Ted Kim](https://github.com/00aney)
