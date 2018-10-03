@@ -10,6 +10,7 @@
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
 - [Android](https://github.com/androidtestuser)
+- [Ken Austria](https://github.com/KenAustria)
 - [dumblole] (https://github.com/dumblole)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
