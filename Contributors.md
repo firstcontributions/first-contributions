@@ -6509,3 +6509,4 @@
 - [Stefan Clem](https://github.com/iepoch)
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
+- [Katie West](https://github.com/katcode)
