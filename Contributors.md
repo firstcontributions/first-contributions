@@ -3,6 +3,7 @@
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Yik Jin](https://github.com/yikjin)
+  [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
