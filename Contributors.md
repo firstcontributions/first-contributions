@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
@@ -222,6 +222,7 @@
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Alon]()
 - [Max]()
+- [Harry Zhang]()
 - [Minh Chau](https://github.com/ctrongminh)
 - [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
