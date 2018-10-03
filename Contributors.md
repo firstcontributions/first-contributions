@@ -822,6 +822,7 @@
 - [Kanchan Naukudkar](https://github.com/naukudkarkanchan11)
 - [Aditya Dehal](https://github.com/aditya2000)
 - [Rainier Go](https://github.com/raini35)
+- [Jessé Souza](https://github.com/jessesouza21)
 - [Patrick Pelayo](https://github.com/ppelayo1)
 - [Lionel Ortega](https://github.com/busonlineyes)
 - [Arun Kumar Arunachalam](https://github.com/aak211th)
