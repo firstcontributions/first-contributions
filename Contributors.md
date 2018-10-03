@@ -88,6 +88,7 @@
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Shubham Bhandari](https://github.com/dev-SB)
+- [rohit katlaa r](https://github.com/rohitkatlaa)
 - [Matthew Abrey](https://github.com/Mabrey)
 - [Zhixue Wang](https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
