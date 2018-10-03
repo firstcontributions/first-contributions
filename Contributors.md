@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Yik Jin](https://github.com/yikjin)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
@@ -24,6 +24,7 @@
 - [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
+- [Shashank Avunoori] (https://github.com/Shashank100297)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
