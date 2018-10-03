@@ -19,6 +19,7 @@
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
+- [rohit](https://github.com/rohitkatlaa)
 - [John Baltazar](https://github.com/jbaltazar03)
 - [Aniket Agarwal](https://github.com/aniket0702)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
