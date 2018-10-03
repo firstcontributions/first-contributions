@@ -6486,6 +6486,7 @@
 - [John P](https://github.com/palumboj)
 - [Zachery Gentry](https://github.com/zacherygentry)
 - [Ted Kim](https://github.com/00aney)
+- [Aayush Bisen](https://github.com/aayushbisen)
 - [prydt](https://github.com/prydt)
 - [Iurii Didkovskyi](https://github.com/hichnik/)
 - [Yena Park](https://github.com/Yena-Park)
