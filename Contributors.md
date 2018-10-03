@@ -3537,7 +3537,7 @@
 - [Shane Perry](https://github.com/shaneperrydc)
 - [Dan Tipaldo](https://github.com/dtipaldo)
 - [Manuel Becerra](https://github.com/M-Becerra)
-- [Kevin Niemeyer](htps://github.com/KevinNiemeyer)
+- [Kevin Niemeyer](https://github.com/KevinNiemeyer)
 - [D?vid Sz?p](https://github.com/itafet)
 - [Yang Yang](https://github.com/yang573)
 - [Venkata Buddhiraju](https://github.com/nagarakesh4)
