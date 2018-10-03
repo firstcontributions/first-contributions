@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Iann Carvalho](https://github.com/ianncarvalho)
+- [Myles Brown](https://github.com/Myles2)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
