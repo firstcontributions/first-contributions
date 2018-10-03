@@ -194,6 +194,7 @@
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
+- [Akmal Maulana Azzam](https://github.com/Rehre)
 - [Ruslan]()
 - [Swami]()
 - [Melis](https://github.com/melisdogan)
