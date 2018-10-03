@@ -48,6 +48,7 @@
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
 - [Sahan Monaara](https://github.com/SahanMonaara)
+- [Clockclog](https://github.com/clockclog)
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
