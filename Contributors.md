@@ -135,6 +135,7 @@
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Kin Lam](https://github.com/alanklam)
+- [Rohit katlaa](https://github.com/rohitkatlaa)
 - [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Shivansh](https://github.com/shivanshkroos)
