@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Piyush Aggarwal](https://github.com/piyushagru)
@@ -6478,3 +6478,4 @@
 - [John P](https://github.com/palumboj)
 - [Ted Kim](https://github.com/00aney)
 - [Iurii Didkovskyi](https://github.com/hichnik/)
+- [Yena Park](https://github.com/Yena-Park)
