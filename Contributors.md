@@ -6543,3 +6543,4 @@
 - [amey-kudari](https://github.com/amey-kudari)
 - [Michal Budzilo](https://github.com/michbudz)
 - [Abdulrahman Alrahma](https://github.com/smokyabdulrahman)
+- [Nonthawat Duangchai](https://github.com/nzer0nz)
