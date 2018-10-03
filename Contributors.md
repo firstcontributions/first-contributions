@@ -4282,6 +4282,7 @@
 - [Maya](https://github.com/thegirlfromipanema)
 - [Pedro França](https://github.com/pfranca)
 - [David Haynes](https://github.com/DavidHaynesHasGitHub)
+- [Brandon Starcheus](https://github.com/BStarcheus)
 - [Josh](https://github.com/kiwi-koder)
 - [Callat](https://github.com/latimercaleb)
 - [andreas cormack](https://github.com/squadran2003)
