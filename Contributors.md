@@ -6491,4 +6491,5 @@
 - [prydt](https://github.com/prydt)
 - [Iurii Didkovskyi](https://github.com/hichnik/)
 - [Yena Park](https://github.com/Yena-Park)
+- [Ryan Robidou](https://github.com/emunin)
 - [Sultan Imam Muttaqin](https://github.com/kilamieaz)
