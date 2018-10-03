@@ -29,6 +29,7 @@
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Shashank Avunoori] (https://github.com/Shashank100297)
+- [Ritwiz Sinha] (https://github.com/ritwizsinha)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
 - [Rory Mulcahey] (https://github.com/rorymulcahey)
