@@ -6496,6 +6496,7 @@
 - [ttapar](https://github.com/ttapar)
 - [Charlie Rizor](https://github.com/Shakespeares-Ghost)
 - [Tunap Paul](https://github.com/tunap)
+- [Yudi Tao](https://github.com/Dooomino)
 - [Joseph Fanous](https://github.com/GoogleDownload)
 - [Aditya Choudhary](https://github.com/adich23)
 - [Matthew](https://github.com/TechDimension)
