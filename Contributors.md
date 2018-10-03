@@ -6478,6 +6478,7 @@
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
+- [Orlando Briceño](https://github.com/orlybg)
 - [Juan Espinoza](https://github.com/seethersan)
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
