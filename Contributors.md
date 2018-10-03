@@ -6512,6 +6512,7 @@
 - [Aayush Bisen](https://github.com/aayushbisen)
 - [prydt](https://github.com/prydt)
 - [Iurii Didkovskyi](https://github.com/hichnik/)
+- [Robert McHugh](https://github.com/RobMcHugh/)
 - [Yena Park](https://github.com/Yena-Park)
 - [Ryan Robidou](https://github.com/emunin)
 - [Jordan Ballinger] (https://github.com/jordballinger)
