@@ -346,6 +346,7 @@
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
+- [Yash Khare](https://github.com/yashk2000)
 - [Chris Bratene](https://github.com/chrisbratene)
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
