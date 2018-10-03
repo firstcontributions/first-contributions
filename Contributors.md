@@ -1,5 +1,5 @@
-﻿# Contributors
-
+# Contributors
+- [Ron Laniado](https://github.com/ronlaniado)
 - [Yik Jin](https://github.com/yikjin)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [CallmeHenry](https://github.com/CallmeHenry)
