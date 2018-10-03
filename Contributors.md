@@ -6,6 +6,7 @@
 - [Myles Brown](https://github.com/Myles2)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Piyush Aggarwal](https://github.com/piyushagru)
+- [Ashok Singh](https://github.com/XLAR-8)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Jill Haake Moreau](https://github.com/jillhkm)
