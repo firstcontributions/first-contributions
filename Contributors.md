@@ -251,6 +251,7 @@
 - [Max W. Searan](https://github.com/Wes26)
 - [Andrew Hoang](https://github.com/ndrwhoang)
 - [Andriano Winatra](https://github.com/andrianowinatra)
+- [Jeswin Prince](https://github.com/jeswinjames)
 - [Ana P Marquez](http://github.com/anpams)
 - [David Lee](https://github.com/dlee129)
 - [Ziane Maamar](https://github.com/DRXDesign)
