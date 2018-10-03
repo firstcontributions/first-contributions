@@ -1756,6 +1756,7 @@
 - [Mark Moeckel](https://github.com/heymark)
 - [Naman Sachdeva](https://github.com/namansachdeva)
 - [Tannishk Sharma](https://github.com/tannishk)
+- [Tyler Lego](https://github.com/tylerlego)
 - [Eric Hall](https://github.com/halleri)
 - [Anju Mercian](https://github.com/amalphonse)
 - [Neil Lupton](https://github.com/Neil188)
