@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
@@ -110,6 +110,7 @@
 - [Natalie Roberts]()
 - [Ayush Jindal]()
 - [Xabifk](https://github.com/Xabifk)
+- [Smaranda](https://github.com/sdersc)
 - [Dan Pham](https://github.com/hdp617)
 - [Taylor Flagg](https://github.com/Tflagg97)
 - [Mesagoh]()
