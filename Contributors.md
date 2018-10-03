@@ -6455,6 +6455,7 @@
 - [fischbot](https://github.com/fischbot)
 - [Mohammed Farhan](https://github.com/farhankn)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
+- [Antonio Djigo] (https://github.com/DjigoLab)
 - [Martin Nievas](https://github.com/MartinNievas)
 - [Asam Shan](https://github.com/shan5742)
 - [Michael Pimentel](https://github.com/mtpjr88)
