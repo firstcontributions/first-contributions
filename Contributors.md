@@ -6556,4 +6556,5 @@
 - [Abdulrahman Alrahma](https://github.com/smokyabdulrahman)
 - [Nonthawat Duangchai](https://github.com/nzer0nz)
 - [Byron White](https://github.com/BoomSyrup)
-- [Ryan Zegray] (https://github.com/rzgry)
+- [Ryan Zegray](https://github.com/rzgry)
+- [Yeoh Joer](https://github.com/yjoer)
