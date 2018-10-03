@@ -101,6 +101,7 @@
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
+- [Danial](https://github.com/DeeHechEss)
 - [Rajat](https://github.com/rjkumar22)
 - [Danny](https://github.com/dtranmobil)
 - [Jesse Dohmann](https://github.com/jldohmann)
