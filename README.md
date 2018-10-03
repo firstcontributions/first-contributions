@@ -166,6 +166,6 @@ Now let's get you started with contributing to other projects. We've compiled a 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
 [Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
+[GitHub](https://github.com/roshanjossey). :)
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
