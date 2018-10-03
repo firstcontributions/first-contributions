@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Piyush Aggarwal](https://github.com/piyushagru)
@@ -6496,5 +6496,6 @@
 - [Iurii Didkovskyi](https://github.com/hichnik/)
 - [Yena Park](https://github.com/Yena-Park)
 - [Ryan Robidou](https://github.com/emunin)
+- [Jordan Ballinger] (https://github.com/jordballinger)
 - [Sultan Imam Muttaqin](https://github.com/kilamieaz)
 - [Stefan Clem](https://github.com/iepoch)
