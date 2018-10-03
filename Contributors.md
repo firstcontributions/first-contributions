@@ -448,6 +448,7 @@
 - [Mikey Korst](https://github.com/paranoidandroid81)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
+- [John T](https://github.com/zhuntai)
 - [Vandy Thong](https://github.com/vandythong)
 - [Michael Feninets](https://github.com/kopenhamn)
 - [Neveon](https://github.com/Neveon)
