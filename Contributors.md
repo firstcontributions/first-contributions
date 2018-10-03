@@ -97,6 +97,7 @@
 - [setesti](https://github.com/setesti)
 - [nickxla](https://github.com/nickxla)
 - [Dayyan O'Brien](https://github.com/dayyanobrien)
+- [Sarthak gupta](https://github.com/sarthak-g)
 - [Yash Agrawal](https://github.com/YashAgrawal0)
 - [Waheed Afolabi](https://github.com/wptechprodigy)
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
