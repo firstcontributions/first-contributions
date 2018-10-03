@@ -179,6 +179,8 @@ git push origin master
 
 ## <div dir="rtl">ماذا أفعل بعد هذا؟</div>
 
-<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">انضم إلى فريق Slack</a></div>
-
+<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. انضم إلى فريق Slack</div>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">
+<img align="right" width="150" src="../assets/join-slack-team.png">
+</a>
 <br>
