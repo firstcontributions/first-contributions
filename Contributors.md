@@ -5,6 +5,7 @@
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Jill Haake Moreau] (https://github.com/jillhkm)
+- [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
