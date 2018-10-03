@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
