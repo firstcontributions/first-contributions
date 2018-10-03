@@ -6474,6 +6474,7 @@
 - [Robert Laws](https://github.com/robert-laws)
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
+- [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
