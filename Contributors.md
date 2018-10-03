@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Nitish Sharma](https://github.com/nitish81299)
