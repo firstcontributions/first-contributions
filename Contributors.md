@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Yik Jin](https://github.com/yikjin)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
