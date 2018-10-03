@@ -6526,6 +6526,7 @@
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
 - [Katie West](https://github.com/katcode)
+- [Hakan Bakacak](https://github.com/hakanbakacak)
 - [Suvansh Rana](https://github.com/Sherlock2000)
 - [amey-kudari](https://github.com/amey-kudari)
 - [Michal Budzilo](https://github.com/michbudz)
