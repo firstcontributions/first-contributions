@@ -67,6 +67,7 @@
 - [Demetrius Lewis](https://github.com/Dlewis89)
 - [Arnesh Agrawal](https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
+- [Crashn](https://github.com/Crashn)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
