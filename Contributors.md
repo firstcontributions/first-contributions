@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
@@ -17,6 +17,7 @@
 - [Saswat Kar](https://github.com/skksanchez)
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
+- [Shashank Avunoori] (https://github.com/Shashank100297)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
