@@ -15,6 +15,7 @@
 - [Android](https://github.com/androidtestuser)
 - [ Ken Austria](https://github.com/KenAustria)
 - [Saswat Kar](https://github.com/skksanchez)
+- [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [senpai](https://github.com/windowstestuser)
