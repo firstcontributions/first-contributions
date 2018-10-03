@@ -6471,3 +6471,4 @@
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
 - [John P](https://github.com/palumboj)
 - [Ted Kim](https://github.com/00aney)
+- [Iurii Didkovskyi](https://github.com/hichnik/)
