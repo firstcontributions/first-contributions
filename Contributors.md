@@ -774,6 +774,7 @@
 - [Neutrix](https://github.com/NeuTrix)
 - [Nukeproof21](https://github.com/Nukeproof21)
 - [Susarla Nikhilesh](https://github.com/susarlanikhilesh)
+- [Jasleen Kour Rissam](https://github.com/thisisjasleen)
 - [ElMitch](https://github.com/ElMitch)
 - [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
