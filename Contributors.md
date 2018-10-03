@@ -391,6 +391,7 @@
 - [xiaochun Lee](https://github.com/xiaochunlee)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
+- [Edward W](https://github.com/Edeard95)
 - [J. Nathan Allen](https://github.com/nateonmission)
 - [Sebas Duranona](https://github.com/SebasDuranona)
 - [patrik](https://github.com/patrik13)
