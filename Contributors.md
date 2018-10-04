@@ -6574,6 +6574,7 @@
 - [Byron White](https://github.com/BoomSyrup)
 - [Ryan Zegray](https://github.com/rzgry)
 - [Yeoh Joer](https://github.com/yjoer)
+- [Rick Dunkin](https://github.com/rickdunkin)
 - [Simon Porter](https://github.com/simonporter007)
 - [Timmy Thatcher](https://github.com/timaraxian)
 - [Jessica Hsieh](https://github.com/jessicahsieh)
