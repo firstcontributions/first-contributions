@@ -5685,6 +5685,7 @@ Hassan Khalailla
 - [Faisal Ejaz](https://github.com/faisal-ejaz)
 - [Yiwei Shen](https://github.com/YiWeiShen/)
 - [Craig Gundacker](https://github.com/craig-gundacker)
+- [Christoph Horst](https://github.com/christoph-horst)
 - [Si Feng](https://github.com/vermicelli)
 - [colin Moulds](https://github.com/Mico110813)
 - [Hari Karki](https://github.com/elbeyon/)
