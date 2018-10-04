@@ -1330,4 +1330,5 @@
 - [Raffy Alcoriza](https://github.com/picapixa)
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
+- [Wiruj Suwanpramote](https://github.com/XtheWiz)
 
