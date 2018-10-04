@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Yik Jin](https://github.com/yikjin)
+pro
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
@@ -187,6 +188,7 @@
 - [Paras Lakhani](https://github.com/paras112)
 - [Balindam Bajpai](https://github.com/codename404)
 - [Emily Qin]()
+- Pankaj Khemani
 - [Hulloowan Bha](https://github.com/hulloowan)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
