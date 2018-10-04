@@ -3,6 +3,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
+- [Joshua Manuel](https://github.com/JoshuaManuel)
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
