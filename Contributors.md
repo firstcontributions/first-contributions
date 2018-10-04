@@ -6581,3 +6581,4 @@
 - [Timmy Thatcher](https://github.com/timaraxian)
 - [Jessica Hsieh](https://github.com/jessicahsieh)
 - [Wattana Ruengmucha](https://github.com/wattanar)
+- [Angelica Trento](https://github.com/angelicatrento)
