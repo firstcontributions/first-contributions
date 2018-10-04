@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -43,6 +43,7 @@
 - [Shashank Avunoori] (https://github.com/Shashank100297)
 - [S. Hall] (https://github.com/TravelingMan)
 - [Vaishnav Sivaprasad] (https://github.com/padthaigrapes)
+- [Shawn Fulmer] (https://github.com/shawnd778/)
 - [Ritwiz Sinha] (https://github.com/ritwizsinha)
 - [senpai](https://github.com/windowstestuser)
 - [Byungjin Park](https://github.com/posquit0)
