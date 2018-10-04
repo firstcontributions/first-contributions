@@ -21,6 +21,7 @@
 - [Ana Letícia](https://github.com/anacamargos)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Harsh](https://github.com/BrendanCarlin)
+- [Jcovln](https://github.com/Jcovln)
 - [Sahib Khan](https://github.com/sahib-khan)
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
