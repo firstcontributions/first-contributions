@@ -106,6 +106,7 @@ Dhanish Ashraf
 - [Brett Henry](https://github.com/ntacp)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
+- [Brian W](https://github.com/B-Weyl)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jay Vasant](https://github.com/jayvasantjv)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
