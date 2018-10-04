@@ -4,6 +4,7 @@
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Yik Jin](https://github.com/yikjin)
+- [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Harsh](https://github.com/BrendanCarlin)
