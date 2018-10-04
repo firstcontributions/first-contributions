@@ -6492,6 +6492,7 @@ Hassan Khalailla
 - [Rishik Rohan](https://github.com/Rishik233)
 - [Eric Fernandez](https://github.com/I300tcamp)
 - [iandr](https://github.com/iandr)
+- [Blaise Johnson](https://github.com/BlaiseAJohnson)
 - [Rishik Rohan](https://github.com/Rishik233)
 - [Thomas M](https://github.com/thomas901/first-contributions)
 - [Maurice A](https://github.com/matrop)
