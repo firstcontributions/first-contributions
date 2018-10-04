@@ -4,6 +4,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
 - [Ron Laniado](https://github.com/ronlaniado)
+- [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [James Featherstone](https://github.com/jfeathe)
