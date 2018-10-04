@@ -5228,6 +5228,7 @@
 - [Mayank Agarwal](https://github.com/mayankagarwal44442)
 - [Mano](https://github.com/acxz94)
 - [Foozhan](https://github.com/sharpblade95)
+- [Quynh Anh Nguyen](https://github.com/qaemma)
 - [Chad Crowell](https://github.com/chadmcrowell)
 - [Iqrah](https://github.com/iiqrah)
 - [Eugene Suei](https://github.com/dev-eugene99/)
