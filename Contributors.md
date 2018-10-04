@@ -9,6 +9,7 @@
   [Hrishit Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
+-[bhavaniD]
 - [Yik Jin](https://github.com/yikjin)
 - [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
