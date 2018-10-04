@@ -6584,3 +6584,4 @@
 - [Jessica Hsieh](https://github.com/jessicahsieh)
 - [Wattana Ruengmucha](https://github.com/wattanar)
 - [Angelica Trento](https://github.com/angelicatrento)
+- [Brent Ingram](https://github.com/bingr001)
