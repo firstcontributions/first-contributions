@@ -6618,6 +6618,7 @@ Dhanish Ashraf
 - [Brent Ingram](https://github.com/bingr001)
 - [Fabien Shan](https://github.com/X140hu4)
 - [Darius Chandra](https://github.com/DariusChandra)
+- [Sid Bisram] (https://github.com/Sidd-Amateur-Dvlper/)
 - [Teerapong Tienkul](https://github.com/teerapongt)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
