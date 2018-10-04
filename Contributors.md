@@ -5602,6 +5602,7 @@ Hassan Khalailla
 - [Naor z](https://github.com/naorzr)
 - [Abhi](https://github.com/GigaBrowser690)
 - [Hemant Kumar](https://github.com/hemant659)
+- [Bart Arondson](https://github.com/b-a0)
 - [Sean Moltaji](https://github.com/sm100)
 - [Lino Lastella](https://github.com/linolastella)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
