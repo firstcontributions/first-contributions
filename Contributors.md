@@ -51,6 +51,7 @@ Tasha Penwell
 - [Saswat Kar] (https://github.com/skksanchez)
 - [Greet Van der Linden](https://github.com/GreetVdL)
 - [Saswat Kar](https://github.com/skksanchez)
+- [Zach Blake](https://github.com/heyztb)
 - [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
