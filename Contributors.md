@@ -28,6 +28,7 @@
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Daniel Burns](https://github.com/danieljburns143)
+- [Ayush Gupta](https://github.com/Ayushgupta03)
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Michael Johansson](https://github.com/mickethespike)
