@@ -8,6 +8,7 @@
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
+- [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Saksham Gupta](https://github.com/sakshamio)
