@@ -6569,6 +6569,7 @@ Dhanish Ashraf
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
 - [Juan Espinoza](https://github.com/seethersan)
+- [Andrew Ma](https://github.com/andrew-ma)
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
 - [John P](https://github.com/palumboj)
