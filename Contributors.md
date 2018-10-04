@@ -40,6 +40,7 @@
 - [blole](https://github.com/dumblole)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Shashank Avunoori] (https://github.com/Shashank100297)
+- [S. Hall] (https://github.com/TravelingMan)
 - [Vaishnav Sivaprasad] (https://github.com/padthaigrapes)
 - [Ritwiz Sinha] (https://github.com/ritwizsinha)
 - [senpai](https://github.com/windowstestuser)
