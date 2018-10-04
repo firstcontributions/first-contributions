@@ -42,6 +42,7 @@
 - [Rory Mulcahey] (https://github.com/rorymulcahey)
 - [palak bansal](https://github.com/bansal51197)
 - [Lewis Williams](https://github.com/lewis150193)
+- [Deepak Jain](https://github.com/djain5888)
 - [Mohammad Anas](https://github.com/zns-20)
 - [Sarah D. Perea](https://github.com/sarahperea)
 - [Varun](https://github.com/2000Varun)
