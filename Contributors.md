@@ -6339,6 +6339,7 @@
 - [Satya Sagar](https://github.com/satyasagar)
 - [James](https://github.com/jrandj)
 - [David Soto](https://github.com/DavidSotoA)
+- [Ines Benomar](https://github.com/inesbenomar18)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
 - [Laxmikanth Madhyastha](https://github.com/LaxmikanthMadhyastha)
 - [Cam Deatherage](https://github.com/ctd1077)
