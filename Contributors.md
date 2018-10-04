@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -17,6 +17,7 @@
 - [chakradar]
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
+- [Ana Letícia](https://github.com/anacamargos)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Harsh](https://github.com/BrendanCarlin)
 - [Sahib Khan](https://github.com/sahib-khan)
