@@ -19,6 +19,7 @@
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Harsh](https://github.com/BrendanCarlin)
+- [Sahib Khan](https://github.com/sahib-khan)
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
