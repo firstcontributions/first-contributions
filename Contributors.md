@@ -25,6 +25,7 @@
 - [Daniel Burns](https://github.com/danieljburns143)
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
+- [Michael Johansson](https://github.com/mickethespike)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
