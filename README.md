@@ -30,7 +30,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇷](translations/README.fa.en.md)
 [🇰🇷 🇰🇵](translations/README.ko.md)
 [🇩🇪](translations/README.de.md)
-[:denmark:](translations/README.da.md)
+[🇩🇰](translations/README.da.md)
 [🇨🇳](translations/README.chs.md)
 [🇹🇼](translations/README.cht.md)
 [🇬🇷](translations/README.gr.md)
