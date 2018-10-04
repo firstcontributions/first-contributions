@@ -15,6 +15,7 @@
 - [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
 - [chakradar]
+Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Saksham Gupta](https://github.com/sakshamio)
