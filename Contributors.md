@@ -6553,6 +6553,7 @@ Dhanish Ashraf
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
 - [TaeRim](https://github.com/Ta2Rim)
+- [gius-italy](https://github.com/gius-italy)
 - [Muskan Goyal](https://github.com/Muskan-goyal6)
 - [Datron](https://github.com/datron)
 - [Nadish Shajahan](https://github.com/nadishs)
