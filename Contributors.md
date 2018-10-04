@@ -6563,6 +6563,7 @@ Hassan Khalailla
 - [Scott Christian](https://github.com/dezryth)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
+- [Nitin](https://github.com/nitinnatural)
 - [TaeRim](https://github.com/Ta2Rim)
 - [gius-italy](https://github.com/gius-italy)
 - [Muskan Goyal](https://github.com/Muskan-goyal6)
