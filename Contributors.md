@@ -13,6 +13,7 @@
 - [Yik Jin](https://github.com/yikjin)
 - [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
+- [chakradar]
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Saksham Gupta](https://github.com/sakshamio)
