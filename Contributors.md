@@ -25,6 +25,7 @@
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
 - [Manne Diaz](https://github.com/diazmanne)
+- [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Ashok Singh](https://github.com/XLAR-8)
 - [Sahil Aggarwal](https://github.com/sagg155)
