@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -6557,6 +6557,7 @@ Hassan Khalailla
 - [RobbiNespu](https://github.com/RobbiNespu)
 - [judah4](https://github.com/judah4)
 - [FlyingAz](https://github.com/FlyingAz)
+- [Ville Riepponen](https://github.com/Vrites)
 - [LiteBright](https://github.com/litebright)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Bruno Nakayabu](https://github.com/BrNaka)
@@ -6643,3 +6644,4 @@ Hassan Khalailla
 - [Antonio Yee](https://github.com/antonioyee)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+
