@@ -2,6 +2,7 @@
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
+- [diproIV]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
