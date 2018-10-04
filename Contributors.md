@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mahdi HB](https://github.com/mhb8898)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [James Featherstone](https://github.com/jfeathe)
