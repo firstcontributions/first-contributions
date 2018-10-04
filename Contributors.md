@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ron Laniado](https://github.com/ronlaniado)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
