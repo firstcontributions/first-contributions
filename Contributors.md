@@ -12,6 +12,7 @@
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
+- [Brechin Andariese](https://github.com/Brechy)
 - [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
 - [chakradar]
