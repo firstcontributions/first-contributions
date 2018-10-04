@@ -807,6 +807,7 @@ Dhanish Ashraf
 - [Adam Irby](https://github.com/adamirby)
   [Vishnu Umakanthan]()
 - [Andrew Khalel](https://github.com/andrewekhalel)
+- [Alysson Campbell](https://github.com/AlyssonCampbell)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
 - [Simon M](https://github.com/nmsq)
