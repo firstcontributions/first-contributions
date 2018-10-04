@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -6,6 +6,7 @@
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [James Featherstone](https://github.com/jfeathe)
+- [Utkarsh Agrawal](https://github.com/utkarsh-42)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
