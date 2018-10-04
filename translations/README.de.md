@@ -42,7 +42,7 @@ Wechsle zum Repository-Verzeichnis auf deinem Computer (falls du es nicht schon 
 ```
 cd first-contributions
 ```
-Erstelle nun einen Branch mit dem Befehl `git checkout command`
+Erstelle nun einen Branch mit dem Befehl `git checkout` command.
 ```
 git checkout -b <add-dein-Name>
 ```
@@ -67,7 +67,7 @@ Ersetze `<dein-Name>` mit deinem Namen.
 
 ## Pushe die Änderung zu Github
 
-Pushe die Änderungen mit `git push`
+Pushe die Änderungen mit `git push`.
 ```
 git push origin <add-dein-Name>
 ```
@@ -114,9 +114,9 @@ Nun weißt du, wie man Branches am Ende ihrer Lebenszeit löscht.
 
 So wie du einen Pull Request gestellt hast, werden hoffentlich viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
 
-## Halte deinen Fork syncron
+## Halte deinen Fork synchron
 
-Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
+Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey.
 `github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das ist wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Projekt Pull Request stellen kannst.
 
 Hier die Schritte für eine vollständige Synchronisation:
