@@ -6586,3 +6586,4 @@
 - [Wattana Ruengmucha](https://github.com/wattanar)
 - [Angelica Trento](https://github.com/angelicatrento)
 - [Brent Ingram](https://github.com/bingr001)
+- [Fabien Shan](https://github.com/X140hu4)
