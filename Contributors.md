@@ -109,6 +109,7 @@
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Danial](https://github.com/DeeHechEss)
+- [spwitt](https://github.com/spwitt)
 - [Rajat](https://github.com/rjkumar22)
 - [Danny](https://github.com/dtranmobil)
 - [Jesse Dohmann](https://github.com/jldohmann)
