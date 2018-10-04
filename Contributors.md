@@ -89,7 +89,7 @@
 - [Arnesh Agrawal](https://github.com/Arnesh07)
 - [Anton Medvedev](https://github.com/antonmdv)
 - [Crashn](https://github.com/Crashn)
-- [Brett MotherFuckin Henry](https://github.com/ntacp)
+- [Brett Henry](https://github.com/ntacp)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
