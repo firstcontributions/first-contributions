@@ -62,7 +62,7 @@ Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva i
 git add Contributors.md
 ```
 
-Ora valida i cambiamenti usando `git commit`:
+Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
 ```
 git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
