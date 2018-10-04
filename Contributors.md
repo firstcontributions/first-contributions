@@ -23,6 +23,7 @@
 - [Manne Diaz](https://github.com/diazmanne)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Ashok Singh](https://github.com/XLAR-8)
+- [Sahil Aggarwal](https://github.com/sagg155)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Daniel Burns](https://github.com/danieljburns143)
