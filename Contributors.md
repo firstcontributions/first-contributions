@@ -2831,7 +2831,7 @@ Dhanish Ashraf
 - [Mohit Gauniyal](https://github.com/mohitgauniyal19a)
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
-Hassan Khalailla
+- [Hassan Khalaila] (https://github.com/hkh148)
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
 - [?caro Pinho Esmeraldo](https://github.com/icaropj)
