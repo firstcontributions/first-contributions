@@ -111,6 +111,7 @@ Dhanish Ashraf
 - [Brad Cutten](https://github.com/bcutten)
 - [Anna Scott](https://github.com/forfireonly)
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
+- [Ryan Coughlin](https://github.com/wryrye)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
 - [Dan Bolta](https://github.com/dbolta)
