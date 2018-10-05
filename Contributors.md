@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
