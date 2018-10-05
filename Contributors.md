@@ -1714,6 +1714,7 @@ Kashish Khullar - :P
 - [Sarah G](https://github.com/sarahg813)
 - [Abdel Mounaim Tazi](https://github.com/AMTazi)
 - [Saket](https://github.com/saket700)
+- [hercegtomas](https://github.com/hercegtomas)
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
 - [Manish Bhatt](https://github.com/manishbhatt94)

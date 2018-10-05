@@ -23,6 +23,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
+[SVK](translations/README.svk.md)
 [🇯🇵](translations/README.ja.md)
 [🇻🇳](translations/README.vn.md)
 [🇵🇱](translations/README.pl.md)
