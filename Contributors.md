@@ -6679,6 +6679,7 @@ Hassan Khalailla
 - [Teerapong Tienkul](https://github.com/teerapongt)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
+- [Raul Serrano](https://github.com/rachuism)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
 - [Michael Strong](https://github.com/MikeStrider)
