@@ -6649,3 +6649,4 @@ Hassan Khalailla
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
 - [Michael Strong](https://github.com/MikeStrider)
+- [Joseph Eastman] (https://github.com/josepheastman)
