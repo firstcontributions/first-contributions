@@ -385,6 +385,7 @@ Dhanish Ashraf
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Dave Tolan](https://github.com/davetolan)
+- [Faysel Marsit](https://github.com/MarsitFaysel)
 - [Alejandro Z. Reed](https://github.com/AZReed)
 - [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
