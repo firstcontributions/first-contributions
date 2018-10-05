@@ -19,6 +19,7 @@
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [AyushJindal]
 - [Nikunj JIndal]
+- [Niharika Tammara]
 - [Tina Ngo]
 - [James Featherstone](https://github.com/jfeathe)
   [Hrishit Biswas](https://github.com/Artistic18)
