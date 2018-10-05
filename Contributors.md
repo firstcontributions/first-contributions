@@ -6707,3 +6707,4 @@ Hassan Khalailla
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
 - [alemelis](https://github.com/alemelis)
+- [David Marques](https://github.com/davidmoura07)
