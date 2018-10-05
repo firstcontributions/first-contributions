@@ -29,6 +29,7 @@
 - [Nancy Lubalo]
 - [Kris Ringer](https://github.com/ArynRose)
 - [Siju Thomas]
+- [Shashank Mohabia](https://github.com/shashankmohabia)
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
