@@ -6664,6 +6664,7 @@ Hassan Khalailla
 - [Jessica Hsieh](https://github.com/jessicahsieh)
 - [Wattana Ruengmucha](https://github.com/wattanar)
 - [Angelica Trento](https://github.com/angelicatrento)
+- [Swati Bhandari](https://github.com/swatiIIIT)
 - [Brent Ingram](https://github.com/bingr001)
 - [Fabien Shan](https://github.com/X140hu4)
 - [Darius Chandra](https://github.com/DariusChandra)
