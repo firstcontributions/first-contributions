@@ -213,6 +213,7 @@ Jimmie Faulkner
 - [Vanya Grover](https://github.com/VanyaGrover)
 - [Shivansh](https://github.com/shivanshkroos)
 - [Coding With E](https://github.com/codingwithe)
+- [Derek Zhang] (https://github.com/fillorkill)
 - [Nilotpal Pramanik](https://github.com/goodday451999)
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Caleb Francisco](https://github.com/calebjfrancisco)
