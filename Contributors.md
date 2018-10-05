@@ -3993,6 +3993,7 @@ Hassan Khalailla
 - [Carl Rizk](https://github.com/carlrizk)
 - [Saiharsha B](https://github.com/thewhitewolf17)
 - [Pablo Trinidad](https://github.com/pablotrinidad)
+- [Naman Manchanda](https://github.com/namanmanchanda09)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
