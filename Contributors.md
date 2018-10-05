@@ -2998,6 +2998,7 @@ Hassan Khalailla
 - [Jade Dhangwattanotai](https://github.com/jadedh)
 - [Kun Peng](https://github.com/Kun17)
 - [Martin Stickley](http://github.com/chromaticranger)
+- [petehastwofeet](https://github.com/petehastwofeet)
 - [Juventino Romero](https://github.com/juventinoromero)
 - [Dani VIjay](https://github.com/danivijay)
 - [Adam Friedl](https://github.com/adamfriedl)
