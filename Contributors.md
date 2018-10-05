@@ -29,7 +29,6 @@
 - [Nancy Lubalo]
 - [Kris Ringer](https://github.com/ArynRose)
 - [Siju Thomas]
-- [Shashank Mohabia](https://github.com/shashankmohabia)
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
@@ -6726,3 +6725,4 @@ Hassan Khalailla
 - [Rahul Tiwari](https://github.com/GrootKo)
 - [Matheus Barbosa](https://github.com/MatheusRBarbosa)
 - [Trill Cosby](https://github.com/trillcosby)
+- [Thomas Cowburn](https://github.com/thomascowburn)
