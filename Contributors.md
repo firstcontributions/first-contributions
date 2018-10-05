@@ -1177,6 +1177,7 @@ Kashish Khullar - :P
 - [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
 - [Calstream](https://github.com/Calstream)
+- [Thomas Viaud](https://github.com/thomasviaud)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
 - [Akhtam Ismatov](https://github.com/Akhtam)
