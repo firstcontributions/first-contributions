@@ -8,6 +8,7 @@
 - [Akarshit sharma]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
+- [Ajay]
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [AyushJindal] 
 - [Nikunj JIndal]
