@@ -3,6 +3,7 @@
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
+- [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
