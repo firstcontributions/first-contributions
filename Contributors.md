@@ -6728,3 +6728,4 @@ Hassan Khalailla
 - [Rahul Tiwari](https://github.com/GrootKo)
 - [Matheus Barbosa](https://github.com/MatheusRBarbosa)
 - [Trill Cosby](https://github.com/trillcosby)
+- [Lucas Alvarenga](https://github.com/luucasac)
