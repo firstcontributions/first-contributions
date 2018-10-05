@@ -22,6 +22,7 @@ Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
+- [Rohit Kumar](https://github.com/rohitkumar-rk)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Harsh](https://github.com/BrendanCarlin)
 - [Jcovln](https://github.com/Jcovln)
