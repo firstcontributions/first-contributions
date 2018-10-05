@@ -20,6 +20,7 @@
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
+- [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [AyushJindal]
 - [Nikunj JIndal]
