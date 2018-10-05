@@ -72,6 +72,7 @@ Tasha Penwell
 - [Sarah D. Perea](https://github.com/sarahperea)
 - [Varun](https://github.com/2000Varun)
 - [Devin Henslee](https://github.com/DCHenslee)
+- [Grant Hihn](https://github.com/nordiCode)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
