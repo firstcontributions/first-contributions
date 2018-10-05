@@ -5878,6 +5878,7 @@ Hassan Khalailla
 - [Tim Andre Jacobsen](https://github.com/TimAndreJacobsen)
 - [Vimalraj](https://github.com/vimalraj571)
 - [Steffen Böhringer](https://github.com/dableGit)
+- [chepora](https://github.com/chepora)
 - [Ellen Choi](https://github.com/ellenchoi97)
 - [libernon](https://github.com/libernon)
 - [Osa Bo](https://github.com/oskarboer)
