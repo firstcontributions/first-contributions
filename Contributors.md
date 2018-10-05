@@ -613,6 +613,7 @@ Kashish Khullar - :P
 - [Dinko Pehar](https://github.com/PinkFrojd)
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
 - [tsehori](https://github.com/tsehori)
+- [Rohit Mahato](https://github.com/rkmsh)
 - [Aryan Verma](https://github.com/amazing-aryan)
 - [vamshi aruru](https://github.com/vamshiaruru)
 - [Renata Gizzi](https://github.com/RenataGizzi)
