@@ -6,6 +6,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
+- [Aditya]
 - [rahul]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
