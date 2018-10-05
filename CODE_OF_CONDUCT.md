@@ -19,6 +19,7 @@ include:
 *   Gracefully accepting constructive criticism.
 *   Focusing on what is best for the community.
 *   Showing empathy towards other community members.
+*   Accepting the mistakes and not making a mess of them.
 
 Examples of unacceptable behavior by participants include:
 

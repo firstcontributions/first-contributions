@@ -116,6 +116,8 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
 
+New to Github and want to contribute to Open-Source ? How to make Pull-Requests in the Github ?
+Go through this brief and easy-to-read Informative - https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 ## Tutorials Using Other Tools
 
