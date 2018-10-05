@@ -2718,6 +2718,7 @@ Kashish Khullar - :P
 - [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi)
 - [Zsolt Takacs](https://github.com/ignotus87)
 - [Arvind S](https://github.com/arvind0598)
+- [Josh Fedo](https://github.com/joshfedo)
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
 - [Nathan Nash](https://github.com/player2point0)
