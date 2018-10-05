@@ -178,6 +178,7 @@ bilalsiraj
 - [Mesagoh]()
 - Pankaj Khemani
 - [c-kirkeby](https://github.com/c-kirkeby)
+- Andrea Catania
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Shubham Bhandari](https://github.com/dev-SB)
