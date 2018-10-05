@@ -5,6 +5,7 @@
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
 - [Ron Laniado](https://github.com/ronlaniado)
+- [Akarshit sharma]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
