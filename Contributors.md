@@ -6661,3 +6661,4 @@ Hassan Khalailla
 - [Joe Meschler] (https://github.com/jmesh)
 - [NeeEoo](https://github.com/NeeEoo)
 - [Gavin Lim] (https://github.com/gavinslim)
+- [Khrinx] (https://github.com/khrinx)
