@@ -3116,6 +3116,7 @@ Hassan Khalailla
 - [Priyance Mandlewala](https://github.com/princemandlewala)
 - [Daniel Tanti](https://github.com/dnl228)
 - [Stephen](https://github.com/sspitz3)
+- [Tyler V.](https://github.com/12vanblart)
 - [Jussi Pennanen](https://github.com/jussipennanen)
 - [Takuya Kato](https://github.com/Ktakuya332C/)
 - [Matthew Thomas](https://github.com/mthomas1202)
