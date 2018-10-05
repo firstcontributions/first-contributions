@@ -6268,6 +6268,7 @@
 - [Preetpal Kaur](https://github.com/Preetpalkaur3701)
 - [Mike MacDougall](https://github.com/mgmacdougall)
 - [Vikas Sivaravindran](https://github.com/vikassivaravindran)
+- [Saurabh Malhotra](https://github.com/sir-rob)
 - [Vedanth Narayanan](https://github.com/narayave)
 - [Wojtek Tyziniec](https://github.com/wtznc)
 - [Saran Balaji C](https://github.com/csaranbalaji)
