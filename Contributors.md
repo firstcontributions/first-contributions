@@ -67,6 +67,7 @@ Tasha Penwell
 - [Zach Blake](https://github.com/heyztb)
 - [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
+- [Ruchi Sharma](https://github.com/ruchics)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Shashank Avunoori] (https://github.com/Shashank100297)
 - [S. Hall] (https://github.com/TravelingMan)
