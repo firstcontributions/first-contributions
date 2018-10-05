@@ -14,7 +14,7 @@ Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann be
 [🇮🇩](README.id.md)
 [🇫🇷](README.fr.md)
 [🇪🇸](README.es.md)
-[<img src="assets/catalan1.png" width="22">](README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](README.ca.md)
 [🇳🇱](README.nl.md)
 [🇱🇹](README.lt.md)
 [🇷🇺](README.ru.md)
@@ -42,7 +42,7 @@ Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann be
 [🇸🇪](README.se.md)
 [:slovenia:](README.sl.md)
 [🇮🇱](README.hb.md)
-[<img src="assets/pirate.png" width="22">](README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](README.en-pirate.md)
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
