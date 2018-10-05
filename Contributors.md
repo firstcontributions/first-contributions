@@ -6625,6 +6625,7 @@ Hassan Khalailla
 - [Scott Christian](https://github.com/dezryth)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
+- [Bhuwan Sitaula](https://github.com/babaYaga109)]
 - [Nitin](https://github.com/nitinnatural)
 - [TaeRim](https://github.com/Ta2Rim)
 - [gius-italy](https://github.com/gius-italy)
