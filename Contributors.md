@@ -29,8 +29,8 @@
 - [Nancy Lubalo]
 - [Kris Ringer](https://github.com/ArynRose)
 - [Siju Thomas]
-Tasha Penwell
-  [bjorkqvist](https://github.com/bjorkqvist)
+- [Tasha Penwell]
+- [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
@@ -64,6 +64,7 @@ Tasha Penwell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
+- [Matthew Hartman](https://github.com/KalabiteKrowd)
 - [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
