@@ -3005,6 +3005,7 @@ Hassan Khalailla
 - [Edgar Gonzalez](https://github.com/edgargonzalez2020)
 - [Daniel Oliveira](https://github.com/Dnlrco)
 - [Kristian Jackson](https://github.com/kjackson1509)
+- [Lukasz Jutkiewicz] (https://github.com/Lukasz1453)
 - [Yash Chapani](https://github.com/yashchapani)
 - [Muhammad Farid](https://github.com/muhfred)
 - [Michael Gutman](https://github.com/michael-gutman)
