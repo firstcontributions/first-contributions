@@ -68,6 +68,7 @@ Tasha Penwell
 - [Shawn Fulmer] (https://github.com/shawnd778/)
 - [Ritwiz Sinha] (https://github.com/ritwizsinha)
 - [senpai](https://github.com/windowstestuser)
+- [Will Bender](https://github.com/Ragnoroct)
 - [Byungjin Park](https://github.com/posquit0)
 - [Rory Mulcahey] (https://github.com/rorymulcahey)
 - [palak bansal](https://github.com/bansal51197)
