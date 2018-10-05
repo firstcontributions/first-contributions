@@ -4,6 +4,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
+- [rahul]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
 - [Lauren Mayers](https://github.com/laurenmayers)
