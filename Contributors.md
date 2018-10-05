@@ -69,6 +69,7 @@ Tasha Penwell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
+- [Kushagra Kalash](https://github.com/TheSherlockHomie)
 - [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
