@@ -3,6 +3,7 @@
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
+- [Pushkar](https://github.com/linton-dawson)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
@@ -13,7 +14,7 @@
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
 - [Brechin Andariese](https://github.com/Brechy)
-- [Darius Chandra] (https://github.com/DariusChandra/first-contributions)
+- [Darius Chandra](https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
 - [chakradar]
 - [Nancy Lubalo]
