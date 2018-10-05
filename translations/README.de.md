@@ -6,7 +6,43 @@ Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will
 
 Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
-*Dieser Artikel ist in folgenden anderen Sprachen verfügbar: [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md) and [Italian](README.it.md).*
+*Dieser Artikel ist in folgenden anderen Sprachen verfügbar:*
+
+[🇮🇳](translations/README.hi.md)
+[🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.id.md)
+[🇫🇷](translations/README.fr.md)
+[🇪🇸](translations/README.es.md)
+[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[🇳🇱](translations/README.nl.md)
+[🇱🇹](translations/README.lt.md)
+[🇷🇺](translations/README.ru.md)
+[🇯🇵](translations/README.ja.md)
+[🇻🇳](translations/README.vn.md)
+[🇵🇱](translations/README.pl.md)
+[🇮🇷](translations/README.fa.md)
+[🇮🇷](translations/README.fa.en.md)
+[🇰🇷 🇰🇵](translations/README.ko.md)
+[🇩🇪](translations/README.de.md)
+[🇨🇳](translations/README.chs.md)
+[🇹🇼](translations/README.cht.md)
+[🇬🇷](translations/README.gr.md)
+[🇪🇬](translations/README.eg.md)
+[🇸🇦](translations/README.ar.md)
+[🇺🇦](translations/README.ua.md)
+[🇧🇷](translations/README.pt_br.md)
+[🇵🇹](translations/README.pt-pt.md)
+[🇮🇹](translations/README.it.md)
+[🇹🇭](translations/README.th.md)
+[🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
+[🇵🇰](translations/README.ur.md)
+[:bangladesh:](translations/README.bn.md)
+[🇲🇩 🇷🇴](translations/README.ro.md)
+[🇹🇷](translations/README.tr.md)
+[🇸🇪](translations/README.se.md)
+[:slovenia:](translations/README.sl.md)
+[🇮🇱](translations/README.hb.md)
+[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
