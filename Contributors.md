@@ -150,6 +150,7 @@ bilalsiraj
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin](https://github.com/jcat1504)
 - [Vyom Jain](https://github.com/vvyomjjain)
+- [Nobutaka Kim Toyoda](https://github.com/nyck33)
 - [Harshita Khare](https://github.com/harshita269)
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
