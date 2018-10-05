@@ -10,6 +10,7 @@
 - [Pushkar](https://github.com/linton-dawson)
 - [Aditya]
 - [rahul]
+- [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
 - [Lauren Mayers](https://github.com/laurenmayers)
