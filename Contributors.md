@@ -114,6 +114,7 @@ bilalsiraj
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marc Jonkers](https://github.com/mevrouwdevries)
+- [hnarasaki](https://github.com/hnarasaki)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Zach Capshaw](https://github.com/zcapshaw)
 - [Aayush Sharma](https://github.com/andy1771)
