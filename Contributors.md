@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [KarinRoe] (https://github.com/KarinRoe)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
