@@ -20,6 +20,7 @@
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [AyushJindal]
 - [Nikunj JIndal]
+- [Niharika Tammara]
 - [Tina Ngo]
 - [Adam Austin](https://github.com/h3x)
 - [James Featherstone](https://github.com/jfeathe)
