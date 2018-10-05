@@ -61,7 +61,15 @@ git checkout -b add-alonzo-church
 
 ## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
-Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama anda ke dalamnya lalu simpan berkas tersebut. Apabila anda masuk ke direktori dan mengeksekusi perintah `git status` maka anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama anda ke dalamnya lalu simpan berkas tersebut. 
+
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
+
+Apabila anda masuk ke direktori dan mengeksekusi perintah `git status` maka anda dapat melihat bahwa telah ada perubahan. 
+
+Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+
 ```
 git add Contributors.md
 ```
@@ -131,7 +139,7 @@ Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukkan tujua
 
 ## Ke mana lagi setelah dari sini?
 
-Selamat! Anda baru saja menyelesaikan alur kerja standar _fork -> clone -> edit -> PR_ yang akan Anda sering temui sebagai kontributor!
+Selamat! Anda baru saja menyelesaikan alur kerja standar _fork -> clone -> edit -> PR_ yang akan anda sering temui sebagai kontributor!
 
 Mari rayakan kontribusi anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
