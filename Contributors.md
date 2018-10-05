@@ -4117,6 +4117,7 @@ Hassan Khalailla
 - [Tushar Nitave](https://github.com/tushar-nitave)
 - [Nam Nguyen](https://github.com/BornToWin)
 - [Ali Kaan](https://github.com/alikaanbaci)
+- [Ching Ling Yeung] (https://github.com/ChingLingYeung)
 - [Abhishek Kandi](https://github.com/abhishekkandi)
 - [Jenna Conway](http://github.com/jennaconway)
 - [Julian Blundstone](https://github.com/colossalwombat)
