@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [KarinRoe] (https://github.com/KarinRoe)
 - [WilsonRocha] (https://github.com/Sownatta)
@@ -386,6 +386,7 @@ bilalsiraj
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 Kashish Khullar - :P
 - [Harish Indla]()
+- [John D'Uva](https://github.com/johnduva)
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
 - [Zona Gilreath](https://github.com/zonagilreath)
 - [Muiris Dunworth](https://github.com/muiris)
