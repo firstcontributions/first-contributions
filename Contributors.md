@@ -9,6 +9,7 @@
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
+- [AyushJindal]
 - [James Featherstone](https://github.com/jfeathe)
   [Hrishit Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
