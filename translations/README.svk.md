@@ -20,7 +20,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](../translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -49,7 +49,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
-[<img src="assets/pirate.png" width="22">](../translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 
 
 
