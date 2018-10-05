@@ -343,6 +343,7 @@ Jimmie Faulkner
 - [Saurabh Bansal]()
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
+Kashish Khullar - :P
 - [Harish Indla]()
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
 - [Zona Gilreath](https://github.com/zonagilreath)
