@@ -568,6 +568,7 @@ Kashish Khullar - :P
 - [deviled](https://github.com/deviled)
 - [mayvar](https://github.com/vmayce)
 - [William Thorne](https://github.com/318Thorne)
+- [William Gómez](https://github.com/williamegomez)
 - [Mikey Korst](https://github.com/paranoidandroid81)
 - [Klemen Benedicic](https://github.com/CoderKlemen)
 - [Mishail Singh](https://github.com/Mishail98)
