@@ -43,6 +43,7 @@ Tasha Penwell
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Michael Johansson](https://github.com/mickethespike)
+- [Sushanth Ikshwaku](https://github.com/SushanthIkshwaku)
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Spas Zahariev](https://github.com/SpasZahariev)
