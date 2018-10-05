@@ -809,6 +809,7 @@ Kashish Khullar - :P
 - [Andy Yao](https://github.com/atyao)
 - [Ellie Cherrill](https://github.com/elliecherrill)
 - [Chris Page](https://github.com/pageyboy)
+- [David Bowes] (https://github.com/iloveket)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Beatrice Olivera](https://github.com/beatriceo)
