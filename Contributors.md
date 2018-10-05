@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -18,6 +18,7 @@
 - [AnirithP]
 - [chakradar]
 - [Nancy Lubalo]
+- [Siju Thomas]
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
