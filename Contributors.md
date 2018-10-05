@@ -4935,6 +4935,7 @@ Hassan Khalailla
 - [Patrick Peters](https://github.com/ppeters0502)
 - [Colten Webb](https://github.com/coltenwebb)
 - [Miriam Crowley](https://github.com/msperlgirl)
+- [Ronan Ruth](https://github.com/Ronan998)
 - [Todd Hoffman](https://github.com/toddahoffman)
 - [Abhimanyu Bishnoi](https://github.com/abhimanyu2918)
 - [Dave Feucht](https://github.com/davefeucht)
