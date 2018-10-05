@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -13,6 +13,7 @@
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
+- [Angela Reeder](http://github.com/lilac-reader)
 - [Brechin Andariese](https://github.com/Brechy)
 - [Darius Chandra](https://github.com/DariusChandra/first-contributions)
 - [AnirithP]
