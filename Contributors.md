@@ -48,7 +48,6 @@
 - [Saswat Kar](https://github.com/skksanchez)
 - [Ubaid Isaev](https://github.com/ubaidullah05)
 - [blole](https://github.com/dumblole)
-- [Sushanth Ikshwaku Sriramaraju](https://github.com/SushanthIkshwaku)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Shashank Avunoori] (https://github.com/Shashank100297)
 - [S. Hall] (https://github.com/TravelingMan)
