@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
@@ -11,7 +12,7 @@
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [Ajay]
 - [Joshua Manuel](https://github.com/JoshuaManuel)
-- [AyushJindal] 
+- [AyushJindal]
 - [Nikunj JIndal]
 - [James Featherstone](https://github.com/jfeathe)
   [Hrishit Biswas](https://github.com/Artistic18)
