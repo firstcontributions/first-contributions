@@ -15,7 +15,7 @@ Move to desired location where package.json file is located
     https://www.npmjs.com/get-npm
 - Install all the dependencies used by this project.
    Use this command:  `install npm`
-
+-jobandeep singh multani 
 - Run these final commands to run it locally:
 
   `npm run build`
