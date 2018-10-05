@@ -48,6 +48,7 @@ Tasha Penwell
 - [Sushanth Ikshwaku](https://github.com/SushanthIkshwaku)
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
+- [Anam Ahmad](https://github.com/Anam9)
 - [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
