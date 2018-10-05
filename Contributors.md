@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -82,6 +82,7 @@ Tasha Penwell
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [rohit](https://github.com/rohitkatlaa)
+- [shashi](https://github.com/shashikanth-a)
 - [John Baltazar](https://github.com/jbaltazar03)
 - [Aniket Agarwal](https://github.com/aniket0702)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
