@@ -125,6 +125,7 @@ bilalsiraj
 - [Dominic](https://github.com/doms)
 - [Tanner Crook](https://github.com/tannercrook)
 - [Brad Cutten](https://github.com/bcutten)
+- [Brayden Chumbley](https://github.com/BraydenChumbley)
 - [Anna Scott](https://github.com/forfireonly)
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
