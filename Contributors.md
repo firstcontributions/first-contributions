@@ -6494,6 +6494,7 @@ Hassan Khalailla
 - [Gwenael Ielpo](https://github.com/Bobsloth)
 - [H Droider](https://github.com/h-droider)
 - [James Baffoni](https://github.com/jaybaffoni)
+- [Daniel Wirtz] (https://github.com/inqii)
 - [Behrooz Fathi](https://github.com/behro0oz)
 - [Anzony White](https://github.com/anblaca3790)
 - [Anusha M](https://github.com/coder90875)
