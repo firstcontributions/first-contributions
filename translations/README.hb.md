@@ -49,7 +49,8 @@
 </div>
 
 <div dir="rtl">
-כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית 'העתק ללוח'
+  
+כעת, שכפלו את המאגר הזה למחשב שלכם. לכו לדף ה-GitHub שלכם, לחצו על כפתור השכפול ואז לחצו על הצלמית `העתק ללוח`
 פתחו טרמינל והריצו את הפקודה הבאה:
 </div>
 
@@ -57,7 +58,8 @@
 git clone "url you just copied"
 ```
 <div dir="rtl">
-כאשר הביטוי "url you just copied" (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
+  
+כאשר הביטוי `"url you just copied"` (ללא סימני הגרשיים) הוא הקישור למאגר שביצעתם עליו FORK מקודם. ראו את הצעדים הקודמים כדי להשיג את הקישור.
 </div>
 
 <img align="left" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -70,7 +72,8 @@ git clone "url you just copied"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 <div dir="rtl">
-כאשר 'this-is-you' הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
+  
+כאשר `this-is-you` הוא שם המשתמש שלכם ב-GitHub. כאן, אתם מעתיקים את התוכן של מאגר first-contributions ב-GitHub לתוך המחשב שלכם.
 </div>
 
 <div dir="rtl">
@@ -85,7 +88,8 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 <div dir="rtl">
-כעת, תצרו ענף בשימוש הפעולה 'git checkout':
+  
+כעת, תצרו ענף בשימוש הפעולה `git checkout`:
 </div>
 
 ```
@@ -108,25 +112,28 @@ git checkout -b add-alonzo-church
 </div>
 
 <div dir="rtl">
-כעת תפתחו את הקובץ, 'Contributors.md' בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
+  
+כעת תפתחו את הקובץ, `Contributors.md` בתוכנת עריכת טקסט והוסיפו את השם שלכם אליו. אל תוסיפו את השם בתחילת הקובץ או בסופו. הוסיפו אותו באמצע. לאחר שסיימתם, שמרו את הקובץ.
 
 
-אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה 'git status', תוכלו לראות את השינויים שביצעתם שם.
-הוסיפו את השינויים האלו לענף שיצרתם תוך שימוש בפקודה 'git add':
+אם תנווטו לתיקיית הפרויקט ותבצעו את הפעולה `git status`, תוכלו לראות את השינויים שביצעתם שם.
+הוסיפו את השינויים האלו לענף שיצרתם תוך שימוש בפקודה `git add`:
 </div>
 
 ```
 git add Contributors.md
 ```
 <div dir="rtl">
-עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת 'git commit':
+  
+עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת `git commit`:
 </div>
 
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
 <div dir="rtl">
-החליפו את הביטוי '<your-name>' עם השם שלכם
+  
+החליפו את הביטוי `<your-name>` עם השם שלכם
 </div>
 
 <div dir="rtl">
@@ -134,14 +141,16 @@ git commit -m "Add <your-name> to Contributors list"
 </div>
 
 <div dir="rtl">
-דחפו את השינויים תוך שימוש בפקודה 'git push':
+  
+דחפו את השינויים תוך שימוש בפקודה `git push`:
 </div>
 
 ```
 git push origin <add-your-branch-name>
 ```
 <div dir="rtl">
-החליפו את '<add-your-branch-name>' עם השם של הענף שיצרתם מוקדם יותר
+  
+החליפו את `<add-your-branch-name>` עם השם של הענף שיצרתם מוקדם יותר
 </div>
 
 <div dir="rtl">
@@ -149,7 +158,8 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-אם תלכו למאגר שלכם ב-GitHub, אתם תראו כפתור עם הכיתוב 'Compare & pull request'. לחצו על כפתור זה.
+  
+אם תלכו למאגר שלכם ב-GitHub, אתם תראו כפתור עם הכיתוב `Compare & pull request`. לחצו על כפתור זה.
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
