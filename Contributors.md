@@ -90,6 +90,7 @@ Tasha Penwell
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Shashank Avunoori] (https://github.com/Shashank100297)
 - [S. Hall] (https://github.com/TravelingMan)
+- [Krzysztof Wojdat](https://github.com/kritokrator)
 - [Vaishnav Sivaprasad] (https://github.com/padthaigrapes)
 - [Shawn Fulmer] (https://github.com/shawnd778/)
 - [Ritwiz Sinha] (https://github.com/ritwizsinha)
