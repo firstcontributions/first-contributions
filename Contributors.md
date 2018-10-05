@@ -6681,6 +6681,7 @@ Hassan Khalailla
 - [Antonio Yee](https://github.com/antonioyee)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+- [Aditya Singhal] (https://github.com/codaked-Adi)
 - [Michael Strong](https://github.com/MikeStrider)
 - [Joseph Eastman] (https://github.com/josepheastman)
 - [Joe Meschler] (https://github.com/jmesh)
@@ -6692,3 +6693,4 @@ Hassan Khalailla
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
+
