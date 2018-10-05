@@ -6695,3 +6695,4 @@ Hassan Khalailla
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
+- [alemelis](https://github.com/alemelis)
