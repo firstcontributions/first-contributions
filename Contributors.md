@@ -26,6 +26,7 @@ Tasha Penwell
 - [Ana Letícia](https://github.com/anacamargos)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
 - [Saksham Gupta](https://github.com/sakshamio)
+- [Paul Torre](https://github.com/paultorre/)
 - [Harsh](https://github.com/BrendanCarlin)
 - [Jcovln](https://github.com/Jcovln)
 - [Christian Montes De Oca](https://github.com/Siegeprogrammer)
