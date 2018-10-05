@@ -42,6 +42,7 @@ Tasha Penwell
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
+- [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
