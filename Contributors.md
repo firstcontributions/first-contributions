@@ -724,6 +724,7 @@ Kashish Khullar - :P
 - [Jenny Justh](https://github.com/jennyjj)
 - [Hi Adamsu](https://github.com/hiadamsu)
 - [Nathen Rader](https://github.com/ndrader)
+- [Jean Woo Ha] (https://github.com/jeanha124)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296](https://github.com/csy0296)
 - [Alexandro Perez](https://github.com/AlexandroPerez)
