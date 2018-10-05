@@ -25,6 +25,7 @@
 - [AnirithP]
 - [chakradar]
 - [Nancy Lubalo]
+- [Kris Ringer](https://github.com/ArynRose)
 - [Siju Thomas]
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
