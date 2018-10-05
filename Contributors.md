@@ -6648,3 +6648,4 @@ Hassan Khalailla
 - [Antonio Yee](https://github.com/antonioyee)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+- [Michael Strong](https://github.com/MikeStrider)
