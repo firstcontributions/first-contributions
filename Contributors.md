@@ -70,6 +70,7 @@ Tasha Penwell
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
 - [Kushagra Kalash](https://github.com/TheSherlockHomie)
+- [Shivam Malviya](https://github.com/TREXXX27)
 - [Spas Zahariev](https://github.com/SpasZahariev)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
