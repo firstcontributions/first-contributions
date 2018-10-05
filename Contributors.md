@@ -3,6 +3,7 @@
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
+- [Sohail Khan](https://github.com/khan0604)
 - [Mahdi HB](https://github.com/mhb8898)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
