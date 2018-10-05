@@ -27,6 +27,7 @@ Tasha Penwell
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Harsh](https://github.com/BrendanCarlin)
 - [Jcovln](https://github.com/Jcovln)
+- [Christian Montes De Oca](https://github.com/Siegeprogrammer)
 - [Ilham Taufiq](https://github.com/ilhamtaufiq)
 - [Sahib Khan](https://github.com/sahib-khan)
 - [Tobias Joergensen](https://github.com/7013145)
