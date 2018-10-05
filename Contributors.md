@@ -13,6 +13,7 @@
 - [Akarshit sharma]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
+- [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [AyushJindal]
