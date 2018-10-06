@@ -6832,6 +6832,7 @@ Hassan Khalailla
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [IgnasA](https://github.com/IgnasA)
 - [Ekkachai Sohmontha](https://github.com/heemza)
+- [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
 - [Christian Moultrie](https://github.com/makesomething-christian)
