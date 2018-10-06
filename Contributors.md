@@ -1,4 +1,4 @@
-﻿# Contributors
+ ﻿# Contributors
 
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
@@ -29,7 +29,7 @@
 - [Tina Ngo]
 - [Adam Austin](https://github.com/h3x)
 - [James Featherstone](https://github.com/jfeathe)
-  [Hrishit Biswas](https://github.com/Artistic18)
+- [Hrishit  Prasad Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
