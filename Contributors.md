@@ -25,6 +25,7 @@
 - [Ankur Barve]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
+- [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
 - [Braelyn Rotman] (https://github.com/braelynr)
