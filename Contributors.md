@@ -85,6 +85,7 @@ Tasha Penwell
 - [Paul Caoile](https://github.com/m2paulc)
 - [Android](https://github.com/androidtestuser)
 - [Matt Van Law](https://github.com/MattVanLaw)
+- [Jason Klinger](https://github.com/jaybob007)
 - [ Ken Austria](https://github.com/KenAustria)
 - [Saswat Kar] (https://github.com/skksanchez)
 - [Greet Van der Linden](https://github.com/GreetVdL)
