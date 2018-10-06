@@ -32,6 +32,7 @@
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
 - [Adam Austin](https://github.com/h3x)
+- [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [James Featherstone](https://github.com/jfeathe)
   [Hrishit Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
