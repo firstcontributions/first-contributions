@@ -763,6 +763,7 @@ Kashish Khullar - :P
 - [Igor Antonov](https://github.com/IgorAntonov)
 - [Ahmed Helal Ahmed](https://github.com/AhmedHelalAhmed)
 - [Xamenyap](https://github.com/xamenyap)
+- [Luísa Silva](https://github.com/mluisas)
 - [Jenny Justh](https://github.com/jennyjj)
 - [Hi Adamsu](https://github.com/hiadamsu)
 - [Nathen Rader](https://github.com/ndrader)
