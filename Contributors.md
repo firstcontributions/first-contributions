@@ -2909,6 +2909,7 @@ Kashish Khullar - :P
 - [Adil Mahmood](https://github.com/AdilMah)
 - [ParkourKarthik](https://github.com/parkourkarthik)
 - [Douglas Feuser](https://github.com/Douglasfeuser)
+- [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
