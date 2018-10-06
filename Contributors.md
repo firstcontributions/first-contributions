@@ -1,6 +1,9 @@
 ﻿# Contributors
 
+- [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+- [Niclas](https://github.com/buffet)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
+- [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)
@@ -14,12 +17,16 @@
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
+- [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
+- [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
+- [Parv](https://github.com/Parv-Saini)
 - [rahul]
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
+- [Saurabh Kumar](https://github.com/saurabhkm)
 - [James Warner]
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
@@ -59,6 +66,7 @@
 - [Shashank Mohabia](https://github.com/shashankmohabia)
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
+- [ejfilip] (https://github.com/ejfilip)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
@@ -1330,6 +1338,7 @@ Kashish Khullar - :P
 - [Srinidhi Krishna](https://github.com/kss682)
 - [Ayush Sharma](https://github.com/ayush-vibrant)
 - [GWCS](https://github.com/GWCS)
+- [Ryan Leach](https://github.com/FunkyFries)
 - [STephen Docy](https://github.com/sdocy)
 - [Stephen Jacob](https://github.com/sjacob90)
 - [Lucas Paganini](https://github.com/LucasPaganini)
@@ -2909,6 +2918,7 @@ Kashish Khullar - :P
 - [Adil Mahmood](https://github.com/AdilMah)
 - [ParkourKarthik](https://github.com/parkourkarthik)
 - [Douglas Feuser](https://github.com/Douglasfeuser)
+- [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
@@ -6742,6 +6752,7 @@ Hassan Khalailla
 - [Stefan Clem](https://github.com/iepoch)
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
+- [sSeld](https://github.com/sSeld)
 - [Katie West](https://github.com/katcode)
 - [Hakan Bakacak](https://github.com/hakanbakacak)
 - [Suvansh Rana](https://github.com/Sherlock2000)
@@ -6809,3 +6820,10 @@ Hassan Khalailla
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
 - [Gabriela Matias](https://github.com/GabrielaMattias)
+- [AFrittella](https://github.com/afrittella)
+- [Benjamin Bertalan](https://github.com/brtln)
+- [Vicent Llinares](http://github.com/llinaresvicent)
+- [Hemant Joshi](http://github.com/codingdefined)
+- [DataSecs](http://github.com/DataSecs)
+- [EdoRguez](https://github.com/EdoRguez)
+
