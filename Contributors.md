@@ -1602,6 +1602,7 @@ Kashish Khullar - :P
 - [HallLinux](https://github.com/HallLinux)
 - [Jon Johnson](https://github.com/jonjohnson34)
 - [Brandon Brigance](https://github.com/b-random)
+- [Vishnu Shenoy](https://github.com/vishnushenoy)
 - [Patrick Rickson](https://github.com/patrickcmd)
 - [Jaspreet Singh](https://github.com/singh19196)
 - [ajborka](https://www.github.com/ajborka)
