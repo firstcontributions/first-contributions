@@ -25,6 +25,7 @@
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
 - [Akshat](https://github.com/chotuaashiq)
+- [Akhil Jasrotia] (https://github.com/akhiljasrotia)
 - [Ankur Barve]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
