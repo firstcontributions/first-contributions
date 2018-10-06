@@ -44,6 +44,7 @@
 - [Saurabh Kumar](https://github.com/saurabhkm)
 - [Bakhshi Dashyan](https://github.com/bagshik)
 - [James Warner]
+- [Katie Turner]
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
