@@ -4,7 +4,7 @@
 
 Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 *Dieser Artikel ist in folgenden anderen Sprachen verfügbar: [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md) and [Italian](README.it.md).*
 
@@ -114,9 +114,9 @@ Nun weißt du, wie man Branches am Ende ihrer Lebenszeit löscht.
 
 So wie du einen Pull Request gestellt hast, werden hoffentlich viele andere Entwickler einen Beitrag zum Projekt leisten. Sobald ein Pull Request angenommen wurde, sind die Änderungen im Master Branch des Projektes. In deinen Fork werden die Änderungen von anderen Freiwilligen aber nicht automatisch übernommen. Damit du immer die neuste Version hast, musst du regelmäßig synchronisieren. Wie dies geschieht wird im folgenden Kapitel erklärt.
 
-## Halte deinen Fork syncron
+## Halte deinen Fork synchron
 
-Für die weiter Anleitung ist es wichtig den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
+Für die weitere Anleitung ist es wichtig, den Ablauf einer vollen Synchronisation zu verstehen. In unserem Beispiel gibt es drei verschiedene Repositories: Das öffentliche Repository von Roshanjossey
 `github.com/Roshanjossey/first-contributions/`, dein öffentlicher Fork auf GitHub `github.com/dein-Name/first-contributions/` und die lokale Arbeitskopie auf deinem PC. Damit deine beiden Versionen synchron bleiben, müssen wir zuerst die Änderungen des öffentlichen Projektes von Roshanjossey holen (`fetch`) und mit deiner lokalen Arbeitskopie mergen. Im zweiten Schritt werden wir dann die Änderungen von deiner lokalen Arbeitskopie zu deinem öffentlichen GitHub Projekt pushen. Das ist wichtig, weil du nur für die Versionen auf deinem öffentlichen GitHub Projekt Pull Request stellen kannst.
 
 Hier die Schritte für eine vollständige Synchronisation:
@@ -148,7 +148,7 @@ So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
+Beachte, dass du hier zum Remote namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geklont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
@@ -161,7 +161,7 @@ Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer
 
 Wenn du weitere Fragen hast kannst du Mitglied in unserem Slackteam werden. [Join slack team](https://firstcontributions.herokuapp.com)
 
-Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories die du lösen kannst. Schau sie dir an und erfahre mehr darüber
+Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories, die du lösen kannst. Schau sie dir an und erfahre mehr darüber
 
 |[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
 |---|---|---|---|---|---|---|---|
