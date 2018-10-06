@@ -3,6 +3,7 @@
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 - [Niclas](https://github.com/buffet)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
+- [Rowayda Khayri](https://github.com/Rowayda-Khayri)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)

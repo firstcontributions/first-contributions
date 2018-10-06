@@ -136,6 +136,8 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
+> **Note:** In the project you are contributing to, you should read CONTRIBUTING.md if exists to know which branch you should submit your pull request to.
+
 Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
