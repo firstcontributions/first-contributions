@@ -61,7 +61,7 @@ This will create a copy of this repository in your account.
 Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
 
-## Clona "Clone" a el repositorio
+## Clona "Clone" el repositorio
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
 
@@ -70,59 +70,58 @@ Ahora clona este repositorio en tu equipo. ve a tu cuenta de Github, y da click 
 Abre tu consola o terminal y ejecuta el siguiente comando:
 
 ```
-git clone "la url que del repositorio que copiaste"
+git clone "la url del repositorio que copiaste"
 ```
 
+Donde "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
-where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-For example:
+Por ejemplo:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/usuarioGitHub/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+Donde `usuarioGitHub` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
 
-## Create a branch
+## Crea una rama (*Branch*)
 
-Change to the repository directory on your computer (if you are not already there):
+Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+
+Ahora crea una rama (*branch*) usando el comando  `git checkout`:
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <añade tu nombre>
 ```
 
-For example:
+Por ejemplo:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-juan-perez
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
-## Make necessary changes and commit those changes
+## Haz los cambios necesarios y confirma (*Commit*) esos cambios
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
+Si vas al directorio del proyecto y ejecutas el comando  `git status`,podrás ver los cambios ya reflejados.
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-
-Add those changes to the branch you just created using the `git add` command:
+Agrega esos cambios a la rama (*branch*) que creaste antes usando el comando `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Ahora puedes hacer un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <nombre> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+reemplazando `<nombre>` con tu nombre.
+
 
 ## Push changes to GitHub
 
