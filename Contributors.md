@@ -55,6 +55,7 @@
 - [Ajay]
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
+- [Alvin Ho](https://github.com/cureja)
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Priyanka]
