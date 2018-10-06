@@ -6774,6 +6774,7 @@ Hassan Khalailla
 - [David Marques](https://github.com/davidmoura07)
 - [Dan Young](https://github.com/ytmnd)
 - [Rahul Tiwari](https://github.com/GrootKo)
+- [Patricia](https://github.com/patriciacorhid)
 - [Matheus Barbosa](https://github.com/MatheusRBarbosa)
 - [Trill Cosby](https://github.com/trillcosby)
 - [Lucas Alvarenga](https://github.com/luucasac)
