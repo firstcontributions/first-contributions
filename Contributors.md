@@ -134,6 +134,7 @@ Tasha Penwell
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
+- [Akshay Jain](https://github.com/aksJain0)
 - [rohit](https://github.com/rohitkatlaa)
 - [shashi](https://github.com/shashikanth-a)
 - [John Baltazar](https://github.com/jbaltazar03)
