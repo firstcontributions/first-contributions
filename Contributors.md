@@ -2632,6 +2632,7 @@ Kashish Khullar - :P
 - [Saheel Wagh](https://github.com/waghspur10)
 - [Ankit Jena](https://github.com/ankitjena)
 - [Michael Smith](https://github.com/mbsmi)
+- [Yasin Hosseinpur](https://github.com/yashoss)
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
