@@ -5916,6 +5916,7 @@ Hassan Khalailla
 - [Francisca Matamala](https://github.com/Jamonzito)
 - [Will Cutler](https://github.com/dantraboy)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
+- [Candace Holcombe-Volke)](https://github.com/candacehv)
 - [Hunter Czarnik](https://github.com/hczarnik)
 - [Yvette Ruiz](https://github.com/yruiz/)
 - [Muhammad Tajjiou](https://github.com/shutsugan)
