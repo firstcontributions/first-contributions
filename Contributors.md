@@ -6814,3 +6814,4 @@ Hassan Khalailla
 - [Brian Christian](https://github.com/fdeitylink)
 - [AFrittella](https://github.com/afrittella)
 - [Benjamin Bertalan](https://github.com/brtln)
+- [Vicent Llinares](http://github.com/llinaresvicent)
