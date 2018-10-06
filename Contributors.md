@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
+  [Tarun Apppannagari](https://github.com/TarunApp)
 - [Alex Kichukov] (https://github.com/allexpleblord)
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
