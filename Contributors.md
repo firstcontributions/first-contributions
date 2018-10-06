@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Kaitlin] (https://github.com/kaitlin31415)
@@ -3471,6 +3471,7 @@ Hassan Khalailla
 - [Aruparna Maity](https://github.com/AruparnaMaity)
 - [Rebecca Newborn](https://github.com/rebeccanewborn)
 - [Meggan M Green](https://github.com/meggangreen)
+- [Adam Cuzzetto](https://github.com/adamcuzzetto)
 - [Shabbir Ahmed](https://github.com/samax-mw)
 - [GeekBoxIT](https://github.com/GeekBoxIT)
 - [Tyler Hines](https://github.com/thines92)
