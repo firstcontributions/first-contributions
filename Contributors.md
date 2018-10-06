@@ -21,6 +21,7 @@
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Akarshit sharma]
+- [Ankur Barve]
 - [Lauren Mayers](https://github.com/laurenmayers)
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
 - [ivonildo31](https://github.com/Ivonildo31)
