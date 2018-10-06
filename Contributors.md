@@ -16,6 +16,7 @@
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
+- [Kristy Currier] (https://github.com/kristycurrier)
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
