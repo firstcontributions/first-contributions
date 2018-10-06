@@ -2,6 +2,7 @@
 
 - [Alex Kichukov] (https://github.com/allexpleblord)
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+- [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
 - [Niclas](https://github.com/buffet)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
