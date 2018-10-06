@@ -5,6 +5,7 @@
 - [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
+- [Igor Puchkov] (https://github.com/IgorPuchkov2003)
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
