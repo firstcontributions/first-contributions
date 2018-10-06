@@ -15,6 +15,7 @@
 - [Pushkar](https://github.com/linton-dawson)
 - [Aditya]
 - [rahul]
+- [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
 - [James Warner]
 - [Katie Ferencz]
