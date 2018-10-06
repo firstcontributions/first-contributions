@@ -27,6 +27,7 @@
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
+- [Kumar Abhijeet](https://github.com/kumar1202)
 - [Saurabh Kumar](https://github.com/saurabhkm)
 - [Bakhshi Dashyan](https://github.com/bagshik)
 - [James Warner]
@@ -6827,4 +6828,5 @@ Hassan Khalailla
 - [Hemant Joshi](http://github.com/codingdefined)
 - [DataSecs](http://github.com/DataSecs)
 - [EdoRguez](https://github.com/EdoRguez)
+- [Naman Goel](https://github.com/namangoel05)
 - [RonLek](https://github.com/RonLek)
