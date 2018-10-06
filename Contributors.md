@@ -6663,6 +6663,7 @@ Hassan Khalailla
 - [Yoshyyy](https://github.com/Yoshyyy)
 - [JmZero](https://github.com/JmZero)
 - [smuniz](https://github.com/smuniz18)
+- [Izzat Zainol](https://github.com/izzatz)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [smuniz](https://github.com/smuniz18)
 - [Manvi](https://github.com/The-lady-developer)
