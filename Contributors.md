@@ -6632,3 +6632,4 @@ Hassan Khalailla
 - [Teerapong Tienkul](https://github.com/teerapongt)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
+- [Roman Leshchuk](https://github.com/Leroy1962)
