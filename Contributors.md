@@ -15,6 +15,7 @@
 - [Pushkar](https://github.com/linton-dawson)
 - [Aditya]
 - [rahul]
+- [avani]
 - [James Warner]
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
