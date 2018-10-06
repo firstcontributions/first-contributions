@@ -20,6 +20,7 @@
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
+- [Saurabh Kumar](https://github.com/saurabhkm)
 - [James Warner]
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
@@ -2909,6 +2910,7 @@ Kashish Khullar - :P
 - [Adil Mahmood](https://github.com/AdilMah)
 - [ParkourKarthik](https://github.com/parkourkarthik)
 - [Douglas Feuser](https://github.com/Douglasfeuser)
+- [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
@@ -6808,4 +6810,5 @@ Hassan Khalailla
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [AFrittella](https://github.com/afrittella)
 - [Mikele Guedes](https://github.com/mikeliguedes)
