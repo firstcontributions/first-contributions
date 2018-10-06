@@ -6627,3 +6627,4 @@ Dhanish Ashraf
 - [Teerapong Tienkul](https://github.com/teerapongt)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
+- [Ishneet Kaur](https://github.com/ishneetknarang/first-contributions)
