@@ -337,6 +337,7 @@ bilalsiraj
 - [Ruslan]()
 - [Swami]()
 - [Ilias Chanis]()
+- [Jacob Robinson](https://github.com/JR0210)
 - [Melis](https://github.com/melisdogan)
 - [Aidan Kelly](https://github.com/aidan-kelly)
 - [Aananya](https://github.com/aananya27)
