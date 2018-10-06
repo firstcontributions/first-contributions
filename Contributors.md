@@ -3330,6 +3330,7 @@ Hassan Khalailla
 - [Sujeevan](https://github.com/sujeevan81)
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
+- [Aoshi Fujioka](https://github.com/assly)
 - [Juvid Aryaman](https://github.com/jaryaman)
 - [Lawrence Dang](https://github.com/re-blank)
 - [Daniel Pinho](https://github.com/Dannih95)
