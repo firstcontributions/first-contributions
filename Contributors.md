@@ -6745,6 +6745,7 @@ Hassan Khalailla
 - [Stefan Clem](https://github.com/iepoch)
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
+- [sSeld](https://github.com/sSeld)
 - [Katie West](https://github.com/katcode)
 - [Hakan Bakacak](https://github.com/hakanbakacak)
 - [Suvansh Rana](https://github.com/Sherlock2000)
