@@ -19,7 +19,6 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -48,18 +47,19 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 
 
+<img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
-
-## Fork this repository
+## Dale Fork al repositorio
 
 Fork this repo by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
+
+Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
+Esto creará una copia de este repositorio en tu cuenta.
 
 ## Clone the repository
 
@@ -72,6 +72,21 @@ Open a terminal and run the following git command:
 ```
 git clone "url you just copied"
 ```
+
+## Clona "Clone" a el repositorio
+
+<img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
+
+Ahora clona este repositorio en tu equipo. ve a tu cuenta de Github, y da click en el botón "*clone or download*" y luego da click en el ícono para *copiar*.
+
+Abre tu consola o terminal y ejecuta el siguiente comando:
+
+```
+git clone "la url que del repositorio que copiaste"
+```
+
+
+
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
