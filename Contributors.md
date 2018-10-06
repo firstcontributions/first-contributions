@@ -48,6 +48,7 @@
 - [Katie Turner]
 - [Katie Ferencz]
 - [Ron Laniado](https://github.com/ronlaniado)
+- [Mahesh Bhat]
 - [Akarshit sharma]
 - [Akshat](https://github.com/chotuaashiq)
 - [Akhil Jasrotia] (https://github.com/akhiljasrotia)
