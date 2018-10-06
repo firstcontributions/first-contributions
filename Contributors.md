@@ -16,6 +16,7 @@
 - [Pushkar](https://github.com/linton-dawson)
 - [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
+- [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
 - [Parv](https://github.com/Parv-Saini)
 - [rahul]
