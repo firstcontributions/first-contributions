@@ -3087,6 +3087,7 @@ Hassan Khalailla
 - [Harrison Hur](https://github.com/harhur)
 - [Kenny Rowlands](https://github.com/krowlands4)
 - [Bjoern Baertschi](https://github.com/bisbeb)
+- [A Idris](https://github.com/a-idris)
 - [Paul No?l](https://github.com/poelon)
 - [Chris Warren](https://github.com/cwar)
 - [Jamal Taylor](https://github.com/Louis345)
