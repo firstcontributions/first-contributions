@@ -7,6 +7,7 @@
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
 - [Niclas](https://github.com/buffet)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
+- [Ryan Evans] (https://github.com/ryanwevans)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [tweekes1] (https://github.com/tweekes1)
