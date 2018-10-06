@@ -1542,6 +1542,7 @@ Kashish Khullar - :P
 - [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
+  [Matt Moderwell](https://github.com/mmoderwell)
 - [Wolfgang S](https://github.com/WSchindler)
 - [Gisel Calvo](https://github.com/giselcalvo)
 - [Stefan Generalao](https://github.com/stefangeneralao)
