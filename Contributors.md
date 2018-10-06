@@ -6810,5 +6810,4 @@ Hassan Khalailla
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
-- [Anne Kelly]
-(https://github.com/akrs3/)
+- [Anne Kelly](https://github.com/akrs3/)
