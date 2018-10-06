@@ -65,6 +65,7 @@
 - [Shashank Mohabia](https://github.com/shashankmohabia)
 Tasha Penwell
   [bjorkqvist](https://github.com/bjorkqvist)
+- [ejfilip] (https://github.com/ejfilip)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
