@@ -2760,6 +2760,7 @@ Kashish Khullar - :P
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
 - [Max Vasin Limsukhawat](https://github.com/vasinl124)
+- [zhichuanxun](https://github.com/zhichuanxun)
 - [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
