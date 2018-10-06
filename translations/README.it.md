@@ -3,9 +3,9 @@
 
 # La prima collaborazione
 
-È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare non è una cosa comoda. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Lo scopo di questo progetto è quello di semplificare il modo in cui per la prima si impara come contribuire in progetti open-source.
+È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
 
-Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che fare effettivamente le cose, senza sbagliare nulla? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati sotto. Ti promettiamo che sarà divertente.
+Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che fare effettivamente le cose, senza sbagliare nulla? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato, meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati qui sotto. Ti promettiamo che sarà divertente.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -84,16 +84,16 @@ Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull reques
 
 Ora invia la pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di questo progetto. Ti arriverà una mail di notifica una volta che le modiche saranno state accettate.
 
-### [ Prossimi passi ](additional-material)
+### [ Prossimi passi ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorial usando altri tool
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 

@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Primele Contribuții
@@ -9,7 +10,7 @@ Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales c
 
 Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și simplificarea modului în care începătorii își fac prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât mai bine înveți. Dacă dorești să faci prima ta contribuție, simplu urmați pașii de mai jos. Vă promit că va fi distractiv.
 
-#### *Citește în [alte limbi](Translations.md)* 
+#### *Citește în [alte limbi](Translations.md).* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -24,14 +25,14 @@ Acesta va creea o copie a repozitoriului în contul tău.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Acum clonează acest repo pe mașina ta. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
+Acum clonează acest repo pe computerul tău. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
 
 Deschideți un terminal și executați următoarea comanda git: 
 
 ```
 git clone "adresa copiată"
 ```
-Unde "adresa copiată" (Fără de ghilimele) este adresa repozitorului. Vezi pașii anteriori pentru a obține adresa.
+Unde "adresa copiată" (Fără de ghilimele) este adresa repozitoriului. Vezi pașii anteriori pentru a obține adresa.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -39,7 +40,7 @@ De exemplu:
 ```
 git clone https://github.com/acesta-ești-tu/prima-contribuție.git
 ```
-Unde `acesta-ești-tu` este numele tău GitHub. Aici tu copii conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
+Unde `acesta-ești-tu` este numele tău GitHub. Aici tu copiezi conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
 
 ## Creează o Ramură
 
@@ -86,33 +87,34 @@ Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Acum Trimiteți solicitarea de tragere.
+Acum trimiteți solicitarea de tragere.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Curând Eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
+Curând eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
 
 ## De unde să mergi de aici?
 
-Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
+Sărbătoriți-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alaturăte echipei Slack](https://firstcontributions.herokuapp.com).
+Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alătură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare pe care le puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [ Additional material ](additional-material/additional-material.md)
+### [ Materiale adiționale ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
-## Tutorials Using Other Tools
+## Tutoriale Folosind Alte Unelte
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Self-Promotion
+## Promovare-Personală
 
 Dacă ți-a plăcut acest proiect, pune-i o stea pe [GitHub](https://github.com/Roshanjossey/first-contributions).
 Dacă vă simțiți deosebit de caritabili, urmați-mă [Roshan](https://roshanjossey.github.io/) pe
 [Twitter](https://twitter.com/sudo__bangbang) și
 [GitHub](https://github.com/roshanjossey).
 
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
