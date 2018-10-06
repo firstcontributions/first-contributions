@@ -6745,6 +6745,7 @@ Hassan Khalailla
 - [Stefan Clem](https://github.com/iepoch)
 - [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Peter Lodri](https://github.com/szepnapot)
+- [sSeld](https://github.com/sSeld)
 - [Katie West](https://github.com/katcode)
 - [Hakan Bakacak](https://github.com/hakanbakacak)
 - [Suvansh Rana](https://github.com/Sherlock2000)
@@ -6814,3 +6815,4 @@ Hassan Khalailla
 - [AFrittella](https://github.com/afrittella)
 - [Benjamin Bertalan](https://github.com/brtln)
 - [rafaellimags](https://github.com/rafaellimags)
+- [Vicent Llinares](http://github.com/llinaresvicent)
