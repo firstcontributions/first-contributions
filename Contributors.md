@@ -63,6 +63,7 @@ Tasha Penwell
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
+- [Mohit Yadav](https://github.com/mohityadav7)
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Manne Diaz](https://github.com/diazmanne)
