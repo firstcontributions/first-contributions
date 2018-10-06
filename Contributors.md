@@ -14,6 +14,7 @@
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
+- [Ritvik Jain](https://github.com/Ritvikjain)
 - [Aditya]
 - [rahul]
 - [Md Inzamamul Haque](https://github.com/mihaque313)
