@@ -6841,3 +6841,4 @@ Hassan Khalailla
 - [Victor Neves](https://github.com/Neves4)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
 - [Steven Sonson](https://github.com/PrinnyBaal)
+- [Jordan Ellison](https://github.com/jordanES96)
