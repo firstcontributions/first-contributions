@@ -24,6 +24,7 @@
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
+- [Ganga S Nair](https://github.com/ganga1807)
 - [Parv](https://github.com/Parv-Saini)
 - [rahul]
 - [Ebey Abraham](https://github.com/MrGrayCode)
