@@ -94,6 +94,7 @@ Tasha Penwell
 - [Saswat Kar](https://github.com/skksanchez)
 - [Zach Blake](https://github.com/heyztb)
 - [Ubaid Isaev](https://github.com/ubaidullah05)
+- [Erwan Néel] (https://github.com/erwan-neel)
 - [blole](https://github.com/dumblole)
 - [Ruchi Sharma](https://github.com/ruchics)
 - [Vinicius Souza](https://github.com/ViniciusALS)
