@@ -990,6 +990,7 @@ Kashish Khullar - :P
 - [Hardik dadhich](https://github.com/hardik-dadhich)
 - [John Daugherty](http://github.com/jmd1986)
 - [Pratyushx](https://github.com/Pratyushx)
+- [Osayd] (https://github.com/Osayd3)
 - [Brittany Donowho](https://github.com/BrittWho)
 - [Stephane Mansour](https://github.com/StephMansour)
 - [Omar Gazimagomedov](https://github.com/omar-g)
