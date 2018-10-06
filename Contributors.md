@@ -62,6 +62,7 @@ Tasha Penwell
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Bhavuk Kalra](https://github.com/bhavukkalra)
+- [Erin Bugbee](https://github.com/erinbugbee)
 - [Ashok Singh](https://github.com/XLAR-8)
 - [Sahil Aggarwal](https://github.com/sagg155)
 - [Jakub Krzus](https://github.com/jakrzus)
