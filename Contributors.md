@@ -11,6 +11,7 @@
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
 - [Mahdi HB](https://github.com/mhb8898)
+- [Amwalul Ikhsani] (https://github.com/amwalul)
 - [diproIV]
 - [Pushkar](https://github.com/linton-dawson)
 - [Aditya]
