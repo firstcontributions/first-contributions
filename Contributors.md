@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
@@ -95,6 +95,7 @@ Tasha Penwell
 - [Sneha](https://github.com/Sneha1604)
 - [Anthony Huang](https://github.com/Nycarus)
 - [Paul Caoile](https://github.com/m2paulc)
+- [CryptoCoolby](https://github.com/CryptoCoolby)
 - [Android](https://github.com/androidtestuser)
 - [Matt Van Law](https://github.com/MattVanLaw)
 - [Jason Klinger](https://github.com/jaybob007)
