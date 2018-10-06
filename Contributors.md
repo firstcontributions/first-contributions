@@ -6825,6 +6825,7 @@ Hassan Khalailla
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [Christian Moultrie](https://github.com/makesomething-christian)
 - [AFrittella](https://github.com/afrittella)
 - [Benjamin Bertalan](https://github.com/brtln)
 - [Vicent Llinares](http://github.com/llinaresvicent)
