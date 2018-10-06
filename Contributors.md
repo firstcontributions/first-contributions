@@ -16,6 +16,7 @@
 - [Shawn Pang](https://github.com/CometS1)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
+- [Sree Deepthi](https://github.com/SreeDeepthi1253)
 - [Varsha Chahal](https://github.com/VarshaChahal)
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
 - [Pierre Cassier](https://github.com/peterk6e)
