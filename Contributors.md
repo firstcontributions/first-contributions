@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Sarthak Bawal] (https://github.com/Sartech-B)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Santhosh](https://github.com/sann3)
