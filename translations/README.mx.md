@@ -61,18 +61,6 @@ This will create a copy of this repository in your account.
 Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
 
-## Clone the repository
-
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
-
-Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
-
-Open a terminal and run the following git command:
-
-```
-git clone "url you just copied"
-```
-
 ## Clona "Clone" a el repositorio
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
@@ -84,7 +72,6 @@ Abre tu consola o terminal y ejecuta el siguiente comando:
 ```
 git clone "la url que del repositorio que copiaste"
 ```
-
 
 
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
