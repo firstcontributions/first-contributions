@@ -8,6 +8,7 @@
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [tweekes1] (https://github.com/tweekes1)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)
