@@ -16,6 +16,7 @@
 - [Pushkar](https://github.com/linton-dawson)
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Aditya]
+- [Parv](https://github.com/Parv-Saini)
 - [rahul]
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
