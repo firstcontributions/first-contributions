@@ -6785,4 +6785,5 @@ Hassan Khalailla
 - [Caitlyn Woods](https://github.com/catielynncodes)
 - [Ethan Hsu](https://github.com/ethan627hsu)
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
+- [Kridsada Duangmala](https://github.com/kridsadacpe)
 - [Premtim Sahitaj](https://github.com/premsa)
