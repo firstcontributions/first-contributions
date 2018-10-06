@@ -6771,3 +6771,4 @@ Hassan Khalailla
 - [Bruno Dulcetti](https://github.com/dulcetti)
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
 - [Caitlyn Woods](https://github.com/catielynncodes)
+- [Ethan Hsu](https://github.com/ethan627hsu)
