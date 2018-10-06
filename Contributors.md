@@ -1926,6 +1926,7 @@ Kashish Khullar - :P
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
 - [Monir Zaman](https://github.com/zamanuap)
+- [Manuel Unterriker](https://github.com/LoredCast]
 - [Kiran](https://github.com/mysninja)
 - [Zachary Kearns](https://github.com/zacharykearns)
 - [Birksy89](https://github.com/birksy89)
