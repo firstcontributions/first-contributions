@@ -2,6 +2,7 @@
 
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
