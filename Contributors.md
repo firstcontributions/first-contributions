@@ -33,6 +33,7 @@
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Niharika Tammara]
+- [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
 - [Adam Austin](https://github.com/h3x)
