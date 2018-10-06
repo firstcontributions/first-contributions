@@ -27,6 +27,7 @@
 - [Nikunj JIndal]
 - [Niharika Tammara]
 - [Tina Ngo]
+- [Lucas Binder](https://github.com/lbinder)
 - [Adam Austin](https://github.com/h3x)
 - [James Featherstone](https://github.com/jfeathe)
   [Hrishit Biswas](https://github.com/Artistic18)
