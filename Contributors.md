@@ -6828,3 +6828,4 @@ Hassan Khalailla
 - [Hemant Joshi](http://github.com/codingdefined)
 - [DataSecs](http://github.com/DataSecs)
 - [EdoRguez](https://github.com/EdoRguez)
+- [Naman Goel](https://github.com/namangoel05)
