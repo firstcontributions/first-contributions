@@ -13,6 +13,7 @@
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
+- [Linda Oglesbee](https://github.com/linsogles)
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [diproIV]
