@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
@@ -6788,3 +6788,4 @@ Hassan Khalailla
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
 - [Kridsada Duangmala](https://github.com/kridsadacpe)
 - [Premtim Sahitaj](https://github.com/premsa)
+- [Gang Dong](https://github.com/donggangcj)
