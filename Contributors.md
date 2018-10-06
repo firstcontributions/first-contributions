@@ -6777,3 +6777,4 @@ Hassan Khalailla
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
 - [Caitlyn Woods](https://github.com/catielynncodes)
 - [Ethan Hsu](https://github.com/ethan627hsu)
+- [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
