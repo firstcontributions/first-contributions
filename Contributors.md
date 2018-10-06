@@ -1334,6 +1334,7 @@ Kashish Khullar - :P
 - [Ravsimar Singh](https://github.com/ravsimar-sodhi)
 - [Navneet Sahota](https://github.com/Navneet-Sahota)
 - [Mateusz Trybulec](https://github.com/ultcyber)
+- [Daniel Spencer](https://github.com/Meridien)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
 - [zihao Lin](https://github.com/schneiderlin)
