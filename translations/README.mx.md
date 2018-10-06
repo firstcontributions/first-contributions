@@ -102,12 +102,12 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 
 Add those changes to the branch you just created using the `git add` command:
@@ -169,4 +169,3 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
-
