@@ -1333,6 +1333,7 @@ Kashish Khullar - :P
 - [Srinidhi Krishna](https://github.com/kss682)
 - [Ayush Sharma](https://github.com/ayush-vibrant)
 - [GWCS](https://github.com/GWCS)
+- [Ryan Leach](https://github.com/FunkyFries)
 - [STephen Docy](https://github.com/sdocy)
 - [Stephen Jacob](https://github.com/sjacob90)
 - [Lucas Paganini](https://github.com/LucasPaganini)
