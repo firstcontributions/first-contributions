@@ -6838,6 +6838,7 @@ Hassan Khalailla
 - [DataSecs](http://github.com/DataSecs)
 - [EdoRguez](https://github.com/EdoRguez)
 - [Naman Goel](https://github.com/namangoel05)
+- [David Bambusek](https://github.com/bambusekd)
 - [Victor Neves](https://github.com/Neves4)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
 - [Steven Sonson](https://github.com/PrinnyBaal)
