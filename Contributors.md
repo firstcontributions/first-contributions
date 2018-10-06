@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
@@ -6809,3 +6809,4 @@ Hassan Khalailla
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [Maysa Borges](https://github.com/maysaborges)
