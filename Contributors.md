@@ -6762,6 +6762,7 @@ Hassan Khalailla
 - [Dan Young](https://github.com/ytmnd)
 - [Rahul Tiwari](https://github.com/GrootKo)
 - [Matheus Barbosa](https://github.com/MatheusRBarbosa)
+- [ethan627hsu](https://github.com/ethan627hsu)
 - [Trill Cosby](https://github.com/trillcosby)
 - [Lucas Alvarenga](https://github.com/luucasac)
 - [Ilteris Tabak](https://github.com/ilteristabak)
