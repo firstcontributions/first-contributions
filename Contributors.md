@@ -17,6 +17,7 @@
 - [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Aditya]
+- [Ariana] (https://github.com/dabonadobe)
 - [rahul]
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
