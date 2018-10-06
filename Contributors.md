@@ -79,6 +79,7 @@ Tasha Penwell
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Manne Diaz](https://github.com/diazmanne)
+- [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Bhavuk Kalra](https://github.com/bhavukkalra)
@@ -150,6 +151,7 @@ Tasha Penwell
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Maharajan Eswaramoorthy](https://github.com/meswaramoorthy)
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
+- [Sameer Khan](https://github.com/sameerkhan116)
 Dhanish Ashraf
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
