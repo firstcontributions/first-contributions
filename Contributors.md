@@ -10,6 +10,7 @@
 - [Ryan Evans] (https://github.com/ryanwevans)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Eddie Fisher](https://github.com/forgo123)
 - [tweekes1] (https://github.com/tweekes1)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
