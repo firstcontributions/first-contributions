@@ -1,4 +1,4 @@
-- [Nick Stellato](https://github.com/nickstellato)
+﻿- [Nick Stellato](https://github.com/nickstellato)
 - [Akshay Rawat](https://github.com/akshayrawat91)
 - [SamuelHBrojack](https://github.com/SamuelHBrojack)
 - [Zain Khan](https://github.com/gimpster05)
@@ -3346,3 +3346,4 @@
 - [Ivan Ramos](https://github.com/AjaxianK)
 - [Michael Powers](https://github.com/eventuallyrises)
 -[Darin J Williams](https://github.com/darinjswilliams)
+-[Payal Pandya](https://github.com/payPan22)
