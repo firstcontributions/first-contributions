@@ -24,6 +24,7 @@
 - [<Explorer />](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
+- [Eude K Lesperance](https://github.com/lkeude96)
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
