@@ -2663,6 +2663,7 @@ Kashish Khullar - :P
 - [Shambhavi Jagtap](https://github.com/ShambhaviJagtap)
 - [Debashish Nayak](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
+- [rosa](https://github.com/rosaxny)
 - [Dipti Kulkarni](https://github.com/cyberdrk)
 - [Graham Beekamn](https://github.com/gbeekman)
 - [Utkarsh Deep](https://github.com/utkarshdeep)
