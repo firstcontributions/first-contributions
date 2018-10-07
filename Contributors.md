@@ -131,6 +131,7 @@ Evan Rives
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Hayden Sykes](https://github.com/hasykes)
+- [Ana Carolina D Ferreira](https://github.com/anacdf)
 - [Aditya]
 - [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
