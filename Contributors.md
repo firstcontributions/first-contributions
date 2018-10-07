@@ -10,6 +10,7 @@
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
+- [Satwato Dey](https://github.com/satwato)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
 - [Vu Nguyen] (https://github.com/vnguyen678)
