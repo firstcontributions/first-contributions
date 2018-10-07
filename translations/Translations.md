@@ -39,3 +39,4 @@
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇮🇳 | [தமிழ்](README.ta.md) |
