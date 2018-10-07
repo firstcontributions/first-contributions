@@ -6864,6 +6864,7 @@ Hassan Khalailla
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
+- [katyushi](https://github.com/katyushi)
 - [alemelis](https://github.com/alemelis)
 - [David Marques](https://github.com/davidmoura07)
 - [Dan Young](https://github.com/ytmnd)
