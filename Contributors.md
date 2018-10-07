@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Sarthak Bawal] (https://github.com/Sartech-B)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Prateek Sharma](https://github.com/prateeksharma21)
