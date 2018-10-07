@@ -1,4 +1,4 @@
- ﻿# Contributors
+# Contributors
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
@@ -6863,6 +6863,7 @@ Hassan Khalailla
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [Maysa Borges](https://github.com/maysaborges)
 - [Christian Moultrie](https://github.com/makesomething-christian)
 - [AFrittella](https://github.com/afrittella)
 - [Benjamin Bertalan](https://github.com/brtln)
