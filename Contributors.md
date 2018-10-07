@@ -911,6 +911,7 @@ Kashish Khullar - :P
 - [Jackson Salt](https://github.com/SaltJackson)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Ryan Anstotz](https://github.com/ranstotz)
+- [Nomit Pahuja] (https://github.com/nomitpahuja)
 - [Tal Sheldon](https://github.com/sheldonzy)
 - [Clari Romero](https://github.com/clarii)
 - [Melissa Freiser](https://github.com/mofoshow)
