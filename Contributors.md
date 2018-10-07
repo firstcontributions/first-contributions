@@ -6991,3 +6991,4 @@ Kashish Khullar - :P
 [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Jaicke Santos] (https://github.com/Jaicke)
 - [benzammour] (https://github.com/benzammour)
+- [Edwin Lara](https://github.com/EduLara97)
