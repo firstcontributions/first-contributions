@@ -6862,6 +6862,7 @@ Hassan Khalailla
 - [Raul Serrano](https://github.com/rachuism)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+- [Aditya Singhal] (https://github.com/codaked-Adi)
 - [Michael Strong](https://github.com/MikeStrider)
 - [Joseph Eastman] (https://github.com/josepheastman)
 - [Joe Meschler] (https://github.com/jmesh)
