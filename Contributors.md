@@ -7195,3 +7195,4 @@ Kashish Khullar - :P
 - [Muhammad Hafidz](https://github.com/ciazhar)
 - [Heinz Burtscher](https://github.com/znekar)
 - [Francesco Cipolla](https://github.com/Atlas80b)
+- [Sam Barrowclough](https://github.com/sambarrowclough)
