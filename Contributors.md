@@ -1,4 +1,4 @@
-﻿# Contributors
+ ﻿# Contributors
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
@@ -79,7 +79,7 @@
 - [Adam Austin](https://github.com/h3x)
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [James Featherstone](https://github.com/jfeathe)
-  [Hrishit Biswas](https://github.com/Artistic18)
+- [Hrishit Prasad Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
 - [Yik Jin](https://github.com/yikjin)
