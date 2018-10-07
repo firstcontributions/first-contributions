@@ -6982,3 +6982,4 @@ Kashish Khullar - :P
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 [Eric Ng](https://github.com/nacleric)
+[rachitmanchanda](https://github.com/rachitmanchanda)
