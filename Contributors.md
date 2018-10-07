@@ -2,6 +2,7 @@
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
+- [Himanshu Aggarwal](https://github.com/himanshu0113)
   [Tarun Apppannagari](https://github.com/TarunApp)
 - [Alex Kichukov] (https://github.com/allexpleblord)
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
