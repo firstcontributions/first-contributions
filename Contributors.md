@@ -6957,6 +6957,7 @@ Kashish Khullar - :P
 - [Guy Khmelnitsky] (https://github.com/guykh)
 - [Ali Nisar Ahmed] (https://github.com/AliNisarAhmed)
 - [Alexander Mykolaychuk](https://github.com/roya3000)
+- [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
