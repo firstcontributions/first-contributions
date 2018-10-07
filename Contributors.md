@@ -16,6 +16,7 @@
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
+- [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Alex Kichukov](https://github.com/allexpleblord)
