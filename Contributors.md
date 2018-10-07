@@ -33,6 +33,7 @@
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Mahmoud Anwar] (https://github.com/mamoanwar)
+- [Egor Gorunovich] (https://github.com/titanolodon)
 - [tweekes1] (https://github.com/tweekes1)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
