@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
@@ -26,6 +26,7 @@
 - [Ryan Evans] (https://github.com/ryanwevans)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Mahmoud Anwar] (https://github.com/mamoanwar)
 - [tweekes1] (https://github.com/tweekes1)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
