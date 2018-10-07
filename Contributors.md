@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Nippun Lakhani] (https://github.com/nippun99)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
@@ -9,7 +10,7 @@
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
-  [Tarun Apppannagari](https://github.com/TarunApp)
+- [Tarun Apppannagari](https://github.com/TarunApp)
 - [Alex Kichukov](https://github.com/allexpleblord)
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
