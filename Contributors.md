@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
   [Tarun Apppannagari](https://github.com/TarunApp)
@@ -29,6 +29,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
+  [Jatin Aggarwal] (https://github.com/jatinagg1)
 - [diproIV]
 - [jlly](https://github.com/tcjill)
 - [Pushkar](https://github.com/linton-dawson)
