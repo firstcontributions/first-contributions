@@ -6984,5 +6984,6 @@ Kashish Khullar - :P
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
-[Eric Ng](https://github.com/nacleric)
-[rachitmanchanda](https://github.com/rachitmanchanda)
+- [Eric Ng](https://github.com/nacleric)
+- [rachitmanchanda](https://github.com/rachitmanchanda)
+- [Alena Anog](https://github.com/alenanog)
