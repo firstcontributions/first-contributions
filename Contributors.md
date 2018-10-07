@@ -330,6 +330,7 @@
 - [Jackson Salt](https://github.com/SaltJackson)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Ryan Anstotz](https://github.com/ranstotz)
+- [Nomit Pahuja] (https://github.com/nomitpahuja)
 - [Tal Sheldon](https://github.com/sheldonzy)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
