@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Anushka Svara](https://github.com/dumbcoder2399)
@@ -6997,3 +6997,4 @@ Kashish Khullar - :P
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
 - [Danilo Arantes](https://github.com/daniloarantes)
+- [Dave v. Duivenbode](https://github.com/Sefiris)
