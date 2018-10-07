@@ -7,7 +7,7 @@
 
 ## கிட் நிறுவல்
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 உங்களது கணிணியில் கிட் நிறுவப்படவில்லையெனில் [நிறுவுக]( https://help.github.com/articles/set-up-git/).
 
@@ -18,7 +18,7 @@
 
 ## இந்த களஞ்சியத்தை படியாக்கம்(குளோன்) செய்க
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 போர்க் செய்யப்பட்ட களஞ்சியத்தை உங்கள் கணிணியில் படியாக்கம் செய்ய வேண்டும். அதற்கு உங்கள் கிட்ஹப் கணக்கில், போர்க் செய்யப்பட்ட களஞ்சியத்தை திறந்து, குளோன் பொத்தானை கிளிக் செய்யவும், பிறகு *copy to clipboard* சின்னத்தை கிளிக் செய்யவும்.
 
