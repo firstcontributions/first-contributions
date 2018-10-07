@@ -6853,6 +6853,7 @@ Hassan Khalailla
 - [Darius Chandra](https://github.com/DariusChandra)
 - [Sid Bisram] (https://github.com/Sidd-Amateur-Dvlper/)
 - [Teerapong Tienkul](https://github.com/teerapongt)
+- [Adeonir Kohl](https://github.com/adeonir)
 - [Brent Matos](https://github.com/matosBrent)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
