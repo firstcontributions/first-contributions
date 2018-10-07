@@ -58,6 +58,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
+- [Alexey Salangin](https://github.com/magauran)
   [Jatin Aggarwal] (https://github.com/jatinagg1)
 - [diproIV]
 - [jlly](https://github.com/tcjill)
