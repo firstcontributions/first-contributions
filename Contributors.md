@@ -6838,6 +6838,7 @@ Hassan Khalailla
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
 - [Kridsada Duangmala](https://github.com/kridsadacpe)
 - [Premtim Sahitaj](https://github.com/premsa)
+- [Jatin Mehta](https://github.com/Exoceus)
 - [Gang Dong](https://github.com/donggangcj)
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [IgnasA](https://github.com/IgnasA)
@@ -6860,4 +6861,3 @@ Hassan Khalailla
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
-- [Jatin Mehta](https://github.com/Exoceus)
