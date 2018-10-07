@@ -2,6 +2,7 @@
 
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
+- [Dan Piazza](https://github.com/DanielJPiazza)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
