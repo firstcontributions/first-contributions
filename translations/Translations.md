@@ -30,10 +30,11 @@
 | 🇵🇰 | [اردو](README.ur.md) |
 | 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
-| :uk: | [English](README.md) |
+| :uk: | [English](../README.md) |
 | <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
+| 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
