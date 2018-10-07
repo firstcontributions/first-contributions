@@ -6,43 +6,6 @@ Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will
 
 Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
-*Dieser Artikel ist in folgenden anderen Sprachen verfügbar:*
-
-[🇬🇧](../README.md)
-[🇮🇳](README.hi.md)
-[🇲🇲](README.mm_unicode.md)
-[🇮🇩](README.id.md)
-[🇫🇷](README.fr.md)
-[🇪🇸](README.es.md)
-[<img src="../assets/catalan1.png" width="22">](README.ca.md)
-[🇳🇱](README.nl.md)
-[🇱🇹](README.lt.md)
-[🇷🇺](README.ru.md)
-[🇯🇵](README.ja.md)
-[🇻🇳](README.vn.md)
-[🇵🇱](README.pl.md)
-[🇮🇷](README.fa.md)
-[🇮🇷](README.fa.en.md)
-[🇰🇷 🇰🇵](README.ko.md)
-[🇨🇳](README.chs.md)
-[🇹🇼](README.cht.md)
-[🇬🇷](README.gr.md)
-[🇪🇬](README.eg.md)
-[🇸🇦](README.ar.md)
-[🇺🇦](README.ua.md)
-[🇧🇷](README.pt_br.md)
-[🇵🇹](README.pt-pt.md)
-[🇮🇹](README.it.md)
-[🇹🇭](README.th.md)
-[🏴󠁥󠁳󠁧󠁡󠁿](README.gl.md)
-[🇵🇰](README.ur.md)
-[:bangladesh:](README.bn.md)
-[🇲🇩 🇷🇴](README.ro.md)
-[🇹🇷](README.tr.md)
-[🇸🇪](README.se.md)
-[:slovenia:](README.sl.md)
-[🇮🇱](README.hb.md)
-[<img src="../assets/pirate.png" width="22">](README.en-pirate.md)
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
 
