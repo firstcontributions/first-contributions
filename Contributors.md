@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Naman Goyal] (https://github.com/royalgoyal)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
