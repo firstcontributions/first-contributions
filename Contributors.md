@@ -6860,6 +6860,7 @@ Hassan Khalailla
 - [EdoRguez](https://github.com/EdoRguez)
 - [Naman Goel](https://github.com/namangoel05)
 - [David Bambusek](https://github.com/bambusekd)
+- [Bovorasr](https://github.com/bovorasr)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm) 
 - [Rodrigo Carvalho](https://github.com/Futuro212)
