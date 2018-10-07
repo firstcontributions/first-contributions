@@ -6869,6 +6869,8 @@ Hassan Khalailla
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [AFrittella](https://github.com/afrittella)
+- [Mikele Guedes](https://github.com/mikeliguedes)
 - [Houn_Rithyseth](https://github.com/Indra8288)
 - [AFrittella](https://github.com/afrittella)
 - [Lucas Viera](https://github.com/lucasarieiv)
