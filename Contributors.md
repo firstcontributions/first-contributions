@@ -6859,6 +6859,7 @@ Hassan Khalailla
 - [Naman Goel](https://github.com/namangoel05)
 - [David Bambusek](https://github.com/bambusekd)
 - [Victor Neves](https://github.com/Neves4)
+- [Thomas Chisholm](https://github.com/ThomasChisholm) 
 - [Rodrigo Carvalho](https://github.com/Futuro212)
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
