@@ -39,6 +39,7 @@
 - [rahul]
 - [Gabriel Fonseca] (https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
+- [Akshit Goyal](https://github.com/akshit15013)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
 - [Kumar Abhijeet](https://github.com/kumar1202)
