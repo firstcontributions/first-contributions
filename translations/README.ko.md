@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -127,7 +127,7 @@ git push origin <add-your-name>
 
 여러분의 첫 기여를 축하합니다. 이제 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)으로 이동하여 친구 및 팔로워와 공유하십시오.
 
-도움이 필요하거나 질문이있을 경우, 우리의 slack 팀에 합류 할 수 있습니다. [slack 팀 가입하기](https://firstcontributions.herokuapp.com).
+도움이 필요하거나 질문이있을 경우, 우리의 slack 팀에 합류 할 수 있습니다. [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 이제 다른 프로젝트에 기여해보십시오. 시작하기 쉬운 문제가있는 프로젝트 목록을 작성했습니다. [웹 앱에 있는 프로젝트 목록](https://roshanjossey.github.io/first-contributions/#project-list)을 확인하세요.
 
