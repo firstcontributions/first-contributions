@@ -6865,6 +6865,7 @@ Hassan Khalailla
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [Iris Soares](https://github.com/irixs)
 - [Leticia Maciel](https://github.com/leehmaciel)
 - [José Brandão](https://github.com/OZebra)
 - [0xJhow](https://github.com/0xjhow)
