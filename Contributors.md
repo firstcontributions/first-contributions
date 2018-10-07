@@ -16,6 +16,7 @@
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
+- [Krizza Bullecer] (https://github.com/sirbully)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [Ananya GUpta](https://github.com/AnanyaG-6)
