@@ -6961,5 +6961,6 @@ Kashish Khullar - :P
 - [Ali Nisar Ahmed] (https://github.com/AliNisarAhmed)
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Aniket Srivastava](https://github.com/Aniket144)
+- [Alin Simion](https://github.com/alinsg)
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
