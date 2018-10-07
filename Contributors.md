@@ -14,7 +14,7 @@
 - [Ganesh Majhi](https://github.com/ganeshmajhi)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
-- [<Explorer />](https://github.com/open-source-explorer)
+- [\<Explorer \>](https://github.com/open-source-explorer)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
 - [Mahdi HB](https://github.com/mhb8898)
@@ -71,8 +71,8 @@
 - [Kris Ringer](https://github.com/ArynRose)
 - Siju Thomas
 - [Shashank Mohabia](https://github.com/shashankmohabia)
-Tasha Penwell
-  [bjorkqvist](https://github.com/bjorkqvist)
+- Tasha Penwell
+- [bjorkqvist](https://github.com/bjorkqvist)
 - [ejfilip](https://github.com/ejfilip)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
@@ -162,7 +162,7 @@ Tasha Penwell
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Maharajan Eswaramoorthy](https://github.com/meswaramoorthy)
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
-Dhanish Ashraf
+- Dhanish Ashraf
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
 - [Sahan Monaara](https://github.com/SahanMonaara)
@@ -175,8 +175,8 @@ Dhanish Ashraf
 - [Pooja Sethia](https://github.com/poojasethia)
 - [João Silva](https//github.com/l32355)
 - [mara](https://github.com/mara2701)
-Jimmie Faulkner
-bilalsiraj
+- Jimmie Faulkner
+- bilalsiraj
 - Sahil Wasan
 - [Yasiru Geevinda](https://github.com/Yasirunet)
 - [Tyler Stanley](https://github.com/tystanley)
@@ -924,7 +924,7 @@ Kashish Khullar
 - Someone
 - [Stephen Charlton](https://github.com/StephenCalChar)
 - [Adam Irby](https://github.com/adamirby)
-  Vishnu Umakanthan
+- Vishnu Umakanthan
 - [Andrew Khalel](https://github.com/andrewekhalel)
 - [Alysson Campbell](https://github.com/AlyssonCampbell)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
@@ -1585,7 +1585,7 @@ Kashish Khullar
 - [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
-  [Matt Moderwell](https://github.com/mmoderwell)
+- [Matt Moderwell](https://github.com/mmoderwell)
 - [Wolfgang S](https://github.com/WSchindler)
 - [Gisel Calvo](https://github.com/giselcalvo)
 - [Stefan Generalao](https://github.com/stefangeneralao)
@@ -2959,7 +2959,7 @@ Kashish Khullar
 - [Mohit Gauniyal](https://github.com/mohitgauniyal19a)
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
-Hassan Khalailla
+- Hassan Khalailla
 - [Vitor Dias](https://github.com/VitorDiass)
 - [Annisa Nadia](https://github.com/annisanadia)
 - [?caro Pinho Esmeraldo](https://github.com/icaropj)
