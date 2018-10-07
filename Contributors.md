@@ -18,6 +18,7 @@
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
+- [Matheus Barros] (https://github.com/bmatheus91)
 - [Kristy Currier] (https://github.com/kristycurrier)
 - [Abbas Beydoun] (https://github.com/abbasbeydoun)
 - [<Explorer />](https://github.com/open-source-explorer)
