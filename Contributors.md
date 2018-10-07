@@ -75,6 +75,7 @@
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
 - [Ariana](https://github.com/dabonadobe)
+- [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
 - [Michael](https://github.com/damoklov)
 - [Ganga S Nair](https://github.com/ganga1807)
