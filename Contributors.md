@@ -6986,3 +6986,4 @@ Kashish Khullar - :P
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
+- [Jaicke Santos] (https://github.com/Jaicke)
