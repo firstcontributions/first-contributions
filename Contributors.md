@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Prateek Sharma](https://github.com/prateeksharma21)
   [Tarun Apppannagari](https://github.com/TarunApp)
@@ -89,6 +89,7 @@
 - [chakradar]
 - [Nancy Lubalo]
 - [Kris Ringer](https://github.com/ArynRose)
+- [maxpoi]
 - [Siju Thomas]
 - [Shashank Mohabia](https://github.com/shashankmohabia)
 Tasha Penwell
