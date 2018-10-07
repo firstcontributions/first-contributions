@@ -6882,6 +6882,7 @@ Hassan Khalailla
 - [Christian Moultrie](https://github.com/makesomething-christian)
 - [AFrittella](https://github.com/afrittella)
 - [Benjamin Bertalan](https://github.com/brtln)
+- [Deborah Camila](https://github.com/debcamila)
 - [rafaellimags](https://github.com/rafaellimags)
 - [Anne Kelly](https://github.com/akrs3/)
 - [Vicent Llinares](http://github.com/llinaresvicent)
