@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Anushka Svara](https://github.com/dumbcoder2399)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
