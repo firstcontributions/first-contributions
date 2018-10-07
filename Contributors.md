@@ -1,5 +1,5 @@
 # Contributors
-
+- [Anushka Svara](https://github.com/dumbcoder2399)
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
