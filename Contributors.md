@@ -6863,6 +6863,7 @@ Hassan Khalailla
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
+- [João Tavares](https://github.com/vtavares11)
 - [Fabiane Souza](https://github.com/devfabisouza)
 - [Robson Marinho](https://github.com/RobsonMarinho)
 - [Gabriela Matias](https://github.com/GabrielaMattias)
