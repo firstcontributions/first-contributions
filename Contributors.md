@@ -7000,3 +7000,4 @@ Kashish Khullar - :P
 - [Andrey Smirnov](https://github.com/daggett206)
 - [Danilo Arantes](https://github.com/daniloarantes)
 - [Dave v. Duivenbode](https://github.com/Sefiris)
+- [Davide Briani](https://github.com/theworm)
