@@ -108,10 +108,10 @@
 - [Kris Ringer](https://github.com/ArynRose)
 - [maxpoi]
 - [Siju Thomas]
+- [Tasha Penwell]
+- [bjorkqvist](https://github.com/bjorkqvist)
 - [Shashank Mohabia](https://github.com/shashankmohabia)
-Tasha Penwell
-
-  [bjorkqvist](https://github.com/bjorkqvist)
+- [bjorkqvist](https://github.com/bjorkqvist)
 - [ejfilip] (https://github.com/ejfilip)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Alvin Tu](https://github.com/ajtu)
@@ -152,7 +152,8 @@ Tasha Penwell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
-[Priyadarshan](https://github.com/PDROJACK)
+- [Matthew Hartman](https://github.com/KalabiteKrowd)
+- [Priyadarshan](https://github.com/PDROJACK)
 - [Kushagra Kalash](https://github.com/TheSherlockHomie)
 - [Shivam Malviya](https://github.com/TREXXX27)
 - [Spas Zahariev](https://github.com/SpasZahariev)
