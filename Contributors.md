@@ -6827,6 +6827,7 @@ Hassan Khalailla
 - [Teerapong Tienkul](https://github.com/teerapongt)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
+- [Roman Leshchuk](https://github.com/Leroy1962)
 - [Ishneet Kaur](https://github.com/ishneetknarang/first-contributions)
 - [Raul Serrano](https://github.com/rachuism)
 - [Abu Darda](https://github.com/abuDarda97)
