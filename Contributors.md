@@ -6983,5 +6983,6 @@ Kashish Khullar - :P
 - [Julio Anthony Leonard](https://github.com/imjuanleonard)
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
+- [José Lucas](https://github.com/lukpod1)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
