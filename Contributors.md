@@ -6970,3 +6970,4 @@ Kashish Khullar - :P
 - [Alin Simion](https://github.com/alinsg)
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
+- [Mikael Eriksson](https://github.com/mmikaeleriksson)
