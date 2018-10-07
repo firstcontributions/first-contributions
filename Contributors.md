@@ -6981,6 +6981,7 @@ Kashish Khullar - :P
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
+- [Tommy Lusun](https://github.com/tommylusun)
 - [Christopher Shockley] (https://github.com/cishocksr)
 - [Krishan Kant] (https://github.com/krishan-kant)
 - [Guy Khmelnitsky] (https://github.com/guykh)
