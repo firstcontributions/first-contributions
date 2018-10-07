@@ -6901,6 +6901,7 @@ Hassan Khalailla
 - [Vicent Llinares](http://github.com/llinaresvicent)
 - [Hemant Joshi](http://github.com/codingdefined)
 - [DataSecs](http://github.com/DataSecs)
+- [Jose Gutierrez](https://github.com/josemariogutierrez)
 - [EdoRguez](https://github.com/EdoRguez)
 - [Afif Hendrawan](https://github.com/hndr91)
 - [Naman Goel](https://github.com/namangoel05)
