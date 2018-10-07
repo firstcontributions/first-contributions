@@ -442,6 +442,7 @@
 - [Sannan Ansari](https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
+- [Akshay Agarwal](https://github.com/akag98)
 - [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Sebastian Upjohn](https://github.com/supjohn)
