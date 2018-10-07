@@ -53,6 +53,7 @@
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
 - [Kumar Abhijeet](https://github.com/kumar1202)
+- [Jerome Rumbaoa](https://github.com/jerumbaoa)
 - [Saurabh Kumar](https://github.com/saurabhkm)
 - [Bakhshi Dashyan](https://github.com/bagshik)
 - [James Warner]
@@ -6888,7 +6889,7 @@ Hassan Khalailla
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Victor Neves](https://github.com/Neves4)
-- [Thomas Chisholm](https://github.com/ThomasChisholm) 
+- [Thomas Chisholm](https://github.com/ThomasChisholm)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
