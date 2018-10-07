@@ -18,6 +18,7 @@
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Kevin Chi](https://github.com/NeedsAUsername)
+- [Ananya GUpta](https://github.com/AnanyaG-6)
 - [Matheus Barros] (https://github.com/bmatheus91)
 - [Kristy Currier] (https://github.com/kristycurrier)
 - [Abbas Beydoun] (https://github.com/abbasbeydoun)
