@@ -6868,6 +6868,7 @@ Hassan Khalailla
 - [Joseph Eastman] (https://github.com/josepheastman)
 - [Joe Meschler] (https://github.com/jmesh)
 - [NeeEoo](https://github.com/NeeEoo)
+- [EldoranDev](https://github.com/EldoranDev)
 - [Gavin Lim] (https://github.com/gavinslim)
 - [Khrinx] (https://github.com/khrinx)
 - [Derek Zhang] (https://github.com/fillorkill)
