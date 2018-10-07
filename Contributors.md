@@ -106,6 +106,7 @@ Tasha Penwell
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Ana Letícia](https://github.com/anacamargos)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
+- [Raspal Seni](https://github.com/raspals)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Paul Torre](https://github.com/paultorre/)
 - [Harsh](https://github.com/BrendanCarlin)
