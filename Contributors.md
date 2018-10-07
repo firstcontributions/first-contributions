@@ -14,6 +14,7 @@
 - Sarthak Singhal
 - Pietil
 - Kamilla Dallmann
+- [Mayank Devnani](https://github.com/may12day)
 - [Arshad Umrethi](https://github.com/arshadumrethi)
 - [touletan](https://github.com/touletan)
 - [Jason Secrest](https://github.com/jsecrest)
@@ -118,7 +119,7 @@
 - [Antomor](https://github.com/antomor)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
-  Supriyo Dey	
+  Supriyo Dey
 - Sushrut Raina
 - Johan Eriksson
 - [Neptune Cabelin](https://github.com/ncabelin)
