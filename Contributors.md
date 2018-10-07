@@ -6814,6 +6814,7 @@ Hassan Khalailla
 - [Suvansh Rana](https://github.com/Sherlock2000)
 - [amey-kudari](https://github.com/amey-kudari)
 - [Michal Budzilo](https://github.com/michbudz)
+- [Leandro Ferreira](https://github.com/leofls)
 - [Abdulrahman Alrahma](https://github.com/smokyabdulrahman)
 - [George Christoforidis]
 - [Alexandra P](https://github.com/sandraprog)
