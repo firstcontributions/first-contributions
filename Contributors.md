@@ -889,6 +889,7 @@ Kashish Khullar - :P
 - [Devpur Developer](https://github.com/devpur)
 - [Elaguy](https://github.com/elaguy)
 - [Javisth](https://github.com/javisth)
+- [Aquakor](https://github.com/Aquakor)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
 - [SteveFFresno](https://github.com/stevef-fresno)
