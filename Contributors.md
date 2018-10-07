@@ -6996,3 +6996,4 @@ Kashish Khullar - :P
 - [benzammour] (https://github.com/benzammour)
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
+- [Danilo Arantes](https://github.com/daniloarantes)
