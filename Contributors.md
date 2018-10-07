@@ -13,6 +13,7 @@
 - [Satwato Dey](https://github.com/satwato)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
+- [Mitchell Fontaine] (https://github.com/mitchellfontainemn)
 - [Vu Nguyen] (https://github.com/vnguyen678)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
