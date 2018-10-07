@@ -6756,6 +6756,7 @@ Kashish Khullar - :P
 - [Ayush Agrawal](https://github.com/ayush1507)
 - [Dan Postelnicu](https://github.com/kolapsys)
 - [Darshan]()
+- [Eddie](https://github.com/huynheddie)
 - [Hadnazzar](https://github.com/hadnazzar)
 - [Vini Farias](https://github.com/ViniFarias)
 - [rkruk](https://github.com/rkruk)
