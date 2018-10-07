@@ -267,6 +267,7 @@ bilalsiraj
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin](https://github.com/jcat1504)
+- [Oscar Mera](https://github.com/odmera)
 - [Vyom Jain](https://github.com/vvyomjjain)
 - [Nobutaka Kim Toyoda](https://github.com/nyck33)
 - [Harshita Khare](https://github.com/harshita269)
