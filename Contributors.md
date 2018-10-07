@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Jonathan Tang](https://github.com/jTanG0506)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Nippun Lakhani] (https://github.com/nippun99)
