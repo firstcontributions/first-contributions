@@ -35,7 +35,6 @@ If you want to contribute, you need to know a few things.
 We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
 
 #### Example
-
 `Translations.md`
 ```markdown
 |Country | Translated Link |
