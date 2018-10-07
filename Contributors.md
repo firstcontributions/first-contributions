@@ -126,6 +126,7 @@
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Alvin Tu](https://github.com/ajtu)
 - [Ana Letícia](https://github.com/anacamargos)
+- [Neville Bokdawalla](https://github.com/neville-tech)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
 - [Raspal Seni](https://github.com/raspals)
 - [Saksham Gupta](https://github.com/sakshamio)
