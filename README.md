@@ -30,6 +30,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇷](translations/README.fa.en.md)
 [🇰🇷 🇰🇵](translations/README.ko.md)
 [🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
 [🇨🇳](translations/README.chs.md)
 [🇹🇼](translations/README.cht.md)
 [🇬🇷](translations/README.gr.md)
@@ -40,7 +41,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇵🇹](translations/README.pt-pt.md)
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
-[🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
+[🏴](translations/README.gl.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
@@ -134,7 +135,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
