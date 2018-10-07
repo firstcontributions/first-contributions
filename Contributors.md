@@ -2,6 +2,7 @@
 
 - [Sarthak Bawal] (https://github.com/Sartech-B)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
+- [Joshua Kartzman] (https://github.com/JoshuaKart)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
