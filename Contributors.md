@@ -6754,6 +6754,7 @@ Hassan Khalailla
 - [RobbiNespu](https://github.com/RobbiNespu)
 - [judah4](https://github.com/judah4)
 - [FlyingAz](https://github.com/FlyingAz)
+- [Ville Riepponen](https://github.com/Vrites)
 - [LiteBright](https://github.com/litebright)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Bruno Nakayabu](https://github.com/BrNaka)
