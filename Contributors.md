@@ -7003,6 +7003,7 @@ Kashish Khullar - :P
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
+- [Moeez Muhammad](https://github.com/Moeez-Muhammad)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Jaicke Santos] (https://github.com/Jaicke)
