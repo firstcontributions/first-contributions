@@ -6993,3 +6993,4 @@ Kashish Khullar - :P
 - [Jaicke Santos] (https://github.com/Jaicke)
 - [benzammour] (https://github.com/benzammour)
 - [Edwin Lara](https://github.com/EduLara97)
+- [Andrey Smirnov](https://github.com/daggett206)
