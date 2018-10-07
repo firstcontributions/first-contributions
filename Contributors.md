@@ -6847,6 +6847,7 @@ Hassan Khalailla
 - [Brent Matos](https://github.com/matosBrent)
 - [Helen Dias](https://github.com/HelenDias)
 - [Antonio Yee](https://github.com/antonioyee)
+- [Norman Vicente](https://github.com/normanaspx)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Ishneet Kaur](https://github.com/ishneetknarang/first-contributions)
 - [Raul Serrano](https://github.com/rachuism)
