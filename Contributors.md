@@ -6838,6 +6838,7 @@ Hassan Khalailla
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
 - [Kridsada Duangmala](https://github.com/kridsadacpe)
 - [Premtim Sahitaj](https://github.com/premsa)
+- [Jatin Mehta](https://github.com/Exoceus)
 - [Gang Dong](https://github.com/donggangcj)
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [IgnasA](https://github.com/IgnasA)
