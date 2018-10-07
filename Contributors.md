@@ -35,6 +35,7 @@
 - [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Rockwell Shabani](https://github.com/Rockwell70)
+- [Ana Carolina D Ferreira](https://github.com/anacdf)
 - [Aditya]
 - [Michael](https://github.com/damoklov)
 - [Ganga S Nair](https://github.com/ganga1807)
