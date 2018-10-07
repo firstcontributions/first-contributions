@@ -5,6 +5,7 @@
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
 - [Dan Piazza](https://github.com/DanielJPiazza)
+- [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
