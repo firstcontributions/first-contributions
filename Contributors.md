@@ -1477,6 +1477,7 @@ Kashish Khullar - :P
 - [Richard Snyder](https://github.com/rsnydr)
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
+- [Alessandro Ruzza](https://github.com/AlexxRuzza)
 - [Subhag Bhatia](https://github.com/subhag7)
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
