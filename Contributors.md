@@ -6987,3 +6987,4 @@ Kashish Khullar - :P
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Jaicke Santos] (https://github.com/Jaicke)
+- [benzammour] (https://github.com/benzammour)
