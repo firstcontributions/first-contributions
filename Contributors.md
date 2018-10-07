@@ -126,6 +126,7 @@ Tasha Penwell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
+[Priyadarshan](https://github.com/PDROJACK)
 - [Kushagra Kalash](https://github.com/TheSherlockHomie)
 - [Shivam Malviya](https://github.com/TREXXX27)
 - [Spas Zahariev](https://github.com/SpasZahariev)
