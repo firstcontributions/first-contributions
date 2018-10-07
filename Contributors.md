@@ -99,6 +99,7 @@
 - [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
+- [Wesley Clements] (https://github.com/WesleyClements)
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [Alvin Ho](https://github.com/cureja)
