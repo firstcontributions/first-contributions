@@ -6863,3 +6863,4 @@ Hassan Khalailla
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
+- [Christopher Shockley] (https://github.com/cishocksr)
