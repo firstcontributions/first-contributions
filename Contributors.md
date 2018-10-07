@@ -71,6 +71,7 @@
 - [James Warner]
 - [Katie Turner]
 - [Katie Ferencz]
+- [Pittyolo](https://github.com/Pittyolo)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Mahesh Bhat]
 - [Akarshit sharma]
