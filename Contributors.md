@@ -24,6 +24,7 @@
 - [Kat MacCannon](https://github.com/trenzafeeds)
 - [Shahmi Majid] (https://github.com/shahmimajid)
 - [Ryan Evans] (https://github.com/ryanwevans)
+- [Yogita Bhatia] (https://github.com/Yogita98)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Mahmoud Anwar] (https://github.com/mamoanwar)
