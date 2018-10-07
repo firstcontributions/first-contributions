@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Anushka Svara](https://github.com/dumbcoder2399)
@@ -7002,3 +7002,4 @@ Kashish Khullar - :P
 - [Danilo Arantes](https://github.com/daniloarantes)
 - [Dave v. Duivenbode](https://github.com/Sefiris)
 - [Davide Briani](https://github.com/theworm)
+- [Roman Leshchuk](https://github.com/Leroy1962)
