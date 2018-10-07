@@ -12,6 +12,7 @@
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
+- [Vu Nguyen] (https://github.com/vnguyen678)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
 - [Arshdeep Singh Kawatra] (https://github.com/arshdeepsk)
