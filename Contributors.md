@@ -1,6 +1,7 @@
 # Contributors
 
 - [Anushka Svara](https://github.com/dumbcoder2399)
+- [Jonathan Tang](https://github.com/jTanG0506)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Nippun Lakhani] (https://github.com/nippun99)
@@ -58,6 +59,7 @@
 - [Michael](https://github.com/damoklov)
 - [Ganga S Nair](https://github.com/ganga1807)
 - [Parv](https://github.com/Parv-Saini)
+- [Anubhav](https://github.com/annubv)
 - [Raunak Sharma](https://github.com/raunak-sharma)
 - [rahul]
 - [Gabriel Fonseca] (https://github.com/Gabriel-de-Carvalho)
@@ -1874,6 +1876,7 @@ Kashish Khullar - :P
 - [Sarah G](https://github.com/sarahg813)
 - [Abdel Mounaim Tazi](https://github.com/AMTazi)
 - [Saket](https://github.com/saket700)
+- [hercegtomas](https://github.com/hercegtomas)
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
 - [Manish Bhatt](https://github.com/manishbhatt94)
@@ -6959,3 +6962,4 @@ Kashish Khullar - :P
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Aniket Srivastava](https://github.com/Aniket144)
 - [Harshit Pant](https://github.com/pantharshit00)
+- [Janitha Rasanga](https://github.com/Janitha133)
