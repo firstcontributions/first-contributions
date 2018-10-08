@@ -27,6 +27,7 @@
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [Satwato Dey](https://github.com/satwato)
+Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
