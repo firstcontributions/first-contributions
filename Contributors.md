@@ -26,6 +26,7 @@
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Satwato Dey](https://github.com/satwato)
+Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
