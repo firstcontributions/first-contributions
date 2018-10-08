@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rishab jain](https://github.com/rishabjn)
 - [Sandeep Sidhu](https://github.com/sandeepme)
@@ -6722,6 +6722,7 @@ Kashish Khullar - :P
 - [Anup Dhakal](https://github.com/anuphunt)
 - [Ziyad Alamri](https://github.com/iZezoh)
 - [Roberto Vicuna](https://github.com//RoberVH/)
+- [Anubhav Kumar Singh](https://github.com/Anubhavkumar45)
 - [Kacper Maczka](https://github.com/kacper19990)
 - [Ray Chen](https://github.com/Vowlue)
 - [Deepak Suresh](https://github.com/deepaksuresh)
