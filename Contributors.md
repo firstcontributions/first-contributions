@@ -211,6 +211,7 @@
 - [Anam Ahmad](https://github.com/Anam9)
 - [Matthew Hartman](https://github.com/KalabiteKrowd)
 - [Priyadarshan](https://github.com/PDROJACK)
+- [Jhalak]
 - [Kushagra Kalash](https://github.com/TheSherlockHomie)
 - [Shivam Malviya](https://github.com/TREXXX27)
 - [Spas Zahariev](https://github.com/SpasZahariev)
