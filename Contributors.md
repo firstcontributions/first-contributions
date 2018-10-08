@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Rishab jain](https://github.com/rishabjn)
+- [Mahesh](https://github.com/mforgaian)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
