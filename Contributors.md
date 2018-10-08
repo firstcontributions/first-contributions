@@ -15,6 +15,7 @@
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Satwato Dey](https://github.com/satwato)
+- [Yixian Chen](https://github.com/yxnchen)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
 - [Mitchell Fontaine] (https://github.com/mitchellfontainemn)
