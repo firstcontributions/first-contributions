@@ -7066,3 +7066,4 @@ Kashish Khullar - :P
 - [blueetreebranch] (https://github.com/blueetreebranch)
 - [0dayherman] (https://github.com/0dayherman)
 - [christm] (https://github.com/clerity85)
+- [Umang Raval](https://github.com/umangraval)
