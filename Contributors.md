@@ -340,6 +340,7 @@ bilalsiraj
 - [Oscar Mera](https://github.com/odmera)
 - [Vyom Jain](https://github.com/vvyomjjain)
 - [Nobutaka Kim Toyoda](https://github.com/nyck33)
+- [Avnish Kumar Kashyap](https://github.com/kashyap02)
 - [Harshita Khare](https://github.com/harshita269)
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
