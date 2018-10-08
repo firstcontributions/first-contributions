@@ -1,7 +1,6 @@
 # Contributors
 
 - [Hattou Faïssal](https://github.com/Bakhaw)
-- [Hemant Khandelwal](https://github.com/iamhem)
 - [Rishab jain](https://github.com/rishabjn)
 - [Mahesh](https://github.com/mforgaian)
 - [Sandeep Sidhu](https://github.com/sandeepme)
@@ -7061,3 +7060,4 @@ Kashish Khullar - :P
 - [Adhish Anand](https://github.com/adhishanand9)
 - [Prakhar Gupta](https://github.com/prakhar897)
 - [Yoga Agung Prasetio](https://github.com/yogaap24)
+- [Chris Kerr] (http:github.com/ckerr1999)
