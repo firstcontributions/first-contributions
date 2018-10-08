@@ -7101,3 +7101,4 @@ Kashish Khullar - :P
 - [Prateek Arora](https://github.com/prarora98)
 - [HarryPark](https://github.com/phg98)
 - [Brenda-Fitz](https://github.com/brenda-fitz)
+- [James Zhong](https://github.com/thebitspud)
