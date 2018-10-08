@@ -7087,3 +7087,4 @@ Kashish Khullar - :P
 - [Magno Macedo de Oliveira](https://github.com/magnoDev)
 - [Hidde IJzerman](https://github.com/Hidduh)
 - [Lauren Eggers](https://github.com/Aliecake)
+- [Prateek Arora](https://github.com/prarora98)
