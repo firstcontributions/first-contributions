@@ -25,6 +25,7 @@
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
+- [Colton Boston](https://github.com/ColtonBoston)
 - [Satwato Dey](https://github.com/satwato)
 - [Yixian Chen](https://github.com/yxnchen)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
