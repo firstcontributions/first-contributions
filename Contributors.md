@@ -7033,3 +7033,4 @@ Kashish Khullar - :P
 - [Ryan Doyle] (https://github.com/ryanmdoyle)
 - [Brent Robbins] (https://github.com/brentrobbins)
 - [Marco Petreri](https://github.com/marcopetreri)
+- [Felix Grünewald](https://github.com/fgruen)
