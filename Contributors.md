@@ -1,6 +1,7 @@
 # Contributors
 
 - [Hattou Faïssal](https://github.com/Bakhaw)
+- [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
