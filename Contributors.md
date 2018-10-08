@@ -3,6 +3,7 @@
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Hemant Khandelwal](https://github.com/iamhem)
 - [Rishab jain](https://github.com/rishabjn)
+- [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master] (https://github.com/munnikedost)
