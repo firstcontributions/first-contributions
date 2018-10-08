@@ -22,6 +22,7 @@
 - [KoGo Codeing] (https://github.com/KoGoCoding)
 - [Uzma Faiz] (https://github.com/uzmafaiz)
 - [Anshul Garg] (https://github.com/LHolmes69)
+- [Divik Mittal](https://github.com/divik544)
 - [Karthik Hegde] (https://github.com/karthikhegde05)
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
