@@ -1,5 +1,6 @@
 # Contributors
 
+- [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
