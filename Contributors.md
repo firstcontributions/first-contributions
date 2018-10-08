@@ -8,6 +8,7 @@
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
+- [Jeremy Fox](https://github.com/jeremyfox36)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master] (https://github.com/munnikedost)
 - [Sambhav Jain](https://github.com/sambhav1020)
