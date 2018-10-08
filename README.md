@@ -128,6 +128,8 @@ replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
+This is how you push your changes to GitHub :
+
 Push your changes using the command `git push`:
 ```
 git push origin <add-your-branch-name>
