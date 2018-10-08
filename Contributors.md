@@ -2935,6 +2935,7 @@ Kashish Khullar - :P
 - [Soumil Ghosh](https://github.com/lonewolf16)
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
 - [Sally Chin](https://github.com/summerhopes)
+- [Sanduni Wickramathunga]  (https://github.com/sanduniYW)
 - [Darian Low](https://github.com/shoe17)
 - [John Hinson](https://github.com/jlhinson)
 - [Anubhav Patel](https://github.com/anubhavp28)
@@ -7028,4 +7029,3 @@ Kashish Khullar - :P
 - [jwon114](https://github.com/jwon114)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [Ryan Doyle] (https://github.com/ryanmdoyle)
-- [Sanduni Wickramathunga]  (https://github.com/sanduniYW)
