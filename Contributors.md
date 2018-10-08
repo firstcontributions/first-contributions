@@ -18,6 +18,7 @@
 - [Satwato Dey](https://github.com/satwato)
 - [Yixian Chen](https://github.com/yxnchen)
 - [Nippun Lakhani] (https://github.com/nippun99)
+- [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
 - [Sean Kim] (https://github.com/sungk44)
 - [Mitchell Fontaine] (https://github.com/mitchellfontainemn)
 - [Vu Nguyen] (https://github.com/vnguyen678)
