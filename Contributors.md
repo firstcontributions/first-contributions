@@ -7031,6 +7031,7 @@ Kashish Khullar - :P
 - [Moeez Muhammad](https://github.com/Moeez-Muhammad)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
+- [Hossam Eissa] (https://github.com/HosamEissa)
 - [Jaicke Santos] (https://github.com/Jaicke)
 - [benzammour] (https://github.com/benzammour)
 - [Edwin Lara](https://github.com/EduLara97)
