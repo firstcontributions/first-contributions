@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
@@ -27,6 +27,7 @@
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [Satwato Dey](https://github.com/satwato)
+Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
@@ -49,6 +50,7 @@
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
+- [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Jacobian Det](https://github.com/JacobianDet)
 - [DarylBupt](https://github.com/darylbupt)
@@ -120,6 +122,7 @@
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
 - [John Doe]
+- [Emma Kingston](https://github.com/emmakingston)
 - [Kumar Abhijeet](https://github.com/kumar1202)
 - [Jerome Rumbaoa](https://github.com/jerumbaoa)
 - [Saurabh Kumar](https://github.com/saurabhkm)
@@ -300,6 +303,7 @@ Jimmie Faulkner
 bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
+
 - [Tyler Stanley](https://github.com/tystanley)
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
@@ -817,7 +821,7 @@ Kashish Khullar - :P
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
 - [Muslim Razi](https://github.com/raz4)
-
+- [VJ Fernandez] (https://github.com/VJFernandez123)
 - [Danny Lan](https://github.com/ddlan)
 - [Shivam Chaudhary](https://github.com/andy6975)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
@@ -1096,6 +1100,7 @@ Kashish Khullar - :P
 - [Ratika Bhuwalka](http://github.com/ratikabhuwalka)
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
+- [Ovidiu Sabau] (https://github.com/OvidiuSabau)
 - [Anjali Ahuja](https://github.com/anjaliannahuja)
 - [Armando Marin](https://github.com/ArmandoMetlich)
 - [Manik Chugh](http://github.com/manikrc98)
@@ -2734,6 +2739,7 @@ Kashish Khullar - :P
 - [Louie Aroy](https://github.com/kosenshou)
 - [Jeswin Thomas](https://github.com/Jeswin01)
 - [Adi Darmawan](https://github.com/adisiji)
+- [Christian](https://github.com/christiansgithub)
 - [Abhi](https://github.com/abhi010101)
 - [Narendra Mandadapu](https://github.com/scriptstar)
 - [tkuanlun350](https://github.com/tkuanlun350)
@@ -7102,4 +7108,4 @@ Kashish Khullar - :P
 - [HarryPark](https://github.com/phg98)
 - [Brenda-Fitz](https://github.com/brenda-fitz)
 - [Chris Walsh](https://github.com/taibhse)
-
+- [James Zhong](https://github.com/thebitspud)
