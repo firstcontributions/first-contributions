@@ -7031,3 +7031,4 @@ Kashish Khullar - :P
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [Ryan Doyle] (https://github.com/ryanmdoyle)
 - [Brent Robbins] (https://github.com/brentrobbins)
+- [Marco Petreri](https://github.com/marcopetreri)
