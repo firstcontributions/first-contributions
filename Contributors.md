@@ -167,6 +167,7 @@
 - [Mohit Yadav](https://github.com/mohityadav7)
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
+- [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
