@@ -7065,3 +7065,4 @@ Kashish Khullar - :P
 - [Yoga Agung Prasetio](https://github.com/yogaap24)
 - [blueetreebranch] (https://github.com/blueetreebranch)
 - [0dayherman] (https://github.com/0dayherman)
+- [christm] (https://github.com/clerity85)
