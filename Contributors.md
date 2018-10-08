@@ -7110,3 +7110,4 @@ Kashish Khullar - :P
 - [HarryPark](https://github.com/phg98)
 - [Brenda-Fitz](https://github.com/brenda-fitz)
 - [James Zhong](https://github.com/thebitspud)
+- [Chrissy Gonzalez](https://github.com/chrissygonzalez)
