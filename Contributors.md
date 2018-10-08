@@ -124,6 +124,7 @@
 - [Ajay]
 - [JLeneau](https://github.com/JLeneau)
 - [Wesley Clements] (https://github.com/WesleyClements)
+- [Rafael Framil] (https://github.com/raframil)
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [Alvin Ho](https://github.com/cureja)
