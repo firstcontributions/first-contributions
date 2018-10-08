@@ -5704,6 +5704,7 @@ Kashish Khullar - :P
 - [Tom Murphy](https://github.com/TomMurphyDev)
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
 - [Matthieu Tabuteau](https://github.com/maixiu)
+- [Pierre Pellegrin](https://github.com/Pielgrin)
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
