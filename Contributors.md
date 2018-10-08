@@ -594,6 +594,7 @@ Kashish Khullar - :P
 - [Izabela Cardozo](https://github.com/izabela963)
 - [Ashutosh Sangwan](https://github.com/ashkkr)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
+- [Keshav Seksaria](https://github.com/keshavseksaria)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Paresh Gupta](https://github.com/guptaparesh)
 - [Chit Thae Naing](https://github.com/chitthaenaing)
