@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
@@ -120,6 +120,7 @@
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
 - [John Doe]
+- [Emma Kingston](https://github.com/emmakingston)
 - [Kumar Abhijeet](https://github.com/kumar1202)
 - [Jerome Rumbaoa](https://github.com/jerumbaoa)
 - [Saurabh Kumar](https://github.com/saurabhkm)
