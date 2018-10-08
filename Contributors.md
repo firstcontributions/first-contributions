@@ -1,10 +1,12 @@
-﻿# Contributors
+# Contributors
 
+- [Rishab jain](https://github.com/rishabjn)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
 - [Dan Piazza](https://github.com/DanielJPiazza)
+- [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
@@ -13,6 +15,7 @@
 - [Satwato Dey](https://github.com/satwato)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
+- [Mitchell Fontaine] (https://github.com/mitchellfontainemn)
 - [Vu Nguyen] (https://github.com/vnguyen678)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
@@ -20,6 +23,7 @@
 - [KoGo Codeing] (https://github.com/KoGoCoding)
 - [Uzma Faiz] (https://github.com/uzmafaiz)
 - [Anshul Garg] (https://github.com/LHolmes69)
+- [Divik Mittal](https://github.com/divik544)
 - [Karthik Hegde] (https://github.com/karthikhegde05)
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
@@ -73,6 +77,7 @@
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
 - [Ariana](https://github.com/dabonadobe)
+- [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
 - [Michael](https://github.com/damoklov)
 - [Ganga S Nair](https://github.com/ganga1807)
@@ -104,6 +109,7 @@
 - [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
+- [JLeneau](https://github.com/JLeneau)
 - [Wesley Clements] (https://github.com/WesleyClements)
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
@@ -7002,6 +7008,7 @@ Kashish Khullar - :P
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
+- [Moeez Muhammad](https://github.com/Moeez-Muhammad)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Jaicke Santos] (https://github.com/Jaicke)
@@ -7014,3 +7021,5 @@ Kashish Khullar - :P
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [Maria Rayana] (https://github.com/mrayana)
+- [jwon114](https://github.com/jwon114)
+- [Nicole Moore] (https://github.com/Angelfirenze01)
