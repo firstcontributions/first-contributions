@@ -7026,3 +7026,4 @@ Kashish Khullar - :P
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [jwon114](https://github.com/jwon114)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
+- [Ryan Doyle] (https://github.com/ryanmdoyle)
