@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Rishab jain](https://github.com/rishabjn)
@@ -92,6 +92,7 @@
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Aditya]
 - [Ariana](https://github.com/dabonadobe)
+- [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
 - [Michael](https://github.com/damoklov)
