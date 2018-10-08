@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
@@ -147,6 +148,7 @@
 - [Prince]
 - [Sloknatos was here]
 - [Niharika Tammara]
+- [Ohmny Romero] (https://github.com/ohmnoms)
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
