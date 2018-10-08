@@ -143,6 +143,7 @@
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Priyanka]
+- [Sloknatos was here]
 - [Niharika Tammara]
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
