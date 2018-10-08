@@ -7078,4 +7078,5 @@ Kashish Khullar - :P
 - [Umang Raval](https://github.com/umangraval)
 - [Wesley Melo](https://github.com/wesmelo)
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
-- .[Magno Macedo de Oliveira](https://github.com/magnoDev)
+- [Magno Macedo de Oliveira](https://github.com/magnoDev)
+- [Hidde IJzerman](https://github.com/Hidduh)
