@@ -4889,6 +4889,7 @@ Kashish Khullar - :P
 - [Curtis Mac](https://github.com/CurtisMac)
 - [Phil Shaheen](https://github.com/pshaheen)
 - [Chris Honda](https://github.com/honda0306)
+- [Cas Spoelstra](https://github.com/cas-sl)
 - [Jitesh Golatkar](https://github.com/jgolatkar)
 - [Cristian Garcia](https://github.com/2940cristian)
 - [Kubra Ayvaz](https://github.com/kubraayvaz)
