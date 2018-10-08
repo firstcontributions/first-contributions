@@ -6943,6 +6943,7 @@ Kashish Khullar - :P
 - [Adeonir Kohl](https://github.com/adeonir)
 - [Brent Matos](https://github.com/matosBrent)
 - [Helen Dias](https://github.com/HelenDias)
+- [Vinod J](https://github.com/VinodVJ)
 - [Antonio Yee](https://github.com/antonioyee)
 - [Norman Vicente](https://github.com/normanaspx)
 - [Roman Leshchuk](https://github.com/Leroy1962)
