@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="../assets/join-slack-team.png">](https://firstcontributions.herokuapp.com)
+[<img align="right" src="../assets/join-slack-team.png" width="150">](https://firstcontributions.herokuapp.com)
 
 # "Contribute" ผลงานใน GitHub กับผู้อื่นครั้งแรกใช่ไหม?
 
