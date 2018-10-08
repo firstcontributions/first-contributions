@@ -24,7 +24,7 @@
 ## Fork（分叉）儲存庫
 
 點擊頁面上方的 Fork 圖示來 fork 儲存庫。
-這個操作會將儲存庫複製一份到你的 Github 帳號下。
+這個操作會將儲存庫複製一份到你的 GitHub 帳號下。
 
 ## Clone（複製）儲存庫
 
@@ -46,7 +46,7 @@ git clone "url you just copied"
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-`this-is-you` 指的是你自己的 Github 帳號。這一步，會將你的 first-contributions 這個儲存庫複製到本地電腦上。
+`this-is-you` 指的是你自己的 GitHub 帳號。這一步，會將你的 first-contributions 這個儲存庫複製到本地電腦上。
 
 ## 建立分支
 
