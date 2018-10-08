@@ -1,7 +1,12 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+<div dir="rtl">
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  </a>
+  [<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+</div>
 
 
 # প্রথম অবদান
@@ -10,7 +15,7 @@
 
 প্রবন্ধ পড়ে এবং টিউটোরিয়াল দেখে অনেক কিছুই শেখা যায়, কিন্তু ব্যবহারিক পদ্ধতিতে কাজ করার চেয়ে ভালো কিছু হতে পারে না। এই প্রজেক্টের লক্ষ্য হচ্ছে নবীনদের দিকনির্দেশনা দেওয়া আর সেই সাথে তাদের প্রথম অবদান রাখার কাজটি সহজ করে তোলা। আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের সহজ ধাপগুলো অনুসরণ করুন। কথা দিচ্ছি, এই প্রক্রিয়াটি অত্যন্ত মজার ও অানন্দদায়ক।
 
-#### *এই লেখাটি [অন্য ভাষা](../Translations.md)য় পড়ুন* 
+#### *এই লেখাটি [অন্য ভাষা](translations/Translations.md).*য় পড়ুন* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -89,7 +94,7 @@ git push origin <add-your-name>
 
 এখন *পুল রিকোয়েস্ট* সাবমিট করুন।
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 আমি যথা শীঘ্র সম্ভব আপনার পরিবর্তনগুলো এই প্রজেক্টের মাস্টার ব্রাঞ্চে মার্জ করব। মার্জ করা সম্পন্ন হলে আপনি একটি নিশ্চিতকরণ ই-মেইল পাবেন।
 

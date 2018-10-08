@@ -1,6 +1,6 @@
 ## 커밋을 다른 브랜치로 옮기기
 
-What if you commit a change, and then realize that you commited to a different branch?
+What if you commit a change, and then realize that you committed to a different branch?
 How can you change that? This is what this tutorial covers.
 만일 변경사항을 반영했는데 전혀 다른 브랜치에 커밋한 사실을 알았다면 어떻게할까요?
 이걸 어떻게 바로잡을 수 있을까요? 바로 이 장에서 다룰 내용입니다.
