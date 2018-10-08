@@ -746,6 +746,7 @@ Kashish Khullar - :P
 - [Mehmet Sahin] (https://github.com/mixemer)
 - [Michael Feninets](https://github.com/kopenhamn)
 - [Neveon](https://github.com/Neveon)
+- [Shmakova Anastasia] (https://github.com/shmakova)
 - [Bill Clark](https://github.com/billrobclark)
 - [Scott Wickersham](https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
