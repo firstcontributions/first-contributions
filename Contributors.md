@@ -30,6 +30,7 @@
 - [Vu Nguyen] (https://github.com/vnguyen678)
 - [Saksham Gupta] (https://github.com/sakshamgupta1074)
 - [Sarthak Bawal] (https://github.com/Sartech-B)
+- [Thomas Mort] (https://github.com/Tommygun200202)
 - [Arshdeep Singh Kawatra] (https://github.com/arshdeepsk)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
 - [Uzma Faiz] (https://github.com/uzmafaiz)
