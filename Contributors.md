@@ -7083,3 +7083,4 @@ Kashish Khullar - :P
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
 - [Magno Macedo de Oliveira](https://github.com/magnoDev)
 - [Hidde IJzerman](https://github.com/Hidduh)
+- [Lauren Eggers](https://github.com/Aliecake)
