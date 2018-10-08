@@ -23,6 +23,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
+[:slovakia:](translations/README.slk.md)
 [🇯🇵](translations/README.ja.md)
 [🇻🇳](translations/README.vn.md)
 [🇵🇱](translations/README.pl.md)
@@ -30,6 +31,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇷](translations/README.fa.en.md)
 [🇰🇷 🇰🇵](translations/README.ko.md)
 [🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
 [🇨🇳](translations/README.chs.md)
 [🇹🇼](translations/README.cht.md)
 [🇬🇷](translations/README.gr.md)
@@ -40,7 +42,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇵🇹](translations/README.pt-pt.md)
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
-[🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
+[🏴](translations/README.gl.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
@@ -48,7 +50,9 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
+[🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[🇲🇽](translations/README.mx.md)
 
 
 
@@ -102,12 +106,12 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. 
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes. 
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 
 Add those changes to the branch you just created using the `git add` command:
@@ -132,7 +136,7 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
+If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
