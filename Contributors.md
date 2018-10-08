@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
