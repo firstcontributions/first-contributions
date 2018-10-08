@@ -7068,3 +7068,4 @@ Kashish Khullar - :P
 - [0dayherman] (https://github.com/0dayherman)
 - [christm] (https://github.com/clerity85)
 - [Umang Raval](https://github.com/umangraval)
+- [Wesley Melo](https://github.com/wesmelo)
