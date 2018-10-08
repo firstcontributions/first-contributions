@@ -50,6 +50,7 @@ Evan Rives
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
+- [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Jacobian Det](https://github.com/JacobianDet)
 - [DarylBupt](https://github.com/darylbupt)
