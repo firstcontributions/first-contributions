@@ -7018,6 +7018,7 @@ Kashish Khullar - :P
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
 - [Alin Simion](https://github.com/alinsg)
+- [Silvia Stoyanova](https://github.com/SilviaSto)
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
 - [Mikael Eriksson](https://github.com/mmikaeleriksson)
