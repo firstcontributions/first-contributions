@@ -648,6 +648,7 @@ Kashish Khullar - :P
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
+- [Casey Price](https://github.com/casprice)
 - [Stephan Lyons](https://github.com/LyonsStephan/)
 - [Leonardo Silvestre](https://github.com/Khanatoshs)
 - [Prajwal Shetty](https://github.com/Prajwal041)
