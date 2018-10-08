@@ -96,6 +96,7 @@
 - [Akshit Goyal](https://github.com/akshit15013)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani]
+- [John Doe]
 - [Kumar Abhijeet](https://github.com/kumar1202)
 - [Jerome Rumbaoa](https://github.com/jerumbaoa)
 - [Saurabh Kumar](https://github.com/saurabhkm)
