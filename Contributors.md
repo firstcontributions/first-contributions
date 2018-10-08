@@ -62,6 +62,7 @@
 - [Ananya GUpta](https://github.com/AnanyaG-6)
 - [Matheus Barros] (https://github.com/bmatheus91)
 - [Kristy Currier] (https://github.com/kristycurrier)
+- [Shivayan Anand Bora](https://github.com/shivayanbora123)
 - [Hemil Patel](https://github.com/hemil96)
 - [Abbas Beydoun] (https://github.com/abbasbeydoun)
 - [<Explorer />](https://github.com/open-source-explorer)
