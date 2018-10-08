@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rishab jain](https://github.com/rishabjn)
 - [Sambhav Jain](https://github.com/sambhav1020)
@@ -7021,3 +7021,4 @@ Kashish Khullar - :P
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [jwon114](https://github.com/jwon114)
+- [Jewell Scott](https://github.com/jewellscott)
