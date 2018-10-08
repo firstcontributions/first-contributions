@@ -7,6 +7,7 @@
 - [Master] (https://github.com/munnikedost)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
+- [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
