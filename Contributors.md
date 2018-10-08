@@ -157,6 +157,7 @@
 - [Angela Reeder](http://github.com/lilac-reader)
 - [Brechin Andariese](https://github.com/Brechy)
 - [Darius Chandra](https://github.com/DariusChandra/first-contributions)
+- [NiteshNanda]
 - [AnirithP]
 - [chakradar]
 - [Nancy Lubalo]
