@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
@@ -108,6 +108,7 @@
 - [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay]
+- [JLeneau](https://github.com/JLeneau)
 - [Wesley Clements] (https://github.com/WesleyClements)
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
