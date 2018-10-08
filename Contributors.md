@@ -5,6 +5,7 @@
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
+- [Anjali Garg](https://github.com/AnjaliGarg13)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
