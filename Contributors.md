@@ -27,6 +27,7 @@
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Satwato Dey](https://github.com/satwato)
 - [Yixian Chen](https://github.com/yxnchen)
+- [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
 - [Sean Kim] (https://github.com/sungk44)
