@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Hemant Khandelwal](https://github.com/iamhem)
@@ -3678,6 +3678,7 @@ Kashish Khullar - :P
 - [Kiyun](https://github.com/kiyunkim)
 - [Lauren Clifford](https://github.com/lmclifford89)
 - [Elena Yatzeck](https://github.com/eyatzeck)
+- [Johannes Günther] (https://github.com/joaoyoanes)
 - [Dayo Ojo Jnr](https://github.com/flipponachi)
 - [Maikko Aleman](https://github.com/maikkoko/)
 - [Rasmus Bruun](https://github.com/Rallemus/)
