@@ -144,6 +144,7 @@
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Priyanka]
+- [Prince]
 - [Sloknatos was here]
 - [Niharika Tammara]
 - [Akshat](https://github.com/akshat14714)
