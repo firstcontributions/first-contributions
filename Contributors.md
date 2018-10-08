@@ -147,6 +147,7 @@
 - [Prince]
 - [Sloknatos was here]
 - [Niharika Tammara]
+- [Ohmny Romero] (https://github.com/ohmnoms)
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
