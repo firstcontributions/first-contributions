@@ -377,6 +377,7 @@ bilalsiraj
 - [Pranay Agarwal](https://github.com/pranayag)
 - [iamprayush](https://github.com/iamprayush)
 - [Greg Dardis](https://github.com/gregdardis)
+- [Filip Bång](https://github.com/baangfilip)
 - [Jessica M](https://github.com/emp-daisy)
 - [Batey Martin](https://github.com/D3RVUN1x)
 - [Tram Nguyen](https://github.com/nthtram)
