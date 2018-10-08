@@ -301,6 +301,7 @@ Jimmie Faulkner
 bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
+
 - [Tyler Stanley](https://github.com/tystanley)
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
@@ -818,7 +819,7 @@ Kashish Khullar - :P
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
 - [Muslim Razi](https://github.com/raz4)
-
+- [VJ Fernandez] (https://github.com/VJFernandez123)
 - [Danny Lan](https://github.com/ddlan)
 - [Shivam Chaudhary](https://github.com/andy6975)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
