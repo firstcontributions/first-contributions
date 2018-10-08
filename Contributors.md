@@ -11,6 +11,7 @@
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
 - [Dan Piazza](https://github.com/DanielJPiazza)
+- [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
