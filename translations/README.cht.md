@@ -18,7 +18,7 @@
 ## Fork（分叉）本代碼庫
 
 點擊圖示中的按鈕去 Fork 這個代碼庫。
-這個操作會將代碼庫分叉到你/妳的 Github 帳號下。
+這個操作會將代碼庫分叉到你/妳的 GitHub 帳號下。
 
 ## Clone（複製）代碼庫
 
@@ -87,7 +87,7 @@ git push origin <add-your-name>
 
 ## 提出 Pull Request 將你/妳的修改供他人審閱
 
-前往先前自己 Fork 的 Github 代碼庫，會看到一個 `Compare & pull request` 的按鈕。點擊該按鈕。
+前往先前自己 Fork 的 GitHub 代碼庫，會看到一個 `Compare & pull request` 的按鈕。點擊該按鈕。
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -117,7 +117,7 @@ git push origin <add-your-name>
 ## 原作者的自我行銷
 
 如果你/妳喜歡這個專案, 請給這個 [GitHub](https://github.com/Roshanjossey/first-contributions) 專案一顆星星 :star: 。
-如果妳/你覺得這超佛心, 可以 follow [Roshan](https://roshanjossey.github.io/) 的
+如果妳/你覺得這超佛心, 可以追蹤 [Roshan](https://roshanjossey.github.io/) 的
 [Twitter](https://twitter.com/sudo__bangbang) 和
 [GitHub](https://github.com/roshanjossey)。
 
