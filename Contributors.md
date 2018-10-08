@@ -1,5 +1,5 @@
 # Contributors
-- [Kanchan](https://github.com/KanchanThareja)
+
 - [Rishab jain](https://github.com/rishabjn)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Sambhav Jain](https://github.com/sambhav1020)
@@ -7027,3 +7027,4 @@ Kashish Khullar - :P
 - [jwon114](https://github.com/jwon114)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [Ryan Doyle] (https://github.com/ryanmdoyle)
+- [Kanchan](https://github.com/KanchanThareja)
