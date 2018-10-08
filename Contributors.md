@@ -1,5 +1,5 @@
 # Contributors
-
+- [Kanchan](https://github.com/KanchanThareja)
 - [Rishab jain](https://github.com/rishabjn)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Sambhav Jain](https://github.com/sambhav1020)
