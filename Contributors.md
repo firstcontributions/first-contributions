@@ -26,6 +26,7 @@
 - [Uzma Faiz] (https://github.com/uzmafaiz)
 - [Anshul Garg] (https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
+- [Berserker220] (https://github.com/Berserker220)
 - [Karthik Hegde] (https://github.com/karthikhegde05)
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
