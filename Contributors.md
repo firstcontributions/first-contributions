@@ -7089,3 +7089,4 @@ Kashish Khullar - :P
 - [Hidde IJzerman](https://github.com/Hidduh)
 - [Lauren Eggers](https://github.com/Aliecake)
 - [Prateek Arora](https://github.com/prarora98)
+- [Kari Merikanto] (https://github.com/karimerikanto)
