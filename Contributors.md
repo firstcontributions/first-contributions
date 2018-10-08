@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Hemant Khandelwal](https://github.com/iamhem)
@@ -7069,3 +7069,4 @@ Kashish Khullar - :P
 - [christm] (https://github.com/clerity85)
 - [Umang Raval](https://github.com/umangraval)
 - [Wesley Melo](https://github.com/wesmelo)
+- [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
