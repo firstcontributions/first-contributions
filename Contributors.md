@@ -2253,6 +2253,7 @@ Kashish Khullar - :P
 - [Paul Bergmeir](https://github.com/paulbrgmr)
 - [Prankur Verma](https://github.com/prankurverma)
 - [Dan Steren](https://github.com/dansteren)
+- [Devon Walker](https://github.com/devwalker)
 - [David Adebiyi](https://github.com/codetillamgone)
 - [Shoten](https://github.com/shotenxz)
 - [shajimon philip](https://github.com/shajiphilip22)
