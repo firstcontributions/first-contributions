@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Hattou Faïssal](https://github.com/Bakhaw)
 - [Rishab jain](https://github.com/rishabjn)
 - [Mahesh](https://github.com/mforgaian)
 - [Sandeep Sidhu](https://github.com/sandeepme)
@@ -51,6 +52,7 @@
 - [Yogita Bhatia] (https://github.com/Yogita98)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Tyrone Damasceno] (https://github.com/tyronedamasceno)
 - [Mahmoud Anwar] (https://github.com/mamoanwar)
 - [Egor Gorunovich] (https://github.com/titanolodon)
 - [tweekes1] (https://github.com/tweekes1)
@@ -5701,6 +5703,7 @@ Kashish Khullar - :P
 - [Heather Williams](https://github.com/yoheathur)
 - [Tom Murphy](https://github.com/TomMurphyDev)
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
+- [Matthieu Tabuteau](https://github.com/maixiu)
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
@@ -7043,3 +7046,4 @@ Kashish Khullar - :P
 - [Felix Grünewald](https://github.com/fgruen)
 - [Adhish Anand](https://github.com/adhishanand9)
 - [Roxana Oanes](https://github.com/roxyoanes)
+- [Prakhar Gupta](https://github.com/prakhar897)
