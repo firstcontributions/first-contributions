@@ -144,6 +144,7 @@
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Priyanka]
+- [Prince]
 - [Sloknatos was here]
 - [Niharika Tammara]
 - [Akshat](https://github.com/akshat14714)
@@ -7089,4 +7090,6 @@ Kashish Khullar - :P
 - [Hidde IJzerman](https://github.com/Hidduh)
 - [Lauren Eggers](https://github.com/Aliecake)
 - [Prateek Arora](https://github.com/prarora98)
+- [HarryPark](https://github.com/phg98)
+- [Brenda-Fitz](https://github.com/brenda-fitz)
 - [Kari Merikanto] (https://github.com/karimerikanto)
