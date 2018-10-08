@@ -15,12 +15,12 @@
 
 如果你的電腦上尚未安裝 git, 請按照這個[ 安裝指引(英文) ](https://help.github.com/articles/set-up-git/)進行安裝。
 
-## Fork（分叉）本代碼庫
+## 分叉（Fork）本代碼庫
 
 點擊圖示中的按鈕去 Fork 這個代碼庫。
 這個操作會將代碼庫分叉到你/妳的 GitHub 帳號下。
 
-## Clone（複製）代碼庫
+## 複製（Clone）代碼庫
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
