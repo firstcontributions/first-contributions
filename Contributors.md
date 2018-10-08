@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Hattou Faïssal](https://github.com/Bakhaw)
 - [Rishab jain](https://github.com/rishabjn)
 - [Mahesh](https://github.com/mforgaian)
 - [Sandeep Sidhu](https://github.com/sandeepme)
