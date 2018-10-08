@@ -61,7 +61,7 @@ git checkout -b add-david
 
 (新分支的名稱不一定需要有* add *。然而，在這個新分支的名稱加入* add *是一件合理的事情，因為這個分支的目的是將妳/你的名字添加到貢獻者列表中。)
 
-## 對程式碼進行修改，然後 Commit (提交) 修改
+## 對程式碼進行修改，然後提交 (Commit)) 修改
 
 使用妳/你喜歡的文字編輯器打開 `Contributors.md` 這個文件，更新文件內容，將自己的名字加上去，然後存檔。在命令窗口執行 `git status` ，這會列出被更動的文件。接著 `git add` 這命令則可以添加更動項目到分支裡，就像以下這條命令。
 
@@ -77,7 +77,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 將 `<your-name>` 替換為自己的名字
 
-## 將更動 Push（發佈）到 GitHub
+## 將更動發佈（Push）到 GitHub
 
 使用 `git push` 命令發佈代碼
 ```
