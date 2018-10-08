@@ -62,6 +62,7 @@
 - [Alexey Salangin](https://github.com/magauran)
   [Jatin Aggarwal] (https://github.com/jatinagg1)
 - [diproIV]
+- [Sahaj Vaghasiya] (https://github.com/Sahaj8)
 - [jlly](https://github.com/tcjill)
 - [Pushkar](https://github.com/linton-dawson)
 - [DSdatsme](https://github.com/DSdatsme)
