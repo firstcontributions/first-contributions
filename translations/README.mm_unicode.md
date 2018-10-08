@@ -1,5 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 # ပထမအကြိမ် ကူညီထောက်ပံခြင်း
 
@@ -87,11 +89,11 @@ git push origin <add-your-name>
 
 အခုဆို pull request လုပ်ဖို့အဆင်သင့်ဖြစ်သွားပါပြီး။
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
-### [ Additional material ](../additional-material/git_workflow_senarios/additional-material.md)
+### [ Additional material ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 

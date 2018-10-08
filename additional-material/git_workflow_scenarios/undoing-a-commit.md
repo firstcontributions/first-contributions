@@ -50,6 +50,6 @@ $ git commit -m "Continued dev"
 # Decided to remove the whole things
 $ git reset --hard HEAD~2
 ```
-The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points in the same time reverting all changes you have made and remove the 2 snapshost we have just created from project history.
+The ```git reset --hard HEAD~2``` moves the current branch backward by 2 commit points in the same time reverting all changes you have made and remove the 2 snapshot we have just created from project history.
 
 P.s. Never perform ```git reset --hard``` if you've already pushed your commits to a shared repository as it will cause problems to everyone on that repository.

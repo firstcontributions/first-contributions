@@ -22,7 +22,7 @@ This document provides information about how to move a Commit to another Branch.
 This document provides information about how to remove a file from your local repository.
 > Follow these steps to learn how to remove a file prior to a commit
 
-### [Removing branch from your repository](removing-branch-from-your-repository.md)
+### [Removing a branch from your repository](removing-branch-from-your-repository.md)
 This document provides information about how to delete a branch from your repository.
 > Only do these steps after your pull request get's merged.
 
@@ -31,7 +31,7 @@ This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
 ### [Reverting a commit](reverting-a-commit.md)
-This document provides information about how to revert a commit on the remote repository. It comes in handy in case you when you need to undo a commit that has already been pushed to Github.
+This document provides information about how to revert a commit on the remote repository. It comes in handy in case for when you need to undo a commit that has already been pushed to Github.
 > Take these steps if you want to reverse a commit.
 
 ### [Squashing Commits](squashing-commits.md)
