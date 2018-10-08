@@ -6976,6 +6976,7 @@ Kashish Khullar - :P
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
+- [Jonathan Chiou](https://github.com/Chiouonthis)
 - [Alin Simion](https://github.com/alinsg)
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
@@ -6984,5 +6985,6 @@ Kashish Khullar - :P
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
-[Eric Ng](https://github.com/nacleric)
-[rachitmanchanda](https://github.com/rachitmanchanda)
+- [Eric Ng](https://github.com/nacleric)
+- [rachitmanchanda](https://github.com/rachitmanchanda)
+
