@@ -3572,6 +3572,7 @@ Kashish Khullar - :P
 - [Apoorv Kumar](https://github.com/apoorvkumar91)
 - [Shubham Bharti](https://github.com/AceRoger)
 - [Trishla Verma](https://github.com/trishla08)
+- [Michael Altenburger](https://github.com/v3rtumnus)
 - [Il? Caian Gums](https://github.com/caian-gums)
 - [Robert Trigg](https://github.com/rtrigg)
 - [Brian](https://github.com/lastnoise)
