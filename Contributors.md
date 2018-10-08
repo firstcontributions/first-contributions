@@ -1,5 +1,6 @@
 # Contributors
 
+- [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
@@ -24,8 +25,10 @@
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Tomas Ye](https://github.com/TomasDavidYe)
+- [Colton Boston](https://github.com/ColtonBoston)
 - [Satwato Dey](https://github.com/satwato)
 - [Yixian Chen](https://github.com/yxnchen)
+- [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
 - [Sean Kim] (https://github.com/sungk44)
@@ -88,6 +91,7 @@
 - [Mahdi HB](https://github.com/mhb8898)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
+- [Snir The Man]
 - [Dimitris Kokkaliaroglou] (https://github.com/loxagossnake)
 - [Alexey Salangin](https://github.com/magauran)
   [Jatin Aggarwal] (https://github.com/jatinagg1)
@@ -364,6 +368,7 @@ bilalsiraj
 - [Natalie Roberts]()
 - [Ayush Jindal]()
 - [Xabifk](https://github.com/Xabifk)
+- [Galixxon](https://github.com/Galixxon)
 - [Casey-McCray](https://github.com/Casey-McCray)
 - [Smaranda](https://github.com/sdersc)
 - [Dan Pham](https://github.com/hdp617)
@@ -375,6 +380,7 @@ bilalsiraj
 - [c-kirkeby](https://github.com/c-kirkeby)
 - Andrea Catania
 - [Matt McCherry](https://github.com/MattMcCherry/)
+- [Rehan jananga](https://github.com/rehanj)
 - [Saksham Jain](https://github.com/bhavayAnand9)
 - [Shubham Bhandari](https://github.com/dev-SB)
 - [rohit katlaa r](https://github.com/rohitkatlaa)
@@ -589,6 +595,7 @@ Kashish Khullar - :P
 - [Izabela Cardozo](https://github.com/izabela963)
 - [Ashutosh Sangwan](https://github.com/ashkkr)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
+- [Keshav Seksaria](https://github.com/keshavseksaria)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
 - [Paresh Gupta](https://github.com/guptaparesh)
 - [Chit Thae Naing](https://github.com/chitthaenaing)
@@ -5734,6 +5741,7 @@ Kashish Khullar - :P
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
 - [Matthieu Tabuteau](https://github.com/maixiu)
 - [Pierre Pellegrin](https://github.com/Pielgrin)
+  Malik Couchy
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
@@ -7094,3 +7102,4 @@ Kashish Khullar - :P
 - [HarryPark](https://github.com/phg98)
 - [Brenda-Fitz](https://github.com/brenda-fitz)
 - [Chris Walsh](https://github.com/taibhse)
+
