@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rishab jain](https://github.com/rishabjn)
+- [Sandeep Sidhu](https://github.com/sandeepme)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Anushka Svara](https://github.com/dumbcoder2399)
