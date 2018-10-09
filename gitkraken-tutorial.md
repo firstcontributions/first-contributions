@@ -36,13 +36,13 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File->Clone Repo.
+In GitKraken, go to File-> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
 
 
-Select GitHub.com in the right pane.  Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
+Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
 
 Once you're satisfied with the path, click "Clone the repo!".
 
@@ -103,11 +103,7 @@ If you go to your repository on github, you'll see  `Compare & pull request` but
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
-
-Resolve conflicts if any.
-
-<img style="float: right;" src="assets/resolve-conflicts.png" alt="resolve conflicts" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
