@@ -350,6 +350,7 @@ Evan Rives
 - [Divyanshi Mangal](https://github.com/divyanshidm)
 - [Christy Oommen Varghese](https://github.com/christyoommenvarghese)
 - [Maharajan Eswaramoorthy](https://github.com/meswaramoorthy)
+- [Wyatt J. Miller](https://github.com/wymillerlinux)
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Sahaj Kulshrestha](https://github.com/Sahaj21)
