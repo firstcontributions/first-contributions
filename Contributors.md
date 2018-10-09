@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
@@ -3059,6 +3059,7 @@ Kashish Khullar - :P
 - [Soumil Ghosh](https://github.com/lonewolf16)
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
 - [Sally Chin](https://github.com/summerhopes)
+- [Sanduni Wickramathunga]  (https://github.com/sanduniYW)
 - [Darian Low](https://github.com/shoe17)
 - [John Hinson](https://github.com/jlhinson)
 - [Anubhav Patel](https://github.com/anubhavp28)
