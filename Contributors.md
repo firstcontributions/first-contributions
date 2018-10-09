@@ -6996,6 +6996,7 @@ Kashish Khullar - :P
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
 - [Caio Augusto](https://github.com/caioag)
+- [Viktor Schmidt](https://github.com/prozax)
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
