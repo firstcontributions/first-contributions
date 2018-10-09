@@ -7154,6 +7154,7 @@ Kashish Khullar - :P
 - [Bruno Silva] (https://github.com/brunorgs)
 - [Josh Horwitz] (https://github.com/jdhorwitz)
 - [Breindy] (https://github.com/breindy)
+- [Johny] (https://github.com/johnykuz)
 - [Royce Dy] (https://github.com/rad182)
 - [caow2] (https://github.com/caow2)
 - [Luca Bruzzone] (https://github.com/unsign3d)
