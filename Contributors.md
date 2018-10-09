@@ -7098,6 +7098,7 @@ Kashish Khullar - :P
 - [Hossam Eissa] (https://github.com/HosamEissa)
 - [Jaicke Santos] (https://github.com/Jaicke)
 - [benzammour] (https://github.com/benzammour)
+- [Shubham Patil](https://github.com/shubham76)
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
 - [Danilo Arantes](https://github.com/daniloarantes)
