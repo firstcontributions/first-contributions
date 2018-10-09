@@ -5765,6 +5765,7 @@ Kashish Khullar - :P
 - [Zak Shatila](https://github.com/zakshatila)
 - [Emilio Bernal](https://github.com/eBernalZ)
 - [Devjyoti Datta](https://github.com/Dev05)
+- [Charlotte Newcomer](https://github.com/FamNew)
 - [Ron Forbes](https://github.com/ronforbes)
 - [Jack Mead](https://github.com/JM3ad)
 - [Elijah Templeton](https://github.com/AutoluxAfter)
