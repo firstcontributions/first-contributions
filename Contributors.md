@@ -7259,3 +7259,4 @@ Kashish Khullar - :P
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Himanshu Sah](https://github.com/himanshusah)
+- [Chris Srance](https://github.com/csprance)
