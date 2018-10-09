@@ -1,5 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # "Contribute" ผลงานใน GitHub กับผู้อื่นครั้งแรกใช่ไหม?
 
@@ -95,7 +97,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 ตอนนี้ก็ส่ง Pull Request ไปที่โปรเจ็คต้นน้ำได้เลย
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 แล้วเดี๋ยวเราจะ "Merge" หรือรวมผลงานที่คุณได้เปลี่ยนแปลงโค้ดมาที่ master branch ของโปรเจ็คนี้ คุณจะได้รับอีเมลล์ เมื่อเราได้ทำการ Merge ผลงานของคุณเรียบร้อยแล้ว
 
@@ -107,7 +109,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่นๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
 
-### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_senarios/additional-material.md)
+### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่นๆ
 
@@ -121,3 +123,6 @@ git push origin <ชื่อ branch ของคุณ>
 หากคุณชอบโครงการนี้ สามารถกดดาวไว้บน [GitHub](https://github.com/Roshanjossey/first-contributions) ได้ หรือหากรู้สึกดีเป็นพิเศษสามารถติดตาม [Roshan](https://roshanjossey.github.io/) บน
 [Twitter](https://twitter.com/sudo__bangbang) และ
 [GitHub](https://github.com/roshanjossey) ได้
+
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
+
