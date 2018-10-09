@@ -13,6 +13,7 @@
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master] (https://github.com/munnikedost)
+- [sandeep] (https://github.com/sandeepsanjusplr)
 - [Said Garcia](https://github.com/saidg23) 
 - [Sudhanshu] (https://github.com/capreyon)
 - [Mahesh Tudu] (https://github.com/mahis929)
