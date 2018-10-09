@@ -129,7 +129,7 @@ git push origin "add-your-name"
 
 <div dir="rtl">دلوقتي هتسلم طلبك لصاحب المشروع الأساسي عشان يراجع عليه، في الحالة دي الطلب بتاعك هيوصلي. </div>
 
-<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 <div dir="rtl">بعد المراجعة هدمج تغيرراتك للفرع الرئيسي في المشروع. وهيتم تنبيهك عن طريق البريد الإلكتروني بدة.</div>
 
