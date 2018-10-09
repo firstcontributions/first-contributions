@@ -15,6 +15,8 @@
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [ThankGod Egbo](https://github.com/thatruth24)
 - [Sandeep Sidhu](https://github.com/sandeepme)
+- [Master](https://github.com/munnikedost)
+- [Kasi Venkata Sai](https://github.com/kasivenkatasao)
 - [Neale Forrest](https://github.com/gumpie)
 - [Master](https://github.com/munnikedost)
 - [sandeep](https://github.com/sandeepsanjusplr)
