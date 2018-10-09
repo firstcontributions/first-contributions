@@ -7252,5 +7252,7 @@ Kashish Khullar - :P
 - [Osama Azmi](https://github.com/Samuelimza)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
+- [Pedro Vicari](https://github.com/pvicari)
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
+- [Himanshu Sah](https://github.com/himanshusah)
