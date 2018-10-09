@@ -75,6 +75,7 @@
 - [Satwato Dey](https://github.com/satwato)
 Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
+- [Gabriele Corti](https://github.com/borntofrappe)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
