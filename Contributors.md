@@ -7117,3 +7117,4 @@ Kashish Khullar - :P
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
+- [Bruno Silva] (https://github.com/brunorgs)
