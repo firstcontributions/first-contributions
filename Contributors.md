@@ -1,7 +1,9 @@
 ﻿# Contributors
 
 - [Agustin Vargas](https://github.com/chikiwawa)
+- [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
+- [Raj Rani](https://github.com/ARsquare)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
@@ -28,6 +30,7 @@
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
 - [Sambhav Jain](https://github.com/sambhav1020)
+- [Walter Palagi](https://github.com/walterpalagi)
 - [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Daniel Menachem](https://github.com/doom3007)
@@ -67,6 +70,7 @@ Evan Rives
 - [Mason D] (https://github.com/Twileigh)
 - [Anshul Garg] (https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
+- [Phoutsaksit Keomala](https://github.com/KeomalaP)
 - [Berserker220] (https://github.com/Berserker220)
 - [Karthik Hegde] (https://github.com/karthikhegde05)
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
@@ -142,6 +146,7 @@ Evan Rives
 - [Aditya]
 - [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
+- [Ujjawal Jaiswal](https://github.com/ujjawaljaiswal2017)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
@@ -197,6 +202,7 @@ Evan Rives
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
+- [Deep Mehta](https://github.com/deep-mm)
 - [Adam Austin](https://github.com/h3x)
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [James Featherstone](https://github.com/jfeathe)
@@ -3136,6 +3142,7 @@ Kashish Khullar - :P
 - [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
+[Dylan Viranyi](https://github.com/viranyidylan)
 - [Daniel Osiney](https://github.com/dharnnie)
 - [Gilliano Menezes](https://github.com/gillianomenezes)
 - [Alex Weininger](https://github.com/alexweininger)
@@ -7199,3 +7206,7 @@ Kashish Khullar - :P
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
 - [Aniket Teotia](https://github.com/anikett12)
+- [Bailram](https://github.com/bailram)
+- [Berserker220] (https://github.com/Berserker220)
+- [Jaydeep Eraniya](https://github.com/Jaydeep1617)
+- [Nipun Dayanath](https://github.com/nipund)
