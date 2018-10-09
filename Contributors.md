@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Mayur Madnani](https://github.com/mayurmadnani/)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
@@ -5144,7 +5145,6 @@ Kashish Khullar - :P
 - [Kyle Gildea](https://github.com/kylegildea)
 - [Amrutha A J](https://github.com/amrutha-a-j)
 - [S Chua](https://github.com/graphcalibur)
-- [Kanchan](https://github.com/KanchanThareja)
 - [Matthew Chung](https://github.com/mchuuung)
 - [Junaid Zubair Shaikh](https://github.com/junaidzubairshaikh)
 - [Simon Niu](https://github.com/s18692001)
@@ -7264,5 +7264,3 @@ Kashish Khullar - :P
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Himanshu Sah](https://github.com/himanshusah)
-- [Nicole Moore] (https://github.com/Angelfirenze01)
-- [Ryan Doyle] (https://github.com/ryanmdoyle)
