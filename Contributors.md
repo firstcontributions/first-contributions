@@ -7180,3 +7180,4 @@ Kashish Khullar - :P
 - [Christian Mitter](https://github.com/chrismitterTSS)
 - [Muhammad Hafidz](https://github.com/ciazhar)
 - [Heinz Burtscher](https://github.com/znekar)
+- [Francesco Cipolla](https://github.com/Atlas80b)
