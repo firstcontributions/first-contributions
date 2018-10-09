@@ -7273,3 +7273,6 @@ Kashish Khullar - :P
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [ZWTan](https://github.com/zwtan)
+- [Eric Ng](https://github.com/nacleric)
+- [rachitmanchanda](https://github.com/rachitmanchanda)
+- [Zaynaib Giwa](https://github.com/zaynaib)
