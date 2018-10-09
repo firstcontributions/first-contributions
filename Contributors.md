@@ -12,6 +12,7 @@
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
+- [Jamie Townsend](https://github.com/diginari)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Alexander Le] (https://github.com/AlexanderDLe)
 - [Urszula](https://github.com/CebUleczka)
