@@ -8,6 +8,7 @@
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Alexander Le] (https://github.com/AlexanderDLe)
 - [Yaderson Patiño](https://github.com/yaderson)
+- [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Lucas Gomes](https://github.com/lukasg18)
