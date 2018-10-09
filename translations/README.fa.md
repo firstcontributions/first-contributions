@@ -84,7 +84,7 @@
 وجود داره . روش کلیک کن</p>
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 <p dir="rtl">حالا دستور پل رو ثبت کن</p>
-<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 <p dir="rtl">بزودی من تمام تغیرات تو رو به شاخه اصلی این پروژه اضافه میکنم
 زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
 <h2 dir="rtl">
@@ -92,10 +92,10 @@
 <p dir="rtl">مشارکتت جشن بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
 <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
 <p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
-<a href="https://firstcontributions.herokuapp.com" rel="nofollow">Join slack team</a>.</p>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
 <p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
 <h3 dir="rtl">
-<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_senarios/additional-material.md">Additional material</a>
+<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_scenarios/additional-material.md">Additional material</a>
 </h3>
 <h2 dir="rtl">
 <a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>

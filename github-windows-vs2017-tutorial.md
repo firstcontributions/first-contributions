@@ -121,7 +121,7 @@ In your repo on GitHub you'll see the `Compare & pull request` button next to th
 
 Now submit the pull request.
 
-<img src="assets/submit-pull.png" alt="submit pull request" />
+<img src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
@@ -135,7 +135,7 @@ You can join our slack team in case you need any help or have any questions. [Jo
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools
