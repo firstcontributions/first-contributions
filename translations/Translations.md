@@ -3,7 +3,7 @@
 |  | Translated Link |
 | --- | --- |
 | 🇮🇳 | [हिन्दी](README.hi.md) |
-| 🚩 | [मराठी](README.mr.md) |
+| 🇮🇳 | [मराठी](README.mr.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
