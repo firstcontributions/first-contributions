@@ -350,6 +350,7 @@ bilalsiraj
 - [Emily Colón](https://github.com/emilycolon)
 - [Antonio Neto](https://github.com/aacgn)
 - [Pablo Rey](https://github.com/PFeynman)
+- [Austin Simon](https://github.com/austinsimon)
 - [Francesco Zardi](https://github.com/frazar)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
