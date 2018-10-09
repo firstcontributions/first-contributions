@@ -1,5 +1,6 @@
 # Contributors
 
+- [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
