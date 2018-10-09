@@ -26,6 +26,7 @@
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
 - [Sambhav Jain](https://github.com/sambhav1020)
+- [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
