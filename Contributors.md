@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
