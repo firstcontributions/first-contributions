@@ -9,6 +9,7 @@
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
+- [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Sean Kim] (https://github.com/sungk44)
