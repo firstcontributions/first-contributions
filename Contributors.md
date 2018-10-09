@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
