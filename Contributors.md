@@ -11,6 +11,7 @@
 - [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
 - [Jeremy Fox](https://github.com/jeremyfox36)
+- [ThankGod Egbo](https://github.com/thatruth24)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Neale Forrest](https://github.com/gumpie)
 - [Master] (https://github.com/munnikedost)
