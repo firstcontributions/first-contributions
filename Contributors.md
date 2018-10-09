@@ -79,6 +79,7 @@ Evan Rives
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
+- [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Raghav Grover](https://github.com/raghav7997)
