@@ -197,6 +197,7 @@ Evan Rives
 - [Akshat](https://github.com/akshat14714)
 - [Tina Ngo]
 - [Lucas Binder](https://github.com/lbinder)
+- [Deep Mehta](https://github.com/deep-mm)
 - [Adam Austin](https://github.com/h3x)
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [James Featherstone](https://github.com/jfeathe)
