@@ -6971,6 +6971,7 @@ Kashish Khullar - :P
 - [gdim7](https://github.com/gdim7)
 - [Tomas K](https://github.com/tomaskul/)
 - [StefanDu](https://github.com/StefanDu)
+- [JirayuL](https://github.com/JirayuL)
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Ugurkan Ates](https://github.com/ugurkanates)
