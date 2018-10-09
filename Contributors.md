@@ -132,6 +132,7 @@ Evan Rives
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
 - [Igor Puchkov] (https://github.com/IgorPuchkov2003)
+- [Martin Javorka] (https://github.com/mjavorka)
 - [Kumar Kaniska](https://github.com/imkaniska23)
 - [Ganesh Majhi] (https://github.com/ganeshmajhi)
 - [Krizza Bullecer] (https://github.com/sirbully)
