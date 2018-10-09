@@ -3136,6 +3136,7 @@ Kashish Khullar - :P
 - [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
+[Dylan Viranyi](https://github.com/viranyidylan)
 - [Daniel Osiney](https://github.com/dharnnie)
 - [Gilliano Menezes](https://github.com/gillianomenezes)
 - [Alex Weininger](https://github.com/alexweininger)
