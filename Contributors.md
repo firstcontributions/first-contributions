@@ -7151,6 +7151,7 @@ Kashish Khullar - :P
 - [RonLek](https://github.com/RonLek)
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
+- [Alex]
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
