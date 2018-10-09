@@ -8,6 +8,7 @@
 - [Raj Rani](https://github.com/ARsquare)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Alexander Le] (https://github.com/AlexanderDLe)
+- [Urszula](https://github.com/CebUleczka)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Geri Adam](https://github.com/geriadam)
