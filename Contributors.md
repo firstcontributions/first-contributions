@@ -1,5 +1,6 @@
 # Contributors
 
+- [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
