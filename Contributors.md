@@ -129,6 +129,7 @@ Evan Rives
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Hayden Sykes](https://github.com/hasykes)
 - [Aditya]
+- [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
