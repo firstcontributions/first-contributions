@@ -13,6 +13,7 @@
 - [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
 - [Jeremy Fox](https://github.com/jeremyfox36)
+- [Jeremie Daniel](https://github.com/jeremie1112)
 - [ThankGod Egbo](https://github.com/thatruth24)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master](https://github.com/munnikedost)
