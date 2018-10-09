@@ -2784,6 +2784,7 @@ Kashish Khullar - :P
 - [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena](https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
+- [Fabio Leardini](https://github.com/fabioleardini)
 - [Kirill Motkov](https://github.com/sosiska)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
 - [masta-bhawk](https://github.com/masta-bhawk)
