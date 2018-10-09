@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Mohit Routela](https://github.com/mohitroutela)
+- [Tran Tien Anh Ta](https://github.com/ricosandard)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
