@@ -77,6 +77,7 @@ Evan Rives
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Prateek Sharma](https://github.com/prateeksharma21)
+- [Aakarshita Tiwari](https://github.com/LeCeee)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
