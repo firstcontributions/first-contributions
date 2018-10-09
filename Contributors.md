@@ -456,6 +456,7 @@ bilalsiraj
 - [Adina Budriga](https://github.com/AdinaBudriga)
 - [Caleb Francisco](https://github.com/calebjfrancisco)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
+- [Bharat kathuria] (https://github.com/bharatck)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikki Sharpley](https://github.com/nikk15)
