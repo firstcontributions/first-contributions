@@ -142,6 +142,7 @@ Evan Rives
 - [Aditya]
 - [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
+- [Ujjawal Jaiswal](https://github.com/ujjawaljaiswal2017)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
