@@ -1,7 +1,6 @@
-﻿# Contributors
+# Contributors
 
 - [Mohit Routela](https://github.com/mohitroutela)
-- [Tran Tien Anh Ta](https://github.com/ricosandard)
 - [Byungjin Park](https://github.com/posquit0)
 - [palak bansal](https://github.com/bansal51197)
 - [Mohammad Anas](https://github.com/zns-20)
@@ -139,6 +138,7 @@
 - [Nicholas Ko](https://github.com/Mailnickko)
 - [Sagar Kumar](https://github.com/sagarkrsd)
 - [Jason Cole](https://github.com/jaymcole)
+- [Tran Tien Anh Ta](https://github.com/ricosandard)
 - [Prateek Vijayvergiya](https://github.com/prateekvijayvergiya)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
