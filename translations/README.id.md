@@ -41,7 +41,7 @@ git clone https://github.com/username-anda/first-contributions.git
 ```
 Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Membuat Branch
+## Membuat Cabang
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
@@ -57,7 +57,7 @@ Contoh:
 ```
 git checkout -b add-alonzo-church
 ```
-(Nama cabang tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
+(Nama cabang tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam daftar.)
 
 ## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
@@ -96,7 +96,7 @@ Cabang master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. U
 
 ## Membuat fork anda selaras dengan repositori ini
 
- Pertama, ganti posisi ke branch master.
+ Pertama, ganti posisi ke cabang master.
  ```
  git checkout master
  ```
@@ -109,7 +109,7 @@ Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang t
 git fetch upstream
 ```
 
-Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam branch master milik anda.
+Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam cabang master milik anda.
 ```
 git rebase upstream/master
 ```
@@ -127,7 +127,7 @@ dan anda dapat menghapus versi tersebut yang ada di repositori remote:
 ```
 git push origin --delete <add-nama>
 ```
-Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
+Hal ini sebenarnya tidak diperlukan namun nama dari cabang ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
 
 ## Tutorial Menggunakan Tools Lain
 
