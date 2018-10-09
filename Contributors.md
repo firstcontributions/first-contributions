@@ -2394,6 +2394,7 @@ Kashish Khullar - :P
 - [Justin Mills](https://github.com/jbmills327)
 - [Matthew Smith](https://github.com/msmith710)
 - [Frank Mcdonald](https://github.com/Morecai)
+- [Cody Rodriguez](https://github.com/crod93)
 - [Shade Ruangwan](https://github.com/sruangwan)
 - [Ania Brajtkopf](https://github.com/anya92)
 - [AlphaSoldier](https://github.com/AlphaSoldier)
