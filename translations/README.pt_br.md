@@ -113,7 +113,7 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Autopromoção
+## Siga-nos
 
 Se você gostou deste projeto, favorite-o com um estrela no [GitHub](https://github.com/Roshanjossey/first-contributions).
 Se estiver se sentindo especialmente caridoso, siga [Roshan](https://roshanjossey.github.io/) no
