@@ -57,12 +57,12 @@
 
 如果你的電腦上尚未安裝 git，請按照這個[安裝指引（英文）](https://help.github.com/articles/set-up-git/)進行安裝。
 
-## Fork（分叉）本儲存庫
+## 分叉（Fork）本代碼庫
 
 點選圖示中的按鈕來 Fork 這個 Git 儲存庫。
 這個操作會將儲存庫分叉到你/妳的 GitHub 帳號下。
 
-## Clone（複製）儲存庫
+## 複製（Clone）代碼庫
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
@@ -103,7 +103,7 @@ git checkout -b add-david
 
 （新分支的名稱不一定需要有 *add*。然而，在這個新分支的名稱加入 *add* 是一件合理的事情，因為這個分支的目的是將妳/你的名字添加到貢獻者列表中。）
 
-## 對程式碼進行修改，然後 Commit (提交) 修改
+## 對程式碼進行修改，然後提交 (Commit)) 修改
 
 使用妳/你喜歡的文字編輯器打開 `Contributors.md` 這個文件，更新文件內容，將自己的名字加上去，然後存檔。在命令窗口執行 `git status`，這會列出被更動的文件。接著 `git add` 這命令則可以添加更動項目到分支裡，就像以下這條命令。
 
@@ -119,7 +119,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 將 `<your-name>` 替換為自己的名字
 
-## 將更動 Push（發佈）到 GitHub
+## 將更動發佈（Push）到 GitHub
 
 使用 `git push` 命令發佈代碼
 ```
@@ -159,7 +159,7 @@ git push origin <add-your-name>
 ## 原作者的自我行銷
 
 如果你/妳喜歡這個專案, 請給這個 [GitHub](https://github.com/Roshanjossey/first-contributions) 專案一顆星星 :star: 。
-如果妳/你覺得這超佛心, 可以 follow [Roshan](https://roshanjossey.github.io/) 的
+如果妳/你覺得這超佛心, 可以追蹤 [Roshan](https://roshanjossey.github.io/) 的
 [Twitter](https://twitter.com/sudo__bangbang) 和
 [GitHub](https://github.com/roshanjossey)。
 
