@@ -1,4 +1,5 @@
 # Contributors
+
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
@@ -564,6 +565,7 @@ bilalsiraj
 - [Tanmay Singhal](https://github.com/tanmaysinghal98)
 - [Wh1t3fang](https://github.com/wh1t3fang)
 - [Arogore](https://github.com/arogore)
+- [Feedy](https://github.com/FeedyFeedback)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Feedy](https://github.com/FeedyFeedback)
 - [AdrianTeri](https://github.com/Adrianteri)
