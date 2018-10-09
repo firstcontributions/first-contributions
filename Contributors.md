@@ -184,6 +184,7 @@ Evan Rives
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [Alvin Ho](https://github.com/cureja)
+- [Christian Coan](https://github.com/christiancoan)
 - [AyushJindal]
 - [Nikunj JIndal]
 - [Priyanka]
