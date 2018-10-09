@@ -6691,6 +6691,7 @@ Kashish Khullar - :P
 - [A NJ](https://github.com/adarshnj)
 - [Ng Yang Theng](https://github.com/yangtheng)
 - [Barbara](https://github.com/bnibia)
+- [Umberto](https://github.com/umbeebmu)
 - [Derek Lorimer](https://github.com/DerekLorimer)
 - [Ankit Sinha](https://github.com/ankisinha3005)
 - [Michael Pollente](https://github.com/polykhel)
