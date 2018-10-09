@@ -107,6 +107,7 @@ Evan Rives
 - [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
 - [Rockwell Shabani](https://github.com/Rockwell70)
+- [Hayden Sykes](https://github.com/hasykes)
 - [Aditya]
 - [Ariana](https://github.com/dabonadobe)
 - [Hella](https://github.com/HellaPinot)
