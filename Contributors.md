@@ -1950,6 +1950,7 @@ Kashish Khullar - :P
 - [Vinod K](https://github.com/vinodkoliyat)
 - [Dino Daniel](https://github.com/dinodn)
 - [SVinodh](https://github.com/paintedskies)
+- [Freudianslip99] (https://github.com/freudianslip99)
 - [Uche Osahor](https://github.com/Electronicshelf)
 - [dadading](https://github.com/dadading)
 - [Amith Kalathil](https://github.com/amithkr)
