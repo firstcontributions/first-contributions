@@ -4007,6 +4007,7 @@ Kashish Khullar - :P
 - [S4BB1R](https://github.com/S4BB1R/)
 - [Tiago Gomes](https://github.com/TiagoGomesDesign/)
 - [Kartik Malik](https://github.com/kartik2406)
+- [George759](https://github.com/George759)
 - [Kashyap](https://github.com/kashyapan)
 - [yarocruz](https://github.com/yarocruz)
 - [Thompadude](https://github.com/Thompadude)
