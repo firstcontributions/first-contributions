@@ -42,7 +42,6 @@ Evan Rives
 - [Sarthak Bawal] (https://github.com/Sartech-B)
 - [Arshdeep Singh Kawatra] (https://github.com/arshdeepsk)
 - [KoGo Codeing] (https://github.com/KoGoCoding)
-- [Uzma Faiz] (https://github.com/uzmafaiz)
 - [Anshul Garg] (https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
 - [Berserker220] (https://github.com/Berserker220)
