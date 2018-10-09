@@ -15,6 +15,7 @@
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
 - [Mahesh](https://github.com/mforgaian)
+- [Muznah Aftab](https://github.com/muznahaftab)
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Jeremie Daniel](https://github.com/jeremie1112)
 - [ThankGod Egbo](https://github.com/thatruth24)
