@@ -1383,6 +1383,7 @@ Kashish Khullar - :P
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
+- [Aayush Dutt](https://github.com/aayushdutt)
 - [Shweta Sharma](https://github.com/ShwetaNIT)
 - [Mohit Bansal](https://github.com/bansalmohitwss)
 - [Shanthanu Rai](https://github.com/shanthanu9)
