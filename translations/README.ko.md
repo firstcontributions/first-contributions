@@ -6,10 +6,10 @@
 # 첫 기여
 
 
-어렵습니다. 처음으로 뭔가를 하는 것은 언제나 어렵습니다. 특히 공동 작업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그러나 협업과 협력은 오픈 소스의 전부입니다. 우리는 새로운 오픈 소스 기여자가 처음 배우고 기여하는 방식을 단순화하고자했습니다.
+어렵습니다. 처음으로 뭔가를 하는 것은 언제나 어렵습니다. 특히 공동 작업을 할 때 실수를 하기라도 한다면 마음이 편치 않을 것 입니다. 하지만 협업과 협력은 오픈 소스의 전부라고 해도 과언이 아닙니다. 우리는 새로운 오픈 소스 기여자가 처음에 어떻게 배우고 기여해야하는가를 단순화 하고자 했습니다.
 
-관련 글을 읽거나 투토리얼을 보는 것이 도움이 될 수 있습니다. 하지만 연습삼아 직접 시도해보는 것보다 나을 수는 없을 겁니다. 이 프로젝트는 초보자가 처음으로 기여하는 방법을 안내하고 단순화하는 것을 목표로 합니다. 기억하십시오: 편안하게 임할수록 더 잘 배울 수 있습니다. 첫 번째 기여를 하려면 그저 아래의 간단한 단계를 따르면 됩니다.
-#### *이 문서를 [다른 언어로 보기](../Translations.md)* 
+관련 글을 읽거나 튜토리얼을 보는 것이 도움이 될 수 있습니다. 하지만 연습삼아 직접 시도해보는 것보다 나을 수는 없을 겁니다. 이 프로젝트는 초보자가 처음으로 기여하는 방법을 안내하고 단순화하는 것을 목표로 합니다. 기억하십시오: 편안하게 임할수록 더 잘 배울 수 있습니다. 첫 번째 기여를 하려면 그저 아래의 간단한 단계를 따르면 됩니다.
+#### *이 문서를 [다른 언어로 보기](../translations/Translations.md)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
 
@@ -17,7 +17,7 @@
 
 ## 저장소 포크하기
 
-이 페이지의 위에 있는 포크 버튼을 클릭하여 이 저장소를 포크하세요. 당신의 계정에 이 저장소의 복제본이 생성될 겁니다.
+이 페이지의 상단에 있는 포크 버튼을 클릭하여 이 저장소를 포크하세요. 당신의 계정에 이 저장소의 복제본이 생성될 것 입니다.
 
 ## 저장소 복제하기
 
@@ -83,7 +83,7 @@ Markdown을 어떻게 사용하는지는 이 [치트시트](https://github.com/a
 -[John Doe](https://github.com/johndoe)
 ```
 
-`](` 사이에 스페이스가 없다는 것에 주의하십시오. 파일을 저장하고 종료하십시오.
+`](` 사이에 띄워쓰기가 없다는 것에 주의하십시오. 파일을 저장하고 종료하십시오.
 
 프로젝트 디렉토리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 변경사항을 아래 `git add` 명령으로 추가합니다.
 
@@ -111,7 +111,7 @@ git push origin <add-your-name>
 
 ## 검토를 위해 변경사항을 제출하기
 
-깃허브의 당신의 저장소에 가면, `Compare & pull request` 버튼을 볼 수 있습니다. 그 버튼을 클릭하세요.
+깃허브의 여러분의 저장소에 가면, `Compare & pull request` 버튼을 볼 수 있습니다. 그 버튼을 클릭하세요.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="풀 요청
 생성하기" />
@@ -127,15 +127,15 @@ git push origin <add-your-name>
 
 여러분의 첫 기여를 축하합니다. 이제 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)으로 이동하여 친구 및 팔로워와 공유하십시오.
 
-도움이 필요하거나 질문이있을 경우, 우리의 slack 팀에 합류 할 수 있습니다. [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+도움이 필요하거나 질문이 있을 경우, 우리의 slack 팀에 합류 할 수 있습니다. [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-이제 다른 프로젝트에 기여해보십시오. 시작하기 쉬운 문제가있는 프로젝트 목록을 작성했습니다. [웹 앱에 있는 프로젝트 목록](https://roshanjossey.github.io/first-contributions/#project-list)을 확인하세요.
+이제 다른 프로젝트에 기여해보십시오. 시작하기 쉬운 문제가 있는 프로젝트 목록을 작성했습니다. [웹 앱에 있는 프로젝트 목록](https://roshanjossey.github.io/first-contributions/#project-list)을 확인하세요.
 
 
 
 ### [추가 정보](../additional-material/translations/additional-material.ko.md)
 
-## 다른 도구를 이용하는 투토리얼
+## 다른 도구를 이용하는 튜토리얼
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
