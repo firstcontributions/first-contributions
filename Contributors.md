@@ -11,6 +11,7 @@
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
+- [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
 - [Anjali Garg](https://github.com/AnjaliGarg13)
