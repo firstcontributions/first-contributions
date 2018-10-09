@@ -7126,3 +7126,4 @@ Kashish Khullar - :P
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
 - [Bruno Silva] (https://github.com/brunorgs)
 - [Josh Horwitz] (https://github.com/jdhorwitz)
+- [Breindy] (https://github.com/breindy)
