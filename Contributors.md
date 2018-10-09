@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
 - [Karan Tandon](https://github.com/karan2dec)
@@ -6689,6 +6690,7 @@ Kashish Khullar - :P
 - [A NJ](https://github.com/adarshnj)
 - [Ng Yang Theng](https://github.com/yangtheng)
 - [Barbara](https://github.com/bnibia)
+- [Umberto](https://github.com/umbeebmu)
 - [Derek Lorimer](https://github.com/DerekLorimer)
 - [Ankit Sinha](https://github.com/ankisinha3005)
 - [Michael Pollente](https://github.com/polykhel)
@@ -7169,6 +7171,7 @@ Kashish Khullar - :P
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
 - [Jonathan Chiou](https://github.com/Chiouonthis)
+- [Lovepreet Singh] (https://github.com/Loveprit-Singh)
 - [Alin Simion](https://github.com/alinsg)
 - [Silvia Stoyanova](https://github.com/SilviaSto)
 - [Harshit Pant](https://github.com/pantharshit00)
@@ -7272,6 +7275,8 @@ Kashish Khullar - :P
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Himanshu Sah](https://github.com/himanshusah)
+- [Chris Srance](https://github.com/csprance)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [ZWTan](https://github.com/zwtan)
 - [MeTeoRise](https://github.com/MeTeoRise)
+- [Zaynaib Giwa](https://github.com/zaynaib)
