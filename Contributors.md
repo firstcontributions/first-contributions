@@ -23,6 +23,7 @@
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
 - [Anjali Garg](https://github.com/AnjaliGarg13)
+- [Ravi Gupta](https://github.com/guptaravi540)
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
