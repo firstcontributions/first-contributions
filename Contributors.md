@@ -1,7 +1,9 @@
 # Contributors
 
 - [Agustin Vargas](https://github.com/chikiwawa)
+- [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
+- [Raj Rani](https://github.com/ARsquare)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
@@ -68,6 +70,7 @@ Evan Rives
 - [Mason D] (https://github.com/Twileigh)
 - [Anshul Garg] (https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
+- [Phoutsaksit Keomala](https://github.com/KeomalaP)
 - [Berserker220] (https://github.com/Berserker220)
 - [Karthik Hegde] (https://github.com/karthikhegde05)
 - [Joshua Kartzman] (https://github.com/JoshuaKart)
@@ -143,6 +146,7 @@ Evan Rives
 - [Aditya]
 - [Nitish Pant](https://github.com/nitishpt)
 - [Ariana](https://github.com/dabonadobe)
+- [Ujjawal Jaiswal](https://github.com/ujjawaljaiswal2017)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
 - [Dan Truong] (https://github.com/kokris92)
@@ -7202,3 +7206,7 @@ Kashish Khullar - :P
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
 - [Vanshika Arora](https://github.com/vanshikaarora)
+- [Bailram](https://github.com/bailram)
+- [Berserker220] (https://github.com/Berserker220)
+- [Jaydeep Eraniya](https://github.com/Jaydeep1617)
+- [Nipun Dayanath](https://github.com/nipund)
