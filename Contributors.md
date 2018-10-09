@@ -7130,6 +7130,7 @@ Kashish Khullar - :P
 - [Prateek Arora](https://github.com/prarora98)
 - [HarryPark](https://github.com/phg98)
 - [Brenda-Fitz](https://github.com/brenda-fitz)
+- [Chris Walsh](https://github.com/taibhse)
 - [Swapnil-dahule](https://github.com/sdahule)
 - [Kari Merikanto] (https://github.com/karimerikanto)
 - [James Zhong](https://github.com/thebitspud)
