@@ -7189,6 +7189,7 @@ Kashish Khullar - :P
 - [Davide Briani](https://github.com/theworm)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
+- [Maria Rayana] (https://github.com/mrayana)
 - [jwon114](https://github.com/jwon114)
 - [Nicole Moore](https://github.com/Angelfirenze01)
 - [Ryan Doyle](https://github.com/ryanmdoyle)
@@ -7268,4 +7269,4 @@ Kashish Khullar - :P
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
-- [Ryan Doyle] (https://github.com/ryanmdoyle)
+
