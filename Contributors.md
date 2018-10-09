@@ -73,6 +73,7 @@ Evan Rives
 - [Yogita Bhatia] (https://github.com/Yogita98)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
+- [Sahil Dhawan] (https://github.com/Sahil-Dhawan)
 - [Tyrone Damasceno] (https://github.com/tyronedamasceno)
 - [Mahmoud Anwar] (https://github.com/mamoanwar)
 - [Egor Gorunovich] (https://github.com/titanolodon)
