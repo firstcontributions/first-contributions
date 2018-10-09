@@ -7224,3 +7224,4 @@ Kashish Khullar - :P
 - [José Lucas](https://github.com/lukpod1)
 - [SADIK KUZU](https://github.com/sadikkuzu)
 - [Christiawan Eko](https://github.com/christiawaneko)
+- [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
