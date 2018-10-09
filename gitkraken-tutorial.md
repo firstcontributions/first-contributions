@@ -36,13 +36,13 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File->Clone Repo.
+In GitKraken, go to File-> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
 
 
-Select GitHub.com in the right pane.  Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
+Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
 
 Once you're satisfied with the path, click "Clone the repo!".
 
