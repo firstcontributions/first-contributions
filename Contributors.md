@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Yaderson Patiño](https://github.com/yaderson)
@@ -1003,6 +1003,7 @@ Kashish Khullar - :P
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
 - [Charlie Chew](https://github.com/s120472006)
+- [Mariah Buccat](https://github.com/mariahbuccat)
 - [Varun Nair](https://github.com/VarunDelft)
 - [Josh Friesen](https://github.com/joshfriesen)
 - [Palmer Hinchliffe](https://github.com/palmerhinchliffe)
