@@ -101,6 +101,7 @@ Evan Rives
 - [Karthick aravindan](https;//github.com/12345k)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
+- [Chitranshu Srivastava](https://github.com/chitranshu651)
 - [Eude K Lesperance](https://github.com/lkeude96)
 - [Aditya Narayan Shahi](https://github.com/Shahi9935)
 - [Mahdi HB](https://github.com/mhb8898)
