@@ -7205,6 +7205,7 @@ Kashish Khullar - :P
 - [Francesco Cipolla](https://github.com/Atlas80b)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
+- [Vanshika Arora](https://github.com/vanshikaarora)
 - [Bailram](https://github.com/bailram)
 - [Berserker220] (https://github.com/Berserker220)
 - [Jaydeep Eraniya](https://github.com/Jaydeep1617)
