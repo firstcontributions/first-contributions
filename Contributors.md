@@ -7114,6 +7114,7 @@ Kashish Khullar - :P
 - [blueetreebranch] (https://github.com/blueetreebranch)
 - [0dayherman] (https://github.com/0dayherman)
 - [christm] (https://github.com/clerity85)
+- [Uwais Zaki](https://github.com/uwaiszaki)
 - [Umang Raval](https://github.com/umangraval)
 - [Wesley Melo](https://github.com/wesmelo)
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
