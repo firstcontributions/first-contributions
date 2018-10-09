@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
@@ -53,7 +52,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
-
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
