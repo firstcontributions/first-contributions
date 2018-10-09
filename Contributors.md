@@ -7254,3 +7254,4 @@ Kashish Khullar - :P
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
 - [Pedro Vicari](https://github.com/pvicari)
 - [Joseph Meli](https://github.com/JosephMeli)
+- [Himanshu Sah](https://github.com/himanshusah)
