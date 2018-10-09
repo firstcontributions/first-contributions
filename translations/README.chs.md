@@ -121,3 +121,7 @@ git push origin <分支的名称>
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
+
+
+注意事项：
+- 用英语交流
