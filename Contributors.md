@@ -1068,7 +1068,6 @@
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
 - [Dmitry Polovinkin](http://github.com/polovinkin)
 - [Trina Lu](https://github.com/tri613)
-- [mind-as-well](https://github.com/mind-as-well)
 - [Mark Hernandez](https://github.com/markh817)
 - [Narimantas Sedys](https://github.com/natasman)
 - [Elias Silva](http://github.com/eliassilva8)
@@ -1080,3 +1079,4 @@
 - [Ihor Kufley](https://github.com/ihorku)
 - [Paul Benson](https://github.com/prbenson)
 - [Mike Wales](https://github.com/walesmd)
+- [mind-as-well](https://github.com/mind-as-well)
