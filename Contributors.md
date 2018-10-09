@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Yaderson Patiño](https://github.com/yaderson)
@@ -16,6 +16,7 @@
 - [Said Garcia](https://github.com/saidg23) 
 Mahesh Tudu
 - [Sambhav Jain](https://github.com/sambhav1020)
+- [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
