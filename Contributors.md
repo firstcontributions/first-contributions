@@ -75,6 +75,7 @@ Evan Rives
 - [Ryan Evans] (https://github.com/ryanwevans)
 - [Yogita Bhatia] (https://github.com/Yogita98)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
+[Tashima Dilrukshi](https://github.com/Tashimadilrukshi)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Sahil Dhawan] (https://github.com/Sahil-Dhawan)
 - [Tyrone Damasceno] (https://github.com/tyronedamasceno)
