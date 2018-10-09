@@ -7208,6 +7208,7 @@ Kashish Khullar - :P
 - [Francesco Cipolla](https://github.com/Atlas80b)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
+- [Nikhil Arora](https://github.com/nikarora1111)
 - [Aniket Teotia](https://github.com/anikett12)
 - [Aditya Mudgil](https://github.com/adityamudgil2505)
 - [Aarush Juneja](https://github.com/AarushJ)
