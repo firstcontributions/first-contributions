@@ -3253,6 +3253,7 @@ Kashish Khullar - :P
 - [Julia Fiorino](https://github.com/juliaf2)
 - [Angel Young](http://github.com/angelyoung24)
 - [Richard Meadows](https://github.com/rjmead23)
+- [hakerja](https://github.com/hakerja)
 - [J Fsal](https://github.com/jfsal)
 - [Gordon Hendry](https://github.com/gordyh1)
 - [Valentyn Troian](https://github.com/ValentynTroian)
