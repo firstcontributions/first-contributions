@@ -2,6 +2,7 @@
 
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
+- [Raj Rani](https://github.com/ARsquare)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Geri Adam](https://github.com/geriadam)
