@@ -94,6 +94,7 @@ Evan Rives
 - [tweekes1] (https://github.com/tweekes1)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
+- [Yusuf Duyar](https://github.com/yusufduyar)
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
 - [Igor Puchkov] (https://github.com/IgorPuchkov2003)
