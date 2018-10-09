@@ -3554,6 +3554,7 @@ Kashish Khullar - :P
 - [Michele Salvador](https://github.com/michelesalvador)
 - [Arpit Jhunjhunwala](https://github.com/arpitjjw)
 - [Brandon Zhu](https://github.com/Brandonlucaszhu)
+- [Nabheet Madan](https://github.com/nabheetcloud)
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
 - [Nadav Mary](https://github.com/Slash7GNR)
