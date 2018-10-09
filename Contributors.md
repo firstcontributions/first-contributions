@@ -13,7 +13,7 @@
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master] (https://github.com/munnikedost)
-- [Said Garcia](https://github.com/saidg23) 
+- [Said Garcia](https://github.com/saidg23)
 Mahesh Tudu
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
@@ -1454,6 +1454,7 @@ Kashish Khullar - :P
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
+- [Jeanne Lee](https://github.com/leejeannes)
 - [Franciscus Agnew](https://github.com/franciscusagnew)
 - [Alexis Salcedo](https://github.com/alexisss1928)
 - [tonezz](https://github.com/tonezz)
