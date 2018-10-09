@@ -135,6 +135,7 @@ Evan Rives
   [Jatin Aggarwal] (https://github.com/jatinagg1)
 - [diproIV]
 - [Anupam Das] (https://github.com/anupamdas104)
+- [Samayita D. R.] (https://github.com/samayitadroughley)
 - [Sahaj Vaghasiya] (https://github.com/Sahaj8)
 - [jlly](https://github.com/tcjill)
 - [Pushkar](https://github.com/linton-dawson)
