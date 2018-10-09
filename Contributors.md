@@ -15,6 +15,7 @@
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
+- [Harshit Bhalla](https://github.com/harshitsan)
 - [Mahesh](https://github.com/mforgaian)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jeremy Fox](https://github.com/jeremyfox36)
