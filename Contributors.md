@@ -646,6 +646,7 @@ Kashish Khullar - :P
 - [Jadson Luan](https://github.com/jadsonluan)
 - [Elena Cristina]()
 - [Sankarsh Pallela](https://github.com/sankarsh98)
+- [Ashish Nandan Singh] (https://github.com/ashishcodes4)
 - [Kevin Cheong](https://github.com/sicksticky)
 - [G Heller](https://github.com/hellerguyh)
 - [Vaska Izoria](https://github.com/vaskaizoria)
