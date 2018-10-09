@@ -18,6 +18,7 @@
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
+- [Kyle Tozer](https://github.com/kyletozer)
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Mahesh](https://github.com/mforgaian)
 - [Muznah Aftab](https://github.com/muznahaftab)
