@@ -7209,3 +7209,4 @@ Kashish Khullar - :P
 - [Berserker220] (https://github.com/Berserker220)
 - [Jaydeep Eraniya](https://github.com/Jaydeep1617)
 - [Nipun Dayanath](https://github.com/nipund)
+- [M Rizal](ht://github.com/hardzal)
