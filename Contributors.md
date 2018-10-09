@@ -7159,6 +7159,7 @@ Kashish Khullar - :P
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
+- [Jonathan Chiou](https://github.com/Chiouonthis)
 - [Alin Simion](https://github.com/alinsg)
 - [Silvia Stoyanova](https://github.com/SilviaSto)
 - [Harshit Pant](https://github.com/pantharshit00)
