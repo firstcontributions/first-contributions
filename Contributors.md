@@ -26,6 +26,7 @@
 - [Katie Snell](https://github.com/katieisnell)
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Austin Hyder](https://github.com/DoctorMooch)
+- [Jan Carlo Once](https://github.com/jancarloonce)
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
