@@ -7149,3 +7149,4 @@ Kashish Khullar - :P
 - [Breindy] (https://github.com/breindy)
 - [Royce Dy] (https://github.com/rad182)
 - [caow2] (https://github.com/caow2)
+- [Luca Bruzzone] (https://github.com/unsign3d)
