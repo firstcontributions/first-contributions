@@ -7249,3 +7249,4 @@ Kashish Khullar - :P
 - [Osama Azmi](https://github.com/Samuelimza)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
+ - [Joseph Meli](https://github.com/JosephMeli)
