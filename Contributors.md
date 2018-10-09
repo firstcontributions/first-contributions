@@ -93,6 +93,7 @@ Evan Rives
 - [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
+- [Collin Cates](https://github.com/collincates)
 - [Raghav Grover](https://github.com/raghav7997)
 - [Jacobian Det](https://github.com/JacobianDet)
 - [DarylBupt](https://github.com/darylbupt)
