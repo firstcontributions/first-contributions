@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rishab jain](https://github.com/rishabjn)
+- [Sandeep Sidhu](https://github.com/sandeepme)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Anushka Svara](https://github.com/dumbcoder2399)
@@ -7022,3 +7023,4 @@ Kashish Khullar - :P
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [jwon114](https://github.com/jwon114)
 - [Imam Sutono](https://github.com/imamsutono)
+- [Nicole Moore] (https://github.com/Angelfirenze01)
