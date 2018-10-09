@@ -7151,3 +7151,4 @@ Kashish Khullar - :P
 - [Royce Dy] (https://github.com/rad182)
 - [caow2] (https://github.com/caow2)
 - [Luca Bruzzone] (https://github.com/unsign3d)
+- [Paula Audet](https://github.com/paulaaudet26)
