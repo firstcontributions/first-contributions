@@ -7123,3 +7123,4 @@ Kashish Khullar - :P
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
 - [Bruno Silva] (https://github.com/brunorgs)
+- [Josh Horwitz] (https://github.com/jdhorwitz)
