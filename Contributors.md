@@ -665,6 +665,7 @@ Kashish Khullar - :P
 - [Chit Thae Naing](https://github.com/chitthaenaing)
 - [Amanchi Naga Sai Sree Deepthi](https://github.com/SreeDeepthi1253)
 - [Aviv Alon](https://github.com/aalon2)
+- [Hunter Esposito](https://github.com/hesposi2278)
 - [Vincent Huang](https://github.com/vinceajcs)
 - [Shailesh Vashishth](https://github.com/shim101)
 - [Marissa Shaffer](https://github.com/msshaffer2003)
