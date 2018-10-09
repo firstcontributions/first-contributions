@@ -5092,6 +5092,7 @@ Kashish Khullar - :P
 - [Venkatesh Ellaboina](https://github.com/venkateshellaboina)
 - [Ivan Ramos](https://github.com/AjaxianK)
 - [Michael Powers](https://github.com/eventuallyrises)
+- [Payal Pandya](https://github.com/payPan22)
 - [Darin J Williams](https://github.com/darinjswilliams)
 - [Payal Pandya](https://github.com/payPan22)
 - [Hannah C](https://github.com/hannah-c)
