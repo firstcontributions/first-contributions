@@ -57,6 +57,7 @@ Evan Rives
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
 - [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
+- [Raghav Grover](https://github.com/raghav7997)
 - [Jacobian Det](https://github.com/JacobianDet)
 - [DarylBupt](https://github.com/darylbupt)
 - [Alex Kichukov](https://github.com/allexpleblord)
@@ -7129,3 +7130,4 @@ Kashish Khullar - :P
 - [Josh Horwitz] (https://github.com/jdhorwitz)
 - [Breindy] (https://github.com/breindy)
 - [Royce Dy] (https://github.com/rad182)
+- [caow2] (https://github.com/caow2)
