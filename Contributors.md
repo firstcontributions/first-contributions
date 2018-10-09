@@ -19,6 +19,7 @@
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
 - [Harshit Bhalla](https://github.com/harshitsan)
+- [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jeremy Fox](https://github.com/jeremyfox36)
