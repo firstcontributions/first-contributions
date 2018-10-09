@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
@@ -7198,3 +7198,4 @@ Kashish Khullar - :P
 - [Francesco Cipolla](https://github.com/Atlas80b)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
+- [Nikhil Arora](https://github.com/nikarora1111)
