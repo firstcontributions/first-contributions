@@ -7201,6 +7201,7 @@ Kashish Khullar - :P
 - [Paula Audet](https://github.com/paulaaudet26)
 - [Ivan](https://github.com/tikerlade)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
+- [Christophe Prmentier](https://github.com/ParmentierChristophe)
 - [Minanshu Singh](https://github.com/kryptokinght)
 - [Manglesh Saurabh](https://github.com/Manglesh123)
 - [Christian Mitter](https://github.com/chrismitterTSS)
