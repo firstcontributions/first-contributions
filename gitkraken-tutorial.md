@@ -9,7 +9,7 @@
 |<img alt="GitKraken" src="/assets/gk-icon.png" width="200">|GitKraken Edition|
 |---|---|
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
@@ -36,13 +36,13 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File->Clone Repo.
+In GitKraken, go to File-> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
 
 
-Select GitHub.com in the right pane.  Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
+Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
 
 Once you're satisfied with the path, click "Clone the repo!".
 
@@ -51,7 +51,7 @@ Once you're satisfied with the path, click "Clone the repo!".
 
 Click the branch button on the toolbar.
 
-Name your branch add-your-name, for example: "add-william-sutton"
+Name your branch "add-your-name", for example: "add-william-sutton"
 
 <img style="float: right;" src="assets/gk-branch.png" alt="name your branch" />
 
@@ -70,17 +70,18 @@ Review the files that have been changed and decide what you would like to stage.
 <img style="float: right;" src="assets/gk-stage.png" alt="stage your changes" />
 
 
-Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that's modified or "Stage File" to stage an individual file.
+Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that is modified or "Stage File" to stage an individual file.
 
 
 <img style="float: right;" src="assets/gk-commit.png" alt="clone this repository" />
 
 
-If you change your mind, you can unstage those changes, or you can discard them all together.  WARNING: As the word discard implies, this is a destructive operation.  Only do this if you don't want any change from whatever repository you're in.
+If you change your mind, you can unstage those changes, or you can discard them all together. 
+WARNING: As the word discard implies, this is a destructive operation. Do this only if you don't want any change(s) from whatever repository you're in.
 
 Hit commit.
 
-Congratulations, you've commited changes to your local copy of your branch of your fork of first-contributions.  Onward!
+Congratulations, you've committed all the changes to your local copy of your branch of your fork of first-contributions.  Onward!
 
 
 ## Push changes to GitHub
@@ -102,17 +103,13 @@ If you go to your repository on github, you'll see  `Compare & pull request` but
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull.png" alt="submit pull request" />
-
-Resolve conflicts if any.
-
-<img style="float: right;" src="assets/resolve-conflicts.png" alt="resolve conflicts" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
