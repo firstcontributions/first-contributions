@@ -7190,6 +7190,7 @@ Kashish Khullar - :P
 - [Roxana Oanes](https://github.com/roxyoanes)
 - [Prakhar Gupta](https://github.com/prakhar897)
 - [Yoga Agung Prasetio](https://github.com/yogaap24)
+- [Chris Kerr](http:github.com/ckerr1999)
 - [blueetreebranch](https://github.com/blueetreebranch)
 - [Thomas Mort](https://github.com/Tommygun200202)
 - [0dayherman](https://github.com/0dayherman)
@@ -7251,4 +7252,4 @@ Kashish Khullar - :P
 - [Osama Azmi](https://github.com/Samuelimza)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
- - [Joseph Meli](https://github.com/JosephMeli)
+- [Joseph Meli](https://github.com/JosephMeli)
