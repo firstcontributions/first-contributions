@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [Mayur Madnani](https://github.com/mayurmadnani/)
+- [Himanshu Jotwani]()
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
@@ -268,6 +269,7 @@ Evan Rives
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Julia Boschan](https://github.com/bjuli)
+- [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
