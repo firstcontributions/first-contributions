@@ -46,6 +46,7 @@ Tasha Penwell
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Manne Diaz](https://github.com/diazmanne)
+- [Rahul Thakare](https://github.com/bantya)
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Bhavuk Kalra](https://github.com/bhavukkalra)
