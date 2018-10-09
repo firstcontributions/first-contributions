@@ -7211,3 +7211,4 @@ Kashish Khullar - :P
 - [Nipun Dayanath](https://github.com/nipund)
 - [LEE YONGJUN](https://github.com/wooooooak)
 - [Alena Anog](https://github.com/alenanog)
+- [José Lucas](https://github.com/lukpod1)
