@@ -4997,6 +4997,7 @@ Kashish Khullar - :P
 - [Kyle Gildea](https://github.com/kylegildea)
 - [Amrutha A J](https://github.com/amrutha-a-j)
 - [S Chua](https://github.com/graphcalibur)
+- [Kanchan](https://github.com/KanchanThareja)
 - [Matthew Chung](https://github.com/mchuuung)
 - [Junaid Zubair Shaikh](https://github.com/junaidzubairshaikh)
 - [Simon Niu](https://github.com/s18692001)
@@ -7027,4 +7028,3 @@ Kashish Khullar - :P
 - [jwon114](https://github.com/jwon114)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [Ryan Doyle] (https://github.com/ryanmdoyle)
-- [Kanchan](https://github.com/KanchanThareja)
