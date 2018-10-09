@@ -30,6 +30,7 @@
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
+- [Mamta Pal](https://github.com/palmamta)
 - [Alejandra Gonzalez](https://github.com/alejandra-gonzalez)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
