@@ -7243,4 +7243,5 @@ Kashish Khullar - :P
 - [SADIK KUZU](https://github.com/sadikkuzu)
 - [Christiawan Eko](https://github.com/christiawaneko)
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
+- [Osama Azmi](https://github.com/Samuelimza)
 - [MUSTHAFA ALI](https://github.com/codali)
