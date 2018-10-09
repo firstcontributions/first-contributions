@@ -7115,3 +7115,4 @@ Kashish Khullar - :P
 - [James Zhong](https://github.com/thebitspud)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
+- [Hassani King Senior](https://github.com/HKSenior)
