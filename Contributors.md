@@ -13,7 +13,7 @@
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Sandeep Sidhu](https://github.com/sandeepme)
 - [Master] (https://github.com/munnikedost)
-- [Said Garcia](https://github.com/saidg23) 
+- [Said Garcia](https://github.com/saidg23)
 Mahesh Tudu
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
@@ -6942,6 +6942,7 @@ Kashish Khullar - :P
 - [John P](https://github.com/palumboj)
 - [Zachery Gentry](https://github.com/zacherygentry)
 - [Ted Kim](https://github.com/00aney)
+- [Conny Heb](https://github.com/ConnyHeb)
 - [Aayush Bisen](https://github.com/aayushbisen)
 - [prydt](https://github.com/prydt)
 - [Iurii Didkovskyi](https://github.com/hichnik/)
