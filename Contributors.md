@@ -4,6 +4,7 @@
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
+- [Agustin Avila](https://github.com/elchetosn)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
