@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
@@ -7207,6 +7207,7 @@ Kashish Khullar - :P
 - [Francesco Cipolla](https://github.com/Atlas80b)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
+- [Aniket Teotia](https://github.com/anikett12)
 - [Aditya Mudgil](https://github.com/adityamudgil2505)
 - [Aarush Juneja](https://github.com/AarushJ)
 - [Vanshika Arora](https://github.com/vanshikaarora)
