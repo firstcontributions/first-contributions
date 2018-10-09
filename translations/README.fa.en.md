@@ -89,7 +89,7 @@ Age Beri Too Repository Roo GitHub, Dokmeye `Compare & pull request` Ro Mibini. 
 
 Hala Darkhate Pull Ro Submit Kon
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Be Zoodi Man Tamame Taghiratet Ro Be Branche "Master" Ezafe Mikonam. Be Mahze IN Ke Taghirat Submit Shod Email Daryaft Mikoni
 
@@ -104,7 +104,7 @@ Dar Soorati Ke Soal Dashti Ya Komak Khasti Mitooni Be Teame Slacke Ma Bepeyvandi
 Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Moshkelate Sade Gerd Avari Kardim Ke Mitooni Az OON Ja Shoroo Koni.
 [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools

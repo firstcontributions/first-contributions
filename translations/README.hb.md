@@ -155,24 +155,13 @@ git push origin <add-your-branch-name>
 
 כעת, הגישו את בקשת הדחיפה
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 בקרוב, אני אצרף את כל השינויים לתוך הענף הראשי של פרויקט זה. אתם תקבלו עדכון במייל ברגע שהשינויים ימוזגו.
 </div>
 
 <div dir="rtl">
 <h2> מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה </h2>
-</div>
-
-<div dir="rtl">
-ניתן למחוק בבטחה את הענף שלכם '<add-your-branch-name>' אחרי שבקשת הדחיפה מוזגה. אתם תראו כפתור למחיקת הענף:
-
-<img style="float: left;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-אם בקשת הדחיפה נסגרה ללא מיזוג, GitHub, יזהיר אתכם לגבי מחיקת commits שלא מוזגו והכפתור יראה כך:
-
-<img style="float: left;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
-
 </div>
 
 <div dir="rtl">
