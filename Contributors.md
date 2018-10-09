@@ -565,7 +565,6 @@ bilalsiraj
 - [Wh1t3fang](https://github.com/wh1t3fang)
 - [Arogore](https://github.com/arogore)
 - [Asiedu Brempong](https://github.com/asiedubrempong)
-- [Feedy](https://github.com/FeedyFeedback)
 - [AdrianTeri](https://github.com/Adrianteri)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Alon]()
@@ -7279,4 +7278,5 @@ Kashish Khullar - :P
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [ZWTan](https://github.com/zwtan)
+- [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
