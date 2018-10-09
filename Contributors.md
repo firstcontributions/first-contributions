@@ -20,6 +20,7 @@
 - [Sudhanshu] (https://github.com/capreyon)
 - [Mahesh Tudu] (https://github.com/mahis929)
 - [Manikant] (https://github.com/mmani9199)
+- [Jessie Zhu] (https://github.com/jessiezhudev)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Daniel Menachem](https://github.com/doom3007)
