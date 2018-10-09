@@ -397,6 +397,7 @@ bilalsiraj
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Demetrius Lewis](https://github.com/Dlewis89)
+- [Rahul Thakare](https://github.com/bantya)
 - [Arnesh Agrawal](https://github.com/Arnesh07)
 - [Ufuk Özçelik](https://github.com/UfukOzcelik)
 - [Anton Medvedev](https://github.com/antonmdv)
