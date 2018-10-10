@@ -3795,6 +3795,7 @@ Kashish Khullar - :P
 - [Tyler Hines](https://github.com/thines92)
 - [Alexey Zhitnik](https://github.com/azhitnik)
 - [Aleksei Kuzmin](https://github.com/Flex73)
+- [Denys Lins](https://github.com/DenysLins)
 - [Vishwanath Sharma](https://github.com/Vishwanath26)
 - [Tyler Hines](https://github.com/thines92)
 - [zernab1](https://github.com/zernab1)
