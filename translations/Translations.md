@@ -2,7 +2,8 @@
 
 |  | Translated Link |
 | --- | --- |
-| 🇮🇳 | [हिन्दी ](README.hi.md) |
+| 🇮🇳 | [हिन्दी](README.hi.md) |
+| 🇮🇳 | [मराठी](README.mr.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
@@ -18,7 +19,7 @@
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
-| 🇩🇪  | [Plattdüütsch](README.de.md) |
+| 🇩🇪  | [Deutsch](README.de.md) |
 | 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
 | 🇬🇷 | [ελληνικά](README.gr.md) |
 | العربية | [العربية](README.ar.md) |
