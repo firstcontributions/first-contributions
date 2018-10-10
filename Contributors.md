@@ -3,6 +3,7 @@
 - [AdrianHL](https://github.com/AdrianHL)
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
+- [Omniyyah] (https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
@@ -12,6 +13,8 @@
 - Himanshu Jotwani
 - Prakher Prashank
 - nick spagnola
+- [Rohan Sakhuja](https://github.com/RohanSakhuja)
+- [Rahul Singh(LEO)](https://github.com/Leo5661)
 - [Ortwin van Vessem](https://github.com/ovvessem)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
@@ -39,6 +42,7 @@
 - [Rajshri Singh Baghel](https://github.com/geekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
+- [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
@@ -73,6 +77,7 @@
 - [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
+- [Garrett Yaworski](https://github.com/gy162134)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
@@ -247,6 +252,7 @@
 - [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - Ajay
+- Olgert
 - [dsannad](https://github.com/dsannad)
 - [JLeneau](https://github.com/JLeneau)
 - [Wesley Clements](https://github.com/WesleyClements)
@@ -568,6 +574,7 @@
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Natalie Wyll](https://github.com/nwyll)
+- [Shubham Kumar](https://github.com/shubhkumar97)
 - [Liza Liutova](https://github.com/hamstlanda)
 - [Indraneel Sarkar](https://github.com/sark01)
 - [Smit Rajput](https://github.com/smitrajput)
@@ -1610,6 +1617,7 @@
 - [Rachel Krupnick](https://github.com/rkrupnick)
 - [Andres Fernando Saa](https://github.com/afsaa)
 - [VeraButler](https://github.com/VeraButler)
+- [felzan](https://github.com/felzan)
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sachin Mohla](https://github.com/sac24)
@@ -7379,3 +7387,7 @@
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Gigi](https://github.com/GGn0)
+- [Kent van Kuller](https://github.com/KentClarkGuitar)
+- [Apurva N Saraogi](https://github.com/apurva91)
+- [Ramón Chancay Ortega](https://github.com/devrchancay)
+- [K Zhao](https://github.com/K-zhao)
