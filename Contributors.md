@@ -1,8 +1,9 @@
 ﻿# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
--[siddhant wadhwa](https://github.com/sidd2010)
+- [siddhant wadhwa](https://github.com/sidd2010)
 - [Russell Claxton](https://github.com/russellc92)
+- [Sam Holst](https://github.com/samholst)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Shaurya Bagga](https://github.com/shauryabagga)
@@ -21,7 +22,7 @@
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
-[Tharindu Malshan](https://github.com/tharindumalshan1)
+- [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
 - [Jamie Townsend](https://github.com/diginari)
