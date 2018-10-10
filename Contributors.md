@@ -79,6 +79,7 @@
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
+- [Akash Giri](https://github.com/akashgiricse)
 - [Alejandra Gonzalez](https://github.com/alejandra-gonzalez)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
