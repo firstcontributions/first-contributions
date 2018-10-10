@@ -3128,6 +3128,7 @@ Kashish Khullar - :P
 - [Muhammad Aziz Idharrulhaq](https://github.com/Azidharr)
 - [Brian Nomwesigwa](https://github.com/Brian-Van-Stoner)
 - [Damir Podbojec](https://github.com/dpodboj1)
+- [Vishal Agrawal](https://github.com/vishuvish)
 - [Fitriana Alivia](https://github.com/mrsdark)
 - [Jason Law](https://github.com/lckj210)
 - [Le Bon Bauma](https://github.com/Sharkzuria)
