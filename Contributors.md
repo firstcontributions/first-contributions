@@ -40,6 +40,7 @@
 - [Thein Oo](https://github.com/thoo)
 - [Kyle Tozer](https://github.com/kyletozer)
 - [Harshit Bhalla](https://github.com/harshitsan)
+- [Sindhiya Arya](https://github.com/aryasin)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
 - [Enguerrand A.](https://github.com/AEnguerrand)
