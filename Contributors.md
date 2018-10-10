@@ -7318,3 +7318,4 @@ Kashish Khullar - :P
 - [Martin Vds](https://github.com/MartinVandersteen)
 - [Alexander Jackson] (https://github.com/nantangitan)
 - [pittyi2nd](https://github.com/pittyi2nd)
+- [Hoang Vu](https://github.com/hoangvq288)
