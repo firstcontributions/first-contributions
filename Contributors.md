@@ -461,6 +461,7 @@ bilalsiraj
 - [Francesco Zardi](https://github.com/frazar)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
+- [Filip Marius Samuel](https://github.com/1337M0nst3r)
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin](https://github.com/jcat1504)
 - [Oscar Mera](https://github.com/odmera)
