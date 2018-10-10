@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
+- [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Shaurya Bagga](https://github.com/shauryabagga)
