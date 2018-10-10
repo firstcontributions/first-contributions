@@ -7380,3 +7380,4 @@ Kashish Khullar - :P
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
+- [Pratik Roopchandka](https://github.com/ricky2304)
