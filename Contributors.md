@@ -12,6 +12,7 @@
 - [Himanshu Jotwani]()
 - [Prakher Prashank]()
 - nick spagnola
+- [Rohan Sakhuja](https://github.com/RohanSakhuja)
 - [Ortwin van Vessem](https://github.com/ovvessem)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
