@@ -4221,6 +4221,7 @@ Kashish Khullar - :P
 - [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
 - [Alan Vardy](https://github.com/alanvardy)
 - [daniel](https://github.com/dlemel8)
+- [Sebastian Heuser](https://github.com/2mt-heuser)
 - [yonatancoh](https://github.com/yonatancoh)
 - [Viking Mann](https://github.com/PoeticArcher)
 - [Adilene Constante](https://github.com/adiconstante)
