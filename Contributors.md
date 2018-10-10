@@ -7323,3 +7323,4 @@ Kashish Khullar - :P
 - [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
 - [Yoann Prot](https://github.com/Taranys)
+- [basher666](https://github.com/basher666)
