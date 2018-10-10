@@ -7387,3 +7387,5 @@ Kashish Khullar - :P
 - [Gigi](https://github.com/GGn0)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
+- [Prabhát Kumar de Oliveira](https://github.com/bart-bk)
+
