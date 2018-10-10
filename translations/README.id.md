@@ -39,9 +39,9 @@ Contoh:
 ```
 git clone https://github.com/username-anda/first-contributions.git
 ```
-Dimana `username-anda` adalah username Github Anda. Pada langkah ini Anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer Anda.
+Di mana `username-anda` adalah username Github Anda. Pada langkah ini Anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer Anda.
 
-## Membuat Branch
+## Membuat Cabang
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
@@ -93,13 +93,13 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan Anda ke master cabang proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
+Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan Anda ke cabang master proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
 
 Cabang master dari fork Anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork Anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
 ## Membuat fork Anda selaras dengan repositori ini
 
- Pertama, ganti posisi ke branch master.
+ Pertama, ganti posisi ke cabang master.
  ```
  git checkout master
  ```
@@ -112,7 +112,7 @@ Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang t
 git fetch upstream
 ```
 
-Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, Anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam branch master milik Anda.
+Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, Anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam cabang master milik Anda.
 ```
 git rebase upstream/master
 ```
@@ -130,7 +130,7 @@ dan Anda dapat menghapus versi tersebut yang ada di repositori remote:
 ```
 git push origin --delete <add-nama>
 ```
-Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
+Hal ini sebenarnya tidak diperlukan namun nama dari cabang ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
 
 ## Ke mana lagi setelah dari sini?
 
