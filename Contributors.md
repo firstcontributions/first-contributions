@@ -7319,4 +7319,5 @@ Kashish Khullar - :P
 - [Alexander Jackson] (https://github.com/nantangitan)
 - [pittyi2nd](https://github.com/pittyi2nd)
 - [Hoang Vu](https://github.com/hoangvq288)
+- [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
