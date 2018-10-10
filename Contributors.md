@@ -277,6 +277,7 @@ Evan Rives
 - [Sahib Khan](https://github.com/sahib-khan)
 - [Tobias Joergensen](https://github.com/7013145)
 - [CallmeHenry](https://github.com/CallmeHenry)
+- [Htoo Pyae](https://github.com/hpbyte)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Mohit Yadav](https://github.com/mohityadav7)
 - [Kuman Vaghasiya]
