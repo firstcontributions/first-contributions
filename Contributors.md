@@ -7271,6 +7271,7 @@ Kashish Khullar - :P
 - [Luca Bruzzone] (https://github.com/unsign3d)
 - [Paula Audet](https://github.com/paulaaudet26)
 - [Ivan](https://github.com/tikerlade)
+- [pyjaks](https://github.com/pyjaks)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
 - [Christophe Prmentier](https://github.com/ParmentierChristophe)
 - [Minanshu Singh](https://github.com/kryptokinght)
