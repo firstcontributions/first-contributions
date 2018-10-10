@@ -7384,3 +7384,4 @@ Kashish Khullar - :P
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Gigi](https://github.com/GGn0)
+- [Kent van Kuller](https://github.com/KentClarkGuitar)
