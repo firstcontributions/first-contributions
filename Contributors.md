@@ -4997,6 +4997,7 @@ Kashish Khullar - :P
 - [Giovanni HoSang](https://github.com/realgio95)
 - [Christopher Reece](https://github.com/momotofu)
 - [Alejandro Calleja](https://github.com/alximw)
+- [Giovanni Cruz](https://github.com/giovannicruz97)
 - [Herukam](https://github.com/Herukam)
 - [Jeo](https://github.com/jeo011)
 - [Utkarsh Mishra](https://github.com/ulshell)
