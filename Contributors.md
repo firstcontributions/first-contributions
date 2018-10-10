@@ -2112,6 +2112,7 @@ Kashish Khullar - :P
 - [Hoang Le](https://github.com/hoangle96)
 - [Ben Castan](https://github.com/bencastan)
 - [netserf](https://github.com/netserf)
+- [Guillermo Fernandez](https://github.com/Kaysera)
 - [deya](https://github.com/miscdats)
 - [Andrew Millar](https://github.com/Sl4rtyb4rtf4st)
 - [Hieratikos](https://github.com/Hieratikos)
