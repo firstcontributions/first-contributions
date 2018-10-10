@@ -1356,6 +1356,7 @@ Kashish Khullar - :P
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
+- [Stephen Bowers](https://github.com/stephenbowers)
 - [Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka)
 - [Douglas Felipe S. Tebas]()
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
