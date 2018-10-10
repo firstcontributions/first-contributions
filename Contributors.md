@@ -167,6 +167,7 @@ Evan Rives
 - [Eude K Lesperance](https://github.com/lkeude96)
 - [Aditya Narayan Shahi](https://github.com/Shahi9935)
 - [Mahdi HB](https://github.com/mhb8898)
+- [Maku](https://github.com/makupi/)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
 - [Snir The Man]
