@@ -23,6 +23,7 @@
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Karl von Klein](https://github.com/kvonklein)
+- [Rajshri Singh Baghel](https://github.com/geekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
