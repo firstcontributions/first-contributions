@@ -121,6 +121,7 @@ Evan Rives
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
+- [August Boza](https://github.com/abozadev)
 - [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
 - [Tarun Apppannagari](https://github.com/TarunApp)
@@ -7352,4 +7353,4 @@ Kashish Khullar - :P
 - [linehk](https://github.com/linehk)
 - [Rishil](https://github.com/rishilss99)
 - [Vansh Devgan](https://github.com/vanshdevgans)
-- [TRY](https://github.com/TheRealYann) 
+- [TRY](https://github.com/TheRealYann)
