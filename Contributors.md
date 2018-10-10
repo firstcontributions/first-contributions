@@ -781,6 +781,7 @@ Kashish Khullar - :P
 - [Alexandro Perez](https://github.com/AlexandroPerez)
 - [Caleb Pomazon](https://github.com/calebpomazon)
 - [Elizabeth Onder](https://github.com/eonder)
+- [WhatTheFar](https://github.com/WhatTheFar)
 - [Piyush Srivastava](https://github.com/Shdw-Cat)
 - [Mike Guilmette](https://github.com/mg0678)
 - [Alexander Mandt](https://github.com/alexmandt)
