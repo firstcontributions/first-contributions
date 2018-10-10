@@ -7309,6 +7309,7 @@ Kashish Khullar - :P
 - [Christiawan Eko](https://github.com/christiawaneko)
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
 - [Osama Azmi](https://github.com/Samuelimza)
+- [Lineeyed] (https://github.com/Lineeyed)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
 - [Pedro Vicari](https://github.com/pvicari)
