@@ -7358,3 +7358,4 @@ Kashish Khullar - :P
 - [TRY](https://github.com/TheRealYann)
 - [Tomasz Bawor](https://github.com/tomaszbawor)
 - [Nayalash Mohammad](https://github.com/Nayalash)
+- [Andrew Hopkins](https://github.com/andrewjhopkins)
