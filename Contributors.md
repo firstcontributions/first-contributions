@@ -7302,3 +7302,5 @@ Kashish Khullar - :P
 - [Christopher Mayfield](https://github.com/christophermayfield)
 - [Carlos Proiete](https://github.com/carlosproiete)
 - [Wico](https://github.com/wicogohome)
+- [1337k0d3r](https://github.com/1337k0d3r)
+
