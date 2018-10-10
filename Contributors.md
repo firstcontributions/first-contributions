@@ -7312,6 +7312,7 @@ Kashish Khullar - :P
 - [José Lucas](https://github.com/lukpod1)
 - [SADIK KUZU](https://github.com/sadikkuzu)
 - [Christiawan Eko](https://github.com/christiawaneko)
+- [vinayatekale] (https://github.com/vinayatekale)
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
 - [Osama Azmi](https://github.com/Samuelimza)
 - [MUSTHAFA ALI](https://github.com/codali)
