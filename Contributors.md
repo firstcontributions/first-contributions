@@ -8,6 +8,7 @@
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
+- [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
