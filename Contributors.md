@@ -282,6 +282,7 @@ liliannas
 - [maxpoi]
 - [Siju Thomas]
 - [Tasha Penwell]
+- [Raphael Mainenti]
 - [sktifa](https://github.com/sahbi-ktifa)
 - [bjorkqvist](https://github.com/bjorkqvist)
 - [Shashank Mohabia](https://github.com/shashankmohabia)
