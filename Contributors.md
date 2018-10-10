@@ -3,6 +3,7 @@
 - [AdrianHL](https://github.com/AdrianHL)
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
+- Thank you! [Omniyyah] (https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
