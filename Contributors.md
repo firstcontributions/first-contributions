@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
 -[siddhant wadhwa](https://github.com/sidd2010)
@@ -11,6 +11,7 @@
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
 - [Prakher Prashank]()
+- nick spagnola
 - [Ortwin van Vessem](https://github.com/ovvessem)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
