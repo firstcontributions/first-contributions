@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
--[siddhant wadhwa](https://github.com/sidd2010)
+- [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
@@ -7386,3 +7386,4 @@ Kashish Khullar - :P
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Gigi](https://github.com/GGn0)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
+- [Apurva N Saraogi](https://github.com/apurva91)
