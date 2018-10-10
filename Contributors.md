@@ -590,6 +590,7 @@ bilalsiraj
 - [Emily Qin]()
 - Pankaj Khemani
 - [Hulloowan Bha](https://github.com/hulloowan)
+- [Avinash Raghuthu](https://github.com/avinashraghuthu)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
 - [Tarun Jindal](https://github.com/tarunjindal790)
