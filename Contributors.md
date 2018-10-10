@@ -83,6 +83,7 @@ Evan Rives
 - [Maria McCauley](https://github.com/mcmccauley)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
+- [Nirmani Gunathilaka] (https://github.com/NirmaniGunathilaka)
 - [Sean Kim] (https://github.com/sungk44)
 - [Mitchell Fontaine] (https://github.com/mitchellfontainemn)
 - [Vu Nguyen] (https://github.com/vnguyen678)
