@@ -238,6 +238,7 @@ Evan Rives
 - [Rafael Framil] (https://github.com/raframil)
 - [Braelyn Rotman] (https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
+- [Chris Baumler](https://github.com/cbaumler)
 - [Alvin Ho](https://github.com/cureja)
 - [Christian Coan](https://github.com/christiancoan)
 - [AyushJindal]
