@@ -3339,6 +3339,7 @@ Kashish Khullar - :P
 - [Yogesh Patel](https://github.com/yogeshpatel276052)
 - [Lachlan Brown](https://github.com/lachie246)
 - [Jeremy Tsang](https://github.com/jeremytsang1)
+- [Nick Hafkemeyer](https://github.com/np1e)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
