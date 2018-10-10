@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
@@ -186,6 +186,7 @@ Evan Rives
 - [Anubhav](https://github.com/annubv)
 - [Raunak Sharma](https://github.com/raunak-sharma)
 - [rahul]
+- [Shalini Sreedhar](https://github.com/shalini-s)
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
 - [Gabriel Fonseca] (https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
