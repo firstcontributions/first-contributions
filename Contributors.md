@@ -7299,3 +7299,4 @@ Kashish Khullar - :P
 - [rtDenver91](https://github.com/rtdenver91)
 - [Christopher Mayfield](https://github.com/christophermayfield)
 - [Carlos Proiete](https://github.com/carlosproiete)
+- [Wico](https://github.com/wicogohome)
