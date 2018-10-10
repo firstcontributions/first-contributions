@@ -7389,3 +7389,4 @@ Kashish Khullar - :P
 - [Gigi](https://github.com/GGn0)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
+- [Ramón Chancay Ortega](https://github.com/devrchancay)
