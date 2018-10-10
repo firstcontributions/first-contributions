@@ -7368,4 +7368,5 @@ Kashish Khullar - :P
 - [apples723](https://github.com/apples723)
 - [Andrew Hopkins](https://github.com/andrewjhopkins)
 - [Amrita Singha Roy](https://github.com/Amrito1996)
--[Shivam Sharma](https://shivams334.github.io)
+- [Shivam Sharma](https://shivams334.github.io)
+- [Pratyum Jagan](https://github.com/Pratyum)
