@@ -7319,3 +7319,4 @@ Kashish Khullar - :P
 - [Alexander Jackson] (https://github.com/nantangitan)
 - [pittyi2nd](https://github.com/pittyi2nd)
 - [Hoang Vu](https://github.com/hoangvq288)
+- [Ryan Denton](https://github.com/radmang)
