@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
+-[siddhant wadhwa](https://github.com/sidd2010)
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
@@ -8,6 +9,8 @@
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
+- [Prakher Prashank]()
+- [Ortwin van Vessem](https://github.com/ovvessem)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
@@ -78,6 +81,7 @@
 - [Austin Hyder](https://github.com/DoctorMooch)
 - [Jan Carlo Once](https://github.com/jancarloonce)
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
+- [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
@@ -204,6 +208,7 @@ Evan Rives
 - [Ganga S Nair](https://github.com/ganga1807)
 - [Parv](https://github.com/Parv-Saini)
 - [Anubhav](https://github.com/annubv)
+liliannas
 - [Raunak Sharma](https://github.com/raunak-sharma)
 - [rahul]
 - [Shalini Sreedhar](https://github.com/shalini-s)
@@ -457,6 +462,7 @@ bilalsiraj
 - [Francesco Zardi](https://github.com/frazar)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
+- [Filip Marius Samuel](https://github.com/1337M0nst3r)
 - [Manish](https://github.com/Manish17292000)
 - [Jess Yin](https://github.com/jcat1504)
 - [Oscar Mera](https://github.com/odmera)
@@ -7350,6 +7356,7 @@ Kashish Khullar - :P
 - [basher666](https://github.com/basher666)
 - [KSSBro](https://github.com/KSSBro)
 - [vonDowntown](https://github.com/vonDowntown)
+- [christophorosdk](https://github.com/christophorosdk)
 - [wolfharan]( https://github.com/wolfharan/ )
 - [linehk](https://github.com/linehk)
 - [Rishil](https://github.com/rishilss99)
@@ -7358,3 +7365,7 @@ Kashish Khullar - :P
 - [Tomasz Bawor](https://github.com/tomaszbawor)
 - [Nayalash Mohammad](https://github.com/Nayalash)
 - [Behrooz Kamali](https://github.com/behroozk)
+- [apples723](https://github.com/apples723)
+- [Andrew Hopkins](https://github.com/andrewjhopkins)
+- [Amrita Singha Roy](https://github.com/Amrito1996)
+- [Shivam Sharma](https://shivams334.github.io)
