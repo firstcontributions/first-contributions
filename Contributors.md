@@ -1,6 +1,7 @@
 ﻿# Contributors
 
-  [Tomas Vera](https://github.com/tomasvera24)
+- [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- [Tomas Vera](https://github.com/tomasvera24)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
