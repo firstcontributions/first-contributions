@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
 - [Russell Claxton](https://github.com/russellc92)
@@ -18,7 +18,7 @@
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
-[Tharindu Malshan](https://github.com/tharindumalshan1)
+- [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
 - [Jamie Townsend](https://github.com/diginari)
@@ -90,7 +90,7 @@
 - [Colton Boston](https://github.com/ColtonBoston)
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
-Evan Rives
+- Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
@@ -109,6 +109,7 @@ Evan Rives
 - [Uzma Faiz] (https://github.com/uzmafaiz)
 - [Mason D] (https://github.com/Twileigh)
 - [Aaron Sato] (https://github.com/2asato)
+- [David Hanks](https://github.com/thedavidhanks)
 - [Anshul Garg] (https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
 - [Phoutsaksit Keomala](https://github.com/KeomalaP)
