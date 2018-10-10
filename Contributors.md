@@ -127,6 +127,7 @@ Evan Rives
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
 - [Prabhakar Deep](https://github.com/prvkr)
 - [Himanshu Aggarwal](https://github.com/himanshu0113)
+- [Andrew Hsieh](https://github.com/dru1208)
 - [August Boza](https://github.com/abozadev)
 - [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
