@@ -10,6 +10,7 @@
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
 - [Prakher Prashank]()
+- [Ortwin van Vessem](https://github.com/ovvessem)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
