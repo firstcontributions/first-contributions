@@ -7323,6 +7323,7 @@ Kashish Khullar - :P
 - [Pedro Vicari](https://github.com/pvicari)
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
+- [Nikhil Joshi](https://github.com/diehard-coder)
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
