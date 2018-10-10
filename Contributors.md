@@ -26,6 +26,7 @@
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
+- [Dmitriy Firsov](https://github.com/Shtihl)
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Austin Hyder](https://github.com/DoctorMooch)
 - [Jan Carlo Once](https://github.com/jancarloonce)
