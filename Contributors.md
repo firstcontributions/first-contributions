@@ -840,6 +840,7 @@ Kashish Khullar - :P
 - [Jason Allshorn](https://github.com/supertopoz)
 - [Ano Newb](https://github.com/anonewb)
 - [Divya K V](https://github.com/kvdivya91)
+- [James McCarthy](https://github.com/jmccarth)
 - [Rory McLaughlin](https://github.com/TXredking)
 - [Juliana Cynthia](https://github.com/jaycynth)
 - [Anthony Serrano](https://github.com/aserrabi)
