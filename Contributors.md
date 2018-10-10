@@ -61,6 +61,7 @@
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
+- [Rishabh Srivastava](https://github.com/rishabhonline)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
 - [Vishal Sancheti](https://github.com/v1shky)
