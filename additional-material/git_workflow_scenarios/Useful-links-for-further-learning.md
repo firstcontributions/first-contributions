@@ -24,3 +24,4 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 19. [Git commandline cheat-sheet](https://gist.github.com/davfre/8313299)
 
 Keep adding more links, that you find helpful.
+Thanx for adding!
