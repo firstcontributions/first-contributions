@@ -1,6 +1,7 @@
 ﻿# Contributors
 
-  [Tomas Vera](https://github.com/tomasvera24)
+- [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- [Tomas Vera](https://github.com/tomasvera24)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
@@ -7319,4 +7320,8 @@ Kashish Khullar - :P
 - [Alexander Jackson] (https://github.com/nantangitan)
 - [pittyi2nd](https://github.com/pittyi2nd)
 - [Hoang Vu](https://github.com/hoangvq288)
+- [egordorichev](https://github.com/egordorichev)
+- [kuraus](https://github.com/kuraus)
+- [Yoann Prot](https://github.com/Taranys)
 - [Ryan Denton](https://github.com/radmang)
+
