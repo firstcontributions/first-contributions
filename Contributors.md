@@ -79,6 +79,7 @@ Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
+- [Maria McCauley](https://github.com/mcmccauley)
 - [Nippun Lakhani] (https://github.com/nippun99)
 - [Amiya Kumar Tripathy] (https://github.com/amiya-1998)
 - [Sean Kim] (https://github.com/sungk44)
