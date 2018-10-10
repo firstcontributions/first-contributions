@@ -39,6 +39,7 @@
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
+- [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Jeremie Daniel](https://github.com/jeremie1112)
