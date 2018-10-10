@@ -5,6 +5,7 @@
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
 - [Patrick Schemering](https://github.com/pschemer)
+- [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
