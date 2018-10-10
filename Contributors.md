@@ -5311,7 +5311,7 @@ Kashish Khullar - :P
 - [James Ball](https://github.com/jamesballs)
 - [Lara Okafor](https://github.com/lcokafor)
 - [Mitch Waldman](https://github.com/mitchswaldman)
-- [Johannes Merkert] (https://github.com/jmerkert)
+- [Johannes Merkert](https://github.com/jmerkert)
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
 - [Micah Workman](https://github.com/nidoprince)
@@ -7377,3 +7377,4 @@ Kashish Khullar - :P
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
+- [Nick Slaven](https://github.com/nickslaven)
