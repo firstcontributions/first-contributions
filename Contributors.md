@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
 -[siddhant wadhwa](https://github.com/sidd2010)
@@ -18,6 +18,7 @@
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
+- [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
