@@ -1,6 +1,7 @@
 # Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
+- [Aman Singh](https://github.com/AMANSINGH1998)
 -[siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Russell Claxton](https://github.com/russellc92)
