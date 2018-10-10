@@ -735,6 +735,7 @@ Kashish Khullar - :P
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Ricky Lu](https://github.com/RCLU30)
 - [Italo Soares](https://github.com/LinuxUserIRS)
+- [Ivan Djurdjevac](https://github.com/Djuki)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
 - [Gabriel Cruz](https://github.com/LTKills)
 - [Sachin Singh](https://github.com/sacsachin)
