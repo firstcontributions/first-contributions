@@ -73,6 +73,7 @@
 - [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
+- [Garrett Yaworski](https://github.com/gy162134)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
