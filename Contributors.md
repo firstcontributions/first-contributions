@@ -7258,6 +7258,7 @@ Kashish Khullar - :P
 - [Johny] (https://github.com/johnykuz)
 - [Royce Dy] (https://github.com/rad182)
 - [caow2] (https://github.com/caow2)
+- [Hayi Nukman] (https://github.com/ha-yi)
 - [Luca Bruzzone] (https://github.com/unsign3d)
 - [Paula Audet](https://github.com/paulaaudet26)
 - [Ivan](https://github.com/tikerlade)
