@@ -79,6 +79,7 @@
 - [Austin Hyder](https://github.com/DoctorMooch)
 - [Jan Carlo Once](https://github.com/jancarloonce)
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
+- [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
