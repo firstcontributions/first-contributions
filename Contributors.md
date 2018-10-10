@@ -7330,4 +7330,5 @@ Kashish Khullar - :P
 - [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
 - [Yoann Prot](https://github.com/Taranys)
+- [Megherea Eugeniu](https://github.com/eugeniumegherea)
 - [basher666](https://github.com/basher666)
