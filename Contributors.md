@@ -7360,3 +7360,4 @@ Kashish Khullar - :P
 - [Nayalash Mohammad](https://github.com/Nayalash)
 - [apples723](https://github.com/apples723)
 - [Andrew Hopkins](https://github.com/andrewjhopkins)
+- [Amrita Singha Roy](https://github.com/Amrito1996)
