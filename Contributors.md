@@ -1,6 +1,7 @@
 ﻿# Contributors
 
-  [Tomas Vera](https://github.com/tomasvera24)
+- [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- [Tomas Vera](https://github.com/tomasvera24)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
@@ -60,6 +61,7 @@
 - [Walter Palagi](https://github.com/walterpalagi)
 - [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
+- [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Daniel Menachem](https://github.com/doom3007)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
@@ -81,6 +83,7 @@
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
+- [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
@@ -165,6 +168,7 @@ Evan Rives
 - [Eude K Lesperance](https://github.com/lkeude96)
 - [Aditya Narayan Shahi](https://github.com/Shahi9935)
 - [Mahdi HB](https://github.com/mhb8898)
+- [Maku](https://github.com/makupi/)
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
 - [Snir The Man]
@@ -952,6 +956,7 @@ Kashish Khullar - :P
 - [tsehori](https://github.com/tsehori)
 - [Rohit Mahato](https://github.com/rkmsh)
 - [Aryan Verma](https://github.com/amazing-aryan)
+- [Tomás Caldas](https://github.com/tomasvcaldas)
 - [vamshi aruru](https://github.com/vamshiaruru)
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
@@ -3336,6 +3341,7 @@ Kashish Khullar - :P
 - [Yogesh Patel](https://github.com/yogeshpatel276052)
 - [Lachlan Brown](https://github.com/lachie246)
 - [Jeremy Tsang](https://github.com/jeremytsang1)
+- [Nick Hafkemeyer](https://github.com/np1e)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
@@ -4991,6 +4997,7 @@ Kashish Khullar - :P
 - [Giovanni HoSang](https://github.com/realgio95)
 - [Christopher Reece](https://github.com/momotofu)
 - [Alejandro Calleja](https://github.com/alximw)
+- [Giovanni Cruz](https://github.com/giovannicruz97)
 - [Herukam](https://github.com/Herukam)
 - [Jeo](https://github.com/jeo011)
 - [Utkarsh Mishra](https://github.com/ulshell)
@@ -7137,6 +7144,7 @@ Kashish Khullar - :P
 - [Bruno Dulcetti](https://github.com/dulcetti)
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
 - [Caitlyn Woods](https://github.com/catielynncodes)
+- [Irwan Kurnia Phan](https://github.com/irwanphan)
 - [Ethan Hsu](https://github.com/ethan627hsu)
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
 - [Kridsada Duangmala](https://github.com/kridsadacpe)
@@ -7270,6 +7278,7 @@ Kashish Khullar - :P
 - [Luca Bruzzone] (https://github.com/unsign3d)
 - [Paula Audet](https://github.com/paulaaudet26)
 - [Ivan](https://github.com/tikerlade)
+- [pyjaks](https://github.com/pyjaks)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
 - [Christophe Prmentier](https://github.com/ParmentierChristophe)
 - [Minanshu Singh](https://github.com/kryptokinght)
@@ -7323,3 +7332,5 @@ Kashish Khullar - :P
 - [kuraus](https://github.com/kuraus)
 - [Yoann Prot](https://github.com/Taranys)
 - [Oscar Rodriguez](https://github.com/lagartoverde)
+- [Megherea Eugeniu](https://github.com/eugeniumegherea)
+- [basher666](https://github.com/basher666)
