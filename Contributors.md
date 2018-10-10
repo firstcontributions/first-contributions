@@ -39,6 +39,7 @@
 - [Rajshri Singh Baghel](https://github.com/geekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
 - [Hattou Faïssal](https://github.com/Bakhaw)
+- [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [Hemant Khandelwal](https://github.com/iamhem)
