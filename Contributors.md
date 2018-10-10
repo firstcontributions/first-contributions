@@ -7372,3 +7372,4 @@ Kashish Khullar - :P
 - [Amrita Singha Roy](https://github.com/Amrito1996)
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
+- [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
