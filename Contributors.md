@@ -956,6 +956,7 @@ Kashish Khullar - :P
 - [tsehori](https://github.com/tsehori)
 - [Rohit Mahato](https://github.com/rkmsh)
 - [Aryan Verma](https://github.com/amazing-aryan)
+- [Tomás Caldas](https://github.com/tomasvcaldas)
 - [vamshi aruru](https://github.com/vamshiaruru)
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
