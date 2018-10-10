@@ -78,7 +78,7 @@ Išsiųskite pakeitimus komanda `git push`:
 ```
 git push origin <add-tavo-vardas>
 ```
-pakeisdami `<tavo-vardas>` anskčiau sukurtos šakos (branch) vardu.
+pakeisdami `<tavo-vardas>` anksčiau sukurtos šakos (branch) vardu.
 
 ## Pateikite pakeitimus peržiūrai
 
