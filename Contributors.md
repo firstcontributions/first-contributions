@@ -7321,3 +7321,4 @@ Kashish Khullar - :P
 - [Hoang Vu](https://github.com/hoangvq288)
 - [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
+- [Yoann Prot](https://github.com/Taranys)
