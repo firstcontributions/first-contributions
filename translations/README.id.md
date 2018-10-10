@@ -69,7 +69,7 @@ Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke da
 git add Contributors.md
 ```
 
-Commit perubahan tersebut menggunakan perintah `git commit`:
+Simpan perubahan tersebut menggunakan perintah `git commit`:
 ```
 git commit -m "Add <nama> to Contributors list"
 ```
@@ -93,7 +93,7 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan Anda ke cabang master proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
+Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan Anda ke cabang master proyek ini. Anda akan mendapatkan pemberitahuan melalui email setelah perubahan tersebut selesai digabungkan.
 
 Cabang master dari fork Anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork Anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
