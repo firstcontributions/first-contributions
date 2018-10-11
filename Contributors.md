@@ -1,6 +1,7 @@
 # Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
+- [Aditya Anantharaman] (https://github.com/aditya9898)
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
