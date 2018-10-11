@@ -66,6 +66,7 @@
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Zack_Shorts](https://github.com/zackshorts)
 - [Agustin Vargas](https://github.com/chikiwawa)
+- [Ed Prince](https://github.com/edprince)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Till Favier]
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
