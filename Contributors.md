@@ -5,6 +5,7 @@
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [Raghav Gupta](https://github.com/raghav3003)
+- [Wayne Fan](https://github.com/wei8596)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
