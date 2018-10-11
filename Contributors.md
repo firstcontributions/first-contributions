@@ -876,6 +876,7 @@ Kashish Khullar - :P
 - [Ankit Bando](https://github.com/OutrageousStop)
 - [Ryan Robinson](https://github.com/Ryan00000)
 - [anoushka](https://github.com/Anoushka-Anu)
+- [john](https://github.com/forwinder15)
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
 - [Armaan Singh Bhullar](https://github.com/ArmaanBhullar)
 - [Anisha Pai](https://github.com/anishapai)
