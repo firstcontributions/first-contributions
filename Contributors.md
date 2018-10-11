@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
 - [siddhant wadhwa](https://github.com/sidd2010)
