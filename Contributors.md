@@ -7461,3 +7461,4 @@ Kashish Khullar - :P
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
 - [Leonard Broman](https://github.com/lbroman)
+- [Illya Stolpakov](https://github.com/settnozz)
