@@ -23,6 +23,7 @@
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
+- [Emmaunuel Owusu](https://github.com/emanovic7)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
