@@ -6938,6 +6938,7 @@ Kashish Khullar - :P
 - [Viktor Black](https://github.com/korki-ayo)
 - [Rafal Rudko](https://github.com/kegriz)
 - [Markus Petersson](https://github.com/marpe163)
+- [Anh T Nguyen](https://github.com/shin2903)
 - [Nemohack](https://github.com/nemohack)
 - [Saumya Wardhan](https://github.com/swardhan)
 - [Sreelakshmi Sudey](https://github.com/sreesudey)
