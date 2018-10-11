@@ -7434,6 +7434,7 @@ Kashish Khullar - :P
 - [Megherea Eugeniu](https://github.com/eugeniumegherea)
 - [basher666](https://github.com/basher666)
 - [KSSBro](https://github.com/KSSBro)
+- [JianLoong](https://github.com/JianLoong)
 - [vonDowntown](https://github.com/vonDowntown)
 - [christophorosdk](https://github.com/christophorosdk)
 - [wolfharan]( https://github.com/wolfharan/ )
