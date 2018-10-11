@@ -1,5 +1,5 @@
 # Contributors
-- [Harsh_Kotak](https://github.com/hkotak)
+
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
 - [siddhant wadhwa](https://github.com/sidd2010)
@@ -4093,6 +4093,7 @@ Kashish Khullar - :P
 - [Mebtte](https://github.com/mebtte)
 - [Agustin Daguerre](https://github.com/agustindaguerre)
 - [Alex Calhoun](https://github.com/alhoun17)
+- [Harsh_Kotak](https://github.com/hkotak)
 - [Jean Lopes](https://github.com/JeanLLopes)
 - [Jarrod Van Doren](https://github.com/Demonico)
 - [Neal](https://github.com/YogiAgency)
