@@ -17,6 +17,7 @@
 - [Himanshu Jotwani]()
 - [Prakher Prashank]()
 - nick spagnola
+- [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
 - [Rahul Singh(LEO)](https://github.com/Leo5661)
 - [Ortwin van Vessem](https://github.com/ovvessem)
