@@ -7402,3 +7402,4 @@ Kashish Khullar - :P
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
 - [K Zhao](https://github.com/K-zhao)
 - [Jason Oats](https://github.com/jason-oats)
+- [TAKUYA YOshimura](https://github.com/yoshitaku-jp)
