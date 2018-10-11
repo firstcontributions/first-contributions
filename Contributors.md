@@ -37,6 +37,7 @@
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
 - [Rahul Singh(LEO)](https://github.com/Leo5661)
 - [Ortwin van Vessem](https://github.com/ovvessem)
+- [Sorokin Ruslan](https://github.com/PufonBarn)
 - [Samuel Funston](https://github.com/sfunston)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
