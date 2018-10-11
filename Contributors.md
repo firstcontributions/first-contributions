@@ -2485,6 +2485,7 @@ Kashish Khullar - :P
 - [Rick Sanchez Wabba Labba Dub Dub](https://github.com/bhvk)
 - [Karthick Thoppe](https://github.com/karthicktv)
 - [Kurtis Taylor](https://github.com/quietgiant)
+- [@golfiti](https://github.com/golfiti)
 - [Dhanush c](https://github.com/dhanush13-c)
 - [Claire Russell](https://github.com/clairefied)
 - [airbnben](https://github.com/airbnben)
