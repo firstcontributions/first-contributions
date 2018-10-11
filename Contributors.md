@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [AdrianHL](https://github.com/AdrianHL)
 - [siddhant wadhwa](https://github.com/sidd2010)
@@ -6901,6 +6901,7 @@ Kashish Khullar - :P
 - [Poh Ti](https://github.com/pohti)
 - [Simon](https://github.com/Simon2828/)
 - [Tjarpsp](https://github.com/tjarpsp)
+- [AzinT] (https://github.com/AzinT)
 - [Nasrin Shirali](https://github.com/Nasrin-Shiraly)
 - [Matthew Anderson](https://github.com/mattander91)
 - [Saurabh Srivastava](https://github.com/saurass)
