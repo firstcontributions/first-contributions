@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [furoTmark](https://github.com/furoTmark)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
@@ -11,6 +11,7 @@
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
+- [Aman Singh](https://github.com/AMANSINGH1998)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
