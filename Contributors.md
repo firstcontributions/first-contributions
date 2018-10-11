@@ -7477,3 +7477,4 @@ Kashish Khullar - :P
 - [xenocidewiki](https://github.com/xenocidewiki)
 - [Carlos Abdalla](https://github.com/abdalla)
 - [Ryan OHara](http://github.com/rao4)
+- [Eraldo Jr](http://github.com/ejr004)
