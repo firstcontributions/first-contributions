@@ -1,6 +1,7 @@
 # Contributors
 
 - [Lydia Lane](https://github.com/LydiaLane)
+- [Kash D] (https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
