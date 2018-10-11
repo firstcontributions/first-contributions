@@ -7471,3 +7471,4 @@ Kashish Khullar - :P
 - [B Choe](https://github.com/bchoe)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
+- [Ssekitto Charlse](https://github.com/bozicschucky)
