@@ -48,6 +48,7 @@
 - [Mustapha Babajide Adubiagbe](https://github.com/jidemusty)
 - [Alexander Le] (https://github.com/AlexanderDLe)
 - [Urszula](https://github.com/CebUleczka)
+- [Arka Mitra](https://github.com/thearkamitra)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Karl von Klein](https://github.com/kvonklein)
