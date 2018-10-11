@@ -7,7 +7,7 @@ You need to run it locally on your desktop.
 
 In order to do that:
 
-Move to desired location where package.json file is located
+Move to the desired location where package.json file is located
 
 - Install npm(latest version) -
     npm is distributed with Node.js - which means that when you download Node.js,
@@ -46,7 +46,7 @@ We have some rules for translation. If you make the first translation for your l
 ```
 
 ## TODO
-- [ ] Fix grammar for the contribution guide.
+- [ ] Fix the grammar for the contribution guide.
 - [ ] Add more examples and more guides.
 
 
