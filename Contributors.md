@@ -7432,6 +7432,7 @@ Kashish Khullar - :P
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
+- [Sharma Harsh](https://github.com/97harsh)
 - [Gigi](https://github.com/GGn0)
 - [Ashen Silva](https://github.com/ashensilva96)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
