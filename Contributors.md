@@ -8,6 +8,7 @@
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
+- [Clodoaldo Favero] (https://github.com/clodoaldofavero)
 - [Himanshu Jotwani]()
 - [Prakher Prashank]()
 - [Evgeny Kasian](https://github.com/ievgenk)
