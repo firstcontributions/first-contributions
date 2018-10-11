@@ -7377,4 +7377,4 @@ Kashish Khullar - :P
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
-- [Nick Slaven](https://github.com/nickslaven)
+- [Nick Slaven](https://github.com/nslaven22)
