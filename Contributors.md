@@ -240,7 +240,7 @@ Evan Rives
 - [Ganga S Nair](https://github.com/ganga1807)
 - [Parv](https://github.com/Parv-Saini)
 - [Anubhav](https://github.com/annubv)
-liliannas
+-liliannas
 - [Raunak Sharma](https://github.com/raunak-sharma)
 - [rahul]
 - [Shalini Sreedhar](https://github.com/shalini-s)
@@ -6207,6 +6207,7 @@ Kashish Khullar - :P
 - [Tim Smith](https://github.com/iamtimsmith)
 - [Luca Fissore](https://github.com/LukaF88)
 - [Al Buchala](https://github.com/albcf)
+- [Vikas Kapadiya](https://github.com/vikas5914)
 - [Cesar T](https://github.com/CDTREVINO1)
 - [Cai Jun](https://github.com/JohnCaiJun)
 - [Henry Anfang](https://github.com/hpanfang)
