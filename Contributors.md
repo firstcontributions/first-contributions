@@ -126,6 +126,7 @@
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
+- Corne Kooyman
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - Evan Rives
