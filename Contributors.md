@@ -593,6 +593,7 @@ bilalsiraj
 - [Bridget Liu](https://github.com/bridget72)
 - [Michael Schoderer](https://github.com/schoderer)
 - [Emma Andrews](https://github.com/emma-andrews)
+- [Tony Incendi](https://github.com/incendi)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
 - [Simon Altrogge](https://github.com/SimonAltrogge)
