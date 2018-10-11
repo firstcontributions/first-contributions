@@ -7495,3 +7495,4 @@ Kashish Khullar - :P
 - [Carlos Abdalla](https://github.com/abdalla)
 - [Ryan OHara](http://github.com/rao4)
 - [Eraldo Jr](http://github.com/ejr004)
+- [Andrew Pedersen](https://github.com/andimalfresh/)
