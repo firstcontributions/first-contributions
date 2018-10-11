@@ -7421,6 +7421,7 @@ Kashish Khullar - :P
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Gigi](https://github.com/GGn0)
+- [Ashen Silva](https://github.com/ashensilva96)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
