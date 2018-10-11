@@ -375,6 +375,7 @@
 - [Jcovln](https://github.com/Jcovln)
 - [Ryan]()
 - [Kelvin]()
+- [Trevor Fisher](http://github.com/minalear)
 - [Christian Montes De Oca](https://github.com/Siegeprogrammer)
 - [Ilham Taufiq](https://github.com/ilhamtaufiq)
 - [Sahib Khan](https://github.com/sahib-khan)
