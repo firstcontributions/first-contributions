@@ -21,6 +21,7 @@
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
+- [Trevor Nicholss](https://github.com/trevolio123)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
