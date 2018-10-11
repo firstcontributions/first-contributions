@@ -7518,3 +7518,4 @@ Kashish Khullar - :P
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Max Taylor](https://github.com/twally3)
+- [Rupna Maitra](https://github.com/zonex909)
