@@ -7469,6 +7469,7 @@ Kashish Khullar - :P
 - [Ashen Silva](https://github.com/ashensilva96)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
+- [Prabhát Kumar de Oliveira](https://github.com/bart-bk)
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
 - [K Zhao](https://github.com/K-zhao)
 - [Faseem Munna](https://github.com/faseem9048080829)
