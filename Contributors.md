@@ -115,6 +115,7 @@
 - [Rishabh Srivastava](https://github.com/rishabhonline)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
+- [Dmitriy Firsov](https://github.com/Shtihl)
 - [Vishal Sancheti](https://github.com/v1shky)
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Austin Hyder](https://github.com/DoctorMooch)
