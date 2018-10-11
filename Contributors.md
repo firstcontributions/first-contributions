@@ -7505,3 +7505,4 @@ Kashish Khullar - :P
 - [Eraldo Jr](http://github.com/ejr004)
 - [Andrew Pedersen](https://github.com/andimalfresh/)
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
+- [Arjun Agarwal](https://github.com/a-agrwaal)
