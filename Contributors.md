@@ -162,6 +162,7 @@
 - [Uzma Faiz](https://github.com/uzmafaiz)
 - [Mason D](https://github.com/Twileigh)
 - [Aaron Sato](https://github.com/2asato)
+- [Bertrand Guy](https://github.com/BertrandGuy)
 - [Anshul Garg](https://github.com/LHolmes69)
 - [Divik Mittal](https://github.com/divik544)
 - [Phoutsaksit Keomala](https://github.com/KeomalaP)
