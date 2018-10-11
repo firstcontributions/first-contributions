@@ -6821,6 +6821,7 @@ Kashish Khullar - :P
 - [Berkeley Vago-Hughes](https://github.com/Berkeley19)
 - [Manu Rajeev Karri](https://github.com/manurajeev)
 - [Josh Buckner](https://github.com/joshbuckner)
+- [Ageng Windu Sasongko](http://github.com/windusasongko)
 - [Tyson Nguyen](https://github.com/TysonNguyen)
 - [Marko](https://github.com/markost2549)
 - [A NJ](https://github.com/adarshnj)
@@ -7495,4 +7496,3 @@ Kashish Khullar - :P
 - [Carlos Abdalla](https://github.com/abdalla)
 - [Ryan OHara](http://github.com/rao4)
 - [Eraldo Jr](http://github.com/ejr004)
-- [Ageng Windu Sasongko](http://github.com/windusasongko)
