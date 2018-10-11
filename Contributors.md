@@ -122,7 +122,7 @@
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
-- [Dillon Sykes]
+- [Dillon Sykes](https://github.com/DillonSykes)
 - [Akash Giri](https://github.com/akashgiricse)
 - [Alejandra Gonzalez](https://github.com/alejandra-gonzalez)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
