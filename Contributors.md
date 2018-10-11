@@ -1,5 +1,6 @@
 # Contributors
 
+- [furoTmark](https://github.com/furoTmark)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Mohd Mushfique](https://github.com/mdmush)
