@@ -1,5 +1,5 @@
 # Contributors
-- [lidongtony](https://github.com/lidongtony)
+
 - [furoTmark](https://github.com/furoTmark)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
@@ -2045,6 +2045,7 @@ Kashish Khullar - :P
 - [Chris Ball](https://github.com/Balldy)
 - [Rahul Malhotra](https://github.com/rahulmalhotra9620)
 - [Sir Furness](https://github.com/SirFurness)
+- [lidongtony](https://github.com/lidongtony)
 - [Ahmad W Khan](https://github.com/oli18)
 - [organdonor86](https://github.com/organdonor86)
 - [RocketSc](https://github.com/RocketSc)
