@@ -7,6 +7,7 @@
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
+- [Alexandre Daltro](https://github.com/alexandrebvd)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
