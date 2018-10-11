@@ -52,6 +52,7 @@
 - [Caleb Jasik] (https://github.com/jasikpark)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
+- [Zack_Shorts](https://github.com/zackshorts)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
