@@ -151,6 +151,7 @@
 - Corne Kooyman
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
+- [SeeSharpy](https://github.com/SeeSharpy)
 - Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
