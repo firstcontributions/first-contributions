@@ -7474,4 +7474,5 @@ Kashish Khullar - :P
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
-- [xenocidewiki] (https://github.com/xenocidewiki)
+- [xenocidewiki](https://github.com/xenocidewiki)
+- [Carlos Abdalla](https://github.com/abdalla)
