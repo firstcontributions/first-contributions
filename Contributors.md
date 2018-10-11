@@ -7364,6 +7364,7 @@ Kashish Khullar - :P
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore] (https://github.com/Angelfirenze01)
 - [ZWTan](https://github.com/zwtan)
+- [sohanian](https://github.com/sohanian)
 - [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
 - [Dmitry](https://github.com/qmitry)
