@@ -1,5 +1,6 @@
 # Contributors
 
+- [Shaurya Bagga](https://github.com/shauryabagga)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
@@ -10,7 +11,7 @@
 - [Mohd Mushfique](https://github.com/mdmush)
 - [Raghav Gupta](https://github.com/raghav3003)
 - [Wayne Fan](https://github.com/wei8596)
-- [liraz kinan]
+- [liraz kinan]()
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
@@ -24,7 +25,6 @@
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
-- [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Matheus Malta](https://github.com/matheus-malta)
