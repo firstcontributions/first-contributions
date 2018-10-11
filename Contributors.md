@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-- [Leo Esp] (https://github.com/lespenilla)- [Kat MacCannon] (https://github.com/trenzafeeds)
+- [Kat MacCannon] (https://github.com/trenzafeeds)
 - [KarinRoe] (https://github.com/KarinRoe)
 - [Kaitlin] (https://github.com/kaitlin31415)
 - [WilsonRocha] (https://github.com/Sownatta)
@@ -5073,6 +5073,7 @@ Hassan Khalailla
 - [Jasper Chong](https://github.com/jasperchong)
 - [Yousef Saif](https://github.com/yousefsaif)
 - [Emil O. Johansen](https://github.com/EmilOJ)
+- [Leo Esp](https://github.com/lespenilla)
 - [Doug Dozier](https://github.com/ddozier)
 - [Itanor Strapazzon](https://github.com/itanor)
 - [Michael Eichenberger](https://github.com/MichaelE919)
