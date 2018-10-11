@@ -1,5 +1,5 @@
 # Contributors
-- [Jake](https://github.com/J-Gore)
+
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Heinrich Tremblay]((https://github.com/HeinrichTremblay)
@@ -474,7 +474,7 @@ Jimmie Faulkner
 bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
-
+- [Jake](https://github.com/J-Gore)
 - [Tyler Stanley](https://github.com/tystanley)
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
