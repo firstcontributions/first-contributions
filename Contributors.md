@@ -1,5 +1,6 @@
 # Contributors
 
+- [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
