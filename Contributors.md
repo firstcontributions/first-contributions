@@ -23,6 +23,7 @@
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
+- [Kelly Burgess](https://github.com/kellyburg)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
