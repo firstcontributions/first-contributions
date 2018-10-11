@@ -6,6 +6,7 @@
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
+- [Christopher Mohrman](https://github.com/chrismohrman)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
