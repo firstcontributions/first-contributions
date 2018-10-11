@@ -7437,6 +7437,7 @@ Kashish Khullar - :P
 - [christophorosdk](https://github.com/christophorosdk)
 - [wolfharan]( https://github.com/wolfharan/ )
 - [linehk](https://github.com/linehk)
+- [Pratik Roopchandka](https://github.com/ricky2304)
 - [Rishil](https://github.com/rishilss99)
 - [Guillem Garcia](https://github.com/cgodgers)
 - [Vansh Devgan](https://github.com/vanshdevgans)
