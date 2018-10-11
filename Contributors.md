@@ -317,6 +317,7 @@ liliannas
 - [Ana Letícia](https://github.com/anacamargos)
 - [Neville Bokdawalla](https://github.com/neville-tech)
 - [Rohit Kumar](https://github.com/rohitkumar-rk)
+- [Rohit Rana](https://github.com/Rohit777)
 - [Raspal Seni](https://github.com/raspals)
 - [Saksham Gupta](https://github.com/sakshamio)
 - [Paul Torre](https://github.com/paultorre/)
