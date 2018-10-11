@@ -7476,3 +7476,4 @@ Kashish Khullar - :P
 - [Ssekitto Charlse](https://github.com/bozicschucky)
 - [xenocidewiki](https://github.com/xenocidewiki)
 - [Carlos Abdalla](https://github.com/abdalla)
+- [Ryan OHara](http://github.com/rao4)
