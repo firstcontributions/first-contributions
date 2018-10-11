@@ -202,6 +202,7 @@ Evan Rives
 - [Abbas Beydoun] (https://github.com/abbasbeydoun)
 - [Airono](https://github.com/Airono)
 - [<Explorer />](https://github.com/open-source-explorer)
+- [josephttran]
 - [Karthick aravindan](https;//github.com/12345k)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
