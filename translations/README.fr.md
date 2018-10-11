@@ -23,7 +23,7 @@ Cela va créer une copie du répertoire sur votre compte.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonez ce répertoire" />
 
-Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton clone puis cliquez sur l'icone *copier dans le presse-papier*.
+Maintenant, clonez ce répertoire sur votre ordinateur. Cliquez sur le bouton *clone* puis cliquez sur l'icone *copier dans le presse-papier*.
 
 Ouvrez un invite de commande et exécutez les commandes git suivantes :
 
