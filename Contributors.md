@@ -1,5 +1,6 @@
 # Contributors
 
+- [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [Raghav Gupta](https://github.com/raghav3003)
