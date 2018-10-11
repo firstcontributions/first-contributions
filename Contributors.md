@@ -2232,6 +2232,7 @@ Kashish Khullar - :P
 - [Dave Hurley](https://github.com/dmhurley)
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Junior Gantin](https://github.com/nioperas06)
+- [Clodoaldo Favero](https://github.com/clodoaldofavero)
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [GardenSnake](https://github.com/GardenSnake)
