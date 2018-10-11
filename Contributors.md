@@ -461,6 +461,7 @@ bilalsiraj
 - [Zach Capshaw](https://github.com/zcapshaw)
 - [Aayush Sharma](https://github.com/andy1771)
 - [Zach Wienandt](https://github/com/thezymurgist)
+- [Michal Wisniewski](https://github.com/mihuwis)
 - [Jordan McAdoo](https://github.com/jordangee)
 - [Nikhil Dhyani](https://github.com/NikhilDhyani/)
 - [Nico Jeske](https://github.com/nicojeske)
