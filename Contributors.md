@@ -64,6 +64,7 @@
 - [Zack_Shorts](https://github.com/zackshorts)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
+- [Till Favier]
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Hamza Ali](https://github.com/ryzbaka)
 - [Tamoghno Das](https://github.com/dastamoghno)
