@@ -7323,6 +7323,7 @@ Kashish Khullar - :P
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Hassani King Senior](https://github.com/HKSenior)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
+- [Mike Tabola](https://github.com/r00tm4k3r)
 - [Bruno Silva](https://github.com/brunorgs)
 - [Josh Horwitz](https://github.com/jdhorwitz)
 - [Breindy](https://github.com/breindy)
