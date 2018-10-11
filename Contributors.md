@@ -144,6 +144,7 @@ Evan Rives
 - [Collin Cates](https://github.com/collincates)
 - [Raghav Grover](https://github.com/raghav7997)
 - [Jacobian Det](https://github.com/JacobianDet)
+- [Andrew M. S. Boyd](https://github.com/andrewmsboyd)
 - [Mostafa Mansour](https://github.com/tifa64)
 - [DarylBupt](https://github.com/darylbupt)
 - [Alex Kichukov](https://github.com/allexpleblord)
