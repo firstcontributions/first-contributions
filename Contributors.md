@@ -7392,3 +7392,4 @@ Kashish Khullar - :P
 - [Apurva N Saraogi](https://github.com/apurva91)
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
 - [K Zhao](https://github.com/K-zhao)
+- [Jason Oats](https://github.com/jason-oats)
