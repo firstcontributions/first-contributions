@@ -7481,6 +7481,7 @@ Kashish Khullar - :P
 - [K Zhao](https://github.com/K-zhao)
 - [Faseem Munna](https://github.com/faseem9048080829)
 - [Jason Oats](https://github.com/jason-oats)
+- [TAKUYA YOshimura](https://github.com/yoshitaku-jp)
 - [Jing Rong Lim](https://github.com/jjingrong)
 - [Paul Eiche](https://github.com/peiche)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
