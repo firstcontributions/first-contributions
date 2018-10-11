@@ -117,6 +117,7 @@
 Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
+- [Brandon Thibeaux](https://github.com/thibeaux)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Benni Russell](https://github.com/8eni)
 - [Maria McCauley](https://github.com/mcmccauley)
