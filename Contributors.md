@@ -2,6 +2,7 @@
 
 - [furoTmark](https://github.com/furoTmark)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
+- [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Mohd Mushfique](https://github.com/mdmush)
