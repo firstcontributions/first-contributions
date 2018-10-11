@@ -477,6 +477,7 @@
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Sahaj Kulshrestha](https://github.com/Sahaj21)
 - Dhanish Ashraf
+- [Courtney Arnold]
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Jon Robinson]
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
