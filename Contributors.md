@@ -873,6 +873,7 @@ Kashish Khullar - :P
 - [Robin Lashof-Regas](https://github.com/RLashofRegas)
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
+- [Vinay Kotwal](https://github.com/Storm017)
 - [A.Lau](https://github.com/ALau2088)
 - [Valentine]()
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
