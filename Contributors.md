@@ -5704,6 +5704,7 @@ Kashish Khullar - :P
 - [Kshitij Badkas](https://github.com/kshitij-badkas)
 - [Ivan Nieto](https://github.com/inietov)
 - [Vishnu Poothery](https://github.com/vishnupoothery)
+- [Christian Mitter](https://github.com/chrismitter)
 - [Debasree Samadder](https://github.com/debasree888)
 - [k0b4zz8](https://github.com/k0b4zz8)
 - [Shrey Sharma](https://github.com/shrey32)
@@ -7444,4 +7445,3 @@ Kashish Khullar - :P
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
 - [Leonard Broman](https://github.com/lbroman)
-- [Christian Mitter](https://github.com/chrismitter)
