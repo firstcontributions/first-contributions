@@ -23,6 +23,7 @@
 - [Taha Ali](https://github.com/TahaAli07)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
+- [Karuna Sehgal](https://github.com/karuna24s)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
