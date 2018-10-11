@@ -2,6 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # <div dir="rtl">مساهمتك الأولى</div>
@@ -183,6 +185,6 @@ git push origin master
 
 ## <div dir="rtl">ماذا أفعل بعد هذا؟</div>
 
-<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">انضم إلى فريق Slack</a></div>
+<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">انضم إلى فريق Slack</a></div>
 
 <br>

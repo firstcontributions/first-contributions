@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 # Kontribusi Pertama
 
@@ -41,7 +42,7 @@ git clone https://github.com/username-anda/first-contributions.git
 ```
 Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Membuat Branch
+## Membuat Cabang
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
@@ -66,7 +67,7 @@ Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama anda ke da
 git add Contributors.md
 ```
 
-Commit perubahan tersebut menggunakan perintah `git commit`:
+Simpan perubahan tersebut menggunakan perintah `git commit`:
 ```
 git commit -m "Add <nama> to Contributors list"
 ```
@@ -90,13 +91,13 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan anda ke master cabang proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan tersebut selesai digabungkan.
+Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan anda ke cabang master proyek ini. Anda akan mendapatkan pemberitahuan melalui email setelah perubahan tersebut selesai digabungkan.
 
 Cabang master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
 ## Membuat fork anda selaras dengan repositori ini
 
- Pertama, ganti posisi ke branch master.
+ Pertama, ganti posisi ke cabang master.
  ```
  git checkout master
  ```
@@ -109,7 +110,7 @@ Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang t
 git fetch upstream
 ```
 
-Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam branch master milik anda.
+Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam cabang master milik anda.
 ```
 git rebase upstream/master
 ```
@@ -127,13 +128,13 @@ dan anda dapat menghapus versi tersebut yang ada di repositori remote:
 ```
 git push origin --delete <add-nama>
 ```
-Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
+Hal ini sebenarnya tidak diperlukan namun nama dari cabang ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
 
 ## Tutorial Menggunakan Tools Lain
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
 ## Ke mana lagi setelah dari sini?
 
@@ -147,9 +148,9 @@ Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan dafta
 
 ## Tutorial menggunakan alat lain
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
 ## Promosi
 
