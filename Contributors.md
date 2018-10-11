@@ -11,6 +11,7 @@
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karan Tandon](https://github.com/karan2dec)
+- [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
