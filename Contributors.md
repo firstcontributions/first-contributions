@@ -7424,5 +7424,6 @@ Kashish Khullar - :P
 - [Faseem Munna](https://github.com/faseem9048080829)
 - [Jason Oats](https://github.com/jason-oats)
 - [Jing Rong Lim](https://github.com/jjingrong)
-- [Paul Eiche](https://github.com/peiche) 
+- [Paul Eiche](https://github.com/peiche)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
+- [Mouffy](https://github.com/mcampourcy)
