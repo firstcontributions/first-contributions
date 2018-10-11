@@ -7428,3 +7428,4 @@ Kashish Khullar - :P
 - [Paul Eiche](https://github.com/peiche) 
 - [TheDreamSaver](https://github.com/TheDreamSaver)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
+- [B Choe](https://github.com/bchoe)
