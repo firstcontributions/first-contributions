@@ -7513,3 +7513,4 @@ Kashish Khullar - :P
 - [Andrew Pedersen](https://github.com/andimalfresh/)
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
+- [Max Taylor](https://github.com/twally3)
