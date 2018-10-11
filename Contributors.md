@@ -55,6 +55,7 @@
 - [Anjali Garg](https://github.com/AnjaliGarg13)
 - [Ravi Gupta](https://github.com/guptaravi540)\
 - [Oshidi Weerakulasuriya](https://github.com/OshidiWeerakulasuriya)
+- [Corey Hayden](https://github.com/cghayden)
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
 - [Thein Oo](https://github.com/thoo)
