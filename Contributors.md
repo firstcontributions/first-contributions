@@ -39,6 +39,7 @@
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
 - [Karan Tandon](https://github.com/karan2dec)
+- [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
