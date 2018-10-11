@@ -7426,3 +7426,4 @@ Kashish Khullar - :P
 - [Jing Rong Lim](https://github.com/jjingrong)
 - [Paul Eiche](https://github.com/peiche) 
 - [TheDreamSaver](https://github.com/TheDreamSaver)
+- [Capitan Falafel](https://github.com/CapitanFalafel)
