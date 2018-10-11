@@ -38,6 +38,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 [🇧🇷](translations/README.pt_br.md)
 [🇵🇹](translations/README.pt-pt.md)
 [🇮🇹](translations/README.it.md)
+[🇩🇴](translations/README.dr.md)
 [🇹🇭](translations/README.th.md)
 [🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
 [🇵🇰](translations/README.ur.md)
