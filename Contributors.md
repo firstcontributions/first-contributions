@@ -5878,6 +5878,7 @@ Mayank Bansal
 - [Michael Kareithi](https://github.com/bikeboi)
 - [Amitabh Soni](https://github.com/beats55)
 - [Kelli Summers](https://github.com/kellisum)
+- [Tomasz Dorosz](https://github.com/tdorosz)
 - [Tarun Rao](https://github.com/TarunRaoK98)
 - [Rudolfs Puteklis](https://github.com/Wildlander)
 - [Vitor Felix](https://github.com/Vitor-Felix)
