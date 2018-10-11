@@ -98,7 +98,7 @@ Now create a branch using the `git checkout` command:
 git checkout -b <add-your-new-branch-name>
 ```
 
-For example:
+let's take  xample:
 ```
 git checkout -b add-alonzo-church
 ```
