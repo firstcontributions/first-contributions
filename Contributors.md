@@ -66,6 +66,7 @@
 - [Mahesh](https://github.com/mforgaian)
 - [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
+- [Jazz Loffredo](https://github.com/jazzloffredo)
 - [Jeremy Fox](https://github.com/jeremyfox36)
 - [Jeremie Daniel](https://github.com/jeremie1112)
 - [ThankGod Egbo](https://github.com/thatruth24)
