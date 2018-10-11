@@ -20,7 +20,7 @@
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aman Singh](https://github.com/AMANSINGH1998)
-- [Aditya Anantharaman] (https://github.com/aditya9898)
+- [Aditya Anantharaman](https://github.com/aditya9898)
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
@@ -1587,6 +1587,7 @@ Kashish Khullar - :P
 - [Ranjit Gupta](https://github.com/ranjitkgupta)
 - [Tom Anderson](https://github.com/tomanderson)
 - [Mahran Elmasri](https://github.com/mahranelmasri)
+- [chensiyuan](https://github.com/chensiyuan0214)
 - [Tim Again Changing](https://github.com/tbobkertest)
 - [Matthew Alp](https://github.com/MattAlp)
 - [Gavin Miller](https://github.com/gavinmiller)
