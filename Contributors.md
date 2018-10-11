@@ -42,6 +42,7 @@
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
+- [Caleb Jasik] (https://github.com/jasikpark)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Agustin Vargas](https://github.com/chikiwawa)
