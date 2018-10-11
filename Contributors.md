@@ -7398,6 +7398,7 @@ Kashish Khullar - :P
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Nikhil Joshi](https://github.com/diehard-coder)
+- [Giancarlo Giuffra Moncayo](https://github.com/giancarloGiuffra)
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore](https://github.com/Angelfirenze01)
