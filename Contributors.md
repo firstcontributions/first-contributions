@@ -1,5 +1,6 @@
 # Contributors
 
+- [Akash Yadav](https://github.com/akash2908)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Kash D] (https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
