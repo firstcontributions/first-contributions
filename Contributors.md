@@ -7198,10 +7198,8 @@ Kashish Khullar - :P
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
 - [Bruno Dulcetti](https://github.com/dulcetti)
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
-- [Caitlyn Woods]
-(https://github.com/catielynncodes)
-- [Chaz Kondo]
-(https://github.com/demifire)
+- [Caitlyn Woods](https://github.com/catielynncodes)
+- [Chaz Kondo](https://github.com/demifire)
 - [Irwan Kurnia Phan](https://github.com/irwanphan)
 - [Ethan Hsu](https://github.com/ethan627hsu)
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
@@ -7248,7 +7246,7 @@ Kashish Khullar - :P
 - [RonLek](https://github.com/RonLek)
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
-- [Alex]
+- [Alex]()
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
