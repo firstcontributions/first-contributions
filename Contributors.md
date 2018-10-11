@@ -5518,6 +5518,7 @@ Kashish Khullar - :P
 - [Jasper Chong](https://github.com/jasperchong)
 - [Yousef Saif](https://github.com/yousefsaif)
 - [Emil O. Johansen](https://github.com/EmilOJ)
+- [Leo Esp](https://github.com/lespenilla)
 - [Doug Dozier](https://github.com/ddozier)
 - [Itanor Strapazzon](https://github.com/itanor)
 - [Michael Eichenberger](https://github.com/MichaelE919)
