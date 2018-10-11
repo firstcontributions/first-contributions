@@ -1,5 +1,6 @@
 # Contributors
 
+- [Raghav Gupta](https://github.com/raghav3003)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
