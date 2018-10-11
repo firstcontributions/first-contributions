@@ -7198,7 +7198,10 @@ Kashish Khullar - :P
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
 - [Bruno Dulcetti](https://github.com/dulcetti)
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
-- [Caitlyn Woods](https://github.com/catielynncodes)
+- [Caitlyn Woods]
+(https://github.com/catielynncodes)
+- [Chaz Kondo]
+(https://github.com/demifire)
 - [Irwan Kurnia Phan](https://github.com/irwanphan)
 - [Ethan Hsu](https://github.com/ethan627hsu)
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
