@@ -23,9 +23,6 @@
 </div>
 
 
-*Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Persian](README.fa.md).*
-
-
 <div dir="rtl">
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
 </div>
