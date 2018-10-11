@@ -477,7 +477,7 @@ Jimmie Faulkner
 bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
-
+- [Jake](https://github.com/J-Gore)
 - [Tyler Stanley](https://github.com/tystanley)
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
