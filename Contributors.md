@@ -1,5 +1,6 @@
 # Contributors
 
+- [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
