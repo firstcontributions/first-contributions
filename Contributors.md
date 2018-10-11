@@ -693,6 +693,7 @@ bilalsiraj
 - [Swami]()
 - [Divyanshu Bhatnagar](https://github.com/bhatnagardivyanshu)
 - [Ilias Chanis]()
+- [Nimish Agrawal]()
 - [Ryan Skalla](https://github.com/rskalla95)
 - [Jacob Robinson](https://github.com/JR0210)
 - [Melis](https://github.com/melisdogan)
