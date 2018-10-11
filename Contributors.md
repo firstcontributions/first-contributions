@@ -645,6 +645,7 @@
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
 - [Simon Altrogge](https://github.com/SimonAltrogge)
+- [Amogh Singhal](https://github.com/devAmoghS)
 - [Rafael Lotto Machado](https://github.com/ralomach)
 - [Matt Rigby](https://github.com/Matt-Rigby)
 - [Abhishek Goyal](https://github.com/ABHISHEK-G0YAL)
