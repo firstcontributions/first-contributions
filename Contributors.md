@@ -1,5 +1,6 @@
 # Contributors
-
+- [Shaurya Bagga](https://github.com/shauryabagga)
+- [Karan Tandon](https://github.com/karan2dec)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
@@ -10,7 +11,6 @@
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
-- [Shaurya Bagga](https://github.com/shauryabagga)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Matheus Malta](https://github.com/matheus-malta)
@@ -29,7 +29,6 @@
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
-- [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
