@@ -1,5 +1,6 @@
 # Contributors
 
+- [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
