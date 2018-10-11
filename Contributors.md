@@ -49,6 +49,7 @@
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
+- [Hamza Ali](https://github.com/ryzbaka)
 - [Tamoghno Das](https://github.com/dastamoghno)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
