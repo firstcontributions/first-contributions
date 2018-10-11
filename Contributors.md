@@ -7405,6 +7405,7 @@ Kashish Khullar - :P
 - [wolfharan]( https://github.com/wolfharan/ )
 - [linehk](https://github.com/linehk)
 - [Rishil](https://github.com/rishilss99)
+- [Guillem Garcia](https://github.com/cgodgers)
 - [Vansh Devgan](https://github.com/vanshdevgans)
 - [TRY](https://github.com/TheRealYann)
 - [Tomasz Bawor](https://github.com/tomaszbawor)
