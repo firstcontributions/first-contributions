@@ -5568,6 +5568,7 @@ Kashish Khullar - :P
 - [Laura Reeve](https://github.com/laura-reeve)
 - [Bingen Ortuzar](https://github.com/bingenortuzar)
 - [Meghna Srivastava](https://github.com/meghna-saxena)
+- [Subrata Kumar Biswas](https://github.com/subrata3112)
 - [Andrew Karpyn](https://github.com/Twinkle942910)
 - [Hanzheng Song](https://github.com/shzubuntu)
 - [Jake Wags](https://github.com/JakeWags)
