@@ -58,6 +58,7 @@
 - [Hamza Ali](https://github.com/ryzbaka)
 - [Tamoghno Das](https://github.com/dastamoghno)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
+- [Collins M Mbulakyalo](https://github.com/Musacoli)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
 - [Jamie Townsend](https://github.com/diginari)
