@@ -67,6 +67,7 @@
 - [Sindhiya Arya](https://github.com/aryasin)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
+- [Chetan Nagarkar] (https://github.com/cnagarkar)
 - [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jazz Loffredo](https://github.com/jazzloffredo)
