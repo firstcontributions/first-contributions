@@ -7378,6 +7378,7 @@ Kashish Khullar - :P
 - [Dmitry](https://github.com/qmitry)
 - [rtDenver91](https://github.com/rtdenver91)
 - [Christopher Mayfield](https://github.com/christophermayfield)
+- [Jonathan Abantao](https://github.com/jonabantao)
 - [Carlos Proiete](https://github.com/carlosproiete)
 - [Wico](https://github.com/wicogohome)
 - [Koh You Liang](https://github.com/isopach)
