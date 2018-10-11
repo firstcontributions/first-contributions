@@ -11,6 +11,20 @@
 #
 .DS_Store
 
+#eslint
+#
+.eslintcache
+
+# Logs
+#
+logs
+*.log
+npm-debug.log*
+
+# temp files
+#
+*.~temp
+
 # Xcode
 #
 build/
@@ -40,7 +54,6 @@ local.properties
 # node.js
 #
 node_modules/
-npm-debug.log
 
 # coverage
 #
@@ -51,3 +64,20 @@ coverage/
 #
 config.json
 /.vs
+
+#Visual Studio Code
+#
+.vscode/*
+
+#Sublime Text
+#
+*.sublime-project
+*.sublime-workspace
+
+#Vim
+#
+*.swp
+*.swo
+Session.vim
+.netrwhist
+*~
