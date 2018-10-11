@@ -3097,6 +3097,7 @@ Kashish Khullar - :P
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
 - [Justin Bubel](https://github.com/jbubel)
 - [Luca Giacchino](https://github.com/lucagiac81)
+- [Charlie Day](https://github.com/atlasRand)
 - [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
 - [Hieu Nguyen](https://github.com/hieunguyenm)
 - [OctoMat](https://github.com/octomat)
