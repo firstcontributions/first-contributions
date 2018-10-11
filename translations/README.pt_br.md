@@ -10,7 +10,7 @@ Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente p�
 
 #### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #tutoriais-com-outras-ferramentas)*
 
-#### *Ler em [outros idiomas](../Translations.md)* 
+#### *Ler em [outros idiomas](../translations/Translations.md)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
 
