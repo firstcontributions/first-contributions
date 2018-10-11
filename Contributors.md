@@ -170,6 +170,7 @@
 - [Benni Russell](https://github.com/8eni)
 - [Maria McCauley](https://github.com/mcmccauley)
 - [Nippun Lakhani](https://github.com/nippun99)
+- [Andy Javier Reyes](https://github.com/arsevys)
 - [Amiya Kumar Tripathy](https://github.com/amiya-1998)
 - [Nirmani Gunathilaka](https://github.com/NirmaniGunathilaka)
 - [Sean Kim](https://github.com/sungk44)
