@@ -51,6 +51,7 @@
 - [Jessa Micucci](https://github.com/jmicucci)
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
+- [Jeff Golditch](https://github.com/jgolditch)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Victor Hugo M. Pinto](https://github.com/victorhmp)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
