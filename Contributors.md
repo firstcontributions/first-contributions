@@ -37,6 +37,7 @@
 - [Tushar](https://github.com/tusharc2n)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
+- [Julianna Diaz](https://github.com/Juldays)
 - [tanu](https://github.com/TanuAgrawal123)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
 - [Mayur Madnani](https://github.com/mayurmadnani)
