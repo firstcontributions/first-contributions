@@ -7598,3 +7598,4 @@ ynobry
 - [MisterX22] (https://github.com/MisterX22)
 - [leizllynn] (https://github.com/leizllynn)
 - [Nahid Muzammil] (https://github.com/NahidRM)
+- [Wojciech Dybikowski] (https://github.com/dybik08)
