@@ -16,6 +16,7 @@
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [dantemustdie](https://github.com/PulkitKhagta)
+- [Anna Kolozsvari](https://github.com/annakolozsvari)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes] (https://github.com/cchawkesd)
 - [Raghav Gupta](https://github.com/raghav3003)
