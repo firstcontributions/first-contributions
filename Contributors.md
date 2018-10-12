@@ -862,6 +862,7 @@ Kashish Khullar - :P
 - [Chris Bratene](https://github.com/chrisbratene)
 - [Apurv Upadeo](https://github.com/apurvupadeo)
 - [Pratik Pathak](https://github.com/thepratikpathak)
+- [Abhay Agrawal](https://github.com/L0G1C4LABHAY/)
 - [Jesse Cook](https://github.com/JesseCook)
 - [Marianne Tamminen](https://github.com/mrainne)
 - [Jesus Chavez](https://github.com/jesuschavez)
