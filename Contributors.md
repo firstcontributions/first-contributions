@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Akash Yadav](https://github.com/akash2908)
@@ -7570,10 +7570,10 @@ ynobry
 - [Rudy W](https://github.com/nerdijoe)
 - [RRadhakrishnan Ramasamy](https://github.com/radhakri555)
 - [Sid Pagariya](https://github.com/sidpagariya)
-- [File Bot] (https://github.com/sids-files)
-- [Raghav Jain] (https://github.com/jain-raghav)
-- [Pasha Pylypchuk] (https://github.com/PashaUA)
-- [Sarsiz Chauhan] (https://github.com/sarsiz)
-- [Idruk] (https://github.com/Idruk)
-- [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
-- [Law Zava] (https://github.com/lawzava) 
+- [File Bot](https://github.com/sids-files)
+- [Raghav Jain](https://github.com/jain-raghav)
+- [Pasha Pylypchuk](https://github.com/PashaUA)
+- [Sarsiz Chauhan](https://github.com/sarsiz)
+- [Idruk](https://github.com/Idruk)
+- [Arsenei Abraamyan](https://github.com/UlvacMoscow) 
+- [Law Zava](https://github.com/lawzava) 
