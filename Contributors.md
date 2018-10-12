@@ -17,6 +17,7 @@
 - [Christopher Mohrman](https://github.com/chrismohrman)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
+- [Anurag Kumar](https://github.com/kgloc)
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Fredrik Linde](https://github.com/flinde)
 - [Parinya Onsuwan](https://github.com/parinz1234)
