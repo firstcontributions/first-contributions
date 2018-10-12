@@ -21,14 +21,14 @@
 - [liraz kinan]()
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
-- [Helena Klein]
+- [Helena Klein]()
 - [Piyush Sharma](https://github.com/piyusharma95)
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Aditya Anantharaman](https://github.com/aditya9898)
--[Jessa Micucci](https://github.com/jmicucci)
+- [Jessa Micucci](https://github.com/jmicucci)
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
@@ -62,6 +62,7 @@
 - [Taha Ali](https://github.com/TahaAli07)
 - [Trevor Nicholss](https://github.com/trevolio123)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
+- [Michael Knight](https://github.com/Mknight492)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
 - [Karan Tandon](https://github.com/karan2dec)
@@ -76,7 +77,7 @@
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Ed Prince](https://github.com/edprince)
 - [Agustin Avila](https://github.com/elchetosn)
-- [Till Favier]
+- [Till Favier]()
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [Hamza Ali](https://github.com/ryzbaka)
 - [Tamoghno Das](https://github.com/dastamoghno)
