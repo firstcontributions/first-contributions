@@ -7576,6 +7576,7 @@ ynobry
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
+- [Dan Herrero] (https://github.com/danherrero)
 - [xenocidewiki](https://github.com/xenocidewiki)
 - [Carlos Abdalla](https://github.com/abdalla)
 - [Ryan OHara](http://github.com/rao4)
