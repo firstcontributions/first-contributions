@@ -59,6 +59,8 @@
 - [Taha Ali](https://github.com/TahaAli07)
 - [Trevor Nicholss](https://github.com/trevolio123)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
+- [Michael Knight]
+(https://github.com/Mknight492)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
 - [Karan Tandon](https://github.com/karan2dec)
