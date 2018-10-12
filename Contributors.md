@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Gabriella Mara](https://github.com/gmarap)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Russell Smitheram](https://github.com/smivs)
 - [Akash Yadav](https://github.com/akash2908)
