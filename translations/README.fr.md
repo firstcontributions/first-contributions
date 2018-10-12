@@ -10,7 +10,7 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
+<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce répertoire" />
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -47,7 +47,7 @@ Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y ê
 ```
 cd first-contributions
 ```
-Maintenant créez une branche avec le commande `git checkout` :
+Maintenant créez une branche avec la commande `git checkout` :
 ```
 git checkout -b <add-votre-nom>
 ```
@@ -81,7 +81,7 @@ en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créé
 
 ## Soumettez vos changements pour révision
 
-Si vous visitez votre répertoire sur Github, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
+Si vous visitez votre répertoire sur GitHub, vous verrez un bouton  `Compare & pull request`.  Cliquez sur ce bouton.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -109,7 +109,7 @@ Ceci est une manière de dire à git qu'une autre version de ce répertoire exis
 git fetch upstream
 ```
 
-Ici nous cherchons toutes les modification dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
+Ici nous cherchons toutes les modifications dans mon embranchement  (upstream remote). Maintenant, vous devez fusionner la nouvelle révision de mon répertoire avec votre branche master :
 ```
 git rebase upstream/master
 ```
