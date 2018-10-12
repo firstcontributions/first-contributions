@@ -7492,6 +7492,7 @@ ynobry
 - [SADIK KUZU](https://github.com/sadikkuzu)
 - [Christiawan Eko](https://github.com/christiawaneko)
 - [vinayatekale](https://github.com/vinayatekale)
+- [Maxim Baduk](https://github.com/mbaduk3)
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
 - [Osama Azmi](https://github.com/Samuelimza)
 - [Lineeyed] (https://github.com/Lineeyed)
