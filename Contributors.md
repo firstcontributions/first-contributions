@@ -1,6 +1,7 @@
 # Contributors
 
 - [Akash Yadav](https://github.com/akash2908)
+- [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Kash D] (https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
@@ -95,6 +96,7 @@
 - [Mei Mbah](https://github.com/meicodes)
 - [Rajshri Singh Baghel](https://github.com/geekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
+- [Nathan Welch](https://github.com/nawwx3)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
@@ -903,6 +905,7 @@ Kashish Khullar - :P
 - [Madhu Murthy](https://github.com/madhumurthy16)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Miroslav Pillar](https://github.com/Dromediansk)
+- [Vinay Kotwal](https://github.com/SORM00)
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
 - [Damo Ando](https://github.com/damoando4)
@@ -7547,5 +7550,6 @@ ynobry
 - [Rupna Maitra](https://github.com/zonex909)
 - [Piyush Poply](https://github.com/Piyushp2283)
 - [shachashou](https://github.com/shachashou)
-  [Ben](https://github.com/bsypher)
+- [Ben](https://github.com/bsypher)
 - [Hitanshu](https://github.com/Phantom-Cluster)
+- [nicht](https://github.com/nicht)
