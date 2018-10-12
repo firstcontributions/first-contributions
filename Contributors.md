@@ -7561,6 +7561,7 @@ ynobry
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Max Taylor](https://github.com/twally3)
+- [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
 - [Piyush Poply](https://github.com/Piyushp2283)
 - [shachashou](https://github.com/shachashou)
