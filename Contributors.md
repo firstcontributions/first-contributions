@@ -8,6 +8,7 @@
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D] (https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
+- eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Nihar](https://github.com/niharr)
