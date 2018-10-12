@@ -1230,6 +1230,7 @@ Kashish Khullar - :P
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - [Shubham Pampattiwar](https://github.com/shubhamself7)
 - [alonzo church]()
+- [Karthik Iyer](https://github.com/kni6228)
 - [Ahmed Abdulkadir](https://github.com/ahmedabdulkdir)
 - [Toon Brinks](https://github.com/oblomovx)
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
