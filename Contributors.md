@@ -7584,3 +7584,4 @@ ynobry
 - [Viraj Chavan] (https://github.com/virajvchavan)
 - [Zainab Nomi] (https://github.com/zainabnomi)
 - [Marcos Paulo] (https://github.com/marcos012)
+- [Michael Beirnaert] (https://github.com/pon8)
