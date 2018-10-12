@@ -90,6 +90,7 @@
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Zack_Shorts](https://github.com/zackshorts)
+- [Caleb_Smith](https://gitube.com/wcbsmith)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Ed Prince](https://github.com/edprince)
 - [Agustin Avila](https://github.com/elchetosn)
