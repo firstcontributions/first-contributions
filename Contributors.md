@@ -17,6 +17,7 @@
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Fredrik Linde](https://github.com/flinde)
+- [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
