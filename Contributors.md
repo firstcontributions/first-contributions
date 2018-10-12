@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Gabriella Mara](https://github.com/gmarap)
 - [Johan van Tongeren](https://github.com/D3D0X)
@@ -19,6 +19,7 @@
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Mitchell Fensome](https://github.com/kingcoconut332)
 - [Omer BAHADIR](https://github.com/thedeepocean)
 - [Michael Wahba](https://github.com/mwahba13)
 - [Wander Souza](https://github.com/WanderDouglas)
