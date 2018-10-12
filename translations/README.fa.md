@@ -1,6 +1,7 @@
 <body><article class="markdown-body"><p><a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" style="max-width:100%;"></a>
-<a href="https://firstcontributions.herokuapp.com" rel="nofollow"><img align="right" src="https://camo.githubusercontent.com/4900b5da3beceb6c4c79d7f49337b508fdf8d1c3/68747470733a2f2f6669727374636f6e747269627574696f6e732e6865726f6b756170702e636f6d2f62616467652e737667" data-canonical-src="https://firstcontributions.herokuapp.com/badge.svg" style="max-width:100%;"></a>
-<a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT" data-canonical-src="https://img.shields.io/badge/License-MIT-green.svg" style="max-width:100%;"></a></p>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow"><img align="right" width="150" src="../assets/join-slack-team.png" data-canonical-src="https://firstcontributions.herokuapp.com/badge.svg" style="max-width:100%;"></a>
+<a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT" data-canonical-src="https://img.shields.io/badge/License-MIT-green.svg" style="max-width:100%;"></a>
+<a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a></p>
 <p dir="rtl">بخاطر ترجمه ضعیف شرمندم میتونین نسخه فینگلیش رو بخونین که قطعا بهتره</p>
 <h1 dir="rtl">
 <a id="user-content-اولین-مشارکت" class="anchor" href="#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>اولین مشارکت</h1>
@@ -84,7 +85,7 @@
 وجود داره . روش کلیک کن</p>
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 <p dir="rtl">حالا دستور پل رو ثبت کن</p>
-<img style="float: left;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 <p dir="rtl">بزودی من تمام تغیرات تو رو به شاخه اصلی این پروژه اضافه میکنم
 زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
 <h2 dir="rtl">
@@ -92,10 +93,10 @@
 <p dir="rtl">مشارکتت جشن بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
 <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
 <p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
-<a href="https://firstcontributions.herokuapp.com" rel="nofollow">Join slack team</a>.</p>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
 <p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
 <h3 dir="rtl">
-<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_senarios/additional-material.md">Additional material</a>
+<a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_scenarios/additional-material.md">Additional material</a>
 </h3>
 <h2 dir="rtl">
 <a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>

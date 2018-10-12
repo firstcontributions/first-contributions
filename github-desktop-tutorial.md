@@ -30,7 +30,7 @@ Now clone this repo to your machine.
 
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it. 
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop"
+To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
 <img style="left;" src="assets/dt1-clonetodesktop.png" alt="clone this repository" />
 
@@ -50,7 +50,7 @@ Now create a branch by clicking on the "Current branch" icon at the top and then
 
 <img style="left;" src="assets/dt1-create-branch.png" alt="make a branch" />
 
-Name your branch add-your-name. For example, add-james-smith
+Name your branch <add-your-name>. For example, "add-james-smith"
 
 <img style="left;" src="assets/dt1-create-branch-name.png" alt="name your branch" />
 
@@ -100,7 +100,7 @@ If you go to your repository on github, you'll see  `Compare & pull request` but
 
 Now submit the pull request.
 
-<img style="left;" src="assets/submit-pull.png" alt="submit pull request" />
+<img style="left;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
@@ -110,7 +110,7 @@ Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflo
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
