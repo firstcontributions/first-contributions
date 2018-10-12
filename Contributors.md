@@ -905,6 +905,7 @@ Kashish Khullar - :P
 - [Madhu Murthy](https://github.com/madhumurthy16)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Miroslav Pillar](https://github.com/Dromediansk)
+- [Vinay Kotwal](https://github.com/SORM00)
 - [Ted W](https://github.com/tlwillke)
 - [Timi Adebisi](https://github.com/Timileyin5)
 - [Damo Ando](https://github.com/damoando4)
