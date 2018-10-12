@@ -483,6 +483,7 @@
 - [S. Hall](https://github.com/TravelingMan)
 - [Krzysztof Wojdat](https://github.com/kritokrator)
 - [Vaishnav Sivaprasad](https://github.com/padthaigrapes)
+- [Yeddy] (https://github.com/ornelasEduardo)
 - [Shawn Fulmer](https://github.com/shawnd778/)
 - [Ritwiz Sinha](https://github.com/ritwizsinha)
 - [senpai](https://github.com/windowstestuser)
