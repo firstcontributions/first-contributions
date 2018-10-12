@@ -27,6 +27,7 @@
 - [Kelly Burgess](https://github.com/kellyburg)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
+- [Tushar](https://github.com/tusharc2n)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [tanu](https://github.com/TanuAgrawal123)
