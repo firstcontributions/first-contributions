@@ -17,6 +17,7 @@
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
+- [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
 - [Mohd Mushfique](https://github.com/mdmush)
