@@ -95,6 +95,7 @@
 - [Mei Mbah](https://github.com/meicodes)
 - [Rajshri Singh Baghel](https://github.com/geekyrajshri)
 - [Geri Adam](https://github.com/geriadam)
+- [Nathan Welch](https://github.com/nawwx3)
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
