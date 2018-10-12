@@ -14,6 +14,7 @@
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
+- [dantemustdie](https://github.com/PulkitKhagta)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes] (https://github.com/cchawkesd)
 - [Raghav Gupta](https://github.com/raghav3003)
