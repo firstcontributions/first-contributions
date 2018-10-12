@@ -24,6 +24,7 @@
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
 - [Helena Klein]()
+- [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Piyush Sharma](https://github.com/piyusharma95)
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
