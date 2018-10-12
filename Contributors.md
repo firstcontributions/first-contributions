@@ -4771,6 +4771,7 @@ Kashish Khullar - :P
 - [Kallaen](https://github.com/Kallaen)
 - [Roniaxe](https://github.com/roniaxe)
 - [Matt Read](https://github.com/matthewreaduk)
+- [Kashish Kohli] (https://github.com/kashishkohli20)
 - [Emilio Silva](https://github.com/emi-silva)
 - [Sarfraz Baig](https://github.com/sarfrazbaig)
 - [Andrew Konecki](https://github.com/awkonecki)
