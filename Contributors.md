@@ -7572,4 +7572,4 @@ ynobry
 - [Raghav Jain] (https://github.com/jain-raghav)
 - [Pasha Pylypchuk] (https://github.com/PashaUA)
 - [Sarsiz Chauhan] (https://github.com/sarsiz)
-- [Idruk] (https://github.com/Idruk)
+- [Idruk](https://github.com/Idruk)
