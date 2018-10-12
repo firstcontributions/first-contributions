@@ -1897,6 +1897,7 @@ Kashish Khullar - :P
 - [Lokesh Agrawal](https://github.com/lkagrawal19)
 - [Atul Nair](https://github.com/atulnair)
 - [Adam Benckeser](https://github.com/yourfriendadam)
+- [Eric Chen](https://github.com/LacticAcidCYC)
 - [Sanjay Johny](https://github.com/san45)
 - [Michael Ebenstein](https://github.com/mebenstein-tgm)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
