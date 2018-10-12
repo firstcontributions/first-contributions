@@ -32,6 +32,7 @@
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Kelly Burgess](https://github.com/kellyburg)
+- [Jenn Renee] (https://github.com/jennrenee626)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
 - [Tushar](https://github.com/tusharc2n)
