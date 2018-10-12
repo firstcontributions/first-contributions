@@ -1718,6 +1718,7 @@ Kashish Khullar - :P
 - [Umang Garg](https://github.com/umanggarg27)
 - [Alisa Terzieva](https://github.com/AlisaTerzieva)
 - [Cheryl Hartman](https://github.com/chartman4)
+- [Ygor Tavela](https://github.com/ytavela)
 - [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
