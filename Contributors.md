@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Johan van Tongeren](https://github.com/D3D0X)
+- [Russell Smitheram](https://github.com/smivs)
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
