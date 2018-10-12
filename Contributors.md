@@ -649,6 +649,7 @@
 - [aman kumar soni](https://github.com/computerwala)
 - [Mansi Breja](https://github.com/MansiBreja)
 - [Long Tran](https://github.com/nhulongctk35)
+- [Luka Kovacic](https://github.com/Lux652)
 - [Basheer88](https://github.com/Basheer88)
 - [xyphan](https://github.com/xyphanajay)
 - [Pranay Agarwal](https://github.com/pranayag)
