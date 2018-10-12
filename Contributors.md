@@ -35,6 +35,7 @@
 - [liraz kinan]()
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
+- [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Helena Klein]()
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Piyush Sharma](https://github.com/piyusharma95)
