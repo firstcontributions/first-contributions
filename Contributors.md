@@ -15,6 +15,7 @@
 - [Christopher Mohrman](https://github.com/chrismohrman)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
+- [Wander Souza](https://github.com/WanderDouglas)
 - [Fredrik Linde](https://github.com/flinde)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Andres Macias](https://github.com/webDevAndres)
