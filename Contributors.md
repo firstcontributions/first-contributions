@@ -12,6 +12,7 @@
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
+- [Sergi Marquez](https://github.com/sergimarquez)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
