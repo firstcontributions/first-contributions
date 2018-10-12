@@ -17,7 +17,7 @@ Remove `<add-your-name>` on your local machine's repo:
 git branch -d <add-your-name>
 ```
 
-You have now deleted your local machine's `<add-your-name>` branch and everything looks neat and tidy.
+You have now deleted your local machine's `<add-your-name>` branch from your repositary and everything looks neat and tidy.
 Though, at this point, you should still have the `<add-your-name>` branch in your GitHub fork. However, before you delete this, remember that you have sent a "Pull request" to my repo from this remote branch. So unless I've already merged it, don't delete this branch.
 
 However, if I have merged your branch and you want to delete the remote branch, use:
