@@ -21,6 +21,7 @@
 - [Michael Wahba](https://github.com/mwahba13)
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Fredrik Linde](https://github.com/flinde)
+- [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Anurag Kumar](https://github.com/kgloc)
