@@ -2,6 +2,7 @@
 
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Russell Smitheram](https://github.com/smivs)
+- [Philip Hofmann](https://github.com/Phhofm)
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
@@ -7589,8 +7590,8 @@ ynobry
 - [Pasha Pylypchuk] (https://github.com/PashaUA)
 - [Sarsiz Chauhan] (https://github.com/sarsiz)
 - [Idruk] (https://github.com/Idruk)
-- [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
-- [Law Zava] (https://github.com/lawzava) 
+- [Arsenei Abraamyan] (https://github.com/UlvacMoscow)
+- [Law Zava] (https://github.com/lawzava)
 - [Viraj Chavan] (https://github.com/virajvchavan)
 - [Zainab Nomi] (https://github.com/zainabnomi)
 - [Marcos Paulo] (https://github.com/marcos012)
