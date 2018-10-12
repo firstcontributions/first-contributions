@@ -2,6 +2,7 @@
 
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
+- [Amitabh Kumar](https://github.com/AmitabhPathak)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D] (https://github.com/AakashDadhich)
