@@ -7551,5 +7551,6 @@ ynobry
 - [Rupna Maitra](https://github.com/zonex909)
 - [Piyush Poply](https://github.com/Piyushp2283)
 - [shachashou](https://github.com/shachashou)
-  [Ben](https://github.com/bsypher)
-  [nicht](https://github.com/nicht)
+- [Ben](https://github.com/bsypher)
+- [Hitanshu](https://github.com/Phantom-Cluster)
+- [nicht](https://github.com/nicht)
