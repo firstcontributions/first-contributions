@@ -50,6 +50,7 @@
 - [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
+- [Steve Johnson]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Julianna Diaz](https://github.com/Juldays)
@@ -7587,8 +7588,8 @@ ynobry
 - [Pasha Pylypchuk] (https://github.com/PashaUA)
 - [Sarsiz Chauhan] (https://github.com/sarsiz)
 - [Idruk] (https://github.com/Idruk)
-- [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
-- [Law Zava] (https://github.com/lawzava) 
+- [Arsenei Abraamyan] (https://github.com/UlvacMoscow)
+- [Law Zava] (https://github.com/lawzava)
 - [Viraj Chavan] (https://github.com/virajvchavan)
 - [Zainab Nomi] (https://github.com/zainabnomi)
 - [Marcos Paulo] (https://github.com/marcos012)
