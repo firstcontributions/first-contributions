@@ -7600,3 +7600,4 @@ ynobry
 - [leizllynn] (https://github.com/leizllynn)
 - [Nahid Muzammil] (https://github.com/NahidRM)
 - [Raghu Kamat] (https://github.com/GeniusStorm)
+- [Haley](https://github.com/haleybear)
