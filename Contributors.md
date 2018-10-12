@@ -56,6 +56,7 @@
 - [Prakher Prashank]()
 - nick spagnola
 - [Ohad Leshno](https://github.com/ohadleshno)
+- [Mah Qi Hao](https://github.com/qihaomah)
 - [Mark Bowden](https://github.com/Mb01)
 - [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
