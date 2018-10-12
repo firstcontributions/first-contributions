@@ -40,6 +40,7 @@
 - [Jenn Renee] (https://github.com/jennrenee626)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
+- [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
