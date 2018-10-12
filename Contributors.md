@@ -103,6 +103,7 @@
 - [Zack_Shorts](https://github.com/zackshorts)
 - [Caleb_Smith](https://gitube.com/wcbsmith)
 - [Agustin Vargas](https://github.com/chikiwawa)
+- [Paweł Wieszała] (https://github.com/pawelwieszala)
 - [Ed Prince](https://github.com/edprince)
 - [Agustin Avila](https://github.com/elchetosn)
 - [Till Favier]()
