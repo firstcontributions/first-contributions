@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
@@ -56,6 +56,7 @@
 - [Prakher Prashank]()
 - nick spagnola
 - [Ohad Leshno](https://github.com/ohadleshno)
+- [Mah Qi Hao](https://github.com/qihaomah)
 - [Mark Bowden](https://github.com/Mb01)
 - [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
@@ -7573,3 +7574,4 @@ ynobry
 - [Pasha Pylypchuk](https://github.com/PashaUA)
 - [Sarsiz Chauhan](https://github.com/sarsiz)
 - [Idruk](https://github.com/Idruk)
+- [Arsenei Abraamyan](https://github.com/UlvacMoscow) 
