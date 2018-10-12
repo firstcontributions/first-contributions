@@ -30,6 +30,7 @@
 - [Raghav Gupta](https://github.com/raghav3003)
 - [Wayne Fan](https://github.com/wei8596)
 - [Ananth Shenoy](https://github.com/ananthshenoy)
+- [Anurag Kumar](https://github.com/kgloc)
 - [liraz kinan]()
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
