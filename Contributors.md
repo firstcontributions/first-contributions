@@ -134,6 +134,7 @@
 - [Walter Palagi](https://github.com/walterpalagi)
 - [Aditya Krishnan](https://github.com/aditya11997)
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
+- [Lucy S](https://github.com/girlingoggles)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
 - [Daniel Menachem](https://github.com/doom3007)
