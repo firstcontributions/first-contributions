@@ -39,6 +39,7 @@
 - [Jessa Micucci](https://github.com/jmicucci)
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
+- [Victor Hugo M. Pinto](https://github.com/victorhmp)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Kelly Burgess](https://github.com/kellyburg)
 - [Jenn Renee] (https://github.com/jennrenee626)
