@@ -143,6 +143,7 @@
 - [Kyle Tozer](https://github.com/kyletozer)
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Sindhiya Arya](https://github.com/aryasin)
+- [Louis Chris Orona](https://github.com/louischrisorona)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
 - [Chetan Nagarkar] (https://github.com/cnagarkar)
