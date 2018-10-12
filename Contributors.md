@@ -309,6 +309,7 @@
 - [Snir The Man](https://github.com/snirtheman)
 - [Dimitris Kokkaliaroglou](https://github.com/loxagossnake)
 - [Alexey Salangin](https://github.com/magauran)
+- [Arhan Banerjee](https://github.com/arhanbaner)
 - [Jatin Aggarwal](https://github.com/jatinagg1)
 - [diproIV](https://github.com/diproiv)
 - [Anupam Das](https://github.com/anupamdas104)
