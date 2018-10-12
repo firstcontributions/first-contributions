@@ -11,6 +11,7 @@
 - eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
+- [Anurag Kumar](https://github.com/kgloc)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
