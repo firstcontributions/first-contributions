@@ -230,6 +230,7 @@
 - [Ryan Evans](https://github.com/ryanwevans)
 - [Yogita Bhatia](https://github.com/Yogita98)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
+- [Akshay Gupta](https://github.com/theakshaygupta)
 - [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
 - [Sanjana Ekanayake](https://github.com/Sanjanaekanayake)
 - [Tashima Dilrukshi](https://github.com/Tashimadilrukshi)
