@@ -146,6 +146,7 @@
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
 - [Daniel Menachem](https://github.com/doom3007)
+- [jhartkopf](https://github.com/jhartkopf)
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
