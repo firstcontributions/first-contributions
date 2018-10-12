@@ -72,6 +72,7 @@
 - bunso tisoy
 - [Prakher Prashank]()
 - nick spagnola
+- Bobby Shirley
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Mark Bowden](https://github.com/Mb01)
@@ -7604,8 +7605,8 @@ ynobry
 - [Pasha Pylypchuk] (https://github.com/PashaUA)
 - [Sarsiz Chauhan] (https://github.com/sarsiz)
 - [Idruk] (https://github.com/Idruk)
-- [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
-- [Law Zava] (https://github.com/lawzava) 
+- [Arsenei Abraamyan] (https://github.com/UlvacMoscow)
+- [Law Zava] (https://github.com/lawzava)
 - [Viraj Chavan] (https://github.com/virajvchavan)
 - [Zainab Nomi] (https://github.com/zainabnomi)
 - [Marcos Paulo] (https://github.com/marcos012)
