@@ -363,6 +363,7 @@
 - [Niharika Tammara](https://github.com/niharikatammara)
 - [Ohmny Romero](https://github.com/ohmnoms)
 - [Akshat](https://github.com/akshat14714)
+- [Soniya](https://github.com/son-vyas)
 - [Tina Ngo](https://github.com/tinango)
 - [Lucas Binder](https://github.com/lbinder)
 - [Deep Mehta](https://github.com/deep-mm)
