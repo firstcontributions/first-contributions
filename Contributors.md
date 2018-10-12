@@ -3885,6 +3885,7 @@ Kashish Khullar - :P
 - [Erlinis Quintana](https://github.com/erlinis)
 - [Messiah](https://github.com/Messiahhh)
 - [Scott](https://github.com/underwaterlad)
+- [Dan](https://github.com/Daruso)
 - [Brian Do](https://github.com/briancldo)
 - [Vinicius Araujo](https://github.com/viniaraujoo)
 - [Stefan Russo](https://github.com/lifestronaut)
