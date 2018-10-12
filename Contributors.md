@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
@@ -52,6 +52,7 @@
 - [Bardr](https://github.com/Bardr)
 - [Matheus Malta](https://github.com/matheus-malta)
 - [Himanshu Jotwani]()
+- bunso tisoy
 - [Prakher Prashank]()
 - nick spagnola
 - [Ohad Leshno](https://github.com/ohadleshno)
