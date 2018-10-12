@@ -4460,6 +4460,7 @@ Kashish Khullar - :P
 - [Lisa Hillebrand](https://github.com/lisahillebrand)
 - [Ferhat Sahinkaya](https://github.com/ferhatsahinkaya)
 - [Carl Isaac](https://github.com/carlisaac)
+- [Distal Phalanges](https://github.com/distalphalanges)
 - [Edwin Moses](https://github.com/3dw1nM0535)
 - [Edwin Mwaniki](https://github.com/emwani1)
 - [Richard Rolfes](https://github.com/rarwolf47)
