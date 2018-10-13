@@ -142,6 +142,7 @@
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Mladen Ristić](https://github.com/mladenristic1997)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
+- [Leon Dixon](https://github.com/LeonD1196)
 - [Karl von Klein](https://github.com/kvonklein)
 - [Mei Mbah](https://github.com/meicodes)
 - [Rajshri Singh Baghel](https://github.com/geekyrajshri)
