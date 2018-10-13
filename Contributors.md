@@ -5403,6 +5403,7 @@ Mayank Bansal
 - [Carl Öst Wilkens](https://github.com/ostwilkens)
 - [Gabriel Silva](https://github.com/gsmatos)
 - [Jo P.](https://github.com/jomustech)
+- [Harish Venkatesan](https://github.com/harishv7)
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
 - [Noah Sragow](https://github.com/nsragow)
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
