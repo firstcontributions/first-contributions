@@ -128,6 +128,7 @@
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
+- [Ameer Zaita](https://github.com/Ameer67)
 - [Trevor Nicholss](https://github.com/trevolio123)
 - [Jeremy DeCarvalho](https://github.com/Jeremy-D)
 - [Michael Knight](https://github.com/Mknight492)
