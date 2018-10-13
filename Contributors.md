@@ -21,6 +21,7 @@
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
+- [Sugapriya] (https://github.com/sugapriyasugu)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
