@@ -5748,6 +5748,7 @@ Mayank Bansal
 - [Shanu Singh](https://github.com/SinghShanu)
 - [Staci Holmes](https://github.com/Stacihs)
 - [George](https://github.com/george-wicked)
+- [Cam Utz](https://github.com/Dragon8029)
 - [Guilherme Mattiello](https://github.com/guimattiello)
 - [Kendrick Ang](https://github.com/KendrickAng)
 - [Ricardo Brambila Mussi](https://github.com/rickmussi)
@@ -7642,3 +7643,4 @@ ynobry
 - [kamchai boonruam](https://github.com/JackyBeatles)
 - ZePaiva
 - [MPaul](https://github.com/chauxvive)
+
