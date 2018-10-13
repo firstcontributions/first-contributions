@@ -1,5 +1,6 @@
 # Contributors
 
+- [Franklin Wang](https://github.com/fxwang)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
