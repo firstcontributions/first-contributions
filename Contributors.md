@@ -78,6 +78,7 @@
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- [Abdulsamad Aliyu](https://github.com/nitrocoder234)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Julianna Diaz](https://github.com/Juldays)
 - [tanu](https://github.com/TanuAgrawal123)
@@ -118,7 +119,7 @@
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Zack_Shorts](https://github.com/zackshorts)
-- kalven22 
+- kalven22
 - [Caleb_Smith](https://gitube.com/wcbsmith)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Paweł Wieszała] (https://github.com/pawelwieszala)
@@ -7645,8 +7646,8 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Pasha Pylypchuk] (https://github.com/PashaUA)
 - [Sarsiz Chauhan] (https://github.com/sarsiz)
 - [Idruk] (https://github.com/Idruk)
-- [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
-- [Law Zava] (https://github.com/lawzava) 
+- [Arsenei Abraamyan] (https://github.com/UlvacMoscow)
+- [Law Zava] (https://github.com/lawzava)
 - [Viraj Chavan] (https://github.com/virajvchavan)
 - [Zainab Nomi] (https://github.com/zainabnomi)
 - [Marcos Paulo] (https://github.com/marcos012)
