@@ -1139,6 +1139,7 @@
 - [Shivam Chaudhary](https://github.com/andy6975)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
 - [Aparajit Chatterjee](https://github.com/aparajit0511)
+- [Jörge Ojanen](https://github.com/JorgeX/)
 - [Anshul Khattar](https://github.com/anshulkhattar)
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
