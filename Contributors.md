@@ -63,6 +63,7 @@
 - [Griffin1110](https://github.com/Griffin1110)
 - [Jason Dunken](https://github.com/jasondunken)
 - [liraz kinan]()
+[Dominique D]()https://github.com/domilearns)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
