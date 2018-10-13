@@ -5796,6 +5796,7 @@ Mayank Bansal
 - [Jake Hemmerle](https://github.com/JakeHemmerle)
 - [Trent Murchison](https://github.com/murchiosn)
 - [Garret Sweetwood](https://github.com/gsweetwood)
+- [Muheez Jimoh](https://github.com/dmaaj)
 - [Connor Virzi](https://github.com/cvirzi-1)
 - [Angela Chang](https://github.com/ejachang)
 - [Rakesh Singh](https://github.com/raksingh)
