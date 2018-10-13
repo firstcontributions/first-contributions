@@ -736,6 +736,7 @@
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikki Sharpley](https://github.com/nikk15)
 - [Nikil99](https://github.com/Nikil99)
+- [jastix](https://github.com/jastix)
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Natalie Wyll](https://github.com/nwyll)
