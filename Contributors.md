@@ -1,5 +1,6 @@
 # Contributors
 
+- [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
