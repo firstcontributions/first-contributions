@@ -4448,6 +4448,7 @@ Kashish Khullar - :P
 - [Alan Vardy](https://github.com/alanvardy)
 - [daniel](https://github.com/dlemel8)
 - [Sebastian Heuser](https://github.com/2mt-heuser)
+- [Oliver Schneider](https://github.com/2mt-schneider)
 - [yonatancoh](https://github.com/yonatancoh)
 - [Viking Mann](https://github.com/PoeticArcher)
 - [Adilene Constante](https://github.com/adiconstante)
