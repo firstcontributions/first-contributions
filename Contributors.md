@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Abhijith Sheheer](https://github.com/abspython)
@@ -7703,3 +7703,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Paul McGrath](https://github.com/heypaulmcgrath)
 - Leos
 -[Carcraftz](https://github.com/Carcraftz)
+-[DaveRoox](https://github.com/DaveRoox)
