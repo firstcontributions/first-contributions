@@ -3330,6 +3330,7 @@ Orandi Harris
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
 - [Max Vasin Limsukhawat](https://github.com/vasinl124)
+- [Mathieu Saubin](https://github.com/Doomfang3)
 - [zhichuanxun](https://github.com/zhichuanxun)
 - [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
