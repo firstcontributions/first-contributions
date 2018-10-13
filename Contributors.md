@@ -1,5 +1,5 @@
 # Contributors
-
+- [Elton Jefferson](https://github.com/eltonjncorreia)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
