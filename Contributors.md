@@ -8,6 +8,7 @@
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Abhishek Duggal](https://github.com/likeabhi)
+- [Vritika Singla](https://github.com/vritika1310)
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
