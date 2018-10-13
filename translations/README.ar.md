@@ -22,7 +22,7 @@
 
 <br>
 
-#### *Read this in [other languages](translations/Translations.md):*
+#### *Read this in [other languages](Translations.md):*
 
 [🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [<img src="../assets/catalan1.png" width="22">](README.ca.md) [🇳🇱](README.nl.md) [🇱🇹](README.lt.md) [🇷🇺](README.ru.md) [:slovakia:](README.slk.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇩🇰](README.da.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴](README.gl.md) [🇵🇰](README.ur.md)[:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [:slovenia:](README.sl.md) [🇮🇱](README.hb.md) [🇨🇿](README.cs.md) [<img src="../assets/pirate.png" width="22">](README.en-pirate.md) [🇲🇽](README.mx.md)
 
