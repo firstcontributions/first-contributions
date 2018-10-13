@@ -69,6 +69,7 @@
 - [siddhant wadhwa](https://github.com/sidd2010)
 - [Jeff Golditch](https://github.com/jgolditch)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Stu Wares](https://github.com/StuWares)
 - [Victor Hugo M. Pinto](https://github.com/victorhmp)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Kelly Burgess](https://github.com/kellyburg)
