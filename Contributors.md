@@ -1,6 +1,7 @@
 # Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
+- [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
@@ -103,6 +104,7 @@
   [Abi Castro]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
+- [Aaron Travsso](https://github.com/aarontravass)
 - [Julianna Diaz](https://github.com/Juldays)
 - [tanu](https://github.com/TanuAgrawal123)
 - [DiFerGomAlv](https://github.com/DiFerGomAlv)
@@ -7733,4 +7735,5 @@ Shwetha Varma(https://github.com/shwetharv)
 -[sanspace](https://github.com/sanspace)
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
+- [Hung Pham](https://github.com/hungpham2202)
 - [Griffin Maxwell](https://github.com/GriffinMaxwell)
