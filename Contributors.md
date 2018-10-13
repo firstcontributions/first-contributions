@@ -6231,3 +6231,4 @@ Harish Indla
 - [Ayush Agrawal] (https://github.com/ayush1507)
 - [Dan Postelnicu](https://github.com/kolapsys)
 - [Hadnazzar](https://github.com/hadnazzar)
+- [Rafal Kruk](https://github.com/rkruk)
