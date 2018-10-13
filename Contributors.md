@@ -7672,6 +7672,7 @@ Shwetha Varma(https://github.com/shwetharv)
 - [kamchai boonruam](https://github.com/JackyBeatles)
 - ZePaiva
 - [MPaul](https://github.com/chauxvive)
+- [Elena_Sergeeva](https://github.com/Sergeeva)
 - [Rahul Makhija](https://github.com/rahuls360)
 - [Paulo Alexandre Mello](https://github.com/palexandremello/)
 - [Mahmood Hussain](https://github.com/Mahmood-Hussain/)
