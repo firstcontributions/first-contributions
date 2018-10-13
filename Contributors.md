@@ -30,6 +30,7 @@
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Sanket Bhat](https://github.com/SanketBhat)
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
