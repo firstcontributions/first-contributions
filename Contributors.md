@@ -35,6 +35,7 @@
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Sugapriya] (https://github.com/sugapriyasugu)
 - [Nihar](https://github.com/niharr)
+- [Bayu Bimantara](https://github.com/bayubimantarar)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
