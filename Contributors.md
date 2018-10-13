@@ -1,6 +1,7 @@
 # Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
+- [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
