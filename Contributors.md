@@ -103,6 +103,7 @@
   [Abi Castro]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
+- [Aaron Travsso](https://github.com/aarontravass)
 - [Julianna Diaz](https://github.com/Juldays)
 - [tanu](https://github.com/TanuAgrawal123)
 - [DiFerGomAlv](https://github.com/DiFerGomAlv)
