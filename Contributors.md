@@ -38,6 +38,7 @@
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
+- [Kim](https://github.com/kimmeccsb)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes] (https://github.com/cchawkesd)
 - [Raghav Gupta](https://github.com/raghav3003)
