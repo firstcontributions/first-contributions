@@ -2232,6 +2232,7 @@
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
 - [Santiago Carello](https://github.com/santiagocarello)
 - [Nilesh Deepak](https://github.com/nileshdeepak)
+- [Nickan Hussaini] (https://github.com/KneeKhan)
 - [Vakas Zia](https://github.com/MVakas)
 - [xribene](https://github.com/xribene)
 - [ArcticSniper](https://github.com/ArcticSniper)
