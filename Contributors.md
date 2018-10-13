@@ -1656,7 +1656,7 @@
 - [Vikash Kumar](https://github.com/vikashskumar)
 - [Bert78](https://github.com/bert78)
 - [Myles Heck](https://github.com/myheck)
-- Orandi Harris
+Orandi Harris
 - [Ben Otte](https://github.com/ahtee)
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
