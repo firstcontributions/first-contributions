@@ -23,6 +23,7 @@
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D](https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
+- [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Cameron Brill](https://github.com/gaiscioch)
