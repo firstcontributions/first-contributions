@@ -2,6 +2,8 @@
 
 We assume that you have already finished with the basic tutorial before coming here. The additional information will give you some information about advanced Git techniques.
 
+Atlassian have great tutorials on propper Git Flow. Have a [look](https://www.atlassian.com/git/tutorials/comparing-workflows)!
+
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
 > Use this when you need to adjust a commit you made.
