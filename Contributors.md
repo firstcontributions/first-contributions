@@ -43,6 +43,7 @@
 - [Mikella Green](https://github.com/mikellagreen)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Helena Klein]()
+- [Manwai Nguyen](https://github.com/krazyman)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Ivan De Menezes](https://github.com/ivan3101)
