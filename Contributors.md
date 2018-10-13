@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Gabriella Mara](https://github.com/gmarap)
 - [Johan van Tongeren](https://github.com/D3D0X)
@@ -70,6 +70,7 @@
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Julianna Diaz](https://github.com/Juldays)
 - [tanu](https://github.com/TanuAgrawal123)
+- [DiFerGomAlv] (https://github.com/DiFerGomAlv)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
