@@ -20,9 +20,11 @@
 تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمتع بذلك.
 </div>
 
-*Read this in [other languages](translations/Translations.md).*
+<br>
 
-[🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [<img src="assets/catalan1.png" width="22">](README.ca.md) [🇳🇱](README.nl.md) [🇱🇹](README.lt.md) [🇷🇺](README.ru.md) [:slovakia:](README.slk.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇩🇰](README.da.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴](README.gl.md) [🇵🇰](README.ur.md)[:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [:slovenia:](README.sl.md) [🇮🇱](README.hb.md) [🇨🇿](README.cs.md) [<img src="assets/pirate.png" width="22">](README.en-pirate.md) [🇲🇽](README.mx.md)
+## Read this in [other languages](translations/Translations.md):
+
+[🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [<img src="../assets/catalan1.png" width="22">](README.ca.md) [🇳🇱](README.nl.md) [🇱🇹](README.lt.md) [🇷🇺](README.ru.md) [:slovakia:](README.slk.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇩🇰](README.da.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴](README.gl.md) [🇵🇰](README.ur.md)[:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [:slovenia:](README.sl.md) [🇮🇱](README.hb.md) [🇨🇿](README.cs.md) [<img src="../assets/pirate.png" width="22">](README.en-pirate.md) [🇲🇽](README.mx.md)
 
 <div dir="rtl">
 إذا لم يكن لديك git على الجهاز الخاص بك،<a href="https://help.github.com/articles/set-up-git/">قم بتثبيته من هنا</a>
