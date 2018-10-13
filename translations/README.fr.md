@@ -9,13 +9,15 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
+#### *Read this in [other languages](translations/Translations.md):*
 
-*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japonais](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [Arabe](translations/README.ar.md), [Ukrainien](translations/README.ua.md), [Portugais](translations/README.pt_br.md) et [Italien](translations/README.it.md).*
+[🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇪🇸](README.es.md) [<img src="../assets/catalan1.png" width="22">](README.ca.md) [🇳🇱](README.nl.md) [🇱🇹](README.lt.md) [🇷🇺](README.ru.md) [:slovakia:](README.slk.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇩🇰](README.da.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇸🇦](README.ar.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴](README.gl.md) [🇵🇰](README.ur.md)[:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [:slovenia:](README.sl.md) [🇮🇱](README.hb.md) [🇨🇿](README.cs.md) [<img src="../assets/pirate.png" width="22">](README.en-pirate.md) [🇲🇽](README.mx.md)
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Embranchez ce répertoire (aussi appelé un Fork)
+
+<img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
 
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
 Cela va créer une copie du répertoire sur votre compte.
