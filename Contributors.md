@@ -5,6 +5,7 @@
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
 - [Fireworks](https://github.com/fireworks9)
+- [Taruchit Goyal] (https://github.com/taruchit)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Abhishek Duggal](https://github.com/likeabhi)
 - [Russell Smitheram](https://github.com/smivs)
