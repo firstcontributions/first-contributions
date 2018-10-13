@@ -2998,6 +2998,7 @@ Kashish Khullar - :P
 - [Kirill Motkov](https://github.com/sosiska)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
 - [masta-bhawk](https://github.com/masta-bhawk)
+- [Victor Domiciano Mendonça](https://github.com/victordomiciano)
 - [Vishal Raj Shukla](https://github.com/vrs-git)
 - [emmaodia](https://github.com/emmaodia)
 - [Manuel Romero](https://github.com/Manu8083)
