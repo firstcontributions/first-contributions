@@ -14,6 +14,7 @@
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
+- [Salvatore Spagnuolo](https://github.com/Tore95)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
 - [Pankaj Niroula](https://github.com/npankaj365)
