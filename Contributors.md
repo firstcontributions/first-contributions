@@ -82,6 +82,7 @@
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Nethmi Wijesinghe](https://github.com/Nethmi96)
 - [Aditya Anantharaman](https://github.com/aditya9898)
+- [Trin C.](https://github.com/trinetta)
 - [Jessa Micucci](https://github.com/jmicucci)
 - [tanu]https://github.com/TanuAgrawal123
 - [siddhant wadhwa](https://github.com/sidd2010)
@@ -927,6 +928,7 @@
 - [Dave Tolan](https://github.com/davetolan)
 - [Faysel Marsit](https://github.com/MarsitFaysel)
 - [Alejandro Z. Reed](https://github.com/AZReed)
+- [Trin C.](https://github.com/trinetta)
 - [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
 - [Daniel Biehle](https://github.com/dannybrain)
