@@ -16,6 +16,7 @@
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
+- [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
 - [Saurabh Daware](https://github.com/saurabhdaware)
