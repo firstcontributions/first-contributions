@@ -6,6 +6,7 @@
 - [Gabriella Mara](https://github.com/gmarap)
 - [Fireworks](https://github.com/fireworks9)
 - [Johan van Tongeren](https://github.com/D3D0X)
+- [Abhishek Duggal](https://github.com/likeabhi)
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
