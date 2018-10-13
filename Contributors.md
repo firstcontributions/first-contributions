@@ -139,6 +139,7 @@
 - [Urszula](https://github.com/CebUleczka)
 - [Arka Mitra](https://github.com/thearkamitra)
 - [Yaderson Patiño](https://github.com/yaderson)
+- [Mladen Ristić](https://github.com/mladenristic1997)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
 - [Karl von Klein](https://github.com/kvonklein)
 - [Mei Mbah](https://github.com/meicodes)
