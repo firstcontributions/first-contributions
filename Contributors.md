@@ -23,6 +23,7 @@
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
+- [Cameron Brill](https://github.com/gaiscioch)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
 - [Aziz Alsaffar](https://github.com/octowl)
 - [Saurabh Biyani](https://github.com/saurabh119)
