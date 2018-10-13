@@ -6996,6 +6996,7 @@ ynobry
 - [Shyveon](https://github.com/Shyveon)
 - [Juan Rodriguez](http://github.com/jcrodriguezu)
 - [Ev](https://github.com/Evvie)
+- [Jamil Karami](https://github.com/jamilkarami)
 - [Vinay Chawla](https://github.com/vinaychawla11)
 - [Vjroby](https://github.com/vjroby)
 - [Kosuke](https://github.com/coarse-k)
