@@ -9,6 +9,7 @@
 - [Russell Smitheram](https://github.com/smivs)
 - [Abilash Menon](https://github.com/abilash13)
 - [Akash Yadav](https://github.com/akash2908)
+- [Manu Shahi](https://github.com/manushahi)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
