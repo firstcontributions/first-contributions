@@ -61,6 +61,7 @@
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
+- [Simmar Kalsi] (https://github.com/gyr0tron)
 - [Ivan De Menezes](https://github.com/ivan3101)
 - [Piyush Sharma](https://github.com/piyusharma95)
 - [BALU14012001](https://github.com/BALAJIRAO676)
