@@ -23,6 +23,7 @@
 - eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
+- [Aziz Alsaffar](https://github.com/octowl)
 - [Saurabh Biyani](https://github.com/saurabh119)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Anurag Kumar](https://github.com/kgloc)
