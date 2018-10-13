@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Franklin Wang](https://github.com/fxwang)
+- [Rishav Anand](https://github.com/rgolu)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
