@@ -28,6 +28,7 @@
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
 - [Aziz Alsaffar](https://github.com/octowl)
 - [Saurabh Biyani](https://github.com/saurabh119)
+  [Patrick Bate](https://github.com/pbateman828)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
