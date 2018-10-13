@@ -17,6 +17,7 @@
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
+- [Saurabh Daware](https://github.com/saurabhdaware)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
