@@ -927,6 +927,7 @@
 - [Dave Tolan](https://github.com/davetolan)
 - [Faysel Marsit](https://github.com/MarsitFaysel)
 - [Alejandro Z. Reed](https://github.com/AZReed)
+- [Trin C.](https://github.com/trinetta)
 - [Joaquim Moraes](https://github.com/jtbdm)
 - [Nandini Rao](https://github.com/nrao16)
 - [Daniel Biehle](https://github.com/dannybrain)
