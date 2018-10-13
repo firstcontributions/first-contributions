@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
@@ -254,7 +254,7 @@
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
-- [Colton Boston](https://github.com/ColtonBoston)
+- [yusufcodes] (https://github.com/yusufcodes) - [Colton Boston](https://github.com/ColtonBoston)
 - Corne Kooyman
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
