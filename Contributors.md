@@ -19,7 +19,8 @@
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
-- [Saurabh Daware](https://github.com/saurabhdaware)
+- [Saurabh Daware](https://github.com/saurabhdaware
+- [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
