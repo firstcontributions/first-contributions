@@ -22,7 +22,7 @@ Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.gith
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
 Cela va créer une copie du répertoire sur votre compte.
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## Clonez ce répertoire
 
