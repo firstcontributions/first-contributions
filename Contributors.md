@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [ClariSLover](https://github.com/s973125108)
@@ -7689,3 +7689,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Neolas67](https://github.com/Neolas67)
 - [MatteoAzzarelli](https://github.com/MatteoAzzarelli)
 - [Ginhton](https://github.com/ginhton)
+- [Mohita Bipin] (https://github.com/VoxEtMohita)
