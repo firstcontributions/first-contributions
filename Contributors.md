@@ -121,6 +121,7 @@
 - [Ortwin van Vessem](https://github.com/ovvessem)
 - [Sorokin Ruslan](https://github.com/PufonBarn)
 - [Samuel Funston](https://github.com/sfunston)
+- [VK](https://github.com/venkat-kaniti)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
