@@ -255,6 +255,7 @@
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
 - Evan Rives
+- maskedCat
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Brandon Thibeaux](https://github.com/thibeaux)
