@@ -17,7 +17,7 @@
 
 <div dir="rtl">
 قراءة ومشاهدة التعليمات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا استطعت المساهمة في مشروع دون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفير التوجيهات والتعليمات البدائية لإتمام أول مساهمة لك.
-تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمع بذلك.
+تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمتع بذلك.
 </div>
 
 
@@ -123,7 +123,7 @@ git push origin "add-your-name"
 
 
 <br>
-<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغيراتك للمراجعة</div></h2>
+<h2 id="سلم-تغيراتك-للمراجعة"><a name="سلم-تغيراتك-للمراجعة" href="#سلم-تغيراتك-للمراجعة"></a><div dir="rtl">سلم تغييراتك للمراجعة</div></h2>
 
 
 <div dir="rtl">في صفحة المشروع الخاصة بك يوجد زر <code>Compare &amp; pull request</code>. اضغط على هذا الزر.</div>
@@ -175,7 +175,7 @@ git push origin master
 <div dir="rtl">لاحظ أنك ترفع إلى <code>remote</code> اسمه <code>origin</code>.</div>
 <br>
 
-## <div dir="rtl">توجيهات بإستخدام أدوات أخرى</div>
+## <div dir="rtl">توجيهات باستخدام أدوات أخرى</div>
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
