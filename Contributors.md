@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Joel Hanson](https://github.com/Joel-hanson)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
 - [Johan van Tongeren](https://github.com/D3D0X)
