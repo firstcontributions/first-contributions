@@ -17,6 +17,7 @@
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D] (https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
+- [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - eaguy
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Durval Carvalho de Souza] (https://github.com/durvalcarvalho)
