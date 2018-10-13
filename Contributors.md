@@ -4,6 +4,7 @@
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
+- [Fireworks](https://github.com/fireworks9)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Russell Smitheram](https://github.com/smivs)
 - [Abilash Menon](https://github.com/abilash13)
