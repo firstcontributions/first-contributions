@@ -96,6 +96,7 @@
 - bunso tisoy
 - [Prakher Prashank]()
 - nick spagnola
+- [Yakub Babtunde](https://github.com/tyak99)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Mark Bowden](https://github.com/Mb01)
