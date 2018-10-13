@@ -37,6 +37,7 @@
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Veena Rawat] (https://github.com/veenarawat)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Teja Swaroop Arukoti](https://github.com/TejaSwaroopArukoti)
 - [Mitchell Fensome](https://github.com/kingcoconut332)
 - [Omer BAHADIR](https://github.com/thedeepocean)
 - [Michael Wahba](https://github.com/mwahba13)
