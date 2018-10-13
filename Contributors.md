@@ -4146,6 +4146,7 @@ Orandi Harris
 - [Humbl3Stud3nt](https://github.com/Humbl3Stud3nt)
 - [Steph Bacon](https://github.com/sbacon017)
 - [Nathan Lin](https://github.com/nlin24)
+- [Dragos Strugar](https://github.com/strudra)
 - [Humbl3Stud3nt](https://github.com/Humbl3Stud3nt)
 - [David Magee](https://github.com/dmagee15)
 - [Beryl Young](https://github.com/beal2000)
