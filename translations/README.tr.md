@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# İlk katkılar
+# İlk Katkılar
 
 Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
 
