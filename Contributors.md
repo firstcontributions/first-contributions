@@ -15,6 +15,7 @@
 - [Durval Carvalho de Souza] (https://github.com/durvalcarvalho)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
