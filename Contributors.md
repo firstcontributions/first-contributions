@@ -102,6 +102,7 @@
 - [Michael Knight](https://github.com/Mknight492)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
+- [Shaan]
 - [Karan Tandon](https://github.com/karan2dec)
 - [Lauren Reilly](https://github.com/LaurenReilly)
 - [Akshat Jain](https://github.com/iamakshatjain)
