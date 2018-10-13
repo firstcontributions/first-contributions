@@ -2933,6 +2933,7 @@
 - [CJ Haviland](https://github.com/cjhaviland)
 - [Shuyue Wang](http://github.com/k1631111)
 - [Zimi14](https://github.com/Zimi14)
+- [wmdieter](https://github.com/wmdieter)
 - [samanthalgibson](https://github.com/samanthalgibson)
 - [Atlas34](https://github.com/Atlas34)
 - [Ivan Shen](https://github.com/ivanshen)
