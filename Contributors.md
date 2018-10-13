@@ -1,6 +1,6 @@
 # Contributors
 
-- [Ritika Nair](https://github.com/ritikavnair) 
+- [Ritika Nair](https://github.com/ritikavnair)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
@@ -4853,3 +4853,4 @@
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
+- [Natalie Salemme](https://github.com/nataliesalemme)
