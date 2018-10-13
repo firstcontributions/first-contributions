@@ -1,7 +1,7 @@
 [![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 # Premières Contributions
 
@@ -9,7 +9,7 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
-#### *Read this in [other languages](translations/Translations.md):*
+#### *Read this in [other languages](Translations.md):*
 
 [🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇪🇸](README.es.md) [<img src="../assets/catalan1.png" width="22">](README.ca.md) [🇳🇱](README.nl.md) [🇱🇹](README.lt.md) [🇷🇺](README.ru.md) [:slovakia:](README.slk.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇩🇰](README.da.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇸🇦](README.ar.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴](README.gl.md) [🇵🇰](README.ur.md)[:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [:slovenia:](README.sl.md) [🇮🇱](README.hb.md) [🇨🇿](README.cs.md) [<img src="../assets/pirate.png" width="22">](README.en-pirate.md) [🇲🇽](README.mx.md)
 
@@ -21,6 +21,8 @@ Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.gith
 
 Embranchez ce répertoire en cliquant sur le bouton de fork en haut de la page.
 Cela va créer une copie du répertoire sur votre compte.
+
+<br><br><br>
 
 ## Clonez ce répertoire
 
