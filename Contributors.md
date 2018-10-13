@@ -40,6 +40,7 @@
 - [Michael Wahba](https://github.com/mwahba13)
 - [Anders Holt Knudsen] (https://github.com/anders2410)
 - [Wander Souza](https://github.com/WanderDouglas)
+- [Kevin Scully](https://github.com/scull1916)
 - [Fredrik Linde](https://github.com/flinde)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
