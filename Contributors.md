@@ -2825,6 +2825,7 @@ Kashish Khullar - :P
 - [Min Hoo Lee](https://github.com/minhoolee)
 - [Matic Zavadlal](https://github.com/maticzav)
 - [Nate Denys](https://github.com/ndenys650)
+- [Fajar Maulana Firdaus](https://github.com/sosispanggang)
 - [Dmitry Kudriavtsev](https://github.com/dkudriavtsev)
 - [Mark Freeman](https://github.com/Jac08H)
 - [Zac Cericola](https://github.com/zcericola)
