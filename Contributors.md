@@ -2540,6 +2540,7 @@
 - [Theo Markovic](https://github.com/tmarkovic)
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
 - [Kate Boyko](https://github.com/kateboyko)
+- [Andrii Hurskyi](https://github.com/tyran53red)
 - [Mohnish Tiwari]()
 - [Panu Kettunen](https://github.com/panukettu)
 - [Mohra Arsala](https://github.com/mohra-arsala)
