@@ -1,5 +1,6 @@
 # Contributors
 
+- [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Leon ROUX](https://github.com/Nurrl)
