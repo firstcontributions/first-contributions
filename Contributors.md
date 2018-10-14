@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
@@ -7811,4 +7811,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
 - [Anders Latif](https://github.com/anderslatif)
 - [Anh N. Nguyen](https://github.com/leptepkt)
+- [Mitch Greene](https://github.com/gitGreene)
 - [Willy Chen](https://github.com/WillyChen123)
