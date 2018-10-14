@@ -12,6 +12,7 @@
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Isurie] (https://github.com/Isurie)
 - [Abhijith Sheheer](https://github.com/abspython)
+- [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
