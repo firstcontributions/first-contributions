@@ -26,6 +26,7 @@
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
+- [Lucas Santos](https://github.com/khaosdoctor)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
 - [Ludvigch](https://github.com/ludvigch)
 - [Isay Razilov](https://github.com/IsayRazilov)
