@@ -5064,6 +5064,7 @@ Orandi Harris
 - [Luke Jennings](https://github.com/MoltenBear)
 - [Phakin Cheangkrachange](https://github.com/teamsoo)
 - [Jessi DiTocco](https://github.com/jessiditocco)
+- [Arsalan Etehad](https://github.com/ArsalanEtehad)
 - [Julia Berkovitz](https://github.com/juliaberk)
 - [Liz Lee](https://github.com/eljlee)
 - [Valerie Moy](https://github.com/thevalerie)
