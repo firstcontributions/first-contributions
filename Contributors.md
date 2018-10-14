@@ -165,6 +165,7 @@
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Paweł Wieszała](https://github.com/pawelwieszala)
 - [Ed Prince](https://github.com/edprince)
+- [Kristophe Sankar](https://github.com/kristophesankar}
 - [Agustin Avila](https://github.com/elchetosn)
 - [Till Favier]()
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
