@@ -761,6 +761,7 @@
 - [Neighlyd](https://github.com/neighlyd)
 - [Stacey Abbott](https://github.com/stacecadet17)
 - [Natalie Wyll](https://github.com/nwyll)
+- [Rebecca Chase](https://github.com/SleepingKitty)
 - [Shubham Kumar](https://github.com/shubhkumar97)
 - [Liza Liutova](https://github.com/hamstlanda)
 - [Indraneel Sarkar](https://github.com/sark01)
