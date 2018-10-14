@@ -11,6 +11,7 @@
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Isurie] (https://github.com/Isurie)
+- [Anestis Foulidis] (https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
