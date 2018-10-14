@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package chat_server_grpc;
+
+service ChatServer {
+    rpc Communicate(Request) returns(Response);
+}
+
+message Request {
+    int32 client_id = 1;
+    string message = 2;
+}
+
+message Response {
+    string message = 1;
+}
