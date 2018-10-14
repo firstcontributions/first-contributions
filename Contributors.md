@@ -4297,6 +4297,7 @@ Kashish Khullar - :P
 - [Thompadude](https://github.com/Thompadude)
 - [Klockner](https://github.com/Klockner)
 - [Pedro Cruz](https://github.com/cruzpedro)
+- [Kashan Hussain](https://github.com/kaashan)
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
 - [Brent Farand](https://github.com/BFarand)
