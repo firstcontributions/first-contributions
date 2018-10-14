@@ -6,7 +6,7 @@
 
 # First Contributions
 
-'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
+'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' wey new openth-sourceth contributors learn & contributeth fer th' first time.
 
 Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
 
@@ -18,8 +18,8 @@ If ye don't 'ave git on yer machine, [install it](https://help.github.com/articl
 
 ## Fork this repository
 
-Fork this repo by skewerin' on th' fork button on th' top o' this page.
-This will create a copy o' this repository in yer account.
+Fork these repo by skewerin' on th' fork button on th' top o' this page.
+These willith creates a copies o' these repository in yer account.
 
 ## Clone the repository
 
