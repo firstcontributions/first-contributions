@@ -284,6 +284,7 @@
 - [Brennen Green](https://github.com/brennengreen)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
+- [Penthaa Patel](https://github.com/penthaapatel)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
 - [Dmitriy Firsov](https://github.com/Shtihl)
