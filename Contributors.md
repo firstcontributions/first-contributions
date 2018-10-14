@@ -38,6 +38,7 @@
 - [Manu Shahi](https://github.com/manushahi)
 - [Amiya Ann Abraham](https://github.com/ammuammu01)
 - [Saurabh Daware](https://github.com/saurabhdaware)
+- [Kiran Gangta](https://github.com/kiran1019)
 - [Vanessa Singh](https://github.com/VanessaSingh)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [sara_in_codeland](https://github.com/sangerftw)
