@@ -43,6 +43,7 @@
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
 - [Ben Shew](https://github.com/ben9105)
+- [Hunter Wallace](https://github.com/Hjwallace)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
