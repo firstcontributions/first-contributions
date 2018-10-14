@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
@@ -630,6 +630,7 @@
 - bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
+- [Busta Codes](https://github.com/bustacodes)
 - [Jake](https://github.com/J-Gore)
 - [Tyler Stanley](https://github.com/tystanley)
 - [Joydeep Halder](https://github.com/halderjoydeep)
