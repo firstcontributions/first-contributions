@@ -1,5 +1,5 @@
 # Contributors
-- [Isurie] (https://github.com/Isurie)
+
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
@@ -8,6 +8,7 @@
 - [Franklin Wang](https://github.com/fxwang)
 - [Linh Ta](https://github.com/tangoclinh1995)
 - [Leon ROUX](https://github.com/Nurrl)
+- [Isurie] (https://github.com/Isurie)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
