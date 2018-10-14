@@ -56,6 +56,7 @@
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Sugapriya] (https://github.com/sugapriyasugu)
+- [Julien Proplesch] (https://github.com/jproples)
 - [Nihar](https://github.com/niharr)
 - [Bayu Bimantara](https://github.com/bayubimantarar)
 - [furoTmark](https://github.com/furoTmark)
