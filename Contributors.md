@@ -26,6 +26,7 @@
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
 - [Johan van Tongeren](https://github.com/D3D0X)
+- [Elena](https://github.com/elenaramon)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
 - [Lucas Santos](https://github.com/khaosdoctor)

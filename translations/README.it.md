@@ -6,7 +6,7 @@
 
 # La prima collaborazione
 
-È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare ci mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
+È dura. È sempre difficile fare qualcosa per la prima volta. Specialmente quando stai collaborando, sbagliare ti mette a disagio. Ma l'open source si basa sulla collaborazione e sul lavorare insieme. Pertanto volevamo semplificare il modo in cui i nuovi collaboratori imparano e contribuiscono per la prima volta a progetti open-source.
 
 Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio che fare effettivamente le cose, senza sbagliare nulla? Questo progetto punta ad essere una guida per i meno esperti. Ricorda: più sei rilassato, meglio imparerai. Se vuoi contribuire per la prima volta, segui i semplici passi elencati qui sotto. Ti promettiamo che sarà divertente.
 
@@ -60,7 +60,7 @@ git checkout -b aggiungi-alonzo-church
 
 ## Fai le modifiche necessarie e crea un commit
 
-Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il the file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
+Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva il file. Se vai nella directory del progetto ed esegui il comando `git status`, vedrai quali sono i cambiamenti. Aggiungi le modifiche al branch appena creato usando il comando `git add`:
 ```
 git add Contributors.md
 ```
@@ -102,7 +102,7 @@ Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di
 
 ## E ora?
 
-Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Potresti anche unirti alla nostra squadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Qui sotto puoi trovare delle repo popolari dove cercare issue semplici che potresti risolvere. Continua nelle repo per imparare di più
 
