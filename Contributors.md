@@ -9,6 +9,7 @@
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [ClariSLover](https://github.com/s973125108)
+- [Dedevava] (https://github.com/dedevava)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
