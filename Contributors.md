@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
+- [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
