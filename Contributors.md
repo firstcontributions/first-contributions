@@ -23,6 +23,7 @@
 - [Manu Shahi](https://github.com/manushahi)
 - [Saurabh Daware](https://github.com/saurabhdaware
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
+- [Roopam Sharma](https://github.com/RoopamSharma)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
