@@ -1385,6 +1385,7 @@
 - [Ryan Slade](https://github.com/rdslade)
 - [Chris Cerilli](http://github.com/chrisacerilli)
 - [Phillip Drake](https://github.com/pldrake26)
+- [Akshay Chopra](https://github.com/akshaychopra96)
 - [Lawrence Narh-Lawson](https://github.com/lawlawson)
 - [John James Romano](https://github.com/jjroma)
 - [Harimangal Pandey](https://github.com/pananon)
