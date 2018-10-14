@@ -50,6 +50,7 @@
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
+- [Joseph Antony](https://github.com/Joeavaikath)
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Chungath](https://github.com/crjoseph97)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
