@@ -64,6 +64,7 @@
 - [Kevin Scully](https://github.com/scull1916)
 -Shivam
 - [Fredrik Linde](https://github.com/flinde)
+- [David Hamilton](https://github.com/daloach20)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
