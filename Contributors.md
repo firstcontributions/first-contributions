@@ -783,6 +783,7 @@
 - [lemoncurry](https://github.com/lemoncurry)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Kanika Agrawal](https://github.com/Kanika1799)
+- [Amrit Khera](https://github.com/AmritK10)
 - [Kin Lam](https://github.com/alanklam)
 - [Rohit katlaa](https://github.com/rohitkatlaa)
 - [James](https://github.com/james-flynn-ie)
