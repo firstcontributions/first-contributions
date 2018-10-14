@@ -18,11 +18,11 @@ Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente p�
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
-## Faça um Fork deste repositório
+## Faça um Fork deste repositório !
 
 Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar uma cópia deste repositório na sua conta.
 
-## Clone o repositório
+## Clone o repositório !
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositório" />
 
@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/first-contributions.git
 ```
 onde "seu-usuario" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
-## Crie um Branch
+## Crie um Branch !
 
 Vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
@@ -60,7 +60,7 @@ git checkout -b add-alonzo-church
 ```
 Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
-## Efetue as alterações necessárias e faça um Commit
+## Efetue as alterações necessárias e faça um Commit !
 
 Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu nome a ele e salve o arquivo. 
 
@@ -76,7 +76,7 @@ git commit -m "Add <seu-nome> to Contributors list"
 ```
 preenchendo `<seu-nome>` com o seu nome.
 
-## Faça um Push das alterações para o GitHub
+## Faça um Push das alterações para o GitHub !
 
 Faça um Push utilizando o comando `git push`:
 ```
@@ -84,7 +84,7 @@ git push origin <add-seu-nome>
 ```
 substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
-## Envie suas alterações para serem revisadas
+## Envie suas alterações para serem revisadas !
 
 Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
 
@@ -108,13 +108,13 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
-## Tutoriais usando outras ferramentas
+## Tutoriais usando outras ferramentas !
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Autopromoção
+## Autopromoção !
 
 Se você gostou deste projeto, favorite-o com um estrela no [GitHub](https://github.com/Roshanjossey/first-contributions).
 Se estiver se sentindo especialmente caridoso, siga [Roshan](https://roshanjossey.github.io/) no
