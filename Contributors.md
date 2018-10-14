@@ -7817,3 +7817,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Willy Chen](https://github.com/WillyChen123)
 - [Eryk Lupa](https://github.com/vistafan12)
 - [Nikhil Gautam](https://github.com/nik-gautam)
+- [Hogwarter](https://github.com/Hogwarter)
+
