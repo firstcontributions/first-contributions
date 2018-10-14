@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Shawn Flores](https://github.com/priultimus)
 - [Victor Castro Serrano] (https://github.com/vicase)
 - [Naman Goyal] (https://github.com/namangoyal172)
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
