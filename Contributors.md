@@ -97,6 +97,7 @@
 - [Wander Souza](https://github.com/WanderDouglas)
 - [Kevin Scully](https://github.com/scull1916)
 -Shivam
+- [Dennis Lin](https://github.com/denni5lin)
 - [Fredrik Linde](https://github.com/flinde)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
