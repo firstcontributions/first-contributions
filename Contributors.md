@@ -26,6 +26,7 @@
 - [Abhishek Duggal](https://github.com/likeabhi)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
 - [Ludvigch](https://github.com/ludvigch)
+- [Isay Razilov](https://github.com/IsayRazilov)
 - [Vritika Singla](https://github.com/vritika1310)
 - [Jk!ng](https://github.com/Jatin-Pawar)
 - [Russell Smitheram](https://github.com/smivs)
