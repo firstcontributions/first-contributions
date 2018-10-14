@@ -3998,6 +3998,7 @@ Orandi Harris
 - [this-is-you]()
 - [StepanovV](https://github.com/StepanovV)
 - [Sutthinart Khunvadhana](https://github.com/iakgoog)
+- [John Guida](https://github.com/gotCaCO3)
 - [Tsufael](https://github.com/Tsufael)
 - [Sidartha](https://github.com/sidarthar)
 - [Edgar](https://github.com/edgarbc)
