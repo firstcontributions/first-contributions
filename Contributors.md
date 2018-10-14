@@ -57,6 +57,7 @@
 - [Jennifer Norby](https://github.com/jgnorby)
   [Patrick Bate](https://github.com/pbateman828)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
+- [DP Gerber](https://github.com/dpgerber)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Sugapriya] (https://github.com/sugapriyasugu)
