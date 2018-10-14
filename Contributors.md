@@ -153,6 +153,7 @@
 - [Shaan]
 - [Karan Tandon](https://github.com/karan2dec)
 - [Lauren Reilly](https://github.com/LaurenReilly)
+- [Bryn Roughan](https://github.com/Broughh)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
