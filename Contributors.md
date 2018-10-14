@@ -1158,6 +1158,7 @@
 - [Salha Salman](https://github.com/salhasalman)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
+- [Sathish Kumar Subramani](https://github.com/Sathish-kumar-Subramani)
 - [Jocelyn Englund](https://github.com/therealjawss)
 - [Patrick Hsieh](https://github.com/HsiehPatrick)
 - [Franjo Pintarić](https://github.com/unforgiven1909/)
