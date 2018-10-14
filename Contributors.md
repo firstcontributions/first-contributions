@@ -257,6 +257,7 @@
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [George Parsons](https://github.com/geopar)
 - [Lucy S](https://github.com/girlingoggles)
+- [Daniel Smith](https://github.com/techydan)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
 - [Daniel Menachem](https://github.com/doom3007)
