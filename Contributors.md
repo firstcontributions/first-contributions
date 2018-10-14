@@ -16,6 +16,7 @@
 - [Gabriella Mara](https://github.com/gmarap)
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
+- [Saddam Hussain](https://github.com/saddamhussain734)
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
 - [Johan van Tongeren](https://github.com/D3D0X)
