@@ -10,6 +10,7 @@
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
+- [Daniel Guerreiro](https://github.com/danielvperes)
 - [Isurie] (https://github.com/Isurie)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [Shubham Shrivastava](https://github.com/shrishubham)
