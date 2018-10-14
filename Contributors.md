@@ -1032,6 +1032,7 @@
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
+- [Randika Niroshan] (https://github.com/RandikaNiroshan)
 - [Casey Price](https://github.com/casprice)
 - [Stephan Lyons](https://github.com/LyonsStephan/)
 - [Leonardo Silvestre](https://github.com/Khanatoshs)
