@@ -7813,3 +7813,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Anh N. Nguyen](https://github.com/leptepkt)
 - [Mitch Greene](https://github.com/gitGreene)
 - [Willy Chen](https://github.com/WillyChen123)
+
+- [Janice Keita](https://github.com/Gotaskaen)
