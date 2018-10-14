@@ -194,6 +194,7 @@
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
 - [Shaan]
+- [Rosalinda Prom](https://github.com/developerpeachy)
 - [Karan Tandon](https://github.com/karan2dec)
 - [Lauren Reilly](https://github.com/LaurenReilly)
 - [Bryn Roughan](https://github.com/Broughh)
