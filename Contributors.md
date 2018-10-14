@@ -13,6 +13,7 @@
 - [Nihar](https://github.com/niharr)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
+- [Sanya Swain](https://github.com/sanyaswain) 
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Joris van Willigen](https://github.com/JorisvanW)
 - [Fredrik Linde](https://github.com/flinde)
