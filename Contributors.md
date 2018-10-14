@@ -2,6 +2,7 @@
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
+- [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Leon ROUX](https://github.com/Nurrl)
