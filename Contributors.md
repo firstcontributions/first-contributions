@@ -16,6 +16,7 @@
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
+- [Daniel Guerreiro](https://github.com/danielvperes)
 - [Isurie] (https://github.com/Isurie)
 - [Anestis Foulidis] (https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
