@@ -3921,6 +3921,7 @@ Orandi Harris
 - [Maxens Achiepi](https://github.com/mxch18)
 - [Vurp](https://github.com/Vurp)
 - [n00bady](https://github.com/n00bady)
+- [Denise Tran](https://github.com/tdenise)
 - [Mujadded](https://github.com/mujadded)
 - [coljadu](https://github.com/coljadu)
 - [Rishav Chakraborty](https://github.com/lilithxxx)
