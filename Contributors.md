@@ -46,6 +46,7 @@
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
+- [Coleman Fox](https://github.com/80080x)
 - [Amiya Ann Abraham](https://github.com/ammuammu01)
 - [Saurabh Daware](https://github.com/saurabhdaware)
 - [Kiran Gangta](https://github.com/kiran1019)
