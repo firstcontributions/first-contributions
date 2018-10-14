@@ -814,6 +814,7 @@
 - [Elizabeth](https://github.com/marbeth8899)
 - [Aniket](https://github.com/ani-jarvis)
 - [Tyler Torres](https://github.com/tylert88)
+- [Bruno Krauß](https://github.com/bodo1337)
 - [Bill Gates](https://www.google.com)
 - [Jeremy Sipple](https://github.com/jsioh11)
 - [Briana Oursler](https://github.com/Boursler)
