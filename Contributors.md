@@ -105,6 +105,7 @@
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
+- [Mayank Arora] (https://github.com/hotshot07)
 - [Kim](https://github.com/kimmeccsb)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes](https://github.com/cchawkesd)
