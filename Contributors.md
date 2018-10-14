@@ -5,6 +5,7 @@
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
+- [Linh Ta](https://github.com/tangoclinh1995)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
