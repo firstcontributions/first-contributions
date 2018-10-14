@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
@@ -21,6 +21,7 @@
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
+- [Ben Shew](https://github.com/ben9105)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
