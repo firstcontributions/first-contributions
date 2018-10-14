@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shawn Flores](https://github.com/priultimus)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
@@ -9,6 +9,7 @@
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
+- [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
