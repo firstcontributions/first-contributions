@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Naman Goyal] (https://github.com/namangoyal172)
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
