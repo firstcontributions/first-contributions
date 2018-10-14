@@ -11,6 +11,7 @@
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
+- [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Johan van Tongeren](https://github.com/D3D0X)
