@@ -48,7 +48,7 @@
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
-- [Courtney Adams](https://github.com/cadams8238) 
+- [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Chungath](https://github.com/crjoseph97)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Cameron Brill](https://github.com/gaiscioch)
@@ -7820,3 +7820,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Willy Chen](https://github.com/WillyChen123)
 - [Eryk Lupa](https://github.com/vistafan12)
 - [Hogwarter](https://github.com/Hogwarter)
+[Andy Davis](https://github.com/bassicallyandy1021)
