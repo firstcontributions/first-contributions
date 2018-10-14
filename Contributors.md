@@ -64,6 +64,7 @@
 - [Bayu Bimantara](https://github.com/bayubimantarar)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
+- [Sergi Marquez](https://github.com/sergimarquez)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Ekaansh Arora](https://github.com/EkaanshArora)
 - [Joris van Willigen](https://github.com/JorisvanW)
