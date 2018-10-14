@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
