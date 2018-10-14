@@ -27,7 +27,8 @@
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
-- [Saurabh Daware](https://github.com/saurabhdaware
+- [Amiya Ann Abraham](https://github.com/ammuammu01)
+- [Saurabh Daware](https://github.com/saurabhdaware)
 - [Vanessa Singh](https://github.com/VanessaSingh)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [sara_in_codeland](https://github.com/sangerftw)
