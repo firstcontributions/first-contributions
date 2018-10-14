@@ -1,8 +1,8 @@
 # Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
-- [Anıl GÜRSES] (https://github.com/anilgurses)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
+- [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Leon ROUX](https://github.com/Nurrl)
