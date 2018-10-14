@@ -17,6 +17,7 @@
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Taruchit Goyal] (https://github.com/taruchit)
+- [Ruchi Singh] (https://github.com/Ruchi-nitd)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
