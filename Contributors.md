@@ -34,6 +34,7 @@
 - [Roopam Sharma](https://github.com/RoopamSharma)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Lydia Lane](https://github.com/LydiaLane)
+- [Rakesh Pavan](https://github.com/Rakeshpavan333)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D](https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
