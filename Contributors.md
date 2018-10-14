@@ -336,6 +336,7 @@
 - [Sanjana Ekanayake](https://github.com/Sanjanaekanayake)
 - [Tashima Dilrukshi](https://github.com/Tashimadilrukshi)
 - [KarinRoe](https://github.com/KarinRoe)
+- [cwj5](https://github.com/cwj5)
 - [Sahil Dhawan](https://github.com/Sahil-Dhawan)
 - [Tyrone Damasceno](https://github.com/tyronedamasceno)
 - [Mahmoud Anwar](https://github.com/mamoanwar)
