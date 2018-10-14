@@ -118,7 +118,8 @@
 - [Jason Dunken](https://github.com/jasondunken)
 - [liraz kinan]()
 - [Nadia Prodanova]
-[Dominique D]()https://github.com/domilearns)
+- [Dominique D](https://github.com/domilearns)
+- [Matthew Kelley](https://github.com/mkelley88)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
