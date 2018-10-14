@@ -115,6 +115,7 @@
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Kelly Burgess](https://github.com/kellyburg)
 - [Jenn Renee](https://github.com/jennrenee626)
+- [Max Weber](https://github.com/MyracleDesign)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
 - [Haoda Wang](https://github.com/h313)
