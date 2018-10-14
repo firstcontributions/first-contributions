@@ -556,6 +556,7 @@
 - [Yeddy](https://github.com/ornelasEduardo)
 - [Shawn Fulmer](https://github.com/shawnd778/)
 - [Ritwiz Sinha](https://github.com/ritwizsinha)
+- [Lis Azevedo](https://github.com/lisazevedo)
 - [senpai](https://github.com/windowstestuser)
 - [Will Bender](https://github.com/Ragnoroct)
 - [Byungjin Park](https://github.com/posquit0)
