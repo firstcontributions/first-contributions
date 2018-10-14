@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
@@ -7790,3 +7790,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Sinitax](https://github.com/sinitax)
 - [Laurin Neff](https://github.com/laurinneff)
 - [Janson Chew](https://github.com/haichew)
+- [Het Patel](https://github.com/hetp111)
