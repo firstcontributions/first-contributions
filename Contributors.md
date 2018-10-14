@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 
-- [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
-- [Vu Minh Tung] (https://github.com/tungvm1711/)
+- [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
+- [Nam H. Nguyen](https://github.com/Nam-H-Nguyen)
+- [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Adwan Alshammari](https://github.com/adwanAK)
@@ -9,8 +10,8 @@
 - [Linh Ta](https://github.com/tangoclinh1995)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
-- [Yuri Tymoshchuk] (https://github.com/gopolar)
-- [Isurie] (https://github.com/Isurie)
+- [Yuri Tymoshchuk](https://github.com/gopolar)
+- [Isurie](https://github.com/Isurie)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
@@ -19,8 +20,8 @@
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
-- [Taruchit Goyal] (https://github.com/taruchit)
-- [Ruchi Singh] (https://github.com/Ruchi-nitd)
+- [Taruchit Goyal](https://github.com/taruchit)
+- [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
