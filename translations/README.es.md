@@ -87,7 +87,7 @@ Haz *push* de tus cambios usando el comando `git push`:
 ```
 git push origin <añade-el-nombre-de-la-rama>
 ```
-Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste anteriormente.
+Reemplaza `<añade-el-nombre-de-la-rama>` por el nombre de la rama que creaste anteriormente.
 
 ## Envía (*Submit*) tus cambios para ser revisados
 
