@@ -13,7 +13,7 @@ Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ )
+Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace].( https://help.github.com/articles/set-up-git/ )
 
 ## Bifurca (*Fork*) este repositorio
 
@@ -79,7 +79,7 @@ Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
 git commit -m "Add <tu-nombre> to Contributors list"
 ```
-cambiando `<tu-nombre>` con tu nombre.
+sustituyendo `<tu-nombre>` por tu nombre.
 
 ## Manda (*Push*) tus cambios a GitHub
 
