@@ -26,6 +26,7 @@
 - [Jaeheon Shim](https://github.com/jaeheonshim)
 - [Ludvigch](https://github.com/ludvigch)
 - [Vritika Singla](https://github.com/vritika1310)
+- [Jk!ng](https://github.com/Jatin-Pawar)
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Abilash Menon](https://github.com/abilash13)
