@@ -2613,6 +2613,7 @@ Orandi Harris
 - [Aakash K T](https://github.com/kt20162)
 - [Mridul Parakh](https://github.com/Mridul-parakh)
 - [Hitoishi Das]()
+- [Melissa Sorrells](https://github.com/msorre2)
 - [Santhosh Ramachandran]()
 - [Ling Mahlow]()
 - [Omar Aguinaga](https://github.com/OmarAguinaga)
