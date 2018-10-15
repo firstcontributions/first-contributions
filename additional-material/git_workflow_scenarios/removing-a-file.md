@@ -1,6 +1,6 @@
 # Removing a file from Git
 
-Sometimes, you may want to remove a file from Git but not delete it from your computer. You can achieve this by using the following command:
+Sometimes, you may want to remove a file from Git but not delete it from your computer. You can achieve this by using the following command from command prompt:
 
 ``git rm <file> --cached``
 
