@@ -16,6 +16,7 @@
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
+- [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Linh Ta](https://github.com/tangoclinh1995)
