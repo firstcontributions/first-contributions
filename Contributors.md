@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [YamitSi](https://github.com/yamitsi)
@@ -7962,10 +7962,10 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
+- [Benjamin Qu](https://github.com/CodeBool)
 - [Jude Osbert K](https://github.com/judeosbert)
 - [Cholinka13](https://github.com/cholinka13)
 - [Hearot](https://github.com/hearot)
-- [Benjamin Qu](https://github.com/CodeBool)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [Viktor Bakulin](https://github.com/Alanthel)
 - [Bhushan Khanale](https://github.com/bkhanale)
