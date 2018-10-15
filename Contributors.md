@@ -417,6 +417,7 @@
 - [Mahmoud Anwar](https://github.com/mamoanwar)
 - [Egor Gorunovich](https://github.com/titanolodon)
 - [tweekes1](https://github.com/tweekes1)
+- [capJavert](https://github.com/capJavert)
 - [lookovathere](https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
 - [Yusuf Duyar](https://github.com/yusufduyar)
