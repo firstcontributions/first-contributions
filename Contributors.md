@@ -5851,6 +5851,7 @@ Orandi Harris
 - [Dale Seo](https://github.com/DaleSeo)
 - [Sergio Barker](https://github.com/sbrycebarker)
 - [Marietta Akumbom](https://github.com/akumbommarietta)
+- [Enzo Parodi](https://github.com/Enzo-Parodi)
 - [Oleksii R](https://github.com/oleksiiRybak)
 - [Andrei Vulpe](https://github.com/AndreiVulpe)
 - [Archit Checker](https://github.com/checker5965)
