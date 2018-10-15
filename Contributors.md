@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
+- [ShubU](http://github.com/shubu)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
 - [Malik Mahmud] (https://github.com/MlkMahmud)
