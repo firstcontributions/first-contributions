@@ -16,6 +16,7 @@
 - [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
+- [Adam Luczak](https://github.com/aluczak)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
 - [Zachary Bergeron](https://github.com/zbergus)
 - [Christian F. Sousa] (https://github.com/Swifty-Sousa)
