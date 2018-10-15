@@ -1,5 +1,5 @@
 ﻿# Contributors
- 
+
 - [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
@@ -58,6 +58,7 @@
 - [Mikolaj Piechocki](https://github.com/mpiechocki)
 - [Ludvigch](https://github.com/ludvigch)
 - [Isay Razilov](https://github.com/IsayRazilov)
+- [Valentina Calabrese](https://github.com/vale-c)
 - [Vritika Singla](https://github.com/vritika1310)
 - [Jk!ng](https://github.com/Jatin-Pawar)
 - [Russell Smitheram](https://github.com/smivs)
@@ -139,6 +140,7 @@
 - [Kimbo](https://github.com/KimboTodd)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes](https://github.com/cchawkesd)
+- [Seth Fatzinger](https://github.com/sfatzinger)
 - [Raghav Gupta](https://github.com/raghav3003)
 - [Wayne Fan](https://github.com/wei8596)
 - [Ananth Shenoy](https://github.com/ananthshenoy)
@@ -3102,6 +3104,7 @@ Orandi Harris
 - [Ocean](https://github.com/ocean0212)
 - [Francis](https://github.com/borbefg)
 - [WanWan](https://github.com/lf2com)
+- [MikaGrootenboer](https://github.com/MikaGrootenboer)
 - [mariannems](https://github.com/mariannems)
 - [Emina Zolota](https://github.com/eminazolota)
 - [Ana Perez](https://github.com/anacperez)
@@ -7931,4 +7934,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
+- [Jude Osbert K](https://github.com/judeosbert)
 - [Adrian Muntean](https://github.com/AdrianMuntean)
