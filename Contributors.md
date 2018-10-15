@@ -5,6 +5,7 @@
 - [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
+- [punisher](https://github.com/punisherpbb)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Archit Singla](https://github.com/architsingla13)
