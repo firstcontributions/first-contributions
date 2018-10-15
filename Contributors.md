@@ -322,6 +322,7 @@
 - [Kasi Venkata Sai](https://github.com/kasivenkatasao)
 - [Neale Forrest](https://github.com/gumpie)
 - [Master](https://github.com/munnikedost)
+- [Evyn Price] (https://github.com/thetechnicalfox)
 - [sandeep](https://github.com/sandeepsanjusplr)
 - [Said Garcia](https://github.com/saidg23)
   [karviesays](https://github.com/karviesays)
