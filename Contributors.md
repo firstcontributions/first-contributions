@@ -377,6 +377,7 @@
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
+- [mnemosdev](https://github.com/mnemosdev)
 - Evan Rives
 - maskedCat
 - [Yixian Chen](https://github.com/yxnchen)
