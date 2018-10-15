@@ -244,6 +244,7 @@
 - [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
 - [Lucas Gomes](https://github.com/lukasg18)
+- [nicktogo](https://github.com/nicktogo)
 - [Hemant Khandelwal](https://github.com/iamhem)
 - [Anjali Garg](https://github.com/AnjaliGarg13)
 - [Ravi Gupta](https://github.com/guptaravi540)\
