@@ -26,6 +26,7 @@
 - [Andrei Ushakov](https://github.com/aushakov95)
 - [Zakaria Soufiani](https://github.com/zakaria-soufiani)
 - [Eduard Barata](https://github.com/bar-alex)
+ [Eduard Barata](https://github.com/bar-alex)
 - [Richard Placide](https://github.com/richardplacide)
 - [Jake Frn](https://github.com/jakefrn)
 - [Eric Audran](https://github.com/Nevosis)
