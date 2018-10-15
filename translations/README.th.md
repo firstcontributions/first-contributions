@@ -105,15 +105,15 @@ git push origin <ชื่อ branch ของคุณ>
 
 ## ไปไหนต่อดีหลังจากนี้?
 
-ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อน ๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
+ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อนๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
 
-หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใด ๆ [เข้าร่วม slack กับเรา](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใดๆ [เข้าร่วม slack กับเรา](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
-จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่น ๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
+จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่นๆได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
 
-### [ข้อมูลอื่น ๆ เพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
+### [ข้อมูลอื่นๆ เพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่น ๆ
+## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่นๆ
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
