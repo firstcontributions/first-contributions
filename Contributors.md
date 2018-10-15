@@ -410,6 +410,7 @@
 - [DarylBupt](https://github.com/darylbupt)
 - [Alex Kichukov](https://github.com/allexpleblord)
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
+- [Charles Marsala](https://github.com/cmarsala91)
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
 - [Niclas](https://github.com/buffet)
 - [Kat MacCannon](https://github.com/trenzafeeds)
