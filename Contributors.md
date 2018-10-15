@@ -1492,6 +1492,7 @@
 - [kholood Eassa](https://github.com/kholood-ea)
 - [Patrick O'Neill](https://github.com/howelloneill)
 - [Siva Kumar Lakkoju](https://github.com/sivakumar97)
+- [John Ness](https://github.com/jsness)
 - [Paulo Ricardo Kenshun Nakaima](https://github.com/guimpo)
 - [Thibault d'Aboville](https://github.com/ThibaultDBVLL)
 - [Mike Smith](https://github.com/MIkesmith415)
