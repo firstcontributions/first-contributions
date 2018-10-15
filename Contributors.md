@@ -3956,6 +3956,7 @@ Orandi Harris
 - [Vanhee Arne]()
 - [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
 - [Sujeevan](https://github.com/sujeevan81)
+- [Hugo M.](https://github.com/hmaesta)
 - [Pablo Nieto](https://github.com/nietopablo19)
 - [Pratik Agarwal](https://github.com/pratik151192)
 - [Aoshi Fujioka](https://github.com/assly)
