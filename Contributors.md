@@ -1,7 +1,8 @@
 ﻿# Contributors
 
+- [YamitSi](https://github.com/yamitsi)
 - [AnnChar](https://github.com/annchar)
-- [Nicholas Carnival] (httpw;//github.com/majorderp4)
+- [Nicholas Carnival] (https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Vast Peng](https://github.com/keatingsmith)
