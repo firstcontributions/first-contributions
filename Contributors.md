@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
+- [ShubU](http://github.com/shubu)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
 - [Malik Mahmud] (https://github.com/MlkMahmud)
@@ -7920,4 +7921,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Angga Dwi Arifandi](http://github.com/blackmenthor)
 - [Martina Šafarić](https://github.com/msafaric)
 - [Fredrika Holmberg](https://github.com/femtioelva)
-
+- [Knatas](https://github.com/knatas)
