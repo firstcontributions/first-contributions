@@ -27,6 +27,7 @@
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Jathniel Argueza](https://github.com/jathniel)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
+- [Dinesh Raj] (https://github.com/dineshraj01)
 - [Daniel Guerreiro](https://github.com/danielvperes)
 - [Isurie] (https://github.com/Isurie)
 - [Anestis Foulidis] (https://github.com/anestisFoul)
