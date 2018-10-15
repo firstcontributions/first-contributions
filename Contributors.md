@@ -13,6 +13,7 @@
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Anshu Kumar](https://github.com/Anshuvats)
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
