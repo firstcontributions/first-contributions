@@ -1,5 +1,6 @@
 ﻿# Contributors
-
+ 
+- [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [Vast Peng](https://github.com/keatingsmith)
