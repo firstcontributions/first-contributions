@@ -2,6 +2,7 @@
 
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [YamitSi](https://github.com/yamitsi)
+- [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
