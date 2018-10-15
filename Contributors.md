@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
 - [Vast Peng](https://github.com/keatingsmith)
@@ -14,6 +14,7 @@
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Anshu Kumar](https://github.com/Anshuvats)
+- [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
