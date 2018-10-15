@@ -108,6 +108,7 @@
 - [Kevin Scully](https://github.com/scull1916)
 -Shivam
 - [Dennis Lin](https://github.com/denni5lin)
+- [Farooq Ch](https://github.com/farooqch11)
 - [Fredrik Linde](https://github.com/flinde)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
