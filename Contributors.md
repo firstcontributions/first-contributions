@@ -48,6 +48,7 @@
 - [Ben Shew](https://github.com/ben9105)
 - [Hunter Wallace](https://github.com/Hjwallace)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
+- [vibhasi
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
