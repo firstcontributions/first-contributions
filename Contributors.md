@@ -287,6 +287,7 @@
 - [Master](https://github.com/munnikedost)
 - [sandeep](https://github.com/sandeepsanjusplr)
 - [Said Garcia](https://github.com/saidg23)
+  [karviesays](https://github.com/karviesays)
 - [Sudhanshu](https://github.com/capreyon)
 - [Mahesh Tudu](https://github.com/mahis929)
 - [Manikant](https://github.com/mmani9199)
