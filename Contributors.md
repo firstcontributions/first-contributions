@@ -5707,6 +5707,7 @@ Orandi Harris
 - [Diogo Simoes](https://github.com/s1moe2)
 - [Patrick Farnham](https://github.com/pfarnham/)
 - [Manali Joshi](https://github.com/manalijoshi82)
+- [Rohit Aggarwal](https://github.com/errohitagg)
 - [Irving Delgado](https://github.com/irving2delgado)
 - [Vulchi Vijaya Kumar](https://github.com/vulchivijayakumar)
 - [Patrick Peters](https://github.com/ppeters0502)
