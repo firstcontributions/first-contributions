@@ -284,6 +284,7 @@
 - [Hsain Wu](http://github.com/wsp50317)
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
+- [Vinnys Lins](https://github.com/vinnyslins)
 - [Thein Oo](https://github.com/thoo)
 - [Kyle Tozer](https://github.com/kyletozer)
 - [Harshit Bhalla](https://github.com/harshitsan)
