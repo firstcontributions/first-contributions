@@ -68,6 +68,7 @@
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Neo Cho] (https://github.com/neocho)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
+- [Bharath Shendre] (https://github.com/shendrekbharath)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
 - [Hiren Parmar](https://github.com/hirenparmar11)
