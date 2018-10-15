@@ -118,6 +118,7 @@
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
+- [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora] (https://github.com/hotshot07)
 - [Kim](https://github.com/kimmeccsb)
 - [Kimbo](https://github.com/KimboTodd)
