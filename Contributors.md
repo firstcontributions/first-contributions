@@ -102,6 +102,7 @@
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
 - [Joseph Antony](https://github.com/Joeavaikath)
+- [Jewel Jo Prince](https://github.com/jeweljoppan)
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Chungath](https://github.com/crjoseph97)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
