@@ -4164,6 +4164,7 @@ Orandi Harris
 - [Kiyun](https://github.com/kiyunkim)
 - [Lauren Clifford](https://github.com/lmclifford89)
 - [Elena Yatzeck](https://github.com/eyatzeck)
+- [Joe B.](https://github.com/bonez0607/first-contributions)
 - [Johannes Günther](https://github.com/joaoyoanes)
 - [Dayo Ojo Jnr](https://github.com/flipponachi)
 - [Maikko Aleman](https://github.com/maikkoko/)
