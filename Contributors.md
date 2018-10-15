@@ -6375,6 +6375,7 @@ Orandi Harris
 - [Cody Neiman](https://github.com/Matrix-Guy)
 - [Sarah Bass](https://github.com/hedwidgetty)
 - [Jesse Pink](https://github.com/jessepink)
+- [Andy Acosta](https://github.com/andyacosta)
 - [Daniel Cerqueira](https://github.com/brdanielc)
 - [Ajala Ayodotun](https://github.com/DotunAj)
 - [Tristan Anderson](https://github.com/tevedeh)
