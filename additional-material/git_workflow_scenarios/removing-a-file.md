@@ -14,7 +14,7 @@ If you commit the change with `git commit -m "Remove file1.js"` and pushed it to
 
 ## Additional features
 
--   If you want to remove more than one file, you can include them all in the same command:
+-   If you want to remove more than one file, you can include them all in the same command putting space between two file names:
 
     `git rm file1.js file2.js file3.js --cached`
 
