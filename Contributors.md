@@ -273,6 +273,7 @@
 - [Hattou Faïssal](https://github.com/Bakhaw)
 - [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
+- [Prem Adithya Suresh](https://github.com/adithyaxx)
 - [W Moreland](https://github.com/wmoreland)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [nicktogo](https://github.com/nicktogo)
