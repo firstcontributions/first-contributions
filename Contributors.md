@@ -48,6 +48,7 @@
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Taruchit Goyal] (https://github.com/taruchit)
+- [Neo Cho] (https://github.com/neocho)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
