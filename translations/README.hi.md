@@ -122,7 +122,7 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## आत्म पदोन्नति
+## आत्म पदोन्नति 
 
 अगर आपको यह प्रोजेक्ट पसंद आया, तो इसे स्टार करें [GitHub](https://github.com/Roshanjossey/first-contributions) पर | 
 यदि आप विशेष रूप से धर्मार्थ महसूस कर रहे हैं, तो follow [Roshan](https://roshanjossey.github.io/) twitter और
