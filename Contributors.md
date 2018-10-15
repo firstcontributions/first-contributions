@@ -616,6 +616,7 @@
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marc Jonkers](https://github.com/mevrouwdevries)
 - [hnarasaki](https://github.com/hnarasaki)
+- [Howard Moon](https://github.com/howardmn)
 - [Prathamesh More](https://github.com/pprathameshmore)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Zach Capshaw](https://github.com/zcapshaw)
