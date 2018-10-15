@@ -109,6 +109,7 @@
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
 - [Joseph Antony](https://github.com/Joeavaikath)
+- [Joseph Crandal](https://github.com/crandalj)
 - [Jewel Jo Prince](https://github.com/jeweljoppan)
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Chungath](https://github.com/crjoseph97)
