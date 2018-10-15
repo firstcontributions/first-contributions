@@ -1042,6 +1042,7 @@
 - [Aviv Alon](https://github.com/aalon2)
 - [Hunter Esposito](https://github.com/hesposi2278)
 - [Vincent Huang](https://github.com/vinceajcs)
+- [Qaasim](https://github.com/Orientales)
 - [Shailesh Vashishth](https://github.com/shim101)
 - [Marissa Shaffer](https://github.com/msshaffer2003)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
