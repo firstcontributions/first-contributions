@@ -8,6 +8,7 @@
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
+- [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano] (https://github.com/vicase)
 - [Naman Goyal] (https://github.com/namangoyal172)
