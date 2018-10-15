@@ -155,6 +155,7 @@
 - [Anurag Kumar](https://github.com/kgloc)
 - [Stu Wares](https://github.com/StuWares)
 - [DarthHamza](https://github.com/DarthHamza)
+- [Christian Schmitt](https://github.com/schmittcn)
 - [Victor Hugo M. Pinto](https://github.com/victorhmp)
 - [Nitish Srivastava](https://github.com/nitish-iiitd)
 - [Kelly Burgess](https://github.com/kellyburg)
