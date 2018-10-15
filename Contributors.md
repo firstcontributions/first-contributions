@@ -20,6 +20,7 @@
 - [Linh Ta](https://github.com/tangoclinh1995)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
+- [Jathniel Argueza](https://github.com/jathniel)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Daniel Guerreiro](https://github.com/danielvperes)
 - [Isurie] (https://github.com/Isurie)
