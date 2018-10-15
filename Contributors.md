@@ -59,6 +59,7 @@
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
+- [Cody]
 - [Taruchit Goyal] (https://github.com/taruchit)
 - [Neo Cho] (https://github.com/neocho)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
