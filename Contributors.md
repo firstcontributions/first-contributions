@@ -156,6 +156,7 @@
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
+- [Erick Surya Dinata](https://github.com/proesd)
 - [Thamnongsin Supawattana](https://github.com/Nu2l)
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Nethmi Wijesinghe](https://github.com/Nethmi96)
