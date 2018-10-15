@@ -9,6 +9,7 @@
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Aaron Lebel] (https://github.com/alebml)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
+- [Hanas Abdullahi](https://github.com/Hanas1)
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
