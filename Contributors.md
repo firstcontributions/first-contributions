@@ -9,6 +9,7 @@
 - [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
+- [Christian F. Sousa] (https://github.com/Swifty-Sousa)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano] (https://github.com/vicase)
 - [Naman Goyal] (https://github.com/namangoyal172)
