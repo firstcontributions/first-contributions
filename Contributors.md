@@ -7,6 +7,7 @@
 - [ShubU](http://github.com/shubu)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Vast Peng](https://github.com/keatingsmith)
+- [Archit Singla](https://github.com/architsingla13)
 - [Shawn Flores](https://github.com/priultimus)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Dave Martinez](https://github.com/dave-martinez)
