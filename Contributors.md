@@ -139,6 +139,7 @@
 - [Kimbo](https://github.com/KimboTodd)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes](https://github.com/cchawkesd)
+- [Seth Fatzinger](https://github.com/sfatzinger)
 - [Raghav Gupta](https://github.com/raghav3003)
 - [Wayne Fan](https://github.com/wei8596)
 - [Ananth Shenoy](https://github.com/ananthshenoy)
