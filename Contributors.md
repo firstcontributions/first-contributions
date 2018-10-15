@@ -641,6 +641,7 @@
 - [senpai](https://github.com/windowstestuser)
 - [Will Bender](https://github.com/Ragnoroct)
 - [Byungjin Park](https://github.com/posquit0)
+- [Anand H](https://github.com/AnandHemachandran)
 - [Rory Mulcahey](https://github.com/rorymulcahey)
 - [palak bansal](https://github.com/bansal51197)
 - [Lewis Williams](https://github.com/lewis150193)
