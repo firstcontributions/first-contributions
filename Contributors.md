@@ -43,6 +43,7 @@
 - [Abhishek Duggal](https://github.com/likeabhi)
 - [Lucas Santos](https://github.com/khaosdoctor)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
+- [Mikolaj Piechocki](https://github.com/mpiechocki)
 - [Ludvigch](https://github.com/ludvigch)
 - [Isay Razilov](https://github.com/IsayRazilov)
 - [Vritika Singla](https://github.com/vritika1310)
