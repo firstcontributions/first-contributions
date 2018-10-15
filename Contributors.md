@@ -19,6 +19,7 @@
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
+- [Francesco Cartier](https://github.com/cartinez)
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Prachee Rajpura](https://github.com/PRajpura)
