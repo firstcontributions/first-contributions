@@ -3743,6 +3743,7 @@ Orandi Harris
 - [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
+- [Ivan Tran](https://github.com/ptran213)
 - [Hannarae Nam](https://github.com/hannaraenam)
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
