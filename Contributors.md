@@ -2,6 +2,7 @@
 
 - [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
+- [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano] (https://github.com/vicase)
