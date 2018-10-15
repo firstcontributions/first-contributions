@@ -2159,6 +2159,7 @@ Orandi Harris
 - [Victor Muigua](https://github.com/vamuigua)
   [Matt Moderwell](https://github.com/mmoderwell)
 - [Wolfgang S](https://github.com/WSchindler)
+- [Tomi Chen](https://github.com/tctree333)
 - [Gisel Calvo](https://github.com/giselcalvo)
 - [Stefan Generalao](https://github.com/stefangeneralao)
 - [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
