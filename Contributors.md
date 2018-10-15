@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+  [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
@@ -59,7 +60,7 @@
 - [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
-- [Gabriella Mara](https://github.com/gmarap)
+- [imbassi](https://github.com/gmarap)
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
