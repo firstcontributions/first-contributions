@@ -10,6 +10,7 @@
 - [Naman Goyal] (https://github.com/namangoyal172)
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Aaron Lebel] (https://github.com/alebml)
+- [Akobi joshua](https://github.com/jaeja)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
