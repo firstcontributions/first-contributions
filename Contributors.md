@@ -3419,6 +3419,7 @@ Orandi Harris
 - [Tramezzini](https://github.com/tramezzini)
 - [Abhishek Chakravarty](https://github.com/Abhishekchakru)
 - [Sumit Agarwal](https://github.com/sumiet)
+- [Samim Shakoori](https://github.com/samim-sh)
 - [John Johnson](https://github.com/JohnJohnsonIII)
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
