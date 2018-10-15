@@ -16,6 +16,7 @@
 - [Aaron Lebel] (https://github.com/alebml)
 - [Akobi joshua](https://github.com/jaeja)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
+- [Brittany Morris] (https://github.com/brittmmendez/)
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Anshu Kumar](https://github.com/Anshuvats)
