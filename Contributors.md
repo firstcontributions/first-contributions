@@ -15,6 +15,7 @@
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
+- [Zachary Bergeron](https://github.com/zbergus)
 - [Christian F. Sousa] (https://github.com/Swifty-Sousa)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano] (https://github.com/vicase)
