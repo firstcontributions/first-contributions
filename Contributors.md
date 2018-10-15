@@ -457,6 +457,7 @@
 - [capJavert](https://github.com/capJavert)
 - [lookovathere](https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
+- [Bill Wilson Yede Nka](https://github.com/BillYede)
 - [Yusuf Duyar](https://github.com/yusufduyar)
 - [Kaitlin](https://github.com/kaitlin31415)
 - [WilsonRocha](https://github.com/Sownatta)
