@@ -1,5 +1,6 @@
 # Contributors
 
+- [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Victor Castro Serrano] (https://github.com/vicase)
