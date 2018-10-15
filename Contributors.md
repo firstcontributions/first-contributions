@@ -3,6 +3,7 @@
 - [AnnChar](https://github.com/annchar)
 - [Nicholas Carnival] (httpw;//github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
+- [Lakshay Wadhwa](http://github.com/luck-u)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
