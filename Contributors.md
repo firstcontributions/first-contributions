@@ -649,6 +649,7 @@
 - [Courtney Arnold]
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Jon Robinson]
+- [R Scheiwe](https://github.com/rscheiwe)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
