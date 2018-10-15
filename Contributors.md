@@ -67,6 +67,7 @@
 - [Jk!ng](https://github.com/Jatin-Pawar)
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
+- [Skand V Gupta](https://github.com/skandagpt)
 - [Abilash Menon](https://github.com/abilash13)
 - [Ben Shew](https://github.com/ben9105)
 - [Hunter Wallace](https://github.com/Hjwallace)
