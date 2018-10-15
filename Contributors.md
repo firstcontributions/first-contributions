@@ -663,6 +663,7 @@
 - bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
+- [Eric Bryant] (https://github.com/shmickle/)
 - [Busta Codes](https://github.com/bustacodes)
 - [Jake](https://github.com/J-Gore)
 - [Tyler Stanley](https://github.com/tystanley)
