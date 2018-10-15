@@ -233,6 +233,7 @@
 - [Zachary Dixon](https://github.com/zachdixon)
 - [Caleb Jasik](https://github.com/jasikpark)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
+- [John Shortino] (https://github.com/bardleby)
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Zack_Shorts](https://github.com/zackshorts)
 - kalven22
