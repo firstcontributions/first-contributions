@@ -7919,3 +7919,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Michael Moser](http://github.com/moser96)
 - [Angga Dwi Arifandi](http://github.com/blackmenthor)
 - [Martina Šafarić](https://github.com/msafaric)
+- [Fredrika Holmberg](https://github.com/femtioelva)
+
