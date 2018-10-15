@@ -18,6 +18,7 @@
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Linh Ta](https://github.com/tangoclinh1995)
+- [Erdal TAŞKESEN](https://github.com/erdtsksn)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
