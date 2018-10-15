@@ -1756,6 +1756,7 @@
 - [Olena_Stoliarova](https://github.com/Olena23)
 - [DAndre Hogan](https;//github.com/Dhogan92)
 - [Brian Drake](https://github.com/bdrakester)
+- [Khumar Musayeva](https://github.com/peanutcoderr)
 - [Idan Madar](https://github.com/T882200)
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
