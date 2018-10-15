@@ -8,6 +8,7 @@
 - [Vast Peng](https://github.com/keatingsmith)
 - [Shawn Flores](https://github.com/priultimus)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
+- [Dave Martinez](https://github.com/dave-martinez)
 - [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
