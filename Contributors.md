@@ -7894,3 +7894,5 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Richard Huang](https://github.com/aeolyus)
 - [Thanawit Gerdprasert](https://github.com/carymono)
 - [Akash Nidhi P S](https://github.com/SkyTreasure)
+- [Jochen Kläger](https://github.com/jochen-klaeger)
+
