@@ -13,6 +13,8 @@ Makale okumak ve eğitim videoları yardımcı olabilir, fakat bir işi gerçekt
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
+*Komut sistemini kullanmayi tercih etmiyorsaniz burdan Github Desktop'u [ indirebilirsiniz ] (https://desktop.github.com/).*
+
 ## Projeyi "çatallandırma"
 
 Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
