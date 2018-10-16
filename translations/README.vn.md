@@ -6,7 +6,7 @@
 
 # Đóng góp đầu tiên
 
-Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
+Nó khó. Lần đầu tiên bạn làm điều gì đó thì thật khó khăn. Đặc biệt là khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
 
 Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
 
@@ -43,14 +43,14 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
 
-## Tạo một chi nhánh (branch)
+## Tạo một phân nhánh (branch)
 
 Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
 
 ```
 cd first-contributions
 ```
-Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
+Bây giờ tạo ra một phân nhánh sử dụng lệnh `git checkout`
 ```
 git checkout -b <them-ten-ban>
 ```
@@ -79,7 +79,7 @@ thay thế `<ten-ban>` với tên của bạn
 ```
 git push origin <them-ten-ban>
 ```
-Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó
+Thay thế `<them-ten-ban>` với tên của phân nhánh bạn tạo ra trước đó
 
 ## Gửi những thay đổi của bạn để được xem xét
 
@@ -93,11 +93,11 @@ Bây giờ gửi yêu cầu kéo.
 
 Bây giờ tôi sẽ kết hợp tất cả các thay đổi của bạn vào chi nhánh chủ (master branch) của dự án này. Bạn sẽ nhận được một email thông báo khi những thay đổi đã được sáp nhập.
 
-Chi nhánh chủ của fork của bạn sẽ không có những thay đổi. Để giữ cho khớp của bạn được đồng bộ với chi nhánh chủ của tôi, hãy làm theo các bước dưới đây.
+Chi nhánh chủ của fork của bạn sẽ không có những thay đổi. Để giữ cho khớp của bạn được đồng bộ với phân nhánh chủ của tôi, hãy làm theo các bước dưới đây.
 
 ## Giữ fork của bạn đồng bộ hóa với kho mã nguồn chủ
 
-Đầu tiên, chuyển sang chi nhánh chủ.
+Đầu tiên, chuyển sang phân nhánh chủ.
  ```
  git checkout master
  ```
@@ -111,15 +111,15 @@ Sau đó, thêm url repo của tôi như sau `upstream remote url`.
 git fetch upstream
 ```
 
-Ở đây chúng ta lấy tất cả những thay đổi trong fork của tôi (upstream remote). Bây giờ, bạn cần phải hợp nhất các phiên bản mới của kho mã nguồn của tôi vào chi nhánh chủ (master) của bạn.
+Ở đây chúng ta lấy tất cả những thay đổi trong fork của tôi (upstream remote). Bây giờ, bạn cần phải hợp nhất các phiên bản mới của kho mã nguồn của tôi vào phân nhánh chủ (master) của bạn.
 ```
 git rebase upstream/master
 ```
-Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
+Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào phân nhánh chủ (master). Nếu bạn đẩy phân nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
 ```
 git push origin master
 ```
-Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
+Chú ý rằng ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
 
 ## Hướng dẫn sử dụng các công cụ khác
 
