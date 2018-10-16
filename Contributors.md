@@ -7,6 +7,7 @@
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
+- [Sanduniisa](https://github.com/sanduniisa)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [AnnChar](https://github.com/annchar)
