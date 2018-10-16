@@ -4,6 +4,7 @@
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
+- [Warushika] (https://github.com/warushika)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
