@@ -8056,6 +8056,7 @@ Orandi Harris
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
+- [Nathecia Cunha](https://github.com/nathecia)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Bruno Silva](https://github.com/slauzinho)
 - [Matthew Williams] (https://github.com/orangegrove1955)
