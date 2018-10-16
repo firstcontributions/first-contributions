@@ -45,6 +45,7 @@
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
 - [Joy Iwendi](https://github.com/jiwendi)
+- [Ekansh Gupta] (https://github.com/Ekansh-01)
 - [Francesco Cartier](https://github.com/cartinez)
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
