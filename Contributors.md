@@ -7,6 +7,7 @@
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
+- [Shivam Singh] (https://github.com/shivamsingh03/first-contributions)
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
