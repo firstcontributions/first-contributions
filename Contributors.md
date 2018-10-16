@@ -7903,6 +7903,7 @@ Orandi Harris
 - [leizllynn](https://github.com/leizllynn)
 - [Nahid Muzammil](https://github.com/NahidRM)
 - [Raghu Kamat](https://github.com/GeniusStorm)
+- [LordBrud](https://github.com/LordBrud)
 - [MyLibh](https://github.com/MyLibh)
 - [Jessica](https://github.com/jmc617)
 - [Cleber Fonseca](https://github.com/clebersfonseca)
