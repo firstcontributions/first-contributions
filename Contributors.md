@@ -8,6 +8,7 @@
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [AnnChar](https://github.com/annchar)
+- [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
