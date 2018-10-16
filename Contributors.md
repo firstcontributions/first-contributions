@@ -7993,6 +7993,7 @@ Orandi Harris
 - [Cholinka13](https://github.com/cholinka13)
 - [Hearot](https://github.com/hearot)
 - [Kostas Evangelou](https://github.com/kostasev)
+- [Ryan S.](https://github.com/ryans331)
 - [Viktor Bakulin](https://github.com/Alanthel)
 - [Bhushan Khanale](https://github.com/bkhanale)
 - [Jordan Christie](https://github.com/jordanchristie)
