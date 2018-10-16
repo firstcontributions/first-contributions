@@ -8082,3 +8082,4 @@ Orandi Harris
 - [Lucas Costa Oliveira](https://github.com/bolacha)
 - [Nehemiah K](https://github.com/nehemiahK)
 - [Chris Harmoney](https://github.com/charmoney)
+- [Cooper Timmerman](https://github.com/coopdog95)
