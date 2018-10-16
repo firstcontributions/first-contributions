@@ -292,6 +292,7 @@
 - [Rosalinda Prom](https://github.com/developerpeachy)
 - [Karan Tandon](https://github.com/karan2dec)
 - [Lauren Reilly](https://github.com/LaurenReilly)
+- [Ankit Shaw](https://github.com/ankitshaw)
 - [Bryn Roughan](https://github.com/Broughh)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
