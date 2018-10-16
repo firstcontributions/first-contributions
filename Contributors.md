@@ -8017,6 +8017,7 @@ Orandi Harris
 - [Ryan S.](https://github.com/ryans331)
 - [Viktor Bakulin](https://github.com/Alanthel)
 - [Bhushan Khanale](https://github.com/bkhanale)
+- [Vargan Christian Donne](https://github.com/Hansum)
 - [Jordan Christie](https://github.com/jordanchristie)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Krishnanunni R](https://github.com/krishnanunnir)
