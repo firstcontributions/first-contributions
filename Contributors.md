@@ -8,6 +8,7 @@
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Warushika](https://github.com/warushika)
+- [Sumanyu Rosha](https://github.com/sumanyurosha)
 - Malipeddi Jitesh
 - Shani Rub
 - [imbassi][https://github.com/imbassi]

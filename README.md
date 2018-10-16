@@ -98,6 +98,8 @@ Now create a branch using the `git checkout` command:
 git checkout -b <add-your-new-branch-name>
 ```
 
+10 Rs ki Pepsi, Rosha is so Seksy!
+
 For example:
 ```
 git checkout -b add-alonzo-church
