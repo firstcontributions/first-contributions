@@ -65,6 +65,7 @@
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [imbassi](https://github.com/gmarap)
+- [Fellipe Medeiros] (https://github.com/FellipeMedeirosSilva)
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
