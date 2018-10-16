@@ -2,6 +2,7 @@
 
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Yash Goyal](https://github.com/ygyash)
+- [Abylay Murzashev](https://github.com/amurzashev)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
