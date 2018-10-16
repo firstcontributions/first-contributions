@@ -8047,3 +8047,4 @@ Orandi Harris
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
+- [Nathecia Cunha](https://github.com/nathecia)
