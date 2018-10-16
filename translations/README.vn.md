@@ -1,3 +1,4 @@
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -11,8 +12,6 @@ Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đ�
 Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-*Đọc bản hướng dẵn này bằng các ngôn ngữ khác: [Tiếng Tây Ban Nha](README.es.md), [Tiếng Hà Lan](README.nl.md), [Tiếng Hindi](README.hi.md), [Tiếng Nga](README.ru.md), [Tiếng Nhật](README.ja.md), [Tiếng Anh](../README.md), [Tiếng Ba Lan](README.pl.md), [Tiếng Hàn Quốc](README.ko.md), [Tiếng Đức](README.de.md), [Tiếng Trung giản thể](README.chs.md), [Tiếng Trung truyền thống](README.cht.md), [Tiếng Hy Lạp](README.gr.md).*
 
 Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](../gitkraken-tutorial.md).
 
