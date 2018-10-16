@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [shivanshu1086](https://github.com/shivanshu1086)
@@ -39,6 +39,7 @@
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
+- [Lohit Peesapati](https://github.com/l0h1t)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
@@ -8077,3 +8078,5 @@ Orandi Harris
 - [Edwin](https://github.com/nin-ed)
 - [Lucas Costa Oliveira](https://github.com/bolacha)
 - [Nehemiah K](https://github.com/nehemiahK)
+
+
