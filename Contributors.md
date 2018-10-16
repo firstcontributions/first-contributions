@@ -8029,6 +8029,7 @@ Orandi Harris
 - [Rafael Gerônimo](https://github.com/rafaelgeronimo)
 - [Arun Babu Subramaniam](https://github.com/arunbabusubramaniam)
 - [Andrew Wijaya](https://github.com/andrewdudu)
+- [Karthik Satyanarayana](https://github.com/karmon1681/)
 - [Alexander Galdones](https://github.com/alexandergaldones)
 - [Roberto Kedmenec](https://github.com/kedmenecr)
 - [Hậu Chử](https://github.com/hauchu1196)
