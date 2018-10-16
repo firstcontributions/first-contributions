@@ -93,6 +93,7 @@
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Cody]()
 - [Somesh rf](https://github.com/someshrf)
+- [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Taruchit Goyal](https://github.com/taruchit)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
