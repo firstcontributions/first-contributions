@@ -81,6 +81,7 @@
 - [Somesh rf](https://github.com/someshrf)
 - [Taruchit Goyal](https://github.com/taruchit)
 - [Neo Cho](https://github.com/neocho)
+- [MajhiRockzZ](https://github.com/MajhiRockzZ)
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Bharath Shendre](https://github.com/shendrekbharath)
 - [Derpyhsi](https://github.com/Derpyhsi)
