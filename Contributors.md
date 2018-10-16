@@ -8012,3 +8012,4 @@ Orandi Harris
 - [Alexander Galdones](https://github.com/alexandergaldones)
 - [Roberto Kedmenec](https://github.com/kedmenecr)
 - [Hậu Chử](https://github.com/hauchu1196)
+- [Javier Barrera](https://github.com/javierb727/first-contributions.git)
