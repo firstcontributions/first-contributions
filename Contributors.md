@@ -44,6 +44,7 @@
 - [Anubhab Sen](https://github.com/anubhabsen)
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Oluwakorede Fashokun](https://github.com/korede360)
 - [Anshu Kumar](https://github.com/Anshuvats)
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
