@@ -8044,3 +8044,4 @@ Orandi Harris
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
+- [Emanuel Silva](https://github.com/Jataki)
