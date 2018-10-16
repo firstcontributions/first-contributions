@@ -8025,6 +8025,7 @@ Orandi Harris
 - [Filippo Finke](https://github.com/filippofinke)
 - [Satkar Dhakal](https://github.com/satcar77)
 - [Kevin Simkanič](https://github.com/kevinko12323)
+- [Viet Thanh](https://github.com/shivaluma)
 - [tehmantra](https://github.com/tehmantra)
 - [Abhinav Kaushlya](https://github.com/abhishalya)
 - [Michael Moser](http://github.com/moser96)
