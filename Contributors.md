@@ -219,6 +219,7 @@
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Sahaj Kulshrestha](https://github.com/Sahaj21)
+Akshay Krishna Upendran
 Dhanish Ashraf
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Jon Robinson]
@@ -6971,3 +6972,4 @@ Kashish Khullar - :P
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
 - [Mikael Eriksson](https://github.com/mmikaeleriksson)
+- [Akshay Krishna Upendran](https://github.com/mmikaeleriksson)
