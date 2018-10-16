@@ -95,6 +95,7 @@
 - [Lucas Santos](https://github.com/khaosdoctor)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
 - [Mikolaj Piechocki](https://github.com/mpiechocki)
+- [kashish singh](https://github.com/kashplay)
 - [Ludvigch](https://github.com/ludvigch)
 - [Isay Razilov](https://github.com/IsayRazilov)
 - [Valentina Calabrese](https://github.com/vale-c)
