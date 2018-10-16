@@ -86,6 +86,7 @@
 - [Jathniel Argueza](https://github.com/jathniel)
 - [Dinesh Raj] (https://github.com/dineshraj01)
 - [Daniel Guerreiro](https://github.com/danielvperes)
+- [Ross Macey](https://github.com/rossmacey)
 - [Isurie] (https://github.com/Isurie)
 - [Anestis Foulidis] (https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
