@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [TechnicSparks](https://github.com/TechnicSparks)
+- [Yash Goyal](https://github.com/ygyash)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
