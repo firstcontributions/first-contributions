@@ -861,6 +861,7 @@
 - Pankaj Khemani
 - [Abay](https://github.com/abaykan)
 - [c-kirkeby](https://github.com/c-kirkeby)
+- [Jonathan Brooks](https://github.com/blauks)
 - Andrea Catania
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Rehan jananga](https://github.com/rehanj)
