@@ -26,6 +26,7 @@
 - [Tim Griffith](https://github.com/grifmang)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Malik Mahmud](https://github.com/MlkMahmud)
+- [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
