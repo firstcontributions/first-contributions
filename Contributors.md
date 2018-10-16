@@ -78,6 +78,7 @@
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Cody]()
 - [Taruchit Goyal](https://github.com/taruchit)
+- [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Bharath Shendre](https://github.com/shendrekbharath)
