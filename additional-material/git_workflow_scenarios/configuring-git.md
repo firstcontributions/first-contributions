@@ -38,7 +38,7 @@ $ git config --global user.name "Your Name"
 
 As the name says, these configurations are scoped to your current repository. If you want to commit to a particular repository, say, a work related project, with your company's email, then you could use this method.
 
-To store something in the repository config, you use the `config` command  by emitting the `--global` flag as follows:
+To store something in the repository config, you use the `config` command  by omitting the `--global` flag as follows:
 
 `$ git config <variable name> <value>`
 
@@ -51,7 +51,7 @@ $ git config user.name "Your Name"
 
 ### Command-line Config
 
-These type of configurations are scoped to the current command only. All git commands take `-c` arguments before the action verb to set temporary configuration data.
+These type of configurations are scoped to the current command only. All git commands take `-c` arguments before the action verb will set the following configuration data temporarily.
 
 To store something in the command line config, run your command as follows:
 
