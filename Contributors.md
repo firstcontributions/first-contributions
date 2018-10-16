@@ -134,6 +134,7 @@
 - [Cameron Brill](https://github.com/gaiscioch)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
 - [Aziz Alsaffar](https://github.com/octowl)
+- [Miftahul Muhaemen](https://github.com/miftahulmuhaemen)
 - [Saurabh Biyani](https://github.com/saurabh119)
 - [Jennifer Norby](https://github.com/jgnorby)
   [Patrick Bate](https://github.com/pbateman828)
