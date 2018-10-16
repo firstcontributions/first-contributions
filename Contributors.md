@@ -72,6 +72,7 @@
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Mohsen Yazdani](https://github.com/imyazdani)
+- [gcstang](https://github.com/gcstang)
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
