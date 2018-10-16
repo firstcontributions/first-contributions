@@ -2806,6 +2806,7 @@ Orandi Harris
 - [Digaant Arora](https://github.com/digaant333)
 - [Kenneth Bruce](https://github.com/kpengwin)
 - [brunneis](https://github.com/brunneis)
+- [Samer Uy](https://github.com/S4M3R)
 - [Lubits](https://github.com/lubits)
 - [Jeremy Brun](https://github.com/jeremytbrun)
 - [Allan Guy](https://github.com/alguy)
