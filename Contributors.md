@@ -8006,3 +8006,4 @@ Orandi Harris
 - [Arun Babu Subramaniam](https://github.com/arunbabusubramaniam)
 - [Andrew Wijaya](https://github.com/andrewdudu)
 - [Alexander Galdones](https://github.com/alexandergaldones)
+- [Roberto Kedmenec](https://github.com/kedmenecr)
