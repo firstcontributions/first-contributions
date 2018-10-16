@@ -5,6 +5,7 @@
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Jalaj Gupta](https://github.com/thevip799)
+- [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Warushika](https://github.com/warushika)
