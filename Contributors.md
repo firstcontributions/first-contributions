@@ -4,7 +4,7 @@
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
-- [Warushika] (https://github.com/warushika)
+- [Warushika](https://github.com/warushika)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
@@ -748,6 +748,7 @@
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - [Jon Robinson]
 - [R Scheiwe](https://github.com/rscheiwe)
+- [digitaldina](https://github.com/dinaelhanan)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
