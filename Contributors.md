@@ -5998,6 +5998,7 @@ Orandi Harris
 - [Zoe Katz](https://github.com/zoenkatz)
 - [Uriel from Mexico](https://github.com/urielmx/)
 - [Loek Janssen](https://github.com/ljspeltdutch)
+- [jos3p](https://github.com/jos3p)
 - [Jeff Garcia](https://github.com/jgarciabu)
 - [Connor C](https://github.com/TheConnorC)
 - [Bryan Mierdel](https://github.com/bmierdel)
