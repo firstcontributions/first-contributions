@@ -678,6 +678,8 @@
 - [Jason Klinger](https://github.com/jaybob007)
 - [ Ken Austria](https://github.com/KenAustria)
 - [Saswat Kar](https://github.com/skksanchez)
+- [Abhinav Mangla](https://github.com/abhinavmangla)
+
 - [Greet Van der Linden](https://github.com/GreetVdL)
 - [Saswat Kar](https://github.com/skksanchez)
 - [Zach Blake](https://github.com/heyztb)
