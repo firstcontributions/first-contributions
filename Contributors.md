@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Yash Goyal](https://github.com/ygyash)
@@ -8036,3 +8036,4 @@ Orandi Harris
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
+- [Josefin](https://github.com/josefin4)
