@@ -992,7 +992,7 @@
 - [Michael W Anderson](https://github.com/michanders)
 - [BeAsYit](https://github.com/BeAsYit)
 - [Shivangi](https://github.com/shivangibithel)
-- [Shivang Saxena](https://github.com/shivang_saxena)
+- [Shivang Saxena](https://github.com/shivang-saxena)
 - [SINGAM MOHIT REDDY](https://github.com/foxpixel)
 - [Motebang Mokwatsi](https://github.com/MokwatsiM)
 - [Akshay Subramanian](https://github.com/aksub99)
