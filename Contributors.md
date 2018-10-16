@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [TechnicSparks](https://github.com/TechnicSparks)
+- [Jalaj Gupta](https://github.com/thevip799)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [imbassi][https://github.com/imbassi]
