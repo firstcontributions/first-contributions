@@ -254,6 +254,7 @@
 - [Michael Knight](https://github.com/Mknight492)
 - [Brody Underwood](https://github.com/BrodyUnderwood1)
 - [Karuna Sehgal](https://github.com/karuna24s)
+- Daredevil Geek
 - [Shaan]
 - [Rosalinda Prom](https://github.com/developerpeachy)
 - [Karan Tandon](https://github.com/karan2dec)
