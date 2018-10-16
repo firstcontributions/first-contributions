@@ -1,0 +1,98 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define MOD 1000000000
+typedef long long ll;
+ll k;
+vector<ll> b;
+vector<ll> c;
+
+vector<vector<ll> > mul(vector<vector<ll> >A,vector<vector<ll> >B)  //multiplying two matrices
+{
+    vector<vector<ll> >C(k,vector<ll>(k));
+    for(int i=0;i<k;i++)
+    {
+        for(int j=0;j<k;j++)
+        {
+            for(int x=0;x<k;x++)
+            {
+                C[i][j]+=(A[i][x]%MOD*B[x][j]%MOD)%MOD;
+                C[i][j]=C[i][j]%MOD;
+            }
+        }
+    }
+    return C;
+}
+
+vector<vector<ll> > power(vector<vector<ll> >A,int p)       //fast exponentiation 
+{
+    if(p==1)    return A;
+    vector<vector<ll> >X=power(A,p/2);
+    X=mul(X,X);
+    if(p%2==1)  return mul(A,X);
+    else        return X;
+}
+
+ll seq(ll n)
+{
+    if(n==0)    return 0;
+    if(n<=k)    return b[n-1];
+    
+    vector<vector<ll> >T(k,vector<ll>(k));  //transformation matrix
+    for(int i=0;i<k;i++)
+    {
+        for(int j=0;j<k;j++)
+        {
+            if(i==k-1)
+            {
+                T[i][j]=c[k-j-1];
+            }
+            else
+            {
+                if(j==i+1)  T[i][j]=1;
+                else        T[i][j]=0;                            
+            }
+        }
+    }
+
+    /*for(int i=0;i<k;i++)
+    {
+        for(int j=0;j<k;j++)
+        {
+            cout<<T[i][j]<<" ";
+        }
+        cout<<endl;
+    }*/
+    T=power(T,n-1);
+
+    ll res=0;
+    for(int i=0;i<k;i++)
+    {
+        res+=(T[0][i]*b[i])%MOD;
+    }
+    return  res%MOD;
+}
+
+int main() 
+{
+    int test; cin>>test;
+    while(test--)
+    {
+        cin>>k;
+        for(int i=0;i<k;i++)
+        {
+            int test;   cin>>test;
+            b.push_back(test);
+        }   
+        for(int i=0;i<k;i++)
+        {
+            int test;   cin>>test;
+            c.push_back(test);
+        }
+        ll n;
+        cin>>n;
+        cout<<seq(n)<<"\n";
+        b.clear();
+        c.clear();
+    }
+    return 0;
+}
