@@ -298,6 +298,7 @@
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Collins M Mbulakyalo](https://github.com/Musacoli)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
+- [Theodosis Paidakis](https://github.com/theopaid)
 - [Raj Rani](https://github.com/ARsquare)
 - [Jamie Townsend](https://github.com/diginari)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
