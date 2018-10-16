@@ -8086,3 +8086,4 @@ Orandi Harris
 - [Nehemiah K](https://github.com/nehemiahK)
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
+- [Jorge](https://github.com/ferreiro)
