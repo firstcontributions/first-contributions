@@ -111,6 +111,7 @@
 - [Saurabh Daware](https://github.com/saurabhdaware)
 - [Kiran Gangta](https://github.com/kiran1019)
 - [Vanessa Singh](https://github.com/VanessaSingh)
+- [jack hu](https://github.com/jackhub)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [sara_in_codeland](https://github.com/sangerftw)
 - [Roopam Sharma](https://github.com/RoopamSharma)
