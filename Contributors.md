@@ -14,6 +14,7 @@
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
 - [Shawn Flores](https://github.com/priultimus)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
+- [Tim Griffith](https://github.com/grifmang)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Malik Mahmud] (https://github.com/MlkMahmud)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
