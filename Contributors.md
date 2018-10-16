@@ -104,6 +104,7 @@
 - [Mikolaj Piechocki](https://github.com/mpiechocki)
 - [Ludvigch](https://github.com/ludvigch)
 - [Isay Razilov](https://github.com/IsayRazilov)
+- [Leonardo Cavazzani](https://github.com/lCavazzani)
 - [Valentina Calabrese](https://github.com/vale-c)
 - [Vritika Singla](https://github.com/vritika1310)
 - [Jk!ng](https://github.com/Jatin-Pawar)
@@ -8048,3 +8049,4 @@ Orandi Harris
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
+- [Maciej Mazurek](https://github.com/mazurek-maciej)
