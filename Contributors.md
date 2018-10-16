@@ -116,6 +116,7 @@
 - [Russell Smitheram](https://github.com/smivs)
 - [Garima Yadav](https://github.com/gary115)
 - [Laura Pinto](https://github.com/lauraalpinto)
+- [Isuru Nanayakkara](https://github.com/IsuruNana)
 - [Skand V Gupta](https://github.com/skandagpt)
 - [Abilash Menon](https://github.com/abilash13)
 - [Ben Shew](https://github.com/ben9105)
