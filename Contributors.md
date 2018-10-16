@@ -8019,3 +8019,4 @@ Orandi Harris
 - [Roberto Kedmenec](https://github.com/kedmenecr)
 - [Hậu Chử](https://github.com/hauchu1196)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
+- [Dumika Jayarathna](https://github.com/Dumika)
