@@ -49,6 +49,7 @@
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
+- [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
 - [Erdal TAŞKESEN](https://github.com/erdtsksn)
 - [Leon ROUX](https://github.com/Nurrl)
