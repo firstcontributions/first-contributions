@@ -70,6 +70,7 @@
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Cody]
 - [Taruchit Goyal] (https://github.com/taruchit)
+- [Derpyhsi] (https://github.com/Derpyhsi)
 - [Neo Cho] (https://github.com/neocho)
 - [Ruchi Singh] (https://github.com/Ruchi-nitd)
 - [Bharath Shendre] (https://github.com/shendrekbharath)
