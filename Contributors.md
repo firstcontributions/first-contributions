@@ -8008,3 +8008,4 @@ Orandi Harris
 - [Andrew Wijaya](https://github.com/andrewdudu)
 - [Alexander Galdones](https://github.com/alexandergaldones)
 - [Roberto Kedmenec](https://github.com/kedmenecr)
+- [Hậu Chử](https://github.com/hauchu1196)
