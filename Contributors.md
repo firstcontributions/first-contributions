@@ -7908,6 +7908,7 @@ Orandi Harris
 - [leizllynn](https://github.com/leizllynn)
 - [Nahid Muzammil](https://github.com/NahidRM)
 - [Raghu Kamat](https://github.com/GeniusStorm)
+- [LordBrud](https://github.com/LordBrud)
 - [MyLibh](https://github.com/MyLibh)
 - [Jessica](https://github.com/jmc617)
 - [Cleber Fonseca](https://github.com/clebersfonseca)
@@ -8022,3 +8023,4 @@ Orandi Harris
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [krishana kumar](https://github.com/krishana18kumar)
+- [Ahad Ali](https://github.com/ahad80)
