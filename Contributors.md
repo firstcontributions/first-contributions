@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Alex WU v2](https://github.com/AlexWUrobot)
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Adwan Alshammari](https://github.com/adwanAK)
