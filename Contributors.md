@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
@@ -7,6 +7,7 @@
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Warushika](https://github.com/warushika)
+- [Ajay Rajnikanth](https://github.com/Raikan10)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
