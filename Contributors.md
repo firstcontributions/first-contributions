@@ -107,6 +107,7 @@
 - [MajhiRockzZ](https://github.com/MajhiRockzZ)
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Bharath Shendre](https://github.com/shendrekbharath)
+- [Foxar](https://github.com/Foxar)
 - [Derpyhsi](https://github.com/Derpyhsi)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
