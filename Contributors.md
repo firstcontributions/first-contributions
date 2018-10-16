@@ -8077,3 +8077,4 @@ Orandi Harris
 - [Edwin](https://github.com/nin-ed)
 - [Lucas Costa Oliveira](https://github.com/bolacha)
 - [Nehemiah K](https://github.com/nehemiahK)
+- [Chris Harmoney](https://github.com/charmoney)
