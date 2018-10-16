@@ -8075,3 +8075,5 @@ Orandi Harris
 - [Karamel Hoàngg](http://github.com/Karamel2002)
 - [Edwin](https://github.com/nin-ed)
 - [Lucas Costa Oliveira](https://github.com/bolacha)
+- [Akshay Khatter](https://github.com/akshaykhatter)
+
