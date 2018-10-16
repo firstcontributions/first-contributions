@@ -138,6 +138,7 @@
 - [Sanket Bhat](https://github.com/SanketBhat)
 - [Andres Macias](https://github.com/webDevAndres)
 - [dantemustdie](https://github.com/PulkitKhagta)
+- [Maureen Haley](https://github.com/haleyma)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
 - [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora] (https://github.com/hotshot07)
