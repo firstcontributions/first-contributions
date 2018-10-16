@@ -27,6 +27,7 @@
 - [Luis Palomino Trevilla] (https://github.com/LuisPalominoTrevilla)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Joy Iwendi](https://github.com/jiwendi)
+- [Ekansh Gupta](https://github.com/Ekansh-01)
 - [Francesco Cartier](https://github.com/cartinez)
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
