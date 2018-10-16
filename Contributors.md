@@ -3015,6 +3015,7 @@ Orandi Harris
 - [Alex Hsu](https://github.com/Juchuhsu)
 - [avcoder](https://github.com/avcoder)
 - [Chris Bridges](https://github.com/chrisbridges)
+- [Janice Keita](https://github.com/Gotaskaen)
 - [Gowtham R](https://github.com/gowtham1997)
 - [U?ur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
@@ -7813,5 +7814,3 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Anh N. Nguyen](https://github.com/leptepkt)
 - [Mitch Greene](https://github.com/gitGreene)
 - [Willy Chen](https://github.com/WillyChen123)
-
-- [Janice Keita](https://github.com/Gotaskaen)
