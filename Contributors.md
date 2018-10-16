@@ -81,6 +81,7 @@
 - [Cody]()
 - [Somesh rf](https://github.com/someshrf)
 - [Taruchit Goyal](https://github.com/taruchit)
+- [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
 - [MajhiRockzZ](https://github.com/MajhiRockzZ)
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
