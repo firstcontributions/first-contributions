@@ -8081,6 +8081,7 @@ Orandi Harris
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
+- [Ngan Khanh](https://github.com/ngankhanh98)
 - [Bruno Silva](https://github.com/slauzinho)
 - [Matthew Williams] (https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
