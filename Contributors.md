@@ -3209,6 +3209,7 @@ Orandi Harris
 - [Mohamed Gomaa](https://github.com/mrgomaa)
 - [James Lave](https://github.com/jameslave)
 - [Rovaron](https://github.com/Rovaron)
+- [KayrabCebll](https://github.com/kayrabCebll)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
