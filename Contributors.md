@@ -75,6 +75,7 @@
 - [Marco Boncoraglio] (https://github.com/marcoboncoraglio)
 - [Lam Lieu](https://github.com/LamLieu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
+- [Jon Jee](https://github.com/jonjee/)
 - [Brittany Morris](https://github.com/brittmmendez/)
 - [Juliette Tworsey](https://github.com/firebuggirl/)
 - [Anubhab Sen](https://github.com/anubhabsen)
