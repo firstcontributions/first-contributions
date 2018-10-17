@@ -19,6 +19,7 @@
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Warushika](https://github.com/warushika)
+- [Devinda Ravisara](https://github.com/devinda98)
 - Malipeddi Jitesh
 - Shani Rub
 - [Nishant Mittal](https://github.com/nishantmittal59)
