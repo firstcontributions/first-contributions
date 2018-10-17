@@ -2444,6 +2444,7 @@ Orandi Harris
 - [Santhosh](https://github.com/sanreddevils)
 - [Prakhar tripathi](https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
+- [Alvin Yang](https://github.com/vindow)
 - [Sota Yamashita](https://github.com/sotayamashita)
 - [Nishant Ranjan](https://github.com/darkfist)
 - [Fakiolas Marios](https://github.com/fakiolinho)
