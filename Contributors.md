@@ -2936,6 +2936,7 @@ Orandi Harris
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Krati Mittal](https://github.com/krati13)
 - [Marianne Hval](https://github.com/mahval)
+- [Krati Mittal](https://github.com/krati13)
 - [ekrempel](https://github.com/ekrempel)
 - [NWhitby](https://github.com/NWhitby)
 - [Martin Mehl](https://github.com/mehlleniumfalke)
