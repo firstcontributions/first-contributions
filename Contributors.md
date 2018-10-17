@@ -874,6 +874,7 @@
 - [Pulkit Gupta](https://github.com/Pulkitg64)
 - [Dominic](https://github.com/doms)
 - [Tanner Crook](https://github.com/tannercrook)
+- [Joshua Pierre](https://github.com/JoshPad75)
 - [Brad Cutten](https://github.com/bcutten)
 - [Brayden Chumbley](https://github.com/BraydenChumbley)
 - [Anna Scott](https://github.com/forfireonly)
