@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Carlos Carvalho](http://github.com/chcdc)
@@ -1106,6 +1106,7 @@
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
 - [Jonn Louie Lim](https://github.com/Nojj02)
 - [Bhathiya Anuradha](https://github.com/bhathiya-anuradha)
+- [Himashmy Benaragama](https://github.com/HimaBen)
 - [Zona Gilreath](https://github.com/zonagilreath)
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
