@@ -8186,3 +8186,4 @@ Orandi Harris
 - [Prakhar Dubey] (https://github.com/prakhardb)
 - [MissSemicolon] (https://github.com/MissSemicolon)
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
+- [Tran Tat Huy](https://github.com/HrTran)
