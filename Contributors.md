@@ -165,6 +165,7 @@
 - [sara_in_codeland](https://github.com/sangerftw)
 - [Roopam Sharma](https://github.com/RoopamSharma)
 - [Pankaj Niroula](https://github.com/npankaj365)
+- [Amitabh Kumar](https://github.com/AmitabhPathak)
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Rakesh Pavan](https://github.com/Rakeshpavan333)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
@@ -8121,5 +8122,4 @@ Orandi Harris
 - [Chamikara Samarasekara] (https://github.com/chamikaras)
 - [Sandy](https://github.com/sandy1999/first-
 - [Hai](https://github.com/ngochai94)
-- EOF
 - [DargieDChouwy](https://github.com/DargieDChouwy)
