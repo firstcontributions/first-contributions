@@ -1,5 +1,5 @@
 # Contributors
-
+- [Brendan Surtees](https://github.com/brendan-js)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
