@@ -8094,6 +8094,7 @@ Orandi Harris
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Krishnanunni R](https://github.com/krishnanunnir)
 - [Phil Ramirez](https://github.com/7IHd)
+- [keRLos](https://github.com/kerlos)
 - [Tristan Payne](https://github.com/aka-tpayne)
 - [Igor Guastalla de Lima](https://github.com/guastallaigor)
 - [Madhuri Gubbala](https://github.com/madzzie)
