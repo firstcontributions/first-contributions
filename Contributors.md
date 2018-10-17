@@ -447,6 +447,7 @@
 - [Mahesh Tudu](https://github.com/mahis929)
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
+- [Emil Kollstrom](https://github.com/kollstrom)
 - [Sambhav Jain](https://github.com/sambhav1020)
 - [Walter Palagi](https://github.com/walterpalagi)
 - [Aditya Krishnan](https://github.com/aditya11997)
