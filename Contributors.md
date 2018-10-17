@@ -8164,3 +8164,4 @@ Orandi Harris
 - [Bharat Middha](https://github.com/bmiddha)
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Prakhar Dubey] (https://github.com/prakhardb)
+- [MissSemicolon] (https://github.com/MissSemicolon)
