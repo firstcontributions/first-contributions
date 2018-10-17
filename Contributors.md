@@ -189,6 +189,7 @@
 - [Joseph Antony](https://github.com/Joeavaikath)
 - [Jewel Jo Prince](https://github.com/jeweljoppan)
 - [Courtney Adams](https://github.com/cadams8238)
+- [NonoK32] (https://github.com/NonoK32)
 - [Joseph Chungath](https://github.com/crjoseph97)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Cameron Brill](https://github.com/gaiscioch)
