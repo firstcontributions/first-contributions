@@ -448,6 +448,7 @@
 - [Daniel Smith](https://github.com/techydan)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
+- [Joseph Harskamp](https://github.com/jeh26033)
 - [Daniel Menachem](https://github.com/doom3007)
 - [jhartkopf](https://github.com/jhartkopf)
 - [Brennen Green](https://github.com/brennengreen)
