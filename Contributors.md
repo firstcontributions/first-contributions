@@ -15,6 +15,7 @@
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Dennis Wanne](https://github.com/Denni2)
 - [Jalaj Gupta](https://github.com/thevip799)
+- [Erica Cope](https://github.com/ericacope)
 - [UnsweetT](https://github.com/unsweett)
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
