@@ -4,7 +4,6 @@
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
-- [Arman Gupta](https://github.com/Arman1611)
 - [Chiu](https://github.com/achiuBAE)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
@@ -8168,3 +8167,5 @@ Orandi Harris
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Prakhar Dubey] (https://github.com/prakhardb)
 - [MissSemicolon] (https://github.com/MissSemicolon)
+- [Wsupatgiat] (https://github.com/Wsupatgiat)
+
