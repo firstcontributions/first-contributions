@@ -30,9 +30,9 @@ Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nú
 Mở một bộ xử lý terminal và chạy lệnh git sau đây:
 
 ```
-git clone "url bạn vừa sao chép"
+git clone "url vừa sao chép"
 ```
-Trong đó "url bạn vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
+Trong đó "url vừa sao chép" (không có dấu ngoặc kép) là url dẫn vào kho mã nguồn này. Xem các bước trước đó để có được url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
