@@ -9,7 +9,6 @@
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
-- [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Dennis Wanne](https://github.com/Denni2)
 - [Jalaj Gupta](https://github.com/thevip799)
@@ -23,6 +22,7 @@
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
+- Michael P
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
