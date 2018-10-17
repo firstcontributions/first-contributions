@@ -3544,6 +3544,7 @@ Orandi Harris
 - [Beso94](https://github.com/beso94)
 - [Miguel Lentisco](https://github.com/alfaomegax)
 - [AmirAli Mohammadzadeh](https://github.com/AmirAliM)
+- [Tharindu Sooriyaarachchi](https://github.com/TharinduDilshan)
 - [Tharindu Dilshan](https://github.com/TharinduDilshan)
 - [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi)
 - [Zsolt Takacs](https://github.com/ignotus87)
