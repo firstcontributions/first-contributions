@@ -452,6 +452,7 @@
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
+- [Tom Merrifield](https://github.com/tpmerrifield)
 - [mnemosdev](https://github.com/mnemosdev)
 - Evan Rives
 - maskedCat
