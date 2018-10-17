@@ -1,5 +1,5 @@
 # Contributors
-- [Elton Jefferson](https://github.com/eltonjncorreia)
+
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
@@ -1186,6 +1186,7 @@ Kashish Khullar - :P
 - [Attila Greguss](https://github.com/Floyd0122)
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Hall Bregg](https://github.com/HallBregg)
+- [Elton Jefferson](https://github.com/eltonjncorreia)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Kris Witalewski](https://github.com/witalewski)
 - [Joe Ganobsik](https://github.com/jganobsik)
