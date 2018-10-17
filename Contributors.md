@@ -22,6 +22,7 @@
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
+- [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
