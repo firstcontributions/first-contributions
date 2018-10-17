@@ -364,6 +364,7 @@
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Theodosis Paidakis](https://github.com/theopaid)
 - [Raj Rani](https://github.com/ARsquare)
+- [Gue Codes](https://github.com/gue-codes)
 - [Jamie Townsend](https://github.com/diginari)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Mustapha Babajide Adubiagbe](https://github.com/jidemusty)
