@@ -26,6 +26,7 @@
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
+- Vasu Singhal
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
