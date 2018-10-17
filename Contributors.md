@@ -260,6 +260,7 @@
 - [Mikella Green](https://github.com/mikellagreen)
 - [Minkush Jain](https://github.com/minkushjain)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
+- [Rishi](https://github.com/kookient)
 - [Helena Klein]()
 - [David Murdock](https://github.com/Texas86)
 - [Manwai Nguyen](https://github.com/krazyman)
