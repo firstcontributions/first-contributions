@@ -8041,6 +8041,7 @@ Orandi Harris
 - [Elena_Sergeeva](https://github.com/Sergeeva)
 - [Rahul Makhija](https://github.com/rahuls360)
 - [Paulo Alexandre Mello](https://github.com/palexandremello/)
+- [Rochelle Ilustre](https://github.com/rochelleilustre)
 - [Mahmood Hussain](https://github.com/Mahmood-Hussain/)
 - [Hiep Nguyen](https://github.com/hiepndd/)
 - [Sreesaran Raghu](https://github.com/r-sreesaran/)
