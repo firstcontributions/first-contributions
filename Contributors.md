@@ -11,6 +11,7 @@
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
+- [Anu Kumari Gupta](https://github.com/khusi-anu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
