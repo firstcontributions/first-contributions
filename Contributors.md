@@ -59,6 +59,7 @@
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Tim Griffith](https://github.com/grifmang)
 - [Dave Martinez](https://github.com/dave-martinez)
+- [Priyal Narang](https://github.com/PriyalNarang)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
