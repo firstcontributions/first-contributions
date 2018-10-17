@@ -27,6 +27,7 @@
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
 - Shani Rub
+- Nate C
 - wrecKING Tsukinoryoshu
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
