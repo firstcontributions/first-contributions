@@ -128,6 +128,7 @@
 - [Foxar](https://github.com/Foxar)
 - [Derpyhsi](https://github.com/Derpyhsi)
 - [Johan van Tongeren](https://github.com/D3D0X)
+- [Robert Kosak](https://github.com/rkosak237)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
