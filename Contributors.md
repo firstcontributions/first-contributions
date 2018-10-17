@@ -8095,3 +8095,4 @@ Orandi Harris
 - [Jacinto Ramirez] (https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken] (https://github.com/sinuoustalker)
+- [Marcelo Mogueira] (https://www.github.com/locemarn)
