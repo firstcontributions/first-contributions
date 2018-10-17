@@ -8157,3 +8157,4 @@ Orandi Harris
 - [Vadim Pashaev](https://github.com/vmp)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
+- [Bharat Middha](https://github.com/bmiddha)
