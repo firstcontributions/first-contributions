@@ -142,6 +142,7 @@
 - [Vritika Singla](https://github.com/vritika1310)
 - [Jk!ng](https://github.com/Jatin-Pawar)
 - [Russell Smitheram](https://github.com/smivs)
+- [Philip Hofmann](https://github.com/Phhofm)
 - [Garima Yadav](https://github.com/gary115)
 - [Laura Pinto](https://github.com/lauraalpinto)
 - [Isuru Nanayakkara](https://github.com/IsuruNana)
@@ -152,7 +153,7 @@
 - [Hunter Wallace](https://github.com/Hjwallace)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [jack hu](https://github.com/jackhub)
-- [vibhasi
+- vibhasi
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
