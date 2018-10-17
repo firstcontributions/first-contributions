@@ -235,6 +235,7 @@
 - [Seth Fatzinger](https://github.com/sfatzinger)
 - [Raghav Gupta](https://github.com/raghav3003)
 - [Wayne Fan](https://github.com/wei8596)
+- [Nicolas Reigl](https://github.com/nreigl)
 - [Ananth Shenoy](https://github.com/ananthshenoy)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Griffin1110](https://github.com/Griffin1110)
