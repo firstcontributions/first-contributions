@@ -24,6 +24,7 @@
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
+- Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
 - Shani Rub
 - Vasu Singhal
@@ -40,6 +41,7 @@
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Ashu](https://github.com/ashu1999)
 - [Erick Martinez](https://github.com/ErickMtz)
+- [Shashwat Garg](https://github.com/Shashwat-Garg)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [YamitSi](https://github.com/yamitsi)
@@ -8185,3 +8187,5 @@ Orandi Harris
 - [Prakhar Dubey] (https://github.com/prakhardb)
 - [MissSemicolon] (https://github.com/MissSemicolon)
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
+- [Tran Tat Huy](https://github.com/HrTran)
+- [Jakub Goleń](https://github.com/SINEdowskY)
