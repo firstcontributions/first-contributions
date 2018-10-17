@@ -73,6 +73,7 @@
 - [Victor Castro Serrano](https://github.com/vicase)
 - [Amy Lei](https://github.com/AmyLei96)
 - [Naman Goyal](https://github.com/namangoyal172)
+- [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Aaron Lebel](https://github.com/alebml)
 - [Akobi joshua](https://github.com/jaeja)
