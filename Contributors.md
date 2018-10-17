@@ -8101,4 +8101,5 @@ Orandi Harris
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken] (https://github.com/sinuoustalker)
 - [Izon Thomaz Mielke] (https://github.com/izontm)
+- [Chamikara Samarasekara] (https://github.com/chamikaras)
 - EOF
