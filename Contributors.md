@@ -17,6 +17,7 @@
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Erica Cope](https://github.com/ericacope)
 - [UnsweetT](https://github.com/unsweett)
+- [Buddhima](https://github.com/buddhima97)
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
