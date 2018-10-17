@@ -191,6 +191,7 @@
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Kash D](https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
+- [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
 - [Joseph Antony](https://github.com/Joeavaikath)
@@ -8173,4 +8174,3 @@ Orandi Harris
 - [Prakhar Dubey] (https://github.com/prakhardb)
 - [MissSemicolon] (https://github.com/MissSemicolon)
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
-
