@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Elia Grego](https://github.com/eliagrego)
 - [Florian Mauduit](https://github.com/ftx)
@@ -20,6 +20,7 @@
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
+- [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
