@@ -2464,6 +2464,7 @@ Orandi Harris
 - [Emil Plmkn](https://github.com/Plmkn)
 - [Eren Sertkaya](https://github.com/erensertkaya)
 - [Vinod K](https://github.com/vinodkoliyat)
+- [Slupi](https://github.com/Slupi)
 - [Dino Daniel](https://github.com/dinodn)
 - [SVinodh](https://github.com/paintedskies)
 - [Freudianslip99](https://github.com/freudianslip99)
