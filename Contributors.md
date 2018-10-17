@@ -307,6 +307,7 @@
   [Abi Castro]
 - [Steve Johnson]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- [Abdulsamad Aliyu](https://github.com/nitrocoder234)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Aaron Travsso](https://github.com/aarontravass)
 - [Julianna Diaz](https://github.com/Juldays)
@@ -359,7 +360,7 @@
 - [Anthony Carbajal](https://github.com/acarbaro)
 - [Zack_Shorts](https://github.com/zackshorts)
 - kalven22
-- R R Raja (https://github.com/RRajaR)
+- [R R Raja](https://github.com/RRajaR)
 - [Raj Joshi](https://github.com/rocketrunner22)
 - [Caleb_Smith](https://gitube.com/wcbsmith)
 - [Agustin Vargas](https://github.com/chikiwawa)
