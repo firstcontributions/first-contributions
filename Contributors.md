@@ -252,6 +252,7 @@
 - [Matthew Kelley](https://github.com/mkelley88)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
+- [Minkush Jain](https://github.com/minkushjain)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Helena Klein]()
 - [David Murdock](https://github.com/Texas86)
