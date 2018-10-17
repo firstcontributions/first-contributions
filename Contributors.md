@@ -87,6 +87,7 @@
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Mohsen Yazdani](https://github.com/imyazdani)
 - [gcstang](https://github.com/gcstang)
+- [Ashish](https://github.com/UchihaItachi883)s
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
