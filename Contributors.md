@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
