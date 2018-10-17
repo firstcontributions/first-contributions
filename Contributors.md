@@ -27,6 +27,7 @@
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [AnnChar](https://github.com/annchar)
 - [David Adegoke](https://github.com/dhaveed)
+- [Hiro](https://github.com/roromusic)
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
