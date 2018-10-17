@@ -354,6 +354,7 @@
 - [msyakir](https://github.com/Msyakir)
 - [Rosalinda Prom](https://github.com/developerpeachy)
 - [Karan Tandon](https://github.com/karan2dec)
+- [Richard Zhang] (https://github.com/rzhang606)
 - [Lauren Reilly](https://github.com/LaurenReilly)
 - [Ankit Shaw](https://github.com/ankitshaw)
 - [Bryn Roughan](https://github.com/Broughh)
