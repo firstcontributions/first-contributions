@@ -1,6 +1,7 @@
 # Contributors
 
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
+- [Chiu](https://github.com/achiuBAE)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
