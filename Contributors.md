@@ -68,6 +68,7 @@
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Aaron Lebel](https://github.com/alebml)
 - [Akobi joshua](https://github.com/jaeja)
+- [Marco Boncoraglio] (https://github.com/marcoboncoraglio)
 - [Lam Lieu](https://github.com/LamLieu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Brittany Morris](https://github.com/brittmmendez/)
