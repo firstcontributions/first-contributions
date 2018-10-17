@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
@@ -4021,6 +4021,7 @@ Orandi Harris
 - [Morgan Lovett](https://github.com/mrlovett)
 - [Shan Rizvi](https://github.com/OneTrueKill/)
 - [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
+- [Ana Cruz](https://github.com/AnaCr)
 - [Srikanth Arugula](https://github.com/asrikanth27)
 - [Aaron Faubion](https://github.com/afaubz)
 - [Kevin C](https://github.com/caokevinc)
