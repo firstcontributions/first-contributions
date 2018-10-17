@@ -1,5 +1,4 @@
 # Contributors
-
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
@@ -26,6 +25,7 @@
 - [Erick Martinez](https://github.com/ErickMtz)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
+- [Tom Kornis](https://github.com/silentnoise86)
 - [YamitSi](https://github.com/yamitsi)
 - [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
