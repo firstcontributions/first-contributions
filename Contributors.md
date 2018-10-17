@@ -3304,6 +3304,7 @@ Orandi Harris
 - [Fabio Leardini](https://github.com/fabioleardini)
 - [Kirill Motkov](https://github.com/sosiska)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
+- [dimali dissanayake](https://github.com/dimalik98)
 - [masta-bhawk](https://github.com/masta-bhawk)
 - [Victor Domiciano Mendonça](https://github.com/victordomiciano)
 - [Vishal Raj Shukla](https://github.com/vrs-git)
