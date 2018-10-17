@@ -7965,6 +7965,7 @@ Orandi Harris
 - [RRadhakrishnan Ramasamy](https://github.com/radhakri555)
 - [Sid Pagariya](https://github.com/sidpagariya)
 - [Rajekevin](https://github.com/Rajekevin)
+- [Wojciech Dybikowski](https://github.com/dybik08)
 - [Haley](https://github.com/haleybear)
 - [Juan Manuel Otegui](https://github.com/JuanMa06)
 - [File Bot](https://github.com/sids-files)
