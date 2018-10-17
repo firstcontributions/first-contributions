@@ -8116,4 +8116,5 @@ Orandi Harris
 - [Izon Thomaz Mielke] (https://github.com/izontm)
 - [Chamikara Samarasekara] (https://github.com/chamikaras)
 - [Sandy](https://github.com/sandy1999/first-
+- [Hai](https://github.com/ngochai94)
 - EOF
