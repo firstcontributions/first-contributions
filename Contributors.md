@@ -8043,7 +8043,6 @@ Orandi Harris
 - [Paulo Alexandre Mello](https://github.com/palexandremello/)
 - [Mahmood Hussain](https://github.com/Mahmood-Hussain/)
 - [Hiep Nguyen](https://github.com/hiepndd/)
-- [Sreesaran Raghu](https://github.com/r-sreesaran/)
 - [Ankush Mehta](https://github.com/hsukna/)
 - [Harrison Broadbent](https://github.com/harrison-broadbent)
 - [Umesh Pandey](https://github.com/umeshpandey994)
@@ -8190,3 +8189,4 @@ Orandi Harris
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
 - [Tran Tat Huy](https://github.com/HrTran)
 - [Jakub Goleń](https://github.com/SINEdowskY)
+- [Vishwas Mehra](https://github.com/vishwasmehra)
