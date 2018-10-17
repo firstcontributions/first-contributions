@@ -4,6 +4,7 @@
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
+- [Lee T](https://github.com/leeturnbill)
 - [Chiu](https://github.com/achiuBAE)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
