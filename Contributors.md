@@ -1,5 +1,6 @@
 # Contributors
 
+- [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Chiu](https://github.com/achiuBAE)
 - [Carlos Carvalho](http://github.com/chcdc)
