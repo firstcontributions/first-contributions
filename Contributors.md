@@ -312,6 +312,7 @@
 - [Karuna Sehgal](https://github.com/karuna24s)
 - Daredevil Geek
 - [Shaan]
+- [msyakir](https://github.com/Msyakir)
 - [Rosalinda Prom](https://github.com/developerpeachy)
 - [Karan Tandon](https://github.com/karan2dec)
 - [Lauren Reilly](https://github.com/LaurenReilly)
