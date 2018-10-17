@@ -8,7 +8,7 @@
 - [shivanshu1086](https://github.com/shivanshu1086)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [TechnicSparks](https://github.com/TechnicSparks)
-- [Jalaj Gupta](https://github.com/thevip799)
+- [Harsh Gupta](https://github.com/hgcool20)
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
