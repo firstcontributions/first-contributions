@@ -28,6 +28,7 @@
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
+- [Jakeliny Gracielly] (https://github.com/jakeliny)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
