@@ -8090,3 +8090,4 @@ Orandi Harris
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Jorge](https://github.com/ferreiro)
 - [Jacinto Ramirez] (https://github.com/chiroz1)
+- [Rogério do Carmo](https://github.com/RogerioDoCarmo)
