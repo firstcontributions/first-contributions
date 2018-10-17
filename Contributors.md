@@ -17,6 +17,7 @@
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
+- [Moira McAulay](https://github.com/m-mcaulay)
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
