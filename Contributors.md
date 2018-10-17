@@ -27,6 +27,7 @@
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
+- [Anuj Kharbanda] (https://github.com/Anuj2711)
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
