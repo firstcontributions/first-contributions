@@ -23,6 +23,7 @@
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [YamitSi](https://github.com/yamitsi)
+- [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [AnnChar](https://github.com/annchar)
