@@ -40,6 +40,7 @@
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [Amaan Kulshreshtha](https://github.com/AmaanKulshreshtha)
+- [Yug Shah] (https://github.com/Yug-Shah)
 - [AnnChar](https://github.com/annchar)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
