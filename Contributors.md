@@ -8094,6 +8094,7 @@ Orandi Harris
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Jorge](https://github.com/ferreiro)
+- [Heru](https://github.com/elukuro)
 - [Jacinto Ramirez] (https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken] (https://github.com/sinuoustalker)
