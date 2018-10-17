@@ -19,6 +19,7 @@
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
+- [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Ashu](https://github.com/ashu1999)
 - [Erick Martinez](https://github.com/ErickMtz)
