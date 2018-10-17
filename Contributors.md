@@ -8188,3 +8188,4 @@ Orandi Harris
 - [MissSemicolon] (https://github.com/MissSemicolon)
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
 - [Tran Tat Huy](https://github.com/HrTran)
+- [Jakub Goleń](https://github.com/SINEdowskY)
