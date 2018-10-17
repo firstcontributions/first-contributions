@@ -41,6 +41,7 @@
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [YamitSi](https://github.com/yamitsi)
+- [Lexuv2](https://github.com/lexuv2)
 - [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [Evaldas Stanelis](https://github.com/m4rx/)
