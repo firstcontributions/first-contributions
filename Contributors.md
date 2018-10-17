@@ -8107,5 +8107,7 @@ Orandi Harris
 - [Jason Aiken] (https://github.com/sinuoustalker)
 - [Izon Thomaz Mielke] (https://github.com/izontm)
 - [Chamikara Samarasekara] (https://github.com/chamikaras)
-- [Sandy](https://github.com/sandy1999/first-
+- [Sandy](https://github.com/sandy1999)
+- [Patty22](https://github.com)
 - EOF
+
