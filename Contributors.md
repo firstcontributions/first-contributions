@@ -4775,6 +4775,7 @@ Orandi Harris
 - [Jay Parekh](https://github.com/violetviolinist)
 - [Eric Semianczuk](https://github.com/esemianczuk)
 - [Mithesh](https://github.com/mithesh109)
+- [Mithila Shehan Wickramarathne](https://github.com/mithwick93)
 - [piuserre](https://github.com/piuserre)
 - [Soumya](https://github.com/soumyajain51)
 - [Muqadar Ali Jamali](https://github.com/muqadar-ali-jamali)
