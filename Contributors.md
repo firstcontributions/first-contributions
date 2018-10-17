@@ -7289,6 +7289,7 @@ Orandi Harris
 - [Pat Curry](https://github.com/patcurry)
 - [David Samuels](https://github.com/samuelsd1)
 - [Azkar Moulana](https://github.com/azkarmoulana)
+- [Rizky Ramadhan](https://github.com/RizkySaiyan)
 - [Allen Worker](https://github.com/AllenWorker)
 - [Greg Groff](https://github.com/gagroff)
 - [Ishwarya Manivannan](https://github.com/misscoder6)
