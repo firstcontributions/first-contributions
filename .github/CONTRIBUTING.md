@@ -11,7 +11,7 @@ Move to the desired location where package.json file is located
 
 - Install npm(latest version) -
     npm is distributed with Node.js - which means that when you download Node.js,
-    you automatically get npm installed on your computer.
+    you automatically get npm installed on your computer,link provided below.
     https://www.npmjs.com/get-npm
 - Install all the dependencies used by this project.
    Use this command:  `install npm`
@@ -50,4 +50,4 @@ We have some rules for translation. If you make the first translation for your l
 - [ ] Add more examples and more guides.
 
 
-Thanks! :heart:
+Thanks! :heart: :heart:
