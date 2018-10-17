@@ -15,6 +15,7 @@
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
+- Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
