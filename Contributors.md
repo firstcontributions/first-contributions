@@ -297,6 +297,7 @@
 - [Erick Surya Dinata](https://github.com/proesd)
 - [Thamnongsin Supawattana](https://github.com/Nu2l)
 - [Aman Singh](https://github.com/AMANSINGH1998)
+- [Yoav Shai](https://github.com/gergesh)
 - [Nethmi Wijesinghe](https://github.com/Nethmi96)
 - [Aditya Anantharaman](https://github.com/aditya9898)
 - [Jessa Micucci](https://github.com/jmicucci)
