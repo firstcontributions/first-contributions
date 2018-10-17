@@ -6,6 +6,7 @@
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Lee T](https://github.com/leeturnbill)
 - [Chiu](https://github.com/achiuBAE)
+- [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
