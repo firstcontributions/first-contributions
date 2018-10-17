@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
@@ -8145,3 +8145,4 @@ Orandi Harris
 - [DargieDChouwy](https://github.com/DargieDChouwy)
 - [yulivee](https://github.com/yulivee)
 - [Vadim Pashaev](https://github.com/vmp)
+- [Shashank Pal](https://github.com/Shashank-10)
