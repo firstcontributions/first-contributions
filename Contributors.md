@@ -55,6 +55,7 @@
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
+- [Ashwin Kain](https://github.com/Ashwin-Kapes)
 - [YamitSi](https://github.com/yamitsi)
 - [Lexuv2](https://github.com/lexuv2)
 - [Ashutosh Kumar](https://github.com/ashutosh-iitg)
