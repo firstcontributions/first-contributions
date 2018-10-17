@@ -7963,6 +7963,7 @@ Orandi Harris
 - [Jing Rong Lim](https://github.com/jjingrong)
 - [Paul Eiche](https://github.com/peiche)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
+- [Jon Tonti](https://github.com/jtontiwith) 
 - [Mouffy](https://github.com/mcampourcy)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
