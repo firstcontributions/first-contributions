@@ -6654,6 +6654,7 @@ Orandi Harris
 - [Al Buchala](https://github.com/albcf)
 - [Vikas Kapadiya](https://github.com/vikas5914)
 - [Cesar T](https://github.com/CDTREVINO1)
+- [Andre Fimpel](https://github.com/Alezyn)
 - [Cai Jun](https://github.com/JohnCaiJun)
 - [Henry Anfang](https://github.com/hpanfang)
 - [Kenji Morizono](https://github.com/KenjiMorizono)
