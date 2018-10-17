@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Syed Zainul Abedin](https://github.com/Javasamurai)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
