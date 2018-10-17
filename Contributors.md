@@ -156,7 +156,6 @@
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Austin Hyder](https://github.com/DoctorMooch)
 - [Jan Carlo Once](https://github.com/jancarloonce)
-- [Tom Merrifield](https://github.com/tpmerrifield)
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
 - [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Guneet Singh](http://github.com/SethiGuneet)
@@ -176,6 +175,7 @@
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
+- [Tom Merrifield](https://github.com/tpmerrifield)
 - Evan Rives
 - [Yixian Chen](https://github.com/yxnchen)
 - [Gabriele Corti](https://github.com/borntofrappe)
