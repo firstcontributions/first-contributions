@@ -1,5 +1,6 @@
 # Contributors
 
+- [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
@@ -14,6 +15,8 @@
 - [Warushika](https://github.com/warushika)
 - Malipeddi Jitesh
 - Shani Rub
+- [Akshay Solanki](https://github.com/AkshayS96)
+- Tech Performer
 - [imbassi](https://github.com/imbassi)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
@@ -22,10 +25,12 @@
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [YamitSi](https://github.com/yamitsi)
+- [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [AnnChar](https://github.com/annchar)
 - [David Adegoke](https://github.com/dhaveed)
+- [Hiro](https://github.com/roromusic)
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
@@ -44,6 +49,7 @@
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
+- [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin](https://github.com/alexeydvr)
 - [Adam Luczak](https://github.com/aluczak)
@@ -6739,6 +6745,7 @@
 - [Prince Carter](https://github.com/PrinceCarter)
 - [lwk](https://github.com/wk32)
 - [Jessica Bujazia](https://github.com/jessijean)
+- [Srinath](https://github.com/srinath9721)
 - [Liam Smith](https://github.com/liamcs98)
 - [Aviv Biton](https://github.com/avivbiton)
 - [Sunjoli Aggarwal](https://github.com/sunjolia)
@@ -8093,8 +8100,12 @@
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Jorge](https://github.com/ferreiro)
+- [Heru](https://github.com/elukuro)
 - [Jacinto Ramirez](https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken](https://github.com/sinuoustalker)
 - [Stuff By Spencer](https://github.com/StuffBySpencer) :^)
+- [Izon Thomaz Mielke](https://github.com/izontm)
+- [Chamikara Samarasekara](https://github.com/chamikaras)
+- [Sandy](https://github.com/sandy1999/first-
 - EOF
