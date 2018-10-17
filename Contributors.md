@@ -5,6 +5,7 @@
 - [Chiu](https://github.com/achiuBAE)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
+- [Shashank Pal](https://github.com/Shashank-10)
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
