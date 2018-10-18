@@ -2002,6 +2002,7 @@
 - [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
+- [Zippo](https://github.com/A1zippo1)
 - [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
 - [Read Hughes](https://github.com/rthugh02)
