@@ -8216,4 +8216,3 @@ Orandi Harris
 - [Angie](https://github.com/AngieAngelica
 - [Xander Grzywinski](https://github.com/salaxander)
 -[Karishma](https://github.com/karishmaCoder)
--[RyanRuenroeng](https://github.com/RyanRuenroeng)
