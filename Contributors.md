@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -8405,4 +8406,4 @@ Orandi Harris
 - [Aaron Shannon](https://github.com/aarondshan)
 - [Vladimir Pavlovic](https://github.com/vlada1001)
 - [Harsh Shah](https://github.com/harshvshah)
-- [Carlo Martín](https://github.com/CarloMtzMartin) 
+- [Carlo Martín](https://github.com/CarloMtzMartin)
