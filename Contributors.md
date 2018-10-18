@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Courtney Jansma](https://github.com/1AAAcppAAA1)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
