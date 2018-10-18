@@ -8303,3 +8303,4 @@ Orandi Harris
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
+- [Fabian Dörr](https://github.com/2mt-doerr)
