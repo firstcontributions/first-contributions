@@ -567,6 +567,7 @@
 - Evan Rives
 - maskedCat
 - [Yixian Chen](https://github.com/yxnchen)
+- [Rushit Jasani](https://github.com/rushitjasani)  
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Brandon Thibeaux](https://github.com/thibeaux)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
