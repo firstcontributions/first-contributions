@@ -11,7 +11,7 @@ orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behavior that contribute to creating a positive environment
 include:
 
 *   Using welcoming and inclusive language.
@@ -35,7 +35,7 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
+reject comments, commits, codes, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
