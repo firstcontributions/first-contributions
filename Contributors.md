@@ -18,6 +18,7 @@
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
+- [Preston Hall](https://github.com/PrestonHall31)
 - [Dennis Wanne](https://github.com/Denni2)
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Erica Cope](https://github.com/ericacope)
@@ -417,6 +418,7 @@
 - [Apostolos Papadopoulos](https://github.com/ApostPap)
 - [Luis Henrique Gundes Valim](https://github.com/lhenrique42)
 - [Prem Adithya Suresh](https://github.com/adithyaxx)
+- [Preston Hall](
 - [W Moreland](https://github.com/wmoreland)
 - [Lucas Gomes](https://github.com/lukasg18)
 - [nicktogo](https://github.com/nicktogo)
