@@ -15,6 +15,7 @@
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
+- [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Calvin Golas](https://github.com/CalvinGolas)
 - [David Chandra](https://github.com/davidchandra95)
