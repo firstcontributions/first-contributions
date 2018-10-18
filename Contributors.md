@@ -8427,4 +8427,4 @@ Orandi Harris
 - [a-ray](https://github.com/a-ray) 
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
-- [John Corbin](https://github.com/johncorbin)
+- [John Corbin](https://github.com/johncorbin) 
