@@ -6,6 +6,7 @@
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Florian Mauduit](https://github.com/ftx)
+- [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Lee T](https://github.com/leeturnbill)
