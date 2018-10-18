@@ -8312,3 +8312,4 @@ Orandi Harris
 - [Tanmay Mathur](https://github.com/Tanmay1201)
 - [Anders Olsen](https://github.com/BroxigarDK)
 - [Yongho Lee](https://github.com/inthewalter)
+- [segao](https://github.com/segao)
