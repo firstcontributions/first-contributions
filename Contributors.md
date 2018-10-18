@@ -8167,6 +8167,7 @@ Orandi Harris
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
 -[Hung Pham](https://github.com/hungpham2202)
+- [Kapish Malik](https://github.com/kapishmalik)
 -[AsverBy](https://github.com/asverby)
 -[Ogün Babacan](https://github.com/ogunb)
 -[Jenssen Lee](https://github.com/helplah)
