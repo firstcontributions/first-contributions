@@ -712,6 +712,7 @@
 - [Katie Turner](https://github.com/katieturner)
 - [Katie Ferencz](https://github.com/katieferencz)
 - [Pittyolo](https://github.com/Pittyolo)
+- [Avery Biskup](https://github.com/averybiskup)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Mahesh Bhat](https://github.com/maheshbhat)
 - [Akarshit sharma](https://github.com/akarshitsharma)
