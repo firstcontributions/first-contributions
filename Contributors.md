@@ -118,6 +118,7 @@
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
+- [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
 - [tobinatore](https://github.com/tobinatore/)
 - [Alex Sorokin](https://github.com/kanvik175)
