@@ -8275,3 +8275,4 @@ Orandi Harris
 - [Sriram S. Niar](https://github.com/sriramsnair)
 - [Tan Nguyen](https://github.com/ngtan)
 - [Bhavy Singh](https://github.com/bhavybarca)
+- [shaunmridul](https://github.com/shaunmridul)
