@@ -330,6 +330,7 @@
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
 - [Minkush Jain](https://github.com/minkushjain)
+- [Michelle Yang](https://github.com/yangmichellea)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Rishi](https://github.com/kookient)
 - [Helena Klein]()
