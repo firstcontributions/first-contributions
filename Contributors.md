@@ -3777,6 +3777,7 @@ Orandi Harris
 - [this-is-you](https://github.com/this-is-you)
 - [Gizem Ozdemir](https://github.com/Gizem.gno)
 - [Joy GM](https://github.com/royranger)
+- [Scott Ream](https://github.com/robotshateme)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
