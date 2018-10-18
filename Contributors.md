@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+[Daniela Solis](https://github.com/hcplsmf)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
