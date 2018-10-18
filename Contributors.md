@@ -84,6 +84,7 @@
 - [Amaan Kulshreshtha](https://github.com/AmaanKulshreshtha)
 - [Yug Shah] (https://github.com/Yug-Shah)
 - [AnnChar](https://github.com/annchar)
+- [Sara](https://github.com/SaraBon)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
 - [KaranRandhir](https://github.com/KaranRandhir)
