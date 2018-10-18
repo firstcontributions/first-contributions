@@ -114,6 +114,7 @@
 - [Sumanth Kumar Nayak](https://github.com/sumanth0904)
 - [ABDulgaphy](https://github.com/abdulgaphy)
 - [Shawn Flores](https://github.com/priultimus)
+- [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Tim Griffith](https://github.com/grifmang)
 - [Dave Martinez](https://github.com/dave-martinez)
