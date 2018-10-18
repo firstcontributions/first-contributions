@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Nicolo Giacomello]
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
