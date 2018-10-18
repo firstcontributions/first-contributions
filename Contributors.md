@@ -6118,6 +6118,7 @@ Orandi Harris
 - [Krishan](https://github.com/krishan-kataria)
 - [Gregory Vinyard](https://github.com/gregvinyard)
 - [Daniel Berryman](https://github.com/danielberryman)
+- [Alex Dlg] (https://github.com/alexandradlg)
 - [Kristina Grigaityte](https://github.com/kgrigaityte)
 - [Christopher Pennington](https://github.com/Eaglefan4life)
 - [Jonathan Xu](https://github.com/JonathanXu1)
