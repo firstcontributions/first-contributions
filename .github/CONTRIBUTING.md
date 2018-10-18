@@ -1,4 +1,4 @@
-﻿# Contribution guide
+﻿# Contribution Guide
 
 Welcome to your first contribution. :heart:
 
@@ -7,7 +7,7 @@ You need to run it locally on your desktop.
 
 In order to do that:
 
-Move to the desired location where package.json file is located
+- Move to the desired location where package.json file is located
 
 - Install npm(latest version) -
     npm is distributed with Node.js - which means that when you download Node.js,
@@ -27,9 +27,9 @@ Move to the desired location where package.json file is located
 - [Translation Guide](#translation-guide)
 
 ## Code of Conduct
-If you want to contribute, you need to know a few things.
+If you want to contribute, you'll need to know a few things.
 
-[Code of conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ## Translation Guide
 We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
