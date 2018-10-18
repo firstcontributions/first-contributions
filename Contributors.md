@@ -4754,6 +4754,7 @@ Orandi Harris
 - [Test](https://github.com/anothertest)
 - [Niklas Matthias](https://github.com/1Niklas)
 - [Keithan Philander]()
+- [Chipok Tsang](https://github.com/dtsang7)
 - [Souna](https://github.com/sounaa)
 - [William Edwards](https://github.com/williamedwards)
 - [Eric Rolfe](https://github.com/elrolfe)
