@@ -7264,6 +7264,7 @@ Orandi Harris
 - [Rafael Pereira Dias](https://github.com/thelol-br)
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
+- [Nipe Setiawan Harefa](https://github.com/nipeharefa)
 - [Alaa Sabbagh](https://github.com/Alaa-Sabbagh)
 - [Richard Lim](https://github.com/rickyl7)
 - [Ajinkya Kale](https://github.com/AjinkyaKaley)
