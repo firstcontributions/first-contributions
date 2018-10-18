@@ -2,7 +2,7 @@
 
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Abhijith Sheheer](https://github.com/abspython)
-- [Michael Boussom](https://github.com/9112Michael)
+- [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
 - [Fireworks](https://github.com/fireworks9)
@@ -477,6 +477,7 @@
 - [Julia Boschan](https://github.com/bjuli)
 - [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
+- [ClariSLover](https://github.com/s973125108)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
