@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -166,6 +166,7 @@
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
+- [Alex Kluger] (42947972+AKluger@users.noreply.github.com)
 - [Alberto Leon](https://github.com/betoleon)
 - [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
