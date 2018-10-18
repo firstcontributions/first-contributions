@@ -6166,6 +6166,7 @@ Orandi Harris
 - [Garret Sweetwood](https://github.com/gsweetwood)
 - [Muheez Jimoh](https://github.com/dmaaj)
 - [Connor Virzi](https://github.com/cvirzi-1)
+- [Priyanshu Barnwal](https://github.com/kabir3010)
 - [Angela Chang](https://github.com/ejachang)
 - [Rakesh Singh](https://github.com/raksingh)
 - [Shammah Agwor](https://github.com/zealsham/)
