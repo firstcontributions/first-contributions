@@ -2623,6 +2623,7 @@ Orandi Harris
 - [Srijan Manandhar](https://github.com/srijanss)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
+- [waffles517] (https://github.com/waffles517)
 - [Julie Buma](https://github.com/JBuma)
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
