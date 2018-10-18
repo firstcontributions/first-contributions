@@ -64,6 +64,7 @@
 - [Erica Cope](https://github.com/ericacope)
 - [UnsweetT](https://github.com/unsweett)
 - [vikas1](https://github.com/hVIKAS)
+- [rooki blue](https://github.com/rookieblue0001)
 - [Angela Brownley](https://github.com/brownleya)
 - [Buddhima](https://github.com/buddhima97)
 - [shehasv](https://github.com/shehasv)
