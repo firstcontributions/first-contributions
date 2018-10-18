@@ -6851,6 +6851,7 @@ github .hactoberfest
 - [Saurab Dahal](https://github.com/saurabdahal)
 - [Edson](https://github.com/edinhodiluviano)
 - [Ahmad Sulaeman](https://github.com/asaeles)
+github and hacktober fest
 - [nimisha](https://github.com/NimishaCp)
 - [Nimmy K Dominic](https://github.com/NimmyKDominic)
 - [Andrea Moncada](https://github.com/Andrea206)
