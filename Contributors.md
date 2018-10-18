@@ -8166,6 +8166,7 @@ Orandi Harris
 - [Shivam Agrawall](https://github.com/shivam077)
 - [Sten Marius](https://github.com/stho01)
 - [Neolas67](https://github.com/Neolas67)
+- [Sumit Joshi](https://github.com/sumitjoshi97)
 - [MatteoAzzarelli](https://github.com/MatteoAzzarelli)
 - [Mike Perry Y. Attara](https://github.com/mikeattara)
 - [Ginhton](https://github.com/ginhton)
