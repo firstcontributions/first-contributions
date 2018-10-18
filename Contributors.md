@@ -8162,6 +8162,7 @@ Orandi Harris
 - [Mohita Bipin](https://github.com/VoxEtMohita)
 - [Paul McGrath](https://github.com/heypaulmcgrath)
 - Leos
+- [Nuno Laranjo](https://github.com/omnee)
 -[Carcraftz](https://github.com/Carcraftz)
 -[DaveRoox](https://github.com/DaveRoox)
 -[Mohammed Abul Shoeb](https://github.com/alshoeb)
