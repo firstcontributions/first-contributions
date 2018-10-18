@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -8373,3 +8373,4 @@ Orandi Harris
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
+- [Guido Sanchez](https://gitbub.com/Guido2k)
