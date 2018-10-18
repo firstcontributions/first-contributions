@@ -2772,6 +2772,7 @@ Orandi Harris
 - [Samuel Koch](https://github.com/mumumilk)
 - [Fernando Vega](https://github.com/fvegagiga)
 - [Patrick Tumbucon](https://github.com/ptumb001)
+- [Rishab Arora](https://github.com/Rishabharora2773)
 - [Yuriy Stul](https://github.com/ysden123)
 - [Tonia Del Priore](https://github.com/toninjaa)
 - [Denis Kajgorodov](https://github.com/terracott)
