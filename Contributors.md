@@ -8316,3 +8316,4 @@ Orandi Harris
 - [Anders Olsen](https://github.com/BroxigarDK)
 - [Yongho Lee](https://github.com/inthewalter)
 - [segao](https://github.com/segao)
+- Connor Dowson
