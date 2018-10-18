@@ -20,6 +20,7 @@
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
 - [Sanya Gupta] (https://github.com/sanya2701)
+- [Marco Diaz] (https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
