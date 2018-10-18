@@ -55,6 +55,7 @@
 - [Warushika](https://github.com/warushika)
 - [André Dias](https://github.com/andrehgdias)
 - [Ardhito Hendranata](https://github.com/ardhitz)
+- [Michael Harvey](https://github.com/harvey-dev)
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
 - Shani Rub
