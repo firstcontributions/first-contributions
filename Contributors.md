@@ -23,7 +23,7 @@
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
-[Jose Hernandez](https://github.com/JHernandez99)
+- [Jose Hernandez](https://github.com/JHernandez99)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Marco Diaz] (https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
@@ -235,6 +235,7 @@
 - [Ludvigch](https://github.com/ludvigch)
 - [Byren Higgin](https://github.com/byrenhiggin)
 - [Tuna Akyurek](https://github.com/akyurektuna)
+- [Robert Aragon](https://github.com/PixoDev)
 - [Isay Razilov](https://github.com/IsayRazilov)
 - [Leonardo Cavazzani](https://github.com/lCavazzani)
 - [Valentina Calabrese](https://github.com/vale-c)
