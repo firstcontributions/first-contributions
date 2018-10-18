@@ -8311,9 +8311,6 @@ Orandi Harris
 - [Filipe Cruz](https://github.com/filipe7788)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
-<<<<<<< HEAD
-- [Devon Burley](https://github.com/dburly)
-=======
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
@@ -8321,4 +8318,4 @@ Orandi Harris
 - [Yongho Lee](https://github.com/inthewalter)
 - [segao](https://github.com/segao)
 - Connor Dowson
->>>>>>> upstream/master
+- [Devon Burley](https://github.com/dburly)
