@@ -8328,3 +8328,4 @@ Orandi Harris
 - Connor Dowson
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
+- [Harsh Mittal](https://github.com/harsh1201)
