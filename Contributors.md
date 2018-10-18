@@ -8433,3 +8433,4 @@ Orandi Harris
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
+- [Simon Situ](https://github.com/ssitu001)
