@@ -15,7 +15,7 @@ Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đ�
 
 Nếu bạn không thích làm việc với dòng lệnh, hãy thử hướng dẫn của chúng tôi dựa trên [GitKraken](../gitkraken-tutorial.md).
 
-Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ )
+Nếu bạn không có git trên máy tính của bạn, [ cài đặt nó ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Fork kho mã nguồn này
 
@@ -25,7 +25,7 @@ Fork kho mã nguồn này bằng cách nhấn vào nút Fork đầu trang này. 
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng "copy to clipboard"
+Bây giờ sao chép kho mã nguồn này vào máy của bạn. Nhấn vào nút clone và sau đó nhấn vào biểu tượng *copy to clipboard*.
 
 Mở một bộ xử lý terminal và chạy lệnh git sau đây:
 
@@ -40,7 +40,7 @@ Ví dụ:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
+Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn.
 
 ## Tạo một chi nhánh (branch)
 
@@ -78,7 +78,7 @@ thay thế `<ten-ban>` với tên của bạn
 ```
 git push origin <them-ten-ban>
 ```
-Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó
+Thay thế `<them-ten-ban>` với tên của chi nhánh bạn tạo ra trước đó.
 
 ## Gửi những thay đổi của bạn để được xem xét
 
@@ -114,7 +114,7 @@ git fetch upstream
 ```
 git rebase upstream/master
 ```
-Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi
+Ở đây bạn đang áp dụng tất cả những thay đổi bạn lấy để đưa vào chi nhánh chủ (master). Nếu bạn đẩy chi nhánh chủ bây giờ, bản sao của bạn cũng sẽ có những thay đổi.
 ```
 git push origin master
 ```
