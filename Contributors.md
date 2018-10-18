@@ -8260,6 +8260,7 @@ Orandi Harris
 -sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
+- [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [Bunyamin Akin](https://github.com/bunyaminakin)
 - [Michael Hoang](https://github.com/Quang810)
