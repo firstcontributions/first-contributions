@@ -334,7 +334,6 @@
 - [Mikella Green](https://github.com/mikellagreen)
 - [Minkush Jain](https://github.com/minkushjain)
 - [Michelle Yang](https://github.com/yangmichellea)
-- [Iris Kwok](https://github.com/konpyuta)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Rishi](https://github.com/kookient)
 - [Helena Klein]()
@@ -8330,3 +8329,4 @@ Orandi Harris
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
+- [Utkarsh Mittal](https://github.com/Stell1c)
