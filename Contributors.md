@@ -8252,4 +8252,5 @@ Orandi Harris
 - [phaneendrababu](https://github.com/phaneendrababu)
 -sujan lohitha
 - [Rohit Motwani](https://rohitmotwani.com)
+- [blade-demon](https://github.com/blade-demon)
 - [Bunyamin Akin](https://github.com/bunyaminakin)
