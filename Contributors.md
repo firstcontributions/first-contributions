@@ -3,6 +3,7 @@
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
+- [Rohit Mazumder] (https://github.com/RohitMazumder) 	
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Florian Mauduit](https://github.com/ftx)
@@ -106,6 +107,7 @@
 - [Dimosthenis Katsimardos](https://github.com/dimkatsi91)
 - [Zachary Bergeron](https://github.com/zbergus)
 - [Christian F. Sousa](https://github.com/Swifty-Sousa)
+- [Ramanujam Gond](https://github.com/ramanujamgond)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano](https://github.com/vicase)
 - [David Potter](https://github.com/potter-potter)
@@ -389,6 +391,7 @@
 - [Karuna Sehgal](https://github.com/karuna24s)
 - Daredevil Geek
 - [Shaan]
+- [Supreet Kaur] (https://github.com/supreet-kaur93)
 - [msyakir](https://github.com/Msyakir)
 - [myth.ren](https://github.com/MythRen)
 - [Rosalinda Prom](https://github.com/developerpeachy)
@@ -5389,6 +5392,7 @@ Orandi Harris
 - [Stephen Lin](https://github.com/stephenlin35)
 - [Annie Rose Webb](https://github.com/arwebb)
 - [Michael Hathi](https://github.com/numerative)
+- [Shane Rafferty](https://github.com/ShaneKainos)
 - [Michael Blair](https://github.com/Fortyonehertz)
 - [Jessica Yin](https://github.com/jeqyin)
 - [Himanshu Saini](https://github.com/saini-himanshu)
@@ -8279,3 +8283,5 @@ Orandi Harris
 - [Bhavy Singh](https://github.com/bhavybarca)
 - [Tom Braul](https://github.com/tombraul)
 - [Sandhya Saravanan](https://github.com/sandy9999)
+- [Eoin McCoy](https://github.com/yoghurt1)
+-[Gulcan Baran](https://github.com/gulcann)
