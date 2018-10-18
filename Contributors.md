@@ -20,6 +20,7 @@
 - [Dafny Garcia](https://github./daphnemillss)
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - Pietil
+- [Neelesh Gupta](https://github.com/Neelesh7544)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [James Howerton](https://github.com/thejimster82)
