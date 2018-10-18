@@ -2,6 +2,7 @@
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [David E. Barrera](https://github.com/dbarrerap)
+- [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
