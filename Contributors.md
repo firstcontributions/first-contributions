@@ -78,6 +78,7 @@
 - wrecKING Tsukinoryoshu
 - [Dominik Blek](https://github.com/zybex86)
 - [Estevao Moreno](https://github.com/estevaoTm)
+- [Shane Lester](https://github.com/Shane-Lester99)
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
