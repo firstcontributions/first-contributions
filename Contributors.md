@@ -1,9 +1,10 @@
-﻿# Contributors
+# Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
+- [Karen Tobo](https://github.com/karentobo)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
@@ -4002,6 +4003,7 @@ Orandi Harris
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
 - [Ivan Tran](https://github.com/ptran213)
+- [Petr Todorov](https://github.com/PetrTodorov)
 - [Hannarae Nam](https://github.com/hannaraenam)
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
@@ -6118,6 +6120,7 @@ Orandi Harris
 - [Krishan](https://github.com/krishan-kataria)
 - [Gregory Vinyard](https://github.com/gregvinyard)
 - [Daniel Berryman](https://github.com/danielberryman)
+- [Alex Dlg] (https://github.com/alexandradlg)
 - [Kristina Grigaityte](https://github.com/kgrigaityte)
 - [Christopher Pennington](https://github.com/Eaglefan4life)
 - [Jonathan Xu](https://github.com/JonathanXu1)
@@ -8369,3 +8372,5 @@ Orandi Harris
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Noa Nilsson](https://github.com/n0anilsson)
+- [Austin Casteel](https://github.com/longshotpro2)
+- [Aviv Ben Yosef](https://github.com/avivbyo)
