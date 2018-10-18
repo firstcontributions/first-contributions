@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -7,6 +7,7 @@
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
+- [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
