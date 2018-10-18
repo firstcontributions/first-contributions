@@ -4676,6 +4676,7 @@ Orandi Harris
 - [Thompadude](https://github.com/Thompadude)
 - [Klockner](https://github.com/Klockner)
 - [Pedro Cruz](https://github.com/cruzpedro)
+- g0sar
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
 - [Brent Farand](https://github.com/BFarand)
