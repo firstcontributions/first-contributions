@@ -18,6 +18,7 @@
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Florian Mauduit](https://github.com/ftx)
+- [Kumar Kartikeya](https://github.com/kkartikeya1998)
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
