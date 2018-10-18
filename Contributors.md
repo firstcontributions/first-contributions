@@ -8207,4 +8207,4 @@ Orandi Harris
 - [Jonathan Markman](https://github.com/jmarkman)
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
-
+- [Jazmin Perez](https://github.com/jaz24)
