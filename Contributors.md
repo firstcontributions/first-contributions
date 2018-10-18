@@ -161,6 +161,7 @@
 - [Emmanuel Osuh](https://github.com/musonant)
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk](https://github.com/gopolar)
+- [Kyle Sykes](https://github.com/kylesykes)
 - [jos](https://github.com/jostnes)
 - [Jathniel Argueza](https://github.com/jathniel)
 - [Dinesh Raj] (https://github.com/dineshraj01)
