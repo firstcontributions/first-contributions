@@ -234,6 +234,7 @@
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
 - [souragc](https://github.com/souragc)
+- [Pranav Bhatia](https://github.com/PranavBhatia)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Sugapriya] (https://github.com/sugapriyasugu)
