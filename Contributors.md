@@ -1334,6 +1334,7 @@
 - [Tshele Litabe](https://github.com/tshele)
 - [Sanni Mujahid Ade](https://github.com/mujsann/)
 - [Robin Lashof-Regas](https://github.com/RLashofRegas)
+- [Vincent Lopes-Vicente](https://github.com/lopes-vincent)
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [Vinay Kotwal](https://github.com/Storm017)
