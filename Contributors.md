@@ -290,6 +290,7 @@
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Cameron Brill](https://github.com/gaiscioch)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
+- [Jose Pauig](https://github.com/joeboom)
 - [Aziz Alsaffar](https://github.com/octowl)
 - [Miftahul Muhaemen](https://github.com/miftahulmuhaemen)
 - [Saurabh Biyani](https://github.com/saurabh119)
