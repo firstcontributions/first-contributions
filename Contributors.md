@@ -784,6 +784,7 @@
 - [Ashok Singh](https://github.com/XLAR-8)
 - [Sahil Aggarwal](https://github.com/sagg155)
 - [Jakub Krzus](https://github.com/jakrzus)
+- [Science Saint](https://github.com/ScienceSaint)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Daniel Burns](https://github.com/danieljburns143)
