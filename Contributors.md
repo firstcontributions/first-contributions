@@ -3428,6 +3428,7 @@ Orandi Harris
 - [Ricardo](https://github.com/granttrec)
 - [Hyewon Jin](https://github.com/hyewonjin)
 - [Derik Lu](https://github.com/DerikLu)
+github .hactoberfest
 - [Viral Vin](http://github.com/viralvin)
 - [Klara Miffili](https://github.com/Miffili)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
