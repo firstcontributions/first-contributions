@@ -6764,6 +6764,7 @@ ynobry
 - [AboodMadridista](https://github.com/AboodMadridista)
 - [Amit Ambardekar](https://github.com/amitamb)
 - [Nicholas Eng](https://github.com/Nicholas-Eng)
+- [Raghav Jain](https://raghav.jain)
 - [Alan Chan](https://github.com/AlinChindea)
 - [David Adrianzen](https://github.com/jorgedav-id)
 - [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
@@ -7562,4 +7563,4 @@ ynobry
 - [Rudy W](https://github.com/nerdijoe)
 - [RRadhakrishnan Ramasamy](https://github.com/radhakri555)
 - [Sid Pagariya](https://github.com/sidpagariya)
-- [Raghav Jain] (https://raghav.jain)
+- [File Bot] (https://github.com/sids-files)
