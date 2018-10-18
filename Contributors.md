@@ -26,6 +26,7 @@
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
+- [John Pasquesi](https://github.com/Jyckle)
 - [Satyam Uttam]
 - [Jose Hernandez](https://github.com/JHernandez99)
 - [Matt Ackard](https://github.com/mattackard)
