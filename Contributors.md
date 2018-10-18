@@ -4,6 +4,7 @@
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
+   
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
  jactober is a teck fest
@@ -1081,6 +1082,7 @@
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Raphael Croce](https://github.com/riffryder)
+github is a software 
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
 - [Carol L]()
 - [Katie Campbell](https://github.com/katyasoup)
