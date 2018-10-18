@@ -18,6 +18,7 @@
 - [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
+- [Hichem Razgallah](https://github.com/shefrat)
 - [Vipul Kanade](https://github.com/vipulkanade)
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
