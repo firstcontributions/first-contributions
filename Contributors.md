@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
@@ -8279,3 +8279,4 @@ Orandi Harris
 - [Bhavy Singh](https://github.com/bhavybarca)
 - [Tom Braul](https://github.com/tombraul)
 - [Eoin McCoy](https://github.com/yoghurt1)
+- [Chou Jia Cheng](https://github.com/smellyworm)
