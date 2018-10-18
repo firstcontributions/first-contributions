@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Joel Garcia] (https://github.com/joelgarcia1)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
