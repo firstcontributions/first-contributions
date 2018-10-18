@@ -196,6 +196,7 @@
 - [Cody]()
 - [Somesh rf](https://github.com/someshrf)
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
+- [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
