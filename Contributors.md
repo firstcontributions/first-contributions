@@ -8114,6 +8114,7 @@ Orandi Harris
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
 - [Hitanshu](https://github.com/Phantom-Cluster)
+- [Kate Abadzheva](https://github.com/Makemeloco)
 - [Gino89](https://github.com/Gino89)
 - [nicht](https://github.com/nicht)
 - [Rudy W](https://github.com/nerdijoe)
