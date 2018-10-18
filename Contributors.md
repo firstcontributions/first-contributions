@@ -1,10 +1,10 @@
 ﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
-- [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Karen Tobo](https://github.com/karentobo)
