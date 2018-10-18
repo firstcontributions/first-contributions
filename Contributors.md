@@ -155,6 +155,7 @@
 - [Alberto Leon](https://github.com/betoleon)
 - [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
+- [Sharath Shankaran D](https://github.com/sharathsharz26)
 - [Erdal TAŞKESEN](https://github.com/erdtsksn)
 - [Leon ROUX](https://github.com/Nurrl)
 - [Pavan kumar](https://github.com/sudouser89)
