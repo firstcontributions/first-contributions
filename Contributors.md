@@ -8345,3 +8345,4 @@ Orandi Harris
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
 - [Gino Stoian] (https://github.com/ginostoian)
+- [Hajrudin Ahmetasevic](https://github.com/hajro92)
