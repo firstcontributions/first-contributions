@@ -58,13 +58,13 @@ Pokud namáte nainstalovaný git, [nainstalujte si jej]( https://help.github.com
 
 ## Forkněte tento repozitář
 
-Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHib účtu.
+Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHub účtu.
 
 ## Naklonujte repozitář
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
-Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
 Teď otevřte terminál a spusťte následující příkaz:
 
@@ -118,7 +118,7 @@ Tyto změny do dané větvě přidáte příkazem `git add`:
 git add Contributors.md
 ```
 
-Zbýva je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
+Zbývá je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
 
 ```
 git commit -m "Add <vase-jmeno> to Contributors list"
@@ -152,14 +152,14 @@ Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ pr
 
 Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
 
-V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu]https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Další materiály](additional-material/git_workflow_scenarios/additional-material.md)
 
 
-## Návod za použití dalších nástrojů
+## Návod na použití dalších nástrojů
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
