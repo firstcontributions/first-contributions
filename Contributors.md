@@ -1,5 +1,8 @@
 ﻿# Contributors
+ 
 - [Alejandro Mendoza](https://github.com/Alejandro4320)
+- [Joel Garcia] (https://github.com/joelgarcia1)
+- [Rodrigo Garcia](https://github.com/rgarcia804659)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
@@ -8203,3 +8206,4 @@ Orandi Harris
 - [Jonathan Markman](https://github.com/jmarkman)
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
+
