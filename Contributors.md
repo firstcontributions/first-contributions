@@ -3948,6 +3948,7 @@ Orandi Harris
 - [Lucas Sterzinger](https://github.com/lsterzinger)
 - [Cedric Trollwut](https://github.com/Trollwut)
 - [Angie L Yu](https://github.com/AngieLYu)
+- [Diego Zen](https://github.com/Diego-Zen)
 - [Ning LI](https://github.com/lininglouis)
 - [Rodrigo Davy](https://github.com/RodrigoDavy)
 - [Byron Blank](https://github.com/ByronCoder)
