@@ -18,6 +18,7 @@ Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com
 ## Repository forken
 
 Forke das Repository durch das Anklicken der Schaltfläche "Fork". Dadurch erhältst du deine eigenen Version des Projektes in deinem Profil.
+"Fork" bedeutet so viel wie "abzweigen". Die eigene Version des Projektes ist komplett unabhängig von dem Original und man kann frei damit experimentieren.
 
 ## Repository klonen
 
