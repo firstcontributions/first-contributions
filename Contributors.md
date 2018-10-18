@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
