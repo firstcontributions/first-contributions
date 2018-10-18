@@ -23,7 +23,7 @@
 - [Erica Cope](https://github.com/ericacope)
 - [UnsweetT](https://github.com/unsweett)
 - [Buddhima](https://github.com/buddhima97)
-- [shehasv](https://github.com/shehasv)
+[shehasv](https://github.com/shehasv)
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
@@ -35,6 +35,7 @@
 - Shani Rub
 - wrecKING Tsukinoryoshu
 - [Estevao Moreno](https://github.com/estevaoTm)
+Foster Wilson
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
@@ -5220,7 +5221,6 @@ Orandi Harris
 - [Daniel j2ee](https://github.com/daniele-j2ee)
 - [Sheryl Darroch](https://github.com/sheryldarroch)
 - [Jeff Banks](https://github.com/jeffbanks)
-- [Dr Wolf] ((https://github.com/Dr-Wolf-ML)
 - [Alicia Hyland](https://github.com/Vinnatan)
 - [Sonali Aggarwal](https://github.com/sonaliagg02)
 - [Natalie Poon](https://github.com/nataliezpoon)
