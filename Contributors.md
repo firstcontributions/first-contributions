@@ -317,6 +317,7 @@
 - [Rishi](https://github.com/kookient)
 - [Helena Klein]()
 - [David Murdock](https://github.com/Texas86)
+- [Robert Simatei](https://github.com/simatei) 
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
