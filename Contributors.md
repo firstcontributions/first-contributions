@@ -8401,7 +8401,7 @@ Orandi Harris
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
-- [Gino Stoian] (https://github.com/ginostoian)
+- [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Emily McNair](https://github.com/mistymayem)
@@ -8419,3 +8419,4 @@ Orandi Harris
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [a-ray](https://github.com/a-ray) 
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
+- [HBaena](https://github.com/HBaena)
