@@ -8365,3 +8365,4 @@ Orandi Harris
 - [Gino Stoian] (https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
+- [Emily McNair](https://github.com/mistymayem)
