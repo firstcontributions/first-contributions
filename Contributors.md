@@ -391,6 +391,7 @@
 - [Karuna Sehgal](https://github.com/karuna24s)
 - Daredevil Geek
 - [Shaan]
+- [Supreet Kaur] (https://github.com/supreet-kaur93)
 - [msyakir](https://github.com/Msyakir)
 - [myth.ren](https://github.com/MythRen)
 - [Rosalinda Prom](https://github.com/developerpeachy)
