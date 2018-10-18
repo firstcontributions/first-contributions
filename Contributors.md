@@ -190,6 +190,7 @@
 - [Abhijith Sheheer](https://github.com/abspython)
 - [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
+- [Dedevava] (https://github.com/dedevava)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [imbassi](https://github.com/gmarap)
 - [Fellipe Medeiros] (https://github.com/FellipeMedeirosSilva)
