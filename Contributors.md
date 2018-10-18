@@ -1,4 +1,6 @@
 ﻿# Contributors
+
+- [Joel Garcia] (https://github.com/joelgarcia1)
 - [Rodrigo Garcia](https://github.com/rgarcia804659)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
