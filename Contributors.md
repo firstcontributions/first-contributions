@@ -346,6 +346,7 @@
 - bunso tisoy
 - [Prakher Prashank]()
 - nick spagnola
+- [Brian Lusina](https://github.com/BrianLusina)
 - [Yakub Babtunde](https://github.com/tyak99)
   [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
