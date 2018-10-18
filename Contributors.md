@@ -7,6 +7,7 @@
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Florian Mauduit](https://github.com/ftx)
 - [Tony Cameron](https://github.com/TonyRCameron)
+- [Satyam Uttam]
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Lee T](https://github.com/leeturnbill)
 - [Calvin Golas](https://github.com/CalvinGolas)
