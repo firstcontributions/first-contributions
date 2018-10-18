@@ -11,6 +11,7 @@
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnun)
 - [Jonathan Chao](https://github.com/JChao7)
+- [HBaena](https://github.com/HBaena)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
 - [Amr Hendy](https://github.com/AmrHendy)
@@ -8419,4 +8420,3 @@ Orandi Harris
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [a-ray](https://github.com/a-ray) 
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
-- [HBaena](https://github.com/HBaena)
