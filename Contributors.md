@@ -5,6 +5,7 @@
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
+- [João Bini](https://github.com/joaopbini)
 - [Rohit Mazumder] (https://github.com/RohitMazumder) 	
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
