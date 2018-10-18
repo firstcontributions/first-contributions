@@ -4126,6 +4126,7 @@ Orandi Harris
 - [Emerson Lopes](https://github.com/emersonlbr)
 - [Rahul Roshan](https://github.com/rahulroshan96)
 - [Yong Cho](https://github.com/YongCho)
+- [Zaid Bourini](https://github.com/UnknownHacker1125)
 - [Jonathon Yallop](https://github.com/jyallop)
 - [George Gkasdrogkas](https://github.com/georgegkas)
 - [Robert Vunabandi](https://github.com/robertvunabandi)
