@@ -8299,6 +8299,7 @@ Orandi Harris
 - [Nehemiah K](https://github.com/nehemiahK)
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
+- [Ulises Campos](https://github.com/Ulisescp97)
 - [Jorge](https://github.com/ferreiro)
 - [Heru](https://github.com/elukuro)
 - [Jacinto Ramirez] (https://github.com/chiroz1)
@@ -8368,4 +8369,3 @@ Orandi Harris
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
-- [Ulises Campos](https://github.com/Ulisescp97)
