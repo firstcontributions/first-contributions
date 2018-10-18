@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Joshua Magdaleno](https://github.com/frlzjosh)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
