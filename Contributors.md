@@ -493,6 +493,7 @@
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
 - [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Guneet Singh](http://github.com/SethiGuneet)
+- [Josh Lineaweaver](http://github.com/JLineaweaver)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
