@@ -105,6 +105,7 @@
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano](https://github.com/vicase)
 - [David Potter](https://github.com/potter-potter)
+- [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
 - [Naman Goyal](https://github.com/namangoyal172)
