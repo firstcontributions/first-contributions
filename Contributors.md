@@ -1,5 +1,6 @@
 ﻿# Contributors
-
+ 
+- [Alejandro Mendoza](https://github.com/Alejandro4320)
 - [Joel Garcia] (https://github.com/joelgarcia1)
 - [Rodrigo Garcia](https://github.com/rgarcia804659)
 - [Elia Grego](https://github.com/eliagrego)
