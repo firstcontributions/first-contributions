@@ -1974,6 +1974,7 @@
 - [Bryan Hitchcock](https://github.com/bryanhitchcock)
 - [Anoushka Saraswat](https://github.com/anoushkasaraswat)
 - [Roland Kr](https://github.com/rolandkr)
+- [Pavlina Mitsou] (https://github.com/Pavlmits)
 - [Sudhanshu Dwivedi](https://github.com/Sudhanshudwivedi)
 - [Amaury Perrin](https://github.com/ryudii)
 - [Rena Friedman](https://github.com/rbfriedman)
