@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Anthony Issakhanian] (https://github.com/alanissak320)
 - [Joshua Magdaleno](https://github.com/frlzjosh) 
 - [Alejandro Mendoza](https://github.com/Alejandro4320)
 - [Joel Garcia] (https://github.com/joelgarcia1)
