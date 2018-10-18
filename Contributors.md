@@ -8270,3 +8270,4 @@ Orandi Harris
 - [Michael Hoang](https://github.com/Quang810)
 - [dtrac](https://github.com/dtrac)
 - [Sriram S. Niar](https://github.com/sriramsnair)
+- [Tan Nguyen](https://github.com/ngtan)
