@@ -812,6 +812,7 @@
 - [Julia Boschan](https://github.com/bjuli)
 - [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
+- [ClariSLover](https://github.com/s973125108)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
