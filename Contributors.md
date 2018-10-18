@@ -8240,4 +8240,4 @@ Orandi Harris
 - [Chris Webster](https://github.com/whycantidraw)
 - [Grant Fogle](https://github.com/grantfogle)
 - [phaneendrababu](https://github.com/phaneendrababu)
--sujan lohitha
+- [Ashish Sethi](https://github.com/geekysethi)
