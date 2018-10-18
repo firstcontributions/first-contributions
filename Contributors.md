@@ -5270,6 +5270,7 @@ Orandi Harris
 - [Satya Mohan](https://github.com/SatyaMohan)
 - [Kirill Stepanov](https://github.com/kvstepanov)
 - [Alex Lang](https://github.com/alexclang)
+- [Rémy Feyerick] (https://github.com/LoomieKek)
 - [Daniel Rivas Perez](https://github.com/PoorLazlo)
 - [Lesley Hogg](https://github.com/lesleyhogg)
 - [Daniel Lee](https://github.comd/danielylee)
