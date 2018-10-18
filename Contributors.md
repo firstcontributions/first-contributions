@@ -2,6 +2,7 @@
 
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Carlos Carvalho](http://github.com/chcdc)
+hactober 2018 is a big event
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
    
