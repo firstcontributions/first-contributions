@@ -7352,6 +7352,7 @@ Orandi Harris
 - [Bryan Boubion](https://github.com/bjboubion)
 - [Raufoon](https://github.com/Raufoon)
 - [shubham715](https://github.com/shubham715)
+- [Manish](https://github.com/dakait)
 - [Protocol73](https://github.com/Protocol73)
 - [Eran Segal](https://github.com/segaler)
 - [Kalidrev](https://github.com/kalidrev)
