@@ -8292,5 +8292,6 @@ Orandi Harris
 - [Sandhya Saravanan](https://github.com/sandy9999)
 - [Eoin McCoy](https://github.com/yoghurt1)
 - [Gulcan Baran](https://github.com/gulcann)
+- [Filipe Cruz](https://github.com/filipe7788)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
