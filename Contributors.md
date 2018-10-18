@@ -497,6 +497,7 @@
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [George Parsons](https://github.com/geopar)
 - [Lucy S](https://github.com/girlingoggles)
+- [Markus Maelzer] (https://github.com/markus-maelzer)
 - [Daniel Smith](https://github.com/techydan)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
