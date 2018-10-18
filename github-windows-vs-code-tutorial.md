@@ -5,14 +5,16 @@
 
 # First Contributions
 
-|<img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/2000px-Visual_Studio_2017_logo_and_wordmark.svg.png" width="200">|Visual Studio 2017 Edition|
+|<img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40">|Visual Studio Code|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-If you don't have Visual Studio 2017 on your machine, [install it](https://www.visualstudio.com/downloads/).
+If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
+
+**Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
 
 ## Fork this repository
 
@@ -28,88 +30,62 @@ Most top-level GitHub repos (i.e. ones not forked from any other repo) have a sm
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-The next step is to clone your repo down to your machine so you can begin making changes. Visual Studio needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
+The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
 
-It is now time to jump in to Visual Studio 2017!  You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input promt by pressing `CTRL-P` and then type the `>` character.
 
-<img src="assets/vs2017-01-clone1.png" alt="Team Explorer" />
+<img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-Team Explorer has many views and there are navigation buttons located at the top to help you find the different areas.  To clone a repo, you need to be on the Connect view, which should be the default.  If you do not see the 'clone' button, click the green plug at the top.
+You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
 
-Click the `Clone` option under **Local Git Repositories** and paste the URL to your repo in the text box.  This should be the URL you copied to your clipboard from GitHub previously.
+<img src="assets/vscode-2018-08-clone1.png" alt="Clone repo" />
 
-Click the `Clone` button to initiate the process.
+Now type in `git clone`, only `git` or `clone` (it works like a search).
+Select the Entry `Git: Clone` and press `Enter`
 
-<img src="assets/vs2017-02-clone2.png" alt="Clone repo" />
+<img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
-When the process is complete you will be moved over to the Solution Explorer tab where you can see the contents of your repo.  Yours will look different than the screenshot below because things change!
+Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
 
-<img src="assets/vs2017-03-clone3.png" alt="Solution Explorer" />
+**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+
+<img src="assets/vscode-2018-08-clone3.png" alt="Status popup" />
+
+You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
 
 ## Create a branch
 
-Click back to the Team Explorer tab and use the main navigation dropdown to open the Branches view.
+Open up the command pallete again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
-<img src="assets/vs2017-04-branch1.png" alt="Branches view" />
-
-You should see the **first-contributions** repo and the default branch, which is called `master`.  Right-click on `master` and choose `New Local Branch From...`.
-
-<img src="assets/vs2017-05-branch2.png" alt="New branch" />
-
-Give your branch a name like `add-<your_name_here>`, for example: `add-alonzo-church`.
-
-Leave the `Checkout branch` box checked and click the `Create Branch` button.
-
-<img src="assets/vs2017-06-branch3.png" alt="Create branch" />
-
-You should see your new branch in the list.
-
-<img src="assets/vs2017-07-branch4.png" alt="See new branch" />
+<img src="assets/vscode-2018-08-branch.png" alt="Branches Command Pallete" />
 
 ## Make necessary changes
 
-Open `Contributors.md` and add your name to the end of the list. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
+Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
 Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
-<img src="assets/vs2017-08-change1.png" alt="Add your name" />
+<img src="assets/vscode-2018-08-changes.png" alt="Add your name" />
 
 ## Commit & Push changes to GitHub
 
-Switch back to Team Explorer and navigate to the Changes view.
+On the left side of VS Code is a menu with 5 icons displayed. Select the version control icon.
 
-<img src="assets/vs2017-09-commit1.png" alt="Changes" />
+<img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-Enter the information you want to post with your commit and click `Save`. Visual Studio will remember it for future commits.
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are stashed.
 
-<img src="assets/vs2017-10-commit2.png" alt="Git user information" />
+<img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-**NOTE:** Visual Studio uses a hidden folder called `.vs` to store your personal settings and preferences.  The contents of this folder **should not be saved in Git**.
-If it has not been ignored already, you may need to tell Git to ignore this folder so it does not send it up to the repo.
+Type something in the line on top of the explorer and press the checkmark. The changes are now commited to your local copy. Now the changes have to be pushed back to GitHub.
 
-This folder has already been ignored in this repo, so you should not have to perform this step...it is just here for your reference for future projects.
+<img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 
-<img src="assets/vs2017-11-commit3.png" alt="Ignore vs folder" />
+Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
 
-Now you should see a list of changed files and a textbox to type a commit comment.  Comments should be in brief but thorough.  There is nothing worse than reading through commit comments and seeing this: `"I updated some stuff"`. Take a few seconds to outline your commit.  Your team will thank you later, and you might even thank yourself!
-
-Click `Commit All and Push` to perform a local commit and push your changes back up to your repo, all in one step.
-
-**NOTE:** Commit can be performed separately from Push.  We do both here for convenience. Commit logs your changes locally but they will not be reflected in your GitHub repo until you Push.
-
-<img src="assets/vs2017-12-commit4.png" alt="Commit and Push" />
-
-The first time you Push to GitHub, Visual Studio will ask for your GitHub credentials.  They will be cached so you should not see this very often.
-
-<img src="assets/vs2017-13-commit5.png" alt="Login" />
-
-After the Push operation completes, open your repo in GitHub and you should see a message indicating a recently pushed branch.
-
-You can view your changes by opening the `Branch: master` dropdown and selecting your new branch. Congratulations, you can share the branch URL with the world to show your progress!
-
-<img src="assets/vs2017-14-commit6.png" alt="View pushed branch on GitHub" />
+<img src="assets/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
 ## Submit your changes for review
 

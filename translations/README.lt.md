@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Pirmieji įnašai
@@ -88,7 +89,7 @@ Eikite į savo saugyklą GitHub. Pamatysite mygtuką `Compare & pull request` (p
 
 Dabar pateikite įtraukimo į pradinę saugyklą (pull) užklausą.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projekto pagrindine šaka. Kai pakeitimai bus sujungti, gausite tai patvirtinantį el. laišką.
 
@@ -96,7 +97,7 @@ Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projek
 
 Džiaukitės ir atkreipkite dėmesį į savo įnašą pasidalindami šia žinia su draugais [interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://firstcontributions.herokuapp.com).
+Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#project-list).
 
