@@ -8173,6 +8173,7 @@ Orandi Harris
 -[sanspace](https://github.com/sanspace)
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
+- [Griffin Maxwell](https://github.com/GriffinMaxwell)
 -[Hung Pham](https://github.com/hungpham2202)
 - [Kapish Malik](https://github.com/kapishmalik)
 -[AsverBy](https://github.com/asverby)
