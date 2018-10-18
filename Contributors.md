@@ -8260,3 +8260,4 @@ Orandi Harris
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [Bunyamin Akin](https://github.com/bunyaminakin)
+- [Michael Hoang](https://github.com/Quang810)
