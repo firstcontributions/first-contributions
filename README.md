@@ -41,6 +41,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇧🇷](translations/README.pt_br.md)
 [🇵🇹](translations/README.pt-pt.md)
 [🇮🇹](translations/README.it.md)
+[TE](translations/README.te.md)
 [🇹🇭](translations/README.th.md)
 [🏴](translations/README.gl.md)
 [🇵🇰](translations/README.ur.md)
