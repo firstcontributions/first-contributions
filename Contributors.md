@@ -8400,3 +8400,4 @@ Orandi Harris
 - [Klaudia](https://github.com/klaudiakp)
 - [Darkatom](https://github.com/Darkatom)
 - [Aaron Shannon](https://github.com/aarondshan)
+- [Vladimir Pavlovic](https://github.com/vlada1001)
