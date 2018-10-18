@@ -25,6 +25,7 @@
 - [Satyam Uttam]
 [Jose Hernandez](https://github.com/JHernandez99)
 - [Sanya Gupta] (https://github.com/sanya2701)
+- [Marco Diaz] (https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
