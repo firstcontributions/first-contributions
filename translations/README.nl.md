@@ -7,9 +7,9 @@ Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je same
 
 Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork deze repository" />
 
-#### *Lees dit in [andere talen](../Translations.md)* 
+#### *Lees dit in [andere talen](../Translations.md)*
 
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
@@ -19,7 +19,7 @@ Fork deze repository door op de fork knop te klikken. Dit creëert een kopie van
 
 ## De repository clonen
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="kloon deze repository" />
 
 Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon.
 
@@ -30,7 +30,7 @@ git clone "url die je net kopieerde"
 ```
 Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="kopiëer URL naar het klipbord" />
 
 Bijvoorbeeld:
 ```
@@ -83,13 +83,13 @@ Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaa
 
 Als je naar je repository gaat op GitHub, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="creëer een pull request" />
 
 Verstuur nu je pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="verstuur je pull request" />
 
-Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een email notificatie over ontvangen.
+Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
 
 ## Je fork in sync houden met de hoofd-repository
 
@@ -99,7 +99,7 @@ Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url i
 ```
 git remote add upstream https://github.com/firstcontributions/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Wanneer de wijzigingen gemerged zijn, kun je de nieuwe versie fetchen van mijn repo.
+Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Wanneer de wijzigingen gemerged zijn, kun je de nieuwe versie ophalen (fetchen) van mijn repo.
 ```
 git fetch upstream
 ```
