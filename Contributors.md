@@ -97,6 +97,7 @@
 - [Alex Dvorkin] (https://github.com/alexeydvr)
 - [Adam Luczak](https://github.com/aluczak)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
+- [Dimosthenis Katsimardos](https://github.com/dimkatsi91)
 - [Zachary Bergeron](https://github.com/zbergus)
 - [Christian F. Sousa](https://github.com/Swifty-Sousa)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
