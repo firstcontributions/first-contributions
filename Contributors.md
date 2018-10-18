@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
@@ -3497,6 +3497,7 @@ Orandi Harris
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
+- [Bhaskar Gupta] (https://github.com/bhaskargupta98)
 - [Ryan Pluss](https://github.com/r-pluss)
 - [Anat Portnoy](https://github.com/Anat-Port)
 - [Arshad Khan](https://github.com/arshadkhan39687)
