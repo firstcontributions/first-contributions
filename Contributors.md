@@ -8326,3 +8326,4 @@ Orandi Harris
 - [segao](https://github.com/segao)
 - Connor Dowson
 - [Devon Burley](https://github.com/dburly)
+- [Qrol](https://github.com/Qrol)
