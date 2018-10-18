@@ -14,6 +14,7 @@
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
+- [Briana Baker](https://github.com/brianabaker)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
