@@ -1023,6 +1023,7 @@
 - [Amrit Khera](https://github.com/AmritK10)
 - [Kin Lam](https://github.com/alanklam)
 - [Rohit katlaa](https://github.com/rohitkatlaa)
+- [Vanessa Nimomo](https://github.com/VanessaNimmo)
 - [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Vanya Grover](https://github.com/VanyaGrover)
