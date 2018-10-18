@@ -7782,6 +7782,7 @@ Orandi Harris
 - [Shubh](https://github.com/whitehawk0011)
 - [Brent Matos](https://github.com/matosBrent)
 - [Helen Dias](https://github.com/HelenDias)
+- [Andre Adriano](https://github.com/andre000)
 - [Ahmet Terzi](https://github.com/aterzi24)
 - [Vinod J](https://github.com/VinodVJ)
 - [Antonio Yee](https://github.com/antonioyee)
