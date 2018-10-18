@@ -441,6 +441,7 @@
 - [Michael McClean](https://github.com/mdmcclean)
 - [Kasi Venkata Sai](https://github.com/kasivenkatasao)
 - [Neale Forrest](https://github.com/gumpie)
+- [Alec Marcum](https://github.com/alecnicolas)
 - [Master](https://github.com/munnikedost)
 - [Evyn Price] (https://github.com/thetechnicalfox)
 - [sandeep](https://github.com/sandeepsanjusplr)
