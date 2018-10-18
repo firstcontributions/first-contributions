@@ -6,6 +6,7 @@
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
 - [shivanshu1086](https://github.com/shivanshu1086)
+ jactober is a teck fest
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Jalaj Gupta](https://github.com/thevip799)
