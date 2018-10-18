@@ -396,7 +396,7 @@
 - nick spagnola
 - [Brian Lusina](https://github.com/BrianLusina)
 - [Yakub Babtunde](https://github.com/tyak99)
-  [Itay Finci](https://github.com//FIITAY)
+- [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Mark Bowden](https://github.com/Mb01)
