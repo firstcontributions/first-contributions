@@ -338,6 +338,7 @@
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
+- [Patrick Stepanian](https://github.com/stepanianpat)
 - [Simmar Kalsi](https://github.com/gyr0tron)
 - [Ivan De Menezes](https://github.com/ivan3101)
 - [Piyush Sharma](https://github.com/piyusharma95)
