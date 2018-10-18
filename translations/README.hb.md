@@ -126,7 +126,7 @@ git add Contributors.md
 ```
 <div dir="rtl">
   
-עכשיו, בצעו(commit) את שינויים הללו תוך שימוש בפקודת `git commit`:
+עכשיו, בצעו(`commit`) את שינויים הללו תוך שימוש בפקודת `git commit`:
 </div>
 
 ```
