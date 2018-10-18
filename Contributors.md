@@ -96,6 +96,7 @@
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
+- [Shana Maurino](https://github.com/shanamaurino)
 - [Ashu](https://github.com/ashu1999)
 - [Taylor](https://github.com/ATaylor1181/)
 - [Erick Martinez](https://github.com/ErickMtz)
