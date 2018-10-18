@@ -8368,3 +8368,4 @@ Orandi Harris
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
+- [Noa Nilsson](https://github.com/n0anilsson)
