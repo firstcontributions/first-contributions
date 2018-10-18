@@ -1,12 +1,13 @@
 # Contributors
 
-- [Thomas Smith] (https://github.com/ThomasSmithIRE)
+- [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Lee T](https://github.com/leeturnbill)
 - [Chiu](https://github.com/achiuBAE)
+- [Gabryelle Soares](https://github.com/gabsoares11)
 - [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
