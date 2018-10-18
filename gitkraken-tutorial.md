@@ -99,7 +99,7 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
