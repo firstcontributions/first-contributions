@@ -1,5 +1,13 @@
 ﻿# Contributors
+
 - [Charles Castro](https://github.com/Charstro)
+- [Daniela Solis](https://github.com/hcplsmf)
+- [Roberto E. Gonzalez](https:/github.com/whi2468)
+- [Anthony Issakhanian] (https://github.com/alanissak320)
+- [Joshua Magdaleno](https://github.com/frlzjosh) 
+- [Alejandro Mendoza](https://github.com/Alejandro4320)
+- [Joel Garcia] (https://github.com/joelgarcia1)
+- [Rodrigo Garcia](https://github.com/rgarcia804659)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Florian Mauduit](https://github.com/ftx)
@@ -441,6 +449,7 @@
 - [Michael McClean](https://github.com/mdmcclean)
 - [Kasi Venkata Sai](https://github.com/kasivenkatasao)
 - [Neale Forrest](https://github.com/gumpie)
+- [Alec Marcum](https://github.com/alecnicolas)
 - [Master](https://github.com/munnikedost)
 - [Evyn Price] (https://github.com/thetechnicalfox)
 - [sandeep](https://github.com/sandeepsanjusplr)
@@ -8203,3 +8212,4 @@ Orandi Harris
 - [Jonathan Markman](https://github.com/jmarkman)
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
+- [Jazmin Perez](https://github.com/jaz24)
