@@ -8395,3 +8395,4 @@ Orandi Harris
 - [Aviv Ben Yosef](https://github.com/avivbyo)
 - [Klaudia](https://github.com/klaudiakp)
 - [Darkatom](https://github.com/Darkatom)
+- [Aaron Shannon](https://github.com/aarondshan)
