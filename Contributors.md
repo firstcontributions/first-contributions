@@ -1395,6 +1395,7 @@
 - [James McCarthy](https://github.com/jmccarth)
 - [Rory McLaughlin](https://github.com/TXredking)
 - [Juliana Cynthia](https://github.com/jaycynth)
+- [Raigo Jerva](https://github.com/rudotriton)
 - [Anthony Serrano](https://github.com/aserrabi)
 - [Arnon Danon](https://github.com/ArnonDanon)
 - [Troy Udarbe](https://github.com/tjudarbe)
