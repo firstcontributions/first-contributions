@@ -5391,6 +5391,7 @@ Orandi Harris
 - [Stephen Lin](https://github.com/stephenlin35)
 - [Annie Rose Webb](https://github.com/arwebb)
 - [Michael Hathi](https://github.com/numerative)
+- [Shane Rafferty](https://github.com/ShaneKainos)
 - [Michael Blair](https://github.com/Fortyonehertz)
 - [Jessica Yin](https://github.com/jeqyin)
 - [Himanshu Saini](https://github.com/saini-himanshu)
