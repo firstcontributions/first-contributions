@@ -1,5 +1,6 @@
 ﻿# Contributors
- 
+
+- [Charles Castro](https://github.com/Charstro)
 - [Daniela Solis](https://github.com/hcplsmf)
 - [Roberto E. Gonzalez](https:/github.com/whi2468)
 - [Anthony Issakhanian] (https://github.com/alanissak320)
