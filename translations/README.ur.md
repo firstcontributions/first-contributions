@@ -19,22 +19,21 @@
 <a href="https://help.github.com/articles/set-up-git/">انسٹال کریں</a>
 </div>
 
-## <div dir="rtl"> اس گودام کوفورک کریں </div>
+## <div dir="rtl"> اس مخزن کوفورک کریں </div>
 <div dir="rtl">
 اس صفحے کے سب سے اوپر فورک بٹن دبا کر اس گودام کا استعمال کریں.
 <img style="float: left" width="300" src="../assets/fork.png" alt="اس گودام کوفورک کریں" />
 <br />
-یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
+یہ آپ کے کھاتے میں اس کی ایک نقل بناے گا۔.
 </div>
 
-## <div dir="rtl"> ذخیرے کا کلون کجیے </div>
+## <div dir="rtl"> مخزن کی شبیه بنایے </div>
 
 <div dir="rtl">
-اب آپ اپنی مشین پر یہ ریپو کلون کریں.
+اب آپ اپنی مشین پر اس مخزن کی شبیه بنایے.
 </div>
-<img style="float: left;" width="300" src="../assets/clone.png" alt="ذخیرے کا کلون کجیے" />
-<div dir="rtl">
- کلون بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
+<img style="float: left;" width="300" src="../assets/clone.png" alt="مخزن کی شبیه بنایے" />
+<div dir="rtl">  شبیه(Clone) بٹن کو دبائیں اور پھر "copy to clipboard" آئیکن کو دبائیں۔
 </div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="یوآرایل کلپ بورڈ پر کاپی کریں" />
 <div dir="rtl">
