@@ -1,5 +1,6 @@
 ﻿# Contributors
  
+- [Daniela Solis](https://github.com/hcplsmf)
 - [Roberto E. Gonzalez](https:/github.com/whi2468)
 - [Anthony Issakhanian] (https://github.com/alanissak320)
 - [Joshua Magdaleno](https://github.com/frlzjosh) 
