@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Alaa Jerbi] (https://github.com/alaajerbi)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
