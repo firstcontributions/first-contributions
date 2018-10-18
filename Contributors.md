@@ -12,6 +12,7 @@
 - [Karen Tobo](https://github.com/karentobo)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnun)
+- [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
