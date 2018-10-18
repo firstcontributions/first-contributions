@@ -5452,6 +5452,7 @@ Harish Indla
 - [Apoorv Tomar](https://github.com/apoorvtomar2222)
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
+- [Rafal Kruk](https://github.com/rkruk)
 - [Nkoro Joeph](https://github.com/nkorojoseph)
 - [Joshua Pacana](https://github.com/JPacana)
 - [sagivd](https://github.com/sagivd)
@@ -6231,4 +6232,3 @@ Harish Indla
 - [Ayush Agrawal] (https://github.com/ayush1507)
 - [Dan Postelnicu](https://github.com/kolapsys)
 - [Hadnazzar](https://github.com/hadnazzar)
-- [Rafal Kruk](https://github.com/rkruk)
