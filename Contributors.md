@@ -8421,3 +8421,4 @@ Orandi Harris
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [a-ray](https://github.com/a-ray) 
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
+- [Julien Maitrehenry](https://github.com/jmaitrehenry)
