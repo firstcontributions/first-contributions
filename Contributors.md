@@ -8402,3 +8402,4 @@ Orandi Harris
 - [Darkatom](https://github.com/Darkatom)
 - [Aaron Shannon](https://github.com/aarondshan)
 - [Vladimir Pavlovic](https://github.com/vlada1001)
+- [Harsh Shah](https://github.com/harshvshah)
