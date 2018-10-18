@@ -74,6 +74,7 @@
 - [Vast Peng](https://github.com/keatingsmith)
 - [Archit Singla](https://github.com/architsingla13)
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
+- [Julie Martin](https://github.com/juliebugmtl)
 - [Sumanth Kumar Nayak](https://github.com/sumanth0904)
 - [Shawn Flores](https://github.com/priultimus)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
