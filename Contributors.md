@@ -7,6 +7,7 @@
 - [Florian Mauduit](https://github.com/ftx)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Lee T](https://github.com/leeturnbill)
+- [Calvin Golas](https://github.com/CalvinGolas)
 - [David Chandra](https://github.com/davidchandra95)
 - [Chiu](https://github.com/achiuBAE)
 - [Gabryelle Soares](https://github.com/gabsoares11)
