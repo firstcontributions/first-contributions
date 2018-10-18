@@ -61,6 +61,7 @@
 - Malipeddi Jitesh
 - Shani Rub
 - wrecKING Tsukinoryoshu
+- [Dominik Blek](https://github.com/zybex86)
 - [Estevao Moreno](https://github.com/estevaoTm)
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
