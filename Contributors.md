@@ -697,6 +697,7 @@
 - [<Explorer />](https://github.com/open-source-explorer)
 - [josephttran]()
 - [Karthick aravindan](https;//github.com/12345k)
+- [Amr Bakry](https://github.com/amrrbakry)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
 - [Chitranshu Srivastava](https://github.com/chitranshu651)
