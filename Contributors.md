@@ -203,6 +203,7 @@
 - [Neo Cho](https://github.com/neocho)
 - [MajhiRockzZ](https://github.com/MajhiRockzZ)
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
+- [Bhanu Teja Kodali](https://github.com/bhanutejabt)
 - [Bharath Shendre](https://github.com/shendrekbharath)
 - [Foxar](https://github.com/Foxar)
 - [Derpyhsi](https://github.com/Derpyhsi)
