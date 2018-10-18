@@ -96,6 +96,7 @@
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Ashu](https://github.com/ashu1999)
+- [Taylor](https://github.com/ATaylor1181/)
 - [Erick Martinez](https://github.com/ErickMtz)
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
