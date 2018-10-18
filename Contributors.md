@@ -527,6 +527,7 @@
 - [Daniel Menachem](https://github.com/doom3007)
 - [jhartkopf](https://github.com/jhartkopf)
 - [Brennen Green](https://github.com/brennengreen)
+- [Prakhar Gupta](https://github.com/pg8469)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
 - [Penthaa Patel](https://github.com/penthaapatel)
