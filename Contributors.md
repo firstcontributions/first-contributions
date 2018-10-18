@@ -8292,3 +8292,5 @@ Orandi Harris
 - [Gulcan Baran](https://github.com/gulcann)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
+
+- [DJ Ritchey](https://github.com/ritchey0713)
