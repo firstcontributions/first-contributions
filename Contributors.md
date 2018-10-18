@@ -1,5 +1,5 @@
 # Contributors
-
+- [Javier Barrera](https://github.com/javierb256)
 - [Thomas Smith] (https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
