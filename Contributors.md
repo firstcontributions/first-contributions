@@ -577,7 +577,7 @@
 - Evan Rives
 - maskedCat
 - [Yixian Chen](https://github.com/yxnchen)
-- [Rushit Jasani](https://github.com/rushitjasani)  
+- [Rushit Jasani](https://github.com/rushitjasani)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Brandon Thibeaux](https://github.com/thibeaux)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
@@ -8239,6 +8239,7 @@ Orandi Harris
 - [Fesia Cindy](https://github.com/FesiaCindy99)
 - [Jedsada Tiwongvorakul](https://github.com/T-Jedsada)
 - [syahrinka](https://github.com/syahrinka)
+- [Nap Joseph Calub](https://github.com/njncalub)
 - [Nayan Das](https://github.com/Nayan-Das)
 - [Richard Huang](https://github.com/aeolyus)
 - [Thanawit Gerdprasert](https://github.com/carymono)
