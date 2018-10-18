@@ -90,6 +90,7 @@
 - [Christian F. Sousa](https://github.com/Swifty-Sousa)
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano](https://github.com/vicase)
+- [David Potter](https://github.com/potter-potter)
 - [Amy Lei](https://github.com/AmyLei96)
 - [Naman Goyal](https://github.com/namangoyal172)
 - [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)
