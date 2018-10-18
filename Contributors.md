@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
