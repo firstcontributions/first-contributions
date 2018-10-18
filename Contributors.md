@@ -8375,6 +8375,7 @@ Orandi Harris
 - [Chris Webster](https://github.com/whycantidraw)
 - [Grant Fogle](https://github.com/grantfogle)
 - [phaneendrababu](https://github.com/phaneendrababu)
+- [Nazmi feeroz](https://github.com/nazmifeeroz)
 - [Japin Li](https://github.com/japinli)
 -sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
