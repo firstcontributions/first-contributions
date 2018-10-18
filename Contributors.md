@@ -8219,3 +8219,4 @@ Orandi Harris
 - [Xander Grzywinski](https://github.com/salaxander)
 -[Karishma](https://github.com/karishmaCoder)
 -[javathunderman](https://github.com/javathunderman)
+- [Alec Bailey] (https://github.com/Alec-Bailey)
