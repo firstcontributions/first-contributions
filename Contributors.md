@@ -1269,6 +1269,7 @@
 - [Niks Arora](https://github.com/niksofficial)
 - [astrofowl](https://github.com/astrofowl)
 - [Joy GM](https://github.com/royranger)
+- [Scott Ream](https://github.com/robotshateme)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
 - [Amanda Slavinsky](https://github.com/amandaslav)
@@ -1302,4 +1303,3 @@
 - [Sanjay Tharagesh](https://github.com/sanjaytharagesh31)
 - [Fabian Erdmann](https://github.com/FabzAn)
 - [S Ramakrishnan](https://github.com/sramakrishnan247)
-- [Scott Ream](https://github.com/robotshateme)
