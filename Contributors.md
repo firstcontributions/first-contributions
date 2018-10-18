@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Thomas Smith] (https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
@@ -43,6 +43,7 @@
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
+- [Parth Manhas](https://github.com/ishouldcode)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
