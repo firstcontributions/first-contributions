@@ -31,6 +31,7 @@
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
+- [Massimo7](https://github.com/Massimo7)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Calvin Golas](https://github.com/CalvinGolas)
