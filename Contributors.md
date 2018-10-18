@@ -92,6 +92,7 @@
 - [Nicholas Carnival](https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [punisher](https://github.com/punisherpbb)
+- [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Dhiraj Kalita](https://github.com/dhrjklt)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
