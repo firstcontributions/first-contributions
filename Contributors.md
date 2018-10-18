@@ -74,6 +74,7 @@
 - [ShubU](http://github.com/shubu)
 - [punisher](https://github.com/punisherpbb)
 - [Lakshay Wadhwa](http://github.com/luck-u)
+- [Dhiraj Kalita](https://github.com/dhrjklt)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Archit Singla](https://github.com/architsingla13)
