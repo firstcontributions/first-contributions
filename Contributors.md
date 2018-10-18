@@ -124,6 +124,7 @@
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
+- [Nick Foley](https://github.com/foleyn2)
 - [ShubU](http://github.com/shubu)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
