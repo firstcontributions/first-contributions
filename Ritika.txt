@@ -1,0 +1,17 @@
+#! /bin/bash
+a=20
+b=4
+echo "enter 1 to add"
+echo "2 for sub"
+echo "3 for div"
+echo "4 for multi"
+echo "enter choice"
+read ch
+case "$ch" in
+1) echo $(($a+$b));;
+2) echo $(($a-$b));;
+3) echo $(($a/$b));;
+4) echo $(($a*$b));;
+*) echo "invalid choice";;
+esac
+
