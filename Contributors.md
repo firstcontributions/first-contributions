@@ -8366,3 +8366,4 @@ Orandi Harris
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Emily McNair](https://github.com/mistymayem)
+- [Ludwig Guerin](https://github.com/Voltra)
