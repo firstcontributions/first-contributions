@@ -8165,6 +8165,7 @@ Orandi Harris
 - [Sten Marius](https://github.com/stho01)
 - [Neolas67](https://github.com/Neolas67)
 - [MatteoAzzarelli](https://github.com/MatteoAzzarelli)
+- [Mike Perry Y. Attara](https://github.com/mikeattara)
 - [Ginhton](https://github.com/ginhton)
 - [Mohita Bipin](https://github.com/VoxEtMohita)
 - [Paul McGrath](https://github.com/heypaulmcgrath)
