@@ -59,6 +59,7 @@
 - [Ashwin Kain](https://github.com/Ashwin-Kapes)
 - [YamitSi](https://github.com/yamitsi)
 - [Lexuv2](https://github.com/lexuv2)
+- [Abdulbayz](https://github.com/Bayz1)
 - [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [Evaldas Stanelis](https://github.com/m4rx/)
