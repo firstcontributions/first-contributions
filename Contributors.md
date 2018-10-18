@@ -8369,6 +8369,7 @@ Orandi Harris
 -[javathunderman](https://github.com/javathunderman)
 - [Alec Bailey] (https://github.com/Alec-Bailey)
 - [William Francis](https://github.com/WilliamJohnFrancis)
+- [Mariana Brito](https://github.com/BritoMari)
 - [Luis Espinal](https://github.com/lespinalrivera)
 - [Chris Webster](https://github.com/whycantidraw)
 - [Grant Fogle](https://github.com/grantfogle)
