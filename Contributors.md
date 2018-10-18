@@ -8278,3 +8278,4 @@ Orandi Harris
 - [Tan Nguyen](https://github.com/ngtan)
 - [Bhavy Singh](https://github.com/bhavybarca)
 - [Tom Braul](https://github.com/tombraul)
+- [Eoin McCoy](https://github.com/yoghurt1)
