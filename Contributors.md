@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -3998,6 +3998,7 @@ Orandi Harris
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
 - [Ivan Tran](https://github.com/ptran213)
+- [Petr Todorov](https://github.com/PetrTodorov)
 - [Hannarae Nam](https://github.com/hannaraenam)
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
