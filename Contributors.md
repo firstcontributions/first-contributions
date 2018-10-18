@@ -7206,6 +7206,7 @@ Orandi Harris
 - [Hassaan Rafique](https://github.com/hassaanseeker)
 - [Copeland♥Corley](https://github.com/CopelandCorley)
 - [Mridul Aggarwal](https://github.com/Mridul97)
+- [Naren Bakshi](https://github.com/narenbakshi97)
 - [Naomi C.](https://github.com/naomi-rc)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
