@@ -22,6 +22,7 @@
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
+[Jose Hernandez](https://github.com/JHernandez99)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Briana Baker](https://github.com/brianabaker)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
