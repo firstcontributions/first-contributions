@@ -16,6 +16,7 @@ Arnel Forbes
 - [Aris Nguyen](https://github.com/arisng)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
+- [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Brian Barry](https://github.com/bribarry)
