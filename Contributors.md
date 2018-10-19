@@ -36,6 +36,7 @@ Arnel Forbes
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Griffin Gaeth](https://github.com/ggaeth)
 - [Karen Tobo](https://github.com/karentobo)
+- [Kelvin Romero](https://github.com/kelvinromero)
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnuni)
