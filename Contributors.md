@@ -371,6 +371,7 @@ Arnel Forbes
 - [Anurag Kumar](https://github.com/kgloc)
 - [Teja Swaroop Arukoti](https://github.com/TejaSwaroopArukoti)
 - [Mitchell Fensome](https://github.com/kingcoconut332)
+- [Ryan Chan](https://github.com/ryanchanplc)
 - [Omer BAHADIR](https://github.com/thedeepocean)
 - [Michael Wahba](https://github.com/mwahba13)
 - [Anders Holt Knudsen] (https://github.com/anders2410)
