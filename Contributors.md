@@ -255,6 +255,7 @@ Edison Shek
 - [Marco Boncoraglio] (https://github.com/marcoboncoraglio)
 - [Lam Lieu](https://github.com/LamLieu)
 - [A Mosh](https://github.com/test)
+- [Taraj B](https://github.com/tarajb)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Matt Degraffenreid] (https://github.com/matt-degraffenreid)
 - [Jon Jee](https://github.com/jonjee/)
