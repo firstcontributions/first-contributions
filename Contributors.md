@@ -6175,6 +6175,7 @@ Orandi Harris
 - [JT Mark](https://github.com/JT-Mark)
 - [Jasper Chong](https://github.com/jasperchong)
 - [Yousef Saif](https://github.com/yousefsaif)
+- [Brian Chalfant](https://github.com/chalfeezy)
 - [Emil O. Johansen](https://github.com/EmilOJ)
 - [Leo Esp](https://github.com/lespenilla)
 - [Doug Dozier](https://github.com/ddozier)
