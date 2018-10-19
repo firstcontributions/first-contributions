@@ -171,6 +171,7 @@
 - [Sachithra  Rathnayake](https://github.com/SachithraRathnayake)
 - [Victor Castro Serrano](https://github.com/vicase)
 - [David Potter](https://github.com/potter-potter)
+- [Chung Kang](https://github.com/tofuninjah)
 - [Kyle Connelly](https://github.com/kyluca)
 - [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
