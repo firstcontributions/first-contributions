@@ -7815,6 +7815,7 @@ Orandi Harris
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
 - [Caio Augusto](https://github.com/caioag)
+- [Eve Mendelevich] (https://github.com/mendelevich)
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
