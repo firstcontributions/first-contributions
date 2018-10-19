@@ -13,7 +13,6 @@
 - Shani Rub
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
-- [Malsha] (https://github.com/malshanishadini)
 - [Ashu](https://github.com/ashu1999)
 - [Erick Martinez](https://github.com/ErickMtz)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
@@ -888,6 +887,7 @@
 - [Manish Sharma](https://github.com/Manish17292000)
 - [Siddharth Naithani](https://github.com/sn99)
 - [Manthan Keim](https://github.com/ManthanKeim)
+- [Malsha](https://github.com/malshanishadini)
 - [Jose Garrido](https://github.com/josej30)
 - [Achiv Chauhan](https://github.com/achiv)
 - [W Y](https://github.com/WYCodeBook)
