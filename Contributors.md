@@ -8609,3 +8609,4 @@ Orandi Harris
 - [Xavier Marques] (https://github.com/wolframtheta)
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Crewsy](https://github.com/crewsycrews)
+- [Junior Pereira](https://github.com/pereiraJr)
