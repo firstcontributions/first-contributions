@@ -8647,4 +8647,5 @@ Orandi Harris
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
+- [Helder Goncalves](https://github.com/helderhacks)
 
