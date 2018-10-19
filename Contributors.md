@@ -8477,3 +8477,4 @@ Orandi Harris
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
 - [Priyendu Mori](https://github.com/priyendumori)
+- [Anandu B Ajith](https://github.com/anandubajith)
