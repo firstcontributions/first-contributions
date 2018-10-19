@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
-- [Pergamon256](https://github.com/Pergamon256)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
@@ -561,7 +560,8 @@
 - [Evyn Price] (https://github.com/thetechnicalfox)
 - [sandeep](https://github.com/sandeepsanjusplr)
 - [Said Garcia](https://github.com/saidg23)
-  [karviesays](https://github.com/karviesays)
+- [karviesays](https://github.com/karviesays)
+- [Pergamon256](https://github.com/Pergamon256)
 - [Sudhanshu](https://github.com/capreyon)
 - [Mahesh Tudu](https://github.com/mahis929)
 - [Manikant](https://github.com/mmani9199)
