@@ -8566,6 +8566,7 @@ Orandi Harris
 - [Pratish Katiyar](https://github.com/pratishk28)
 - [Riablo](https://github.com/Riablo)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
+- [Dzung Le](https://github.com/dzunglt24)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia] (https://github.com/Exvilia)
