@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -1633,6 +1633,7 @@
 - [Jithu Nair](https://github.com/JithuNair)
 - [Asmin Budha](https://github.com/AsminBudha)
 - [Priyesh](https://github.com/Priyeshpandey)
+- [Kurses](https://github.com/kurses)
 - [Shubham Tarade](https://github.com/coder-shanks)
 - [Rawan Moukalled](https://github.com/RawanMoukalled)
 - [Pawan Kumar](https://github.com/Pawank221)
