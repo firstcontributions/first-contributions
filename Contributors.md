@@ -13,6 +13,7 @@ Arnel Forbes
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
+- [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [Aris Nguyen](https://github.com/arisng)
