@@ -5,6 +5,7 @@
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
+- [Umar](https://github.com/umar2731)
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Deepak Sood](https://github.com/deepaksood619)
@@ -43,7 +44,7 @@ Arnel Forbes
 - [epiphian](https://github.com/epiphian)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
-- [Elia Grego](https://github.com/eliagrego)\
+- [Elia Grego](https://github.com/eliagrego)
 - [Nahid Fatma](https://github.com/nfatma)
 - [Saheel Ahmed](https://github.com/7saheelahmed)
 - [Pankhurt] (https://github.com/Pankhur)
