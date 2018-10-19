@@ -1,5 +1,5 @@
 # Contributors
-
+- [Neza B](https://github.com/nezab)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [MC_Leut](https://github.com/MCLeut)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
