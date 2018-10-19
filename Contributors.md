@@ -216,6 +216,7 @@ Arnel Forbes
 - [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
+- [Abhishek Verma](https://github.com/lightningedge007a)
 - [Naman Goyal](https://github.com/namangoyal172)
 - [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
