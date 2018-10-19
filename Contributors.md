@@ -6499,6 +6499,7 @@ Orandi Harris
 - [Fueoui Filetto](https://github.com/fueoui)
 - [Guang-yi "Mike" Lee](https://github.com/guang-yi)
 - [Jefferson Ighalo](https://github.com/jeffersonnnn)
+- [Eduardo Lauer](https://github.com/edumlauer)
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
 - [Elio Ramiro Flores Choque](https://github.com/erfc993)
