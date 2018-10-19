@@ -209,7 +209,8 @@
 - [Mohsen Yazdani](https://github.com/imyazdani)
 - [Sayed Hamdi](https://github.com/sayedhamdi)
 - [gcstang](https://github.com/gcstang)
-- [Ashish](https://github.com/UchihaItachi883)s
+- [Ashish](https://github.com/UchihaItachi883)
+- [Rohit Kashyap]()
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Franklin Wang](https://github.com/fxwang)
