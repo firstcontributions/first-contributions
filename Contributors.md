@@ -7875,6 +7875,7 @@ Orandi Harris
 - [Tanmay Kumar Bisoi](https://github.com/PseudoNerd)
 - [armoredelephant](https://github.com/armoredelephant)
 - [Ramy Gamal](https://github.com/Raamyy)
+- [Nixon Kosgei](https://github.com/nickhq)
 - [Max Rugen](https://github.com/maxrugen)
 - [ttapar](https://github.com/ttapar)
 - [Charlie Rizor](https://github.com/Shakespeares-Ghost)
