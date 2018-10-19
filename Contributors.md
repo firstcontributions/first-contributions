@@ -632,6 +632,7 @@ Arnel Forbes
 - [Prakhar Gupta](https://github.com/pg8469)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
+- [Marijke Meersman] (https://github.com/MarijkeM)
 - [Penthaa Patel](https://github.com/penthaapatel)
 - [Anushka Svara](https://github.com/dumbcoder2399)
 - [Katie Snell](https://github.com/katieisnell)
