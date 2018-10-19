@@ -8456,3 +8456,4 @@ Orandi Harris
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
+- [Farzan F A](https://github.com/Farzanfa)
