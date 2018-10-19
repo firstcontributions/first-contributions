@@ -281,6 +281,7 @@ Edison Shek
 - [Rohit Kashyap]()
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
+- [Reme Le Hane](https://github.com/RemeJuan)
 - [Franklin Wang](https://github.com/fxwang)
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
 - [Alex Kluger](42947972+AKluger@users.noreply.github.com)
