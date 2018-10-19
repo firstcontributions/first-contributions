@@ -7683,6 +7683,7 @@ Orandi Harris
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
+- [Orasz](https://github.com/Orasz)
 - [Michael Peng](https://github.com/michaelpeng)
 - [Onkar Pandit](https://github.com/onkarpandit)
 - [Mridul Agarwal](https://github.com/mridul2899)
