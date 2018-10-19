@@ -171,6 +171,7 @@ Arnel Forbes
 - [Priyal Narang](https://github.com/PriyalNarang)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
+- [Lohit Peesapati](https://github.com/l0h1t)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Rafael Faria](https://github.com/rafaellfaria)
 - [Anjanna Ramesh](https://github.com/Anjanna)
