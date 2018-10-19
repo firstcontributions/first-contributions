@@ -27,6 +27,7 @@ Arnel Forbes
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
+- [Griffin Gaeth](https://github.com/ggaeth)
 - [Karen Tobo](https://github.com/karentobo)
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
