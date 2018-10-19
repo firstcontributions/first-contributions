@@ -10,7 +10,6 @@
 - [Warushika](https://github.com/warushika)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
-- [Nabanita Dash](https://github.com/Naba7)
 - [Ashu](https://github.com/ashu1999)
 - [Erick Martinez](https://github.com/ErickMtz)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
@@ -860,6 +859,7 @@
 - [Casey-McCray](https://github.com/Casey-McCray)
 - [Smaranda](https://github.com/sdersc)
 - [Dan Pham](https://github.com/hdp617)
+- [Nabanita Dash](https://github.com/Naba7)
 - [Ranjan Kumar](https://github.com/RanjanDharmraj)
 - [Taylor Flagg](https://github.com/Tflagg97)
 - [Mesagoh]()
