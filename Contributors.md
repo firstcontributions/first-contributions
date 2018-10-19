@@ -297,7 +297,6 @@
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Rakesh Pavan](https://github.com/Rakeshpavan333)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
-- [Braxton Fair](https://github.com/taxborn)
 - [Kash D](https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
@@ -8449,3 +8448,4 @@ Orandi Harris
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
+- [Roger Vieira](https://github.com/rogervieiraa)
