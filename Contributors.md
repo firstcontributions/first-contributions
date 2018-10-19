@@ -19,6 +19,7 @@ Arnel Forbes
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Vineet Yadav ](https://github.com/vineet8588)
+- [J.R. Strayhorn ](https://github.com/jrstrayhorn)
 - [Aris Nguyen](https://github.com/arisng)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
