@@ -8465,3 +8465,4 @@ Orandi Harris
 - [Joshua Aquino](https://github.com/joshdaquino)
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Brandon Pierce](https://github.com/bp-driptorch)
+- [Bill Xi](https://github.com/element-sauce)
