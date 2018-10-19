@@ -8464,3 +8464,4 @@ Orandi Harris
 - [Joshua Aquino](https://github.com/joshdaquino)
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Brandon Pierce](https://github.com/bp-driptorch)
+- [Sebastien Bossoutrot](https://github.com/SebBossoutrot)
