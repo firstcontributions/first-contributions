@@ -20,6 +20,7 @@ Arnel Forbes
 - [H Shay](https://github.com/H-Shay)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Karen Tobo](https://github.com/karentobo)
+- [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnuni)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
