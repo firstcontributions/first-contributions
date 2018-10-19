@@ -2,6 +2,7 @@
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 Arnel Forbes
+- [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
