@@ -44,6 +44,7 @@ Arnel Forbes
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
+- [Rishabh Sharma]
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)\
@@ -8660,4 +8661,5 @@ Orandi Harris
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
+- [Freeda Vales](https://github.com/fvales)
 - [Afdrian Juarlin](https://github.com/mamaM4U)
