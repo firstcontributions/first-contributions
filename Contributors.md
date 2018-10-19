@@ -8457,3 +8457,4 @@ Orandi Harris
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
+- [Michelle Vick](https://github.com/vivega-mv)
