@@ -8434,3 +8434,4 @@ Orandi Harris
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Estefy Calderon](https://github.com/estefycp)
+- [Simon Situ](https://github.com/ssitu001)
