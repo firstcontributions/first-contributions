@@ -74,6 +74,7 @@ Edison Shek
 - [Kumar Kartikeya](https://github.com/kkartikeya1998)
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
+- [Giancarlo] (https://github.com/GCa)
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
