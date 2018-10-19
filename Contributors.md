@@ -8627,6 +8627,7 @@ Orandi Harris
 - [Yongho Lee](https://github.com/inthewalter)
 - [segao](https://github.com/segao)
 - [Anand P](https://github.com/anandpaithankar)
+- [Vikrant Srivastava](https://github.com/srivkrnt)
 - Connor Dowson
 - [Josh Cavinder](https://github.com/josh-cavinder)
 - [Devon Burley](https://github.com/dburly)
