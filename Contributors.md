@@ -8139,6 +8139,7 @@ Orandi Harris
 - [Danilo Arantes](https://github.com/daniloarantes)
 - [Dave v. Duivenbode](https://github.com/Sefiris)
 - [Davide Briani](https://github.com/theworm)
+- [Jhang Chaussy](https://github.com/lumpenstein)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [Maria Rayana](https://github.com/mrayana)
