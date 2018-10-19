@@ -4318,6 +4318,7 @@ Orandi Harris
 - [Yiwen Lux](https://github.com/yiwen-lux)
 - [Vedhachala](https://github.com/Vedhachala)
 - [Norman Kloeber](https://github.com/icekult)
+- [James Stratford](https://github.com/jcts3)
 - [migomlevi](https://github.com/migomlevi)
 - [senbihan](https://github.com/senbihan)
 - [Taasin Saquib](https://github.com/taasinsaquib)
