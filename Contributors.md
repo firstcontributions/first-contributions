@@ -50,6 +50,7 @@ Arnel Forbes
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
+- [Saranraj Sekar](https://github.com/saran-thala)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
