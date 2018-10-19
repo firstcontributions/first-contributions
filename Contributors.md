@@ -5963,6 +5963,7 @@ Orandi Harris
 - [Lloyd Edwards](https://github.com/meanlamp)
 - [Josh Burton](https://github.com/jburton8686)
 - [Tim Teal](https://github.com/timteal)
+- [jacknash](https:github.com/jacknash)
 - [Kunwarpreet Singh](https://github.com/kunwarpreetnarang)
 - [Akash Dobaria](https://github.com/akashdobaria)
 - [Matt Strickland](https://github.com/mstrick7)
