@@ -7364,6 +7364,7 @@ Orandi Harris
 - [Mridul Aggarwal](https://github.com/Mridul97)
 - [Naren Bakshi](https://github.com/narenbakshi97)
 - [Naomi C.](https://github.com/naomi-rc)
+- [Ramiro Andrés Bedoya](https://github.com/whistler092)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
 - [Berzee](https://github.com/Berzee)
@@ -8621,4 +8622,4 @@ Orandi Harris
 - [Gabriel Tha](https://github.com/GabrielTha)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
-- [Ramiro Andrés Bedoya](https://github.com/whistler092)
+
