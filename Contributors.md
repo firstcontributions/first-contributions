@@ -4094,6 +4094,7 @@ Orandi Harris
 - [Bjoern Baertschi](https://github.com/bisbeb)
 - [A Idris](https://github.com/a-idris)
 - [Paul No?l](https://github.com/poelon)
+- [Trey Neshyba](https://github.com/trrrey)
 - [Chris Warren](https://github.com/cwar)
 - [Jamal Taylor](https://github.com/Louis345)
 - [Evan LeValley](https://github.com/holmcross)
