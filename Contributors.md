@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -46,6 +46,7 @@
 - [David Chandra](https://github.com/davidchandra95)
 - [Murat Kurnaz](https://github.com/KtrauM)
 - [Chiu](https://github.com/achiuBAE)
+- [HuyHoangPhi] (https://github.com/HoangHuyPhi)
 - [Gabryelle Soares](https://github.com/gabsoares11)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [Charvi](https://github.com/cm7799)
