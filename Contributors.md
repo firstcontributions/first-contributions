@@ -8389,6 +8389,7 @@ Orandi Harris
 -[Kolomu](https://github.com/kolomu)
 -[Rachit Pahwa](https://github.com/rachitpahwa08)
 -[sanspace](https://github.com/sanspace)
+-[Gopal Krishna](https://github.com/gokriznastic)
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
 - [Griffin Maxwell](https://github.com/GriffinMaxwell)
