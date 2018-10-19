@@ -6099,6 +6099,7 @@ Orandi Harris
 - [Will Cole](https://github.com/wcolejordan)
 - [Divya Muralidharan](https://github.com/divya-muralidharan-a)
 - [Phoenix Campos](https://github.com/pacampos)
+- [Marcelo Mogueira](https://www.github.com/locemarn)
 - [Cesar Palacios](https://github.com/Clpalacios)
 - [Jonathan Guerrero](https://github.com/guerjon/first-contributions)
 - [John Yzaguirre](https://github.com/sojohnnysaid)
