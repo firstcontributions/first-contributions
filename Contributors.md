@@ -593,6 +593,7 @@ Arnel Forbes
   [karviesays](https://github.com/karviesays)
 - [Sudhanshu](https://github.com/capreyon)
 - [Mahesh Tudu](https://github.com/mahis929)
+- [Chuong Tran](https://github.com/chuongtrh)
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
 - [Emil Kollstrom](https://github.com/kollstrom)
