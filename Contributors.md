@@ -423,7 +423,7 @@ Arnel Forbes
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Maureen Haley](https://github.com/haleyma)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
-- [Gaurav Kukade] (https://github.com/gauravkukade)
+- [Gaurav Kukade](https://github.com/gauravkukade)
 - [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora] (https://github.com/hotshot07)
 - [Kim](https://github.com/kimmeccsb)
