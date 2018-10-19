@@ -8442,3 +8442,4 @@ Orandi Harris
 - [Simon Situ](https://github.com/ssitu001)
 - [Wei](https://github.com/weichenw)
 - [Shnibl](https://github.com/shnibl)
+- [Adam Freeman](https://github.com/adamfr33man)
