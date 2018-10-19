@@ -42,7 +42,6 @@ Arnel Forbes
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
-- [Dusan Pilipovic](https://github.com/razzil1)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
@@ -185,6 +184,7 @@ Edison Shek
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [Amaan Kulshreshtha](https://github.com/AmaanKulshreshtha)
 - [Yug Shah] (https://github.com/Yug-Shah)
+- [Dominik Gils] 
 - [AnnChar](https://github.com/annchar)
 - [Sara](https://github.com/SaraBon)
 - [David Adegoke](https://github.com/dhaveed)
