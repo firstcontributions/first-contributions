@@ -1,6 +1,6 @@
 # Stashing
 
-What if you are working on a big code and suddenly you need to switch the branch from which you are currently working on to some other branch. Since the code, is not complete, and without any tests, you probably don't want to commit it. But you cannot move to the other branch without committing the changes, Git won't let you break this flow. What do we do then? How do we prevent an unnecessary commit, while being able to jump branches? This is what this tutorial covers.
+What if you are working on a big code and suddenly you need to switch the branch from which you are currently working on to some other branch? The code may not be complete and you probably don't want to commit it without any tests. But you cannot move to the other branch without committing the changes since Git won't let you break this flow. What do we do then? How do we prevent an unnecessary commit, while being able to jump branches? This is what this tutorial covers.
 
 ## Stashing your work
 
