@@ -2,6 +2,7 @@
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
+- [Christina Shafer](https://github.com/ChristinaShafer)
 - [MC_Leut](https://github.com/MCLeut)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
