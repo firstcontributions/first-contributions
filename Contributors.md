@@ -183,6 +183,7 @@
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Oluwakorede Fashokun](https://github.com/korede360)
+- [Shane Wilson](https://github.com/mistyferocity43)
 - [Anshu Kumar](https://github.com/Anshuvats)
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
