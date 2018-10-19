@@ -3670,6 +3670,7 @@ Orandi Harris
 - [Dipti Kulkarni](https://github.com/cyberdrk)
 - [Graham Beekamn](https://github.com/gbeekman)
 - [Utkarsh Deep](https://github.com/utkarshdeep)
+- [Manoel Neto](https://github.com/manoelneto-dev)
 - [Hannah(lifesizerobot)](https://github.com/lifesizerobot)
 - [justjavac](https://github.com/justjavac)
 - [Jeffrey Ho](https://github.com/Jeffrey-Ho)
