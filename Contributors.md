@@ -31,6 +31,7 @@ Arnel Forbes
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnuni)
+- [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
