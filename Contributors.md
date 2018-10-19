@@ -8196,6 +8196,7 @@ Orandi Harris
 - [1337k0d3r](https://github.com/1337k0d3r)
 - [Koh You Liang](https://github.com/isopach)
 - [tuj1mura](https://github.com/tuj1mura)
+- [Pavit Kaur](http://github.com/PavitKaur05)
 - [Martin Vds](https://github.com/MartinVandersteen)
 - [Alexander Jackson](https://github.com/nantangitan)
 - [pittyi2nd](https://github.com/pittyi2nd)
