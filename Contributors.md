@@ -9,6 +9,7 @@ Arnel Forbes
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
+- [Aris Nguyen](https://github.com/arisng)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
