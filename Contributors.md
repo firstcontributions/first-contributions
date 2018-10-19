@@ -8693,4 +8693,4 @@ Orandi Harris
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
 - [empty] (https://github.com/carceri)
-
+- [Angel Moses Ochoa] (https://github.com/shortalay)
