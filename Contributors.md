@@ -159,6 +159,7 @@
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
+- [Rafael Faria](https://github.com/rafaellfaria)
 - [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
