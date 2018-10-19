@@ -8116,6 +8116,7 @@ Orandi Harris
 - [Danilo Arantes](https://github.com/daniloarantes)
 - [Dave v. Duivenbode](https://github.com/Sefiris)
 - [Davide Briani](https://github.com/theworm)
+- [Jhang Chaussy](https://github.com/lumpenstein)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Anya Gokulsing](https://github.com/aaaaaaaaaanyaaaaaaaaa)
 - [Maria Rayana](https://github.com/mrayana)
@@ -8621,4 +8622,4 @@ Orandi Harris
 - [Gabriel Tha](https://github.com/GabrielTha)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
-- [Jhang Chaussy](https://github.com/lumpenstein)
+
