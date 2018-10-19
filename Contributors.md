@@ -14,6 +14,7 @@ Arnel Forbes
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
+- [Vineet Yadav ](https://github.com/vineet8588)
 - [Aris Nguyen](https://github.com/arisng)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
