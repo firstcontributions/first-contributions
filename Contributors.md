@@ -1,7 +1,6 @@
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
-- [Prateek Rathore](https://github.com/AndroConsis)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
@@ -548,6 +547,7 @@ Arnel Forbes
 - [Richard Zhang] (https://github.com/rzhang606)
 - [Lauren Reilly](https://github.com/LaurenReilly)
 - [Ankit Shaw](https://github.com/ankitshaw)
+- [Prateek Rathore](https://github.com/AndroConsis)
 - [Bryn Roughan](https://github.com/Broughh)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
@@ -8638,5 +8638,4 @@ Orandi Harris
 - [meltz](https://github.com/meltz)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
--[Prateel Rathore]
 
