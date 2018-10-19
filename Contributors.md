@@ -59,6 +59,7 @@ Arnel Forbes
 - [Calvin Golas](https://github.com/CalvinGolas)
 - [David Chandra](https://github.com/davidchandra95)
 - [Murat Kurnaz](https://github.com/KtrauM)
+- [Mor Tal](https://github.com/mortal94)
 - [Chiu](https://github.com/achiuBAE)
 - [HuyHoangPhi] (https://github.com/HoangHuyPhi)
 - [Gabryelle Soares](https://github.com/gabsoares11)
