@@ -14,7 +14,7 @@ Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente p�
 
 #### *Ler em [outros idiomas](../translations/Translations.md)* 
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork deste repositorio" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork deste repositório" />
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
@@ -40,7 +40,7 @@ Por exemplo:
 ```
 git clone https://github.com/seu-usuario/first-contributions.git
 ```
-onde "seu-usuario" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
 ## Crie um Branch
 
