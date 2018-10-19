@@ -8500,3 +8500,4 @@ Orandi Harris
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
+- [Quan Yang Yeo](https://github.com/quanyang)
