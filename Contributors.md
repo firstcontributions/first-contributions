@@ -1259,6 +1259,7 @@
 - [Age]()
 - [Nelsa]()
 - [Finish]()
+- [Christian Oettl]
 - [Laksh Dhamija](https://github.com/Alumenium)
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
