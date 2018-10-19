@@ -14,6 +14,7 @@
 | 🇫🇷 | [Français](README.fr.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇬🇷 | [ελληνικά](README.gr.md) |
+| 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | 🇮🇳 | [हिन्दी](README.hi.md) |
 | 🇮🇳 | [मराठी](README.mr.md) |
