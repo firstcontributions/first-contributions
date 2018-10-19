@@ -1,6 +1,7 @@
 # Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Deepak Sood](https://github.com/deepaksood619)
