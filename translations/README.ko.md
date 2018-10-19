@@ -74,13 +74,13 @@ Markdown을 어떻게 사용하는지는 이 [치트시트](https://github.com/a
 이 경우에는 다음을 `Contributors.md`의 마지막에 추가하세요:
 
 ```
--[Your-name](https://github.com/Your-username)
+- [Your-name](https://github.com/Your-username)
 ```
 
 예시:
 
 ```
--[John Doe](https://github.com/johndoe)
+- [John Doe](https://github.com/johndoe)
 ```
 
 `](` 사이에 스페이스가 없다는 것에 주의하십시오. 파일을 저장하고 종료하십시오.
