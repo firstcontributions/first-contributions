@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -8434,3 +8434,4 @@ Orandi Harris
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Simon Situ](https://github.com/ssitu001)
+- [Wei](https://github.com/weichenw)
