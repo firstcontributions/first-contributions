@@ -4308,6 +4308,7 @@ Orandi Harris
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
 - [Gabriele Sani](https://github.com/gabryatfendor)
 - [Mohd Talha](https://github.com/mdtalham)
+- [Daniel Santos](https://github.com/DanielXSantos)
 - [Maxens Achiepi](https://github.com/mxch18)
 - [Vurp](https://github.com/Vurp)
 - [n00bady](https://github.com/n00bady)
