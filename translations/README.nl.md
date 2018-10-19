@@ -77,7 +77,7 @@ Push je wijzigingen met `git push`
 ```
 git push origin <je-nieuwe-branch-naam>
 ```
-Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaakte.
+Vervang `<je-nieuwe-branch-naam>` door de naam van de branch die je eerder aanmaakte.
 
 ## Verstuur je wijzigingen voor review
 
