@@ -8550,3 +8550,4 @@ Orandi Harris
 - [DonnyCraft1](https://github.com/DonnyCraft1)
 - [Ramitha](https://github.com/ramiiZPD)
 - [Paulo Gonçalves](https://github.com/prpgleto)
+- [Masaya Hayashi](https://github.com/masa52cards)
