@@ -7,6 +7,7 @@ Arnel Forbes
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
+- [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Brian Barry](https://github.com/bribarry)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
