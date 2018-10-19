@@ -38,7 +38,8 @@ Arnel Forbes
 - [epiphian](https://github.com/epiphian)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
-- [Elia Grego](https://github.com/eliagrego)
+- [Elia Grego](https://github.com/eliagrego)\
+- [Nahid Fatma](https://github.com/nfatma)
 - [Saheel Ahmed](https://github.com/7saheelahmed)
 - [Pankhurt] (https://github.com/Pankhur)
 - [Khaja Moinuddin Mohammed](https://github.com/moinuddin14)
