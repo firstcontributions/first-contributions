@@ -13,6 +13,7 @@ Arnel Forbes
 - [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [Kyle Foster] (https://github.com/kafoster11)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
