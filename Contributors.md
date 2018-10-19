@@ -8511,6 +8511,7 @@ Orandi Harris
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
+- [blade-demon](https://github.com/blade-demon)
 - [Bunyamin Akin](https://github.com/bunyaminakin)
 - [Michael Hoang](https://github.com/Quang810)
 - [dtrac](https://github.com/dtrac)
