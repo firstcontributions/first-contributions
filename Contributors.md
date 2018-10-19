@@ -526,6 +526,7 @@ Edison Shek
 - [Steve Johnson]
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Abdulsamad Aliyu](https://github.com/nitrocoder234)
+- [Elton Chen-Yu Ho](https://github.com/ChenYuHo)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Aaron Travsso](https://github.com/aarontravass)
 - [Julianna Diaz](https://github.com/Juldays)
