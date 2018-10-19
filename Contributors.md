@@ -7752,6 +7752,7 @@ Orandi Harris
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
+- [Guido Sanchez](https://github.com/Guido2k)
 - [Juan Espinoza](https://github.com/seethersan)
 - [Andrew Ma](https://github.com/andrew-ma)
 - [Chris Nord](https://github.com/pandabear41)
@@ -8373,4 +8374,3 @@ Orandi Harris
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
-- [Guido Sanchez](https://github.com/Guido2k)
