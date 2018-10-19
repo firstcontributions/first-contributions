@@ -6963,6 +6963,7 @@ Orandi Harris
 - [Josh Taylor](http://github.com/xxylem)
 - [Ricky Ye](https://github.com/bestyeran)
 - [Ashweyth Sunil](https://github.com/AshHeart)
+- [Mukul Kumar Singh](https://github.com/SwiftX4)
 - [Mark Tonks](https://github.com/unnecessaryroughness)
 - [Jayden Wise](https://github.com/wisejayden)
 - [Hany Mahmoud](http://github.com/H-4-N-1)
@@ -8025,4 +8026,3 @@ Orandi Harris
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [Ahad Ali](https://github.com/ahad80)
-- [Mukul Kumar Singh](https://github.com/SwiftX4)
