@@ -1578,6 +1578,7 @@ Edison Shek
 - [Blanca](https://github.com/helloart3mis)
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
+- [Wei Fan](https://github.com/weifxn)
 - [deviled](https://github.com/deviled)
 - [mayvar](https://github.com/vmayce)
 - [William Thorne](https://github.com/318Thorne)
