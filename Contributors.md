@@ -6979,6 +6979,7 @@ Orandi Harris
 - [Shahzada Khoso](https://github.com/Khosos)
 - [Leoncio O. de Santana](https://github.com/leoncio26)
 - [Sherrie Fuqua](https://github.com/hikinthru)
+- [Nova Web Dev](https://github.com/nova-web-dev)
 - [Tauseef Malik](https://github.com/TauseefMalik)
 - [Raj Chettri](https://github.com/rbchettri1)
 - [Mohammad Hassan](https://github.com/MdHassan403)
