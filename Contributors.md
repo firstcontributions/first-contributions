@@ -8281,6 +8281,7 @@ Orandi Harris
 -[DaveRoox](https://github.com/DaveRoox)
 -[Mohammed Abul Shoeb](https://github.com/alshoeb)
 -[Kolomu](https://github.com/kolomu)
+-[Rachit Pahwa](https://github.com/rachitpahwa08)
 -[sanspace](https://github.com/sanspace)
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
