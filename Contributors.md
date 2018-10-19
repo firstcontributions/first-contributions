@@ -11,6 +11,7 @@ Arnel Forbes
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Aris Nguyen](https://github.com/arisng)
+- [Raman Singh](https://github.com/ramansingh189)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
