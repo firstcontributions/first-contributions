@@ -7775,6 +7775,7 @@ Orandi Harris
 - [Vitor de Lima](https://github.com/vitorlc)
 - [Rafael Gomes](https://github.com/elrafa-sg)
 - [Will Kaczmarek](https://github.com/KaczmarekWill)
+- [Julian Xhokaxhiu](https://github.com/julianxhokaxhiu)
 - [Akshat Ahuja](https://github.com/akshatah33)
 - [Kenneth Wright](https://github.com/WrightKD)
 - [Sumeet Kulkarni](https://github.com/sumeetk321)
