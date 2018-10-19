@@ -18,6 +18,7 @@ Arnel Forbes
 - [Bülent Tugrul Yüksel](https://github.com/agamemnuni)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
+- [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
