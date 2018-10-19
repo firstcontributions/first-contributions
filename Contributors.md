@@ -7024,6 +7024,7 @@ Orandi Harris
 - [Anil](https://github.com/nilanil)
 - [Dominic Lobo](https://github.com/domlobo)
 - [Annalise Tarhan](https://github.com/amberlise)
+- [Akshay Khatter](https://github.com/akshaykhatter)
 - [Kinwy](https://github.com/Kinwy)
 - [Stephen DeMonico](https://github.com/sjdemonico)
 - [Hugo Pellissari](https://github.com/illichosky)
@@ -8075,5 +8076,3 @@ Orandi Harris
 - [Karamel Hoàngg](http://github.com/Karamel2002)
 - [Edwin](https://github.com/nin-ed)
 - [Lucas Costa Oliveira](https://github.com/bolacha)
-- [Akshay Khatter](https://github.com/akshaykhatter)
-
