@@ -970,7 +970,6 @@ Arnel Forbes
 - [ Ken Austria](https://github.com/KenAustria)
 - [Saswat Kar](https://github.com/skksanchez)
 - [Abhinav Mangla](https://github.com/abhinavmangla)
-
 - [Greet Van der Linden](https://github.com/GreetVdL)
 - [Saswat Kar](https://github.com/skksanchez)
 - [Zach Blake](https://github.com/heyztb)
@@ -1089,6 +1088,7 @@ Arnel Forbes
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
 - [Brian W](https://github.com/B-Weyl)
+- [Shaunna Reynard](https://github.com/LashaunnaS)
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jay Vasant](https://github.com/jayvasantjv)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
