@@ -8502,3 +8502,4 @@ Orandi Harris
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
 - [Quan Yang Yeo](https://github.com/quanyang)
+- [Dipak Yadav](https://github.com/dipakyadav)
