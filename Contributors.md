@@ -149,6 +149,7 @@ Arnel Forbes
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
 - [Nick Foley](https://github.com/foleyn2)
+- [Roni Yusuf Manalu](https://github.com/rymanalu)
 - [ShubU](http://github.com/shubu)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
