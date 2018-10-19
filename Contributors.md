@@ -79,6 +79,7 @@ Arnel Forbes
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Jack Lin](https://github.com/gmfcd128/)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
+- [Mathilde Pind] (https://github.com/mathildepind)
 - [Massimo7](https://github.com/Massimo7)
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
 - [Zeddmaxx](https://github.com/zeddmaxx)
