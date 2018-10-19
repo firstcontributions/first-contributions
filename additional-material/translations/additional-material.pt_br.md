@@ -1,10 +1,10 @@
 ﻿# Informações Adicionais
 
-Nós imaginamos que você já tenha terminado o tutorial basico antes de vir aqui. As informações adicionais irão a dar você algumas informações sobre técnicas mais avançadas de Git.
+Nós imaginamos que você já tenha terminado o tutorial básico antes de vir aqui. As informações adicionais te darão algumas informações sobre técnicas mais avançadas de Git.
 
 ### [Emendando um commit](../git_workflow_scenarios/amending-a-commit.md)
 Esse documento provê informações sobre como emendar um commit no repositório remoto.
-> Use isso quando você precisar um commit que você tenha feito.
+> Use isso quando você precisar ajustar um commit que você tenha feito.
 
 ### [Configurando o git](../git_workflow_scenarios/configuring-git.md)
 Esse documento provê informações sobre como configurar detalhes de usuário e outras opções do git.
@@ -24,7 +24,7 @@ Esse documento provê informações sobre como remover um arquivo do seu reposit
 
 ### [Removendo um Branch do seu repositório](../git_workflow_scenarios/removing-branch-from-your-repository.md)
 Esse documento provê informações sobre como deletar um Branch do seu repositório.
-> Apenas siga esses passos apos o seu pull request ter sido mesclado.
+> Apenas siga esses passos após o seu pull request ter sido mesclado.
 
 ### [Resolvendo conflitos de Merge](../git_workflow_scenarios/resolving-merge-conflicts.md)
 Esse documento provê informações sobre como resolver conflitos de Merge.
@@ -34,7 +34,7 @@ Esse documento provê informações sobre como resolver conflitos de Merge.
 Esse documento provê informações sobre como reverter um commit feito no repositório remoto. Isso é muito útil quando você precisa desfazer um commit que tenha sido publicado no GitHub.
 > Siga esses passos se você quiser reverter um commit.
 
-### [Esmagar Commits juntos](../git_workflow_scenarios/squashing-commits.md)
+### [Comprimir Commits juntos](../git_workflow_scenarios/squashing-commits.md)
 Esse documento provê informações sobre como esmagar commits juntos em um só realizando um rebase.
 > Use esses passos se você quiser realizar um PR em um projeto open source e a pessoa que realizou o review pedir para você mesclar todos os commits em um só, com uma mensagem de commit informativa.
 
