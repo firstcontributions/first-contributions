@@ -1,9 +1,10 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 Arnel Forbes
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Deepak Sood](https://github.com/deepaksood619)
+- [Daniel Yusry](https://github.com/DanielYuo)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
