@@ -8363,6 +8363,7 @@ Orandi Harris
 - [Rochelle Ilustre](https://github.com/rochelleilustre)
 - [Mahmood Hussain](https://github.com/Mahmood-Hussain/)
 - [Hiep Nguyen](https://github.com/hiepndd/)
+- [Alok Raj](https://github.com/alok722)
 - [Alessandro Melo](https://github.com/Alessandro2702/)
 - [Sreesaran Raghu](https://github.com/r-sreesaran/)
 - [Ankush Mehta](https://github.com/hsukna/)
