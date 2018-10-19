@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -8455,3 +8455,4 @@ Orandi Harris
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
+- [Taylr Leija] (https://github.com/tleija)
