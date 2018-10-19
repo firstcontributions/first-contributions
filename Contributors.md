@@ -4125,6 +4125,7 @@ Orandi Harris
 - [Valeria Sheveleva](https://github.com/l25)
 - [Chintan Parekh](https://github.com/xchintan)
 - [Jordan King](https://github.com/jordanking-96)
+- [Craig Neely](https://github.com/cneely25)
 - [Robert Szwajkowski](https://github.com/bszwajk)
 - [Dieter Knockaert](https://github.com/Wuway)
 - [Shubham Singh](https://github.com/shubhams-ingh)
