@@ -523,6 +523,7 @@ Edison Shek
 - [DiFerGomAlv](https://github.com/DiFerGomAlv)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
 - [Mayur Madnani](https://github.com/mayurmadnani)
+- [Neelaksh Trehan](https://github.com/cunningdolt)
 - [Bardr](https://github.com/Bardr)
 - [Matheus Malta](https://github.com/matheus-malta)
 - [Eva C](https://github.com/Eva-C)
