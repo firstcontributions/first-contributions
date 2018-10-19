@@ -5830,6 +5830,7 @@ Orandi Harris
 - [Issa Abdulkadir](https://github.com/issa24)
 - [Solmaz Khosravi](https://github.com/solmazkh)
 - [Nestor Cortes](https://github.com/nestor-c)
+- [dmd710](https://github.com/dmd710)
 - [Ryan Bassette](https://github.com/ryebass)
 - [Lloyd Edwards](https://github.com/meanlamp)
 - [Josh Burton](https://github.com/jburton8686)
