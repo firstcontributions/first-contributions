@@ -5,6 +5,7 @@
 - [Gav Hanna](https://github.com/gavhanna)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
+- [Brian Barry](https://github.com/bribarry)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
