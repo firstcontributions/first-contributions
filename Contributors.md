@@ -1,4 +1,4 @@
-# Contributors
+a# Contributors
 
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
@@ -16,7 +16,7 @@
 - alonzo church
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
-Ananya Keshari
+- [Ananya Keshari] (https://github.com/ana301) Heya!
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Akash Barve](https://github.com/AkashBarve)
