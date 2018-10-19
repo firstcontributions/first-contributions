@@ -87,6 +87,7 @@
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
+- [Sumanyu Rosha](https://github.com/sumanyurosha)
 - [Ajay Rajnikanth](https://github.com/Raikan10)
 - [André Dias](https://github.com/andrehgdias)
 - [Ardhito Hendranata](https://github.com/ardhitz)
