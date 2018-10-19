@@ -8,7 +8,8 @@
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
-- [Abhishek-verma](https://github.com/abhishek-verma)
+- [Abhishek-verma](https://github.com/abhishek-verma
+  Madhavik Agarwa)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
