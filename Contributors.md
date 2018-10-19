@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Subham Mishra](https://github.com/Subham-mishra)
@@ -86,6 +86,7 @@
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
+- [Ajay Rajnikanth](https://github.com/Raikan10)
 - [André Dias](https://github.com/andrehgdias)
 - [Ardhito Hendranata](https://github.com/ardhitz)
 - [Michael Harvey](https://github.com/harvey-dev)
