@@ -7454,6 +7454,7 @@ Orandi Harris
 - [Sergio Henrique Menta Garcia](https://github.com/SergioHenrique19)
 - [Bruno Trindade](https://github.com/iHollyZinhO)
 - [Tom Raley](https://github.com/halcyondays22)
+- [Tom Hardy](https://github.com/wuxmedia)
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Jose Freitas](http://github.com/jaugustocesar)
 - [Pablo França](https://github.com/magusTM)
