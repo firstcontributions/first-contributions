@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -5686,6 +5686,7 @@ Orandi Harris
 - [nos65](https://github.com/nos65)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
+- [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
 - [Guilherme Wachs](https://github.com/lopespt)
