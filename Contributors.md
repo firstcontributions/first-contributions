@@ -6764,6 +6764,7 @@ Orandi Harris
 - [Rajeev Ranjan](https://github.com/rajeevcoding)
 - [Abdulla Al Mamun](https://github.com/NAbdulla1)
 - [Chris G](https://github.com/chdgriff)
+- [Guilherme Chenci Ortiz](https://github.com/Guicortiz)
 - [Elizabeth Berg](https://github.com/reykjaviks)
 - [dave7ter](https://github.com/dave7ter)
 - [Adrian Thinnyun](https://github.com/athinnyun)
@@ -8092,4 +8093,3 @@ Orandi Harris
 - [Jorge](https://github.com/ferreiro)
 - [Jacinto Ramirez] (https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
-- [Guilherme Chenci Ortiz](https://github.com/Guicortiz)
