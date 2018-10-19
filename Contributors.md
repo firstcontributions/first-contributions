@@ -1,6 +1,5 @@
 # Contributors
 
-- [geeknik](https://twitter.com/geeknik)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -282,6 +281,7 @@
 - [Byren Higgin](https://github.com/byrenhiggin)
 - [Tuna Akyurek](https://github.com/akyurektuna)
 - [Robert Aragon](https://github.com/PixoDev)
+- [geeknik](https://twitter.com/geeknik)
 - [Isay Razilov](https://github.com/IsayRazilov)
 - [Leonardo Cavazzani](https://github.com/lCavazzani)
 - [Valentina Calabrese](https://github.com/vale-c)
@@ -8380,6 +8380,7 @@ Orandi Harris
 - [Bruno Silva](https://github.com/slauzinho)
 - [Matthew Williams] (https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
+- [Hannah](https://github.com/hholzmann16)
 - [Edwin](https://github.com/nin-ed)
 - [James Bedwell](https://github.com/jamesrbedwell)
 - [Crepp](https://github.com/crepp5299)
