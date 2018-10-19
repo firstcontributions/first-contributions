@@ -220,6 +220,7 @@ Arnel Forbes
 - [David Potter](https://github.com/potter-potter)
 - [Chung Kang](https://github.com/tofuninjah)
 - [Kyle Connelly](https://github.com/kyluca)
+- [Dina Wee] (https://github.com/dinawee)
 - [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
