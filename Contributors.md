@@ -20,6 +20,7 @@ Arnel Forbes
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
+- [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Matthew Shelbourn](https://github.com/shelbourn)
