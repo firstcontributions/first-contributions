@@ -10,6 +10,7 @@ Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
+- [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [sahil tagunde](https://github.com/tagsahil)
