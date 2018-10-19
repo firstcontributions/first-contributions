@@ -30,6 +30,7 @@ Arnel Forbes
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Tracy Spitler](https://github.com/tracyspitler)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
@@ -8676,4 +8677,3 @@ Orandi Harris
 - [Ören Aksakal](https://github.com/orenaksakal)
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
-
