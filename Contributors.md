@@ -116,6 +116,7 @@ Arnel Forbes
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
+- [Utkarsh Nag](https://github.com/utkarshnag)
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
 - [Sumanyu Rosha](https://github.com/sumanyurosha)
@@ -8612,4 +8613,3 @@ Orandi Harris
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Crewsy](https://github.com/crewsycrews)
 - [Shahnur](https://github.com/sisgandarli)
-- [Gabriel Tha](https://github.com/GabrielTha)
