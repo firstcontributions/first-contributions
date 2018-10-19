@@ -167,6 +167,7 @@ Arnel Forbes
 - [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Tim Griffith](https://github.com/grifmang)
+- [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Priyal Narang](https://github.com/PriyalNarang)
 - [Malik Mahmud](https://github.com/MlkMahmud)
