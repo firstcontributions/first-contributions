@@ -167,4 +167,4 @@ Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret 
 Hvis du kan lide dette projekt så 'star' os på [GitHub](https://github.com/Roshanjossey/first-contributions).
 Føler du dig ekstra generøs kan du følge os på [Roshan](https://roshanjossey.github.io/), på [Twitter](https://twitter.com/sudo__bangbang) og på [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="https://github.com/firstcontributions/first-contributions/raw/master/assets/saasgrids-banner.png" width="500"></a>
