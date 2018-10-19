@@ -7872,6 +7872,7 @@ Orandi Harris
 - [Orlando Briceño](https://github.com/orlybg)
 - [Juan Espinoza](https://github.com/seethersan)
 - [Andrew Ma](https://github.com/andrew-ma)
+- [Jakub Kusiowski](https://github.com/KusioDev)
 - [Chris Nord](https://github.com/pandabear41)
 - [Guilherme Heckmaier Baule](https://github.com/Guibaule)
 - [John P](https://github.com/palumboj)
@@ -8542,4 +8543,3 @@ Orandi Harris
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
-- [Jakub Kusiowski](https://github.com/KusioDev)
