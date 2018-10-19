@@ -148,6 +148,7 @@ Arnel Forbes
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
+- [Mr_Patcher] (https://github.com/Mr-Patcher)
 - [Parth Manhas](https://github.com/ishouldcode)
 - [Rim Fardiyev](https://github.com/Dreammaster13)
 - [Abhishek P](https://github.com/Abhishek-Prem)
