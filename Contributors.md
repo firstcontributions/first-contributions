@@ -197,6 +197,7 @@
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
 - [Rahul Kumar](https://github.com/rik-96)
+- [Biswanath Das]()
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
 - [Joy Iwendi](https://github.com/jiwendi)
