@@ -6830,6 +6830,7 @@ Orandi Harris
 - [Zachary Gong](https://github.com/poiszg23)
 - [Paco Banegas](https://github.com/pbanegas)
 - [Bryan Austyn Ichsan](https://github.com/Sambas231)
+- [Samuel Harbord](https://github.com/samuel-harbord)
 - [Ahsan Yousaf](https://github.com/sheikhahsan)
 - [Andy Kenny](https://github.com/askenny)
 - [Amit Levy](https://github.com/amitlevy21)
@@ -8660,4 +8661,3 @@ Orandi Harris
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
-
