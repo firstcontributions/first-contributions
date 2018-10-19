@@ -103,6 +103,7 @@ Arnel Forbes
 - [DinushaNT](https://github.com/dinushanirmal/)
 - [Anu Kumari Gupta](https://github.com/khusi-anu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
+- [Oriol Vall](https://github.com/Horiol)
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Raj Khare](https://github.com/pixzels)
