@@ -1961,6 +1961,7 @@ Arnel Forbes
 - [Vijayv](https://github.com/vijayv)
 - [Jason Bryant](https://github.com/jbryant32)
 - [Diego Murray](https://github.com/dmurr)
+- [Alexandre Taschner](https://github.com/aletaschner)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
 - [Leon Merc](https://github.com/leonmerc)
