@@ -3302,6 +3302,7 @@ Orandi Harris
 - [Attila Blascsak](https://github.com/blascsi)
 - [Greg Wong](https://github.com/gregorywong)
 - [Tony Wu](https://github.com/t-wu)
+- [Attilio Galzerano](https://github.com/Attilio-Galzerano)
 - [Heather Rusnica](https://github.com/HRusnica)
 - [R. Alex Clark](https://github.com/Aclark2089)
 - [Markus (Qoutroy)](https://github.com/qoutroy)
