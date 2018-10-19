@@ -7625,6 +7625,7 @@ Orandi Harris
 - [Premtim Sahitaj](https://github.com/premsa)
 - [Jatin Mehta](https://github.com/Exoceus)
 - [Gang Dong](https://github.com/donggangcj)
+- [Abhiyansh Arya](https://github.com/abhiyansh)
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [IgnasA](https://github.com/IgnasA)
 - [Ekkachai Sohmontha](https://github.com/heemza)
@@ -8028,5 +8029,3 @@ Orandi Harris
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [Ahad Ali](https://github.com/ahad80)
 - [Jan Kläger](https://github.com/janklaeger)
-- [Abhiyansh Arya](https://github.com/abhiyansh)
-
