@@ -1,6 +1,7 @@
 # Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Kenneth Chan] (https://github.com/niftyken)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
