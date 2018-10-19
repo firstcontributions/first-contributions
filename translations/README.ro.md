@@ -6,9 +6,9 @@
 
 # Primele Contribuții
 
-Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales când colaborezi. A face greșeli nu este un lucru confortabil. Dar cel mai important în open source este colaborarea și lucrul în echipă. Noi am vrut să simplificăm modul în care noii contribuabili în open source învață și contribuie pentru prima dată.
+Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales când colaborezi. A face greșeli nu este un lucru confortabil. Dar cel mai important în open source este colaborarea și lucrul în echipă. Noi am vrut să simplificăm modul în care noii colaboratori în open source învață și contribuie pentru prima dată.
 
-Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și simplificarea modului în care începătorii își fac prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât mai bine înveți. Dacă dorești să faci prima ta contribuție, simplu urmați pașii de mai jos. Vă promit că va fi distractiv.
+Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și să simplifice modul în care începătorii își aduc prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât înveți mai bine. Dacă dorești să îți aduci prima ta contribuție, e simplu, urmează pașii de mai jos. Vă promit că va fi distractiv.
 
 #### *Citește în [alte limbi](Translations.md).* 
 
