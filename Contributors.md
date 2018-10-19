@@ -8612,3 +8612,4 @@ Orandi Harris
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Crewsy](https://github.com/crewsycrews)
 - [Shahnur](https://github.com/sisgandarli)
+- [Gabriel Tha](https://github.com/GabrielTha)
