@@ -7697,6 +7697,7 @@ Orandi Harris
 - [Lubbock](https://github.com/Lubbock)
 - [Maurice C Lofton](https://github.com/MCLofton)
 - [Abduraoof T](https://github.com/ra00f)
+- [Tharindu Kumarasiri](https://github.com/tharindukumarasiri)
 - [ijavap](https://github.com/jacobvarghese)
 - [Joseph Park](https://github.com/vapor47)
 - [Dennis Wolfers](https://github.com/dennis-wolfers)
