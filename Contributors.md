@@ -8087,6 +8087,7 @@ Orandi Harris
 - [Thomas Mort](https://github.com/Tommygun200202)
 - [0dayherman](https://github.com/0dayherman)
 - [christm](https://github.com/clerity85)
+- [Glen Griffiths](https://github.com/Glenderman)
 - [Uwais Zaki](https://github.com/uwaiszaki)
 - [Umang Raval](https://github.com/umangraval)
 - [Wesley Melo](https://github.com/wesmelo)
@@ -8550,4 +8551,3 @@ Orandi Harris
 - [DonnyCraft1](https://github.com/DonnyCraft1)
 - [Ramitha](https://github.com/ramiiZPD)
 - [Paulo Gonçalves](https://github.com/prpgleto)
--[Glen Griffiths](https://github.com/Glenderman)
