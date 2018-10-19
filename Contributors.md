@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 Arnel Forbes
@@ -8514,3 +8514,4 @@ Orandi Harris
 - [Vamsi Krishna](https://github.com/vamsi3)
 - [Roi Ben Shaul](https://github.com/rughciatuk)
 - [Riablo](https://github.com/Riablo)
+- [Faith Omojola Adekunle](https://github.com/match1234)
