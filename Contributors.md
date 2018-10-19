@@ -8722,4 +8722,5 @@ Orandi Harris
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
 - [Dan Roberts](https://github.com/Danno3D)
+- [Edward Evans](https://github.com/eeevans)
 
