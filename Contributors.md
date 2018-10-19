@@ -4355,7 +4355,6 @@ Orandi Harris
 - [Grant Dellar](https://github.com/BFGD)
 - [zeldalaw](https://github.com/zeldalaw)
 - [Kevin Rosenberg](https://github.com/kevsters)
-- [Matteo Meneghetti](https://github.com/matteo-meneghetti)
 - [Mingyu Hu](https://github.com/mingyuhu)
 - [Ryan Moore](https://github.com/moore-r)
 - [Sean Stamm](https://github.com/sherlocktech)
@@ -8552,3 +8551,4 @@ Orandi Harris
 - [Ramitha](https://github.com/ramiiZPD)
 - [Paulo Gonçalves](https://github.com/prpgleto)
 - [Masaya Hayashi](https://github.com/masa52cards)
+- [Henning K](https://github.com/Henning-K)
