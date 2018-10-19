@@ -7436,6 +7436,7 @@ Orandi Harris
 - [Olivier JM](https://github.com/olivierjm)
 - [Wincenty Pukar](https://github.com/Errancer/first-contributions)
 - [Nipe Setiawan Harefa](https://github.com/nipeharefa)
+- [Giovani Garcia](https://github.com/GamerSenior)
 - [Alaa Sabbagh](https://github.com/Alaa-Sabbagh)
 - [Richard Lim](https://github.com/rickyl7)
 - [Ajinkya Kale](https://github.com/AjinkyaKaley)
@@ -8621,4 +8622,4 @@ Orandi Harris
 - [Gabriel Tha](https://github.com/GabrielTha)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
-- [Giovani Garcia](https://github.com/GamerSenior)
+
