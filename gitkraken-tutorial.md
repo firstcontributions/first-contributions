@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Git Kraken
 
-Download [GitKraken](https://www.gitkraken.com), install and open it.
+Download [GitKraken](https://www.gitkraken.com), Install and open it.
 
 
 You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
@@ -36,7 +36,7 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File-> Clone Repo.
+In GitKraken, go to File -> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
