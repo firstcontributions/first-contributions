@@ -7971,6 +7971,7 @@ Orandi Harris
 - [Fabiane Souza](https://github.com/devfabisouza)
 - [Robson Marinho](https://github.com/RobsonMarinho)
 - [Gabriela Matias](https://github.com/GabrielaMattias)
+- [Chi Tak](https://github.com/chitak)
 - [Maysa Borges](https://github.com/maysaborges)
 - [Christian Moultrie](https://github.com/makesomething-christian)
 - [AFrittella](https://github.com/afrittella)
