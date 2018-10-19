@@ -153,7 +153,7 @@ So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
+Beachte, dass du hier zum Remote Namens `origin` pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit `git checkout` geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
@@ -164,7 +164,7 @@ Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer
 
 ## Wie geht es weiter?
 
-Wenn du weitere Fragen hast kannst du Mitglied in unserem Slackteam werden. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Wenn du weitere Fragen hast kannst du Mitglied in unserem Slackteam werden. [Trete dem Slack team bei](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Hier sind einige Anfänger-Level Aufgaben (issues) in bekannten Repositories die du lösen kannst. Schau sie dir an und erfahre mehr darüber
 
