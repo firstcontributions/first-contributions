@@ -66,6 +66,7 @@ Arnel Forbes
 - [Briana Baker](https://github.com/brianabaker)
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
+- [Jack Lin](https://github.com/gmfcd128/)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
 - [Massimo7](https://github.com/Massimo7)
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
