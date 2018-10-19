@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
@@ -11,8 +12,10 @@ Arnel Forbes
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
+- [Lucky Murari](https://github.com/luckymurari)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
+- [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [Aris Nguyen](https://github.com/arisng)
@@ -47,6 +50,7 @@ Arnel Forbes
 - [Khaja Moinuddin Mohammed](https://github.com/moinuddin14)
 - [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
+- [Quang Hoang](https://github.com/quangpro1610)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
@@ -102,6 +106,7 @@ Arnel Forbes
 - [DinushaNT](https://github.com/dinushanirmal/)
 - [Anu Kumari Gupta](https://github.com/khusi-anu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
+- [Oriol Vall](https://github.com/Horiol)
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Raj Khare](https://github.com/pixzels)
@@ -144,6 +149,7 @@ Arnel Forbes
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
+- [Mr_Patcher] (https://github.com/Mr-Patcher)
 - [Parth Manhas](https://github.com/ishouldcode)
 - [Rim Fardiyev](https://github.com/Dreammaster13)
 - [Abhishek P](https://github.com/Abhishek-Prem)
@@ -218,6 +224,7 @@ Arnel Forbes
 - [David Potter](https://github.com/potter-potter)
 - [Chung Kang](https://github.com/tofuninjah)
 - [Kyle Connelly](https://github.com/kyluca)
+- [Dina Wee] (https://github.com/dinawee)
 - [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
@@ -3193,6 +3200,7 @@ Orandi Harris
 - [Niharika Shrivastava](https://github.com/orionstar25)
 - [Dragos Dobre](https://github.com/dobredragos24)
 - [Vishal Koosuri](https://github.com/dainvinc)
+- [Nikolai Fischer](https://github.com/nikolaifischer)
 - [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
@@ -8621,7 +8629,9 @@ Orandi Harris
 - [Crewsy](https://github.com/crewsycrews)
 - [Shahnur](https://github.com/sisgandarli)
 - [Gabriel Tha](https://github.com/GabrielTha)
+- [VanshikaMittal07](https://github.com/VanshikaMittal07)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
 - [meltz](https://github.com/meltz)
 - [Sastem](https://github.com/Sastem)
+- [JPS sasadara](https://github.com/jpssasadara)
