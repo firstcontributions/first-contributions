@@ -39,6 +39,7 @@ Arnel Forbes
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
+- [Feynman](https://github.com/Feyn-Man)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
@@ -8648,4 +8649,3 @@ Orandi Harris
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
-
