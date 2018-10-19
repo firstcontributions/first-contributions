@@ -13,6 +13,7 @@
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/agamemnun)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
+- [Joseph Ostroman](https://github.com/ostomaj)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
