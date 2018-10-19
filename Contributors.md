@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Christine Xiang](https://github.com/yutingcxiang/)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [MC_Leut](https://github.com/MCLeut)
 - [Michael Robinson](https://github.com/NightFury20)
@@ -8698,4 +8698,3 @@ Orandi Harris
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
-
