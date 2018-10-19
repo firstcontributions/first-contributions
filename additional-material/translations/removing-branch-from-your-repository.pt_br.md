@@ -28,4 +28,4 @@ git push origin --delete <add-seu-nome>
 Agora, você sabe como arrumar seus Branches.
 Com o tempo, muitos Commits serão adicionados ao meu repositório público. E os Branches principais (master) da sua máquina local e do seu Fork não estarão mais atualizados. Então, para manter seus repositórios sincronizados com o meu, siga os passos abaixo.
 
-#### [ Mantendo o seu Fork sincronizado com este repositório ](keeping-your-fork-synced-with-this-repository.pt_br.md)
+#### [Mantendo o seu Fork sincronizado com este repositório](keeping-your-fork-synced-with-this-repository.pt_br.md)

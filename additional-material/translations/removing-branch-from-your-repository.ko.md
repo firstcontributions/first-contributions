@@ -27,4 +27,4 @@ git push origin --delete <add-your-name>
 자, 여러분은 이제 자신의 브래치를 정리하는 법을 배웠습니다.
 시간이 지나면 많은 커밋이 저장소에 추가됩니다. 그리고 로컬 머신과 GitHub 포크의 마스터 브랜치는 최신 버전이 아닙니다. 따라서 저장소를 내 것과 동기화 된 상태로 유지하려면 아래 단계를 따르십시오.
 
-#### [ 여러분이 포크한 저장소와 싱크상태 유지하기 ](keeping-your-fork-synced-with-this-repository.ko.md)
+#### [여러분이 포크한 저장소와 싱크상태 유지하기](keeping-your-fork-synced-with-this-repository.ko.md)
