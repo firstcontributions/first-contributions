@@ -8470,3 +8470,4 @@ Orandi Harris
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
+- [Priyendu Mori](https://github.com/priyendumori)
