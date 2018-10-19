@@ -46,6 +46,7 @@
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
 - [Massimo7](https://github.com/Massimo7)
+- [Zeddmaxx](https://github.com/zeddmaxx)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Kenny Zhou](https://github.com/Kenford20)
