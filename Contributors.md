@@ -77,7 +77,6 @@ Arnel Forbes
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Kenny Zhou](https://github.com/Kenford20)
-- [João Mota](https://github.com/jpmmota)
 - [Calvin Golas](https://github.com/CalvinGolas)
 - [David Chandra](https://github.com/davidchandra95)
 - [Murat Kurnaz](https://github.com/KtrauM)
@@ -8606,3 +8605,4 @@ Orandi Harris
 - [Dennis Braun](https://github.com/l0min)
 - [Xavier Marques] (https://github.com/wolframtheta)
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
+- [Stefan Bakurdzhiev](https://github.com/sbakurdzhiev)
