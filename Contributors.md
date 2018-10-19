@@ -106,6 +106,7 @@ Edison Shek
 - [HuyHoangPhi] (https://github.com/HoangHuyPhi)
 - [Gabryelle Soares](https://github.com/gabsoares11)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
+- [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
