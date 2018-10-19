@@ -8517,3 +8517,4 @@ Orandi Harris
 - [Vamsi Krishna](https://github.com/vamsi3)
 - [Roi Ben Shaul](https://github.com/rughciatuk)
 - [Riablo](https://github.com/Riablo)
+- [Jeetu Chauhan](https://github.com/g2chauhan)
