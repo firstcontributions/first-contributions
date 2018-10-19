@@ -7989,6 +7989,7 @@ Orandi Harris
 - [Praveen Bathala](https://github.com/prvn)
 - [Maria Camila Gómez Rpo](https://github.com/camigomez35)
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
+- [Navneet Sharma](https://github.com/NavneetSharmaPro)
 - [Bruno Dulcetti](https://github.com/dulcetti)
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
 - [Caitlyn Woods](https://github.com/catielynncodes)
