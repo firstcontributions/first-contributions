@@ -1981,6 +1981,7 @@ Edison Shek
 - [Dante Anthony](https://github/com/Calikidd86)
 - [Nisarg Chitaliya](https://github.com/nisarg4)
 - [Thomas Lee](https://github.com/sendmebiscuits)
+- [Dustin Patterson](https://github.com/dustinrpatterson)
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Abubakar Sambo](https://github.com/saslamp)
