@@ -108,6 +108,7 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 
 ### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
+
 ## Tutoriais usando outras ferramentas
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
