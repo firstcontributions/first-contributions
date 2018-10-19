@@ -3928,6 +3928,7 @@ Orandi Harris
 - [Naveen Kashyap](https://github.com/naveenkhasyap)
 - [Jaspreet Singh](https://github.com/iamjaspreetsingh)
 - [Nao000](https://github.com/Nao000)
+- [Satbir Singh](https://github.com/singhsatbir)
 - [Austin](https://github.com/apcatx)
 - [Adil Mahmood](https://github.com/AdilMah)
 - [ParkourKarthik](https://github.com/parkourkarthik)
@@ -8543,3 +8544,4 @@ Orandi Harris
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia] (https://github.com/Exvilia)
+- [DonnyCraft1](https://github.com/DonnyCraft1)
