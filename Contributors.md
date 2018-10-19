@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -61,6 +61,7 @@ Arnel Forbes
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
 - [Rishabh Sharma]
+- [Tyler Clark]
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)\
