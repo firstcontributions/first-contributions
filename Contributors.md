@@ -8458,3 +8458,4 @@ Orandi Harris
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
 - [Michelle Vick](https://github.com/vivega-mv)
+- [Brandon Pierce](https://github.com/bp-driptorch)
