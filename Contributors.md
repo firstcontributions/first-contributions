@@ -2303,6 +2303,7 @@ Orandi Harris
 - [Daniel Contreras](https://github.com/danielcontreras)
 - [Connor McCurrie](https://github.com/adinsxx)
 - [ankush-rawat](https://github.com/Rawkush)
+- [KLR](https://github.com/karthicrajakumar)
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
 - [Duha Hassan](https://github.com/duha-h)
 - [Prakhar Pandey](https://github.com/prakharvk)
