@@ -4244,6 +4244,7 @@ Orandi Harris
 - [Arica Chakraborty](https://github.com/uemarica)
 - [Joshua Moffett](https://github.com/Wingnod)
 - [Michel Michels](https://github.com/MichelMichels)
+- [Miguel Meza](https://github.com/peyuking09)
 - [DerekL1688](https://github.com/derekl1688)
 - [Tricia Cuninghame](https://github.com/Tricky2712)
 - [Caio Vilas](https://github.com/caiovilas)
