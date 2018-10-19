@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Vu Minh Tung] (https://github.com/tungvm1711/)
@@ -7779,6 +7779,7 @@ Shwetha Varma(https://github.com/shwetharv)
 -[Mohammed Abul Shoeb](https://github.com/alshoeb)
 -[Kolomu](https://github.com/kolomu)
 -[sanspace](https://github.com/sanspace)
+-[Gopal Krishna](https://github.com/gokriznastic)
 -[Rachit Panwar](https://github.com/rachit2panwar)
 -[Eduardo Brito](https://github.com/eduardobrito97)
 -[Hung Pham](https://github.com/hungpham2202)
@@ -7803,3 +7804,4 @@ Shwetha Varma(https://github.com/shwetharv)
 - [NalinLuthra](https://github.com/NalinLuthra)
 - [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
 - [Anders Latif](https://github.com/anderslatif)
+
