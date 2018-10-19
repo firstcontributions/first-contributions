@@ -8602,3 +8602,4 @@ Orandi Harris
 - [Jongkook](https://github.com/conquerex)
 - [Xanderdwyl](https://github.com/XanderDwyl)
 - [Dennis Braun](https://github.com/l0min)
+- [Xavier Marques] (https://github.com/wolframtheta)
