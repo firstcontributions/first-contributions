@@ -1,6 +1,7 @@
 # Contributors
 
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
+- [Neeraj Arya](https://github.com/InquiridorTechie)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
