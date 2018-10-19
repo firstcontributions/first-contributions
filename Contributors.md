@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
@@ -549,6 +549,7 @@ Edison Shek
 - [Richard Zhang] (https://github.com/rzhang606)
 - [Lauren Reilly](https://github.com/LaurenReilly)
 - [Ankit Shaw](https://github.com/ankitshaw)
+- [Prateek Rathore](https://github.com/AndroConsis)
 - [Bryn Roughan](https://github.com/Broughh)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
