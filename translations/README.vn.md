@@ -58,10 +58,21 @@ Ví dụ:
 ```
 git checkout -b them-Tran-Ly-Vu
 ```
+(Tên nhánh không cần có chữ "them", nhưng thêm vào vẫn được vì mục đích của nhánh này là thêm tên bạn vào danh mục.)
 
 ## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
 
-Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
+Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. 
+
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
+
+Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. 
+
+
+
+Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
+
 ```
 git add Contributors.md
 ```
@@ -120,9 +131,19 @@ git push origin master
 ```
 Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
 
+
 ## Hướng dẫn sử dụng các công cụ khác
 
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+
+## Kêu gọi đóng góp
+
+Nếu bạn thích dự án này, nhấn nút ngôi sao trên [GitHub](https://github.com/Roshanjossey/first-contributions).
+Nếu bạn mong muốn đóng góp, theo dõi [Roshan](https://roshanjossey.github.io/) trên
+[Twitter](https://twitter.com/sudo__bangbang) và
+[GitHub](https://github.com/roshanjossey).
+
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
