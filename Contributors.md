@@ -8001,6 +8001,7 @@ Orandi Harris
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
+- [Vignesh B.S](https://github.com/vignesh1999)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
 - [Tommy Lusun](https://github.com/tommylusun)
 - [Christopher Shockley](https://github.com/cishocksr)
@@ -8507,4 +8508,3 @@ Orandi Harris
 - [Quan Yang Yeo](https://github.com/quanyang)
 - [Dipak Yadav](https://github.com/dipakyadav)
 - [Alejandro Muñoz Crespo](https://github.com/amunozcr)
-- [Vignesh B.S](https://github.com/vignesh1999)
