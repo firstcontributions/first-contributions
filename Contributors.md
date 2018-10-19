@@ -27,6 +27,7 @@
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
+- [Anmol Bansal](https://github.com/anmolbansal1)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
@@ -8509,4 +8510,3 @@ Orandi Harris
 - [Dipak Yadav](https://github.com/dipakyadav)
 - [Alejandro Muñoz Crespo](https://github.com/amunozcr)
 - [Vamsi Krishna](https://github.com/vamsi3)
-- [Roi Ben Shaul](https://github.com/rughciatuk)
