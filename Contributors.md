@@ -8698,4 +8698,4 @@ Orandi Harris
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
-
+- [Yohanan Baruchel](https://github.com/ybaruchel)
