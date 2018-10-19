@@ -2239,6 +2239,7 @@ Orandi Harris
 - [James Tompkins](https://github.com/JamesTompkins)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
+- [Nathan Terschak](https://github.com/nterschak)
 - [Gokul](https://github.com/gokulg201)
 - [Aarif Shaikh](https://github.com/aarifsk)
 - [Calstream](https://github.com/Calstream)
