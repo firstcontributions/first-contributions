@@ -4303,6 +4303,7 @@ Orandi Harris
 - [Diego Shimizu](https://github.com/dmshimizu)
 - [bokeeee](https://github.com/bokeeee)
 - [Jonathan Saysay](https://github.com/jsaysay)
+- [Jeff Innes](https://github.com/jinnes)
 - [Grant Dellar](https://github.com/BFGD)
 - [zeldalaw](https://github.com/zeldalaw)
 - [Kevin Rosenberg](https://github.com/kevsters)
