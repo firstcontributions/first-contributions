@@ -776,6 +776,7 @@ Edison Shek
 - [Godwin Ogbonnaya Jnr](https://github.com/dwinjnr)
 - [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
+- [Rafael Herazo](https://github.com/deltaurus)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Collin Cates](https://github.com/collincates)
 - [Raghav Grover](https://github.com/raghav7997)
@@ -8719,4 +8720,3 @@ Orandi Harris
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
 - [Dan Roberts](https://github.com/Danno3D)
-
