@@ -3194,6 +3194,7 @@ Orandi Harris
 - [Niharika Shrivastava](https://github.com/orionstar25)
 - [Dragos Dobre](https://github.com/dobredragos24)
 - [Vishal Koosuri](https://github.com/dainvinc)
+- [Nikolai Fischer](https://github.com/nikolaifischer)
 - [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
