@@ -8560,4 +8560,3 @@ Orandi Harris
 - [Paulo Gonçalves](https://github.com/prpgleto)
 - [Masaya Hayashi](https://github.com/masa52cards)
 - [gnsJhenJie](https://github.com/gnsJhenJie/)
-- [Jongkook]()
