@@ -7411,6 +7411,7 @@ Orandi Harris
 - [Jason Guan](https://github.com/ygvwalgiya)
 - [mhaagen ](https://github.com/mhaagen)
 - [Renato Fekete](https://github.com/renatofekete)
+- [Ishita Gambhir](https://github.com/mewcifur28)
 - [Jill Liu](https://github.com/ChJillOut)
 - [Mike Brad](https://github.com/mikebrad75)
 - [Komal Jindal](https://github.com/komaljindal)
@@ -8025,4 +8026,3 @@ Orandi Harris
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [Ahad Ali](https://github.com/ahad80)
-- [Ishita Gambhir](https://github.com/mewcifur28)
