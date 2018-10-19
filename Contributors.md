@@ -14,6 +14,7 @@ Arnel Forbes
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Lucky Murari](https://github.com/luckymurari)
+- [Chris Fotso](https://github.com/chrisfotso)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
 - [Anuj Jindal](https://github.com/jindalAnuj)
