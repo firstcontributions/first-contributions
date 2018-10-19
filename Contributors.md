@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
@@ -32,6 +32,7 @@ Arnel Forbes
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
+- [epiphian](https://github.com/epiphian)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
