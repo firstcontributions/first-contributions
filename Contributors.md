@@ -21,6 +21,7 @@ Arnel Forbes
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Lucky Murari](https://github.com/luckymurari)
+- [Mike Capps](https://github.com/MikeCapps2006)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Matthew Shelbourn](https://github.com/shelbourn)
 - [Marius Maries](https://github.com/mariuscm)
