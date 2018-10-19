@@ -1,7 +1,8 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
+- [Adrian Jee](https://github.com/Dominoes101)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
