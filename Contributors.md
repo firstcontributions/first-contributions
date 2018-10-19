@@ -803,7 +803,6 @@
 - [Deep Mehta](https://github.com/deep-mm)
 - [Adam Austin](https://github.com/h3x)
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
-- [Christina Zakarian] (https://github.com/czakarian)
 - [James Featherstone](https://github.com/jfeathe)
 - [Utkarsh Agrawal](https://github.com/utkarsh-42)
 - [Hrishit Prasad Biswas](https://github.com/Artistic18)
@@ -8438,3 +8437,4 @@ Orandi Harris
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Simon Situ](https://github.com/ssitu001)
 - [Wei](https://github.com/weichenw)
+- [Christina Mooney](https://github.com/zweifish)
