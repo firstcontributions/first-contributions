@@ -1133,6 +1133,7 @@ Arnel Forbes
 - [c-kirkeby](https://github.com/c-kirkeby)
 - [Jonathan Brooks](https://github.com/blauks)
 - Andrea Catania
+- [Andre Roldan](https://github.com/Mostachin)
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Rehan jananga](https://github.com/rehanj)
 - [Saksham Jain](https://github.com/bhavayAnand9)
