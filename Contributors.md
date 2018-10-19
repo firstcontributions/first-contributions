@@ -7907,6 +7907,7 @@ Orandi Harris
 - [Caio Augusto](https://github.com/caioag)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
+- [Guido Sanchez](https://github.com/Guido2k)
 - [Juan Espinoza](https://github.com/seethersan)
 - [Andrew Ma](https://github.com/andrew-ma)
 - [Jakub Kusiowski](https://github.com/KusioDev)
