@@ -50,6 +50,7 @@ Arnel Forbes
 - [Khaja Moinuddin Mohammed](https://github.com/moinuddin14)
 - [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
+- [Quang Hoang](https://github.com/quangpro1610)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
