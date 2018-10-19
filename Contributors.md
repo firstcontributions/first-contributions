@@ -1,3 +1,4 @@
+
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -11,7 +12,6 @@ Arnel Forbes
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [sahil tagunde](https://github.com/tagsahil)
-- [Aneesh Chawla](https://github.com/aneesh404)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Lucky Murari](https://github.com/luckymurari)
@@ -23,6 +23,7 @@ Arnel Forbes
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
 - [Aris Nguyen](https://github.com/arisng)
+- [Vivek](https://github.com/vickygopalshetty)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Devina Ghoda](https://github.com/devinaghoda)
