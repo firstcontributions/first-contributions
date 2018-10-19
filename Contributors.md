@@ -497,6 +497,7 @@ Edison Shek
 - [Jeff Golditch](https://github.com/jgolditch)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Stu Wares](https://github.com/StuWares)
+- [Matias Garcia](https://github.com/MatiasG7)
 - [DarthHamza](https://github.com/DarthHamza)
 - [Christian Schmitt](https://github.com/schmittcn)
 - [Victor Hugo M. Pinto](https://github.com/victorhmp)
