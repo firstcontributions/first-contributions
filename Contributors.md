@@ -232,6 +232,7 @@ Arnel Forbes
 - [Franklin Wang](https://github.com/fxwang)
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
 - [Alex Kluger] (42947972+AKluger@users.noreply.github.com)
+- [Lokesh](https://github.com/bitlucky)
 - [Alberto Leon](https://github.com/betoleon)
 - [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
