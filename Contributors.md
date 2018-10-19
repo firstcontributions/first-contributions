@@ -4655,6 +4655,7 @@ Orandi Harris
 - [Nguyen Nguyen](https://github.com/nnguyen74)
 - [Michael Bauer](https://github.com/bauerpm7)
 - [Harsh Bhardwaj](https://github.com/harshbhardwaj)
+- [Widell79] (https://github.com/Widell79)
 - [Jeffrey Liu](https://github.com/jeffliu426)
 - [Andrew Pushkin](https://github.com/pushkingav)
 - [Nishkt](https://github.com/nishkt)
