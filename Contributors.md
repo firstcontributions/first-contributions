@@ -42,6 +42,7 @@ Arnel Forbes
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
+- [Dusan Pilipovic](https://github.com/razzil1)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
