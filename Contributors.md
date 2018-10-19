@@ -1575,6 +1575,7 @@
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
+- [Finn J-S](https://github.com/finnjs1)
 - [Hayward Harris](https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
 - [Noozster](https://github.com/noozster)
