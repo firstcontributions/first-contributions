@@ -5477,6 +5477,7 @@ Orandi Harris
 - [Suzannah Emairi](https://github.com/emairi)
 - [Andrew Hatfield](https://github.com/andrewhatfield)
 - [Arthur Zinck](https://github.com/arthurzinck)
+- [Tomas Smikis](https://github.com/smikis)
 - [Legendahkiin](https://github.com/Legendahkiin/)
 - [David Mayes](https://github.com/David-Mayes)
 - [Hung-Chuan Huang](https://github.com/huanghungchuan)
