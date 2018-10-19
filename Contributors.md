@@ -7302,6 +7302,7 @@ Orandi Harris
 - [Chris Starkey](https://github.com/chrisstarkey)
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
+- [Geno Kozniuk](https://github.com/kgeno)
 - [zenott](https://github.com/zenott)
 - [kclaka](https://github.com/kclaka)
 - [Mitch Bilensky](https://github.com/MitchB09)
@@ -8387,4 +8388,3 @@ Orandi Harris
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
-- [Geno Kozniuk](https://github.com/kgeno)
