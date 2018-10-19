@@ -8490,6 +8490,7 @@ Orandi Harris
 - [Gulcan Baran](https://github.com/gulcann)
 - [Filipe Cruz](https://github.com/filipe7788)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
+- [Yashas Reddy](https://github.com/qwertyhup)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
