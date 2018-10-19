@@ -295,6 +295,7 @@ Edison Shek
 - [Sharath Shankaran D](https://github.com/sharathsharz26)
 - [Erdal TAŞKESEN](https://github.com/erdtsksn)
 - [Leon ROUX](https://github.com/Nurrl)
+- [Arindam Kundu](https://github.com/itsmrkundu)
 - [Pavan kumar](https://github.com/sudouser89)
 - [Emmanuel Osuh](https://github.com/musonant)
 - [Joel Hanson](https://github.com/Joel-hanson)
