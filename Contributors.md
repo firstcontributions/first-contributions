@@ -890,6 +890,7 @@ Arnel Forbes
 - [Shashank Mohabia](https://github.com/shashankmohabia)
 - [bjorkqvist](https://github.com/bjorkqvist)
 - [ejfilip](https://github.com/ejfilip)
+- [Shoukkiya Ashraf](https://github.com/ShoukkiyaAshraf)
 - [Jeremy Friesen](https://github.com/jeremydavidfriesen)
 - [Alvin Tu](https://github.com/ajtu)
 - [Ana Letícia](https://github.com/anacamargos)
