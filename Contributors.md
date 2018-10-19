@@ -324,6 +324,7 @@
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
+- [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
 - [Jewel Jo Prince](https://github.com/jeweljoppan)
 - [Courtney Adams](https://github.com/cadams8238)
@@ -454,6 +455,7 @@
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Matheus Malta](https://github.com/matheus-malta)
+- [Eva C](https://github.com/Eva-C)
 - [Himanshu Jotwani]()
 - bunso tisoy
 - [Prakher Prashank]()
