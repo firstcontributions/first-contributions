@@ -8252,6 +8252,7 @@ Orandi Harris
 - [Wico](https://github.com/wicogohome)
 - [1337k0d3r](https://github.com/1337k0d3r)
 - [Koh You Liang](https://github.com/isopach)
+- [Kaderle Tobias](https://github.com/HatboyWonder)
 - [tuj1mura](https://github.com/tuj1mura)
 - [Pavit Kaur](http://github.com/PavitKaur05)
 - [Martin Vds](https://github.com/MartinVandersteen)
