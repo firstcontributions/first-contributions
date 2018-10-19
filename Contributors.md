@@ -8428,4 +8428,5 @@ Orandi Harris
 - [a-ray](https://github.com/a-ray) 
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
+- [Harry Teo](https://github.com/harryTeo)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
