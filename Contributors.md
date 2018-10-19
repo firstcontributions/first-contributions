@@ -8503,6 +8503,7 @@ Orandi Harris
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
 - [Priyendu Mori](https://github.com/priyendumori)
+- [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
@@ -8511,4 +8512,3 @@ Orandi Harris
 - [Alejandro Muñoz Crespo](https://github.com/amunozcr)
 - [Vamsi Krishna](https://github.com/vamsi3)
 - [Roi Ben Shaul](https://github.com/rughciatuk)
-- [Zan Javed](https://github.com/zjaved101)
