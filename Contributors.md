@@ -8670,4 +8670,4 @@ Orandi Harris
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
 - [Freeda Vales](https://github.com/fvales)
-
+- [Nermin Ahmetasevic](https://github.com/nerko19)
