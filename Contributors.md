@@ -8648,6 +8648,7 @@ Orandi Harris
 - [Dennis Braun](https://github.com/l0min)
 - [Xavier Marques] (https://github.com/wolframtheta)
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
+- [Ayoola Akindolani](https://github.com/dolani)
 - [Crewsy](https://github.com/crewsycrews)
 - [Shahnur](https://github.com/sisgandarli)
 - [Gabriel Tha](https://github.com/GabrielTha)
