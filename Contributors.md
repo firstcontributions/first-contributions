@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 Arnel Forbes
@@ -7440,6 +7440,7 @@ Orandi Harris
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Adithya J](https://github.com/adithya321)
 - [Narat S](https://github.com/mixth)
+- [Ebony Seabridge](https://github.com/ebony-seabridge)
 - [Shashank Bairy R](https://github.com/BA1RY)
 - [Andre du Plessis](https://github.com/AndreDP-Developer)
 - [lincrampton](https://github.com/lincrampton)
