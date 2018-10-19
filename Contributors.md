@@ -220,6 +220,7 @@
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
 - [Santiago Carello](https://github.com/santiagocarello)
 - [Nilesh Deepak](https://github.com/nileshdeepak)
+- [Saheel Wagh](https://github.com/saheelwagh)
 - [Vakas Zia](https://github.com/MVakas)
 - [xribene](https://github.com/xribene)
 - [ArcticSniper](https://github.com/ArcticSniper)
@@ -1005,4 +1006,3 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
-- [Saheel Wagh](https://github.com/saheelwagh)
