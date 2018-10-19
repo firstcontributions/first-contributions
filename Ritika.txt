@@ -1,0 +1,11 @@
+#! /bin/bash
+read f1
+read f2
+ls -l $f1
+ls -l $f2
+if [ $f1 -ot $f2 ] 
+then 
+echo "$f1 is older"
+else
+echo "$f2 is older"
+fi
