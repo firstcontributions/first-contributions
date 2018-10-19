@@ -44,6 +44,7 @@ Arnel Forbes
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
+- [Rishabh Sharma]
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)\
@@ -6499,6 +6500,7 @@ Orandi Harris
 - [Fueoui Filetto](https://github.com/fueoui)
 - [Guang-yi "Mike" Lee](https://github.com/guang-yi)
 - [Jefferson Ighalo](https://github.com/jeffersonnnn)
+- [Eduardo Lauer](https://github.com/edumlauer)
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
 - [Elio Ramiro Flores Choque](https://github.com/erfc993)
@@ -8659,5 +8661,6 @@ Orandi Harris
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
+- [Freeda Vales](https://github.com/fvales)
 - [Aleksander Uniatowicz](https://github.com/oleks12345)
 
