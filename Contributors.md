@@ -8546,3 +8546,4 @@ Orandi Harris
 - [Xraycat](https://github.com/Xraycat)
 - [DonnyCraft1](https://github.com/DonnyCraft1)
 - [Ramitha](https://github.com/ramiiZPD)
+- [Paulo Gonçalves](https://github.com/prpgleto)
