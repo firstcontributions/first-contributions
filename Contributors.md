@@ -823,6 +823,7 @@ Arnel Forbes
 - [Akshit Goyal](https://github.com/akshit15013)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani](https://github.com/avani)
+- [Shoaib Siddiqi](https://github.com/ShoaibSiddiqi)
 - [John Doe](https://github.com/johndoe)
 - [Emma Kingston](https://github.com/emmakingston)
 - [Kevin John](https://github.com/Kevv-J)
