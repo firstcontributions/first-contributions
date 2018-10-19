@@ -1448,6 +1448,7 @@ Edison Shek
 - [Varsha Chahal](https://github.com/VarshaChahal)
 - [Kavinda Senarathne](https://github.com/Kavinda-Senarathne)
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
+- [Anish Walia] (https://github.com/anishwalia)
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
