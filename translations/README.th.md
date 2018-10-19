@@ -125,5 +125,5 @@ git push origin <ชื่อ branch ของคุณ>
 หากคุณชอบโครงการนี้ สามารถกดดาวไว้บน [GitHub](https://github.com/Roshanjossey/first-contributions) ได้ หรือหากรู้สึกดีเป็นพิเศษสามารถติดตาม [Roshan](https://roshanjossey.github.io/) บน
 [Twitter](https://twitter.com/sudo__bangbang) และ
 [GitHub](https://github.com/roshanjossey) ได้
-
+[Github](https://github.com/nethmag)
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
