@@ -8307,6 +8307,7 @@ Orandi Harris
 - [Law Zava](https://github.com/lawzava)
 - [Viraj Chavan](https://github.com/virajvchavan)
 - [Zainab Nomi](https://github.com/zainabnomi)
+- [Taylr Leija](https://github.com/tleija)
 - [Marcos Paulo](https://github.com/marcos012)
 - [Michael Beirnaert](https://github.com/pon8)
 - [MisterX22](https://github.com/MisterX22)
