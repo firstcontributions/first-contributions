@@ -7788,6 +7788,7 @@ Orandi Harris
 - [Justin Estaris](https://github.com/JustinEstaris)
 - [Justin Estaris](https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
+- [Henning K](https://github.com/Henning-K)
 - [Pranav Garg](https://github.com/pranavgarg123)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
 - [Jasper Danan](https://github.com/JasperDanan)
