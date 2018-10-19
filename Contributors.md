@@ -20,7 +20,9 @@ Arnel Forbes
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
+- [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
+- [Mike Capps](https://github.com/MikeCapps2006)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Matthew Shelbourn](https://github.com/shelbourn)
 - [Marius Maries](https://github.com/mariuscm)
@@ -29,6 +31,7 @@ Arnel Forbes
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - Zude Mwango
+- [Cole Beck](https://github.com/claniere
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
@@ -76,6 +79,7 @@ Arnel Forbes
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
+- [Pablo Triandafilide] (https://github.com/pablotrianda)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
 Edison Shek
@@ -3667,6 +3671,7 @@ Orandi Harris
 - [Dipti Kulkarni](https://github.com/cyberdrk)
 - [Graham Beekamn](https://github.com/gbeekman)
 - [Utkarsh Deep](https://github.com/utkarshdeep)
+- [Manoel Neto](https://github.com/manoelneto-dev)
 - [Hannah(lifesizerobot)](https://github.com/lifesizerobot)
 - [justjavac](https://github.com/justjavac)
 - [Jeffrey Ho](https://github.com/Jeffrey-Ho)
@@ -8708,6 +8713,7 @@ Orandi Harris
 - [Dominic Mostert](https://github.com/MostertCoder)
 - [meltz](https://github.com/meltz)
 - [Sastem](https://github.com/Sastem)
+- [Shounak7](https://github.com/shounak7)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
@@ -8718,4 +8724,5 @@ Orandi Harris
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
 - [Dan Roberts](https://github.com/Danno3D)
+- [Edward Evans](https://github.com/eeevans)
 
