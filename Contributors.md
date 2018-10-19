@@ -104,6 +104,7 @@ Edison Shek
 - [Zeddmaxx](https://github.com/zeddmaxx)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
+- [Lilian Ferreira](https://github.com/lilianferreira)
 - [Kenny Zhou](https://github.com/Kenford20)
 - [João Mota](https://github.com/jpmmota)
 - [Calvin Golas](https://github.com/CalvinGolas)
