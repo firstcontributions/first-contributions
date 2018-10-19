@@ -7638,6 +7638,7 @@ Orandi Harris
 - [Rajat Varyani](https://github.com/RajatVaryani)
 - [Kyle Conrad](https://github.com/conraddev)
 - [Felipe Domingues](https://github.com/felipeeu)
+- [Steve S](https://github.com/stevezero)
 - [Gwenael Ielpo](https://github.com/Bobsloth)
 - [H Droider](https://github.com/h-droider)
 - [James Baffoni](https://github.com/jaybaffoni)
@@ -8396,4 +8397,3 @@ Orandi Harris
 - [Klaudia](https://github.com/klaudiakp)
 - [Darkatom](https://github.com/Darkatom)
 - [Aaron Shannon](https://github.com/aarondshan)
-- [Steve S](https://github.com/stevezero)
