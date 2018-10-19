@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
+- [Prateek Rathore](https://github.com/AndroConsis)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
@@ -8637,4 +8638,5 @@ Orandi Harris
 - [meltz](https://github.com/meltz)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
+-[Prateel Rathore]
 
