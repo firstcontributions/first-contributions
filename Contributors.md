@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Raghav Aggarwal](https://github.com/omgraghav)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
