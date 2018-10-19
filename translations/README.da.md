@@ -50,7 +50,7 @@ At læse artikler og se video guides hjælper, men hvad er bedre end at bruge de
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
-
+[SL](translations/README.sl.md)
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
