@@ -6816,6 +6816,7 @@ Orandi Harris
 - [Ryan Blake](https://github.com/RainSoakedBear)
 - [Phil Hannant](https://github.com/philhannant)
 - [Ray Kuo](https://github.com/raykuonz)
+- [Giulianno Sbrugnera](https://github.com/giuliannosbrugnera)
 - [Wentao Zhang](https://github.com/hellowentao)
 - [Olivia Caraiman](https://github.com/oliviacaraiman)
 - [Khushaboo Yadav](https://github.com/Khushi55)
