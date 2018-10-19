@@ -60,6 +60,7 @@ Arnel Forbes
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
 - [Massimo7](https://github.com/Massimo7)
+- [Sergio Abreu García](https://github.com/saggamedeveloper)
 - [Zeddmaxx](https://github.com/zeddmaxx)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
