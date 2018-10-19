@@ -11,6 +11,7 @@ Arnel Forbes
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [sahil tagunde](https://github.com/tagsahil)
+- [Aneesh Chawla](https://github.com/aneesh404)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Lucky Murari](https://github.com/luckymurari)
