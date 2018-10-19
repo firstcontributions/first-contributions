@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Alex WU v2](https://github.com/AlexWUrobot)
+
 - [Huu Ngoc Chinh Cao] (https://github.com/ganhatgame)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Adwan Alshammari](https://github.com/adwanAK)
@@ -943,6 +943,7 @@
 - [Rodrigo Andrade](https://github.com/rodrigodata)
 - [Keshav Seksaria](https://github.com/keshavseksaria)
 - [Sindhu Hosangadi](https://github.com/Blue-Blaze364)
+- [Alex WU v2](https://github.com/AlexWUrobot)
 - [Paresh Gupta](https://github.com/guptaparesh)
 - [Chit Thae Naing](https://github.com/chitthaenaing)
 - [Amanchi Naga Sai Sree Deepthi](https://github.com/SreeDeepthi1253)
