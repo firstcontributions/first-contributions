@@ -111,6 +111,7 @@
 - [Ashu](https://github.com/ashu1999)
 - [Taylor](https://github.com/ATaylor1181/)
 - [Erick Martinez](https://github.com/ErickMtz)
+- [AK White](https://github.com/akwhite)
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
