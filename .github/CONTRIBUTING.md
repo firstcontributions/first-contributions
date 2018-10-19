@@ -27,12 +27,12 @@ Move to the desired location where package.json file is located
 - [Translation Guide](#translation-guide)
 
 ## Code of Conduct
-If you want to contribute, you need to know a few things.
+If you want to contribute, you need to know few things.
 
 [Code of conduct](../CODE_OF_CONDUCT.md)
 
 ## Translation Guide
-We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
+We have some rules for translations. If you make the first translation for your language, you must add your language list on `Translations.md`.
 
 #### Example
 
@@ -46,7 +46,6 @@ We have some rules for translation. If you make the first translation for your l
 ```
 
 ## TODO
-- [ ] Fix the grammar for the contribution guide.
 - [ ] Add more examples and more guides.
 
 
