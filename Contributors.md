@@ -336,6 +336,7 @@ Arnel Forbes
 - [Hunter Wallace](https://github.com/Hjwallace)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [jack hu](https://github.com/jackhub)
+- [Thomas Wicks](https://github.com/ThomasWicks)
 - vibhasi
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
