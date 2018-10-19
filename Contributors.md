@@ -1,6 +1,5 @@
 ﻿# Contributors
 
-- [Eldo Greshard] (https://github.com/karmael)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [billyderringer](https://github.com/billyderringer)
 - [lakshan](https://github.com/Lakshangit)
@@ -694,6 +693,7 @@
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Michael Johansson](https://github.com/mickethespike)
+- [Eldo Greshard](https://github.com/karmael)
 - [nancynh](https://github.com/nancynh)
 - [Sushanth Ikshwaku](https://github.com/SushanthIkshwaku)
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
