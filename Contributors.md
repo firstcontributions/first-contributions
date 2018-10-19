@@ -8499,3 +8499,4 @@ Orandi Harris
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
+- [Nixon Kosgei](https://github.com/nickhq)
