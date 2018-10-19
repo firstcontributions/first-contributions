@@ -8565,6 +8565,7 @@ Orandi Harris
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
+- [Exvilia] (https://github.com/Exvilia)
 - [DonnyCraft1](https://github.com/DonnyCraft1)
 - [Ramitha](https://github.com/ramiiZPD)
 - [Paulo Gonçalves](https://github.com/prpgleto)
