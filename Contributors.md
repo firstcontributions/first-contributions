@@ -57,6 +57,7 @@ Arnel Forbes
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
+Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Saranraj Sekar](https://github.com/saran-thala)
 - [Arya Atighehchian](https://github.com/Arya04)
