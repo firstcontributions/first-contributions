@@ -23,6 +23,7 @@ Arnel Forbes
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Brian Barry](https://github.com/bribarry)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
