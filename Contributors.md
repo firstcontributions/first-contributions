@@ -66,6 +66,7 @@
 - [Dennis Wanne](https://github.com/Denni2)
 - [Jalaj Gupta](https://github.com/thevip799)
 - [Erica Cope](https://github.com/ericacope)
+- [Desmond Harris](https://github.com/MisterUniverse)
 - [UnsweetT](https://github.com/unsweett)
 - [vikas1](https://github.com/hVIKAS)
 - [rooki blue](https://github.com/rookieblue0001)
