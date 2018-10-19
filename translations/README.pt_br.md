@@ -82,7 +82,7 @@ Faça um Push utilizando o comando `git push`:
 ```
 git push origin <add-seu-nome>
 ```
-substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
+Substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
