@@ -24,6 +24,7 @@
 - [João Bini](https://github.com/joaopbini)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
+- [Anish Badri R S] (https://github.com/anishbadhri)
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
