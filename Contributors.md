@@ -8499,6 +8499,7 @@ Orandi Harris
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
 - [Jude Osbert K](https://github.com/judeosbert)
+  [Juwana Zerman](https://github.com/JZerman2018)
 - [Cholinka13](https://github.com/cholinka13)
 - [Hearot](https://github.com/hearot)
 - [Kostas Evangelou](https://github.com/kostasev)
