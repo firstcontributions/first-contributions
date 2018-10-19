@@ -10,6 +10,7 @@
 - [ShubU](http://github.com/shubu)
 - [punisher](https://github.com/punisherpbb)
 - [Lakshay Wadhwa](http://github.com/luck-u)
+- [Chike Nnamadim](https://github.com/Perfected1)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Archit Singla](https://github.com/architsingla13)
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
