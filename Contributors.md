@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
@@ -183,6 +183,7 @@
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Oluwakorede Fashokun](https://github.com/korede360)
+- [Shane Wilson](https://github.com/mistyferocity43)
 - [Anshu Kumar](https://github.com/Anshuvats)
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
@@ -5829,6 +5830,7 @@ Orandi Harris
 - [Issa Abdulkadir](https://github.com/issa24)
 - [Solmaz Khosravi](https://github.com/solmazkh)
 - [Nestor Cortes](https://github.com/nestor-c)
+- [dmd710](https://github.com/dmd710)
 - [Ryan Bassette](https://github.com/ryebass)
 - [Lloyd Edwards](https://github.com/meanlamp)
 - [Josh Burton](https://github.com/jburton8686)
@@ -8434,4 +8436,5 @@ Orandi Harris
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Simon Situ](https://github.com/ssitu001)
+- [Wei](https://github.com/weichenw)
 - Tridhuli ([@opyearsa](https://github.com/opyearsa)) 
