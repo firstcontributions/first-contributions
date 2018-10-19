@@ -437,7 +437,7 @@ Edison Shek
 - [dantemustdie](https://github.com/PulkitKhagta)
 - [Maureen Haley](https://github.com/haleyma)
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
-- [Gaurav Kukade](https://github.com/gauravkukade)
+- [Gaurav Kukade] (https://github.com/gauravkukade)
 - [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora] (https://github.com/hotshot07)
 - [Kim](https://github.com/kimmeccsb)
@@ -8647,4 +8647,4 @@ Orandi Harris
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
-
+- [Marlen A.H.R.](https://github.com/Emrice)
