@@ -1,7 +1,6 @@
 # Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
-Arnel Forbes
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
@@ -18,6 +17,7 @@ Arnel Forbes
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Joseph Ostroman](https://github.com/ostomaj)
+- [Adenle Abiodun](https://github.com/abbeyseto)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
@@ -6175,7 +6175,6 @@ Orandi Harris
 - [JT Mark](https://github.com/JT-Mark)
 - [Jasper Chong](https://github.com/jasperchong)
 - [Yousef Saif](https://github.com/yousefsaif)
-- [Brian Chalfant](https://github.com/chalfeezy)
 - [Emil O. Johansen](https://github.com/EmilOJ)
 - [Leo Esp](https://github.com/lespenilla)
 - [Doug Dozier](https://github.com/ddozier)
@@ -8505,7 +8504,6 @@ Orandi Harris
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
 - [Priyendu Mori](https://github.com/priyendumori)
-- [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
