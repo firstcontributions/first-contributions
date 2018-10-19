@@ -35,6 +35,7 @@
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
+- [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
 - [Satyam Uttam]
 - [Jose Hernandez](https://github.com/JHernandez99)
