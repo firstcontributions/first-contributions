@@ -104,6 +104,7 @@
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
 - [Parth Manhas](https://github.com/ishouldcode)
+- [Rim Fardiyev](https://github.com/Dreammaster13)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
