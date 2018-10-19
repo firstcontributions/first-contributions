@@ -38,6 +38,7 @@ Arnel Forbes
 - [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
 - [Yatharth Manocha](https://github.com/YaMo97)
+- [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
