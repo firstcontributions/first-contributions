@@ -92,6 +92,7 @@
 - [Michael Harvey](https://github.com/harvey-dev)
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
+- [Jennifer E Yoon](https://github.com/JennEYoon)
 - Shani Rub
 - wrecKING Tsukinoryoshu
 - [Dominik Blek](https://github.com/zybex86)
