@@ -326,6 +326,7 @@ Arnel Forbes
 - [Vanessa Singh](https://github.com/VanessaSingh)
 - [jack hu](https://github.com/jackhub)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
+- [Aidan Oleary](https://github.com/aidanoleary)
 - [sara_in_codeland](https://github.com/sangerftw)
 - [Roopam Sharma](https://github.com/RoopamSharma)
 - [Pankaj Niroula](https://github.com/npankaj365)
