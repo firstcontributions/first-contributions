@@ -133,7 +133,7 @@ Now let's get ye started wit' contributin' t' other projects. We've compiled a l
 
 If ye liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If ye're feelin' especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+[Twitter](https://twitter.com/sudo__bangbang) 'n
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
