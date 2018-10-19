@@ -210,6 +210,7 @@ Edison Shek
 - [Archit Singla](https://github.com/architsingla13)
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
 - [Julie Martin](https://github.com/juliebugmtl)
+- [Saul Barros] (https://github.com/dsbsaul)
 - [Sumanth Kumar Nayak](https://github.com/sumanth0904)
 - [ABDulgaphy](https://github.com/abdulgaphy)
 - [Shawn Flores](https://github.com/priultimus)
