@@ -25,6 +25,7 @@ Arnel Forbes
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Brian Barry](https://github.com/bribarry)
+- [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter Karakas](https://github.com/peti2001)
