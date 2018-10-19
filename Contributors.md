@@ -1,4 +1,4 @@
-a# Contributors
+# Contributors
 
 - Pietil
 - [Jason Secrest](https://github.com/jsecrest)
