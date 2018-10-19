@@ -22,6 +22,7 @@ Arnel Forbes
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
+- [Mike Capps](https://github.com/MikeCapps2006)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Matthew Shelbourn](https://github.com/shelbourn)
 - [Marius Maries](https://github.com/mariuscm)
