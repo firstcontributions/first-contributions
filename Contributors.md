@@ -6935,6 +6935,8 @@ Orandi Harris
 - [Mahery Haja](https://github.com/maheryhaja)
 - [Jennifer Dennis](https://www.githib.com/jldennis)
 - [Matthew Fennell](https://github.com/MatthewRFennell)
+- [Matthew Freeman]
+(https://github.com/matthewfreeman821)
 - [Chukwuma Elui](https://github.com/worldwayii)
 - [Joy Zhang](https://github.com/joy8zhang)
 - [Lun Zhang](https://github.com/lunzhang)
