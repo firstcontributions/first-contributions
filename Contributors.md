@@ -1,6 +1,8 @@
 ﻿
 # Contributors
 
+- [Sarah](https://github.com/sarahxoxo)
+- [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
 - [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
@@ -22,7 +24,8 @@
 - Duwayne the rock Johnson
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
 - [Rayan Hatout](https://github.com/rayanht)
-- [Dheyay Desai](https://github.com/ddcr7)
+- [Ananay Garg](https://github.com/ananaygarg)
+- [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Ayush Varshney](https://github.com/Sushi314)
@@ -104,10 +107,11 @@
 - Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
-- [Saranraj Sekar](https://github.com/saran-thala)
+- first-contributions
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
+- [Jeetendra Singh](https://github.com/g10drasingh)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
 - [Florian Mauduit](https://github.com/ftx)
 - [Kumar Kartikeya](https://github.com/kkartikeya1998)
@@ -5905,6 +5909,7 @@
 - [Ajay Jedhe](https://github.com/ajay1011)
 - [YongJe Joung](https://github.com/YoungsAppWorkshop)
 - [Vivian Wu](https://github.com/vywu)
+- [KayKayEhnn](https://github.com/kaykayehnn)
 - [Giovanni HoSang](https://github.com/realgio95)
 - [Christopher Reece](https://github.com/momotofu)
 - [Alejandro Calleja](https://github.com/alximw)
@@ -8193,6 +8198,7 @@
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Vignesh B.S](https://github.com/vignesh1999)
+- [Adones Reballos](https://github.com/dondonai)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
 - [Tommy Lusun](https://github.com/tommylusun)
 - [Christopher Shockley](https://github.com/cishocksr)
