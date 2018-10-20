@@ -4,6 +4,7 @@
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
+- [leoramos182] (https://github.com/leoramos182)
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Deepak Sood](https://github.com/deepaksood619)
@@ -8622,5 +8623,6 @@ Orandi Harris
 - [Gabriel Tha](https://github.com/GabrielTha)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
+- [Leoramos182] (https://github.com/leoramos182)
 - [meltz](https://github.com/meltz)
 
