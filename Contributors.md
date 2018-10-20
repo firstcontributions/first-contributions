@@ -46,6 +46,7 @@ Arnel Forbes
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
 - [sahil tagunde](https://github.com/tagsahil)
+- [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Karan Reddy](https://github.com/karanreddy77)
