@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
