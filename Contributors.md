@@ -8825,6 +8825,8 @@ Benzene
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Nikos](https://github.com/linakis)
+- [Brenden Thornton](https://github.com/bthornton505)
+- [Nikos](https://github.com/linakis))
 - [Adi Biton](https://github.com/adibiton)
 - [Sara Ashraf](https://github.com/ZaraAshraf)
 - [Amit Levy](https://github.com/amitlevy)
