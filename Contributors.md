@@ -71,6 +71,7 @@ Arnel Forbes
 - [Peter salihu](https://github.com/c-virus)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
+- [thinkinbee](https://github.com/thinkinbee)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Griffin Gaeth](https://github.com/ggaeth)
 - [Karen Tobo](https://github.com/karentobo)
