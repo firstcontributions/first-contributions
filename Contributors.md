@@ -512,6 +512,7 @@ Edison Shek
 - [Robert Simatei](https://github.com/simatei)
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Cleberson Junior](https://github.com/cleberson-dev)
+- [Valeos]
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Patrick Stepanian](https://github.com/stepanianpat)
 - [Simmar Kalsi](https://github.com/gyr0tron)
