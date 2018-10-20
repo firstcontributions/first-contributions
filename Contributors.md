@@ -3548,6 +3548,7 @@ Orandi Harris
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
 - [Joe Wilson](https://github.com/jaw0608)
+- [Jordan Hale-Clowes](https://github.com/JordanHC)
 - [Paul Chabot](https://github.com/paulch4bot)
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
