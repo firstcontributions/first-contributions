@@ -51,6 +51,7 @@ Arnel Forbes
 - [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
 - [Mike Capps](https://github.com/MikeCapps2006)
+- [Adrija Acharyya](https://github.com/adrijaacharyya)
 - [Maria Aveiro](https://github.com/aveirinha)
 - [William Baker](https://github.com/wjbaker101)
 - [Chris Fotso](https://github.com/chrisfotso)
