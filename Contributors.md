@@ -8,6 +8,7 @@
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [MC_Leut](https://github.com/MCLeut)
 - [Michael Robinson](https://github.com/NightFury20)
+- [Davina Leong](https://github.com/DavinaLeong)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Marc Brooks](https://github.com/AGeekInside)
 - [Podrig](https://github.com/PadraigLeoghain)
