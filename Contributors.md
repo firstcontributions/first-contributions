@@ -26,6 +26,7 @@ Arnel Forbes
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
+- [Darren Lim] (https://github.com/dlim28)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Karan Reddy](https://github.com/karanreddy77)
