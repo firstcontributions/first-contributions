@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [Chromium](https://github.com/CrCs2O4)
@@ -42,6 +42,7 @@ Arnel Forbes
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Marjy Guery](https://github.com/mguery)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
