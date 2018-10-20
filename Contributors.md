@@ -17,6 +17,7 @@
 - [Marc Brooks](https://github.com/AGeekInside)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Podrig](https://github.com/PadraigLeoghain)
+- [JustABeginner]
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
