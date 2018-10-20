@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Catarina Belém](https://github.com/PastelBelem8)
+- [Uttam Kamalia](https://github.com/Uttamkamalia)
 - [James King](https://github.com/2000jcking)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
