@@ -15,7 +15,9 @@
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Marc Brooks](https://github.com/AGeekInside)
+- [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Podrig](https://github.com/PadraigLeoghain)
+- [JustABeginner]
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
@@ -61,6 +63,7 @@ Arnel Forbes
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
+- [Yoad Wolfsthal](https://github.com/yoadwo)
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -69,6 +72,7 @@ Arnel Forbes
 - [Peter salihu](https://github.com/c-virus)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
+- [thinkinbee](https://github.com/thinkinbee)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Griffin Gaeth](https://github.com/ggaeth)
 - [Karen Tobo](https://github.com/karentobo)
@@ -8773,3 +8777,4 @@ Benzene
 - [Poomchaio] (https://github.com/poomchaio)
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Dmitry Ryviakin](https://github.com/dimaryv)
+- [Bartek Slowik](http://bartek.slowik.cc/)
