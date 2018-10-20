@@ -1,4 +1,4 @@
-﻿
+
 # Contributors
 
 - [Chromium](https://github.com/CrCs2O4)
@@ -31,6 +31,7 @@ Arnel Forbes
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
 - [Rayan Hatout](https://github.com/rayanht)
 - [Ananay Garg](https://github.com/ananaygarg)
+- [Gates Cao](https://github.com/gatescao)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
