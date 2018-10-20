@@ -5062,6 +5062,7 @@ Orandi Harris
 - [sm-coding](https://github.com/sm-coding)
 - [Rafael Roman](https://github.com/raftael)
 - [Wesley Tian](https://github.com/wesleytian)
+- [Ian Godsmark](https://github.com/igodsmark)
 - [Anupam Asok](https://github.com/anu-asok)
 - [Avinash Bharti](https://github.com/avinashbharti97)
 - [Leonardo Medina](https://github.com/leonardomedina)
