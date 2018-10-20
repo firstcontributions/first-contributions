@@ -3848,6 +3848,7 @@ Orandi Harris
 - [Derik Lu](https://github.com/DerikLu)
 - [Viral Vin](http://github.com/viralvin)
 - [Klara Miffili](https://github.com/Miffili)
+- [Niic](https://github.com/niiccolas)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
 - [Igor Cvitas](https://github.com/Vijuu)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
