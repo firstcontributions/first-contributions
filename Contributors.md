@@ -6216,6 +6216,7 @@ Orandi Harris
 - [Patrick Ellway](https://github.com/pellway/)
 - [Dominik Bogunia](https://github.com/dbogunia)
 - [Michael Langlais](https://github.com/mdlanglais)
+- [Vincent Iroleh](https://github.com/vincentiroleh)
 - [Karthik Datta](https://github.com/karthikdatta)
 - [Bartolome Estelrich](https://github.com/BEstelrich)
 - [Laimonas Oberauskis](https://github.com/olaimonas)
