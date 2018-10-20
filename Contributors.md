@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Markus Muzikants](https:/github.com/RaitoDaku)
 - [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
