@@ -64,6 +64,7 @@ Arnel Forbes
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Ivana Livaja](https://github.com/ivilili)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter salihu](https://github.com/c-virus)
 - [Peter Karakas](https://github.com/peti2001)
