@@ -15,6 +15,7 @@
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Marc Brooks](https://github.com/AGeekInside)
+- [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
