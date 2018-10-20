@@ -14,7 +14,7 @@ Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti g
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Jei neturite instaliuoto git, [ instaliuokite čia ]( https://help.github.com/articles/set-up-git/).
+Jei neturite instaliuoto git, [instaliuokite čia]( https://help.github.com/articles/set-up-git/).
 
 ## Kopijuokite (fork) šią saugyklą
 
