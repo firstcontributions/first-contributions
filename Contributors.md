@@ -133,6 +133,7 @@ Edison Shek
 - [Massimo7](https://github.com/Massimo7)
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
 - [John Ivison](https://github.com/mattecatte)
+- [Hamid Reside](https://github.com/hallowcard13)
 - [Zeddmaxx](https://github.com/zeddmaxx)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
