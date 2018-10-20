@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -1438,6 +1438,7 @@ Edison Shek
 - [Aviv Alon](https://github.com/aalon2)
 - [Hunter Esposito](https://github.com/hesposi2278)
 - [Vincent Huang](https://github.com/vinceajcs)
+- [Ankit Pandey](https://github.com/belovedankit)
 - [Qaasim](https://github.com/Orientales)
 - [Shailesh Vashishth](https://github.com/shim101)
 - [Marissa Shaffer](https://github.com/msshaffer2003)
@@ -8620,6 +8621,7 @@ Orandi Harris
 - [Yongho Lee](https://github.com/inthewalter)
 - [segao](https://github.com/segao)
 - [Anand P](https://github.com/anandpaithankar)
+- Ankit Pandey
 - Connor Dowson
 - [Josh Cavinder](https://github.com/josh-cavinder)
 - [Devon Burley](https://github.com/dburly)
