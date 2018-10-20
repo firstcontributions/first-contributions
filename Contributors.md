@@ -40,6 +40,7 @@ Arnel Forbes
 - [Alex Tai](https://github.com/alextechtai)
 - [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
+- [Marjy Guery](https://github.com/mguery)
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
