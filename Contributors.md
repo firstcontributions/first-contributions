@@ -9,6 +9,7 @@
 - [MC_Leut](https://github.com/MCLeut)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Marc Brooks](https://github.com/AGeekInside)
 - [Podrig](https://github.com/PadraigLeoghain)
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
