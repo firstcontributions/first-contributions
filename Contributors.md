@@ -282,6 +282,7 @@ Edison Shek
 - [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Tim Griffith](https://github.com/grifmang)
+- [Muhammed Khamis](https://github.com/MuhammedKhamis)
 - [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Priyal Narang](https://github.com/PriyalNarang)
