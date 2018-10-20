@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Chromium](https://github.com/CrCs2O4)
 - [Sarah](https://github.com/sarahxoxo)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Samane](https://github.com/samaneyaghoobi)
