@@ -1188,7 +1188,7 @@
 - [bekawas](https://github.com/bekawas)
 - [Belguith Omar](https://github.com/OmarBelguith)
 - [Ben Castan](https://github.com/bencastan)
-- [Ben Crane](htts://github.com/benscrane)
+- [Ben Crane](https://github.com/benscrane)
 - [Ben Danen](https://github.com/HendrikBD)
 - [Ben Faus](https://github.com/bdfoz)
 - [Ben Lechlitner](https://github.com/asphaltbuffet)
