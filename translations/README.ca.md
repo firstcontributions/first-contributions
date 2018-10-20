@@ -32,6 +32,9 @@ Obriu una terminal i executeu la següent comanda de git:
 ```
 git clone "url que acabeu de copiar"
 ```
+
+Recordeu, una vegada més, que el repositori a clonar es el que heu fet fork, no el principal.
+
 on "url que acabeu de copiar" (sense cometes dobles) és la *url* per a aquest respositori (el vostre *fork* d'aquest projecte). Veure els passos anteriors per a obtenir la *url*.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copiar URL al porta-retalls" />
