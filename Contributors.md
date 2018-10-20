@@ -45,6 +45,7 @@ Arnel Forbes
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Karan Reddy](https://github.com/karanreddy77)
+- [Arthur van Acker](https://github.com/puupa)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
