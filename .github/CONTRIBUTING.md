@@ -49,5 +49,5 @@ We have some rules for translation. If you make the first translation for your l
 - [ ] Fix the grammar for the contribution guide.
 - [ ] Add more examples and more guides.
 
-
+GitHub is AWESOME!
 Thanks! :heart:
