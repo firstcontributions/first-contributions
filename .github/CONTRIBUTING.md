@@ -7,19 +7,17 @@ You must run the files locally on your desktop.
 
 In order to do that:
 
-Move to the location where the `package.json` file is located
+1. Move to the directory where `package.json` is located.
 
-- Install the latest version of npm (Node Package Manager) -
-    npm is distributed with Node.js - which means that when you download Node.js,
-    npm is automatically installed on your computer.
-    [get npm](https://www.npmjs.com/get-npm)
-- Install all the dependencies used by this project.
+2. Install the latest version of npm (Node Package Manager)
+    _Please note that npm is distributed with Node.js. This means that when you download Node.js, npm is automatically installed on your computer._
+[Get npm](https://www.npmjs.com/get-npm).
+
+3. Install all dependencies used by this project.
    Use this command:  `install npm`
 
-- Run these final commands to run it locally:
-
+4. Use these final commands to run it locally:
   `npm run build`
-  
   `npm start`
 
 #### Table Of Contents
@@ -36,7 +34,7 @@ We have some rules for translation. If you are the first person to create a tran
 
 `Translations.md`
 ```markdown
-|Country | Translated Link |
+| Country | Translated Link |
 | --- | --- |
 | English | [English](../README.md) |
 | 🇮🇳 India | [Hindi](../translations/README.hi.md) |
@@ -44,7 +42,7 @@ We have some rules for translation. If you are the first person to create a tran
 ```
 
 ## TODO
-- [ ] Fix the grammar for the contribution guide.
+- [x] Fix the grammar for the contribution guide.
 - [ ] Add more examples and more guides.
 
 
