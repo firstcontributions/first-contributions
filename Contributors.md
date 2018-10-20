@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -1019,6 +1019,7 @@ Edison Shek
 - [Sreerej](https://github.com/ssreerej)
 - [blole](https://github.com/dumblole)
 - [Ruchi Sharma](https://github.com/ruchics)
+- [Andrew Cannell](http://github.com/Lennac)
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Alvin Tu](https://github.com/ajtu)
 - [Shashank Avunoori](https://github.com/Shashank100297)
