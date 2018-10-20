@@ -56,6 +56,7 @@ Arnel Forbes
 - [Lucky Murari](https://github.com/luckymurari)
 - [Mike Capps](https://github.com/MikeCapps2006)
 - [Adrija Acharyya](https://github.com/adrijaacharyya)
+- [Ross Clark](https://github.com/ross-clark)
 - [Maria Aveiro](https://github.com/aveirinha)
 - [William Baker](https://github.com/wjbaker101)
 - [Chris Fotso](https://github.com/chrisfotso)
