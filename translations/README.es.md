@@ -55,6 +55,12 @@ Ahora crea una rama (*branch*) usando el comando  `git checkout`:
 git checkout -b <añade tu nombre>
 ```
 
+Si ya tenías creada la rama (*branch*), no debes usar -b, sino :
+
+```
+git checkout <añade tu nombre>
+```
+
 Por ejemplo:
 ```
 git checkout -b add-alonzo-church
