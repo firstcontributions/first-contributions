@@ -23,6 +23,7 @@
 - [JustABeginner]
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
+- [Gautam Hans](https://github.com/gautamhans1)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
@@ -282,7 +283,6 @@ Edison Shek
 - [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Rahul chauhan](https://github.com/rahulchauhan049)
 - [Tim Griffith](https://github.com/grifmang)
-- [Muhammed Khamis](https://github.com/MuhammedKhamis)
 - [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Priyal Narang](https://github.com/PriyalNarang)
