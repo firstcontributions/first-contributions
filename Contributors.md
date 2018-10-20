@@ -8798,4 +8798,4 @@ Benzene
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Nikos](https://github.com/linakis)
-
+- [George Kampolis](https://github.com/gkampolis)
