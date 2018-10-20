@@ -178,13 +178,20 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 
 [Abdulkadir](https://github.com/yaman)
 
-
-
-
-
-
-
-
-
-
 [Abdullah](https://github.com/yildirimabdullah)
+
+[NasrinGh](https://github.com/ghassemiN)
+
+[ErmanYilmaz](https://github.com/ermanyilmaz)
+
+[Numan Kacar](https://github.com/Numankacar)
+
+[Samet](https://github.com/mjsamet)
+
+[Berkant](https://github.com/hardworkerdotexe)
+
+[Utku](https://github.com/utkusonmez)
+
+[Tacettin](https://github.com/tacettinaksu)
+
+[Cagatay](https://github.com/cagatayyucelen)
