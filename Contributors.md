@@ -8491,6 +8491,7 @@ Benzene
 - [Sarsiz Chauhan](https://github.com/sarsiz)
 - [Idruk](https://github.com/Idruk)
 - [Ibrahim Hasan](https://github.com/hima-Megahed)
+- [Edgar Cuarezma](https://github.com/ecuarezma)
 - [Sayyed Raza](https://github.com/S-M-Jawwad-Raza)
 - [Arsenei Abraamyan](https://github.com/UlvacMoscow)
 - [Law Zava](https://github.com/lawzava)
