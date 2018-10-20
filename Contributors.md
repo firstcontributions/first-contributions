@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Emily Gong](https://github.com/emily-gong)
 - [Linherest](https://github.com/linherest)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
