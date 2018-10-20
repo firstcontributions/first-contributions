@@ -62,6 +62,7 @@ Arnel Forbes
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
+- [Yoad Wolfsthal](https://github.com/yoadwo)
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
