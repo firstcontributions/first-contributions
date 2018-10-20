@@ -6264,6 +6264,7 @@ Orandi Harris
 - [Sam Cherian](https://github.com/samkcdev)
 - [YinAoXiong](https://github.com/YinAoXiong)
 - [Luka Budrak](https://github.com/Valyreon)
+- [Victor Chao](https://github.com/victorciao)
 - [Joe Cullen](https://github.com/whydidithavetobebugs)
 - [Chris Dettloff](https://github.com/chrisdettloff)
 - [Follow Jack](https://github.com/followjack)
