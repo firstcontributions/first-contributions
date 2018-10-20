@@ -3813,6 +3813,7 @@ Orandi Harris
 - [BVIDev Kaisma](https://github.com/bviengineer)
 - [Arindam Das Modak](https://github.com/arindam-modak)
 - [Lada Mcek](https://github.com/ladamcek)
+- [Anderw Fehr] (https://github.com/ThatWeirdAndrew)
 - [Samuel Pisa](https://github.com/samfrezza)
 - [Mikail Seremet](https://github.com/mikailseremet)
 - [Aquib Javed](https://github.com/smashingspirit67)
