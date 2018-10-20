@@ -5,8 +5,8 @@ How do you edit that? This is what this tutorial covers.
 
 ## Changing a recent commit message after you have pushed to Github.
 To do this without opening a file:
-*   Type in the ```git commit --amend -m "followed by your new commit message"```
-*   Run ```git push origin <branch-name>``` to commit the changes to the repository.
+1. Type in the ```git commit --amend -m "followed by your new commit message"```
+2.  Run ```git push origin <branch-name>``` to commit the changes to the repository.
 
 Note: If you type in just ```git commit --amend```, your text editor would open up prompting you to edit the commit message.
 Adding the ``-m`` flags prevents it.
