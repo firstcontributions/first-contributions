@@ -30,7 +30,7 @@ Move to the location where the `package.json` file is located
 If you would like to contribute, you must first read the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Translation Guide
-We have some rules for translation. If you are the first person to create a translation for your language, it is reqired that you add your language to the list found in `Translations.md`.
+We have some rules for translation. If you are the first person to create a translation for your language, it is required that you add your language to the list found in `Translations.md`.
 
 #### Example
 
