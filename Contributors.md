@@ -330,6 +330,7 @@ Edison Shek
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Ekansh Gupta] (https://github.com/Ekansh-01)
+- [Michael Kaskun](https://github.com/QwerMike)
 - [Francesco Cartier](https://github.com/cartinez)
 - [Bhabani]()
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
