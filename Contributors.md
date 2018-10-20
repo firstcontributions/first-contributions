@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Podrig](https://github.com/PadraigLeoghain)
@@ -8570,4 +8570,5 @@ Orandi Harris
 - [gnsJhenJie](https://github.com/gnsJhenJie/)
 - [Jongkook](https://github.com/conquerex)
 - [Xanderdwyl](https://github.com/XanderDwyl)
+- [CalmCat](https://github.com/tianfr)
 - [CalmCat](https://github.com/tianfr)
