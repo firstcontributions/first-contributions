@@ -3259,6 +3259,7 @@ Orandi Harris
 - [Bobby](https://github.com/bobby)
 - [grzeswol](https://github.com/grzeswol)
 - [Hargovind](https://github.com/HargovindArora)
+- [Ezek](https://github.com/Ezekohon)
 - [Athyk](https://github.com/Athyk)
 - [Govind Sharma](https://github.com/gnsharma)
 - [Felipe Guimaraes](https://github.com/Fguimaraess)
