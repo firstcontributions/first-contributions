@@ -8841,4 +8841,5 @@ Benzene
 - [Ganesh Rajasekar](https://github.com/ganesh292)
 - [Diego Trazzi](https://github.com/d1Ng0)
 - [Paperweb](https://github.com/Paperweb)
+- [Vitor Bartier](https://github.com/bartier)
 
