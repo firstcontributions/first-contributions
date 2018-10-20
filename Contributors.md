@@ -103,10 +103,11 @@ Arnel Forbes
 Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
-- [Saranraj Sekar](https://github.com/saran-thala)
+- first-contributions
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
+- [Jitendra Singh](https://github.com/g10drasingh)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
 - [Florian Mauduit](https://github.com/ftx)
 - [Kumar Kartikeya](https://github.com/kkartikeya1998)
