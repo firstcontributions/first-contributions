@@ -178,6 +178,8 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 
 [Abdulkadir](https://github.com/yaman)
 
+[Berkant](https://github.com/hardworkerdotexe)
+
 [Utku](https://github.com/utkusonmez)
 
 [Tacettin](https://github.com/tacettinaksu)
