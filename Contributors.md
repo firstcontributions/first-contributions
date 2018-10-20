@@ -969,6 +969,7 @@ Edison Shek
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [Christina Zakarian] (https://github.com/czakarian)
 - [James Featherstone](https://github.com/jfeathe)
+- [Susakpol Kunvuttivanit] (https://github.com/susakpol-kunvuttivanit)
 - [Utkarsh Agrawal](https://github.com/utkarsh-42)
 - [Hrishit Prasad Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
