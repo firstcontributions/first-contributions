@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Sarah](https://github.com/sarahxoxo)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
 - [Miftah Mizwar](https://github.com/mizwardomlank)
