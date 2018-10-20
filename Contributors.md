@@ -25,6 +25,7 @@ Arnel Forbes
 - [Effi Tramountani] (https://github.com/effi-t)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
+- [Karan Reddy](https://github.com/karanreddy77)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram] (https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
