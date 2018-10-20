@@ -14,6 +14,7 @@ Arnel Forbes
   Madhavik Agarwa)
 - Duwayne the rock Johnson
 - [Rayan Hatout](https://github.com/rayanht)
+- [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Ayush Varshney] (https://github.com/Sushi314)
