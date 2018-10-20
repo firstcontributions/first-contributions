@@ -2170,6 +2170,7 @@ Edison Shek
 - [Chie Noda](https://github.com/chienoda)
 - [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
+- [Jesús Muñoz](https://github.com/98789)
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Patrick Endicott](https://github.com/EndoxgrO)
 - [Anthony Bilic](https://github.com/irulenot)
