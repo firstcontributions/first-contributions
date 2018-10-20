@@ -4849,6 +4849,7 @@ Orandi Harris
 - [Belguith Omar](https://github.com/OmarBelguith)
 - [Basangeac Alexandru](https://github.com/Basa0)
 - [Yu Zhou](https://github.com/yuzhoujr)
+- [Dmytro Potykevych](https://github.com/dbitwy)
 - [Mateus Rangel](https://github.com/mateusrangel)
 - [Guillermo Ramirez](https://github.com/eGramirez)
 - [Jessie Rymph](https://github.com/forcethesales)
