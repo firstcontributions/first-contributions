@@ -8662,6 +8662,7 @@ Benzene
 - [Aaron Shannon](https://github.com/aarondshan)
 - [Vladimir Pavlovic](https://github.com/vlada1001)
 - [Harsh Shah](https://github.com/harshvshah)
+- [Doug Silva](https://github.com/d0gey)
 - [Carlo Martín](https://github.com/CarloMtzMartin)
 - [Mustafa Ismail](https://github.com/mustafaismail22)
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
