@@ -25,6 +25,7 @@ Move to the desired location where package.json file is located
 #### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
 - [Translation Guide](#translation-guide)
+- [TODO](#todo)
 
 ## Code of Conduct
 If you want to contribute, you need to know a few things.
