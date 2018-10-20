@@ -177,3 +177,7 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 ## Contributors
 
 [Abdulkadir](https://github.com/yaman)
+
+
+
+[Berkant] (https://github.com/hardworkerdotexe)
