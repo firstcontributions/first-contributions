@@ -13,6 +13,7 @@ Arnel Forbes
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - Duwayne the rock Johnson
+- [codeeachday](https://github.com/codeeachday)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Ayush Varshney] (https://github.com/Sushi314)
 - [Alex Tai](https://github.com/alextechtai)
