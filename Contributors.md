@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -12,6 +12,7 @@ Arnel Forbes
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
+- [Ayush Varshney] (https://github.com/Sushi314)
 - [Alex Tai](https://github.com/alextechtai)
 - [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
