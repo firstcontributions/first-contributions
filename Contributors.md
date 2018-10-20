@@ -7475,6 +7475,7 @@ Orandi Harris
 - [Jayden Wise](https://github.com/wisejayden)
 - [Hany Mahmoud](http://github.com/H-4-N-1)
 - [Tiggerito](https://github.com/Tiggerito)
+- [Alan Price](https://github.com/alanpaulprice)
 - [Jeong Juhyeon](https://github.com/JeongJuhyeon)
 - [mesopotamija9](https://github.com/mesopotamija9)
 - [grcameron](https://github.com/grcameron)
