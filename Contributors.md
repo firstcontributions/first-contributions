@@ -3504,6 +3504,7 @@ Orandi Harris
 - [Fabio Serrao](https://github.com/Serrones)
 - [Simon W.](https://github.com/b30bd351371c686298d32281b337e8e9)
 - [B Maynard](https://github.com/bmaynard87)
+- [Raihan Firoz](https://github.com/raihanfiroz89)
 - [Doug Allrich](https://github.com/185driver)
 - [Thayumaanavan C R](https://github.com/thayumaanavan)
 - [Batbayar S](https://github.com/batbayar-su)
