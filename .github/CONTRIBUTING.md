@@ -9,10 +9,10 @@ In order to do that:
 
 Move to the desired location where package.json file is located
 
-- Install npm(latest version) -
+- Install the latest version of npm (Node Package Manager) -
     npm is distributed with Node.js - which means that when you download Node.js,
-    you automatically get npm installed on your computer.
-    https://www.npmjs.com/get-npm
+    npm is automatically installed on your computer.
+    [get npm](https://www.npmjs.com/get-npm)
 - Install all the dependencies used by this project.
    Use this command:  `install npm`
 
@@ -27,12 +27,10 @@ Move to the desired location where package.json file is located
 - [Translation Guide](#translation-guide)
 
 ## Code of Conduct
-If you want to contribute, you need to know a few things.
-
-[Code of conduct](../CODE_OF_CONDUCT.md)
+If you would like to contribute, you must first read the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Translation Guide
-We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
+We have some rules for translation. If you are the first person to create a translation for your language, it is reqired that you add your language to the list found in `Translations.md`.
 
 #### Example
 
