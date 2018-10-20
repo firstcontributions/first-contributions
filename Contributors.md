@@ -3800,6 +3800,7 @@ Orandi Harris
 - [Oussama Zouaki](https://github.com/oussama4)
 - [Mhammed CHIBANE](https://github.com/momoz2017)
 - [Runningghost](https://github.com/Runningghost)
+- [Doug Pilcher](https://github.com/dapilcher)
 - [Tanakid Laoyawira](https://github.com/dome2034)
 - [Nrupen Abnave](https://github.com/inrupen)
 - [Matt Shine](https://github.com/matt-shine)
