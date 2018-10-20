@@ -79,6 +79,7 @@ Arnel Forbes
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
 - [Rishabh Sharma]
+- [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
 - [Tyler Clark]
 - [Jonathan Chao](https://github.com/JChao7)
