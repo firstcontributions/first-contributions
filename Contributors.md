@@ -151,6 +151,7 @@ Edison Shek
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
 - [Mathilde Pind] (https://github.com/mathildepind)
 - [Massimo7](https://github.com/Massimo7)
+- [Shiva Sankeerth](https://github.com/ShivaSankeerth)  
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
 - [John Ivison](https://github.com/mattecatte)
 - [Hamid Reside](https://github.com/hallowcard13)
