@@ -1843,6 +1843,7 @@ Edison Shek
 - [Pawan Kumar](https://github.com/Pawank221)
 - [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
+- [Antônio Santos](https://github.com/Bonesetter)
 - [Mushtaq SMB](https://github.com/mushtaq96)
 - [sahushivam](https://github.com/sahushivam)
 - [Seton Raynor](https://github.com/setonr)
