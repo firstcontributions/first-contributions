@@ -158,7 +158,7 @@
 - [Adam Friedl](https://github.com/adamfriedl)
 - [Adam Ghannoum](https://github.com/AmDji)
 - [Adam Goatley](https://github.com/AGoatley)
-- [Adam Hawley](htpps://github.com/TheGuyOnHisComputer)
+- [Adam Hawley](https://github.com/TheGuyOnHisComputer)
 - [Adam Hoffman](https://github.com/ahoffm24)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Adam Irby](https://github.com/adamirby)
