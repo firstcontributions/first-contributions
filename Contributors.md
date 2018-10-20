@@ -58,6 +58,7 @@ Arnel Forbes
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
+- [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
 - [Raman Singh](https://github.com/ramansingh189)
