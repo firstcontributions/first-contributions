@@ -291,6 +291,7 @@ Edison Shek
 - [Adam Luczak](https://github.com/aluczak)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
 - [Dimosthenis Katsimardos](https://github.com/dimkatsi91)
+- [Jiaming Chen](https://github.com/sansona)
 - [Zachary Bergeron](https://github.com/zbergus)
 - [Christian F. Sousa](https://github.com/Swifty-Sousa)
 - [Ramanujam Gond](https://github.com/ramanujamgond)
