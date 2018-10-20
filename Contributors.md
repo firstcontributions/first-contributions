@@ -8786,4 +8786,5 @@ Benzene
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
+- [Felipe Ruivo](https://github.com/vikingruivo)
 
