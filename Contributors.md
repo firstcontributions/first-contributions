@@ -8743,4 +8743,5 @@ Benzene
 - [Edward Evans](https://github.com/eeevans)
 - [Gilmar Francisco](https://github.com/gilmarfrancisco828)
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
+- [cuzz1](https://github.com/cuzz1)
 
