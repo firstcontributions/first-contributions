@@ -8826,5 +8826,5 @@ Benzene
 - [Sara Ashraf](https://github.com/ZaraAshraf)
 - [Amit Levy](https://github.com/amitlevy)
 - [Marcos Linberg] (https://github.com/marcoslinberg)
+- [Jonas Zanon] (https://github.com/blitzmorph)
 - [Nguyen Duy Khanh] (https://github.com/Songuku95)
-
