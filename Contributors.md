@@ -1272,6 +1272,7 @@ Edison Shek
 - [Rebecca Chase](https://github.com/SleepingKitty)
 - [Shubham Kumar](https://github.com/shubhkumar97)
 - [Liza Liutova](https://github.com/hamstlanda)
+- [N----- Callan ¯\\\_(ツ)_/¯ :floppy_disk:](https://github.com/ncallan2019)
 - [Indraneel Sarkar](https://github.com/sark01)
 - [Smit Rajput](https://github.com/smitrajput)
 - [Elizabeth](https://github.com/marbeth8899)
