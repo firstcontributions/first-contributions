@@ -3,6 +3,7 @@
 
 - [Chromium](https://github.com/CrCs2O4)
 - [Sarah](https://github.com/sarahxoxo)
+- [Dwij Sheth](https://github.com/dwij2812)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
