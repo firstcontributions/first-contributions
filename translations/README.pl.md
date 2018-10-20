@@ -7,7 +7,7 @@
 
 Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, ponieważ popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
 
-Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
+Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Niniejszy projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj, im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -18,7 +18,7 @@ Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github
 ## Utwórz fork repozytorium
 
 Utwórz fork tego repozytorium klikając przycisk "Fork" na górze tej strony.
-Stworzysz tym samym kopie tego repozytorium na swoim koncie.
+Stworzysz tym samym kopie repozytorium na swoim koncie.
 
 ## Sklonuj repozytorium
 
@@ -31,7 +31,7 @@ Otwórz konsolę i uruchom komendę git:
 ```
 git clone "wklej skopiowany adres"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok, aby skopiować adres.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -58,11 +58,11 @@ Przykład
 ```
 git checkout -b add-adam-kowalski
 ```
-(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia to listy.)
+(Nazwa gałęzi nie musi zawierać słowa *add*, ale dobrze jest je dodać z racji tego, że celem tej gałęzi jest dodanie twojego imienia do listy.)
 
 ## Wprowadź zmiany i wgraj je
 
-Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak używać języka Markdown.
+Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a>, w której znajdziesz informację jak używać języka Markdown.
 
 Dodaj następującą linię na końcu `Contributors.md`
 
@@ -74,9 +74,9 @@ Przykład:
 [John Doe](https://github.com/johndoe)
 ```
 
-Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
+Upewnij się, że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
-Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
+Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi, którą właśnie utworzyłeś używając komendy `git add`:
 ```
 `git add Contributors.md`
 ```
@@ -105,13 +105,13 @@ Teraz wyślij prośbę o scalenie.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
+Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo, kiedy zmiany zostaną scalone.
 
 ## Co dalej?
 
 Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
-Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Dołącz do slacka</a>.
-Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
+Możesz dołączyć do naszego kanału slack w przypadku, kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Dołącz do slacka</a>.
+Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami, które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
 ### [Materiały dodatkowe](https://github.com/Roshanjossey/first-contributions/blob/master/additional-material/git_workflow_scenarios/additional-material.md) 
  
@@ -123,6 +123,6 @@ Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę
 
 ## Autopromocja
 
-Jeżeli spodobał Ci się ten projekt, dodaj mu gwiazdkę na <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>. Jeżeli chcesz nas wspomóc śledź <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> na <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitterze</a> i na <a href="https://github.com/roshanjossey">GitHub</a>.
+Jeżeli spodobał Ci się niniejszy projekt, dodaj mu gwiazdkę na <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>. Jeżeli chcesz nas wspomóc, śledź <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> na <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitterze</a> i na <a href="https://github.com/roshanjossey">GitHub</a>.
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
