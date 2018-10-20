@@ -8506,3 +8506,4 @@ Orandi Harris
 - [Deepjyot Kaur](https://github.com/deepjyot)
 - [Quan Yang Yeo](https://github.com/quanyang)
 - [Dipak Yadav](https://github.com/dipakyadav)
+- [Newton Munene](https://github.com/newtonmunene99)
