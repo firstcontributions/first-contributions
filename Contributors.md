@@ -1,4 +1,4 @@
-﻿
+
 # Contributors
 
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -8721,6 +8721,7 @@ Orandi Harris
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
+- [Yusef Mustafa](https://github.com/yusefjmustafa)
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
 - [empty] (https://github.com/carceri)
