@@ -4,6 +4,7 @@
 - [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
+- [Manas Khurana](https://github.com/20manas)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [MC_Leut](https://github.com/MCLeut)
