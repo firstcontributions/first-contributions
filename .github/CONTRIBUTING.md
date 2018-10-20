@@ -1,13 +1,13 @@
 ﻿# Contribution guide
 
-Welcome to your first contribution. :heart:
+Welcome to your first contribution! :heart:
 
 #### Before Contributing:
-You need to run it locally on your desktop.
+You must run the files locally on your desktop.
 
 In order to do that:
 
-Move to the desired location where package.json file is located
+Move to the location where the `package.json` file is located
 
 - Install the latest version of npm (Node Package Manager) -
     npm is distributed with Node.js - which means that when you download Node.js,
