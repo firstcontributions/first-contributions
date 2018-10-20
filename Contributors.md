@@ -4078,6 +4078,7 @@ Orandi Harris
 - [Robert Yuen](https://github.com/rhyuen)
 - [Echoskope](https://github.com/echoskope)
 - [Kevin Madison](https://github.com/kevinlmadison)
+- [Dima Mukhin](https://github.com/DimaMukhin)
 - [Echessa](https://github.com/echessa)
 - [jessynay](https://github.com/jessynay)
 - [Ranjith Kumar Nagella](https://github.com/rnagella)
