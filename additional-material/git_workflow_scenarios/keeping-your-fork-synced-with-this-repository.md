@@ -1,6 +1,6 @@
 # Keeping your fork synced with this repository
 
-First, the flow for a full sync should be understood, which is important. In this schema, there are 3 different repos: my public repo on Github `github.com/Roshanjossey/first-contributions/`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are suppose to work. This kind of cooperation is typical for open source projects and called `Triangle Workflows`.
+First, the flow for a full sync should be understood, which is important. In this schema, there are 3 different repos: my public repo on Github `github.com/Roshanjossey/first-contributions/`, your fork of the repo on GitHub `github.com/Your-Name/first-contributions/` and your local machine's repo from which you are supposed to work. This kind of cooperation is typical for open source projects and called `Triangle Workflows`.
 
 <img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
 
