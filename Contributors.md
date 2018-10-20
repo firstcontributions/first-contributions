@@ -16,6 +16,7 @@ Arnel Forbes
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - Duwayne the rock Johnson
+- [Kumar Raghav Sharma](https://github.com/raghav987)
 - [Rayan Hatout](https://github.com/rayanht)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
@@ -8749,4 +8750,3 @@ Benzene
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
 - [LucidComplex](https://github.com/LucidComplex)
-
