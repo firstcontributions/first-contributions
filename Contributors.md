@@ -27,6 +27,7 @@
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
+- [doehae](https://github.com/doehae)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
