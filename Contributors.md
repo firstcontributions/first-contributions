@@ -99,6 +99,7 @@ Arnel Forbes
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
+- [Utkarsh](https://github.com/Knight1997)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Evaldas Suraucius] (https://github.com/Evaldas22)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
