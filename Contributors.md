@@ -2869,7 +2869,6 @@ Orandi Harris
 - [RocketSc](https://github.com/RocketSc)
 - [WalidJlidi](https://github.com/walidjlidi)
 - [Pratik6554](https://github.com/pratik6554)
-- [Beatorizu](https://github.com/beatorizu)
 - [hsk97](https://github.com/hsk97)
 - [Mouath Ibrahim](https://github.com/iMouath)
 - [Narendra Avula](https://github.com/narendradivi)
@@ -8890,4 +8889,4 @@ Benzene
 - [Ashi Joshi](http://github.com/AshiJoshi)
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
-
+- [Amit Singh Sansoya](https://github.com/Amit3200)
