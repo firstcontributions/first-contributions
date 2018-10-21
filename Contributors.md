@@ -8893,6 +8893,7 @@ Benzene
 - [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
 - [Sarah Chaisson](https://github.com/schaisso)
 - [Ashi Joshi](http://github.com/AshiJoshi)
+- [Guillaume Monzerol](https://github.com/gmonz36)
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Warun](https://github.com/ubinix-warun)
