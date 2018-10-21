@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Rusver] (https://github.com/Rusver)
 - [nualluan](https://github.com/naulluan)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
