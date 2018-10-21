@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
@@ -597,6 +597,7 @@ Edison Shek
 - [David Murdock](https://github.com/Texas86)
 - [Robert Simatei](https://github.com/simatei)
 - [Manwai Nguyen](https://github.com/krazyman)
+- [Shuvam Lal](https://github.com/shuvamlal9)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Patrick Stepanian](https://github.com/stepanianpat)
