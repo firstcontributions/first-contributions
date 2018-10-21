@@ -20,6 +20,7 @@
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
+- [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
