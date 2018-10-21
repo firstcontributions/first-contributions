@@ -8386,6 +8386,7 @@ Benzene
 - [Aditya Mudgil](https://github.com/adityamudgil2505)
 - [Aarush Juneja](https://github.com/AarushJ)
 - [Vanshika Arora](https://github.com/vanshikaarora)
+- [Shourya Aggarwal](https://github.com/ShouryaAggarwal)
 - [Bailram](https://github.com/bailram)
 - [Berserker220](https://github.com/Berserker220)
 - [jyzeng17](https://github.com/jyzeng17)
