@@ -29,6 +29,7 @@
 Arnel Forbes
 - [doehae](https://github.com/doehae)
 - [doomcrewinc](https://github.com/doomcrewinc)
+- [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
