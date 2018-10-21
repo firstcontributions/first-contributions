@@ -3736,6 +3736,7 @@ Orandi Harris
 - [Randall Whitlock](https://github.com/randallwhitlock)
 - [charlesmonson](https://github.com/charlesmonson)
 - [imyrfield](https://github.com/imyrfield)
+- [Rahul R](https://github.com/RahulR19)
 - [melisaim](https://github.com/MelisaIm)
 - [zbelway](https://github.com/zbelway)
 - [MacStan](https://github.com/MacStan)
