@@ -26,6 +26,7 @@
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
+- [doomcrewinc](https://github.com/doomcrewinc)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
@@ -39,6 +40,7 @@ Arnel Forbes
 - [Lucas Bueno](https://github.com/LucasBueno22)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
+- [nic from van](https://github.com/nicohouillon)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
@@ -52,6 +54,7 @@ Arnel Forbes
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
+- [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
@@ -415,6 +418,7 @@ Edison Shek
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
+- [bogo-sort](https://github.com/bogo-sort)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
 - [MajhiRockzZ](https://github.com/MajhiRockzZ)
@@ -8855,3 +8859,5 @@ Benzene
 - [James McMillan](https://github.com/jMac029)
 - [Fernando Silva](https://github.com/fernandodebrando)
 - [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
+- [Sarah Chaisson](https://github.com/schaisso)
+
