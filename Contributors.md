@@ -7,6 +7,7 @@
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
 - [Dwij Sheth](https://github.com/dwij2812)
+- [Mohammad Aziz](https://github.com/iAziz786)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
