@@ -975,6 +975,7 @@ Edison Shek
 - [rahul](https://github.com/rahul)
 - [Shalini Sreedhar](https://github.com/shalini-s)
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
+- [Mikhail Filatov}(https://github.com/map7000)
 - [Gabriel Fonseca](https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Tushar Gandhi](https://github.com/tushargandhi)
