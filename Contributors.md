@@ -8853,4 +8853,5 @@ Benzene
 - [Cheah Zixu](https://github.com/genesis331)
 - [James McMillan](https://github.com/jMac029)
 - [Fernando Silva](https://github.com/fernandodebrando)
+- [Sarah Chaisson](https://github.com/schaisso)
 
