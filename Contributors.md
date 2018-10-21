@@ -2024,6 +2024,7 @@ Edison Shek
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Aman Sharma](https://github.com/algomaster99/)
+- [Tiago Pedutti](https://github.com/tiagopedutti)
 - [Corey Russ](https://github.com/cruss13)
 - [Neutrix](https://github.com/NeuTrix)
 - [Nukeproof21](https://github.com/Nukeproof21)
