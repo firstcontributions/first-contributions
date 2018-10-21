@@ -2,6 +2,7 @@
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
+- [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
