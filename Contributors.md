@@ -63,6 +63,7 @@ Arnel Forbes
 - [loagis](https://github.com/loagis)
 - [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
+- [Jonas Jore](https://github.com/JonasJore)
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk)
 - [Daniel Yusry](https://github.com/DanielYuo)
