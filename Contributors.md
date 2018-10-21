@@ -134,6 +134,7 @@ Arnel Forbes
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
 - [Tyler Clark]
+- [Chase Terry] (https://github.com/cdterry87)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
