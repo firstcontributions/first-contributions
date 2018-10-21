@@ -31,6 +31,7 @@
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Alex Oladele](https://github.com/dragid10)
 apleht
+- [Tim Austin](https://github.com/neenjaw)
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
