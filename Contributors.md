@@ -776,6 +776,7 @@ Edison Shek
 - [Lucy S](https://github.com/girlingoggles)
 - [Markus Maelzer] (https://github.com/markus-maelzer)
 - [Daniel Smith](https://github.com/techydan)
+- [Shobhit Sagar](https://github.com/ShobhitSagar)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
 - [Garrett Yaworski](https://github.com/gy162134)
 - [Joseph Harskamp](https://github.com/jeh26033)
