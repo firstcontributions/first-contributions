@@ -641,6 +641,7 @@
 - [Akhil Garg] (https://github.com/akhilgarg007)
 - [Roy Verrips] (https://github.com/rverrips)
 - [Beh Xuan Yong] (https://github.com/bexuyo)
+- [Svetlana Lana](https://github.com/Svetula/)
 - [Andrii-安德-Андрей](https://github/ande-ronayt)
 - [Leonardo Bonetti] (https://github.com/LeonardoBonetti)
 - [2067599054](https://github.com/2067599054)
