@@ -1,3 +1,4 @@
+
 ﻿
 # Contributors
 
@@ -24,8 +25,7 @@
 - [Marc Brooks](https://github.com/AGeekInside)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Podrig](https://github.com/PadraigLeoghain)
-- [JustABeginner]
-Arnel Forbes
+- [JustABeginner] Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 -[Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
@@ -34,6 +34,7 @@ Arnel Forbes
 - Duwayne the rock Johnson
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
 - [Rayan Hatout](https://github.com/rayanht)
+- [Adedire Olayinka](https://github.com/drinkuzz)
 - [Ananay Garg](https://github.com/ananaygarg)
 - [Gates Cao](https://github.com/gatescao)
 - [Lucas Bueno](https://github.com/LucasBueno22)
