@@ -898,6 +898,7 @@ Edison Shek
 - [Ganesh Majhi](https://github.com/ganeshmajhi)
 - [Krizza Bullecer](https://github.com/sirbully)
 - [Aarón López Sosa](https://github.com/alsvader)
+- [Manuel Eljuri](https://github.com/eljurim)
 - [Kevin Chi](https://github.com/NeedsAUsername)
 - [Ananya GUpta](https://github.com/AnanyaG-6)
 - [Matheus Barros](https://github.com/bmatheus91)
