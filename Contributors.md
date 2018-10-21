@@ -6939,6 +6939,7 @@ Orandi Harris
 - [Slava Petrov](https://github.com/cunctat0r)
 - [Marcos Villar](https://github.com/marcosfvc)
 - [Mason Doug](https://github.com/iwanttocode12)
+- [Devin Parentice](https://github.com/DevinParentice/)
 - [Praise Mariah](https://github.com/praiseG)
 - [Jacob Nocentino](https://github.com/JakeNocentino)
 - [Simon Osipov](http://github.com/SimonOsipov)
