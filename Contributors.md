@@ -3,6 +3,7 @@
 
 - [Chromium](https://github.com/CrCs2O4)
 - [Sarah](https://github.com/sarahxoxo)
+- [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Samane](https://github.com/samaneyaghoobi)
@@ -24,7 +25,7 @@
 - [JustABeginner]
 Arnel Forbes
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
--[Michael McDonell](https://github.com/Cre8tiveKel}
+- [Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
