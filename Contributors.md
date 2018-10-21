@@ -8771,6 +8771,7 @@ Benzene
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
+- [Joao V Souto](https://github.com/JoaoVSouto)
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
