@@ -2,6 +2,7 @@
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
+- [Ainando Kei](https://github.com/ainandoo)
 - [Chromium](https://github.com/CrCs2O4)
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
