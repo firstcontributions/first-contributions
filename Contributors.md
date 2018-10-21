@@ -8610,6 +8610,7 @@ Benzene
 - [Victor Bala](https://github.com/savicsly)
 - [Yonas Stephen](https://github.com/yonasstephen)
 - [Kenichi](https://github.com/PhantomX7)
+- [Python's way](https://github.com/pythonsway)
 - [Fesia Cindy](https://github.com/FesiaCindy99)
 - [Jedsada Tiwongvorakul](https://github.com/T-Jedsada)
 - [syahrinka](https://github.com/syahrinka)
