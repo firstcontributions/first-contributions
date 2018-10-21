@@ -3754,6 +3754,7 @@ Orandi Harris
 - [Roy Sung](https://github.com/roysung)
 - [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
+- [ShahulBasha](https://github.com/shahulbasha)
 - [Akshay Ramesh](https://github.com/AkshayRameshAppDEV)
 - [Pavillin](https://github.com/Pavillin)
 - [Randall Whitlock](https://github.com/randallwhitlock)
