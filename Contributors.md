@@ -8102,6 +8102,7 @@ Orandi Harris
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
+- [Thanthu Nair](https://github.com/Thanthu)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
 - [Guido Sanchez](https://github.com/Guido2k)
