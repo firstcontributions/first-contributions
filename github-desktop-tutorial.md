@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# FIRST CONTRIBUTIONS
 
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
@@ -19,12 +19,12 @@ If you're using a version of GitHub desktop before 1.0, [refer this tutorial](gi
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-## Fork this repository
+## FORK THIS REPOSITORY
 
-Fork this repo by clicking on the fork button on the top right of this page.
+Fork this repo by clicking on the fork button on the "top right" of this page.
 This will create of copy of this repository in your account.
 
-## Clone the repository
+## CLONE THIS REPOSITORY
 
 Now clone this repo to your machine.
 
@@ -44,7 +44,7 @@ After you click on "Open GitHubDesktop.exe" the contents will be downloaded to y
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
-## Create a branch
+## CREATE A BRANCH
 
 Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
 
@@ -56,7 +56,7 @@ Name your branch <add-your-name>. For example, "add-james-smith"
 
 Click on `Create branch`
 
-## Make necessary changes and commit those changes
+## MAKE NECESSARY CHANGES AND COMMITT THOSE CHANGES
 
 Now open `Contributors.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file. 
 
@@ -82,7 +82,7 @@ At the bottom, you can see that the commit has been created.
 
 <img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
 
-## Push changes to github
+## PUSH CHANGES TO GITHUB
 
 Click on File->Options and sign-in to Github.com. Type in your Github username and password.
 
@@ -92,7 +92,7 @@ Click the `Publish` button on the top right.
 
 <img style="left;" src="assets/dt1-publish1.png" alt="push your changes" />
 
-## Submit your changes for review
+## SUBMIT YOUR CHANGES FOR REVIEW
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
@@ -104,7 +104,7 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Where to go from here?
+## WHERE TO GO FROM HERE?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
@@ -117,13 +117,13 @@ Now let's get you started with contributing to other projects. We've compiled a 
 ### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
 
 
-## Tutorials Using Other Tools
+## TUTORIALS FOR USING OTHER TOOLS
 
 |<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Self-Promotion
+## SELF-PROMOTION
 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
