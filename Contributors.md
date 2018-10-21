@@ -55,6 +55,7 @@ Arnel Forbes
 - [Ayush Varshney] (https://github.com/Sushi314)
 - [Alex Tai](https://github.com/alextechtai)
 - [loagis](https://github.com/loagis)
+- [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk)
