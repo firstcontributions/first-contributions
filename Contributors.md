@@ -8,6 +8,7 @@
 - [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
+- [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Argyris Varalis](https://github.com/avaralis)
@@ -40,7 +41,7 @@ Arnel Forbes
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
--[Michael McDonell](https://github.com/Cre8tiveKel}
+- [Michael McDonell](https://github.com/Cre8tiveKel}
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
