@@ -181,6 +181,7 @@ Edison Shek
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Lilian Ferreira](https://github.com/lilianferreira)
+- [Sugam Budhraja](https://github.com/Sugam1111)
 - [Kenny Zhou](https://github.com/Kenford20)
 - [João Mota](https://github.com/jpmmota)
 - [Calvin Golas](https://github.com/CalvinGolas)
