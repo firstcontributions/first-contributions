@@ -211,6 +211,7 @@ Edison Shek
 - [Chiu](https://github.com/achiuBAE)
 - [HuyHoangPhi] (https://github.com/HoangHuyPhi)
 - [Gabryelle Soares](https://github.com/gabsoares11)
+- [Pedro Augusto](https://github.com/znexpedro)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
