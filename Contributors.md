@@ -111,6 +111,7 @@ Arnel Forbes
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
+- [Persephone](https://github.com/persephpom/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Yoad Wolfsthal](https://github.com/yoadwo)
 - [Brian Barry](https://github.com/bribarry)
