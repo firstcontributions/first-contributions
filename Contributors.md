@@ -96,6 +96,7 @@ Arnel Forbes
 - [Ivana Livaja](https://github.com/ivilili)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter salihu](https://github.com/c-virus)
+- [Faiza Alam] (https://github.com/faizaalam)
 - [Peter Karakas](https://github.com/peti2001)
 - [H Shay](https://github.com/H-Shay)
 - [thinkinbee](https://github.com/thinkinbee)
