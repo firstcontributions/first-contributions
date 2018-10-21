@@ -70,6 +70,7 @@ Arnel Forbes
 - [Mike Capps](https://github.com/MikeCapps2006)
 - [Adrija Acharyya](https://github.com/adrijaacharyya)
 - [Ross Clark](https://github.com/ross-clark)
+- [Gromet Spaal](https://github.com/grommuz)
 - [Maria Aveiro](https://github.com/aveirinha)
 - [William Baker](https://github.com/wjbaker101)
 - [Chris Fotso](https://github.com/chrisfotso)
