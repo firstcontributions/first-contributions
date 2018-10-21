@@ -53,6 +53,7 @@ Arnel Forbes
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
+- [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
