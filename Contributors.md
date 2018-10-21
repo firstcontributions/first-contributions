@@ -25,6 +25,7 @@
 - [Marc Brooks](https://github.com/AGeekInside)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Podrig](https://github.com/PadraigLeoghain)
+- [Josh Adams aka Avoidev] (https://github.com/avoidev/)
 - [JustABeginner]
 Arnel Forbes
 - [doomcrewinc](https://github.com/doomcrewinc)
@@ -8866,4 +8867,3 @@ Benzene
 - [Fernando Silva](https://github.com/fernandodebrando)
 - [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
 - [Sarah Chaisson](https://github.com/schaisso)
-
