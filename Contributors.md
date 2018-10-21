@@ -1872,6 +1872,7 @@ Edison Shek
 - [Bobby Liang Wei Tan](https://github.com/tanliangwei)
 - [Rohit K Bharadwaj](https://github.com/rohit901)
 - [Vero Donoso](https://github.com/veroca88)
+- [Leonas Klumbys](https://github.com/leonukas)
 - [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
 - [Christian Moronta](https://github.com/Poliphria)
@@ -8917,4 +8918,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-
