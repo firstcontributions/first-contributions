@@ -1,7 +1,9 @@
 ﻿
 # Contributors
 
+- [nualluan](https://github.com/naulluan)
 - [Chromium](https://github.com/CrCs2O4)
+- [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Argyris Varalis](https://github.com/avaralis)
@@ -34,6 +36,7 @@ Arnel Forbes
 - [Rayan Hatout](https://github.com/rayanht)
 - [Ananay Garg](https://github.com/ananaygarg)
 - [Gates Cao](https://github.com/gatescao)
+- [Lucas Bueno](https://github.com/LucasBueno22)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
@@ -8850,5 +8853,5 @@ Benzene
 - [Vitor Bartier](https://github.com/bartier)
 - [Cheah Zixu](https://github.com/genesis331)
 - [James McMillan](https://github.com/jMac029)
+- [Fernando Silva](https://github.com/fernandodebrando)
 - [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
-
