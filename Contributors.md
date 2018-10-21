@@ -105,6 +105,7 @@ Arnel Forbes
 - [Utkarsh](https://github.com/Knight1997)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Evaldas Suraucius] (https://github.com/Evaldas22)
+- [Nicolas Santos](https://github.com/nsantos16)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
