@@ -29,6 +29,7 @@
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Marc Brooks](https://github.com/AGeekInside)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
+- [Alex Oladele](https://github.com/dragid10)
 apleht
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
