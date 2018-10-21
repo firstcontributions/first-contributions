@@ -174,6 +174,7 @@ Edison Shek
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
 - [Satyam Uttam]
+- [Krzysztof Radomski] (https://github.com/krzysztofradomski)
 - [Jose Hernandez](https://github.com/JHernandez99)
 - [Matt Ackard](https://github.com/mattackard)
 - [Sanya Gupta] (https://github.com/sanya2701)
