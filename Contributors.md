@@ -76,6 +76,7 @@ Arnel Forbes
 - [Marius Maries](https://github.com/mariuscm)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
+- [Christian Becker](https://github.com/Mikrotherion)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Cole Beck](https://github.com/claniere)
