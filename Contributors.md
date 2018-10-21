@@ -1,6 +1,6 @@
 ﻿
 # Contributors
-
+- [Salty-Clown](https://github.com/Salty-Clown)
 - [nualluan](https://github.com/naulluan)
 - [Chromium](https://github.com/CrCs2O4)
 - [stu01509](https://github.com/stu01509)
