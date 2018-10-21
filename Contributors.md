@@ -1242,6 +1242,7 @@ Edison Shek
 - [Pablo Rey](https://github.com/PFeynman)
 - [Austin Simon](https://github.com/austinsimon)
 - [Francesco Zardi](https://github.com/frazar)
+- [Adrian Chavez](https://github.com/adrianchavez123)
 - [vikas sharma](https://github.com/vikassharma1999)
 - [Shafran Naizer](https://github.com/Shafran123)
 - [Filip Marius Samuel](https://github.com/1337M0nst3r)
