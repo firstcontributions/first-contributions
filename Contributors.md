@@ -39,6 +39,7 @@ Arnel Forbes
 - [Lucas Bueno](https://github.com/LucasBueno22)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
+- [nic from van](https://github.com/nicohouillon)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
