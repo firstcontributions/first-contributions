@@ -139,6 +139,7 @@ Arnel Forbes
 - [Rishabh Sharma]
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
+- Peter R [https://github.com/peterr101]
 - [Tyler Clark]
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
@@ -8909,4 +8910,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-
