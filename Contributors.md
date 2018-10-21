@@ -17,6 +17,7 @@
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [MC_Leut](https://github.com/MCLeut)
+- [milindchawre](https://github.com/milindchawre)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Dhirendra](https://github.com/Dhirendra24)
