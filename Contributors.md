@@ -139,6 +139,7 @@ Edison Shek
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
 - [Jeetendra Singh](https://github.com/g10drasingh)
+- [Constant Vallee](https://github.com/covallee)
 - [Ojas Gulati](https://github.com/ojasgulati)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
 - [Florian Mauduit](https://github.com/ftx)
