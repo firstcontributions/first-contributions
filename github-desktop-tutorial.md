@@ -130,4 +130,10 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
+## Using git cheat sheets
+Its another better way to using git effectively, that git cheat sheet, there are many commands that was used with high frequent, cheat sheet list all of them to easy to rememeber
+One of my favorite cheat sheets:
+https://www.git-tower.com/blog/git-cheat-sheet
+
+
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
