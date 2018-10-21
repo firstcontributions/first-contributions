@@ -3,6 +3,7 @@
 
 - [nualluan](https://github.com/naulluan)
 - [Chromium](https://github.com/CrCs2O4)
+- [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
 - [Dwij Sheth](https://github.com/dwij2812)
