@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Jack Gong](https://github.com/AwesomeJackify)
 - [nualluan](https://github.com/naulluan)
 - [Florin Irion](https://github.com/irionr)
 - [prashansanb](https://github.com/prashansanb)
@@ -8919,4 +8920,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-
