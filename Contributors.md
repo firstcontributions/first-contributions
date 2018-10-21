@@ -147,6 +147,7 @@ Arnel Forbes
 - [Pablo Triandafilide] (https://github.com/pablotrianda)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
+- [Abhishek Sarolia] (https://github.com/asarolia)
 Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
