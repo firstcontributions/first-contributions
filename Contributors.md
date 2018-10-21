@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [nualluan](https://github.com/naulluan)
 - [Chromium](https://github.com/CrCs2O4)
 - [Sarah](https://github.com/sarahxoxo)
 - [Dwij Sheth](https://github.com/dwij2812)
