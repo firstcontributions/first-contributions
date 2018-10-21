@@ -1946,6 +1946,7 @@ Edison Shek
 - [Abhishek Mahadevan](https://github.com/ShekMaha)
 - [Gabe Kudirka](https://github.com/itskudi)
 - [Miguel Morell](https://github.com/lilMiggz)
+- [Connor Littleton](https://github.com/Littletonconnor)
 - [Tanya Pulley](https://github.com/wonntann)
 - [Ryan Abney](https://github.com/rcabney)
 - [Jarrad Cisco](https://github.com/jcc5225)
