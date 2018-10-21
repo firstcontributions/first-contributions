@@ -8697,6 +8697,7 @@ Benzene
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
+- [Pete Madis](https://github.com/petemadis)
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Prakhar Dubey] (https://github.com/prakhardb)
