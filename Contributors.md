@@ -8905,6 +8905,7 @@ Benzene
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Warun](https://github.com/ubinix-warun)
+- [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
