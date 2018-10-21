@@ -8850,4 +8850,5 @@ Benzene
 - [Vitor Bartier](https://github.com/bartier)
 - [Cheah Zixu](https://github.com/genesis331)
 - [James McMillan](https://github.com/jMac029)
+- [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
 
