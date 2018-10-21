@@ -417,6 +417,7 @@ Edison Shek
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
+- [bogo-sort](https://github.com/bogo-sort)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
 - [Neo Cho](https://github.com/neocho)
 - [MajhiRockzZ](https://github.com/MajhiRockzZ)
