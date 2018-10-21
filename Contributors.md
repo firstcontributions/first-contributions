@@ -7725,6 +7725,7 @@ Orandi Harris
 - [João Paulo Paes](https://github.com/paesjoaopaulo)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
+- [Gautham Lal](https://github.com/gauthamlal)
 - [Vinicius de Souza Augutis](https://github.com/viniciusaugutis)
 - [Jonata William](https://github.com/jonatawilliam)
 - [Lori Godoy](https://github.com/kuneho-yellow/)
