@@ -188,6 +188,7 @@ Edison Shek
 - [John Ivison](https://github.com/mattecatte)
 - [Hamid Reside](https://github.com/hallowcard13)
 - [Zeddmaxx](https://github.com/zeddmaxx)
+- [Ankush Garg](https://github.com/ankushgarg1998)
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Lilian Ferreira](https://github.com/lilianferreira)
