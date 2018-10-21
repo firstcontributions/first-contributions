@@ -26,6 +26,7 @@ Alvin
 - [Menna] (https://github.com/mennayahia)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
+- [Mayank Kanoria](https://github.com/mkanoria)
 - [MC_Leut](https://github.com/MCLeut)
 - [milindchawre](https://github.com/milindchawre)
 - [Michael Robinson](https://github.com/NightFury20)
