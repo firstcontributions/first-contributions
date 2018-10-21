@@ -4239,6 +4239,7 @@ Orandi Harris
 - [Olumide Okedusi](https://github.com/Lumie31)
 - [Aravindh](https://github.com/aruvi198)
 - [Julia Fiorino](https://github.com/juliaf2)
+- [Ricardo Ushizaki](http://github.com/rushizaki)
 - [Angel Young](http://github.com/angelyoung24)
 - [Richard Meadows](https://github.com/rjmead23)
 - [hakerja](https://github.com/hakerja)
