@@ -7,7 +7,7 @@ Como você editaria isso? É isso que esse tutorial cobre.
 
 Para fazer isto sem abrir um arquivo:
 *   Digite o comando ```git commit --amend -m "seguido da sua nova mensagem de commit"```
-*   Rode ```git push origin <nome-da-branch>``` para fazer o commit das mudanças para o repositório.
+*   Execute ```git push origin <nome-da-branch>``` para fazer o commit das mudanças para o repositório.
 
 Nota: Se você digitar apenas ```git commit --amend```, seu editor de texto abrirá te pedindo para editar a mensagem de commit.
 Adicionar a flag ``-m`` previne isso.
@@ -41,7 +41,7 @@ Para fazer isso, nós faríamos o seguinte:
 * Modificar o arquivo. Nesse caso, modificarei o arquivo bot para incluir a palavra que eu esqueci anteriormente.
 * Em seguida, adicionar o arquivo para a área de preparação (*staging area*) com o comando ```git add <nome-do-arquivo>```
 
-Normalmente, após adicionar arquivos na área de preparação, a próxima coisa que nós fazemos é entrar com o coamndo ```git commit -m "nossa mensagem de commit"```, certo?
+Normalmente, após adicionar arquivos na área de preparação, a próxima coisa que nós fazemos é entrar com o comando ```git commit -m "nossa mensagem de commit"```, certo?
 Mas, como o que nós queremos fazer aqui é corrigir o commit anterior, nós ao invés disso iremos rodar:
 
 * ```git commit --amend```
