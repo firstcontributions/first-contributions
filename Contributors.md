@@ -145,6 +145,7 @@ Arnel Forbes
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
+- [Chandu](https://github.com/chandu2004)
 - [Rishabh Sharma]
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
