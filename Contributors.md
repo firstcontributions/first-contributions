@@ -265,6 +265,7 @@ Edison Shek
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
 - [Jennifer E Yoon](https://github.com/JennEYoon)
+- [Rahul Sharma](https://github.com/rahulrs0029)
 - Shani Rub
 - wrecKING Tsukinoryoshu
 - [Dominik Blek](https://github.com/zybex86)
