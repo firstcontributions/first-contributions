@@ -1363,7 +1363,7 @@ Edison Shek
 - [Amrit Khera](https://github.com/AmritK10)
 - [Kin Lam](https://github.com/alanklam)
 - [Rohit katlaa](https://github.com/rohitkatlaa)
-- [Vanessa Nimomo](https://github.com/VanessaNimmo)
+- [Vanessa Nimmo](https://github.com/VanessaNimmo)
 - [Colquhounking](https://github.com/colquhounking)
 - [James](https://github.com/james-flynn-ie)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
