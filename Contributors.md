@@ -920,6 +920,7 @@ Edison Shek
 - [Tyrone Damasceno](https://github.com/tyronedamasceno)
 - [Mahmoud Anwar](https://github.com/mamoanwar)
 - [Egor Gorunovich](https://github.com/titanolodon)
+- [Egor Pavlov](https://github.com/nmvikings)
 - [tweekes1](https://github.com/tweekes1)
 - [capJavert](https://github.com/capJavert)
 - [lookovathere](https://github.com/lookovathere)
