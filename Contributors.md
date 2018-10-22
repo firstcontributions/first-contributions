@@ -50,6 +50,7 @@ apleht
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
+- Anna!
 - [doehae](https://github.com/doehae)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
