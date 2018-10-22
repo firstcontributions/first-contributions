@@ -75,6 +75,7 @@ Arnel Forbes
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
 - [Alex Tai](https://github.com/alextechtai)
+- [Leo T.](https://github.com/taydakov)
 - [loagis](https://github.com/loagis)
 - [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
