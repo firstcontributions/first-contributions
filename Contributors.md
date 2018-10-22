@@ -3,6 +3,7 @@
 
 - [nualluan](https://github.com/naulluan)
 - [Florin Irion](https://github.com/irionr)
+- [kananthav](https://github.com/kananthav)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
