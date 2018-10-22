@@ -8567,6 +8567,7 @@ Benzene
 - [Zainab Nomi](https://github.com/zainabnomi)
 - [Taylr Leija](https://github.com/tleija)
 - [Marcos Paulo](https://github.com/marcos012)
+  [Faiqa Shafqat](https://github.com/faiqashafqat79)
 - [Michael Beirnaert](https://github.com/pon8)
 - [MisterX22](https://github.com/MisterX22)
 - [leizllynn](https://github.com/leizllynn)
