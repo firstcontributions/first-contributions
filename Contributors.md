@@ -797,6 +797,7 @@ Edison Shek
 - [Jeremie Daniel](https://github.com/jeremie1112)
 - [ThankGod Egbo](https://github.com/thatruth24)
 - [Sandeep Sidhu](https://github.com/sandeepme)
+- [Justin Osagie](https://github.com/osajustin)
 - [Roman Sidorov](https://github.com/rsidorov)
 - [Michael McClean](https://github.com/mdmcclean)
 - [Kasi Venkata Sai](https://github.com/kasivenkatasao)
