@@ -1,6 +1,6 @@
 
 # Contributors
-
+- [Luigi Capogrosso](https://github.com/luigicapogrosso)
 - [nualluan](https://github.com/naulluan)
 - [Florin Irion](https://github.com/irionr)
 - [prashansanb](https://github.com/prashansanb)
@@ -8941,4 +8941,3 @@ Benzene
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 - [alihassan](https://github.com/alihassan35404)
-
