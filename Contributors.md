@@ -3909,6 +3909,7 @@ Orandi Harris
 - [randomMesh](https://github.com/randomMesh)
 - [Italo G?is](https://github.com/italogois)
 - [Gaurav Gupta](https://github.com/tango025)
+- [Michael Clampett](https://github.com/SyntheticAutomation)
 - [Lmwbxr](https://github.com/lmwbxr)
 - [Joonsang1994](https://github.com/Joonsang1994)
 - [Chinmay Chandak](https://github.com/CCAtAlvis)
@@ -8959,4 +8960,3 @@ Benzene
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Rana Faisal](https://github.com/IRanaFaisal)
-
