@@ -102,6 +102,7 @@ Arnel Forbes
 - [Cole Beck](https://github.com/claniere)
 - [Efe Barış](https://github.com/altinay10)
 - [Vineet Yadav ](https://github.com/vineet8588)
+- [Angus Cornall ] (https://github.com/AngusCornall)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
