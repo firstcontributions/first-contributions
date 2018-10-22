@@ -22,6 +22,7 @@ Alvin
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
+- [Kirsten Fournier](https://github.com/kefournier)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
 - [Christina Shafer](https://github.com/ChristinaShafer)
@@ -8924,4 +8925,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-
