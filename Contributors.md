@@ -61,6 +61,7 @@ Arnel Forbes
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
+- [Tintu Thomas](https://github.com/tintutm)
 - [Alex Tai](https://github.com/alextechtai)
 - [loagis](https://github.com/loagis)
 - [Tristan Marechaux] (https://github.com/marechaux)
