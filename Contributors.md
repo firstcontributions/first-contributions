@@ -132,6 +132,7 @@ Arnel Forbes
 - [Karen Tobo](https://github.com/karentobo)
 - [Kelvin Romero](https://github.com/kelvinromero)
 - [Kalana Wijethunga](https://github.com/kelvinromero)
+- [Kirk Clemons](https://github.com/kcclemo)
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
