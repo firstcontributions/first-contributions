@@ -74,6 +74,7 @@ Arnel Forbes
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
+- [iamtodor] (https://github.com/iamtodor)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
