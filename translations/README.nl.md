@@ -30,7 +30,7 @@ git clone "url die je net kopieerde"
 ```
 Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="kopiëer URL naar het klipbord" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="kopieer URL naar het klembord" />
 
 Bijvoorbeeld:
 ```
