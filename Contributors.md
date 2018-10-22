@@ -72,6 +72,7 @@ Arnel Forbes
 - [codeeachday](https://github.com/codeeachday)
 - [nic from van](https://github.com/nicohouillon)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
+- [Eduardo Raygoza](https://github.com/EduardoRaygoza)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
 - [Alex Tai](https://github.com/alextechtai)
