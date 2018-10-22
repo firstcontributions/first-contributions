@@ -8060,6 +8060,7 @@ Rohan Das
 - [Jasper Danan](https://github.com/JasperDanan)
 - [Gokul T P](https://github.com/gokultp)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
+- [tino-github](https://github.com/tino-github)
 - [MasterKN](https://github.com/MasterKN48)
 - [HackedByMKN](https://github.com/HackedByMKN)
 - [grilam14](https://github.com/grilam14)
