@@ -54,6 +54,7 @@ Arnel Forbes
 - [Rayan Hatout](https://github.com/rayanht)
 - [Ananay Garg](https://github.com/ananaygarg)
 - [Gates Cao](https://github.com/gatescao)
+- [Gregor Grasselli](https://github.com/GregorGrasselli)
 - [Lucas Bueno](https://github.com/LucasBueno22)
 - [Dheyay Desai] (https://github.com/ddcr7)
 - [codeeachday](https://github.com/codeeachday)
