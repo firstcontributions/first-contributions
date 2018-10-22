@@ -1894,6 +1894,7 @@ Edison Shek
 - [Amaka Mbah](https://github.com/devsisi)
 - [z5112750](https://github.com/z5112750)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
+- [Andrus N](https://github.com/andrus14)
 - [Donald Pittard](https://github.com/donaldpittard)
 - [Jamie Davis](https://github.com/dev-jamie-davis)
 - [Jithu Nair](https://github.com/JithuNair)
