@@ -2642,6 +2642,7 @@ Orandi Harris
 - [Abhishek Katiyar](https://github.com/abhishekkatiyar)
 - [kunwar09](https://github.com/kunwar09)
 - [Emily Wivell](https://github.com/emjwivell)
+- [Vikesh](https://github.com/vikesh)
 - [Suras Kumar Nayak](https://github.com/surasnayak)
 - [Anupam Kumar Singh](https://github.com/anupam691997)
 - [Reyes Cheng](https://github.com/machiko)
