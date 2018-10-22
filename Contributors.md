@@ -26,6 +26,7 @@ Alvin
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
+- [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [Mayank Kanoria](https://github.com/mkanoria)
