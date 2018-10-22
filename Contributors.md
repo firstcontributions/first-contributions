@@ -51,6 +51,7 @@ Arnel Forbes
   Madhavik Agarwa)
 - Duwayne the rock Johnson
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
+- [larvavral](https://github.com/larvavral)
 - [Rayan Hatout](https://github.com/rayanht)
 - [Ananay Garg](https://github.com/ananaygarg)
 - [Gates Cao](https://github.com/gatescao)
