@@ -8517,6 +8517,7 @@ Benzene
 - [Jing Rong Lim](https://github.com/jjingrong)
 - [Paul Eiche](https://github.com/peiche)
 - [Dominic Cooper-Wootton](https://github.com/DrGrimshaw)
+- [Amy Nott](https://github.com/majorkira)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
 - [Jon Tonti](https://github.com/jtontiwith)
 - [Mouffy](https://github.com/mcampourcy)
