@@ -309,6 +309,7 @@ Edison Shek
 - [Yug Shah] (https://github.com/Yug-Shah)
 - [AnnChar](https://github.com/annchar)
 - [Sara](https://github.com/SaraBon)
+- [Vinod Borse](https://github.com/vinodborse)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
 - [KaranRandhir](https://github.com/KaranRandhir)
