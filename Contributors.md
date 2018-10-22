@@ -518,6 +518,7 @@ Edison Shek
 - [jack hu](https://github.com/jackhub)
 - [Thomas Wicks](https://github.com/ThomasWicks)
 - vibhasi
+- [Darien Lee] (https://github.com/darienlee)
 - [Michael Hart](https://github.com/michaeljh619)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
