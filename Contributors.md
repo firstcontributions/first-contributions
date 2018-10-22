@@ -73,6 +73,7 @@ Arnel Forbes
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
+- [macktober](https://github.com/macktober)
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
