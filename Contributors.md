@@ -194,6 +194,7 @@ Edison Shek
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Giancarlo] (https://github.com/GCa)
+- [Karthick Manoharan](https://github.com/karthick-manoharan)
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
