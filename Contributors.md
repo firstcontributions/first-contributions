@@ -2347,6 +2347,7 @@ Orandi Harris
 - [Toby Chow](https://github.com/tobychow)
 - [Daniel Koch](https://github.com/dkprog)
 - [Laurence](https://github.com/multitudes)
+- [Connor Smith](https://github.com/titdirt)
 - [Edmundo1100](https://github.com/Edmundo1100)
 - [Sagar Bansal](https://github.com/sagban)
 - [vikas sharma](https://github.com/vikassharma1999)
@@ -8925,4 +8926,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-
