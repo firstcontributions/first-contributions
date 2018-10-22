@@ -2,6 +2,7 @@
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
+- [mrjomp](https://github.com/mrjomp)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
 - [prashansanb](https://github.com/prashansanb)
