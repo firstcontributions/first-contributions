@@ -10,6 +10,7 @@
 - [Sarah](https://github.com/sarahxoxo)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
+- [Hira Afzal](https://github.com/Hira-Afzal)
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
