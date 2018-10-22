@@ -55,6 +55,7 @@ Arnel Forbes
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Shivani Arun](https://github.com/ShivaniArun)
+- [Abhishek Jha](https://github.com/bumblingabhi)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Arthur van Acker](https://github.com/puupa)
 - [Subham Mishra](https://github.com/Subham-mishra)
