@@ -8,6 +8,7 @@
 - [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
+- [Ananya](https://github.com/aravipati)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Mohammad Aziz](https://github.com/iAziz786)
