@@ -3859,6 +3859,7 @@ Orandi Harris
 - [Aowongster](https://github.com/aowongster)
 - [Wildan Mubarok](https://github.com/willnode)
 - [hosjiu](https://github.com/hosjiu1702)
+- [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
