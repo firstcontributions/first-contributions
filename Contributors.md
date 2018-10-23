@@ -2,7 +2,6 @@
 # Contributors
 
 - [blank15](https://github.com/blank15)
-- [mansoor96g](https://github.com/mansoor96g)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
 - [Prateek](https://github.com/prateekroy)
@@ -9012,3 +9011,4 @@ Joon Jang
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
 - [M. Mursaleen](https://github.com/mmursaleen)
+- [mansoor96g](https://github.com/mansoor96g)
