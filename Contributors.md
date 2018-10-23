@@ -1,7 +1,9 @@
+
 ﻿
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
+JOON JANGAdd Joon-Jang to Contributors list
 - [mrjomp](https://github.com/mrjomp)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
