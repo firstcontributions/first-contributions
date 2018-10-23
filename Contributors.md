@@ -9,6 +9,7 @@
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
 - [Carlos Ramirez](https://github.com/calbertora)
+- [JS](https://github.com/FireFoxUserin)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
