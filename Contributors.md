@@ -49,6 +49,7 @@ JOON JANG JOON JANG
 apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Steve Torrence](https://github.com/storrence88)
+- [FloridaMan](https://github.com/floridaman)
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
