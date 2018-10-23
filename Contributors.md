@@ -20,6 +20,7 @@
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
+- [Roger Perez](https://github.com/rogercodes1)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
 - [Anda Stoica](https://github.com/andadiana)
@@ -29,7 +30,7 @@
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
-- [Emerson Carvalho](https://github.com/brecarv) 
+- [Emerson Carvalho](https://github.com/brecarv)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [Bernard Yap](https://github.com/bernisaur)
