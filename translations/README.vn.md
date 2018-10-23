@@ -8,7 +8,7 @@
 
 Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
 
-Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
+Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -120,6 +120,15 @@ git rebase upstream/master
 git push origin master
 ```
 Chú ý ở đây bạn đang đẩy lên trên github với chi nhánh tên là origin.
+
+## Làm gì tiếp đây?
+Xin chúc mừng! Bạn đã vừa hoàn thành luồng công việc tiêu chuẩn fork -> clone -> edit -> PR mà bạn sẽ bắt gặp thường xuyên khi tham gia đóng góp cho mã nguồn mở.
+
+Hãy ăn mừng đóng góp của bạn và chia sẻ nó với bạn bè cũng như những người theo dõi của bạn bằng cách truy cập vào [ứng dụng web](https://roshanjossey.github.io/first-contributions/#social-share).
+
+Bạn có thể gia nhập nhóm Slack của chúng tôi trong trường hợp bạn cần giúp đỡ hoặc muốn đặt câu hỏi. [Gia nhập nhóm Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Bây giờ, bạn hãy bắt đầu đóng góp cho những dự án khác nhé. Chúng tôi đã xây dựng một danh sách các dự án với những vấn đề đơn giản mà bạn có thể khởi động cùng. Kiểm tra [danh sách các dự án trên ứng dụng web](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ## Hướng dẫn sử dụng các công cụ khác
 
