@@ -1,6 +1,6 @@
 ﻿
 # Contributors
-
+- [connor-mcshane](https://github.com/connor-mcshane)
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
