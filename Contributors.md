@@ -8924,6 +8924,6 @@ Benzene
 - [Shreya](https://github.com/shrechak)
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
-- [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 - [Savreen](https://github.com/rubal-98)
+- [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 
