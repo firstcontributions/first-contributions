@@ -1503,6 +1503,7 @@ Edison Shek
 - [Akmal Maulana Azzam](https://github.com/Rehre)
 - [Ruslan]()
 - [Swami]()
+- [Swastika](https://github.com/swastikadas)
 - [Divyanshu Bhatnagar](https://github.com/bhatnagardivyanshu)
 - [Ilias Chanis]()
 - [Nimish Agrawal]()
