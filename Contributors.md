@@ -9,7 +9,6 @@
 - [stu01509](https://github.com/stu01509)
 - [Sarah](https://github.com/sarahxoxo)
 - [Carlos Ramirez](https://github.com/calbertora)
-- [JS](https://github.com/FireFoxUserin)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
@@ -963,6 +962,7 @@ Edison Shek
 - [Alexey Salangin](https://github.com/magauran)
 - [Arhan Banerjee](https://github.com/arhanbaner)
 - [Pranav Suresh](https://github.com/pranavsuresh7)
+- [JS](https://github.com/FireFoxUserin)
 - [Jatin Aggarwal](https://github.com/jatinagg1)
 - [diproIV](https://github.com/diproiv)
 - [Anupam Das](https://github.com/anupamdas104)
