@@ -3371,6 +3371,7 @@ Orandi Harris
 - [Prosper Doko](https://github.com/shadonet)
 - [Bilal Cagiran](https://github.com/extwiii)
 - [Steffen Hasse](https://github.com/Hazen91)
+- [Jhabari Guidry](https://github.com/J-Guidry)
 - [Hyunwoo Kim](https://github.com/khw1031)
 - [Panagiotis Vourtsis](https://github.com/panvourtsis)
 - [Johanne Andersen](https://github.com/JohanneA)
