@@ -8322,6 +8322,7 @@ Benzene
 - [Gang Dong](https://github.com/donggangcj)
 - [Abhiyansh Arya](https://github.com/abhiyansh)
 - [Dhairya Gada](https://github.com/dhairyagada)
+- [Jackie Owen](https://github.com/jackie1969)
 - [IgnasA](https://github.com/IgnasA)
 - [Saswat]
 - [Ekkachai Sohmontha](https://github.com/heemza)
@@ -9005,4 +9006,4 @@ Joon Jang
 - [Darshan Sharma](https://darshansharma.github.io)
 - [Shikha Tiwari](https://github.com/allenqueen)
 - [Mani Bhushan](https://github.com/manibhushan)
-- [Jackie Owen](https://github.com/jackie1969)
+- [Thanos Tsiro](https://github.com/TsiroJohn)
