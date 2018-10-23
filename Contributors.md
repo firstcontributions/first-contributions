@@ -8984,4 +8984,5 @@ Joon Jang
 - [Mario Vizcaino](https://github.com/mariovzc)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Janess](https://github.com/janees1996)
+-[Malik Naveed](https://github.com/maliknaveed6200)
 
