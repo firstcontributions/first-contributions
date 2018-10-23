@@ -9,6 +9,7 @@
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
+- [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
 - [Carlos Ramirez](https://github.com/calbertora)
