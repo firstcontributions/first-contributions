@@ -1034,6 +1034,7 @@ Edison Shek
 - [Matt Jordan](https://github.com/mattjordan)
 - [Snir The Man](https://github.com/snirtheman)
 - [Dimitris Kokkaliaroglou](https://github.com/loxagossnake)
+- [Sean Yeo](https://github.com/SeanYeoTE)
 - [Alexey Salangin](https://github.com/magauran)
 - [Arhan Banerjee](https://github.com/arhanbaner)
 - [Pranav Suresh](https://github.com/pranavsuresh7)
