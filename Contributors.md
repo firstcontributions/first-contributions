@@ -1,6 +1,6 @@
 ﻿
 # Contributors
-- [connor-mcshane](https://github.com/connor-mcshane)
+
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
@@ -482,6 +482,7 @@ Edison Shek
 - [Anestis Foulidis](https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [Amir Hamzah](https://github.com/aktaktaw)
+- [connor-mcshane](https://github.com/connor-mcshane)
 - [Shubham Shrivastava](https://github.com/shrishubham)
 - [ClariSLover](https://github.com/s973125108)
 - [Kale](https://github.com/kalethenoise)
