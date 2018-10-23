@@ -12,7 +12,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 
 #### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #tutorials-using-other-tools )*
 
-#### *Prečítaj si to v [ostatných jazykoch](translations/Translations.md).*
+#### *Prečítaj si to v [ostatných jazykoch](Translations.md).*
 
 [️🇬🇧](README.md)
 [🇮🇳](translations/README.hi.md)
