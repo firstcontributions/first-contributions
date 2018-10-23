@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
 - [Prateek](https://github.com/prateekroy)
@@ -468,6 +469,7 @@ Edison Shek
 - [Dinesh Raj](https://github.com/dineshraj01)
 - [Daniel Guerreiro](https://github.com/danielvperes)
 - [Ross Macey](https://github.com/rossmacey)
+- [Jack Guo](https://github.com/zexingguo)
 - [Isurie](https://github.com/Isurie)
 - [Anestis Foulidis](https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
@@ -6565,6 +6567,7 @@ Rohan Das
 - [Kamal Laungani](https://github.com/launganik)
 - [kola014](https://github.com/kola014)
 - [Andrew Rekko](https://github.com/arekko)
+- [KY-Ng]
 - [Samantha Ramos](https://github.com/samr26)
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
@@ -8984,3 +8987,5 @@ Joon Jang
 - [Mario Vizcaino](https://github.com/mariovzc)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
+- [Malik Naveed](https://github.com/maliknaveed6200)
+- [Hyun Daewon](https://github.com/hyundw84)
