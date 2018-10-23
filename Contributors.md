@@ -6,6 +6,7 @@
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
+- [joshuaOgwang](https://github.com/joshuaOgwang)
 - [mrjomp](https://github.com/mrjomp)
 - [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
