@@ -9045,3 +9045,4 @@ Joon Jang
 -[Atem]()
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
+- [Julle Juliusson](https://github.com/Ret3x)
