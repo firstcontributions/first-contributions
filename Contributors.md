@@ -8918,6 +8918,7 @@ Benzene
 - [Guillaume Monzerol](https://github.com/gmonz36)
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
+- [Derry Handoyo](https://github.com/derryhandoyo)
 - [Warun](https://github.com/ubinix-warun)
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
