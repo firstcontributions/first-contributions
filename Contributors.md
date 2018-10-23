@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [blank15](https://github.com/blank15)
@@ -7,6 +7,7 @@
 - [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
+- [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
@@ -420,6 +421,7 @@ Edison Shek
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Matt Degraffenreid] (https://github.com/matt-degraffenreid)
 - [Jon Jee](https://github.com/jonjee/)
+- [Faraidoon Naghdali](https://github.com/fnaghdali)
 - [Brittany Morris](https://github.com/brittmmendez/)
 - [Juliette Tworsey](https://github.com/firebuggirl/)
 - [Anubhab Sen](https://github.com/anubhabsen)
@@ -1443,6 +1445,7 @@ Edison Shek
 - [Arjo Jo](https://github.com/afjo)
 - [Michael Schoderer](https://github.com/schoderer)
 - [Emma Andrews](https://github.com/emma-andrews)
+- [Emma Collier](https://github.com/Axiematic)
 - [Tony Incendi](https://github.com/incendi)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
 - [Nikunj Verma](https://github.com/VermaNikunj)
@@ -1503,6 +1506,7 @@ Edison Shek
 - [Akmal Maulana Azzam](https://github.com/Rehre)
 - [Ruslan]()
 - [Swami]()
+- [Swastika](https://github.com/swastikadas)
 - [Divyanshu Bhatnagar](https://github.com/bhatnagardivyanshu)
 - [Ilias Chanis]()
 - [Nimish Agrawal]()
@@ -4060,6 +4064,7 @@ Orandi Harris
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [Canyon Schwartz](https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
+- [Kamil Pszczółkowski](https://github.com/kamilpszczolkowski)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
 - [Shara Soguilon](https://github.com/lancelotx01)
@@ -8046,7 +8051,7 @@ Rohan Das
 - [Connor Bottum](https://github.com/cbb692)
 - [Amandeep Saluja](https://github.com/amandeep-saluja)
 - [Brandon Thompson](https://github.com/roric32)
-- [Electric Keet](https://github.com/electrickeet)
+- [Electric Keet](https://github.com/electrickeet)
 - [Yannick De Jonghe](https://github.com/yadejo)
 - [Joshua Jarvis](https://github.come/bynarlogic)
 - [Rachna Pathak](https://github.com/rachnapathak)
@@ -8996,7 +9001,6 @@ Joon Jang
 - [Dewni Mithma](https://github.com/Dewni1995)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
-
 - [⁵⁷](https://github.com/micky619)
 - [Lee Qixian](https://github.com/swiftpolar)
 - [Nathan Park](https://github.com/ul7290)
@@ -9004,3 +9008,5 @@ Joon Jang
 - [Shikha Tiwari](https://github.com/allenqueen)
 - [Mani Bhushan](https://github.com/manibhushan)
 - [Shamim Mukhtar](https://github.com/ShamimMukhtar)
+- [Thanos Tsiro](https://github.com/TsiroJohn)
+- [MELLISdesigns](https://github.com/mellisdesigns)
