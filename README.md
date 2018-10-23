@@ -173,3 +173,11 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+GitHub uses git which is a distributed version control system written by the creator of Linux, Linus Torvalds. It is similar to other version control systems only that it is distributed. This means that you can clone a whole git project and have the entire project history.
+
+The beauty of using GitHub is that it brings the benefits of decentralized version control systems (VCS) to centralized services. It stores copies of your project’s repository like any other developer. What is more is that GitHub encourages developers to fork projects’ repository and use that as their own centralized repository. From there they can change the project to their liking. But why should you consider using GitHub?
+
+Makes it easy to contribute to open source projects
+
+Most open-source users rely on GitHub to manage their projects. This is mostly because GitHub is usually free if the project is open source and includes wiki and issue tracker that makes it easy to include in-depth documentation and for you to get feedback on it.
+
