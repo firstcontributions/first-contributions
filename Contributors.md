@@ -114,6 +114,7 @@ Arnel Forbes
 - [loagis](https://github.com/loagis)
 - [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
+- [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
 - [Marjy Guery](https://github.com/mguery)
