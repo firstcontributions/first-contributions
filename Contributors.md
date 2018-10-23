@@ -2307,6 +2307,7 @@ Bakht Jamal Sukhera
 - [Stephen Bowers](https://github.com/stephenbowers)
 - [Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka)
 - [Douglas Felipe S. Tebas]()
+- [Hal, R.](https://github.com/Rkh526)
 - [Kumar Kaushik](https://github.com/BobbleHeadAlien)
 - [Marlo Carreon](https://github.com/mcarreon)
 - [Rahul Krishna](https://github.com/krishrahul98)
