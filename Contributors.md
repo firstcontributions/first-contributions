@@ -34,6 +34,7 @@ Alvin
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 JOON JANG JOON JANG
+- [fullheightcoding](https://github.com/fullheightcoding)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
@@ -134,6 +135,7 @@ Arnel Forbes
 - [Angus Cornall ] (https://github.com/AngusCornall)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
+- [Lex Saplan](https://github.com/zanderlx)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
@@ -8990,4 +8992,7 @@ Joon Jang
 - [Hyun Daewon](https://github.com/hyundw84)
 - [Dewni Mithma](https://github.com/Dewni1995)
 - [Omer Qureshi](https://github.com/omer413)
+- [Acerbis Gianluca](https://github.com/acerbisgianluca)
+- [Gabriele Ceresara](https://github.com/ZioCecio)
+
 
