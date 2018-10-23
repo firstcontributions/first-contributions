@@ -87,6 +87,7 @@ Arnel Forbes
 - [Eduardo Raygoza](https://github.com/EduardoRaygoza)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
+- [Tintu Thomas](https://github.com/tintutm)
 - [Alex Tai](https://github.com/alextechtai)
 - [Leo T.](https://github.com/taydakov)
 - [loagis](https://github.com/loagis)
