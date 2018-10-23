@@ -409,6 +409,7 @@ Edison Shek
 - [Kyle Connelly](https://github.com/kyluca)
 - [Arun Sharma](https://github.com/arun-sharma-blr)
 - [Dina Wee] (https://github.com/dinawee)
+- [Abu Sayed] (https://github.com/hallucinatorX)
 - [Guy McManus] (https://github.com/guymcmanusgithub)
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
