@@ -36,6 +36,7 @@
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
+- [Mai Nguyen](https://github.com/maidoesthings)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Bernard Yap](https://github.com/bernisaur)
 - [Sergiy Dybskiy](https://github.com/416serg)
