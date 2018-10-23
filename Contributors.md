@@ -143,7 +143,7 @@ Arnel Forbes
 - [Christian Becker](https://github.com/Mikrotherion)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Muhammad Ali ](https://github.com/designsbyali)
-- [Preveen Raj ] (https://github.com/preveenraj)
+- [Preveen Raj](https://github.com/preveenraj)
 - [Cole Beck](https://github.com/claniere)
 - [espilya](https://github.com/espilya)
 - [Efe Barış](https://github.com/altinay10)
