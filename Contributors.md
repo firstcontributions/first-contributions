@@ -147,6 +147,7 @@ aalbusoiu
 - [Arunvivek Supramanian](https://github.com/aruncse01)
 - [Mike Capps](https://github.com/MikeCapps2006)
 - [Adrija Acharyya](https://github.com/adrijaacharyya)
+- [Jaco Minnaar](https://github.com/Jaco-Minnaar)
 - [Ross Clark](https://github.com/ross-clark)
 - [Gromet Spaal](https://github.com/grommuz)
 - [Maria Aveiro](https://github.com/aveirinha)
