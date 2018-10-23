@@ -8381,6 +8381,7 @@ Benzene
 - [Iris Soares](https://github.com/irixs)
 - [Leticia Maciel](https://github.com/leehmaciel)
 - [José Brandão](https://github.com/OZebra)
+- [Jayam Srivastava](https://github.com/Srivastava-jayam)
 - [0xJhow](https://github.com/0xjhow)
 - [João Tavares](https://github.com/vtavares11)
 - [Fabiane Souza](https://github.com/devfabisouza)
