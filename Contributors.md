@@ -9012,3 +9012,4 @@ Joon Jang
 - [MELLISdesigns](https://github.com/mellisdesigns)
 - [M. Mursaleen](https://github.com/mmursaleen)
 -	[Bryan L](https://github.com/bdlb77)
+- [Richard Bailey](https://github.com/Programm3r)
