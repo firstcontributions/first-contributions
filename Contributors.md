@@ -7762,6 +7762,7 @@ Rohan Das
 - [Jaskaran Singh](https://github.com/jaskaransr93)
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
+- [Subrato Sarker](https://github.com/subrato-git)
 - [Myren Eario](https://github.com/myren-eario)
 - [Max Wilets](https://github.com/maxwilets)
 - [Subhan Ali](https://github.com/MobDev1994)
@@ -9027,4 +9028,3 @@ Joon Jang
 -	[Bryan L](https://github.com/bdlb77)
 - [Minauz](https://github.com/minauz)
 - [Erick Silva] (https://github.com/erickos)
-- [Subrato Sarker](https://github.com/subrato-git)
