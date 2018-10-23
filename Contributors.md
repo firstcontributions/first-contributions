@@ -11,6 +11,7 @@
 - [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
+- [naman](https://github.com/nbanati)
 - [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
 - [antonyjm462](https://github.com/antonyjm462)
