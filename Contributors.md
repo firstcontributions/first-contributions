@@ -108,6 +108,7 @@ Arnel Forbes
 - [Eduardo Raygoza](https://github.com/EduardoRaygoza)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
+- Hector Barajas
 - [Tintu Thomas](https://github.com/tintutm)
 - [Alex Tai](https://github.com/alextechtai)
 - [Leo T.](https://github.com/taydakov)
