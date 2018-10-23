@@ -47,6 +47,7 @@ Alvin
 - [Alex Oladele](https://github.com/dragid10)
 apleht
 - [Tim Austin](https://github.com/neenjaw)
+- [Steve Torrence](https://github.com/storrence88)
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]
 Arnel Forbes
