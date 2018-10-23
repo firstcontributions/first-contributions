@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [EndrylMarues](https://github.com/EndrylMarques)
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
