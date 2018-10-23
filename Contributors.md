@@ -2,6 +2,7 @@
 # Contributors
 
 - [blank15](https://github.com/blank15)
+- [mansoor96g](https://github.com/mansoor96g)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
 - [Prateek](https://github.com/prateekroy)
