@@ -144,6 +144,7 @@ Arnel Forbes
 - [Gromet Spaal](https://github.com/grommuz)
 - [Maria Aveiro](https://github.com/aveirinha)
 - [William Baker](https://github.com/wjbaker101)
+- [Steven Tucker](https://github.com/atrbfs)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Suman Saurabh](https://github.com/sumanssaurabh)
 - [Sachin Kumar](https://github.com/hijacker5)
