@@ -1213,6 +1213,7 @@ Edison Shek
 - [Paul Caoile](https://github.com/m2paulc)
 - [CryptoCoolby](https://github.com/CryptoCoolby)
 - [Android](https://github.com/androidtestuser)
+- [manumaini](https://github.com/manumaini)
 - [Matt Van Law](https://github.com/MattVanLaw)
 - [Jason Klinger](https://github.com/jaybob007)
 - [ Ken Austria](https://github.com/KenAustria)
