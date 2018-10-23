@@ -1972,6 +1972,7 @@ Edison Shek
 - [Kurses](https://github.com/kurses)
 - [Shubham Tarade](https://github.com/coder-shanks)
 - [Rawan Moukalled](https://github.com/RawanMoukalled)
+- [Geno Patterson] (https://github.com/genosis)
 - [Pawan Kumar](https://github.com/Pawank221)
 - [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
