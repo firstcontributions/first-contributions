@@ -8,7 +8,7 @@
 
 Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
 
-Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
+Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -43,14 +43,14 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 Trong đó 'this-is-you' là tên người dùng github của bạn. Ở đây bạn đang sao chép nội dung của kho mã nguồn "first-contributions" trong github vào máy tính của bạn
 
-## Tạo một chi nhánh (branch)
+## Tạo một nhánh (branch)
 
-Thay đổi môi trường làm việc bằng thư mục của kho mã nguồn trên máy tính của bạn.
+Truy xuất tới thư mục chứa kho mã nguồn trên máy tính của bạn (nếu bạn vẫn chưa ở tại đó)
 
 ```
 cd first-contributions
 ```
-Bây giờ tạo ra một chi nhánh sử dụng lệnh `git checkout`
+Bây giờ tạo ra một nhánh sử dụng lệnh `git checkout`
 ```
 git checkout -b <them-ten-ban>
 ```
