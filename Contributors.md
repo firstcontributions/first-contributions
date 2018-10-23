@@ -6569,6 +6569,7 @@ Rohan Das
 - [Stefan Strut](https://github.com/StrStefan)
 - [Nikhil Hegde](https://github.com/nikhilh-20)
 - [Ken Matsui](https://github.com/kenchalros)
+- [Manik Rastogi](https://github.com/manik3112)
 - [Cainan Mahar](https://github.com/cainanmahar)
 - [Brooke Wittenber](https://github.com/brooksquil)
 - [Rahul](https://github.com/RahulReddy75)
