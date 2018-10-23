@@ -3724,6 +3724,7 @@ Orandi Harris
 - [Rovaron](https://github.com/Rovaron)
 - [KayrabCebll](https://github.com/kayrabCebll)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
+- [**Devsur**](https://github.com/devsur)
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
 - [Joe Wilson](https://github.com/jaw0608)
