@@ -12,6 +12,7 @@
 - [antonyjm462](https://github.com/antonyjm462)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
+- [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
