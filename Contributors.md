@@ -120,6 +120,7 @@ aalbusoiu
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
+- [Samira Elhami] (https://github.com/SamiraElhami) 
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk)
 - [Daniel Yusry](https://github.com/DanielYuo)
