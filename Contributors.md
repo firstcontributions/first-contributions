@@ -210,6 +210,7 @@ Arnel Forbes
 - Shlok Agarwal
 - [Tyler Clark]
 - [Chase Terry] (https://github.com/cdterry87)
+- [Jason Lynch] (https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
