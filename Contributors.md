@@ -2,6 +2,7 @@
 # Contributors
 
 - [EndrylMarues](https://github.com/EndrylMarques)
+- [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
