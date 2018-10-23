@@ -7589,6 +7589,7 @@ Rohan Das
 - [Hattori Henzo](https://github.com/HattoriHenzo)
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
+- [moazma ashfaq](https://github.com/moazmaashfaqerozgaar/first-contributions)
 - [Dustin Sugasa](https://github.com/dpsugasa)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell](https://github.com/connordovell)
