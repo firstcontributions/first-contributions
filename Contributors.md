@@ -134,6 +134,7 @@ Arnel Forbes
 - [Angus Cornall ] (https://github.com/AngusCornall)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
+- [Lex Saplan](https://github.com/zanderlx)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
