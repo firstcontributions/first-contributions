@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [blank15](https://github.com/blank15)
@@ -91,6 +91,7 @@ Arnel Forbes
 - [loagis](https://github.com/loagis)
 - [Tristan Marechaux] (https://github.com/marechaux)
 - [Deepak Sood](https://github.com/deepaksood619)
+- [Balamurugan](https://github.com/dillbala)
 - [Jonas Jore](https://github.com/JonasJore)
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk)
@@ -8994,4 +8995,3 @@ Joon Jang
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
 
-- [⁵⁷](https://github.com/micky619)
