@@ -9,6 +9,7 @@
 - [kananthav](https://github.com/kananthav)
 - [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
+- [antonyjm462](https://github.com/antonyjm462)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
 - [stu01509](https://github.com/stu01509)
