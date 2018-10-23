@@ -3199,6 +3199,7 @@ Orandi Harris
 - [Eric Hall](https://github.com/halleri)
 - [Anju Mercian](https://github.com/amalphonse)
 - [Neil Lupton](https://github.com/Neil188)
+- [Hugo Lopez](https://github.com/hugolomar)
 - [Kartik Gurajr](https://github.com/Kartik666)
 - [Paul Rosset](https://github.com/PaulRosset)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
