@@ -8996,7 +8996,6 @@ Joon Jang
 - [Dewni Mithma](https://github.com/Dewni1995)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
-master
 
 - [⁵⁷](https://github.com/micky619)
 - [Lee Qixian](https://github.com/swiftpolar)
