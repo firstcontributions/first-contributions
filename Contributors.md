@@ -20,7 +20,7 @@
 - [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
-- [Anda Stoica] (https://github.com/andadiana)
+- [Anda Stoica](https://github.com/andadiana)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Dwij Sheth](https://github.com/dwij2812)
