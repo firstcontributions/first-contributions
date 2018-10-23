@@ -396,6 +396,7 @@ Edison Shek
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
 - [Ellen] (https://github.com/schmellz)
+- [Vrashi Shrivastava](https://github.com/vrashi)
 - [Adam Luczak](https://github.com/aluczak)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
 - [Dimosthenis Katsimardos](https://github.com/dimkatsi91)
