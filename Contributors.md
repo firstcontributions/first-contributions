@@ -8083,6 +8083,7 @@ Rohan Das
 - [Rishik Rohan](https://github.com/Rishik233)
 - [Thomas M](https://github.com/thomas901/first-contributions)
 - [Maurice A](https://github.com/matrop)
+- [Ahmed Raza](https://github.com/MuhammmadAhmedRaza)
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
 - [Nico Braun](https://github.com/Nios7853/)
@@ -9002,5 +9003,4 @@ Joon Jang
 - [Darshan Sharma](https://darshansharma.github.io)
 - [Shikha Tiwari](https://github.com/allenqueen)
 - [Mani Bhushan](https://github.com/manibhushan)
-- [Ahmed Raza](https://github.com/MuhammmadAhmedRaza)
 
