@@ -7485,6 +7485,7 @@ Rohan Das
 - [Hattori Henzo](https://github.com/HattoriHenzo)
 - [Robert Purcea](https://github.com/RobertPurcea)
 - [Graham Wright](https://github.com/Reebster)
+- [moazma ashfaq](https://github.com/moazmaashfaqerozgaar/first-contributions)
 - [Dustin Sugasa](https://github.com/dpsugasa)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell](https://github.com/connordovell)
@@ -8924,5 +8925,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [moazma ashfaq](https://github.com/moazmaashfaqerozgaar/first-contributions)
 
