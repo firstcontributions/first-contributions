@@ -2671,6 +2671,7 @@ Orandi Harris
 - [avidevil](https://github.com/avidevil)
 - [andynur](https://github.com/andynur)
 - [smieras](https://github.com/smieras)
+- [JuiceYY](https://github.com/JuiceYY)
 - [Jani Rantanen](https://github.com/JaniRantanen)
 - [joel7871](https://github.com/joel7871)
 - [Shiny](https://github.com/Shine0707)
