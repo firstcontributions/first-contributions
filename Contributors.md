@@ -27,6 +27,7 @@
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [Sergiy Dybskiy](https://github.com/416serg)
+- [Vinayak S](https://github.com/VinayakSuresh1997)
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
 - [Sarunyou Whangbunyapirat](https://github.com/sarunyou)
 - [Shivam Agrawal](https://github.com/shiv11x10)
