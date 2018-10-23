@@ -1,4 +1,4 @@
-
+﻿
 # Contributors
 
 - [EndrylMarues](https://github.com/EndrylMarques)
@@ -151,6 +151,7 @@ Arnel Forbes
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
 - [Lex Saplan](https://github.com/zanderlx)
+- [Bryan Rojas](https://github.com/bryan-rojas)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
