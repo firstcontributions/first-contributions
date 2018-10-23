@@ -1,4 +1,4 @@
-﻿# Contribution guide
+﻿# Contribution guide.
 
 Welcome to your first contribution. :heart:
 
