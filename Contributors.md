@@ -7,6 +7,7 @@
 - [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
+- [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
 - [Aslam](https://github.com/Hotdogcode)
