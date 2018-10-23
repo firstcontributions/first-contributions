@@ -7571,6 +7571,7 @@ Rohan Das
 - [NamithaMurali](https://github.com/NamithaMurali)
 - [Bazyli Kot](https://github.com/gitBKrp)
 - [Lehone](https://github.com/lehone-hp)
+- [Lucas Martins](https://github.com/impostor1001)
 - [Mocanu Gabriel](https://github.com/gabrielmocanu)
 - [Alistair Amick](https://github.com/AlistairAmick)
 - [Lee Roberts](https://github.com/leejroberts)
@@ -9031,4 +9032,3 @@ Joon Jang
 - [Minauz](https://github.com/minauz)
 - [Erick Silva] (https://github.com/erickos)
 - [Buse Genç](https://github.com/busegenc)
-- [Lucas Martins](https://github.com/impostor1001)
