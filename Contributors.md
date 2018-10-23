@@ -81,6 +81,7 @@ Arnel Forbes
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
+- [Arseny Poga](https://github.com/arsenypoga)
 - [SH Shin](https://github.com/sshplendid)
 - [Jai Prakash](https://github.com/last-stand)
 - [Jon Taylor](https://github.com/jontaylor224)
