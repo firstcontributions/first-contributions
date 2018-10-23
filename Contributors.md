@@ -17,6 +17,7 @@
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
+- [Vishal Kumar Roy](https://github.com/VishalKumarRoy)
 - [Connor Lindsey] (https://github.com/Ibaeni)
 -[pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
