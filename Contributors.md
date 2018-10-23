@@ -8671,6 +8671,7 @@ Benzene
 - [Haley](https://github.com/haleybear)
 - [Juan Manuel Otegui](https://github.com/JuanMa06)
 - [File Bot](https://github.com/sids-files)
+- [Himanshu Rathod](https://github.com/himi98)
 - [Raghav Jain](https://github.com/jain-raghav)
 - [Pasha Pylypchuk](https://github.com/PashaUA)
 - [Sarsiz Chauhan](https://github.com/sarsiz)
