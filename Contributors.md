@@ -1374,6 +1374,7 @@ Edison Shek
 - [bwoconnor](https://github.com/bwoconnor)
 - [dfontana](https://github.com/dfontana)
 - [Ignacio V]()
+- [Alan] (https://github.com/aanto07)
 - [Natalie Roberts]()
 - [Ayush Jindal]()
 - [Xabifk](https://github.com/Xabifk)
