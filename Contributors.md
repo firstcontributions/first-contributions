@@ -7932,6 +7932,7 @@ Rohan Das
 - [Shruti Shastri](https://github.com/shrutishastri)
 - [Manoj Joshi](https://github.com/manojjoshi)
 - [Alex Cheng](https://github.com/alexcheng94)
+- [Masooma Ali](https://github.com/MasoomaAli)
 - [Xobx CHERIF](https://github.com/xobx-cherif)
 - [Carlos] (https://github.com/CLantigua2/)
 - [Hernán Gimenez](https://github.com/hgimenez/)
