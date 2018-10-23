@@ -1997,6 +1997,7 @@ Edison Shek
 - [csy0296](https://github.com/csy0296)
 - [Alexandro Perez](https://github.com/AlexandroPerez)
 - [Caleb Pomazon](https://github.com/calebpomazon)
+- [Henrique Fernandes](https://github.com/sfrique)
 - [Elizabeth Onder](https://github.com/eonder)
 - [WhatTheFar](https://github.com/WhatTheFar)
 - [Piyush Srivastava](https://github.com/Shdw-Cat)
