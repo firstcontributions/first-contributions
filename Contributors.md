@@ -3,6 +3,7 @@
 
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
+- [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
 - [prashansanb](https://github.com/prashansanb)
