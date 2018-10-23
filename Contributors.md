@@ -61,6 +61,7 @@ Arnel Forbes
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
+- [SH Shin](https://github.com/sshplendid)
 - [Jon Taylor](https://github.com/jontaylor224)
 - Duwayne the rock Johnson
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
