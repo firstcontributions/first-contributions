@@ -18,7 +18,6 @@
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Satyam Uttam]
 - [Sanya Gupta] (https://github.com/sanya2701)
-- [manumaini](https://github.com/manumaini)
 - [Briana Baker](https://github.com/brianabaker)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Anupama Garani](https://github.com/anusky95)
@@ -838,6 +837,7 @@
 - [Paul Caoile](https://github.com/m2paulc)
 - [CryptoCoolby](https://github.com/CryptoCoolby)
 - [Android](https://github.com/androidtestuser)
+- [manumaini](https://github.com/manumaini)
 - [Matt Van Law](https://github.com/MattVanLaw)
 - [Jason Klinger](https://github.com/jaybob007)
 - [ Ken Austria](https://github.com/KenAustria)
