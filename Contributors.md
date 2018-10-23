@@ -2960,6 +2960,7 @@ Orandi Harris
 - [Pratik6554](https://github.com/pratik6554)
 - [Beatorizu](https://github.com/beatorizu)
 - [hsk97](https://github.com/hsk97)
+- [Lucas Espindola](https://github.com/espindolaa)
 - [Mouath Ibrahim](https://github.com/iMouath)
 - [Narendra Avula](https://github.com/narendradivi)
 - [Christian Hansen](https://github.com/ChrisWcs)
