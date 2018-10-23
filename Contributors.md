@@ -18,6 +18,7 @@
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
+- [Sergiy Dybskiy](https://github.com/416serg)
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
 - [Sarunyou Whangbunyapirat](https://github.com/sarunyou)
 - [Connor Lindsey] (https://github.com/Ibaeni)
