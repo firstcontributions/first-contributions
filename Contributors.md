@@ -18,6 +18,7 @@
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
 - [Carlos Ramirez](https://github.com/calbertora)
+- [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
