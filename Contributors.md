@@ -3,6 +3,7 @@
 
 - [Kegjams](https://github.com/Kegjams)
 - [EndrylMarues](https://github.com/EndrylMarques)
+- [SteveMarshall](https://github.com/marshast)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
