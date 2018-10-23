@@ -8998,3 +8998,4 @@ Joon Jang
 - [⁵⁷](https://github.com/micky619)
 - [Lee Qixian](https://github.com/swiftpolar)
 - [Nathan Park](https://github.com/ul7290)
+- [Darshan Sharma](https://darshansharma.github.io)
