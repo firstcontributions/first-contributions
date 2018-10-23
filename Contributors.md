@@ -15,6 +15,7 @@
 - [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
+- [narender yadav](https://github.com/narendersinghyadav)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
