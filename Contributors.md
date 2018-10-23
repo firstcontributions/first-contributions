@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [blank15](https://github.com/blank15)
 - [nualluan](https://github.com/naulluan)
 - [mrjomp](https://github.com/mrjomp)
 - [Prateek](https://github.com/prateekroy)
@@ -33,6 +34,7 @@ Alvin
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 JOON JANG JOON JANG
+- [fullheightcoding](https://github.com/fullheightcoding)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
@@ -133,6 +135,7 @@ Arnel Forbes
 - [Angus Cornall ] (https://github.com/AngusCornall)
 - [Edin Dzabija](https://github.com/edukacija)
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
+- [Lex Saplan](https://github.com/zanderlx)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
@@ -6566,6 +6569,7 @@ Rohan Das
 - [Kamal Laungani](https://github.com/launganik)
 - [kola014](https://github.com/kola014)
 - [Andrew Rekko](https://github.com/arekko)
+- [KY-Ng]
 - [Samantha Ramos](https://github.com/samr26)
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
@@ -8974,17 +8978,19 @@ Benzene
 - [Shreya](https://github.com/shrechak)
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
-[Saba Younis](https://github.com/sabayounis)
+- [Saba Younis](https://github.com/sabayounis)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Rana Faisal](https://github.com/IRanaFaisal)
 - [Matt Clinton](https://github.com/clnt)
-Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
-
+- [Malik Naveed](https://github.com/maliknaveed6200)
+- [Hyun Daewon](https://github.com/hyundw84)
+- [Dewni Mithma](https://github.com/Dewni1995)
+- [Acerbis Gianluca](https://github.com/acerbisgianluca)
 
