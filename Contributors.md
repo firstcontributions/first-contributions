@@ -105,6 +105,7 @@ Arnel Forbes
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Shivani Arun](https://github.com/ShivaniArun)
+- [Shelly Tomar](https://github.com/ShellyTomar26)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan] (https://github.com/setiam3)
 - [Arthur van Acker](https://github.com/puupa)
