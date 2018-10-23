@@ -10,7 +10,7 @@ Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama ketika
 
 Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
-#### *Baca dalam [bahasa lainnya](../Translations.md)* 
+#### *Baca dalam [bahasa lainnya](../translations)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -18,8 +18,8 @@ Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles
 
 ## Fork repositori ini
 
-Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
-Hal tersebut akan membuat salinan repositori ini di akun anda.
+Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas halaman.
+Hal tersebut akan membuat salinan repositori ini di akun github anda.
 
 ## Klon repositori
 
@@ -30,26 +30,26 @@ Sekarang klon repositori ini ke komputer anda. Tekan tombol clone lalu tekan iko
 Buka terminal dan eksekusi perintah git berikut:
 
 ```
-git clone "url yang telah anda salin"
+git clone "<url yang telah anda salin>"
 ```
-yang mana "url yang telah anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+yang mana "<url yang telah anda salin>" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Contoh:
 ```
-git clone https://github.com/username-anda/first-contributions.git
+git clone https://github.com/<username-anda>/first-contributions.git
 ```
 Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Membuat Cabang
+## Membuat Branch
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
 ```
 cd first-contributions
 ```
-Buat cabang dengan perintah `git checkout`:
+Buat branch baru dengan perintah :
 ```
 git checkout -b <add-nama>
 ```
@@ -97,7 +97,7 @@ Cabang master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. U
 
 ## Membuat fork anda selaras dengan repositori ini
 
- Pertama, ganti posisi ke cabang master.
+ Pertama, ganti posisi ke branch master.
  ```
  git checkout master
  ```
@@ -110,17 +110,17 @@ Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang t
 git fetch upstream
 ```
 
-Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam cabang master milik anda.
+Di sini kita melakukan penarikan (pull) terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan (rebase/merge) terhadap revisi baru dari repositori saya ke dalam cabang master milik anda.
 ```
 git rebase upstream/master
 ```
-Di sini anda menerapkan semua perubahan yang telah anda ambil ke cabang master. Jika anda dorong cabang master sekarang, fork anda juga akan memiliki perubahan:
+Di sini anda menerapkan semua perubahan yang telah anda ambil ke branch master. Jika anda dorong branch master sekarang, fork anda juga akan memiliki perubahan:
 ```
 git push origin master
 ```
 Perhatikan bahwa di sini anda melakukan push ke remote bernama origin.
 
-Pada titik ini saya telah melakukan penggabungan terhadap cabang anda `<add-nama>` ke dalam cabang master dan anda telah melakukan penggabungan terhadap cabang master saya ke dalam cabang master milik anda. Cabang milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
+Pada titik ini saya telah melakukan penggabungan terhadap branch anda `<add-nama>` ke dalam branch master dan anda telah melakukan penggabungan terhadap branch master saya ke dalam cabang master milik anda. Cabang milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
 ```
 git branch -d <add-nama>
 ```
@@ -128,7 +128,7 @@ dan anda dapat menghapus versi tersebut yang ada di repositori remote:
 ```
 git push origin --delete <add-nama>
 ```
-Hal ini sebenarnya tidak diperlukan namun nama dari cabang ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
+Hal ini sebenarnya tidak diperlukan namun nama dari branch ini menunjukkan tujuan yang khusus. Masa hidupnya bisa dijadikan lebih pendek.
 
 ## Tutorial Menggunakan Tools Lain
 
