@@ -70,6 +70,7 @@ apleht
 Arnel Forbes
 - Anna!
 - [doehae](https://github.com/doehae)
+- [ulricmarques](https://github.com/ulricmarques)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
