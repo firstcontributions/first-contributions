@@ -26,6 +26,7 @@
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
+- [Emerson Carvalho](https://github.com/brecarv) 
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [Bernard Yap](https://github.com/bernisaur)
