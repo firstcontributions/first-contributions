@@ -224,6 +224,7 @@ Edison Shek
 - [Satyam Uttam]
 - [Krzysztof Radomski] (https://github.com/krzysztofradomski)
 - [Jose Hernandez](https://github.com/JHernandez99)
+- [Shubham Shekhar](https://github.com/Keovkevin)
 - [Matt Ackard](https://github.com/mattackard)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Marco Diaz] (https://github.com/Marco1969theKnight)
