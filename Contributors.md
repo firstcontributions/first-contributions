@@ -8224,6 +8224,7 @@ Rohan Das
 - [Byron White](https://github.com/BoomSyrup)
 - [Ryan Zegray](https://github.com/rzgry)
 - [Yeoh Joer](https://github.com/yjoer)
+- [Tim Möller](https://github.com/megaTM512)
 - [Ste Royle](https://github.com/steroyle)
 - [Rick Dunkin](https://github.com/rickdunkin)
 - [Xterat](https://github.com/fengzipei)
