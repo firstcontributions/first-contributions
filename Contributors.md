@@ -1038,6 +1038,7 @@ Edison Shek
 - [Alexey Salangin](https://github.com/magauran)
 - [Arhan Banerjee](https://github.com/arhanbaner)
 - [Pranav Suresh](https://github.com/pranavsuresh7)
+- [JS](https://github.com/FireFoxUserin)
 - [Jatin Aggarwal](https://github.com/jatinagg1)
 - [diproIV](https://github.com/diproiv)
 - [Anupam Das](https://github.com/anupamdas104)
