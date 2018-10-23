@@ -9020,3 +9020,4 @@ Joon Jang
 - [M. Mursaleen](https://github.com/mmursaleen)
 -	[Bryan L](https://github.com/bdlb77)
 - [Minauz](https://github.com/minauz)
+- [Erick Silva] (https://github.com/erickos)
