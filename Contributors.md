@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [Kegjams](https://github.com/Kegjams)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
