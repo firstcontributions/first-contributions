@@ -21,6 +21,7 @@ Arnel Forbes
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
+- [Sean Yeo](https://github.com/SeanYeoTE)
 - [Saheel Ahmed](https://github.com/7saheelahmed)
 - [Khaja Moinuddin Mohammed](https://github.com/moinuddin14)
 - [Amr Hendy](https://github.com/AmrHendy)
