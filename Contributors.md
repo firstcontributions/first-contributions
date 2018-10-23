@@ -2878,6 +2878,7 @@ Orandi Harris
 - [Sally Chhuon](https://github.com/sc2225)
 - [shreya bhandare](https://github.com/shreab373)
 - [Lord Adarsh](https://github.com/adarsh-why)
+- [Milos Macura](https://github.com/milosmac94)
 - [Roshan Jossey](https://github.com/Roshanjossey)
 - [Ray Al](https://github.com/ray4spd)
 - [Christian Brill](https://github.com/christianbrill)
