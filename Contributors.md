@@ -26,6 +26,7 @@
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
 - [Florin Irion](https://github.com/irionr)
+- [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [kananthav](https://github.com/kananthav)
 - [naman](https://github.com/nbanati)
 - [Caique](https://github.com/caiqueff)
