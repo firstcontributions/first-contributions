@@ -146,3 +146,9 @@ kufaka esikhundleni `<add-your-branch-name>` segama legatsha owadala ngaphambili
 Uma uya endaweni yakho yokugcina ku-GitHub, uzobona  `Compare & pull request` inkinobho. Chofoza kuleyo nkinobho.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Manje thumela isicelo sokudonsa.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+Ngokushesha ngizohlanganisa zonke izinguquko zakho zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
