@@ -83,3 +83,13 @@ Ngokwesibonelo:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+
+Endaweni 'ye-to-you' ukungena kwakho ku-github. Kulesi sinyathelo, ulanda okuqukethwe kwekhophi yakho yokugcina imali evela ku-gache kukhompyutha yakho.
+
+## Dala igatsha
+
+Yiya kwifolda enefolda yakho (uma ungasekho kakade):
+
+```
+cd first-contributions
+```
