@@ -57,3 +57,6 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa ingabe kukhona okungcon
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+
+Uma ungenalo Git kukhompyutha yakho, [uyifake]( https://help.github.com/articles/set-up-git/).
