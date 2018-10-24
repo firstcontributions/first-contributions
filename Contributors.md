@@ -4604,6 +4604,7 @@ Orandi Harris
 - [Martina Morigi](https://github.com/Marthiee)
 - [Andrew](https://github.com/darthm3gatron)
 - [Levente Vig](https://github.com/levivig)
+- [Máté Donka](https://github.com/m4tty-d)
 - [Andr? Carvalho](https://github.com/AndrCarvalho)
 - [Vlad Buzea](https://github.com/buzea)
 - [Shulammite Lim](https://github.com/shulim)
