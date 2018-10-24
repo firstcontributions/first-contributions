@@ -8950,7 +8950,6 @@ Rohan Das
 - [Chiffonsigh](https://github.com/chiffonsigh)
 - [Jakub Goleń](https://github.com/SINEdowskY)
 - [Jonathan Markman](https://github.com/jmarkman)
-- [André Leitzke](https://github.com/leitzkeandre)
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
 - [Xander Grzywinski](https://github.com/salaxander)
@@ -9197,3 +9196,4 @@ Rohan Das
 - [Marion Zrch](https://github.com/marion1998)
 - [Carlo Carlo Lizano](https://github.com/clizano)
 - [w1ldzer0](https://github.com/WildZero)
+- [Muhammed Siyad M](https://github.com/MuhammedSiyadM)
