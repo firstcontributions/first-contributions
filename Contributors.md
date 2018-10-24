@@ -75,6 +75,7 @@ Alvin
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
+- [Sasho Irkov](https://github.com/2121159i)
 JOON JANG JOON JANG
 - [Jeet Maity] (https://github.com/jeet-maity)
 -Siddharth Gusain(https://github.com/siddharth-gusain)
