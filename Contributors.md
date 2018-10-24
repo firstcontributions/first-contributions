@@ -53,6 +53,7 @@
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Saravanan Elumalai](https://github.com/saravannann)
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
+- [Danny Molloy](https://github.com/strachaldrat)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
