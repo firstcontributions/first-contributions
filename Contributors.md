@@ -205,6 +205,7 @@ aalbusoiu
 - [Gav Hanna](https://github.com/gavhanna)
 - [Christian Becker](https://github.com/Mikrotherion)
 - [Anuj Jindal](https://github.com/jindalAnuj)
+- [Carlos](https://github.com/carlsrenatoh)
 - [Muhammad Ali ](https://github.com/designsbyali)
 - [Preveen Raj](https://github.com/preveenraj)
 - [Cole Beck](https://github.com/claniere)
