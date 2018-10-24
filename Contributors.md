@@ -8276,6 +8276,7 @@ Rohan Das
 - [Efraim Ramsen](https://github.com/efraimramsen)
 - [alohasolamente](https://github.com/alohasolamente)
 - [JirayuL](https://github.com/JirayuL)
+- [Arnold Marcus](https://github.com/arnoldmm54}
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Ugurkan Ates](https://github.com/ugurkanates)
@@ -9145,4 +9146,3 @@ Benzene
 - [PDVega](https://github.com/PDVega/)
 - [Shan muhammad] (https://github.com/shanmuhammad786)
 - [Narayanan Elavathur Ranganatha](https://github.com/naruarjun)
-- [Arnold Marcus](https://github.com/arnoldmm54}
