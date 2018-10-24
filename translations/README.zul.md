@@ -110,6 +110,21 @@ git checkout -b engeza-adam-kowalski
 
 ## Yenza ushintsho oludingekile bese wenza lezo zinguquko
 
-Vula ifayela Contributors.mdkumhleli wombhalo. Kumele wazi i-Markdown, ulimi olumnyama olumnyama. Lapha unephepha lokukopela lapho uzothola khona ulwazi lokuthi ungasebenzisa kanjani iMarkdown.
+Manje `Contributors.md` ifayela evulekile kumhleli wombhalo, engeza igama lakho kuyo. Ungayifaki ekuqaleni noma ekupheleni kwefayela. Beka noma kuphi phakathi. Manje, londoloza ifayela.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+Uma uya encwadini yomhlahlandlela bese wenza umyalo  `git status`, uzobona kukhona izinguquko.
+
+
+Engeza lezo zinguquko egatsheni owake wadala usebenzisa `git add` umyalo:
+
+```
+git add Contributors.md
+```
+
+Manje yenza lezo zinguquko usebenzisa `git commit` umyalo:
+
+```
+git commit -m "Add <your-name> to Contributors list"
+```
