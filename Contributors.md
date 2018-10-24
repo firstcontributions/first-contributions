@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -85,6 +85,7 @@ Ben
 - [Menna] (https://github.com/mennayahia)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
+- [Seth Polyniak](https://github.com/sethpoly)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [Vipul Chodankar](https://github.com/whiplash7)
 - [Mayank Kanoria](https://github.com/mkanoria)
