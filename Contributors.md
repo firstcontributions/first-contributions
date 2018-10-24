@@ -4033,6 +4033,7 @@ Orandi Harris
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
+- [Jack Hao](https://github.com/jackhhao)
 - [Bhaskar Gupta] (https://github.com/bhaskargupta98)
 - [Ryan Pluss](https://github.com/r-pluss)
 - [Anat Portnoy](https://github.com/Anat-Port)
