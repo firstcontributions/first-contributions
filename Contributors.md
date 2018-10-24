@@ -366,6 +366,7 @@ Patrizia Trammell
 - [Michael Helwig](https://github.com/FireSpaceBird)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
+- [Michelle Vivita] (https://github.com/MichelleVivita)
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
 - [Sumanyu Rosha](https://github.com/sumanyurosha)
