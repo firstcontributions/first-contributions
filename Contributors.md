@@ -12,6 +12,7 @@
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [mrjomp](https://github.com/mrjomp)
+- [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
