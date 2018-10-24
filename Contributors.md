@@ -141,7 +141,7 @@ aalbusoiu
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
-- [Samira Elhami] (https://github.com/SamiraElhami)
+- [Samira Elhami] (https://github.com/SamiraElhami) 
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk
 -gagan kumar)
@@ -8387,8 +8387,9 @@ Rohan Das
 - [Gavin Lim](https://github.com/gavinslim)
 - [Khrinx](https://github.com/khrinx)
 - [Derek Zhang](https://github.com/fillorkill)
-Benzene
-[Khrinx](https://github.com/khrinx)
+- Benzene
+- [Khrinx](https://github.com/khrinx)
+- [Alan Nunes](https://github.com/AlanNunes)
 - [besong23](https://github.com/besong23)
 - [PANKAJ KU CHOUHAN](https://github.com/pankaj189)
 - [Rameez Raja](https://github.com/rameez57)
@@ -9139,7 +9140,7 @@ Benzene
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
-- [Arihant Bansal] (https://github.com/arihantbansal)
+- [Arihant Bansal] (https://github.com/arihantbansal) 
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
@@ -9160,4 +9161,3 @@ Benzene
 - [Umar](https://github.com/umxr)
 - [MasterLuV](https://github.com/nighttiger1990)
 - [LeDocteur](https://github.com/https://github.com/xLeDocteurx/)
-- [Alan Nunes](https://github.com/AlanNunes)
