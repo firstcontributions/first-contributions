@@ -6,4 +6,4 @@
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Kuhlale kunzima uma wenza okuthile okokuqala. Ikakhulukazi uma usebenza nabanye abantu, ngoba ukwenza amaphutha akujabulisi. Nokho, umqondo wesofthiwe evulekile kusekelwe ekubambisaneni. Sifuna ukufundisa abahleli abasha ukuthi balayishe kanjani ushintsho lwabo lokuqala kwiprojekthi yangaphandle.
