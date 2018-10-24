@@ -63,7 +63,8 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your own account.
+
 
 ## Clone the repository
 
