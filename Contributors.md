@@ -15,6 +15,7 @@
 - [mrjomp](https://github.com/mrjomp)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
+- [Nick Dean](https://github.com/klick5000)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
 - [naman](https://github.com/nbanati)
