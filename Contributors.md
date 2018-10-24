@@ -8939,6 +8939,7 @@ Rohan Das
 - [Bruno Silva](https://github.com/slauzinho)
 - [Matthew Williams](https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
+- [Faisal Malik](https://github.com/faisalmalik932)
 - [Hannah](https://github.com/hholzmann16)
 - [Edwin](https://github.com/nin-ed)
 - [Mars Xue](https://github.com/MarsXue)
