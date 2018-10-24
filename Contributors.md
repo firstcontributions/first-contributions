@@ -7836,6 +7836,7 @@ Rohan Das
 - [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
 - [Krzysztof Bogusz](https://github.com/krzysztofbogusz91)
 - [Matej Konrad](https://github.com/matejkonrad)
+- [Nacho](https://github.com/nachosh)
 - [Jaskaran Singh](https://github.com/jaskaransr93)
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
@@ -9152,4 +9153,4 @@ Benzene
 - [Groutch](https://github.com/groutch)
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
-- [Nacho](https://github.com/nachosh)
+- [MasterLuV](https://github.com/nighttiger1990)
