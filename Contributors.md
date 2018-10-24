@@ -1784,6 +1784,7 @@ Patrizia Trammell
 - [A.Lau](https://github.com/ALau2088)
 - [Valentine]()
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
+- [Oscar] (https://github.com/glasspinnA)
 - [Madhu Murthy](https://github.com/madhumurthy16)
 - [Rickard Lundberg](https://github.com/deerel)
 - [Miroslav Pillar](https://github.com/Dromediansk)
