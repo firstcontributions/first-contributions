@@ -6,7 +6,7 @@
 <h1 dir="rtl">
 <a id="user-content-اولین-مشارکت" class="anchor" href="#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>اولین مشارکت</h1>
 <p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
-<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ هدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
+<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ هدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی راحت‌تر (ریلکس تر) باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
   
 #### *Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), 
  [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Arabic](README.ar.md).*
@@ -56,13 +56,13 @@
 <a id="user-content-تغیرات-ضروری-رو-انجام-بده-و-کامیت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%A8%D8%AF%D9%87-%D9%88-%DA%A9%D8%A7%D9%85%DB%8C%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیرات ضروری رو انجام بده و کامیت کن</h2>
 <p dir="rtl">حالا فایل
 <code>Contributors.md</code>
-رو داخل تکست ایدتور باز کن و اسمت رو به آخر فایل اضافه ک. بعد فابل رو ذخیره کن. اگه حالا وارد پوشه پروژه بشی و دستور
+رو داخل تکست ایدتور باز کن و اسمت رو به آخر فایل اضافه کن. بعد فایل رو ذخیره کن. اگه حالا وارد پوشه پروژه بشی و دستور
 <code>git status</code>
-رو اجرا کنی. میبینی که تغیرات اونجاست. حالا اون تغیرات رو به برنچی که ساختی اضافه کن با استفاده از دستور
+رو اجرا کنی. میبینی که تغییراتت اونجا هست. حالا اون تغییرات رو به برنچی که ساختی اضافه کن با استفاده از دستور
 <code>git add</code></p>
 <pre><code>git add Contributors.md
 </code></pre>
-<p dir="rtl">حالا اون تغیرات با استفاده از دستور زیر کامیت کن
+<p dir="rtl">حالا اون تغییرات با استفاده از دستور زیر کامیت کن
 <code>git commit</code></p>
 <pre><code>git commit -m "Add &lt;your-name&gt; to Contributors list"
 </code></pre>
@@ -71,7 +71,7 @@
 رو با اسم خودت عوض کن</p>
 <h2 dir="rtl">
 <a id="user-content-تغیرات-رو-به-گیتهاب-پوش-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88-%D8%A8%D9%87-%DA%AF%DB%8C%D8%AA%D9%87%D8%A7%D8%A8-%D9%BE%D9%88%D8%B4-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیرات رو به گیتهاب پوش کن</h2>
-<p dir="rtl">با استفاده از دستور زیر تغیراتت رو به گیتهاب پوش کن
+<p dir="rtl">با استفاده از دستور زیر تغییراتت رو به گیتهاب پوش کن
 <code>git push</code></p>
 <pre><code>git push origin &lt;add-your-name&gt;
 </code></pre>
@@ -79,7 +79,7 @@
 <code>&lt;add-your-name&gt;</code>
 رو با اسم برنچی که ساخته بودی عوض کن</p>
 <h2 dir="rtl">
-<a id="user-content-تغیراتت-رو-برای-برسی-ثبت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA%D8%AA-%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D8%B3%DB%8C-%D8%AB%D8%A8%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیراتت رو برای برسی ثبت کن</h2>
+<a id="user-content-تغیراتت-رو-برای-برسی-ثبت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA%D8%AA-%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D8%B3%DB%8C-%D8%AB%D8%A8%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغییراتت رو برای بررسی ثبت کن</h2>
 <p dir="rtl">اگه بری داخل ریپوزیتوریت تو گیتهاب. میبینی که دکمه
 <code>Compare &amp; pull request</code>
 وجود داره . روش کلیک کن</p>
@@ -90,7 +90,7 @@
 زمانی که تغیرات ثبت شد یک ایمیل دریافت میکنی</p>
 <h2 dir="rtl">
 <a id="user-content-از-اینجا-کجا-برم-" class="anchor" href="#%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86%D8%AC%D8%A7-%DA%A9%D8%AC%D8%A7-%D8%A8%D8%B1%D9%85-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>از اینجا کجا برم ؟</h2>
-<p dir="rtl">مشارکتت جشن بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
+<p dir="rtl">مشارکتت جشن را بگیر و با دوستات و دنبال کننده هات به اشتراک بزار
 <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
 <p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
