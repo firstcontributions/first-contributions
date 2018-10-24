@@ -8722,6 +8722,7 @@ Benzene
 - [Bruno Silva](https://github.com/slauzinho)
 - [Matthew Williams](https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
+- [Faisal Malik](https://github.com/faisalmalik932)
 - [Hannah](https://github.com/hholzmann16)
 - [Edwin](https://github.com/nin-ed)
 - [James Bedwell](https://github.com/jamesrbedwell)
@@ -8924,5 +8925,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Faisal Malik](https://github.com/faisalmalik932)
 
