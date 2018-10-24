@@ -93,3 +93,15 @@ Yiya kwifolda enefolda yakho (uma ungasekho kakade):
 ```
 cd first-contributions
 ```
+
+Manje dala igatsha elisha ngokusebenzisa umyalo git checkout:
+
+```
+git checkout -b <add-igama lakho>
+```
+
+Ngokwesibonelo
+
+```
+git checkout -b engeza-adam-kowalski
+```
