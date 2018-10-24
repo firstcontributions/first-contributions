@@ -8793,3 +8793,4 @@ Benzene
 - [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
 - [Jonas Denardi](https://github.com/jonasrdenardi) 
 - [Andrei Luis] (https://github.com/AndreiLuis)
+- [Beatriz Miranda](https://github.com/BeaMtrix)
