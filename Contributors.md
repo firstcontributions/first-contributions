@@ -297,6 +297,7 @@
 - [Lydia Lane](https://github.com/LydiaLane)
 - [Rakesh Pavan](https://github.com/Rakeshpavan333)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
+- [Braxton Fair](https://github.com/taxborn)
 - [Kash D](https://github.com/AakashDadhich)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
