@@ -127,6 +127,7 @@ Arnel Forbes
   Madhavik Agarwa)
 - [Arseny Poga](https://github.com/arsenypoga)
 - [SH Shin](https://github.com/sshplendid)
+- [Makenzie Wells](https://github.com/AttackTheMak29)
 - [Jai Prakash](https://github.com/last-stand)
 - [Jon Taylor](https://github.com/jontaylor224)
 - Duwayne the rock Johnson
