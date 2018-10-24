@@ -8433,6 +8433,7 @@ Benzene
 - [Afif Hendrawan](https://github.com/hndr91)
 - [Naman Goel](https://github.com/namangoel05)
 - [RonLek](https://github.com/RonLek)
+- [Damian Wróblewski](https://github.com/WrobelWRB)
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
@@ -9106,4 +9107,3 @@ Benzene
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
 - [Xavier Palomo] (https://github.com/xpalomoteruel)
 - [Alesandro Fidelis](https://github.com/AlesandroF)
-- [Damian Wróblewski](https://github.com/WrobelWRB)
