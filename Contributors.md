@@ -9117,6 +9117,7 @@ Rohan Das
 - [cuzz1](https://github.com/cuzz1)
 - [LucidComplex](https://github.com/LucidComplex)
 - [Poomchaio] (https://github.com/poomchaio)
+- [Ghatage](https://github.com/Ghatage)
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
