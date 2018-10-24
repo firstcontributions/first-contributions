@@ -75,7 +75,7 @@ Open a terminal program such as Git CMD and enter the following text, using the 
 ```
 git clone url_you_just_copied
 ```
-where 'url_you_just_copied' is the url to your forked version of this repository. See the previous steps to obtain the url.
+where `url_you_just_copied` is the url to your forked version of this repository. See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -83,7 +83,7 @@ For example:
 ```
 git clone https://github.com/this_is_you/first-contributions.git
 ```
-The copied url will contain your GitHub username at `this_is_you`. This step copies the contents of your forked repository first-contributions to your computer. For PC, this will likely make a folder in the C:\Users\your_computer_user_name folder. 
+The copied url will contain your GitHub username at `this_is_you`. This step copies the contents of your forked repository `first-contributions` to your computer. For PC, this will likely make a folder in the `C:\Users\your_computer_user_name folder` 
 
 ## Create a branch
 
@@ -94,23 +94,24 @@ cd first-contributions
 
 With a PC, it will look like:
 ```
-C:\Users\your_computer_user_name folder\first-contributions>
+C:\Users\your_computer_user_name\first-contributions>
 ```
 
-Create a branch by typing and entering:
+Create a branch (-b) and name it by typing and entering:
 ```
 git checkout -b add-your-new-branch-name
 ```
 
-Replace your-new-branch-name with a good title for what you are doing with that branch. For example, we want to add the name Alonzo Church, so we will call it:
+Replace add-your-new-branch-name with a good title for what you are doing with that branch. For example, we want to add the name Alonzo Church, so we will call it:
 ```
 git checkout -b add-alonzo-church
 ```
-The name of the branch does not need the word *add* in it, but since this tutorial's end result is to add your name to a list, it makes sense to name it like this.
+The name of the branch does not need the word *add* in it, but since this tutorial's end result is to add your name to a list, it makes sense to name it so.
 
 ## Make necessary changes and commit those changes
 
-Navigate to your local repository. For PC, you will likely find it here: C:\Users\your_computer_user_name folder\first-contributions>. Use a text editor to open the file called `Contributors.md`. Add your name to it. Put your name in a similar format anywhere inbetween the beginning and the end, but not *at* the beginning or end of the file. Save the file.
+Navigate to your local repository. For PC, you will likely find it here: `C:\Users\your_computer_user_name\first-contributions`. Use a text editor to open the file called `Contributors.md`. Add your name to it. Put your name in a similar format anywhere inbetween the beginning and the end, but not *at* the beginning *or* end of the file. 
+Save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
@@ -128,17 +129,17 @@ To add the changes to the branch you just created, type and enter:
 git add Contributors.md
 ```
 
-We are specifically adding only the Contributors.md file here. If you had multiple files you can use the short cut of 'git add.' 
+We are specifically adding only the Contributors.md file here. If you had multiple files you can use the shortcut of `git add .` 
 
-Like a good coder, when you commit changes, you add the reason for the changes, so commit with a message (-m):
+Like a good programmer, when you commit changes, you add the reason for the changes. So we will commit with a message (-m):
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "Add your_name to Contributors list"
 ```
-replacing 'your-name` with your actual name.
+replacing `your_name` with your actual name.
 
 ## Push changes to GitHub
 
-Remember before, when you created a branch? Copy the name of the branch into your clipboard so we can use it in the next step. To push your changes to your copy of the online repository, use 'git push' and paste in your branch name like below:
+Remember before, when you created a branch? Copy the name of the branch into your clipboard so we can use it in the next step. To push your changes to your copy of the online repository, use `git push` and paste in your branch name like follows:
 ```
 git push origin add-your-branch-name
 ```
@@ -150,19 +151,19 @@ Go to your repository on GitHub and now you will see an alert bar with a  `Compa
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Normally you would add a better description in the "Write" section, but for this project you can leave it blank. Click the green button to Create the pull request.
+Normally you would add description in the "Write" section, explaining what you did, but for this project you can leave it blank. Click the green button to `Create pull request`.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging any of your changes into the master branch of this project. You will get a notification email once the changes have been merged. Please let me know your thoughts on the process! 
+Soon I'll be merging any of your changes into the master branch of this project. You will get a notification email once the changes have been merged. I'd love to hear your thoughts on the process! 
 
 ## Where to go from here?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> Pull Request_ workflow that you'll encounter often as a contributor! If you liked this project, give it a start so other new contributors can find it easier. 
+Congrats!  You just completed the standard _fork -> clone -> edit -> Pull Request_ workflow that you'll encounter often as a contributor! If you liked this project, give it a star so other new contributors can find it easier. 
 
 Celebrate your contribution and share it with your friends and followers by going to our [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+If you need any help or have any questions, you could join our slack team: [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
