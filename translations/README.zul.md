@@ -11,8 +11,9 @@ Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubam
 
 Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
 
+#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.]( #tutorials-using-other-tools )*
 
-#### *Funda ngezinye izilimi:  [other languages](translations/Translations.md).*
+#### *Funda lokhu  [kwezinye izilimi.](translations/Translations.md).*
 
 [🇮🇳](translations/README.hi.md)
 [🇲🇲](translations/README.mm_unicode.md)
@@ -59,9 +60,9 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 
-Uma ungenalo Git kukhompyutha yakho, [uyifake]( https://help.github.com/articles/set-up-git/).
+Uma ungenayo i-git kumshini wakho, [faka]( https://help.github.com/articles/set-up-git/).
 
-## Dala i-fork repository
+## Fometha le ndawo yokugcina
 
 Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli khasi. Uzokwakha ikhophi yale nqolobane ku-akhawunti yakho.
 
