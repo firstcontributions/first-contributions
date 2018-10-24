@@ -162,3 +162,8 @@ Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo 
 Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo noma unemibuzo. [Joyina ithimba le-slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://roshanjossey.github.io/first-contributions/#project-list).
+
+### [Izinto ezengeziwe](additional-material/git_workflow_scenarios/additional-material.md)
+
+
+## Tutorials Using Other Tools
