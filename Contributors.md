@@ -86,6 +86,7 @@ Ben
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
+- [Vipul Chodankar](https://github.com/whiplash7)
 - [Mayank Kanoria](https://github.com/mkanoria)
 - [MC_Leut](https://github.com/MCLeut)
 - [milindchawre](https://github.com/milindchawre)
