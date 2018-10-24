@@ -30,7 +30,6 @@
 - [antonyjm462](https://github.com/antonyjm462)
 - [Chromium](https://github.com/CrCs2O4)
 - [Erneani](https://github.com/erneani)
-- [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
 - [Aslam](https://github.com/Hotdogcode)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
@@ -9163,3 +9162,4 @@ Benzene
 - [Umar](https://github.com/umxr)
 - [MasterLuV](https://github.com/nighttiger1990)
 - [LeDocteur](https://github.com/https://github.com/xLeDocteurx/)
+- [Adnan Fajlur Rohman](https://github.com/adnanfajlur)
