@@ -411,6 +411,7 @@ Patrizia Trammell
 - [Amaan Kulshreshtha](https://github.com/AmaanKulshreshtha)
 - [Yug Shah] (https://github.com/Yug-Shah)
 - [AnnChar](https://github.com/annchar)
+- [Dusty Werner](https://github.com/wernerd46)
 - [Sara](https://github.com/SaraBon)
 - [Vinod Borse](https://github.com/vinodborse)
 - [David Adegoke](https://github.com/dhaveed)
