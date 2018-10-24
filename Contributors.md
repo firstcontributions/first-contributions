@@ -7940,6 +7940,7 @@ Rohan Das
 - [Usman Rafi](https://github.com/usmanrafi)
 - [Penny Pan](https://github.com/pennypchy)
 - [shabari jonnalagadda](https://github.com/shabari004)
+- [Ananda Aguiar](https://github.com/anandagaguiar)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Kwabena Boohene](https://github.com/KBoohene)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
