@@ -790,6 +790,7 @@ hactober 2018 is a big event
 - [Gowri Rajasekaran](https://github.com/gowrimanoharir)
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
+hacktober is a tech fest
 - [Sonic45132](https://github.com/sonic45132)
 - [Drew Bragg](https://github.com/drbragg)
 - [Pooja Sethia](https://github.com/poojasethia)
@@ -1580,6 +1581,7 @@ github is a software
 - [David Bowes](https://github.com/iloveket)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
 - [Barkshire Purringtonn](https://github.com/barkshire)
+
 - [Beatrice Olivera](https://github.com/beatriceo)
 - [Boris Yordanov](https://github.com/borisyordanov)
 - [Marina Dargitz](https://github.com/mdargitz)
