@@ -4,12 +4,12 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Iminikelo yokuqala
+# Iminikelo Yokuqala
 
-Kuhlale kunzima uma wenza okuthile okokuqala. Ikakhulukazi uma usebenza nabanye abantu, ngoba ukwenza amaphutha akujabulisi. Nokho, umqondo wesofthiwe evulekile kusekelwe ekubambisaneni. Sifuna ukufundisa abahleli abasha ukuthi balayishe kanjani ushintsho lwabo lokuqala kwiprojekthi yangaphandle.
 
-Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa ingabe kukhona okungcono kunokuba uzame okuthile ngokwakho ngaphandle kokukhathazeka ngokuthi kukhona okungahambi kahle? Le phrojekthi ihlose ukunikeza isiqondiso kuma-novice nokwenza kube lula inqubo yokulayisha ushintsho lokuqala. Khumbula: ukukhululeka ngokwengeziwe, kungcono ukuthi ufunde. Uma ufuna ukulayisha umnikelo wakho wokuqala, landela lezi zinyathelo ezilula ngezansi. Kuyoba mnandi, sithembisa.
+Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubambisana, ukwenza amaphutha akuyona into ekhululekile. Sifuna ukwenza lula ukuthi abanikeli abasha abavulekile bafunde futhi bahlanganyele okokuqala.
 
+Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
 
 
 #### *Funda ngezinye izilimi:  [other languages](translations/Translations.md).*
