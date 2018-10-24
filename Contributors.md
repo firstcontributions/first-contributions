@@ -403,6 +403,7 @@ Patrizia Trammell
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
+- [Suraj Setty](https://github.com/surajsetty97)
 - [Ashwin Kain](https://github.com/Ashwin-Kapes)
 - [André Decher](https://github.com/Wolfy7)
 - [YamitSi](https://github.com/yamitsi)
