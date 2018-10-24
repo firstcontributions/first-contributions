@@ -163,6 +163,7 @@ aalbusoiu
 - [Darren Lim] (https://github.com/dlim28)
 - [macktober](https://github.com/macktober)
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
+- [Adam Murray] (https://github.com/Murraymint1804)
 - [iamtodor] (https://github.com/iamtodor)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
