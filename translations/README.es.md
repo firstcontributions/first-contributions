@@ -7,7 +7,7 @@
 
 Es complicado. Resulta difícil la primera vez que haces algo, principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
+Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
 #### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutoriales-con-otras-herramientas )*.
 
@@ -95,9 +95,9 @@ Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Ha
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="crea una pull request" />
 
-Ahora envía la *pull request*.
+Ahora envía el *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="enviar la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="enviar el pull request" />
 
 Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
@@ -105,7 +105,7 @@ Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de e
 
 ¡Enhorabuena! ¡Has completado el flujo de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
 
-Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebra tu contribución con tus amigos y seguidores compartiendo en [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
@@ -121,10 +121,10 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
 
-## Auto promoción
+## Autopromoción
 
 Si te gustó este proyecto, márcalo como favorito con una estrella en [GitHub](https://github.com/Roshanjossey/first-contributions).
-Si te sientes agradecido, sigue a [Roshan](https://roshanjossey.github.io/) en
+Si te sientes especialmente agradecido, sigue a [Roshan](https://roshanjossey.github.io/) en
 [Twitter](https://twitter.com/sudo__bangbang) y
 [GitHub](https://github.com/roshanjossey).
 
