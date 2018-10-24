@@ -9171,6 +9171,7 @@ Rohan Das
 - [Nair Rohit](https://github.com/innovative-roh)
 - [Dundis] ()
 - [Atem]()
+- [Ahmed Chaari](https://github.com/Omnicouleur)
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
 - [Julle Juliusson](https://github.com/Ret3x)
