@@ -49,7 +49,9 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
+[🇨🇿](README.cs.md)
 [<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[🇲🇽](README.mx.md)
 
 
 

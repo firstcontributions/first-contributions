@@ -23,6 +23,11 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 18. [Another Interactive tutorial for git](https://learngitbranching.js.org/)
 19. [Git commandline cheat-sheet](https://gist.github.com/davfre/8313299)
 20. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
+21. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
+21. [Medium article about git commands for everyday use ](https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d)
 
 Keep adding more links, that you find helpful.
 20. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+21. Use Gitter  
+It is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
+https://gitter.im/
