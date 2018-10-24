@@ -152,3 +152,5 @@ Manje thumela isicelo sokudonsa.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Ngokushesha ngizohlanganisa zonke izinguquko zakho zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
+
+## Ungaphi lapho?
