@@ -8591,6 +8591,7 @@ Rohan Das
 - [Kari Merikanto](https://github.com/karimerikanto)
 - [Edwin Harly](https://github.com/edwinharly)
 - [James Zhong](https://github.com/thebitspud)
+- [Vanoux](https://github.com/Vanoux)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Hassani King Senior](https://github.com/HKSenior)
