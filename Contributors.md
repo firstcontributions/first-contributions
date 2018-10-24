@@ -1,4 +1,3 @@
-
 # Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -402,6 +401,7 @@ Patrizia Trammell
 - [Erick Martinez](https://github.com/ErickMtz)
 - [AK White](https://github.com/akwhite)
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
+- JOON JANG
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [Suraj Setty](https://github.com/surajsetty97)
