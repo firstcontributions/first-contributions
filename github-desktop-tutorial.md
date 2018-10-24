@@ -31,6 +31,7 @@ Now clone this repo to your machine.
 IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it. 
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
+or write command in git bash git clone (link of the file).
 
 <img style="left;" src="assets/dt1-clonetodesktop.png" alt="clone this repository" />
 
