@@ -64,7 +64,7 @@ Uma ungenayo i-git kumshini wakho, [faka]( https://help.github.com/articles/set-
 
 ## Fometha le ndawo yokugcina
 
-Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli khasi. Uzokwakha ikhophi yale nqolobane ku-akhawunti yakho.
+Fometha le repo ngokuchofoza inkinobho yemfoloko phezulu kwaleli khasi. Lokhu kuzokhipha ikhophi yalesi sikhwama ku-akhawunti yakho.
 
 ## Qalisa i-repository
 
