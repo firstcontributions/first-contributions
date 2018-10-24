@@ -4,6 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# Iminikelo yokuqala
 
 Kuhlale kunzima uma wenza okuthile okokuqala. Ikakhulukazi uma usebenza nabanye abantu, ngoba ukwenza amaphutha akujabulisi. Nokho, umqondo wesofthiwe evulekile kusekelwe ekubambisaneni. Sifuna ukufundisa abahleli abasha ukuthi balayishe kanjani ushintsho lwabo lokuqala kwiprojekthi yangaphandle.
+
