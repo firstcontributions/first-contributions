@@ -1,0 +1,4 @@
+basics of pig latin..
+If any words starts with a vowel add 'ay' at the end of it.
+If words does not starts with a vowel ,put first letter at the end than add'ay'.
+it can be used for various strings problems..
