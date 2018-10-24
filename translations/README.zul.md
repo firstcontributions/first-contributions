@@ -62,3 +62,7 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa ingabe kukhona okungcon
 Uma ungenalo Git kukhompyutha yakho, [uyifake]( https://help.github.com/articles/set-up-git/).
 
 ## Dala i-fork repository
+
+Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli khasi. Uzokwakha ikhophi yale nqolobane ku-akhawunti yakho.
+
+## Clone the repository
