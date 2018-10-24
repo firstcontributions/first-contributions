@@ -142,3 +142,7 @@ git push origin <add-your-branch-name>
 kufaka esikhundleni `<add-your-branch-name>` segama legatsha owadala ngaphambilini.
 
 ## Thumela izinguquko zakho ukuze zibuyekezwe
+
+Uma uya endaweni yakho yokugcina ku-GitHub, uzobona  `Compare & pull request` inkinobho. Chofoza kuleyo nkinobho.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
