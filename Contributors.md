@@ -8608,6 +8608,7 @@ Benzene
 - Leos
 - [Nuno Laranjo](https://github.com/omnee)
 -[Carcraftz](https://github.com/Carcraftz)
+- [Roy Tang](https://github.com/roytang)
 -[DaveRoox](https://github.com/DaveRoox)
 -[Mohammed Abul Shoeb](https://github.com/alshoeb)
 -[Kolomu](https://github.com/kolomu)
@@ -8925,5 +8926,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Roy Tang](https://github.com/roytang)
 
