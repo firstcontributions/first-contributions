@@ -14,6 +14,7 @@
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [madza](https://github.com/madarsbiss)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [ChristopherCarr](https://github.com/christocarr)
