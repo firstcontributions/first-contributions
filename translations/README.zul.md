@@ -72,3 +72,14 @@ Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli kh
 Manje faka i-repository kwikhompyutha yakho. Chofoza inkinobho ye "clone" bese ukopisha ebhodini lokunamathisela esithombeni .
 
 Vula i-console bese ugijima umyalo we-git:
+
+```
+git clone "url you just copied"
+```
+Lapho "ikheli lokukopisha elinamathiselwe" (ngaphandle kwamacaphuno) likheli leli phepha. Bona isinyathelo sangaphambilini ukukopisha ikheli.
+
+Ngokwesibonelo:
+
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
