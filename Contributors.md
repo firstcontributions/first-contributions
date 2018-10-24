@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -20,6 +20,7 @@
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [mrjomp](https://github.com/mrjomp)
+- [JanellAmely](https://github.com/3CatMax)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
@@ -34,6 +35,7 @@
 - [Erneani](https://github.com/erneani)
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
+- [Aashita Arora](https://github.com/aashitaarora)
 - [Aslam](https://github.com/Hotdogcode)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [strobelt](https://github.com/strobelt)
@@ -75,6 +77,7 @@ Alvin
 - [Manas Khurana](https://github.com/20manas)
 JOON JANG JOON JANG
 - [Jeet Maity] (https://github.com/jeet-maity)
+-Siddharth Gusain(https://github.com/siddharth-gusain)
 Ben
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
@@ -98,6 +101,7 @@ Ben
 apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
+- [Mancee](https://github.com/mancee)
 - [Roshith R](https://github.com/Roshith93)
 - [Steve Torrence](https://github.com/storrence88)
 - [FloridaMan](https://github.com/floridaman)
@@ -160,6 +164,7 @@ aalbusoiu
 - [Darren Lim] (https://github.com/dlim28)
 - [macktober](https://github.com/macktober)
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
+- [Adam Murray] (https://github.com/Murraymint1804)
 - [iamtodor] (https://github.com/iamtodor)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
@@ -9202,3 +9207,7 @@ Rohan Das
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
 - [Jose Garcia](https://github.com/josepplloo)
+- [Nadheera](https://github.com/Nadheera)
+- [Pasan Yasara](https://github.com/pasanyasara)
+- [Jeojhx](https://github.com/jeojhx)
+- [Shailesp](https://github.com/shailesp)
