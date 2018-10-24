@@ -663,6 +663,7 @@ Patrizia Trammell
 - [NonoK32](https://github.com/NonoK32)
 - [Joseph Chungath](https://github.com/crjoseph97)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
+- [Paweł Matejko](https://github.com/pmatejko)
 - [Cameron Brill](https://github.com/gaiscioch)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
 - [Jose Pauig](https://github.com/joeboom)
