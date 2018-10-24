@@ -23,6 +23,7 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 18. [Another Interactive tutorial for git](https://learngitbranching.js.org/)
 19. [Git commandline cheat-sheet](https://gist.github.com/davfre/8313299)
 20. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
+21. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 
 Keep adding more links, that you find helpful.
 20. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
