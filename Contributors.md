@@ -8465,6 +8465,7 @@ Benzene
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
+- [Dan Barr](https://github.com/bandarr)
 - [Vignesh B.S](https://github.com/vignesh1999)
 - [Adones Reballos](https://github.com/dondonai)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
