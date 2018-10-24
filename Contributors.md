@@ -7,6 +7,7 @@
 - [SteveMarshall](https://github.com/marshast)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [DanielBiegler](https://github.com/danielbiegler)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
