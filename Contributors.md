@@ -55,6 +55,7 @@ Alvin
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
+- [Maaruf Dauda](https://github.com/emkayDauda)
 - [Bernard Yap](https://github.com/bernisaur)
 - [Sergiy Dybskiy](https://github.com/416serg)
 - [Vinayak S](https://github.com/VinayakSuresh1997)
