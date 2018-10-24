@@ -9203,6 +9203,7 @@ Rohan Das
 - [Buse Genç](https://github.com/busegenc)
 - [Felipe Putsch](https://github.com/flpputsch)
 - [Nair Rohit](https://github.com/innovative-roh)
+- [Jack Chapman](https://github.com/jack-chapman)
 - [Dundis] ()
 - [Atem]()
 - [Ahmed Chaari](https://github.com/Omnicouleur)
