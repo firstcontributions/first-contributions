@@ -16,6 +16,7 @@
 - [blank15](https://github.com/blank15)
 - [madza](https://github.com/madarsbiss)
 - [DanielBiegler](https://github.com/danielbiegler)
+- [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
