@@ -29,6 +29,7 @@
 - [prashansanb](https://github.com/prashansanb)
 - [antonyjm462](https://github.com/antonyjm462)
 - [Chromium](https://github.com/CrCs2O4)
+- [Erneani](https://github.com/erneani)
 - [Summit Suen](https://github.com/suensummit)
 - [Aslam](https://github.com/Hotdogcode)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
