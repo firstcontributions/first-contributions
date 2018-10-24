@@ -8408,6 +8408,7 @@ Benzene
 - [David Marques](https://github.com/davidmoura07)
 - [Dan Young](https://github.com/ytmnd)
 - [Rahul Tiwari](https://github.com/GrootKo)
+- [Gustavo Brandão](https://github.com/Brand00wn)
 - [Patricia](https://github.com/patriciacorhid)
 - [Matheus Barbosa](https://github.com/MatheusRBarbosa)
 - [Trill Cosby](https://github.com/trillcosby)
