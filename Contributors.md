@@ -7674,6 +7674,7 @@ Rohan Das
 - [Bazyli Kot](https://github.com/gitBKrp)
 - [Lehone](https://github.com/lehone-hp)
 - [Lucas Martins](https://github.com/impostor1001)
+- [Laysa Arielly](https://github.com/laysarielly)
 - [Mocanu Gabriel](https://github.com/gabrielmocanu)
 - [Alistair Amick](https://github.com/AlistairAmick)
 - [Lee Roberts](https://github.com/leejroberts)
