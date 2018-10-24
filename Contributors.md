@@ -8838,6 +8838,7 @@ Rohan Das
 - [Janson Chew](https://github.com/haichew)
 - [Het Patel](https://github.com/hetp111)
 - [Mehdi Druon](https://github.com/MehdiDr)
+- [Marina D](https://github.com/purple-giraffey)
 - [Kristian Roebuck](https://github.com/roebuk)
 - [NalinLuthra](https://github.com/NalinLuthra)
 - [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
