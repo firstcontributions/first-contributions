@@ -8904,6 +8904,7 @@ Rohan Das
 - [Vargan Christian Donne](https://github.com/Hansum)
 - [Jordan Christie](https://github.com/jordanchristie)
 - [Roman Leshchuk](https://github.com/Leroy1962)
+- [Aaron Alarie](https://github.com/iozy11`)
 - [Krishnanunni R](https://github.com/krishnanunnir)
 - [Phil Ramirez](https://github.com/7IHd)
 - [keRLos](https://github.com/kerlos)
