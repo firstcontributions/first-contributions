@@ -79,6 +79,7 @@ Ben
 - [Alex Oladele](https://github.com/dragid10)
 apleht
 - [Tim Austin](https://github.com/neenjaw)
+- [Daman Tekchandani](https://github.com/daman98)
 - [Roshith R](https://github.com/Roshith93)
 - [Steve Torrence](https://github.com/storrence88)
 - [FloridaMan](https://github.com/floridaman)
