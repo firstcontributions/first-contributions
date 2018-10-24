@@ -68,6 +68,7 @@ Alvin
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 JOON JANG JOON JANG
+- [Jeet Maity] (https://github.com/jeet-maity)
 Ben
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
