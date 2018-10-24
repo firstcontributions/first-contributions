@@ -128,3 +128,5 @@ Manje yenza lezo zinguquko usebenzisa `git commit` umyalo:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+
+ukufaka esikhundleni `<your-name>` ngegama lakho.
