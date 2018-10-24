@@ -130,3 +130,5 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 
 ukufaka esikhundleni `<your-name>` ngegama lakho.
+
+## Shintsha izinguquko ku-GitHub
