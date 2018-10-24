@@ -8705,6 +8705,7 @@ Rohan Das
 - [Amy Nott](https://github.com/majorkira)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
 - [Jon Tonti](https://github.com/jtontiwith)
+- [Ajmal hassan](https://github.com/Ajmal-hassan)
 - [Mouffy](https://github.com/mcampourcy)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
