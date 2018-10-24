@@ -12,6 +12,7 @@
 - [SteveMarshall](https://github.com/marshast)
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
+- [Harsh Khajuria](https://github.com/horcrux2301)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [madza](https://github.com/madarsbiss)
