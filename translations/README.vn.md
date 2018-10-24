@@ -61,12 +61,12 @@ git checkout -b them-Tran-Ly-Vu
 
 ## Thực hiện những thay đổi cần thiết và chấp nhận những thay đổi này
 
-Bây giờ mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
+Bây giờ hãy mở tập tin `Contributors.md` trong một trình soạn thảo văn bản và thêm tên của mình vào nó, sau đó lưu tập tin. Nếu bạn đi đến thư mục dự án và nhập lệnh `git status`, bạn sẽ thấy có những thay đổi. Thêm những thay đổi bằng cách nhập dòng lệnh dưới đây 'git add`.
 ```
 git add Contributors.md
 ```
 
-Bây giờ chấp nhận những thay đổi bằng cách sử dụng dòng lệnh 'git commit` dưới đây.
+Sau đó chấp nhận những thay đổi bằng cách sử dụng dòng lệnh 'git commit` dưới đây.
 ```
 git commit -m "Them <ten-ban> vào danh sách Cộng tác viên"
 ```
