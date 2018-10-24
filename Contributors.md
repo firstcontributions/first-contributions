@@ -8619,6 +8619,7 @@ Benzene
 - [Raghav Jain](https://github.com/jain-raghav)
 - [Pasha Pylypchuk](https://github.com/PashaUA)
 - [Sarsiz Chauhan](https://github.com/sarsiz)
+- [Fatih Gülakar](https://github.com/Neosar)
 - [Idruk](https://github.com/Idruk)
 - [Ibrahim Hasan](https://github.com/hima-Megahed)
 - [Edgar Cuarezma](https://github.com/ecuarezma)
@@ -9011,4 +9012,3 @@ Joon Jang
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
 - [M. Mursaleen](https://github.com/mmursaleen)
-- [Fatih Gülakar](https://github.com/Neosar)
