@@ -8731,6 +8731,7 @@ Rohan Das
 - [Gino89](https://github.com/Gino89)
 - [nicht](https://github.com/nicht)
 - [Rudy W](https://github.com/nerdijoe)
+- [Annas Amer](https://github.com/annasamer3)
 - [RRadhakrishnan Ramasamy](https://github.com/radhakri555)
 - [Sid Pagariya](https://github.com/sidpagariya)
 - [Rajekevin](https://github.com/Rajekevin)
