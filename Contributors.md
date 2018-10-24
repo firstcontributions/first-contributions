@@ -8890,6 +8890,7 @@ Benzene
 - [Roi Ben Shaul](https://github.com/rughciatuk)
 - [Pratish Katiyar](https://github.com/pratishk28)
 - [Riablo](https://github.com/Riablo)
+- [Kimi Leta Ward](https://github.com/kimileta)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Dzung Le](https://github.com/dzunglt24)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
@@ -8970,4 +8971,4 @@ Benzene
 - [Matt Clinton](https://github.com/clnt)
 Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
-- [Kimi Leta Ward](https://github.com/kimileta)
+
