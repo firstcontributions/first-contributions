@@ -8787,3 +8787,8 @@ Benzene
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Manoela Reis](https://github.com/manoela-reis)
+- [Danilo 09](https://github.com/danilo09)
+- [Vinicio Santos](https://github.com/VinicioSantos)
+- [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
+- [Jonas Denardi](https://github.com/jonasrdenardi) 
+- [Andrei Luis] (https://github.com/AndreiLuis)
