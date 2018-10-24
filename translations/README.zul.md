@@ -60,3 +60,5 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa ingabe kukhona okungcon
 
 
 Uma ungenalo Git kukhompyutha yakho, [uyifake]( https://help.github.com/articles/set-up-git/).
+
+## Dala i-fork repository
