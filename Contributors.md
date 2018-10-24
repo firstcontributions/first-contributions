@@ -8795,6 +8795,7 @@ Benzene
 - [Chiffonsigh](https://github.com/chiffonsigh)
 - [Jakub Goleń](https://github.com/SINEdowskY)
 - [Jonathan Markman](https://github.com/jmarkman)
+- [André Leitzke](https://github.com/leitzkeandre)
 - [Jonathan Goleń](https://github.com/HrTran12)
 - [Angie](https://github.com/AngieAngelica
 - [Xander Grzywinski](https://github.com/salaxander)
@@ -8970,4 +8971,4 @@ Benzene
 - [Matt Clinton](https://github.com/clnt)
 Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
-- [André Leitzke](https://github.com/leitzkeandre)
+
