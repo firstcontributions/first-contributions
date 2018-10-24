@@ -17,6 +17,7 @@
 - [blank15](https://github.com/blank15)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [madza](https://github.com/madarsbiss)
+- [PranjalGupta2199](https://github.com/PranjalGupta2199) 
 - [DanielBiegler](https://github.com/danielbiegler)
 - [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
