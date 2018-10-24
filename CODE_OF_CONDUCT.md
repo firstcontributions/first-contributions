@@ -13,6 +13,7 @@ orientation.
 
 Examples of behavior that contributes to creating a positive environment
 include:
+tech fest are great
 
 *   Using welcoming and inclusive language.
 *   Being respectful of differing viewpoints and experiences.
