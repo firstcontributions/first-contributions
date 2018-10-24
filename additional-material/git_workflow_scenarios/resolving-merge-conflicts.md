@@ -10,7 +10,7 @@ When faced with a merge conflict, git will mark the problematic area in the file
 The contents after the first marker originate from your current working branch. After the angle brackets, Git tells us where (from which branch) the changes came from. A line with "=======" separates the two conflicting changes.
 Our job is now to clean up these lines: when we're done, the file should look exactly as we want it to look. It can be necessary to consult the teammate who wrote the conflicting changes to decide which code is finally correct. Maybe it's yours, maybe it's his - or maybe a mixture between the two.
 
-eg:
+e.g. :
 ```
  <<<<<<< HEAD:mergetest
  This is my third line
