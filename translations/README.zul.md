@@ -132,3 +132,13 @@ git commit -m "Add <your-name> to Contributors list"
 ukufaka esikhundleni `<your-name>` ngegama lakho.
 
 ## Shintsha izinguquko ku-GitHub
+
+Pushisa izinguquko zakho usebenzisa umyalo `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+kufaka esikhundleni `<add-your-branch-name>` segama legatsha owadala ngaphambilini.
+
+## Thumela izinguquko zakho ukuze zibuyekezwe
