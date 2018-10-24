@@ -141,7 +141,7 @@ aalbusoiu
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
-- [Samira Elhami] (https://github.com/SamiraElhami) 
+- [Samira Elhami] (https://github.com/SamiraElhami)
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk
 -gagan kumar)
@@ -9139,7 +9139,7 @@ Benzene
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
-- [Arihant Bansal] (https://github.com/arihantbansal) 
+- [Arihant Bansal] (https://github.com/arihantbansal)
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
@@ -9160,3 +9160,4 @@ Benzene
 - [Umar](https://github.com/umxr)
 - [MasterLuV](https://github.com/nighttiger1990)
 - [LeDocteur](https://github.com/https://github.com/xLeDocteurx/)
+- [Alan Nunes](https://github.com/AlanNunes)
