@@ -68,3 +68,7 @@ Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli kh
 ## Qalisa i-repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+Manje faka i-repository kwikhompyutha yakho. Chofoza inkinobho ye "clone" bese ukopisha ebhodini lokunamathisela esithombeni .
+
+Vula i-console bese ugijima umyalo we-git:
