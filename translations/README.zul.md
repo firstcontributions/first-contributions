@@ -8,3 +8,4 @@
 
 Kuhlale kunzima uma wenza okuthile okokuqala. Ikakhulukazi uma usebenza nabanye abantu, ngoba ukwenza amaphutha akujabulisi. Nokho, umqondo wesofthiwe evulekile kusekelwe ekubambisaneni. Sifuna ukufundisa abahleli abasha ukuthi balayishe kanjani ushintsho lwabo lokuqala kwiprojekthi yangaphandle.
 
+Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa ingabe kukhona okungcono kunokuba uzame okuthile ngokwakho ngaphandle kokukhathazeka ngokuthi kukhona okungahambi kahle? Le phrojekthi ihlose ukunikeza isiqondiso kuma-novice nokwenza kube lula inqubo yokulayisha ushintsho lokuqala. Khumbula: ukukhululeka ngokwengeziwe, kungcono ukuthi ufunde. Uma ufuna ukulayisha umnikelo wakho wokuqala, landela lezi zinyathelo ezilula ngezansi. Kuyoba mnandi, sithembisa.
