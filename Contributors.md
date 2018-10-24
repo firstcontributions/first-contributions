@@ -25,6 +25,7 @@
 - [kananthav](https://github.com/kananthav)
 - [naman](https://github.com/nbanati)
 - [Caique](https://github.com/caiqueff)
+- [Bharath M](https://github.com/bharathtwisted)
 - [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
 - [antonyjm462](https://github.com/antonyjm462)
