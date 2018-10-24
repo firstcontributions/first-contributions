@@ -277,9 +277,9 @@ Edison Shek
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
-- [Satyam Uttam]
 - [Krzysztof Radomski] (https://github.com/krzysztofradomski)
 - [Jose Hernandez](https://github.com/JHernandez99)
+- [Satyam Uttam]
 - [Matt Ackard](https://github.com/mattackard)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Marco Diaz] (https://github.com/Marco1969theKnight)
@@ -9144,4 +9144,5 @@ Benzene
 - [Amornthep.Th](https://github.com/bkkkjst)
 - [PDVega](https://github.com/PDVega/)
 - [Shan muhammad] (https://github.com/shanmuhammad786)
-- [Narayanan Elavathur Ranganatha](https://github.com/naruarjun)
+- [Narayanan Elavathur Ranganatha](https://github.com/naruarjun
+Arnold Marcus
