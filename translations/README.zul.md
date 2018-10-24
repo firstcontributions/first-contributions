@@ -70,14 +70,14 @@ Fometha le repo ngokuchofoza inkinobho yemfoloko phezulu kwaleli khasi. Lokhu ku
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Manje faka i-repository kwikhompyutha yakho. Chofoza inkinobho ye "clone" bese ukopisha ebhodini lokunamathisela esithombeni .
+Manje faka i-repo efakwe emshini wakho kumshini wakho. Yiya ku-akhawunti yakho ye-GitHub, vula i-repo evuliwe, chofoza inkinobho ye-clone bese uchofoza ikhophi ku-clipboard icon.
 
 Vula i-console bese ugijima umyalo we-git:
 
 ```
 git clone "url you just copied"
 ```
-Lapho "ikheli lokukopisha elinamathiselwe" (ngaphandle kwamacaphuno) likheli leli phepha. Bona isinyathelo sangaphambilini ukukopisha ikheli.
+lapho "u-url osuvele ukopishe khona" (ngaphandle kwama-quote marks) yi-url kule ndawo yokugcina (ifomu lakho lephrojekthi). Bona izinyathelo zangaphambilini ukuthola i-url.
 
 Ngokwesibonelo:
 
@@ -85,7 +85,7 @@ Ngokwesibonelo:
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-Endaweni 'ye-to-you' ukungena kwakho ku-github. Kulesi sinyathelo, ulanda okuqukethwe kwekhophi yakho yokugcina imali evela ku-gache kukhompyutha yakho.
+iphi this-is-youigama lomsebenzisi lakho le-GitHub. Lapha ukopisha okuqukethwe kokulondoloza kokuqala ku-GitHub kwikhompyutha yakho.
 
 ## Dala igatsha
 
