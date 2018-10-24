@@ -9117,6 +9117,7 @@ Rohan Das
 - [Gilmar Francisco](https://github.com/gilmarfrancisco828)
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
+- [Adnan Fareed](https://github.com/MadnanSharif404)
 - [LucidComplex](https://github.com/LucidComplex)
 - [Poomchaio] (https://github.com/poomchaio)
 - [Ghatage](https://github.com/Ghatage)
