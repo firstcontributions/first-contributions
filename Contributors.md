@@ -7726,6 +7726,7 @@ Rohan Das
 - [Hassaan Rafique](https://github.com/hassaanseeker)
 - [Copeland♥Corley](https://github.com/CopelandCorley)
 - [Mridul Aggarwal](https://github.com/Mridul97)
+- [Wes](https://github.com/wes977)
 - [Naren Bakshi](https://github.com/narenbakshi97)
 - [Naomi C.](https://github.com/naomi-rc)
 - [Ramiro Andrés Bedoya](https://github.com/whistler092)
