@@ -611,6 +611,7 @@ Patrizia Trammell
 - vibhasi
 - [Darien Lee] (https://github.com/darienlee)
 - [Michael Hart](https://github.com/michaeljh619)
+- [Vishal Kumar Roy](https://github.com/VishalKumarRoy)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
 - [Coleman Fox](https://github.com/80080x)
