@@ -8910,6 +8910,7 @@ Benzene
 - [Ayoola Akindolani](https://github.com/dolani)
 - [Crewsy](https://github.com/crewsycrews)
 - [Shahnur](https://github.com/sisgandarli)
+- [kit0t0yu](https://github.com/kit0t0yu)
 - [Gabriel Tha](https://github.com/GabrielTha)
 - [VanshikaMittal07](https://github.com/VanshikaMittal07)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
@@ -8973,4 +8974,4 @@ Benzene
 - [Matt Clinton](https://github.com/clnt)
 Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
-- [kit0t0yu](https://github.com/kit0t0yu)
+
