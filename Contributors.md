@@ -6,7 +6,7 @@
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
-- [Mahesh Jaganiya] (https://github.com/jagzmz)
+- [Mahesh Jaganiya](https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [SteveMarshall](https://github.com/marshast)
