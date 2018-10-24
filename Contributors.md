@@ -1,6 +1,7 @@
 
 # Contributors
 
+- [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [kzack123](https://github.com/kzack123)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
