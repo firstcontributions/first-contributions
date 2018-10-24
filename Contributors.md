@@ -9201,3 +9201,4 @@ Rohan Das
 - [Carlo Carlo Lizano](https://github.com/clizano)
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
+- [Jose Garcia](https://github.com/josepplloo)
