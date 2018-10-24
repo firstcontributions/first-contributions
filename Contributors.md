@@ -8201,6 +8201,7 @@ Rohan Das
 - [Orlando Briceño](https://github.com/orlybg)
 - [Guido Sanchez](https://github.com/Guido2k)
 - [Juan Espinoza](https://github.com/seethersan)
+- [Noor](https://github.com/noor984)
 - [Andrew Ma](https://github.com/andrew-ma)
 - [Jakub Kusiowski](https://github.com/KusioDev)
 - [Chris Nord](https://github.com/pandabear41)
@@ -8981,4 +8982,4 @@ Benzene
 Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
--[Noor](https://github.com/noor984)
+
