@@ -537,6 +537,7 @@ Patrizia Trammell
 - [Alex Kluger](42947972+AKluger@users.noreply.github.com)
 - [Lokesh](https://github.com/bitlucky)
 - [Alberto Leon](https://github.com/betoleon)
+- [Pranav Pratap Singh](https://github.com/PranavPratapSingh)
 - [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
 - [Yves Wienecke](https://github.com/iyves/)
