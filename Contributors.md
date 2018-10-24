@@ -3671,6 +3671,7 @@ Orandi Harris
 - [Todd Brock](https://github.com/bitlbot)
 - [Renan Pessoa](https://github.com/renanpessoa)
 - [Himanshu Ratnani](https://github.com/ratnani1996)
+- [Tanmay](https://github.com/maytanthegeek)
 - [Jon Blackburn](https://github.com/elcarn23)
 - [Reuns](https://github.com/hacksignn)
 - [Dmitriy Babinkin](https://github.com/babinkin)
