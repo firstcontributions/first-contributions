@@ -1,9 +1,6 @@
-
-﻿
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
-JOON JANGAdd Joon-Jang to Contributors list
 - [mrjomp](https://github.com/mrjomp)
 - [Florin Irion](https://github.com/irionr)
 - [kananthav](https://github.com/kananthav)
@@ -321,6 +318,7 @@ Edison Shek
 - [Erick Martinez](https://github.com/ErickMtz)
 - [AK White](https://github.com/akwhite)
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
+- JOON JANG
 - [Keshav GOYAL](https://github.com/keshavgoyal2807)
 - [Sanduniisa](https://github.com/sanduniisa)
 - [Ashwin Kain](https://github.com/Ashwin-Kapes)
