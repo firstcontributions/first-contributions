@@ -65,4 +65,6 @@ Uma ungenalo Git kukhompyutha yakho, [uyifake]( https://help.github.com/articles
 
 Dala imfoloko yale nqolobane ngokuchofoza inkinobho ye "Fork" phezulu kwaleli khasi. Uzokwakha ikhophi yale nqolobane ku-akhawunti yakho.
 
-## Clone the repository
+## Qalisa i-repository
+
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
