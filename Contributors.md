@@ -104,6 +104,7 @@ Arnel Forbes
 - [William Baker](https://github.com/wjbaker101)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [Suman Saurabh](https://github.com/sumanssaurabh)
+- [Sachin Kumar](https://github.com/hijacker5)
 - [Matthew Shelbourn](https://github.com/shelbourn)
 - [Marius Maries](https://github.com/mariuscm)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
