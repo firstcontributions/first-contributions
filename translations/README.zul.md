@@ -105,3 +105,8 @@ Ngokwesibonelo
 ```
 git checkout -b engeza-adam-kowalski
 ```
+(Igama legatsha akufanele liqukathe igama elingeza , kodwa kuhle ukulifaka ngoba injongo yaleli gatsha ukufaka igama lakho ohlwini.)
+
+## Yenza ushintsho futhi ulayishe
+
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
