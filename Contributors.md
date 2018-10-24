@@ -52,6 +52,7 @@
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
 - [Mai Nguyen](https://github.com/maidoesthings)
+- [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
 - [Bernard Yap](https://github.com/bernisaur)
 - [Sergiy Dybskiy](https://github.com/416serg)
