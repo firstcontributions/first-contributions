@@ -10,6 +10,7 @@
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [SteveMarshall](https://github.com/marshast)
+- [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
