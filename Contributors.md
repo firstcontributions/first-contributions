@@ -3,7 +3,6 @@
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [kzack123](https://github.com/kzack123)
-- [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
@@ -9156,3 +9155,4 @@ Benzene
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
 - [MasterLuV](https://github.com/nighttiger1990)
+- [NikodemJanaszak](https://github.com/NikodemJanaszak)
