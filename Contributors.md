@@ -286,9 +286,9 @@ Edison Shek
 - [Yangsoo Song](https://github.com/yangsoosong)
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
-- [Satyam Uttam]
 - [Krzysztof Radomski] (https://github.com/krzysztofradomski)
 - [Jose Hernandez](https://github.com/JHernandez99)
+- [Satyam Uttam]
 - [Matt Ackard](https://github.com/mattackard)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Marco Diaz] (https://github.com/Marco1969theKnight)
@@ -8290,6 +8290,7 @@ Rohan Das
 - [Efraim Ramsen](https://github.com/efraimramsen)
 - [alohasolamente](https://github.com/alohasolamente)
 - [JirayuL](https://github.com/JirayuL)
+- [Arnold Marcus](https://github.com/arnoldmm54}
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Ugurkan Ates](https://github.com/ugurkanates)
