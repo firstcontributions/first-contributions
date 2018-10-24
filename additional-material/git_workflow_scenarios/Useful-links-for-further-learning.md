@@ -27,3 +27,6 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 
 Keep adding more links, that you find helpful.
 20. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+21. Use Gitter  
+It is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
+https://gitter.im/
