@@ -8392,8 +8392,9 @@ Rohan Das
 - [Gavin Lim](https://github.com/gavinslim)
 - [Khrinx](https://github.com/khrinx)
 - [Derek Zhang](https://github.com/fillorkill)
-Benzene
-[Khrinx](https://github.com/khrinx)
+- Benzene
+- [Khrinx](https://github.com/khrinx)
+- [Alan Nunes](https://github.com/AlanNunes)
 - [besong23](https://github.com/besong23)
 - [PANKAJ KU CHOUHAN](https://github.com/pankaj189)
 - [Rameez Raja](https://github.com/rameez57)
