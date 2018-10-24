@@ -8544,6 +8544,7 @@ Rohan Das
 - [Marco Petreri](https://github.com/marcopetreri)
 - [Felix Grünewald](https://github.com/fgruen)
 - [Adhish Anand](https://github.com/adhishanand9)
+- [Rohan Rout](https://github.com/aviaraa)
 - [Kunal Katariya](https://github.com/KunalKatariya)
 - [Roxana Oanes](https://github.com/roxyoanes)
 - [Prakhar Gupta](https://github.com/prakhar897)
