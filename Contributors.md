@@ -8279,6 +8279,7 @@ Rohan Das
 - [Bhuwan Sitaula](https://github.com/babaYaga109)]
 - [Nitin](https://github.com/nitinnatural)
 - [TaeRim](https://github.com/Ta2Rim)
+- [Muhammad Awais Haider](https://github.com/muhammadawaishaider)
 - [gius-italy](https://github.com/gius-italy)
 - [Muskan Goyal](https://github.com/Muskan-goyal6)
 - [Datron](https://github.com/datron)
