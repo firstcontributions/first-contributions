@@ -2823,6 +2823,7 @@ Orandi Harris
 - [Javed Hussain](https://github.com/trailblazer42)
 - [Ryan Ouyang](https://github.com/ryan-ouyang)
 - [Dalip](https://github.com/dalip123)
+- [George Sims](https://github.com/georgesims21)
 - [Nestor Velez](https://github.com/ScorpionVT)
 - [Gaurav Rai](https://github.com/ThinkHattke)
 - [Roald Ruiter](https://github.com/Roald87)
