@@ -109,4 +109,6 @@ git checkout -b engeza-adam-kowalski
 
 ## Yenza ushintsho futhi ulayishe
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Vula ifayela Contributors.mdkumhleli wombhalo. Kumele wazi i-Markdown, ulimi olumnyama olumnyama. Lapha unephepha lokukopela lapho uzothola khona ulwazi lokuthi ungasebenzisa kanjani iMarkdown.
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
