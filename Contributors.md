@@ -9249,3 +9249,4 @@ Rohan Das
 - [Sarthak Tanwani](https://github.com/sarthaktanwani)
 - [licensed](https://github.com/licensed)
 - [Jairo Junior](https://github.com/jairojj)
+- [Earle-Poole](https://github.com/earle-poole)
