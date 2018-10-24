@@ -154,3 +154,11 @@ Manje thumela isicelo sokudonsa.
 Ngokushesha ngizohlanganisa zonke izinguquko zakho zibe yigatsha eliyinhloko laphrojekthi. Uzothola i-imeyili yesaziso uma izinguquko sezihlanganisiwe.
 
 ## Ungaphi lapho?
+
+Siyakuhalalisela! Usanda kuqedela umshini ojwayelekile -> clone -> edit -> PR ukuhamba komsebenzi ozohlangana ngaso sonke isikhathi njengomnikelo!
+
+Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo [lokusebenza lewebhu](https://roshanjossey.github.io/first-contributions/#social-share).
+
+Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo noma unemibuzo. [Joyina ithimba le-slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://roshanjossey.github.io/first-contributions/#project-list).
