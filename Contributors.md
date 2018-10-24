@@ -100,6 +100,7 @@ Ben
 apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
+- [Mancee](https://github.com/mancee)
 - [Roshith R](https://github.com/Roshith93)
 - [Steve Torrence](https://github.com/storrence88)
 - [FloridaMan](https://github.com/floridaman)
