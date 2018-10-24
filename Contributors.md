@@ -1,4 +1,4 @@
-﻿
+
 # Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -6145,6 +6145,7 @@ Rohan Das
 - [nos65](https://github.com/nos65)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
+- [C MORRIS](https://github.com/2mozz1)
 - [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
