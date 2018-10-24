@@ -9190,3 +9190,4 @@ Rohan Das
 - [Edmond de Tournadre](https://github.com/Djohn12)
 - [Marion Zrch](https://github.com/marion1998)
 - [Carlo Carlo Lizano](https://github.com/clizano)
+- [w1ldzer0](https://github.com/WildZero)
