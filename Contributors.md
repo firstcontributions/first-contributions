@@ -8895,6 +8895,7 @@ Benzene
 - [Gilmar Francisco](https://github.com/gilmarfrancisco828)
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
+- [Adnan Fareed](https://github.com/MadnanSharif404)
 - [LucidComplex](https://github.com/LucidComplex)
 - [Poomchaio] (https://github.com/poomchaio)
 - [Hanung Wijaya](https://github.com/hanung665)
@@ -8925,5 +8926,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Adnan Fareed](https://github.com/MadnanSharif404)
 
