@@ -89,13 +89,13 @@ iphi this-is-youigama lomsebenzisi lakho le-GitHub. Lapha ukopisha okuqukethwe k
 
 ## Dala igatsha
 
-Yiya kwifolda enefolda yakho (uma ungasekho kakade):
+Shintsha kwirekhodi lokugcina ekhompyutheni yakho (uma ungasekho kakade):
 
 ```
 cd first-contributions
 ```
 
-Manje dala igatsha elisha ngokusebenzisa umyalo git checkout:
+Manje dala igatsha usebenzisa  `git checkout` umyalo:
 
 ```
 git checkout -b <add-igama lakho>
@@ -106,9 +106,9 @@ Ngokwesibonelo
 ```
 git checkout -b engeza-adam-kowalski
 ```
-(Igama legatsha akufanele liqukathe igama elingeza , kodwa kuhle ukulifaka ngoba injongo yaleli gatsha ukufaka igama lakho ohlwini.)
+(Igama legatsha ayidingi ukuba izwi engeza kuwo, kodwa into enengqondo ukufaka ngoba inhloso yaleli gatsha ukwengeza igama lakho uhlu.)
 
-## Yenza ushintsho futhi ulayishe
+## Yenza ushintsho oludingekile bese wenza lezo zinguquko
 
 Vula ifayela Contributors.mdkumhleli wombhalo. Kumele wazi i-Markdown, ulimi olumnyama olumnyama. Lapha unephepha lokukopela lapho uzothola khona ulwazi lokuthi ungasebenzisa kanjani iMarkdown.
 
