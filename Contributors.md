@@ -9131,6 +9131,7 @@ Benzene
 - [Alesandro Fidelis](https://github.com/AlesandroF)
 - [Akshama](https://github.com/Akshama)
 - [Jakob](https://github.com/J4K0B)
+- [kbussert](https://github.com/kbussert)
 - [Toshiki](https://github.com/toshikiohnogi)
 - [Amornthep.Th](https://github.com/bkkkjst)
 - [PDVega](https://github.com/PDVega/)
