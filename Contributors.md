@@ -67,6 +67,7 @@ Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [Maaruf Dauda](https://github.com/emkayDauda)
 - [Bernard Yap](https://github.com/bernisaur)
+- [Kenny Veys](https://github.com/Sneakzz)
 - [Sergiy Dybskiy](https://github.com/416serg)
 - [Vinayak S](https://github.com/VinayakSuresh1997)
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
