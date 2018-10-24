@@ -9226,4 +9226,4 @@ Rohan Das
 - [Eduardo Bachiega](https://github.com/eduardobachiega)
 - [Sarthak Tanwani](https://github.com/sarthaktanwani)
 - [licensed](https://github.com/licensed)
-- [Sealtyel](htto://github.com/sealtyel)
+- [Sealtyel](https://github.com/sealtyel)
