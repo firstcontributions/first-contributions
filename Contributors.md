@@ -17,7 +17,6 @@
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
-- [Vishal Kumar Roy](https://github.com/VishalKumarRoy)
 - [Connor Lindsey] (https://github.com/Ibaeni)
 -[pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
@@ -516,6 +515,7 @@ Edison Shek
 - [Thomas Wicks](https://github.com/ThomasWicks)
 - vibhasi
 - [Michael Hart](https://github.com/michaeljh619)
+- [Vishal Kumar Roy](https://github.com/VishalKumarRoy)
 - [Akash Yadav](https://github.com/akash2908)
 - [Manu Shahi](https://github.com/manushahi)
 - [Coleman Fox](https://github.com/80080x)
