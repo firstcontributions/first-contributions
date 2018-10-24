@@ -9163,6 +9163,7 @@ Rohan Das
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
+- [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
 - [Malik Naveed](https://github.com/maliknaveed6200)
