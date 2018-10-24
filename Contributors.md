@@ -5096,6 +5096,7 @@ Rohan Das
 - [Harry Kim](https://github.com/veryveryharry)
 - [Edan Lewis](https://github.com/fishshiz)
 - [Kevin Nguyen](https://github.com/kwin555)
+- [Tara Matthew](https://github.com/taramatt93)
 - [Vin?cius Figueiredo](https://github.com/mvinoba)
 - [Aruparna Maity](https://github.com/AruparnaMaity)
 - [Nick Adriaanse](https://github.com/shinedog)
