@@ -146,6 +146,7 @@ aalbusoiu
 -gagan kumar)
 - [Andrew Callaway](https://github.com/CasperEvil)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [Nishat Shama](https://github.com/nishatshama)
 - [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
