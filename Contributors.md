@@ -3,6 +3,7 @@
 
 - [kzack123](https://github.com/kzack123)
 - [Kegjams](https://github.com/Kegjams)
+- [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [SteveMarshall](https://github.com/marshast)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
