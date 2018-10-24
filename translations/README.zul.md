@@ -174,7 +174,7 @@ Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezi
 
 ## Ukuzithuthukisa
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+Uma uthanda le phrojekthi, yenze inkanyezi ku- [GitHub](https://github.com/Roshanjossey/first-contributions).
+Uma uzizwa ikakhulukazi usizi, landela [Roshan](https://roshanjossey.github.io/) ku-
+[Twitter](https://twitter.com/sudo__bangbang) naku-
 [GitHub](https://github.com/roshanjossey).
