@@ -34,6 +34,7 @@
 - [Erneani](https://github.com/erneani)
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
+- [Aashita Arora](https://github.com/aashitaarora)
 - [Aslam](https://github.com/Hotdogcode)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [strobelt](https://github.com/strobelt)
