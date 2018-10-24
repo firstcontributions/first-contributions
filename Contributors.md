@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [kzack123](https://github.com/kzack123)
 - [Kegjams](https://github.com/Kegjams)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [SteveMarshall](https://github.com/marshast)
