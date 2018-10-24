@@ -8560,6 +8560,7 @@ Benzene
 - [Amrita Singha Roy](https://github.com/Amrito1996)
 - [Shivam Sharma](https://shivams334.github.io)
 - [Pratyum Jagan](https://github.com/Pratyum)
+- [daniel michaels](https://github.com/danielmichaels)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Nick Slaven](https://github.com/nslaven22)
 - [Sharma Harsh](https://github.com/97harsh)
@@ -9010,4 +9011,3 @@ Joon Jang
 - [Mani Bhushan](https://github.com/manibhushan)
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
-- [daniel michaels](https://github.com/danielmichaels)
