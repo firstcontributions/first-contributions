@@ -4,6 +4,7 @@
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
+- [fyusuf1] (https://github.com/fyusuf1)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -9119,6 +9120,7 @@ Rohan Das
 - [Gavin McDonald](https://github.com/Gavmcdonald)
 - sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
+- [Frank Carlone](https://github.com/fcarlone)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
@@ -9377,6 +9379,7 @@ Rohan Das
 - [Ben Curran](https://github.com/cuzza0)
 - [Emma Campbell](https://github.com/butterchaos)
 - [Groutch](https://github.com/groutch)
+- [Billy Tan](https://github.com/cieltan)
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
 - [goatlink](https://github.com/goatlink)
