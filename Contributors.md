@@ -8779,6 +8779,7 @@ Rohan Das
 - [KSSBro](https://github.com/KSSBro)
 - [JianLoong](https://github.com/JianLoong)
 - [vonDowntown](https://github.com/vonDowntown)
+- [Anton Drantiev](https://github.com/adrantiev1)
 - [christophorosdk](https://github.com/christophorosdk)
 - [wolfharan](https://github.com/wolfharan/)
 - [linehk](https://github.com/linehk)
