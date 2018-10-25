@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
@@ -9289,6 +9289,7 @@ Rohan Das
 - [Jairo Junior](https://github.com/jairojj)
 - [Edward Yang] (https://github.com/rarcie)
 - [Earle-Poole](https://github.com/earle-poole)
+- [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
 - [Tai Tan](https://github.com/ryotokuro)
 - [Ellie Solorio] (https://github.com/elliecodetheweb)
