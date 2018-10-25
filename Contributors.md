@@ -13,6 +13,7 @@ Rajesh Verma
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
+- [aalizwel23](https://github.com/aalizwel23
 - [gormleymark] (https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [MattDurajka](https://github.com/MattDurajka)
