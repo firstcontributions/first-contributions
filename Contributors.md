@@ -1,7 +1,6 @@
 ﻿
 # Contributors
 
-- [Jack Gong](https://github.com/AwesomeJackify)
 - [nualluan](https://github.com/naulluan)
 - [Florin Irion](https://github.com/irionr)
 - [prashansanb](https://github.com/prashansanb)
@@ -184,6 +183,7 @@ Edison Shek
 - [John Pasquesi](https://github.com/Jyckle)
 - [Satyam Uttam]
 - [Krzysztof Radomski] (https://github.com/krzysztofradomski)
+- [Jack Gong](https://github.com/AwesomeJackify)
 - [Jose Hernandez](https://github.com/JHernandez99)
 - [Matt Ackard](https://github.com/mattackard)
 - [Sanya Gupta] (https://github.com/sanya2701)
@@ -8920,3 +8920,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
+
