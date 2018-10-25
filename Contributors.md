@@ -475,6 +475,7 @@ Patrizia Trammell
 - [Vinod Borse](https://github.com/vinodborse)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
+- [Benedict Supat](https://github.com/groundzer00)
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
