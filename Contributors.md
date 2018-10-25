@@ -23,6 +23,7 @@ Rajesh Verma
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
+- [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
 - [Jason Chan](https://github.com/QubeChan)
