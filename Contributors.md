@@ -49,6 +49,7 @@ Rajesh Verma
 - [mrjomp](https://github.com/mrjomp)
 - [JanellAmely](https://github.com/3CatMax)
   [Zach Chen](https://github.com/02zchen)
+- [Kingsjo1](https://github.com/Kingsjo1)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
