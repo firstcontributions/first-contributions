@@ -9240,6 +9240,7 @@ Rohan Das
 - [Shounak7](https://github.com/shounak7)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
+- [Uygar Aktuna](https://github.com/uygaraktuna)
 - [Dhananjay Pandit](https://github.com/Jay1305)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
