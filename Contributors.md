@@ -287,6 +287,7 @@ aalbusoiu
 - [João Bini](https://github.com/joaopbini)
 - [kishan Kaushik](https://github.com/kishankaushik)
 - [Quang Hoang](https://github.com/quangpro1610)
+- [Sii Kim Lau](https://github.com/lausk97)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
