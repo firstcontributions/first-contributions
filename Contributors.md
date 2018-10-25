@@ -7473,6 +7473,7 @@ Rohan Das
 - [avama](https://github.com/avama)
 - [Swapnil Ojha](https://github.com/swakansh/)
 - [Ian Fenwick](https://github.com/rokumsockum/)
+- [Zainab Nomi](https://github.com/zainabnomi)
 - [honka honka](https://github.com/honkahonka)
 - [Randy Harkediansa](https://github.com/harked/)
 - [Mohabdu](https://github.com/Mohabdu)
