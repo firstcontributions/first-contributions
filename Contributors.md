@@ -4134,6 +4134,7 @@ Orandi Harris
 - [Sergei Tomin](https://github.com/driver-by)
 - [Abhay Chawla](https://github.com/abhaychawla)
 - [Erika Ornstein @erorcodes](https://github.com/erorcodes)
+- [Axel Espinosa Meneses @AxelDavid45](https://github.com/AxelDavid45)
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
 - [Michael Wright](https://github.com/michaelwright74)
 - [Durga Venkatesh](https://github.com/buredurgagod)
