@@ -56,6 +56,7 @@ Rajesh Verma
 - [QrBe](https://github.com/QrBe)
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
+- [Mike Allen](https://github.com/mallenjr)
 - [JanellAmely](https://github.com/3CatMax)
 - [nightrainlily](https://github.com/nightrainlily)
   [Zach Chen](https://github.com/02zchen)
