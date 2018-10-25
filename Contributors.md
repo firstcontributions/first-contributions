@@ -9124,7 +9124,6 @@ Rohan Das
 - [gnsJhenJie](https://github.com/gnsJhenJie/)
 - [Jongkook](https://github.com/conquerex)
 - [Xanderdwyl](https://github.com/XanderDwyl)
-- [Dennis Braun](https://github.com/l0min)
 - [Xavier Marques] (https://github.com/wolframtheta)
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Ayoola Akindolani](https://github.com/dolani)
