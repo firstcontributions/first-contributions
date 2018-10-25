@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
@@ -822,6 +822,7 @@ Patrizia Trammell
 - [Prakher Prashank]()
 - nick spagnola
 - [Brian Lusina](https://github.com/BrianLusina)
+- [Kartik Gupta](https://github.com/Z3N00)
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
