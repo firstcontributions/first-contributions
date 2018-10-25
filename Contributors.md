@@ -1,6 +1,5 @@
 ﻿# Contributors
 
-- [Jessica Wilson](https://github.com/Jlw2uc)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -250,6 +249,8 @@ aalbusoiu
 - [Lex Saplan](https://github.com/zanderlx)
 - [Bryan Rojas](https://github.com/bryan-rojas)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
+- [Rebecca Tjandra](https://github.com/rebaka)
+- [Jessica Wilson](https://github.com/Jlw2uc)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
 - [Utkarsh](https://github.com/Knight1997)
