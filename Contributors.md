@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
