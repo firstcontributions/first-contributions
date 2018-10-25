@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
