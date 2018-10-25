@@ -164,6 +164,7 @@ aalbusoiu
 - [nic from van](https://github.com/nicohouillon)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
 - [Eduardo Raygoza](https://github.com/EduardoRaygoza)
+- [Tc2r1](https://github.com/Tc2r1)
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney] (https://github.com/Sushi314)
 - Hector Barajas
