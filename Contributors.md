@@ -1,6 +1,6 @@
 
 # Contributors
-- [Rusver] (https://github.com/Rusver)
+
 - [nualluan](https://github.com/naulluan)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
@@ -165,6 +165,7 @@ Edison Shek
 - [Constant Vallee](https://github.com/covallee)
 - [Ojas Gulati](https://github.com/ojasgulati)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
+- [Rusver](https://github.com/Rusver)
 - [Florian Mauduit](https://github.com/ftx)
 - [Kumar Kartikeya](https://github.com/kkartikeya1998)
 - [Mahriham Musa](https://github.com/mhariham)
