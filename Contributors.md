@@ -9,6 +9,7 @@
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [IrshadAnsari](https://github.com/irshadjsr21)
+- [rozenstraws](https://github.com/rozenstraws)
 - [SteveMarshall](https://github.com/marshast)
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
