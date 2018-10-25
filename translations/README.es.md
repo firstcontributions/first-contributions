@@ -5,11 +5,11 @@
 
 # Primeras Contribuciones
 
-Es complicado. Todo es complicado la primera vez que se hace. Principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
+Es complicado. Resulta difícil la primera vez que haces algo, principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
-#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutorials-using-other-tools )*.
+#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutoriales-con-otras-herramientas )*.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 

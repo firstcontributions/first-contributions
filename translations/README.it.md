@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # La prima collaborazione
@@ -65,7 +65,7 @@ Ora apri il file `Contributors.md` in un editor, inserisci il tuo nome e salva i
 git add Contributors.md
 ```
 
-Ora valida i cambiamenti usando `git commit`:
+Crea ora una commit che includa le modifiche da te fatte, usando `git commit`:
 ```
 git commit -m "Add <il-tuo-nome> to Contributors list"
 ```
@@ -102,7 +102,7 @@ Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di
 
 ## E ora?
 
-Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Qui sotto puoi trovare delle repo popolari dove cercare issue semplici che potresti risolvere. Continua nelle repo per imparare di più
 

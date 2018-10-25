@@ -5,7 +5,7 @@
 
 # Pierwsze kontrybucje
 
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
+Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, ponieważ popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
 
 Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
@@ -31,7 +31,7 @@ Otwórz konsolę i uruchom komendę git:
 ```
 git clone "wklej skopiowany adres"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowów) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -39,7 +39,7 @@ Przykład:
 ```
 git clone https://github.com/to-ty/first-contributions.git
 ```
-W miejscu 'to-ty' to Twój login na githubie. W tym kroku ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer.
+W miejscu 'to-ty' to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium first-contributions z githuba na swój komputer.
 
 ## Stwórz gałąź
 
