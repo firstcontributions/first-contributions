@@ -8698,6 +8698,7 @@ Benzene
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Ngan Khanh](https://github.com/ngankhanh98)
 - [Bruno Silva](https://github.com/slauzinho)
+- [Oleksii Filonenko](https://github.com/filalex77)
 - [Matthew Williams](https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
 - [Hannah](https://github.com/hholzmann16)
@@ -8897,4 +8898,4 @@ Benzene
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Warun](https://github.com/ubinix-warun)
 - [Yamin](https://github.com/yaminmhd)
-- [Oleksii Filonenko](https://github.com/filalex77)
+
