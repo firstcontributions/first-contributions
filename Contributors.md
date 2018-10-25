@@ -7774,6 +7774,7 @@ Rohan Das
 - [Mukul Kumar Singh](https://github.com/SwiftX4)
 - [Mark Tonks](https://github.com/unnecessaryroughness)
 - [Aditya Naik] (https://github.com/kianaditya)
+- [Dylan Perkins] (https://github.com/dyllper)
 - [Jayden Wise](https://github.com/wisejayden)
 - [Hany Mahmoud](http://github.com/H-4-N-1)
 - [Tiggerito](https://github.com/Tiggerito)
