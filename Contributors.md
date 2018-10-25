@@ -1,6 +1,5 @@
 # Contributors
 
-- [Theodore Shin](https://github.com/tshin7)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -21,7 +20,7 @@
 - [southton1992] (https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [madza](https://github.com/madarsbiss)
-- [PranjalGupta2199](https://github.com/PranjalGupta2199)
+- [PranjalGupta2199](https://github.com/PranjalGupta2199) 
 - [DanielBiegler](https://github.com/danielbiegler)
 - [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
@@ -169,7 +168,7 @@ aalbusoiu
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
-- [Samira Elhami] (https://github.com/SamiraElhami)
+- [Samira Elhami] (https://github.com/SamiraElhami) 
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk
 -gagan kumar)
@@ -239,6 +238,7 @@ aalbusoiu
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
 - [Rappelsen](https://github.com/rappelsen)
+- [Theodore Shin](https://github.com/tshin7)
 - [Persephone](https://github.com/persephpom/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Yoad Wolfsthal](https://github.com/yoadwo)
@@ -9225,7 +9225,7 @@ Rohan Das
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
-- [Arihant Bansal] (https://github.com/arihantbansal)
+- [Arihant Bansal] (https://github.com/arihantbansal) 
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
