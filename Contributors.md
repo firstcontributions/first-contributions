@@ -358,6 +358,7 @@ Edison Shek
 - [Constant Vallee](https://github.com/covallee)
 - [Ojas Gulati](https://github.com/ojasgulati)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
+- [Rusver](https://github.com/Rusver)
 - [Florian Mauduit](https://github.com/ftx)
 - [Kumar Kartikeya](https://github.com/kkartikeya1998)
 - [Mahriham Musa](https://github.com/mhariham)
