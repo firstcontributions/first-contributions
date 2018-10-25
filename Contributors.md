@@ -1334,6 +1334,7 @@ Patrizia Trammell
 - [Jill Haake Moreau](https://github.com/jillhkm)
 - [Brendan Carlin](https://github.com/BrendanCarlin)
 - [Michael Johansson](https://github.com/mickethespike)
+- [Dennnis Allan Barba](https://github.com/dennisallanbarba)
 - [Eldo Greshard](https://github.com/karmael)
 - [nancynh](https://github.com/nancynh)
 - [Sushanth Ikshwaku](https://github.com/SushanthIkshwaku)
