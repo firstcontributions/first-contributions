@@ -9449,3 +9449,4 @@ Rohan Das
 - [Dotzero](https://github.com/dotzero/)
 - [Kenny Hong](https://github.com/kennyhong)
 - [Matt Chaffe](https://github.com/Mattchewone)
+- [Ben Vargas](https://github.com/ben-var)
