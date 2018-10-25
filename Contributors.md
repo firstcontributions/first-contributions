@@ -9155,6 +9155,7 @@ Rohan Das
 - [Klaudia](https://github.com/klaudiakp)
 - [Darkatom](https://github.com/Darkatom)
 - [Mike Macias](https://github.com/mmacias96)
+- [angristan](https://github.com/angristan)
 - [Aaron Shannon](https://github.com/aarondshan)
 - [Vladimir Pavlovic](https://github.com/vlada1001)
 - [Harsh Shah](https://github.com/harshvshah)
