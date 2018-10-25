@@ -9326,6 +9326,7 @@ Rohan Das
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
 - [Tai Tan](https://github.com/ryotokuro)
+- [Demetrius Dasilva](https://github.com/demetrius99)
 - [Ellie Solorio] (https://github.com/elliecodetheweb)
 - [WeeKent](https://github.com/weekent)
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
