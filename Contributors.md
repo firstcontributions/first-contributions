@@ -974,6 +974,7 @@ Patrizia Trammell
 - [Jazz Loffredo](https://github.com/jazzloffredo)
 - [Jonny Spicer](https://github.com/jonnyspicer)
 - [Jeremy Fox](https://github.com/jeremyfox36)
+- [Stefan Toczek](https://github.com/stefantoczek)
 - [Jeremie Daniel](https://github.com/jeremie1112)
 - [ThankGod Egbo](https://github.com/thatruth24)
 - [Sandeep Sidhu](https://github.com/sandeepme)
