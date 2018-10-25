@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -3793,6 +3793,7 @@ Orandi Harris
 - [Rovaron](https://github.com/Rovaron)
 - [KayrabCebll](https://github.com/kayrabCebll)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
+- [Domingo Cabeza](https://github.com/domingoacd)
 - [**Devsur**](https://github.com/devsur)
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
