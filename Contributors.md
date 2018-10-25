@@ -9206,7 +9206,7 @@ Rohan Das
 - [Danilo 09](https://github.com/danilo09)
 - [Vinicio Santos](https://github.com/VinicioSantos)
 - [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
-- [Jonas Denardi](https://github.com/jonasrdenardi) 
+- [Jonas Denardi](https://github.com/jonasrdenardi)
 - [Andrei Luis] (https://github.com/AndreiLuis)
 - [Beatriz Miranda](https://github.com/BeaMtrix)
 - [Deise Silva](https://github.com/AtreydesKS)
@@ -9363,3 +9363,4 @@ Rohan Das
 - [Javier Lorenzo](https://github.com/javierlorenzod)
 - [Abulasar Sayyad](https://github.com/abulsayyad123)
 - [excfergodst](https://github.com/excfergodst)
+- [Daniel Zaharia](https://github.com/coronasco)
