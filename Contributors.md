@@ -9265,3 +9265,4 @@ Rohan Das
 - [Paul Mourer](https://github.com/pm0u)
 - [Tai Tan](https://github.com/ryotokuro)
 - [Ellie Solorio] (https://github.com/elliecodetheweb)
+- [WeeKent] (https://github.com/weekent)
