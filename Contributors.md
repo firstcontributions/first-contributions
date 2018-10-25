@@ -4337,6 +4337,7 @@ Orandi Harris
 - [osolarik](https://github.com/osolarik)
 - [ShubhiL](https://github.com/ShubhiL)
 - [Amit](https://github.com/amit9651)
+- [Chris Stephenson](https://github.com/clstephenson)
 - [Subham Kumar Soni](https://github.com/sks4903440)
 - [Irshad Ismayil](https://github.com/irshadshalu)
 - [Johnnycus](https://github.com/Johnnycus)
