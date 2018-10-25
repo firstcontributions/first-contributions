@@ -9178,6 +9178,7 @@ Rohan Das
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
 - [meltz](https://github.com/meltz)
+- [Bob Back](https://github.com/bob-back)
 - [Sastem](https://github.com/Sastem)
 - [Shounak7](https://github.com/shounak7)
 - [JPS sasadara](https://github.com/jpssasadara)
@@ -9377,4 +9378,3 @@ Rohan Das
 - [Andrew Errico](https://github.com/andrewerrico)
 - [Brian Lowe](https://github.com/5qu1n7)
 - [Eli Laudi](https://github.com/elitucker)
-- [Bob Back](https://github.com/bob-back)
