@@ -196,6 +196,7 @@ aalbusoiu
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
+- [Nikita Acharya](https://github.com/nikita8)
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Shelly Tomar](https://github.com/ShellyTomar26)
 - [Karan Reddy](https://github.com/karanreddy77)
