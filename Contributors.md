@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
@@ -9,6 +9,7 @@ Rajesh Verma
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
+- [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [TrishaAguinaldo](https://github.com/kronicle114)
