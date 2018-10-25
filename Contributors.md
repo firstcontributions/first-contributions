@@ -63,6 +63,7 @@ Rajesh Verma
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
+- [Eduardo Robles](https://github.com/eduardo-robles)
 - [Florin Irion](https://github.com/irionr)
 - [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [kananthav](https://github.com/kananthav)
