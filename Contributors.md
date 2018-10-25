@@ -19,6 +19,7 @@ Rajesh Verma
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [FriendlyMafia](https://github.com/dattvidc)
 - [southton1992] (https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
