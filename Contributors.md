@@ -8962,6 +8962,7 @@ Rohan Das
 - [Peter Dada](https://github.com/dapetoo)
 - [Victor Bala](https://github.com/savicsly)
 - [Yonas Stephen](https://github.com/yonasstephen)
+- [Chang Shu](https://github.com/changcode)
 - [Kenichi](https://github.com/PhantomX7)
 - [Python's way](https://github.com/pythonsway)
 - [Fesia Cindy](https://github.com/FesiaCindy99)
