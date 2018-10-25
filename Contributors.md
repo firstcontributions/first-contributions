@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -9261,6 +9261,7 @@ Rohan Das
 - [Sarthak Tanwani](https://github.com/sarthaktanwani)
 - [licensed](https://github.com/licensed)
 - [Jairo Junior](https://github.com/jairojj)
+- [ChuckB] (https://github.com/extreme2700)
 - [Edward Yang] (https://github.com/rarcie)
 - [Earle-Poole](https://github.com/earle-poole)
 - [Paul Mourer](https://github.com/pm0u)
