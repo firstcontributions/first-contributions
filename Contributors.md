@@ -1729,6 +1729,7 @@ Patrizia Trammell
 - [Chit Thae Naing](https://github.com/chitthaenaing)
 - [Amanchi Naga Sai Sree Deepthi](https://github.com/SreeDeepthi1253)
 - [Aviv Alon](https://github.com/aalon2)
+- [Albin Frias](https://github.com/PseudoMera)
 - [Hunter Esposito](https://github.com/hesposi2278)
 - [Vincent Huang](https://github.com/vinceajcs)
 - [Qaasim](https://github.com/Orientales)
