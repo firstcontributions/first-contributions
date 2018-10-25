@@ -26,6 +26,7 @@ Rajesh Verma
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Harsh Khajuria](https://github.com/horcrux2301)
+- [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [FriendlyMafia](https://github.com/dattvidc)
