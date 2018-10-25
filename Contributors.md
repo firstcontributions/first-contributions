@@ -7174,7 +7174,7 @@ Rohan Das
 - [Yashesh Trivedi](https://github.com/yashesh-trivedi)
 - [Matthieu Tabuteau](https://github.com/maixiu)
 - [Pierre Pellegrin](https://github.com/Pielgrin)
-  Malik Couchy
+- [Malik Couchy]
 - [Josh Anderson](https://github.com/Bedhead015)
 - [Matthew Silva](https://github.com/matthewsilva)
 - [Luis Bauza](https://github.com/hllywluis)
@@ -8687,7 +8687,7 @@ Rohan Das
 - [Muhammad Hafidz](https://github.com/ciazhar)
 - [Heinz Burtscher](https://github.com/znekar)
 - [Francesco Cipolla](https://github.com/Atlas80b)
-- last3oy
+- [last3oy]
 - [Dileep](https://github.com/IshankaDSenevirathne)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
 - [Rohit Kumar](https://github.com/aquatiko)
@@ -8857,7 +8857,7 @@ Rohan Das
 - [Jessica](https://github.com/jmc617)
 - [Cleber Fonseca](https://github.com/clebersfonseca)
 - [kamchai boonruam](https://github.com/JackyBeatles)
-- ZePaiva
+- [ZePaiva]
 - [MPaul](https://github.com/chauxvive)
 - [Rahul Makhija](https://github.com/rahuls360)
 - [Elena_Sergeeva](https://github.com/Sergeeva)
@@ -8885,7 +8885,7 @@ Rohan Das
 - [Ginhton](https://github.com/ginhton)
 - [Mohita Bipin](https://github.com/VoxEtMohita)
 - [Paul McGrath](https://github.com/heypaulmcgrath)
-- Leos
+- [Leos]
 - [Nuno Laranjo](https://github.com/omnee)
 - [Carcraftz](https://github.com/Carcraftz)
 - [DaveRoox](https://github.com/DaveRoox)
@@ -8906,7 +8906,7 @@ Rohan Das
 - [Rachel Johnson](https://github.com/RachelTyJohnson)
 - [João Laranjo](https://github.com/joaolaranjo)
 - [Abhinav Raj](https://github.com/abhinavraj0123456789)
--[Quinn Kleinfelter](https://github.com/qkleinfelter)
+- [Quinn Kleinfelter](https://github.com/qkleinfelter)
 - [Dmitry](https://github.com/N0menIllisLegio)
 - [BreakTruth](https://github.com/BreakTruth)
 - [Guo Mukun](https://github.com/guomk)
@@ -9062,7 +9062,7 @@ Rohan Das
 - [Nazmi feeroz](https://github.com/nazmifeeroz)
 - [Japin Li](https://github.com/japinli)
 - [Gavin McDonald](https://github.com/Gavmcdonald)
--sujan lohitha
+- sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Maron](https://github.com/maronmate)
@@ -9091,7 +9091,7 @@ Rohan Das
 - [segao](https://github.com/segao)
 - [Anand P](https://github.com/anandpaithankar)
 - [Vikrant Srivastava](https://github.com/srivkrnt)
-- Connor Dowson
+- [Connor Dowson]
 - [Josh Cavinder](https://github.com/josh-cavinder)
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
@@ -9196,6 +9196,21 @@ Rohan Das
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
+- [Felipe Ruivo](https://github.com/vikingruivo)
+- [Cleiton Tavares](https://github.com/cleiton-tavares)
+- [Natielle Gonçalves](https://github.com/NatielleGoncalves)
+- [Brendon Fernandes](https://github.com/brendonhk7)
+- [Detinho](https://github.com/detinho)
+- [Igor Barato](https://github.com/igorbarato)
+- [Manoela Reis](https://github.com/manoela-reis)
+- [Danilo 09](https://github.com/danilo09)
+- [Vinicio Santos](https://github.com/VinicioSantos)
+- [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
+- [Jonas Denardi](https://github.com/jonasrdenardi) 
+- [Andrei Luis] (https://github.com/AndreiLuis)
+- [Beatriz Miranda](https://github.com/BeaMtrix)
+- [Deise Silva](https://github.com/AtreydesKS)
+- [Eric Monteiro Galotti de Souza](https://github.com/EricMGS)
 - [Nikos](https://github.com/linakis)
 - [Adi Biton](https://github.com/adibiton)
 - [Sara Ashraf](https://github.com/ZaraAshraf)
