@@ -13,7 +13,6 @@
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
-- [Benedict Supat](https://github.com/groundzer00)
 - [Connor Lindsey] (https://github.com/Ibaeni)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
@@ -312,6 +311,7 @@ Edison Shek
 - [Sara](https://github.com/SaraBon)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
+- [Benedict Supat](https://github.com/groundzer00)
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
 - [Nicholas Carnival](https://github.com/majorderp4)
