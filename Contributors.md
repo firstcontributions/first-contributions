@@ -13,6 +13,7 @@
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
+- [Benedict Supat](https://github.com/groundzer00)
 - [Connor Lindsey] (https://github.com/Ibaeni)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
