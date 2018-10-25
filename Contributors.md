@@ -25,6 +25,7 @@
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [mrjomp](https://github.com/mrjomp)
 - [JanellAmely](https://github.com/3CatMax)
+  [Zach Chen](https://github.com/02zchen)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
