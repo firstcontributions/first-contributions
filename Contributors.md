@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
