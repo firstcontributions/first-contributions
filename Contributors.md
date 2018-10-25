@@ -8779,6 +8779,7 @@ Rohan Das
 - [Megherea Eugeniu](https://github.com/eugeniumegherea)
 - [basher666](https://github.com/basher666)
 - [KSSBro](https://github.com/KSSBro)
+- [Li Tomchik](https://github.com/roguedzines)
 - [JianLoong](https://github.com/JianLoong)
 - [vonDowntown](https://github.com/vonDowntown)
 - [Anton Drantiev](https://github.com/adrantiev1)
