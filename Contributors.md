@@ -44,6 +44,7 @@ Rajesh Verma
 - [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
+- [Sarah McCue](https://github.com/SarahMcQ)
 - [madza](https://github.com/madarsbiss)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
