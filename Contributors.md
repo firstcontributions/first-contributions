@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
@@ -300,6 +300,7 @@ aalbusoiu
 - [kishan Kaushik](https://github.com/kishankaushik)
 - [Quang Hoang](https://github.com/quangpro1610)
 - [Sii Kim Lau](https://github.com/lausk97)
+- [Vanessa Cassandra](https://github.com/vancass)
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
