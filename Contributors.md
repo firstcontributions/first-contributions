@@ -9269,3 +9269,4 @@ Rohan Das
 - [Tai Tan](https://github.com/ryotokuro)
 - [Ellie Solorio] (https://github.com/elliecodetheweb)
 - [WeeKent] (https://github.com/weekent)
+- [João Gabriel Gouveia](https://github.com/gabrielgouv)
