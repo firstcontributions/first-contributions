@@ -8820,6 +8820,7 @@ Rohan Das
 - [Mouffy](https://github.com/mcampourcy)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
+- [krishana kumar](https://github.com/krishana18kumar)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
