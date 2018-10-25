@@ -75,7 +75,7 @@ config.json
 *.sublime-workspace
 
 #Vim
-#
+##
 *.swp
 *.swo
 Session.vim

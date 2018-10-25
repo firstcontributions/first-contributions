@@ -10,7 +10,7 @@ This document provides information about how to amend a commit on the remote rep
 This document provides information about how to configure user details and other options in git.
 > Use this to better control your git configurations.
 
-### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
+### [Keeping your  fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
 > Follow these steps if your fork doesn't have any changes in parent repository.
 
