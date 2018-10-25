@@ -9237,6 +9237,8 @@ Rohan Das
 - [Omer Qureshi](https://github.com/omer413)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
+- [Ali Balci] (https://github.com/alibalci)
+
 - [**Abhijeet Srivastava**](https://github.com/abhijeet181995)
 - [Harry Zachariou](https://github.com/hcz1)
 - [⁵⁷](https://github.com/micky619)
