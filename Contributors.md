@@ -9310,6 +9310,7 @@ Rohan Das
 - [Ommp](https://github.com/Ommp)
 - [Eduardo Bachiega](https://github.com/eduardobachiega)
 - [Sarthak Tanwani](https://github.com/sarthaktanwani)
+- [Karthik Nayak](https://github.com/psknayak)
 - [licensed](https://github.com/licensed)
 - [Jairo Junior](https://github.com/jairojj)
 - [Edward Yang] (https://github.com/rarcie)
