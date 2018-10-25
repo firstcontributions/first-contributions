@@ -17,7 +17,7 @@
 - [blank15](https://github.com/blank15)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [madza](https://github.com/madarsbiss)
-- [PranjalGupta2199](https://github.com/PranjalGupta2199) 
+- [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
@@ -163,7 +163,7 @@ aalbusoiu
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
 - [Jonas Jore](https://github.com/JonasJore)
-- [Samira Elhami] (https://github.com/SamiraElhami) 
+- [Samira Elhami] (https://github.com/SamiraElhami)
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk
 -gagan kumar)
@@ -9213,7 +9213,7 @@ Rohan Das
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
-- [Arihant Bansal] (https://github.com/arihantbansal) 
+- [Arihant Bansal] (https://github.com/arihantbansal)
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
@@ -9254,3 +9254,5 @@ Rohan Das
 - [Jairo Junior](https://github.com/jairojj)
 - [Edward Yang] (https://github.com/rarcie)
 - [Earle-Poole](https://github.com/earle-poole)
+
+[Kevin-Ziechmann] (https://github.com/kziechmann/)
