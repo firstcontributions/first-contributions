@@ -8814,6 +8814,7 @@ Benzene
 - [Harsh Shah](https://github.com/harshvshah)
 - [Doug Silva](https://github.com/d0gey)
 - [Carlo Martín](https://github.com/CarloMtzMartin)
+- [Manvitha Kalicheti](https://github.com/manvithakalicheti)
 - [Mustafa Ismail](https://github.com/mustafaismail22)
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [a-ray](https://github.com/a-ray)
@@ -8917,4 +8918,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Manvitha Kalicheti](https://github.com/manvithakalicheti)
+
