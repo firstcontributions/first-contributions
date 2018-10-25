@@ -7864,6 +7864,7 @@ Orandi Harris
 - [Mouffy](https://github.com/mcampourcy)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
+- [krishana kumar](https://github.com/krishana18kumar)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
@@ -8022,5 +8023,4 @@ Orandi Harris
 - [Hậu Chử](https://github.com/hauchu1196)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Dumika Jayarathna](https://github.com/Dumika)
-- [krishana kumar](https://github.com/krishana18kumar)
 - [Ahad Ali](https://github.com/ahad80)
