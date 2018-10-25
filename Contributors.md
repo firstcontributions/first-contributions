@@ -7063,6 +7063,7 @@ Rohan Das
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
 - [Fleurevca Francois](https://github.com/FFrancois98)
+- [Lucia Stubnova](https://github.com/stubnovalucia)
 - [Conner Hogue](https://github.com/connerhogue)
 - [Tobias Stecker](https://github.com/iNoobSaibot)
 - [Sen M](https://github.com/senmadukkamoottil/)
