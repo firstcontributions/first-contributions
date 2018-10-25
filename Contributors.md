@@ -9392,6 +9392,7 @@ Rohan Das
 - [Eli Laudi](https://github.com/elitucker)
 - [Jerel Layog](https://github.com/jlayog/)
 - [Lucas Alves](https://github.com/lucasalves017/)
+- [Otman404](https://github.com/Otman404/)
 - [Sam Young](https://github.com/sammysamx20/)
 - [William Cori](https://github.com/coriwilliam/)
 - [Philipp Erck](https://github.com/philerck/)
