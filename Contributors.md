@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
@@ -11,6 +11,7 @@ Rajesh Verma
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [IrshadAnsari](https://github.com/irshadjsr21)
+- [TrishaAguinaldo](https://github.com/kronicle114)
 - [rozenstraws](https://github.com/rozenstraws)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
