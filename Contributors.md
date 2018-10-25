@@ -1315,6 +1315,7 @@ Patrizia Trammell
 - [Myles Brown](https://github.com/Myles2)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Julia Boschan](https://github.com/bjuli)
+- [Sagar Suri](https://github.com/surisagar900)
 - [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
 - [ClariSLover](https://github.com/s973125108)
