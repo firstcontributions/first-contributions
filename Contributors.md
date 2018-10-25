@@ -9420,3 +9420,4 @@ Rohan Das
 - [William Cori](https://github.com/coriwilliam/)
 - [Philipp Erck](https://github.com/philerck/)
 - [Dotzero](https://github.com/dotzero/)
+- [Lucas Coelho](https://github.com/LucasOliveiraCoelho/)
