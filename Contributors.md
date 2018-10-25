@@ -1766,6 +1766,7 @@ Patrizia Trammell
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Izabela Cardozo](https://github.com/izabela963)
+- [Alexander Ivanov](https://github.com/ivalexig)
 - [Ashutosh Sangwan](https://github.com/ashkkr)
 - [Rodrigo Andrade](https://github.com/rodrigodata)
 - [Keshav Seksaria](https://github.com/keshavseksaria)
