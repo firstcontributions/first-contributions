@@ -323,6 +323,7 @@ aalbusoiu
 - [Jason Lynch] (https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
+- [Jason Beals] (https://github.com/jbeals12)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)\
 - [Nahid Fatma](https://github.com/nfatma)
