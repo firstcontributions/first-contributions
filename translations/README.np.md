@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -17,7 +17,7 @@
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -49,10 +49,10 @@
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 
-<img align="right" width="300" src="assets/fork.png" alt="यो भण्डार फोर्क गर्नुहोस।" />
+<img align="right" width="300" src="../assets/fork.png" alt="यो भण्डार फोर्क गर्नुहोस।" />
 
 यदि तपाईंसँग तपाइँको मेशिनमा Git छैन, [यसलाई इन्स्टल गर्नुहोस्]( https://help.github.com/articles/set-up-git/).
 
@@ -61,7 +61,7 @@
 
 ## भण्डार क्लोन गर्नुहोस्
 
-<img align="right" width="300" src="assets/clone.png" alt="यो भण्डारलाई क्लोन गर्नुहोस्" />
+<img align="right" width="300" src="../assets/clone.png" alt="यो भण्डारलाई क्लोन गर्नुहोस्" />
 
 अब तपाइँको मेसिनमा फोर्क गरिएको रिपो क्लोन गर्नुहोस। तपाईंको GitHub खातामा जानुहोस्, फोर्क गरिएको रिपो खोल्नुहोस्, क्लोन बटनमा क्लिक गर्नुहोस् र त्यसपछि *copy to clipboard* आइकनमा क्लिक गर्नुहोस्।
 
@@ -72,7 +72,7 @@ git clone "url तपाईंले भर्खरै प्रतिलिप
 ```
 जहाँ "युआरएल तपाईंले भर्खरै प्रतिलिपि गर्नुभयो" (" चिन्हहरू बिना) यस भण्डारको url हो (यस परियोजनाको तपाईंको फोर्क)। Url प्राप्त गर्न अघिल्लो चरण हेर्नुहोस्।
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="URL लाई क्लिपबोर्डमा प्रतिलिपि बनाउनुहोस्" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="URL लाई क्लिपबोर्डमा प्रतिलिपि बनाउनुहोस्" />
 
 उदाहरणका लागि:
 ```
@@ -101,7 +101,7 @@ git checkout -b add-milap-neupane
 
 अब पाठ सम्पादकमा `Contributors.md` फाइल खोल्नुहोस्, यसलाई तपाईंको नाम थप्नुहोस्। फाइलको सुरुवात वा अन्त्यमा यसलाई जोड नगर्नुहोस्। यसलाई बीचमा राख्नुहोस्। अब, फाईल save गर्नुहोस्।
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 यदि तपाईं प्रोजेक्ट डाइरेक्टरीमा जानुहोस् र आदेश `git status` लाई कार्यान्वयन गर्नुहुन्छ भने,तपाइँ त्यहाँ परिवर्तनहरू देख्नुहुनेछ।
@@ -131,11 +131,11 @@ git push origin <शाखाको-नाम>
 
 यदि तपाईं GitHub मा तपाईंको भण्डारमा जानुहुन्छ भने, तपाइँ एक `तुलना गर्नुहोस् र अनुरोध अनुरोध गर्नुहोस् बटन 'देख्नुहुनेछ। त्यस बटनमा क्लिक गर्नुहोस्।
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="एउटा पुल अनुरोध सिर्जना गर्नुहोस्" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="एउटा पुल अनुरोध सिर्जना गर्नुहोस्" />
 
 अब pull request पेश गर्नुहोस्।
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 चाँडै म यस परियोजनाको मास्टर शाखामा तपाईका सबै परिवर्तनहरू मर्ज गर्नेछु। परिवर्तनहरू विलय भएपछि एक अधिसूचना इमेल प्राप्त गर्नुहुनेछ।
 
@@ -153,7 +153,7 @@ git push origin <शाखाको-नाम>
 
 ## ट्यूटोरियलहरू अन्य उपकरणहरू प्रयोग गर्दै
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
@@ -164,4 +164,4 @@ git push origin <शाखाको-नाम>
 [Twitter](https://twitter.com/sudo__bangbang) र
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
