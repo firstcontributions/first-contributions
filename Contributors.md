@@ -120,6 +120,7 @@ apleht
 - [Daman Tekchandani](https://github.com/daman98)
 - [Mancee](https://github.com/mancee)
 - [Roshith R](https://github.com/Roshith93)
+- [Niharika](https://github.com/niharikakrishnan)
 - [Steve Torrence](https://github.com/storrence88)
 - [FloridaMan](https://github.com/floridaman)
 - [SupunDamba](https://github.com/supun-kanda)
