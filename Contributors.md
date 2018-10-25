@@ -384,6 +384,7 @@ Patrizia Trammell
 - [Apurva Tripathi](https://github.com/alonemayank)
 - [Michael Helwig](https://github.com/FireSpaceBird)
 - [Yash Goyal](https://github.com/ygyash)
+- [laohanme](https://github.com/laohanme)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Michelle Vivita] (https://github.com/MichelleVivita)
 - [Diwaker Singh](https://github.com/diwakersurya)
