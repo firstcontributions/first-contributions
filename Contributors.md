@@ -12,6 +12,7 @@
 - [Michael Kolodziejski](https://github.com/Packetdude)
 - [Parker Dyer](https://github.com/parkerdyer)
 - meherpooja
+- [Eric Karschner](https://github.com/EricKarschner37)
 - [joranhezon](https://github.com/joranhezon)
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
