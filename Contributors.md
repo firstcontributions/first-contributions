@@ -9138,6 +9138,7 @@ Rohan Das
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
 - [Quan Yang Yeo](https://github.com/quanyang)
+- [Kevin-Ziechmann](https://github.com/kziechmann/)
 - [Dipak Yadav](https://github.com/dipakyadav)
 - [Dean Janzen](https://github.com/zendmaster)
 - [Alejandro Muñoz Crespo](https://github.com/amunozcr)
