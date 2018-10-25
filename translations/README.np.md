@@ -103,7 +103,7 @@ git push origin <शाखाको-नाम>
 
 बधाई छ! तपाईले _फर्क -> क्लोन -> सम्पादन -> PR_कार्यप्रवाह पूरा गर्नुभयो जुन तपाई प्राय: एक योगदानकर्ताको रूपमा सामना गर्नुहुनेछ!
 
-तपाईंको योगदान मनाउनुहोस् र आफ्नो साथी र अनुयायीहरूसँग [वेब अनुप्रयोग] मा जानुहोस् (https://roshanjossey.github.io/first-contributions/#social-share)।
+तपाईंको योगदान मनाउनुहोस् र आफ्नो साथी र अनुयायीहरूसँग [वेब अनुप्रयोग](https://roshanjossey.github.io/first-contributions/#social-share) मा जानुहोस्।
 
 तपाइँलाई कुनै पनि मद्दत चाहिन्छ वा कुनै प्रश्न छ भने तपाइँ हाम्रो स्लाक टोलीमा सामेल हुन सक्नुहुनेछ। [स्लाक टोलीमा सामेल हुनुहोस्](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
