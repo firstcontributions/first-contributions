@@ -364,6 +364,7 @@ Edison Shek
 - [Dawn Summerall](https://github.com/mintdawn)
 - [John Pasquesi](https://github.com/Jyckle)
 - [Krzysztof Radomski] (https://github.com/krzysztofradomski)
+- [Jack Gong](https://github.com/AwesomeJackify)
 - [Jose Hernandez](https://github.com/JHernandez99)
 - [Satyam Uttam]
 - [Matt Ackard](https://github.com/mattackard)
