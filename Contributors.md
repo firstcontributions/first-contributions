@@ -110,6 +110,7 @@ Ben
 - [Vipul Chodankar](https://github.com/whiplash7)
 - [Mayank Kanoria](https://github.com/mkanoria)
 - [MC_Leut](https://github.com/MCLeut)
+- [Sherif Dauda](https://github.com/sherifdauda)
 - [milindchawre](https://github.com/milindchawre)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
