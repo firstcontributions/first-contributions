@@ -54,6 +54,7 @@ Rajesh Verma
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
 - [JanellAmely](https://github.com/3CatMax)
+- [nightrainlily](https://github.com/nightrainlily)
   [Zach Chen](https://github.com/02zchen)
   [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
