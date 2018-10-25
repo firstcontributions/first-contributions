@@ -49,6 +49,7 @@ Rajesh Verma
 - [antonyjm462](https://github.com/antonyjm462)
 - [Chromium](https://github.com/CrCs2O4)
 - [Erneani](https://github.com/erneani)
+- [muchai](https://github.com/muchai)
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
 - [Aashita Arora](https://github.com/aashitaarora)
