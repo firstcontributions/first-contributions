@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
@@ -8999,6 +8999,7 @@ Rohan Das
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
+- [Benjamin Qu](https://github.com/CodeBool)
 - [Jude Osbert K](https://github.com/judeosbert)
   [Juwana Zerman](https://github.com/JZerman2018)
 - [Cholinka13](https://github.com/cholinka13)
