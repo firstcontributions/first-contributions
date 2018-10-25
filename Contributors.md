@@ -8718,6 +8718,7 @@ Benzene
 - [Crepp](https://github.com/crepp5299)
 - [Lucas Costa Oliveira](https://github.com/bolacha)
 - [Nehemiah K](https://github.com/nehemiahK)
+- [Michael Kane](https://github.com/mtkane0)
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Ulises Campos](https://github.com/Ulisescp97)
@@ -8913,4 +8914,4 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Michael Kane](https://github.com/mtkane0)
+
