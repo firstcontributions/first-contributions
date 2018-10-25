@@ -182,6 +182,7 @@ aalbusoiu
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
 - [Adam Murray] (https://github.com/Murraymint1804)
 - [iamtodor] (https://github.com/iamtodor)
+- [madisonjordan] (https://github.com/madisonjordan)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
@@ -9235,6 +9236,7 @@ Rohan Das
 - [Nubi Mayowa](https://github.com/nubimayowa)
 - [Shan muhammad] (https://github.com/shanmuhammad786)
 - [Narayanan Elavathur Ranganatha](https://github.com/naruarjun)
+- [Raunak Daga](https://github.com/raunakdaga/first)
 - [Harry Jung](https://github.com/hjung98)
 - [Dharmang Andhariya](https://github.com/dharmang)
 - [Emma Campbell](https://github.com/butterchaos)
@@ -9263,5 +9265,6 @@ Rohan Das
 - [Earle-Poole](https://github.com/earle-poole)
 - [Paul Mourer](https://github.com/pm0u)
 - [Tai Tan](https://github.com/ryotokuro)
-- [Ellie Solorio] (https://github.com/elliecodetheweb)
+- [Ellie Solorio] (https://github.com/elliecodetheweb
 - [Demetrius Dasilva] (https://github.com/demetrius99)
+- [WeeKent] (https://github.com/weekent)
