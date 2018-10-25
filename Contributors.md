@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -182,6 +182,7 @@ aalbusoiu
 - [Anmol Dhingra] (https://github.com/anmol-dhingra)
 - [Adam Murray] (https://github.com/Murraymint1804)
 - [iamtodor] (https://github.com/iamtodor)
+- [madisonjordan] (https://github.com/madisonjordan)
 - [Amish P.] (https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
