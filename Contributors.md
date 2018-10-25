@@ -6362,6 +6362,7 @@ Mayank Bansal
 - [avama](https://github.com/avama)
 - [Swapnil Ojha](https://github.com/swakansh/)
 - [Ian Fenwick](https://github.com/rokumsockum/)
+- [Zainab Nomi](https://github.com/zainabnomi)
 - [honka honka](https://github.com/honkahonka)
 - [Randy Harkediansa](https://github.com/harked/)
 - [Mohabdu](https://github.com/Mohabdu)
@@ -7581,4 +7582,5 @@ ynobry
 - [Idruk] (https://github.com/Idruk)
 - [Arsenei Abraamyan] (https://github.com/UlvacMoscow) 
 - [Law Zava] (https://github.com/lawzava) 
-- [Zainab Nomi] (https://github.com/zainabnomi)
+- [Viraj Chavan] (https://github.com/virajvchavan)
+
