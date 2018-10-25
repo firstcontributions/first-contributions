@@ -8930,6 +8930,7 @@ Rohan Das
 - [Dmitry](https://github.com/N0menIllisLegio)
 - [BreakTruth](https://github.com/BreakTruth)
 - [Guo Mukun](https://github.com/guomk)
+- [Akash Nidhi P S](https://github.com/SkyTreasure)
 - [Chamin Wickramarathna](https://github.com/ChaminW)
 - [strongwong](https://github.com/strongwong)
 - [Rajitha Gunathilake](https://github.com/RizkyRajitha)
