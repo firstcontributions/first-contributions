@@ -73,9 +73,9 @@ Você pode ver que há alterações no Contributors.md e elas foram adicionadas 
 
 Agora, commit essas mudanças:
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+Escreva a mensagem "Add `<your-name>` to Contributors list" no espaço *summary*
 
-Replace `<your-name>` with your name
+Subistitua `<your-name>` peloi seu nome
 
 Escreva a mensagem "Add ` <your-name> `à lista de contribuidores" no campo *summary*
 
@@ -85,41 +85,40 @@ Click no botão que diz `Commit to add-your-name`
 
 <img style="left;" src="assets/dt1-commit1.png" alt="commit your changes" />
 
-At the bottom, you can see that the commit has been created.
+Na parte inferior, você pode ver que o commit foi criado.
 
 <img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
 
-## Push changes to github
+## Push as mudanças para o github
 
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+Clique em File->Options e entre no Github.com. Digite seu nome de usuário e senha do Github.
 
 <img style="left;" src="assets/dt1-sign-in.png" alt="log-in to Github" />
 
-Click the `Publish` button on the top right.
-
+Clique no botão`Publish` no canto superior direito.
 <img style="left;" src="assets/dt1-publish1.png" alt="push your changes" />
 
-## Submit your changes for review
+## Envie suas mudanças para serem analisadas
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+Se você for ao seu repositório no github, você verá o botão `Compare & pull request`. clique nesse botão.
 
 <img style="left;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Agora, solicite o pull request.
 
 <img style="left;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Em breve estarei juntando todas as suas alterações na ramificação principal deste projeto. Você receberá um e-mail de notificação assim que as alterações forem mescladas(merged).
 
-## Where to go from here?
+## Para onde ir agora ?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Parabéns! Você acabou de completar o fluxo de trabalho basico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como colaborador!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Comemore sua contribuição e compartilhe-a com seus amigos e seguidores indo até [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Você pode se juntar nosso slack caso de precise de alguma ajuda ou tiver alguma dúvida. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Agora vamos começar contribuindo com outros projetos. Nós compilamos uma lista de projetos com problemas fáceis que você pode começar. Confira [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
 
@@ -132,9 +131,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Self-Promotion
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+Se você gostou deste projeto, favorite-o com um estrela no  [GitHub](https://github.com/Roshanjossey/first-contributions).
+Se estiver se sentindo especialmente caridoso, siga  [Roshan](https://roshanjossey.github.io/) no
+[Twitter](https://twitter.com/sudo__bangbang) e
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
