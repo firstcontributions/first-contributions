@@ -9178,6 +9178,7 @@ Rohan Das
 - [Bill Xi](https://github.com/element-sauce)
 - [Joao V Souto](https://github.com/JoaoVSouto)
 - [Priyendu Mori](https://github.com/priyendumori)
+- [Rui Neto](https://github.com/rnetonet)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
