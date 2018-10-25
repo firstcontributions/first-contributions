@@ -775,6 +775,7 @@ Patrizia Trammell
 - [JWoods](https://github.com/lbxadmin)
 - [Shubhadeep Das](https://github.com/dshubhadeep)
 - [Rishi](https://github.com/kookient)
+- [Jan van Helvoort](https://github.com/janvanhelvoort)
 - [Helena Klein]()
 - [David Murdock](https://github.com/Texas86)
 - [Robert Simatei](https://github.com/simatei)
