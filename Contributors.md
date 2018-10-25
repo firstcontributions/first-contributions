@@ -21,6 +21,7 @@ Rajesh Verma
 - [blank15](https://github.com/blank15)
 - [southton1992] (https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
+- [jephtahuche](https://github.com/jephtah)
 - [madza](https://github.com/madarsbiss)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [DanielBiegler](https://github.com/danielbiegler)
