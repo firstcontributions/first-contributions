@@ -2,7 +2,6 @@
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
-
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
@@ -9309,7 +9308,8 @@ Rohan Das
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
-- [Xavier Palomo] (https://github.com/xpalomoteruel)
+- [Xavier Palomo](https://github.com/xpalomoteruel)
+- [YuriCunha](https://github.com/YuriCunha)
 - [Alesandro Fidelis](https://github.com/AlesandroF)
 - [Akshama](https://github.com/Akshama)
 - [Jakob](https://github.com/J4K0B)
@@ -9381,4 +9381,3 @@ Rohan Das
 - [Emmanuel Barrios](https://github.com/emmanuelbar)
 - [Eli Laudi](https://github.com/elitucker)
 - [Jerel Layog](https://github.com/jlayog/)
-- [YuriCunha](https://github.com/YuriCunha)
