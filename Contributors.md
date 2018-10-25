@@ -3762,7 +3762,7 @@ Orandi Harris
 - [Attaphong Rattanaveerachanon](https://github.com/detohm)
 - [Santiago Mart?n Agra](http://github.com/santima10)
 - [Kamil Wojcicki](https://github.com/dsplabs)
-- [Dennis Truong](https://github.com/dt9)
+- [Dennis T](https://github.com/dt9)
 - [John Eddie Ayson](https://github.com/aysonje)
 - [MMuIT](https://github.com/MMuIT)
 - [Przemek](https://github.com/Przemek19)
