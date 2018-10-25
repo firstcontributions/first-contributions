@@ -9375,3 +9375,4 @@ Rohan Das
 - [Daniel Zaharia](https://github.com/coronasco)
 - [Andrew Errico](https://github.com/andrewerrico)
 - [Brian Lowe](https://github.com/5qu1n7)
+- [Eli Laudi](https://github.com/elitucker)
