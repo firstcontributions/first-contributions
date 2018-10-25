@@ -274,6 +274,7 @@ aalbusoiu
 - [thinkinbee](https://github.com/thinkinbee)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Griffin Gaeth](https://github.com/ggaeth)
+- [Bolaram Paul](https://github.com/bolaram)
 - [Karen Tobo](https://github.com/karentobo)
 - [Kelvin Romero](https://github.com/kelvinromero)
 - [Kalana Wijethunga](https://github.com/kelvinromero)
