@@ -2,6 +2,7 @@
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
+
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
@@ -9380,3 +9381,4 @@ Rohan Das
 - [Emmanuel Barrios](https://github.com/emmanuelbar)
 - [Eli Laudi](https://github.com/elitucker)
 - [Jerel Layog](https://github.com/jlayog/)
+- [YuriCunha](https://github.com/YuriCunha)
