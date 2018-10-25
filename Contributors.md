@@ -715,6 +715,7 @@ Patrizia Trammell
 - eaguy
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
+- [Joseph Crandal](https://github.com/crandalj)
 - [Jewel Jo Prince](https://github.com/jeweljoppan)
 - [Courtney Adams](https://github.com/cadams8238)
 - [NonoK32](https://github.com/NonoK32)
