@@ -9219,6 +9219,7 @@ Rohan Das
 - [Matt Clinton](https://github.com/clnt)
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
+- [Argha Sen](https://github.com/arghasen)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Janess](https://github.com/janees1996)
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
