@@ -8832,6 +8832,7 @@ Rohan Das
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
 - [Yang Wang](https://github.com/GH2005/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
+- [Vijoy Gopalan](https://github.com/vijoyg )
 - [Max Taylor](https://github.com/twally3)
 - [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
