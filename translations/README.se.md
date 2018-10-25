@@ -106,9 +106,9 @@ Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett
 
 ## Hur går man vidare?
 
-Gratulerar! Du har just genomfört standardprocessen för _fork -> clone -> edit -> PR_, en process du kommer att stöta på ofta!
+Gratulerar! Du har just genomfört standardprocessen _fork -> clone -> edit -> PR_, en process du kommer att stöta på ofta!
 
-Fira genom att dela med dina vänner och följare genom att gå till [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Fira genom att dela med dina vänner och följare genom att gå till vår [web-app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Behöver du hjälp eller vill ställa frågor kan du gå med i vår slack-grupp. [Gå med i slack-gruppen](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
