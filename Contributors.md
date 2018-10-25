@@ -4568,6 +4568,7 @@ Orandi Harris
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
 - [Poomulus](https://github.com/Poomulus)
 - [Ivan Mendez](https://github.com/imendez)
+- [Edward Stewart](https://github.com/estewdotart)
 - [Sikander Singh](https://github.com/sikander441)
 - [Jade Dhangwattanotai](https://github.com/jadedh)
 - [Kun Peng](https://github.com/Kun17)
