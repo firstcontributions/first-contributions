@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [polyglotyeoja](https://github.com/polyglotyeoja)
+
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
@@ -173,6 +173,7 @@ aalbusoiu
 -gagan kumar)
 - [Andrew Callaway](https://github.com/CasperEvil)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [polyglotyeoja](https://github.com/polyglotyeoja)
 - [Nishat Shama](https://github.com/nishatshama)
 - [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster] (https://github.com/kafoster11)
