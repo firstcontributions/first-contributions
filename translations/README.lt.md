@@ -96,7 +96,7 @@ Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projek
 ## Kas toliau?
 
 Džiaukitės ir atkreipkite dėmesį į savo įnašą pasidalindami šia žinia su draugais [interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#social-share).
-
+ 
 Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#project-list).
