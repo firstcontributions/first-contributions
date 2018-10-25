@@ -9383,4 +9383,4 @@ Rohan Das
 - [Eli Laudi](https://github.com/elitucker)
 - [Jerel Layog](https://github.com/jlayog/)
 - [Lucas Alves](https://github.com/lucasalves017/)
-  [Otman404](https://github.com/Otman404/)
+- [Otman404](https://github.com/Otman404/)
