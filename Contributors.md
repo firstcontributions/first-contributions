@@ -5188,8 +5188,6 @@ Rohan Das
 - [Anshuman Chakravarty](https://github.com/anshu1997)
 - [Luis Parra](https://github.com/lparra)
 - [Evgeny Pavlov](https://github.com/kindanoob)
-- [Petr Janik](https://github.com/petr7555)
-- [Petr Janik](https://github.comjjjjjj/petr7555)
 - [Sarthak Singhal](https://github.com/sarthak77)
 - [Patrick Naughton](https://github.com/patricknaughton01)
 - [Nina R](https://github.com/ASTG17)
@@ -9428,3 +9426,4 @@ Rohan Das
 - [Philipp Erck](https://github.com/philerck/)
 - [Dotzero](https://github.com/dotzero/)
 - [Kenny Hong](https://github.com/kennyhong)
+- [Petr Janik](https://github.com/petr7555)
