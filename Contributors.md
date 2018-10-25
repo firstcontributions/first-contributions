@@ -1,6 +1,5 @@
 # Contributors
 
-- [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
@@ -9439,3 +9438,4 @@ Rohan Das
 - [Philipp Erck](https://github.com/philerck/)
 - [Dotzero](https://github.com/dotzero/)
 - [Kenny Hong](https://github.com/kennyhong)
+- [Pedro Moreira Mano](https://github.com/PeHMAlmeida)
