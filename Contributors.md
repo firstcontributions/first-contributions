@@ -34,6 +34,7 @@ Rajesh Verma
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [Raees Nazeer](https://github.com/raeesnazeer)
 - [FriendlyMafia](https://github.com/dattvidc)
 - [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
