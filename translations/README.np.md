@@ -160,8 +160,8 @@ git push origin <शाखाको-नाम>
 ## आत्म-संवर्धन
 
 यदि तपाईंले यो प्रोजेक्ट मनपर्यो भने, यसलाई [GitHub](https://github.com/Roshanjossey/first-contributions) मा तारा दिनुहोस्।
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+यदि तपाइँ विशेष गरी धैर्य महसुस गर्नुहुन्छ भने, पछ्याउनुहोस् [Roshan](https://roshanjossey.github.io/) on
+[Twitter](https://twitter.com/sudo__bangbang) र
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
