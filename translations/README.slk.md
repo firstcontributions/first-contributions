@@ -10,7 +10,7 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 
 Čítanie článkov a sledovanie tutoriálov môže pomôcť, ale čo je lepšie, ako skutočne robiť veci v skúšobnom prostredí? Cieľom tohto projektu je poskytnúť usmernenie a zjednodušiť spôsob, akým prvýkrát prispievajú začiatočníci. Ak máš záujem o prvý príspevok, postupuj podľa nižšie uvedených krokov.
 
-#### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #tutorials-using-other-tools )*
+#### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #návody-pomocou-iných-nástrojov )*
 
 #### *Prečítaj si to v [ostatných jazykoch](translations/Translations.md).*
 
