@@ -10,7 +10,7 @@
 
 #### *यदि तपाईं कमांड रेखासँग सहज हुनुहुन्न भने, [यहाँ GUI उपकरणहरू प्रयोग गरेर ट्यूटोरियलहरू छन्।]( #tutorials-using-other-tools )*
 
-#### *यो अन्य [भाषाहरूमा](translations/Translations.md) पढ्नुहोस्।*
+#### *यो अन्य [भाषाहरूमा](Translations.md) पढ्नुहोस्।*
 
 <img align="right" width="300" src="../assets/fork.png" alt="यो भण्डार फोर्क गर्नुहोस।" />
 
