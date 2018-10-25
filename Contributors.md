@@ -15,6 +15,7 @@
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [mrjomp](https://github.com/mrjomp)
+- [corxrew](https://github.com/corxrew)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
