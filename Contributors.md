@@ -569,6 +569,7 @@
 - [Kurtis Taylor](https://github.com/quietgiant)
 - [Dhanush c](https://github.com/dhanush13-c)
 - [Claire Russell](https://github.com/clairefied)
+- [Varsha-Vasudevan](https://github.com/Varsha-Vasudevan) 
 - [airbnben](https://github.com/airbnben)
 - [qsunnx](https://github.com/qsunnx)
 - [Niharika Shrivastava](https://github.com/orionstar25)
@@ -835,6 +836,3 @@
 - [Josix](https://github.com/wilson8507)
 - [Dave Gray](https://github.com/gitdagray)
 - [Guy Livni](https://github.com/GuyLivni)
-- [Nikhil](https://github.com/nikhilpsathyanathan)
--[JincyPS] https://github.com/JincyPS 
--[Varsha-Vasudevan](https://github.com/Varsha-Vasudevan) 
