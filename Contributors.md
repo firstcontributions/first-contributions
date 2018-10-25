@@ -8693,6 +8693,7 @@ Benzene
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
+- [Erez](https://github.com/ErezSchwartz)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
@@ -8897,4 +8898,4 @@ Benzene
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Warun](https://github.com/ubinix-warun)
 - [Yamin](https://github.com/yaminmhd)
-- [Erez](https://github.com/ErezSchwartz)
+
