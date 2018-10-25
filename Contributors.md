@@ -83,6 +83,7 @@ Rajesh Verma
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
 - [David Ross](https://github.com/DavidRoss3)
+- [Aman Nim](https://github.com/AmanNim98)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [strobelt](https://github.com/strobelt)
 - [stu01509](https://github.com/stu01509)
