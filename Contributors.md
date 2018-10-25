@@ -7347,6 +7347,7 @@ Rohan Das
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
+- [Raju Kalidindi](https://github.com/RajuKalidindi)
 - [Stole P]()
 - [Kieran Ramnarine](https://github.com/DongerZone)
 - [J. Gravse](https://github.com/jwgravesfl)
