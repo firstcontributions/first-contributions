@@ -739,6 +739,7 @@ Patrizia Trammell
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Anurag Kumar](https://github.com/kgloc)
+- [darthHunterous](https://github.com/darthHunterous)
 - [Matt Keeneth](https://github.com/mkeeneth)
 - [Sanket Bhat](https://github.com/SanketBhat)
 - [Andres Macias](https://github.com/webDevAndres)
