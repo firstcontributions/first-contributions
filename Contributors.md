@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -34,6 +34,7 @@
 - [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [kananthav](https://github.com/kananthav)
 - [naman](https://github.com/nbanati)
+- [Jared Moser](https://github.com/JM0S3R)
 - [Caique](https://github.com/caiqueff)
 - [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
