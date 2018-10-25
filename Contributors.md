@@ -30,7 +30,7 @@ Rajesh Verma
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [FriendlyMafia](https://github.com/dattvidc)
-- [southton1992] (https://github.com/southton1992)
+- [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
 - [madza](https://github.com/madarsbiss)
