@@ -47,6 +47,7 @@
 - [Summit Suen](https://github.com/suensummit)
 - [Aashita Arora](https://github.com/aashitaarora)
 - [Aslam](https://github.com/Hotdogcode)
+- [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [strobelt](https://github.com/strobelt)
 - [stu01509](https://github.com/stu01509)
