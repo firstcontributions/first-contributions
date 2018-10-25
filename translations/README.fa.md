@@ -8,9 +8,6 @@
 <p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
 <p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ حدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
   
-#### *Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), 
- [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Arabic](README.ar.md).*
-
 
 <p dir="rtl">اگه روی دستگاهت گیت نداری. نصبش کن
 <a href="https://help.github.com/articles/set-up-git/">https://help.github.com/articles/set-up-git/</a>.</p>
