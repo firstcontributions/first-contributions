@@ -8680,6 +8680,7 @@ Benzene
 - [Japin Li](https://github.com/japinli)
 -sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
+- [Frank Carlone](https://github.com/fcarlone)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
@@ -8805,4 +8806,4 @@ Benzene
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Nikos](https://github.com/linakis)
 - [Adi Biton](https://github.com/adibiton)
-- [Frank Carlone](https://github.com/fcarlone)
+
