@@ -24,6 +24,7 @@ Rajesh Verma
 - [jephtahuche](https://github.com/jephtah)
 - [madza](https://github.com/madarsbiss)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
+- [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
