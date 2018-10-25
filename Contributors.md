@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -4078,6 +4078,7 @@ Orandi Harris
 - [Aaliyah Ahmed](https://github.com/aaliyah03)
 - [Michael Smith](https://github.com/mbsmi)
 - [Yasin Hosseinpur](https://github.com/yashoss)
+- [Hunter J](https://github.com/HunterTheSnake)
 - [Asaf Ofer](https://github.com/asafofer)
 - [Arthur van Acker](https://github.com/Arturio1970)
 - [Ralph Chen](https://github.com/xralphack)
