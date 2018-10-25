@@ -9,6 +9,7 @@ Rajesh Verma
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
 - [Bhavy](https://github.com/bhavy007)
+- [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
