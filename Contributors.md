@@ -8796,3 +8796,4 @@ Benzene
 - [Andrei Luis] (https://github.com/AndreiLuis)
 - [Beatriz Miranda](https://github.com/BeaMtrix)
 - [Deise Silva](https://github.com/AtreydesKS)
+- [Eric Monteiro Galotti de Souza](https://github.com/EricMGS)
