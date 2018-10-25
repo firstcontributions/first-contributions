@@ -9378,3 +9378,4 @@ Rohan Das
 - [Brian Lowe](https://github.com/5qu1n7)
 - [Emmanuel Barrios](https://github.com/emmanuelbar)
 - [Eli Laudi](https://github.com/elitucker)
+- [Jerel Layog](https://github.com/jlayog/)
