@@ -194,6 +194,7 @@ aalbusoiu
 -gagan kumar)
 - [Andrew Callaway](https://github.com/CasperEvil)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [polyglotyeoja](https://github.com/polyglotyeoja)
 - [Nishat Shama](https://github.com/nishatshama)
 - [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster] (https://github.com/kafoster11)
