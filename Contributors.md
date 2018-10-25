@@ -9250,6 +9250,7 @@ Rohan Das
 - [Darshan Sharma](https://darshansharma.github.io)
 - [Shikha Tiwari](https://github.com/allenqueen)
 - [Mani Bhushan](https://github.com/manibhushan)
+- [Michelson Henrik](https://github.com/michelsonhns)
 - [Shamim Mukhtar](https://github.com/ShamimMukhtar)
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
