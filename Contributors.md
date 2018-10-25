@@ -9120,6 +9120,7 @@ Rohan Das
 - [Gavin McDonald](https://github.com/Gavmcdonald)
 - sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
+- [Frank Carlone](https://github.com/fcarlone)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
