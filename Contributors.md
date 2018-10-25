@@ -4030,6 +4030,7 @@ Orandi Harris
 - [blue98](https://github.com/blue98)
 - [Ravi kishore Thella](https://github.com/ravikishorethella)
 - [Nico Kelds](https://github.com/nicokelds)
+- [Chichifu](https://github.com/Chichifu)
 - [Drew Rautenerg](https://github.com/drewrautenberg)
 - [Daniel Wang](https://github.com/meow404)
 - [kunwar97](https://github.com/kunwar97)
