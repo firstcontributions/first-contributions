@@ -9206,6 +9206,7 @@ Rohan Das
 - [Sarah Chaisson](https://github.com/schaisso)
 - [Ashi Joshi](http://github.com/AshiJoshi)
 - [Guillaume Monzerol](https://github.com/gmonz36)
+- [Adil Ameeq](https:/github.com/adilameeq)
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Derry Handoyo](https://github.com/derryhandoyo)
