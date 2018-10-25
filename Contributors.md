@@ -4657,6 +4657,7 @@ Orandi Harris
 - [Derrick Williams](https://github.com/derrickaw)
 - [Ajith Pandian](https://github.com/Ajith-Pandian)
 - [Emerson Lopes](https://github.com/emersonlbr)
+- [Loan Gauchat](https://github.com/Loan28)
 - [Rahul Roshan](https://github.com/rahulroshan96)
 - [Yong Cho](https://github.com/YongCho)
 - [Zaid Bourini](https://github.com/UnknownHacker1125)
