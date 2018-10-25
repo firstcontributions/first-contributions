@@ -321,6 +321,7 @@ aalbusoiu
 - [Rishabh Sharma]
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
+- Peter R [https://github.com/peterr101]
 - [Tyler Clark]
 - [Chase Terry] (https://github.com/cdterry87)
 - [Jason Lynch] (https://github.com/Tessituraa)
