@@ -7076,6 +7076,7 @@ Rohan Das
 - [Roberto Orozco](https://github.com/robertoissc)
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
+- [Harman Kahlon](https://github.com/drajingo)
 - [Fleurevca Francois](https://github.com/FFrancois98)
 - [Lucia Stubnova](https://github.com/stubnovalucia)
 - [Conner Hogue](https://github.com/connerhogue)
