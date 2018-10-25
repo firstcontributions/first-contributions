@@ -8578,6 +8578,7 @@ Rohan Das
 - [Jackie Owen](https://github.com/jackie1969)
 - [IgnasA](https://github.com/IgnasA)
 - [Saswat]
+- [John Kryspin](https://github.com/jibbey)
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
 - [Ratanaksamrith You](https://github.com/yrsamrith)
