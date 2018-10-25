@@ -20,6 +20,7 @@ Rajesh Verma
 - [rozenstraws](https://github.com/rozenstraws)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
+- [axux](https://github.com/axux)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
