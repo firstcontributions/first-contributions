@@ -45,6 +45,7 @@ Rajesh Verma
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
+- [QrBe](https://github.com/QrBe)
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
 - [JanellAmely](https://github.com/3CatMax)
