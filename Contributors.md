@@ -9252,7 +9252,7 @@ Rohan Das
 - [Carlo Carlo Lizano](https://github.com/clizano)
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
-- [Nadheera](https://github.com/Nadheera)
+- [Nadhera](https://github.com/Nadheera)
 - [Pasan Yasara](https://github.com/pasanyasara)
 - [Jeojhx](https://github.com/jeojhx)
 - [Shailesp](https://github.com/shailesp)
@@ -9269,3 +9269,4 @@ Rohan Das
 - [Tai Tan](https://github.com/ryotokuro)
 - [Ellie Solorio] (https://github.com/elliecodetheweb)
 - [WeeKent] (https://github.com/weekent)
+- [Symon Cristhian] (https://github.com/s4imu)
