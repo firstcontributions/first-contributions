@@ -1,5 +1,6 @@
 # Contributors
 
+- [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
