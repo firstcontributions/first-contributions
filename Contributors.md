@@ -9279,3 +9279,4 @@ Rohan Das
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
 - [Sharath George M](https://github.com/sharathgeorgem)
 - [Taylor Ellis](https://github.com/TayEllis)
+- [Hatsanai Decha](https://github.com/roshannsp)
