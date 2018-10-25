@@ -8580,6 +8580,7 @@ Rohan Das
 - [Eric Ng](https://github.com/nacleric)
 - [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Hossam Eissa](https://github.com/HosamEissa)
+- [Ali mughal](https://github.com/ali-1947)
 - [Jaicke Santos](https://github.com/Jaicke)
 - [benzammour](https://github.com/benzammour)
 - [Shakib Ahmed](https://github.com/shakib1729)
