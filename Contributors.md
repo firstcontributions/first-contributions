@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Jessica Wilson](https://github.com/Jlw2uc)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -109,7 +110,6 @@ JOON JANG JOON JANG
 Ben
 - [nuntjw](https://github.com/nuntjw)
 - [fullheightcoding](https://github.com/fullheightcoding)
-
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
@@ -249,7 +249,6 @@ aalbusoiu
 - [J.R. Strayhorn ](https://github.com/jrstrayhorn)
 - [Lex Saplan](https://github.com/zanderlx)
 - [Bryan Rojas](https://github.com/bryan-rojas)
-- [Rebecca Tjandra] (https://github.com/rebaka)
 - [Pranshu Pranjal](https://github.com/pranshupranjal)
 - [Aris Nguyen](https://github.com/arisng)
 - [Vivek](https://github.com/vickygopalshetty)
