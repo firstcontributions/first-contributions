@@ -3402,6 +3402,7 @@ Orandi Harris
 - [David Webb](https://github.com/davidw76)
 - [CodeInBit](https://github.com/codeinbit)
 - [Noor Thabit](https://github.com/pionoor)
+- [Svetlana Lana](https://github.com/Svetula/)
 - [Ryan Slade](https://github.com/rdslade)
 - [Chris Cerilli](http://github.com/chrisacerilli)
 - [Phillip Drake](https://github.com/pldrake26)
