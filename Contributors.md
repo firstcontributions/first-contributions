@@ -14,6 +14,7 @@
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [Raees Nazeer](https://github.com/raeesnazeer)
 - [madza](https://github.com/madarsbiss)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [nualluan](https://github.com/naulluan)
