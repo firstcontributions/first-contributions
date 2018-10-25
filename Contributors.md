@@ -94,6 +94,7 @@ Alvin
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
+- [Arnastria](https://github.com/arnastria)
 - [Sasho Irkov](https://github.com/2121159i)
 JOON JANG JOON JANG
 - [Jeet Maity] (https://github.com/jeet-maity)
