@@ -43,6 +43,7 @@ Rajesh Verma
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
+- [MalkaSaba](https://github.com/malkasaba)
 - [ChristopherCarr](https://github.com/christocarr)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
