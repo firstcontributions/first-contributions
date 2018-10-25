@@ -8829,6 +8829,7 @@ Rohan Das
 - [Ryan OHara](http://github.com/rao4)
 - [Ashwin.C.V](http://github.com/ashwincv)
 - [Eraldo Jr](http://github.com/ejr004)
+- [Jolaoso Yusuf](https://github.com/MaestroJolly/)
 - [Andrew Pedersen](https://github.com/andimalfresh/)
 - [gorkemkrdmn](https://github.com/gorkemkrdmn)
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
