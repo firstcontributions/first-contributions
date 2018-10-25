@@ -9277,3 +9277,4 @@ Rohan Das
 - [WeeKent] (https://github.com/weekent)
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
 - [Sharath George M](https://github.com/sharathgeorgem)
+- [Taylor Ellis](https://github.com/TayEllis)
