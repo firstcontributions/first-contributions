@@ -4,6 +4,7 @@
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
+- [Brenno Barboza](https://github.com/dwarfthief)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
