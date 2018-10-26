@@ -384,7 +384,8 @@
 - [Tornike Gomareli](https://github.com/tornikegomareli)
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
-- [Keith Watson](https://github.com/WhowantsToknow)
+- [Keith Watson]
+- [Francisco Nascimento](https://github.com/WhowantsToknow)
 - [Jean Zombie]
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
