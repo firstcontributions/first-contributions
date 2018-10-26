@@ -24,6 +24,7 @@
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
+[:slovakia:](README.slk.md)
 [🇯🇵](translations/README.ja.md)
 [🇻🇳](translations/README.vn.md)
 [🇵🇱](translations/README.pl.md)
