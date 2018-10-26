@@ -24,6 +24,7 @@ ashwini
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
+- [C Barringhaus] (https://github.com/cheriesyb)
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
