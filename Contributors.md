@@ -22,6 +22,7 @@ Rajesh Verma
 - [aalizwel23](https://github.com/aalizwel23
 - [gormleymark] (https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
+- [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Jacob Higbee](https://github.com/JacobHigbee)
