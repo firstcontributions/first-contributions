@@ -9580,3 +9580,4 @@ quattad
 - [Jorge Galat](https://github.com/jgalat)
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Ya Dro](https://github.com/MrYadro)
+- [Camilo Ibarra] (https://github.com/camiloibarrayepes)
