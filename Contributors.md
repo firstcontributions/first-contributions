@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -[shanto] (https://github.com/shanto) 
 
 - [Ihoey](https://github.com/ihoey)
@@ -9543,6 +9543,7 @@ quattad
 - [Ashik](https://github.com/lonelycoder2004)
 - [babk](https://github.com/babk)
 - [Safwan](https://github.com/safwankdb)
+- [bpierce1111](https://github.com/bpierce1111)
 - [Naren](https://github.com/narensh)
 - [Brandon Doyle](https://github.com/bjd2385)
 - [Michael Matherson](https://github.com/michaelmatherson)
