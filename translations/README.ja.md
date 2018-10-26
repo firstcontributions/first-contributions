@@ -12,8 +12,6 @@
 
 #### *コマンドラインでの操作に慣れていない場合、[グラフィカルなツールでもチュートリアルを行えます。]( #その他のツールを使用したチュートリアル )*
 
-#### *[他の言語](../Translations.md)で読む。*
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 まだGitをインストールしていない場合は、[ここ](https://help.github.com/articles/set-up-git/)からインストールしてください
