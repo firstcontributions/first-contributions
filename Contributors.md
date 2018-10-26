@@ -40,6 +40,7 @@ Rich Herbert
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
+- [Kevin Johnston](https://github.com/kevdotdev)
 - [shreyansh] (https://github.com/shreyansh08)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
