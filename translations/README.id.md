@@ -10,6 +10,49 @@ Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama ketika
 
 Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
+#### *Baca dalam [bahasa lainnya](../Translations.md)* 
+
+[🇬🇧](../README.md)
+[🇮🇳](translations/README.hi.md)
+[🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.id.md)
+[🇫🇷](translations/README.fr.md)
+[🇪🇸](translations/README.es.md)
+[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[🇳🇱](translations/README.nl.md)
+[🇱🇹](translations/README.lt.md)
+[🇷🇺](translations/README.ru.md)
+[:slovakia:](translations/README.slk.md)
+[🇯🇵](translations/README.ja.md)
+[🇻🇳](translations/README.vn.md)
+[🇵🇱](translations/README.pl.md)
+[🇮🇷](translations/README.fa.md)
+[🇮🇷](translations/README.fa.en.md)
+[🇰🇷 🇰🇵](translations/README.ko.md)
+[🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
+[🇨🇳](translations/README.chs.md)
+[🇹🇼](translations/README.cht.md)
+[🇬🇷](translations/README.gr.md)
+[🇪🇬](translations/README.eg.md)
+[🇸🇦](translations/README.ar.md)
+[🇺🇦](translations/README.ua.md)
+[🇧🇷](translations/README.pt_br.md)
+[🇵🇹](translations/README.pt-pt.md)
+[🇮🇹](translations/README.it.md)
+[🇹🇭](translations/README.th.md)
+[🏴](translations/README.gl.md)
+[🇵🇰](translations/README.ur.md)
+[:bangladesh:](translations/README.bn.md)
+[🇲🇩 🇷🇴](translations/README.ro.md)
+[🇹🇷](translations/README.tr.md)
+[🇸🇪](translations/README.se.md)
+[:slovenia:](translations/README.sl.md)
+[🇮🇱](translations/README.hb.md)
+[🇨🇿](translations/README.cs.md)
+[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[🇲🇽](translations/README.mx.md)
+
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles/set-up-git/ ).
