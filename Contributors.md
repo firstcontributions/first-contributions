@@ -79,6 +79,7 @@ Rich Herbert
 - [Thuhini](https://github.com/Thuhini)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
+- [Moon Light](https://github.com/Moon4Light)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [MalkaSaba](https://github.com/malkasaba)
 - [ChristopherCarr](https://github.com/christocarr)
@@ -371,7 +372,6 @@ aalbusoiu
 - Peter R [https://github.com/peterr101]
 - [Tyler Clark]
 - [Chase Terry] (https://github.com/cdterry87)
-[dhairya] (https://github.com/arLong-98)
 - [Jason Lynch] (https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
