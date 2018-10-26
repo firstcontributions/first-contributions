@@ -19,6 +19,7 @@ Rajesh Verma
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
+- [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
