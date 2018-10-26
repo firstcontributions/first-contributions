@@ -75,9 +75,9 @@ en remplaçant `<votre-nom>` par votre nom.
 
 Poussez vos modifications avec la commande `git push` :
 ```
-git push origin <add-votre-nom>
+git push origin <ajouter-votre-nom>
 ```
-en remplaçant `<add-votre-nom>` avec le nom de la branche précédemment créée.
+en remplaçant `<ajouter-votre-nom>` avec le nom de la branche précédemment créée.
 
 ## Soumettez vos changements pour révision
 
