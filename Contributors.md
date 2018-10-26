@@ -371,6 +371,7 @@ aalbusoiu
 - Peter R [https://github.com/peterr101]
 - [Tyler Clark]
 - [Chase Terry] (https://github.com/cdterry87)
+[dhairya] (https://github.com/arLong-98)
 - [Jason Lynch] (https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
