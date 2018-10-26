@@ -28,5 +28,6 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 23. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+26. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Keep adding more links, that you find helpful.
