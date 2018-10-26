@@ -100,6 +100,7 @@ Rich Herbert
 - [Aashita Arora](https://github.com/aashitaarora)
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
+- [L Shirto](https://github.com/leroyshirtoFH)
 - [wxia33](https://github.com/Wxia33)
 - [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
