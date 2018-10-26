@@ -70,6 +70,7 @@ Rich Herbert
 - [DanielBiegler](https://github.com/danielbiegler)
 - [MalkaSaba](https://github.com/malkasaba)
 - [ChristopherCarr](https://github.com/christocarr)
+- [Santiago Mas] (https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
