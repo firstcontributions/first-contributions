@@ -1,5 +1,5 @@
 ﻿# Contributors
--[shanto] (https://github.com/shanto) 
+-[shanto] (https://github.com/shanto)
 
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
@@ -7614,6 +7614,7 @@ Rohan Das
 - [Jack Lim](https://github.com/thecodingjack)
 - [Joseph Climber](https://github.com/liobr)
 - [Ryzal Kamis](https://github.com/ryzalk)
+- [cetLEE](https://github.com/cetLEE)
 - [avama](https://github.com/avama)
 - [Swapnil Ojha](https://github.com/swakansh/)
 - [Ian Fenwick](https://github.com/rokumsockum/)
