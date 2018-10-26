@@ -9544,3 +9544,4 @@ quattad
 - [Ryo Arima](https://github.com/nozira)
 - [R Praveen Pai](https://github.com/praveenpi)
 - [Aathif Nihas](https://github.com/aathifnihas)
+- [Samantha L Gibson](https://github.com/samanthalgibson)
