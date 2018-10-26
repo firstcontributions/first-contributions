@@ -9561,3 +9561,4 @@ quattad
 - [Dzaki Afif](https://github.com/dzakiafif)
 - [Jay Perez](https://github.com/Rolys)
 - [Jorge Galat](https://github.com/jgalat)
+- [Geraldo Castro](https://github.com/victormatheusc)
