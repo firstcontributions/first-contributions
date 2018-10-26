@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
@@ -21,6 +21,7 @@ Rajesh Verma
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23
 - [gormleymark] (https://github.com/gormleymark)
+- [Thiago Camargo](https://github.com/arthigos)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
