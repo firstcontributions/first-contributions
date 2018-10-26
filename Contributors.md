@@ -9560,3 +9560,4 @@ quattad
 - [Samantha L Gibson](https://github.com/samanthalgibson)
 - [Dzaki Afif](https://github.com/dzakiafif)
 - [Jay Perez](https://github.com/Rolys)
+- [Sameer Malik](https://github.com/sameermalik20aug)
