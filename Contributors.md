@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ihoey](https://github.com/ihoey)
 - [Aditya Gupta](https://github.com/6aditya8)
@@ -81,6 +81,7 @@ Rich Herbert
 - [mrjomp](https://github.com/mrjomp)
 - [Mike Allen](https://github.com/mallenjr)
 - [JanellAmely](https://github.com/3CatMax)
+- [Pusakiller](https://github.com/Pusakiller)
 - [nightrainlily](https://github.com/nightrainlily)
   [Zach Chen](https://github.com/02zchen)
   [kostaslib](https://github.com/kostaslib)
