@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ihoey](https://github.com/ihoey)
 - [Aditya Gupta](https://github.com/6aditya8)
@@ -5022,6 +5022,7 @@ Rohan Das
 - [Roger Lu](https://github.com/rogerlu69)
 - [Salil Shenoy](https://github.com/SalilShenoy)
 - [Steven L](https://github.com/sliw)
+- [Ted Wennerström](https://github.com/de11ed)
 - [Astrid Varga](https://github.com/AstiV)
 - [Steven E](https://github.com/stevenengelen)
 - [Dhruv Chauhan](https://github.com/dhruv-chauhan)
