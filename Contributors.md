@@ -47,6 +47,7 @@ Rich Herbert
 - [Mylonio]()
 - [Michal123pl] (https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
+- [Szilvi Horvath](https://github.com/SzilviH)
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
@@ -9591,4 +9592,3 @@ quattad
 - [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
-
