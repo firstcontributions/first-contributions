@@ -46,6 +46,7 @@ Rich Herbert
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
+- [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
