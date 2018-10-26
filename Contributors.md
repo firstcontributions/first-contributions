@@ -8341,6 +8341,7 @@ Rohan Das
 - [Anusha M](https://github.com/coder90875)
 - [Nelson Chinedu](https://github.com/Nelson-Chinedu)
 - [Pakornsak](https://github.com/pakornsak)
+- [Jamie Rodriguez](https://github.com/Jamie705)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
