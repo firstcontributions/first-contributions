@@ -971,6 +971,7 @@ Patrizia Trammell
 - [rciupei](https://github.com/rciupei)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
 - [Zachary Dixon](https://github.com/zachdixon)
+- [David Goodell](https://github.com/Pluto71)
 - [Caleb Jasik](https://github.com/jasikpark)
 - [nkmurthy](https://github.com/nkmurthy-karatekid)
 - [Siddharth Gupta](https://github.com/luckywilliams)
