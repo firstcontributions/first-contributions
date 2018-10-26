@@ -9593,4 +9593,5 @@ quattad
 - [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
+- [Danilo Mauricio](https://github.com/danmauriciobrazil)
 
