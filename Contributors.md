@@ -254,7 +254,8 @@
 - [Md Tausif Ahmad](https://github.com/mdtausifahmad)
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
-- [yusufcodes] (https://github.com/yusufcodes) - [Colton Boston](https://github.com/ColtonBoston)
+- [Colton Boston](https://github.com/ColtonBoston)
+- [yusufcodes](https://github.com/yusufcodes)
 - Corne Kooyman
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
