@@ -1520,7 +1520,6 @@ Patrizia Trammell
 - [Adrián Rodríguez Yáñez](https://github.com/adrianRodriguez123)
 - [Marta Laís](https://github.com/martalais)
 - [Dan Bolta](https://github.com/dbolta)
-- [julianWue](https://github.com/julianWue)
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Demetrius Lewis](https://github.com/Dlewis89)
