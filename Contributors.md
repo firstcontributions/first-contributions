@@ -94,6 +94,7 @@ Rich Herbert
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
+- [Nisal97]-(https://github.com/Nisal97)
 - [MalkaSaba](https://github.com/malkasaba)
 - [ChristopherCarr](https://github.com/christocarr)
 - [Santiago Mas] (https://github.com/GRsni)
