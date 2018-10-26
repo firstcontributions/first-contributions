@@ -9509,6 +9509,7 @@ quattad
 - [Golovin Nikita](https://github.com/golovin-nik95)
 - [Martyna Wal](https://github.com/mawa95)
 - [wholesomedogs](https://github.com/wholesomedogs)
+- [Asgher Shaik](https://github.com/asgheralishaik)
 - [MaxtorCoder](https://github.com/MaxtorCoder)
 - [sobin007](https:/github.com/sobin007)
 - [Shi974](https://github.com/Shi974)
@@ -9559,5 +9560,8 @@ quattad
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
 - [Dzaki Afif](https://github.com/dzakiafif)
-- [Jay Perez](https://github.com/Rolys)
+- [Jay Perez](https://github.com/Rolys
 - [Sameer Malik](https://github.com/sameermalik20aug)
+- [Jorge Galat](https://github.com/jgalat)
+- [Geraldo Castro](https://github.com/victormatheusc)
+- [Ya Dro](https://github.com/MrYadro)
