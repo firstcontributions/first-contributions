@@ -13,6 +13,7 @@ Rajesh Verma
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [gormleymark] (https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
+- [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [rozenstraws](https://github.com/rozenstraws)
