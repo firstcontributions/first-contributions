@@ -9526,3 +9526,4 @@ quattad
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
 - [Ryo Arima](https://github.com/nozira)
+- [R Praveen Pai](https://github.com/praveenpi)
