@@ -8296,6 +8296,7 @@ Orandi Harris
 - [Sayak Naskar](https://github.com/hacky1997)
 - [okrsnak](https://github.com/okrsnak)
 - [Shivam Agrawall](https://github.com/shivam077)
+- [Orhun Mert Simsek](https://github.com/mertsimsek)
 - [Sten Marius](https://github.com/stho01)
 - [Neolas67](https://github.com/Neolas67)
 - [Sumit Joshi](https://github.com/sumitjoshi97)
@@ -8540,4 +8541,3 @@ Orandi Harris
 - [Riablo](https://github.com/Riablo)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
-- [Orhun Mert Simsek](https://github.com/mertsimsek)
