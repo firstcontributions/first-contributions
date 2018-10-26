@@ -9447,6 +9447,7 @@ Rohan Das
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
+- [Ronaldo Gomes](https://github.com/ron17)
 - [Arihant Bansal] (https://github.com/arihantbansal)
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
