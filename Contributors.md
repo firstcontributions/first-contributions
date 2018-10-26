@@ -35,6 +35,7 @@ Rich Herbert
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [Mylonio]()
+- [Michal123pl] (https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
