@@ -3,6 +3,7 @@
 
 - [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
+William Nicholson
 - [Linherest](https://github.com/linherest)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
@@ -8749,4 +8750,3 @@ Benzene
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
 - [LucidComplex](https://github.com/LucidComplex)
-
