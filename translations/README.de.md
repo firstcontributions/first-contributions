@@ -8,9 +8,9 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="Repository forken" />
 
-Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
+Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen vieler Freiwilliger. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
@@ -91,7 +91,7 @@ Erstelle einen Pull Request.
 Roshanjossey wird nun deine Änderungen in den Master Branch dieses Projekts mergen. Du erhältst eine E-Mail sobald dies geschehen ist. 
 
 ## Einen Branch aus deinem Repository löschen
-Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei den Überblick zu bewahren.
+Wenn du der Anleitung bis hierher gefolgt bist und dein Pull Request angenommen wurde, hat dein Branch `<add-dein-Name>` seinen Zweck erfüllt und wird nicht länger benötigt. Du kannst ihn in deiner lokalen Arbeitskopie löschen. Dies ist zwar nicht zwingend notwendig, hilft dir aber dabei, den Überblick zu bewahren.
 
 Lass uns dazu zuerst den Branch `<add-dein-Name>` aus deiner lokalen Arbeitskopie in deinen master Branch mergen. Dazu wechseln wir zuerst in den master:
 ```
