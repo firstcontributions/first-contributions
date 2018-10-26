@@ -117,6 +117,7 @@ Rich Herbert
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
 - [Eduardo Robles](https://github.com/eduardo-robles)
+- [Matthew Speake](https://github.com/mspeake16)
 - [Florin Irion](https://github.com/irionr)
 - [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [kananthav](https://github.com/kananthav)
