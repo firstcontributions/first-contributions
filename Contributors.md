@@ -2,6 +2,7 @@
 
 - [Ihoey](https://github.com/ihoey)
 - [Aditya Gupta](https://github.com/6aditya8)
+- [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
@@ -12,11 +13,13 @@ Jesse
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
+ashwini
 - [corxrew](https://github.com/corxrew)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
+[mskiser](http://github.com/mskiser)
 Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
 - [Nishit Majithia] (https://github.com/nishitm)
@@ -27,7 +30,7 @@ Rich Herbert
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
-- [Mylonio]
+- [Mylonio]()
 - [Jasu](https://github.com/jspine01)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
@@ -55,6 +58,7 @@ Rich Herbert
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
+- [Parthiv Kativarapu](https://github.com/parthiv13)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
@@ -163,6 +167,7 @@ Ben
 - [nuntjw](https://github.com/nuntjw)
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
+  [Vibudh Vishal](github.com/vibudhvishal)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna] (https://github.com/mennayahia)
 - [Ion Tarna](https://github.com/IonTarna)
@@ -9522,3 +9527,5 @@ quattad
 - [Alex Innes] (https://github.com/alexinnes)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
+- [Ryo Arima](https://github.com/nozira)
+- [R Praveen Pai](https://github.com/praveenpi)
