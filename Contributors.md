@@ -1,12 +1,13 @@
 ﻿# Contributors
 
+- [akaryrye](https://github.com/akaryrye)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
-- [fyusuf1](https://github.com/fyusuf1)
-Rajesh Verma
+- [fyusuf1] (https://github.com/fyusuf1)
+- [Rajesh Verma]
   [Justin Kook] (https://github.com/justinkook)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
@@ -18,7 +19,6 @@ Rajesh Verma
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
-- [Jasu](https://github.com/jspine01)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23
@@ -104,7 +104,6 @@ Rajesh Verma
 - [Anda Stoica](https://github.com/andadiana)
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
-- Trent Jeffery
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Saravanan Elumalai](https://github.com/saravannann)
