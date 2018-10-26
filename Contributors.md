@@ -9495,6 +9495,7 @@ quattad
 - [Jairo Junior](https://github.com/jairojj)
 - [ChuckB] (https://github.com/extreme2700)
 - [Edward Yang] (https://github.com/rarcie)
+- [Garfianto Dwi](https://github.com/fiiann)
 - [Earle-Poole](https://github.com/earle-poole)
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
@@ -9562,4 +9563,3 @@ quattad
 - [Dzaki Afif](https://github.com/dzakiafif)
 - [Jay Perez](https://github.com/Rolys)
 - [Jorge Galat](https://github.com/jgalat)
-- [Garfianto Dwi](https://github.com/fiiann)
