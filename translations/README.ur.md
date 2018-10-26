@@ -132,7 +132,6 @@ git push origin <add-your-name>
 
 <div dir="rtl"> 
   آپ کو مدد کی ضرورت ہے یا کوئی سوال ہو تو آپ ہماری سلیک ٹیم میں بھی شامل ہوسکتے ہیں.
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">سلیک ٹیم میں شمولیت اختیار کریں۔</a>
 </div>
 <br />
 <div dir="rtl">
