@@ -22,6 +22,7 @@ Rajesh Verma
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [corxrew](https://github.com/corxrew)
+- [Nisal097](https://github.com/Nisal097)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
