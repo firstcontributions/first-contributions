@@ -9547,3 +9547,5 @@ quattad
 - [R Praveen Pai](https://github.com/praveenpi)
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
+- [Emanuely A Sousa](https://github.com/LyArlequina)
+
