@@ -8571,6 +8571,7 @@ Benzene
 - [shachashou](https://github.com/shachashou)
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
+- [Luciano Simeao](https://github.com/luciano-s/)
 - [Hitanshu](https://github.com/Phantom-Cluster)
 - [Kate Abadzheva](https://github.com/Makemeloco)
 - [Gino89](https://github.com/Gino89)
@@ -8957,4 +8958,4 @@ Benzene
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Rana Faisal](https://github.com/IRanaFaisal)
-- [Luciano Simeao](https://github.com/luciano-s/)
+
