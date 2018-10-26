@@ -103,6 +103,7 @@ Rajesh Verma
 - [Anda Stoica](https://github.com/andadiana)
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
+- Trent Jeffery
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Saravanan Elumalai](https://github.com/saravannann)
