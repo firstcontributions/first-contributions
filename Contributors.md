@@ -8547,6 +8547,7 @@ Rohan Das
 - [Robert Laws](https://github.com/robert-laws)
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
+- [Roberto Bernardinello](https://github.com/rbernardinello)
 - [Caio Augusto](https://github.com/caioag)
 - [Eve Mendelevich] (https://github.com/mendelevich)
 - [Viviana Rincon](https://github.com/ttalgihon)
