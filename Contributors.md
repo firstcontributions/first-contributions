@@ -9332,6 +9332,7 @@ Rohan Das
 - [Tuseef Ahmad](https://github.com/tuseefahmad)
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
+- [Daniel Ayaz](https://github.com/DanielAyaz)
 - [Numan Rafique](https://github.com/Numanrafique)
 - [Rana Faisal](https://github.com/IRanaFaisal)
 - [Mudassar Nazeer](https://github.com/MudassarNazeer1)
