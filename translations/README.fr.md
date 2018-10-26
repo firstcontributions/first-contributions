@@ -34,7 +34,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du réperto
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-Par exemple:
+Par exemple :
 ```
 git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
@@ -52,7 +52,7 @@ Maintenant créez une branche avec le commande `git checkout` :
 git checkout -b <add-votre-nom>
 ```
 
-Par exemple:
+Par exemple :
 ```
 git checkout -b add-koffi-sani
 ```
@@ -73,7 +73,7 @@ en remplaçant `<votre-nom>` par votre nom.
 
 ## Poussez les modifications vers GitHub
 
-Poussez vos modifications avec la commande `git push`:
+Poussez vos modifications avec la commande `git push` :
 ```
 git push origin <add-votre-nom>
 ```
@@ -100,7 +100,7 @@ La branche master de votre embranchement ne subira pas de modification à cet in
  git checkout master
  ```
 
- Et ajouter l'url de mon répertoire comme  `upstream remote url`:
+ Et ajouter l'url de mon répertoire comme  `upstream remote url` :
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
@@ -119,7 +119,7 @@ git push origin master
 ```
 Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer:
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 ```
 git branch -d <add-votre-nom>
 ```
