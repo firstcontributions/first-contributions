@@ -8381,6 +8381,7 @@ Orandi Harris
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
 - [Hitanshu](https://github.com/Phantom-Cluster)
+- [Derek](https://github.com/thestarvingcoder)
 - [Kate Abadzheva](https://github.com/Makemeloco)
 - [Gino89](https://github.com/Gino89)
 - [nicht](https://github.com/nicht)
@@ -8716,4 +8717,4 @@ Orandi Harris
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
 - [Dan Roberts](https://github.com/Danno3D)
-  [Derek](https://github.com/thestarvingcoder)
+
