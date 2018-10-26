@@ -895,6 +895,7 @@ Patrizia Trammell
 - [Simmar Kalsi](https://github.com/gyr0tron)
 - [Ivan De Menezes](https://github.com/ivan3101)
 - [Piyush Sharma](https://github.com/piyusharma95)
+- [Harsh Gupta](https://github.com/hgcool20)
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
