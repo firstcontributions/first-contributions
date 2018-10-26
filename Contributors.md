@@ -8,6 +8,7 @@ Rajesh Verma
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
+Sharad Mishra
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
