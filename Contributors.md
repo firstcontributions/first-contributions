@@ -123,6 +123,7 @@ Rich Herbert
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
 - [Aashita Arora](https://github.com/aashitaarora)
+- [Lauren Tingler](https://github.com/laurenolivia18)
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
