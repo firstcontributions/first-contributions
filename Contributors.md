@@ -9538,3 +9538,4 @@ quattad
 - [Sarthak Thakur](https://github.com/sarthak247)
 - [Ryo Arima](https://github.com/nozira)
 - [R Praveen Pai](https://github.com/praveenpi)
+- [Aathif Nihas](https://github.com/aathifnihas)
