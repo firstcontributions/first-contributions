@@ -146,6 +146,7 @@ Rich Herbert
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Danny Molloy](https://github.com/strachaldrat)
 - [Dwij Sheth](https://github.com/dwij2812)
+- [DB](https://github.com/dhyeyb04)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
