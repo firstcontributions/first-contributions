@@ -9521,3 +9521,4 @@ quattad
 - [Alex Innes] (https://github.com/alexinnes)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
+- [Ryo Arima](https://github.com/nozira)
