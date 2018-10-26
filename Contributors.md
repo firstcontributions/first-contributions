@@ -56,6 +56,7 @@ Rajesh Verma
 - [jephtahuche](https://github.com/jephtah)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [madza](https://github.com/madarsbiss)
+- [Thuhini](https://github.com/Thuhini)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
