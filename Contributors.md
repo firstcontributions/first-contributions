@@ -7999,7 +7999,7 @@ Rohan Das
 - [Zeeshan](https://github.com/Zeeshan009)
 - [Alan Chan](https://github.com/AlinChindea)
 - [David Adrianzen](https://github.com/jorgedav-id)
-- [Gabriel Rodriguez Torres (Garoto)](https://github.com/Garoto0518)
+- [Gabriel Rodriguez Torres](https://github.com/Garoto0518)
 - [Krzysztof Bogusz](https://github.com/krzysztofbogusz91)
 - [Matej Konrad](https://github.com/matejkonrad)
 - [Nacho](https://github.com/nachosh)
@@ -9481,3 +9481,4 @@ quattad
 - [c2tarun](https://github.com/c2tarun)
 - [jay3315938](https://github.com/jay3315938/)
 - [Mmendero](https://github.com/Mmendero)
+- [Garoto](https://github.com/Garoto0518)
