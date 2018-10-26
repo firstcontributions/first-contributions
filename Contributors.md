@@ -9197,6 +9197,7 @@ Rohan Das
 - [Manvitha Kalicheti](https://github.com/manvithakalicheti)
 - [Mustafa Ismail](https://github.com/mustafaismail22)
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
+- [Hamza Khalid](https://github.com/Hamza156)
 - [a-ray](https://github.com/a-ray)
 - [lisbert](https://github.com/lau626)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
