@@ -5706,6 +5706,7 @@ Rohan Das
 - [Samay Jain](https://github.com/samaystops4no1)
 - [Andrew Barrett](https://github.com/GaToRAiDAB)
 - [Lisa Hillebrand](https://github.com/lisahillebrand)
+- [Pinapali loves pizza](https://github.com/pinapali)
 - [Ferhat Sahinkaya](https://github.com/ferhatsahinkaya)
 - [Carl Isaac](https://github.com/carlisaac)
 - [Distal Phalanges](https://github.com/distalphalanges)
