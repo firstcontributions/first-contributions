@@ -9520,3 +9520,4 @@ quattad
 - [Michael Matherson](https://github.com/michaelmatherson)
 - [Alex Innes] (https://github.com/alexinnes)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
+- [Sarthak Thakur](https://github.com/sarthak247)
