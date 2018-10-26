@@ -197,6 +197,7 @@ Arnel Forbes
 - Anna!
 - [doehae](https://github.com/doehae)
 - [ulricmarques](https://github.com/ulricmarques)
+- [Naapi](https://github.com/Naapi)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
