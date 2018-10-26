@@ -5,7 +5,7 @@
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Mario DeLaPaz](https://github.com/mariocd10)
-- [fyusuf1] (https://github.com/fyusuf1)
+- [fyusuf1](https://github.com/fyusuf1)
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
