@@ -9586,4 +9586,5 @@ quattad
 - [Ya Dro](https://github.com/MrYadro)
 - [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
+- [Ankur Bhatia](bhatia.ankur24@gmail.com)
 
