@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Aditya Gupta](https://github.com/Aditya378)
+
 - [Joel Hanson](https://github.com/Joel-hanson)
 - [Yuri Tymoshchuk] (https://github.com/gopolar)
 - [Abhijith Sheheer](https://github.com/abspython)
@@ -246,6 +246,7 @@
 - [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Guneet Singh](http://github.com/SethiGuneet)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
+- [Aditya Gupta](https://github.com/Aditya378)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
