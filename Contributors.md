@@ -12,6 +12,7 @@
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
+- [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
