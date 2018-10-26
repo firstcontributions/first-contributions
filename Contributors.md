@@ -1,5 +1,6 @@
 ﻿# Contributors
 -[shanto] (https://github.com/shanto)
+- [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
