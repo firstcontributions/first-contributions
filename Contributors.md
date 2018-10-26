@@ -31,6 +31,7 @@ Rajesh Verma
 - [rozenstraws](https://github.com/rozenstraws)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
+- [Fabian Terh](https://github.com/fterh)
 - [axux](https://github.com/axux)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
