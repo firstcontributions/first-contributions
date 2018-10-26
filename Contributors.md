@@ -321,6 +321,7 @@ aalbusoiu
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
 - [Dusan Pilipovic](https://github.com/razzil1)
+- [Akbar Mirza](https://github.com/akbarbmirza)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
 - [Dom Slatford] (https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
