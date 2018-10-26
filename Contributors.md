@@ -9422,6 +9422,7 @@ Rohan Das
 - [Toshiki](https://github.com/toshikiohnogi)
 - [Amornthep.Th](https://github.com/bkkkjst)
 - [PDVega](https://github.com/PDVega/)
+- [Haim Brum] (https://github.com/haimbrum)
 - [Nubi Mayowa](https://github.com/nubimayowa)
 - [Shan muhammad] (https://github.com/shanmuhammad786)
 - [Narayanan Elavathur Ranganatha](https://github.com/naruarjun)
