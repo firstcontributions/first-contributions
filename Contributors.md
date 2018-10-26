@@ -4453,6 +4453,7 @@ Orandi Harris
 - [Vishal Agrawal](https://github.com/vishuvish)
 - [Fitriana Alivia](https://github.com/mrsdark)
 - [Jason Law](https://github.com/lckj210)
+- [Julia Lin](https://github.com/linj2015)
 - [Le Bon Bauma](https://github.com/Sharkzuria)
 - [Adi Bet](https://github.com/adibet)
 - [HemeraOne](https://github.com/HemeraOne)
