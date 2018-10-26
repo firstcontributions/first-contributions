@@ -1,5 +1,6 @@
 # Contributors
 
+- [rubiotorres](https://github.com/rubiotorres)
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
