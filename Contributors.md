@@ -13,6 +13,7 @@ Rajesh Verma
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
+Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
