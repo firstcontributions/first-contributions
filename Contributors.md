@@ -2115,6 +2115,7 @@ Patrizia Trammell
 - [Rohit Mahato](https://github.com/rkmsh)
 - [Aryan Verma](https://github.com/amazing-aryan)
 - [Tomás Caldas](https://github.com/tomasvcaldas)
+- [Thomas Joaquini](https://github.com/tjoaquini)
 - [Vadim Shestopalov](https://github.com/vchulski)
 - [vamshi aruru](https://github.com/vamshiaruru)
 - [Renata Gizzi](https://github.com/RenataGizzi)
