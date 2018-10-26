@@ -67,6 +67,7 @@ config.json
 
 #Visual Studio Code
 #
+config.json
 .vscode/*
 
 #Sublime Text
