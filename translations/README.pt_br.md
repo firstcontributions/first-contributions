@@ -16,7 +16,7 @@ Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente p�
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork deste repositório" />
 
-Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
+Se não possui o Git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
 ## Faça um Fork deste repositório
 
@@ -28,7 +28,7 @@ Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar u
 
 Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
 
-Abra seu terminal e execute o seguinte comando do git:
+Abra seu terminal e execute o seguinte comando do Git:
 ```
 git clone "url que copiou"
 ```
