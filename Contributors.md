@@ -20,6 +20,8 @@ Jesse
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
+Howie Andersen
+- [howieandersen](https://github.com/howieandersen)
 ashwini
 - [corxrew](https://github.com/corxrew)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
