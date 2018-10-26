@@ -20,7 +20,8 @@ ashwini
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
-[mskiser](http://github.com/mskiser)
+- [mskiser](http://github.com/mskiser)
+- [Mrunal Deshpande](https://github.com/pixel-daemon)
 Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
 - [Eren Jaegar](https://github.com/erenjaegar)
