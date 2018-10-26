@@ -43,6 +43,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
 [🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
@@ -62,7 +63,7 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
