@@ -301,6 +301,7 @@ aalbusoiu
 - [Rebecca Tjandra](https://github.com/rebaka)
 - [Jessica Wilson](https://github.com/Jlw2uc)
 - [Aris Nguyen](https://github.com/arisng)
+- [wensonchen](https://github.com/wensonchen)
 - [Vivek](https://github.com/vickygopalshetty)
 - [Utkarsh](https://github.com/Knight1997)
 - [lanh lanh](https://github.com/Lanhbao)
