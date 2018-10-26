@@ -1426,7 +1426,7 @@ Patrizia Trammell
 - [Vinicius Souza](https://github.com/ViniciusALS)
 - [Alvin Tu](https://github.com/ajtu)
 - [Shashank Avunoori](https://github.com/Shashank100297)
-- [Amaury Gz](https://github.com/gzamaury)
+- [Amaury Gz.](https://github.com/gzamaury)
 - [S. Hall](https://github.com/TravelingMan)
 - [Krzysztof Wojdat](https://github.com/kritokrator)
 - [Vaishnav Sivaprasad](https://github.com/padthaigrapes)
