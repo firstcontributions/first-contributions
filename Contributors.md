@@ -616,6 +616,7 @@ Patrizia Trammell
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Lohit Peesapati](https://github.com/l0h1t)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
+- [Alin Migea](https://github.com/alinmigea)
 - [Rafael Faria](https://github.com/rafaellfaria)
 - [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
