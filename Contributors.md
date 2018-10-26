@@ -42,6 +42,7 @@ Rich Herbert
 - [Mylonio]()
 - [Michal123pl] (https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
+- [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23
