@@ -370,6 +370,7 @@ aalbusoiu
 - [H Shay](https://github.com/H-Shay)
 - [thinkinbee](https://github.com/thinkinbee)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
+- [Shivam Kumar](https://github.com/skymatte)
 - [Griffin Gaeth](https://github.com/ggaeth)
 - [Bolaram Paul](https://github.com/bolaram)
 - [Karen Tobo](https://github.com/karentobo)
