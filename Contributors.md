@@ -619,6 +619,7 @@ Patrizia Trammell
 - [Rounak Agarwal](https://github.com/agarwalrounak)
 - [Oluwakorede Fashokun](https://github.com/korede360)
 - [Shane Wilson](https://github.com/mistyferocity43)
+- [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 - [Anshu Kumar](https://github.com/Anshuvats)
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
