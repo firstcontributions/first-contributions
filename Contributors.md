@@ -9463,6 +9463,7 @@ Rohan Das
 - [Billy Tan](https://github.com/cieltan)
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
+- [Sachin Junghare](https://github.com/sachininfy)
 quattad
 - [goatlink](https://github.com/goatlink)
 - [MasterLuV](https://github.com/nighttiger1990)
@@ -9551,4 +9552,3 @@ quattad
 - [R Praveen Pai](https://github.com/praveenpi)
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
-- [Sachin Junghare](https://github.com/sachininfy)
