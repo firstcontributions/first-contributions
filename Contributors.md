@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Ihoey](https://github.com/ihoey)
+- [Ravi Jain] (https://github.com/engrravijain)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
