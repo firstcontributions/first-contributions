@@ -6,7 +6,7 @@
 
 # Primera contribuciones
 
-Es complicado. Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es agradable. Queremos simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
+Es complicado y siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Queremos simplificar la forma en la que los nuevos desarolladores de _open source_ aprenden y contribuyen por primera vez.
 
 Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas?. Este proyecto se enfoca en guíar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
@@ -53,10 +53,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 
 Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
-## Dale Fork al repositorio
-
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+## Presiona Fork al repositorio
 
 Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
