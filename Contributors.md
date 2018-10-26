@@ -23,6 +23,7 @@ Rich Herbert
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
+- [Steve-Worrell](https://github.com/Steve-Worrell)
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
