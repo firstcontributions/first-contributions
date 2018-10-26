@@ -86,6 +86,7 @@ Rich Herbert
 - [Santiago Mas] (https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
+- [tonetheman](https://github.com/tonetheman)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [Philippe Targino](https://github.com/ptargino)
 - [Bryan Endres] (https://github.com/bendres97)
