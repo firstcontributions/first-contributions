@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
+
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
@@ -3808,6 +3808,7 @@ Orandi Harris
 - [R. Alex Clark](https://github.com/Aclark2089)
 - [Markus (Qoutroy)](https://github.com/qoutroy)
 - [Lee Magbanua](https://github.com/leesenpai)
+- [Prabhleen Bindra](https://github.com/Prabhleen1398)
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg](https://github.com/akhilgarg007)
 - [Drew Davis](https://github.com/kalaborative)
@@ -8672,7 +8673,6 @@ Rohan Das
 - [Brian Christian](https://github.com/fdeitylink)
 - [AFrittella](https://github.com/afrittella)
 - [Mikele Guedes](https://github.com/mikeliguedes)
-- [Karm0s](https://github.com/Karm0s)
 - [Houn_Rithyseth](https://github.com/Indra8288)
 - [AFrittella](https://github.com/afrittella)
 - [Lucas Viera](https://github.com/lucasarieiv)
@@ -8725,7 +8725,6 @@ Rohan Das
 - [Krishan Kant](https://github.com/krishan-kant)
 - [Guy Khmelnitsky](https://github.com/guykh)
 - [Ali Nisar Ahmed](https://github.com/AliNisarAhmed)
-- [Light Yagami](https://github.com/lighyagami1337)
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
@@ -9582,6 +9581,4 @@ quattad
 - [Jorge Galat](https://github.com/jgalat)
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Ya Dro](https://github.com/MrYadro)
-- [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
-
