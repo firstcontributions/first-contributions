@@ -2063,6 +2063,7 @@ Patrizia Trammell
 - [Scott Wickersham](https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [Emily Ji](https://github.com/emilyji/)
+- [Reynold Harbin](https://github.com/reynoldharbin/)
 - [Andy Kuang](https://github.com/andykuang1/)
 - [Vidya Mani](https://github.com/vidyasrimani)
 - [Jacob Brannum](https://github.com/jwbrannum)
