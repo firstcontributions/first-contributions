@@ -57,6 +57,7 @@ Rich Herbert
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
+- [Parthiv Kativarapu](https://github.com/parthiv13)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
