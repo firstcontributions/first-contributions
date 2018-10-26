@@ -441,6 +441,7 @@ Edison Shek
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
 - [John Ivison](https://github.com/mattecatte)
 - [Hamid Reside](https://github.com/hallowcard13)
+- [Jeannie Nguyen] (https://github.com/jeannienguyen)
 - [Zeddmaxx](https://github.com/zeddmaxx)
 - [Ankush Garg](https://github.com/ankushgarg1998)
 - [Anupama Garani](https://github.com/anusky95)
