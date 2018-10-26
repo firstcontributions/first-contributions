@@ -2032,6 +2032,7 @@ Patrizia Trammell
 - [Ian Sapp](https://github.com/FourthMeal128)
 - [Ross Heaney](https://github.com/ross39)
 - [Abhipsha Das](https://github.com/chiral-carbon)
+- [Harish Kesava Rao](https://github.com/harishkrao)
 - [Larry D'Almeida](https://github.com/larry-dalmeida)
 - [Rose White](https://github.com/memo_off)
 - [Randall Jordan](https://github.com/TsarVandall)
@@ -9600,4 +9601,3 @@ quattad
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
-
