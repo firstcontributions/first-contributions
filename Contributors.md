@@ -8725,6 +8725,7 @@ Rohan Das
 - [Krishan Kant](https://github.com/krishan-kant)
 - [Guy Khmelnitsky](https://github.com/guykh)
 - [Ali Nisar Ahmed](https://github.com/AliNisarAhmed)
+- [Light Yagami](https://github.com/lighyagami1337)
 - [Alexander Mykolaychuk](https://github.com/roya3000)
 - [Tarak](https://github.com/tyrex9000)
 - [Aniket Srivastava](https://github.com/Aniket144)
