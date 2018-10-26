@@ -6,13 +6,13 @@
 
 # Primeres Contribucions
 
-És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
+És difícil. Sempre ho és quan es fa alguna cosa per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
 
 Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si voleu fer la primera contribució, seguiu les instruccions que es mostren a continuació: 
 
-#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-using-other-tools )*
+#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfície Gràfica (GUI)]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repsoitori" />
+<img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repositori" />
 
 Si no disposeu de git en el vostre ordinador, [instal·leu-lo]( https://help.github.com/articles/set-up-git/).
 
@@ -44,7 +44,7 @@ on `aquest-soc-jo` és el vostre nom d'usuari de GitHub. Aquí esteu copiant el 
 
 ## Crea una branca (*branch*)
 
-Canvieu al directori del repositori del vostre ordinador (si no hi esteu allà ja):
+Canvieu al directori del repositori del vostre ordinador (si no hi esteu ja):
 
 ```
 cd first-contributions
@@ -96,11 +96,11 @@ Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="crear una pull request" />
 
-Envía la *pull request*.
+Envia la *pull request*.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="envia la pull request" />
 
-Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
+Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin estat fusionats.
 
 ## On anar des d'aquí?
 
