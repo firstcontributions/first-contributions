@@ -24,6 +24,7 @@ Rajesh Verma
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23
+- [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
