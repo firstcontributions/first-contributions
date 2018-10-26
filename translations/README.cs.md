@@ -11,7 +11,6 @@
 Čtení článků nebo shlédnutí video návodů jsou také cesty, ale co je lepší než si danou věc přímo osahat na vlastní kůži v reálném prostředí? Tento projekt je zaměřen na poskytnutí pomoci začátečníkům s jejich prvním přispěním do open-source. Pokud jste jím právě vy, následujte kroky popsané níže.
 
 #### *Pokud nemáte rádi příkazovou řádku, [zde najdete návody na použití nástrojů s GUI (grafické uživatelské rozhraní)]( #tutorials-using-other-tools )*
-
 #### *Přečtěte si tento článek [v jiných jazycích](translations/Translations.md).*
 
 [🇺🇸](README.md)
