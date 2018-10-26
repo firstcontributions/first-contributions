@@ -7,49 +7,8 @@
 
 Είναι πάντα δύσκολο να κάνεις κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεσαι με άλλους και κάνεις λάθη, η κατάσταση γίνεται ιδιαίτερη άβολη. Αλλά το σημαντικότερο πράγμα στο ανοιχτό λογισμικό είναι η συνεργασία και να δουλεύουμε μαζί. Θέλαμε να απλοποιήσουμε τον τρόπο με τον οποίο οι άνθρωποι που για πρώτη φορά συνεισφέρουν στο ανοιχτό λογισμικό, μαθαίνουν και κάνουν πράγματα.
 
-Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα. 
+Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα.
 
-#### *Διαβάστε σε [άλλες γλώσσες](../Translations.md).*
-
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -151,9 +110,9 @@ git push origin <add-your-name>
 
 ## Τι να κάνετε τώρα;
 
-Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://roshanjossey.github.io/first-contributions/#social-share). 
+Γιορτάστε και μοιραστείτε την συνεισφορά σας με τους φίλους και τους ακόλουθους σας πηγαίνοντας στο [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.  
+Μπορείτε να συμμετέχετε στην ομάδα μας στο slack σε περίπτωση που θέλετε κάποια βοήθεια ή έχετε κάποια ερώτηση.
 [Η ομάδα μας στο slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Τώρα μπορείτε να ξεκινήσετε να συνεισφέρετε και σε άλλα project. Έχουμε φτιάξει μια λίστα από project με εύκολα προβλήματα για να ξεκινήσετε. Δείτε εδώ [η λίστα με τα project](https://roshanjossey.github.io/first-contributions/#project-list).
@@ -170,7 +129,7 @@ git push origin <add-your-name>
 
 ## Προώθηση του πρότζεκτ
 
-Αν σας άρεσε το πρότζεκτ, προσθέστε το στα αγαπημένα (βάλτε αστεράκι) στο [GitHub](https://github.com/Roshanjossey/first-contributions). 
+Αν σας άρεσε το πρότζεκτ, προσθέστε το στα αγαπημένα (βάλτε αστεράκι) στο [GitHub](https://github.com/Roshanjossey/first-contributions).
 Αν νιώθετε ακόμα περισσότερη ευγνωμοσύνη, ακολουθήστε τον [Roshan](https://roshanjossey.github.io/) στο [Twitter](https://twitter.com/sudo__bangbang) και [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
