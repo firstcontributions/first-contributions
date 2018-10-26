@@ -9419,3 +9419,4 @@ Rohan Das
 - [Sam Young](https://github.com/sammysamx20/)
 - [William Cori](https://github.com/coriwilliam/)
 - [Philipp Erck](https://github.com/philerck/)
+- [Rafaela Dutra Nunes](https://github.com/rafaeladnunes/)
