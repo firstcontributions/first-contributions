@@ -28,6 +28,7 @@ Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
 - [Eren Jaegar](https://github.com/erenjaegar)
+- [Dhyey Bhavsar](https://github.com/dhyeyb04)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Krishna kunal](https://github.com/krish-kunal)
@@ -9563,4 +9564,3 @@ quattad
 - [Jay Perez](https://github.com/Rolys)
 - [Jorge Galat](https://github.com/jgalat)
 - [Geraldo Castro](https://github.com/victormatheusc)
-- [Ya Dro](https://github.com/MrYadro)
