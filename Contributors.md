@@ -58,6 +58,7 @@ Rajesh Verma
 - [carriekolmer](https://github.com/carriekolmer)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [Philippe Targino](https://github.com/ptargino)
+- [Bryan Endres] (https://github.com/bendres97)
 - [QrBe](https://github.com/QrBe)
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
