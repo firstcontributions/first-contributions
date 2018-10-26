@@ -1,4 +1,5 @@
-﻿
+﻿# Contributors
+
 - [Tiffany Souterre](https://github.com/amagash)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Lauren Wright](https://github.com/laurenewright)
