@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Git Kraken
 
-Download [GitKraken](https://www.gitkraken.com), install and open it.
+Download [GitKraken](https://www.gitkraken.com), Install and open it.
 
 
 You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
@@ -36,13 +36,13 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File-> Clone Repo.
+In GitKraken, go to File -> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
 
 
-Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.  
+Select GitHub.com in the right pane. Under your username, you should see first-contributions.  Click that repository and check the full path shown at the bottom of this pane.
 
 Once you're satisfied with the path, click "Clone the repo!".
 
@@ -58,7 +58,7 @@ Name your branch "add-your-name", for example: "add-william-sutton"
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file.
 
 If you have the repo open in GitKraken you'll see there are changes. Review and stage those changes by selecting the newest commit marked with "// WIP" and the number of files changed and the type of change.
 
@@ -76,7 +76,7 @@ Once you have a good commit message ("Add <your-name> to Contributors list" soun
 <img style="float: right;" src="assets/gk-commit.png" alt="clone this repository" />
 
 
-If you change your mind, you can unstage those changes, or you can discard them all together. 
+If you change your mind, you can unstage those changes, or you can discard them all together.
 WARNING: As the word discard implies, this is a destructive operation. Do this only if you don't want any change(s) from whatever repository you're in.
 
 Hit commit.
@@ -99,7 +99,7 @@ Submit changes on the origin branch if you want the changes to reflect in the ma
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
@@ -122,9 +122,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Tutorials Using Other Tools
 
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>
-|---|---|---|
-|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
 ## Self-Promotion
 
