@@ -1096,6 +1096,7 @@ Patrizia Trammell
 - [Guneet Singh](http://github.com/SethiGuneet)
 - [Josh Lineaweaver](http://github.com/JLineaweaver)
 - [Jyotsna Gupta](https://github.com/jyotsna17gupta)
+- [Aditya Gupta](https://github.com/Aditya378)
 - [Anamol Saxena](https://github.com/anamol-saxena)
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
