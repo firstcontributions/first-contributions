@@ -3884,6 +3884,7 @@ Orandi Harris
 - [Spencer Burleigh](https://github.com/leaous)
 - [Shaun O'Connor](https://github.com/shaunoc09)
 - [Andre Büttner](https://github.com/abuettner)
+- [Akshay Chopra](https://github.com/akshaychopra96)
 - [Marek Dano](https://github.com/marekdano)
 - [Marcos Gomez](https://github.com/margobra8)
 - [Pronomita Dey](https://github.com/PronomitaDey)
