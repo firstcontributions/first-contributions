@@ -23,6 +23,7 @@ ashwini
 [mskiser](http://github.com/mskiser)
 Rich Herbert
 - [MrHritik](https://github.com/Hritik14)
+- [Eren Jaegar](https://github.com/erenjaegar)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Krishna kunal](https://github.com/krish-kunal)
