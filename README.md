@@ -38,7 +38,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇪🇬](translations/README.eg.md)
 [🇸🇦](translations/README.ar.md)
 [🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
+[<img src="assets/brazil.png" width="22">](translations/README.pt_br.md)
 [🇵🇹](translations/README.pt-pt.md)
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
