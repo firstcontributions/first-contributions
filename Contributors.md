@@ -1018,6 +1018,7 @@ Patrizia Trammell
 - [Mustapha Babajide Adubiagbe](https://github.com/jidemusty)
 - [Alexander Le](https://github.com/AlexanderDLe)
 - [Danny Foster](https://github.com/dxnter)
+- [James Strong]()
 - [Urszula](https://github.com/CebUleczka)
 - [Arka Mitra](https://github.com/thearkamitra)
 - [Yaderson Patiño](https://github.com/yaderson)
