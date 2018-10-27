@@ -1,6 +1,7 @@
 ﻿# Contributors
-- [Erica Peterson] (https://github.com/ericalpeterson)
-- [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
+- [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [Erica Peterson](https://github.com/ericalpeterson)
+- [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
