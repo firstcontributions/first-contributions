@@ -76,3 +76,21 @@ Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitH
 
 
 Fungua terminal na uendesha amri yafuatayo yafuatayo:
+
+```
+git clone "url you just copied"
+```
+
+ambapo "url ulikosa tu" (bila alama za kupiga kura) ni url kwenye hifadhi hii (fomu yako ya mradi huu). Angalia hatua za awali ili kupata url.
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+Kwa mfano:
+
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
+
+wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
+
+## Create a branch
