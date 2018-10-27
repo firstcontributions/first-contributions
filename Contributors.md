@@ -754,9 +754,9 @@ Patrizia Trammell
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Bhanu Teja Kodali](https://github.com/bhanutejabt)
 - [Bharath Shendre](https://github.com/shendrekbharath)
+- [Johan van Tongeren](https://github.com/D3D0X)
 - [Foxar](https://github.com/Foxar)
 - [Derpyhsi](https://github.com/Derpyhsi)
-- [Johan van Tongeren](https://github.com/D3D0X)
 - [Robert Kosak](https://github.com/rkosak237)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
 - [Hiren Parmar](https://github.com/hirenparmar11)
@@ -9620,4 +9620,5 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
+- [Elizabeth Akpan](https://github.com/ibeth-akpan)
 
