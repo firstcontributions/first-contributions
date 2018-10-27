@@ -22,6 +22,7 @@ Alexandra Cannon
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
+- [Erick Greene](https://github.com/CptSharpie)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
 Rajesh Verma
