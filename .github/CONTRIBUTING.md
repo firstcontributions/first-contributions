@@ -29,7 +29,7 @@ Move to the desired location where package.json file is located
 ## Code of Conduct
 If you want to contribute, you need to know a few things.
 
-[Code of conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ## Translation Guide
 We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
