@@ -160,3 +160,8 @@ Sasa weka ombi la kuvuta.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
+Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
+
+## Wapi kutoka hapa?
+
+Hongera! Wewe umekamilisha fomu ya kawaida -> clone -> hariri -> PRflowflow ambayo unakutana mara nyingi kama mchangiaji!
