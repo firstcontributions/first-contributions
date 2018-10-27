@@ -99,6 +99,7 @@ Rich Herbert
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
+- [Vimukthi Bandara](https://github.com/breezage)
 - [Thuhini](https://github.com/Thuhini)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
