@@ -1,5 +1,5 @@
 # Contributors
-- [Yusuf Mohammed Delvi](https://github.com/yusuf-delvi)
+
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
@@ -86,6 +86,7 @@ Rich Herbert
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
 - [Parthiv Kativarapu](https://github.com/parthiv13)
+- [Yusuf Mohammed Delvi](https://github.com/yusuf-delvi)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
