@@ -1,4 +1,4 @@
-﻿- [Jessica Campbell](https://github.com/jlcampbell)
+- [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
@@ -530,3 +530,4 @@
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
+- [Bhavuk Sharma](https://github.com/bhvk)
