@@ -65,4 +65,8 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 
 Ikiwa huna git kwenye mashine yako, [ingiza]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Futa hifadhi hii
+
+Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
+
+## Weka chumba
