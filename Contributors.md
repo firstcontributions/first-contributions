@@ -63,6 +63,7 @@ ashwini
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 Rich Herbert
+- [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
@@ -82,7 +83,7 @@ Rich Herbert
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
-- [aalizwel23](https://github.com/aalizwel23
+- [aalizwel23](https://github.com/aalizwel23)
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
