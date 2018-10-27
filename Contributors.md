@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
+- [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
