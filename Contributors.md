@@ -1058,6 +1058,7 @@ Patrizia Trammell
 - [Ravi Gupta](https://github.com/guptaravi540)\
 - [Oshidi Weerakulasuriya](https://github.com/OshidiWeerakulasuriya)
 - [Corey Hayden](https://github.com/cghayden)
+- [Shubham Shirpurkar] (https://github.com/Bumsquest)
 - [Hsain Wu](http://github.com/wsp50317)
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
