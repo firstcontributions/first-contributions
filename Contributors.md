@@ -24,8 +24,8 @@ Alexandra Cannon
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
-Rajesh Verma
-  [Justin Kook] (https://github.com/justinkook)
+- [Rajesh Verma]
+- [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
@@ -6993,6 +6993,7 @@ Rohan Das
 - [Ariel Shaked](https://github.com/Nolshine)
 - [Aviv Vaknin - IL](https://github.com/Kivans)
 - [Kendrick Ang](https://github.com/KendrickAng)
+- [Veronica Blaha] (https://github.com/vblaha)
 - [Roman Bebenin](https://github.com/RomanBebenin)
 - [Vishal R](https://github.com/BBloggsbott)
 - [Steve Martin](https://github.com/stevemartin87)
