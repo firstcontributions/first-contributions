@@ -27,6 +27,7 @@ Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
+- [Bohdana Arterchuk] (https://github.com/bohdanka194)
 - [corxrew](https://github.com/corxrew)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
