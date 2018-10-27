@@ -69,6 +69,7 @@ Rich Herbert
 - [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
+- [Bhavika26](https://github.com/Bhavika26) 
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Jacob Higbee](https://github.com/JacobHigbee)
