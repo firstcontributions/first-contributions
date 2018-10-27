@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
+- [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Bojan](https://github.com/TheBearYT)
