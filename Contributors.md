@@ -17,6 +17,7 @@
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
+- [Divyam](https://github.com/shahdivyam)
 - julio-garcia-fc
 - wefromstars
 - [Faith Chikwekwe] (https://github.com/fchikwekwe)
