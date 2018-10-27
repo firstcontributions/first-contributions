@@ -58,3 +58,11 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
+
+
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+Ikiwa huna git kwenye mashine yako, [ingiza]( https://help.github.com/articles/set-up-git/).
+
+## Fork this repository
