@@ -6966,6 +6966,7 @@ Rohan Das
 - [yelkaets](https://github.com/yelkaets)
 - [Aravind](https://github.com/ArvndKrsh)
 - [Nikolay Vasilev](https://github.com/nvasilev11)
+- [Jamie Jordan](https://github.com/bktaco)
 - [Aman Singhal](https://github.com/singhalaman007)
 - [Abhinav Chawla](https://github.com/abhinavchawla07)
 - [Kasidit (Kass) Ouitayakul](https://github.com/kouitayakul)
