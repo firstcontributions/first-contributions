@@ -157,3 +157,7 @@ Dien nou die trekversoek in.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsmelt. U sal 'n kennisgewing-e-pos ontvang sodra die veranderinge saamgesmelt is.
+
+## Waarheen gaan jy vandaan?
+
+Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei wat jy dikwels as 'n bydraer sal ervaar!
