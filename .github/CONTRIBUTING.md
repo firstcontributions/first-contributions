@@ -17,7 +17,7 @@ Move to the desired location where package.json file is located
    Use this command:  `install npm`
 
 - Run these final commands to run it locally:
-
+  `npm install`
   `npm run build`
   
   `npm start`
