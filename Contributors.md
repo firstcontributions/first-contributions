@@ -52,6 +52,7 @@ ashwini
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [Uwanthi](https://github.com/Uwanthi)
+- [Rufusnu](https://github.com/Rufusnu)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 [Saad Patel](https://github.com/Saad2714)
