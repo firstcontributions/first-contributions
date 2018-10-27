@@ -5842,6 +5842,7 @@ Rohan Das
 - [Danny Tran](https://github.com/dtran007)
 - [Kaue Silva](https://github.com/klolivei)
 - [Omry Zur](https://github.com/zomry1)
+- [Stefan Andjelkovic](https://github.com/sandjelkovic)
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
 - [Susan Lippa](https://github.com/slippa91)
