@@ -1836,6 +1836,7 @@ Patrizia Trammell
 - [RaidAndFade](https://github.com/raidandfade)
 - [Edward Ezekiel](https://github.com/edezekiel)
 - [Parithimalan A](https://github.com/superhakar)
+- [Berkan Sivri](https://github.com/berkansivri)
 - [Eric Simard](https://github.com/ericsimard52)
 - [Jeff Darling](https://github.com/jeffld)
 - [Chau Ly](https://github.com/lycb)
