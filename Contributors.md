@@ -45,6 +45,7 @@ ashwini
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 [Saad Patel](https://github.com/Saad2714)
  [kzack123](https://github.com/kzack123)
+- Alex
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
