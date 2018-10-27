@@ -93,7 +93,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 cd first-contributions
 ```
 ఇప్పుడు 'git checkout' ఆదేశం ఉపయోగించి ఒక శాఖను సృష్టించండి:
-```
+
 
 ఉదాహరణకి:
 ```
@@ -160,7 +160,7 @@ Tvaralō nēnu mī anni mārpulanu ī prājekṭ yokka pradhāna vibhāgāniki v
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Self-Promotion
+## నేనే ప్రమోషన్
 
 మీరు ఈ ప్రాజెక్ట్ను ఇష్టపడ్డారు ఉంటే, అది [GitHub](https://github.com/Roshanjossey/first-contributions) న స్టార్.
 మీరు ముఖ్యంగా స్వచ్ఛందంగా భావిస్తే, [Roshan](https://roshanjossey.github.io/) on
