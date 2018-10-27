@@ -94,6 +94,7 @@ Rich Herbert
 - [SteveMarshall](https://github.com/marshast)
 - [Fabian Terh](https://github.com/fterh)
 - [axux](https://github.com/axux)
+- [Berk Erol](https://github.com/berkerol)
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
