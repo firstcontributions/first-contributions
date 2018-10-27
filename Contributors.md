@@ -173,6 +173,7 @@ Rich Herbert
 - [Dwij Sheth](https://github.com/dwij2812)
 - [DB](https://github.com/dhyeyb04)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
+- [wsjan](https://github.com/wsjan)
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
