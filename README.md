@@ -10,7 +10,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+#### *If you're not comfortable with the command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](translations/Translations.md).*
 
@@ -170,7 +170,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+[Twitter](https://twitter.com/sudo__bangbang) and on
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
