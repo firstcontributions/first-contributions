@@ -210,6 +210,8 @@ Alvin
 JOON JANG JOON JANG
 - [Jeet Maity] (https://github.com/jeet-maity)
 -Siddharth Gusain(https://github.com/siddharth-gusain)
+David Leonardo Ruiz Carreño
+- [D4v1d98Ru1z](https://github.com/D4v1d98Ru1z)
 Ben
 - [nuntjw](https://github.com/nuntjw)
 - [w5bh](https://github.com/w5bh)
