@@ -1,15 +1,18 @@
 ﻿# Contributors
-- [Erica Peterson] (https://github.com/ericalpeterson)
-- [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
+- [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [Erica Peterson](https://github.com/ericalpeterson)
+- [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
+- [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
+- [Faith Chikwekwe] (https://github.com/fchikwekwe)
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Aditya Gupta](https://github.com/6aditya8)
@@ -19,6 +22,7 @@ Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Anju Cheran](https://github.com/anjucheran)
+- [David Latorre](https://github.com/latorredev)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
@@ -9621,4 +9625,5 @@ quattad
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
 - [David](https://github.com/IngDavNav)
+- [Mateus Machado](https://github.com/mateusfmachado)
 
