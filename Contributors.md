@@ -34,6 +34,7 @@ Jesse
 - [fyusuf1](https://github.com/fyusuf1)
 - [Rajesh Verma]
 - [Justin Kook] (https://github.com/justinkook)
+- [Amulya Gaur] (https://github.com/amulyagaur)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
