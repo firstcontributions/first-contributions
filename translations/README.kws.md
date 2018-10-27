@@ -63,10 +63,16 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Ikiwa huna git kwenye mashine yako, [ingiza]( https://help.github.com/articles/set-up-git/).
 
 ## Futa hifadhi hii
 
 Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda nakala ya hifadhi hii katika akaunti yako.
 
 ## Weka chumba
+
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboardboard .
+
+
+Fungua terminal na uendesha amri yafuatayo yafuatayo:
