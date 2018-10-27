@@ -997,6 +997,7 @@ Patrizia Trammell
 - [Bryn Roughan](https://github.com/Broughh)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [rciupei](https://github.com/rciupei)
+- [Rich Keyzor](https://github.com/Web-Dev-Rich)
 - [Emmaunuel Owusu](https://github.com/emanovic7)
 - [Zachary Dixon](https://github.com/zachdixon)
 - [David Goodell](https://github.com/Pluto71)
