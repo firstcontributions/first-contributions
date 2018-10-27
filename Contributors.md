@@ -1005,7 +1005,7 @@ Patrizia Trammell
 - [Danny Foster](https://github.com/dxnter)
 - [Urszula](https://github.com/CebUleczka)
 - [James Strong]()
-- [William Carleton]()
+- [Bill Carleton]()
 - [Arka Mitra](https://github.com/thearkamitra)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Mladen Ristić](https://github.com/mladenristic1997)
