@@ -9442,6 +9442,7 @@ Rohan Das
 - [Janess](https://github.com/janees1996)
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
+- [SJ](https://github.com/bluejay2011)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Hyun Daewon](https://github.com/hyundw84)
@@ -9610,4 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [SJ] (https://github.com/bluejay2011)
+
