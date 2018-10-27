@@ -119,4 +119,21 @@ Nou oop `Contributors.md` lêer in 'n teksredigeerder, voeg jou naam daarby. Moe
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
+As u na die projekgids gaan en die opdrag uitvoer `git status`, sal u sien dat daar veranderinge is.
+
+
+Voeg die veranderinge by die tak wat jy net geskep het deur die `git add` opdrag te gebruik:
+
+```
+git add Contributors.md
+```
+
 Doen nou die veranderinge deur die `git commit` opdrag te gebruik:
+
+```
+git commit -m "Add <your-name> to Contributors list"
+```
+
+vervang `<your-name>` met jou naam.
+
+## Druk veranderinge na GitHub
