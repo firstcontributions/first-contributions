@@ -9610,4 +9610,5 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
+- [Nishant Raut](https://github.com/nishantraut)
 
