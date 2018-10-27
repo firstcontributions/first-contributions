@@ -92,3 +92,11 @@ git clone https://github.com/this-is-you/first-contributions.git
 waar `this-is-youis` jou GitHub gebruikersnaam Hier kopieer jy die inhoud van die eerste bydrae repository in GitHub na jou rekenaar.
 
 ## Skep 'n tak
+
+Verander na die repository gids op jou rekenaar (as jy nie reeds daar is nie):
+
+```
+cd first-contributions
+```
+
+Skep nou 'n tak met die git `checkout` opdrag:
