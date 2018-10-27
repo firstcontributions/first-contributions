@@ -122,3 +122,24 @@ git checkout -b add-alonzo-church
 Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina lako. Usiongeze kwenye mwanzo au mwisho wa faili. Weka mahali popote katikati. Sasa, sahau faili.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
+
+
+Ongeza mabadiliko hayo kwenye tawi ulilojenga kwa kutumia `git add` amri:
+
+```
+git add Contributors.md
+```
+
+Sasa fanya mabadiliko hayo kwa kutumia amri `git commit`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+kubadilisha `<your-name>` jina lako.
+
+## Skuma mabadiliko kwenye GitHub
+
+Skuma mabadiliko yako kwa kutumia amri `git push`:
