@@ -149,3 +149,14 @@ git push origin <add-your-branch-name>
 ```
 
 kubadilisha `<add-your-branch-name>` na jina la tawi uliloumba hapo awali.
+
+## Tuma mabadiliko yako kwa ukaguzi
+
+Ikiwa unaenda kwenye hifadhi yako kwenye GitHub, utaona `Compare & pull request` kifungo. Bofya kwenye kifungo hicho.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Sasa weka ombi la kuvuta.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
