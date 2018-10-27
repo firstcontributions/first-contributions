@@ -147,11 +147,11 @@ Tvaralō nēnu mī anni mārpulanu ī prājekṭ yokka pradhāna vibhāgāniki v
 
 మీ సహకారాన్ని జరుపుకుంటారు మరియు మీ స్నేహితులు మరియు అనుచరులతో దీన్ని [web app](https://roshanjossey.github.io/first-contributions/#social-share) కు వెళ్లండి.
 
-మీరు ఏ సహాయం అవసరం లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ జట్టులో చేరవచ్చు. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+మీరు ఏ సహాయం అవసరం లేదా ఏవైనా ప్రశ్నలు ఉంటే మీరు మా స్లాక్ జట్టులో చేరవచ్చు. [స్లాక్ జట్టులో చేరండి](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
-ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము సంకలనం చేసాము. [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list) ను చూడండి.
+ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము సంకలనం చేసాము. [వెబ్ ప్రాజెక్టుల జాబితాలు](https://roshanjossey.github.io/first-contributions/#project-list) ను చూడండి.
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [అదనపు విషయం](additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## ఇతర సాధనాలను ఉపయోగించి ట్యుటోరియల్స్
