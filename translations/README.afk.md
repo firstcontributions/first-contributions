@@ -168,3 +168,4 @@ U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Slu
 
 Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
+### [Bykomende materiaal](additional-material/git_workflow_scenarios/additional-material.md)
