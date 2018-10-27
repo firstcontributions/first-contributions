@@ -9638,4 +9638,4 @@ quattad
 - [Cristian](https://github.com/cencristian)
 - [David](https://github.com/IngDavNav)
 - [Mateus Machado](https://github.com/mateusfmachado)
-
+- [Diogo Silverio](https://github.com/dblsilverio/)
