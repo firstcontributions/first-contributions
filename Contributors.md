@@ -97,6 +97,7 @@ Rich Herbert
 - [jephtahuche](https://github.com/jephtah)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
+- [A Vinayak Rugvedi] (https://github.com/VinayakRugvedi)
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Thuhini](https://github.com/Thuhini)
@@ -9610,4 +9611,3 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-
