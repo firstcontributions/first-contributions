@@ -621,6 +621,7 @@ Patrizia Trammell
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Alin Migea](https://github.com/alinmigea)
 - [Rafael Faria](https://github.com/rafaellfaria)
+- [Ajay Singh] (https://github.com/cuzok)
 - [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
