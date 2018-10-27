@@ -93,4 +93,24 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 wapi `this-is-you` jina lako la mtumiaji GitHub. Hapa unakili nakala ya maudhui ya kwanza ya michango kwenye GitHub kwenye kompyuta yako.
 
-## Create a branch
+## Unda tawi
+
+Badilisha kwenye saraka ya uhifadhi kwenye kompyuta yako (ikiwa huko tayari):
+
+```
+cd first-contributions
+```
+
+Sasa uunda tawi kwa kutumia git `checkout` amri:
+
+Now create a branch using the `git checkout` command:
+
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+Kwa mfano:
+
+```
+git checkout -b add-alonzo-church
+```
