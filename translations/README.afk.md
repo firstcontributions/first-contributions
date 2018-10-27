@@ -137,3 +137,13 @@ git commit -m "Add <your-name> to Contributors list"
 vervang `<your-name>` met jou naam.
 
 ## Druk veranderinge na GitHub
+
+Druk jou veranderinge deur die opdrag te gebruik `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+vervang `<add-your-branch-name>` met die naam van die tak wat jy vroeër geskep het.
+
+## Dien jou veranderinge in vir hersiening
