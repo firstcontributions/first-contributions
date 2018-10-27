@@ -8881,7 +8881,6 @@ Rohan Das
 - [ZWTan](https://github.com/zwtan)
 - [sohanian](https://github.com/sohanian)
 - [Chad Van Wyhe](https://github.com/chadjvw)
-- [Monica Ward](https://github.com/mo-ward)
 - [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
 - [Dmitry](https://github.com/qmitry)
@@ -9605,4 +9604,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-
+- [Leon Dong](https://github.com/dankpigeon)
