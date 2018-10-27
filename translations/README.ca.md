@@ -82,7 +82,7 @@ git commit -m "Add <el-meu-nom> to Contributors list"
 ```
 reemplaçant `<el-meu-nom>` amb el vostre nom.
 
-## Envia (*Push*) els canvis a GitHub
+## _Envia_ (*Push*) els canvis a GitHub
 
 Feu un *Push* dels canvis utilitzant la comanda  `git push`:
 ```
