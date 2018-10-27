@@ -4862,6 +4862,7 @@ Orandi Harris
 - [Mike Smith](https://github.com/Skinward)
 - [Barnash](https://github.com/Shmegeg)
 - [Jean-David Daviet](https://github.com/JeanDavidDaviet)
+- [Quinton Jasper](https://github.com/mexiquin)
 - [Primula Mukherjee](https://github.com/Primuk)
 - [Lola Barbier](https://github.com/coughinbach)
 - [Abhishek Kumar](https://github.com/ismabhishek)
