@@ -143,3 +143,9 @@ kubadilisha `<your-name>` jina lako.
 ## Skuma mabadiliko kwenye GitHub
 
 Skuma mabadiliko yako kwa kutumia amri `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+kubadilisha `<add-your-branch-name>` na jina la tawi uliloumba hapo awali.
