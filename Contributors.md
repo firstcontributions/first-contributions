@@ -204,6 +204,7 @@ JOON JANG JOON JANG
 -Siddharth Gusain(https://github.com/siddharth-gusain)
 Ben
 - [nuntjw](https://github.com/nuntjw)
+- [James Bowler](https://github.com/jimuk07)
 - [w5bh](https://github.com/w5bh)
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [KneeAwn](https://github.com/CalebLarsen)
