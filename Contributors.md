@@ -531,6 +531,7 @@ Patrizia Trammell
 - [vikas1](https://github.com/hVIKAS)
 - [rooki blue](https://github.com/rookieblue0001)
 - [Angela Brownley](https://github.com/brownleya)
+- [Openmedi](https://github.com/openmedi)
 - [Buddhima](https://github.com/buddhima97)
 - [shehasv](https://github.com/shehasv)
 - [Apurva Tripathi](https://github.com/alonemayank)
