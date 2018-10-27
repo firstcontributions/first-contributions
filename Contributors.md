@@ -41,6 +41,7 @@ ashwini
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 Rich Herbert
 - [DMB](https://github.com/dhyeyb04)
+-[NipunGarg]
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
 - [Eren Jaegar](https://github.com/erenjaegar)
