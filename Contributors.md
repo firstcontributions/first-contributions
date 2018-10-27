@@ -18,6 +18,7 @@
 Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
+- [Bhushan Jangle](https://github.com/waffwaff1)
 - [Anju Cheran](https://github.com/anjucheran)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
