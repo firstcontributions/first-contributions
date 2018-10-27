@@ -3832,6 +3832,7 @@ Orandi Harris
 - [Jason](https://github.com/daxapps)
 - [Diana Monteiro](https://github.com/dichaves)
 - [Lise Ho](https://github.com/koprty)
+- [Benoit Decline](https://github.com/bdeglane)
 - [John Doyke](https://github.com/johnjohn12)
 - [Geoffrey Wong](https://github.com/GeoffreyHW)
 - [Aman Agarwal](https://github.com/amanagarwal-sopho)
