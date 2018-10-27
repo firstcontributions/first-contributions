@@ -23,6 +23,7 @@ Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
 Rajesh Verma
+- [Jacquetta Bommuluri](https://github.com/jacquetta)
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
@@ -9610,4 +9611,3 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-
