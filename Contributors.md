@@ -63,6 +63,7 @@ ashwini
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
+- [Kushagra Gulati](https://github.com/kush1106)
 Rich Herbert
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
