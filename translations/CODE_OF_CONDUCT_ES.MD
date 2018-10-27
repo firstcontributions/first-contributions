@@ -26,3 +26,11 @@ Ejemplos de comportamiento inaceptable por parte de los participantes incluye:
 * Agresiones públicas o privadas.
 * Publicación de la información privada de otros, como direcciones físicas o electrónicas sin su permiso explicito
 * Otros comportamientos y conductas que puedan ser inapropiados en un entorno profesional
+
+## Nuestras responsabilidades
+
+Los mantenedores del proyecto son responsables para aclarar los estándares de comportamiento aceptable
+y se espera que se tomen acciones apropiadas y correctivas en respuesta a culquier caso de comportamiento inaceptable.
+
+Los mantenedores del proyecto tienen el derecho y la responsabilidad para remover, editar
+o rechazar, commits, comentarios, código, ediciones de wiki, issues, y otras contribuciones que no están alineadas a este código de conducta, o a expulsar temporal o permanentemente cualquier contribuidor por otros comportamientos que se consideren inadecuados, amenanzantes, ofensivos o hirientes
