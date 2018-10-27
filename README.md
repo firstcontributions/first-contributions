@@ -61,6 +61,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
+Read our [Code of conduct](https://github.com/firstcontributions/first-contributions/blob/master/CODE_OF_CONDUCT.md)
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
