@@ -147,3 +147,13 @@ git push origin <add-your-branch-name>
 vervang `<add-your-branch-name>` met die naam van die tak wat jy vroeër geskep het.
 
 ## Dien jou veranderinge in vir hersiening
+
+As jy na jou repository op GitHub gaan, sal jy 'n `Compare & pull` requestknoppie sien. Klik op daardie knoppie.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Dien nou die trekversoek in.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsmelt. U sal 'n kennisgewing-e-pos ontvang sodra die veranderinge saamgesmelt is.
