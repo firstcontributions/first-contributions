@@ -51,7 +51,7 @@ ashwini
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 Rich Herbert
-- Brett
+- [Brett](https://github.com/brettmontague)
 - [DMB](https://github.com/dhyeyb04)
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
