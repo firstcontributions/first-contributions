@@ -29,6 +29,7 @@ Rajesh Verma
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
+- [Zadorozhnii Yurii] (https://github.com/SirJoraH21)
 - [corxrew](https://github.com/corxrew)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
