@@ -117,4 +117,8 @@ git checkout -b add-alonzo-church
 
 (Jina la tawi haina haja ya kuwa neno liongeze ndani yake, lakini ni jambo la kuzingatia kwa sababu lengo la tawi hili ni kuongeza jina lako kwenye orodha.)
 
-## 
+## Fanya mabadiliko muhimu na ufanyie mabadiliko hayo
+
+Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina lako. Usiongeze kwenye mwanzo au mwisho wa faili. Weka mahali popote katikati. Sasa, sahau faili.
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
