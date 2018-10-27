@@ -95,6 +95,7 @@ Rich Herbert
 - [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
+[jane](https://github.com/tjanepamela)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
 - [madza](https://github.com/madarsbiss)
