@@ -64,3 +64,8 @@ Reading articles & watching tutorials can help, but what's better than actually 
 As jy nie git op jou masjien het nie, [installeer dit]( https://help.github.com/articles/set-up-git/).
 
 ## Vork hierdie bewaarplek
+
+Vork hierdie repo deur op die vurk knoppie bo-aan hierdie bladsy te klik. Dit sal 'n kopie van hierdie repository in u rekening skep.
+
+## Klone die repository
+
