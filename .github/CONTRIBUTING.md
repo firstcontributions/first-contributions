@@ -22,7 +22,7 @@ Move to the desired location where package.json file is located
   
   `npm start`
 
-#### Table Of Contents
+### Table Of Contents
 - [Code of Conduct](#code-of-conduct)
 - [Translation Guide](#translation-guide)
 
@@ -34,7 +34,7 @@ If you want to contribute, you need to know a few things.
 ## Translation Guide
 We have some rules for translation. If you make the first translation for your language, you must add your language list on `Translations.md`.
 
-#### Example
+### Example
 
 `Translations.md`
 ```markdown
