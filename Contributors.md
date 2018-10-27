@@ -4931,6 +4931,7 @@ Rohan Das
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
 - [Khoa Tran](https://github.com/khoa102)
+- [Bryce](https://github.com/bkblanton)
 - [Ashish Bansode](https://github.com/bansodeashish24)
 - [Eric Johnson](https://github.com/erjohns3)
 - [Beecallpaw Thapa](https://github.com/Beecallpaw)
