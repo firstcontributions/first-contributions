@@ -5704,6 +5704,7 @@ Rohan Das
 - [Aman Sidhant](https://github.com/amansidhant)
 - [Ade](https://github.com/adelina1985a/)
 - [Luke Wahlmeier](https://github.com/lukehw)
+- [Purarity] (https://github.com/Purarity)
 - [Angela Schneider](https://github.com/BLUEBUNNY12)
 - [Linda Andersen](https://github.com/AndersenLinda)
 - [Juliana Sarmento](https://github.com/JulianaSarmento)
