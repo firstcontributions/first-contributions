@@ -9,6 +9,7 @@
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
+- [Amal Dinesh](https://github.com/amaldinesh4549)
 - julio-garcia-fc
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
