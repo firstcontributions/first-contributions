@@ -56,3 +56,11 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
+
+
+
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+As jy nie git op jou masjien het nie, [installeer dit]( https://help.github.com/articles/set-up-git/).
+
+## Vork hierdie bewaarplek
