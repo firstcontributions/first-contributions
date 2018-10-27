@@ -977,6 +977,7 @@ Patrizia Trammell
 - [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
+- [arunish kumar](https://github.com/arunishkumar)
 - [Mark Bowden](https://github.com/Mb01)
 - [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
