@@ -97,6 +97,7 @@ Rich Herbert
 - [jephtahuche](https://github.com/jephtah)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
+- [Naman Kapoor](https://github.com/naman-kapoor)
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Thuhini](https://github.com/Thuhini)
