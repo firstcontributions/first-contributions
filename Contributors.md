@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
@@ -176,6 +176,7 @@ Rich Herbert
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
+Santanu
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
