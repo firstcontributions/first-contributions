@@ -763,6 +763,7 @@
 - [Piotr Zawadzki](https://github.com/zaramid)
 - [Gary Dhillon](https://github.com/gary-dhillon)
 - [Robat Das Orvi](https://github.com/orvi2014)
+- [Javier Montero](https://github.com/javmonisu)
 - [Allysa Fletcher](https://github.com/alldanfin)
 - [NVS ABHISHEK](https://github.com/NVS16)
 - [Frank Schiller](https://github.com/frankles12)
@@ -889,4 +890,3 @@
 - [Ple](https://github.com/plemomay)
 - [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
 - [Akani](https://github.com/akanijade)
-- [Javier Montero](https://github.com/javmonisu)
