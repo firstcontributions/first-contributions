@@ -27,6 +27,7 @@ Rajesh Verma
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [corxrew](https://github.com/corxrew)
+- [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
