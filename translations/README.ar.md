@@ -114,9 +114,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl">ارفع التغيررات عن طريق الأمر <code>git push</code></div>
 
-```
-git push origin "add-your-name"
-```
+
 
 <div dir="rtl">استبدل <code>&#60;add-your-name&#62;</code> باسم الفرع الذي أنشأته من قبل.</div>
 
