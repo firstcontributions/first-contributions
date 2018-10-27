@@ -1,6 +1,6 @@
 # Contributors
 Add your name below. Don't add it at the beginning or end of the file. Put it anywhere in between. 
-#### *Try and keep the standard of the file: '- [name](YourGitURL)'*
+#### *Try and keep the standard of the file e.g. 	[name](yourProfileURL)
 #### *Remember: Quantity is fun, Quality is key*
 
 - [Erica Peterson](https://github.com/ericalpeterson)
