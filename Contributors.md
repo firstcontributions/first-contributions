@@ -9240,6 +9240,7 @@ Rohan Das
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
 - [Pete Madis](https://github.com/petemadis)
+- [Gene Pride](https://github.com/genepride)
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Prakhar Dubey] (https://github.com/prakhardb)
