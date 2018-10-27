@@ -3580,6 +3580,7 @@ Orandi Harris
 - [Vaibhav Jain](https://github.com/VJ-Jain)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Karanbir Singh](https://github.com/karanbirsingh99)
+Tanishq Gupta
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Anirudh Mukherjee](https://github.com/AnirudhMukherjee)
 - [Harsh Shah](https://github.com/harshcrop)
