@@ -54,6 +54,7 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
+[🇿🇦](translations/README.zul.md)
 
 
 
