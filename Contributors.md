@@ -2126,6 +2126,7 @@ Patrizia Trammell
 - [Toms Engelis](https://github.com/Angeltoms)
 - [Jonathan Perea](https://github.com/jtperea)
 - [Grace DuMez](https://github.com/notsavinggrace)
+- [Savidu Dias] (https://github.com/Savidude)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
