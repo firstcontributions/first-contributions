@@ -179,6 +179,7 @@ Rich Herbert
 - [DB](https://github.com/dhyeyb04)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [Mohammad Aziz](https://github.com/iAziz786)
+- [stratosgear](https://github.com/stratosgear)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
 - [Mai Nguyen](https://github.com/maidoesthings)
@@ -977,7 +978,6 @@ Patrizia Trammell
 - [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
-- [arunish kumar](https://github.com/arunishkumar)
 - [Mark Bowden](https://github.com/Mb01)
 - [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
@@ -2009,7 +2009,6 @@ Patrizia Trammell
 - [patrik](https://github.com/patrik13)
 - [Mamdouh Almutairi](https://github.com/MamdouhA)
 - [Ankit Bando](https://github.com/OutrageousStop)
-- [Videogamedunkey](https://github.com)
 - [Ryan Robinson](https://github.com/Ryan00000)
 - [anoushka](https://github.com/Anoushka-Anu)
 - [john](https://github.com/forwinder15)
