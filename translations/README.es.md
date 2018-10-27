@@ -126,7 +126,7 @@ Notarás aquí que estás empujando(push) a la url remota llamada origin.
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## A dónde ir desde aquí?
+## ¿A dónde ir desde aquí?
 
 También podrías unirte a nuestro *equipo* Slack en caso de que necesites alguna ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://firstcontributions.herokuapp.com)
 
