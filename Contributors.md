@@ -9507,6 +9507,7 @@ Rohan Das
 - [Billy Tan](https://github.com/cieltan)
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
+- [Ricardo D. Ferrer](https://github.com/ricdferrer)
 - [Sachin Junghare](https://github.com/sachininfy)
 quattad
 - [goatlink](https://github.com/goatlink)
@@ -9610,4 +9611,5 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
+
 
