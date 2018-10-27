@@ -7666,6 +7666,7 @@ Rohan Das
 - [Jack Lim](https://github.com/thecodingjack)
 - [Joseph Climber](https://github.com/liobr)
 - [Ryzal Kamis](https://github.com/ryzalk)
+- [Rayle Tim](https://github.com/timrayle)
 - [cetLEE](https://github.com/cetLEE)
 - [avama](https://github.com/avama)
 - [Swapnil Ojha](https://github.com/swakansh/)
