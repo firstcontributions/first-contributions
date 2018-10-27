@@ -19,6 +19,7 @@
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
+- [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
