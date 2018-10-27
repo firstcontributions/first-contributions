@@ -111,6 +111,7 @@ Rich Herbert
 - [carriekolmer](https://github.com/carriekolmer)
 - [tonetheman](https://github.com/tonetheman)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
+- [Tanish Kapur](https://github.com/tan33sh)
 - [Philippe Targino](https://github.com/ptargino)
 - [Bryan Endres] (https://github.com/bendres97)
 - [QrBe](https://github.com/QrBe)
