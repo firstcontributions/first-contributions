@@ -5793,6 +5793,7 @@ Rohan Das
 - [Pablo Trinidad](https://github.com/pablotrinidad)
 - [Naman Manchanda](https://github.com/namanmanchanda09)
 - [Sangwon Kim](https://github.com/sangwo)
+- [Tristan Sweet] (https://github.com/sweet7799)
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
