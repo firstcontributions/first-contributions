@@ -126,6 +126,7 @@ Rich Herbert
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
+- [Sudeshkumar1611](https://github.com/Sudeshkumar1611)
 - [Eduardo Robles](https://github.com/eduardo-robles)
 - [Matthew Speake](https://github.com/mspeake16)
 - [Florin Irion](https://github.com/irionr)
