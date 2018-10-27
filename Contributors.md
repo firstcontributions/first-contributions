@@ -7,6 +7,7 @@
 - [Ashu](https://github.com/ashu1999)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
+- [arunish kumar](https://github.com/arunishkumar)
 - [AnnChar](https://github.com/annchar)
 - [KaranRandhir](https://github.com/KaranRandhir)
 - [RukkiesMan](https://github.com/rukkiesman)
