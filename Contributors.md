@@ -16,6 +16,7 @@
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
+
 Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
@@ -132,6 +133,7 @@ Rich Herbert
   [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
+- [Debajyoti Dasgupta](https://github.com/debajyoti-iitkgp)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
 - [Eduardo Robles](https://github.com/eduardo-robles)
