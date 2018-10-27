@@ -2,6 +2,7 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
+- Maaz Jawaid (https://github.com/maaz28)
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
