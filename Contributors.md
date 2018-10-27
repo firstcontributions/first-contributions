@@ -72,6 +72,7 @@ Rich Herbert
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Krishna kunal](https://github.com/krish-kunal)
+- [Akshay Mhatre](https://github.com/akshay-mhatre)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
 - [Steve-Worrell](https://github.com/Steve-Worrell)
