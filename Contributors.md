@@ -4,6 +4,7 @@
 - Jason
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
+- [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
@@ -20,6 +21,7 @@ Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Anju Cheran](https://github.com/anjucheran)
+- [David Latorre](https://github.com/latorredev)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
@@ -9621,3 +9623,5 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
+- [Mateus Machado](https://github.com/mateusfmachado)
+
