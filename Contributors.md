@@ -2,6 +2,7 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
+- [FredMck](https://github.com/FredMck)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
 - [Abhinav Gupta  ](https://github.com/ag-23)
@@ -9620,4 +9621,3 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-
