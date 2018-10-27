@@ -69,3 +69,22 @@ Vork hierdie repo deur op die vurk knoppie bo-aan hierdie bladsy te klik. Dit sa
 
 ## Klone die repository
 
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+Klone nou die vurk repo aan jou masjien. Gaan na jou GitHub-rekening, maak die vurk repo oop, klik op die kloonknop en klik dan op die kopie na die knipbord- ikoon.
+
+Open 'n terminaal en voer die volgende git opdrag uit:
+
+```
+git clone "url you just copied"
+```
+
+waar "url jy net gekopieer" het (sonder die aanhalingstekens) is die url na hierdie repository (jou vurk van hierdie projek). Sien die vorige stappe om die url te verkry.
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+Byvoorbeeld:
+
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
