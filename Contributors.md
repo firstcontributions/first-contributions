@@ -419,6 +419,7 @@ aalbusoiu
 - [Kirk Clemons](https://github.com/kcclemo)
 - [Thomas Abbott] (https://github.com/abbotttp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
+- [Neelakanta Gouda Patil](https://github.com/NEELAKANTAGOUDAPATIL)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
