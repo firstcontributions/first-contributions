@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
@@ -19,6 +19,7 @@ Alexandra Cannon
 - [Anju Cheran](https://github.com/anjucheran)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
+- [Prabal Gupta](https://github.com/prabalgupta)
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
