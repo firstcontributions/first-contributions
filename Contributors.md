@@ -9457,6 +9457,7 @@ Rohan Das
 - [Lee Qixian](https://github.com/swiftpolar)
 - [Nathan Park](https://github.com/ul7290)
 - [Darshan Sharma](https://darshansharma.github.io)
+- [Ozan](https://github.com/oznakn)
 - [Shikha Tiwari](https://github.com/allenqueen)
 - [Mani Bhushan](https://github.com/manibhushan)
 - [Michelson Henrik](https://github.com/michelsonhns)
@@ -9610,4 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Ozan](https://github.com/oznakn)
+
