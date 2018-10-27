@@ -114,3 +114,7 @@ Kwa mfano:
 ```
 git checkout -b add-alonzo-church
 ```
+
+(Jina la tawi haina haja ya kuwa neno liongeze ndani yake, lakini ni jambo la kuzingatia kwa sababu lengo la tawi hili ni kuongeza jina lako kwenye orodha.)
+
+## 
