@@ -1,5 +1,6 @@
 # Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
+- [Binary Shrey] (http://github.com/binaryshrey)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
 - [shanto](https://github.com/shanto)
