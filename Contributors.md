@@ -1,12 +1,14 @@
-# Contributors
+﻿# Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
 - [shanto](https://github.com/shanto)
-- [Natalie Fleming](https://github.com/nataliefleming)
+- [Natalie Fleming]
+(https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
+[jane](https://github.com/tpamela)
 - julio-garcia-fc
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
