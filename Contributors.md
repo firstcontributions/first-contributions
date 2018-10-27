@@ -4,6 +4,7 @@
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
+- [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
