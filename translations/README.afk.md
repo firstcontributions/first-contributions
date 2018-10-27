@@ -8,7 +8,7 @@
 
 Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wanneer jy saamwerk, maak foute nie 'n gemaklike ding nie. Ons wou die manier waarop nuwe open source bydraers vir die eerste keer leer en bydra, vereenvoudig.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
 
 #### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.]( #tutorials-using-other-tools )*
 
