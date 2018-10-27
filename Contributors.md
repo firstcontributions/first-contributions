@@ -3,6 +3,7 @@
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
 - [Omkar] 
+- [Rishabh]
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
