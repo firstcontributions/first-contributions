@@ -171,3 +171,7 @@ Sherehe mchango wako na uwashiriki na marafiki zako na wafuasi kwa kwenda kwenye
 Unaweza kujiunga na timu yetu ya slack ikiwa unahitaji msaada wowote au una maswali yoyote. [Jiunge na timu ya slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya miradi na masuala rahisi unaweza kuanza. Angalia [orodha ya miradi katika programu ya wavuti](https://roshanjossey.github.io/first-contributions/#project-list).
+
+### [Vifaa vingine](additional-material/git_workflow_scenarios/additional-material.md)
+
+## Tutorials Using Other Tools
