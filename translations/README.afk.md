@@ -100,3 +100,15 @@ cd first-contributions
 ```
 
 Skep nou 'n tak met die git `checkout` opdrag:
+
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+Byvoorbeeld:
+
+```
+git checkout -b add-alonzo-church
+```
+
+(Die naam van die tak hoef nie die woord by te voeg nie, maar dit is 'n redelike ding om in te sluit omdat die doel van hierdie tak is om jou naam by 'n lys te voeg.)
