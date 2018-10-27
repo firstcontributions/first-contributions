@@ -133,6 +133,7 @@ Rich Herbert
 - [DanielBiegler](https://github.com/danielbiegler)
 - [Nisal97]-(https://github.com/Nisal97)
 - [MalkaSaba](https://github.com/malkasaba)
+- [JaredCotton](https://github.com/JACC-Creations)
 - [ChristopherCarr](https://github.com/christocarr)
 - [Santiago Mas] (https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
