@@ -9619,5 +9619,6 @@ quattad
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
+- [Quan Pham](https://github.com/mikunpham)
 - [Cristian](https://github.com/cencristian)
 
