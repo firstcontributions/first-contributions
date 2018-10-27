@@ -15,6 +15,7 @@
 - [Faith Chikwekwe] (https://github.com/fchikwekwe)
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
+- [Guillermo Gonzalez](https://github.com/nwni)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Maike Negreiros](https://github.com/maikenegreiros)
