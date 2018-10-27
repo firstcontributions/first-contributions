@@ -161,3 +161,10 @@ Binnekort sal ek al jou veranderinge in die meestertak van hierdie projek saamsm
 ## Waarheen gaan jy vandaan?
 
 Geluk! Jy het net die standaardvurk voltooi -> klone -> wysig -> PR- werkvloei wat jy dikwels as 'n bydraer sal ervaar!
+
+Vier jou bydrae en deel dit met jou vriende en volgelinge deur na die [webprogram te](https://roshanjossey.github.io/first-contributions/#social-share) gaan .
+
+U kan by ons span aansluit indien u enige hulp nodig het of enige vrae het. [Sluit aan by 'n slapende span](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saamgestel met maklike probleme waarmee u kan begin. Kyk na [die lys van projekte in die web app](https://roshanjossey.github.io/first-contributions/#project-list).
+
