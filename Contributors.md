@@ -1131,6 +1131,7 @@ Patrizia Trammell
 - [Pergamon256](https://github.com/Pergamon256)
 - [Sudhanshu](https://github.com/capreyon)
 - [Mahesh Tudu](https://github.com/mahis929)
+- [Rehnab Khan](https://github.com/rehnab)
 - [Chuong Tran](https://github.com/chuongtrh)
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
