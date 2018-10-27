@@ -114,3 +114,9 @@ git checkout -b add-alonzo-church
 (Die naam van die tak hoef nie die woord by te voeg nie, maar dit is 'n redelike ding om in te sluit omdat die doel van hierdie tak is om jou naam by 'n lys te voeg.)
 
 ## Maak die nodige veranderinge en verbind die veranderinge
+
+Nou oop `Contributors.md` lêer in 'n teksredigeerder, voeg jou naam daarby. Moet dit nie aan die begin of einde van die lêer byvoeg nie. Sit dit oral tussenin. Stoor nou die lêer.
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+Doen nou die veranderinge deur die `git commit` opdrag te gebruik:
