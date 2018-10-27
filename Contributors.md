@@ -2,6 +2,7 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
+- [Rachel L](https://github.com/rslim87)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
 - [Abhinav Gupta  ](https://github.com/ag-23)
