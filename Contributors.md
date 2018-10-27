@@ -105,6 +105,7 @@ Rich Herbert
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Zilyck](https://github.com/zilyck)
+- [Darshana Joshi] (https://github.com/Joshi-D)
 - [Angus] (https://github.com/AngusGardnerWKC)
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
