@@ -1,6 +1,6 @@
 # Contributors
 Add your name below. Don't add it at the beginning or end of the file. Put it anywhere in between. 
-#### *Try and keep the standard of the file: "- [name](YourGitURL)"*
+#### *Try and keep the standard of the file: '- [name](YourGitURL)'*
 #### *Remember: Quantity is fun, Quality is key*
 
 - [Erica Peterson](https://github.com/ericalpeterson)
@@ -555,7 +555,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Anuj Kharbanda](https://github.com/Anuj2711)
 - [Akshay Solanki](https://github.com/AkshayS96)
 - [Tech Performer]()
-- [imbassi][https://github.com/imbassi]
+- [imbassi](https://github.com/imbassi)
 - [Jakeliny Gracielly](https://github.com/jakeliny)
 - [Mr_Patcher](https://github.com/Mr-Patcher)
 - [Parth Manhas](https://github.com/ishouldcode)
@@ -2283,7 +2283,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Javisth](https://github.com/javisth)
 - [Aquakor](https://github.com/Aquakor)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
-- [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
+- [Caleb Bolton](https://github.com/AstroBolt)
 - [SteveFFresno](https://github.com/stevef-fresno)
 - [Aditya Naidu](https://github.com/aditya9509/)
 - [newOne ##](https://github.com/arthurAdinayevProjects)
@@ -2303,7 +2303,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Ryan Abney](https://github.com/rcabney)
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
-- [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
+- [UTKARSH AGRAWAL](https://github.com/wompowe)
 - [Kiyas](https://github.com/kiyas)
 - [Ananya Keshari](https://github.com/ana301)
 - [Matan Cohen](https://github.com/comatan96)
@@ -2333,7 +2333,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Josh Friesen](https://github.com/joshfriesen)
 - [Palmer Hinchliffe](https://github.com/palmerhinchliffe)
 - [juvestig](https://github.com/juvestig)
-- [Justin Calma](https://github.com/JCCII) 8/11/2018
+- [Justin Calma](https://github.com/JCCII)
 - [Ankita](https://github.com/Ankita3010)
 - [Chinmay Ingle](https://github.com/chinmayingle)
 - [Jimson Sulit](https://github.com/jimsonsulit)
@@ -3996,7 +3996,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [KayrabCebll](https://github.com/kayrabCebll)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
 - [Domingo Cabeza](https://github.com/domingoacd)
-- [**Devsur**](https://github.com/devsur)
+- [Devsur](https://github.com/devsur)
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
 - [Joe Wilson](https://github.com/jaw0608)
@@ -7588,7 +7588,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Simon Pearson](https://github.com/simon-pearson)
 - [Thomas Falk](https://github.com/x8-ball)
 - [Josh Akeman](https://github.com/joshakeman)
-- [Arkady Titenko](https://github.com/arkadyt) (Record added: June 19, 2018)
+- [Arkady Titenko](https://github.com/arkadyt)
 - [Emil Valentin Toma](https://github.com/Emil-Valentin-Toma)
 - [Sammyak Sangai](https://github.com/sammyaksangai)
 - [Tim Smith](https://github.com/iamtimsmith)
@@ -8826,7 +8826,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Hassani King Senior](https://github.com/HKSenior)
-- [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
+- [Yobani Mendoza](https://github.com/yobani1987)
 - [Mike Tabola](https://github.com/r00tm4k3r)
 - [Bruno Silva](https://github.com/brunorgs)
 - [Josh Horwitz](https://github.com/jdhorwitz)
@@ -9366,7 +9366,7 @@ Add your name below. Don't add it at the beginning or end of the file. Put it an
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
 - [Yusef Mustafa](https://github.com/yusefjmustafa)
-- [Darryl Yeo](https://github.com/darrylyeo) (darryl-yeo.com)
+- [Darryl Yeo](https://github.com/darrylyeo)
 - [Peggy Tao](https://github.com/peggytao)
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes](https://github.com/amandarfernandes)
