@@ -170,6 +170,7 @@ Rich Herbert
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
+-  [Nipun Goel]
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
