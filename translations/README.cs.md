@@ -65,9 +65,9 @@ Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, j
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
-Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okénku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
-Teď otevřte terminál a spusťte následující příkaz:
+Teď otevřete terminál a spusťte následující příkaz:
 
 ```
 git clone "url které jste právě zkopírovali"
