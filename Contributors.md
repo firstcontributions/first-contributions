@@ -1,7 +1,7 @@
 # Contributors
-# Add your name below. Don't add it at the beginning or end of the file. Put it anywhere in between. 
-# Try and keep the standard of the file: "- [name](YourGitURL)"
-# Remember: Quantity is fun, Quality is key
+Add your name below. Don't add it at the beginning or end of the file. Put it anywhere in between. 
+#### *Try and keep the standard of the file: "- [name](YourGitURL)"*
+#### *Remember: Quantity is fun, Quality is key*
 
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Glenville Fanoo](https://github.com/glenvillef)
