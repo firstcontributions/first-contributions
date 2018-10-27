@@ -13,6 +13,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](translations/Translations.md).*
+##The transalations are given below`
 
 [🇮🇳](translations/README.hi.md)
 [🇲🇲](translations/README.mm_unicode.md)
