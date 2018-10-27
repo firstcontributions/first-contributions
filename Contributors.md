@@ -11,6 +11,7 @@
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
+- [Faith Chikwekwe] (https://github.com/fchikwekwe)
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Aditya Gupta](https://github.com/6aditya8)
