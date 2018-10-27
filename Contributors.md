@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
@@ -14,6 +14,7 @@
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
+- [nohem](https://github.com/nohhem)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
@@ -203,6 +204,7 @@ JOON JANG JOON JANG
 - [Jeet Maity] (https://github.com/jeet-maity)
 -Siddharth Gusain(https://github.com/siddharth-gusain)
 Ben
+- [nuntjw](https://github.com/nuntjw)
 - [nuntjw](https://github.com/nuntjw)
 - [w5bh](https://github.com/w5bh)
 - [fullheightcoding](https://github.com/fullheightcoding)
