@@ -8904,6 +8904,7 @@ Benzene
 - [Adi Biton](https://github.com/adibiton)
 - [Sara Ashraf](https://github.com/ZaraAshraf)
 - [Amit Levy](https://github.com/amitlevy)
+- [Thong Ngo] (https://github.com/thongngo3301)
 - [Marcos Linberg] (https://github.com/marcoslinberg)
 - [Nguyen Duy Khanh] (https://github.com/Songuku95)
 - [Ganesh Rajasekar](https://github.com/ganesh292)
