@@ -8829,6 +8829,7 @@ Rohan Das
 - [Sandro Aguilar](https://github.com/sunny-aguilar)
 - [Caitlyn Woods](https://github.com/catielynncodes)
 - [Chaz Kondo](https://github.com/demifire)
+- [Michael Anderson](https://github.com/rockstar3505)
 - [Irwan Kurnia Phan](https://github.com/irwanphan)
 - [Ethan Hsu](https://github.com/ethan627hsu)
 - [Gustavo Zavaleta](https://github.com/mzavaletavargas/)
@@ -8840,7 +8841,7 @@ Rohan Das
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [Jackie Owen](https://github.com/jackie1969)
 - [IgnasA](https://github.com/IgnasA)
-- [Saswat]
+- [Saswat]()
 - [John Kryspin](https://github.com/jibbey)
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
