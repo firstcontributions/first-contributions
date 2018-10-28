@@ -8720,6 +8720,7 @@ Rohan Das
 - [Roberto Bernardinello](https://github.com/rbernardinello)
 - [Caio Augusto](https://github.com/caioag)
 - [Eve Mendelevich](https://github.com/mendelevich)
+- [Andrzej Dubaj](https://github.com/coffeina)
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
