@@ -9176,6 +9176,7 @@ Rohan Das
 - [Padniuk Evgeny](https://github.com/muspelheim)
 - [Yasir Abdurrohman](https://github.com/yasirabd)
 - [Sinitax](https://github.com/sinitax)
+- [Daniel](https://github.com/daordonez11)
 - [Laurin Neff](https://github.com/laurinneff)
 - [Mughees Ali](https://github.com/IMughees)
 - [Janson Chew](https://github.com/haichew)
