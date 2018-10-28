@@ -9089,6 +9089,7 @@ Rohan Das
 - [Janson Chew](https://github.com/haichew)
 - [Het Patel](https://github.com/hetp111)
 - [Mehdi Druon](https://github.com/MehdiDr)
+- [Nishant Raut](https://github.com/nishantraut)
 - [Marina D](https://github.com/purple-giraffey)
 - [Kristian Roebuck](https://github.com/roebuk)
 - [NalinLuthra](https://github.com/NalinLuthra)
@@ -9610,5 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Nishant Raut](https://github.com/nishantraut)
 
