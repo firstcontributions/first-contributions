@@ -10,7 +10,7 @@
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
-- [Ihoey](https://github.com/ihoey)
+- [Ihoey](https://github.com/ihoey)x
 - julio-garcia-fc
 - [Faith Chikwekwe] (https://github.com/fchikwekwe)
 - [Ravi Jain] (https://github.com/engrravijain)
