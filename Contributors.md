@@ -681,6 +681,7 @@ Patrizia Trammell
 - [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Dhiraj Kalita](https://github.com/dhrjklt)
+- [Kaustubh Khandelwal](http://github.com/kaustubh2705)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Vikki111](https://github.com/Vikki111)
