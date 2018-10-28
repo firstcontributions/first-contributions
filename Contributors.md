@@ -24,8 +24,6 @@ Alexandra Cannon
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
-- [Suulola Oluwaseyi](https://github.com/mySuulola)
-
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
@@ -318,6 +316,7 @@ aalbusoiu
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Shelly Tomar](https://github.com/ShellyTomar26)
 - [Luong Nguyen](https://github.com/luongdn)
+- [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan] (https://github.com/setiam3)
 - [Arthur van Acker](https://github.com/puupa)
