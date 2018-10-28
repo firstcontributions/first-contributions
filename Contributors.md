@@ -9542,6 +9542,7 @@ Rohan Das
 - [Rana Faisal](https://github.com/IRanaFaisal)
 - [Mudassar Nazeer](https://github.com/MudassarNazeer1)
 - [Matt Clinton](https://github.com/clnt)
+- [Edgardo Mendez](https://github.com/edgamen)
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
 - [Argha Sen](https://github.com/arghasen)
