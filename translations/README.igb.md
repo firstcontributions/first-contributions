@@ -57,6 +57,8 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
+
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
@@ -66,8 +68,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 ## Wepu ebe nchekwa a
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Wepu a repo site na ịpị bọtịnụ mkpịsị aka n'elu nke ibe a. Nke a ga-emepụta otu ntinye nchekwa a na akaụntụ gị.
 
 ## Na-ekpuchi ebe nchekwa
 
@@ -75,7 +76,7 @@ This will create a copy of this repository in your account.
 
 Ugbu a, dochie ya repo na igwe gị. Gaa na akaụntụ GitHub gị, meghee repo ahụ maka pịa, pịa bọtịnụ clone ma pịazie ya na akara ngosi akara ngosi.
 
-Open a terminal and run the following git command:
+Mepee ọnụ ma jikwa iwu na-esonụ:
 
 ```
 git clone "url you just copied"
@@ -91,7 +92,7 @@ ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nc
 git clone https://github.com/this-is-you/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+ebee `this-is-you` ka aha njirimara GitHub gị. Lee, ị na-edegharị ọdịnaya nke onyinye ntinye mbụ na GitHub na kọmputa gị.
 
 ## Mepụta alaka
 

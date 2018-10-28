@@ -56,6 +56,7 @@ Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
 
 
 

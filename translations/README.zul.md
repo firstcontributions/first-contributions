@@ -56,6 +56,8 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza
 [🇲🇽](translations/README.mx.md)
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
+[🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
 
 
 

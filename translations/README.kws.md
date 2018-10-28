@@ -58,6 +58,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
 
 
 
