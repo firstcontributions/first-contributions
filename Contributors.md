@@ -145,6 +145,7 @@
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
+- [Bhoomika Gupta](https://github.com/23181791b)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Zilyck](https://github.com/zilyck)
 - [Darshana Joshi] (https://github.com/Joshi-D)
