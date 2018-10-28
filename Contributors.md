@@ -15,6 +15,7 @@
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Rachel L](https://github.com/rslim87)
+- [alayew](https://github.com/alaynew)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
