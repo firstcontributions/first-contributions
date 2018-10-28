@@ -97,6 +97,7 @@ Rich Herbert
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
+- [Katarzyna Mazur](https://github.com/KatarzynaMaz)
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
