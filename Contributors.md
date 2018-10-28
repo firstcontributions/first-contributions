@@ -1,9 +1,7 @@
 # Contributors
-- [gilded1](https://github.com/gilded1)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
-- [Aditi Garg](https://github.com/ADITI-08)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
@@ -4943,7 +4941,6 @@ Rohan Das
 - [Lee](https://github.com/lnsykalski)
 - [Jacob Brown](https://github.com/Gamerick)
 - [Khoa Tran](https://github.com/khoa102)
-- [Bryce](https://github.com/bkblanton)
 - [Ashish Bansode](https://github.com/bansodeashish24)
 - [Eric Johnson](https://github.com/erjohns3)
 - [Beecallpaw Thapa](https://github.com/Beecallpaw)
@@ -9691,3 +9688,4 @@ quattad
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
 - [Debasree Chatterjee] (https://github.com/debo1398)
+- [Sagar Utekar](https://github.com/Sagar2366)
