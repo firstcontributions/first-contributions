@@ -9040,6 +9040,7 @@ Rohan Das
 - [sohanian](https://github.com/sohanian)
 - [Chad Van Wyhe](https://github.com/chadjvw)
 - [Monica Ward](https://github.com/mo-ward)
+- [Devin Ward](https://github.com/devsquared)
 - [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
 - [Dmitry](https://github.com/qmitry)
