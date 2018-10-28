@@ -9391,6 +9391,7 @@ Rohan Das
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
 - [Joao V Souto](https://github.com/JoaoVSouto)
+- [Mayra Perpetua](https://github.com/MayraPerpetua)
 - [Mon555](https://github.com/mon555)
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Rui Neto](https://github.com/rnetonet)
