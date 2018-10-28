@@ -148,6 +148,7 @@ Rich Herbert
 - [muchai](https://github.com/muchai)
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
+- [Marichka Offen](https://github.com/Marichka94)
 - [Aashita Arora](https://github.com/aashitaarora)
 - [Lauren Tingler](https://github.com/laurenolivia18)
 - [Natália Oliveira](https://github.com/nfo94)
