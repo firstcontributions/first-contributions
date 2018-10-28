@@ -9594,6 +9594,7 @@ Rohan Das
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
 - [Ronaldo Gomes](https://github.com/ron17)
+- [Anne Losch](https://github.com/mathisme)
 - [Arihant Bansal](https://github.com/arihantbansal)
 - [Shivam Saraswat](https://github.com/codeway0709)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
