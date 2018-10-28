@@ -95,3 +95,22 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## Mepụta alaka
 
+Gbanwee na nhazi ndekọ na kọmputa gị (ọ bụrụ na ịnweghị ebe ahụ):
+
+```
+cd first-contributions
+```
+
+Ugbu a, mepụta alaka ụlọ ọrụ site na iji `git checkout` iwu:
+
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+Ọmụmaatụ:
+
+```
+git checkout -b add-alonzo-church
+```
+
+(Aha alaka ahụ adịghị mkpa iji tinye okwu ahụ n'ime ya, ma ọ bụ ihe dị mkpa ị gụnyere n'ihi na ebumnuche nke alaka a bụ ịgbakwunye aha gị na ndepụta.)
