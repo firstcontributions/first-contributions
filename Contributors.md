@@ -35,6 +35,7 @@
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
+- [Mebin Johnson](https://github.com/mebinjohnson)
 Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
