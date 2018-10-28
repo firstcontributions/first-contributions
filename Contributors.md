@@ -14,6 +14,7 @@
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
+- [Aashish Kumar](https://github.com/aashish-ak)
 - [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
