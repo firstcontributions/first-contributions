@@ -103,7 +103,6 @@ cd first-contributions
 
 Sasa uunda tawi kwa kutumia git `checkout` amri:
 
-Now create a branch using the `git checkout` command:
 
 ```
 git checkout -b <add-your-new-branch-name>
