@@ -1,4 +1,5 @@
 # Contributors
+- [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
