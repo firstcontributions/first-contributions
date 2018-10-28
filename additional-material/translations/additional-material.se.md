@@ -1,61 +1,53 @@
 # Mer information
 
-Vi antar att du redan har gjort den grundläggande TUTORIAL innan du läser det här dokumentet.
+Vi antar att du redan gått igenom den grundläggande guiden innan du läser det här dokumentet.
 Detta dokumentet kommer ge dig mer information över några avancerade Git tekníker.
+(Repository är översatt till datakatalog) 
 
 
 ### Amenda en commit
-Detta dokumentet förser information om hur man amendar en commit som ligger på en fjärr REPOSITORY.
+Detta dokumentet förser information om hur man amendar en commit som ligger på en fjärrdatakatalog.
 > Använd denna när du behöver rätta en commit du gjort.
 
 ### Konfigurera git
-Detta dokumentet förser information om hur man konfigurerar användardetaljer och andra OPTIONS i git.
+Detta dokumentet förser information om hur man konfigurerar användardetaljer och andra inställningar i git.
 > Använd detta för att få bättre kontroll över dina gitkonfigurationer.
 
-### Håll din fork synkroniserad med REPOSITORYN
-Detta dokumentet förser information om hur man
-This document provides information about how to keep your forked repository up-to-date with the base repository.
-This is important, as hopefully you and many others will contribute to the project.
-> Follow these steps if your fork doesn't have any changes in parent repository.
+### Håll din fork synkroniserad med datakatalog
+Detta dokumentet förser information om hur man håller sin forkade datakatalog updaterad med bas datakatalog.
+Detta är viktigt, då förhoppningsvis du och många andra kommer att bidra till projektet.
+> Följ dessa steg om din fork inte har några föranändringar i föräldrar datakatalogen.
 
 ### Flytta en commit till en annan gren
-Detta dokumentet förser information om hur man
-This document provides information about how to move a Commit to another Branch.
-> Take these steps to move a commit to another branch.
+Detta dokumentet förser information om hur man flyttar en commit till en annan gren.
+> Följ dessa steg för att flytta en commit till en annan gren.
 
 ### Ta bort en fil
-Detta dokumentet förser information om hur man
-This document provides information about how to remove a file from your local repository.
-> Follow these steps to learn how to remove a file prior to a commit
+Detta dokumentet förser information om hur man tar bort en fil från ens egna lokala datakatalog.
+> Följ dessa steg för att lära dig hur man tar bort en fil innan en commit.
 
-### Ta bort en gren från REPOSITORY
-Detta dokumentet förser information om hur man
-This document provides information about how to delete a branch from your repository.
-> Only do these steps after your pull request get's merged.
+### Ta bort en gren från datakatalog
+Detta dokumentet förser information om hur man tar bort en gren från ens egna datakatalog.
+> Följ bara dessa steg efter att din pull förfrågan har blivit ihopslagen.
 
 ### Lösa sammanslagnings konflikter
-Detta dokumentet förser information om hur man
-This document provides information about how to resolve merge conflicts.
-> Take these steps to resolve the annoying merge conflicts.
+Detta dokumentet förser information om hur man löser sammanslagningskonflikter.
+> Följ dessa steg för att lösa störande sammanslagningskonflikter.
 
 ### Revertera en commit
-Detta dokumentet förser information om hur man
-This document provides information about how to revert a commit on the remote repository. 
-It will come in handy in case you need to undo a commit that has already been pushed to Github.
-> Take these steps if you want to reverse a commit.
+Detta dokumentet förser information om hur man reverterar en commit på fjärrdatakatalogen.
+Detta kommer till praktisk nytta ifall du behöver återställa en commit som redan blivit överförd till Github.
+> Följ dessa steg om du vill revertera en commit.
 
 ### Squasha commits
-Detta dokumentet förser information om hur man
-This document provides information about how to squash commits with an interactive rebase.
-> Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
+Detta dokumentet förser information om hur man squashar commits med en interaktiv rebase.
+> Använd detta om du vill öppna en pull förfrågan i ett öppet projekt och utvärderaren ber dig att squasha ihop alla commit till en, med ett informativt meddelande.
 
-### Undo-ing en lokal commit
-Detta dokumentet förser information om hur man
-This document provides information about how to undo a commit on your local repository. 
-This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
-> Take these steps if you want to undo/reset a local commit.
+### Återställa en lokal commit
+Detta dokumentet förser information om hur man återställer en commit på din lokala datakatalog.
+Detta gör du när det känns som du rört till det i din lokala datakatalog och vill återställa den.
+> Följ dessa steg om du vill återställa en lokal commit.
 
 ### Användbara länkar
-This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. 
-They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those 
-useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
+Detta dokument är dedikerat åt alla websidor med tips, trick, blogposter och hjälpfulla sidor som gör livet enklare.
+De är riktigt bra referenser som täcker alla våra behov, nybörjare som experter. Denna sida är till för att agera som ett index till alla användbara länkar, dessa är till för att hjälpa alla nya kontributörer eller någon som vill lära sig mer.
