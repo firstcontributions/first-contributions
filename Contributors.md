@@ -1,12 +1,10 @@
 ﻿# Contributors
 
-
 - [Mario DeLaPaz](https://github.com/mariocd10)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
-- [Moksedul Islam Mishuk](https://github.com/Mishuk140216)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
@@ -791,6 +789,7 @@ Patrizia Trammell
 - [Thamnongsin Supawattana](https://github.com/Nu2l)
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Yoav Shai](https://github.com/gergesh)
+- [Moksedul Islam Mishuk](https://github.com/Mishuk140216)
 - [Nethmi Wijesinghe](https://github.com/Nethmi96)
 - [Aditya Anantharaman](https://github.com/aditya9898)
 - [Jessa Micucci](https://github.com/jmicucci)
