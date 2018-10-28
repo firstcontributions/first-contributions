@@ -49,6 +49,7 @@
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
 - Alexandra Cannon
+- [Caleb Choy](https://github.com/Ookayleb)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Bhushan Jangle](https://github.com/waffwaff1)
