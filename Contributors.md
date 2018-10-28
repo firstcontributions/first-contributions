@@ -148,6 +148,7 @@ Rich Herbert
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Jovan Kelly](http://github.com/kellyjovan)
 - [Thuhini](https://github.com/Thuhini)
+- [lenni108](https://github.com/lenni108)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
