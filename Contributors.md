@@ -1439,6 +1439,7 @@ Patrizia Trammell
 - [Ajay](https://github.com/ajay)
 - [dsannad](https://github.com/dsannad)
 - [JLeneau](https://github.com/JLeneau)
+- [Ajugwo Timothy](https://github.com/Timorex)
 - [Wesley Clements](https://github.com/WesleyClements)
 - [Rafael Framil](https://github.com/raframil)
 - [Braelyn Rotman](https://github.com/braelynr)
