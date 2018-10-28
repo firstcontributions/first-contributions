@@ -9440,6 +9440,7 @@ Rohan Das
 - [Argha Sen](https://github.com/arghasen)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Janess](https://github.com/janees1996)
+- [Anamol](https://github.com/expndble)
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
@@ -9610,5 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Anamol](https://github.com/expndble)
 
