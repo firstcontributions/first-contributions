@@ -583,7 +583,8 @@ Edison Shek
 - [Murat Kurnaz](https://github.com/KtrauM)
 - [Mor Tal](https://github.com/mortal94)
 - [Chiu](https://github.com/achiuBAE)
-- [HuyHoangPhi] (https://github.com/HoangHuyPhi)
+- [Abitnav](https://github.com/aBITnav)
+- [HuyHoangPhi](https://github.com/HoangHuyPhi)
 - [Gabryelle Soares](https://github.com/gabsoares11)
 - [Pedro Augusto](https://github.com/znexpedro)
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
@@ -592,7 +593,7 @@ Edison Shek
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Vipul Kanade](https://github.com/vipulkanade)
-- [Rafael Molina] (https://github.com/RafaGrey)
+- [Rafael Molina](https://github.com/RafaGrey)
 - [billyderringer](https://github.com/billyderringer)
 - [Grom](https://github.com/gromms)
 - [matt011](https://github.com/matt011)
@@ -603,7 +604,7 @@ Edison Shek
 - [Anu Kumari Gupta](https://github.com/khusi-anu)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Oriol Vall](https://github.com/Horiol)
-Patrizia Trammell
+- Patrizia Trammell
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Raj Khare](https://github.com/pixzels)
