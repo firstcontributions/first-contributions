@@ -454,6 +454,7 @@ aalbusoiu
 - [Persephone](https://github.com/persephpom/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Yoad Wolfsthal](https://github.com/yoadwo)
+- [Iknoor](https://github.com/iknoorjobs)
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
