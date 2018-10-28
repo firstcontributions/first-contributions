@@ -8304,6 +8304,7 @@ Rohan Das
 - [Konrad Zajac](https://github.com/konrad-zajac)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Fabien Plongeron](https://github.com/FabienPL)
+- [Paulo Henrique](https://github.com/paulohenriquesn)
 - [Dhananjai Sharma](https://github.com/devastatingdj)
 - [Gagandeep Singh](https://github.com/GSingh1994)
 - [Omari RB](https://github.com/orbville)
@@ -9610,5 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Paulo Henrique](https://github.com/paulohenriquesn)
 
