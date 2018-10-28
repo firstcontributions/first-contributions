@@ -2,6 +2,7 @@
 # Contributors
 
 - [nualluan](https://github.com/naulluan)
+- [Mayank Kanoria](https://github.com/mkanoria)
 - [Florin Irion](https://github.com/irionr)
 - [prashansanb](https://github.com/prashansanb)
 - [Chromium](https://github.com/CrCs2O4)
@@ -25,7 +26,6 @@ Alvin
 - [Menna] (https://github.com/mennayahia)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Nikhil Anand](https://github.com/muj-programmer)
-- [Mayank Kanoria](https://github.com/mkanoria)
 - [MC_Leut](https://github.com/MCLeut)
 - [milindchawre](https://github.com/milindchawre)
 - [Michael Robinson](https://github.com/NightFury20)
