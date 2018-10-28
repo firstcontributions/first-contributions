@@ -9047,6 +9047,7 @@ Rohan Das
 - [Nuno Laranjo](https://github.com/omnee)
 - [Carcraftz](https://github.com/Carcraftz)
 - [DaveRoox](https://github.com/DaveRoox)
+- [Vlad Pavlov](https://github.com/h0axbu5ter)
 - [Mohammed Abul Shoeb](https://github.com/alshoeb)
 - [Kolomu](https://github.com/kolomu)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
@@ -9600,4 +9601,4 @@ quattad
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
-- [Vlad Pavlov](https://github.com/h0axbu5ter)
+
