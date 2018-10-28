@@ -1,4 +1,3 @@
-
 # Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
@@ -20,8 +19,6 @@
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
-Lawani Kingsley
-  [abiolaks] ((https://github.com/abiolaks)
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
@@ -1432,6 +1429,7 @@ Patrizia Trammell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
+- [Lawani Kingsley](https://github.com/abiolaks)
 - [Matthew Hartman](https://github.com/KalabiteKrowd)
 - [Priyadarshan](https://github.com/PDROJACK)
 - [Jhalak]()
