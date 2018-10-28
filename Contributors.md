@@ -69,6 +69,7 @@ ashwini
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
+- [Jing Heng](https://github.com/limjh16)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 - [Kushagra Gulati](https://github.com/kush1106)
