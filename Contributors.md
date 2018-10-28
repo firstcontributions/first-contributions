@@ -27,7 +27,6 @@ Rajesh Verma
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [corxrew](https://github.com/corxrew)
-- [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -845,6 +844,7 @@ Patrizia Trammell
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Ekaansh Arora](https://github.com/EkaanshArora)
 - [Joris van Willigen](https://github.com/JorisvanW)
+- [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [Veena Rawat](https://github.com/veenarawat)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Teja Swaroop Arukoti](https://github.com/TejaSwaroopArukoti)
