@@ -9773,3 +9773,4 @@ quattad
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
 - [Animesh Shukla](https://github.com/anime19)
 - [Navneeth Babra](https://github.com/nbabra)
+- [Brian Russell](https://github.com/Brussell03)
