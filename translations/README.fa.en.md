@@ -102,13 +102,13 @@ Mosharekatet Ro Jashn Begir Va Ba Follower Ha o Doostat Be Eshterak Bezar
 Dar Soorati Ke Soal Dashti Ya Komak Khasti Mitooni Be Teame Slacke Ma Bepeyvandi
 [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Moshkelate Sade Gerd Avari Kardim Ke Mitooni Az OON Ja Shoroo Koni.
+Hala Bia Too Proje Haye Dige Mosharekat Konim. Ma Ye Listi Az Proje Hayi Ba Moshkelate Sade Gerd Avari Kardim Ke Mitooni Az OON Ja Shoroo Koni.
 [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
-## Tutorials Using Other Tools
+## Amuzesh Haye Estefade Az Abzar Haye Dige
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
@@ -116,9 +116,9 @@ Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Mosh
 
 ## Self-Promotion
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
+Age In Proje Ro Dust Dashti Tu [GitHub](https://github.com/Roshanjossey/first-contributions) Setare Daresh Kon.
+Age Mikhai Komak Koni [Roshan](https://roshanjossey.github.io/) Ro Tu 
+[Twitter](https://twitter.com/sudo__bangbang) Va
+[GitHub](https://github.com/roshanjossey) Donbal Kon.
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
