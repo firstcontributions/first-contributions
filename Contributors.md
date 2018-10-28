@@ -9599,6 +9599,7 @@ Rohan Das
 - [Argha Sen](https://github.com/arghasen)
 - [Arooj Fatima](https://github.com/Ar00jFatima)
 - [Janess](https://github.com/janees1996)
+- [Anamol](https://github.com/expndble)
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [SJ](https://github.com/bluejay2011)
