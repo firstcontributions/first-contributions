@@ -9140,6 +9140,7 @@ Rohan Das
 - [Knatas](https://github.com/knatas)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Tom Lynch](https://github.com/LNCH)
+- [bartekde](http://github.com/bartekde)
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
@@ -9620,4 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [bartekde](http://github.com/bartekde)
+
