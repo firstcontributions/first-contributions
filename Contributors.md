@@ -9802,6 +9802,7 @@ quattad
 - [Samantha L Gibson](https://github.com/samanthalgibson)
 - [Dzaki Afif](https://github.com/dzakiafif)
 - [Jay Perez](https://github.com/Rolys)
+- [Jeff Lung](https://github.com/jefflung)
 - [Sameer Malik](https://github.com/sameermalik20aug)
 - [Jorge Galat](https://github.com/jgalat)
 - [Geraldo Castro](https://github.com/victormatheusc)
