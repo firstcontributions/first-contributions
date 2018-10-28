@@ -9429,6 +9429,7 @@ Rohan Das
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
 - [Yamin](https://github.com/yaminmhd)
+- [Siltaz](https://github.com/siltaz)
 - [Ammara](https://github.com/UmmeAmmaraa)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Saba Younis](https://github.com/sabayounis)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Siltaz](https://github.com/siltaz)
 
