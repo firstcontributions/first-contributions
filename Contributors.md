@@ -9671,7 +9671,6 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Edgardo Mendez]
 - [David](https://github.com/IngDavNav)
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
