@@ -141,4 +141,12 @@ dochie `<your-name>` aha gị.
 ## Push mgbanwe na GitHub
 
 
-Mee mgbanwe gị site na iji iwu `git push:`
+Mee mgbanwe gị site na iji iwu `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge gara aga.
+
+## Nyefee mgbanwe gị maka nyocha
