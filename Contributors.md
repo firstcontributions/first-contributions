@@ -388,6 +388,7 @@ aalbusoiu
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Shelly Tomar](https://github.com/ShellyTomar26)
 - [Luong Nguyen](https://github.com/luongdn)
+- [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan] (https://github.com/setiam3)
 - [Arthur van Acker](https://github.com/puupa)
