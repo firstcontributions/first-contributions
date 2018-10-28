@@ -1,0 +1,72 @@
+<ion-content no-padding>
+  <ion-row>
+  <ion-buttons end>
+     <button ion-button clear icon-only (click)="close()"> <ion-icon name="close-circle"></ion-icon></button>
+   </ion-buttons>
+   <ion-title text-center>Update Profile</ion-title>
+ </ion-row>
+
+
+ <div text-center>
+     <ion-img class="circle-pic" width="80" height="80" src="{{imgsrc}}" (click)="presentActionSheet()"></ion-img>
+  
+  </div>
+   <!--<ul>
+     <li>Name           : {{local_user.name}} </li>
+     <li>User ID        : {{local_user.UId}}</li>
+     <li>Email          : {{local_user.email}}</li>
+     <li>Phone          : {{local_user.phoneNumber}} </li>
+     <li>Email Verified : {{local_user.emailVerified}}</li>
+    </ul> -->
+ <ion-list inset>
+
+   <!--  <ion-item>
+       <ion-label>Name</ion-label>
+       <ion-input type="text" value="{{local_user.name}}" [(ngModel)]="local_user.name"></ion-input>
+       <ion-buttons class="tick-margin" item-end (click)="updateName(local_user)">
+           <button ion-button clear icon-only [disabled]="local_user.name=='' && local_user.name==this.fireService.currentUserDisplayName">
+           <ion-icon color="green" style="font-size: 30px" name="checkmark-circle" ></ion-icon>
+         </button>
+         </ion-buttons>
+     </ion-item>
+
+     <ion-item>
+         <ion-label>Email</ion-label>
+         <ion-input type="text" value="{{local_user.email}}" [(ngModel)]="local_user.email"></ion-input>
+         <ion-buttons class="tick-margin" item-end (click)="updateEmail(local_user)">
+             <button ion-button clear icon-only [disabled]="local_user.email=='' && local_user.email==this.fireService.currentUser.email">
+             <ion-icon color="green" style="font-size: 30px" name="checkmark-circle" ></ion-icon>
+           </button>
+           </ion-buttons>
+       </ion-item>
+
+   
+     <ion-item>
+       <ion-label>Password</ion-label>
+       <ion-input type="password" [(ngModel)]="local_user.password"></ion-input>
+       
+     </ion-item>
+
+     <ion-item>
+         <ion-label>Confirm Password</ion-label>
+         <ion-input type="text" [(ngModel)]="cpassword"></ion-input>
+         <ion-buttons class="tick-margin" item-end (click)="updatePassword(local_user)">
+             <button ion-button clear icon-only [disabled]="local_user.password=='' && cpassword=='' && local_user.password!=cpassword">
+             <ion-icon color="green" style="font-size: 30px" name="checkmark-circle" ></ion-icon>
+           </button>
+           </ion-buttons>
+       </ion-item>
+
+       <ion-item>
+           <ion-label>Photo Url</ion-label>
+           <ion-input type="text" [(ngModel)]="local_user.photoUrl"></ion-input>
+           <ion-buttons class="tick-margin" item-end (click)="updatePhoto(local_user)">
+               <button ion-button clear icon-only>
+               <ion-icon color="green" style="font-size: 30px" name="checkmark-circle" ></ion-icon>
+             </button>
+             </ion-buttons>
+         </ion-item> -->
+   
+   </ion-list>
+
+</ion-content>
