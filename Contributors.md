@@ -33,6 +33,7 @@
 - wefromstars
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Ravi Jain](https://github.com/engrravijain)
+- [Manthan Jain](https://github.com/manthanjain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
 - [Aditya Gupta](https://github.com/6aditya8)
