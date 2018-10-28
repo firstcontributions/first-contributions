@@ -1,6 +1,5 @@
 # Contributors
 - [Erica Peterson] (https://github.com/ericalpeterson)
-- [Binary Shrey] (http://github.com/binaryshrey)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
 - [shanto](https://github.com/shanto)
@@ -382,6 +381,7 @@ aalbusoiu
 - [Griffin Gaeth](https://github.com/ggaeth)
 - [Bolaram Paul](https://github.com/bolaram)
 - [Karen Tobo](https://github.com/karentobo)
+- [Binary Shrey](http://github.com/binaryshrey)
 - [Kelvin Romero](https://github.com/kelvinromero)
 - [Kalana Wijethunga](https://github.com/kelvinromero)
 - [Kirk Clemons](https://github.com/kcclemo)
