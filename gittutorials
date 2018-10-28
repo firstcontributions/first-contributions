@@ -1,5 +1,27 @@
+what is git?
+
+Git is a free and open source distributed version control system designed to handle everything from small 
+to very large projects with speed and efficiency.
+Git is easy to learn and has a tiny footprint with lightning fast performance. 
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching,
+convenient staging areas, and multiple workflows. 
 
 
-you can go through below link for more info regarding how to to use git
+how do u use github and git?
+
+    Step 0: Install git and create a GitHub account.
+    Step 1: Create a local git repository. 
+    Step 2: Add a new file to the repo.
+    Step 3: Add a file to the staging environment.
+    Step 4: Create a commit. 
+    Step 5: Create a new branch. 
+    Step 6: Create a new repository on GitHub.
+    Step 7: Push a branch to GitHub.
+
+
+
+
+
+you can go through below link for more info regarding how to to use git:
 
 http://www.vogella.com/tutorials/Git/article.html
