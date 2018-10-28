@@ -8004,6 +8004,8 @@ Rohan Das
   ynobry
 - [jmcintyre1](https://github.com/jmcintyre1)
 - [joerho](https://github.com/joerho)
+- [Harshit](https://github.com/goku00z)
+- [joerho](https://github.com/joerho)
 - [thearunster](https://github.com/thearunster)
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Liran Mery](https://github.com/liranm)
