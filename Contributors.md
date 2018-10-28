@@ -4895,6 +4895,7 @@ Tanishq Gupta
 - [Shan Rizvi](https://github.com/OneTrueKill/)
 - [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
 - [Ana Cruz](https://github.com/AnaCr)
+- [Mason Sweet](https://github.com/GhettoDrank)
 - [Srikanth Arugula](https://github.com/asrikanth27)
 - [Aaron Faubion](https://github.com/afaubz)
 - [Kevin C](https://github.com/caokevinc)
