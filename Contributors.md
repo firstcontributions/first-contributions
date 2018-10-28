@@ -9541,6 +9541,7 @@ quattad
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
 - [Nadheera](https://github.com/Nadheera)
+- [ZeloK](https://github.com/ZeloK)
 - [Pasan Yasara](https://github.com/pasanyasara)
 - [Jeojhx](https://github.com/jeojhx)
 - [Shailesp](https://github.com/shailesp)
@@ -9634,5 +9635,4 @@ quattad
 - [Cristian](https://github.com/cencristian)
 - [David](https://github.com/IngDavNav)
 - [Mateus Machado](https://github.com/mateusfmachado)
-- [ZeloK](https://github.com/ZeloK)
 
