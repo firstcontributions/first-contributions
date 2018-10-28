@@ -54,6 +54,7 @@ Jesse
 - [Justin Kook] (https://github.com/justinkook)
 - [Amulya Gaur] (https://github.com/amulyagaur)
 - [aditchanchal](https://github.com/aditchanchal)
+- [Duvan Pedroza](https://github.com/DuvanP97)
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
 - [Zadorozhnii Yurii] (https://github.com/SirJoraH21)
