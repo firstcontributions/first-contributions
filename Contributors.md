@@ -8624,6 +8624,7 @@ Rohan Das
 - [Justin Estaris](https://github.com/JustinEstaris)
 - [Justin Estaris](https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
+- [Ted Jacobs] https://github.com/tedjacobs
 - [Henning K](https://github.com/Henning-K)
 - [Pranav Garg](https://github.com/pranavgarg123)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
