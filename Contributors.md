@@ -9267,6 +9267,7 @@ Rohan Das
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
+- [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
 - [Muchtarruddin](https://github.com/muchtarruddin)
 - [Anders Olsen](https://github.com/BroxigarDK)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Elizabeth Akpan](https://github.com/ibeth-akpan)
 
