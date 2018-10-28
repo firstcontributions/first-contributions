@@ -1,0 +1,6 @@
+
+Hello World,
+
+This is Humayoun Baig, This is my first contribution toward opensources for Hacktoberfest.
+ 
+Happy coding
