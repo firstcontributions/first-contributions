@@ -9129,6 +9129,7 @@ Rohan Das
 - [Raghu Kamat](https://github.com/GeniusStorm)
 - [LordBrud](https://github.com/LordBrud)
 - [MyLibh](https://github.com/MyLibh)
+- [Edu](https://github.com/muzikizum)
 - [Jessica](https://github.com/jmc617)
 - [Cleber Fonseca](https://github.com/clebersfonseca)
 - [kamchai boonruam](https://github.com/JackyBeatles)
