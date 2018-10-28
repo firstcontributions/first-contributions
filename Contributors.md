@@ -9530,6 +9530,7 @@ quattad
 - [Any Ruiz](https://github.com/anyruizd)
 - [Nadheera](https://github.com/Nadheera)
 - [Pasan Yasara](https://github.com/pasanyasara)
+- [Prashant](https://github.com/prashantjain19)
 - [Jeojhx](https://github.com/jeojhx)
 - [Shailesp](https://github.com/shailesp)
 - [Sumesh KP - sumeshkp18 ](https://github.com/sumeshkp18)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Prashant](https://github.com/prashantjain19)
 
