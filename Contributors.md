@@ -9148,6 +9148,7 @@ Rohan Das
   [Juwana Zerman](https://github.com/JZerman2018)
 - [Cholinka13](https://github.com/cholinka13)
 - [Hearot](https://github.com/hearot)
+- [Ganaa](https://github.com/ganbadrakh)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [Ryan S.](https://github.com/ryans331)
 - [Viktor Bakulin](https://github.com/Alanthel)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Ganaa](https://github.com/ganbadrakh)
 
