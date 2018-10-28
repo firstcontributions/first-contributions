@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [lenni108](https://github.com/lenni108)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
@@ -115,6 +114,7 @@ Rich Herbert
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Thuhini](https://github.com/Thuhini)
+- [lenni108](https://github.com/lenni108)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
 - [DanielBiegler](https://github.com/danielbiegler)
