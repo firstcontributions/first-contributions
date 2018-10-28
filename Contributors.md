@@ -61,9 +61,10 @@
 - [Tony G](https://github.com/tonygparsehub)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
-- [Rajesh Verma]
-- [Justin Kook] (https://github.com/justinkook)
-- [Amulya Gaur] (https://github.com/amulyagaur)
+- Rajesh Verma
+- [Jacquetta Bommuluri](https://github.com/jacquetta)
+- [Justin Kook](https://github.com/justinkook)
+- [Amulya Gaur](https://github.com/amulyagaur)
 - [aditchanchal](https://github.com/aditchanchal)
 - [Duvan Pedroza](https://github.com/DuvanP97)
 - ashwini
