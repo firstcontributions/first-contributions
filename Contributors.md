@@ -64,6 +64,7 @@
 - Rajesh Verma
 - [Jacquetta Bommuluri](https://github.com/jacquetta)
 - [Justin Kook](https://github.com/justinkook)
+- [Pranshu Jethmalani](https://github.com/pmj642)
 - [Amulya Gaur](https://github.com/amulyagaur)
 - [aditchanchal](https://github.com/aditchanchal)
 - [Duvan Pedroza](https://github.com/DuvanP97)
@@ -125,7 +126,7 @@
 - [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
-- [Bhavika26](https://github.com/Bhavika26) 
+- [Bhavika26](https://github.com/Bhavika26)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
