@@ -323,6 +323,7 @@ Arnel Forbes
 - [doehae](https://github.com/doehae)
 - [ulricmarques](https://github.com/ulricmarques)
 - [Naapi](https://github.com/Naapi)
+  [Rahad Mannan](https://github.com/Rahad140214)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
