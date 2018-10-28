@@ -9840,6 +9840,7 @@ quattad
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
+- [Joseph](https://github.com/joequich)
 - [Akintola Moronfoluwa](https://github.com/Foluwa)
 - [Felix Cao](https://github.com/FelixCao)
 - [Wing Kuang](https://github.com/wwk3j)
