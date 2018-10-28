@@ -27,11 +27,12 @@
 - [owais](https://github.com/owais34)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Ihoey](https://github.com/ihoey)
+- [Amal Dinesh](https://github.com/amaldinesh4549)
 - [Divyam](https://github.com/shahdivyam)
 - julio-garcia-fc
 - wefromstars
-- [Faith Chikwekwe] (https://github.com/fchikwekwe)
-- [Ravi Jain] (https://github.com/engrravijain)
+- [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Ravi Jain](https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
 - [Aditya Gupta](https://github.com/6aditya8)
