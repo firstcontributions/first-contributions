@@ -9277,6 +9277,7 @@ Rohan Das
 - [Hai](https://github.com/ngochai94)
 - [DargieDChouwy](https://github.com/DargieDChouwy)
 - [yulivee](https://github.com/yulivee)
+- [Nicolas Stefoni](https://github.com/nstefoni/)
 - [Vadim Pashaev](https://github.com/vmp)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
