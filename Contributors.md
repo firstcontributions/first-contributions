@@ -3,7 +3,6 @@
 
 - [Miftah Mizwar](https://github.com/mizwardomlank)
 - [Andrew Fisher](https://github.com/afisherdev)
-William Nicholson
 - [Linherest](https://github.com/linherest)
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
@@ -429,6 +428,7 @@ Edison Shek
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
+- William Nicholson
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
 - [Jewel Jo Prince](https://github.com/jeweljoppan)
@@ -8750,3 +8750,4 @@ Benzene
 - [Priyanshu Kumar] (https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
 - [LucidComplex](https://github.com/LucidComplex)
+
