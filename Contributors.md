@@ -9662,6 +9662,7 @@ quattad
 - [Mmendero](https://github.com/Mmendero)
 - [Garoto](https://github.com/Garoto0518)
 - [Avinash Maurya](https://github.com/mauryaavinash95)
+- [Benedict Florance](https://github.com/benedictflorance)
 - [Shoaib Sharif](https://github.com/shoaibdhk)
 - [Okta Arif Cahyawan](https://github.com/okutasan)
 - [Ashik](https://github.com/lonelycoder2004)
