@@ -1,5 +1,4 @@
 # Contributors
-- [Albin Antony](https://github.com/user9747)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
@@ -221,6 +220,7 @@
 - [strobelt](https://github.com/strobelt)
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
+- [Albin Antony](https://github.com/user9747)
 - [Roger Perez](https://github.com/rogercodes1)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
