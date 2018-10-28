@@ -135,6 +135,9 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
+You also can do these steps using Intellij Idea (https://documentation.magnolia-cms.com/display/WIKI/Working+with+IntelliJ+IDEA+and+Git)
+
+
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
