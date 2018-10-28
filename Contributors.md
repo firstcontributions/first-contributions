@@ -7626,6 +7626,7 @@ Rohan Das
 - [Sanchya Bhagat](https://github.com/sanchyabhagat)
 - [Roy Prigat](https://github.com/royprigat)
 - [Arthur Buhl](https://github.com/arthurbuhl)
+- [Rajitha Disanayaka](https://github.com/rajitha302)
 - [T Mill](https://github.com/tkmiller85)
 - [Holly Deitz](https://github.com/techgravy)
 - [Arshdeep Singh](https://github.com/iamarshsingh)
