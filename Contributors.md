@@ -100,6 +100,7 @@
 - [DMB](https://github.com/dhyeyb04)
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
+- [Cooper Pierce] (https://github.com/kopecs)
 - Aileen J
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Nishit Majithia] (https://github.com/nishitm)
