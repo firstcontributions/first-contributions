@@ -1,6 +1,5 @@
 # Contributors
 
-- [rubiotorres](https://github.com/rubiotorres)
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
@@ -993,11 +992,12 @@ Patrizia Trammell
 - [Zack_Shorts](https://github.com/zackshorts)
 - kalven22
 - [R R Raja](https://github.com/RRajaR)
+- [rubiotorres](https://github.com/rubiotorres)
 - [Raj Joshi](https://github.com/rocketrunner22)
 - [Caleb_Smith](https://gitube.com/wcbsmith)
 - [Agustin Vargas](https://github.com/chikiwawa)
 - [Paweł Wieszała](https://github.com/pawelwieszala)
-- [Leediyal Jebaselvi N] (https://github.com/Leediyal14)
+- [Leediyal Jebaselvi N](https://github.com/Leediyal14)
 - [Ed Prince](https://github.com/edprince)
 - [Kristophe Sankar](https://github.com/kristophesankar}
 - [Agustin Avila](https://github.com/elchetosn)
