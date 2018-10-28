@@ -8880,6 +8880,7 @@ Rohan Das
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
 - [Osama Azmi](https://github.com/Samuelimza)
 - [Lineeyed](https://github.com/Lineeyed)
+- [Rahul Goel](https://github.com/rahulg963)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
 - [Pedro Vicari](https://github.com/pvicari)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Rahul Goel](https://github.com/rahulg963)
 
