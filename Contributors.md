@@ -1,4 +1,5 @@
 # Contributors
+- [Filip Seman](https://github.com/xseman)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
