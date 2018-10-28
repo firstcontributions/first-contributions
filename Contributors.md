@@ -1,4 +1,5 @@
 # Contributors
+- [gilded1](https://github.com/gilded1)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
