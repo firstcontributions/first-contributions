@@ -1559,6 +1559,7 @@ Patrizia Trammell
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
 - [Anam Ahmad](https://github.com/Anam9)
+- [Lawani Kingsley](https://github.com/abiolaks)
 - [Matthew Hartman](https://github.com/KalabiteKrowd)
 - [Priyadarshan](https://github.com/PDROJACK)
 - [Jhalak]()
