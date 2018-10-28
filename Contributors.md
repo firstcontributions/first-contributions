@@ -9714,3 +9714,4 @@ quattad
 - [Debasree Chatterjee] (https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
 - [Animesh Shukla](anime19/first-contributions)
+- [Navneeth Babra](https://github.com/nbabra)
