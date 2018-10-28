@@ -9398,6 +9398,7 @@ Rohan Das
 - [Muchtarruddin](https://github.com/muchtarruddin)
 - [Anders Olsen](https://github.com/BroxigarDK)
 - [Yongho Lee](https://github.com/inthewalter)
+- [Chirag Shetty](https://github.com/nurdtechie98)
 - [segao](https://github.com/segao)
 - [Anand P](https://github.com/anandpaithankar)
 - [Vikrant Srivastava](https://github.com/srivkrnt)
