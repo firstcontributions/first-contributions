@@ -1,4 +1,5 @@
 # Contributors
+- [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
@@ -125,7 +126,7 @@
 - [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
-- [Bhavika26](https://github.com/Bhavika26) 
+- [Bhavika26](https://github.com/Bhavika26)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
