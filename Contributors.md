@@ -9252,7 +9252,6 @@ Rohan Das
 - [Tom Braul](https://github.com/tombraul)
 - [Sandhya Saravanan](https://github.com/sandy9999)
 - [Eoin McCoy](https://github.com/yoghurt1)
-- [Cristian](https://github.com/cencristian)
 - [Delphine Achini](https://github.com/ayumiesan)
 - [Gulcan Baran](https://github.com/gulcann)
 - [Filipe Cruz](https://github.com/filipe7788)
@@ -9611,4 +9610,5 @@ quattad
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
+- [Cristian](https://github.com/cencristian)
 
