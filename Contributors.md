@@ -8948,6 +8948,7 @@ Rohan Das
 - [Sharma Harsh](https://github.com/97harsh)
 - [Dwiky Chandra](https://github.com/dwikychandra21)
 - [Gigi](https://github.com/GGn0)
+- [Terodom](https://github.com/Terodom)
 - [Ashen Silva](https://github.com/ashensilva96)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Terodom](https://github.com/Terodom)
 
