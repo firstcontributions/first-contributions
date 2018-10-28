@@ -9320,6 +9320,7 @@ Rohan Das
 - [Matan Davidi](https://github.com/MatanDavidi)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Tom Lynch](https://github.com/LNCH)
+- [Marián Varaga](https://github.com/mvaraga)
 - [Michael Hahn](https://github.com/Sp0rTB4cK)
 - [bartekde](http://github.com/bartekde)
 - [Paulo Victor](https://github.com/pulho)
