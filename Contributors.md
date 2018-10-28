@@ -134,6 +134,7 @@ Rich Herbert
 - [Yusuf Mohammed Delvi](https://github.com/yusuf-delvi)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
+- [Soumith Bhagwat](https://github.com/soumithbhagwat)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [Raees Nazeer](https://github.com/raeesnazeer)
