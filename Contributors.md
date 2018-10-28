@@ -37,6 +37,7 @@
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Ravi Jain](https://github.com/engrravijain)
 - [Sean Mayton](https://github.com/maytonsw)
+- [Mario Hirotoshi] (https://github.com/riverm4n)
 - [Manthan Jain](https://github.com/manthanjain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
