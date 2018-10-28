@@ -1,5 +1,6 @@
 # Contributors
 - [Anushree](https://github.com/anushree816)
+- [Flume](me@flume.com)
 - [gilded1](https://github.com/gilded1)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [morg0n](https://github.com/morg0n)
