@@ -2,7 +2,6 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
-- [Yash Bhardwaj](https://github.com/Bhardwajy795)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
 - [Abhinav Gupta  ](https://github.com/ag-23)
@@ -1072,6 +1071,7 @@ Patrizia Trammell
 - [Vinnys Lins](https://github.com/vinnyslins)
 - [Thein Oo](https://github.com/thoo)
 - [Kyle Tozer](https://github.com/kyletozer)
+- [Yash Bhardwaj](https://github.com/Bhardwajy795)
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Sindhiya Arya](https://github.com/aryasin)
 - [Louis Chris Orona](https://github.com/louischrisorona)
