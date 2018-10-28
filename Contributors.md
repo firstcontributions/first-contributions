@@ -9594,6 +9594,7 @@ quattad
 - [ChuckB] (https://github.com/extreme2700)
 - [Edward Yang] (https://github.com/rarcie)
 - [Garfianto Dwi](https://github.com/fiiann)
+- [Asha Sulaiman](https://github.com/asha15)
 - [Earle-Poole](https://github.com/earle-poole)
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
@@ -9676,5 +9677,3 @@ quattad
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
-- [Asha Sulaiman](https://github.com/asha15)
-
