@@ -2196,6 +2196,7 @@ Patrizia Trammell
 - [rroche](https://github.com/rrocheec)
 - [Jun Teng](https://github.com/teng-oh)
 - [Hasib Zunair](https://github.com/hasibzunair)
+- [Hashini Galappaththi](https://github.com/hashi93)
 - [Salha Salman](https://github.com/salhasalman)
 - [Thomas Bigger](https://github.com/thomasbigger584)
 - [Justin Lepiten](https://github.com/jlepiten)
