@@ -8881,6 +8881,7 @@ Rohan Das
 - [ZWTan](https://github.com/zwtan)
 - [sohanian](https://github.com/sohanian)
 - [Chad Van Wyhe](https://github.com/chadjvw)
+- [Monica Ward](https://github.com/mo-ward)
 - [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
 - [Dmitry](https://github.com/qmitry)
@@ -9347,6 +9348,7 @@ Rohan Das
 - [Bob Back](https://github.com/bob-back)
 - [Sastem](https://github.com/Sastem)
 - [Shounak7](https://github.com/shounak7)
+- [Leon Dong](https://github.com/dankpigeon)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [Uygar Aktuna](https://github.com/uygaraktuna)
@@ -9604,4 +9606,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Leon Dong](https://github.com/dankpigeon)
+
