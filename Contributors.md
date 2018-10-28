@@ -76,6 +76,7 @@ ashwini
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 - [Kushagra Gulati](https://github.com/kush1106)
 Rich Herbert
+- [Brett](https://github.com/brettmontague)
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
 - [MrHritik](https://github.com/Hritik14)
