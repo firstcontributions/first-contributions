@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -20,7 +20,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -52,7 +52,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
@@ -61,7 +61,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya]( https://help.github.com/articles/set-up-git/).
 
@@ -72,7 +72,7 @@ Wepu a repo site na ịpị bọtịnụ mkpịsị aka n'elu nke ibe a. Nke a g
 
 ## Na-ekpuchi ebe nchekwa
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Ugbu a, dochie ya repo na igwe gị. Gaa na akaụntụ GitHub gị, meghee repo ahụ maka pịa, pịa bọtịnụ clone ma pịazie ya na akara ngosi akara ngosi.
 
@@ -84,7 +84,7 @@ git clone "url you just copied"
 
 ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nchekwa ebe a (mgbịrịgwụ nke ọrụ a). Hụ nzọụkwụ ndị gara aga iji nweta url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Ọmụmaatụ:
 
@@ -121,7 +121,7 @@ git checkout -b add-alonzo-church
 
 Ugbu a mepee `Contributors.md` faịlụ na nchịkọta ederede, tinye aha gị na ya. Adakwunye ya na mmalite ma ọ bụ njedebe nke faịlụ ahụ. Tinye ya n'ebe ọ bụla n'etiti. Ugbu a, chekwaa faịlụ ahụ.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Ọ bụrụ na ịga na ndekọ ụlọ ọrụ ma mebie iwu ahụ `git status`, ị ga-ahụ na e nwere mgbanwe.
 
@@ -155,11 +155,11 @@ dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge g
 
 Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Ugbu a, rịọ arịrịọ ahụ.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 N'oge na-adịghị anya, m ga-emeri mgbanwe gị niile n'ime ngalaba alaka ụlọ ọrụ a. Ị ga-enweta ozi ngosi mgbe ọ bụla emetụtara mgbanwe.
 
@@ -169,7 +169,7 @@ Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ �
 
 Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontr🏴ibutors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
 
@@ -178,7 +178,7 @@ Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị
 
 ## Nkuzi na iji ihe ndi ozo
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
@@ -190,4 +190,4 @@ Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị
 [Twitter](https://twitter.com/sudo__bangbang) na
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
