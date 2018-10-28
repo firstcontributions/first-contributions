@@ -1271,6 +1271,7 @@ Edison Shek
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [yusufcodes](https://github.com/yusufcodes)
+- [IgorOliveira42](https://github.com/igoroliveira42)
 - Corne Kooyman
 - [SaiSai]()
 - [Mandia Samuels](https://github.com/Satraan)
