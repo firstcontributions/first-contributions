@@ -499,19 +499,20 @@ aalbusoiu
 - [Rishabh Sharma]
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
-- Peter R [https://github.com/peterr101]
-- [Tyler Clark]
-- [Chase Terry] (https://github.com/cdterry87)
-[dhairya] (https://github.com/arLong-98)
-- [Jason Lynch] (https://github.com/Tessituraa)
+- Jelena Golova
+- [Peter R](https://github.com/peterr101)
+- [Tyler Clark]()
+- [Chase Terry](https://github.com/cdterry87)
+- [dhairya](https://github.com/arLong-98)
+- [Jason Lynch](https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
 - [Jonathan Chao](https://github.com/JChao7)
-- [Jason Beals] (https://github.com/jbeals12)
+- [Jason Beals](https://github.com/jbeals12)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)\
 - [Nahid Fatma](https://github.com/nfatma)
 - [Saheel Ahmed](https://github.com/7saheelahmed)
-- [Pankhurt] (https://github.com/Pankhur)
+- [Pankhurt](https://github.com/Pankhur)
 - [Khaja Moinuddin Mohammed](https://github.com/moinuddin14)
 - [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
