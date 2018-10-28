@@ -13,7 +13,7 @@ Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is
 
 #### *Lees dit in [andere talen](../Translations.md)*
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Deze repository forken
 
@@ -47,7 +47,7 @@ Navigeer naar de map van de repository op je systeem (mocht je daar niet al zijn
 ```
 cd first-contributions
 ```
-Maak nu een branch aan door middel van het `git checkout command`
+Maak nu een branch aan door middel van het `git checkout command`:
 ```
 git checkout -b <je-nieuwe-branch-naam>
 ```
@@ -71,11 +71,11 @@ Commit nu deze wijzigingen door onderstaand `git commit` commando te gebruiken.
 ```
 git commit -m "Add <jouw-naam> to Contributors list"
 ```
-vervang `<jouw-naam>` met jouw naam
+vervang `<jouw-naam>` met jouw naam.
 
 ## Push de wijzigingen naar GitHub
 
-Push je wijzigingen met `git push`
+Push je wijzigingen met `git push`:
 ```
 git push origin <je-nieuwe-branch-naam>
 ```
@@ -130,7 +130,7 @@ Vier je bijdrage en deel het met je vrienden en volgers via de [web app](https:/
 
 Mocht je nog vragen of hulp nodig hebben dan kun je je aanmelden voor ons [Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Laten we je nu op weg helpen met het bijdragen aan andere projecten. We hebben een lijst samengesteld met projecten die makkelijke issues bevatten waar je aan kunt werken. Bekijk [de lijst op de web app](https://roshanjossey.github.io/first-contributions/#project-list)
+Laten we je nu op weg helpen met het bijdragen aan andere projecten. We hebben een lijst samengesteld met projecten die makkelijke issues bevatten waar je aan kunt werken. Bekijk [de lijst op de web app](https://roshanjossey.github.io/first-contributions/#project-list) .
 
 Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
 
