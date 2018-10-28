@@ -8,7 +8,6 @@
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
-- [Gowthamy Vaseekaran] (https://github.com/GowthamyVaseekaran)
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Aditya Gupta](https://github.com/6aditya8)
@@ -775,6 +774,7 @@ Patrizia Trammell
 - [Garima Yadav](https://github.com/gary115)
 - [Laura Pinto](https://github.com/lauraalpinto)
 - [Cristina Tarantino](https://github.com/CristyTarantino)
+- [Gowthamy Vaseekaran](https://github.com/GowthamyVaseekaran)
 - [Isuru Nanayakkara](https://github.com/IsuruNana)
 - [Skand V Gupta](https://github.com/skandagpt)
 - [Abilash Menon](https://github.com/abilash13)
