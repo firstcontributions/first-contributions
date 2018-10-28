@@ -13,6 +13,7 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
+- [Neo Anoman](https://github.com/NeoAnoman)
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
@@ -124,7 +125,7 @@
 - [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
-- [Bhavika26](https://github.com/Bhavika26) 
+- [Bhavika26](https://github.com/Bhavika26)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
