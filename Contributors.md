@@ -1,6 +1,5 @@
 # Contributors
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
-- [Kya_Karoge_Naam_Jaanke](abc.xyz)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
