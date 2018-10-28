@@ -1,5 +1,6 @@
 # Contributors
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
+- [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
@@ -16,6 +17,7 @@
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
+- [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Ihoey](https://github.com/ihoey)
 - [Divyam](https://github.com/shahdivyam)
 - julio-garcia-fc
@@ -230,6 +232,7 @@ Alvin
 - [Arnastria](https://github.com/arnastria)
 - [Sasho Irkov](https://github.com/2121159i)
 JOON JANG JOON JANG
+Jarett Chaiken
 - [Jeet Maity] (https://github.com/jeet-maity)
 -Siddharth Gusain(https://github.com/siddharth-gusain)
 Ben
@@ -3620,6 +3623,7 @@ Orandi Harris
 - [Vaibhav Jain](https://github.com/VJ-Jain)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Karanbir Singh](https://github.com/karanbirsingh99)
+Tanishq Gupta
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Anirudh Mukherjee](https://github.com/AnirudhMukherjee)
 - [Harsh Shah](https://github.com/harshcrop)
@@ -6559,6 +6563,7 @@ Rohan Das
 - [Matt Yashinsky](https://github.com/matt-yashinsky)
 - [Taylor Sebesta](https://github.com/TimBot92)
 - [Marc Tibbs](https://github.com/tibbsm)
+-.[Wuerfelbruder](https://github.com/Wuerfelbruder)
 - [Chak Tang](https://github.com/chak89)
   Mayank Bansal
 - [Gustav Byberg](https://github.com/gubyb)
@@ -7700,6 +7705,7 @@ Rohan Das
 - [Jack Lim](https://github.com/thecodingjack)
 - [Joseph Climber](https://github.com/liobr)
 - [Ryzal Kamis](https://github.com/ryzalk)
+- [Rayle Tim](https://github.com/timrayle)
 - [cetLEE](https://github.com/cetLEE)
 - [avama](https://github.com/avama)
 - [Swapnil Ojha](https://github.com/swakansh/)
@@ -9666,6 +9672,7 @@ quattad
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
 - [Felix Cao](https://github.com/FelixCao)
+- [Wing Kuang](https://github.com/wwk3j)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
@@ -9674,4 +9681,5 @@ quattad
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
+- [Debasree Chatterjee] (https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
