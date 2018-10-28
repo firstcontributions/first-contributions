@@ -3515,6 +3515,7 @@ Orandi Harris
 - [Arturo Muller](https://github.com/arturomuller)
 - [Eshawn Karim](https://github.com/ek1437)
 - [Doyin Kareem](https://github.com/deekay112)
+- [Mandeep Singh](https://github.com/honey2156)
 - [Sharif Kabir](https://github.com/shark1120)
 - [Mohamed Falah](https://github.com/mohamedFalah)
 - [Aslam Shah](https://github.com/hunzaboy)
