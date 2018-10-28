@@ -252,6 +252,7 @@ JOON JANG JOON JANG
 Jarett Chaiken
 - [Jeet Maity] (https://github.com/jeet-maity)
 -Siddharth Gusain(https://github.com/siddharth-gusain)
+- [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z)
 Ben
 John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
