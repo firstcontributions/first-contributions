@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -406,6 +406,7 @@ aalbusoiu
 - [Nikita Acharya](https://github.com/nikita8)
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Shelly Tomar](https://github.com/ShellyTomar26)
+- [Bhoomika Gupta](https://github.com/23181791b)
 - [Luong Nguyen](https://github.com/luongdn)
 - [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
