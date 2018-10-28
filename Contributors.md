@@ -9356,6 +9356,7 @@ Rohan Das
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Simon Situ](https://github.com/ssitu001)
 - [Wei](https://github.com/weichenw)
+- [annaanx24](https://github.com/annaanx24)
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
@@ -9674,4 +9675,3 @@ quattad
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
-- [annaanx24](https://github.com/annaanx24)
