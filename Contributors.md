@@ -177,6 +177,7 @@ Rich Herbert
   [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
+- [Debajyoti Dasgupta](https://github.com/debajyoti-iitkgp)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
 - [Eduardo Robles](https://github.com/eduardo-robles)
