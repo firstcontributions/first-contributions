@@ -9513,6 +9513,7 @@ Rohan Das
 - [⁵⁷](https://github.com/micky619)
 - [Lee Qixian](https://github.com/swiftpolar)
 - [Nathan Park](https://github.com/ul7290)
+- [Nicholas Leong](https://github.com/nicholaskleong)
 - [Darshan Sharma](https://darshansharma.github.io)
 - [Ozan](https://github.com/oznakn)
 - [Shikha Tiwari](https://github.com/allenqueen)
@@ -9674,4 +9675,3 @@ quattad
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
-- [Nicholas Leong](https://github.com/nicholaskleong)
