@@ -9287,6 +9287,7 @@ Rohan Das
 - [Faisal Malik](https://github.com/faisalmalik932)
 - [Hannah](https://github.com/hholzmann16)
 - [Edwin](https://github.com/nin-ed)
+- [William Cook](https://github/bcookdev)
 - [Mars Xue](https://github.com/MarsXue)
 - [James Bedwell](https://github.com/jamesrbedwell)
 - [Crepp](https://github.com/crepp5299)
