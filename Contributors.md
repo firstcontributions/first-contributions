@@ -9174,6 +9174,7 @@ Rohan Das
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [Saksham Pruthi](https://github.com/saksham0804)
 - [Ahad Ali](https://github.com/ahad80)
+- [nachogoca](https://github.com/nachogoca)
 - [Abhishek Singh](https://github.com/razerboygrim)
 - [Jan Kläger](https://github.com/janklaeger)
 - [Simrann Arora](https://github.com/simrann20)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [nachogoca](https://github.com/nachogoca)
 
