@@ -278,6 +278,7 @@ apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
 - [Mancee](https://github.com/mancee)
+- [Tanmay Arora](https://github.com/sinbycosmay)
 - [Roshith R](https://github.com/Roshith93)
 - [Niharika](https://github.com/niharikakrishnan)
 - [Steve Torrence](https://github.com/storrence88)
