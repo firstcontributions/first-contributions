@@ -9577,6 +9577,7 @@ Rohan Das
 - [Xavier Palomo](https://github.com/xpalomoteruel)
 - [YuriCunha](https://github.com/YuriCunha)
 - [Alesandro Fidelis](https://github.com/AlesandroF)
+- [Daniel Murcia ](https://github.com/fermanlive)
 - [Akshama](https://github.com/Akshama)
 - [Jakob](https://github.com/J4K0B)
 - [kbussert](https://github.com/kbussert)
