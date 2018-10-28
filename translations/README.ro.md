@@ -6,33 +6,35 @@
 
 # Primele Contribuții
 
-Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales când colaborezi. A face greșeli nu este un lucru confortabil. Dar cel mai important în open source este colaborarea și lucrul în echipă. Noi am vrut să simplificăm modul în care noii contribuabili în open source învață și contribuie pentru prima dată.
+Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales când colaborezi, a face greșeli nu este un lucru confortabil. Noi am vrut să simplificăm modul în care noii contribuitori în open source învață și contribuie pentru prima dată.
 
-Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și simplificarea modului în care începătorii își fac prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât mai bine înveți. Dacă dorești să faci prima ta contribuție, simplu urmați pașii de mai jos. Vă promit că va fi distractiv.
+Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât chiar să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și sa simplifice modul în care începătorii își fac prima contribuție. Dacă dorești să faci prima ta contribuție, urmeaza pasii de mai jos.
 
-#### *Citește în [alte limbi](Translations.md).* 
+#### *Citește în [alte limbi](Translations.md).*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Dacă nu ai git instalat, [ instalează-l ]( https://help.github.com/articles/set-up-git/ ).
 
-## Ramifică repozitoriul(depozit)
+## Ramifică repozitoriul (depozit)
 
-Ramifică acest repo(depozit) făcând clic pe butonul fork locat pe partea de sus a paginii.
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+
+Ramifică acest repozitoriu (depozit) dând click pe butonul fork localizat în partea de sus a paginii.
 Acesta va creea o copie a repozitoriului în contul tău.
 
-## Clonează repozitoriul(depozit)
+## Clonează repozitoriul (depozit)
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Acum clonează acest repo pe computerul tău. Fă clic pe butonul clone apoi clic pe *copiați în clipboard*.
+Acum clonează acest repozitoriu pe computerul tău. Dute pe contul tau de GitHub, deschide repozitoriul, dă click pe butonul clone apoi clic pe *copiați în clipboard*.
 
-Deschideți un terminal și executați următoarea comanda git: 
+Deschideți un terminal și executați următoarea comanda git:
 
 ```
 git clone "adresa copiată"
 ```
-Unde "adresa copiată" (Fără de ghilimele) este adresa repozitoriului. Vezi pașii anteriori pentru a obține adresa.
+Unde "adresa copiată" (fără de ghilimele) este adresa repozitoriului. Vezi pașii anteriori pentru a obține adresa.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -40,66 +42,73 @@ De exemplu:
 ```
 git clone https://github.com/acesta-ești-tu/prima-contribuție.git
 ```
-Unde `acesta-ești-tu` este numele tău GitHub. Aici tu copiezi conținutul repozitorului GitHub "prima-contribuție" pe computerul tău.
+Unde `acesta-ești-tu` este numele tău de utilizator de pe GitHub. Aici tu copiezi conținutul repozitorului GitHub "prima-contribuție" pe calculatorul tău.
 
 ## Creează o Ramură
 
-Schimbați directorul în repozitoriu pe computer (dacă nu sunteți deja acolo):
+Schimbați directorul actual în repozitoriul de pe computer (dacă nu sunteți deja acolo):
 
 ```
 cd prima-contribuție
 ```
 Acum creați o ramură cu ajutorul comenzii `git checkout`:
 ```
-git checkout -b <adaug-numele-tău>
+git checkout -b <adaugă-numele-noii-ramuri>
 ```
 
 De exemplu:
 ```
-git checkout -b adaug-alonzo-church
+git checkout -b adaugă-alonzo-church
 ```
-(Numele ramurii nu e obligatoriu să fie *adaug*, dar e un lucru rezonabil pentru a include deoarece scopul acestei ramure este de a adăuga numele tău în lista!)
+(Numele ramurii nu e obligatoriu să fie *adaugă*, dar e un lucru rezonabil de inclus deoarece scopul acestei ramuri este de a adăuga numele tău în lista.)
 
-## Fă schimbările necesare si comite aceste schimbări
+## Fă schimbările necesare și comite aceste schimbări
 
-Acum deschide fișierul `Contributors.md` într-un editor de text (ca NotePad, Vim, nano, emacs, etc.), adaugă numele tău în el, apoi salvează fișierul. Dacă accesezi directorul de proiect și execuți comanda `git status`, vei vedea schimbări. Adaugă acele schimbări la ramura creată de tine cu comanda `git add`:
+Acum deschide fișierul `Contributors.md` într-un editor de text (ca NotePad, Vim, nano, emacs, etc.), adaugă numele tău în el. Nu il adăuga la început sau la sfârșit, ci undeva între. Acum salvează fișierul.
+
+<img align="right" width="300" src="../assets/git-status.png" alt="git status" />
+
+Dacă accesezi directorul de proiect și execuți comanda `git status`, vei vedea că sunt schimbări.
+
+Adaugă acele schimbări la ramura creată de tine cu comanda `git add`:
 ```
 git add Contributors.md
 ```
 
 Acum comite acele schimbări cu comanda `git commit`:
 ```
-git commit -m "Adaug <numele-tău> la lista de contribuitori"
+git commit -m "Adaugă <numele-tău> la lista de contribuitori"
 ```
-Schimbând `<numele-tău>` cu numele tău.
+schimbând `<numele-tău>` cu numele tău.
 
 ## Împinge Schimbările pe GitHub
 
 Împinge schimbările tale cu comanda `git push`:
 ```
-git push origin <adaug-numele-tău>
+git push origin <adaugă-numele-ramurii-tale>
 ```
-Schimbând `<adaug-numele-tău>` cu numele ramurii create de tine anterior.
+schimbând `<adaugă-numele-ramurii-tale>` cu numele ramurii create de tine anterior.
 
 ## Trimite modificările pentru examinare
 
-Dacă pleci la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Fă clic pe el.
+Dacă mergi la repozitoriul tău de pe GitHub, vei vedea butonul `Compare & pull request`(Compară & trage cererea). Dă click pe buton.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Acum trimiteți solicitarea de tragere.
+Acum trimite solicitarea de tragere.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Curând eu voi îmbina toate schimbările în ramura principală a acestui proiect. Veți primi un e-mail de notificare odată ce schimbările au fost fuzionate.
+Curând eu voi îmbina toate schimbările tale în ramura principală a acestui proiect. Vei primi o notificare pe e-mail odată ce schimbările au fost fuzionate.
 
-## De unde să mergi de aici?
+## Unde să mergi de aici?
+Felicitări! Tocmai ai terminat procedura fork->clone->edit->PR pe care o vei întâlni de nenumărate ori.
 
-Sărbătoriți-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
+Sărbătorește-ți contribuția și împărtășești-o cu prietenii și adepții tăi accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alătură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Ai putea să te alături echipei noastre de pe Slack în cazul în care avei nevoie de ajutor sau avei întrebări. [Alătură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare pe care le puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
+Acum, să începem să contribuim la alte proiecte. Am compilat o listă de proiecte cu probleme ușoare cu care puteți începe. Verifică  [lista de proiecte in aplicația web](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [ Materiale adiționale ](../additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -113,7 +122,7 @@ Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de pr
 ## Promovare-Personală
 
 Dacă ți-a plăcut acest proiect, pune-i o stea pe [GitHub](https://github.com/Roshanjossey/first-contributions).
-Dacă vă simțiți deosebit de caritabili, urmați-mă [Roshan](https://roshanjossey.github.io/) pe
+Dacă te simți deosebit de caritabil, urmariți [Roshan](https://roshanjossey.github.io/) pe
 [Twitter](https://twitter.com/sudo__bangbang) și
 [GitHub](https://github.com/roshanjossey).
 
