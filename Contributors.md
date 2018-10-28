@@ -923,6 +923,7 @@ Patrizia Trammell
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
+- William Nicholson
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
 - [Joseph Crandal](https://github.com/crandalj)
