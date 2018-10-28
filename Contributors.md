@@ -38,10 +38,11 @@
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Harry Potter](https://github.com/heripotir)
 - [Maike Negreiros](https://github.com/maikenegreiros)
+- Vishnu Bhagirathan
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
-Alexandra Cannon
+- Alexandra Cannon
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Raviru](https://github.com/Raviru)
@@ -49,7 +50,7 @@ Alexandra Cannon
 - [David Latorre](https://github.com/latorredev)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
-Jesse
+- Jesse
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
 - [Tony G](https://github.com/tonygparsehub)
