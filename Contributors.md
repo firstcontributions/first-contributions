@@ -2,7 +2,6 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
-- [FredMck](https://github.com/FredMck)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [shanto](https://github.com/shanto)
 - [Abhinav Gupta  ](https://github.com/ag-23)
@@ -188,7 +187,8 @@ Alvin
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
 - [Sarunyou Whangbunyapirat](https://github.com/sarunyou)
 - [Shivam Agrawal](https://github.com/shiv11x10)
-- [Connor Lindsey] (https://github.com/Ibaeni)
+- [Connor Lindsey](https://github.com/Ibaeni)
+- [FredMck](https://github.com/FredMck)
 -[pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
@@ -9621,3 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
+
