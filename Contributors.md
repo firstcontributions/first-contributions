@@ -7007,6 +7007,7 @@ Rohan Das
 - [Michael Eichenberger](https://github.com/MichaelE919)
 - [Will Sarg](http:/github.com/dell44223)
 - [Edward De](https://github.com/edwardivpn)
+- [Hafpaf] (https://github.com/Hafpaf)
 - [Aditya Mondal](https://github.com/tukaibat)
 - [Thomas W](https://github.com/Thomas9292)
 - [Harshal Kallurkar](https://github.com/harshal-1104)
