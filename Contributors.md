@@ -48,7 +48,6 @@ ashwini
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 - [Courtney Corlew](https://github.com/courtneycorlew)
-
 - [Julian](https://github.com/julian1)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 Rich Herbert
