@@ -9188,6 +9188,7 @@ Rohan Das
 - [Ulises Campos](https://github.com/Ulisescp97)
 - [Jorge](https://github.com/ferreiro)
 - [Heru](https://github.com/elukuro)
+- [Olimpio Adolfo](https://github.com/0limpi0)
 - [Jacinto Ramirez] (https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken] (https://github.com/sinuoustalker)
@@ -9604,5 +9605,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Olimpio Adolfo](https://github.com/0limpi0)
 
