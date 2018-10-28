@@ -45,6 +45,7 @@
 - [Harry Potter](https://github.com/heripotir)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
+- Lucas Fellipe
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
