@@ -790,6 +790,7 @@ Patrizia Trammell
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
 - [Alex Kluger](42947972+AKluger@users.noreply.github.com)
 - [Lokesh](https://github.com/bitlucky)
+- [Yahia Abusaif](https://github.com/YahiaAbusaif)
 - [Alberto Leon](https://github.com/betoleon)
 - [Pranav Pratap Singh](https://github.com/PranavPratapSingh)
 - [Mauricio Martínez](https://github.com/moudev)
