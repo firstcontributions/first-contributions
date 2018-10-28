@@ -929,7 +929,8 @@ Edison Shek
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [Kawaldeep Kaur](https://github.com/Kawaldeepkaur)
 - [Justin Marshall](https://github.com/JustinMarshall970)
-- eaguy
+- [Grzmt](https://github.com/Grzmt)
+- Jeaguy
 - William Nicholson
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
