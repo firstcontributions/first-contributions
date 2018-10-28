@@ -509,6 +509,7 @@ Edison Shek
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
+- [Shivam Shrivastava](https://github.com/shivam711)
 - [Jeetendra Singh](https://github.com/g10drasingh)
 - [Constant Vallee](https://github.com/covallee)
 - [Ojas Gulati](https://github.com/ojasgulati)
