@@ -9777,6 +9777,7 @@ quattad
 - [Camilo Ibarra](https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
+- [Aditya](https://github.com/aa-deet-eeya)
 - [Cristian](https://github.com/cencristian)
 - [Caio Gomes](https://github.com/minimarvin)
 - [David](https://github.com/IngDavNav)
