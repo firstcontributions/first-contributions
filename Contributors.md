@@ -64,6 +64,7 @@
 - [aditchanchal](https://github.com/aditchanchal)
 - [Duvan Pedroza](https://github.com/DuvanP97)
 ashwini
+- [dkessel] (https://github.com/dkessel)
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
 - [Zadorozhnii Yurii] (https://github.com/SirJoraH21)
 - [corxrew](https://github.com/corxrew)
