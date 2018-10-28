@@ -8543,7 +8543,8 @@ Rohan Das
 - [Mike Zentz](https://github.com/mikezentz)
 - [Dave Brener](https://github.com/davebrener)
 - [Caio Augusto](https://github.com/caioag)
-- [Eve Mendelevich] (https://github.com/mendelevich)
+- [Eve Mendelevich](https://github.com/mendelevich)
+- [Andrzej Dubaj](https://github.com/coffeina)
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
@@ -9589,4 +9590,4 @@ quattad
 - [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
-- [Andrzej Dubaj](https://github.com/coffeina)
+
