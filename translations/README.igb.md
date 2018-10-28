@@ -71,3 +71,27 @@ This will create a copy of this repository in your account.
 
 ## Na-ekpuchi ebe nchekwa
 
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+Ugbu a, dochie ya repo na igwe gị. Gaa na akaụntụ GitHub gị, meghee repo ahụ maka pịa, pịa bọtịnụ clone ma pịazie ya na akara ngosi akara ngosi.
+
+Open a terminal and run the following git command:
+
+```
+git clone "url you just copied"
+```
+
+ebe "url na ị depụtaghachiri" (na-enweghị ntinye ọnụ) bụ url maka nchekwa ebe a (mgbịrịgwụ nke ọrụ a). Hụ nzọụkwụ ndị gara aga iji nweta url.
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+Ọmụmaatụ:
+
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
+
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+
+## Mepụta alaka
+
