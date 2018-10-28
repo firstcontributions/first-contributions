@@ -9754,6 +9754,7 @@ quattad
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
+- [Akintola Moronfoluwa](https://github.com/Foluwa)
 - [Felix Cao](https://github.com/FelixCao)
 - [Wing Kuang](https://github.com/wwk3j)
 - [Camilo Ibarra](https://github.com/camiloibarrayepes)
