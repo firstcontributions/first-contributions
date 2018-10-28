@@ -9237,6 +9237,7 @@ Rohan Das
 - [Angga Dwi Arifandi](http://github.com/blackmenthor)
 - [Martina Šafarić](https://github.com/msafaric)
 - [Knatas](https://github.com/knatas)
+- [Matan Davidi](https://github.com/MatanDavidi)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Tom Lynch](https://github.com/LNCH)
 - [Paulo Victor](https://github.com/pulho)
