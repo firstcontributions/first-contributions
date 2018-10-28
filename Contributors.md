@@ -9489,7 +9489,8 @@ Rohan Das
 - [Bryan L](https://github.com/bdlb77)
 - [Richard Bailey](https://github.com/Programm3r)
 - [Minauz](https://github.com/minauz)
-- [Erick Silva] (https://github.com/erickos)
+- [Erick Silva](https://github.com/erickos)
+- [Aditya](https://github.com/aditya300899)
 - [Buse Genç](https://github.com/busegenc)
 - [Felipe Putsch](https://github.com/flpputsch)
 - [Nair Rohit](https://github.com/innovative-roh)
@@ -9634,5 +9635,4 @@ quattad
 - [Cristian](https://github.com/cencristian)
 - [David](https://github.com/IngDavNav)
 - [Mateus Machado](https://github.com/mateusfmachado)
-- [Aditya](https://github.com/aditya300899)
 
