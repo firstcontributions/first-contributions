@@ -204,6 +204,7 @@
 - [Florin Irion](https://github.com/irionr)
 - [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [kananthav](https://github.com/kananthav)
+- [Maria Kalemanov](https://github.com/kalemaria)
 - [naman](https://github.com/nbanati)
 - [Jared Moser](https://github.com/JM0S3R)
 - [Caique](https://github.com/caiqueff)
