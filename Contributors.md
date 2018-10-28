@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
@@ -9794,6 +9794,7 @@ quattad
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
 - [Akintola Moronfoluwa](https://github.com/Foluwa)
+- [scumpser](https://github.com/djay2815)
 - [Felix Cao](https://github.com/FelixCao)
 - [Wing Kuang](https://github.com/wwk3j)
 - [Camilo Ibarra](https://github.com/camiloibarrayepes)
