@@ -63,7 +63,6 @@ Rich Herbert
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23
-- [BroCodeClan](https://github.com/brocodeclan) :sunglasses:
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
@@ -559,6 +558,7 @@ Patrizia Trammell
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
+- [BroCodeClan](https://github.com/brocodeclan) :sunglasses:
 - [Mr_Patcher] (https://github.com/Mr-Patcher)
 - [Parth Manhas](https://github.com/ishouldcode)
 - [Rim Fardiyev](https://github.com/Dreammaster13)
