@@ -9310,6 +9310,7 @@ Rohan Das
 - [Joao V Souto](https://github.com/JoaoVSouto)
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Rui Neto](https://github.com/rnetonet)
+- [Harshni](https://github.com/harshnipriya)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
@@ -9610,4 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Harshni](https://github.com/harshnipriya)
+
