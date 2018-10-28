@@ -8982,6 +8982,7 @@ Rohan Das
 - [shachashou](https://github.com/shachashou)
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
+- [Toma Cotuna](https://github.com/tomacotuna)
 - [Luciano Simeao](https://github.com/luciano-s/)
 - [Hitanshu](https://github.com/Phantom-Cluster)
 - [Derek](https://github.com/thestarvingcoder)
@@ -9609,4 +9610,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Toma Cotuna](https://github.com/tomacotuna)
+
