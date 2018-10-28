@@ -9814,6 +9814,7 @@ quattad
 - [jay3315938](https://github.com/jay3315938/)
 - [Mmendero](https://github.com/Mmendero)
 - [Garoto](https://github.com/Garoto0518)
+- [Patrice Tisserand](https://github.com/ptisserand)
 - [Avinash Maurya](https://github.com/mauryaavinash95)
 - [Benedict Florance](https://github.com/benedictflorance)
 - [Shoaib Sharif](https://github.com/shoaibdhk)
