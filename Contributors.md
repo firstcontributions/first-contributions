@@ -263,33 +263,34 @@ Santanu
 - [Shivam Agrawal](https://github.com/shiv11x10)
 - [Connor Lindsey](https://github.com/Ibaeni)
 - [FredMck](https://github.com/FredMck)
--[pankaj kumar](https://github.com/Shankusu7)
+- [pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
 - [Miftah Mizwar](https://github.com/mizwardomlank)
- [maryam](https://github.com/khailda)
+- [maryam](https://github.com/khailda)
 - [Sudhanshu Rawat](https://github.com/phenom57)
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
 - [Arnastria](https://github.com/arnastria)
 - [Sasho Irkov](https://github.com/2121159i)
-JOON JANG JOON JANG
-Jarett Chaiken
-- [Jeet Maity] (https://github.com/jeet-maity)
--Siddharth Gusain(https://github.com/siddharth-gusain)
+- JOON JANG JOON JANG
+- Jarett Chaiken
+- [Jeet Maity](https://github.com/jeet-maity)
+- [Siddharth Gusain](https://github.com/siddharth-gusain)
 - [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z)
-Ben
-John Carl James Nebab
+- Ben
+- [Rafael Junqueira](https://github.com/rafaelj)
+- John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
 - [James Bowler](https://github.com/jimuk07)
 - [w5bh](https://github.com/w5bh)
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [KneeAwn](https://github.com/CalebLarsen)
--[Harsh Ranpariya](https://github.com/harshranpariya)
-  [Vibudh Vishal](github.com/vibudhvishal)
+- [Harsh Ranpariya](https://github.com/harshranpariya)
+- [Vibudh Vishal](github.com/vibudhvishal)
 - [Claudio Fioretti](https://github.com/cfioretti)
-- [Menna] (https://github.com/mennayahia)
+- [Menna](https://github.com/mennayahia)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Seth Polyniak](https://github.com/sethpoly)
