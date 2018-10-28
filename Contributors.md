@@ -2,7 +2,6 @@
 - [Erica Peterson] (https://github.com/ericalpeterson)
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
-- [Mayank Kamboj](http://github.com/mayankkamboj47)
 - [shanto](https://github.com/shanto)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
@@ -603,6 +602,7 @@ Patrizia Trammell
 - [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Dhiraj Kalita](https://github.com/dhrjklt)
+- [Mayank Kamboj](http://github.com/mayankkamboj47)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Vikki111](https://github.com/Vikki111)
