@@ -9118,6 +9118,7 @@ Rohan Das
 - [Jude Osbert K](https://github.com/judeosbert)
   [Juwana Zerman](https://github.com/JZerman2018)
 - [Cholinka13](https://github.com/cholinka13)
+- [Breno Franco](https://github.com/brenohff)
 - [Hearot](https://github.com/hearot)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [Ryan S.](https://github.com/ryans331)
@@ -9587,4 +9588,3 @@ quattad
 - [Felix Cao](https://github.com/FelixCao)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
-- [Breno Franco] (https://github.com/brenohff)
