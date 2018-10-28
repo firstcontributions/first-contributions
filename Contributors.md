@@ -9124,6 +9124,7 @@ Rohan Das
 - [Jedsada Tiwongvorakul](https://github.com/T-Jedsada)
 - [syahrinka](https://github.com/syahrinka)
 - [Nap Joseph Calub](https://github.com/njncalub)
+- [Christoph](https://github.com/HpotsirhcH)
 - [Nayan Das](https://github.com/Nayan-Das)
 - [Richard Huang](https://github.com/aeolyus)
 - [Thanawit Gerdprasert](https://github.com/carymono)
@@ -9620,4 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Christoph](https://github.com/HpotsirhcH)
+
