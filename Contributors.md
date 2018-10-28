@@ -486,6 +486,7 @@ aalbusoiu
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
+- [Tanis-02] (https://github.com/Tanis-02)
 - [Dusan Pilipovic](https://github.com/razzil1)
 - [Akbar Mirza](https://github.com/akbarbmirza)
 - [Victor Daisuke Araki] (https://github.com/VicDaAr)
