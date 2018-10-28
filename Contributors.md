@@ -9459,7 +9459,7 @@ Rohan Das
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
 - [Ali Balci] (https://github.com/alibalci)
-
+- [Joaquim Honório](https://github.com/joaquimcmh)
 - [**Abhijeet Srivastava**](https://github.com/abhijeet181995)
 - [Harry Zachariou](https://github.com/hcz1)
 - [⁵⁷](https://github.com/micky619)
@@ -9620,5 +9620,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Joaquim Honório](https://github.com/joaquimcmh)
 
