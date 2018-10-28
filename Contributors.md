@@ -838,6 +838,7 @@ Patrizia Trammell
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Brandon Avila](https://github.com/brandonravila)
 - [Cody]()
+- [Nipun Goel]()
 - [Tiffany F](https://github.com/tifffai)
 - [Somesh rf](https://github.com/someshrf)
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
