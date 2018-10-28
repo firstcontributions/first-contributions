@@ -85,6 +85,7 @@
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
+- [Maksim Schutsky](https://github.com/maximsan)
 - [Jing Heng](https://github.com/limjh16)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Julian](https://github.com/julian1)
