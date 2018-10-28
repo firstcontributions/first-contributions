@@ -8023,6 +8023,7 @@ Rohan Das
 - [Omar baghırov](https://github.com/omarBaghirov)
 - [Szymon Ożóg](https://github.com/SzymonOzog)
 - [Yogesh Mangaj](https://github.com/yogeshmangaj)
+- [Sascha Mitlacher](https://github.com/mitlasas)
 - [Tj Muscarella](https://github.com/tmuscar)
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Kristjan Koemets](https://github.com/Jollerr)
