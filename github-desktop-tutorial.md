@@ -34,7 +34,7 @@ To clone the repo, click on "Clone or Download" and then click on "Open in Deskt
 
 <img style="left;" src="assets/dt1-clonetodesktop.png" alt="clone this repository" />
 
-A pop up window will open. Click on "Open GitHubDesktop.exe"
+A pop up window will open. Click on "Open GitHubDesktop.exe".
 
 <img style="left;" src="assets/dt1-open-githubdesktop.png" alt="clone this repository" />
 
@@ -70,11 +70,11 @@ You can see that there are changes to Contributors.md and they have been added t
 
 Now commit those changes:
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field
+Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
 
-Replace `<your-name>` with your name
+Replace `<your-name>` with your name.
 
-Click on the button that says `Commit to add-your-name`
+Click on the button that says `Commit to add-your-name`.
 
 <img style="left;" src="assets/dt1-commit1.png" alt="commit your changes" />
 
