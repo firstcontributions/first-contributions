@@ -327,6 +327,7 @@ Arnel Forbes
 - [Rayan Hatout](https://github.com/rayanht)
 - [Rayan Hatouttttt]
 - [Ananay Garg](https://github.com/ananaygarg)
+- [Gizmo83](https://github.com/gizmo83)
 - [Gates Cao](https://github.com/gatescao)
 - [Gregor Grasselli](https://github.com/GregorGrasselli)
 - [Lucas Bueno](https://github.com/LucasBueno22)
