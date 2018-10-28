@@ -162,6 +162,7 @@
 - [Saurabh Datir](https://github.com/dinosaurabh)
 - [Yogendra Sharma](https://github.com/Yogendra0Sharma)
 - [George Doykan](https://github.com/gdoykan)
+- [Bhavuk Sharma](https://github.com/bhvk)
 - [Vijay Kumar](https://github.com/VijayVj7)
 - Deepak Hooda
 - [Panayiotis Kaizo](https://github.com/pns2050)
@@ -530,4 +531,3 @@
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
-- [Bhavuk Sharma](https://github.com/bhvk)
