@@ -3,7 +3,6 @@
 - [Ramon Griffo Costa]-(https://github.com/IguanaAzul)
 - Jason
 - [shanto](https://github.com/shanto)
-- [mayank kamboj](https://github.com/mayankkamboj47)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
@@ -1743,6 +1742,7 @@ Patrizia Trammell
 - [Garvit Bhatia](https://github.com/GarvitBhatia)
 - [Timmy](https://github.com/Timmy)
 - [Nav k](https://github.com/DevNavpreet)
+- [mayank kamboj](https://github.com/mayankkamboj47)
 - [Rishabh Garg](https://github.com/rishabhgarg25699)
 - [Adam Hyder](https://github.com/adamhyder)
 - [Nicholas Ko](https://github.com/Mailnickko)
