@@ -36,8 +36,6 @@ Jesse
 - [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 - [Duvan Pedroza](https://github.com/DuvanP97)
-
-
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
 - [corxrew](https://github.com/corxrew)
