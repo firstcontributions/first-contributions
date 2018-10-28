@@ -875,6 +875,7 @@ Patrizia Trammell
 - [Garima Yadav](https://github.com/gary115)
 - [Laura Pinto](https://github.com/lauraalpinto)
 - [Cristina Tarantino](https://github.com/CristyTarantino)
+- [Gowthamy Vaseekaran](https://github.com/GowthamyVaseekaran)
 - [Isuru Nanayakkara](https://github.com/IsuruNana)
 - [Skand V Gupta](https://github.com/skandagpt)
 - [Abilash Menon](https://github.com/abilash13)
