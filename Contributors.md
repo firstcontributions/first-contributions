@@ -129,6 +129,7 @@ Rich Herbert
 - [dmitrycy](https://github.com/dmitrycy)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+Blawle
 - [Raees Nazeer](https://github.com/raeesnazeer)
 - [FriendlyMafia](https://github.com/dattvidc)
 - [volkimd](https://github.com/volkimd)
