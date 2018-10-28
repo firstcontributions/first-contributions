@@ -26,7 +26,6 @@ Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
--[SaiSai]
 - [corxrew](https://github.com/corxrew)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
@@ -1145,6 +1144,7 @@ Patrizia Trammell
 - [Colton Boston](https://github.com/ColtonBoston)
 - [yusufcodes](https://github.com/yusufcodes)
 - Corne Kooyman
+- [SaiSai]()
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
