@@ -9258,6 +9258,7 @@ Rohan Das
 - [Matan Davidi](https://github.com/MatanDavidi)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Tom Lynch](https://github.com/LNCH)
+- [bartekde](http://github.com/bartekde)
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
