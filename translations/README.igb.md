@@ -114,3 +114,19 @@ git checkout -b add-alonzo-church
 ```
 
 (Aha alaka ahụ adịghị mkpa iji tinye okwu ahụ n'ime ya, ma ọ bụ ihe dị mkpa ị gụnyere n'ihi na ebumnuche nke alaka a bụ ịgbakwunye aha gị na ndepụta.)
+
+## Mee mgbanwe ndị dị mkpa ma mee mgbanwe ndị ahụ
+
+
+Ugbu a mepee `Contributors.md` faịlụ na nchịkọta ederede, tinye aha gị na ya. Adakwunye ya na mmalite ma ọ bụ njedebe nke faịlụ ahụ. Tinye ya n'ebe ọ bụla n'etiti. Ugbu a, chekwaa faịlụ ahụ.
+
+<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+
+Ọ bụrụ na ịga na ndekọ ụlọ ọrụ ma mebie iwu ahụ `git status`, ị ga-ahụ na e nwere mgbanwe.
+
+
+Tinye mgbanwe ndị a n'alaka ụlọ ọrụ ị mepụtara site na iji `git add` iwu ahụ:
+
+```
+git add Contributors.md
+```
