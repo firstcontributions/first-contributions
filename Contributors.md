@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -41,7 +41,8 @@
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
 - [Aditya Gupta](https://github.com/6aditya8)
-- [Omkar Kadam](https://github.com/omkar8kadam)
+- [Omkar Kadam]
+(https://github.com/ngil7) - [Natalie Gilmore] (https://github.com/omkar8kadam)
 - [Harry Potter](https://github.com/heripotir)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
