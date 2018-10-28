@@ -8809,6 +8809,7 @@ Rohan Das
 - [Robson Marinho](https://github.com/RobsonMarinho)
 - [Gabriela Matias](https://github.com/GabrielaMattias)
 - [Chi Tak](https://github.com/chitak)
+- [Prateek](https://github.com/prateek552)
 - [Maysa Borges](https://github.com/maysaborges)
 - [Christian Moultrie](https://github.com/makesomething-christian)
 - [AFrittella](https://github.com/afrittella)
