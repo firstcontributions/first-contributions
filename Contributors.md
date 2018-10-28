@@ -9028,6 +9028,7 @@ Rohan Das
 - [Raghu Kamat](https://github.com/GeniusStorm)
 - [LordBrud](https://github.com/LordBrud)
 - [MyLibh](https://github.com/MyLibh)
+- [Edu](https://github.com/muzikizum)
 - [Jessica](https://github.com/jmc617)
 - [Cleber Fonseca](https://github.com/clebersfonseca)
 - [kamchai boonruam](https://github.com/JackyBeatles)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Edu](https://github.com/muzikizum)
 
