@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
@@ -3671,6 +3671,7 @@ Bakht Jamal Sukhera
 - [GlueckskindRU](https://github.com/glueckskindu)
 - [Torty Emmanuel](https://github.com/tengine8000)
 - [Michael Karr](https://github.com/mdkarr01)
+- [Marion Lotito](https://github.com/marionlo)
 - [Todd Mason](https://github.com/ToddMason/first-contributions)
 - [Adimali](https://github.com/adimali)
 - [Neethu Santhosh](https://github.com/neethusanthosh)
