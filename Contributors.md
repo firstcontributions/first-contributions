@@ -9693,3 +9693,4 @@ quattad
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
 - [Debasree Chatterjee] (https://github.com/debo1398)
+- [Yatharth Maheshwari](https://github.com/yatharthmahesh)
