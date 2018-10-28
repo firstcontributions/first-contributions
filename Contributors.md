@@ -35,6 +35,7 @@
 - wefromstars
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Ravi Jain](https://github.com/engrravijain)
+- [Sean Mayton](https://github.com/maytonsw)
 - [Manthan Jain](https://github.com/manthanjain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
