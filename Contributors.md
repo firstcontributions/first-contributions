@@ -9578,6 +9578,7 @@ quattad
 - [Jay Perez](https://github.com/Rolys
 - [Sameer Malik](https://github.com/sameermalik20aug)
 - [Jorge Galat](https://github.com/jgalat)
+- [Flaviano Flauber](https://github.com/flauberjp)
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Ya Dro](https://github.com/MrYadro)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
