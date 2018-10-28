@@ -10,6 +10,49 @@
 
 Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
 
+
+#### *Read this in [other languages](translations/Translations.md).*
+
+[🇮🇳](translations/README.hi.md)
+[🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.id.md)
+[🇫🇷](translations/README.fr.md)
+[🇪🇸](translations/README.es.md)
+[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[🇳🇱](translations/README.nl.md)
+[🇱🇹](translations/README.lt.md)
+[🇷🇺](translations/README.ru.md)
+[:slovakia:](translations/README.slk.md)
+[🇯🇵](translations/README.ja.md)
+[🇻🇳](translations/README.vn.md)
+[🇵🇱](translations/README.pl.md)
+[🇮🇷](translations/README.fa.md)
+[🇮🇷](translations/README.fa.en.md)
+[🇰🇷 🇰🇵](translations/README.ko.md)
+[🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
+[🇨🇳](translations/README.chs.md)
+[🇹🇼](translations/README.cht.md)
+[🇬🇷](translations/README.gr.md)
+[🇪🇬](translations/README.eg.md)
+[🇸🇦](translations/README.ar.md)
+[🇺🇦](translations/README.ua.md)
+[🇧🇷](translations/README.pt_br.md)
+[🇵🇹](translations/README.pt-pt.md)
+[🇮🇹](translations/README.it.md)
+[🇹🇭](translations/README.th.md)
+[🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
+[🇵🇰](translations/README.ur.md)
+[:bangladesh:](translations/README.bn.md)
+[🇲🇩 🇷🇴](translations/README.ro.md)
+[🇹🇷](translations/README.tr.md)
+[🇸🇪](translations/README.se.md)
+[:slovenia:](translations/README.sl.md)
+[🇮🇱](translations/README.hb.md)
+[🇨🇿](translations/README.cs.md)
+[🇲🇽](translations/README.mx.md)
+
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
