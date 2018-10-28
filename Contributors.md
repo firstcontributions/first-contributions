@@ -849,6 +849,7 @@ Edison Shek
 - [Yixian Chen](https://github.com/yxnchen)
 - [Rushit Jasani](https://github.com/rushitjasani)
 - [Gabriele Corti](https://github.com/borntofrappe)
+- [Gabrielly de Andrade](https://github.com/gaby-andrade)
 - [Brandon Thibeaux](https://github.com/thibeaux)
 - [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
 - [Benni Russell](https://github.com/8eni)
