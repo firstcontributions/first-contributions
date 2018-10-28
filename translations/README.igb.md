@@ -150,3 +150,8 @@ git push origin <add-your-branch-name>
 dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge gara aga.
 
 ## Nyefee mgbanwe gị maka nyocha
+
+
+Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
+
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
