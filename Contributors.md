@@ -9695,3 +9695,4 @@ quattad
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
 - [Debasree Chatterjee] (https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
+- [Garvit Kothari](https://github.com/Garvit-k)
