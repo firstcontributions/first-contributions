@@ -369,12 +369,13 @@ aalbusoiu
 - [Deepak Sood](https://github.com/deepaksood619)
 - [Balamurugan](https://github.com/dillbala)
 - [chickencoder](https://github.com/chickencoder)
-- [Sunali] (https://github.com/sunalii)
+- [Sunali](https://github.com/sunalii)
 - [Jonas Jore](https://github.com/JonasJore)
-- [Samira Elhami] (https://github.com/SamiraElhami)
+- [A Vinayak Rugvedi](https://github.com/VinayakRugvedi)
+- [Samira Elhami](https://github.com/SamiraElhami)
 - [Marjy Guery](https://github.com/mguery)
-- [Deniz Ozkan](https://github.com/denozk
--gagan kumar)
+- [Deniz Ozkan](https://github.com/denozk)
+- gagan kumar
 - [Andrew Callaway](https://github.com/CasperEvil)
 - [Daniel Yusry](https://github.com/DanielYuo)
 - [polyglotyeoja](https://github.com/polyglotyeoja)
