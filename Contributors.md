@@ -9666,6 +9666,7 @@ quattad
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
 - [Felix Cao](https://github.com/FelixCao)
+- [Wing Kuang](https://github.com/wwk3j)
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
