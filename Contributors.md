@@ -24,6 +24,7 @@
 - [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
+- [Satpal Tanan](https://github.com/tanansatpal)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
