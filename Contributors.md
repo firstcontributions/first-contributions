@@ -950,6 +950,7 @@ Patrizia Trammell
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Ekaansh Arora](https://github.com/EkaanshArora)
 - [Joris van Willigen](https://github.com/JorisvanW)
+- [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [Veena Rawat](https://github.com/veenarawat)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Teja Swaroop Arukoti](https://github.com/TejaSwaroopArukoti)
