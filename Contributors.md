@@ -9734,5 +9734,5 @@ quattad
 - [Samala Sumanth](https://github.com/SamalaSumanth0262/)
 - [Debasree Chatterjee] (https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
-- [Animesh Shukla](anime19/first-contributions)
+- [Animesh Shukla](https://github.com/anime19)
 - [Navneeth Babra](https://github.com/nbabra)
