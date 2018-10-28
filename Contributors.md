@@ -9484,6 +9484,7 @@ Rohan Das
 - [Mon555](https://github.com/mon555)
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Rui Neto](https://github.com/rnetonet)
+- [Harshni](https://github.com/harshnipriya)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
