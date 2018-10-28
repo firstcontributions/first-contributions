@@ -648,6 +648,7 @@ Patrizia Trammell
 - [André Decher](https://github.com/Wolfy7)
 - [YamitSi](https://github.com/yamitsi)
 - [Lexuv2](https://github.com/lexuv2)
+- [Huy Nguyen](https://github.com/HuyxNguyen)
 - [Abdulbayz](https://github.com/Bayz1)
 - [Ashutosh Kumar](https://github.com/ashutosh-iitg)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
