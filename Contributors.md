@@ -16,6 +16,7 @@
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
+- [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Ihoey](https://github.com/ihoey)
 - [Divyam](https://github.com/shahdivyam)
 - julio-garcia-fc
