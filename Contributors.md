@@ -9222,6 +9222,7 @@ Rohan Das
 - [Nuno Laranjo](https://github.com/omnee)
 - [Carcraftz](https://github.com/Carcraftz)
 - [DaveRoox](https://github.com/DaveRoox)
+- [Vlad Pavlov](https://github.com/h0axbu5ter)
 - [Mohammed Abul Shoeb](https://github.com/alshoeb)
 - [Kolomu](https://github.com/kolomu)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
