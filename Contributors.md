@@ -9625,6 +9625,7 @@ quattad
 - [WeeKent](https://github.com/weekent)
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
 - [Sharath George M](https://github.com/sharathgeorgem)
+- [Arav](https://github.com/aravikapra)
 - [Taylor Ellis](https://github.com/TayEllis)
 - [Hatsanai Decha](https://github.com/roshannsp)
 - [Golovin Nikita](https://github.com/golovin-nik95)
