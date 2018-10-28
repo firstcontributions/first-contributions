@@ -7,6 +7,7 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
+- [Asma](https://github.com/AsmaSwapna)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [John mantas](https://github.com/john-mantas)
