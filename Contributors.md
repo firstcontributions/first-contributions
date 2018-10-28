@@ -34,7 +34,6 @@ Jesse
 - [fyusuf1](https://github.com/fyusuf1)
 - [Rajesh Verma]
 - [Justin Kook] (https://github.com/justinkook)
-- [Soumith Bhagwat](https://github.com/soumithbhagwat)
 - [aditchanchal](https://github.com/aditchanchal)
 ashwini
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
@@ -102,6 +101,7 @@ Rich Herbert
 - [Yusuf Mohammed Delvi](https://github.com/yusuf-delvi)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
+- [Soumith Bhagwat](https://github.com/soumithbhagwat)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
 - [Raees Nazeer](https://github.com/raeesnazeer)
