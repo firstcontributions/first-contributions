@@ -1108,6 +1108,8 @@ Patrizia Trammell
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
+- [yusufcodes](https://github.com/yusufcodes)
+- [IgorOliveira42](https://github.com/igoroliveira42)
 - Corne Kooyman
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
@@ -9546,4 +9548,3 @@ quattad
 - [R Praveen Pai](https://github.com/praveenpi)
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
-- [IgorOliveira42](https://github.com/igoroliveira42)
