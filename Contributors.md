@@ -8903,6 +8903,7 @@ Rohan Das
 - [Jonathan Abantao](https://github.com/jonabantao)
 - [Carlos Proiete](https://github.com/carlosproiete)
 - [Wico](https://github.com/wicogohome)
+- [Mauricio](https://github.com/maccevedor)
 - [1337k0d3r](https://github.com/1337k0d3r)
 - [Koh You Liang](https://github.com/isopach)
 - [Kaderle Tobias](https://github.com/HatboyWonder)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Mauricio](https://github.com/maccevedor)
 
