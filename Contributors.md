@@ -9215,6 +9215,7 @@ Rohan Das
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
+- [IacobIonut](https://github.com/IacobIonut01)
 - [Pete Madis](https://github.com/petemadis)
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Nishant Tilve](https://github.com/Antimatter98)
@@ -9620,4 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [IacobIonut] (https://github.com/IacobIonut01)
+
