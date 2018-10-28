@@ -130,3 +130,15 @@ Tinye mgbanwe ndị a n'alaka ụlọ ọrụ ị mepụtara site na iji `git ad
 ```
 git add Contributors.md
 ```
+
+Ugbu a mee mgbanwe ndị ahụ site na iji `git commit` iwu ahụ:
+
+```
+git commit -m "Add <your-name> to Contributors list"
+```
+dochie `<your-name>` aha gị.
+
+## Push mgbanwe na GitHub
+
+
+Mee mgbanwe gị site na iji iwu `git push:`
