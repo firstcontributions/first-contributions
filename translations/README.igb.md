@@ -61,4 +61,13 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+Ọ bụrụ na ịnweghị igwe na igwe gị, [wụnye ya]( https://help.github.com/articles/set-up-git/).
+
+
+## Wepu ebe nchekwa a
+
+Fork this repo by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
+
+## Na-ekpuchi ebe nchekwa
+
