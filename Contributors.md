@@ -41,6 +41,7 @@ Alexandra Cannon
 - [Lauren Wright](https://github.com/laurenewright)
 Jesse
 [Johnnie](https://github.com/aimlessblitz)
+- [Tony G](https://github.com/tonygparsehub)
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
 - [Rajesh Verma]
