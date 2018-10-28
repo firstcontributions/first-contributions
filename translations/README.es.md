@@ -120,7 +120,6 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-
 ## Auto promoción
 
 Si te gustó este proyecto, márcalo como favorito con una estrella en [GitHub](https://github.com/Roshanjossey/first-contributions).
