@@ -9180,6 +9180,7 @@ Rohan Das
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Erez](https://github.com/ErezSchwartz)
+- [aswathikb](https://github.com/aswathikb)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
@@ -9620,5 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [aswathikb](https://github.com/aswathikb)
 
