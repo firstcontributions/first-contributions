@@ -4027,6 +4027,7 @@ Tanishq Gupta
 - [Digenaldo Neto](https://github.com/digenaldo)
 - [Vishnu M](https://github.com/Vishnu-M)
 - [Siddharth Mahapatra](https://github.com/SiddharthMahapatra12)
+- [Thinesh Vasee] (https://github.com/Thinesh-19)
 - [Metas Kerdwat](https://github.com/oakkub)
 - [Katy Duncan](https://github.com/katyduncan)
 - [Yen Hoang Le](https://github.com/LeHoangYen)
