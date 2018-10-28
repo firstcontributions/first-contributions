@@ -9384,6 +9384,7 @@ Rohan Das
 - [Tom Braul](https://github.com/tombraul)
 - [Sandhya Saravanan](https://github.com/sandy9999)
 - [Eoin McCoy](https://github.com/yoghurt1)
+- [Delphine Achini](https://github.com/ayumiesan)
 - [Gulcan Baran](https://github.com/gulcann)
 - [Filipe Cruz](https://github.com/filipe7788)
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
