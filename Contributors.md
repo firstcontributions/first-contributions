@@ -7014,6 +7014,7 @@ Rohan Das
 - [Gherry77](https://github.com/Gherry77)
 - [Arnold Nunez](https://github.com/ArnoldNunez)
 - [Clay Brooks](https://github.com/brks9622)
+- [Min Yu] (https://github.com/ImTheRealOne)
 - [Juan Rodriguez](https://github.com/timrodz)
 - [Ben Schoenfeldt](https://github.com/benscho)
 - [Dale Seo](https://github.com/DaleSeo)
