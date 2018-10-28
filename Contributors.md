@@ -5,6 +5,7 @@
 - [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [MrHritik](https://github.com/Hritik14)
+- [JaxenFarrell](https://github.com/farrelljaxen)
 - [Kegjams](https://github.com/Kegjams)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
