@@ -28,6 +28,7 @@
 - [Guillermo Gonzalez](https://github.com/nwni)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
+- [Harry Potter](https://github.com/heripotir)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
