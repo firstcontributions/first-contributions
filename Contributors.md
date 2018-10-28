@@ -1142,6 +1142,7 @@ Patrizia Trammell
 - [Vinnys Lins](https://github.com/vinnyslins)
 - [Thein Oo](https://github.com/thoo)
 - [Kyle Tozer](https://github.com/kyletozer)
+- [Yash Bhardwaj](https://github.com/Bhardwajy795)
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Sindhiya Arya](https://github.com/aryasin)
 - [Louis Chris Orona](https://github.com/louischrisorona)
