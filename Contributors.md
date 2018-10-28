@@ -9331,6 +9331,7 @@ Rohan Das
 - [Roi Ben Shaul](https://github.com/rughciatuk)
 - [Pratish Katiyar](https://github.com/pratishk28)
 - [Riablo](https://github.com/Riablo)
+- [Jakub](https://github.com/IRusio)
 - [Kimi Leta Ward](https://github.com/kimileta)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Dzung Le](https://github.com/dzunglt24)
@@ -9620,4 +9621,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Jakub](https://github.com/IRusio)
+
