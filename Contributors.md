@@ -9222,6 +9222,7 @@ Rohan Das
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [Hamza Khalid](https://github.com/Hamza156)
 - [a-ray](https://github.com/a-ray)
+- [Amitkumar](https://github.com/UltimateBrains)
 - [lisbert](https://github.com/lau626)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
@@ -9513,4 +9514,3 @@ quattad
 - [Naren](https://github.com/narensh)
 - [Brandon Doyle](https://github.com/bjd2385)
 - [Michael Matherson](https://github.com/michaelmatherson)
-- [Amitkumar](https://github.com/UltimateBrains)
