@@ -130,7 +130,8 @@
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [Bhavika26](https://github.com/Bhavika26)
 - [MattDurajka](https://github.com/MattDurajka)
-- [TrishaAguinaldo](https://github.com/kronicle114)
+- [TrishaAguinaldo](https://github.com/kronicle114)'
+- [Adrian]
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
