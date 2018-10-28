@@ -14,7 +14,7 @@
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
 - [Aman Sharma](https://github.com/AmanSharma123456)
-- [Abhinav Gupta  ](https://github.com/ag-23)
+- [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Ladson G](https://github.com/ladsong)
@@ -8999,6 +8999,7 @@ Rohan Das
 - [Tomasz Bawor](https://github.com/tomaszbawor)
 - [Waramun Achametra](https://github.com/booms2p)
 - [Nayalash Mohammad](https://github.com/Nayalash)
+- [Garvit Kothari](https://github.com/Garvit-k)
 - [apples723](https://github.com/apples723)
 - [Andrew Hopkins](https://github.com/andrewjhopkins)
 - [Amrita Singha Roy](https://github.com/Amrito1996)
@@ -9695,4 +9696,3 @@ quattad
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
 - [Debasree Chatterjee] (https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
-- [Garvit Kothari](https://github.com/Garvit-k)
