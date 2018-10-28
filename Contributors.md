@@ -8845,6 +8845,7 @@ Rohan Das
 - [Bailram](https://github.com/bailram)
 - [Berserker220](https://github.com/Berserker220)
 - [jyzeng17](https://github.com/jyzeng17)
+- [Daniel Chapin](https://github.com/kokomoko8)
 - [Jaydeep Eraniya](https://github.com/Jaydeep1617)
 - [Nipun Dayanath](https://github.com/nipund)
 - [M Rizal](https://github.com/hardzal)
@@ -9596,4 +9597,4 @@ quattad
 - [Camilo Ibarra] (https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
-- [Daniel Chapin](https://github.com/kokomoko8)
+
