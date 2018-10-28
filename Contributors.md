@@ -9311,6 +9311,7 @@ Rohan Das
 - sujan lohitha
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
 - [Frank Carlone](https://github.com/fcarlone)
+- [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon] (https://github.com/nuncharee)
 - [Maron](https://github.com/maronmate)
