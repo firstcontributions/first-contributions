@@ -11,7 +11,7 @@
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
-| :slovakia: | [Slovenčina](README.slk.md) |
+| :slovakia: | [Slovenčina](README.sk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
