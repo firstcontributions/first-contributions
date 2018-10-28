@@ -167,6 +167,7 @@
 - [Naman Kapoor](https://github.com/naman-kapoor)
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
+- [Vimukthi Bandara](https://github.com/breezage)
 - [Jovan Kelly](http://github.com/kellyjovan)
 - [Thuhini](https://github.com/Thuhini)
 - [lenni108](https://github.com/lenni108)
