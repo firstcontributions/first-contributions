@@ -2,7 +2,11 @@
 
 Sometimes, you may want to remove a file from Git but not delete it from your computer. You can achieve this by using the following command:
 
-``git rm <file> --cached``
+``` markdown
+ git rm file1.js --cached
+ git commit -m "Remove file1.js"
+```
+
 
 ## So what happened?
 
