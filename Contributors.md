@@ -1260,6 +1260,7 @@ Patrizia Trammell
 - [mnemosdev](https://github.com/mnemosdev)
 - Evan Rives
 - maskedCat
+- Nachiappan Senthil Kumar
 - [Yixian Chen](https://github.com/yxnchen)
 - [Rushit Jasani](https://github.com/rushitjasani)
 - [Tim Lucca](https://github.com/TimLucca)
