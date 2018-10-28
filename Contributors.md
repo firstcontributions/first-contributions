@@ -19,7 +19,6 @@ Alexandra Cannon
 - [Anju Cheran](https://github.com/anjucheran)
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lauren Wright](https://github.com/laurenewright)
-- [Prabal Gupta](https://github.com/prabalgupta)
 Jesse
 - [Mario DeLaPaz](https://github.com/mariocd10)
 - [fyusuf1](https://github.com/fyusuf1)
@@ -662,7 +661,8 @@ Patrizia Trammell
 - [A Mosh](https://github.com/test)
 - [Taraj B](https://github.com/tarajb)
 - [Vu Minh Tung](https://github.com/tungvm1711/)
-- [Matt Degraffenreid] (https://github.com/matt-degraffenreid)
+- [Matt Degraffenreid](https://github.com/matt-degraffenreid)
+- [Prabal Gupta](https://github.com/prabalgupta)
 - [Jon Jee](https://github.com/jonjee/)
 - [Faraidoon Naghdali](https://github.com/fnaghdali)
 - [Brittany Morris](https://github.com/brittmmendez/)
