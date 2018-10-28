@@ -3750,6 +3750,7 @@ Tanishq Gupta
 - [Oleksii Pavlenko](https://github.com/oleksiipavlenko)
 - [Kate Boyko](https://github.com/kateboyko)
 - [Andrii Hurskyi](https://github.com/tyran53red)
+- [Péter M. Károlyi](https://github.com/karolyipeter)
 - [Mohnish Tiwari]()
 - [Panu Kettunen](https://github.com/panukettu)
 - [Mohra Arsala](https://github.com/mohra-arsala)
