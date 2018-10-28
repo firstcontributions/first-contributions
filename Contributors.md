@@ -9521,6 +9521,7 @@ Rohan Das
 - [Shamim Mukhtar](https://github.com/ShamimMukhtar)
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
+- [gian tyo](https://github.com/giantyo)
 - [M. Mursaleen](https://github.com/mmursaleen)
 - [Bryan L](https://github.com/bdlb77)
 - [Richard Bailey](https://github.com/Programm3r)
@@ -9674,4 +9675,3 @@ quattad
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
-- [gian tyo](https://github.com/giantyo)
