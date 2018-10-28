@@ -20,8 +20,6 @@ Jesse
 Rajesh Verma
   [Justin Kook] (https://github.com/justinkook)
 - [aditchanchal](https://github.com/aditchanchal)
-Howie Andersen
-- [howieandersen](https://github.com/howieandersen)
 ashwini
 - [corxrew](https://github.com/corxrew)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
@@ -859,7 +857,8 @@ Patrizia Trammell
 - [Anna Kolozsvari](https://github.com/annakolozsvari)
 - [Gaurav Kukade](https://github.com/gauravkukade)
 - [Emma Margeson](https://github.com/mawarijo)
-- [Mayank Arora] (https://github.com/hotshot07)
+- [Mayank Arora](https://github.com/hotshot07)
+- [Howie Andersen](https://github.com/howieandersen)
 - [Kim](https://github.com/kimmeccsb)
 - [Kimbo](https://github.com/KimboTodd)
 - [Mohd Mushfique](https://github.com/mdmush)
