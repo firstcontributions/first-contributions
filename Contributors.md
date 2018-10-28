@@ -1,5 +1,6 @@
 # Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Krichkorn Oparad](https://github.com/bachkukkik)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
