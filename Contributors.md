@@ -9043,6 +9043,7 @@ Rohan Das
 - [Sayak Naskar](https://github.com/hacky1997)
 - [Sri Pravan](https://github.com/pravan)
 - [okrsnak](https://github.com/okrsnak)
+- [Mateus](https://github.com/NaturesProphet)
 - [Shivam Agrawall](https://github.com/shivam077)
 - [Sten Marius](https://github.com/stho01)
 - [Neolas67](https://github.com/Neolas67)
@@ -9610,5 +9611,4 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Mateus](https://github.com/NaturesProphet)
 
