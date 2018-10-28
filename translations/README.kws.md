@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -21,7 +21,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -53,7 +53,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
@@ -62,7 +62,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 
 ## Futa hifadhi hii
@@ -71,7 +71,7 @@ Futa repo hii kwa kubonyeza kifungo cha fakia juu ya ukurasa huu. Hii itaunda na
 
 ## Weka chumba
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Sasa fungia repo iliyofungwa kwa mashine yako. Nenda kwenye akaunti yako ya GitHub, kufungua repo iliyofungwa, bonyeza kitufe cha kamba na kisha bofya nakala kwenye clipboardboard .
 
@@ -84,7 +84,7 @@ git clone "url you just copied"
 
 ambapo "url ulikosa tu" (bila alama za kupiga kura) ni url kwenye hifadhi hii (fomu yako ya mradi huu). Angalia hatua za awali ili kupata url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Kwa mfano:
 
@@ -121,7 +121,7 @@ git checkout -b add-alonzo-church
 
 Sasa fungua `Contributors.md` faili katika mhariri wa maandishi, uongeze jina lako. Usiongeze kwenye mwanzo au mwisho wa faili. Weka mahali popote katikati. Sasa, sahau faili.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Ikiwa unakwenda kwenye saraka ya mradi na kutekeleza amri `git status`, utaona kuna mabadiliko.
 
@@ -154,11 +154,11 @@ kubadilisha `<add-your-branch-name>` na jina la tawi uliloumba hapo awali.
 
 Ikiwa unaenda kwenye hifadhi yako kwenye GitHub, utaona `Compare & pull request` kifungo. Bofya kwenye kifungo hicho.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 Sasa weka ombi la kuvuta.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Hivi karibuni nitakuwa kuunganisha mabadiliko yako yote kwenye tawi la mradi huu. Utapata barua pepe ya arifa mara mabadiliko yameunganishwa.
 
@@ -176,7 +176,7 @@ Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya 
 
 ## Tutorials Using Other Tools
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
@@ -187,4 +187,4 @@ Ikiwa unasikia hasa zawadi, fuata [Roshan](https://roshanjossey.github.io/) kwen
 [Twitter](https://twitter.com/sudo__bangbang) na
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
