@@ -63,20 +63,20 @@
 - [Amulya Gaur] (https://github.com/amulyagaur)
 - [aditchanchal](https://github.com/aditchanchal)
 - [Duvan Pedroza](https://github.com/DuvanP97)
-ashwini
+- ashwini
 - [dkessel] (https://github.com/dkessel)
 - [Bohdana Arterchuk] (https://github.com/bohdanka194)
 - [Zadorozhnii Yurii] (https://github.com/SirJoraH21)
 - [corxrew](https://github.com/corxrew)
-[DGP]
+- DGP
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [Uwanthi](https://github.com/Uwanthi)
 - [Rufusnu](https://github.com/Rufusnu)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
-[Saad Patel](https://github.com/Saad2714)
- [kzack123](https://github.com/kzack123)
+- [Saad Patel](https://github.com/Saad2714)
+- [kzack123](https://github.com/kzack123)
 - Alex
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
 - [mskiser](http://github.com/mskiser)
@@ -86,7 +86,7 @@ ashwini
 - [Julian](https://github.com/julian1)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 - [Kushagra Gulati](https://github.com/kush1106)
-Rich Herbert
+- Rich Herbert
 - [Brett](https://github.com/brettmontague)
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
@@ -238,6 +238,7 @@ Rich Herbert
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
 Alvin
+Santanu
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
