@@ -155,3 +155,19 @@ dochie `<add-your-branch-name>` aha alaka ụlọ ọrụ ị mepụtara n'oge g
 Ọ bụrụ na ị gaa ebe nchekwa gị na GitHub, ị ga-ahụ `Compare & pull request` bọtịnụ. Pịa bọtịnụ ahụ.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+
+Ugbu a, rịọ arịrịọ ahụ.
+
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+
+N'oge na-adịghị anya, m ga-emeri mgbanwe gị niile n'ime ngalaba alaka ụlọ ọrụ a. Ị ga-enweta ozi ngosi mgbe ọ bụla emetụtara mgbanwe.
+
+## Ebee ka esi aga ebe a?
+
+Ekele! Naanị ị gụchara ihe nkesa -> mmepụta oyiri -> dezie -> Bọpụ ọrụ PR nke ị ga-ezute mgbe niile dị ka onye na-enye gị!
+
+Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site na ịga na [ngwa weebụ](https://roshanjossey.github.io/first-contributions/#social-share).
+
+Ị nwere ike isonyere ndị ọrụ anyị na-adịghị mma na ikpe ịchọrọ enyemaka ọ bụla ma ọ bụ nwee ajụjụ ọ bụla. [Jikọọ slack otu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
