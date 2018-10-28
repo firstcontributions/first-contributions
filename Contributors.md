@@ -607,6 +607,7 @@ Patrizia Trammell
 - [Desmond Harris](https://github.com/MisterUniverse)
 - [Sainath] (https://github.com/saicodes)
 - [UnsweetT](https://github.com/unsweett)
+- [Parimal Mehta](https://github.com/prmehta24)
 - [vikas1](https://github.com/hVIKAS)
 - [rooki blue](https://github.com/rookieblue0001)
 - [Angela Brownley](https://github.com/brownleya)
