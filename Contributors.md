@@ -95,6 +95,8 @@ Rich Herbert
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
+- [aalizwel23](https://github.com/aalizwel23
+- [gormleymark] (https://github.com/gormleymark)
 - [aalizwel23](https://github.com/aalizwel23)
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
@@ -9612,6 +9614,7 @@ quattad
 - [ChuckB] (https://github.com/extreme2700)
 - [Edward Yang] (https://github.com/rarcie)
 - [Garfianto Dwi](https://github.com/fiiann)
+- [Asha Sulaiman](https://github.com/asha15)
 - [Earle-Poole](https://github.com/earle-poole)
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
