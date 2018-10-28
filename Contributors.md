@@ -1,4 +1,4 @@
-# Contributors
+- [AmorousApple](https://github.com/amorous-apple)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [John mantas](https://github.com/john-mantas)
