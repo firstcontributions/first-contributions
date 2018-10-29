@@ -43,6 +43,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
 [🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
@@ -62,14 +63,14 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
 
