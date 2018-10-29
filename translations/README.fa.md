@@ -91,12 +91,12 @@
 <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">web app</a>.</p>
 <p dir="rtl">در صورتی که سوالی داشتی یا کمک خواستی میتونی به گروه اسلک ما ملحق بشی
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Join slack team</a>.</p>
-<p dir="rtl">Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">the list of projects in web app</a>.</p>
+<p dir="rtl">حالا بذار تو رو با مشارکت تو پروژه های دیگه آشنا کنم. ما لیستی از پروژه هایی که مشکلات آسانی واسه رفع شدن دارن رو جمع آوری کردیم که باهاشون میتونی شروع کنی. <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">لیست پروژه های web app</a> رو چک کن.</p>
 <h3 dir="rtl">
 <a id="user-content-additional-material" class="anchor" href="#additional-material" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="../additional-material/git_workflow_scenarios/additional-material.md">Additional material</a>
 </h3>
 <h2 dir="rtl">
-<a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorials Using Other Tools</h2>
+<a id="user-content-tutorials-using-other-tools" class="anchor" href="#tutorials-using-other-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>آموزش های استفاده از ابزار های دیگه</h2>
 <table>
 <thead>
 <tr>
@@ -113,11 +113,11 @@
 </tr>
 </tbody>
 </table>
-<h2>
-<a id="user-content-self-promotion" class="anchor" href="#self-promotion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Self-Promotion</h2>
-<p>If you liked this project, star it on <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>.
-If you're feeling especially charitable, follow <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> on
-<a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitter</a> and
-<a href="https://github.com/roshanjossey">GitHub</a>.</p>
+<h2 dir="rtl">
+<a id="user-content-self-promotion" class="anchor" href="#self-promotion" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>خود نمایی</h2>
+<p dir="rtl">اگه این پروژه رو دوست داشتی تو <a href="https://github.com/Roshanjossey/first-contributions">گیت هاب</a> ستاره دارش کن.
+اگه میخوای کمک کنی <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> رو تو
+<a href="https://twitter.com/sudo__bangbang" rel="nofollow">توییتر</a> و
+<a href="https://github.com/roshanjossey">گیت هاب</a> دنبال کن.</p>
 <p><a href="http://saasgrids.com" rel="nofollow"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500" style="max-width:100%;"></a></p>
 </article></body></html>
