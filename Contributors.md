@@ -1568,6 +1568,7 @@ Edison Shek
 - [Dennnis Allan Barba](https://github.com/dennisallanbarba)
 - [Eldo Greshard](https://github.com/karmael)
 - [nancynh](https://github.com/nancynh)
+- [RahulGuptaNitro](https://github.com/RahulGuptaNitro)
 - [Sushanth Ikshwaku](https://github.com/SushanthIkshwaku)
 - [Dravin Bhatia](https://github.com/Dravinbhatia)
 - [Alejandro Garcia Vallecillo](https://github.com/OwboxAl3x)
