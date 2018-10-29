@@ -8386,6 +8386,7 @@ Rohan Das
 - [Kudzai V](https://github.com/kudzaidotnet)
 - [Stephen Under](https://github.com/stephenunder)
 - [Paola Guarasci](https://github.com/paolaguarasci)
+- [Awais Khalil](https://github.com/awaiskhalil)
 - [Dipti Butola](https://github.com/diptibutola)
 - [Mikko Maja](https://github.com/mikmaj)
 - [James Jung](https://github.com/thejcode24)
