@@ -16,6 +16,7 @@
 - Jason
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
+- [Saharsh Jain](https://github.com/SAHARSH123)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
