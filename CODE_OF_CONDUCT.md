@@ -51,7 +51,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing or otherwise, unacceptable behavior may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances. The project team
