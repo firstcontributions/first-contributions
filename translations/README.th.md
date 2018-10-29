@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
+เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิกที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
 
 เปิดโปรแกรมเทอร์มินอลในเครื่อง (เช่น Terminal ใน MacOS หรือ cmd ใน Windows) แล้วรันคำสั่ง git ต่อไปนี้:
 
@@ -91,7 +91,7 @@ git push origin <ชื่อ branch ของคุณ>
 
 ## ส่งผลงานของคุณและรอรีวิวจากเจ้าของโปรเจ็ค
 
-ไปที่ repository ของคุณบน GitHub คลิ๊กที่ `Compare & pull request`
+ไปที่ repository ของคุณบน GitHub คลิกที่ `Compare & pull request`
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
