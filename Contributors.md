@@ -1,7 +1,8 @@
-# Contributors
+ Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
+- [AgentMcBride](https://github.com/agentmcbride)
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
