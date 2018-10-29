@@ -14,6 +14,7 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
+- [Alvaro Cueva](https://github.com/varopxndx)
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
