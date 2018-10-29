@@ -1,6 +1,6 @@
 # Useful Links
 
-This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
+This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
 
 ## The List
 1.  [Interactive tutorial to git](https://try.github.io)
