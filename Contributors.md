@@ -284,6 +284,7 @@ Santanu
 - [Siddharth Gusain](https://github.com/siddharth-gusain)
 - [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z)
 - Ben
+- sgarg24
 - [Rafael Junqueira](https://github.com/rafaelj)
 - John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
