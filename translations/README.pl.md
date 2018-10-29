@@ -67,7 +67,7 @@ Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki j
 Dodaj następującą linię na końcu `Contributors.md`
 
 ```
-[Twoje imię](https://github.com/Twoja nazwa użytkownika)
+[Twoje nazwisko](https://github.com/Twoja nazwa użytkownika)
 ```
 Przykład: 
 ```
