@@ -24,11 +24,11 @@ Om du inte har git installerat [så installera det]( https://help.github.com/art
 Forka repot genom att klicka på fork-knappen överst på denna sida.
 Detta kommer att skapa en kopia av repot i ditt GitHub-konto.
 
-## Clona repositoryt
+## Klona repository
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Clona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to cliboard*-ikonen.
+Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to clipboard*-ikonen.
 
 Öppna en terminal och kör följande kommando:
 
@@ -100,19 +100,9 @@ Om du navigerar till ditt repo på GitHub kan du se en knapp med texten `Compare
 
 Skicka iväg din s.k. pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Snart kommer jag införa dina ändringar i huvudprojektet. Du kommer att få ett e-mail så fort dina ändringar blivit införda.
-
-## Ta bort din branch efter det att dina ändringar blivit införda
-
-Du kan lugnt ta bort din branch "<add-your-branch-name> efter det att din begäran blivit införd. Du kommer att se en knapp i GitHub:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-Om din begäran stängdes utan att införas kommer GitHub att varna för att du försöker ta bort ändringar som inte införts, knappen kommer se ut så här:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Hur går man vidare?
 

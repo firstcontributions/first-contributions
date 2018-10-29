@@ -5,11 +5,11 @@
 
 # Primeras Contribuciones
 
-Es complicado. Resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
+Es complicado. Resulta difícil la primera vez que haces algo, principalmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
+Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor que hacer las cosas en un entorno de prácticas?. Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
-#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutorials-using-other-tools )*
+#### *Si no estás familiarizado con la línea de comandos, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI).]( #tutoriales-con-otras-herramientas )*.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 
@@ -17,7 +17,7 @@ Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en
 
 ## Bifurca (*Fork*) este repositorio
 
-Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha esta página.
+Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha en esta página.
 Esto creará una copia de este repositorio en tu cuenta.
 
 ## Clona (*Clone*) el repositorio
@@ -65,9 +65,9 @@ git checkout -b add-alonzo-church
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios. 
+Si vas al directorio del proyecto y ejecutas el comando  `git status`, verás que hay cambios.
 
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
@@ -97,19 +97,9 @@ Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Ha
 
 Ahora envía la *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="enviar la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="enviar la pull request" />
 
 Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
-
-## Elimina la rama (*branch*) después de que la *pull request* haya sido fusionada
-
-Puedes eliminar de forma segura tu rama `<añade-el-nombre-de-la-rama>` después de que la *pull request* haya sido fusionada. Verás este botón para eliminar la rama:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="eliminar rama después de que la PR haya sido fusionada" />
-
-Si la *Pull Request* ha sido cerrada sin ser fusionada, GitHub te alertará por intentar eliminar *commits* no sincronizados y el botón será el siguiente:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar rama después de que la PR no haya sido fusionada" />
 
 ## ¿Cuáles son los siguientes pasos?
 
@@ -129,7 +119,6 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
-
 
 ## Auto promoción
 

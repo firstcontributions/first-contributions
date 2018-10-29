@@ -10,11 +10,50 @@
 
 Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
 
+
+#### *Read this in [other languages](translations/Translations.md).*
+
+[🇮🇳](translations/README.hi.md)
+[🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.id.md)
+[🇫🇷](translations/README.fr.md)
+[🇪🇸](translations/README.es.md)
+[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[🇳🇱](translations/README.nl.md)
+[🇱🇹](translations/README.lt.md)
+[🇷🇺](translations/README.ru.md)
+[:slovakia:](translations/README.slk.md)
+[🇯🇵](translations/README.ja.md)
+[🇻🇳](translations/README.vn.md)
+[🇵🇱](translations/README.pl.md)
+[🇮🇷](translations/README.fa.md)
+[🇮🇷](translations/README.fa.en.md)
+[🇰🇷 🇰🇵](translations/README.ko.md)
+[🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
+[🇨🇳](translations/README.chs.md)
+[🇹🇼](translations/README.cht.md)
+[🇬🇷](translations/README.gr.md)
+[🇪🇬](translations/README.eg.md)
+[🇸🇦](translations/README.ar.md)
+[🇺🇦](translations/README.ua.md)
+[🇧🇷](translations/README.pt_br.md)
+[🇵🇹](translations/README.pt-pt.md)
+[🇮🇹](translations/README.it.md)
+[🇹🇭](translations/README.th.md)
+[🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
+[🇵🇰](translations/README.ur.md)
+[:bangladesh:](translations/README.bn.md)
+[🇲🇩 🇷🇴](translations/README.ro.md)
+[🇹🇷](translations/README.tr.md)
+[🇸🇪](translations/README.se.md)
+[:slovenia:](translations/README.sl.md)
+[🇮🇱](translations/README.hb.md)
+[🇨🇿](translations/README.cs.md)
+[🇲🇽](translations/README.mx.md)
+
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
-
-#### *Read this in [other languages](../Translations.md).*
-
-[️🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [🇳🇱](README.nl.md) [🇷🇺](README.ru.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴󠁥󠁳󠁧󠁡󠁿](README.gl.md) [🇵🇰](README.ur.md) [:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [🇮🇱](README.hb.md)
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -73,11 +112,11 @@ git checkout -b add-luke-oliff
 
 ## Make necessary changes 'n commit those changes
 
-Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file. 
+Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes. 
+If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
 Add those changes t' th' branch ye jus' created usin' th' `git add` command:
 
@@ -111,19 +150,9 @@ If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` butt
 
 Now submit th' pull request.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
-
-## Delete th' branch aft pull request has been merged
-
-Ye can safely scuttle yer branch `<add-yer-branch-name>` aft th' pull request has been merged. Ye'll see a button t' scuttle th' branch:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-If th' Pull Request was closed without bein' merged, GitHub will warn ye about scuttlin' unmerged commits 'n th' button will look like this:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ## Where t' go from here?
 

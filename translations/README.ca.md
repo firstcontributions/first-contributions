@@ -98,19 +98,9 @@ Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request
 
 Envía la *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="envia la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="envia la pull request" />
 
 Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
-
-## Eliminar la branca (*branch*) master després de que la *pull request* hagi estat fusionada
-
-Podeu eliminar de forma segura la branca (*branch*) `<afegiu-el-nom-de-la-branca>` un cop la *pull request* hagi sigut fusionada. Veureu un botó per a leiminar la branca (*branch*):
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="eliminar branch un cop PR s'ha fusionat" />
-
-Si la *Pull Request* ha sigut tancada sense haver estat fusionada, GitHub li advertirà sobre el fet d'eliminar *commits* no fusionats i el botó es veurà així:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar branca després de que la PR no estigui fusionada" />
 
 ## On anar des d'aquí?
 
