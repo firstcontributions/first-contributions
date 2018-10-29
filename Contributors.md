@@ -6,6 +6,7 @@
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
+- [Emmanuel Amadin](https://github.com/emmanuel-amadin)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
@@ -410,6 +411,7 @@ aalbusoiu
 - [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan](https://github.com/setiam3)
+-
 - [Arthur van Acker](https://github.com/puupa)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram](https://github.com/HyperManTT)
