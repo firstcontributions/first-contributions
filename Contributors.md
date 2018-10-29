@@ -29,6 +29,7 @@
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
+- [Cherifa Amrouch](https://github.com/sabielo)
 - [Ihoey](https://github.com/ihoey)
 - [Amal Dinesh](https://github.com/amaldinesh4549)
 - [Divyam](https://github.com/shahdivyam)
