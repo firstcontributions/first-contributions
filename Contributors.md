@@ -37,6 +37,7 @@
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Ravi Jain](https://github.com/engrravijain)
 - [Sean Mayton](https://github.com/maytonsw)
+- [CodeB9](https://github.com/CodeB9)
 - [Manthan Jain](https://github.com/manthanjain)
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Guillermo Gonzalez](https://github.com/nwni)
