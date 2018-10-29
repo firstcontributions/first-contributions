@@ -1284,6 +1284,7 @@ Edison Shek
 - [Tom Merrifield](https://github.com/tpmerrifield)
 - [Qyunal] (https://github.com/Qyunal)
 - [mnemosdev](https://github.com/mnemosdev)
+- [Marco Bustillo](https://github.com/oyoyoi)
 - Evan Rives
 - maskedCat
 - Nachiappan Senthil Kumar
@@ -1292,7 +1293,7 @@ Edison Shek
 - [Tim Lucca](https://github.com/TimLucca)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Brandon Thibeaux](https://github.com/thibeaux)
-- [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)
+- [BennyDoesTheStuff](https://github.com/BennyDoesTheStuff)~
 - [Benni Russell](https://github.com/8eni)
 - [Maria McCauley](https://github.com/mcmccauley)
 - [Nippun Lakhani](https://github.com/nippun99)
@@ -1300,7 +1301,7 @@ Edison Shek
 - [Amiya Kumar Tripathy](https://github.com/amiya-1998)
 - [Nirmani Gunathilaka](https://github.com/NirmaniGunathilaka)
 - [Sean Kim](https://github.com/sungk44)
-- [Mitchell Fontaine](https://github.com/mitchellfontainemn)
+- [Mitchell Fontaine](https://github.com/mitchellfontainemn)~
 - [Vu Nguyen](https://github.com/vnguyen678)
 - [Saksham Gupta](https://github.com/sakshamgupta1074)
 - [Sarthak Bawal](https://github.com/Sartech-B)
