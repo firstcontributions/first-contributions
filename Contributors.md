@@ -1819,6 +1819,7 @@ Edison Shek
 - [Kanika Agrawal](https://github.com/Kanika1799)
 - [Amrit Khera](https://github.com/AmritK10)
 - [Kin Lam](https://github.com/alanklam)
+- [Himanshi Singhal](https://github.com/himanshisinghal09)
 - [Rohit katlaa](https://github.com/rohitkatlaa)
 - [Vanessa Nimomo](https://github.com/VanessaNimmo)
 - [James](https://github.com/james-flynn-ie)
