@@ -6,6 +6,7 @@
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
+- [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
