@@ -6,6 +6,7 @@
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
+- [M Aizaz Ansari](https://github.com/ProITDdeveloper)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
