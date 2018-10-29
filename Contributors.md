@@ -2787,6 +2787,7 @@ Bakht Jamal Sukhera
 - [Nick Kimball](https://github.com/NKimball1)
 - [Jacob Smith](https://github.com/jake4mich)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
+- [Giordi Fungula](https://github.com/giordifungula)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
 - [Olena_Stoliarova](https://github.com/Olena23)
