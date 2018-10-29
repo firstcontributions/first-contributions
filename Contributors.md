@@ -5,6 +5,7 @@
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
+- [malik usman aziz](https://github.com/malikusmanaziz)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
