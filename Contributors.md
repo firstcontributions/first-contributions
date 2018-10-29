@@ -8929,6 +8929,7 @@ Rohan Das
 - [Harshit Pant](https://github.com/pantharshit00)
 - [Janitha Rasanga](https://github.com/Janitha133)
 - [Mikael Eriksson](https://github.com/mmikaeleriksson)
+- [Lindsay Jopson](https://github.com/lindsayjopson)
 - [Julio Anthony Leonard](https://github.com/imjuanleonard)
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
