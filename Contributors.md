@@ -149,7 +149,7 @@
 - [Zilyck](https://github.com/zilyck)
 - [Darshana Joshi] (https://github.com/Joshi-D)
 - [Angus] (https://github.com/AngusGardnerWKC)
-- [dsa]
+- [dsas]
 - [dsasa]
 - [dsasa]
 - [dsasa]
