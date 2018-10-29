@@ -1027,6 +1027,7 @@ Edison Shek
 - [Robert Simatei](https://github.com/simatei)
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Shuvam Lal](https://github.com/shuvamlal9)
+ [Sarthak Ahuja](https://github.com/sarthakahuja11)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Patrick Stepanian](https://github.com/stepanianpat)
