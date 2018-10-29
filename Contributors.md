@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -13,6 +13,7 @@
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
+- [Pranoppal](https://github.com/pranoppal)
 - Jason
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
