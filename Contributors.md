@@ -4800,6 +4800,7 @@ Tanishq Gupta
 - [wsong]()
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [Hassen Morad](https://github.com/hassenmorad)
+- [Diamond KIng](https://github.com/diamondking6)
 - [qmlowery](https://github.com/qmlowery)
 - [Eyal Mendel](https://github.com/eyalmendel)
 - [Simran Kohli](https://github.com/simran0807)
