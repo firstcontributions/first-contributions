@@ -7,7 +7,7 @@
 
 # Đóng góp đầu tiên
 
-Nó khó. Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều thoải mái. Nhưng mã nguồn mở là tất cả về sự hợp tác và làm việc cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
+Nó khó. Lần đầu tiên bạn làm điều gì đó cũng thật khó khăn. Đặc biệt khi bạn đang cộng tác, những sai lầm không phải là điều làm bạn thoải mái. Nhưng mã nguồn mở là về sự hợp tác cùng nhau. Chúng tôi muốn đơn giản hóa cách những người đóng góp lần đầu tiên mới học và đóng góp.
 
 Đọc hướng dẫn có thể giúp, nhưng tốt nhất là thực sự đóng góp mà không làm rối tung bất cứ điều gì. Dự án này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người tân binh tham gia đóng góp lần đầu tiên. Hãy nhớ rằng khi bạn cảm thấy thoải mái thì việc học sẽ trở nên dễ dàng hơn. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, bạn chỉ cần làm theo các bước đơn giản bên dưới. Chúng tôi hứa bạn sẽ có nhiều niềm vui.  
 
