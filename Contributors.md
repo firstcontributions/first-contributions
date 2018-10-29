@@ -1,4 +1,5 @@
 # Contributors
+- [Abel Regalado](https://github.com/AbelRR)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
