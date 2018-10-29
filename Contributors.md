@@ -1,5 +1,6 @@
 # Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Shao Yang](https://github.com/hongshaoyang)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
