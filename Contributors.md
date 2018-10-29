@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -15,6 +15,7 @@
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Rachel L](https://github.com/rslim87)
+- [Tung Minh Vu](https://github.com/Tungmv1711)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
