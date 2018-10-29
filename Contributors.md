@@ -1375,6 +1375,7 @@ Edison Shek
 - [Martin Javorka](https://github.com/mjavorka)
 - [Kumar Kaniska](https://github.com/imkaniska23)
 - [Ganesh Majhi](https://github.com/ganeshmajhi)
+- [Abigaíl PaLacios](https://github.com/acpalacios)
 - [Krizza Bullecer](https://github.com/sirbully)
 - [Aarón López Sosa](https://github.com/alsvader)
 - [Manuel Eljuri](https://github.com/eljurim)
