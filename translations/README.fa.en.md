@@ -6,7 +6,7 @@
 Tavajjoh : IN Noskheye Finglish Az Tarjomeye Farsie Hamin Matne Va Kheyli Az Vazhe Ha Be Shekle Englishe Khodeshoon Neveshte Shodan Chon Tarjomashoon Chize Jalebi Az Aab Dar Nemiad
 # Avvalin Contribution (Hamkari, Mosharekat)
 
-Sakhte. Hamishe Anjam Dadane Kari Baraye Avvalin Bar Sakhte. Makhsoosan Vaghti Dari Mosharekat Mikoni, Eshtebah Kardan Kare Rahati Nist. Amma Open-Source Tamaman Darbareye Mosharekat Va Ham Karie. Ma Mikhastim Rah Ro Sade Konim Ta Contributer Haye Jadide Open-Source Betoonan Baraye Avvalin Bar Yad Begiran Va Mosharekat Konan
+Sakhte. Hamishe Anjam Dadane Kari Baraye Avvalin Bar Sakhte. Makhsoosan Vaghti Dari Mosharekat Mikoni, Eshtebah Kardan Kare Rahati Nist. Amma Open-Source Tamaman Darbareye Mosharekat Va Ham Karie. Ma Mikhastim Rah Ro Sade Konim Ta Contributer Haye Jadide Open-Source Betoonan Baraye Avvalin Bar Yad Begiran Va Mosharekat Konan.
 
 Khoondane Maghale Va Didane Tutorial Ha Mitoone Komak Kone, Amma Chi Az Vaghan Anjam Dadane Kar Ha Bedoone Kharab Kari Behtare ?
 Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Baraye Avvalin Mosharekat.eshoone . Yadetoon Bashe: Harchi Relax Tar Bashi, Behtar Yad Migiri. Age Donbale IN Hasti Ke Avvalin Contribute Ro Anjam Bedi, Faghat Ghadam Be Ghadam Rahnamaye Zir Ro Donbal Kon. Ma Behet Ghol Midim, Gharare Khosh Begzare :D
