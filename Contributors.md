@@ -7329,6 +7329,7 @@ Rohan Das
 - [Madhur](https://github.com/madhurcodes)
 - [Steve Golden](https://github.com/Stevegolden12)
 - [Taylane Bn](https://github.com/Taylane)
+- [Joel James](https://github.com/jayfiled)
 - [Ross McLane](https://github.com/rossmclane/)
 - [Kris Kamau](https://github.com/KrisKamau)
 - [Mohit Sharma](https://github.com/mohitsharma23)
