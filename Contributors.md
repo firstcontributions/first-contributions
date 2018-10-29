@@ -35,6 +35,7 @@
 - julio-garcia-fc
 - wefromstars
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [Sean Mayton](https://github.com/maytonsw)
 - [Manthan Jain](https://github.com/manthanjain)
