@@ -51,7 +51,7 @@ cd first-contributions
 Teraz utwórz nową gałąź wykonując polecenie `git checkout`:
 
 ```
-git checkout -b <add-twoje-imie>
+git checkout -b <add-nazwa-twojej-nowej-gałęzi>
 ```
 
 Przykład
