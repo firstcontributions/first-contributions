@@ -13,6 +13,7 @@
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
+- Swayam @_Compilation_Error 
 - Jason
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
@@ -193,6 +194,7 @@
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
 - [Mike Allen](https://github.com/mallenjr)
+- [Sylvia Liu](https://github.com/sylvialiu0514)
 - [JanellAmely](https://github.com/3CatMax)
 - [Pusakiller](https://github.com/Pusakiller)
 - [nightrainlily](https://github.com/nightrainlily)
@@ -9862,3 +9864,4 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
+- [Swayam Kaul](https://github.com/swayamkaul)
