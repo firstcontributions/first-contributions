@@ -149,6 +149,7 @@
 - [Zilyck](https://github.com/zilyck)
 - [Darshana Joshi] (https://github.com/Joshi-D)
 - [Angus] (https://github.com/AngusGardnerWKC)
+- [dsa]
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
