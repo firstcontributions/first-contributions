@@ -7,6 +7,7 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Iftikhar Ali](https://github.com/iftikharzulfiqar6)
+- [Iftikhar Ali1](https://github.com/iftikharzulfiqar61)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
