@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -2323,6 +2323,7 @@ Edison Shek
 - [Sarthak Singhal](https://github.com/sarthak2007)
 - [Not Sharing My Name](https://github.com/BP-21)
 - [Niall Moran](https://github.com/niallermoran)
+- [Zarana Bhadricha](https://github.com/LittleSodium)
 - [Ross Tapson](https://github.com/rosstapson)
 - [Pedro Acosta](https://github.com/Pcost8300)
 - [Elliott Weeks](https://github.com/Elliott-W)
