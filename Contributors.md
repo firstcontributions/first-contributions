@@ -919,6 +919,7 @@ Edison Shek
 - [Aidan Oleary](https://github.com/aidanoleary)
 - [sara_in_codeland](https://github.com/sangerftw)
 - [Roopam Sharma](https://github.com/RoopamSharma)
+- [Veronica Amaya](https://github.com/vgamaya)
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Amitabh Kumar](https://github.com/AmitabhPathak)
 - [Lydia Lane](https://github.com/LydiaLane)
