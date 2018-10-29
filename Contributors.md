@@ -8978,6 +8978,7 @@ Benzene
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Rana Faisal](https://github.com/IRanaFaisal)
+- [Shoaib Majeed](https://github.com/mshoaib85)
 - [Matt Clinton](https://github.com/clnt)
 Joon Jang
 - [Kenten Roth](https://github.com/kentenroth)
