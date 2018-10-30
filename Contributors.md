@@ -13,6 +13,7 @@
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
+- [Moses613](https://github.com/Moses613)
 - Jason
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
