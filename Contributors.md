@@ -9973,5 +9973,6 @@ quattad
 - [Brian Russell](https://github.com/Brussell03)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Lomitaswa Suna](https://github.com/lomitaswa)
+-[Lomitaswa Suna](https://github.com/lomitaswa) 
+-[Malintha Kumarage](https://github.com/malintha90)
+- 
