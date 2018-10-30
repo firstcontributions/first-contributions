@@ -9063,6 +9063,7 @@ Rohan Das
 - [Glen Griffiths](https://github.com/Glenderman)
 - [Uwais Zaki](https://github.com/uwaiszaki)
 - [Umang Raval](https://github.com/umangraval)
+- [A1RI](https://github.com/A1RI)
 - [Wesley Melo](https://github.com/wesmelo)
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
 - [Magno Macedo de Oliveira](https://github.com/magnoDev)
