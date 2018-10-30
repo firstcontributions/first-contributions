@@ -9945,6 +9945,7 @@ quattad
 - [Diogo Silverio](https://github.com/dblsilverio/)
 - [Ankit Shaw](https://github.com/Ankit625)
 - [Pankaj Goyal](https://github.com/pankajgoyal1)
+- [Sachin Nayak](https://github.com/sachinnyk)
 - [Samala Sumanth](https://github.com/SamalaSumanth0262/)
 - [Debasree Chatterjee](https://github.com/debo1398)
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
