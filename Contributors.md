@@ -72,6 +72,7 @@
 - [Prafulla Pal](https://github.com/j0rden007)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
+- Lucas Fellipe
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
