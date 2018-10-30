@@ -1,5 +1,4 @@
 # Contributors
-- [Hitesh Kaushik](https://github.com/hiteshkaushik28)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
@@ -368,6 +367,7 @@ apleht
 - [Niharika](https://github.com/niharikakrishnan)
 - [Steve Torrence](https://github.com/storrence88)
 - [No one will see me kappa]
+- [Hitesh Kaushik](https://github.com/hiteshkaushik28)
 - [FloridaMan](https://github.com/floridaman)
 - [SupunDamba](https://github.com/supun-kanda)
 - [Podrig](https://github.com/PadraigLeoghain)
