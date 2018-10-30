@@ -9863,3 +9863,4 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
+- [Malintha Kumarage](https://github.com/malintha90)
