@@ -955,6 +955,7 @@ Edison Shek
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [jack hu](https://github.com/jackhub)
 - [Thomas Wicks](https://github.com/ThomasWicks)
+- edward-cronus
 - vibhasi
 - [Darien Lee] (https://github.com/darienlee)
 - [Michael Hart](https://github.com/michaeljh619)
