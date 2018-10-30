@@ -9985,6 +9985,7 @@ quattad
 - [Animesh Shukla](https://github.com/anime19)
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
+- [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
