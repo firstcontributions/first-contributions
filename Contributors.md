@@ -855,6 +855,7 @@ Edison Shek
 - [Brandon Avila](https://github.com/brandonravila)
 - [Cody]()
 - [Nipun Goel]()
+- [Gus Person](https://github.com/gusperson)
 - [Tiffany F](https://github.com/tifffai)
 - [Somesh rf](https://github.com/someshrf)
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
