@@ -159,6 +159,7 @@
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
+- [yunyoung1819](https://github.com/yunyoung1819)
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
