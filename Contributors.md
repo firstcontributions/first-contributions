@@ -1,6 +1,7 @@
 # Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
