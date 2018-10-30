@@ -16,6 +16,12 @@
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
+และ set up git ดังนี้
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+```
 
 ## กด "Fork" โปรเจ็คนี้
 
