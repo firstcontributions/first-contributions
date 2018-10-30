@@ -47,6 +47,7 @@
 - wefromstars
 - SenhorN
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [Sean Mayton](https://github.com/maytonsw)
 - [CodeB9](https://github.com/CodeB9)
