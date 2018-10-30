@@ -2733,6 +2733,7 @@ Bakht Jamal Sukhera
 - [Tommy Bojanin](https://github.com/ven1xus)
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
+- [Raghav Puri](https://github.com/raghavpuri)
 - [David Kröll](https://github.com/david-kroell)
 - [Luke Bentley-Fox](https://github.com/deusexmacchiato)
 - [Sebastian Upjohn](https://github.com/supjohn)
