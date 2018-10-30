@@ -39,6 +39,7 @@
 - [Utkarsh](https://github.com/ukbaranwal)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
+- [dpcavalcanti](https://github.com/dpcavalcanti)
 - [Bojan](https://github.com/TheBearYT)
 - [VIDHEY](https://github.com/VIDHEY)
 - [Venkatraman Narayanan](https://github.com/vijay4313)
