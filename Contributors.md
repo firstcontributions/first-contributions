@@ -91,6 +91,7 @@
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
 - [Bhushan Jangle](https://github.com/waffwaff1)
+- [The Hero](https://github.com/heroas)
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
