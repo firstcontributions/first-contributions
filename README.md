@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+### First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -61,12 +61,12 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+### Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+### Clone the repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
