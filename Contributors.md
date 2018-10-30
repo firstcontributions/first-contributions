@@ -9805,6 +9805,7 @@ quattad
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
 - [Nadheera](https://github.com/Nadheera)
+- [Hamidreza Eqbal](https://github.com/HamidrezaEqbal)
 - [ZeloK](https://github.com/ZeloK)
 - [Pasan Yasara](https://github.com/pasanyasara)
 - [Prashant](https://github.com/prashantjain19)
