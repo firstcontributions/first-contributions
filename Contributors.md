@@ -1,4 +1,5 @@
 # Contributors
+- [Hitesh Kaushik](https://github.com/hiteshkaushik28)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
