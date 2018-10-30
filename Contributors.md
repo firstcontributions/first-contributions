@@ -133,6 +133,7 @@
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
 - Aileen J
+- [Prajjwal](https://github.com/darksidergod/first-contributions)
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
