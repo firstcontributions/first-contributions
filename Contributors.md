@@ -65,6 +65,7 @@
 - SenhorN
 - Explorer3991
  [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Alex Boerschinger](https://github.com/writetoalexander)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
