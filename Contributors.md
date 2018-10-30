@@ -316,6 +316,7 @@ Santanu
 - [Rafael Junqueira](https://github.com/rafaelj)
 - John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
+- [Anoop P](https://github.com/Anooppandikashala)
 - [James Bowler](https://github.com/jimuk07)
 - [w5bh](https://github.com/w5bh)
 - [fullheightcoding](https://github.com/fullheightcoding)
