@@ -20,6 +20,7 @@
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
+- [Pranav Mathur](https://github.com/noobieArtist)
 - [John mantas](https://github.com/john-mantas)
   [Ansul Kumar](https://github.com/ansul357)   
 - [Erica Peterson](https://github.com/ericalpeterson)
