@@ -6123,6 +6123,7 @@ Rohan Das
 - [Eddaoust](https://github.com/Eddaoust)
 - [Jared Zhu](https://github.com/jaredzhu1993)
 - [Richard Southard](https://github.com/rsouthar)
+- [Pam Munghen](https://github.com/pammunghen)
 - [John Jackson](https://github.com/DQuieJohn)
 - [Tiago Domingos](https://github.com/TiagoDomingos/)
 - [Keith Bessette](https://github.com/kabeste/)
