@@ -73,6 +73,7 @@ Review the files that have been changed and decide what you would like to stage.
 Once you have a good commit message ("Add <your-name> to Contributors list" sounds nice and descriptive) and are happy with your changes, you can hit "Stage all changes" to stage everything that is modified or "Stage File" to stage an individual file.
 
 
+
 <img style="float: right;" src="assets/gk-commit.png" alt="clone this repository" />
 
 
