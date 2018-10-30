@@ -11,6 +11,7 @@
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [morg0n](https://github.com/morg0n)
+- [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
