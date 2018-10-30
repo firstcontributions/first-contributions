@@ -64,6 +64,7 @@
 - wefromstars
 - SenhorN
 - Explorer3991
+- Manish Upadhyaya
  [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
