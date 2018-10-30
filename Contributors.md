@@ -8733,6 +8733,7 @@ Rohan Das
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
+- [Aditya Raj](https://github.com/rajatadiraj)
 - [Thanthu Nair](https://github.com/Thanthu)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Aditya Raj](https://github.com/rajatadiraj)
