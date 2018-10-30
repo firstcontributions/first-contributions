@@ -25,6 +25,7 @@
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
 - [Bojan](https://github.com/TheBearYT)
+- [Venkatraman Narayanan](https://github.com/vijay4313)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
