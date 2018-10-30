@@ -4658,6 +4658,7 @@ Tanishq Gupta
 - [John Hinson](https://github.com/jlhinson)
 - [Anubhav Patel](https://github.com/anubhavp28)
 - [Shruti Kapoor](https://github.com/shrutikapoor08)
+- [Emanuel Langit](https://github.com/langitem)
 - [Ashish Vishwakarma](https://github.com/AshV)
 - [Schachaf Atzitz](https://github.om/shacahfatzitz)
 - [Hanhan](https://github.com/hahn)
