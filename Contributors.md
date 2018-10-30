@@ -20,6 +20,7 @@
 - [Alexis Salcedo](https://github.com/alexisss1928)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma](https://github.com/abhaysharma419)
+- [Emanuel](https://github.com/emanuelporf)
 - [Ashish Rao](https://github.com/ashishra0)
 - Shweta
 - Saraansh
