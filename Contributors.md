@@ -9365,6 +9365,7 @@ Rohan Das
 - [Gopal Krishna](https://github.com/gokriznastic)
 - [Rachit Panwar](https://github.com/rachit2panwar)
 - [Eduardo Brito](https://github.com/eduardobrito97)
+- [Michał K](https://github.com/Kucha1122)
 - [Griffin Maxwell](https://github.com/GriffinMaxwell)
 - [Hung Pham](https://github.com/hungpham2202)
 - [Kapish Malik](https://github.com/kapishmalik)
