@@ -57,7 +57,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="350" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
