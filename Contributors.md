@@ -177,6 +177,7 @@
 - [HéctorGustavo](https://github.com/Enigma170)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [jeffhertzler](https://github.com/jeffhertzler)
+- [dnpncl](https://github.com/dnpncl)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [Bhavika26](https://github.com/Bhavika26)
