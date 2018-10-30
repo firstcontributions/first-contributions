@@ -24,6 +24,7 @@
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
+- [Tyler Stahl](https://github.com/volanttyler)
 - [Pranav Mathur](https://github.com/noobieArtist)
 - [John mantas](https://github.com/john-mantas)
   [Ansul Kumar](https://github.com/ansul357)
