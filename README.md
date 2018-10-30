@@ -159,6 +159,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
+## Languages to learn 
+JavaScript, Java, python
+
 
 ## Tutorials Using Other Tools
 
