@@ -139,7 +139,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Tvaralō nēnu mī anni mārpulanu ī prājekṭ yokka pradhāna vibhāgāniki vilīnaṁ cēstānu. Mārpulu vilīnaṁ ayina tarvāta mīru oka nōṭiphikēṣan imeyil pondutāru.
+త్వరలో నేను మీ అన్ని మర్పులను ఈ ప్రాజెక్ట్ యొక్క ప్రధాన విభాగానికి విలీనం చేస్తాను. మార్పులు విలీనం అయిన తర్వాత మీరు ఒక నోటిఫికేషన్ ఈమెయిల్ పొందుతారు.
 
 ## ఇక్కడ నుండి ఎక్కడికి వెళ్లాలి?
 
