@@ -8,6 +8,7 @@
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [Tempor](https://github.com/temporaryacconunt)
+- [developer-18](https://github.com/developer-18)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
