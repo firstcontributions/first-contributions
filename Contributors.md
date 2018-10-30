@@ -32,6 +32,7 @@
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
 - [Ronish Zadode](https://github.com/ronishz)
+- BbyPls
 - [Kush Parmar](https://github.com/igneel73)
 - [Bojan](https://github.com/TheBearYT)
 - [Venkatraman Narayanan](https://github.com/vijay4313)
