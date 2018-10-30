@@ -2407,6 +2407,7 @@ Edison Shek
 - [Ed Gargan](https://github.com/egargan)
 - [Jonathan Nilsson](https://github.com/Baleith)
 - [Jose Antonio](https://github.com/jkno87)
+- [Michael Kantz](https://github.com/mkantz84)
 - [Ramesh](https://github.com/rameshnayak100)
 - [Aakash Shah](https://github.com/Aakash0410)
 - [Cliff McCall](https://github.com/cliffmccall1)
