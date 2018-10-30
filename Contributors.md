@@ -2487,6 +2487,7 @@ Edison Shek
 - [Javier "Javi" Carrion](https://github.com/JavaVista/)
 - [Mohan Das](https://github.com/mohandast52)
 - [Tanveer Ahmed](https://github.com/Tan66)
+- [RSTMSN](https://github.com/rstmsn/)
 - [Jophs](https://github.com/Jophs)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Christopher Beards](https://github.com/ChristopherBeards)
