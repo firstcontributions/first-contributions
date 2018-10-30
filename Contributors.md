@@ -4944,6 +4944,7 @@ Tanishq Gupta
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Tiffany Jao](https://github.com/tiffany-jao)
 - [Mudit Gurjar](https://github.com/mudit182)
+- [I Made Suparsana](https://github.com/suparsana21)
 - [Ivan Tran](https://github.com/ptran213)
 - [Petr Todorov](https://github.com/PetrTodorov)
 - [Hannarae Nam](https://github.com/hannaraenam)
