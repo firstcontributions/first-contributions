@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Terry Duong](https://github.com/tduong10101)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -9555,7 +9556,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon](https://github.com/nuncharee)
-- [Lomitaswa Suna](https://github.com/lomitaswa) 
+- [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
