@@ -8,6 +8,7 @@
 - [Anushree](https://github.com/anushree816)
 - [James Rose](http://github.com/james-rose)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
+- [Hitesh Subnani](https://github.com/hiteshsubnani)
 - [gilded1](https://github.com/gilded1)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
