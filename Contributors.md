@@ -15,6 +15,7 @@
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
+- [Alex K.](https://github.com/gnarlex)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
