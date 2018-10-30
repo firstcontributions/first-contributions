@@ -9685,6 +9685,7 @@ Rohan Das
 - [Daniel Ayaz](https://github.com/DanielAyaz)
 - [Numan Rafique](https://github.com/Numanrafique)
 - [Rana Faisal](https://github.com/IRanaFaisal)
+- [Shoaib Majeed](https://github.com/mshoaib85)
 - [Mudassar Nazeer](https://github.com/MudassarNazeer1)
 - [Matt Clinton](https://github.com/clnt)
 - [Edgardo Mendez](https://github.com/edgamen)
