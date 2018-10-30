@@ -8998,6 +8998,7 @@ Rohan Das
 - [Hemant Joshi](http://github.com/codingdefined)
 - [DataSecs](http://github.com/DataSecs)
 - [Rafaela Dutra Nunes](https://github.com/rafaeladnunes/)
+- [Carlin MacKenzie](https://github.com/carlinmack/)
 - [Philipp Burndorfer](https://github.com/pburndorfer)
 - [Jason Zhao](https://github.com/zzjas)
 - [Jose Gutierrez](https://github.com/josemariogutierrez)
