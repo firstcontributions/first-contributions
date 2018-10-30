@@ -58,6 +58,7 @@
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
+- [fibonascii](https://github.com/fibonascii)
 - [Sean Mayton](https://github.com/maytonsw)
 - [CodeB9](https://github.com/CodeB9)
 - [Manthan Jain](https://github.com/manthanjain)
