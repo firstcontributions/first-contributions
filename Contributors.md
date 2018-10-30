@@ -9860,6 +9860,7 @@ quattad
 - [Sarthak Thakur](https://github.com/sarthak247)
 - [Ryo Arima](https://github.com/nozira)
 - [R Praveen Pai](https://github.com/praveenpi)
+- [RISHABH DHENKAWAT](https://github.com/rishabhdhenkawat)
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
 - [Dzaki Afif](https://github.com/dzakiafif)
