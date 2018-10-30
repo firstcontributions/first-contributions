@@ -167,6 +167,7 @@
 - [aalizwel23](https://github.com/aalizwel23)
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
+- [HéctorGustavo](https://github.com/Enigma170)
 - [IrshadAnsari](https://github.com/irshadjsr21)
 - [jeffhertzler](https://github.com/jeffhertzler)
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
