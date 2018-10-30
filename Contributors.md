@@ -772,3 +772,4 @@
 - [Debaditya Dey] (https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb] (https://github.com/ThomasChr)
+- [Chid] (https://github.com/pvcpre)
