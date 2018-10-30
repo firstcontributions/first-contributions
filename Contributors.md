@@ -37,7 +37,6 @@
 - [fatima awad](https://github.com/fa6oomawad)
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
-- [Alex Boerschinger](https://github.com/writetoalexander)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
 - [Bojan](https://github.com/TheBearYT)
