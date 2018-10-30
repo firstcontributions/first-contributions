@@ -36,6 +36,7 @@
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
 - [Bojan](https://github.com/TheBearYT)
+- [VIDHEY](https://github.com/VIDHEY)
 - [Venkatraman Narayanan](https://github.com/vijay4313)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
