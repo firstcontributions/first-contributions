@@ -9724,6 +9724,7 @@ Rohan Das
 - [Omer Qureshi](https://github.com/omer413)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
+- [Aditya Wiguna](https://github.com/adityawiguna12)
 - [Ali Balci](https://github.com/alibalci)
 - [Joaquim Honório](https://github.com/joaquimcmh)
 - [**Abhijeet Srivastava**](https://github.com/abhijeet181995)
@@ -9925,4 +9926,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Aditya Wiguna](https://github.com/adityawiguna12)
