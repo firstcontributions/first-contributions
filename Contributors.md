@@ -7813,6 +7813,7 @@ Rohan Das
 - [Bence](https://github.com/vrjolke)
 - [Rafi Ravid](https://github.com/rravid)
 - [Tanmaya Kumar](https://github.com/argets08)
+- [Dmitry Polovinkin](https://github.com/Polovinkin)
 - [Omid Rooholfada](https://github.com/omeshomes)
 - [Nic le Roux](https://github.com/NicLR)
 - [Ilya Ivanov](https://github.com/IlyaIvanov1)
