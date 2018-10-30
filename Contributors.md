@@ -9156,6 +9156,7 @@ Rohan Das
 - [Oscar Rodriguez](https://github.com/lagartoverde)
 - [Megherea Eugeniu](https://github.com/eugeniumegherea)
 - [basher666](https://github.com/basher666)
+- [Riccardo Orlando](https://github.com/Riccorl)
 - [KSSBro](https://github.com/KSSBro)
 - [Li Tomchik](https://github.com/roguedzines)
 - [JianLoong](https://github.com/JianLoong)
@@ -9939,4 +9940,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Riccardo Orlando](https://github.com/Riccorl)
