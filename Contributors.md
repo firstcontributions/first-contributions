@@ -1249,6 +1249,7 @@ Edison Shek
 - [Louis Chris Orona](https://github.com/louischrisorona)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
+- [Jeremy Beising](https://github.com/jbeising)
 - [Chetan Nagarkar](https://github.com/cnagarkar)
 - [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
