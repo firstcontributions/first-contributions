@@ -95,6 +95,7 @@
 - Rajesh Verma
 - [Jacquetta Bommuluri](https://github.com/jacquetta)
 - [Justin Kook](https://github.com/justinkook)
+- [Shweta Mahajan](https://github.com/shweta112)
 - [Amulya Gaur](https://github.com/amulyagaur)
 - [Ken Vader](https://github.com/kenvader)
 - [aditchanchal](https://github.com/aditchanchal)
