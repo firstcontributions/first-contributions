@@ -56,6 +56,7 @@
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Harry Potter](https://github.com/heripotir)
+- [Prafulla Pal](https://github.com/j0rden007)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
 - [Luca Donno](https://github.com/lucadonnoh)
