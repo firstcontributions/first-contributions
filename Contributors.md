@@ -9089,6 +9089,7 @@ Rohan Das
 - [Edwin Harly](https://github.com/edwinharly)
 - [James Zhong](https://github.com/thebitspud)
 - [Vanoux](https://github.com/Vanoux)
+- [Henry](https://github.com/Henry6612700)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Hassani King Senior](https://github.com/HKSenior)
