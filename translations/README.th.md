@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-เอาล่ะ ตอนนี้ก็ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
+เอาล่ะ ตอนนี้ก็ทำการ Clone โปรเจ็คนี้ลงบนเครื่องคอมพิวเตอร์ของคุณ โดยการคลิ๊กที่ปุ่ม "Clone" แล้วเลือก *copy to clipboard* (คำสั่งคัดลอก)
 
 เปิดโปรแกรมเทอร์มินอลในเครื่อง (เช่น Terminal ใน MacOS หรือ cmd ใน Windows) แล้วรันคำสั่ง git ต่อไปนี้:
 
@@ -51,7 +51,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 cd first-contributions
 ```
-ตรงนี้ให้สร้าง branch (แตกกิ่งการทำงานใหม่) ด้วยคำสั่ง `git checkout`:
+ทำการสร้าง branch (แตกกิ่งการทำงานใหม่) ด้วยคำสั่ง `git checkout`:
 ```
 git checkout -b <ชื่อ branch>
 ```
@@ -102,7 +102,7 @@ git push origin <ชื่อ branch ของคุณ>
 แล้วเดี๋ยวเราจะ "Merge" หรือรวมผลงานที่คุณได้เปลี่ยนแปลงโค้ดมาที่ master branch ของโปรเจ็คนี้ คุณจะได้รับอีเมลล์ เมื่อเราได้ทำการ Merge ผลงานของคุณเรียบร้อยแล้ว
 
 ## ไปไหนต่อดีหลังจากนี้?
-ยินดีด้วย คุณเพิ่งทำวัฏจักรพื้นฐานของการทำ contribute คือ fork -> clone -> edit -> PR ซึ่งสิ่งเหล่านี้คุณจะพบเจอเป็นปกติเมื่อเป็น contributor
+ยินดีด้วย คุณสำเร็จขั้นตอนการทำ contribute ขั้นพื้นฐาน คือ fork -> clone -> edit -> PR ซึ่งสิ่งเหล่านี้คุณจะพบเจอเป็นปกติเมื่อเป็น contributor
 ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อน ๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
 
 หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใด ๆ [เข้าร่วม slack กับเรา](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
