@@ -1227,6 +1227,7 @@ Edison Shek
 - [Rishab jain](https://github.com/rishabjn)
 - [Vinnys Lins](https://github.com/vinnyslins)
 - [Thein Oo](https://github.com/thoo)
+- [Super Man]()
 - [Kyle Tozer](https://github.com/kyletozer)
 - [Yash Bhardwaj](https://github.com/Bhardwajy795)
 - [Harshit Bhalla](https://github.com/harshitsan)
