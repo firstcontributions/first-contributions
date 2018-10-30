@@ -8437,7 +8437,8 @@ Rohan Das
 - [Brenton L](https://github.com/LalondeBrenton)
 - [Andrés Serna](https://github.com/andres0107)
 - [Om Pandey](https://github.com/ompandey)
-- [Tsung Han] (https://github.com/Mystes-CS)
+- [Tsung Han](https://github.com/Mystes-CS)
+- [Alex Justiniano](https://github.com/arjustini)
 - [dmonazah](https://github.com/dmonazah)
 - [impxia](https://github.com/impxia)
 - [Sebastian Carter](https://github.com/sebastiancarter)
@@ -9974,5 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Alex Justiniano](https://github.com/arjustini)
-
