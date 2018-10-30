@@ -9059,6 +9059,7 @@ Rohan Das
 - [Glen Griffiths](https://github.com/Glenderman)
 - [Uwais Zaki](https://github.com/uwaiszaki)
 - [Umang Raval](https://github.com/umangraval)
+- [A1RI](https://github.com/A1RI)
 - [Wesley Melo](https://github.com/wesmelo)
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
 - [Magno Macedo de Oliveira](https://github.com/magnoDev)
@@ -9958,5 +9959,4 @@ quattad
 - [Brian Russell](https://github.com/Brussell03)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [A1RI](https://github.com/A1RI)
 - [Malintha Kumarage](https://github.com/malintha90)
