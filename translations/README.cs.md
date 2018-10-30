@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="assets/join-slack-team.png">]
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -57,7 +57,6 @@
 
 Pokud namáte nainstalovaný git, [nainstalujte si jej]( https://help.github.com/articles/set-up-git/).
 
-## Forkněte tento repozitář
 
 Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHib účtu.
 
@@ -147,7 +146,6 @@ Teď vytvořte žádost o přetažení vaší větve do originálního repozitá
 
 Brzy budu provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
 
-## Kam dále?
 
 Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ průběh práce (anglicky *workflow), se kterým se jako přispěvatel do projektů setkáte dennodenně.
 
@@ -166,11 +164,6 @@ Nyní vám už nic nebrání v příspívání do ostatních projektů. Připrav
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Sebe propagace
-
-Pokud se vm tento projket líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
-Stránky původního autora [Roshan](https://roshanjossey.github.io/).
-[Stránky překladatele](https://bambusekd.cz).
 
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
