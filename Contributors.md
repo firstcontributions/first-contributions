@@ -8676,6 +8676,7 @@ Rohan Das
 - [Amandeep Saluja](https://github.com/amandeep-saluja)
 - [Brandon Thompson](https://github.com/roric32)
 - [Electric Keet](https://github.com/electrickeet)
+- [Rodrigo Chiong](https://github.com/Letsan)
 - [Yannick De Jonghe](https://github.com/yadejo)
 - [Joshua Jarvis](https://github.come/bynarlogic)
 - [Rachna Pathak](https://github.com/rachnapathak)
