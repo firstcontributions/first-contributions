@@ -7,6 +7,7 @@
 - [Anushree](https://github.com/anushree816)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [gilded1](https://github.com/gilded1)
+- [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [Tempor](https://github.com/temporaryacconunt)
