@@ -120,6 +120,7 @@
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [Saad Patel](https://github.com/Saad2714)
+- [Sohil Ladhani](https://github.com/sohilladhani)
 - [kzack123](https://github.com/kzack123)
 - Alex
 - [Shreya Badchariya](https://github.com/shreya50)
