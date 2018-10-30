@@ -704,6 +704,7 @@ Edison Shek
 - [Michael Harvey](https://github.com/harvey-dev)
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
+- [Vasilica fara frica](https://github.com/Dummm)
 - [Jennifer E Yoon](https://github.com/JennEYoon)
 - [Rahul Sharma](https://github.com/rahulrs0029)
 - Shani Rub
@@ -9562,7 +9563,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon](https://github.com/nuncharee)
-- [Lomitaswa Suna](https://github.com/lomitaswa) 
+- [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
