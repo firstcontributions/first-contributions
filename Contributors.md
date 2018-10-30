@@ -8717,9 +8717,9 @@ Rohan Das
 - [Tim Smith](https://github.com/WebRuin)
 - [Aman Jain](https://github.com/amanjain25)
 - [Justin Estaris](https://github.com/JustinEstaris)
-- [Justin Estaris](https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
-- [Ted Jacobs] https://github.com/tedjacobs
+- [Henry](https://github.com/Henry6612700)
+- [Ted Jacobs](https://github.com/tedjacobs)
 - [Henning K](https://github.com/Henning-K)
 - [Pranav Garg](https://github.com/pranavgarg123)
 - [Hargovind Singh Arora](https://github.com/HargovindArora)
@@ -9978,4 +9978,4 @@ quattad
 - [Brian Russell](https://github.com/Brussell03)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
+- [Malintha Kumarage](https://github.com/malintha90)]
