@@ -9914,6 +9914,7 @@ quattad
 - [Jeff Lung](https://github.com/jefflung)
 - [Sameer Malik](https://github.com/sameermalik20aug)
 - [Jorge Galat](https://github.com/jgalat)
+- [Flaviano Flauber](https://github.com/flauberjp)
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
