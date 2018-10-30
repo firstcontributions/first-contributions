@@ -16,6 +16,7 @@
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
 - [morg0n](https://github.com/morg0n)
+- [paulambanks](https://github.com/paulambanks/)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Sandeep Pandey](https://github.com/Codextor)
