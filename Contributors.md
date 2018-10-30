@@ -5552,6 +5552,7 @@ Rohan Das
 - [Alex](https://github.com/LiAlexJ)
 - [Gary](https://github.com/thatguy227)
 - [Jack](https://github.com/jack99999)
+- [Gurpreet Singh](https://github.com/GurpreetSingh5)
 - [Harsh](https://github.com/harshp.97)
 - [Gabriel Machado](https://github.com/gm1357)
 - [Marcelo Ferreira](https://github.com/marcelosife)
