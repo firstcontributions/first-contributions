@@ -2,6 +2,7 @@
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
+- [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
