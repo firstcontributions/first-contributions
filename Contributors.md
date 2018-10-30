@@ -57,7 +57,8 @@
 - julio-garcia-fc
 - wefromstars
 - SenhorN
-- [Faith Chikwekwe](https://github.com/fchikwekwe)
+- Explorer3991
+ [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
