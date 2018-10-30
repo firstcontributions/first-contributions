@@ -50,6 +50,7 @@
 - [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
+- [Shobhit](https://github.com/100-bit)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
