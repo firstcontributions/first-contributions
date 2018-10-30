@@ -38,6 +38,7 @@
 - [Divyam](https://github.com/shahdivyam)
 - julio-garcia-fc
 - wefromstars
+- SenhorN
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Ravi Jain](https://github.com/engrravijain)
 - [Sean Mayton](https://github.com/maytonsw)
