@@ -8818,6 +8818,7 @@ Rohan Das
 - [Manuel Delgado](https://github.com/ManuelTheDev)
 - [Robert Laws](https://github.com/robert-laws)
 - [Mike Zentz](https://github.com/mikezentz)
+- [Ritika Gupta](http://github.com/ritikagupta1234)
 - [Dave Brener](https://github.com/davebrener)
 - [Roberto Bernardinello](https://github.com/rbernardinello)
 - [Caio Augusto](https://github.com/caioag)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
--[Ritika Gupta](http://github.com/ritikagupta1234)
