@@ -122,6 +122,7 @@
 - [aalizwel23](https://github.com/aalizwel23
 - [gormleymark] (https://github.com/gormleymark)
 - [aalizwel23](https://github.com/aalizwel23)
+- [Maruthi Mohan Reddy Putha](https://github.com/MaruthiMohanReddyPutha)
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
 - [IrshadAnsari](https://github.com/irshadjsr21)
