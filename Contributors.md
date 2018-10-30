@@ -6581,6 +6581,7 @@ Rohan Das
 - [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
+- [Manish](https://github.com/developer-18)
 - [Guilherme Wachs](https://github.com/lopespt)
 - [Fabien Malbois](https://github.com/rrreeezzz)
 - [Shashi Jangra](https://github.com/shashijangra22)
