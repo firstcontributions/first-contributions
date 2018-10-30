@@ -1293,6 +1293,7 @@ Edison Shek
 - [Sudhanshu](https://github.com/capreyon)
 - [Mahesh Tudu](https://github.com/mahis929)
 - [Rehnab Khan](https://github.com/rehnab)
+- [Chandra Vamsi](https://github.com/rchandravamsi14)
 - [Chuong Tran](https://github.com/chuongtrh)
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
