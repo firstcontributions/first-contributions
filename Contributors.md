@@ -7389,6 +7389,7 @@ Rohan Das
 - [Roger Baker](https://github.com/myVarEquals)
 - [Aaron Gravelle](https://github.com/AaronGr)
 - [Nikki Bright](https://github.com/Nikkistorme)
+- [Raziel Diaz](https://github.com/raziel5746)
 - [mHz](https://github.com/mhz28)
 - [Thilina Wishvekeerthi](https://github.com/ThilinaDeshan)
 - [Mohammed Larabi](https://github.com/MohammedLarabi)
