@@ -55,7 +55,9 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 
+## What you'll do in your first contribution
 
+In a few minutes you will add your name to the list of contributors of this repository. You will do that by forking and modifying your own copy of the repo, and then creating a pull request to have your changes merged into the original repository. 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
