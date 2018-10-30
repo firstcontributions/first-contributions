@@ -224,6 +224,7 @@
 - [lenni108](https://github.com/lenni108)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
+- [Rafika RJ](https://github.com/erje21)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [Nisal97]-(https://github.com/Nisal97)
 - [MalkaSaba](https://github.com/malkasaba)
