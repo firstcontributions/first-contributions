@@ -1,5 +1,6 @@
 # Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
+- [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
@@ -23,7 +24,7 @@
 - [Alex K.](https://github.com/gnarlex)
 - [Pranav Mathur](https://github.com/noobieArtist)
 - [John mantas](https://github.com/john-mantas)
-  [Ansul Kumar](https://github.com/ansul357)   
+  [Ansul Kumar](https://github.com/ansul357)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [tnssh](https://github.com/tnssh)
