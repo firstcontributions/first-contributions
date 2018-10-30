@@ -2948,6 +2948,7 @@ Bakht Jamal Sukhera
 - [Thomas Viaud](https://github.com/thomasviaud)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
+- [Evan Genest](https://github.com/atom-box)
 - [Skyelah Bay] (https://github.com/SkyelahBay)
 - [Akhtam Ismatov](https://github.com/Akhtam)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
