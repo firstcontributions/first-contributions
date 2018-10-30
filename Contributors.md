@@ -7577,6 +7577,7 @@ Rohan Das
 - [Andrew Wheeler](https://github.com/andrwwhlr)
 - [Kevin Resler](https://github.com/kresler)
 - [Zachary Gong](https://github.com/poiszg23)
+- [naveen kalanajith](https://github.com/Naveenkalanjith)
 - [Paco Banegas](https://github.com/pbanegas)
 - [Bryan Austyn Ichsan](https://github.com/Sambas231)
 - [Ahsan Yousaf](https://github.com/sheikhahsan)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-  naveen kalanajith
