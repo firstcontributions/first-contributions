@@ -104,6 +104,7 @@
 - [C Barringhaus] (https://github.com/cheriesyb)
 - Aileen J
 - [Eren Jaegar](https://github.com/erenjaegar)
+- [Lakshya Arora](https://github.com/nulll-pointer)
 - [Nishit Majithia] (https://github.com/nishitm)
 - [CJ Baquiran](https://github.com/CyjKun)
 - [Krishna kunal](https://github.com/krish-kunal)
