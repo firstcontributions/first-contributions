@@ -5,6 +5,7 @@
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
+- [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
