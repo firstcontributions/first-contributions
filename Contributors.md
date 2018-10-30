@@ -9086,6 +9086,7 @@ Rohan Das
 - [Edwin Harly](https://github.com/edwinharly)
 - [James Zhong](https://github.com/thebitspud)
 - [Vanoux](https://github.com/Vanoux)
+- [Henry](https://github.com/Henry6612700)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Hassani King Senior](https://github.com/HKSenior)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Henry](https://github.com/Henry6612700)
