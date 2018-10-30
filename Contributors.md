@@ -191,6 +191,7 @@
 - [Soumith Bhagwat](https://github.com/soumithbhagwat)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
 - [blank15](https://github.com/blank15)
+- [blawle](https://github.com/blawle)
 - [Raees Nazeer](https://github.com/raeesnazeer)
 - [FriendlyMafia](https://github.com/dattvidc)
 - [volkimd](https://github.com/volkimd)
