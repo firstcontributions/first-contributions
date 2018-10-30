@@ -9,6 +9,7 @@
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [John mantas](https://github.com/john-mantas)
 - [Erica Peterson](https://github.com/ericalpeterson)
