@@ -6713,6 +6713,7 @@ Rohan Das
 - [Mahdi Rafiei](https://github.com/mmahdi-r)
 - [Abul Hayat](https://github.com/Abulnoviceninja)
 - [Nitin Satish](https://github.com/nitinsatish)
+- [Nimalen Sivapalan](https://github.com/nsivapalan)
 - [Ash Santi](https://github.com/Ashsanti)
 - [John T](https://github.com/amishTechSupport)
 - [Issa Abdulkadir](https://github.com/issa24)
