@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -4360,6 +4360,7 @@ Tanishq Gupta
 - [ninjandroid](https://github.com/ninjandroid)
 - [nicolopomini](https://github.com/nicolopomini)
 - [Yunus Emre Cicen](https://github.com/yecicen)
+- [Gökhan Tok](https://github.com/gokhantok)
 - [allykates](https://github.com/allykates)
 - [FRTesla](https://github.com/FRTesla)
 - [Aby Abraham Kalathivila](https://github.com/abyabrkal)
