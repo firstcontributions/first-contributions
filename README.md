@@ -87,6 +87,23 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
+## Point to upstream
+
+This is helpful to do if the repository that you have forked is changing constantly.
+```
+cd first-contributions
+git remote add upstream https://github.com/firstcontributions/first-contributions
+git fetch upstream
+```
+
+## Configure git 
+
+It is recommended to configure `git` so it knows who you are
+```
+git config user.name "New Contributor"
+git config user.email "new.contributor@greatplacetowork.com"
+```
+
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
@@ -126,6 +143,16 @@ Now commit those changes using the `git commit` command:
 git commit -m "Add <your-name> to Contributors list"
 ```
 replacing `<your-name>` with your name.
+
+## Rebase
+As a best practice, once you have committed your changes, it is a good idea to use git rebase to synchronize your work with the main repository if it has changed.
+
+```
+git fetch upstream
+git rebase upstream/master
+```
+
+This ensures that your working branch has the latest changes from the main repository.
 
 ## Push changes to GitHub
 
