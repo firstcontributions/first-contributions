@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
@@ -8821,6 +8821,7 @@ Rohan Das
 - [Manuel Delgado](https://github.com/ManuelTheDev)
 - [Robert Laws](https://github.com/robert-laws)
 - [Mike Zentz](https://github.com/mikezentz)
+- [Ritika Gupta](http://github.com/ritikagupta1234)
 - [Dave Brener](https://github.com/davebrener)
 - [Roberto Bernardinello](https://github.com/rbernardinello)
 - [Caio Augusto](https://github.com/caioag)
