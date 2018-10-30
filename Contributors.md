@@ -9879,6 +9879,7 @@ quattad
 - [Vinicius Costa](https://github.com/viniciuscosta89)
 - [Akintola Moronfoluwa](https://github.com/Foluwa)
 - [Felix Cao](https://github.com/FelixCao)
+- [Ahmad Fauzan Amirul Isnain](https://github.com/ahmad-fauzan458)
 - [Wing Kuang](https://github.com/wwk3j)
 - [Camilo Ibarra](https://github.com/camiloibarrayepes)
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
