@@ -4,6 +4,7 @@
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
+- [James Rose](htpps://github.com/james-rose)
 - [Anushree](https://github.com/anushree816)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [gilded1](https://github.com/gilded1)
