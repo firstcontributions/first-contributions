@@ -9999,6 +9999,7 @@ quattad
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Aditya](https://github.com/aa-deet-eeya)
 - [Cristian](https://github.com/cencristian)
+- [Piyush Palawat](https://github.com/piyushpalawat99)
 - [Caio Gomes](https://github.com/minimarvin)
 - [David](https://github.com/IngDavNav)
 - [Mateus Machado](https://github.com/mateusfmachado)
