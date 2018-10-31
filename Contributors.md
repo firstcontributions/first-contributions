@@ -114,6 +114,7 @@
 - [Lauren Wright](https://github.com/laurenewright)
 - [Shailendra Paliwal](https://github.com/vcidst)
 - Jesse
+- Hackerrrr
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
 - [Tony G](https://github.com/tonygparsehub)
