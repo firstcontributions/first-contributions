@@ -99,6 +99,7 @@
 - [Lincoln Costa](https://github.com/tekpixo)
 - [Lauren Wright](https://github.com/laurenewright)
 - Jesse
+- Hackerrrr
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
 - [Tony G](https://github.com/tonygparsehub)
