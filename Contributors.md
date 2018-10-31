@@ -53,6 +53,7 @@
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
 - [Natalie Fleming](https://github.com/nataliefleming)
+- [Arohan](https://github.com/arohan007)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
