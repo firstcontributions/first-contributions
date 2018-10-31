@@ -10065,5 +10065,6 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)]
-- [Max Wendel](https://github.com/Max-Wendel-UFC)]
+- [Malintha Kumarage](https://github.com/malintha90)
+- [Max Wendel](https://github.com/Max-Wendel-UFC)
+- [Anuj Verma](https://github.com/anuj1798)
