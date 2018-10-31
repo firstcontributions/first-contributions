@@ -10,6 +10,7 @@
 - [Anushree](https://github.com/anushree816)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [James Rose](http://github.com/james-rose)
+- [Brandon Wozniewicz](https://github.com/brandonwoz)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - {daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
