@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Danish Jamal](https://github.com/danishjamal104)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -458,6 +457,7 @@ aalbusoiu
 - [Adam Murray](https://github.com/Murraymint1804)
 - [iamtodor](https://github.com/iamtodor)
 - [madisonjordan](https://github.com/madisonjordan)
+- [Danish Jamal](https://github.com/danishjamal104)
 - [Amish P.](https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
 - [Mikaela Peters](https://github.com/mppmpp315)
