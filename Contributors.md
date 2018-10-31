@@ -9723,6 +9723,7 @@ Rohan Das
 - [Leon Dong](https://github.com/dankpigeon)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
+- [vamisola](https://github.com/uygaraktuna)
 - [Uygar Aktuna](https://github.com/uygaraktuna)
 - [Dhananjay Pandit](https://github.com/Jay1305)
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
