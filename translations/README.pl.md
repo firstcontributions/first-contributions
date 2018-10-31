@@ -37,7 +37,7 @@ Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zo
 
 Przykład:
 ```
-git clone https://github.com/to-ty/first-contributions.git
+git clone https://github.com/<to-ty>/first-contributions.git
 ```
 W miejscu 'to-ty' to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium first-contributions z githuba na swój komputer.
 
@@ -64,21 +64,21 @@ git checkout -b add-adam-kowalski
 
 Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak używać języka Markdown.
 
-Dodaj następującą linię na końcu `Contributors.md`
+Dodaj następującą linię do `Contributors.md`, tak aby nie byla na początku ani końcu pliku:
 
 ```
-[Twoje imię](https://github.com/Twoja nazwa użytkownika)
+- [Twoje imię](https://github.com/Twoja nazwa użytkownika)
 ```
 Przykład: 
 ```
-[John Doe](https://github.com/johndoe)
+- [John Doe](https://github.com/johndoe)
 ```
 
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
 
 Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
 ```
-`git add Contributors.md`
+git add Contributors.md
 ```
 
 Teraz zapisz te zmiany wykonując komendę `git commit`:
