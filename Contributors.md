@@ -3067,6 +3067,7 @@ Bakht Jamal Sukhera
 - [Daniel Contreras](https://github.com/danielcontreras)
 - [Connor McCurrie](https://github.com/adinsxx)
 - [ankush-rawat](https://github.com/Rawkush)
+- [Rachel Shawn](https://github.com/rkruShawn)
 - [KLR](https://github.com/karthicrajakumar)
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
 - [Duha Hassan](https://github.com/duha-h)
