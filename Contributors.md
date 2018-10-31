@@ -302,6 +302,7 @@
 - [kananthav](https://github.com/kananthav)
 - [naman](https://github.com/nbanati)
 - [Jared Moser](https://github.com/JM0S3R)
+- [John Hamrick](https://github.com/hamerz)
 - [Caique](https://github.com/caiqueff)
 - [Avijit Bhattacharjee](https://github.com/avijit1258)
 - [prashansanb](https://github.com/prashansanb)
