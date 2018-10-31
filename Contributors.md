@@ -89,6 +89,7 @@
 - Manish Upadhyaya
  [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
+- [Anil Basdeo](https://github.com/Zer02) 
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
