@@ -774,6 +774,7 @@ Edison Shek
 - [Filip Lupaescu](https://github.com/Familotel/)
 - [Taylor](https://github.com/ATaylor1181/)
 - [Erick Martinez](https://github.com/ErickMtz)
+- [Shubham Srivastava](https://github.com/Shubham6059)
 - [AK White](https://github.com/akwhite)
 - [Shashwat Garg](https://github.com/Shashwat-Garg)
 - JOON JANG
