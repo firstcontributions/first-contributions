@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -6,6 +6,7 @@
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
+- [Sitryk](https://github.com/Sitryk)
 - [James Rose](http://github.com/james-rose)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [gilded1](https://github.com/gilded1)
