@@ -30,11 +30,13 @@
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [tnssh](https://github.com/tnssh)
+- [Autumn Peters](https://github.com/autumnmarin)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Moses613](https://github.com/Moses613)
 - Jason
 - [rahul kukreja]
 - [fatima awad](https://github.com/fa6oomawad)
+
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
 - [Ronish Zadode](https://github.com/ronishz)
@@ -9562,7 +9564,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon](https://github.com/nuncharee)
-- [Lomitaswa Suna](https://github.com/lomitaswa) 
+- [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
