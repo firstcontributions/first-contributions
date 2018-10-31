@@ -10070,4 +10070,5 @@ quattad
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Max Wendel](https://github.com/Max-Wendel-UFC)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)
+- [SHASHANK](https://github.com/shashanks)]
