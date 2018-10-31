@@ -904,6 +904,7 @@ Edison Shek
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Ekansh Gupta] (https://github.com/Ekansh-01)
+- [AJ Silva](https://github.com/ajisilva)
 - [Michael Kaskun](https://github.com/QwerMike)
 - [Francesco Cartier](https://github.com/cartinez)
 - [Bhabani]()
