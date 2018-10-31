@@ -1005,3 +1005,4 @@
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Tee Toast](https://github.com/teetoast)
+- [Kaisma Penn-Titley](https://github.com/bviengineer)
