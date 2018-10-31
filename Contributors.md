@@ -31,6 +31,7 @@
 - [paulambanks](https://github.com/paulambanks/)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
+- [David Velasquez](https://github.com/tripping-smalls)
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
