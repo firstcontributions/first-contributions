@@ -10082,4 +10082,4 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Gabriel Rosa] (https://github.com/gabrielsrosa)
+- [Gabriel Rosa](https://github.com/gabrielsrosa)
