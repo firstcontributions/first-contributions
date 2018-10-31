@@ -198,6 +198,7 @@
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu�n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
+- [Chid](https://github.com/pvcpre)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
 - [Charles B. Cameron](http://github.com/cameroncb1)
@@ -772,4 +773,3 @@
 - [Debaditya Dey] (https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb] (https://github.com/ThomasChr)
-- [Chid] (https://github.com/pvcpre)
