@@ -9563,6 +9563,7 @@ Rohan Das
 - [Michael Hoang](https://github.com/Quang810)
 - [dtrac](https://github.com/dtrac)
 - [Sriram S. Niar](https://github.com/sriramsnair)
+- [Deepak sahu](https//github.com/Deepaksahu123)
 - [Tan Nguyen](https://github.com/ngtan)
 - [Bhavy Singh](https://github.com/bhavybarca)
 - [Tom Braul](https://github.com/tombraul)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Deepak sahu](https//github.com/Deepaksahu123)]
