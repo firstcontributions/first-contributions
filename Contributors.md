@@ -181,6 +181,7 @@
 - [BrendanJJoyce](https://github.com/BrendanJJoyce)
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [Bhavika26](https://github.com/Bhavika26)
+- [Nicolaad](https://github.com/Nicolaad)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)'
 - [Adrian]
