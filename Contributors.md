@@ -2595,6 +2595,7 @@ Edison Shek
 - [Varun Nair](https://github.com/VarunDelft)
 - [Josh Friesen](https://github.com/joshfriesen)
 - [Palmer Hinchliffe](https://github.com/palmerhinchliffe)
+- [Ioannis Vaitsis](https://github.com/Vairus)
 - [juvestig](https://github.com/juvestig)
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - [Ankita](https://github.com/Ankita3010)
