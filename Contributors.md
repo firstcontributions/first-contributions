@@ -9051,6 +9051,7 @@ Rohan Das
 - [benzammour](https://github.com/benzammour)
 - [Shakib Ahmed](https://github.com/shakib1729)
 - [Shubham Patil](https://github.com/shubham76)
+- [Matt DuLeone](https://github.com/mduleone)
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
 - [Danilo Arantes](https://github.com/daniloarantes)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Matt DuLeone](https://github.com/mduleone)
