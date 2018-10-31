@@ -115,6 +115,7 @@
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [Mylonio]()
 - [Michal123pl] (https://github.com/Michal123pl)
+- [Vedarth](https://github.com/Vedarth)
 - [Jasu](https://github.com/jspine01)
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
