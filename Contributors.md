@@ -8975,6 +8975,7 @@ Rohan Das
 - [AFrittella](https://github.com/afrittella)
 - [Lucas Viera](https://github.com/lucasarieiv)
 - [Aline Gouveia](https://github.com/alinemtg)
+- [Lets try](https://github.com/lets-start-coding)
 - [Iris Soares](https://github.com/irixs)
 - [Leticia Maciel](https://github.com/leehmaciel)
 - [José Brandão](https://github.com/OZebra)
