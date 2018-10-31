@@ -11,7 +11,7 @@ orientation.
 
 ## Our Standards
 
-Examples of behaviour that contributes to creating a positive environment
+Examples of behavior that contributes to creating a positive environment
 include:
 
 *   Using welcoming and inclusive language.
