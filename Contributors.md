@@ -550,6 +550,7 @@ aalbusoiu
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Ivana Livaja](https://github.com/ivilili)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
+- [Samuel F](hhtps://github.com/Sam-F90)
 - [Peter salihu](https://github.com/c-virus)
 - [Faiza Alam] (https://github.com/faizaalam)
 - [Peter Karakas](https://github.com/peti2001)
