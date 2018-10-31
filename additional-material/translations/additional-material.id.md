@@ -11,7 +11,7 @@ Dokumen ini memberikan informasi mengenai bagaimana agar repositori yang kita fo
 > Ikuti langkah-langkahnya agar fork anda tidak punya banyak perubahan dengan repositori induk.
 
 ### [Membatalkan commit](reverting-a-commit.md)
-Dokumen ini memberikan informasi bagaimana caranya membatalkan commit di repositori remote. Langkah ini perlu jika sewaktu-waktu anda harus membatalkan sebuah commit yang telanjur sudah didorong ke GitHub.
+Dokumen ini memberikan informasi bagaimana caranya membatalkan commit di repositori remote. Langkah ini perlu jika sewaktu-waktu anda harus membatalkan sebuah commit yang telanjur sudah dipush ke GitHub.
 > Ikuti langkah-langkahnya untuk membatalkan sebuah commit.
 
 ### [Mengubah sebuah commit](amending-a-commit.md)
@@ -43,4 +43,4 @@ Dokumen ini didedikasikan untuk semua pos blog, laman yang sangat membantu, situ
 
 ### [Menyatukan banyak Commit](squashing-commits.md)
 Dokumen ini menyediakan informasi mengenai bagaimana menyederhanakan banyak commit dengan rebase interaktif.
-> Gunakan ini jika anda mau membuka sebuah PR dalam proyek open source dan periview meminta kamu untuk menyatukan setiap commit menjadi satu, dengan pesan commit yang informatif.
+> Gunakan ini jika anda ingin membuka sebuah PR dalam proyek open source dan periview meminta anda untuk menyatukan setiap commit menjadi satu, dengan pesan commit yang informatif.
