@@ -730,6 +730,7 @@ Edison Shek
 - [Michael Harvey](https://github.com/harvey-dev)
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
+- [Vasilica fara frica](https://github.com/Dummm)
 - [Jennifer E Yoon](https://github.com/JennEYoon)
 - [Rahul Sharma](https://github.com/rahulrs0029)
 - Shani Rub
