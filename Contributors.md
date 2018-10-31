@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -8969,6 +8969,7 @@ Rohan Das
 - [Jackie Owen](https://github.com/jackie1969)
 - [IgnasA](https://github.com/IgnasA)
 - [Saswat]()
+- [Lovelli Fuad](https://github.com/ariesti)
 - [John Kryspin](https://github.com/jibbey)
 - [Ekkachai Sohmontha](https://github.com/heemza)
 - [Christine Mecklenborg](https://github.com/cmecklenborg)
