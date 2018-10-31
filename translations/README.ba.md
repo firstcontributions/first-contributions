@@ -18,7 +18,7 @@ Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.gith
 Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
-## Depoyu (Repository) klonlama
+## Kloniranje repositorija
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
