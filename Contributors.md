@@ -5556,6 +5556,7 @@ Rohan Das
 - [Kartik Kulkarni](https://github.com/kartik-karz)
 - [Yash Bhardwaj](https://github.com/imyashbhardwaj)
 - [Nick](https://github.com/nickn10)
+- [Travis Terrell] (https://www.github.com/travisterrell)
 - [Cristian Rodriguez](https://github.com/crisr10)
 - [Aman Jain](https://github.com/jainaman1398)
 - [Nathan Lin](https://github.com/nlin24)
