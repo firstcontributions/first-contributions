@@ -493,6 +493,7 @@ aalbusoiu
 - [Muhammad Arief Budiman](https://github.com/mabudiman)
 - [Anmol Dhingra](https://github.com/anmol-dhingra)
 - [Adam Murray](https://github.com/Murraymint1804)
+- [Divyansh Tripathi](https://github.com/divtrip)
 - [iamtodor](https://github.com/iamtodor)
 - [madisonjordan](https://github.com/madisonjordan)
 - [Amish P.](https://github.com/javacoldbrew)
