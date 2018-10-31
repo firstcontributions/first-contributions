@@ -1526,6 +1526,7 @@ Edison Shek
 - [Saurabh Kumar](https://github.com/saurabhkm)
 - [Bakhshi Dashyan](https://github.com/bagshik)
 - [James Warner](https://github.com/jameswarner)
+- [Senui](https://github.com/rp678)
 - [Katie Turner](https://github.com/katieturner)
 - [Katie Ferencz](https://github.com/katieferencz)
 - [Pittyolo](https://github.com/Pittyolo)
