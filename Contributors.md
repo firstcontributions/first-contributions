@@ -9568,7 +9568,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon](https://github.com/nuncharee)
-- [Lomitaswa Suna](https://github.com/lomitaswa) 
+- [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
@@ -10003,3 +10003,4 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
+- [Daisuke Chen](https://github.com/daisuke1230)
