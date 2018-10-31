@@ -16,6 +16,7 @@
 - [gilded1](https://github.com/gilded1)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
+- [Mihaela Teodoriu](https://github.com/mischha)
 - [Dilnawaz](me@dillo.me)
 - [bshehata](https://github.com/bshehata)
 - [Tempor](https://github.com/temporaryacconunt)
