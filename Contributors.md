@@ -172,6 +172,7 @@ aalbusoiu
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Shivani Arun](https://github.com/ShivaniArun)
 - [Shelly Tomar](https://github.com/ShellyTomar26)
+- [Chaitanya Arora](https://github.com/arorachaitanya)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan] (https://github.com/setiam3)
 - [Arthur van Acker](https://github.com/puupa)
