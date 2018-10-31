@@ -10044,6 +10044,7 @@ quattad
 - [Piyush Palawat](https://github.com/piyushpalawat99)
 - [Caio Gomes](https://github.com/minimarvin)
 - [David](https://github.com/IngDavNav)
+- [Ben Shi](https://github.com/hbish)
 - [Mateus Machado](https://github.com/mateusfmachado)
 - [Sean Hildreth](https://github.com/SeanHildreth)
 - [Diogo Silverio](https://github.com/dblsilverio/)
