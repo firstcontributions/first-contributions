@@ -1,15 +1,17 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Pierwsze kontrybucje
 
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcieliśmy uprościć dla nowych programistów proces nauki i wgrania swojej pierwszej zmiany w obcym projekcie.
+Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, ponieważ popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
 
-Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć wskazówek i uprościć wgranie pierwszej zmiany nowicjuszom. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
+Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Przeczytaj w innych językach: [English](../README.md), [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md) and [Português/Brasil](translations/README.pt_br.md).*
+*Przeczytaj w innych językach: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md) and [Português/Brasil](README.pt_br.md).*
 
 Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -29,7 +31,7 @@ Otwórz konsolę i uruchom komendę git:
 ```
 git clone "wklej skopiowany adres"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowów) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -37,7 +39,7 @@ Przykład:
 ```
 git clone https://github.com/to-ty/first-contributions.git
 ```
-W miejscu 'to-ty' to Twój login na githubie. W tym kroku ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer.
+W miejscu 'to-ty' to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium first-contributions z githuba na swój komputer.
 
 ## Stwórz gałąź
 
@@ -47,6 +49,7 @@ Wejdź w folder ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
 cd first-contributions
 ```
 Teraz utwórz nową gałąź wykonując polecenie `git checkout`:
+
 ```
 git checkout -b <add-twoje-imie>
 ```
@@ -59,9 +62,23 @@ git checkout -b add-adam-kowalski
 
 ## Wprowadź zmiany i wgraj je
 
-Otwórz plik `Contributors.md` w edytorze tekstu, dodaj swoje dane i zapisz go. Jeżeli będziesz w folderze repozytorium i uruchomisz polecenie `git status` zobaczysz, że pojawiły się zmiany. Dodaj te zmiany do wcześniej utworzonej gałęzi przy pomocy polecenia `git add`.
+Otwórz plik `Contributors.md` w edytorze tekstu. Musisz znać Markdown, lekki język znaczników. Tu masz <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ściągawkę</a> gdzie znajdziesz informację jak używać języka Markdown.
+
+Dodaj następującą linię na końcu `Contributors.md`
+
 ```
-git add Contributors.md
+[Twoje imię](https://github.com/Twoja nazwa użytkownika)
+```
+Przykład: 
+```
+[John Doe](https://github.com/johndoe)
+```
+
+Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
+
+Jeżeli wejdziesz w folder ze swoim repozytorium i wykonasz komendę `git status`, zobaczysz, że są tam zmiany. Dodaj te zmiany do gałęzi którą właśnie utworzyłeś używając komendy `git add`:
+```
+`git add Contributors.md`
 ```
 
 Teraz zapisz te zmiany wykonując komendę `git commit`:
@@ -86,101 +103,26 @@ W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. K
 
 Teraz wyślij prośbę o scalenie.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
 
-Teraz, kiedy gałąź `<add-twoje-imie>` spełniła swoje zadanie, usuńmy ją.
+## Co dalej?
 
-## Usuń gałąź ze swojego repozytorium
-
-Jeśli dotarłeś z poradnikiem do tego momentu, nasza gałąź `<add-twoje-imie>` spełniła swoje zadanie i pora usunąć ją z twojego komputera. Nie jest to koniecznie, ale sama nazwa gałęzi wskazuje na jej konkretny cel i tym samym naturalnie krótki żywot.
-
-Najpierw połączy gałąź `<add-twoje-imie>` z gałęzią główną. Przejdź więc do gałęzi głównej:
-```
-git checkout master
-```
-
-Scal `<add-twoje-imie>` z master:
-```
-git merge <add-twoje-imie> master
-```
-
-Usuń `<add-twoje-imie>` z repozytorium na swoim komputerze:
-```
-git branch -d <add-twoje-imie>
-```
-
-Właśnie usunąłeś gałąź `<add-twoje-imie>` ze swojego komputery i wszystko wygląda schludnie.
-Jednakże, nadal masz gałąź `<add-twoje-imie>` w swoim forku na GitHubie. Zanim ją usuniesz pamiętaj, że wysłałeś "Pull request" do mojego repozytorium z tej zdalnej gałęzi. Jeśli jeszcze jej nie scaliłem - nie usuwaj jej.
-
-Jeśli scaliłem już twoją gałąź i chcesz ją usunąć, użyj:
-```
-git push origin --delete <add-twoje-imie>
-```
-
-Teraz już wiesz jak uporządkować swoje gałęzie.
-Z czasem wiele zmian zostanie wprowadzonych do mojego publicznego repozytorium. Gałąź główna na twoim komputerze i w twoim forku repozytorium nie będą aktualne. Aby utrzymać swoje repozytoria zsynchronizowane z moim, wykonaj kroki poniżej.
-
-
-## Utrzymywanie swojego forka zsynchronizowanego z tym repozytorium
-
-Na początku musisz zrozumieć ideę pełnej synchronizacji. W tym wypadku istnieją 3 różne repozytoria: moje publiczne na Githubie `github.com/Roshanjossey/first-contributions/`, twój fork na Githubie `github.com/twoj-login/first-contributions/` i lokalne repozytorium na twoim komputerze, na którym pracujesz.
-
-Aby zsynchronizować twoje 2 repozytoria z moim musisz wpierw ściągnąć i scalić publiczne repozytorium z tym na twoim komputerze.
-Drugim krokiem jest wgranie twojego lokalnego repozytorium do forka na GitHubie. Jak już wcześniej widziałeś możesz poprosić o scalanie zmian (pull request) tylko ze swojego forka. Twój fork na GitHubie jest ostatnim repozytorium, które będzie zaktualizowane.
-
-Ok, działamy:
-
-Musisz znajdować się w głównej gałęzi swojego repozytorium (master). Sprawdź aktualną gałąź w pierwszej linijce po wpisaniu polecenia:
-```
-git status
-```
-jeśli nie jesteś w gałęzi master wpisz:
-```
-git checkout master
-```
-
-Dodaj moje publiczne repozytorium do swojego gita `add upstream remote-url`:
-```
-git remote add upstream https://github.com/Roshanjossey/first-contributions
-```
-Tym sposobem powiesz gitowi, że istnieje inna wersja tego repozytorium pod podanym adresem i nazywamy ją `upstream`. Gdy git zna już nazwę, ściągnijmy aktualną wersję publicznego repozytorium:
-```
-git fetch upstream
-```
-
-Właśnie ściągnąłeś najnowszą wersję mojego repozytorium (upstream remote). Teraz scal publiczne repozytorium do swojej gałęzi master.
-```
-git rebase upstream/master
-```
-W tym kroku scalasz publiczne repozytorium ze swoją gałęzią master. Twoja lokalna gałąź master jest aktualna. Teraz, kiedy wyślesz swoje zmiany do swojego forka na GitHubie, też będzie aktualny:
-```
-git push origin master
-```
-W tym momencie wysyłasz zmiany do nazwanej gałęzi zdalnej.
-
-Wszystkie twoje repozytoria są aktualne. Dobra robota! Powinieneś wykonać ten proces za każdym razem, kiedy twoje repozytorium stwierdzi, że jest kilka zmian (commitów) do tyłu za publicznym repozytorium.
-
+Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
+Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Dołącz do slacka</a>.
+Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
+ 
+### [Materiały dodatkowe](https://github.com/Roshanjossey/first-contributions/blob/master/additional-material/git_workflow_scenarios/additional-material.md) 
+ 
 ## Ćwiczenia przy użyciu innych narzędzi
 
-
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Co dalej?
+## Autopromocja
 
-Możesz dołączyć do naszego Slacka jeśli potrzebujesz pomocy albo masz jakieś pytania (Wersja angielska). [Dołącz do Slacka](https://firstcontributions.herokuapp.com)
+Jeżeli spodobał Ci się ten projekt, dodaj mu gwiazdkę na <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>. Jeżeli chcesz nas wspomóc śledź <a href="https://roshanjossey.github.io/" rel="nofollow">Roshan</a> na <a href="https://twitter.com/sudo__bangbang" rel="nofollow">Twitterze</a> i na <a href="https://github.com/roshanjossey">GitHub</a>.
 
-Oto lista kilku problemów w popularnych repozytoriach z którymi poradzi sobie osoba początkująca. Zajrzyj do nich żeby dowiedzieć się więcej
-
-|[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
-|---|---|---|---|---|---|---|---|
-|[exercism](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[Fun Retros](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[react](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[habitat](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[scikit-learn](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[Leiningen](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[numpy](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[elasticsearch](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
-|[![homebrew](https://avatars2.githubusercontent.com/u/1503512?v=3&s=100)](https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)|[![rust](https://avatars1.githubusercontent.com/u/5430905?v=3&s=100)](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)|[![vuejs](https://avatars1.githubusercontent.com/u/6128107?v=3&s=100)](https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22)|[![Suave](https://avatars2.githubusercontent.com/u/5822862?v=3&s=100)](https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy)|[![OpenRA](https://avatars3.githubusercontent.com/u/409046?v=3&s=100)](https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![PowerShell](https://avatars0.githubusercontent.com/u/11524380?v=3&s=100)](https://github.com/powershell/powershell/issues?q=is%3Aopen+is%3Aissue+label%3AUp-for-Grabs)|[![coala](https://avatars2.githubusercontent.com/u/10620750?v=3&s=100)](https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer)|[![moment](https://avatars2.githubusercontent.com/u/4129662?v=3&s=100)](https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs)|
-|[homebrew](https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)|[Rust](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)|[vuejs](https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22)|[Suave](https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy)|[OpenRA](https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[PowerShell](https://github.com/powershell/powershell/issues?q=is%3Aopen+is%3Aissue+label%3AUp-for-Grabs)|[coala](https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer)|[moment](https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs)|
-|[![ava](https://avatars0.githubusercontent.com/u/8527916?v=3&s=100)](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[![freeCodeCamp](https://avatars0.githubusercontent.com/u/9892522?v=3&s=100)](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![webpack](https://avatars3.githubusercontent.com/u/2105791?v=3&s=100)](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[![hoodie](https://avatars1.githubusercontent.com/u/1888826?v=3&s=100)](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![pouchdb](https://avatars3.githubusercontent.com/u/3406112?v=3&s=100)](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[![neovim](https://avatars0.githubusercontent.com/u/6471485?v=3&s=100)](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[![babel](https://avatars2.githubusercontent.com/u/9637642?v=3&s=100)](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[<img width="100" src="https://github.com/adobe/brackets/blob/gh-pages/images/brackets_128.png?raw=true">](https://github.com/adobe/brackets/labels/Starter%20bug)|
-|[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
-| [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
-| [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

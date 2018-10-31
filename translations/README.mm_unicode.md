@@ -1,5 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 # ပထမအကြိမ် ကူညီထောက်ပံခြင်း
 
@@ -9,7 +12,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Read this in other languages: [English](../README.md), [Indonesian](translations/README.id.md), [French](translations/README.fr.md), [Spanish](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russian](translations/README.ru.md), [Japanese](translations/README.ja.md), [Vietnamese](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Simplified Chinese](translations/README.chs.md), [Traditional Chinese](translations/README.cht.md), [Greek](translations/README.gr.md), [العربية](translations/README.ar.md), [Ukrainian](translations/README.ua.md), [Português/Brasil](translations/README.pt_br.md), [Italian](translations/README.it.md), [ภาษาไทย](translations/README.th.md) and [Galician](translations/README.gl.md).*
+*Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md), [ภาษาไทย](README.th.md) and [Galician](README.gl.md).*
 
 သင့်ရဲံစက်ထဲမှာ git မသွင်းရသေးရင်, [ ဒီမှာသွင်းနည်းကြည့် ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -87,16 +90,16 @@ git push origin <add-your-name>
 
 အခုဆို pull request လုပ်ဖို့အဆင်သင့်ဖြစ်သွားပါပြီး။
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
-### [ Additional material ](additional-material/additional-material.md)
+### [ Additional material ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
