@@ -1135,6 +1135,7 @@ Edison Shek
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
 - [Steve Johnson]
+- [<span style="color: green;">Hunter Rancourt</span>](https://github.com/skwid138)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Abdulsamad Aliyu](https://github.com/nitrocoder234)
 - [Elton Chen-Yu Ho](https://github.com/ChenYuHo)
@@ -9562,7 +9563,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon](https://github.com/nuncharee)
-- [Lomitaswa Suna](https://github.com/lomitaswa) 
+- [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
