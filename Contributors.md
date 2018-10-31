@@ -1117,6 +1117,7 @@ Edison Shek
 - [Jason Dunken](https://github.com/jasondunken)
 - [liraz kinan]()
 - [Nadia Prodanova]
+- [Aman Pandey](https://github.com/amanatgithub)
 - [Dominique D](https://github.com/domilearns)
 - [Matthew Kelley](https://github.com/mkelley88)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
