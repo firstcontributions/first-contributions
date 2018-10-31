@@ -209,6 +209,7 @@
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
 - [Parthiv Kativarapu](https://github.com/parthiv13)
 - [Yusuf Mohammed Delvi](https://github.com/yusuf-delvi)
+- [Oliver Portee](https://github.com/OliverPortee)
 - [Mayank](https://github.com/mayank2652)
 - [dmitrycy](https://github.com/dmitrycy)
 - [Soumith Bhagwat](https://github.com/soumithbhagwat)
