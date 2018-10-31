@@ -110,6 +110,7 @@
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
 - [vanderkilu](https://github.com/vanderkilu)
+- [Shiinx](https://github.com/shiinx)
 - Alexandra Cannon
 - [Caleb Choy](https://github.com/Ookayleb)
 - [DaLeste777](https://github.com/DaLeste777)
