@@ -9274,6 +9274,7 @@ Rohan Das
 - [shachashou](https://github.com/shachashou)
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
+- [Aziz-Vohra](https://github.com/Aziz-Vohra)
 - [Toma Cotuna](https://github.com/tomacotuna)
 - [Luciano Simeao](https://github.com/luciano-s/)
 - [Hitanshu](https://github.com/Phantom-Cluster)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Aziz-Vohra](https://github.com/Aziz-Vohra)
