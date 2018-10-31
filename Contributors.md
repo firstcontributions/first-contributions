@@ -8927,6 +8927,7 @@ Rohan Das
 - [Xterat](https://github.com/fengzipei)
 - [Simon Porter](https://github.com/simonporter007)
 - [Timmy Thatcher](https://github.com/timaraxian)
+- [Jason Wang](https://github.com/jsonW0)
 - [Jessica Hsieh](https://github.com/jessicahsieh)
 - [Wattana Ruengmucha](https://github.com/wattanar)
 - [Angelica Trento](https://github.com/angelicatrento)
