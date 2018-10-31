@@ -1156,6 +1156,7 @@ Edison Shek
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
 - [Steve Johnson]
+- [<span style="color: green;">Hunter Rancourt</span>](https://github.com/skwid138)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Abdulsamad Aliyu](https://github.com/nitrocoder234)
 - [Elton Chen-Yu Ho](https://github.com/ChenYuHo)
