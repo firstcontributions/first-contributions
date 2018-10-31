@@ -1310,6 +1310,7 @@ Edison Shek
 - [Daniel Smith](https://github.com/techydan)
 - [Shobhit Sagar](https://github.com/ShobhitSagar)
 - [Yassin Ajdi](https://github.com/YassinAJDI)
+- [Victor Vilaça](https://github.com/victorvilaca)
 - [Garrett Yaworski](https://github.com/gy162134)
 - [Joseph Harskamp](https://github.com/jeh26033)
 - [Daniel Menachem](https://github.com/doom3007)
