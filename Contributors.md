@@ -20,6 +20,7 @@
 - [bshehata](https://github.com/bshehata)
 - [Tempor](https://github.com/temporaryacconunt)
 - [Ariel](https://github.com/donutsteele)
+- [beastaman](https://github.com/beastaman)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [prabha](hhtps://github.com/prabhaghimire)
