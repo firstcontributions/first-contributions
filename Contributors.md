@@ -4,6 +4,7 @@
 - [Timothy](https://github.com/timtop)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Amrit Devkota](https://github.com/AmritDevkota)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
