@@ -6691,6 +6691,7 @@ Rohan Das
 - [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
+- [Manish](https://github.com/developer-18)
 - [Guilherme Wachs](https://github.com/lopespt)
 - [Fabien Malbois](https://github.com/rrreeezzz)
 - [Shashi Jangra](https://github.com/shashijangra22)
@@ -10071,5 +10072,5 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)]
-- [Max Wendel](https://github.com/Max-Wendel-UFC)]
+- [Malintha Kumarage](https://github.com/malintha90)
+- [Max Wendel](https://github.com/Max-Wendel-UFC)
