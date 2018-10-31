@@ -589,6 +589,7 @@ aalbusoiu
 - [Yatharth Manocha](https://github.com/YaMo97)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder] (https://github.com/RohitMazumder)
+- [Anindita Mandal] (https://github.com/Anindita7)
 - [Pablo Triandafilide] (https://github.com/pablotrianda)
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
