@@ -303,6 +303,7 @@ Edison Shek
 - [Marco Diaz] (https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
 - [MC_Leut](https://github.com/MCLeut)
+- [Chaitanya Arora](https://github.com/arorachaitanya)
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Jack Lin](https://github.com/gmfcd128/)
