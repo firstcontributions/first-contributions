@@ -103,6 +103,7 @@
 - Vishnu Bhagirathan
 - Lucas Fellipe
 - [Luca Donno](https://github.com/lucadonnoh)
+- [Joel Gerber] (https://github.com/joelgerber)
 - [Alexander Wolkenhauer](https://github.com/awolkenhauer)
 - [Mebin Johnson](https://github.com/mebinjohnson)
 - [vanderkilu](https://github.com/vanderkilu)
