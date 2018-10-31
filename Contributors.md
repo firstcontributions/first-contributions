@@ -12,7 +12,6 @@
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [Tempor](https://github.com/temporaryacconunt)
-- [Aman Pandey]
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
@@ -1076,6 +1075,7 @@ Edison Shek
 - [Jason Dunken](https://github.com/jasondunken)
 - [liraz kinan]()
 - [Nadia Prodanova]
+- [Aman Pandey](https://github.com/amanatgithub)
 - [Dominique D](https://github.com/domilearns)
 - [Matthew Kelley](https://github.com/mkelley88)
 - [Mirek Rudkowski](https://github.com/kegrizzo)
