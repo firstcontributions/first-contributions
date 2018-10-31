@@ -67,13 +67,13 @@ git clone https://github.com/this-is-you/first-contributions.git
 ## <div dir="rtl">  إنشاء فرع - Create a branch </div>
 
 
-<div dir="rtl"> انتقل إلى المجلد الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
+<div dir="rtl"> انتقل إلى الملف الذي يحتوي على المشروع عن طريق الأمر التالي: </div>
 
 ```
 cd first-contributions
 ```
 
-<div dir="rtl"> الآن قم بإنشاء فرع عن طريق الأمر التالي: </div>
+<div dir="rtl"> الآن قم بإنشاء فرع خاص بك عن طريق الأمر التالي: </div>
 
 ```
 git checkout -b "add-your-name"
