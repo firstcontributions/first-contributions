@@ -427,6 +427,7 @@ Patrizia Trammell
 - [AnnChar](https://github.com/annchar)
 - [Dusty Werner](https://github.com/wernerd46)
 - [Sara](https://github.com/SaraBon)
+- [Chaitanya Arora](https://github.com/arorachaitanya)
 - [Vinod Borse](https://github.com/vinodborse)
 - [David Adegoke](https://github.com/dhaveed)
 - [Hiro](https://github.com/roromusic)
