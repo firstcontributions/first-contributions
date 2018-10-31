@@ -46,6 +46,7 @@
 - Jason
 - Tausif Shahbaz(https://github.com/tausifshahbaz)
 - [rahul kukreja]
+- [Rosenthol Curtis](https://github.com/305curtis)
 - [fatima awad](https://github.com/fa6oomawad)
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
