@@ -13,7 +13,7 @@ Makale okumak ve eğitim videoları yardımcı olabilir, fakat bir işi gerçekt
 
 Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
 
-## Projeyi "çatallandırma"
+## "Forkanje" projekta
 
 Sayfanın sağ üst köşesinde bulunan "Fork" butonuna basıp bu projeyi çatallandırın.
 Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
