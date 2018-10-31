@@ -11,6 +11,7 @@
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [James Rose](http://github.com/james-rose)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
+- {daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
