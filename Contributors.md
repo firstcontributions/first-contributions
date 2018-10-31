@@ -18,6 +18,7 @@
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [bshehata](https://github.com/bshehata)
+- [Jordan Zhu](https://github.com/jordan-zhu)
 - [Tempor](https://github.com/temporaryacconunt)
 - [Ariel](https://github.com/donutsteele)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
