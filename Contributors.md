@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Timothy](https://github.com/timtop)
@@ -10081,4 +10081,5 @@ quattad
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
+- [Darren f J](https://github.com/DarrenfJ)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
