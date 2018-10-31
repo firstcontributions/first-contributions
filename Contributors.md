@@ -5647,6 +5647,7 @@ Rohan Das
 - [Firas Omrane](https://github.com/firou1925)
 - [Dany Likoris](https://github.com/likorisd)
 - [Michael Zimmerman](https://github.com/mz1290)
+- [Marcos Tomaz](https://github.com/KLMarcos)
 - [Josh Burgess](https://github.com/joshburgess79)
 - [Sharat Madanapalli](https://github.com/sharat910)
 - [Fathur Rachman W](https://github.com/fathuraw)
