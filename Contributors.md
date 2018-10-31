@@ -2,6 +2,7 @@
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Timothy](https://github.com/timtop)
+- [Tiffany Arellano](https://github.com/yirano)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
