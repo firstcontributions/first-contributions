@@ -55,6 +55,7 @@
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
 - [dpcavalcanti](https://github.com/dpcavalcanti)
+- [Peadar O'Raghallaigh](https://github.com/peteroreil)
 - [Bojan](https://github.com/TheBearYT)
 - [VIDHEY](https://github.com/VIDHEY)
 - [Venkatraman Narayanan](https://github.com/vijay4313)
