@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Rashim Malhotral](https://github.com/rashimm)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Timothy](https://github.com/timtop)
