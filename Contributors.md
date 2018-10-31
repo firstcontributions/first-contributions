@@ -91,6 +91,7 @@
 - [Caleb Choy](https://github.com/Ookayleb)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
+- [Rizul Garg](https://github.com/RizulGarg)
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
 - [Raviru](https://github.com/Raviru)
