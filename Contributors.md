@@ -9718,6 +9718,7 @@ Rohan Das
 - [Alejandro Muñoz Crespo](https://github.com/amunozcr)
 - [Vamsi Krishna](https://github.com/vamsi3)
 - [Roi Ben Shaul](https://github.com/rughciatuk)
+- [Akash Sainsara](https://github.com/akashsainsra)
 - [Pratish Katiyar](https://github.com/pratishk28)
 - [Riablo](https://github.com/Riablo)
 - [Jakub](https://github.com/IRusio)
