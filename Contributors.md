@@ -253,6 +253,7 @@
 - [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
+- [Bocong Zhao](https://github.com/zbc)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
 - [Naman Kapoor](https://github.com/naman-kapoor)
