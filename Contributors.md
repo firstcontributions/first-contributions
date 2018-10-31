@@ -98,6 +98,7 @@
 - [Fintan Maher](https://github.com/miyazakid)
 - [Lincoln Costa](https://github.com/tekpixo)
 - [Lauren Wright](https://github.com/laurenewright)
+- [Shailendra Paliwal](https://github.com/vcidst)
 - Jesse
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
