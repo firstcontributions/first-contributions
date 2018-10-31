@@ -175,6 +175,7 @@
 - [Akshay Mhatre](https://github.com/akshay-mhatre)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Kegjams](https://github.com/Kegjams)
+- [nathhia](https://github.com/nathhia)
 - [SS491]
 - [MYusuf](https://github.com/mohamadyusuf19)
 - [Steve-Worrell](https://github.com/Steve-Worrell)
