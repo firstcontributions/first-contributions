@@ -8817,6 +8817,7 @@ Rohan Das
 - [armoredelephant](https://github.com/armoredelephant)
 - [Ramy Gamal](https://github.com/Raamyy)
 - [Nixon Kosgei](https://github.com/nickhq)
+- [Somesh Bachani](https://github.com/Someshb0512)
 - [Max Rugen](https://github.com/maxrugen)
 - [ttapar](https://github.com/ttapar)
 - [Charlie Rizor](https://github.com/Shakespeares-Ghost)
@@ -9990,5 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Somesh Bachani](https://github.com/Someshb0512)]
-
