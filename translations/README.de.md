@@ -10,7 +10,7 @@
 
 Aller Anfang ist schwer. Gerade dann, wenn wir gemeinsam an etwas arbeiten, will niemand etwas Falsches tun. Aber Open Source dreht sich um Kooperation und lebt von den Beiträgen von vielen Freiwilligen. Deshalb haben wir es uns zur Aufgabe gemacht, neuen Mitgliedern in der Open-Source-Gemeinde ihre ersten Schritte so einfach wie möglich zu machen. 
 
-Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Diese Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
+Natürlich helfen die vorhandenen Artikel und Videoanleitungen. Aber was kann besser sein, als es einfach einmal auszuprobieren mit dem Wissen, dass man nichts kaputt machen kann? Dieses Projekt will Anfängern zeigen, wie sie möglichst einfach ihren ersten Beitrag leisten. Bedenke: Je entspannter du bist, desto besser lernst du. Wenn du deinen ersten Beitrag leisten möchtest, folge diesen einfachen Schritten. Wir versprechen dir, es wird Spaß machen.
 
 
 Wenn Git noch nicht installiert ist, [ installiere es ]( https://help.github.com/articles/set-up-git/ )
@@ -153,7 +153,7 @@ So wendest du alle Änderungen, die du heruntergeladen hast, im Master Branch an
 ```
 git push origin master
 ```
-Beachte, dass du hier zum Remote Namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
+Beachte, dass du hier zum Remote namens origin pushst. Origin ist ein besonderer Name, er steht für das Projekt aus dem du initial mit git checkout geclont hast. Es ist also deine Kopie des Projektes auf GitHub.
 
 ## Tutorials mit anderen Tools
 
