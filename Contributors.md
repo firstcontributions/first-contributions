@@ -6,6 +6,7 @@
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
+- [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [James Rose](http://github.com/james-rose)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [gilded1](https://github.com/gilded1)
