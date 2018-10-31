@@ -9386,6 +9386,7 @@ Rohan Das
 - [Janson Chew](https://github.com/haichew)
 - [Het Patel](https://github.com/hetp111)
 - [Mehdi Druon](https://github.com/MehdiDr)
+- [Utsav Sharma](https://github.com/lordgatsby)
 - [Nishant Raut](https://github.com/nishantraut)
 - [Marina D](https://github.com/purple-giraffey)
 - [Kristian Roebuck](https://github.com/roebuk)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Utsav Sharma](https://github.com/lordgatsby)
