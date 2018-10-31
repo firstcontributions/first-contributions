@@ -45,8 +45,9 @@
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Moses613](https://github.com/Moses613)
 - Jason
-- Tausif Shahbaz(https://github.com/tausifshahbaz)
+- [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
+- [Joshua Love](https://github.com/)
 - [Rosenthol Curtis](https://github.com/305curtis)
 - [fatima awad](https://github.com/fa6oomawad)
 - [tonia seenauth](https://github.com/ToniaSeenauth)
