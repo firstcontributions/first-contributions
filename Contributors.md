@@ -926,6 +926,7 @@ Edison Shek
 - [Pranav Pratap Singh](https://github.com/PranavPratapSingh)
 - [Mauricio Martínez](https://github.com/moudev)
 - [Linh Ta](https://github.com/tangoclinh1995)
+- [Emily Vong](https://github.com/emily-v)
 - [Yves Wienecke](https://github.com/iyves/)
 - [Sharath Shankaran D](https://github.com/sharathsharz26)
 - [Erdal TAŞKESEN](https://github.com/erdtsksn)
