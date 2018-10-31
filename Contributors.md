@@ -14,6 +14,7 @@
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - {daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
+- [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [bshehata](https://github.com/bshehata)
