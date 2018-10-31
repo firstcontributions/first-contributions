@@ -6059,6 +6059,7 @@ Rohan Das
 - [Stefan Strut](https://github.com/StrStefan)
 - [Rohit Kumar](https://github.com/rohitchaudhary701)
 - [Aaron Lee](https://github.com/onlyhope)
+- [Rares Dan Pologea](https://github.com/raresdanpologea)
 - [Enrique Novoa](https://github.com/enriquenov)
 - [Ruchika Salwan](https://github.com/Ruchika8)
 - [Panji Awwaludi D.](https://github.com/PanjiAD)
