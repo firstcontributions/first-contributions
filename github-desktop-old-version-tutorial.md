@@ -19,12 +19,12 @@ If you don't have GitHub Desktop on your machine, [install it](https://desktop.g
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page.
 This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+Now clone this repository to your machine.
 
 Open the GitHub Desktop app and click on the `+` on the top left.
 
@@ -38,7 +38,7 @@ Choose the directory on your machine you would like to clone first-contributions
 
 <img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
-Now you have copied the contents of the first-contributions repository in github to your computer.
+Now you have copied the contents of the first-contributions repository in github to your computer. you have completed your first step
 
 ## Create a branch
 
