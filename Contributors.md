@@ -49,6 +49,7 @@
 - [eroSanyn](https://github.com/eroSanyn)
 - [Aashish Kumar](https://github.com/aashish-ak)
 - [Aman Sharma](https://github.com/AmanSharma123456)
+- [MelanieL](https://github.com/melaniel)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
 - [Natalie Fleming](https://github.com/nataliefleming)
