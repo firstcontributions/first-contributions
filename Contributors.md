@@ -7846,6 +7846,7 @@ Rohan Das
 - [Chetan Khanna](https://github.com/ChetanKhanna)
 - [Andreas Steffensen](https://github.com/Amsteffensen)
 - [Luke R]()
+- [Vedhant Agarwal](https://github.com/vedhant)
 - [Chandra Shekhar Mehta](https://github.com/csmehta)
 - [alegz91](https://github.com/alegz91)
 - [Ali](https://github.com/nestedscope)
