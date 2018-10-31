@@ -3568,6 +3568,7 @@ Bakht Jamal Sukhera
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu?n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
+- [Chid](https://github.com/pvcpre)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
 - [waffles517] (https://github.com/waffles517)
