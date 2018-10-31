@@ -81,6 +81,7 @@
 - wefromstars
 - SenhorN
 - Explorer3991
+- Manish Upadhyaya
  [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
 - [Chris Short](https://github.com/shortc)
