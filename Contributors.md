@@ -8711,6 +8711,7 @@ Rohan Das
 - [Leandro Geminale](https://github.com/Deolink)
 - [Viktor Black](https://github.com/korki-ayo)
 - [Rafal Rudko](https://github.com/kegriz)
+- [Adarsh Dwivedi](https://github.com/adarshd8)
 - [Markus Petersson](https://github.com/marpe163)
 - [Anh T Nguyen](https://github.com/shin2903)
 - [Nemohack](https://github.com/nemohack)
