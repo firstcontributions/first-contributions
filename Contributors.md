@@ -848,6 +848,7 @@ Edison Shek
 - [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
+- [Andrey Kamozin aka JaffParker](https://github.com/jaffParker/)
 - [Ellen] (https://github.com/schmellz)
 - [Vrashi Shrivastava](https://github.com/vrashi)
 - [Adam Luczak](https://github.com/aluczak)
