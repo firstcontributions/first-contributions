@@ -3538,6 +3538,7 @@ Bakht Jamal Sukhera
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
 - [waffles517] (https://github.com/waffles517)
+- [Ian Wolterstorff](https://github.com/iwolterstorff)
 - [Julie Buma](https://github.com/JBuma)
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
