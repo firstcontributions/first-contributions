@@ -8993,7 +8993,8 @@ Rohan Das
 - [Derek Zhang](https://github.com/fillorkill)
 - Benzene
 - [Khrinx](https://github.com/khrinx)
-- [reecer62] (https://github.com/reecer62)
+- [reecer62](https://github.com/reecer62)
+- [George Matthew](https://github.com/gmatthew1141)
 - [Alan Nunes](https://github.com/AlanNunes)
 - [besong23](https://github.com/besong23)
 - [PANKAJ KU CHOUHAN](https://github.com/pankaj189)
