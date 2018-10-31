@@ -42,14 +42,14 @@ git clone https://github.com/seu-usuario/first-contributions.git
 ```
 onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
-## Crie um Branch
+## Crie uma Branch
 
 Vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`:
+Agora crie uma Branch usando o comando `git checkout`:
 ```
 git checkout -b <add-seu-nome>
 ```
@@ -58,7 +58,7 @@ Por exemplo:
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
+Obs.: O nome da Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade desta Branch é a de adicionar o seu nome a uma lista.
 
 ## Efetue as alterações necessárias e faça um Commit
 
@@ -66,7 +66,7 @@ Agora abra o arquivo `Contributors.md` em seu editor de código, adicione o seu 
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações ao Branch que você acabou de criar utilizando o comando `git add`:
+Se você for para o diretório do projeto e executar o comando `git status`, verá que há alterações. Adicione essas alterações a Branch que você acabou de criar utilizando o comando `git add`:
 ```
 git add Contributors.md
 ```
@@ -82,7 +82,7 @@ Faça um Push utilizando o comando `git push`:
 ```
 git push origin <add-seu-nome>
 ```
-substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
+substituindo `<add-seu-nome>` pelo nome da Branch que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -94,7 +94,7 @@ Agora envie um Pull Request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
-Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
+Logo estarei mesclando ('mergeando') as suas mudanças na Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 
