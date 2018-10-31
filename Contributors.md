@@ -419,6 +419,7 @@ Arnel Forbes
 - [Dheyay Desai] (https://github.com/ddcr7)
 aalbusoiu
 - [Mario Jones Vimal](https://github.com/JMJV)
+ [saman K.](https://github.com/sndruek)
 - [Sandalu](https://github.com/sandalu)
 - [codeeachday](https://github.com/codeeachday)
 - [nic from van](https://github.com/nicohouillon)
