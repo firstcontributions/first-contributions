@@ -65,6 +65,7 @@
 - [MelanieL](https://github.com/melaniel)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
+- [Shobhit](https://github.com/100-bit)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Arohan](https://github.com/arohan007)
 - [Ladson G](https://github.com/ladsong)
