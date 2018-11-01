@@ -31,6 +31,7 @@
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
 - [morg0n](https://github.com/morg0n)
+- [Ayush Goyal](https://github.com/ayushg162)
 - [DipakYDV](https://github.com/DeepakYDV/)
 - [paulambanks](https://github.com/paulambanks/)
 - [Flavio Wuensche](https://github.com/fwuensche)
