@@ -297,6 +297,7 @@
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
 - [Mike Allen](https://github.com/mallenjr)
+- [Stan Smoczyk](https://github.com/stansmoczyk)
 - [JanellAmely](https://github.com/3CatMax)
 - [Pusakiller](https://github.com/Pusakiller)
 - [nightrainlily](https://github.com/nightrainlily)
