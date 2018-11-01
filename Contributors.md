@@ -8712,6 +8712,7 @@ Rohan Das
 - [Nelson Chinedu](https://github.com/Nelson-Chinedu)
 - [Pakornsak](https://github.com/pakornsak)
 - [Jamie Rodriguez](https://github.com/Jamie705)
+- [Larry Coun](https://github.com/awesome-coun)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
@@ -10003,4 +10004,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Larry Coun](https://github.com/awesome-coun)
