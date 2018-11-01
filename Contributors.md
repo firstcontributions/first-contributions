@@ -9524,6 +9524,7 @@ Rohan Das
 - [tehmantra](https://github.com/tehmantra)
 - [Abhinav Kaushlya](https://github.com/abhishalya)
 - [Michael Moser](http://github.com/moser96)
+- [Kuldeep Kumar](https://github.com/k2kuldeep)
 - [Angga Dwi Arifandi](http://github.com/blackmenthor)
 - [Martina Šafarić](https://github.com/msafaric)
 - [Knatas](https://github.com/knatas)
