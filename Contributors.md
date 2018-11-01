@@ -48,6 +48,7 @@
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
 - [Joshua Love](https://github.com/)
+- [Jadon Orr](https://github.com/jadonOrr)
 - [Rosenthol Curtis](https://github.com/305curtis)
 - [fatima awad](https://github.com/fa6oomawad)
 - [tonia seenauth](https://github.com/ToniaSeenauth)
