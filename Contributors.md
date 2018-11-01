@@ -30,6 +30,7 @@
 - [morg0n](https://github.com/morg0n)
 - [DipakYDV](https://github.com/DeepakYDV/)
 - [paulambanks](https://github.com/paulambanks/)
+- [VinayakR](https://github.com/vinayak519/)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Sandeep Pandey](https://github.com/Codextor)
