@@ -9201,7 +9201,6 @@ Rohan Das
 - [Henry](https://github.com/Henry6612700)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
-- [Lucca Leao](https://github.com/lucca-leao)
 - [Hassani King Senior](https://github.com/HKSenior)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
 - [Mike Tabola](https://github.com/r00tm4k3r)
@@ -10116,3 +10115,4 @@ Rohan Das
 - [Karthikeyan Rajendran](https://github.com/vrkarthik)
 - [Paul Shen](https://github.com/ShenPaul)
 - [TotalAMD](https://github.com/totalamd)
+- [Shrey A.](https://github.com/shreystechtips)
