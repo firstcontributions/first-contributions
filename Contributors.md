@@ -8794,6 +8794,7 @@ Rohan Das
 - [Nelson Chinedu](https://github.com/Nelson-Chinedu)
 - [Pakornsak](https://github.com/pakornsak)
 - [Jamie Rodriguez](https://github.com/Jamie705)
+- [Larry Coun](https://github.com/awesome-coun)
 - [Maciej Kietlinski](https://github.com/MKietlinski)
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
