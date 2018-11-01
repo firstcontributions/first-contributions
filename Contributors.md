@@ -9501,6 +9501,7 @@ Rohan Das
 - [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
 - [Anders Latif](https://github.com/anderslatif)
 - [Anh N. Nguyen](https://github.com/leptepkt)
+- [Yun-Ping Du](https://github.com/yunpingdu)
 - [Mitch Greene](https://github.com/gitGreene)
 - [Willy Chen](https://github.com/WillyChen123)
 - [Eryk Lupa](https://github.com/vistafan12)
