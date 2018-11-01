@@ -9447,6 +9447,7 @@ Rohan Das
 - [Tom Lynch](https://github.com/LNCH)
 - [Marián Varaga](https://github.com/mvaraga)
 - [Michael Hahn](https://github.com/Sp0rTB4cK)
+- [Deepa Sajani J](https://github.com/deepasaj)
 - [bartekde](http://github.com/bartekde)
 - [Paulo Victor](https://github.com/pulho)
 - [Harish Ranganathan](https://github.com/harishr1308)
@@ -10002,6 +10003,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Deepa Sajani J](https://github.com/deepasaj)
 - [Malintha Kumarage](https://github.com/malintha90)]
