@@ -10094,4 +10094,5 @@ quattad
 - [misha](https://github.com/msha833)
 - [Nathan](https://github.com/mutedajar)
 - [Vinicius Min Soo](https://github.com/vinnimin)
+- [Karthikeyan Rajendran](https://github.com/vrkarthik)
 - [Paul Shen](https://github.com/ShenPaul)
