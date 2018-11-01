@@ -1680,6 +1680,7 @@ Edison Shek
 - [Dhyey B 04](https://github.com/dhyeyb04)
 - [Erin Bugbee](https://github.com/erinbugbee)
 - [Ashok Singh](https://github.com/XLAR-8)
+- [Inferno 49](https://github.com/inferno49)
 - [Sahil Aggarwal](https://github.com/sagg155)
 - [Jakub Krzus](https://github.com/jakrzus)
 - [Science Saint](https://github.com/ScienceSaint)
