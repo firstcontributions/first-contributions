@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Leikaderp](https://github.com/Leikaderp)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -547,7 +546,8 @@ aalbusoiu
 - [Kelvin Romero](https://github.com/kelvinromero)
 - [Kalana Wijethunga](https://github.com/kelvinromero)
 - [Kirk Clemons](https://github.com/kcclemo)
-- [Thomas Abbott] (https://github.com/abbotttp)
+- [Thomas Abbott](https://github.com/abbotttp)
+- [Leikaderp](https://github.com/Leikaderp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Neelakanta Gouda Patil](https://github.com/NEELAKANTAGOUDAPATIL)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
