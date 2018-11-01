@@ -2,6 +2,7 @@
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Kevin Dunne] (https://github.com/sdevkev)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
+- [Simon Plaistowe](https://github.com/plaistos)
 - [Timothy](https://github.com/timtop)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
