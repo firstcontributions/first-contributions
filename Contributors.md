@@ -34,6 +34,7 @@
 - [Ayush Goyal](https://github.com/ayushg162)
 - [DipakYDV](https://github.com/DeepakYDV/)
 - [paulambanks](https://github.com/paulambanks/)
+- [VinayakR](https://github.com/vinayak519/)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Sandeep Pandey](https://github.com/Codextor)
