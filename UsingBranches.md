@@ -1,0 +1,5 @@
+One of the more common issues faced when multiple developers work collectively on a single application is that they often times overwrite each other's code, or, have a lot of redundant or repetitive lines or code. In these cases, it becomes important for each developer to ensure that their individual bits of code are all kept separate before they all get merged into the master application. 
+
+The way to solve this issue and make sure there are no conflicts between multiple developers is to implement the use of branching in the project's workflow. This allows developers to work on individual branches of the application in a development environment and avoid the potential chaos of having everyone mess with data in the master application. 
+
+Using branches in the git workflow also supports better code; having to get each branch reviewed before via PR request gets multiple eyes on any one developer's code. Using branches also allows developers to work on specific features if needed; one developer may work on the javascript in an application file, another may work on restructuring the CSS, and another may work on reconfiguring the 'routes' or database files. 
