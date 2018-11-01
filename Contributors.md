@@ -9,6 +9,7 @@
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
+- [Ajmal Hassan](https://github.com/ajmalhassan)
 - [James Rose](http://github.com/james-rose)
 - [Brandon Wozniewicz](https://github.com/brandonwoz)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
