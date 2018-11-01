@@ -7104,6 +7104,7 @@ Rohan Das
 - [Patrick Peters](https://github.com/ppeters0502)
 - [Colten Webb](https://github.com/coltenwebb)
 - [Miriam Crowley](https://github.com/msperlgirl)
+- [Michael Ruth](https://github.com/rubbersidedown)
 - [Ronan Ruth](https://github.com/Ronan998)
 - [Todd Hoffman](https://github.com/toddahoffman)
 - [Abhimanyu Bishnoi](https://github.com/abhimanyu2918)
