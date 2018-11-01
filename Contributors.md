@@ -5385,6 +5385,7 @@ Rohan Das
 - [Olga Rose](https://github.com/olgarose)
 - [Tom Fattah](https://github.com/t-fa)
 - [Erlinis Quintana](https://github.com/erlinis)
+- [Scumpser](https://github.com/djay2815)
 - [Messiah](https://github.com/Messiahhh)
 - [Scott](https://github.com/underwaterlad)
 - [Dan](https://github.com/Daruso)
