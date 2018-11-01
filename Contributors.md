@@ -8650,6 +8650,7 @@ Rohan Das
 - [James](https://github.com/jrandj)
 - [Daniel Stoinov](https://github.com/ctmnz)
 - [kzhrk](https://github.com/kzhrk)
+- [Saurabh](https://github.com/saurabh589)
 - [David Soto](https://github.com/DavidSotoA)
 - [Ines Benomar](https://github.com/inesbenomar18)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
@@ -10058,4 +10059,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Saurabh](https://github.com/saurabh589)]
