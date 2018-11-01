@@ -3065,6 +3065,7 @@ Bakht Jamal Sukhera
 - [clinton wambugu](https://github.com/kwambugu)
 - [Kunal Khanwalkar](https://github.com/Kunal-khanwalkar)
 - [Param Gupta](https://github.com/paramgupta107)
+- [Sterling Perry](https://github.com/SterlingPerry)
 - [aRNAS aMANKAVICIUS](HTTPS://GITHUB.COM/deemoKittyKat)
 - [Phil Smeby](https://github.com/smoothdude11)
 - [Arnas Amankavicius](https://github.com/DeemoKittyKat)
