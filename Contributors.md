@@ -8,6 +8,7 @@
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
+- [Rishabh Shukla](https://github.com/bazinga25)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [Ajmal Hassan](https://github.com/ajmalhassan)
 - [James Rose](http://github.com/james-rose)
