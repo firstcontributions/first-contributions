@@ -4016,6 +4016,7 @@ Tanishq Gupta
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Krati Mittal](https://github.com/krati13)
+- [Kaisma Penn-Titley](https://github.com/bviengineer)
 - [Marianne Hval](https://github.com/mahval)
 - [Krati Mittal](https://github.com/krati13)
 - [ekrempel](https://github.com/ekrempel)
