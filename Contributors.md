@@ -10096,3 +10096,4 @@ quattad
 - [Vinicius Min Soo](https://github.com/vinnimin)
 - [Karthikeyan Rajendran](https://github.com/vrkarthik)
 - [Paul Shen](https://github.com/ShenPaul)
+- [TotalAMD](https://github.com/totalamd)
