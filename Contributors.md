@@ -9367,6 +9367,7 @@ Rohan Das
 - [Yang Wang](https://github.com/GH2005/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Vijoy Gopalan](https://github.com/vijoyg )
+- [Mitchell Klein](https://github.com/mitchell931993)
 - [Max Taylor](https://github.com/twally3)
 - [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
