@@ -10129,4 +10129,5 @@ Rohan Das
 - [Gilg4mesh](https://github.com/Gilg4mesh)
 - [sripriya]
 - [conorg763]
+- [Mircea Bruma](https://github.com/bmakos)
 [mcc346](https://github.com/mcc346)
