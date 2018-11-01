@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Akram Khan](https://github.com/akram02)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Kevin Dunne] (https://github.com/sdevkev)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
