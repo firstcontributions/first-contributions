@@ -10093,3 +10093,4 @@ quattad
 - [Bimla Khosla](https://github.com/bimlakhosla)
 - [misha](https://github.com/msha833)
 - [Nathan](https://github.com/mutedajar)
+- [Kyle](https://github.com/weliketocode)
