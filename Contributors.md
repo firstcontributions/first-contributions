@@ -64,6 +64,7 @@
 - [tonia seenauth](https://github.com/ToniaSeenauth)
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
+- [Dimitri McDaniel](https://github.com/ibmiti)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Kush Parmar](https://github.com/igneel73)
 - [dpcavalcanti](https://github.com/dpcavalcanti)
