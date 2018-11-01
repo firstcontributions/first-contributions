@@ -388,6 +388,7 @@ Santanu
 - [Arnastria](https://github.com/arnastria)
 - [Sasho Irkov](https://github.com/2121159i)
 - JOON JANG JOON JANG
+- [Victor Hsiang](https://github.com/bigvictorh)
 - Jarett Chaiken
 - [Jeet Maity](https://github.com/jeet-maity)
 - [Siddharth Gusain](https://github.com/siddharth-gusain)
