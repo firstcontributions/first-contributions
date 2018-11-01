@@ -4,6 +4,7 @@
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Simon Plaistowe](https://github.com/plaistos)
 - [Timothy](https://github.com/timtop)
+- [Jack Holsgrove)(https://github.com/jackholsgrove)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
