@@ -4078,7 +4078,7 @@ Tanishq Gupta
 - [Shade Ruangwan](https://github.com/sruangwan)
 - [Ania Brajtkopf](https://github.com/anya92)
 - [AlphaSoldier](https://github.com/AlphaSoldier)
-- [Adeyinka Precious](https://github.com/precious-adeyinka)
+- [Precious Adeyinka](https://github.com/precious-adeyinka)
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Narinder Pal](https://github.com/np-singh)
