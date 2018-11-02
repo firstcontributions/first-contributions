@@ -10,6 +10,7 @@
 - [Timothy](https://github.com/timtop)
 - [Richard Sachek](https://github.com/rsachek)
 - [Jack Holsgrove)(https://github.com/jackholsgrove)
+- [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
