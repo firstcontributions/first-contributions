@@ -2666,6 +2666,7 @@ Bakht Jamal Sukhera
 - [Masih Tamsoy](https://github.com/masihtamsoy)
 - [Jose Berrio](https://github.com/aldarisbm)
 - [Sheetal](https://github.com/sheetalpsl)
+- [Goutham](https://github.com/gouthamkn)
 - [Ectras](https://github.com/Ectras)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [GlacierLollipop](https://github.com/glacierlollipop)
