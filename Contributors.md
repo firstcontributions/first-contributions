@@ -8,6 +8,7 @@
 - [Simon Plaistowe](https://github.com/plaistos)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
+- [Richard Sachek](https://github.com/rsachek)
 - [Jack Holsgrove)(https://github.com/jackholsgrove)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
