@@ -6,6 +6,7 @@
 - [Kevin Dunne] (https://github.com/sdevkev)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Simon Plaistowe](https://github.com/plaistos)
+- [Scot Newbury](https://github.com/scotnewbury)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
 - [Richard Sachek](https://github.com/rsachek)
