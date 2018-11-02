@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Akram Khan](https://github.com/akram02)
 - [Suraj Branwal](https://github.com/brandier-jd)
@@ -1513,6 +1513,7 @@ Edison Shek
 - [Sahil Dhawan](https://github.com/Sahil-Dhawan)
 - [Raxalon](https://github.com/raxalon)
 - [Tyrone Damasceno](https://github.com/tyronedamasceno)
+- [Kevin Gasca](https://github.com/GascaK)
 - [Mahmoud Anwar](https://github.com/mamoanwar)
 - [Egor Gorunovich](https://github.com/titanolodon)
 - [tweekes1](https://github.com/tweekes1)
