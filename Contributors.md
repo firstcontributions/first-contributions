@@ -57,6 +57,7 @@
 - Jason
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
+- [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
 - [Jadon Orr](https://github.com/jadonOrr)
 - [Rosenthol Curtis](https://github.com/305curtis)
