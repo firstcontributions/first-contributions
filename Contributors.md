@@ -546,6 +546,7 @@ aalbusoiu
 - [Nolan Van Hell](https://github.com/nolanvh)
 - [Chris Fotso](https://github.com/chrisfotso)
 - [mandomat](https://github.com/mandomat)
+- [msl40](https://github.com/msl40)
 - [Suman Saurabh](https://github.com/sumanssaurabh)
 - [Sachin Kumar](https://github.com/hijacker5)
 - [Matthew Shelbourn](https://github.com/shelbourn)
