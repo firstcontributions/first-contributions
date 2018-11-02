@@ -5791,6 +5791,7 @@ Rohan Das
 - [Vinicius Costa](https://github.com/viniciuscrw)
 - [Taylor Morris](https://github.com/taylorhmorris)
 - [Spiros H](https://github.com/programmmerr)
+- [Erik Andersson](https://github.com/Einarito)
 - [Alja? ?krinjar](https://github.com/aljazskrinjar)
 - [Matteo Pipitone](https://github.com/crakdelpol)
 - [Jared Parker](https://github.com/VIISilver)
