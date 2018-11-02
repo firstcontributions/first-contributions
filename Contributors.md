@@ -4239,6 +4239,7 @@ Tanishq Gupta
 - [Thinesh Vasee] (https://github.com/Thinesh-19)
 - [Metas Kerdwat](https://github.com/oakkub)
 - [Katy Duncan](https://github.com/katyduncan)
+- [Laba Kumar Deka](https://github.com/kuxha)
 - [Yen Hoang Le](https://github.com/LeHoangYen)
 - [Srabani Paikray](https://github.com/Srabanipaikray)
 - [subhamtandon](https://github.com/subhamtandon)
