@@ -92,6 +92,7 @@
 - [Shobhit](https://github.com/100-bit)
 - [Leah Joyce](https://github.com/leahpjoyce)
 - [Natalie Fleming](https://github.com/nataliefleming)
+- [Lewis Saunders](https://github.com/LS901)
 - [Arohan](https://github.com/arohan007)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
