@@ -22,6 +22,7 @@
 - [Oytun Tutuncu](https://github.com/oytuntutun)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [Anushree](https://github.com/anushree816)
+- [Sitryk](https://github.com/Sitryk)
 - [Rishabh Shukla](https://github.com/bazinga25)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [Ajmal Hassan](https://github.com/ajmalhassan)
