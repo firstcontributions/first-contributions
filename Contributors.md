@@ -3909,6 +3909,7 @@ Bakht Jamal Sukhera
 - [Karanbir Singh](https://github.com/karanbirsingh99)
 Tanishq Gupta
 - [Arjun Agarwal](https://github.com/a-agrwaal)
+- [Brad Cooley](https://github.com/brad-cooley)
 - [Anirudh Mukherjee](https://github.com/AnirudhMukherjee)
 - [Harsh Shah](https://github.com/harshcrop)
 - [Juan Jimenez](https://github.com/PurgePJ)
