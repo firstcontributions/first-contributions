@@ -9810,6 +9810,7 @@ Rohan Das
 - [Dzung Le](https://github.com/dzunglt24)
 - [Kha Yuen Kam](https://github.com/khayuenkam)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
+- [David Wu](https://github.com/AmethystProductions)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia](https://github.com/Exvilia)
 - [Matheus Bernardes](https://github.com/mbernardes19)
@@ -10164,10 +10165,10 @@ Rohan Das
 - [Paul Shen](https://github.com/ShenPaul)
 - [TotalAMD](https://github.com/totalamd)
 - [Gilg4mesh](https://github.com/Gilg4mesh)
-- [sripriya]
-- [conorg763]
+- [sripriya]()
+- [conorg763]()
 - [Akos](https://github.com/bmakos)
-[mcc346](https://github.com/mcc346)
+- [mcc346](https://github.com/mcc346)
 - [marvinHubLook](https://github.com/marvinHubLook)
 - [Kim MinSu](https://gitub.com/alstn2468)
 - [Tyler Kelley](https://github.com/tykelley)
