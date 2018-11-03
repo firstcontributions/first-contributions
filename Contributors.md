@@ -9635,6 +9635,7 @@ Rohan Das
 - [Abhishek Singh](https://github.com/razerboygrim)
 - [Jan Kläger](https://github.com/janklaeger)
 - [Simrann Arora](https://github.com/simrann20)
+- [Yash Datta](https://github.com/saucam)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Erez](https://github.com/ErezSchwartz)
