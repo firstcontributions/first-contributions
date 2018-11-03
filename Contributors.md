@@ -9485,6 +9485,7 @@ Rohan Das
 - [Ankush Mehta](https://github.com/hsukna/)
 - [Harrison Broadbent](https://github.com/harrison-broadbent)
 - [Umesh Pandey](https://github.com/umeshpandey994)
+- [Pavel Balmasov](https://github.com/pbalmasov)
 - [Vikas Nautiyal](https://github.com/vikasnautiyal)
 - [Sayak Naskar](https://github.com/hacky1997)
 - [Sri Pravan](https://github.com/pravan)
