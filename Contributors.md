@@ -10,6 +10,7 @@
 - [Scot Newbury](https://github.com/scotnewbury)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
+- [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [Jack Holsgrove)(https://github.com/jackholsgrove)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
