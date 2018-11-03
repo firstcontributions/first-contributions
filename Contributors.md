@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Archit Khode](https://github.com/ArKits)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -1547,6 +1546,7 @@ Edison Shek
 - [Ajay](https://github.com/ajay)
 - [dsannad](https://github.com/dsannad)
 - [JLeneau](https://github.com/JLeneau)
+- [Archit Khode](https://github.com/ArKits)
 - [Ajugwo Timothy](https://github.com/Timorex)
 - [Wesley Clements](https://github.com/WesleyClements)
 - [Rafael Framil](https://github.com/raframil)
