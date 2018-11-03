@@ -9731,6 +9731,7 @@ Rohan Das
 - [Matheus Bernardes](https://github.com/mbernardes19)
 - [Matt Murphy](https://github.com/MattMurphyDev)
 - [DonnyCraft1](https://github.com/DonnyCraft1)
+- [Vaibhav Kadwey](https://github.com/vaibhavkadwey)
 - [Ramitha](https://github.com/ramiiZPD)
 - [Paulo Gonçalves](https://github.com/prpgleto)
 - [Masaya Hayashi](https://github.com/masa52cards)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Vaibhav Kadwey](https://github.com/vaibhavkadwey)
