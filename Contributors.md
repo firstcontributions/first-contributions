@@ -199,6 +199,7 @@
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
 - [MrHritik](https://github.com/Hritik14)
+- [Jody Swartz](https://github.com/jodyswartz)
 - [C Barringhaus] (https://github.com/cheriesyb)
 - [Cooper Pierce] (https://github.com/kopecs)
 - Aileen J
