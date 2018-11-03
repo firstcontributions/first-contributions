@@ -9667,6 +9667,7 @@ Rohan Das
 - [Dzung Le](https://github.com/dzunglt24)
 - [Kha Yuen Kam](https://github.com/khayuenkam)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
+- [David Wu](https://github.com/AmethystProductions)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia](https://github.com/Exvilia)
 - [Matheus Bernardes](https://github.com/mbernardes19)
@@ -10003,4 +10004,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [David Wu](https://github.com/AmethystProductions)
