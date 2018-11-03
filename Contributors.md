@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
@@ -10144,6 +10144,7 @@ Rohan Das
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
+- [Jo Asun](https://github.com/joasun)
 - [Vitor Campos Ferreira](https://github.com/vcamferreira)
 - [Bimla Khosla](https://github.com/bimlakhosla)
 - [misha](https://github.com/msha833)
