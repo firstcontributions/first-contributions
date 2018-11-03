@@ -9431,6 +9431,7 @@ Rohan Das
 - [Nayan Das](https://github.com/Nayan-Das)
 - [Richard Huang](https://github.com/aeolyus)
 - [Thanawit Gerdprasert](https://github.com/carymono)
+- [Peradon Charoenchainetr](https://github.com/Peradon)
 - [Jochen Kläger](https://github.com/jochen-klaeger)
 - [Filippo Finke](https://github.com/filippofinke)
 - [Satkar Dhakal](https://github.com/satcar77)
@@ -10003,4 +10004,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Peradon Charoenchainetr](https://github.com/Peradon)
