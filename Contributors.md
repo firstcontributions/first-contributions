@@ -8654,6 +8654,7 @@ Rohan Das
 - [Markus Petersson](https://github.com/marpe163)
 - [Anh T Nguyen](https://github.com/shin2903)
 - [Nemohack](https://github.com/nemohack)
+- [Ammar Saefurrohman](https://github.com/ammarsr)
 - [Saumya Wardhan](https://github.com/swardhan)
 - [Sreelakshmi Sudey](https://github.com/sreesudey)
 - [Arka Saha](https://github.com/ArkaJU)
@@ -10003,4 +10004,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Ammar Saefurrohman](https://github.com/ammarsr)
