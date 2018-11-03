@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Prashant Kumar](https://github.com/undercoveruss)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -832,6 +831,7 @@ Edison Shek
 - [Sonam Chhogye](https://github.com/schhogyel)
 - [Amy Lei](https://github.com/AmyLei96)
 - [Abhishek Verma](https://github.com/lightningedge007a)
+- [Prashant Kumar](https://github.com/undercoveruss)
 - [Naman Goyal](https://github.com/namangoyal172)
 - [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
