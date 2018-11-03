@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
@@ -10163,3 +10163,4 @@ Rohan Das
 - [Kim MinSu](https://gitub.com/alstn2468)
 - [Tyler Kelley](https://github.com/tykelley)
 - [Ryan Haire](https://github.com/ryanhaire)
+- [Melissa Sorrells](https://gihub.com/msorre2)
