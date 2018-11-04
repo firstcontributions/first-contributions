@@ -1,5 +1,6 @@
 # Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
+- [Sarah Phillips] (https://github.com/snphillips)
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
