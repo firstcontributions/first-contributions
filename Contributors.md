@@ -597,6 +597,7 @@ aalbusoiu
 - [Utkarsh](https://github.com/Knight1997)
 - [lanh lanh](https://github.com/Lanhbao)
 - [Raman Singh](https://github.com/ramansingh189)
+- [Jessica Prim](https://github.com/jessprim)
 - [Evaldas Suraucius] (https://github.com/Evaldas22)
 - [Nicolas Santos](https://github.com/nsantos16)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
