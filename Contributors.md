@@ -6983,6 +6983,7 @@ Rohan Das
 - [colsch](https://github.com/colsch)
 - [Carl Öst Wilkens](https://github.com/ostwilkens)
 - [Gabriel Silva](https://github.com/gsmatos)
+- [Geronimo Woolsey] (https://github.com/woolsey2316)
 - [Jo P.](https://github.com/jomustech)
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
