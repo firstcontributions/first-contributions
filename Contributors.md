@@ -574,6 +574,7 @@ aalbusoiu
 - [Marius Maries](https://github.com/mariuscm)
 - [Roshan Tamil Sellvan](https://github.com/roshan92)
 - [Gav Hanna](https://github.com/gavhanna)
+- [Will Costello](https://github.com/wgcostello)
 - [Christian Becker](https://github.com/Mikrotherion)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Carlos](https://github.com/carlsrenatoh)
