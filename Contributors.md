@@ -10161,6 +10161,7 @@ Rohan Das
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Axel Niklasson](https://github.com/axelniklasson)
+- [maciej simka](https://github.com/maciejsimka)
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
