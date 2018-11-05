@@ -24,6 +24,7 @@
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Oytun Tutuncu](https://github.com/oytuntutun)
 - [Pedro Telleria](https://github.com/guerrerocing)
+- [emperorjnx](https://github.com/emperorjnx)
 - [Anushree](https://github.com/anushree816)
 - [Sitryk](https://github.com/Sitryk)
 - [Rishabh Shukla](https://github.com/bazinga25)
