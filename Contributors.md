@@ -14,6 +14,7 @@
 - [Timothy](https://github.com/timtop)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
+- [Emily Yang] (https://github.com/emilyyz92)
 - [Jack Holsgrove](https://github.com/jackholsgrove)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
