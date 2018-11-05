@@ -8213,6 +8213,7 @@ Rohan Das
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell](https://github.com/connordovell)
 - [Yash Patil](https://https://github.com/ypatil12)
+- [Errazudin](https://github.com/errazudin)
 - [Will Torres](https://github.com/gtrstr)
 - [Yujin Takayanagi](https://github.com/ytakayanagi)
 - [RaviTejaKomma](https://github.com/RaviTejaKomma)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Errazudin] (https://github.com/errazudin)]
