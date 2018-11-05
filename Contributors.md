@@ -162,6 +162,7 @@
 - [Lincoln Costa](https://github.com/tekpixo)
 - [Lauren Wright](https://github.com/laurenewright)
 - [Shailendra Paliwal](https://github.com/vcidst)
+- [Declan McDonough](https:github.com/deckymcdonough)
 - Jesse
 - Hackerrrr
 - Gordon
