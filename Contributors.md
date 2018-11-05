@@ -8925,6 +8925,7 @@ Rohan Das
 - [Iurii Didkovskyi](https://github.com/hichnik/)
 - [Robert McHugh](https://github.com/RobMcHugh/)
 - [Yena Park](https://github.com/Yena-Park)
+- [Panusitt Khuenkham](https://github.com/bamossza)
 - [Ryan Robidou](https://github.com/emunin)
 - [Jordan Ballinger](https://github.com/jordballinger)
 - [Sultan Imam Muttaqin](https://github.com/kilamieaz)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Panusitt Khuenkham](https://github.com/bamossza)]
