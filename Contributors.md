@@ -9302,6 +9302,7 @@ Anthony Stannard
 - [Daniel Chapin](https://github.com/kokomoko8)
 - [Jaydeep Eraniya](https://github.com/Jaydeep1617)
 - [Nipun Dayanath](https://github.com/nipund)
+- [rohanmachan](https://github.com/rohanmachan)
 - [M Rizal](https://github.com/hardzal)
 - [Rochelle Ilustre](https://github.com/rochelleilustre2)
 - [MatheusAmelco](https://github.com/MatheusAmelco)
