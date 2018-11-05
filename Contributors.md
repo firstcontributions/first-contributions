@@ -37,6 +37,7 @@
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
+- [sonodew](https://github.com/sonodew)
 - [bshehata](https://github.com/bshehata)
 - [Harish_Kumar](https://github.com/hkxxx843)
 - [Tempor](https://github.com/temporaryacconunt)
