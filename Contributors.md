@@ -9648,6 +9648,7 @@ Rohan Das
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
+- [Shubham](https://github.com/officalshubhamrawal)
 - [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
 - [Muchtarruddin](https://github.com/muchtarruddin)
@@ -10067,5 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Shubham](https://github.com/officalshubhamrawal)
-]
