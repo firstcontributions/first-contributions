@@ -9236,6 +9236,7 @@ Rohan Das
 - [Nikhil Joshi](https://github.com/diehard-coder)
 - [Sandun](https://github.com/sandunwebdev)
 - [Giancarlo Giuffra Moncayo](https://github.com/giancarloGiuffra)
+- [Shivam Mittal](https://github.com/ShadowXtr)
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore](https://github.com/Angelfirenze01)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Shivam Mittal](https://github.com/ShadowXtr)
