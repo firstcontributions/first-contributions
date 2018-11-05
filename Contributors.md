@@ -10203,6 +10203,7 @@ Anthony Stannard
 - [TotalAMD](https://github.com/totalamd)
 - [Gilg4mesh](https://github.com/Gilg4mesh)
 - [firstcontribuiton]()
+- [Malin] (https://github.com/maltja)
 - [sripriya]()
 - [AnveshanLal](https://github.com/AnveshanLal)
 - [conorg763]()
