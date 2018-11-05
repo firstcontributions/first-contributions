@@ -49,6 +49,7 @@
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
+- [Elena Mokeeva](https://github.com/ryzheboka)
 - [morg0n](https://github.com/morg0n)
 - [Ayush Goyal](https://github.com/ayushg162)
 - [DipakYDV](https://github.com/DeepakYDV/)
