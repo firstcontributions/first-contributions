@@ -9659,6 +9659,7 @@ Anthony Stannard
 - [aswathikb](https://github.com/aswathikb)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
+- [Waun Broderick](https://github.com/WaunBroderick)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Ngan Khanh](https://github.com/ngankhanh98)
 - [Bruno Silva](https://github.com/slauzinho)
