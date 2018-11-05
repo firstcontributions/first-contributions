@@ -9213,6 +9213,7 @@ Rohan Das
 - [Daniel Chapin](https://github.com/kokomoko8)
 - [Jaydeep Eraniya](https://github.com/Jaydeep1617)
 - [Nipun Dayanath](https://github.com/nipund)
+- [rohanmachan](https://github.com/rohanmachan)
 - [M Rizal](https://github.com/hardzal)
 - [Rochelle Ilustre](https://github.com/rochelleilustre2)
 - [MatheusAmelco](https://github.com/MatheusAmelco)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [rohanmachan](https://github.com/rohanmachan]
