@@ -8542,6 +8542,7 @@ Rohan Das
 - [Michael Nader](https://github.com/Nader7)
 - [Min Lee](https://github.com/Minho-Lee)
 - [Chikwado Emmanuel](https://github.com/quado2)
+- [Timo van Dooremaal](https://github.com/Timo21)
 - [Kamal Kal](https://github.com/Tradingcoder)
 - [Vidushi](https://github.com/vidushi04)
 - [Jacob Garcia](https://github.com/janikgar)
