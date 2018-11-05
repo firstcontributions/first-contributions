@@ -9553,6 +9553,7 @@ Rohan Das
 - [aswathikb](https://github.com/aswathikb)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
+- [Waun Broderick](https://github.com/WaunBroderick)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Ngan Khanh](https://github.com/ngankhanh98)
 - [Bruno Silva](https://github.com/slauzinho)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Waun Broderick](https://github.com/WaunBroderick)
