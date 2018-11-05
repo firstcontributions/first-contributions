@@ -18,6 +18,7 @@
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Michał Warda](https://github.com/michalwarda)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Oytun Tutuncu](https://github.com/oytuntutun)
