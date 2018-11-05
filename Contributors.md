@@ -4463,6 +4463,7 @@ Tanishq Gupta
 - [Galleria](https://github.com/Galleria)
 - [Fabio Leardini](https://github.com/fabioleardini)
 - [Kirill Motkov](https://github.com/sosiska)
+- [Kevin Asuncion] (https://github.com/KevinAsuncion)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
 - [dimali dissanayake](https://github.com/dimalik98)
 - [masta-bhawk](https://github.com/masta-bhawk)
@@ -10190,3 +10191,4 @@ Rohan Das
 - [Melissa Sorrells](https://gihub.com/msorre2)
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
+
