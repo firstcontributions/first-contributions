@@ -10220,3 +10220,4 @@ Anthony Stannard
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
 - [Manbro] (https://github.com/Manbro)
+- [Hannes Schmid](https://github.com/schmidhannes)
