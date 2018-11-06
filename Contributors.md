@@ -10241,3 +10241,4 @@ Anthony Stannard
 - [cookie](https://github.com/javaart)
 - [minorsa]
 - [Ben Caneba](https://github.com/bcan001)
+- [Trent Mauney](https://github.com/tmauney1)
