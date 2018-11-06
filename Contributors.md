@@ -14,6 +14,7 @@
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
 - [Ethan](https://github.com/EthanVieira)
+- [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Aswin Nair] (https://github.com/aswintorch)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
