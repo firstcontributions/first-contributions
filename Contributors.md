@@ -9445,6 +9445,7 @@ Anthony Stannard
 - [Ashwin.C.V](http://github.com/ashwincv)
 - [Eraldo Jr](http://github.com/ejr004)
 - [Jolaoso Yusuf](https://github.com/MaestroJolly/)
+- [Lucas Aguiar](https://github.com/Aguiar16)
 - [Andrew Pedersen](https://github.com/andimalfresh/)
 - [gorkemkrdmn](https://github.com/gorkemkrdmn)
 - [Leonardo Rosa](https://github.com/leonardo-alves/)
