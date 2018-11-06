@@ -15,6 +15,7 @@
 - [Timothy](https://github.com/timtop)
 - [Ethan](https://github.com/EthanVieira)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
+- [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair] (https://github.com/aswintorch)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
