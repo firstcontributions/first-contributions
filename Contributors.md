@@ -10221,6 +10221,8 @@ Anthony Stannard
 - [conorg763]()
 - [Akos](https://github.com/bmakos)
 - [mcc346](https://github.com/mcc346)
+- [Malintha Kumarage](https://github.com/malintha90)
+- [LLX](https://github.com/TroyWind)
 - [marvinHubLook](https://github.com/marvinHubLook)
 - [Kim MinSu](https://gitub.com/alstn2468)
 - [Tyler Kelley](https://github.com/tykelley)
