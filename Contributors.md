@@ -10240,3 +10240,4 @@ Anthony Stannard
 - [Hannes Schmid](https://github.com/schmidhannes)
 - [cookie](https://github.com/javaart)
 - [minorsa]
+- [Ben Caneba](https://github.com/bcan001)
