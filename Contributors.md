@@ -6635,6 +6635,7 @@ Rohan Das
 - [Stephanie M. Davis](https://github.com/stephaniemdavis)
 - [theloca95](https://github.com/theloca95)
 - [Jonah Eisenstock](https://github.com/j-eisen)
+- [Gerome ten Velde](https://github.com/gat13)
 - [Muhammad Abdllah Zafar](https://github.com/mabdullahz)
 - [Hector GR](https://github.com/hcgonro)
 - [Rachael Saxby](https://github.com/rsaxby)
