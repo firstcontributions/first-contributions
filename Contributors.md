@@ -132,7 +132,7 @@
 - SenhorN
 - Explorer3991
 - Manish Upadhyaya
- [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
@@ -342,8 +342,8 @@
 - [JanellAmely](https://github.com/3CatMax)
 - [Pusakiller](https://github.com/Pusakiller)
 - [nightrainlily](https://github.com/nightrainlily)
-  [Zach Chen](https://github.com/02zchen)
-  [kostaslib](https://github.com/kostaslib)
+- [Zach Chen](https://github.com/02zchen)
+- [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Debajyoti Dasgupta](https://github.com/debajyoti-iitkgp)
@@ -399,8 +399,9 @@
 - [wsjan](https://github.com/wsjan)
 - [Mohammad Aziz](https://github.com/iAziz786)
 - [Emerson Carvalho](https://github.com/brecarv)
-Alvin
-Santanu
+- [Autumn Peters](https://github.com/autumnmarin)
+- Alvin
+- Santanu
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
