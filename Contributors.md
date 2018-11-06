@@ -553,6 +553,7 @@ aalbusoiu
 - [Danish Jamal](https://github.com/danishjamal104)
 - [Amish P.](https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
+- [MirinH](https://github.com/MirinH)
 - [Mikaela Peters](https://github.com/mppmpp315)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Nikita Acharya](https://github.com/nikita8)
