@@ -9277,6 +9277,7 @@ Rohan Das
 - [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
 - [Piyush Poply](https://github.com/Piyushp2283)
+- [Lucas León](https://github.com/lucasleon2107)
 - [shachashou](https://github.com/shachashou)
 - [bastienfp](https://github.com/bastienfp)
 - [Ben](https://github.com/bsypher)
@@ -9997,4 +9998,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Lucas León](https://github.com/lucasleon2107)]
