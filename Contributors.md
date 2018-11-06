@@ -18,6 +18,7 @@
 - [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair] (https://github.com/aswintorch)
+- [Vinit Kumbharkar] (https://github.com/Vin-it)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [Emily Yang] (https://github.com/emilyyz92)
