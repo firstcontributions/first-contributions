@@ -17,6 +17,7 @@
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
 - [Ethan](https://github.com/EthanVieira)
+- [Viraj Malia](https://github.com/virajmalia)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair] (https://github.com/aswintorch)
