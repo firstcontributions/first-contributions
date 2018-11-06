@@ -47,6 +47,7 @@
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
+- [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [sonodew](https://github.com/sonodew)
