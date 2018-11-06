@@ -3,6 +3,7 @@
 - [Arielle Hale](https://github.com/thoothie)
 - [Berkay Akcakil] (https://github.com/Bakcakil)
 - [Sarah Phillips] (https://github.com/snphillips)
+- [Trenton Hall]
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
