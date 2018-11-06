@@ -24,7 +24,7 @@ You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and
 
 <img style="float: right;" src="assets/gk-login.png" alt="login to GitHub" />
 
-(optional) Go to File->Preferences and set your project directory to the root of your local repositories.
+(optional) Go to File -> Preferences and set your project directory to the root of your local repositories.
 
 
 ## Fork this repository
