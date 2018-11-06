@@ -4600,6 +4600,7 @@ Tanishq Gupta
 - [Tanakid Laoyawira](https://github.com/dome2034)
 - [Nrupen Abnave](https://github.com/inrupen)
 - [Matt Shine](https://github.com/matt-shine)
+- [Sandeep Gupta](https://github.com/hhoudini010)
 - [Miguel P?res](https://github.com/miguelperes)
 - [lad-47](https://github.com/lad-47)
 - [BVIDev Kaisma](https://github.com/bviengineer)
