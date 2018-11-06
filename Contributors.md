@@ -5295,6 +5295,7 @@ Rohan Das
 - [Beom Jin Lee](https://github.com/beomjin-lee)
 - [Aditya Chettri](https://github.com/drumsapkota)
 - [Nicholas Orji](https://github.com/nicholas343)
+- [Joe Ho](https://github.com/Nazlai)
 - [Silky](https://github.com/silkypriya)
 - [cckim](https://github.com/cckim0805)
 - [Haziq Hassan](https://github.com/hzqhssn)
