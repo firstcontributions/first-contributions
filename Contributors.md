@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Arielle Hale](https://github.com/thoothie)
 - [Berkay Akcakil](https://github.com/Bakcakil)
@@ -10288,3 +10288,4 @@ Anthony Stannard
 - [Xander S]
 - [Shreyas Selvaraj](https://github.com/shreyas12345)
 - [lolau](https://github.com/LoLau)
+- [Jgeyer0000](https://github.com/Jgeyer0000)
