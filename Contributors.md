@@ -29,6 +29,7 @@
 - [Jack Holsgrove](https://github.com/jackholsgrove)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
+- [Grompie] (https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Amrit Devkota](https://github.com/AmritDevkota)
 - [Michał Warda](https://github.com/michalwarda)
