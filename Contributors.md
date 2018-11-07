@@ -9472,6 +9472,7 @@ Anthony Stannard
 - [krishana kumar](https://github.com/krishana18kumar)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
+- [Rishabh patel](https://github.com/Ris11294)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
 - [Dan Herrero](https://github.com/danherrero)
 - [xenocidewiki](https://github.com/xenocidewiki)
