@@ -11,7 +11,6 @@
 - [gilded1](https://github.com/gilded1)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
-- [Riccardo Boselli](https://github.com/ilbose)
 - [Tempor](https://github.com/temporaryacconunt)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
@@ -65,7 +64,8 @@
 - wefromstars
 - SenhorN
 - Explorer3991
- [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Riccardo Boselli](https://github.com/ilbose)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
