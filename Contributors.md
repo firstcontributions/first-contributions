@@ -281,6 +281,7 @@
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
 - [Kevin Johnston](https://github.com/kevdotdev)
+- [Samuel Gebrehiwet](https://github.com/samuelbruk)
 - [shreyansh] (https://github.com/shreyansh08)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
