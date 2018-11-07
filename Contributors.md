@@ -5,6 +5,7 @@
 - [Sarah Phillips] (https://github.com/snphillips)
 - [Trenton Hall]
 - [Khalid Elassaad]
+- [Alex Moran]
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
