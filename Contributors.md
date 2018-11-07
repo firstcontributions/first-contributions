@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Terry Duong](https://github.com/tduong10101)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -1094,7 +1093,7 @@ Edison Shek
 - [Robert Simatei](https://github.com/simatei)
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Shuvam Lal](https://github.com/shuvamlal9)
- [Sarthak Ahuja](https://github.com/sarthakahuja11)
+- [Sarthak Ahuja](https://github.com/sarthakahuja11)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
 - [Patrick Stepanian](https://github.com/stepanianpat)
@@ -1110,6 +1109,7 @@ Edison Shek
 - [Thamnongsin Supawattana](https://github.com/Nu2l)
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Yoav Shai](https://github.com/gergesh)
+- [Terry Duong](https://github.com/tduong10101)
 - [Moksedul Islam Mishuk](https://github.com/Mishuk140216)
 - [Nethmi Wijesinghe](https://github.com/Nethmi96)
 - [Aditya Anantharaman](https://github.com/aditya9898)
