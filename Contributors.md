@@ -6,6 +6,7 @@
 - [Trenton Hall]()
 - [Khalid Elassaad]()
 - [Alex Moran]()
+- [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
