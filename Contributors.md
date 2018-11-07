@@ -8797,6 +8797,7 @@ Rohan Das
 - [TaeRim](https://github.com/Ta2Rim)
 - [Muhammad Awais Haider](https://github.com/muhammadawaishaider)
 - [gius-italy](https://github.com/gius-italy)
+- [Pradeep Parajuli](https://github.com/PradeepParajuli)
 - [Muskan Goyal](https://github.com/Muskan-goyal6)
 - [Datron](https://github.com/datron)
 - [Nadish Shajahan](https://github.com/nadishs)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Pradeep Parajuli](https://github.com/PradeepParajuli)
