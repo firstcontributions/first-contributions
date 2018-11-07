@@ -10275,3 +10275,4 @@ Anthony Stannard
 - [Xander S]
 - [Shreyas Selvaraj](https://github.com/shreyas12345)
 - [lolau](https://github.com/LoLau)
+- [Simon Cordes] (https://github.com/C0rdes)
