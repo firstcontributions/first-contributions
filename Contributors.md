@@ -34,7 +34,6 @@
 - [Moses613](https://github.com/Moses613)
 - Jason
 - [rahul kukreja]
-- Mark
 - [fatima awad](https://github.com/fa6oomawad)
 - [Rachel L](https://github.com/rslim87)
 - [Utkarsh](https://github.com/ukbaranwal)
@@ -250,8 +249,9 @@
 - [JanellAmely](https://github.com/3CatMax)
 - [Pusakiller](https://github.com/Pusakiller)
 - [nightrainlily](https://github.com/nightrainlily)
-  [Zach Chen](https://github.com/02zchen)
-  [kostaslib](https://github.com/kostaslib)
+- Mark
+- [Zach Chen](https://github.com/02zchen)
+- [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Debajyoti Dasgupta](https://github.com/debajyoti-iitkgp)
