@@ -188,6 +188,7 @@
 - [Sergey Solovev](https://github.com/sergeysolovev)
 - [Rachit](https://github.com/iamrachitgulati)
 - [joseph](https://github.com/Joseph1989)
+- [Pablo J](https://github.com/pablo0910)
 - [Marnix](https://github.com/MarnixDev)
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
@@ -601,5 +602,4 @@
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
 - [Anand Krishna Sunil](https://github.com/NaNDuzIRa)
 - [Sarath P K](https://github.com/sarathpk931s)
-- [Pablo J](https://github.com/pablo0910)
 
