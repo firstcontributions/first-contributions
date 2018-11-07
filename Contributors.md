@@ -1,4 +1,3 @@
-
 ﻿# Contributors 
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
@@ -8963,6 +8962,7 @@ Rohan Das
 - [Dhairya Gada](https://github.com/dhairyagada)
 - [Jackie Owen](https://github.com/jackie1969)
 - [IgnasA](https://github.com/IgnasA)
+- [INUGR8.EXE](https://github.com/inugr8)
 - [Saswat]()
 - [John Kryspin](https://github.com/jibbey)
 - [Ekkachai Sohmontha](https://github.com/heemza)
@@ -9991,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [INUGR8.EXE](https://github.com/inugr8)
