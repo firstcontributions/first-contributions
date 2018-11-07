@@ -9400,6 +9400,7 @@ Anthony Stannard
 - [Hoang Vu](https://github.com/hoangvq288)
 - [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
+- [Adarsh Dwivedi](https://github.com/adarshd8127)
 - [Yoann Prot](https://github.com/Taranys)
 - [Ryan Denton](https://github.com/radmang)
 - [Marilyn Quintero](https://github.com/MarilynQuintero)
