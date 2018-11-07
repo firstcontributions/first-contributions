@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Arielle Hale](https://github.com/thoothie)
 - [Berkay Akcakil] (https://github.com/Bakcakil)
@@ -60,6 +60,7 @@
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - Carla
 - [prabha](hhtps://github.com/prabhaghimire)
+- [Silvia Vazquez](https://github.com/SilviaVazSua)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
