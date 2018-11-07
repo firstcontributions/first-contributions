@@ -8513,6 +8513,7 @@ Rohan Das
 - [Joshua Moore](https://github.com/jmjoshua)
 - [Omar Amr](https://github.com/OmarAdelAmr)
 - [Tommy Wang](https://github.com/wangmedia)
+- [D-Kay](https://github.com/singhdiy)
 - [Chris Starkey](https://github.com/chrisstarkey)
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
