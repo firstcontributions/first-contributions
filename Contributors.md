@@ -10227,3 +10227,4 @@ Anthony Stannard
 - [Manbro] (https://github.com/Manbro)
 - [Hannes Schmid](https://github.com/schmidhannes)
 - [cookie](https://github.com/javaart)
+- [Manish Pamnani] (https://github.com/pamnanaimanish169)
