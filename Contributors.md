@@ -389,6 +389,7 @@
 - [wxia33](https://github.com/Wxia33)
 - [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
+- [Swastik Anand Tripathi](https://github.com/swastikanandtripathi)
 - [strobelt](https://github.com/strobelt)
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
