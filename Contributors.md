@@ -9483,6 +9483,7 @@ Rohan Das
 - [Nathecia Cunha](https://github.com/nathecia)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Ngan Khanh](https://github.com/ngankhanh98)
+- [Chas Drow](https://github.com/cpdrow)
 - [Bruno Silva](https://github.com/slauzinho)
 - [Oleksii Filonenko](https://github.com/filalex77)
 - [Matthew Williams](https://github.com/orangegrove1955)
@@ -9989,5 +9990,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Chas Drow](https://github.com/cpdrow)]
+- [Malintha Kumarage](https://github.com/malintha90)]
