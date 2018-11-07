@@ -8674,7 +8674,8 @@ Rohan Das
 - [Dipti Butola](https://github.com/diptibutola)
 - [Mikko Maja](https://github.com/mikmaj)
 - [James Jung](https://github.com/thejcode24)
-- [Sayed Anwar]
+- [Sayed Anwar]()
+- [Pranjal Srivastava](https://github.com/pranjalsrivastava)
 - [ghostgost](https://github.com/ghostgost)
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
