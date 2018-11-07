@@ -18,6 +18,7 @@
 - [Scot Newbury](https://github.com/scotnewbury)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
+- [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
 - [Viraj Malia](https://github.com/virajmalia)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
