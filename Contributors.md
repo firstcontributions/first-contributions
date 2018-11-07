@@ -138,6 +138,7 @@
 - wefromstars
 - SenhorN
 - Explorer3991
+- [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
