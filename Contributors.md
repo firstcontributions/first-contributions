@@ -8522,6 +8522,7 @@ Rohan Das
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
 - [Geno Kozniuk](https://github.com/kgeno)
+- [Aryan Verma](https://github.com/SKYR4)
 - [zenott](https://github.com/zenott)
 - [kclaka](https://github.com/kclaka)
 - [Selina](https://github.com/tomberg)
