@@ -9516,6 +9516,7 @@ Anthony Stannard
 - [Fatih Gülakar](https://github.com/Neosar)
 - [Idruk](https://github.com/Idruk)
 - [Ibrahim Hasan](https://github.com/hima-Megahed)
+- [Sameer Ahmad](https://github.com/sahmad737)
 - [Edgar Cuarezma](https://github.com/ecuarezma)
 - [Sayyed Raza](https://github.com/S-M-Jawwad-Raza)
 - [Peter Cardenas](https://github.com/PeterCardenas)
