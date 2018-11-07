@@ -9710,6 +9710,7 @@ Anthony Stannard
 - [Waun Broderick](https://github.com/WaunBroderick)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
 - [Ngan Khanh](https://github.com/ngankhanh98)
+- [Chas Drow](https://github.com/cpdrow)
 - [Bruno Silva](https://github.com/slauzinho)
 - [Oleksii Filonenko](https://github.com/filalex77)
 - [Matthew Williams](https://github.com/orangegrove1955)
