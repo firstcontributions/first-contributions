@@ -9640,6 +9640,7 @@ Anthony Stannard
 - [Angga Dwi Arifandi](http://github.com/blackmenthor)
 - [Martina Šafarić](https://github.com/msafaric)
 - [Knatas](https://github.com/knatas)
+- [Sandeep Sharma](https://github.com/Sandeep097)
 - [Matan Davidi](https://github.com/MatanDavidi)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Tom Lynch](https://github.com/LNCH)
