@@ -7888,6 +7888,7 @@ Rohan Das
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
 - [Rafal Kruk](https://github.com/rkruk)
+- [Kyle Lin](https://github.com/kylejlin)
 - [Nkoro Joeph](https://github.com/nkorojoseph)
 - [Joshua Pacana](https://github.com/JPacana)
 - [sagivd](https://github.com/sagivd)
@@ -9989,5 +9990,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Kyle Lin](https://github.com/kylejlin)
+- [Malintha Kumarage](https://github.com/malintha90)]
