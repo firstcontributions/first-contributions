@@ -8119,6 +8119,7 @@ Rohan Das
 - [Muhammad Uzair Razzaq](https://github.com/UzairRazzaq)
 - [SamperMan44](https://github.com/SamperMan44)
 - [adityapoorna](https://github.com/adityapoorna)
+- [Fabiana Ribas](https://github.com/FabianaRibas)
 - [Vvitsen](https://github.com/Vvitsen)
 - [ReemOA](https://github.com/ReemOA)
 - [anderfred](https://github.com/anderfred)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Fabiana Ribas](https://github.com/FabianaRibas)]
