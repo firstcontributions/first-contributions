@@ -19,6 +19,7 @@
 - [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair] (https://github.com/aswintorch)
 - [Vinit Kumbharkar] (https://github.com/Vin-it)
+- [Eric Sinnicke] (https://github.com/Esquared722)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [Emily Yang] (https://github.com/emilyyz92)
