@@ -5315,7 +5315,7 @@ Rohan Das
 - [Joe Ho](https://github.com/Nazlai)
 - [Silky](https://github.com/silkypriya)
 - [cckim](https://github.com/cckim0805)
-- [Amar Shaikh] (https://github.com/A-G-Shaikh)
+- [Amar Shaikh](https://github.com/A-G-Shaikh)
 - [Haziq Hassan](https://github.com/hzqhssn)
 - [Rg Thomas](https://github.com/rgt47)
 - [Hayden van Reyswoud](https://github.com/haydenvr)
