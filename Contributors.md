@@ -8300,6 +8300,7 @@ Rohan Das
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
+- [Diego Costa](https://github.com/srdiegocosta)
 - [Matthew Guo](https://github.com/Funplings)
 - [Erik Boström](https://github.com/erikbostrom)
 - [Ahmet Aykut Ay](https://github.com/ahmetaykutay)
