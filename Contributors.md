@@ -9016,6 +9016,7 @@ Rohan Das
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
+- [Adam Hill](https://github.com/Cadarn)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
@@ -9996,5 +9997,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Adam Hill](https://github.com/Cadarn)
+- [Malintha Kumarage](https://github.com/malintha90)]
