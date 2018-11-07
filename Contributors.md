@@ -9354,6 +9354,7 @@ Rohan Das
 - [Vlad Pavlov](https://github.com/h0axbu5ter)
 - [Mohammed Abul Shoeb](https://github.com/alshoeb)
 - [Kolomu](https://github.com/kolomu)
+- [Ashish Yadav](https://github.com/ashishyadav400)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
 - [sanspace](https://github.com/sanspace)
 - [Gopal Krishna](https://github.com/gokriznastic)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Ashish Yadav](https://github.com/ashishyadav400)]
