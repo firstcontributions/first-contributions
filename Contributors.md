@@ -9253,6 +9253,7 @@ Rohan Das
 - [krishana kumar](https://github.com/krishana18kumar)
 - [Leonard Broman](https://github.com/lbroman)
 - [Illya Stolpakov](https://github.com/settnozz)
+- [Rishabh patel](https://github.com/Ris11294)
 - [Ssekitto Charlse](https://github.com/bozicschucky)
 - [Dan Herrero](https://github.com/danherrero)
 - [xenocidewiki](https://github.com/xenocidewiki)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Rishabh patel](https://github.com/Ris11294)
