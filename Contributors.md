@@ -21,6 +21,7 @@
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
 - [Viraj Malia](https://github.com/virajmalia)
+- [Raj Madisetti](https://github.com/rmadisetti3)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair](https://github.com/aswintorch)
