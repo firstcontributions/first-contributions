@@ -8340,6 +8340,7 @@ Rohan Das
 - [Noah Francis](https://github.com/NoahCF)
 - [Simone Bondi](https://github.com/ITAsimo456)
 - [Geno Kozniuk](https://github.com/kgeno)
+- [Aryan Verma](https://github.com/SKYR4)
 - [zenott](https://github.com/zenott)
 - [kclaka](https://github.com/kclaka)
 - [Mitch Bilensky](https://github.com/MitchB09)
@@ -9989,5 +9990,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Aryan Verma](https://github.com/SKYR4)
+- [Malintha Kumarage](https://github.com/malintha90)]
