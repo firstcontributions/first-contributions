@@ -9203,6 +9203,7 @@ Anthony Stannard
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
+- [Adam Hill](https://github.com/Cadarn)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
 - [Rodrigo Carvalho](https://github.com/Futuro212)
