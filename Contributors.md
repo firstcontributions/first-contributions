@@ -9194,6 +9194,7 @@ Rohan Das
 - [Hoang Vu](https://github.com/hoangvq288)
 - [egordorichev](https://github.com/egordorichev)
 - [kuraus](https://github.com/kuraus)
+- [Adarsh Dwivedi](https://github.com/adarshd8127)
 - [Yoann Prot](https://github.com/Taranys)
 - [Ryan Denton](https://github.com/radmang)
 - [Oscar Rodriguez](https://github.com/lagartoverde)
@@ -9989,5 +9990,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Adarsh Dwivedi](https://github.com/adarshd8127)]
+- [Malintha Kumarage](https://github.com/malintha90)]
