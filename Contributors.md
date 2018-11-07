@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Swastik Anand Tripathi](https://github.com/swastikanandtripathi)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
@@ -285,6 +284,7 @@
 - [wxia33](https://github.com/Wxia33)
 - [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
+- [Swastik Anand Tripathi](https://github.com/swastikanandtripathi)
 - [strobelt](https://github.com/strobelt)
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
