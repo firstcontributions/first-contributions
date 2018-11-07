@@ -8130,6 +8130,7 @@ Rohan Das
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
+- [Diego Costa](https://github.com/srdiegocosta)
 - [Matthew Guo](https://github.com/Funplings)
 - [Erik Boström](https://github.com/erikbostrom)
 - [Ahmet Aykut Ay](https://github.com/ahmetaykutay)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Diego Costa](https://github.com/srdiegocosta)]
