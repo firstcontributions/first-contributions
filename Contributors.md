@@ -9449,6 +9449,7 @@ Anthony Stannard
 - [Gigi](https://github.com/GGn0)
 - [Terodom](https://github.com/Terodom)
 - [Ashen Silva](https://github.com/ashensilva96)
+- [Shubh](https://github.com/07Shubh)
 - [Kent van Kuller](https://github.com/KentClarkGuitar)
 - [Apurva N Saraogi](https://github.com/apurva91)
 - [Prabhát Kumar de Oliveira](https://github.com/bart-bk)
