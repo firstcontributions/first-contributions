@@ -10191,6 +10191,7 @@ Anthony Stannard
 - [Naren](https://github.com/narensh)
 - [Brandon Doyle](https://github.com/bjd2385)
 - [Michael Matherson](https://github.com/michaelmatherson)
+- [Pranjal Srivastava](http://github.com/pranjalshrivastav1012)
 - [Alex Innes](https://github.com/alexinnes)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
