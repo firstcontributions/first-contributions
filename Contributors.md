@@ -7,6 +7,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Trenton Hall]()
 - [Khalid Elassaad]()
+- [Kirsty Fuquay](https://github.com/kfuquay)
 - [Alex Moran]()
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
