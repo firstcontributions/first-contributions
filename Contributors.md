@@ -6811,6 +6811,7 @@ Rohan Das
 - [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
+- [Michael McGrorty](https://github.com/micmcgrorty)
 - [Manish](https://github.com/developer-18)
 - [Guilherme Wachs](https://github.com/lopespt)
 - [Fabien Malbois](https://github.com/rrreeezzz)
