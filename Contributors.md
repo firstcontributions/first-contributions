@@ -64,7 +64,8 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - Carla
-- [prabha](hhtps://github.com/prabhaghimire)
+- [prabha](https://github.com/prabhaghimire)
+- [Rajdip Dutta](https://github.com/Rda99)
 - [Silvia Vazquez](https://github.com/SilviaVazSua)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
