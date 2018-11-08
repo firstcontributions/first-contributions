@@ -1991,6 +1991,7 @@ Edison Shek
 - [Zhixue Wang](https://github.com/z-marywang)
 - [Anjali Agarwal](https://github.com/aganjali10)
 - [Manish Sharma](https://github.com/Manish17292000)
+- [Rhys St Romaine](https://github.com/SaintRhys)
 - [Siddharth Naithani](https://github.com/sn99)
 - [Manthan Keim](https://github.com/ManthanKeim)
 - [Malsha](https://github.com/malshanishadini)
