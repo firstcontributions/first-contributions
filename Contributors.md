@@ -5944,6 +5944,7 @@ Rohan Das
 - [jitters](https://github.com/umudkip)
 - [silver](https://github.com/silverchenyolo)
 - [fawaleb](https://github.com/fawaleb/first-contributions)
+- [kitsune9] (https://github.com/kitsune9)
 - [cuji](https://github.com/cuji)
 - [LiftDev](https://github.com/farantDEV)
 - [tom322](https://github.com/tom322)
