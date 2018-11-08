@@ -5109,6 +5109,7 @@ Tanishq Gupta
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
+- [Asher Rosenberg](https://github.com/asherrose)
 - [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Tiffany Jao](https://github.com/tiffany-jao)
