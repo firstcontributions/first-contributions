@@ -7569,6 +7569,7 @@ Rohan Das
 - [Mayank Agarwal](https://github.com/mayankagarwal44442)
 - [Matan](https://github.com/20matan)
 - [Mano](https://github.com/acxz94)
+- [Matan Levy] (https://github.com/LevyMatan)
 - [Foozhan](https://github.com/sharpblade95)
 - [Quynh Anh Nguyen](https://github.com/qaemma)
 - [Chad Crowell](https://github.com/chadmcrowell)
