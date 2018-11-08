@@ -10,6 +10,7 @@
 - [Omer Shomrat](https://github.com/Omersho)
 - [Utkarsh Nag](https://github.com/utkarshnag)
 - [Rickard Lundberg](https://github.com/deerel)
+- Surbhi Singh 
 - patrik
 - anoushka
 - Aldo Paul Carranza - Hitzoft
