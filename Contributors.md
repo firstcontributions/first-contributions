@@ -11,6 +11,7 @@
 - [Alex Moran]()
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
+- [Kyle Somerfeldt](https://github.com/KSomerfeldt)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
 - [Suraj Branwal](https://github.com/brandier-jd)
