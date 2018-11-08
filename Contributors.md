@@ -9680,6 +9680,7 @@ Anthony Stannard
 - [Deepa Sajani J](https://github.com/deepasaj)
 - [bartekde](http://github.com/bartekde)
 - [Paulo Victor](https://github.com/pulho)
+- [Avory Richie] (https://github.com/yrova)
 - [Harish Ranganathan](https://github.com/harishr1308)
 - [Beatriz Alves](https://github.com/biaalves)
 - [Benjamin Qu](https://github.com/CodeBool)
