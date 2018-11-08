@@ -10307,3 +10307,4 @@ Anthony Stannard
 - [lolau](https://github.com/LoLau)
 - [Jgeyer0000](https://github.com/Jgeyer0000)
 - [Cheukfai Liu](https://github.com/liucheukfai/)
+- [Anthony Rios-Oliques](https://github.com/anthonyjro)
