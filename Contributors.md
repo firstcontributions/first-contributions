@@ -70,6 +70,7 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - Carla
+- [Assad Ginem] (https://github.com/ArabKat)
 - [prabha](https://github.com/prabhaghimire)
 - [Rajdip Dutta](https://github.com/Rda99)
 - [Silvia Vazquez](https://github.com/SilviaVazSua)
