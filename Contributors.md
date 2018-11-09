@@ -67,6 +67,7 @@
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
+- [Daniela Llivina](https://github.com/daniela-llivina)
 - [Dilnawaz](me@dillo.me)
 - [sonodew](https://github.com/sonodew)
 - [bshehata](https://github.com/bshehata)
