@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
+- [Hal Allred](https://github.com/hasta13)
 - [Dan Mauro] (https://github.com/dmauro22)
 - [Supraja]()
 - [Arielle Hale](https://github.com/thoothie)
