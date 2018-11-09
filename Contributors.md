@@ -3124,6 +3124,7 @@ Viraj Jiwane
 - [Zain Khan](https://github.com/gimpster05)
 - [Ephraim Harris](https://github.com/eharris91)
 - [Lian Thompson](https://github.com/lianthompson)
+- [Sergiu Cozma](https://github.com/SergiuCzm)
 - [Sweta Behera](https://github.com/swetax)
 - [Boahen Gyan](https://github.com/Ohenegyan)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
