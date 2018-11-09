@@ -15,6 +15,7 @@
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
 - [Suraj Branwal](https://github.com/brandier-jd)
+- [Christopher Spankroy](https://github.com/chrisspankroy)
 - [luciade](https://github.com/luciade)
 - [Kyeza Arnold](https://github.com/Kyeza)
 - [Kevin Dunne](https://github.com/sdevkev)
