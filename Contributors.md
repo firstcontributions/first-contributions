@@ -25,6 +25,7 @@
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Simon Plaistowe](https://github.com/plaistos)
 - [Scot Newbury](https://github.com/scotnewbury)
+- [Alexsander Ramos da Silva](https://github.com/alexsilvar)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
 - [Srikanth Hubli](https://github.com/srikanthhubli)
