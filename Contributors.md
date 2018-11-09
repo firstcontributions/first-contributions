@@ -44,6 +44,7 @@
 - [Jack Holsgrove](https://github.com/jackholsgrove)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
+- [Yicheng Li](https://github.com/yclistanford)
 - [Grompie](https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Amrit Devkota](https://github.com/AmritDevkota)
