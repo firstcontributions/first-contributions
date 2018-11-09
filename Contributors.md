@@ -9,6 +9,7 @@
 - [Khalid Elassaad]()
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Alex Moran]()
+  [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Kyle Somerfeldt](https://github.com/KSomerfeldt)
