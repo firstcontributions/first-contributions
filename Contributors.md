@@ -7,6 +7,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Trenton Hall]()
 - [Khalid Elassaad]()
+- [Jesse Hillman] (https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Alex Moran]()
   [Eudes Silva](https://github.com/EudesJS)
