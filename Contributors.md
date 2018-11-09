@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Dan Mauro] (https://github.com/dmauro22)
+- [Anshul Vyas] (https://github.com/anshvyas)
 - [Supraja]()
 - [Arielle Hale](https://github.com/thoothie)
 - [Berkay Akcakil](https://github.com/Bakcakil)
