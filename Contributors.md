@@ -33,6 +33,7 @@
 - [Viraj Malia](https://github.com/virajmalia)
 - [Raj Madisetti](https://github.com/rmadisetti3)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
+- [Jaime Perales](https://github.com/jperales64)
 - [Souman Paul](https://github.com/SoumanPaul)
 - [Aswin Nair](https://github.com/aswintorch)
 - [Leon Liang](https://github.com/leonliang0395)
