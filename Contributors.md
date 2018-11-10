@@ -9402,6 +9402,7 @@ Rohan Das
 - [syahrinka](https://github.com/syahrinka)
 - [Nap Joseph Calub](https://github.com/njncalub)
 - [Christoph](https://github.com/HpotsirhcH)
+- [Saif ur rehman qureshi](https://github.com/heyitsaif)
 - [Nayan Das](https://github.com/Nayan-Das)
 - [Richard Huang](https://github.com/aeolyus)
 - [Thanawit Gerdprasert](https://github.com/carymono)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Saif ur rehman qureshi](https://github.com/heyitsaif)
