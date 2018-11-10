@@ -75,6 +75,7 @@
 - [bshehata](https://github.com/bshehata)
 - [Harish_Kumar](https://github.com/hkxxx843)
 - [Tempor](https://github.com/temporaryacconunt)
+- [Manish](https://github.com/developer-18)
 - [Ariel](https://github.com/donutsteele)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
