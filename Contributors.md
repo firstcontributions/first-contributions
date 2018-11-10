@@ -10333,3 +10333,4 @@ Anthony Stannard
 - [Acie] (https://github.com/acierate)
 - [Seongkyu Lee] (https://github.com/queuestack)
 - [Jason Tsang](https://github.com/jasonrtsang)
+- [Ray Petrosek] (https://github.com/rpetrowolf)
