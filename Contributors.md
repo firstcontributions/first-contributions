@@ -9621,6 +9621,7 @@ Rohan Das
 - [Nazmi feeroz](https://github.com/nazmifeeroz)
 - [Japin Li](https://github.com/japinli)
 - [Gavin McDonald](https://github.com/Gavmcdonald)
+- [Jyrrki Vähpie](http://github.com/jjjyrfer)
 - [sujan lohitha]()
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
 - [Frank Carlone](https://github.com/fcarlone)
@@ -10067,4 +10068,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Jyrrki Vähpie](http://github.com/jjjyrfer)
