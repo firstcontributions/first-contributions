@@ -8605,6 +8605,7 @@ Rohan Das
 - [Greg Groff](https://github.com/gagroff)
 - [Ishwarya Manivannan](https://github.com/misscoder6)
 - [Jaisurya Nanduri](https://github.com/Jaisu-1)
+- [Aryan Choudhary](https://github.com/aryanc403)
 - [David Jurgens](https://github.com/d-jurgens/)
 - [Bryan Tran](https://github.com/bryantran04)
 - [Shishir Umesh](https://github.com/Shishir94)
@@ -9987,4 +9988,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Aryan Choudhary](https://github.com/aryanc403)
