@@ -594,6 +594,7 @@ aalbusoiu
 - [Adam Murray](https://github.com/Murraymint1804)
 - [Divyansh Tripathi](https://github.com/divtrip)
 - [iamtodor](https://github.com/iamtodor)
+- [Matheus Nogueira](https://www.linkedin.com/in/matheusnogueirad/)
 - [madisonjordan](https://github.com/madisonjordan)
 - [Danish Jamal](https://github.com/danishjamal104)
 - [Amish P.](https://github.com/javacoldbrew)
