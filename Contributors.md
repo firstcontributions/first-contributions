@@ -8808,6 +8808,7 @@ Rohan Das
 - [Kenny Rowlands](https://github.com/krowlands4)
 - [Michael Rickertt](https://github.com/mricke)
 - [Konrad Zajac](https://github.com/konrad-zajac)
+- [Nessa Rojas](https://github.com/Anavra)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Fabien Plongeron](https://github.com/FabienPL)
 - [Paulo Henrique](https://github.com/paulohenriquesn)
