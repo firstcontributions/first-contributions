@@ -9459,6 +9459,7 @@ Rohan Das
 - [Saksham Pruthi](https://github.com/saksham0804)
 - [Ahad Ali](https://github.com/ahad80)
 - [nachogoca](https://github.com/nachogoca)
+- [Avantika Singh](https://github.com/avantikasingh)
 - [Abhishek Singh](https://github.com/razerboygrim)
 - [Jan Kläger](https://github.com/janklaeger)
 - [Simrann Arora](https://github.com/simrann20)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Avantika Singh](https://github.com/avantikasingh)
