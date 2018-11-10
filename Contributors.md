@@ -13,7 +13,8 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
-- [Emmanuel Amadin](https://github.com/emmanuel-amadin)
+- [Suraj Jaiswal](https://github.com/surajkumarcse)
+- [Prayas Drolia](https://github.com/prayasdrolia1)
 - [morg0n](https://github.com/morg0n)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
@@ -462,7 +463,7 @@ aalbusoiu
 - [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan](https://github.com/setiam3)
--
+- [Emmanuel Amadin](https://github.com/emmanuel-amadin)
 - [Arthur van Acker](https://github.com/puupa)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram](https://github.com/HyperManTT)
