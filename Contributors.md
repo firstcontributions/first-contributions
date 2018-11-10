@@ -1165,6 +1165,7 @@ Edison Shek
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
 - [souragc](https://github.com/souragc)
+- [Palwasha Pordeli](https://github.com/pal-p)
 - [Pranav Bhatia](https://github.com/PranavBhatia)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
