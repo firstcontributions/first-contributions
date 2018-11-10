@@ -1703,6 +1703,7 @@ Edison Shek
 - [Ajugwo Timothy](https://github.com/Timorex)
 - [Wesley Clements](https://github.com/WesleyClements)
 - [Rafael Framil](https://github.com/raframil)
+- [Craig Baldry] (https://github.com/CraigBaldry)
 - [Braelyn Rotman](https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [Chris Baumler](https://github.com/cbaumler)
