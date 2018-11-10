@@ -3794,6 +3794,7 @@ Viraj Jiwane
 - [Sergey Podkovyrin](https://github.com/podkovyrin-sergey)
 - [Cindy Yates](https://github.com/estudiochispa)
 - [Nivedha Sunderraj](https://github.com/NivedhaSunderraj)
+- [Toai Trinh](https://github.com/toaitrinh)
 - [Vinay vkk](https://github.com/VINAYVKK)
 - [Aditya Kamble](https://github.com/adityakamble49)
 - [Deex Iv](https://github.com/DeexIv)
