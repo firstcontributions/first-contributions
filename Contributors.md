@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
 - [modified by bin-w](https://github.com/Tiptiks)
@@ -18,6 +18,7 @@ Jeremy Sipple
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Cody Garrett](https://github.com/CsCody)
 Saumya Prakash
+- [Simpson](https://github.com/spaniard96)
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
 - [Michael W Anderson](https://github.com/michanders)
