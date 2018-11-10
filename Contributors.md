@@ -1,4 +1,3 @@
-
 ﻿# Contributors
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
@@ -13,7 +12,6 @@
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [Tempor](https://github.com/temporaryacconunt)
-- [gaphy](https://github.com/gaphythegreat)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
@@ -1628,6 +1626,7 @@ Edison Shek
 - [Dhyey B 04](https://github.com/dhyeyb04)
 - [Erin Bugbee](https://github.com/erinbugbee)
 - [Ashok Singh](https://github.com/XLAR-8)
+- [gaphy](https://github.com/gaphythegreat)
 - [Sahil Aggarwal](https://github.com/sagg155)
 - [Jakub Krzus](https://github.com/jakrzus)
 - [Science Saint](https://github.com/ScienceSaint)
