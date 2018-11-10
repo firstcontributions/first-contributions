@@ -22,6 +22,7 @@
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Christopher Spankroy](https://github.com/chrisspankroy)
 - [luciade](https://github.com/luciade)
+- [Janpreet Chandhok](https://github.com/chandhok97)
 - [Kyeza Arnold](https://github.com/Kyeza)
 - [Kevin Dunne](https://github.com/sdevkev)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
