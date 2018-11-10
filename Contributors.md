@@ -1780,6 +1780,7 @@ Edison Shek
 - [Sagar Suri](https://github.com/surisagar900)
 - [rydens](https://github.com/rydens)
 - [Manne Diaz](https://github.com/diazmanne)
+- [tfinnamore](https://github.com/tfinnamore)
 - [ClariSLover](https://github.com/s973125108)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Morne Zeelie](https://github.com/holla22)
