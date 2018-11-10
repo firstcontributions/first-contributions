@@ -10322,6 +10322,7 @@ Anthony Stannard
 - [Ben Caneba](https://github.com/bcan001)
 - [Trent Mauney](https://github.com/tmauney1)
 - [Xander S]
+- [Connor] (https://github.com/SenorGrande)
 - [mkhan3]
 - [Jason](https://github.com/k4gi)
 - [Shreyas Selvaraj](https://github.com/shreyas12345)
