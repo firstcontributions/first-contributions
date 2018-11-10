@@ -41,6 +41,7 @@
 - [Aswin Nair](https://github.com/aswintorch)
 - [Leon Liang](https://github.com/leonliang0395)
 - [Vinit Kumbharkar](https://github.com/Vin-it)
+- [Chris Curtis](http://github.com/astralentity)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [Emily Yang](https://github.com/emilyyz92)
