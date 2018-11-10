@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Rashim Malhotral](https://github.com/rashimm)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Timothy](https://github.com/timtop)
@@ -774,7 +773,8 @@ Edison Shek
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Shana Maurino](https://github.com/shanamaurino)
 - [Ashu](https://github.com/ashu1999)
-- [kokum]
+- [kokum]()
+- [Rashim Malhotral](https://github.com/rashimm)
 - [Cecil John Tantay](https://github.com/cjbt)
 - [Filip Lupaescu](https://github.com/Familotel/)
 - [Taylor](https://github.com/ATaylor1181/)
