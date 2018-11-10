@@ -610,6 +610,7 @@ aalbusoiu
 - [Suulola Oluwaseyi](https://github.com/mySuulola)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan](https://github.com/setiam3)
+- [Emmanuel Amadin](https://github.com/emmanuel-amadin)
 - [Arthur van Acker](https://github.com/puupa)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram](https://github.com/HyperManTT)
