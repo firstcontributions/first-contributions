@@ -8539,6 +8539,7 @@ Rohan Das
 - [Pratik L](https://github.com/plade)
 - [Ma C](https://github.com/mcohen30)
 - [Kris Mc](https://github.com/kmcalpine15)
+- [Vinicius Luiz](https://github.com/viniciuslcpereira97)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
 - [Kevin Manalili](https://github.com/maines-pet)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Vinicius Luiz](https://github.com/viniciuslcpereira97)
