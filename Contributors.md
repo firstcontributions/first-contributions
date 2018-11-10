@@ -9970,6 +9970,7 @@ Anthony Stannard
 - [Shahnur](https://github.com/sisgandarli)
 - [kit0t0yu](https://github.com/kit0t0yu)
 - [Gabriel Tha](https://github.com/GabrielTha)
+- [Luanda Dantas](https://github.com/LuandaDantas)
 - [VanshikaMittal07](https://github.com/VanshikaMittal07)
 - [Sylvain Ch21](https://github.com/sylvain-ch21)
 - [Dominic Mostert](https://github.com/MostertCoder)
