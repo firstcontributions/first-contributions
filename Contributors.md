@@ -228,6 +228,7 @@
 - [Zadorozhnii Yurii] (https://github.com/SirJoraH21)
 - [corxrew](https://github.com/corxrew)
 - DGP
+- [TDSkyz](https://github.com/TDSkyz)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [Pj18](https://github.com/Pj18)
