@@ -5,6 +5,7 @@
 - [Anshul Vyas] (https://github.com/anshvyas)
 - [Supraja]()
 - [Arielle Hale](https://github.com/thoothie)
+- [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
 - [Trenton Hall]()
