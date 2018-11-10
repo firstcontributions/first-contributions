@@ -1,6 +1,5 @@
 ﻿# Contributors
 - [Suraj Branwal](https://github.com/brandier-jd)
-- [Matheus Nogueira](https://www.linkedin.com/in/matheusnogueirad/)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Timothy](https://github.com/timtop)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
@@ -495,6 +494,7 @@ aalbusoiu
 - [Anmol Dhingra](https://github.com/anmol-dhingra)
 - [Adam Murray](https://github.com/Murraymint1804)
 - [iamtodor](https://github.com/iamtodor)
+- [Matheus Nogueira](https://www.linkedin.com/in/matheusnogueirad/)
 - [madisonjordan](https://github.com/madisonjordan)
 - [Amish P.](https://github.com/javacoldbrew)
 - [sahil tagunde](https://github.com/tagsahil)
