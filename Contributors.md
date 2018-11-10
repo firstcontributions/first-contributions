@@ -8788,6 +8788,7 @@ Rohan Das
 - [Pratik L](https://github.com/plade)
 - [Ma C](https://github.com/mcohen30)
 - [Kris Mc](https://github.com/kmcalpine15)
+- [Vinicius Luiz](https://github.com/viniciuslcpereira97)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
 - [Kevin Manalili](https://github.com/maines-pet)
