@@ -8553,6 +8553,7 @@ Rohan Das
 - [Kenny Rowlands](https://github.com/krowlands4)
 - [Michael Rickertt](https://github.com/mricke)
 - [Konrad Zajac](https://github.com/konrad-zajac)
+- [Nessa Rojas](https://github.com/Anavra)
 - [Ahmed Amin](https://github.com/AhmedRedaAmin)
 - [Fabien Plongeron](https://github.com/FabienPL)
 - [Paulo Henrique](https://github.com/paulohenriquesn)
@@ -9964,4 +9965,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Nessa Rojas](https://github.com/Anavra)
