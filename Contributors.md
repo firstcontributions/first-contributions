@@ -880,7 +880,8 @@ Edison Shek
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Shana Maurino](https://github.com/shanamaurino)
 - [Ashu](https://github.com/ashu1999)
-- [kokum]
+- [kokum]()
+- [Rashim Malhotral](https://github.com/rashimm)
 - [Cecil John Tantay](https://github.com/cjbt)
 - [Filip Lupaescu](https://github.com/Familotel/)
 - [Taylor](https://github.com/ATaylor1181/)
