@@ -3761,6 +3761,7 @@ Viraj Jiwane
 - [Sarah G](https://github.com/sarahg813)
 - [Abdel Mounaim Tazi](https://github.com/AMTazi)
 - [Saket](https://github.com/saket700)
+- [Vlad Aiftimie] (https://github.com/vaiftimie)
 - [hercegtomas](https://github.com/hercegtomas)
 - [Renato Santos](https://github.com/RNT17)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
