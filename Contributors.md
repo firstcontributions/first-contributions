@@ -717,7 +717,8 @@ aalbusoiu
 - [Jonathan Chao](https://github.com/JChao7)
 - [Jason Beals](https://github.com/jbeals12)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
-- [Elia Grego](https://github.com/eliagrego)\
+- [Elia Grego](https://github.com/eliagrego)
+- [Hitesh Subnani](https://github.com/hiteshsubnani)
 - [Nahid Fatma](https://github.com/nfatma)
 - [Saheel Ahmed](https://github.com/7saheelahmed)
 - [Pankhurt](https://github.com/Pankhur)
