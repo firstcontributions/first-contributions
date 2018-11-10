@@ -9254,6 +9254,7 @@ Rohan Das
 - [Yang Wang](https://github.com/GH2005/)
 - [Arjun Agarwal](https://github.com/a-agrwaal)
 - [Vijoy Gopalan](https://github.com/vijoyg )
+- [Diego Borges](https://github.com/ferreirabdiego)
 - [Max Taylor](https://github.com/twally3)
 - [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
@@ -9974,4 +9975,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Diego Borges](https://github.com/ferreirabdiego)
