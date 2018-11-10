@@ -146,6 +146,7 @@
 - [Dan Fleming](https://gihtub.com/whatsreal)
 - [Leah Joyce](https://github.com/leahpjoyce)
 - [Natalie Fleming](https://github.com/nataliefleming)
+- [Dede Hamzah](https://github.com/dehamzah)
 - [Arohan](https://github.com/arohan007)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
