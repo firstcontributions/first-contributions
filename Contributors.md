@@ -6642,6 +6642,7 @@ Rohan Das
 - [Zachary Banducci](https://github.com/zchndcc9)
 - [wenwen](https://github.com/beginnerBate)
 - [Brent Bendes](https://github.com/bbendes)
+- [Theodoros Gkortsilas](https://github.com/gkortsit)
 - [Christopher King](https://github.com/ausdev18)
 - [Tristan Barrow](https://github.com/TristanBarrow)
 - [demansh](https://github.com/demansh)
