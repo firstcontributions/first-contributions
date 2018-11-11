@@ -10377,6 +10377,7 @@ Anthony Stannard
 - [Seongkyu Lee] (https://github.com/queuestack)
 - [Jason Tsang](https://github.com/jasonrtsang)
 - [Ray Petrosek] (https://github.com/rpetrowolf)
+- [Puwasuru Ihalagedara] (https://github.com/puwasuru)
 - [Anjali Reddy] (https://github.com/anjaligr05)
 - [lee-dav]
 - [keith knox]
