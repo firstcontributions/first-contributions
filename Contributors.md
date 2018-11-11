@@ -8,6 +8,7 @@
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
+- [Luc Berger](https://github.com/TheLuckyLuc)
 - [Trenton Hall]()
 - [Nigel Dalziel](https://github.com/dalziel)
 Kanish Anand-
