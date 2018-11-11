@@ -9,6 +9,7 @@
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
 - [Trenton Hall]()
+- [Nigel Dalziel](https://github.com/dalziel)
 - [Khalid Elassaad]()
 - [Jesse Hillman] (https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
