@@ -6170,6 +6170,7 @@ Rohan Das
 - [maqor](https://github.com/maqor)
 - [Diya Liza Varghses](https://github.com/diya-liza)
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
+- [Jillian Burns](https://github.com/jillianjmb)
 - [jonascastulik](https://github.com/jonascastulik)
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
