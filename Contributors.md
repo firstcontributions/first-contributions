@@ -536,6 +536,7 @@ Arnel Forbes
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
+- [Adam Winters](https://github.com/MrSolaire/)
 - [Mayank](https://github.com/mayank2652)
 - [Saranya Nukala](https://github.com/saranyanukala)
 - [Michael McDonell](https://github.com/Cre8tiveKel}
