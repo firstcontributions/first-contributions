@@ -283,6 +283,7 @@
 - [Michal123pl] (https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
 - [jballi17] (https://github.com/jballi17)
+- [Pingsutw] (https://github.com/pingsutw)
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
