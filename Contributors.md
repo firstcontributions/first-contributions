@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Dan Mauro] (https://github.com/dmauro22)
@@ -9394,6 +9394,7 @@ Anthony Stannard
 - [Hayi Nukman](https://github.com/ha-yi)
 - [Luca Bruzzone](https://github.com/unsign3d)
 - [Paula Audet](https://github.com/paulaaudet26)
+- [Abubakar Mehmood](https://github.com/abubakarmehmood)
 - [Ivan](https://github.com/tikerlade)
 - [pyjaks](https://github.com/pyjaks)
 - [Rafed Muhammad Yasir](https://github.com/rafed123)
