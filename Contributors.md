@@ -1,10 +1,11 @@
-﻿# Contributors
+# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Dan Mauro] (https://github.com/dmauro22)
 - [Anshul Vyas] (https://github.com/anshvyas)
 - [Supraja]()
+-[Rui Chow]()
 - [Arielle Hale](https://github.com/thoothie)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
