@@ -129,6 +129,7 @@ Kanish Anand-
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Moses613](https://github.com/Moses613)
 - Jason
+- Darion Toney
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
 - [Simon Bergeron](https://github.com/simber21)
