@@ -74,6 +74,7 @@ Kanish Anand-
 - [Anushree](https://github.com/anushree816)
 - [Martin](https://github.com/academyyyy12)
 - [Sitryk](https://github.com/Sitryk)
+- [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [Ajmal Hassan](https://github.com/ajmalhassan)
