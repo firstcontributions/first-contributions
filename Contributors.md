@@ -12,6 +12,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
+- [Sina Saeedi](https://github.com/sina33)
 - [Trenton Hall]()
 - [Nigel Dalziel](https://github.com/dalziel)
 Kanish Anand-
