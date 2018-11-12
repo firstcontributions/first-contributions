@@ -170,6 +170,7 @@
 - [Prafulla Pal](https://github.com/j0rden007)
 - [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
+- [IoannisPelekoudas](https://github.com/pelekoudasq)
 - Lucas Fellipe
 - [Luca Donno](https://github.com/lucadonnoh)
 - [Joel Gerber] (https://github.com/joelgerber)
