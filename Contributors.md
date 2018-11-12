@@ -10398,6 +10398,7 @@ Anthony Stannard
 - [Ray Petrosek] (https://github.com/rpetrowolf)
 - [Puwasuru Ihalagedara] (https://github.com/puwasuru)
 - [Anjali Reddy] (https://github.com/anjaligr05)
+- [Troy Hayman] (https://github.com/amnesiasd)
 - [lee-dav]
 - [keith knox]
 - [Adam Szwaba](https://github.com/diakoneiros)
