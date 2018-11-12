@@ -59,6 +59,7 @@ Kanish Anand-
 - [Grompie](https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Amrit Devkota](https://github.com/AmritDevkota)
+- [Edmir Suljic](https://github.com/PseudoInsanity)
 - [Michał Warda](https://github.com/michalwarda)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
