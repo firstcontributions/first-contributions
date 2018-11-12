@@ -439,6 +439,7 @@ Kanish Anand-
 - [Roger Perez](https://github.com/rogercodes1)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
+- [Ajmal Aju](https://github.com/ajuajmal)
 - [Anda Stoica](https://github.com/andadiana)
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
