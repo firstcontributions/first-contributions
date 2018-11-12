@@ -1613,6 +1613,7 @@ aalbusoiu
 - [Shahmi Majid](https://github.com/shahmimajid)
 - [Ryan Evans](https://github.com/ryanwevans)
 - [Yogita Bhatia](https://github.com/Yogita98)
+- [Jack Vanier](https://github.com/jackrvan)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [Akshay Gupta](https://github.com/theakshaygupta)
 - [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
