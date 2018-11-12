@@ -10393,3 +10393,4 @@ Anthony Stannard
 - [Anjali Reddy] (https://github.com/anjaligr05)
 - [lee-dav]
 - [keith knox]
+- [Adam Szwaba](https://github.com/diakoneiros)
