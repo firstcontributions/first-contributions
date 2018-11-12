@@ -11,6 +11,7 @@
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
 - [Luc Berger](https://github.com/TheLuckyLuc)
+- [Sharad Mathur](https://github.com/srdmathur)
 - [Trenton Hall]()
 - [Nigel Dalziel](https://github.com/dalziel)
 Kanish Anand-
