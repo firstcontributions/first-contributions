@@ -34,6 +34,7 @@ Kanish Anand-
 - [Kyeza Arnold](https://github.com/Kyeza)
 - [Kevin Dunne](https://github.com/sdevkev)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
+- [Nick Varacalli](https://hithub.com/NickVaracalli)
 -[Prashant Ahuja](https://github.com/bawablacksheep)
 - [Simon Plaistowe](https://github.com/plaistos)
 - [Scot Newbury](https://github.com/scotnewbury)
