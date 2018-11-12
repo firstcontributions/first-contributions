@@ -4417,6 +4417,7 @@ Tanishq Gupta
 - [Jose Almaraz](https://github.com/lazaruspolar)
 - [Celio Paiva](https://github.com/cjuniorr)
 - [Bogdan Manole](https://github.com/BogdanManole)
+- [Barbara Prusiewicz](https://github.com/BarbaraPruz)
 - [Razvan05](https://github.com/razvan05)
 - [Mridul tuteja](https://github.com/mridultuteja)
 - [Thadeu Cotts](https://github.com/cotts)
