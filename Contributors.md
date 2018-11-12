@@ -8885,6 +8885,7 @@ Rohan Das
 - [Ryan Troxler](https://github.com/rtroxler)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
+- [Bright Geng](https://github.com/bgeng1)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
 - [Orasz](https://github.com/Orasz)
 - [Michael Peng](https://github.com/michaelpeng)
