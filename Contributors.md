@@ -9971,6 +9971,7 @@ Anthony Stannard
 - [Mayra Perpetua](https://github.com/MayraPerpetua)
 - [Mon555](https://github.com/mon555)
 - [Priyendu Mori](https://github.com/priyendumori)
+- [Gabrielle Devanz](https://github.com/gabrielledevz)
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
 - [Zan Javed](https://github.com/zjaved101)
