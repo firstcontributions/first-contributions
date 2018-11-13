@@ -9086,6 +9086,7 @@ Rohan Das
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
+- [Alec Trievel](https://github.com/atrievel)
 - [Dan Barr](https://github.com/bandarr)
 - [Vignesh B.S](https://github.com/vignesh1999)
 - [Adones Reballos](https://github.com/dondonai)
@@ -10068,4 +10069,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Alec Trievel](https://github.com/atrievel)
