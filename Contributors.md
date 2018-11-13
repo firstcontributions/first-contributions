@@ -8891,6 +8891,7 @@ Rohan Das
 - [Charlie Rizor](https://github.com/Shakespeares-Ghost)
 - [Tunap Paul](https://github.com/tunap)
 - [Yudi Tao](https://github.com/Dooomino)
+- [John Rob](https://github.com/johnalphared)
 - [Joseph Fanous](https://github.com/GoogleDownload)
 - [Johny Depp](https://github.com/ompandey)
 - [Aditya Choudhary](https://github.com/adich23)
@@ -10071,4 +10072,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [John Rob](https://github.com/johnalphared)]
