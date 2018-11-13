@@ -74,6 +74,7 @@ Kanish Anand-
 - [emperorjnx](https://github.com/emperorjnx)
 - [Anushree](https://github.com/anushree816)
 - [Martin](https://github.com/academyyyy12)
+- [Uesli Almeida](https://github.com/ueslialmeida)
 - [Sitryk](https://github.com/Sitryk)
 - [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
