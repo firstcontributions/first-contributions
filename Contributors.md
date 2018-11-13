@@ -9138,6 +9138,7 @@ Rohan Das
 - [Brent Robbins](https://github.com/brentrobbins)
 - [Willa Kong](https://github.com/willakong)
 - [Marco Petreri](https://github.com/marcopetreri)
+- [Felipe N Souza](https://github.com/fnscoder)
 - [Felix Grünewald](https://github.com/fgruen)
 - [Adhish Anand](https://github.com/adhishanand9)
 - [Rohan Rout](https://github.com/aviaraa)
@@ -10068,4 +10069,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Felipe N Souza](https://github.com/fnscoder)
