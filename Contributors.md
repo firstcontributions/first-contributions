@@ -8806,6 +8806,7 @@ Rohan Das
 - [grilam14](https://github.com/grilam14)
 - [HackedByMKN](https://github.com/HackedByMKN)
 - [Abdus](https://github.com/thisisabdus)
+- [Anuj Verma](https://github.com/anuj1798)
 - [Diego Casillas](https://github.com/diegocasillas)
 - [Naveen Naidu](https://github.com/Naveenaidu)
 - [Shubhankar Ranade](https://github.com/shubhankar30)
@@ -10065,6 +10066,5 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Anuj Verma](https://github.com/anuj1798)
+- [Malintha Kumarage](https://github.com/malintha90)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
