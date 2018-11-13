@@ -6,6 +6,7 @@
 - [Anshul Vyas] (https://github.com/anshvyas)
 - [Supraja]()
 -[Rui Chow]()
+- [Kazmuir Long]
 - [Arielle Hale](https://github.com/thoothie)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
