@@ -4268,6 +4268,7 @@ Tanishq Gupta
 - [Rafael Milani Barbosa](https://github.com/rafaelmilanibarbosa)
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
+- [Stefan] (https://github.com/slugonjic92)
 - [Lucas Cordeiro Marques](https://github.com/lucascmgs)
 - [Dave W](https://github.com/davesrc)
 - [Jyoti Duwal](https://github.com/coderjay12)
