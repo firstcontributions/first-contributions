@@ -43,6 +43,7 @@ Kanish Anand-
 - [Scot Newbury](https://github.com/scotnewbury)
 - [Alexsander Ramos da Silva](https://github.com/alexsilvar)
 - [Noli Valdez III](https://github.com/nvaldeziii)
+- [Domas Dranginis](https://github.com/DDomas)
 - [Timothy](https://github.com/timtop)
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
