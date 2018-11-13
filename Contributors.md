@@ -106,6 +106,7 @@ Kanish Anand-
 - [prabha](https://github.com/prabhaghimire)
 - [Rajdip Dutta](https://github.com/Rda99)
 - [Silvia Vazquez](https://github.com/SilviaVazSua)
+- [Sean Dolan](https://github.com/snpdolan)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
