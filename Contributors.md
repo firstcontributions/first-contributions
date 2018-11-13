@@ -17,6 +17,7 @@
 - [Nigel Dalziel](https://github.com/dalziel)
 Kanish Anand-
  [Khalid Elassaad]()
+- [Andrej Slocik]()
 - [Jesse Hillman] (https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
@@ -10401,3 +10402,4 @@ Anthony Stannard
 - [lee-dav]
 - [keith knox]
 - [Adam Szwaba](https://github.com/diakoneiros)
+- [Andrej Slocik](https://github.com/Baljeet21)
