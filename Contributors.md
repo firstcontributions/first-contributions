@@ -9075,6 +9075,7 @@ Rohan Das
 - [Andrew Voneshen](https://github.com/avoneshen)
 - [Afif Hendrawan](https://github.com/hndr91)
 - [Naman Goel](https://github.com/namangoel05)
+- [Kesean Woodhouse](https://github.com/kesean)
 - [RonLek](https://github.com/RonLek)
 - [Damian Wróblewski](https://github.com/WrobelWRB)
 - [David Bambusek](https://github.com/bambusekd)
@@ -10065,6 +10066,5 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Kesean Woodhouse](https://github.com/kesean)
+- [Malintha Kumarage](https://github.com/malintha90)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
