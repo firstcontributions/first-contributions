@@ -9143,6 +9143,7 @@ Rohan Das
 - [Felix Grünewald](https://github.com/fgruen)
 - [Adhish Anand](https://github.com/adhishanand9)
 - [Rohan Rout](https://github.com/aviaraa)
+- [SHASHANK](https://github.com/shashanks)
 - [Kunal Katariya](https://github.com/KunalKatariya)
 - [Roxana Oanes](https://github.com/roxyoanes)
 - [Prakhar Gupta](https://github.com/prakhar897)
@@ -10070,5 +10071,4 @@ quattad
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [SHASHANK](https://github.com/shashanks)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
