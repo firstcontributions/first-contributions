@@ -312,6 +312,7 @@ Kanish Anand-
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya](https://github.com/jagzmz)
 - [Mylonio]()
+- [Vedarth](https://github.com/Vedarth)
 - [Michal123pl](https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
 - [jballi17](https://github.com/jballi17)
