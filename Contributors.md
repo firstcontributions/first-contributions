@@ -9312,6 +9312,7 @@ Anthony Stannard
 - [Andrew Voneshen](https://github.com/avoneshen)
 - [Afif Hendrawan](https://github.com/hndr91)
 - [Naman Goel](https://github.com/namangoel05)
+- [Kesean Woodhouse](https://github.com/kesean)
 - [RonLek](https://github.com/RonLek)
 - [Damian Wróblewski](https://github.com/WrobelWRB)
 - [David Bambusek](https://github.com/bambusekd)
