@@ -9116,6 +9116,7 @@ Rohan Das
 - [armoredelephant](https://github.com/armoredelephant)
 - [Ramy Gamal](https://github.com/Raamyy)
 - [Nixon Kosgei](https://github.com/nickhq)
+- [Jairo Ramirez](https://github.com/jairam2311)
 - [Somesh Bachani](https://github.com/Someshb0512)
 - [Max Rugen](https://github.com/maxrugen)
 - [ttapar](https://github.com/ttapar)
