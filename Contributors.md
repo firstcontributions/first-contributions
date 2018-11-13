@@ -17,7 +17,6 @@
 - [Nigel Dalziel](https://github.com/dalziel)
 Kanish Anand-
  [Khalid Elassaad]()
-- [Andrej Slocik]()
 - [Jesse Hillman] (https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
