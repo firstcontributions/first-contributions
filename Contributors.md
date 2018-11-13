@@ -9716,6 +9716,7 @@ Rohan Das
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
+- [Philly G](https://github.com/pgwh)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
@@ -10076,5 +10077,4 @@ quattad
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-= [Philly G](https://github.com/pgwh)
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
