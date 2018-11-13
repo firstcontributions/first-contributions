@@ -8554,6 +8554,7 @@ Rohan Das
 - [Paola Guarasci](https://github.com/paolaguarasci)
 - [Awais Khalil](https://github.com/awaiskhalil)
 - [Dipti Butola](https://github.com/diptibutola)
+- [Khemmapon Tawantham](https://github.com/khemmapon)
 - [Mikko Maja](https://github.com/mikmaj)
 - [James Jung](https://github.com/thejcode24)
 - [Sayed Anwar]
@@ -10068,4 +10069,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Khemmapon Tawantham](https://github.com/khemmapon)]
