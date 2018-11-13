@@ -2280,12 +2280,13 @@ aalbusoiu
 - [Ziane Maamar](https://github.com/DRXDesign)
 - [Prateek Varshney](https://github.com/pvarshney1729)
 - [Muhammad Aliyul Murtadlo](https://github.com/mmdiyul)
+- [rajarizwan32178](https://github.com/rajarizwan32178)
 - [Pietro Metuh](https://github.com/pietrometuh)
 - [Badal Moradia](https://github.com/bamoradia)
 - [Saurabh Bansal]()
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
-  Kashish Khullar - :P
+- Kashish Khullar - :P
 - [Harish Indla]()
 - [John D'Uva](https://github.com/johnduva)
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
