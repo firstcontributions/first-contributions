@@ -9549,6 +9549,7 @@ Rohan Das
 - [Nazmi feeroz](https://github.com/nazmifeeroz)
 - [Japin Li](https://github.com/japinli)
 - [Gavin McDonald](https://github.com/Gavmcdonald)
+- [Eshaan Rathi](https://github.com/18ucc089)
 - [sujan lohitha]()
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
 - [Frank Carlone](https://github.com/fcarlone)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Eshaan Rathi](https://github.com/18ucc089)
