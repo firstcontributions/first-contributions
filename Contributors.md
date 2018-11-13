@@ -5,7 +5,7 @@
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Peter Karakas](https://github.com/peti2001)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
-- [rajarizwan32178](https://github.com/rajarizwan32178)
+- [Karen Tobo](https://github.com/karentobo)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
@@ -1233,12 +1233,13 @@
 - [David Lee](https://github.com/dlee129)
 - [Ziane Maamar](https://github.com/DRXDesign)
 - [Muhammad Aliyul Murtadlo](https://github.com/mmdiyul)
+- [rajarizwan32178](https://github.com/rajarizwan32178)
 - [Pietro Metuh](https://github.com/pietrometuh)
 - [Badal Moradia](https://github.com/bamoradia)
 - [Saurabh Bansal]()
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
-  Kashish Khullar - :P
+- Kashish Khullar - :P
 - [Harish Indla]()
 - [John D'Uva](https://github.com/johnduva)
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
