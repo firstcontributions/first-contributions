@@ -9384,6 +9384,7 @@ Anthony Stannard
 - [Pedro Vitor](https://github.com/pedroslark)
 - [CarlosRGL](https://github.com/CarlosRGL)
 - [jwon114](https://github.com/jwon114)
+- [Daniel Patterson](https://github.com/dpatterbee)
 - [Nicole Moore](https://github.com/Angelfirenze01)
 - [Ryan Doyle](https://github.com/ryanmdoyle)
 - [Sevenjidan](https://github.com/sevenjidan)
