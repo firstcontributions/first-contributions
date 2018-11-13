@@ -9373,6 +9373,7 @@ Anthony Stannard
 - [Moeez Muhammad](https://github.com/Moeez-Muhammad)
 - [ATegt](https://github.com/ategt)
 - [Eric Ng](https://github.com/nacleric)
+- [Savino Rasola](https://github.com/savino9)
 - [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Hossam Eissa](https://github.com/HosamEissa)
 - [Ali mughal](https://github.com/ali-1947)
