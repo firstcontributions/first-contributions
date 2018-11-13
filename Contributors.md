@@ -923,7 +923,7 @@ aalbusoiu
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly](https://github.com/jakeliny)
-- [BroCodeClan](https://github.com/brocodeclan) :sunglasses:
+-[João Paulo Ventorim](https://github.com/jpventorim)- [BroCodeClan](https://github.com/brocodeclan) :sunglasses:
 - [Mr_Patcher](https://github.com/Mr-Patcher)
 - [Aleksandra](https://github.com/olciafr)
 - [Parth Manhas](https://github.com/ishouldcode)
