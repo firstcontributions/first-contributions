@@ -9545,6 +9545,7 @@ Rohan Das
 - [Ahad Ali](https://github.com/ahad80)
 - [nachogoca](https://github.com/nachogoca)
 - [Abhishek Singh](https://github.com/razerboygrim)
+- [subham gupta](https://github.com/subham909)
 - [Jan Kläger](https://github.com/janklaeger)
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
@@ -10066,6 +10067,5 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [subham gupta](https://github.com/subham909)]
+- [Malintha Kumarage](https://github.com/malintha90)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
