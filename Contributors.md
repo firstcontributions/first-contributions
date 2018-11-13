@@ -9668,6 +9668,7 @@ Rohan Das
 - [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
+- [Pedro Terriquez](https://github.com/PedroTerriquez)
 - [Prakash Kumar](https://github.com/theprakashkumar)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
@@ -10071,4 +10072,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Max Wendel](https://github.com/Max-Wendel-UFC)]
-- [Pedro Terriquez](https://github.com/PedroTerriquez)]
