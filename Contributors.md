@@ -2164,6 +2164,7 @@ aalbusoiu
 - [Hulloowan Bha](https://github.com/hulloowan)
 - [Avinash Raghuthu](https://github.com/avinashraghuthu)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
+- [Uros Stojiljkovic] (https://github.com/urossss)
 - [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
 - [Tarun Jindal](https://github.com/tarunjindal790)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
