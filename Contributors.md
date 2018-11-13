@@ -9297,6 +9297,7 @@ Anthony Stannard
 - [Anne Kelly](https://github.com/akrs3/)
 - [Vicent Llinares](http://github.com/llinaresvicent)
 - [Hemant Joshi](http://github.com/codingdefined)
+- [Amita](https://github.com/ImmortalAmii)
 - [DataSecs](http://github.com/DataSecs)
 - [Rafaela Dutra Nunes](https://github.com/rafaeladnunes/)
 - [Carlin MacKenzie](https://github.com/carlinmack/)
