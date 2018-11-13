@@ -12,8 +12,7 @@
 - [James Rose](http://github.com/james-rose)
 - [Brandon Wozniewicz](https://github.com/brandonwoz)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
-- [Alaaddin Alokby](https://github.com/alokbya)
-- [daniyalakhtar123](https://github.com/daniyalakhtar123)
+- {daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
@@ -330,6 +329,7 @@
 - [Anda Stoica](https://github.com/andadiana)
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
+- [Alaaddin Alokby](https://github.com/alokbya)
 - Trent Jeffery
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
