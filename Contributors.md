@@ -737,15 +737,16 @@ aalbusoiu
 - [Jaibhav Thukral](https://github.com/jaibhav)
 - [Nico Belobrajdic](https://github.com/nicobelob)
 - [Arthur Ribeiro](https://github.com/devarthurribeiro)
-- [Tanis-02] (https://github.com/Tanis-02)
+- [Tanis-02](https://github.com/Tanis-02)
 - [Dusan Pilipovic](https://github.com/razzil1)
 - [Akbar Mirza](https://github.com/akbarbmirza)
-- [Victor Daisuke Araki] (https://github.com/VicDaAr)
-- [Dom Slatford] (https://github.com/domisginger)
+- [Mihaela Teodoriu](https://github.com/mischha)
+- [Victor Daisuke Araki](https://github.com/VicDaAr)
+- [Dom Slatford](https://github.com/domisginger)
 - [Joseph Ostroman](https://github.com/ostomaj)
 - [epiphian](https://github.com/epiphian)
 - [Chandu](https://github.com/chandu2004)
-- [Rishabh Sharma]
+- [Rishabh Sharma]()
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
 - Jelena Golova
