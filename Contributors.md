@@ -9134,6 +9134,7 @@ Rohan Das
 - [Maria Rayana](https://github.com/mrayana)
 - [CarlosRGL](https://github.com/CarlosRGL)
 - [jwon114](https://github.com/jwon114)
+- [Daniel Patterson](https://github.com/dpatterbee)
 - [Nicole Moore](https://github.com/Angelfirenze01)
 - [Ryan Doyle](https://github.com/ryanmdoyle)
 - [Sevenjidan](https://github.com/sevenjidan)
@@ -10069,6 +10070,5 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Daniel Patterson](https://github.com/dpatterbee)
+- [Malintha Kumarage](https://github.com/malintha90)]
+- [Max Wendel](https://github.com/Max-Wendel-UFC)]
