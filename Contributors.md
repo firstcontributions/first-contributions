@@ -9970,6 +9970,7 @@ Anthony Stannard
 - [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
+- [Pedro Terriquez](https://github.com/PedroTerriquez)
 - [Prakash Kumar](https://github.com/theprakashkumar)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
