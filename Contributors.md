@@ -9528,6 +9528,7 @@ Anthony Stannard
 - [Vansh Devgan](https://github.com/vanshdevgans)
 - [TRY](https://github.com/TheRealYann)
 - [Dylan Nakahodo](http://github.com/dylannakahodo)
+- [NAMAN JAIN](https://github.com/njain794)
 - [Tomasz Bawor](https://github.com/tomaszbawor)
 - [Waramun Achametra](https://github.com/booms2p)
 - [Nayalash Mohammad](https://github.com/Nayalash)
