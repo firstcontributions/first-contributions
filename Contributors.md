@@ -9030,6 +9030,7 @@ Rohan Das
 - [grilam14](https://github.com/grilam14)
 - [HackedByMKN](https://github.com/HackedByMKN)
 - [Abdus](https://github.com/thisisabdus)
+- [Anuj Verma](https://github.com/anuj1798)
 - [Diego Casillas](https://github.com/diegocasillas)
 - [Naveen Naidu](https://github.com/Naveenaidu)
 - [Shubhankar Ranade](https://github.com/shubhankar30)
