@@ -469,6 +469,7 @@ Kanish Anand-
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [wsjan](https://github.com/wsjan)
 - [Mohammad Aziz](https://github.com/iAziz786)
+- [stratosgear](https://github.com/stratosgear)
 - [Emerson Carvalho](https://github.com/brecarv)
 - [Autumn Peters](https://github.com/autumnmarin)
 - Alvin
