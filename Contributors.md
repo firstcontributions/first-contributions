@@ -9390,6 +9390,7 @@ Anthony Stannard
 - [Brent Robbins](https://github.com/brentrobbins)
 - [Willa Kong](https://github.com/willakong)
 - [Marco Petreri](https://github.com/marcopetreri)
+- [Felipe N Souza](https://github.com/fnscoder)
 - [Felix Grünewald](https://github.com/fgruen)
 - [Adhish Anand](https://github.com/adhishanand9)
 - [Rohan Rout](https://github.com/aviaraa)
