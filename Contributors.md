@@ -8070,6 +8070,7 @@ Rohan Das
 - [Ali](https://github.com/nestedscope)
 - [Germaine Beazer](https://github.com/gbiz21)
 - [Guillaume Lemieux](https://github.com/guilemieux)
+- [Vedhant Agarwal]
 - [Samantha Spivey](https://github.com/SamanthaDSpivey)
 - [Treasure](https://github.com/onojatreasure)
 - [Wesley Maffly-Kipp](https://github.com/maffkipp)
