@@ -151,6 +151,7 @@ Kanish Anand-
 - BbyPls
 - [Kush Parmar](https://github.com/igneel73)
 - [dpcavalcanti](https://github.com/dpcavalcanti)
+- [Peadar O'Raghallaigh](https://github.com/peteroreil)
 - [Bojan](https://github.com/TheBearYT)
 - [lduenas](https:/github.com/luisduenas)
 - [VIDHEY](https://github.com/VIDHEY)
