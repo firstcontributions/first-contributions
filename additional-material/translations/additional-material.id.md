@@ -1,3 +1,5 @@
+I don't understand it.
+
 # Informasi tambahan
 
 Kami berasumsi anda sudah menyelesaikan tutorial dasar sebelum datang ke sini. Informasi tambahan ini akan memberikan beberapa informasi mengenai teknik Git yang lebih tinggi.
