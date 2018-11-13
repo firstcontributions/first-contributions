@@ -9172,6 +9172,7 @@ Rohan Das
 - [ZWTan](https://github.com/zwtan)
 - [sohanian](https://github.com/sohanian)
 - [Chad Van Wyhe](https://github.com/chadjvw)
+- [shivansh dwivedi](https://github.com/shivansh1809)
 - [Monica Ward](https://github.com/mo-ward)
 - [Devin Ward](https://github.com/devsquared)
 - [MeTeoRise](https://github.com/MeTeoRise)
@@ -9989,5 +9990,4 @@ quattad
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Malintha Kumarage](https://github.com/malintha90)
-- [shivansh dwivedi](https://github.com/shivansh1809)
+- [Malintha Kumarage](https://github.com/malintha90)]
