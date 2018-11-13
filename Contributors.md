@@ -9165,6 +9165,7 @@ Rohan Das
 - [amey-kudari](https://github.com/amey-kudari)
 - [Michal Budzilo](https://github.com/michbudz)
 - [Leandro Ferreira](https://github.com/leofls)
+- [Siddharth Raj](https://github.com/sidhearts)
 - [Abdulrahman Alrahma](https://github.com/smokyabdulrahman)
 - [George Christoforidis](https://github.com/georgechristoforidis)
 - [Alexandra P](https://github.com/sandraprog)
