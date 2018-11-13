@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
@@ -10465,3 +10465,4 @@ Anthony Stannard
 - [Adam Szwaba](https://github.com/diakoneiros)
 - [Corey Cunningham](https://github.com/ccunnin8)
 - [Marco Gabba](https://github.com/Greyskin87)
+- [Celine Hudelot](https://github.com/hudelotc)
