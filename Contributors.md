@@ -10017,6 +10017,7 @@ Anthony Stannard
 - [Gabrielle Devanz](https://github.com/gabrielledevz)
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
+- [Philly G](https://github.com/pgwh)
 - [Zan Javed](https://github.com/zjaved101)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
