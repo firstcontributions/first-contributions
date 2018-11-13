@@ -123,6 +123,7 @@ Kanish Anand-
 - [Sandeep Pandey](https://github.com/Codextor)
 - [Aditi Garg](https://github.com/ADITI-08)
 - [Alex K.](https://github.com/gnarlex)
+- [Beyza Sertkaya](https://github.com/beyzasertkaya)
 - [Tyler Stahl](https://github.com/volanttyler)
 - [Pranav Mathur](https://github.com/noobieArtist)
 - [Divyamani Anand](https://github.com/commitedlearner)
