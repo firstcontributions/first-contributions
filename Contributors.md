@@ -9381,6 +9381,7 @@ Rohan Das
 - [Yasir Abdurrohman](https://github.com/yasirabd)
 - [Sinitax](https://github.com/sinitax)
 - [Daniel](https://github.com/daordonez11)
+- [Ritika Kumari](https://github.com/riti1302)
 - [Laurin Neff](https://github.com/laurinneff)
 - [Mughees Ali](https://github.com/IMughees)
 - [Janson Chew](https://github.com/haichew)
@@ -9990,4 +9991,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)]
-- [Ritika Kumari](https://github.com/riti1302)
