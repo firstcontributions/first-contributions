@@ -35,6 +35,7 @@ Kanish Anand-
 - [Janpreet Chandhok](https://github.com/chandhok97)
 - [Kyeza Arnold](https://github.com/Kyeza)
 - [Kevin Dunne](https://github.com/sdevkev)
+- [Srividhya Prakash Rangarajan](https://github.com/srividhyaprakash)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Nick Varacalli](https://hithub.com/NickVaracalli)
 -[Prashant Ahuja](https://github.com/bawablacksheep)
