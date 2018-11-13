@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
@@ -139,6 +139,7 @@ Kanish Anand-
 - Darion Toney
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
+- [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
 - [Jadon Orr](https://github.com/jadonOrr)
