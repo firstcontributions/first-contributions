@@ -29,6 +29,7 @@ Kanish Anand-
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
 - [Suraj Branwal](https://github.com/brandier-jd)
+- [constant1nos](https://github.com/constant1nos)
 - [Christopher Spankroy](https://github.com/chrisspankroy)
 - [luciade](https://github.com/luciade)
 - [Janpreet Chandhok](https://github.com/chandhok97)
