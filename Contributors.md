@@ -9051,6 +9051,7 @@ Rohan Das
 - [Diego Casillas](https://github.com/diegocasillas)
 - [Naveen Naidu](https://github.com/Naveenaidu)
 - [Shubhankar Ranade](https://github.com/shubhankar30)
+- [DinushaNaveen](https://github.com/DinushaNaween)
 - [Shivangi](https://github.com/shivangibithel)
 - [bvishal8510](https://github.com/bvishal8510)
 - [radusqrt](https://github.com/radusqrt)
