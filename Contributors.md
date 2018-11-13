@@ -4784,6 +4784,7 @@ Tanishq Gupta
 - [Elijah Rwothoromo](https://github.com/rwothoromo)
 - [Justin Bubel](https://github.com/jbubel)
 - [Luca Giacchino](https://github.com/lucagiac81)
+- [Mega Mongo] (https://github.com/MegaMongooo)
 - [Charlie Day](https://github.com/atlasRand)
 - [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
 - [Hieu Nguyen](https://github.com/hieunguyenm)
