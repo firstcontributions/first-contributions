@@ -9489,6 +9489,7 @@ Anthony Stannard
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Chris Srance](https://github.com/csprance)
 - [Nicole Moore](https://github.com/Angelfirenze01)
+- [Bertrand Deweer](https://github.com/geniusit)
 - [ZWTan](https://github.com/zwtan)
 - [sohanian](https://github.com/sohanian)
 - [Chad Van Wyhe](https://github.com/chadjvw)
