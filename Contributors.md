@@ -9516,6 +9516,7 @@ Anthony Stannard
 - [basher666](https://github.com/basher666)
 - [Riccardo Orlando](https://github.com/Riccorl)
 - [KSSBro](https://github.com/KSSBro)
+- [jayesh naidu](https://github.com/jayesh1147)
 - [Li Tomchik](https://github.com/roguedzines)
 - [JianLoong](https://github.com/JianLoong)
 - [vonDowntown](https://github.com/vonDowntown)
