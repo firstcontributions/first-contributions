@@ -342,6 +342,7 @@ Kanish Anand-
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
 - [Fabian Terh](https://github.com/fterh)
+- [Fred Aswad](https://github.com/cbdoc)
 - [axux](https://github.com/axux)
 - [Berk Erol](https://github.com/berkerol)
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
