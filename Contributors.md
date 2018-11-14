@@ -10507,3 +10507,4 @@ Anthony Stannard
 - [Celine Hudelot](https://github.com/hudelotc)
 - [William Washington](https://github.com/willWashington)
 - [Paladorn](https://github.com/Paladorn)
+- [Lucas Akira Morishita](https://github.com/lucas-akira/)
