@@ -80,6 +80,7 @@ Kanish Anand-
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [emperorjnx](https://github.com/emperorjnx)
 - [Anushree](https://github.com/anushree816)
+- [AgentMcBride](https://github.com/agentmcbride)
 - [Martin](https://github.com/academyyyy12)
 - [Uesli Almeida](https://github.com/ueslialmeida)
 - [Sitryk](https://github.com/Sitryk)
