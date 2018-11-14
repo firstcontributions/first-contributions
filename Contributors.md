@@ -9504,6 +9504,7 @@ Rohan Das
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Harry Teo](https://github.com/harryTeo)
+- [Abhinav Singh](https://github.com/sudoabhinav)
 - [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 - [Simon Situ](https://github.com/ssitu001)
 - [Wei](https://github.com/weichenw)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Abhinav Singh](https://github.com/sudoabhinav)
