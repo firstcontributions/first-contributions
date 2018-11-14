@@ -371,6 +371,7 @@ Kanish Anand-
 - [Dan DuLeone](https://github.com/dduleone)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Zilyck](https://github.com/zilyck)
+- [Hal Allred](https://github.com/hasta13)
 - [Darshana Joshi](https://github.com/Joshi-D)
 - [Angus](https://github.com/AngusGardnerWKC)
 - [Satyam Kumar](https://github.com/satyamtg)
