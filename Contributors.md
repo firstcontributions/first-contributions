@@ -328,6 +328,7 @@ Kanish Anand-
 - [Vedarth](https://github.com/Vedarth)
 - [Michal123pl](https://github.com/Michal123pl)
 - [Jasu](https://github.com/jspine01)
+- [Pingsutw](https://github.com/pingsutw)
 - [jballi17](https://github.com/jballi17)
 - [julianaklulo](https://github.com/julianaklulo)
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
