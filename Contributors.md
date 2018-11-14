@@ -8,6 +8,7 @@
 - [Supraja]()
 -[Rui Chow]()
 - [Kazmuir Long]
+-  [Seif Laatiri] (https://github.com/Seif-Lat)
 - [Arielle Hale](https://github.com/thoothie)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
