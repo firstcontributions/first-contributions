@@ -10247,6 +10247,7 @@ Anthony Stannard
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
 - [Julle Juliusson](https://github.com/Ret3x)
+- [Simon Cordes](https://github.com/C0rdes)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
 - [Ronaldo Gomes](https://github.com/ron17)
