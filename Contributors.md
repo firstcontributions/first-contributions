@@ -9,6 +9,7 @@
 -[Rui Chow]()
 - [Kazmuir Long]
 -  [Seif Laatiri] (https://github.com/Seif-Lat)
+- [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
