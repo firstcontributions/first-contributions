@@ -6,7 +6,6 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
-- [Peter Shi](https://github.com/pshi928)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
@@ -218,7 +217,8 @@ Alvin
 - [LONEWOLFIZ](https://github.com/lonewolfiz)
 - [Sarunyou Whangbunyapirat](https://github.com/sarunyou)
 - [Shivam Agrawal](https://github.com/shiv11x10)
-- [Connor Lindsey] (https://github.com/Ibaeni)
+- [Connor Lindsey](https://github.com/Ibaeni)
+- [Peter Shi](https://github.com/pshi928)
 -[pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
 - [Markus Muzikants](https:/github.com/RaitoDaku)
