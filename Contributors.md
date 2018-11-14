@@ -9476,6 +9476,7 @@ Rohan Das
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
+- [Kazumasa Kohtaka](https://github.com/kkohtaka)
 - [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Kazumasa Kohtaka](https://github.com/kkohtaka)
