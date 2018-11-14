@@ -9616,6 +9616,7 @@ Rohan Das
 - [Marcos Linberg](https://github.com/marcoslinberg)
 - [Nguyen Duy Khanh](https://github.com/Songuku95)
 - [Ganesh Rajasekar](https://github.com/ganesh292)
+- [Martin Guttman](https://github.com/mdg92)
 - [Diego Trazzi](https://github.com/d1Ng0)
 - [Paperweb](https://github.com/Paperweb)
 - [Vitor Bartier](https://github.com/bartier)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Martin Guttman](https://github.com/mdg92)
