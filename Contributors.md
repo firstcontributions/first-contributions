@@ -10536,3 +10536,4 @@ Anthony Stannard
 - [Lucas Akira Morishita](https://github.com/lucas-akira/)
 - [Robinson Beaucour](https://github.com/RobinsonBeaucour/)
 - [Gökhan Özeloğlu](https://github.com/gozeloglu/)
+- [Charles Hayes](https://github.com/ch88251)
