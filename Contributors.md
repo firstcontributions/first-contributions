@@ -8,6 +8,7 @@
 - [Supraja]()
 -[Rui Chow]()
 - [Kazmuir Long]
+- [Brian Driesenga] (https://github.com/driesenga)
 -  [Seif Laatiri] (https://github.com/Seif-Lat)
 - [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
