@@ -1,6 +1,5 @@
 ﻿# Contributors
 - [Ivan Boldyrev](https://github.com/iboldurev)
-- [Hal Allred](https://github.com/hasta13)
 - [Dan Mauro] (https://github.com/dmauro22)
 - [Supraja]()
 - [Arielle Hale](https://github.com/thoothie)
@@ -310,8 +309,9 @@
 - [Dan DuLeone](https://github.com/dduleone)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Zilyck](https://github.com/zilyck)
-- [Darshana Joshi] (https://github.com/Joshi-D)
-- [Angus] (https://github.com/AngusGardnerWKC)
+- [Hal Allred](https://github.com/hasta13)
+- [Darshana Joshi](https://github.com/Joshi-D)
+- [Angus](https://github.com/AngusGardnerWKC)
 - [Satyam Kumar](https://github.com/satyamtg)
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
