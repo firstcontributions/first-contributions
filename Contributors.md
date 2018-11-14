@@ -805,6 +805,7 @@
 - [Gary Dhillon](https://github.com/gary-dhillon)
 - [Robat Das Orvi](https://github.com/orvi2014)
 - [Allysa Fletcher](https://github.com/alldanfin)
+- [Ahmad Mufid](https://github.com/mufidtk)
 - [NVS ABHISHEK](https://github.com/NVS16)
 - [Frank Schiller](https://github.com/frankles12)
 - [Darren Potter](https://github.com/darpots)
@@ -1199,4 +1200,3 @@
 - [Alejandro Lazo](https://github.com/alazo8807)
 - [ahbstn](https://github.com/ahbstn)
 - [Titania](https://github.com/titania)
-- [Ahmad Mufid](https://github.com/mufidtk)
