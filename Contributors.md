@@ -9703,6 +9703,7 @@ Anthony Stannard
 - Octavian
 - [Alok Raj](https://github.com/alok722)
 - [Alessandro Melo](https://github.com/Alessandro2702/)
+- [klance]
 - [Sreesaran Raghu](https://github.com/r-sreesaran/)
 - [Savreen](https://github.com/rubal-98)
 - [Ankush Mehta](https://github.com/hsukna/)
