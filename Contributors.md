@@ -10179,6 +10179,7 @@ Anthony Stannard
 - [Shoaib Majeed](https://github.com/mshoaib85)
 - [Mudassar Nazeer](https://github.com/MudassarNazeer1)
 - [Matt Clinton](https://github.com/clnt)
+- [Brian Liu](https://github.com/someonebrian)
 - [Edgardo Mendez](https://github.com/edgamen)
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
