@@ -10478,3 +10478,4 @@ Anthony Stannard
 - [Adam Szwaba](https://github.com/diakoneiros)
 - [Corey Cunningham](https://github.com/ccunnin8)
 - [Marco Gabba](https://github.com/Greyskin87)
+- [William Washington](https://github.com/willWashington)
