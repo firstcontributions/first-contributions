@@ -174,6 +174,7 @@ Kanish Anand-
 - [Dexter] (https:///github.com/try-dexters-lab)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
+- [Manoj](https://github.com/manoj2509)
 - [eroSanyn](https://github.com/eroSanyn)
 - [Pravesh N](https://github.com/artbypravesh)
 - [Aashish Kumar](https://github.com/aashish-ak)
