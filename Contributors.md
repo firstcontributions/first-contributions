@@ -25,6 +25,7 @@ Kanish Anand-
   [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
+- [Syed Ali](https://github.com/sali9213)
 - [Kyle Somerfeldt](https://github.com/KSomerfeldt)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
