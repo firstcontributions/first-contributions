@@ -9812,6 +9812,7 @@ Anthony Stannard
 - [Jochen Kläger](https://github.com/jochen-klaeger)
 - [Filippo Finke](https://github.com/filippofinke)
 - [Satkar Dhakal](https://github.com/satcar77)
+- [Andrej Slocik](https://github.com/Baljeet21)
 - [Kevin Simkanič](https://github.com/kevinko12323)
 - [Viet Thanh](https://github.com/shivaluma)
 - [tehmantra](https://github.com/tehmantra)
