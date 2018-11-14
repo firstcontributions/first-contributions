@@ -507,6 +507,7 @@ Kanish Anand-
 - [Sarunyou Whangbunyapirat](https://github.com/sarunyou)
 - [Shivam Agrawal](https://github.com/shiv11x10)
 - [Connor Lindsey](https://github.com/Ibaeni)
+- [Peter Shi](https://github.com/pshi928)
 - [FredMck](https://github.com/FredMck)
 - [pankaj kumar](https://github.com/Shankusu7)
 - [Samane](https://github.com/samaneyaghoobi)
