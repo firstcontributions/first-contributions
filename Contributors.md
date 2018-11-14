@@ -33,6 +33,7 @@ Kanish Anand-
 - [Kyle Somerfeldt](https://github.com/KSomerfeldt)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
+- [kevin theron](https://github.com/Osyx31)
 - [Goerge Onoji](https://github.com/Ghreeyn)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Dinesh Vijayakumar](https://github.com/busybee1149)
