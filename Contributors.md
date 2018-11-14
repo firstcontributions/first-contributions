@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
@@ -416,6 +416,7 @@ Kanish Anand-
 - [MalkaSaba](https://github.com/malkasaba)
 - [JaredCotton](https://github.com/JACC-Creations)
 - [ChristopherCarr](https://github.com/christocarr)
+- [Gabriel Z.]
 - [Santiago Mas](https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
 - [carriekolmer](https://github.com/carriekolmer)
