@@ -9259,6 +9259,7 @@ Rohan Das
 - [Abhinav Raj](https://github.com/abhinavraj0123456789)
 - [Quinn Kleinfelter](https://github.com/qkleinfelter)
 - [Dmitry](https://github.com/N0menIllisLegio)
+- [Hayan Khrisna](https://github.com/hayankhrisna)
 - [BreakTruth](https://github.com/BreakTruth)
 - [Guo Mukun](https://github.com/guomk)
 - [Akash Nidhi P S](https://github.com/SkyTreasure)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Hayan Khrisna](https://github.com/hayankhrisna)
