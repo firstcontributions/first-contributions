@@ -4879,6 +4879,7 @@ Tanishq Gupta
 - [Shafran](https://github.com/Shafran123)
 - [tvixxx](https://github.com/tvixxx)
 - [Beso94](https://github.com/beso94)
+- [Ahmad Mufid](https://github.com/mufidtk)
 - [Miguel Lentisco](https://github.com/alfaomegax)
 - [AmirAli Mohammadzadeh](https://github.com/AmirAliM)
 - [Tharindu Sooriyaarachchi](https://github.com/TharinduDilshan)
