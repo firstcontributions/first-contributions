@@ -2212,6 +2212,7 @@ aalbusoiu
 - [Minh Chau](https://github.com/ctrongminh)
 - [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
+- [Simpson](https://github.com/spaniard96)
 - [Anderson Borba]()
 - [Saumya Prakash]()
 - [Nicholas Puglia](http://github.com/nicholaspuglia)
