@@ -111,6 +111,7 @@ Kanish Anand-
 - [Manish](https://github.com/developer-18)
 - [Ariel](https://github.com/donutsteele)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
+- [S-Tim](https://github.com/s-tim)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Rextobotu](https://github.com/rextobotu)
 - Carla
