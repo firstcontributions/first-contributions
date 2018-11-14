@@ -10509,3 +10509,4 @@ Anthony Stannard
 - [William Washington](https://github.com/willWashington)
 - [Nils Fedrigo](https://github.com/NilsFedrigo)
 - [Paladorn](https://github.com/Paladorn)
+- [Lucas Akira Morishita](https://github.com/lucas-akira/)
