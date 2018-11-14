@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
@@ -16,6 +16,8 @@
 - [Sina Saeedi](https://github.com/sina33)
 - [Trenton Hall]()
 - [Nigel Dalziel](https://github.com/dalziel)
+- [LARHDIR Nadir](https://github.com/itschittybang)
+- [ROUGE Jacques](https://github.com/jacquesrouge)
 Kanish Anand-
  [Khalid Elassaad]()
 - [Jesse Hillman] (https://github.com/proton5)
