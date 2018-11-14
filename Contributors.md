@@ -804,6 +804,7 @@ aalbusoiu
 - [Jeetendra Singh](https://github.com/g10drasingh)
 - [Constant Vallee](https://github.com/covallee)
 - [Ojas Gulati](https://github.com/ojasgulati)
+- [Eric Sinnicke](https://github.com/Esquared722)
 - [Angie Rodriguez](https://github.com/ARodriguezHacks)
 - [Rusver](https://github.com/Rusver)
 - [Florian Mauduit](https://github.com/ftx)
