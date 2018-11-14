@@ -10315,3 +10315,4 @@ Anthony Stannard
 - [Anthony Rios-Oliques](https://github.com/anthonyjro)
 - [Injae Lee](https://github.com/Injae-Lee)
 - [Acie] (https://github.com/acierate)
+- [Jeremy Dean] (https://github.com/deanj20)
