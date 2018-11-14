@@ -9532,6 +9532,7 @@ Anthony Stannard
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
 - [Osama Azmi](https://github.com/Samuelimza)
 - [Lineeyed](https://github.com/Lineeyed)
+- [Shubham Jain](https://github.com/jsjain007)
 - [Rahul Goel](https://github.com/rahulg963)
 - [MUSTHAFA ALI](https://github.com/codali)
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
