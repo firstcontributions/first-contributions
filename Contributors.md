@@ -9348,6 +9348,7 @@ Rohan Das
 - [Madhuri Gubbala](https://github.com/madzzie)
 - [Rafael Gerônimo](https://github.com/rafaelgeronimo)
 - [Arun Babu Subramaniam](https://github.com/arunbabusubramaniam)
+- [Abhishek Shukla](https://github.com/abhishekshukla1997)
 - [Andrew Wijaya](https://github.com/andrewdudu)
 - [Karthik Satyanarayana](https://github.com/karmon1681/)
 - [Alexander Galdones](https://github.com/alexandergaldones)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Abhishek Shukla](https://github.com/abhishekshukla1997)
