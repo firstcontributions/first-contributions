@@ -10498,6 +10498,7 @@ Anthony Stannard
 - [Trent Mauney](https://github.com/tmauney1)
 - [ck]
 - [Xander S]
+- [Alex Petrut] (https://github.com/eminusalexpopa)
 - [Connor] (https://github.com/SenorGrande)
 - [mkhan3]
 - [Jason](https://github.com/k4gi)
