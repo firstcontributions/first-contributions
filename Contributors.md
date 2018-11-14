@@ -9666,6 +9666,7 @@ Anthony Stannard
 - [Sarsiz Chauhan](https://github.com/sarsiz)
 - [Fatih Gülakar](https://github.com/Neosar)
 - [Idruk](https://github.com/Idruk)
+- [Simon Barnes](https://github.com/sb18281)
 - [Ibrahim Hasan](https://github.com/hima-Megahed)
 - [Sameer Ahmad](https://github.com/sahmad737)
 - [Edgar Cuarezma](https://github.com/ecuarezma)
