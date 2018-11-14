@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
@@ -2728,6 +2728,7 @@ aalbusoiu
 - [Aaron Klapatch](https://github.com/aklapatch)
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
+- [Grégoire Sanson](https://github.com/Dratui)
 - [Hunter Cote](https://github.com/hcote)
 - [Lin Zhou](https://github.com/LinZhouWebDev)
 - [Purusharth Verma](http://gitub.com/puru12)
