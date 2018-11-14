@@ -9650,6 +9650,7 @@ Rohan Das
 - [Rana Faisal](https://github.com/IRanaFaisal)
 - [Mudassar Nazeer](https://github.com/MudassarNazeer1)
 - [Matt Clinton](https://github.com/clnt)
+- [Brian Liu](https://github.com/someonebrian)
 - [Edgardo Mendez](https://github.com/edgamen)
 - [Kenten Roth](https://github.com/kentenroth)
 - [Mario Vizcaino](https://github.com/mariovzc)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Brian Liu](https://github.com/someonebrian)
