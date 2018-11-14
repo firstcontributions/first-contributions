@@ -3765,6 +3765,7 @@ Viraj Jiwane
 - [Angga Indriya Pamungkas](https://github.com/anggaip)
 - [Joaqu?n Pignol](https://github.com/joespi)
 - [Srijan Manandhar](https://github.com/srijanss)
+- [J.A. Oseguera] (https://github.com/jaoseguera)
 - [Chid](https://github.com/pvcpre)
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
