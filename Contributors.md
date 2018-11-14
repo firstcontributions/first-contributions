@@ -204,6 +204,7 @@ Kanish Anand-
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dede Hamzah](https://github.com/dehamzah)
 - [Arohan](https://github.com/arohan007)
+- Daniel Dantas
 - [Rizwan](https://github.com/rsz)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
