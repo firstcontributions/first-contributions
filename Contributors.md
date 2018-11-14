@@ -9360,6 +9360,7 @@ Rohan Das
 - [Ahad Ali](https://github.com/ahad80)
 - [nachogoca](https://github.com/nachogoca)
 - [Abhishek Singh](https://github.com/razerboygrim)
+- [Padmavathi Patnala](https://github.com/PadmavathiPatnala)
 - [Jan Kläger](https://github.com/janklaeger)
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Padmavathi Patnala](https://github.com/PadmavathiPatnala)
