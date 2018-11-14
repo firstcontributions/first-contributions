@@ -4290,7 +4290,7 @@ Tanishq Gupta
 - [Jason](https://github.com/daxapps)
 - [Diana Monteiro](https://github.com/dichaves)
 - [Lise Ho](https://github.com/koprty)
-- [Jon](https://githug.com/septimo7)
+- [Jon Liu](https://github.com/SePTimO7)
 - [Benoit Decline](https://github.com/bdeglane)
 - [John Doyke](https://github.com/johnjohn12)
 - [Geoffrey Wong](https://github.com/GeoffreyHW)
