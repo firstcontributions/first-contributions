@@ -10002,6 +10002,7 @@ Anthony Stannard
 - [Aviv Ben Yosef](https://github.com/avivbyo)
 - [3n1gmat1c](https://github.com/3n1gmat1c)
 - [Klaudia](https://github.com/klaudiakp)
+- [Laura Tan](https://github.com/lauratan)
 - [Darkatom](https://github.com/Darkatom)
 - [Mike Macias](https://github.com/mmacias96)
 - [angristan](https://github.com/angristan)
