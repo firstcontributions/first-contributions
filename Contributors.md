@@ -5258,9 +5258,8 @@ Rohan Das
 - [Sutthinart Khunvadhana](https://github.com/iakgoog)
 - [John Guida](https://github.com/gotCaCO3)
 - [Tsufael](https://github.com/Tsufael)
-- [Sidartha]
-- [Connor Newman] 
-(https://github.com/connewm)(https://github.com/sidarthar)
+- [Sidartha](https://github.com/sidarthar)
+- [Connor Newman](https://github.com/connewm)
 - [Edgar](https://github.com/edgarbc)
 - [Josh](https://github.com/jhsones)
 - [Krystle Weinrich](https://github.com/kmweinrich)
