@@ -8610,6 +8610,7 @@ Rohan Das
 - [Ahmed Raza](https://github.com/MuhammmadAhmedRaza)
 - [CodersFiles](https://github.com/CodersFiles)
 - [Kushal Vijay](https://github.com/KushalVijay)
+- [Jacob Moya](https://github.com/moya2717)
 - [Nico Braun](https://github.com/Nios7853/)
 - [Jason Guan](https://github.com/ygvwalgiya)
 - [mhaagen ](https://github.com/mhaagen)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jacob Moya](https://github.com/moya2717))
