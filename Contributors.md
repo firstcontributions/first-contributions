@@ -22,6 +22,7 @@ Kanish Anand-
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
 - [Alex Moran]()
+- [Dimitri]()
   [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
 - [Irham Dzuhri](https://github.com/irhamdz)
