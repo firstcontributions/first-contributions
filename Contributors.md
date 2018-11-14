@@ -10013,6 +10013,7 @@ Anthony Stannard
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
+- [Kazumasa Kohtaka](https://github.com/kkohtaka)
 - [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
