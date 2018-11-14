@@ -9185,6 +9185,7 @@ Rohan Das
 - [Sarsiz Chauhan](https://github.com/sarsiz)
 - [Fatih Gülakar](https://github.com/Neosar)
 - [Idruk](https://github.com/Idruk)
+- [Simon Barnes](https://github.com/sb18281)
 - [Ibrahim Hasan](https://github.com/hima-Megahed)
 - [Edgar Cuarezma](https://github.com/ecuarezma)
 - [Sayyed Raza](https://github.com/S-M-Jawwad-Raza)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Simon Barnes](https://github.com/sb18281)
