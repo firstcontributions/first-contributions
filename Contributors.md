@@ -63,6 +63,7 @@ Kanish Anand-
 - [Vinit Kumbharkar](https://github.com/Vin-it)
 - [Josh Maguire](https://github.com/maguirejosh7)
 - [Chris Curtis](http://github.com/astralentity)
+- [Suman Ghimire](https://github.com/Geo-Trackers)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
 - [Emily Yang](https://github.com/emilyyz92)
