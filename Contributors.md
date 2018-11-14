@@ -10506,3 +10506,4 @@ Anthony Stannard
 - [Marco Gabba](https://github.com/Greyskin87)
 - [Celine Hudelot](https://github.com/hudelotc)
 - [William Washington](https://github.com/willWashington)
+- [Paladorn](https://github.com/Paladorn)
