@@ -9750,6 +9750,7 @@ Anthony Stannard
 - [klance]
 - [Sreesaran Raghu](https://github.com/r-sreesaran/)
 - [Savreen](https://github.com/rubal-98)
+- [divijary](https://github.com/divijary)
 - [Ankush Mehta](https://github.com/hsukna/)
 - [Harrison Broadbent](https://github.com/harrison-broadbent)
 - [Umesh Pandey](https://github.com/umeshpandey994)
