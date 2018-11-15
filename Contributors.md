@@ -329,6 +329,7 @@
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 - [Kushagra Gulati](https://github.com/kush1106)
 - Rich Herbert
+  [Cassidy Morgan](https://github.com/morgancassidy98)
 - [Brett](https://github.com/brettmontague)
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
