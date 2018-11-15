@@ -30,6 +30,7 @@
 - [Jesse Hillman](https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
+- [Tobi Popoola](https://github.com/tobithegreat)
 - [Alex Moran]()
 - [Thibault Devienne]()
 - [Dimitri]()
