@@ -9218,6 +9218,7 @@ Rohan Das
 - [Alessandro Melo](https://github.com/Alessandro2702/)
 - [Sreesaran Raghu](https://github.com/r-sreesaran/)
 - [Savreen](https://github.com/rubal-98)
+- [divijary](https://github.com/divijary)
 - [Ankush Mehta](https://github.com/hsukna/)
 - [Harrison Broadbent](https://github.com/harrison-broadbent)
 - [Umesh Pandey](https://github.com/umeshpandey994)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [divijary](https://github.com/divijary)
