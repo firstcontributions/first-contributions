@@ -9106,6 +9106,7 @@ Rohan Das
 - [Waramun Achametra](https://github.com/booms2p)
 - [Nayalash Mohammad](https://github.com/Nayalash)
 - [Garvit Kothari](https://github.com/Garvit-k)
+- [Danish Sheikh](https://github.com/DanishSheikh1999)
 - [apples723](https://github.com/apples723)
 - [Andrew Hopkins](https://github.com/andrewjhopkins)
 - [Amrita Singha Roy](https://github.com/Amrito1996)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Danish Sheikh](https://github.com/DanishSheikh1999)
