@@ -74,6 +74,7 @@
 - [Mohamed Ahmed]()
 - [Aswin Nair](https://github.com/aswintorch)
 - [Anastas Radosavljevic](https://github.com/anastasrado)
+- [Vladimir Tretyak](https://github.com/tretyakvl);
 - [Leon Liang](https://github.com/leonliang0395)
 - [Vinit Kumbharkar](https://github.com/Vin-it)
 - [Josh Maguire](https://github.com/maguirejosh7)
