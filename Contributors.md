@@ -9885,6 +9885,7 @@ Anthony Stannard
 - [Cholinka13](https://github.com/cholinka13)
 - [Breno Franco](https://github.com/brenohff)
 - [Hearot](https://github.com/hearot)
+- [Steve Sioli](https://github.com/stevesioli)
 - [Ganaa](https://github.com/ganbadrakh)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [NikhilMTomy](https://github.com/nikhilmtomy)
