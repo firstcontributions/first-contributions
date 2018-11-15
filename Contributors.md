@@ -9411,6 +9411,7 @@ Rohan Das
 - [Gene Pride](https://github.com/genepride)
 - [Guillaume Brizolier](https://github.com/chaoticdenim)
 - [Nishant Tilve](https://github.com/Antimatter98)
+- [Sowjanya Mupparaju](https://github.com/mldssowji)
 - [Prakhar Dubey](https://github.com/prakhardb)
 - [MissSemicolon](https://github.com/MissSemicolon)
 - [Wsupatgiat] (https://github.com/Wsupatgiat)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Sowjanya Mupparaju](https://github.com/mldssowji)
