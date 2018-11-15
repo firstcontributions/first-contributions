@@ -9540,7 +9540,8 @@ Rohan Das
 - [Kha Yuen Kam](https://github.com/khayuenkam)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
-- [Exvilia] (https://github.com/Exvilia)
+- [Exvilia](https://github.com/Exvilia)
+- [Lavanyareddyu5](https://github.com/Lavanyareddyu5)
 - [Matt Murphy](https://github.com/MattMurphyDev)
 - [DonnyCraft1](https://github.com/DonnyCraft1)
 - [Ramitha](https://github.com/ramiiZPD)
@@ -9862,5 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
--[Lavanyareddyu5](https://github.com/Lavanyareddyu5)
-
