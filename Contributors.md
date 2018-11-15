@@ -9386,6 +9386,7 @@ Rohan Das
 - [Michael Kane](https://github.com/mtkane0)
 - [Chris Harmoney](https://github.com/charmoney)
 - [Thameem K](https://github.com/thameemk612)
+- [Tom Therrien](https://github.com/trtherrien)
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Ulises Campos](https://github.com/Ulisescp97)
 - [Jorge](https://github.com/ferreiro)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Tom Therrien](https://github.com/trtherrien)
