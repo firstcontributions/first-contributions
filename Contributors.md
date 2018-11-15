@@ -10571,4 +10571,3 @@ Anthony Stannard
 - [Eric Shtivelberg] (https://github.com/eshtive353)
 - [Hemanth GS] (https://github.com/hemags)
 - [Rayon Pinnock] (https://github.com/pinnock)
-- [Simon Joyce] (https://github.com/mySimonID)
