@@ -306,6 +306,7 @@ Kanish Anand-
 - [Saad Patel](https://github.com/Saad2714)
 - [Sohil Ladhani](https://github.com/sohilladhani)
 - [kzack123](https://github.com/kzack123)
+- [Chaitanya Arora](https://github.com/arorachaitanya)
 - Alex
 - [Shreya Badchariya](https://github.com/shreya50)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
