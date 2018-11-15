@@ -2990,6 +2990,7 @@ Bakht Jamal Sukhera
 - [Alexandre Taschner](https://github.com/aletaschner)
 - [Mahima](https://github.com/mav11)
 - [Dylan Kirby](https://github.com/dylankirby)
+- [Mattia Capitanio](https://github.com/mattiacapitanio)
 - [Leon Merc](https://github.com/leonmerc)
 - [Jacob Cornwell](https://github.com/jpcornwell)
 - [Ca Da](https://github.com/Camdamish)
