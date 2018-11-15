@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [faveja](https://github.com/faveja)
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Bag0ul](https://github.com/Bag0ul)
@@ -361,6 +361,7 @@
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23)
+- [Sabi K](https://github.com/sabiku85)
 - [gormleymark](https://github.com/gormleymark)
 - [aalizwel23](https://github.com/aalizwel23
 - [aalizwel23](https://github.com/aalizwel23)
