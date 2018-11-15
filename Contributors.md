@@ -75,6 +75,7 @@
 - [Aswin Nair](https://github.com/aswintorch)
 - [Anastas Radosavljevic](https://github.com/anastasrado)
 - [Leon Liang](https://github.com/leonliang0395)
+- [Travis Virgil](https://github.com/virgilt)
 - [Vinit Kumbharkar](https://github.com/Vin-it)
 - [Josh Maguire](https://github.com/maguirejosh7)
 - [Chris Curtis](http://github.com/astralentity)
