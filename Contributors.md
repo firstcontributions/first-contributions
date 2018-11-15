@@ -15,7 +15,6 @@
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
 - [Rachel L](https://github.com/rslim87)
-- [Keshav A](https://github.com/Keshav-Asopa)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
@@ -841,6 +840,7 @@ Edison Shek
 - [Isurie](https://github.com/Isurie)
 - [Anestis Foulidis](https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
+- [Keshav A](https://github.com/Keshav-Asopa)
 - [Amir Hamzah](https://github.com/aktaktaw)
 - [connor-mcshane](https://github.com/connor-mcshane)
 - [Shubham Shrivastava](https://github.com/shrishubham)
