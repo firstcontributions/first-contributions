@@ -14,6 +14,7 @@
 -  [Seif Laatiri] (https://github.com/Seif-Lat)
 - [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
+- [Jayasree AG] (https://github.com/agjay96)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
