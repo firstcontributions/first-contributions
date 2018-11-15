@@ -10087,6 +10087,7 @@ Anthony Stannard
 - [Doug Silva](https://github.com/d0gey)
 - [Carlo Martín](https://github.com/CarloMtzMartin)
 - [Manvitha Kalicheti](https://github.com/manvithakalicheti)
+- [Bruno Dias](https://github.com/brsimoes)
 - [Mustafa Ismail](https://github.com/mustafaismail22)
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [Hamza Khalid](https://github.com/Hamza156)
