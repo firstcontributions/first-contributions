@@ -581,6 +581,7 @@ Kanish Anand-
 - apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
+- [Vijay Nambiar](https://github.com/nambiarvijay)
 - [Mancee](https://github.com/mancee)
 - [Tanmay Arora](https://github.com/sinbycosmay)
 - [Roshith R](https://github.com/Roshith93)
