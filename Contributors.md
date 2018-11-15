@@ -66,6 +66,7 @@
 - [Timothy](https://github.com/timtop)
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
+
 - [Viraj Malia](https://github.com/virajmalia)
 - [Raj Madisetti](https://github.com/rmadisetti3)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
@@ -175,6 +176,7 @@
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
+- [Dishanta Kpatrick](https://github.com/DishantaK)
 - [Jadon Orr](https://github.com/jadonOrr)
 - [Rosenthol Curtis](https://github.com/305curtis)
 - [fatima awad](https://github.com/fa6oomawad)
