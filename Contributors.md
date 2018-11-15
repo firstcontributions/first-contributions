@@ -275,6 +275,7 @@
 - [Declan McDonough](https:github.com/deckymcdonough)
 - Jesse
 - Hackerrrr
+- Manish kumar
 - Gordon
 - [Bijan Fard](https://github.com/BFard)
 - [Erick Greene](https://github.com/CptSharpie)
