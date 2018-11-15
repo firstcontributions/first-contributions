@@ -9974,6 +9974,7 @@ Anthony Stannard
 - [Prakhar Dubey](https://github.com/prakhardb)
 - [MissSemicolon](https://github.com/MissSemicolon)
 - [Wsupatgiat](https://github.com/Wsupatgiat)
+- [Harika Kothuri](https://github.com/harikakothuri)
 - [Tran Tat Huy](https://github.com/HrTran)
 - [Chiffonsigh](https://github.com/chiffonsigh)
 - [Jakub Goleń](https://github.com/SINEdowskY)
