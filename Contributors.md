@@ -11,6 +11,7 @@
 - [Mark Elishaev]()
 - [Rui Chow]()
 - [Kazmuir Long]()
+- [Jennifer Colna](https://github.com/JNC260)
 - [Sarah King](https://github.com/sarah-king)
 - [Brian Driesenga](https://github.com/driesenga)
 - [Seif Laatiri](https://github.com/Seif-Lat)
