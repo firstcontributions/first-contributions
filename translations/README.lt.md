@@ -10,8 +10,6 @@ Sunku. Visada sunku ką nors padaryti pirmą kartą. Ypač bendradarbiaujant, kl
 
 Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai daro pirmąjį indėlį. Prisiminkite: kuo labiau esate atsipalaidavęs, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
 
-#### *Skaitykite [kita kalba](../Translations.md)* 
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Jei neturite instaliuoto git, [ instaliuokite čia ]( https://help.github.com/articles/set-up-git/).
