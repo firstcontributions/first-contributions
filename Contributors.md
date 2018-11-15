@@ -8,6 +8,7 @@
 -[Rui Chow]()
 - [Kazmuir Long]
 - [Arielle Hale](https://github.com/thoothie)
+- [Kushal KC](https://github.com/kessi9400)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
