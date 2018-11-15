@@ -9340,6 +9340,7 @@ Rohan Das
 - [Jordan Christie](https://github.com/jordanchristie)
 - [Roman Leshchuk](https://github.com/Leroy1962)
 - [Aaron Alarie](https://github.com/iozy11`)
+- [Prathyeka Reddy](https://github.com/prathyekareddy)
 - [Krishnanunni R](https://github.com/krishnanunnir)
 - [Phil Ramirez](https://github.com/7IHd)
 - [keRLos](https://github.com/kerlos)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Prathyeka Reddy](https://github.com/prathyekareddy)
