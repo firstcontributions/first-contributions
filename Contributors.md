@@ -9998,6 +9998,7 @@ Anthony Stannard
 - [Xander Grzywinski](https://github.com/salaxander)
 - [Karishma](https://github.com/karishmaCoder)
 - [javathunderman](https://github.com/javathunderman)
+- [Emmanuel-Melon](https://github.com/Emmanuel-Melon)
 - [Alec Bailey](https://github.com/Alec-Bailey)
 - [William Francis](https://github.com/WilliamJohnFrancis)
 - [Mariana Brito](https://github.com/BritoMari)
