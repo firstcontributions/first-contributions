@@ -10521,6 +10521,7 @@ Anthony Stannard
 - [Ben Caneba](https://github.com/bcan001)
 - [Trent Mauney](https://github.com/tmauney1)
 - [ck]
+- [Mike Chavez](https://github.com/mikechavez)
 - [Xander S]
 - [Alex Petrut] (https://github.com/eminusalexpopa)
 - [Connor] (https://github.com/SenorGrande)
