@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [faveja] (https://github.com/faveja)
 - [Ian Smith] (https://github.com/ismith-xyz)
 - [Bag0ul] (https://github.com/Bag0ul)
 - [Gabriel Colson](https://github.com/gabrielcolson)
