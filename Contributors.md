@@ -9331,6 +9331,7 @@ Rohan Das
 - [Cholinka13](https://github.com/cholinka13)
 - [Breno Franco](https://github.com/brenohff)
 - [Hearot](https://github.com/hearot)
+- [Steve Sioli](https://github.com/stevesioli)
 - [Ganaa](https://github.com/ganbadrakh)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [Ryan S.](https://github.com/ryans331)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Steve Sioli](https://github.com/stevesioli)
