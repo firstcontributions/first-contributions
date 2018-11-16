@@ -26,6 +26,7 @@
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
 - [Sina Saeedi](https://github.com/sina33)
+- [base79](https://github.com/base79)
 - [Trenton Hall]()
 - [Nigel Dalziel](https://github.com/dalziel)
 - [LARHDIR Nadir](https://github.com/itschittybang)
