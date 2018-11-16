@@ -16,7 +16,6 @@
 - Jason
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
-- [Silpa Bharti](https://github.com/silpabharti)
 - [Bojan](https://github.com/TheBearYT)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
@@ -1670,7 +1669,8 @@ Edison Shek
 - bilalsiraj
 - [Sahil Wasan]
 - [Yasiru Geevinda](https://github.com/Yasirunet)
-- [Eric Bryant] (https://github.com/shmickle/)
+- [Eric Bryant](https://github.com/shmickle/)
+- [Silpa Bharti](https://github.com/silpabharti)
 - [Busta Codes](https://github.com/bustacodes)
 - [Jake](https://github.com/J-Gore)
 - [Tyler Stanley](https://github.com/tystanley)
