@@ -9526,6 +9526,7 @@
 - [Abubakar Mehmood](https://github.com/abubakarmehmood)
 - [Ivan](https://github.com/tikerlade)
 - [pyjaks](https://github.com/pyjaks)
+- [Thomas Boller](https://github.com/tboller)
 - [Rafed Muhammad Yasir](https://github.com/rafed123)
 - [Suryansha](https://github.com/suryansha)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
