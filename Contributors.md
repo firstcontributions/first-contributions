@@ -1276,6 +1276,7 @@
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Sugapriya](https://github.com/sugapriyasugu)
+- [Mark Murphy](https://github.com/nan-galad)
 - [Julien Proplesch](https://github.com/jproples)
 - [Nihar](https://github.com/niharr)
 - [Bayu Bimantara](https://github.com/bayubimantarar)
