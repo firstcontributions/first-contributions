@@ -9343,6 +9343,7 @@ Rohan Das
 - [Krishnanunni R](https://github.com/krishnanunnir)
 - [Phil Ramirez](https://github.com/7IHd)
 - [keRLos](https://github.com/kerlos)
+- [Joey Z](https://github.com/joeyz)
 - [Tristan Payne](https://github.com/aka-tpayne)
 - [Igor Guastalla de Lima](https://github.com/guastallaigor)
 - [Madhuri Gubbala](https://github.com/madzzie)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Joey Z](https://github.com/joeyz)
