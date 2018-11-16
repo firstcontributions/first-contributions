@@ -703,6 +703,7 @@
 - [Wawan](https://github.com/setiam3)
 - [Emmanuel Amadin](https://github.com/emmanuel-amadin)
 - [Arthur van Acker](https://github.com/puupa)
+- [Vivek Panchal](https://github.com/vivekpanchal)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram](https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
