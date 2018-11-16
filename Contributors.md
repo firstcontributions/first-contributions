@@ -8986,6 +8986,7 @@ Rohan Das
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
 - [Aditya Raj](https://github.com/rajatadiraj)
+- [Wang XinShuo](https://github.com/wangxinshuo426)
 - [Thanthu Nair](https://github.com/Thanthu)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
@@ -10199,4 +10200,3 @@ Anthony Stannard
 - [Melissa Sorrells](https://gihub.com/msorre2)
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
-- [Wang XinShuo](https://github.com/wangxinshuo426)
