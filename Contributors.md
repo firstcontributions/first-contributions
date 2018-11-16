@@ -166,6 +166,7 @@
 - [Ansul Kumar](https://github.com/ansul357)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [Eddie Melendez](https://github.com/exmelendez)
+- [Pratyush Kumar](https://github.com/pratyushsetu28)
 - [tnssh](https://github.com/tnssh)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Moses613](https://github.com/Moses613)
