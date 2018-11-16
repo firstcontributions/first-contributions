@@ -9294,6 +9294,7 @@ Rohan Das
 - [Nathalia Paiva Lima](https://github.com/naftalima)
 - [Peter Dada](https://github.com/dapetoo)
 - [Victor Bala](https://github.com/savicsly)
+- [Subrato Sarker](https://github.com/2010subrato)
 - [Yonas Stephen](https://github.com/yonasstephen)
 - [Chang Shu](https://github.com/changcode)
 - [Kenichi](https://github.com/PhantomX7)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Subrato Sarker](https://github.com/2010subrato)
