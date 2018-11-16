@@ -3331,6 +3331,7 @@
 - [tonezz](https://github.com/tonezz)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma](https://github.com/abhaysharma419)
+- [MSR Dinesh](https://github.com/msrdinesh)
 - [Emanuel](https://github.com/emanuelporf)
 - [Ashish Rao](https://github.com/ashishra0)
 - [Kyle Thomas](https://github.com/its-kyle-yo)
