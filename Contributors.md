@@ -8,6 +8,7 @@
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
 - [Supraja]()
+- [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
 - [Rui Chow]()
 - [Kazmuir Long]()
