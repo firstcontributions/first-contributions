@@ -14,7 +14,6 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
-- [Ashna Arora](https://github.com/itsashna)
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
@@ -870,6 +869,7 @@ Edison Shek
 - [Bharath Shendre](https://github.com/shendrekbharath)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Foxar](https://github.com/Foxar)
+- [Ashna Arora](https://github.com/itsashna)
 - [Derpyhsi](https://github.com/Derpyhsi)
 - [Robert Kosak](https://github.com/rkosak237)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
