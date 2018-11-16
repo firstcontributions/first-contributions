@@ -9856,6 +9856,7 @@ Rohan Das
 - [Ganesh Rajasekar](https://github.com/ganesh292)
 - [Diego Trazzi](https://github.com/d1Ng0)
 - [Paperweb](https://github.com/Paperweb)
+- [conorg763](https://github.com/conorg763)
 - [Vitor Bartier](https://github.com/bartier)
 - [Cheah Zixu](https://github.com/genesis331)
 - [James McMillan](https://github.com/jMac029)
@@ -10126,4 +10127,3 @@ Rohan Das
 - [TotalAMD](https://github.com/totalamd)
 - [Gilg4mesh](https://github.com/Gilg4mesh)
 - [sripriya]
-- [conorg763](https://github.com/conorg763)
