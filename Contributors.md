@@ -116,6 +116,7 @@
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
+- [jahanzeb](https://github.com/jahanzeb78)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Serdar Mumcu](https://github.com/serdarmumcu)
 - [Nick Long](https://github.com/nicklong98)
