@@ -10057,6 +10057,7 @@
 - [Shubham](https://github.com/officalshubhamrawal)
 - [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
+- [Gabriel Gordon](https://github.com/gordongab)
 - [Muchtarruddin](https://github.com/muchtarruddin)
 - [Anders Olsen](https://github.com/BroxigarDK)
 - [Yongho Lee](https://github.com/inthewalter)
