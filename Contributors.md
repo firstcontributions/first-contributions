@@ -9005,6 +9005,7 @@ Rohan Das
 - [Paula Audet](https://github.com/paulaaudet26)
 - [Ivan](https://github.com/tikerlade)
 - [pyjaks](https://github.com/pyjaks)
+- [Thomas Boller](https://github.com/tboller)
 - [Rafed Muhammad Yasir](https://github.com/rafed123)
 - [Suryansha](https://github.com/suryansha)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Thomas Boller](https://github.com/tboller)
