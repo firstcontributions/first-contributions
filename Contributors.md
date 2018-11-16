@@ -169,6 +169,7 @@
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
 - [tnssh](https://github.com/tnssh)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
+- [Pranoppal](https://github.com/pranoppal)
 - [Moses613](https://github.com/Moses613)
 - Jason
 - [Alvaro Cueva](https://github.com/varopxndx)
