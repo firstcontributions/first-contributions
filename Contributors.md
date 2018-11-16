@@ -8338,6 +8338,7 @@ Rohan Das
 - [Mihir Jhala](https://github.com/mihirjhala)
 - [Pratiksha Mehta](https://github.com/PratikshaMehta)
 - [Amaan Nathoo](https://github.com/amaannt)
+- [Igor Lucio](https://github.com/igorlmgx)
 - [Anurag](https://github.com/mendell)
 - [Andrew Nachtigal](https://github.com/andrewnachtigal)
 - [Diego Varela](https://github.com/Diego-Varela-Silva)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Igor Lucio](https://github.com/igorlmgx)
