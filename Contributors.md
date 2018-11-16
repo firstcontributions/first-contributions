@@ -8822,6 +8822,7 @@ Rohan Das
 - [alvintan05](https://github.com/alvintan05)
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
+- [Pawan Sharma Humagain](https://github.com/pawansharma925)
 - [kmimk](https://github.com/kmimk)
 - [katyushi](https://github.com/katyushi)
 - [alemelis](https://github.com/alemelis)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Pawan Sharma Humagain](https://github.com/pawansharma925)
