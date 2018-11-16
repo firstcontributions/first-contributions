@@ -9845,6 +9845,7 @@
 - [Mughees Ali](https://github.com/IMughees)
 - [Janson Chew](https://github.com/haichew)
 - [Het Patel](https://github.com/hetp111)
+- John Westin
 - [Han](https://github.com/hkim3162)
 - [Mehdi Druon](https://github.com/MehdiDr)
 - [Utsav Sharma](https://github.com/lordgatsby)
