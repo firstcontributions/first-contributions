@@ -177,6 +177,7 @@
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
+- [Dishanta Kpatrick](https://github.com/DishantaK)
 - [Jadon Orr](https://github.com/jadonOrr)
 - [Rosenthol Curtis](https://github.com/305curtis)
 - [fatima awad](https://github.com/fa6oomawad)
