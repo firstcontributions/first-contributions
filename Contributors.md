@@ -410,6 +410,7 @@
 - [Fabian Terh](https://github.com/fterh)
 - [Fred Aswad](https://github.com/cbdoc)
 - [axux](https://github.com/axux)
+- [Bárbara Fernandes](https://github.com/barbaradcf)
 - [Berk Erol](https://github.com/berkerol)
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
 - [Swarup Rajbhandari](https://github.com/swarup182)
