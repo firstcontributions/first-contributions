@@ -15,6 +15,7 @@
 - [Kazmuir Long]()
 - [Jennifer Colna](https://github.com/JNC260)
 - [Sarah King](https://github.com/sarah-king)
+- [Joe Bonino](https://github.com/jbonino)
 - [Brian Driesenga](https://github.com/driesenga)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Liza Dashevski](https://github.com/LizaDashevski)
