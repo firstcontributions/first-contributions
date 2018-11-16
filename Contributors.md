@@ -1189,6 +1189,7 @@
 - [Bharath Shendre](https://github.com/shendrekbharath)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Foxar](https://github.com/Foxar)
+- [Ashna Arora](https://github.com/itsashna)
 - [Derpyhsi](https://github.com/Derpyhsi)
 - [Robert Kosak](https://github.com/rkosak237)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
