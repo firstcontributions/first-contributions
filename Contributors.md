@@ -9376,6 +9376,7 @@
 - [José Brandão](https://github.com/OZebra)
 - [Jayam Srivastava](https://github.com/Srivastava-jayam)
 - [0xJhow](https://github.com/0xjhow)
+- [Harris Iqbal](https://github.com/Harris-Iqbal)
 - [João Tavares](https://github.com/vtavares11)
 - [Fabiane Souza](https://github.com/devfabisouza)
 - [Robson Marinho](https://github.com/RobsonMarinho)
