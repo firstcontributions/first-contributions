@@ -14,7 +14,6 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
-- [Vivek Panchal](https://github.com/vivekpanchal)
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
@@ -412,6 +411,7 @@ aalbusoiu
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Wawan](https://github.com/setiam3)
 - [Arthur van Acker](https://github.com/puupa)
+- [Vivek Panchal](https://github.com/vivekpanchal)
 - [Subham Mishra](https://github.com/Subham-mishra)
 - [Randy Ram](https://github.com/HyperManTT)
 - [Lucky Murari](https://github.com/luckymurari)
