@@ -393,6 +393,7 @@
 - [TrishaAguinaldo](https://github.com/kronicle114)'
 - [Adrian]
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
+- [Anton Ajit](https://github.com/ntn888)
 - [Aecio] (https://github.com/aeciorc/)
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
