@@ -9235,6 +9235,7 @@
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
 - [Aditya Raj](https://github.com/rajatadiraj)
+- [Wang XinShuo](https://github.com/wangxinshuo426)
 - [Thanthu Nair](https://github.com/Thanthu)
 - [Kyle Schwartz](https://github.com/ksmarty)
 - [Orlando Briceño](https://github.com/orlybg)
