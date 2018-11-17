@@ -1340,6 +1340,7 @@
 - [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora](https://github.com/hotshot07)
 - [Howie Andersen](https://github.com/howieandersen)
+- [Arav Dave](https://github.com/aravdave)
 - [Kim](https://github.com/kimmeccsb)
 - [Kimbo](https://github.com/KimboTodd)
 - [Mohd Mushfique](https://github.com/mdmush)
