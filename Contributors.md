@@ -10591,6 +10591,7 @@
 - [Anthony Rios-Oliques](https://github.com/anthonyjro)
 - [Injae Lee](https://github.com/Injae-Lee)
 - [Acie](https://github.com/acierate)
+- [humboo] (https://github.com/humboo)
 - [Jeremy Dean](https://github.com/deanj20)
 - [Seongkyu Lee] (https://github.com/queuestack)
 - [Jason Tsang](https://github.com/jasonrtsang)
