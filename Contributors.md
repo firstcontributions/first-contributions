@@ -1837,6 +1837,7 @@
 - [Wesley Clements](https://github.com/WesleyClements)
 - [Rafael Framil](https://github.com/raframil)
 - [Craig Baldry] (https://github.com/CraigBaldry)
+- [Seongil Lee](https://github.com/modolee)
 - [Braelyn Rotman](https://github.com/braelynr)
 - [Joshua Manuel](https://github.com/JoshuaManuel)
 - [Chris Baumler](https://github.com/cbaumler)
