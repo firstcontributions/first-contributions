@@ -11,6 +11,7 @@
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
 - [Rui Chow]()
+- [Peter Mai](https://github.com/Peter-Mai)
 - [Blythe Totsch]
 - [Kat Tow] (https://github.com/kattow88)
 - [Kazmuir Long]()
