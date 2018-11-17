@@ -114,6 +114,7 @@
 - [Martin](https://github.com/academyyyy12)
 - [Uesli Almeida](https://github.com/ueslialmeida)
 - [Sitryk](https://github.com/Sitryk)
+- [Raymond To](https://github.com/rayto510)
 - [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
