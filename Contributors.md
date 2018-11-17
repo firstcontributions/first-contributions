@@ -1205,6 +1205,7 @@
 - [Ruchi Singh](https://github.com/Ruchi-nitd)
 - [Bhanu Teja Kodali](https://github.com/bhanutejabt)
 - [Bharath Shendre](https://github.com/shendrekbharath)
+- [Connor Blakey](https://github.com/redleek)
 - [Johan van Tongeren](https://github.com/D3D0X)
 - [Foxar](https://github.com/Foxar)
 - [Ashna Arora](https://github.com/itsashna)
