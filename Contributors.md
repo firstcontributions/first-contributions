@@ -6270,6 +6270,7 @@
 - [Farhan Khan](https://github.com/farhan5900)
 - [Juan Nathaniel](https://github.com/juannat95)
 - [Merril Jeffs](https://github.com/merrilj)
+- [Dawid Mucha](https://github.com/dawidmucha)
 - [Jon Widow](https://github.com/JonWidow)
 - [Pedro Caetano](https://github.com/pedroccaetano)
 - [Vijay Aggarwal](https://github.com/vijayaggarwal)
