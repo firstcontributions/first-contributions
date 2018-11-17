@@ -321,6 +321,7 @@
 - [corxrew](https://github.com/corxrew)
 - DGP
 - [TDSkyz](https://github.com/TDSkyz)
+- [Ayush Jain](https://github.com/AJ-54)
 - [j4y](https://github.com/j4ys)
 - [Nisal097](https://github.com/Nisal097)
 - [Pj18](https://github.com/Pj18)
@@ -10626,3 +10627,4 @@
 - [Navid Ahmadian](https://github.com/nahmadian)
 - [Syedalisait](https://github.com/syedalisait)
 - [Rahul Kumar](https://github.com/rahulkumar66)
+
