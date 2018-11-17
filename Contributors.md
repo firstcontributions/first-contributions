@@ -345,6 +345,7 @@
 - [Kushagra Gulati](https://github.com/kush1106)
 - Rich Herbert
   [Cassidy Morgan](https://github.com/morgancassidy98)
+  Nguyen Khoa
 - [Brett](https://github.com/brettmontague)
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
