@@ -12,6 +12,7 @@
 - [Mark Elishaev]()
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
+- [Lucas]
 - [Blythe Totsch]
 - [Kat Tow] (https://github.com/kattow88)
 - [Kazmuir Long]()
