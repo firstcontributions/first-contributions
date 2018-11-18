@@ -20,6 +20,7 @@
 - [Kat Tow] (https://github.com/kattow88)
 - [Kazmuir Long]()
 - [Jennifer Colna](https://github.com/JNC260)
+- [Aderajew Mengistu](https://github.com/ajmengistu)
 - [Sarah King](https://github.com/sarah-king)
 - [Joe Bonino](https://github.com/jbonino)
 - [Brian Driesenga](https://github.com/driesenga)
