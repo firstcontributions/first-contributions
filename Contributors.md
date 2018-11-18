@@ -8996,6 +8996,7 @@
 - [David Soto](https://github.com/DavidSotoA)
 - [Ines Benomar](https://github.com/inesbenomar18)
 - [Parth Tiwary](https://github.com/parthpankajtiwary)
+- [Terence Lee] (https://github.com/LEEterence)
 - [Laxmikanth Madhyastha](https://github.com/LaxmikanthMadhyastha)
 - [Cam Deatherage](https://github.com/ctd1077)
 - [Andri Ramdan](https://github.com/andrimramdan)
