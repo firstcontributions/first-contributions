@@ -15,6 +15,7 @@
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Lucas]
 - [Blythe Totsch]
+- [Ragan Lake]
 - [Kat Tow] (https://github.com/kattow88)
 - [Kazmuir Long]()
 - [Jennifer Colna](https://github.com/JNC260)
