@@ -12,6 +12,7 @@
 - [Supraja]()
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
+- [Nakita Strangeways](https://github.com/nakita-strangeways)
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Lucas]
