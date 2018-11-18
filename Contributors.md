@@ -18,6 +18,7 @@
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Kat Tow] (https://github.com/kattow88)
+- [Andrew Stanley] (https://github.com/andystanley)
 - [Kazmuir Long]()
 - [Jennifer Colna](https://github.com/JNC260)
 - [Aderajew Mengistu](https://github.com/ajmengistu)
