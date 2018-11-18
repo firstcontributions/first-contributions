@@ -78,6 +78,7 @@
 - [Ethan](https://github.com/EthanVieira)
 - [Viraj Malia](https://github.com/virajmalia)
 - [Josh Henderson](https://github.com/tracer223)
+- [Harold Beckerman](https://github.com/zestymcspicy)
 - [Raj Madisetti](https://github.com/rmadisetti3)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Jaime Perales](https://github.com/jperales64)
