@@ -236,6 +236,7 @@
 - [Arohan](https://github.com/arohan007)
 - Daniel Dantas
 - [Rizwan](https://github.com/rsz)
+- [Richard Kim](https://github.com/richardskim111)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
