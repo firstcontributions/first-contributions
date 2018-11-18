@@ -253,6 +253,7 @@
 - [RBRamu](https://github.com/rbramu)
 - [MartijnPold](https://github.com/martijnpold)
 - [Rounak Saha](https://github.com/rounak1288)
+- [Maggie Bauer](https://github.com/maggiebauer)
 - julio-garcia-fc
 - [Skooma Den]
 - wefromstars
