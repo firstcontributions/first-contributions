@@ -1797,6 +1797,7 @@
 - [Snir The Man](https://github.com/snirtheman)
 - [Dimitris Kokkaliaroglou](https://github.com/loxagossnake)
 - [Sean Yeo](https://github.com/SeanYeoTE)
+- [Maria Khurshid](https://github.com/mariakhurshid)
 - [Alexey Salangin](https://github.com/magauran)
 - [Arhan Banerjee](https://github.com/arhanbaner)
 - [Pranav Suresh](https://github.com/pranavsuresh7)
