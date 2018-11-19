@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Akash Yadav](https://github.com/akash2908)
 - [Pankaj Niroula](https://github.com/npankaj365)
@@ -24,6 +24,7 @@
 - [Mirek Rudkowski](https://github.com/kegrizzo)
 - [Mikella Green](https://github.com/mikellagreen)
 - [Helena Klein]()
+- James Bunz
 - [Piyush Sharma](https://github.com/piyusharma95)
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
