@@ -9400,6 +9400,7 @@
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [Pawan Sharma Humagain](https://github.com/pawansharma925)
 - [kmimk](https://github.com/kmimk)
+- [Dhruv Singh](https://github.com/dhruvsingh)
 - [katyushi](https://github.com/katyushi)
 - [alemelis](https://github.com/alemelis)
 - [Dragon984](https://github.com/Dragon984)
