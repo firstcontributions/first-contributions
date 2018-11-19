@@ -10365,6 +10365,7 @@
 - [Richard Bailey](https://github.com/Programm3r)
 - [Minauz](https://github.com/minauz)
 - [Erick Silva](https://github.com/erickos)
+- [Victor Menezes](https://github.com/victormenezez)
 - [Aditya](https://github.com/aditya300899)
 - [Buse Genç](https://github.com/busegenc)
 - [Felipe Putsch](https://github.com/flpputsch)
