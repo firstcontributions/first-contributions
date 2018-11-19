@@ -1721,6 +1721,7 @@
 - [Godwin Ogbonnaya Jnr](https://github.com/dwinjnr)
 - [Kevin Ost](https://github.com/kowder)
 - [Ben Lee](https://github.com/prizef)
+- [Amir Rauf](https://github.com/Amirrauf40)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Collin Cates](https://github.com/collincates)
 - [Raghav Grover](https://github.com/raghav7997)
