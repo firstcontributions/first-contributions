@@ -1200,6 +1200,7 @@
 - [Daniel Guerreiro](https://github.com/danielvperes)
 - [Ross Macey](https://github.com/rossmacey)
 - [Jack Guo](https://github.com/zexingguo)
+- [Atir Sarfraz](https://github.com/Atir11)
 - [Isurie](https://github.com/Isurie)
 - [Anestis Foulidis](https://github.com/anestisFoul)
 - [Abhijith Sheheer](https://github.com/abspython)
