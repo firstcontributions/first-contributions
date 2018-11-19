@@ -1290,6 +1290,7 @@
 - [Kiran Gangta](https://github.com/kiran1019)
 - [Vanessa Singh](https://github.com/VanessaSingh)
 - [jack hu](https://github.com/jackhub)
+- [Eli Shay](https://github.com/EliShayGH)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [Aidan Oleary](https://github.com/aidanoleary)
 - [sara_in_codeland](https://github.com/sangerftw)
