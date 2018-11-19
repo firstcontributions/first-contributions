@@ -1604,6 +1604,7 @@
 - [Neale Forrest](https://github.com/gumpie)
 - [Master](https://github.com/munnikedost)
 - [Evyn Price](https://github.com/thetechnicalfox)
+- [Hamza Awan](https://github.com/malikhamza125)
 - [sandeep](https://github.com/sandeepsanjusplr)
 - [robymontyz](https://github.com/robymontyz)
 - [Said Garcia](https://github.com/saidg23)
