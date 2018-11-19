@@ -1206,6 +1206,7 @@
 - [ClariSLover](https://github.com/s973125108)
 - [Kale](https://github.com/kalethenoise)
 - [Dedevava](https://github.com/dedevava)
+- [adeel afzal tech](https://github.com/adeelafzaltech)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [imbassi](https://github.com/gmarap)
 - [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva)
