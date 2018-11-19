@@ -532,7 +532,7 @@ aalbusoiu
 - [Ina Singhal] (https://github.com/inasinghal17)
 - [Abhishek Sarolia] (https://github.com/asarolia)
 - [Bilawal dar](https://github.com/bilawal1234)
-- Edison Shek
+Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
 - first-contributions
