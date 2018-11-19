@@ -10094,6 +10094,7 @@
 - [Tran Tat Huy](https://github.com/HrTran)
 - [Chiffonsigh](https://github.com/chiffonsigh)
 - [Jakub Goleń](https://github.com/SINEdowskY)
+- [Arie Rachmad Syulistyo](https://github.com/ArieRS/)
 - [Jonathan Markman](https://github.com/jmarkman)
 - [André Leitzke](https://github.com/leitzkeandre)
 - [Jonathan Goleń](https://github.com/HrTran12)
