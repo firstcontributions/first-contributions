@@ -2479,6 +2479,7 @@
 - [Shashwat Sanghavi](https://github.com/srsanghavi)
 - [Anish Walia] (https://github.com/anishwalia)
 - [Vinay Agarwal] (https://github.com/AgarwalVinay)
+- [Niaz Ahmad](https://github.com/niaza)
 - [Pierre Cassier](https://github.com/peterk6e)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
