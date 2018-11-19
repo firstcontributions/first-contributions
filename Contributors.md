@@ -929,6 +929,7 @@
 - [ayesha](https://github.com/chukki1)
 - [David Chandra](https://github.com/davidchandra95)
 - [Murat Kurnaz](https://github.com/KtrauM)
+- [malik usman aziz](https://github.com/malikusmanaziz)
 - [Mor Tal](https://github.com/mortal94)
 - [Chiu](https://github.com/achiuBAE)
 - [Abitnav](https://github.com/aBITnav)
