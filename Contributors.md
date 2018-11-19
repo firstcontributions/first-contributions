@@ -276,7 +276,7 @@
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
-- [Anil Basdeo](https://github.com/Zer02) 
+- [Anil Basdeo](https://github.com/Zer02)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
@@ -309,7 +309,7 @@
 - [Rizul Garg](https://github.com/RizulGarg)
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
-- Pietro Barcarollo Schiavinato 
+- Pietro Barcarollo Schiavinato
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
@@ -10708,3 +10708,4 @@
 - [Rahul Kumar](https://github.com/rahulkumar66)
 - [dqueric](https://github.com/dqueric)
 - [Aiclear]
+[kouranes](https://github.com/kouranes)
