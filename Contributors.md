@@ -450,6 +450,7 @@
 - [dmitrycy](https://github.com/dmitrycy)
 - [Soumith Bhagwat](https://github.com/soumithbhagwat)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
+- [Pawan Jada](https://github.com/pawankjada)
 - [blank15](https://github.com/blank15)
 - [blawle](https://github.com/blawle)
 - [Raees Nazeer](https://github.com/raeesnazeer)
