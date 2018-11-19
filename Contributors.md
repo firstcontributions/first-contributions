@@ -18,7 +18,6 @@
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Dilnawaz](me@dillo.me)
 - [bshehata](https://github.com/bshehata)
-- [Jordan Zhu](https://github.com/jordan-zhu)
 - [Tempor](https://github.com/temporaryacconunt)
 - [Ariel](https://github.com/donutsteele)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
@@ -1009,6 +1008,7 @@ Edison Shek
 - [Hunter Wallace](https://github.com/Hjwallace)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [jack hu](https://github.com/jackhub)
+- [Jordan Zhu](https://github.com/jordan-zhu)
 - [Thomas Wicks](https://github.com/ThomasWicks)
 - edward-cronus
 - vibhasi
