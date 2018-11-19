@@ -1116,6 +1116,7 @@
 - [Dina Wee](https://github.com/dinawee)
 - [John Adetutu](https://github.com/ruggedy)
 - [Abu Sayed](https://github.com/hallucinatorX)
+- [M Aizaz Ansari](https://github.com/ProITDdeveloper)
 - [Guy McManus](https://github.com/guymcmanusgithub)
 - [Szilvi Horvath](https://github.com/SzilviH)
 - [Sonam Chhogye](https://github.com/schhogyel)
