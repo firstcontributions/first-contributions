@@ -10572,6 +10572,8 @@
 - [Paul Shen](https://github.com/ShenPaul)
 - [TotalAMD](https://github.com/totalamd)
 - [Gilg4mesh](https://github.com/Gilg4mesh)
+- [sripriya]()
+- [kmifa](https://github.com/kmifa)
 - [firstcontribuiton]()
 - [Malin] (https://github.com/maltja)
 - [sripriya]()
