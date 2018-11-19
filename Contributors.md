@@ -1333,6 +1333,7 @@
 - [Julien Proplesch](https://github.com/jproples)
 - [Nihar](https://github.com/niharr)
 - [Bayu Bimantara](https://github.com/bayubimantarar)
+- [Asif Tariq](https://github.com/paghlaasif)
 - [furoTmark](https://github.com/furoTmark)
 - [Abhishek](https://github.com/absk1317)
 - [Christopher Mohrman](https://github.com/chrismohrman)
