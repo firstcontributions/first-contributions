@@ -872,6 +872,7 @@
 - [Anish Badri R S](https://github.com/anishbadhri)
 - [Ina Singhal](https://github.com/inasinghal17)
 - [Abhishek Sarolia](https://github.com/asarolia)
+- [Bilawal dar](https://github.com/bilawal1234)
 - [Anindita Mandal](https://github.com/Anindita7)
 - Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
