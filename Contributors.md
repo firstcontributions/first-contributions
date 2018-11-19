@@ -8823,6 +8823,7 @@ Rohan Das
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
+- [Dhruv Singh](https://github.com/dhruvsingh)
 - [katyushi](https://github.com/katyushi)
 - [alemelis](https://github.com/alemelis)
 - [Dragon984](https://github.com/Dragon984)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Dhruv Singh](https://github.com/dhruvsingh)
