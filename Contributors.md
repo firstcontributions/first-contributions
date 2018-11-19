@@ -9438,6 +9438,7 @@ Rohan Das
 - [Gavin McDonald](https://github.com/Gavmcdonald)
 - [sujan lohitha]()
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
+- [Max Sarasri](https://github.com/maxzitron)
 - [Frank Carlone](https://github.com/fcarlone)
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Max Sarasri](https://github.com/maxzitron)
