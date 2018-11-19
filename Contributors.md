@@ -10109,6 +10109,7 @@
 - [Jyrrki Vähpie](http://github.com/jjjyrfer)
 - [sujan lohitha]()
 - [Sooparerk Sakyai](https://github.com/noopydoopy)
+- [Max Sarasri](https://github.com/maxzitron)
 - [Frank Carlone](https://github.com/fcarlone)
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
