@@ -9484,6 +9484,7 @@ Rohan Das
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
+- [Jewel Elizabeth Thomas](https://github.com/Jewel-98)
 - [3n1gmat1c](https://github.com/3n1gmat1c)
 - [Klaudia](https://github.com/klaudiakp)
 - [Darkatom](https://github.com/Darkatom)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jewel Elizabeth Thomas](https://github.com/Jewel-98)
