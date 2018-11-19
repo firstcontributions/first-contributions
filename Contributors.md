@@ -9417,6 +9417,7 @@ Rohan Das
 - [Tran Tat Huy](https://github.com/HrTran)
 - [Chiffonsigh](https://github.com/chiffonsigh)
 - [Jakub Goleń](https://github.com/SINEdowskY)
+- [Arie Rachmad Syulistyo](https://github.com/ArieRS/)
 - [Jonathan Markman](https://github.com/jmarkman)
 - [André Leitzke](https://github.com/leitzkeandre)
 - [Jonathan Goleń](https://github.com/HrTran12)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Arie Rachmad Syulistyo](https://github.com/ArieRS/)
