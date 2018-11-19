@@ -1,5 +1,4 @@
 # Contributors
-- [Eli Shay](https://github.com/EliShayGH)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
@@ -916,6 +915,7 @@ Edison Shek
 - [Kiran Gangta](https://github.com/kiran1019)
 - [Vanessa Singh](https://github.com/VanessaSingh)
 - [jack hu](https://github.com/jackhub)
+- [Eli Shay](https://github.com/EliShayGH)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
 - [Aidan Oleary](https://github.com/aidanoleary)
 - [sara_in_codeland](https://github.com/sangerftw)
