@@ -10164,6 +10164,7 @@
 - [Harsh Mittal](https://github.com/harsh1201)
 - [Kazumasa Kohtaka](https://github.com/kkohtaka)
 - [Gino Stoian](https://github.com/ginostoian)
+- [Yosapol Jitrak](https://github.com/Eji4h)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Pedro Terriquez](https://github.com/PedroTerriquez)
