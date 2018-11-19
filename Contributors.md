@@ -10339,6 +10339,7 @@
 - [SJ](https://github.com/bluejay2011)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
 - [Malik Naveed](https://github.com/maliknaveed6200)
+- [Jean Mendes](https://github.com/JeanMendes)
 - [Hyun Daewon](https://github.com/hyundw84)
 - [Dewni Mithma](https://github.com/Dewni1995)
 - [Omer Qureshi](https://github.com/omer413)
