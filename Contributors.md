@@ -9477,6 +9477,7 @@ Rohan Das
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
 - [Gino Stoian](https://github.com/ginostoian)
+- [Yosapol Jitrak](https://github.com/Eji4h)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Prakash Kumar](https://github.com/theprakashkumar)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Yosapol Jitrak](https://github.com/Eji4h)
