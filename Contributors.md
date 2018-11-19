@@ -10170,6 +10170,7 @@
 - [Prakash Kumar](https://github.com/theprakashkumar)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
+- [Chris Lucas](https://github.com/lucasaid/)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
 - [3n1gmat1c](https://github.com/3n1gmat1c)
