@@ -9922,6 +9922,7 @@
 - [Saif ur rehman qureshi](https://github.com/heyitsaif)
 - [Nayan Das](https://github.com/Nayan-Das)
 - [Richard Huang](https://github.com/aeolyus)
+- [Shrey A.](https://github.com/shreystechtips)
 - [Thanawit Gerdprasert](https://github.com/carymono)
 - [Peradon Charoenchainetr](https://github.com/Peradon)
 - [Jochen Kläger](https://github.com/jochen-klaeger)
