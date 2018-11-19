@@ -9553,6 +9553,7 @@ Rohan Das
 - [Hậu Chử](https://github.com/hauchu1196)
 - [Eviliana](https://github.com/eviliana)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
+- [Vaibhav Shrivastava](https://github.com/mishuvs)
 - [Dumika Jayarathna](https://github.com/Dumika)
 - [Saksham Pruthi](https://github.com/saksham0804)
 - [Ahad Ali](https://github.com/ahad80)
@@ -10082,4 +10083,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Vaibhav Shrivastava](https://github.com/mishuvs)
