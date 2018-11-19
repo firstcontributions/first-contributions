@@ -1090,6 +1090,7 @@
 - [Ajay Singh] (https://github.com/cuzok)
 - [Anjanna Ramesh](https://github.com/Anjanna)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
+- [Andrey Kamozin aka JaffParker](https://github.com/jaffParker/)
 - [Alex Dvorkin](https://github.com/alexeydvr)
 - [Ellen](https://github.com/schmellz)
 - [Vrashi Shrivastava](https://github.com/vrashi)
