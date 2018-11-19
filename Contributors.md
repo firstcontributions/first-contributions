@@ -5,8 +5,6 @@
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
-- [Amjad](https://github.com/Amjad817)
-  
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
@@ -584,7 +582,8 @@ Edison Shek
 - [Kenny Zhou](https://github.com/Kenford20)
 - [João Mota](https://github.com/jpmmota)
 - [Calvin Golas](https://github.com/CalvinGolas)
-- [Ahmed waqas nasir] (https://github.com/waqasnasir/)
+- [Ahmed waqas nasir](https://github.com/waqasnasir/)
+- [Amjad](https://github.com/Amjad817)
 - [David Chandra](https://github.com/davidchandra95)
 - [Murat Kurnaz](https://github.com/KtrauM)
 - [Mor Tal](https://github.com/mortal94)
