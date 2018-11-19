@@ -14,7 +14,6 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - Jason
-- [Shubham Saxena](https://github.com/shubhlpu16
 - [Rachel L](https://github.com/rslim87)
 - [Ronish Zadode](https://github.com/ronishz)
 - [Bojan](https://github.com/TheBearYT)
@@ -789,6 +788,7 @@ Edison Shek
 - [Lawrence Lockhart] (https://github.com/onesirian)
 - [Hanas Abdullahi](https://github.com/Hanas1)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
+- [Shubham Saxena](https://github.com/shubhlpu16
 - [Oluwakorede Fashokun](https://github.com/korede360)
 - [Shane Wilson](https://github.com/mistyferocity43)
 - [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
