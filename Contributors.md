@@ -1352,6 +1352,7 @@
 - [Dennis Lin](https://github.com/denni5lin)
   -[Bhishm Juneja](https://github.com/bhishm7)
 - [Farooq Ch](https://github.com/farooqch11)
+- [Syed Ali Abbas](https://github.com/syedaliabbas12)
 - [Fredrik Linde](https://github.com/flinde)
 - [Björn Kristensson Alfsson](https://github.com/BKristenssonAlfsson/)
 - [Parinya Onsuwan](https://github.com/parinz1234)
