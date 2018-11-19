@@ -1347,6 +1347,7 @@
 - [Mitchell Fensome](https://github.com/kingcoconut332)
 - [Ryan Chan](https://github.com/ryanchanplc)
 - [Omer BAHADIR](https://github.com/thedeepocean)
+- [SummaiyaAS](https://github.com/SummaiyaAS)
 - [Michael Wahba](https://github.com/mwahba13)
 - [Anders Holt Knudsen](https://github.com/anders2410)
 - [Wander Souza](https://github.com/WanderDouglas)
