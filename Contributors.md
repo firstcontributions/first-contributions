@@ -6,8 +6,6 @@
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Himanshu Singh](https://github.com/himanshux101)
-- [Iftikhar Ali](https://github.com/iftikharzulfiqar6)
-- [Iftikhar Ali1](https://github.com/iftikharzulfiqar61)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Aditi Garg](https://github.com/ADITI-08)
@@ -1189,7 +1187,8 @@ Edison Shek
 - [Ravi Gupta](https://github.com/guptaravi540)\
 - [Oshidi Weerakulasuriya](https://github.com/OshidiWeerakulasuriya)
 - [Corey Hayden](https://github.com/cghayden)
-- [Shubham Shirpurkar] (https://github.com/Bumsquest)
+- [Shubham Shirpurkar](https://github.com/Bumsquest)
+- [Iftikhar Ali](https://github.com/iftikharzulfiqar)
 - [Hsain Wu](http://github.com/wsp50317)
 - [Nishit Attrey](https://github.com/NishitAttrey)
 - [Rishab jain](https://github.com/rishabjn)
