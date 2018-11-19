@@ -138,6 +138,7 @@
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
+- [Arslan Talib](https://github.com/arslantalib12)
 - [jahanzeb](https://github.com/jahanzeb78)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Serdar Mumcu](https://github.com/serdarmumcu)
