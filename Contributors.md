@@ -1676,6 +1676,7 @@
 - [Tom Merrifield](https://github.com/tpmerrifield)
 - [Qyunal](https://github.com/Qyunal)
 - [mnemosdev](https://github.com/mnemosdev)
+- [Marco Bustillo](https://github.com/oyoyoi)
 - Evan Rives
 - maskedCat
 - Nachiappan Senthil Kumar
