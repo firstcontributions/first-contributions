@@ -10598,6 +10598,7 @@
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Deepak](https://github.com/deepak1418)
+- [Alex Baas](https://github.com/b-a-a-s)
 - [Darren f J](https://github.com/DarrenfJ)
 - [Subasree Arvind](https://github.com/SubasreeArvind)
 - [Alyona Owlyona](https://github.com/startonmonday)
