@@ -42,6 +42,7 @@
 - [Sina Saeedi](https://github.com/sina33)
 - [base79](https://github.com/base79)
 - [Trenton Hall]()
+- [Chris Tuohey]
 - [Nigel Dalziel](https://github.com/dalziel)
 - [LARHDIR Nadir](https://github.com/itschittybang)
 - [ROUGE Jacques](https://github.com/jacquesrouge)
