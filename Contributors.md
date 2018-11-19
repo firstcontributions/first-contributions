@@ -5,7 +5,6 @@
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
-- [Bilawal dar](https://github.com/bilawal1234)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
@@ -532,7 +531,8 @@ aalbusoiu
 - [Anish Badri R S] (https://github.com/anishbadhri)
 - [Ina Singhal] (https://github.com/inasinghal17)
 - [Abhishek Sarolia] (https://github.com/asarolia)
-Edison Shek
+- [Bilawal dar](https://github.com/bilawal1234)
+- Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
 - first-contributions
