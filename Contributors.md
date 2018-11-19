@@ -9036,6 +9036,7 @@ Rohan Das
 - [Kridsada Duangmala](https://github.com/kridsadacpe)
 - [Premtim Sahitaj](https://github.com/premsa)
 - [Jatin Mehta](https://github.com/Exoceus)
+- [Eriko Morais](https://github.com/erikopa)
 - [Gang Dong](https://github.com/donggangcj)
 - [Abhiyansh Arya](https://github.com/abhiyansh)
 - [Dhairya Gada](https://github.com/dhairyagada)
@@ -10085,4 +10086,3 @@ quattad
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
 - [Vitor Campos Ferreira](https://github.com/vcamferreira)
 - [Bimla Khosla](https://github.com/bimlakhosla)
-- [Eriko Morais](https://github.com/erikopa)
