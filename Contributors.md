@@ -1391,6 +1391,7 @@
 - [Robert Simatei](https://github.com/simatei)
 - [Manwai Nguyen](https://github.com/krazyman)
 - [Shuvam Lal](https://github.com/shuvamlal9)
+- [AJ Silva](https://github.com/ajisilva)
 - [Sarthak Ahuja](https://github.com/sarthakahuja11)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
