@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [faveja](https://github.com/faveja)
@@ -10567,6 +10567,7 @@
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
+- [Darren f J](https://github.com/DarrenfJ)
 - [Subasree Arvind](https://github.com/SubasreeArvind)
 - [Alyona Owlyona](https://github.com/startonmonday)
 - [Lucas Araújo Rodrigues de Lima](https://github.com/lucasarj)
