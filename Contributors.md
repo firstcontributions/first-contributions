@@ -10570,6 +10570,7 @@
 - [Lucas Araújo Rodrigues de Lima](https://github.com/lucasarj)
 - [Mostafa Gamal](https://github.com/MostafaGamal)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
+- [DvojityWendy](https://github.com/dvojitywendy)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Nikhil P](https://github.com/nikhilnikhi)
 - [Jo Asun](https://github.com/joasun)
