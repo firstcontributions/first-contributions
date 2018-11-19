@@ -75,7 +75,7 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are stashed.
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
