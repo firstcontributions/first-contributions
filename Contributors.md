@@ -5,7 +5,6 @@
 - [gilded1](https://github.com/gilded1)
 - [Dilnawaz](me@dillo.me)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
-- [Aqsa Rehman](https://github.com/aqsarehman)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [morg0n](https://github.com/morg0n)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
@@ -1276,6 +1275,7 @@ Edison Shek
 - [Tomas Ye](https://github.com/TomasDavidYe)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [yusufcodes](https://github.com/yusufcodes)
+- [Aqsa Rehman](https://github.com/aqsarehman)
 - [IgorOliveira42](https://github.com/igoroliveira42)
 - Corne Kooyman
 - [SaiSai]()
