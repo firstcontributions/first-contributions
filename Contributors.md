@@ -51,6 +51,7 @@
 - [ROUGE Jacques](https://github.com/jacquesrouge)
 - Kanish Anand
 - [Khalid Elassaad]()
+- [MohitTare](https://github.com/MohitTare)
 - [Jesse Hillman](https://github.com/proton5)
 - [Ashley Herman](https://github.com/hermana)
 - [Kirsty Fuquay](https://github.com/kfuquay)
