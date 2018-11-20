@@ -10694,6 +10694,7 @@
 - [Glen Egbert] (https://github.com/glenegbert)
 - [lee-dav]
 - [keith knox]
+- [Marc Shaxted](https://github.com/marcshaxted)
 - [Adam Szwaba](https://github.com/diakoneiros)
 - [Corey Cunningham](https://github.com/ccunnin8)
 - [Marco Gabba](https://github.com/Greyskin87)
