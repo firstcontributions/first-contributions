@@ -7301,6 +7301,7 @@
 - [Gabriel Silva](https://github.com/gsmatos)
 - [Geronimo Woolsey] (https://github.com/woolsey2316)
 - [Jo P.](https://github.com/jomustech)
+- [Gerardo Alcantara](https://github.com/GeraAlcantara)
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
 - [Noah Sragow](https://github.com/nsragow)
