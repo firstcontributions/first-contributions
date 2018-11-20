@@ -4,7 +4,7 @@
 - [Andrew Chen](https://github.com/andrew-ch)
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
-- [Ian Smith](https://github.com/ismith-xyz)
+- [Pigeon Dev]
 - [Bag0ul](https://github.com/Bag0ul)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
