@@ -5871,6 +5871,7 @@
 - [John Murphy](https://github.com/gitoutdaway)
 - [Daniel Vidana](https://github.com/danvidana)
 - [David Denny](https://github.com/david-denny)
+- [Gurvinderjeet Singh](https://github.com/Jeet-Singh)
 - [Pragyan Pandey](https://github.com/pragyan478)
 - [Eric Shi](https://github.com/eric60)
 - [omichaello]()
