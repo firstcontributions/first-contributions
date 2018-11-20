@@ -146,6 +146,7 @@
 - [jahanzeb](https://github.com/jahanzeb78)
 - [Zhuk Dmitry](https://github.com/ZhukDI)
 - [Serdar Mumcu](https://github.com/serdarmumcu)
+- [Nidhi Patil](https://github.com/nidhirpatil)
 - [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
 - [Daniela Llivina](https://github.com/daniela-llivina)
