@@ -20,7 +20,6 @@
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
-Jules Comte
 - [Aashish Kumar](https://github.com/aashish-ak)
 - [Aman Sharma](https://github.com/AmanSharma123456)
 - [Abhinav Gupta  ](https://github.com/ag-23)x
@@ -610,6 +609,7 @@ Edison Shek
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Oriol Vall](https://github.com/Horiol)
 - Patrizia Trammell
+- Jules Comte
 - [Rajvijay](https://github.com/rajurajvijay619)
 - [TechnicSparks](https://github.com/TechnicSparks)
 - [Raj Khare](https://github.com/pixzels)
