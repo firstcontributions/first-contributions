@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Andreas Sandskär](https://github.com/passar)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
@@ -7,7 +8,7 @@
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Pigeon Dev] 
-[Bag0ul](https://github.com/Bag0ul)
+- [Bag0ul](https://github.com/Bag0ul)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
@@ -1864,7 +1865,7 @@
 - [marco](https://github.com/marco671)
 - [Shalini Sreedhar](https://github.com/shalini-s)
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
-- [Mikhail Filatov}(https://github.com/map7000)
+- [Mikhail Filatov](https://github.com/map7000)
 - [Gabriel Fonseca](https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Tushar Gandhi](https://github.com/tushargandhi)
