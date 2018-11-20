@@ -8648,6 +8648,7 @@ Rohan Das
 - [Izzat Zainol](https://github.com/izzatz)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [smuniz](https://github.com/smuniz18)
+- [Ryan Casicas](https://github.com/rcasicas44)
 - [kmalanowicz](https://github.com/kmalanowicz/)
 - [Manvi](https://github.com/The-lady-developer)
 - [Ayush Agrawal](https://github.com/ayush1507)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Ryan Casicas](https://github.com/rcasicas44)
