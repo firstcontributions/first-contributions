@@ -34,6 +34,7 @@
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
+- [Bassel Abu Elhija](https://github.com/baselx17)
 - [Kushal KC](https://github.com/kessi9400)
 - [Jayasree AG] (https://github.com/agjay96)
 - [Erin Vaage](https://github.com/erinraev/)
