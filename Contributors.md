@@ -1076,6 +1076,7 @@
 - [Roni Yusuf Manalu](https://github.com/rymanalu)
 - [Andi Insanudin](https://github.com/andiisfh)
 - [ShubU](http://github.com/shubu)
+- [bpese](https://github.com/bpese)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
 - [tobinatore](https://github.com/tobinatore/)
