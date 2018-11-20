@@ -2,6 +2,7 @@
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
+- [Jacqueline Bruen](https://github.com/jebruen)
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
