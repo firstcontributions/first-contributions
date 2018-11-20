@@ -134,6 +134,7 @@
 - [Anushree](https://github.com/anushree816)
 - [AgentMcBride](https://github.com/agentmcbride)
 - [Martin](https://github.com/academyyyy12)
+- [Krunal Astik](https://github.com/KRUNAL57)
 - [Uesli Almeida](https://github.com/ueslialmeida)
 - [Sitryk](https://github.com/Sitryk)
 - [Raymond To](https://github.com/rayto510)
