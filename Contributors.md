@@ -8286,6 +8286,7 @@ Rohan Das
 - [Hermes Autran](https://github.com/hrmsautran)
 - [Adithya J](https://github.com/adithya321)
 - [Narat S](https://github.com/mixth)
+- [Jessa Bermudez](https://github.com/sahsah29)
 - [Ebony Seabridge](https://github.com/ebony-seabridge)
 - [Shashank Bairy R](https://github.com/BA1RY)
 - [Andre du Plessis](https://github.com/AndreDP-Developer)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jessa Bermudez](https://github.com/sahsah29)
