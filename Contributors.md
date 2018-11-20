@@ -20,6 +20,7 @@
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Lucas]
+- [Elias De Maertelaere](https://github.com/EliasDeMa)
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
