@@ -296,8 +296,9 @@
 - [Dapeng An](https://github.com/Andapeng)
 - [Omkar Kadam](https://github.com/omkar8kadam)
 - [Harry Potter](https://github.com/heripotir)
+- [Maike Negreiros](https://github.com/maikenegreir
+- [Roy Javier](https://github.com/rcjavier)
 - [Prafulla Pal](https://github.com/j0rden007)
-- [Maike Negreiros](https://github.com/maikenegreiros)
 - Vishnu Bhagirathan
 - [IoannisPelekoudas](https://github.com/pelekoudasq)
 - Lucas Fellipe
