@@ -8966,6 +8966,7 @@
 - [Hernán Gimenez](https://github.com/hgimenez/)
 - [Daniel Bailey](https://github.com/DanielJBailey)
 - [Nick Weber](https://github.com/tazguy999)
+- [Nick Huang](https://github.com/NickHuangDev)
 - [Michael Hunt-Reyes](https://github.com/mikeb530)
 - [Kartik Pandey](https://github.com/kartikpandey2)
 - [Harini Narayanan](https://github.com/harininarayanan)
