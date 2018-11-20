@@ -10717,3 +10717,4 @@
 - [dqueric](https://github.com/dqueric)
 - [Aiclear]
 - [Tomer Grin]
+- [Lorenzo Arena](https://github.com/lorenzo-arena) 
