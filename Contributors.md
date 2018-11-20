@@ -3043,6 +3043,7 @@
 - [J Othniel](http://github.com/jothniel)
 - [Tea Har](https://github.com/teahar)
 - [Dante Anthony](https://github/com/Calikidd86)
+- [Kamil Smas](https://github.com/kam773)
 - [Nisarg Chitaliya](https://github.com/nisarg4)
 - [Thomas Lee](https://github.com/sendmebiscuits)
 - [Dustin Patterson](https://github.com/dustinrpatterson)
