@@ -962,6 +962,7 @@
 - [Bocong Zhao](https://github.com/zbc)
 - [matt011](https://github.com/matt011)
 - [lakshan](https://github.com/Lakshangit)
+- [Tom](https://github.com/jtwilson0294)
 - [shivanshu1086](https://github.com/shivanshu1086)
 - [Paolo Moretti](https://github.com/muxevola)
 - [DinushaNT](https://github.com/dinushanirmal/)
