@@ -20,6 +20,7 @@
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
+- [Gavriel Loria](https://github.com/gavrieltal)
 - [Lucas]
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
 - [Blythe Totsch]
