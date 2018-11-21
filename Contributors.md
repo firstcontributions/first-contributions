@@ -61,6 +61,7 @@
 - Kanish Anand
 - [Khalid Elassaad]()
 - [MohitTare](https://github.com/MohitTare)
+- [Nuevo Pixel]
 - [Mohammed Yousif](https://github.com/MohammedShwani)
 - [Jesse Hillman](https://github.com/proton5)
 - [Ashley Herman](https://github.com/hermana)
