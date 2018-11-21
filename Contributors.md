@@ -9525,6 +9525,7 @@ Rohan Das
 - [Beatriz Alves](https://github.com/biaalves)
 - [Benjamin Qu](https://github.com/CodeBool)
 - [Jude Osbert K](https://github.com/judeosbert)
+- [Aldo Gatica](https://github.com/AldoGatica123)
 - [Juwana Zerman](https://github.com/JZerman2018)
 - [Cholinka13](https://github.com/cholinka13)
 - [Breno Franco](https://github.com/brenohff)
@@ -10082,4 +10083,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Aldo Gatica](https://github.com/AldoGatica123)
