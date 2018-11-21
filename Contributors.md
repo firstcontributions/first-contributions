@@ -13,6 +13,7 @@
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
+- [Ibrahim Lasisi](https://github.com/ilasisi)
 - [Supraja]()
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
