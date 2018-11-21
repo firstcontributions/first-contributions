@@ -10640,6 +10640,7 @@
 - [Lucas Araújo Rodrigues de Lima](https://github.com/lucasarj)
 - [Mostafa Gamal](https://github.com/MostafaGamal)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
+- [Vitor Campos Ferreira Pinto](https://github.com/vcamferreira)
 - [Shivam Grover](https://github.com/shivumgrover7)
 - [DvojityWendy](https://github.com/dvojitywendy)
 - [Malintha Kumarage](https://github.com/malintha90)
