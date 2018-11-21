@@ -56,6 +56,7 @@
 - [Chris Tuohey]
 - [Bhavin Tandel](https://github.com/bhavintandel)
 - [Nigel Dalziel](https://github.com/dalziel)
+- [Diego Mañas]()
 - [LARHDIR Nadir](https://github.com/itschittybang)
 - [ROUGE Jacques](https://github.com/jacquesrouge)
 - Kanish Anand
