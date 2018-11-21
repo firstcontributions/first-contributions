@@ -37,6 +37,7 @@
 - [Aderajew Mengistu](https://github.com/ajmengistu)
 - [Sarah King](https://github.com/sarah-king)
 - [Joe Bonino](https://github.com/jbonino)
+- [John Antrobus] (https://github.com/jantrobus)
 - [Brian Driesenga](https://github.com/driesenga)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Liza Dashevski](https://github.com/LizaDashevski)
