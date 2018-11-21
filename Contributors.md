@@ -10712,6 +10712,7 @@
 - [Glen Egbert] (https://github.com/glenegbert)
 - [lee-dav]
 - [keith knox]
+- [Tejas Namjoshi](https://github.com/tejasnamjoshi)
 - [Marc Shaxted](https://github.com/marcshaxted)
 - [Adam Szwaba](https://github.com/diakoneiros)
 - [Corey Cunningham](https://github.com/ccunnin8)
