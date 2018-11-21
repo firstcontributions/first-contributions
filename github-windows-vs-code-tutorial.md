@@ -57,7 +57,7 @@ You should see a status popup on the bottom right of Visual Studio Code. After i
 
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
@@ -75,7 +75,7 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are stashed.
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
