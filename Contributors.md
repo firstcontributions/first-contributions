@@ -8690,6 +8690,7 @@ Rohan Das
 - [Ryan Troxler](https://github.com/rtroxler)
 - [Russell Soppe](https://github.com/RussellSoppe)
 - [Jessica Izumi](https://github.com/jess-izuu)
+- [Thiago Bueno](https://github.com/thiagojoa)
 - [Michael Yang](https://github.com/yangmichaelkcs/)
 - [Orasz](https://github.com/Orasz)
 - [Michael Peng](https://github.com/michaelpeng)
@@ -10082,4 +10083,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Thiago Bueno](https://github.com/thiagojoa)
