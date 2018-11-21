@@ -118,6 +118,7 @@
 - [Vinit Kumbharkar](https://github.com/Vin-it)
 - [Josh Maguire](https://github.com/maguirejosh7)
 - [Chris Curtis](http://github.com/astralentity)
+- [Joe Skimmons](http://github.com/jskimmons)
 - [Suman Ghimire](https://github.com/Geo-Trackers)
 - [Takia Rudolph](https://github.com/takiarochelle)
 - [Tobias Haugen](https://github.com/Haugen)
