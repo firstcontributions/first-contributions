@@ -8986,6 +8986,7 @@ Rohan Das
 - [Raul Serrano](https://github.com/rachuism)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+- [Ben Taylor](https://github.com/bentaylorio)
 - [Aditya Singhal](https://github.com/codaked-Adi)
 - [Michael Strong](https://github.com/MikeStrider)
 - [Joseph Eastman](https://github.com/josepheastman)
@@ -10082,4 +10083,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Ben Taylor](https://github.com/bentaylorio)
