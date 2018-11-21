@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
@@ -250,6 +250,7 @@
 - [shanto](https://github.com/shanto)
 - [Manoj](https://github.com/manoj2509)
 - [eroSanyn](https://github.com/eroSanyn)
+- [Udari W](https://github.com/udawee)
 - [Pravesh N](https://github.com/artbypravesh)
 - [Aashish Kumar](https://github.com/aashish-ak)
 - [Aman Sharma](https://github.com/AmanSharma123456)
