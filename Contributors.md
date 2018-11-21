@@ -5,10 +5,10 @@
 - [Daniel Otieno](https://github.com/danielotieno)
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [faveja](https://github.com/faveja)
-- [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
+- [Ibrahim Mathivanan](https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Pigeon Dev]
-[Bag0ul](https://github.com/Bag0ul)
+- [Bag0ul](https://github.com/Bag0ul)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkh)
