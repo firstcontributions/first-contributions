@@ -9408,6 +9408,7 @@
 - [Raul Serrano](https://github.com/rachuism)
 - [Abu Darda](https://github.com/abuDarda97)
 - [Jedidiah May](https://github.com/portlandtn)
+- [Ben Taylor](https://github.com/bentaylorio)
 - [Aditya Singhal](https://github.com/codaked-Adi)
 - [Michael Strong](https://github.com/MikeStrider)
 - [Joseph Eastman](https://github.com/josepheastman)
