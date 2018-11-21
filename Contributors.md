@@ -26,6 +26,7 @@
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
+- [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
 - [Andrew Stanley] (https://github.com/andystanley)
 - [Kazmuir Long]()
