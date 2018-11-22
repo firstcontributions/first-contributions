@@ -25,6 +25,7 @@
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Gavriel Loria](https://github.com/gavrieltal)
 - [Lucas]
+- alex
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
 - [Blythe Totsch]
 - [Ragan Lake]
