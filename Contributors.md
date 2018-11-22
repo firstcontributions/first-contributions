@@ -997,6 +997,7 @@
 - [Jalaj Gupta](https://github.com/thevip799)
 - [shravana14](https://github.com/shravana14)
 - [Drew Vlasnik](https://github.com/drewvlaz)
+- [Bryan Andrade](https://github.com/bryand1)
 - [Erica Cope](https://github.com/ericacope)
 - [Desmond Harris](https://github.com/MisterUniverse)
 - [Sainath](https://github.com/saicodes)
