@@ -27,6 +27,7 @@
 - [Gavriel Loria](https://github.com/gavrieltal)
 - [Lucas]
 - alex
+- [Mithat Can Akgün](https://github.com/mithatcanakgun)
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
 - [Blythe Totsch]
 - [Ragan Lake]
