@@ -7726,6 +7726,7 @@
 - [Daniel Burgess](https://github.com/burgo888)
 - [Ashik Chowdhury](https://github.com/AshikChowdhury)
 - [Ananta Pratama](https://github.com/Princhaa)
+- [Rafael Hernandez](https://github.com/rafahernandez)
 - [Muneeb JS](https://github.com/MuneebJS)
 - [Marta Beveridge](https://github.com/martabeveridge)
 - [Yoseph Parai](https://github.com/yosephoche)
