@@ -16,6 +16,7 @@
 - [Ibrahim Lasisi](https://github.com/ilasisi)
 - [Sohaib Arshid](https://github.com/Sohaib90)
 - [Supraja]()
+-[Rajitha Prashan](https://github.com/ADiprashan)
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
 - [Drew Bernard](https://github.com/drewbern)
