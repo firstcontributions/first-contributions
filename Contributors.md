@@ -270,6 +270,7 @@ Ruslan
 - [Anshul Khattar](https://github.com/anshulkhattar)
 - [Devansh Sharma](https://github.com/devansh289)
 - [hemanthreddyk](https://github.com/hemanthreddyk)
+- [SatyaSujitPasupuleti](https://github.com/SatyaSujitPasupuleti)
 - [kamajeetSingh](https://github.com/KamaljeetSingh)
 - [Raihan Kabir Ratul](https://github.com/ratulKabir)
 - [Tomi Olubeko](https://github.com/oolubeko)
