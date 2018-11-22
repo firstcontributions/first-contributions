@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
@@ -8376,6 +8376,7 @@
 - [RaddeKT](https://github.com/RaddeKT)
 - [Srdjan Hrvacanin](https://github.com/srdz131)
 - [Halley Pates](https://github.com/hpates)
+- [Ben Jones](https://github.com/bdmj12)
 - [Earnest Jammer](https://github.com/EJammer)
 - [Luiz Lima](https://github.com/umluizlima)
 - [Jack Lim](https://github.com/thecodingjack)
