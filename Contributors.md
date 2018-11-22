@@ -2706,6 +2706,7 @@
 - [ghyun](https://github.com/gjhyun)
 - [Lawrence Fidelino](https://github.com/lfidelino)
 - [rroche](https://github.com/rrocheec)
+- [Gusti Ridhoni Syahputera](https://github.com/gusti-syahputera)
 - [Jun Teng](https://github.com/teng-oh)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Hashini Galappaththi](https://github.com/hashi93)
