@@ -7091,6 +7091,7 @@
 - [John Morrison](https://github.com/jslmorrison)
 - [Jack Tyrer](https://github.com/jtyrer)
 - [Cyril Khan](https://github.com/khanlifts)
+- [Cosmin C. Ene](https://github.com/ccene)
 - [Dana Detwiler](https://github.com/goodguns)
 - [DS Nutter](https://github.com/dsnutter)
 - [Nassim Daoud](https://github.com/Nasdav)
