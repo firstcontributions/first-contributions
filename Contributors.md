@@ -124,6 +124,7 @@
 - [Vladimir Tretyak](https://github.com/tretyakvl);
 - [Leon Liang](https://github.com/leonliang0395)
 - [Travis Virgil](https://github.com/virgilt)
+- [Taha haq](https://github.com/tahahaq)
 - [Vinit Kumbharkar](https://github.com/Vin-it)
 - [Josh Maguire](https://github.com/maguirejosh7)
 - [Chris Curtis](http://github.com/astralentity)
