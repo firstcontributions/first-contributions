@@ -5,6 +5,7 @@
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
+- [hugo](https://github.com/ggoyo))
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
