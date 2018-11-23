@@ -518,6 +518,7 @@
 - [Nisal97](https://github.com/Nisal97)
 - [BlueDragon23](https://github.com/BlueDragon23)
 - [MalkaSaba](https://github.com/malkasaba)
+- [Smgd](https://github.com/smgd)
 - [JaredCotton](https://github.com/JACC-Creations)
 - [ChristopherCarr](https://github.com/christocarr)
 - [Gabriel Z.]
