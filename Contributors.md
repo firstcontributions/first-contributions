@@ -47,6 +47,7 @@
 - [Joe Bonino](https://github.com/jbonino)
 - [John Antrobus] (https://github.com/jantrobus)
 - [Brian Driesenga](https://github.com/driesenga)
+- ausoro
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
