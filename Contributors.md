@@ -48,6 +48,7 @@
 - [John Antrobus] (https://github.com/jantrobus)
 - [Brian Driesenga](https://github.com/driesenga)
 - [Seif Laatiri](https://github.com/Seif-Lat)
+- [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
 - [Bassel Abu Elhija](https://github.com/baselx17)
