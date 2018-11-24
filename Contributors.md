@@ -7450,6 +7450,7 @@
 - [Smitha Narayanaswamy](https://github.cm/smithanarayanaswamy)
 - [Mohamed Sahouli](https://github.com/msahouli)
 - [Sam Cherian](https://github.com/samkcdev)
+- [Aleryc Serrania](https://github.com/Aleryc)
 - [YinAoXiong](https://github.com/YinAoXiong)
 - [Luka Budrak](https://github.com/Valyreon)
 - [Victor Chao](https://github.com/victorciao)
