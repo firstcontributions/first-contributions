@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -84,6 +84,7 @@
 - [Alex Moran]()
 - [Thibault Devienne]()
 - [Dimitri]()
+- [Justin Jones] (https://github.com/jjones1983)
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
