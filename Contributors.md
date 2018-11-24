@@ -612,6 +612,7 @@
 - [Autumn Peters](https://github.com/autumnmarin)
 - Alvin
 - Santanu
+- [Mihai Veronica](https://github.com/VeronicaM)
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
 - [Argyris Varalis](https://github.com/avaralis)
