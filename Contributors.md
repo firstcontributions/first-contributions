@@ -10,7 +10,7 @@
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
-- [Pigeon Dev] 
+- [Pigeon Dev]
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 - [Cleo Aguiar](https://github.com/CleoAguiar)
@@ -311,7 +311,7 @@
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
-- [Anil Basdeo](https://github.com/Zer02) 
+- [Anil Basdeo](https://github.com/Zer02)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
@@ -345,7 +345,7 @@
 - [Rizul Garg](https://github.com/RizulGarg)
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
-- Pietro Barcarollo Schiavinato 
+- Pietro Barcarollo Schiavinato
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
@@ -10745,6 +10745,7 @@
 - [Glen Egbert] (https://github.com/glenegbert)
 - [lee-dav]
 - [keith knox]
+- [Pedro Legua] (https://github.com/pedroadrian987)
 - [Tejas Namjoshi](https://github.com/tejasnamjoshi)
 - [Marc Shaxted](https://github.com/marcshaxted)
 - [Adam Szwaba](https://github.com/diakoneiros)
@@ -10770,7 +10771,7 @@
 - [Aiclear]
 - [Tomer Grin]
 - [drunk]
-- [Lorenzo Arena](https://github.com/lorenzo-arena) 
+- [Lorenzo Arena](https://github.com/lorenzo-arena)
 - [Oliver Shenton] (https://github.com/OliShenton)
 - [Yusuke Honda](https://github.com/yyh-gl)
 - [Nerisse Ramos](https://github.com/nerisse)
