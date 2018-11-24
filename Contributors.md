@@ -10737,6 +10737,7 @@
 - [Acie](https://github.com/acierate)
 - [humboo] (https://github.com/humboo)
 - [Jeremy Dean](https://github.com/deanj20)
+- [Scott Dauer](https://github.com/swdauer)
 - [Seongkyu Lee] (https://github.com/queuestack)
 - [Jason Tsang](https://github.com/jasonrtsang)
 - [Ray Petrosek] (https://github.com/rpetrowolf)
