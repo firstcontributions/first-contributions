@@ -1,19 +1,15 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
-
 # Pierwsze kontrybucje
 
-Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
+Zawsze jest ciężko, kiedy robisz coś po raz pierwszy. Szczególnie gdy współpracujesz z innymi ludźmi, ponieważ popełnianie błędów nie jest niczym przyjemnym. Jednak właśnie na współpracy opiera się idea otwartego oprogramowania. Chcemy nauczyć w prosty sposób nowych programistów jak wgrać swoją pierwszą zmianę w obcym projekcie.
 
 Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś lepszego niż spróbowanie czegoś samemu bez obaw, że się coś zepsuje? Ten projekt ma na celu dostarczyć nowicjuszom wskazówek i uprościć proces wgrania pierwszej zmiany. Pamiętaj: im bardziej jesteś zrelaksowany, tym lepiej się uczysz. Jeśli chcesz wgrać swoją pierwszą kontrybucję wykonaj kilka prostych kroków poniżej. Będzie fajnie, obiecujemy.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-*Przeczytaj w innych językach: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md) and [Português/Brasil](README.pt_br.md).*
 
 Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -33,7 +29,7 @@ Otwórz konsolę i uruchom komendę git:
 ```
 git clone "wklej skopiowany adres"
 ```
-Gdzie "wklej skopiowany adres" (bez cudzysłowów) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
+Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -41,7 +37,7 @@ Przykład:
 ```
 git clone https://github.com/to-ty/first-contributions.git
 ```
-W miejscu 'to-ty' to Twój login na githubie. W tym kroku ściągasz zawartość Twojej kopii repozytorium first-contributions z githuba na swój komputer.
+W miejscu 'to-ty' to twój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium first-contributions z githuba na swój komputer.
 
 ## Stwórz gałąź
 
@@ -105,14 +101,14 @@ W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. K
 
 Teraz wyślij prośbę o scalenie.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Zostaniesz powiadomiony mailowo kiedy zmiany zostaną scalone.
 
 ## Co dalej?
 
 Świętuj swoją pierwszą zmianę i podziel się nią z przyjaciółmi i obserwującymi poprzez <a href="https://roshanjossey.github.io/first-contributions/#social-share" rel="nofollow">aplikację</a>.
-Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://firstcontributions.herokuapp.com" rel="nofollow">Dołącz do slacka</a>.
+Możesz dołączyć do naszego kanału slack w przypadku kiedy będziesz potrzebował pomocy albo miał jakieś pytania. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow">Dołącz do slacka</a>.
 Możesz teraz zacząc uczestniczyć w innych projektach. Przygotowaliśmy listę projektów z prostymi zadaniami które będą dobre na początek. Sprawdź <a href="https://roshanjossey.github.io/first-contributions/#project-list" rel="nofollow">listę projektów</a>.
  
 ### [Materiały dodatkowe](https://github.com/Roshanjossey/first-contributions/blob/master/additional-material/git_workflow_scenarios/additional-material.md) 
