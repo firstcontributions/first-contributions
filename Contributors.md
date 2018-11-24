@@ -4,6 +4,7 @@
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
+- [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [hugo](https://github.com/ggoyo))
