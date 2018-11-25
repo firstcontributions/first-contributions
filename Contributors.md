@@ -22,6 +22,7 @@
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
 - [Drew Bernard](https://github.com/drewbern)
+- [Kodesh Pupik](https://github.com/pupik1989)
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
