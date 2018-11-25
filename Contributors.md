@@ -8134,6 +8134,7 @@
 - [Chukwuma Elui](https://github.com/worldwayii)
 - [Joy Zhang](https://github.com/joy8zhang)
 - [Lun Zhang](https://github.com/lunzhang)
+- [Xiaokang CAO] (https://github.com/xkcao)
 - [Cody Neiman](https://github.com/Matrix-Guy)
 - [Sarah Bass](https://github.com/hedwidgetty)
 - [Jesse Pink](https://github.com/jessepink)
