@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
+- [Sumit Saurabh] 
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
@@ -997,7 +998,6 @@
 - [Vipul Kanade](https://github.com/vipulkanade)
 - [Rafael Molina](https://github.com/RafaGrey)
 - [billyderringer](https://github.com/billyderringer)
-- [Sumit Saurabh]
 - [Grom](https://github.com/gromms)
 - [Bocong Zhao](https://github.com/zbc)
 - [matt011](https://github.com/matt011)
