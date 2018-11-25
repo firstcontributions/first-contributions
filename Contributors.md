@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -10431,6 +10431,7 @@
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Daniel Ayaz](https://github.com/DanielAyaz)
+- [Kleanthis Mitsioulis](https://github.com/Kleanthismits)
 - [Numan Rafique](https://github.com/Numanrafique)
 - [Rana Faisal](https://github.com/IRanaFaisal)
 - [Shoaib Majeed](https://github.com/mshoaib85)
