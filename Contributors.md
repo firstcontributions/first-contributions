@@ -11,6 +11,7 @@
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Ian Smith](https://github.com/ismith-xyz)
+- [Oliver Horton](https://github.com/0liveradam8)
 - [Pigeon Dev] 
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
