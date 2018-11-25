@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -10799,3 +10799,4 @@
 - [Noeun Kim](https://github.com/NoSilver2018)
 - [Dongwon Kim](https://github.com/dev-dongwon)
 - [giorgi aptsiauri](https://github.com/giorgi3092)
+- [Deepak Kumar Singh] (https://github.com/SmushBall)
