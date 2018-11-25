@@ -2,6 +2,7 @@
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
+- [Jens Kristian Espevik](https://github.com/jkriesp)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
