@@ -10782,6 +10782,7 @@
 - [Aiclear]
 - [Tomer Grin]
 - [drunk]
+- [alozerdev](https://github.com/alozerdev)
 - [Lorenzo Arena](https://github.com/lorenzo-arena) 
 - [Oliver Shenton] (https://github.com/OliShenton)
 - [Yusuke Honda](https://github.com/yyh-gl)
