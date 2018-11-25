@@ -46,6 +46,7 @@
 - [Kat Tow] (https://github.com/kattow88)
 - [Andrew Stanley] (https://github.com/andystanley)
 - [Kazmuir Long]()
+- [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
 - [Jennifer Colna](https://github.com/JNC260)
 - [Aderajew Mengistu](https://github.com/ajmengistu)
