@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -39,6 +39,7 @@
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Gavriel Loria](https://github.com/gavrieltal)
 - [Lucas]
+- [James Caruana](https://github.com/jcaruana09)
 - alex
 - [Mithat Can Akgün](https://github.com/mithatcanakgun)
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
