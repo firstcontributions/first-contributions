@@ -10792,6 +10792,7 @@
 - [Syedalisait](https://github.com/syedalisait)
 - [Rahul Kumar](https://github.com/rahulkumar66)
 - [dqueric](https://github.com/dqueric)
+- [Jamibaraki](https://github.com/Jamibaraki)
 - [Aiclear]
 - [Tomer Grin]
 - [drunk]
