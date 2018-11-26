@@ -5408,6 +5408,7 @@
 - [Arturo Gamboa Rodriguez](https://github.com/arturogamrod)
 - [Fran Mowinckel](https://github.com/franmowinckel)
 - [Corey Mitchell](https://github.com/reemitch)
+- [Ryan Sy](https://github.com/ryansy)
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
 - [Sam Wischnewsky](https://github.com/samw430)
