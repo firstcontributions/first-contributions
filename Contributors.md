@@ -147,6 +147,7 @@
 - [Chris Curtis](http://github.com/astralentity)
 - [Joe Skimmons](http://github.com/jskimmons)
 - [Suman Ghimire](https://github.com/Geo-Trackers)
+- [Allan Turk](https://github.com/tallan9)
 - [Takia Rudolph](https://github.com/takiarochelle)
 - [Tobias Haugen](https://github.com/Haugen)
 - [Richard Sachek](https://github.com/rsachek)
