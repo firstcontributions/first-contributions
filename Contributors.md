@@ -1233,6 +1233,7 @@
 - [gcstang](https://github.com/gcstang)
 - [Ashish](https://github.com/UchihaItachi883)
 - [Rohit Kashyap]()
+- [Peter Maryniak](https://github.com/PMaryniak)
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
 - [Reme Le Hane](https://github.com/RemeJuan)
