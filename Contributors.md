@@ -10812,3 +10812,4 @@
 - [giorgi aptsiauri](https://github.com/giorgi3092)
 - [Deepak Kumar Singh] (https://github.com/SmushBall)
 - [Milena Wesiora](https://github.com/Friditai)
+- [Ricardo Seidel](https://github.com/Soletrar)
