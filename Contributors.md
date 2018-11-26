@@ -10818,3 +10818,4 @@
 - [Ricardo Seidel](https://github.com/Soletrar)
 - [James Bond] (https://github.com/digineo1)
 - [Jangsea Park](https://github.com/jnsp)
+- [Erick Badilla] (https://github.com/Ebadillav27)
