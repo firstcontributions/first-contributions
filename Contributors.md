@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -534,6 +534,7 @@
 - [lenni108](https://github.com/lenni108)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
 - [Rohit Rathi](https://github.com/RathiRohit)
+- [Jamian Vieira](https://github.com/Jamianv)
 - [DanielBiegler](https://github.com/danielbiegler)
 - [Nisal97](https://github.com/Nisal97)
 - [BlueDragon23](https://github.com/BlueDragon23)
