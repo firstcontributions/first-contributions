@@ -10807,6 +10807,7 @@
 - [Julio Arboleda] (https://github.com/arboledasaa)
 - [Vasyl Karpeniuk] (https://github.com/vkarpeniuk)
 - [Daniel du Preez](https://github.com/DanDuPreez)
+- [Rayen Manaa] (https://github.com/Mlewii)
 - [Erik Werner](https://github.com/SOFeeA)
 - [Noeun Kim](https://github.com/NoSilver2018)
 - [Dongwon Kim](https://github.com/dev-dongwon)
