@@ -6003,6 +6003,7 @@
 - [Hussain Alseddiq](https://github.com/alseddiq)
 - [Sakhile Naga Koti Reddy](https://github.com/snkreddy)
 - [Harshdeep Kanhai](https://github.com/harshdeepkanhai)
+- [Phaneendra Chidella](https://github.com/phaniChidella)
 - [Thein Than Htun](https://github.com/tthtun)
 - [Paul Baur](https://github.com/pjbaur)
 - [Ibrar Yunus](https://github.com/IbrarYunus)
