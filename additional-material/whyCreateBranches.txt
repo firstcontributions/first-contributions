@@ -1,5 +1,0 @@
-Whenever you want to contribute to a project which has multiple contributors, the master branch will contain the code that works as expected. 
-
-When a new feature needs to be added, creating a new branch will give the confidence and the power to make changes that will not break the master branch. 
-
-So, if you want to make a change, create a new branch and follow the steps to commit the change. And then issue a pull request. 
