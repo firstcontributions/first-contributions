@@ -10813,3 +10813,4 @@
 - [Deepak Kumar Singh] (https://github.com/SmushBall)
 - [Milena Wesiora](https://github.com/Friditai)
 - [Ricardo Seidel](https://github.com/Soletrar)
+- [James Bond] (https://github.com/digineo1)
