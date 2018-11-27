@@ -839,6 +839,7 @@
 - [Cole Beck](https://github.com/claniere)
 - [espilya](https://github.com/espilya)
 - [Efe Barış](https://github.com/altinay10)
+- [JudeYak](https://github.com/judeyak)
 - [Cravez](https://github.com/Cravez)
 - [Vineet Yadav ](https://github.com/vineet8588)
 - [Angus Cornall ](https://github.com/AngusCornall)
