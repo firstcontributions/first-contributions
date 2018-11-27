@@ -50,6 +50,7 @@
 - [Samesh Lakhotia](https://github.com/sameshl)
 - [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
+- [Meg Algarin](https://github.com/megalgarin)
 - [Andrew Stanley] (https://github.com/andystanley)
 - [Kazmuir Long]()
 - [Aleko]()
