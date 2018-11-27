@@ -10799,6 +10799,7 @@
 - [Rayon Pinnock] (https://github.com/pinnock)
 - [kangyongseok](https://github.com/kangyongseok)
 - [Adrian Polyakov](https://github.com/qwertyadrian)
+- [Zayne Chuah](https://github.com/zhenghung)
 - [Navid Ahmadian](https://github.com/nahmadian)
 - [Syedalisait](https://github.com/syedalisait)
 - [Rahul Kumar](https://github.com/rahulkumar66)
