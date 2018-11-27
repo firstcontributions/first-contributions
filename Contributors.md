@@ -1419,6 +1419,7 @@
 - [Max Leefer](https://github.com/mamo91)
 - [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [Veena Rawat](https://github.com/veenarawat)
+- [Corentin NOTARD](https://github.com/Blalrock)
 - [Anurag Kumar](https://github.com/kgloc)
 - [Teja Swaroop Arukoti](https://github.com/TejaSwaroopArukoti)
 - [Mitchell Fensome](https://github.com/kingcoconut332)
