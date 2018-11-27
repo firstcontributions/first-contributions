@@ -21,6 +21,7 @@
 -[Cedric David] 
 -[It'sMe]()
 - [Cleo Aguiar](https://github.com/CleoAguiar)
+- [Nihar Patel](https://github.com/nihar5733)
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - [Ivan Boldyrev](https://github.com/iboldurev)
