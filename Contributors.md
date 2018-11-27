@@ -1408,6 +1408,7 @@
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
 - [Ekaansh Arora](https://github.com/EkaanshArora)
 - [Joris van Willigen](https://github.com/JorisvanW)
+- [Max Leefer](https://github.com/mamo91)
 - [Rakhee Singh](https://github.com/RakhiSingh2811)
 - [Veena Rawat](https://github.com/veenarawat)
 - [Anurag Kumar](https://github.com/kgloc)
