@@ -19,6 +19,7 @@
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 -POPAMAN
+-[Fabio Cardenas] (https://github.com/fcarden)
 -[Cedric David] 
 -[It'sMe]()
 - [Cleo Aguiar](https://github.com/CleoAguiar)
