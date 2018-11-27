@@ -18,6 +18,7 @@
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 -POPAMAN
+-[Cedric David] 
 -[It'sMe]()
 - [Cleo Aguiar](https://github.com/CleoAguiar)
 - [Gabriel Colson](https://github.com/gabrielcolson)
