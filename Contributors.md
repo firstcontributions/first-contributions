@@ -73,6 +73,7 @@
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
 - [Sina Saeedi](https://github.com/sina33)
+- [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
 - [Trenton Hall]()
 - [Chris Tuohey]
