@@ -5386,6 +5386,7 @@
 - [Ashutosh Rahi](https://github.com/rahiAshutosh)
 - [Sean Wayman](https://github.com/Flieh)
 - [Ashutosh Rahi](https://github.com/rahiAshutosh)
+- [Gimp Nerd](https://github.com/GimpNerd)
 - [Pat Salembier](https://github.com/psal93/)
 - [Dalia Maarek](https://github.com/daliamaarek)
 - [Yogesh Patel](https://github.com/yogeshpatel276052)
