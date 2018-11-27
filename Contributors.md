@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
@@ -49,6 +49,7 @@
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
+- [Utkrist P. Thapa]
 - [Samesh Lakhotia](https://github.com/sameshl)
 - [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
