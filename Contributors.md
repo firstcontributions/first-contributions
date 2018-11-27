@@ -12,6 +12,7 @@
 - [hugo](https://github.com/ggoyo))
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
+- [Josh Brandl] (https://github.com/jpbrandl)
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Oliver Horton](https://github.com/0liveradam8)
 - [Pigeon Dev] 
