@@ -40,6 +40,7 @@
 -[Rajitha Prashan](https://github.com/ADiprashan)
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Mark Elishaev]()
+- [Felix Carlberg](https://github.com/Felix-Carlberg)
 - [Drew Bernard](https://github.com/drewbern)
 - [Kodesh Pupik](https://github.com/pupik1989)
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
