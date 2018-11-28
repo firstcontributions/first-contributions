@@ -11,6 +11,7 @@
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
+- [Saad Alnour](https://github.com/SaadAlnour)
 - [hugo](https://github.com/ggoyo))
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
