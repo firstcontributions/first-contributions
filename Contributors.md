@@ -6,6 +6,7 @@
 - [Jens Du Four](https://github.com/jensdufourhogent)
 - [Jens Kristian Espevik](https://github.com/jkriesp)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
+- [Alireza Delavari](https://github.com/general73)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
