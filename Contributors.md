@@ -9996,7 +9996,7 @@
 - [Michał K](https://github.com/Kucha1122)
 - [Griffin Maxwell](https://github.com/GriffinMaxwell)
 - [Hung Pham](https://github.com/hungpham2202)
-- [Abdul Rehman](https://github.com/Abdul-sen)
+- [Abdul Rehman](https://github.com/Abdul-Sen)
 - [Kapish Malik](https://github.com/kapishmalik)
 - [AsverBy](https://github.com/asverby)
 - [Ogün Babacan](https://github.com/ogunb)
