@@ -6,6 +6,7 @@
 - [Trenton Hall]
 - [Khalid Elassaad]
 - [Alex Moran]
+- [Ndumiso mguni] (https://github.com/nmguni)
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Giorgio Doganiero](https://github.com/Axtel209)
 - [Akram Khan](https://github.com/akram02)
