@@ -4736,6 +4736,7 @@
 - [Ivan Shen](https://github.com/ivanshen)
 - [Jonathan Arredondo](https://github.com/angelyonas)
 - [handrezescobar94](https://github.com/handrezescobar94)
+- [Nick Francs] (https://github.com/nafrancis92)
 - [Ariel Blasi](https://github.com/LiteSoul)
 - [Anthony Montoya](https://github/com/anthony-montoya)
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
