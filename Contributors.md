@@ -18,6 +18,7 @@
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
 - [hugo](https://github.com/ggoyo))
+- [Eric Brown](https://github.com/Aeluwin)
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Josh Brandl] (https://github.com/jpbrandl)
