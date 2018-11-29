@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Paul Briar](https://github.com/paulbriar)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
