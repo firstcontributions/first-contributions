@@ -29,6 +29,7 @@
 -[Cedric David] 
 -[It'sMe]()
 - [Cleo Aguiar](https://github.com/CleoAguiar)
+- [It's Me](https://github.com/)
 - [Jacob Sowles](https://github.com/jacobsowles)
 - [Nihar Patel](https://github.com/nihar5733)
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
