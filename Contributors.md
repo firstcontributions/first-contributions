@@ -1828,6 +1828,7 @@
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 - [Charles Marsala](https://github.com/cmarsala91)
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
+- [Edward Scott Elder](https://github.com/eselder)
 - [Niclas](https://github.com/buffet)
 - [Kat MacCannon](https://github.com/trenzafeeds)
 - [Shahmi Majid](https://github.com/shahmimajid)
