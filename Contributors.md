@@ -51,6 +51,7 @@
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Gavriel Loria](https://github.com/gavrieltal)
+- [John Kazantzis]
 - [Andre Silva](https://github.com/anbrsi)
 - [Lucas]
 - [James Caruana](https://github.com/jcaruana09)
