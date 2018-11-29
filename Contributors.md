@@ -2479,6 +2479,7 @@
 - [BenjaminRochez](https://github.com/BenjaminRochez)
 - [Bcsrn]()
 - [Harsh Hariya](https://github.com/hash64)
+-[Sharath](https://github.com/hash64)
 - [Zamblom](https://github.com/Zamblom)
 - [Kevin Hudson]()
 - [Matthew Bent](https://github.com/mattbent)
