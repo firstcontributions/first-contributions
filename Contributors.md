@@ -39,6 +39,7 @@
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
+- [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
 - [Drew Pesall](https://github.com/dpesall)
 - [Sohaib Arshid](https://github.com/Sohaib90)
