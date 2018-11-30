@@ -44,7 +44,7 @@
 - [Nihar Patel](https://github.com/nihar5733)
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
 - [Gabriel Colson](https://github.com/gabrielcolson)
-- Justin
+- Justin vZyl
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
