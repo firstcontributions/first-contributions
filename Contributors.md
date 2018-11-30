@@ -24,6 +24,7 @@
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Josh Brandl] (https://github.com/jpbrandl)
 - [Ian Smith](https://github.com/ismith-xyz)
+karen williams
 - [Oliver Horton](https://github.com/0liveradam8)
 - [Pigeon Dev] 
 [Bag0ul](https://github.com/Bag0ul)
