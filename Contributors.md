@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Paul Briar](https://github.com/paulbriar)
 - [Alexei Putsykovich](https://github.com/palexa)
@@ -10881,4 +10881,5 @@
 - [Malik Perry](https://github.com/Perrym14/)
 - [F14K-3R](https://github.com/F14K-3R/)
 - [MrBuddha](https://github.com/MrBuddha)
+- [heisjh](https://github.com/heisjh/)
 - [Toni Oshikanlu](https://github.com/tonioshikanlu/)
