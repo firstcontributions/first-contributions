@@ -1427,6 +1427,7 @@
   [Patrick Bate](https://github.com/pbateman828)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
+- [David Peletz] (https://github.com/dpeletz)
 - [souragc](https://github.com/souragc)
 - [Palwasha Pordeli](https://github.com/pal-p)
 - [Pranav Bhatia](https://github.com/PranavBhatia)
