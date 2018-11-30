@@ -272,6 +272,7 @@
 - [John mantas](https://github.com/john-mantas)
 - [Ansul Kumar](https://github.com/ansul357)
 - [Erica Peterson](https://github.com/ericalpeterson)
+- [David]
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Alexsander Ferreira](https://github.com/alexs974)
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
