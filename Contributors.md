@@ -4471,6 +4471,7 @@
 - [ricardoschroeder](https://github.com/ricardoschroeder)
 - [Jerome Estiller](https://github.com/jromest)
 - [Ashley Woodall](https://github.com/ashwoodall)
+- [Stefan Bachmann](https://github.com/sbcodes)
 - [Alice Chuang](https://github.com/AliceWonderland)
 - [John Earl](https://github.com/jearl4)
 - [Ed Mendoza](https://github.com/Polyneue)
