@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Paul Briar](https://github.com/paulbriar)
 - [Alexei Putsykovich](https://github.com/palexa)
@@ -223,6 +223,7 @@
 - [Daniela Llivina](https://github.com/daniela-llivina)
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
+- [Amit Levy] (https://github.com/AmitPLevy)
 - [sonodew](https://github.com/sonodew)
 - [bshehata](https://github.com/bshehata)
 - [Harish_Kumar](https://github.com/hkxxx843)
