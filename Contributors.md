@@ -13,7 +13,7 @@
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Aviad Ariel]
-- [sajjas] (https://github.com/sajjass) 
+- [sajjas] (https://github.com/sajjass)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
@@ -25,12 +25,12 @@
 - [Josh Brandl] (https://github.com/jpbrandl)
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Oliver Horton](https://github.com/0liveradam8)
-- [Pigeon Dev] 
+- [Pigeon Dev]
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 -POPAMAN
 -[Fabio Cardenas] (https://github.com/fcarden)
--[Cedric David] 
+-[Cedric David]
 -[It'sMe]()
 - [Yulia Zileeva](https://github.com/zileeva)
 - [Cleo Aguiar](https://github.com/CleoAguiar)
@@ -351,7 +351,7 @@
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
-- [Anil Basdeo](https://github.com/Zer02) 
+- [Anil Basdeo](https://github.com/Zer02)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
@@ -385,7 +385,7 @@
 - [Rizul Garg](https://github.com/RizulGarg)
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
-- Pietro Barcarollo Schiavinato 
+- Pietro Barcarollo Schiavinato
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
@@ -5109,6 +5109,7 @@
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [Canyon Schwartz](https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
+- [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
 - [Kamil Pszczółkowski](https://github.com/kamilpszczolkowski)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
@@ -10845,7 +10846,7 @@
 - [Tomer Grin]
 - [drunk]
 - [alozerdev](https://github.com/alozerdev)
-- [Lorenzo Arena](https://github.com/lorenzo-arena) 
+- [Lorenzo Arena](https://github.com/lorenzo-arena)
 - [Oliver Shenton] (https://github.com/OliShenton)
 - [Yusuke Honda](https://github.com/yyh-gl)
 - [Nerisse Ramos](https://github.com/nerisse)
