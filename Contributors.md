@@ -44,7 +44,6 @@
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
-- [almyk](https://github.com/almyk)
 - [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
 - [Drew Pesall](https://github.com/dpesall)
@@ -10879,3 +10878,4 @@
 - [Malik Perry](https://github.com/Perrym14/)
 - [F14K-3R](https://github.com/F14K-3R/)
 - [MrBuddha](https://github.com/MrBuddha)
+- [greatsong](https://github.com/greatsong)
