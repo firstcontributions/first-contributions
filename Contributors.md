@@ -33,6 +33,7 @@
 -[Fabio Cardenas] (https://github.com/fcarden)
 -[Cedric David] 
 -[It'sMe]()
+-[Max Pershin](https://github.com/MaxPershin)
 - [Yulia Zileeva](https://github.com/zileeva)
 - [Cleo Aguiar](https://github.com/CleoAguiar)
 - [It's Me](https://github.com/)
