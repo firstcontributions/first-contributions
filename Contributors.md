@@ -12,6 +12,7 @@
 - [Alireza Delavari](https://github.com/general73)
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
+- [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
 - [sajjas] (https://github.com/sajjass) 
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
