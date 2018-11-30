@@ -10862,6 +10862,7 @@
 - [Zane Duffield] (https://github.com/zduffield)
 -Arunkumar C
 - [Julio Arboleda] (https://github.com/arboledasaa)
+- [Lalit Parate] (https://github.com/lalitparate)
 - [Vasyl Karpeniuk] (https://github.com/vkarpeniuk)
 - [Daniel du Preez](https://github.com/DanDuPreez)
 - [Rayen Manaa] (https://github.com/Mlewii)
