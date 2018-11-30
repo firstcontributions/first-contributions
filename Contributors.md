@@ -8626,6 +8626,7 @@
 - [Christian Marca](https://github.com/ChristianMarca)
 - [Koder Mustafa](https://github.com/KoderTheCoder)
 - [Amine Troudi](https://github.com/protoxy)
+- [Garrison Siberry](https://github.com/Garrison88)
 - [JeffyJS](https://github.com/jeffyjs)
 - [Garen C](http://github.com/88gaz88)
 - [Imtiyaz](https://github.com/ahmedmi9)
