@@ -16,6 +16,7 @@
 - [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
 - [Katherine Liuser]
+- [Shikhar Shasya](https://github.com/shikh5030)
 - [sajjas] (https://github.com/sajjass) 
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
