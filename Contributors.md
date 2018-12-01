@@ -107,7 +107,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
-- [Jack Lyons](https://github.com/JackEdwardLyond)
+- [Jack Lyons](https://github.com/JackEdwardLyondhttps://github.com/Harshdeep4295/first-contributions.git)
 - [Sina Saeedi](https://github.com/sina33)
 - [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
@@ -232,7 +232,7 @@
 - [Nidhi Patil](https://github.com/nidhirpatil)
 - [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
-- [Daniela Llivina](https://github.com/daniela-llivina)
+- [Daniela Llivina](https://github.com/daniela-llivina)https://github.com/Harshdeep4295/first-contributions.git
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
 - [Amit Levy] (https://github.com/AmitPLevy)
@@ -292,6 +292,7 @@
 - Dhruv
 - Darion Toney
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
+- [Harshdeep Singh] (http://github.com/Harshdeeps4295)
 - [rahul kukreja]
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
