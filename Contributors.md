@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
+- [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
