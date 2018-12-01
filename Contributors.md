@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
+- [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Jens Du Four](https://github.com/jensdufourhogent)
