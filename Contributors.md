@@ -164,6 +164,7 @@
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
 - [supraja]()
+- [Kumaravel Palanisamy](https://github.com/kumaravel95)
 - [Viraj Malia](https://github.com/virajmalia)
 - [Josh Henderson](https://github.com/tracer223)
 - [Harold Beckerman](https://github.com/zestymcspicy)
