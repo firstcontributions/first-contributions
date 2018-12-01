@@ -10773,6 +10773,7 @@
 - [Nathan](https://github.com/mutedajar)
 - [Kyle](https://github.com/weliketocode)
 - [Vinicius Min Soo](https://github.com/vinnimin)
+- [Emma Tye](https://github.com/EmmaTye)
 - [Karthikeyan Rajendran](https://github.com/vrkarthik)
 - [Paul Shen](https://github.com/ShenPaul)
 - [TotalAMD](https://github.com/totalamd)
