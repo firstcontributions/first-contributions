@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
@@ -10804,6 +10804,7 @@
 - [albGal](https://github.com/albGal)
 - [irfanahm3d](https://github.com/irfanahm3d)
 - [Manbro] (https://github.com/Manbro)
+- [starsuit](https://github.com/starsuit)
 - [Hannes Schmid](https://github.com/schmidhannes)
 - [tbl4h](https://github.com/tbl4h)
 - [cookie](https://github.com/javaart)
