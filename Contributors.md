@@ -22,6 +22,7 @@
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
 - [hugo](https://github.com/ggoyo))
+- [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
