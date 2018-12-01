@@ -105,6 +105,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
+- [Jack Lyons](https://github.com/JackEdwardLyond)
 - [Sina Saeedi](https://github.com/sina33)
 - [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
