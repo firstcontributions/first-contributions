@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Paul Briar](https://github.com/paulbriar)
 - [Alexei Putsykovich](https://github.com/palexa)
@@ -10889,6 +10889,7 @@
 - [Reza Jafar](https://github.com/reza7865)
 - [Jordan Kolbaba](https://github.com/kolbaba)
 - [Marco Rehmer](https://github.com/Surras/)
+- [Cameron](https://github.com/frameddev)
 - [Eddie Weber](https://github.com/WinJewel/)
 - [Malik Perry](https://github.com/Perrym14/)
 - [F14K-3R](https://github.com/F14K-3R/)
