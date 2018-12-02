@@ -34,6 +34,7 @@
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
 - [faveja](https://github.com/faveja)
+- [Arslan Raza](https://github.com/arslanraza)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Josh Brandl] (https://github.com/jpbrandl)
 - [Ian Smith](https://github.com/ismith-xyz)
