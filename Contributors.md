@@ -80,6 +80,7 @@
 - [Lucas]
 - [James Caruana](https://github.com/jcaruana09)
 - alex
+- Stridford
 - [Mithat Can Akgün](https://github.com/mithatcanakgun)
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
 - [Blythe Totsch]
