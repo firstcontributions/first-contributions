@@ -33,6 +33,7 @@
 - [Ashish Barnawal](https://github.com/mango3122)
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
+- [Hoederer] (https://github.com/jalexp)
 - [faveja](https://github.com/faveja)
 - [Ibrahim Mathivanan] (https://github.com/ibrahimm02)
 - [Josh Brandl] (https://github.com/jpbrandl)
