@@ -19,6 +19,7 @@
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
+- [Tredon Austin](https://github.com/TredonA)
 - [Katherine Liuser]
 - [Shikhar Shasya](https://github.com/shikh5030)
 - [sajjas] (https://github.com/sajjass) 
