@@ -90,6 +90,7 @@
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
+- [Cindy Trowbridge](https://github.com/ctrowbridge)
 - [Samesh Lakhotia](https://github.com/sameshl)
 - [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
