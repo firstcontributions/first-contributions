@@ -22,6 +22,7 @@
 - [Aviad Ariel]
 - [Tredon Austin](https://github.com/TredonA)
 - [Katherine Liuser]
+- [Inguss Anosovs] (https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
 - [sajjas] (https://github.com/sajjass) 
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
