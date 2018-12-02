@@ -4998,6 +4998,7 @@
 - [Italo G?is](https://github.com/italogois)
 - [Gaurav Gupta](https://github.com/tango025)
 - [Michael Clampett](https://github.com/SyntheticAutomation)
+- [Zxweg7](https://github.com/Zxweg7)
 - [Lmwbxr](https://github.com/lmwbxr)
 - [Joonsang1994](https://github.com/Joonsang1994)
 - [Chinmay Chandak](https://github.com/CCAtAlvis)
