@@ -4856,6 +4856,7 @@
 - [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
 - [cacaorick](https://github.com/cacaorick)
+- [derekc2205](https://github.com/derekc2205)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
 - [Aditya Nugraha](https://github.com/aanugraha)
 - [ekas](https://github.com/ekas)
