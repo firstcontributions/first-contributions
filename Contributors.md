@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
@@ -29,6 +29,7 @@
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
 - [hugo](https://github.com/ggoyo))
+- [Ashish Barnawal](https://github.com/mango3122)
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
 - [faveja](https://github.com/faveja)
