@@ -7011,6 +7011,7 @@
 - [Harun Tuncay](https://github.com/haruntuncay)
 - [Andrzej Chmura](https://github.com/andrzejchmura)
 - [Swadhin Routray](https://github.com/swadhinroutray)
+- [Pierre Hoffmeister](https://github.com/pierre87)
 - [Ali Tariq](https://github.com/atariq6298)
 - [Vanshika Darbari](https://github.com/vanshikadarbari)
 - [Sam](https://github.com/imsamazing)
