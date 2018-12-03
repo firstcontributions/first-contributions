@@ -759,6 +759,7 @@
 - [SupunDamba](https://github.com/supun-kanda)
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]()
+- Daniel 
 - Arnel Forbes
 - Anna!
 - [doehae](https://github.com/doehae)
