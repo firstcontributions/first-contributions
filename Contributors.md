@@ -24,6 +24,7 @@
 - [Katherine Liuser]
 - [Inguss Anosovs] (https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
+- [Dennis Machu] (https://github.com/dennismachu)
 - [sajjas] (https://github.com/sajjass) 
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
