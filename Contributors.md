@@ -10881,6 +10881,7 @@
 - [Aiclear]
 - [Tomer Grin]
 - [drunk]
+- [Anthony Callaert](https://github.com/callaertanthony)
 - [alozerdev](https://github.com/alozerdev)
 - [Lorenzo Arena](https://github.com/lorenzo-arena) 
 - [Oliver Shenton] (https://github.com/OliShenton)
