@@ -30,6 +30,7 @@
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
+- [Kedar Vaidya](https://github.com/kvaidya)
 - [hugo](https://github.com/ggoyo))
 - [Ashish Barnawal](https://github.com/mango3122)
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
