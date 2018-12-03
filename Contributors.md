@@ -3530,6 +3530,7 @@
 - [Ivan Vera](https://github.com/Ivanjosevera)
 - [Vamsi Gandra](https://github.com/VamsiGandra)
 - [Sean Lee](https://github.com/seankarltonlee)
+- [Bert Van de Casteele](https://github.com/Alienpruts)
 - [Michael Melvin](https://github.com/mmelvin0581)
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
 - [Nathaniel Ngo](https://github.com/ndngo)
