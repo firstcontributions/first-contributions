@@ -6600,6 +6600,7 @@
 - [Rohit Markam](https://github.com/DarkMethod)
 - [Mohammad Maaz Khan](https://github.com/maaz92)
 - [Hugo Matus](https://github.com/hugomatus)
+- [Minvydas Lazauskas](https://github.com/minderrx)
 - [Frauke Nonnenmacher](https://github.com/FraukeN)
 - [Reza Handzalah](https://github.com/tbmreza)
 - [Caleb Cauthon](https://github.com/calebcauthon)
