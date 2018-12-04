@@ -18,6 +18,7 @@
 - [Antoine Catt](https://github.com/antoinecatt)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Alireza Delavari](https://github.com/general73)
+- [Sunitha Kandalam](https://github.com/neozenweb)
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Kevin Frostad](https://github.com/frokev)
