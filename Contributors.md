@@ -13,6 +13,7 @@
 - [Andrei Mouraviev](https://github.com/amourav)
 - [Jens Du Four](https://github.com/jensdufourhogent)
 - [Jens Kristian Espevik](https://github.com/jkriesp)
+- [Shaun Mitchell] (https://github.com/ShaunMitchell98)
 - [Antoine Catt](https://github.com/antoinecatt)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Alireza Delavari](https://github.com/general73)
