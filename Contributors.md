@@ -5309,6 +5309,7 @@
 - [Randall](https://github.com/randallh95)
 - [Sanjay Tharagesh](https://github.com/sanjaytharagesh31)
 - [Sadaf Tahir - M00530033](https://github.com/sadaftahir)
+- [Jeremy Butler](https://github.com/oddballbutler)
 - [Fabian Erdmann](https://github.com/FabzAn)
 - [S Ramakrishnan](https://github.com/sramakrishnan247)
 - [Scott Ream](https://github.com/robotshateme)
