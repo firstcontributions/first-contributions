@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
@@ -60,6 +60,7 @@
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - Justin vZyl
+- Param Thakker
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
@@ -716,7 +717,7 @@
 - [Jeet Maity](https://github.com/jeet-maity)
 - [Siddharth Gusain](https://github.com/siddharth-gusain)
 - [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z)
-- Ben
+- Ben'
 - [Rafael Junqueira](https://github.com/rafaelj)
 - John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
