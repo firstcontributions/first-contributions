@@ -26,7 +26,7 @@
 - [Inguss Anosovs] (https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
 - [Dennis Machu] (https://github.com/dennismachu)
-- [sajjas] (https://github.com/sajjass) 
+- [sajjas] (https://github.com/sajjass)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
@@ -43,12 +43,12 @@
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Karen Williams](https://github.com/karenw4)
 - [Oliver Horton](https://github.com/0liveradam8)
-- [Pigeon Dev] 
+- [Pigeon Dev]
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 -POPAMAN
 -[Fabio Cardenas] (https://github.com/fcarden)
--[Cedric David] 
+-[Cedric David]
 -[It'sMe]()
 -[Max Pershin](https://github.com/MaxPershin)
 - [Yulia Zileeva](https://github.com/zileeva)
@@ -382,7 +382,7 @@
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
 - [Alex Boerschinger](https://github.com/writetoalexander)
-- [Anil Basdeo](https://github.com/Zer02) 
+- [Anil Basdeo](https://github.com/Zer02)
 - [Chris Short](https://github.com/shortc)
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
@@ -416,7 +416,7 @@
 - [Rizul Garg](https://github.com/RizulGarg)
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
-- Pietro Barcarollo Schiavinato 
+- Pietro Barcarollo Schiavinato
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
@@ -764,7 +764,7 @@
 - [SupunDamba](https://github.com/supun-kanda)
 - [Podrig](https://github.com/PadraigLeoghain)
 - [JustABeginner]()
-- Daniel 
+- Daniel
 - Arnel Forbes
 - Anna!
 - [doehae](https://github.com/doehae)
@@ -5779,6 +5779,7 @@
 - [Maria Turner](https://github.com/babydaisy18)
 - [Vishak Udupa](https://github.com/vishakudupa)
 - [Ken Grover](https://github.com/kgrover3)
+- [Christopher Sofokleous] (https://github.com/ChrisSofokleous)
 - [Anuj Sharma](https://github.com/anuj-ssharma)
 - [sjahed](https://github.com/sjahed)
 - [Andy Winarko](https://github.com/AndyWinarko)
@@ -10896,7 +10897,7 @@
 - [drunk]
 - [Anthony Callaert](https://github.com/callaertanthony)
 - [alozerdev](https://github.com/alozerdev)
-- [Lorenzo Arena](https://github.com/lorenzo-arena) 
+- [Lorenzo Arena](https://github.com/lorenzo-arena)
 - [Oliver Shenton] (https://github.com/OliShenton)
 - [Yusuke Honda](https://github.com/yyh-gl)
 - [Nerisse Ramos](https://github.com/nerisse)
