@@ -5576,6 +5576,7 @@
 - [Jason Huynh](https://github.com/JasonHuynh)
 - [Yigit Sever](https://github.com/yigitsever)
 - [Aditya Roy](https://github.com/han0305)
+- [Peter Burger](https://github.com/lovrenc)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Stephanie Leazer](https://github.com/saleazer)
