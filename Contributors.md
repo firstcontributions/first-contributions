@@ -10939,3 +10939,5 @@
 -[Brice Muvunyi](https://github.com/MuvunyiBrice)
 -[coopergriffin](https://github.com/coopergriffin)
 - [kamil](https://github.com/KamilMa)
+- [Daniel Leao](https://github.com/ydanielbum)
+
