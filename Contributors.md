@@ -350,6 +350,7 @@
 - [Pawan Saggu](https://github.com/pawan1210)
 - [Shobhit](https://github.com/100-bit)
 - [Dan Fleming](https://gihtub.com/whatsreal)
+- [Ernesto Suarez Lozano](https://gihtub.com/ersualo/)
 - [Leah Joyce](https://github.com/leahpjoyce)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dede Hamzah](https://github.com/dehamzah)
