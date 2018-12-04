@@ -7344,6 +7344,7 @@
 - [Michael Sullivan](https://github.com/gitChimp88)
 - [Dogukan Zengin](https://github.com/DogukanZengin)
 - [Sam Aikin](https://github.com/AlexPK497)
+- [Vladimir Visotsky] (https://github.com/drovka)
 - [Andrei Mircea](https://github.com/andrei-mircea)
 - [Pavel Anni](https://github.com/pavelanni)
 - [Ryan Backa](https://github.com/RyanBacka)
