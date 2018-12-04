@@ -33,6 +33,7 @@
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
 - [Saad Alnour](https://github.com/SaadAlnour)
+- [Timothy Virgil Payne Jr.](https://github.com/TimothyVirgil)
 - [Kedar Vaidya](https://github.com/kvaidya)
 - [hugo](https://github.com/ggoyo))
 - [Ashish Barnawal](https://github.com/mango3122)
