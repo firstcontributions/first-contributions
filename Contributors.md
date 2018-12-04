@@ -9,6 +9,7 @@
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
+- [Eli Alvarado](https://github.com/elialvaradoo)
 - [Sukhesh Samant](https://github.com/sukhsama)
 - [Andrei Mouraviev](https://github.com/amourav)
 - [Jens Du Four](https://github.com/jensdufourhogent)
