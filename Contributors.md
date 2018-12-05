@@ -140,6 +140,7 @@
 - [Trenton Hall]()
 - [Chris Tuohey]
 - [Bhavin Tandel](https://github.com/bhavintandel)
+- [Vinod Reddy](https://github.com/ivnod)
 - [Nigel Dalziel](https://github.com/dalziel)
 - [Diego Mañas]()
 - [LARHDIR Nadir](https://github.com/itschittybang)
