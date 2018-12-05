@@ -10,6 +10,7 @@
 - [Anshul Vyas](https://github.com/anshvyas)
 - [Supraja]()
 - [Lowell Basco](https://github.com/lowellbasco)
+- [Harshit Khare](https://github.com/harshitkhare13/)
 - [Mark Elishaev]()
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
