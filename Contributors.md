@@ -5202,6 +5202,7 @@
 - [Bryan Falls](https://github.com/bfalls158)
 - [David Saul](https://github.com/DSaul91)
 - [Tramezzini](https://github.com/tramezzini)
+- [Verdayne Graham](https://github.com/Verdayne)
 - [Abhishek Chakravarty](https://github.com/Abhishekchakru)
 - [Sumit Agarwal](https://github.com/sumiet)
 - [Samim Shakoori](https://github.com/samim-sh)
