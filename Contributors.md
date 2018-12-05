@@ -121,6 +121,7 @@
 - [Sarah King](https://github.com/sarah-king)
 - [Joe Bonino](https://github.com/jbonino)
 - [John Antrobus] (https://github.com/jantrobus)
+- [Ethan Dell] (https://github.com/ecd1012)
 - [Brian Driesenga](https://github.com/driesenga)
 - ausoro
 - [Seif Laatiri](https://github.com/Seif-Lat)
