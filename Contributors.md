@@ -21,6 +21,7 @@
 - [Sunitha Kandalam](https://github.com/neozenweb)
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
+- [Umair Ahmad](https://github.com/a-umair)
 - [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
 - [Tredon Austin](https://github.com/TredonA)
