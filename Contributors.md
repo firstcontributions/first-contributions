@@ -15,6 +15,7 @@
 - [Sukhesh Samant](https://github.com/sukhsama)
 - [Andrei Mouraviev](https://github.com/amourav)
 - [Jens Du Four](https://github.com/jensdufourhogent)
+- [Eugene Francis Rebong](https://github.com/eugenefrancisrebong/) 
 - [XuFeng Zhao](https://github.com/iecaser)
 - [Jens Kristian Espevik](https://github.com/jkriesp)
 - [Shaun Mitchell] (https://github.com/ShaunMitchell98)
