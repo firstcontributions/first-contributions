@@ -361,6 +361,7 @@
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
+- [SemperDisco](https://github.com/SemperDisco)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Cherifa Amrouch](https://github.com/sabielo)
 - [Hunter Day](https://github.com/huntmanday)
