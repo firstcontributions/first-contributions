@@ -5,6 +5,7 @@
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
+- [Wangari Kimani](https://github.com/WangariK/)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
