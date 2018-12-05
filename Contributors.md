@@ -30,6 +30,7 @@
 - [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
 - [Tredon Austin](https://github.com/TredonA)
+- [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
 - [Inguss Anosovs] (https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
