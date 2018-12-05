@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Farhan Ahmed](https://github.com/azzassfa)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
