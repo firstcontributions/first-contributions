@@ -7,6 +7,7 @@
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
+- [Kamil Sobiszewski](https://github.com/SobiszeK/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Eli Alvarado](https://github.com/elialvaradoo)
