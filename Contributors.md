@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 - [Sunrafan]
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
+- [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
 - [Gilbert Rosario](https://github.com/Gilbert1391)
 - [Robbie Martinus](https://github.com/rmartinus)
