@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
+- [Sean Tycho](https://github.com/stycho)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
