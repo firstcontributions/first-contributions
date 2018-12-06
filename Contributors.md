@@ -86,6 +86,7 @@
 - [almyk](https://github.com/almyk)
 - [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
+- [Gabriel Farias Caccaos](https://github.com/gcaccaos)
 - [Drew Pesall](https://github.com/dpesall)
 - [Sohaib Arshid](https://github.com/Sohaib90)
 - [Supraja]()
