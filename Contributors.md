@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Safura]
 - [Sunrafan]
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
