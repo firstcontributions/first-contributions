@@ -5,6 +5,7 @@
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
+- [Dan Marshall](https://github.com/biggles-boi)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Wangari Kimani](https://github.com/WangariK/)
