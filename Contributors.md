@@ -118,6 +118,7 @@
 - [Kazmuir Long]()
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
+- [Ali Asgar](https://github.com/aliasgar12)
 - [Jennifer Colna](https://github.com/JNC260)
 - [Aderajew Mengistu](https://github.com/ajmengistu)
 - [Sarah King](https://github.com/sarah-king)
