@@ -2050,6 +2050,7 @@
 - [Niharika Tammara](https://github.com/niharikatammara)
 - [Ohmny Romero](https://github.com/ohmnoms)
 - [Akshat](https://github.com/akshat14714)
+- [Joe Zhang](https://github.com/BiiruNZ)
 - [Soniya](https://github.com/son-vyas)
 - [Tina Ngo](https://github.com/tinango)
 - [Lucas Binder](https://github.com/lbinder)
