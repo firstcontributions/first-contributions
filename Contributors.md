@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Sunrafan]
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
@@ -102,6 +102,7 @@
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Gavriel Loria](https://github.com/gavrieltal)
 - [John Kazantzis]
+- Sepideh
 - [Andre Silva](https://github.com/anbrsi)
 - [Lucas]
 - [James Caruana](https://github.com/jcaruana09)
