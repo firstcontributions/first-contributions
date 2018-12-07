@@ -679,7 +679,6 @@
 - [muchai](https://github.com/muchai)
 - [gsguglielmo](https://github.com/gsguglielmo)
 - [balaram2] (https://github.com/balaram2/)
-- [test_balaram] (https://)
 - [nocomms5](https://github.com/nocomms5)
 - [Summit Suen](https://github.com/suensummit)
 - [Marichka Offen](https://github.com/Marichka94)
