@@ -45,6 +45,7 @@
 - [Dennis Machu] (https://github.com/dennismachu)
 - [sajjas] (https://github.com/sajjass) 
 - [Danyal] (https://github.com/danyalz)
+- [Griffin Buising] (https://github.com/ShikoModo)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
