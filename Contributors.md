@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Safura]
 - [Sunrafan]
+- [Luis Diaz](https://github.com/mrluiso)
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
 - [Derek Brown](https://github.com/scelestus1)
