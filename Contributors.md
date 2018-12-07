@@ -61,6 +61,7 @@
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - Justin vZyl
 - [Ivan Boldyrev](https://github.com/iboldurev)
+- [Mallika] (https://github.com/Mallika05)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
