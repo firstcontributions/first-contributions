@@ -2219,6 +2219,7 @@
 - [rohit](https://github.com/rohitkatlaa)
 - [shashi](https://github.com/shashikanth-a)
 - [John Baltazar](https://github.com/jbaltazar03)
+- [William Sovine] (https://github.com/wsovine)
 - [Tammy Davis] (https://github.com/tshade2011)
 - [Aniket Agarwal](https://github.com/aniket0702)
 - [Dharmesh Poddar](https://github.com/Dharmesh-Poddar)
