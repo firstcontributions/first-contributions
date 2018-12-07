@@ -2,6 +2,7 @@
 - [Safura]
 - [Sunrafan]
 - [Luis Diaz](https://github.com/mrluiso)
+- [Jesper Stoico](https://github.com/JesperStoico)
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
 - [Derek Brown](https://github.com/scelestus1)
