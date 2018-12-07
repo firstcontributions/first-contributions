@@ -16,6 +16,7 @@
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Wangari Kimani](https://github.com/WangariK/)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
+- [smitsky](https://github.com/smitsky)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
