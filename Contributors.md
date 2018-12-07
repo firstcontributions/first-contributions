@@ -63,7 +63,6 @@
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Karen Williams](https://github.com/karenw4)
 - [Oliver Horton](https://github.com/0liveradam8)
-- [Riccardo T]
 - [Pigeon Dev] 
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
