@@ -123,6 +123,7 @@
 - [Kat Tow] (https://github.com/kattow88)
 - [Meg Algarin](https://github.com/megalgarin)
 - [Andrew Stanley] (https://github.com/andystanley)
+- [Joseph Gardin] (https://github.com/Josephasafg)
 - [Kazmuir Long]()
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
