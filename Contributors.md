@@ -10995,3 +10995,4 @@
 - [Yashaswi Yogeshwara] ( https://github.com/yashaswiyogeshwara)
 - [autumnlee](https://github.com/gaeulautumn)
 - [David Yu](https://github.com/davidoffyuy)
+- [Gabriel Tremblay](https://github.com/Tremblay2112)
