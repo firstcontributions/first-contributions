@@ -130,6 +130,7 @@
 - [Andrew Stanley] (https://github.com/andystanley)
 - [Joseph Gardin] (https://github.com/Josephasafg)
 - [Kazmuir Long]()
+- [Swapnik Kota]
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
 - [Ali Asgar](https://github.com/aliasgar12)
