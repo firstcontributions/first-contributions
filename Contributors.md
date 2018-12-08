@@ -179,6 +179,7 @@
 - [Alex Moran]()
 - [Thibault Devienne]()
 - [Dimitri]()
+- Fernando Gomez
 - [Justin Jones] (https://github.com/jjones1983)
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
