@@ -174,6 +174,7 @@
 - [Mohammed Yousif](https://github.com/MohammedShwani)
 - [Jesse Hillman](https://github.com/proton5)
 - [Ashley Herman](https://github.com/hermana)
+- [Chris Crisson](https://github.com/ccrisson)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
 - [Tobi Popoola](https://github.com/tobithegreat)
