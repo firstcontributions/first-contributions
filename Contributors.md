@@ -100,6 +100,7 @@
 - [Supraja]()
 -[Rajitha Prashan](https://github.com/ADiprashan)
 - [Lowell Basco](https://github.com/lowellbasco)
+- [Jason Rash](http://github.com/JasonMRash)
 - [Lisa Chesson]()
 - [Mark Elishaev]()
 - [Felix Carlberg](https://github.com/Felix-Carlberg)
