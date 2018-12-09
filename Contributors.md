@@ -5518,6 +5518,7 @@
 - [Jeremy Tsang](https://github.com/jeremytsang1)
 - [Nick Hafkemeyer](https://github.com/np1e)
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
+- [Oikonomou Evangelos](https://github.com/DeadlyFrame))
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Shawn Spears](http://github.com/shawnspears)
