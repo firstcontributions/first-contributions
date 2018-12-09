@@ -787,6 +787,7 @@
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Jeff Meyer](https://github.com/jlm234)
+- [Will Fuchs](https://github.com/wifuchs)
 - [Dhirendra](https://github.com/Dhirendra24)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Fleuron Gnadekpa](https://github.com/fleuronvilik)
