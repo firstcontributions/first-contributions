@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Safura]
 - [Sunrafan]
 - [Luis Diaz](https://github.com/mrluiso)
@@ -10911,6 +10911,7 @@
 - [Troy Hayman] (https://github.com/amnesiasd)
 - [Glen Egbert] (https://github.com/glenegbert)
 - [lee-dav]
+- [Devendra!](https://github.com/daawelsh)
 - [keith knox]
 - [Tejas Namjoshi](https://github.com/tejasnamjoshi)
 - [Marc Shaxted](https://github.com/marcshaxted)
@@ -10997,4 +10998,4 @@
 - [Yashaswi Yogeshwara] ( https://github.com/yashaswiyogeshwara)
 - [autumnlee](https://github.com/gaeulautumn)
 - [David Yu](https://github.com/davidoffyuy)
-- [Gabriel Tremblay](https://github.com/Tremblay2112)
+- [Gabriel Tremblay](https://github.com/Tremblay2112)		
