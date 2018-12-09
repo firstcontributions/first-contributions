@@ -2726,6 +2726,7 @@
 - [Vinay Kotwal](https://github.com/Storm017)
 - [A.Lau](https://github.com/ALau2088)
 - [Valentine]()
+- [Anand Shankar](https://github.com/theoptimisticcoder)
 - [Meenakshi Anand](https://github.com/Meenakshi-Anand)
 - [Oscar] (https://github.com/glasspinnA)
 - [Madhu Murthy](https://github.com/madhumurthy16)
