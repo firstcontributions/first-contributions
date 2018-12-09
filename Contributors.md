@@ -125,6 +125,7 @@
 - [Ragan Lake]
 - [Amos Nzivu]
 - [Cindy Trowbridge](https://github.com/ctrowbridge)
+- [Patrik Wiklund]
 - [Samesh Lakhotia](https://github.com/sameshl)
 - [Art-Vanderlay](https://github.com/Art-Vanderlay)
 - [Kat Tow] (https://github.com/kattow88)
