@@ -8883,6 +8883,7 @@
 - [Kevinmbt](https://github.com/kevinmbt)
 - [Kevin Mak](https://github.com/kevinkmmak)
 - [Jesvin Palatty](https://github.com/PALATTY-J)
+- [Francis Palattao](https://github.com/kindredfp)
 - [Tajammul Pasha](https://github.com/tajammul1996)
 - [Jeremi Mucha](https://github.com/jeremimucha)
 - [Josh Taylor](http://github.com/xxylem)
