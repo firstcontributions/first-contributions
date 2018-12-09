@@ -10333,6 +10333,7 @@
 - [Mariana Brito](https://github.com/BritoMari)
 - [Luis Espinal](https://github.com/lespinalrivera)
 - [Chris Webster](https://github.com/whycantidraw)
+- [Allan Gao](https://github.com/e3cd)
 - [Kyle Noland](https://github.com/kylednoland)
 - [Grant Fogle](https://github.com/grantfogle)
 - [rogama25](https://github.com/rogama25)
