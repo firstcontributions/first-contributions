@@ -2015,6 +2015,7 @@
 - [liliannas](https://github.com/liliannas)
 - [Raunak Sharma](https://github.com/raunak-sharma)
 - [rahul](https://github.com/rahul)
+- [Nick] (https://github.com/nbozentko/)
 - [marco](https://github.com/marco671)
 - [Shalini Sreedhar](https://github.com/shalini-s)
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
