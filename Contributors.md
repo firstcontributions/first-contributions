@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Kevin Mendoza](https://github.com/nitromlllR)
 - [Safura]
 - [Sunrafan]
 - [Luis Diaz](https://github.com/mrluiso)
