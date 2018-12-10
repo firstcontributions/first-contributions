@@ -9535,6 +9535,7 @@ Rohan Das
 - [Riablo](https://github.com/Riablo)
 - [Jakub](https://github.com/IRusio)
 - [Kimi Leta Ward](https://github.com/kimileta)
+- [warda](https://github.com/wardajaved)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Dzung Le](https://github.com/dzunglt24)
 - [Kha Yuen Kam](https://github.com/khayuenkam)
@@ -9862,5 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [warda](https://github.com/wardajaved)
-
