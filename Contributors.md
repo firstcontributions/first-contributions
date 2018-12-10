@@ -60,7 +60,6 @@
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - Justin vZyl
-- Param Thakker
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
@@ -498,6 +497,7 @@
 - [Kegjams](https://github.com/Kegjams)
 - [nathhia](https://github.com/nathhia)
 - [SS491]
+- Param Thakker
 - [Nam Hyun Wook](https://github.com/hw0k)
 - [MercinQ]
 - [MYusuf](https://github.com/mohamadyusuf19)
@@ -717,7 +717,7 @@
 - [Jeet Maity](https://github.com/jeet-maity)
 - [Siddharth Gusain](https://github.com/siddharth-gusain)
 - [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z)
-- Ben'
+- Ben
 - [Rafael Junqueira](https://github.com/rafaelj)
 - John Carl James Nebab
 - [nuntjw](https://github.com/nuntjw)
