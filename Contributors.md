@@ -13,6 +13,7 @@
 - [Doug Ward](https://github.com/DouglasCWard)
 - [jackson0108](https://github.com/jackson0108)
 - [Gilbert Rosario](https://github.com/Gilbert1391)
+- [Paul Yin](https://github.com/paulyin2001)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
