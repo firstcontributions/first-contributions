@@ -537,6 +537,7 @@ Nguyen Khoa
 - Joedwin
 - [Cooper Pierce](https://github.com/kopecs)
 - [Jody Swartz](https://github.com/jodyswartz)
+- [Natallia Skviarniuk](https://github.com/ferrikt) 
 - Aileen J
 - [Prajjwal](https://github.com/darksidergod/first-contributions)
 - [Eren Jaegar](https://github.com/erenjaegar)
