@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Safura]
 - [Sunrafan]
@@ -10936,6 +10936,7 @@
 - [Troy Hayman] (https://github.com/amnesiasd)
 - [Glen Egbert] (https://github.com/glenegbert)
 - [lee-dav]
+- [Devendra!](https://github.com/daawelsh)
 - [keith knox]
 - [Tejas Namjoshi](https://github.com/tejasnamjoshi)
 - [Marc Shaxted](https://github.com/marcshaxted)
