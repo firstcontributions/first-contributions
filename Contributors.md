@@ -9565,6 +9565,7 @@ Rohan Das
 - [Bob Back](https://github.com/bob-back)
 - [Sastem](https://github.com/Sastem)
 - [Shounak7](https://github.com/shounak7)
+- [Teno Siswono](https://github.com/tenosiswono)
 - [Leon Dong](https://github.com/dankpigeon)
 - [JPS sasadara](https://github.com/jpssasadara)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Teno Siswono](https://github.com/tenosiswono)
