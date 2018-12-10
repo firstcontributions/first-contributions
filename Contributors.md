@@ -4835,6 +4835,7 @@
 - [Zimi14](https://github.com/Zimi14)
 - [wmdieter](https://github.com/wmdieter)
 - [samanthalgibson](https://github.com/samanthalgibson)
+- [haralica] (https://github.com/hare989)
 - [Atlas34](https://github.com/Atlas34)
 - [Ivan Shen](https://github.com/ivanshen)
 - [Jonathan Arredondo](https://github.com/angelyonas)
