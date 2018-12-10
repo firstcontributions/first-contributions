@@ -10481,6 +10481,7 @@
 - [Riablo](https://github.com/Riablo)
 - [Jakub](https://github.com/IRusio)
 - [Kimi Leta Ward](https://github.com/kimileta)
+- [warda](https://github.com/wardajaved)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Dzung Le](https://github.com/dzunglt24)
 - [Kha Yuen Kam](https://github.com/khayuenkam)
