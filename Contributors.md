@@ -600,7 +600,7 @@ Nguyen Khoa
 - [Fred Aswad](https://github.com/cbdoc)
 - [axux](https://github.com/axux)
 - [Bárbara Fernandes](https://github.com/barbaradcf)
-- [Berk Erol](https://github.com/berkerol)
+- [Berk Erol](https://github.com/berkerol)https://github.com/ioakaarjun/first-contributions.git
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
@@ -11016,6 +11016,7 @@ Anthony Stannard
 - [Malik Perry](https://github.com/Perrym14/)
 - [F14K-3R](https://github.com/F14K-3R/)
 - [MrBuddha](https://github.com/MrBuddha)
+- [ioakaarjun](https://github.com/ioakaarjun)
 - [heisjh](https://github.com/heisjh/)
 - [Toni Oshikanlu](https://github.com/tonioshikanlu/)
 - [Khiarov](https://github.com/khiarov/)
