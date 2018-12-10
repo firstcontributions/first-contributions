@@ -10558,6 +10558,7 @@
 - [Erick Silva](https://github.com/erickos)
 - [Victor Menezes](https://github.com/victormenezez)
 - [Aditya](https://github.com/aditya300899)
+- [btb63](https://github.com/btb63)
 - [Buse Genç](https://github.com/busegenc)
 - [Felipe Putsch](https://github.com/flpputsch)
 - [Nair Rohit](https://github.com/innovative-roh)
@@ -10910,4 +10911,3 @@
 - [Khiarov](https://github.com/khiarov/)
 - [tullur](https://github.com/tullur)
 - [showstiller](https://github.com/showstiller)
-- [btb63](https://github.com/btb63)
