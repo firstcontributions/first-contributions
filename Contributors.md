@@ -549,6 +549,7 @@ Nguyen Khoa
 - [Kegjams](https://github.com/Kegjams)
 - [nathhia](https://github.com/nathhia)
 - [SS491]
+- Param Thakker
 - [Nam Hyun Wook](https://github.com/hw0k)
 - [MercinQ]
 - [MYusuf](https://github.com/mohamadyusuf19)
