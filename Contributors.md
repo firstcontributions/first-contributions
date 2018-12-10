@@ -9335,6 +9335,7 @@
 - [Anh T Nguyen](https://github.com/shin2903)
 - [Nemohack](https://github.com/nemohack)
 - [Ammar Saefurrohman](https://github.com/ammarsr)
+- [Mani Mannampalli](https://github.com/mani-mp)
 - [Saumya Wardhan](https://github.com/swardhan)
 - [Sreelakshmi Sudey](https://github.com/sreesudey)
 - [Arka Saha](https://github.com/ArkaJU)
