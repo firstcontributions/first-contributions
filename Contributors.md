@@ -10547,6 +10547,7 @@ Anthony Stannard
 - [Gilmar Francisco](https://github.com/gilmarfrancisco828)
 - [Priyanshu Kumar](https://github.com/PRINCE-hacker)
 - [cuzz1](https://github.com/cuzz1)
+- [Daniel Leao](https://github.com/ydanielbum)
 - [Adnan Fareed](https://github.com/MadnanSharif404)
 - [LucidComplex](https://github.com/LucidComplex)
 - [Poomchaio] (https://github.com/poomchaio)
