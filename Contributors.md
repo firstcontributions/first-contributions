@@ -340,6 +340,7 @@
 - [Ansul Kumar](https://github.com/ansul357)
 - [Erica Peterson](https://github.com/ericalpeterson)
 - [David]
+- [CraftyDH](https://github.com/CraftyDH)
 - [Natan Gazola](https://github.com/Natan19)
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Alexsander Ferreira](https://github.com/alexs974)
