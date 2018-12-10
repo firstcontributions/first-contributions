@@ -10428,6 +10428,7 @@
 - [angristan](https://github.com/angristan)
 - [Aaron Shannon](https://github.com/aarondshan)
 - [Vladimir Pavlovic](https://github.com/vlada1001)
+- [Emma Burstow](https://github.com/emmaburstow)
 - [Harsh Shah](https://github.com/harshvshah)
 - [Doug Silva](https://github.com/d0gey)
 - [Carlo Martín](https://github.com/CarloMtzMartin)
