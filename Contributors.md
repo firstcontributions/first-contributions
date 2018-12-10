@@ -10734,6 +10734,7 @@ Anthony Stannard
 - [Jairo Junior](https://github.com/jairojj)
 - [ChuckB] (https://github.com/extreme2700)
 - [Edward Yang](https://github.com/rarcie)
+- [Bartłomiej Tota](https://github.com/akira202)
 - [Garfianto Dwi](https://github.com/fiiann)
 - [Asha Sulaiman](https://github.com/asha15)
 - [Earle-Poole](https://github.com/earle-poole)
