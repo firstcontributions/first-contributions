@@ -10725,6 +10725,7 @@
 - [raul7760](https://github.com/raul7760)
 - [Pankaj Kumar](https://github.com/cryptic22)
 - [anooppoommen](https://github.com/anooppoommen)
+- [ErikuNyang](https://github.com/ErikuNyang)
 - [frankles12](https://github.com/frankles12)
 - [shirt-collector](https://github.com/green-leaves)
 - [Javier Lorenzo](https://github.com/javierlorenzod)
@@ -10994,4 +10995,3 @@
 - [Juxley] (https://github.com/juxley)
 - [Yashaswi Yogeshwara] ( https://github.com/yashaswiyogeshwara)
 - [autumnlee](https://github.com/gaeulautumn)
-- [ErikuNyang](https://github.com/ErikuNyang)
