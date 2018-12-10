@@ -9674,6 +9674,7 @@ Rohan Das
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Derry Handoyo](https://github.com/derryhandoyo)
+- [Simon Müller](https://github.com/Rubbertick)
 - [Warun](https://github.com/ubinix-warun)
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
@@ -9913,4 +9914,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Simon Müller](https://github.com/Rubbertick)
