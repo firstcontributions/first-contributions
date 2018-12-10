@@ -10805,6 +10805,7 @@
 - [RISHABH DHENKAWAT](https://github.com/rishabhdhenkawat)
 - [Aathif Nihas](https://github.com/aathifnihas)
 - [Samantha L Gibson](https://github.com/samanthalgibson)
+- [Valerie Cheng](https://github.com/iDG772Mn)
 - [Caleb Dalton](https://github.com/CalebDalton)
 - [Dzaki Afif](https://github.com/dzakiafif)
 - [Jay Perez](https://github.com/Rolys)
