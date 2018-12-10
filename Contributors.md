@@ -46,6 +46,7 @@
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Umair Ahmad](https://github.com/a-umair)
+- [Brandon Wagner](https://github.com/brandonawagner)
 - [Kevin Frostad](https://github.com/frokev)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
