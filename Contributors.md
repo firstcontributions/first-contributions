@@ -3351,6 +3351,7 @@ Bakht Jamal Sukhera
 - [Sannan Ansari](https://github.com/sannanansari)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
+- [Sara Crespo](https://github.com/saracresp)
 - [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Jesús Muñoz](https://github.com/98789)
