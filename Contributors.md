@@ -5844,6 +5844,7 @@ Rohan Das
 - [Maria Turner](https://github.com/babydaisy18)
 - [Vishak Udupa](https://github.com/vishakudupa)
 - [Ken Grover](https://github.com/kgrover3)
+- [Christopher Sofokleous] (https://github.com/ChrisSofokleous)
 - [Anuj Sharma](https://github.com/anuj-ssharma)
 - [sjahed](https://github.com/sjahed)
 - [Andy Winarko](https://github.com/AndyWinarko)
