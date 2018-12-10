@@ -37,6 +37,7 @@
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Alireza Delavari](https://github.com/general73)
 - [Sunitha Kandalam](https://github.com/neozenweb)
+- [Chris Hatkoff](https://github.com/eppixdev)
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Umair Ahmad](https://github.com/a-umair)
