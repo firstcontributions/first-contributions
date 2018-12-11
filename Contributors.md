@@ -5,7 +5,6 @@
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
-- [Marissa Robinson](https://github.com/TheDataDrivenMillennial)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
