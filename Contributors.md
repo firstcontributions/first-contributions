@@ -20,6 +20,7 @@
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
+- [Lavanay Thakral] (https://github.com/MetalBaba98) 
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
