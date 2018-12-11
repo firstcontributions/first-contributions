@@ -194,6 +194,7 @@
 - [Khalid Elassaad]()
 - [MohitTare](https://github.com/MohitTare)
 - [Nuevo Pixel]
+- [Martin Vityk](https://github.com/https://github.com/DrowNoble)
 - [Mohammed Yousif](https://github.com/MohammedShwani)
 - [Jesse Hillman](https://github.com/proton5)
 - [Ashley Herman](https://github.com/hermana)
