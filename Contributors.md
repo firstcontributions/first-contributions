@@ -40,6 +40,7 @@
 - [Umair Ahmad](https://github.com/a-umair)
 - [Kevin Frostad](https://github.com/frokev)
 - [Aviad Ariel]
+- [ajupazhamayil]
 - [Tredon Austin](https://github.com/TredonA)
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
