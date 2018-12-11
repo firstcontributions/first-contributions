@@ -10757,6 +10757,7 @@ Anthony Stannard
 - [Bartłomiej Tota](https://github.com/akira202)
 - [Garfianto Dwi](https://github.com/fiiann)
 - [Asha Sulaiman](https://github.com/asha15)
+- [Arjun Iyer](https://github.com/aiyer11)
 - [Earle-Poole](https://github.com/earle-poole)
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
@@ -11062,4 +11063,3 @@ Anthony Stannard
 - [Oliver Carlson] (https://github.com/olivercarlson)
 - [Mr Cartoonster] (https://github.com/mrcartoonster)
 - [Azhar Rohiman] (https://github.com/azharrohiman)
-- [Arjun Iyer](https://github.com/aiyer11)
