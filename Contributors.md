@@ -4624,6 +4624,7 @@ Tanishq Gupta
 - [deodesumitsingh](https://github.com/deodesumitsingh)
 - [Waheeb Aghers](https://github.com/Wahe3bru)
 - [Dylan Yang](https://github.com/DylanLovesCoffee)
+- [Seuss27] (https://github.com/Seuss27)
 - [amirulabu](https://github.com/amirulabu)
 - [Vikrant Bhopatrao](https://github.com/V-krant)
 - [Raghvendra Gupta](https://github.com/raghav9-97)
