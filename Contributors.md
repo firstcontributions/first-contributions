@@ -322,6 +322,7 @@
 - [prabha](https://github.com/prabhaghimire)
 - [Rajdip Dutta](https://github.com/Rda99)
 - [Silvia Vazquez](https://github.com/SilviaVazSua)
+- [Mohit Tyagi](https://github.com/Mohitty)
 - [Sean Dolan](https://github.com/snpdolan)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
