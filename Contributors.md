@@ -173,6 +173,7 @@
 - [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
 - [Trenton Hall]()
+- Kwaku Eshun
 - [Chris Tuohey]
 - [Bhavin Tandel](https://github.com/bhavintandel)
 - [Vinod Reddy](https://github.com/ivnod)
@@ -539,7 +540,7 @@ Nguyen Khoa
 - Joedwin
 - [Cooper Pierce](https://github.com/kopecs)
 - [Jody Swartz](https://github.com/jodyswartz)
-- [Natallia Skviarniuk](https://github.com/ferrikt) 
+- [Natallia Skviarniuk](https://github.com/ferrikt)
 - Aileen J
 - [Prajjwal](https://github.com/darksidergod/first-contributions)
 - [Eren Jaegar](https://github.com/erenjaegar)
