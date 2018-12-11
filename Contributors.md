@@ -41,6 +41,7 @@
 - [Jens Kristian Espevik](https://github.com/jkriesp)
 - [Shaun Mitchell] (https://github.com/ShaunMitchell98)
 - [Antoine Catt](https://github.com/antoinecatt)
+- [Andre Brasil](https://github.com/oliva20)  
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [Alireza Delavari](https://github.com/general73)
 - [Sunitha Kandalam](https://github.com/neozenweb)
