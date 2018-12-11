@@ -42,6 +42,7 @@
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Umair Ahmad](https://github.com/a-umair)
 - [Kevin Frostad](https://github.com/frokev)
+- [Matthew Kirimi](https://github.com/Curti-s)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
 - [Tredon Austin](https://github.com/TredonA)
