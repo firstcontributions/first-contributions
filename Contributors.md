@@ -23,6 +23,7 @@
 - [Lavanay Thakral] (https://github.com/MetalBaba98) 
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
+- [Kehan Bao](https://github.com/keybao0863)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Wangari Kimani](https://github.com/WangariK/)
