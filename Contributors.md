@@ -35,6 +35,7 @@
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Tannmay Joshi](https://github.com/tanmay-chanakya/)
+- [Veronica Lusby](https://github.com/veronicamengyan)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Eli Alvarado](https://github.com/elialvaradoo)
 - [Sukhesh Samant](https://github.com/sukhsama)
