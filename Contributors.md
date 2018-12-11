@@ -10846,6 +10846,7 @@ Anthony Stannard
 - [Jorge Galat](https://github.com/jgalat)
 - [Flaviano Flauber](https://github.com/flauberjp)
 - [Geraldo Castro](https://github.com/victormatheusc)
+- [Leigh D'Amico](https://github.com/leighdamico)
 - [Safarul Muoqil](https://github.com/abu-abdirrahman)
 - [Ya Dro](https://github.com/MrYadro)
 - [Vinicius Costa](https://github.com/viniciuscosta89)
@@ -11064,4 +11065,3 @@ Anthony Stannard
 - [Mr Cartoonster] (https://github.com/mrcartoonster)
 - [Azhar Rohiman] (https://github.com/azharrohiman)
 - [Robert Paul] (https://github.com/rpaul02)
-- [Leigh D'Amico] (https://github.com/leighdamico)
