@@ -3241,6 +3241,7 @@ Bakht Jamal Sukhera
 - [Ovidiu Sabau](https://github.com/OvidiuSabau)
 - [Anjali Ahuja](https://github.com/anjaliannahuja)
 - [Armando Marin](https://github.com/ArmandoMetlich)
+- [Jamal Bourne] (https://github.com/JayBee6814)
 - [Manik Chugh](http://github.com/manikrc98)
 - [J Othniel](http://github.com/jothniel)
 - [Tea Har](https://github.com/teahar)
