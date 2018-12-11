@@ -96,6 +96,7 @@
 - [mosii.js](https://github.com/mohsenhaghighatkhah)
 - [Gabriel Colson](https://github.com/gabrielcolson)
 - Justin vZyl
+- [olivia] (https://github.com/itsmeolivia)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Mallika] (https://github.com/Mallika05)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
