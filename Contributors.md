@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Safura]
 - [Sunrafan]
@@ -11057,3 +11057,4 @@ Anthony Stannard
 - [Felorina] (https://github.com/Felorina)
 - [Oliver Carlson] (https://github.com/olivercarlson)
 - [Mr Cartoonster] (https://github.com/mrcartoonster)
+- [Azhar Rohiman] (https://github.com/azharrohiman)
