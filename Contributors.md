@@ -18,6 +18,7 @@
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
+- [Priyanka Walunj]
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
