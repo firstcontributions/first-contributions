@@ -172,6 +172,7 @@
 - [Sina Saeedi](https://github.com/sina33)
 - [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
+- [Udit Vashisht](https://github.com/uditvashisht)
 - [Trenton Hall]()
 - Kwaku Eshun
 - [Chris Tuohey]
