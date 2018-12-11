@@ -53,6 +53,7 @@
 - [Umair Ahmad](https://github.com/a-umair)
 - [Brandon Wagner](https://github.com/brandonawagner)
 - [Kevin Frostad](https://github.com/frokev)
+- [Matthew Kirimi](https://github.com/Curti-s)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
 - [Tredon Austin](https://github.com/TredonA)
