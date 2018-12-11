@@ -5764,6 +5764,7 @@ Rohan Das
 - [Beecallpaw Thapa](https://github.com/Beecallpaw)
 - [kaotikus](https://github.com/kaotikus)
 - [beardww](https://github.com/beardww)
+- [smellinor](https://github.com/smellinor)
 - [Annabel MacGregor](http://github.com/a-macgregor)
 - [Gareth](https://github.com/Gareth-L)
 - [josaks](https://github.com/josaks)
