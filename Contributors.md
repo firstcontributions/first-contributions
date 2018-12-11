@@ -226,6 +226,7 @@
 - [luciade](https://github.com/luciade)
 - [Janpreet Chandhok](https://github.com/chandhok97)
 - [Kyeza Arnold](https://github.com/Kyeza)
+- [Alan Ross] (https://github.com/alanwallaceross)
 - [Kevin Dunne](https://github.com/sdevkev)
 - [Priyansh Rastogi](https://github.com/prince2580)
 - [Srividhya Prakash Rangarajan](https://github.com/srividhyaprakash)
