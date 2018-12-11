@@ -27,6 +27,7 @@
 - [smitsky](https://github.com/smitsky)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
+- [Kelechi Nwosu](https://github.com/klexzi/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
