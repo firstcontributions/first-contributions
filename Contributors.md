@@ -2,6 +2,7 @@
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Safura]
 - [Sunrafan]
+- [Debjyoti Biswas] (https://github.com/lladhibhutall)
 - [Tyler Elliott] (https://github.com/TDSElliott)
 - [Luis Diaz](https://github.com/mrluiso)
 - [Jesper Stoico](https://github.com/JesperStoico)
