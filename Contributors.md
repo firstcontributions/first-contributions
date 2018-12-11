@@ -57,6 +57,7 @@
 - [Matthew Kirimi](https://github.com/Curti-s)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
+- [ajupazhamayil]
 - [Tredon Austin](https://github.com/TredonA)
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
@@ -11061,6 +11062,7 @@ Anthony Stannard
 - [Yashaswi Yogeshwara] ( https://github.com/yashaswiyogeshwara)
 - [autumnlee](https://github.com/gaeulautumn)
 - [David Yu](https://github.com/davidoffyuy)
+- [ajupazhamayil]
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
 - [Felorina] (https://github.com/Felorina)
 - [Oliver Carlson] (https://github.com/olivercarlson)
