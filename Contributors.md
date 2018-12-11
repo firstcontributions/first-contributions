@@ -11043,6 +11043,7 @@ Anthony Stannard
 - [coopergriffin](https://github.com/coopergriffin)
 - [kamil](https://github.com/KamilMa)
 - [Francis Coteur] (https://github.com/fcoteur/)
+- [Michal Klinovsky](https://github.com/mklinovsky)
 - [Benjamin Sullivan](https://github.com/Goto15)
 - [Juxley] (https://github.com/juxley)
 - [Yashaswi Yogeshwara] ( https://github.com/yashaswiyogeshwara)
