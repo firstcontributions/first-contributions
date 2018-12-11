@@ -11064,3 +11064,4 @@ Anthony Stannard
 - [Mr Cartoonster] (https://github.com/mrcartoonster)
 - [Azhar Rohiman] (https://github.com/azharrohiman)
 - [Robert Paul] (https://github.com/rpaul02)
+- [Jakub Szeja](https://github.com/muzykub)
