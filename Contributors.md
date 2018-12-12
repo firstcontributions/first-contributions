@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Safura]
 - [Sunrafan]
@@ -11046,3 +11046,4 @@ Anthony Stannard
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
 - [Felorina] (https://github.com/Felorina)
 - [Oliver Carlson] (https://github.com/olivercarlson)
+- [Kiki Karypidou] (https://github.com/kirki333)
