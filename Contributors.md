@@ -1747,6 +1747,7 @@ Nguyen Khoa
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
 - [narender yadav](https://github.com/narendersinghyadav)
 - [Hamza Ali](https://github.com/ryzbaka)
+- [Muhammad Yaseen](https://muhammadyaseen.github.io)
 - [Tamoghno Das](https://github.com/dastamoghno)
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Collins M Mbulakyalo](https://github.com/Musacoli)
