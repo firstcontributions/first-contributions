@@ -20,7 +20,7 @@
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
-- [Lavanay Thakral] (https://github.com/MetalBaba98) 
+- [Lavanay Thakral] (https://github.com/MetalBaba98)
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
 - [Kehan Bao](https://github.com/keybao0863)
@@ -6039,6 +6039,7 @@ Rohan Das
 - [Sadhana Yatapanage](https://github.com/syatapanage)
 - [Nicholas Meletiou](https://github.com/literaln)
 - [Nischal Dutt](https://github.com/nischaldutt)
+- [Kobe Buckley](https://github.com/maoziyou)
 - [Nikhilendra Atheti](https://github.com/nikhil7934)
 - [Ey?b Y?ld?r?m](https://github.com/VatorLol)
 - [Torsten Kneuss](https://github.com/TorstenKn)
