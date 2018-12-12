@@ -1632,6 +1632,7 @@ Nguyen Khoa
 - [Sarthak Ahuja](https://github.com/sarthakahuja11)
 - [Cleberson Junior](https://github.com/cleberson-dev)
 - [Sarthak Aggarwal](https://github.com/sarthak1995)
+- [Daniel Young](https://gitbub.com/danyoungmusic93)
 - [Patrick Stepanian](https://github.com/stepanianpat)
 - [Simmar Kalsi](https://github.com/gyr0tron)
 - [Ivan De Menezes](https://github.com/ivan3101)
