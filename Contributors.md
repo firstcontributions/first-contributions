@@ -60,6 +60,7 @@
 - [Matthew Kirimi](https://github.com/Curti-s)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
+- [sajjas] (https://github.com/sajjass)
 - [ajupazhamayil]
 - [Tredon Austin](https://github.com/TredonA)
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
@@ -70,6 +71,7 @@
 - [sajjas] (https://github.com/sajjass)
 - [Danyal] (https://github.com/danyalz)
 - [Griffin Buising] (https://github.com/ShikoModo)
+- [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
@@ -5243,6 +5245,7 @@ Tanishq Gupta
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [Canyon Schwartz](https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
+- [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
 - [Kamil Pszczółkowski](https://github.com/kamilpszczolkowski)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
 - [Umesh Pandey](https://github.com/umeshpandey1994)
