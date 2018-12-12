@@ -277,6 +277,7 @@
 - [Allan Turk](https://github.com/tallan9)
 - [Takia Rudolph](https://github.com/takiarochelle)
 - [Tobias Haugen](https://github.com/Haugen)
+- [Matheus Nogueira](https://github.com/mmn92)
 - [Richard Sachek](https://github.com/rsachek)
 - [Emily Yang](https://github.com/emilyyz92)
 - [Collins Kelechi](https://github.com/collinskelechi)
