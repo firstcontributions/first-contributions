@@ -2689,6 +2689,7 @@ Nguyen Khoa
 - [Ashish Nandan Singh](https://github.com/ashishcodes4)
 - [Kevin Cheong](https://github.com/sicksticky)
 - [G Heller](https://github.com/hellerguyh)
+- [Jan Kierzyk](https://github.com/kjerzyk)
 - [Brian O'Donoghue](https://github.com/BriOD)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
