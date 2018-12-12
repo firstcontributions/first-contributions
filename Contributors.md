@@ -12,6 +12,7 @@
 - [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
 - [Doug Ward](https://github.com/DouglasCWard)
+- [Tianlin Lu](https://github.com/lu1995happy)
 - [jackson0108](https://github.com/jackson0108)
 - [Gilbert Rosario](https://github.com/Gilbert1391)
 - [Paul Yin](https://github.com/paulyin2001)
