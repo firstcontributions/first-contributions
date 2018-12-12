@@ -4261,6 +4261,7 @@ Viraj Jiwane
 - [javier](https://github.com/javieriranzo3)
 - [Ashish Yadav](https://github.com/ashish-y)
 - [GardenSnake](https://github.com/GardenSnake)
+- [Mateusz Jurek](https://github.com/MateuszJrk)
 - [Suraj Rathod](https://github.com/surajrathod)
 - [Bhavik Joshi](https://github.com/BhavikJoshi07)
 - [Tykisha Pittman](https://github.com/tspittma)
