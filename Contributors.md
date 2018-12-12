@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Kevin Mendoza](https://github.com/nitromlllR)
+- [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
 - [Sunrafan]
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
@@ -175,7 +176,7 @@
 - [Brian Driesenga](https://github.com/driesenga)
 - ausoro
 - [Bhuyan]
-- [Apelsimon] 
+- [Apelsimon]
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
