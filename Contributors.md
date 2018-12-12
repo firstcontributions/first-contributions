@@ -175,6 +175,7 @@
 - [Brian Driesenga](https://github.com/driesenga)
 - ausoro
 - [Bhuyan]
+- [Apelsimon] 
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
