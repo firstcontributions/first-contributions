@@ -81,6 +81,7 @@
 - [Timothy Virgil Payne Jr.](https://github.com/TimothyVirgil)
 - [Kedar Vaidya](https://github.com/kvaidya)
 - [hugo](https://github.com/ggoyo))
+- [Corey Hutcheson](https://github.com/CoreyHutcheson)
 - [Ashish Barnawal](https://github.com/mango3122)
 - [Aaron Meinicke RC] (https://github.com/RudeCoffee)
 - [Eric Brown](https://github.com/Aeluwin)
