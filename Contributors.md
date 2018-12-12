@@ -10660,6 +10660,7 @@ Anthony Stannard
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
 - [gian tyo](https://github.com/giantyo)
+- [Kiki Karypidou](https://github.com/kirki333)
 - [M. Mursaleen](https://github.com/mmursaleen)
 - [Bryan L](https://github.com/bdlb77)
 - [Richard Bailey](https://github.com/Programm3r)
@@ -11046,4 +11047,3 @@ Anthony Stannard
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
 - [Felorina] (https://github.com/Felorina)
 - [Oliver Carlson] (https://github.com/olivercarlson)
-- [Kiki Karypidou] (https://github.com/kirki333)
