@@ -16,6 +16,7 @@
 - [Farhan Ahmed](https://github.com/azzassfa)
 - [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
+- [Arlind Xhakoli](https://github.com/ArlindXh)
 - [Doug Ward](https://github.com/DouglasCWard)
 - [Tianlin Lu](https://github.com/lu1995happy)
 - [jackson0108](https://github.com/jackson0108)
