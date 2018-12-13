@@ -198,6 +198,7 @@
 - [Jack Lyons](https://github.com/JackEdwardLyond)
 - [Sina Saeedi](https://github.com/sina33)
 - [Erich O] (https://github.com/eohlde)
+- [Taryn Lucas](https://github.com/tarynlucas)
 - [base79](https://github.com/base79)
 - [Udit Vashisht](https://github.com/uditvashisht)
 - [Trenton Hall]()
