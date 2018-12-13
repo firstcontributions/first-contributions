@@ -5112,6 +5112,7 @@ Tanishq Gupta
 - [Matt Shine](https://github.com/matt-shine)
 - [Sandeep Gupta](https://github.com/hhoudini010)
 - [Miguel P?res](https://github.com/miguelperes)
+- [Christopher Edgar](https://github.com/verzetem)
 - [lad-47](https://github.com/lad-47)
 - [BVIDev Kaisma](https://github.com/bviengineer)
 - [Arindam Das Modak](https://github.com/arindam-modak)
