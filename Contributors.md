@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [rana5ohaib] (https://github.com/rana5ohaib)
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Chris Wolf](https://github.com/chriswolfdesign)
@@ -293,6 +293,7 @@
 - [Ranjani Ramesh](https://github.com/ranju117)
 - [Mike Jones](https://github.com/mj3k11)
 - [Hong Jik Lee](https://github.com/hanklee92)
+- [Christopher Ferguson] (https://github.com/clockworkomega)
 - [Yicheng Li](https://github.com/yclistanford)
 - [Grompie](https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
