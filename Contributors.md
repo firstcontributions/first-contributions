@@ -78,6 +78,7 @@
 - [sajjas] (https://github.com/sajjass)
 - [Danyal] (https://github.com/danyalz)
 - [Griffin Buising] (https://github.com/ShikoModo)
+- [Rahul Shukla] (https://github.com/rahul754)
 - [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
