@@ -22,6 +22,7 @@
 - [Gilbert Rosario](https://github.com/Gilbert1391)
 - [Paul Yin](https://github.com/paulyin2001)
 - [rob]
+- [Ângelo Lucas](http://angelolucas.github.io)
 - [Tom Settle](https://github.com/tsettle44)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
