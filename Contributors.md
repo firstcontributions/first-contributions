@@ -5528,6 +5528,7 @@ Tanishq Gupta
 - [Cedric Trollwut](https://github.com/Trollwut)
 - [Angie L Yu](https://github.com/AngieLYu)
 - [Diego Zen](https://github.com/Diego-Zen)
+- [Ryan Flynn](https://github.com/rtflynn/)
 - [Ning LI](https://github.com/lininglouis)
 - [Rodrigo Davy](https://github.com/RodrigoDavy)
 - [Byron Blank](https://github.com/ByronCoder)
