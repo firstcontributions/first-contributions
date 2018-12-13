@@ -3878,6 +3878,7 @@ Viraj Jiwane
 - [DevMaterial](https://github.com/DevMaterial)
 - [Narayana Suri](https://github.com/narayanasuri)
 - [drac00l](https://github.com/drac00l)
+- [Denis Dombrovski](https://github.com/ddenis1994)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
