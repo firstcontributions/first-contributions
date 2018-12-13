@@ -518,6 +518,7 @@
 - Hackerrrr
 - Manish kumar
 - Gordon
+- [Masen Matthews](https://github.com/masenmatthews)
 - [Bijan Fard](https://github.com/BFard)
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
