@@ -11092,6 +11092,7 @@ Anthony Stannard
 - [Brice Muvunyi](https://github.com/MuvunyiBrice)
 - [coopergriffin](https://github.com/coopergriffin)
 - [kamil](https://github.com/KamilMa)
+- [Shiung](https://github.com/hh-shiung)
 - [Pranoy Tez](https://github.com/pranoytez)
 - [Francis Coteur] (https://github.com/fcoteur/)
 - [Michal Klinovsky](https://github.com/mklinovsky)
