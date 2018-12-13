@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [rana5ohaib] (https://github.com/rana5ohaib)
+- [anujsinghwd] (https://github.com/anujsinghwd)
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
@@ -637,7 +638,7 @@ Nguyen Khoa
 - [Bárbara Fernandes](https://github.com/barbaradcf)
 - [Berk Erol](https://github.com/berkerol)https://github.com/ioakaarjun/first-contributions.git
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
-- [Avikant Wadhwa]( https://github.com/avikantwadhwa) 
+- [Avikant Wadhwa]( https://github.com/avikantwadhwa)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Dan DuLeone](https://github.com/dduleone)
