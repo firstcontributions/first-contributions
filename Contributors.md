@@ -4998,6 +4998,7 @@ Tanishq Gupta
 - [Kirill Motkov](https://github.com/sosiska)
 - [Kevin Asuncion] (https://github.com/KevinAsuncion)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
+- [Boris Povolotsky][https://github.com/borispov]
 - [dimali dissanayake](https://github.com/dimalik98)
 - [masta-bhawk](https://github.com/masta-bhawk)
 - [Victor Domiciano Mendonça](https://github.com/victordomiciano)
