@@ -2007,6 +2007,7 @@ Nguyen Khoa
 - [Mahmoud Anwar](https://github.com/mamoanwar)
 - [Egor Gorunovich](https://github.com/titanolodon)
 - [tweekes1](https://github.com/tweekes1)
+- [Talita S Travassos](https://github.com/talitastravassos)
 - [capJavert](https://github.com/capJavert)
 - [lookovathere](https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
