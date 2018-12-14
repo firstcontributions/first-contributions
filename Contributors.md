@@ -11125,3 +11125,4 @@ Anthony Stannard
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
 - [Andrew Gidney] (https://github.com/BlueLED) 
+- [sfratz] (https://github.com/sfratz)
