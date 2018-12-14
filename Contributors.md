@@ -22,6 +22,7 @@
 - [Tianlin Lu](https://github.com/lu1995happy)
 - [jackson0108](https://github.com/jackson0108)
 - [Gilbert Rosario](https://github.com/Gilbert1391)
+- [Joseph Whyte](https://github.com/whytej2)
 - [Paul Yin](https://github.com/paulyin2001)
 - [rob]
 - [Ângelo Lucas](http://angelolucas.github.io)
