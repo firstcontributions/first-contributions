@@ -2832,6 +2832,7 @@ Nguyen Khoa
 - [Saeed Ahmadi](https://github.com/saeedahmadee)
 - [Jason Allshorn](https://github.com/supertopoz)
 - [Ano Newb](https://github.com/anonewb)
+- [LeonM] (https://github.com/yeahnah)
 - [Divya K V](https://github.com/kvdivya91)
 - [James McCarthy](https://github.com/jmccarth)
 - [Rory McLaughlin](https://github.com/TXredking)
