@@ -9,6 +9,7 @@
 - [Sunrafan]
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
+- [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
 - [Stephen Stone](https://github.com/sstone2423)
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
