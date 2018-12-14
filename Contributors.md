@@ -13,6 +13,7 @@
 - [Luis Diaz](https://github.com/mrluiso)
 - [Jesper Stoico](https://github.com/JesperStoico)
 - [Mehmet Hakan Doğan](https://github.com/mhkndo)
+- [Everton Renan](https://github.com/everton0991)
 - [Damion Anderson] (https://github.com/danderson2794)
 - [Kingsley Okeke](https://github.com/kingokeke/)
 - [David Ochieng](https://github.com/chiengx)
