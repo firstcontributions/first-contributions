@@ -9,6 +9,7 @@
 - [Sunrafan]
 - [Itamar Givon](https://github.com/xumium)
 - [Ziad Abou Wasa]
+- [Stephen Stone](https://github.com/sstone2423)
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
 - [Tyler Elliott] (https://github.com/TDSElliott)
 - [Luis Diaz](https://github.com/mrluiso)
