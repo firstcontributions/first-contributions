@@ -22,6 +22,7 @@
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
 - [Lavanay Thakral] (https://github.com/MetalBaba98)
+- [Mejia Alan](https://github.com/meifius)
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
 - [Kehan Bao](https://github.com/keybao0863)
