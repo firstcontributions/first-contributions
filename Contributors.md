@@ -5,6 +5,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
 - [Sunrafan]
+- [Itamar Givon](https://github.com/xumium)
 - [Ziad Abou Wasa]
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
 - [Tyler Elliott] (https://github.com/TDSElliott)
