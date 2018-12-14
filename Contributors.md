@@ -194,6 +194,7 @@
 - ausoro
 - [Bhuyan]
 - [Apelsimon]
+- [Matej Turay](https://github.com/MatejTuray)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
