@@ -7,6 +7,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
 - [Sunrafan]
+- [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [Ziad Abou Wasa]
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
