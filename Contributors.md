@@ -5005,6 +5005,7 @@ Tanishq Gupta
 - [hosjiu](https://github.com/hosjiu1702)
 - [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
+- [Alexandre Lestruhaut] 
 - [cacaorick](https://github.com/cacaorick)
 - [derekc2205](https://github.com/derekc2205)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
