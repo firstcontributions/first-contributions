@@ -11112,6 +11112,7 @@ Anthony Stannard
 - [showstiller](https://github.com/showstiller)
 - [William Carattini](https://github.com/Suddenrebel)
 - [showstiller](https://github.com/showstiller)
+- [berniecpa&bry](https://github.com/berniecpa)
 - [dylanavery720](https://github.com/dylanavery720)
 - [rrohak](https://github.com/rrohak)
 - [VijayrajS](https://github.com/VijayrajS/)
