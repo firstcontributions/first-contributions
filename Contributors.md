@@ -11147,3 +11147,4 @@ Anthony Stannard
 - [Mohsin Ali] (http://github.com/mohsinalipro)
 - [SvanderWulp] (http://github.com/svanderwulp)
 - [Jordan Mor](https://github.com/jordanmor)
+- [Jay Moran](https://github.com/moranjay)
