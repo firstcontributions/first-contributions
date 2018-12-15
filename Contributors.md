@@ -1,6 +1,7 @@
 # Contributors
 - [saicharan] (https://github.com/saicharannivarthi)
 - [rodegrafika] (https://github.com/Rodegrafika)
+- [michaelshiyu](https://github.com/michaelshiyu)
 - [rana5ohaib] (https://github.com/rana5ohaib)
 - [anujsinghwd] (https://github.com/anujsinghwd)
 - [Kevin Mendoza](https://github.com/nitromlllR)
@@ -1312,8 +1313,6 @@ Nguyen Khoa
 - [Maaz Jawaid](https://github.com/maaz28)
 - [Kaustubh Khandelwal](http://github.com/kaustubh2705)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
-- [Vast Peng](https://github.com/keatingsmith)
-- [Vikki111](https://github.com/Vikki111)
 - [Archit Singla](https://github.com/architsingla13)
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
 - [Julie Martin](https://github.com/juliebugmtl)
@@ -11146,3 +11145,4 @@ Anthony Stannard
 - [Mohsin Ali] (http://github.com/mohsinalipro)
 - [SvanderWulp] (http://github.com/svanderwulp)
 - [Jordan Mor](https://github.com/jordanmor)
+
