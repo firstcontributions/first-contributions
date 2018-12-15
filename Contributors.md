@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [saicharan] (https://github.com/saicharannivarthi)
 - [rodegrafika] (https://github.com/Rodegrafika)
 - [rana5ohaib] (https://github.com/rana5ohaib)
@@ -369,6 +369,7 @@
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Rextobotu](https://github.com/rextobotu)
 - Carla
+- [Chris Wade-Evans](https://github.com/wadeevans)
 - [Assad Ginem] (https://github.com/ArabKat)
 - [prabha](https://github.com/prabhaghimire)
 - [Rajdip Dutta](https://github.com/Rda99)
