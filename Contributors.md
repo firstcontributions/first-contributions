@@ -7,6 +7,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
 - [Sunrafan]
+- [Nhampy]
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [Darryl McClellan](https://github.com/djmcc34)
