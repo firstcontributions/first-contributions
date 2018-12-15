@@ -11120,6 +11120,7 @@ Anthony Stannard
 - [VijayrajS](https://github.com/VijayrajS/)
 - [Brice Muvunyi](https://github.com/MuvunyiBrice)
 - [coopergriffin](https://github.com/coopergriffin)
+- [aditi agarwal](https://github.com/aditi098)
 - [kamil](https://github.com/KamilMa)
 - [Shiung](https://github.com/hh-shiung)
 - [Pranoy Tez](https://github.com/pranoytez)
