@@ -13,6 +13,7 @@
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
+- [Chris DeSilva](https://github.com/chrisdesilva/)
 - [Stephen Stone](https://github.com/sstone2423)
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
 - [Tyler Elliott] (https://github.com/TDSElliott)
