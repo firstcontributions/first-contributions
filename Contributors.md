@@ -11149,3 +11149,4 @@ Anthony Stannard
 - [SvanderWulp] (http://github.com/svanderwulp)
 - [Jordan Mor](https://github.com/jordanmor)
 - [Jay Moran](https://github.com/moranjay)
+- [Slobodan Spica](https://github.com/sspica)
