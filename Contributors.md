@@ -853,6 +853,7 @@ Nguyen Khoa
 - [Menna](https://github.com/mennayahia)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
+- [Santiago Rodríguez](https://github.com/SantiagoR8)
 - [Seth Polyniak](https://github.com/sethpoly)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [Vipul Chodankar](https://github.com/whiplash7)
