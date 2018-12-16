@@ -6,6 +6,7 @@
 - [rana5ohaib] (https://github.com/rana5ohaib)
 - [anujsinghwd] (https://github.com/anujsinghwd)
 - [Kevin Mendoza](https://github.com/nitromlllR)
+- [harold0416] (https://github.com/harold0416)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
 - [Sunrafan]
