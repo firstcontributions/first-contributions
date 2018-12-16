@@ -1,4 +1,5 @@
 # Contributors
+- [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [rodegrafika] (https://github.com/Rodegrafika)
