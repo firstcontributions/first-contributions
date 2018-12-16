@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
@@ -7628,6 +7628,7 @@ Mayank Bansal
 - [Alex Chavkin](https://github.com/1Question)
 - [geor](https://github.com/ge0rrr)
 - [Chewy Paste](https://github.com/ChewyPaste)
+- [Sam Lambert] (https://github.com/sglambert)
 - [Aditya Khadse](https://github.com/akk5597)
 - [TM Repo](https://github.com/tmrepo)
 - [Supreet Singh](https://github.com/supreetsingh247)
