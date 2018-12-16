@@ -9,6 +9,7 @@
 - [Safura]
 - [Sunrafan]
 - [Nhampy]
+- [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [Rutwik Reddy](https://github.com/Rutwik99)
