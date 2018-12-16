@@ -91,6 +91,7 @@
 - [Tredon Austin](https://github.com/TredonA)
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
+- [Olessia Potapova](https://github.com/olessiap)
 - [Inguss Anosovs] (https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
 - [Dennis Machu] (https://github.com/dennismachu)
