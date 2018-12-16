@@ -17,6 +17,7 @@
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
+- [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
 - [Stephen Stone](https://github.com/sstone2423)
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
@@ -5025,7 +5026,7 @@ Tanishq Gupta
 - [hosjiu](https://github.com/hosjiu1702)
 - [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
-- [Alexandre Lestruhaut] 
+- [Alexandre Lestruhaut]
 - [cacaorick](https://github.com/cacaorick)
 - [derekc2205](https://github.com/derekc2205)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
@@ -11158,7 +11159,7 @@ Anthony Stannard
 - [Nishtha Gurjar](https://github.com/Nishtha05)
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
-- [Andrew Gidney] (https://github.com/BlueLED) 
+- [Andrew Gidney] (https://github.com/BlueLED)
 - [sfratz] (https://github.com/sfratz)
 - [sbiesan] (https://github.com/sbiesan)
 - [Mohsin Ali] (http://github.com/mohsinalipro)
