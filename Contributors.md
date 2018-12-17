@@ -11109,6 +11109,7 @@ Anthony Stannard
 - [Julio Arboleda] (https://github.com/arboledasaa)
 - [Lalit Parate] (https://github.com/lalitparate)
 - [Vasyl Karpeniuk] (https://github.com/vkarpeniuk)
+- [Raymond Luong] (https://github.com/Raymond-Luong)
 - [Daniel du Preez](https://github.com/DanDuPreez)
 - [Rayen Manaa] (https://github.com/Mlewii)
 - [Erik Werner](https://github.com/SOFeeA)
