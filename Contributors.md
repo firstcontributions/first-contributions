@@ -1733,6 +1733,7 @@ Nguyen Khoa
 - [Prakher Prashank]()
 - nick spagnola
 - [Brian Lusina](https://github.com/BrianLusina)
+- [Tom Vaiarella] (https://github.com/thomas-vaiarella)
 - [Kartik Gupta](https://github.com/Z3N00)
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Finci](https://github.com//FIITAY)
