@@ -198,6 +198,7 @@
 - [Andrew Stanley] (https://github.com/andystanley)
 - [Joseph Gardin] (https://github.com/Josephasafg)
 - [Kazmuir Long]()
+- [Rafael Queiroz](https://github.com/rafael-mq)
 - [Swapnik Kota]
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
