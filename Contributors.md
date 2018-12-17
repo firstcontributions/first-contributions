@@ -80,6 +80,7 @@
 - [Jens Kristian Espevik](https://github.com/jkriesp)
 - [Shaun Mitchell] (https://github.com/ShaunMitchell98)
 - [Antoine Catt](https://github.com/antoinecatt)
+- [Sawyer Nye](https://github.com/sawyer-nye)
 - [Andre Brasil](https://github.com/oliva20)
 - [Mihai Botea](https://github.com/thortfultech/)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
