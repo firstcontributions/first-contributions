@@ -10897,6 +10897,7 @@ Anthony Stannard
 - [Ben Vargas](https://github.com/ben-var)
 - [Benjamin Alamu](https://github.com/BenjaminAlamu)
 - [amphy](https://github.com/amphy)
+- [Slobodan Spica](https://github.com/sspica)
 - [c2tarun](https://github.com/c2tarun)
 - [jay3315938](https://github.com/jay3315938/)
 - [Mmendero](https://github.com/Mmendero)
