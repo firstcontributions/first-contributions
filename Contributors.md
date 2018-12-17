@@ -10779,6 +10779,7 @@ Anthony Stannard
 - [Jack Chapman](https://github.com/jack-chapman)
 - [Dundis]()
 - [Atem]()
+- [Rishab Agarwala](https://github.com/raftar2097)
 - [Ahmed Chaari](https://github.com/Omnicouleur)
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
