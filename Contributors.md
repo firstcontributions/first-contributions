@@ -10004,6 +10004,7 @@ Anthony Stannard
 - [vinayatekale](https://github.com/vinayatekale)
 - [Maxim Baduk](https://github.com/mbaduk3)
 - [Kamal Aly Kamal](https://github.com/KamalAlyKamal)
+- [Furkan Alkan] (https://github.com/HighHopess)
 - [Osama Azmi](https://github.com/Samuelimza)
 - [Lineeyed](https://github.com/Lineeyed)
 - [Shubham Jain](https://github.com/jsjain007)
