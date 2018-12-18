@@ -138,6 +138,7 @@
 - [Pigeon Dev]
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
+- [Harshal Lele](https://github.com/harshlele)
 -POPAMAN
 -[Fabio Cardenas] (https://github.com/fcarden)
 -[Cedric David]
