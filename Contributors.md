@@ -11187,3 +11187,4 @@ Anthony Stannard
 - [Greg Zil](https://github.com/gregzil)
 - [Team 3573 - Wavelength] (https://github.com/team3572)
 - [Ashok Balasubramanian] (https://github.com/balasubramanian-ashok)
+- [Manuel Naranjo] (https://github.com/mnaranjoc)
