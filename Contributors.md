@@ -12,7 +12,7 @@
 - [Safura]
 - [Sunrafan]
 - [Nhampy]
-- [Aditya]
+- [AdityaB]
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
