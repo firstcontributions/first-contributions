@@ -19,6 +19,7 @@
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
+- [Adam Gibson](https://github.com/adamgibs)
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
 - [Stephen Stone](https://github.com/sstone2423)
