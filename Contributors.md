@@ -12,6 +12,7 @@
 - [Safura]
 - [Sunrafan]
 - [Nhampy]
+- [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
