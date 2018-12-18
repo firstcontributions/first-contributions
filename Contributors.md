@@ -3894,6 +3894,7 @@ Viraj Jiwane
 - [Suras Kumar Nayak](https://github.com/surasnayak)
 - [Anupam Kumar Singh](https://github.com/anupam691997)
 - [Reyes Cheng](https://github.com/machiko)
+- [Stan Koropchan](https://github.com/koropchan)
 - [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
 - [Edward Mooney](https://github.com/brnagn7)
