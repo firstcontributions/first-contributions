@@ -34,6 +34,7 @@
 - [Joseph Whyte](https://github.com/whytej2)
 - [Paul Yin](https://github.com/paulyin2001)
 - [rob]
+masterofmagic
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
@@ -5016,7 +5017,7 @@ Tanishq Gupta
 - [hosjiu](https://github.com/hosjiu1702)
 - [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
-- [Alexandre Lestruhaut] 
+- [Alexandre Lestruhaut]
 - [cacaorick](https://github.com/cacaorick)
 - [derekc2205](https://github.com/derekc2205)
 - [namanpreetsingh](https://github.com/namanpreetsingh)
@@ -11148,7 +11149,7 @@ Anthony Stannard
 - [Nishtha Gurjar](https://github.com/Nishtha05)
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
-- [Andrew Gidney] (https://github.com/BlueLED) 
+- [Andrew Gidney] (https://github.com/BlueLED)
 - [sfratz] (https://github.com/sfratz)
 - [Mohsin Ali] (http://github.com/mohsinalipro)
 - [SvanderWulp] (http://github.com/svanderwulp)
