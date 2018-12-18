@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
@@ -2005,6 +2005,7 @@ Nguyen Khoa
 - [August Boza](https://github.com/abozadev)
 - [Godwin Ogbonnaya Jnr](https://github.com/dwinjnr)
 - [Kevin Ost](https://github.com/kowder)
+- [Frank Kou](https://github.com/k77frank)
 - [Ben Lee](https://github.com/prizef)
 - [Amir Rauf](https://github.com/Amirrauf40)
 - [Tarun Apppannagari](https://github.com/TarunApp)
