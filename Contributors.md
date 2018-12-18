@@ -128,6 +128,7 @@
 - [Eric Brown](https://github.com/Aeluwin)
 - [Hoederer] (https://github.com/jalexp)
 - [Erik Harte](https://github.com/hartee)
+- [mikmik]
 - [faveja](https://github.com/faveja)
 - [Mitchell Weber](https://github.com/mitchellweber7)
 - [Arslan Raza](https://github.com/arslanraza)
