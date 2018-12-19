@@ -19,6 +19,7 @@
 - [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
+- [pTandy](https://github.com/petertandy)
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
@@ -5764,7 +5765,7 @@ Tanishq Gupta
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Stephanie Leazer](https://github.com/saleazer)
-- [Arica Chakraborty](https://github.com/uemarica)
+v- [Arica Chakraborty](https://github.com/uemarica)
 - [Joshua Moffett](https://github.com/Wingnod)
 - [Michel Michels](https://github.com/MichelMichels)
 - [Miguel Meza](https://github.com/peyuking09)
