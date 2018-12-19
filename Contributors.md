@@ -13,6 +13,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [prateeksawhney97] (https://github.com/prateeksawhney97)
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
