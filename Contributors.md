@@ -19,7 +19,7 @@
 - [kdg](https://github.com/dgkk)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
-- [pTandy](https://github.com/petertandy)
+- [ptandy](https://github.com/petertandy)
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
