@@ -3,6 +3,7 @@
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [Nicholas Adamson](https://github.com/nja12)
+- [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [rodegrafika] (https://github.com/Rodegrafika)
 - [rana5ohaib] (https://github.com/rana5ohaib)
 - [anujsinghwd] (https://github.com/anujsinghwd)
