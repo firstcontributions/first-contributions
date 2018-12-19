@@ -1,4 +1,5 @@
 # Contributors
+- [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
