@@ -455,6 +455,7 @@
 - [Utkarsh](https://github.com/ukbaranwal)
 - [Dimitri McDaniel](https://github.com/ibmiti)
 - [Ronish Zadode](https://github.com/ronishz)
+- [Surya Verma](https://github.com/surya10197)
 - [Saharsh Jain](https://github.com/SAHARSH123)
 - BbyPls
 - [Kush Parmar](https://github.com/igneel73)
