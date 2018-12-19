@@ -221,6 +221,7 @@
 - ausoro
 - [Bhuyan]
 - [Apelsimon]
+- [CGibsonmm](https://github.com/CGibsonmm)
 - [Matej Turay](https://github.com/MatejTuray)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
