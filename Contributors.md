@@ -11239,3 +11239,4 @@ Anthony Stannard
 - [Ranjeet kumar] (https://github.com/ranjeet44)
 - [Maraket] (https://github.com/Maraket)
 - [Filipe Pinato] (https://github.com/tiofih)
+- [Steve Hardy] (https://github.com/Govanator12)
