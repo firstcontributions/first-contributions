@@ -10824,6 +10824,7 @@ Anthony Stannard
 - [Alesandro Fidelis](https://github.com/AlesandroF)
 - [Daniel Murcia ](https://github.com/fermanlive)
 - [Akshama](https://github.com/Akshama)
+- Vineet Dubey
 - [nish-nm](https://github.com/nish-nm)
 - [Jakob](https://github.com/J4K0B)
 - [kbussert](https://github.com/kbussert)
