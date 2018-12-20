@@ -9895,6 +9895,7 @@ Anthony Stannard
 - [Christopher Shockley](https://github.com/cishocksr)
 - [Krishan Kant](https://github.com/krishan-kant)
 - [Guy Khmelnitsky](https://github.com/guykh)
+- [Carlos Castro](https://github.com/davixyz)
 - [Ali Nisar Ahmed](https://github.com/AliNisarAhmed)
 - [Light Yagami](https://github.com/lighyagami1337)
 - [Alexander Mykolaychuk](https://github.com/roya3000)
