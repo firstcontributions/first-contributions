@@ -16,6 +16,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Marco Martinez](https://github.com/MartyMav)
 - [prateeksawhney97] (https://github.com/prateeksawhney97)
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
