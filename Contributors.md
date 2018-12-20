@@ -11241,3 +11241,4 @@ Anthony Stannard
 - [Maraket] (https://github.com/Maraket)
 - [Filipe Pinato] (https://github.com/tiofih)
 - [Steve Hardy] (https://github.com/Govanator12)
+- [Robert Scales] (https://github.com/rscales02)
