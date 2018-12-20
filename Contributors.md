@@ -2365,6 +2365,7 @@ Nguyen Khoa
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Sahaj Kulshrestha](https://github.com/Sahaj21)
+- [Akshay Krishna Upendran](https://github.com/mmikaeleriksson)
 - Dhanish Ashraf
 - [Courtney Arnold]
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
