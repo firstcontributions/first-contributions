@@ -2,6 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # <div dir="rtl">مساهمتك الأولى</div>
@@ -19,9 +21,6 @@
 قراءة ومشاهدة التعليمات المتوفرة على الإنترنت ستساعدك حتماً، لكنك ستستفيد أكثر إذا استطعت المساهمة في مشروع دون الخوف من الوقوع في الخطأ. هذا المشروع يركز على توفير التوجيهات والتعليمات البدائية لإتمام أول مساهمة لك.
 تذكر أن الخطأ متوقع والهدف أن تتجاوز الخطأ في هذه البيئة، نريد منك أن تكون مسترخيا ومتابعا الخطوات المتوفرة لإتمام مشاركتك الأولى. نعدك ستستمع بذلك.
 </div>
-
-
-*Read this in other languages: [English](../README.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [Italian](README.it.md), [Persian](README.fa.md).*
 
 
 <div dir="rtl">
@@ -183,6 +182,6 @@ git push origin master
 
 ## <div dir="rtl">ماذا أفعل بعد هذا؟</div>
 
-<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://firstcontributions.herokuapp.com">انضم إلى فريق Slack</a></div>
+<div dir="rtl">يمكنك الانضمام إلى الفريق على Slack إذا أردت أي مساعدة ولديك أي سؤال. <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">انضم إلى فريق Slack</a></div>
 
 <br>

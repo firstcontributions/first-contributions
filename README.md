@@ -43,6 +43,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
 [🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
@@ -53,7 +54,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
-
+[vn](translations/README.vn.md)
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
@@ -62,14 +63,14 @@ If you don't have git on your machine, [install it]( https://help.github.com/art
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
 
@@ -150,11 +151,11 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
 You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
