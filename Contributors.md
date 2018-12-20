@@ -1,8 +1,6 @@
 ﻿# Contributors
-- 
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
-- [nguyenhungsync](https://github.com/nguyenhungsync)
 - [Ashu](https://github.com/ashu1999)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
@@ -781,6 +779,7 @@
 - [Crashn](https://github.com/Crashn)
 - [LRedriver](https://github.com/LRedriver)
 - [Brett Henry](https://github.com/ntacp)
+- [nguyenhungsync](https://github.com/nguyenhungsync)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
 - [Brian W](https://github.com/B-Weyl)
