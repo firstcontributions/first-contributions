@@ -25,6 +25,7 @@
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
+- [William Lee ](https://github.com/willlee17)
 - [Adam Gibson](https://github.com/adamgibs)
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
