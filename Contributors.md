@@ -7713,6 +7713,7 @@ Orandi Harris
 - [Jaicke Santos](https://github.com/Jaicke)
 - [benzammour](https://github.com/benzammour)
 - [Shakib Ahmed](https://github.com/shakib1729)
+- [Leoberto Preuss Junior](https://github.com/leoberto)
 - [Shubham Patil](https://github.com/shubham76)
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
@@ -8049,4 +8050,3 @@ Orandi Harris
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
-- [Leoberto Preuss Junior] (https://github.com/leoberto)
