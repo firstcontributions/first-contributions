@@ -175,6 +175,7 @@
 - [Anshul Vyas](https://github.com/anshvyas)
 - [Dalin Kim] (https://github.com/dalinkim)
 - [almyk](https://github.com/almyk)
+- [Alin Pisica](https://github.com/alinp25)
 - [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
 - [Gabriel Farias Caccaos](https://github.com/gcaccaos)
