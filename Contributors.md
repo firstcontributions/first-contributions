@@ -173,6 +173,7 @@
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
 - [Anshul Vyas](https://github.com/anshvyas)
+- [Ville Pajala](https://github.com/ovipa017-xamk)
 - [Dalin Kim] (https://github.com/dalinkim)
 - [almyk](https://github.com/almyk)
 - [Alin Pisica](https://github.com/alinp25)
