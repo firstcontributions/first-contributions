@@ -1869,6 +1869,7 @@ Nguyen Khoa
 - [Thein Oo](https://github.com/thoo)
 - [Super Man]()
 - [Kyle Tozer](https://github.com/kyletozer)
+- [Victor Jo](https://github.com/JOMADI)
 - [Yash Bhardwaj](https://github.com/Bhardwajy795)
 - [Harshit Bhalla](https://github.com/harshitsan)
 - [Sindhiya Arya](https://github.com/aryasin)
