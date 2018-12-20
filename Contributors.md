@@ -2434,6 +2434,7 @@ Nguyen Khoa
 - [Crashn](https://github.com/Crashn)
 - [LRedriver](https://github.com/LRedriver)
 - [Brett Henry](https://github.com/ntacp)
+- [nguyenhungsync](https://github.com/nguyenhungsync)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
 - [Brian W](https://github.com/B-Weyl)
