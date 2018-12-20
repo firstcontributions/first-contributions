@@ -159,6 +159,7 @@
 -[Max Pershin](https://github.com/MaxPershin)
 - [Yulia Zileeva](https://github.com/zileeva)
 - [Cleo Aguiar](https://github.com/CleoAguiar)
+- [Robert Poziumschi](https://github.com/robertmihai26)
 - [It's Me](https://github.com/)
 - [Jacob Sowles](https://github.com/jacobsowles)
 - [Jonathan Le Moal](https://github.com/jonathan-le-moal/)
