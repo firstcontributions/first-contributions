@@ -273,6 +273,7 @@
 - [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
 - [Eddie Dong](https://github.com/Eddienewpath)
+- [Neke Kala](https://github.com/nekekala)
 - [Tyrant Davis](https://github.com/tyrantdavis)
 - [Shubham Patraf](https://github.com/Shubham189)
 - [Ben Trono](https://github.com/BT-VT)
