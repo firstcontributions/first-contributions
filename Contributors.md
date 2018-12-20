@@ -1653,6 +1653,7 @@ Nguyen Khoa
 - [Gaurav Kukade](https://github.com/gauravkukade)
 - [Emma Margeson](https://github.com/mawarijo)
 - [Mayank Arora](https://github.com/hotshot07)
+- [Pawel Walinowicz](https://github.com/pwalinowicz)
 - [Howie Andersen](https://github.com/howieandersen)
 - [Arav Dave](https://github.com/aravdave)
 - [Kim](https://github.com/kimmeccsb)
