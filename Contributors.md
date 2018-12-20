@@ -107,7 +107,7 @@
 - [Sarah Phillips](https://github.com/snphillips)
 - [Luc Berger](https://github.com/TheLuckyLuc)
 - [Sharad Mathur](https://github.com/srdmathur)
-- [Jack Lyons](https://github.com/JackEdwardLyondhttps://github.com/Harshdeep4295/first-contributions.git)
+- [Jack Lyons](https://github.com/JackEdwardLyond)
 - [Sina Saeedi](https://github.com/sina33)
 - [Erich O] (https://github.com/eohlde)
 - [base79](https://github.com/base79)
@@ -232,7 +232,7 @@
 - [Nidhi Patil](https://github.com/nidhirpatil)
 - [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
-- [Daniela Llivina](https://github.com/daniela-llivina)https://github.com/Harshdeep4295/first-contributions.git
+- [Daniela Llivina](https://github.com/daniela-llivina)
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
 - [Amit Levy] (https://github.com/AmitPLevy)
