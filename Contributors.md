@@ -7716,6 +7716,7 @@ Orandi Harris
 - [Maria Rayana](https://github.com/mrayana)
 - [CarlosRGL](https://github.com/CarlosRGL)
 - [jwon114](https://github.com/jwon114)
+- [Josefin](https://github.com/josefin4)
 - [Nicole Moore](https://github.com/Angelfirenze01)
 - [Ryan Doyle](https://github.com/ryanmdoyle)
 - [Sevenjidan](https://github.com/sevenjidan)
@@ -8036,4 +8037,3 @@ Orandi Harris
 - [Simrann Arora](https://github.com/simrann20)
 - [Kumar Vipin Yadav](https://github.com/vipin3699)
 - [Anaïs Rolin](https://github.com/Nanasse)
-- [Josefin](https://github.com/josefin4)
