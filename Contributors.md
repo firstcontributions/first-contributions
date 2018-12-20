@@ -676,6 +676,7 @@ Nguyen Khoa
 - [TrishaAguinaldo](https://github.com/kronicle114)'
 - [Adrian]
 - [cawash91](https://github.com/cawash91)
+- [BrotherRufus]
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
 - [Anton Ajit](https://github.com/ntn888)
 - [Aecio] (https://github.com/aeciorc/)
