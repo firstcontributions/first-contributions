@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
@@ -450,6 +450,7 @@
 - Darion Toney
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [rahul kukreja]
+- [Josika Kar]
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
