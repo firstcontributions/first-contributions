@@ -10297,6 +10297,7 @@ Anthony Stannard
 - [Rajitha Gunathilake](https://github.com/RizkyRajitha)
 - [Padniuk Evgeny](https://github.com/muspelheim)
 - [Yasir Abdurrohman](https://github.com/yasirabd)
+- [Ali Qornan](https://github.com/qornanali)
 - [Sinitax](https://github.com/sinitax)
 - [Daniel](https://github.com/daordonez11)
 - [Ritika Kumari](https://github.com/riti1302)
