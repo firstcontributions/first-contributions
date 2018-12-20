@@ -10572,6 +10572,7 @@
 - [Edmond de Tournadre](https://github.com/Djohn12)
 - [Marion Zrch](https://github.com/marion1998)
 - [Carlo Carlo Lizano](https://github.com/clizano)
+- [G Karthik Raja]((https://github.com/g-kartik/)
 - [w1ldzer0](https://github.com/WildZero)
 - [Any Ruiz](https://github.com/anyruizd)
 - [Nadheera](https://github.com/Nadheera)
@@ -10860,4 +10861,3 @@
 - [Jordan Kolbaba](https://github.com/kolbaba)
 - [Marco Rehmer](https://github.com/Surras/)
 - [Eddie Weber](https://github.com/WinJewel/)
-- [G Karthik Raja]((https://github.com/g-kartik/)
