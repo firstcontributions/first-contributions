@@ -105,6 +105,7 @@
 - [Nicolas](https://github.com/nicolasvallee)
 - Saurabh Raj
 - [Michael Thariath](https://github.com/mthariath)
+- [Neke Kala](https://github.com/nekekala)
 - [Giorgos Topalidis](https://github.com/TopFlankerKiller)
 - [Young Lu](https://github.com/young-lu)
 - [Amal Thelly](https://github.com/amalthelly)
