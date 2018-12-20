@@ -370,6 +370,7 @@
 - [Raymond To](https://github.com/rayto510)
 - [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
+- [Shunichi Kanade](https://github.com/skanade)
 - [Mikhaelle Bueno](https://github.com/Mikhaelle)
 - [Ajmal Hassan](https://github.com/ajmalhassan)
 - [James Rose](http://github.com/james-rose)
