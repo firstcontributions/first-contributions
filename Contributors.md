@@ -10582,6 +10582,7 @@
 - [Alesandro Fidelis](https://github.com/AlesandroF)
 - [Daniel Murcia ](https://github.com/fermanlive)
 - [Akshama](https://github.com/Akshama)
+- Vineet Dubey
 - [Jakob](https://github.com/J4K0B)
 - [kbussert](https://github.com/kbussert)
 - [Toshiki](https://github.com/toshikiohnogi)
@@ -10909,5 +10910,4 @@
 - [Toni Oshikanlu](https://github.com/tonioshikanlu/)
 - [Khiarov](https://github.com/khiarov/)
 - [tullur](https://github.com/tullur)
-- [Vineet Dubey]
 -[showstiller](https://github.com/showstiller)
