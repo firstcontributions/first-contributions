@@ -18,6 +18,7 @@
 - [Nhampy]
 - [AdityaB]
 - [Marco Martinez](https://github.com/MartyMav)
+- [Roshan Adhikari](https://github.com/nahsorad)
 - [prateeksawhney97] (https://github.com/prateeksawhney97)
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
