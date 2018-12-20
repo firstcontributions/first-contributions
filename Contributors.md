@@ -10829,6 +10829,7 @@ Anthony Stannard
 - [Jakob](https://github.com/J4K0B)
 - [kbussert](https://github.com/kbussert)
 - [Toshiki](https://github.com/toshikiohnogi)
+- [linuxsmurfen](http://github.comm/linuxsmurfen)
 - [Amornthep.Th](https://github.com/bkkkjst)
 - [PDVega](https://github.com/PDVega/)
 - [Haim Brum](https://github.com/haimbrum)
