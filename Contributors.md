@@ -455,6 +455,7 @@
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [Harshdeep Singh] (http://github.com/Harshdeeps4295)
 - [rahul kukreja]
+- [Josika Kar]
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
