@@ -12,6 +12,7 @@
 - [harold0416] (https://github.com/harold0416)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Safura]
+- [mattv611]
 - [Triinu]
 - [Sunrafan]
 - [Nhampy]
