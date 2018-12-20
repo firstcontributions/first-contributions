@@ -9921,6 +9921,7 @@ Anthony Stannard
 - [Jaicke Santos](https://github.com/Jaicke)
 - [benzammour](https://github.com/benzammour)
 - [Shakib Ahmed](https://github.com/shakib1729)
+- [Leoberto Preuss Junior](https://github.com/leoberto)
 - [Shubham Patil](https://github.com/shubham76)
 - [Matt DuLeone](https://github.com/mduleone)
 - [Edwin Lara](https://github.com/EduLara97)
