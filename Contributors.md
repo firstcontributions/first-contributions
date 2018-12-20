@@ -956,6 +956,7 @@ Nguyen Khoa
 - [Natalia Gutierrez](https://github.com/ngutierrez31)
 - [Dheyay Desai](https://github.com/ddcr7)
 - aalbusoiu
+- [Adam](https://github.com/luczak-a)
 - [Mario Jones Vimal](https://github.com/JMJV)
 - [saman K.](https://github.com/sndruek)
 - [Sandalu](https://github.com/sandalu)
