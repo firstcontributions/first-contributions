@@ -2341,6 +2341,7 @@ Nguyen Khoa
 - [Deepak Jain](https://github.com/djain5888)
 - [Mohammad Anas](https://github.com/zns-20)
 - [Sarah D. Perea](https://github.com/sarahperea)
+- [Kevin Vaughan](https://github.com/kzzt)
 - [Varun](https://github.com/2000Varun)
 - [Devin Henslee](https://github.com/DCHenslee)
 - [Grant Hihn](https://github.com/nordiCode)
