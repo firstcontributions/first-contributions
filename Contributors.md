@@ -296,6 +296,7 @@
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Dinesh Vijayakumar](https://github.com/busybee1149)
 - [Carl Balmer](https://github.com/carlbalmer)
+- [Mozammil Khodabacchas](https://github.com/mozammil)
 - [constant1nos](https://github.com/constant1nos)
 - [Christopher Spankroy](https://github.com/chrisspankroy)
 - [luciade](https://github.com/luciade)
