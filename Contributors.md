@@ -11201,6 +11201,7 @@ Anthony Stannard
 - [Pranoy Tez](https://github.com/pranoytez)
 - [Francis Coteur] (https://github.com/fcoteur/)
 - [Michal Klinovsky](https://github.com/mklinovsky)
+- [Manasa Harish] (https://github.com/manasaharish24)
 - [Benjamin Sullivan](https://github.com/Goto15)
 - [Tony Pettigrew](https://github.com/neverender4)
 - [Juxley] (https://github.com/juxley)
@@ -11244,3 +11245,4 @@ Anthony Stannard
 - [Filipe Pinato] (https://github.com/tiofih)
 - [Steve Hardy] (https://github.com/Govanator12)
 - [Carnival Wilson] (https://github.com/TiKebek)
+
