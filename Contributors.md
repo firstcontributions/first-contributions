@@ -8674,6 +8674,7 @@ Mayank Bansal
 - [Tonida Baraza](https://github.com/tbaraza)
 - [Sachin](https://github.com/SachinAilwar)
 - [Skorpio](https://github.com/rajalakshmi-v15)
+- [Mohamed Anwar](https://github.com/anwarm607)
 - [Hector Diaz](https://github.com/hedico)
 - [Bence](https://github.com/vrjolke)
 - [Rafi Ravid](https://github.com/rravid)
