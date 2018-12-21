@@ -10967,6 +10967,7 @@ Anthony Stannard
 - [rspdev](https://github.com/rspdev)
 - [Safwan](https://github.com/safwankdb)
 - [bpierce1111](https://github.com/bpierce1111)
+- [Robert Scales](https://github.com/rscales02)
 - [Naren](https://github.com/narensh)
 - [Brandon Doyle](https://github.com/bjd2385)
 - [Michael Matherson](https://github.com/michaelmatherson)
