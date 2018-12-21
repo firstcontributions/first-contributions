@@ -46,6 +46,7 @@
 - [Farhan Ahmed](https://github.com/azzassfa)
 - [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
+- [Huatuostudio](https://github.com/huatuostudio/)
 - [Mark Evans](https://github.com/markopotamus)
 - [Arlind Xhakoli](https://github.com/ArlindXh)
 - [Doug Ward](https://github.com/DouglasCWard)
