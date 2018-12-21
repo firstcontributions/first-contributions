@@ -9325,6 +9325,7 @@ Mayank Bansal
 - [spooti](https://github.com/spooti)
 - [David Harris](https://github.com/dahveed15)
 - [Bryan Boubion](https://github.com/bjboubion)
+Bryan Romero
 - [Raufoon](https://github.com/Raufoon)
 - [shubham715](https://github.com/shubham715)
 - [Manish](https://github.com/dakait)
