@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
@@ -11253,3 +11253,4 @@ Anthony Stannard
 - [Filipe Pinato] (https://github.com/tiofih)
 - [Steve Hardy] (https://github.com/Govanator12)
 - [Carnival Wilson] (https://github.com/TiKebek)
+- [Eric Hansen] (https://github.com/ehansen247)
