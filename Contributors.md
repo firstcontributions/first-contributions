@@ -1443,7 +1443,6 @@ Nguyen Khoa
 - [Anshu Kumar](https://github.com/Anshuvats)
 - [MoMoParadox](https://github.com/MoMoparadox)
 - [Luis Palomino Trevilla](https://github.com/LuisPalominoTrevilla)
--
 - [Rahul Kumar](https://github.com/rik-96)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
