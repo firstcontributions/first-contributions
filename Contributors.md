@@ -5352,6 +5352,7 @@ Tanishq Gupta
 - [Kai Chen](https://github.com/KaiUsesThis)
 - [Canyon Schwartz](https://github.com/OneEcho)
 - [Samuel Lando](https://github.com/samuellando)
+- [Commodoreprime](https://github.com/commodoreprime)
 - [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
 - [Kamil Pszczółkowski](https://github.com/kamilpszczolkowski)
 - [Ant?nio Almeida](https://github.com/antonioalmeida)
