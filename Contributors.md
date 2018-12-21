@@ -34,6 +34,7 @@
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
 - [Stephen Stone](https://github.com/sstone2423)
+- [Muhammed Sami](https://github.com/MuhammedSami)
 - [Elin Fritiofsson] (https://github.com/eli6)
 - [Debjyoti Biswas] (https://github.com/lladhibhutall)
 - [Tyler Elliott] (https://github.com/TDSElliott)
