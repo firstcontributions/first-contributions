@@ -18,6 +18,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Sid K]
 - [Lucio Camargo](https://github.com/luciomcamargo)
 - [Marco Martinez](https://github.com/MartyMav)
 - [Roshan Adhikari](https://github.com/nahsorad)
