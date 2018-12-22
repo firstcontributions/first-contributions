@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
@@ -14,6 +14,7 @@
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [Ivan Šostarec](https://github.com/isostarec)
+- [Dreyah](https://github.com/dreyahcodes)
 - [Safura]
 - [mattv611]
 - [Triinu]
