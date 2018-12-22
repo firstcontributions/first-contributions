@@ -12,6 +12,7 @@
 - [harold0416] (https://github.com/harold0416)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
+- [Manthan Admane](https://github.com/MisterAwesome23)
 - [Safura]
 - [mattv611]
 - [Triinu]
