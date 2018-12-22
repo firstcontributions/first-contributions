@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
@@ -6416,6 +6416,7 @@ Rohan Das
 - [Vadim Pochivalin](https://github.com/vakhet)
 - [SergiyGolov](https://github.com/SergiyGolov)
 - [teuzi](https://github.com/teuzi)
+- [Stephen Creel](https://github.com/stephencreel)
 - [Jason Dailey](https://github.com/jpdail01)
 - [Nicola Carpene](https://github.com/zeronicola3)
 - [Rahul Kumar](https://github.com/rkredux)
