@@ -13,6 +13,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
+- [Ivan Šostarec](https://github.com/isostarec)
 - [Safura]
 - [mattv611]
 - [Triinu]
