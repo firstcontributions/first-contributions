@@ -64,6 +64,7 @@
 - [Tom Settle](https://github.com/tsettle44)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
+- [Armando Alvear](https://github.com/ArmandoAlvear23/)
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
