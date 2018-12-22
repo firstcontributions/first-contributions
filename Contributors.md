@@ -11264,4 +11264,5 @@ Anthony Stannard
 - [Carnival Wilson] (https://github.com/TiKebek)
 - [Eric Hansen] (https://github.com/ehansen247)
 - [James Au] (https://github.com/jamesaucode)
+- [Tulsi Jain] (https://github.com/tulsiksng)
 - [Cassandra Lee] (https://github.com/yieng)
