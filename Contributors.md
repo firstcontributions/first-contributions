@@ -33,6 +33,7 @@
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [ptandy](https://github.com/petertandy)
+- [Moti Gadian](https://github.com/motkeg)
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
