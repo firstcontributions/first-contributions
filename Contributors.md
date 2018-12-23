@@ -6,6 +6,7 @@
 - [Nicholas Adamson](https://github.com/nja12)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [rodegrafika] (https://github.com/Rodegrafika)
+- [daniel9a] (https://github.com/daniel9a)
 - [rana5ohaib] (https://github.com/rana5ohaib)
 - [anujsinghwd] (https://github.com/anujsinghwd)
 - [DCH-CH] (https://github.com/DCH-CH)
