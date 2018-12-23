@@ -10877,6 +10877,7 @@ Anthony Stannard
 - [Dharmang Andhariya](https://github.com/dharmang)
 - [Ben Curran](https://github.com/cuzza0)
 - [Emma Campbell](https://github.com/butterchaos)
+- [Scott Wilson](https://github.com/scottjwilson)
 - [Groutch](https://github.com/groutch)
 - [Billy Tan](https://github.com/cieltan)
 - [ROGER simon](https://github.com/51m0n2063r)
