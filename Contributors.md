@@ -15,6 +15,7 @@
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [Ivan Šostarec](https://github.com/isostarec)
 - [Dreyah](https://github.com/dreyahcodes)
+- [hh534]
 - [Safura]
 - [mattv611]
 - [Triinu]
