@@ -69,6 +69,7 @@
 - [Zuzana Svabova] (https://github.com/harveler/)
 - [Callan Hoskins] (https://github.com/callanhoskins)
 - [rob]
+- [chaynes]
 - [Shrey Sahai]
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [Ilias Ibrahim](https://github.com/iliasi)
