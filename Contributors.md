@@ -24,6 +24,7 @@
 - [Nhampy]
 - [AdityaB]
 - [Sid K]
+- [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
 - [Lucio Camargo](https://github.com/luciomcamargo)
 - [Marco Martinez](https://github.com/MartyMav)
 - [Roshan Adhikari](https://github.com/nahsorad)
