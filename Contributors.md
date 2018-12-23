@@ -11272,4 +11272,5 @@ Anthony Stannard
 - [Eric Hansen] (https://github.com/ehansen247)
 - [James Au] (https://github.com/jamesaucode)
 - [Tulsi Jain] (https://github.com/tulsiksng)
+- [Brandon Allen] (https://github.com/eldon2)
 - [Cassandra Lee] (https://github.com/yieng)
