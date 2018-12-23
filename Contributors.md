@@ -39,6 +39,7 @@
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
 - [William Lee ](https://github.com/willlee17)
+- [Naor Shlomo Tedgi](https://github.com/Naor-Tedgi)
 - [Adam Gibson](https://github.com/adamgibs)
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
