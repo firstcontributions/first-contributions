@@ -648,6 +648,7 @@
 - [Jing Heng](https://github.com/limjh16)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Julian](https://github.com/julian1)
+- [Haelmorn](https://github.com/Haelmorn)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
 - [Kushagra Gulati](https://github.com/kush1106)
 - Rich Herbert
