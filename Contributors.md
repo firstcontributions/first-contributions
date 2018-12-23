@@ -66,6 +66,7 @@
 - [Paul Yin](https://github.com/paulyin2001)
 - [Callan Hoskins] (https://github.com/callanhoskins)
 - [rob]
+- [Shrey Sahai]
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
