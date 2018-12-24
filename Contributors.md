@@ -298,6 +298,7 @@
 - [Alex Moran]()
 - [Thibault Devienne]()
 - [Dimitri]()
+- Swapnil Kha
 - Fernando Gomez
 - [Binoy Udayan](https://github.com/binoyudayan)
 - [Justin Jones] (https://github.com/jjones1983)
