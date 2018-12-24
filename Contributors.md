@@ -11290,3 +11290,4 @@ Anthony Stannard
 - [Tulsi Jain] (https://github.com/tulsiksng)
 - [Brandon Allen] (https://github.com/eldon2)
 - [Cassandra Lee] (https://github.com/yieng)
+- [Jordi Hoven] (https://github.com/Jordakoes)
