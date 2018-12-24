@@ -3155,6 +3155,7 @@ Nguyen Khoa
 - [Pawan Kumar](https://github.com/Pawank221)
 - [Wendy Wang](https://github.com/wenddyywang)
 - [Isabelle Xu](https://github.com/xuyumi)
+- [Brianna Schmidt](https://github.com/brianna-a-schmidt)
 - [Antônio Santos](https://github.com/Bonesetter)
 - [Mushtaq SMB](https://github.com/mushtaq96)
 - [sahushivam](https://github.com/sahushivam)
