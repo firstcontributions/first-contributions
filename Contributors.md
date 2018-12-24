@@ -11294,3 +11294,4 @@ Anthony Stannard
 - [Brandon Allen] (https://github.com/eldon2)
 - [Cassandra Lee] (https://github.com/yieng)
 - [Jordi Hoven] (https://github.com/Jordakoes)
+- [Nikhil Arya](https://github.com/nikhilaryann)
