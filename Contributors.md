@@ -27,6 +27,7 @@
 - [Nhampy]
 - [AdityaB]
 - [Sid K]
+- [ryandas]
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
 - [Lucio Camargo](https://github.com/luciomcamargo)
 - [Marco Martinez](https://github.com/MartyMav)
