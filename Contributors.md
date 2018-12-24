@@ -5531,6 +5531,7 @@ Tanishq Gupta
 - [F?lix Alejandro Guzm?n](https://github.com/felixalguzman)
 - [osolarik](https://github.com/osolarik)
 - [ShubhiL](https://github.com/ShubhiL)
+- [jcook2303](https://github.com/jcook2303)
 - [Amit](https://github.com/amit9651)
 - [Chris Stephenson](https://github.com/clstephenson)
 - [Subham Kumar Soni](https://github.com/sks4903440)
