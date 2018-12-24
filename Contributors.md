@@ -5173,6 +5173,7 @@ Tanishq Gupta
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
 - [Aaron Jen](https://github.com/bugarma)
 - [Chang Shu-huai](https://github.com/junsuwhy)
+- [Lorenz Bayr](https://github.com/lorenzbayr)
 - [Louie Aroy](https://github.com/kosenshou)
 - [Jeswin Thomas](https://github.com/Jeswin01)
 - [Adi Darmawan](https://github.com/adisiji)
