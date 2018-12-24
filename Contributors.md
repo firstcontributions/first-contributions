@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
+- [Matthew Proudman](https://github.com/MechaCoder)
 - [Saad](https://github.com/voldemoriarty)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
