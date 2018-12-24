@@ -36,6 +36,7 @@
 - [prateeksawhney97] (https://github.com/prateeksawhney97)
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
+- [Brandon Hall] (https://github.com/bthall16)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [ptandy](https://github.com/petertandy)
