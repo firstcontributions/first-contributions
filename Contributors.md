@@ -26,6 +26,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Ritwik M]
 - [Sid K]
 - [ryandas]
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
