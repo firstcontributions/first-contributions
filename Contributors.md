@@ -11261,6 +11261,7 @@ Anthony Stannard
 - [Nishtha Gurjar](https://github.com/Nishtha05)
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
+- [Chris Fauteux] (https://github.com/cfau214)
 - [Andrew Gidney] (https://github.com/BlueLED)
 - [sfratz] (https://github.com/sfratz)
 - [sbiesan] (https://github.com/sbiesan)
