@@ -11302,4 +11302,4 @@ Anthony Stannard
 - [Jordi Hoven] (https://github.com/Jordakoes)
 - [Puneeth PS] (https://github.com/puneethps)
 - [Shubham Atlani] (https://github.com/shubhamatlani)
-- [Nikhil Arya](https://github.com/nikhilaryann)
+- [Nikhil Arya] (https://github.com/nikhilaryann)
