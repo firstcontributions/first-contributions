@@ -8254,6 +8254,7 @@ Mayank Bansal
 - [Kyle Askine](https://github.com/kaskine)
 - [Xander Madsen](https://github.com/vasedgod)
 - [Antoine Rolland](https://github.com/tonio6071)
+- [RajaSekar V](https://github.com/rajasekarv)
 - [Katrina Mosimann](https://github.com/kmosimann)
 - [bulnak](https://github.com/bulnak)
 - [Devesh Kaushik](https://github.com/deveshkau)
