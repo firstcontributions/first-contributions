@@ -7,6 +7,7 @@
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [Nicholas Adamson](https://github.com/nja12)
+- [Satvik Dev] (https://github.com/kivtas)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [rodegrafika] (https://github.com/Rodegrafika)
 - [daniel9a] (https://github.com/daniel9a)
