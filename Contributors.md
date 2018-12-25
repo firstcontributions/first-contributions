@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Matthew Proudman](https://github.com/MechaCoder)
@@ -26,6 +27,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Ritwik M]
 - [Sid K]
 - [ryandas]
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
@@ -36,6 +38,7 @@
 - [prateeksawhney97] (https://github.com/prateeksawhney97)
 - [Rachel] (https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
+- [Brandon Hall](https://github.com/bthall16)
 - [bryandms](https://github.com/bryandms)
 - [Itamar Givon](https://github.com/xumium)
 - [ptandy](https://github.com/petertandy)
@@ -2291,6 +2294,7 @@ Nguyen Khoa
 - [Mohit Yadav](https://github.com/mohityadav7)
 - [Kuman Vaghasiya]()
 - [Myles Brown](https://github.com/Myles2)
+- [Luo Jian](https://github.com/JamieLuo)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Julia Boschan](https://github.com/bjuli)
 - [Sagar Suri](https://github.com/surisagar900)
@@ -10314,6 +10318,7 @@ Anthony Stannard
 - [Vlad Pavlov](https://github.com/h0axbu5ter)
 - [Mohammed Abul Shoeb](https://github.com/alshoeb)
 - [Kolomu](https://github.com/kolomu)
+- [Jatin Sharma]
 - [Ashish Yadav](https://github.com/ashishyadav400)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
 - [sanspace](https://github.com/sanspace)
@@ -11259,6 +11264,7 @@ Anthony Stannard
 - [Nishtha Gurjar](https://github.com/Nishtha05)
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
+- [Chris Fauteux] (https://github.com/cfau214)
 - [Andrew Gidney] (https://github.com/BlueLED)
 - [sfratz] (https://github.com/sfratz)
 - [sbiesan] (https://github.com/sbiesan)
@@ -11294,4 +11300,9 @@ Anthony Stannard
 - [Brandon Allen] (https://github.com/eldon2)
 - [Cassandra Lee] (https://github.com/yieng)
 - [Jordi Hoven] (https://github.com/Jordakoes)
+<<<<<<< HEAD
 - [Nikhil Arya](https://github.com/nikhilaryann )
+=======
+-[Puneeth PS] (https://github.com/puneethps)
+- [Shubham Atlani] (https://github.com/shubhamatlani)
+>>>>>>> master
