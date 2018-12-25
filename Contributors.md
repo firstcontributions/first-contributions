@@ -2292,6 +2292,7 @@ Nguyen Khoa
 - [Mohit Yadav](https://github.com/mohityadav7)
 - [Kuman Vaghasiya]()
 - [Myles Brown](https://github.com/Myles2)
+- [Luo Jian](https://github.com/JamieLuo)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
 - [Julia Boschan](https://github.com/bjuli)
 - [Sagar Suri](https://github.com/surisagar900)
