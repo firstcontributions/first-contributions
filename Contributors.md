@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Matthew Proudman](https://github.com/MechaCoder)
@@ -6,6 +7,7 @@
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [Nicholas Adamson](https://github.com/nja12)
+- [Satvik Dev] (https://github.com/kivtas)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [rodegrafika] (https://github.com/Rodegrafika)
 - [daniel9a] (https://github.com/daniel9a)
@@ -26,6 +28,7 @@
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Ritwik M]
 - [Sid K]
 - [ryandas]
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
@@ -8251,6 +8254,7 @@ Mayank Bansal
 - [Kyle Askine](https://github.com/kaskine)
 - [Xander Madsen](https://github.com/vasedgod)
 - [Antoine Rolland](https://github.com/tonio6071)
+- [RajaSekar V](https://github.com/rajasekarv)
 - [Katrina Mosimann](https://github.com/kmosimann)
 - [bulnak](https://github.com/bulnak)
 - [Devesh Kaushik](https://github.com/deveshkau)
@@ -11298,5 +11302,7 @@ Anthony Stannard
 - [Brandon Allen] (https://github.com/eldon2)
 - [Cassandra Lee] (https://github.com/yieng)
 - [Jordi Hoven] (https://github.com/Jordakoes)
--[Puneeth PS] (https://github.com/puneethps)
--[Anshuman Mishra] (https://github.com/anshuman94)
+- [Puneeth PS] (https://github.com/puneethps)
+- [Shubham Atlani] (https://github.com/shubhamatlani)
+- [Nikhil Arya] (https://github.com/nikhilaryann)
+- [Anshuman Mishra] (https://github.com/anshuman94)
