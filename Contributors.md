@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Matthew Proudman](https://github.com/MechaCoder)
