@@ -113,6 +113,7 @@
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Tannmay Joshi](https://github.com/tanmay-chanakya/)
 - [Veronica Lusby](https://github.com/veronicamengyan)
+- [Gıyaseddin Tanrıkulu](https://github.com/gysddn)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Eli Alvarado](https://github.com/elialvaradoo)
 - [Sourav]
