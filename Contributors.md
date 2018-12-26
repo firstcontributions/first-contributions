@@ -5656,6 +5656,7 @@ Tanishq Gupta
 - [Ryan Flynn](https://github.com/rtflynn/)
 - [Ning LI](https://github.com/lininglouis)
 - [Rodrigo Davy](https://github.com/RodrigoDavy)
+- [Javier Labrat](https://github.com/JLabrat)
 - [Byron Blank](https://github.com/ByronCoder)
 - [Robert Maru de Vera](https://github.com/sheepd)
 - [Ryan Tarzia](https://github.com/rtarzia)
