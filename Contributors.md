@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
@@ -11305,3 +11305,4 @@ Anthony Stannard
 - [Puneeth PS] (https://github.com/puneethps)
 - [Shubham Atlani] (https://github.com/shubhamatlani)
 - [Nikhil Arya] (https://github.com/nikhilaryann)
+- [Jose Bravo] (https://github.com/Mjavala)
