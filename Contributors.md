@@ -7463,6 +7463,7 @@ Rohan Das
 - [Patrick Westervelt](https://github.com/psytew)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Nisal Fernando](https://github.com/n1sam1Media)
+- [Amanda M] (https://github.com/malmi003)
 - [Michael McGrorty](https://github.com/micmcgrorty)
 - [Manish](https://github.com/developer-18)
 - [Guilherme Wachs](https://github.com/lopespt)
