@@ -88,6 +88,7 @@
 - [chaynes]
 - [Shrey Sahai]
 - [Ângelo Lucas](http://angelolucas.github.io)
+- [carlek]
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
 - [Robbie Martinus](https://github.com/rmartinus)
