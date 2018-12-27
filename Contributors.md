@@ -11332,3 +11332,4 @@ Anthony Stannard
 - [Zeyi Chen] (https://github.com/zeyichen)
 - [Simon Rice]
 - [Tran Le Quoc Anh] (https://github.com/Al0ngsy)
+- [bethuel] (https://github.com/bcmmbaga)
