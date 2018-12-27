@@ -1251,6 +1251,7 @@ Nguyen Khoa
 - [Lilian Ferreira](https://github.com/lilianferreira)
 - [Sugam Budhraja](https://github.com/Sugam1111)
 - [Kenny Zhou](https://github.com/Kenford20)
+- [Ethan Maltes](https://github.com/ejmaltes)
 - [João Mota](https://github.com/jpmmota)
 - [Calvin Golas](https://github.com/CalvinGolas)
 - [Ahmed waqas nasir](https://github.com/waqasnasir/)
