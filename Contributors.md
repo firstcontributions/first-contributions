@@ -3,6 +3,7 @@
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
+- [Adam Li](https://github.com/lichiheng1998)
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [Saad](https://github.com/voldemoriarty)
 - [saicharan] (https://github.com/saicharannivarthi)
