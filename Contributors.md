@@ -74,6 +74,7 @@
 - [Mehmet Hakan Doğan](https://github.com/mhkndo)
 - [Everton Renan](https://github.com/everton0991)
 - [Damion Anderson] (https://github.com/danderson2794)
+- [Glen Le Baill](https://github.com/GlenLB)
 - [Kingsley Okeke](https://github.com/kingokeke/)
 - [David Ochieng](https://github.com/chiengx)
 - [Farhan Ahmed](https://github.com/azzassfa)
