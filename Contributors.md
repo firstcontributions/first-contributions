@@ -17,6 +17,7 @@
   [Kamaljot Saini] https://github.com/unsafeartist
 - [rodegrafika] (https://github.com/Rodegrafika)
 - [daniel9a] (https://github.com/daniel9a)
+- [LucaBlightRoyal] (https://github.com/hide85x)
 - [yogeshJilhawar] (https://github.com/yogesh9391)
 - [yvj9391](https://github.com/yogesh9391)
 - [rana5ohaib] (https://github.com/rana5ohaib)
