@@ -11284,6 +11284,7 @@ Anthony Stannard
 - [David Yu](https://github.com/davidoffyuy)
 - [ajupazhamayil]
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
+- [KGB33](https://github.com/KGB33)
 - [Felorina] (https://github.com/Felorina)
 - [Oliver Carlson] (https://github.com/olivercarlson)
 - [Mr Cartoonster] (https://github.com/mrcartoonster)
