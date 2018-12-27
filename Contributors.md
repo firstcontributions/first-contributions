@@ -37,6 +37,7 @@
 - [Safura]
 - [mattv611]
 - [Triinu]
+- [Chris Nathan] (https://github.com/clapstar)
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
