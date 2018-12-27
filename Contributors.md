@@ -229,6 +229,7 @@
 - [Jason Rash](http://github.com/JasonMRash)
 - [Lisa Chesson]()
 - [Mark Elishaev]()
+- [Alexander Kern](https://github.com/KernAlex)
 - [Felix Carlberg](https://github.com/Felix-Carlberg)
 - [Drew Bernard](https://github.com/drewbern)
 - [Kodesh Pupik](https://github.com/pupik1989)
