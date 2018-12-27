@@ -10000,6 +10000,7 @@ Anthony Stannard
 - [Matt DuLeone](https://github.com/mduleone)
 - [Edwin Lara](https://github.com/EduLara97)
 - [Andrey Smirnov](https://github.com/daggett206)
+- [Varun Gupta] (https://github.com/varunsinghal23)
 - [Danilo Arantes](https://github.com/daniloarantes)
 - [Dave v. Duivenbode](https://github.com/Sefiris)
 - [Davide Briani](https://github.com/theworm)
