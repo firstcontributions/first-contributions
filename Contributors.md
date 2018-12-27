@@ -11331,3 +11331,4 @@ Anthony Stannard
 - [Nikhil Arya] (https://github.com/nikhilaryann)
 - [Zeyi Chen] (https://github.com/zeyichen)
 - [Simon Rice]
+- [Tran Le Quoc Anh] (https://github.com/Al0ngsy)
