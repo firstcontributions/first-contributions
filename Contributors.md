@@ -234,6 +234,7 @@
 - [Drew Bernard](https://github.com/drewbern)
 - [Kodesh Pupik](https://github.com/pupik1989)
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
+- [Hannan Saleemi](https://github.com/HannanSaleemi)
 - [Rui Chow]()
 - [James Booker](https://github.com/jamesbooker)
 - [Peter Mai](https://github.com/Peter-Mai)
