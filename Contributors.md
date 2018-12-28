@@ -31,6 +31,7 @@
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [IndominusRexx]
+- [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum] (https://github.com/AngryChum)
