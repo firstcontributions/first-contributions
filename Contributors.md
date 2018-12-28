@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -7,6 +7,7 @@
 - [Adam Li](https://github.com/lichiheng1998)
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
+- [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
