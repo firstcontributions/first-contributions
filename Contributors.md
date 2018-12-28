@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -11345,3 +11345,4 @@ Anthony Stannard
 - [m401] (https://github.com/m401)
 - [Srishti]
 - [Erik Hsu] (https://github.com/erikhsu)
+- [Ahmad Sami] (https://github.com/Asami1997)
