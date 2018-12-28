@@ -5,6 +5,7 @@
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
+- [Steven Berkowitz](https://github.com/Nightsquid7)
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [Ujjwal Srivastava](https://github.com/pretrator)
