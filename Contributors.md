@@ -1594,6 +1594,7 @@ Nguyen Khoa
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
+- [Oskar Grzelak](https://github.com/OskarGrzelak)
 - [Paul Carr-Barker](https://github.com/icklebitt)
 - [Lucas Santos](https://github.com/khaosdoctor)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
