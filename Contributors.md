@@ -30,6 +30,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
+- [IndominusRexx]
 - [Ivan Šostarec](https://github.com/isostarec)
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum] (https://github.com/AngryChum)
