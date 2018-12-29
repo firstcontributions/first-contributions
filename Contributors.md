@@ -39,6 +39,7 @@
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum] (https://github.com/AngryChum)
 - [fabbellotti]
+- [Derek Cardwell] (https://github.com/siestacardwell)
 - [hh534]
 - [Safura]
 - [mattv611]
