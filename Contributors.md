@@ -106,6 +106,7 @@
 - [himos]
 - [chaynes]
 - [Shrey Sahai]
+- [Hasan Liou] (https://github.com/yunghas)
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [carlek]
 - [Ilias Ibrahim](https://github.com/iliasi)
