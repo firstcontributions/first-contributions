@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -30,6 +30,7 @@
 - [anujsinghwd] (https://github.com/anujsinghwd)
 - [DCH-CH] (https://github.com/DCH-CH)
 - [Kevin Mendoza](https://github.com/nitromlllR)
+- [Changer]
 - [harold0416] (https://github.com/harold0416)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
