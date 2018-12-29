@@ -55,6 +55,7 @@ anuragkanade
 - [Sid K]
 - [ryandas]
 - [kunaalk]
+- [Patrick Coico] (https://github.com/PCoico219)
 - [Jonas] (https://github.com/Saliovin)
 - [Andres Aguilar](https://github.com/aguilarandres)
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
