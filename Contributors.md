@@ -9,6 +9,7 @@
 - [Steven Berkowitz](https://github.com/Nightsquid7)
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
+- [David Tamas-Parris](https://github.com/davidtp19)
 - [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
 - [saicharan] (https://github.com/saicharannivarthi)
