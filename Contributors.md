@@ -24,6 +24,7 @@
 - [daniel9a] (https://github.com/daniel9a)
 - [LucaBlightRoyal] (https://github.com/hide85x)
 - [yogeshJilhawar] (https://github.com/yogesh9391)
+anuragkanade
 - [yvj9391](https://github.com/yogesh9391)
 - [Joseph Kenny](https://github.com/josephkenny)
 - [rana5ohaib] (https://github.com/rana5ohaib)
