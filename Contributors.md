@@ -1489,6 +1489,7 @@ Nguyen Khoa
 - [Arun Sharma](https://github.com/arun-sharma-blr)
 - [Dina Wee](https://github.com/dinawee)
 - [John Adetutu](https://github.com/ruggedy)
+- [Anh Tran](https://github.com/anhtqweb)
 - [Abu Sayed](https://github.com/hallucinatorX)
 - [M Aizaz Ansari](https://github.com/ProITDdeveloper)
 - [Guy McManus](https://github.com/guymcmanusgithub)
