@@ -16,6 +16,7 @@
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [Nicholas Adamson](https://github.com/nja12)
+- [wardaabukar]
 - [Satvik Dev] (https://github.com/kivtas)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
