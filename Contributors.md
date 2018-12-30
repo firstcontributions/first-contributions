@@ -171,6 +171,7 @@ anuragkanade
 - [Matthew Kirimi](https://github.com/Curti-s)
 - [Steve Hornsey](https://github.com/steveHornseyDeveloper)
 - [Aviad Ariel]
+- [Yannick Boog]
 - [sajjas] (https://github.com/sajjass)
 - [ajupazhamayil]
 - [Tredon Austin](https://github.com/TredonA)
