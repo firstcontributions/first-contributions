@@ -4,6 +4,7 @@
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
+- [Jesse Lau]
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
