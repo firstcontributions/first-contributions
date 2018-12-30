@@ -42,6 +42,7 @@ anuragkanade
 - [IndominusRexx]
 - [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
+- [Akshat Mittal](https://github.com/akshatmittal19)
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum] (https://github.com/AngryChum)
 - [fabbellotti]
