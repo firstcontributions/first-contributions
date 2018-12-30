@@ -18,6 +18,7 @@
 - [Nicholas Adamson](https://github.com/nja12)
 - [Satvik Dev] (https://github.com/kivtas)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
+- [Patrick Demers](https://github.com/patrickdemers6)
 - [Daniel Li](https://github.com/dan9710li)
 - [Janet Gordon] (https://github.com/GamergirlJ)
   [Kamaljot Saini] https://github.com/unsafeartist
