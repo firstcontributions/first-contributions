@@ -182,6 +182,7 @@ anuragkanade
 - [Tredon Austin](https://github.com/TredonA)
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - [Katherine Liuser]
+- [lmidy]
 - [sjiang647] (https://github.com/sjiang647)
 - [Olessia Potapova](https://github.com/olessiap)
 - [Inguss Anosovs] (https://github.com/ingussA)
