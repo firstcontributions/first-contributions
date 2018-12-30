@@ -11374,3 +11374,4 @@ Anthony Stannard
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta] (https://github.com/ruchikaguptaa)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
+- [kartikchauhan](https://github.com/kartikchauhan)
