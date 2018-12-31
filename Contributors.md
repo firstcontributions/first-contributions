@@ -14,6 +14,7 @@
 - [David Tamas-Parris](https://github.com/davidtp19)
 - [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
+- [Rose Mazari] (https://github.com/rosemazari)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
 - [Nicholas Adamson](https://github.com/nja12)
