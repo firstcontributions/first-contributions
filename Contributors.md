@@ -127,6 +127,7 @@ anuragkanade
 - [Hasan Liou] (https://github.com/yunghas)
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [carlek]
+- [Braam Beresford] (https://github.com/braamBeresford)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
 - [Robbie Martinus](https://github.com/rmartinus)
