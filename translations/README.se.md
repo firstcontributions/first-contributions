@@ -28,7 +28,7 @@ Detta kommer att skapa en kopia av repot i ditt GitHub-konto.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to cliboard*-ikonen.
+Klona repot till din dator. Gå till ditt GitHub-konto och klicka på clone-knappen och klicka sedan på *copy to clipboard*-ikonen.
 
 Öppna en terminal och kör följande kommando:
 

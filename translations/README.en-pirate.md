@@ -12,10 +12,6 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
 
-#### *Read this in [other languages](../Translations.md).*
-
-[️🇬🇧](../README.md) [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [🇳🇱](README.nl.md) [🇷🇺](README.ru.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴󠁥󠁳󠁧󠁡󠁿](README.gl.md) [🇵🇰](README.ur.md) [:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [🇮🇱](README.hb.md)
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
@@ -73,11 +69,11 @@ git checkout -b add-luke-oliff
 
 ## Make necessary changes 'n commit those changes
 
-Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file. 
+Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes. 
+If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
 Add those changes t' th' branch ye jus' created usin' th' `git add` command:
 

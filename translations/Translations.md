@@ -2,7 +2,8 @@
 
 |  | Translated Link |
 | --- | --- |
-| 🇮🇳 | [हिन्दी ](README.hi.md) |
+| 🇮🇳 | [हिन्दी](README.hi.md) |
+| 🇮🇳 | [मराठी](README.mr.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
@@ -10,6 +11,7 @@
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
+| :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
@@ -17,7 +19,7 @@
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
-| 🇩🇪  | [Plattdüütsch](README.de.md) |
+| 🇩🇪  | [Deutsch](README.de.md) |
 | 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
 | 🇬🇷 | [ελληνικά](README.gr.md) |
 | العربية | [العربية](README.ar.md) |
@@ -27,6 +29,7 @@
 | 🇮🇹 | [Italiano](README.it.md)
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
+| 🇳🇵 | [नेपाली](README.np.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
 | 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
@@ -36,4 +39,6 @@
 | 🇮🇱 | [עברית](README.hb.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
+| 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇰🇿 | [Қазақша](README.kz.md) |
