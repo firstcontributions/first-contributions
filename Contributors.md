@@ -39,6 +39,7 @@ anuragkanade
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Changer]
 - [harold0416] (https://github.com/harold0416)
+- [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
