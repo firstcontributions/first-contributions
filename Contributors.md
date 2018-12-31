@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
+- [Varun Goyal] ((https://github.com/govarun)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -32,6 +33,8 @@
 - [LucaBlightRoyal] (https://github.com/hide85x)
 - [yogeshJilhawar] (https://github.com/yogesh9391)
 anuragkanade
+
+
 - [yvj9391](https://github.com/yogesh9391)
 - [Joseph Kenny](https://github.com/josephkenny)
 - [rana5ohaib] (https://github.com/rana5ohaib)
@@ -11390,4 +11393,4 @@ Anthony Stannard
 - [oranjjun](https://github.com/oranjjun)
 - [Greg Mac] (https://github.com/gregmacdev)
 - [Mantas Astrauskas] (https://github.com/MAstrauskas)
-- [Naveen]
+- [Nav
