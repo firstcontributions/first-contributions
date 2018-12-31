@@ -22,6 +22,7 @@
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Iann Carvalho](https://github.com/ianncarvalho)
 - [Myles Brown](https://github.com/Myles2)
+- [Loki Kempanna] (https://github.com/loki1986)
 - [Manne Diaz](https://github.com/diazmanne)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Ashok Singh](https://github.com/XLAR-8)
