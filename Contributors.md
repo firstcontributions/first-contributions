@@ -456,6 +456,7 @@ anuragkanade
 - [Uesli Almeida](https://github.com/ueslialmeida)
 - [Mohit Delhiwala] (https://github.com/mohitncode)
 - [Sitryk](https://github.com/Sitryk)
+- [Brian Culver](https://github.com/gandalfthegrape)
 - [Raymond To](https://github.com/rayto510)
 - [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
