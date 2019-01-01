@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
@@ -13,6 +13,7 @@
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [David Tamas-Parris](https://github.com/davidtp19)
+- [Micah Thorstenson] (https://github.com/micahThor)
 - [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
 - [Rose Mazari] (https://github.com/rosemazari)
