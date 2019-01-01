@@ -7777,6 +7777,7 @@ Mayank Bansal
 - [Timothy Clark](https://github.com/TheCoolBlackCat)
 - [Ed Hazledine](https://github.com/edhaz)
 - [Naveed Gazi](https://github.com/returnpointer)
+- [Karim Shavar](https://github.com/KarimShavar)
 - [Navneet Pandey](https://github.com/npcode15)
 - [A Toufali](https://github.com/HandsomeMedia)
 - [Pavan Varma](https://github.com/dpavankvarma)
