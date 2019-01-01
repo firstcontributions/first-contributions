@@ -1,6 +1,6 @@
 # Contributors
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
-- [Varun Goyal] ((https://github.com/govarun)
+
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -219,6 +219,7 @@ anuragkanade
 - [Hoederer] (https://github.com/jalexp)
 - [Erik Harte](https://github.com/hartee)
 - [mikmik]
+- [Varun Goyal] ((https://github.com/govarun)
 - [faveja](https://github.com/faveja)
 - [Mitchell Weber](https://github.com/mitchellweber7)
 - [Arslan Raza](https://github.com/arslanraza)
