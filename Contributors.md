@@ -48,6 +48,7 @@ anuragkanade
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
+- [Lorena](https://github.com/lorenafoia)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [IndominusRexx]
 - [RachanaReddy](https://github.com/Rachana-Reddy)
