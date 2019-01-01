@@ -62,6 +62,7 @@ anuragkanade
 - [mattv611]
 - [Triinu]
 - [Chris Nathan] (https://github.com/clapstar)
+- [Yash Rathod] (https://github.com/yashrt)
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
