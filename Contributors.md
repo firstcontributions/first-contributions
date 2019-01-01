@@ -317,6 +317,7 @@ anuragkanade
 - [Bhuyan]
 - [Apelsimon]
 - [CGibsonmm](https://github.com/CGibsonmm)
+- [qlich] (https://github.com/qlich)
 - [Matej Turay](https://github.com/MatejTuray)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
