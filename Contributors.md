@@ -86,6 +86,7 @@ anuragkanade
 - [dtt](https://github.com/thanhtrungit25)
 - [Brandon Hall](https://github.com/bthall16)
 - [bryandms](https://github.com/bryandms)
+- [Dillon Friel](https://github.com/dillonfr)
 - [Itamar Givon](https://github.com/xumium)
 - [ptandy](https://github.com/petertandy)
 - [Moti Gadian](https://github.com/motkeg)
