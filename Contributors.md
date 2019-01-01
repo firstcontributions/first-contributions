@@ -1,11 +1,15 @@
-# Contributors
-- [Aubrey Barnes] (https://github.com/SeraphicLaw)
 
+# Contributors
+- [Ibrahim AlSaud] (https://github.com/ialsaud)
+- [Varun Goyal] ((https://github.com/govarun)
+- [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Jesse Lau]
+- [moti ben] 
+- [Wandji Collins] (https://github.com/Wandji69)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
@@ -22,6 +26,7 @@
 - [wardaabukar]
 - [Satvik Dev] (https://github.com/kivtas)
 - [Lir Segev]
+  [Shashank Mishra] (https://github.com/lousyidiot) 
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
 - [Srilekha Talluri](https://github.com/Srilekha26)
@@ -129,6 +134,7 @@ anuragkanade
 - [Hasan Liou] (https://github.com/yunghas)
 - [Ângelo Lucas](http://angelolucas.github.io)
 - [carlek]
+- [Braam Beresford] (https://github.com/braamBeresford)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
 - [Robbie Martinus](https://github.com/rmartinus)
@@ -318,6 +324,7 @@ anuragkanade
 - [Bhuyan]
 - [Apelsimon]
 - [CGibsonmm](https://github.com/CGibsonmm)
+- [qlich] (https://github.com/qlich)
 - [Matej Turay](https://github.com/MatejTuray)
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
@@ -459,6 +466,7 @@ anuragkanade
 - [Uesli Almeida](https://github.com/ueslialmeida)
 - [Mohit Delhiwala] (https://github.com/mohitncode)
 - [Sitryk](https://github.com/Sitryk)
+- [Brian Culver](https://github.com/gandalfthegrape)
 - [Raymond To](https://github.com/rayto510)
 - [Savva Morozov](https://github.com/snakelover)
 - [Rishabh Shukla](https://github.com/bazinga25)
@@ -7777,6 +7785,7 @@ Mayank Bansal
 - [Timothy Clark](https://github.com/TheCoolBlackCat)
 - [Ed Hazledine](https://github.com/edhaz)
 - [Naveed Gazi](https://github.com/returnpointer)
+- [Karim Shavar](https://github.com/KarimShavar)
 - [Navneet Pandey](https://github.com/npcode15)
 - [A Toufali](https://github.com/HandsomeMedia)
 - [Pavan Varma](https://github.com/dpavankvarma)
@@ -11381,6 +11390,7 @@ Anthony Stannard
 - [Zeyi Chen] (https://github.com/zeyichen)
 - [Simon Rice]
 - [Tran Le Quoc Anh] (https://github.com/Al0ngsy)
+- [athipatpipat] 
 - [bethuel] (https://github.com/bcmmbaga)
 - [rkg18] (https://github.com/rkg18)
 - [m401] (https://github.com/m401)
@@ -11395,3 +11405,5 @@ Anthony Stannard
 - [Greg Mac] (https://github.com/gregmacdev)
 - [Mantas Astrauskas] (https://github.com/MAstrauskas)
 - [Naveen]
+- [BenEwing33] (https://github.com/BenEwing33)
+- [tangarts] (https://github.com/tangarts)
