@@ -6,7 +6,7 @@
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Jesse Lau]
-- [moti ben] 
+- [moti ben]
 - [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
 - [Joseph Gibson](https://github.com/jkpgibson)
@@ -25,7 +25,7 @@
 - [wardaabukar]
 - [Satvik Dev] (https://github.com/kivtas)
 - [Lir Segev]
-  [Shashank Mishra] (https://github.com/lousyidiot) 
+  [Shashank Mishra] (https://github.com/lousyidiot)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
 - [Srilekha Talluri](https://github.com/Srilekha26)
@@ -11389,7 +11389,7 @@ Anthony Stannard
 - [Zeyi Chen] (https://github.com/zeyichen)
 - [Simon Rice]
 - [Tran Le Quoc Anh] (https://github.com/Al0ngsy)
-- [athipatpipat] 
+- [athipatpipat]
 - [bethuel] (https://github.com/bcmmbaga)
 - [rkg18] (https://github.com/rkg18)
 - [m401] (https://github.com/m401)
@@ -11407,3 +11407,4 @@ Anthony Stannard
 - [BenEwing33] (https://github.com/BenEwing33)
 - [tangarts] (https://github.com/tangarts)
 - [Girish Poojari] (https://github.com/girishpoojari)
+- [Cooper Stainbrook] (https://github.com/cstainbrook)
