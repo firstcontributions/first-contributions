@@ -7,6 +7,7 @@
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Jesse Lau]
 - [moti ben] 
+- [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
