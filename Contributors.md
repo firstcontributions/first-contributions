@@ -11410,3 +11410,4 @@ Anthony Stannard
 - [BenEwing33] (https://github.com/BenEwing33)
 - [tangarts] (https://github.com/tangarts)
 - [Girish Poojari] (https://github.com/girishpoojari)
+- [jtisaac] (https://github.com/jtisaac)
