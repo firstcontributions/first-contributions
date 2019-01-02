@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
@@ -6641,6 +6641,7 @@ Rohan Das
 - [Harry Rudolph](https://github.com/HarryRudolph)
 - [Yuzi Hu](https://github.com/YuziHu)
 - [Test](https://github.com/anothertest)
+- [Neil M] (https://github.com/neil007m)
 - [Niklas Matthias](https://github.com/1Niklas)
 - [Keithan Philander]()
 - [Chipok Tsang](https://github.com/dtsang7)
