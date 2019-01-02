@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Rio804]
 - [Warren]
+- [rvigil24](https://github.com/rvigil24)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
