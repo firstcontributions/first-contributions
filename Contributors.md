@@ -11419,3 +11419,4 @@ Anthony Stannard
 - [tangarts] (https://github.com/tangarts)
 - [Girish Poojari] (https://github.com/girishpoojari)
 - [jtisaac] (https://github.com/jtisaac)
+- [doMConSwiss](https://github.com/doMConSwiss) 
