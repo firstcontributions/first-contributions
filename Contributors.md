@@ -40,6 +40,7 @@
 - [daniel9a] (https://github.com/daniel9a)
 - [LucaBlightRoyal] (https://github.com/hide85x)
 - [yogeshJilhawar] (https://github.com/yogesh9391)
+- [Christopher Jensen] (https://github.com/cajen)
 anuragkanade
 - [yvj9391](https://github.com/yogesh9391)
 - [Joseph Kenny](https://github.com/josephkenny)
