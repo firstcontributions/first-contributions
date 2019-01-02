@@ -76,6 +76,7 @@ anuragkanade
 - [Patrick Coico] (https://github.com/PCoico219)
 - [Jonas] (https://github.com/Saliovin)
 - [Romain Fibigr] (http://github.com/rfibigr)
+- [Kawin Stark] (https://github.com/kawinm)
 - [Andres Aguilar](https://github.com/aguilarandres)
 - [Maryam M.Alizadeh](https://github.com/maryammalizadeh)
 - [Lucio Camargo](https://github.com/luciomcamargo)
