@@ -4496,6 +4496,7 @@ Viraj Jiwane
 - [Wahyu BS](https://github.com/qteen)
 - [Misha Zhukov](https://github.com/3v1l91l)
 - [Rachelle Burgos](https://github.com/rachelleburgos)
+- [adel](https://github.com/plnetE)
 - [goonar](https://github.com/goonar)
 - [Rob Wood](https://github.com/RobWVisix)
 - [Ayyy Lmao](https://github.com/asr1191)
@@ -9647,6 +9648,7 @@ Bryan Romero
 - [Anubhav Kumar Singh](https://github.com/Anubhavkumar45)
 - [Kacper Maczka](https://github.com/kacper19990)
 - [Ray Chen](https://github.com/Vowlue)
+
 - [Deepak Suresh](https://github.com/deepaksuresh)
 - [Gabriel Maldonado](https://github.com/info-gabriel)
 - [Kirtan Patel](https://github.com/pkirtan)
