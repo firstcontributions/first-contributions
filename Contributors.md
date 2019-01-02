@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
@@ -8378,6 +8378,7 @@ Mayank Bansal
 - [Rudolfs Puteklis](https://github.com/Wildlander)
 - [Vitor Felix](https://github.com/Vitor-Felix)
 - [Arturas0](https://github.com/Arturas0)
+- [Matthew Winchester](https://github.com/mwinchester94)
 - [Jamie McDade](https://github.com/jmcdade11)
 - [Marci Bertsch](https://github.com/mbertsch3)
 - [pryordesign](https://github.com/pryordesign)
