@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
@@ -7999,6 +7999,7 @@ Mayank Bansal
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Jake Happersett](https://github.com/JakeHappersett)
 - [Sherin Binu](https://github.com/SherOnDale13)
+- [Nurali Khoja](https://github.com/TheCoderFish)
 - [Nikica Maksimovski](https://github.com/NikicaCh)
 - [William Horn](https://github.com/williamh890)
 - [Whesley Barnard](https://github.com/whesleybarnard)
