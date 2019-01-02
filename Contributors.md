@@ -14,6 +14,7 @@
 - [Adam Li](https://github.com/lichiheng1998)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
 - [Steven Berkowitz](https://github.com/Nightsquid7)
+- [Krishna Padayachee](https//github.com/krispad)
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [David Tamas-Parris](https://github.com/davidtp19)
