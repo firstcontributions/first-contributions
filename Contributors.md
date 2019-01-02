@@ -26,6 +26,7 @@
 - [Nicholas Adamson](https://github.com/nja12)
 - [wardaabukar]
 - [Satvik Dev] (https://github.com/kivtas)
+- [Jan Wright] (https://github.com/janwright73)
 - [Lir Segev]
   [Shashank Mishra] (https://github.com/lousyidiot) 
 - [Graham Kesley] (https://github.com/PlutoniumProphet)
