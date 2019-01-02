@@ -1,5 +1,5 @@
 # Contributors
-
+- [Satyam Singh](hhtps://github.com/satyam0107)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
