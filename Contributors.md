@@ -26,6 +26,7 @@
 - [Satvik Dev] (https://github.com/kivtas)
 - [Lir Segev]
   [Shashank Mishra] (https://github.com/lousyidiot) 
+- [Graham Kesley] (https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
 - [Srilekha Talluri](https://github.com/Srilekha26)
