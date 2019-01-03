@@ -10992,6 +10992,7 @@ Anthony Stannard
 - [Narayanan Elavathur Ranganatha](https://github.com/naruarjun)
 - [Raunak Daga](https://github.com/raunakdaga/first)
 - [Harry Jung](https://github.com/hjung98)
+- [smitphilip](https://github.com/smitphilip)
 - [Dharmang Andhariya](https://github.com/dharmang)
 - [Ben Curran](https://github.com/cuzza0)
 - [Emma Campbell](https://github.com/butterchaos)
@@ -11425,4 +11426,3 @@ Anthony Stannard
 - [Girish Poojari] (https://github.com/girishpoojari)
 - [jtisaac] (https://github.com/jtisaac)
 - [doMConSwiss](https://github.com/doMConSwiss) 
-- [smitphilip](https://github.com/smitphilip)
