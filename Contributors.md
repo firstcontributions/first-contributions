@@ -4508,6 +4508,7 @@ Viraj Jiwane
 - [Wahyu BS](https://github.com/qteen)
 - [Misha Zhukov](https://github.com/3v1l91l)
 - [Rachelle Burgos](https://github.com/rachelleburgos)
+- [adel](https://github.com/plnetE)
 - [goonar](https://github.com/goonar)
 - [Rob Wood](https://github.com/RobWVisix)
 - [Ayyy Lmao](https://github.com/asr1191)
