@@ -2172,6 +2172,7 @@ Nguyen Khoa
 - [Yogita Bhatia](https://github.com/Yogita98)
 - [Jack Vanier](https://github.com/jackrvan)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
+- [Nitesh Nanda](https://github.com/niteshnanda02)
 - [Akshay Gupta](https://github.com/theakshaygupta)
 - [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
 - [Sanjana Ekanayake](https://github.com/Sanjanaekanayake)
