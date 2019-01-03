@@ -108,6 +108,7 @@ anuragkanade
 - [Dillon Friel](https://github.com/dillonfr)
 - [Itamar Givon](https://github.com/xumium)
 - [ptandy](https://github.com/petertandy)
+- [Austin Wimberley] (https://github.com/obpacheco)
 - [Moti Gadian](https://github.com/motkeg)
 - [Rutwik Reddy](https://github.com/Rutwik99)
 - [Darryl McClellan](https://github.com/djmcc34)
