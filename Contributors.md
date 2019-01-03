@@ -106,6 +106,7 @@ anuragkanade
 - [Darryl McClellan](https://github.com/djmcc34)
 - [Ziad Abou Wasa]
 - [William Lee ](https://github.com/willlee17)
+- [Amy Townsend](https://github.com/amygtownsend)
 - [Naor Shlomo Tedgi](https://github.com/Naor-Tedgi)
 - [Himanshu Rohilla](https://github.com/HimRohilla)
 - [Adam Gibson](https://github.com/adamgibs)
