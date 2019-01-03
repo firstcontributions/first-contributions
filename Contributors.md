@@ -52,6 +52,7 @@ anuragkanade
 - [anujsinghwd] (https://github.com/anujsinghwd)
 - [DCH-CH] (https://github.com/DCH-CH)
 - [Kevin Mendoza](https://github.com/nitromlllR)
+- [Argus Li](https://github.com/ArgusLi)
 - [Changer]
 - [harold0416] (https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
