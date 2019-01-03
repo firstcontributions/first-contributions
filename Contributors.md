@@ -10921,6 +10921,7 @@ Anthony Stannard
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [SJ](https://github.com/bluejay2011)
+- [ClarenceEverage](https://github.com/bidbadnerd)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Jean Mendes](https://github.com/JeanMendes)
