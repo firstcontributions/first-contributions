@@ -51,6 +51,7 @@ anuragkanade
 - [DCH-CH] (https://github.com/DCH-CH)
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Changer]
+- [Mohammad Haris] (https://github.com/Mohammad-Haris)
 - [harold0416] (https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Chris Wolf](https://github.com/chriswolfdesign)
