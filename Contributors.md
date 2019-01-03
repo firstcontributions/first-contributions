@@ -3,6 +3,7 @@
 - [Darren Kwong] (https://github.com/DeeVine)
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Rtvik Kapoor] (https://github.com/the-machine-learner)
+- Imran Sait M - tiasnarmi - https://github.com/tiasnarmi
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
