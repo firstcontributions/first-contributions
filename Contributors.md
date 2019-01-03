@@ -7774,6 +7774,7 @@ Mayank Bansal
 - [Alejandro Gines](https://github.com/alexBCN84)
 - [Collin Feldpausch](https://github.com/cfeldpa2)
 - [Eric Lew](https://github.com/hyser521)
+- [CJ Catalan](https://github.com/CjCatalan07)
 - [Sindhura B](https://github.com/SindhuraB)
 - [Thomas Montgomery](https://github.com/tommont)
 - [Poe C](https://github.com/poesche)
