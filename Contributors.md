@@ -54,6 +54,7 @@ anuragkanade
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Argus Li](https://github.com/ArgusLi)
 - [Changer]
+- [Mohammad Haris] (https://github.com/Mohammad-Haris)
 - [harold0416] (https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Chris Wolf](https://github.com/chriswolfdesign)
