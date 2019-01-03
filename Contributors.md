@@ -9648,7 +9648,6 @@ Bryan Romero
 - [Anubhav Kumar Singh](https://github.com/Anubhavkumar45)
 - [Kacper Maczka](https://github.com/kacper19990)
 - [Ray Chen](https://github.com/Vowlue)
-
 - [Deepak Suresh](https://github.com/deepaksuresh)
 - [Gabriel Maldonado](https://github.com/info-gabriel)
 - [Kirtan Patel](https://github.com/pkirtan)
