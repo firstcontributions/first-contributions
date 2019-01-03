@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Darren Kwong] (https://github.com/DeeVine)
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Rtvik Kapoor] (https://github.com/the-machine-learner)
 - [Aubrey Barnes] (https://github.com/SeraphicLaw)
@@ -7,7 +8,7 @@
 - [Fuad Rustamzade] (https://github.com/Funtikl)
 - [Chas McLaughlin] (https://github.com/vv020633)
 - [Jesse Lau]
-- [moti ben] 
+- [moti ben]
 - [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
 - [Yıldırım TAM] (https://github.com/ytam)
@@ -29,7 +30,7 @@
 - [Satvik Dev] (https://github.com/kivtas)
 - [Jan Wright] (https://github.com/janwright73)
 - [Lir Segev]
-  [Shashank Mishra] (https://github.com/lousyidiot) 
+  [Shashank Mishra] (https://github.com/lousyidiot)
 - [Graham Kesley] (https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
@@ -11404,7 +11405,7 @@ Anthony Stannard
 - [Zeyi Chen] (https://github.com/zeyichen)
 - [Simon Rice]
 - [Tran Le Quoc Anh] (https://github.com/Al0ngsy)
-- [athipatpipat] 
+- [athipatpipat]
 - [bethuel] (https://github.com/bcmmbaga)
 - [rkg18] (https://github.com/rkg18)
 - [m401] (https://github.com/m401)
@@ -11423,4 +11424,4 @@ Anthony Stannard
 - [tangarts] (https://github.com/tangarts)
 - [Girish Poojari] (https://github.com/girishpoojari)
 - [jtisaac] (https://github.com/jtisaac)
-- [doMConSwiss](https://github.com/doMConSwiss) 
+- [doMConSwiss](https://github.com/doMConSwiss)
