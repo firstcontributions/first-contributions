@@ -33,7 +33,7 @@ Vaibhav Kaushal
 - [Satvik Dev] (https://github.com/kivtas)
 - [Jan Wright] (https://github.com/janwright73)
 - [Lir Segev]
-- [Shashank Mishra](https://github.com/lousyidiot) 
+- [Shashank Mishra](https://github.com/lousyidiot)
 - [Graham Kesley] (https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
@@ -3356,7 +3356,7 @@ Nguyen Khoa
 - [Palmer Hinchliffe](https://github.com/palmerhinchliffe)
 - [Ioannis Vaitsis](https://github.com/Vairus)
 - [juvestig](https://github.com/juvestig)
-  [Daniel Sanatar](https://github.com/Dsanatar) 	
+  [Daniel Sanatar](https://github.com/Dsanatar)
 - [Justin Calma](https://github.com/JCCII) 8/11/2018
 - [Ankita](https://github.com/Ankita3010)
 - [Chinmay Ingle](https://github.com/chinmayingle)
@@ -4909,6 +4909,7 @@ Tanishq Gupta
 - [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
 - [Greg Wong](https://github.com/gregorywong)
+- [Jaya Zhané](https://github.com/jayascript)
 - [Tony Wu](https://github.com/t-wu)
 - [Attilio Galzerano](https://github.com/Attilio-Galzerano)
 - [Heather Rusnica](https://github.com/HRusnica)
