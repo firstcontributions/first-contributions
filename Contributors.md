@@ -9775,6 +9775,7 @@ Bryan Romero
 - [Will Kaczmarek](https://github.com/KaczmarekWill)
 - [Julian Xhokaxhiu](https://github.com/julianxhokaxhiu)
 - [Akshat Ahuja](https://github.com/akshatah33)
+- [Shailesh Sawant] ()
 - [Kenneth Wright](https://github.com/WrightKD)
 - [Sumeet Kulkarni](https://github.com/sumeetk321)
 - [Valter Lucena](https://github.com/valterlucena)
