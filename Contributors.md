@@ -56,6 +56,7 @@ anuragkanade
 - [Lorena](https://github.com/lorenafoia)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [IndominusRexx]
+- [John Bidinger] (https://github.com/johnbidinger)
 - [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
 - [Akshat Mittal](https://github.com/akshatmittal19)
