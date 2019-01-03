@@ -10714,6 +10714,7 @@ Anthony Stannard
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [Hamza Khalid](https://github.com/Hamza156)
 - [a-ray](https://github.com/a-ray)
+- [Dakdot](https://github.com/Dakdot)
 - [Amitkumar](https://github.com/UltimateBrains)
 - [lisbert](https://github.com/lau626)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
@@ -11405,4 +11406,3 @@ Anthony Stannard
 - [Naveen]
 - [BenEwing33] (https://github.com/BenEwing33)
 - [tangarts] (https://github.com/tangarts)
-- [Dakdot](https://github.com/Dakdot)
