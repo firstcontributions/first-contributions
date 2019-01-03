@@ -10,6 +10,7 @@
 Vaibhav Kaushal
 - [Jesse Lau]
 - [moti ben]
+- [Mukesh Kumar Maurya](https://github.com/mukeshmaurya91)
 - [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
 - [Yıldırım TAM] (https://github.com/ytam)
@@ -31,7 +32,7 @@ Vaibhav Kaushal
 - [Satvik Dev] (https://github.com/kivtas)
 - [Jan Wright] (https://github.com/janwright73)
 - [Lir Segev]
-  [Shashank Mishra] (https://github.com/lousyidiot)
+- [Shashank Mishra](https://github.com/lousyidiot) 
 - [Graham Kesley] (https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
