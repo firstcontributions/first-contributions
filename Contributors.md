@@ -60,6 +60,7 @@ anuragkanade
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
+- [Johira Afzali](https://github.com/joafz)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [IndominusRexx]
 - [John Bidinger] (https://github.com/johnbidinger)
