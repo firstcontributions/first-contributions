@@ -1,8 +1,6 @@
-
 # Contributors
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Varun Goyal] ((https://github.com/govarun)
-- [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
@@ -38,8 +36,6 @@
 - [LucaBlightRoyal] (https://github.com/hide85x)
 - [yogeshJilhawar] (https://github.com/yogesh9391)
 anuragkanade
-
-
 - [yvj9391](https://github.com/yogesh9391)
 - [Joseph Kenny](https://github.com/josephkenny)
 - [rana5ohaib] (https://github.com/rana5ohaib)
