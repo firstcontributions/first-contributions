@@ -425,6 +425,7 @@ anuragkanade
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Domas Dranginis](https://github.com/DDomas)
 - [Timothy](https://github.com/timtop)
+- [Gabriel Pollner](https://github.com/gpollner)
 - [Tiffany Arellano](https://github.com/yirano)
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
