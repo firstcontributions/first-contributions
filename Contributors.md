@@ -64,6 +64,7 @@ anuragkanade
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum] (https://github.com/AngryChum)
 - [fabbellotti]
+- [David Tran] (https://github.com/dhtran91/)
 - [Derek Cardwell] (https://github.com/siestacardwell)
 - [hh534]
 - [Safura]
