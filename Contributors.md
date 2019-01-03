@@ -10867,6 +10867,7 @@ Anthony Stannard
 - [Jonas Denardi](https://github.com/jonasrdenardi)
 - [Andrei Luis](https://github.com/AndreiLuis)
 - [Beatriz Miranda](https://github.com/BeaMtrix)
+- [Cooper Stainbrook](https://github.com/cstainbrook)
 - [Deise Silva](https://github.com/AtreydesKS)
 - [Eric Monteiro Galotti de Souza](https://github.com/EricMGS)
 - [Nikos](https://github.com/linakis)
