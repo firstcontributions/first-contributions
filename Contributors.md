@@ -10597,6 +10597,7 @@
 - [Haider Khaleel](https://github.com/haiderkhaleel23)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [SJ](https://github.com/bluejay2011)
+- [ClarenceEverage](https://github.com/bidbadnerd)
 - [Shomeel Ahmed](https://github.com/ShomeelAhmed)
 - [Malik Naveed](https://github.com/maliknaveed6200)
 - [Jean Mendes](https://github.com/JeanMendes)
@@ -11001,4 +11002,3 @@
 - [David Yu](https://github.com/davidoffyuy)
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
 - [Felorina] (https://github.com/Felorina) 
-- [ClarenceEverage](https://github.com/bidbadnerd)
