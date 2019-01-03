@@ -1,6 +1,6 @@
 # Contributors
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
-- [Varun Goyal] ((https://github.com/govarun)
+- [Aubrey Barnes] (https://github.com/SeraphicLaw)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
