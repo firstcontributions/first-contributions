@@ -11442,3 +11442,4 @@ Anthony Stannard
 - [Girish Poojari] (https://github.com/girishpoojari)
 - [jtisaac] (https://github.com/jtisaac)
 - [doMConSwiss](https://github.com/doMConSwiss)
+- [GeorgesD](https://github.com/sergeod9)
