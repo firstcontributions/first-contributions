@@ -10740,6 +10740,7 @@ Anthony Stannard
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
 - [Hamza Khalid](https://github.com/Hamza156)
 - [a-ray](https://github.com/a-ray)
+- [Dakdot](https://github.com/Dakdot)
 - [Amitkumar](https://github.com/UltimateBrains)
 - [lisbert](https://github.com/lau626)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
