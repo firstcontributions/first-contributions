@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Darren Kwong] (https://github.com/DeeVine)
 - [Ibrahim AlSaud] (https://github.com/ialsaud)
 - [Rtvik Kapoor] (https://github.com/the-machine-learner)
@@ -238,6 +238,7 @@ anuragkanade
 - [Hoederer] (https://github.com/jalexp)
 - [Erik Harte](https://github.com/hartee)
 - [mikmik]
+- [Varun Goyal] ((https://github.com/govarun)
 - [faveja](https://github.com/faveja)
 - [Mitchell Weber](https://github.com/mitchellweber7)
 - [Arslan Raza](https://github.com/arslanraza)
