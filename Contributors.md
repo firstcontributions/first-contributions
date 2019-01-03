@@ -9,6 +9,7 @@
 - [moti ben] 
 - [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
+- [Anthony Guillier] (https://github.com/theMonarK)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
