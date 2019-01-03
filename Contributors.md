@@ -58,6 +58,7 @@ anuragkanade
 - [Mohammad Haris] (https://github.com/Mohammad-Haris)
 - [harold0416] (https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
+- [Muhammad Haris]
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
