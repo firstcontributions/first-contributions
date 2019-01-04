@@ -30,6 +30,7 @@
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [David Tamas-Parris](https://github.com/davidtp19)
+- [Chinu Lee](https://github.com/alelee)
 - [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
 - [Dawid Gałęziewski] (https://github.com/DawidGaleziewski)
