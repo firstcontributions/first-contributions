@@ -181,6 +181,7 @@
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [smitsky](https://github.com/smitsky)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
+- [Patrick Olvera](https://github.com/patrickolvera)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Kelechi Nwosu](https://github.com/klexzi/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
