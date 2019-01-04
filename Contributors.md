@@ -13,6 +13,7 @@ Vaibhav Kaushal
 - [Jesse Lau]
 - [moti ben]
 - [Mukesh Kumar Maurya](https://github.com/mukeshmaurya91)
+- [Alex Lai](https://github.com/laialex501)
 - [Harsh]
 - [Wandji Collins] (https://github.com/Wandji69)
 - [Yıldırım TAM] (https://github.com/ytam)
