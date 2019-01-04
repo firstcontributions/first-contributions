@@ -126,6 +126,7 @@ anuragkanade
 - [Luis Diaz](https://github.com/mrluiso)
 - [Jesper Stoico](https://github.com/JesperStoico)
 - [Mehmet Hakan Doğan](https://github.com/mhkndo)
+- [Muhammad Haris](https://github.com/Mohammad-Haris)
 - [Everton Renan](https://github.com/everton0991)
 - [Damion Anderson] (https://github.com/danderson2794)
 - [Glen Le Baill](https://github.com/GlenLB)
