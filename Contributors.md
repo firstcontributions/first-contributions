@@ -11437,6 +11437,7 @@ Anthony Stannard
 - [bethuel] (https://github.com/bcmmbaga)
 - [rkg18] (https://github.com/rkg18)
 - [m401] (https://github.com/m401)
+- [Claire Wright](https://github.com/ccannawright)
 - [Srishti]
 - [Erik Hsu] (https://github.com/erikhsu)
 - [Ahmad Sami] (https://github.com/Asami1997)
