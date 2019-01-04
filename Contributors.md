@@ -10985,6 +10985,7 @@ Anthony Stannard
 - [William Cori](https://github.com/coriwilliam/)
 - [marionik23](https://github.com/marionik23/)
 - [Philipp Erck](https://github.com/philerck/)
+- [Anshuman Mishra](https://github.com/anshuman94)
 - [Dotzero](https://github.com/dotzero/)
 - [Kenny Hong](https://github.com/kennyhong)
 - [Matt Chaffe](https://github.com/Mattchewone)
@@ -11305,4 +11306,3 @@ Anthony Stannard
 - [Puneeth PS] (https://github.com/puneethps)
 - [Shubham Atlani] (https://github.com/shubhamatlani)
 - [Nikhil Arya] (https://github.com/nikhilaryann)
-- [Anshuman Mishra] (https://github.com/anshuman94)
