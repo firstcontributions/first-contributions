@@ -26,6 +26,7 @@
 - [Yıldırım TAM](https://github.com/ytam)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
+- [Chris Howard](https://github.com/choward232)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
 - [Steven Berkowitz](https://github.com/Nightsquid7)
 - [Krishna Padayachee](https//github.com/krispad)
