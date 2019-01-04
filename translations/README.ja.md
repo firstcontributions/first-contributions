@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # First Contributions
 
@@ -9,7 +10,7 @@
 記事を読んだりチュートリアルをやってみることはためになりますが、実際にやってみる方が良いでしょう。このプロジェクトはそのガイダンスを行い、初心者が最初のオープンソースへの貢献を簡単に行えるようにするためのものです。
 覚えておいてください: リラックスしているほどより良く学ぶことができます。もし初めてのオープンソースへの貢献を行いたいのなら以下の簡単なステップに従ってください。それはとても面白いものになるはずです。
 
-#### *[他の言語](../Translations.md)で読む*
+#### *コマンドラインでの操作に慣れていない場合、[グラフィカルなツールでもチュートリアルを行えます。]( #その他のツールを使用したチュートリアル )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -48,7 +49,7 @@ git clone https://github.com/＜あなたのユーザー名＞/first-contributio
 ```
 cd first-contributions
 ```
-`git checkout command`　コマンドを使用してブランチを作成します：
+`git checkout` コマンドを使用してブランチを作成します：
 ```
 git checkout -b <add-your-name>
 ```
@@ -66,16 +67,15 @@ git checkout -b add-alonzo-church
 git add Contributors.md
 ```
 
-
 次に`git commit`コマンドを使ってこれらの変更をコミットします。
 ```
 git commit -m "Add <あなたの名前> to Contributors list"
 ```
-`<あなたの名前>`をご自身の名前に置き換えてください
+`<あなたの名前>`をご自身の名前に置き換えてください。
 
 ## GitHubに変更をpushする
 
-`git push`コマンドを使って変更をpushしてください
+`git push`コマンドを使って変更をpushしてください。
 ```
 git push origin <ブランチ名>
 ```
@@ -97,7 +97,7 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 初のオープンソースへの貢献を祝って友達やフォロワーにそのことを[このウェブアプリ](https://roshanjossey.github.io/first-contributions/#social-share)を使ってシェアしましょう。
 
-もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributions.herokuapp.com)に入ってください。
+もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)に入ってください。
 
 他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://roshanjossey.github.io/first-contributions/#project-list)を確認て見てください。
 

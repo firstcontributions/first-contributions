@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # 첫 기여
@@ -8,8 +9,7 @@
 
 어렵습니다. 처음으로 뭔가를 하는 것은 언제나 어렵습니다. 특히 공동 작업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그러나 협업과 협력은 오픈 소스의 전부입니다. 우리는 새로운 오픈 소스 기여자가 처음 배우고 기여하는 방식을 단순화하고자했습니다.
 
-관련 글을 읽거나 투토리얼을 보는 것이 도움이 될 수 있습니다. 하지만 연습삼아 직접 시도해보는 것보다 나을 수는 없을 겁니다. 이 프로젝트는 초보자가 처음으로 기여하는 방법을 안내하고 단순화하는 것을 목표로 합니다. 기억하십시오: 편안하게 임할수록 더 잘 배울 수 있습니다. 첫 번째 기여를 하려면 그저 아래의 간단한 단계를 따르면 됩니다.
-#### *이 문서를 [다른 언어로 보기](../Translations.md)* 
+관련된 글을 읽거나 튜토리얼을 보는 것이 도움이 될 수 있습니다. 하지만 연습삼아 직접 시도해보는 것보다 나을 수는 없을 겁니다. 이 프로젝트는 초보자가 처음으로 기여하는 방법을 안내하고 단순화하는 것을 목표로 합니다. 기억하십시오: 편안하게 임할수록 더 잘 배울 수 있습니다. 첫 번째 기여를 하려면 그저 아래의 간단한 단계를 따르면 됩니다.
 
 <img align="right" width="300" src="../assets/fork.png" alt="이 저장소 포크하기" />
 
@@ -46,7 +46,7 @@ first-contributions 저장소의 내용을 컴퓨터에 복사합니다.
 
 ## 브랜치 생성하기
 
-아직 저장소 디렉토리에 있지 않다면 그곳으로 변경합니다.
+아직 저장소 디렉토리에 있지 않다면 그곳으로 이동합니다.
 
 ```
 cd first-contributions
@@ -64,7 +64,7 @@ git checkout -b <add-your-name>
 git checkout -b add-alonzo-church
 ```
 
-(브랜치의 이름에 꼭 *add*가 들어가지 않아도 됩니다. 하지만 이 브랜치의 목적은 당신의 이름을 리스트에 추가하는 것이기 때문에 이름에 *add*를 포함하는 것은 타당합니다.)
+(브랜치의 이름에 꼭 *add*가 들어가지 않아도 됩니다. 하지만 이 브랜치의 목적은 당신의 이름을 리스트에 추가하는 것이기 때문에 이름에 *add*를 포함하는 것이 타당합니다.)
 
 ## 필요한 변경사항을 작성하고 커밋하기
 
@@ -135,7 +135,7 @@ git push origin <add-your-name>
 
 ### [추가 정보](../additional-material/translations/additional-material.ko.md)
 
-## 다른 도구를 이용하는 투토리얼
+## 다른 도구를 이용하는 튜토리얼
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|

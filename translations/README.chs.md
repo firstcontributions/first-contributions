@@ -9,8 +9,6 @@
 
 阅读文章和观看教程会有所帮助。不过，有什么方法能比实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
 
-#### *此文档的 [其他语种](../translations/Translations.md).*
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
