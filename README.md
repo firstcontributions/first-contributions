@@ -10,7 +10,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )* 
+#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
 #### *Read this in [other languages](translations/Translations.md).*
 
@@ -120,8 +120,8 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add Contributors.md
 ```
-Now commit those changes using the `git commit` command:
 
+Now commit those changes using the `git commit` command:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
