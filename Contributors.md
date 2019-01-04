@@ -157,6 +157,7 @@
 - [Zuzana Svabova] (https://github.com/harveler/)
 - [Callan Hoskins] (https://github.com/callanhoskins)
 - [rob]
+- masterofmagic
 - [himos]
 - [chaynes]
 - [Shrey Sahai]
