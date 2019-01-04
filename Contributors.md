@@ -34,7 +34,7 @@ Vaibhav Kaushal
 - [Satvik Dev] (https://github.com/kivtas)
 - [Jan Wright] (https://github.com/janwright73)
 - [Lir Segev]
-- [Shashank Mishra](https://github.com/lousyidiot) 
+- [Shashank Mishra](https://github.com/lousyidiot)
 - [Graham Kesley] (https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
 - [Patrick Demers](https://github.com/patrickdemers6)
@@ -11453,3 +11453,4 @@ Anthony Stannard
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
 - [John Lin](https://github.com/jlin22)
+- [Miguel Vellasco](https://github.com/mvellasco)
