@@ -10872,6 +10872,7 @@ Anthony Stannard
 - [Bartek Slowik](http://bartek.slowik.cc/)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Felipe Ruivo](https://github.com/vikingruivo)
+- [Sakchhi](https://github.com/Sakchhi)
 - [Cleiton Tavares](https://github.com/cleiton-tavares)
 - [Natielle Gonçalves](https://github.com/NatielleGoncalves)
 - [Brendon Fernandes](https://github.com/brendonhk7)
