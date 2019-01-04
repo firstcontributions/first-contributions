@@ -9701,6 +9701,7 @@ Rohan Das
 - [a-ray](https://github.com/a-ray)
 - [Amitkumar](https://github.com/UltimateBrains)
 - [lisbert](https://github.com/lau626)
+- [Gabriel Rosa](https://github.com/gabrielsrosa)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Harry Teo](https://github.com/harryTeo)
@@ -10082,4 +10083,3 @@ quattad
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
-- [Gabriel Rosa](https://github.com/gabrielsrosa)
