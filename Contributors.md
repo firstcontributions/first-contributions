@@ -10468,6 +10468,7 @@
 - [Felipe Ruivo](https://github.com/vikingruivo)
 - [Cleiton Tavares](https://github.com/cleiton-tavares)
 - [Natielle Gonçalves](https://github.com/NatielleGoncalves)
+- [SANYA_HASSAN/Mrs.Arslan khan](https://github.com/sanyasani)
 - [Brendon Fernandes](https://github.com/brendonhk7)
 - [Detinho](https://github.com/detinho)
 - [Igor Barato](https://github.com/igorbarato)
@@ -10924,5 +10925,3 @@
 -[showstiller](https://github.com/showstiller)
 - [dylanavery720](https://github.com/dylanavery720)
 - [rrohak](https://github.com/rrohak)
-- [SANYA_HASSAN/Mrs.Arslan khan] (https://github.com/sanyasani)
-
