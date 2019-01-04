@@ -94,6 +94,7 @@
 - [Sid K]()
 - [ryandas]()
 - [kunaalk]()
+- [Brooks]()
 - [Patrick Coico](https://github.com/PCoico219)
 - [Jonas](https://github.com/Saliovin)
 - [Romain Fibigr](http://github.com/rfibigr)
