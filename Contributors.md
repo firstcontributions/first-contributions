@@ -10946,6 +10946,7 @@ Anthony Stannard
 - [Ravindu Rashmin](https://github.com/ravindurashmin)
 - [Paul Mourer](https://github.com/pm0u)
 - [Tai Tan](https://github.com/ryotokuro)
+- [Jose Bravo](https://github.com/Mjavala)
 - [Sagar Utekar](https://github.com/Sagar2366)
 - [Demetrius Dasilva](https://github.com/demetrius99)
 - [Ellie Solorio](https://github.com/elliecodetheweb)
@@ -11305,4 +11306,3 @@ Anthony Stannard
 - [Puneeth PS] (https://github.com/puneethps)
 - [Shubham Atlani] (https://github.com/shubhamatlani)
 - [Nikhil Arya] (https://github.com/nikhilaryann)
-- [Jose Bravo] (https://github.com/Mjavala)
