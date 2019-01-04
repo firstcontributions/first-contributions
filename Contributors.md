@@ -11447,4 +11447,3 @@ Anthony Stannard
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
-
