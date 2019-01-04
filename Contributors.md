@@ -164,4 +164,4 @@ Kira
 - [Prerna Sony](https://github.com/prernasony)
 - [binkpitch](https://github.com/binkpitch)
 - [Sudeshana Ariyasena](https://github.com/sudeshana)
-- [Ashish Singh](https://github.com/ashishkumsingh)
+- [Ashish Singh @ ](https://github.com/ashishkumsingh)
