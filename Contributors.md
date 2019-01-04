@@ -328,6 +328,7 @@
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
+- [Utkrist P. Thapa]()
 - [Cindy Trowbridge](https://github.com/ctrowbridge)
 - [Patrik Wiklund]
 - [Samesh Lakhotia](https://github.com/sameshl)
