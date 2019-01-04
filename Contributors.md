@@ -10813,6 +10813,7 @@ Anthony Stannard
 - [David Wu](https://github.com/AmethystProductions)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia](https://github.com/Exvilia)
+- [Thulasi Rangan](https://github.com/thulasirangan)
 - [Lavanyareddyu5](https://github.com/Lavanyareddyu5)
 - [Matheus Bernardes](https://github.com/mbernardes19)
 - [Matt Murphy](https://github.com/MattMurphyDev)
