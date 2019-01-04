@@ -1,5 +1,6 @@
 # Contributors
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
+- [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
