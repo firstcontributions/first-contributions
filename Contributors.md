@@ -11488,3 +11488,4 @@ Anthony Stannard
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
 -[Nikhil K.](https://github.com/nk108)
+- [Aris Panagiotopoulos](https://github.com/aristeidys)
