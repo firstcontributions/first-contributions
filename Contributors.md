@@ -10336,6 +10336,7 @@
 - [David Wu](https://github.com/AmethystProductions)
 - [Xraycat](https://github.com/Xraycat)
 - [Exvilia](https://github.com/Exvilia)
+- [Thulasi Rangan](https://github.com/thulasirangan)
 - [Lavanyareddyu5](https://github.com/Lavanyareddyu5)
 - [Matheus Bernardes](https://github.com/mbernardes19)
 - [Matt Murphy](https://github.com/MattMurphyDev)
@@ -10829,4 +10830,3 @@
 - [Jangsea Park](https://github.com/jnsp)
 - [Erick Badilla] (https://github.com/Ebadillav27)
 - [Chris Atanasova](https://github.com/MonoChromeLight)
-- [Thulasi Rangan] (https://github.com/thulasirangan)
