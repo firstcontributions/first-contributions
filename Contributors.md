@@ -86,6 +86,7 @@ anuragkanade
 - [Sunrafan]
 - [Nhampy]
 - [AdityaB]
+- [Pankaj Kaushik](https://github.com/PankajKaushik78)
 - [Ritwik M]
 - [Sid K]
 - [ryandas]
