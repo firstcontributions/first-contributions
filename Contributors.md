@@ -10770,6 +10770,7 @@ Anthony Stannard
 - [Dakdot](https://github.com/Dakdot)
 - [Amitkumar](https://github.com/UltimateBrains)
 - [lisbert](https://github.com/lau626)
+- [Gabriel Rosa](https://github.com/gabrielsrosa)
 - [Jeremy Ruffell](https://github.com/JeremyRuffell)
 - [Julien Maitrehenry](https://github.com/jmaitrehenry)
 - [Harry Teo](https://github.com/harryTeo)
