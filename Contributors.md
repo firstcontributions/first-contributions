@@ -11,6 +11,7 @@
 - [Chas McLaughlin] (https://github.com/vv020633)
 Vaibhav Kaushal
 - [Jesse Lau]
+- [Amir Afrimian](https://github.com/amiraf)
 - [moti ben]
 - [Mukesh Kumar Maurya](https://github.com/mukeshmaurya91)
 - [Harsh]
