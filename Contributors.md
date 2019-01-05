@@ -14,6 +14,7 @@
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
+- [Sayan Mandal](https://github.com/sayanmandal)
 - Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
