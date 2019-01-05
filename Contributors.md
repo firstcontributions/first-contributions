@@ -10,6 +10,7 @@
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
 - [Tarun Raheja](https://github.com/tehruhn)
+- [Emmanuel](https://github.com/emmaunel)
 - [Daniel Bezerra](https://github.com/danielsbezerra)
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
