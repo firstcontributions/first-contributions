@@ -1411,6 +1411,7 @@ Nguyen Khoa
 - [Yash Goyal](https://github.com/ygyash)
 - [Twinkle](https://github.com/twinklenotna)
 - [laohanme](https://github.com/laohanme)
+- [Bud Welsh](https://github.com/Rockonian)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [Michelle Vivita](https://github.com/MichelleVivita)
 [Cody Cline] (https://github.com/CodyCline)
