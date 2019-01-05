@@ -2043,6 +2043,7 @@ Nguyen Khoa
 - [Mahesh](https://github.com/mforgaian)
 - [Jeremy Beising](https://github.com/jbeising)
 - [Chetan Nagarkar](https://github.com/cnagarkar)
+- [Christine Xiang](https://github.com/yutingcxiang)
 - [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jazz Loffredo](https://github.com/jazzloffredo)
