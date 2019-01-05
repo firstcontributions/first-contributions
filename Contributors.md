@@ -12,6 +12,7 @@
 - [Tarun Raheja](https://github.com/tehruhn)
 - [Emmanuel](https://github.com/emmaunel)
 - [Daniel Bezerra](https://github.com/danielsbezerra)
+- [Navya Garg] (https://github.com/navgarg)
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
