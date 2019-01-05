@@ -308,6 +308,7 @@
 - [Ville Pajala](https://github.com/ovipa017-xamk)
 - [Dalin Kim] (https://github.com/dalinkim)
 - [almyk](https://github.com/almyk)
+- [Daniel Woldegiorgis](https://github.com/ethioeph)
 - [Alin Pisica](https://github.com/alinp25)
 - [Osanda Deemantha Hemachandra](https://github.com/osandadeemantha)
 - [Ibrahim Lasisi](https://github.com/ilasisi)
