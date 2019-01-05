@@ -11498,3 +11498,4 @@ Anthony Stannard
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
 - [Kuncoro Yoko] (https://github.com/Zemhart)
+- [Shivam Rathore](https://github.com/rathore05)
