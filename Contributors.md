@@ -9694,6 +9694,7 @@ Bryan Romero
 - [Electric Keet](https://github.com/electrickeet)
 - [Rodrigo Chiong](https://github.com/Letsan)
 - [Yannick De Jonghe](https://github.com/yadejo)
+- [Phillip Hengemuhle](https://github.com/phengemuhle)
 - [Joshua Jarvis](https://github.come/bynarlogic)
 - [Rachna Pathak](https://github.com/rachnapathak)
 - [GammaWaves](https://github.com/GammaWaves)
