@@ -14,7 +14,7 @@
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
-- [Nitin Kumar Singh](https://github.com/vv020633)
+- [Nitin Kumar Singh](https://github.com/nitinitleen1)
 - [Sayan Mandal](https://github.com/sayanmandal)
 - Vaibhav Kaushal
 - Mi'Angel Pata
