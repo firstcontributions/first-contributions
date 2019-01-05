@@ -178,6 +178,7 @@
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
+- [Redwan Jemal](https://github.com/redime2)
 - [Lavanay Thakral] (https://github.com/MetalBaba98)
 - [Mejia Alan](https://github.com/meifius)
 - [Yixin Jiang](https://github.com/yixinj)
