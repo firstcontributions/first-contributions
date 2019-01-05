@@ -14,7 +14,11 @@
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
+<<<<<<< HEAD
 - [Nitin Kumar Singh](https://github.com/vv020633)
+=======
+- [Sayan Mandal](https://github.com/sayanmandal)
+>>>>>>> upstream/master
 - Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
@@ -11499,3 +11503,4 @@ Anthony Stannard
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
 - [Kuncoro Yoko] (https://github.com/Zemhart)
+- [Shivam Rathore](https://github.com/rathore05)
