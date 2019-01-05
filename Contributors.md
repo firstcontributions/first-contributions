@@ -319,6 +319,7 @@
 - [Alexander Kern](https://github.com/KernAlex)
 - [Felix Carlberg](https://github.com/Felix-Carlberg)
 - [Drew Bernard](https://github.com/drewbern)
+- [Ryan Brockhoff](https://github.com/rwbrockhoff)
 - [Prashanth Kandhuri](https://github.com/prashanth41)
 - [Kodesh Pupik](https://github.com/pupik1989)
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
