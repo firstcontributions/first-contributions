@@ -1,6 +1,6 @@
 
 # Contributors
-- [Christine Xiang](https://github.com/yutingcxiang/)
+
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [MC_Leut](https://github.com/MCLeut)
 - [Michael Robinson](https://github.com/NightFury20)
@@ -645,6 +645,7 @@ Edison Shek
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
 - [Chetan Nagarkar](https://github.com/cnagarkar)
+- [Christine Xiang](https://github.com/yutingcxiang)
 - [Enguerrand A.](https://github.com/AEnguerrand)
 - [Muznah Aftab](https://github.com/muznahaftab)
 - [Jazz Loffredo](https://github.com/jazzloffredo)
@@ -8698,3 +8699,4 @@ Orandi Harris
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
 - [empty] (https://github.com/carceri)
 - [Randy Wressell](https://github.com/randy5235)
+
