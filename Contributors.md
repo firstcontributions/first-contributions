@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
@@ -15,6 +15,7 @@
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
 - Vaibhav Kaushal
+- Mi'Angel Pata
 - [Jesse Lau]()
 - [Amir Afrimian](https://github.com/amiraf)
 - [moti ben]()
