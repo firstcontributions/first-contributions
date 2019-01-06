@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
@@ -77,6 +77,7 @@
 - [harold0416](https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
 - [Muhammad Haris]()
+- Andreas Hayer
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
