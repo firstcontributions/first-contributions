@@ -2016,6 +2016,7 @@ Nguyen Khoa
 - [Mladen Ristić](https://github.com/mladenristic1997)
 [geethya1995](https://github.com/geethya1995)
 - [Bill Tanthowi Jauhari](https://github.com/billxcode)
+- [webdevholland](https://github.com/webdevholland)
 - [Leon Dixon](https://github.com/LeonD1196)
 - [David C.](https://github.com/davidconoh)
 - [Karl von Klein](https://github.com/kvonklein)
