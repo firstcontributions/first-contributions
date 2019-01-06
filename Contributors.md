@@ -3,6 +3,7 @@
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
+- [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
