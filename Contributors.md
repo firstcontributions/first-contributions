@@ -5705,6 +5705,7 @@ Tanishq Gupta
 - [Douglas Feuser](https://github.com/Douglasfeuser)
 - [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
+- [Anmol Khanna]()
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 [Dylan Viranyi](https://github.com/viranyidylan)
 - [Daniel Osiney](https://github.com/dharnnie)
