@@ -359,6 +359,7 @@
 - [Joseph Gardin] (https://github.com/Josephasafg)
 - [Kazmuir Long]()
 - [Rafael Queiroz](https://github.com/rafael-mq)
+- [Dakota Kim](https://github.com/kotacodes)
 - [Swapnik Kota]
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
