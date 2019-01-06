@@ -5886,6 +5886,7 @@ Tanishq Gupta
 - [Asher Rosenberg](https://github.com/asherrose)
 - [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
+- [HydraPhoenix](https://github.com/HydraPhoenix)
 - [Tiffany Jao](https://github.com/tiffany-jao)
 - [Mudit Gurjar](https://github.com/mudit182)
 - [I Made Suparsana](https://github.com/suparsana21)
