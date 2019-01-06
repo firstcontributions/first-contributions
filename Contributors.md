@@ -6232,6 +6232,7 @@ Rohan Das
 - [Shinjanee Gupta](https://github.com/Shinjanee)
 - [Vikranth Kanumuru](https://github.com/highskillzz)
 - [Sukhada Kulkarni](https://github.com/Sukhada11)
+- [Dale Mallette](htttps://github.com/umdalema)
 - [bwbuhse](https://github.com/bwbuhse)
 - [Karolin Thunman](https://github.com/Kath-1)
 - [Aditya Khursale](https://github.com/AdityaKhursale)
