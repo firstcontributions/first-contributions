@@ -19,6 +19,7 @@
 - [Chas McLaughlin](https://github.com/vv020633)
 - [Sayan Mandal](https://github.com/sayanmandal)
 - [Akram] (https://github.com/zezooli)
+- [Justin Tromp](https://github.com/trompj)
 - Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
