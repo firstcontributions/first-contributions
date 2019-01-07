@@ -429,7 +429,7 @@
 - [Binoy Udayan](https://github.com/binoyudayan)
 - [Ckyever G](https://github.com/Hycroth)
 - [Justin Jones] (https://github.com/jjones1983)
-Aniket Bachate 
+Aniket Bachate
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
@@ -11525,3 +11525,4 @@ Anthony Stannard
 - [Shivam Rathore](https://github.com/rathore05)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Sean Donnellan] (https://github.com/seandonnellan)
+- [Ramsay Sewell] (https://github.com/ramsaysewell)
