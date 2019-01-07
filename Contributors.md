@@ -6967,6 +6967,7 @@ Rohan Das
 - [Matt Wilson](https://github.com/mattwilson1024)
 - [Greg Ball](https://github.com/Madball73)
 - [Sarah Crabtrey](https://github.com/sec4790)
+- [Maygun Chen] (https://github.com/maygnificent)
 - [Uxmal Cuellar](https://github.com/UxmalCuellar)
 - [Melvin Viana](https://github.com/Melvino5)
 - [Arif Mafazan Simohartono](https://github.com/mafazans)
