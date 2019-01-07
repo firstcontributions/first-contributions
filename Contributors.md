@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
@@ -60,6 +60,7 @@
 - [Patrick Demers](https://github.com/patrickdemers6)
 - [Srilekha Talluri](https://github.com/Srilekha26)
 - [Daniel Li](https://github.com/dan9710li)
+- [Edwin Diaz] (https://github.com/dne-0)
 - [Janet Gordon](https://github.com/GamergirlJ)
   [Kamaljot Saini](https://github.com/unsafeartist)
 - [rodegrafika](https://github.com/Rodegrafika)
