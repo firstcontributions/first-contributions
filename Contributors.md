@@ -429,6 +429,7 @@
 - [Binoy Udayan](https://github.com/binoyudayan)
 - [Ckyever G](https://github.com/Hycroth)
 - [Justin Jones] (https://github.com/jjones1983)
+Aniket Bachate 
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
