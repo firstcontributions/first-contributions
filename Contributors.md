@@ -7,6 +7,7 @@
 - [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
+- [Jaouhari Youssef](https://github.com/jaouhary)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
