@@ -1,4 +1,4 @@
-# Contributors
+﻿ontributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Erik T](https://github.com/Etomer)
 - [Jowensky Neard] (https://github.com/Jowensky)
@@ -99,6 +99,7 @@
 - [fabbellotti]()
 - [David Tran](https://github.com/dhtran91/)
 - [Derek Cardwell](https://github.com/siestacardwell)
+- [Deepak Thapa](https://github.com/dtsuper3)
 - [hh534]()
 - [Safura]()
 - [mattv611]()
