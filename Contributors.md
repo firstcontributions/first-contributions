@@ -19,8 +19,9 @@
 - [technoknol](https://github.com/technoknol)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
+- [Muna Ali](https://githib.com/Muna107)
 - [Sayan Mandal](https://github.com/sayanmandal)
-- [Akram] (https://github.com/zezooli)
+- [Akram](https://github.com/zezooli)
 - [Justin Tromp](https://github.com/trompj)
 - Vaibhav Kaushal
 - Mi'Angel Pata
