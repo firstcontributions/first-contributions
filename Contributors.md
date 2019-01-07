@@ -11493,6 +11493,7 @@ Anthony Stannard
 - [Claire Wright](https://github.com/ccannawright)
 - [Srishti]()
 - [Erik Hsu](https://github.com/erikhsu)
+- [Jessica Dai]()
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
