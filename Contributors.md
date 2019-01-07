@@ -11531,3 +11531,4 @@ Anthony Stannard
 - [Sean Donnellan] (https://github.com/seandonnellan)
 - [Ramsay Sewell] (https://github.com/ramsaysewell)
 - [Philip Cosentino (https://github.com/pcbootsy)
+- [jhavn] (https://github.com/jhavn)
