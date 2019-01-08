@@ -1,4 +1,5 @@
 # Contributors
+- [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
