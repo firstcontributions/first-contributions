@@ -9119,6 +9119,7 @@ Mayank Bansal
 - [David Cid](https://github.com/davidcid)
 - [sriranjani](https://github.com/sriran)
 - ynobry
+- [Shreya Singh](https://github.com/shreyamsingh)
 - [Pankaj](https://github.com/pankajsy)
 - [jmcintyre1](https://github.com/jmcintyre1)
 - [joerho](https://github.com/joerho)
