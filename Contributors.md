@@ -11522,6 +11522,7 @@ Anthony Stannard
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
+- [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
