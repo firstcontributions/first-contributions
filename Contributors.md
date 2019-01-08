@@ -8885,6 +8885,7 @@ Mayank Bansal
 - [Peter Yan](https://github.com/yanlinchengrui)
 - [Vedabrat Etwaru](https://github.com/vedabrat)
 - [Tao Shen](https://github.com/pyshen)
+- [John Chu](https://github.com/twmphoto)
 - [Akshay Nuthala](https://github.com/akkio-97)
 - [Agung Kurniawan](https://github.com/agungsid)
 - [Shehan Pathirathne](https://github.com/shehanpathi)
