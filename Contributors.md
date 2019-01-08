@@ -33,6 +33,7 @@
 - [Mukesh Kumar Maurya](https://github.com/mukeshmaurya91)
 - [Alex Lai](https://github.com/laialex501)
 - [Harsh]()
+- [Dipesh Guria](https://github.com/gidipesh)
 - [Wandji Collins](https://github.com/Wandji69)
 - [Anthony Guillier](https://github.com/theMonarK)
 - [Yıldırım TAM](https://github.com/ytam)
