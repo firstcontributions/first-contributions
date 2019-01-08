@@ -13,6 +13,7 @@
 - [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
+- [Zecheng Wu](https://github.com/Wzc2016)
 - [Jaouhari Youssef](https://github.com/jaouhary)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
