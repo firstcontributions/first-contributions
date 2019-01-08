@@ -504,6 +504,7 @@ Aniket Bachate
 - [Emily Yang](https://github.com/emilyyz92)
 - [Collins Kelechi](https://github.com/collinskelechi)
 - [Jack Holsgrove](https://github.com/jackholsgrove)
+- [Maxwell Chen](https://github.com/maxhchen)
 - [Benoît Gelineau](https://github.com/benoitgelineau)
 - [Bicky Eric Kantona](https://github.com/bickyeric)
 - [Ranjani Ramesh](https://github.com/ranju117)
