@@ -11482,6 +11482,7 @@ Anthony Stannard
 - [Filipe Pinato](https://github.com/tiofih)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
+- [Daneel Rakow](https://github.com/daneelrakow)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
