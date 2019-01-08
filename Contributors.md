@@ -1122,6 +1122,7 @@ Nguyen Khoa
 - [SH Shin](https://github.com/sshplendid)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
 - [Jai Prakash](https://github.com/last-stand)
+- [Josh Fung](https://github.com/custom-status-message)
 - [Jon Taylor](https://github.com/jontaylor224)
 - Duwayne the rock Johnson
 - [Aditya Prakash](https://github.com/adityaprakash-bobby)
