@@ -5,6 +5,7 @@
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
 -[Neeraj Singh](https://github.com/GrayR00t)
+- [Lisa Hunt] (https://github.com/GeckoLisa)
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
