@@ -15,6 +15,7 @@
 - [Darren Kwong](https://github.com/DeeVine)
 - [Zecheng Wu](https://github.com/Wzc2016)
 - [Jaouhari Youssef](https://github.com/jaouhary)
+- [Sharik Shaikh](https://github.com/sharik709)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
