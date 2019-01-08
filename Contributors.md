@@ -11122,6 +11122,7 @@ Anthony Stannard
 - [marionik23](https://github.com/marionik23/)
 - [Philipp Erck](https://github.com/philerck/)
 - [Anshuman Mishra](https://github.com/anshuman94)
+- [Benjamin Virieux](https://github.com/Benjamin1992)
 - [Dotzero](https://github.com/dotzero/)
 - [Kenny Hong](https://github.com/kennyhong)
 - [Matt Chaffe](https://github.com/Mattchewone)
@@ -11477,4 +11478,3 @@ Anthony Stannard
 - [Davi Pessanha](https://github.com/dpessanha/)
 - [John Lin](https://github.com/jlin22)
 - [Miguel Vellasco](https://github.com/mvellasco)
-- [Benjamin Virieux](https://github.com/Benjamin1992)
