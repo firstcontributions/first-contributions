@@ -265,6 +265,7 @@
 - [Balaji Ashok Kumar](https://github.com/dynamicbalaji)
 - [Devvara Rishivian](https://github.com/devararishivian)
 - [Jacqueline Bruen](https://github.com/jebruen)
+- [Johny Hoffman](https://github.com/eclecticjohny)
 - [Mike Schulenberg] (https://github.com/MikeSchulenberg)
 - [Saad Alnour](https://github.com/SaadAlnour)
 - [Timothy Virgil Payne Jr.](https://github.com/TimothyVirgil)
