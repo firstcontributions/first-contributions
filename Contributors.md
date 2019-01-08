@@ -24,6 +24,7 @@
 - [Sayan Mandal](https://github.com/sayanmandal)
 - [Akram] (https://github.com/zezooli)
 - [Justin Tromp](https://github.com/trompj)
+- [Spiros Eleana](https://github.com/SpirosKontolatis)
 - Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
