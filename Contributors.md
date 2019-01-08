@@ -3385,7 +3385,7 @@ Nguyen Khoa
 - [Ryan Abney](https://github.com/rcabney)
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
-Animesh Bhagwat
+- [Animesh Bhagwat](https://github.com/animeshbhagwat)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
 - [Kiyas](https://github.com/kiyas)
 - [Ananya Keshari](https://github.com/ana301)
