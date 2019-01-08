@@ -1,5 +1,6 @@
 # Contributors
 - [Joshua Arabia](https://github.com/arabiajosh)
+- [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
