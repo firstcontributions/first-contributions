@@ -1644,6 +1644,7 @@ Nguyen Khoa
 - [Rahul Kumar](https://github.com/rik-96)
 - [Diógenes Dauster](https://github.com/diogenesdauster)
 - [Nemanja Jeremić](https://github.com/nemanjajeremic)
+- [Marjana Hrašovec](https://github.com/masahx)
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Ekansh Gupta](https://github.com/Ekansh-01)
 - [Michael Kaskun](https://github.com/QwerMike)
