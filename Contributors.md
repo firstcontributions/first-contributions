@@ -24,6 +24,7 @@
 - [Jaouhari Youssef](https://github.com/jaouhary)
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
+- [Sébastien Caunois] (https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
