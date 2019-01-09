@@ -29,6 +29,7 @@
 | 🇮🇹 | [Italiano](README.it.md)
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
+| 🇳🇵 | [नेपाली](README.np.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
 | 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
@@ -40,6 +41,7 @@
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇰🇿 | [Қазақша](README.kz.md) |
 | 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
 | 🇰🇪 | [Kiswahili (Kenya)](README.zul.md) |
