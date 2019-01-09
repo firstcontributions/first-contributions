@@ -1,5 +1,5 @@
 # Contributors
-- [Satyam Singh](hhtps://github.com/satyam0107)
+
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Harrison Wilde](https://github.com/HarrisonWilde)
@@ -356,6 +356,7 @@
 - [Alwathiqubellah Abumaali](https://github.com/wathiqabumaali)
 - [NivethSaran](https://github.com/nivethsaran)
 - [Glenn Halstead](https://github.com/glennh)
+- [Satyam Singh](hhtps://github.com/satyam0107)
 - [Gabriel Fuentes](https://github.com/Helper2020)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
 - [Chandana Kithalagama](https://github.com/ckit)
