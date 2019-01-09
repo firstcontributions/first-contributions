@@ -55,6 +55,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [vn](translations/README.vn.md)
+[🇵🇭](translations/README.tl.md)
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
