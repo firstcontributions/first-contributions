@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Abiral Khanal](https://github.com/abir4l)
@@ -11570,6 +11570,7 @@ Bryan Romero
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
+- [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
 - [Miguel Vellasco](https://github.com/mvellasco)
