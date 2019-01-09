@@ -26,6 +26,7 @@ jigyasa
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
 - [Tarun Raheja](https://github.com/tehruhn)
 - [Emmanuel](https://github.com/emmaunel)
+- [pravindran] (https://github.com/Pravindran)
 - [Daniel Bezerra](https://github.com/danielsbezerra)
 - [Navya Garg](https://github.com/navgarg)
 - [technoknol](https://github.com/technoknol)
