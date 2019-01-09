@@ -15,6 +15,7 @@
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Wilfredo Ruiz](https://github.com/wruiz8891)
+- [Saptarshi Banerjee](https://github.com/saptarshi98)
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
 - [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
