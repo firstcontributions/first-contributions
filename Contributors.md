@@ -10965,6 +10965,7 @@ Anthony Stannard
 - [Detinho](https://github.com/detinho)
 - [Igor Barato](https://github.com/igorbarato)
 - [Manoela Reis](https://github.com/manoela-reis)
+- [Annapoorna Somayaji](https://github.com/annusomayaji)
 - [Danilo 09](https://github.com/danilo09)
 - [Vinicio Santos](https://github.com/VinicioSantos)
 - [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
