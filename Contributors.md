@@ -931,6 +931,7 @@
 - [Garrett Rudisill](https://github.com/dak0ta907)
 - [Naman Kapoor](https://github.com/naman-kapoor)
 - [madza](https://github.com/madarsbiss)
+- [zecollokaris](https://github.com/zecollokaris)
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Vimukthi Bandara](https://github.com/breezage)
 - [Jovan Kelly](http://github.com/kellyjovan)
