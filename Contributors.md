@@ -71,6 +71,7 @@ jigyasa
 - [Satvik Dev](https://github.com/kivtas)
 - [Jan Wright](https://github.com/janwright73)
 - [Lir Segev]()
+- [Evan Ho] (https://github.com/evanho9)
 - [Shashank Mishra](https://github.com/lousyidiot)
 - [Graham Kesley](https://github.com/PlutoniumProphet)
 - [Shyngyskhan Abilkassov](https://github.com/kurshakuz)
