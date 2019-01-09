@@ -1,7 +1,6 @@
 ﻿# Contributors
 - [Rio804]
 - [Warren]
-- [rvigil24](https://github.com/rvigil24)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
 - [Blessing Mutava](https://github.com/MaKloudz)
@@ -546,6 +545,7 @@
 - [Frank Silver](https://github.com/FrankSilver)
 - [Abhishek Bhattacharya](https://github.com/AbhishekBhattacharya)
 - [Mayank](https://github.com/mayank-2016)
+- [rvigil24](https://github.com/rvigil24)
 - [shanmuga sudan](https://github.com/ShanmugasudanVeerabahu)
 - [jokri](https://github.com/jokri)
 - [Muhsin.K](https://github.com/muhzi4u)
