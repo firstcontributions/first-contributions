@@ -10,6 +10,7 @@
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
+- [KJ Schmidt](https://github.com/kjschmidt913)
 - [Neeraj Singh](https://github.com/GrayR00t)
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [Jowensky Neard](https://github.com/Jowensky)
