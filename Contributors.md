@@ -8169,6 +8169,7 @@ Mayank Bansal
 - [Jake Wags](https://github.com/JakeWags)
 - [Eamonn Daley](https://github.com/edaley5177)
 - [Eddy Martinez](https://github.com/Eddymh)
+- [Michael Swanson](https://github.com/mswanson-me)
 - [Vladut Muresan](https://github.com/yoomury)
 - [Ericsupreme](https://github.com/ericsupreme)
 - [Jazilch](https://github.com/Jazilch)
