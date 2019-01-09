@@ -22,6 +22,7 @@
 - [Darren Kwong](https://github.com/DeeVine)
 - [Zecheng Wu](https://github.com/Wzc2016)
 - [Jaouhari Youssef](https://github.com/jaouhary)
+- [Ryan Foss](https://github.com/rfoss92/)
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois] (https://github.com/scaunois)
