@@ -1,6 +1,7 @@
 # Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 jigyasa
+- [Abiral Khanal](https://github.com/abir4l)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [Soham Zemse](https://github.com/zemse)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
