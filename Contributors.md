@@ -45,7 +45,8 @@
 - [Akram](https://github.com/zezooli)
 - [Justin Tromp](https://github.com/trompj)
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
-- Vaibhav Kaushal
+- [Laura Fiuza](https://github.com/laurafiuza)
+ Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Francisco Vargas](https://github.com/fjvarg4k)
