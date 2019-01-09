@@ -9928,6 +9928,7 @@ Bryan Romero
 - [Tunap Paul](https://github.com/tunap)
 - [Yudi Tao](https://github.com/Dooomino)
 - [John Rob](https://github.com/johnalphared)
+- [Connor] (https://github.com/connord06)
 - [Joseph Fanous](https://github.com/GoogleDownload)
 - [Johny Depp](https://github.com/ompandey)
 - [Aditya Choudhary](https://github.com/adich23)
