@@ -927,6 +927,7 @@ Nguyen Khoa
 - [jamescalixto](https://github.com/jamescalixto)
 - [Sarah McCue](https://github.com/SarahMcQ)
 - [Eduardo Castellanos](https://github.com/ECastellanos92)
+- [Garrett Rudisill](https://github.com/dak0ta907)
 - [Naman Kapoor](https://github.com/naman-kapoor)
 - [madza](https://github.com/madarsbiss)
 - [Krish Kunal](https://github.com/krish-kunal)
