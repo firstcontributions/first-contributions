@@ -1950,6 +1950,7 @@
 - [Max Weber](https://github.com/MyracleDesign)
 - [Omniyyah Yahya](https://github.com/Omnyyah)
 - [Russell Claxton](https://github.com/russellc92)
+- Mehk Bilal
 - [Haoda Wang](https://github.com/h313)
 - [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
