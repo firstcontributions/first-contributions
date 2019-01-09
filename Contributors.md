@@ -11560,3 +11560,4 @@ Anthony Stannard
 - [yasnogor](https://github.com/yasnogor)
 - [newguy](https://github.com/puneepth)
 - [Jacqueline Espinoza](https://github.com/JacquelineEspinoza)
+- [Pietro Falco](https://github.com/flcpietro)
