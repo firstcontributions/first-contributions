@@ -89,6 +89,7 @@
 - [Srilekha Talluri](https://github.com/Srilekha26)
 - [Daniel Li](https://github.com/dan9710li)
 - [Edwin Diaz](https://github.com/dne-0)
+- [CHAITANYA REDDY](https://github.com/lvrchaitanya)
 - [Janet Gordon](https://github.com/GamergirlJ)
   [Kamaljot Saini](https://github.com/unsafeartist)
 - [rodegrafika](https://github.com/Rodegrafika)
