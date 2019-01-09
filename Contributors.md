@@ -216,6 +216,7 @@ jigyasa
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
 - [Prasen Shakya](https://github.com/shakyaprasen)
+- [Charlotte Shreve](https://github.com/ceshreve)
 - [Kehan Bao](https://github.com/keybao0863)
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
