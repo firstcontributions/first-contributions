@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Abiral Khanal](https://github.com/abir4l)
@@ -11595,4 +11595,5 @@ Bryan Romero
 - [xing](https://github.com/chuanyuxing)
 - [Aiya Yegenberdiyeva](https://github.com/ayegnb)
 - [aetenotnk](https://github.com/aetenotnk)
+- [Lam Tran] (https://github.com/Lam7150)
 -_[Tyler Pearson](https://github.com/tap1994)
