@@ -5302,7 +5302,6 @@
 - [Matheus Lucena](https://github.com/matehuslucena)
 - [Galleria](https://github.com/Galleria)
 - [Fabio Leardini](https://github.com/fabioleardini)
-- [pbhudiaBAE](https://github.com/pbhudiaBAE)
 - [Kirill Motkov](https://github.com/sosiska)
 - [Kevin Asuncion](https://github.com/KevinAsuncion)
 - [AJ Berman](https://github.com/AlexanderAJBerman)
