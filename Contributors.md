@@ -10532,6 +10532,7 @@ Anthony Stannard
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
 - [Quan Yang Yeo](https://github.com/quanyang)
+- [Tassiano Alencar](https://github.com/tassianoalencar)
 - [Kevin-Ziechmann](https://github.com/kziechmann/)
 - [Dipak Yadav](https://github.com/dipakyadav)
 - [Dean Janzen](https://github.com/zendmaster)
@@ -11114,4 +11115,3 @@ Anthony Stannard
 - [Richard Kiernan] (https://github.com/richkmtb)
 - [efmz] (https://github.com/efmz)
 - [Andrew Gidney] (https://github.com/BlueLED)
-- [Tassiano Alencar] (https://github.com/tassianoalencar)
