@@ -10934,6 +10934,7 @@ Bryan Romero
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Ayoola Akindolani](https://github.com/dolani)
 - [Crewsy](https://github.com/crewsycrews)
+- [Holden Smith](https://github.com/Freeze)
 - [Ian Korpi](https://github.com/iankorpi)
 - [Shahnur](https://github.com/sisgandarli)
 - [kit0t0yu](https://github.com/kit0t0yu)
