@@ -9404,6 +9404,7 @@ Rohan Das
 - [Nicolas Stefoni](https://github.com/nstefoni/)
 - [Vadim Pashaev](https://github.com/vmp)
 - [Dimo Ivanov](https://github.com/divanoff)
+- [Abegail Isidro](https://github.com/chabbyabe)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
 - [IacobIonut](https://github.com/IacobIonut01)
@@ -9862,5 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Abegail Isidro](https://github.com/chabbyabe)
-
