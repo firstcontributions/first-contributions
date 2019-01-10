@@ -61,6 +61,7 @@
 - [Dipesh Guria](https://github.com/gidipesh)
 - [Wandji Collins](https://github.com/Wandji69)
 - [Anthony Guillier](https://github.com/theMonarK)
+- [Jamie Walker](https://github.com/KR1Z00)
 - [Yıldırım TAM](https://github.com/ytam)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
