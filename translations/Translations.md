@@ -41,3 +41,8 @@
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇰🇿 | [Қазақша](README.kz.md) |
+| 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
+| 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
+| 🇰🇪 | [Kiswahili (Kenya)](README.zul.md) |
+| 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
