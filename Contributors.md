@@ -727,6 +727,7 @@
 - SenhorN
 - kalpa wijesooriya
 - Explorer3991
+- [Ryan Ritchie](https://github.com/punkrockwarlock)
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
