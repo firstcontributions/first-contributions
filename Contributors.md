@@ -8180,6 +8180,7 @@ Orandi Harris
 - [Giancarlo Giuffra Moncayo](https://github.com/giancarloGiuffra)
 - [Himanshu Sah](https://github.com/himanshusah)
 - [Chris Srance](https://github.com/csprance)
+- [CalmCat](https://github.com/tianfr)
 - [Nicole Moore](https://github.com/Angelfirenze01)
 - [ZWTan](https://github.com/zwtan)
 - [sohanian](https://github.com/sohanian)
@@ -8570,4 +8571,3 @@ Orandi Harris
 - [gnsJhenJie](https://github.com/gnsJhenJie/)
 - [Jongkook](https://github.com/conquerex)
 - [Xanderdwyl](https://github.com/XanderDwyl)
-- [CalmCat](https://github.com/tianfr)
