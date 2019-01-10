@@ -8228,6 +8228,7 @@ Orandi Harris
 - [Alena Anog](https://github.com/alenanog)
 - [José Lucas](https://github.com/lukpod1)
 - [Asim Subedi](https://github.com/asimsubedi)
+- [Muhammed Kılıç](https://github.com/kiliczsh)
 - [SADIK KUZU](https://github.com/sadikkuzu)
 - [Christiawan Eko](https://github.com/christiawaneko)
 - [vinayatekale](https://github.com/vinayatekale)
@@ -8660,6 +8661,4 @@ Orandi Harris
 - [Carlos Alberto Graniel Córdova](https://github.com/graco911)
 - [Helder Goncalves](https://github.com/helderhacks)
 - [Ören Aksakal](https://github.com/orenaksakal)
-- [Muhammed Kılıç](https://github.com/kiliczsh)
-
 
