@@ -10744,6 +10744,7 @@ Bryan Romero
 - [Nicolas Stefoni](https://github.com/nstefoni/)
 - [Vadim Pashaev](https://github.com/vmp)
 - [Dimo Ivanov](https://github.com/divanoff)
+- [Abegail Isidro](https://github.com/chabbyabe)
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
 - [IacobIonut](https://github.com/IacobIonut01)
