@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Abiral Khanal](https://github.com/abir4l)
@@ -2341,6 +2341,7 @@
 - [Rockwell Shabani](https://github.com/Rockwell70)
 - [Hayden Sykes](https://github.com/hasykes)
 - [Ana Carolina D Ferreira](https://github.com/anacdf)
+- [Antonio D Navarro](https://github.com/Azure7x)
 - [balaram2](https://github.com/balaram2/)
 - [Aditya](https://github.com/aditya)
 - [Nitish Pant](https://github.com/nitishpt)
