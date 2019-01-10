@@ -8730,6 +8730,7 @@
 - [naveen kalanajith](https://github.com/Naveenkalanjith)
 - [Paco Banegas](https://github.com/pbanegas)
 - [Bryan Austyn Ichsan](https://github.com/Sambas231)
+- [Samuel Harbord](https://github.com/samuel-harbord)
 - [Ahsan Yousaf](https://github.com/sheikhahsan)
 - [Andy Kenny](https://github.com/askenny)
 - [Amit Levy](https://github.com/amitlevy21)
