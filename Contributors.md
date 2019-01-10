@@ -31,6 +31,7 @@
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
 - [Max Zhang](https://github.com/maxpluez)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
+- [Dimitris Sidiropoulos](https://github.com/Mitsaras1991)
 - [Tarun Raheja](https://github.com/tehruhn)
 - [Emmanuel](https://github.com/emmaunel)
 - [pravindran](https://github.com/Pravindran)
