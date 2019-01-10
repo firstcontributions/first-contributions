@@ -11599,3 +11599,4 @@ Bryan Romero
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran] (https://github.com/Lam7150)
 -_[Tyler Pearson](https://github.com/tap1994)
+- [Allentine Paulis](https://github.com/rainbowmoonlight)
