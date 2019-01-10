@@ -3141,6 +3141,7 @@
 - [Igor Strapko](https://github.com/igorstrapko/)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Tyrell Roberts](https://github.com/TyrellR7872)
+- [Sanya Swain](https://github.com/sanyaswain)
 - [Ayush Goyal](https://github.com/ayushggoyal)
 - [Ian Sapp](https://github.com/FourthMeal128)
 - [Ross Heaney](https://github.com/ross39)
