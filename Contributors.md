@@ -29,6 +29,7 @@
 - [Sébastien Caunois] (https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
+- [Max Zhang](https://github.com/maxpluez)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
 - [Tarun Raheja](https://github.com/tehruhn)
 - [Emmanuel](https://github.com/emmaunel)
