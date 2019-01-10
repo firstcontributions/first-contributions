@@ -703,7 +703,7 @@
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dede Hamzah](https://github.com/dehamzah)
 - [Arohan](https://github.com/arohan007)
-- [mnaga6]  
+- [mnaga6]
 - Daniel Dantas
 - [Rizwan](https://github.com/rsz)
 - [Richard Kim](https://github.com/richardskim111)
@@ -11612,3 +11612,4 @@ Bryan Romero
 - [Lam Tran] (https://github.com/Lam7150)
 -_[Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
+- [Michał Domarus](https://github.com/mdomarus)
