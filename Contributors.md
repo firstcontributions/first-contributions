@@ -11597,6 +11597,7 @@ Bryan Romero
 - [Sean Donnellan](https://github.com/seandonnellan)
 - [Ramsay Sewell](https://github.com/ramsaysewell)
 - [Philip Cosentino](https://github.com/pcbootsy)
+- [jo](https://github.com/folde01)
 - [jhavn](https://github.com/jhavn)
 - [yasnogor](https://github.com/yasnogor)
 - [newguy](https://github.com/puneepth)
