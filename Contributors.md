@@ -9554,6 +9554,7 @@ Rohan Das
 - [Steffen Brandsborg](https://github.com/sbrandsborg)
 - [Ayoola Akindolani](https://github.com/dolani)
 - [Crewsy](https://github.com/crewsycrews)
+- [Holden Smith](https://github.com/Freeze)
 - [Ian Korpi](https://github.com/iankorpi)
 - [Shahnur](https://github.com/sisgandarli)
 - [kit0t0yu](https://github.com/kit0t0yu)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Holden Smith](https://github.com/Freeze)
