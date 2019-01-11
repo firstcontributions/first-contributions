@@ -9470,6 +9470,7 @@ Rohan Das
 - [Chirag Shetty](https://github.com/nurdtechie98)
 - [segao](https://github.com/segao)
 - [Anand P](https://github.com/anandpaithankar)
+- [Vivek Gehlot](https://github.com/vivekgehlot)
 - [Vikrant Srivastava](https://github.com/srivkrnt)
 - [Connor Dowson]()
 - [Josh Cavinder](https://github.com/josh-cavinder)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Vivek Gehlot](https://github.com/vivekgehlot)
