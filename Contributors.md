@@ -532,6 +532,7 @@
 - [Mohamed Ahmed]()
 - [Aswin Nair](https://github.com/aswintorch)
 - [Anastas Radosavljevic](https://github.com/anastasrado)
+- [Hamed Diakite] (https://github.com/hdkid7/)
 - [Vladimir Tretyak](https://github.com/tretyakvl);
 - [Leon Liang](https://github.com/leonliang0395)
 - [Travis Virgil](https://github.com/virgilt)
