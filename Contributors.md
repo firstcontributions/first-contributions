@@ -11625,3 +11625,4 @@ Bryan Romero
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
 - [jkhhuse](https://github.com/jkhhuse)
+- [Faraz Akbari] (https//github.com/farazz0)
