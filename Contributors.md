@@ -132,6 +132,7 @@
 - [Johira Afzali](https://github.com/joafz)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [IndominusRexx]()
+- [Panagiotis Papapanagiotou](https://github.com/fOURP92)
 - [John Bidinger](https://github.com/johnbidinger)
 - [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
