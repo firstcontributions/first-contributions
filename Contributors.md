@@ -11614,3 +11614,4 @@ Bryan Romero
 -_[Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
+- [Masataka Sakai](https://github.com/skimstk)
