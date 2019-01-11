@@ -18,6 +18,7 @@
 - [Wilfredo Ruiz](https://github.com/wruiz8891)
 - [Saptarshi Banerjee](https://github.com/saptarshi98)
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
+- [Ian McClerin] (https://github.com/dejaviewdujour)
 - [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
