@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Shaun Trapp](https://github.com/TheK3yMaster)
