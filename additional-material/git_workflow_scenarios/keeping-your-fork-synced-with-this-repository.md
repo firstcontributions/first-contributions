@@ -4,7 +4,7 @@ First, the flow for a full sync should be understood, which is important. In thi
 
 <img style="float;" src="../../assets/triangle_workflow.png" alt="triangle workflow" />
 
-To keep your two repos up-to-date with my public repo, so first we have to  fetch and merge the public repo with your local machine's repo.
+To keep your two repos up-to-date with my public repo, we first have to fetch and merge the public repo with your local machine's repo.
 Our second move will be to push your local repo to your GitHub fork. As you've seen earlier, it's only from your fork that you can ask for a "pull request". So your GitHub fork is the last repo to be updated.
 
 Now, let's see how to do it:
