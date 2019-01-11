@@ -498,6 +498,7 @@
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
 - [Nick Varacalli](https://hithub.com/NickVaracalli)
 - [Prashant Ahuja](https://github.com/bawablacksheep)
+- [Lucas Eduardo](https://github.com/lucaszcode)
 - [Simon Plaistowe](https://github.com/plaistos)
 - [Scot Newbury](https://github.com/scotnewbury)
 - [Alexsander Ramos da Silva](https://github.com/alexsilvar)
