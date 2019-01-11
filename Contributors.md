@@ -107,6 +107,7 @@
 - [daniel9a](https://github.com/daniel9a)
 - [LucaBlightRoyal](https://github.com/hide85x)
 - [Brian Eichenberger](https://github.com/ike76)
+- [Oleksii Savchenko](https://github.com/savchenkolex)
 - [yogeshJilhawar](https://github.com/yogesh9391)
 - [Christopher Jensen](https://github.com/cajen)
 - anuragkanade
