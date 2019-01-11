@@ -11639,3 +11639,4 @@ Bryan Romero
 - [Carlos Castro](https://github.com/zero4994)
 - [jkhhuse](https://github.com/jkhhuse)
 - [HyeonMyeong Seo](https://github.com/SeoHyeonMyeong)
+- [David Fernández](https://github.com/davidfdezalcoba)
