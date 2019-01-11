@@ -11334,6 +11334,7 @@ Bryan Romero
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
+- [Rodrigo Girão](https://github.com/rodrigogirao)
 - [Felix He](https://github.com/felhe)
 - [Yarka Lyba](https://github.com/yarkalyba)
 - [Deepak](https://github.com/deepak1418)
