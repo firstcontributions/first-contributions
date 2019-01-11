@@ -10331,6 +10331,7 @@
 - [Ghatage](https://github.com/Ghatage)
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Bartek Slowik](http://bartek.slowik.cc/)
+- [Trewit Deshasareephanich](https://github.com/Nothz)
 - [Paulius Gerve](https://github.com/pauliusbaulius)
 - [Felipe Ruivo](https://github.com/vikingruivo)
 - [Cleiton Tavares](https://github.com/cleiton-tavares)
@@ -10741,4 +10742,3 @@
 - [Lorenzo Arena](https://github.com/lorenzo-arena) 
 - [Oliver Shenton] (https://github.com/OliShenton)
 - [Yusuke Honda](https://github.com/yyh-gl)
-- [Trewit Deshasareephanich](https://github.com/Nothz)
