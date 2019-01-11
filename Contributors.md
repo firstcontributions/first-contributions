@@ -3,6 +3,7 @@
 - jigyasa
 - [Edward Passagi](https://github.com/edwardpassagi)
 - [Abiral Khanal](https://github.com/abir4l)
+- [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
 - [Soham Zemse](https://github.com/zemse)
