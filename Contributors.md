@@ -4821,6 +4821,7 @@
 - [Thiago Brasil](https://github.com/tchaguitos)
 - [Marcos Wesley](https://github.com/Marcos314)
 - [Leonardo Pedreira](https://github.com/leopedreira)
+- [Rúben Lopes](https://github.com/benmpl)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull](https://github.com/bahull)
 - [Rudy Olsson](https://github.com/rudyolsson)
