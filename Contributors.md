@@ -6457,6 +6457,7 @@
 - [Ali Adel](https://github.com/ali-adel)
 - [Quoc Nguyen](https://github.com/qngn93)
 - [Kiyun](https://github.com/kiyunkim)
+- [Toshiya Sasaki](http://github.com/toshyss)
 - [Lauren Clifford](https://github.com/lmclifford89)
 - [Elena Yatzeck](https://github.com/eyatzeck)
 - [Joe B.](https://github.com/bonez0607/first-contributions)
