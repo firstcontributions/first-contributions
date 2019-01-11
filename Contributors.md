@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Shaun Trapp](https://github.com/TheK3yMaster)
@@ -11630,3 +11630,4 @@ Bryan Romero
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
 - [jkhhuse](https://github.com/jkhhuse)
+- [HyeonMyeong Seo](https://github.com/SeoHyeonMyeong)
