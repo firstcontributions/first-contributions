@@ -11614,3 +11614,4 @@ Bryan Romero
 -_[Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
+- [Carlos Castro](https://github.com/zero4994)
