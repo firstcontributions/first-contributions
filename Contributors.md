@@ -11421,6 +11421,7 @@ Bryan Romero
 - [William Washington](https://github.com/willWashington)
 - [Nils Fedrigo](https://github.com/NilsFedrigo)
 - [Paladorn](https://github.com/Paladorn)
+- [Faraz Akbari](https//github.com/farazz0)
 - [Lucas Akira Morishita](https://github.com/lucas-akira/)
 - [Robinson Beaucour](https://github.com/RobinsonBeaucour/)
 - [Gökhan Özeloğlu](https://github.com/gozeloglu/)
@@ -11625,4 +11626,3 @@ Bryan Romero
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
 - [jkhhuse](https://github.com/jkhhuse)
-- [Faraz Akbari] (https//github.com/farazz0)
