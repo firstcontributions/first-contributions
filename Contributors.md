@@ -9521,6 +9521,7 @@ Rohan Das
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
 - [Zan Javed](https://github.com/zjaved101)
+- [Abhijeet Mohapatra](https://github.com/abhiwin2010)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Abhijeet Mohapatra](https://github.com/abhiwin2010)
