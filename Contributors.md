@@ -11125,6 +11125,7 @@ Bryan Romero
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
 - [Julle Juliusson](https://github.com/Ret3x)
+- [Keisuke Mori](https://github.com/kigamittsu)
 - [Simon Cordes](https://github.com/C0rdes)
 - [Tom Zurales](https://github.com/TomZurales)
 - [Shubham Kaushik](https://github.com/shubhambitw)
