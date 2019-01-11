@@ -52,6 +52,7 @@
  Vaibhav Kaushal
 - Mi'Angel Pata
 - [Jesse Lau]()
+- [Chaz](https://github.com/chaz303)
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Amir Afrimian](https://github.com/amiraf)
 - [Runor Adjekpiyede](https://github.com/kampkelly)
