@@ -10,6 +10,7 @@
 - [E H]()
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
+- [fru123sa] (https://github.com/fru123sa)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
