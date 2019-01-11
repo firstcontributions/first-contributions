@@ -25,6 +25,7 @@
 - [Jaouhari Youssef](https://github.com/jaouhary)
 - [Ryan Foss](https://github.com/rfoss92/)
 - [Sharik Shaikh](https://github.com/sharik709)
+- [Yuma Sumi](https://github.com/y-yeah)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois] (https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
