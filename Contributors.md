@@ -11207,6 +11207,7 @@ Bryan Romero
 - [WeeKent](https://github.com/weekent)
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
 - [Sharath George M](https://github.com/sharathgeorgem)
+- [Krishna Tangirala](https://github.com/krishnatangirala)
 - [Arav](https://github.com/aravikapra)
 - [Taylor Ellis](https://github.com/TayEllis)
 - [Hatsanai Decha](https://github.com/roshannsp)
