@@ -904,6 +904,7 @@
 - [cawash91](https://github.com/cawash91)
 - [BrotherRufus]
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
+- [yunyoung1819](https://github.com/yunyoung1819)
 - [Anton Ajit](https://github.com/ntn888)
 - [Aecio](https://github.com/aeciorc/)
 - [Jacob Higbee](https://github.com/JacobHigbee)
@@ -11335,6 +11336,7 @@ Bryan Romero
 - [Amit Singh](https://github.com/singh-95)
 - [Pratish Katiyar](https://github.com/shanuk28)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
+- [Malintha Kumarage](https://github.com/malintha90)
 - [Rodrigo Girão](https://github.com/rodrigogirao)
 - [Felix He](https://github.com/felhe)
 - [Yarka Lyba](https://github.com/yarkalyba)
