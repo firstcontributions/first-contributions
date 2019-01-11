@@ -283,6 +283,7 @@
 - [Chris Hatkoff](https://github.com/eppixdev)
 - [Hannes Kruger](https://github.com/hkrugersa)
 - [Andrew Chen](https://github.com/andrew-ch)
+- [Daniel Otieno](https://github.com/danielotieno)
 - [Umair Ahmad](https://github.com/a-umair)
 - [Brandon Wagner](https://github.com/brandonawagner)
 - [Kevin Frostad](https://github.com/frokev)
