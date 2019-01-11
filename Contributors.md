@@ -11268,6 +11268,7 @@ Bryan Romero
 - [Michael Matherson](https://github.com/michaelmatherson)
 - [Pranjal Srivastava](http://github.com/pranjalshrivastav1012)
 - [Alex Innes](https://github.com/alexinnes)
+- [kosani](https://github.com/kosani)
 - [Nnaemeka V. Eziamaka](https://github.com/EziamakaNV)
 - [Sarthak Thakur](https://github.com/sarthak247)
 - [Ryo Arima](https://github.com/nozira)
