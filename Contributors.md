@@ -8,6 +8,7 @@
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [fru123sa] (https://github.com/fru123sa)
