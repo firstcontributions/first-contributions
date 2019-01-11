@@ -11048,6 +11048,7 @@ Bryan Romero
 - [Farhan Karim](http://github.com/farhankarim)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Derry Handoyo](https://github.com/derryhandoyo)
+- [Simon Müller](https://github.com/Rubbertick)
 - [Warun](https://github.com/ubinix-warun)
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
