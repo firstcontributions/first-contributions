@@ -2519,6 +2519,7 @@
 - [Sahil Aggarwal](https://github.com/sagg155)
 - [Jakub Krzus](https://github.com/jakrzus)
 - [Science Saint](https://github.com/ScienceSaint)
+- [Jeremy Choate] (https://github.com/Recondaddy)
 - [Nitish Sharma](https://github.com/nitish81299)
 - [Mohit Routela](https://github.com/mohitroutela)
 - [Daniel Burns](https://github.com/danieljburns143)
