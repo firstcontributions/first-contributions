@@ -11,6 +11,7 @@
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
+- [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa] (https://github.com/fru123sa)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
