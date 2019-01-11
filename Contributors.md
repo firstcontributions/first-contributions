@@ -52,6 +52,7 @@
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Francisco Vargas](https://github.com/fjvarg4k)
+- [Nikhil Bansal](https://github.com/NikhilBansal1999)
 - [Amir Afrimian](https://github.com/amiraf)
 - [Runor Adjekpiyede](https://github.com/kampkelly)
 - [moti ben]()
