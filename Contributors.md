@@ -7542,6 +7542,7 @@
 - [Dinislam](https://github.com/cheburan)
 - [Suyash Nene](https://github.com/suyashnene)
 - [Paskalouis Patressi](https://github.com/Paskalouis)
+- [Omar Kalouti] (https://github.com/okalouti)
 - [Ratnesh Murugesan](https://github.com/ratneshmurugesan)
 - [Peter Moung](https://github.com/luv2c0de)
 - [DavNej](https://github.com/DavNej)
@@ -11614,3 +11615,4 @@ Bryan Romero
 -_[Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
+
