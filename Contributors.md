@@ -5811,6 +5811,7 @@
 - [?caro Pinho Esmeraldo](https://github.com/icaropj)
 - [Abhinav Khandelwal](https://github.com/akkhandelwal)
 - [Melissa Sorrells](https://github.com/msorre2)
+- [Anmol Dhar](https://github.com/anmoldhar)
 - [Amberzizi](https://github.com/amberzizi)
 - [Faisal Ali](https://github.com/faisal3389)
 - [Charmie Qui?o](https://github.com/LightDev777)
