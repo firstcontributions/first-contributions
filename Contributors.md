@@ -10916,6 +10916,7 @@ Bryan Romero
 - [Harshni](https://github.com/harshnipriya)
 - [Philly G](https://github.com/pgwh)
 - [Zan Javed](https://github.com/zjaved101)
+- [Abhijeet Mohapatra](https://github.com/abhiwin2010)
 - [Anandu B Ajith](https://github.com/anandubajith)
 - [Shrey Prakash Sahgal](https://github.com/shreysahgal)
 - [Deepjyot Kaur](https://github.com/deepjyot)
