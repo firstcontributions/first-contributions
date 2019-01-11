@@ -1,6 +1,7 @@
 # Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
+- [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Edward Passagi](https://github.com/edwardpassagi)
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
