@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - jigyasa
 - [Abiral Khanal](https://github.com/abir4l)
@@ -6738,6 +6738,7 @@
 - [Santhana Krishnan](https://github.com/skrishnan-aero)
 - [Klockner](https://github.com/Klockner)
 - [Pedro Cruz](https://github.com/cruzpedro)
+- [Nick H](https://github.com/Nicknarp)
 - g0sar
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
