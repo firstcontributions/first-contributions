@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [romanvx](https://github.com/romanvx)
 - [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
@@ -15,6 +15,7 @@
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa] (https://github.com/fru123sa)
+- [Ben John](https://github.com/BendJohn)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
