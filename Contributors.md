@@ -24,7 +24,7 @@
 - [Ishaan Sharma] (https://github.com/Ishaan99)
 - [Neeraj Singh](https://github.com/GrayR00t)
 - [Lisa Hunt](https://github.com/GeckoLisa)
-- [Hassan Usman](https://github.com/husseyexplres)
+- [Hassan Usman](https://github.com/husseyexplores)
 - [Josh R](https://github.com/jr2684)
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
