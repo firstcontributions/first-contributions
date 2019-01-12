@@ -10284,6 +10284,7 @@ Bryan Romero
 - [James Zhong](https://github.com/thebitspud)
 - [Vanoux](https://github.com/Vanoux)
 - [Henry](https://github.com/Henry6612700)
+- [Marco Coccato](https://github.com/Ocrambana)
 - [Michael Lore](https://github.com/michaellore)
 - [Chrissy Gonzalez](https://github.com/chrissygonzalez)
 - [Lucca Leao](https://github.com/lucca-leao)
