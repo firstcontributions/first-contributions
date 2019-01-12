@@ -148,6 +148,7 @@
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum](https://github.com/AngryChum)
 - [fabbellotti]()
+- [Yann Claude](https://github.com/yannclaude2)
 - [David Tran](https://github.com/dhtran91/)
 - [Derek Cardwell](https://github.com/siestacardwell)
 - [Deepak Thapa](https://github.com/dtsuper3)
