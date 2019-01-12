@@ -11669,3 +11669,4 @@ Bryan Romero
 - [David Fernández](https://github.com/davidfdezalcoba)
 - [Yeptony](https://github.com/yeptony)
 - [Seiichi Ariga](https://github.com/s-ariga)
+- [Seung-Hyun-Jeon] (https://github.com/robinstart)
