@@ -18,6 +18,7 @@
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa] (https://github.com/fru123sa)
 - [Ben John](https://github.com/BendJohn)
+- [Pat Connolly](https://github.com/pjconnolly12)
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
