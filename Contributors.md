@@ -2,6 +2,7 @@
 - [romanvx](https://github.com/romanvx)
 - [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
+- [Jeremy Collins](https://github.com/jeremyscottcollins)
 - jigyasa
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Edward Passagi](https://github.com/edwardpassagi)
