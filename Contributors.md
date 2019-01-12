@@ -867,6 +867,7 @@
 - [Krishna kunal](https://github.com/krish-kunal)
 - [Akshay Mhatre](https://github.com/akshay-mhatre)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
+- [Avivex1000](https://github.com/avivex1000)
 - [Kegjams](https://github.com/Kegjams)
 - [nathhia](https://github.com/nathhia)
 - [SS491]
