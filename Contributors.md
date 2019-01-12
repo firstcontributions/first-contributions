@@ -11666,3 +11666,4 @@ Bryan Romero
 - [HyeonMyeong Seo](https://github.com/SeoHyeonMyeong)
 - [David Fernández](https://github.com/davidfdezalcoba)
 - [Yeptony](https://github.com/yeptony)
+- [Seiichi Ariga](https://github.com/s-ariga)
