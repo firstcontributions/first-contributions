@@ -1,5 +1,6 @@
 # Contributors
 - [romanvx](https://github.com/romanvx)
+- [Harsh Gadodia](https://github.com/harshgadodia)
 - [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
