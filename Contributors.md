@@ -10288,6 +10288,7 @@ Bryan Romero
 - [Hassani King Senior](https://github.com/HKSenior)
 - [Yobani Mendoza](https://github.com/yobani1987)(yobani_mendoza on Instagram)
 - [Mike Tabola](https://github.com/r00tm4k3r)
+- [Brandon Fernandes](https://github.com/bfernandes1998)
 - [Bruno Silva](https://github.com/brunorgs)
 - [Josh Horwitz](https://github.com/jdhorwitz)
 - [Breindy](https://github.com/breindy)
