@@ -11682,3 +11682,4 @@ Bryan Romero
 - [Seung-Hyun-Jeon] (https://github.com/robinstart)
   [Jake Goodwin](https://github.com/JakeGoodwin)
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
+- [Misha Krul](https://github.com/mishakrul)
