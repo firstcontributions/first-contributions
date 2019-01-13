@@ -11668,7 +11668,7 @@ Bryan Romero
 - [Aiya Yegenberdiyeva](https://github.com/ayegnb)
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran] (https://github.com/Lam7150)
--_[Tyler Pearson](https://github.com/tap1994)
+- [Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
@@ -11678,3 +11678,4 @@ Bryan Romero
 - [Yeptony](https://github.com/yeptony)
 - [Seiichi Ariga](https://github.com/s-ariga)
 - [Seung-Hyun-Jeon] (https://github.com/robinstart)
+  [Jake Goodwin](https://github.com/JakeGoodwin)
