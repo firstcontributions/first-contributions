@@ -7,10 +7,10 @@
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - jigyasa
+- [Felipe Valencia](https://github.com/felivalencia3)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Edward Passagi](https://github.com/edwardpassagi)
 - [Abiral Khanal](https://github.com/abir4l)
-- [Felipe Valencia](https://github.com/felivalencia3)
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
