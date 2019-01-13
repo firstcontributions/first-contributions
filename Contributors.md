@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [romanvx](https://github.com/romanvx)
+- [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Eugene Kriuchkov](https://github.com/kriugen)
