@@ -8,6 +8,7 @@
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - jigyasa
 - [Shaun Trapp](https://github.com/TheK3yMaster)
+- [Felipe Valencia](https://github.com/felivalencia3)
 - [Edward Passagi](https://github.com/edwardpassagi)
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
@@ -16,7 +17,6 @@
 - [Joe Lee] (https://github.com/josephlee93)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Soham Zemse](https://github.com/zemse)
-- [Felipe Valencia] (https://github.com/felivalencia3)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa] (https://github.com/fru123sa)
