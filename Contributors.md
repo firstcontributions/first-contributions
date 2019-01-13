@@ -12,6 +12,7 @@
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- [Joe Lee] (https://github.com/josephlee93)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
