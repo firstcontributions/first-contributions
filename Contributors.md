@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [romanvx](https://github.com/romanvx)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
@@ -5204,6 +5204,7 @@
 - [Razvan05](https://github.com/razvan05)
 - [Mridul tuteja](https://github.com/mridultuteja)
 - [Thadeu Cotts](https://github.com/cotts)
+Rutvij Khatri (https://github.com/rutvij2811)
 - [Debaditya Dey](https://github.com/deydebaditya)
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
