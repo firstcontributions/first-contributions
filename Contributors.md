@@ -1,7 +1,5 @@
 ﻿# Contributors
-
 - [romanvx](https://github.com/romanvx)
-- [9andresc](https://github.com/9andresc)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Eugene Kriuchkov](https://github.com/kriugen)
@@ -433,6 +431,7 @@
 - [Swapnik Kota]()
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
+- [9andresc](https://github.com/9andresc)
 - [Ali Asgar](https://github.com/aliasgar12)
 - [Jennifer Colna](https://github.com/JNC260)
 - [Aderajew Mengistu](https://github.com/ajmengistu)
