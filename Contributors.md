@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [romanvx](https://github.com/romanvx)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
@@ -261,6 +261,7 @@
 - [Boris Kolomoets](https://github.com/boriskolomoets)
 - [Alexei Putsykovich](https://github.com/palexa)
 - [Wangari Kimani](https://github.com/WangariK/)
+- [Tom M] (https://github.com/tmoodini)
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [smitsky](https://github.com/smitsky)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
