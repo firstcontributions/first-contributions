@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [romanvx](https://github.com/romanvx)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
@@ -16,6 +16,7 @@
 - [Joe Lee] (https://github.com/josephlee93)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Soham Zemse](https://github.com/zemse)
+- [Felipe Valencia] (https://github.com/felivalencia3)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa] (https://github.com/fru123sa)
