@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 - Abbas
+- [Alec W](https://github.com/AlecWilk)
 - [romanvx](https://github.com/romanvx)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
