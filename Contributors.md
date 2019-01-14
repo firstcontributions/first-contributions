@@ -2443,6 +2443,7 @@
 - [Tet Alvarez](https://github.com/tetalvarez)
 - [ivonildo31](https://github.com/Ivonildo31)
 - [Ajay](https://github.com/ajay)
+- [Jairo Maldonado](https://github.com/jaerjaerbin)
 - [dsannad](https://github.com/dsannad)
 - [JLeneau](https://github.com/JLeneau)
 - [Archit Khode](https://github.com/ArKits)
