@@ -153,6 +153,7 @@
 - [Lorena](https://github.com/lorenafoia)
 - [Johira Afzali](https://github.com/joafz)
 - [Manthan Admane](https://github.com/MisterAwesome23)
+- [Daniel Millier](https://github.com/UnknownFearNG)
 - [IndominusRexx]()
 - [Panagiotis Papapanagiotou](https://github.com/fOURP92)
 - [John Bidinger](https://github.com/johnbidinger)
