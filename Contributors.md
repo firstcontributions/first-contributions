@@ -21,6 +21,7 @@
 - [E H]()
 - [Joe Lee](https://github.com/josephlee93)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
+- [Seamus Bonner](https://github.com/Shamebob)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
