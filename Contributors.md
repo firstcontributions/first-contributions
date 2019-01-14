@@ -127,6 +127,7 @@
 - [Edwin Diaz](https://github.com/dne-0)
 - [Ryan Kelley](https://github.com/rdkelley)
 - [CHAITANYA REDDY](https://github.com/lvrchaitanya)
+- [Sukhpreet Judge](https://github.com/SukhpreetJudge)
 - [Falen L](https://github.com/falenl)
 - [Janet Gordon](https://github.com/GamergirlJ)
   [Kamaljot Saini](https://github.com/unsafeartist)
