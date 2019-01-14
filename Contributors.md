@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Abbas
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
@@ -11701,3 +11701,4 @@ Bryan Romero
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [JaeYoung Suh](https://github.com/donddog)
+- [Riley Hancox(https://github.com/rhancox4303)
