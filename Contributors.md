@@ -11253,6 +11253,7 @@ Bryan Romero
 - [Demetrius Dasilva](https://github.com/demetrius99)
 - [Ellie Solorio](https://github.com/elliecodetheweb)
 - [WeeKent](https://github.com/weekent)
+- [Yalim Yildirim](https://github.com/yalim143)
 - [João Gabriel Gouveia](https://github.com/gabrielgouv)
 - [Sharath George M](https://github.com/sharathgeorgem)
 - [Krishna Tangirala](https://github.com/krishnatangirala)
