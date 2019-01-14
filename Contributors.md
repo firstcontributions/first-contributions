@@ -16,6 +16,7 @@
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
 - [Edward Passagi](https://github.com/edwardpassagi)
+- [Joseph T Lucas](https://github.com/josephtlucas)
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
