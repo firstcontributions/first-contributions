@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 - Abbas
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
 - [romanvx](https://github.com/romanvx)
+- [Imran Alam](https://github.com/imran5555)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
