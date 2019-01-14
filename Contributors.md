@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 - Abbas
+- [Wilbert Caine](https://github.com/wcaine)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
 - [romanvx](https://github.com/romanvx)
@@ -10,6 +11,7 @@
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - jigyasa
+- [Wilbert Caine](https://github.com/wcaine)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
 - [Edward Passagi](https://github.com/edwardpassagi)
