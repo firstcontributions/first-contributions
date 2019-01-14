@@ -9740,6 +9740,7 @@ Bryan Romero
 - [Satya Sagar](https://github.com/satyasagar)
 - [James](https://github.com/jrandj)
 - [Daniel Stoinov](https://github.com/ctmnz)
+- [Jessica](https://github.com/jessica25)
 - [kzhrk](https://github.com/kzhrk)
 - [Saurabh](https://github.com/saurabh589)
 - [David Soto](https://github.com/DavidSotoA)
