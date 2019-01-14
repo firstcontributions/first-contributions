@@ -11,6 +11,7 @@
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - jigyasa
+- [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
