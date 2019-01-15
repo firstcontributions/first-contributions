@@ -1,5 +1,6 @@
 # Contributors
 - Abbas
+- [Harel Katz] (https://github.com/HarelKatz)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
 - [romanvx](https://github.com/romanvx)
