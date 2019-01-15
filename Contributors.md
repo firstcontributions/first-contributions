@@ -10928,6 +10928,7 @@ Bryan Romero
 - [Chris Lucas](https://github.com/lucasaid/)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
+- [Abhishek Krishnan](https://github.com/aks667)
 - [Jewel Elizabeth Thomas](https://github.com/Jewel-98)
 - [3n1gmat1c](https://github.com/3n1gmat1c)
 - [Klaudia](https://github.com/klaudiakp)
