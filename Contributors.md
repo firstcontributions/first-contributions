@@ -6257,6 +6257,7 @@ Hassan Khalailla
 - [João Paulo Paes](https://github.com/paesjoaopaulo)
 - [Jaret Screws](https://github.com/jaretscrews)
 - [Sami Perälahti](https://github.com/SamiNami)
+- [abvita](https://github.com/abvita)
 - [Vinicius de Souza Augutis](https://github.com/viniciusaugutis)
 - [Jonata William](https://github.com/jonatawilliam)
 - [Lori Godoy](https://github.com/kuneho-yellow/)
@@ -6692,4 +6693,3 @@ Hassan Khalailla
 - [Sarah Peters](https://github.com/alphaccino-art)
 - [Stacey Koornneef](https://github.com/Stacey-Koornneef)
 - [kmimk](https://github.com/kmimk)
-- [abvita] (https://github.com/abvita)
