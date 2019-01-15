@@ -3425,6 +3425,7 @@ Bakht Jamal Sukhera
 - [Edmund Lai](https://github.com/EdmundLai)
 - [AndroidFanatic](https://github.com/androidfanatic)
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
+- [Erin Lewis](https://github.com/erinlewis)
 - [Santiago Carello](https://github.com/santiagocarello)
 - [Nilesh Deepak](https://github.com/nileshdeepak)
 - [Saheel Wagh](https://github.com/saheelwagh)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Erin Lewis](https://github.com/erinlewis)
