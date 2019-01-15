@@ -601,6 +601,7 @@
 - [Yicheng Li](https://github.com/yclistanford)
 - [Grompie](https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
+- [Krichkorn Oparad](https://github.com/bachkukkik)
 - [Sofia Borgå](https://github.com/sofiaborga)
 - [Pedro Henrique Dias](https://github.com/pedrohenriquedias)
 - [Amrit Devkota](https://github.com/AmritDevkota)
