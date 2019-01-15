@@ -10878,6 +10878,7 @@ Bryan Romero
 - [Frank Carlone](https://github.com/fcarlone)
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
+- [amal ganesh](https://github.com/bravedo)
 - [Fon](https://github.com/nuncharee)
 - [Lomitaswa Suna](https://github.com/lomitaswa)
 - [Maron](https://github.com/maronmate)
