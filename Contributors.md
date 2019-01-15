@@ -9394,6 +9394,7 @@ Rohan Das
 - [Jacinto Ramirez](https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken](https://github.com/sinuoustalker)
+- [Nick Stees](https://github.com/NickStees)
 - [Izon Thomaz Mielke](https://github.com/izontm)
 - [Chamikara Samarasekara](https://github.com/chamikaras)
 - [Sandy](https://github.com/sandy1999/first-
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Nick Stees](https://github.com/NickStees)
