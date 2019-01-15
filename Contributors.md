@@ -10977,6 +10977,7 @@ Bryan Romero
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
+- [EpicDragonSlayr](https://github.com/EpicDragonSlayr)
 - [Joao V Souto](https://github.com/JoaoVSouto)
 - [Mayra Perpetua](https://github.com/MayraPerpetua)
 - [Mon555](https://github.com/mon555)
