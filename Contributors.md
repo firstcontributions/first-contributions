@@ -3662,6 +3662,7 @@
 - [Taylor Murray](https://github.com/murraytay)
 - [Christopher Glisch](https://github.com/Glisch)
 - [Christopher Tang](https://github.com/chrtang-exp)
+- [Luis Adrián Chávez Fregoso](https://github.com/lacf95)
 - [Hemant Mishra]()
 - [Bilal Norelden](https://github.com/BNorelden)
 - [Epaphradito Lugayavu](http://github.com/paphra)
