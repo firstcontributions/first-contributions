@@ -11712,8 +11712,9 @@ Bryan Romero
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [JaeYoung Suh](https://github.com/donddog)
-- [Riley Hancox(https://github.com/rhancox4303)
-- [Ashu K(https://github.com/akm12k16)
+- [Riley Hancox](https://github.com/rhancox4303)
+- [Ashu K](https://github.com/akm12k16)
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
+- [Jason Chau](https://github.com/chauvansang)
 
