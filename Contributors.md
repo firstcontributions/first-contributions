@@ -1,5 +1,4 @@
 # Contributors
-- [yanglbme](https://github.com/yanglbme): A web developer, major in Java.
 - Abbas
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
@@ -811,6 +810,7 @@
 - [vanderkilu](https://github.com/vanderkilu)
 - [Shiinx](https://github.com/shiinx)
 - Alexandra Cannon
+- [yanglbme](https://github.com/yanglbme): A web developer, major in Java.
 - [Caleb Choy](https://github.com/Ookayleb)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
