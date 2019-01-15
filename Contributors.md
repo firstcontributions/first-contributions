@@ -4583,6 +4583,7 @@ Tanishq Gupta
 - [tamlt2704](https://github.com/tamlt2704)
 - [Saksham Garg](https://github.com/sak6e)
 - [Mysore Rahul](https://github.com/rahulmysore23)
+- [Mizuki Mukai](kikki-git)
 - [Bhoomchai L](https://github.com/bhoomchai)
 - [MT Huebsch](https://github.com/mt-huebsch)
 - [Sidhant Subramanian](https://github.com/coderoda)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Mizuki Mukai]()
