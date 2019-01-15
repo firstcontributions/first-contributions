@@ -2293,6 +2293,7 @@ Edison Shek
 - [Mayukh Maitra](https://github.com/mayukhdeep18)
 - [Jose Aguilar](https://github.com/joeyDevelops)
 - [KyungJae Min](https://github.com/mnkjamie)
+- [etnguyen03](https://github.com/etnguyen03)
 - [Kannah Millano](https://github.com/mmkannah)
 - [youyou22222](https://github.com/youyou22222)
 - [Charikleia Niouraki](https://github.com/niouraki)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [etnguyen03](https://github.com/etnguyen03)
