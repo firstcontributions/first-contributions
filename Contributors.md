@@ -9714,6 +9714,7 @@ Bryan Romero
 - [Wojtek Tyziniec](https://github.com/wtznc)
 - [Saran Balaji C](https://github.com/csaranbalaji)
 - [Johnstone Wahome](https://github.com/johnstonewahome)
+- [Case Silva](https://github.com/avlisesac)
 - [Antwane Fowler](https://github.com/fowlerkantwane23)
 - [Neel Mani Rajput](http://github.com/neelmani07)(26/8/18)
 - [cngJo](http://github.com/cngJo)
