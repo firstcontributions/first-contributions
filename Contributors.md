@@ -7199,6 +7199,7 @@ Rohan Das
 - [Ellen Kidane](https://github.com/ekidane)
 - [Justin Goldby](https://github.com/goldbeedev)
 - [Sharla Field](https://github.com/sharlafield)
+- [Jo Laba](https://github.com/JhorlyL)
 - [Ira Laurin](https://github.com/toiya)
 - [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
 - [Camilo Munoz](https://github.com/jcamilom)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jo Laba](https://github.com/JhorlyL)
