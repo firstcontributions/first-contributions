@@ -927,6 +927,7 @@
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23)
+- [Maruthi Mohan Reddy Putha](https://github.com/MaruthiMohanReddyPutha)
 - [Sabi K](https://github.com/sabiku85)
 - [chetangaur](https://github.com/chetangaur)
 - [gormleymark](https://github.com/gormleymark)
