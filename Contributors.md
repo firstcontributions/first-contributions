@@ -1,4 +1,5 @@
 # Contributors
+- [yanglbme](https://github.com/yanglbme): A web developer, major in Java.
 - Abbas
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
@@ -11694,7 +11695,7 @@ Bryan Romero
 - [Aiya Yegenberdiyeva](https://github.com/ayegnb)
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran](https://github.com/Lam7150)
--_[Tyler Pearson](https://github.com/tap1994)
+- [Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
@@ -11709,8 +11710,8 @@ Bryan Romero
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [JaeYoung Suh](https://github.com/donddog)
-- [Riley Hancox(https://github.com/rhancox4303)
-- [Ashu K(https://github.com/akm12k16)
+- [Riley Hancox](https://github.com/rhancox4303)
+- [Ashu K](https://github.com/akm12k16)
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
 
