@@ -1141,6 +1141,7 @@
 - [Vibudh Vishal](github.com/vibudhvishal)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna](https://github.com/mennayahia)
+- [Jason Chau](https://github.com/chauvansang)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Santiago Rodríguez](https://github.com/SantiagoR8)
@@ -11716,5 +11717,4 @@ Bryan Romero
 - [Ashu K](https://github.com/akm12k16)
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
-- [Jason Chau](https://github.com/chauvansang)
 
