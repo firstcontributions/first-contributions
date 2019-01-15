@@ -3,6 +3,7 @@
 - [Harel Katz] (https://github.com/HarelKatz)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
+- [Vikram Singh Bedi](https://github.com/singhVikram97)
 - [romanvx](https://github.com/romanvx)
 - [Imran Alam](https://github.com/imran5555)
 - [Leon Becker](https://github.com/leonmartinbecker)
