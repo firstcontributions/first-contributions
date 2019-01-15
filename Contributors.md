@@ -696,6 +696,7 @@
 - [CraftyDH](https://github.com/CraftyDH)
 - [Natan Gazola](https://github.com/Natan19)
 - [Eddie Melendez](https://github.com/exmelendez)
+- [Phillip Doughty](https://github.com/FrequencyZero)
 - [Alexsander Ferreira](https://github.com/alexs974)
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
 - [tnssh](https://github.com/tnssh)
