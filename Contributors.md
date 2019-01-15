@@ -9442,6 +9442,7 @@ Rohan Das
 - [Farzan F A](https://github.com/farzanfa00)
 - [Teerapong Tuntawin](https://github.com/tuntawin)
 - [Fon] (https://github.com/nuncharee)
+- [amal ganesh](https://github.com/bravedo)
 - [Maron](https://github.com/maronmate)
 - [Rohit Motwani](https://rohitmotwani.com)
 - [blade-demon](https://github.com/blade-demon)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [amal ganesh](https://github.com/bravedo)
