@@ -4169,6 +4169,7 @@ Tanishq Gupta
 - [Jonathan Arredondo](https://github.com/angelyonas)
 - [handrezescobar94](https://github.com/handrezescobar94)
 - [Ariel Blasi](https://github.com/LiteSoul)
+- [Octavio Acosta](https://github.com/jesusoctavioas)
 - [Anthony Montoya](https://github/com/anthony-montoya)
 - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
 - [daniel-enriquez](https://github.com/daniel-enriquez)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Octavio Acosta](https://github.com/jesusoctavioas)
