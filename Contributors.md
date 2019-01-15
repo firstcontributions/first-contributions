@@ -67,6 +67,7 @@
 - [Emmanuel](https://github.com/emmaunel)
 - [pravindran](https://github.com/Pravindran)
 - [Daniel Bezerra](https://github.com/danielsbezerra)
+- [Krudy](https://github.com/krady21)
 - [Navya Garg](https://github.com/navgarg)
 - [technoknol](https://github.com/technoknol)
 - [pbhudiaBAE](https://github.com/pbhudiaBAE)
