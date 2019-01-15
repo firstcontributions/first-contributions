@@ -1028,6 +1028,7 @@
 - [Gabriel Z.]
 - [Santiago Mas](https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
+- [Mayank Kanoria](https://github.com/mkanoria)
 - [carriekolmer](https://github.com/carriekolmer)
 - [tonetheman](https://github.com/tonetheman)
 - [joshuaOgwang](https://github.com/joshuaOgwang)
