@@ -10824,6 +10824,7 @@ Bryan Romero
 - [Jacinto Ramirez](https://github.com/chiroz1)
 - [Rogério do Carmo](https://github.com/RogerioDoCarmo)
 - [Jason Aiken](https://github.com/sinuoustalker)
+- [Nick Stees](https://github.com/NickStees)
 - [Izon Thomaz Mielke](https://github.com/izontm)
 - [Chamikara Samarasekara](https://github.com/chamikaras)
 - [Sandy](https://github.com/sandy1999)
