@@ -1559,6 +1559,7 @@
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
+- shmulik dadon
 - [Sangeeth Mukundan](https://github.com/coder5492)
 - [Chris Bertasi](https://github.com/chris-bertasi)
 - [Mudit Gurjar](https://github.com/mudit182)
@@ -1995,5 +1996,4 @@
 - [Jordan Skophammer] (https://github.com/skop22)
 - [Spencer Wolf] (https://github.com/spwolf22)
 - [David Deng] (https://github.com/PROgram52bc)
-shmulik dadon
 - [Linh Huynh] (https://github.com/linh4)
