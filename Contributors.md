@@ -114,6 +114,7 @@
 - [Rose Mazari](https://github.com/rosemazari)
 - [saicharan](https://github.com/saicharannivarthi)
 - [Johnny Nguyen](https://github.com/Jokuyen)
+- [Chaitanya Mattey](https://github.com/cmattey)
 - [Nicholas Adamson](https://github.com/nja12)
 - [wardaabukar]()
 - [Sub Sandwich](https://github.com/subotai54)
