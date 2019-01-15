@@ -11327,6 +11327,7 @@ Bryan Romero
 - [Valerie Cheng](https://github.com/iDG772Mn)
 - [Caleb Dalton](https://github.com/CalebDalton)
 - [Dzaki Afif](https://github.com/dzakiafif)
+- [Damian Lesiewicz](https://github.com/damionjestem)
 - [Jay Perez](https://github.com/Rolys)
 - [Jeff Lung](https://github.com/jefflung)
 - [Sameer Malik](https://github.com/sameermalik20aug)
@@ -11689,4 +11690,3 @@ Bryan Romero
   [Jake Goodwin](https://github.com/JakeGoodwin)
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
-- [Damian Lesiewicz](https://github.com/damionjestem)
