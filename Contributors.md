@@ -766,6 +766,7 @@
 - [owais](https://github.com/owais34)
 - [SemperDisco](https://github.com/SemperDisco)
 - [Jarett Chaiken-VS](https://github.com/jdchaiken)
+- [Angelisa Maria](https://github.com/angelisamaria)
 - [Cherifa Amrouch](https://github.com/sabielo)
 - [Hunter Day](https://github.com/huntmanday)
 - [Vincae](https://github.com/Vincae)
