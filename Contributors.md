@@ -9550,6 +9550,7 @@ Rohan Das
 - [Wei](https://github.com/weichenw)
 - [annaanx24](https://github.com/annaanx24)
 - [Shnibl](https://github.com/shnibl)
+- [Patrick Martel](https://github.com/karlyn33)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
 - [Michelle Vick](https://github.com/vivega-mv)
@@ -9910,4 +9911,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Patrick Martel](https://github.com/karlyn33)
