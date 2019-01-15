@@ -3269,6 +3269,7 @@ Bakht Jamal Sukhera
 - [Ray Al](https://github.com/ray4spd)
 - [Christian Brill](https://github.com/christianbrill)
 - [Ujjwal](https://github.com/uforujjwal)
+- [Jan](https://github.com/ocu)
 - [Sai Rahul](https://github.com/rahulsai2341)
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jan](https://github.com/ocu)
