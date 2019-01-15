@@ -717,6 +717,7 @@
 - [fatima awad](https://github.com/fa6oomawad)
 - [tonia seenauth](https://github.com/ToniaSeenauth)
 - [Rachel L](https://github.com/rslim87)
+- [Ashok Karale](https://github.com/ashokkarale)
 - [Kvc TT](https://github.com/kvctt)
 - [Tung Minh Vu](https://github.com/Tungmv1711)
 - [Utkarsh](https://github.com/ukbaranwal)
