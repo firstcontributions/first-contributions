@@ -2599,6 +2599,7 @@ Bakht Jamal Sukhera
 - [Taylor Murray](https://github.com/murraytay)
 - [Christopher Glisch](https://github.com/Glisch)
 - [Christopher Tang](https://github.com/chrtang-exp)
+- [Luis Adrián Chávez Fregoso](https://github.com/lacf95)
 - [Hemant Mishra]()
 - [Bilal Norelden](https://github.com/BNorelden)
 - [Epaphradito Lugayavu](http://github.com/paphra)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Luis Adrián Chávez Fregoso](https://github.com/lacf95)
