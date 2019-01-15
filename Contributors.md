@@ -11745,6 +11745,7 @@ Bryan Romero
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
+- [muxyu](https://github.com/muxyu)
 - [jkhhuse](https://github.com/jkhhuse)
 - [HyeonMyeong Seo](https://github.com/SeoHyeonMyeong)
 - [David Fernández](https://github.com/davidfdezalcoba)
