@@ -9400,6 +9400,7 @@ Rohan Das
 - [Eviliana](https://github.com/eviliana)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Dumika Jayarathna](https://github.com/Dumika)
+- [Randy Daratan](https://github.com/randy-daratan)
 - [Saksham Pruthi](https://github.com/saksham0804)
 - [Ahad Ali](https://github.com/ahad80)
 - [nachogoca](https://github.com/nachogoca)
@@ -9913,4 +9914,3 @@ quattad
 - [Amit Singh](https://github.com/singh-95)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
 - [Malintha Kumarage](https://github.com/malintha90)
-- [Randy Daratan](https://github.com/randy-daratan)
