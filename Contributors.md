@@ -812,6 +812,7 @@
 - [vanderkilu](https://github.com/vanderkilu)
 - [Shiinx](https://github.com/shiinx)
 - Alexandra Cannon
+- [yanglbme](https://github.com/yanglbme): A web developer, major in Java.
 - [Caleb Choy](https://github.com/Ookayleb)
 - [DaLeste777](https://github.com/DaLeste777)
 - [Everton Nunes](https://github.com/pepoeverton)
@@ -11697,7 +11698,7 @@ Bryan Romero
 - [Aiya Yegenberdiyeva](https://github.com/ayegnb)
 - [aetenotnk](https://github.com/aetenotnk)
 - [Lam Tran](https://github.com/Lam7150)
--_[Tyler Pearson](https://github.com/tap1994)
+- [Tyler Pearson](https://github.com/tap1994)
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
@@ -11712,8 +11713,8 @@ Bryan Romero
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [JaeYoung Suh](https://github.com/donddog)
-- [Riley Hancox(https://github.com/rhancox4303)
-- [Ashu K(https://github.com/akm12k16)
+- [Riley Hancox](https://github.com/rhancox4303)
+- [Ashu K](https://github.com/akm12k16)
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
 
