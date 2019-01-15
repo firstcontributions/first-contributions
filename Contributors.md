@@ -3028,6 +3028,7 @@ Bakht Jamal Sukhera
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L](http://github.com/ceculia)
+- [Ethan Hur](https://github.com/HurSungYun)
 - [Deepak-pundir]()
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
 - [Ami Davis](https://github.com/idaslaptya)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Ethan Hur](https://github.com/HurSungYun)
