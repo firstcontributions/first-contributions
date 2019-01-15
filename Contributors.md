@@ -25,6 +25,7 @@
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
 - [Joe Lee](https://github.com/josephlee93)
+- [_nolj](https://github.com/nolanbjohnson)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Seamus Bonner](https://github.com/Shamebob)
 - [Soham Zemse](https://github.com/zemse)
