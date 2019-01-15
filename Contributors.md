@@ -1641,6 +1641,7 @@
 - [Muhammed Khamis](https://github.com/MuhammedKhamis)
 - [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
+- [David Smith](https://github.com/StationaryDave)
 - [Priyal Narang](https://github.com/PriyalNarang)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
