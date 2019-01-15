@@ -11,8 +11,6 @@ Czytanie artykułów i oglądanie poradników może pomóc, ale czy jest coś le
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-*Przeczytaj w innych językach: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md) and [Português/Brasil](README.pt_br.md).*
-
 Jeśli nie masz Gita na swoim komputerze, [ zainstaluj go ]( https://help.github.com/articles/set-up-git/ ).
 
 ## Utwórz fork repozytorium
