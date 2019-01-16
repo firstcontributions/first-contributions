@@ -116,6 +116,7 @@
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [David Tamas-Parris](https://github.com/davidtp19)
 - [Chinu Lee](https://github.com/alelee)
+- [Wesley] (https://github.com/wesley-ng)
 - [Ujjwal Srivastava](https://github.com/pretrator)
 - [Saad](https://github.com/voldemoriarty)
 - [Dawid Gałęziewski](https://github.com/DawidGaleziewski)
