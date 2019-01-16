@@ -3610,6 +3610,7 @@ Bakht Jamal Sukhera
 - [LePetitRenard](https://github.com/LePetitRenard)
 - [Abdullah Alam](https://github.com/abdullahalam)
 - [Yatin Yadav](https://github.com/yyxtreme)
+- [Daniel Podrazka](https://github.com/danielpodrazka)
 - [Hankyol Cho](https://github.com/HanChoCareer)
 - [Gaurav Bharti](https://github.com/dreamsparkx)
 - [Nathan Blaubach](https://github.com/blaubachn)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Daniel Podrazka](https://github.com/danielpodrazka)
