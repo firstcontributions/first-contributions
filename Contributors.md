@@ -2717,6 +2717,7 @@ Bakht Jamal Sukhera
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Patrick Endicott](https://github.com/EndoxgrO)
 - [Anthony Bilic](https://github.com/irulenot)
+- [Jonatan Witoszek](http://github.com/taniotanio7)
 - [José Ede de Campos Neto](https://github.com/JoseEdeNeto)
 - [Getenet Wol](https://github.com/getsei)
 - [Jonas S](https://github.com/jonasstr)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Jonatan Witoszek](http://github.com/taniotanio7)
