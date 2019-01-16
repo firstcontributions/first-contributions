@@ -2355,6 +2355,7 @@
 - [Shahmi Majid](https://github.com/shahmimajid)
 - [Ryan Evans](https://github.com/ryanwevans)
 - [Yogita Bhatia](https://github.com/Yogita98)
+- [Evan Vancavage](https://github.com/evancavage)
 - [Henry Fung](https://github.com/henryfung3a27)
 - [Shahmi Majid](https://github.com/shahmimajid)
 - [Ryan Evans](https://github.com/ryanwevans)
