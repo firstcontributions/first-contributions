@@ -11443,6 +11443,7 @@ Bryan Romero
 - [Animesh Shukla](https://github.com/anime19)
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
+- [Chris Y](https://github.com/Halo104)
 - [Axel Niklasson](https://github.com/axelniklasson)
 - [maciej simka](https://github.com/maciejsimka)
 - [Amit Singh](https://github.com/singh-95)
