@@ -2225,6 +2225,7 @@ Edison Shek
 - [Vidya Mani](https://github.com/vidyasrimani)
 - [Jacob Brannum](https://github.com/jwbrannum)
 - [rockstar](https://github.com/rockstar)
+- [Bryan Deloeste](https://github.com/bdeloeste)
 - [James Donlevy](https://github.com/jamesdonlevy)
 - [Nkg18](https://github.com/Nkg18)
 - [jhonof](https://github.com/jhonof)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Bryan Deloeste](https://github.com/bdeloeste)
