@@ -179,6 +179,7 @@
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [Daniel Millier](https://github.com/UnknownFearNG)
 - [IndominusRexx]()
+- [Sarah Tuininga](https://github.com/stuininga)
 - [Panagiotis Papapanagiotou](https://github.com/fOURP92)
 - [John Bidinger](https://github.com/johnbidinger)
 - [RachanaReddy](https://github.com/Rachana-Reddy)
