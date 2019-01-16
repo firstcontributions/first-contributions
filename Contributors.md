@@ -39,6 +39,7 @@
 - [fru123sa](https://github.com/fru123sa)
 - [Ben John](https://github.com/BendJohn)
 - [Pat Connolly](https://github.com/pjconnolly12)
+- [Nikunj Kela]
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Luke Aimson](https://github.com/LukeAims)
@@ -2354,6 +2355,7 @@
 - [Shahmi Majid](https://github.com/shahmimajid)
 - [Ryan Evans](https://github.com/ryanwevans)
 - [Yogita Bhatia](https://github.com/Yogita98)
+- [Evan Vancavage](https://github.com/evancavage)
 - [Henry Fung](https://github.com/henryfung3a27)
 - [Shahmi Majid](https://github.com/shahmimajid)
 - [Ryan Evans](https://github.com/ryanwevans)
@@ -11792,4 +11794,5 @@ Bryan Romero
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
 - [jt120](https://github.com/jt120)
-- [ferminht] (https://github.com/ferminhg)
+- [ferminht](https://github.com/ferminhg)
+- [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
