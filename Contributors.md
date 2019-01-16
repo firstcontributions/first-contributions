@@ -804,6 +804,7 @@
 - wefromstars
 - [Minnow Lin](https://github.com/minnowlin)
 - SenhorN
+- [Vlad Danilov](https://github.com/vladdani)
 - kalpa wijesooriya
 - Explorer3991
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
