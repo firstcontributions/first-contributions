@@ -618,6 +618,7 @@
 - [Michał Warda](https://github.com/michalwarda)
 - [Nida Batool](https://github.com/Nida-Batool/first-contributions.git)
 - [Muhammad Raza](https://github.com/mrazam110)
+- [Le Beier](https://github.com/lebeier)
 - [Oytun Tutuncu](https://github.com/oytuntutun)
 - [Pedro Telleria](https://github.com/guerrerocing)
 - [emperorjnx](https://github.com/emperorjnx)
