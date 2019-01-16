@@ -743,6 +743,7 @@
 - [dpcavalcanti](https://github.com/dpcavalcanti)
 - [Peadar O'Raghallaigh](https://github.com/peteroreil)
 - [Bojan](https://github.com/TheBearYT)
+- [Salaidevaganamani](https://github.com/Salaidevaganamani)
 - [lduenas](https:/github.com/luisduenas)
 - [VIDHEY](https://github.com/VIDHEY)
 - [Onionmullet](https://github.com/Onionmullet)
