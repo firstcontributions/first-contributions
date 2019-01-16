@@ -24,6 +24,7 @@
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- [Jason Charles] ()
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
