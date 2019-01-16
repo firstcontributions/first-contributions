@@ -263,6 +263,7 @@
 - [Callan Hoskins](https://github.com/callanhoskins)
 - [rob]
 - masterofmagic
+- [fadingbeat] https://github.com/fadingbeat/
 - [himos]
 - [chaynes]
 - [Shrey Sahai]
