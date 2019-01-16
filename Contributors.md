@@ -1,5 +1,6 @@
 # Contributors
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
+- [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
 - [Harel Katz] (https://github.com/HarelKatz)
 - [Christian Westbrook](https://github.com/christian-westbrook)
