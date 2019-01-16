@@ -1,8 +1,6 @@
 # Contributors
 
 - [Mario DeLaPaz](https://github.com/mariocd10)
--[RAJESH VERMA](https://github.com/verma-rajesh)
-
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
@@ -4830,6 +4828,7 @@ Rohan Das
 - [Maxens Achiepi](https://github.com/mxch18)
 - [Vurp](https://github.com/Vurp)
 - [n00bady](https://github.com/n00bady)
+- [RAJESH VERMA](https://github.com/verma-rajesh)
 - [Denise Tran](https://github.com/tdenise)
 - [Mujadded](https://github.com/mujadded)
 - [coljadu](https://github.com/coljadu)
