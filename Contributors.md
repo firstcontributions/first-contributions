@@ -650,6 +650,7 @@
 - [Daniela Llivina](https://github.com/daniela-llivina)
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
+- [Rocktim Saikia](https://github.com/RocktimSaikia)
 - [aneeza](https://github.com/aneezatariq)
 - [Amit Levy](https://github.com/AmitPLevy)
 - [sonodew](https://github.com/sonodew)
