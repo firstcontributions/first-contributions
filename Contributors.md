@@ -4626,6 +4626,7 @@
 - [LaQuita G](https://github.com/yoscheherazade)
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Diego Stiehl](https://github.com/seccomiro)
+- [Tom McDonald] (https://github.com/Tom-McDonald)
 - [Rashid Lasker](https://github.com/rashidlasker)
 - [Melanie Hudson aka Seekingcat](https://github.com/seekingcat)
 - [Jacob Villegas](https://gitub.com/jacobv126)
