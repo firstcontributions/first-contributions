@@ -10026,6 +10026,7 @@ Bryan Romero
 - [alohasolamente](https://github.com/alohasolamente)
 - [JirayuL](https://github.com/JirayuL)
 - [Arnold Marcus](https://github.com/arnoldmm54)
+- [Ishan Patel](https://github.com/ishan909)
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Ugurkan Ates](https://github.com/ugurkanates)
@@ -11768,4 +11769,3 @@ Bryan Romero
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
 - [jt120](https://github.com/jt120)
-
