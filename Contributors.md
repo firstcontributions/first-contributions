@@ -809,6 +809,7 @@
 - [Ravi Jain](https://github.com/engrravijain)
 - [fibonascii](https://github.com/fibonascii)
 - [Sean Mayton](https://github.com/maytonsw)
+- [Mario Hirotoshi](https://github.com/riverm4n)
 - [CodeB9](https://github.com/CodeB9)
 - [Manthan Jain](https://github.com/manthanjain)
 - [Patrick Biffle](https://github.com/Piglacquer)
