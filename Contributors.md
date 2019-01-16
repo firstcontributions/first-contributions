@@ -1,4 +1,5 @@
 # Contributors
+- [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
@@ -509,7 +510,7 @@
 - [Diego Mañas]()
 - [LARHDIR Nadir](https://github.com/itschittybang)
 - [ROUGE Jacques](https://github.com/jacquesrouge)
-- Kanish Anand
+- [Kanish Anand]()
 - [Khalid Elassaad]()
 - [MohitTare](https://github.com/MohitTare)
 - [Nuevo Pixel]()
@@ -718,10 +719,10 @@
 - [Samet Epdenli](https://github.com/cocosmt)
 - [Pranoppal](https://github.com/pranoppal)
 - [Moses613](https://github.com/Moses613)
-- Jason
+- [Jason]()
 - [Alvaro Cueva](https://github.com/varopxndx)
-- Dhruv
-- Darion Toney
+- [Dhruv]()
+- [Darion Toney]()
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [Harshdeep Singh](http://github.com/Harshdeeps4295)
 - [rahul kukreja]
@@ -746,7 +747,7 @@
 - [Chetan Banavikalmutt](https://github.com/chetan-rns)
 - [Surya Verma](https://github.com/surya10197)
 - [Saharsh Jain](https://github.com/SAHARSH123)
-- BbyPls
+- [BbyPls]()
 - [Kush Parmar](https://github.com/igneel73)
 - [dpcavalcanti](https://github.com/dpcavalcanti)
 - [Peadar O'Raghallaigh](https://github.com/peteroreil)
@@ -799,7 +800,7 @@
 - [MartijnPold](https://github.com/martijnpold)
 - [Rounak Saha](https://github.com/rounak1288)
 - [Maggie Bauer](https://github.com/maggiebauer)
-- julio-garcia-fc
+- [julio-garcia-fc]()
 - [Skooma Den]
 - wefromstars
 - [Minnow Lin](https://github.com/minnowlin)
@@ -2459,7 +2460,7 @@
 - [marco](https://github.com/marco671)
 - [Shalini Sreedhar](https://github.com/shalini-s)
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
-- [Mikhail Filatov}(https://github.com/map7000)
+- [Mikhail Filatov](https://github.com/map7000)
 - [Gabriel Fonseca](https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Tushar Gandhi](https://github.com/tushargandhi)
