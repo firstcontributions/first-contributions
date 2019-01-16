@@ -129,6 +129,7 @@
 - [Satvik Dev](https://github.com/kivtas)
 - [Jan Wright](https://github.com/janwright73)
 - [Lir Segev]()
+- [Red Loste] (https://github.com/redloste)
 - [Evan Ho](https://github.com/evanho9)
 - [Shashank Mishra](https://github.com/lousyidiot)
 - [Graham Kesley](https://github.com/PlutoniumProphet)
