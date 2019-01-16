@@ -3326,6 +3326,7 @@ Bakht Jamal Sukhera
 - [Aditya Vishwekar](https://github.com/adityavishwekar)
 - [Eloisa Guerrero](https://github.com/grrrero)
 - [Mukuma Musenge](https://github.com/k9uma)
+- [Fathima Shana Noory](https://github.com/fsnknoor)
 - [Santhosh](https://github.com/sanreddevils)
 - [Prakhar tripathi](https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
@@ -9862,4 +9863,3 @@ quattad
 - [Navneeth Babra](https://github.com/nbabra)
 - [Brian Russell](https://github.com/Brussell03)
 - [Arman Bin Mahmud](https://github.com/armanbinmahmud)
-- [Fathima Shana Noory](https://github.com/fsnknoor)
