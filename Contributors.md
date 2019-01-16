@@ -11598,6 +11598,7 @@ Bryan Romero
 - [Yusuke Honda](https://github.com/yyh-gl)
 - [Nerisse Ramos](https://github.com/nerisse)
 - [Zhengyi Ma(RUC)](https://github.com/Lmerengues)
+- [Christian Latunos](https://github.com/clatunos)
 - [Zane Duffield](https://github.com/zduffield)
 - Arunkumar C
 - [Julio Arboleda](https://github.com/arboledasaa)
