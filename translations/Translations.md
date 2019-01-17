@@ -2,6 +2,7 @@
 
 |  | Translated Link |
 | --- | --- |
+| 🇮🇳 | [ગુજરાતી](README.guj.md) |
 | 🇮🇳 | [हिन्दी](README.hi.md) |
 | 🇮🇳 | [मराठी](README.mr.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
@@ -41,3 +42,8 @@
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇰🇿 | [Қазақша](README.kz.md) |
+| 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
+| 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
+| 🇰🇪 | [Kiswahili (Kenya)](README.zul.md) |
+| 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
