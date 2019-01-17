@@ -5,6 +5,7 @@
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
 - Rishant Jain
+- Akriti Katiyar
 - [Yezy Ilomo] (https://github.com/yezyilomo)
 - [Bernard Gonzales] (https://github.com/bernardgonzales)
 - [Keerthan Ekbote] (https://github.com/saiskee)
