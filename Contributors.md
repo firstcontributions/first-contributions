@@ -54,6 +54,7 @@
 - [Pat Connolly](https://github.com/pjconnolly12)
 - [Nikunj Kela]
 - [Zechariah Raman](https://github.com/ZechariahRaman)
+- [Michal Jarmocik](https://github.com/aca18mj)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Ashly Mathew](https://github.com/ashiemath)
 - [Luke Aimson](https://github.com/LukeAims)
