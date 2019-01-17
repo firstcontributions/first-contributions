@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
@@ -316,6 +316,7 @@
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Eli Alvarado](https://github.com/elialvaradoo)
 - [Sourav]
+- [Phan Son Loc](https://github.com/phansonloc1999)
 - [Sukhesh Samant](https://github.com/sukhsama)
 - [Bipul Kumar](https://github.com/imbipulkumar)
 - [Ivana](https://github.com/ivanaangelia)
