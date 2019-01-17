@@ -105,6 +105,7 @@
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
 - [Laura Fiuza](https://github.com/laurafiuza)
  Vaibhav Kaushal
+- Alex McCafferty
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Chaz](https://github.com/chaz303)
