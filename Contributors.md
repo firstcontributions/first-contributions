@@ -11823,4 +11823,5 @@ Bryan Romero
 - [ferminht](https://github.com/ferminhg)
 - [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
 - [Brandon E](https://github.com/ChoppinLumber)
+- [John Prideaux](https://github.com/jpridx)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
