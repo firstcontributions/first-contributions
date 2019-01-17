@@ -11827,4 +11827,5 @@ Bryan Romero
 - [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
 - [Brandon E](https://github.com/ChoppinLumber)
 - [John Prideaux](https://github.com/jpridx)
+- [Javad Yadegari](https://github.com/jyadegari)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
