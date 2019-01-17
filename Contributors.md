@@ -987,6 +987,7 @@
 - [Kevin Johnston](https://github.com/kevdotdev)
 - [shreyansh](https://github.com/shreyansh08)
 - [Samuel Gebrehiwet](https://github.com/samuelbruk)
+- [Darshan Dagly]  (https://github.com/darshandagly)
 - [Jason Chan](https://github.com/QubeChan)
 - [SteveMarshall](https://github.com/marshast)
 - [Fabian Terh](https://github.com/fterh)
