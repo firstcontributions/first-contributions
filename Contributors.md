@@ -11043,6 +11043,7 @@ Bryan Romero
 - [Wei](https://github.com/weichenw)
 - [annaanx24](https://github.com/annaanx24)
 - [Shnibl](https://github.com/shnibl)
+- [Patrick Martel](https://github.com/karlyn33)
 - [Billkav](https://github.com/basiliskav)
 - [Artur Guedes](https://github.com/ArturGuedes)
 - [Adam Freeman](https://github.com/adamfr33man)
