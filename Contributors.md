@@ -4,6 +4,7 @@
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
+- Rishant Jain
 - [Yezy Ilomo] (https://github.com/yezyilomo)
 - [Bernard Gonzales] (https://github.com/bernardgonzales)
 - [Keerthan Ekbote] (https://github.com/saiskee)
