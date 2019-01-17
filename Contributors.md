@@ -732,6 +732,7 @@
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
 - [tnssh](https://github.com/tnssh)
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
+- [Juan Pablo Yeverino](https://github.com/JPYeverino)
 - [Samet Epdenli](https://github.com/cocosmt)
 - [Pranoppal](https://github.com/pranoppal)
 - [Moses613](https://github.com/Moses613)
