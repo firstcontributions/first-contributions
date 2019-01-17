@@ -4352,6 +4352,7 @@
 - [U Ba Tin](https://github.com/ubatin)
 - [Vidushi Jain](https://github.com/VidushiJain30)
 - [Aditya Agarwal](https://github.com/itaditya)
+- [Michael Sasse](https://github.com/mikeysasse)
 - [Rohit Jakhmola](https://github.com/Rohit599)
 - [Rebecca Williams](https://github.com/Becca941)
 - [Andrei Ushakov](https://github.com/aushakov95)
