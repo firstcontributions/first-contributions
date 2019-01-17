@@ -3275,6 +3275,7 @@
 - [Blanca](https://github.com/helloart3mis)
 - [Epharra M](https://github.com/emendoza06)
 - [snodl](https://github.com/snodl)
+- [Kerem E](https://github.com/kerem-ersoz)
 - [Wei Fan](https://github.com/weifxn)
 - [deviled](https://github.com/deviled)
 - [mayvar](https://github.com/vmayce)
@@ -11816,5 +11817,3 @@ Bryan Romero
 - [ferminht](https://github.com/ferminhg)
 - [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
 - [Brandon E](https://github.com/ChoppinLumber)
-- [Kerem E] (https://github.com/kerem-ersoz)
-
