@@ -35,6 +35,7 @@
 - [E H]()
 - [Keith Hudock](https:github.com/keithudock)
 - [Chamith](https://github.com/kanda94)
+- [Frederik Hoffmann] (https://github.com/FrederikHoffmann)
 - [Jason Charles] ()
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
