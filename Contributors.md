@@ -196,6 +196,7 @@
 - [John Bidinger](https://github.com/johnbidinger)
 - [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
+- [Chris Arsenault](https://github.com/chrisstanarsenault)
 - [Akshat Mittal](https://github.com/akshatmittal19)
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum](https://github.com/AngryChum)
