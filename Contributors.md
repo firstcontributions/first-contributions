@@ -15,6 +15,7 @@
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
 - [Harsh Gadodia](https://github.com/harshgadodia)
+- [Alejandro Montesinos](https://github.com/AlexMontesinos)
 - [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
