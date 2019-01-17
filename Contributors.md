@@ -10846,6 +10846,7 @@ Bryan Romero
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Vaibhav Shrivastava](https://github.com/mishuvs)
 - [Dumika Jayarathna](https://github.com/Dumika)
+- [Randy Daratan](https://github.com/randy-daratan)
 - [Saksham Pruthi](https://github.com/saksham0804)
 - [Ahad Ali](https://github.com/ahad80)
 - [nachogoca](https://github.com/nachogoca)
