@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
@@ -1132,6 +1132,7 @@
 - [Priyam Kumar](https://github.com/priiyam)
 - [Alaaddin Alokby](https://github.com/alokbya)
 - Trent Jeffery
+- [Stanila Andrei](https://github.com/Andu033)
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Saravanan Elumalai](https://github.com/saravannann)
