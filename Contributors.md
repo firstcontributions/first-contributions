@@ -79,6 +79,7 @@
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Håvard Wilsgaard](https://github.com/havardwi)
 - [Yuma Sumi](https://github.com/y-yeah)
+- [Elad Matia] (https://github.com/JavaMatia)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois](https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
