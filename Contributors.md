@@ -11850,3 +11850,4 @@ Bryan Romero
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin] (https://github.com/bogdaner2)
+- [David Fernandes] (https://github.com/codigospredicados)
