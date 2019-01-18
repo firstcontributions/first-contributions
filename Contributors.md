@@ -5,6 +5,8 @@
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
 - Rishant Jain
+B
+- [Erudite Monkey](https://github.com/translucent504)
 - Akriti Katiyar
 - I dont know
 - Parag Kanodia
