@@ -10266,6 +10266,7 @@ Bryan Romero
 - [Ratanaksamrith You](https://github.com/yrsamrith)
 - [Brian Christian](https://github.com/fdeitylink)
 - [AFrittella](https://github.com/afrittella)
+- [Dmitry Minaev](https://github.com/minaevd)
 - [Mikele Guedes](https://github.com/mikeliguedes)
 - [Karm0s](https://github.com/Karm0s)
 - [Houn_Rithyseth](https://github.com/Indra8288)
