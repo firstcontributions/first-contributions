@@ -1,11 +1,10 @@
-# Contributors
+﻿# Contributors
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
 - Abbas
 - Rishant Jain
-B
 - [Erudite Monkey](https://github.com/translucent504)
 - Akriti Katiyar
 - I dont know
