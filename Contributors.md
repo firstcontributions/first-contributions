@@ -11839,3 +11839,4 @@ Bryan Romero
 - [Javad Yadegari](https://github.com/jyadegari)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
+- [Kevin Satur](https://github.com/math-ecen)
