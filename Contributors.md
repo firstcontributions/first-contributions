@@ -2497,6 +2497,7 @@ Timothy-Brian Gosalvez
 - [Akshit Goyal](https://github.com/akshit15013)
 - [Md Inzamamul Haque](https://github.com/mihaque313)
 - [avani](https://github.com/avani)
+- [Andreas Bur](https://github.com/Andreas-Bur)
 - [Shoaib Siddiqi](https://github.com/ShoaibSiddiqi)
 - [John Doe](https://github.com/johndoe)
 - [Emma Kingston](https://github.com/emmakingston)
