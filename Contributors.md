@@ -3,9 +3,7 @@
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
-- 
-
--Abbas
+- Abbas
 - Rishant Jain
 - Akriti Katiyar
 - I dont know
