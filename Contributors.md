@@ -3,7 +3,9 @@
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
-- Abbas
+- 
+
+-Abbas
 - Rishant Jain
 - Akriti Katiyar
 - I dont know
@@ -12,6 +14,7 @@
 - [Bernard Gonzales] (https://github.com/bernardgonzales)
 - [Keerthan Ekbote] (https://github.com/saiskee)
 - [Harel Katz] (https://github.com/HarelKatz)
+- [Jessica Saini] (https://github.com/Jess2110)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
