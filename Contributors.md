@@ -11849,3 +11849,4 @@ Bryan Romero
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
+- [Bohdan Konorin] (https://github.com/bogdaner2)
