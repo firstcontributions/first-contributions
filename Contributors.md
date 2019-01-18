@@ -17,6 +17,7 @@
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
 - [romanvx](https://github.com/romanvx)
+- [bish singh](https://github.com/bishtrial)
 - [Imran Alam](https://github.com/imran5555)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
