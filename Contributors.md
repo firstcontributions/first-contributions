@@ -242,6 +242,7 @@
 - [Apoorva Raju]()
 - [Yorhaz40](https://github.com/yorhaz40)
 - [prateeksawhney97](https://github.com/prateeksawhney97)
+- [Jeremy Lin](https://github.com/jinweilin8/)
 - [Rachel](https://github.com/rachelestherg)
 - [kdg](https://github.com/dgkk)
 - [dtt](https://github.com/thanhtrungit25)
