@@ -4999,6 +4999,7 @@ Timothy-Brian Gosalvez
 - [shajimon philip](https://github.com/shajiphilip22)
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
+- [Melissa Arrington] (https://github.com/melissaarrington1)
 - [Laurent Devernay](https://github.com/ldevernay)
 - [Darkpingouin](https://github.com/mmoderwell)
 - [Hasan Mesut Meral](https://github.com/hmmeral)
