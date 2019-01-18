@@ -860,6 +860,7 @@ Timothy-Brian Gosalvez
 - [Maike Negreiros](https://github.com/maikenegreir
 - [Roy Javier](https://github.com/rcjavier)
 - [Prafulla Pal](https://github.com/j0rden007)
+- [Prafull Kumar](https://github.com/kprafull)
 - Vishnu Bhagirathan
 - [IoannisPelekoudas](https://github.com/pelekoudasq)
 - Lucas Fellipe
