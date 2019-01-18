@@ -54,7 +54,9 @@
 - [Pat Connolly](https://github.com/pjconnolly12)
 - [Nikunj Kela]
 - [Zechariah Raman](https://github.com/ZechariahRaman)
+- [Michal Jarmocik](https://github.com/aca18mj)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
+- [Ashly Mathew](https://github.com/ashiemath)
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
 - [KJ Schmidt](https://github.com/kjschmidt913)
@@ -64,6 +66,7 @@
 - [Govinda Dhirde](https://github.com/govinda1)
 - [Hassan Usman](https://github.com/husseyexplores)
 - [Josh R](https://github.com/jr2684)
+- [Damian Behymer](https://github.com/ProjectTermina)
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Wilfredo Ruiz](https://github.com/wruiz8891)
@@ -105,6 +108,7 @@
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
 - [Laura Fiuza](https://github.com/laurafiuza)
  Vaibhav Kaushal
+- Alex McCafferty
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Chaz](https://github.com/chaz303)
@@ -660,6 +664,7 @@
 - [Brandon Wozniewicz](https://github.com/brandonwoz)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [Rob Reichgelt](https://github.com/Dehv27)
+Timothy-Brian Gosalvez
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
 - [Arslan Talib](https://github.com/arslantalib12)
@@ -4994,6 +4999,7 @@
 - [shajimon philip](https://github.com/shajiphilip22)
 - [Eduardo Diaz](https://github.com/edjroz)
 - [Matt Moderwell](https://github.com/mmoderwell)
+- [Melissa Arrington] (https://github.com/melissaarrington1)
 - [Laurent Devernay](https://github.com/ldevernay)
 - [Darkpingouin](https://github.com/mmoderwell)
 - [Hasan Mesut Meral](https://github.com/hmmeral)
@@ -11780,6 +11786,7 @@ Bryan Romero
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
+- [brriann](https://github.com/brriann)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
@@ -11828,6 +11835,7 @@ Bryan Romero
 - [omprakash_swami](https://github.com/opswami75)
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
+- [Abhishek Ahirwar](https://github.com/abhiahirwar
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
@@ -11835,3 +11843,5 @@ Bryan Romero
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
+- [thojest](https://github.com/thojest)
+- [Kevin Satur](https://github.com/math-ecen)
