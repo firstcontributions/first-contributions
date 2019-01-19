@@ -11864,4 +11864,5 @@ Bryan Romero
 - [David Fernandes] (https://github.com/codigospredicados)
 - [Marcin Lubowicz](https://github.com/Moviss)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
+- [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
