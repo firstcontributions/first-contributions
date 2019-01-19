@@ -5272,6 +5272,7 @@ Timothy-Brian Gosalvez
 - [Akshay Chopra](https://github.com/akshaychopra96)
 - [Marek Dano](https://github.com/marekdano)
 - [Marcos Gomez](https://github.com/margobra8)
+- [Rebecca Mayer](https://github.com/rbmayer)
 - [Pronomita Dey](https://github.com/PronomitaDey)
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Yern Yee](https://github.com/YernYee)
