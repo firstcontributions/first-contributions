@@ -1,4 +1,4 @@
-﻿# Contributors
+./  # Contributors
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
@@ -836,6 +836,7 @@ Timothy-Brian Gosalvez
 - [Vlad Danilov](https://github.com/vladdani)
 - kalpa wijesooriya
 - Explorer3991
+- [Denize Ignacio] (https://github.com/dignacio0815)
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
