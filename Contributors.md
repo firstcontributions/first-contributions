@@ -780,6 +780,7 @@ Timothy-Brian Gosalvez
 - [Surya Verma](https://github.com/surya10197)
 - [Saharsh Jain](https://github.com/SAHARSH123)
 - [BbyPls]()
+- [Ashish Dawale](https://github.com/ashishdawale20)
 - [Kush Parmar](https://github.com/igneel73)
 - [dpcavalcanti](https://github.com/dpcavalcanti)
 - [Peadar O'Raghallaigh](https://github.com/peteroreil)
