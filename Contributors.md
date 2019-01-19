@@ -11857,3 +11857,4 @@ Bryan Romero
 - [Bohdan Konorin] (https://github.com/bogdaner2)
 - [David Fernandes] (https://github.com/codigospredicados)
 - [Marcin Lubowicz](https://github.com/Moviss)
+- [JR Cook](https://github.com/Eldorian)
