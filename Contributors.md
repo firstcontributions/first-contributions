@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
@@ -10278,6 +10278,7 @@ Bryan Romero
 - [Iris Soares](https://github.com/irixs)
 - [Leticia Maciel](https://github.com/leehmaciel)
 - [José Brandão](https://github.com/OZebra)
+- [Sampath Gonnuru](https://github.com/Gonnuru)
 - [Jayam Srivastava](https://github.com/Srivastava-jayam)
 - [0xJhow](https://github.com/0xjhow)
 - [Harris Iqbal](https://github.com/Harris-Iqbal)
