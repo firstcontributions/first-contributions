@@ -11871,3 +11871,4 @@ Bryan Romero
 - [Neal Stumpf](https://github.com/MildlyOffensive)
 - [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
+- [JD Santos](https://github.com/jd-santos)
