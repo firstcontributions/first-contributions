@@ -31,6 +31,7 @@
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
+- [Charles Steinmetz](https://github.com/GIGA-Coding/)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
