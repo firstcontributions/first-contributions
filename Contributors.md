@@ -24,6 +24,7 @@
 - [Imran Alam](https://github.com/imran5555)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
+- Yo Yo
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Alejandro Montesinos](https://github.com/AlexMontesinos)
