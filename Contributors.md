@@ -75,6 +75,7 @@ anuragkanade
 - [fabbellotti]
 - [David Tran] (https://github.com/dhtran91/)
 - [Derek Cardwell] (https://github.com/siestacardwell)
+- [Jon K] (https://github.com/Jskoenig)
 - [hh534]
 - [Safura]
 - [mattv611]
