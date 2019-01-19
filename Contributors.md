@@ -105,6 +105,7 @@
 - [pbhudiaBAE](https://github.com/pbhudiaBAE)
 - [Fuad Rustamzade](https://github.com/Funtikl)
 - [Chas McLaughlin](https://github.com/vv020633)
+- [Anna Berndt](https://github.com/alberndt10)
 - [Muna Ali](https://githib.com/Muna107)
 - [Nitin Kumar Singh](https://github.com/nitinitleen1)
 - [Sayan Mandal](https://github.com/sayanmandal)
