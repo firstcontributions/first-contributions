@@ -16,6 +16,7 @@
 - [Bernard Gonzales] (https://github.com/bernardgonzales)
 - [Keerthan Ekbote] (https://github.com/saiskee)
 - [Harel Katz] (https://github.com/HarelKatz)
+[Anilla](https://github.com/Anillab)
 - [Jessica Saini] (https://github.com/Jess2110)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
