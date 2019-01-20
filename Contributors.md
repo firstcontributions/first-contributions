@@ -28,6 +28,7 @@
 - [Leon Becker](https://github.com/leonmartinbecker)
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
+- [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Alejandro Montesinos](https://github.com/AlexMontesinos)
