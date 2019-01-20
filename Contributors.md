@@ -10,6 +10,7 @@
 - Akriti Katiyar
 - [William Ciesialka](https://github.com/wciesialka)
 - I dont know
+- Alftri
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
