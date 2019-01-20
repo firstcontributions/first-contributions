@@ -104,6 +104,7 @@
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois](https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
+- [Matthew Yates](https://github.com/M-C-Yates)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
 - [Max Zhang](https://github.com/maxpluez)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
