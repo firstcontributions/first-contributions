@@ -12,6 +12,7 @@
 - I dont know
 - Parag Kanodia
 - Affan Aslam
+- [Sabás Mendívil](https://github.com/sabasm)
 - [Yezy Ilomo] (https://github.com/yezyilomo)
 - [Bernard Gonzales] (https://github.com/bernardgonzales)
 - [Keerthan Ekbote] (https://github.com/saiskee)
