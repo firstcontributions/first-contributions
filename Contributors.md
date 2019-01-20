@@ -28,6 +28,7 @@
 - [bish singh](https://github.com/bishtrial)
 - [Imran Alam](https://github.com/imran5555)
 - [Leon Becker](https://github.com/leonmartinbecker)
+- Bilaval Sharma
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
 - [Aman Sanghvi](https://github.com/amansanghvi)
