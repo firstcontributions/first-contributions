@@ -318,6 +318,7 @@
 - [Braam Beresford](https://github.com/braamBeresford)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
+- [Will Sherman](https://github.com/will-sherman)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Armando Alvear](https://github.com/ArmandoAlvear23/)
