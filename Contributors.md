@@ -311,6 +311,7 @@
 - [Callan Hoskins](https://github.com/callanhoskins)
 - [rob]
 - masterofmagic
+  jiggly-puff
 - [fadingbeat] https://github.com/fadingbeat/
 - [himos]
 - [chaynes]
