@@ -35,6 +35,7 @@
 - jigyasa
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
+- [Siddhartha Pande](https://github.com/Siddharthapande88)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
