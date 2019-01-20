@@ -4826,7 +4826,7 @@ Timothy-Brian Gosalvez
 - [Luka Khonelidze](https://github.com/luka)
 - [Keith Watson](https://github.com/WhowantsToknow)
 - [Jonny](https://github.com/Yeti725)
-- [Daniel Millier](https://github.com/DanJMillier)  
+- [Daniel Millier](https://github.com/DanJMillier)
 - [Shweta]()
 - [Ainevsia](https://github.com/Ainevsia)
 - [Saraansh](https://github.com/saraansh1999)
@@ -11893,3 +11893,4 @@ Bryan Romero
 - [Shenyu](https://github.com/lishenyu16)
 - [Moamen Moataz] (https://github.com/MoamenMoatazYoussef)
 - [Peter Kim](https://github.com/PeterKim1967)
+- [mafnah](https://github.com/mafnah)
