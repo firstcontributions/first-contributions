@@ -1,9 +1,10 @@
-﻿# Contributors
+# Contributors
+
 - [Qing  Liu](https://github.com/useliuqing)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
-- [Asim Thapa] ( https://github.com/asimtut )
+- [Asim Thapa](https://github.com/asimtut)
 - Abbas
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
@@ -14,12 +15,12 @@
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
-- [Yezy Ilomo] (https://github.com/yezyilomo)
-- [Bernard Gonzales] (https://github.com/bernardgonzales)
-- [Keerthan Ekbote] (https://github.com/saiskee)
-- [Harel Katz] (https://github.com/HarelKatz)
-[Anilla](https://github.com/Anillab)
-- [Jessica Saini] (https://github.com/Jess2110)
+- [Yezy Ilomo](https://github.com/yezyilomo)
+- [Bernard Gonzales](https://github.com/bernardgonzales)
+- [Keerthan Ekbote](https://github.com/saiskee)
+- [Harel Katz](https://github.com/HarelKatz)
+- [Anilla](https://github.com/Anillab)
+- [Jessica Saini](https://github.com/Jess2110)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
@@ -54,7 +55,7 @@
 - [Timur Shigapov](https://github.com/timurshigapov)
 - [Keith Hudock](https:github.com/keithudock)
 - [Chamith](https://github.com/kanda94)
-- [Frederik Hoffmann] (https://github.com/FrederikHoffmann)
+- [Frederik Hoffmann](https://github.com/FrederikHoffmann)
 - [Jason Charles] ()
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
@@ -81,7 +82,7 @@
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [Govinda Dhirde](https://github.com/govinda1)
 - [Hassan Usman](https://github.com/husseyexplores)
-- [Manikandan Gunaseelan] (https://github.com/manig1729)
+- [Manikandan Gunaseelan](https://github.com/manig1729)
 - [Josh R](https://github.com/jr2684)
 - [Damian Behymer](https://github.com/ProjectTermina)
 - [Jowensky Neard](https://github.com/Jowensky)
@@ -99,7 +100,7 @@
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Håvard Wilsgaard](https://github.com/havardwi)
 - [Yuma Sumi](https://github.com/y-yeah)
-- [Elad Matia] (https://github.com/JavaMatia)
+- [Elad Matia](https://github.com/JavaMatia)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois](https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
@@ -853,6 +854,7 @@ Timothy-Brian Gosalvez
 - [Vlad Danilov](https://github.com/vladdani)
 - kalpa wijesooriya
 - Explorer3991
+- [Denize Ignacio] (https://github.com/dignacio0815)
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
@@ -11875,12 +11877,13 @@ Bryan Romero
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
-- [Bohdan Konorin] (https://github.com/bogdaner2)
-- [Prakash Sukumar] (https://github.com/praknetlg)
-- [David Fernandes] (https://github.com/codigospredicados)
+- [Bohdan Konorin](https://github.com/bogdaner2)
+- [Prakash Sukumar](https://github.com/praknetlg)
+- [David Fernandes](https://github.com/codigospredicados)
 - [Marcin Lubowicz](https://github.com/Moviss)
+- [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
 - [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
-- [jhkim] (https://github.com/capefeather)
+- [jhkim](https://github.com/capefeather)
 - [Shenyu](https://github.com/lishenyu16)
