@@ -11708,6 +11708,7 @@ Bryan Romero
 - [MrBuddha](https://github.com/MrBuddha)
 - [ioakaarjun](https://github.com/ioakaarjun)
 - [heisjh](https://github.com/heisjh/)
+- [Michal Bais](https://github.com/michalbais)
 - [Toni Oshikanlu](https://github.com/tonioshikanlu/)
 - [Khiarov](https://github.com/khiarov/)
 - [drmartin66](https://github.com/drmartin66/)
