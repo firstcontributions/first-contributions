@@ -11651,6 +11651,7 @@ Bryan Romero
 - [Gökhan Özeloğlu](https://github.com/gozeloglu/)
 - [Charles Hayes](https://github.com/ch88251)
 - [Eric Shtivelberg](https://github.com/eshtive353)
+- [Jason Su] (https://github.com/bongotw)
 - [Hemanth GS](https://github.com/hemags)
 - [Rayon Pinnock](https://github.com/pinnock)
 - [kangyongseok](https://github.com/kangyongseok)
