@@ -165,6 +165,7 @@
 - [David Tamas-Parris](https://github.com/davidtp19)
 - [Chinu Lee](https://github.com/alelee)
 - [Javier Velez](https://github.com/jvelezx)
+- [Shivansh Darshan]
 - [Spnarkdnark] (https://github.com/spnarkdnark)
 - [Wesley] (https://github.com/wesley-ng)
 - [Ujjwal Srivastava](https://github.com/pretrator)
