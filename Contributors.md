@@ -63,6 +63,7 @@
 - [Chamith](https://github.com/kanda94)
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
 - [Jason Charles] ()
+- [N-Mor]
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
