@@ -44,6 +44,7 @@
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
+- [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
 - [Wilbert Caine](https://github.com/wcaine)
