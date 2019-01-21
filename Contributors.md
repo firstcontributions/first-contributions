@@ -11824,6 +11824,7 @@ Bryan Romero
 - [Preyansh Kaushik](https://github.com/preyansh98)
 - [Anirudh](https://github.com/Anirudh09)
 - [Naveen]()
+- Han Solo
 - [BenEwing33](https://github.com/BenEwing33)
 - [tangarts](https://github.com/tangarts)
 - [Girish Poojari](https://github.com/girishpoojari)
