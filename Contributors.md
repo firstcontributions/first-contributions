@@ -54,6 +54,7 @@
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- [Anirudh B](https://github.com/paplio)
 - [Timur Shigapov](https://github.com/timurshigapov)
 - [Keith Hudock](https:github.com/keithudock)
 - [Chamith](https://github.com/kanda94)
