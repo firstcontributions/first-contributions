@@ -99,6 +99,7 @@
 - [Jejulee](https://github.com/jejulee)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
+- [Tomas F](https://github.com/tomasforsman)
 - [Zecheng Wu](https://github.com/Wzc2016)
 - [Jaouhari Youssef](https://github.com/jaouhary)
 - [Ryan Foss](https://github.com/rfoss92/)
