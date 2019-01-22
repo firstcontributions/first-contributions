@@ -11928,3 +11928,4 @@ Bryan Romero
 - [Peter Zinkovsky](https://github.com/peterz3)
 - [Nik Lutzenhiser] (https://github.com/Smokstak)
 - [Jan Biardzki](https://github.com/yanchesky/)
+- [Henrique Resende](https://github.com/HenryXV)
