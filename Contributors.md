@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Smit Gajjar](https://github.com/smitgajjar)
@@ -56,6 +56,7 @@
 - [Joseph T Lucas](https://github.com/josephtlucas)
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
+- [Jim Zhou](https://github.com/jimzhou112)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
 - [Anirudh B](https://github.com/paplio)
