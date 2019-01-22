@@ -11912,3 +11912,4 @@ Bryan Romero
 - [mafnah](https://github.com/mafnah)
 - [Ryan McCormick](https://github.com/rmccorm4)
 - [Standley Eugene](https://github.com/estand25)
+- [Neo Choi](https://github.com/vampireneo)
