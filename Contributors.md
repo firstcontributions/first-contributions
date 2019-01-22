@@ -5,6 +5,7 @@
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa](https://github.com/asimtut)
+- [Ammar Tahir](https://github.com/iAmmarTahir)
 - Abbas
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
