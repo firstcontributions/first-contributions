@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Smit Gajjar](https://github.com/smitgajjar)
@@ -86,6 +86,7 @@
 - [Nikunj Kela]
 - [Zechariah Raman](https://github.com/ZechariahRaman)
 - [Michal Jarmocik](https://github.com/aca18mj)
+- [Jonny Deveson] (https://github.com/jdevo23)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Ashly Mathew](https://github.com/ashiemath)
 - [Luke Aimson](https://github.com/LukeAims)
