@@ -6,6 +6,7 @@
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa](https://github.com/asimtut)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
+- [Filip Skukan](https://github.com/skukan159)
 - Abbas
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
