@@ -14,6 +14,7 @@
 - Akriti Katiyar
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
+- Asil Mian
 - I dont know
 - Alftri
 - Beirut
