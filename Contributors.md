@@ -10,6 +10,7 @@
 - [Erudite Monkey](https://github.com/translucent504)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
+	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - I dont know
 - Alftri
