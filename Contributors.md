@@ -15,6 +15,7 @@
 - [William Ciesialka](https://github.com/wciesialka)
 - I dont know
 - Alftri
+- Beirut
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - Parag Kanodia
 - Affan Aslam
