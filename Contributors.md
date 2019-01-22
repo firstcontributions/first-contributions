@@ -143,6 +143,7 @@
 - Alex McCafferty
 - Mi'Angel Pata
 - [Jesse Lau]()
+- Marjakuusi
 - [Chaz](https://github.com/chaz303)
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Nikhil Bansal](https://github.com/NikhilBansal1999)
