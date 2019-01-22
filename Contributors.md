@@ -8,6 +8,7 @@
 - Abbas
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
+- [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
 - [William Ciesialka](https://github.com/wciesialka)
 - I dont know
