@@ -43,6 +43,7 @@
 - [romanvx](https://github.com/romanvx)
 - [bish singh](https://github.com/bishtrial)
 - [Imran Alam](https://github.com/imran5555)
+- [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
 - [Leon Becker](https://github.com/leonmartinbecker)
 - Bilaval Sharma
 - [lcqstock](https://github.com/lcqstock)
