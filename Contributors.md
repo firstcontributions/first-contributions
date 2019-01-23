@@ -10,7 +10,8 @@
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
 - Abbas
--[Marcus Snow] (https://github.com/Jay-snow)
+- [pale](https://github.com/Paleless)
+-[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
