@@ -107,6 +107,7 @@
 - [Ishaan Sharma](https://github.com/Ishaan99)
 - [Neeraj Singh](https://github.com/GrayR00t)
 - [Lisa Hunt](https://github.com/GeckoLisa)
+- [David Sun](https://github.com/dave4506)
 - [Govinda Dhirde](https://github.com/govinda1)
 - [Hassan Usman](https://github.com/husseyexplores)
 - [Manikandan Gunaseelan](https://github.com/manig1729)
