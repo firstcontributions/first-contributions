@@ -1,6 +1,7 @@
 # Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
+- [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Andreas Sandskär](https://github.com/passar)
