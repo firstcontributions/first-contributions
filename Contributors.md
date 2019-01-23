@@ -121,6 +121,7 @@
 - [Håvard Wilsgaard](https://github.com/havardwi)
 - [Yuma Sumi](https://github.com/y-yeah)
 - [Elad Matia](https://github.com/JavaMatia)
+- [Daniel Tejeda](https://github.com/daniel-tejeda)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
 - [Sébastien Caunois](https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
