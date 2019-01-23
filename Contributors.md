@@ -57,6 +57,7 @@
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
+- [Mickey Mouse](https://github.com/chinchinme)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
 - [Mike DeSantis](https://github.com/gitcamus123)
