@@ -10,6 +10,7 @@
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
 - Abbas
+- [Angela Liu] (https://github.com/rgangela99)
 - [pale](https://github.com/Paleless)
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
