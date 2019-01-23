@@ -1496,6 +1496,7 @@ Timothy-Brian Gosalvez
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
 - Shlok Agarwal
 - Jelena Golova
+- [AngeredZeus] (https://github.com/AngeredZeus)
 - [Peter R](https://github.com/peterr101)
 - [Tyler Clark]()
 - [Chase Terry](https://github.com/cdterry87)
