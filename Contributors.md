@@ -251,6 +251,7 @@
 - Andreas Hayer
 - Ana Sousa
 - [Chris Wolf](https://github.com/chriswolfdesign)
+- [Vinay Dahiya](https://github.com/pyvkd)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Lorena](https://github.com/lorenafoia)
 - [Johira Afzali](https://github.com/joafz)
