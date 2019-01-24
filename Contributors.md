@@ -6,6 +6,7 @@
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
+- [Andreas Lind] (https://github.com/Fezter82)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa](https://github.com/asimtut)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
