@@ -11,6 +11,7 @@
 - [Asim Thapa](https://github.com/asimtut)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
+- [Rohith Saranga](https://github.com/rohith203)
 - Abbas
 - [Angela Liu] (https://github.com/rgangela99)
 - [pale](https://github.com/Paleless)
