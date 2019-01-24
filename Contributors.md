@@ -4,6 +4,7 @@
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
 - [Smit Gajjar](https://github.com/smitgajjar)
+- [Emma Ashley](https://github.com/emmanio)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
