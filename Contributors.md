@@ -11963,3 +11963,4 @@ Bryan Romero
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Lucian Dinu](https://github.com/luciandinu93)
+- [meSSH](https://github.com/IAmSSH)
