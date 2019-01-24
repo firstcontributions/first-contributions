@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Philemon Johnson](https://github.com/snowmanstark)
@@ -6307,6 +6307,7 @@ Rutvij Khatri (https://github.com/rutvij2811)
 - [Kevin C](https://github.com/caokevinc)
 - [Jimil Patel](https://github.com/p4telj)
 - [Missy Elliot Smith](https://github.com/DataIsMeta)
+- [Eddy Salvodon](https://github.com/esalvodon)
 - [Mark Fenske](https://github.com/markfenske84)
 - [Dinesh Patil](https://github.com/dineshp23)
 - [Priyance Mandlewala](https://github.com/princemandlewala)
