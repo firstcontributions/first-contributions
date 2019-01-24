@@ -11961,3 +11961,4 @@ Bryan Romero
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
+- [Lucian Dinu](https://github.com/luciandinu93)
