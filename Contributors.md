@@ -897,6 +897,7 @@ Timothy-Brian Gosalvez
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
+- [Phillip Zachariah] (https://github.com/pzach001)
 - [Alex Boerschinger](https://github.com/writetoalexander)
 - [Anil Basdeo](https://github.com/Zer02)
 - [Chris Short](https://github.com/shortc)
