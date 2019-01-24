@@ -3,6 +3,7 @@
 - [Qing  Liu](https://github.com/useliuqing)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
+- [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
