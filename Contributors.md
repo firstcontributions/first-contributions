@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Philemon Johnson](https://github.com/snowmanstark)
@@ -2871,6 +2871,7 @@ Timothy-Brian Gosalvez
 - [Brandon Sloan](https://github.com/brandsloan)
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
+- [Jeffrey Tram](https://github.com/jeffreytram)
 - [Wenqin Wang](https://github.com/wenqinduke)
 - [Danial](https://github.com/DeeHechEss)
 - [spwitt](https://github.com/spwitt)
