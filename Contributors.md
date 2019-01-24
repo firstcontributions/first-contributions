@@ -24,6 +24,7 @@
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
+- [Andrew Landis](https://github.com/mrlandis3)
 - I dont know
 - Alftri
 - Beirut
