@@ -814,6 +814,7 @@ Timothy-Brian Gosalvez
 - [Alvaro Cueva](https://github.com/varopxndx)
 - [Dhruv]()
 - [Darion Toney]()
+- [Max Adams](https://github.com/ProteinMachine)
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [Harshdeep Singh](http://github.com/Harshdeeps4295)
 - [rahul kukreja]
