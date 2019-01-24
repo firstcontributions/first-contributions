@@ -29,6 +29,7 @@
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
+- [Laila Elimam] (https://github.com/lailaelimam)
 - [Boone Chen]
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
