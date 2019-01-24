@@ -11955,4 +11955,5 @@ Bryan Romero
 - [Henrique Resende](https://github.com/HenryXV)
 - [Igor Kulakov](https://github.com/iiKulakov)
 - [Richard Theaker](https://github.com/rtheaker)
+- [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
