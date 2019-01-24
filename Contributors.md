@@ -49,6 +49,7 @@
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
 - [John Osborn] (https://github.com/josborn88)
+- [Krishna Swaroop] (https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Suyash Patel](https://github.com/suyashpatel98)
@@ -194,6 +195,7 @@
 - [Chinu Lee](https://github.com/alelee)
 - [Javier Velez](https://github.com/jvelezx)
 - [Shivansh Darshan]
+- [Dev S]
 - [Spnarkdnark] (https://github.com/spnarkdnark)
 - [Wesley] (https://github.com/wesley-ng)
 - [Ujjwal Srivastava](https://github.com/pretrator)
@@ -11953,4 +11955,5 @@ Bryan Romero
 - [Henrique Resende](https://github.com/HenryXV)
 - [Igor Kulakov](https://github.com/iiKulakov)
 - [Richard Theaker](https://github.com/rtheaker)
+- [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
