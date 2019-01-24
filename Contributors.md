@@ -49,6 +49,7 @@
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
 - [John Osborn] (https://github.com/josborn88)
+- [Krishna Swaroop] (https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
 - [Suyash Patel](https://github.com/suyashpatel98)
