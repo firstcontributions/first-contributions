@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Philemon Johnson](https://github.com/snowmanstark)
@@ -11957,3 +11957,4 @@ Bryan Romero
 - [Richard Theaker](https://github.com/rtheaker)
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
+- [Snehal Somalraju](https://github.com/ssomalraju1)
