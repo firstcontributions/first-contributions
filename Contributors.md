@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
 - [Philemon Johnson](https://github.com/snowmanstark)
@@ -2850,6 +2850,7 @@ Timothy-Brian Gosalvez
 - [Obba Paschal](https://github.com/obbap1)
 - [Brian W](https://github.com/B-Weyl)
 - [Shaunna Reynard](https://github.com/LashaunnaS)
+- [Nic]
 - [Alok Rajasukumaran](https://github.com/alokraj68)
 - [Jay Vasant](https://github.com/jayvasantjv)
 - [Jake Smith](https://github.com/jakesmithdeveloper)
