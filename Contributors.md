@@ -11984,4 +11984,5 @@ Bryan Romero
 - [Joshua Cammock] (https://github.com/JCammock)
 - [Lindos Pechos] (https://github.com/LindosPechos)
 - [Manoj M] (https://github.com/manoj1222)
+- [Jacob G] (https://github.com/Jacob6565)
 - [Jorge N] (https://github.com/jinaoc)
