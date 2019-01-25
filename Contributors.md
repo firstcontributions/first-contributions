@@ -113,6 +113,7 @@
 - [Erik T](https://github.com/Etomer)
 - [KJ Schmidt](https://github.com/kjschmidt913)
 - [Ishaan Sharma](https://github.com/Ishaan99)
+- [Rene Huang](https://github.com/noappleonhead)
 - [Neeraj Singh](https://github.com/GrayR00t)
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [David Sun](https://github.com/dave4506)
