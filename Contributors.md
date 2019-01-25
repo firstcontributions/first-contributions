@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
@@ -6696,6 +6696,7 @@ Rutvij Khatri (https://github.com/rutvij2811)
 - [Emil Samuel](https://github.com/aaliste)
 - [Ian Drummond](https://github.com/ianH92)
 - [Ayodele Opetumo](https://github.com/ayodeleopetumo)
+- [Pranuthi Mangu](https://github.com/pranuthi9)
 - [Ali Adel](https://github.com/ali-adel)
 - [Quoc Nguyen](https://github.com/qngn93)
 - [Kiyun](https://github.com/kiyunkim)
