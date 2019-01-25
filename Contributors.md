@@ -98,6 +98,7 @@
 - [Chamith](https://github.com/kanda94)
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
 - [Jason Charles] ()
+- [Blake Noll](https://github.com/blakenoll)
 - [N-Mor]
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
