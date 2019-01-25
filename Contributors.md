@@ -89,6 +89,7 @@
 - [Anirudh B](https://github.com/paplio)
 - [Timur Shigapov](https://github.com/timurshigapov)
 - [Keith Hudock](https:github.com/keithudock)
+- [Dennis Reiter](https://github.com/dennis-reiter/)
 - [monkeymynd](https://github.com/monkeymynd)
 - [Chamith](https://github.com/kanda94)
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
