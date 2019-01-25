@@ -50,6 +50,7 @@
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
 - [Leon Becker](https://github.com/leonmartinbecker)
+- [Erik Cohen](https://github.com/cohenpts)
 - Bilaval Sharma
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
