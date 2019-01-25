@@ -360,7 +360,7 @@
 - rob
 - masterofmagic
   jiggly-puff
-- [fadingbeat] https://github.com/fadingbeat/
+- [fadingbeat](https://github.com/fadingbeat/)
 - himos
 - chaynes
 - Shrey Sahai
