@@ -137,6 +137,7 @@
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
 - [Ian McClerin](https://github.com/dejaviewdujour)
 - [Jejulee](https://github.com/jejulee)
+- [Juan Diego Avila Claro](https://github.com/javilaclaro)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Tomas F](https://github.com/tomasforsman)
