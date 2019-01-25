@@ -1,8 +1,11 @@
 ﻿# Contributors
 
+- [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
+- [Steve Munson]
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
+- [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
@@ -24,8 +27,10 @@
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
+- [Andrew Landis](https://github.com/mrlandis3)
 - I dont know
 - Alftri
+- [Jason Shirley](https://github.com/jasonshirleyr)
 - Beirut
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - Parag Kanodia
@@ -47,6 +52,7 @@
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
 - [Leon Becker](https://github.com/leonmartinbecker)
+- [Erik Cohen](https://github.com/cohenpts)
 - Bilaval Sharma
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
@@ -109,7 +115,9 @@
 - [Erik T](https://github.com/Etomer)
 - [KJ Schmidt](https://github.com/kjschmidt913)
 - [Ishaan Sharma](https://github.com/Ishaan99)
+- [Rene Huang](https://github.com/noappleonhead)
 - [Neeraj Singh](https://github.com/GrayR00t)
+- [chefknife](https://github.com/chefknife)
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [David Sun](https://github.com/dave4506)
 - [Govinda Dhirde](https://github.com/govinda1)
@@ -813,6 +821,7 @@ Timothy-Brian Gosalvez
 - [Alvaro Cueva](https://github.com/varopxndx)
 - [Dhruv]()
 - [Darion Toney]()
+- [Max Adams](https://github.com/ProteinMachine)
 - [Tausif Shahbaz](https://github.com/tausifshahbaz)
 - [Harshdeep Singh](http://github.com/Harshdeeps4295)
 - [rahul kukreja]
@@ -3394,6 +3403,7 @@ Timothy-Brian Gosalvez
 - [Bryan Deloeste](https://github.com/bdeloeste)
 - [James Donlevy](https://github.com/jamesdonlevy)
 - [Nkg18](https://github.com/Nkg18)
+Luke Covalt
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
 - [lancelot1337](https://github.com/lancelot1337)
@@ -11966,3 +11976,5 @@ Bryan Romero
 - [Lucian Dinu](https://github.com/luciandinu93)
 - [Ewan Stern] (https://github.com/ewanstern)
 - [Shehan] (https://github.com/shehan1993)
+- [Carlos Fernandez](https://github.com/CarlosMFdz)
+- [Joshua Cammock] (https://github.com/JCammock)
