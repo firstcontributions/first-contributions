@@ -1,5 +1,6 @@
 # Contributors
 
+- [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Steve Munson]
 - [Philemon Johnson](https://github.com/snowmanstark)
