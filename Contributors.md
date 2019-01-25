@@ -86,6 +86,7 @@
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Jim Zhou](https://github.com/jimzhou112)
+- [Haitham Hammami](https://github.com/hm-haitham)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
 - [Anirudh B](https://github.com/paplio)
