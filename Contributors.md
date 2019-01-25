@@ -11977,3 +11977,4 @@ Bryan Romero
 - [Ewan Stern] (https://github.com/ewanstern)
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joshua Cammock] (https://github.com/JCammock)
+- [Lindos Pechos] (https://github.com/LindosPechos)
