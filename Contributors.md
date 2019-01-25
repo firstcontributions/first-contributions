@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
@@ -100,6 +100,7 @@
 - [Seamus Bonner](https://github.com/Shamebob)
 - [Artur Karpov](https://github.com/Artur3303)
 - [Rahul Gupta](https://github.com/RG5595)
+- [Lakshya Singhal](https://github.com/asdas1505)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
