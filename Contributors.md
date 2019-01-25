@@ -11968,4 +11968,5 @@ Bryan Romero
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Lucian Dinu](https://github.com/luciandinu93)
 - [Ewan Stern] (https://github.com/ewanstern)
+- [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joshua Cammock] (https://github.com/JCammock)
