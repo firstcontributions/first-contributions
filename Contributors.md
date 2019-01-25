@@ -1,7 +1,7 @@
 # Contributors
 
 - [Qing  Liu](https://github.com/useliuqing)
-- [Steve Munson]
+- [Steve Munson](https://github.com/SteveMunson)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
 - [Lewis Harvey](https://github.com/lewman215)
