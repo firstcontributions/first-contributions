@@ -1,5 +1,6 @@
 # Contributors
 
+- [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
 - Steve Munson
 - [Philemon Johnson](https://github.com/snowmanstark)
@@ -116,6 +117,7 @@
 - [Ishaan Sharma](https://github.com/Ishaan99)
 - [Rene Huang](https://github.com/noappleonhead)
 - [Neeraj Singh](https://github.com/GrayR00t)
+- [chefknife](https://github.com/chefknife)
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [David Sun](https://github.com/dave4506)
 - [Govinda Dhirde](https://github.com/govinda1)
