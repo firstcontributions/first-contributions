@@ -168,7 +168,7 @@
 - [Justin Tromp](https://github.com/trompj)
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
 - [Laura Fiuza](https://github.com/laurafiuza)
- Vaibhav Kaushal
+- Vaibhav Kaushal
 - Alex McCafferty
 - Mi'Angel Pata
 - [Jesse Lau]()
