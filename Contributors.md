@@ -15,6 +15,7 @@
 - [Andreas Lind] (https://github.com/Fezter82)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa](https://github.com/asimtut)
+- [Bibek Gautam](https://github.com/bibek22)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
 - [Rohith Saranga](https://github.com/rohith203)
