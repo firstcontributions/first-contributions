@@ -39,6 +39,7 @@
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
 - Beirut
+- [Adeel Zafar] (https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - Parag Kanodia
 - Affan Aslam
