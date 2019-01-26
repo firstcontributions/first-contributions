@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
@@ -277,7 +277,8 @@
 - [Mohammad Haris](https://github.com/Mohammad-Haris)
 - [harold0416](https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
-- [Muhammad Haris]()
+- [Muhammad Haris]
+- [Faizuddin Mohammed](https://github.com/faiztech)
 - Andreas Hayer
 - Ana Sousa
 - [Chris Wolf](https://github.com/chriswolfdesign)
