@@ -11402,6 +11402,7 @@ Bryan Romero
 - [Jack Chapman](https://github.com/jack-chapman)
 - [Dundis]()
 - [Atem]()
+- [cslari](https://github.com/cslari/Projects)
 - [Rishab Agarwala](https://github.com/raftar2097)
 - [Ahmed Chaari](https://github.com/Omnicouleur)
 - [Ivan Varela](https://github.com/DevIvanVarela)
