@@ -4,6 +4,7 @@
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Steve Munson]
+- [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Leosalt](https://github.com/leosalt)
