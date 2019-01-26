@@ -27,6 +27,7 @@
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
+- Utkarsh 
 - [Erudite Monkey](https://github.com/translucent504)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
