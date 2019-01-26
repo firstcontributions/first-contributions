@@ -2804,6 +2804,7 @@ Timothy-Brian Gosalvez
 - [Sebastian Cristi](https://github.com/grayjacketstudios)
 - [Sameer Khan](https://github.com/sameerkhan116)
 - [Sahaj Kulshrestha](https://github.com/Sahaj21)
+- [Kevin Yu](https://github.com/kevinyu210)
 - [Akshay Krishna Upendran](https://github.com/mmikaeleriksson)
 - Dhanish Ashraf
 - [Courtney Arnold]
