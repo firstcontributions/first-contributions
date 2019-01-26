@@ -104,6 +104,7 @@
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
 - [Jason Charles] ()
 - [Blake Noll](https://github.com/blakenoll)
+- [Daniel Suh](https://github.com/dtuckersuh)
 - [N-Mor]
 - [Joe Lee](https://github.com/josephlee93)
 - [_nolj](https://github.com/nolanbjohnson)
