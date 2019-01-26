@@ -1,5 +1,7 @@
 ﻿# Contributors
 
+- [Sam Kiterro](https://github.com/kiterro)
+- [Keith Mckai] (https://github.com/juleswells)
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
@@ -12006,3 +12008,4 @@ Bryan Romero
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
+- [Keith Mckai] (https://github.com/juleswells)
