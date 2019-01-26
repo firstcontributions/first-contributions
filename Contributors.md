@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
