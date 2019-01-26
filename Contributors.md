@@ -77,6 +77,7 @@
 - [Alejandro Montesinos](https://github.com/AlexMontesinos)
 - [Eugene Kriuchkov](https://github.com/kriugen)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
+- Pruthvish E
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
