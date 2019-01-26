@@ -12001,3 +12001,4 @@ Bryan Romero
 - [Lindos Pechos] (https://github.com/LindosPechos)
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
+- [Coder] (https://github.com/coder9604)
