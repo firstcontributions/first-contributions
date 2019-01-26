@@ -30,6 +30,7 @@
 - [Andrew Landis](https://github.com/mrlandis3)
 - I dont know
 - Alftri
+- [Andre Victoria](https://github.com/andrenaught)
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Beirut
 - [Mateusz Wachowicz](https://github.com/najMaseu)
