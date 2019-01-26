@@ -35,6 +35,7 @@
 - I dont know
 - Alftri
 - [Jason Shirley](https://github.com/jasonshirleyr)
+- Cody
 - Beirut
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - Parag Kanodia
