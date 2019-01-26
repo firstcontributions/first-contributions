@@ -32,6 +32,7 @@
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
 - [Andrew Landis](https://github.com/mrlandis3)
+- [Pradnya Hegde](https://github.com/pshegde123)
 - I dont know
 - Alftri
 - [Andre Victoria](https://github.com/andrenaught)
