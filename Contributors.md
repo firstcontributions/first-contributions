@@ -231,6 +231,7 @@
 - [Johnny Nguyen](https://github.com/Jokuyen)
 - [Chaitanya Mattey](https://github.com/cmattey)
 - [Nicholas Adamson](https://github.com/nja12)
+- [Javier Dombronsky](https://github.com/javidombro)
 - [wardaabukar]()
 - [Sub Sandwich](https://github.com/subotai54)
 - [Satvik Dev](https://github.com/kivtas)
