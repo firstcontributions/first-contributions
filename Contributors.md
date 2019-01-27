@@ -9910,6 +9910,7 @@ Bryan Romero
 - [Ryan Steel](http://github.com/rsteel1)
 - [Shyveon](https://github.com/Shyveon)
 - [MB](https://github.com/0rthogonal)
+- [Patrick P] (https://github.com/p85)
 - [Shyveon](https://github.com/Shyveon)
 - [Juan Rodriguez](http://github.com/jcrodriguezu)
 - [Ev](https://github.com/Evvie)
