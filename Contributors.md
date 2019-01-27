@@ -11258,6 +11258,7 @@ Bryan Romero
 - [Teno Siswono](https://github.com/tenosiswono)
 - [Leon Dong](https://github.com/dankpigeon)
 - [JPS sasadara](https://github.com/jpssasadara)
+- [Vinu Nair](https://github.com/vinu-phoenix) (vinunair.me)
 - [Federico Centurioni](https://github.com/FedericoCenturioni)
 - [vamisola](https://github.com/uygaraktuna)
 - [Uygar Aktuna](https://github.com/uygaraktuna)
