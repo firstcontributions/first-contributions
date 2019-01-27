@@ -126,6 +126,7 @@
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
 - [fru123sa](https://github.com/fru123sa)
 - [Ben John](https://github.com/BendJohn)
+- [Alaina Rogacki](https://github.com/aarogacki)
 - [Pat Connolly](https://github.com/pjconnolly12)
 - [Nikunj Kela]
 - [Zechariah Raman](https://github.com/ZechariahRaman)
