@@ -12000,6 +12000,7 @@ Bryan Romero
 - [Moamen Moataz] (https://github.com/MoamenMoatazYoussef)
 - [Peter Kim](https://github.com/PeterKim1967)
 - [mafnah](https://github.com/mafnah)
+- [Emilie](https://github.com/EmOnTheWeb)
 - [Ryan McCormick](https://github.com/rmccorm4)
 - [Standley Eugene](https://github.com/estand25)
 - [Neo Choi](https://github.com/vampireneo)
