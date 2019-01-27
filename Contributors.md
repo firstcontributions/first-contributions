@@ -87,6 +87,7 @@
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
+- [Fase](https://github.com/fasesx)
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Mickey Mouse](https://github.com/chinchinme)
