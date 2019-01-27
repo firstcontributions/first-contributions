@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
 - [Sam Kiterro](https://github.com/kiterro)
@@ -1982,6 +1982,7 @@ Timothy-Brian Gosalvez
 - [Robert Aragon](https://github.com/PixoDev)
 - [geeknik](https://twitter.com/geeknik)
 - [Isay Razilov](https://github.com/IsayRazilov)
+- [Kunj Dedhia](https://github.com/kunjdedhia)
 - [Leonardo Cavazzani](https://github.com/lCavazzani)
 - [Valentina Calabrese](https://github.com/vale-c)
 - [Vritika Singla](https://github.com/vritika1310)
