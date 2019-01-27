@@ -33,6 +33,7 @@
 - Rishant Jain
 - Utkarsh 
 - [Erudite Monkey](https://github.com/translucent504)
+- [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
 	[Max Esser](https://github.com/max-esser)
