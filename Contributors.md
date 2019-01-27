@@ -8,6 +8,7 @@
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Philemon Johnson](https://github.com/snowmanstark)
+- [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
