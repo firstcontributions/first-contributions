@@ -2121,6 +2121,7 @@ Timothy-Brian Gosalvez
 - [Anurag Kumar](https://github.com/kgloc)
 - [Griffin1110](https://github.com/Griffin1110)
 - [Jason Dunken](https://github.com/jasondunken)
+- [Henrique De Oliveira Fadoni](https://github.com/HenriqueFadoni/first-contributions)
 - [liraz kinan]()
 - [Nadia Prodanova]
 - [Sebas Sarmiento](https://github.com/sebassarmiento)
