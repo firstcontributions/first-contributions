@@ -663,7 +663,7 @@
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
-- [Jan P)
+- Jan P
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Syed Ali](https://github.com/sali9213)
 - [Kyle Somerfeldt](https://github.com/KSomerfeldt)
