@@ -386,6 +386,7 @@
 - [jackson0108](https://github.com/jackson0108)
 - [Gilbert Rosario](https://github.com/Gilbert1391)
 - [Joseph Whyte](https://github.com/whytej2)
+- [Juliardi Fajar Hidayatullah](https://github.com/sog01)
 - [Paul Yin](https://github.com/paulyin2001)
 - [Zuzana Svabova](https://github.com/harveler/)
 - [Callan Hoskins](https://github.com/callanhoskins)
