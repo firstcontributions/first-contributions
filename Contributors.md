@@ -12025,3 +12025,4 @@ Bryan Romero
 - [Nathan Schneider] (https://github.com/nathanlschneider)
 - [Rebecca Cho] (https://github.com/choeuna)
 - [Sreymeas Nao] (https://github.com/meass)
+- [Nigel Moore] (https://github.com/nimows)
