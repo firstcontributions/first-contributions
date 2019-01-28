@@ -42,6 +42,7 @@
 - Asil Mian
 - [Andrew Landis](https://github.com/mrlandis3)
 - [Pradnya Hegde](https://github.com/pshegde123)
+- [Ted Shin](https://github.com/TedSCoder)
 - I dont know
 - Alftri
 - [Andre Victoria](https://github.com/andrenaught)
