@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
@@ -32,7 +32,7 @@
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
-- Utkarsh
+- Utkarsh 
 - [Erudite Monkey](https://github.com/translucent504)
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
@@ -50,7 +50,7 @@
 - Beirut
 - [Adeel Zafar] (https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
-- [jpthor](https://github.com.jpthor)
+- [jpthor](https://github.com/jpthor)
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
