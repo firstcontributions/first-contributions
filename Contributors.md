@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
@@ -1204,6 +1204,7 @@ Nguyen Khoa
 - [Cole Beck](https://github.com/claniere)
 - [espilya](https://github.com/espilya)
 - [Efe Barış](https://github.com/altinay10)
+- [Sheenie] (https://github.com/sheeenie)
 - [JudeYak](https://github.com/judeyak)
 - [Cravez](https://github.com/Cravez)
 - [Vineet Yadav ](https://github.com/vineet8588)
