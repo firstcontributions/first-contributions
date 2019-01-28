@@ -12044,3 +12044,4 @@ Bryan Romero
 - [IcerOut]	(https://github.com/IcerOut)
 - [Alireza fassih](https://github.com/alireza-fassih)
 - [Orestis Tanis](https://github.com/OrestisTanis)
+- [Eric Ingland](https://github.com/eingland)
