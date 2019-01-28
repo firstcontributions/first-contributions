@@ -2020,6 +2020,7 @@ Timothy-Brian Gosalvez
 - edward-cronus
 - vibhasi
 - [Darien Lee](https://github.com/darienlee)
+- [Haiyun Xu] (https://github.com/Haiyun-Xu)
 - [Michael Hart](https://github.com/michaeljh619)
 - [Vishal Kumar Roy](https://github.com/VishalKumarRoy)
 - [Akash Yadav](https://github.com/akash2908)
