@@ -4774,6 +4774,7 @@ Luke Covalt
 - [Arif Maulana](https://github.com/maulanaahmadarif)
 - [Sachchit Bansal](https://github.com/sachiiit)
 - [Shreyash Soni](https://github.com/ShreyashSoni)
+- [Navneet Surana](https://github.com/NavneetSurana)
 - [Christiaan Naude](https://github.com/cjnaude)
 - [Koffi Sani](https://github.com/koffisani)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
