@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
@@ -50,6 +50,7 @@
 - Beirut
 - [Adeel Zafar] (https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
+- [jpthor](https://github.com/jpthor)
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
