@@ -24,6 +24,7 @@
 - [Bibek Gautam](https://github.com/bibek22)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
+- [Chris Patrick](https://github.com/cp1927)
 - [Rohith Saranga](https://github.com/rohith203)
 - Abbas
 - [Angela Liu] (https://github.com/rgangela99)
