@@ -12022,3 +12022,4 @@ Bryan Romero
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
+- [Nathan Schneider] (https://github.com/nathanlschneider)
