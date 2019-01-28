@@ -10552,6 +10552,7 @@ Bryan Romero
 - [Miikka "Kukko" Virtanen](https://github.com/miikkavirtanen)
 - [Magno Macedo de Oliveira](https://github.com/magnoDev)
 - [Hidde IJzerman](https://github.com/Hidduh)
+- [Nayanika Gupta] (https://github.com/nayanika-g)
 - [Lauren Eggers](https://github.com/Aliecake)
 - [Prateek Arora](https://github.com/prarora98)
 - [Dilshani Shashinika](https://github.com/164046H)
@@ -12043,3 +12044,4 @@ Bryan Romero
 - [IcerOut]	(https://github.com/IcerOut)
 - [Alireza fassih](https://github.com/alireza-fassih)
 - [Orestis Tanis](https://github.com/OrestisTanis)
+- 
