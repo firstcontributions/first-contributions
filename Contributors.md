@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rawad Karam](https://github.com/rawad663)
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
