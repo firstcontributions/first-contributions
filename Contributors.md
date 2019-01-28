@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
@@ -15,6 +15,7 @@
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
+- [Terence Biney](https://github.com/Tereflech17)
 - [Andreas Sandskär](https://github.com/passar)
 - [Andreas Lind] (https://github.com/Fezter82)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
