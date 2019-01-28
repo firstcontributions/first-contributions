@@ -104,6 +104,7 @@
 - [Mike DeSantis](https://github.com/gitcamus123)
 - [Edward Passagi](https://github.com/edwardpassagi)
 - [Joseph T Lucas](https://github.com/josephtlucas)
+- [Ace Cauis](https:/github.com/acecauis)
 - [Abiral Khanal](https://github.com/abir4l)
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Jim Zhou](https://github.com/jimzhou112)
