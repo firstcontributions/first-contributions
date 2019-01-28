@@ -32,7 +32,7 @@
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
-- Utkarsh 
+- Utkarsh
 - [Erudite Monkey](https://github.com/translucent504)
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
@@ -664,6 +664,7 @@
 - [Nuno Gervasio](https://github.com/nunogervasio)
 - [Eudes Silva](https://github.com/EudesJS)
 - [Wisdom Nwokocha](https://github.com/wise4rmgod)
+- Jan P
 - [Irham Dzuhri](https://github.com/irhamdz)
 - [Syed Ali](https://github.com/sali9213)
 - [Kyle Somerfeldt](https://github.com/KSomerfeldt)
