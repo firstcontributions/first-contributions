@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
@@ -12022,3 +12022,4 @@ Bryan Romero
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
+- [Theodore Stites] (https://github.com/tstites14)
