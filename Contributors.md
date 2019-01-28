@@ -6,6 +6,7 @@
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Qing  Liu](https://github.com/useliuqing)
+- [Jari Kovalainen] (https://github.com/JariKovis)
 - [Steve Munson]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
