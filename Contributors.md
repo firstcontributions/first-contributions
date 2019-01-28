@@ -110,6 +110,7 @@
 - [E H]()
 - [Anirudh B](https://github.com/paplio)
 - [Timur Shigapov](https://github.com/timurshigapov)
+- [Jay Pitroda] (https://github.com/jaypitroda12)
 - [Keith Hudock](https:github.com/keithudock)
 - [Dennis Reiter](https://github.com/dennis-reiter/)
 - [monkeymynd](https://github.com/monkeymynd)
