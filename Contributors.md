@@ -169,6 +169,7 @@
 - [Josh R](https://github.com/jr2684)
 - [Damian Behymer](https://github.com/ProjectTermina)
 - [Jowensky Neard](https://github.com/Jowensky)
+- [Pap Gergő Bence] (https://github.com/szarhaz)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Wilfredo Ruiz](https://github.com/wruiz8891)
 - [Saptarshi Banerjee](https://github.com/saptarshi98)
