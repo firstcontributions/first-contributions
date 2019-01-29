@@ -30,6 +30,7 @@
 - [Filip Skukan](https://github.com/skukan159)
 - [Chris Patrick](https://github.com/cp1927)
 - [Rohith Saranga](https://github.com/rohith203)
+- [Drake Zhang](https://github.com/zzhzzhzzh)
 - Abbas
 - [Angela Liu] (https://github.com/rgangela99)
 - Vindi
