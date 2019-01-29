@@ -1,6 +1,7 @@
 # Contributors
 
 - [Rawad Karam](https://github.com/rawad663)
+- [Eduardo Canale](https://github.com/EduardoCanale)
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
 - [Bob Allan](https://github.com/BobAllan123)
 - [Samuel Okoroafor](https://github.com/s-chand)
