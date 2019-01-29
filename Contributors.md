@@ -104,6 +104,7 @@
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Mickey Mouse](https://github.com/chinchinme)
+- [Tim Sparks] (https://github.com/timmsparksprogrammer)
 - [Shaun Trapp](https://github.com/TheK3yMaster)
 - [Felipe Valencia](https://github.com/felivalencia3)
 - [Mike DeSantis](https://github.com/gitcamus123)
