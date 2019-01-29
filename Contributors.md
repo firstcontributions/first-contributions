@@ -8,6 +8,7 @@
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
+- [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Jari Kovalainen] (https://github.com/JariKovis)
 - [Ahlex Paes] (https://github.com/LondonComputadores)
