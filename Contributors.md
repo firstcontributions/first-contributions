@@ -5347,6 +5347,7 @@ Luke Covalt
 - [Mansi Sharma](https://github.com/MansiSharma1)
 - [Dulan Hewage](https://github.com/Dulan666)
 - [Sarat Maharjan](https://github.com/smhrjn)
+- [Jonathan Tung](https://github.com/djtung)
 - [Vishnu](https://github.com/vishnu980)
 - [Attaphong Rattanaveerachanon](https://github.com/detohm)
 - [Santiago Mart?n Agra](http://github.com/santima10)
