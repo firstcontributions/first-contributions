@@ -25,6 +25,7 @@
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Tania Pagan-Rosario](https://github.com/TaniaPaganRosario)
 - [Asim Thapa](https://github.com/asimtut)
+- [Amarjit Singh] (https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Bibek Gautam](https://github.com/bibek22)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
