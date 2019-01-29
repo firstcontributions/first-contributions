@@ -417,6 +417,7 @@
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Armando Alvear](https://github.com/ArmandoAlvear23/)
 - [Paul Briar](https://github.com/paulbriar)
+- [Connor Johnson](https://github.com/obeserocket)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Priyanka Walunj]
 - [Lavanay Thakral](https://github.com/MetalBaba98)
