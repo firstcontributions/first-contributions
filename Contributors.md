@@ -5144,6 +5144,7 @@ Luke Covalt
 - [Hasan Mesut Meral](https://github.com/hmmeral)
 - [Bui Ha Duong](https://github.com/buihaduong)
 - [Valer Varga](https://github.com/valervarga)
+- [Sara Nasr] (https://github.com/sjnasr)
 - [Shantanu Kamath](https://github.com/shantanukamath)
 - [Kevin](https://github.com/cmd-kvn)
 - [Bobby](https://github.com/bobby)
