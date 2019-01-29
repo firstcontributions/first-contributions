@@ -12052,3 +12052,4 @@ Bryan Romero
 - [Orestis Tanis](https://github.com/OrestisTanis)
 - [Eric Ingland](https://github.com/eingland)
 - [Jim Ritchie](https://github.com/beldin0)
+- [Fabiano Ricci](https://github.com/faricci)
