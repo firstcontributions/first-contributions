@@ -20,6 +20,7 @@
 - [Andreas Sandskär](https://github.com/passar)
 - [Andreas Lind] (https://github.com/Fezter82)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
+- [Tania Pagan-Rosario](https://github.com/TaniaPaganRosario)
 - [Asim Thapa](https://github.com/asimtut)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Bibek Gautam](https://github.com/bibek22)
