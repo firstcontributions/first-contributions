@@ -12066,6 +12066,7 @@ Bryan Romero
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
+- [Kin Kin] (https://github.com/adkinley) 
 - [Nathan Schneider] (https://github.com/nathanlschneider)
 - [Rebecca Cho] (https://github.com/choeuna)
 - [Sreymeas Nao] (https://github.com/meass)
