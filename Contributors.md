@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rawad Karam](https://github.com/rawad663)
 - [Eduardo Canale](https://github.com/EduardoCanale)
@@ -24,6 +24,7 @@
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
 - [Andreas Lind] (https://github.com/Fezter82)
+- [Aayush Sharma] (https://github.com/Aayu8982)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Tania Pagan-Rosario](https://github.com/TaniaPaganRosario)
 - [Asim Thapa](https://github.com/asimtut)
