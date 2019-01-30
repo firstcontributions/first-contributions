@@ -15,6 +15,7 @@
 - [Steve Munson]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
+- [Krupal Jadhav](https://github.com/kjkrupal)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
