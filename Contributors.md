@@ -14,6 +14,7 @@
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Shawn Pang](https://github.com/CometS1)
+- [Deepthi Amanchi](https://github.com/SreeDeepthi1253)
 - [Nicholas Chumney](https://github.com/chumnend)
 - [Surbhi Singh](https://github.com/codegirl20)
 - [Varsha Chahal](https://github.com/VarshaChahal)
