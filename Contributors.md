@@ -64,6 +64,7 @@
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
 - Beirut
+- Tarun Sharma
 - [Adeel Zafar] (https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [jpthor](https://github.com/jpthor)
@@ -127,6 +128,7 @@
 - [Haitham Hammami](https://github.com/hm-haitham)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- Vineet Baj
 - [Anirudh B](https://github.com/paplio)
 - [Timur Shigapov](https://github.com/timurshigapov)
 - [Jay Pitroda] (https://github.com/jaypitroda12)
