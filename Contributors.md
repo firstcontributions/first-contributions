@@ -63,6 +63,7 @@
 - [Ted Shin](https://github.com/TedSCoder)
 - I dont know
 - Alftri
+- [C. Colton Baier](https://github.com/Ccoltbaier)
 - BLavin
 - [Andre Victoria](https://github.com/andrenaught)
 - [Jason Shirley](https://github.com/jasonshirleyr)
