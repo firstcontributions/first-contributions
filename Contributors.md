@@ -16,6 +16,7 @@
 - [Steve Munson]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
+-[Matko Cvitkovic](https://github.com/Cvilec)
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Jordan Tan](https://github.com/jordantjh)
