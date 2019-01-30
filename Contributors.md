@@ -1980,6 +1980,7 @@ Timothy-Brian Gosalvez
 - [Cody]()
 - [Nipun Goel]()
 - [Gus Person](https://github.com/gusperson)
+- [Ivan Ivanov - Bolzano](https://github.com/ivivanov18)
 - [Tiffany F](https://github.com/tifffai)
 - [Somesh rf](https://github.com/someshrf)
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
