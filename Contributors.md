@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Muhammad Jamshed]
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Rawad Karam](https://github.com/rawad663)
 - [Eduardo Canale](https://github.com/EduardoCanale)
