@@ -12068,3 +12068,4 @@ Bryan Romero
 - [Fabiano Ricci](https://github.com/faricci)
 - [Hao Wei Goh] (https://github.com/haowei920)
 - [Lucas Melo](https://github.com/lucasmeloo)
+- [John McGonagle](https://github.com/jgonagle)
