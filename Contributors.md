@@ -9996,6 +9996,7 @@ Bryan Romero
 - [Nancy Sarhan](https://github.com/nancysarhan)
 - [Razor yo](https://github.com/imrazory0)
 - [Steven Kidd](https://github.com/proofskiddie)
+- [Vincent Stamos](https://github.com/vstamos1)
 - [Mayank](https://github.com/mayank2652)
 - [Ali Mansour](https://github.com/alimans3)
 - [Jocelyn Hsu](https://github.com/unaccomplished)
