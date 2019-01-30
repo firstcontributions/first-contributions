@@ -12065,3 +12065,4 @@ Bryan Romero
 - [Jim Ritchie](https://github.com/beldin0)
 - [Fabiano Ricci](https://github.com/faricci)
 - [Hao Wei Goh] (https://github.com/haowei920)
+- [Lucas Melo](https://github.com/lucasmeloo)
