@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rawad Karam](https://github.com/rawad663)
 - [Eduardo Canale](https://github.com/EduardoCanale)
@@ -19,6 +19,7 @@
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
+- [Sagar] (https://github.com/sardul3)
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
