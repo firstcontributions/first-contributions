@@ -49,6 +49,7 @@
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Utkarsh
+- [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
@@ -12067,7 +12068,7 @@ Bryan Romero
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
-- [Kin Kin] (https://github.com/adkinley) 
+- [Kin Kin] (https://github.com/adkinley)
 - [Nathan Schneider] (https://github.com/nathanlschneider)
 - [Rebecca Cho] (https://github.com/choeuna)
 - [Sreymeas Nao] (https://github.com/meass)
