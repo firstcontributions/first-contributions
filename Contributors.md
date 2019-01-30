@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Rawad Karam](https://github.com/rawad663)
@@ -20,6 +20,7 @@
 - [Philemon Johnson](https://github.com/snowmanstark)
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
+- [Sagar] (https://github.com/sardul3)
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
