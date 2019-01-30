@@ -12051,6 +12051,7 @@ Bryan Romero
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joshua Cammock] (https://github.com/JCammock)
 - [Lindos Pechos] (https://github.com/LindosPechos)
+- [Alimur Razi Rana] (https://github.com/Alimurrazi)
 - [Manoj M] (https://github.com/manoj1222)
 - [Jorge N] (https://github.com/jinaoc)
 - [Coder] (https://github.com/coder9604)
