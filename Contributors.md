@@ -551,6 +551,7 @@
 - [NH]()
 - [Harshal Lele](https://github.com/harshlele)
 - POPAMAN
+- [Pragyan Mehrotra]
 - [Fabio Cardenas](https://github.com/fcarden)
 - [Cedric David]()
 - [It'sMe]()
