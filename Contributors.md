@@ -46,6 +46,7 @@
 - Archana
 - [Tushar Singhal](https://github.com/tushar8194)
 - [Rohith Saranga](https://github.com/rohith203)
+- [Drake Zhang](https://github.com/zzhzzhzzh)
 - Abbas
 - [Angela Liu] (https://github.com/rgangela99)
 - Vindi
