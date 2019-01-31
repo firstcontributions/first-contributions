@@ -24,6 +24,7 @@
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
 - [Sagar] (https://github.com/sardul3)
+- [Kathleen Mullin](https://github.com/krm1511)
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
