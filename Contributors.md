@@ -11,6 +11,7 @@
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
+- [Taiwo Alabi](https://github.com/insight001)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Jari Kovalainen] (https://github.com/JariKovis)
 - [Ahlex Paes] (https://github.com/LondonComputadores)
