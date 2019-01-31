@@ -53,6 +53,7 @@
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Utkarsh
+- [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
 - [MaxlStone](https://github.com/maxl1997)
@@ -234,6 +235,7 @@
 - [Jesse Lau]()
 - Marjakuusi
 - NuclearApe
+-	[Moad ENNAGI](https://github.com/moadennagi/)
 - [Chaz](https://github.com/chaz303)
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Nikhil Bansal](https://github.com/NikhilBansal1999)
