@@ -99,6 +99,7 @@
 - [abuznego](https://github.com/abuznego23)
 - [romanvx](https://github.com/romanvx)
 - [bish singh](https://github.com/bishtrial)
+- [hackinganarchy](https://github.com/hacinganarchy)
 - [Nicole Spoto](https://github.com/nicolespoto)
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
