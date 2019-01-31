@@ -3,6 +3,7 @@
 - [Muhammad Jamshed]
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Rawad Karam](https://github.com/rawad663)
+- [Ellen Puhalovich] (https://github.com/epuhalovich)
 - [Eduardo Canale](https://github.com/EduardoCanale)
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
 - [Bob Allan](https://github.com/BobAllan123)
