@@ -122,6 +122,7 @@
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
+- [Marlene Hasslinger] (https://github.com/marlenehasslinger)
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
