@@ -23,6 +23,7 @@
 - Apurv Singh Chauhan
 - Nathan Jones
 - [Mandi Howell](https://github.com/allst896)
+- [Greg Slonina](https://github.com/theMugician)
 -[Matko Cvitkovic](https://github.com/Cvilec)
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Philemon Johnson](https://github.com/snowmanstark)
