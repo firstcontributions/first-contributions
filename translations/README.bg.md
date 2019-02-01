@@ -14,7 +14,7 @@
 
 #### *Можете да прочетете тази статия и на [други езици](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

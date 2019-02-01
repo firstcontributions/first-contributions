@@ -15,7 +15,7 @@ Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza
 
 #### *Funda lokhu  [kwezinye izilimi.](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

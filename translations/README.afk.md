@@ -14,7 +14,7 @@ Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die
 
 #### *Lees dit in [ander tale .](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

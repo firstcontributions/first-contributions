@@ -14,7 +14,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 
 #### *Puedes leer esto [en otros lenguajes](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

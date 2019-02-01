@@ -14,7 +14,7 @@
 
 #### *[इतर भाषांमध्ये](translations/Translations.md) वाचा.*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

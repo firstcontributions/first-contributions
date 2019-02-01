@@ -15,7 +15,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 #### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
 
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

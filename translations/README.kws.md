@@ -16,7 +16,7 @@ Kusoma makala na mafunzo ya kutazama yanaweza kusaidia, lakini ni nini bora zaid
 
 #### *Soma hii kwa [lugha zingine](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](Translations-India.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
