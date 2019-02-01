@@ -14,7 +14,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](translations/README.in-lang.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)

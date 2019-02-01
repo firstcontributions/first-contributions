@@ -5,6 +5,7 @@
 | 🇮🇳 | [ગુજરાતી](README.guj.md) |
 | 🇮🇳 | [हिन्दी](README.hi.md) |
 | 🇮🇳 | [मराठी](README.mr.md) |
+| 🇮🇳 | [తెలుగు](README.te.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
