@@ -12119,3 +12119,4 @@ Bryan Romero
 - [John McGonagle](https://github.com/jgonagle)
 - [Dalton Maahs] (https://github.com/dmaahs2017)
 - [Kim Sangyeon] (https://github.com/kimsangyeon)
+- [Chris Walters] (https://github.com/Chriswalt64)
