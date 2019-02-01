@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Muhammad Jamshed]
 - [Anthony Campbell] (https://github.com/ac-denton)
@@ -245,6 +245,7 @@
  Vaibhav Kaushal
 - Alex McCafferty
 - Mi'Angel Pata
+- SQ(https://github.com/Grootgo)
 - [Jesse Lau]()
 - Marjakuusi
 - NuclearApe
