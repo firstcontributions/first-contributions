@@ -1,6 +1,7 @@
 # Contributors
 
 - [Muhammad Jamshed]
+- [Wejdan Bagais] (https://github.com/wbagais/)
 - [Anthony Campbell] (https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Rawad Karam](https://github.com/rawad663)
