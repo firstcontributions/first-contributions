@@ -12115,4 +12115,4 @@ Bryan Romero
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [John McGonagle](https://github.com/jgonagle)
 - [Dalton Maahs] (https://github.com/dmaahs2017)
-- [Kim Sangyeon] (https://github.com/kimsangyeon)
+- [Kim Sangyeon](https://github.com/kimsangyeon)
