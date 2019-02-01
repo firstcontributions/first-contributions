@@ -196,6 +196,7 @@
 - [Govinda Dhirde](https://github.com/govinda1)
 - [Hassan Usman](https://github.com/husseyexplores)
 - [Manikandan Gunaseelan](https://github.com/manig1729)
+- [James Brady](https://github.com/jlbrady)
 - [Josh R](https://github.com/jr2684)
 - [Damian Behymer](https://github.com/ProjectTermina)
 - [Jowensky Neard](https://github.com/Jowensky)
