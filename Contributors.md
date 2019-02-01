@@ -1,6 +1,7 @@
 # Contributors
 
 - [Muhammad Jamshed]
+- [Isaac Woodruff] (https://github.com/isaacwoodruff)
 - [Wejdan Bagais] (https://github.com/wbagais/)
 - [Anthony Campbell] (https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
