@@ -33,7 +33,7 @@ git clone "यूआरएल जिसे आपने अभी कॉपी �
 उदाहरण के लिए:
 
 ```
-git clone https://github.com/यह-तुम-हो/first-contributions.git
+git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
