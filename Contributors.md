@@ -108,6 +108,7 @@
 - [bish singh](https://github.com/bishtrial)
 - [hackinganarchy](https://github.com/hacinganarchy)
 - [Nicole Spoto](https://github.com/nicolespoto)
+- [Francisco](https://github.com/franciscozdo)
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
 - [Leon Becker](https://github.com/leonmartinbecker)
