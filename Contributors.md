@@ -534,6 +534,7 @@
 - [Timothy Virgil Payne Jr.](https://github.com/TimothyVirgil)
 - [Kedar Vaidya](https://github.com/kvaidya)
 - [pbhudiaBAE](https://github.com/pbhudiaBAE)
+- [Michael McBratney](https://github.com/mm103434)
 - [hugo](https://github.com/ggoyo))
 - [Sai Bhaskar Devatha](https://github.com/saibhaskardevatha/)
 - [Corey Hutcheson](https://github.com/CoreyHutcheson)
