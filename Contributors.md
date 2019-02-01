@@ -46,6 +46,7 @@
 - [Bibek Gautam](https://github.com/bibek22)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
+- [Serb Andreii](https://github.com/SerbIMolot)
 - [Chris Patrick](https://github.com/cp1927)
 - Archana
 - [Tushar Singhal](https://github.com/tushar8194)
