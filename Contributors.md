@@ -59,6 +59,7 @@
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Utkarsh
+- palangana
 - [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
