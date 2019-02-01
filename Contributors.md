@@ -12122,3 +12122,4 @@ Bryan Romero
 - [Dalton Maahs] (https://github.com/dmaahs2017)
 - [Kim Sangyeon] (https://github.com/kimsangyeon)
 - [Chris Walters] (https://github.com/Chriswalt64)
+- [Visaj Kapadia](https://github.com/visajkapadia)
