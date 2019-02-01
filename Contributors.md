@@ -726,6 +726,7 @@
 - [Kyeza Arnold](https://github.com/Kyeza)
 - [Alan Ross](https://github.com/alanwallaceross)
 - [Kevin Dunne](https://github.com/sdevkev)
+- [Theda K. Rogers](https://github.com/crayonwriter)
 - [Priyansh Rastogi](https://github.com/prince2580)
 - [Srividhya Prakash Rangarajan](https://github.com/srividhyaprakash)
 - [Mohit Ranjan](https://github.com/mohitRJranjan)
