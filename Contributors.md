@@ -4261,6 +4261,7 @@ Luke Covalt
 - [Franciscus Agnew](https://github.com/franciscusagnew)
 - [Alexis Salcedo](https://github.com/alexisss1928)
 - [tonezz](https://github.com/tonezz)
+- [Tomas Dornell](https://github.com/tomas302)
 - [Clifton Egle](https://github.com/BennyHanna)
 - [Abhay Sharma](https://github.com/abhaysharma419)
 - [MSR Dinesh](https://github.com/msrdinesh)
