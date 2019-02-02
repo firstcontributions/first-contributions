@@ -53,7 +53,7 @@
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
 - [Serb Andreii](https://github.com/SerbIMolot)
-- Fatimah Alattas
+- [Fatimah Alattas](https://github.com/fatimah5)
 - [Chris Patrick](https://github.com/cp1927)
 - Archana
 - [Tushar Singhal](https://github.com/tushar8194)
