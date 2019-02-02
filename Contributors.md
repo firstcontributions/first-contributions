@@ -22,6 +22,7 @@
 - [Jari Kovalainen] (https://github.com/JariKovis)
 - [Ahlex Paes] (https://github.com/LondonComputadores)
 - [Steve Munson]
+- [Vishal Vaddadhi]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - Nathan Jones
