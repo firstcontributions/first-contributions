@@ -2,6 +2,7 @@
 
 - [Muhammad Jamshed]
 - [Masahiro Toyomura]
+- [Robert Petty] (https://github.com/roblpetty)
 - [Andrys Daniel Silalahi] (https://github.com/andrysds)
 - [Isaac Woodruff] (https://github.com/isaacwoodruff)
 - [Wejdan Bagais] (https://github.com/wbagais/)
