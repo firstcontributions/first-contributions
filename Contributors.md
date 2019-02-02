@@ -243,6 +243,7 @@
 - [Daniel Bezerra](https://github.com/danielsbezerra)
 - [Pr-test]
 - [Krudy](https://github.com/krady21)
+- [Art Modernist]
 - [Navya Garg](https://github.com/navgarg)
 - [technoknol](https://github.com/technoknol)
 - [pbhudiaBAE](https://github.com/pbhudiaBAE)
