@@ -1550,6 +1550,7 @@ Timothy-Brian Gosalvez
 - [Cole Beck](https://github.com/claniere)
 - [espilya](https://github.com/espilya)
 - [Efe Barış](https://github.com/altinay10)
+- [Sheenie] (https://github.com/sheeenie)
 - [JudeYak](https://github.com/judeyak)
 - [Cravez](https://github.com/Cravez)
 - [Vineet Yadav ](https://github.com/vineet8588)
