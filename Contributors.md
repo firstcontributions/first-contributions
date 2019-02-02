@@ -10724,6 +10724,7 @@ Bryan Romero
 - [Devin Ward](https://github.com/devsquared)
 - [MeTeoRise](https://github.com/MeTeoRise)
 - [Zaynaib Giwa](https://github.com/zaynaib)
+- [Rodion]
 - [Dmitry](https://github.com/qmitry)
 - [MikeGreat](https://github.com/bgreatfit)
 - [rtDenver91](https://github.com/rtdenver91)
