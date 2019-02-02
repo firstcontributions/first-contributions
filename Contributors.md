@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Muhammad Jamshed]
 - [Masahiro Toyomura]
@@ -343,7 +343,8 @@
 - [Mohammad Haris](https://github.com/Mohammad-Haris)
 - [harold0416](https://github.com/harold0416)
 - [Kristi Lanzisera](https://github.com/stroopwafel79)
-- [Muhammad Haris]()
+- [Muhammad Haris]
+- [Faizuddin Mohammed](https://github.com/faiztech)
 - Andreas Hayer
 - Ana Sousa
 - [Chris Wolf](https://github.com/chriswolfdesign)
