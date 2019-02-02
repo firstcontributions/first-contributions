@@ -1,6 +1,7 @@
 # Contributors
 
 - [Muhammad Jamshed]
+- [Masahiro Toyomura]
 - [Isaac Woodruff] (https://github.com/isaacwoodruff)
 - [Wejdan Bagais] (https://github.com/wbagais/)
 - [Anthony Campbell] (https://github.com/ac-denton)
