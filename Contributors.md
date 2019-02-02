@@ -77,6 +77,7 @@
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
+- [Bruno Martins](https://github.com/bruno-b-martins)
 - Akshay Khairnar
 - [Andrew Landis](https://github.com/mrlandis3)
 - [Pradnya Hegde](https://github.com/pshegde123)
