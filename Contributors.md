@@ -47,8 +47,7 @@
 - [Harel Katz](https://github.com/HarelKatz)
 - [Anilla](https://github.com/Anillab)
 - [Jessica Saini](https://github.com/Jess2110)
-- [Erick Todd] 
-(https://github.com/ddot727)
+- [Erick Todd](https://github.com/ddot727)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Satyajeet Maharana](https://github.com/satyajeetmaharana)
 - [Alec W](https://github.com/AlecWilk)
