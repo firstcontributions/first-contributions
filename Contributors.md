@@ -1,6 +1,7 @@
 # Contributors
 
 - [Muhammad Jamshed]
+- [Masahiro Toyomura]
 - [Isaac Woodruff] (https://github.com/isaacwoodruff)
 - [Wejdan Bagais] (https://github.com/wbagais/)
 - [Anthony Campbell] (https://github.com/ac-denton)
@@ -21,6 +22,7 @@
 - [Jari Kovalainen] (https://github.com/JariKovis)
 - [Ahlex Paes] (https://github.com/LondonComputadores)
 - [Steve Munson]
+- [Vishal Vaddadhi]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - Nathan Jones
@@ -74,6 +76,7 @@
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
+- Akshay Khairnar
 - [Andrew Landis](https://github.com/mrlandis3)
 - [Pradnya Hegde](https://github.com/pshegde123)
 - [Ted Shin](https://github.com/TedSCoder)
@@ -392,6 +395,7 @@
 - [prateeksawhney97](https://github.com/prateeksawhney97)
 - [Jeremy Lin](https://github.com/jinweilin8/)
 - [Rachel](https://github.com/rachelestherg)
+- [Rajdeep](https://github.com/RajdeepPy)
 - [kdg](https://github.com/dgkk)
 - [dtt](https://github.com/thanhtrungit25)
 - [Brandon Hall](https://github.com/bthall16)
@@ -12121,10 +12125,11 @@ Bryan Romero
 - [Hao Wei Goh] (https://github.com/haowei920)
 - [Saboo] (https://github.com/Saboo27)
 - [Lucas Melo](https://github.com/lucasmeloo)
+- [Matt SQ](https://github.com/greyghost13)
 - [John McGonagle](https://github.com/jgonagle)
 - [Dalton Maahs] (https://github.com/dmaahs2017)
 - [Kim Sangyeon] (https://github.com/kimsangyeon)
 - [Chris Walters] (https://github.com/Chriswalt64)
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [DCSnial](https://github.com/wangyanchang21)
-
+- [Pawan Yadav](https://github.com/pawanraocse)
