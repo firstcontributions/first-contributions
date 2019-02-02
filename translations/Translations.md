@@ -5,6 +5,8 @@
 | 🇮🇳 | [ગુજરાતી](README.guj.md) |
 | 🇮🇳 | [हिन्दी](README.hi.md) |
 | 🇮🇳 | [मराठी](README.mr.md) |
+| 🇮🇳 | [తెలుగు](README.te.md) |
+| 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
@@ -33,7 +35,6 @@
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](README.gl.md) |
 | 🇳🇵 | [नेपाली](README.np.md) |
 | 🇵🇰 | [اردو](README.ur.md) |
-| 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇩 🇷🇴 | [Limba Română](README.ro.md) |
 | :uk: | [English](../README.md) |
 | <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
@@ -45,6 +46,7 @@
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
+| 🇵🇭 | [Wikang Filipino](translations/README.tl.md) |
 | 🇰🇿 | [Қазақша](README.kz.md) |
 | 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
