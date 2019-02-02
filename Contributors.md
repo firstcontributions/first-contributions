@@ -119,6 +119,17 @@
 - [Oliver Horton](https://github.com/0liveradam8)
 - [Andrew Deal](https://github.com/a-deal)
 - [Pigeon Dev]
+
+
+
+
+
+
+
+
+
+
+
 [Bag0ul](https://github.com/Bag0ul)
 - [NH]
 -POPAMAN
@@ -405,7 +416,8 @@
 - [Eddie Melendez](https://github.com/exmelendez)
 - [Alexsander Ferreira](https://github.com/alexs974)
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
-- [tnssh](https://github.com/tnssh)
+- [tnssh](https://github.com/tnssh
+- [JFish])
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Pranoppal](https://github.com/pranoppal)
 - [Moses613](https://github.com/Moses613)
