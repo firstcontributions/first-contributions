@@ -12,6 +12,7 @@
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
+| 🇧🇬 | [Bulgarian](translations/README.bg.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
@@ -38,6 +39,8 @@
 | <img src="../assets/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
+| 🇲🇾 | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
+| 🇨🇿 | [Czech](README.cs.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
@@ -45,5 +48,5 @@
 | 🇰🇿 | [Қазақша](README.kz.md) |
 | 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
-| 🇰🇪 | [Kiswahili (Kenya)](README.zul.md) |
+| 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
