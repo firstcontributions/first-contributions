@@ -392,6 +392,7 @@
 - [prateeksawhney97](https://github.com/prateeksawhney97)
 - [Jeremy Lin](https://github.com/jinweilin8/)
 - [Rachel](https://github.com/rachelestherg)
+- [Rajdeep](https://github.com/RajdeepPy)
 - [kdg](https://github.com/dgkk)
 - [dtt](https://github.com/thanhtrungit25)
 - [Brandon Hall](https://github.com/bthall16)
