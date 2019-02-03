@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,58 +12,7 @@
 
 #### *താങ്കൾക്ക് കമാൻഡ് ലൈൻ ഉപയോഗിച്ച്‌ പരിചയം ഇല്ലെങ്കിൽ, [GUI ഉപയോഗിച്ച് ചെയ്യാൻ ഉള്ള നിർദേശങ്ങൾ ഇവിടെ ലഭ്യമാണ്](#tutorials-using-other-tools)*.
 
-#### *ഇത് [മറ്റു ഭാഷകളിൽ വായിക്കുക](translations/Translations.md).*
-
-[🇮🇳](translations/Translations.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[🇧🇬](translations/README.bg.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇳🇵](translations/README.np.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[🇲🇾](translations/README.my.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇵🇭](translations/README.tl.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 താങ്കളുടെ കമ്പ്യൂട്ടറിൽ ഗിറ്റ് (git) ഇല്ലെങ്കിൽ, [ഇൻസ്റ്റാൾ ചെയ്യുക](https://help.github.com/articles/set-up-git/).
 
@@ -73,7 +22,7 @@
 
 ## ഈ റെപ്പോസിറ്ററി ക്ലോൺ (clone) ചെയ്യുക
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 ഇനി ഫോർക്ക് ചെയ്ത റെപ്പോസിറ്ററി നിങ്ങളുടെ കമ്പ്യൂട്ടറിലേക്ക് ക്ലോൺ ചെയ്യുക. നിങ്ങളുടെ ഗിറ്റ്ഹബ് (GitHub) അക്കൗണ്ട് എടുത്ത് അതിൽ ഫോർക്ക് ചെയ്ത റെപ്പോസിറ്റാറ്റി തുറക്കുക. എന്നിട്ട് മുകളിൽ ക്ലോൺ ബട്ടണിലെ *കോപ്പി ടു ക്ലിപ്പ് ബോർഡ് (Copy to clipboard)* എന്ന ഐക്കൺ ക്ലിക്ക് ചെയ്യുക.
 
@@ -85,7 +34,7 @@ git clone നിങ്ങളുടെ ലിങ്ക്
 
 ഇതിൽ `നിങ്ങളുടെ ലിങ്ക്` എന്ന് പറയുന്നത് താങ്കളുടെ (ഫോർക്ക് ചെയ്ത) റെപ്പോസിറ്ററി ലിങ്ക് ആണ് . ലിങ്ക് എങ്ങനെ കോപ്പി ചെയ്യാം എന്നറിയാൻ ഇതിനു മുൻപ് ഉള് നിർദേശം നോക്കുക.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ഉദാഹരണം:
 
@@ -123,7 +72,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 ഇനി `Contributors.md` എന്ന ഫയൽ ഒരു എഡിറ്റർ ഉപയോഗിച്ച് തുറന്നതിനു ശേഷം താങ്കളുടെ പേര് അതിൽ ഉൾപ്പെടുത്തുക. അങ്ങനെ ചെയ്യുമ്പോൾ തുടക്കത്തിലോ അവസാനത്തിലോ അല്ലാതെ ഇടയിൽ എവിടെയെങ്കിലും ഉൾപെടുത്തുക. എന്നിട്ട് ആ ഫയൽ സേവ് ചെയ്യുക.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
@@ -159,11 +108,11 @@ git push origin <താങ്കളുടെ-ബ്രാഞ്ചിന്റ�
 
 നിങ്ങൾ ഇപ്പോൾ നിങ്ങളുടെ ഗിറ്റ്ഹബ് റെപ്പോസിറ്ററിയിൽ പോയി നോക്കിയാൽ അവിടെ `Compare & pull request` എന്ന ഒരു ബട്ടൺ കാണാം. അതിൽ അമർത്തുക.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 ഇനി പുൾ റിക്വസ്റ്റ് (pull request) കൊടുക്കുക.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 വൈകാതെ തന്നെ ഞാൻ താങ്കളുടെ വ്യത്യാസങ്ങൾ പ്രധാന ബ്രാഞ്ചിലേക്ക്  ചേർക്കുന്നതായിരിക്കും. അപ്പോൾ താങ്കൾക്ക് ഒരു ഇമെയിൽ അറിയിപ്പ് ലഭിക്കും.
 
@@ -186,7 +135,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## മറ്റു ഉപകരണങ്ങൾ ഉപയോഗിച്ച് ചെയ്യുന്നതിനെ പറ്റിയുള്ള ലേഖനങ്ങൾ
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
@@ -194,4 +143,4 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 താങ്കൾക്ക് ഈ പ്രൊജക്റ്റ് ഇഷ്ടപെട്ടുവെങ്കിൽ [ഗിറ്റ്ഹബിൽ]((https://github.com/firstcontributions/first-contributions)) സ്റ്റാർ ചെയ്യുക. വിരോധമില്ലെങ്കിൽ [റോഷനെ]((https://roshanjossey.github.io/) [ട്വിറ്ററിലും](https://twitter.com/sudo__bangbang) [ഗിറ്റ്ഹബിലും](https://github.com/roshanjossey) പിന്തുടരുക. 
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
