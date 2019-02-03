@@ -578,7 +578,8 @@
 - [Karen Williams](https://github.com/karenw4)
 - [Oliver Horton](https://github.com/0liveradam8)
 - [Andrew Deal](https://github.com/a-deal)
-- [Pigeon Dev][bag0ul](https://github.com/Bag0ul)
+- Pigeon Dev
+- [bag0ul](https://github.com/Bag0ul)
 - NH
 - [Harshal Lele](https://github.com/harshlele)
 - POPAMAN
@@ -914,7 +915,8 @@
 - [Phillip Doughty](https://github.com/FrequencyZero)
 - [Alexsander Ferreira](https://github.com/alexs974)
 - [Pratyush Kumar](https://github.com/pratyushsetu28)
-- [tnssh](https://github.com/tnssh)
+- [tnssh](https://github.com/tnssh
+- [JFish])
 - [Ramon Griffo Costa](https://github.com/IguanaAzul)
 - [Juan Pablo Yeverino](https://github.com/JPYeverino)
 - [Samet Epdenli](https://github.com/cocosmt)
