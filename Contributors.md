@@ -10268,6 +10268,7 @@
 - [Vini Farias](https://github.com/ViniFarias)
 - [rkruk](https://github.com/rkruk)
 - [fischbot](https://github.com/fischbot)
+- [DJDiaper](https://github.com/DJDiaper)
 - [Shreyansh deep](https://github.com/shreyanshdeep)
 - [Mohammed Farhan](https://github.com/farhankn)
 - [Nicola Pasquali](https://github.com/NicolaPasquali)
