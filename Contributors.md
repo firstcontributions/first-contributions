@@ -12175,3 +12175,4 @@
 - [Matt Silva](https://github.com/MattSilva)
 - [Artit Pinthong](https://github.com/str4t3gy)
 - [Taylor Danielson](https://github.com/disabledtech/)
+- [Jason Bland](https://github.com/jasonbland)
