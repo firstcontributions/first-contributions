@@ -7391,6 +7391,7 @@
 - [MMarinov](https://github.com/MMarinov97)
 - [David Cabezas](https://github.com/dcabezas98)
 - [Derrick Chaparro](https://github.com/dchaparro801)
+- [Fernando Cicconeto](https://github.com/fcicc)
 - [Kelby Lu](https://github.com/kelby2)
 - [Gary W](https://github.com/garywallace-uk)
 - [Sean Connolly](https://github.com/maegico)
