@@ -8,6 +8,7 @@
 - [Wejdan Bagais] (https://github.com/wbagais/)
 - [Anthony Campbell] (https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
+- [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
 - [Ellen Puhalovich] (https://github.com/epuhalovich)
 - [Eduardo Canale](https://github.com/EduardoCanale)
