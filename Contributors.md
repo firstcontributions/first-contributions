@@ -12158,3 +12158,4 @@ Bryan Romero
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
 - [Mackey Lao](https://github.com/MackeyLao)
+- [Sergio Peña](https://github.com/Sergiop79)
