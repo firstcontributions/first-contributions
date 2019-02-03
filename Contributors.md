@@ -522,6 +522,7 @@
 - [Sunitha Kandalam](https://github.com/neozenweb)
 - [Chris Hatkoff](https://github.com/eppixdev)
 - [Hannes Kruger](https://github.com/hkrugersa)
+- [Manuel Horn](https://github.com/Manu1989)
 - [Andrew Chen](https://github.com/andrew-ch)
 - [Daniel Otieno](https://github.com/danielotieno)
 - [Umair Ahmad](https://github.com/a-umair)
