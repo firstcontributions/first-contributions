@@ -1478,6 +1478,7 @@
 - [David Fodel](https://github.com/dfodel)
 - [Ayush Varshney](https://github.com/Sushi314)
 - Hector Barajas
+- Akshay Sonawane
 - Chirag Agarwal
 - [Tintu Thomas](https://github.com/tintutm)
 - [Alex Tai](https://github.com/alextechtai)
