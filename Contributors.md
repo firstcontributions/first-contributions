@@ -428,6 +428,7 @@
 - [Stephen Stone](https://github.com/sstone2423)
 - [Muhammed Sami](https://github.com/MuhammedSami)
 - [Elin Fritiofsson](https://github.com/eli6)
+- [Keigo Tanaka](https://github.com/KeigoAlexTanaka)
 - [Debjyoti Biswas](https://github.com/lladhibhutall)
 - [Tyler Elliott](https://github.com/TDSElliott)
 - [Luis Diaz](https://github.com/mrluiso)
