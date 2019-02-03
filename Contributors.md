@@ -53,6 +53,7 @@
 - [Amarjit Singh](https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Bibek Gautam](https://github.com/bibek22)
+-[Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Filip Skukan](https://github.com/skukan159)
 - [Serb Andreii](https://github.com/SerbIMolot)
