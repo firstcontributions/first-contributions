@@ -41,6 +41,7 @@
 - [Sagar](https://github.com/sardul3)
 - [sgavari](https://github.com/sgavari)
 - [Kathleen Mullin](https://github.com/krm1511)
+- [Victor Machado](https://github.com/vamcs)
 - [Lewis Harvey](https://github.com/lewman215)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
