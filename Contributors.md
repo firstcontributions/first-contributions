@@ -12057,6 +12057,7 @@ Bryan Romero
 - [Allentine Paulis](https://github.com/rainbowmoonlight)
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
+- [Michelle Law] (https//github.com/feamoda)
 - [tkolleh](https://github.com/tkolleh)
 - [muxyu](https://github.com/muxyu)
 - [jkhhuse](https://github.com/jkhhuse)
