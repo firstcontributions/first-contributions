@@ -12122,6 +12122,7 @@
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Lucian Dinu](https://github.com/luciandinu93)
+- [meSSH](https://github.com/IAmSSH)
 - [Ewan Stern](https://github.com/ewanstern)
 - [Shehan](https://github.com/shehan1993)
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
