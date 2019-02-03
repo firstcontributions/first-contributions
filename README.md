@@ -14,7 +14,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *Read this in [other languages](translations/Translations.md).*
 
-[🇮🇳](translations/README.hi.md)
+[🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
@@ -23,6 +23,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
+[🇧🇬](translations/README.bg.md)
 [:slovakia:](translations/README.slk.md)
 [🇯🇵](translations/README.ja.md)
 [🇻🇳](translations/README.vn.md)
@@ -49,12 +50,12 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇩 🇷🇴](translations/README.ro.md)
 [🇹🇷](translations/README.tr.md)
 [🇸🇪](translations/README.se.md)
+[🇲🇾](translations/README.my.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
-[vn](translations/README.vn.md)
 [🇵🇭](translations/README.tl.md)
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
