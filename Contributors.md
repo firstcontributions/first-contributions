@@ -94,6 +94,7 @@
 - [Ted Shin](https://github.com/TedSCoder)
 - Sanyam Agrawal
 - I dont know
+- Allison
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
 - BLavin
