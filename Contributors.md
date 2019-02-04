@@ -7906,6 +7906,7 @@
 - [Carlo Candoy](https://github.com/mondogoat)
 - [Didier CHEUNG](https://github.com/casdidier)
 - Joseph-
+- [Sam Jenkins](https://github.com/samJ27)
 - [mtdkki](https://github.com/mtdkki)
 - [larenala](https://github.com/larenala)
 - [benbe](https://github.com/dienhoa)
