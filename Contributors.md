@@ -2,6 +2,7 @@
 
 - Muhammad Jamshed
 - Masahiro Toyomura
+- [Kyle Weeks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
