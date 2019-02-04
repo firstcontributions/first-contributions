@@ -113,6 +113,7 @@
 - [Keerthan Ekbote](https://github.com/saiskee)
 - [Harel Katz](https://github.com/HarelKatz)
 - [Anilla](https://github.com/Anillab)
+- [Marethyu Prefect](https://github.com/MarethyuPrefect)
 - Diogo Kawamoto
 - [Jessica Saini](https://github.com/Jess2110)
 - [Catiane Matiello](https://github.com/cmatiello)
