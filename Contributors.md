@@ -199,6 +199,7 @@
 - [Jonny Deveson](https://github.com/jdevo23)
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Ashly Mathew](https://github.com/ashiemath)
+- [Aghnia Prawira](https://github.com/fwrhine)
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
 - [KJ Schmidt](https://github.com/kjschmidt913)
