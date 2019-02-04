@@ -125,6 +125,7 @@
 - [Satyajeet Maharana](https://github.com/satyajeetmaharana)
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
+- [Carlo De Los Reyes](https://github.com/nattysplines)
 - [abuznego](https://github.com/abuznego23)
 - [romanvx](https://github.com/romanvx)
 - [bish singh](https://github.com/bishtrial)
