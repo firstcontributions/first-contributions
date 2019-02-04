@@ -9177,6 +9177,7 @@
 - [Michael Hall](https://github.com/michaelhall923)
 - [Felix Cabrera](https://github.com/ysites)
 - [Robert Crockett](https://github.com/slashafd)
+- [Ben C](https://github.com/bencwallace)
 - [Dylan Harrison](https://github.com/DylanHarrisonGithub)
 - [Peter Karaganis](https://github.com/llaslo)
 - [Matthew J. Whitney](https://github.com/matthewjwhitney)
