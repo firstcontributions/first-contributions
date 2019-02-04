@@ -27,6 +27,7 @@
 - [Qing  Liu](https://github.com/useliuqing)
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
+- [smarch2](https://github.com/smarch2)
 - Steve Munson
 - Vishal Vaddadhi
 - [Will Yu](https://github.com/will7zero)
