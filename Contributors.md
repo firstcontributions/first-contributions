@@ -5,6 +5,7 @@
 - [Robert Petty](https://github.com/roblpetty)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
+- [Akshay Salekar](https://github.com/akshaysalekar99)
 - [Wejdan Bagais](https://github.com/wbagais/)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
