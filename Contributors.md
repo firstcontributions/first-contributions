@@ -12172,3 +12172,4 @@
 - [Sergio Peña](https://github.com/Sergiop79)
 - [Mahmoud Adel](https://github.com/mohmyo)
 - [Matt Silva](https://github.com/MattSilva)
+- [Artit Pinthong](https://github.com/str4t3gy)
