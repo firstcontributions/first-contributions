@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- Amit Jha (https://github.com/devbihari)
 - Muhammad Jamshed
 - Masahiro Toyomura
 - [Kyle Weeks](https://github.com/kylepw)
