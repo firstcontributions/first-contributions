@@ -4,6 +4,7 @@
 - Masahiro Toyomura
 - [Kyle Weeks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
+- [Kristy Nagel](https://github.com/kristynagel)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
