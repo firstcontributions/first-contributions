@@ -3758,6 +3758,7 @@
 - [Elaguy](https://github.com/elaguy)
 - [Javisth](https://github.com/javisth)
 - [Aquakor](https://github.com/Aquakor)
+- [Adam Benali](https://github.com/AdamBenali)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
 - [SteveFFresno](https://github.com/stevef-fresno)
