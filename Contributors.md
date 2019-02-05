@@ -72,6 +72,7 @@
 - [Rohith Saranga](https://github.com/rohith203)
 - [Drake Zhang](https://github.com/zzhzzhzzh)
 - Abbas
+- [Devendra Singh Shekhawat](https://github.com/dev-313)
 - [Angela Liu](https://github.com/rgangela99)
 - Vindi
 - [George Bowers](https://github.com/gergeb)
