@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 
 - Muhammad Jamshed
 - Masahiro Toyomura
-- [Kyle Weeks](https://github.com/kylepw)
+- [Randy Le](https://github.com/RandyKoiSA)
+- [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
