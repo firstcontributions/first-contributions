@@ -82,6 +82,7 @@
 - Jithinlal
 - Utkarsh
 - palangana
+- [Muhd Syuqri](https://github.com/dansyuqri/)
 - [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
