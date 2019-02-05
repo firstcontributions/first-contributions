@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
 - Muhammad Jamshed
 - Masahiro Toyomura
@@ -278,6 +279,7 @@
 - [Akram](https://github.com/zezooli)
 - [Justin Tromp](https://github.com/trompj)
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
+- [Alexey Kuznetsov](https://github.com/ALEXKUZNETS0V)
 - [Laura Fiuza](https://github.com/laurafiuza)
 - Vaibhav Kaushal
 - Alex McCafferty
@@ -1721,6 +1723,7 @@
 - [Sanya Gupta](https://github.com/sanya2701)
 - [Marco Diaz](https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
+- [Manuel Millán] (https://github.com/strider76)
 - [MC_Leut](https://github.com/MCLeut)
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
@@ -9575,6 +9578,7 @@
 - [bkapp15](https://github.com/bkapp15)
 - [Blaine Cantrell](https://github.com/Whatchamazog)
 - [Rajiv Sharma](https://github.com/Rajivts)
+- [Hunter Davis](https://github.com/junkyardjameson)
 - [suvojit-0x55aa](https://github.com/shin-migami)
 - [Jona Reyes](https://github.com/rookie-cookie)
 - [bkapp15](https://github.com/bkapp15)
