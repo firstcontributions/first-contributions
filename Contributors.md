@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
 - Muhammad Jamshed
 - Masahiro Toyomura
@@ -9574,6 +9575,7 @@
 - [bkapp15](https://github.com/bkapp15)
 - [Blaine Cantrell](https://github.com/Whatchamazog)
 - [Rajiv Sharma](https://github.com/Rajivts)
+- [Hunter Davis](https://github.com/junkyardjameson)
 - [suvojit-0x55aa](https://github.com/shin-migami)
 - [Jona Reyes](https://github.com/rookie-cookie)
 - [bkapp15](https://github.com/bkapp15)
