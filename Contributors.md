@@ -689,6 +689,7 @@
 - Kazmuir Long
 - [Rafael Queiroz](https://github.com/rafael-mq)
 - [Dakota Kim](https://github.com/kotacodes)
+- [Denton Gilliam](https://github.com/50RC3R3R)
 - Swapnik Kota
 - Aleko
 - [Yunkun Xie](http://github.com/Honey0Badger)
