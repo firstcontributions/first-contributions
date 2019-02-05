@@ -1,9 +1,11 @@
-﻿# Contributors
-- Amit Jha (https://github.com/devbihari)
+# Contributors
+- [Amit Jha](https://github.com/devbihari)
 - Muhammad Jamshed
 - Masahiro Toyomura
-- [Kyle Weeks](https://github.com/kylepw)
+- [Randy Le](https://github.com/RandyKoiSA)
+- [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
+- [Kristy Nagel](https://github.com/kristynagel)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
@@ -23,17 +25,20 @@
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
+- [John Solo](https://github.com/johnsolojoseph)
 - [Taiwo Alabi](https://github.com/insight001)
 - [Amit Patel](https://github.com/AmitP88)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
+- [smarch2](https://github.com/smarch2)
 - Steve Munson
 - Vishal Vaddadhi
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Alfonso Lechuga](https://github.com/lechugalf)
 - Nathan Jones
+- Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
 - [Greg Slonina](https://github.com/theMugician)
 - [Matko Cvitkovic](https://github.com/Cvilec)
@@ -68,6 +73,7 @@
 - [Rohith Saranga](https://github.com/rohith203)
 - [Drake Zhang](https://github.com/zzhzzhzzh)
 - Abbas
+- [Devendra Singh Shekhawat](https://github.com/dev-313)
 - [Angela Liu](https://github.com/rgangela99)
 - Vindi
 - [George Bowers](https://github.com/gergeb)
@@ -75,8 +81,10 @@
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
+- Jithinlal
 - Utkarsh
 - palangana
+- [Muhd Syuqri](https://github.com/dansyuqri/)
 - [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
@@ -93,6 +101,7 @@
 - [Ted Shin](https://github.com/TedSCoder)
 - Sanyam Agrawal
 - I dont know
+- Allison
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
 - BLavin
@@ -113,6 +122,7 @@
 - [Keerthan Ekbote](https://github.com/saiskee)
 - [Harel Katz](https://github.com/HarelKatz)
 - [Anilla](https://github.com/Anillab)
+- [Marethyu Prefect](https://github.com/MarethyuPrefect)
 - Diogo Kawamoto
 - [Jessica Saini](https://github.com/Jess2110)
 - [Catiane Matiello](https://github.com/cmatiello)
@@ -121,6 +131,7 @@
 - [Satyajeet Maharana](https://github.com/satyajeetmaharana)
 - [Alec W](https://github.com/AlecWilk)
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
+- [Carlo De Los Reyes](https://github.com/nattysplines)
 - [abuznego](https://github.com/abuznego23)
 - [romanvx](https://github.com/romanvx)
 - [bish singh](https://github.com/bishtrial)
@@ -1433,6 +1444,7 @@
 - [FloridaMan](https://github.com/floridaman)
 - [SupunDamba](https://github.com/supun-kanda)
 - [Podrig](https://github.com/PadraigLeoghain)
+- [Julian Gonzales](https://github.com/JulianG36)
 - JustABeginner
 - Daniel
 - Arnel Forbes
@@ -7902,6 +7914,7 @@
 - [Carlo Candoy](https://github.com/mondogoat)
 - [Didier CHEUNG](https://github.com/casdidier)
 - Joseph-
+- [Sam Jenkins](https://github.com/samJ27)
 - [mtdkki](https://github.com/mtdkki)
 - [larenala](https://github.com/larenala)
 - [benbe](https://github.com/dienhoa)
@@ -12187,3 +12200,5 @@
 - [Artit Pinthong](https://github.com/str4t3gy)
 - [Taylor Danielson](https://github.com/disabledtech/)
 - [Jason Bland](https://github.com/jasonbland)
+- [Andy Long](https://github.com/along5)
+- [Michael Shea](https://github.com/soum-io)
