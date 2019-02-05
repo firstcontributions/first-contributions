@@ -64,6 +64,7 @@
 - [Bibek Gautam](https://github.com/bibek22)
 -[Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
+- Eswar
 - [Filip Skukan](https://github.com/skukan159)
 - [Serb Andreii](https://github.com/SerbIMolot)
 - [Fatimah Alattas](https://github.com/fatimah5)
