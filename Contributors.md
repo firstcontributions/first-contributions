@@ -1721,6 +1721,7 @@
 - [Sanya Gupta](https://github.com/sanya2701)
 - [Marco Diaz](https://github.com/Marco1969theKnight)
 - [Briana Baker](https://github.com/brianabaker)
+- [Manuel Millán] (https://github.com/strider76)
 - [MC_Leut](https://github.com/MCLeut)
 - [Saiful Islam](https://github.com/saiful1992)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
