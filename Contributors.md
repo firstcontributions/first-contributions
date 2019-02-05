@@ -78,6 +78,7 @@
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
+- Jithinlal
 - Utkarsh
 - palangana
 - [Moad ENNAGI](https://github.com/moadennagi/)
