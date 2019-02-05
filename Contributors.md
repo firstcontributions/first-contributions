@@ -36,6 +36,7 @@
 - Apurv Singh Chauhan
 - [Alfonso Lechuga](https://github.com/lechugalf)
 - Nathan Jones
+- Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
 - [Greg Slonina](https://github.com/theMugician)
 - [Matko Cvitkovic](https://github.com/Cvilec)
