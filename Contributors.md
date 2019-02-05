@@ -2498,6 +2498,7 @@
 - [jhartkopf](https://github.com/jhartkopf)
 - [Brennen Green](https://github.com/brennengreen)
 - [Prakhar Gupta](https://github.com/pg8469)
+- [Lawrence Lin](https://github.com/LawrenceLin690)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
 - [Marijke Meersman](https://github.com/MarijkeM)
