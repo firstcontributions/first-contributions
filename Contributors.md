@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
+- [Changhyuk Lee](https://github.com/devchlee)
 - Muhammad Jamshed
 - Masahiro Toyomura
 - [Randy Le](https://github.com/RandyKoiSA)
