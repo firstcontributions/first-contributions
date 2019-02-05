@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Amit Jha](https://github.com/devbihari)
 - Muhammad Jamshed
 - Masahiro Toyomura
@@ -12201,6 +12201,8 @@
 - [Matt Silva](https://github.com/MattSilva)
 - [Artit Pinthong](https://github.com/str4t3gy)
 - [Taylor Danielson](https://github.com/disabledtech/)
+- [ChangHyuk Lee]
+(https://github.com/devchlee)
 - [Jason Bland](https://github.com/jasonbland)
 - [Andy Long](https://github.com/along5)
 - [Michael Shea](https://github.com/soum-io)
