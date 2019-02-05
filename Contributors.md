@@ -24,6 +24,7 @@
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
+- [John Solo](https://github.com/johnsolojoseph)
 - [Taiwo Alabi](https://github.com/insight001)
 - [Amit Patel](https://github.com/AmitP88)
 - [Qing  Liu](https://github.com/useliuqing)
