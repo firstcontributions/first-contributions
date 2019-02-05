@@ -89,6 +89,7 @@
 - Jithinlal
 - Utkarsh
 - palangana
+- [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
 - [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
