@@ -1439,6 +1439,7 @@
 - [FloridaMan](https://github.com/floridaman)
 - [SupunDamba](https://github.com/supun-kanda)
 - [Podrig](https://github.com/PadraigLeoghain)
+- [Julian Gonzales](https://github.com/JulianG36)
 - JustABeginner
 - Daniel
 - Arnel Forbes
