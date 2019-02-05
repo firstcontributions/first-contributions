@@ -12195,3 +12195,4 @@
 - [Taylor Danielson](https://github.com/disabledtech/)
 - [Jason Bland](https://github.com/jasonbland)
 - [Andy Long](https://github.com/along5)
+- [Michael Shea](https://github.com/soum-io)
