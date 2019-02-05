@@ -6013,6 +6013,7 @@
 - [Gopi Surendra](https://github.com/gsrc1026)
 - [Bryan Falls](https://github.com/bfalls158)
 - [David Saul](https://github.com/DSaul91)
+- [Rob Bentley](https://github.com/RobBentleyDev)
 - [Tramezzini](https://github.com/tramezzini)
 - [Verdayne Graham](https://github.com/Verdayne)
 - [Abhishek Chakravarty](https://github.com/Abhishekchakru)
