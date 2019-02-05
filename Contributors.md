@@ -37,6 +37,7 @@
 - [smarch2](https://github.com/smarch2)
 - Steve Munson
 - Vishal Vaddadhi
+- Marc
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Alfonso Lechuga](https://github.com/lechugalf)
