@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
 - Muhammad Jamshed
@@ -278,6 +278,7 @@
 - [Akram](https://github.com/zezooli)
 - [Justin Tromp](https://github.com/trompj)
 - [Spiros Eleana](https://github.com/SpirosKontolatis)
+- [Alexey Kuznetsov](https://github.com/ALEXKUZNETS0V)
 - [Laura Fiuza](https://github.com/laurafiuza)
 - Vaibhav Kaushal
 - Alex McCafferty
