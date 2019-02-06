@@ -12,6 +12,7 @@
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
+- [Alyssa Capps](https://github.com/alycapps)
 - [Akshay Salekar](https://github.com/akshaysalekar99)
 - [Bruno Pacheco](https://github.com/brunopacheco1)
 - [Wejdan Bagais](https://github.com/wbagais/)
