@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
@@ -91,6 +91,7 @@
 - Jithinlal
 - Utkarsh
 - palangana
+- Muhammad Zohaib Ehsan
 - [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
 - [Moad ENNAGI](https://github.com/moadennagi/)
