@@ -308,6 +308,7 @@
 - [Dipesh Guria](https://github.com/gidipesh)
 - [Wandji Collins](https://github.com/Wandji69)
 - [Fernando Franca](https://github.com/Kcpf)
+- [Ali Sina](https://github.com/alisiina)
 - [Anthony Guillier](https://github.com/theMonarK)
 - [Jamie Walker](https://github.com/KR1Z00)
 - [Yıldırım TAM](https://github.com/ytam)
