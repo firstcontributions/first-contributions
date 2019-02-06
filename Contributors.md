@@ -894,6 +894,7 @@
 - [Nidhi Patil](https://github.com/nidhirpatil)
 - [Nick Long](https://github.com/nicklong98)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
+- [Ali Asgher](https://github.com/alifirst01)
 - [Daniela Llivina](https://github.com/daniela-llivina)
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
