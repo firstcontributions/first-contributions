@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Eric C](https://github.com/2012cericc)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
