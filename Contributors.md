@@ -40,6 +40,7 @@
 - Steve Munson
 - Vishal Vaddadhi
 - Marc
+- [Rohit Kapoor](https://github.com/algo-circle)
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Alfonso Lechuga](https://github.com/lechugalf)
