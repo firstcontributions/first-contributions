@@ -9387,6 +9387,7 @@
 - [Saad](https://github.com/MuhammadSaadQadeer)
 - [Rafal Kruk](https://github.com/rkruk)
 - [Kyle Lin](https://github.com/kylejlin)
+- [BassBiest](https://github.com/Bassbiest)
 - [Nkoro Joeph](https://github.com/nkorojoseph)
 - [Joshua Pacana](https://github.com/JPacana)
 - [sagivd](https://github.com/sagivd)
