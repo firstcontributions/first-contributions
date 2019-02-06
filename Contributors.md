@@ -29,6 +29,7 @@
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
+- [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
 - [John Solo](https://github.com/johnsolojoseph)
