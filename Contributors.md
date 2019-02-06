@@ -9,6 +9,7 @@
 - [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
+-[Ojaswi Athghara](https://github.com/ojaswi825)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
