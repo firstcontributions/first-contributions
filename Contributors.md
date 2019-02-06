@@ -94,6 +94,7 @@
 - Muhammad Zohaib Ehsan
 - [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
+- [Abdu Manas C A](https://github.com/abdumanaz/)
 - [Moad ENNAGI](https://github.com/moadennagi/)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Erudite Monkey](https://github.com/translucent504)
