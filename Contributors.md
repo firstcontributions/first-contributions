@@ -5997,6 +5997,7 @@
 - [Josh Fedo](https://github.com/joshfedo)
 - [Ceferino V.](https://github.com/whathejoe)
 - [Shved Peter](https://github.com/ShvedPeter)
+- [Nindya Hapsari](https://github.com/nindyahapsari)
 - [Nathan Nash](https://github.com/player2point0)
 - [Dinara Aliyeva](https://github.com/dinara92)
 - [Sayon Nayek](https://github.com/sayonanyek1)
