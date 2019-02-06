@@ -4,6 +4,7 @@
 - [Changhyuk Lee](https://github.com/devchlee)
 - Muhammad Jamshed
 - Masahiro Toyomura
+- [Salvatore Darmetta] (https://github.com/sdarmetta)
 - [Randy Le](https://github.com/RandyKoiSA)
 - [Hannah Mendez](https://github.com/hannahmendez)
 - [Kyle We[eks](https://github.com/kylepw)
