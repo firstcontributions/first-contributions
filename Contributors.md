@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 - [Ivor Hill](https://github.com/ivorhill)
+- [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
 - Muhammad Jamshed
