@@ -17,6 +17,7 @@
 - [Akshay Salekar](https://github.com/akshaysalekar99)
 - [Bruno Pacheco](https://github.com/brunopacheco1)
 - [Wejdan Bagais](https://github.com/wbagais/)
+- [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Andrew Kassab](https://github.com/andrewkassab)
