@@ -84,6 +84,7 @@
 - [Fatimah Alattas](https://github.com/fatimah5)
 - [Chris Patrick](https://github.com/cp1927)
 - Archana
+- Sid Mohan
 - [Tushar Singhal](https://github.com/tushar8194)
 - [Rohith Saranga](https://github.com/rohith203)
 - [Drake Zhang](https://github.com/zzhzzhzzh)
