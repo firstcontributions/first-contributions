@@ -268,6 +268,7 @@
 - [Ryan Foss](https://github.com/rfoss92/)
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Håvard Wilsgaard](https://github.com/havardwi)
+- [Lakshya Daksha](https://github.com/LakshKD)
 - [Yuma Sumi](https://github.com/y-yeah)
 - [Elad Matia](https://github.com/JavaMatia)
 - [Daniel Tejeda](https://github.com/daniel-tejeda)
