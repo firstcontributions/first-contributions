@@ -91,6 +91,7 @@
 - [Devendra Singh Shekhawat](https://github.com/dev-313)
 - [Angela Liu](https://github.com/rgangela99)
 - Vindi
+- [Leos Abraham](https://github.com/leos1999)
 - [George Bowers](https://github.com/gergeb)
 - [pale](https://github.com/Paleless)
 -[Marcus Snow](https://github.com/Jay-snow)
