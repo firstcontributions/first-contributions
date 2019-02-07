@@ -56,6 +56,7 @@
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
+- Edin K (https://github.com/EdinK1)
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
 - [Sagar](https://github.com/sardul3)
