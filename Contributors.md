@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ivor Hill](https://github.com/ivorhill)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
@@ -12253,3 +12253,4 @@
 - [Chen Wang](https://github.com/ChenMetanoia)
 - [Berkay Coban](https://github.com/bcobann)
 - [Markus Wernersbach](https://github.com/wernersbacher)
+- [Zach Banov](https://github.com/zbanov)
