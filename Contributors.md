@@ -3591,6 +3591,7 @@
 - Luke Covalt
 - [jhonof](https://github.com/jhonof)
 - [Ifyokoh](https://github.com/Ifyokoh)
+- [Eone Rizuwan](https://github.com/EoneRizuwan)
 - [lancelot1337](https://github.com/lancelot1337)
 - [mrKappen](https://github.com/mrKappen)
 - [hritikgupta](https://github.com/hritikgupta)
