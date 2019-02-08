@@ -92,6 +92,7 @@
 - [Angela Liu](https://github.com/rgangela99)
 - Vindi
 - [George Bowers](https://github.com/gergeb)
+- [supriya]
 - [pale](https://github.com/Paleless)
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
