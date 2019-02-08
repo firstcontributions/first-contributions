@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Niels Kjer] (https://github.com/ntkjer)
 - [Ivor Hill](https://github.com/ivorhill)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
