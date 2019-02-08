@@ -21,6 +21,7 @@
 - [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Tucker Wilde](https://github.com/tuckerwilde)
+- [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
 - [Ellen Puhalovich](https://github.com/epuhalovich)
