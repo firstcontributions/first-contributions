@@ -152,6 +152,7 @@
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
 - Beirut
+- [Justin Madden](https://github.com/ellidin1) 
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [jpthor](https://github.com/jpthor)
