@@ -3,6 +3,7 @@
 - James Krueger aka Lauwnch
 - AnoldYogi
 - [Ivor Hill](https://github.com/ivorhill)
+- [Shlok Khandelwal](https://github.com/shlokkh)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
