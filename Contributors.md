@@ -4,6 +4,7 @@
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - AnoldYogi
+- [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
