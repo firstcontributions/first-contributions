@@ -27,6 +27,7 @@
 - [Wejdan Bagais](https://github.com/wbagais/)
 - [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
+- [Saksham Rastogi](https://github.com/codeboy5)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
