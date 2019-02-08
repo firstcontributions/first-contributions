@@ -8,6 +8,7 @@
 - Muhammad Jamshed
 - Masahiro Toyomura
 - [Randy Le](https://github.com/RandyKoiSA)
+- [bt franzen](https://github.com/bfranzen19)
 - [Hannah Mendez](https://github.com/hannahmendez)
 - [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
