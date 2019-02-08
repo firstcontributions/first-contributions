@@ -18,6 +18,7 @@
 - [Randy Le](https://github.com/RandyKoiSA)
 - [bt franzen](https://github.com/bfranzen19)
 - [stardust3dd](https://github.com/stardust3dd)
+- [ProgrammingBanana](https://github.com/ProgrammingBanana)
 - [Hannah Mendez](https://github.com/hannahmendez)
 - [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
