@@ -3,6 +3,7 @@
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
+- [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
 - [Randy Le](https://github.com/RandyKoiSA)
