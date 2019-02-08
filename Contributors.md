@@ -9,6 +9,7 @@
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
+- [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
 - [Kyle King](https://github.com/King-Kyle)
 - [Randy Le](https://github.com/RandyKoiSA)
