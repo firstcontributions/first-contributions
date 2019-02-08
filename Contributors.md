@@ -7939,6 +7939,7 @@
 - [Mark Sampson](https://github.com/SampsonM)
 - [Joseph Crisolo](https://github.com/crisolo527)
 - [Sal Gonzalez](https://github.com/fuey3000)
+- [Tom Crooks](https://github.com/tomcrooks/)
 - [Rohini Joshi](https://github.com/rohini21)
 - [Ali Kabiri](https://github.com/alikabiris)
 - [Sergio Zurita](https://github.com/SergioZ96)
