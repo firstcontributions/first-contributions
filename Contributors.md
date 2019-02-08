@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Oliver Smith](https://github.com/olivermbs)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [Niels Kjer] (https://github.com/ntkjer)
