@@ -1444,6 +1444,7 @@
 - [Vibudh Vishal](github.com/vibudhvishal)
 - [Claudio Fioretti](https://github.com/cfioretti)
 - [Menna](https://github.com/mennayahia)
+- [Chet Lynch] (https://github.com/tree7gate)
 - [Jason Chau](https://github.com/chauvansang)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
