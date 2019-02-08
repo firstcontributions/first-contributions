@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - AnoldYogi
