@@ -9802,6 +9802,7 @@
 - [Vaibhav Yadav](https://github.com/Vaibhav-Yadav-1998)
 - [Ryan Kwon](https://github.com/108thAvenue)
 - [Alwin Sunny](https://github.com/alwin12)
+- [Jeff Kern](https://github.com/WizardofSloth)
 - [Bradley Rappa](https://github.com/konsoul)
 - [Sai Manideep Jinka](https://github.com/sai93)
 - [JosifV](https://github.com/JosifV)
