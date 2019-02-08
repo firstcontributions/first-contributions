@@ -12251,6 +12251,7 @@
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
 - [Biplab Mazumder](https://github.com/biplab-ca)
+- [Savish Bedi](https://github.com/savish28)
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
 - [Mackey Lao](https://github.com/MackeyLao)
