@@ -12263,3 +12263,4 @@
 - [Chen Wang](https://github.com/ChenMetanoia)
 - [Berkay Coban](https://github.com/bcobann)
 - [Markus Wernersbach](https://github.com/wernersbacher)
+- [Max Marzolf](https://github.com/maxmarzolf)
