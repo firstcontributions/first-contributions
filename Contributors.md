@@ -8,13 +8,14 @@
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
+- [Kyle King](https://github.com/King-Kyle)
 - [Randy Le](https://github.com/RandyKoiSA)
 - [bt franzen](https://github.com/bfranzen19)
 - [Hannah Mendez](https://github.com/hannahmendez)
 - [Kyle We[eks](https://github.com/kylepw)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
--[Ojaswi Athghara](https://github.com/ojaswi825)
+- [Ojaswi Athghara](https://github.com/ojaswi825)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
