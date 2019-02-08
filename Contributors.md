@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
+- [Alex Ruiztagle](https://github.com/Activelius)
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - AnoldYogi
