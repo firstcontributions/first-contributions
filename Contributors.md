@@ -63,6 +63,7 @@
 - Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
 - [Greg Slonina](https://github.com/theMugician)
+= Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
 - [Krupal Jadhav](https://github.com/kjkrupal)
