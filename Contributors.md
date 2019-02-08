@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Niels Kjer] (https://github.com/ntkjer)
+- James Krueger aka Lauwnch
 - [Ivor Hill](https://github.com/ivorhill)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
