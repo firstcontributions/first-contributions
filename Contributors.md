@@ -432,6 +432,7 @@
 - AdityaB
 - [Pankaj Kaushik](https://github.com/PankajKaushik78)
 - Ritwik M
+- [Heesoo Y.](https://github.com/heesoo4199)
 - Sid K
 - ryandas
 - kunaalk
