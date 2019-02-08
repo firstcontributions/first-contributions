@@ -155,6 +155,7 @@
 - [Sabás Mendívil](https://github.com/sabasm)
 - [Rahul Choubey](https://github.com/flashyrc)
 - Boone Chen
+- [Jake S.](https://github.com/GideonWasHere)
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
 - [Keerthan Ekbote](https://github.com/saiskee)
