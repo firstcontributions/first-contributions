@@ -80,6 +80,7 @@
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
+- MoonMen
 - [Ragith Sabapathipillai](https://github.com/r-saba)
 - Edin K (https://github.com/EdinK1)
 - [Jordan Tan](https://github.com/jordantjh)
