@@ -14,7 +14,8 @@
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
-- Teddy Chen
+- Teddy Cheng
+- chaburek8
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
 - [Kyle King](https://github.com/King-Kyle)
@@ -156,7 +157,7 @@
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
 - Beirut
-- [Justin Madden](https://github.com/ellidin1) 
+- [Justin Madden](https://github.com/ellidin1)
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [jpthor](https://github.com/jpthor)
@@ -12141,7 +12142,7 @@
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
-- [Marcel Gehlen](https://github.com/mgehlen) 
+- [Marcel Gehlen](https://github.com/mgehlen)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
 - [Nikhil K.](https://github.com/nk108)
