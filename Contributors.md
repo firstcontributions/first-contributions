@@ -11108,6 +11108,7 @@
 - [Yun-Ping Du](https://github.com/yunpingdu)
 - [Mitch Greene](https://github.com/gitGreene)
 - [Willy Chen](https://github.com/WillyChen123)
+- [Sanika Shah](https://github.com/sanu11)
 - [Eryk Lupa](https://github.com/vistafan12)
 - [Hogwarter](https://github.com/Hogwarter)
 - [Andy Davis](https://github.com/bassicallyandy1021)
