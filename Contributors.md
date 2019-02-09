@@ -250,6 +250,7 @@
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Seamus Bonner](https://github.com/Shamebob)
 - [Artur Karpov](https://github.com/Artur3303)
+- [Dylan](https://github.com/CodeNameDylan)
 - [Rahul Gupta](https://github.com/RG5595)
 - [Lakshya Singhal](https://github.com/asdas1505)
 - [Soham Zemse](https://github.com/zemse)
