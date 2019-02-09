@@ -6240,6 +6240,7 @@
 - [Mikki Mesfin](https://github.com/mikkimesfin)
 - [Christine Ocana](https://github.com/hikikomouri)
 - [Raffy Alcoriza](https://github.com/picapixa)
+- [Lewis Smith](https://github.com/lewisscottsmith)
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
