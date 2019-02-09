@@ -1289,6 +1289,7 @@
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Dan DuLeone](https://github.com/dduleone)
 - [Shivam Kumar](https://github.com/shivampkumar)
+- [Rodolfo Almeida](https://github.com/the-reindeer)
 - [Zilyck](https://github.com/zilyck)
 - [Hal Allred](https://github.com/hasta13)
 - [Darshana Joshi](https://github.com/Joshi-D)
