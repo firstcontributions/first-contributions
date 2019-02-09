@@ -21,6 +21,7 @@
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
 - [Kyle King](https://github.com/King-Kyle)
+- [Kye Davey](https://github.com/kyedavey)
 - [Randy Le](https://github.com/RandyKoiSA)
 - [bt franzen](https://github.com/bfranzen19)
 - [stardust3dd](https://github.com/stardust3dd)
