@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Oliver Smith](https://github.com/olivermbs)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
@@ -12296,3 +12296,4 @@
 - [Rajiv K.](https://github.com/jeevesofrkdia)
 - [Alberto Oporto Ames](https://github.com/otreblan)
 - [Thien Tran](https://github.com/gau-nernst)
+- [Alex Bott](https://github.com/alexbott)
