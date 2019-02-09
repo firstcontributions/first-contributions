@@ -156,7 +156,7 @@
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
 - Beirut
-- [Justin Madden](https://github.com/ellidin1) 
+- [Justin Madden](https://github.com/ellidin1)
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [jpthor](https://github.com/jpthor)
@@ -12141,7 +12141,7 @@
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
-- [Marcel Gehlen](https://github.com/mgehlen) 
+- [Marcel Gehlen](https://github.com/mgehlen)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
 - [Nikhil K.](https://github.com/nk108)
@@ -12246,6 +12246,7 @@
 - [Nathan Schneider](https://github.com/nathanlschneider)
 - [Rebecca Cho](https://github.com/choeuna)
 - [Sreymeas Nao](https://github.com/meass)
+- [Vin Lacey](https://github.com/vin-lacey)
 - [Nigel Moore](https://github.com/nimows)
 - [jecodeduweb](https://github.com/jecodeduweb)
 - [IcerOut](https://github.com/IcerOut)
