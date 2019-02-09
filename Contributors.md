@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Oliver Smith](https://github.com/olivermbs)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
@@ -129,6 +129,7 @@
 - Jithinlal
 - Utkarsh
 - palangana
+- Dylan T
 - Muhammad Zohaib Ehsan
 - [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
