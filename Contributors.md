@@ -82,7 +82,7 @@
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
 - MoonMen
-- [BlueOrange] (https://github.com/lostghost-dev)
+- [BlueOrange](https://github.com/lostghost-dev)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
 - Edin K (https://github.com/EdinK1)
 - [Jordan Tan](https://github.com/jordantjh)
