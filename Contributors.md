@@ -24,6 +24,7 @@
 - [ProgrammingBanana](https://github.com/ProgrammingBanana)
 - [Hannah Mendez](https://github.com/hannahmendez)
 - [Kyle We[eks](https://github.com/kylepw)
+- [Lav Tech Uy] (https://github.com/techuy)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
