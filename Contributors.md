@@ -1,5 +1,6 @@
 # Contributors
 - [Ege Erdogan](https://github.com/ege-erdogan)
+- [Farhia Muse] (https://github.com/FarhiaM)
 - [Oliver Smith](https://github.com/olivermbs)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
