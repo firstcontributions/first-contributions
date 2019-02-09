@@ -62,6 +62,7 @@
 - [John Solo](https://github.com/johnsolojoseph)
 - [Taiwo Alabi](https://github.com/insight001)
 - [Amit Patel](https://github.com/AmitP88)
+- [Trong Vo](https://github.com/trnvo)
 - [Qing  Liu](https://github.com/useliuqing)
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
