@@ -3,6 +3,7 @@
 - [Oliver Smith](https://github.com/olivermbs)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
+- [yhq](https://github.com/yuhongqian)
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - AnoldYogi
