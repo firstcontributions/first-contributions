@@ -487,6 +487,7 @@
 - [Rachel](https://github.com/rachelestherg)
 - [Rajdeep](https://github.com/RajdeepPy)
 - [kdg](https://github.com/dgkk)
+- [Dylan Sigler](https://github.com/jsigler47)
 - [dtt](https://github.com/thanhtrungit25)
 - [Brandon Hall](https://github.com/bthall16)
 - [bryandms](https://github.com/bryandms)
