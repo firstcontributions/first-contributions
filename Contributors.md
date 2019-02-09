@@ -2935,6 +2935,7 @@
 - [Rangana Udara](https://github.com/rurangana)
 - [bekawas](https://github.com/bekawas)
 - [Karan P](https://github.com/karan20000000000)
+- [Michael A.]
 - [Ali Karaman](https://github.com/karamanali)
 - [Aditi Tipnis](https://github.com/adititipnis)
 - [Vinay V.](https://github.com/vinayv1234)
