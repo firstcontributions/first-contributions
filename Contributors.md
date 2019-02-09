@@ -56,6 +56,7 @@
 - [M.D. Kim](https://github.com/bakker4444)
 - [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
+- [Alaa Bouayed](https://github.com/aml-b)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
 - [John Solo](https://github.com/johnsolojoseph)
 - [Taiwo Alabi](https://github.com/insight001)
