@@ -199,6 +199,7 @@
 - Bilaval Sharma
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
+- JeffTangHoTing
 - [John Osborn](https://github.com/josborn88)
 - [Krishna Swaroop](https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
