@@ -32,6 +32,7 @@
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
+- Luke Bernstein
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
@@ -52,7 +53,7 @@
 - [Jasper Yeh](https://github.com/jasperyeh)
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
--[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
+- [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
@@ -81,7 +82,7 @@
 - Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
 - [Greg Slonina](https://github.com/theMugician)
-= Maurits Cottyn
+- Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
 - [Krupal Jadhav](https://github.com/kjkrupal)
@@ -130,7 +131,7 @@
 - [George Bowers](https://github.com/gergeb)
 - [supriya]
 - [pale](https://github.com/Paleless)
--[Marcus Snow](https://github.com/Jay-snow)
+- [Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Jithinlal
