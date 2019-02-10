@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Satya Pati] (https://github.com/iamsatyapati)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
@@ -23,6 +22,7 @@
 - Muhammad Jamshed
 - Masahiro Toyomura
 - Teddy Chen 
+- [Satya Pati] (https://github.com/iamsatyapati)
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
