@@ -3296,6 +3296,7 @@
 - [Simpson](https://github.com/spaniard96)
 - Anderson Borba
 - Saumya Prakash
+- Conrad Parker
 - [Nicholas Puglia](http://github.com/nicholaspuglia)
 - [Dan Ingenthron](https://github.com/daningenthron)
 - [Sandeep Nanajkar](https://github.com/sandeepnjk)
