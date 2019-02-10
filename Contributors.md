@@ -12086,6 +12086,7 @@
 - [Oliver Carlson](https://github.com/olivercarlson)
 - [Mr Cartoonster](https://github.com/mrcartoonster)
 - [Azhar Rohiman](https://github.com/azharrohiman)
+- [Chris Wright](https://github.com/chriswrightft)
 - [Robert Paul](https://github.com/rpaul02)
 - [Jakub Szeja](https://github.com/muzykub)
 - [Gabriel Arazas](http://github.com/foo-dogsquared/)
