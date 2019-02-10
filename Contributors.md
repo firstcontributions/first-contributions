@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Oliver Smith](https://github.com/olivermbs)
@@ -12328,4 +12328,5 @@
 - [Tyler Wallis](https://github.com/tylerwallis95)
 - [Sam Richardson](https://github.com/samjrrr)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
+- [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
