@@ -174,6 +174,7 @@
 - [jpthor](https://github.com/jpthor)
 - Parag Kanodia
 - Affan Aslam
+- Matthew Susans
 - [Sabás Mendívil](https://github.com/sabasm)
 - [Rahul Choubey](https://github.com/flashyrc)
 - Boone Chen
