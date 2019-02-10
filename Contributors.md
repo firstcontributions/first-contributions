@@ -15,6 +15,7 @@
 - Muhammad Jamshed
 - Masahiro Toyomura
 - Teddy Chen
+- Samuel Collins
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
 - [Kyle King](https://github.com/King-Kyle)
