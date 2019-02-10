@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Oliver Smith](https://github.com/olivermbs)
@@ -12326,4 +12326,5 @@
 - [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
+- [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
