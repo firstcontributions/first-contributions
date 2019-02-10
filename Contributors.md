@@ -8,6 +8,7 @@
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - AnoldYogi
+- Jason K
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
@@ -17,9 +18,11 @@
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
-- Teddy Chen
+- Teddy Chen 
+- [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
+- [Paul Kapschitzki] (https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
 - [Kye Davey](https://github.com/kyedavey)
 - [Randy Le](https://github.com/RandyKoiSA)
@@ -34,6 +37,7 @@
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
+-[Abhinav Sagar](https://github.com/abhinavsagar)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
 - [Alyssa Capps](https://github.com/alycapps)
@@ -44,6 +48,7 @@
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Saksham Rastogi](https://github.com/codeboy5)
 - [Tucker Wilde](https://github.com/tuckerwilde)
+- [Yash Bhardwaj](https://github.com/Wyverns010)
 - [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
@@ -172,6 +177,7 @@
 - [jpthor](https://github.com/jpthor)
 - Parag Kanodia
 - Affan Aslam
+- Matthew Susans
 - [Sabás Mendívil](https://github.com/sabasm)
 - [Rahul Choubey](https://github.com/flashyrc)
 - Boone Chen
@@ -1106,6 +1112,7 @@
 - kalpa wijesooriya
 - Explorer3991
 - [Denize Ignacio](https://github.com/dignacio0815)
+- [Meetesh Kumawat](https://github.com/meetesh)
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
@@ -1765,6 +1772,7 @@
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
 - first-contributions
+- [Ramiro Rocha](https://github.com/RamiroRocha)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
@@ -12313,3 +12321,7 @@
 - [Alex Bott](https://github.com/alexbott)
 - [Zach Chen](https://github.com/zachenn)
 - [Edima Udo](https://github.com/edimaudo)
+- [Donte Winslow] (https://github.com/dontewinslow)
+- [Yash Gupta] (https://yashgupta.surge.sh)
+- [Tyler Wallis](https://github.com/tylerwallis95)
+- [REDACTED](https://github.com/REDACTED)
