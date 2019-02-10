@@ -39,6 +39,7 @@
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
+- [Mighil Dath] (https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 -[Abhinav Sagar](https://github.com/abhinavsagar)
 - [Shubham Rajput](https://github.com/shubh710)
