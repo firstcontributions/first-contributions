@@ -12320,5 +12320,6 @@
 - [Zach Chen](https://github.com/zachenn)
 - [Edima Udo](https://github.com/edimaudo)
 - [Donte Winslow] (https://github.com/dontewinslow)
+- [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
 - [REDACTED](https://github.com/REDACTED)
