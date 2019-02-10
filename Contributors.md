@@ -8146,6 +8146,7 @@
 - [Kush Misra](https://github.com/kushmisra)
 - [Meisuleen Kased](https://github.com/meikay)
 - [schiluka](https://github.com/schiluka)
+- [Jacek Domanski] (https://github.com/jacu92)
 - [Prathusha Naidu](https://github.com/prathusha94)
 - [Sai](https://github.com/nsaicharan)
 - [Domenic Zingsheim](https://github.com/DerAndereDomenic)
