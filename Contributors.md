@@ -509,6 +509,7 @@
 - [Amy Townsend](https://github.com/amygtownsend)
 - [Naor Shlomo Tedgi](https://github.com/Naor-Tedgi)
 - [Himanshu Rohilla](https://github.com/HimRohilla)
+- [Yves Kipondo](https://github.com/yvesdaxmaz)
 - [Adam Gibson](https://github.com/adamgibs)
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
