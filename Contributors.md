@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Satya Pati] (https://github.com/iamsatyapati)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
