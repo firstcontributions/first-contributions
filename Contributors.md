@@ -12317,3 +12317,4 @@
 - [Zach Chen](https://github.com/zachenn)
 - [Edima Udo](https://github.com/edimaudo)
 - [Donte Winslow] (https://github.com/dontewinslow)
+- [Tyler Wallis](https://github.com/tylerwallis95)
