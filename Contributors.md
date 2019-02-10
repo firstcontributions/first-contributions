@@ -17,7 +17,7 @@
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Muhammad Jamshed
 - Masahiro Toyomura
-- Teddy Chen 
+- Teddy Chen
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
@@ -1108,6 +1108,7 @@
 - Explorer3991
 - [Denize Ignacio](https://github.com/dignacio0815)
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
+Steve Bau
 - [Riccardo Boselli](https://github.com/ilbose)
 - Manish Upadhyaya
 - [Faith Chikwekwe](https://github.com/fchikwekwe)
