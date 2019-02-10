@@ -6,6 +6,7 @@
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
 - [Niels Kjer] (https://github.com/ntkjer)
+- [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
 - AnoldYogi
 - Jason K
