@@ -1766,6 +1766,7 @@
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
 - first-contributions
+- [Ramiro Rocha](https://github.com/RamiroRocha)
 - [Arya Atighehchian](https://github.com/Arya04)
 - [Navoda Lakshani](https://github.com/navolaksha)
 - [Lindsey Tibbitts](https://github.com/tibble49)
