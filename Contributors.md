@@ -42,7 +42,7 @@
 - Luke Bernstein
 - [Mighil Dath] (https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
--[Abhinav Sagar](https://github.com/abhinavsagar)
+- [Abhinav Sagar](https://github.com/abhinavsagar)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
 - [Alyssa Capps](https://github.com/alycapps)
@@ -62,8 +62,9 @@
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
 - [Jasper Yeh](https://github.com/jasperyeh)
 - [Bob Allan](https://github.com/BobAllan123)
+- [Adam Schellenberg] (https://github.com/adamschellenberg)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
--[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
+- [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
@@ -92,7 +93,7 @@
 - Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
 - [Greg Slonina](https://github.com/theMugician)
-= Maurits Cottyn
+- Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
 - [Krupal Jadhav](https://github.com/kjkrupal)
@@ -121,7 +122,7 @@
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
 - [Bibek Gautam](https://github.com/bibek22)
--[Madeline Carr](https://github.com/Madeline-Carr)
+- [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - Eswar
 - [Filip Skukan](https://github.com/skukan159)
@@ -141,7 +142,7 @@
 - [George Bowers](https://github.com/gergeb)
 - [supriya]
 - [pale](https://github.com/Paleless)
--[Marcus Snow](https://github.com/Jay-snow)
+- [Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Jithinlal
@@ -157,7 +158,7 @@
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
-	[Max Esser](https://github.com/max-esser)
+- [Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
 - [Bruno Martins](https://github.com/bruno-b-martins)
@@ -234,7 +235,7 @@
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
--	[Nour Kilany](https://github.com/nourkilany)
+- [Nour Kilany](https://github.com/nourkilany)
 - [Fase](https://github.com/fasesx)
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
@@ -422,7 +423,7 @@
 - [Sukhpreet Judge](https://github.com/SukhpreetJudge)
 - [Falen L](https://github.com/falenl)
 - [Janet Gordon](https://github.com/GamergirlJ)
-  [Kamaljot Saini](https://github.com/unsafeartist)
+- [Kamaljot Saini](https://github.com/unsafeartist)
 - [rodegrafika](https://github.com/Rodegrafika)
 - [daniel9a](https://github.com/daniel9a)
 - [LucaBlightRoyal](https://github.com/hide85x)
@@ -1076,7 +1077,7 @@
 - [Aman Sharma](https://github.com/AmanSharma123456)
 - [Andrew Shillito](https://github.com/andrewShillito)
 - [MelanieL](https://github.com/melaniel)
-  [obulab](https://github.com/obulab)
+- [obulab](https://github.com/obulab)
 - [Abhinav Gupta ](https://github.com/ag-23)x
 - [Pawan Saggu](https://github.com/pawan1210)
 - [highpies](https://github.com/highpies)
