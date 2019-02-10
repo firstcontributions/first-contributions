@@ -46,6 +46,7 @@
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Saksham Rastogi](https://github.com/codeboy5)
 - [Tucker Wilde](https://github.com/tuckerwilde)
+- [Yash Bhardwaj](https://github.com/Wyverns010)
 - [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
