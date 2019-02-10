@@ -9,6 +9,7 @@
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
 - AnoldYogi
+- greattzx
 - Jason K
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ivor Hill](https://github.com/ivorhill)
