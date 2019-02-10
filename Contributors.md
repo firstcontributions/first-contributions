@@ -22,6 +22,7 @@
 - Muhammad Jamshed
 - Masahiro Toyomura
 - Teddy Chen 
+- [Satya Pati] (https://github.com/iamsatyapati)
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
