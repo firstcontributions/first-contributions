@@ -12325,5 +12325,6 @@
 - [Donte Winslow] (https://github.com/dontewinslow)
 - [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
+- [Sam Richardson](https://github.com/samjrrr)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
 - [REDACTED](https://github.com/REDACTED)
