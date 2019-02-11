@@ -65,6 +65,7 @@
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
 - [Jasper Yeh](https://github.com/jasperyeh)
 - [Bob Allan](https://github.com/BobAllan123)
+- [Michael Domaradzki] (https://github.com/mythicrevenant)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 -[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
