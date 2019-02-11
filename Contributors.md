@@ -21,6 +21,7 @@
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
 - [Jeremy Benis](https://github.com/GermCodeGood)
+- [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
 - Masahiro Toyomura
 - Teddy Chen 
