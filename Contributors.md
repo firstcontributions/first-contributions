@@ -80,6 +80,7 @@
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
+- Rob Wyn
 - Tomer Eliya
 - Steve Munson
 - Vishal Vaddadhi
