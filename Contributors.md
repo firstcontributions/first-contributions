@@ -12341,4 +12341,5 @@
 - [Max Fahrmeyer](https://github.com/MaxFahr)
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
+- [Joshua Cook](https://github.com/jdcook3)
 - [Hassan Tasleem](https://github.com/hass321)
