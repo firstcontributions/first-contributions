@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Anurag Gupta](https://github.com/Anuraaag)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
