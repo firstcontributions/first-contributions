@@ -25,7 +25,8 @@
 - Patricia Rogers
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
-- Masahiro Toyomura
+- Masahiro 
+- [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
 - [Satya Pati] (https://github.com/iamsatyapati)
 - [Branden LaCour] (https//github.com/brandenlacour)
