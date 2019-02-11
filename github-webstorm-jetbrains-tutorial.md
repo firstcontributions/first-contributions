@@ -60,8 +60,6 @@ Click on the dropdown arrow and select `commit and push`
 
 This will make changes in your local directory and open the push dialog box. make sure all changes are final and click on `push`.
 
-<img src="assets/vscode-2018-08-changes.png" alt="Add your name" />
-
 ## Submit your changes for review
 
 At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
