@@ -7644,6 +7644,7 @@
 - [David Organ](https://github.com/davidorgan)
 - [Thien Tran](https://github.com/Continuiti)
 - [Christine Betts](https://github.com/chrstnb)
+- [Rohan Mehta](https://github.com/mehta-rohan)
 - [Pai Zhang](https://github.com/paizhang)
 - [Varun Rathore](https://github.com/Rathovarun)
 - [Amar Alaa](https://github.com/amaralaa)
