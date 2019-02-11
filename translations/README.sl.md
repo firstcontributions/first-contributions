@@ -102,19 +102,9 @@ Zamenjaj `<add-your-branch-name>` z imenom veje, ki si jo ustvaril.
 
 Sedaj izvedi submit svojega pull requesta.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
-
-## Zbriši svojo vejo po združenju ( Delete the branch after pull request has been merged )
-
-Potem, ko so bile tvoje spremembe združene, lahko brez skrbi zbrišeš svojo vejo '<add-your-branch-name>'. Videl boš gumb s katerim se zbriše veja:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-Če je bila združitev zavrnjena, te bo GitHub opozoril preden zbrišeš nezdružen commit. Gumb bo izgledal takole:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ##  Kako nadaljevati? ( Where to go from here? )
 
