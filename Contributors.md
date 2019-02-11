@@ -1233,6 +1233,7 @@
 - Rich Herbert
 - [Cassidy Morgan](https://github.com/morgancassidy98)
 - Nguyen Khoa
+- FlyingScottsman
 - [Brett](https://github.com/brettmontague)
 - [Alcyneous](https://github.com/alcyneous)
 - [DMB](https://github.com/dhyeyb04)
