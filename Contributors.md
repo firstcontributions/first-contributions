@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Nitish Sharma](https://github.com/nitnk9)
+- [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Oliver Smith](https://github.com/olivermbs)
