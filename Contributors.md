@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Anurag Gupta](https://github.com/Anuraaag)
+- [Rob Kos](https://github.com/robkos442)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Nitish Sharma](https://github.com/nitnk9)
@@ -28,7 +29,7 @@
 - Patricia Rogers
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
-- Masahiro 
+- Masahiro
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
 - [Satya Pati] (https://github.com/iamsatyapati)
