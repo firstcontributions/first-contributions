@@ -5118,6 +5118,7 @@
 - [Hugo Lopez](https://github.com/hugolomar)
 - [Kartik Gurajr](https://github.com/Kartik666)
 - [Paul Rosset](https://github.com/PaulRosset)
+- [Andy Wang](https://github.com/andyw492)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
