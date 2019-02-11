@@ -1,4 +1,6 @@
-# Contributors
+﻿# Contributors
+- [Nitish Sharma](https://github.com/nitnk9)
+- [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Oliver Smith](https://github.com/olivermbs)
@@ -9,7 +11,9 @@
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
 - AnoldYogi
+- greattzx
 - Jason K
+  [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
@@ -17,9 +21,12 @@
 - [Amit Jha](https://github.com/devbihari)
 - [Changhyuk Lee](https://github.com/devchlee)
 - [Jeremy Benis](https://github.com/GermCodeGood)
+- Patricia Rogers
+- [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
 - Masahiro Toyomura
-- Teddy Chen 
+- Teddy Chen
+- [Satya Pati] (https://github.com/iamsatyapati)
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
@@ -35,8 +42,10 @@
 - [Lav Tech Uy] (https://github.com/techuy)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
+- [Joel DeSante](https://github.com/JoelDesante)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
+- [Mighil Dath] (https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 -[Abhinav Sagar](https://github.com/abhinavsagar)
 - [Shubham Rajput](https://github.com/shubh710)
@@ -75,6 +84,7 @@
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
+- Rob Wyn
 - Tomer Eliya
 - Steve Munson
 - Vishal Vaddadhi
@@ -537,6 +547,7 @@
 - [Farhan Ahmed](https://github.com/azzassfa)
 - [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
+- [Petteri Mattila](https://github.com/Pms3t)
 - [Huatuostudio](https://github.com/huatuostudio/)
 - [Mark Evans](https://github.com/markopotamus)
 - [Arlind Xhakoli](https://github.com/ArlindXh)
@@ -1842,6 +1853,7 @@
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
+- Bonnie Bee
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Willy Setiawan](https://github.com/willek)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
@@ -5114,6 +5126,7 @@
 - [Hugo Lopez](https://github.com/hugolomar)
 - [Kartik Gurajr](https://github.com/Kartik666)
 - [Paul Rosset](https://github.com/PaulRosset)
+- [Andy Wang](https://github.com/andyw492)
 - [Tornike Gomareli](https://github.com/tornikegomareli)
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
@@ -7634,6 +7647,7 @@
 - [David Organ](https://github.com/davidorgan)
 - [Thien Tran](https://github.com/Continuiti)
 - [Christine Betts](https://github.com/chrstnb)
+- [Rohan Mehta](https://github.com/mehta-rohan)
 - [Pai Zhang](https://github.com/paizhang)
 - [Varun Rathore](https://github.com/Rathovarun)
 - [Amar Alaa](https://github.com/amaralaa)
@@ -8145,6 +8159,7 @@
 - [Kush Misra](https://github.com/kushmisra)
 - [Meisuleen Kased](https://github.com/meikay)
 - [schiluka](https://github.com/schiluka)
+- [Jacek Domanski] (https://github.com/jacu92)
 - [Prathusha Naidu](https://github.com/prathusha94)
 - [Sai](https://github.com/nsaicharan)
 - [Domenic Zingsheim](https://github.com/DerAndereDomenic)
@@ -12081,6 +12096,7 @@
 - [Oliver Carlson](https://github.com/olivercarlson)
 - [Mr Cartoonster](https://github.com/mrcartoonster)
 - [Azhar Rohiman](https://github.com/azharrohiman)
+- [Chris Wright](https://github.com/chriswrightft)
 - [Robert Paul](https://github.com/rpaul02)
 - [Jakub Szeja](https://github.com/muzykub)
 - [Gabriel Arazas](http://github.com/foo-dogsquared/)
@@ -12325,5 +12341,10 @@
 - [Donte Winslow] (https://github.com/dontewinslow)
 - [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
+- [Sam Richardson](https://github.com/samjrrr)
+- [Max Fahrmeyer](https://github.com/MaxFahr)
+- [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
 - [Ramesh](https://github.com/rallu)
+- [Joshua Cook](https://github.com/jdcook3)
+- [Hassan Tasleem](https://github.com/hass321)
