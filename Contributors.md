@@ -133,6 +133,7 @@
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - Eswar
 - [Filip Skukan](https://github.com/skukan159)
+- [Jeff Hamilton](https://github.com/jeffreyhamilton)
 - [Serb Andreii](https://github.com/SerbIMolot)
 - [Fatimah Alattas](https://github.com/fatimah5)
 - [Chris Patrick](https://github.com/cp1927)
