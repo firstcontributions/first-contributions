@@ -16,6 +16,7 @@
 - Jason K
   [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
+- [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
