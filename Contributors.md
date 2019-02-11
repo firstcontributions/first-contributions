@@ -186,6 +186,7 @@
 - [Andre Victoria](https://github.com/andrenaught)
 - [Jason Shirley](https://github.com/jasonshirleyr)
 - Cody
+- Jonathan D
 - Beirut
 - [Justin Madden](https://github.com/ellidin1)
 - [Adeel Zafar](https://github.com/iadeelzafar)
