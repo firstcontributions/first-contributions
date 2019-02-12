@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Anupam Godse](https://github.com/anupamgodse)
@@ -12381,3 +12381,4 @@
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
 - [Mohamed Taha Ben Brahim] (https://github.com/MedTaha4Ever)
+- [syxter](https://github.com/syxter)
