@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Anupam Godse](https://github.com/anupamgodse)
@@ -40,6 +40,7 @@
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
 - Masahiro
+- Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
 - [Satya Pati] (https://github.com/iamsatyapati)
