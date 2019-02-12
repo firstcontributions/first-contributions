@@ -33,6 +33,7 @@
 - [Shlok Khandelwal](https://github.com/shlokkh)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Amit Jha](https://github.com/devbihari)
+- [Noah Furman](https://github.com/OrbOrigin)
 - [Changhyuk Lee](https://github.com/devchlee)
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Patricia Rogers
