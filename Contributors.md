@@ -18,6 +18,7 @@
 - AnoldYogi
 - [Stephen Randall](https://github.com/RandallStephen)
 - greattzx
+- [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
   [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
