@@ -13,6 +13,7 @@
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [Oliver Smith](https://github.com/olivermbs)
+[Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
