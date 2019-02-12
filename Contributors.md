@@ -12369,6 +12369,7 @@
 - [Yash Gupta] (https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
 - [Sam Richardson](https://github.com/samjrrr)
+- [Aparna Annapragada](https://github.com/aparnaannapragada)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
