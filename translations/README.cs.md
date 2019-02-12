@@ -19,25 +19,23 @@ Pokud namáte nainstalovaný git, [nainstalujte si jej]( https://help.github.com
 
 ## Forkněte tento repozitář
 
-Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHib účtu.
+Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHub účtu.
 
 ## Naklonujte repozitář
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
-Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
 Teď otevřte terminál a spusťte následující příkaz:
 
 ```
 git clone "url které jste právě zkopírovali"
-
 ```
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="zkopírujte adresu do schránky" />
 
 Například:
-
 ```
 git clone https://github.com/vase-username/first-contributions.git
 ```
@@ -47,27 +45,23 @@ Tímto na svém počítači vytvoříte složku se soubory daného repozitáře.
 ## Vytvořte větev
 
 V příkazové řádce se přepněte do složky s repozitářem (pokud v ní už nejste)
-
 ```
 cd first-contributions
 ```
-
 Nyní vytvořte novou větev (anglicky *branch*) za použití příkazu `git checkout`:
-
 ```
 git checkout -b <jmeno-nove-vetve>
 ```
 
 Například:
 ```
-git checkout -b pridani-meho-jmena
+git checkout -b add-petr-cech
 ```
-
-Jméno větve by mělo vypovídat o tom, co kód nebo cokoliv jiného do ní přidané bude dělat/vykonávat, případně proč se daná věc děje.
+(Jméno větve nemusí nutně zahrnovat slov *add* (česky *přidat*), ale jelikož se jedná o přidání větve s Vaším jménem, je rozumné toto slovo zanechat.)
 
 ## Udělejte změny a zaznamenejte je
 
-Otevřete soubor `Contributors.md` v textovém editoru a přidejte do něj své jméno. Napiště jej někam doprostřed a soubor uložte.
+Otevřete soubor `Contributors.md` v textovém editoru a přidejte do něj své jméno. Napište jej někam doprostřed a soubor uložte.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
@@ -79,12 +73,10 @@ Tyto změny do dané větvě přidáte příkazem `git add`:
 git add Contributors.md
 ```
 
-Zbýva je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
-
+Zbývá je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
 ```
 git commit -m "Add <vase-jmeno> to Contributors list"
 ```
-
 Za přepínač `-m` se píše co dané změny představují, popis by měl být jednoduchý ale výstižný.
 
 ## Protlačte změny na GitHub
@@ -115,7 +107,7 @@ Oslavte svůj první příspěvek se svými přáteli a následovníky přes [we
 
 V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu]https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
+Nyní vám už nic nebrání v přispívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Další materiály](additional-material/git_workflow_scenarios/additional-material.md)
 
@@ -128,7 +120,7 @@ Nyní vám už nic nebrání v příspívání do ostatních projektů. Připrav
 
 ## Sebe propagace
 
-Pokud se vm tento projket líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
+Pokud se vm tento projekt líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
 Stránky původního autora [Roshan](https://roshanjossey.github.io/).
 [Stránky překladatele](https://bambusekd.cz).
 
