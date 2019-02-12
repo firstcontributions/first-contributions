@@ -42,7 +42,7 @@
 | 🇹🇷 | [Türkçe](README.tr.md) |
 | 🇮🇱 | [עברית](README.hb.md) |
 | 🇲🇾 | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
-| 🇨🇿 | [Czech](README.cs.md) |
+| 🇨🇿 | [Čeština](README.cs.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
