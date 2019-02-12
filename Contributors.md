@@ -16,6 +16,7 @@
 - [Oliver Smith](https://github.com/olivermbs)
 [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
+- [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
 - [Niels Kjer] (https://github.com/ntkjer)
