@@ -8168,6 +8168,7 @@
 - [Manos Kasimatis](https://github.com/manosKas)
 - [Da Vinxi](https://github.com/johndoe)
 - [Karen Jamalyan](https://github.com/jamkar)
+- [Liam Li](https://github.com/liamLacuna)
 - [Kush Misra](https://github.com/kushmisra)
 - [Meisuleen Kased](https://github.com/meikay)
 - [schiluka](https://github.com/schiluka)
