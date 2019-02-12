@@ -32,6 +32,7 @@
 - [Changhyuk Lee](https://github.com/devchlee)
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Patricia Rogers
+- [Antonio GC] (https://github.com/atek23/)
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
 - Masahiro
