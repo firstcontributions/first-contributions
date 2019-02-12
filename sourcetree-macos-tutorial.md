@@ -16,7 +16,14 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Sourcetree
 
-This tutorial is for MacOS. Please refer to the [Windows Tutorial]() for Sourcetree if that is what you want to use.
+Please note, this tutorial is for MacOS. It is similar with Sourcetree on Windows but some things may look different.
+<!--
+	****************************************
+	*** This is commented out until      ***
+	*** a Windows tutorial can be created***
+	****************************************
+Please note, this tutorial is for MacOS. Please refer to the [Windows Tutorial]() for Sourcetree if that is what you want to use.
+-->
 
 Download [Sourcetree](https://www.sourcetreeapp.com), Install and open it.
 
