@@ -12348,7 +12348,7 @@
 - [Ahmed Ragab] (https://github.com/ahmedrgb1)
 - [Chen Wang](https://github.com/ChenMetanoia)
 - [Berkay Coban](https://github.com/bcobann)
-- [Anurag Sethi] (https://github.com/anurag00)
+- [Anurag Sethi](https://github.com/anurag00)
 - [Markus Wernersbach](https://github.com/wernersbacher)
 - [Max Marzolf](https://github.com/maxmarzolf)
 - [Rajiv K.](https://github.com/jeevesofrkdia)
