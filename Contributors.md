@@ -604,6 +604,7 @@
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - Priyanka Walunj
 - [Lavanay Thakral](https://github.com/MetalBaba98)
+- [Ebne Faiz Al-Amin](https://github.com/mefalamin)
 - [Redwan](https://github.com/redime2)
 - [Mejia Alan](https://github.com/meifius)
 - [Yixin Jiang](https://github.com/yixinj)
