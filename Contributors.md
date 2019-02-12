@@ -187,6 +187,7 @@
 - Sanyam Agrawal
 - I dont know
 - Allison
+- [Pasan](https://github.com/pasanprem)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
