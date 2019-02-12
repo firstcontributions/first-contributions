@@ -80,6 +80,7 @@
 -[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
+- [Brayden Laakkonen]
 - [M.D. Kim](https://github.com/bakker4444)
 - [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
