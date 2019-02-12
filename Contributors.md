@@ -684,6 +684,7 @@
 - [Eric Brown](https://github.com/Aeluwin)
 - [Hoederer](https://github.com/jalexp)
 - [Erik Harte](https://github.com/hartee)
+- [Austin Kvaale] (https://github.com/akvaale/first-contributions.git)
 - mikmik
 - [Varun Goyal](https://github.com/govarun)
 - [faveja](https://github.com/faveja)
