@@ -12346,6 +12346,7 @@
 - [Mahmoud Adel](https://github.com/mohmyo)
 - [Matt Silva](https://github.com/MattSilva)
 - [Prabal Roy Choudhury](https://github.com/prabalrc)
+- [Chin Hong](https://github.com/chinhong1703)
 - [Artit Pinthong](https://github.com/str4t3gy)
 - [Taylor Danielson](https://github.com/disabledtech/)
 - [Jason Bland](https://github.com/jasonbland)
