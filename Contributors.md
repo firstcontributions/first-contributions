@@ -8331,6 +8331,7 @@
 - [Lefteris Moussiades](https:/github.com/lmous)
 - [Alexandre Beaudet](https://github.com/redowl0v0)
 - [Sachin Wakle](https://github.com/sachinwakle)
+- [Kristo Naeris](https://github.com/knaeris)
 - [arabgb](https://github.com/arabgb)
 - [Manmeet singh](https://github.com/1singhmanmeet)
 - [Anthony Dellechiaie](https://github.com/anthonydelle)
