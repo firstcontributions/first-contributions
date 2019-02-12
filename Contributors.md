@@ -38,6 +38,7 @@
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
+- [Veronica Scott] (https://github.com/veronix)
 - [Paul Kapschitzki] (https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
 - [Kye Davey](https://github.com/kyedavey)
