@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Rob Kos](https://github.com/robkos442)
 - [Olivia Meehan] (https://github.com/livimee)
@@ -95,6 +95,7 @@
 - Tomer Eliya
 - Steve Munson
 - Vishal Vaddadhi
+- [Brett Langford](https://github.com/itsbett)
 - Marc
 - Michael Baramidze
 - [Rohit Kapoor](https://github.com/algo-circle)
