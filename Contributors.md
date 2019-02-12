@@ -1,23 +1,24 @@
 ﻿# Contributors
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
+- [David Mares](https://github.com/ka5p3rr)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Rob Kos](https://github.com/robkos442)
-- [Olivia Meehan] (https://github.com/livimee)
+- [Olivia Meehan](https://github.com/livimee)
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
-- [Farhia Muse] (https://github.com/FarhiaM)
-- [N0Ngen] (https://github.com/N0Ngen)
+- [Farhia Muse](https://github.com/FarhiaM)
+- [N0Ngen](https://github.com/N0Ngen)
 - [Oliver Smith](https://github.com/olivermbs)
-[Edward Savage](https://github.com/edwardASavage)
+- [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
-- [Niels Kjer] (https://github.com/ntkjer)
+- [Niels Kjer](https://github.com/ntkjer)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
 - AnoldYogi
@@ -25,7 +26,7 @@
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
-  [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
+- [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
@@ -61,9 +62,9 @@
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
-- [Mighil Dath] (https://github.com/Mighil31)
+- [Mighil Dath](https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
--[Abhinav Sagar](https://github.com/abhinavsagar)
+- [Abhinav Sagar](https://github.com/abhinavsagar)
 - [Shubham Rajput](https://github.com/shubh710)
 - [Isaac Woodruff](https://github.com/isaacwoodruff)
 - [Alyssa Capps](https://github.com/alycapps)
@@ -84,10 +85,10 @@
 - [Jasper Yeh](https://github.com/jasperyeh)
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
--[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
+- [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
-- [Brayden Laakkonen]
+- Brayden Laakkonen
 - [M.D. Kim](https://github.com/bakker4444)
 - [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
@@ -125,7 +126,7 @@
 - MoonMen
 - [BlueOrange](https://github.com/lostghost-dev)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
-- Edin K (https://github.com/EdinK1)
+- [Edin K](https://github.com/EdinK1)
 - [Jordan Tan](https://github.com/jordantjh)
 - [Leosalt](https://github.com/leosalt)
 - [Sagar](https://github.com/sardul3)
@@ -145,7 +146,7 @@
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
 - [Bibek Gautam](https://github.com/bibek22)
--[Madeline Carr](https://github.com/Madeline-Carr)
+- [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - Eswar
 - [Filip Skukan](https://github.com/skukan159)
@@ -166,7 +167,7 @@
 - [George Bowers](https://github.com/gergeb)
 - [supriya]
 - [pale](https://github.com/Paleless)
--[Marcus Snow](https://github.com/Jay-snow)
+- [Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Jithinlal
@@ -182,7 +183,7 @@
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
-	[Max Esser](https://github.com/max-esser)
+- [Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
 - [Bruno Martins](https://github.com/bruno-b-martins)
@@ -261,7 +262,7 @@
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
--	[Nour Kilany](https://github.com/nourkilany)
+- [Nour Kilany](https://github.com/nourkilany)
 - [Fase](https://github.com/fasesx)
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
