@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Rob Kos](https://github.com/robkos442)
 - [Olivia Meehan] (https://github.com/livimee)
@@ -48,6 +48,7 @@
 - [Lav Tech Uy] (https://github.com/techuy)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
+- Steve Berryman
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
