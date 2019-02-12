@@ -5,6 +5,7 @@
 - [Rob Kos](https://github.com/robkos442)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Madhav Vij](https://github.com/MadhavVij)
+- [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Zak Prescott](https://github.com/zakprescott)
