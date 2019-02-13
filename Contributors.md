@@ -11,6 +11,7 @@
 - [Olivia Meehan] (https://github.com/livimee)
 - [Dakota Brown](https://github.com/dchasebrown)
 - [Madhav Vij](https://github.com/MadhavVij)
+- [Seemonz](https://github.com/seemonz)
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Nitish Sharma](https://github.com/nitnk9)
