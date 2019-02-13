@@ -4,6 +4,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Rob Kos](https://github.com/robkos442)
+- [Bailey Zinger](https://github.com/bzinger2)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Dakota Brown](https://github.com/dchasebrown)
 - [Madhav Vij](https://github.com/MadhavVij)
