@@ -1151,6 +1151,7 @@
 - julio-garcia-fc
 - Skooma Den
 - wefromstars
+- [Cristhian Medina](https://github.com/Cristhian-medina)
 - [Minnow Lin](https://github.com/minnowlin)
 - SenhorN
 - [Vlad Danilov](https://github.com/vladdani)
