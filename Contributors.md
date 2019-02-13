@@ -55,6 +55,7 @@
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
+- Ben Bond
 - [Satya Pati] (https://github.com/iamsatyapati)
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
