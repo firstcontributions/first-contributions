@@ -46,7 +46,7 @@ After you click on `Clone`, the contents of the repository will be downloaded to
 
 ## Create a branch
 
-Now create a branch by clicking on the "Create new branch" icon in the toolbar, or click `Repository` > `New Branch...`.
+Now create a branch by clicking on the "Create new branch" icon in the toolbar ![alt text](assets/fork-new-branch-icon.png "New branch icon"), or click `Repository` > `New Branch...`.
 
 <img style="center;" src="assets/fork-new-branch-icon.png" alt="New branch icon" />
 
