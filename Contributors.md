@@ -1277,6 +1277,7 @@
 - [C Barringhaus](https://github.com/cheriesyb)
 - Joedwin
 - [Cooper Pierce](https://github.com/kopecs)
+- [Jacob Donlin] (https://github.com/jakedavedon)
 - [Jody Swartz](https://github.com/jodyswartz)
 - [Natallia Skviarniuk](https://github.com/ferrikt)
 - Aileen J
