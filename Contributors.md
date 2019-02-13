@@ -32,6 +32,7 @@
 - James Krueger aka Lauwnch
 - AnoldYogi
 - [Stephen Randall](https://github.com/RandallStephen)
+- [Kromaaa] (https://github.com/kromaaa)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
@@ -1896,7 +1897,7 @@
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
 - Bonnie Bee
-- [Dade Wood] (https://github.com/daw1882) 
+- [Dade Wood] (https://github.com/daw1882)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Willy Setiawan](https://github.com/willek)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
