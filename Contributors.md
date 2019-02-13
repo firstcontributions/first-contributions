@@ -3,6 +3,7 @@
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Amith Chivukula](https://github.com/amithc2)
+- [Mazhar Abbass] (https://github.com/mzhrbbs)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Rob Kos](https://github.com/robkos442)
 - [Bailey Zinger](https://github.com/bzinger2)
