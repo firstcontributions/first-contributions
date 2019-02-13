@@ -12,6 +12,7 @@
 - [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
+-[Quit Eno](https://github.com/UrbanIndian/)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [Oliver Smith](https://github.com/olivermbs)
 [Edward Savage](https://github.com/edwardASavage)
