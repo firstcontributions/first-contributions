@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
@@ -17,6 +17,7 @@
 - [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
+- [Colin Shen]
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
