@@ -12404,6 +12404,7 @@
 - [Steven Jiang](https://github.com/xiangj1)
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
+- [Tamar Shacked] (https://github.com/tshacked)
 - [Mohamed Taha Ben Brahim] (https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
