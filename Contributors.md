@@ -241,6 +241,7 @@
 - [bish singh](https://github.com/bishtrial)
 - [hackinganarchy](https://github.com/hacinganarchy)
 - [Nicole Spoto](https://github.com/nicolespoto)
+- [Daksh Jain](https://github.com/dakshj48)
 - [Francisco](https://github.com/franciscozdo)
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
