@@ -12212,6 +12212,7 @@
 - Srishti
 - [Ben](https://github.com/ChecksumFailed)
 - [Erik Hsu](https://github.com/erikhsu)
+- [Pranesh](https://github.com/klostur)
 - Jessica Dai
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
