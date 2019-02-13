@@ -7262,6 +7262,7 @@
 - [Vinicius Costa](https://github.com/viniciuscrw)
 - [Taylor Morris](https://github.com/taylorhmorris)
 - [Paulo Viana](https://github.com/paulo9mv)
+- [William Duarte](https://github.com/duarte2025)
 - [Spiros H](https://github.com/programmmerr)
 - [Erik Andersson](https://github.com/Einarito)
 - [Alja? ?krinjar](https://github.com/aljazskrinjar)
