@@ -46,7 +46,7 @@ After you click on `Clone`, the contents of the repository will be downloaded to
 
 ## Create a branch
 
-Now create a branch by clicking on the "Create new branch" icon in the toolbar ![New branch icon](assets/fork-new-branch-icon.png "New branch icon" | height=20), or click `Repository` > `New Branch...`.
+<img src="assets/fork-new-branch-icon.png" height="16" /> Now create a branch by clicking on the "Create new branch" icon in the toolbar, or click `Repository` > `New Branch...`.
 
 <img style="left;" src="assets/fork-branch1.png" alt="Make a branch" />
 
@@ -82,9 +82,7 @@ In the branches view, you can see that a new commit is added.
 
 ## Push changes to GitHub
 
-![Push icon](assets/fork-push-icon.png | height=20) Click on the "Push" icon in the toolbar or on `Repository` > `Push...` .
-
-<img src="assets/fork-push-icon.png" height="20" /> Click on the "Push" icon in the toolbar or on `Repository` > `Push...` .
+<img src="assets/fork-push-icon.png" height="16" /> Click on the "Push" icon in the toolbar or on `Repository` > `Push...` .
 
 <img style="left;" src="assets/fork-push1.png" alt="log-in to Github" />
 
