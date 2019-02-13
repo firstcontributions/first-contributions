@@ -1892,6 +1892,7 @@
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
 - Bonnie Bee
+- [Dade Wood] (https://github.com/daw1882) 
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Willy Setiawan](https://github.com/willek)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
