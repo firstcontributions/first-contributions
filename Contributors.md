@@ -1334,6 +1334,7 @@
 - [antFaiz5z](https://github.com/antFaiz5z)
 - [Bhavika26](https://github.com/Bhavika26)
 - [Nicolaad](https://github.com/Nicolaad)
+- [wiz-1](https://github.com/wiz-1)
 - [MattDurajka](https://github.com/MattDurajka)
 - [TrishaAguinaldo](https://github.com/kronicle114)'
 - Adrian
