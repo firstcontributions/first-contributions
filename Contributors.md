@@ -2,6 +2,7 @@
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
+- [Amith Chivukula](https://github.com/amithc2)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Rob Kos](https://github.com/robkos442)
 - [Olivia Meehan] (https://github.com/livimee)
