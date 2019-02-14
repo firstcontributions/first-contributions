@@ -35,6 +35,7 @@ Conor Shields (https://github.com/cshields236)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
 - AnoldYogi
+- kuhiga
 - [Stephen Randall](https://github.com/RandallStephen)
 - [Kromaaa] (https://github.com/kromaaa)
 - greattzx
