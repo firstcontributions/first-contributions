@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
+- [Jonathan Segal](https://github.com/Jonathannsegal)
 - [David Perez](https://github.com/davidpv)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
@@ -41,8 +42,8 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
-  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
+-Simon ACosta
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
