@@ -34,6 +34,7 @@
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
+- HIIiiiiiiii
   [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
@@ -205,6 +206,7 @@
 - Sanyam Agrawal
 - I dont know
 - Allison
+- Hello
 - [Pasan](https://github.com/pasanprem)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
