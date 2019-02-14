@@ -19,6 +19,7 @@
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 -  Colin Shen1
+- [Rutger Luther] (https://github.com/ruck64)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
