@@ -38,7 +38,8 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
-  [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
+-Simon ACosta 
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
