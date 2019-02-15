@@ -273,6 +273,7 @@ Conor Shields (https://github.com/cshields236)
 - [lcqstock](https://github.com/lcqstock)
 - Yo Yo honey
 - [John Osborn](https://github.com/josborn88)
+- [John Meade](https://github.com/johnmeade-webdev)
 - [Krishna Swaroop](https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
