@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [trysh] 
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
