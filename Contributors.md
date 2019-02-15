@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [trysh] 
+- [trysh]
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
@@ -43,8 +43,8 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
-  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
+-Simon ACosta
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
@@ -1358,6 +1358,7 @@ Conor Shields (https://github.com/cshields236)
 - Adrian
 - [cawash91](https://github.com/cawash91)
 - BrotherRufus
+- Andy E
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
 - [yunyoung1819](https://github.com/yunyoung1819)
 - [Anton Ajit](https://github.com/ntn888)
