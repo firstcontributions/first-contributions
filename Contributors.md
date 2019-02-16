@@ -12449,3 +12449,5 @@ Conor Shields (https://github.com/cshields236)
 - [Dipanshu Agarwal](https://github.com/Dipanshu9689)
 - [Fergus Mac] (https://github.com/fergusmac)
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
+- [Joseph Chen](https://github.com/josephchen0319)
+
