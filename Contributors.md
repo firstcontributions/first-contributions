@@ -12447,8 +12447,8 @@ Conor Shields (https://github.com/cshields236)
 - [sparamas](https://github.com/sparamas)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
 - [Dipanshu Agarwal](https://github.com/Dipanshu9689)
+- [Joseph Chen](https://github.com/josephchen0319)
 - [Fergus Mac] (https://github.com/fergusmac)
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
-- [Joseph Chen](https://github.com/josephchen0319)
 
 
