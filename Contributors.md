@@ -42,6 +42,7 @@ Conor Shields (https://github.com/cshields236)
 - James Krueger aka Lauwnch
 - AnoldYogi
 - kuhiga
+- [Justin Campbell](https://github.com/techdev5521))
 - [Stephen Randall](https://github.com/RandallStephen)
 - [Kromaaa] (https://github.com/kromaaa)
 - greattzx
