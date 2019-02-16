@@ -4,6 +4,7 @@
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
+- [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Amith Chivukula](https://github.com/amithc2)
