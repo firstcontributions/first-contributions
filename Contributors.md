@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh] 
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
@@ -12450,3 +12450,4 @@ Conor Shields (https://github.com/cshields236)
 - [Fergus Mac] (https://github.com/fergusmac)
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [tsuno](https://gitlab.com/tsuno)
+- [yanfeng1012](https://gitlab.com/yanfeng1012)
