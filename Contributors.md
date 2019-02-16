@@ -21,6 +21,7 @@
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Nitish Sharma](https://github.com/nitnk9)
+- [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
