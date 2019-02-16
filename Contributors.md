@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh] 
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
@@ -12448,3 +12448,4 @@ Conor Shields (https://github.com/cshields236)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
 - [Dipanshu Agarwal](https://github.com/Dipanshu9689)
 - [Fergus Mac] (https://github.com/fergusmac)
+- [yanfeng1012](https://github.com/yanfeng1012)
