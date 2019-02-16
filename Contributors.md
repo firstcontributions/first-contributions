@@ -1,5 +1,6 @@
 # Contributors
-- [trysh] 
+- [trysh]
+- [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
