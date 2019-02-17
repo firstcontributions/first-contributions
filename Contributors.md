@@ -189,6 +189,7 @@ Conor Shields (https://github.com/cshields236)
 - [Chris Patrick](https://github.com/cp1927)
 - Archana
 - Sid Mohan
+- [Will Wilson](https://github.com/wbwilsoniv)
 - [Tushar Singhal](https://github.com/tushar8194)
 - [@Ibrahim](https://github.com/Ibrahimy437)
 - [Rohith Saranga](https://github.com/rohith203)
