@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
@@ -12461,3 +12461,4 @@ Conor Shields (https://github.com/cshields236)
 - [Josue Lopes](https://github.com/Josue10599)
 - [Oguzhan Ozgul](https://github.com/oguzhanozgul)
 - [Saurabh Suman] (https://github.com/saurabh98s)
+- [Keegan Smith](https://github.com/keegan211)
