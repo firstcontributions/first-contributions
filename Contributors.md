@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
@@ -10,6 +10,7 @@
 - [Hassan]
 - [Amith Chivukula](https://github.com/amithc2)
 - [Mazhar Abbass] (https://github.com/mzhrbbs)
+- [Sule Alp] (https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Rob Kos](https://github.com/robkos442)
