@@ -136,6 +136,7 @@ Conor Shields (https://github.com/cshields236)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
 - Rob Wyn
+- [nheiting](https://github.com/nheiting)
 - Tomer Eliya
 - Steve Munson
 - Vishal Vaddadhi
