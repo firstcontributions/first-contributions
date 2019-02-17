@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
@@ -25,6 +25,7 @@
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
+- [Gercian Gabriels](https://github.com/gerciang)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Gaege Root](https://github.com/GaegeRoot)
