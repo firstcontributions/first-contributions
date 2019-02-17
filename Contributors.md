@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Nicholas Tsang](https://github.com/nicktsan)
 - [Mohammad Mohammad](https://github.com/mmo1995)
 - [Hendy Serrano](https://github.com/HJSR)
@@ -4328,4 +4328,4 @@
 - [Hans Gunnoo](https://github.com/Albert-Hanstein)
 - [Matthew Chen](https://github.com/mattc30)
 - [Unnati Pulla](https://github.com/UnnatiPulla)
-
+-[Nikhil Gupta](https://github.com/nick8642)
