@@ -3940,6 +3940,7 @@ Conor Shields (https://github.com/cshields236)
 - [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
 - [SteveFFresno](https://github.com/stevef-fresno)
 - [Aditya Naidu](https://github.com/aditya9509/)
+- [Stas Isackov] (https://github.com/sisackov)
 - [newOne ##](https://github.com/arthurAdinayevProjects)
 - [Shubham Tyagi](https://github.com/shubham-tyagi)
 - [Anurag Roy](https://github.com/anuragroy11)
