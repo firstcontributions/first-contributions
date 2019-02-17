@@ -41,6 +41,7 @@ Conor Shields (https://github.com/cshields236)
 - [Niels Kjer] (https://github.com/ntkjer)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 - James Krueger aka Lauwnch
+- Trevor Roy
 - AnoldYogi
 - kuhiga
 - [Justin Campbell](https://github.com/techdev5521))
