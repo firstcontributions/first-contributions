@@ -8341,6 +8341,7 @@ Conor Shields (https://github.com/cshields236)
 - [Ryan Henderson](https://github.com/rph5132)
 - [Dikshith Siddapura](https://github.com/drangons)
 - [Dylan Bobb](https://github.com/dylanbobb)
+- [Christian Schmutte] https://github.com/ChristianSchmutte/
 - [Arun Suresh](https://github.com/arunvsuresh)
 - [Jorden Schuddeboom](https://github.com/jordenschuddeboom)
 - [Ryan Milem](https://github.com/gint271)
