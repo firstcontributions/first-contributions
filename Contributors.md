@@ -26,6 +26,7 @@
 - [Ryan Foss](https://github.com/rfoss92/)
 - [Sharik Shaikh](https://github.com/sharik709)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
+- Dipesh Garg
 - [Sébastien Caunois] (https://github.com/scaunois)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
