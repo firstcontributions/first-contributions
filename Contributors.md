@@ -54,8 +54,8 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
-  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
+-Simon ACosta
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
@@ -76,6 +76,7 @@ Conor Shields (https://github.com/cshields236)
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
 - Ben Bond
+- Benjamin Nguyen
 - [Satya Pati] (https://github.com/iamsatyapati)
 - [Parisa Tork](https://github.com/ParisaTork)
 - [Branden LaCour] (https//github.com/brandenlacour)
