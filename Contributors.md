@@ -73,6 +73,7 @@ Conor Shields (https://github.com/cshields236)
 - Teddy Chen
 - Ben Bond
 - [Satya Pati] (https://github.com/iamsatyapati)
+- [Parisa Tork](https://github.com/ParisaTork)
 - [Branden LaCour] (https//github.com/brandenlacour)
 - [John-Paul Uys] (https://github.com/johnpauluys)
 - [Denis Rajlic] (https://github.com/denisRajlic)
