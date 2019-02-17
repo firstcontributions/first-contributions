@@ -7,6 +7,7 @@
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
+- [Hassan]
 - [Amith Chivukula](https://github.com/amithc2)
 - [Mazhar Abbass] (https://github.com/mzhrbbs)
 - [Anupam Godse](https://github.com/anupamgodse)
