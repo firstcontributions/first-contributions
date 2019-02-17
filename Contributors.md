@@ -10539,6 +10539,7 @@ Conor Shields (https://github.com/cshields236)
 - [Bhuwan Sitaula](https://github.com/babaYaga109)]
 - [Nitin](https://github.com/nitinnatural)
 - [TaeRim](https://github.com/Ta2Rim)
+- [Sam M] (https://github.com/SpaceDoge04/)
 - [Muhammad Awais Haider](https://github.com/muhammadawaishaider)
 - [gius-italy](https://github.com/gius-italy)
 - [Pradeep Parajuli](https://github.com/PradeepParajuli)
