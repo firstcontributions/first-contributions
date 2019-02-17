@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
@@ -10791,6 +10791,7 @@ Conor Shields (https://github.com/cshields236)
 - [Steven Sonson](https://github.com/PrinnyBaal)
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
+- [Suganya Maheswaran] (https://github.com/Suganya1990)
 - [Alec Trievel](https://github.com/atrievel)
 - [Daisuke Chen](https://github.com/daisuke1230)
 - [Dan Barr](https://github.com/bandarr)
