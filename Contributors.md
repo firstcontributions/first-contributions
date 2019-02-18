@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
@@ -19,6 +19,7 @@
 - [Sule Alp] (https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
+- [Xuan Zhang]
 - [Nick Wilkie]
 - [Ariel Bereslavsky](https://github.com/ScarWar)
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
