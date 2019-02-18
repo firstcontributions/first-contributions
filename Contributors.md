@@ -51,6 +51,7 @@ Conor Shields (https://github.com/cshields236)
 - AnoldYogi
 - kuhiga
 - goop
+- Soknoy
 - [Justin Campbell](https://github.com/techdev5521))
 - [Stephen Randall](https://github.com/RandallStephen)
 - [Kromaaa] (https://github.com/kromaaa)
@@ -129,6 +130,7 @@ Conor Shields (https://github.com/cshields236)
 -[Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
+- [Soknoy Meas](https://github.com/Gaara-Jinchuriki)
 - [Brayden Laakkonen]
 - [M.D. Kim](https://github.com/bakker4444)
 - [Orion Xiao](https://github.com/orionxiao)
