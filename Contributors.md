@@ -31,6 +31,7 @@
 - [Seemonz](https://github.com/seemonz)
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
+- [Katie Amrine](https://github.com/kcamrine)
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
