@@ -40,6 +40,7 @@ Conor Shields (https://github.com/cshields236)
 [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
+- Glenda
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
 - [Mark Arago] (https://github.com/mjarago)
