@@ -1,5 +1,6 @@
 # Contributors
-- [trysh]
+- [trysh] 
+- [sovann](https://github.com/Sum-Sovann2018)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
