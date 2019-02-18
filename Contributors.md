@@ -2,6 +2,7 @@
 - [trysh]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
+- [Cerebral Nomad] (https://github.com/cerebralnomad)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
