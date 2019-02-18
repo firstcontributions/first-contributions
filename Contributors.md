@@ -538,6 +538,7 @@ Conor Shields (https://github.com/cshields236)
 - [Manthan Admane](https://github.com/MisterAwesome23)
 - [Daniel Millier](https://github.com/UnknownFearNG)
 - IndominusRexx
+- [Marcus Eklund](https://github.com/Forser)
 - [Sarah Tuininga](https://github.com/stuininga)
 - [Panagiotis Papapanagiotou](https://github.com/fOURP92)
 - [John Bidinger](https://github.com/johnbidinger)
