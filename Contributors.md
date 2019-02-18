@@ -80,6 +80,7 @@ Conor Shields (https://github.com/cshields236)
 - [Antonio GC] (https://github.com/atek23/)
 - Robert Ybarra
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
+- [Marcel W.]
 - Muhammad Jamshed
 - Masahiro
 - Manuprasad M
