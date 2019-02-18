@@ -69,7 +69,7 @@ Conor Shields (https://github.com/cshields236)
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
 -Simon ACosta 
-  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
@@ -80,6 +80,7 @@ Conor Shields (https://github.com/cshields236)
 - [Noah Furman](https://github.com/OrbOrigin)
 - [Jack Westmore](https://github.com/mrmikardo)
 - [Changhyuk Lee](https://github.com/devchlee)
+- [Keith Ward](https://github.com/skyware)
 - [Tevy](https://github.com/Tevychhy)
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Patricia Rogers
