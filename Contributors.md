@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
@@ -12488,3 +12488,4 @@ Conor Shields (https://github.com/cshields236)
 - [Keegan Smith](https://github.com/keegan211)
 - [Sharath Rao] (https://github.com/srylix10)
 - [Bulent Turkmen] (https://github.com/faranjit)
+- [Chor Visalrotanak] (https://github.com/visalrotanak)
