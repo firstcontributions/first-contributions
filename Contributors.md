@@ -9,6 +9,7 @@
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Hassan]
+- [Sothanak](https://github.com/Sothanak)
 - [sengsovanndy](https://github.com/sengsovanndy)
 - [Amith Chivukula](https://github.com/amithc2)
 - [Mazhar Abbass] (https://github.com/mzhrbbs)
