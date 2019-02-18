@@ -70,6 +70,7 @@ Conor Shields (https://github.com/cshields236)
 - [Noah Furman](https://github.com/OrbOrigin)
 - [Jack Westmore](https://github.com/mrmikardo)
 - [Changhyuk Lee](https://github.com/devchlee)
+- [Tevy](https://github.com/Tevychhy)
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - Patricia Rogers
 - [Antonio GC] (https://github.com/atek23/)
