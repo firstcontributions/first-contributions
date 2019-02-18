@@ -12392,6 +12392,7 @@
 - [Ramesh](https://github.com/rallu)
 - [Joshua Cook](https://github.com/jdcook3)
 - [Hassan Tasleem](https://github.com/hass321)
+- [Sheng Tse Tsai](https://github.com/tsaist)
 - [Steven Jiang](https://github.com/xiangj1)
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
@@ -12399,3 +12400,4 @@
 - [syxter](https://github.com/syxter)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
 - [Alvin Jorrel Pascual] (https://github.com/alvinjorrel)
+
