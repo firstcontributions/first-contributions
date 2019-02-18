@@ -276,6 +276,7 @@ Conor Shields (https://github.com/cshields236)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
 - [Keerthan Ekbote](https://github.com/saiskee)
 - [Harel Katz](https://github.com/HarelKatz)
+- [Wafa Soofi](https://github.com/wsoofi)
 - [Anilla](https://github.com/Anillab)
 - [Marethyu Prefect](https://github.com/MarethyuPrefect)
 - Diogo Kawamoto
