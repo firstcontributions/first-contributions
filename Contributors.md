@@ -79,6 +79,7 @@ Conor Shields (https://github.com/cshields236)
 - Patricia Rogers
 - [Antonio GC] (https://github.com/atek23/)
 - Robert Ybarra
+- Haritha Senevirathne
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - [Marcel W.]
 - Muhammad Jamshed
