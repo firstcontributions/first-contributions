@@ -20,6 +20,7 @@
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Nick Wilkie]
+- [Ariel Bereslavsky](https://github.com/ScarWar)
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
 - [Rob Kos](https://github.com/robkos442)
 - [Supriya](https://github.com/SupriyaSupu)
