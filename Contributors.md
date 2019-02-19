@@ -1,5 +1,6 @@
 # Contributors
 - [trysh]
+- [Ryan Marion]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
