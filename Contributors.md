@@ -49,6 +49,7 @@ Conor Shields (https://github.com/cshields236)
 - [Oliver Smith](https://github.com/olivermbs)
 [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
+- [Karen Gal](https://github.com/karengal)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
 - [panhabot](https://github.com/panhabot)
