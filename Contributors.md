@@ -57,7 +57,7 @@ Conor Shields (https://github.com/cshields236)
 - [yhq](https://github.com/yuhongqian)
 - [Mark Arago] (https://github.com/mjarago)
 - [Niels Kjer] (https://github.com/ntkjer)
-- [Liz Hines](https://github.com/ehines623) 
+- [Liz Hines](https://github.com/ehines623)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 -[phon sokpheaktra](https://github.com/phonsokpheaktra)
 - James Krueger aka Lauwnch
@@ -71,7 +71,7 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
+-Simon ACosta
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
@@ -12522,3 +12522,4 @@ Conor Shields (https://github.com/cshields236)
 - [Alyssa] (https://github.com/aghmkim)
 - [Boopathi Sakthivel] (https://github.com/boopathisakthivel)
 - [Tarun Dugar](https://github.com/dugar-tarun)
+- [Etty] (https://github.com/estyxx)
