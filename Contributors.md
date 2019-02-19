@@ -10,6 +10,7 @@
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Hassan]
+-[sam aggarwal](https://github.com/samtaaggarwal)
 - [maulik gautam](https://github.com/maulikgautam)
 - [Iv-Layhort] (https://github.com/Iv-Layhort)
 - [sreysa](https://github.com/sreysa)
