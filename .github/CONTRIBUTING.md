@@ -421,5 +421,20 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
  </table>
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <title>YouTube</title>
+     <script type="text/javascript">
+         function clicked()
+         {
+            alert("You are Genuis????");
+         }
+     </script>
+ </head>
+ <body>
+    <button onclick="clicked()">Click Here</button>
+ </body>
+ </html>
     
 
