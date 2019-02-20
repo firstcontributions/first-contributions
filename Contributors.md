@@ -1,6 +1,7 @@
 # Contributors
 - [trysh]
 - [Ryan Marion]
+- [Gary Butler](https://github.com/garybutler288)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
