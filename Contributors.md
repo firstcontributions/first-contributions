@@ -154,6 +154,7 @@ Conor Shields (https://github.com/cshields236)
 - [Sam Kiterro](https://github.com/kiterro)
 - [Brayden Laakkonen]
 - [M.D. Kim](https://github.com/bakker4444)
+- [Bijay Upreti](https://github.com/bjupreti)
 - [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
 - [Alaa Bouayed](https://github.com/aml-b)
