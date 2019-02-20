@@ -92,6 +92,7 @@ Conor Shields (https://github.com/cshields236)
 - [Keith Ward](https://github.com/skyware)
 - [Tevy](https://github.com/Tevychhy)
 - [Jeremy Benis](https://github.com/GermCodeGood)
+- [Matt Belcher](https://github.com/MattBelcher)
 - Patricia Rogers
 - [Antonio GC] (https://github.com/atek23/)
 - Robert Ybarra
