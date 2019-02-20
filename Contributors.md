@@ -13,6 +13,7 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
 - [Tyrion Lannister]
+- [Diana Mukhanova] https://github.com/diananova
 - [maulik gautam](https://github.com/maulikgautam)
 - [Iv-Layhort] (https://github.com/Iv-Layhort)
 - [Sovichea-Nhim](https://github.com/Kakashiutano)
