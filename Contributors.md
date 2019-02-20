@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Jesucrist0](https://github.com/Jesucrist0)
@@ -12543,3 +12543,4 @@ Conor Shields (https://github.com/cshields236)
 - [ShashankMath] (https://github.com/shashankMath/first-contributions)
 - [Nicolas Bermudez](https://github.com/nicobermudez)
 - [Laura Thomas] (https://github.com/thomastwosome)
+- [Davis Amankwa](https://github.com/kwakudavis)
