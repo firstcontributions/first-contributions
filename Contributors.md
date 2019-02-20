@@ -35,6 +35,7 @@
 - [Dakota Brown](https://github.com/dchasebrown)
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
+- [jyo]
 - [Seemonz](https://github.com/seemonz)
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
