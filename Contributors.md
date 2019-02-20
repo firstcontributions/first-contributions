@@ -482,6 +482,7 @@ Conor Shields (https://github.com/cshields236)
 - [Anthony Guillier](https://github.com/theMonarK)
 - [Jamie Walker](https://github.com/KR1Z00)
 - [Yıldırım TAM](https://github.com/ytam)
+- [Fatima Muhairi]
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [Adam Li](https://github.com/lichiheng1998)
 - Divay Sharma
