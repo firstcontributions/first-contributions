@@ -12,6 +12,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
+- [Tyrion Lannister]
 - [maulik gautam](https://github.com/maulikgautam)
 - [Iv-Layhort] (https://github.com/Iv-Layhort)
 - [Sovichea-Nhim](https://github.com/Kakashiutano)
