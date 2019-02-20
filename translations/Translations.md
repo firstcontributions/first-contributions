@@ -10,6 +10,7 @@
 | 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
+| KH | [Sokuntevy Chhy](README.kh.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
 | 🇫🇷 | [Français](README.fr.md) |
 | 🇪🇸 | [Español](README.es.md) |
