@@ -76,6 +76,7 @@ Conor Shields (https://github.com/cshields236)
 - AnoldYogi
 - kuhiga
 - goop
+- goop
 - Marian
 - [Justin Campbell](https://github.com/techdev5521))
 - [Stephen Randall](https://github.com/RandallStephen)
@@ -12562,3 +12563,4 @@ Conor Shields (https://github.com/cshields236)
 - [@rezzco] (https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
+- Vin
