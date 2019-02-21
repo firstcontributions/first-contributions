@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
@@ -6971,6 +6971,7 @@ Conor Shields (https://github.com/cshields236)
 - [Robert Trigg](https://github.com/rtrigg)
 - [Brian](https://github.com/lastnoise)
 - [Miles](https://github.com/miles200)
+- [Richard P](https://github.com/ripare)
 - [Olga Rose](https://github.com/olgarose)
 - [Tom Fattah](https://github.com/t-fa)
 - [Erlinis Quintana](https://github.com/erlinis)
