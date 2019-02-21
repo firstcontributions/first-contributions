@@ -12570,3 +12570,4 @@ Conor Shields (https://github.com/cshields236)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
 - waleed m.
+- [Jonathan Barker] (https://github.com/jonathanbarker)
