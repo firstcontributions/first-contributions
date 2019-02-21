@@ -15,6 +15,7 @@
 - [Hassan]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Tyrion Lannister]
+- [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
 - [Suman Ghosh](https://github.com/sghosh37)
 - [Diana Mukhanova] https://github.com/diananova
