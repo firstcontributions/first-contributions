@@ -66,6 +66,7 @@ Conor Shields (https://github.com/cshields236)
 - Glenda
 - [panhabot](https://github.com/panhabot)
 - [Alex Ruiztagle](https://github.com/Activelius)
+- [Daniel Castro](https://github.com/danielc1771)
 - [yhq](https://github.com/yuhongqian)
 - [Mark Arago] (https://github.com/mjarago)
 - [Niels Kjer] (https://github.com/ntkjer)
