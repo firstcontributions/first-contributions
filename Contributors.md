@@ -89,6 +89,7 @@ Conor Shields (https://github.com/cshields236)
 -Simon ACosta 
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
+- [Ross Hunter](https://github.com/Rossh87)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
