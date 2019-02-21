@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
@@ -16,6 +16,7 @@
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Tyrion Lannister]
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
+- [Ketna Khalasi](https://github.com/kentak)
 - [Rahul Maram](https://github.com/RahulMaram)
 - [Suman Ghosh](https://github.com/sghosh37)
 - [Diana Mukhanova] https://github.com/diananova
