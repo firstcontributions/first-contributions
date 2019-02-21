@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
@@ -14,6 +14,7 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
 - [Sotherny Kosal](https://github.com/Sotherny)
+- [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
