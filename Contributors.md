@@ -12563,3 +12563,4 @@ Conor Shields (https://github.com/cshields236)
 - [@rezzco] (https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
+- waleed m.
