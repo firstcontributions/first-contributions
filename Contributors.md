@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
@@ -14,6 +14,7 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
 - [Sotherny Kosal](https://github.com/Sotherny)
+- [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
@@ -66,6 +67,7 @@ Conor Shields (https://github.com/cshields236)
 - Glenda
 - [panhabot](https://github.com/panhabot)
 - [Alex Ruiztagle](https://github.com/Activelius)
+- [Daniel Castro](https://github.com/danielc1771)
 - [yhq](https://github.com/yuhongqian)
 - [Mark Arago] (https://github.com/mjarago)
 - [Niels Kjer] (https://github.com/ntkjer)
@@ -9247,6 +9249,7 @@ Conor Shields (https://github.com/cshields236)
 - [Piyush Karki](https://github.com/pkarki113)
 - [Lars Sjogreen](https://github.com/LarsSjogreen)
 - [didada](nospace)
+- [Mykola Mysko](https://github.com/mykola-mysko)
 - [Cyrus Frost](https://github.com/cyfrost)
 - [Jason Israel](https://github.com/jaisrael1)
 - [Krishanu Singh](https://github.com/Krishanu230)
@@ -12564,3 +12567,4 @@ Conor Shields (https://github.com/cshields236)
 - [@rezzco] (https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
+- waleed m.
