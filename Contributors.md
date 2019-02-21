@@ -12573,6 +12573,7 @@ Conor Shields (https://github.com/cshields236)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
 - waleed m.
+- [Kinoahi](https://github.com/Kinoahi)
 - [Jonathan Barker] (https://github.com/jonathanbarker)
 - [Steven Moe](https://github.com/stevenny)
 - [Ben Mattson](https://github.com/benmattson7)
