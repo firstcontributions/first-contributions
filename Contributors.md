@@ -14,9 +14,9 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
 - [Sotherny Kosal](https://github.com/Sotherny)
+- [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
-- [Ketna Khalasi](https://github.com/kentak)
 - [Rahul Maram](https://github.com/RahulMaram)
 - [Suman Ghosh](https://github.com/sghosh37)
 - [Diana Mukhanova] https://github.com/diananova
