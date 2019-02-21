@@ -13,6 +13,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Hassan]
+- [Sotherny Kosal](https://github.com/Sotherny)
 - [Tyrion Lannister]
 - [Diana Mukhanova] https://github.com/diananova
 - [maulik gautam](https://github.com/maulikgautam)
