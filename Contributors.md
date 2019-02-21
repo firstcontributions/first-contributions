@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
@@ -41,6 +41,7 @@
 - [Anupama G](https://github.com/Anu-Mer)
 - [jyo]
 - [Seemonz](https://github.com/seemonz)
+- [yoghurt]
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Katie Amrine](https://github.com/kcamrine)
