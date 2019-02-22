@@ -9,6 +9,8 @@
 - [Sol Renato] (https://github.com/SRNT)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
+- [Mario Mui] (https://github.com/mariomui)
+- [Collin Street] (https://github.com/collin-st)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
