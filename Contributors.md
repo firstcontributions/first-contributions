@@ -2,6 +2,7 @@
 - [trysh]
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
+- [Robert](https://github.com/rob3rtm0r)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
