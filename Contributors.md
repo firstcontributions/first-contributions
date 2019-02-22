@@ -12572,3 +12572,4 @@ Conor Shields (https://github.com/cshields236)
 - waleed m.
 - [Jonathan Barker] (https://github.com/jonathanbarker)
 - [Steven Moe](https://github.com/stevenny)
+- [David Anthony](https://github.com/dcanthony68)
