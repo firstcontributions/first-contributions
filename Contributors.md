@@ -19,6 +19,7 @@
 - [Hassan]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
+- [Adam Dudley](https://github.com/adudley78)
 - [Tyrion Lannister]
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
@@ -76,7 +77,7 @@ Conor Shields (https://github.com/cshields236)
 - [Mark Arago] (https://github.com/mjarago)
 - [Niels Kjer] (https://github.com/ntkjer)
 - [Mark Peschel] (https://github.com/MauveRanger)
-- [Liz Hines](https://github.com/ehines623) 
+- [Liz Hines](https://github.com/ehines623)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
 -[phon sokpheaktra](https://github.com/phonsokpheaktra)
 - James Krueger aka Lauwnch
@@ -92,7 +93,7 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
+-Simon ACosta
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ross Hunter](https://github.com/Rossh87)
@@ -12578,7 +12579,7 @@ Conor Shields (https://github.com/cshields236)
 - [Nicolas Bermudez](https://github.com/nicobermudez)
 - [Laura Thomas] (https://github.com/thomastwosome)
 - [Isaac Burton](https://github.com/burtonyaboy)
-- [Jimmy Jeong] (https://github.com/jeongjimmy32) 
+- [Jimmy Jeong] (https://github.com/jeongjimmy32)
 - [@rezzco] (https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
