@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [unprosaic] (https://github.com/unprosaic)
 - [trysh]
 - [Ryan Marion]
@@ -12595,3 +12595,4 @@ Conor Shields (https://github.com/cshields236)
 - [Tharp Arthur](https://github.com/arthurtharp)
 - [Ayus Das](https://github.com/ayusdas2000)
 - nowakowsky
+- [William Huynh](https://github.com/w2huy)
