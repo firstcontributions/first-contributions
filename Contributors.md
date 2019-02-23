@@ -57,6 +57,7 @@
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
+- [Yotam Ben Dosa](https://github.com/ytmhub)
 - [Gercian Gabriels](https://github.com/gerciang)
 - [Ege Erdogan](https://github.com/ege-erdogan)
 - [Farhia Muse] (https://github.com/FarhiaM)
