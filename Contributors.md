@@ -5399,6 +5399,7 @@ Conor Shields (https://github.com/cshields236)
 - [Gerald Hernandez](https://github.com/monoliths)
 - [Zucce05](https://github.com/Zucce05)
 - [Vaibhav Jain](https://github.com/VJ-Jain)
+- [Rajat Gulati](https://github.com/imrajat24)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [Karanbir Singh](https://github.com/karanbirsingh99)
 - Tanishq Gupta
