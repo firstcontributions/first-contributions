@@ -122,6 +122,7 @@ Conor Shields (https://github.com/cshields236)
 - [Marcel W.]
 - Muhammad Jamshed
 - Masahiro
+- Jerry Zhang
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
