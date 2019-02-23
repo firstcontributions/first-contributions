@@ -1,4 +1,5 @@
 # Contributors
+- [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [trysh]
 - [Ryan Marion]
