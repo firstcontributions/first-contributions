@@ -11,6 +11,7 @@
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
+- [Alec Mills] (https://github.com/OxSon)
 - [David Perez](https://github.com/davidpv)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Anurag Gupta](https://github.com/Anuraaag)
