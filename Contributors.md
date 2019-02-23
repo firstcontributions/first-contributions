@@ -12607,3 +12607,4 @@ Conor Shields (https://github.com/cshields236)
 - nowakowsky
 - [William Huynh](https://github.com/w2huy)
 - [Aviral Bajpai](https://github.com/aviral19)
+- [Shawn Smith](https://github.com/shawnsmith88)
