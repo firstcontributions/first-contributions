@@ -63,6 +63,7 @@ Conor Shields (https://github.com/cshields236)
 - [Michael Domaradzki] (https://github.com/MythicRevenant)
 - Muhammad Jamshed
 - Masahiro
+- Jerry Zhang
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
