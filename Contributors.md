@@ -70,6 +70,7 @@ Conor Shields (https://github.com/cshields236)
 - [Karen Gal](https://github.com/karengal)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
+- Sowndar Raj
 - [panhabot](https://github.com/panhabot)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [Daniel Castro](https://github.com/danielc1771)
