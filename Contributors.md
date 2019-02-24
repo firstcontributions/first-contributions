@@ -298,6 +298,7 @@ Conor Shields (https://github.com/cshields236)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
+- [Isaac Newton]
 - BLavin
 - [Andre Victoria](https://github.com/andrenaught)
 - [Jason Shirley](https://github.com/jasonshirleyr)
