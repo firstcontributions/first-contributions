@@ -6,6 +6,7 @@
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
+- [Maciej Korolik](https://github.com/maciejkorolik)
 - [Robert](https://github.com/rob3rtm0r)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Gabo Lopez](https://github.com/Gabolan)
