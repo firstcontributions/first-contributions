@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -12611,3 +12611,4 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
+- [Christian Stock](https://github.com/chrstock)
