@@ -43,6 +43,7 @@
 - [Xuan Zhang]
 - [Nick Wilkie]
 - [Ariel Bereslavsky](https://github.com/ScarWar)
+- [Vijay Gaonkar](https://github.com/vgaonkar)
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
 - [Rob Kos](https://github.com/robkos442)
 - [Supriya](https://github.com/SupriyaSupu)
