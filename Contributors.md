@@ -49,6 +49,7 @@
 - [Supriya](https://github.com/SupriyaSupu)
 - [Bailey Zinger](https://github.com/bzinger2)
 - [Olivia Meehan] (https://github.com/livimee)
+- [Balaclava] (https://github.com/Bajoelbalaclava)
 - [Dakota Brown](https://github.com/dchasebrown)
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
