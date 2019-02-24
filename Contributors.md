@@ -12592,6 +12592,7 @@ Conor Shields (https://github.com/cshields236)
 - [Boopathi Sakthivel] (https://github.com/boopathisakthivel)
 - [Tarun Dugar](https://github.com/dugar-tarun)
 - [Josh Vita](https://github.com/jvita)
+- [Garrett Lee]
 - [ShashankMath] (https://github.com/shashankMath/first-contributions)
 - [Nicolas Bermudez](https://github.com/nicobermudez)
 - [Laura Thomas] (https://github.com/thomastwosome)
