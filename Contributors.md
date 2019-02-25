@@ -664,6 +664,7 @@ Conor Shields (https://github.com/cshields236)
 - [Ali Mansour](https://github.com/alzz0)
 - Ziad Abou Wasa
 - [William Lee ](https://github.com/willlee17)
+- [Mauricio Gravena de Oliveira](https://github.com/maugravena)
 - [Amy Townsend](https://github.com/amygtownsend)
 - [Naor Shlomo Tedgi](https://github.com/Naor-Tedgi)
 - [Himanshu Rohilla](https://github.com/HimRohilla)
