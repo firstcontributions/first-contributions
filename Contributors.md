@@ -3,6 +3,7 @@
 - [Ryan Marion]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
+- Ashwini Jha
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
