@@ -2,6 +2,7 @@
   [Robert Bohn] (https://github.com/RobertBohn)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
+- [Kuanysh Seilkhanov] 
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
