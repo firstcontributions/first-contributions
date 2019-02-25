@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -12627,3 +12627,4 @@ Conor Shields (https://github.com/cshields236)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
 - [Ayush Khandelwal](https://github.com/thegaribguy)
+- [Rocky Liao](https://github.com/SeemsRocky)
