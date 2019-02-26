@@ -6,6 +6,7 @@
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
+- [Tony Lopez]
 - [Gary Butler](https://github.com/garybutler288)
 - [Maciej Korolik](https://github.com/maciejkorolik)
 - [Wenbo Du](https://github.com/EveryRoseHasItsThorn)
