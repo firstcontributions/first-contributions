@@ -373,6 +373,7 @@ Conor Shields (https://github.com/cshields236)
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Alejandro Montesinos](https://github.com/AlexMontesinos)
 - [Eugene Kriuchkov](https://github.com/kriugen)
+- [AJ Stensland](https://github.com/ajstensland)
 - [Dzmitry Urbanovich](https://github.com/DzmitryUr)
 - [Trey Liebscher](https://github.com/TreyLiebscher)
 - Pruthvish E
