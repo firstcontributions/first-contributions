@@ -62,6 +62,7 @@
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
 - [jyo]
+- [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
 - [Calum Ludwig](https://github.com/CalumLudwig)
 - [yoghurt]
