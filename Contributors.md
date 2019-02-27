@@ -26,6 +26,7 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Kevin O]
 - [Hassan]
+- [Nana Yaw Ankomah]
 - [Vincent]
 - [Saksham Saigal]	
 - [Sotherny Kosal](https://github.com/Sotherny)
