@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -235,6 +235,7 @@ Conor Shields (https://github.com/cshields236)
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
 - [Krupal Jadhav](https://github.com/kjkrupal)
+- [Dennis John](https://github.com/djohn002)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
 - MoonMen
