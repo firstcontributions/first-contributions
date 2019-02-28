@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -5050,6 +5050,7 @@ Conor Shields (https://github.com/cshields236)
 - [Rohan Gurjar](https://github.com/RohanGurjar)
 - [Carlos Dias](https://github.com/carloscdias)
 - [Lucas Martino](https://github.com/lucas95inc)
+- [Aris Vang] (https://github.com/HenryVanq)
 - [Alsendor Nucum (Draymond)](https://github.com/alsendor)
 - [Alin Musat](https://github.com/alinbr)
 - [Rajkumarsb](https://github.com/Rajkumarsb)
