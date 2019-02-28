@@ -3,7 +3,7 @@
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
-- [Robert]
+- Robert
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
@@ -657,6 +657,7 @@ Conor Shields (https://github.com/cshields236)
 - [Marco Martinez](https://github.com/MartyMav)
 - [Roshan Adhikari](https://github.com/nahsorad)
 - Apoorva Raju
+- [Dino Nguyen](https://github.com/dinowins)
 - [Yorhaz40](https://github.com/yorhaz40)
 - [prateeksawhney97](https://github.com/prateeksawhney97)
 - [Jeremy Lin](https://github.com/jinweilin8/)
