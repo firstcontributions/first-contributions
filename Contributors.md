@@ -12642,6 +12642,7 @@ Conor Shields (https://github.com/cshields236)
 - [Tharp Arthur](https://github.com/arthurtharp)
 - [Ayus Das](https://github.com/ayusdas2000)
 - nowakowsky
+- [Primarch Strelok](https://github.com/primarchstrelok)
 - [Jeffrey Warner](https://github.com/jeffnwarner)
 - [William Huynh](https://github.com/w2huy)
 - [Aviral Bajpai](https://github.com/aviral19)
