@@ -115,6 +115,7 @@ Conor Shields (https://github.com/cshields236)
 - [Kromaaa] (https://github.com/kromaaa)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
+- [blacknstones(https://github.com/blacknstones)
 - Jason K
 -Simon ACosta
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
