@@ -3,6 +3,7 @@
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Robert]
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
