@@ -28,6 +28,7 @@
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Kevin O]
 - [Hassan]
+- [Roger M]
 - [Nana Yaw Ankomah]
 - [Vincent]
 - [Saksham Saigal]	
