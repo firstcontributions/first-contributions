@@ -110,6 +110,7 @@ Conor Shields (https://github.com/cshields236)
 - AnoldYogi
 - kuhiga
 - goop
+- [metalinux91](https://github.com/metalinux91)
 - Marian
 - [Dorcas] (https://github.com/dorcastan)
 - [Bruno Baruffaldi](https://github.com/barufa))
