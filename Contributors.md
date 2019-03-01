@@ -1,6 +1,4 @@
 # Contributors
-[**Abhijeet Srivastava**](https://github.com/abhijeet181995)
-[**Devsur**](https://github.com/devsur)
 [0dayherman](https://github.com/0dayherman)
 [0f0s0s](https://github.com/ofatherosatanoson)
 [0xEcho](https://github.com/0xecho)
@@ -119,6 +117,7 @@
 [Abhijeet Goel](https://github.com/aninjamonk)
 [Abhijeet Mohapatra](https://github.com/abhiwin2010)
 [Abhijeet Singh](https://github.com/abhi40308)
+[Abhijeet Srivastava](https://github.com/abhijeet181995)
 [Abhijith Sheheer](https://github.com/abspython)
 [Abhilash A K](https://github.com/abhilashak)
 [Abhilekh Panwar](https://github.com/abhilekhpanwar)
@@ -2826,6 +2825,7 @@
 [Devon Walker](https://github.com/devwalker)
 [Devonte Cunningham](https://github.com/devontedc)
 [Devpur Developer](https://github.com/devpur)
+[Devsur](https://github.com/devsur)
 [Devvara Rishivian](https://github.com/devararishivian)
 [Dewni Mithma](https://github.com/dewni1995)
 [Dexter Rualo](https://github.com/dexrualo)
