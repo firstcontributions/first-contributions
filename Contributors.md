@@ -601,6 +601,7 @@ Conor Shields (https://github.com/cshields236)
 - [rana5ohaib](https://github.com/rana5ohaib)
 - [anujsinghwd](https://github.com/anujsinghwd)
 - [DCH-CH](https://github.com/DCH-CH)
+- [Henry Hsu](https://github.com/henryh28)
 - [Kevin Mendoza](https://github.com/nitromlllR)
 - [Argus Li](https://github.com/ArgusLi)
 - Changer
