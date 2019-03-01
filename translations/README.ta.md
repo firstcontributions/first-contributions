@@ -23,7 +23,7 @@
 Fork this repo by skewerin' on th' fork button on th' top o' this page.
 This will create a copy o' this repository in yer account.
 
-## Git களஞ்சியத்தை பிரதியீடு(Clone) செய்தல்
+## Git களஞ்சியத்தை முழுமைப்-பிரதியீடு (Clone) செய்தல்
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
@@ -54,10 +54,10 @@ Change t' th' repository directory on yer 'puter (if ye be nah already thar):
 ```
 cd first-contributions
 ```
-இந்த `git checkout` கட்டளையை உபயோகித்து இப்பொழுது புதிய Git  கிளை (Branch ) உருவாக்கவும் 
+இந்த `git checkout` கட்டளையை உபயோகித்து இப்பொழுது புதிய Git  கிளை உருவாக்கவும் 
 
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <உங்கள்-புதிய-கிளை-பெயர்>
 ```
 
 உதாரணத்திற்கு:
@@ -68,7 +68,7 @@ git checkout -b add-luke-oliff
 
 (Th' name o' th' branch does nah needs t' 'ave th' word *add* in it, but 'tis a reasonable thin' t' include 'cause th' purpose o' this branch be t' add yer name t' a list.)
 
-## Make necessary changes 'n commit those changes
+## தேவையான மாற்றங்களை செய்தபின் மூல-களஞ்சியத்திற்கு பதிவேற்றம் செய்யவும் .
 
 Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
 
@@ -90,7 +90,7 @@ git commit -m "Add <yer-name> to Contributors list"
 
 replacing `<yer-name>` with your name.
 
-## Push changes t' GitHub
+## மாற்றங்களை Github ற்கு பதிவேற்றம் செய்தல்  
 
 Push yer changes usin' th' command `git push`:
 
@@ -100,13 +100,13 @@ git push origin <add-yer-branch-name>
 
 replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier.
 
-## Submit yer changes fer review
+## உங்கள் மாற்றங்களை விமர்சனத்தித்திற்கு அனுப்பவும்
 
-If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
+Github இல் உங்களுக்கான மூல-களஞ்சியத்தை வைத்திருந்தால் `Compare & pull request` என்னும் பொத்தான் உங்களுக்கு புலப்படும். அந்த பொத்தானை சொடுக்கவும்.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-இப்பொழுது இணைப்பிற்கான கோரிக்கையை (pull -request) சமர்ப்பிக்கவும்.
+இப்பொழுது இணைப்பிற்கான-கோரிக்கை (pull-request) சமர்ப்பிக்கவும்.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
@@ -114,9 +114,10 @@ Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye 
 
 ## அடுத்த கட்டத்திற்கு செல்வது எப்படி?
 
-Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
+வாழ்த்துக்கள்! , திறந்த-மூல பங்களிப்பாளர்கள் அடிக்கடி பயன்படுத்தும் மாற்று-பிரதியீடு (fork)-> முழுமைப்-பிரதியீடு
+(clone) -> தொகுத்தல்(edit) -> இணைப்பிற்கான-கோரிக்கை(PR) செயன்முறைகளை வெற்றிகரமாக பயன்படுத்தி விட்டீர்கள்.
 
-Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+கீழ்வரும் இணைப்பிற்கு சென்று உங்கள் முதல் திறந்த-மூல பங்களிப்பை நண்பர்களுடனும் உங்களை பின் தொடர்வோருடனும் பகிர்ந்தது கொண்டாடி மகிழுங்கள்.[web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Ye could join our slack crew in case ye needs any help or 'ave any riddles. [Join our slack crew](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
@@ -124,13 +125,13 @@ Now let's get ye started wit' contributin' t' other projects. We've compiled a l
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Usin' Other Tools
+## மற்ற மென்பொருள் சார்ந்த பயிற்சிகள்
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Self-Promotion
+## சுய-விளம்பரம் 
 
 If ye liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
 If ye're feelin' especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
