@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
@@ -108,6 +108,7 @@ Conor Shields (https://github.com/cshields236)
 - James Krueger aka Lauwnch
 - AM
 - Trevor Roy
+- Neha Jagtap
 - AnoldYogi
 - kuhiga
 - goop
@@ -246,7 +247,7 @@ Conor Shields (https://github.com/cshields236)
 - [Dennis John](https://github.com/djohn002)
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
-- MoonMen
+- Moon
 - [BlueOrange](https://github.com/lostghost-dev)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
 - Edin K (https://github.com/EdinK1)
