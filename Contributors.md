@@ -1,5 +1,6 @@
 ﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
+  [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
