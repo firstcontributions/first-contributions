@@ -109,6 +109,7 @@ Conor Shields (https://github.com/cshields236)
 - kuhiga
 - goop
 - Marian
+- [Dorcas] (https://github.com/dorcastan)
 - [Bruno Baruffaldi](https://github.com/barufa))
 - [Justin Campbell](https://github.com/techdev5521))
 - [Stephen Randall](https://github.com/RandallStephen)
