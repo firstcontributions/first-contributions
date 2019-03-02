@@ -229,6 +229,7 @@ Conor Shields (https://github.com/cshields236)
 - Steve Munson
 - Vishal Vaddadhi
 - [Brett Langford](https://github.com/itsbett)
+- [Daniel Lawrence](https://github.com/danielplawrence)
 - Marc
 - Michael Baramidze
 - [Rohit Kapoor](https://github.com/algo-circle)
