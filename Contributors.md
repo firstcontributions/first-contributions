@@ -28,6 +28,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Kevin O]
+- [Anubis Lockward] (https://github.com/mr2much)
 - [461657262656C]
 - [Hassan]
 - [Roger M]
