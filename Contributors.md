@@ -31,7 +31,7 @@
 - [Roger M]
 - [Nana Yaw Ankomah]
 - [Vincent]
-- [Saksham Saigal]	
+- [Saksham Saigal]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
@@ -736,6 +736,7 @@ Conor Shields (https://github.com/cshields236)
 - [Hasan Liou](https://github.com/yunghas)
 - [Ângelo Lucas](http://angelolucas.github.io)
 - carlek
+- [Christopher Angell](http://github.com/ctangell)
 - [Braam Beresford](https://github.com/braamBeresford)
 - [Ilias Ibrahim](https://github.com/iliasi)
 - [Tom Settle](https://github.com/tsettle44)
@@ -12661,7 +12662,7 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
