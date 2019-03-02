@@ -819,6 +819,7 @@ Conor Shields (https://github.com/cshields236)
 - Jesse Ronda
 - [Owen Graham](https://github.com/Klupoctuous)
 - [Tredon Austin](https://github.com/TredonA)
+- [Rik]
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
 - Katherine Liuser
 - lmidy
