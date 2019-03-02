@@ -312,6 +312,7 @@ Conor Shields (https://github.com/cshields236)
 - [Dru Edmondson](https://github.com/drubaby)
 - [Gangesh Gudmalwar](https://github.com/ggangesh)
 - [Erudite Monkey](https://github.com/translucent504)
+- [ootahiaoo](https://github.com/ootahiaoo)
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
