@@ -31,6 +31,7 @@
 - [Roger M]
 - [Nana Yaw Ankomah]
 - [Vincent]
+- [Alin Eremia] (https://github.com/alineremia)
 - [Saksham Saigal]	
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
