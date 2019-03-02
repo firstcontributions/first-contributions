@@ -31,6 +31,7 @@
 - [Anubis Lockward] (https://github.com/mr2much)
 - [461657262656C]
 - [Hassan]
+- [Gabriel Abramzon]
 - [Roger M]
 - [Nana Yaw Ankomah]
 - [Vincent]
