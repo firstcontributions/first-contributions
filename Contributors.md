@@ -961,6 +961,7 @@ Conor Shields (https://github.com/cshields236)
 - [CGibsonmm](https://github.com/CGibsonmm)
 - [qlich](https://github.com/qlich)
 - [Matej Turay](https://github.com/MatejTuray)
+- Alex Pham
 - [Seif Laatiri](https://github.com/Seif-Lat)
 - [Vishal Kushwaha](https://github.com/detailFreak)
 - [Liza Dashevski](https://github.com/LizaDashevski)
