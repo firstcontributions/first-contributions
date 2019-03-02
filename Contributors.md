@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
@@ -1735,6 +1735,7 @@ Conor Shields (https://github.com/cshields236)
   [Rahad Mannan](https://github.com/Rahad140214)
 - [doomcrewinc](https://github.com/doomcrewinc)
 - [kevinzs](https://github.com/kevinzs)
+
 - [Vyshnavi Ravella](https://github.com/vyshuravella)
 - [Adam Winters](https://github.com/MrSolaire/)
 - [Mayank](https://github.com/mayank2652)
@@ -5681,6 +5682,7 @@ Conor Shields (https://github.com/cshields236)
 - [Pedro ?vila](https://github.com/avilapedro)
 - [Jason](https://github.com/daxapps)
 - [Diana Monteiro](https://github.com/dichaves)
+- [WA-J](https://github.com/cwaj400)
 - [Lise Ho](https://github.com/koprty)
 - [Jon Liu](https://github.com/SePTimO7)
 - [Benoit Decline](https://github.com/bdeglane)
