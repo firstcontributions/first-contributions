@@ -293,6 +293,7 @@ Conor Shields (https://github.com/cshields236)
 - Vindi
 - [Leos Abraham](https://github.com/leos1999)
 - [George Bowers](https://github.com/gergeb)
+- [Anne Lanaza](https://github.com/mlanaza)
 - [supriya]
 - [pale](https://github.com/Paleless)
 -[Marcus Snow](https://github.com/Jay-snow)
