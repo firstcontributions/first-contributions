@@ -6,6 +6,7 @@
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - Robert
+- [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Kaustubh Joshi] 
