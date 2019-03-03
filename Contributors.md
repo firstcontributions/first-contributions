@@ -29,6 +29,7 @@
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
+- [ananas] (https://github.com/ananas99)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Kevin O]
 - [Anubis Lockward] (https://github.com/mr2much)
