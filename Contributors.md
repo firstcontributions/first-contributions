@@ -33,6 +33,7 @@
 - [Hassan]
 - [Gabriel Abramzon]
 - [Roger M]
+- [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
 - [Vincent]
 - [Alin Eremia] (https://github.com/alineremia)
