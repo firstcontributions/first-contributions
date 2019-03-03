@@ -7,7 +7,7 @@
 - Robert
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
-- [Kaustubh Joshi] 
+- [Kaustubh Joshi]
 - [Ryan Marion]
 - [Tony Lopez]
 - [Gary Butler](https://github.com/garybutler288)
@@ -37,7 +37,7 @@
 - [Nana Yaw Ankomah]
 - [Vincent]
 - [Alin Eremia] (https://github.com/alineremia)
-- [Saksham Saigal]	
+- [Saksham Saigal]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
@@ -4961,6 +4961,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jake Harrington](https://github.com/harringtonjd0)
 - [Sally Chhuon](https://github.com/sc2225)
 - [shreya bhandare](https://github.com/shreab373)
+- [Donald Henderson](https://github.com/dohenderson)
 - [Lord Adarsh](https://github.com/adarsh-why)
 - [Milos Macura](https://github.com/milosmac94)
 - [Roshan Jossey](https://github.com/Roshanjossey)
@@ -12676,7 +12677,7 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
