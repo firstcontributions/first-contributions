@@ -400,6 +400,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jeremy Collins](https://github.com/jeremyscottcollins)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
+- [Harry Lum](https://github.com/lilharry)
 - [Marlene Hasslinger](https://github.com/marlenehasslinger)
 - [Gianluca Nadir Villalba](https://github.com/RidanDev)
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
