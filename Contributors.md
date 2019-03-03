@@ -760,6 +760,7 @@ Conor Shields (https://github.com/cshields236)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
 - [Armando Alvear](https://github.com/ArmandoAlvear23/)
 - [Paul Briar](https://github.com/paulbriar)
+- [inti7ary](https://github.com/inti7ary)
 - [Connor Johnson](https://github.com/obeserocket)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - Priyanka Walunj
