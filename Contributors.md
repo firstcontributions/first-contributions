@@ -1,7 +1,7 @@
 ﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
-- [Brad Palmer](https://github.com/Digetal) 
+- [Brad Palmer](https://github.com/Digetal)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
@@ -9,7 +9,7 @@
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
-- [Kaustubh Joshi] 
+- [Kaustubh Joshi]
 - [Ryan Marion]
 - [gholi]
 - [Tony Lopez]
@@ -41,10 +41,11 @@
 - [Gabriel Abramzon]
 - [Roger M]
 - [Daniel Ferragut] (https://github.com/danielferragut/)
+- [Justin Fry] (https://github.com/Mrjustinfry)
 - [Nana Yaw Ankomah]
 - [Vincent]
 - [Alin Eremia] (https://github.com/alineremia)
-- [Saksham Saigal]	
+- [Saksham Saigal]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
@@ -12699,7 +12700,7 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
