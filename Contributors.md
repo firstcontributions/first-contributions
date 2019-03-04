@@ -13,6 +13,7 @@
 - [Ryan Marion]
 - [gholi]
 - [Tony Lopez]
+- [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
 - [Maciej Korolik](https://github.com/maciejkorolik)
 - [Wenbo Du](https://github.com/EveryRoseHasItsThorn)
