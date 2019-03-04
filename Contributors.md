@@ -12724,3 +12724,4 @@ Conor Shields (https://github.com/cshields236)
 - [Alessandro Munufie] (https://github.com/alexmunu)
 - [EricWang](https://github.com/bigbigDreamer)
 - [IgorV]
+- [FélixHub] (https://github.com/FelixHub)
