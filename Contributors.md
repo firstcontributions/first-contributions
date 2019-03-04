@@ -12725,3 +12725,4 @@ Conor Shields (https://github.com/cshields236)
 - [EricWang](https://github.com/bigbigDreamer)
 - [IgorV]
 - [FélixHub] (https://github.com/FelixHub)
+- [bjaxbjax](https://github.com/bjaxbjax)
