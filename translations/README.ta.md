@@ -74,21 +74,21 @@ Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add 
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
 
-Add those changes t' th' branch ye jus' created usin' th' `git add` command:
+உங்கள் செயட்திட்டத்தின் அடைவானில்(dir) இருந்து `git status` கட்டளையை உபயோகித்து , நீங்கள் செய்த மாற்றங்களை பார்க்கலாம்.
 
+
+நீங்கள் செய்த மாற்றங்களை `git add` கட்டளையை உபயோகித்து நீங்கள் உருவாக்கிய Git கிளையில் சேருங்கள் 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes usin' th' `git commit` command:
-
+நீங்கள் செய்த மாற்றங்களை `git commit` கட்டளையை உபயோகித்து பதிவேற்றம் செய்யுங்கள்.
 ```
-git commit -m "Add <yer-name> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
 
-replacing `<yer-name>` with your name.
+`<your-name>` என்பதை உங்கள் பெயருக்கு மாற்றுங்கள்.
 
 ## மாற்றங்களை Github ற்கு பதிவேற்றம் செய்தல்  
 
