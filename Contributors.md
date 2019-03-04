@@ -11,6 +11,7 @@
 - [creep1g] (https://github.com/creep1g)
 - [Kaustubh Joshi] 
 - [Ryan Marion]
+- [nomope] (https://github.com/nomope)
 - [gholi]
 - [Tony Lopez]
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
