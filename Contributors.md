@@ -1454,6 +1454,7 @@ Conor Shields (https://github.com/cshields236)
 - [Natallia Skviarniuk](https://github.com/ferrikt)
 - Aileen J
 - [Prajjwal](https://github.com/darksidergod/first-contributions)
+- [Elijah David](http://github.com/elijahdgit)
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Lakshya Arora](https://github.com/nulll-pointer)
 - [Nishit Majithia](https://github.com/nishitm)
