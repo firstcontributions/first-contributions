@@ -331,6 +331,7 @@ Conor Shields (https://github.com/cshields236)
 - Akriti Katiyar
 	[Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
+-[Justin Kusch](https://github.com/jpkusch)
 - Asil Mian
 - [Bruno Martins](https://github.com/bruno-b-martins)
 - Akshay Khairnar
