@@ -21,6 +21,7 @@
 - [Steve Munson]
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
+- Aman Ahuja
 - Nathan Jones
 - [Mandi Howell](https://github.com/allst896)
 -[Matko Cvitkovic](https://github.com/Cvilec)
