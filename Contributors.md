@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Brad Palmer](https://github.com/Digetal) 
@@ -10262,6 +10262,7 @@ Conor Shields (https://github.com/cshields236)
 - [Myren Eario](https://github.com/myren-eario)
 - [Max Wilets](https://github.com/maxwilets)
 - [Subhan Ali](https://github.com/MobDev1994)
+- [Hayden Ivatts](https://github.com/haydi64)
 - [Bhavya Srivastava](https://github.com/bhavya17037)
 - [Stone Teele](https://github.com/stoneteele)
 - [Michael Santana](https://github.com/santanamichael211)
