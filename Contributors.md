@@ -1,6 +1,7 @@
 ﻿# Contributors
-  [Robert Bohn] (https://github.com/RobertBohn)
-  [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
+- [Arian Owji] (https://github.com/trimpage)
+- [Robert Bohn] (https://github.com/RobertBohn)
+- [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
