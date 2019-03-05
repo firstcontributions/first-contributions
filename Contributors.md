@@ -17,6 +17,7 @@
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Gabo Lopez](https://github.com/Gabolan)
 - [Sol Renato] (https://github.com/SRNT)
+- [anuj yadav]
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
 - [Joey Clark] (https://github.com/coolrockerjoey)
