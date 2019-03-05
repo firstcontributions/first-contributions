@@ -6,6 +6,7 @@
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - Robert
   [Carlos Peña] I(https://github.com/cerl0z)
