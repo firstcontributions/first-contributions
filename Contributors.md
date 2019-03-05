@@ -7,6 +7,7 @@
 - [Kuanysh Seilkhanov]
 - Robert
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
+- [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
 - [Kaustubh Joshi] 
