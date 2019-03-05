@@ -48,6 +48,7 @@
 - [Hassan]
 - [Gabriel Abramzon]
 - [Roger M]
+- [Celsuss] (https://github.com/Celsuss)
 - [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
 - [Vincent]
