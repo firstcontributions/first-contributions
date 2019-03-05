@@ -23,6 +23,7 @@
 - Apurv Singh Chauhan
 - Aman Ahuja
 - Nathan Jones
+- [Gitz]
 - [Mandi Howell](https://github.com/allst896)
 -[Matko Cvitkovic](https://github.com/Cvilec)
 - [Krupal Jadhav](https://github.com/kjkrupal)
