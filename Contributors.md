@@ -55,6 +55,7 @@
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
 - [cryingcavecat]
+- [Craig Oldfield](https://github.com/CraigOldfield)
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
 - [Suman Ghosh](https://github.com/sghosh37)
