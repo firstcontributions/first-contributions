@@ -201,6 +201,7 @@ Conor Shields (https://github.com/cshields236)
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
+  Giovanni
 - [Mighil Dath] (https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
 - [Abhinav Sagar](https://github.com/abhinavsagar)
