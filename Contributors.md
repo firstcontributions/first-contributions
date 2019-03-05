@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Brad Palmer](https://github.com/Digetal) 
@@ -6,6 +6,7 @@
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Joseph Rodrigues] (https://github.com/JostonR)
 - Robert
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
