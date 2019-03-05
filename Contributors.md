@@ -8,6 +8,7 @@
 - [Kuanysh Seilkhanov]
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - Robert
+- [Keyiyi](github.com/keyiyi)
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
