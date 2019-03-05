@@ -12748,6 +12748,7 @@ Conor Shields (https://github.com/cshields236)
 - [EricWang](https://github.com/bigbigDreamer)
 - [IgorV]
 - [FélixHub] (https://github.com/FelixHub)
+- [Joel Lashrbook](https://github.com/jkl92)
 - [Rishi Khanna] (https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
