@@ -30,6 +30,7 @@
 - [Gabo Lopez](https://github.com/Gabolan)
 - [Adico](https://github.com/adico1)
 - [Sol Renato] (https://github.com/SRNT)
+- [anuj yadav]
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
 - [Joey Clark] (https://github.com/coolrockerjoey)
