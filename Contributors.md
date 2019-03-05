@@ -9,6 +9,7 @@
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - Robert
   [Carlos Peña] I(https://github.com/cerl0z)
+  [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [Keyiyi](github.com/keyiyi)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
