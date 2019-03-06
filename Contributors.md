@@ -74,6 +74,7 @@
 - [Suman Ghosh](https://github.com/sghosh37)
 - [Diana Mukhanova] https://github.com/diananova
 - [maulik gautam](https://github.com/maulikgautam)
+- [Gary Coleman] (https://github.com/gryclmn)
 - [Iv-Layhort] (https://github.com/Iv-Layhort)
 - [Sovichea-Nhim](https://github.com/Kakashiutano)
 - [sreysa](https://github.com/sreysa)
