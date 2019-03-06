@@ -1,5 +1,6 @@
 ﻿# Contributors
   [Robert Bohn] (https://github.com/RobertBohn)
+  [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Tom (Four Zero Four)](https://github.com/four0000four)
