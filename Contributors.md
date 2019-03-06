@@ -25,6 +25,7 @@
 - [nomope] (https://github.com/nomope)
 - [gholi]
 - [Tony Lopez]
+- [jpgmoreira]
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
 - [Maciej Korolik](https://github.com/maciejkorolik)
