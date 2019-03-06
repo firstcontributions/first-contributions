@@ -127,6 +127,7 @@ Conor Shields (https://github.com/cshields236)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
 - Sowndar Raj
+- Jan
 - Catalin Pit (https://github.com/catalinpit/)
 - [panhabot](https://github.com/panhabot)
 - [Alex Ruiztagle](https://github.com/Activelius)
