@@ -32,6 +32,7 @@
 - [Adico](https://github.com/adico1)
 - [Sol Renato] (https://github.com/SRNT)
 - [anuj yadav]
+- [Yoshitha Chowdary](https://github.com/Yoshitha-y)
 - [Nam Vu](https://github.com/nam93)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
