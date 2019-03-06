@@ -42,6 +42,7 @@
 - [Alec Mills] (https://github.com/OxSon)
 - [David Perez](https://github.com/davidpv)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
+- [Ixax Tavarez](https://github.com/ixaxtav)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [ananas] (https://github.com/ananas99)
