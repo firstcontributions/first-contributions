@@ -2,7 +2,7 @@
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
-- [Brad Palmer](https://github.com/Digetal) 
+- [Brad Palmer](https://github.com/Digetal)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
@@ -20,7 +20,7 @@
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
-- [Kaustubh Joshi] 
+- [Kaustubh Joshi]
 - [Ryan Marion]
 - [nomope] (https://github.com/nomope)
 - [gholi]
@@ -62,7 +62,7 @@
 - [Vincent]
 - [Ahmed Talaat] (https://github.com/ahmdtalaat)
 - [Alin Eremia] (https://github.com/alineremia)
-- [Saksham Saigal]	
+- [Saksham Saigal]
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Tyrion Lannister]
@@ -12730,7 +12730,7 @@ Conor Shields (https://github.com/cshields236)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
@@ -12768,3 +12768,4 @@ Conor Shields (https://github.com/cshields236)
 - [zer0tolerance] (https://github.com/zer0tolerance)
 -[al6625] (https://github.com/alaj6625/first-contributions)
 - [Vireak Sok] (https://github.com/Vireak-Sok)
+- [Andreas Cormack](https://github.com/squadran2003)
