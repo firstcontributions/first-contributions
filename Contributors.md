@@ -427,6 +427,7 @@ Conor Shields (https://github.com/cshields236)
 - [Robert Wong](https://github.com/rwong042)
 - jigyasa
 - [Harry Lum](https://github.com/lilharry)
+- [Tong Li](https://github.com/LastStranger)
 - [Marlene Hasslinger](https://github.com/marlenehasslinger)
 - [Gianluca Nadir Villalba](https://github.com/RidanDev)
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
