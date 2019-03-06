@@ -12,6 +12,7 @@
 - Robert
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
+- [kalbernaz](https://github.com/kalbernaz11)
 - [Keyiyi](github.com/keyiyi)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
