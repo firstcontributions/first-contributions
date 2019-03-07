@@ -130,6 +130,7 @@ Conor Shields (https://github.com/cshields236)
 - [Karen Gal](https://github.com/karengal)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
+= [Kimberley Elcess] (https://github.com/Elcess)
 - Sowndar Raj
 - Jan
 - Catalin Pit (https://github.com/catalinpit/)
