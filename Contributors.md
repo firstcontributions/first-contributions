@@ -37,6 +37,7 @@
 - [Gabo Lopez](https://github.com/Gabolan)
 - [Adico](https://github.com/adico1)
 - [Sol Renato] (https://github.com/SRNT)
+- [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [anuj yadav]
 - [Yoshitha Chowdary](https://github.com/Yoshitha-y)
 - [Nam Vu](https://github.com/nam93)
