@@ -382,6 +382,7 @@ Conor Shields (https://github.com/cshields236)
 - Cody
 - Jonathan D
 - Beirut
+- Tarun Sharma
 - [Justin Madden](https://github.com/ellidin1)
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
@@ -464,6 +465,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jim Zhou](https://github.com/jimzhou112)
 - [Haitham Hammami](https://github.com/hm-haitham)
 - [Joshua Arabia](https://github.com/arabiajosh)
+- Vineet Baj
 - E H
 - [Anirudh B](https://github.com/paplio)
 - [Timur Shigapov](https://github.com/timurshigapov)
