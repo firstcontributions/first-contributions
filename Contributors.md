@@ -154,6 +154,7 @@ Conor Shields (https://github.com/cshields236)
 - goop
 - [metalinux91](https://github.com/metalinux91)
 - Marian
+- [Phillip Lawniczak](https://github.com/PhillJaySaw)
 - [Przemek Babula](https://github.com/beyb00lsky)
 - [Dorcas] (https://github.com/dorcastan)
 - [Bruno Baruffaldi](https://github.com/barufa))
