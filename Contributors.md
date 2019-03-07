@@ -47,6 +47,7 @@
   [Erwin first] (https://github.com/erwindrd2)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [Alec Mills] (https://github.com/OxSon)
+- [Abhranil Bhattacharjee] (https://github.com/abhranil08)
 - [David Perez](https://github.com/davidpv)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Ixax Tavarez](https://github.com/ixaxtav)
