@@ -102,7 +102,7 @@ Presto avrò incorporato (*merge*) tutti i tuoi cambiamenti nel master branch di
 
 ## E ora?
 
-Potresti anche unirti alla nostra aquadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Potresti anche unirti alla nostra squadra su slack in caso tu abbia bisogno di aiuto o abbia qualche domanda. [Unisciti alla squadra Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Qui sotto puoi trovare delle repo popolari dove cercare issue semplici che potresti risolvere. Continua nelle repo per imparare di più
 
