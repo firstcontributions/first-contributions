@@ -71,6 +71,7 @@
 - [Saksham Saigal]	
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
+- [Thomas Esteves]
 - [Tyrion Lannister]
 - [cryingcavecat]
 - [Craig Oldfield](https://github.com/CraigOldfield)
