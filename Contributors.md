@@ -60,6 +60,7 @@
 - [461657262656C]
 - [Hassan]
 - [Gabriel Abramzon]
+- [Tiger KungFu]
 - [Roger M]
 - [Celsuss] (https://github.com/Celsuss)
 - [Daniel Ferragut] (https://github.com/danielferragut/)
