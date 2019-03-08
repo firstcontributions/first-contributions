@@ -199,6 +199,8 @@ Conor Shields (https://github.com/cshields236)
 - Muhammad Jamshed
 - Masahiro
 - Jerry Zhang
+- [Haley Morgan](https://github.com/h-morgan)
+- Patricia Rogers
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - Teddy Chen
