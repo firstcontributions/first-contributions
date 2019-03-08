@@ -51,6 +51,7 @@
 - [Alec Mills] (https://github.com/OxSon)
 - [Abhranil Bhattacharjee] (https://github.com/abhranil08)
 - [David Perez](https://github.com/davidpv)
+- [lcherukuri] (https://github.com/lcherukuri)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Ixax Tavarez](https://github.com/ixaxtav)
 - [Anurag Gupta](https://github.com/Anuraaag)
