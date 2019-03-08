@@ -1017,6 +1017,7 @@ Conor Shields (https://github.com/cshields236)
 - [John Antrobus](https://github.com/jantrobus)
 - [Ethan Dell](https://github.com/ecd1012)
 - [Brian Driesenga](https://github.com/driesenga)
+- [Jhonatan Lopes](https://github.com/jhonatanjal)
 - ausoro
 - Bhuyan
 - Apelsimon
