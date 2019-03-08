@@ -39,6 +39,7 @@
 - [Sol Renato] (https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [anuj yadav]
+- [Farlgerann] (https://github.com/Farlgerann)
 - [Yoshitha Chowdary](https://github.com/Yoshitha-y)
 - [Nam Vu](https://github.com/nam93)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
