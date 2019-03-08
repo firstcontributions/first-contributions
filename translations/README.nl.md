@@ -13,17 +13,17 @@ Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is
 
 #### *Lees dit in [andere talen](../Translations.md)*
 
-Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
+Indien je git nog niet op je systeem hebt, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
 ## Deze repository forken
 
-Fork deze repository door op de fork knop te klikken. Dit creëert een kopie van deze repository in jouw account.
+Fork deze repository door op de fork knop te klikken. Dit maakt een kopie van deze repository in jouw account aan.
 
 ## De repository clonen
 
 <img align="right" width="300" src="../assets/clone.png" alt="kloon deze repository" />
 
-Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon.
+Kloon nu deze repository naar je systeem. Ga naar je GitHub account en open de geforkte respository. Klik dan op de kloon knop en dan het kopiëren naar klembord icoon.
 
 Open een terminal en voer volgend git commando uit:
 
@@ -56,7 +56,7 @@ Bijvoorbeeld:
 ```
 git checkout -b add-thibmaek
 ```
-(De naam van de branch hoeft niet het woord *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
+(De naam van de branch hoeft niet het woord *add* te bevatten. In dit voorbeeld is dit wel aan te raden, aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
 
 ## Maak de benodigde wijzigingen en commit deze
 
@@ -91,7 +91,7 @@ Verstuur nu je pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="verstuur je pull request" />
 
-Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
+Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een bericht per e-mail over ontvangen.
 
 ## Je fork in sync houden met de hoofd-repository
 
