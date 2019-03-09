@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   [MDaams] (https://github.com/MDaams)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
@@ -12794,6 +12794,7 @@ Conor Shields (https://github.com/cshields236)
 - [Alessandro Munufie] (https://github.com/alexmunu)
 - [EricWang](https://github.com/bigbigDreamer)
 - [IgorV]
+- [Dmitry Cherednikov](https://github.com/dcherednikov)
 - [FélixHub] (https://github.com/FelixHub)
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Rishi Khanna] (https://github.com/khannar62)
