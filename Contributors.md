@@ -135,7 +135,7 @@
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Gaege Root](https://github.com/GaegeRoot)
 - [André Botha]
--  Colin Shen1
+- Colin Shen1
 - [zackattackz](https://github.com/zackattackz)
 - [Conor Shields] (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
@@ -160,7 +160,7 @@
 - [Mark Peschel] (https://github.com/MauveRanger)
 - [Liz Hines](https://github.com/ehines623)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
-- phon sokpheaktra](https://github.com/phonsokpheaktra)
+- [phon sokpheaktra](https://github.com/phonsokpheaktra)
 - James Krueger aka Lauwnch
 - AM
 - Trevor Roy
