@@ -146,6 +146,7 @@ Conor Shields (https://github.com/cshields236)
 - Jan
 - Catalin Pit (https://github.com/catalinpit/)
 - [panhabot](https://github.com/panhabot)
+- [Kathleen Bongco](https://github.com/kbongco)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [Daniel Castro](https://github.com/danielc1771)
 - [yhq](https://github.com/yuhongqian)
