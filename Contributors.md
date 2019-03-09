@@ -37,6 +37,7 @@
 - [Robert](https://github.com/rob3rtm0r)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Gabo Lopez](https://github.com/Gabolan)
+- [Bridget Nichols](https://github.com/BridgetNichols)
 - [Adico](https://github.com/adico1)
 - [Sol Renato] (https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
