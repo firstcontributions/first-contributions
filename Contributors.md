@@ -14,12 +14,13 @@
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [Oliver Smith](https://github.com/olivermbs)
-[Edward Savage](https://github.com/edwardASavage)
+- [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Alex Ruiztagle](https://github.com/Activelius)
 - [yhq](https://github.com/yuhongqian)
 - [Niels Kjer] (https://github.com/ntkjer)
 - [Redwan Ahmed Rizvee](https://github.com/rizveeerprojects)
+- [Min Shin Khant](https://github.com/minshinkhant)
 - James Krueger aka Lauwnch
 - AnoldYogi
 - [Stephen Randall](https://github.com/RandallStephen)
