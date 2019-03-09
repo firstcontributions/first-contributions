@@ -12815,4 +12815,3 @@ Conor Shields (https://github.com/cshields236)
 - [risingsmoke] (https://github.com/risingsmoke)
 - [Stephane Le Port] (https://github.com/stleport)
 - [Sachin Tripathi](https://github.com/snifhex/)
-
