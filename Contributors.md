@@ -25,6 +25,7 @@
 - [Kaustubh Joshi] 
 - [Ryan Marion]
 - [nomope] (https://github.com/nomope)
+- [Zack]
 - [gholi]
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
