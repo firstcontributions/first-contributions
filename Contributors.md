@@ -32,6 +32,7 @@
 - [nomope] (https://github.com/nomope)
 - [Zack]
 - [gholi]
+- [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
