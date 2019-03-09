@@ -136,12 +136,12 @@
 - [Gaege Root](https://github.com/GaegeRoot)
 - [André Botha]
 -  Colin Shen1
-- ackattackz](https://github.com/zackattackz)
-- nor Shields (https://github.com/cshields236)
+- [zackattackz](https://github.com/zackattackz)
+- [Conor Shields] (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
-- dward Savage](https://github.com/edwardASavage)
+- [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Karen Gal](https://github.com/karengal)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
@@ -178,9 +178,9 @@
 - [Kromaaa] (https://github.com/kromaaa)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
-- [blacknstones(https://github.com/blacknstones)
+- [blacknstones](https://github.com/blacknstones)
 - Jason K
-- imon ACosta
+- Simon ACosta
 - [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [Ross Hunter](https://github.com/Rossh87)
@@ -267,7 +267,7 @@
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 - [Tom Sohor](https://github.com/tomsohor)
-- Yeoh Soon Keat](https://github.com/yeohsoonkeat)
+- [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
 - [Brayden Laakkonen]
@@ -335,10 +335,10 @@
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
 - [Bibek Gautam](https://github.com/bibek22)
-- Madeline Carr](https://github.com/Madeline-Carr)
+- [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - Eswar
-- Jiawen Wang](https://github.com/jeniwen)
+- [Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
 - [Jeff Hamilton](https://github.com/jeffreyhamilton)
 - [Serb Andreii](https://github.com/SerbIMolot)
@@ -360,7 +360,7 @@
 - [Anne Lanaza](https://github.com/mlanaza)
 - [supriya]
 - [pale](https://github.com/Paleless)
-- Marcus Snow](https://github.com/Jay-snow)
+- [Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Jithinlal
@@ -378,7 +378,7 @@
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
-- Max Esser](https://github.com/max-esser)
+- [Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
 - Justin Kusch](https://github.com/jpkusch)
 - Asil Mian
