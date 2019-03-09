@@ -20,6 +20,7 @@
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Keyiyi](github.com/keyiyi)
 - [Kumar Saurabh](https://github.com/saurabh1969)
+- [Maruf] (https:github.com/whoismaruf)
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
