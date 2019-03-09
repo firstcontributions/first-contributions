@@ -12814,5 +12814,5 @@ Conor Shields (https://github.com/cshields236)
 - [Milos Kostic] (https://github.com/misa2)
 - [risingsmoke] (https://github.com/risingsmoke)
 - [Stephane Le Port] (https://github.com/stleport)
-- [Sachin Tripathi] (https://github.com/snifhex)
+- [Sachin Tripathi](https://github.com/snifhex/)
 
