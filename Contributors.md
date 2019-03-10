@@ -140,6 +140,7 @@
 - [Gaege Root](https://github.com/GaegeRoot)
 - [André Botha]
 -  Colin Shen1
+-Juan Pablo
 [zackattackz](https://github.com/zackattackz)
 Conor Shields (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
