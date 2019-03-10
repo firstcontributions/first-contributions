@@ -373,6 +373,7 @@ Conor Shields (https://github.com/cshields236)
 - Utkarsh
 - palangana
 - Muhammad Zohaib Ehsan
+- Kasionis Ioannis (https://github.com/khasion)
 - [Sam Odum] (https://github.com/SamOdum/)
 - [Muhd Syuqri](https://github.com/dansyuqri/)
 - [Abdu Manas C A](https://github.com/abdumanaz/)
