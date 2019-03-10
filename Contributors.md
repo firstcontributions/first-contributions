@@ -393,6 +393,7 @@ Conor Shields (https://github.com/cshields236)
 - Sanyam Agrawal
 - I dont know
 - Allison
+- [Potato Banana](https://github.com/u-wut-m8)
 - [Pasan](https://github.com/pasanprem)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
