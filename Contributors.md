@@ -1,16 +1,18 @@
-# Contributors
+﻿# Contributors
 - [trysh]
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Joey Clark] (https://github.com/coolrockerjoey)
 - [ChansamnangLim] (https://github.com/Chansamnang)
 - [David Perez](https://github.com/davidpv)
+- [NyYanty](https://github.com/Nyyanty)
 - [Geoffrey Van Meirhaeghe] (https://github.com/chetmayor)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Hassan]
 - [Amith Chivukula](https://github.com/amithc2)
-- [Mazhar Abbass] (https://github.com/mzhrbbs)
+- [Mazhar Abbass] 
+
 - [Sule Alp] (https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
@@ -20,7 +22,7 @@
 - [Bailey Zinger](https://github.com/bzinger2)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Dakota Brown](https://github.com/dchasebrown)
-- [Madhav Vij](https://github.com/MadhavVij)
+- [Madhav Vij](httpsz://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
 - [Seemonz](https://github.com/seemonz)
 - [Brandon Keyes](https://github.com/bkeyes93)
