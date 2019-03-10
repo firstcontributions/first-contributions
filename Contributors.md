@@ -1,5 +1,6 @@
 # Contributors
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
+- [Ming Yong](https://github.com/ming-yong)
 - [MDaams] (https://github.com/MDaams)
 - [Robert Bohn] (https://github.com/RobertBohn)
 - [Jack Corley] (https://github.com/Jdcorley)
@@ -8,6 +9,7 @@
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
+- [jfalkmedia]
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
@@ -31,6 +33,7 @@
 - [nomope] (https://github.com/nomope)
 - [Zack]
 - [gholi]
+- [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
@@ -43,6 +46,7 @@
 - [Gabo Lopez](https://github.com/Gabolan)
 - [Bridget Nichols](https://github.com/BridgetNichols)
 - [Adico](https://github.com/adico1)
+- [Stuart Todd](https://github.com/sdtodd)
 - [Sol Renato] (https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [anuj yadav]
@@ -187,6 +191,7 @@
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Kevin Ryan](https://github.com/K-Rye)
 - [Tina Jurén](https://github.com/TinaJuren)
+- [Pingu Penghoven] (https://github.com/pingu-code)
 - [Daniele Bachicchi](https://github.com/badge87)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
@@ -390,6 +395,7 @@
 - Sanyam Agrawal
 - I dont know
 - Allison
+- [Potato Banana](https://github.com/u-wut-m8)
 - [Pasan](https://github.com/pasanprem)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
@@ -986,6 +992,7 @@
 - [Felix Carlberg](https://github.com/Felix-Carlberg)
 - [Drew Bernard](https://github.com/drewbern)
 - [Ryan Brockhoff](https://github.com/rwbrockhoff)
+- [rpopensource7](https://github.com/rpopensource7)
 - [Prashanth Kandhuri](https://github.com/prashanth41)
 - [Kodesh Pupik](https://github.com/pupik1989)
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
@@ -6129,6 +6136,7 @@
 - [Christopher Martin](https://github.com/Seasick-Turtle)
 - [Kanchan Jirel](https://github.com/s344)
 - [Roy Sung](https://github.com/roysung)
+- [Lykaiast](https://github.com/Lykaiast)
 - [Meghna Ayyar](https://github.com/leomi7)
 - [MuhFaridZia](https://github.com/mfaridzia)
 - [ShahulBasha](https://github.com/shahulbasha)
@@ -9992,6 +10000,7 @@
 - [Ines Santos](https://github.com/inespalmasantos)
 - [S. Ben Stewart](https://github.com/sbenstewart)
 - [Millán Castro](https://github.com/diffo82)
+- [Shouyin](https://github.com/Shouyin)
 - [Algimantas Rauduve](https://github.com/Algraud)
 - [Sakshi Dagar](https://github.com/Dagarsakshi)
 - [Dinagar R](https://github.com/ramdinagar)
@@ -12814,7 +12823,9 @@
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
 - [Milos Kostic] (https://github.com/misa2)
+- [Alex Pacheco] (https://github.com/alexpa123)
 - [risingsmoke] (https://github.com/risingsmoke)
 - [Stephane Le Port] (https://github.com/stleport)
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Jed Mijares](https://github.com/jedmijares)
+- [Ashok Kumar](https://github.com/ashokkumar)
