@@ -9,6 +9,7 @@
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
+- [jfalkmedia]
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
