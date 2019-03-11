@@ -299,6 +299,7 @@ Conor Shields (https://github.com/cshields236)
 - Rob Wyn
 - [nheiting](https://github.com/nheiting)
 - Tomer Eliya
+- [Ben Masters](https://github.com/bendmaster)
 - Steve Munson
 - Vishal Vaddadhi
 - [Brett Langford](https://github.com/itsbett)
