@@ -51,6 +51,7 @@
 - [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
 - [Vincent]
+- [Harmanpreet Singh]
 - [Alin Eremia] (https://github.com/alineremia)
 - [Saksham Saigal]	
 - [Sotherny Kosal](https://github.com/Sotherny)
