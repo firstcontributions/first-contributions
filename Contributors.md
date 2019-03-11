@@ -1094,6 +1094,7 @@ Conor Shields (https://github.com/cshields236)
 - [Chris Crisson](https://github.com/ccrisson)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
+- [Cristian Flores](https://github.com/jesuscfv)
 - [Tobi Popoola](https://github.com/tobithegreat)
 - Alex Moran
 - Thibault Devienne
