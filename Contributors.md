@@ -75,6 +75,7 @@
 - [Anubis Lockward] (https://github.com/mr2much)
 - [461657262656C]
 - [Hassan]
+- [Gracjan Pietruszynski] (https://github.com/hypnokat)
 - [Gabriel Abramzon]
 - [Tiger KungFu]
 - [Roger M]
