@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -19,7 +19,7 @@
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -54,7 +54,7 @@
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇵🇭](translations/README.tl.md)
 [🇿🇦](translations/README.zul.md)
@@ -63,7 +63,7 @@
 [🇳🇬](translations/README.igb.md)
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 ប្រសិនបើអ្នកមិនមាន git នៅលើម៉ាស៊ីនរបស់អ្នក, [ដំឡើងវា]( https://help.github.com/articles/set-up-git/).
 
@@ -74,7 +74,7 @@
 
 ## ក្លូនឬថតចម្លងឃ្លាំងផ្ទុក
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 ឥឡូវនេះក្លូនឃ្លាំងផ្តុកដែលបានទាញទៅម៉ាស៊ីនរបស់អ្នក។ ចូលទៅកាន់គណនី GitHub របស់អ្នកបើកឃ្លាំងផ្ទុកដែលបានទាញរួចចុចលើប៊ូតុង clone ហើយបន្ទាប់មកចុចលើ ប៊ូតុង* copy to clipboard *។
 
@@ -85,7 +85,7 @@ git clone "អាសយដ្ធាន(url)ដែលបានចម្លង"
 ```
 ដែល "អាសយដ្ធាន(url)ដែលបានចម្លង" (គ្មានសញ្ញា " ") គឺជាអាសយដ្ធាន(url)នៃឃ្លាំងផ្ទុក (កម្រោងដែលអ្នកបានទាញ).សូមមើលជំហានមុន ៗ ដើម្បីទទួលបានអាសយដ្ធាន(url).
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ឧទាហរណ៏:
 ```
@@ -115,7 +115,7 @@ git checkout -b add-alonzo-church
 
 ឥឡូវនេះបើកឯកសារ `Contributors.md` នៅក្នុងកម្មវិធីកែឯកសារណាមួយ(ដូចជា Notepad)បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើមឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅគ្រប់ទីកន្លែង។ ឥឡូវរក្សាទុកឯកសារ។
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 ប្រសិនបើអ្នកទៅកាន់ថតគម្រោងនិងបញ្ចូលពាក្យបញ្ជា `git status' អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
@@ -145,11 +145,11 @@ git push origin <add-your-branch-name>
 
 ប្រសិនបើអ្នកទៅកាន់ឃ្លាំងផ្ទុករបស់អ្នកនៅលើ GitHub អ្នកនឹងឃើញប៊ូតុង `Compare & pull request '។ ចុចលើប៊ូតុងនោះ។
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 ឥឡូវនេះដាក់ស្នើសំណើទាញ។
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 មិនយូរប៉ុន្មានខ្ញុំនឹងបញ្ចូលការផ្លាស់ប្ដូរទាំងអស់របស់អ្នកទៅក្នុងសាខាមេ(master branch)នៃគម្រោងនេះ។ អ្នកនឹងទទួលបានអ៊ីម៉ែលការជូនដំណឹងនៅពេលដែលការផ្លាស់ប្តូរត្រូវបានបញ្ចូលចូលគ្នា។
 
@@ -179,4 +179,4 @@ git push origin <add-your-branch-name>
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
