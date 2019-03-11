@@ -53,4 +53,4 @@
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
 | 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
-| KH | [Khmer(Cambodian)]() |
+| KH | [Khmer(Cambodian)](README.kh.md) |
