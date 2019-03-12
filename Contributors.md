@@ -34,6 +34,7 @@
 - [creep1g] (https://github.com/creep1g)
 - [Kaustubh Joshi] 
 - [Ryan Marion]
+- [Ricardo Nunes] (https://github.com/sanunes)
 - [nomope] (https://github.com/nomope)
 - [Zack]
 - [gholi]
