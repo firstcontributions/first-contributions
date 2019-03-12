@@ -39,6 +39,7 @@
 - [nomope] (https://github.com/nomope)
 - [Zack]
 - [gholi]
+- [Deep Pathak]
 - [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
