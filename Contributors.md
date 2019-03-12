@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
@@ -33,6 +33,7 @@
 - [Cristian Pip3] (https://github.com/CristianPip3)
 - [creep1g] (https://github.com/creep1g)
 - [Kaustubh Joshi] 
+- [Kareem Abuzaid] (https://github.com/KareemAbuzaid)
 - [Ryan Marion]
 - [Ricardo Nunes] (https://github.com/sanunes)
 - [nomope] (https://github.com/nomope)
