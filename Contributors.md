@@ -224,6 +224,7 @@ Conor Shields (https://github.com/cshields236)
 - Jerry Zhang
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
+- [Aayush Gupta] (https://github.com/aayushgupta97)
 - Teddy Chen
 - Ben Bond
 - [Satya Pati] (https://github.com/iamsatyapati)
