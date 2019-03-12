@@ -82,6 +82,7 @@
 - [Tiger KungFu]
 - [Roger M]
 - [Celsuss] (https://github.com/Celsuss)
+- [StevenCSU] (https://github.com/StevenCSU)
 - [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
 - [Vincent]
