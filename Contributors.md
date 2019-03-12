@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
@@ -7043,6 +7043,7 @@ Conor Shields (https://github.com/cshields236)
 - [Alex Bonilla](https://github.com/Abonilla17)
 - [Diego Shimizu](https://github.com/dmshimizu)
 - [bokeeee](https://github.com/bokeeee)
+- [Caleb Townsend] (https://github.com/calebtownsend)
 - [Jonathan Saysay](https://github.com/jsaysay)
 - [Jeff Innes](https://github.com/jinnes)
 - [Grant Dellar](https://github.com/BFGD)
