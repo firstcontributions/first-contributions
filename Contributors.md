@@ -5,6 +5,7 @@
 - [Kuanysh Seilkhanov] 
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
+- [Rajiv Brahmbhatt] (https://github.com/rajivProgrammer)
 - [Ryan Marion]
 - [Gary Butler](https://github.com/garybutler288)
 - [Maciej Korolik](https://github.com/maciejkorolik)
