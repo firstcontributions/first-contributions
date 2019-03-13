@@ -340,6 +340,7 @@ Conor Shields (https://github.com/cshields236)
 - [Kathleen Mullin](https://github.com/krm1511)
 - [Victor Machado](https://github.com/vamcs)
 - [Lewis Harvey](https://github.com/lewman215)
+- Carlos
 - [Chandima Ranaweera](https://github.com/chan4lk)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
