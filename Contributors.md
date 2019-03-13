@@ -1847,6 +1847,7 @@ Patrizia Trammell
 - [Maurizio Bruetsch](https://github.com/MaurizioBruetsch)
 - [Anchit Shukla](https://github.com/anchit1)
 - [Nep Ysb](https://github.com/nepysb)
+- [Imran Settuba](https://github.com/i-walker)
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Ricky Lu](https://github.com/RCLU30)
 - [Italo Soares](https://github.com/LinuxUserIRS)
