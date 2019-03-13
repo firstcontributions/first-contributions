@@ -1,6 +1,7 @@
 # Contributors
 
 modified by bin-w
+- [Kieran Ramnarine](https://github.com/DongerZone)
 - [Arya Bhardwaj(https://github.com/ARYA-BHARDWAJ)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Paras Lakhani](https://github.com/paras112)
