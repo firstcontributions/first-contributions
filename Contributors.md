@@ -100,6 +100,7 @@
 - [Thomas Esteves]
 - [Tyrion Lannister]
 - [cryingcavecat]
+- [Vincent Raymond](https://github.com/vincentraymond1995)
 - [Craig Oldfield](https://github.com/CraigOldfield)
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
