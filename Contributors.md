@@ -29,6 +29,7 @@
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
+- [matmatomate] (https://github.com/matmatomate/first-contributions)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3] (https://github.com/CristianPip3)
 - [creep1g] (https://github.com/creep1g)
