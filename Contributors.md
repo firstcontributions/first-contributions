@@ -24,6 +24,7 @@
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
+- [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Huseyin Karaarslan](https://github.com/huskar20)
