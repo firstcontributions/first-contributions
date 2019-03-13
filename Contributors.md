@@ -19,6 +19,7 @@
 - [JThissen] (https://github.com/JThissen)
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
+- [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - Robert
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
