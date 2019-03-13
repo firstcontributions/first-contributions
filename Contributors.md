@@ -12861,3 +12861,4 @@ Conor Shields (https://github.com/cshields236)
 -[William Duvall](https://github.com/duvallwh)
 -rodolfo dantas 
 -[Tigran Harutyunyan](https://github.com/caboose008)
+-[João Batista](https://github.com/JBDionisio)
