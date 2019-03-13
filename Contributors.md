@@ -16,6 +16,7 @@
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
+- [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
