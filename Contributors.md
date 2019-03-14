@@ -24,6 +24,7 @@
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - Robert
+- [Shruthi Babu] (https://github.com/Shruthi-Babu)
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
