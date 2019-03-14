@@ -102,6 +102,7 @@
 - [Alin Eremia] (https://github.com/alineremia)
 - [Saksham Saigal]	
 - [Omer Liberman] 
+- [Bryan Gelfius] (https://github.com/bgelfius)
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Thomas Esteves]
