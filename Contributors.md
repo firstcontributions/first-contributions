@@ -12869,7 +12869,6 @@ Conor Shields (https://github.com/cshields236)
 - [Jed Mijares](https://github.com/jedmijares)
 - [Ashok Kumar](https://github.com/ashokkumar)
 -[William Duvall](https://github.com/duvallwh)
--[Neel] (https://github.com/spiyer99)
 -rodolfo dantas 
 -[Tigran Harutyunyan](https://github.com/caboose008)
 -[João Batista](https://github.com/JBDionisio)
