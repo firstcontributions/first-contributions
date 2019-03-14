@@ -14,6 +14,7 @@
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
 - [Gaayan Verma](https://github.com/GaayanVerma)
+- [drkostas](https://github.com/drkostas)
 - [unprosaic](https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - [Gico Carlo Evangelista](https://github.com/RiceAbove)
