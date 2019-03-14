@@ -756,6 +756,7 @@ Conor Shields (https://github.com/cshields236)
 - Safura
 - mattv611
 - Triinu
+- [Joshua Fitzgerald](https://github.com/lopeetall)
 - [Chris Nathan](https://github.com/clapstar)
 - [Yash Rathod](https://github.com/yashrt)
 - [Monisha Kadappu](https://github.com/monishakadappu1)
