@@ -12403,6 +12403,7 @@ Conor Shields (https://github.com/cshields236)
 - [Nils Fedrigo](https://github.com/NilsFedrigo)
 - [Paladorn](https://github.com/Paladorn)
 - [Faraz Akbari](https//github.com/farazz0)
+- Daniel Cohen
 - [Lucas Akira Morishita](https://github.com/lucas-akira/)
 - [Robinson Beaucour](https://github.com/RobinsonBeaucour/)
 - [Gökhan Özeloğlu](https://github.com/gozeloglu/)
@@ -12892,3 +12893,4 @@ Conor Shields (https://github.com/cshields236)
 -[Sam Matthews](https://github.com/FiendySam/)
 -[Alec Bartley](https://github.com/tabbartley/)
 -[Michael Zhao](https://github.com/michael-zhao)
+
