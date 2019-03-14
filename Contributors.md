@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
@@ -12869,6 +12869,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jed Mijares](https://github.com/jedmijares)
 - [Ashok Kumar](https://github.com/ashokkumar)
 -[William Duvall](https://github.com/duvallwh)
+-[Neel] (https://github.com/spiyer99)
 -rodolfo dantas 
 -[Tigran Harutyunyan](https://github.com/caboose008)
 -[João Batista](https://github.com/JBDionisio)
