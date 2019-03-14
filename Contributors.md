@@ -133,6 +133,7 @@
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Xuan Zhang]
 - [Nick Wilkie]
+- [nquane](https://github.com/nquane)
 - [Ariel Bereslavsky](https://github.com/ScarWar)
 - [Vijay Gaonkar](https://github.com/vgaonkar)
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
