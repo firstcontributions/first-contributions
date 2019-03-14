@@ -60,6 +60,7 @@
 - [Bridget Nichols](https://github.com/BridgetNichols)
 - [Adico](https://github.com/adico1)
 - [Stuart Todd](https://github.com/sdtodd)
+- [Scott Abe](https://github.com/stabee)
 - [Sol Renato] (https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [anuj yadav]
