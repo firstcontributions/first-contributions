@@ -31,6 +31,7 @@
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
+- [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Huseyin Karaarslan](https://github.com/huskar20)
 - [Maruf] (https:github.com/whoismaruf)
