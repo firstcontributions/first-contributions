@@ -431,6 +431,7 @@ Conor Shields (https://github.com/cshields236)
 - Allison
 - [Potato Banana](https://github.com/u-wut-m8)
 - [Pasan](https://github.com/pasanprem)
+- [Brett Shelley] (github.com/brettshelley)(brettshelley.dev)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
