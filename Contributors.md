@@ -142,6 +142,7 @@
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
 - [Aashish S](https://github.com/aashishsonawane)
+- [Akshay Patil](https://github.com/ImAkPatil)
 - [jyo]
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
