@@ -17,6 +17,7 @@
 - [drkostas](https://github.com/drkostas)
 - [unprosaic](https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Arun Krishna P R](https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista](https://github.com/RiceAbove)
 - [Folke Westergren](https://github.com/f-westergren)
 - [JThissen](https://github.com/JThissen)
@@ -24,7 +25,8 @@
 - [Joseph Rodrigues](https://github.com/JostonR)
 - [Nkenfack Mqthurin](https://github.com/MathurinNkenfack)
 - Robert
-- [Carlos Peña] I(https://github.com/cerl0z)
+- [Shruthi Babu](https://github.com/Shruthi-Babu)
+- [Carlos Peña](https://github.com/cerl0z)
 - [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
@@ -100,6 +102,8 @@
 - [Ahmed Talaat](https://github.com/ahmdtalaat)
 - [Alin Eremia](https://github.com/alineremia)
 - [Saksham Saigal]	
+- [Omer Liberman] 
+- [Bryan Gelfius](https://github.com/bgelfius)
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Thomas Esteves]
@@ -141,6 +145,7 @@
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
 - [Aashish S](https://github.com/aashishsonawane)
+- [Akshay Patil](https://github.com/ImAkPatil)
 - [jyo]
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
@@ -533,6 +538,7 @@ Conor Shields (https://github.com/cshields236)
 - [Joe Lee](https://github.com/josephlee93)
 - [Alexander Witedja](https://github.com/alexwitedja)
 - [_nolj](https://github.com/nolanbjohnson)
+- [Mohammed Dilruba Pamangadan](https://github.com/dilrubapamangadan)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
 - [Seamus Bonner](https://github.com/Shamebob)
 - [Artur Karpov](https://github.com/Artur3303)
