@@ -16,6 +16,7 @@
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Arun Krishna P R] (https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
