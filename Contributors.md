@@ -19,6 +19,7 @@
 - [Kuanysh Seilkhanov]
 - [Arun Krishna P R](https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista](https://github.com/RiceAbove)
+- [Brian Cimmino](https://github.com/cimminob)
 - [Folke Westergren](https://github.com/f-westergren)
 - [JThissen](https://github.com/JThissen)
 - [Juuso Solonen](https://github.com/juusolonen)
@@ -321,6 +322,7 @@ Conor Shields (https://github.com/cshields236)
 - Rob Wyn
 - [nheiting](https://github.com/nheiting)
 - Tomer Eliya
+- Just doing stuffffff
 - [Ben Masters](https://github.com/bendmaster)
 - Steve Munson
 - Vishal Vaddadhi
