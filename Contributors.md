@@ -8,6 +8,7 @@
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
+- Gilbert Mwimba
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
