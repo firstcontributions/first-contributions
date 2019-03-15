@@ -49,6 +49,7 @@
 - [nomope] (https://github.com/nomope)
 - [Zack]
 - [gholi]
+- [jonli]
 - [ravingnomad]
 - [Vivek Singh Rathore]
 - [Deep Pathak]
