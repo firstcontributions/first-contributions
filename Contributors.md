@@ -244,6 +244,7 @@ Conor Shields (https://github.com/cshields236)
 - Muhammad Jamshed
 - Masahiro
 - Jerry Zhang
+- Darrin Deal
 - Manuprasad M
 - [Shawn Austin] (https://github.com/JS-Austin)
 - [Aayush Gupta] (https://github.com/aayushgupta97)
