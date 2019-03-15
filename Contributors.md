@@ -8,6 +8,9 @@
 - [Robert Bohn](https://github.com/RobertBohn)
 - [Jack Corley](https://github.com/Jdcorley)
 - [Pawan Kumar Jha](https://github.com/88pawankumarjha)
+- Gilbert Mwimba
+- Jesse Kanter(https://github.com/JesseKanter)
+- [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
@@ -15,8 +18,11 @@
 - [jfalkmedia]
 - [Gaayan Verma](https://github.com/GaayanVerma)
 - [drkostas](https://github.com/drkostas)
+- [Joshua Kim] (https://github.com/joshualaj)
+- [csdali13](https://github.com/csdali13
 - [unprosaic](https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Victoria Hobbs](https://github.com/vlhobbs)
 - [Arun Krishna P R](https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista](https://github.com/RiceAbove)
 - [Brian Cimmino](https://github.com/cimminob)
@@ -32,6 +38,7 @@
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
+- [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Huseyin Karaarslan](https://github.com/huskar20)
 - [Maruf](https:github.com/whoismaruf)
@@ -49,6 +56,8 @@
 - [nomope](https://github.com/nomope)
 - [Zack]
 - [gholi]
+- [jonli]
+- [ravingnomad]
 - [Vivek Singh Rathore]
 - [Deep Pathak]
 - [Long Nguyen](https://github.com/longnguyen2306)
@@ -132,6 +141,7 @@
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Xuan Zhang]
 - [Nick Wilkie]
+- [nquane](https://github.com/nquane)
 - [Ariel Bereslavsky](https://github.com/ScarWar)
 - [Vijay Gaonkar](https://github.com/vgaonkar)
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
@@ -242,6 +252,7 @@ Conor Shields (https://github.com/cshields236)
 - Muhammad Jamshed
 - Masahiro
 - Jerry Zhang
+- Darrin Deal
 - Manuprasad M
 - [Shawn Austin](https://github.com/JS-Austin)
 - [Aayush Gupta](https://github.com/aayushgupta97)
@@ -320,6 +331,7 @@ Conor Shields (https://github.com/cshields236)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
 - Rob Wyn
+- [Tom Gaimann](https://github.com/tomg404)
 - [nheiting](https://github.com/nheiting)
 - Tomer Eliya
 - Just doing stuffffff
@@ -429,6 +441,7 @@ Conor Shields (https://github.com/cshields236)
 - Allison
 - [Potato Banana](https://github.com/u-wut-m8)
 - [Pasan](https://github.com/pasanprem)
+- [Brett Shelley] (github.com/brettshelley)(brettshelley.dev)
 - [W. van der Goot](https://github.com/watszon)
 - Alftri
 - [C. Colton Baier](https://github.com/Ccoltbaier)
@@ -756,6 +769,7 @@ Conor Shields (https://github.com/cshields236)
 - Safura
 - mattv611
 - Triinu
+- [Joshua Fitzgerald](https://github.com/lopeetall)
 - [Chris Nathan](https://github.com/clapstar)
 - [Yash Rathod](https://github.com/yashrt)
 - [Monisha Kadappu](https://github.com/monishakadappu1)
@@ -8150,6 +8164,7 @@ Conor Shields (https://github.com/cshields236)
 - [Lavaskie Clark](https://github.com/LVSKEClark90)
 - [Noam The Great](https://github.com/DragonPie635)
 - [Divyansh Batham](https://github.com/DivyanshBatham)
+- [Jason Li](https://github.com/jli94)
 - [Vic Patel](https://github.com/vp932712)
 - [Yash Baheti](https://github.com/yashbth)
 - [Sven Stockmann](https://github.com/EagleTrustSeven)
@@ -12887,3 +12902,7 @@ Conor Shields (https://github.com/cshields236)
 -[Tigran Harutyunyan](https://github.com/caboose008)
 -[João Batista](https://github.com/JBDionisio)
 -[Sam Matthews](https://github.com/FiendySam/)
+-[Alec Bartley](https://github.com/tabbartley/)
+-[Michael Zhao](https://github.com/michael-zhao)
+-[Shiv]
+-[Raul Ropero] (https://github.com/codigoespagueti)
