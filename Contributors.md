@@ -9,7 +9,7 @@
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
-- Jesse Kanter
+- Jesse Kanter (https://github.com/JesseKanter)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
