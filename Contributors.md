@@ -1,6 +1,6 @@
 ﻿# Contributors
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
-  [rodrigo-amc] (https://github.com/rodrigo-amc)
+  [rodrigoamc] (https://github.com/rodrigo-amc)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Ming Yong](https://github.com/ming-yong)
