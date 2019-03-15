@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
@@ -23,6 +23,7 @@
 - [Arun Krishna P R] (https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Brian Cimmino] (https://github.com/cimminob)
+- [Mario Codes](https://github.com/MarioCodes)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
 - [Juuso Solonen] (https://github.com/juusolonen)
