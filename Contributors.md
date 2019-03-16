@@ -5503,6 +5503,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jonny](https://github.com/Yeti725)
 - [Daniel Millier](https://github.com/DanJMillier)
 - Shweta
+- [Vignesh Kumar](https://github.com/mviku)
 - [Ainevsia](https://github.com/Ainevsia)
 - [Saraansh](https://github.com/saraansh1999)
 - comsol
