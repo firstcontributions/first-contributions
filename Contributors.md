@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
@@ -12,7 +12,7 @@
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
 Srinivas Pudu
-- Jesse Kanter (https://github.com/JesseKanter)
+- Jesse Kanter (https://github.com/JesseKanter)qinxueyao
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
