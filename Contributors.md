@@ -35,6 +35,7 @@ Srinivas Pudu
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - Robert
+- [Daniel Sameh] (https://github.com/DanielSameh)
 - [Shruthi Babu] (https://github.com/Shruthi-Babu)
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
