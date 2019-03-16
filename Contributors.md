@@ -79,10 +79,10 @@ Srinivas Pudu
 - [Adico](https://github.com/adico1)
 - [Stuart Todd](https://github.com/sdtodd)
 - [Scott Abe](https://github.com/stabee)
-- [Sol Renato] (https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [anuj yadav]
 - [Farlgerann] (https://github.com/Farlgerann)
+- [william celi](https://github.com/williamceli)
 - [Yoshitha Chowdary](https://github.com/Yoshitha-y)
 - [Nam Vu](https://github.com/nam93)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
