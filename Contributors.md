@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
@@ -11,6 +11,7 @@
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
+Srinivas Pudu
 - Jesse Kanter (https://github.com/JesseKanter)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
