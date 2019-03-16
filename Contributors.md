@@ -62,6 +62,7 @@
 - [ravingnomad]
 - [Vivek Singh Rathore]
 - [Deep Pathak]
+  [Michaelhm]
 - [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
