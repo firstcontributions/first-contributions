@@ -204,6 +204,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/neone35">neone35</a>
         </td>
         <td>
+            <a href="https://github.com/viicktur">viicktur</a>
+        </td>
+        <td>
             <a href="https://github.com/espozbob">espozbob</a>
         </td>
         <td>
