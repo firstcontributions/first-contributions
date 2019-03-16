@@ -12913,6 +12913,6 @@ Conor Shields (https://github.com/cshields236)
 -[Alec Bartley](https://github.com/tabbartley/)
 -[Michael Zhao](https://github.com/michael-zhao)
 -[Shiv]
--[Raul Ropero] (https://github.com/codigoespagueti)
+-[Raul Ropero](https://github.com/codigoespagueti)
 -[fmi]
 -[Alexandru Săndulescu](https://github.com/alexsandulescu)
