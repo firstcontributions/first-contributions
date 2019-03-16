@@ -12915,4 +12915,4 @@ Conor Shields (https://github.com/cshields236)
 -[Shiv]
 -[Raul Ropero](https://github.com/codigoespagueti)
 -[fmi]
--[Alexandru Săndulescu](https://github.com/alexsandulescu)
+-[Alexandru Săndulescu] (https://github.com/alexsandulescu)
