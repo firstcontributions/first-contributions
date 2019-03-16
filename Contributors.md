@@ -6,6 +6,7 @@
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Ming Yong](https://github.com/ming-yong)
   [MDaams] (https://github.com/MDaams)
+  [Omiros Tsintilas](https://github.com/homerts95)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
