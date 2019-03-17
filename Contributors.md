@@ -197,6 +197,7 @@ Conor Shields (https://github.com/cshields236)
 [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Karen Gal](https://github.com/karengal)
+- [ed-cc](https://github.com/ed-cc)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
 = [Kimberley Elcess] (https://github.com/Elcess)
