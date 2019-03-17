@@ -9,6 +9,7 @@
   [Omiros Tsintilas](https://github.com/homerts95)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
+- [Ujjwal Kumar Jha] (https://github.com/kashyapit18)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
 Srinivas Pudu
