@@ -58,6 +58,7 @@ Srinivas Pudu
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
 - [matmatomate] (https://github.com/matmatomate/first-contributions)
+- [george_g]
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3] (https://github.com/CristianPip3)
 - [creep1g] (https://github.com/creep1g)
