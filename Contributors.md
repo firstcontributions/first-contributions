@@ -349,6 +349,7 @@ Conor Shields (https://github.com/cshields236)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
 - Rob Wyn
+- [Marielle Lesigues](https://github.com/mlesigues)
 - [Tom Gaimann](https://github.com/tomg404)
 - [nheiting](https://github.com/nheiting)
 - Tomer Eliya
