@@ -47,6 +47,7 @@ Srinivas Pudu
 - [Keyiyi](github.com/keyiyi)
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
+- [Paul Cz](https://github.com/pcz3)
 - [Huseyin Karaarslan](https://github.com/huskar20)
 - [Maruf] (https:github.com/whoismaruf)
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
