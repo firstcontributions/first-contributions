@@ -8,6 +8,7 @@
 - [Ming Yong](https://github.com/ming-yong)
   [MDaams] (https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
+  [Theos1](https://github.com/Theos17)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
 - [Jacques Benzakein] (https://github.com/helloITdepartment)
