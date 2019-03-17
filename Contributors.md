@@ -31,6 +31,7 @@ Srinivas Pudu
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Brian Cimmino] (https://github.com/cimminob)
 - [Mario Codes](https://github.com/MarioCodes)
+- [Jeremy Reed](https://github.com/jeremymreed)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
 - [Juuso Solonen] (https://github.com/juusolonen)
