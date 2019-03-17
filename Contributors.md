@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Jatin Kathuria (https://github.com/logeekical)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
