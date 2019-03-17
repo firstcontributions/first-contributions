@@ -9135,6 +9135,7 @@ Conor Shields (https://github.com/cshields236)
 - [kola014](https://github.com/kola014)
 - [Andrew Rekko](https://github.com/arekko)
 - KY-Ng
+Taylor Burrington
 - [Samantha Ramos](https://github.com/samr26)
 - [Pablo Rivas](https://github.com/pmrivas)
 - [Olli Hanhimaki](https://github.com/ohanhimaki)
