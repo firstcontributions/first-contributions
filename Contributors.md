@@ -5,6 +5,7 @@
   [rodrigoamc] (https://github.com/rodrigo-amc)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
+- [vbertazzo] (https://github.com/vbertazzo)
 - [Ming Yong](https://github.com/ming-yong)
   [MDaams] (https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
