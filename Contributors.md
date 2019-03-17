@@ -11108,6 +11108,7 @@ Taylor Burrington
 - [EdoRguez](https://github.com/EdoRguez)
 - [Andrew Voneshen](https://github.com/avoneshen)
 - [Afif Hendrawan](https://github.com/hndr91)
+- [Randall Clements](https://github.com/randclem)
 - [Lucas Dahl](https://github.com/Procerus)
 - [Naman Goel](https://github.com/namangoel05)
 - [Kesean Woodhouse](https://github.com/kesean)
