@@ -189,6 +189,7 @@ Srinivas Pudu
 - [André Botha]
 -  Colin Shen1
 -Juan Pablo
+- [superluke](https://github.com/superluke)
 [zackattackz](https://github.com/zackattackz)
 Conor Shields (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
