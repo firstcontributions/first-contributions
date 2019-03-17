@@ -765,6 +765,7 @@ Conor Shields (https://github.com/cshields236)
 - [John Bidinger](https://github.com/johnbidinger)
 - [RachanaReddy](https://github.com/Rachana-Reddy)
 - [Ivan Šostarec](https://github.com/isostarec)
+- [Jake Bills](https://github.com/jakebills1)
 - Hayden Whitehead
 - [Chris Arsenault](https://github.com/chrisstanarsenault)
 - [Akshat Mittal](https://github.com/akshatmittal19)
