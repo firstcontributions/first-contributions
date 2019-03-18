@@ -24,10 +24,11 @@ Srinivas Pudu
 - Jesse Kanter (https://github.com/JesseKanter)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
-- [Brad Palmer](https://github.com/Digetal) 
+- [Brad Palmer](https://github.com/Digetal)
 - [Ishank Goel](https://github.com/ishankgoel)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
+- [Tom Rains] (https://github.com/tomrains)
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
   [Joshua Kim] (https://github.com/joshualaj)
@@ -68,7 +69,7 @@ Srinivas Pudu
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3] (https://github.com/CristianPip3)
 - [creep1g] (https://github.com/creep1g)
-- [Kaustubh Joshi] 
+- [Kaustubh Joshi]
 - [Kareem Abuzaid] (https://github.com/KareemAbuzaid)
 - [Ryan Marion]
 - [Ricardo Nunes] (https://github.com/sanunes)
@@ -137,8 +138,8 @@ Just Testing @Kanak Sharma
 - [Vincent]
 - [Ahmed Talaat] (https://github.com/ahmdtalaat)
 - [Alin Eremia] (https://github.com/alineremia)
-- [Saksham Saigal]	
-- [Omer Liberman] 
+- [Saksham Saigal]
+- [Omer Liberman]
 - [Bryan Gelfius] (https://github.com/bgelfius)
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
@@ -12886,7 +12887,7 @@ Taylor Burrington
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Goutham Menon](https://github.com/gouthammenon3)
-- [Aman Sharma](https://github.com/amanshharma) 
+- [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
 - [Eric Boyle](https://github.com/moodzyy)
 - [Martin Zamarski](https://github.com/momom88)
@@ -12946,7 +12947,7 @@ Kritika b
 - [Cinthia Barros](https://github.com/barroscinthia)
 -[William Duvall](https://github.com/duvallwh)
 -[Neel] (https://github.com/spiyer99)
--rodolfo dantas 
+-rodolfo dantas
 -[Tigran Harutyunyan](https://github.com/caboose008)
 -[João Batista](https://github.com/JBDionisio)
 -[Sam Matthews](https://github.com/FiendySam/)
