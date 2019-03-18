@@ -32,6 +32,7 @@ Srinivas Pudu
 - [csdali13] (https://github.com/csdali13)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
+- [Nicolei Ocana] (https://github.com/nicoleiocana)
 - [Victoria Hobbs] (https://github.com/vlhobbs)
 - [Blake Barton] (https://github.com/blake-barton)
 - [Arun Krishna P R] (https://github.com/arunkrishna2992)
