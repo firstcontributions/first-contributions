@@ -10166,6 +10166,7 @@ Taylor Burrington
 - [Sascha Mitlacher](https://github.com/mitlasas)
 - [Tj Muscarella](https://github.com/tmuscar)
 - [Thomas Allan](https://github.com/ThomasAllan)
+- [Emil Bergquist] (https://github.com/EmilBergquist)
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
 - [Diego Costa](https://github.com/srdiegocosta)
