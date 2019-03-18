@@ -12944,3 +12944,4 @@ Taylor Burrington
 -[hongwen000]
 -[Dominika Malinowska] (https://github.com/doma1991)
 -[Liz Burton] (https://github.com/lizbur10)
+-[Vidit Jain] (https://github.com/viditjain5598)
