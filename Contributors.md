@@ -436,6 +436,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - Jithinlal
+- alexsuslin
 - Utkarsh
 - palangana
 - Muhammad Zohaib Ehsan
