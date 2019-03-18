@@ -12707,6 +12707,7 @@ Taylor Burrington
 - [Neal Stumpf](https://github.com/MildlyOffensive)
 - [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
+- [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tpartridge1](https://github.com/tpartridge1)
 - [Shenyu](https://github.com/lishenyu16)
