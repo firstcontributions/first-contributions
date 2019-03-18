@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
@@ -20,6 +20,7 @@
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
 Srinivas Pudu
+- Tamar Seleski
 - Jesse Kanter (https://github.com/JesseKanter)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
@@ -1842,6 +1843,7 @@ Conor Shields (https://github.com/cshields236)
 - [Arnastria](https://github.com/arnastria)
 - [Sasho Irkov](https://github.com/2121159i)
 - JOON JANG JOON JANG
+-[T Tamar S]
 - [Victor Hsiang](https://github.com/bigvictorh)
 - Jarett Chaiken
 - [Jeet Maity](https://github.com/jeet-maity)
