@@ -12919,6 +12919,7 @@ Taylor Burrington
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Jed Mijares](https://github.com/jedmijares)
 - [Ashok Kumar](https://github.com/ashokkumar)
+- [Cinthia Barros](https://github.com/barroscinthia)
 -[William Duvall](https://github.com/duvallwh)
 -[Neel] (https://github.com/spiyer99)
 -rodolfo dantas 
