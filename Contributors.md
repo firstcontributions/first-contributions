@@ -1,4 +1,5 @@
 ﻿# Contributors
+  Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
