@@ -527,6 +527,8 @@ Conor Shields (https://github.com/cshields236)
 - Yo Yo honey
 - [John Osborn](https://github.com/josborn88)
 - [John Meade](https://github.com/johnmeade-webdev)
+- [Paul Saada]
+(https://github.com/paulsda)
 - [Krishna Swaroop](https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
