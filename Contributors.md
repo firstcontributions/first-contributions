@@ -8,6 +8,7 @@
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [vbertazzo] (https://github.com/vbertazzo)
 - [Ming Yong](https://github.com/ming-yong)
+- [MingRongXi] (https: // github.com/MintRongXi)
   [MDaams] (https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
   [Theos1](https://github.com/Theos17)
