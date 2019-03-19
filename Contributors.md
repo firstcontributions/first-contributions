@@ -10973,6 +10973,7 @@ Taylor Burrington
 - [Yena Park](https://github.com/Yena-Park)
 - [Panusitt Khuenkham](https://github.com/bamossza)
 - [Ryan Robidou](https://github.com/emunin)
+- [Qun Wang](https://github.com/PandaonMars/)
 - [Jordan Ballinger](https://github.com/jordballinger)
 - [Charles Miller](https://github.com/Cmills14)
 - [Sultan Imam Muttaqin](https://github.com/kilamieaz)
