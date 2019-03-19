@@ -12652,7 +12652,7 @@ Taylor Burrington
 - [Davi Pessanha](https://github.com/dpessanha/)
 - [brriann](https://github.com/brriann)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
-- [Skylar Liang] (https://gist.github.com/SkylarLJY)
+- [Skylar Liang] (https://github.com/SkylarLJY)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
 - [Marcel Gehlen](https://github.com/mgehlen)
