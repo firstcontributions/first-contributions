@@ -12980,3 +12980,4 @@ Kritika b
 -ELIOR8900
 -[Nathan Huh] (https://github.com/AmberLlama81)
 -[NUX:PR](https://github.com/nuxpr)
+-[Przemysław Pierzchałka](https://github.com/Websited/)
