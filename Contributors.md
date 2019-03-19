@@ -571,6 +571,7 @@ Conor Shields (https://github.com/cshields236)
 - Vineet Baj
 - E H
 - [Anirudh B](https://github.com/paplio)
+- [Dante Radovani](https://github.com/dRadest)
 - [Timur Shigapov](https://github.com/timurshigapov)
 - [Jay Pitroda](https://github.com/jaypitroda12)
 - [Keith Hudock](https:github.com/keithudock)
