@@ -22,6 +22,7 @@
 - Gilbert Mwimba
 Srinivas Pudu
 - Jesse Kanter (https://github.com/JesseKanter)
+- Marc Lim (https://github.com/Maws1991)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
