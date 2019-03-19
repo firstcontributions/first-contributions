@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
@@ -12928,14 +12928,14 @@ Taylor Burrington
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance] (https://github.com/zer0tolerance)
--[al6625] (https://github.com/alaj6625/first-contributions)
+- [al6625] (https://github.com/alaj6625/first-contributions)
 - [Vireak Sok] (https://github.com/Vireak-Sok)
 - [Xi Ming] (https://github.com/seki2020)
 - [Michael Properzi] (https://github.com/erzimj)
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet] (https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
-Kritika b
+- Kritika b
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
@@ -12947,24 +12947,25 @@ Kritika b
 - [Jed Mijares](https://github.com/jedmijares)
 - [Ashok Kumar](https://github.com/ashokkumar)
 - [Cinthia Barros](https://github.com/barroscinthia)
--[William Duvall](https://github.com/duvallwh)
--[Neel] (https://github.com/spiyer99)
--rodolfo dantas 
--[Tigran Harutyunyan](https://github.com/caboose008)
--[João Batista](https://github.com/JBDionisio)
--[Sam Matthews](https://github.com/FiendySam/)
--[Alec Bartley](https://github.com/tabbartley/)
--[Michael Zhao](https://github.com/michael-zhao)
--[Shiv]
--[Raul Ropero](https://github.com/codigoespagueti)
--[fmi]
--[Maosheng Tang](https://github.com/mshtang)
--[Alexandru Săndulescu] (https://github.com/alexsandulescu)
--[hongwen000]
--[Dominika Malinowska] (https://github.com/doma1991)
--[Liz Burton] (https://github.com/lizbur10)
--Varghese T Mathew
--[Vidit Jain] (https://github.com/viditjain5598)
--zhaoweiwei
--ELIOR8900
--[Nathan Huh] (https://github.com/AmberLlama81)
+- [William Duvall](https://github.com/duvallwh)
+- [Neel] (https://github.com/spiyer99)
+- rodolfo dantas 
+- [Tigran Harutyunyan](https://github.com/caboose008)
+- [João Batista](https://github.com/JBDionisio)
+- [Sam Matthews](https://github.com/FiendySam/)
+- [Alec Bartley](https://github.com/tabbartley/)
+- [Michael Zhao](https://github.com/michael-zhao)
+- [Shiv]
+- [Raul Ropero](https://github.com/codigoespagueti)
+- [fmi]
+- [Maosheng Tang](https://github.com/mshtang)
+- [Alexandru Săndulescu] (https://github.com/alexsandulescu)
+- [hongwen000]
+- [Dominika Malinowska] (https://github.com/doma1991)
+- [Liz Burton] (https://github.com/lizbur10)
+- Varghese T Mathew
+- [Vidit Jain] (https://github.com/viditjain5598)
+- zhaoweiwei
+- ELIOR8900
+- [Nathan Huh] (https://github.com/AmberLlama81)
+- [NUX:PR] (https://github.com/nuxpr)
