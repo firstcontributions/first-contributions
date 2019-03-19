@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
@@ -12969,3 +12969,4 @@ Kritika b
 -zhaoweiwei
 -ELIOR8900
 -[Nathan Huh] (https://github.com/AmberLlama81)
+-[NUX:PR](https://github.com/nuxpr)
