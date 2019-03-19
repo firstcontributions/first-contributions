@@ -497,6 +497,7 @@ Conor Shields (https://github.com/cshields236)
 - [Sabás Mendívil](https://github.com/sabasm)
 - [Rahul Choubey](https://github.com/flashyrc)
 - Boone Chen
+- [Karin Povolozki-Rabichev] (https://github.com/KarinPR)
 - [Jake S.](https://github.com/GideonWasHere)
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
