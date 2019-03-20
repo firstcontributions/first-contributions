@@ -19,13 +19,13 @@ Pokud namáte nainstalovaný git, [nainstalujte si jej]( https://help.github.com
 
 ## Forkněte tento repozitář
 
-Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHib účtu.
+Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, jako vytvoření nové odnože) tento repozitář kliknutím na tlačítko **Fork** nahoře na této stránce. Tím vytvoříte kopii tohoto repozitáře na svém vlastním GitHub účtu.
 
 ## Naklonujte repozitář
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
-Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
 Teď otevřte terminál a spusťte následující příkaz:
 
@@ -79,7 +79,7 @@ Tyto změny do dané větvě přidáte příkazem `git add`:
 git add Contributors.md
 ```
 
-Zbýva je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
+Teď je už jen zbývá potvrdit (anglicky *commit*) příkazem `git commit`:
 
 ```
 git commit -m "Add <vase-jmeno> to Contributors list"
@@ -109,7 +109,7 @@ Brzy budu provádět zapracování vašich změn do hlavní (anglicky *master*) 
 
 ## Kam dále?
 
-Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ průběh práce (anglicky *workflow), se kterým se jako přispěvatel do projektů setkáte dennodenně.
+Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ průběh práce (anglicky *workflow), se kterým se jako přispěvovatel do projektů setkáte dennodenně.
 
 Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -128,7 +128,7 @@ Nyní vám už nic nebrání v příspívání do ostatních projektů. Připrav
 
 ## Sebe propagace
 
-Pokud se vm tento projket líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
+Pokud se vám tento projekt líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
 Stránky původního autora [Roshan](https://roshanjossey.github.io/).
 [Stránky překladatele](https://bambusekd.cz).
 
