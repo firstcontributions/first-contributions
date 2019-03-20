@@ -25,6 +25,7 @@ Srinivas Pudu
 - Jesse Kanter (https://github.com/JesseKanter)
 - Tad Tarnawski (https://github.com/tad815)
 - Marc Lim (https://github.com/Maws1991)
+- [Hicham Moro](https://github.com/Hicham95)
 - [Beyarkay](https://github.com/beyarkay)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
