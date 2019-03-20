@@ -8,6 +8,7 @@
   [rodrigoamc] (https://github.com/rodrigo-amc)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
+- [Ratin Kumar] (https://github.com/DumbMachine)
 - [vbertazzo] (https://github.com/vbertazzo)
 - [Ming Yong](https://github.com/ming-yong)
 - [MingRongXi] (https: // github.com/MintRongXi)
