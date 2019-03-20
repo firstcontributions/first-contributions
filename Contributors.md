@@ -12953,7 +12953,7 @@ Taylor Burrington
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet] (https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
-Kritika b
+- Kritika b
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
@@ -12992,4 +12992,4 @@ Kritika b
 -[Tom](https://github.com/PsiPhiTheta)
 -[Santeri](https://github.com/sQnteri)
 -david
--[Terrence](https://github.com/teisenhower)
+- [Terrence](https://github.com/teisenhower)
