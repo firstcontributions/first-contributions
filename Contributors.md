@@ -12966,30 +12966,30 @@ Taylor Burrington
 - [Ashok Kumar](https://github.com/ashokkumar)
 - [Onn Tai Yong](https://github.com/yongot)
 - [Cinthia Barros](https://github.com/barroscinthia)
--[William Duvall](https://github.com/duvallwh)
--[Neel] (https://github.com/spiyer99)
--rodolfo dantas 
--[Tigran Harutyunyan](https://github.com/caboose008)
--[João Batista](https://github.com/JBDionisio)
--[Sam Matthews](https://github.com/FiendySam/)
--[Alec Bartley](https://github.com/tabbartley/)
--[Michael Zhao](https://github.com/michael-zhao)
--[Shiv]
--[Raul Ropero](https://github.com/codigoespagueti)
--[fmi]
--[Maosheng Tang](https://github.com/mshtang)
--[Alexandru Săndulescu] (https://github.com/alexsandulescu)
--[hongwen000]
--[Dominika Malinowska] (https://github.com/doma1991)
--[Liz Burton] (https://github.com/lizbur10)
--Varghese T Mathew
--[Vidit Jain] (https://github.com/viditjain5598)
--zhaoweiwei
--ELIOR8900
--[Nathan Huh] (https://github.com/AmberLlama81)
--[NUX:PR](https://github.com/nuxpr)
--[Przemysław Pierzchałka](https://github.com/Websited/)
--[Tom](https://github.com/PsiPhiTheta)
--[Santeri](https://github.com/sQnteri)
--david
+- [William Duvall](https://github.com/duvallwh)
+- [Neel] (https://github.com/spiyer99)
+- rodolfo dantas 
+- [Tigran Harutyunyan](https://github.com/caboose008)
+- [João Batista](https://github.com/JBDionisio)
+- [Sam Matthews](https://github.com/FiendySam/)
+- [Alec Bartley](https://github.com/tabbartley/)
+- [Michael Zhao](https://github.com/michael-zhao)
+- [Shiv]
+- [Raul Ropero](https://github.com/codigoespagueti)
+- [fmi]
+- [Maosheng Tang](https://github.com/mshtang)
+- [Alexandru Săndulescu] (https://github.com/alexsandulescu)
+- [hongwen000]
+- [Dominika Malinowska] (https://github.com/doma1991)
+- [Liz Burton] (https://github.com/lizbur10)
+- Varghese T Mathew
+- [Vidit Jain] (https://github.com/viditjain5598)
+- zhaoweiwei
+- ELIOR8900
+- [Nathan Huh] (https://github.com/AmberLlama81)
+- [NUX:PR](https://github.com/nuxpr)
+- [Przemysław Pierzchałka](https://github.com/Websited/)
+- [Tom](https://github.com/PsiPhiTheta)
+- [Santeri](https://github.com/sQnteri)
+- david
 - [Terrence](https://github.com/teisenhower)
