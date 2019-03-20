@@ -2,7 +2,7 @@
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
-- Gourav
+- Gourav J
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
