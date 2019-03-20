@@ -83,6 +83,7 @@ Srinivas Pudu
 - [jonli]
 - [ravingnomad]
 - [Aparna Agarwal]
+- [Manish Namdeo] (https://github.com/ExpertBrainGroup)
 - [Vivek Singh Rathore]
 - [Deep Pathak]
   [Michaelhm]
