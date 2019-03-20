@@ -22,7 +22,7 @@
 
 ## მოახდინეთ რეპოზიტორიის კლონირება
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 ახლა მოახდინეთ რეპოზიტორიის კლონირება თქვენს კომპიუტერზე. შედით თქვენს ანგარიშზე, ნახეთ ამ რეპოზიტორიის განშტოება, გახსენით ის და დააჭირეთ ჯერ `clone` ღილაკს, ხოლო შემდეგ *copy to clipboard*.
 
@@ -33,7 +33,7 @@ git clone "url you just copied"
 ```
 სადაც "url you just copied" (ბრჭყალების გარეშე) არის თქვენი რეპოზიტორიის მისამართი. მისამართის მისაღებად მიჰყევით წინა ნაბიჯს.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 მაგალითად:
 ```
@@ -60,7 +60,7 @@ git checkout -b add-alonzo-church
 
 გახსენით `Contributors.md` ფაილი ტექსტურ რედაქტორში და სიაში დაამატეთ თქვენი სახელი. ამის შემდეგ შეინახეთ ფაილი.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 თუ გადახვალთ პროექტის დირექტორიაში და გაუშვებთ ბრძანებას - `git status`, თქვენ დაინახავთ ცვლილებებს.
@@ -90,11 +90,11 @@ git push origin <add-your-branch-name>
 
 თუ თქვენ ნახავთ თქვენს რეპოზიტორიას Github-ზე, დაინახავთ `Compare & pull request` ღილაკს. დააჭირეთ ამ ღილაკს
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 ახლა დაამოწმეთ თქვენი pull request
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 მალე მე განვახორციელებ თქვენი ცვლილებების შერწყმას პროექტის master შტოსთან. ამის შესახებ თქვენ მოგივათ შეტყობინება ელექტრონულ ფოსტაზე.
 
