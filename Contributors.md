@@ -28,6 +28,7 @@ Srinivas Pudu
 - Marc Lim (https://github.com/Maws1991)
 - [Hicham Moro](https://github.com/Hicham95)
 - [Beyarkay](https://github.com/beyarkay)
+- [Teddy Otieno](https://github.com/teddyotieno)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
