@@ -997,6 +997,7 @@ Conor Shields (https://github.com/cshields236)
 - Katherine Liuser
 - lmidy
 - [sjiang647](https://github.com/sjiang647)
+- [Avi Katz] (https://github.com/katzaz10)
 - [Olessia Potapova](https://github.com/olessiap)
 - [Inguss Anosovs](https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
