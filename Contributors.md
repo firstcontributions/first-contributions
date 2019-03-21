@@ -153,6 +153,7 @@ Just Testing @Kanak Sharma
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
 - [Thomas Esteves]
+- [Beraat Aldemir] (https://github.com/baldemir)
 - [Tyrion Lannister]
 - [cryingcavecat]
 - [Vincent Raymond](https://github.com/vincentraymond1995)
