@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
@@ -179,6 +179,7 @@ Just Testing @Kanak Sharma
 - [Sule Alp] (https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
+- [Chris Yee]
 - [Xuan Zhang]
 - [Matteo Briani](https://github.com/matteo-briani)
 - [Nick Wilkie]
