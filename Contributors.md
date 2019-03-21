@@ -41,6 +41,7 @@ Srinivas Pudu
 - [Gaayan Verma] (https://github.com/GaayanVerma)
   [Joshua Kim] (https://github.com/joshualaj)
 - [csdali13] (https://github.com/csdali13)
+- [Diksha Verma] (https://github.com/zenithexpo)
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana] (https://github.com/nicoleiocana)
