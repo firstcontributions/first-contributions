@@ -12993,9 +12993,11 @@ Afolayan Tunde
 -[Vidit Jain] (https://github.com/viditjain5598)
 -zhaoweiwei
 -ELIOR8900
+-amar
 -[Nathan Huh] (https://github.com/AmberLlama81)
 -[NUX:PR](https://github.com/nuxpr)
 -[Przemysław Pierzchałka](https://github.com/Websited/)
 -[Tom](https://github.com/PsiPhiTheta)
 -[Santeri](https://github.com/sQnteri)
 -david
+
