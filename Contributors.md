@@ -8299,6 +8299,7 @@ Conor Shields (https://github.com/cshields236)
 - [Sonali Aggarwal](https://github.com/sonaliagg02)
 - Techdread
 - [Natalie Poon](https://github.com/nataliezpoon)
+- [Thimal Wickremage](https://github.com/ThimalW)
 - [Frank Delaguila](https://github.com/franky212)
 - [Carl Y](https://github.com/TyroneSmith1)
 - [Louis Sanchez](https://github.com/Ls777)
