@@ -192,6 +192,7 @@ Just Testing @Kanak Sharma
 - [Madhav Vij](https://github.com/MadhavVij)
 - [Anupama G](https://github.com/Anu-Mer)
 - [Aashish S](https://github.com/aashishsonawane)
+- [Arthur Villar](https://github.com/tato-rj)
 - [Akshay Patil](https://github.com/ImAkPatil)
 - [jyo]
 - [0xEcho](https://github.com/0xecho)
