@@ -11713,6 +11713,7 @@ Taylor Burrington
 - [keRLos](https://github.com/kerlos)
 - [Joey Z](https://github.com/joeyz)
 - [Tristan Payne](https://github.com/aka-tpayne)
+- [Stan Davidov](https://github.com/standavidov)
 - [Igor Guastalla de Lima](https://github.com/guastallaigor)
 - [Madhuri Gubbala](https://github.com/madzzie)
 - [Rafael Gerônimo](https://github.com/rafaelgeronimo)
