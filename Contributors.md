@@ -177,6 +177,7 @@ Just Testing @Kanak Sharma
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Xuan Zhang]
+- [Matteo Briani](https://github.com/matteo-briani)
 - [Nick Wilkie]
 - [nquane](https://github.com/nquane)
 - [Ariel Bereslavsky](https://github.com/ScarWar)
