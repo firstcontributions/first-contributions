@@ -31,6 +31,7 @@ Srinivas Pudu
 - Tad Tarnawski (https://github.com/tad815)
 - Marc Lim (https://github.com/Maws1991)
 - [Hicham Moro](https://github.com/Hicham95)
+- [Mohamed EL HOSAYNY](https://github.com/elhosayny)
 - [Beyarkay](https://github.com/beyarkay)
 - [Teddy Otieno](https://github.com/teddyotieno)
 - [Gaurav Karum](https://github.com/gaurav-karum)
