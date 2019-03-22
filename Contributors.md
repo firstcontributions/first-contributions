@@ -5,6 +5,7 @@
 - Ritu S
 - Gourav J
 - [Seungjin Jung](https://github.com/sjjung)
+- [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
