@@ -3,6 +3,7 @@
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
 - Gourav J
+- [Seungjin Jung](https://github.com/sjjung)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
@@ -63,7 +64,7 @@ Srinivas Pudu
 - Robert
 - [Daniel Sameh] (https://github.com/DanielSameh)
 - [Shruthi Babu] (https://github.com/Shruthi-Babu)
-  [Carlos Peña] I(https://github.com/cerl0z)
+  [Carlos Peña] (https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
