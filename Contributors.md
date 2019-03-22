@@ -30,6 +30,7 @@ Srinivas Pudu
 - Jesse Kanter (https://github.com/JesseKanter)
 - Tad Tarnawski (https://github.com/tad815)
 - Marc Lim (https://github.com/Maws1991)
+- [Marielle Cunanan](https://github.com/rosemarielle)
 - [Hicham Moro](https://github.com/Hicham95)
 - [Mohamed EL HOSAYNY](https://github.com/elhosayny)
 - [Beyarkay](https://github.com/beyarkay)
