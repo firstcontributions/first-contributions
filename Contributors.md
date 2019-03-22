@@ -1,6 +1,7 @@
 # Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
+- Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
 - Gourav J
 - [Seungjin Jung](https://github.com/sjjung)
