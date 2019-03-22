@@ -166,6 +166,7 @@ Just Testing @Kanak Sharma
 - [Beraat Aldemir] (https://github.com/baldemir)
 - [Tyrion Lannister]
 - [cryingcavecat]
+- [NathanaelS] (https://github.com/NathanaelS)
 - [Vincent Raymond](https://github.com/vincentraymond1995)
 - [Craig Oldfield](https://github.com/CraigOldfield)
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
