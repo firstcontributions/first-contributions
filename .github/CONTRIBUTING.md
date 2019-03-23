@@ -1,4 +1,4 @@
-# Contribution guide
+﻿# Contribution guide
 
 We appreciate your thought to contribute to open source. :heart:
 
@@ -418,6 +418,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/kurshakuz">kurshakuz</a>
+        </td>
+	<td>
+            <a href="https://github.com/kurshakuz">maxi orellana</a>
         </td>
     </tr>
  </table>
