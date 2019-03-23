@@ -158,6 +158,7 @@ Just Testing @Kanak Sharma
 - [Celsuss] (https://github.com/Celsuss)
 - [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
+- [Felipe Merino]
 - [Vincent]
 - [Neville] (https://github.com/nevilleomangi)
 - [Ahmed Talaat] (https://github.com/ahmdtalaat)
