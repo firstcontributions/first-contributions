@@ -13033,3 +13033,4 @@ Afolayan Tunde
 [Jesrapo](https://github.com/jesrapo)
 [Dmitriy Makarov](https://github.com/dmxich)
 [Moayad  Badawi] (https://github.com/moayad-badawi)
+[Adam Stolarczyk](https://github.com/apm30)
