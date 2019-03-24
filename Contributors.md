@@ -15,6 +15,7 @@
 - [James Randolph](https://github.com/james-randolph-50)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Ratin Kumar] (https://github.com/DumbMachine)
+- Kent T
 - [vbertazzo] (https://github.com/vbertazzo)
 - [ravi] (https://github.com/ravichalla)
 - [Ming Yong](https://github.com/ming-yong)
