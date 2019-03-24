@@ -4,7 +4,8 @@
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
 - Gourav J
-- [Jon Korte] (https://github.com/Werewoof) 
+- [Jon Korte] (https://github.com/Werewoof)
+- [Razvan Sandu] (https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
