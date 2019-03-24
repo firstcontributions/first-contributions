@@ -240,6 +240,7 @@ Just Testing @Kanak Sharma
 - [superluke](https://github.com/superluke)
 [zackattackz](https://github.com/zackattackz)
 Conor Shields (https://github.com/cshields236)
+- oskarito
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
