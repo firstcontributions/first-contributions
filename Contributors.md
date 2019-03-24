@@ -18,6 +18,7 @@
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Ratin Kumar] (https://github.com/DumbMachine)
 - Kent T
+- [Anuja Kelkar] (https://github.com/anuja-kelkar)
 -[Jatin Taneja] (https://github.com/jatintaneja90)
 - [vbertazzo] (https://github.com/vbertazzo)
 - [ravi] (https://github.com/ravichalla)
