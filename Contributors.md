@@ -1,9 +1,10 @@
-# Contributors
+﻿# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
 - Gourav J
+- Jason E
 - [Jon Korte] (https://github.com/Werewoof)
 - [Razvan Sandu] (https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
