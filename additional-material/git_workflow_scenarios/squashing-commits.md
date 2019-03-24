@@ -61,7 +61,7 @@ pick blablabla2 Adding dummy01.txt file
 # Note that empty commits are commented out
 ```
 
-So if you want to squash ```blablabla2``` into ```blablablabla```, you would change the following :
+So if you want to squash ```blablabla2``` into ```blablabla```, you would change the following :
 
 ```
 pick blablabla Changing test01.txt file
