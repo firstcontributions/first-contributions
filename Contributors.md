@@ -1505,6 +1505,7 @@ Conor Shields (https://github.com/cshields236)
 - [MartijnPold](https://github.com/martijnpold)
 - [Rounak Saha](https://github.com/rounak1288)
 - [Maggie Bauer](https://github.com/maggiebauer)
+- [Marc Marquez](https://github.com/marc-marquez)
 - julio-garcia-fc
 - Skooma Den
 - wefromstars
