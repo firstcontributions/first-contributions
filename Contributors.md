@@ -1,8 +1,12 @@
 # Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
+- Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
 - Gourav J
+- [Jon Korte] (https://github.com/Werewoof) 
+- [Seungjin Jung](https://github.com/sjjung)
+- [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
@@ -49,6 +53,7 @@ Srinivas Pudu
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana] (https://github.com/nicoleiocana)
 - [Victoria Hobbs] (https://github.com/vlhobbs)
+- [Andrew Hsieh] (https://github.com/ahsieh31)
 - [Blake Barton] (https://github.com/blake-barton)
 - [Arun Krishna P R] (https://github.com/arunkrishna2992)
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
@@ -61,15 +66,17 @@ Srinivas Pudu
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - Robert
+- [Christopher Bradford](https://github.com/sunkencity999)
 - [Daniel Sameh] (https://github.com/DanielSameh)
 - [Shruthi Babu] (https://github.com/Shruthi-Babu)
-  [Carlos Peña] I(https://github.com/cerl0z)
+  [Carlos Peña] (https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
+- [Carsen Rapp](https://github.com/carsenrapp)
 - [Paul Cz](https://github.com/pcz3)
 - [Huseyin Karaarslan](https://github.com/huskar20)
 - [Maruf] (https:github.com/whoismaruf)
@@ -152,6 +159,7 @@ Just Testing @Kanak Sharma
 - [Celsuss] (https://github.com/Celsuss)
 - [Daniel Ferragut] (https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
+- [Felipe Merino]
 - [Vincent]
 - [Neville] (https://github.com/nevilleomangi)
 - [Ahmed Talaat] (https://github.com/ahmdtalaat)
@@ -165,6 +173,7 @@ Just Testing @Kanak Sharma
 - [Beraat Aldemir] (https://github.com/baldemir)
 - [Tyrion Lannister]
 - [cryingcavecat]
+- [NathanaelS] (https://github.com/NathanaelS)
 - [Vincent Raymond](https://github.com/vincentraymond1995)
 - [Craig Oldfield](https://github.com/CraigOldfield)
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
@@ -291,6 +300,7 @@ Conor Shields (https://github.com/cshields236)
 - [ethompso28](https://github.com/ethompso28)
 - [Noah Furman](https://github.com/OrbOrigin)
 - [Jack Westmore](https://github.com/mrmikardo)
+- [Mat Herron](https://github.com/tinntinnabulate78)
 - [Changhyuk Lee](https://github.com/devchlee)
 - [Keith Ward](https://github.com/skyware)
 - [Tevy](https://github.com/Tevychhy)
@@ -12870,6 +12880,7 @@ Taylor Burrington
 - [Ayush Bhatnagar](https://github.com/Ayush-Bhatnagar)
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
+- [Rafael Rubia] (https://github.com/rafaelrubia)
 - [Hassan Tasleem](https://github.com/hass321)
 - [Steven Jiang](https://github.com/xiangj1)
 - [Tim Albert](https://github.com/talbert1209)
@@ -13024,3 +13035,4 @@ Afolayan Tunde
 [Dmitriy Makarov](https://github.com/dmxich)
 [Moayad  Badawi] (https://github.com/moayad-badawi)
 [Aniruddha Agarwal] (https://github.com/ANIBIT14)
+[Adam Stolarczyk](https://github.com/apm30)
