@@ -78,6 +78,7 @@ Srinivas Pudu
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
+Francisco Rivas
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Carsen Rapp](https://github.com/carsenrapp)
