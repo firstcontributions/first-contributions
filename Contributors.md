@@ -65,6 +65,7 @@ Srinivas Pudu
 - [Jeremy Reed](https://github.com/jeremymreed)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
+- [Lucas Lopes] (https://github.com/thuraam)
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
