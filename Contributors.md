@@ -33,6 +33,7 @@
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
 - [Jacques Benzakein] (https://github.com/helloITdepartment)
+- [Akalanka Weerasooriya] (https://github.com/aawgit)
 - [Ujjwal Kumar Jha] (https://github.com/kashyapit18)
   [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - Gilbert Mwimba
