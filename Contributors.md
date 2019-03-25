@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
@@ -23,6 +23,7 @@
 -[Jatin Taneja] (https://github.com/jatintaneja90)
 - [vbertazzo] (https://github.com/vbertazzo)
 - [ravi] (https://github.com/ravichalla)
+-[Bo andre]
 - [Ming Yong](https://github.com/ming-yong)
 - [MingRongXi] (https: // github.com/MintRongXi)
 - [Plamen Mitev] (https://github.com/o0pmitev)
