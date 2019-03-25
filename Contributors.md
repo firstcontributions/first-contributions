@@ -9,6 +9,7 @@
 - [Jon Korte] (https://github.com/Werewoof)
 - [Razvan Sandu] (https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
+- [Jatin Varlyani](https://github.com/Jatin-8898)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - [Raul Dutta] (https://github.com/duttar18)
