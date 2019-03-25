@@ -5,6 +5,7 @@
 - Ritu S
 - Gourav J
 - Jason E
+- [Brian Linkletter](https://github.com/blinklet)
 - [Jon Korte] (https://github.com/Werewoof)
 - [Razvan Sandu] (https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
