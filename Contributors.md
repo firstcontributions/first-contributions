@@ -6,6 +6,7 @@
 - Ritu S
 - Gourav J
 - Jason E
+- [Mike Ferrete](https://github.com/mcfrr3)
 - [Brian Linkletter](https://github.com/blinklet)
 - [Jon Korte] (https://github.com/Werewoof)
 - [Razvan Sandu] (https://github.com/SKREFI)
