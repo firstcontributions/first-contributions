@@ -8818,6 +8818,7 @@ Conor Shields (https://github.com/cshields236)
 - [Wuerfelbruder](https://github.com/Wuerfelbruder)
 - [Chak Tang](https://github.com/chak89)
   Mayank Bansal
+- [Grégoire Eugène] (https://github.com/igormacgregor)
 - [Gustav Byberg](https://github.com/gubyb)
 - [Dhrubo Hasan](https://github.com/dhrubo55)
 - [Michael Sullivan](https://github.com/gitChimp88)
