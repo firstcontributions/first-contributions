@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
@@ -19,6 +19,7 @@
   [MDaams] (https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
   [Theos1](https://github.com/Theos17)
+- [Julitra](https://github.com/julitra/)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
 - [Jacques Benzakein] (https://github.com/helloITdepartment)
