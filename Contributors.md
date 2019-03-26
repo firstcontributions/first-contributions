@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Gouzal Larbi (https://github.com/gouzal)
 - Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
@@ -15,6 +15,7 @@
 - [Jatin Varlyani](https://github.com/Jatin-8898)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
+- Jian
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
