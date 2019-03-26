@@ -6,6 +6,7 @@
 - Ritu S
 - Gourav J
 - Jason E
+- [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
 - [Mike Ferrete](https://github.com/mcfrr3)
 - [Brian Linkletter](https://github.com/blinklet)
