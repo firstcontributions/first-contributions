@@ -168,6 +168,7 @@ Just Testing @Kanak Sharma
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [ananas] (https://github.com/ananas99)
 - [Andrew Park](https://github.com/AndrewPark9517)
+- [Dillon Rolnick](https://github.com/drolnick95)
 - [Kevin O]
 - [Ahmed Mohamed](https://github.com/AM-Alsherpiny)
 - [Anubis Lockward] (https://github.com/mr2much)
