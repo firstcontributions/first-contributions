@@ -29,6 +29,7 @@
 - [vbertazzo] (https://github.com/vbertazzo)
 - [ravi] (https://github.com/ravichalla)
 -[Bo andre]
+[MuditJ] (https://github.com/MuditJ)
 - [Ming Yong](https://github.com/ming-yong)
 - [MingRongXi] (https: // github.com/MintRongXi)
 - [Plamen Mitev] (https://github.com/o0pmitev)
