@@ -13076,3 +13076,4 @@ Afolayan Tunde
 - [Bassem - NextGLabs](https://github.com/nextglabs)
 - [Raghid Elewa] (https://github.com/relewa)
 - [Saullo Carvalho](https://github.com/saullocarvalho)
+- [Darshan Patidar](https://github.com/darshanpatidar1)
