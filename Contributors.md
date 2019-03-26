@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Gouzal Larbi (https://github.com/gouzal)
 - Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
@@ -124,6 +124,7 @@ Srinivas Pudu
   [Michaelhm]
 - [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
+- [Raunak Gopal]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
 - Andrej
