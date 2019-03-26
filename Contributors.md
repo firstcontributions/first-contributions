@@ -31,6 +31,7 @@
 - [Ming Yong](https://github.com/ming-yong)
 - [MingRongXi] (https: // github.com/MintRongXi)
 - [Plamen Mitev] (https://github.com/o0pmitev)
+- [Paul Walsh] (https://github.com/zus2)
   [MDaams] (https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
   [Theos1](https://github.com/Theos17)
