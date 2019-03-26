@@ -1,5 +1,6 @@
 # Contributors
-  Suki Sahota (https://github.com/suki-sahota)
+- Gouzal Larbi (https://github.com/gouzal)
+- Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
