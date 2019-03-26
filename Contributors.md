@@ -37,6 +37,7 @@ Srinivas Pudu
 - [Ishank Goel](https://github.com/ishankgoel)
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
+- [Kersh]
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
   [Joshua Kim] (https://github.com/joshualaj)
