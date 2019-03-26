@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 - Gouzal Larbi (https://github.com/gouzal)
+- Amanda Lee (https://github.com/ALee4428)
 - Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
