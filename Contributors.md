@@ -67,6 +67,7 @@ Srinivas Pudu
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
 - [Kersh]
+  Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
   [Joshua Kim] (https://github.com/joshualaj)
