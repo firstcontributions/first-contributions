@@ -18,6 +18,7 @@
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - Jian
+- Christina Luna (https://github.com/christinaluna)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
