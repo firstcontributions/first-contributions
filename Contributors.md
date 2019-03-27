@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
 - Suki Sahota (https://github.com/suki-sahota)
@@ -12987,6 +12987,7 @@ Taylor Burrington
 - [Martin Zamarski](https://github.com/momom88)
 - [Ayush Khandelwal](https://github.com/thegaribguy)
 - [Rocky Liao](https://github.com/SeemsRocky)
+- [Saylee Pradhan] (https://github.com/sayleepradhan)
 - [Mohamed Shiha](https://github.com/MohamedShiha)
 - [Raul Valdez](https://gitub.com/raulvaldez4)
 - [elgaspar](https://github.com/elgaspar)
