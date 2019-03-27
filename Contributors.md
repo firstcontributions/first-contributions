@@ -270,6 +270,7 @@ Just Testing @Kanak Sharma
 - [Gaege Root](https://github.com/GaegeRoot)
 - [André Botha]
 -  Colin Shen1
+- Emil Diculescu
 -Juan Pablo
 - [superluke](https://github.com/superluke)
 [zackattackz](https://github.com/zackattackz)
