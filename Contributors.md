@@ -11503,6 +11503,7 @@ Taylor Burrington
 - [Jenwit](https://github.com/jenwit)
 - [Pratyum Jagan](https://github.com/Pratyum)
 - [daniel michaels](https://github.com/danielmichaels)
+- [Christopher Kim](https://github.com/chrisms91)
 - [Leticia Fatima Andretta](https://github.com/leticiafatimaa)
 - [Nick Slaven](https://github.com/nslaven22)
 - [Sharma Harsh](https://github.com/97harsh)
