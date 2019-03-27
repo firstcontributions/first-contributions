@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
@@ -13090,4 +13090,5 @@ Afolayan Tunde
 - [Saullo Carvalho](https://github.com/saullocarvalho)
 - [Darshan Patidar](https://github.com/darshanpatidar1)
 - [Rai Santosh](https://github.com/Gitsanto)
+- [Lionel Voirol](https://github.com/lionelvoirol)
 [Foris Tale](https://github.com/ForisTale)
