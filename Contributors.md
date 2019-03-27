@@ -114,6 +114,7 @@ Srinivas Pudu
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
+- [Paulo Zacarias] (https://github.com/paulo-zacarias)
 - [matmatomate] (https://github.com/matmatomate/first-contributions)
 - [george_g]
 - [OrestisV]
