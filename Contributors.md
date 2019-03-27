@@ -136,6 +136,7 @@ Srinivas Pudu
 - [jpgmoreira]
 - Andrej
 - [VO Van Nghia] (https://github.com/codelyoko2409)
+- [Mark Craig](https://github.com/tartangeek)
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
 - [Tayler Kaneko](https://github.com/taylerkaneko)
