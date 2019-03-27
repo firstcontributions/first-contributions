@@ -4756,6 +4756,7 @@ Conor Shields (https://github.com/cshields236)
 - [Dom Samphier](https://github.com/wildgeodude)
 - [Camilo A](https://github.com/CamiloAvelar)
 - [Dalton H](https://github.com/daltonherriman76)
+- [clinton H] 
 - [Toby Chow](https://github.com/tobychow)
 - [Daniel Koch](https://github.com/dkprog)
 - [Laurence](https://github.com/multitudes)
