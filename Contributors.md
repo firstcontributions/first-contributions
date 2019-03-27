@@ -23,6 +23,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - Jian
+-Abdelkader Lagha
 - Christina Luna (https://github.com/christinaluna)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
