@@ -6,6 +6,7 @@
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - Ritu S
+- Billel Bmsd
 - Kartofelen (https://github.com/Kartofelen)
 - Clinton Hilary D'silva (https://github.com/Clinton-dsilva-milearth)
 - Gourav J
