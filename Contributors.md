@@ -13090,3 +13090,4 @@ Afolayan Tunde
 - [Saullo Carvalho](https://github.com/saullocarvalho)
 - [Darshan Patidar](https://github.com/darshanpatidar1)
 - [Rai Santosh](https://github.com/Gitsanto)
+[Foris Tale](https://github.com/ForisTale)
