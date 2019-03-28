@@ -10499,6 +10499,7 @@ Taylor Burrington
 - [William Willden](https://github.com/lights-a5)
 - [Anatoly Buchatsky](https://github.com/scaredChatsky)
 - [Mykola Maistrenko](https://github.com/MaistrNCo)
+- [Nelly Baz](https://github.com/nellybaz)
 - [Donald Guy](https://github.com/donaldguy22)
 - [dimitrisz123](https://github.com/dimitrisz123)
 - [Rafael Pereira Dias](https://github.com/thelol-br)
