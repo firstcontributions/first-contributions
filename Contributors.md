@@ -1111,6 +1111,7 @@ Conor Shields (https://github.com/cshields236)
 - Pragyan Mehrotra
 - [Fabio Cardenas](https://github.com/fcarden)
 - Cedric David
+[Anirwin Yekkala]
 - It'sMe
 - [Alec Staszewski](https://github.com/astaszew)
 - [Max Pershin](https://github.com/MaxPershin)
