@@ -190,6 +190,7 @@ Just Testing @Kanak Sharma
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [ananas] (https://github.com/ananas99)
+- [Dmitry Kalyukov](https://github.com/dmitrykalyukov)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Dillon Rolnick](https://github.com/drolnick95)
 - [Kevin O]
