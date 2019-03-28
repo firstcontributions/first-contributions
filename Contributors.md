@@ -637,6 +637,7 @@ Conor Shields (https://github.com/cshields236)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
 -	[Nour Kilany](https://github.com/nourkilany)
 - [Fase](https://github.com/fasesx)
+- Kst
 - [Rajdeep Pal](https://github.com/rajdeep-pal)
 - [Wilbert Caine](https://github.com/wcaine)
 - [Mickey Mouse](https://github.com/chinchinme)
