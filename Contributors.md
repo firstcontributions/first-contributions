@@ -23,6 +23,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - Jian
+- [Evan Bailey] (https://github.com/Spacetime02)
 -Abdelkader Lagha
 - Christina Luna (https://github.com/christinaluna)
 - [Raul Dutta] (https://github.com/duttar18)
