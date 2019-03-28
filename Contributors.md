@@ -122,6 +122,7 @@ Srinivas Pudu
 - [trysh]
 - [Paulo Zacarias] (https://github.com/paulo-zacarias)
 - [matmatomate] (https://github.com/matmatomate/first-contributions)
+- [Ebere Uzodufa](https://github.com/EbereUzodufa)
 - [george_g]
 - [OrestisV]
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
