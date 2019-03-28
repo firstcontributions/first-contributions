@@ -96,6 +96,7 @@ Srinivas Pudu
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
 - [matmatomate] (https://github.com/matmatomate/first-contributions)
+- [Ebere Uzodufa](https://github.com/EbereUzodufa)
 - [george_g]
 - [OrestisV]
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
