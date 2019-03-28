@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
@@ -4033,6 +4033,7 @@ Conor Shields (https://github.com/cshields236)
 - [Cedric Bonaudo](https://github.com/cbonaudo)
 - [Guillermo Bondonno](https://github.com/GuillermoBondonno)
 - [Adam Watts](https://github.com/AdamWatts)
+- [Kristina Nemzer](https://github.com/kerennem)
 - [Haytham Hakim](https://github.com/haithamhakim)
 - [Adi Ben-Porat Givati](https://github.com/adibpg)
 - [Kostas Vasileiadis](https://github.com/konsvasi)
