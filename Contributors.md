@@ -26,6 +26,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Evan Bailey] (https://github.com/Spacetime02)
 -Abdelkader Lagha
 - Christina Luna (https://github.com/christinaluna)
+- Ashwani (https://github.com/ashwani12131)
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
