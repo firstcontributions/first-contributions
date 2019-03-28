@@ -5,6 +5,7 @@
 - Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
+- [Ashikur Rashid Khan] (https://github.com/ARK17)
 - Ritu S
 - Billel Bmsd
 Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
