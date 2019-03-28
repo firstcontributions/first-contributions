@@ -101,6 +101,7 @@ Srinivas Pudu
 - [Brian Cimmino] (https://github.com/cimminob)
 - [Mario Codes](https://github.com/MarioCodes)
 - [Jeremy Reed](https://github.com/jeremymreed)
+- [Jazz Jones](https://github.com/twiggytwixter)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
 - [Lucas Lopes] (https://github.com/thuraam)
