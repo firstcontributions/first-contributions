@@ -198,6 +198,7 @@ Just Testing @Kanak Sharma
 - [Ixax Tavarez](https://github.com/ixaxtav)
 - [Anurag Gupta](https://github.com/Anuraaag)
 - [Kevin Nguyen](https://github.com/ktrieun)
+- [Jonathan Seubert](https://github.com/finisher1017)
 - [ananas] (https://github.com/ananas99)
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Dillon Rolnick](https://github.com/drolnick95)
