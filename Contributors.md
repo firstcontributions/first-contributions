@@ -3,6 +3,7 @@
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
+- Hetian Liu (https://github.com/EricLiu96)
 - Perez Ogayo (https://github.com/Pogayo)
 - Tong Li (https://github.com/TongLiGithub)
 - Gouzal Larbi (https://github.com/gouzal)
