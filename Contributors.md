@@ -27,6 +27,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Razvan Sandu] (https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
 - [Jatin Varlyani](https://github.com/Jatin-8898)
+- [Kelly Finnerty](https://github.com/kellyfinnerty)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan] (https://github.com/KannanAK)
 - Jian
