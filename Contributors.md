@@ -12190,6 +12190,7 @@ Taylor Burrington
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 - [Muhammad Usman](https://github.com/itkidunya)
 - [Tuseef Ahmad](https://github.com/tuseefahmad)
+- [Sepideh Azarnoosh](https://github.com/sepidazar)
 - [Rohit Ramname](https://github.com/rramname)
 - [alihassan](https://github.com/alihassan35404)
 - [Daniel Ayaz](https://github.com/DanielAyaz)
