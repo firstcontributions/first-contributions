@@ -1,4 +1,5 @@
 # Contributors
+- [Jayant Kapila] (https://github.com/kapilajayant)
 - [Tarun Raheja] (https://github.com/tehruhn)
 - [Daniel Bezerra] (https://github.com/danielsbezerra)
 - [Fuad Rustamzade] (https://github.com/Funtikl)
