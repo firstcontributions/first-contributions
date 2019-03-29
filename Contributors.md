@@ -950,6 +950,7 @@ Conor Shields (https://github.com/cshields236)
 - [Adam Gibson](https://github.com/adamgibs)
 - [Christofer Chan](https://github.com/genghischan)
 - [Chris DeSilva](https://github.com/chrisdesilva/)
+- Finn
 - [Stephen Stone](https://github.com/sstone2423)
 - [Muhammed Sami](https://github.com/MuhammedSami)
 - [Elin Fritiofsson](https://github.com/eli6)
