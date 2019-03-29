@@ -12489,6 +12489,7 @@ Taylor Burrington
 - [Subasree Arvind](https://github.com/SubasreeArvind)
 - [Alyona Owlyona](https://github.com/startonmonday)
 - [Lucas Araújo Rodrigues de Lima](https://github.com/lucasarj)
+- [Aqeel Anas](https://github.com/Unrealaq)
 - [Mostafa Gamal](https://github.com/MostafaGamal)
 - [Max Wendel](https://github.com/Max-Wendel-UFC)
 - [Vitor Campos Ferreira Pinto](https://github.com/vcamferreira)
