@@ -5902,6 +5902,7 @@ Conor Shields (https://github.com/cshields236)
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Krati Mittal](https://github.com/krati13)
+- [Turakainen](https://github.com/Turakainen)
 - [Kaisma Penn-Titley](https://github.com/bviengineer)
 - [Marianne Hval](https://github.com/mahval)
 - [Krati Mittal](https://github.com/krati13)
@@ -13141,3 +13142,4 @@ Afolayan Tunde
 -[Foris Tale](https://github.com/ForisTale)
 -[Petar Trbos](https://github.com/Petar-T)
 -[Ildarov](https://github.com/Devit951)
+
