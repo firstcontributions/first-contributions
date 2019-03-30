@@ -55,6 +55,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 -[Bo andre]
 [MuditJ] (https://github.com/MuditJ)
 - [Kayode Atobatele] (https://github.com/atobatele)
+- [Narlok3] (https://github.com/Narlok3)
 - [Ming Yong](https://github.com/ming-yong)
 - [Christy Jacob] (https://github.com/christyjacob4)
 - [MingRongXi] (https: // github.com/MintRongXi)
