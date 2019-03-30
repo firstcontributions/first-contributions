@@ -47,6 +47,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Ratin Kumar] (https://github.com/DumbMachine)
 - Kent T
 - Nikhil
+- Humaid Imran Kidwai(https://github.com/atjustbeinghumaid)
 - [Anuja Kelkar] (https://github.com/anuja-kelkar)
 -[Jatin Taneja] (https://github.com/jatintaneja90)
 - [vbertazzo] (https://github.com/vbertazzo)
