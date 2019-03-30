@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
@@ -13134,4 +13134,5 @@ Afolayan Tunde
 - [Lionel Voirol](https://github.com/lionelvoirol)
 -[Foris Tale](https://github.com/ForisTale)
 -[Petar Trbos](https://github.com/Petar-T)
+-[Ildarov](https://github.com/Devit951)
 -[Taehoon Kang](https://github.com/kangthink)
