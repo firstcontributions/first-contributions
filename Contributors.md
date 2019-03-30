@@ -21,6 +21,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Clinton Hilary D'silva (https://github.com/Clinton-dsilva-milearth)
 - Gourav J
 - Jason E
+- Ananya Gupta
 - [Sandip Guchait](https://github.com/sandipguchait)
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
