@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
@@ -13098,6 +13098,7 @@ Kritika b
 -[Neel] (https://github.com/spiyer99)
 -rodolfo dantas 
 -[Tigran Harutyunyan](https://github.com/caboose008)
+-[Jakub Banasik](https://github.com/jakubbanasik)
 -[João Batista](https://github.com/JBDionisio)
 -[Sam Matthews](https://github.com/FiendySam/)
 -[Alec Bartley](https://github.com/tabbartley/)
