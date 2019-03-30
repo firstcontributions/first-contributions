@@ -13,6 +13,8 @@
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - [Ferran Sulaiman] (https://github.com/ferran9908)
 - [Ashikur Rashid Khan] (https://github.com/ARK17)
+-[Bobby Nicholson]
+(https://github.com/SelfTaughtCoder78704)
 -peterson oaikhenah (https://github.com/nextwebb)
 - Ritu S
 - Billel Bmsd
