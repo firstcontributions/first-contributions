@@ -13083,6 +13083,7 @@ Taylor Burrington
 - [Rishabh Jain](https://github.com/jainrish)
 Kritika b
 - [Teresa Ingram](https://github.com/malteserteresa)
+- [Ricardo Mondini](https://github.com/mondini)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
 - [Milos Kostic] (https://github.com/misa2)
