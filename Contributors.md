@@ -274,6 +274,7 @@ Just Testing @Kanak Sharma
 - [Arthur Villar](https://github.com/tato-rj)
 - [Akshay Patil](https://github.com/ImAkPatil)
 - [jyo]
+- [Ben Ashley]
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
 - [Calum Ludwig](https://github.com/CalumLudwig)
