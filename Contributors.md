@@ -3405,6 +3405,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jcovln](https://github.com/Jcovln)
 - Ryan
 - Kelvin
+- [Amar Kvakic](https://github.com/Quaca) 
 - [Trevor Fisher](http://github.com/minalear)
 - [Christian Montes De Oca](https://github.com/Siegeprogrammer)
 - [Ilham Taufiq](https://github.com/ilhamtaufiq)
