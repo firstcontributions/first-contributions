@@ -10286,6 +10286,7 @@ Taylor Burrington
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Jeffy](https://github.com/jeffysam6)
 - [Liran Mery](https://github.com/liranm)
+- [hillariee](https://github.com/hillariee)
 - [Steve Core](https:github.com/CorattiS86)
 - [Sergiu Ilciuc](https://github.com/SergiuIlciuc)
 - [Carrie Morris](https://github.com/Antephus/)
