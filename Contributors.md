@@ -16,6 +16,7 @@
 - [Ferran Sulaiman] (https://github.com/ferran9908)
 - [Ashikur Rashid Khan] (https://github.com/ARK17)
 -peterson oaikhenah (https://github.com/nextwebb)
+- Kyle B
 - Ritu S
 - Billel Bmsd
 -Ilkiv petro
