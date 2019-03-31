@@ -841,6 +841,7 @@ Conor Shields (https://github.com/cshields236)
 - [Satvik Dev](https://github.com/kivtas)
 - [Jan Wright](https://github.com/janwright73)
 - Lir Segev
+- [Alec Goldberg](https://github.com/Alecg956)
 - [Red Loste](https://github.com/redloste)
 - [Evan Ho](https://github.com/evanho9)
 - [Shashank Mishra](https://github.com/lousyidiot)
