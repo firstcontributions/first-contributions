@@ -26,6 +26,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Gourav J
 - Jason E
 - Ananya Gupta
+- [Vajean Stan] (https://github.com/vajean)
 - [Sandip Guchait](https://github.com/sandipguchait)
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
