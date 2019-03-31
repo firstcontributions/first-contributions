@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
@@ -288,6 +288,7 @@ Just Testing @Kanak Sharma
 - [Nitish Sharma](https://github.com/nitnk9)
 - [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
+
 - [Yotam Ben Dosa](https://github.com/ytmhub)
 - [Gercian Gabriels](https://github.com/gerciang)
 - [Dion Saputra](https://github.com/dionsaputra)
@@ -912,6 +913,7 @@ Conor Shields (https://github.com/cshields236)
 - [Monisha Kadappu](https://github.com/monishakadappu1)
 - Sunrafan
 - Nhampy
+
 - AdityaB
 - [Pankaj Kaushik](https://github.com/PankajKaushik78)
 - Ritwik M
@@ -1920,6 +1922,7 @@ Conor Shields (https://github.com/cshields236)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [DB](https://github.com/dhyeyb04)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
+
 - [kyler](https://github.com/kyler-swanson)
 - [wsjan](https://github.com/wsjan)
 - [Mohammad Aziz](https://github.com/iAziz786)
@@ -2059,6 +2062,7 @@ Conor Shields (https://github.com/cshields236)
 - [saman K.](https://github.com/sndruek)
 - [Sandalu](https://github.com/sandalu)
 - [Akhilesh Devrari](https://github.com/akhileshdevrari)
+
 - [codeeachday](https://github.com/codeeachday)
 - [nic from van](https://github.com/nicohouillon)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
@@ -4033,6 +4037,7 @@ Conor Shields (https://github.com/cshields236)
 - [Oscar](https://github.com/glasspinnA)
 - [Madhu Murthy](https://github.com/madhumurthy16)
 - [Rickard Lundberg](https://github.com/deerel)
+
 - [Miroslav Pillar](https://github.com/Dromediansk)
 - [Vinay Kotwal](https://github.com/SORM00)
 - [Ted W](https://github.com/tlwillke)
@@ -4953,6 +4958,7 @@ Conor Shields (https://github.com/cshields236)
 - [VeraButler](https://github.com/VeraButler)
 - [felzan](https://github.com/felzan)
 - [Srinivas K](https://github.com/srnvsk)
+
 - [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sachin Mohla](https://github.com/sac24)
@@ -5629,6 +5635,7 @@ Conor Shields (https://github.com/cshields236)
 - [Denis Kajgorodov](https://github.com/terracott)
 - [David Jung](https://github.com/sungwonida)
 - [Paolo Manca](https://github.com/piemme)
+
 - [Sheila Gomes](https://github.com/sheilagomes)
 - [Garden Snake](https://github.com/GardenSnake)
 - [Daniele Di Lucido](https://github.com/DanieleDiLucido)
@@ -6644,6 +6651,7 @@ Conor Shields (https://github.com/cshields236)
 - [Sayon Nayek](https://github.com/sayonanyek1)
 - [Arkadip Ghosh](https://github.com/arkadip10)
 - [Ekam Walia](https://github.com/EkamWalia)
+
 - [Brad Baguyo](https://github.com/bradrar/)
 - [R Burd](https://github.com/rjburdish)
 - [Robson Cruz](https://github.com/deadpyxel)
@@ -7827,6 +7835,7 @@ Conor Shields (https://github.com/cshields236)
 - [Michael Manges](https://github.com/mkmanges)
 - [jake](https://github.com/jakedn)
 - [Glenn Morrow](https://github.com/GlennGlenGlenn)
+
 - [Francesco Scalise](https://github.com/ciccioska)
 - [Michael Khalil](https://github.com/mike13k)
 - [Tenzin Singhay Bhotia](https://github.com/10-zin)
@@ -7911,6 +7920,7 @@ Conor Shields (https://github.com/cshields236)
 - [Nikhil Babu](https://github.com/Nikhil713)
 - [Mateusz Hamerla](https://github.com/CrownClownX)
 - [Gianne Esteban](https://github.com/gialauren)
+
 - [tcdsv](https://github.com/tcdsv)
 - [Peter Robitaille](https://github.com/pwrobitaille)
 - [Mark M](https://github.com/markm248)
@@ -10118,6 +10128,7 @@ Taylor Burrington
 - [Daniela Muniz](https://github.com/danielamuniz367)
 - [Alisa Levin](https://github.com/alisalevin)
 - [Prince Carter](https://github.com/PrinceCarter)
+
 - [lwk](https://github.com/wk32)
 - [Jessica Bujazia](https://github.com/jessijean)
 - [Srinath](https://github.com/srinath9721)
@@ -10287,6 +10298,7 @@ Taylor Burrington
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Jeffy](https://github.com/jeffysam6)
 - [Liran Mery](https://github.com/liranm)
+
 - [hillariee](https://github.com/hillariee)
 - [Steve Core](https:github.com/CorattiS86)
 - [Sergiu Ilciuc](https://github.com/SergiuIlciuc)
@@ -13145,3 +13157,4 @@ Afolayan Tunde
 -[Foris Tale](https://github.com/ForisTale)
 -[Petar Trbos](https://github.com/Petar-T)
 -[Ildarov](https://github.com/Devit951)
+- [Mathew Horner](https://github.com/mdx97/)
