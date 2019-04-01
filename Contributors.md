@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Adrian Escalona (https://github.com/DriesCode)
 - [Koop Codes] (https://github.com/koopcodes/)
@@ -168,6 +168,7 @@ Srinivas Pudu
   [Michaelhm]
 - [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
+- [Ravshan Artykov]
 - [Raunak Gopal]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
