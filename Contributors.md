@@ -25,6 +25,7 @@
 - [Ryan Marion]
 - [nomope] (https://github.com/nomope)
 - [gholi]
+- [LModenaxe]
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
