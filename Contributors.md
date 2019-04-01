@@ -59,6 +59,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Ratin Kumar] (https://github.com/DumbMachine)
 - Kent T
 - Nikhil
+- [Matthew Hadfield] (https://github.com/matthadfield) 
 - [Kevin Beyers] (https://github.com/KevinBeyers) 
 - [Anuja Kelkar] (https://github.com/anuja-kelkar)
 -[Jatin Taneja] (https://github.com/jatintaneja90)
