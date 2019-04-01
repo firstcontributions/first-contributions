@@ -172,6 +172,7 @@ Srinivas Pudu
 - [Raunak Gopal]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
+- Shawn Potter
 - Andrej
 - [VO Van Nghia] (https://github.com/codelyoko2409)
 - [Mark Craig](https://github.com/tartangeek)
