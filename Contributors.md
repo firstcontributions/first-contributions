@@ -13086,6 +13086,7 @@ Taylor Burrington
 - [Chris Li](https://github.com/VandyChris)
 - [Seongmin Choi] (https://github.com/sseongmi/)
 - [Nikita Milovanov] (https://github.com/nwnebel)
+- [Bernard Kacprzak] (https://github.com/Bernard-code)
 - [Alessandro Munufie] (https://github.com/alexmunu)
 - [EricWang](https://github.com/bigbigDreamer)
 - [Ranjana]
