@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Adrian Escalona (https://github.com/DriesCode)
 - [Koop Codes] (https://github.com/koopcodes/)
@@ -43,6 +43,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Jian
 - [Evan Bailey] (https://github.com/Spacetime02)
 -Abdelkader Lagha
+- [Monty Britton] (https://github.com/MontyBr)
 - Christina Luna (https://github.com/christinaluna)
 - Ashwani (https://github.com/ashwani12131)
 - [Raul Dutta] (https://github.com/duttar18)
