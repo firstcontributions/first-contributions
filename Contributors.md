@@ -168,6 +168,7 @@ Srinivas Pudu
   [Michaelhm]
 - [Long Nguyen] (https://github.com/longnguyen2306)
 - [Tony Lopez]
+- [Shayna Broughman]
 - [Raunak Gopal]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
