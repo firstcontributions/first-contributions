@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Adrian Escalona (https://github.com/DriesCode)
 - [Koop Codes] (https://github.com/koopcodes/)
@@ -4253,6 +4253,7 @@ Conor Shields (https://github.com/cshields236)
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
 - [Dafny Garcia](https://github./daphnemillss)
+- Connor Kosmorsky (https://github.com/Kosmorsky)
 - [Finn J-S](https://github.com/finnjs1)
 - [Hayward Harris](https://github.com/Huey88)
 - [Milos Stanojevic](https://github.com/IndoMisa)
