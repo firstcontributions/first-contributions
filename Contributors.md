@@ -25,6 +25,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Kartofelen (https://github.com/Kartofelen)
 - Clinton Hilary D'silva (https://github.com/Clinton-dsilva-milearth)
 - Gourav J
+- Niklavs Katlaps
 - Jason E
 - Ananya Gupta
 - [Anushank Varshney] (https://github.com/anushank-av)
