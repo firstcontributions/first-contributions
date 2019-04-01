@@ -17,6 +17,7 @@
 - [Ashikur Rashid Khan] (https://github.com/ARK17)
 -peterson oaikhenah (https://github.com/nextwebb)
 - Rohit Retnakaran (https://github.com/rohit16794)
+- Raymond Ng (https://github.com/RaymondNg0054)
 - Kyle B
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
