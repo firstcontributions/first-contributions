@@ -21,6 +21,7 @@
 - Kyle B
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
+- Max G
 - Billel Bmsd
 -Ilkiv petro
 - [Milena Monteiro](https://github.com/milenamonteiro)
