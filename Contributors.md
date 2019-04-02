@@ -12990,7 +12990,7 @@ Taylor Burrington
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet] (https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
-Kritika b
+- Kritika b
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
@@ -13003,35 +13003,36 @@ Kritika b
 - [Ashok Kumar](https://github.com/ashokkumar)
 - [Onn Tai Yong](https://github.com/yongot)
 - [Cinthia Barros](https://github.com/barroscinthia)
--[William Duvall](https://github.com/duvallwh)
--[Neel] (https://github.com/spiyer99)
--rodolfo dantas 
--[Tigran Harutyunyan](https://github.com/caboose008)
--[João Batista](https://github.com/JBDionisio)
--[Sam Matthews](https://github.com/FiendySam/)
--[Alec Bartley](https://github.com/tabbartley/)
--[Michael Zhao](https://github.com/michael-zhao)
--[Shiv]
--[Raul Ropero](https://github.com/codigoespagueti)
--[fmi]
-Afolayan Tunde
--[Maosheng Tang](https://github.com/mshtang)
--[Alexandru Săndulescu] (https://github.com/alexsandulescu)
--[hongwen000]
--[Dominika Malinowska] (https://github.com/doma1991)
--[Liz Burton] (https://github.com/lizbur10)
--Varghese T Mathew
--[Vidit Jain] (https://github.com/viditjain5598)
--zhaoweiwei
--ELIOR8900
--[Nathan Huh] (https://github.com/AmberLlama81)
--[NUX:PR](https://github.com/nuxpr)
--[Przemysław Pierzchałka](https://github.com/Websited/)
--[Tom](https://github.com/PsiPhiTheta)
--[Santeri](https://github.com/sQnteri)
--TripleAsterick
--david
-[Jesrapo](https://github.com/jesrapo)
-[Dmitriy Makarov](https://github.com/dmxich)
-[Moayad  Badawi] (https://github.com/moayad-badawi)
-[Adam Stolarczyk](https://github.com/apm30)
+- [William Duvall](https://github.com/duvallwh)
+- [Neel] (https://github.com/spiyer99)
+- rodolfo dantas 
+- [Tigran Harutyunyan](https://github.com/caboose008)
+- [João Batista](https://github.com/JBDionisio)
+- [Sam Matthews](https://github.com/FiendySam/)
+- Alec Bartley](https://github.com/tabbartley/)
+- [Michael Zhao](https://github.com/michael-zhao)
+- [Shiv]
+- [Raul Ropero](https://github.com/codigoespagueti)
+- [fmi]
+- Afolayan Tunde
+- [Maosheng Tang](https://github.com/mshtang)
+- [Alexandru Săndulescu] (https://github.com/alexsandulescu)
+- [hongwen000]
+- [Dominika Malinowska] (https://github.com/doma1991)
+- [Liz Burton] (https://github.com/lizbur10)
+- Varghese T Mathew
+- [Vidit Jain] (https://github.com/viditjain5598)
+- zhaoweiwei
+- ELIOR8900
+- [Nathan Huh] (https://github.com/AmberLlama81)
+- [NUX:PR](https://github.com/nuxpr)
+- [Przemysław Pierzchałka](https://github.com/Websited/)
+- [Tom](https://github.com/PsiPhiTheta)
+- [Santeri](https://github.com/sQnteri)
+- TripleAsterick
+- david
+- [Jesrapo](https://github.com/jesrapo)
+- [Dmitriy Makarov](https://github.com/dmxich)
+- [Moayad  Badawi] (https://github.com/moayad-badawi)
+- [Adam Stolarczyk](https://github.com/apm30)
+- [James Alexander](https://github.com/jalexanderbryant)
