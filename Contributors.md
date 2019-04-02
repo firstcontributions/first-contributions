@@ -23,6 +23,7 @@
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
 - Max G
+- Alex Mably (https://github.com/amably)
 - Billel Bmsd
 -Ilkiv petro
 Trevor Trinity-Rees
