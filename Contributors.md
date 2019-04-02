@@ -18,6 +18,7 @@
 -peterson oaikhenah (https://github.com/nextwebb)
 - Kyle B
 - Ritu S
+- Max G
 - Billel Bmsd
 -Ilkiv petro
 - [Milena Monteiro](https://github.com/milenamonteiro)
