@@ -1,4 +1,5 @@
-﻿# Contributors
+﻿
+# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - Adrian Escalona (https://github.com/DriesCode)
@@ -38,6 +39,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
+- Donat Imeri (https://github.com/donat-imeri)
 - Ananya Gupta
 - [Anushank Varshney] (https://github.com/anushank-av)
 - [Vajean Stan] (https://github.com/vajean)
