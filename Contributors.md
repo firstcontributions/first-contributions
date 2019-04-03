@@ -935,6 +935,7 @@ Conor Shields (https://github.com/cshields236)
 - [Joshua Fitzgerald](https://github.com/lopeetall)
 - [Jorge Alçada](https://github.com/jfalcada)
 - [Chris Nathan](https://github.com/clapstar)
+- [Nareth Marchvenmey](https://github.com/mw112)
 - [Yash Rathod](https://github.com/yashrt)
 - [Monisha Kadappu](https://github.com/monishakadappu1)
 - Sunrafan
