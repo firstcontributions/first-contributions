@@ -358,6 +358,7 @@ Conor Shields (https://github.com/cshields236)
 - AnoldYogi
 - kuhiga
 - goop
+- Manoj
 - [metalinux91](https://github.com/metalinux91)
 - Marian
 - [Dasha](https://github.com/ya-ya-it)
