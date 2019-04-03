@@ -122,6 +122,7 @@ Srinivas Pudu
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana] (https://github.com/nicoleiocana)
+- [Chef Gromboli] (https://github.com/Chef-Gromboli)
 - [Victoria Hobbs] (https://github.com/vlhobbs)
 - [Andrew Hsieh] (https://github.com/ahsieh31)
 - [Blake Barton] (https://github.com/blake-barton)
