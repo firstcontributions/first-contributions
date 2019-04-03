@@ -25,6 +25,7 @@
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
 - Max G
+- Shilpa Patwary(https://github.com/shilpapatwary)
 - Alex Mably (https://github.com/amably)
 - Billel Bmsd
 -Ilkiv petro
