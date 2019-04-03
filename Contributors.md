@@ -695,6 +695,7 @@ Conor Shields (https://github.com/cshields236)
 - [Jim Zhou](https://github.com/jimzhou112)
 - [Haitham Hammami](https://github.com/hm-haitham)
 - [Joshua Arabia](https://github.com/arabiajosh)
+- [Ephraim Githinji](https://github.com/Ephygtz "open source enthusiast")
 - Vineet Baj
 - E H
 - [Anirudh B](https://github.com/paplio)
