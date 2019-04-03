@@ -10303,6 +10303,7 @@ Taylor Burrington
 - [bkapp15](https://github.com/bkapp15)
 - [Blaine Cantrell](https://github.com/Whatchamazog)
 - [Rajiv Sharma](https://github.com/Rajivts)
+- [Marcellus Spears](https://github.com/plaidpizazz)
 - [Hunter Davis](https://github.com/junkyardjameson)
 - [suvojit-0x55aa](https://github.com/shin-migami)
 - [Jona Reyes](https://github.com/rookie-cookie)
