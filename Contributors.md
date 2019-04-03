@@ -9,6 +9,7 @@
 - Tong Li (https://github.com/TongLiGithub)
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
+- Marlin dalPozzo (https://github.com/mdalpozzo)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
