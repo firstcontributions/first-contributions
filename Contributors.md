@@ -13150,6 +13150,7 @@ Kritika b
 -[Jakub Banasik](https://github.com/jakubbanasik)
 -[João Batista](https://github.com/JBDionisio)
 -[Sam Matthews](https://github.com/FiendySam/)
+-[Ricardo Torres (https://github.com/ricardotorres89)]
 -[Alec Bartley](https://github.com/tabbartley/)
 -[Michael Zhao](https://github.com/michael-zhao)
 -[Shiv]
