@@ -13198,3 +13198,4 @@ Afolayan Tunde
 -[Ryan Oliveira](https://github.com/Ryoliveira)
 [Przemek Orechwa](https://https://github.com/PrzeOr82)
 [Oliver Fenn](https://github.com/OliverFenn)
+-Emerick Bodéré
