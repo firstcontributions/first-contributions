@@ -550,6 +550,7 @@ Conor Shields (https://github.com/cshields236)
 - [Bibek Gautam](https://github.com/bibek22)
 -[Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
+- [Thiago Machado](https://github.com/thisantm)
 - Eswar
 -[Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
