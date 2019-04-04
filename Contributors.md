@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
@@ -12698,6 +12698,7 @@ Conor Shields (https://github.com/cshields236)
 - [Dalton Maahs](https://github.com/dmaahs2017)
 - [Kim Sangyeon](https://github.com/kimsangyeon)
 - [Chris Walters](https://github.com/Chriswalt64)
+- [Rebecca Poon](https://github.com/RebeccaPoon)
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [Jorge Gabitto](https://github.com/jgabitto)
 - [Monish Khambhati](https://github.com/moni2096)
@@ -12857,6 +12858,7 @@ Conor Shields (https://github.com/cshields236)
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet] (https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
+
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
@@ -12871,3 +12873,4 @@ Conor Shields (https://github.com/cshields236)
 -rodolfo dantas 
 -[Tigran Harutyunyan](https://github.com/caboose008)
 -[João Batista](https://github.com/JBDionisio)
+
