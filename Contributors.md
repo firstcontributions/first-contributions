@@ -12858,7 +12858,6 @@ Conor Shields (https://github.com/cshields236)
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet] (https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
-
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [codesquadkiki](https://github.com/codesquadkiki/)
 - [gullibility](https://github.com/gullibility/)
