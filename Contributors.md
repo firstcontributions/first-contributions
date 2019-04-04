@@ -123,6 +123,7 @@ Srinivas Pudu
 - [csdali13] (https://github.com/csdali13)
 - [Diksha Verma] (https://github.com/zenithexpo)
 - [unprosaic] (https://github.com/unprosaic)
+- [Matthew Dodi](https://github.com/MatthewDodi)
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana] (https://github.com/nicoleiocana)
 - [Chef Gromboli] (https://github.com/Chef-Gromboli)
