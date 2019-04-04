@@ -1486,6 +1486,7 @@ Conor Shields (https://github.com/cshields236)
 - [Attol8] (https://github.com/Attol8)
 - [Ayush Goyal](https://github.com/ayushg162)
 - [DipakYDV](https://github.com/DeepakYDV/)
+- [Derek Park] (https://github.com/derekpark1616)
 - Ivan Ivanov
 - [paulambanks](https://github.com/paulambanks/)
 - [CoryWritesCode](https://github.com/CoryWritesCode)
