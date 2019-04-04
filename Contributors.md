@@ -110,6 +110,7 @@ Srinivas Pudu
 - [Mohamed EL HOSAYNY](https://github.com/elhosayny)
 - [Beyarkay](https://github.com/beyarkay)
 - [Teddy Otieno](https://github.com/teddyotieno)
+- [Abhinav Gupta](https://github.com/iitrabhi)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Ishank Goel](https://github.com/ishankgoel)
