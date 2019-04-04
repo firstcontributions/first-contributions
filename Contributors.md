@@ -30,6 +30,7 @@
 - Alex Mably (https://github.com/amably)
 - Billel Bmsd
 -Ilkiv petro
+-Gabriel Corona
 Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
 Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
