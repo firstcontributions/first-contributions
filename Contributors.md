@@ -68,6 +68,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [James Randolph](https://github.com/james-randolph-50)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
+- Tami Davies (https://github.com/TamiMcInnis)
 - [Ratin Kumar] (https://github.com/DumbMachine)
 - Kent T
 - Nikhil
