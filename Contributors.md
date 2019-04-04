@@ -12791,6 +12791,7 @@ Taylor Burrington
 - [expert-geeks](https://github.com/expert-geeks)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
+- [Allister Bernal](https://github.com/ageebc137)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
@@ -13211,3 +13212,4 @@ Afolayan Tunde
 [Zanoni Contreras](https://github.com/zamboni86)
 [Łukasz Pasek](https://github.com/lukaszpasek)
 -Matt Z
+
