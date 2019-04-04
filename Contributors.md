@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - Adrian Escalona (https://github.com/DriesCode)
@@ -26,6 +26,7 @@
 - Kyle B
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
+- Cmorph1
 - Max G
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - Alex Mably (https://github.com/amably)
