@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Christian Mason (https://github.com/ChristianMMason)
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
@@ -20,6 +20,7 @@
 - Marlin dalPozzo (https://github.com/mdalpozzo)
 - Homercrates (https://github.com/homercrates)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
+- David An
 - Suki Sahota (https://github.com/suki-sahota)
 - Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Aashish Rathi (https://github.com/aashishrathi)
