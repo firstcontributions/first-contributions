@@ -3014,6 +3014,7 @@ Conor Shields (https://github.com/cshields236)
 - [Agustin Avila](https://github.com/elchetosn)
 - Till Favier
 - [Pascal Ulor](https://github.com/PascalUlor)
+- [Pascal Ulor](https://github.com/PascalUlor)
 - [Lenora Porter](https://github.com/lenoraporter)
 - [Chuck Underwood](https://github.com/chillieguy)
 - [Gaurav Pandey](https://github.com/gauravpandey1998)
