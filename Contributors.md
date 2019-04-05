@@ -6,6 +6,7 @@
 - Adrian Escalona (https://github.com/DriesCode)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
+- [Zwilling](http://github.com/magnetar1997)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
