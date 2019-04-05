@@ -1314,6 +1314,7 @@ Conor Shields (https://github.com/cshields236)
 - [Vinod Reddy](https://github.com/ivnod)
 - [Nigel Dalziel](https://github.com/dalziel)
 - Diego Mañas
+- Keegan D'Souza
 - [LARHDIR Nadir](https://github.com/itschittybang)
 - [ROUGE Jacques](https://github.com/jacquesrouge)
 - Kanish Anand
