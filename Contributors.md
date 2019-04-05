@@ -1,4 +1,5 @@
 ﻿# Contributors
+- William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - Adrian Escalona (https://github.com/DriesCode)
