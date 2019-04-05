@@ -47,6 +47,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
+- John Daniel
 - Ananya Gupta
 - [Anushank Varshney] (https://github.com/anushank-av)
 - [Vajean Stan] (https://github.com/vajean)
