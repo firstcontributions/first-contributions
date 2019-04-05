@@ -31,6 +31,7 @@
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
 - Cmorph1
+- Jannes E
 - Max G
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - Alex Mably (https://github.com/amably)
