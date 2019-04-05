@@ -12,6 +12,7 @@
 - Hetian Liu (https://github.com/EricLiu96)
 - Perez Ogayo (https://github.com/Pogayo)
 - Tong Li (https://github.com/TongLiGithub)
+- Rodrigo Nader (https://github.com/rodrigosnader)
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
 - [Claudio de Oliveira Almeida Junior](https://github.com/Kirizuro)
