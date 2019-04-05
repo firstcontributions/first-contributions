@@ -39,6 +39,7 @@
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - Alex Mably (https://github.com/amably)
 - Billel Bmsd
+-Diana Du
 -Ilkiv petro
 -Gabriel Corona
 Trevor Trinity-Rees
