@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Christian Mason (https://github.com/ChristianMMason)
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
