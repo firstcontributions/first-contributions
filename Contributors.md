@@ -198,6 +198,7 @@ Srinivas Pudu
 - [jpgmoreira]
 - Shawn Potter
 - Andrej
+- Johnny
 - [VO Van Nghia] (https://github.com/codelyoko2409)
 - [Mark Craig](https://github.com/tartangeek)
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
