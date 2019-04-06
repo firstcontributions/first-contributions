@@ -13046,6 +13046,7 @@ Taylor Burrington
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
 - [Rafael Rubia] (https://github.com/rafaelrubia)
+- [Vishal Gole] (https://github.com/golevishal)
 - [Hassan Tasleem](https://github.com/hass321)
 - [Steven Jiang](https://github.com/xiangj1)
 - [Tim Albert](https://github.com/talbert1209)
