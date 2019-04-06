@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Harsh Khandelwal(https://github.com/because-i-m-batman)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
