@@ -13185,6 +13185,7 @@ Kritika b
 -[Alec Bartley](https://github.com/tabbartley/)
 -[Michael Zhao](https://github.com/michael-zhao)
 -[Shiv]
+-[Washington Añasco](https://github.com/Washio1995)
 -[Raul Ropero](https://github.com/codigoespagueti)
 -[fmi]
 Afolayan Tunde
