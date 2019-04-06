@@ -9476,6 +9476,7 @@ Taylor Burrington
 - [Gaurav Mitra](https://github.com/gauravcse)
 - [William Conway](https://github.com/wilc0n)
 - [ed-lev](https://github.com/EduardLev)
+- [Zoe Romo](https://github.com/ZoeRomo)
 - [Trshant](https://github.com/Trshant)
 - [Nathasha Naranpanawa](https://github.com/nathasha-naranpanawa)
 - [Brett Goldfine](https://github.com/brettzg)
