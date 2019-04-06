@@ -105,6 +105,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
   [Theos1](https://github.com/Theos17)
   GitMoonHub
 - Vallabh
+- Lee Hearn (https://github.com/leehearn)
 - [Julitra](https://github.com/julitra/)
   [Robert Bohn] (https://github.com/RobertBohn)
   [Jack Corley] (https://github.com/Jdcorley)
