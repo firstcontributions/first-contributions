@@ -10,6 +10,7 @@
 - [Chris Jangl](https://github.com/chrisjangl/)
 - [Zwilling](http://github.com/magnetar1997)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
+- Jack Burton (https://github.com/Saltey/)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
 - Perez Ogayo (https://github.com/Pogayo)
