@@ -1898,6 +1898,7 @@ Conor Shields (https://github.com/cshields236)
 - [JaredCotton](https://github.com/JACC-Creations)
 - [ChristopherCarr](https://github.com/christocarr)
 - Gabriel Z.
+- [Yi-Ting, Hsieh](https://github.com/masonhsieh)
 - [Santiago Mas](https://github.com/GRsni)
 - [nualluan](https://github.com/naulluan)
 - [Mayank Kanoria](https://github.com/mkanoria)
