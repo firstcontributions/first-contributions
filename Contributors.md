@@ -14,6 +14,7 @@
 - Perez Ogayo (https://github.com/Pogayo)
 - Tong Li (https://github.com/TongLiGithub)
 - Rodrigo Nader (https://github.com/rodrigosnader)
+- Uchenna Sylvester Okoro (https://github.com/UcheSylvester)
 - Gouzal Larbi (https://github.com/gouzal)
 - Amanda Lee (https://github.com/ALee4428)
 - [Claudio de Oliveira Almeida Junior](https://github.com/Kirizuro)
