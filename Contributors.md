@@ -123,6 +123,7 @@ Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
 Srinivas Pudu
 - Weita XD
 - Jesse Kanter (https://github.com/JesseKanter)
+- Kriss K. (https://github.com/Egg-Wizard)
 - Tad Tarnawski (https://github.com/tad815)
 - Marc Lim (https://github.com/Maws1991)
 - Will Dempsey (https://github.com/wdempsey96)
