@@ -85,7 +85,6 @@ Assicurati di essere nella tua repository su GitHub, dove al posto di `<il-tuo-n
 
 <img style="float: right;" src="../assets/go-to-your-repository.png" alt="make sure it's your repository" />
 
-
 Vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
