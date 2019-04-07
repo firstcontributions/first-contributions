@@ -540,6 +540,7 @@ Conor Shields (https://github.com/cshields236)
 - Nathan Jones
 - Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
+- [Adam Hicks](https://github.com/snowshoehiker)
 - [Greg Slonina](https://github.com/theMugician)
 = Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
