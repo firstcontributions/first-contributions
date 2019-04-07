@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Christian Mason (https://github.com/ChristianMMason)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
@@ -37,6 +37,7 @@
 - Varun Mehrotra (https://github.com/VarunMehrotra)
 - Kyle B
 - [Hamlet Villa](https://github.com/hamletv)
+- Chris Burns (https://github.com/cburns1331)
 - Ritu S
 - Cmorph1
 - Jannes E
