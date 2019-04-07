@@ -12,7 +12,7 @@ Leggere articoli e guardare tutorial può essere utile, ma cosa c'è di meglio c
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Se non hai git sul tuo computer, [ installalo ]( https://help.github.com/articles/set-up-git/ ).
+Se non hai git sul tuo computer, [installalo](https://help.github.com/articles/set-up-git/).
 
 ## Forka questa repository
 
@@ -81,7 +81,12 @@ sostituendo `<aggiungi-il-tuo-nome>` con il nome del branch creato prima.
 
 ## Invia i tuoi cambiamenti per una revisione
 
-Se vai nella tua repository su GitHub, vedrai il pusante  `Compare & pull request`.  Cliccalo.
+Assicurati di essere nella tua repository su GitHub, dove al posto di `<il-tuo-nome-utente>` c'è il tuo nome.
+
+<img style="float: right;" src="../assets/go-to-your-repository.png" alt="make sure it's your repository" />
+
+
+Vedrai il pusante  `Compare & pull request`.  Cliccalo.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
