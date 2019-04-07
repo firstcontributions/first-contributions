@@ -39,7 +39,7 @@
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
 - Cmorph1
-- [Tucker Mark] https://github.com/el-chamaco
+- Tucker Mark
 - Jannes E
 - Max G
 - Shilpa Patwary(https://github.com/shilpapatwary)
