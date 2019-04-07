@@ -50,6 +50,7 @@
 -Diana Du
 -Ilkiv petro
 -Gabriel Corona
+- Harry Le
 Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
 Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
