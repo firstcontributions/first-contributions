@@ -212,24 +212,25 @@ Srinivas Pudu
 - [Zack]
 - [gholi]
 - [jonli]
-- [Mohamed Ramadan] (https://github.com/SwdConsultant)
+- [Lenmuel V. Del Rosario]
+- [Mohamed Ramadan](https://github.com/SwdConsultant)
 - [ravingnomad]
 - [Aparna Agarwal]
-- [Manish Namdeo] (https://github.com/ExpertBrainGroup)
+- [Manish Namdeo](https://github.com/ExpertBrainGroup)
 - [Vivek Singh Rathore]
-- [Andrew Ziye Zhang] (https://github.com/andrewzhang3)
+- [Andrew Ziye Zhang](https://github.com/andrewzhang3)
 - [Deep Pathak]
   [Michaelhm]
-- [Long Nguyen] (https://github.com/longnguyen2306)
+- [Long Nguyen](https://github.com/longnguyen2306)
 - [Tony Lopez]
 - [Shayna Broughman]
 - [Raunak Gopal]
-- [Akshay Pandit] (https://github.com/panditakshay)
+- [Akshay Pandit](https://github.com/panditakshay)
 - [jpgmoreira]
 - Shawn Potter
 - Andrej
 - Johnny
-- [VO Van Nghia] (https://github.com/codelyoko2409)
+- [VO Van Nghia](https://github.com/codelyoko2409)
 - [Mark Craig](https://github.com/tartangeek)
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
