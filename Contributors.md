@@ -18,6 +18,7 @@
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
 - Perez Ogayo (https://github.com/Pogayo)
+- Hamdun Mohammed (https://github.com/Hamoha/)
 - Tong Li (https://github.com/TongLiGithub)
 - Rodrigo Nader (https://github.com/rodrigosnader)
 - Uchenna Sylvester Okoro (https://github.com/UcheSylvester)
