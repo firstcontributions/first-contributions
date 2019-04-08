@@ -13262,6 +13262,7 @@ Afolayan Tunde
 [Łukasz Pasek](https://github.com/lukaszpasek)
 -Matt Z
 -Aleksi Maunu :O
+- Werner Krauth (<https://github.com/WernerKrauth/>)
 - Lee Wei Gen (<https://github.com/weigenie/>)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 -[R F](https://github.com/kubr2017)
