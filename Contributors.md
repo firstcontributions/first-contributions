@@ -83,7 +83,7 @@ Srinivas Pudu
 - [Zack]
 - [gholi]
 - [jonli]
-- [Lenmuel V. Del Rosario] (https://github.com/lvdlrs)
+- [Lenmuel V. Del Rosario]
 - [ravingnomad]
 - [Aparna Agarwal]
 - [Manish Namdeo] (https://github.com/ExpertBrainGroup)
