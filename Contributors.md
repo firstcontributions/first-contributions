@@ -10,6 +10,7 @@
 - rpturan
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
+- bakuzan (https://github.com/bakuzan)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
 - [Zwilling](http://github.com/magnetar1997)
