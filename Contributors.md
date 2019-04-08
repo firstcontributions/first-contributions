@@ -29,6 +29,7 @@
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - David An
 - Suki Sahota (https://github.com/suki-sahota)
+- Maurice Castro (https://github.com/Teeny-Sanguini)
 - Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
