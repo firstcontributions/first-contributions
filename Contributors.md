@@ -8,6 +8,7 @@
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - rpturan
+- Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
 - bakuzan (https://github.com/bakuzan)
