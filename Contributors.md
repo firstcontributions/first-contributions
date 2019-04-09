@@ -8,6 +8,7 @@
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- Maceo Lewis (https://github.com/maceocodes)
 - rpturan
 - Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
