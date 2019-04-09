@@ -13278,3 +13278,4 @@ Afolayan Tunde
 - Lee Wei Gen (<https://github.com/weigenie/>)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 -[R F](https://github.com/kubr2017)
+- [Pedro Machado](https://github.com/phmachado/)
