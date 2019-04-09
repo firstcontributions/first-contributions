@@ -7,6 +7,7 @@
 - Robert
 - [trysh]
 - [creep1g] (https://github.com/creep1g)
+-[Bianca Avila](https://github.com/bavilari93)
 - [Kaustubh Joshi] 
 - [Ryan Marion]
 - [gholi]
