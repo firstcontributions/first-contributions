@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Christian Mason (https://github.com/ChristianMMason)
@@ -6,6 +6,7 @@
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
+- Jacqueline Alves Barbosa (https://github.com/jacquealvesb)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - Maceo Lewis (https://github.com/maceocodes)
