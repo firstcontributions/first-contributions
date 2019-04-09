@@ -151,6 +151,7 @@ Srinivas Pudu
 - [Abhinav Gupta](https://github.com/iitrabhi)
 - [Gaurav Karum](https://github.com/gaurav-karum)
 - [Brad Palmer](https://github.com/Digetal)
+- [Vaibhav](https://github.com/adred8)
 - [Ishank Goel](https://github.com/ishankgoel)
 - [Milos Rancic](https://github.com/milosrancic)
 - [David Gallivan](https://github.com/davidgallivan23)
