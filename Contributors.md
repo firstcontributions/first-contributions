@@ -39,6 +39,7 @@
 - Homercrates (https://github.com/homercrates)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - David An
+- Ankita Chowdhry
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
 - Simranjit Kaur (https://github.com/SimranjitKaurMaan)
