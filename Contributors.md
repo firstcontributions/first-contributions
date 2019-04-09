@@ -1091,6 +1091,7 @@ Conor Shields (https://github.com/cshields236)
 - [Armando Alvear](https://github.com/ArmandoAlvear23/)
 - [Paul Briar](https://github.com/paulbriar)
 - [inti7ary](https://github.com/inti7ary)
+- [Duc Vu](https://github.com/korando)
 - [Connor Johnson](https://github.com/obeserocket)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - Priyanka Walunj
