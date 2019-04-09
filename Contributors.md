@@ -9,6 +9,7 @@
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- Gabriela Holanda (https://github.com/badeca)
 - Maceo Lewis (https://github.com/maceocodes)
 - rpturan
 - Eden Savitt (https://github.com/edens21)
