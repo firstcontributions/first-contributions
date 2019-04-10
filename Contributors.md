@@ -27,6 +27,7 @@
 - Spencer Peace
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
+- Akash Singh (https://github.com/akashs4)
 - Perez Ogayo (https://github.com/Pogayo)
 - Hamdun Mohammed (https://github.com/Hamoha/)
 - Guy Shaibi
