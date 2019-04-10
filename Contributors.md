@@ -23,6 +23,7 @@
 - Raymond Ng (https://github.com/RaymondNg0054)
 - Varun Mehrotra (https://github.com/VarunMehrotra)
 - Kyle B
+- Michael Lekhmus (https://github.com/mlekhmus)
 - [Hamlet Villa](https://github.com/hamletv)
 - Ritu S
 - Max G
