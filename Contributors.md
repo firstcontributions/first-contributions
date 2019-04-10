@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jeseph Roseles (https://github.com/bitinzealot)
 - Kevin Andres (https://github.com/KevinKAMS)
 - GabrielCortizo ()
@@ -7888,6 +7888,7 @@ Conor Shields (https://github.com/cshields236)
 - [Alja? ?krinjar](https://github.com/aljazskrinjar)
 - [Matteo Pipitone](https://github.com/crakdelpol)
 - [Jared Parker](https://github.com/VIISilver)
+- [Andy Risser](https://github.com/arisser)
 - [Qudus Yekeen](https://github.com/udus97)
 - [David Curtis](https://github.com/dcurtis303)
 - [Joi Whitmore](https://github.com/myrajoi)
