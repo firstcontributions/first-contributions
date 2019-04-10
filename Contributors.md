@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jeseph Roseles (https://github.com/bitinzealot)
 - Kevin Andres (https://github.com/KevinKAMS)
 - GabrielCortizo ()
@@ -7,6 +7,7 @@
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
+- Gavin Hoang
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
