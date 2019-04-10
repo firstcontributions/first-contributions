@@ -24,6 +24,7 @@
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Chris Jangl](https://github.com/chrisjangl/)
 - [Zwilling](http://github.com/magnetar1997)
+- [Zein Hajj-Ali](https://github.com/ZeinHajjAli)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
