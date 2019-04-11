@@ -1,11 +1,12 @@
-﻿# Contributors
+# Contributors
+
 - goodgrieff
-- Jeseph Roseles (https://github.com/bitinzealot)
-- Bradley Cavendish (https://github.com/bradcav)
-- Kevin Andres (https://github.com/KevinKAMS)
+- [Jeseph Roseles](https://github.com/bitinzealot)
+- [Bradley Cavendish](https://github.com/bradcav)
+- [Kevin Andres](https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
-- GabrielCortizo ()
-- Nick Renaud (https://github.com/NickRenaud74)
+- [GabrielCortizo]()
+- [Nick Renaud](https://github.com/NickRenaud74)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
@@ -17,6 +18,7 @@
 - shivanis22 (https://github.com/shivanis22)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
+- Jacqueline Alves Barbosa (https://github.com/jacquealvesb)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - Vinayak Sharma
