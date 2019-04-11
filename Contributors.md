@@ -34,6 +34,7 @@
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
+- Molly Johnson
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
 - Akash Singh (https://github.com/akashs4)
