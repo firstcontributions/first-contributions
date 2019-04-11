@@ -31,6 +31,7 @@
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
 - bakuzan (https://github.com/bakuzan)
+- Bryce Harmsen (https://github.com/bryceharmsen)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Thomas Weaver] (https://github.com/tweavs/)
 - [Chris Jangl](https://github.com/chrisjangl/)
