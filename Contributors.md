@@ -1,6 +1,7 @@
 ﻿# Contributors
 - goodgrieff
 - Jeseph Roseles (https://github.com/bitinzealot)
+- Bradley Cavendish (https://github.com/bradcav)
 - Kevin Andres (https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
 - GabrielCortizo ()
