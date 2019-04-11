@@ -17,6 +17,7 @@
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- Vinayak Sharma
 - Luiz H. Alves (https://github.com/lhalvesf)
 - Gabriela Holanda (https://github.com/badeca)
 - Maceo Lewis (https://github.com/maceocodes)
