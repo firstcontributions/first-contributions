@@ -71,47 +71,48 @@
 - Raymond Ng (https://github.com/RaymondNg0054)
 - Varun Mehrotra (https://github.com/VarunMehrotra)
 - Kyle B
+- [Michael Lekhmus](https://github.com/mlekhmus)
 - [Hamlet Villa](https://github.com/hamletv)
-- Chris Burns (https://github.com/cburns1331)
+- [Chris Burns](https://github.com/cburns1331)
 - Ritu S
 - Cmorph1
 - Jannes E
 - Max G
 - Shilpa Patwary(https://github.com/shilpapatwary)
-- Alex Mably (https://github.com/amably)
+- [Alex Mably](https://github.com/amably)
 - Billel Bmsd
--Diana Du
--Ilkiv petro
--Gabriel Corona
+- Diana Du
+- Ilkiv petro
+- Gabriel Corona
 - Harry Le
-Trevor Trinity-Rees
+- Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
-Aditya Pillai(https://github.com/Aditya-Pillai/first-contributions.git)
-- Kartofelen (https://github.com/Kartofelen)
-- Clinton Hilary D'silva (https://github.com/Clinton-dsilva-milearth)
+- [Aditya Pillai](https://github.com/Aditya-Pillai/first-contributions.git)
+- [Kartofelen](https://github.com/Kartofelen)
+- [Clinton Hilary D'silva](https://github.com/Clinton-dsilva-milearth)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
 - John Daniel
 - Ananya Gupta
-- [Anushank Varshney] (https://github.com/anushank-av)
-- [Vajean Stan] (https://github.com/vajean)
+- [Anushank Varshney](https://github.com/anushank-av)
+- [Vajean Stan](https://github.com/vajean)
 - [Sandip Guchait](https://github.com/sandipguchait)
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
 - [Mike Ferrete](https://github.com/mcfrr3)
 - [Brian Linkletter](https://github.com/blinklet)
-- [Jon Korte] (https://github.com/Werewoof)
-- [Razvan Sandu] (https://github.com/SKREFI)
+- [Jon Korte](https://github.com/Werewoof)
+- [Razvan Sandu](https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
 - [Jatin Varlyani](https://github.com/Jatin-8898)
 - [Kelly Finnerty](https://github.com/kellyfinnerty)
 - [Mark Harris](https://github.com/trickfest)
 - [Matteo Pellegrino](https://github.com/arabello)
-- [Kannan Anandakrishnan] (https://github.com/KannanAK)
+- [Kannan Anandakrishnan](https://github.com/KannanAK)
 - Jian
-- [Evan Bailey] (https://github.com/Spacetime02)
--Abdelkader Lagha
+- [Evan Bailey](https://github.com/Spacetime02)
+- Abdelkader Lagha
 - [Monty Britton] (https://github.com/MontyBr)
 - Christina Luna (https://github.com/christinaluna)
 - Ashwani (https://github.com/ashwani12131)
@@ -13280,12 +13281,12 @@ Kritika b
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - Nath
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
-[Jesrapo](https://github.com/jesrapo)
-[Dmitriy Makarov](https://github.com/dmxich)
-[Moayad  Badawi](https://github.com/moayad-badawi)
-[Adam Stolarczyk](https://github.com/apm30)
-[Bonnie Brown](https://github.com/brownbonnie)
-[Swaraj Dehuri](https://github.com/darkknight27)
+- [Jesrapo](https://github.com/jesrapo)
+- [Dmitriy Makarov](https://github.com/dmxich)
+- [Moayad  Badawi](https://github.com/moayad-badawi)
+- [Adam Stolarczyk](https://github.com/apm30)
+- [Bonnie Brown](https://github.com/brownbonnie)
+- [Swaraj Dehuri](https://github.com/darkknight27)
 - [Bassem - NextGLabs](https://github.com/nextglabs)
 - [Raghid Elewa](https://github.com/relewa)
 - [Abhishek Mohite](https://github.com/astroncoda)
