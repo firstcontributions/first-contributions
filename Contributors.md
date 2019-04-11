@@ -209,6 +209,7 @@ Srinivas Pudu
 - [Jazz Jones](https://github.com/twiggytwixter)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
+- [Tyler Bromley] (https://github.com/TylerBromley)
 - [Lucas Lopes] (https://github.com/thuraam)
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
