@@ -2,6 +2,7 @@
 - goodgrieff
 - Jeseph Roseles (https://github.com/bitinzealot)
 - Kevin Andres (https://github.com/KevinKAMS)
+- [Safdar Jamal](https://github.com/clever-programmer)
 - GabrielCortizo ()
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
