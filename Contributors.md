@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- Kaobe Osolu
 - goodgrieff
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Bradley Cavendish](https://github.com/bradcav)
