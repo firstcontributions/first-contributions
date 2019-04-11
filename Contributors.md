@@ -25,6 +25,7 @@
 - Adrian Escalona (https://github.com/DriesCode)
 - bakuzan (https://github.com/bakuzan)
 - [Koop Codes] (https://github.com/koopcodes/)
+- [Thomas Weaver] (https://github.com/tweavs/)
 - [Chris Jangl](https://github.com/chrisjangl/)
 - [Zwilling](http://github.com/magnetar1997)
 - [Zein Hajj-Ali](https://github.com/ZeinHajjAli)
