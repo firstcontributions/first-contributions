@@ -13,6 +13,7 @@
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Gavin Hoang
 - Eric Nunez
+- shivanis22 (https://github.com/shivanis22)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
