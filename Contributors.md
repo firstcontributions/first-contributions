@@ -162,6 +162,7 @@ Srinivas Pudu
 - Marc Lim (https://github.com/Maws1991)
 - Will Dempsey (https://github.com/wdempsey96)
 - [Marielle Cunanan](https://github.com/rosemarielle)
+- Kevin Maxion (https://github.com/kevinmaxion)
 - [Hicham Moro](https://github.com/Hicham95)
 - [Mohamed EL HOSAYNY](https://github.com/elhosayny)
 - [Beyarkay](https://github.com/beyarkay)
