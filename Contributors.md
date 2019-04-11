@@ -11945,6 +11945,7 @@ Taylor Burrington
 - [Hearot](https://github.com/hearot)
 - [Steve Sioli](https://github.com/stevesioli)
 - [Ganaa](https://github.com/ganbadrakh)
+- [Diyar Baisalov](https://gihub.com/dake016)
 - [Kostas Evangelou](https://github.com/kostasev)
 - [NikhilMTomy](https://github.com/nikhilmtomy)
 - [Ryan S.](https://github.com/ryans331)
