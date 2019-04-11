@@ -61,6 +61,7 @@
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - David An
 - Alice Always
+- Sajith Bandara
 - Ankita Chowdhry
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
