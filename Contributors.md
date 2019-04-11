@@ -241,6 +241,7 @@ Srinivas Pudu
 - [Ebere Uzodufa](https://github.com/EbereUzodufa)
 - [george_g]
 - [OrestisV]
+- Tiffany Wise (https://github.com/Owhyze1)
 - hmr206
 - [Bogdan Chise] (https://github.com/ChiseBogdan/)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
