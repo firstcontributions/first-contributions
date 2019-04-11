@@ -5,6 +5,7 @@
 - Kevin Andres (https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
 - GabrielCortizo ()
+- Nick Renaud (https://github.com/NickRenaud74)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
