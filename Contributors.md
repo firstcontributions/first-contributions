@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- Kaobe Osolu
 - goodgrieff
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Bradley Cavendish](https://github.com/bradcav)
@@ -31,6 +32,7 @@
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
 - bakuzan (https://github.com/bakuzan)
+- Bryce Harmsen (https://github.com/bryceharmsen)
 - [Koop Codes] (https://github.com/koopcodes/)
 - [Thomas Weaver] (https://github.com/tweavs/)
 - [Chris Jangl](https://github.com/chrisjangl/)
@@ -186,11 +188,12 @@
 - [Kersh]
   Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
-- [Gaayan Verma](https://github.com/GaayanVerma)
-  [Joshua Kim](https://github.com/joshualaj)
-- [csdali13](https://github.com/csdali13)
-- [Diksha Verma](https://github.com/zenithexpo)
-- [unprosaic](https://github.com/unprosaic)
+- [Gaayan Verma] (https://github.com/GaayanVerma)
+  [Joshua Kim] (https://github.com/joshualaj)
+- [Matt Saffert] (https://github.com/saffe012)
+- [csdali13] (https://github.com/csdali13)
+- [Diksha Verma] (https://github.com/zenithexpo)
+- [unprosaic] (https://github.com/unprosaic)
 - [Matthew Dodi](https://github.com/MatthewDodi)
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana](https://github.com/nicoleiocana)
@@ -205,12 +208,14 @@
 - [Jeremy Purser](https://github.com/jeremypurser)
 - [Jeremy Reed](https://github.com/jeremymreed)
 - [Jazz Jones](https://github.com/twiggytwixter)
-- [Folke Westergren](https://github.com/f-westergren)
-- [JThissen](https://github.com/JThissen)
-- [Lucas Lopes](https://github.com/thuraam)
-- [Juuso Solonen](https://github.com/juusolonen)
-- [Joseph Rodrigues](https://github.com/JostonR)
-- [Nkenfack Mqthurin](https://github.com/MathurinNkenfack)
+- [Folke Westergren] (https://github.com/f-westergren)
+- [JThissen] (https://github.com/JThissen)
+- [Tyler Bromley] (https://github.com/TylerBromley)
+- [Lucas Lopes] (https://github.com/thuraam)
+- [Juuso Solonen] (https://github.com/juusolonen)
+- [Joseph Rodrigues] (https://github.com/JostonR)
+- [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
+
 - Robert
 - [Christopher Bradford](https://github.com/sunkencity999)
 - [Daniel Sameh](https://github.com/DanielSameh)
@@ -5626,6 +5631,7 @@
 - [Vlad Aiftimie](https://github.com/vaiftimie)
 - [hercegtomas](https://github.com/hercegtomas)
 - [Renato Santos](https://github.com/RNT17)
+- [Justin Tadlock](https://github.com/Justin-Tadlock)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
 - [Manish Bhatt](https://github.com/manishbhatt94)
 - [Austin Leatham](https://github.com/aleatham)
@@ -6795,6 +6801,7 @@
 - [Samuel Chris](https://github.com/sandec-fcc)
 - [zuhurul](https://github.com/zuhurul)
 - [Irfan](https://github.com/irfannafri)
+- [Andrey Zotov](https://github.com/anzotov)
 - [djippers](https://github.com/djippers)
 - [djilanov](https://github.com/djilanov)
 - [tamlt2704](https://github.com/tamlt2704)
@@ -8160,6 +8167,7 @@
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
 - [Jillian Burns](https://github.com/jillianjmb)
 - [jonascastulik](https://github.com/jonascastulik)
+- [n4ch3t3](https://github.com/n4ch3t3)
 - [Minhaj Uddin Siddiqui](https://github.com/minhaj3)
 - [William Gough](https://github.com/winglish)
 - [Petio Petrov](https://github.com/petioptrv)
@@ -13268,6 +13276,7 @@
 - TripleAsterick
 - david
 - aurioBC
+- Zhe Liu
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - Nath
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
