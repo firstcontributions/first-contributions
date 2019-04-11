@@ -13303,3 +13303,5 @@ Afolayan Tunde
 -[Daniel Cavalcanti] (https://github.com/danielcti)
 - [Akshat Katiyar](https://github.com/YellowFoxH4XOR)
 - [Harsimran Singh](https://github.com/harsimran17)
+- [Luiz Felipe Domingues](https://github.com/lfsando)
+
