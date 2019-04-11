@@ -51,7 +51,7 @@
 - Homercrates (https://github.com/homercrates)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - David An
-- Alice Wigle
+- Alice Always
 - Ankita Chowdhry
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
