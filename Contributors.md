@@ -168,6 +168,7 @@
   g-nogara
 Srinivas Pudu
 - Weita XD
+- Ian Cameron
 - Şammas Çölkesen (https://github.com/kavanozkafa)
 - Jesse Kanter (https://github.com/JesseKanter)
 - Kriss K. (https://github.com/Egg-Wizard)
