@@ -13291,6 +13291,7 @@ Afolayan Tunde
 -Matt Z
 -Aleksi Maunu :O
 - Werner Krauth (<https://github.com/WernerKrauth/>)
+- Dóczi Dominik (<https://github.com/doczi-dominik/>)
 - Lee Wei Gen (<https://github.com/weigenie/>)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 -[R F](https://github.com/kubr2017)
