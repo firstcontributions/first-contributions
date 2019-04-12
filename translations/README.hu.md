@@ -113,7 +113,7 @@ git checkout -b add-alonzo-church
 
 ## Módosítsd a szükséges fájlokat és jelöld ki a változtatásokat
 
-Most pedig nyisd meg a `Contributors.md` fájt egy szövegszerkesztőben és add hozzá a neved. Ne írd a fájl elejére vagy a végére, csak szúrd be valahova. Ha sikerült, mentsd el a fájlt.
+Most pedig nyisd meg a `Contributors.md` fájlt egy szövegszerkesztőben és add hozzá a neved. Ne írd a fájl elejére vagy a végére, csak szúrd be valahova. Ha sikerült, mentsd el a fájlt.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
@@ -155,7 +155,7 @@ Nemsoká minden változtatásod be fogom olvasztani a projekt mester ágába. Ka
 
 ## Hogyan tovább?
 
-Gratulálok!  Elvégezted az általános _forkold -> klónozd -> módosítsd -> PR_ munkafolyamatot, amivel gyakran fogsz találkozni egy közreműködőként!
+Gratulálok!  Elvégezted az általános _forkold -> klónozd -> módosítsd -> PR_ munkafolyamatot, amivel gyakran fogsz találkozni mint közreműködő!
 
 Ünnepeld meg a közreműködésed és oszd meg a barátaiddal és követőiddel a [webes alkalmazáson](https://firstcontributions.github.io/#social-share).
 
@@ -163,12 +163,12 @@ Csatlakozhatsz a Slack csoportunkba ha segítségre szorulsz vagy van egyéb ké
 
 Most pedig kezdjünk el közreműködni más projekten is. Összeállítottunk egy listát olyan projektekből, amelyekhez könnyű hozzájárulni. Nézd meg [a projektek listáját a webes alkalmazáson](https://firstcontributions.github.io/#project-list).
 
-### [További olvasnivaló](additional-material/git_workflow_scenarios/additional-material.md)
+### [További olvasnivaló](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Útmutatók más eszközök használatával
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
