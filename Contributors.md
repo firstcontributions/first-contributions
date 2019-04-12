@@ -8,6 +8,7 @@
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [GabrielCortizo]()
 - [Nick Renaud](https://github.com/NickRenaud74)
+- yasmiyazaki
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
