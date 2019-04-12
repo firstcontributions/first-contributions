@@ -376,6 +376,7 @@ Just Testing @Kanak Sharma
 - [Rob Kos](https://github.com/robkos442)
 - [Supriya](https://github.com/SupriyaSupu)
 - [Bailey Zinger](https://github.com/bzinger2)
+- [Ania Nakayama] (https://github.com/Ania-chan)
 - [Karthick Shiva](https://github.com/karthickshiva)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Balaclava] (https://github.com/Bajoelbalaclava)
