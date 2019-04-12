@@ -10522,6 +10522,7 @@ Taylor Burrington
 - [Muzammil](https://github.com/mzmmlds)
 - [gad mohamed](https://github.com/gadm21)
 - [Hammerhead](https://github.com/soulbliss)
+- [Johannes Jarbratt](https://github.com/johachi)
 - [Joshua Riley](https://github.com/JoshRiley)
 - [Zhenyu Yang](https://github.com/shrimpie)
 - [Flower17](https://github.com/flower17)
