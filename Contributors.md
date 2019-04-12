@@ -13068,6 +13068,7 @@ Taylor Burrington
 - [John McGonagle](https://github.com/jgonagle)
 - [Steven Zilberberg](https://github.com/srz2)
 - [Giwoo G Lee](https://github.com/gglee89)
+- [Thomas H](https://github.com/thenderson55)
 - [Jason Anderson](https://github.com/andersjr1984)
 - [Dalton Maahs](https://github.com/dmaahs2017)
 - [Kim Sangyeon](https://github.com/kimsangyeon)
