@@ -410,7 +410,7 @@ Just Testing @Kanak Sharma
 - [André Botha]
 -  Colin Shen1
 - Emil Diculescu
--Juan Pablo
+- Juan Pablo
 - [superluke](https://github.com/superluke)
 [zackattackz](https://github.com/zackattackz)
 Conor Shields (https://github.com/cshields236)
@@ -418,13 +418,13 @@ Conor Shields (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
-[Edward Savage](https://github.com/edwardASavage)
+- [Edward Savage](https://github.com/edwardASavage)
 - [Kamal Hasan Mahmud](https://github.com/kamalhm)
 - [Karen Gal](https://github.com/karengal)
 - [ed-cc](https://github.com/ed-cc)
 - [Marcel Morgenstern](https://github.com/MarcelMorgenstern)
 - Glenda
-= [Kimberley Elcess] (https://github.com/Elcess)
+- [Kimberley Elcess] (https://github.com/Elcess)
 - Sowndar Raj
 - Jan
 - Catalin Pit (https://github.com/catalinpit/)
@@ -464,6 +464,7 @@ Conor Shields (https://github.com/cshields236)
 -Simon ACosta
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
+- [Karthik Pullela](https://github.com/karthikPullela)
 - [Ross Hunter](https://github.com/Rossh87)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Kevin Ryan](https://github.com/K-Rye)
