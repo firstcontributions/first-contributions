@@ -716,6 +716,7 @@ Conor Shields (https://github.com/cshields236)
 - [Harel Katz](https://github.com/HarelKatz)
 - [Wafa Soofi](https://github.com/wsoofi)
 - [Anilla](https://github.com/Anillab)
+- [Harpal Assi](https://github.com/harpalassi)
 - [Marethyu Prefect](https://github.com/MarethyuPrefect)
 - Diogo Kawamoto
 - [Jessica Saini](https://github.com/Jess2110)
