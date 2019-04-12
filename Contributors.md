@@ -12,7 +12,7 @@
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
 - Christian Mason (https://github.com/ChristianMMason)
-- Shruti Jain (https://github.com/Sjain020188)
+- Shruti Jain (https://github.com/Sjain020188 )
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Gavin Hoang
