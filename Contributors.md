@@ -2547,6 +2547,7 @@ Conor Shields (https://github.com/cshields236)
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly](https://github.com/jakeliny)
 - [BroCodeClan](https://github.com/brocodeclan) :sunglasses:
+- [BreakfastWhisky](https://github.com/BreakfastWhisky)
 - [João Paulo Ventorim](https://github.com/jpventorim)
 - [Mr_Patcher](https://github.com/Mr-Patcher)
 - [Aleksandra](https://github.com/olciafr)
