@@ -49,6 +49,7 @@
 - Perez Ogayo (https://github.com/Pogayo)
 - Hamdun Mohammed (https://github.com/Hamoha/)
 - Guy Shaibi
+- Arka Pattanayak
 - Emmanuel Nery
 - Pranoto Budi (https://github.com/pranotobudi/)
 - Tong Li (https://github.com/TongLiGithub)
