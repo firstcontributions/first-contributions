@@ -8,6 +8,7 @@
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [GabrielCortizo]()
 - [Nick Renaud](https://github.com/NickRenaud74)
+- [Martin Ramos](https://github.com/martin292)
 - yasmiyazaki
 - [blue18](https://github.com/blue18)
 - Alex Solonenko(https://github.com/Spilex)
