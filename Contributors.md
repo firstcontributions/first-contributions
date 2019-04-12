@@ -259,6 +259,7 @@
 - [Kareem Abuzaid](https://github.com/KareemAbuzaid)
 - [Ryan Marion]
 - [Ricardo Nunes](https://github.com/sanunes)
+- [Anish Joshi](https://github.com/anishjoshi500)
 - [nomope](https://github.com/nomope)
 - [Zack]
 - [gholi]
