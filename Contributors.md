@@ -8617,7 +8617,7 @@
 - [Swapnil Shrikhande](https:///github.com/swapnilshrikhande)
 - [Sudipta](https://github.com/dsud98)
 - [Micha? Hawe?ka](https://github.com/hawelkam)
-- [Ido Berenbaum] (https://github.com/IdoWolf42)
+- [Ido Berenbaum](https://github.com/IdoWolf42)
 - [Muhammad Waqas Maqsood](https://github.com/waqasisme)
 - [Henry Chen](https://github.com/scotchka)
 - [Maxwell Powlison](https://github.com/bobdavelisafrank)
