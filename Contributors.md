@@ -13337,3 +13337,4 @@ Kritika b
 - [Luiz Felipe Domingues](https://github.com/lfsando)
 - [Hardy Xu](https://github.com/xuxin3101)
 - [penpenpng](https://github.com/penpenpng)
+- [gaetan-auffret](https://github.com/gaetan-auffret)
