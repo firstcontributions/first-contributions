@@ -172,9 +172,9 @@
   [Pawan Kumar Jha](https://github.com/88pawankumarjha)
 - Gilbert Mwimba
   g-nogara
-  grzesebe
   Srinivas Pudu
 - Weita XD
+- grzesebe
 - Ian Cameron
 - Şammas Çölkesen (https://github.com/kavanozkafa)
 - Jesse Kanter (https://github.com/JesseKanter)
