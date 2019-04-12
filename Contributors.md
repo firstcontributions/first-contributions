@@ -16,6 +16,7 @@
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
+- Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
 - Eric Nunez
 - shivanis22 (https://github.com/shivanis22)
