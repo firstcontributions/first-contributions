@@ -19,6 +19,7 @@
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
+- Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - shivanis22 (https://github.com/shivanis22)
 - Pradeep Monga (https://github.com/pradeepmonga/)
