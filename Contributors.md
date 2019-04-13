@@ -1541,6 +1541,7 @@
 - [Brandon Wozniewicz](https://github.com/brandonwoz)
 - [shoaib danish](https://github.com/shoaibrehmandanish)
 - [Rob Reichgelt](https://github.com/Dehv27)
+- [Richard Rodriguez](https://github.com/rodrigrichrod)
 - Timothy-Brian Gosalvez
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
