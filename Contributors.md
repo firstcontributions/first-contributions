@@ -146,7 +146,7 @@
 - [Samuel Olaegbe](https://github.com/goodhands)
 - [Jatin Taneja](https://github.com/jatintaneja90)
 - [vbertazzo](https://github.com/vbertazzo)
-- [ravi](https://github.com/ravichalla) 
+- [ravi](https://github.com/ravichalla)
 - [Bo andre][muditj](https://github.com/MuditJ)
 - [Kayode Atobatele](https://github.com/atobatele)
 - [Rohit Ghatol](https://github.com/rohitghatol)
@@ -13341,3 +13341,4 @@
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
+- [Drew Sommer](https://github.com/apsommer)
