@@ -3508,6 +3508,7 @@
 - [Angela Reeder](http://github.com/lilac-reader)
 - [Brechin Andariese](https://github.com/Brechy)
 - [Darius Chandra](https://github.com/DariusChandra/first-contributions)
+- [ispite](https://github.com/ispite)
 - [megfh](https://github.com/megfh)
 - [NiteshNanda](https://github.com/niteshnanda)
 - [AnirithP](https://github.com/anirithp)
