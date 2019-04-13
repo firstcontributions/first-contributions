@@ -21,6 +21,7 @@
 - Gavin Hoang
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
+- Sean Yi (https://github.com/sean-jy-yi)
 - shivanis22 (https://github.com/shivanis22)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
