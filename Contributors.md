@@ -69,6 +69,7 @@
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
 - David An
 - Alice Always
+- Mini Mel (https://github.com/Mini-mel)
 - Sajith Bandara
 - Ankita Chowdhry
 - Alex Puga (https://github.com/alpuga)
