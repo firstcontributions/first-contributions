@@ -13342,3 +13342,5 @@
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
 - [Drew Sommer](https://github.com/apsommer)
+- [Kosuke Yamade](https://github.com/yama2k)
+
