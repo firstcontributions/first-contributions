@@ -11,6 +11,7 @@
 - [Martin Ramos](https://github.com/martin292)
 - yasmiyazaki
 - [blue18](https://github.com/blue18)
+- [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
