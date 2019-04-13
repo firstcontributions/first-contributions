@@ -553,6 +553,7 @@
 - [Saksham Rastogi](https://github.com/codeboy5)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Yash Bhardwaj](https://github.com/Wyverns010)
+- [Harsh Patel](https://github.com/Pharshgit)
 - [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
