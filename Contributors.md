@@ -1945,6 +1945,7 @@
 - [Andy Mahoney](https://github.com/BoneKing)
 - [FriendlyMafia](https://github.com/dattvidc)
 - [volkimd](https://github.com/volkimd)
+- [Giovannottix] (https://github.com/giovannottix)
 - [southton1992](https://github.com/southton1992)
 - [sweetpotatoes](https://github.com/sweetpotatoes42))
 - [jephtahuche](https://github.com/jephtah)
