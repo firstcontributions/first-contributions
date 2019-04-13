@@ -94,6 +94,7 @@
 - [Emily Cain](https://github.com/MagicMilly)
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - [Alex Mably](https://github.com/amably)
+- Nathan Kratzmeyer
 - Billel Bmsd
 - Diana Du
 - Ilkiv petro
