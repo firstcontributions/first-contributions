@@ -20,6 +20,7 @@
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
+- edwin
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - Sean Yi (https://github.com/sean-jy-yi)
