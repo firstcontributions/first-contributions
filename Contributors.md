@@ -5872,6 +5872,7 @@
 - [Todd Mason](https://github.com/ToddMason/first-contributions)
 - [Adimali](https://github.com/adimali)
 - [Neethu Santhosh](https://github.com/neethusanthosh)
+- [Alexis Glawitsch](https://github.com/AlexisGlawitsch)
 - [Shashank Shekhar](https://github.com/thunderandrain)
 - [Sergio Gayon](https://github.com/sergaben)
 - [Zachary Amerman](https://github.com/zamerman)
