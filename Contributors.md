@@ -186,6 +186,7 @@
 - Şammas Çölkesen (https://github.com/kavanozkafa)
 - Jesse Kanter (https://github.com/JesseKanter)
 - Kriss K. (https://github.com/Egg-Wizard)
+- Thibault Blanc
 - Tad Tarnawski (https://github.com/tad815)
 - Marc Lim (https://github.com/Maws1991)
 - Will Dempsey (https://github.com/wdempsey96)
