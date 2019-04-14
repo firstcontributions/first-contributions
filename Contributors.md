@@ -805,6 +805,7 @@
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [Ephraim Githinji](https://github.com/Ephygtz "open source enthusiast")
 - Vineet Baj
+- Chris Joy Kokkat (https://github.com/godfather808)
 - E H
 - [Anirudh B](https://github.com/paplio)
 - [Dante Radovani](https://github.com/dRadest)
