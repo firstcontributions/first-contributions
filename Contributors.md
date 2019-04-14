@@ -84,6 +84,7 @@
 - [Ashikur Rashid Khan](https://github.com/ARK17)
   -peterson oaikhenah (https://github.com/nextwebb)
 - Rohit Retnakaran (https://github.com/rohit16794)
+- Junhwi Kim
 - Raymond Ng (https://github.com/RaymondNg0054)
 - Varun Mehrotra (https://github.com/VarunMehrotra)
 - Kyle B
