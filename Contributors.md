@@ -328,6 +328,7 @@
 - [Kevin Nguyen](https://github.com/ktrieun)
 - [Jonathan Seubert](https://github.com/finisher1017)
 - [ananas](https://github.com/ananas99)
++ Solomon Yakubov
 - [Andrew Park](https://github.com/AndrewPark9517)
 - [Dillon Rolnick](https://github.com/drolnick95)
 - [Kevin O]
