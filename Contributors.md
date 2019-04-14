@@ -10,6 +10,7 @@
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
 - yasmiyazaki
+- Sampath MS (https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
