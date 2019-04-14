@@ -55,6 +55,7 @@
 - Perez Ogayo (https://github.com/Pogayo)
 - Hamdun Mohammed (https://github.com/Hamoha/)
 - Guy Shaibi
+- Josh Norman (https://github.com/jmnorma)
 - Arka Pattanayak
 - Emmanuel Nery
 - Pranoto Budi (https://github.com/pranotobudi/)
