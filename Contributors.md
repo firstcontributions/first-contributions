@@ -51,7 +51,6 @@
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
-
 - Molly Johnson
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
@@ -805,8 +804,8 @@
 - [Haitham Hammami](https://github.com/hm-haitham)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [Ephraim Githinji](https://github.com/Ephygtz "open source enthusiast")
-- Chris Joy Kokkat (https://github.com/godfather808)
 - Vineet Baj
+- Chris Joy Kokkat (https://github.com/godfather808)
 - E H
 - [Anirudh B](https://github.com/paplio)
 - [Dante Radovani](https://github.com/dRadest)
