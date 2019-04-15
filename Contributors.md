@@ -11273,6 +11273,7 @@
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
 - [Caio Augusto](https://github.com/caioag)
+- [Raymond Baziwane](https://github.com/baziwane)
 - [Aditya Raj](https://github.com/rajatadiraj)
 - [Wang XinShuo](https://github.com/wangxinshuo426)
 - [Thanthu Nair](https://github.com/Thanthu)
