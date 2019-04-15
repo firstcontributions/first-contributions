@@ -2587,6 +2587,7 @@
 - [kokum]()
 - [Rashim Malhotral](https://github.com/rashimm)
 - [Cecil John Tantay](https://github.com/cjbt)
+- [Feeroz Maqsudi](https://github.com/fmaq)
 - [Filip Lupaescu](https://github.com/Familotel/)
 - [Taylor](https://github.com/ATaylor1181/)
 - [Erick Martinez](https://github.com/ErickMtz)
