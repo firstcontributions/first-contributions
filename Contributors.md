@@ -17,6 +17,7 @@
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
+- Ran Levy
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
