@@ -54,6 +54,7 @@
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
 - Molly Johnson
+- Tzu Yun Fan Chiang (https://github.com/TzuYun)
 - Alexis Valenciano (https://github.com/allexxis)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
 - Hetian Liu (https://github.com/EricLiu96)
