@@ -18,6 +18,7 @@
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
 - Ran Levy
+- Tim Fox (https://github.com/timfox68)
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
