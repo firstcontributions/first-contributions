@@ -499,6 +499,7 @@
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Elliott Byers](https://github.com/elliottbyers)
 - [Amit Jha](https://github.com/devbihari)
+- [Zachary Anderson](https://github.com/ZacharyAnderson)
 - [Vyas Anirudh Akundy](https://github.com/Anirudh42)
 - [ethompso28](https://github.com/ethompso28)
 - [Noah Furman](https://github.com/OrbOrigin)
