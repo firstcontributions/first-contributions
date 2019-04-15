@@ -1,5 +1,6 @@
 # Contributors
 
+- [Robert Bohn](https://github.com/RobertBohn)
 - Kaobe Osolu
 - goodgrieff
 - [André Barranco](https://github.com/bandrefilipe)
@@ -175,7 +176,6 @@
 - [Ryan Polley](https://github.com/rpolley)
 - Lee Hearn (https://github.com/leehearn)
 - [Julitra](https://github.com/julitra/)
-  [Robert Bohn](https://github.com/RobertBohn)
   [Jack Corley](https://github.com/Jdcorley)
 - [Jacques Benzakein](https://github.com/helloITdepartment)
 - [Akalanka Weerasooriya](https://github.com/aawgit)
