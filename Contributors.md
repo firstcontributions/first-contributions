@@ -1,5 +1,5 @@
 # Contributors
--shashank 
+- ssshankyyy 
 - Kaobe Osolu
 - goodgrieff
 - [André Barranco](https://github.com/bandrefilipe)
