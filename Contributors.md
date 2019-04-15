@@ -135,6 +135,7 @@
 - [Mark Harris](https://github.com/trickfest)
 - [Matteo Pellegrino](https://github.com/arabello)
 - [Kannan Anandakrishnan](https://github.com/KannanAK)
+- [Abdurrahman Therwi](https://github.com/amtherwi)
 - Jian
 - [Evan Bailey](https://github.com/Spacetime02)
 - Abdelkader Lagha
