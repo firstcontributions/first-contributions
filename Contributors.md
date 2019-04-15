@@ -28,6 +28,7 @@
 - Eric Nunez
 - Sean Yi (https://github.com/sean-jy-yi)
 - shivanis22 (https://github.com/shivanis22)
+- D3v Devendra S (https://github.com/devasci)
 - Pradeep Monga (https://github.com/pradeepmonga/)
 - William Kwon (https://github.com/wtkwon)
 - Jacqueline Alves Barbosa (https://github.com/jacquealvesb)
