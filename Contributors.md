@@ -8238,6 +8238,7 @@
 - [Richard Rolfes](https://github.com/rarwolf47)
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
 - [Jon Hawranko](https://github.com/Shlim45)
+- [James Saylor] (https://github.com/PenCharles)
 - [Genesis Gabiola](http://github.com/genesisgabiola)
 - [Celso Moraes](https://github.com/cemarte)
 - [Li Sun](https://github.com/reelsun)
