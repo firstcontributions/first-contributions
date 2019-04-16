@@ -2,6 +2,7 @@
 
 - Kaobe Osolu
 - goodgrieff
+- [Kevin Amalathas](https://github.com/amalathask)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
 - [André Barranco](https://github.com/bandrefilipe)
 - [Jeseph Roseles](https://github.com/bitinzealot)
