@@ -7774,6 +7774,7 @@
 - [Greyson Jenkins](https://github.com/greysonjenkins)
 - [Adnen Saadaoui](https://github.com/sadnen)
 - [Alessandra Bianchin](https://github.com/alekrishna)
+- [Muataz Mahmoud Battah](https://github.com/mezo77)
 - [Maira Martins](https://github.com/mairamartinsk)
 - [Rob Revens](https://github.com/robrevens)
 - [Ludvig Falck](https://github.com/lfalck)
