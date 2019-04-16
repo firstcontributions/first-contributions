@@ -403,6 +403,7 @@
 - [Francisco Cornejo-Garcia](https://github.com/cornejogarcia)
 - [Marco Chiaranda](https://github.com/centosette)
 - [Priyanka Tiwari]
+- [Elias de Moraes Neto](http://github.com/eliasmaia)
 - [Rob Kos](https://github.com/robkos442)
 - [Supriya](https://github.com/SupriyaSupu)
 - [Bailey Zinger](https://github.com/bzinger2)
