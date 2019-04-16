@@ -11,7 +11,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-如果你的电脑上尚未安装 git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
+如果你的电脑上尚未安装 Git, 请按照这个[ 安装指引 ](https://help.github.com/articles/set-up-git/)进行安装。
 
 ## Fork（复制）本代码仓库
 
@@ -24,7 +24,7 @@
 
 接下来，将复制后的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）
 
-随后打开命令行窗口，敲入如下 git 命令：
+随后打开命令行窗口，敲入如下 Git 命令：
 
 ```
 git clone "刚才复制的 url 链接"
@@ -57,9 +57,9 @@ git checkout -b <新分支的名称>
 git checkout -b add-myname
 ```
 
-(新分支的名称不一定需要有* add *。然而，在新分支的名称加入* add *是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
+（新分支的名称不一定需要有 *add*。然而，在新分支的名称加入 *add* 是一件合理的事情，因为这个分支的目的是将你的名字添加到列表中。)
 
-## 对代码进行修改，而後 Commit (提交) 修改
+## 对代码进行修改，然后 Commit (提交) 修改
 
 打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
 
@@ -89,13 +89,13 @@ git push origin <分支的名称>
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-接着再点击 `Create pull request` 按钮，正式提交 pull request。
+接着再点击 `Create pull request` 按钮，正式提交 Pull Request。
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
 
-### [ 更多资料 ](../additional-material/git_workflow_scenarios/additional-material.md)
+### [更多资料](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 接下来做什么呢？
 
@@ -113,7 +113,7 @@ git push origin <分支的名称>
 
 ## 原作者自身推广
 
-如果你喜欢这个项目， 请给这个 [GitHub](https://github.com/Roshanjossey/first-contributions)点星星 ⭐️.
+如果你喜欢这个项目， 请给这个 [GitHub](https://github.com/Roshanjossey/first-contributions) 点星星 ⭐️.
 如果你感觉今天心情好，适合做慈善, 可以 follow [Roshan](https://roshanjossey.github.io/) 的
 [Twitter](https://twitter.com/sudo__bangbang) 和
 [GitHub](https://github.com/roshanjossey).
