@@ -10,7 +10,11 @@
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
 - [Mike Ferrete](https://github.com/mcfrr3)
+<<<<<<< HEAD
 - [NoCodeBlocker] (https://github.com/nocode-blocker)
+=======
+- {NoCodeBlocker} https://github.com/nocode-blocker
+>>>>>>> 5c6038a20c77af16be9406a2f22641e08bac7f6e
 - [Brian Linkletter](https://github.com/blinklet)
 - [Jon Korte] (https://github.com/Werewoof)
 - [Razvan Sandu] (https://github.com/SKREFI)
