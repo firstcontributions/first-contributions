@@ -123,7 +123,7 @@
 - Gourav J
 - Niklavs Katlaps
 - Jason E
-- Joe Polaski (https://github.com/JosephPolaski) 
+- [Joe Polaski](https://github.com/JosephPolaski) 
 - John Daniel
 - Ananya Gupta
 - [Anushank Varshney](https://github.com/anushank-av)
@@ -132,6 +132,7 @@
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
 - [Mike Ferrete](https://github.com/mcfrr3)
+- [NoCodeBlocker](https://github.com/nocode-blocker)
 - [Brian Linkletter](https://github.com/blinklet)
 - [Jon Korte](https://github.com/Werewoof)
 - [Razvan Sandu](https://github.com/SKREFI)
@@ -145,7 +146,7 @@
 - Jian
 - [Evan Bailey](https://github.com/Spacetime02)
 - Abdelkader Lagha
-- [Monty Britton] (https://github.com/MontyBr)
+- [Monty Britton](https://github.com/MontyBr)
 - Christina Luna (https://github.com/christinaluna)
 - Ashwani (https://github.com/ashwani12131)
 - [Raul Dutta](https://github.com/duttar18)
@@ -196,16 +197,16 @@
   Srinivas Pudu
 - Weita XD
 - Ian Cameron
-- Şammas Çölkesen (https://github.com/kavanozkafa)
-- Jesse Kanter (https://github.com/JesseKanter)
-- Kriss K. (https://github.com/Egg-Wizard)
+- [Şammas Çölkesen](https://github.com/kavanozkafa)
+- [Jesse Kanter](https://github.com/JesseKanter)
+- [Kriss K](https://github.com/Egg-Wizard)
 - Thibault Blanc
-- Tad Tarnawski (https://github.com/tad815)
-- Marc Lim (https://github.com/Maws1991)
-- Will Dempsey (https://github.com/wdempsey96)
+- [Tad Tarnawski](https://github.com/tad815)
+- [Marc Lim](https://github.com/Maws1991)
+- [Will Dempsey](https://github.com/wdempsey96)
 - [Marielle Cunanan](https://github.com/rosemarielle)
 - [Melissa Jew](https://github.com/Melissajew)
-- Kevin Maxion (https://github.com/kevinmaxion)
+- [Kevin Maxion](https://github.com/kevinmaxion)
 - [Hicham Moro](https://github.com/Hicham95)
 - [Mohamed EL HOSAYNY](https://github.com/elhosayny)
 - [Beyarkay](https://github.com/beyarkay)
@@ -222,12 +223,12 @@
 - [Kersh]
   Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
-- [Gaayan Verma] (https://github.com/GaayanVerma)
-  [Joshua Kim] (https://github.com/joshualaj)
-- [Matt Saffert] (https://github.com/saffe012)
-- [csdali13] (https://github.com/csdali13)
-- [Diksha Verma] (https://github.com/zenithexpo)
-- [unprosaic] (https://github.com/unprosaic)
+- [Gaayan Verma](https://github.com/GaayanVerma)
+  [Joshua Kim](https://github.com/joshualaj)
+- [Matt Saffert](https://github.com/saffe012)
+- [csdali13](https://github.com/csdali13)
+- [Diksha Verma](https://github.com/zenithexpo)
+- [unprosaic](https://github.com/unprosaic)
 - [Matthew Dodi](https://github.com/MatthewDodi)
 - [Kuanysh Seilkhanov]
 - [Nicolei Ocana](https://github.com/nicoleiocana)
@@ -274,7 +275,7 @@
 - [Ebere Uzodufa](https://github.com/EbereUzodufa)
 - [george_g]
 - [OrestisV]
-- Tiffany Wise (https://github.com/Owhyze1)
+- [Tiffany Wise](https://github.com/Owhyze1)
 - hmr206
 - [Bogdan Chise](https://github.com/ChiseBogdan/)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
@@ -382,7 +383,7 @@
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
 - [Rahul Maram](https://github.com/RahulMaram)
 - [Suman Ghosh](https://github.com/sghosh37)
-- [Diana Mukhanova] https://github.com/diananova
+- [Diana Mukhanova](https://github.com/diananova)
 - [maulik gautam](https://github.com/maulikgautam)
 - [Gary Coleman](https://github.com/gryclmn)
 - [Iv-Layhort](https://github.com/Iv-Layhort)
@@ -13279,7 +13280,8 @@
 - [Rishi Khanna](https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
-- [zer0tolerance](https://github.com/zer0tolerance) -[al6625](https://github.com/alaj6625/first-contributions)
+- [zer0tolerance](https://github.com/zer0tolerance) 
+- [al6625](https://github.com/alaj6625/first-contributions)
 - [Vireak Sok](https://github.com/Vireak-Sok)
 - [Xi Ming](https://github.com/seki2020)
 - [Michael Properzi](https://github.com/erzimj)
