@@ -1,7 +1,8 @@
-# Contributors
+﻿# Contributors
 
 - Kaobe Osolu
 - goodgrieff
+- [ElPapi42](https://github.com/ElPapi42)
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Georgios Karakos](https://github.com/giorg0skar)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
