@@ -563,6 +563,7 @@
 - [Lav Tech Uy](https://github.com/techuy)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
+- [Luke Stroud] (https://github.com/Duvanchi)
 - Steve Berryman
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
