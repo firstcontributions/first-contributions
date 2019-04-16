@@ -13393,3 +13393,4 @@
 - [Nic Vigil] (https://githib.com/nicvigil)
 - [Bruno Cezani] (https://githib.com/bcezani)
 - [Jaime R] (https://github.com/JaimeRado)
+- [Gabriel Silva](https://github.com/GOBDS)
