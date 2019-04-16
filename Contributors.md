@@ -322,6 +322,7 @@
 - [Bridget Nichols](https://github.com/BridgetNichols)
 - [Adico](https://github.com/adico1)
 - [Stuart Todd](https://github.com/sdtodd)
+- [Harshal Chaudhari](https://github.com/harshalchaudhari35)
 - [Scott Abe](https://github.com/stabee)
 - [Sol Renato](https://github.com/SRNT)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
