@@ -123,6 +123,7 @@
 - Gourav J
 - Niklavs Katlaps
 - Jason E
+- Joe Polaski (https://github.com/JosephPolaski) 
 - John Daniel
 - Ananya Gupta
 - [Anushank Varshney](https://github.com/anushank-av)
