@@ -3,6 +3,7 @@
 - Kaobe Osolu
 - goodgrieff
 - [Kevin Amalathas](https://github.com/amalathask)
+- [Georgios Karakos](https://github.com/giorg0skar)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
 - [André Barranco](https://github.com/bandrefilipe)
 - [Jeseph Roseles](https://github.com/bitinzealot)
