@@ -91,6 +91,7 @@
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
+- Domi Pul 
 - [Ferran Sulaiman](https://github.com/ferran9908)
 - [Ashikur Rashid Khan](https://github.com/ARK17)
   -peterson oaikhenah (https://github.com/nextwebb)
