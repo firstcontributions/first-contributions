@@ -30,6 +30,7 @@
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - Sean Yi (https://github.com/sean-jy-yi)
+- Foysal Remon (https://github.com/foysalremon)
 - shivanis22 (https://github.com/shivanis22)
 - D3v Devendra S (https://github.com/devasci)
 - Pradeep Monga (https://github.com/pradeepmonga/)
