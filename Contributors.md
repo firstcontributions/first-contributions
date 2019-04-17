@@ -23,6 +23,7 @@
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
 - Ran Levy
+- Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
