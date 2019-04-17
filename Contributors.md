@@ -3401,6 +3401,7 @@
 - [Igor Puchkov](https://github.com/IgorPuchkov2003)
 - [Martin Javorka](https://github.com/mjavorka)
 - [Kumar Kaniska](https://github.com/imkaniska23)
+- [Erik Adair](https://github.com/eadair)
 - [Ganesh Majhi](https://github.com/ganeshmajhi)
 - [Abigaíl PaLacios](https://github.com/acpalacios)
 - [Krizza Bullecer](https://github.com/sirbully)
