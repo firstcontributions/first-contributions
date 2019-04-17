@@ -129,6 +129,7 @@
 - [BenjaminRochez](https://github.com/BenjaminRochez)
 - [Bcsrn]
 - [Zamblom](https://github.com/Zamblom)
+- [Joe McCraw](https://github.com/SerialForBreakfast)
 - Kevin Hudson
 - [Matthew Bent](https://github.com/mattbent)
 - [Jeff GaoEy](https://github.com/Gaoey)
