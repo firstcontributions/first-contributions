@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Kaobe Osolu
 - goodgrieff
@@ -13417,3 +13417,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Jaime R] (https://github.com/JaimeRado)
 - [Gabriel Silva](https://github.com/GOBDS)
 - [Campelo Guedes](https://github.com/campeloguedes)
+- [Zyjin] (https://github.com/Zygen360)
