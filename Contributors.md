@@ -64,6 +64,7 @@
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
 - Molly Johnson
+- Titan
 - Tzu Yun Fan Chiang (https://github.com/TzuYun)
 - Alexis Valenciano (https://github.com/allexxis)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
