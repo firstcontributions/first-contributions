@@ -11101,6 +11101,7 @@
 - [Zach Sanford](https://github.com/zachsanford)
 - [Kadyn](https://github.com/klowe123)
 - [Florangel](https://github.com/florangelramirez7)
+- [Dinesh](https://github.com/dineshedlapalli)
 - [Amelia](https://github.com/amelia181)
 - [Connor Bottum](https://github.com/cbb692)
 - [Amandeep Saluja](https://github.com/amandeep-saluja)
