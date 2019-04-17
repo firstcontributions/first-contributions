@@ -4442,6 +4442,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Niall Moran](https://github.com/niallermoran)
 - [Ross Tapson](https://github.com/rosstapson)
 - [Pedro Acosta](https://github.com/Pcost8300)
+- [Wender Miyukii](https://github.com/Miyukii)
 - [Elliott Weeks](https://github.com/Elliott-W)
 - [David Buttler](https://github.com/dwbuttler)
 - Pietil
