@@ -3,6 +3,7 @@
 - Kaobe Osolu
 - goodgrieff
 - [ElPapi42](https://github.com/ElPapi42)
+- [Devanand Gowda](https://github.com/DevanandGowda)
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Georgios Karakos](https://github.com/giorg0skar)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
