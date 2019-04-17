@@ -23,6 +23,7 @@
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
+- Kate Choe 
 - Ran Levy
 - Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
