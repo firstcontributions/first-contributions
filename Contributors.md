@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - Kaobe Osolu
 - goodgrieff
@@ -7503,6 +7503,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Tom Engler](https://github.com/thetengler)
 - [Mitchell Andreasen](https://github.com/thetogolopian)
 - [Katherine Carter](https://github.com/gruvian)
+- [Leonardo Torribilla](https://github.com/leonex45)
 - [Gavin Christie](https://github.com/gavinchristie)
 - [Shane Haggerty](https://github.com/smhaggerty)
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
