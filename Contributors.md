@@ -111,6 +111,7 @@
 - Cmorph1
 - Jannes E
 - Max G
+- JohntyR
 - [Emily Cain](https://github.com/MagicMilly)
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - [Alex Mably](https://github.com/amably)
