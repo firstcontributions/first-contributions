@@ -13417,6 +13417,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - bhugall
 - [Dave Holly] (https://github.com/daveholly57)
 - [Nic Vigil] (https://githib.com/nicvigil)
+- [Luke Kuo] (https://github.com/DarkGoomba)
 - [Bruno Cezani] (https://githib.com/bcezani)
 - [Jaime R] (https://github.com/JaimeRado)
 - [Gabriel Silva](https://github.com/GOBDS)
