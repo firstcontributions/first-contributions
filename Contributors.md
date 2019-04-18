@@ -125,6 +125,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - [Alex Mably](https://github.com/amably)
 - Nathan Kratzmeyer
+- Dana O'Neil(https://github.com/littlestschnauzer)
 - Billel Bmsd
 - Diana Du
 - Ilkiv petro
