@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - Kaobe Osolu
 - goodgrieff
@@ -53,6 +53,7 @@
 - Maceo Lewis (https://github.com/maceocodes)
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
+- vidya
 - Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
