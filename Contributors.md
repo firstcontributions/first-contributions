@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- Max Fleming
 - Kaobe Osolu
 - goodgrieff
 - [ElPapi42](https://github.com/ElPapi42)
