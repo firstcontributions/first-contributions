@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Kaobe Osolu
 - goodgrieff
@@ -27,6 +27,7 @@
 - Kate Choe 
 - Ran Levy
 - Hugo Bujan Prevot (https://github.com/Drithyl)
+- [Sarah Lindau](https://github.com/LSariel)
 - Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
 - Christian Mason (https://github.com/ChristianMMason)
