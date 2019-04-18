@@ -26,6 +26,7 @@
 - Daniel Fletemier
 - Kate Choe 
 - Ran Levy
+- Hugo Bujan Prevot (https://github.com/Drithyl)
 - Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
 - Christian Mason (https://github.com/ChristianMMason)
