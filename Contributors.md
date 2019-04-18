@@ -57,6 +57,7 @@
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
 - vidya
+- [Karson Nichols](https://github.com/nicholsk18)
 - Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
