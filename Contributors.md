@@ -1770,6 +1770,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - julio-garcia-fc
 - Skooma Den
 - wefromstars
+- [Steve Prakope] (https://github.com/prakope)
 - [Cristhian Medina](https://github.com/Cristhian-medina)
 - [Minnow Lin](https://github.com/minnowlin)
 - SenhorN
