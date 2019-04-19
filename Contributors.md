@@ -73,6 +73,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [Zwilling](http://github.com/magnetar1997)
 - [Zein Hajj-Ali](https://github.com/ZeinHajjAli)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
+- [Mushfiqul Islam Chowdhury](https://github.com/mushfiqulIslam)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
 - Molly Johnson
@@ -1770,6 +1771,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - julio-garcia-fc
 - Skooma Den
 - wefromstars
+- [Steve Prakope] (https://github.com/prakope)
 - [Cristhian Medina](https://github.com/Cristhian-medina)
 - [Minnow Lin](https://github.com/minnowlin)
 - SenhorN
@@ -4539,6 +4541,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296](https://github.com/csy0296)
 - [Alexandro Perez](https://github.com/AlexandroPerez)
+- [Ashton Miller](https://github.com/ashton-miller) 
 - [Caleb Pomazon](https://github.com/calebpomazon)
 - [Henrique Fernandes](https://github.com/sfrique)
 - [Elizabeth Onder](https://github.com/eonder)
