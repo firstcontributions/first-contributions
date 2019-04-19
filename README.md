@@ -153,6 +153,70 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+## Sync fork repository with the upstream repository
+
+#### Configuring a remote for a fork
+
+You must configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. This also allows you to sync changes made in the original repository with the fork.
+
+* Open the terminal.
+* List the current configured remote repository for your fork.
+```
+$ git remote -v
+> origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+> origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+```
+3. Specify a new remote upstream repository that will be synced with the fork.
+```
+$ git remote -v
+$ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
+4. Verify the new upstream repository you've specified for your fork.
+```
+$ git remote -v
+> origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+> origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+```
+#### Syncing a fork
+1. Change the current working directory to your local project.
+2. Fetch the branches and their respective commits from the upstream repository. Commits to `master` will be     stored in a local branch, `upstream/master`.
+```
+$ git fetch upstream
+> remote: Counting objects: 75, done.
+> remote: Compressing objects: 100% (53/53), done.
+> remote: Total 62 (delta 27), reused 44 (delta 9)
+> Unpacking objects: 100% (62/62), done.
+> From https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY
+>  * [new branch]      master     -> upstream/master
+```
+3. Check out your fork's local `master` branch.
+```
+$ git checkout master
+> Switched to branch 'master'
+```
+4. Merge the changes from `upstream/master` into your local `master` branch. This brings your fork's `master`    branch into sync with the upstream repository, without losing your local changes.
+```
+$ git merge upstream/master
+> Updating a422352..5fdff0f
+> Fast-forward
+>  README                    |    9 -------
+>  README.md                 |    7 ++++++
+>  2 files changed, 7 insertions(+), 9 deletions(-)
+>  delete mode 100644 README
+>  create mode 100644 README.md
+```
+ If your local branch didn't have any unique commits, Git will instead perform a "fast-forward":
+```
+$ git merge upstream/master
+> Updating 34e91da..16c56ad
+> Fast-forward
+>  README.md                 |    5 +++--
+>  1 file changed, 3 insertions(+), 2 deletions(-)
+```
+
+
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
