@@ -334,6 +334,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Raunak Gopal]
 - [Akshay Pandit](https://github.com/panditakshay)
 - [jpgmoreira]
+- [Mark Lally](https://github.com/mark-lally)
 - Shawn Potter
 - Andrej
 - Johnny
