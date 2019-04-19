@@ -149,6 +149,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Joe Polaski](https://github.com/JosephPolaski) 
 - John Daniel
 - Ananya Gupta
+- Omri Sak
 - [Anushank Varshney](https://github.com/anushank-av)
 - [Vajean Stan](https://github.com/vajean)
 - [Sandip Guchait](https://github.com/sandipguchait)
