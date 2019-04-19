@@ -7,6 +7,7 @@
 - [Bradley Cavendish](https://github.com/bradcav)
 - [Kevin Andres](https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
+- [Enis Arik](https://github.com/earik87)
 - [GabrielCortizo]()
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
