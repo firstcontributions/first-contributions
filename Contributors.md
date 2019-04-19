@@ -59,6 +59,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
 - vidya
+- Bruce Wayne
 - [Karson Nichols](https://github.com/nicholsk18)
 - Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
