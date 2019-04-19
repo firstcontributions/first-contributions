@@ -13260,6 +13260,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [@rezzco](https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - Mateus Firmino
+- [Sunny Setia](https://github.com/sunnysetia93)
 - waleed m.
 - [nnuch](https://github.com/nnuch)
 - [Kinoahi](https://github.com/Kinoahi)
