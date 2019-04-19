@@ -180,6 +180,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Ratin Kumar](https://github.com/DumbMachine)
 - [Xiao zhen](https://github.com/XiaozhenChen)
 - Kent T
+- [Ashish Deep Singh](https://github.com/adsbhatial)
 - Nikhil
 - [Matthew Hadfield](https://github.com/matthadfield)
 - [Joseph Gale](https://github.com/josephgale)
