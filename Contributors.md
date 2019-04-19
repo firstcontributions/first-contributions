@@ -183,6 +183,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Tami Davies](https://github.com/TamiMcInnis)
 - [Ratin Kumar](https://github.com/DumbMachine)
 - [Xiao zhen](https://github.com/XiaozhenChen)
+- [Barry Johnson](https://github.com/hughbarronjohnson)
 - Kent T
 - [Ashish Deep Singh](https://github.com/adsbhatial)
 - Nikhil
