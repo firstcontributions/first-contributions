@@ -39,6 +39,7 @@
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
 - edwin
+Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - Sean Yi (https://github.com/sean-jy-yi)
