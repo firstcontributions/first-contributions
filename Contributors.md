@@ -61,6 +61,7 @@ Aryan Gupta (@withoutwaxaryan)
 - vidya
 - Bruce Wayne
 - [Karson Nichols](https://github.com/nicholsk18)
+- [Chirag Shah](https://github.com/avidLearnerInProgress)
 - Eden Savitt (https://github.com/edens21)
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
