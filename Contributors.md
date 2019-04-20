@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Rob Cotter](https://github.com/robcotter)
 - Kaobe Osolu
 - goodgrieff
 - [ElPapi42](https://github.com/ElPapi42)
