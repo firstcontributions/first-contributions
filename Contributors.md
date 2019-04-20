@@ -40,6 +40,7 @@
 - Tarun Agarwal (https://github.com/Tarun-abesit)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
+- KSeangTan (https://github.com/KSeangTan)
 - edwin
 Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
