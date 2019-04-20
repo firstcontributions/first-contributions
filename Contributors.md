@@ -110,6 +110,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Sajith Bandara
 - Ankita Chowdhry
 - Alex Puga (https://github.com/alpuga)
+- Danny Dan
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
 - [Rajat] (https://github.com/Rajat1999)
