@@ -6,9 +6,8 @@
 
 # První příspěvek
 
-Život je těžký. Obzvláště když něco děláte poprvé. V případě, že na něčem spolupracujete, není dělání chyb něco, co by vám dělalo radost. My bychom rádi zjednodušili cestu novým přispěvovatelům do open-source při jejich učení se jak na to.
-
-Čtení článků nebo shlédnutí video návodů jsou také cesty, ale co je lepší než si danou věc přímo osahat na vlastní kůži v reálném prostředí? Tento projekt je zaměřen na poskytnutí pomoci začátečníkům s jejich prvním přispěním do open-source. Pokud jste jím právě vy, následujte kroky popsané níže.
+Život je těžký. Obzvláště když něco děláte poprvé. V případě, že na něčem spolupracujete, není dělání chyb něco, co by vám dělalo radost. Rádi bychom pomohli novým přispěvatelům do open-source komunity a ukázali jim, jak na to.
+Čtení článků nebo shlédnutí video návodů jsou také cesty, ale co je lepší než si danou věc přímo osahat na vlastní kůži v reálném prostředí? Tento projekt je zaměřen na poskytnutí pomoci začátečníkům s jejich prvním příspěvkem  do open-source. Pokud jste jím právě vy, následujte kroky popsané níže.
 
 #### *Pokud nemáte rádi příkazovou řádku, [zde najdete návody na použití nástrojů s GUI (grafické uživatelské rozhraní)]( #tutorials-using-other-tools )*
 
@@ -87,9 +86,9 @@ git commit -m "Add <vase-jmeno> to Contributors list"
 
 Za přepínač `-m` se píše co dané změny představují, popis by měl být jednoduchý ale výstižný.
 
-## Protlačte změny na GitHub
+## Pushněte změny na GitHub
 
-Nyní změny provedené lokálně na počítači protlačíme (anglicky *push*) na GitHub příkazem `git push`:
+Nyní změny provedené lokálně na počítači pushneme (anglicky *push*) na GitHub příkazem `git push`:
 
 ```
 git push origin <jmeno-vasi-vetve>
@@ -101,11 +100,11 @@ Pokud se nyní podíváte do svého GitHub repozitáře, uvidíte tlačítko **C
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="vytvořte pull request" />
 
-Teď vytvořte žádost o přetažení vaší větve do originálního repozitáře (anglicky *pull request*).
+Teď vytvořte žádost o sloučení vaší větve ko´du do originálního repozitáře (anglicky *pull request*).
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="potvrďte pull request" />
 
-Brzy budu provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
+Některý z členů tétot komunity posoudí váš pull request (anglicky *master*) větve tohoto projektu. Až se k tomu někdo vyjádří nebo se větev sloučí, dostanete emailové upozornění.
 
 ## Kam dále?
 
