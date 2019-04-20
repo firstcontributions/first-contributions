@@ -4597,6 +4597,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - [Shubham Pampattiwar](https://github.com/shubhamself7)
 - alonzo church
+  Alex Bramah-Lawani
 - [Karthik Iyer](https://github.com/kni6228)
 - [Ahmed Abdulkadir](https://github.com/ahmedabdulkdir)
 - [Toon Brinks](https://github.com/oblomovx)
@@ -4782,6 +4783,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Christopher Tang](https://github.com/chrtang-exp)
 - [Luis Adrián Chávez Fregoso](https://github.com/lacf95)
 - Hemant Mishra
+
 - [Bilal Norelden](https://github.com/BNorelden)
 - [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
