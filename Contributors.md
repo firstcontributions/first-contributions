@@ -7,6 +7,7 @@
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - [Kevin Amalathas](https://github.com/amalathask)
+- [Kai Heng Ann](https://github.com/kaihengann/)
 - [Georgios Karakos](https://github.com/giorg0skar)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
 - [André Barranco](https://github.com/bandrefilipe)
