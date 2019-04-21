@@ -13293,6 +13293,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Jimmy Jeong](https://github.com/jeongjimmy32)
 - [@rezzco](https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
+- [Lucas Oliveira](https://github.com/Lucas-F-Oliveira)
 - Mateus Firmino
 - [Sunny Setia](https://github.com/sunnysetia93)
 - waleed m.
