@@ -86,6 +86,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Spencer Peace
 - Molly Johnson
 - Titan
+- Nikhil Mehta
 - Tzu Yun Fan Chiang (https://github.com/TzuYun)
 - Alexis Valenciano (https://github.com/allexxis)
 - Ashraf Ali Djauhari (https://github.com/ashrafadj)
