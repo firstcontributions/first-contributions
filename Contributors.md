@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
 - Kaobe Osolu
 - goodgrieff
