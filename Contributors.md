@@ -96,6 +96,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Hamdun Mohammed (https://github.com/Hamoha/)
 - Guy Shaibi
 - Josh Norman (https://github.com/jmnorma)
+- [Sean K Smith](https://github.com/sksmith)
 - Arka Pattanayak
 - Emmanuel Nery
 - Pranoto Budi (https://github.com/pranotobudi/)
