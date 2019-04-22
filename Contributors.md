@@ -695,6 +695,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
   = Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
+ [Veryverybored](https://github.com/vvb10)
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Dennis John](https://github.com/djohn002)
 - [Philemon Johnson](https://github.com/snowmanstark)
