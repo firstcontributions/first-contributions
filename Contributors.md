@@ -25,6 +25,7 @@
 - [Ali Bolourian](https://github.com/abolourian)
 - [Ali Kassir](https://github.com/AliKassir)
 - yasmiyazaki
+- [Azeez Adesina](https://github.com/anexponent)
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - Sampath MS (https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
