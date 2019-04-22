@@ -1,6 +1,7 @@
 # Contributors
 
 - [Zion Perez](https://github.com/starkindustries)
+  [Harish Mistry](https://github.com/Harish1227)
 - [Jatin Pai] (https://github.com/paijatin)
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
