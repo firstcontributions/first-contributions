@@ -277,7 +277,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
   Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma](https://github.com/GaayanVerma)
-- [Jon Sibala](https://github.com/sibalajp)
+- [Jon Sibala]( https://github.com/sibalajp )
   [Joshua Kim](https://github.com/joshualaj)
 - [Matt Saffert](https://github.com/saffe012)
 - [csdali13](https://github.com/csdali13)
