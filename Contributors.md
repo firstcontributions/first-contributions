@@ -482,6 +482,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Ben Ashley]
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
+- [raaya]
 - [Calum Ludwig](https://github.com/CalumLudwig)
 - [yoghurt]
 - [Brandon Keyes](https://github.com/bkeyes93)
