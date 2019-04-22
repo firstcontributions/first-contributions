@@ -36,6 +36,7 @@
 - Joshua Morgan
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
+- ProximitySound
 - Kate Choe 
 - Ran Levy
 - [Yu Wang](https://github.com/ywang412)
