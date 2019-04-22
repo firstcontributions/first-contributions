@@ -314,6 +314,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
+- Mauricio Calcaño - mcalcano https://github.com/mcalcano/ 
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Jesse Adkins](https://github.com/JesseAdkins91)
