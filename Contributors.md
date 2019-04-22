@@ -71,6 +71,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [Benjamin Allen](https://github.com/imami777)
 - vidya
 - Bruce Wayne
+- Arpit Shrotriya(https://github.com/Cyclostone)
 - [Karson Nichols](https://github.com/nicholsk18)
 - [Chirag Shah](https://github.com/avidLearnerInProgress)
 - [Shweta Joshi](https://github.com/shwetajoshi601)
