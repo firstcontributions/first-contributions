@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
@@ -13497,3 +13497,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Sokratis Kouimtzidis](https://github.com/sokratix)
 - [doesnotcompute420] (https://github.com/doesnotcompute420)
 - [Jose Ramon Martinez] (https://github.com/JRamonMC)
+- [yea678] (https://github.com/yea678)
