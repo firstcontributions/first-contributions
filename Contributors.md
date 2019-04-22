@@ -35,6 +35,7 @@
 - Daniel Fletemier
 - Kate Choe 
 - Ran Levy
+- [Yu Wang](https://github.com/ywang412)
 - [Anirban Dey](https://github.com/anirbandey303)
 - Hugo Bujan Prevot (https://github.com/Drithyl)
 - [Sarah Lindau](https://github.com/LSariel)
