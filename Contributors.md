@@ -66,6 +66,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Maceo Lewis (https://github.com/maceocodes)
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
+- [Benjamin Allen](https://github.com/imami777)
 - vidya
 - Bruce Wayne
 - [Karson Nichols](https://github.com/nicholsk18)
