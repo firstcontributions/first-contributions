@@ -541,7 +541,6 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Trevor Roy
 - AnoldYogi
 - kuhiga
-- [Andi Ferhati] (https://github.com/aferhati)
 - goop
 - Manoj
 - [metalinux91](https://github.com/metalinux91)
