@@ -7,6 +7,7 @@
 - [Rob Cotter](https://github.com/robcotter)
 - Kaobe Osolu
 - goodgrieff
+- [Jei](https://github.com/Jae-kwang)
 - [ElPapi42](https://github.com/ElPapi42)
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
