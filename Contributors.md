@@ -142,6 +142,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Junhwi Kim
 - Raymond Ng (https://github.com/RaymondNg0054)
 - Varun Mehrotra (https://github.com/VarunMehrotra)
+- Pratyay (https://github.com/praty94)
 - Kyle B
 - [Michael Lekhmus](https://github.com/mlekhmus)
 - [Hamlet Villa](https://github.com/hamletv)
