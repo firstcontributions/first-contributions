@@ -6,6 +6,7 @@
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
+- [Osama Arshad Dar](https://github.com/daroodar)
 - Kaobe Osolu
 - goodgrieff
 - [Jei](https://github.com/Jae-kwang)
