@@ -2,6 +2,7 @@
 
 - Kaobe Osolu
 - goodgrieff
+- Lady Aguilar
 - [André Barranco](https://github.com/bandrefilipe)
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Bradley Cavendish](https://github.com/bradcav)
