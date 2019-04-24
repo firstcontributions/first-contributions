@@ -14,6 +14,7 @@
 - [Jei](https://github.com/Jae-kwang)
 - [Mohit KC] (https://github.com/momonepal)
 - [ElPapi42](https://github.com/ElPapi42)
+- [Manoj Bagari](https://github.com/ManojBagari)
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - [Kevin Amalathas](https://github.com/amalathask)
