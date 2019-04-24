@@ -10,6 +10,7 @@
 - [Osama Arshad Dar](https://github.com/daroodar)
 - Kaobe Osolu
 - goodgrieff
+- [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
 - [ElPapi42](https://github.com/ElPapi42)
 - [Siew-Yit Yong](https://github.com/syyong)
