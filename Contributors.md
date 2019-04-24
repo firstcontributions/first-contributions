@@ -11,6 +11,7 @@
 - Kaobe Osolu
 - goodgrieff
 - [Jei](https://github.com/Jae-kwang)
+- [Mohit KC] (https://github.com/momonepal)
 - [ElPapi42](https://github.com/ElPapi42)
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
