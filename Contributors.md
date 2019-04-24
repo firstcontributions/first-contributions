@@ -11,6 +11,7 @@
 - Kaobe Osolu
 - goodgrieff
 - [Jei](https://github.com/Jae-kwang)
+- [Mohit KC] (https://github.com/momonepal)
 - [ElPapi42](https://github.com/ElPapi42)
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
@@ -3027,6 +3028,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Parinya Onsuwan](https://github.com/parinz1234)
 - [Maka Paka Perfect Hacker](https://github.com/makapaka)
 - [Anurag Kumar](https://github.com/kgloc)
+- [Aleksandr Lutkov](https://github.com/User0856)
 - [darthHunterous](https://github.com/darthHunterous)
 - [Matt Keeneth](https://github.com/mkeeneth)
 - [Sanket Bhat](https://github.com/SanketBhat)
@@ -13513,3 +13515,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [FcKoOl] (https://github.com/FcKoOl)
 - [Jennifer Kim]
 - [Changhyun An] (https://github.com/achooan)
+- [Janne Ilonen] (https://github.com/JanneIlonen) 
