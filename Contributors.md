@@ -10,6 +10,7 @@
 - [Osama Arshad Dar](https://github.com/daroodar)
 - Kaobe Osolu
 - goodgrieff
+- [Lavender Ding](https://github.com/Lavender-Ding)
 - [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
 - [Mohit KC] (https://github.com/momonepal)
