@@ -133,6 +133,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Alice Always
 - Mini Mel (https://github.com/Mini-mel)
 - Sajith Bandara
+- [James White] (https://github.com/jamesw922)
 - Ankita Chowdhry
 - Alex Puga (https://github.com/alpuga)
 - Danny Dan
