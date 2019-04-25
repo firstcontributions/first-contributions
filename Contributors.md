@@ -55,6 +55,7 @@
 - [Sarah Lindau](https://github.com/LSariel)
 - Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
+- {Guillermo Murua} (https://github.com/Sanscripter)
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
