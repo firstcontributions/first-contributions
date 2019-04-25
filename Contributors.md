@@ -49,6 +49,7 @@
 - Daniel Fletemier
 - ProximitySound
 - Kate Choe 
+- Cody James (https://github.com/C-F-J)
 - Ran Levy
 - [Yu Wang](https://github.com/ywang412)
 - [Anirban Dey](https://github.com/anirbandey303)
