@@ -27,6 +27,7 @@
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Evan MacBride](https://github.com/evanmacbride)
 - [Bradley Cavendish](https://github.com/bradcav)
+Navendu Barua
 - [Kevin Andres](https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [Enis Arik](https://github.com/earik87)
@@ -47,7 +48,7 @@
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
 - ProximitySound
-- Kate Choe 
+- Kate Choe
 - Ran Levy
 - [Yu Wang](https://github.com/ywang412)
 - [Anirban Dey](https://github.com/anirbandey303)
@@ -146,7 +147,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
-- Domi Pul 
+- Domi Pul
 - [Ferran Sulaiman](https://github.com/ferran9908)
 - [Ashikur Rashid Khan](https://github.com/ARK17)
   -peterson oaikhenah (https://github.com/nextwebb)
@@ -182,7 +183,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
-- [Joe Polaski](https://github.com/JosephPolaski) 
+- [Joe Polaski](https://github.com/JosephPolaski)
 - John Daniel
 - Ananya Gupta
 - Omri Sak
@@ -328,7 +329,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
-- Mauricio Calcaño - mcalcano https://github.com/mcalcano/ 
+- Mauricio Calcaño - mcalcano https://github.com/mcalcano/
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Jesse Adkins](https://github.com/JesseAdkins91)
@@ -4588,7 +4589,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296](https://github.com/csy0296)
 - [Alexandro Perez](https://github.com/AlexandroPerez)
-- [Ashton Miller](https://github.com/ashton-miller) 
+- [Ashton Miller](https://github.com/ashton-miller)
 - [Caleb Pomazon](https://github.com/calebpomazon)
 - [Henrique Fernandes](https://github.com/sfrique)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -13386,7 +13387,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Rishi Khanna](https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
-- [zer0tolerance](https://github.com/zer0tolerance) 
+- [zer0tolerance](https://github.com/zer0tolerance)
 - [al6625](https://github.com/alaj6625/first-contributions)
 - [Vireak Sok](https://github.com/Vireak-Sok)
 - [Xi Ming](https://github.com/seki2020)
@@ -13521,5 +13522,5 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Beth Ackerman] (https://github.com/betheackers)
 - [FcKoOl] (https://github.com/FcKoOl)
 - [Jennifer Kim]
-- [Janne Ilonen] (https://github.com/JanneIlonen) 
+- [Janne Ilonen] (https://github.com/JanneIlonen)
 - [Zizy Zhu] (https://github.com/zuzy)
