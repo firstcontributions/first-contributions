@@ -1434,6 +1434,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [James Caruana](https://github.com/jcaruana09)
 - alex
 - Stridford
+- [Arzang Kasiri](https://github.com/akasiri)
 - [Mithat Can Akgün](https://github.com/mithatcanakgun)
 - ppp
 - [Elias De Maertelaere](https://github.com/EliasDeMa)
