@@ -22,6 +22,7 @@
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Nafis Fuad](https://github.com/fuadmmnf)
 - [Manthan Admane](https://github.com/MisterAwesome23)
+- [Mike Zwiener](http://github.com/thecodingdoc1)
 - [Ivan Šostarec](https://github.com/isostarec)
 - [Dreyah](https://github.com/dreyahcodes)
 - [hh534]
