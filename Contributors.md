@@ -13499,6 +13499,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Drake Gens](https://github.com/drakegens)
 - wstolte02
 - keanuf
+- [Tristan Szakács] (https://github.com/Tristochi)
 - bhugall
 - [Dave Holly] (https://github.com/daveholly57)
 - [Nic Vigil] (https://githib.com/nicvigil)
@@ -13524,3 +13525,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Jennifer Kim]
 - [Janne Ilonen] (https://github.com/JanneIlonen) 
 - [Zizy Zhu] (https://github.com/zuzy)
+
