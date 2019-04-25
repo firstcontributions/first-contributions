@@ -5,6 +5,7 @@
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Sahil Bondre](https://github.com/godcrampy)
+- [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
 - [Osama Arshad Dar](https://github.com/daroodar)
