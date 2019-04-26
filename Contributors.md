@@ -13,6 +13,7 @@
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
 - [Osama Arshad Dar](https://github.com/daroodar)
+- [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
 - goodgrieff
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
