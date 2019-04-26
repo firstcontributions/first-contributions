@@ -11848,6 +11848,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [K Zhao](https://github.com/K-zhao)
 - [Faseem Munna](https://github.com/faseem9048080829)
 - [Mayank Srivastav](https://github.com/mks198766)
+- Shea Wilson
 - [Jason Oats](https://github.com/jason-oats)
 - [TAKUYA YOshimura](https://github.com/yoshitaku-jp)
 - [Jing Rong Lim](https://github.com/jjingrong)
