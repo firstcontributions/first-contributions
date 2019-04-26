@@ -651,6 +651,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
   Giovanni
 - [Mighil Dath](https://github.com/Mighil31)
 - [Andrys Daniel Silalahi](https://github.com/andrysds)
+- [Marcos Hernández Rodríguez](https://github.com/marcoshr)
 - [Abhinav Sagar](https://github.com/abhinavsagar)
 - [Oguzhan Kelleci](https://github.com/OguzhanKelleci)
 - [Shubham Rajput](https://github.com/shubh710)
