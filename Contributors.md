@@ -13529,3 +13529,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Jennifer Kim]
 - [Janne Ilonen] (https://github.com/JanneIlonen) 
 - [Zizy Zhu] (https://github.com/zuzy)
+- [German Distel]
