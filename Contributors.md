@@ -49,6 +49,7 @@
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
+- [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
 - ProximitySound
