@@ -13,6 +13,7 @@
 - [Osama Arshad Dar](https://github.com/daroodar)
 - Kaobe Osolu
 - goodgrieff
+- [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Lavender Ding](https://github.com/Lavender-Ding)
 - [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
