@@ -43,6 +43,7 @@
 - [Ali Bolourian](https://github.com/abolourian)
 - [Ali Kassir](https://github.com/AliKassir)
 - yasmiyazaki
+- ERIB
 - [Gerardo Torres](https://github.com/geratorres)
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - Sampath MS (https://github.com/sampath-ms/)
