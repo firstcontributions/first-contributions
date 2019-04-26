@@ -33,6 +33,7 @@
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [Enis Arik](https://github.com/earik87)
 - [GabrielCortizo]()
+- [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
 - [Ali Bolourian](https://github.com/abolourian)
