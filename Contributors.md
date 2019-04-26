@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Florian Le Gars](https://github.com/florian-lg)
+- [Mike Thramann](https://github.com/mthramann)
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
 - [Jatin Pai] (https://github.com/paijatin)
