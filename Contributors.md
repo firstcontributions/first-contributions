@@ -86,6 +86,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Vinayak Sharma
 - Luiz H. Alves (https://github.com/lhalvesf)
 - Gabriela Holanda (https://github.com/badeca)
+- [Max](https://github.com/mjoellnier) 
 - Maceo Lewis (https://github.com/maceocodes)
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
