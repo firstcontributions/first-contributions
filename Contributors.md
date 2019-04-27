@@ -16,6 +16,7 @@
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
 - goodgrieff
+- [Duy Trinh] (https://github.com/duytrinhvn)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Lavender Ding](https://github.com/Lavender-Ding)
 - [tkez](https://github.com/tkez)
