@@ -460,6 +460,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Saksham Saigal]
 - [Omer Liberman]
 - [Tobi Adewuyi]
+- [gittestjp]
 - [Bryan Gelfius](https://github.com/bgelfius)
 - [Sotherny Kosal](https://github.com/Sotherny)
 - [Ketna Khalasi](https://github.com/kentak)
