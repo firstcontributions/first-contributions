@@ -13,6 +13,7 @@
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
 - [Osama Arshad Dar](https://github.com/daroodar)
+- [Yi Zhang(翼翼)](https://github.com/zhangyi921)
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
 - goodgrieff
