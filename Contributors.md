@@ -152,6 +152,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [James White] (https://github.com/jamesw922)
 - Ankita Chowdhry
 - Alex Puga (https://github.com/alpuga)
+- AlexFreyr (https://github.com/AlexFreyr)
 - Danny Dan
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
