@@ -2037,6 +2037,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Fabian Terh](https://github.com/fterh)
 - [Fred Aswad](https://github.com/cbdoc)
 - [axux](https://github.com/axux)
+- [J-O Eriksson](https://github.com/Joeriksson)
 - [Bárbara Fernandes](https://github.com/barbaradcf)
 - [Berk Erol](https://github.com/berkerol)https://github.com/ioakaarjun/first-contributions.git
 - [Chaman Agrawal](https://github.com/ChamanAgrawal)
