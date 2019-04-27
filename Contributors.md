@@ -35,6 +35,7 @@
 - [André Barranco](https://github.com/bandrefilipe)
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Evan MacBride](https://github.com/evanmacbride)
+- [HeroicHitesh] (https://github.com/HeroicHitesh)
 - [Bradley Cavendish](https://github.com/bradcav)
 - [Kevin Andres](https://github.com/KevinKAMS)
 - [Safdar Jamal](https://github.com/clever-programmer)
