@@ -54,6 +54,7 @@
 - yasmiyazaki
 - ERIB
 - [Gerardo Torres](https://github.com/geratorres)
+- Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - Sampath MS (https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
