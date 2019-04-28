@@ -1991,6 +1991,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Bruno Vasconcelos](https://github.com/brunohgv)
 - [Avivex1000](https://github.com/avivex1000)
 - [Kegjams](https://github.com/Kegjams)
+- [Carlos Fegurgur](https://github.com/carlosaqf)
 - [nathhia](https://github.com/nathhia)
 - SS491
 - Param Thakker
