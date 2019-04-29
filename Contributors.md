@@ -27,7 +27,7 @@
 - Mark Sargent (https://github.com/mesargent/)
 - Joshua Morgan
 - Daniel Fletemier
-- Kate Choe 
+- Kate Choe
 - Ran Levy
 - Hugo Bujan Prevot (https://github.com/Drithyl)
 - [Sarah Lindau](https://github.com/LSariel)
@@ -106,7 +106,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
-- Domi Pul 
+- Domi Pul
 - [Ferran Sulaiman](https://github.com/ferran9908)
 - [Ashikur Rashid Khan](https://github.com/ARK17)
   -peterson oaikhenah (https://github.com/nextwebb)
@@ -141,7 +141,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
-- [Joe Polaski](https://github.com/JosephPolaski) 
+- [Joe Polaski](https://github.com/JosephPolaski)
 - John Daniel
 - Ananya Gupta
 - [Anushank Varshney](https://github.com/anushank-av)
@@ -5834,6 +5834,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Tonia Del Priore](https://github.com/toninjaa)
 - [Denis Kajgorodov](https://github.com/terracott)
 - [David Jung](https://github.com/sungwonida)
+  [Jacques Nalletamby](https://github.com/Jacques89)
 - [Paolo Manca](https://github.com/piemme)
 - [Sheila Gomes](https://github.com/sheilagomes)
 - [Garden Snake](https://github.com/GardenSnake)
@@ -13313,7 +13314,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Rishi Khanna](https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
-- [zer0tolerance](https://github.com/zer0tolerance) 
+- [zer0tolerance](https://github.com/zer0tolerance)
 - [al6625](https://github.com/alaj6625/first-contributions)
 - [Vireak Sok](https://github.com/Vireak-Sok)
 - [Xi Ming](https://github.com/seki2020)
