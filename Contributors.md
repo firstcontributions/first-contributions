@@ -145,6 +145,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Emmanuel Nery
 - Pranoto Budi (https://github.com/pranotobudi/)
 - Tong Li (https://github.com/TongLiGithub)
+- Leonardo Rotondano (https://github.com/leorotondano)
 - Rodrigo Nader (https://github.com/rodrigosnader)
 - Uchenna Sylvester Okoro (https://github.com/UcheSylvester)
 - Gouzal Larbi (https://github.com/gouzal)
