@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
@@ -87,6 +87,7 @@
 Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
+- cubitoverde
 - Sean Yi (https://github.com/sean-jy-yi)
 - Foysal Remon (https://github.com/foysalremon)
 - shivanis22 (https://github.com/shivanis22)
