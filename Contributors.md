@@ -54,6 +54,7 @@
 - [Ali Kassir](https://github.com/AliKassir)
 - yasmiyazaki
 - ERIB
+- Hosbovery
 - [Gerardo Torres](https://github.com/geratorres)
 - Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
