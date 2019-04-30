@@ -729,6 +729,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Vishal Vaddadhi
 - [Brett Langford](https://github.com/itsbett)
 - [Daniel Lawrence](https://github.com/danielplawrence)
+- [Nicholas Ricci](https://github.com/nicholasricci)
 - Marc
 - Michael Baramidze
 - [Rohit Kapoor](https://github.com/algo-circle)
