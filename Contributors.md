@@ -81,6 +81,7 @@
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
+- Pankaj Joshi (https://github.com/pankaj-kvhld)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
 - KSeangTan (https://github.com/KSeangTan)
