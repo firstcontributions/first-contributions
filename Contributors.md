@@ -1,5 +1,6 @@
 # Contributors
 
+- [Leonardo Daher](https://github.com/leodaher)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
