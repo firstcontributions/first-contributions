@@ -54,6 +54,7 @@
 - [Ali Kassir](https://github.com/AliKassir)
 - yasmiyazaki
 - ERIB
+- Hosbovery
 - [Gerardo Torres](https://github.com/geratorres)
 - Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
@@ -81,6 +82,7 @@
 - Christian Mason (https://github.com/ChristianMMason)
 - Agrwalp86 (https://github.com/agrawalp86/)
 - Tarun Agarwal (https://github.com/Tarun-abesit)
+- Pankaj Joshi (https://github.com/pankaj-kvhld)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
 - KSeangTan (https://github.com/KSeangTan)
@@ -6899,6 +6901,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [kaushal196](https://github.com/Kaushal196)
 - [Ajay Singh](https://github.com/AjayZinngg)
 - [Ball Surasit](https://github.com/ballsurasit)
+- [Reynaldo Abreu](https://github.com/reyabreu)
 - [Ojas](https://github.com/ojas360)
 - [hale](https://github.com/haleilk)
 - [petrovnr](https://github.com/petrovnr)
@@ -8002,6 +8005,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Sharat Madanapalli](https://github.com/sharat910)
 - [Fathur Rachman W](https://github.com/fathuraw)
 - [Ersikan](https://github.com/Ersikan)
+- [Joe Gollakner](https://github.com/JGollakner)
 - [Fabio Mancin](https://github.com/fender1990)
 - [imaN Neo](https://github.com/imaNNeoFighT)
 - [alik](https://github.com/ochebotar)
@@ -13586,3 +13590,4 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [1F0](https://github.com/1f0)
 - [lahla81] (https://github.com/lahla81)
 - [Federico Giamporcaro](https://github.com/fedegiamporcaro)
+- [bekahh] (https://github.com/bekahh)
