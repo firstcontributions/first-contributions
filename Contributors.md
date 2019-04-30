@@ -247,6 +247,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Ratin Kumar](https://github.com/DumbMachine)
 - [Xiao zhen](https://github.com/XiaozhenChen)
 - [Barry Johnson](https://github.com/hughbarronjohnson)
+- Daniel Caccavelli
 - Kent T
 - [Ashish Deep Singh](https://github.com/adsbhatial)
 - Nikhil
