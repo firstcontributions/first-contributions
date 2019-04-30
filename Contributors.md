@@ -57,6 +57,7 @@
 - ERIB
 - Hosbovery
 - [Gerardo Torres](https://github.com/geratorres)
+- [Faraz Murtaza](https://github.com/farazmurtaza)
 - Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - Sampath MS (https://github.com/sampath-ms/)
