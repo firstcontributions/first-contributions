@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -8802,6 +8802,7 @@ CMBloodMeridian
 - [David Claxton](https://github.com/dclaxton6)
 - [Zach Gollwitzer](https://github.com/zachgoll)
 - [Andre Kraak](https://github.com/AndreKraak)
+- [Igor Schechtel](https://github.com/igorschechtel)
 - [Hudson Alves](https://github.com/hudsonalves)
 - [Ryan Lingle](https://github.com/ryan-lingle/)
 - [abrandell](https://github.com/abrandell)
