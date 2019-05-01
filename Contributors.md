@@ -75,6 +75,7 @@
 - Cody James (https://github.com/C-F-J)
 - Ran Levy
 - [Yu Wang](https://github.com/ywang412)
+- [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Anirban Dey](https://github.com/anirbandey303)
 - Hugo Bujan Prevot (https://github.com/Drithyl)
 - [Sarah Lindau](https://github.com/LSariel)
