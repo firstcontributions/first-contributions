@@ -26,6 +26,7 @@
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Duy Trinh] (https://github.com/duytrinhvn)
+- [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Lavender Ding](https://github.com/Lavender-Ding)
