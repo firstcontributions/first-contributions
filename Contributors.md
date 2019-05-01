@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -13600,3 +13600,4 @@ CMBloodMeridian
 - [lahla81] (https://github.com/lahla81)
 - [bekahh] (https://github.com/bekahh)
 - [Jeffrey Hui] (https://github.com/jeffrey-hui)
+-[tkaus]
