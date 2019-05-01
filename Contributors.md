@@ -8986,6 +8986,7 @@ CMBloodMeridian
 - [Victor Franca](https://github.com/victorfrancax1)
 - [Umashankar Varma](https://github.com/usvarma)
 - [Jose Georges](https://github.com/josegeorges8)
+- [Chris Black](https://github.com/thischrisblack)
 - [Danielle Hanvey](https://github.com/dhanvey)
 - [Evin O'Shea](https://github.com/evinosheaforward)
 - [Jase Languasco](https://github.com/jase-languasco)
