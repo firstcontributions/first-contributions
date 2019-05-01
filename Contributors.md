@@ -21,6 +21,7 @@
 - [Muhammad](https://github.com/madmedmod)
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
+- [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Duy Trinh] (https://github.com/duytrinhvn)
 - [Medha Pandey](https://github.com/Medha08)
