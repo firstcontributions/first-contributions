@@ -636,6 +636,7 @@ CMBloodMeridian
 - [Jeremy Benis](https://github.com/GermCodeGood)
 - [Matt Belcher](https://github.com/MattBelcher)
 - Patricia Rogers
+- Sunil KS
 - [Antonio GC](https://github.com/atek23/)
 - Robert Ybarra
 - Haritha Senevirathne
