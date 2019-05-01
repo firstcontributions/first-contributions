@@ -1270,6 +1270,7 @@ CMBloodMeridian
 - [Juliardi Fajar Hidayatullah](https://github.com/sog01)
 - [Paul Yin](https://github.com/paulyin2001)
 - [Zuzana Svabova](https://github.com/harveler/)
+- [Mattssu](https://github.com/Mattssu)
 - [Callan Hoskins](https://github.com/callanhoskins)
 - rob
 - masterofmagic
