@@ -1,6 +1,7 @@
 # Contributors
 
 - [Bob Allan](https://github.com/BobAllan123)
+- [Osama Elswah](https://github.com/osa1989)
 - [Sam Kiterro](https://github.com/kiterro)
 - [M.D. Kim](https://github.com/bakker4444)
 - [Michel Kabba](https://github.com/mkabbz)
