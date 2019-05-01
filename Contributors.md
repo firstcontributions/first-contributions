@@ -2329,6 +2329,7 @@ CMBloodMeridian
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - Madhavik Agarwal
 - [Arseny Poga](https://github.com/arsenypoga)
+- [Shoyeb Memon](https://github.com/memon07)
 - [Vinit Mahajan](https://github.com/mahajanvv)
 - [SH Shin](https://github.com/sshplendid)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
