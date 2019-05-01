@@ -5,6 +5,7 @@
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
+- [Yudi](https://github.com/yudi7ll)
 - [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
 - [Zion Perez](https://github.com/starkindustries)
