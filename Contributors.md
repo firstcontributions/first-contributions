@@ -425,6 +425,7 @@ CMBloodMeridian
 - [Robert](https://github.com/rob3rtm0r)
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Gabo Lopez](https://github.com/Gabolan)
+- [Lala]
 - [Bridget Nichols](https://github.com/BridgetNichols)
 - [Adico](https://github.com/adico1)
 - [Stuart Todd](https://github.com/sdtodd)
