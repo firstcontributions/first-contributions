@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -73,6 +73,7 @@
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
+- [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
 - [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
