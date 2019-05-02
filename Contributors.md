@@ -13621,4 +13621,5 @@ CMBloodMeridian
 - [Jeffrey Hui] (https://github.com/jeffrey-hui)
 - [PerfectDay20] (https://github.com/PerfectDay20)
 - [Levon Ar] (https://github.com/LevonAr)
+- [el mamado](https://github.com/el-mamado)
 - [Zenith0] (https://github.com/zenith0)
