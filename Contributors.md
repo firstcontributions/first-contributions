@@ -11,6 +11,7 @@
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
 - [David Bednar](https://github.com/purefisher)
+- [Shaloom Kashama](https://github.com/skashama)
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
 - [Jatin Pai] (https://github.com/paijatin)
