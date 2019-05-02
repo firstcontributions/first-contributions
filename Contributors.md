@@ -885,6 +885,7 @@ CMBloodMeridian
 - [Jessica Saini](https://github.com/Jess2110)
 - [Catiane Matiello](https://github.com/cmatiello)
 - [Erick Todd](https://github.com/ddot727)
+- [Sonny Shum](https://github.com/sonnyshum)
 - [Stephanie Coates](https://github.com/stephaniecoates)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Satyajeet Maharana](https://github.com/satyajeetmaharana)
