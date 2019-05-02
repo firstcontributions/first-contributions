@@ -56,6 +56,7 @@
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [Enis Arik](https://github.com/earik87)
 - [GabrielCortizo]()
+- [Mike Noel](https://github.com/mkno88)
 - [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
