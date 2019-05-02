@@ -365,6 +365,7 @@ CMBloodMeridian
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
+- [Jack Mason] (https://github.com/jack-alexander-ie)
 
 - Robert
 - [Christopher Bradford](https://github.com/sunkencity999)
