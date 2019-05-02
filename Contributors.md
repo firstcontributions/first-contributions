@@ -6,6 +6,7 @@
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Yudi](https://github.com/yudi7ll)
+- [Zach James](https://github.com/ZachJames)
 - [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
