@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -8,6 +8,8 @@
 - [Yudi](https://github.com/yudi7ll)
 - [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
+- [Giovanni Lituma](https://github.com/giovannixdev)
+- [David Bednar](https://github.com/purefisher)
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
 - [Jatin Pai] (https://github.com/paijatin)
@@ -25,6 +27,7 @@
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Duy Trinh] (https://github.com/duytrinhvn)
+- [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Lavender Ding](https://github.com/Lavender-Ding)
@@ -59,6 +62,7 @@
 - yasmiyazaki
 - ERIB
 - Hosbovery
+- [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Gerardo Torres](https://github.com/geratorres)
 - [Faraz Murtaza](https://github.com/farazmurtaza)
 - Vedant Pareek
@@ -2328,6 +2332,7 @@ CMBloodMeridian
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - Madhavik Agarwal
 - [Arseny Poga](https://github.com/arsenypoga)
+- [Shoyeb Memon](https://github.com/memon07)
 - [Vinit Mahajan](https://github.com/mahajanvv)
 - [SH Shin](https://github.com/sshplendid)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
@@ -13606,4 +13611,5 @@ CMBloodMeridian
 - [lahla81] (https://github.com/lahla81)
 - [bekahh] (https://github.com/bekahh)
 - [Jeffrey Hui] (https://github.com/jeffrey-hui)
+- [Levon Ar] (https://github.com/LevonAr)
 - [Jonasz Karwacki] (https://github.com/escofresco)
