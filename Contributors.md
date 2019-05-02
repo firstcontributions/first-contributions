@@ -61,6 +61,7 @@
 - yasmiyazaki
 - ERIB
 - Hosbovery
+- [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Gerardo Torres](https://github.com/geratorres)
 - [Faraz Murtaza](https://github.com/farazmurtaza)
 - Vedant Pareek
