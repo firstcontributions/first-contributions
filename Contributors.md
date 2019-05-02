@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -8,6 +8,7 @@
 - [Yudi](https://github.com/yudi7ll)
 - [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
+- [Giovanni Lituma](https://github.com/giovannixdev)
 - [David Bednar](https://github.com/purefisher)
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
