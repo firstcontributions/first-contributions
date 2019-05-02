@@ -14,6 +14,7 @@
 - [Shaloom Kashama](https://github.com/skashama)
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
+  [Aayush Bhan](https://github.com/aayushbhan)
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Varshini Ananta] (https://github.com/sananta) 
