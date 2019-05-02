@@ -4,6 +4,7 @@
 - [Leonardo Daher](https://github.com/leodaher)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
+- [Axel Fernández](https://github.com/azzefj)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Yudi](https://github.com/yudi7ll)
 - [Florian Le Gars](https://github.com/florian-lg)
