@@ -29,6 +29,7 @@
 - Kaobe Osolu
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
+- [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
 - [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
