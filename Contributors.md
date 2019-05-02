@@ -663,6 +663,7 @@ CMBloodMeridian
 - [Aayush Gupta](https://github.com/aayushgupta97)
 - Teddy Chen
 - Ben Bond
+- [Robert Repp] (https://github.com/blooblob)
 - [Satya Pati](https://github.com/iamsatyapati)
 - [Parisa Tork](https://github.com/ParisaTork)
 - [Branden LaCour](https//github.com/brandenlacour)
