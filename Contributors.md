@@ -13629,3 +13629,4 @@ CMBloodMeridian
 - [Levon Ar] (https://github.com/LevonAr)
 - [el mamado](https://github.com/el-mamado)
 - [Zenith0] (https://github.com/zenith0)
+- [Luis Fernando Lins] (https://github.com/luis-f-lins)
