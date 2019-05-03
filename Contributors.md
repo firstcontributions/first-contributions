@@ -1422,6 +1422,7 @@ CMBloodMeridian
 - [Erik Harte](https://github.com/hartee)
 - [Austin Kvaale](https://github.com/akvaale/first-contributions.git)
 - mikmik
+- [Emily Pham] (https://github.com/tpham523)
 - [Varun Goyal](https://github.com/govarun)
 - [faveja](https://github.com/faveja)
 - [Mitchell Weber](https://github.com/mitchellweber7)
