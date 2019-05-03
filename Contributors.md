@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -13637,3 +13637,4 @@ CMBloodMeridian
 - [Zenith0] (https://github.com/zenith0)
 - [Luis Fernando Lins] (https://github.com/luis-f-lins)
 - [fennelltim] (https://github.com/fennelltim)
+- [sjdeak] (https://github.com/sjdeak)
