@@ -30,6 +30,7 @@
 - Kaobe Osolu
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
+- [Anthony Chen] (https://github.com/achencoms)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
 - [Allyson Frazier] (https://github.com/allyson09)
