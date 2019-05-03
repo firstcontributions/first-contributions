@@ -1,4 +1,4 @@
-﻿# Contributors
+﻿CXZ:
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
@@ -35,7 +35,7 @@
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
 - [Allyson Frazier] (https://github.com/allyson09)
-- [Medha Pandey](https://github.com/Medha08)
+https://github.com/thedhanawada/first-contributions.git [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Lavender Ding](https://github.com/Lavender-Ding)
 - [tkez](https://github.com/tkez)
@@ -111,6 +111,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - cubitoverde
+- Nirmala Rao Dhanawada (https://github.com/thedhanawada/)
 - Sean Yi (https://github.com/sean-jy-yi)
 - Foysal Remon (https://github.com/foysalremon)
 - shivanis22 (https://github.com/shivanis22)
