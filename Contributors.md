@@ -316,6 +316,7 @@ CMBloodMeridian
   grzesebe
   Srinivas Pudu
 - Weita XD
+- Usame Kaldırım
 - Ian Cameron
 - [Şammas Çölkesen](https://github.com/kavanozkafa)
 - [Jesse Kanter](https://github.com/JesseKanter)
