@@ -121,6 +121,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Jacqueline Alves Barbosa (https://github.com/jacquealvesb)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- [Robbie Cleaves](https://github.com/SpacemanRC)
 - Vinayak Sharma
 - Luiz H. Alves (https://github.com/lhalvesf)
 - Gabriela Holanda (https://github.com/badeca)
