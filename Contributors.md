@@ -3,6 +3,7 @@
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
+- [Nauman Shakir](https://github.com/Nauman3S)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Yudi](https://github.com/yudi7ll)
