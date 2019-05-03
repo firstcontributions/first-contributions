@@ -34,6 +34,7 @@
 - [Anthony Chen] (https://github.com/achencoms)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
+- [Michael Lucic](https://github.com/mlucic2014)
 - [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
