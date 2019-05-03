@@ -182,6 +182,7 @@ Aryan Gupta (@withoutwaxaryan)
 - David An
 - Alice Always
 - Mini Mel (https://github.com/Mini-mel)
+- Bug2k19
 - Sajith Bandara
 - [James White] (https://github.com/jamesw922)
 - Ankita Chowdhry
