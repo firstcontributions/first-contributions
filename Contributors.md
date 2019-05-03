@@ -4971,6 +4971,7 @@ CMBloodMeridian
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
 - [Emily Yu](https://github.com/Lumina)
+- [Martin Ng](https://github.com/martinngy)
 - [Dovydas Ciomenas](https://github.com/icouldbreathe)
 - [Gardiner Nardini](https://github.com/gnardinigh)
 - [Trevor Yarmovich](https://github.com/Prometheus1970)
