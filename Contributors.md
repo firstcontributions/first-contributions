@@ -7594,6 +7594,7 @@ CMBloodMeridian
 - [Aaron Trammell](https://github.com/ern19)
 - [Simon Biddle](https://github.com/BigNom)
 - [Manos Koutselakis](https://github.com/manoskoutselakis)
+- [Carlie Thomas] (https://github.com/cthomas88)
 - [JC Connell](https://github.com/jcconnell)
 - Vanhee Arne
 - [Luiz Henrique Domingues Soares](https://github.com/luizhenrique07)
