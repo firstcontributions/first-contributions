@@ -19,6 +19,7 @@
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Varshini Ananta] (https://github.com/sananta) 
+- [Random-VI Innocent] (https://github.com/randomvi) 
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Ben Hunter](https://github.com/benhunter)
