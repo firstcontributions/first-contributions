@@ -42,6 +42,7 @@
 - [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
 - [Mohit KC] (https://github.com/momonepal)
+- [Josip128] (https://github.com/jops128)
 - [ElPapi42](https://github.com/ElPapi42)
 - [Manoj Bagari](https://github.com/ManojBagari)
 - [Siew-Yit Yong](https://github.com/syyong)
