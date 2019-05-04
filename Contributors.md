@@ -12564,6 +12564,7 @@ CMBloodMeridian
 - [Marcelo Silva Santos](https://github.com/SAPBusinessOneBrasil)
 - [Jonas Denardi](https://github.com/jonasrdenardi)
 - [Andrei Luis](https://github.com/AndreiLuis)
+- [arvvn](https://github.com/arvvn)
 - [Beatriz Miranda](https://github.com/BeaMtrix)
 - [Cooper Stainbrook](https://github.com/cstainbrook)
 - [Deise Silva](https://github.com/AtreydesKS)
