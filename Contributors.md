@@ -94,6 +94,7 @@
 - Cody James (https://github.com/C-F-J)
 - Ran Levy
 - [Vishal Bahedia](https://github.com/vishalvb)
+- [Arthur Baldner](https://github.com/arthurbaldner)
 - [Yu Wang](https://github.com/ywang412)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Anirban Dey](https://github.com/anirbandey303)
