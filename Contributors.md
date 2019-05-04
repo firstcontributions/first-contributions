@@ -560,6 +560,7 @@ CMBloodMeridian
 - [Arthur Villar](https://github.com/tato-rj)
 - [Akshay Patil](https://github.com/ImAkPatil)
 - [jyo]
+- [Arthur Chan](https://github.com/ArthurChan0427)
 - [Ben Ashley]
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
