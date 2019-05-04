@@ -417,6 +417,7 @@ CMBloodMeridian
 - [Ryan Marion]
 - [Ricardo Nunes](https://github.com/sanunes)
 - [Anish Joshi](https://github.com/anishjoshi500)
+- [Timothy Brewster](https://github.com/trbrwstr)
 - [nomope](https://github.com/nomope)
 - [Zack]
 - [gholi]
