@@ -6568,6 +6568,7 @@ CMBloodMeridian
 - [**Devsur**](https://github.com/devsur)
 - [LRThesier](https://github.com/lrthesier)
 - [Brianna Florio](https://github.com/Bflorio14)
+- [Michelle Rodriguez] (https://github.com/MichelleNicole22)
 - [Joe Wilson](https://github.com/jaw0608)
 - [Jordan Hale-Clowes](https://github.com/JordanHC)
 - [Paul Chabot](https://github.com/paulch4bot)
