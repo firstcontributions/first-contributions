@@ -2,6 +2,7 @@
 
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
+- [Rajeev Joshi](https://github.com/rj-1234)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Nauman Shakir](https://github.com/Nauman3S)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
