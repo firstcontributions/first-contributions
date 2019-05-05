@@ -13655,3 +13655,4 @@ CMBloodMeridian
 - [Vishnu Kumar] (https://github.com/sasivishnu)
 - [Raghunandan Lohe] (https://github.com/raghulohe)
 - [Saadnoor] (https://github.com/saadnoor)
+- [Ingrid Pitta](https://github.com/ingridpitta)
