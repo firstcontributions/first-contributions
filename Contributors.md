@@ -1,7 +1,9 @@
 ﻿# Contributors
 
+- [Lecce Marco](https://github.com/lecciovich)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
+- [Rajeev Joshi](https://github.com/rj-1234)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Nauman Shakir](https://github.com/Nauman3S)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
@@ -87,6 +89,7 @@
 - [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
 - [Talon Dechert] (https://github.com/Talon-Dechert)
+- Gabby Cepeda (https://github.com/gabrielacepeda)
 - [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
@@ -722,6 +725,7 @@ CMBloodMeridian
 - [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Saksham Rastogi](https://github.com/codeboy5)
+- [mazayo](https://github.com/mazayo)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Yash Bhardwaj](https://github.com/Wyverns010)
 - [Harsh Patel](https://github.com/Pharshgit)
@@ -785,6 +789,7 @@ CMBloodMeridian
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
 - MoonMen
+- Siddhant Sahoo (https://github.com/SidEnigma)
 - [aboalnaga](https://github.com/aboalnaga)
 - [BlueOrange](https://github.com/lostghost-dev)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
@@ -3991,6 +3996,7 @@ CMBloodMeridian
 - [c-kirkeby](https://github.com/c-kirkeby)
 - [Jonathan Brooks](https://github.com/blauks)
 - Andrea Catania
+- [Ayoub Ghaninou](https://github.com/Ayoubghaninou)
 - [Andre Roldan](https://github.com/Mostachin)
 - [Matt McCherry](https://github.com/MattMcCherry/)
 - [Rehan jananga](https://github.com/rehanj)
@@ -13201,6 +13207,7 @@ CMBloodMeridian
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
+- [Ralph Quirequire](https://github.com/ralphqq)
 - [Marcel Gehlen](https://github.com/mgehlen)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
@@ -13554,6 +13561,7 @@ CMBloodMeridian
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - Nath
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
+- [Sandeepa AMCP](https://github.com/sandeepaamcp)
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
 - [Jesrapo](https://github.com/jesrapo)
 - [Dmitriy Makarov](https://github.com/dmxich)
@@ -13632,6 +13640,7 @@ CMBloodMeridian
 - [Janne Ilonen] (https://github.com/JanneIlonen) 
 - [Zizy Zhu] (https://github.com/zuzy)
 - [German Distel]
+- [Kenny McEwan] (https://github.com/kennymce)
 - [Feng JieJun Iron Man]
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
@@ -13655,3 +13664,4 @@ CMBloodMeridian
 - [Vishnu Kumar] (https://github.com/sasivishnu)
 - [Raghunandan Lohe] (https://github.com/raghulohe)
 - [Saadnoor] (https://github.com/saadnoor)
+- [Ingrid Pitta](https://github.com/ingridpitta)
