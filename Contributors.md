@@ -786,6 +786,7 @@ CMBloodMeridian
 - [Philemon Johnson](https://github.com/snowmanstark)
 - Inon C
 - MoonMen
+- Siddhant Sahoo (https://github.com/SidEnigma)
 - [aboalnaga](https://github.com/aboalnaga)
 - [BlueOrange](https://github.com/lostghost-dev)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
