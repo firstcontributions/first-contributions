@@ -20,6 +20,7 @@
   [Aayush Bhan](https://github.com/aayushbhan)
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
+- [Dominic Jesse] (https://github.com/aphorism44)
 - [Varshini Ananta] (https://github.com/sananta) 
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Sahil Bondre](https://github.com/godcrampy)
