@@ -86,7 +86,7 @@
 - Mark Sargent (https://github.com/mesargent/)
 - [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
-- Talon Dechert
+- [Talon Dechert] (https://github.com/Talon-Dechert)
 - [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
