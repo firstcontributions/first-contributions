@@ -33,6 +33,7 @@
 - [Muhammad](https://github.com/madmedmod)
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
+- [Casey Godbout] (https://github.com/cgodbout412)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Anthony Chen] (https://github.com/achencoms)
