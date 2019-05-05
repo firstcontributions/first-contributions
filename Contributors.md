@@ -89,6 +89,7 @@
 - [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
 - Talon Dechert
+- Gabby Cepeda (https://github.com/gabrielacepeda)
 - [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
