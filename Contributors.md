@@ -723,6 +723,7 @@ CMBloodMeridian
 - [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Saksham Rastogi](https://github.com/codeboy5)
+- [mazayo](https://github.com/mazayo)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Yash Bhardwaj](https://github.com/Wyverns010)
 - [Harsh Patel](https://github.com/Pharshgit)
