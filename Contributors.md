@@ -5728,6 +5728,7 @@ Orandi Harris
 - [James Martin](https://github.com/jkekoamartin)
 - [Shashwat Patel](https://github.com/shashwatjay)
 - [Muhammad Kamal](https://github.com/mkamalkayani)
+- [Salvador Rombe](https://github.com/rostovsaor)
 - [Matt Lucrida](https://github.com/mlucrida)
 - [Sam Barranco](https://github.com/openloop)
 - [zomblake](https://github.com/zomblake)
