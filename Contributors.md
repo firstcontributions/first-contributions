@@ -79,6 +79,7 @@
 - yasmiyazaki
 - ERIB
 - Hosbovery
+- [Steven Failla](https://github.com/Stevo99)
 - [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Brian Kardon](https://github.com/briankardon)
 - [Gerardo Torres](https://github.com/geratorres)
