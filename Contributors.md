@@ -85,6 +85,7 @@
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - Sampath MS (https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
+- Patrick Johnson (https://github.com/GHPatrick)
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
