@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Lecce Marco](https://github.com/lecciovich)
+- [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Leonardo Daher](https://github.com/leodaher)
 - [Rajeev Joshi](https://github.com/rj-1234)
