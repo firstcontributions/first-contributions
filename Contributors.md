@@ -13682,5 +13682,6 @@ CMBloodMeridian
 - [Vishnu Kumar] (https://github.com/sasivishnu)
 - [Raghunandan Lohe] (https://github.com/raghulohe)
 - [Saadnoor] (https://github.com/saadnoor)
+- [Tycho Dickerson] (https://github.com/TychoDickerson)
 - [Ingrid Pitta](https://github.com/ingridpitta)
 - [Ben Dowdell](https://github.com/bdowdell)
