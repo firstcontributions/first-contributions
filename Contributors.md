@@ -748,7 +748,7 @@ CMBloodMeridian
 - [Bijay Upreti](https://github.com/bjupreti)
 - [Orion Xiao](https://github.com/orionxiao)
 - [Michel Kabba](https://github.com/mkabbz)
-- [Alaa Bouayed](https://github.com/aml-b)
+- [Alaa Bouayed](https://github.com/alaabouayed)
 - [Rafal Wawrzyk](https://github.com/rafalwawrzyk)
 - [John Solo](https://github.com/johnsolojoseph)
 - [Angel Barajas](https://github/abarajas10)
