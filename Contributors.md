@@ -13674,6 +13674,7 @@ CMBloodMeridian
 - [PerfectDay20] (https://github.com/PerfectDay20)
 - [Levon Ar] (https://github.com/LevonAr)
 - [el mamado](https://github.com/el-mamado)
+- Leah Furyk
 - [Zenith0] (https://github.com/zenith0)
 - [Luis Fernando Lins] (https://github.com/luis-f-lins)
 - [fennelltim] (https://github.com/fennelltim)
