@@ -49,6 +49,7 @@
 - [Mohit KC] (https://github.com/momonepal)
 - [Josip128] (https://github.com/jops128)
 - [ElPapi42](https://github.com/ElPapi42)
+- [Abubakar Diallo] (https://github.com/abruzy)
 - [Manoj Bagari](https://github.com/ManojBagari)
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
