@@ -30,6 +30,7 @@
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
+- [Daniel Karam](https://github.com/danielkv7)
 - [JBucho](https://github.com/JBucho)
 - [Osama Arshad Dar](https://github.com/daroodar)
 - [Yi Zhang(翼翼)](https://github.com/zhangyi921)
