@@ -13619,6 +13619,7 @@ CMBloodMeridian
 - [dlikas](https://github.com/dlikas)
 - [Drake Gens](https://github.com/drakegens)
 - wstolte02
+- [Ronaldo Santana] (https://github.com/ronssm)
 - keanuf
 - bhugall
 - [Dave Holly] (https://github.com/daveholly57)
