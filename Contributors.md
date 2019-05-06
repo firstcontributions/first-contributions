@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
@@ -1051,6 +1051,7 @@ CMBloodMeridian
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
 - [Ian McClerin](https://github.com/dejaviewdujour)
 - [Jejulee](https://github.com/jejulee)
+- [Conor Tracey](https://github.com/ctracey94)
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Tomas F](https://github.com/tomasforsman)
