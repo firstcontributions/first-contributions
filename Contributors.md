@@ -12119,6 +12119,7 @@ CMBloodMeridian
 - [Hung Pham](https://github.com/hungpham2202)
 - [Kapish Malik](https://github.com/kapishmalik)
 - [AsverBy](https://github.com/asverby)
+- chacharoni
 - [Ogün Babacan](https://github.com/ogunb)
 - [Jenssen Lee](https://github.com/helplah)
 - [Chi Ronly](https://github.com/chironly)
