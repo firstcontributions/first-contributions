@@ -255,6 +255,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 CMBloodMeridian
 - [Anushank Varshney](https://github.com/anushank-av)
 - [Vajean Stan](https://github.com/vajean)
+- [offroad99](https://github.com/offroad99/)
 - [Sandip Guchait](https://github.com/sandipguchait)
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
