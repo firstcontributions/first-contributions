@@ -173,6 +173,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [Zein Hajj-Ali](https://github.com/ZeinHajjAli)
 - [Kyle DeHoff] (https://github.com/anonymousMonk)
 - [Mushfiqul Islam Chowdhury](https://github.com/mushfiqulIslam)
+- [mazayo](https://github.com/mazayo)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
 - Molly Johnson
