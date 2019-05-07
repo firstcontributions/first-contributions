@@ -2033,6 +2033,7 @@ Conor Shields (https://github.com/cshields236)
 - [Autumn Peters](https://github.com/autumnmarin)
 - Alvin
 - Santanu
+- [Rafael de Azevedo](https://github.com/rdazvd)
 - [Mihai Veronica](https://github.com/VeronicaM)
 - [Mai Nguyen](https://github.com/maidoesthings)
 - [Numblesix](https://github.com/Numblesix)
