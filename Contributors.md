@@ -62,6 +62,7 @@
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Mike Disbrow] (https://github.com/mdisbrow)
 - [Kai Heng Ann](https://github.com/kaihengann/)
+- [Javier Cabrera Puente](https://github.com/cabreration)
 - [Georgios Karakos](https://github.com/giorg0skar)
 - [Abhinav Vemulapalli](https://github.com/nandanav)
 - [André Barranco](https://github.com/bandrefilipe)
