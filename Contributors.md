@@ -43,6 +43,7 @@
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Anthony Chen] (https://github.com/achencoms)
+- [Ahmed Khaled] (https://github.com/ahmedkhaledak)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
 - [Nirakar Puri] (https://github.com/nirakarpuri)
