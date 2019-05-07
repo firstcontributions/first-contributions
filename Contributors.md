@@ -43,6 +43,7 @@
 - [Anthony Chen] (https://github.com/achencoms)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh] (https://github.com/duytrinhvn)
+- [Nirakar Puri] (https://github.com/nirakarpuri)
 - [Michael Lucic](https://github.com/mlucic2014)
 - [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
