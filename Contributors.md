@@ -10223,6 +10223,7 @@ Anthony Stannard
 - [Ryan Haire](https://github.com/ryanhaire)
 - [Melissa Sorrells](https://gihub.com/msorre2)
 - [albGal] (https://github.com/albGal)
+- [Manish Pamnani](https://github.com/pamnanaimanish169)
 - [irfanahm3d] (https://github.com/irfanahm3d)
 - [Manbro] (https://github.com/Manbro)
 - [Hannes Schmid](https://github.com/schmidhannes)
