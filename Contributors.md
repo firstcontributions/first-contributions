@@ -108,6 +108,7 @@
 - Daniel Fletemier
 - ProximitySound
 - Kate Choe 
+- [Thales Machado] (https://github.com/ThalesMachado/)
 - Lea Whitney (https://github.com/whitWEB)
 - Cody James (https://github.com/C-F-J)
 - Ran Levy
