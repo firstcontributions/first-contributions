@@ -23,11 +23,12 @@
 - [Zion Perez](https://github.com/starkindustries)
   [Harish Mistry](https://github.com/Harish1227)
   [Aayush Bhan](https://github.com/aayushbhan)
+  [Michael Dereszynski](http://github.com/mlderes)
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Dominic Jesse] (https://github.com/aphorism44)
-- [Varshini Ananta] (https://github.com/sananta) 
-- [Random-VI Innocent] (https://github.com/randomvi) 
+- [Varshini Ananta] (https://github.com/sananta)
+- [Random-VI Innocent] (https://github.com/randomvi)
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Ben Hunter](https://github.com/benhunter)
@@ -107,7 +108,7 @@
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
 - ProximitySound
-- Kate Choe 
+- Kate Choe
 - [Thales Machado] (https://github.com/ThalesMachado/)
 - Lea Whitney (https://github.com/whitWEB)
 - Cody James (https://github.com/C-F-J)
@@ -148,7 +149,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Vinayak Sharma
 - Luiz H. Alves (https://github.com/lhalvesf)
 - Gabriela Holanda (https://github.com/badeca)
-- [Max](https://github.com/mjoellnier) 
+- [Max](https://github.com/mjoellnier)
 - Maceo Lewis (https://github.com/maceocodes)
 - Wes Braga (https://github.com/wesbragagt)
 - rpturan
@@ -222,7 +223,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Aashish Rathi (https://github.com/aashishrathi)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
-- Domi Pul 
+- Domi Pul
 - [Ferran Sulaiman](https://github.com/ferran9908)
 - [Ashikur Rashid Khan](https://github.com/ARK17)
   -peterson oaikhenah (https://github.com/nextwebb)
@@ -258,7 +259,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Gourav J
 - Niklavs Katlaps
 - Jason E
-- [Joe Polaski](https://github.com/JosephPolaski) 
+- [Joe Polaski](https://github.com/JosephPolaski)
 - John Daniel
 - Ananya Gupta
 - Omri Sak
@@ -411,7 +412,7 @@ CMBloodMeridian
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Jordan396](https://github.com/Jordan396)
 - [Keyiyi](github.com/keyiyi)
-- Mauricio Calcaño - mcalcano https://github.com/mcalcano/ 
+- Mauricio Calcaño - mcalcano https://github.com/mcalcano/
 - [Syl Wang](https://github.com/XiuW)
 - [Kumar Saurabh](https://github.com/saurabh1969)
 - [Jesse Adkins](https://github.com/JesseAdkins91)
@@ -4693,7 +4694,7 @@ CMBloodMeridian
 - [Joao Henrique Machado Silva](https://github.com/joaoh82)
 - [csy0296](https://github.com/csy0296)
 - [Alexandro Perez](https://github.com/AlexandroPerez)
-- [Ashton Miller](https://github.com/ashton-miller) 
+- [Ashton Miller](https://github.com/ashton-miller)
 - [Caleb Pomazon](https://github.com/calebpomazon)
 - [Henrique Fernandes](https://github.com/sfrique)
 - [Elizabeth Onder](https://github.com/eonder)
@@ -13522,7 +13523,7 @@ CMBloodMeridian
 - [Rishi Khanna](https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
-- [zer0tolerance](https://github.com/zer0tolerance) 
+- [zer0tolerance](https://github.com/zer0tolerance)
 - [al6625](https://github.com/alaj6625/first-contributions)
 - [Vireak Sok](https://github.com/Vireak-Sok)
 - [Xi Ming](https://github.com/seki2020)
@@ -13661,7 +13662,7 @@ CMBloodMeridian
 - [Beth Ackerman] (https://github.com/betheackers)
 - [FcKoOl] (https://github.com/FcKoOl)
 - [Jennifer Kim]
-- [Janne Ilonen] (https://github.com/JanneIlonen) 
+- [Janne Ilonen] (https://github.com/JanneIlonen)
 - [Zizy Zhu] (https://github.com/zuzy)
 - [German Distel]
 - [Kenny McEwan] (https://github.com/kennymce)
@@ -13673,7 +13674,7 @@ CMBloodMeridian
 - [Lv Zhi] (https://github.com/Na0ture)
 - [Vyner] (https://github.com/Vyner)
 - [Fakhruddin Tahery] (https://github.com/ftahery)
-- [scw248] (https://github.com/scw248) 
+- [scw248] (https://github.com/scw248)
 - [Hayes] (https://github.com/hazer888)
 - [1F0](https://github.com/1f0)
 - [Yuvansh Agrawal]  (https://github.com/yuvag)
