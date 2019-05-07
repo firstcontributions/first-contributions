@@ -123,6 +123,7 @@
 - Pankaj Joshi (https://github.com/pankaj-kvhld)
 - Aroh Sunday (https://github.com/melitus)
 - Gavin Hoang
+- E Tolman (https://github.com/ettolman)
 - KSeangTan (https://github.com/KSeangTan)
 - edwin
 Aryan Gupta (@withoutwaxaryan)
