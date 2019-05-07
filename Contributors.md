@@ -11,6 +11,7 @@
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Yudi](https://github.com/yudi7ll)
+- [Danny Kim](https://github.com/okolop)
 - [Zach James](https://github.com/ZachJames)
 - [George Meier](https://github.com/gtmeier)
  [Florian Le Gars](https://github.com/florian-lg)
