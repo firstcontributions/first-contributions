@@ -24,6 +24,7 @@
 - [David Bednar](https://github.com/purefisher)
 - [Shaloom Kashama](https://github.com/skashama)
 - [Zion Perez](https://github.com/starkindustries)
+- [Szymon Flis](https://github.com/hreversingHorse)
   [Harish Mistry](https://github.com/Harish1227)
   [Aayush Bhan](https://github.com/aayushbhan)
 - [Jatin Pai] (https://github.com/paijatin)
