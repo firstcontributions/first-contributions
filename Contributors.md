@@ -1055,6 +1055,7 @@ CMBloodMeridian
 - [Neeraj Singh](https://github.com/GrayR00t)
 - [Akash Balani](https://github.com/balaniakash)
 - [chefknife](https://github.com/chefknife)
+- [JonathanBaernthaler] (https://github.com/JonathanBaernthaler)
 - [Lisa Hunt](https://github.com/GeckoLisa)
 - [David Sun](https://github.com/dave4506)
 - [Govinda Dhirde](https://github.com/govinda1)
