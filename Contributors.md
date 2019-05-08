@@ -6643,6 +6643,7 @@ CMBloodMeridian
 - [Chris Bridges](https://github.com/chrisbridges)
 - [Janice Keita](https://github.com/Gotaskaen)
 - [Gowtham R](https://github.com/gowtham1997)
+- [Bhavay Puri](https://github.com/RisingGeek)
 - [U?ur Atmaca](https://github.com/uguratmaca)
 - [Josix](https://github.com/wilson8507)
 - [MoJen Jenkins](https://github.com/mojenmojen)
