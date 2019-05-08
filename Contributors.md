@@ -20,7 +20,7 @@
  [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
-- [Jeffrey McIntyre](https://github.com/flatman123)
+- [Jeffrey MCIntyre](https://github.com/flatman123)
 - [David Bednar](https://github.com/purefisher)
 - [Shaloom Kashama](https://github.com/skashama)
 - [Zion Perez](https://github.com/starkindustries)
