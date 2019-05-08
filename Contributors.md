@@ -117,7 +117,8 @@
 - [Andyjdv](https://github.com/Andyjdv)
 - Daniel Fletemier
 - ProximitySound
-- Kate Choe 
+- Kate Choe
+- [Chris Olson](https://github.com/SailorFuzz)
 - [Thales Machado] (https://github.com/ThalesMachado/)
 - Lea Whitney (https://github.com/whitWEB)
 - Cody James (https://github.com/C-F-J)
