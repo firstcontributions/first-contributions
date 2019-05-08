@@ -8,6 +8,7 @@
 - [Leonardo Daher](https://github.com/leodaher)
 - [Sue](https://github.com/qaws01395)
 - [Rajeev Joshi](https://github.com/rj-1234)
+- [Nithin Singamsetti](https://github.com/nithinsingamsetti)
 - [Willie Mangram](https://github.com/Williem3)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Nauman Shakir](https://github.com/Nauman3S)
