@@ -12285,6 +12285,7 @@ CMBloodMeridian
 - [Alexander Galdones](https://github.com/alexandergaldones)
 - [Roberto Kedmenec](https://github.com/kedmenecr)
 - [Hậu Chử](https://github.com/hauchu1196)
+- [Jacob Geddings](https://github.com/GeddingsJ)
 - [Eviliana](https://github.com/eviliana)
 - [FoxisXIII](https://github.com/Omega-FoxisXIII)
 - [Vaibhav Shrivastava](https://github.com/mishuvs)
