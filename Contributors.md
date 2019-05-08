@@ -792,6 +792,7 @@ CMBloodMeridian
 - [Nicholas Ricci](https://github.com/nicholasricci)
 - Marc
 - Michael Baramidze
+- [Vonnie Wu](https://github.com/vonniewu)
 - [Rohit Kapoor](https://github.com/algo-circle)
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
