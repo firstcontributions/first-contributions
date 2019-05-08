@@ -306,6 +306,7 @@ CMBloodMeridian
   [rodrigoamc](https://github.com/rodrigo-amc)
 - [Shubham Kandiyal](https://github.com/shubhamkandiyal0101)
 - [James Randolph](https://github.com/james-randolph-50)
+- [Devin Tang] (https://github.com/devintang3)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Tami Davies](https://github.com/TamiMcInnis)
 - [Ratin Kumar](https://github.com/DumbMachine)
