@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Leo](https://github.com/tangShy)
+- [nmenal](https://github.com/nmenal)
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
