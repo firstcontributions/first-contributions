@@ -664,6 +664,7 @@ CMBloodMeridian
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - [blacknstones(https://github.com/blacknstones)
+- [Fumi Saito](https://github.com/flingmycow)
 - Jason K
   -Simon ACosta
   [Parasseril kevin Sunny](https://github.com/kevinsunny199)
