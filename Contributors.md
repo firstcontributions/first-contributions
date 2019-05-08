@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Leo](https://github.com/tangShy)
 - [Lecce Marco](https://github.com/lecciovich)
@@ -1992,6 +1992,7 @@ CMBloodMeridian
 - Manish kumar
 - Gordon
 - [Masen Matthews](https://github.com/masenmatthews)
+- [Vishwajeet Nehra](https://github.com/VishwajeetNehra)
 - [Bijan Fard](https://github.com/BFard)
 - [Erick Greene](https://github.com/CptSharpie)
 - [Johnnie](https://github.com/aimlessblitz)
