@@ -7050,6 +7050,7 @@ CMBloodMeridian
 - [Ekam Walia](https://github.com/EkamWalia)
 - [Brad Baguyo](https://github.com/bradrar/)
 - [R Burd](https://github.com/rjburdish)
+- [Juan Lengyel] (https://github.com/JuanLengyel)
 - [Robson Cruz](https://github.com/deadpyxel)
 - [Gopi Surendra](https://github.com/gsrc1026)
 - [Bryan Falls](https://github.com/bfalls158)
