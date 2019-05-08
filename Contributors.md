@@ -989,6 +989,7 @@ CMBloodMeridian
 - [Daniel Suh](https://github.com/dtuckersuh)
 - [Ruben Programs](https://github.com/rubenprograms)
 - N-Mor
+- [Gabriele Magno] (https://github.com/nkwib)
 - [Joe Lee](https://github.com/josephlee93)
   -\_[Alexander Witedja](https://github.com/alexwitedja)
 - [\_nolj](https://github.com/nolanbjohnson)
@@ -13660,4 +13661,5 @@ CMBloodMeridian
 - [Vishnu Kumar] (https://github.com/sasivishnu)
 - [Raghunandan Lohe] (https://github.com/raghulohe)
 - [Saadnoor] (https://github.com/saadnoor)
+- [Gabriele Magno] (https://github.com/nkwib)
 - [Ingrid Pitta](https://github.com/ingridpitta)
