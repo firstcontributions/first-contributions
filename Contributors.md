@@ -2,6 +2,7 @@
 
 - [Brandon S] (https://github.com/bstrain71)
 - [Leo](https://github.com/tangShy)
+- [Almog](https://github.com/almoghaimo)
 - [nmenal](https://github.com/nmenal)
 - [Mochamad Rizki](https://github.com/rzkidev)
 - [Lecce Marco](https://github.com/lecciovich)
