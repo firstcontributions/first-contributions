@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Brandon S] (https://github.com/bstrain71)
 - [Leo](https://github.com/tangShy)
 - [nmenal](https://github.com/nmenal)
 - [Lecce Marco](https://github.com/lecciovich)
