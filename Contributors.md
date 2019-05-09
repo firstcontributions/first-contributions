@@ -161,6 +161,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Alex Hong
 - [Robbie Cleaves](https://github.com/SpacemanRC)
 - Vinayak Sharma
+- Murat Can Kırdar
 - Luiz H. Alves (https://github.com/lhalvesf)
 - Gabriela Holanda (https://github.com/badeca)
 - [Max](https://github.com/mjoellnier) 
