@@ -1,6 +1,7 @@
-﻿# Contributors
+# Contributors
 
-- [Brandon S] (https://github.com/bstrain71)
+- [Brandon S](https://github.com/bstrain71)
+- [Melih Safa Celik](https://github.com/MelihCelik00)
 - [Leo](https://github.com/tangShy)
 - [Almog](https://github.com/almoghaimo)
 - [nmenal](https://github.com/nmenal)
