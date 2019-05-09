@@ -3,6 +3,7 @@
 - [Brandon S] (https://github.com/bstrain71)
 - [Leo](https://github.com/tangShy)
 - [nmenal](https://github.com/nmenal)
+- [Mochamad Rizki](https://github.com/rzkidev)
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
