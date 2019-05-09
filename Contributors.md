@@ -3291,6 +3291,7 @@ CMBloodMeridian
 - [Samuel Funston](https://github.com/sfunston)
 - [VK](https://github.com/venkat-kaniti)
 - [Evgeny Kasian](https://github.com/ievgenk)
+- [Ethan Roberts Snitchezzz] (https://github.com/eth12)
 - [Patrick Schemering](https://github.com/pschemer)
 - [Taha Ali](https://github.com/TahaAli07)
 - [Ameer Zaita](https://github.com/Ameer67)
