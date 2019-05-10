@@ -482,6 +482,7 @@ CMBloodMeridian
 - Andrej
 - Johnny
 - [VO Van Nghia](https://github.com/codelyoko2409)
+- [MHrydil]  (https://github.com/mhrydil/)
 - [Mark Craig](https://github.com/tartangeek)
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
