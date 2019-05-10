@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Brandon S] (https://github.com/bstrain71)
+- [Marcia Arias] (https://github.com/marciaarias)
 - [Leo](https://github.com/tangShy)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
