@@ -2,6 +2,7 @@
 
 - [Brandon S] (https://github.com/bstrain71)
 - [Leo](https://github.com/tangShy)
+- [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [nmenal](https://github.com/nmenal)
