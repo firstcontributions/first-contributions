@@ -17,6 +17,7 @@
 - [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
 - [Sue](https://github.com/qaws01395)
+- [Jake](https://github.com/jake-morgan-2)
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
 - [Rajeev Joshi](https://github.com/rj-1234)
 - [Nithin Singamsetti](https://github.com/nithinsingamsetti)
