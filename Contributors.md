@@ -37,6 +37,7 @@
 - [David Bednar](https://github.com/purefisher)
 - [Shaloom Kashama](https://github.com/skashama)
 - [Zion Perez](https://github.com/starkindustries)
+- [Andrea Luciano Damico](https://github.com/ALDamico)
 - [Szymon Flis](https://github.com/hreversingHorse)
   [Harish Mistry](https://github.com/Harish1227)
   [Aayush Bhan](https://github.com/aayushbhan)
