@@ -44,6 +44,7 @@
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
+- [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
 - [Sandeep Vellore] (https://github.com/sandeepvc)
 - [Rob Cotter](https://github.com/robcotter)
