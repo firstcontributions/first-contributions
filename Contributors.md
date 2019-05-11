@@ -13702,6 +13702,7 @@ CMBloodMeridian
 - [yea678] (https://github.com/yea678)
 - [Beth Ackerman] (https://github.com/betheackers)
 - [FcKoOl] (https://github.com/FcKoOl)
+- [Edmund Lewry](https://github.com/EdmundLewry)
 - [Jennifer Kim]
 - [Janne Ilonen] (https://github.com/JanneIlonen) 
 - [Zizy Zhu] (https://github.com/zuzy)
