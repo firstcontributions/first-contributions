@@ -13699,6 +13699,7 @@ CMBloodMeridian
 - [FcKoOl] (https://github.com/FcKoOl)
 - [Jennifer Kim]
 - [Janne Ilonen] (https://github.com/JanneIlonen) 
+- [Jake Vawter] (https://github.com/KrakenToad/)
 - [Zizy Zhu] (https://github.com/zuzy)
 - [German Distel]
 - [Kenny McEwan] (https://github.com/kennymce)
@@ -13740,3 +13741,4 @@ CMBloodMeridian
 - [Barry Martin] (https://github.com/bvmcode)
 - [Iggy Irianto](https://github.com/iggredible)
 - [Andrew Heilman] (https://github.com/heilmanandrew)
+
