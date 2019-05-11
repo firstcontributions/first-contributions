@@ -14,6 +14,7 @@
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
+- [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
 - [Sue](https://github.com/qaws01395)
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
