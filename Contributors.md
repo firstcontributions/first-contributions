@@ -5359,7 +5359,7 @@ CMBloodMeridian
 - [VeraButler](https://github.com/VeraButler)
 - [felzan](https://github.com/felzan)
 - [Srinivas K](https://github.com/srnvsk)
-- [Tailor Vijay](https://github.com/tailorv0j)
+- [Tailor Vijay](https://github.com/tailorvj)
 - [Ruslan Vostretsov](https://github.com/RD-503)
 - [Sachin Mohla](https://github.com/sac24)
 - [Sashikanth](https://github.com/satyasashi)
