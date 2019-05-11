@@ -180,6 +180,7 @@ Aryan Gupta (@withoutwaxaryan)
 - rpturan
 - [Benjamin Allen](https://github.com/imami777)
 - vidya
+- Ross McCaig
 - Bruce Wayne
 - Arpit Shrotriya(https://github.com/Cyclostone)
 - [Karson Nichols](https://github.com/nicholsk18)
