@@ -1034,6 +1034,7 @@ CMBloodMeridian
 - [Chamith](https://github.com/kanda94)
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
 - Jason Charles
+- [Rajat Verma](https://github.com/rajat2502)
 - [Blake Noll](https://github.com/blakenoll)
 - [Daniel Suh](https://github.com/dtuckersuh)
 - [Ruben Programs](https://github.com/rubenprograms)
