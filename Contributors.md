@@ -3,6 +3,7 @@
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
 - [Marcia Arias](https://github.com/marciaarias)
+- [Adam](https://github.com/worstahrieu)
 - [Leo](https://github.com/tangShy)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
