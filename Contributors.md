@@ -10553,6 +10553,7 @@ CMBloodMeridian
 - [Nicholas Rogers](https://github.com/TheirOwn)
 - [Francisca Matamala](https://github.com/Jamonzito)
 - [Will Cutler](https://github.com/dantraboy)
+- [sladewinter](https://github.com/sladewinter)
 - [Jacob Goldsworthy](https://github.com/LostLaser)
 - [Candace Holcombe-Volke)](https://github.com/candacehv)
 - [Hunter Czarnik](https://github.com/hczarnik)
