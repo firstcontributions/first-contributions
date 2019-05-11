@@ -9,6 +9,7 @@
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [nmenal](https://github.com/nmenal)
 - [Mochamad Rizki](https://github.com/rzkidev)
+- [Ronak Malik](https://github.com/BeyondPerception)
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
