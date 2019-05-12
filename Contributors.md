@@ -2,6 +2,7 @@
 
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
+- [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
 - [Leo](https://github.com/tangShy)
