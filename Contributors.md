@@ -13610,6 +13610,7 @@ CMBloodMeridian
 - [Michael Zhao](https://github.com/michael-zhao)
 - [Shiv]
 - [Anuja]
+- [Saim Farid](https://github.com/saimfd)
 - [Washington Añasco](https://github.com/Washio1995)
 - [Raul Ropero](https://github.com/codigoespagueti)
 - [fmi]
