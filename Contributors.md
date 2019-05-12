@@ -707,6 +707,7 @@ CMBloodMeridian
 - [ABGEO07](https://github.com/ABGEO07)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Elliott Byers](https://github.com/elliottbyers)
+- [Daffy Chu](https://github.com/daffychuy)
 - [Amit Jha](https://github.com/devbihari)
 - [Zachary Anderson](https://github.com/ZacharyAnderson)
 - [Vyas Anirudh Akundy](https://github.com/Anirudh42)
