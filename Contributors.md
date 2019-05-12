@@ -13767,3 +13767,4 @@ CMBloodMeridian
 - [Andrew Heilman] (https://github.com/heilmanandrew)
 - [Eric Hackman] (https://github.com/kwesihackman)
 - [Shantanu Chandorkar] (https://github.com/Chromares)
+- [Frédéric Thévenon] (https://github.com/fredericthevenondev)
