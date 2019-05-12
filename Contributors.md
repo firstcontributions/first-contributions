@@ -8364,6 +8364,7 @@ CMBloodMeridian
 - [tcdsv](https://github.com/tcdsv)
 - [Peter Robitaille](https://github.com/pwrobitaille)
 - [Mark M](https://github.com/markm248)
+- [James Barnes](https://github.com/jemsab)
 - [Brittany Cumens](https://github.com/bcfsu/)
 - [Andrew Lesh](https://github.com/adlesh/)
 - [Nicholas Hrboka](https://github.com/boka44/)
