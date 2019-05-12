@@ -114,6 +114,7 @@
 - [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Brian Kardon](https://github.com/briankardon)
 - [Johannes H.] (https://github.com/M0J0isback)
+- [Joey-Michael Fallone](https://github.com/scarletspider616)
 - [Gerardo Torres](https://github.com/geratorres)
 - [Faraz Murtaza](https://github.com/farazmurtaza)
 - Vedant Pareek
