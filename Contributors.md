@@ -13768,3 +13768,4 @@ CMBloodMeridian
 - [Eric Hackman] (https://github.com/kwesihackman)
 - [Shantanu Chandorkar] (https://github.com/Chromares)
 - [Frédéric Thévenon] (https://github.com/fredericthevenondev)
+- [Christian Bauer] (https://github.com/MyGodItsFull0fStars)
