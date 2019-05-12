@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
 - [Marcia Arias](https://github.com/marciaarias)
