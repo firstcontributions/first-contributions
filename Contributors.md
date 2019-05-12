@@ -1654,6 +1654,7 @@ CMBloodMeridian
 - [Jesse Hillman](https://github.com/proton5)
 - [Ashley Herman](https://github.com/hermana)
 - [Chris Crisson](https://github.com/ccrisson)
+- [Scott Anderson](https://github.com/scottkenanderson)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
 - [Cristian Flores](https://github.com/jesuscfv)
