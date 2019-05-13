@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
@@ -13,6 +13,7 @@
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [nmenal](https://github.com/nmenal)
 - [Mochamad Rizki](https://github.com/rzkidev)
+- [Jeffrey Washigton] (https://github.com/thvles)
 - [Ronak Malik](https://github.com/BeyondPerception)
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
