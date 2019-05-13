@@ -8,6 +8,7 @@
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
 - [Leo](https://github.com/tangShy)
+- [Alex H. S. Lee](https://github.com/aviidlee)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
