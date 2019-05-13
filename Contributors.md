@@ -3068,6 +3068,7 @@ CMBloodMeridian
 - [geeknik](https://twitter.com/geeknik)
 - [Isay Razilov](https://github.com/IsayRazilov)
 - [Kunj Dedhia](https://github.com/kunjdedhia)
+- [yuchengs](https://github.com/yuchengs)
 - [Leonardo Cavazzani](https://github.com/lCavazzani)
 - [Valentina Calabrese](https://github.com/vale-c)
 - [Asiful Haque Latif Nobel](https://github.com/AsifulNobel)
