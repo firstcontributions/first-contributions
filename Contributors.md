@@ -7,6 +7,7 @@
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
+- OwussCode
 - [Leo](https://github.com/tangShy)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
