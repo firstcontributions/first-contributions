@@ -59,6 +59,7 @@
 - [Rob Cotter](https://github.com/robcotter)
 - [Daniel Karam](https://github.com/danielkv7)
 - [JBucho](https://github.com/JBucho)
+- [Aline Akuzwe](https://github.com/alak01)
 - [SB Tracy](https://github.com/sbtries) 
 - [Osama Arshad Dar](https://github.com/daroodar)
 - [Yi Zhang(翼翼)](https://github.com/zhangyi921)
