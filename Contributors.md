@@ -444,7 +444,7 @@ CMBloodMeridian
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - [Jack Mason] (https://github.com/jack-alexander-ie)
-
+- [Alexander Zaki Abushady] (https://github.com/AAbushady)
 - Robert
 - [Christopher Bradford](https://github.com/sunkencity999)
 - [Daniel Sameh](https://github.com/DanielSameh)
