@@ -13783,3 +13783,4 @@ CMBloodMeridian
 - [Christian Bauer] (https://github.com/MyGodItsFull0fStars)
 - [Calen Robinette](https://github.com/calenrobinette)
 - [Kevin Dowling] (https://github.com/tellikakneezus)
+- [HappyCappybara] (https://github.com/happycappybara)
