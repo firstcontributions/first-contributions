@@ -116,6 +116,7 @@
 - yasmiyazaki
 - ERIB
 - Hosbovery
+jkusita
 - [Fabrizio Vigevani](https://github.com/fabriziovigevani)
 - [Steven Failla](https://github.com/Stevo99)
 - [Rakesh Kadamati](https://github.com/rakeshkadamati/)
