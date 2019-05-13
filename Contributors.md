@@ -4414,6 +4414,7 @@ CMBloodMeridian
 - [Flip Scholtz](https://github.com/flipscholtz)
 - [Zheng Yang Ning](https://github.com/ningzy)
 - [Matheus Genteluci](https://github.com/MGenteluci)
+- [And Strudl](https://github.com/strudland)
 - [Ashley Sherwood](https://github.com/AshleyMSherwood)
 - [Dave Bergmans](https://github.com/dbergmans)
 - [Patrick Dugan](https://github.com/pdoogs)
