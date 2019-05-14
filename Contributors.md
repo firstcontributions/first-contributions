@@ -22,6 +22,7 @@
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
+- [Sudhanshu Chauhan](https://github.com/sudhanshu-chauhan)
 - [Sue](https://github.com/qaws01395)
 - [Jake](https://github.com/jake-morgan-2)
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
