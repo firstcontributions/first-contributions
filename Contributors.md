@@ -1,6 +1,7 @@
 # Contributors
 
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
+- [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
