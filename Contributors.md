@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Raquel A.](https://github.com/rva5120)
@@ -13787,3 +13787,4 @@ CMBloodMeridian
 - [Calen Robinette](https://github.com/calenrobinette)
 - [Kevin Dowling] (https://github.com/tellikakneezus)
 - [HappyCappybara] (https://github.com/happycappybara)
+- [c0dr7] (https://github.com/c0dr7)
