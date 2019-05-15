@@ -16,6 +16,7 @@
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [nmenal](https://github.com/nmenal)
+- [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [Mochamad Rizki](https://github.com/rzkidev)
 - [Jeffrey Washigton] (https://github.com/thvles)
 - [Ronak Malik](https://github.com/BeyondPerception)
