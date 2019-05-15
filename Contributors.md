@@ -337,6 +337,7 @@ CMBloodMeridian
 - Jian
 - [Evan Bailey](https://github.com/Spacetime02)
 - Abdelkader Lagha
+- [Sanket Singh](https://github.com/Sanket110297)
 - [Monty Britton](https://github.com/MontyBr)
 - Christina Luna (https://github.com/christinaluna)
 - Ashwani (https://github.com/ashwani12131)
