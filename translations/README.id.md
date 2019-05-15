@@ -6,7 +6,7 @@
 
 # Kontribusi Pertama
 
-Melakukan suatu hal untuk pertama kali akan selalu terasa sulit. Terutama ketika berkolaborasi dan membuat kesalahan, akan menimbulkan rasa tidak nyaman. Namun, sumber terbuka adalah tentang berkolaborasi dan kerja sama. Kami ingin menyederhanakan cara kontributor sumber terbuka yang baru untuk mulai belajar dan berkontribusi untuk pertama kali.
+Melakukan sesuatu untuk pertama kali akan selalu terasa sulit. Terutama ketika berkolaborasi dan saat membuat kesalahan, akan menimbulkan perasaan tidak nyaman. Namun, *open source* adalah tentang berkolaborasi dan kerja sama. Kami ingin menyederhanakan cara kontributor baru *open source* untuk mulai belajar dan berkontribusi untuk pertama kali.
 
 Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang lebih baik dibandingkan dengan melakukannya langsung tanpa membuat kekacauan? Proyek ini bertujuan untuk menyediakan panduan dan menyederhanakan bagaimana para pemula dapat membuat kontribusi pertama mereka. Ingat: Semakin santai anda, maka semakin cepat anda belajar. Jika anda mencari cara untuk membuat kontribusi pertama maka cukup ikuti langkah-langkah berikut. Kami janji, ini akan menyenangkan.
 
@@ -16,14 +16,14 @@ Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles
 
 ## Fork repositori ini
 
-Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
+*Fork* repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
 Hal tersebut akan membuat salinan repositori ini di akun anda.
 
 ## Klon repositori
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon "copy to clipboard".
+Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
 
 Buka terminal dan eksekusi perintah git berikut:
 
@@ -40,14 +40,14 @@ git clone https://github.com/username-anda/first-contributions.git
 ```
 Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Membuat Cabang
+## Membuat Branch/Cabang
 
 Ganti ke direktori repositori di komputer (jika belum ada di sana):
 
 ```
 cd first-contributions
 ```
-Buat cabang dengan perintah `git checkout`:
+Buat *branch*/cabang dengan perintah `git checkout`:
 ```
 git checkout -b <add-nama>
 ```
@@ -56,7 +56,7 @@ Contoh:
 ```
 git checkout -b add-alonzo-church
 ```
-(Nama cabang tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
+(Nama *branch*/cabang tidak perlu mengandung kata *add* namun layak untuk ditambahkan karena tujuan dari *branch*/cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
 
 ## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
@@ -89,13 +89,13 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Suatu saat nanti saya akan melakukan penggabungan terhadap semua perubahan anda ke cabang master proyek ini. Anda akan mendapatkan pemberitahuan melalui email setelah perubahan tersebut selesai digabungkan.
+Secepatnya saya akan melakukan penggabungan terhadap semua perubahan anda ke cabang master proyek ini. Anda akan mendapatkan pemberitahuan melalui email setelah perubahan tersebut selesai digabungkan.
 
 Cabang master dari fork anda tidak akan memiliki perubahan-perubahan tersebut. Untuk membuat fork anda selaras dengan milik saya, ikuti langkah-langkah berikut.
 
 ## Membuat fork anda selaras dengan repositori ini
 
- Pertama, ganti posisi ke cabang master.
+ Pertama, ganti posisi ke *branch*/cabang master.
  ```
  git checkout master
  ```
@@ -108,15 +108,15 @@ Hal ini untuk memberitahu git bahwa ada versi lain dari proyek ini di url yang t
 git fetch upstream
 ```
 
-Di sini kita melakukan penarikan terhadap semua perubahan di fork saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam cabang master milik anda.
+Di sini kita melakukan penarikan terhadap semua perubahan di *fork* saya (upstream remote). Sekarang, anda perlu melakukan penggabungan terhadap revisi baru dari repositori saya ke dalam *branch*/cabang master milik anda.
 ```
 git rebase upstream/master
 ```
-Di sini anda menerapkan semua perubahan yang telah anda ambil ke cabang master. Jika anda dorong cabang master sekarang, fork anda juga akan memiliki perubahan:
+Di sini anda menerapkan semua perubahan yang telah anda ambil ke *branch*/cabang master. Jika anda dorong *branch*/cabang master sekarang, fork anda juga akan memiliki perubahan:
 ```
 git push origin master
 ```
-Perhatikan bahwa di sini anda melakukan push ke remote bernama origin.
+Perhatikan bahwa di sini anda melakukan push ke *remote* bernama origin.
 
 Pada titik ini saya telah melakukan penggabungan terhadap cabang anda `<add-nama>` ke dalam cabang master dan anda telah melakukan penggabungan terhadap cabang master saya ke dalam cabang master milik anda. Cabang milik anda sudah tidak dibutuhkan lagi sehingga bisa anda hapus:
 ```
