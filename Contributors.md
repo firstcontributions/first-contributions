@@ -62,6 +62,7 @@
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
+- [Parthiban Thangaraj](https://github.com/parthicseraj)
 - [Sandeep Vellore] (https://github.com/sandeepvc)
 - [Rob Cotter](https://github.com/robcotter)
 - [Daniel Karam](https://github.com/danielkv7)
