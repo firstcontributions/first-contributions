@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Stefan Speter] (https://github.com/StefanYYC)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
