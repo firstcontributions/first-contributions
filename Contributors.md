@@ -355,6 +355,7 @@ CMBloodMeridian
 - Nikhil
 - [Matthew Hadfield](https://github.com/matthadfield)
 - [Joseph Gale](https://github.com/josephgale)
+- [Nate Mock](https://github.com/Nate-Mock)
 - [Kevin Beyers](https://github.com/KevinBeyers)
 - [Jesus MOntoya](https://github.com/jmontoyac)
 - [Anuja Kelkar](https://github.com/anuja-kelkar)
