@@ -4,6 +4,7 @@
 - [Stefan Speter] (https://github.com/StefanYYC)
 嗯嗯嗯
 - [Austin Alv] (https://github.com/ama0115)
+- [Arushi Saran] (https://github.com/asaran2)
 - [C0deM@sK] (https://https://github.com/DeeMATT)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Jason Hall](https://github.com/jsnhall)
