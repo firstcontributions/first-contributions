@@ -1822,6 +1822,7 @@ CMBloodMeridian
 - [Rob Reichgelt](https://github.com/Dehv27)
 - [Richard Rodriguez](https://github.com/rodrigrichrod)
 - Timothy-Brian Gosalvez
+- [tbarland77](https://github.com/tbarland77)
 - [daniyalakhtar123](https://github.com/daniyalakhtar123)
 - [gilded1](https://github.com/gilded1)
 - [Arslan Talib](https://github.com/arslantalib12)
