@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
@@ -13677,6 +13677,7 @@ CMBloodMeridian
 - david
 - aurioBC
 - Zhe Liu
+- Grant Wall (https://github.com/grantwall)
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - Nath
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
