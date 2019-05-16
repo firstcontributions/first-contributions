@@ -933,6 +933,7 @@ CMBloodMeridian
 - Jithinlal
 - alexsuslin
 - Utkarsh
+- Michael Shchukin
 - palangana
 - Muhammad Zohaib Ehsan
 - Kasionis Ioannis (https://github.com/khasion)
