@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 嗯嗯嗯
 - [C0deM@sK] (https://https://github.com/DeeMATT)
