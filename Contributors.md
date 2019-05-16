@@ -2,6 +2,7 @@
 
 - [Stefan Speter] (https://github.com/StefanYYC)
 嗯嗯嗯
+- [Austin Alv] (https://github.com/ama0115)
 - [C0deM@sK] (https://https://github.com/DeeMATT)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Stanislav O.](https://github.com/stanostr)
