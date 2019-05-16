@@ -461,6 +461,7 @@ CMBloodMeridian
 - [Jack Mason] (https://github.com/jack-alexander-ie)
 
 - Robert
+- [Amit](https://github.com/kuttyamit)
 - [Christopher Bradford](https://github.com/sunkencity999)
 - [Daniel Sameh](https://github.com/DanielSameh)
 - [Shruthi Babu](https://github.com/Shruthi-Babu)
