@@ -501,6 +501,7 @@ CMBloodMeridian
 - [Cristian Pip3](https://github.com/CristianPip3)
 - [creep1g](https://github.com/creep1g)
 - [Kaustubh Joshi]
+- [Leombro](https://github.com/leombro)
 - [Kareem Abuzaid](https://github.com/KareemAbuzaid)
 - [Ryan Marion]
 - [Ricardo Nunes](https://github.com/sanunes)
