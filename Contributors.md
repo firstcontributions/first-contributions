@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Stefan Speter] (https://github.com/StefanYYC)
+- [Robin Kurosawa] (https://github.com/rkuro)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
