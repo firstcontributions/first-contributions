@@ -13524,6 +13524,7 @@ Bailey Wong
 - [Alvin Jorrel Pascual](https://github.com/alvinjorrel)
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Se7enSquared](https://github.com/Se7enSquared)
+Tyler Strang
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
