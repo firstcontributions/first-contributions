@@ -97,6 +97,7 @@
 - [Aziz Alsaffar](https://github.com/octowl)
 - [Saurabh Biyani](https://github.com/saurabh119)
 - [Jennifer Norby](https://github.com/jgnorby)
+- [Jesus Bosch](https://github.com/jhbosch)
   [Patrick Bate](https://github.com/pbateman828)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
