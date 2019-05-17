@@ -8516,6 +8516,7 @@ Bailey Wong
 - [Juliana Sarmento](https://github.com/JulianaSarmento)
 - [Sascha Ormanns](https://github.com/s-ormanns)
 - [Veeraj Vrj](https://github.com/veermav)
+- [Hedayat Khezri](https://github.com/hedisam)
 - [Dinesh Thapa Magar](https://github.com/cybermandu)
 - [Sheena Mattu](https://github.com/sheenapercy)
 - [Filip Mihalic](https://github.com/nathan-drake)
