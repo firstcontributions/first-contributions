@@ -29,6 +29,7 @@
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [Mochamad Rizki](https://github.com/rzkidev)
 - [Jeffrey Washigton] (https://github.com/thvles)
+- [Beloqui Juan Ignacio] (https://github.com/Excatter)
 - [Ronak Malik](https://github.com/BeyondPerception)
 - [Lecce Marco](https://github.com/lecciovich)
 - [filip filip](https://github.com/aminta5)
