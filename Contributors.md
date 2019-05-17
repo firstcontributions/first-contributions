@@ -5181,6 +5181,7 @@ CMBloodMeridian
 - [Rahul Krishna](https://github.com/krishrahul98)
 - [Qqlick](https://github.com/Qqlick)
 - [Michael Zeng](https://github.com/michaelzeng96)
+Bailey Wong
 - [pqrsumit](https://github.com/pqrsumit)
 - [Themis](https://github.com/thmanoy)
 - [Aurora Maybee](https://github.com/auroramaybee)
