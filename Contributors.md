@@ -25,6 +25,7 @@
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [nmenal](https://github.com/nmenal)
+- [Ariel Cooper] (https://github.com/featherboa50)
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [Mochamad Rizki](https://github.com/rzkidev)
