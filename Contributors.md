@@ -1176,6 +1176,7 @@ CMBloodMeridian
 - [Chas McLaughlin](https://github.com/vv020633)
 - [Anna Berndt](https://github.com/alberndt10)
 - [Muna Ali](https://githib.com/Muna107)
+  [Connor Rack](https://github.com/Racksoup)
 - [Nitin Kumar Singh](https://github.com/nitinitleen1)
 - [Sayan Mandal](https://github.com/sayanmandal)
 - [Akram](https://github.com/zezooli)
