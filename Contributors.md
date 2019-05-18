@@ -3,6 +3,7 @@
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 嗯嗯嗯
+- [Sumit Singh] (https://github.com/sumit4613)
 - [Austin Alv] (https://github.com/ama0115)
 - [Ankit Gupta] (https://github.com/aki21j)
 - [Arushi Saran] (https://github.com/asaran2)
