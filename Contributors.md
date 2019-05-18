@@ -5928,6 +5928,7 @@ Bailey Wong
 - [Bum Kim](https://github.com/bumshakabum)
 - [Charles B. Cameron](http://github.com/cameroncb1)
 - [Sergey Solovev](https://github.com/sergeysolovev)
+- [Dastar Ron] (https://github.com/Dastar/)
 - [Rachit](https://github.com/iamrachitgulatio)
 - [nancho313](https://github.com/nancho313)
 - len probert
