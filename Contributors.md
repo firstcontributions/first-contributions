@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
@@ -223,6 +223,7 @@ Aryan Gupta (@withoutwaxaryan)
 - vidya
 - Ross McCaig
 - Bruce Wayne
+- Rijul singh 
 - [Rex Fagin] (https://github.com/faginr)
 - Arpit Shrotriya(https://github.com/Cyclostone)
 - [Karson Nichols](https://github.com/nicholsk18)
