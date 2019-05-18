@@ -20,6 +20,7 @@
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
+- [Geonho James Kim](https://github.com/kgh475926)
 - [Leo](https://github.com/tangShy)
 - [Tony] (https://github.com/aalberty)
 - [Alex H. S. Lee](https://github.com/aviidlee)
