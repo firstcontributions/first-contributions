@@ -102,6 +102,7 @@
 - [Allyson Frazier] (https://github.com/allyson09)
 - [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
+- [Camelicax](https://github.com/camelicax)
 - [Lavender Ding](https://github.com/Lavender-Ding)
 - [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
