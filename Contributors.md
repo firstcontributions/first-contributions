@@ -13841,3 +13841,4 @@ Tyler Strang
 - [Fabio Trinidad](https://github.com/Ftrinidad2)
 - [Johngogo]()
 - [Ikaika Alo] (https://github.com/ikaikadev)
+- [Kurtis Knodel] (https://github.com/TheArchitect4855)
