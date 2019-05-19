@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
@@ -10045,7 +10045,7 @@ Bailey Wong
 - [Adhil Juvane](https://github.com/adhiljuvane)
 - [ryakosh](https://github.com/ryakosh)
 - [Amr Abouelleil](https://github.com/osiris1975)
-- [Diane Leigh](https://github.com/leighd2008)
+- [Ryan Hughes](https://github.com/RHughes98)- [Diane Leigh](https://github.com/leighd2008)
 - [James Hubert](https://github.com/JamesHubert)
 - [Peter Oddo](https://github.com/peteroddo)
 - [Christian](https://github.com/cburgessus)
