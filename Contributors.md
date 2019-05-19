@@ -10,6 +10,7 @@
 - [C0deM@sK] (https://https://github.com/DeeMATT)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Jason Hall](https://github.com/jsnhall)
+- [Dee Neely](https://github.com/CDNeely64)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
