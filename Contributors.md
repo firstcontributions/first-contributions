@@ -94,6 +94,7 @@
 - [Casey Godbout] (https://github.com/cgodbout412)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
+- [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen] (https://github.com/achencoms)
 - [Ahmed Khaled] (https://github.com/ahmedkhaledak)
 - [Danielkvist](https://github.com/danielkvist)
