@@ -25,6 +25,7 @@
 - [Leo](https://github.com/tangShy)
 - [Tony] (https://github.com/aalberty)
 - [Alex H. S. Lee](https://github.com/aviidlee)
+- [Nitin Sahu] (https://github.com/globefire)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
