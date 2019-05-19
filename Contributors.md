@@ -423,6 +423,7 @@ CMBloodMeridian
   Srinivas Pudu
 - Weita XD
 - Usame Kaldırım
+- Yuvraj Raghuvanshi
 - Ian Cameron
 - [Şammas Çölkesen](https://github.com/kavanozkafa)
 - [Jesse Kanter](https://github.com/JesseKanter)
