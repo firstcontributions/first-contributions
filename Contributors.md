@@ -304,7 +304,8 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Raymond Ng (https://github.com/RaymondNg0054)
 - Varun Mehrotra (https://github.com/VarunMehrotra)
 - Pratyay (https://github.com/praty94)
-- Kyle B
+-[Christopher Morgan](https://github.com/pdswargum)
+ Kyle B
 - [Michael Lekhmus](https://github.com/mlekhmus)
 - [Hamlet Villa](https://github.com/hamletv)
 - [Chris Burns](https://github.com/cburns1331)
