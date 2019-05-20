@@ -12124,6 +12124,7 @@ Bailey Wong
 - [Jon Tonti](https://github.com/jtontiwith)
 - [Ajmal hassan](https://github.com/Ajmal-hassan)
 - [Mouffy](https://github.com/mcampourcy)
+- [Ringo Singson](https://github.com/ringosingson)
 - [Capitan Falafel](https://github.com/CapitanFalafel)
 - [B Choe](https://github.com/bchoe)
 - [Peppah Jackk](https://github.com/peppahJackk)
