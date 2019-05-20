@@ -12518,6 +12518,7 @@ Bailey Wong
 - [Tom Braul](https://github.com/tombraul)
 - [Naveen Subramanian](https://github.com/snaveen)
 - [Sandhya Saravanan](https://github.com/sandy9999)
+- [Utkarsh Singh Rawat](https://github.com/usrbom)
 - [Eoin McCoy](https://github.com/yoghurt1)
 - [Fatema Alawi](https://github.com/fatemalawi)
 - [Delphine Achini](https://github.com/ayumiesan)
