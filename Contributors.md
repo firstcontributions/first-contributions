@@ -97,6 +97,7 @@
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
 - [Casey Godbout] (https://github.com/cgodbout412)
+- [Justin Gagnon] (https://github.com/Aadrik)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
 - [Ahmad Reza](https://github.com/hungryDev39)
