@@ -13697,6 +13697,7 @@ Tyler Strang
 - [fmi]
 - Afolayan Tunde
 - [Maosheng Tang](https://github.com/mshtang)
+- [Karen White](https://github.com/karen-white)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
 - [hongwen000]
 - [Dominika Malinowska](https://github.com/doma1991)
