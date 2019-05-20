@@ -8248,6 +8248,7 @@ Bailey Wong
 - [Kevin Niemeyer](https://github.com/KevinNiemeyer)
 - [D?vid Sz?p](https://github.com/itafet)
 - [Yang Yang](https://github.com/yang573)
+- [Tiina Malinen](https://github.com/Malitsu)
 - [Venkata Buddhiraju](https://github.com/nagarakesh4)
 - [Bill Hefty](https://github.com/bhefty)
 - [Miguel Hernanz](https://github.com/MigHerCas)
