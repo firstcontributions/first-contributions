@@ -1,4 +1,18 @@
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
+
+# Első hozzájárulás (contribution)
+
+Mindig nehéz valamit elsőre csinálni. Kiváltképp igaz ez mikor együttműködünk valakivel, hibázni nem jó érzés. Ezzel a tananyaggal szeretnénk könyebbé tenni a folyamatot azon open-source contributoroknak (nyílt forráskódhoz hozzájárulóknak) akik még csak most kezdtek bele.
+
+Cikkeket olvasni és oktató videókat nézni segít, de ami igazán segít az a valóságban gyakorolni a folyamatot. A projekt célja hogy segítséget nyújtson és leegyszerűsítse a folyamatot azok számára akik csak most kezdtek bele. Ha te is közéjük tartozol kövesd az alábbi lépéseket.
+
+#### *Ha nem érzed magad magabiztosnak a parancssorban, [itt egy leírás GUI használatával]( #tutorials-using-other-tools )*
+
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Ha még nincs git a gépeden, [installáld]( https://help.github.com/articles/set-up-git/).
 
@@ -8,11 +22,11 @@ Kattints a "fork" gombra az oldal tetején, ezzel létrehozod a repo másolatát
 
 ## Klónozd (Clone) a repot
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Most klónozd a forkolt repot a saját gépedre. Navigálj a GitHub fiókodra, nyisd meg a forkolt repot, kattints a "Clone" gombra, majd kattints a *copy to clipboard* (Vágólapra másolás) ikonra. 
+Most klónozd a forkolt repot a saját gépedre. Navigálj a GitHub fiókodra, nyisd meg a forkolt repot, kattints a "Clone" gombra, majd kattints a *copy to clipboard* (*Vágólapra másolás*) ikonra.
 
-Nzisd meg a terminált és futtasd ay alábbi git parancsot:
+Nyisd meg a terminált és futtasd az alábbi git parancsot:
 
 ```
 git clone "az url amit kimásoltál"
@@ -20,7 +34,7 @@ git clone "az url amit kimásoltál"
 ahol "az url amit kimásoltál" (idézőjel nélkül) az url ami erre a repora (a saját forkolt projekted) mutat.
 Az előző pontban láthatod, hogyan juthatsz hozzá az url-hez.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Például:
 ```
@@ -45,74 +59,71 @@ Például:
 git checkout -b kis-pista-hozzaadasa
 ```
 
-## Eszközöld a szükséges változtatásokat majd commitold őket
+## Eszközöld a szükséges változtatásokat majd commit-old őket
 
-//FOLYTATÁS INNEN 
+Nyisd meg a `Contributors.md` filet egy szövegszerkesztőben és add hozzá a neved. Ne a file elejére vagy végére add hanem tetszőlegesen valahova a kettő közé.
+Mentsd el a filet.
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+Ha a projekt könyvtárban lefuttatod a `git status` parancsot, látni fogod a váltaztotásokat.
 
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-
-Add those changes to the branch you just created using the `git add` command:
+Add a változtatásokat az általad létrehozott branch-hoz `git add` paranccsal:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Most commitold a változtatásokat a `git commit` paranccsal:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <a-te-neved> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+helyettesítsd `<a-te-neved>` a saját neveddel.
 
-## Push changes to GitHub
+## Push-old a változtatásokat a GitHubra
 
-Push your changes using the command `git push`:
+Push-old a változtatásokat a `git push` paranccsal:
 ```
-git push origin <add-your-branch-name>
+git push origin <a-branch-neve>
 ```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+helyettesítsd `<a-branch-neve>` az általad létrehozott branch nevével.
 
-## Submit your changes for review
+## Küld a változtatásokat review-ra (felülvizsgálatra)
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+A repodba navigálva a GitHub-on, nyomd meg a `Compare & pull request` gombot.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Küld el a "pull request"-et.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Hamarosan merge-löm a változtatásaidat a projekt master branch-ába. Amint a változtatások mergelve lettek, kapsz egy email értesítést.  
 
-## Where to go from here?
+## Hova tovább?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Gratulálok! Befejeztél egy általános _fork -> clone -> edit -> PR_ folyamatot, amivel gyakran találkozol majd mint contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Ünnepeld meg és oszd meg barátaid és követőid között :  [weboldal](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Csatlakozz a Slack csoportunkhoz ha kérdésed van vagy segítségre van szükséged. [csatlakozz a Slack csoporthoz](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://firstcontributions.github.io/#project-list).
+Most már készen állsz hogy más projektekhez is contributolj. Összeraktunk egy listát projektekről, ahol könnyű problémákkal kezdhetsz foglalkozni. [projekt lista](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 
-## Tutorials Using Other Tools
+## Útmutatók ha más eszközöket használnál
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Self-Promotion
+## Ha tetszett a projekt
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
+Ha tetszett a projekt csillagozd be [GitHub](https://github.com/Roshanjossey/first-contributions).
+és kövess itt: [Roshan](https://roshanjossey.github.io/) itt:
+[Twitter](https://twitter.com/sudo__bangbang) vagy itt:
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
