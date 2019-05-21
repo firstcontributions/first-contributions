@@ -104,13 +104,13 @@ Hamarosan merge-löm a változtatásaidat a projekt master branch-ába. Amint a 
 
 Gratulálok! Befejeztél egy általános _fork -> clone -> edit -> PR_ folyamatot, amivel gyakran találkozol majd mint contributor!
 
-Ünnepeld meg és oszd meg barátaid és követőid között :  [weboldal](https://firstcontributions.github.io/#social-share).
+Ünnepeld meg és oszd meg barátaid és követőid között :  [Weboldal](https://firstcontributions.github.io/#social-share).
 
-Csatlakozz a Slack csoportunkhoz ha kérdésed van vagy segítségre van szükséged. [csatlakozz a Slack csoporthoz](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Csatlakozz a Slack csoportunkhoz ha kérdésed van vagy segítségre van szükséged. [Csatlakozz a Slack csoporthoz](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Most már készen állsz hogy más projektekhez is contributolj. Összeraktunk egy listát projektekről, ahol könnyű problémákkal kezdhetsz foglalkozni. [projekt lista](https://firstcontributions.github.io/#project-list).
+Most már készen állsz hogy más projektekhez is contributolj. Összeraktunk egy listát projektekről, ahol könnyű problémákkal kezdhetsz foglalkozni. [Projekt lista](https://firstcontributions.github.io/#project-list).
 
-### [Extra olvasnivalo](additional-material/git_workflow_scenarios/additional-material.md)
+### [Extra olvasnivalo](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Útmutatók ha más eszközöket használnál
