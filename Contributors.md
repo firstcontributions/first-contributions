@@ -219,6 +219,7 @@ Aryan Gupta (@withoutwaxaryan)
 - cubitoverde
 - Sean Yi (https://github.com/sean-jy-yi)
 - Foysal Remon (https://github.com/foysalremon)
+- Tristan Perez (https://github.com/TriscuitP)
 - shivanis22 (https://github.com/shivanis22)
 - PythonIT01 (https://github.com/PythonIT01)
 - D3v Devendra S (https://github.com/devasci)
