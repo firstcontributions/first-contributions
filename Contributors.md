@@ -26,6 +26,7 @@
 - [Christian McDonald] (https://github.com/religionfastfood)
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
+- [Tish G] (https://github.com/TishG)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
 - [Geonho James Kim](https://github.com/kgh475926)
