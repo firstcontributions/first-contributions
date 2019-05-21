@@ -86,6 +86,7 @@
 - [Ben Hunter](https://github.com/benhunter)
 - [Parthiban Thangaraj](https://github.com/parthicseraj)
 - [Sandeep Vellore] (https://github.com/sandeepvc)
+- [Rahmat Nazali Salimi](https://github.com/rahmatnazali)
 - [Rob Cotter](https://github.com/robcotter)
 - [Daniel Karam](https://github.com/danielkv7)
 - [JBucho](https://github.com/JBucho)
