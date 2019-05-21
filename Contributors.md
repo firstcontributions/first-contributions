@@ -715,6 +715,7 @@ CMBloodMeridian
 - Sowndar Raj
 - Jan
 - Catalin Pit (https://github.com/catalinpit/)
+- [Brandon](https://github.com/augustusbd)
 - [panhabot](https://github.com/panhabot)
 - [Kathleen Bongco](https://github.com/kbongco)
 - [Alex Ruiztagle](https://github.com/Activelius)
