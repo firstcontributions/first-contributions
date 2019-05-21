@@ -6641,6 +6641,7 @@ Bailey Wong
 - [Rebecca Mayer](https://github.com/rbmayer)
 - [Pronomita Dey](https://github.com/PronomitaDey)
 - [Gabriel Arruda](https://github.com/gabrieldi95)
+- [Don Krause](https://github.com/dkrausea)
 - [Yern Yee](https://github.com/YernYee)
 - [Min Hoo Lee](https://github.com/minhoolee)
 - [Matic Zavadlal](https://github.com/maticzav)
