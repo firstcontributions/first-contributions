@@ -270,6 +270,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [mazayo](https://github.com/mazayo)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
+- Victor R
 - Molly Johnson
 - Titan
 - Nikhil Mehta
