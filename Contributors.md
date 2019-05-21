@@ -20,6 +20,7 @@
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
+- [Christian McDonald] (https://github.com/religionfastfood)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
