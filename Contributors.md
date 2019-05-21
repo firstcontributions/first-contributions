@@ -13881,3 +13881,4 @@ Tyler Strang
 - [Holtek] (https://github.com/Holtek)
 - [Chris Vos] ()
 - [Turpster] (https://github.com/Turpster)
+- [jaroot](https://github.com/jaroot32)
