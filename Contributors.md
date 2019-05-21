@@ -17,6 +17,7 @@
 - [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
+- [Ahmed Lebba] (https://github.com/Kungfoosian)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
