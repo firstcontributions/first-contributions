@@ -1769,6 +1769,7 @@ CMBloodMeridian
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
 - supraja
+- Morgan W
 - [Stefan Pfeuffer](https://github.com/stefanpf)
 - [Kumaravel Palanisamy](https://github.com/kumaravel95)
 - [Viraj Malia](https://github.com/virajmalia)
