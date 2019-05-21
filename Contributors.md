@@ -18,6 +18,7 @@
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
+- [Tim Fierens] (https://github.com/timfi)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
