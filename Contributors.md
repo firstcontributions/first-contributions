@@ -22,6 +22,7 @@
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
 - [Christian McDonald] (https://github.com/religionfastfood)
+- [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
