@@ -188,6 +188,7 @@ jkusita
 - ProximitySound
 - Kate Choe
 - [Chris Olson](https://github.com/SailorFuzz)
+- [Coletta Fuller](https://github.com/coletta1)
 - [Thales Machado] (https://github.com/ThalesMachado/)
 - Lea Whitney (https://github.com/whitWEB)
 - Cody James (https://github.com/C-F-J)
