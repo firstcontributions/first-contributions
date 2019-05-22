@@ -180,6 +180,7 @@ jkusita
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
+- [Dan Seremet](https://github.com/danseremet/)
 - [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
 - Talon Dechert
