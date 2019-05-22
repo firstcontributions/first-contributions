@@ -13773,6 +13773,7 @@ Tyler Strang
 - [Zanoni Contreras](https://github.com/zamboni86)
 - [Łukasz Pasek](https://github.com/lukaszpasek)
 - [Patrick Uzuwe] (https://github.com/puzuwe)
+- [James Miller](https://github.com/JamesMMiller)
 - Matt Z
 - Aleksi Maunu :O
 - [Werner Krauth](https://github.com/WernerKrauth)
