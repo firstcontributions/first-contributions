@@ -28,6 +28,7 @@
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [John Joseph] (https://github.com/contactjw) 
+- [Aviral Verma] (https://github.com/aviral-verma) 
 - [Tish G] (https://github.com/TishG)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
