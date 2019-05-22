@@ -9,6 +9,7 @@
 - [Austin Alv] (https://github.com/ama0115)
 - [Ankit Gupta] (https://github.com/aki21j)
 - [Arushi Saran] (https://github.com/asaran2)
+- [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [C0deM@sK] (https://https://github.com/DeeMATT)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Jason Hall](https://github.com/jsnhall)
