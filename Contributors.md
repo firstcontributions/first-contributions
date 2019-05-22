@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [baclona] (https://github.com/gb853940223)
 - [Hossain Riazati] (https://github.com/rriazati) 
@@ -1798,6 +1798,7 @@ CMBloodMeridian
 - [Hamed Diakite](https://github.com/hdkid7/)
 - [Vladimir Tretyak](https://github.com/tretyakvl);
 - [Leon Liang](https://github.com/leonliang0395)
+- [Christian Parraga](https://github.com/chispofish)
 - [Travis Virgil](https://github.com/virgilt)
 - [Taha haq](https://github.com/tahahaq)
 - [Gianni De Luca](https://github.com/Giannid3Luca)
