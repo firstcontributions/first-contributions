@@ -13892,3 +13892,4 @@ Tyler Strang
 - [Turpster] (https://github.com/Turpster)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss] (https://github.com/ceheiss)
+- [maizedaniele](https://github.com/maizedaniele)
