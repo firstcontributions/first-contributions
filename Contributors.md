@@ -33,6 +33,7 @@
 - [Tish G] (https://github.com/TishG)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
+- [Jason xu](https://github.com/coffee0218)
 - [Geonho James Kim](https://github.com/kgh475926)
 - [Michael Thomas Cavanaugh](https://github.com/funkel1989)
 - [Leo](https://github.com/tangShy)
