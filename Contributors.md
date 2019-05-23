@@ -436,6 +436,7 @@ CMBloodMeridian
   GitMoonHub
 - Vallabh
 - [Ryan Polley](https://github.com/rpolley)
+[Mat Wong](https://github.com/wong-mat)
 - Lee Hearn (https://github.com/leehearn)
 - [Julitra](https://github.com/julitra/)
   [Robert Bohn](https://github.com/RobertBohn)
