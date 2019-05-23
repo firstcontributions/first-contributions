@@ -42,6 +42,7 @@
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
 - [NoobyScoob](https://github.com/NoobyScoob)
+- [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
 - [Ariel Cooper] (https://github.com/featherboa50)
 - [Pawelus Sysiakus](https://github.com/pawsys)
