@@ -107,7 +107,7 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme postası alacaksınız.
+Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme e-postası alacaksınız.
 
 ### [Sonraki adımlar](../additional-material/git_workflow_scenarios/additional-material.md)
 
