@@ -636,6 +636,7 @@ CMBloodMeridian
 - [Neville](https://github.com/nevilleomangi)
 - [Ahmed Talaat](https://github.com/ahmdtalaat)
 - [Alin Eremia](https://github.com/alineremia)
+- [ripoul](https://github.com/ripoul)
 - [Saksham Saigal]
 - [Omer Liberman]
 - [Tobi Adewuyi]
