@@ -87,7 +87,7 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
 `<isminiz>` yerine kendi isminizi yazın.
 
-(Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
+(Ç.N: Açık kaynak dünyasında, dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
 
 ## Değişiklikleri GitHub üzerine "itme" (Push)
 
