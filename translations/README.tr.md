@@ -113,7 +113,7 @@ Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile bir
 
 ## Bundan sonra ne yapabilirim?
 
-Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
+Sunduğunuz katkının coşkusunu yaşamak veya bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
 
 Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
 
