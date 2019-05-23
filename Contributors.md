@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [baclona] (https://github.com/gb853940223)
 - [Hossain Riazati] (https://github.com/rriazati) 
@@ -13907,4 +13907,5 @@ Tyler Strang
 - [maizedaniele](https://github.com/maizedaniele)
 - [VirtualVasquez](https://github.com/VirtualVasquez)
 - [DJ Johnson](https://github.com/DonaldJamesJohnson)
+- [Zach Rudy](https://github.com/zcr7948)
 - [Faial](https://github.com/fabfas)
