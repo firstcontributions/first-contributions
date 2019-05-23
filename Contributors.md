@@ -22,6 +22,7 @@
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
+- [Dalibor Kozar](https://github.com/Daliborkozar)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
