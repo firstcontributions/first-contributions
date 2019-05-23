@@ -91,7 +91,7 @@ git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 
 ## Değişiklikleri GitHub üzerine "itme" (Push)
 
-`git push` komutu ile değişikliklerinizi ittirin:
+`git push` komutu ile değişikliklerinizi itin:
 ```
 git push origin <ekle-kendi-isminiz>
 ```
