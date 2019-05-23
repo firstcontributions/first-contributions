@@ -306,6 +306,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Marlin dalPozzo (https://github.com/mdalpozzo)
 - Homercrates (https://github.com/homercrates)
 - Lokesh Kedia(https://github.com/lokesh1agarwal)
+- Dale Holstein (https://github.com/zarnerz)
 - David An
 - Alice Always
 - Mini Mel (https://github.com/Mini-mel)
