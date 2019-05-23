@@ -11,7 +11,7 @@ Makale okumak ve eğitim videolarını izlemek yardımcı olabilir, fakat bir i�
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Eğer bilgisayarınızda git kurulu değil ise, [ yükleyin ]( https://help.github.com/articles/set-up-git/ ).
+Eğer bilgisayarınızda git kurulu değil ise, [buradan yükleyin ]( https://help.github.com/articles/set-up-git/).
 
 ## Projeyi "çatallandırma"
 
