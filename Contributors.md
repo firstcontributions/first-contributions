@@ -13774,6 +13774,7 @@ Tyler Strang
 - [Zanoni Contreras](https://github.com/zamboni86)
 - [Łukasz Pasek](https://github.com/lukaszpasek)
 - [Patrick Uzuwe] (https://github.com/puzuwe)
+- [James Miller](https://github.com/JamesMMiller)
 - Matt Z
 - Aleksi Maunu :O
 - [Werner Krauth](https://github.com/WernerKrauth)
@@ -13894,3 +13895,6 @@ Tyler Strang
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss] (https://github.com/ceheiss)
 - [maizedaniele](https://github.com/maizedaniele)
+- [VirtualVasquez](https://github.com/VirtualVasquez)
+- [DJ Johnson](https://github.com/DonaldJamesJohnson)
+- [Faial](https://github.com/fabfas)
