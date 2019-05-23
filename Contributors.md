@@ -94,6 +94,7 @@
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
+- [Airthee](https://github.com/Airthee)
 - [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
 - [Parthiban Thangaraj](https://github.com/parthicseraj)
