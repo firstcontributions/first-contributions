@@ -46,6 +46,7 @@
 - [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
 - [Ariel Cooper] (https://github.com/featherboa50)
+- [Doug McQuinn] (https://github.com/wdmcquinn)
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [Mochamad Rizki](https://github.com/rzkidev)
