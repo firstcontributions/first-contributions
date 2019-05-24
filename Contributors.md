@@ -45,6 +45,7 @@
 - [Nitin Sahu] (https://github.com/globefire)
 - [Peter](https://github.com/Some-pulp)
 - [Almog](https://github.com/almoghaimo)
+- [Ritwik](https://github.com/Dips2705
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
