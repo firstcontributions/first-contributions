@@ -94,6 +94,7 @@
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Dominic Jesse] (https://github.com/aphorism44)
 - [Varshini Ananta] (https://github.com/sananta) 
+- [Gerald Bruno] (https://github.com/NephilimEyez)
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
