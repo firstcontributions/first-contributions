@@ -13915,3 +13915,4 @@ Tyler Strang
 - [DJ Johnson](https://github.com/DonaldJamesJohnson)
 - [Zach Rudy](https://github.com/zcr7948)
 - [Faial](https://github.com/fabfas)
+- [Alex White](https://github.com/alex-wh)
