@@ -3,6 +3,7 @@
 - [baclona] (https://github.com/gb853940223)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
+- [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 嗯嗯嗯
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)
