@@ -323,6 +323,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Alex Puga (https://github.com/alpuga)
 - AlexFreyr (https://github.com/AlexFreyr)
 - Danny Dan
+- Alexander Serdobincev (https://github.com/ITihiy)
 - Suki Sahota (https://github.com/suki-sahota)
 - Maurice Castro (https://github.com/Teeny-Sanguini)
 - [Rajat] (https://github.com/Rajat1999)
