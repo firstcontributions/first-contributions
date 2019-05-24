@@ -36,6 +36,7 @@
 - [John Joseph] (https://github.com/contactjw) 
 - [Aviral Verma] (https://github.com/aviral-verma) 
 - [Tish G] (https://github.com/TishG)
+- [Alexander Bejarano] (https://github.com/abejaranoh)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
 - [Geonho James Kim](https://github.com/kgh475926)
