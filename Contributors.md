@@ -6480,6 +6480,7 @@ Bailey Wong
 - [Juha Pekkarinen](https://github.com/sirjuan)
 - [Cody Taft](https://github.com/codytaft)
 - [Brane](https://github.com/brane)
+- [Daniel Hocking](https://github.com/daniel-hocking)
 - [Herman Hallstedt](https://github.com/0mN1)
 - [Joey Z](https://github.com/joeyz)
 - [Rajat Gupta](https://github.com/Rajat16nov)
