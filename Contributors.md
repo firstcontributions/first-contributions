@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [baclona] (https://github.com/gb853940223)
 - [Hossain Riazati] (https://github.com/rriazati) 
@@ -29,6 +29,7 @@
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
+- [Rupinder Deol] (https://github.com/deolr)
 - [Christian McDonald] (https://github.com/religionfastfood)
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
