@@ -21,6 +21,7 @@
 - [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
+- [zwitter1802]
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
