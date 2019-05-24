@@ -76,6 +76,7 @@
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
 - [Yudi](https://github.com/yudi7ll)
+- [Jtian](https://github.com/JhonsonTian)
 - [u4989190](https://github.com/u4989190)
 - [Danny Kim](https://github.com/okolop)
 - [Zach James](https://github.com/ZachJames)
