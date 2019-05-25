@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kish Dubey] (https://github.com/kishdubey)
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
