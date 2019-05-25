@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
@@ -13933,3 +13933,4 @@ Tyler Strang
 - [Mithun Madhav](https://github.com/mithunmqb)
 - [sevevictor]
 - [Ananthalakshmi Sankar] (https://github.com/anu294)
+- [Ahmed Mahir Tazwar] (https://github.com/Utshas)
