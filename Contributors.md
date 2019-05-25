@@ -11,6 +11,7 @@
 - [Shumai Ocbayes A] (https://github.com/shumai9)
 - [Austin Alv] (https://github.com/ama0115)
 - [Ankit Gupta] (https://github.com/aki21j)
+- [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [C0deM@sK] (https://https://github.com/DeeMATT)
