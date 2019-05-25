@@ -15,6 +15,7 @@
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [C0deM@sK] (https://https://github.com/DeeMATT)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
+- [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
