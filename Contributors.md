@@ -12034,6 +12034,7 @@ Bailey Wong
 - [Heinz Burtscher](https://github.com/znekar)
 - [Francesco Cipolla](https://github.com/Atlas80b)
 - last3oy
+- [Namer Afzal](https://github.com/NaCoder92)
 - Bruce bi
 - [Dileep](https://github.com/IshankaDSenevirathne)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
