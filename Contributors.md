@@ -32,6 +32,7 @@
 - [Nirmalya Ghosh](https://github.com/neil28)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
+- [Md Moksedul Hoque] (https://github.com/uzzol101)
 - [Shel Xu] (https://github.com/shelxu)
 - [meanaubergine] (https://github.com/meanaubergine)
 - [Rupinder Deol] (https://github.com/deolr)
