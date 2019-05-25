@@ -32,6 +32,7 @@
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Brandon S] (https://github.com/bstrain71)
 - [Shel Xu] (https://github.com/shelxu)
+- [meanaubergine] (https://github.com/meanaubergine)
 - [Rupinder Deol] (https://github.com/deolr)
 - [Christian McDonald] (https://github.com/religionfastfood)
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
