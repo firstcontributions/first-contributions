@@ -114,6 +114,7 @@ Daniel Jung
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Jessie Simpauco](https://github.com/jesselton23) 
+- [Mathew White](https://github.com/matiusmonkey)
 - [Airthee](https://github.com/Airthee)
 - [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
