@@ -11641,6 +11641,7 @@ Bailey Wong
 - [Akshat Ahuja](https://github.com/akshatah33)
 - [Shailesh Sawant]()
 - [Kenneth Wright](https://github.com/WrightKD)
+- [Michal Kordyzon](https://github.com/ertogrul)
 - [Sumeet Kulkarni](https://github.com/sumeetk321)
 - [Valter Lucena](https://github.com/valterlucena)
 - [Sdmmssa](https://github.com/sdmmssa)
