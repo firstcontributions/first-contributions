@@ -96,6 +96,7 @@
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
+- [Muhammad Abu Bakar Aziz](https://github.com/abubakaraziz)
 - [Yudi](https://github.com/yudi7ll)
 Daniel Jung
 - [Jtian](https://github.com/JhonsonTian)
