@@ -8,6 +8,7 @@
 嗯嗯嗯
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
+- [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)
 - [Shumai Ocbayes A] (https://github.com/shumai9)
 - [Austin Alv] (https://github.com/ama0115)
