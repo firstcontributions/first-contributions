@@ -11,6 +11,7 @@
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
+- [Hugo Chanampe] (https://github.com/hchanampe)
 - [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)
 - [Shumai Ocbayes A] (https://github.com/shumai9)
