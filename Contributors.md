@@ -218,6 +218,7 @@ jkusita
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
+- Mark Reed (https://github.com/markdreed512)
 - [Dan Seremet](https://github.com/danseremet/)
 - [Evan Chan] (https://github.com/hyc121110)
 - Joshua Morgan
