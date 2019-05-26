@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [fsidiqs] (https://github.com/fsidiqs)
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
