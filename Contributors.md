@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+-[Dallas Kelley](https://github.com/AugmentedSacrament)
 -[burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
 - [baclona] (https://github.com/gb853940223)
