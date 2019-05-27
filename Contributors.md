@@ -6193,6 +6193,7 @@ Bailey Wong
 - [Patrick Tumbucon](https://github.com/ptumb001)
 - [Rishab Arora](https://github.com/Rishabharora2773)
 - [Yuriy Stul](https://github.com/ysden123)
+- [bnsrel](https://github.com/bnsrel)
 - [Tonia Del Priore](https://github.com/toninjaa)
 - [Denis Kajgorodov](https://github.com/terracott)
 - [David Jung](https://github.com/sungwonida)
