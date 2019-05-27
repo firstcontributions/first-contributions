@@ -543,6 +543,7 @@ CMBloodMeridian
 - [Lucas Lopes] (https://github.com/thuraam)
 - [Juuso Solonen] (https://github.com/juusolonen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
+-[Narethmarch Venmey](https://github.com/mw112)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - [Jack Mason] (https://github.com/jack-alexander-ie)
 
