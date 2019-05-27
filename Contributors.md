@@ -1,6 +1,6 @@
 ﻿# Contributors
 
--[burak136] (https://github.com/burak136)
+- [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
@@ -13962,3 +13962,4 @@ Tyler Strang
 - [Ananthalakshmi Sankar] (https://github.com/anu294)
 - [Fabian Mesias] (https://github.com/ifmr24)
 - [Ross Wilkinson] (https://github.com/rgwilkin)
+- [Sudipto Ghosh](https://github.com/sudiptog81)
