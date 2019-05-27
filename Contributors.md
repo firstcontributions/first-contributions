@@ -1,13 +1,13 @@
 ﻿# Contributors
 
--[burak136] (https://github.com/burak136)
+- [d1teng] (https://github.com/d1teng)
+- [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
-嗯嗯嗯
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
