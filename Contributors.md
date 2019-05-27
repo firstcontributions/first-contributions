@@ -671,6 +671,7 @@ CMBloodMeridian
 - [Daniel Ferragut](https://github.com/danielferragut/)
 - [Nana Yaw Ankomah]
 - [Felipe Merino]
+- [Pablo Sanzo Perez](https://github.com/sanzoperez)
 - [Vincent]
 - [Alejandra Cabeza](https://github.com/AlejandraCabeza)
 - [Neville](https://github.com/nevilleomangi)
