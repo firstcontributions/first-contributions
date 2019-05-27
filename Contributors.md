@@ -45,6 +45,7 @@
 - [Brandon S] (https://github.com/bstrain71)
 - [Md Moksedul Hoque] (https://github.com/uzzol101)
 - [Shel Xu] (https://github.com/shelxu)
+- [0rhisia0]
 - [meanaubergine] (https://github.com/meanaubergine)
 - [Meshi Bhatia] (https://github.com/meshib)
 - [Rupinder Deol] (https://github.com/deolr)
