@@ -5010,6 +5010,7 @@ CMBloodMeridian
 - [Malika Asim](https://github.com/itsvoodoochild)
 - [Melanie Mills](https://github.com/codeherlife)
 - [Katie Stutts](https://github.com/stuttskl)
+- [Patrick Pruss] (https://github.com/ppruss)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Jason Wang](https://github.com/jawang94)
 - [Daniel B. Papp](https://github.com/chef-danny-d)
