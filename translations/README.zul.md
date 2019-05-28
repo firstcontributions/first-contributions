@@ -169,16 +169,15 @@ Gubha umnikelo wakho bese uwabelana nabangani bakho nabalandeli ngokuya kuhlelo 
 
 Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo noma unemibuzo. [Joyina ithimba le-slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://roshanjossey.github.io/first-contributions/#project-list).
+Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Izinto ezengeziwe](additional-material/git_workflow_scenarios/additional-material.md)
 
-
 ## Izinto ezengeziwe
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/800px-Visual_Studio_2017_Logo.svg.png" width="95px"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
-|[Ideskithophu ye-GitHub](github-desktop-tutorial.md)|[I-Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Ikhodi ye-Visual Studio](github-windows-vs-code-tutorial.md)|
+|[Ideskithophu ye-GitHub](../github-desktop-tutorial.md)|[I-Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Ikhodi ye-Visual Studio](../github-windows-vs-code-tutorial.md)|
 
 ## Ukuzithuthukisa
 

@@ -106,9 +106,9 @@ git push origin <add-your-name>
 
 ## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/redesign/tools-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/800px-Visual_Studio_2017_Logo.svg.png" width="95px"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|[ভিজুয়াল স্টুডিও কোড](../github-windows-vs-code-tutorial.md)|
 
 ## সেলফ-প্রমোশন
 
