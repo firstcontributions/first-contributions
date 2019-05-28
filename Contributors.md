@@ -550,7 +550,7 @@ CMBloodMeridian
 -[Narethmarch Venmey](https://github.com/mw112)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - [Jack Mason] (https://github.com/jack-alexander-ie)
-
+- [Landon Swartz] (https://github.com/LandonSwartz)
 - Robert
 - [Amit](https://github.com/kuttyamit)
 - [Christopher Bradford](https://github.com/sunkencity999)
