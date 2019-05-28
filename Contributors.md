@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [wa4It] (https://github.com/dTCTb)
 - [trialzuki] (https://github.com/trialzuki)
@@ -13981,4 +13981,5 @@ skelter2014
 - [Ananthalakshmi Sankar] (https://github.com/anu294)
 - [Fabian Mesias] (https://github.com/ifmr24)
 - [Ross Wilkinson] (https://github.com/rgwilkin)
+- [Victor Zohni] (https://github.com/vzohni)
 - [Samet Şahin](https://github.com/sametcl2)
