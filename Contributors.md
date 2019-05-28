@@ -445,6 +445,7 @@ CMBloodMeridian
 - [Devin Tang] (https://github.com/devintang3)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [Tami Davies](https://github.com/TamiMcInnis)
+- [Evan Johnston] (https://github.com/EvanJohnston)
 - [Ratin Kumar](https://github.com/DumbMachine)
 - [Xiao zhen](https://github.com/XiaozhenChen)
 - [Barry Johnson](https://github.com/hughbarronjohnson)
