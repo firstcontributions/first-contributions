@@ -48,6 +48,7 @@
 - [0rhisia0]
 - [meanaubergine] (https://github.com/meanaubergine)
 - [Meshi Bhatia] (https://github.com/meshib)
+Andrew Scheper
 - [Rupinder Deol] (https://github.com/deolr)
 - [Christian McDonald] (https://github.com/religionfastfood)
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
