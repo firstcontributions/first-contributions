@@ -283,6 +283,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [Max](https://github.com/mjoellnier) 
 - Maceo Lewis (https://github.com/maceocodes)
 - Wes Braga (https://github.com/wesbragagt)
+- Domingos Dias (https://github.com/Dowingows/)
 - rpturan
 - [Benjamin Allen](https://github.com/imami777)
 - vidya
