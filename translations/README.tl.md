@@ -127,4 +127,4 @@ Kung gusto mo pa ng pamamaraan ng pagpapasalamat, i-follow si [Roshan](https://r
 [Twitter](https://twitter.com/sudo__bangbang) at sa
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
