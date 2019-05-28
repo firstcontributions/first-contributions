@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [wa4It] (https://github.com/dTCTb)
 - [trialzuki] (https://github.com/trialzuki)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
