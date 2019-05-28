@@ -4589,6 +4589,7 @@ CMBloodMeridian
 - [Damo Ando](https://github.com/damoando4)
 - [Daniel Kim](https://github.com/danjkim)
 - [xiaochun Lee](https://github.com/xiaochunlee)
+- [Mitrofanov Daniil](https://github.com/UsedC)
 - [Paulo Figueiredo](https://github.com/pvfigueiredo)
 - [Ryan S](https://github.com/RyanSlager)
 - [Edward W](https://github.com/Edeard95)
