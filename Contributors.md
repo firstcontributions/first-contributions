@@ -5508,6 +5508,7 @@ Bailey Wong
 - [Samuelson Osoba](https://github.com/samuelsons)
 - [Joeylene Rivera](https://github.com/merakireal)
 - [Teddy Ngwenya](https://github.com/linteddy)
+- [Adrien Corbalan](https://github.com/adriencorbalan)
 - [Sonja Duijvesteijn](https://github.com/MissMormie)
 - [Carmela Anzelmo](https://github.com/carme173)
 - [Jean-Michel Brunet](https://github.com/jmbrunet)
