@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [wa4It] (https://github.com/dTCTb)
 - [trialzuki] (https://github.com/trialzuki)
@@ -44,6 +44,7 @@
 - [Dalibor Kozar](https://github.com/Daliborkozar)
 - [Nirmalya Ghosh](https://github.com/neil28)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
+- [Raj Kumar] (https://github.com/Rajetharan)
 - [Brandon S] (https://github.com/bstrain71)
 - [Md Moksedul Hoque] (https://github.com/uzzol101)
 - [Shel Xu] (https://github.com/shelxu)
