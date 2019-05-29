@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [trialzuki] (https://github.com/trialzuki)
 - [burak136] (https://github.com/burak136)
@@ -13972,3 +13972,4 @@ skelter2014
 - [Fabian Mesias] (https://github.com/ifmr24)
 - [Ross Wilkinson] (https://github.com/rgwilkin)
 - [Samet Şahin](https://github.com/sametcl2)
+- [Ryan Stephen](https://github.com/ryan-stephen)
