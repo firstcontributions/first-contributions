@@ -62,6 +62,7 @@ Andrew Scheper
 - [John Joseph] (https://github.com/contactjw) 
 - [Aviral Verma] (https://github.com/aviral-verma) 
 - [Tish G] (https://github.com/TishG)
+- [Harikrishnan P] (https://github.com/harip3003)
 - [Alexander Bejarano] (https://github.com/abejaranoh)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
