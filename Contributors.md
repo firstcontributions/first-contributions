@@ -12,6 +12,7 @@
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
 - [Eunice](https://github.com/euniceyeung1)
 嗯嗯嗯
+- [Noah Nichols] (https://github.com/noahjacknichols)
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
