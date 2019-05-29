@@ -3309,3 +3309,4 @@
 - [Murray Hopkins](https://github.com/flowt-au)
 - [Ahsan Ahmad](https://github.com/AhsanIO)
 - [Anchit Dave](https://github.com/anchitDave)
+- [Valerio Noto](https://github.com/ValvoltNova)
