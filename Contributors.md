@@ -6998,6 +6998,7 @@ Bailey Wong
 - [G?khan Gurbeto?lu](https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
 - [Aaron Hardie](https://github.com/aazaa123)
+- [Mohamed Elalem](https://github.com/mohamed-elalem)
 - [Jo?o Gabriel](https://github.com/jgbrittos)
 - [Darshan](https://github.com/darshan45)
 - [Developer Wahala](https://github.com/devwahala)
