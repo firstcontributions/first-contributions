@@ -10,6 +10,7 @@
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
+- [Eunice](https://github.com/euniceyeung1)
 嗯嗯嗯
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
