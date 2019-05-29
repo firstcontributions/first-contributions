@@ -13996,3 +13996,4 @@ skelter2014
 - [Ryan Stephen](https://github.com/ryan-stephen)
 - [Muhammad Ali](https://github.com/muhd-ali)
 - [Wouter Droog](https://github.com/wouter-droog)
+- [aur ryuzaki](https://github.com/aur-ryuzaki)
