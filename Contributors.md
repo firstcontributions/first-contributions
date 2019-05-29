@@ -150,6 +150,7 @@ Daniel Jung
 - [SB Tracy](https://github.com/sbtries) 
 - [Osama Arshad Dar](https://github.com/daroodar)
 - [Yi Zhang(翼翼)](https://github.com/zhangyi921)
+- [Seyd Havens](https://github.com/sthavens)
 - [Muhammad](https://github.com/madmedmod)
 - [william302](https://github.com/william302)
 -Mormor Gorgor
