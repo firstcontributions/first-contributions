@@ -299,7 +299,8 @@ Aryan Gupta (@withoutwaxaryan)
 - vidya
 - Ross McCaig
 - Bruce Wayne
-- Rijul singh 
+- Rijul singh
+- Bluekable (https://github.com/bluekable)
 - [Rex Fagin] (https://github.com/faginr)
 - Arpit Shrotriya(https://github.com/Cyclostone)
 - [Karson Nichols](https://github.com/nicholsk18)
