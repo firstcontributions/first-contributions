@@ -29,6 +29,7 @@
 - [C0deM@sK] (https://github.com/DeeMATT)
 - [Quifisto] (https://github.com/Quifisto)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
+- [Harsh Maheshwari](https://github.com/harshchinu)
 - [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
 - [Michael Wan](https://github.com/themichaelwan)
