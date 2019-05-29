@@ -7853,6 +7853,7 @@ Bailey Wong
 - [Aaron Trammell](https://github.com/ern19)
 - [Simon Biddle](https://github.com/BigNom)
 - [Manos Koutselakis](https://github.com/manoskoutselakis)
+- [Zaid Baghal](https://github.com/zaidsbaghal)
 - [Carlie Thomas] (https://github.com/cthomas88)
 - [JC Connell](https://github.com/jcconnell)
 - Vanhee Arne
