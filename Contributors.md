@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [wa4It] (https://github.com/dTCTb)
 - [trialzuki] (https://github.com/trialzuki)
@@ -9,6 +9,7 @@
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
+- [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
 嗯嗯嗯
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
