@@ -490,6 +490,7 @@ CMBloodMeridian
 - Lee Hearn (https://github.com/leehearn)
 - [Julitra](https://github.com/julitra/)
   [Robert Bohn](https://github.com/RobertBohn)
+  [Charlie Hayes](https://github.com/charliehayes1)
   [poetwolf](https://github.com/poetwolf)
   [Jack Corley](https://github.com/Jdcorley)
 - [Jacques Benzakein](https://github.com/helloITdepartment)
