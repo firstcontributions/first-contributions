@@ -64,6 +64,7 @@ Andrew Scheper
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Chris Kalahiki] (https://github.com/ChrisKalahiki)
+- [Vee McClure] (https://github.com/rednikon)
 - [John Joseph] (https://github.com/contactjw) 
 - [Aviral Verma] (https://github.com/aviral-verma) 
 - [Tish G] (https://github.com/TishG)
