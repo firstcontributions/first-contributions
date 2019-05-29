@@ -483,7 +483,7 @@ CMBloodMeridian
 - [MingRongXi](https: // github.com/MintRongXi)
 - [Plamen Mitev](https://github.com/o0pmitev)
 - [Paul Walsh](https://github.com/zus2)
-  [MDaams](https://github.com/MDaams)
+- [MDaams](https://github.com/MDaams)
   [Omiros Tsintilas](https://github.com/homerts95)
   [Theos1](https://github.com/Theos17)
   GitMoonHub
@@ -6555,6 +6555,7 @@ Bailey Wong
 - [Gabriel Dekoladenu](https://github.com/gabedeko)
 - [Ramon Reyes](https://github.com/reyesjunk)
 - [Jesus Antonio Zu?iga Arce](https://github.com/jzunigarce)
+- [Diane Gayden](https://github.com/OTR500miles2go)
 - [Antonio Suarez](https://github.com/GrupoKino)
 - [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
