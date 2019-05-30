@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [wa4It] (https://github.com/dTCTb)
 - [yli302] (https://github.com/yli302)
@@ -13998,6 +13998,7 @@ Tyler Strang
 - [Zach Rudy](https://github.com/zcr7948)
 - [Faial](https://github.com/fabfas)
 - [Alex White](https://github.com/alex-wh)
+- [Shruti Raj](https://github.com/Sparkla)
 - [Mithun Madhav](https://github.com/mithunmqb)
 skelter2014
 - [sevevictor]
