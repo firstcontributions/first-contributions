@@ -2,6 +2,7 @@
 
 - [wa4It] (https://github.com/dTCTb)
 - [yli302] (https://github.com/yli302)
+- [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
