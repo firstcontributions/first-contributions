@@ -2534,6 +2534,7 @@ CMBloodMeridian
 - [Sherif Dauda](https://github.com/sherifdauda)
 - triyan
 - [milindchawre](https://github.com/milindchawre)
+- [Niall](https://github.com/nmck)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Jeff Meyer](https://github.com/jlm234)
