@@ -1606,6 +1606,7 @@ CMBloodMeridian
 - [Tredon Austin](https://github.com/TredonA)
 - [Rik]
 - [Leonardo Alcantara](https://github.com/leonardoalcantara)
+- [Sahil Jain](https://github.com/jsahil730)
 - Katherine Liuser
 - lmidy
 - [sjiang647](https://github.com/sjiang647)
