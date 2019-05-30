@@ -5462,6 +5462,7 @@ Bailey Wong
 - [Thomas Viaud](https://github.com/thomasviaud)
 - [Adeel Pirzada](https://github.com/adeelpirzada)
 - [Tina The Ace - Tina Hoang](https://github.com/nnh242)
+- [Adina Grace](https://github.com/polarCatZhao)
 - [Evan Genest](https://github.com/atom-box)
 - [Gene Nazarov](https://github.com/gene-indeed)
 - [Skyelah Bay](https://github.com/SkyelahBay)
