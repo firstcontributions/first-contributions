@@ -103,6 +103,7 @@ Andrew Scheper
 - [Scott Ames] (https://github.com/scottaames)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
+- [Rodrigo Medina](https://github.com/roeeyn)
 - [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
 - [Sudhanshu Chauhan](https://github.com/sudhanshu-chauhan)
