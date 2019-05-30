@@ -96,6 +96,7 @@ Andrew Scheper
 - [Beloqui Juan Ignacio] (https://github.com/Excatter)
 - [Ronak Malik](https://github.com/BeyondPerception)
 - [Lecce Marco](https://github.com/lecciovich)
+- [Scott Ames] (https://github.com/scottaames)
 - [filip filip](https://github.com/aminta5)
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Yaniv Zegerson](https://github.com/YanivZeg)
