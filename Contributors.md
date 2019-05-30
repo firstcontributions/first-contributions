@@ -39,6 +39,7 @@
 - [Jason Hall](https://github.com/jsnhall)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
+- [Derek Caldwell](https://github.com/derarc2)
 - [Lisa Nelson](https://github.com/Lisa3000)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
