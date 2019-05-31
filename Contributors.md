@@ -13998,6 +13998,7 @@ Tyler Strang
 - [Turpster] (https://github.com/Turpster)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss] (https://github.com/ceheiss)
+- [diksub] (https://github.com/dikisubagja)
 - [maizedaniele](https://github.com/maizedaniele)
 - [VirtualVasquez](https://github.com/VirtualVasquez)
 - [DJ Johnson](https://github.com/DonaldJamesJohnson)
