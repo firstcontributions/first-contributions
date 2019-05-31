@@ -13826,6 +13826,7 @@ Tyler Strang
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
 - [Jessie215]
+- [Francis Dela Cruz]
 - Varghese T Mathew
 - [Vidit Jain](https://github.com/viditjain5598)
 - zhaoweiwei
