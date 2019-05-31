@@ -47,6 +47,7 @@
 - [Lisa Nelson](https://github.com/Lisa3000)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
+- [epithite32](https://github.com/epithite32)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
 - [Joe Pell] (https://github.com/f1nesse13)
