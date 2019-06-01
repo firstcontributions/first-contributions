@@ -14020,6 +14020,7 @@ Tyler Strang
 - [Shruti Raj](https://github.com/Sparkla)
 - [Mithun Madhav](https://github.com/mithunmqb)
 skelter2014
+- [Wahaj Ayub](https://github.com/WahajAyub)
 - [sevevictor]
 - [Swapnanil Pathak] (https://github.com/swapnanilpathak)
 - [Ananthalakshmi Sankar] (https://github.com/anu294)
