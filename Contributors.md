@@ -1818,6 +1818,7 @@ CMBloodMeridian
 - [Ashley Herman](https://github.com/hermana)
 - [Chris Crisson](https://github.com/ccrisson)
 - [Scott Anderson](https://github.com/scottkenanderson)
+- [Dhruv Sharma](https://github.com/dhruvsharma78)
 - [Kirsty Fuquay](https://github.com/kfuquay)
 - [Maxwell Williams](https://github.com/maxuwilliams)
 - [Cristian Flores](https://github.com/jesuscfv)
