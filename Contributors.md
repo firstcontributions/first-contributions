@@ -26,6 +26,7 @@
 - [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Harsh Tiwari](https://github.com/lkit57a03)
 - [Omarian] (https://github.com/AncientLaws]
+- [Tom Dale] (https://github.com/tomkdale)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)  
 - [Shumai Ocbayes A] (https://github.com/shumai9)
 - [Austin Alv] (https://github.com/ama0115)
