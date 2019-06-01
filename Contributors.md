@@ -307,6 +307,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
 - [Robbie Cleaves](https://github.com/SpacemanRC)
+- [Lucas Vidal](https://github.com/lucascvidal)
 - Mark Seda (https://github.com/markpseda)
 - Vinayak Sharma
 - Murat Can Kırdar
