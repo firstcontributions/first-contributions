@@ -831,6 +831,7 @@ CMBloodMeridian
 - Trevor Roy
 - AnoldYogi
 - kuhiga
+- [Peter Zalejski](https://github.com/pzalejski)
 - [Andi Ferhati] (https://github.com/aferhati)
 - goop
 - Manoj
