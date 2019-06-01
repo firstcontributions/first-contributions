@@ -114,6 +114,7 @@ Andrew Scheper
 - [Rodrigo Medina](https://github.com/roeeyn)
 - [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
+- [Russell Rogers](https://github.com/russellrogers)
 - [Sudhanshu Chauhan](https://github.com/sudhanshu-chauhan)
 - [Sue](https://github.com/qaws01395)
 - [Jake](https://github.com/jake-morgan-2)
