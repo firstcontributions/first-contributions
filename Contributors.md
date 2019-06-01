@@ -2552,6 +2552,7 @@ CMBloodMeridian
 - triyan
 - [milindchawre](https://github.com/milindchawre)
 - [Niall](https://github.com/nmck)
+- [Sri Manikanta Palakollu](https://github.com/srimani-programmer)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Jeff Meyer](https://github.com/jlm234)
