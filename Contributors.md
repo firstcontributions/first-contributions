@@ -209,6 +209,7 @@ Daniel Jung
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Mohammed Yehia](https://github.com/engmohammedyehia)
 - [Devanand Gowda](https://github.com/DevanandGowda)
+- Rahul Jyoti
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Mike Disbrow] (https://github.com/mdisbrow)
 - [Shreesh Roliwal] (https://github.com/shreesh1)
