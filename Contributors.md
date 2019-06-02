@@ -221,6 +221,7 @@ Daniel Jung
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Evan MacBride](https://github.com/evanmacbride)
 - [HeroicHitesh] (https://github.com/HeroicHitesh)
+- [Uzair Hussain] (https://github.com/k163791)
 - [Bradley Cavendish](https://github.com/bradcav)
 - [Kevin Andres](https://github.com/KevinKAMS)
 - [Martin Hermes](https://github.com/MartinHermes)
