@@ -168,6 +168,7 @@ Daniel Jung
 - [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
 - [Parthiban Thangaraj](https://github.com/parthicseraj)
+- [Gauri V. Nair](https://github.com/gaurivn)
 - [Sandeep Vellore] (https://github.com/sandeepvc)
 - [Rahmat Nazali Salimi](https://github.com/rahmatnazali)
 - [Rob Cotter](https://github.com/robcotter)
