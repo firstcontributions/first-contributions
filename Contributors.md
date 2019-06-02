@@ -18,6 +18,7 @@
 - [Eunice](https://github.com/euniceyeung1)
 嗯嗯嗯
 - [Soo Kyung Ahn] (https://github.com/sahnsookyung)
+- [Mitchell Chan] (https://github.com/michan94)
 - [rjmax13] (https://github.com/rjmax13)
 - [Noah Nichols] (https://github.com/noahjacknichols)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
