@@ -11240,6 +11240,7 @@ Bailey Wong
 - [Nacho](https://github.com/nachosh)
 - [Nadia Abby](https://github.com/Nadia27)
 - [Jaskaran Singh](https://github.com/jaskaransr93)
+- [Patrick Hughes](https://github.com/patricK09)
 - [Jerry Chang](https://github.com/jerrychangs)
 - [Alex (dangerzone08)](https://github.com/dangerzone08)
 - [Subrato Sarker](https://github.com/subrato-git)
