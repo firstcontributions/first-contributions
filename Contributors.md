@@ -83,6 +83,7 @@ Andrew Scheper
 - [Alexander Bejarano] (https://github.com/abejaranoh)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Adam](https://github.com/worstahrieu)
+- [Jeff Shannon](https://github.com/jeffyboh)
 - [Huseyin Burak Saruhan](https://github.com/buraksaruhan)
 - [Geonho James Kim](https://github.com/kgh475926)
 - [Michael Thomas Cavanaugh](https://github.com/funkel1989)
