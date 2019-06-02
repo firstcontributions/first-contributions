@@ -12758,6 +12758,7 @@ Bailey Wong
 - [Gabrielle Devanz](https://github.com/gabrielledevz)
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
+- [Bardackx](https://github.com/bardackx)
 - [Philly G](https://github.com/pgwh)
 - [Zan Javed](https://github.com/zjaved101)
 - [Abhijeet Mohapatra](https://github.com/abhiwin2010)
