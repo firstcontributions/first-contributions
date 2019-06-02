@@ -8991,6 +8991,7 @@ Bailey Wong
 - [Noam The Great](https://github.com/DragonPie635)
 - [Divyansh Batham](https://github.com/DivyanshBatham)
 - [Jason Li](https://github.com/jli94)
+- [Maria Irizarry](https://github.com/misabel)
 - [Vic Patel](https://github.com/vp932712)
 - [Yash Baheti](https://github.com/yashbth)
 - [Sven Stockmann](https://github.com/EagleTrustSeven)
