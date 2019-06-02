@@ -443,6 +443,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - John Daniel
 - Ananya Gupta
 - Omri Sak
+- Skyname
 CMBloodMeridian
 - [Anushank Varshney](https://github.com/anushank-av)
 - [Vajean Stan](https://github.com/vajean)
