@@ -69,6 +69,7 @@
 - [Md Moksedul Hoque] (https://github.com/uzzol101)
 - [Shel Xu] (https://github.com/shelxu)
 - [0rhisia0]
+- [mbilly7] (https://github.com/mbilly7)
 - [meanaubergine] (https://github.com/meanaubergine)
 - [Meshi Bhatia] (https://github.com/meshib)
 Andrew Scheper
