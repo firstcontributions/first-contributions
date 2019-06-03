@@ -50,6 +50,7 @@
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
 - [Randhir Kumar] (https://github.com/randhirkr)
 - [C0deM@sK] (https://github.com/DeeMATT)
+- [CarameloKevin] (https://github.com/carameloKevin)
 - [Quifisto] (https://github.com/Quifisto)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Harsh Maheshwari](https://github.com/harshchinu)
