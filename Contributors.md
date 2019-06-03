@@ -23,6 +23,7 @@
 - [Michael Lo] (https://github.com/lomichael)
 - [umng09] (https://github.com/baibhavtripathi/)
 - [Mitchell Chan] (https://github.com/michan94)
+- [Alexander Schlesinger] (https://github.com/alexschles)
 - [rjmax13] (https://github.com/rjmax13)
 - [Noah Nichols] (https://github.com/noahjacknichols)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
