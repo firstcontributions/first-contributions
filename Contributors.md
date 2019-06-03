@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [wa4It] (https://github.com/dTCTb)
@@ -31,6 +31,7 @@
 - [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Harsh Tiwari](https://github.com/lkit57a03)
 - [Omarian] (https://github.com/AncientLaws]
+- [Paul Huang] (https://github.com/lineageispig]
 - [Tom Dale] (https://github.com/tomkdale)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)  
 - [Shumai Ocbayes A] (https://github.com/shumai9)
