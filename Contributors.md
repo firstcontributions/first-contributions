@@ -8296,6 +8296,7 @@ Bailey Wong
 - [Tucker](https://github.com/TuckMonty)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
 - [Camber Griffin](https://github.com/camberlucian)
+- [mac-time] (https://github.com/mac-time)
 - [Antonio Bucciol](https://github.com/TBuc)
 - [Ryan Alexander](https://github.com/RKAlexander)
 - [Gabriel Fanelli](https://github.com/gabrielfanelli)
