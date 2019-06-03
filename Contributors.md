@@ -7032,6 +7032,7 @@ Bailey Wong
 - [Debashish Nayak](https://github.com/theindianotaku)
 - [Debal Chakrabarty](https://github.com/DebalChakrabarty)
 - [rosa](https://github.com/rosaxny)
+- [Juan Ruiz](https://github.com/pichogve)
 - [Dipti Kulkarni](https://github.com/cyberdrk)
 - [Graham Beekamn](https://github.com/gbeekman)
 - [Utkarsh Deep](https://github.com/utkarshdeep)
