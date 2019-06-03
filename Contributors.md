@@ -797,6 +797,7 @@ CMBloodMeridian
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Katie Amrine](https://github.com/kcamrine)
 - [Nitish Sharma](https://github.com/nitnk9)
+- [Chris Nelson](https://github.com/chrisnelson2456)
 - [Molly Vinson](https://github.com/dev-mev)
 - [Zak Prescott](https://github.com/zakprescott)
 - [Yotam Ben Dosa](https://github.com/ytmhub)
