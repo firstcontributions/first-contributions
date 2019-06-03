@@ -114,6 +114,7 @@ Andrew Scheper
 - [Doug McQuinn] (https://github.com/wdmcquinn)
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
+- [KokSanLim] (https://github.com/koksan2000)
 - [Mochamad Rizki](https://github.com/rzkidev)
 - [Andrew Cutler](https://github.com/andrewcutler
 - [Jeffrey Washigton] (https://github.com/thvles)
