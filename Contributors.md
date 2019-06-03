@@ -19,6 +19,7 @@
 - [Eunice](https://github.com/euniceyeung1)
 嗯嗯嗯
 - [Soo Kyung Ahn] (https://github.com/sahnsookyung)
+- [Karthik Venkat] (https://github.com/karthik2509)
 - [Michael Lo] (https://github.com/lomichael)
 - [umng09] (https://github.com/baibhavtripathi/)
 - [Mitchell Chan] (https://github.com/michan94)
