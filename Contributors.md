@@ -50,6 +50,7 @@
 - [Quifisto] (https://github.com/Quifisto)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Harsh Maheshwari](https://github.com/harshchinu)
+- [Aju Tamang](https://github.com/Aju100)
 - [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
 - [Michael Wan](https://github.com/themichaelwan)
