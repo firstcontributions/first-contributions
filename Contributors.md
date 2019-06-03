@@ -12611,6 +12611,7 @@ Bailey Wong
 - [Zilde Neto](https://github.com/zsmn)
 - [Sam](https://github.com/amrnumenor)
 - [DargieDChouwy](https://github.com/DargieDChouwy)
+- [Betty](https://github.com/B3tty)
 - [yulivee](https://github.com/yulivee)
 - [Nicolas Stefoni](https://github.com/nstefoni/)
 - [Vadim Pashaev](https://github.com/vmp)
