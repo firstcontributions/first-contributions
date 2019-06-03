@@ -6966,6 +6966,7 @@ Bailey Wong
 - [Aprisyta](https://github.com/Aprisyta)
 - [Aowongster](https://github.com/aowongster)
 - [Wildan Mubarok](https://github.com/willnode)
+- [Jamie McKernan](https://github.com/Jamie-McKernan)
 - [hosjiu](https://github.com/hosjiu1702)
 - [Sean Fox](https://github.com/seanmfox)
 - [ironsketch](https://github.com/ironsketch)
