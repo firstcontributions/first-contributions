@@ -39,6 +39,7 @@
 - [Ankit Gupta] (https://github.com/aki21j)
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
+- [Ryan Levitt] (https://github.com/rlevv)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [Ibnul Kayes] (https://github.com/image7)
 - [Rabidax] (https://github.com/Rabidax)
