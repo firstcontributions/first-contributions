@@ -56,6 +56,7 @@
 - [Aju Tamang](https://github.com/Aju100)
 - [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
+- [Alejandro González](https://github.com/agfonte)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
 - [Derek Caldwell](https://github.com/derarc2)
