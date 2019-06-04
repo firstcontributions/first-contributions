@@ -33,6 +33,7 @@
 - [Hugo Chanampe] (https://github.com/hchanampe)
 - [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Harsh Tiwari](https://github.com/lkit57a03)
+- [Lior Cohen](https://github.com/lulu70)
 - [Omarian] (https://github.com/AncientLaws]
 - [Paul Huang] (https://github.com/lineageispig]
 - [Tom Dale] (https://github.com/tomkdale)
