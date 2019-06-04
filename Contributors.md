@@ -5326,6 +5326,7 @@ CMBloodMeridian
 - [Manasa Devarapalli](https://github.com/dmanasa6)
 - [Benjamin Belden](https://github.com/BBelden)
 - [dotChristo](https://github.com/BusinessChris/)
+- [Michael McClenton](https://github.com/ThraxHamilton)
 - [Piyush Singh](https://github.com/piyush-kgp)
 - [SummerPines](https://githum.com/summerpines)
 - [Oisin Quinn](https://github.com/oisinq)
