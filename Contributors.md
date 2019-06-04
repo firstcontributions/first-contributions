@@ -294,6 +294,7 @@ jkusita
 - [Vishal Bahedia](https://github.com/vishalvb)
 - [Yu Wang](https://github.com/ywang412)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
+- [Val Lipat](https://github.com/vlipatdev)
 - [Chris Drury](https://github.com/crdrury)
 - [Eron Begiqi](https://github.com/eronbegiqi)
 - [Anirban Dey](https://github.com/anirbandey303)
