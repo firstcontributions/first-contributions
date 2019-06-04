@@ -108,6 +108,7 @@ Andrew Scheper
 - [Carlos Garcia](https://github.com/charlygg)
 - [Nitin Sahu] (https://github.com/globefire)
 - [Peter](https://github.com/Some-pulp)
+- [Mapp Brannigan]
 - [Almog](https://github.com/almoghaimo)
 - [Ritwik](https://github.com/Dips2705
 - [NoobyScoob](https://github.com/NoobyScoob)
