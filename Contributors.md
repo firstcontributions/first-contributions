@@ -1362,6 +1362,7 @@ CMBloodMeridian
 - [Ali Sina](https://github.com/alisiina)
 - [Anthony Guillier](https://github.com/theMonarK)
 - [Jamie Walker](https://github.com/KR1Z00)
+- [Denis Mach](https://github.com/dsbmac)
 - [Yıldırım TAM](https://github.com/ytam)
 - [Fatima Muhairi]
 - [Joseph Gibson](https://github.com/jkpgibson)
