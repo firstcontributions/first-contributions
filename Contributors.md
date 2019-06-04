@@ -1,5 +1,5 @@
 # Contributors
-
+- [VIKINGofAUS] (https://github.com/vikingofaus)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [wa4It] (https://github.com/dTCTb)
 - [yli302] (https://github.com/yli302)
