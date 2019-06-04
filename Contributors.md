@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [wa4It] (https://github.com/dTCTb)
@@ -13883,6 +13883,7 @@ Tyler Strang
 - [Yingrjimsch](https://github.com/Yingrjimsch)
 - [Tom](https://github.com/PsiPhiTheta)
 - [Santeri](https://github.com/sQnteri)
+- [normyp](https://github.com/normyp)
 - TripleAsterick
 - david
 - aurioBC
