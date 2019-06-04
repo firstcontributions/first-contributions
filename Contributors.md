@@ -6695,6 +6695,7 @@ Bailey Wong
 - [Balazs Weirich](https://github.com/wbali)
 - [James Allured](https://github.com/jamesallured)
 - [Margaret Tavares](https://github.com/margotavares)
+- [Charlie McGregor] (https://github.com/charliemcg)
 - [Maimuna Syed](https://github.com/jalentheory)
 - [Ziper90](https://github.com/Ziper90)
 - [Dushyant Rathore](https://github.com/dushyantRathore)
