@@ -250,6 +250,7 @@ Daniel Jung
 - [Enis Arik](https://github.com/earik87)
 - [GabrielCortizo]()
 - [Mike Noel](https://github.com/mkno88)
+- [Prasanta Bose](https://github.com/boseprasanta)
 - [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
