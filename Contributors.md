@@ -3914,6 +3914,7 @@ CMBloodMeridian
 - [Gabriel Fonseca](https://github.com/Gabriel-de-Carvalho)
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Tushar Gandhi](https://github.com/tushargandhi)
+- [Kelson Warner](https://github.com/kelsonpw)
 - [Parv Maurya](https://github.com/parvmaurya)
 - [Akshit Goyal](https://github.com/akshit15013)
 - [Nipuna Weerasekara](https://github.com/Niweera)
