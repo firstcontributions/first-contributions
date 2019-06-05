@@ -120,6 +120,7 @@ Andrew Scheper
 - [nmenal](https://github.com/nmenal)
 - [Ariel Cooper] (https://github.com/featherboa50)
 - [Doug McQuinn] (https://github.com/wdmcquinn)
+- [Matthias Ko] (https://github.com/matthiashk)
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [KokSanLim] (https://github.com/koksan2000)
