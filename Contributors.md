@@ -1,4 +1,4 @@
-﻿# Contributors
+Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
@@ -124,6 +124,7 @@ Andrew Scheper
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [KokSanLim] (https://github.com/koksan2000)
 - [Mochamad Rizki](https://github.com/rzkidev)
+- [Francisco Levín] (https://github.com/blackmirr0r)
 - [Andrew Cutler](https://github.com/andrewcutler
 - [Jeffrey Washigton] (https://github.com/thvles)
 - [Beloqui Juan Ignacio] (https://github.com/Excatter)
