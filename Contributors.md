@@ -14066,6 +14066,7 @@ Tyler Strang
 skelter2014
 - [Wahaj Ayub](https://github.com/WahajAyub)
 - [sevevictor]
+- [Jun Wang](https://github.com/friforever)
 - [Swapnanil Pathak] (https://github.com/swapnanilpathak)
 - [Sathish Thiyagarajan] (https://github.com/sathish-t)
 - [Ananthalakshmi Sankar] (https://github.com/anu294)
