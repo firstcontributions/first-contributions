@@ -10693,6 +10693,7 @@ Bailey Wong
 - [Rohan Rao](https://github.com/themathgeek13)
 - [Ben P]()
 - [Sup anon](https://github.com/droppedthewallet)
+- [Kirill Krotov] (https://github.com/krotovkk)
 - [RuhanRK](https://github.com/RuhanRK)
 - [Olibie Chidera](https://github.com/je-ni)
 - [Aaron Tobias](https://github.com/StoneyCoder23)
