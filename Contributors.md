@@ -182,6 +182,7 @@ Daniel Jung
 - [Jessie Simpauco](https://github.com/jesselton23) 
 - [Mathew White](https://github.com/matiusmonkey)
 - [Airthee](https://github.com/Airthee)
+- [Luka Rekhviashvili](https://github.com/LukaRekhviashvili)
 - [Naman Biyani](https://github.com/namanbiyani)
 - [Ben Hunter](https://github.com/benhunter)
 - [Parthiban Thangaraj](https://github.com/parthicseraj)
