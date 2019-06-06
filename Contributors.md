@@ -28,7 +28,7 @@
 - [Mitchell Chan] (https://github.com/michan94)
 - [Alexander Schlesinger] (https://github.com/alexschles)
 - [rjmax13] (https://github.com/rjmax13)
-- [Rye Guren]
+- [Rye Guren] (https://github.com/Klereue)
 - [Noah Nichols] (https://github.com/noahjacknichols)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
 - [Sumit Singh] (https://github.com/sumit4613)
