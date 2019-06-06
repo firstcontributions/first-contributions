@@ -2604,6 +2604,7 @@ CMBloodMeridian
 - [Fleuron Gnadekpa](https://github.com/fleuronvilik)
 - [appygal](https://github.com/appygal)
 - [Marc Brooks](https://github.com/AGeekInside)
+- [RomainLt](https://github.com/RomainLt)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Alex Oladele](https://github.com/dragid10)
 - apleht
