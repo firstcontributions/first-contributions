@@ -5861,6 +5861,7 @@ Bailey Wong
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Józef Bongowski](https://github.com/jb0hn)
 - [Bira](https://github.com/bira91)
+- [Ron Landagan](https://github.com/RonLandagan)
 - [Daniel Montague](https://github.com/danMontague)
 - [Mukund Banka](https://github.com/mukund54)
 - [Michael Kolodziejski](https://github.com/Packetdude)
