@@ -52,6 +52,7 @@
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [Jonathan Estacio] (https://github.com/estacioj91)
 - [Ibnul Kayes] (https://github.com/image7)
+- [Darien Schettler] (https://github.com/darien-schettler)
 - [Rabidax] (https://github.com/Rabidax)
 - [tonybebawy] (https://github.com/tonybebawy)
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
