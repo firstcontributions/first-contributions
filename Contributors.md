@@ -14036,6 +14036,7 @@ Tyler Strang
 - [Arjun Ashok](https://github.com/arjun2000ashok)
 - [Barry Martin] (https://github.com/bvmcode)
 - [Iggy Irianto](https://github.com/iggredible)
+- [Nimrod Segall] (https://github.com/NimrodSegall/first-contributions.git)
 - [Yongjian Xu](https://github.com/yongjianchn)
 - Chenggang Bai
 - [CVVPK](https://github.com/CVVPK)
