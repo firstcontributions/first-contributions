@@ -7941,6 +7941,7 @@ Bailey Wong
 - [Daniel Pinho](https://github.com/Dannih95)
 - [Joshua Munn](https://github.com/jams2)
 - [Alex Bonilla](https://github.com/Abonilla17)
+- Freeystu
 - [Diego Shimizu](https://github.com/dmshimizu)
 - [bokeeee](https://github.com/bokeeee)
 - [Caleb Townsend](https://github.com/calebtownsend)
