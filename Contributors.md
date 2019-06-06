@@ -1007,6 +1007,7 @@ CMBloodMeridian
 - [Amit Patel](https://github.com/AmitP88)
 - [Trong Vo](https://github.com/trnvo)
 - [Qing Liu](https://github.com/useliuqing)
+- [Eamon Banta](https://github.com/eamonbanta)
 - [Jari Kovalainen](https://github.com/JariKovis)
 - [Ahlex Paes](https://github.com/LondonComputadores)
 - [smarch2](https://github.com/smarch2)
