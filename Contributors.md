@@ -263,7 +263,8 @@ Daniel Jung
 - yasmiyazaki
 - ERIB
 - Hosbovery
-jkusita
+- [Zachary Segev] (https://github.com/Drknight23)
+- jkusita
 - [Fabrizio Vigevani](https://github.com/fabriziovigevani)
 - [Mahdi Mouttahid] (https://github.com/Mouttahid)
 - [Steven Failla](https://github.com/Stevo99)
