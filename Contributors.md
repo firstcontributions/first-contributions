@@ -58,6 +58,7 @@
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Gary Liang] (https://github.com/Gary-Liang)
 - [Harsh Maheshwari](https://github.com/harshchinu)
+- [Lauran Ando](https://github.com/Lau7an)
 - [Aju Tamang](https://github.com/Aju100)
 - [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
