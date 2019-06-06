@@ -1020,6 +1020,7 @@ CMBloodMeridian
 - Tomer Eliya
 - Just doing stuffffff
 - [Ben Masters](https://github.com/bendmaster)
+- [Vaibhav Rawat](https://github.com/vsrawat1998)
 - Steve Munson
 - Vishal Vaddadhi
 - [Brett Langford](https://github.com/itsbett)
