@@ -256,6 +256,7 @@ Daniel Jung
 - [Kevin Andres](https://github.com/KevinKAMS)
 - [Martin Hermes](https://github.com/MartinHermes)
 - [Safdar Jamal](https://github.com/clever-programmer)
+- [Shihab Khan](https://github.com/https://github.com/echoshihab)
 - [Enis Arik](https://github.com/earik87)
 - [GabrielCortizo]()
 - [Mike Noel](https://github.com/mkno88)
