@@ -5394,6 +5394,7 @@ Bailey Wong
 - [Martin Neifert](https://github.com/MartinNeifert)
 - [Adarsh Kumar](https://github.com/iamadarshk)
 - [Shaheen N S](https://github.com/Shaheennamboori)
+- [Pablo Cano](https://github.com/pcanogo)
 - [Stephanie Yip](https://github.com/stephaniekyyip)
 - [Johannes Dressie](https://github.com/dressjo)
 - [Ebrahim Kreem](https://github.com/EbrahimKreem)
