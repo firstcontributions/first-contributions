@@ -7156,6 +7156,7 @@ Bailey Wong
 - [Kumari Akanksha](https://github.com/akanksha40)
 - [randomMesh](https://github.com/randomMesh)
 - [Italo G?is](https://github.com/italogois)
+- [John Brady](https://github.com/JBrady)
 - [Gaurav Gupta](https://github.com/tango025)
 - [Michael Clampett](https://github.com/SyntheticAutomation)
 - [Zxweg7](https://github.com/Zxweg7)
