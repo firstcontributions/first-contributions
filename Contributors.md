@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [wagnerparnoff] (https://github.com/wagnerparnoff)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
