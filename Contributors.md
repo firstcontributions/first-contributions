@@ -42,6 +42,7 @@
 - [Harsh Tiwari](https://github.com/lkit57a03)
 - [Lior Cohen](https://github.com/lulu70)
 - [khalid anas](https://github.com/anaskhalid98)
+- [jake porter] (https://github.com/Dimbles)
 - [Omarian] (https://github.com/AncientLaws]
 - [Paul Huang] (https://github.com/lineageispig]
 - [Tom Dale] (https://github.com/tomkdale)
