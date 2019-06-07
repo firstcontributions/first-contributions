@@ -7081,6 +7081,7 @@ Bailey Wong
 - [Hannah(lifesizerobot)](https://github.com/lifesizerobot)
 - [justjavac](https://github.com/justjavac)
 - [Jeffrey Ho](https://github.com/Jeffrey-Ho)
+- [Magnus Landén](https://github.com/Mange95L)
 - [Daniel Chiang](https://github.com/generalyi0057)
 - [Kirankumar Ambati](https://github.com/KirankumarAmbati)
 - [Aaron Jen](https://github.com/bugarma)
