@@ -15,6 +15,7 @@
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
+- [Jabir Hussain](https://github.com/JabirTuri)
 - [Coruna] (https://github.com/Coruna)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
