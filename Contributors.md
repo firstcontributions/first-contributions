@@ -1786,6 +1786,7 @@ CMBloodMeridian
 - [Gavriel Loria](https://github.com/gavrieltal)
 - John Kazantzis
 - Sepideh
+- [sitauros](https://github.com/sitauros)
 - [Andre Silva](https://github.com/anbrsi)
 - Lucas
 - [James Caruana](https://github.com/jcaruana09)
