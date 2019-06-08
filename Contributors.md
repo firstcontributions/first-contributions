@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [rino23] (https://github.com/rino23)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
