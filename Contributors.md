@@ -8183,6 +8183,7 @@ Bailey Wong
 - [Kiki Batterson](https://github.com/ki2batt)
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Iain Logan](https://github.com/iainlogan)
+- [Truc Lam Bui](https://github.com/buj)
 - [Dinislam](https://github.com/cheburan)
 - [Samer Kanakri](https://github.com/samerkanakri)
 - [Adam Romlein](https://github.com/romleiaj)
