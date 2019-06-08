@@ -21,6 +21,7 @@
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
 - [Eunice](https://github.com/euniceyeung1)
+- [Ron Eggler] (https://github.com/reggler)
 - [Swati](https://github.com/swati66)
 - [Raja Yellapu](https://github.com/rajayellapu)
 嗯嗯嗯
