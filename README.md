@@ -111,6 +111,13 @@ git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
+##### Why use a branch?
+
+Branches are extremely important when developing on a team or on an open source project. Master is deployable, meaning that any averse additions or deletions from master will impact the users of the software.
+
+A good practice is to create your own branch, commit changes, merge master in to the development branch, and then, if there are any, resolve any merge conflicts. You don't want merge conflicts occurring when trying to merge the development branch in to master.
+
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
