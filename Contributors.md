@@ -5,6 +5,7 @@
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
+- [sonalik] (https://github.com/Sonali-Keshava-Murthy-Naik)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
 - [yli302] (https://github.com/yli302)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
