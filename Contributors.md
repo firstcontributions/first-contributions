@@ -92,6 +92,7 @@
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
 - [Dalibor Kozar](https://github.com/Daliborkozar)
+- [Aditya Makharia](https://github.com/makhariaadi)
 - [Nirmalya Ghosh](https://github.com/neil28)
 - [Sam Wilde] (hhtps://github.com/samwilde16)
 - [Raj Kumar] (https://github.com/Rajetharan)
