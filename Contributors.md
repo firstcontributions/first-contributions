@@ -60,6 +60,7 @@
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
 - [Ryan Levitt] (https://github.com/rlevv)
+- [Ryan Fox] (https://github.com/ryanfox-software)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
 - [Jonathan Estacio] (https://github.com/estacioj91)
 - [Ibnul Kayes] (https://github.com/image7)
