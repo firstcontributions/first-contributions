@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [rino23] (https://github.com/rino23)
@@ -14148,3 +14148,4 @@ skelter2014
 -[Jim Schlader] (https://github.com/jamesschlader)
 -[AbdulMuqeeth Mohammed] (https://github.com/abdulmuqeeth)
 - [Virag Umathe] (https://github.com/viragumathe5)
+-[Kyle Morris] (https://github.com/assimil0)
