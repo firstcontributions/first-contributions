@@ -12192,6 +12192,7 @@ Bailey Wong
 - [Suryansha](https://github.com/suryansha)
 - [Sergey Grigorenko](https://github.com/miraigajettolab)
 - [Christophe Prmentier](https://github.com/ParmentierChristophe)
+- [Fernando Pinho] (https://github.com/FernandoHPPinho)
 - [Minanshu Singh](https://github.com/kryptokinght)
 - [Manglesh Saurabh](https://github.com/Manglesh123)
 - [Caster Canoness](https://github.com/ccanoness)
