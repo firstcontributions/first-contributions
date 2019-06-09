@@ -5357,6 +5357,7 @@ CMBloodMeridian
 - [Nikolov G](https://github.com/segastep)
 - [Oskar Kuklinski](https://github.com/oskarkuklinski)
 - [Jasper Martin](https://github.com/jaspervanbrian)
+- [Jakkavaul] (https://github.com/jakkavaul/first-contributions.git)
 - [vishal](https://github.com/cyberne7work)
 - [Manasa Devarapalli](https://github.com/dmanasa6)
 - [Benjamin Belden](https://github.com/BBelden)
