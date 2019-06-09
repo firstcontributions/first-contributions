@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [rino23] (https://github.com/rino23)
@@ -915,6 +915,7 @@ CMBloodMeridian
 - [ABGEO07](https://github.com/ABGEO07)
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Elliott Byers](https://github.com/elliottbyers)
+- [Tejinderpal Singh](https://github.com/patialashahi31)
 - [Daffy Chu](https://github.com/daffychuy)
 - [Amit Jha](https://github.com/devbihari)
 - [Zachary Anderson](https://github.com/ZacharyAnderson)
