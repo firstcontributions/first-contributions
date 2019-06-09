@@ -7,6 +7,7 @@
 - [wa4It] (https://github.com/dTCTb)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
 - [yli302] (https://github.com/yli302)
+- [Jedidiah Lolo] (https://github.com/jedidiahlolo)
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Elijah Brian] (https://github.com/thexerothermic)
