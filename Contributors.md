@@ -111,6 +111,7 @@ Andrew Scheper
 - [Christian McDonald] (https://github.com/religionfastfood)
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
+- [Bill Goggin] (https://github.com/bgoggin)
 - [Chris Kalahiki] (https://github.com/ChrisKalahiki)
 - [Vee McClure] (https://github.com/rednikon)
 - [John Joseph] (https://github.com/contactjw) 
