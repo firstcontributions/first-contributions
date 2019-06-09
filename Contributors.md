@@ -285,6 +285,7 @@ Daniel Jung
 - [Steven Failla](https://github.com/Stevo99)
 - [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Peter Hudak] (https://github.com/ptrhdk)
+- [Paul Travis] (https://github.com/ptravis92)
 - [Brian Kardon](https://github.com/briankardon)
 - [Johannes H.] (https://github.com/M0J0isback)
 - [Joey-Michael Fallone](https://github.com/scarletspider616)
