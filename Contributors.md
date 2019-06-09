@@ -2,6 +2,7 @@
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [rino23] (https://github.com/rino23)
+- [Talha Malik] (https://github.com/talham7391)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
