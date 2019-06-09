@@ -16,6 +16,7 @@
 - [trialzuki] (https://github.com/trialzuki)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
+- [jomic] (https://github.com/jomic)
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
