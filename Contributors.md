@@ -147,6 +147,7 @@ Andrew Scheper
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
 - [KokSanLim] (https://github.com/koksan2000)
 - [Mochamad Rizki](https://github.com/rzkidev)
+- [Fletcher Graham](https://github.com/fletchgraham)
 - [Andrew Cutler](https://github.com/andrewcutler
 - [Jeffrey Washigton] (https://github.com/thvles)
 - [Beloqui Juan Ignacio] (https://github.com/Excatter)
