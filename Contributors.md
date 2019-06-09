@@ -6998,6 +6998,7 @@ Bailey Wong
 - [Justin Abbott](https://github.com/justinabbott)
 - [Akkshay Lawrence](https://github.com/akkshaylawrence)
 - [cek-cek](https://github.com/cek-cek)
+  [chris_randle](https://github.com/narnys)
 - [Renan Vichetti](https://github.com/rvconessa)
 - [GaganDeep Singh](https://github.com/SGagan)
 - [MikeWLloyd](https://github.com/MikeWLloyd)
