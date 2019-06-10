@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [rino23] (https://github.com/rino23)
@@ -13921,6 +13921,7 @@ Tyler Strang
 - [Michael Zhao](https://github.com/michael-zhao)
 - [Shiv]
 - [Anuja]
+- [Bjarne Betjent]
 - [Saim Farid](https://github.com/saimfd)
 - [Washington Añasco](https://github.com/Washio1995)
 - [Raul Ropero](https://github.com/codigoespagueti)
