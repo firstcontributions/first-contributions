@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [rino23] (https://github.com/rino23)
@@ -14138,6 +14138,7 @@ skelter2014
 - [HarishST] (https://github.com/HarishSTOnline)
 - Alva
 - [Kenneth Matuszewski] (https://github.com/kmatusze13)
+- [Lana] (https://github.com/lanaabirached)
 - [CarlosOGM](https://github.com/CarlosOGM)
 - [Keiran Glynn](https://github.com/KeiranGlynn)
 - [Danilo Zabala II](https://github.com/dczii)
