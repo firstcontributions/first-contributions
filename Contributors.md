@@ -2342,6 +2342,7 @@ CMBloodMeridian
 - Aileen J
 - [Prajjwal](https://github.com/darksidergod/first-contributions)
 - [Elijah David](http://github.com/elijahdgit)
+- [Dung (Kevin) Nguyen](https://github.com/tdn90)
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Lakshya Arora](https://github.com/nulll-pointer)
 - [Nishit Majithia](https://github.com/nishitm)
