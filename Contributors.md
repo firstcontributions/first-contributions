@@ -7627,6 +7627,7 @@ Bailey Wong
 - [Luca D'Onofrio](https://github.com/Aranyae)
 - [Jeremy Kepf](https://github.com/Khepf)
 - wsong
+- [harrison ndegwa](https://github.com/HarryNdegwa)
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [Hassen Morad](https://github.com/hassenmorad)
 - [Diamond KIng](https://github.com/diamondking6)
