@@ -14120,6 +14120,7 @@ Tyler Strang
 - [diksub] (https://github.com/dikisubagja)
 - [maizedaniele](https://github.com/maizedaniele)
 - [VirtualVasquez](https://github.com/VirtualVasquez)
+- Tony Badolato
 - [DJ Johnson](https://github.com/DonaldJamesJohnson)
 - [Zach Rudy](https://github.com/zcr7948)
 - [Faial](https://github.com/fabfas)
