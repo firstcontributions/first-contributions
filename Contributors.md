@@ -23,6 +23,7 @@
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Jabir Hussain](https://github.com/JabirTuri)
+- [Nida Munir](https://github.com/nidamunir)
 - [Coruna] (https://github.com/Coruna)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
