@@ -424,6 +424,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Guy Shaibi
 - Josh Norman (https://github.com/jmnorma)
 - [Sean K Smith](https://github.com/sksmith)
+[Walter Manter] (https://github.com/Walt-m)
 - Arka Pattanayak
 - Emmanuel Nery
 - Pranoto Budi (https://github.com/pranotobudi/)
