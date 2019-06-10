@@ -12712,6 +12712,7 @@ Bailey Wong
 - [Angie](https://github.com/AngieAngelica)
 - [Xander Grzywinski](https://github.com/salaxander)
 - [Karishma](https://github.com/karishmaCoder)
+- [Yan Datsiuk](https://github.com/YanDatsiuk)
 - [javathunderman](https://github.com/javathunderman)
 - [Emmanuel-Melon](https://github.com/Emmanuel-Melon)
 - [Alec Bailey](https://github.com/Alec-Bailey)
