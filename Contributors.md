@@ -14144,6 +14144,7 @@ skelter2014
 - [Mohammed Almissbah](https://github.com/Almissbah)
 - [Sumit Ojha](https://github.com/sumitojha)
 - [Alexander Pavlov](https://github.com/apav1ov)
+- [Luris Hamlet](https://github.com/hpline)
 - [Michael O'Keefe](https://github.com/okeefem3)
 - [John Restrepo] (https://github.com/johnrest)
 - [Vasu Jain](https://github.com/jainvasu631)
