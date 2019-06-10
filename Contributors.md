@@ -179,7 +179,7 @@ Andrew Scheper
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
-- [Yudi](https://github.com/yudi7ll)
+- [Yudi](https:/i/github.com/yudi7ll)
 Daniel Jung
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Jtian](https://github.com/JhonsonTian)
@@ -270,6 +270,7 @@ Daniel Jung
 - [André Barranco](https://github.com/bandrefilipe)
 - [Jeseph Roseles](https://github.com/bitinzealot)
 - [Evan MacBride](https://github.com/evanmacbride)
+- [Doug Woolley] (https://github.com/dbonzai)
 - [HeroicHitesh] (https://github.com/HeroicHitesh)
 - [Uzair Hussain] (https://github.com/k163791)
 - [Bradley Cavendish](https://github.com/bradcav)
