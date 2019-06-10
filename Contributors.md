@@ -1,6 +1,7 @@
 # Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [Archie Lewis] (https://github.com/acl76)
 - [rino23] (https://github.com/rino23)
 - [Talha Malik] (https://github.com/talham7391)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
