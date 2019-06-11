@@ -14189,3 +14189,4 @@ skelter2014
 -[Ezechio] (https://github.com/ezechio)
 -[Lily Chen] (https://github.com/liliburg711)
 -[Sam McRuvie] (https://github.com/SamMcRuvie)
+- [Danny Vim](https://github.com/DannyVim)
