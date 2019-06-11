@@ -52,6 +52,7 @@
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
 - [Hugo Chanampe] (https://github.com/hchanampe)
+- [Brandon Zhou] (https://github.com/BrandonZhouComp)
 - [Genesis Phillips] (https://github.com/genesiscphillips)
 - [Harsh Tiwari](https://github.com/lkit57a03)
 - [Lior Cohen](https://github.com/lulu70)
