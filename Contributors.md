@@ -593,6 +593,7 @@ CMBloodMeridian
   grzesebe
   Srinivas Pudu
 - Weita XD
+- [Jim C] (https://github.com/Zejing)
 - Usame Kaldırım
 - Yuvraj Raghuvanshi
 - Ian Cameron
