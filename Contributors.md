@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
@@ -17,6 +17,7 @@
 - [Elijah Brian] (https://github.com/thexerothermic)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
+- [Jayanth Mogadampalli] (https://github.com/JayanthMogadampalli/)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
 - [jomic] (https://github.com/jomic)
