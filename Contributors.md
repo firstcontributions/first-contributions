@@ -77,6 +77,7 @@
 - [tonybebawy] (https://github.com/tonybebawy)
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
 - [Randhir Kumar] (https://github.com/randhirkr)
+- [Friendly Username] (https://github.com/FriendlyUsername)
 - [C0deM@sK] (https://github.com/DeeMATT)
 - [CarameloKevin] (https://github.com/carameloKevin)
 - [Quifisto] (https://github.com/Quifisto)
