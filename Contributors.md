@@ -144,6 +144,7 @@ Andrew Scheper
 - [Pawel Jastrzebski] (https://github.com/pawjastrzebski)
 - [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
+- [stonooaks](https://github.com/stonooaks)
 - [Ariel Cooper] (https://github.com/featherboa50)
 - [Doug McQuinn] (https://github.com/wdmcquinn)
 - [Matthias Ko] (https://github.com/matthiashk)
