@@ -14124,6 +14124,7 @@ Tyler Strang
 - [c0dr7] (https://github.com/c0dr7)
 - [Arham Abiyan](https://github.com/arham09)
 - [James Ortiz] (https://github.com/James1515)
+- [Jake Zhang] (https://github.com/zjk97)
 - [Fabio Trinidad](https://github.com/Ftrinidad2)
 - [Johngogo]()
 - [Ikaika Alo] (https://github.com/ikaikadev)
