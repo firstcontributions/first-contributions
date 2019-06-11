@@ -24,6 +24,7 @@
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
+- [Akshata Kulkarni] (https://github.com/akshatak12)
 - [Jabir Hussain](https://github.com/JabirTuri)
 - [Nida Munir](https://github.com/nidamunir)
 - [Coruna] (https://github.com/Coruna)
