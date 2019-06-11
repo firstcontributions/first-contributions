@@ -3,6 +3,7 @@
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Archie Lewis] (https://github.com/acl76)
+- [mudu93](https://github.com/mudu93)
 - [rino23] (https://github.com/rino23)
 - [Talha Malik] (https://github.com/talham7391)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
