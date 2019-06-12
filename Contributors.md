@@ -182,7 +182,8 @@ Andrew Scheper
 - [Leonardo Daher](https://github.com/leodaher)
 - [Russell Rogers](https://github.com/russellrogers)
 - [Sudhanshu Chauhan](https://github.com/sudhanshu-chauhan)
-- [Sue](https://github.com/qaws01395)
+- [Sue](https://github.com/qaws01395)3
+- [Irfan Hanafi] (https://github.com/matrix374)
 - [Jake](https://github.com/jake-morgan-2)
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
 - [Rajeev Joshi](https://github.com/rj-1234)
