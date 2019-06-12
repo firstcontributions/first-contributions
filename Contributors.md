@@ -66,6 +66,7 @@
 - [Omarian] (https://github.com/AncientLaws]
 - [Paul Huang] (https://github.com/lineageispig]
 - [Holly Huber] (https://github.com/HollyJHuber)
+- Juver
 - [Tom Dale] (https://github.com/tomkdale)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)  
 - [Shumai Ocbayes A] (https://github.com/shumai9)
