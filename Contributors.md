@@ -374,6 +374,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Hayden Mumm (https://github.com/hmumm)
 - Eric Nunez
 - cubitoverde
+- Nova6
 - Sean Yi (https://github.com/sean-jy-yi)
 - Foysal Remon (https://github.com/foysalremon)
 - Tristan Perez (https://github.com/TriscuitP)
