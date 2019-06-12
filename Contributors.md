@@ -13,6 +13,7 @@
 - [wa4It] (https://github.com/dTCTb)
 - [sonalik] (https://github.com/Sonali-Keshava-Murthy-Naik)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
+- [Randy McBride] (https://github.com/randymcbride)
 - [yli302] (https://github.com/yli302)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
 - [wizard-kv](https://github.com/wizard-kv/)
