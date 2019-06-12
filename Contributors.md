@@ -1430,6 +1430,7 @@ CMBloodMeridian
 - Divay Sharma
 - [Chris Howard](https://github.com/choward232)
 - [Mouatassim Boulahsen](https://github.com/mouatassimbn)
+- [Panos Post](https://github.com/panospost)
 - [Steven Berkowitz](https://github.com/Nightsquid7)
 - [Krishna Padayachee](https//github.com/krispad)
 - [Srishti Bajpai](https://github.com/srishtiBajpai)
