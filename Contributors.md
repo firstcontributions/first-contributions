@@ -10,6 +10,7 @@
 - [timelessPy] (https://github.com/timelessPy)
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
+- [Austin Marler] (https://github.com/AustinMarler)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
