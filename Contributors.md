@@ -14006,6 +14006,7 @@ Tyler Strang
 - [Parkash Pant](https://github.com/parkashpant)
 - [Sci-Phy](https://github.com/Sci-Phy)
 - [Ryan Redburn](https://github.com/RyanRedburn)
+  Jessie Arce
 - [Ryan Oliveira](https://github.com/Ryoliveira)
 - [Przemek Orechwa](https://https://github.com/PrzeOr82)
 - [Oliver Fenn](https://github.com/OliverFenn)
