@@ -523,6 +523,7 @@ CMBloodMeridian
 - [Jino Antony](https://github.com/jinoantony)
 - [Joshua Greyling](https://github.com/JoshMakesCode)
 - [massouji82](https://github.com/massouji82)
+- [Patrick Salvatore] (https://github.com/patrick-salvatore)
 - [Ross] (https://github.com/rosswf)
 - [Mike Ferrete](https://github.com/mcfrr3)
 - [NoCodeBlocker](https://github.com/nocode-blocker)
