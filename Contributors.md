@@ -16,6 +16,7 @@
 - [Randy McBride] (https://github.com/randymcbride)
 - [yli302] (https://github.com/yli302)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
+- [Greg Chang] (https://github.com/gregchang)
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Elijah Brian] (https://github.com/thexerothermic)
