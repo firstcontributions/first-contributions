@@ -15,7 +15,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 #### *Read this in [other languages](translations/Translations.md).*
 
 [🇮🇳](translations/Translations.md)
-[🇲🇲](translations/README.mm_unicode.md)
+[<img src="assets/myanmar.png" width="22">](translations/README.my.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
@@ -50,7 +50,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇩 🇷🇴](translations/README.ro.md)
 [🇹🇷](translations/README.tr.md)
 [🇸🇪](translations/README.se.md)
-[🇲🇾](translations/README.my.md)
+[🇲🇸](translations/README.ms.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)

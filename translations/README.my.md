@@ -1,130 +1,120 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Sumbangan Pertama
+# ပထမအကြိမ် ကူညီထောက်ပံခြင်း
 
-Ia sukar. Ia sentiasa sukar buat kali pertama kamu melakukan sesuatu. Terutama apabila kamu berkolaborasi, membuat kesilapan bukan perkara yang selesa. Kami mahu menyederhanakan cara penyumbang sumber terbuka baru belajar & menyumbang buat kali pertama.
+ဘယ်အရာမဆို ပထမဦးဆုံးလုပ်ဆောင်အခါ အခက်အခဲတွေ့ကြံုရပါတယ်။ အထူးသဖြင့် လူအများနဲ့ ပေါင်းသင်လုပ်ကိုင်ကြတဲ့ အခါ မထင်မှတ်ထားတဲ့ အမှားများတေွ့ရတက်ပြီး အဆင်မပြေတေွတာတွေဖြစ်တက်ပါတယ်။ Open source software များကတော့ လူအများနဲ့ ပေါင်းသင်ဆက်ဆံလုပ်ကိုင် ကြရတာပါ။ ဒါကြောင့်မို့ ပထမဦးဆုံးအကြိမ် open-source project များကို ပါဝင် ကူညီထောက်ပံသူများကို ပထမဆုံးအကြိမ် ကူညီထောက်ပံနိုင်ဖို့နဲ့ လွယ်ကူ ရိုးရှင်းတဲ့ လေ့လာနည်းဖြစ်ဖို့ ရည်ရွယ်ပါတယ်။
 
-Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik daripada melakukan perkara dalam persekitaran yang pratikal? Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika kamu ingin membuat sumbangan pertama kamu, ikuti langkah-langkah di bawah.
+လေ့ကျင်ခန်း စာစောင်တေွနဲ့ ဗီဒီယိုတေွက အကူအညီရနိုင်သော်လဲ တကယ်လက်တွေ့လုပ်ဆောင်တာထက် ပိုကောင်းတာမရှိပါဘူး။ ဒီ project က ပထမဆုံးအကြိမ် ကူညီထောက်ပံမဲ့ သူတေွအတွက် လွယ်ကူ ရှိးရှင်းပြီး အကူအညီးအထောက်ပံ့ဖြစ်စေဖို့ ရည်ရွယ်ပါတယ်။ Remember: the more relaxed you are, the better you learn. အာမခံတယ် သင့်သာ အောက်မှာရှိတဲံ အဆင့်တိုင်းလုပ်သွားလျှင် သင့်ရဲ့ ပထမဆုံး ကူညီထောက်ပံခြင်းမှာ အဆင်ပြေစွာ ပြီးမြောက်သွားမှာပါ၊
 
-#### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.]( #tutorials-using-other-tools )*
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+*Read this in other languages: [English](../README.md), [Indonesian](README.id.md), [French](README.fr.md), [Spanish](README.es.md), [Dutch](README.nl.md), [Hindi](README.hi.md), [Russian](README.ru.md), [Japanese](README.ja.md), [Vietnamese](README.vn.md), [Polish](README.pl.md), [Korean](README.ko.md), [German](README.de.md), [Simplified Chinese](README.chs.md), [Traditional Chinese](README.cht.md), [Greek](README.gr.md), [العربية](README.ar.md), [Ukrainian](README.ua.md), [Português/Brasil](README.pt_br.md), [Italian](README.it.md), [ภาษาไทย](README.th.md) and [Galician](README.gl.md).*
 
-Jika anda tidak mempunyai git dalam mesin kamu, [pasang](https://help.github.com/articles/set-up-git/).
+သင့်ရဲံစက်ထဲမှာ git မသွင်းရသေးရင်, [ ဒီမှာသွင်းနည်းကြည့် ]( https://help.github.com/articles/set-up-git/ ).
 
-## Fork repositori ini
+## ဒီ repository ကို fork လုပ်ပါ
 
-Fork repo ini dengan mengklik butang fork di atas halaman ini.
-Ini akan membuat salinan repositori ini dalam akaun kamu.
+Frok လုပ်ဖို့အတွက် စာမျက်နှာအပေါ်နားမှရှိတဲ့ fork ခလုပ်ကိုနိပ်ပါ။
+ဒီ repository က သင့် အကောင့်ကို ပုံစံတူပွားအနေနဲ့ ရောက်လာပါမယ်။
 
-## Klon repositori
+## ဒီ repository ကို clone လုပ်ပါ
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repo yang bercabang ke mesin kamu. Pergi ke akaun GitHub anda, buka repo yang bercabang, klik pada butang klon dan kemudian klik ikon * copy to clipboard *.
+*copy to clipboard* icon ကိုနိုပ်ပီး သင့်စက်အတွင်းသို့ ဒီ repository ကို clone လုပ်ယူပါ။
 
-Buka terminal dan jalankan arahan git berikut:
+Terminal ကို ဖွင့်ပြီး အောက်ရှိ git command ကို run ပါ:
 
 ```
-git clone "url anda baru disalin"
+git clone "သင့်ကူးထားတဲ့ url ကိုထည့်ပါ"
 ```
-dimana "url anda baru disalin" (tanpa tanda petikan) adalah url ke repositori ini (fork projek anda). Lihat langkah-langkah sebelumnya untuk mendapatkan url.
+"သင့်ကူးထားတဲ့ url ကိုထည့်ပါ" (သင့်ကူထားတာ quote အမှတ်အသားမှာမပါ) နေရာမှာ ထည့်ရမှာက သင့် clone လုပ်မဲ့ repository ရဲ့ url ဖြစ်ပါတယ်။ ဒီအဆင့်ကို အဆင်မပြေဖြစ်ခဲ့ရင် အနောက်တစ်ဆင့်ကို ပြန်ကြည့်ပါ။ *copy to clipboard* icon ကို နိုပ်ပီး url ကို copy ကူးထားတာကိုတေွ့ရမှာပါ။
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Contoh:
+ဥပမာကို အောက်မှာကြည့်ပါ:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-dimana `this-is-you` adalah nama pengguna GitHub kamu. Di sini kamu menyalin kandungan repositori sumbangan pertama dalam GitHub ke komputer kamu.
+`this-is-you` နေရာမှာက သင့်ရဲ့ GitHub အမည်ဖြစ်ရမှာပါ။ ဒါက သင့်ရဲ့ Github မှာရှိနေတဲ့ repositoryကို သင့်စက်ထဲ့ကို copy လုပ်ခြင်းပဲဖြစ်ပါတယ်။
 
-## Membuat cawangan
+## Branch အသစ်လုပ်ခြင်း
 
-Tukar ke direktori repositori pada komputer kamu (jika kamu belum berada disana):
+သင့် copy လုပ်ထားတဲ့ repository directory ကို မရောက်သေးရင် ရောက်အောင်သွားပါ။
 
 ```
 cd first-contributions
 ```
-Sekarang cipta cawangan menggunakan arahan `git checkout`:
+Branch အသစ်ကို `git checkout` command ကို run ပြီးလုပ်ပါ:
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <add-your-name>
 ```
 
-Contoh:
+ဥပမာ:
 ```
 git checkout -b add-alonzo-church
 ```
-(Nama cawangan tidak perlu mempunyai perkataan * add * di dalamnya, tetapi ia adalah perkara yang munasabah untuk disertakan kerana tujuan cawangan ini adalah untuk menambah nama anda ke senarai.)
+(Branch နာမည်ဘာဖြစ်ဖြစ်ရပါတယ် သို့သော်လဲ ဒီ project ကသင့် နာမည်ကိုထပ်ထည့်မှာဖြစ်လို့ *add* သင့်နာမည်ကို အားလုံးနဲ့ အဆင်ပြေအောင်ထည့်ပေးပါ။)
 
-## Buat perubahan yang diperlukan dan komit perubahan tersebut
+## ပြောင်းလဲမှုများလုပ်ပြီး အဲ့ပြောင်းလဲ့မှုများကို commit လုပ်ခြင်း
 
-Sekarang buka fail `Contributors.md` dalam editor teks, tambahkan nama anda kepadanya. Jangan tambahkannya pada awal atau akhir fail. Letakkan di mana sahaja di antara. Sekarang, simpan fail itu.
-
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
-
-
-Jika anda pergi ke direktori projek dan laksanakan arahan `git status`, kamu akan melihat perubahanya.
-
-Tambah perubahan tersebut ke cawangan yang baru kamu cipta menggunakan arahan `git add`:
+သင့် text editor မှာ `Contributors.md` ကိုဖွင့်ပါ။ သင့်ရဲ့ နာမည်ကို အဆင်ပြေတဲ့ နေရာမှာထည့်ပြီး save ပါ။ ပြီရင် ဒီ folder ရှိတဲ့နေရာကိုသွားပြီး `git status` command ကို run ပါ။ သင့်ဘာတေွပြောင်းထားလဲဆိုတာ မြင်ရပါလိမ့်မယ်။ ဒီပြောင်းလဲမှုတေွကို သင့်ရဲ့ branch ကိုထည့်ဖို့အတွက် `git add` command ကို run ပါ:
 
 ```
 git add Contributors.md
 ```
 
-Sekarang komit perubahan tersebut menggunakan perintah `git commit`:
+အခု commit လုပ်ဖို့ `git commit` command ကို run ပေးပါ :
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-menggantikan `<your-name>` dengan nama kamu.
+`<your-name>` သင့်နာမည်ကို အစားထိုးပါ။
 
-## Push changes to GitHub
+## သင့်ရဲ့ ပြောင်းလဲ ပြုပြင်မှုကိုများကို Github သို့တင်ပါ
 
-Tolak perubahan anda menggunakan arahan `push push`:
+ပြောင်းလဲမှုများကို Github သို့တင်ဖို့အတွက် `git push` ကို run ပါ:
 ```
-git push origin <add-your-branch-name>
+git push origin <add-your-name>
 ```
-menggantikan `<add-your-branch-name>` dengan nama cawangan yang kamu cipta sebelumnya.
+`<add-your-name>` နေရာမှာ သင့်အသစ်လုပ်ထားတဲ့ branch နာမည်ကိုထည့်ပါ။
 
-## Hantar perubahan anda untuk semakan
+## သင့်ပြောင်းထားတာ တွေကို review လုပ်ဖို့ ပို့ပါ
 
-Jika anda pergi ke repositori anda di GitHub, anda akan melihat butang `Compare & pull request`. Klik pada butang itu.
+သင့် GitHub က သင့် repository ကိုမှာဆို `Compare & pull request` ဆုိတဲ့ ခလုပ်မြင်နေရမှာပါ။ အဲ့ခလုပ်ကို နိုပ်လိုက်ပါ။
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Sekarang hantar 'pull request' itu.
+အခုဆို pull request လုပ်ဖို့အဆင်သင့်ဖြစ်သွားပါပြီး။
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Tidak lama lagi saya akan menggabungkan semua perubahan anda ke cawangan 'master' projek ini. Anda akan mendapat e-mel pemberitahuan sebaik sahaja perubahan telah digabungkan.
+သင့်ရဲ့ပြောင်းလဲမှုတေွကို ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပေးမှာဖြစ်ပါတယ်။ ဒါကြောင့် သင့်မှာ notification email ရောက်လာပါလိမ့်မယ်  ဒီ project ရဲ့ master branch မှာ ထည့်သွင်းပြီးရင်ပေါ့။
 
-## Ke mana pergi dari sini?
+### [ Additional material ](../additional-material/git_workflow_scenarios/additional-material.md)
 
-Tahniah! Anda baru saja selesai melaksanakan standard _fork -> clone -> edit -> PR_ aliran kerja yang sering kamu akan terserempak sebagai seorang penyumbang!
-
-Raikan sumbangan kamu dan kongsi dengan rakan dan pengikut kamu dengan pergi ke [aplikasi web](https://roshanjossey.github.io/first-contributions/#social-share).
-
-Anda boleh menyertai pasukan 'Slack' kami sekiranya anda memerlukan bantuan atau mempunyai sebarang soalan. [Sertai pasukan Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
-
-Sekarang mari kita mulakan dengan menyumbang kepada projek lain. Kami telah menyusun senarai projek dengan isu mudah yang boleh anda mulakan. Semak [senarai projek dalam aplikasi web](https://roshanjossey.github.io/first-contributions/#project-list).
-
-### [Bahan tambahan](additional-material/git_workflow_scenarios/additional-material.md)
+## သင်ခန်းစာ ကို အခြား Tools များအသုံးပြီး
 
 
-## Tutorial Menggunakan Alat Lain
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+## ဒီကနေ ဘယ်လိုရေှ့ဆက်မလဲ
 
-## Promosi sendiri
+သင့်မှာ အကူလိုလို့ ဒါမှဟုတ်မေးစရာရှိလို ဘာပဲဖြစ်ဖြစ် slack မှာ လာပြီး လုပ်ဆောင်မေးမြန်လုိ့ရပါတယ်။ [Slack team သို့ ဒီမှာချိတ်ဆက်ပါ](https://firstcontributions.herokuapp.com)
 
-Sekiranya kamu suka projek ini, sila beri bintang [GitHub](https://github.com/Roshanjossey/first-contributions).
-Jika kamu berasa, terutamanya beramal, sila ikuti [Roshan](https://roshanjossey.github.io/) di
-[Twitter](https://twitter.com/sudo__bangbang) dan
-[GitHub](https://github.com/roshanjossey).
+ဒီနေရာကနေ နာမယ့်ကြီးတဲ့ project တေွရဲ့ အခြေခံ issue များကိုသင့်ဖြေရှင်ပေးလို့ရပါပြီး။ ဒါကြောင့် သင် အောက်က repository တေွကိုသွားပြီး လေ့လာပါ။
 
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+|[![exercism](https://avatars2.githubusercontent.com/u/5624255?v=3&s=100)](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[![fun-retro](https://avatars3.githubusercontent.com/u/15913975?v=3&s=100)](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[<img width="100" src="https://cdn.worldvectorlogo.com/logos/react.svg">](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[![habitat](https://avatars1.githubusercontent.com/u/18171698?v=3&s=100)](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![scikit-learn](https://avatars0.githubusercontent.com/u/365630?v=3&s=100)](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[<img width="100" src="https://camo.githubusercontent.com/0f302c808c8457f6460913e33aed3478124612c2/687474703a2f2f6c65696e696e67656e2e6f72672f696d672f6c65696e696e67656e2e6a7067">](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[<img width="100" src="https://images.plot.ly/plotly-documentation/thumbnail/numpy-logo.jpg">](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[![elasticsearch](https://avatars2.githubusercontent.com/u/6764390?v=3&s=100)](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
+|---|---|---|---|---|---|---|---|
+|[exercism](https://github.com/exercism/exercism.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+patch%22)|[Fun Retros](https://github.com/funretro/distributed/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly)|[react](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+bug%22)|[habitat](https://github.com/habitat-sh/habitat/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[scikit-learn](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[Leiningen](https://github.com/technomancy/leiningen/issues?q=is%3Aopen+is%3Aissue+label%3ANewbie)|[numpy](https://github.com/numpy/numpy/issues?q=is%3Aopen+is%3Aissue+label%3A%22Easy+Fix%22)|[elasticsearch](https://github.com/elastic/elasticsearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22low+hanging+fruit%22)|
+|[![homebrew](https://avatars2.githubusercontent.com/u/1503512?v=3&s=100)](https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)|[![rust](https://avatars1.githubusercontent.com/u/5430905?v=3&s=100)](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)|[![vuejs](https://avatars1.githubusercontent.com/u/6128107?v=3&s=100)](https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22)|[![Suave](https://avatars2.githubusercontent.com/u/5822862?v=3&s=100)](https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy)|[![OpenRA](https://avatars3.githubusercontent.com/u/409046?v=3&s=100)](https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[![PowerShell](https://avatars0.githubusercontent.com/u/11524380?v=3&s=100)](https://github.com/powershell/powershell/issues?q=is%3Aopen+is%3Aissue+label%3AUp-for-Grabs)|[![coala](https://avatars2.githubusercontent.com/u/10620750?v=3&s=100)](https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer)|[![moment](https://avatars2.githubusercontent.com/u/4129662?v=3&s=100)](https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs)|
+|[homebrew](https://github.com/Homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)|[Rust](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)|[vuejs](https://github.com/vuejs/vue/issues?q=is%3Aopen+is%3Aissue+label%3A%22contribution+welcome%22)|[Suave](https://github.com/SuaveIO/suave/issues?q=is%3Aopen+is%3Aissue+label%3Ahardness-easy)|[OpenRA](https://github.com/OpenRA/OpenRA/issues?q=is%3Aopen+is%3Aissue+label%3AEasy)|[PowerShell](https://github.com/powershell/powershell/issues?q=is%3Aopen+is%3Aissue+label%3AUp-for-Grabs)|[coala](https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer)|[moment](https://github.com/moment/moment/issues?q=is%3Aopen+is%3Aissue+label%3AUp-For-Grabs)|
+|[![ava](https://avatars0.githubusercontent.com/u/8527916?v=3&s=100)](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[![freeCodeCamp](https://avatars0.githubusercontent.com/u/9892522?v=3&s=100)](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![webpack](https://avatars3.githubusercontent.com/u/2105791?v=3&s=100)](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[![hoodie](https://avatars1.githubusercontent.com/u/1888826?v=3&s=100)](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[![pouchdb](https://avatars3.githubusercontent.com/u/3406112?v=3&s=100)](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[![neovim](https://avatars0.githubusercontent.com/u/6471485?v=3&s=100)](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[![babel](https://avatars2.githubusercontent.com/u/9637642?v=3&s=100)](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[<img width="100" src="https://github.com/adobe/brackets/blob/gh-pages/images/brackets_128.png?raw=true">](https://github.com/adobe/brackets/labels/Starter%20bug)|
+|[ava](https://github.com/avajs/ava/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+for+beginner%22)|[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[webpack](https://github.com/webpack/webpack/issues?q=is%3Aopen+is%3Aissue+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)|[hoodie](https://github.com/hoodiehq/hoodie/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)|[pouchdb](https://github.com/pouchdb/pouchdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+only%22)|[neovim](https://github.com/neovim/neovim/issues?q=is%3Aopen+is%3Aissue+label%3Aentry-level)|[babel](https://github.com/babel/babel/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner-friendly) |[brackets](https://github.com/adobe/brackets/labels/Starter%20bug)|
+| [![Node.js](https://avatars1.githubusercontent.com/u/9950313?v=3&s=100)](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|[<img width="100" src="https://github.com/Semantic-Org/Semantic-UI-React/blob/master/docs/public/logo.png">](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22)|
+| [Node.js](https://github.com/nodejs/node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |[Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+contribution%22) |
