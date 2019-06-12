@@ -957,6 +957,7 @@ CMBloodMeridian
 - [Zachary Anderson](https://github.com/ZacharyAnderson)
 - [Vyas Anirudh Akundy](https://github.com/Anirudh42)
 - [ethompso28](https://github.com/ethompso28)
+- [SiddharthSs](https://github.com/Siddharths8212376)
 - [Noah Furman](https://github.com/OrbOrigin)
 - [Jack Westmore](https://github.com/mrmikardo)
 - [Mat Herron](https://github.com/tinntinnabulate78)
