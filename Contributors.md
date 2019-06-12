@@ -222,6 +222,7 @@ Daniel Jung
 - [Varshini Ananta] (https://github.com/sananta) 
 - [Gerald Bruno] (https://github.com/NephilimEyez)
 - [Random-VI Innocent] (https://github.com/randomvi) 
+- [Kyle Spresser] (https://github.com/keyspress)
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Jessie Simpauco](https://github.com/jesselton23) 
