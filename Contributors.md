@@ -2,6 +2,7 @@
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
+- [Matthew Finley](https://github.com/m-fin)
 - [Archie Lewis] (https://github.com/acl76)
 - [mudu93](https://github.com/mudu93)
 - [rino23] (https://github.com/rino23)
