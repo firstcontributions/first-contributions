@@ -4,6 +4,7 @@
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
 - [Archie Lewis] (https://github.com/acl76)
+- [Akhilesh Sharma] (https://github.com/plat2eau)
 - [mudu93](https://github.com/mudu93)
 - [rino23] (https://github.com/rino23)
 - [timelessPy] (https://github.com/timelessPy)
