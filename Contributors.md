@@ -1492,6 +1492,7 @@ CMBloodMeridian
 - [Christopher Jensen](https://github.com/cajen)
 - anuragkanade
 - octavo
+- [M3skl1n](https://github.com/M3skl1n)
 - raffy002
 - [yvj9391](https://github.com/yogesh9391)
 - [Joseph Kenny](https://github.com/josephkenny)
