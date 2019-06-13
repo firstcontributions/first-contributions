@@ -10,6 +10,7 @@
 - [donald](https://github.com/whataas)
 - [rino23] (https://github.com/rino23)
 - [timelessPy] (https://github.com/timelessPy)
+- [Jia Hao Yao] (https://github.com/kof91920) 
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 - [Austin Marler] (https://github.com/AustinMarler)
