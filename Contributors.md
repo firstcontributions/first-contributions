@@ -14225,5 +14225,6 @@ skelter2014
 -[Ezechio] (https://github.com/ezechio)
 -[Lily Chen] (https://github.com/liliburg711)
 -[Sam McRuvie] (https://github.com/SamMcRuvie)
+- [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
 - [Priyank Patel](https://github.com/pp2309)
