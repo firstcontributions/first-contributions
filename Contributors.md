@@ -257,6 +257,7 @@ Daniel Jung
 - [Casey Godbout] (https://github.com/cgodbout412)
 - [Justin Gagnon] (https://github.com/Aadrik)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
+- [RayQuan Kennedy](https://github.com/RaymaTheCoder)
 - goodgrieff
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen] (https://github.com/achencoms)
