@@ -503,6 +503,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Chris Burns](https://github.com/cburns1331)
 - Ritu S
 - Cmorph1
+- [chickendoritos](https://github.com/chickendoritos)
 - Jannes E
 - Max G
 - JohntyR
