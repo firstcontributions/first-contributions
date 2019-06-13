@@ -44,6 +44,7 @@
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
+- [aydoganersoz] (https://github.com/aydoganersoz)
 - [Ariel Cooper] (https://github.com/featherboa50)
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms] (https://github.com/nathantomsfairsailcom)
