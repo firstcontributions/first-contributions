@@ -59,6 +59,7 @@
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
+- [Javlonbek Sharipov] (https://github.com/javlonbek-sharipov)
 - [Hugo Chanampe] (https://github.com/hchanampe)
 - [Brandon Zhou] (https://github.com/BrandonZhouComp)
 - [Genesis Phillips] (https://github.com/genesiscphillips)
