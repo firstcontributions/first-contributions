@@ -6,6 +6,7 @@
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [mudu93](https://github.com/mudu93)
+- [donald](https://github.com/whataas)
 - [rino23] (https://github.com/rino23)
 - [timelessPy] (https://github.com/timelessPy)
 - [Talha Malik] (https://github.com/talham7391)
