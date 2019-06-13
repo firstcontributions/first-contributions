@@ -36,6 +36,7 @@
 - [Akshata Kulkarni] (https://github.com/akshatak12)
 - [Jabir Hussain](https://github.com/JabirTuri)
 - [Nida Munir](https://github.com/nidamunir)
+- [Ridwan Balogun](https://github.com/ridbay/)
 - [Coruna] (https://github.com/Coruna)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
