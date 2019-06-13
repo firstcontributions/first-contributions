@@ -3,6 +3,7 @@
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
+- [Sumit Yadav](https://github.com/sumityadav29)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [mudu93](https://github.com/mudu93)
