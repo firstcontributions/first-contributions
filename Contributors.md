@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
@@ -14244,3 +14244,4 @@ skelter2014
 - [Ian Stubbs] (https://github.com/Stubbs-Ian) 
 - [Minhaz Alam] (https://github.com/M1NH42)
 -[Moonil Son](https://github.com/und32g2ound-kr)
+-[Patricia Dominguez](https://github.com/patricia-dominguez5)
