@@ -37,6 +37,7 @@
 - [baclona] (https://github.com/gb853940223)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
+- [Light Yagami] (https://github.com/Lightobyte) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Akshata Kulkarni] (https://github.com/akshatak12)
 - [Jabir Hussain](https://github.com/JabirTuri)
