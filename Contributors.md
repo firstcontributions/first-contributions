@@ -15,6 +15,7 @@
 - [Martin Ptrl](https://github.com/MartinPtrl)
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
+- [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [wa4It] (https://github.com/dTCTb)
