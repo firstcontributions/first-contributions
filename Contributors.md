@@ -11,6 +11,7 @@
 - [mudu93](https://github.com/mudu93)
 - [donald](https://github.com/whataas)
 - [rino23] (https://github.com/rino23)
+- Yudi Xu evec
 - [timelessPy] (https://github.com/timelessPy)
 - [Jia Hao Yao] (https://github.com/kof91920) 
 - [Talha Malik] (https://github.com/talham7391)
