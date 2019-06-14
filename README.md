@@ -165,6 +165,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
+nick-durbin
 
 ## Tutorials Using Other Tools
 
