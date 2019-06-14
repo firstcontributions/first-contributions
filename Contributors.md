@@ -14238,4 +14238,3 @@ skelter2014
 - [Priyank Patel](https://github.com/pp2309)
 - [Titus Wen] (https://github.com/wen372)
 - [Toni Blackwelder] (https://github.com/toni517b)
-- [Takeen Evens] (https://github.com/TakiiCoder)
