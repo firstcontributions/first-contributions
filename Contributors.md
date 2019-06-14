@@ -31,6 +31,7 @@
 - [Elijah Brian] (https://github.com/thexerothermic)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
+- [8bitjustin] (https://github.com/8BitJustin)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
 - [jomic] (https://github.com/jomic)
