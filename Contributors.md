@@ -62,6 +62,7 @@
 - [Teddy Marchildon] (https://github.com/teddymarchildon)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
 - [Sumit Singh] (https://github.com/sumit4613)
+- [Tushar Dave] (https://github.com/imtushardave)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
 - [Javlonbek Sharipov] (https://github.com/javlonbek-sharipov)
