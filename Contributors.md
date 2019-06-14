@@ -2359,6 +2359,7 @@ CMBloodMeridian
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 - [Maksim Schutsky](https://github.com/maximsan)
 - [Wian Stienstra](https://github.com/wianws)
+- Chukwurado
 - [Jing Heng](https://github.com/limjh16)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Julian](https://github.com/julian1)
