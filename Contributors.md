@@ -40,6 +40,7 @@
 - [fsidiqs] (https://github.com/fsidiqs)
 - [jomic] (https://github.com/jomic)
 - [baclona] (https://github.com/gb853940223)
+- [Calvin Jian] (https://github.com/calvinjian)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Light Yagami] (https://github.com/Lightobyte) 
