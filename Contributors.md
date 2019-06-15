@@ -177,6 +177,7 @@ Andrew Scheper
 - [Ritwik](https://github.com/Dips2705
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Pawel Jastrzebski] (https://github.com/pawjastrzebski)
+- [Daniele Petillo] (https://github.com/dapetillo)
 - [Ricardo Franco] (https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
 - [stonooaks](https://github.com/stonooaks)
