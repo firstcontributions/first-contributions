@@ -13956,7 +13956,7 @@ Tyler Strang
 - [Yunyee](https://github.com/YunyeeLo)
 - [ALittleBug](https://github.com/ALittleBug)
 - [Marko Vučić] (https://github.com/okram99)
-- Feidao
+- Feidao 
 - [86100488z](https://github.com/86100488z)
 - [Arjun Ashok](https://github.com/arjun2000ashok)
 - [Barry Martin] (https://github.com/bvmcode)
@@ -13966,7 +13966,7 @@ Tyler Strang
 - [CVVPK](https://github.com/CVVPK)
 - Chenggang Xu
 - Max
-- [Summerok] (https://github.com/Summerok)
+- [Summerok]  (https://github.com/Summerok)
 - [vskwirblies] (https://github.com/vskwirblies)
 - [Andrew Heilman] (https://github.com/heilmanandrew)
 - [Kerry Jackson] (https://github.com/kerryja)
