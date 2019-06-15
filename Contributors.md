@@ -13966,7 +13966,7 @@ Tyler Strang
 - [CVVPK](https://github.com/CVVPK)
 - Chenggang Xu
 - Max
-- [Summerok]  (https://github.com/Summerok)
+- [Summerok]   (https://github.com/Summerok)
 - [vskwirblies] (https://github.com/vskwirblies)
 - [Andrew Heilman] (https://github.com/heilmanandrew)
 - [Kerry Jackson] (https://github.com/kerryja)
