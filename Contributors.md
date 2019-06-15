@@ -342,6 +342,7 @@ Daniel Jung
 - [Johannes H.] (https://github.com/M0J0isback)
 - [Joey-Michael Fallone](https://github.com/scarletspider616)
 - [Gerardo Torres](https://github.com/geratorres)
+- [Brecht Loos](https://github.com/loosbrecht)
 - [Faraz Murtaza](https://github.com/farazmurtaza)
 - Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
