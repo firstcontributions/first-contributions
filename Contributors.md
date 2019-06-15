@@ -2555,6 +2555,7 @@ CMBloodMeridian
 - [Florin Irion](https://github.com/irionr)
 - [Khalid Ramadan](https://github.com/KhalidRamadan)
 - [Aldrin Nazareth](https://github.com/aldrinnazareth)
+- [vinaydev26](https://github.com/vinaydev26)
 - [kananthav](https://github.com/kananthav)
 - [Francesco Califano](https://github.com/FranCali)
 - [naman](https://github.com/nbanati)
