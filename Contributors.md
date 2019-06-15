@@ -7615,6 +7615,7 @@ Bailey Wong
 - [Rachna Bansal](https://github.com/rachnaban)
 - [Shyam Mohan V M](https://github.com/shyammvm)
 - [Jesse Jacobs](https://github.com/jjacobs21)
+- [Nick Talbert](https://github.com/lifeSource-Hub)
 - [Claudius King](https://github.com/protean-phoenix)
 - [Mohit Gauniyal](https://github.com/mohitgauniyal19a)
 - [Karen King](https://github.com/lorlenes)
