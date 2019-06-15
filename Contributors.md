@@ -136,6 +136,7 @@ Kevin Hudson
 - [Anthony Serrano](https://github.com/aserrabi)
 - [Arnon Danon](https://github.com/ArnonDanon)
 - [Troy Udarbe](https://github.com/tjudarbe)
+- [Shailesh Vashishth](https://github.com/shim101)
 - [hamit taylan yuce](https://github.com/htaylanyuce)
 - [Sumit Singh](https://github.com/sumit9696)
 - [Shikhar Jaiswal](https://github.com/shikherjaiswal)
