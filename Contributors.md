@@ -245,6 +245,7 @@ Daniel Jung
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Kyle Spresser] (https://github.com/keyspress)
 - [Sahil Bondre](https://github.com/godcrampy)
+- [Alice Hsiao](https://github.com/alicehsiao)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Jessie Simpauco](https://github.com/jesselton23) 
 - [Mathew White](https://github.com/matiusmonkey)
