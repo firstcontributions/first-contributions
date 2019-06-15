@@ -9915,6 +9915,7 @@ Bailey Wong
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
 - [Micah Workman](https://github.com/nidoprince)
+- [Avishai Cohen](https://github.com/avirbig)
 - [Marc Cooperstein](https://github.com/mcooperstein)
 - [Andrew Chau](https://github.com/a4chau)
 - [SurenSN](https://github.com/SurenSN)
