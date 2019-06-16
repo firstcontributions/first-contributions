@@ -10,8 +10,8 @@
 </div>
 
 <div dir="rtl">
-זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים בפעם הראשונה לומדים ותורמים בפעם הראשונה.
-קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחרי הצעדים למטה.
+זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים חדשים יוכלו ללמוד ולתרום בפעם הראשונה.
+קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחר הצעדים הבאים.
 </div>
 
 <div dir="rtl">
@@ -20,9 +20,59 @@
 </div>
 
 <div dir="rtl">
-<h4>ניתן לתקרוא את המאמר
-<a href="">בשפות אחרות</a></h4>
+<h4>ניתן לקרוא את המאמר
+<a href="translations/Translations.md">בשפות אחרות</a></h4>
+
+[🇮🇳](translations/Translations.md)
+[🇲🇲](translations/README.mm_unicode.md)
+[🇮🇩](translations/README.id.md)
+[🇫🇷](translations/README.fr.md)
+[🇪🇸](translations/README.es.md)
+[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[🇳🇱](translations/README.nl.md)
+[🇱🇹](translations/README.lt.md)
+[🇷🇺](translations/README.ru.md)
+[🇧🇬](translations/README.bg.md)
+[:slovakia:](translations/README.slk.md)
+[🇯🇵](translations/README.ja.md)
+[🇻🇳](translations/README.vn.md)
+[🇵🇱](translations/README.pl.md)
+[🇮🇷](translations/README.fa.md)
+[🇮🇷](translations/README.fa.en.md)
+[🇰🇷 🇰🇵](translations/README.ko.md)
+[🇩🇪](translations/README.de.md)
+[🇩🇰](translations/README.da.md)
+[🇨🇳](translations/README.chs.md)
+[🇹🇼](translations/README.cht.md)
+[🇬🇷](translations/README.gr.md)
+[🇪🇬](translations/README.eg.md)
+[🇸🇦](translations/README.ar.md)
+[🇺🇦](translations/README.ua.md)
+[🇧🇷](translations/README.pt_br.md)
+[🇵🇹](translations/README.pt-pt.md)
+[🇮🇹](translations/README.it.md)
+[🇹🇭](translations/README.th.md)
+[🏴](translations/README.gl.md)
+[🇳🇵](translations/README.np.md)
+[🇵🇰](translations/README.ur.md)
+[:bangladesh:](translations/README.bn.md)
+[🇲🇩 🇷🇴](translations/README.ro.md)
+[🇹🇷](translations/README.tr.md)
+[🇸🇪](translations/README.se.md)
+[🇲🇾](translations/README.my.md)
+[:slovenia:](translations/README.sl.md)
+[🇮🇱](translations/README.hb.md)
+[🇨🇿](translations/README.cs.md)
+[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[🇲🇽](translations/README.mx.md)
+[🇵🇭](translations/README.tl.md)
+[🇿🇦](translations/README.zul.md)
+[🇿🇦](translations/README.afk.md)
+[🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
+
 </div>
+
 
 <div dir="rtl">
 <a href="https://help.github.com/articles/set-up-git/">אם אין לכם GIT ניתן להתקין GIT בקישור</a>
@@ -195,7 +245,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-<h2> הדרכות בשימוש כלים אחרים </h2>
+<h2 id="tutorials-using-other-tools"> הדרכות בשימוש כלים אחרים </h2>
 </div>
 
 <div dir="rtl">
