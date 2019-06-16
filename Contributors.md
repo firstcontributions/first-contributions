@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Matt Lambert] (https://github.com/mtlambert)
@@ -81,6 +81,7 @@
 - [Lior Cohen](https://github.com/lulu70)
 - [khalid anas](https://github.com/anaskhalid98)
 - [jake porter] (https://github.com/Dimbles)
+
 - [Omarian] (https://github.com/AncientLaws]
 - [Paul Huang] (https://github.com/lineageispig]
 - [Holly Huber] (https://github.com/HollyJHuber)
@@ -168,6 +169,7 @@ Andrew Scheper
 - [Michael Thomas Cavanaugh](https://github.com/funkel1989)
 - [Leo](https://github.com/tangShy)
 - [Tony] (https://github.com/aalberty)
+- [Furaha Damien](https://github.com/furahadamien)
 - [Alex H. S. Lee](https://github.com/aviidlee)
 - [Carlos Garcia](https://github.com/charlygg)
 - [Nitin Sahu] (https://github.com/globefire)
