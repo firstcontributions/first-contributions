@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Jacob Chang] (https://github.com/jacobc2700)
@@ -14166,6 +14166,7 @@ Tyler Strang
 - [Arjun Ashok](https://github.com/arjun2000ashok)
 - [Barry Martin] (https://github.com/bvmcode)
 - [Iggy Irianto](https://github.com/iggredible)
+- [Paolo Crippa](https://github.com/cioculo)
 - [Nimrod Segall] (https://github.com/NimrodSegall/first-contributions.git)
 - [Yongjian Xu](https://github.com/yongjianchn)
 - Chenggang Bai
