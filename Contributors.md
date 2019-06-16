@@ -179,6 +179,7 @@ Joshua Cronin
 - [Mapp Brannigan
 - [Nancy Agarwal] (https://github.com/nancyagarwal14)
 - [Almog](https://github.com/almoghaimo)
+- [Karin Chechik](https://github.com/karinchechik)
 - [Ritwik](https://github.com/Dips2705
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Pawel Jastrzebski] (https://github.com/pawjastrzebski)
