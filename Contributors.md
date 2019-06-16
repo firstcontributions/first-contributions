@@ -658,6 +658,7 @@ CMBloodMeridian
 - [Kriss K](https://github.com/Egg-Wizard)
 - Thibault Blanc
 - [Tad Tarnawski](https://github.com/tad815)
+- [Christian Kischy Haege] (https://github.com/Kischy)
 - [Marc Lim](https://github.com/Maws1991)
 - [Will Dempsey](https://github.com/wdempsey96)
 - [Marielle Cunanan](https://github.com/rosemarielle)
