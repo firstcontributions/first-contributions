@@ -340,6 +340,7 @@ Daniel Jung
 - [Yasir Asiri](https://github.com/YasirAsiri)
 - [Mahdi Mouttahid] (https://github.com/Mouttahid)
 - [Steven Failla](https://github.com/Stevo99)
+- [Joshua Roy](https://github.com/Nachash613)
 - [Rakesh Kadamati](https://github.com/rakeshkadamati/)
 - [Peter Hudak] (https://github.com/ptrhdk)
 - [Paul Travis] (https://github.com/ptravis92)
