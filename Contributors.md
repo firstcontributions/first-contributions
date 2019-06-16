@@ -16,6 +16,7 @@
 - [SergeyTkachenko-Cj] (https://github.com/SergeyTkachenko-Cj)
 - [timelessPy] (https://github.com/timelessPy)
 - [Jia Hao Yao] (https://github.com/kof91920) 
+- [Kushal Jain] (https://github.com/Kage18)
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 - [Daniel Xie] (https://github.com/danieljxie)
