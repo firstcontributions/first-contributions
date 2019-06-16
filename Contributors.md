@@ -38,6 +38,7 @@
 - [8bitjustin] (https://github.com/8BitJustin)
 - [burak136] (https://github.com/burak136)
 - [fsidiqs] (https://github.com/fsidiqs)
+- [dootch] (https://gihub.com/dootch)
 - [jomic] (https://github.com/jomic)
 - [baclona] (https://github.com/gb853940223)
 - [Calvin Jian] (https://github.com/calvinjian)
