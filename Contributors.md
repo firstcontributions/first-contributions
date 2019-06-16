@@ -67,6 +67,7 @@
 - [Karthik Venkat] (https://github.com/karthik2509)
 - [Michael Lo] (https://github.com/lomichael)
 - [umng09] (https://github.com/baibhavtripathi/)
+- [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan] (https://github.com/michan94)
 - [Alexander Schlesinger] (https://github.com/alexschles)
 - [rjmax13] (https://github.com/rjmax13)
