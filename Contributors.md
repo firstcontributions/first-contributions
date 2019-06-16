@@ -38,6 +38,7 @@
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Elijah Brian] (https://github.com/thexerothermic)
+- [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
 - [8bitjustin] (https://github.com/8BitJustin)
