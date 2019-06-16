@@ -7745,6 +7745,7 @@ Bailey Wong
 - [Gimp Nerd](https://github.com/GimpNerd)
 - [Pat Salembier](https://github.com/psal93/)
 - [Ajea smith](https://github.com/AjeaSmith/)
+- [Pankaj Ranga](https://github.com/pankajranga/)
 - [Dalia Maarek](https://github.com/daliamaarek)
 - [Yogesh Patel](https://github.com/yogeshpatel276052)
 - [Lachlan Brown](https://github.com/lachie246)
