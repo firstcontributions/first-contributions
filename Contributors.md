@@ -20,6 +20,7 @@
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
+- [Nebi Tessema] (https://github.com/nebi-tessema)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [Mohammad Ansari] (https://github.com/MohammadAnsari98)
