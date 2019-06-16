@@ -14,6 +14,7 @@
 - [donald](https://github.com/whataas)
 - [rino23] (https://github.com/rino23)
 - Yudi Xu evec
+- [Pieter Oosthuizen] (https://github.com/pieter-oosthuizen)
 - [SergeyTkachenko-Cj] (https://github.com/SergeyTkachenko-Cj)
 - [timelessPy] (https://github.com/timelessPy)
 - [Jia Hao Yao] (https://github.com/kof91920) 
