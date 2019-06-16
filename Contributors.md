@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
 - [Sumit Yadav](https://github.com/sumityadav29)
