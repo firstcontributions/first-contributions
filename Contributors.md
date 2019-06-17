@@ -1499,6 +1499,7 @@ CMBloodMeridian
 - [Rose Mazari](https://github.com/rosemazari)
 - [saicharan](https://github.com/saicharannivarthi)
 - [Johnny Nguyen](https://github.com/Jokuyen)
+- [Juan Pablo Flores](https://github.com/Pobs97)
 - [Chaitanya Mattey](https://github.com/cmattey)
 - [Nicholas Adamson](https://github.com/nja12)
 - [Javier Dombronsky](https://github.com/javidombro)
