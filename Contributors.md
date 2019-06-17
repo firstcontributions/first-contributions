@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Jacob Chang] (https://github.com/jacobc2700)
@@ -8723,6 +8723,7 @@ Bailey Wong
 - [Halima Dewanbabee](https://github.com/dewanbabee)
 - [Sourav Kumar Dash](https://github.com/sourav52)
 - [Danika Hayman](https://github.com/danikahayman)
+- [Mohak Gogia](https://github.com/MohakGogia)
 - [NomelemoN](https://github.com/NomelemoN)
 - [Nrike](https://github.com/electrixgeek)
 - [S Balakrishnan](https://github.com/97balakrishnan)
