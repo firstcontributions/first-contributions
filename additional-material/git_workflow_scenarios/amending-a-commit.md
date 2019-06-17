@@ -43,6 +43,6 @@ But since what we want to achieve here is to amend the previous commit, we would
 * ```git commit --amend```
  This would then bring up the text editor and prompt you to edit the message. You can decide to leave the message as it was before or change it.
 * Exit the editor
-* Push your changes with `` `git push origin <branch-name>` ``
+* Push your changes with ```git push origin <branch-name>```
 
 That way, both changes would be in one single commit.

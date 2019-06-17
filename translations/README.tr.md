@@ -85,7 +85,7 @@ git add Contributors.md
 ```
 git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
-`<isminiz>` yerine kendi isminizi yazın. 
+`<isminiz>` yerine kendi isminizi yazın.
 
 (Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
 
@@ -109,7 +109,7 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme postası alacaksınız.
 
-### [Sonraki adımlar](../additional_material/git_workflow_senarios/additional-material.md)
+### [Sonraki adımlar](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Bundan sonra ne yapabilirim?
 

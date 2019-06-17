@@ -18,7 +18,7 @@ If you don't have Visual Studio 2017 on your machine, [install it](https://www.v
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
+Fork this repository by clicking on the fork button on the top of this page. This will create of copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
 
@@ -140,9 +140,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Tutorials Using Other Tools
 
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
 
 ## Self-Promotion
