@@ -5013,6 +5013,7 @@ CMBloodMeridian
 - [Cliff McCall](https://github.com/cliffmccall1)
 - [Morioka](https://github.com/OthankQ)
 - [evanzko](https://github.com/evanzko)
+- Jerry
 - [Borislav Krastev](https://github.com/bKrystev)
 - [Attila Greguss](https://github.com/Floyd0122)
 - [Guy Zilberg](https://github.com/guyzilberg)
