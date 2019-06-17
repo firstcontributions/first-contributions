@@ -5,6 +5,7 @@
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
 - [Sumit Yadav](https://github.com/sumityadav29)
+- [CryptographicFool](https://github.com/cryptographicfool)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
