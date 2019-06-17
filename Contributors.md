@@ -138,6 +138,7 @@
 - [Joe Pell] (https://github.com/f1nesse13)
 - [zwitter1802]
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
+- [Goh Wei Rong] (https://github.com/Qooooo)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
 - [Dalibor Kozar](https://github.com/Daliborkozar)
