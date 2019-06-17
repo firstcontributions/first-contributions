@@ -171,6 +171,7 @@ Joshua Cronin
 - [Harikrishnan P] (https://github.com/harip3003)
 - [Alexander Bejarano] (https://github.com/abejaranoh)
 - [Marcia Arias](https://github.com/marciaarias)
+- [Cryptographic Fool](https://github.com/cryptographicfool)
 - [Adam](https://github.com/worstahrieu)
 - [Jeff Shannon](https://github.com/jeffyboh)
 - [Huseyin Burak Saruhan](https://github.com/buraksaruhan)
