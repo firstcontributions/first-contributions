@@ -13935,6 +13935,7 @@ Tyler Strang
 - [Rocky Liao](https://github.com/SeemsRocky)
 - [Saylee Pradhan](https://github.com/sayleepradhan)
 - [Mohamed Shiha](https://github.com/MohamedShiha)
+- [Alexandros Kalamaras](https://github.com/akalamaras)
 - [Raul Valdez](https://gitub.com/raulvaldez4)
 - [elgaspar](https://github.com/elgaspar)
 - [Purvi Patel](https://github.com/ppatel6)
