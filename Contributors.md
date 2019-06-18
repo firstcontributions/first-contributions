@@ -417,6 +417,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Hetian Liu (https://github.com/EricLiu96)
 - Akash Singh (https://github.com/akashs4)
 - Perez Ogayo (https://github.com/Pogayo)
+- [Dan Mulvey](https://github.com/danmulvey)
 - Hamdun Mohammed (https://github.com/Hamoha/)
 - Guy Shaibi
 - Josh Norman (https://github.com/jmnorma)
