@@ -33,6 +33,7 @@
 - [wa4It] (https://github.com/dTCTb)
 - [sonalik] (https://github.com/Sonali-Keshava-Murthy-Naik)
 - [Todd Fichman] (https://github.com/toddfichman)
+- [Cher Fitchett] (https://github.com/kayzoe)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
 - [Randy McBride] (https://github.com/randymcbride)
 - [Andy Ren] (https://github.com/mewtwo555)
