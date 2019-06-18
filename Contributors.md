@@ -226,6 +226,7 @@ Joshua Cronin
 - [Sue](https://github.com/qaws01395)3
 - [Irfan Hanafi] (https://github.com/matrix374)
 - [Jake](https://github.com/jake-morgan-2)
+- [Martin Louazel](https://github.com/martin-louazel-engineering)
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
 - [Rajeev Joshi](https://github.com/rj-1234)
 - [jahad English](https://github.com/jahade1)
