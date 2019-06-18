@@ -66,6 +66,7 @@
 - [Swati](https://github.com/swati66)
 - [Raja Yellapu](https://github.com/rajayellapu)
 嗯嗯嗯
+- [Chriptus](https://github.com/chriptus13)
 - [Soo Kyung Ahn] (https://github.com/sahnsookyung)
 - [Karthik Venkat] (https://github.com/karthik2509)
 - [Michael Lo] (https://github.com/lomichael)
