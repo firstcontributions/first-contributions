@@ -26,6 +26,7 @@
 kurt Kobain
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
+- [Michael Bonner] (https://github.com/mdb1710)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Nebi Tessema] (https://github.com/nebi-tessema)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
