@@ -14234,6 +14234,7 @@ Tyler Strang
 - [Faial](https://github.com/fabfas)
 - [Alex White](https://github.com/alex-wh)
 - [Shruti Raj](https://github.com/Sparkla)
+- [Paul Maxey] (https://github.com/pmaxey83)
 - [Mithun Madhav](https://github.com/mithunmqb)
 skelter2014
 - [Wahaj Ayub](https://github.com/WahajAyub)
@@ -14312,3 +14313,4 @@ skelter2014
 - [asura4716] (https://github.com/asura4716)
 - [Jisu Lee] (https://github.com/lee195)
 - [Shaun Watson] (https://github.com/ShaunWatson24)
+
