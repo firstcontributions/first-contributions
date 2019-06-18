@@ -12,7 +12,10 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
+
 #### *Read this in [other languages](translations/Translations.md).*
+
+Md Rakibul Hasan Prince
 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
