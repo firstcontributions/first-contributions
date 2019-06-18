@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [Banjoanton](https://github.com/banjoanton) 
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
