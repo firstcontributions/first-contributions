@@ -4,6 +4,7 @@
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
+- [Tushar Bochare](https://github.com/mytusshar)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
