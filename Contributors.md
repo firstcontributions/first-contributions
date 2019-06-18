@@ -184,6 +184,7 @@ Joshua Cronin
 - [Cryptographic Fool](https://github.com/cryptographicfool)
 - [Adam](https://github.com/worstahrieu)
 - [Jeff Shannon](https://github.com/jeffyboh)
+- [MarkMan0](https://github.com/MarkMan0)
 - [Huseyin Burak Saruhan](https://github.com/buraksaruhan)
 - [Jerome Lim](https://github.com/jeromelimzw)
 - [Geonho James Kim](https://github.com/kgh475926)
