@@ -23,6 +23,7 @@
 - [Kushal Jain] (https://github.com/Kage18)
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
+kurt Kobain
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
