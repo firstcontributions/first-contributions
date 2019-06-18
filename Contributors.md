@@ -51,6 +51,7 @@
 - [baclona] (https://github.com/gb853940223)
 - [Calvin Jian] (https://github.com/calvinjian)
 - [Ruben Seveelaventhan] (https://github.com/ruben00001)
+- [Manuel Moran] (https://github.com/manuelm19/)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Light Yagami] (https://github.com/Lightobyte) 
 - [Stefan Speter] (https://github.com/StefanYYC)
