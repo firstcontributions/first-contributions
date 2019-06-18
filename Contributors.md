@@ -3133,6 +3133,7 @@ CMBloodMeridian
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
 - [Moira McAulay](https://github.com/m-mcaulay)
+- [Dian Maisara] (https://github.com/dian-maisara)
 - [wlung](https://github.com/wlung)
 - [Anuj Kharbanda](https://github.com/Anuj2711)
 - [Aswin G](https://github.com/infiniteoverflow)
