@@ -116,6 +116,7 @@ Andrew Scheper
 - [Geonho James Kim](https://github.com/kgh475926)
 - [Michael Thomas Cavanaugh](https://github.com/funkel1989)
 - [Leo](https://github.com/tangShy)
+- [Rares Holota](https://github.com/prinpadure)
 - [Tony] (https://github.com/aalberty)
 - [Alex H. S. Lee](https://github.com/aviidlee)
 - [Carlos Garcia](https://github.com/charlygg)
