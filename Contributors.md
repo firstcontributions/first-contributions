@@ -92,6 +92,7 @@ kurt Kobain
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Tushar Dave] (https://github.com/imtushardave)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
+- [Kari Larson](https://github.com/KJLarson)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
 - [Javlonbek Sharipov] (https://github.com/javlonbek-sharipov)
 - [Hugo Chanampe] (https://github.com/hchanampe)
