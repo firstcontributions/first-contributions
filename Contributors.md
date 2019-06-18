@@ -35,6 +35,7 @@
 - [Randy McBride] (https://github.com/randymcbride)
 - [Andy Ren] (https://github.com/mewtwo555)
 - [yli302] (https://github.com/yli302)
+- [leolimabh](https://github.com/leolimabh)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
 - [Greg Chang] (https://github.com/gregchang)
 - [wizard-kv](https://github.com/wizard-kv/)
