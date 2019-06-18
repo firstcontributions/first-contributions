@@ -5845,6 +5845,7 @@ Bailey Wong
 - [Ibadullah Khan](https://github.com/ibadullah25)
 - [Lane Schmidt](https://github.com/spoiledgoods)
 - [David Colter](https://github.com/dcolter)
+- [Sebastian Gołębiowski](https://github.com/SebastianWebdev)
 - [Alvin Chipmunk](https://github.com)
 - [FilWil](https://github.com/FilWil)
 - [Duncan White](https://github.com/2ontheriver)
