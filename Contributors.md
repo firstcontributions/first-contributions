@@ -14280,6 +14280,7 @@ skelter2014
 - [KK998](https://github.com/KK998)
 - Chris Muldoon
 - [BBrown] (https://github.com/BBrown4)
+- [Jim Armstrong] (https://github.com/41northstudios)
 - [AdamThahir] (https://github.com/AdamThahir)
 - [Julia González] (https://github.com/yuliagg)
 -[Jim Schlader] (https://github.com/jamesschlader)
