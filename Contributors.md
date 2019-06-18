@@ -403,6 +403,7 @@ Daniel Jung
 - Ran Levy
 - [Vishal Bahedia](https://github.com/vishalvb)
 - [Yu Wang](https://github.com/ywang412)
+- [Felix Sundqvist](https://github.com/FelixSundqvist/)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Val Lipat](https://github.com/vlipatdev)
 - [Chris Drury](https://github.com/crdrury)
