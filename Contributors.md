@@ -27,6 +27,7 @@
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
+- [Maria Pettit] (https://github.com/mnope)
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Michael Bonner] (https://github.com/mdb1710)
