@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Jordon Ulrich] (https://github.com/jodgey)
@@ -14327,3 +14327,4 @@ skelter2014
 - [Shaun Watson] (https://github.com/ShaunWatson24)
 - [Giancarlo Bacci] (https://github.com/bacci)
 - [Sharat Chandar M] (https://github.com/SharatChandar)
+- [Ryan Hardin]	(https://github.com/RyanHardin)
