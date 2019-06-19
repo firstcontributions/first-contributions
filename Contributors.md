@@ -33,6 +33,7 @@ kurt Kobain
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Michael Bonner] (https://github.com/mdb1710)
+- [Mochamad Rizki] (https://github.com/rzkidev)
 - [Raivis J] (https://github.com/Nefestus)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Nebi Tessema] (https://github.com/nebi-tessema)
