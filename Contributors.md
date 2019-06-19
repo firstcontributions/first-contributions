@@ -66,6 +66,7 @@ kurt Kobain
 - [Light Yagami] (https://github.com/Lightobyte) 
 - [Stefan Speter] (https://github.com/StefanYYC)
 - [Akshata Kulkarni] (https://github.com/akshatak12)
+- [Jason Kennedy] (https://github.com/jkomg)
 - [Jabir Hussain](https://github.com/JabirTuri)
 - [Nida Munir](https://github.com/nidamunir)
 - [Ridwan Balogun](https://github.com/ridbay/)
