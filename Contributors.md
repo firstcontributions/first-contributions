@@ -13920,6 +13920,7 @@ Tyler Strang
 - [tsuno](https://gitlab.com/tsuno)
 - [jkrajcir](https://github.com/jkrajcir)
 - [Nick Pounders](https://github.com/pounders82)
+- [Hunter Elofson](https://github.com/hunterelofson)
 - [Oliver Coley](https://github.com/mxoliver)
 - [yanfeng1012](https://gitlab.com/yanfeng1012)
 - [Josue Lopes](https://github.com/Josue10599)
