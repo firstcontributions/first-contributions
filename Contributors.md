@@ -3443,6 +3443,7 @@ CMBloodMeridian
 - [Thomas Wicks](https://github.com/ThomasWicks)
 - edward-cronus
 - vibhasi
+- [Danail Kostov](https://github.com/danailkostov)
 - [Darien Lee](https://github.com/darienlee)
 - [Haiyun Xu](https://github.com/Haiyun-Xu)
 - [Michael Hart](https://github.com/michaeljh619)
