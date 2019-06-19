@@ -589,6 +589,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Jason E
 - [Joe Polaski](https://github.com/JosephPolaski) 
 - John Daniel
+- Nishant Shekhar(https://github.com/mhawk12)
 - Ananya Gupta
 - Omri Sak
 - Skyname
