@@ -6318,6 +6318,7 @@ Bailey Wong
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
 - [eljoth](https://github.com/eljoth)
 - [Diky Pratansyah](https://github.com/pratansyah)
+- [Erik Flores](https://github.com/eflores2099)
 - [Connie Li](https://github.com/lishiyo)
 - [Tim Stelter](https://github.com/tstelter93)
 - [Moshe Reubinoff](https://github.com/reubinoff)
