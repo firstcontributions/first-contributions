@@ -55,6 +55,7 @@ kurt Kobain
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - Dimon Barankov
+- [P Mansukhani] (https://github.com/pmansukhani)
 - [Elijah Brian] (https://github.com/thexerothermic)
 - [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
