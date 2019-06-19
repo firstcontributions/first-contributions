@@ -14331,3 +14331,4 @@ skelter2014
 - [Giancarlo Bacci] (https://github.com/bacci)
 - [Sharat Chandar M] (https://github.com/SharatChandar)
 - [Ryan Hardin]	(https://github.com/RyanHardin)
+- [Oleg Zinin] (https://github.com/OlegZinin)
