@@ -1987,6 +1987,7 @@ CMBloodMeridian
 - [Martin Vityk](https://github.com/https://github.com/DrowNoble)
 - [Mohammed Yousif](https://github.com/MohammedShwani)
 - [Jesse Hillman](https://github.com/proton5)
+- [Jesse Hurdle](https://github.com/JHurdle91)
 - [Ashley Herman](https://github.com/hermana)
 - [Chris Crisson](https://github.com/ccrisson)
 - [Scott Anderson](https://github.com/scottkenanderson)
