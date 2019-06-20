@@ -14342,3 +14342,4 @@ skelter2014
 - [Vincent Tern] (https://github.com/vincenttern)
 - [Alejandro Marco] (http://amisdoinghisbest.com)
 - [Rajarajan Balasubramanian] (https://github.com/rajarajanb)
+- [Dominik Petrovic] (https://github.com/nixxcode)
