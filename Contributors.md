@@ -33,6 +33,7 @@
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
+- [Brett Stockmeier] (https://github.com/stockmeierb)
 - [Ibnul Kayes] (https://github.com/image7)
 - [Rabidax] (https://github.com/Rabidax)
 - [tonybebawy] (https://github.com/tonybebawy)
