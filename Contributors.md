@@ -4464,3 +4464,4 @@
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
+- [Vincent Tern](https://github.com/vincenttern)
