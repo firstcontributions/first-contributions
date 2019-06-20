@@ -259,6 +259,7 @@ Joshua Cronin
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
 - [Yudi](https:/i/github.com/yudi7ll)
+- [Verduor](https://github.com/verduor)
 Daniel Jung
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Jtian](https://github.com/JhonsonTian)
