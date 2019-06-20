@@ -1068,6 +1068,7 @@ CMBloodMeridian
 - [Alex Pittenger](https://github.com/AlexPittenger)
 - [Paul Kapschitzki](https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
+- [Jonathan Hawkins] (https://github.com/jchawkins725)
 - [Kye Davey](https://github.com/kyedavey)
 - [Ian Baer](https://github.com/itwbaer)
 - [Nathan Brown](https://github.com/N8Brown)
