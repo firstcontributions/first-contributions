@@ -14324,3 +14324,4 @@ skelter2014
 - [Jisu Lee] (https://github.com/lee195)
 - [Shaun Watson] (https://github.com/ShaunWatson24)
 - [Giancarlo Bacci] (https://github.com/bacci)
+- [Sting] (https://github.com/TingTop)
