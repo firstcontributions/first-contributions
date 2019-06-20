@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Kylan Byrd] (https://github.com/aviananalyst)
@@ -1861,6 +1861,7 @@ CMBloodMeridian
 - [Yulia Zileeva](https://github.com/zileeva)
 - [Cleo Aguiar](https://github.com/CleoAguiar)
 - [Robert Poziumschi](https://github.com/robertmihai26)
+- [Sahana N](https://github.com/CSN17)
 - [It's Me](https://github.com/)
 - [Jacob Sowles](https://github.com/jacobsowles)
 - [Jonathan Le Moal](https://github.com/jonathan-le-moal/)
