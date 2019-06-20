@@ -8885,6 +8885,7 @@ Bailey Wong
 - [Aman Sidhant](https://github.com/amansidhant)
 - [Ade](https://github.com/adelina1985a/)
 - [Luke Wahlmeier](https://github.com/lukehw)
+- [Wojciech Porosło](https//github.com/wporoslo)
 - [Purarity](https://github.com/Purarity)
 - [Angela Schneider](https://github.com/BLUEBUNNY12)
 - [Linda Andersen](https://github.com/AndersenLinda)
