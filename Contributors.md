@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Jordon Ulrich] (https://github.com/jodgey)
@@ -33,6 +33,7 @@ kurt Kobain
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Michael Bonner] (https://github.com/mdb1710)
+- [Mochamad Rizki] (https://github.com/rzkidev)
 - [Raivis J] (https://github.com/Nefestus)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Nebi Tessema] (https://github.com/nebi-tessema)
@@ -43,6 +44,7 @@ kurt Kobain
 - [sonalik] (https://github.com/Sonali-Keshava-Murthy-Naik)
 - [Todd Fichman] (https://github.com/toddfichman)
 - [Cher Fitchett] (https://github.com/kayzoe)
+- [Sana Farooqui] (https://github.com/phoolish-philomath)
 - [Md. Rakibul Islam] (https://github.com/islam2366)
 - [Randy McBride] (https://github.com/randymcbride)
 - [Andy Ren] (https://github.com/mewtwo555)
@@ -52,6 +54,8 @@ kurt Kobain
 - [Greg Chang] (https://github.com/gregchang)
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
+- Dimon Barankov
+- [P Mansukhani] (https://github.com/pmansukhani)
 - [Elijah Brian] (https://github.com/thexerothermic)
 - [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
@@ -585,6 +589,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Jason E
 - [Joe Polaski](https://github.com/JosephPolaski) 
 - John Daniel
+- Nishant Shekhar(https://github.com/mhawk12)
 - Ananya Gupta
 - Omri Sak
 - Skyname
@@ -1984,6 +1989,7 @@ CMBloodMeridian
 - [Martin Vityk](https://github.com/https://github.com/DrowNoble)
 - [Mohammed Yousif](https://github.com/MohammedShwani)
 - [Jesse Hillman](https://github.com/proton5)
+- [Jesse Hurdle](https://github.com/JHurdle91)
 - [Ashley Herman](https://github.com/hermana)
 - [Chris Crisson](https://github.com/ccrisson)
 - [Scott Anderson](https://github.com/scottkenanderson)
@@ -3440,6 +3446,7 @@ CMBloodMeridian
 - [Thomas Wicks](https://github.com/ThomasWicks)
 - edward-cronus
 - vibhasi
+- [Danail Kostov](https://github.com/danailkostov)
 - [Darien Lee](https://github.com/darienlee)
 - [Haiyun Xu](https://github.com/Haiyun-Xu)
 - [Michael Hart](https://github.com/michaeljh619)
@@ -6313,6 +6320,7 @@ Bailey Wong
 - [Pratiksha Prabhu](https://github.com/Pratikshayo)
 - [eljoth](https://github.com/eljoth)
 - [Diky Pratansyah](https://github.com/pratansyah)
+- [Erik Flores](https://github.com/eflores2099)
 - [Connie Li](https://github.com/lishiyo)
 - [Tim Stelter](https://github.com/tstelter93)
 - [Moshe Reubinoff](https://github.com/reubinoff)
@@ -7072,6 +7080,7 @@ Bailey Wong
 - [Berkay Ersengun](https://github.com/berkayersengun)
 - [Guy Livni](https://github.com/GuyLivni)
 - [Gilad Bar](https://github.com/GomuGilad6)
+- [Gilad Tsabar](https://github.com/giladt)
 - [Daniel Benton](https://github.com/dbenton2)
 - [Cesar Omar](https://github.com/wasa4587)
 - [Rhomni St. John](https://github.com/rhomnics)
@@ -13406,6 +13415,7 @@ Bailey Wong
 - [Luke](https://github.com/lwolff)
 - [Malintha Kumarage](https://github.com/malintha90)
 - [Rodrigo Girão](https://github.com/rodrigogirao)
+- [Avinash DV](https://github.com/avinashdv)
 - [Felix He](https://github.com/felhe)
 - [Yarka Lyba](https://github.com/yarkalyba)
 - [Deepak](https://github.com/deepak1418)
@@ -13913,6 +13923,7 @@ Tyler Strang
 - [tsuno](https://gitlab.com/tsuno)
 - [jkrajcir](https://github.com/jkrajcir)
 - [Nick Pounders](https://github.com/pounders82)
+- [Hunter Elofson](https://github.com/hunterelofson)
 - [Oliver Coley](https://github.com/mxoliver)
 - [yanfeng1012](https://gitlab.com/yanfeng1012)
 - [Josue Lopes](https://github.com/Josue10599)
@@ -14325,3 +14336,9 @@ skelter2014
 - [Shaun Watson] (https://github.com/ShaunWatson24)
 - [Giancarlo Bacci] (https://github.com/bacci)
 - [Sting] (https://github.com/TingTop)
+- [Sharat Chandar M] (https://github.com/SharatChandar)
+- [Ryan Hardin]	(https://github.com/RyanHardin)
+- [Oleg Zinin] (https://github.com/OlegZinin)
+- [Kevin Chen] (https://github.com/KeChing)
+- [Vincent Tern] (https://github.com/vincenttern)
+
