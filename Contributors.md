@@ -246,6 +246,7 @@ Joshua Cronin
 - [Salman Shaikh] (https://github.com/salmanshaikh733)
 - [Rajeev Joshi](https://github.com/rj-1234)
 - [jahad English](https://github.com/jahade1)
+- [Rafal Pacholczyk] (https://github.com/rpacholczyk)
 - [Nithin Singamsetti](https://github.com/nithinsingamsetti)
 - [Biplab Saha](https://github.com/biplabks)
 - [Willie Mangram](https://github.com/Williem3)
