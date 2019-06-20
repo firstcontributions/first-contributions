@@ -89,6 +89,7 @@ kurt Kobain
 - [Soo Kyung Ahn] (https://github.com/sahnsookyung)
 - [Karthik Venkat] (https://github.com/karthik2509)
 - [Michael Lo] (https://github.com/lomichael)
+- [Anurag Singh] (https://github.com/softhax)
 - [umng09] (https://github.com/baibhavtripathi/)
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan] (https://github.com/michan94)
