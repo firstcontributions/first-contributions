@@ -9968,6 +9968,7 @@ Bailey Wong
 - [James Ball](https://github.com/jamesballs)
 - [Lara Okafor](https://github.com/lcokafor)
 - [Mitch Waldman](https://github.com/mitchswaldman)
+- [Amanda Tugangui](https://github.com/atugangui)
 - [Mario Freire](https://github.com/mjfneto)
 - [Johannes Merkert](https://github.com/jmerkert)
 - [Darlene Decena](https://github.com/dardecena)
