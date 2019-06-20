@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Troy Wuollet] (https://github.com/twuollet)
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
