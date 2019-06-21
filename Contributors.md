@@ -180,6 +180,7 @@ kurt Kobain
 - [mbilly7] (https://github.com/mbilly7)
 - [meanaubergine] (https://github.com/meanaubergine)
 - [Meshi Bhatia] (https://github.com/meshib)
+Guru Prasad
 Andrew Scheper
 - [Rupinder Deol] (https://github.com/deolr)
 - [Jorge Antonio Flores] (https://github.com/jflores3531)
