@@ -883,6 +883,7 @@ CMBloodMeridian
 - [Neville](https://github.com/nevilleomangi)
 - [Ahmed Talaat](https://github.com/ahmdtalaat)
 - [Alin Eremia](https://github.com/alineremia)
+- [Justin Howell](https://github.com/GrowlHowell)
 - [ripoul](https://github.com/ripoul)
 - [Saksham Saigal]
 - [Omer Liberman]
