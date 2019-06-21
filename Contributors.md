@@ -32,6 +32,7 @@
 kurt Kobain
 - [Maria Pettit] (https://github.com/mnope)
 - [Daniel Xie] (https://github.com/danieljxie)
+- [Paul Joseph Robin] (https://github.com/p-j-r)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [Michael Bonner] (https://github.com/mdb1710)
 - [Mochamad Rizki] (https://github.com/rzkidev)
