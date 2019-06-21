@@ -663,6 +663,7 @@ CMBloodMeridian
 - [Rohit Ghatol](https://github.com/rohitghatol)
 - [Narlok3](https://github.com/Narlok3)
 - [Ming Yong](https://github.com/ming-yong)
+- [Csaba Barsony](https://github.com/cbarsony)
 - [Ziyang Li](https://github.com/paseaf)
 - [Christy Jacob](https://github.com/christyjacob4)
 - [Mekhi Thomas-El](https://github.com/MekhiT/)
