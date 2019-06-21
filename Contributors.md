@@ -1372,6 +1372,7 @@ CMBloodMeridian
 - [Jay Pitroda](https://github.com/jaypitroda12)
 - [Keith Hudock](https:github.com/keithudock)
 - [Dennis Reiter](https://github.com/dennis-reiter/)
+- [Meredith Derecho](https://github.com/stayingpeachy/)
 - [monkeymynd](https://github.com/monkeymynd)
 - [Chamith](https://github.com/kanda94)
 - [Frederik Hoffmann](https://github.com/FrederikHoffmann)
