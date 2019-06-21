@@ -4,6 +4,7 @@
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [Vama Mehta] (https://github.com/vamagithub)
 - [Banjoanton](https://github.com/banjoanton) 
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
