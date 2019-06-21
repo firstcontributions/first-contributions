@@ -14260,6 +14260,7 @@ Tyler Strang
 - [Holtek] (https://github.com/Holtek)
 - [Chris Vos] ()
 - [Turpster] (https://github.com/Turpster)
+- [Lian De Ho](https://github.com/LDHo)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss] (https://github.com/ceheiss)
 - [diksub] (https://github.com/dikisubagja)
