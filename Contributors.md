@@ -2294,6 +2294,7 @@ CMBloodMeridian
 - mnaga6
 - Daniel Dantas
 - [Rizwan](https://github.com/rsz)
+- [Akshay Dongare] (https://github.com/akshaydongaregit)
 - [Richard Kim](https://github.com/richardskim111)
 - [Ladson G](https://github.com/ladsong)
 - [Dhyey B](https://github.com/dhyeyb04)
