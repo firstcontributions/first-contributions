@@ -2,6 +2,7 @@
 
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Kylan Byrd] (https://github.com/aviananalyst)
+- [tolufohunsi] (https://github.com/tolufohunsi)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Banjoanton](https://github.com/banjoanton) 
