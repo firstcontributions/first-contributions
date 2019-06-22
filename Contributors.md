@@ -9841,6 +9841,7 @@ Bailey Wong
 - [Ryan Powers](https://github.com/rynpowers)
 - [Marc L](https://github.com/ShadowM0nkey)
 - [Korey K](https://github.com/KoreyKrauskopf)
+- [Sergey Kucher](https://github.com/dwurw/)
 - [Enrico G](https://github.com/euskalhenriko)
 - [Curly Brace](https://github.com/curly-brace)
 - [Oscar Ng](https://github.com/oscar2d2)
