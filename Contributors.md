@@ -35,6 +35,7 @@
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
+- [Chiranjeevi Tapal] (https://github.com/chiranjeevitapal)
 - [Maria Pettit] (https://github.com/mnope)
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
