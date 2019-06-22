@@ -9828,7 +9828,7 @@ Bailey Wong
 - [Matt Strickland](https://github.com/mstrick7)
 - [Elijah Bocz](https://gituhb.com/elijahboats)
 - [Murray Hopkins](https://github.com/flowt-au)
-- [Luke Philips](httgithub.com/Lukephil013)
+- [Luke Philips](https://github.com/Lukephil013)
 - [Uday Vunnam](https://github.com/uday4vunnam)
 - [Ahsan Ahmad](https://github.com/AhsanIO)
 - [Michael Smith](https://github.com/jsm2199)
