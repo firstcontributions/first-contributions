@@ -3,6 +3,7 @@
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Kylan Byrd] (https://github.com/aviananalyst)
+- [tolufohunsi] (https://github.com/tolufohunsi)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
