@@ -67,6 +67,7 @@ kurt Kobain
 - Dimon Barankov
 - [P Mansukhani] (https://github.com/pmansukhani)
 - [Elijah Brian] (https://github.com/thexerothermic)
+- [Lisenor] (https://github.com/Lisenor)
 - [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
