@@ -954,6 +954,7 @@ CMBloodMeridian
 - [Aashish S](https://github.com/aashishsonawane)
 - [Arthur Villar](https://github.com/tato-rj)
 - [Akshay Patil](https://github.com/ImAkPatil)
+- [Nishant Jain](https://github.com/nishantjain83)
 - [jyo]
 - [Arthur Chan](https://github.com/ArthurChan0427)
 - [Ben Ashley]
