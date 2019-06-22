@@ -2191,6 +2191,7 @@ CMBloodMeridian
 - [Silvia Vazquez](https://github.com/SilviaVazSua)
 - [Mohit Tyagi](https://github.com/Mohitty)
 - [Sean Dolan](https://github.com/snpdolan)
+- [Krishnu Pradhan](https://github.com/krishnu9)
 - [Himanshu Singh](https://github.com/himanshux101)
 - [raybalakhtar](https://github.com/raybalakhtar)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
