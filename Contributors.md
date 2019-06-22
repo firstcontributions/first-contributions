@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Sebastien Beaury] (https://github.com/sbeaury)
@@ -12443,6 +12443,7 @@ Bailey Wong
 - [Marilyn Quintero](https://github.com/MarilynQuintero)
 - [Oscar Rodriguez](https://github.com/lagartoverde)
 - [Megherea Eugeniu](https://github.com/eugeniumegherea)
+- [kwakp05](https://github.com/kwakp05)
 - [basher666](https://github.com/basher666)
 - [Riccardo Orlando](https://github.com/Riccorl)
 - [KSSBro](https://github.com/KSSBro)
