@@ -61,6 +61,7 @@ kurt Kobain
 - [Greg Chang] (https://github.com/gregchang)
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
+- [Peretz Levinov] (https://github.com/perchick03)
 - Dimon Barankov
 - [P Mansukhani] (https://github.com/pmansukhani)
 - [Elijah Brian] (https://github.com/thexerothermic)
