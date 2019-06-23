@@ -21,6 +21,7 @@
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
 - [Troy West] (https://github.com/TroyWest)
+- [Comfort Ajala] (https://github.com/ComfortAjalaOluwatimilehin)
 - [rsh12](https://github.com/rsh12)
 - [mudu93](https://github.com/mudu93)
 - [donald](https://github.com/whataas)
