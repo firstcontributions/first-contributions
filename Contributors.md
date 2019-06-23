@@ -1061,6 +1061,7 @@ CMBloodMeridian
 - [Jack Westmore](https://github.com/mrmikardo)
 - [Mat Herron](https://github.com/tinntinnabulate78)
 - [Changhyuk Lee](https://github.com/devchlee)
+- [Sameer](https://github.com/sameer18ks)
 - [Keith Ward](https://github.com/skyware)
 - [Tevy](https://github.com/Tevychhy)
 - [Jeremy Benis](https://github.com/GermCodeGood)
