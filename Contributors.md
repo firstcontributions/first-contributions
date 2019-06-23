@@ -51,6 +51,7 @@ kurt Kobain
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [Mohammad Ansari] (https://github.com/MohammadAnsari98)
+- [Ronit Yakovson] (https://github.com/ronityako)
 - [wa4It] (https://github.com/dTCTb)
 - [sonalik] (https://github.com/Sonali-Keshava-Murthy-Naik)
 - [Todd Fichman] (https://github.com/toddfichman)
