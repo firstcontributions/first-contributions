@@ -1438,6 +1438,7 @@ CMBloodMeridian
 - [Ishaan Sharma](https://github.com/Ishaan99)
 - [Rene Huang](https://github.com/noappleonhead)
 - [Neeraj Singh](https://github.com/GrayR00t)
+- [Mark Wyatt](https://github.com/markprwyatt)
 - [Akash Balani](https://github.com/balaniakash)
 - [chefknife](https://github.com/chefknife)
 - [JonathanBaernthaler] (https://github.com/JonathanBaernthaler)
