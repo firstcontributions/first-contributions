@@ -150,6 +150,7 @@ kurt Kobain
 - [Darien Schettler] (https://github.com/darien-schettler)
 - [Rabidax] (https://github.com/Rabidax)
 - [tonybebawy] (https://github.com/tonybebawy)
+  [Dane Maison](https://github.com.dane2476)
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
 - [Randhir Kumar] (https://github.com/randhirkr)
 - [Friendly Username] (https://github.com/FriendlyUsername)
