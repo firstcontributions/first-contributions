@@ -38,6 +38,7 @@
 - [timelessPy] (https://github.com/timelessPy)
 - [Jia Hao Yao] (https://github.com/kof91920) 
 - [Kushal Jain] (https://github.com/Kage18)
+- [Dave Hardcastle] (https://github.com/dhardcastle)
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
