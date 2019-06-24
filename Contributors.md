@@ -9,6 +9,7 @@
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
+- [Thomas Grutsch](https://github.com/ThomasGrutsch)
 - [Banjoanton](https://github.com/banjoanton)
 - [Jacob Barca] (https://github.com/jbarca)
 - [Jacob Chang] (https://github.com/jacobc2700)
