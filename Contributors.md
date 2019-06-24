@@ -4,6 +4,7 @@
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Kylan Byrd] (https://github.com/aviananalyst)
+- [Shantigunna] (https://github.com/shantigunna22)
 - [tolufohunsi] (https://github.com/tolufohunsi)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
