@@ -605,6 +605,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Ilkiv petro
 - Gabriel Corona
 - Harry Le
+- Hector Magana
 - Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
 - [Aditya Pillai](https://github.com/Aditya-Pillai/first-contributions.git)
