@@ -14,6 +14,7 @@
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
+- [Hector Magana]
   [David Baptista](https://github.com/hiperd00)
 - [Raman Mangla] (https://github.com/ramanmangla)
 - [Tushar Bochare](https://github.com/mytusshar)
@@ -605,7 +606,6 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Ilkiv petro
 - Gabriel Corona
 - Harry Le
-- Hector Magana
 - Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
 - [Aditya Pillai](https://github.com/Aditya-Pillai/first-contributions.git)
