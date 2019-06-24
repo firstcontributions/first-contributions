@@ -115,6 +115,7 @@ kurt Kobain
 - [umng09] (https://github.com/baibhavtripathi/)
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan] (https://github.com/michan94)
+- [Felix Melligan] (https://github.com/felix-melligan)
 - [Alexander Schlesinger] (https://github.com/alexschles)
 - [rjmax13] (https://github.com/rjmax13)
 - [Rye Guren] (https://github.com/Klereue)
