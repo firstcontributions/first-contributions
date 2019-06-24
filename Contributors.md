@@ -1995,6 +1995,7 @@ CMBloodMeridian
 - [Liza Dashevski](https://github.com/LizaDashevski)
 - [Arielle Hale](https://github.com/thoothie)
 - [Ndumiso mguni](https://github.com/nmguni)
+- [Saleem Abu Shelbayeh](https://github.com/AbuShelbayeh)
 - [Bassel Abu Elhija](https://github.com/baselx17)
 - [Kushal KC](https://github.com/kessi9400)
 - [Jayasree AG](https://github.com/agjay96)
