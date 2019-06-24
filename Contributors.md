@@ -14404,4 +14404,5 @@ skelter2014
 - [machao] (https://github.com/McSources)
 - [dudakp]  (https://github.com/dudakp/)
 - [Michael Luo] (https://github.com/michaeljluo)
+- [Nolan Baldwin] (https://github.com/NBALWDIN18)
 - [Salma Amr] (https://github.com/SalmaAmrAhmed)
