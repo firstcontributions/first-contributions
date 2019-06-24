@@ -15,7 +15,7 @@
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
 - [Hector Magana]
-  [David Baptista](https://github.com/hiperd00)
+- [David Baptista](https://github.com/hiperd00)
 - [Raman Mangla] (https://github.com/ramanmangla)
 - [Tushar Bochare](https://github.com/mytusshar)
 - [Sumit Yadav](https://github.com/sumityadav29)
