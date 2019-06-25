@@ -2480,6 +2480,7 @@ CMBloodMeridian
 - [Julian](https://github.com/julian1)
 - [Haelmorn](https://github.com/Haelmorn)
 - [Swaraj Laha SRJ](https://github.com/swarajlaha)
+- Bharath M
 - [Kushagra Gulati](https://github.com/kush1106)
 - Rich Herbert
 - [Cassidy Morgan](https://github.com/morgancassidy98)
