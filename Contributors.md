@@ -2020,6 +2020,7 @@ CMBloodMeridian
 - [Erich O](https://github.com/eohlde)
 - [Taryn Lucas](https://github.com/tarynlucas)
 - [base79](https://github.com/base79)
+- [DanaC05] (https://github.com/DanaC05)
 - [Udit Vashisht](https://github.com/uditvashisht)
 - Trenton Hall
 - Kwaku Eshun
