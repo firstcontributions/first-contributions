@@ -52,6 +52,7 @@ kurt Kobain
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
 - [Austin Marler] (https://github.com/AustinMarler)
+- [RouxpiTech](https://github.com/RouxpiTech)
 - [Michael Bonner] (https://github.com/mdb1710)
 - [Mochamad Rizki] (https://github.com/rzkidev)
 - [Raivis J] (https://github.com/Nefestus)
