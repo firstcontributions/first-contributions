@@ -173,6 +173,7 @@ kurt Kobain
 - [CarameloKevin] (https://github.com/carameloKevin)
 - [Quifisto] (https://github.com/Quifisto)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
+- [Aravind Marka](https://github.com/aravindeesh)
 - [Gary Liang] (https://github.com/Gary-Liang)
 - [Harsh Maheshwari](https://github.com/harshchinu)
 - [Lauran Ando](https://github.com/Lau7an)
