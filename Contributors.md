@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
@@ -30,6 +30,7 @@
 - [donald](https://github.com/whataas)
 - [UlVc](https://github.com/UlVc)
 - [rino23] (https://github.com/rino23)
+- [PT Prigoda] (https://github.com/paulprigoda)
 - Yudi Xu evec
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Daniel Reichert] (https://github.com/NefalemD)
