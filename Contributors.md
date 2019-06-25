@@ -20,6 +20,7 @@
 - [Raman Mangla] (https://github.com/ramanmangla)
 - [Tushar Bochare](https://github.com/mytusshar)
 - [Sumit Yadav](https://github.com/sumityadav29)
+- [Heidi Chang] (https://github.com/heidandseek)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
