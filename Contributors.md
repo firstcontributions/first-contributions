@@ -14393,6 +14393,7 @@ skelter2014
 - [Sharat Chandar M] (https://github.com/SharatChandar)
 - [Ryan Hardin]	(https://github.com/RyanHardin)
 - [Oleg Zinin] (https://github.com/OlegZinin)
+- [Alvin Tang] (https://github.com/alvintang)
 - [Kevin Chen] (https://github.com/KeChing)
 - [Ashford Hill] (http://github.com/ashfordhill)
 - [Vincent Tern] (https://github.com/vincenttern)
