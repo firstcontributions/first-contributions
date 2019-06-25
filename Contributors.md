@@ -47,6 +47,7 @@
 - [Talha Malik] (https://github.com/talham7391)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
+- [Adam Green] (https://github.com/CatByt)
 - [John Braganza] (https://github.com/Youth-Li)
 - [Chiranjeevi Tapal] (https://github.com/chiranjeevitapal)
 - [Luis Haro] (https://github.com/lharo)
