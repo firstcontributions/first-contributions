@@ -26,6 +26,7 @@
 - [Tushar Bochare](https://github.com/mytusshar)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang] (https://github.com/heidandseek)
+- [Jorene Ng] (https://github.com/joreneng)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
