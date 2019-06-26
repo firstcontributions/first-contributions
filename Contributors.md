@@ -14435,3 +14435,4 @@ skelter2014
 - [Olcay Karaduman] (https://github.com/olckara)
 - [sonianuj287] (https://github.com/sonianuj287)
 - [Ryan Andrew Sibat] (https://github.com/ryaaanandrew)
+- [bazmoz] (https://github.com/bazmoz)
