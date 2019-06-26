@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Troy Wuollet] (https://github.com/twuollet)
+- [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Kylan Byrd] (https://github.com/aviananalyst)
