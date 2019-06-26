@@ -933,6 +933,7 @@ CMBloodMeridian
 - [ripoul](https://github.com/ripoul)
 - [Saksham Saigal]
 - [Omer Liberman]
+- [Oluwaseyi Lawal](https://github.com/lawaloy)
 - [Tobi Adewuyi]
 - [gittestjp]
 - [Bryan Gelfius](https://github.com/bgelfius)
