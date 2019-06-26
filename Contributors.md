@@ -88,6 +88,7 @@ kurt Kobain
 - [Lisenor] (https://github.com/Lisenor)
 - [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
+- Darshana Jaint
 - [trialzuki] (https://github.com/trialzuki)
 - [8bitjustin] (https://github.com/8BitJustin)
 - [burak136] (https://github.com/burak136)
