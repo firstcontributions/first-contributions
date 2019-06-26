@@ -58,6 +58,7 @@ kurt Kobain
 - [Luis Haro] (https://github.com/lharo)
 - [Maria Pettit] (https://github.com/mnope)
 - Jacob Salt
+- [Victoria Zdanovskaya] (https://github.com/ladyyvii)
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
 - [Austin Marler] (https://github.com/AustinMarler)
