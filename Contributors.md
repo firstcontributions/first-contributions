@@ -11,6 +11,7 @@
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
+- [Ricardo Ramirez](https://github.com/elrick97)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
 - [Banjoanton](https://github.com/banjoanton)
 - [Jacob Barca] (https://github.com/jbarca)
