@@ -815,6 +815,7 @@ CMBloodMeridian
 - [Jesse Adkins](https://github.com/JesseAdkins91)
 - [Carsen Rapp](https://github.com/carsenrapp)
 - [wgoudsbloem]
+- [kumar Prateek](https://github.com/nerdishhomosapein)
 - [Paul Cz](https://github.com/pcz3)
 - [Huseyin Karaarslan](https://github.com/huskar20)
 - [Maruf](https:github.com/whoismaruf)
