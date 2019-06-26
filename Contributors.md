@@ -31,6 +31,7 @@ Cody Dullard
 - [Jorene Ng] (https://github.com/joreneng)
 - [Harith Sankalpa] (https://github.com/harith96)
 - [Archie Lewis] (https://github.com/acl76)
+- [Arshitha Basavaraj](https://github.com/Arshitha)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
 - [Troy West] (https://github.com/TroyWest)
