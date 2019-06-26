@@ -27,6 +27,7 @@
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang] (https://github.com/heidandseek)
 - [Jorene Ng] (https://github.com/joreneng)
+- [Harith Sankalpa] (https://github.com/harith96)
 - [Archie Lewis] (https://github.com/acl76)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
