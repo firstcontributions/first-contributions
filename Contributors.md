@@ -175,6 +175,7 @@ kurt Kobain
 - [Darien Schettler] (https://github.com/darien-schettler)
 - [Rabidax] (https://github.com/Rabidax)
 - [tonybebawy] (https://github.com/tonybebawy)
+- [Rita Tsai] (https://github.com/RitaTsai-Git)
   [Dane Maison](https://github.com.dane2476)
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
 - [Randhir Kumar] (https://github.com/randhirkr)
