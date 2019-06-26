@@ -14434,3 +14434,4 @@ skelter2014
 - [Adrian Cruz] (https://github.com/ainzacruz)
 - [Olcay Karaduman] (https://github.com/olckara)
 - [sonianuj287] (https://github.com/sonianuj287)
+- [chris] (https://github.com/chris-hesser)
