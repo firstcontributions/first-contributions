@@ -372,6 +372,7 @@ Daniel Jung
 - [Nirakar Puri] (https://github.com/nirakarpuri)
 - [Michael Lucic](https://github.com/mlucic2014)
 - [Allyson Frazier] (https://github.com/allyson09)
+- [Aditya Ravichandran] (https://github.com/archnomed)
 - [Medha Pandey](https://github.com/Medha08)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Camelicax](https://github.com/camelicax)
