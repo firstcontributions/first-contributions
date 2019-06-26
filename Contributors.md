@@ -14439,4 +14439,4 @@ skelter2014
 - [sonianuj287] (https://github.com/sonianuj287)
 - [Ryan Andrew Sibat] (https://github.com/ryaaanandrew)
 - [bazmoz] (https://github.com/bazmoz)
-- [Jayzak] (https://github.com/jayzal)
+- [JayZal] (https://github.com/jayzal)
