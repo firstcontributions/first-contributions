@@ -6,7 +6,7 @@
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
+|<a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200"></a>|<a href="https://desktop.github.com/">GitHub Desktop Edition</a>|
 |---|---|
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
