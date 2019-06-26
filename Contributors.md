@@ -230,6 +230,7 @@ Andrew Scheper
 Joshua Cronin
 - [John Joseph] (https://github.com/contactjw) 
 - [Aviral Verma] (https://github.com/aviral-verma) 
+- [Swapnil Suhane] (https://github.com/swapnilsuhane)
 - [Tish G] (https://github.com/TishG)
 - [Harikrishnan P] (https://github.com/harip3003)
 - [Alexander Bejarano] (https://github.com/abejaranoh)
