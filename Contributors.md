@@ -88,6 +88,7 @@ kurt Kobain
 - [leolimabh](https://github.com/leolimabh)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
 - [Greg Chang] (https://github.com/gregchang)
+- [Avishek Sharma] (https://github.com/Aviadonis)
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Peretz Levinov] (https://github.com/perchick03)
