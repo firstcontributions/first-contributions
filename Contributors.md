@@ -14399,7 +14399,6 @@ skelter2014
 -[Sam McRuvie] (https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
-- [Priyank Patel](https://github.com/pp2309)
 - [Titus Wen] (https://github.com/wen372)
 - [Toni Blackwelder] (https://github.com/toni517b)
 - [Takeen Evens] (https://github.com/TakiiCoder)
@@ -14445,3 +14444,4 @@ skelter2014
 - [Sayem Wani] (https://github.com/SayemW)
 - [Luke Colpo] (https://github.com/lukecolpo/first-contributions)
 - [Alan da Matta] (https://github.com/alandamatta)
+- [Priyank Patel](https://github.com/patel-priyank)
