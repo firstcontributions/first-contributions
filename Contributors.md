@@ -4,6 +4,7 @@
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Sebastien Beaury] (https://github.com/sbeaury)
+- [Pradyumn Sharma](https://github.com/sharmapradyumn)
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Shantigunna] (https://github.com/shantigunna22)
 - [tolufohunsi] (https://github.com/tolufohunsi)
