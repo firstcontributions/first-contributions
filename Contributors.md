@@ -12,6 +12,7 @@ Cody Dullard
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
+- [Swapnil Goyal] (https://github.com/anon20)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Ricardo Ramirez](https://github.com/elrick97)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
