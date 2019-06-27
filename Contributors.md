@@ -14451,3 +14451,4 @@ skelter2014
 - [Sayem Wani] (https://github.com/SayemW)
 - [Luke Colpo] (https://github.com/lukecolpo/first-contributions)
 - [Alan da Matta] (https://github.com/alandamatta)
+- [Ameya Joshi] (https://github.com/joshiameya99)
