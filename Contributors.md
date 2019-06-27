@@ -23,6 +23,7 @@ Cody Dullard
 - [Matthew Finley](https://github.com/m-fin)
 - [Hector Magana]
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
+- [Haridutt Jani] (https://github.com/hariduttt)
 - [Elena Lestini](https://github.com/Ellie2020)
 - [Ahmed Khalil Jerbi](https://github.com/HamoudaJoe)
 - [Shakti Ratan](https://github.com/sat5297)
