@@ -2,6 +2,7 @@
  
 - [Troy Wuollet] (https://github.com/twuollet)
 Cody Dullard
+- aish25252
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
@@ -590,6 +591,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Dale Holstein (https://github.com/zarnerz)
 - David An
 - Alice Always
+- aish
 - Mini Mel (https://github.com/Mini-mel)
 - Bug2k19
 - Sajith Bandara
