@@ -46,6 +46,7 @@ Cody Dullard
 - Yudi Xu evec
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Daniel Reichert] (https://github.com/NefalemD)
+- [Eric Hsu] (https://github.com/ehsu4220)
 - [Pieter Oosthuizen] (https://github.com/pieter-oosthuizen)
 - [SergeyTkachenko-Cj] (https://github.com/SergeyTkachenko-Cj)
 -[ColtMulk] (https://github.com/ColtMulk)
