@@ -67,6 +67,7 @@ Cody Dullard
 - [Abhin Lingamaneni] (https://github.com/abhin1899)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
+- [Bill Wagner](https://github.com/billwagner3)
 - [Adam Green] (https://github.com/CatByt)
 - [John Braganza] (https://github.com/Youth-Li)
 - [Dominik Bilski](https://github.com/Kinimod12)
