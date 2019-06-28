@@ -66,6 +66,7 @@ Cody Dullard
 kurt Kobain
 - [Adam Green] (https://github.com/CatByt)
 - [John Braganza] (https://github.com/Youth-Li)
+- [Dominik Bilski](https://github.com/Kinimod12)
 - [Chiranjeevi Tapal] (https://github.com/chiranjeevitapal)
 - [Luis Haro] (https://github.com/lharo)
 - [Maria Pettit] (https://github.com/mnope)
