@@ -25,6 +25,7 @@ Cody Dullard
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Hector Magana]
+- [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
 - [Elena Lestini](https://github.com/Ellie2020)
