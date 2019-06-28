@@ -2722,6 +2722,7 @@ CMBloodMeridian
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
+- [Michael Haas](https://github.com/micha2718l)
 - [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
 - [Swastik Anand Tripathi](https://github.com/swastikanandtripathi)
