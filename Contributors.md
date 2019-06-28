@@ -22,6 +22,7 @@ Cody Dullard
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
+- [Jeff Cohen](https://github.com/jcohen120)
 - [Hector Magana]
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
