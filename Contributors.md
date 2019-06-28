@@ -23,6 +23,7 @@ Cody Dullard
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
 - [Jeff Cohen](https://github.com/jcohen120)
+- [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Hector Magana]
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
