@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
  
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
@@ -203,6 +203,7 @@ kurt Kobain
 - [Aju Tamang](https://github.com/Aju100)
 - [Josh Zheng] (https://github.com/jadeGeist)
 - [Jason Hall](https://github.com/jsnhall)
+- [Shahriar Kabir](https://github.com/shahria73)
 - [Alejandro González](https://github.com/agfonte)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
