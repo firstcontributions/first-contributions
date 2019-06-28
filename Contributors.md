@@ -14457,6 +14457,7 @@ skelter2014
 - [bazmoz] (https://github.com/bazmoz)
 - [JayZal] (https://github.com/jayzal)
 - [Sayem Wani] (https://github.com/SayemW)
+- [William Spruyt] (https://github.com/SayemW)
 - [Luke Colpo] (https://github.com/lukecolpo/first-contributions)
 - [Alan da Matta] (https://github.com/alandamatta)
 - [Ameya Joshi] (https://github.com/joshiameya99)
