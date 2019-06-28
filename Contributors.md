@@ -14402,6 +14402,7 @@ skelter2014
 -[AbdulMuqeeth Mohammed] (https://github.com/abdulmuqeeth)
 - [Virag Umathe] (https://github.com/viragumathe5)
 -[Kyle Morris] (https://github.com/assimil0)
+- [Murphy Yip] (https://github.com/mfmyip)
 -[Ezechio] (https://github.com/ezechio)
 -[Lily Chen] (https://github.com/liliburg711)
 -[Sam McRuvie] (https://github.com/SamMcRuvie)
