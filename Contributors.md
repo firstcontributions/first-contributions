@@ -345,6 +345,7 @@ Daniel Jung
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Dominic Jesse] (https://github.com/aphorism44)
 - [Varshini Ananta] (https://github.com/sananta) 
+- [Alexander Cai] (https://github.com/piguyinthesky)
 - [Gerald Bruno] (https://github.com/NephilimEyez)
 - [Random-VI Innocent] (https://github.com/randomvi) 
 - [Kyle Spresser] (https://github.com/keyspress)
