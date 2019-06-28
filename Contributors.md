@@ -51,6 +51,7 @@ Cody Dullard
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Teresa Kuziak] (https://github.com/Tkuziak)
 - [Daniel Reichert] (https://github.com/NefalemD)
+- [Eric Hsu] (https://github.com/ehsu4220)
 - [Pieter Oosthuizen] (https://github.com/pieter-oosthuizen)
 - [SergeyTkachenko-Cj] (https://github.com/SergeyTkachenko-Cj)
 -[ColtMulk] (https://github.com/ColtMulk)
