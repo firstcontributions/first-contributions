@@ -4,6 +4,7 @@
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
+- [Lulu Ovando] (https://github.com/ovando-lulu)
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
 - [Kylan Byrd] (https://github.com/aviananalyst)
