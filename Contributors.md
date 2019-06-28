@@ -13687,6 +13687,7 @@ Bailey Wong
 - [Toni Oshikanlu](https://github.com/tonioshikanlu/)
 - [Khiarov](https://github.com/khiarov/)
 - [drmartin66](https://github.com/drmartin66/)
+- [rakinne](https://github.com/rakinne)
 - [tullur](https://github.com/tullur)
 - [showstiller](https://github.com/showstiller)
 - [William Carattini](https://github.com/Suddenrebel)
