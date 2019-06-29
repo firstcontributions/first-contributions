@@ -17,6 +17,7 @@ Cody Dullard
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Kai Wu] (httsp://github.com/Kaaii)
+- [Mateusz Piguła] (httsp://github.com/mateuszpigula)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Swapnil Goyal] (https://github.com/anon20)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
