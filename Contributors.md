@@ -2313,6 +2313,7 @@ CMBloodMeridian
 - [Harshdeep Singh](http://github.com/Harshdeeps4295)
 - rahul kukreja
 - Josika Kar
+- [Debasish Patnaik](https://github.com/debasish-patnaik)
 - [Heysem Ugurlu](https://github.com/Heysem)
 - [Simon Bergeron](https://github.com/simber21)
 - [Joshua Love](https://github.com/)
