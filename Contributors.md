@@ -8419,6 +8419,7 @@ Bailey Wong
 - [Shehan Dhaleesha](https://github.com/shehand)
 - [gkchan](https://github.com/gkchan)
 - [Kiki Batterson](https://github.com/ki2batt)
+- [Christopher Flocke](https://github.com/cflocke)
 - [Zane Mather](https://github.com/Zanemonkey)
 - [Iain Logan](https://github.com/iainlogan)
 - [Truc Lam Bui](https://github.com/buj)
