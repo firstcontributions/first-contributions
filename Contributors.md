@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
  
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
@@ -83,6 +83,7 @@ kurt Kobain
 - [Austin Marler] (https://github.com/AustinMarler)
 - [RouxpiTech](https://github.com/RouxpiTech)
 - [Michael Bonner] (https://github.com/mdb1710)
+- [Ofir Isakov](https://github.com/OfirIsakov)
 - [Mochamad Rizki] (https://github.com/rzkidev)
 - [Raivis J] (https://github.com/Nefestus)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
