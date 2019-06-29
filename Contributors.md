@@ -22,6 +22,7 @@ Cody Dullard
 - [Ricardo Ramirez](https://github.com/elrick97)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
 - [Banjoanton](https://github.com/banjoanton)
+- [Ali Yamini](https://github.com/opeerator)
 - [Jacob Barca] (https://github.com/jbarca)
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
