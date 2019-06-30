@@ -9124,6 +9124,7 @@ Bailey Wong
 - [Achilleas Tzenetopoulos](https://github.com/iwita)
 - [SakHam](https://github.com/SakHam)
 - [Sumant Sahney](https://github.com/sumantsahney)
+- [Anthony Barberis](https://github.com/anthonybarberis)
 - [Brendan Perry](https://github.com/brendanperry05)
 - [Bradley Dong](https://github.com/newcasio)
 - [Francisco Rodrigues](https://github.com/FRodrigues21)
