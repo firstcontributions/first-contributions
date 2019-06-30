@@ -14484,3 +14484,4 @@ skelter2014
 - [Bradley Delgado] (https://github.com/Brakeo)
 - [grzegorzgit] (https://github.com/grzegorzgit)
 - [SudeepaGo](https://github.com/SudeepaGo)
+- [David Gutierrez-McCormack](https://github.com/davidmccormack)
