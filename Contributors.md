@@ -5,6 +5,7 @@
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
+- [Cesar A. Perez] (https://github.com/PerezArmando)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
