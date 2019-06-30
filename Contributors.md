@@ -1,5 +1,5 @@
 # Contributors
- 
+
  -[Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
@@ -1513,6 +1513,7 @@ CMBloodMeridian
 - [James Brady](https://github.com/jlbrady)
 - [Josh R](https://github.com/jr2684)
 - [Roman Barnoul](https://github.com/Barnoul)
+- Ryan Higoo
 - [Damian Behymer](https://github.com/ProjectTermina)
 - [Jowensky Neard](https://github.com/Jowensky)
 - [Pap Gergő Bence](https://github.com/szarhaz)
