@@ -193,6 +193,7 @@ kurt Kobain
 - [Robin Geissmann] (https://github.com/geissmannsbin)
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
+- [Vairav Lakshmanan] (https://github.com/vairavlaksh)
 - [Ryan Levitt] (https://github.com/rlevv)
 - [Ryan Fox] (https://github.com/ryanfox-software)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
