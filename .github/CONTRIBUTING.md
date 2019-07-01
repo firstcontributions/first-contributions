@@ -422,4 +422,4 @@ If you're making changes to a translation, please request a review from our prev
     </tr>
  </table>
     
-
+<p> Denis Zaichenko </p>
