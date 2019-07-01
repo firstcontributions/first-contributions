@@ -6,6 +6,7 @@
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Cesar A. Perez] (https://github.com/PerezArmando)
+- [alli] (https://github.com/alli-c)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
