@@ -5421,6 +5421,7 @@ CMBloodMeridian
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
+- [Manuel Seromenho](https://github.com/manuelseromenho)
 - [Ratika Bhuwalka](http://github.com/ratikabhuwalka)
 - Ephesius
 - [The Sicilian Bull](https://github.com/denisjlanza)
