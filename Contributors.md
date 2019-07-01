@@ -294,6 +294,7 @@ Joshua Cronin
 - [nmenal](https://github.com/nmenal)
 - [stonooaks](https://github.com/stonooaks)
 - [Ariel Cooper] (https://github.com/featherboa50)
+- [Klaus Schmidt] (https://github.com/syslen)
 - [Doug McQuinn] (https://github.com/wdmcquinn)
 - [Matthias Ko] (https://github.com/matthiashk)
 - [Pawelus Sysiakus](https://github.com/pawsys)
