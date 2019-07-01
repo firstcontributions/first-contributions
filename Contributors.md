@@ -9651,6 +9651,7 @@ Bailey Wong
 - [Paul Sethre](https://github.com/radarthreat)
 - [Jessica Sutton](https://github.com/jmsutton0703)
 - [Mavroian Florin](https://github.com/mavroian)
+- [Paul Redondo](https://github.com/tarto6tron)
 - [Jack Lange](https://github.com/bld456)
 - [Michael Calabrese](https://github.com/MichaelCalabrese)
 - [Rinal P](https://github.com/rinal96)
