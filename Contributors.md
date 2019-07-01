@@ -50,6 +50,7 @@ Cody Dullard
 - [Archie Lewis] (https://github.com/acl76)
 - [Arshitha Basavaraj](https://github.com/Arshitha)
 - [Shubham Gandhi](https://github.com/aiBotShubham)
+- [Neeraj Samtani] (https://github.com/neerajsamtani)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
 - [Troy West] (https://github.com/TroyWest)
