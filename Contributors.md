@@ -7268,6 +7268,7 @@ Bailey Wong
 - [ACB132](https://github.com/acb132)
 - [TheZenti](https://github.com/TheZenti)
 - [Matheus Lucena](https://github.com/matehuslucena)
+- [Paul Vasiu](https://github.com/plva)
 - [Galleria](https://github.com/Galleria)
 - [Fabio Leardini](https://github.com/fabioleardini)
 - [Kirill Motkov](https://github.com/sosiska)
