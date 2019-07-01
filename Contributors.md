@@ -3988,6 +3988,7 @@ CMBloodMeridian
 - Evan Rives
 - maskedCat
 - Nachiappan Senthil Kumar
+- [Will Holmes](https://github.com/wjh18)
 - [Yixian Chen](https://github.com/yxnchen)
 - [Rushit Jasani](https://github.com/rushitjasani)
 - [Tim Lucca](https://github.com/TimLucca)
