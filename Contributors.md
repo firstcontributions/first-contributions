@@ -3607,6 +3607,7 @@ CMBloodMeridian
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
 - [David Peletz](https://github.com/dpeletz)
+- [Matthew Fallon](https://github.com/MatthewFallon)
 - [souragc](https://github.com/souragc)
 - [Palwasha Pordeli](https://github.com/pal-p)
 - [Pranav Bhatia](https://github.com/PranavBhatia)
