@@ -14499,6 +14499,7 @@ skelter2014
 - [grzegorzgit] (https://github.com/grzegorzgit)
 - [SudeepaGo](https://github.com/SudeepaGo)
 - [Vince Grilli] (https://github.com/VinceGrilli)
+- [Farhat SH](https://github.com/farhatcode)
 - [David Gutierrez-McCormack](https://github.com/davidmccormack)
 - [Joachim Miens](https://github.com/jojo58fr)
 - [Name](name)
