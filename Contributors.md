@@ -5964,6 +5964,7 @@ Bailey Wong
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - [Alessandro Ruzza](https://github.com/AlexxRuzza)
+- [Martin Jähn](https://github.com/infmja)
 - [Subhag Bhatia](https://github.com/subhag7)
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
