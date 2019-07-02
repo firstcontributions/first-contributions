@@ -37,6 +37,7 @@ Cody Dullard
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Hector Magana]
+- [ohm Resistance]
 - [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
