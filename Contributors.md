@@ -28,6 +28,7 @@ Cody Dullard
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Swapnil Goyal] (https://github.com/anon20)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
+- [Colin Anderson] (https://github.com/40216006)
 - [Will K]
 - [Ricardo Ramirez](https://github.com/elrick97)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
