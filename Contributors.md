@@ -19,6 +19,7 @@ Cody Dullard
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Shantigunna] (https://github.com/shantigunna22)
 - [tolufohunsi] (https://github.com/tolufohunsi)
+- [asollish] (https://github.com/asollish)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
