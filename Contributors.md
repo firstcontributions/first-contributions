@@ -7,6 +7,7 @@
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Cesar A. Perez] (https://github.com/PerezArmando)
+- [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Kirito-k] (https://github.com/kirito-k)
