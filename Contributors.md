@@ -9502,6 +9502,7 @@ Bailey Wong
 - [Henrik Lehmann](https://github.com/Lehmannhen)
 - [Michael Pardo](https://github.com/michaelpuw)
 - [Chris Burton](https://github.com/burtoncl)
+- [Bhavin Kansagara](https://github.com/bhavinkansagara)
 - [Junnan Wang](https://github.com/JuneW49)
 - [Samarth Aggarwal](https://github.com/samarthaggarwal)
 - [Samarth Patel](https://github.com/SamarthAP)
