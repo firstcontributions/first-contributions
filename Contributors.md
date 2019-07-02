@@ -1,7 +1,7 @@
 # Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
-- [Bhavin Kansagara] (https://github.com/bhavinkansagara)
+- [Bhavin Kansagara](https://github.com/bhavinkansagara)
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
