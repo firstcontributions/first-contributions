@@ -37,6 +37,7 @@ Cody Dullard
 - [Mateo Marenco](https://github.com/Mateo74)
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
+- [Ryan Chen](https://github.com/bh-c)
 - [Hector Magana]
 - [ohm Resistance]
 - [Philip Simmons](https://github.com/oghusky)
