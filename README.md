@@ -153,6 +153,59 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
+Ideally your changes will be automatically merged into the system if nothing is wrong with your commits.
+
+## My commit wouldn't merge correctly
+
+One easy way to check why your commit didn't merge is to check the git diff (git differences) of the commit to see if you tried to commit something you didn't intend to. You can look at this right on github by clicking on the "Files changed" tab and it will show the exact changes you made in which files.
+
+You can also check with git from the command line with:
+```
+git diff master
+```
+
+This will show you the changes that you made to your branch from the master branch you started with.
+```
+$ git diff master
+diff --git a/Contributors.md b/Contributors.md
+index 2bbceb952..05ad296aa 100755
+diff --git a/Contributors.md b/Contributors.md
+index 2bbceb952..05ad296aa 100755
+--- a/Contributors.md
++++ b/Contributors.md
+@@ -710,7 +710,7 @@ CMBloodMeridian
+ - [Evan Bailey](https://github.com/Spacetime02)
+ - Abdelkader Lagha
+ - [ENRokh](https://girhub.com/ENRokh)
+-- [Vinay Kumar](https://github.com/vinayk18)   
++- [Vinay Kumar](https://github.com/vinayk18)
+ - [Monty Britton](https://github.com/MontyBr)
+ - Christina Luna (https://github.com/christinaluna)
+ - Ashwani (https://github.com/ashwani12131)
+@@ -2265,6 +2265,7 @@ CMBloodMeridian
+ - [S-Tim](https://github.com/s-tim)
+ - [Muhammad Ijaz](https://github.com/mejaz992)
+ - [Rextobotu](https://github.com/rextobotu)
++- Fake Name
+ - Carla
+ - Codebee - Amitha here
+ - [Chris Wade-Evans](https://github.com/wadeevans)
+
+```
+
+In this example output you can see that I added a fake name `+- Fake Name` but I also seem to have accidentally changed another line.
+
+```
+-- [Vinay Kumar](https://github.com/vinayk18)   
++- [Vinay Kumar](https://github.com/vinayk18)
+```
+
+The change isn't obvious, but it's a common issue I've seen popping up. Popular text editors (one being Atom) may try to autoformat the file when saving it and will delete spaces at the end of lines, changing other peoples contributions unintentionally.
+
+If you find that this occurred the easiest fix will be to start again with a new different branch and follow the tutorial again using a different text editor (vim or nano in the terminal would be quick alternative, or sublime text for graphical editors)
+
+Afterwards also remember to close the pull request you made that didn't work. 
+
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
