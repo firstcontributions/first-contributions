@@ -1,13 +1,17 @@
 ﻿# Contributors
 
+- [ManegJemo](https://github.com/L170300101)
+- [Abhishek Bhandari]
 - [Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Troy Wuollet](https://github.com/twuollet)
 - [phongnguyen39](https://github.com/phongnguyen39)
 - Cody Dullard
 - [Jung-Won Ha](https://github.com/JungWonHa)
 - [Cesar A. Perez](https://github.com/PerezArmando)
+- [Antonio Arroyave](https://github.com/AntonioArroyave)
 - [alli](https://github.com/alli-c)
 - [Sid Hackney](https//github.com/practicalmess)
+- [Kirito-k](https://github.com/kirito-k)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando](https://github.com/ovando-lulu)
 - [Sebastien Beaury](https://github.com/sbeaury)
@@ -15,6 +19,7 @@
 - [Kylan Byrd](https://github.com/aviananalyst)
 - [Shantigunna](https://github.com/shantigunna22)
 - [tolufohunsi](https://github.com/tolufohunsi)
+- [asollish](https://github.com/asollish)
 - [Jordon Ulrich](https://github.com/jodgey)
 - [OfficialOzioma](https://github.com/OfficialOzioma)
 - [Vama Mehta](https://github.com/vamagithub)
@@ -22,7 +27,7 @@
 - [Mateusz Piguła](httsp://github.com/mateuszpigula)
 - [Akshat Tyagi](https://github.com/akshatyagi)
 - [Swapnil Goyal](https://github.com/anon20)
-- [Ash Abrahamson](https://github.com/JuicySun99)
+- [Ash Abrahamson](https://github.com/JuicySun99
 - [Will K]
 - [Ricardo Ramirez](https://github.com/elrick97)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
@@ -35,7 +40,9 @@
 - [Mateo Marenco](https://github.com/Mateo74)
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
+- [Ryan Chen](https://github.com/bh-c)
 - [Hector Magana]
+- [ohm Resistance]
 - [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani](https://github.com/hariduttt)
@@ -5965,6 +5972,7 @@
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
 - [Alessandro Ruzza](https://github.com/AlexxRuzza)
+- [Martin Jähn](https://github.com/infmja)
 - [Subhag Bhatia](https://github.com/subhag7)
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
@@ -9504,6 +9512,7 @@
 - [Henrik Lehmann](https://github.com/Lehmannhen)
 - [Michael Pardo](https://github.com/michaelpuw)
 - [Chris Burton](https://github.com/burtoncl)
+- [Bhavin Kansagara](https://github.com/bhavinkansagara)
 - [Junnan Wang](https://github.com/JuneW49)
 - [Samarth Aggarwal](https://github.com/samarthaggarwal)
 - [Samarth Patel](https://github.com/SamarthAP)
@@ -14524,3 +14533,6 @@
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
 - [Janko Bosnjakovic](https://github.com/jb-99)
+- [Andres Garcia](https://github.com/belsierre)
+- [Trent Bosak](https://github.com/bosaktrent)
+- [Iftakhar Alam Rizve](https://github.com/Iftakharalamrizve)
