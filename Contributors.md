@@ -44,6 +44,7 @@ Cody Dullard
 - [Ryan Chen](https://github.com/bh-c)
 - [Hector Magana]
 - [ohm Resistance]
+- [Fateme Ataee](https://github.com/fatemeataee)
 - [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
