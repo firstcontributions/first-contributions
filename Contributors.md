@@ -45,6 +45,7 @@ Cody Dullard
 - [Hector Magana]
 - [ohm Resistance]
 - [Fateme Ataee](https://github.com/fatemeataee)
+- [Noorul Ameen K M](https://github.com/lakdivian)
 - [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
