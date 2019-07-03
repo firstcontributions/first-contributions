@@ -10,6 +10,7 @@ Cody Dullard
 - [Cesar A. Perez] (https://github.com/PerezArmando)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
+- [Max Yurs] (https://github.com/MaxYurs)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Kirito-k] (https://github.com/kirito-k)
 - [Iñaki Liendo](https://github.com/tempdata73)
