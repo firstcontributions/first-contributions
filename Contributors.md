@@ -72,6 +72,7 @@ Cody Dullard
 - [rino23] (https://github.com/rino23)
 - [PT Prigoda] (https://github.com/paulprigoda)
 - Yudi Xu evec
+- Giovanni L.
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Teresa Kuziak] (https://github.com/Tkuziak)
 - [Daniel Reichert] (https://github.com/NefalemD)
