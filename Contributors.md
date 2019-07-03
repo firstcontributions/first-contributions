@@ -5561,6 +5561,7 @@ CMBloodMeridian
 - [Alakhator](https://github.com/Alakhator)
 - [Alex Chiang](https://github.com/kschiang19)
 - [Hector SM](https://github.com/ZhectorSM)
+- [Rike E.] (https://github.com/gitfrosh/)
 - [Emily Yu](https://github.com/Lumina)
 - [Martin Ng](https://github.com/martinngy)
 - [Dovydas Ciomenas](https://github.com/icouldbreathe)
