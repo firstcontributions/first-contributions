@@ -52,6 +52,7 @@ Cody Dullard
 - [Ahmed Khalil Jerbi](https://github.com/HamoudaJoe)
 - [Shakti Ratan](https://github.com/sat5297)
 - [David Baptista](https://github.com/hiperd00)
+- [Simon Marynissen](https://github.com/SimonMarynissen)
 - [Raman Mangla] (https://github.com/ramanmangla)
 - [Tushar Bochare](https://github.com/mytusshar)
 - [Sumit Yadav](https://github.com/sumityadav29)
