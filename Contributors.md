@@ -24,6 +24,7 @@ Cody Dullard
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Kai Wu] (httsp://github.com/Kaaii)
+- [Alex Mendiola] (https://github.com/kmannarbor)
 - [Mateusz Piguła] (httsp://github.com/mateuszpigula)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Swapnil Goyal] (https://github.com/anon20)
