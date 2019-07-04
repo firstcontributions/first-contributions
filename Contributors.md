@@ -14545,3 +14545,4 @@ skelter2014
 - [Nanthakarn limkool] (https://github.com/ZEZAY)
 - [Bishnu Murmu] (https://github.com/bishnumurmu)  
 - [Sergey Rudenko](https://github.com/rudensergey)
+- [Ron Mallory](https://github.com/RonMallory)
