@@ -163,6 +163,7 @@ kurt Kobain
 - [Ridwan Balogun](https://github.com/ridbay/)
 - [Coruna] (https://github.com/Coruna)
 - [Tegtaranjit Singh] (https://github.com/EnTaroAiur)
+- [DivyaHarish] (https://github.com/DivyaHarish)
 - [Khaled Elfakharany] (https://github.com/FakharanyDeveloper)
 - [Eunice](https://github.com/euniceyeung1)
 - [Ron Eggler] (https://github.com/reggler)
