@@ -12924,6 +12924,7 @@ Bailey Wong
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Erez](https://github.com/ErezSchwartz)
 - [aswathikb](https://github.com/aswathikb)
+- [bergstenarn](https://github.com/begstenarn)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Nathecia Cunha](https://github.com/nathecia)
 - [Waun Broderick](https://github.com/WaunBroderick)
