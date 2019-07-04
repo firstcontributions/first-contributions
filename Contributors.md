@@ -9835,6 +9835,7 @@ Bailey Wong
 - [Nicholas-Halvorsen](https://github.com/nickrhalvorsen)
 - [Ed-Davis](https://github.com/Ed-Davis)
 - [TJ Park](https://github.com/tginx)
+- [Mark Berger](https://github.com/mabergerx)
 - [Emma Robbins](https://github.com/smartsupial)
 - [Shivprasad Sagare](https://github.com/shivprasadsagare)
 - [Kusado](https://github.com/Kusado)
