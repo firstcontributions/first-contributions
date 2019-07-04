@@ -7,6 +7,7 @@
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
+- [Uthpala Pathirana] (https://github.com/uthpalasp)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Cesar A. Perez] (https://github.com/PerezArmando)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
