@@ -1335,6 +1335,7 @@ CMBloodMeridian
 - Abbas
 - [Devendra Singh Shekhawat](https://github.com/dev-313)
 - [Angela Liu](https://github.com/rgangela99)
+- [Andrew Zick](https://github.com/aezick)
 - Vindi
 - [Leos Abraham](https://github.com/leos1999)
 - [George Bowers](https://github.com/gergeb)
