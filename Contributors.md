@@ -427,6 +427,7 @@ Daniel Jung
 - [Allyson Frazier] (https://github.com/allyson09)
 - [Aditya Ravichandran] (https://github.com/archnomed)
 - [Medha Pandey](https://github.com/Medha08)
+- [Rishabh Kumar](https://github.com/Rishabh0712)
 - [Hasan Al Sulaiman] (https://github.com/Hasan-Ali)
 - [Camelicax](https://github.com/camelicax)
 - [Lavender Ding](https://github.com/Lavender-Ding)
