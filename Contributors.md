@@ -7997,6 +7997,7 @@ Bailey Wong
 - [I Made Suparsana](https://github.com/suparsana21)
 - [Ivan Tran](https://github.com/ptran213)
 - [Petr Todorov](https://github.com/PetrTodorov)
+- [Brian Smith](https://github.com/BrianRSmith)
 - [Hannarae Nam](https://github.com/hannaraenam)
 - [Philip Bolting](https://github.com/conphibo)
 - [Fergal O'Connor](https://github.com/fergaljamesoconnor/)
