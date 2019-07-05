@@ -616,6 +616,7 @@ Aryan Gupta (@withoutwaxaryan)
 - Victor R
 - Molly Johnson
 - Titan
+- Perttu Raivio
 - Nikhil Mehta
 - Tzu Yun Fan Chiang (https://github.com/TzuYun)
 - Alexis Valenciano (https://github.com/allexxis)
