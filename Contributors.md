@@ -108,6 +108,7 @@ kurt Kobain
 - Jacob Salt
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
+- [Insia Khambhati](https://github.com/InsiaKhambhati)
 - [Austin Marler] (https://github.com/AustinMarler)
 - [RouxpiTech](https://github.com/RouxpiTech)
 - [Michael Bonner] (https://github.com/mdb1710)
