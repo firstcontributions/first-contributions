@@ -35,6 +35,7 @@ Cody Dullard
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Colin Anderson] (https://github.com/40216006)
 - [Will K]
+- [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
 - [Felipe Segall] (https://github.com/fsegall)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
