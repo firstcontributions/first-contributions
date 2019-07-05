@@ -8119,6 +8119,7 @@ Bailey Wong
 - [Shel Benfield](https://github.com/camrhosyn)
 - [Mike D](https://github.com/myked)
 - [Sello Ramolelle](https://github.com/sello-rex/)
+- [David Worn](https://github.com/davidworn)
 - [Gareth Ensor](https://github.com/garens80)
 - [Ben Stitt](https://github.com/galacticdeep)
 - [Morgan Lovett](https://github.com/mrlovett)
