@@ -1782,6 +1782,7 @@ CMBloodMeridian
 - [Rachel](https://github.com/rachelestherg)
 - [Rajdeep](https://github.com/RajdeepPy)
 - [kdg](https://github.com/dgkk)
+- [Elias Mäkelä](https://github.com/elkku26)
 - [Dylan Sigler](https://github.com/jsigler47)
 - [dtt](https://github.com/thanhtrungit25)
 - [Brandon Hall](https://github.com/bthall16)
