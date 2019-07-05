@@ -22,6 +22,7 @@ Cody Dullard
 - [Shantigunna] (https://github.com/shantigunna22)
 - [tolufohunsi] (https://github.com/tolufohunsi)
 - [asollish] (https://github.com/asollish)
+- [Nasim](https://github.com/nasimUddin)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
