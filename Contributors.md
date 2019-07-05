@@ -21,6 +21,7 @@ Cody Dullard
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Shantigunna] (https://github.com/shantigunna22)
+- [Henry Akwerigbe] (https://github.com/Henadek)
 - [tolufohunsi] (https://github.com/tolufohunsi)
 - [asollish] (https://github.com/asollish)
 - [Nasim](https://github.com/nasimUddin)
