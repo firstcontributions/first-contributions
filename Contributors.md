@@ -424,6 +424,7 @@ Daniel Jung
 - Kaobe Osolu
 - [Casey Godbout] (https://github.com/cgodbout412)
 - [Justin Gagnon] (https://github.com/Aadrik)
+- [Siddharth Mathiazhagan] - (https://github.com/Siddharthm1991)
 - [Jessica Poe](https://github.com/jesspoe)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - [RayQuan Kennedy](https://github.com/RaymaTheCoder)
