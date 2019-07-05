@@ -1899,6 +1899,7 @@ CMBloodMeridian
 - [Shaun Mitchell](https://github.com/ShaunMitchell98)
 - [Antoine Catt](https://github.com/antoinecatt)
 - [Sawyer Nye](https://github.com/sawyer-nye)
+- [Veera Raghavan](https://github.com/VeeraRaghavan8)
 - [Andre Brasil](https://github.com/oliva20)
 - [Mihai Botea](https://github.com/thortfultech/)
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
