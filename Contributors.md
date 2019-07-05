@@ -113,6 +113,7 @@ kurt Kobain
 - [Ofir Isakov](https://github.com/OfirIsakov)
 - [Mochamad Rizki] (https://github.com/rzkidev)
 - [Raivis J] (https://github.com/Nefestus)
+- [Vlad Burlutskiy] (https://github.com/nezlobnaya)
 - [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Nebi Tessema] (https://github.com/nebi-tessema)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
