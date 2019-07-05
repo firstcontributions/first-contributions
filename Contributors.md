@@ -36,6 +36,7 @@ Cody Dullard
 - [Colin Anderson] (https://github.com/40216006)
 - [Will K]
 - [Ricardo Ramirez](https://github.com/elrick97)
+- [Felipe Segall] (https://github.com/fsegall)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
 - [Banjoanton](https://github.com/banjoanton)
 - [Ali Yamini](https://github.com/opeerator)
