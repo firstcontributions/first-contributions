@@ -5072,6 +5072,7 @@ CMBloodMeridian
 - [Nkg18](https://github.com/Nkg18)
 - Luke Covalt
 - [jhonof](https://github.com/jhonof)
+- [Segun Akinbode](https://github.com/SEAnrd001)
 - [Ifyokoh](https://github.com/Ifyokoh)
 - [Eone Rizuwan](https://github.com/EoneRizuwan)
 - [lancelot1337](https://github.com/lancelot1337)
