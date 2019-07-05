@@ -619,6 +619,7 @@ Aryan Gupta (@withoutwaxaryan)
 - [mazayo](https://github.com/mazayo)
 - Jack Burton (https://github.com/Saltey/)
 - Spencer Peace
+- David Yoon
 - Victor R
 - Molly Johnson
 - Titan
