@@ -15,6 +15,7 @@ Cody Dullard
 - [alli] (https://github.com/alli-c)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Ishiita Singh] (https://github.com/ishita20)
+- [Helen Fong] (https://github.com/HelenFong)
 - [Kirito-k] (https://github.com/kirito-k)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
