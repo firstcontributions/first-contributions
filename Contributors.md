@@ -1,9 +1,9 @@
 ﻿# Contributors
 
--[ManegJemo](https://github.com/L170300101)
--[Abhishek Bhandari]
--[Arun Kumar Sahoo](https://github.com/arunsahoo)
- -[Bhathiya Dasanayake](https://github.com/bhathiyad)
+- [ManegJemo](https://github.com/L170300101)
+- [Abhishek Bhandari]
+- [Arun Kumar Sahoo](https://github.com/arunsahoo)
+- [Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
@@ -14580,3 +14580,4 @@ skelter2014
 - [@brownesc](https:s//github.com/brownesc)
 - [Charlyp](https://github.com/charlespierru)
 - [Myron Liu](https://github.com/myron-liu)
+- [Guo Ziyang](https://github.com/CN-GuoZiyang)
