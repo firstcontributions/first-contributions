@@ -142,6 +142,7 @@ kurt Kobain
 - [wizard-kv](https://github.com/wizard-kv/)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Peretz Levinov] (https://github.com/perchick03)
+- [D Wills] (https://github.com/dwills1971)
 - Dimon Barankov
 - [P Mansukhani] (https://github.com/pmansukhani)
 - [Elijah Brian] (https://github.com/thexerothermic)
