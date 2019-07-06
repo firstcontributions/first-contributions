@@ -1159,6 +1159,7 @@ CMBloodMeridian
 - [JohnHenry Ward](https://github.com/JohnHenry-Ward)
 - [Elliott Byers](https://github.com/elliottbyers)
 - [Tejinderpal Singh](https://github.com/patialashahi31)
+- [samsonllam](https://github.com/samsonllam)
 - [Daffy Chu](https://github.com/daffychuy)
 - [Amit Jha](https://github.com/devbihari)
 - [Zachary Anderson](https://github.com/ZacharyAnderson)
