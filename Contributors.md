@@ -26,6 +26,7 @@
 - [Shumai Ocbayes A] (https://github.com/shumai9)
 - [Austin Alv] (https://github.com/ama0115)
 - [Ankit Gupta] (https://github.com/aki21j)
+- [Summerok-Tree] (https://github.com/Summerok)
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
