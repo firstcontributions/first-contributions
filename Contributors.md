@@ -62,6 +62,7 @@ Cody Dullard
 - [Fateme Ataee](https://github.com/fatemeataee)
 - [Noorul Ameen K M](https://github.com/lakdivian)
 - [Jared Alese] (https://github.com/alesej)
+- [Mayank Tomar] (https://github.com/mayanktomar)
 - [Philip Simmons](https://github.com/oghusky)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani] (https://github.com/hariduttt)
