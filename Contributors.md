@@ -9,6 +9,7 @@
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
+- [Isaac Patton] (https://github.com/Built4HumanityDev)
 - [Taylor Richardson] (https://github.com/Mertyton)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Cesar A. Perez] (https://github.com/PerezArmando)
