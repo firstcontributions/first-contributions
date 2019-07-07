@@ -7817,6 +7817,7 @@ Bailey Wong
 - [Adil Mahmood](https://github.com/AdilMah)
 - [ParkourKarthik](https://github.com/parkourkarthik)
 - [Douglas Feuser](https://github.com/Douglasfeuser)
+- Hashim Umarji
 - [Frank Okezie Obiedere](https://github.com/okezieobi)
 - [Daphnie Donnell](https://github.com/daphnied)
 - Anmol Khanna
