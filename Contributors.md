@@ -121,6 +121,7 @@ kurt Kobain
 - [Chiranjeevi Tapal] (https://github.com/chiranjeevitapal)
 - [Luis Haro] (https://github.com/lharo)
 - [Maria Pettit] (https://github.com/mnope)
+- [Stefan Simeonov] (https://github.com/riyusso)
 - Jacob Salt
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
