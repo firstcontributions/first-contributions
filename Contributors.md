@@ -4094,6 +4094,7 @@ CMBloodMeridian
 - [Amir Rauf](https://github.com/Amirrauf40)
 - [Tarun Apppannagari](https://github.com/TarunApp)
 - [Collin Cates](https://github.com/collincates)
+- [Ian Contijoch](http://github.com/iancontijoch)
 - [Raghav Grover](https://github.com/raghav7997)
 - [Jacobian Det](https://github.com/JacobianDet)
 - [Andrew M. S. Boyd](https://github.com/andrewmsboyd)
