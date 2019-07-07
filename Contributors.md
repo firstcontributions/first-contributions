@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 -[Harman singh] (https://github.com/Harman-singh-waraich)
+- [tbmreza](https://github.com/tbmreza)
 -[Srivatsan Thumati Balaji](https://github.com/kryptocodes)
 -[ManegJemo](https://github.com/L170300101)
 -[Abhishek Bhandari]
