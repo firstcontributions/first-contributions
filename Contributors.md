@@ -14,6 +14,7 @@
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
+- [Michal Fidler] (https://github.com/dottoreFell)
 - [Prajakta Deosthali] (https://github.com/PrajaktaDeosthali)
 - [Isaac Patton] (https://github.com/Built4HumanityDev)
 - [Taylor Richardson] (https://github.com/Mertyton)
