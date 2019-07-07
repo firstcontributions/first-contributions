@@ -708,6 +708,8 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - Max G
 - JohntyR
 - [Emily Cain](https://github.com/MagicMilly)
+- [Brian Joo](https://github.com/brianhjoo)
+- [Ramesh Joshi](https://github.com/rjoshig)
 - Shilpa Patwary(https://github.com/shilpapatwary)
 - [Alex Mably](https://github.com/amably)
 - Nathan Kratzmeyer
