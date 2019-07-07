@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 -[Bean] (https://github.com/some-skill)
+- rdollent (https://github.com/rdollent)
 -[Harman singh] (https://github.com/Harman-singh-waraich)
 -[David Lasry] (https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
