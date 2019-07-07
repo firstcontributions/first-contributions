@@ -110,6 +110,7 @@ Cody Dullard
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
 - [Adam Green] (https://github.com/CatByt)
+- [Aakash] (https://github.com/saiaakash)
 - [John Braganza] (https://github.com/Youth-Li)
 - [Dominik Bilski](https://github.com/Kinimod12)
 - [Chiranjeevi Tapal] (https://github.com/chiranjeevitapal)
