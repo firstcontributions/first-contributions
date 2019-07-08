@@ -14618,3 +14618,4 @@ skelter2014
 - [Ramesh Joshi](https://github.com/rjoshig)
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
 - [Gustavo Maeda](https://github.com/nihil1911)
+- [Amos Mwangi](https://github.com/AmosMwangi)
