@@ -222,6 +222,7 @@ kurt Kobain
 - [Nana Adjedu](https://github.com/Nadjedu)
 - [Nathan R. Hall] (https://github.com/HathanNall97)
 - [Tushar Dave] (https://github.com/imtushardave)
+- [Richard O'Connor] (https://github.com/RichOC)
 - [Nourhan Anber] (https://github.com/nourhan-anber)
 - [Felipe Parreira] (https://github.com/FelipeParreira)
 - [Javlonbek Sharipov] (https://github.com/javlonbek-sharipov)
