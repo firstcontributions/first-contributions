@@ -289,6 +289,7 @@ kurt Kobain
 - [Gaelle Tjat](https://github.com/GaelleTjat)
 - [Tim Fierens] (https://github.com/timfi)
 - [Dalibor Kozar](https://github.com/Daliborkozar)
+- [Victor Canabrava](https://github.com/theCanabrava)
 - [Aditya Makharia](https://github.com/makhariaadi)
 - [Joshalynne Finch](https://github.com/joshalynne)
 - [Nirmalya Ghosh](https://github.com/neil28)
