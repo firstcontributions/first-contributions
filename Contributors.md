@@ -1062,6 +1062,7 @@ CMBloodMeridian
 - [yyh](https://github.com/youyunhua)
 - [Amith Chivukula](https://github.com/amithc2)
 - [Mazhar Abbass](https://github.com/mzhrbbs)
+- [Harpreet Singh](https://github.com/harpreet-singh)
 - [Sule Alp](https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
