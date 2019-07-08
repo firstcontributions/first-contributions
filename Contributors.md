@@ -68,6 +68,7 @@ Cody Dullard
 - [Ryan Chen](https://github.com/bh-c)
 - [Hector Magana]
 - [ohm Resistance]
+- [Ryan Veitenheimer](https://github.com/RyanV90)
 - [Fateme Ataee](https://github.com/fatemeataee)
 - [Noorul Ameen K M](https://github.com/lakdivian)
 - [Jared Alese] (https://github.com/alesej)
