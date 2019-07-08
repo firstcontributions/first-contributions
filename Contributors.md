@@ -4309,6 +4309,7 @@ CMBloodMeridian
 - [Adam Austin](https://github.com/h3x)
 - [Jaharlal Mondal](https://github.com/jaharlal1201)
 - [Christina Zakarian](https://github.com/czakarian)
+- [Zakaria Talhami](https://github.com/ZakariaTalhami)
 - [James Featherstone](https://github.com/jfeathe)
 - [Utkarsh Agrawal](https://github.com/utkarsh-42)
 - [Hrishit Prasad Biswas](https://github.com/Artistic18)
