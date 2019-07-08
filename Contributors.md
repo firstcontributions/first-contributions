@@ -39,6 +39,7 @@ Cody Dullard
 - [asollish] (https://github.com/asollish)
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
+- [Prasanth Yadla] (https://github.com/prashantyadla)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
