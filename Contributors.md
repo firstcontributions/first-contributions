@@ -14590,7 +14590,7 @@ skelter2014
 - [Farhat SH](https://github.com/farhatcode)
 - [David Gutierrez-McCormack](https://github.com/davidmccormack)
 - [Joachim Miens](https://github.com/jojo58fr)
-- [Name](name)
+- [M Farhad](https://github.com/imfarhad)
 - [Dheeraj Agrawal](https://github.com/dka72/)
 - [Ramesh Mamidala](https://github.com/rameshmamidalaa/)
 - [Piotr Gargula] (https://github.com/pgagula)
