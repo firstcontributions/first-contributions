@@ -12319,6 +12319,7 @@ Bailey Wong
 - [Dragon984](https://github.com/Dragon984)
 - [David Marques](https://github.com/davidmoura07)
 - [Dan Young](https://github.com/ytmnd)
+- [Aramis13](https://github.com/Aramis13)
 - [Rahul Tiwari](https://github.com/GrootKo)
 - [Gustavo Brandão](https://github.com/Brand00wn)
 - [Patricia](https://github.com/patriciacorhid)
