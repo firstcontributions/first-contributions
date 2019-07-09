@@ -14127,6 +14127,7 @@ Bailey Wong
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
 - [Ramesh](https://github.com/rallu)
+- [Ben Walters](https://github.com/bwalterscoding)
 - [VelxusDev](https://github.com/VelxusDev)
 - [Ayush Bhatnagar](https://github.com/Ayush-Bhatnagar)
 - [Jacob Vanmeter](https://github.com/unroasted)
