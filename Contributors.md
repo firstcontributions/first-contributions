@@ -179,7 +179,7 @@ kurt Kobain
 - [Felix Melligan] (https://github.com/felix-melligan)
 - [Alexander Schlesinger] (https://github.com/alexschles)
 - [rjmax13] (https://github.com/rjmax13)
-- shreejeetp
+- [shreejeetp](https://github.com/shreejeetp)
 -[Mazhar Ali Baig](https://github.com/mazharalibaig)
 - [Rye Guren] (https://github.com/Klereue)
 - [Noah Nichols] (https://github.com/noahjacknichols)
