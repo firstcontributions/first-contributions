@@ -16,6 +16,7 @@ i# Contributors
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 - [sixlim] (https://github.com/sixlim)
+- [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
 - [Michal Fidler] (https://github.com/dottoreFell)
 - [Prajakta Deosthali] (https://github.com/PrajaktaDeosthali)
