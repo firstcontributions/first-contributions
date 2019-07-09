@@ -14630,3 +14630,4 @@ skelter2014
 - [Gustavo Maeda](https://github.com/nihil1911)
 - [Amos Mwangi](https://github.com/AmosMwangi)
 - [Bob Wilson](https://github.com/bwilson753)
+- [wmorian](https://github.com/wmorian)
