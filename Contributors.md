@@ -72,6 +72,7 @@ Cody Dullard
 -[ColtMulk] (https://github.com/ColtMulk)
 - [timelessPy] (https://github.com/timelessPy)
 - [Jia Hao Yao] (https://github.com/kof91920) 
+- [Evan Tang] (https://github.com/evanptang)
 - [Kushal Jain] (https://github.com/Kage18)
 - [Dave Hardcastle] (https://github.com/dhardcastle)
 - [Talha Malik] (https://github.com/talham7391)
