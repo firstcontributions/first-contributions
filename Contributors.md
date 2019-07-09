@@ -115,6 +115,7 @@ Cody Dullard
 - [Daniel Reichert] (https://github.com/NefalemD)
 - [Eric Hsu] (https://github.com/ehsu4220)
 - [Pieter Oosthuizen] (https://github.com/pieter-oosthuizen)
+- [Gerhard Mostert] (https://github.com/Stratigix)
 - [SergeyTkachenko-Cj] (https://github.com/SergeyTkachenko-Cj)
 -[ColtMulk] (https://github.com/ColtMulk)
 - [timelessPy] (https://github.com/timelessPy)
