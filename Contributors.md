@@ -197,6 +197,7 @@ kurt Kobain
 - [Manuel Moran] (https://github.com/manuelm19/)
 - [Srijan Kapoor] (https://github.com/notpluto)
 - [Hossain Riazati] (https://github.com/rriazati) 
+- [Hannah Stover] (https://github.com/hannahstover)
 - [Judson Higley] (https://github.com/JudsonHigley
 - [Light Yagami] (https://github.com/Lightobyte) 
 - [Stefan Speter] (https://github.com/StefanYYC)
