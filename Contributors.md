@@ -37,6 +37,7 @@ Cody Dullard
 - [Shantigunna] (https://github.com/shantigunna22)
 - [Henry Akwerigbe] (https://github.com/Henadek)
 - [tolufohunsi] (https://github.com/tolufohunsi)
+- [Lisa Taylor] (https://github.com/lisaMTayl)
 - [asollish] (https://github.com/asollish)
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
