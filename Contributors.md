@@ -75,6 +75,7 @@ Cody Dullard
 - [Ryan Veitenheimer](https://github.com/RyanV90)
 - [Fateme Ataee](https://github.com/fatemeataee)
 - [Noorul Ameen K M](https://github.com/lakdivian)
+- [Ninmar Malk] (https://github.com/ninmarmalk)
 - [Jared Alese] (https://github.com/alesej)
 - [Mike Blair] (https://github.com/mblair90)
 - [Mayank Tomar] (https://github.com/mayanktomar)
