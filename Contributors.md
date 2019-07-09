@@ -24,6 +24,7 @@ Cody Dullard
 - [Cesar A. Perez] (https://github.com/PerezArmando)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
+- [Anthony Pereira] (https://github.com/anfornee)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Ishiita Singh] (https://github.com/ishita20)
 - [Helen Fong] (https://github.com/HelenFong)
