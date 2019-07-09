@@ -32,6 +32,7 @@ Cody Dullard
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Swapnil Goyal] (https://github.com/anon20)
 - [Ryan Modugno] (https://github.com/MissBuns)
+- [Srinath Nair] (https://github.com/s_nath99920)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Colin Anderson] (https://github.com/40216006)
 - [Will K]
