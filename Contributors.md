@@ -64,6 +64,7 @@ Cody Dullard
 - [Shirish Nigam] (https://github.com/techlab23)
 - [Will K]
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
+- [Avinash]
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
