@@ -48,6 +48,7 @@ JAYATI SHRIVASTAVA
 - [asollish] (https://github.com/asollish)
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
+- [Davy Chan](https://github.com/dcastellon0001)
 - [Prasanth Yadla] (https://github.com/prashantyadla)
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
