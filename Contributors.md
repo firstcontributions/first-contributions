@@ -3385,6 +3385,7 @@ CMBloodMeridian
 - [Shana Maurino](https://github.com/shanamaurino)
 - [Ashu](https://github.com/ashu1999)
 - [kokum]()
+- [William Hess](https://github.com/willhess92)
 - [Rashim Malhotral](https://github.com/rashimm)
 - [Cecil John Tantay](https://github.com/cjbt)
 - [Feeroz Maqsudi](https://github.com/fmaq)
