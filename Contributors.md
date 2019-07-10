@@ -61,6 +61,7 @@ Cody Dullard
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Colin Anderson] (https://github.com/40216006)
 - [Will K]
+- [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
