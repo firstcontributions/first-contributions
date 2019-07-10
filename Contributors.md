@@ -2984,6 +2984,7 @@ CMBloodMeridian
 - [Akshay Avinash](https://github.com/akshay11298)
 - [Abhishek-verma](https://github.com/abhishek-verma)
 - Madhavik Agarwal
+- [Aj Lenard] (https://github.com/ajlenard)
 - [Arseny Poga](https://github.com/arsenypoga)
 - [Shoyeb Memon](https://github.com/memon07)
 - [Vinit Mahajan](https://github.com/mahajanvv)
