@@ -2016,6 +2016,7 @@ CMBloodMeridian
 - [Aaron Meinicke RC](https://github.com/RudeCoffee)
 - [Glen Young](https://github.com/geekpulp)
 - [Eric Brown](https://github.com/Aeluwin)
+- [Anang Fachreza](https://github.com/fcrezza)
 - [Hoederer](https://github.com/jalexp)
 - [Erik Harte](https://github.com/hartee)
 - [Austin Kvaale](https://github.com/akvaale/first-contributions.git)
