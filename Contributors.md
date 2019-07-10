@@ -18,6 +18,7 @@ i# Contributors
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
 - [Elliot Blanchard] (https://github.com/elliotblanchard)
