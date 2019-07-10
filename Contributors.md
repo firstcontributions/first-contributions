@@ -4999,6 +4999,7 @@ CMBloodMeridian
 - [Funmito Blessed](https://github.com/ofunmito)
 - [Lucas Gates](https://github.com/lucasg234)
 - [Farrell Seah](https://github.com/farrellseah)
+- [Brandon Hawi](https://github.com/brandonhawi)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Aman Jakhetiya](https://github.com/Amanjakhetiya)
