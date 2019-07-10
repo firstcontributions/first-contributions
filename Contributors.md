@@ -117,6 +117,7 @@ Cody Dullard
 - [PT Prigoda] (https://github.com/paulprigoda)
 - Yudi Xu evec
 - Giovanni L.
+- [Donald Whitely] (https://github.com/dswhitely1)
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Teresa Kuziak] (https://github.com/Tkuziak)
 - [Daniel Reichert] (https://github.com/NefalemD)
