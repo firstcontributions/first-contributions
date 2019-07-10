@@ -60,6 +60,7 @@ Cody Dullard
 - [Srinath Nair] (https://github.com/s_nath99920)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Colin Anderson] (https://github.com/40216006)
+- [Shirish Nigam] (https://github.com/techlab23)
 - [Will K]
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
