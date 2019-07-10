@@ -16,6 +16,7 @@ i# Contributors
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
+JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
