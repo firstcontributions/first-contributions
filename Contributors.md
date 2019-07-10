@@ -127,6 +127,7 @@ JAYATI SHRIVASTAVA
 - [Donald Whitely] (https://github.com/dswhitely1)
 - [Sankalp Sharma] (https://github.com/5ankalp)
 - [Teresa Kuziak] (https://github.com/Tkuziak)
+- Hemant Singh Bisht
 - [Daniel Reichert] (https://github.com/NefalemD)
 - [Eric Hsu] (https://github.com/ehsu4220)
 - [Pieter Oosthuizen] (https://github.com/pieter-oosthuizen)
