@@ -37,6 +37,7 @@ Cody Dullard
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
 - [Sebastien Beaury] (https://github.com/sbeaury)
+- [Michael VanSleen] (https://github.com/ManSleen)
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Shantigunna] (https://github.com/shantigunna22)
