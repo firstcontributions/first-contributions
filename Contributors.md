@@ -64,6 +64,7 @@ JAYATI SHRIVASTAVA
 - [Ryan Modugno] (https://github.com/MissBuns)
 - [Srinath Nair] (https://github.com/s_nath99920)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
+- [Dante] (https://github.com/dantedallag)
 - [Colin Anderson] (https://github.com/40216006)
 - [Shirish Nigam] (https://github.com/techlab23)
 - [Will K]
