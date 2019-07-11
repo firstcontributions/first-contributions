@@ -55,6 +55,7 @@ JAYATI SHRIVASTAVA
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
 - [Kai Wu] (httsp://github.com/Kaaii)
+- [Tonmoy Baruah](https://github.com/christoperDe/first-contributions)
 - [Kyon Lee] (https://github.com/kyonlee)
 - [Kamal Kant Sharma](https://github.com/kamalbhardwaj)
 - [Alex Mendiola] (https://github.com/kmannarbor)
