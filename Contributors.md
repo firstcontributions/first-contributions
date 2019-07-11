@@ -85,6 +85,7 @@ JAYATI SHRIVASTAVA
 - [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Ryan Chen](https://github.com/bh-c)
 - [Hector Magana]
+- [Muhammad Javed] (https://github.com/hamham240)
 - [ohm Resistance]
 - [Ellie Taylor] 
 - [Ryan Veitenheimer](https://github.com/RyanV90)
