@@ -4460,6 +4460,7 @@ CMBloodMeridian
 - [Saswat Kar](https://github.com/skksanchez)
 - [Zach Blake](https://github.com/heyztb)
 - [Ubaid Isaev](https://github.com/ubaidullah05)
+- [Marie Rogava](https://github.com/marierog)
 - [Erwan Néel](https://github.com/erwan-neel)
 - [Sreerej](https://github.com/ssreerej)
 - [blole](https://github.com/dumblole)
