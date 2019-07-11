@@ -14663,4 +14663,4 @@ skelter2014
 - [Miffy Chen](https://github.com/miffycs)
 - [YiÄŸit AnÄ±ÅŸ](https://github.com/yigitanis)
 - [Noah Elliott](https://github.com/2l2t)
-- [Julien Vanhecke] (https://github.com/Zekphyn)
+- [Julien Vanhecke](https://github.com/Zekphyn)
