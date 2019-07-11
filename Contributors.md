@@ -70,6 +70,7 @@ JAYATI SHRIVASTAVA
 - [Will K]
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Avinash]
+- [Sivashangari]
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
