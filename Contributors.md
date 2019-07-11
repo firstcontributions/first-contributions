@@ -13634,6 +13634,7 @@ Bailey Wong
 - [Ya Dro](https://github.com/MrYadro)
 - [Vinicius Costa](https://github.com/viniciuscosta89)
 - [Akintola Moronfoluwa](https://github.com/Foluwa)
+- [Rupali Soni](https://github.com/rupali-soni)
 - [Felix Cao](https://github.com/FelixCao)
 - [Ahmad Fauzan Amirul Isnain](https://github.com/ahmad-fauzan458)
 - [Wing Kuang](https://github.com/wwk3j)
