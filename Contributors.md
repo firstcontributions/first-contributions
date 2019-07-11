@@ -71,6 +71,7 @@ JAYATI SHRIVASTAVA
 - [Will K]
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Avinash]
+- [Rosna Thomas] (https://github.com/Rosna)
 - [Andy Kim] (https://github.com/akizzles)
 - [Sivashangari]
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
