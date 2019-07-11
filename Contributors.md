@@ -277,6 +277,7 @@ kurt Kobain
 - [Tom Dale] (https://github.com/tomkdale)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)  
 - [Shumai Ocbayes A] (https://github.com/shumai9)
+- [Jay Kaiser] (https://github.com/jayckaiser)
 - [Austin Alv] (https://github.com/ama0115)
 - [Brittany Saucedo] (https://github.com/bjs1400)
 - [Sean Shanahan] (https://githup.com/Shenanigans77)
