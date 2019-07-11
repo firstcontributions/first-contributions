@@ -454,6 +454,7 @@ Daniel Jung
 - [Jatin Pai] (https://github.com/paijatin)
 - [Chetan Khilosiya] (https://github.com/chetankhilosiya)
 - [Dominic Jesse] (https://github.com/aphorism44)
+- [Said B] (https://github.com/said-b)
 - [Varshini Ananta] (https://github.com/sananta) 
 - [Alexander Cai] (https://github.com/piguyinthesky)
 - [Gerald Bruno] (https://github.com/NephilimEyez)
