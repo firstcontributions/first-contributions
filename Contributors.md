@@ -335,6 +335,7 @@ kurt Kobain
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
 - [Joe Pell] (https://github.com/f1nesse13)
+- [Ignacio Reyna] (https://github.com/ignacioreyna)
 - [zwitter1802]
 - [Ahmed Lebba] (https://github.com/Kungfoosian)
 - [Goh Wei Rong] (https://github.com/Qooooo)
