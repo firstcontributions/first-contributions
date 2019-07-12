@@ -163,6 +163,7 @@ kurt Kobain
 - [Luis Haro] (https://github.com/lharo)
 - [Maria Pettit] (https://github.com/mnope)
 - [Stefan Simeonov] (https://github.com/riyusso)
+- [Alexis Bourdeau] (https://github.com/alexisbourdeau)
 - Jacob Salt
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
