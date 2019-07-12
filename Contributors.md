@@ -73,6 +73,7 @@ JAYATI SHRIVASTAVA
 - [Avinash]
 - [Rosna Thomas] (https://github.com/Rosna)
 - [Andy Kim] (https://github.com/akizzles)
+- [Shawn Abtey] (https://github.com/exostasis)
 - [Sivashangari]
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
