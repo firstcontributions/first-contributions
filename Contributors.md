@@ -42,6 +42,7 @@ JAYATI SHRIVASTAVA
 - [Sebastien Beaury] (https://github.com/sbeaury)
 - [Michael VanSleen] (https://github.com/ManSleen)
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
+- [Devanshu Yadav](https://github.com/Blackwatch1910)
 - [Kylan Byrd] (https://github.com/aviananalyst)
 - [Shantigunna] (https://github.com/shantigunna22)
 - [Henry Akwerigbe] (https://github.com/Henadek)
