@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Troy Wuollet] (https://github.com/twuollet)
 - [Kylan Byrd] (https://github.com/aviananalyst)
@@ -14367,4 +14367,5 @@ skelter2014
 - [Rajarajan Balasubramanian] (https://github.com/rajarajanb)
 - [Dominik Petrovic] (https://github.com/nixxcode)
 - [Chakradhar Koppula] (https://github.com/ckoppula199)
+- [Mariella Renno] (https://github.com/mariella-rn)
 - [Jang Ho Cho] (https://github.com/jhc95/)
