@@ -75,6 +75,7 @@ JAYATI SHRIVASTAVA
 - [Andy Kim] (https://github.com/akizzles)
 - [Shawn Abtey] (https://github.com/exostasis)
 - [Sivashangari]
+- [Daniel Krumlinde](https://github.com/dklundvall)
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
