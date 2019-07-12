@@ -303,6 +303,7 @@ kurt Kobain
 - [Ibnul Kayes] (https://github.com/image7)
 - [Darien Schettler] (https://github.com/darien-schettler)
 - [Rabidax] (https://github.com/Rabidax)
+- [Logan Kilby] (https://github.com/LoganKilby)
 - [tonybebawy] (https://github.com/tonybebawy)
   [Dane Maison](https://github.com.dane2476)
 - [nebojsaj1726] (https://github.com/nebojsaj1726)
