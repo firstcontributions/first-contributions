@@ -1768,6 +1768,7 @@ CMBloodMeridian
 - [Sukhpreet Judge](https://github.com/SukhpreetJudge)
 - [Falen L](https://github.com/falenl)
 - [Janet Gordon](https://github.com/GamergirlJ)
+- [Rohan Tibrewal](https://github.com/rohantib)
   [Kamaljot Saini](https://github.com/unsafeartist)
 - [rodegrafika](https://github.com/Rodegrafika)
 - [daniel9a](https://github.com/daniel9a)
