@@ -47,6 +47,7 @@ JAYATI SHRIVASTAVA
 - [tolufohunsi] (https://github.com/tolufohunsi)
 - [Lisa Taylor] (https://github.com/lisaMTayl)
 - [asollish] (https://github.com/asollish)
+- [LukaJ] (https://github.com/LukaJaj)
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Davy Chan](https://github.com/dcastellon0001)
