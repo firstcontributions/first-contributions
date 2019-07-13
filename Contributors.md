@@ -1,4 +1,4 @@
-﻿i# Contributors
+i# Contributors
 
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
@@ -201,6 +201,7 @@ kurt Kobain
 - [Md. Rakibul Islam] (https://github.com/islam2366)
 - [Randy McBride] (https://github.com/randymcbride)
 - [Andy Ren] (https://github.com/mewtwo555)
+- [Anqi H] (https://github.com/AnqiHuangQiQi/)
 - [yli302] (https://github.com/yli302)
 - [leolimabh](https://github.com/leolimabh)
 - [Jedidiah Lolo] (https://github.com/jedidiahlolo)
