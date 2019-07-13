@@ -1,4 +1,4 @@
-﻿i# Contributors
+i# Contributors
 
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
@@ -21,6 +21,7 @@ Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
+- [Andre Nobre](https://github.com/4ndrenobr3)
 - [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
