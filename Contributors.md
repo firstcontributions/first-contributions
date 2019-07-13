@@ -109,6 +109,7 @@ JAYATI SHRIVASTAVA
 - [Ninmar Malk] (https://github.com/ninmarmalk)
 - [Jared Alese] (https://github.com/alesej)
 - [Mike Blair] (https://github.com/mblair90)
+- [Geoff George](https://github.com/geoffdgeorge)
 - [Mayank Tomar] (https://github.com/mayanktomar)
 - [Philip Simmons](https://github.com/oghusky)
 - [Tracie Witteborg](https://github.com/alwaysTracieT)
