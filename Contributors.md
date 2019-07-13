@@ -1,6 +1,7 @@
 ﻿i# Contributors
 
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
+- [Jordan Bertasso] (https://github.com/jordanbertasso)
 -[Bean] (https://github.com/some-skill)
 - rdollent (https://github.com/rdollent)
 -[Harman singh] (https://github.com/Harman-singh-waraich)
