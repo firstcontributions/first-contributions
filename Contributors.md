@@ -566,6 +566,7 @@ Daniel Jung
 - [Ali Bolourian](https://github.com/abolourian)
 - [Hericles Koelher] (https://github.com/blackshooter987)
 - [Ali Kassir](https://github.com/AliKassir)
+- [Alex Kaplun](https://github.com/alexkaplun)
 - yasmiyazaki
 - ERIB
 - Hosbovery
