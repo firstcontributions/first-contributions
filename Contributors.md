@@ -2134,6 +2134,7 @@ CMBloodMeridian
 - [Nakita Strangeways](https://github.com/nakita-strangeways)
 - [Hannan Saleemi](https://github.com/HannanSaleemi)
 - Rui Chow
+- Astitva 
 - [Maneth Kulatunge](https://github.com/manethkulatunge)
 - [James Booker](https://github.com/jamesbooker)
 - [Peter Mai](https://github.com/Peter-Mai)
