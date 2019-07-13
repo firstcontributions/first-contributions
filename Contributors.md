@@ -21,6 +21,7 @@
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Ramon Morcillo](https://github.com/reymon359)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
 - [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
