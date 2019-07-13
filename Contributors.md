@@ -21,6 +21,7 @@ i# Contributors
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Ben Penwell] (https://github.com/bpenwell)
 - [Robert Gleason] (https://github.com/robgleason)
 - [Ramon Morcillo](https://github.com/reymon359)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
