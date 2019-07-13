@@ -2,6 +2,7 @@
 
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
+- [Neha Kulkarni] (https://github.com/neha181298)
 -[Bean] (https://github.com/some-skill)
 - rdollent (https://github.com/rdollent)
 -[Harman singh] (https://github.com/Harman-singh-waraich)
