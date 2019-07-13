@@ -270,6 +270,7 @@ kurt Kobain
 - [Rye Guren] (https://github.com/Klereue)
 - [Noah Nichols] (https://github.com/noahjacknichols)
 - [Teddy Marchildon] (https://github.com/teddymarchildon)
+- [Dhruv Patel] (https://github.com/druv5319)
 - [Quentin Courtheoux] (https://github.com/ctxquentin)
 - [Sumit Singh] (https://github.com/sumit4613)
 - [Nana Adjedu](https://github.com/Nadjedu)
