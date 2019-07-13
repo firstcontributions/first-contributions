@@ -14688,6 +14688,7 @@ skelter2014
 - [Amos Mwangi](https://github.com/AmosMwangi)
 - [Bob Wilson](https://github.com/bwilson753)
 - [wmorian](https://github.com/wmorian)
+- [Jordi van Dooren](https://github.com/jordivandooren)
 - [Miffy Chen](https://github.com/miffycs)
 - [Yiğit Anış](https://github.com/yigitanis)
 - [Noah Elliott](https://github.com/2l2t)
