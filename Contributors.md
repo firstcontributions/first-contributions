@@ -27,6 +27,7 @@ JAYATI SHRIVASTAVA
 - [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
 - [Elliot Blanchard] (https://github.com/elliotblanchard)
+- [Radi Rusadi] (https://github.com/radirs)
 - [Michal Fidler] (https://github.com/dottoreFell)
 - [Prajakta Deosthali] (https://github.com/PrajaktaDeosthali)
 - [Isaac Patton] (https://github.com/Built4HumanityDev)
