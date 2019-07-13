@@ -330,6 +330,7 @@ Conor Shields (https://github.com/cshields236)
 - [Soham Zemse](https://github.com/zemse)
 - [Ozgur Tanriverdi](https://github.com/otanriverdi)
 - [Sumeet Arwikar](https://github.com/sumeetdeveloper/)
+-[SACHIN NEGI]
 - [fru123sa](https://github.com/fru123sa)
 - [Ben John](https://github.com/BendJohn)
 - [Alaina Rogacki](https://github.com/aarogacki)
