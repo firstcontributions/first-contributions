@@ -301,6 +301,7 @@ kurt Kobain
 - [Ankit Gupta] (https://github.com/aki21j)
 - [Robin Geissmann] (https://github.com/geissmannsbin)
 - [William Freeman] (https://github.com/FreemanWilliam)
+- [Sankalpa] (https://github.com/0sf)
 - [Arushi Saran] (https://github.com/asaran2)
 - [Vairav Lakshmanan] (https://github.com/vairavlaksh)
 - [Erwin Leonardy] (https://github.com/erwinleonardy)
