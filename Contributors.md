@@ -13075,6 +13075,7 @@ Bailey Wong
 - [hossein ahmadi](https://github.com/excel61)
 - [Ngan Khanh](https://github.com/ngankhanh98)
 - [Chas Drow](https://github.com/cpdrow)
+- [Chad Vido](https://github.com/chavido)
 - [Bruno Silva](https://github.com/slauzinho)
 - [Oleksii Filonenko](https://github.com/filalex77)
 - [Matthew Williams](https://github.com/orangegrove1955)
