@@ -1,5 +1,6 @@
 i# Contributors
 
+- [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Neha Kulkarni] (https://github.com/neha181298)
