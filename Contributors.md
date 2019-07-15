@@ -102,6 +102,7 @@ JAYATI SHRIVASTAVA
 - [Jacob Chang] (https://github.com/jacobc2700)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Matthew Finley](https://github.com/m-fin)
+- [Yu Zhou](https://github.com/yu-zhou-7)
 - [Mateo Marenco](https://github.com/Mateo74)
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
