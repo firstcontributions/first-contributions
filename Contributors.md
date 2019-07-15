@@ -194,6 +194,7 @@ kurt Kobain
 - [Jacob Baynes] (https://github.com/JacobBaynes)
 - [Nebi Tessema] (https://github.com/nebi-tessema)
 - [Jonathan Yee] (https://github.com/TheCountOfPeru)
+- Trisha Thakur 
 - [Drew Thomas] (https://github.com/DrewThomasCorps)
 - [Mohammad Ansari] (https://github.com/MohammadAnsari98)
 - [Ronit Yakovson] (https://github.com/ronityako)
