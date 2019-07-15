@@ -4307,6 +4307,7 @@ CMBloodMeridian
 - [Ganga S Nair](https://github.com/ganga1807)
 - [Alice Wang](https://github.com/alicelilywang)
 - [Parv](https://github.com/Parv-Saini)
+- [Rizzo-41](https://github.com/Rizzo-419)
 - [Anubhav](https://github.com/annubv)
 - [liliannas](https://github.com/liliannas)
 - [Raunak Sharma](https://github.com/raunak-sharma)
