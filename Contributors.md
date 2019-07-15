@@ -7656,6 +7656,7 @@ Bailey Wong
 - [Axel Espinosa Meneses @AxelDavid45](https://github.com/AxelDavid45)
 - [Dimitar Nestorov](https://github.com/dimitarnestorov)
 - [Michael Wright](https://github.com/michaelwright74)
+- [jrdanfox](https://github.com/jrdanfox)
 - [Durga Venkatesh](https://github.com/buredurgagod)
 - [EnderManOfCoding](https://github.com/EndermanOfCoding)
 - [Tobey Marshall](https://github.com/IAmTobeyMarshall)
