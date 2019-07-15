@@ -334,6 +334,7 @@ kurt Kobain
 - [Randhir Kumar] (https://github.com/randhirkr)
 - [Friendly Username] (https://github.com/FriendlyUsername)
 - [C0deM@sK] (https://github.com/DeeMATT)
+- [Jialin Wu] (https://github.com/jialin-wu-02)
 - [CarameloKevin] (https://github.com/carameloKevin)
 - [Quifisto] (https://github.com/Quifisto)
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
