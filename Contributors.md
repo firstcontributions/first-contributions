@@ -33,6 +33,7 @@ JAYATI SHRIVASTAVA
 - [Elliot Blanchard] (https://github.com/elliotblanchard)
 - [Radi Rusadi] (https://github.com/radirs)
 - [Michal Fidler] (https://github.com/dottoreFell)
+- [Lucas Robitaille] (https://github.com/robitaille1)
 - [Prajakta Deosthali] (https://github.com/PrajaktaDeosthali)
 - [Isaac Patton] (https://github.com/Built4HumanityDev)
 - [Taylor Richardson] (https://github.com/Mertyton)
