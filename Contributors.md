@@ -934,6 +934,7 @@ CMBloodMeridian
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [jfalkmedia]
 - [Kersh]
+- [Joe](https://github.com/jnc09)
   Calvin DeJong
 - [Matthias Haefeli](https://github.com/matthiashaefeli)
 - [Gaayan Verma](https://github.com/GaayanVerma)
