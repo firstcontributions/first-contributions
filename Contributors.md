@@ -8678,6 +8678,7 @@ Bailey Wong
 - [David Deng](https://github.com/PROgram52bc)
 - [Linh Huynh](https://github.com/linh4)
 - [Shmulik dadon](https://github.com/shmueld)
+- [Eric Liang](https://github.com/clericl)
 - [Hemant Pande](https://github.com/hemantpande)
 - [Drikus Roor](https://github.com/drikusroor)
 - [Mita Ramabulana](https://github.com/smalltheta)
