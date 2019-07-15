@@ -1,4 +1,4 @@
-i# Contributors
+﻿i# Contributors
 
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
@@ -13,6 +13,7 @@ i# Contributors
 -[**Muhammad Atif Sheikh**](https://github.com/atif91)
 -[ManegJemo](https://github.com/L170300101)
 -[Abhishek Bhandari]
+-[Haran Lakha]
 -[Ilham Adi Pratama](https://github.com/blacksyan)
 -[Arun Kumar Sahoo](https://github.com/arunsahoo)
  -[Bhathiya Dasanayake](https://github.com/bhathiyad)
