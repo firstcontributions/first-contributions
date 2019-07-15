@@ -14645,6 +14645,7 @@ skelter2014
 - [asura4716] (https://github.com/asura4716)
 - [Jisu Lee] (https://github.com/lee195)
 - [Shaun Watson] (https://github.com/ShaunWatson24)
+- [Adrian] (https://github.com/adrsolheim)
 - [Giancarlo Bacci] (https://github.com/bacci)
 - [Sharat Chandar M] (https://github.com/SharatChandar)
 - [Ryan Hardin]	(https://github.com/RyanHardin)
