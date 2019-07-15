@@ -14621,6 +14621,7 @@ skelter2014
 - [AdamThahir] (https://github.com/AdamThahir)
 - [Julia González] (https://github.com/yuliagg)
 -[Jim Schlader] (https://github.com/jamesschlader)
+- [Jacob Pieczynski] (https://github.com/jacobpie)
 -[AbdulMuqeeth Mohammed] (https://github.com/abdulmuqeeth)
 - [Virag Umathe] (https://github.com/viragumathe5)
 -[Kyle Morris] (https://github.com/assimil0)
