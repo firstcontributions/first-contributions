@@ -3,6 +3,7 @@
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
+- [Aidan Roth] (https://github.com/Aidanroth)
 - [Neha Kulkarni] (https://github.com/neha181298)
 -[Bean] (https://github.com/some-skill)
 - rdollent (https://github.com/rdollent)
