@@ -21,6 +21,7 @@
 - [Troy Wuollet] (https://github.com/twuollet)
 -[David Runyon] (https://github.com/drunyon88)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
+- [Kunal Puri] (https://github.com/kunalpuri)
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
