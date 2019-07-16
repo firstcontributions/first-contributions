@@ -1,4 +1,4 @@
-﻿i# Contributors
+i# Contributors
 
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
@@ -18,6 +18,7 @@
 -[Ilham Adi Pratama](https://github.com/blacksyan)
 -[Arun Kumar Sahoo](https://github.com/arunsahoo)
  -[Bhathiya Dasanayake](https://github.com/bhathiyad)
+ -[Patrick Salas](https://github.com/psalas98)
 - [Troy Wuollet] (https://github.com/twuollet)
 -[David Runyon] (https://github.com/drunyon88)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
