@@ -62,6 +62,7 @@ JAYATI SHRIVASTAVA
 - [Pradyumn Sharma](https://github.com/sharmapradyumn)
 - [Devanshu Yadav](https://github.com/Blackwatch1910)
 - [Kylan Byrd] (https://github.com/aviananalyst)
+- [Jibri Tolen] (https://github.com/AlienDev1)
 - [Shantigunna] (https://github.com/shantigunna22)
 - [Henry Akwerigbe] (https://github.com/Henadek)
 - [tolufohunsi] (https://github.com/tolufohunsi)
