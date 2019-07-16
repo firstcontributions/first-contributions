@@ -1576,6 +1576,7 @@ CMBloodMeridian
 - [Charles Steinmetz](https://github.com/GIGA-Coding/)
 - [Kamil Wawrzyńczuk](https://github.com/KamilWawrzynczuk)
 - [Anshuman Srivastava](https://github.com/anshumanc43)
+- [Alexis Nguyen] (https://github.com/alexiskyn)
 - [Siddhartha Pande](https://github.com/Siddharthapande88)
 - [Nour Kilany](https://github.com/nourkilany)
 - [Fase](https://github.com/fasesx)
