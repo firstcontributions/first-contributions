@@ -7,6 +7,7 @@
 - [Neha Kulkarni] (https://github.com/neha181298)
 - [Ritu Banerjee] (https://github.com/rituparnab)
 -[Bean] (https://github.com/some-skill)
+- [Yasmin] (https://github.com/YasminLago)
 - rdollent (https://github.com/rdollent)
 - [Bradley Gray-hall]
 -[Harman singh] (https://github.com/Harman-singh-waraich)
