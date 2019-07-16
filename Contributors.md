@@ -1,5 +1,5 @@
 i# Contributors
-e
+
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
