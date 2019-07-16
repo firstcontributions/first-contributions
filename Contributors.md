@@ -1,4 +1,4 @@
-i# Contributors
+﻿i# Contributors
 
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
@@ -8,6 +8,7 @@ i# Contributors
 - [Ritu Banerjee] (https://github.com/rituparnab)
 -[Bean] (https://github.com/some-skill)
 - rdollent (https://github.com/rdollent)
+- [Bradley Gray-hall]
 -[Harman singh] (https://github.com/Harman-singh-waraich)
 -[Aamir Soni] (https://github.com/Aamir1551)
 -[David Lasry] (https://github.com/dadou4243)
