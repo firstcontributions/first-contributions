@@ -14632,7 +14632,8 @@ skelter2014
 - [Keiran Glynn](https://github.com/KeiranGlynn)
 - [Danilo Zabala II](https://github.com/dczii)
 - [KK998](https://github.com/KK998)
-- Chris Muldoon
+- Chris Muldoong
+- [Owen Eribo](https://github.com/oweneribo)
 - [Daniel Stankovic] (https://github.com/DanielStankovic)
 - [BBrown] (https://github.com/BBrown4)
 - [Jim Armstrong] (https://github.com/41northstudios)
