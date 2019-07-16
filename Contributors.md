@@ -1,5 +1,5 @@
 i# Contributors
-
+e
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
@@ -14631,7 +14631,8 @@ skelter2014
 - [Keiran Glynn](https://github.com/KeiranGlynn)
 - [Danilo Zabala II](https://github.com/dczii)
 - [KK998](https://github.com/KK998)
-- Chris Muldoon
+- Chris Muldoong
+- [Owen Eribo](https://github.com/oweneribo)
 - [Daniel Stankovic] (https://github.com/DanielStankovic)
 - [BBrown] (https://github.com/BBrown4)
 - [Jim Armstrong] (https://github.com/41northstudios)
