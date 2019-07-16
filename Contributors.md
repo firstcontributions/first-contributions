@@ -7062,6 +7062,7 @@ Bailey Wong
 - [Precious Adeyinka](https://github.com/precious-adeyinka)
 - [Gagan Ganapathy](https://github.com/CodHeK)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
+- [Tom Ashley] (https://github.com/TomAshley1)
 - [Narinder Pal](https://github.com/np-singh)
 - [Raphael gako](https://github.com/artoodeeto)
 - [Nicole Li](http://github.com/nicolehli)
