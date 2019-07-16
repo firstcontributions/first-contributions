@@ -12953,6 +12953,7 @@ Bailey Wong
 - [Marina D](https://github.com/purple-giraffey)
 - [Kristian Roebuck](https://github.com/roebuk)
 - [NalinLuthra](https://github.com/NalinLuthra)
+  [Kun Lee](https://github.com/KunLee-design)
 - [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
 - [Anders Latif](https://github.com/anderslatif)
 - [Anh N. Nguyen](https://github.com/leptepkt)
