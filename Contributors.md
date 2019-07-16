@@ -39,6 +39,7 @@ JAYATI SHRIVASTAVA
 - [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
+- [lihaoyuan](https://github.com/l1haoyuan)
 - [Elliot Blanchard] (https://github.com/elliotblanchard)
 - [Radi Rusadi] (https://github.com/radirs)
 - [Michal Fidler] (https://github.com/dottoreFell)
