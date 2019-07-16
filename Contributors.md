@@ -98,6 +98,7 @@ JAYATI SHRIVASTAVA
 - [Rosna Thomas] (https://github.com/Rosna)
 - [Andy Kim] (https://github.com/akizzles)
 - [Shawn Abtey] (https://github.com/exostasis)
+- [David Burleson] (https://github.com/dburleson777)
 - [Sivashangari]
 - [Daniel Krumlinde](https://github.com/dklundvall)
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
