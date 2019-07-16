@@ -158,6 +158,7 @@ JAYATI SHRIVASTAVA
 - [UlVc](https://github.com/UlVc)
 - [rino23] (https://github.com/rino23)
 - [PT Prigoda] (https://github.com/paulprigoda)
+- Aruna Priyadarshini
 - Yudi Xu evec
 - Giovanni L.
 - [Donald Whitely] (https://github.com/dswhitely1)
