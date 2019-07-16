@@ -19,6 +19,7 @@
 -[Mohit Mohan](https://github.com/mohitmo)
 -[Abhishek Bhandari]
 -[Haran Lakha]
+-[Rishabh Jain](https://github.com/jrish1)
 -[Arjun Dubey](https://github.com/arjundubey-cr)
 -[Adam Gracy](https://github.com/agracy2246)
 -[Ilham Adi Pratama](https://github.com/blacksyan)
