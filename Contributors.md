@@ -1,26 +1,27 @@
 ﻿i# Contributors
 
 - [Andre Duong] (https://github.com/andreduong)
--[Monica Sai Kambala] (https://github.com/MonicaSai7)
+- [Steven Le](https://github.com/le-s)
+- [Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Aidan Roth] (https://github.com/Aidanroth)
 - [Neha Kulkarni] (https://github.com/neha181298)
--[Bean] (https://github.com/some-skill)
+- [Bean] (https://github.com/some-skill)
 - rdollent (https://github.com/rdollent)
--[Harman singh] (https://github.com/Harman-singh-waraich)
--[David Lasry] (https://github.com/dadou4243)
+- [Harman singh] (https://github.com/Harman-singh-waraich)
+- [David Lasry] (https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
--[Srivatsan Thumati Balaji](https://github.com/kryptocodes)
--[**Muhammad Atif Sheikh**](https://github.com/atif91)
--[ManegJemo](https://github.com/L170300101)
--[Abhishek Bhandari]
--[Haran Lakha]
--[Ilham Adi Pratama](https://github.com/blacksyan)
--[Arun Kumar Sahoo](https://github.com/arunsahoo)
- -[Bhathiya Dasanayake](https://github.com/bhathiyad)
+- [Srivatsan Thumati Balaji](https://github.com/kryptocodes)
+- [**Muhammad Atif Sheikh**](https://github.com/atif91)
+- [ManegJemo](https://github.com/L170300101)
+- [Abhishek Bhandari]
+- [Haran Lakha]
+- [Ilham Adi Pratama](https://github.com/blacksyan)
+- [Arun Kumar Sahoo](https://github.com/arunsahoo)
+- [Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Troy Wuollet] (https://github.com/twuollet)
--[David Runyon] (https://github.com/drunyon88)
--[phongnguyen39]  (https://github.com/phongnguyen39)
+- [David Runyon] (https://github.com/drunyon88)
+- [phongnguyen39]  (https://github.com/phongnguyen39)
 - [Kunal Puri] (https://github.com/kunalpuri)
 Cody Dullard
 JAYATI SHRIVASTAVA
