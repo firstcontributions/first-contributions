@@ -35,6 +35,7 @@
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Nameet Nayak] (https://github.com/nayaknameet)
 - [Ben Penwell] (https://github.com/bpenwell)
 - [Robbe Decorte] (https://github.com/robbedec)
 - [Robert Gleason] (https://github.com/robgleason)
