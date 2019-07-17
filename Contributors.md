@@ -6,6 +6,7 @@
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Aidan Roth] (https://github.com/Aidanroth)
 - [Cynthia Ware](https://github.com/cynthiaw89)
+- [Brian]
 - [Neha Kulkarni] (https://github.com/neha181298)
 - [Ritu Banerjee] (https://github.com/rituparnab)
 -[Bean] (https://github.com/some-skill)
