@@ -375,6 +375,7 @@ kurt Kobain
 - [epithite32](https://github.com/epithite32)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
+- [Tyler Wilson] (https://github.com/Ceresveres)
 - [Joe Pell] (https://github.com/f1nesse13)
 - [Ignacio Reyna] (https://github.com/ignacioreyna)
 - [zwitter1802]
