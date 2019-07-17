@@ -6993,6 +6993,7 @@ Bailey Wong
 - [brunneis](https://github.com/brunneis)
 - [Samer Uy](https://github.com/S4M3R)
 - [Joseph Camarena](https://github.com/JosephCamarena)
+- [Brian Guo](https://github.com/briang810)
 - [Lubits](https://github.com/lubits)
 - [Jeremy Brun](https://github.com/jeremytbrun)
 - [Allan Guy](https://github.com/alguy)
