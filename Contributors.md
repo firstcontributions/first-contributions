@@ -611,6 +611,7 @@ Daniel Jung
 - [Hericles Koelher] (https://github.com/blackshooter987)
 - [Ali Kassir](https://github.com/AliKassir)
 - [Alex Kaplun](https://github.com/alexkaplun)
+- [Tyler Stevens](https://github.com/Trstevens)
 - yasmiyazaki
 - ERIB
 - Hosbovery
