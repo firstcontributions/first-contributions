@@ -206,6 +206,7 @@ kurt Kobain
 - [Stefan Simeonov] (https://github.com/riyusso)
 - [Alexis Bourdeau] (https://github.com/alexisbourdeau)
 - Jacob Salt
+-[Joseph Garcia] (https://github.com/JosephGarcia)
 - [Daniel Xie] (https://github.com/danieljxie)
 - [Paul Joseph Robin] (https://github.com/p-j-r)
 - [Saad]
