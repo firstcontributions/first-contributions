@@ -191,6 +191,7 @@ JAYATI SHRIVASTAVA
 - [Evan Tang] (https://github.com/evanptang)
 - [Kushal Jain] (https://github.com/Kage18)
 - [Dave Hardcastle] (https://github.com/dhardcastle)
+- [Chong Shen](https://github.com/qwtsc)
 - [Talha Malik] (https://github.com/talham7391)
 - [Abhin Lingamaneni] (https://github.com/abhin1899)
 - [Martin Ptrl](https://github.com/MartinPtrl)
