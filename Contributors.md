@@ -23,6 +23,7 @@
 -[Mohit Mohan](https://github.com/mohitmo)
 -[Abhishek Bhandari]
 -[Mayra-io]
+-[micollov] (https://github.com/micollov)
 -[Haran Lakha]
 -[Jack Lovell] (https://github.com/jack-rl-ovell)
 -[Rishabh Jain](https://github.com/jrish1)
