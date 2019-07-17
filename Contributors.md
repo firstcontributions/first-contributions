@@ -12,6 +12,7 @@
 -[Bean] (https://github.com/some-skill)
 - [Yasmin] (https://github.com/YasminLago)
 - rdollent (https://github.com/rdollent)
+- [Maeve Fitzgerald]
 - [Bradley Gray-hall]
 -[Harman singh] (https://github.com/Harman-singh-waraich)
 -[Aamir Soni] (https://github.com/Aamir1551)
