@@ -21,6 +21,7 @@
 -[ManegJemo](https://github.com/L170300101)
 -[Mohit Mohan](https://github.com/mohitmo)
 -[Abhishek Bhandari]
+-[Mayra-io]
 -[Haran Lakha]
 -[Jack Lovell] (https://github.com/jack-rl-ovell)
 -[Rishabh Jain](https://github.com/jrish1)
