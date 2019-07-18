@@ -513,6 +513,7 @@ Daniel Jung
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
 - [Jeffrey MCIntyre](https://github.com/flatman123)
+- [Nick O'Keefe](https://github.com/nokeefe)
 - [Qi Kang Chen](https://github.com/gnakiq)
 - [David Bednar](https://github.com/purefisher)
 - [Shaloom Kashama](https://github.com/skashama)
