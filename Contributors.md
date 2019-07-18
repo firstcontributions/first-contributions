@@ -273,6 +273,7 @@ kurt Kobain
 - [Judson Higley] (https://github.com/JudsonHigley
 - [Light Yagami] (https://github.com/Lightobyte) 
 - [Stefan Speter] (https://github.com/StefanYYC)
+- [Clement Yam] (https://github.com/Tzunhei)
 - [Akshata Kulkarni] (https://github.com/akshatak12)
 - [Jason Kennedy] (https://github.com/jkomg)
 - [Saqibur Rahman](https://github.com/saqibur)
