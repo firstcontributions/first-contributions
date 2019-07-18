@@ -146,6 +146,7 @@ JAYATI SHRIVASTAVA
 - [Mike Blair] (https://github.com/mblair90)
 - [Geoff George](https://github.com/geoffdgeorge)
 - [Mayank Tomar] (https://github.com/mayanktomar)
+- [Edison Esguerra] (https://github.com/edisket)
 - [Philip Simmons](https://github.com/oghusky)
 - [Tracie Witteborg](https://github.com/alwaysTracieT)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
