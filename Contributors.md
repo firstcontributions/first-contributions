@@ -680,6 +680,7 @@ Daniel Jung
 - [Jose Matundan](https://github.com/iskomtdev)
 - Hugo Bujan Prevot (https://github.com/Drithyl)
 - [Sarah Lindau](https://github.com/LSariel)
+- [Dayne Sohn](https://github.com/daynesohn)
 - Ronny Woods (https://github.com/ronnywoods)
 - Tim Fox (https://github.com/timfox68)
 - {Guillermo Murua} (https://github.com/Sanscripter)
