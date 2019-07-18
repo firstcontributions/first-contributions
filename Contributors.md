@@ -3295,6 +3295,7 @@ CMBloodMeridian
 - [Anirudh Kanakatte](https://github.com/anirudhkanakatte)
 - [Vanessa Cassandra](https://github.com/vancass)
 - [Yatharth Manocha](https://github.com/YaMo97)
+- [Mora Ogunro](https://github.com/MoraOgunro)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder](https://github.com/RohitMazumder)
 - [Pablo Triandafilide](https://github.com/pablotrianda)
