@@ -100,6 +100,7 @@ JAYATI SHRIVASTAVA
 - [Alex Mendiola] (https://github.com/kmannarbor)
 - [Mateusz Piguła] (httsp://github.com/mateuszpigula)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
+- [Tony Martinez] (https://github.com/tonyjmartinez)
 - [Swapnil Goyal] (https://github.com/anon20)
 - [Ryan Modugno] (https://github.com/MissBuns)
 - [Srinath Nair] (https://github.com/s_nath99920)
