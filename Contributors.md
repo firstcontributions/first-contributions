@@ -9,6 +9,7 @@
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Brian]
 - [Neha Kulkarni] (https://github.com/neha181298)
+- [Aditya Santhosh] (https://github.com/AdityaSanthosh)
 - [Ritu Banerjee] (https://github.com/rituparnab)
 -[Bean] (https://github.com/some-skill)
 - [Yasmin] (https://github.com/YasminLago)
