@@ -1959,6 +1959,7 @@ CMBloodMeridian
 - [Derek Brown](https://github.com/scelestus1)
 - [Sean Tycho](https://github.com/stycho)
 - [Petteri Mattila](https://github.com/Pms3t)
+- [Dinh Quang Nguyen](https://github.com/qndev)
 - [Eric Vanular](https://github.com/ericvanular)
 - [Huatuostudio](https://github.com/huatuostudio/)
 - [Mark Evans](https://github.com/markopotamus)
