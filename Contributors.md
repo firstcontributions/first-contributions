@@ -14790,4 +14790,5 @@ skelter2014
 - [Allen Colston] (https://github.com/colstona1024)
 - [Brandon Nguyen] (https://github.com/branch331)
 - [John Henry Galino] (https://github.com/jhgalino)
+- [Vinicius]
 - [Jared Vandeventer] (https://github.com/jvandy83)
