@@ -156,6 +156,7 @@ JAYATI SHRIVASTAVA
 - [Ahmed Khalil Jerbi](https://github.com/HamoudaJoe)
 - [Shakti Ratan](https://github.com/sat5297)
 - [David Baptista](https://github.com/hiperd00)
+- [Prashant Ramnani](https://github.com/prashantramnani)
 - [Agugua~Kenechukwu] (https://github.com/spaceCh1mp)
 - [Sharon F Lewis](https://github.com/sharon-f-lewis)
 - [Simon Marynissen](https://github.com/SimonMarynissen)
