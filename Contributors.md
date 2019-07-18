@@ -108,6 +108,7 @@ JAYATI SHRIVASTAVA
 - [Colin Anderson] (https://github.com/40216006)
 - [Shirish Nigam] (https://github.com/techlab23)
 - [Will K]
+  [Sreedev S]  (https://github.com/finetard)
 - [Jerry Chuang](https://github.com/JerChuang/)
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Avinash]
