@@ -4,6 +4,7 @@
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
+- [Aditya Nalge] (https://github.com/adityanalge)
 - [Aidan Roth] (https://github.com/Aidanroth)
 - [Cynthia Ware](https://github.com/cynthiaw89)
 - [Michael Crawford](https://github.com/mcrwfrd)
