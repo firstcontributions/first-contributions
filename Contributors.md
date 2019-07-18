@@ -334,6 +334,7 @@ kurt Kobain
 - [jake porter] (https://github.com/Dimbles)
 - [Omarian] (https://github.com/AncientLaws]
 - [Paul Huang] (https://github.com/lineageispig]
+- [Paul Mannarino] (https://github.com/paul-man)
 - [Holly Huber] (https://github.com/HollyJHuber)
 - Juver
 - [Xavier Kidston] (https://github.com/XaveayK)
