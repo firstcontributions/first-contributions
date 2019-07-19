@@ -1,6 +1,7 @@
 ﻿i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Anton Ödman](https://github.com/banjoanton)
 - [Shek] (https://github.com/shek119)
 - [Andre Duong] (https://github.com/andreduong)
