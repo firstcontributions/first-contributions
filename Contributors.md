@@ -14813,3 +14813,4 @@ skelter2014
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
 - [Prasanth Maddali] (https://github.com/mprasanth)
 - [Luis G. Martinez 🇸🇻🤔] (https://github.com/LGerMa)
+- [R. Henriquez] (https://github.com/arghen)
