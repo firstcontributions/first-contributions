@@ -66,6 +66,7 @@ JAYATI SHRIVASTAVA
 - [Taylor Richardson] (https://github.com/Mertyton)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Cesar A. Perez] (https://github.com/PerezArmando)
+- [Antonio Amat] (https://github.com/AstroAmat)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
 - [Anthony Pereira] (https://github.com/anfornee)
