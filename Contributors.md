@@ -2450,6 +2450,7 @@ CMBloodMeridian
 - [sonodew](https://github.com/sonodew)
 - [bshehata](https://github.com/bshehata)
 - [Harish_Kumar](https://github.com/hkxxx843)
+- [Wasif Ibrahim](https://github.com/WasifIbrahim29)
 - [Tempor](https://github.com/temporaryacconunt)
 - [Manish](https://github.com/developer-18)
 - Tim Borisenko
