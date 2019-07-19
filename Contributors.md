@@ -14780,3 +14780,4 @@ skelter2014
 - [Brandon Nguyen] (https://github.com/branch331)
 - [John Henry Galino] (https://github.com/jhgalino)
 - [Jared Vandeventer] (https://github.com/jvandy83)
+- [Kang InSeob](https://github.com/dlstjq7685)
