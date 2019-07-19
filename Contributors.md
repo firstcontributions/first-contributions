@@ -54,6 +54,7 @@ JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Nameet Nayak] (https://github.com/nayaknameet)
 - [Ben Penwell] (https://github.com/bpenwell)
+- [M. Bullock] (https://github.com/mb-21)
 - [Robbe Decorte] (https://github.com/robbedec)
 - [Robert Gleason] (https://github.com/robgleason)
 - [Andre Nobre] (https://github.com/4ndrenobr3)
