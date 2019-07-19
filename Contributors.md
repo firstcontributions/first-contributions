@@ -70,6 +70,7 @@ JAYATI SHRIVASTAVA
 - [Antonio Amat] (https://github.com/AstroAmat)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
+- [Gerson Santos] (https://github.com/GSantos23)
 - [Anthony Pereira] (https://github.com/anfornee)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Ishiita Singh] (https://github.com/ishita20)
