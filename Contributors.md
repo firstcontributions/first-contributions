@@ -2300,6 +2300,7 @@ CMBloodMeridian
 - Fernando Gomez
 - [Binoy Udayan](https://github.com/binoyudayan)
 - [Ckyever G](https://github.com/Hycroth)
+- [Lorena Leão](https://github.com/lorenaleao)
 - [Justin Jones](https://github.com/jjones1983)
 - Aniket Bachate
 - [Nuno Gervasio](https://github.com/nunogervasio)
