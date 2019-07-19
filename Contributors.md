@@ -10,6 +10,7 @@
 - [Cynthia Ware](https://github.com/cynthiaw89)
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Brian]
+- [Sushant Kumar](https://github.com/lOne9wOlf)
 - [Toubee Lo](https://github.com/chataolauj)
 - [Neha Kulkarni] (https://github.com/neha181298)
 - [Aditya Santhosh] (https://github.com/AdityaSanthosh)
