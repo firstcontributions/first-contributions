@@ -1,4 +1,4 @@
-﻿i# Contributors
+i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
@@ -14816,3 +14816,4 @@ skelter2014
 - [Prasanth Maddali] (https://github.com/mprasanth)
 - [Luis G. Martinez 🇸🇻🤔] (https://github.com/LGerMa)
 - [R. Henriquez] (https://github.com/arghen)
+- [R. Nekhaichyk] (https://github.com/romanrg)
