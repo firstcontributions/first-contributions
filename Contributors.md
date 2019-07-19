@@ -12433,6 +12433,7 @@ Bailey Wong
 - [Ben Taylor](https://github.com/bentaylorio)
 - [Aditya Singhal](https://github.com/codaked-Adi)
 - [Michael Strong](https://github.com/MikeStrider)
+- [Brayan Martinez](https://github.com/BrayanCaro)
 - [Joseph Eastman](https://github.com/josepheastman)
 - [Joe Meschler](https://github.com/jmesh)
 - [NeeEoo](https://github.com/NeeEoo)
