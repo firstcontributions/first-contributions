@@ -1,6 +1,7 @@
 ﻿i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [Shek] (https://github.com/shek119)
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
