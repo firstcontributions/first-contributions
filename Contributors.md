@@ -3399,6 +3399,7 @@ CMBloodMeridian
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
+- [Nokod]
 - Bonnie Bee
 - [Dade Wood](https://github.com/daw1882)
 - [Carlos Carvalho](http://github.com/chcdc)
