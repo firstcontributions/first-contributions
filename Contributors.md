@@ -23,6 +23,7 @@ JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Ben Penwell] (https://github.com/bpenwell)
 - [Robbe Decorte] (https://github.com/robbedec)
+- [Yasir Nadeem](https://github.com/m-yasir)
 - [Robert Gleason] (https://github.com/robgleason)
 - [Andre Nobre] (https://github.com/4ndrenobr3)
 - [Ramon Morcillo](https://github.com/reymon359)
