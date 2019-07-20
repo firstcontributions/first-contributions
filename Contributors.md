@@ -62,6 +62,7 @@ JAYATI SHRIVASTAVA
 - [Ben Penwell] (https://github.com/bpenwell)
 - [M. Bullock] (https://github.com/mb-21)
 - [Robbe Decorte] (https://github.com/robbedec)
+- [Yasir Nadeem](https://github.com/m-yasir)
 - [Robert Gleason] (https://github.com/robgleason)
 - [Andre Nobre] (https://github.com/4ndrenobr3)
 - [Ramon Morcillo](https://github.com/reymon359)
