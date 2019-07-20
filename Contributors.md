@@ -9,6 +9,7 @@
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Tomaz Gomes] (https://github.com/tomaz1502)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
+- [Tamarind Stafford] (https://github.com/oshadowah)
 - [Aditya Nalge] (https://github.com/adityanalge)
 - [Max Kenngott] (https://github.com/maxKenngott)
 - [Aidan Roth] (https://github.com/Aidanroth)
