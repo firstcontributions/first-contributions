@@ -10,6 +10,7 @@
 - [Tomaz Gomes] (https://github.com/tomaz1502)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Aditya Nalge] (https://github.com/adityanalge)
+- [Max Kenngott] (https://github.com/maxKenngott)
 - [Aidan Roth] (https://github.com/Aidanroth)
 - [Cynthia Ware](https://github.com/cynthiaw89)
 - [Michael Crawford](https://github.com/mcrwfrd)
