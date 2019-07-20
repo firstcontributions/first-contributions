@@ -1,4 +1,4 @@
-i# Contributors
+﻿i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
@@ -82,6 +82,7 @@ JAYATI SHRIVASTAVA
 - [alli] (https://github.com/alli-c)
 - [Gerson Santos] (https://github.com/GSantos23)
 - [Anthony Pereira] (https://github.com/anfornee)
+-[Nope_Hope](https://github.com/AutumnEquinox)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Ishiita Singh] (https://github.com/ishita20)
 - [Helen Fong] (https://github.com/HelenFong)
