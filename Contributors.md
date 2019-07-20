@@ -10756,6 +10756,7 @@ Bailey Wong
 - [Kumar Gaurav](https://github.com/devautor/)
 - [Alex No](https://github.com/alexnope)
 - [Mihai Soficaru](https://github.com/msoficaru)
+- [Adam McWilliam] (https://github.com/AdamMcWilliam)
 - [Sean Lightfoot](https://github.com/blackinferno1000)
 - [Seamus Holland](https://github.com/oddtyme)
 - [Shohre Mansouri](https://github.com/shohre)
