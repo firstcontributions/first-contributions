@@ -567,6 +567,7 @@ Daniel Jung
 -Mormor Gorgor
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
 - Kaobe Osolu
+- [Dan Carroll] (https://github.com/dan-carroll)
 - [Casey Godbout] (https://github.com/cgodbout412)
 - [Justin Gagnon] (https://github.com/Aadrik)
 - [Siddharth Mathiazhagan] - (https://github.com/Siddharthm1991)
