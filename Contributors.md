@@ -52,8 +52,8 @@ i# Contributors
 - [David Runyon] (https://github.com/drunyon88)
 - [phongnguyen39]  (https://github.com/phongnguyen39)
 - [Kunal Puri] (https://github.com/kunalpuri)
-Cody Dullard
-JAYATI SHRIVASTAVA
+- Cody Dullard
+- JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Nameet Nayak] (https://github.com/nayaknameet)
 - [Ben Penwell] (https://github.com/bpenwell)
