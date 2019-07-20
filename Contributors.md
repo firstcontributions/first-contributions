@@ -56,6 +56,7 @@
 -[Pradipta Samra] [https://github.com/pradiptasarma]
  -[Patrick Salas](https://github.com/psalas98)
 - [Troy Wuollet] (https://github.com/twuollet)
+-[huynhvud](https://github.com/huynhvud)
 -[David Runyon] (https://github.com/drunyon88)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 - [Kunal Puri] (https://github.com/kunalpuri)
