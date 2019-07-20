@@ -1,7 +1,8 @@
-﻿i# Contributors
+i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
+- [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
 -[Debasish Ghose] (https://github.com/debasishghose)
 - [Shek] (https://github.com/shek119)
