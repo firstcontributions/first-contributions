@@ -1,4 +1,4 @@
-﻿i# Contributors
+i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
@@ -8291,6 +8291,7 @@ Bailey Wong
 - [Shulammite Lim](https://github.com/shulim)
 - [Kawaljit Singh](https://github.com/Kawaljit)
 - [Derrick Williams](https://github.com/derrickaw)
+- [Dt Alice](https://github.com/dtalice)
 - [Radheshyam Etikala](https://github.com/radhey1851)
 - [Ajith Pandian](https://github.com/Ajith-Pandian)
 - [Emerson Lopes](https://github.com/emersonlbr)
