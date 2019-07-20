@@ -35,6 +35,7 @@ i# Contributors
 -[**Muhammad Atif Sheikh**](https://github.com/atif91)
 -[ManegJemo](https://github.com/L170300101)
 -[Mohit Mohan](https://github.com/mohitmo)
+-[Ahmad Shahwaiz] (https://github.com/shahwaiz90/)
 -[Abhishek Bhandari]
 -[Mayra-io]
 -[micollov] (https://github.com/micollov)
