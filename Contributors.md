@@ -14824,4 +14824,4 @@ skelter2014
 - [Luis G. Martinez 🇸🇻🤔] (https://github.com/LGerMa)
 - [R. Henriquez] (https://github.com/arghen)
 - [putukass]
-- [naiyar] (https://github.com/naiyar2000)
+- [naiyar.2000] (https://github.com/naiyar2000)
