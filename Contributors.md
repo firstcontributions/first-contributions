@@ -8922,6 +8922,7 @@ Bailey Wong
 - [Mikel Tejero](https://github.com/teje87)
 - [Dave Regg](https://github.com/drregg6)
 - [Agitaev Seid Akhmed](https://github.com/agitaev)
+- [Michael Dimitras](https://github.com/michaeldimitras)
 - [Ron Montero](https://github.com/rhmdev)
 - [ZoomStop](https://github.com/ZoomStop)
 - [markm248](https://github.com/markm248)
