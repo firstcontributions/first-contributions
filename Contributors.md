@@ -289,6 +289,7 @@ kurt Kobain
 - [fsidiqs] (https://github.com/fsidiqs)
 - [dootch] (https://gihub.com/dootch)
 - [jomic] (https://github.com/jomic)
+- [Heinrich] (https://github.com/ostermeierh)
 - [Brianna Marie] (https://github.com/BriMarieRod)
 - [baclona] (https://github.com/gb853940223)
 - [Calvin Jian] (https://github.com/calvinjian)
