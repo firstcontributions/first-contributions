@@ -45,6 +45,7 @@
 -[micollov] (https://github.com/micollov)
 -[Haran Lakha]
 -[Jack Lovell] (https://github.com/jack-rl-ovell)
+-[Rupayan Sarkar] (https://github.com/QMrpy)
 -[Caroline] (https://github.com/enviro3)
 -[Rishabh Jain](https://github.com/jrish1)
 -[Arjun Dubey](https://github.com/arjundubey-cr)
