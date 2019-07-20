@@ -6,6 +6,7 @@ i# Contributors
 - [Shek] (https://github.com/shek119)
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
+- [Tomaz Gomes] (https://github.com/tomaz1502)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Aditya Nalge] (https://github.com/adityanalge)
 - [Aidan Roth] (https://github.com/Aidanroth)
