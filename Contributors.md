@@ -26,6 +26,7 @@
 - rdollent (https://github.com/rdollent)
 - [Maeve Fitzgerald]
 - [Bradley Gray-hall]
+- [Malik Mukhtar] (htpps://github.com/malikmukhtar)
 - [Ece Deniz] (https://github.com/exosolarplanet)
 - [Kartik Sama] (https://github.com/Kartik-Sama)
 -[Harman singh] (https://github.com/Harman-singh-waraich)
