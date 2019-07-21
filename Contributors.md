@@ -27,6 +27,7 @@
 - [Ritu Banerjee] (https://github.com/rituparnab)
 -[Bean] (https://github.com/some-skill)
 - [Yasmin] (https://github.com/YasminLago)
+-[Soniya Nayak] (https://github.com/Soniyanayak51)
 - rdollent (https://github.com/rdollent)
 - [Maeve Fitzgerald]
 - [Bradley Gray-hall]
