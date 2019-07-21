@@ -9996,6 +9996,7 @@ Bailey Wong
 - [Samuel Bowman](https://github.com/samuelpbowman)
 - [lineofbestgit](https://github.com/lineofbestgit)
 - [Laura Trager](https://github.com/ElleeB)
+- [Zubin Paul](https://github.com/zplusp)
 - [nos65](https://github.com/nos65)
 - [Dakota Sexton](https://github.com/tinykite)
 - [Aleisha Sebastian](https://github.com/aleisha116)
