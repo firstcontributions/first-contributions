@@ -1,4 +1,4 @@
-﻿i# Contributors
+﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
@@ -14844,3 +14844,4 @@ skelter2014
 - Mitan Chandihok (https://github.com/mitanc)
 - [balgopal123] (https://github.com/balgopal123)
 - [jingjingfan] (https://github.com/jingjingfan)
+- [Rafael Teixeira] (https://github.com/rt-oliveira)
