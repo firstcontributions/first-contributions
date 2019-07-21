@@ -14846,5 +14846,6 @@ skelter2014
 - [putukass]
 - Mitan Chandihok (https://github.com/mitanc)
 - [balgopal123] (https://github.com/balgopal123)
+- [zipate]
 - [jingjingfan] (https://github.com/jingjingfan)
 - [Rafael Teixeira] (https://github.com/rt-oliveira)
