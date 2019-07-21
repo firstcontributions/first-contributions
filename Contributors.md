@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [Gokyl and1] (https://github.com/gokyl)
 - [Milad Ahmadi] (https://github.com/themiladahmadi/)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
