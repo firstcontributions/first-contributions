@@ -1,4 +1,4 @@
-i# Contributors
+﻿i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
@@ -163,6 +163,7 @@ JAYATI SHRIVASTAVA
 - [Hector Magana]
 - [Muhammad Javed] (https://github.com/hamham240)
 - [ohm Resistance]
+- [Pramesh Sharma] (https://github.com/prameshsharma25)
 - [Ellie Taylor] 
 - [Abhilash Agrawal]
 - [Amit Weiss] (https://github.com/Amit-Weiss)
