@@ -19,6 +19,7 @@
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Aquib Junaid Razack](https://github.com/aquibjr)
 - [Brian]
+- [Hamzeh Darwish] (https://github.com/hamzehd)
 - [Sushant Kumar](https://github.com/lOne9wOlf)
 - [Toubee Lo](https://github.com/chataolauj)
 - [Neha Kulkarni] (https://github.com/neha181298)
