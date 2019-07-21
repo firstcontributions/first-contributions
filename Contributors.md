@@ -16,6 +16,7 @@
 - [Aidan Roth] (https://github.com/Aidanroth)
 - [Cynthia Ware](https://github.com/cynthiaw89)
 - [Michael Crawford](https://github.com/mcrwfrd)
+- [Aquib Junaid Razack](https://github.com/aquibjr)
 - [Brian]
 - [Sushant Kumar](https://github.com/lOne9wOlf)
 - [Toubee Lo](https://github.com/chataolauj)
