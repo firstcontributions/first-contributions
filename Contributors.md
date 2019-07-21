@@ -14839,5 +14839,6 @@ skelter2014
 - [Luis G. Martinez 🇸🇻🤔] (https://github.com/LGerMa)
 - [R. Henriquez] (https://github.com/arghen)
 - [putukass]
+- Mitan Chandihok (https://github.com/mitanc)
 - [balgopal123] (https://github.com/balgopal123)
 - [jingjingfan] (https://github.com/jingjingfan)
