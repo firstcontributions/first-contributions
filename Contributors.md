@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Gokyl and1] (https://github.com/gokyl)
@@ -54,6 +54,7 @@
 -[Haran Lakha]
 -[Jack Lovell] (https://github.com/jack-rl-ovell)
 -[Rupayan Sarkar] (https://github.com/QMrpy)
+-[Isha Terdal] (https://github.com/ishaterdal)
 -[Caroline] (https://github.com/enviro3)
 -[Rishabh Jain](https://github.com/jrish1)
 -[Arjun Dubey](https://github.com/arjundubey-cr)
