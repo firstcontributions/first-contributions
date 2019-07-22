@@ -5,6 +5,7 @@
 - [Eufrasia] (https://github.com/eufras1a)
 - [retsil] (https://github.com/retsilthebastard)
 - [Milad Ahmadi] (https://github.com/themiladahmadi/)
+- [Tomaz Gomes] (https://github.com/tomaz1502)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
