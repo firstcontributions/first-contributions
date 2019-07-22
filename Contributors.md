@@ -7130,6 +7130,7 @@ Bailey Wong
 - [Ed Mendoza](https://github.com/Polyneue)
 - [Justin Mills](https://github.com/jbmills327)
 - [Matthew Smith](https://github.com/msmith710)
+- [Francesco Macrì](https://github.com/francescomacri)
 - [Frank Mcdonald](https://github.com/Morecai)
 - [Cody Rodriguez](https://github.com/crod93)
 - [Shade Ruangwan](https://github.com/sruangwan)
