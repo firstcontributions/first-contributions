@@ -5494,6 +5494,7 @@ CMBloodMeridian
 - [Thyago Nishiguchi Sumi](https://github.com/lenishi)
 - [RSTMSN](https://github.com/rstmsn/)
 - [Jophs](https://github.com/Jophs)
+- [Nitish Kumar] (https://github.com/nitishkr)
 - [Apurv Mishra](https://github.com/apurvmishra99)
 - [Christopher Beards](https://github.com/ChristopherBeards)
 - [Rajesh Mainali](https://github.com/Stereoraj)
