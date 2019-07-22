@@ -119,6 +119,7 @@ JAYATI SHRIVASTAVA
 - [tolufohunsi] (https://github.com/tolufohunsi)
 - [Lisa Taylor] (https://github.com/lisaMTayl)
 - [asollish] (https://github.com/asollish)
+- [Jo Ann E.](https://github.com/Jo-IE)
 - [LukaJ] (https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
 - [Nasim](https://github.com/nasimUddin)
