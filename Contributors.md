@@ -2,6 +2,7 @@
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Gokyl and1] (https://github.com/gokyl)
+- [Eufrasia] (https://github.com/eufras1a)
 - [Milad Ahmadi] (https://github.com/themiladahmadi/)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
