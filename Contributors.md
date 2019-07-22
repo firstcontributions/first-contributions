@@ -1048,7 +1048,7 @@ CMBloodMeridian
 -[Narethmarch Venmey](https://github.com/mw112)
 - [Nkenfack Mqthurin] (https://github.com/MathurinNkenfack)
 - [Jack Mason] (https://github.com/jack-alexander-ie)
-
+- [Brian Sakurada] (https://github.com/sakubs)
 - Robert
 - [Amit](https://github.com/kuttyamit)
 - [Christopher Bradford](https://github.com/sunkencity999)
