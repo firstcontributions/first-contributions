@@ -14838,6 +14838,7 @@ skelter2014
 - [Arpit Pandey] (https://github.com./arpitansu)
 - [Deanna Thompson] (https://github.com/deannathompson)
 - [Stephanie Stevens] (https://github.com/lekaceleb)
+- [Christopher Lo] (https://github.com/ceelo777
 - [Saurabh kumar] (https://github.com/LuGO0)
 - [Allen Colston] (https://github.com/colstona1024)
 - [Brandon Nguyen] (https://github.com/branch331)
