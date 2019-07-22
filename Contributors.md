@@ -20,6 +20,7 @@
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
 - [Jonathon Brandt](https://github.com/jonathonjb2015)
 - [Sannan Ansari](https://github.com/sannanansari)
+- [John Loeffler](https://github.com/johnloeffler)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
 - [Harikesh Pallantla](https://github.com/harikesh409)
