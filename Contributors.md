@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Gokyl and1] (https://github.com/gokyl)
@@ -14858,3 +14858,4 @@ skelter2014
 - [Rafael Teixeira] (https://github.com/rt-oliveira)
 - [naiyar.2000] (https://github.com/naiyar2000)
 - [Bajtekp] (https://github.com/bajtekp)
+- [janamcroods] (https://github.com/janamcroods)
