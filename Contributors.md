@@ -3460,6 +3460,7 @@ CMBloodMeridian
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Greyson Frazier](https://github.com/glf30)
 - [Oriol Vall](https://github.com/Horiol)
+- [Willard Peralta](https://github.com/willardperalta)
 - Robert Bane
 - Patrizia Trammell
 - Jules Comte
