@@ -14864,6 +14864,7 @@ skelter2014
 - [Prasanth Maddali] (https://github.com/mprasanth)
 - [Luis G. Martinez 🇸🇻🤔] (https://github.com/LGerMa)
 - [R. Henriquez] (https://github.com/arghen)
+- [Kang InSeob](https://github.com/dlstjq7685)
 - [putukass]
 - Mitan Chandihok (https://github.com/mitanc)
 - [balgopal123] (https://github.com/balgopal123)
