@@ -14837,6 +14837,7 @@ skelter2014
 - [@brownesc](https:s//github.com/brownesc)
 - [Charlyp](https://github.com/charlespierru)
 - [Myron Liu](https://github.com/myron-liu)
+- [wet-dog] (https://github.com/wet-dog)
 - [Brian Joo](https://github.com/brianhjoo)
 - [Odafe] (https://github.com/od41)
 - [Ramesh Joshi](https://github.com/rjoshig)
