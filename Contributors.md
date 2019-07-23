@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Gokyl and1] (https://github.com/gokyl)
@@ -122,6 +122,7 @@ JAYATI SHRIVASTAVA
 - [Shantigunna] (https://github.com/shantigunna22)
 - [Henry Akwerigbe] (https://github.com/Henadek)
 - [tolufohunsi] (https://github.com/tolufohunsi)
+- [Zander Doby] (https://github.com/papaZander)
 - [Lisa Taylor] (https://github.com/lisaMTayl)
 - [asollish] (https://github.com/asollish)
 - [Jo Ann E.](https://github.com/Jo-IE)
