@@ -403,6 +403,7 @@ kurt Kobain
 - [Arushi Saran] (https://github.com/asaran2)
 - [Vairav Lakshmanan] (https://github.com/vairavlaksh)
 - [Erwin Leonardy] (https://github.com/erwinleonardy)
+- [Aamir Siddiqui] (https://github.com/AamirSidd09)
 - [Ryan Levitt] (https://github.com/rlevv)
 - [Ryan Fox] (https://github.com/ryanfox-software)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
