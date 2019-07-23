@@ -488,7 +488,9 @@ Joshua Cronin
 - [Alexander Bejarano] (https://github.com/abejaranoh)
 - [Marcia Arias](https://github.com/marciaarias)
 - [Anjali Jha](https://github.com/anjali1903)
-- [Cryptographic Fool](https://github.com/cryptographicfool)
+- [Cryptographic Fool]
+(https://github.com/cryptographicfool)
+- [UnrestCure]
 - [Adam](https://github.com/worstahrieu)
 - [Jeff Shannon](https://github.com/jeffyboh)
 - [MarkMan0](https://github.com/MarkMan0)
