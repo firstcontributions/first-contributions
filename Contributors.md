@@ -15,6 +15,7 @@ i# Contributors
 - [Troy Wuollet] (https://github.com/twuollet)
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
+- [Clement Sam](https://github.com/profclems)
 - [sixlim] (https://github.com/sixlim)
 - [Uthpala Pathirana] (https://github.com/uthpalasp)
 - [Michal Fidler] (https://github.com/dottoreFell)
