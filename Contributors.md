@@ -20,7 +20,6 @@
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
 - [Jonathon Brandt](https://github.com/jonathonjb2015)
 - [Sannan Ansari](https://github.com/sannanansari)
-- [John Loeffler](https://github.com/johnloeffler)
 - [Elabar](https://github.com/Elabar)
 - [Chie Noda](https://github.com/chienoda)
 - [Harikesh Pallantla](https://github.com/harikesh409)
@@ -4355,6 +4354,7 @@
 - [Andreas Steffensen](https://github.com/Amsteffensen)
 - Luke R
 - [Chandra Shekhar Mehta](https://github.com/csmehta)
+- [John Loeffler](https://github.com/johnloeffler)
 - [alegz91](https://github.com/alegz91)
 - [Ali](https://github.com/nestedscope)
 - [Germaine Beazer](https://github.com/gbiz21)
