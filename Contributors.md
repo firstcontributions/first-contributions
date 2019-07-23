@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Wei CUI](https://github.com/WeiCUI6)
@@ -1434,6 +1434,7 @@ CMBloodMeridian
 - [Harold Solomon](https://github.com/CoolyComrade)
 - [Anthony Campbell](https://github.com/ac-denton)
 - [Saksham Rastogi](https://github.com/codeboy5)
+- [ayo] (https://github.com/realayo)
 - [mazayo](https://github.com/mazayo)
 - [Tucker Wilde](https://github.com/tuckerwilde)
 - [Yash Bhardwaj](https://github.com/Wyverns010)
