@@ -15,6 +15,7 @@
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Tomaz Gomes] (https://github.com/tomaz1502)
+- [Abdullah A Malik](https://github.com/aabi01)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Tamarind Stafford] (https://github.com/oshadowah)
 - [Almarose Revives] (https://github.com/arevives/first-contributions.git)
