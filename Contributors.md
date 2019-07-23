@@ -9448,6 +9448,7 @@ Bailey Wong
 - [Karl Roldan](https://github.com/karlfroldan)
 - [Sebastian Perez](https://github.com/sgp715)
 - [Susan Lippa](https://github.com/slippa91)
+- [Jatnael Montes] (https://github.com/ifelsejet)
 - [Don Smith](https://github.com/DB-Smith)
 - [Jalen Adams](https://github.com/LeftySolara)
 - [Akshay Havile](https://github.com/akshayhavile)
