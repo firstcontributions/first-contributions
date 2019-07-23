@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [Wei CUI](https://github.com/WeiCUI6)
 - [Gokyl and1] (https://github.com/gokyl)
 - [Eufrasia] (https://github.com/eufras1a)
 - [retsil] (https://github.com/retsilthebastard)
