@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [Qi Wang] (https://github.com/ApplePeel90?tab=repositories)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
