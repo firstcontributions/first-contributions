@@ -77,6 +77,7 @@
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 - [Kunal Puri] (https://github.com/kunalpuri)
 Cody Dullard
+- [Clement Sam](https://github.com/profclems)
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
 - [Nameet Nayak] (https://github.com/nayaknameet)
