@@ -24,6 +24,7 @@
 - [Cynthia Ware](https://github.com/cynthiaw89)
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Aquib Junaid Razack](https://github.com/aquibjr)
+- [Prathmesh Bendal]
 - [Brian]
 - [Gwennie Kidd]
 - [Hamzeh Darwish] (https://github.com/hamzehd)
