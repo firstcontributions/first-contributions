@@ -111,6 +111,7 @@ JAYATI SHRIVASTAVA
 - [Antonio Amat] (https://github.com/AstroAmat)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
 - [alli] (https://github.com/alli-c)
+- [Victor Tran] (https://github.com/tranhducvnn)
 - [Gerson Santos] (https://github.com/GSantos23)
 - [Anthony Pereira] (https://github.com/anfornee)
 -[Nope_Hope](https://github.com/AutumnEquinox)
