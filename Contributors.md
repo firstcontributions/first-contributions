@@ -222,6 +222,7 @@ JAYATI SHRIVASTAVA
 - [Shubham Gandhi](https://github.com/aiBotShubham)
 - [Neeraj Samtani] (https://github.com/neerajsamtani)
 - [Akhilesh Sharma] (https://github.com/plat2eau)
+- [Alan Poon] (https://github.com/MRSlothAlan)
 - [Ashwin Muthu] (https://github.com/ashwinmuthu)
 - [Troy West] (https://github.com/TroyWest)
 - [Comfort Ajala] (https://github.com/ComfortAjalaOluwatimilehin)
