@@ -16,6 +16,7 @@
 - [Andre Duong] (https://github.com/andreduong)
 rehan khan
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
+- [Isaak Sampson]
 - [Pablo Castillo] (https://github.com/pcast11)
 - [Tomaz Gomes] (https://github.com/tomaz1502)
 - [Abdullah A Malik](https://github.com/aabi01)
