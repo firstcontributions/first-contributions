@@ -59,6 +59,7 @@ rehan khan
 -[Mohit Mohan](https://github.com/mohitmo)
 -[Ahmad Shahwaiz] (https://github.com/shahwaiz90/)
 -[Abhishek Bhandari]
+-[Aurore Vandroux](https;//github.com/ORORRR)
 -[Mayra-io]
 -[micollov] (https://github.com/micollov)
 -[Haran Lakha]
