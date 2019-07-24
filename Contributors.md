@@ -1,5 +1,6 @@
 ﻿# Contributors
-
+ 
+- [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Peter Kou] (https://github.com/Pkou1)
 - [Wei CUI](https://github.com/WeiCUI6)
 - [Gokyl and1] (https://github.com/gokyl)
