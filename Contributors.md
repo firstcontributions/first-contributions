@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-- [Jaeyeonling] (https://github.com/jaeyeonling) 
+- [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
 - [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Peter Kou] (https://github.com/Pkou1)
@@ -7157,6 +7157,7 @@ Bailey Wong
 - [Juha Pekkarinen](https://github.com/sirjuan)
 - [Cody Taft](https://github.com/codytaft)
 - [Brane](https://github.com/brane)
+- [Taylor Hitt] (https://github.com/tofutiger16)
 - [Herman Hallstedt](https://github.com/0mN1)
 - [Joey Z](https://github.com/joeyz)
 - [Rajat Gupta](https://github.com/Rajat16nov)
