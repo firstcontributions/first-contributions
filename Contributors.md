@@ -29,6 +29,7 @@
 - [Prathmesh  Bendal]
 - [Brian]
 - [Gwennie Kidd]
+- [BeldCode]
 - [Hamzeh Darwish] (https://github.com/hamzehd)
 - [Sushant Kumar](https://github.com/lOne9wOlf)
 - [Toubee Lo](https://github.com/chataolauj)
