@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Jaeyeonling] (https://github.com/jaeyeonling) 
+- [なるみ](https://github.com/narumiruna)
 - [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Peter Kou] (https://github.com/Pkou1)
 - [Wei CUI](https://github.com/WeiCUI6)
