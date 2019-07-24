@@ -12,6 +12,7 @@
 - [Anton Ödman](https://github.com/banjoanton)
 -[Debasish Ghose] (https://github.com/debasishghose)
 -[QQuinn] (https://github.com/qquinn)
+-[Shamund Gordon](https://github.com/15sora2)
 - [Shek] (https://github.com/shek119)
 - [Andre Duong] (https://github.com/andreduong)
 rehan khan
