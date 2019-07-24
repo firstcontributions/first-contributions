@@ -40,6 +40,7 @@ rehan khan
 - [Kate Yanko](https://github.com/kateyanko)
 - [Prathmesh  Bendal]
 - [Brian]
+- [Deepak Daroshi]
 - [Gwennie Kidd]
 - [BeldCode]
 - [Hamzeh Darwish] (https://github.com/hamzehd)
