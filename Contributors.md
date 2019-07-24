@@ -6198,7 +6198,7 @@ Bailey Wong
 - [Swathy Jayaseelan](https://github.com/swathyjayaseelan)
 - [Puneet Bindal](https://github.com/rockstar777)
 - [Saria L](http://github.com/ceculia)
-- [Austin Lanphear](https://github.com/TheChiefu)
+- [Austin K Lanphear](https://github.com/TheChiefu)
 - [Ethan Hur](https://github.com/HurSungYun)
 - Deepak-pundir
 - [Sanket Nadgir](https://githu.com/nadgirsanket)
