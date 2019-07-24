@@ -14852,6 +14852,7 @@ skelter2014
 - [Ron Mallory](https://github.com/RonMallory)
 - [Joseph Ng](https://github.com/ktng91)
 - [@brownesc](https:s//github.com/brownesc)
+- [Chaitanya Sama] (https://github.com/chaitanyasama)
 - [Charlyp](https://github.com/charlespierru)
 - [Myron Liu](https://github.com/myron-liu)
 - [wet-dog] (https://github.com/wet-dog)
