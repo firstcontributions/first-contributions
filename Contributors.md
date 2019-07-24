@@ -4,6 +4,7 @@
 - [なるみ](https://github.com/narumiruna)
 - [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Peter Kou] (https://github.com/Pkou1)
+- [Mohit Kumar] (https://github.com/ahirwar1997)
 - [Wei CUI](https://github.com/WeiCUI6)
 - [Gokyl and1] (https://github.com/gokyl)
 - [Eufrasia] (https://github.com/eufras1a)
