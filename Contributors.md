@@ -123,6 +123,7 @@ JAYATI SHRIVASTAVA
 - [Ishiita Singh] (https://github.com/ishita20)
 - [Helen Fong] (https://github.com/HelenFong)
 - [Kirito-k] (https://github.com/kirito-k)
+- [SnowyDavid](https://github.com/SnowyDavid)
 - [Krzysztof Pantak] (https://github.com/Kielx)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
