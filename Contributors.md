@@ -102,6 +102,7 @@ JAYATI SHRIVASTAVA
 - [Robert Gleason] (https://github.com/robgleason)
 - [Andre Nobre] (https://github.com/4ndrenobr3)
 - [Ramon Morcillo](https://github.com/reymon359)
+- [Adam Galt](https://github.com/AdamGalt)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
 - [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
