@@ -14890,6 +14890,7 @@ skelter2014
 - Mitan Chandihok (https://github.com/mitanc)
 - [balgopal123] (https://github.com/balgopal123)
 - [zipate]
+- [Patrick Williams] (https://github.com/anvilpw)
 - [jingjingfan] (https://github.com/jingjingfan)
 - [Rafael Teixeira] (https://github.com/rt-oliveira)
 - [naiyar.2000] (https://github.com/naiyar2000)
