@@ -6853,6 +6853,7 @@ Bailey Wong
 - [Paolo Manca](https://github.com/piemme)
 - [Sheila Gomes](https://github.com/sheilagomes)
 - [Garden Snake](https://github.com/GardenSnake)
+- [MarcoDSilva](https://github.com/MarcoDSilva)
 - [Daniele Di Lucido](https://github.com/DanieleDiLucido)
 - [LePetitRenard](https://github.com/LePetitRenard)
 - [Abdullah Alam](https://github.com/abdullahalam)
