@@ -480,6 +480,7 @@ Andrew Scheper
 - [Rupinder Deol] (https://github.com/deolr)
 - [Jorge Antonio Flores] (https://github.com/jflores3531)
 - [Christian McDonald] (https://github.com/religionfastfood)
+- [Jared]
 - [Himanshu Didwaniya] (https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar] (https://github.com/gopkumr)
 - [Bill Goggin] (https://github.com/bgoggin)
