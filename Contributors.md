@@ -6405,6 +6405,7 @@ Bailey Wong
 - [Anish Duwal](https://github.com/duwalanise)
 - [Ronak Kumar](https://github.com/lifecoderonak)
 - [Magnus Cardell](https://github.com/MagnusCardell)
+- [Akdez](https://github.com/Akdez)
 - [Okeaja17](https://github.com/Okeaja17)
 - [Shaheem](https://github.com/shaheemMPM)
 - [Varun](https://github.com/varunzxzx)
