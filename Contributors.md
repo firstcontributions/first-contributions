@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
 - [Wei CUI](https://github.com/WeiCUI6)
@@ -4026,6 +4026,7 @@ CMBloodMeridian
 - [Tom Vaiarella](https://github.com/thomas-vaiarella)
 - [Kartik Gupta](https://github.com/Z3N00)
 - [Yakub Babtunde](https://github.com/tyak99)
+- [Itay Nakash](https://github.com/itaynakash)
 - [Itay Finci](https://github.com//FIITAY)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
