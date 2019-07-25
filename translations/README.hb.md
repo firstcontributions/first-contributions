@@ -16,7 +16,7 @@
 
 <div dir="rtl">
 <h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#tutorials-using-other-tools">קישור לכלים גרפיים</a></h4>
+<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a></h4>
 </div>
 
 <div dir="rtl">
@@ -195,7 +195,7 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-<h2> הדרכות בשימוש כלים אחרים </h2>
+<h2>הדרכות בשימוש כלים אחרים</h2>
 </div>
 
 <div dir="rtl">
