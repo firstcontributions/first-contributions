@@ -2,6 +2,7 @@
 
 - [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
+- [Aggrey Chinthalima] (https://github.com/killian-coder)
 - [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
 - [Peter Kou] (https://github.com/Pkou1)
