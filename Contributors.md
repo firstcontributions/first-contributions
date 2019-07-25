@@ -13416,6 +13416,7 @@ Bailey Wong
 - [tanuj agrawal](http://github.com/tanujagrawal)
 - [Joshua Aquino](https://github.com/joshdaquino)
 - [Michelle Vick](https://github.com/vivega-mv)
+- [Lorrane Idevic] (https://github.com/lorraneidevic)
 - [Brandon Pierce](https://github.com/bp-driptorch)
 - [Bill Xi](https://github.com/element-sauce)
 - [EpicDragonSlayr](https://github.com/EpicDragonSlayr)
