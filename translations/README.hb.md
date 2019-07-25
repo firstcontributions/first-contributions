@@ -16,12 +16,12 @@
 
 <div dir="rtl">
 <h4> אם לא מתאים לכם להשתמש בטרמינל, כאן יש קישור תוך שימוש בכלים גרפיים
-<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a></h4>
+<a href="#הדרכות-בשימוש-כלים-אחרים">קישור לכלים גרפיים</a>.</h4>
 </div>
 
 <div dir="rtl">
 <h4>ניתן לקרוא את המאמר
-<a href="">בשפות אחרות</a></h4>
+<a href="">בשפות אחרות</a>.</h4>
 </div>
 
 <div dir="rtl">
@@ -82,7 +82,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 </div>
 
 <div dir="rtl">
-תחליפו לתיקיית המאגר בתוך המחשב שלכם (אם אתם כבר לא נמצאים שם)
+תחליפו לתיקיית המאגר בתוך המחשב שלכם (אם אתם כבר לא נמצאים שם):
 </div>
 
 ```
@@ -134,11 +134,11 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 <div dir="rtl">
   
-החליפו את הביטוי `<your-name>` עם השם שלכם
+החליפו את הביטוי `<your-name>` .עם השם שלכם
 </div>
 
 <div dir="rtl">
-<h2> לדחוף את השינויים ל-GitHub </h2>
+<h2>לדחוף את השינויים ל-GitHub</h2>
 </div>
 
 <div dir="rtl">
@@ -151,7 +151,7 @@ git push origin <add-your-branch-name>
 ```
 <div dir="rtl">
   
-החליפו את `<add-your-branch-name>` עם השם של הענף שיצרתם מוקדם יותר
+החליפו את `<add-your-branch-name>` .עם השם של הענף שיצרתם מוקדם יותר
 </div>
 
 <div dir="rtl">
@@ -164,7 +164,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-כעת, הגישו את בקשת הדחיפה
+:(pull request) כעת, הגישו את בקשת הדחיפה
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
@@ -172,11 +172,11 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-<h2> מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה </h2>
+<h2>מחקו את הענף שלכם אחרי שבקשת הדחיפה אושרה</h2>
 </div>
 
 <div dir="rtl">
-<h2> מה לעשות מכאן? </h2>
+<h2>מה לעשות מכאן?</h2>
 </div>
 
 <div dir="rtl">
@@ -187,7 +187,7 @@ git push origin <add-your-branch-name>
 
 עכשיו אפשר להתחיל לתרום לפרוייקטים אחרים. הכנו רשימה של פרוייקטים על נושאים קלים שאתם יכולים להתחיל לעבוד עליהם.
 
-<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>
+<a href="https://roshanjossey.github.io/first-contributions/#project-list">רשימה של פרוייקטים ב-web app</a>.
 </div>
 
 <div dir="rtl">
@@ -214,14 +214,14 @@ git push origin <add-your-branch-name>
 </div>
 
 <div dir="rtl">
-<h2> קידום עצמי </h2>
+<h2>קידום עצמי</h2>
 </div>
 
 <div dir="rtl">
 אם אהבתם את הפרויקט הזה, תתנו לו כוכב <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>
   אם אתם מרגישים נדיבים במיוחד, תעקבו אחרי <a href="https://roshanjossey.github.io/">Roshan</a>
   בטוויטר, <a href="https://twitter.com/sudo__bangbang">Twitter</a>
-  ובגיטהב <a href="https://github.com/roshanjossey"> GitHub</a>
+  ובגיטהב <a href="https://github.com/roshanjossey"> GitHub</a>.
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
 </div>
