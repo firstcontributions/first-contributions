@@ -14925,3 +14925,4 @@ skelter2014
 - [Wladyslaw](https://github.com/Graidaris)
 - [Zoheb Rahiman](https://github.com/rahiman-zoheb)
 - [Andrew Bellucci](https://github.com/imbellucci)
+- [Juan Francisco Kurucz](https://github.com/juanfkurucz)
