@@ -20,6 +20,7 @@
 -[Shamund Gordon](https://github.com/15sora2)
 - [Shek] (https://github.com/shek119)
 - [Andre Duong] (https://github.com/andreduong)
+- [Graham Paterson] (https://github.com/grahampaterson)
 rehan khan
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Isaak Sampson]
