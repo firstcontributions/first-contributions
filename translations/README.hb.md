@@ -164,7 +164,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-כעת, הגישו את בקשת הדחיפה :(pull request)
+כעת, הגישו את בקשת הדחיפה (pull request):
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
