@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
@@ -270,6 +270,7 @@ JAYATI SHRIVASTAVA
 - [Dave Hardcastle] (https://github.com/dhardcastle)
 - [Chong Shen](https://github.com/qwtsc)
 - [Talha Malik] (https://github.com/talham7391)
+- [Jade Cole] (https://github.com/sjs8906)
 - [Abhin Lingamaneni] (https://github.com/abhin1899)
 - [Martin Ptrl](https://github.com/MartinPtrl)
 kurt Kobain
