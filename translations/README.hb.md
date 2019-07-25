@@ -181,7 +181,7 @@ git push origin <add-your-branch-name>
 
 <div dir="rtl">
 כל הכבוד! כרגע סיימתם את מעגל הזרימה הסטנדרטי של Fork->Clone->Edit->PR שאתם תפגשו באופן שכיח כתורמים!
-חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://roshanjossey.github.io/first-contributions/#social-share">web app</a>.
+חגגו את התרומה שלכם ושתפו אותה עם חברים שלכם ועוקבים שלכם בכך שתלכו ל-<a href="https://firstcontributions.github.io/#project-list">web app</a>.
 אתם יכולים להצטרף לצוות הסלאק שלנו אם אתם צריכים עזרה או אם יש לכם שאלות.
 <a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY">הצטרפו לקבוצת סלאק</a>.
 
