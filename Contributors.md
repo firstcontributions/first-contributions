@@ -68,6 +68,7 @@ rehan khan
 -[David Lasry] (https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
 -[Srivatsan Thumati Balaji](https://github.com/kryptocodes)
+- [Aidan](https://github.com/aidanplunkitt)
 -[**Muhammad Atif Sheikh**](https://github.com/atif91)
 -[ManegJemo](https://github.com/L170300101)
 -[Mohit Mohan](https://github.com/mohitmo)
