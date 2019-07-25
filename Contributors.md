@@ -14924,3 +14924,4 @@ skelter2014
 - [Gacut](https://github.com/Gacut)
 - [Wladyslaw](https://github.com/Graidaris)
 - [Zoheb Rahiman](https://github.com/rahiman-zoheb)
+- [Juan Francisco Kurucz](https://github.com/juanfkurucz)
