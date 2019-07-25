@@ -212,16 +212,3 @@ git push origin <add-your-branch-name>
     </tr>
   </table>
 </div>
-
-<div dir="rtl">
-<h2>קידום עצמי</h2>
-</div>
-
-<div dir="rtl">
-אם אהבתם את הפרויקט הזה, תתנו לו כוכב <a href="https://github.com/Roshanjossey/first-contributions">GitHub</a>
-  אם אתם מרגישים נדיבים במיוחד, תעקבו אחרי <a href="https://roshanjossey.github.io/">Roshan</a>
-  בטוויטר, <a href="https://twitter.com/sudo__bangbang">Twitter</a>
-  ובגיטהב <a href="https://github.com/roshanjossey"> GitHub</a>.
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-</div>
