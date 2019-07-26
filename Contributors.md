@@ -47,6 +47,7 @@ rehan khan
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
 - [Prathmesh  Bendal]
+- [RoyaKar](https://github.com/RoyaKar)
 - [Brian]
 - [Deepak Daroshi]
 - [Gwennie Kidd]
