@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
-- [Qi Wang] (https://github.com/ApplePeel90?tab=repositories)
 - [qkrtjrrnjs] (https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla] (https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
@@ -9349,6 +9348,7 @@ Bailey Wong
 - [Carl Rizk](https://github.com/carlrizk)
 - [Saiharsha B](https://github.com/thewhitewolf17)
 - [Pablo Trinidad](https://github.com/pablotrinidad)
+- [Qi Wang](https://github.com/ApplePeel90?tab=repositories)
 - [Naman Manchanda](https://github.com/namanmanchanda09)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Caleb Burke](https://github.com/CalebMBurke)
