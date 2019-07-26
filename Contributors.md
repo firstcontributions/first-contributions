@@ -1,5 +1,6 @@
 # Contributors
 
+- Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
 - Mofo Johnson
