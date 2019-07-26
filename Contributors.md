@@ -663,7 +663,7 @@
 - [Jessica Poe](https://github.com/jesspoe)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - [RayQuan Kennedy](https://github.com/RaymaTheCoder)
-- Sethotron
+- Sethatron
 - [Serdar Ashirov](https://github.com/serdartkm)
 - goodgrieff
 - [Ahmad Reza](https://github.com/hungryDev39)
