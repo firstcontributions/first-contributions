@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [FANG SEXAY]
 - [Purple People Eater]
 - [Michael Jackson 'King of Pop']
 - [Mofo Johnson]
