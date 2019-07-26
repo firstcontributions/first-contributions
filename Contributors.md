@@ -1,11 +1,22 @@
 ﻿- # Contributors
 
+<<<<<<< HEAD
 - Purple People Eater
 - Michael Jackson 'King of Pop'
 - Mofo Johnson
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
+=======
+- [Techtonic Flash]
+- [FANG SEXAY]
+- [Purple People Eater]
+- [Michael Jackson 'King of Pop']
+- [Mofo Johnson]
+- [Zak Williams] (https://github.com/ZeeEssDoubleU)
+- [Jaeyeonling] (https://github.com/jaeyeonling)
+- [tkc1009]
+>>>>>>> 09a9147a83ac22553dcc83a8d07f4baa9cb56d1a
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima](https://github.com/killian-coder)
 - [Jeff Kwong](https://github.com/JeffKwong15)
