@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Zak Williams] (https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima] (https://github.com/killian-coder)
