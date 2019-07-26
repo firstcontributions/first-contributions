@@ -14684,6 +14684,7 @@ Tyler Strang
 - [PerfectDay20] (https://github.com/PerfectDay20)
 - [Levon Ar] (https://github.com/LevonAr)
 - [el mamado](https://github.com/el-mamado)
+- [Araminta Robertson](https://github.com/minta98)
 - Leah Furyk
 - [Zenith0] (https://github.com/zenith0)
 - [Luis Fernando Lins] (https://github.com/luis-f-lins)
