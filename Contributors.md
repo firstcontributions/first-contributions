@@ -11,6 +11,7 @@
 - [Wei CUI](https://github.com/WeiCUI6)
 - [Gokyl and1] (https://github.com/gokyl)
 - [Eufrasia] (https://github.com/eufras1a)
+- [James Sison](https://github.com/sisball8/first-contributions)
 - [retsil] (https://github.com/retsilthebastard)
 - [Milad Ahmadi] (https://github.com/themiladahmadi/)
 - [Tomaz Gomes] (https://github.com/tomaz1502)
