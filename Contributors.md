@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Michael Jackson 'King of Pop']
 - [Mofo Johnson]
 - [Zak Williams] (https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling] (https://github.com/jaeyeonling)
