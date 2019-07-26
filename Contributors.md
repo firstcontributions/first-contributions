@@ -1,4 +1,4 @@
-﻿- # Contributors
+# Contributors
 
 - Purple People Eater
 - Michael Jackson 'King of Pop'
