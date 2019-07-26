@@ -14914,6 +14914,7 @@ skelter2014
 - [Stephanie Stevens] (https://github.com/lekaceleb)
 - [Christopher Lo] (https://github.com/ceelo777
 - [Saurabh kumar] (https://github.com/LuGO0)
+- [Brian Walter] (https://github.com/bigbwalter)
 - [Allen Colston] (https://github.com/colstona1024)
 - [Brandon Nguyen] (https://github.com/branch331)
 - [John Henry Galino] (https://github.com/jhgalino)
