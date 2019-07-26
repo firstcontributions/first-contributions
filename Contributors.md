@@ -5,6 +5,7 @@
 - [Aggrey Chinthalima] (https://github.com/killian-coder)
 - [Jeff Kwong] (https://github.com/JeffKwong15)
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
+- [Alan Nguyen] (https://github.com/alan-nguyen)
 - [Peter Kou] (https://github.com/Pkou1)
 - [Mohit Kumar] (https://github.com/ahirwar1997)
 - [Wei CUI](https://github.com/WeiCUI6)
