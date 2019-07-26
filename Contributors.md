@@ -1,7 +1,6 @@
 ﻿i# Contributors
 
 - [Andre Duong] (https://github.com/andreduong)
-- [Steven Le](https://github.com/le-s)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
 - [Aidan Roth] (https://github.com/Aidanroth)
@@ -11802,6 +11801,7 @@ Bailey Wong
 - [Rahul Kumar](https://github.com/rahuls321)
 - [Elijah Akins](https://github.com/happly)
 - [Michael Nader](https://github.com/Nader7)
+- [Steven Le](https://github.com/le-s)
 - [Min Lee](https://github.com/Minho-Lee)
 - [Chikwado Emmanuel](https://github.com/quado2)
 - [Timo van Dooremaal](https://github.com/Timo21)
