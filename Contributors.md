@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Techtonic Flash]
 - [FANG SEXAY]
 - [Purple People Eater]
 - [Michael Jackson 'King of Pop']
