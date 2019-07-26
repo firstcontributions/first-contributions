@@ -4358,6 +4358,7 @@ CMBloodMeridian
 - [Ryan Evans](https://github.com/ryanwevans)
 - [Yogita Bhatia](https://github.com/Yogita98)
 - [Vahati](https://github.com/Vahati)
+- [Tiago Machado](https://github.com/tiagodjm)
 - [Jack Vanier](https://github.com/jackrvan)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [Nitesh Nanda](https://github.com/niteshnanda02)
