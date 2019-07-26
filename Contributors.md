@@ -14925,6 +14925,7 @@
 - [wmorian](https://github.com/wmorian)
 - [Jordi van Dooren](https://github.com/jordivandooren)
 - [Bridget Chew](https://github.com/bchew3)
+- Declan Farrell
 - [Miffy Chen](https://github.com/miffycs)
 - [Yiğit Anış](https://github.com/yigitanis)
 - [Noah Elliott](https://github.com/2l2t)
