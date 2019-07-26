@@ -29,6 +29,7 @@ rehan khan
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Isaak Sampson]
 - [Bobby Wisdom]
+- [Krati Garg] (https://github.com/kratigarg167)
 - [Pablo Castillo] (https://github.com/pcast11)
 - [Tomaz Gomes] (https://github.com/tomaz1502)
 - [Abdullah A Malik](https://github.com/aabi01)
