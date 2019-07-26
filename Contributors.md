@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Jose Medina] (https://github.com/bluelouie)
+
 - [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima] (https://github.com/killian-coder)
@@ -339,6 +339,7 @@ kurt Kobain
 - [Lisenor] (https://github.com/Lisenor)
 - [Peter Molloy] (https://github.com/pgmolloy)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
+- [Jose Medina] (https://github.com/bluelouie)
 - Darshana Jaint
 - [trialzuki] (https://github.com/trialzuki)
 - [8bitjustin] (https://github.com/8BitJustin)
