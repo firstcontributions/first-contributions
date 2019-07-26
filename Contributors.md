@@ -14600,6 +14600,7 @@ Tyler Strang
 - Aleksi Maunu :O
 - [Werner Krauth](https://github.com/WernerKrauth)
 - Med Fam
+- [SolalC] (https://github.com/SolalC)
 - [Lee Wei Gen](https://github.com/weigenie/)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 - [R F](https://github.com/kubr2017)
