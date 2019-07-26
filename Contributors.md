@@ -417,6 +417,7 @@ kurt Kobain
 - [Holly Huber] (https://github.com/HollyJHuber)
 - Juver
 - [Xavier Kidston] (https://github.com/XaveayK)
+- [Luis Villamil] (https://github.com/Luisvillamil)
 - [Darren Lim] (https://github.com/darrenlimweiyang)
 - [Tom Dale] (https://github.com/tomkdale)
 - [Gabriel Bustamante] (https://github.com/gabrielBusta)  
