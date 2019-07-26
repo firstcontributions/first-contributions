@@ -7179,6 +7179,7 @@ Bailey Wong
 - [notwaving](https://github.com/notwaving)
 - [connordowson](https://github.com/connordowson)
 - [Nikita Seliverstov](https://github.com/NikitaSeliverstov)
+- [Matthew Cook](https://github.com/mc255v)
 - [ricardoschroeder](https://github.com/ricardoschroeder)
 - [Jerome Estiller](https://github.com/jromest)
 - [Ashley Woodall](https://github.com/ashwoodall)
