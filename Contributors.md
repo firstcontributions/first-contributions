@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Jose Medina] (https://github.com/bluelouie)
 - [Jaeyeonling] (https://github.com/jaeyeonling)
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima] (https://github.com/killian-coder)
