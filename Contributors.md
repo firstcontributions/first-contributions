@@ -1,5 +1,5 @@
 i# Contributors
--[David Hevesi] (https://github.com/davidhevesi)
+
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
@@ -99,6 +99,7 @@ JAYATI SHRIVASTAVA
 - [Shawn Abtey] (https://github.com/exostasis)
 - [Sivashangari]
 - [Daniel Krumlinde](https://github.com/dklundvall)
+- [David Hevesi](https://github.com/davidhevesi)
 - [Durgesh Pandey] (https://github.com/HeartBeat1608)
 - [Bhavya thakker] (https://github.com/bhavyabpt007)
 - [Ricardo Ramirez](https://github.com/elrick97)
