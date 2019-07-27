@@ -700,6 +700,7 @@ _ Jay Kim
 - [Mohammed Yehia](https://github.com/engmohammedyehia)
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - Rahul Jyoti
+- [Max Yurs](https://github.com/MaxYurs)
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Shriram bhat](https://github.com/butcodes)
 - [Mike Disbrow](https://github.com/mdisbrow)
