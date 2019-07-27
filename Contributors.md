@@ -7376,7 +7376,7 @@ _ Jay Kim
 - [Todd Brock](https://github.com/bitlbot)
 - [Renan Pessoa](https://github.com/renanpessoa)
 - [Himanshu Ratnani](https://github.com/ratnani1996)
-- [Joshua Walden](https://github.com/WaldenJosh}
+- [Joshua Walden](https://github.com/WaldenJosh)
 - [Tanmay](https://github.com/maytanthegeek)
 - [Jon Blackburn](https://github.com/elcarn23)
 - [Reuns](https://github.com/hacksignn)
