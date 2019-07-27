@@ -12607,6 +12607,7 @@ _ Jay Kim
 - [Trill Cosby](https://github.com/trillcosby)
 - [Lucas Alvarenga](https://github.com/luucasac)
 - [Ilteris Tabak](https://github.com/ilteristabak)
+- [Summerok-Tree](https://github.com/Summerok)
 - [Praveen Bathala](https://github.com/prvn)
 - [Maria Camila Gómez Rpo](https://github.com/camigomez35)
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
