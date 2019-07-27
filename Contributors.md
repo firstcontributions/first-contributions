@@ -53,6 +53,7 @@
 - [Kevan Lucchini](https://github.com/kevanlucc)
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
+- [Sagar N](https://github.com/nomad302)
 - Prathmesh  Bendal
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
