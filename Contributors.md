@@ -64,12 +64,10 @@ JAYATI SHRIVASTAVA
 - [Swapnil Goyal] (https://github.com/anon20)
 - [Ryan Modugno] (https://github.com/MissBuns)
 - [Srinath Nair] (https://github.com/s_nath99920)
-- [Brian Lee] (https://github.com/Brian-Lee)
 - [Ash Abrahamson] (https://github.com/JuicySun99)
 - [Dante] (https://github.com/dantedallag)
 - [Colin Anderson] (https://github.com/40216006)
 - [Shirish Nigam] (https://github.com/techlab23)
-- [Brian Lee] (https://github.com/Brian-Lee)
 - [Will K]
 - [Ndifreke Friday] (https://github.com/ndiecodes) 
 - [Avinash]
@@ -12243,6 +12241,7 @@ Bailey Wong
 - [Roberto Bernardinello](https://github.com/rbernardinello)
 - [Caio Augusto](https://github.com/caioag)
 - [Eve Mendelevich](https://github.com/mendelevich)
+- [Brian Lee](https://github.com/Brian-Lee)
 - [Andrzej Dubaj](https://github.com/coffeina)
 - [Viviana Rincon](https://github.com/ttalgihon)
 - [Inge Becht](https://github.com/inge91)
