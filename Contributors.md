@@ -610,6 +610,7 @@ _ Jay Kim
 - [Andrew Kiselev](https://github.com/akiselev1)
 - [Yudi](https:/i/github.com/yudi7ll)
 - [Verduor](https://github.com/verduor)
+- [UnicodeRogue](https://github.com/UnicodeRogue)
 - Daniel Jung
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Vignesh Nandhini Velu](https://github.com/vigneshvelu)
