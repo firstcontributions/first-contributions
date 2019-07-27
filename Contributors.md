@@ -299,6 +299,7 @@ _ Jay Kim
 - [Jade Cole](https://github.com/sjs8906)
 - [Abhin Lingamaneni](https://github.com/abhin1899)
 - [Martin Ptrl](https://github.com/MartinPtrl)
+- [Bill Wagner](https://github.com/billwagner3)
 - kurt Kobain
 - [Adam Green](https://github.com/CatByt)
 - [Aakash](https://github.com/saiaakash)
