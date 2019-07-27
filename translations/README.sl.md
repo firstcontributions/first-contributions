@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -102,19 +102,9 @@ Zamenjaj `<add-your-branch-name>` z imenom veje, ki si jo ustvaril.
 
 Sedaj izvedi submit svojega pull requesta.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
-
-## Zbriši svojo vejo po združenju ( Delete the branch after pull request has been merged )
-
-Potem, ko so bile tvoje spremembe združene, lahko brez skrbi zbrišeš svojo vejo '<add-your-branch-name>'. Videl boš gumb s katerim se zbriše veja:
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="delete branch after PR is merged" />
-
-Če je bila združitev zavrnjena, te bo GitHub opozoril preden zbrišeš nezdružen commit. Gumb bo izgledal takole:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="delete branch after PR is not merged" />
 
 ##  Kako nadaljevati? ( Where to go from here? )
 

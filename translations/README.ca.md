@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -98,19 +98,9 @@ Si aneu al vostre respositori a GitHub, veureu un botó  `Compare & pull request
 
 Envía la *pull request*.
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="envia la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="envia la pull request" />
 
 Aviat estaré fusionant els vostres canvis en la branca (*branch*) master d'aquest projecte. Rebreu una notificació per correu electrònic un cop els canvis hagin sigut fusionats.
-
-## Eliminar la branca (*branch*) master després de que la *pull request* hagi estat fusionada
-
-Podeu eliminar de forma segura la branca (*branch*) `<afegiu-el-nom-de-la-branca>` un cop la *pull request* hagi sigut fusionada. Veureu un botó per a leiminar la branca (*branch*):
-
-<img style="float: right;" src="../assets/delete-branch-after-pr.png" alt="eliminar branch un cop PR s'ha fusionat" />
-
-Si la *Pull Request* ha sigut tancada sense haver estat fusionada, GitHub li advertirà sobre el fet d'eliminar *commits* no fusionats i el botó es veurà així:
-
-<img style="float: right;" src="../assets/delete-branch-warning.png" alt="eliminar branca després de que la PR no estigui fusionada" />
 
 ## On anar des d'aquí?
 
