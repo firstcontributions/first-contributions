@@ -181,6 +181,7 @@ _ Jay Kim
 - [Jo Ann E.](https://github.com/Jo-IE)
 - [LukaJ](https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
+Christian Reyes
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Davy Chan](https://github.com/dcastellon0001)
