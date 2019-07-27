@@ -74,6 +74,7 @@
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
 - Bradley Gray-hall
+- [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
 - [Kartik Sama](https://github.com/Kartik-Sama)
