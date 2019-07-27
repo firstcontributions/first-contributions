@@ -133,6 +133,7 @@
 - [lihaoyuan](https://github.com/l1haoyuan)
 - [Elliot Blanchard](https://github.com/elliotblanchard)
 - [Radi Rusadi](https://github.com/radirs)
+- [Evan Finnigan] (https://github.com/Evan-Finnigan)
 - [Marco Greco ](https://github.com/MarcoAGreco)
 - [Michal Fidler](https://github.com/dottoreFell)
 - [Lucas Robitaille](https://github.com/robitaille1)
