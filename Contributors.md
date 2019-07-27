@@ -38,6 +38,8 @@ _ Jay Kim
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
 - Bobby Wisdom
+- NADYA POST
+
 - [Krati Garg](https://github.com/kratigarg167)
 - [Pablo Castillo](https://github.com/pcast11)
 - [Tomaz Gomes](https://github.com/tomaz1502)
@@ -60,6 +62,7 @@ _ Jay Kim
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
 - Brian
+Nadya
 - Deepak Daroshi
 - Gwennie Kidd
 - BeldCode
