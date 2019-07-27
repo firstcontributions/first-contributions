@@ -155,7 +155,7 @@ _ Jay Kim
 - [Anthony Pereira](https://github.com/anfornee)
 - [Nope_Hope](https://github.com/AutumnEquinox)
 - [Sid Hackney](https//github.com/practicalmess)
-- [Ishiita Singh](https://github.com/ishita20)
+- [Ishita Singh](https://github.com/ishita20)
 - [Helen Fong](https://github.com/HelenFong)
 - [Kirito-k](https://github.com/kirito-k)
 - [SnowyDavid](https://github.com/SnowyDavid)
