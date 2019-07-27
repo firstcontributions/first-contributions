@@ -28,6 +28,7 @@ _ Jay Kim
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
+- [Soham Kar](https://github.com/2bit-hack)
 - [Debasish Ghose](https://github.com/debasishghose)
 - [QQuinn](https://github.com/qquinn)
 - [Shamund Gordon](https://github.com/15sora2)
