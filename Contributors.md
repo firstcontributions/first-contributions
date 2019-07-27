@@ -98,6 +98,7 @@ _ Jay Kim
 - Abhishek Bhandari
 - [Aurore Vandroux](https;//github.com/ORORRR)
 - [Brianna McGovern](https://github.com/bmcgovern007)
+- [osmanjan omar](https://github.com/oghuz)
 - Mayra-io
 - [micollov](https://github.com/micollov)
 - Haran Lakha
