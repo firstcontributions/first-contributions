@@ -20,8 +20,7 @@ i# Contributors
 -[phongnguyen39]  (https://github.com/phongnguyen39)
 Cody Dullard
 JAYATI SHRIVASTAVA
-- [sixlim] (https://github.com/sixlim)
-- [Caio Guedes](https://github.com/caiomcg)
+- [sixlim] (https://github.com/sixlim))
 - [Robert Gleason] (https://github.com/robgleason)
 - [Ramon Morcillo](https://github.com/reymon359)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
@@ -12916,6 +12915,7 @@ Bailey Wong
 - [strongwong](https://github.com/strongwong)
 - [Rajitha Gunathilake](https://github.com/RizkyRajitha)
 - [Padniuk Evgeny](https://github.com/muspelheim)
+- [Caio Guedes](https://github.com/caiomcg
 - [Yasir Abdurrohman](https://github.com/yasirabd)
 - [Ali Qornan](https://github.com/qornanali)
 - [Sinitax](https://github.com/sinitax)
