@@ -113,6 +113,7 @@ _ Jay Kim
 - [Arjun Dubey](https://github.com/arjundubey-cr)
 - [Adam Gracy](https://github.com/agracy2246)
 - [Ilham Adi Pratama](https://github.com/blacksyan)
+- [Kevin Cheathem Sr](https://github.com/cheakingIA67)
 - [Arun Kumar Sahoo](https://github.com/arunsahoo)
 - [Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Pradipta Samra][https://github.com/pradiptasarma
