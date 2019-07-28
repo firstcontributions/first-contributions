@@ -313,6 +313,7 @@ Christian Reyes
 - [Martin Ptrl](https://github.com/MartinPtrl)
 - [Bill Wagner](https://github.com/billwagner3)
 - kurt Kobain
+- Pritt
 - [Adam Green](https://github.com/CatByt)
 - [Aakash](https://github.com/saiaakash)
 - [John Braganza](https://github.com/Youth-Li)
