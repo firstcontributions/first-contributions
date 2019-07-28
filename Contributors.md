@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 _ Jay Kim
 - Derek Zoolanderhausen
@@ -42,6 +42,7 @@ _ Jay Kim
 - Isaak Sampson
 - Bobby Wisdom
 - NADYA POST
+- [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
 - [Pablo Castillo](https://github.com/pcast11)
 - [Tomaz Gomes](https://github.com/tomaz1502)
