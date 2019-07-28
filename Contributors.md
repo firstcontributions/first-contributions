@@ -291,6 +291,7 @@ Christian Reyes
 - Aruna Priyadarshini
 - Yudi Xu evec
 - Giovanni L.
+- [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
 - [Sankalp Sharma](https://github.com/5ankalp)
 - [Teresa Kuziak](https://github.com/Tkuziak)
