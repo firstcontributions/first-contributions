@@ -185,6 +185,7 @@ _ Jay Kim
 Christian Reyes
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
+- [Adithya S](https://github.com/Adithya188288))
 - [Davy Chan](https://github.com/dcastellon0001)
 - [Prasanth Yadla](https://github.com/prashantyadla)
 - [Jordon Ulrich](https://github.com/jodgey)
