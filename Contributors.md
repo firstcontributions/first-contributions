@@ -257,6 +257,7 @@ Christian Reyes
 - [Tracie Witteborg](https://github.com/alwaysTracieT)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani](https://github.com/hariduttt)
+- [Fulvio Somma](https://github.com/Fulvio97)
 - [Elena Lestini](https://github.com/Ellie2020)
 - [Ahmed Khalil Jerbi](https://github.com/HamoudaJoe)
 - [Shakti Ratan](https://github.com/sat5297)
