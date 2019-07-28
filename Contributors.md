@@ -14973,6 +14973,7 @@ Christian Reyes
 - [Mervin Ng](https://github.com/m6ng)
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
+- [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Arpit Pandey](https://github.com./arpitansu)
 - [Deanna Thompson](https://github.com/deannathompson)
 - [Stephanie Stevens](https://github.com/lekaceleb)
