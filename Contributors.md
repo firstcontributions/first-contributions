@@ -102,6 +102,7 @@ _ Jay Kim
 - Mayra-io
 - [micollov](https://github.com/micollov)
 - Haran Lakha
+- [Matheus Gomes](https://github.com/mudouasenha)
 - [Jack Lovell](https://github.com/jack-rl-ovell)
 - [Rupayan Sarkar](https://github.com/QMrpy)
 - [Isha Terdal](https://github.com/ishaterdal)
