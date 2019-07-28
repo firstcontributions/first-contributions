@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 _ Jay Kim
 - Derek Zoolanderhausen
@@ -506,6 +506,7 @@ Christian Reyes
 - [Dee Neely](https://github.com/CDNeely64)
 - [Derek Caldwell](https://github.com/derarc2)
 - [Lisa Nelson](https://github.com/Lisa3000)
+- [Jeremy Alcanzare] (https://github.com/Crushellini)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
 - [epithite32](https://github.com/epithite32)
