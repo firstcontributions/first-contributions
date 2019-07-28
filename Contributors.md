@@ -4627,6 +4627,7 @@ Christian Reyes
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Htoo Pyae](https://github.com/hpbyte)
 - [Iann Carvalho](https://github.com/ianncarvalho)
+- [Thomas Cheng](https://github.com/tomh12player)
 - [Mohit Yadav](https://github.com/mohityadav7)
 - Kuman Vaghasiya
 - [Myles Brown](https://github.com/Myles2)
