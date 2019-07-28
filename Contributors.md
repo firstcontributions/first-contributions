@@ -8049,6 +8049,7 @@ Christian Reyes
 - [Gene Xu](https://github.com/genexu)
 - [Yosef Mihretie](https://github.com/yosefmih)
 - [Aqsha Syahri Ramadhani](https://github.com/Nabbskuy)
+- [Jacob Deasy](https://github.com/jacobdeasy)
 - [Kaustubh Welankar](https://github.com/kaustubh-welankar)
 - [Dilina De Silva](https://github.com/dilinadesilva)
 - [Anup Shrestha](https://github.com/demonsterking)
