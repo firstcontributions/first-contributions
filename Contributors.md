@@ -4253,6 +4253,7 @@ CMBloodMeridian
 - [CallmeHenry](https://github.com/CallmeHenry)
 - [Htoo Pyae](https://github.com/hpbyte)
 - [Iann Carvalho](https://github.com/ianncarvalho)
+- [Thomas Cheng](https://github.com/tomh12player)
 - [Mohit Yadav](https://github.com/mohityadav7)
 - Kuman Vaghasiya
 - [Myles Brown](https://github.com/Myles2)
@@ -14451,4 +14452,3 @@ skelter2014
 - [Sayem Wani] (https://github.com/SayemW)
 - [Luke Colpo] (https://github.com/lukecolpo/first-contributions)
 - [Alan da Matta] (https://github.com/alandamatta)
-- [Thomas Cheng] (https://github.com/tomh12player)
