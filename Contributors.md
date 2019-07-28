@@ -243,6 +243,7 @@ Christian Reyes
 - ohm Resistance
 - [Pramesh Sharma](https://github.com/prameshsharma25)
 - Ellie Taylor
+- Toby Brown
 - Abhilash Agrawal
 - [Amit Weiss](https://github.com/Amit-Weiss)
 - [Ryan Veitenheimer](https://github.com/RyanV90)
