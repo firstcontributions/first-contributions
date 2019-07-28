@@ -1010,6 +1010,7 @@ Christian Reyes
 - [Monty Britton](https://github.com/MontyBr)
 - [Christina Luna](https://github.com/christinaluna)
 - [Ashwani](https://github.com/ashwani12131)
+- [Karishma Pherwani](https://github.com/pherwanikar)
 - [Raul Dutta](https://github.com/duttar18)
 - [Fayad Alkhadra](https://github.com/ghost-fa)
 - [rodrigoamc](https://github.com/rodrigo-amc)
