@@ -86,6 +86,7 @@ _ Jay Kim
 - [Soniya Nayak](https://github.com/Soniyanayak51)
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
+- Raegan Bryant
 - Bradley Gray-hall
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
