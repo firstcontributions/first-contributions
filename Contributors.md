@@ -11,6 +11,7 @@ _ Jay Kim
 - tkc1009
 - Techtonic Flash
 - Nafan h
+- Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima](https://github.com/killian-coder)
 - [Jeff Kwong](https://github.com/JeffKwong15)
@@ -458,7 +459,7 @@ Christian Reyes
 - [Luis Villamil](https://github.com/Luisvillamil)
 - [Darren Lim](https://github.com/darrenlimweiyang)
 - [Tom Dale](https://github.com/tomkdale)
-- [Gabriel Bustamante](https://github.com/gabrielBusta)  
+- [Gabriel Bustamante](https://github.com/gabrielBusta)
 - [Shumai Ocbayes A](https://github.com/shumai9)
 - [Jay Kaiser](https://github.com/jayckaiser)
 - [Austin Alv](https://github.com/ama0115)
@@ -14951,7 +14952,7 @@ Christian Reyes
 - [Trent Bosak](https://github.com/bosaktrent)
 - [Iftakhar Alam Rizve](https://github.com/Iftakharalamrizve)
 - [Nanthakarn limkool](https://github.com/ZEZAY)
-- [Bishnu Murmu](https://github.com/bishnumurmu)  
+- [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
 - [Ron Mallory](https://github.com/RonMallory)
 - [Joseph Ng](https://github.com/ktng91)
