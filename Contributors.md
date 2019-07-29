@@ -6371,6 +6371,7 @@ Bailey Wong
 - [Raquel Ventas](https://github.com/rventas)
 - [Balaji Mj](https://github.com/Bala1718)
 - [Inci Qasimova](https://github.com/inci-august)
+- [chris](https://github.com/chris-hesser)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
 - [chadb](https://github.com/chadb4184)
@@ -14434,5 +14435,4 @@ skelter2014
 - [Adrian Cruz] (https://github.com/ainzacruz)
 - [Olcay Karaduman] (https://github.com/olckara)
 - [sonianuj287] (https://github.com/sonianuj287)
-- [chris] (https://github.com/chris-hesser)
 - [Ryan Andrew Sibat] (https://github.com/ryaaanandrew)
