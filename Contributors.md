@@ -13749,6 +13749,7 @@ Tyler Strang
 - [Teresa Ingram](https://github.com/malteserteresa)
 - [Ricardo Mondini](https://github.com/mondini)
 - [codesquadkiki](https://github.com/codesquadkiki/)
+- [Abhishek Pokhrel](https://github.com/abhishekpokhrel)
 - [gullibility](https://github.com/gullibility/)
 - [Milos Kostic](https://github.com/misa2)
 - [Alex Pacheco](https://github.com/alexpa123)
@@ -13969,4 +13970,3 @@ skelter2014
 - [Fabian Mesias] (https://github.com/ifmr24)
 - [Ross Wilkinson] (https://github.com/rgwilkin)
 - [Samet Şahin](https://github.com/sametcl2)
-- [Abhishek Pokhrel](https://github.com/abhishekpokhrel)
