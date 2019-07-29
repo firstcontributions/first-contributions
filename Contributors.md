@@ -15036,3 +15036,4 @@ Christian Reyes
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
 - [MisterHup] (https://github.com/MrHup)
 - [Ray Rojas] (https://github.com/lokcito)
+- [Janine Prukop] (https://github.com/JaninePrukop)
