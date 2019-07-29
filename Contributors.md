@@ -15035,3 +15035,4 @@ Christian Reyes
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
 - [MisterHup] (https://github.com/MrHup)
+- [Ray Rojas] (https://github.com/lokcito)
