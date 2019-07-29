@@ -13,6 +13,7 @@ _ Jay Kim
 - Evangelos Mag.
 - Ahmad
 - Nafan h
+- [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
 - [Aggrey Chinthalima](https://github.com/killian-coder)
