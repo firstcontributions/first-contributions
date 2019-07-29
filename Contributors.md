@@ -10,6 +10,7 @@ _ Jay Kim
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
 - Techtonic Flash
+- Evangelos Mag.
 - Ahmad
 - Nafan h
 - [なるみ](https://github.com/narumiruna)
