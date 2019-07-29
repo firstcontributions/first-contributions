@@ -699,6 +699,7 @@ Christian Reyes
 - Sethatron
 - [Serdar Ashirov](https://github.com/serdartkm)
 - goodgrieff
+- [Matthew Vaughn] [https://github.com/razzMattazz
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen](https://github.com/achencoms)
 - [Ahmed Khaled](https://github.com/ahmedkhaledak)
