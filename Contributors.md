@@ -6494,6 +6494,7 @@ Christian Reyes
 - [DevAbhinav](https://github.com/devabhinav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
+- [Sahil Shingari](https://github.com/SahilShingari)
 - [Vidushi Jain](https://github.com/VidushiJain30)
 - [Aditya Agarwal](https://github.com/itaditya)
 - [Michael Sasse](https://github.com/mikeysasse)
