@@ -5004,6 +5004,7 @@ Christian Reyes
 - Pankaj Khemani
 - [Hulloowan Bha](https://github.com/hulloowan)
 - [Avinash Raghuthu](https://github.com/avinashraghuthu)
+- [Hugo Machado](https://github.com/xavier-machado)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Uros Stojiljkovic](https://github.com/urossss)
 - [Rijnhardt Kotze](https://github.com/RijnhardtKotze)
