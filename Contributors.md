@@ -107,6 +107,7 @@ _ Jay Kim
 - Mayra-io
 - [micollov](https://github.com/micollov)
 - Haran Lakha
+- [R Downes] (https://github.com/rhiannadownes)
 - [Matheus Gomes](https://github.com/mudouasenha)
 - [Jack Lovell](https://github.com/jack-rl-ovell)
 - [Callistus](https://github.com/callistusndemo)
