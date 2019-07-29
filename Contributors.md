@@ -1,5 +1,5 @@
 ﻿# Contributors
--  [Khalid Alharthi] (https://github.com/alaisary/first-contributions)
+ 
 - [wa4It] (https://github.com/dTCTb)
 - [yli302] (https://github.com/yli302)
 - [Katie Chen] (https://github.com/k8iechen)
@@ -11131,6 +11131,7 @@ Bailey Wong
 - [Naren Bakshi](https://github.com/narenbakshi97)
 - [Naomi C.](https://github.com/naomi-rc)
 - [Ramiro Andrés Bedoya](https://github.com/whistler092)
+- [Khalid Alharthi](https://github.com/alaisary/first-contributions)
 - [Joe Paravisini](https://github.com/jparavisini)
 - [Guy Gavergun](https://github.com/guygaver)
 - [Berzee](https://github.com/Berzee)
