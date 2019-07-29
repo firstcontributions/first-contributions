@@ -587,6 +587,7 @@ Christian Reyes
 - [Ritwik](https://github.com/Dips2705
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Pawel Jastrzebski](https://github.com/pawjastrzebski)
+- [Maciej Mielcarski](https://github.com/mmielcarski)
 - [Daniele Petillo](https://github.com/dapetillo)
 - [Ricardo Franco](https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
