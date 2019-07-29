@@ -6783,6 +6783,7 @@ Christian Reyes
 - [Raquel Ventas](https://github.com/rventas)
 - [Balaji Mj](https://github.com/Bala1718)
 - [Inci Qasimova](https://github.com/inci-august)
+- [chris](https://github.com/chris-hesser)
 - [Tomas Falgui](https://github.com/tomy8910)
 - [Mickey Diener](https://github.com/mbdiener)
 - [chadb](https://github.com/chadb4184)
