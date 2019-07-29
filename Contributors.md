@@ -823,6 +823,7 @@ Christian Reyes
 - [Tarun Agarwal](https://github.com/Tarun-abesit)
 - [Pankaj Joshi](https://github.com/pankaj-kvhld)
 - [Aroh Sunday](https://github.com/melitus)
+- [Vineeth Kolluru](https://github.com/VineethK336)
 - Gavin Hoang
 - [E Tolman](https://github.com/ettolman)
 - [KSeangTan](https://github.com/KSeangTan)
