@@ -106,6 +106,7 @@ _ Jay Kim
 - Haran Lakha
 - [Matheus Gomes](https://github.com/mudouasenha)
 - [Jack Lovell](https://github.com/jack-rl-ovell)
+- [Callistus](https://github.com/callistusndemo)
 - [Rupayan Sarkar](https://github.com/QMrpy)
 - [Isha Terdal](https://github.com/ishaterdal)
 - [Caroline](https://github.com/enviro3)
