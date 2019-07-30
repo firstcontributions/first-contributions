@@ -15,6 +15,7 @@ _ Jay Kim
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
 - Raymond Maple
+- Joshua Harrington
 - Techtonic Flash
 - Bienhuels B.
 - Evangelos Mag.
