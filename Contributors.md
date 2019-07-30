@@ -15,6 +15,7 @@ _ Jay Kim
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
+- Eugenio Colnaghi(https://github.com/EColnaghi)
 - Raymond Maple
 - Colin M. Misbach
 - Techtonic Flash
