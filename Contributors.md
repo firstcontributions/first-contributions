@@ -13,6 +13,7 @@ _ Jay Kim
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
 - Raymond Maple
+- Colin Misbach
 - Techtonic Flash
 - Bienhuels B.
 - Evangelos Mag.
