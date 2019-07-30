@@ -485,6 +485,7 @@ Christian Reyes
 - [Brittany Saucedo](https://github.com/bjs1400)
 - [Sean Shanahan](https://githup.com/Shenanigans77)
 - [Alan Macabuhay](https://github.com/amac714)
+- [Rita Tsai](https://github.com/RitaTsai-Git)
 - [Ankit Gupta](https://github.com/aki21j)
 - [Robin Geissmann](https://github.com/geissmannsbin)
 - [William Freeman](https://github.com/FreemanWilliam)
