@@ -14785,6 +14785,7 @@ _ Jay Kim
 - sevevictor
 - [Jun Wang](https://github.com/friforever)
 - [Swapnanil Pathak](https://github.com/swapnanilpathak)
+- [Srivathsa](https://github.com/Soapdemon)
 - [Sathish Thiyagarajan](https://github.com/sathish-t)
 - [Ananthalakshmi Sankar](https://github.com/anu294)
 - [Fabian Mesias](https://github.com/ifmr24)
@@ -14998,4 +14999,3 @@ _ Jay Kim
 - [Christopher Chmielewski](https://github.com/ChristopherChmielewski)
 - [abudawud](https://github.com/abudawud)
 - [David Azael Bernal](https://github.com/davidazael)
--[Srivathsa](https://github.com/Soapdemon)
