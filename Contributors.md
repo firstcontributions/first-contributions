@@ -6674,6 +6674,7 @@ Christian Reyes
 - [Jimmy Mannan](https://github.com/jiimms)
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
+- [Zachery Anderson](https://github.com/erxrick)
 - [John Salvie](https://github.com/outofgamut)
 - [Vipin Chacko](https://github.com/vipin7)
 - [Molotovna](https://github.com/molotovna)
