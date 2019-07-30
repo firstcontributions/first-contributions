@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
 _ Jay Kim
