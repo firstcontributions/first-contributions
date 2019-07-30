@@ -393,6 +393,7 @@ Christian Reyes
 - [Peretz Levinov](https://github.com/perchick03)
 - [D Wills](https://github.com/dwills1971)
 - Dimon Barankov
+- [Braden Bodily](https://github.com/Unholydeath)
 - [P Mansukhani](https://github.com/pmansukhani)
 - [Elijah Brian](https://github.com/thexerothermic)
 - [Lisenor](https://github.com/Lisenor)
