@@ -14,7 +14,7 @@ _ Jay Kim
 - tkc1009
 - Raymond Maple
 - Techtonic Flash
-- Bienhuels B
+- Bienhuels B.
 - Evangelos Mag.
 - Ahmad
 - Nafan h
