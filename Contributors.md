@@ -9,6 +9,7 @@ _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
+- William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - Stefanie Muroya
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
@@ -393,6 +394,7 @@ Christian Reyes
 - [Peretz Levinov](https://github.com/perchick03)
 - [D Wills](https://github.com/dwills1971)
 - Dimon Barankov
+- [Braden Bodily](https://github.com/Unholydeath)
 - [P Mansukhani](https://github.com/pmansukhani)
 - [Elijah Brian](https://github.com/thexerothermic)
 - [Lisenor](https://github.com/Lisenor)
@@ -445,6 +447,7 @@ Christian Reyes
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan](https://github.com/michan94)
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
+- [Jose Arteaga] (https://github.com/HoseBee)
 - [Felix Melligan](https://github.com/felix-melligan)
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
@@ -14402,6 +14405,7 @@ Christian Reyes
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
+- [Joshua Key] (https://github.com/JoshuaKey)
 - [Coder](https://github.com/coder9604)
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
@@ -15084,3 +15088,4 @@ Christian Reyes
 - [Martin Carles](https://github.com/martincarles)
 - [Austin Blandford](https://github.com/ABlandford)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- [Brendan Cleveland](https://github.com/BCleveland)
