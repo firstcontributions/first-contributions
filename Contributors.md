@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- Omar Rodriguez
 _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
