@@ -946,6 +946,7 @@ Christian Reyes
 - [Dale Holstein](https://github.com/zarnerz)
 - David An
 - Alice Always
+- aish
 - [Mini Mel](https://github.com/Mini-mel)
 - Bug2k19
 - Sajith Bandara
