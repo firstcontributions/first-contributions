@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
 _ Jay Kim
 - Derek Zoolanderhausen
