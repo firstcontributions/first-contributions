@@ -9,6 +9,7 @@ _ Jay Kim
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
+- Raymond Maple
 - Techtonic Flash
 - Evangelos Mag.
 - Ahmad
