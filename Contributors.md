@@ -1157,6 +1157,7 @@ Christian Reyes
 - [Jeremy Purser](https://github.com/jeremypurser)
 - [Jeremy Reed](https://github.com/jeremymreed)
 - [Jazz Jones](https://github.com/twiggytwixter)
+- [Isaac Berman](https://github.com/bermani)
 - [Folke Westergren](https://github.com/f-westergren)
 - [JThissen](https://github.com/JThissen)
 - [Tyler Bromley](https://github.com/TylerBromley)
