@@ -923,6 +923,7 @@ Christian Reyes
 - Spencer Peace
 - David Yoon
 - Victor R
+- [Matthew Bosek](https://github.com/MatthewBosek)
 - Molly Johnson
 - Titan
 - Perttu Raivio
