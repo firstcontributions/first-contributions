@@ -17,6 +17,7 @@ _ Jay Kim
 - Evangelos Mag.
 - Ahmad
 - Nafan h
+- [Baris Mar Aziz](https://github.com/barismar)
 - Kan Dang (https://github.com/kandaaang)
 - [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
