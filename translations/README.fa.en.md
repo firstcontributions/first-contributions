@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 Tavajjoh : IN Noskheye Finglish Az Tarjomeye Farsie Hamin Matne Va Kheyli Az Vazhe Ha Be Shekle Englishe Khodeshoon Neveshte Shodan Chon Tarjomashoon Chize Jalebi Az Aab Dar Nemiad
 # Avvalin Contribution (Hamkari, Mosharekat)
@@ -10,7 +11,7 @@ Sakhte. Hamishe Anjam Dadane Kari Baraye Avvalin Bar Sakhte. Makhsoosan Vaghti D
 Khoondane Maghale Va Didane Tutorial Ha Mitoone Komak Kone, Amma Chi Az Vaghan Anjam Dadane Kar Ha Bedoone Kharab Kari Behtare ?
 Hadafe IN Proje Mohayya Kardane Yek Rahnama Va Sade Kardane Rahe Taze Kar Ha Baraye Avvalin Mosharekat.eshoone . Yadetoon Bashe: Harchi Relax Tar Bashi, Behtar Yad Migiri. Age Donbale IN Hasti Ke Avvalin Contribute Ro Anjam Bedi, Faghat Ghadam Be Ghadam Rahnamaye Zir Ro Donbal Kon. Ma Behet Ghol Midim, Gharare Khosh Begzare :D
 
-#### *IN Ro Dar [Zaban Haye Dige](Translations.md) Bekhoonin.*
+#### *IN Ro Dar [Zaban Haye Dige](../Translations.md) Bekhoonin.*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -89,7 +90,7 @@ Age Beri Too Repository Roo GitHub, Dokmeye `Compare & pull request` Ro Mibini. 
 
 Hala Darkhate Pull Ro Submit Kon
 
-<img style="float: right;" src="../assets/submit-pull.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Be Zoodi Man Tamame Taghiratet Ro Be Branche "Master" Ezafe Mikonam. Be Mahze IN Ke Taghirat Submit Shod Email Daryaft Mikoni
 
@@ -99,19 +100,19 @@ Mosharekatet Ro Jashn Begir Va Ba Follower Ha o Doostat Be Eshterak Bezar
  [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Dar Soorati Ke Soal Dashti Ya Komak Khasti Mitooni Be Teame Slacke Ma Bepeyvandi
-[Join slack team](https://firstcontributions.herokuapp.com).
+[Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Hala Bia Too Proje Haye Dige Mosharekat Konim. We Ye Listi Az Proje Hayi Ba Moshkelate Sade Gerd Avari Kardim Ke Mitooni Az OON Ja Shoroo Koni.
 [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](additional-material/additional-material.md)
+### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 ## Self-Promotion
 
@@ -120,4 +121,4 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
