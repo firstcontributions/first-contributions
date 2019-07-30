@@ -189,6 +189,7 @@ _ Jay Kim
 - [Devanshu Yadav](https://github.com/Blackwatch1910)
 - [Kylan Byrd](https://github.com/aviananalyst)
 - [Jibri Tolen](https://github.com/AlienDev1)
+- [Hyun Ouk Nam](https://github.com/hyunouknam)
 - [Shantigunna](https://github.com/shantigunna22)
 - [Henry Akwerigbe](https://github.com/Henadek)
 - [tolufohunsi](https://github.com/tolufohunsi)
