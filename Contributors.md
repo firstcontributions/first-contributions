@@ -14908,7 +14908,7 @@ Christian Reyes
 - [Sam McRuvie](https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
-- [Priyank Patel](https://github.com/pp2309)
+- [Priyank Patel](https://github.com/patel-priyank)
 - [Hassan Elseoudy](https://github.com/Hassan-Elseoudy)
 - [Titus Wen](https://github.com/wen372)
 - [Toni Blackwelder](https://github.com/toni517b)
