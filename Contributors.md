@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
@@ -8,12 +9,14 @@ _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
+- William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - Stefanie Muroya
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
 - Raymond Maple
+- Colin M. Misbach
 - Techtonic Flash
 - Bienhuels B.
 - Evangelos Mag.
@@ -40,6 +43,7 @@ _ Jay Kim
 - [Milad Ahmadi](https://github.com/themiladahmadi/)
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Dhanrudh Venkat](https://github.com/Dhan996)
+= [Brandyn Bushong] (https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Anton Ödman](https://github.com/banjoanton)
@@ -80,6 +84,7 @@ _ Jay Kim
 - Prathmesh  Bendal
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
+- [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
 - Gwennie Kidd
@@ -389,6 +394,7 @@ Christian Reyes
 - [Peretz Levinov](https://github.com/perchick03)
 - [D Wills](https://github.com/dwills1971)
 - Dimon Barankov
+- [Braden Bodily](https://github.com/Unholydeath)
 - [P Mansukhani](https://github.com/pmansukhani)
 - [Elijah Brian](https://github.com/thexerothermic)
 - [Lisenor](https://github.com/Lisenor)
@@ -441,6 +447,7 @@ Christian Reyes
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan](https://github.com/michan94)
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
+- [Jose Arteaga] (https://github.com/HoseBee)
 - [Felix Melligan](https://github.com/felix-melligan)
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
@@ -523,6 +530,7 @@ Christian Reyes
 - [Josh Zheng](https://github.com/jadeGeist)
 - [Botond Hajdu](https://github.com/hajduboti)
 - [Jason Hall](https://github.com/jsnhall)
+- [Shahriar Kabir](https://github.com/shahria73)
 - [Alejandro González](https://github.com/agfonte)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
@@ -945,6 +953,7 @@ Christian Reyes
 - [Dale Holstein](https://github.com/zarnerz)
 - David An
 - Alice Always
+- aish
 - [Mini Mel](https://github.com/Mini-mel)
 - Bug2k19
 - Sajith Bandara
@@ -2173,6 +2182,7 @@ Christian Reyes
 - [Duc Vu](https://github.com/korando)
 - [Connor Johnson](https://github.com/obeserocket)
 - [Okenwa kenneth](https://github.com/Anekenonso)
+- Lucas McKamey
 - Priyanka Walunj
 - [Lavanay Thakral](https://github.com/MetalBaba98)
 - [Ebne Faiz Al-Amin](https://github.com/mefalamin)
@@ -6667,6 +6677,7 @@ Christian Reyes
 - [Jimmy Mannan](https://github.com/jiimms)
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
+- [Zachery Anderson](https://github.com/erxrick)
 - [John Salvie](https://github.com/outofgamut)
 - [Vipin Chacko](https://github.com/vipin7)
 - [Molotovna](https://github.com/molotovna)
@@ -14394,6 +14405,7 @@ Christian Reyes
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
+- [Joshua Key] (https://github.com/JoshuaKey)
 - [Coder](https://github.com/coder9604)
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
@@ -14906,7 +14918,7 @@ Christian Reyes
 - [Sam McRuvie](https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
-- [Priyank Patel](https://github.com/pp2309)
+- [Priyank Patel](https://github.com/patel-priyank)
 - [Hassan Elseoudy](https://github.com/Hassan-Elseoudy)
 - [Titus Wen](https://github.com/wen372)
 - [Toni Blackwelder](https://github.com/toni517b)
@@ -15076,3 +15088,4 @@ Christian Reyes
 - [Martin Carles](https://github.com/martincarles)
 - [Austin Blandford](https://github.com/ABlandford)
 - [Nicholas Ottens](https://github.com/NOttens)
+- [Brendan Cleveland](https://github.com/BCleveland)
