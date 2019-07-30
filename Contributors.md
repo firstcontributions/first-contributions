@@ -9,6 +9,7 @@ _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
+- William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - Stefanie Muroya
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
