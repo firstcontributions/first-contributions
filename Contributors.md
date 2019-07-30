@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
@@ -15082,6 +15082,7 @@ Christian Reyes
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
+- [Amanda Bakalarczyk(https://github.com/elbhednam)
 - [MisterHup] (https://github.com/MrHup)
 - [mskaprushchenko] (https://github.com/mskarpushchenko)
 - [Ray Rojas] (https://github.com/lokcito)
