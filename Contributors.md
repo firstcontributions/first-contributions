@@ -6270,6 +6270,7 @@ Christian Reyes
 - [KLR](https://github.com/karthicrajakumar)
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
 - [Duha Hassan](https://github.com/duha-h)
+- [Abhiroop Sen](https://github.com/asen121)
 - [paulskicoa](https://github.com/paulskicoa)
 - [Prakhar Pandey](https://github.com/prakharvk)
 - [Jonathan Allou](https://github.com/jonalloub/)
