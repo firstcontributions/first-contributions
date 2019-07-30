@@ -725,7 +725,7 @@ Christian Reyes
 - [Allyson Frazier](https://github.com/allyson09)
 - [Aditya Ravichandran](https://github.com/archnomed)
 - [Medha Pandey](https://github.com/Medha08)
-- [Hasan Al Sulaiman](https://github.com/Hasan-Ali)
+- [Rishabh Kumar](https://github.com/Rishabh0712)
 - [Camelicax](https://github.com/camelicax)
 - [Kristian Umlauf](https://github.com/greenje11o)
 - [Lavender Ding](https://github.com/Lavender-Ding)
