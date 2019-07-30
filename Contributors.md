@@ -36,6 +36,7 @@ _ Jay Kim
 - [Debasish Ghose](https://github.com/debasishghose)
 - [QQuinn](https://github.com/qquinn)
 - [Shamund Gordon](https://github.com/15sora2)
+- [Saurabh Kumar Jha](https://github.com/jhasaurabh312)
 - [Shek](https://github.com/shek119)
 - [Andre Duong](https://github.com/andreduong)
 - [Jon Gregis](https://github.com/jongregis)
