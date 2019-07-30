@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
@@ -523,6 +523,7 @@ Christian Reyes
 - [Josh Zheng](https://github.com/jadeGeist)
 - [Botond Hajdu](https://github.com/hajduboti)
 - [Jason Hall](https://github.com/jsnhall)
+- [Shahriar Kabir](https://github.com/shahria73)
 - [Alejandro González](https://github.com/agfonte)
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
