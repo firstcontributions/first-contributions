@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Wesxdz](https://github.com/Wesxdz)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
