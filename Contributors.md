@@ -14841,6 +14841,7 @@ Christian Reyes
 - sevevictor
 - [Jun Wang](https://github.com/friforever)
 - [Swapnanil Pathak](https://github.com/swapnanilpathak)
+- [Srivathsa](https://github.com/Soapdemon)
 - [Sathish Thiyagarajan](https://github.com/sathish-t)
 - [Ananthalakshmi Sankar](https://github.com/anu294)
 - [Fabian Mesias](https://github.com/ifmr24)
