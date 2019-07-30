@@ -2173,6 +2173,7 @@ Christian Reyes
 - [Duc Vu](https://github.com/korando)
 - [Connor Johnson](https://github.com/obeserocket)
 - [Okenwa kenneth](https://github.com/Anekenonso)
+- Lucas McKamey
 - Priyanka Walunj
 - [Lavanay Thakral](https://github.com/MetalBaba98)
 - [Ebne Faiz Al-Amin](https://github.com/mefalamin)
