@@ -80,6 +80,7 @@ _ Jay Kim
 - Prathmesh  Bendal
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
+- [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
 - Gwennie Kidd
