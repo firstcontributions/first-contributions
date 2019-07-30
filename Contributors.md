@@ -428,8 +428,6 @@ Christian Reyes
 - [Swati](https://github.com/swati66)
 - [Raja Yellapu](https://github.com/rajayellapu)
 - [Baris Can Yilmaz](https://github.com/bariscanyilmaz)
-- 嗯嗯嗯
-- qwerty qwerty
 - [Chriptus](https://github.com/chriptus13)
 - Kornilius](https://github.com/Kornilius) [7/8/19
 - [Soo Kyung Ahn](https://github.com/sahnsookyung)
