@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
@@ -13,6 +13,7 @@ _ Jay Kim
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
 - Raymond Maple
+- Merlin N.
 - Techtonic Flash
 - Bienhuels B.
 - Evangelos Mag.
