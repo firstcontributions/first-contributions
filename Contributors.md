@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Cameron Faust](https://github.com/CFaustNuemont)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
