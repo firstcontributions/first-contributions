@@ -14972,6 +14972,7 @@ Christian Reyes
 - [Farhat SH](https://github.com/farhatcode)
 - [David Gutierrez-McCormack](https://github.com/davidmccormack)
 - [Joachim Miens](https://github.com/jojo58fr)
+- [M Farhad](https://github.com/imfarhad)
 - [Joseph Gattuso](https://github.com/josephgattuso)
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
