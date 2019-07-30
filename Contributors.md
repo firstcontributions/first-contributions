@@ -14,9 +14,11 @@ _ Jay Kim
 - tkc1009
 - Raymond Maple
 - Techtonic Flash
+- Bienhuels B.
 - Evangelos Mag.
 - Ahmad
 - Nafan h
+- [Baris Mar Aziz](https://github.com/barismar)
 - Kan Dang (https://github.com/kandaaang)
 - [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
@@ -154,6 +156,7 @@ _ Jay Kim
 - [Ramon Morcillo](https://github.com/reymon359)
 - [Adam Galt](https://github.com/AdamGalt)
 - Ali Habeeb Aladross
+- N.Venkatesh (https://github.com/venkyjntu-git)
 - [VectorVanVranton](https://github.com/vectorvanvranton)
 - [Kishore Kumar Anand](https://github.com/kishorekumar2309)
 - [Space Cowboy] (https://github.com/SpaceCowboy326)
@@ -15065,3 +15068,5 @@ Christian Reyes
 - [Janine Prukop] (https://github.com/JaninePrukop)
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
+- [Arzyon](https://github.com/Arzyon)
+- [Martin Carles](https://github.com/martincarles)
