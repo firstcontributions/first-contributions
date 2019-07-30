@@ -9437,6 +9437,7 @@ Christian Reyes
 - [Dinesh Thapa Magar](https://github.com/cybermandu)
 - [Sheena Mattu](https://github.com/sheenapercy)
 - [Filip Mihalic](https://github.com/nathan-drake)
+- [Asad Mehdi](https://github.com/asadmehdi785)
 - [James Gadoury](https://github.com/jamesGadoury)
 - [Rafael Possenti](https://github.com/rafaelpossenti)
 - [Bryan Tam](https://github.com/nitehawk39)
