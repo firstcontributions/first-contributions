@@ -15039,6 +15039,7 @@ Christian Reyes
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
+- [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
 - [Arpit Pandey](https://github.com./arpitansu)
 - [Deanna Thompson](https://github.com/deannathompson)
 - [Stephanie Stevens](https://github.com/lekaceleb)
