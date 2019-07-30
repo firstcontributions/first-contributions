@@ -15057,3 +15057,4 @@ Christian Reyes
 - [MisterHup] (https://github.com/MrHup)
 - [Ray Rojas] (https://github.com/lokcito)
 - [Janine Prukop] (https://github.com/JaninePrukop)
+- [Jefferson Chen](https://github.com/chenjefferson)
