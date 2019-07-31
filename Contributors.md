@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 _ Jay Kim
+- Paul Ou
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
