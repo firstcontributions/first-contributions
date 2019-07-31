@@ -1,5 +1,5 @@
 ﻿# Contributors
-- Charlie Ramirez (https://github.com/Monsterous915)
+
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
