@@ -4,6 +4,7 @@
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
 - czx229
+- Joseph Pilla
 - [Kean Ngo](https://github.com/keanngo)
 - Sam DC
 - Frank Savino
