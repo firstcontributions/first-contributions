@@ -19,6 +19,7 @@ _ Jay Kim
 - Mofo Johnson
 - [Mohammad Haider] (https://github.com/haidmoham/)
 - Stefanie Muroya
+- [Dakota Lee Miller](https://github.com/DakotaLeeMiller)
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
