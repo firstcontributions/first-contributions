@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
@@ -5777,6 +5777,7 @@ Christian Reyes
 - [Sagar Patel](https://github.com/patelsv)
 - [Cole Smith](https://github.com/ColeGitHub)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
+- [Sean Kouma](https://github.com/seankouma)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
 - [Muhammad Fawwaz / abuuzayr](https://github.com/abuuzayr)
