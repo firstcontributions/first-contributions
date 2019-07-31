@@ -25,6 +25,7 @@ _ Jay Kim
 - Ian
 - Colin M. Misbach
 - Techtonic Flash
+- [Tom Hall](https://github.com/thall1961)
 - Bienhuels B.
 - Evangelos Mag.
 - Ahmad
