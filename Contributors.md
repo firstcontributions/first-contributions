@@ -15111,6 +15111,7 @@ Christian Reyes
 - [Arzyon](https://github.com/Arzyon)
 - [Martin Carles](https://github.com/martincarles)
 - [Tien Cu] (https://github.com/TieCu)
+- [Rian Schmit] (https://github.com/Rian-Schmit)
 - [Austin Blandford](https://github.com/ABlandford)
 - [Brendan Cleveland](https://github.com/BCleveland)
 - [Antonio Adame](https://github.com/aadame3311)
