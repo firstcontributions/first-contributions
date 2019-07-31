@@ -298,6 +298,7 @@ Christian Reyes
 - [Simon Marynissen](https://github.com/SimonMarynissen)
 - [Raman Mangla](https://github.com/ramanmangla)
 - [Tushar Bochare](https://github.com/mytusshar)
+- [Aaron Clare](https://github.com/aaronclare3)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang](https://github.com/heidandseek)
 - [Jorene Ng](https://github.com/joreneng)
