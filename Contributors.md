@@ -26,6 +26,7 @@ _ Jay Kim
 - Eugenio Colnaghi(https://github.com/EColnaghi)
 - Raymond Maple
 - Ian
+- Berndu
 - Colin M. Misbach
 - Techtonic Flash
 - [Tom Hall](https://github.com/thall1961)
