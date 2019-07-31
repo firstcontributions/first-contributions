@@ -4,6 +4,7 @@
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
+- Sam DC
 - Omar Rodriguez
 _ Jay Kim
 - Derek Zoolanderhausen
