@@ -2,6 +2,7 @@
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
+- [Marisol Abrego](https://github.com/marisolabrego)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
