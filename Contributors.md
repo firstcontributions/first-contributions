@@ -8,6 +8,7 @@
 - Omar Rodriguez
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
+- Ritvi
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
