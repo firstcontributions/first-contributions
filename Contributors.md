@@ -17,6 +17,7 @@ _ Jay Kim
 - Michael Jackson 'King of Pop'
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
+- [Mohammad Haider] (https://github.com/haidmoham/)
 - Stefanie Muroya
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
