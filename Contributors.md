@@ -6,6 +6,7 @@
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Sam DC
+- Frank Savino
 - Omar Rodriguez
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
