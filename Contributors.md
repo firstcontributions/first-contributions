@@ -425,6 +425,7 @@ Christian Reyes
 - [Heinrich](https://github.com/ostermeierh)
 - [Brianna Marie](https://github.com/BriMarieRod)
 - [baclona](https://github.com/gb853940223)
+- [hi-im-noah](https://github.com/hi-im-noah)
 - [Calvin Jian](https://github.com/calvinjian)
 - [Ruben Seveelaventhan](https://github.com/ruben00001)
 - [Manuel Moran](https://github.com/manuelm19/)
