@@ -7996,6 +7996,7 @@ Christian Reyes
 - [Niks](https://github.com/nikhilatmaple)
 - [Yi](https://github.com/frozzie)
 - [Shafran](https://github.com/Shafran123)
+- [Bagher2g](https://github.com/Bagher2g)
 - [Michal Kozlowski](https://github.com/kozlovvski)
 - [tvixxx](https://github.com/tvixxx)
 - [Beso94](https://github.com/beso94)
