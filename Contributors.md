@@ -241,6 +241,7 @@ Christian Reyes
 - [Shirish Nigam](https://github.com/techlab23)
 - Will K
 - [Sreedev S](https://github.com/finetard)
+- [Alex Valdez](https://github.com/arevaldez)
 - [Jerry Chuang](https://github.com/JerChuang/)
 - [Ndifreke Friday](https://github.com/ndiecodes)
 - Avinash
