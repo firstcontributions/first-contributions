@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
@@ -27,6 +27,7 @@ _ Jay Kim
 - Eugenio Colnaghi(https://github.com/EColnaghi)
 - Raymond Maple
 - Ian
+- EmixM
 - Berndu
 - Colin M. Misbach
 - Techtonic Flash
