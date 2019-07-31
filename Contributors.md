@@ -1,6 +1,6 @@
 # Contributors
 
-- Suprabhat Kumar (https://github.com/suprabhat_25)
+- Suprabhat Kumar (https://github.com/suprabhat25)
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
