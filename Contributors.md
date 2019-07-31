@@ -64,6 +64,7 @@ _ Jay Kim
 - Bobby Wisdom
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - NADYA POST
+- Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
 - [Pablo Castillo](https://github.com/pcast11)
