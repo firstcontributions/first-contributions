@@ -4,6 +4,7 @@
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
+- Divyansh Kogta
 - Sam DC
 - Omar Rodriguez
 - [George Papadas](https://github.com/gpapadas)
