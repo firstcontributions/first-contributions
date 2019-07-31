@@ -774,6 +774,7 @@ Christian Reyes
 - [Evan MacBride](https://github.com/evanmacbride)
 - [Doug Woolley](https://github.com/dbonzai)
 - [HeroicHitesh](https://github.com/HeroicHitesh)
+- [Sanj Singh] (htpps://github.com/sanjsingh07)
 - [Uzair Hussain](https://github.com/k163791)
 - [Bradley Cavendish](https://github.com/bradcav)
 - [Kevin Andres](https://github.com/KevinKAMS)
