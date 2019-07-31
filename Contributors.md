@@ -6,6 +6,7 @@
 - [Kean Ngo](https://github.com/keanngo)
 - Sam DC
 - Omar Rodriguez
+- Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
 - Ritvi
