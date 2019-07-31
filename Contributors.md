@@ -9,6 +9,7 @@
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
+- Christopher Mitchell
 - Ritvi
 - Derek Zoolanderhausen
 - Purple People Eater
