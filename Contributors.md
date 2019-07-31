@@ -62,6 +62,7 @@ _ Jay Kim
 = [Brandyn Bushong] (https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
+- [Madi Rysbek](https://github.com/hooizit)
 - [Anton Ödman](https://github.com/banjoanton)
 - [Soham Kar](https://github.com/2bit-hack)
 - [Debasish Ghose](https://github.com/debasishghose)
