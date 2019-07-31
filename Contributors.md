@@ -15110,6 +15110,7 @@ Christian Reyes
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
 - [Arzyon](https://github.com/Arzyon)
 - [Martin Carles](https://github.com/martincarles)
+- [Rian Schmit] (https://github.com/Rian-Schmit)
 - [Austin Blandford](https://github.com/ABlandford)
 - [Brendan Cleveland](https://github.com/BCleveland)
 - [Antonio Adame](https://github.com/aadame3311)
