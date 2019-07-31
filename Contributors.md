@@ -7820,6 +7820,7 @@ Christian Reyes
 - [Doug Pilcher](https://github.com/dapilcher)
 - [Tanakid Laoyawira](https://github.com/dome2034)
 - [Nrupen Abnave](https://github.com/inrupen)
+- [Alexander Shirapov](https://github.com/akshirapov)
 - [Matt Shine](https://github.com/matt-shine)
 - [Sandeep Gupta](https://github.com/hhoudini010)
 - [Miguel P?res](https://github.com/miguelperes)
