@@ -8792,6 +8792,7 @@ Christian Reyes
 - [Vinicius Araujo](https://github.com/viniaraujoo)
 - [Stefan Russo](https://github.com/lifestronaut)
 - [iShoe](https://github.com/ishoe)
+- [Chris Dorris](https://github.com/ctdorris)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Adam](https://github.com/apodraz2)
 - [Simran Sohal](https://github.com/simransohal)
