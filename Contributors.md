@@ -10,6 +10,7 @@
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
+- Tiago Gonçalves
 - Christopher Mitchell
 - Ritvi
 - Derek Zoolanderhausen
