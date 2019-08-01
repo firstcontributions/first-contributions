@@ -15,6 +15,7 @@
 _ Jay Kim
 - Christopher Mitchell
 - Ritvi
+- Eli Cartan
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
