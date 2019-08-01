@@ -7574,6 +7574,7 @@ Christian Reyes
 - [Mickey O'Neill](https://github.com/frankyfourfingrz)
 - [Thomas Christlieb](https://github.com/ThomasChr)
 - [PvcPre](https://github.com/pvcpre)
+- [Ezziddeen AbdulWahhab]
 - [divijsingh](https://github.com/divijsingh)
 - [nerfox22](https://github.com/nerfox22)
 - [Juli Cheng](https://github.com/julicheng)
