@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
@@ -30,6 +30,7 @@ _ Jay Kim
 - tkc1009
 - Eugenio Colnaghi(https://github.com/EColnaghi)
 - Raymond Maple
+- Merlin N.
 - Ian
 - EmixM
 - Berndu
