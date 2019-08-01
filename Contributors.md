@@ -31,6 +31,7 @@ _ Jay Kim
 - Ian
 - EmixM
 - Berndu
+- Sathyanarayanan R
 - swang
 - Colin M. Misbach
 - Techtonic Flash
