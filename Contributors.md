@@ -15127,6 +15127,7 @@ Christian Reyes
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
 - [Arzyon](https://github.com/Arzyon)
+- [Alex H] (https://github.com/afhare/)
 - [Martin Carles](https://github.com/martincarles)
 - [Rian Schmit] (https://github.com/Rian-Schmit)
 - [Austin Blandford](https://github.com/ABlandford)
