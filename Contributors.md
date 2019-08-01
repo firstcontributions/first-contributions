@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
@@ -32,6 +32,7 @@ _ Jay Kim
 - Raymond Maple
 - Merlin N.
 - Ian
+- Pranav
 - EmixM
 - Berndu
 - Sathyanarayanan R
