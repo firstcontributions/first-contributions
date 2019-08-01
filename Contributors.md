@@ -18,6 +18,7 @@ _ Jay Kim
 - Evangelos Mag.
 - Ahmad
 - Nafan h
+- [Benito Luna](https://github.com/BLuna)
 - [Baris Mar Aziz](https://github.com/barismar)
 - Kan Dang (https://github.com/kandaaang)
 - [Kekoa Kubli](https://github.com/kkubli3246)
@@ -15073,4 +15074,3 @@ Christian Reyes
 - [Arzyon](https://github.com/Arzyon)
 - [Martin Carles](https://github.com/martincarles)
 - [Austin Blandford](https://github.com/ABlandford)
-- [Benito Luna](https://github.com/BLuna)
