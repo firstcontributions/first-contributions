@@ -126,6 +126,7 @@ _ Jay Kim
 - Maeve Fitzgerald
 - Raegan Bryant
 - Bradley Gray-hall
+- Robert Chun
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
