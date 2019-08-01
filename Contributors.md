@@ -148,6 +148,7 @@ _ Jay Kim
 - [osmanjan omar](https://github.com/oghuz)
 - Mayra-io
 - [micollov](https://github.com/micollov)
+- [Ben Russell](https://github.com/benrussell80)
 - Haran Lakha
 - [R Downes] (https://github.com/rhiannadownes)
 - [Matheus Gomes](https://github.com/mudouasenha)
