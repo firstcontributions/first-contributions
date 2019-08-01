@@ -31,6 +31,7 @@ _ Jay Kim
 - Ian
 - EmixM
 - Berndu
+- swang
 - Colin M. Misbach
 - Techtonic Flash
 - [Tom Hall](https://github.com/thall1961)
