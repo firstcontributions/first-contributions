@@ -1017,6 +1017,7 @@ Christian Reyes
 - [Simranjit Kaur](https://github.com/SimranjitKaurMaan)
 - [Colin Trezise](https://github.com/ColTrez)
 - [Aashish Rathi](https://github.com/aashishrathi)
+ [Matthew Reich](https://github.com/matthewReich)
 - [Jatin Kathuria](https://github.com/logeekical)
 - [Satyam Kumar](https://)github.com/satyamkumar2302)
 - Domi Pul
