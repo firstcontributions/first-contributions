@@ -78,7 +78,7 @@
 - [Casey Godbout] (https://github.com/cgodbout412)
 - [DieseKartoffel](https://github.com/DieseKartoffel)
 - goodgrieff
-- [MattNewtonian(https://github.com/MattNewtonian)
+- [MattNewtonian] (https://github.com/MattNewtonian)
 - [Anthony Chen] (https://github.com/achencoms)
 - [Ahmed Khaled] (https://github.com/ahmedkhaledak)
 - [Danielkvist](https://github.com/danielkvist)
