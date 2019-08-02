@@ -45,6 +45,7 @@ _ Jay Kim
 - [Tom Hall](https://github.com/thall1961)
 - Bienhuels B.
 - Evangelos Mag.
+- [Ajit Singh Shekhawat] (https://github.com/shekhawatajit/first-contributions)
 - Ahmad
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
