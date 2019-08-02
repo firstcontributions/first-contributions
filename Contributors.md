@@ -3084,6 +3084,7 @@ Christian Reyes
 - [BlueDragon23](https://github.com/BlueDragon23)
 - [MalkaSaba](https://github.com/malkasaba)
 - [Smgd](https://github.com/smgd)
+- [mishafrenkel](https://github.com/mishafrenkel)
 - [JaredCotton](https://github.com/JACC-Creations)
 - [ChristopherCarr](https://github.com/christocarr)
 - Gabriel Z.
@@ -15157,4 +15158,4 @@ Christian Reyes
 - [Jacky Lin] (https://github.com/clin113jhu)
 - [Tyler Crites] (https://github.com/zebbzz)
 - [Sina Kabki](https://github.com/sinacodes95)
-- [Abel Nam](https://github.com/inema)  
+- [Abel Nam](https://github.com/inema)
