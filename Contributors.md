@@ -4,6 +4,7 @@
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
 - Omar Rodriguez
+- [Nicholas Ottens] (https://github.com/NicholasOttens)
 _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
