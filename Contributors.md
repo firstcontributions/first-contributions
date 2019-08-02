@@ -89,6 +89,7 @@ _ Jay Kim
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
 - Bobby Wisdom
+- Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - NADYA POST
 - Jarryd Harris
