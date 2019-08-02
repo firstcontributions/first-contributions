@@ -945,6 +945,7 @@ Christian Reyes
 - [Eden Savitt](https://github.com/edens21)
 - [Jesse R Davis](https://github.com/ironhelixx)
 - [Mariano Paniagua](https://github.com/MarianoPaniagua)
+- [Ismat Valiyev](https://github.com/AzureXX)
 - [[kbatni](https://github.com/kbatnij)
 - [Adrian Escalona](https://github.com/DriesCode)
 - [bkunzhang](https://github.com/bkunzhang)
