@@ -15157,4 +15157,5 @@ Christian Reyes
 - [Jacky Lin] (https://github.com/clin113jhu)
 - [Tyler Crites] (https://github.com/zebbzz)
 - [Sina Kabki](https://github.com/sinacodes95)
+- [Katherine Landry] (https://github.com/kburckin)
 - [Abel Nam](https://github.com/inema)  
