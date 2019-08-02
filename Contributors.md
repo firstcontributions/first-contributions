@@ -5578,6 +5578,7 @@ Christian Reyes
 - [Wender Miyukii](https://github.com/Miyukii)
 - [Elliott Weeks](https://github.com/Elliott-W)
 - [David Buttler](https://github.com/dwbuttler)
+- [Prissad](https://github.com/Prissad)
 - Pietil
 - Pietiweewl
 - [TreliaGT](https://github.com/TreliaGT)
