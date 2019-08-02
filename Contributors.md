@@ -3,6 +3,7 @@
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
 - [Kean Ngo](https://github.com/keanngo)
+- [Nicholas Ottens](https://github.com/NicholasOttens)
 - Omar Rodriguez
 _ Jay Kim
 - Derek Zoolanderhausen
