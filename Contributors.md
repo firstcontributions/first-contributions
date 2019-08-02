@@ -1,6 +1,7 @@
 ﻿# Contributors
 
-- [Ajay Kumar] (https://github.com/ajaykumar97)
+- [Ajay Kumar](https://github.com/ajaykumar97)
+- [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
 - czx229
