@@ -15144,7 +15144,7 @@ Christian Reyes
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
-- [Amanda Bakalarczyk(https://github.com/elbhednam)
+- [Amanda Bakalarczyk](https://github.com/elbhednam)
 - [MisterHup] (https://github.com/MrHup)
 - [mskaprushchenko] (https://github.com/mskarpushchenko)
 - [Ray Rojas] (https://github.com/lokcito)
@@ -15169,3 +15169,4 @@ Christian Reyes
 - [Abel Nam](https://github.com/inema)
 - [Shihab uddin](https://github.com/shihabuddinbuet)
 - [Jose Bejerano](https://github.com/bejerano)
+- [benjorama](https://github.com/benjorama)
