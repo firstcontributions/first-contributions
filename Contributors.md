@@ -33,6 +33,7 @@ _ Jay Kim
 - Eugenio Colnaghi(https://github.com/EColnaghi)
 - Raymond Maple
 - Merlin N.
+- [Daisy Macharia](https://github.com/daisymacharia)
 - Ian
 - Pranav
 - EmixM
