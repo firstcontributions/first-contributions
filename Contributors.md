@@ -38,6 +38,7 @@ _ Jay Kim
 - Pranav
 - EmixM
 - Berndu
+- swaggy p
 - Sathyanarayanan R
 - swang
 - Colin M. Misbach
