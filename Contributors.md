@@ -44,6 +44,7 @@ _ Jay Kim
 - Pranav
 - EmixM
 - Berndu
+- [Furqan Amin](https://github.com/furqanamin)
 - swaggy p
 - Sathyanarayanan R
 - swang
