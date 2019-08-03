@@ -25,6 +25,7 @@ _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
 - Michael Jackson 'King of Pop'
+- Michael Giardino
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - [Mohammad Haider] (https://github.com/haidmoham/)
