@@ -327,6 +327,7 @@ Christian Reyes
 - [Mayank Tomar](https://github.com/mayanktomar)
 - [Edison Esguerra](https://github.com/edisket)
 - [Philip Simmons](https://github.com/oghusky)
+- [Itay Ankri] (https://github.com/itayankri)
 - [Tracie Witteborg](https://github.com/alwaysTracieT)
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani](https://github.com/hariduttt)
