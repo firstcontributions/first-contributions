@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Ajay Kumar](https://github.com/ajaykumar97)
+- [Charles Obekpa](https://github.com/kaizem24)
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
