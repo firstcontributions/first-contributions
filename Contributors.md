@@ -13,6 +13,7 @@
 - [Stryyder](https://github.com/stryyder)
 - Sam DC
 - Frank Savino
+- Khaild Anwar
 - Omar Rodriguez
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
