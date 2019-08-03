@@ -10,6 +10,7 @@
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
+- [Stryyder](https://github.com/stryyder)
 - Sam DC
 - Frank Savino
 - Omar Rodriguez
