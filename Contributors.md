@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Eswaran Rathinam](https://github.com/erathinam)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
