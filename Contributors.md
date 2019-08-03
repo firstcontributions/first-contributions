@@ -25,6 +25,7 @@ _ Jay Kim
 - Eli Cartann
 - Derek Zoolanderhausen
 - Purple People Eater
+- Daniel Larken
 - Michael Jackson 'King of Pop'
 - Michael Giardino
 - William Eller (https://github.com/WilliamEller)
