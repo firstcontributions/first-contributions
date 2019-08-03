@@ -21,6 +21,7 @@ _ Jay Kim
 - Christopher Mitchell
 - Ritvi
 - Niko
+- [Nahrin Oda](https://github.com/nahrinoda)
 - Eli Cartann
 - Derek Zoolanderhausen
 - Purple People Eater
