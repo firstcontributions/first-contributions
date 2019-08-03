@@ -1439,6 +1439,7 @@
 - [Kalpana Dey]
 - [Hamish Sams](https://github.com/Hammie217)
 - [Praveen](https://github.com/Prav92)
+- [Yogesh Patel] (https://github.com/yogeshpatel276052)
 - [Sholom Steinmetz](https://github.com/peacestone)
 - [Sourabh Pruthi](https://github.com/sourabh1031)
 - [Bapireddy](https://github.com/Bapi-Reddy)
