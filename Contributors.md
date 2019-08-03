@@ -664,6 +664,7 @@ Christian Reyes
 - [Ricardo Franco](https://github/rfranco84)
 - [nmenal](https://github.com/nmenal)
 - [stonooaks](https://github.com/stonooaks)
+- [Steve Fitzsimmons](https://github.com/vanstevesoftware)
 - [Ariel Cooper](https://github.com/featherboa50)
 - [Klaus Schmidt](https://github.com/syslen)
 - [Doug McQuinn](https://github.com/wdmcquinn)
