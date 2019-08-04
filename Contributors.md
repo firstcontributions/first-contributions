@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [vivaan rajpu](https://github.com/vivaanxr)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [David Hanover](https://github.com/DavidHanover)
@@ -675,7 +676,7 @@ Christian Reyes
 - [Pawelus Sysiakus](https://github.com/pawsys)
 - [Nathan Toms](https://github.com/nathantomsfairsailcom)
 - [KokSanLim](https://github.com/koksan2000)
-- [jsomers1](https://github.com/jsomers1) 
+- [jsomers1](https://github.com/jsomers1)
 - [Mochamad Rizki](https://github.com/rzkidev)
 - [Fletcher Graham](https://github.com/fletchgraham)
 - [Andrew Cutler](https://github.com/andrewcutler)
