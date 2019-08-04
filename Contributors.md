@@ -104,6 +104,7 @@ _ Jay Kim
 - Bobby Wisdom
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
+- [Fredi Arro](https://github.com/FrediArro)
 - NADYA POST
 - Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
