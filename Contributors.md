@@ -15,6 +15,7 @@
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
+- Lalitha Madduri
 - Sam DC
 - Frank Savino
 - Khaild Anwar
