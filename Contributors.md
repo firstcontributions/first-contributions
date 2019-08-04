@@ -5,6 +5,7 @@
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- jankit
 - czx229
 - Joseph Pilla
 - Josh Hageman
