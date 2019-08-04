@@ -57,6 +57,7 @@ _ Jay Kim
 - [Aggrey Chinthalima](https://github.com/killian-coder)
 - [Jeff Kwong](https://github.com/JeffKwong15)
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
+- Jibreel
 - [Alan Nguyen](https://github.com/alan-nguyen)
 - [Peter Kou](https://github.com/Pkou1)
 - [Mohit Kumar](https://github.com/ahirwar1997)
