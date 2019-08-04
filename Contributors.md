@@ -149,6 +149,7 @@ _ Jay Kim
 - [Bean](https://github.com/some-skill)
 - [Yasmin](https://github.com/YasminLago)
 - [Soniya Nayak](https://github.com/Soniyanayak51)
+- [Sam Glazier](https://github.com/sglazier)
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
 - Raegan Bryant
