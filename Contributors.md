@@ -8,6 +8,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - jankit
 - czx229
+- Juan P ZM
 - Joseph Pilla
 - Josh Hageman
 - [GreyhatLinux](https://github.com/greyhatlinux)
