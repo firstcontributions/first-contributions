@@ -32,6 +32,7 @@ _ Jay Kim
 - [Nahrin Oda](https://github.com/nahrinoda)
 - Eli Cartann
 - Derek Zoolanderhausen
+- lastFeynman
 - Purple People Eater
 - Daniel Larken
 - Michael Jackson 'King of Pop'
