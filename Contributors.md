@@ -374,6 +374,7 @@ Christian Reyes
 - [rino23](https://github.com/rino23)
 - [PT Prigoda](https://github.com/paulprigoda)
 - Aruna Priyadarshini
+-ars
 - Yudi Xu evec
 - Giovanni L.
 - [Alexander Harrington](https://github.com/r11132a)
