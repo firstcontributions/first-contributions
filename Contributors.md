@@ -1284,7 +1284,7 @@ Christian Reyes
 - [Ranganath Achari](https://github.com/rachari)
 - [Tiffany Wise](https://github.com/Owhyze1)
 - hmr206
-- [Bogdan Chise](https://github.com/ChiseBogdan/)
+- [Bogdan Chise](https://github.com/ChiseBogdan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
 - [creep1g](https://github.com/creep1g)
