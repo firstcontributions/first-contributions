@@ -22,6 +22,7 @@
 - Frank Savino
 - Khaild Anwar
 - Omar Rodriguez
+- [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
