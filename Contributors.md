@@ -120,6 +120,7 @@ _ Jay Kim
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Abdullah A Malik](https://github.com/aabi01)
 - [Jordan Bertasso](https://github.com/jordanbertasso)
+- [Dan Satchy](https://github.com/dansatchy)
 - [Tamarind Stafford](https://github.com/oshadowah)
 - [Almarose Revives](https://github.com/arevives/first-contributions.git)
 - [Aditya Nalge](https://github.com/adityanalge)
