@@ -1278,6 +1278,7 @@ Christian Reyes
 - [Paulo Zacarias](https://github.com/paulo-zacarias)
 - [matmatomate](https://github.com/matmatomate/first-contributions)
 - [Ebere Uzodufa](https://github.com/EbereUzodufa)
+- [Cleave Owhiroro](https://github.com/cleave3)
 - george_g
 - OrestisV
 - [Ranganath Achari](https://github.com/rachari)
