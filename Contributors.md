@@ -26,6 +26,7 @@ _ Jay Kim
 - Tiago Gonçalves
 - Christopher Mitchell
 - Ritvi
+- yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
 - Eli Cartann
