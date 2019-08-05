@@ -1278,12 +1278,13 @@ Christian Reyes
 - [Paulo Zacarias](https://github.com/paulo-zacarias)
 - [matmatomate](https://github.com/matmatomate/first-contributions)
 - [Ebere Uzodufa](https://github.com/EbereUzodufa)
+- [Cleave Owhiroro](https://github.com/cleave3)
 - george_g
 - OrestisV
 - [Ranganath Achari](https://github.com/rachari)
 - [Tiffany Wise](https://github.com/Owhyze1)
 - hmr206
-- [Bogdan Chise](https://github.com/ChiseBogdan/)
+- [Bogdan Chise](https://github.com/ChiseBogdan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
 - [creep1g](https://github.com/creep1g)
