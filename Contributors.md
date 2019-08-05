@@ -37,6 +37,7 @@ _ Jay Kim
 - Daniel Larken
 - Michael Jackson 'King of Pop'
 - Michael Giardino
+- alokranjan1234
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - [Mohammad Haider] (https://github.com/haidmoham/)
