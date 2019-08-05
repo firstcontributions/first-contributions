@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [vivaan rajpu](https://github.com/vivaanxr)
 - [Ajay Kumar](https://github.com/ajaykumar97)
@@ -8,6 +8,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - jankit
 - czx229
+- Austin Suarez
 - Juan P ZM
 - Joseph Pilla
 - Josh Hageman
@@ -70,7 +71,7 @@ _ Jay Kim
 - [Benito Luna](https://github.com/BLuna)
 - [Baris Mar Aziz](https://github.com/barismar)
 - [Aman Chaudhary](https://github.com/agcy1210)
-- Kan Dang (https://github.com/kandaaang)
+- [Kan Dang](https://github.com/kandaaang)
 - [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
@@ -92,7 +93,7 @@ _ Jay Kim
 - [Milad Ahmadi](https://github.com/themiladahmadi/)
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Dhanrudh Venkat](https://github.com/Dhan996)
-= [Brandyn Bushong] (https://github.com/Brandynio)
+= [Brandyn Bushong](https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Madi Rysbek](https://github.com/hooizit)
@@ -199,7 +200,7 @@ _ Jay Kim
 - [Kevin Cheathem Sr](https://github.com/cheakingIA67)
 - [Arun Kumar Sahoo](https://github.com/arunsahoo)
 - [Bhathiya Dasanayake](https://github.com/bhathiyad)
-- [Pradipta Samra][https://github.com/pradiptasarma
+- [Pradipta Samra](https://github.com/pradiptasarma)
 - [Patrick Salas](https://github.com/psalas98)
 - [Troy Wuollet](https://github.com/twuollet)
 - [LK1247](https://github.com/LK1247/)
