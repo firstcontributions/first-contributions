@@ -9,12 +9,15 @@
 - jankit
 - czx229
 - Austin Suarez
+- Juan P ZM
 - Joseph Pilla
 - Josh Hageman
+- Satvinder Singh
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
+- Lalitha Madduri
 - Sam DC
 - Frank Savino
 - Khaild Anwar
@@ -24,15 +27,19 @@
 _ Jay Kim
 - Tiago Gonçalves
 - Christopher Mitchell
+- Arun
 - Ritvi
+- yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
 - Eli Cartann
 - Derek Zoolanderhausen
+- lastFeynman
 - Purple People Eater
 - Daniel Larken
 - Michael Jackson 'King of Pop'
 - Michael Giardino
+- alokranjan1234
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
 - [Mohammad Haider] (https://github.com/haidmoham/)
@@ -64,7 +71,7 @@ _ Jay Kim
 - [Benito Luna](https://github.com/BLuna)
 - [Baris Mar Aziz](https://github.com/barismar)
 - [Aman Chaudhary](https://github.com/agcy1210)
-- Kan Dang (https://github.com/kandaaang)
+- [Kan Dang](https://github.com/kandaaang)
 - [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
@@ -86,7 +93,7 @@ _ Jay Kim
 - [Milad Ahmadi](https://github.com/themiladahmadi/)
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Dhanrudh Venkat](https://github.com/Dhan996)
-= [Brandyn Bushong] (https://github.com/Brandynio)
+= [Brandyn Bushong](https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Madi Rysbek](https://github.com/hooizit)
@@ -105,6 +112,8 @@ _ Jay Kim
 - Bobby Wisdom
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
+- [Mitchell Patrick](https://github.com/parkerthegeniuschild)
+- [Fredi Arro](https://github.com/FrediArro)
 - NADYA POST
 - Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
@@ -113,6 +122,7 @@ _ Jay Kim
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Abdullah A Malik](https://github.com/aabi01)
 - [Jordan Bertasso](https://github.com/jordanbertasso)
+- [Dan Satchy](https://github.com/dansatchy)
 - [Tamarind Stafford](https://github.com/oshadowah)
 - [Almarose Revives](https://github.com/arevives/first-contributions.git)
 - [Aditya Nalge](https://github.com/adityanalge)
@@ -147,6 +157,7 @@ _ Jay Kim
 - [Bean](https://github.com/some-skill)
 - [Yasmin](https://github.com/YasminLago)
 - [Soniya Nayak](https://github.com/Soniyanayak51)
+- [Sam Glazier](https://github.com/sglazier)
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
 - Raegan Bryant
@@ -189,7 +200,7 @@ _ Jay Kim
 - [Kevin Cheathem Sr](https://github.com/cheakingIA67)
 - [Arun Kumar Sahoo](https://github.com/arunsahoo)
 - [Bhathiya Dasanayake](https://github.com/bhathiyad)
-- [Pradipta Samra][https://github.com/pradiptasarma
+- [Pradipta Samra](https://github.com/pradiptasarma)
 - [Patrick Salas](https://github.com/psalas98)
 - [Troy Wuollet](https://github.com/twuollet)
 - [LK1247](https://github.com/LK1247/)
@@ -370,6 +381,7 @@ Christian Reyes
 - [rino23](https://github.com/rino23)
 - [PT Prigoda](https://github.com/paulprigoda)
 - Aruna Priyadarshini
+-ars
 - Yudi Xu evec
 - Giovanni L.
 - [Alexander Harrington](https://github.com/r11132a)
@@ -615,6 +627,7 @@ Christian Reyes
 - [Raj Kumar](https://github.com/Rajetharan)
 - [Brandon S](https://github.com/bstrain71)
 - [Md Moksedul Hoque](https://github.com/uzzol101)
+- [Jesse Henson](https://github.com/JesseHenson)
 - [Shel Xu](https://github.com/shelxu)
 - 0rhisia0
 - [mbilly7](https://github.com/mbilly7)
@@ -1268,12 +1281,13 @@ Christian Reyes
 - [Paulo Zacarias](https://github.com/paulo-zacarias)
 - [matmatomate](https://github.com/matmatomate/first-contributions)
 - [Ebere Uzodufa](https://github.com/EbereUzodufa)
+- [Cleave Owhiroro](https://github.com/cleave3)
 - george_g
 - OrestisV
 - [Ranganath Achari](https://github.com/rachari)
 - [Tiffany Wise](https://github.com/Owhyze1)
 - hmr206
-- [Bogdan Chise](https://github.com/ChiseBogdan/)
+- [Bogdan Chise](https://github.com/ChiseBogdan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
 - [creep1g](https://github.com/creep1g)
