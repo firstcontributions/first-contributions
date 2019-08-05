@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [vivaan rajpu](https://github.com/vivaanxr)
 - [Ajay Kumar](https://github.com/ajaykumar97)
@@ -8,6 +8,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - jankit
 - czx229
+- Austin Suarez
 - Joseph Pilla
 - Josh Hageman
 - [GreyhatLinux](https://github.com/greyhatlinux)
