@@ -7,13 +7,17 @@
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- [Kshamatha D](https://github.com/)
 - jankit
+- Tam Nguyen
 - czx229
 - Austin Suarez
 - Juan P ZM
 - Joseph Pilla
 - Josh Hageman
 - Satvinder Singh
+- Zaika Vladimir (https://github.com/Aplaus228)
+- [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
@@ -23,6 +27,7 @@
 - Frank Savino
 - Khaild Anwar
 - Omar Rodriguez
+- [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
@@ -45,7 +50,7 @@ _ Jay Kim
 - alokranjan1234
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
-- [Mohammad Haider] (https://github.com/haidmoham/)
+- [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
 - [Dakota Lee Miller](https://github.com/DakotaLeeMiller)
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
@@ -113,13 +118,14 @@ _ Jay Kim
 - rehan khan
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
-  Bobby Wisdom
+- Bobby Wisdom
+- [Mauro Castillo](https://github.com/jmrcastillo)
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - [Mitchell Patrick](https://github.com/parkerthegeniuschild)
 - [Fredi Arro](https://github.com/FrediArro)
 - Jijinkh
-  NADYA POST
+- NADYA POST
 - Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
@@ -228,6 +234,7 @@ _ Jay Kim
 - [Ramon Morcillo](https://github.com/reymon359)
 - [Adam Galt](https://github.com/AdamGalt)
 - Ali Habeeb Aladross
+- Danielle Rosenfeld-Lovell (https://github.com/magicpuddingcat)
 - [Forest Pfeiffer](https://github.com/pfife00)
 - N.Venkatesh (https://github.com/venkyjntu-git)
 - [VectorVanVranton](https://github.com/vectorvanvranton)
@@ -15218,3 +15225,4 @@ Christian Reyes
 - [Josh Carroll](https://github.com/joshc133)
 - [Henish Patel](https://github.com/henishpatel)
 - [Remie Malik](https://github.com/remiemalik)
+- [Rishiraj Purohit](https://github.com/rishirajpurohit)
