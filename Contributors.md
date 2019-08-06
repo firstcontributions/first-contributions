@@ -15149,7 +15149,7 @@ Christian Reyes
 - [Mervin Ng](https://github.com/m6ng)
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
-- [Sajal Verma] (https://github.com/sajalverma17)
+- [Sajal Verma](https://github.com/sajalverma17)
 - [Arpit Pandey] (https://github.com./arpitansu)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
