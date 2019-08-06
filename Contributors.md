@@ -1,5 +1,6 @@
 # Contributors
 - [Eswaran Rathinam](https://github.com/erathinam)
+- [Lester Phillip](https://github.com/lesterphillip)
 - [vivaan Rajput](https://github.com/vivaanxr)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Charles Obekpa](https://github.com/kaizem24)
