@@ -16,6 +16,7 @@
 - Joseph Pilla
 - Josh Hageman
 - Satvinder Singh
+- Zaika Vladimir (https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
