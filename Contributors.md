@@ -36,6 +36,7 @@ _ Jay Kim
 - Tiago Gonçalves
 - Christopher Mitchell
 - Arun
+- Anurag Lal
 - Ritvi
 - yesimapro
 - Niko
