@@ -23,6 +23,7 @@
 - Frank Savino
 - Khaild Anwar
 - Omar Rodriguez
+- [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
