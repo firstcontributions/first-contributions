@@ -90,6 +90,7 @@ _ Jay Kim
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
 - Jibreel
 - lekaf974
+- [Aishwarya Dang](https://github.com/aishwaryadang/)
 - [Alan Nguyen](https://github.com/alan-nguyen)
 - [Peter Kou](https://github.com/Pkou1)
 - [Mohit Kumar](https://github.com/ahirwar1997)
