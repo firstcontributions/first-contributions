@@ -106,6 +106,7 @@ _ Jay Kim
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Madi Rysbek](https://github.com/hooizit)
+- [Kartikey Srivastava](https://github.com/avatsavirs)
 - [Anton Ödman](https://github.com/banjoanton)
 - [Soham Kar](https://github.com/2bit-hack)
 - [Debasish Ghose](https://github.com/debasishghose)
