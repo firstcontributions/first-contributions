@@ -7512,6 +7512,7 @@ Christian Reyes
 - [Santanaraj Esguerra](https://github.com/akiyamamio16)
 - [Michael Martin](https://github.com/mmartin1123)
 - [Eric Ngu](https://github.com/ericngu)
+- [Kori Riddick] (https://github.com/IvySwing)
 - [Steve Wang](https://github.com/PureHyd)
 - [Nov Sunheng](https://github.com/novsunheng)
 - [Sergey Gorky](https://github.com/sergeygorky)
