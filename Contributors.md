@@ -9,6 +9,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Kshamatha D](https://github.com/)
 - jankit
+- Tam Nguyen
 - czx229
 - Austin Suarez
 - Juan P ZM
