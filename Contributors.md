@@ -16,6 +16,7 @@
 - Joseph Pilla
 - Josh Hageman
 - Satvinder Singh
+- [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
