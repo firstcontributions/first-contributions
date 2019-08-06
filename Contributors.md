@@ -41,6 +41,7 @@ _ Jay Kim
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
 - Eli Cartann
+- [Cyril Halmo] (https://github.com/frankythezapp)
 - Derek Zoolanderhausen
 - lastFeynman
 - Purple People Eater
