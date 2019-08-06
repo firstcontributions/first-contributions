@@ -5504,6 +5504,7 @@ Christian Reyes
 - [Shmakova Anastasia](https://github.com/shmakova)
 - [German Corpaz](https://github.com/German-Corpaz)
 - [Bill Clark](https://github.com/billrobclark)
+- [Andreas Hellquist](https://github.com/ahellqui)
 - [Scott Wickersham](https://github.com/scwicker)
 - [Ilkhom Safarov](https://github.com/ilhom-s)
 - [Emily Ji](https://github.com/emilyji/)
