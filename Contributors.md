@@ -15222,3 +15222,4 @@ Christian Reyes
 - [Josh Carroll](https://github.com/joshc133)
 - [Henish Patel](https://github.com/henishpatel)
 - [Remie Malik](https://github.com/remiemalik)
+- [Rishiraj Purohit](https://github.com/rishirajpurohit)
