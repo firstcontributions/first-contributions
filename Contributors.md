@@ -15231,7 +15231,6 @@ Christian Reyes
 - [Keon Ghadamyari](https://github.com/keongh)
 - [Josh Carroll](https://github.com/joshc133)
 - [Henish Patel](https://github.com/henishpatel)
-- [Remie Malik] (https://github.com/remiemalik)
 - [Remie Malik](https://github.com/remiemalik)
 - [Rishiraj Purohit](https://github.com/rishirajpurohit)
 - [Tyler John](https://github.com/tyjohn134)
