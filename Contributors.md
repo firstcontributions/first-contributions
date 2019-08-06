@@ -50,7 +50,7 @@ _ Jay Kim
 - alokranjan1234
 - William Eller (https://github.com/WilliamEller)
 - Mofo Johnson
-- [Mohammad Haider] (https://github.com/haidmoham/)
+- [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
 - [Dakota Lee Miller](https://github.com/DakotaLeeMiller)
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
@@ -119,11 +119,12 @@ _ Jay Kim
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
 - Bobby Wisdom
-- Mauro Castillo(https://github.com/jmrcastillo)
+- [Mauro Castillo](https://github.com/jmrcastillo)
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - [Mitchell Patrick](https://github.com/parkerthegeniuschild)
 - [Fredi Arro](https://github.com/FrediArro)
+- Jijinkh
 - NADYA POST
 - Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
