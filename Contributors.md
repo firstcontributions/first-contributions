@@ -113,12 +113,13 @@ _ Jay Kim
 - rehan khan
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
-- Bobby Wisdom
+  Bobby Wisdom
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - [Mitchell Patrick](https://github.com/parkerthegeniuschild)
 - [Fredi Arro](https://github.com/FrediArro)
-- NADYA POST
+- Jijinkh
+  NADYA POST
 - Jarryd Harris
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
