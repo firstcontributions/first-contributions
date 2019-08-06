@@ -7,6 +7,7 @@
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- [Kshamatha D](https://github.com/)
 - jankit
 - czx229
 - Austin Suarez
