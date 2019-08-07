@@ -13,6 +13,7 @@
 - czx229
 - Austin Suarez
 - Juan P ZM
+- Adam Rubin
 - Joseph Pilla
 - Josh Hageman
 - Satvinder Singh
@@ -22,6 +23,7 @@
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
+- Glaiza Wagner
 - Lalitha Madduri
 - Sam DC
 - Frank Savino
@@ -401,6 +403,7 @@ Christian Reyes
 -ars
 - Yudi Xu evec
 - Giovanni L.
+- [Daniel Abib](https://github.com/daniabib) 
 - [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
 - [Sankalp Sharma](https://github.com/5ankalp)
@@ -5774,8 +5777,8 @@ Christian Reyes
 - [Padmanabhan Murli](https://github.com/p-murli)
 - [Manisha Tripathy](https://github.com/ManishaTripathy)
 - [Jackson Salt](https://github.com/SaltJackson)
-- [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Ryan Anstotz](https://github.com/ranstotz)
+- [Abdullah Mohamed](https://github.com/0xCC00FFEE)
 - [Rocko](https://github.com/RockoCC)
 - [Nomit Pahuja](https://github.com/nomitpahuja)
 - [Jasmine](https://github.com/jasminebanger)
@@ -15151,6 +15154,8 @@ Christian Reyes
 - [Mervin Ng](https://github.com/m6ng)
 - [run me](https://github.com/run-me)
 - [Erez Ben Said](https://github.com/erezbens)
+- [Sajal Verma](https://github.com/sajalverma17)
+- [Arpit Pandey] (https://github.com./arpitansu)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
 - [Arpit Pandey](https://github.com./arpitansu)
