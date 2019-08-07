@@ -197,6 +197,7 @@ _ Jay Kim
 - [Elizabeth Harkins](https://github.com/BetsL)
 - [David Lasry](https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
+- [Ygor Magalhães](https://github.com/ygormagalhaes)
 - [Srivatsan Thumati Balaji](https://github.com/kryptocodes)
 - [Aidan](https://github.com/aidanplunkitt)
 - [**Muhammad Atif Sheikh**](https://github.com/atif91)
