@@ -13523,6 +13523,7 @@ Christian Reyes
 - [Tharindu Dilshan](https://github.com/tharindukulasinghe)
 - [Bharat Middha](https://github.com/bmiddha)
 - [IacobIonut](https://github.com/IacobIonut01)
+- [Chaitanya Wagle](https://github.com/chaitanyawagle)
 - [Pete Madis](https://github.com/petemadis)
 - [Gene Pride](https://github.com/genepride)
 - [zhangzhewen](https://github.com/zhangzhewen-idea)
