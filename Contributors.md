@@ -23,6 +23,7 @@
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
+- Glaiza Wagner
 - Lalitha Madduri
 - Sam DC
 - Frank Savino
