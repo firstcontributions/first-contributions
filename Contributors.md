@@ -401,6 +401,7 @@ Christian Reyes
 -ars
 - Yudi Xu evec
 - Giovanni L.
+- [Daniel Abib](https://github.com/daniabib) 
 - [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
 - [Sankalp Sharma](https://github.com/5ankalp)
