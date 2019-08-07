@@ -8,6 +8,7 @@
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- [Cristina Draghici](https://github.com/krystal25)
 - [Kshamatha D](https://github.com/)
 - jankit
 - Tam Nguyen
@@ -406,7 +407,7 @@ Christian Reyes
 -ars
 - Yudi Xu evec
 - Giovanni L.
-- [Daniel Abib](https://github.com/daniabib) 
+- [Daniel Abib](https://github.com/daniabib)
 - [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
 - [Sankalp Sharma](https://github.com/5ankalp)
