@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
 - [vivaan Rajput](https://github.com/vivaanxr)
@@ -11,6 +11,7 @@
 - jankit
 - Tam Nguyen
 - czx229
+- [Amar](https://github.com/immortalv5)
 - Austin Suarez
 - Juan P ZM
 - Joseph Pilla
