@@ -27,6 +27,7 @@
 - [Stryyder](https://github.com/stryyder)
 - Glaiza Wagner
 - Lalitha Madduri
+- Hamzah Malik
 - Sam DC
 - Frank Savino
 - [Riki Syahputra](https://github.com/rikisan1993)
