@@ -11,6 +11,7 @@
 - [Cristina Draghici](https://github.com/krystal25)
 - [Kshamatha D](https://github.com/)
 - jankit
+Hemal Shah
 - Tam Nguyen
 - czx229
 - Austin Suarez
