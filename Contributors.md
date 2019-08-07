@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Thomas Blanchard](https://github.com/a456bt)
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
@@ -15257,3 +15257,4 @@ Christian Reyes
 - Mark
 - [Alexander Santos](https://github.com/ronkiro)
 - [Shreevatsa N](https://github.com/vatsa287)
+- [Schnell Theo](https://github.com/Elsasser67)
