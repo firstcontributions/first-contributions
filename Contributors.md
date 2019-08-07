@@ -28,6 +28,7 @@
 - Lalitha Madduri
 - Sam DC
 - Frank Savino
+- [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
 - [Charles Hedji](https://github.com/brescia57)
