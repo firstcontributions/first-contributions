@@ -74,6 +74,7 @@ _ Jay Kim
 - Pranav
 - EmixM
 - Berndu
+- Melvin (https://github.com/melvin95)
 - [Furqan Amin](https://github.com/furqanamin)
 - swaggy p
 - Sathyanarayanan R
