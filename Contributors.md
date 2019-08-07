@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Thomas Blanchard](https://github.com/a456bt)
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
@@ -15242,3 +15242,4 @@ Christian Reyes
 - [Tyler John](https://github.com/tyjohn134)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
 - [David Jahng](https://github.com/djahng)
+- [Azhar Anwar](https://github.com/iamazhar)
