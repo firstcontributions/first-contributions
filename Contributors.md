@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+- [Thomas Blanchard](https://github.com/a456bt)
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
 - [vivaan Rajput](https://github.com/vivaanxr)
@@ -7,8 +8,10 @@
 - [David Hanover](https://github.com/DavidHanover)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
+- [Cristina Draghici](https://github.com/krystal25)
 - [Kshamatha D](https://github.com/)
 - jankit
+Hemal Shah
 - Tam Nguyen
 - czx229
 - Austin Suarez
@@ -25,8 +28,10 @@
 - [Stryyder](https://github.com/stryyder)
 - Glaiza Wagner
 - Lalitha Madduri
+- Hamzah Malik
 - Sam DC
 - Frank Savino
+- [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
 - [Charles Hedji](https://github.com/brescia57)
@@ -78,6 +83,7 @@ _ Jay Kim
 - [Tom Hall](https://github.com/thall1961)
 - Bienhuels B.
 - Evangelos Mag.
+- Abhijeet Ghosh
 - Ahmad
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
@@ -152,6 +158,7 @@ _ Jay Kim
 - [Pachi] (https://github.com/pachicodes)
 - [Joe Miao](https://github.com/miaozeyu)
 - Thomas
+- J Zedd
 - [Kevan Lucchini](https://github.com/kevanlucc)
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
@@ -384,6 +391,7 @@ Christian Reyes
 - [Heidi Chang](https://github.com/heidandseek)
 - [Jorene Ng](https://github.com/joreneng)
 - [Harith Sankalpa](https://github.com/harith96)
+- [blueblackberry](https://github.com/blueblackberry)
 - [Archie Lewis](https://github.com/acl76)
 - [Arshitha Basavaraj](https://github.com/Arshitha)
 - [Shubham Gandhi](https://github.com/aiBotShubham)
@@ -403,7 +411,7 @@ Christian Reyes
 -ars
 - Yudi Xu evec
 - Giovanni L.
-- [Daniel Abib](https://github.com/daniabib) 
+- [Daniel Abib](https://github.com/daniabib)
 - [Alexander Harrington](https://github.com/r11132a)
 - [Donald Whitely](https://github.com/dswhitely1)
 - [Sankalp Sharma](https://github.com/5ankalp)
@@ -5245,6 +5253,7 @@ Christian Reyes
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
 - Carol L
 - [Katie Campbell](https://github.com/katyasoup)
+- [Dev Arora](https://github.com/dr0id007)
 - [Riaan Kruger](https://github.com/hpearcem)
 - [Catarina Belém](https://github.com/PastelBelem8)
 - [Max W. Searan](https://github.com/Wes26)
@@ -15240,3 +15249,7 @@ Christian Reyes
 - [Tyler John](https://github.com/tyjohn134)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
 - [David Jahng](https://github.com/djahng)
+- [Azhar Anwar](https://github.com/iamazhar)
+- Mark
+- [Alexander Santos](https://github.com/ronkiro)
+- [Shreevatsa N](https://github.com/vatsa287)
