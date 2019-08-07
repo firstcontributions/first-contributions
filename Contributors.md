@@ -82,6 +82,7 @@ _ Jay Kim
 - [Tom Hall](https://github.com/thall1961)
 - Bienhuels B.
 - Evangelos Mag.
+- Abhijeet Ghosh
 - Ahmad
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
