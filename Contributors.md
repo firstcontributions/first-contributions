@@ -1,4 +1,5 @@
 # Contributors
+- [Charlie Ramirez](https://github.com/Monsterous915)
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
 - [vivaan Rajput](https://github.com/vivaanxr)
