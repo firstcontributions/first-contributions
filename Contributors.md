@@ -28,6 +28,7 @@ Hemal Shah
 - [Stryyder](https://github.com/stryyder)
 - Glaiza Wagner
 - Lalitha Madduri
+- [BharathBhambore](https://github.com/BharathBhambore)  
 - Hamzah Malik
 - Sam DC
 - Frank Savino
