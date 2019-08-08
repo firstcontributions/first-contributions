@@ -191,6 +191,7 @@ _ Jay Kim
 - Raegan Bryant
 - Bradley Gray-hall
 - Robert Chun
+- Tom Fakterman
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
