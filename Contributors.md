@@ -40,6 +40,7 @@ Hemal Shah
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 _ Jay Kim
+- [Dedos](https://github.com/MValdebenito)
 - Tiago Gonçalves
 - Christopher Mitchell
 - Arun
@@ -220,7 +221,7 @@ _ Jay Kim
 - [Rupayan Sarkar](https://github.com/QMrpy)
 - [Isha Terdal](https://github.com/ishaterdal)
 - [Caroline](https://github.com/enviro3)
-- [Praveen T] (https://github.com/pteelair) 
+- [Praveen T] (https://github.com/pteelair)
 - [Rishabh Jain](https://github.com/jrish1)
 - [Arjun Dubey](https://github.com/arjundubey-cr)
 - [Adam Gracy](https://github.com/agracy2246)
