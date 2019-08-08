@@ -47,6 +47,7 @@ _ Jay Kim
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+-sethwh
 - yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
