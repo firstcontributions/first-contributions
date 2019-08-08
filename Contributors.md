@@ -44,6 +44,7 @@ _ Jay Kim
 - Tiago Gonçalves
 - Christopher Mitchell
 - Arun
+- Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
 - yesimapro
