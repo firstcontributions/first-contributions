@@ -156,6 +156,7 @@ _ Jay Kim
 - [Max Kenngott](https://github.com/maxKenngott)
 - [Aidan Roth](https://github.com/Aidanroth)
 - [Cynthia Ware](https://github.com/cynthiaw89)
+- [Denis Imamovic] (https://github.com/black-body)
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Aquib Junaid Razack](https://github.com/aquibjr)
 - [Pachi] (https://github.com/pachicodes)
