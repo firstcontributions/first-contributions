@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Alkator-Nori](https://github.com/nais000k)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Thomas Blanchard](https://github.com/a456bt)
 - [Eswaran Rathinam](https://github.com/erathinam)
