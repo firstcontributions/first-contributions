@@ -2129,6 +2129,7 @@ Christian Reyes
 - [Christopher Jensen](https://github.com/cajen)
 - anuragkanade
 - octavo
+- [sivamani](https://github.com/sivasubramanim)
 - [M3skl1n](https://github.com/M3skl1n)
 - raffy002
 - [yvj9391](https://github.com/yogesh9391)
