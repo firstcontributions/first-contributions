@@ -107,6 +107,7 @@ _ Jay Kim
 - Jibreel
 - lekaf974
 - [Aishwarya Dang](https://github.com/aishwaryadang/)
+- [Fedor Zomba] (https://github.com/Fedozzz/first-contributions)
 - [Alan Nguyen](https://github.com/alan-nguyen)
 - [Peter Kou](https://github.com/Pkou1)
 - [Mohit Kumar](https://github.com/ahirwar1997)
