@@ -11,6 +11,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
 - [Kshamatha D](https://github.com/)
+- [Saransh Chopra](https://github.com/SaranshChopra)
 - jankit
 Hemal Shah
 - Tam Nguyen
