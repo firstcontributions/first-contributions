@@ -15188,6 +15188,7 @@ Christian Reyes
 - [Brandon Nguyen](https://github.com/branch331)
 - [John Henry Galino](https://github.com/jhgalino)
 - Vinicius
+- Daniel Jorn
 - [Matt Reeder](https://github.com/reedermatthew5)
 - [Jared Vandeventer](https://github.com/jvandy83)
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
