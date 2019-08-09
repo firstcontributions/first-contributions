@@ -16,6 +16,7 @@
 - jankit
 Hemal Shah
 - Tam Nguyen
+- [Richard Hu](https://github.com/rhu2001/)
 - czx229
 - Austin Suarez
 - Juan P ZM
