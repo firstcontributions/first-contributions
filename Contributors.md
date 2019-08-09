@@ -21,6 +21,7 @@ Hemal Shah
 - Juan P ZM
 - Adam Rubin
 - Joseph Pilla
+- [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
 - Satvinder Singh
 - Zaika Vladimir (https://github.com/Aplaus228)
