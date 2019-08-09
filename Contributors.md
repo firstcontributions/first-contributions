@@ -1,4 +1,8 @@
 # Contributors
+
+- [Suprabhat Kumar](https://github.com/suprabhat25)
+- Devraj Singh Shekhawat
+- [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
 - [Alkator-Nori](https://github.com/nais000k)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
@@ -14560,6 +14564,7 @@ Christian Reyes
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
+
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
@@ -15088,6 +15093,7 @@ Christian Reyes
 - [Takeen Evens](https://github.com/TakiiCoder)
 - [Ian Stubbs](https://github.com/Stubbs-Ian)
 - [Minhaz Alam](https://github.com/M1NH42)
+
 - [Moonil Son](https://github.com/und32g2ound-kr)
 - [David Norris-Hill](https://github.com/dnorrishill)
 - [Riccardo Di Benedetto](https://github.com/dibericky)
