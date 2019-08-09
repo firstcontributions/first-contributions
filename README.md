@@ -163,8 +163,7 @@ You could join our slack team in case you need any help or have any questions. [
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
-
+If you feel like you've mastered the basics, check out these [advanced git techniques and workflow](additional-material/git_workflow_scenarios/additional-material.md). Don't be shy about creating a PR if something is missing, or if you want to contribute by adding to or updating [translations](additional-material/translations)!
 
 ## Tutorials Using Other Tools
 
