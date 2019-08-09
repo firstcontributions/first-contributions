@@ -56,7 +56,8 @@
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
-_ Jay Kim
+- Jay Kim
+- [ldyim](https://github.com/ldyim)
 - [Dedos](https://github.com/MValdebenito)
 - Tiago Gonçalves
 - Christopher Mitchell
