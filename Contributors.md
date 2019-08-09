@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Vinh-Luu]
 - [Alkator-Nori](https://github.com/nais000k)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
@@ -16,6 +16,7 @@
 - [Saransh Chopra](https://github.com/SaranshChopra)
 - jankit
 Hemal Shah
+- [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - [Richard Hu](https://github.com/rhu2001/)
 - czx229
