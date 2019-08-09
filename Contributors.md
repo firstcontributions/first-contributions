@@ -5505,6 +5505,7 @@ Christian Reyes
 - [Randall Jordan](https://github.com/TsarVandall)
 - [cooltiger](https://github.com/stimit)
 - [Tiffany Kyu](https://github.com/teafunnyq)
+- [Jan Vernarsky](https://github.com/xavice)
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Sri Chunchu](https://github.com/srichunchu)
