@@ -20,6 +20,7 @@
 - [Kshamatha D](https://github.com/)
 - [Saransh Chopra](https://github.com/SaranshChopra)
 - jankit
+- [Suyash Patel](https://github.com/suyashpatel98)
 - Hemal Shah
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
