@@ -13,7 +13,7 @@
 -[**Muhammad Atif Sheikh**](https://github.com/atif91)
 -[ManegJemo](https://github.com/L170300101)
 -[Abhishek Bhandari]
--[Haran Lakha]
+-[Haran Lakha] (https://github.com/Haran43)
 -[Ilham Adi Pratama](https://github.com/blacksyan)
 -[Arun Kumar Sahoo](https://github.com/arunsahoo)
  -[Bhathiya Dasanayake](https://github.com/bhathiyad)
