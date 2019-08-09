@@ -15047,6 +15047,7 @@ Christian Reyes
 - Nilesh Kumar
 - [michaelrdt](https://github.com/MichaelRDT)
 - [MichaelB](https://github.com/Nessfreak75)
+- [Anwar Saad](https://github.com/nuarneuer20)
 - [mitran](https://github.com/mitran1580)
 - [shailaja22](https://github.com/shailaja22)
 - [acmsundar](https://github.com/acmsundar)
