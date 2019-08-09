@@ -1,6 +1,5 @@
 ﻿# Contributors
 
-- [Cameron Faust](https://github.com/CameronAFaust)
 - [Ajay Kumar] (https://github.com/ajaykumar97)
 - [Wesxdz](https://github.com/Wesxdz)
 - czx229
@@ -14938,6 +14937,7 @@ Christian Reyes
 - [Murphy Yip](https://github.com/mfmyip)
 - [Ezechio](https://github.com/ezechio)
 - [Lily Chen](https://github.com/liliburg711)
+- [Cameron Faust](https://github.com/CameronAFaust)
 - [Sam McRuvie](https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
