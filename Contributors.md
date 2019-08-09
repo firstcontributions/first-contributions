@@ -1,5 +1,6 @@
 # Contributors
 
+- [Charlie Ramirez](https://github.com/Monsterous915)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - Devraj Singh Shekhawat
 - [Ajay Kumar](https://github.com/ajaykumar97)
@@ -32,7 +33,7 @@
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
 - Satvinder Singh
-- Zaika Vladimir (https://github.com/Aplaus228)
+- Zaika Vladimir(https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
@@ -132,7 +133,7 @@ _ Jay Kim
 - [Milad Ahmadi](https://github.com/themiladahmadi/)
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Dhanrudh Venkat](https://github.com/Dhan996)
-= [Brandyn Bushong](https://github.com/Brandynio)
+- [Brandyn Bushong](https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
 - [Madi Rysbek](https://github.com/hooizit)
@@ -323,7 +324,7 @@ _ Jay Kim
 - [Jo Ann E.](https://github.com/Jo-IE)
 - [LukaJ](https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
-Christian Reyes
+- Christian Reyes
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Adithya S](https://github.com/Adithya188288))
