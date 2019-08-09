@@ -32,6 +32,7 @@
 - [Shoaib Asgar] (https://github.com/msk4862)
 - Juan P ZM
 - Adam Rubin
+- YuriyCherniy
 - Joseph Pilla
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
