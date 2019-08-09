@@ -6683,6 +6683,7 @@
 - [Daniel Montague](https://github.com/danMontague)
 - [Mukund Banka](https://github.com/mukund54)
 - [Michael Kolodziejski](https://github.com/Packetdude)
+- [Daniel Smythe](https://github.com/DCSmythe)
 - [Alon](https://github.com/alongigi)
 - [Parker Dyer](https://github.com/parkerdyer)
 - [meherpooja](https://github.com/meherpooja)
