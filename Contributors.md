@@ -27,6 +27,7 @@
 - czx229
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
+- [Shoaib Asgar] (https://github.com/msk4862)
 - Juan P ZM
 - Adam Rubin
 - Joseph Pilla
