@@ -76,7 +76,7 @@ _ Jay Kim
 - Michael Jackson 'King of Pop'
 - Michael Giardino
 - alokranjan1234
-- William Eller (https://github.com/WilliamEller)
+- [William Eller](https://github.com/WilliamEller)
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
@@ -84,7 +84,7 @@ _ Jay Kim
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
 - [Jaeyeonling](https://github.com/jaeyeonling)
 - tkc1009
-- Eugenio Colnaghi(https://github.com/EColnaghi)
+- [Eugenio Colnaghi](https://github.com/EColnaghi)
 - Raymond Maple
 - Merlin N.
 - [Daniel Coker](https://github.com/danielcoker)
@@ -178,7 +178,7 @@ _ Jay Kim
 - [Denis Imamovic] (https://github.com/black-body)
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Aquib Junaid Razack](https://github.com/aquibjr)
-- [Pachi] (https://github.com/pachicodes)
+- [Pachi](https://github.com/pachicodes)
 - [Joe Miao](https://github.com/miaozeyu)
 - Thomas
 - J Zedd
@@ -279,7 +279,7 @@ _ Jay Kim
 - N.Venkatesh (https://github.com/venkyjntu-git)
 - [VectorVanVranton](https://github.com/vectorvanvranton)
 - [Kishore Kumar Anand](https://github.com/kishorekumar2309)
-- [Space Cowboy] (https://github.com/SpaceCowboy326)
+- [Space Cowboy](https://github.com/SpaceCowboy326)
 - [Bill Haverberg](https://github.com/BillHaverberg)
 - [nonamekiddie](https://github.com/nonamekiddie)
 - [Uthpala Pathirana](https://github.com/uthpalasp)
@@ -287,7 +287,7 @@ _ Jay Kim
 - [Elliot Blanchard](https://github.com/elliotblanchard)
 - [Radi Rusadi](https://github.com/radirs)
 - [Evan Finnigan](https://github.com/Evan-Finnigan)
-- [Marco Greco ](https://github.com/MarcoAGreco)
+- [Marco Greco](https://github.com/MarcoAGreco)
 - [Michal Fidler](https://github.com/dottoreFell)
 - [Lucas Robitaille](https://github.com/robitaille1)
 - [Prajakta Deosthali](https://github.com/PrajaktaDeosthali)
@@ -570,7 +570,7 @@ _ Jay Kim
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan](https://github.com/michan94)
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
-- [Jose Arteaga] (https://github.com/HoseBee)
+- [Jose Arteaga](https://github.com/HoseBee)
 - [Felix Melligan](https://github.com/felix-melligan)
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
@@ -600,8 +600,8 @@ _ Jay Kim
 - [khalid anas](https://github.com/anaskhalid98)
 - [Theofilos Mazidzoglou](https://github.com/theofilos-mazidzoglou)
 - [jake porter](https://github.com/Dimbles)
-- Omarian](https://github.com/AncientLaws
-- Paul Huang](https://github.com/lineageispig
+- [Omarian](https://github.com/AncientLaws)
+- [Paul Huang](https://github.com/lineageispig)
 - [Paul Mannarino](https://github.com/paul-man)
 - [Holly Huber](https://github.com/HollyJHuber)
 - Juver
@@ -660,7 +660,7 @@ _ Jay Kim
 - [Dee Neely](https://github.com/CDNeely64)
 - [Derek Caldwell](https://github.com/derarc2)
 - [Lisa Nelson](https://github.com/Lisa3000)
-- [Jeremy Alcanzare] (https://github.com/Crushellini)
+- [Jeremy Alcanzare](https://github.com/Crushellini)
 - [Stanislav O.](https://github.com/stanostr)
 - [Raquel A.](https://github.com/rva5120)
 - [epithite32](https://github.com/epithite32)
@@ -902,7 +902,7 @@ _ Jay Kim
 - [Safdar Jamal](https://github.com/clever-programmer)
 - [Shihab Khan](https://github.com/https://github.com/echoshihab)
 - [Enis Arik](https://github.com/earik87)
-- [GabrielCortizo]()
+- GabrielCortizo
 - [Mike Noel](https://github.com/mkno88)
 - [Prasanta Bose](https://github.com/boseprasanta)
 - [Trivender](https://github.com/trivender)
@@ -1656,7 +1656,7 @@ _ Jay Kim
 - [ProgrammingBanana](https://github.com/ProgrammingBanana)
 - [ISwordLion](https://github.com/ISwordLion)
 - [Hannah Mendez](https://github.com/hannahmendez)
-- [Kyle We[eks](https://github.com/kylepw)
+- [Kyle Weeks](https://github.com/kylepw)
 - [Lav Tech Uy](https://github.com/techuy)
 - [Robert Petty](https://github.com/roblpetty)
 - [Kristy Nagel](https://github.com/kristynagel)
@@ -1696,7 +1696,8 @@ _ Jay Kim
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 - [Xiwen](https://github.com/Gern-Yataro)
-- [Tom Sohor](https://github.com/tomsohor) - [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
+- [Tom Sohor](https://github.com/tomsohor) 
+- [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
 - Brayden Laakkonen
@@ -1741,7 +1742,7 @@ _ Jay Kim
 - [Mandi Howell](https://github.com/allst896)
 - [Adam Hicks](https://github.com/snowshoehiker)
 - [Greg Slonina](https://github.com/theMugician)
--   = Maurits Cottyn
+- Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
 - [Veryverybored](https://github.com/vvb10)
@@ -1777,10 +1778,12 @@ _ Jay Kim
 - [Amarjit Singh](https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
-- [Bibek Gautam](https://github.com/bibek22) - [Madeline Carr](https://github.com/Madeline-Carr)
+- [Bibek Gautam](https://github.com/bibek22) 
+- [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Thiago Machado](https://github.com/thisantm)
-- Eswar - [Jiawen Wang](https://github.com/jeniwen)
+- Eswar 
+- [Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
 - [Jeff Hamilton](https://github.com/jeffreyhamilton)
 - [Serb Andreii](https://github.com/SerbIMolot)
@@ -2662,7 +2665,7 @@ _ Jay Kim
 - [Raj Madisetti](https://github.com/rmadisetti3)
 - [Chirag Solanki](https://github.com/ChiragSolankii)
 - [Jaime Perales](https://github.com/jperales64)
--   [Taylerzy](https://github.com/taylerzy)
+- [Taylerzy](https://github.com/taylerzy)
 - [Souman Paul](https://github.com/SoumanPaul)
 - Mohamed Ahmed
 - [Aswin Nair](https://github.com/aswintorch)
