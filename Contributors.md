@@ -1,5 +1,5 @@
 # Contributors
-- [Vinh-Luu]
+- Vinh-Luu
 - [Alkator-Nori](https://github.com/nais000k)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Thomas Blanchard](https://github.com/a456bt)
@@ -15,11 +15,12 @@
 - [Kshamatha D](https://github.com/)
 - [Saransh Chopra](https://github.com/SaranshChopra)
 - jankit
-Hemal Shah
+- Hemal Shah
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - [Richard Hu](https://github.com/rhu2001/)
 - czx229
+- [Amar](https://github.com/immortalv5)
 - Austin Suarez
 - Juan P ZM
 - Adam Rubin
