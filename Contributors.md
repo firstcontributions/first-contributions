@@ -20,6 +20,7 @@ Hemal Shah
 - [Richard Hu](https://github.com/rhu2001/)
 - czx229
 - Austin Suarez
+- [Shoaib Asgar] (https://github.com/msk4862)
 - Juan P ZM
 - Adam Rubin
 - Joseph Pilla
