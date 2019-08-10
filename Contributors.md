@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
@@ -6,6 +6,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
 - [Alkator-Nori](https://github.com/nais000k)
+- [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
