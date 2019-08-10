@@ -616,6 +616,7 @@
 - [Darren Lim](https://github.com/darrenlimweiyang)
 - [Tom Dale](https://github.com/tomkdale)
 - [Gabriel Bustamante](https://github.com/gabrielBusta)
+- [Yanning Guo](https://github.com/GYNstyle)
 - [Shumai Ocbayes A](https://github.com/shumai9)
 - [Jay Kaiser](https://github.com/jayckaiser)
 - [Austin Alv](https://github.com/ama0115)
