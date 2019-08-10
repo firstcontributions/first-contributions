@@ -158,6 +158,7 @@
 - rehan khan
 - Lukas Taylor
 - Sadiq
+- [Ulises Gomez](https://github.com/ulisesgomez120)
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
 - Bobby Wisdom
