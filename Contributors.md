@@ -7754,6 +7754,7 @@
 - [Danny Lai](https://github.com/tocalai)
 - [Tu Szu Chi](https://github.com/Tu-Szu-Chi)
 - [Mark John C. Moreno](https://github.com/phakk)
+- [Jeff Lewis](https://github.com/halldorr)
 - [Jianhao Tan](https://github.com/jaanhio)
 - [Prajwal Patil](https://github.com/prajwalkpatil)
 - [Alex Hsu](https://github.com/Juchuhsu)
