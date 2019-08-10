@@ -221,6 +221,7 @@
 - Raegan Bryant
 - Bradley Gray-hall
 - Robert Chun
+- {"Name": "Collisio Adolebitque", "Profile": "https://github.com/Collisio-Adolebitque"}
 - Tom Fakterman
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
