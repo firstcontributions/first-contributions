@@ -198,6 +198,7 @@
 - [Samantha Carlin](https://github.com/samcarlin)
 - [Sagar N](https://github.com/nomad302)
 - Prathmesh  Bendal
+- Klaymond
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
 - [Bryan Dorman](https://github.com/bofvader)
