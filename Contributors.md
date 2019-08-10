@@ -7482,6 +7482,7 @@
 - [Vikrant Bhopatrao](https://github.com/V-krant)
 - [Raghvendra Gupta](https://github.com/raghav9-97)
 - [Aman Bhatnagar](https://github.com/amyy28)
+- Finlay
 - [Rafael Milani Barbosa](https://github.com/rafaelmilanibarbosa)
 - [Gina Hortenbach](https://github.com/hortenbach)
 - [Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
