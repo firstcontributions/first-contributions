@@ -1880,6 +1880,7 @@
 - [Rahul Choubey](https://github.com/flashyrc)
 - Boone Chen
 - [Karin Povolozki-Rabichev](https://github.com/KarinPR)
+- Alexis Dalforno
 - [Jake S.](https://github.com/GideonWasHere)
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
