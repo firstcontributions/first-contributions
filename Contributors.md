@@ -51,6 +51,7 @@
 - Lalitha Madduri
 - [BharathBhambore](https://github.com/BharathBhambore)  
 - Hamzah Malik
+- Richard Fleming
 - Sam DC
 - Frank Savino
 - [Riki Syahputra](https://github.com/rikisan1993)
