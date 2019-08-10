@@ -1199,6 +1199,7 @@
 - [Evan Johnston](https://github.com/EvanJohnston)
 - [Ratin Kumar](https://github.com/DumbMachine)
 - [Xiao zhen](https://github.com/XiaozhenChen)
+- [Sudhan Wosti](https://github.com/swosti99)
 - [Barry Johnson](https://github.com/hughbarronjohnson)
 - Daniel Caccavelli
 - Kent T
