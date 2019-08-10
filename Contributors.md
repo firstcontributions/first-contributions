@@ -9377,6 +9377,7 @@
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
 - [Brent Farand](https://github.com/BFarand)
+- newContributor
 - [Biswas Nandamuri](https://github.com/Biswas-N)
 - [Duanym](https://github.com/dym0080)
 - [Yashwanth](https://github.com/Yashwanthp)
