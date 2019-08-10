@@ -7376,6 +7376,7 @@
 - [Kenneth Bruce](https://github.com/kpengwin)
 - [brunneis](https://github.com/brunneis)
 - [Samer Uy](https://github.com/S4M3R)
+- [Gary Harney](https://github.com/garyjh126)
 - [Joseph Camarena](https://github.com/JosephCamarena)
 - [Brian Guo](https://github.com/briang810)
 - [Lubits](https://github.com/lubits)
@@ -15316,3 +15317,4 @@
 - [Kirk Lennon](https://github.com/kirklennon)
 - [Phil H.](https://github.com/kungfuphil)
 - [Tong Jin](https://github.com/tjin35)
+
