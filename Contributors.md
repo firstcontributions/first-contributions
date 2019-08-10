@@ -155,6 +155,7 @@
 - [Graham Paterson](https://github.com/grahampaterson)
 - rehan khan
 - Lukas Taylor
+- Sadiq
 - [Monica Sai Kambala](https://github.com/MonicaSai7)
 - Isaak Sampson
 - Bobby Wisdom
