@@ -23,6 +23,7 @@
 - [Cristina Draghici](https://github.com/krystal25)
 - [Kshamatha D](https://github.com/)
 - [Saransh Chopra](https://github.com/SaranshChopra)
+- [Paul Espina](https://github.com/PaulEspina)
 - [Tomasz Jan Michalski-Sadurski](https://github.com/tommich)
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
