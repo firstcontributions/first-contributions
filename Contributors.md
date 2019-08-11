@@ -29,6 +29,7 @@
 - Hemal Shah
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
+- Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
 - czx229
 - [Amar](https://github.com/immortalv5)
