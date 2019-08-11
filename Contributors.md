@@ -220,6 +220,7 @@
 - [Yasmin](https://github.com/YasminLago)
 - [Soniya Nayak](https://github.com/Soniyanayak51)
 - [Sam Glazier](https://github.com/sglazier)
+- [Cedrick Tabares](https://github.com/xedriq)
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
 - Raegan Bryant
