@@ -87,6 +87,7 @@
 - [Robin Geissmann] (https://github.com/geissmannsbin)
 - [William Freeman] (https://github.com/FreemanWilliam)
 - [Arushi Saran] (https://github.com/asaran2)
+- [Mads Zülow Laursen] (https://github.com/Donzulo)
 - [Ryan Levitt] (https://github.com/rlevv)
 - [Ryan Fox] (https://github.com/ryanfox-software)
 - [Enzo Swayne] (https://github.com/MistyMtnHop11)
