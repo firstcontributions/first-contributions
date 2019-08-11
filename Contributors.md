@@ -50,7 +50,7 @@
 - [Stryyder](https://github.com/stryyder)
 - Glaiza Wagner
 - Lalitha Madduri
-- [BharathBhambore](https://github.com/BharathBhambore)  
+- [BharathBhambore](https://github.com/BharathBhambore)
 - Hamzah Malik
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
@@ -73,6 +73,7 @@
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+- leaSaraa
 -sethwh
 - yesimapro
 - Niko
@@ -1716,7 +1717,7 @@
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 - [Xiwen](https://github.com/Gern-Yataro)
-- [Tom Sohor](https://github.com/tomsohor) 
+- [Tom Sohor](https://github.com/tomsohor)
 - [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
@@ -1798,11 +1799,11 @@
 - [Amarjit Singh](https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
-- [Bibek Gautam](https://github.com/bibek22) 
+- [Bibek Gautam](https://github.com/bibek22)
 - [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Thiago Machado](https://github.com/thisantm)
-- Eswar 
+- Eswar
 - [Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
 - [Jeff Hamilton](https://github.com/jeffreyhamilton)
