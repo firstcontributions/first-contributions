@@ -53,6 +53,7 @@
 - [BharathBhambore](https://github.com/BharathBhambore)  
 - Hamzah Malik
 - Richard Fleming
+- [Pierre-Jean Morel](https://github.com/pjdevs)
 - Sam DC
 - Frank Savino
 - [Riki Syahputra](https://github.com/rikisan1993)
