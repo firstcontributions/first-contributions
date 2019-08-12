@@ -36,13 +36,14 @@
 - czx229
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
-- [Shoaib Asgar] (https://github.com/msk4862)
+- [Shoaib Asgar](https://github.com/msk4862)
 - Juan P ZM
 - Adam Rubin
 - YuriyCherniy
 - Joseph Pilla
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
+-Tal Khan
 - Satvinder Singh
 - Zaika Vladimir(https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
