@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Charlie Ramirez](https://github.com/Monsterous915)
+- [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - Devraj Singh Shekhawat
 - [Ajay Kumar](https://github.com/ajaykumar97)
