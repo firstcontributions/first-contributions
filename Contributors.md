@@ -8294,6 +8294,7 @@
 - [Anup Shrestha](https://github.com/demonsterking)
 - [Michelle](https://github.com/michellechristina)
 - [Let?cia Fernandes](https://github.com/leticiamara)
+- [Dylan Buchi](https://github.com/Dylanbuchi)
 - [Stupy spyy](https://github.com/Stupyspyy)
 - [Felix Wagner](https://github.com/fewagner)
 - [Filipp Gorbunov](https://github.com/Filtos)
