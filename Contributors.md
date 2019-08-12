@@ -164,6 +164,7 @@
 - [Andre Duong](https://github.com/andreduong)
 - [Jon Gregis](https://github.com/jongregis)
 - [Graham Paterson](https://github.com/grahampaterson)
+- Meet Patel
 - rehan khan
 - Lukas Taylor
 - Sadiq
