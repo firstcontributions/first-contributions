@@ -1464,6 +1464,7 @@ Christian Reyes
 - [0xEcho](https://github.com/0xecho)
 - [Seemonz](https://github.com/seemonz)
 - raaya
+- [Shraddha Shelar](https://github.com/Shraddha-Infy)
 - [Calum Ludwig](https://github.com/CalumLudwig)
 - yoghurt
 - [Brandon Keyes](https://github.com/bkeyes93)
