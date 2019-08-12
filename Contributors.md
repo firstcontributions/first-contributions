@@ -10928,6 +10928,7 @@
 - [Michael Swanson](https://github.com/mswanson-me)
 - [Vladut Muresan](https://github.com/yoomury)
 - [Ericsupreme](https://github.com/ericsupreme)
+- [Johanna Samuelsen](https://github.com/johannasamuelsen)
 - [Jazilch](https://github.com/Jazilch)
 - [Leonardo Werk](https://github.com/leowerk)
 - [Devin Dodson](https://github.com/trambopoline)
