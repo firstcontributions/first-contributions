@@ -5801,6 +5801,7 @@
 - [ilyes hamrouni](https://github.com/ilyes-hamrouni)
 - [ShwethaU](https://github.com/kamath-shwetha)
 - [Grégoire Sanson](https://github.com/Dratui)
+- [Colin Scott](https://github.com/colinbobolin)
 - [Hunter Cote](https://github.com/hcote)
 - [Lin Zhou](https://github.com/LinZhouWebDev)
 - [Purusharth Verma](http://gitub.com/puru12)
