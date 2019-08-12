@@ -78,6 +78,7 @@
 - Anurag Lal
 - Ritvi
 -sethwh
+-[Ayush Mishra] (https://github.com/AYUSHNSUT/) 
 - yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
