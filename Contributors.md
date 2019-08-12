@@ -6967,6 +6967,7 @@
 - [Urvashi](https://github.com/ihsavru)
 - [Tatiana Leontieva](https://github.com/yepstepz)
 - [Kanav](https://github.com/kanav-7)
+- [Noah Feldt](https://github.com/NoahFeldt)
 - [Neisy Wilson](https://github.com/yirini)
 - [Frank Silver](https://github.com/FrankSilver)
 - [Abhishek Bhattacharya](https://github.com/AbhishekBhattacharya)
