@@ -21,6 +21,7 @@
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
+- [Francois Beyers](https://github.com/blusoup)
 - [Kshamatha D](https://github.com/)
 - [Saransh Chopra](https://github.com/SaranshChopra)
 - [Paul Espina](https://github.com/PaulEspina)
