@@ -7748,6 +7748,7 @@
 - [Paul Chabot](https://github.com/paulch4bot)
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
+- [michaelbrn](https://github.com/michaelbrn)
 - [Kik Tachanok](https://github.com/tachanokkik)
 - [Sotiris Kotitsas](https://github.com/SotirisKot)
 - [Anastasios (Tasos) Beis](https://github.com/abeis)
