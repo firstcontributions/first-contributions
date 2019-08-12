@@ -183,6 +183,7 @@
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
 - [Pablo Castillo](https://github.com/pcast11)
+- [Anirban Gorai](https://github.com/anirbanatweb)
 - [Tomaz Gomes](https://github.com/tomaz1502)
 - [Abdullah A Malik](https://github.com/aabi01)
 - [Jordan Bertasso](https://github.com/jordanbertasso)
