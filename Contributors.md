@@ -97,6 +97,7 @@
 - alokranjan1234
 - [William Eller](https://github.com/WilliamEller)
 - [Ashish Singh](https://github.com/ashish-iitr)
+- [Ri Xin Yang](https://github.com/MatoPlus)
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
