@@ -3495,6 +3495,7 @@
 - [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster](https://github.com/kafoster11)
 - [Effi Tramountani](https://github.com/effi-t)
+- [Hamberfim](https://github.com/Hamberfim)
 - [Darren Lim](https://github.com/dlim28)
 - [macktober](https://github.com/macktober)
 - [Muhammad Arief Budiman](https://github.com/mabudiman)
