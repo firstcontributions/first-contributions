@@ -43,6 +43,7 @@
 - Adam Rubin
 - YuriyCherniy
 - Joseph Pilla
+- Muskan Hoondlani
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
 -Tal Khan
@@ -55,6 +56,7 @@
 - [Stryyder](https://github.com/stryyder)
 - Glaiza Wagner
 - Lalitha Madduri
+- Vishal Rochlani
 - [BharathBhambore](https://github.com/BharathBhambore)  
 - Hamzah Malik
 - Richard Fleming
