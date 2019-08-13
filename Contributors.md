@@ -64,6 +64,7 @@
 - [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
+- [Bryce DeBilzan] (https://github.com/bdebilzan)
 - [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
