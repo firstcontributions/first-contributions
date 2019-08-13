@@ -1,5 +1,5 @@
 # Contributors
-
+- [Jelte De Proft](https://github.com/jeltedeproft)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
