@@ -913,6 +913,7 @@
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - Rahul Jyoti
 - [Max Yurs](https://github.com/MaxYurs)
+- Bobby Shmurda (https://github.com/luuuk)
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Shriram bhat](https://github.com/butcodes)
 - [Mike Disbrow](https://github.com/mdisbrow)
