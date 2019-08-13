@@ -15300,6 +15300,7 @@
 - [Twumasi Pennoh](https://github.com/twumasipennoh)
 - [DiligentDisaster](https://github.com/DiligentDisaster)
 - [Christopher Chmielewski](https://github.com/ChristopherChmielewski)
+- [Heinrich Malan](https://github.com/heinrichmalan)
 - [abudawud](https://github.com/abudawud)
 - [David Azael Bernal](https://github.com/davidazael)
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
