@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Vardhan K. Agrawal](https://github.com/vhanagwal)
 - [Raquel A.](https://github.com/rva5120)
@@ -23,6 +23,7 @@
 - [Sherzod Mamadaliev](https://github.com/mamadaliev)
 - [Yaniv Zegerson](https://github.com/YanivZeg)
 - [Leonardo Daher](https://github.com/leodaher)
+- [Dave] (https://github.com/DaveF118)
 - [Sudhanshu Chauhan](https://github.com/sudhanshu-chauhan)
 - [Sue](https://github.com/qaws01395)
 - [Jake](https://github.com/jake-morgan-2)
