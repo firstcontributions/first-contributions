@@ -1546,6 +1546,7 @@
 - [Shraddha Shelar](https://github.com/Shraddha-Infy)
 - [Calum Ludwig](https://github.com/CalumLudwig)
 - yoghurt
+- [Morgan Roberts](https://github.com/mroberts42)
 - [Brandon Keyes](https://github.com/bkeyes93)
 - [Raman Ahuja](https://github.com/ahujaraman)
 - [Katie Amrine](https://github.com/kcamrine)
