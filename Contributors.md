@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
@@ -96,6 +96,7 @@
 - Michael Giardino
 - alokranjan1234
 - [William Eller](https://github.com/WilliamEller)
+- [Ashish Singh](https://github.com/ashish-iitr)
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
