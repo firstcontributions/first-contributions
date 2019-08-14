@@ -4,6 +4,7 @@
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - Devraj Singh Shekhawat
+- Ray
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
 - Anthony Luttrell
