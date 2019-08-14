@@ -6,6 +6,7 @@
 - Devraj Singh Shekhawat
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
+- Anthony Luttrell
 - [Alkator-Nori](https://github.com/nais000k)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [CitrusPunk](https://github.com/CitrusPunk)
