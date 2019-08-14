@@ -22,6 +22,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [David Hanover](https://github.com/DavidHanover)
+- [Seth Lachman](https://github.com/stlachman)
 - [Anubhav Mishra](https://github.com/anubhavm55)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
