@@ -1194,6 +1194,7 @@
 - Omri Sak
 - Skyname
 - CMBloodMeridian
+- Olusegun Ekoh
 - [Anushank Varshney](https://github.com/anushank-av)
 - [Vajean Stan](https://github.com/vajean)
 - [offroad99](https://github.com/offroad99/)
