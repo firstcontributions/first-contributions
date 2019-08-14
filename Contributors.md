@@ -247,6 +247,7 @@
 - [Cedrick Tabares](https://github.com/xedriq)
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
+- Ragui Halim (https://github.com/Ragui)
 - Raegan Bryant
 - Bradley Gray-hall
 - Robert Chun
