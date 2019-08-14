@@ -17,6 +17,7 @@
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
 - [vivaan Rajput](https://github.com/vivaanxr)
+- [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Charles Obekpa](https://github.com/kaizem24)
