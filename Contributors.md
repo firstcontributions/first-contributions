@@ -687,3 +687,4 @@
 - [Vishnu](https://github.com/vishnu980)
 - [Attaphong Rattanaveerachanon](https://github.com/detohm)
 - [Santiago Martín Agra](http://github.com/santima10)
+  [Sohail Ahmed Khan](http://github.com/sakhan007)
