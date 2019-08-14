@@ -8,6 +8,7 @@
 - Vinh-Luu
 - Anthony Luttrell
 - [Alkator-Nori](https://github.com/nais000k)
+- [Founder Casey](https://github.com/foundercasey)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
