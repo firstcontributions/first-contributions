@@ -1854,6 +1854,7 @@
 - Rishant Jain
 - Jithinlal
 - alexsuslin
+- [Andrew Sharp](https://andrewsharp.dev)
 - Utkarsh
 - Michael Shchukin
 - palangana
