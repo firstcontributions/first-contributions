@@ -663,6 +663,7 @@
 - [Robin Geissmann](https://github.com/geissmannsbin)
 - [William Freeman](https://github.com/FreemanWilliam)
 - [Sankalpa](https://github.com/0sf)
+- [Giana G.](https://github.com/gianagua)
 - [Arushi Saran](https://github.com/asaran2)
 - [Rajesh Nayak](https://github.com/rajesh1402)
 - [Vairav Lakshmanan](https://github.com/vairavlaksh)
