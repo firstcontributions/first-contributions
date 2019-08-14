@@ -52,6 +52,7 @@
 - Josh Hageman
 -Tal Khan
 - Satvinder Singh
+- [Gionelle Tribiana](https://github.com/gionellef)
 - Zaika Vladimir(https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
