@@ -8,6 +8,7 @@
 - Vinh-Luu
 - Anthony Luttrell
 - [Alkator-Nori](https://github.com/nais000k)
+- [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [CitrusPunk](https://github.com/CitrusPunk)
