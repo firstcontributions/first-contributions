@@ -1,5 +1,5 @@
 # Contributors
-
+- [Peter Kungania ](https://github.com/pnkonge)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - Devraj Singh Shekhawat
