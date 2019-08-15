@@ -75,6 +75,7 @@
 - [Pierre-Jean Morel](https://github.com/pjdevs)
 - Sam DC
 - Frank Savino
+- Anshuman Singh
 - [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
