@@ -141,6 +141,7 @@
 - Evangelos Mag.
 - Abhijeet Ghosh
 - Ahmad
+- Shiraaz Ahammed
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
 - [Baris Mar Aziz](https://github.com/barismar)
