@@ -60,6 +60,7 @@
 -Tal Khan
 - Satvinder Singh
 - [Gionelle Tribiana](https://github.com/gionellef)
+- [Alex Khalin](https://github.com/alexkhalin)
 - Zaika Vladimir(https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
