@@ -133,6 +133,7 @@
 - swaggy p
 - Sathyanarayanan R
 - swang
+- R Banerjee
 - Colin M. Misbach
 - Techtonic Flash
 - [Tom Hall](https://github.com/thall1961)
