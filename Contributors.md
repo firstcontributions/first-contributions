@@ -15358,7 +15358,7 @@
 - [Antonio Adame](https://github.com/aadame3311)
 - [Anwar Saad](https://github.com/nuarneuer20)
 - [Tien Cu](https://github.com/TieCu)
-- [Ajali&Dean](https://github.com/PrimalSystemStudio)
+- [Primal System Studio](https://github.com/PrimalSystemStudio)
 - [Nitin Gogna](https://github.com/ni3gogna)
 - [Swarnagowri Bhambore](https://github.com/swarnagowri)
 - [Brandon Mitchell](https://github.com/brandontmitchell)
