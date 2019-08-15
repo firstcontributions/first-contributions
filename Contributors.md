@@ -9,6 +9,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
 - Anthony Luttrell
+- [Ashish Paudel](https://github.com/peaceofmind123)
 - [Alkator-Nori](https://github.com/nais000k)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
