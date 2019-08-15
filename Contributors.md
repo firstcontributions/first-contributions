@@ -85,6 +85,7 @@
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
 - Jay Kim
+- [Hamdi Nahhas](https://github.com/hamdi977)
 - [ldyim](https://github.com/ldyim)
 - [Dedos](https://github.com/MValdebenito)
 - Tiago Gonçalves
