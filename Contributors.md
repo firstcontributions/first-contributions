@@ -53,7 +53,7 @@
 - [Sreyans Bothra](https://github.com/sreyansb)
 - Juan P ZM
 - Adam Rubin
-Roberson Lubin
+- Roberson Lubin(https://github.com/rlubingsu)
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
