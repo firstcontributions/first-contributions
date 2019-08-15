@@ -6,6 +6,7 @@
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
+- [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
 - Anthony Luttrell
