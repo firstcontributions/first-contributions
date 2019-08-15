@@ -40,6 +40,7 @@
 - Hemal Shah
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
+- [Arthur King Reyes](https://github.com/arthurkingreyes)
 - Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
 - czx229
