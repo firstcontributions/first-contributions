@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
@@ -15401,3 +15401,4 @@
 - [jinhokong](https://github.com/jinhokong)
 - [Matthew Kerlin] (https://github.com/MerlinGoneSuperSaiyan)
 - [Miguel Magana] (https://https://github.com/miguelmagana)
+- [Divya Nayal] (https://github.com/divyanayal)
