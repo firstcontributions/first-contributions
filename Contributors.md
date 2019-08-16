@@ -77,6 +77,7 @@
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
 - Sam DC
+- [Lam Nguyen](https://github.com/Lm-ngyn)
 - Frank Savino
 - [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
