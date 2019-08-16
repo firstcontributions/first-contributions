@@ -13,6 +13,7 @@
 - Vinh-Luu
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
+- John Fletcher
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Alkator-Nori](https://github.com/nais000k)
 - [Milind Brahme](https://github.com/milind-brahme)
