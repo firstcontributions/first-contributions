@@ -98,6 +98,7 @@
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+- Lee
 -sethwh
 -[Ayush Mishra] (https://github.com/AYUSHNSUT/) 
 - yesimapro
