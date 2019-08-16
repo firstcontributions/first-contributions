@@ -15350,6 +15350,7 @@
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
 - [Amanda Bakalarczyk](https://github.com/elbhednam)
 - [MisterHup](https://github.com/MrHup)
+- [Evan Bruchet](https://github.com/EBruchet)
 - [mskaprushchenko](https://github.com/mskarpushchenko)
 - [Ray Rojas](https://github.com/lokcito)
 - [Janine Prukop](https://github.com/JaninePrukop)
