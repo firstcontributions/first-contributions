@@ -9,6 +9,7 @@
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
+- Jack Driscoll (https://github.com/jdriscoll98)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
 - [Ashish Paudel](https://github.com/peaceofmind123)
@@ -98,7 +99,7 @@
 - Anurag Lal
 - Ritvi
 -sethwh
--[Ayush Mishra] (https://github.com/AYUSHNSUT/) 
+-[Ayush Mishra] (https://github.com/AYUSHNSUT/)
 - yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
@@ -1758,7 +1759,7 @@
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 - [Xiwen](https://github.com/Gern-Yataro)
-- [Tom Sohor](https://github.com/tomsohor) 
+- [Tom Sohor](https://github.com/tomsohor)
 - [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
@@ -1840,11 +1841,11 @@
 - [Amarjit Singh](https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
-- [Bibek Gautam](https://github.com/bibek22) 
+- [Bibek Gautam](https://github.com/bibek22)
 - [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Thiago Machado](https://github.com/thisantm)
-- Eswar 
+- Eswar
 - [Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
 - [Jeff Hamilton](https://github.com/jeffreyhamilton)
