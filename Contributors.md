@@ -31,6 +31,7 @@
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
 - [Ajay Kumar](https://github.com/ajaykumar97)
+- [Erika Stott](https://github.com/estott10)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [David Hanover](https://github.com/DavidHanover)
 - [Seth Lachman](https://github.com/stlachman)
