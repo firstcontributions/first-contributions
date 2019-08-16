@@ -144,6 +144,7 @@
 - Evangelos Mag.
 - Abhijeet Ghosh
 - Ahmad
+- [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
