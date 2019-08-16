@@ -158,6 +158,7 @@
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
 - [John Yu](https://github.com/johnyu763)
+- [Arash Jafarzadeh] (https://github.com/arashjfz)
 - [Aggrey Chinthalima](https://github.com/killian-coder)
 - [Jeff Kwong](https://github.com/JeffKwong15)
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
