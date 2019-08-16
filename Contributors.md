@@ -8,6 +8,7 @@
 - Ray
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
+- [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
