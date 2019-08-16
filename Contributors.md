@@ -2397,6 +2397,7 @@
 - [Lavanay Thakral](https://github.com/MetalBaba98)
 - [Ebne Faiz Al-Amin](https://github.com/mefalamin)
 - [Redwan](https://github.com/redime2)
+- [SuyashChauhan](https://github.com/suyashchauhan)
 - [Mejia Alan](https://github.com/meifius)
 - [Yixin Jiang](https://github.com/yixinj)
 - [Dan Marshall](https://github.com/biggles-boi)
