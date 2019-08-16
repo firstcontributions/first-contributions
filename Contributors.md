@@ -4,6 +4,7 @@
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
+- [Matt Palmer] ( https://github.com/mattppal )
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
