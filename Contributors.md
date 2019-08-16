@@ -9,6 +9,7 @@
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - Vinh-Luu
+- [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Alkator-Nori](https://github.com/nais000k)
