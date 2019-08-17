@@ -7,6 +7,7 @@
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - [Matt Palmer] ( https://github.com/mattppal )
+- [Michaela Greiler](https://github.com/mgreiler)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
