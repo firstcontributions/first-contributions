@@ -64,6 +64,7 @@
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
+- [Ken Do](https://github.com/ken-do/)
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - Josh Hageman
 -Tal Khan
