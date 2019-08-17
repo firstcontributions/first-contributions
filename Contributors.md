@@ -70,6 +70,7 @@
 - Muskan Hoondlani
 - [Ken Do](https://github.com/ken-do/)
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
+- [Catana Harrington](https://github.com/CatanaH)
 - Josh Hageman
 -Tal Khan
 - Satvinder Singh
