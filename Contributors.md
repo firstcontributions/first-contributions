@@ -41,6 +41,7 @@
 - [Seth Lachman](https://github.com/stlachman)
 - [Anubhav Mishra](https://github.com/anubhavm55)
 - [Wesxdz](https://github.com/Wesxdz)
+- [Beginner]
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
 - [Francois Beyers](https://github.com/blusoup)
