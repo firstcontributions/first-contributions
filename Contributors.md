@@ -60,6 +60,7 @@
 - czx229
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
+- [Alexsander Vinogradov](https://github.com/vinogradov-am/)
 - [Shoaib Asgar](https://github.com/msk4862)
 - [Sreyans Bothra](https://github.com/sreyansb)
 - Juan P ZM
