@@ -14,6 +14,7 @@
 - [jfalkmedia]
 - [Gaayan Verma] (https://github.com/GaayanVerma)
 - [unprosaic] (https://github.com/unprosaic)
+- [Scott Abe] (https://github.com/stabee)
 - [Kuanysh Seilkhanov]
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Folke Westergren] (https://github.com/f-westergren)
