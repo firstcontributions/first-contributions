@@ -11899,6 +11899,7 @@
 - [A.C. Miller](https://github.com/spielere1n)
 - [Prathamesh Borhade](https://github.com/Prathamesh99)
 - [Aniruddha Bhattacharjee](https://github.com/anirudnits)
+- [Rahul Debnath](https://github.com/rdebnath93)
 - [Killer Bouy](https://github.com/KillerBouy)
 - [Joshua Malone](https://github.com/joshuamalone)
 - [Alasdair Bannatyne](https://github.com/Bannatyne84)
