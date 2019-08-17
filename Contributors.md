@@ -15422,3 +15422,4 @@
 - k3klein
 - [HoreaC] (https://github.com/MercurA)
 - [AleTheBro] (https://github.com/alethebro)
+- [dcoleman] (https://github.com/dcoleman)
