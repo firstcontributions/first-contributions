@@ -120,6 +120,7 @@
 - Derek Zoolanderhausen
 - lastFeynman
 - Purple People Eater
+- Barry West (https://github.com/trenddreamer)
 - Daniel Larken
 - Michael Jackson 'King of Pop'
 - Michael Giardino
