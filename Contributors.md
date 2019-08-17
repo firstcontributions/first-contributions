@@ -15426,3 +15426,4 @@
 - [HoreaC] (https://github.com/MercurA)
 - [AleTheBro] (https://github.com/alethebro)
 - [dcoleman] (https://github.com/dcoleman)
+- [Fredrik Eriksson](https://github.com/bazeon)
