@@ -20,6 +20,7 @@
 - John Fletcher
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
+- [Moshe]
 - [Alkator-Nori](https://github.com/nais000k)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
@@ -319,6 +320,7 @@
 - [Rishabh Jain](https://github.com/jrish1)
 - [Arjun Dubey](https://github.com/arjundubey-cr)
 - [Adam Gracy](https://github.com/agracy2246)
+- [Herdian Anjasmara](https://github.com/heranmar)
 - [Ilham Adi Pratama](https://github.com/blacksyan)
 - [Kevin Cheathem Sr](https://github.com/cheakingIA67)
 - [Arun Kumar Sahoo](https://github.com/arunsahoo)
@@ -5903,6 +5905,7 @@
 - [Jarrad Cisco](https://github.com/jcc5225)
 - [Apoorva Teli](https://github.com/apoorvateli)
 - [Animesh Bhagwat](https://github.com/animeshbhagwat)
+- [Sven S](https://github.com/sbs00)
 - [UTKARSH AGRAWAL](https://github.com/wompowe) PEACE!!
 - [Kiyas](https://github.com/kiyas)
 - [Ananya Keshari](https://github.com/ana301)
@@ -6075,6 +6078,7 @@
 - [Charles Loder](https://github.com/charlesLoder)
 - [Jordan Garcia](https://github.com/JordanEGarcia)
 - [Abubakar Sambo](https://github.com/saslamp)
+- [Venkata Rama Rahul Chintalapati](https://github.com/ramarahul)
 - [Shorya Agarwal](https://github.com/kinochi)
 - [Mulenga Bowa](https://github.com/mul53)
 - [Taylor Murray](https://github.com/murraytay)
@@ -11220,6 +11224,7 @@
 - [Trong Bui](https://github.com/trongbq)
 - [Adhil Juvane](https://github.com/adhiljuvane)
 - [ryakosh](https://github.com/ryakosh)
+- [lvujnovic](https://github.com/lvujnovic)
 - [Amr Abouelleil](https://github.com/osiris1975)
 - [Diane Leigh](https://github.com/leighd2008)
 - [James Hubert](https://github.com/JamesHubert)
@@ -15430,3 +15435,6 @@
 - [dcoleman] (https://github.com/dcoleman)
 - [Fredrik Eriksson](https://github.com/bazeon)
 - [Ben Basty](https://github.com/benbasty)
+- [Gerardo Alvez](https://github.com/alvezgr)
+- [MarDonchev](https://github.com/marDonchev)
+
