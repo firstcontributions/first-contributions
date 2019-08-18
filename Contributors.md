@@ -15438,3 +15438,4 @@
 - [Gerardo Alvez](https://github.com/alvezgr)
 - [MarDonchev](https://github.com/marDonchev)
 - [Laurynas Petrauskas pjooklas](https://github.com/pjooklas)
+- [Fabian Quijosaca - foqc](https://github.com/foqc)
