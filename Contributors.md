@@ -15433,3 +15433,4 @@
 - [AleTheBro] (https://github.com/alethebro)
 - [dcoleman] (https://github.com/dcoleman)
 - [Fredrik Eriksson](https://github.com/bazeon)
+- [Gerardo Alvez](https://github.com/alvezgr)
