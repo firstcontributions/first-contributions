@@ -20,6 +20,7 @@
 - John Fletcher
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
+- [Moshe]
 - [Alkator-Nori](https://github.com/nais000k)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
