@@ -319,6 +319,7 @@
 - [Rishabh Jain](https://github.com/jrish1)
 - [Arjun Dubey](https://github.com/arjundubey-cr)
 - [Adam Gracy](https://github.com/agracy2246)
+- [Herdian Anjasmara](https://github.com/heranmar)
 - [Ilham Adi Pratama](https://github.com/blacksyan)
 - [Kevin Cheathem Sr](https://github.com/cheakingIA67)
 - [Arun Kumar Sahoo](https://github.com/arunsahoo)
