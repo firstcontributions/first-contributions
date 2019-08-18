@@ -113,6 +113,7 @@
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+- [Andrew Fiorentino] (https://github.com/afiorentino/)
 - Lee
 -sethwh
 -[Ayush Mishra] (https://github.com/AYUSHNSUT/) 
