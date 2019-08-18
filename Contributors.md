@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
@@ -15439,3 +15439,4 @@
 - [MarDonchev](https://github.com/marDonchev)
 - [Laurynas Petrauskas pjooklas](https://github.com/pjooklas)
 - [Fabian Quijosaca - foqc](https://github.com/foqc)
+- Mark R
