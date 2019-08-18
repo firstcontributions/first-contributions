@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
@@ -17,7 +17,7 @@
 - Vinh-Luu
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
-- John Fletcher
+- John Fletche
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Alkator-Nori](https://github.com/nais000k)
@@ -15408,6 +15408,7 @@
 - [Azhar Anwar](https://github.com/iamazhar)
 - A.Meng
 - Mark
+-sumit kushwah
 - [Alexander Santos](https://github.com/ronkiro)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
