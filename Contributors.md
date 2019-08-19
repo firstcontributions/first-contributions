@@ -12842,6 +12842,9 @@
 - Monika
 - [Abdulrahman Alrahma](https://github.com/smokyabdulrahman)
 - [George Christoforidis](https://github.com/georgechristoforidis)
+- [Jeffery Li][https://github.com/JHLi951]
+- [Ted Liao][https://github.com/ted850914]
+- [Noe Alvarado][https://github.com/CeroDosUno]
 - [Alexandra P](https://github.com/sandraprog)
 - [Nonthawat Duangchai](https://github.com/nzer0nz)
 - [Narongpon Suthimakphol](https://github.com/narongpon57)
