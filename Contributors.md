@@ -7612,6 +7612,7 @@
 - [Sakait Bhandari](https://github.com/SakaitBhandari2807)
 - [Miguel Almonte](https://github.com/miguel550)
 - [Adrien Rousselet](https://github.com/Optarion)
+- [Krishna-S](https://github.com/cryptox31)
 - [Rishi Raj](https://github.com/rishiraj22)
 - [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
