@@ -287,6 +287,7 @@
 - Robert Chun
 - {"Name": "Collisio Adolebitque", "Profile": "https://github.com/Collisio-Adolebitque"}
 - Tom Fakterman
+- IrresistibleImran
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
