@@ -39,6 +39,7 @@
 - [Je Hyun Kim](https://github.com/je-hyun)
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
+- [Roberson Lubin](https://github.com/rlubingsu)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Erika Stott](https://github.com/estott10)
 - [Charles Obekpa](https://github.com/kaizem24)
@@ -71,6 +72,7 @@
 - Juan P ZM
 - [Raphael Okeibunor](https://github.com/RaphaelNagato)
 - Adam Rubin
+- Roberson Lubin(https://github.com/rlubingsu)
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
