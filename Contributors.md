@@ -12,6 +12,7 @@
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
+- [Caroline Dahmen](https://github.com/C-Dahmen)
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
