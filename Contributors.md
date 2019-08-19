@@ -86,6 +86,7 @@
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - [Catana Harrington](https://github.com/CatanaH)
 - Josh Hageman
+- Evan H (https://github.com/ehmh123)
 -Tal Khan
 - Satvinder Singh
 - [Gionelle Tribiana](https://github.com/gionellef)
