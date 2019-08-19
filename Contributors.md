@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
@@ -8,6 +8,7 @@
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
+- [Nilesh Patel](https://github.com/NileshSP)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
@@ -15,6 +16,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
+- [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
 - John Fletcher
@@ -113,9 +115,10 @@
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+- [Andrew Fiorentino] (https://github.com/afiorentino/)
 - Lee
 -sethwh
--[Ayush Mishra] (https://github.com/AYUSHNSUT/) 
+-[Ayush Mishra] (https://github.com/AYUSHNSUT/)
 - yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
@@ -226,6 +229,7 @@
 - Jijinkh
 - NADYA POST
 - Jarryd Harris
+- [Sakshi Mittal] (https://github.com/sakshi84430)
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
 - [Pablo Castillo](https://github.com/pcast11)
@@ -285,6 +289,7 @@
 - Robert Chun
 - {"Name": "Collisio Adolebitque", "Profile": "https://github.com/Collisio-Adolebitque"}
 - Tom Fakterman
+- IrresistibleImran
 - [Tarunava Dutta](https://github.com/tarunava)
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
@@ -1332,6 +1337,7 @@
 - Ian Cameron
 - [Shamiu Rahman](https://github.com/ShamiuRahman)
 - [Şammas Çölkesen](https://github.com/kavanozkafa)
+- Nabeel Javed
 - [Jesse Kanter](https://github.com/JesseKanter)
 - [Kriss K](https://github.com/Egg-Wizard)
 - Thibault Blanc
@@ -1779,7 +1785,7 @@
 - [Bob Allan](https://github.com/BobAllan123)
 - [Hashim Al-Helli](https://github.com/hashim-alhelli)
 - [Xiwen](https://github.com/Gern-Yataro)
-- [Tom Sohor](https://github.com/tomsohor) 
+- [Tom Sohor](https://github.com/tomsohor)
 - [Yeoh Soon Keat](https://github.com/yeohsoonkeat)
 - [Samuel Okoroafor](https://github.com/s-chand)
 - [Sam Kiterro](https://github.com/kiterro)
@@ -1861,11 +1867,11 @@
 - [Amarjit Singh](https://github.com/bob1982)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
-- [Bibek Gautam](https://github.com/bibek22) 
+- [Bibek Gautam](https://github.com/bibek22)
 - [Madeline Carr](https://github.com/Madeline-Carr)
 - [Ammar Tahir](https://github.com/iAmmarTahir)
 - [Thiago Machado](https://github.com/thisantm)
-- Eswar 
+- Eswar
 - [Jiawen Wang](https://github.com/jeniwen)
 - [Filip Skukan](https://github.com/skukan159)
 - [Jeff Hamilton](https://github.com/jeffreyhamilton)
@@ -2288,6 +2294,7 @@
 - [Derek Cardwell](https://github.com/siestacardwell)
 - [Deepak Thapa](https://github.com/dtsuper3)
 - hh534
+- [Andrew Farabaugh] (https://github.com/andrew-farabaugh)
 - Safura
 - mattv611
 - Triinu
@@ -7605,6 +7612,7 @@
 - [Sakait Bhandari](https://github.com/SakaitBhandari2807)
 - [Miguel Almonte](https://github.com/miguel550)
 - [Adrien Rousselet](https://github.com/Optarion)
+- [Krishna-S](https://github.com/cryptox31)
 - [Rishi Raj](https://github.com/rishiraj22)
 - [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
@@ -15437,3 +15445,9 @@
 - [Ben Basty](https://github.com/benbasty)
 - [Gerardo Alvez](https://github.com/alvezgr)
 - [MarDonchev](https://github.com/marDonchev)
+- [Laurynas Petrauskas pjooklas](https://github.com/pjooklas)
+- [Fabian Quijosaca - foqc](https://github.com/foqc)
+- Mark R
+- [Lauren Partin](https://github.com/hensleyl4)
+- [Steven Delaney](https://github.com/sddelaney)
+- [Madusudhanan Bairappan](https://github.com/madhusona)
