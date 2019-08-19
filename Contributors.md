@@ -44,6 +44,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Erika Stott](https://github.com/estott10)
 - [Charles Obekpa](https://github.com/kaizem24)
+- [Cormac Lawlor](https://github.com/armedcor)
 - [David Hanover](https://github.com/DavidHanover)
 - [Seth Lachman](https://github.com/stlachman)
 - [Anubhav Mishra](https://github.com/anubhavm55)
