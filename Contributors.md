@@ -1,5 +1,6 @@
 # Contributors
 
+- [Rasul Kireev](https://rasulkireev.com)
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
