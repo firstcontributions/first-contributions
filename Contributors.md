@@ -30,6 +30,7 @@
 - [Founder Casey](https://github.com/foundercasey)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [CitrusPunk](https://github.com/CitrusPunk)
+- Anshuman Singh
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
@@ -100,6 +101,7 @@
 - Sam DC
 - [Lam Nguyen](https://github.com/Lm-ngyn)
 - Frank Savino
+- Anshuman Singh
 - [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
