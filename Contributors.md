@@ -183,6 +183,7 @@
 - [Aggrey Chinthalima](https://github.com/killian-coder)
 - [Jeff Kwong](https://github.com/JeffKwong15)
 - [Ahmad AlGanzouri](https://github.com/ganzourii)
+- [Eduardo Ximendes](https://github.com/ximendes)
 - Jibreel
 - lekaf974
 - [Aishwarya Dang](https://github.com/aishwaryadang/)
