@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
@@ -75,6 +75,7 @@
 - [Raphael Okeibunor](https://github.com/RaphaelNagato)
 - Adam Rubin
 - Roberson Lubin(https://github.com/rlubingsu)
+- Amsalkhir Ali
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
