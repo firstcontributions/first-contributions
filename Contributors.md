@@ -16,6 +16,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
+- [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
 - John Fletcher
