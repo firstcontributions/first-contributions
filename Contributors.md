@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Krishna-S](https://github.com/cryptox31)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
