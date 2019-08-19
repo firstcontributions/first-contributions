@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Rasul Kireev](https://rasulkireev.com)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
@@ -64,6 +64,7 @@
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
 - Hemal Shah
+- Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - [Arthur King Reyes](https://github.com/arthurkingreyes)
