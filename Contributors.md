@@ -1,6 +1,5 @@
 # Contributors
 
-- [Krishna-S](https://github.com/cryptox31)
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
@@ -7607,6 +7606,7 @@
 - [Sakait Bhandari](https://github.com/SakaitBhandari2807)
 - [Miguel Almonte](https://github.com/miguel550)
 - [Adrien Rousselet](https://github.com/Optarion)
+- [Krishna-S](https://github.com/cryptox31)
 - [Rishi Raj](https://github.com/rishiraj22)
 - [Benjozork](https://github.com/Benjozork)
 - [Attila Blascsak](https://github.com/blascsi)
