@@ -380,6 +380,7 @@
 - [lihaoyuan](https://github.com/l1haoyuan)
 - [Stuart Edgecombe] (https://github.com/sedgecombe)
 - [Elliot Blanchard](https://github.com/elliotblanchard)
+- murmal
 - [Radi Rusadi](https://github.com/radirs)
 - [Evan Finnigan](https://github.com/Evan-Finnigan)
 - [Marco Greco](https://github.com/MarcoAGreco)
