@@ -1335,6 +1335,7 @@
 - Ian Cameron
 - [Shamiu Rahman](https://github.com/ShamiuRahman)
 - [Şammas Çölkesen](https://github.com/kavanozkafa)
+- Nabeel Javed
 - [Jesse Kanter](https://github.com/JesseKanter)
 - [Kriss K](https://github.com/Egg-Wizard)
 - Thibault Blanc
