@@ -90,7 +90,7 @@
 - Glaiza Wagner
 - Lalitha Madduri
 - Vishal Rochlani
-- [BharathBhambore](https://github.com/BharathBhambore)  
+- [BharathBhambore](https://github.com/BharathBhambore)
 - Hamzah Malik
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
@@ -3360,6 +3360,7 @@
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
 - [Alaaddin Alokby](https://github.com/alokbya)
+- [Curtis Bateson](https://github.com/curtisbateson)
 - Trent Jeffery
 - [Stanila Andrei](https://github.com/Andu033)
 - [Kadar Tibor](https://github.com/KadarTibor)
