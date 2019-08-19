@@ -15443,6 +15443,7 @@
 - [AleTheBro] (https://github.com/alethebro)
 - [dcoleman] (https://github.com/dcoleman)
 - [Fredrik Eriksson](https://github.com/bazeon)
+- [Ben Basty](https://github.com/benbasty)
 - [Gerardo Alvez](https://github.com/alvezgr)
 - [MarDonchev](https://github.com/marDonchev)
 - [Laurynas Petrauskas pjooklas](https://github.com/pjooklas)
