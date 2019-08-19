@@ -14,6 +14,7 @@
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
+- Shahi
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
 - [Sam Jin](https://github.com/sneasing)
