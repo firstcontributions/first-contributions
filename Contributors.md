@@ -70,6 +70,7 @@
 - [Tomasz Jan Michalski-Sadurski](https://github.com/tommich)
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
+- [Ramiz Khan](https://github.com/ramizkhan99)
 - Hemal Shah
 - Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
