@@ -12,6 +12,7 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - [Nilesh Patel](https://github.com/NileshSP)
+- [Gerson C. A. Filho](https://github.com/gerssonmg)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
