@@ -15,6 +15,7 @@
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
+-[Anirudh Kachroo] (https://github.com/anirudh-kac)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
@@ -45,7 +46,7 @@
 - [Le Aundre Jackson](https://github.com/Jacksole/)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - Anshuman Singh
-- Steefan Raveenthiran 
+- Steefan Raveenthiran
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
@@ -4420,7 +4421,7 @@
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Nakash](https://github.com/itaynakash)
 - [Itay Finci](https://github.com//FIITAY)
-  [Joseph Myalla](https://github.com//sojelee) 
+  [Joseph Myalla](https://github.com//sojelee)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Shehan Wisumperuma](https://github.com/lashewi)
