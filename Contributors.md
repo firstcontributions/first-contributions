@@ -61,6 +61,7 @@
 - [Roberson Lubin](https://github.com/rlubingsu)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Erika Stott](https://github.com/estott10)
+- [Pako Gonzalez](https://github.com/pako-gonzalez)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [Cormac Lawlor](https://github.com/armedcor)
 - [David Hanover](https://github.com/DavidHanover)
