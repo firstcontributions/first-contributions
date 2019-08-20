@@ -30,6 +30,7 @@
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
+- Glen Edwards
 - John Fletcher
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
