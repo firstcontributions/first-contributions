@@ -292,6 +292,7 @@
 - [Sagar N](https://github.com/nomad302)
 - Prathmesh  Bendal
 - Klaymond
+- [BeRT2me](https://github.com/BeRT2me)
 - electrichk
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
