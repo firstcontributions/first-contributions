@@ -25,6 +25,7 @@
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
+- [Jack Driscoll](https://github.com/jdriscoll98)
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - Anthony Luttrell
