@@ -19,6 +19,7 @@
 - Devraj Singh Shekhawat
 - Ray
 - Shahi
+- Rhonin
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
