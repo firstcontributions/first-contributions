@@ -31,6 +31,7 @@
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Moshe]
 - [Alkator-Nori](https://github.com/nais000k)
+- [Omid Nassir](https://github.com/rissandimo)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
