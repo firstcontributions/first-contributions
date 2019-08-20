@@ -18,6 +18,7 @@
 - Devraj Singh Shekhawat
 - Ray
 - Shahi
+- Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
 - Justin Wong
