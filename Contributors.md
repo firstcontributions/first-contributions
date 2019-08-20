@@ -14,6 +14,7 @@
 - [Michaela Greiler](https://github.com/mgreiler)
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
+- [Uma Sundararajan](https://github.com/zob0)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
