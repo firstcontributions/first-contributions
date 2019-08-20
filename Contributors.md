@@ -10412,6 +10412,7 @@
 - [Soona Mata](https://github.com/SoonaMata)
 - [Lon Porter](https://github.com/lonjporter)
 - [Kiron Roy](https://github.com/kironroy)
+- [Vladimir Salnikov](https://github.com/VladimirSalnikov)
 - [Cherian Paul](https://github.com/cheriannet)
 - [Jayson Lacey](https://github.com/Jayson88)
 - [Isaac Fife](https://github.com/isaacfife)
