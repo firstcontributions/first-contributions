@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Rasul Kireev](https://rasulkireev.com)
@@ -1081,6 +1081,7 @@
 - [Felix Sundqvist](https://github.com/FelixSundqvist/)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Val Lipat](https://github.com/vlipatdev)
+- Karen Galvez (https://github.com/kygalvez)
 - [Chris Drury](https://github.com/crdrury)
 - [Eron Begiqi](https://github.com/eronbegiqi)
 - [Anirban Dey](https://github.com/anirbandey303)
