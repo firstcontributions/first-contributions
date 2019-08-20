@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Rasul Kireev](https://rasulkireev.com)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
@@ -18,6 +18,7 @@
 - Shahi
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
+- Justin Wong
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
