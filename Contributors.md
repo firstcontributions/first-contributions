@@ -274,6 +274,7 @@
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
 - [Kamran Hamid](https://github.com/mkamranhamid)
+- [Nicholas Saunders](https://github.com/ChaosLime)
 - [Samantha Carlin](https://github.com/samcarlin)
 - [Sagar N](https://github.com/nomad302)
 - Prathmesh  Bendal
