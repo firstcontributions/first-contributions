@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Joe-A-D](https://github.com/joe-a-d)
 - [Rasul Kireev](https://rasulkireev.com)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - Here2Dance (http://github.com/Here2Dance)
