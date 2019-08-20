@@ -8885,6 +8885,7 @@
 - [migomlevi](https://github.com/migomlevi)
 - [senbihan](https://github.com/senbihan)
 - [Taasin Saquib](https://github.com/taasinsaquib)
+- [Zachary Johnson](https://github.com/zackjohnson8)
 - [Kyle Magee](https://github.com/Kyle-Magee)
 - [Al Amadou](https://github.com/alilah)
 - [AlexBula](https://github.com/alexbula)
