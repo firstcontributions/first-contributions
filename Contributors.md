@@ -18,6 +18,7 @@
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
+- [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
 - MrMame
 - Devraj Singh Shekhawat
