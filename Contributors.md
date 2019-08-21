@@ -91,6 +91,7 @@
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Ramiz Khan](https://github.com/ramizkhan99)
+- [John Whitaker](https://github.com/jwhitake)
 - Hemal Shah
 - [Kelvin Chung](https://github.com/kelvinccc)
 - Atul Pandey
