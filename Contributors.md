@@ -165,6 +165,7 @@
 - Derek Zoolanderhausen
 - lastFeynman
 - Purple People Eater
+- Ivan Viter (https://github.com/orkoselvis)
 - Barry West (https://github.com/trenddreamer)
 - Daniel Larken
 - Michael Jackson 'King of Pop'
