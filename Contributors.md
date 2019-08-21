@@ -13024,6 +13024,7 @@
 - [Summerok-Tree](https://github.com/Summerok)
 - [Praveen Bathala](https://github.com/prvn)
 - [Maria Camila Gómez Rpo](https://github.com/camigomez35)
+- [Magali Lemes do Sacramento](https://github.com/magalilemes)
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
 - [Navneet Sharma](https://github.com/NavneetSharmaPro)
 - [Bruno Dulcetti](https://github.com/dulcetti)
