@@ -17,6 +17,7 @@
 - Devraj Singh Shekhawat
 - Ray
 - Shahi
+- [Daniel Evensen](https://github.com/danielevensen)
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
 - Justin Wong
