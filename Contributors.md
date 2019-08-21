@@ -28,6 +28,7 @@
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
 - Hemal Shah
+- Aksh Thakur
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - Kumaramanas Nethil
