@@ -21,6 +21,7 @@
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
+- [Bailey Bruketta](https://github.com/BaileyBruketta)
 - [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
