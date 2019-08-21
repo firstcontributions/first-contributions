@@ -48,10 +48,11 @@
 - [Le Aundre Jackson](https://github.com/Jacksole/)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - Anshuman Singh
-- Steefan Raveenthiran 
+- Steefan Raveenthiran
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
+- [artisancreek](https://github.com/artisancreek)
 - Phani Sai Chand Gali
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
@@ -4426,7 +4427,7 @@
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Nakash](https://github.com/itaynakash)
 - [Itay Finci](https://github.com//FIITAY)
-  [Joseph Myalla](https://github.com//sojelee) 
+  [Joseph Myalla](https://github.com//sojelee)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Shehan Wisumperuma](https://github.com/lashewi)
