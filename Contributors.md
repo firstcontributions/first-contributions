@@ -15509,4 +15509,3 @@
 - [Kevin Curtis](https://github.com/KevinCurtisDev)
 - AHA
 - [Srikumar Krishnamurthy](https://github.com/ksrikumar)
-- [Antonio Milos](https://github.com/dewexx)
