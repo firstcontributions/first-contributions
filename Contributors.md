@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Daemon1024](https://github.com/daemon1024)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Rasul Kireev](https://rasulkireev.com)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
