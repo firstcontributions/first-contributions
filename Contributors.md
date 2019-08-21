@@ -4,6 +4,7 @@
 - [Rasul Kireev](https://rasulkireev.com)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
+- [Ritter Gustave](https://github.com/rGustave07)
 - Here2Dance (http://github.com/Here2Dance)
 - [Ernest Lee](https://github.com/leeer812)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
