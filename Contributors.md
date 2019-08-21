@@ -20,6 +20,7 @@
 - [Jason Wang](https://github.com/kerorojason)
 - [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
+- [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
