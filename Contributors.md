@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Daemon1024](https://github.com/daemon1024)
 - [Joe-A-D](https://github.com/joe-a-d)
@@ -24,6 +24,7 @@
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 - MrMame
+- [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Ray
 - [Gladson Lyimo](https://github.com/Gladsons)
