@@ -114,6 +114,7 @@
 - Evan H (https://github.com/ehmh123)
 -Tal Khan
 - Satvinder Singh
+-Jairaj Sahgal (https://jairajsahgal.github.io)
 - [Gionelle Tribiana](https://github.com/gionellef)
 - [Alex Khalin](https://github.com/alexkhalin)
 - Zaika Vladimir(https://github.com/Aplaus228)
