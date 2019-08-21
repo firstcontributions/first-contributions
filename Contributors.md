@@ -52,6 +52,7 @@
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
+- [artisancreek](https://github.com/artisancreek)
 - Phani Sai Chand Gali
 - [Eswaran Rathinam](https://github.com/erathinam)
 - [Lester Phillip](https://github.com/lesterphillip)
