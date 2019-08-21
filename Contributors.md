@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Rasul Kireev](https://rasulkireev.com)
@@ -18,6 +18,7 @@
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
+- NabeelDanish
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
