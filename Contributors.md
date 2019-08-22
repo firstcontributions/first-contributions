@@ -369,6 +369,7 @@
 - [Brianna McGovern](https://github.com/bmcgovern007)
 - [osmanjan omar](https://github.com/oghuz)
 - Mayra-io
+- [JCarlosR](https://github.com/JCarlosR)
 - [micollov](https://github.com/micollov)
 - [Ben Russell](https://github.com/benrussell80)
 - Haran Lakha
