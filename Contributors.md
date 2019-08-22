@@ -1059,6 +1059,7 @@
 - [Ali Kassir](https://github.com/AliKassir)
 - [Alex Kaplun](https://github.com/alexkaplun)
 - [Tyler Stevens](https://github.com/Trstevens)
+- [Alan Paniagua] (https://github.com/SwanCanNon)
 - yasmiyazaki
 - ERIB
 - Hosbovery
