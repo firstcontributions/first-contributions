@@ -25,6 +25,7 @@
 - [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
+- [Armen Bakir](https://github.com/Ezall2001)
 - MrMame
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
