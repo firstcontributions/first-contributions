@@ -34,6 +34,7 @@
 - Rhonin
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
+  Aviad Ariel
 - Rushabh Doshi
 - Justin Wong
 - Ajit Singh (https://github.com/as-ajitsingh)
