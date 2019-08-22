@@ -98,6 +98,7 @@
 - [Ramiz Khan](https://github.com/ramizkhan99)
 - [John Whitaker](https://github.com/jwhitake)
 - Hemal Shah
+- Aksh Thakur
 - [Kelvin Chung](https://github.com/kelvinccc)
 - Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
