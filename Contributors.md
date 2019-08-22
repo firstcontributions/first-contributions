@@ -10002,6 +10002,7 @@ Anthony Stannard
 - [Anne Losch](https://github.com/mathisme)
 - [Arihant Bansal](https://github.com/arihantbansal)
 - [Shivam Saraswat](https://github.com/codeway0709)
+- [ClaudioBardales](https://github.com/ClaudioBardales)
 - [Shashank Tiwari](https://github.com/shashanktiwari99)
 - [Vardhman Jain](https://github.com/vardhmanjain1242000)
 - [Xavier Palomo](https://github.com/xpalomoteruel)
@@ -10198,4 +10199,3 @@ Anthony Stannard
 - [Melissa Sorrells](https://gihub.com/msorre2)
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
-- [ClaudioBardales] (https://github.com/ClaudioBardales)
