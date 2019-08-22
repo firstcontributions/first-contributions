@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Tony K](https://github.com/memphis2coder)
