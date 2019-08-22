@@ -16,6 +16,7 @@
 - [Rahul Ranjan](https://github.com/workrahul22)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - [Matt Palmer] ( https://github.com/mattppal )
+- [Ashiru Olawale] (https://github.com/wale-bant)
 - [Michaela Greiler](https://github.com/mgreiler)
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
