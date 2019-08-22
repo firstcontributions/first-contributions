@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Goncalo Melo](https://github.com/gonmelo)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
 - [Joe-A-D](https://github.com/joe-a-d)
@@ -66,7 +67,7 @@
 - [Le Aundre Jackson](https://github.com/Jacksole/)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - Anshuman Singh
-- Steefan Raveenthiran 
+- Steefan Raveenthiran
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
@@ -4455,7 +4456,7 @@
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Nakash](https://github.com/itaynakash)
 - [Itay Finci](https://github.com//FIITAY)
-  [Joseph Myalla](https://github.com//sojelee) 
+  [Joseph Myalla](https://github.com//sojelee)
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mah Qi Hao](https://github.com/qihaomah)
 - [Shehan Wisumperuma](https://github.com/lashewi)
@@ -11445,7 +11446,7 @@
 - [Kebba Kanyi](https://github.com/kebbakanyi)
 - [Roberto Orozco](https://github.com/robertoissc)
 - [Andrei Torres](https://github.com/andreitg)
-- [Axel Dávalos](https://github.com/AxelDavalos97) 
+- [Axel Dávalos](https://github.com/AxelDavalos97)
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
 - [Harman Kahlon](https://github.com/drajingo)
