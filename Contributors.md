@@ -10198,3 +10198,4 @@ Anthony Stannard
 - [Melissa Sorrells](https://gihub.com/msorre2)
 - [albGal] (https://github.com/albGal)
 - [irfanahm3d] (https://github.com/irfanahm3d)
+- [ClaudioBardales] (https://github.com/ClaudioBardales)
