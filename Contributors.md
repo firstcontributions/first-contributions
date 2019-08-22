@@ -56,6 +56,7 @@
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
+- [Kayla Williams](https://github.com/kayla312)
 - [Le Aundre Jackson](https://github.com/Jacksole/)
 - [CitrusPunk](https://github.com/CitrusPunk)
 - Anshuman Singh
