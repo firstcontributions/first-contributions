@@ -11445,6 +11445,7 @@
 - [Kebba Kanyi](https://github.com/kebbakanyi)
 - [Roberto Orozco](https://github.com/robertoissc)
 - [Andrei Torres](https://github.com/andreitg)
+- [Axel Dávalos](https://github.com/AxelDavalos97) 
 - [Alberto Pastor](https://github.com/albertopastormr)
 - [Nick Brown](https://github.com/nick-d-brown)
 - [Harman Kahlon](https://github.com/drajingo)
