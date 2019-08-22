@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Daemon1024](https://github.com/daemon1024)
 - [Joe-A-D](https://github.com/joe-a-d)
@@ -38,6 +38,7 @@
   Aviad Ariel
 - Rushabh Doshi
 - Justin Wong
+- Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
 - Manish Sanwle
 - [Sam Jin](https://github.com/sneasing)
