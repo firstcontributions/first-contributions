@@ -149,6 +149,7 @@
 - [Bryce DeBilzan] (https://github.com/bdebilzan)
 - [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
+- Bryant Sirois
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
 - [George Papadas](https://github.com/gpapadas)
