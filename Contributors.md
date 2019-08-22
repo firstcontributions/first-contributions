@@ -15532,6 +15532,7 @@
 - [Kevin Curtis](https://github.com/KevinCurtisDev)
 - AHA
 - [Srikumar Krishnamurthy](https://github.com/ksrikumar)
+- [Chris Gebhardt](https://github.com/cgeb)
 - [Antonio Miloš](https://github.com/dewexx)
 - [Tanvir Alam](https://tanvir-ux.github.io/)
 - [Dmitry Stepanov](https://DSTHub.github.io)
