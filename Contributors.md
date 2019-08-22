@@ -418,6 +418,7 @@
 - [Kishore Kumar Anand](https://github.com/kishorekumar2309)
 - [Space Cowboy](https://github.com/SpaceCowboy326)
 - [Bill Haverberg](https://github.com/BillHaverberg)
+- [Gary Butler](https://github.com/gary-butler)
 - [nonamekiddie](https://github.com/nonamekiddie)
 - [Uthpala Pathirana](https://github.com/uthpalasp)
 - [lihaoyuan](https://github.com/l1haoyuan)
