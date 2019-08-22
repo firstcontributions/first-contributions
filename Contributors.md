@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
@@ -41,7 +41,8 @@
 - Justin Wong
 - Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
-- Manish Sanwle
+- Manish Snaffle
+- A_myth S K
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Nitin Gupta](https://github.com/nitingt)
