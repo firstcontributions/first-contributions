@@ -5156,6 +5156,7 @@
 - [Tanner Crook](https://github.com/tannercrook)
 - [Joshua Pierre](https://github.com/JoshPad75)
 - [Brad Cutten](https://github.com/bcutten)
+- [Rolf Christian Jørgensen] (https://github.com/rcjorgensen)
 - [Brayden Chumbley](https://github.com/BraydenChumbley)
 - [Anna Scott](https://github.com/forfireonly)
 - [Prajay Prashanth](https://github.com/Vanhoehenheim)
