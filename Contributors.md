@@ -9810,6 +9810,7 @@
 - [Pinapali loves pizza](https://github.com/pinapali)
 - [Ferhat Sahinkaya](https://github.com/ferhatsahinkaya)
 - [Carl Isaac](https://github.com/carlisaac)
+- [amgbanks](https://github.com/amgbanks)
 - [Distal Phalanges](https://github.com/distalphalanges)
 - [Alan Van Art](https://github.com/alanv73)
 - [Edwin Moses](https://github.com/3dw1nM0535)
