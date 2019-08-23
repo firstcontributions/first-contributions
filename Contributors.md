@@ -46,6 +46,7 @@
 - Manish Sanwle
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
+- [Gordon nchy](https://github.com/gordonnchy)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
 - [Jack Driscoll](https://github.com/jdriscoll98)
