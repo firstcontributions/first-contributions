@@ -15552,4 +15552,4 @@ Aashray Anand
 - [Steve Tran] (https://github.com/strannies)
 - [Joe Pierron] (https://github.com/jpierro)
 - [Andriawan] (https://github.com/andriawan)
-- [Raphaelle Tseng] (https://github.com/raphaelletseng)
+- [Raphaelle Tseng](https://github.com/raphaelletseng)
