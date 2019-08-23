@@ -50,6 +50,7 @@
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
+- [Lok Chan](https://github.com/0903lokchan)
 - Anthony Luttrell
 - Glen Edwards
 - Christian Torbica
