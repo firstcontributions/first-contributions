@@ -35,6 +35,7 @@
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Ray
+- Tristen Nollman (https://github.com/TristenSeth)
 - [Gladson Lyimo](https://github.com/Gladsons)
 - Shahi
 - Rhonin
