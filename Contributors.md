@@ -208,6 +208,7 @@
 - [Eugenio Colnaghi](https://github.com/EColnaghi)
 - Raymond Maple
 - Merlin N.
+- jpdh88
 - [Daniel Coker](https://github.com/danielcoker)
 - [Kamryn Phillips](https://github.com/HawtSawse)
 - [Daisy Macharia](https://github.com/daisymacharia)
