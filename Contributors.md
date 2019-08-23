@@ -15558,3 +15558,4 @@ Aashray Anand
 - [Steve Tran] (https://github.com/strannies)
 - [Joe Pierron] (https://github.com/jpierro)
 - [Andriawan] (https://github.com/andriawan)
+- Jose A.
