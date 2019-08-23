@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
@@ -104,6 +104,7 @@
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Ramiz Khan](https://github.com/ramizkhan99)
 - [John Whitaker](https://github.com/jwhitake)
+- [Maciek Slotwinski](https://github.com/grafzero)
 - Hemal Shah
 - Aksh Thakur
 - [Kelvin Chung](https://github.com/kelvinccc)
