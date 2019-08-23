@@ -241,6 +241,7 @@
 - [Eduardo Ximendes](https://github.com/ximendes)
 - Jibreel
 - lekaf974
+- [Mike Miao](https://github.com/mikeiit)
 - [Aishwarya Dang](https://github.com/aishwaryadang/)
 - [Fedor Zomba] (https://github.com/Fedozzz/first-contributions)
 - [Alan Nguyen](https://github.com/alan-nguyen)
