@@ -11310,6 +11310,7 @@
 - [Abhishek Garain](https://github.com/abhi211199)
 - [Dinner Time](https://github.com/dinnerTime)
 - [Brandon Hee](https://github.com/brandonhee)
+- [Luca Schumann](https://github.com/lucaschumann)
 - [Tjaart van der Walt](https://github.com/tjaartvanderWalt)
 - [Trong Bui](https://github.com/trongbq)
 - [Adhil Juvane](https://github.com/adhiljuvane)
