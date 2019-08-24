@@ -15564,11 +15564,12 @@
 - [Tanvir Alam](https://tanvir-ux.github.io/)
 - [Dmitry Stepanov](https://DSTHub.github.io)
 - [Nemanja Unković](https://github.com/unkovic1986)
-Aashray Anand
-- [Hieu Pham] (https://github.com/tsuyoki1785)
-- [Steve Tran] (https://github.com/strannies)
-- [Joe Pierron] (https://github.com/jpierro)
-- [Andriawan] (https://github.com/andriawan)
+- Aashray Anand
+- [Hieu Pham](https://github.com/tsuyoki1785)
+- [Steve Tran](https://github.com/strannies)
+- [Joe Pierron](https://github.com/jpierro)
+- [Andriawan](https://github.com/andriawan)
+- [Raphaelle Tseng](https://github.com/raphaelletseng)
 - Jose A.
-- [Yeseul Lee] (https://github.com/yeTree)
-- [Jake Kwon] (https://github.com/FoxeyesJK)
+- [Yeseul Lee](https://github.com/yeTree)
+- [Jake Kwon](https://github.com/FoxeyesJK)
