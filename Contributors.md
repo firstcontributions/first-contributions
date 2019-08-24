@@ -1572,6 +1572,7 @@
 - Just Testing @Kanak Sharma
 - [Yoshitha Chowdary](https://github.com/Yoshitha-y)
 - [Nam Vu](https://github.com/nam93)
+- [Shachaf Zohar](https://github.com/shafzhr)
 - [Robert Vo](https://github.com/robertvo824)
 - [Mehran Koushkebaghi](https://github.com/Mehrank64)
 - [Cerebral Nomad](https://github.com/cerebralnomad)
