@@ -15573,4 +15573,3 @@
 - Jose A.
 - [Yeseul Lee](https://github.com/yeTree)
 - [Jake Kwon](https://github.com/FoxeyesJK)
-- [MrCrit](https://github.com/MrCrit)
