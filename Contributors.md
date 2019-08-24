@@ -157,6 +157,7 @@
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
 - Sam DC
+- Aditya Mohan
 - [Lam Nguyen](https://github.com/Lm-ngyn)
 - Frank Savino
 - Anshuman Singh
