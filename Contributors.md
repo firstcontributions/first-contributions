@@ -1304,6 +1304,7 @@
 - Gourav J
 - Niklavs Katlaps
 - Jason E
+- Vincent V
 - [Joe Polaski](https://github.com/JosephPolaski)
 - John Daniel
 - [Nishant Shekha](https://github.com/mhawk12)
