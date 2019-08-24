@@ -11,6 +11,7 @@
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Ritter Gustave](https://github.com/rGustave07)
+- [Hyun Chung](https://github.com/hkchung99) 
 - Here2Dance (http://github.com/Here2Dance)
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
