@@ -7138,6 +7138,7 @@
 - [Sagnik_Ghosh](https://github.com/Sagnik-Ghosh)
 - [Eishan Lawrence](https://github.com/eishan05)
 - [Blake](https://github.com/Blake575)
+- [Logan](https://github.com/logan9t8/)
 - [Sidekick](https://github.com/KumarAmitMehta)
 - [Stanley Yu](https://github.com/stanley98yu)
 - [Tanvi Nerkar](https://github.com/tanvinerkar)
