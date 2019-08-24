@@ -13,6 +13,7 @@
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99) 
 - Here2Dance (http://github.com/Here2Dance)
+- [JawnMarc](https://github.com/JawnMarc)
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
