@@ -53,6 +53,7 @@
 - Ajit Singh (https://github.com/as-ajitsingh)
 - Manish Sanwle
 - [Sam Jin](https://github.com/sneasing)
+- [H Dreikorn](https://github.com/HDreikorn)
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Gordon nchy](https://github.com/gordonnchy)
 - [Nitin Gupta](https://github.com/nitingt)
