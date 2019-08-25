@@ -46,6 +46,7 @@
   Aviad Ariel
 - Rushabh Doshi
 - Justin Wong
+- Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
 - Manish Sanwle
