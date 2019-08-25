@@ -15353,6 +15353,7 @@
 - [Dominik Petrovic](https://github.com/nixxcode)
 - [Chakradhar Koppula](https://github.com/ckoppula199)
 - [Jang Ho Cho](https://github.com/jhc95/)
+- [Shea Buckner](https://github.com/towhitch)
 - [machao](https://github.com/McSources)
 - [dudakp](https://github.com/dudakp/)
 - [Michael Luo](https://github.com/michaeljluo)
