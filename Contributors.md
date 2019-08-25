@@ -15533,8 +15533,9 @@
 - [David Jahng](https://github.com/djahng)
 - [Azhar Anwar](https://github.com/iamazhar)
 - A.Meng
+- [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
 - Mark
--sumit kushwah
+- sumit kushwah
 - [Alexander Santos](https://github.com/ronkiro)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
