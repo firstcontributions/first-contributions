@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [kurt](https://github.com/KurtKudrat)
@@ -23,6 +23,7 @@
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
+- Stefan
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
