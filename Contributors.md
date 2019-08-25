@@ -417,6 +417,7 @@
 - [Kunal Puri](https://github.com/kunalpuri)
 - Cody Dullard
 - [Clement Sam](https://github.com/profclems)
+- [Rohit Vishen](https://github.com/RohitVishen)
 - JAYATI SHRIVASTAVA
 - [sixlim](https://github.com/sixlim)
 - [Nameet Nayak](https://github.com/nayaknameet)
