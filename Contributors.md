@@ -39,6 +39,7 @@
 - MrMame
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
+- Zeinab
 - Ray
 - Tristen Nollman (https://github.com/TristenSeth)
 - [Gladson Lyimo](https://github.com/Gladsons)
