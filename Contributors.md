@@ -9996,6 +9996,7 @@
 - [Rohan Mehta](https://github.com/mehta-rohan)
 - [Pai Zhang](https://github.com/paizhang)
 - [Varun Rathore](https://github.com/Rathovarun)
+- [Corey Tan](https://github.com/coreytan00)
 - [Amar Alaa](https://github.com/amaralaa)
 - [Paulo Baskovic](https://github.com/BaskovicP)
 - [Aymeric Royenette](https://github.com/Wedge-)
