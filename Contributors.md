@@ -13,7 +13,7 @@
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Ritter Gustave](https://github.com/rGustave07)
-- [Hyun Chung](https://github.com/hkchung99) 
+- [Hyun Chung](https://github.com/hkchung99)
 - Here2Dance (http://github.com/Here2Dance)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
@@ -125,6 +125,7 @@
 - Hemal Shah
 - Aksh Thakur
 - [Kelvin Chung](https://github.com/kelvinccc)
+- [Vince Bloise] (https://github.com/vbloise3)
 - Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
