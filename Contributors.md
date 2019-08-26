@@ -5,6 +5,7 @@
 - [Daemon1024](https://github.com/daemon1024)
 - [dexetrous](https://github.com/deXetrous)
 - [Joe-A-D](https://github.com/joe-a-d)
+- [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Rasul Kireev](https://rasulkireev.com)
