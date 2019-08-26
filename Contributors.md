@@ -15573,6 +15573,7 @@
 - [Kevin Curtis](https://github.com/KevinCurtisDev)
 - AHA
 - [Srikumar Krishnamurthy](https://github.com/ksrikumar)
+- [Cassandra Gelvin](https://github.com/Kethlak)
 - [Chris Gebhardt](https://github.com/cgeb)
 - [Antonio Miloš](https://github.com/dewexx)
 - [Tanvir Alam](https://tanvir-ux.github.io/)
