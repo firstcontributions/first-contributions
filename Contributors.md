@@ -7774,6 +7774,7 @@
 - [Sergey Gorky](https://github.com/sergeygorky)
 - [Rugantio Costa](https://github.com/rugantio)
 - [Derick Dsouza](https://github.com/derickdsouza)
+- [Alejandro Galvan] (https://github.com/Jano010)
 - [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - [Dragan Theodora-Augustina](https://github.com/theodoradragan)
 - [Vaibhav Mule](https://github.com/vaibhavmule)
