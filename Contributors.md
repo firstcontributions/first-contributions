@@ -583,6 +583,7 @@
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang](https://github.com/heidandseek)
 - [Jorene Ng](https://github.com/joreneng)
+- [Luis Velasquez](https://github.com/HolaSoyLuis)
 - [Harith Sankalpa](https://github.com/harith96)
 - [blueblackberry](https://github.com/blueblackberry)
 - [Archie Lewis](https://github.com/acl76)
