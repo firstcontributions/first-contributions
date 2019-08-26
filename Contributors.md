@@ -40,6 +40,7 @@
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Zeinab
+- Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
 - Tristen Nollman (https://github.com/TristenSeth)
 - [Gladson Lyimo](https://github.com/Gladsons)
