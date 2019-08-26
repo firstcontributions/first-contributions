@@ -15483,6 +15483,7 @@
 - [Bajtekp](https://github.com/bajtekp)
 - [Praneet Kedari](https://github.com/lakers38)
 - [Lionel Stewart](https://github.com/Lionel-Stewart)
+Mário Baltazar
 - [anandfnc](https://github.com/anandfnc)
 - [PerceptionD](https://github.com/PerceptionD)
 - [Gacut](https://github.com/Gacut)
