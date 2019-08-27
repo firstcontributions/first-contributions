@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [Justin Chow](https://github.com/justinchow11)
@@ -2344,6 +2344,7 @@
 - [Kamaljot Saini](https://github.com/unsafeartist)
 - [rodegrafika](https://github.com/Rodegrafika)
 - [daniel9a](https://github.com/daniel9a)
+- [toddchrun](https://github.com/toddchrun)
 - [LucaBlightRoyal](https://github.com/hide85x)
 - [Brian Eichenberger](https://github.com/ike76)
 - [Oleksii Savchenko](https://github.com/savchenkolex)
