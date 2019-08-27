@@ -7575,6 +7575,7 @@
 - [Joseph Camarena](https://github.com/JosephCamarena)
 - [Brian Guo](https://github.com/briang810)
 - [Lubits](https://github.com/lubits)
+- [Varun](https://github.com/varun959)
 - [Jeremy Brun](https://github.com/jeremytbrun)
 - [Allan Guy](https://github.com/alguy)
 - [James Rice](https://github.com/jamesrice96)
