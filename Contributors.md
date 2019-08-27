@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
+- [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
 - [dexetrous](https://github.com/deXetrous)
