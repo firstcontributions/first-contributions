@@ -15,7 +15,7 @@
 - [David John Neiferd](https://github.com/JohnDN90)
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
-- [Kostas Vangos] (https://github.com/white-958) 
+- [Kostas Vangos](https://github.com/white-958) 
 - Here2Dance (http://github.com/Here2Dance)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
