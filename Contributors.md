@@ -1984,6 +1984,7 @@
 - [Fatimah Alattas](https://github.com/fatimah5)
 - [Chris Patrick](https://github.com/cp1927)
 - Archana
+- [Erick Guerra](https://github.com/efgc)
 - Sid Mohan
 - [Will Wilson](https://github.com/wbwilsoniv)
 - [Tushar Singhal](https://github.com/tushar8194)
