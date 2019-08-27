@@ -52,6 +52,8 @@
 - Rhonin
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
+- [Ogunboyejo Olatunde](https://github.com/josiaholatunde)
+
   Aviad Ariel
 - Rushabh Doshi
 - Justin Wong
