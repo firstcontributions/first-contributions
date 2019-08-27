@@ -10,7 +10,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution, just follow the simple steps below. We promise you, it will be fun.
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
@@ -34,7 +34,7 @@ The next step is to clone your repo down to your machine so you can begin making
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input promt by pressing `CTRL-P` and then type the `>` character.
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
