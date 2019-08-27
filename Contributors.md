@@ -441,6 +441,7 @@
 - [Andre Nobre](https://github.com/4ndrenobr3)
 - [Mark Butler](https://github.com/mysteryboy73)
 - [Ramon Morcillo](https://github.com/reymon359)
+- [Alvaro Croce](https://github.com/amcroce)
 - [Adam Galt](https://github.com/AdamGalt)
 - Ali Habeeb Aladross
 - Danielle Rosenfeld-Lovell (https://github.com/magicpuddingcat)
