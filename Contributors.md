@@ -12,6 +12,7 @@
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
+- [David John Neiferd](https://github.com/JohnDN90)
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
 - Here2Dance (http://github.com/Here2Dance)
