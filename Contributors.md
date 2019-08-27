@@ -1,5 +1,6 @@
 # Contributors
 
+- [grrigore](https://github.com/grrigore)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
@@ -16,7 +17,7 @@
 - [David John Neiferd](https://github.com/JohnDN90)
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
-- [Kostas Vangos](https://github.com/white-958) 
+- [Kostas Vangos](https://github.com/white-958)
 - Here2Dance (http://github.com/Here2Dance)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
@@ -15615,4 +15616,4 @@ Mário Baltazar
 - [MrCrit](https://github.com/MrCrit)
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
-- [CeciliaP.](https://github.com/ceci99pb) 
+- [CeciliaP.](https://github.com/ceci99pb)
