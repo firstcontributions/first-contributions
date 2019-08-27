@@ -14820,7 +14820,6 @@
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
@@ -15619,5 +15618,6 @@ Mário Baltazar
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [CeciliaP.](https://github.com/ceci99pb) 
-- [Junwon Jung](https://github.com/jw3329) 
+- [Junwon Jung](https://github.com/jw3329)
+- [Jaymes Morris](https://github.com/JMorris2000) 
 - [Ansh](https://github.com/root-ansh)
