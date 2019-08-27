@@ -48,6 +48,7 @@
 - Tristen Nollman (https://github.com/TristenSeth)
 - [Gladson Lyimo](https://github.com/Gladsons)
 - [Aaron Maritz](https://github.com/aaron-maritz)]
+- [Muhammad Aditya Sasongko](https://github.com/msasongko17)
 - Shahi
 - Rhonin
 - Mohit Rathor
