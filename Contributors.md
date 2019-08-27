@@ -16,6 +16,7 @@
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
 - [Here2Dance](http://github.com/Here2Dance)
+- [Kostas Vangos](https://github.com/white-958) 
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
 - [Bill Buchanan](https://www.yyesoftware.com)
@@ -15608,3 +15609,4 @@ Mário Baltazar
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [CeciliaP.](https://github.com/ceci99pb) 
 - [Pikti](https://github.com/pikti)
+
