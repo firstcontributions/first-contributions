@@ -348,6 +348,7 @@
 - Thomas
 - J Zedd
 - [Kevan Lucchini](https://github.com/kevanlucc)
+- [David Cobileac](https://github.com/cobileacd)
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
 - [Kamran Hamid](https://github.com/mkamranhamid)
