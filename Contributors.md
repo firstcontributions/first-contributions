@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Ajay Kumar] (https://github.com/ajaykumar97)
+- [Dillion Megida] (https://github.com/dillionmegida)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Marisol Abrego](https://github.com/marisolabrego)
 - czx229
