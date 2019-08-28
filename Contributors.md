@@ -55,6 +55,7 @@
 - [Muhammad Aditya Sasongko](https://github.com/msasongko17)
 - Shahi
 - Rhonin
+- [Soumyajit Deb](https://github.com/Maxz2136)
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
