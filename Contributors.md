@@ -4,6 +4,7 @@
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
+- [Tyler Lawton](https://github.com/thor-molecules)
 - [dexetrous](https://github.com/deXetrous)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
