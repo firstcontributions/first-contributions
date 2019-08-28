@@ -15257,6 +15257,7 @@
 - [HappyCappybara](https://github.com/happycappybara)
 - [c0dr7](https://github.com/c0dr7)
 - [Arham Abiyan](https://github.com/arham09)
+- [Archit Kulkarni](https://github.com/architkulkarni)
 - [James Ortiz](https://github.com/James1515)
 - [Jake Zhang](https://github.com/zjk97)
 - [Fabio Trinidad](https://github.com/Ftrinidad2)
