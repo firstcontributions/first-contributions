@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [Justin Chow](https://github.com/justinchow11)
@@ -15628,3 +15628,4 @@ Mário Baltazar
 - [Junwon Jung](https://github.com/jw3329) 
 - [Ansh](https://github.com/root-ansh)
 - [Liam Lee](https://github.com/mappyliam)
+- [loozy5331](https://github.com/loozy5331)
