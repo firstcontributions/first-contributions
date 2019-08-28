@@ -47,6 +47,7 @@
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Harry Coburn](https://github.com/Mattibun)
+- Constant Likudie
 - MrMame
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
