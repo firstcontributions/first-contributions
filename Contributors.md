@@ -15555,6 +15555,7 @@ Mário Baltazar
 - [LelPel](https://github.com/lelpel)
 - [Katherine Landry](https://github.com/kburckin)
 - [Abel Nam](https://github.com/inema)
+- [Chris Quevedo](https://github.com/christopherQuevedo)
 - [Shihab uddin](https://github.com/shihabuddinbuet)
 - [Jose Bejerano](https://github.com/bejerano)
 - [Madeline Kelly](https://github.com/MadelineKelly196)
