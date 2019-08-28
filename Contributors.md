@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
+- [Matheus Lamezon](https://github.com/Lamezon)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
