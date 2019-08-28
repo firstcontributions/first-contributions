@@ -10,7 +10,7 @@
 - [Tony K](https://github.com/memphis2coder)
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Rasul Kireev](https://rasulkireev.com)
--[Erik Mueller] ErikDMueller.com
+- [Erik Mueller] ErikDMueller.com
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
@@ -111,6 +111,7 @@
 - [Erika Stott](https://github.com/estott10)
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
 - [Charles Obekpa](https://github.com/kaizem24)
+- [Sam](https://github.com/Montblac)
 - [Cormac Lawlor](https://github.com/armedcor)
 - [David Hanover](https://github.com/DavidHanover)
 - [Seth Lachman](https://github.com/stlachman)
