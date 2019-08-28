@@ -9692,6 +9692,7 @@
 - [Aparna Dhurjati](https//github.com/adhurjati-da)
 - [Stephen Petrides](https://github.com/sdpetrides)
 - [Dylanus](https://github.com/Dylanus)
+- [Dylan Viranyi] (https://github.com/viranyidylan)
 - [Miguel Gallardo](https://github.com/MiguelGT98)
 - [Erik Aoki](https://github.com/ErikAoki)
 - [Celina Harris](https://github.com/katspajamas)
