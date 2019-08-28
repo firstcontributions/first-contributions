@@ -397,6 +397,7 @@
 - [Harman singh](https://github.com/Harman-singh-waraich)
 - [Aamir Soni](https://github.com/Aamir1551)
 - [Elizabeth Harkins](https://github.com/BetsL)
+- [Raul Garcia] (https://github.com/rauljgarcia)
 - [David Lasry](https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
 - [Ygor Magalhães](https://github.com/ygormagalhaes)
