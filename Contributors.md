@@ -1578,6 +1578,7 @@
 - Tony Lopez
 - Shayna Broughman
 - Raunak Gopal
+- [Josh Weston](https://github.com/Josh-Weston)
 - [Akshay Pandit](https://github.com/panditakshay)
 - jpgmoreira
 - [Mark Lally](https://github.com/mark-lally)
