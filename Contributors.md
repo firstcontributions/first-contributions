@@ -325,6 +325,7 @@
 - Jijinkh
 - NADYA POST
 - Jarryd Harris
+- [Thathva Sri Sai Reddy Y](https://github.com/thathva/)
 - [Sakshi Mittal] (https://github.com/sakshi84430)
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
