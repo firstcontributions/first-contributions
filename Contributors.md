@@ -19,6 +19,7 @@
 - [Hyun Chung](https://github.com/hkchung99)
 - [Kostas Vangos](https://github.com/white-958) 
 - Here2Dance (http://github.com/Here2Dance)
+- [dragoFireup](https://github.com/dragoFireup)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
 - [Bill Buchanan](https://www.yyesoftware.com)
