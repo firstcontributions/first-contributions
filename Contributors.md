@@ -1,14 +1,17 @@
 ﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
+- [Matheus Lamezon](https://github.com/Lamezon)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Daemon1024](https://github.com/daemon1024)
+- [Tyler Lawton](https://github.com/thor-molecules)
 - [dexetrous](https://github.com/deXetrous)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
 - [Om Sitapara](https://github.com/omsitapara23)
+- [Bhanu Pratap Singh] (https://github.com/bhanu4444)
 - [Rasul Kireev](https://rasulkireev.com)
 - [Erik Mueller] ErikDMueller.com
 - [Paulo Rodrigues](https://github.com/pauloandreget)
@@ -19,6 +22,7 @@
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
 - [Kostas Vangos](https://github.com/white-958)
+- [Nick Pafundi](https://github.com/napafundi) 
 - Here2Dance (http://github.com/Here2Dance)
 - [dragoFireup](https://github.com/dragoFireup)
 - [JawnMarc](https://github.com/JawnMarc)
@@ -44,7 +48,9 @@
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 - [Armen Bakir](https://github.com/Ezall2001)
+- [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
+- Constant Likudie
 - MrMame
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
@@ -64,6 +70,7 @@
   Aviad Ariel
 - Rushabh Doshi
 - Justin Wong
+- Saksham Agrawal
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
@@ -324,6 +331,7 @@
 - Jijinkh
 - NADYA POST
 - Jarryd Harris
+- [Thathva Sri Sai Reddy Y](https://github.com/thathva/)
 - [Sakshi Mittal] (https://github.com/sakshi84430)
 - [Udit Malik](https://github.com/malikudit)
 - [Krati Garg](https://github.com/kratigarg167)
@@ -349,6 +357,7 @@
 - Thomas
 - J Zedd
 - [Kevan Lucchini](https://github.com/kevanlucc)
+- [David Cobileac](https://github.com/cobileacd)
 - [T Cavanagh](https://github.com/tcavan0)
 - [Kate Yanko](https://github.com/kateyanko)
 - [Kamran Hamid](https://github.com/mkamranhamid)
@@ -394,6 +403,7 @@
 - [Harman singh](https://github.com/Harman-singh-waraich)
 - [Aamir Soni](https://github.com/Aamir1551)
 - [Elizabeth Harkins](https://github.com/BetsL)
+- [Raul Garcia] (https://github.com/rauljgarcia)
 - [David Lasry](https://github.com/dadou4243)
 - [tbmreza](https://github.com/tbmreza)
 - [Ygor Magalhães](https://github.com/ygormagalhaes)
@@ -404,6 +414,7 @@
 - [Mohit Mohan](https://github.com/mohitmo)
 - [Ahmad Shahwaiz](https://github.com/shahwaiz90/)
 - Abhishek Bhandari
+- [Benjamin Buettner] (https://github.com/B-Benja/)
 - [Aurore Vandroux](https;//github.com/ORORRR)
 - [Brianna McGovern](https://github.com/bmcgovern007)
 - [osmanjan omar](https://github.com/oghuz)
@@ -1141,6 +1152,7 @@
 - [Andyjdv](https://github.com/Andyjdv)
 - [Burak Yilmaz](https://github.com/burakyilmaz321)
 - Daniel Fletemier
+- T K
 - ProximitySound
 - Kate Choe
 - [Chris Olson](https://github.com/SailorFuzz)
@@ -1569,6 +1581,7 @@
 - Tony Lopez
 - Shayna Broughman
 - Raunak Gopal
+- [Josh Weston](https://github.com/Josh-Weston)
 - [Akshay Pandit](https://github.com/panditakshay)
 - jpgmoreira
 - [Mark Lally](https://github.com/mark-lally)
@@ -8467,6 +8480,7 @@
 - [Avish Cheetaram](https://github.com/avish0694)
 - [Muhammad Aziz Idharrulhaq](https://github.com/Azidharr)
 - [Brian Nomwesigwa](https://github.com/Brian-Van-Stoner)
+- [Todd Belcher](https://github.com/toddkc)
 - [Damir Podbojec](https://github.com/dpodboj1)
 - [Vishal Agrawal](https://github.com/vishuvish)
 - [Fitriana Alivia](https://github.com/mrsdark)
@@ -15556,6 +15570,7 @@ Mário Baltazar
 - [LelPel](https://github.com/lelpel)
 - [Katherine Landry](https://github.com/kburckin)
 - [Abel Nam](https://github.com/inema)
+- [Chris Quevedo](https://github.com/christopherQuevedo)
 - [Shihab uddin](https://github.com/shihabuddinbuet)
 - [Jose Bejerano](https://github.com/bejerano)
 - [Madeline Kelly](https://github.com/MadelineKelly196)
@@ -15631,3 +15646,4 @@ Mário Baltazar
 - [Ansh](https://github.com/root-ansh)
 - [Liam Lee](https://github.com/mappyliam)
 - [loozy5331](https://github.com/loozy5331)
+- [Koda Gabriel] (https://github.com/kodagabriel)
