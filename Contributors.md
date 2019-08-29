@@ -84,6 +84,7 @@
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
+- [Harper G](https://github.com/harpercodes)
 - [Lok Chan](https://github.com/0903lokchan)
 - Anthony Luttrell
 - Glen Edwards
