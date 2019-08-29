@@ -15652,3 +15652,4 @@ Mário Baltazar
 - [loozy5331](https://github.com/loozy5331)
 - [Koda Gabriel] (https://github.com/kodagabriel)
 - [Adam Yeager](https://github.com/theyeag)
+- [Adam Yeager](https://github.com/krakenschloss-adamyeager)
