@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
@@ -50,6 +50,7 @@
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
+-[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
 - Constant Likudie
 - MrMame
 - [Oren Shafir](https://github.com/Orenshaf)
