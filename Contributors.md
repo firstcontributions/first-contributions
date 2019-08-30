@@ -86,6 +86,7 @@
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - [Harper G](https://github.com/harpercodes)
 - [Lok Chan](https://github.com/0903lokchan)
+- [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
 - Glen Edwards
 - Christian Torbica
