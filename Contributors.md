@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [manojranak1](https://github.com/manojranak1)
 - [Shanedolin](https://github.com/Shanedolin)
@@ -10817,6 +10817,7 @@
 - [Jan She](https://github.com/guiKailu)
 - [B Souty](https://github.com/B-Souty)
 - [Paul](https://github.com/paulseghers)
+- [Eli Knott](https://github.com/elijknott)
 - [Karan Mirani](https://github.com/miranikaran01)
 - [Marcus C](https//github.com/marcus290)
 - [Maximiliano Estudies](https://github.com/maxiestudies)
