@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
@@ -15643,6 +15643,7 @@ Mário Baltazar
 - [Raphaelle Tseng](https://github.com/raphaelletseng)
 - Jose A.
 - [Yeseul Lee](https://github.com/yeTree)
+- Anagha Moosad
 - [Jake Kwon](https://github.com/FoxeyesJK)
 - [MrCrit](https://github.com/MrCrit)
 - [gbs4ever](https://github.com/gbs4ever)
