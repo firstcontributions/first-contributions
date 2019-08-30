@@ -2627,6 +2627,7 @@
 - [sajjas](https://github.com/sajjass)
 - [Danyal](https://github.com/danyalz)
 - [Griffin Buising](https://github.com/ShikoModo)
+- [Shir Rajuan](https://github.com/ShirRaj)
 - [Rahul Shukla](https://github.com/rahul754)
 - [Ravi Shrestha](https://github.com/ravshrestha9)
 - [Ricardo Gonzalez](https://github.com/RicardoGonzalezJ)
