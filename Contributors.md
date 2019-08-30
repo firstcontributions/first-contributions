@@ -25,6 +25,7 @@
 - [Hyun Chung](https://github.com/hkchung99)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
+- [George Yu](https://github.com/DsinCDev)
 - Here2Dance (http://github.com/Here2Dance)
 - [dragoFireup](https://github.com/dragoFireup)
 - [JawnMarc](https://github.com/JawnMarc)
