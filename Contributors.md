@@ -126,6 +126,7 @@
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
 - [Roberson Lubin](https://github.com/rlubingsu)
+- Arielle Jasmine Michelle Irada
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Erika Stott](https://github.com/estott10)
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
