@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
@@ -32,6 +32,7 @@
 - [Dysar](https://github.com/Dysar)
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
+  vikvdd
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
