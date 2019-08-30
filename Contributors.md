@@ -34,6 +34,7 @@
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Rahul Ranjan](https://github.com/workrahul22)
+- [Nam Hoang Nguyen] (https://github.com/namm12)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
