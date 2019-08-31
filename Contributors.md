@@ -37,6 +37,9 @@
   vikvdd
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
 - [Charlie Ramirez](https://github.com/Monsterous915)
+- Bruno Alou
+- aydoganersoz
+- rounaksarda
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Rahul Ranjan](https://github.com/workrahul22)
 - [Nam Hoang Nguyen] (https://github.com/namm12)
