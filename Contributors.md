@@ -24,6 +24,7 @@
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
+- [Binh Trinh](https://github.com/binhthaitrinh)
 - [David John Neiferd](https://github.com/JohnDN90)
 - [Jack Bicknell](https://github.com/jackbicknell14)
 - [Ritter Gustave](https://github.com/rGustave07)
