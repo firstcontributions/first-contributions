@@ -99,6 +99,7 @@
 - Glen Edwards
 - Christian Torbica
 - John Fletcher
+- [Michael Moran](https://github.com/Donovoi)
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Moshe]
