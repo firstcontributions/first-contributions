@@ -362,6 +362,7 @@
 - [Michael Crawford](https://github.com/mcrwfrd)
 - [Aquib Junaid Razack](https://github.com/aquibjr)
 - [Pachi](https://github.com/pachicodes)
+- [Troy Chiasson](https://github.com/iTroyjan)
 - [Joe Miao](https://github.com/miaozeyu)
 - Thomas
 - J Zedd
