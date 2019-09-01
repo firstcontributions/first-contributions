@@ -323,6 +323,7 @@
 - [solodynamo](https://github.com/solodynamo)
 - [nicolas oppitz](https://github.com/nickoppitz)
 - [wilgjah](https://github.com/wilkinv)
+- [dwilson88](https://github.com/dlwilson88)
 - [kamdz](https://github.com/kamdz)
 - [Afras Ashraf](https://github.com/GComputeNerd)
 - [Tran Ly Vu](https://github.com/tranlyvu)
