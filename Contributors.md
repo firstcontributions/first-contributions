@@ -15,6 +15,9 @@
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Bhanu Pratap Singh](https://github.com/bhanu4444)
 - [Drashti Modasara](https://github.com/drashti1712)
+- [Robert Bohn]
+- [Artem-Melnikov]
+- [nikhil]
 - [Rasul Kireev](https://rasulkireev.com)
 - [Erik Mueller] ErikDMueller.com
 - [Paulo Rodrigues](https://github.com/pauloandreget)
