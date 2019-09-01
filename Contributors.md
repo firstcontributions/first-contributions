@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [cricri777](https://github.com/cricri777)
 - [manojranak1](https://github.com/manojranak1)
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
