@@ -290,7 +290,7 @@
 - Ahmad
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
-- Raj Rathi
+- Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
 - [Baris Mar Aziz](https://github.com/barismar)
