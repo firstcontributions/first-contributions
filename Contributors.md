@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [manojranak1](https://github.com/manojranak1)
+- [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
