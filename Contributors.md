@@ -88,6 +88,7 @@
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
 - Rushabh Doshi
+- [Kevin Schoormans] (https://github.com/kevinschoormans)
 - Justin Wong
 - Saksham Agrawal
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
