@@ -7844,6 +7844,7 @@
 - [Alejandro Galvan] (https://github.com/Jano010)
 - [Aishwarya Pradhan](https://github.com/aishwaryapradhan)
 - [Dragan Theodora-Augustina](https://github.com/theodoradragan)
+- [Justin Davis](https://github.com/JustinDDavis)
 - [Vaibhav Mule](https://github.com/vaibhavmule)
 - [Akash Goel](https://github.com//akashgoel1197)
 - [Paolo Grisoli](https://github.com/kind84)
