@@ -3,6 +3,7 @@
 - [manojranak1](https://github.com/manojranak1)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
+- [Krisztian Markella](https://github.com/chrismarkella)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Stacy Meichle](https://github.com/smeichle)
