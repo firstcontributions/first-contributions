@@ -601,6 +601,7 @@
 - [Muhammad Javed](https://github.com/hamham240)
 - ohm Resistance
 - [Pramesh Sharma](https://github.com/prameshsharma25)
+- [Aniket Meshram](https://github.com/aniketmeshram)
 - Ellie Taylor
 - Toby Brown
 - Abhilash Agrawal
