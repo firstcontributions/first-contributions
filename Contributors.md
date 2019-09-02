@@ -15696,3 +15696,4 @@ Mário Baltazar
 - [Kenny Togunloju](https://github.com/kennybky)
 - [Marchand Benjamin] (https://github.com/marchandbenjamin)
 - [Mairon DaSilva] (https://github.com/MaironD)
+- [Azmain Adel] (https://github.com/azmainadel)
