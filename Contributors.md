@@ -7684,6 +7684,7 @@
 - [Varsha-Vasudevan](https://github.com/Varsha-Vasudevan)
 - [airbnben](https://github.com/airbnben)
 - [qsunnx](https://github.com/qsunnx)
+- [Jose Urdaneta](https://github.com/urdaneta88)
 - [Niharika Shrivastava](https://github.com/orionstar25)
 - [Dragos Dobre](https://github.com/dobredragos24)
 - [Vishal Koosuri](https://github.com/dainvinc)
