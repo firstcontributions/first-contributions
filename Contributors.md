@@ -15697,3 +15697,4 @@ Mário Baltazar
 - [Marchand Benjamin] (https://github.com/marchandbenjamin)
 - [Mairon DaSilva] (https://github.com/MaironD)
 - [Azmain Adel] (https://github.com/azmainadel)
+- [Itay Gershman] (https://github.com/ItayGershman)
