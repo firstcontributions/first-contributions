@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [cricri777](https://github.com/cricri777)
+- [sm0rux](https://github.com/sm0rux)
 - [manojranak1](https://github.com/manojranak1)
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
