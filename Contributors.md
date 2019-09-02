@@ -74,6 +74,7 @@
 -[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
 - Constant Likudie
 - MrMame
+-[Brady Atkinson](https://github.com/BradyAtkinson)
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Zeinab
