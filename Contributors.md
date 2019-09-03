@@ -15709,4 +15709,5 @@ Mário Baltazar
 - [Azmain Adel] (https://github.com/azmainadel)
 - [Itay Gershman] (https://github.com/ItayGershman)
 - [Sarah AlMutairi](https://github.com/sara13js)
-- [EDWIN BONI OIGO] (https://github.com/oigoedwin
+- [EDWIN BONI OIGO] (https://github.com/oigoedwin)
+- [Rudy Summers](https://github.com/rudysummers)
