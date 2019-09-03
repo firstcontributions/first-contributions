@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 - [cricri777](https://github.com/cricri777)
-- [sm0rux](https://github.com/sm0rux)
+- [sm0rux](https://github.com/sm0rux) - minor change to see if I understand GitHub/git
 - [manojranak1](https://github.com/manojranak1)
 - [Siddharth Kundu](https://github.com/sid995)
 - [Vaibhav](https://github.com/vaibhav60)
