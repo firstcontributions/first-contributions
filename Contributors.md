@@ -1890,6 +1890,7 @@
 - Marcel W.
 - Muhammad Jamshed
 - Masahiro
+- [Raymond Lo](https://github.com/rayy-lo)
 - Jerry Zhang
 - Darrin Deal
 - Manuprasad M
