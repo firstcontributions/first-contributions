@@ -5,6 +5,7 @@
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Siddharth Kundu](https://github.com/sid995)
+- [lisalidroit](https://github.com/lisalidroit))
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
