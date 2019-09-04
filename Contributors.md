@@ -1233,6 +1233,7 @@
 - [Vineeth Kolluru](https://github.com/VineethK336)
 - Gavin Hoang
 - [E Tolman](https://github.com/ettolman)
+- [John Marcus III](https://github.com/jwmarcus)
 - [KSeangTan](https://github.com/KSeangTan)
 - edwin
 - [Aryan Gupta](@withoutwaxaryan)
