@@ -15572,6 +15572,7 @@
 - putukass
 - [Mitan Chandihok](https://github.com/mitanc)
 - [balgopal123](https://github.com/balgopal123)
+- [Natalie Fleury](Natalie-Droit)
 - zipate
 - [Patrick Williams](https://github.com/anvilpw)
 - [jingjingfan](https://github.com/jingjingfan)
