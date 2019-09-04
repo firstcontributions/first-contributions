@@ -55,6 +55,7 @@
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
   vikvdd
+- [Mohammed Anas](https://github.com/anasmohammad611)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Malgo Mark]
