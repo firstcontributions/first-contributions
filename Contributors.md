@@ -8582,6 +8582,7 @@
 - [Scott Ream](https://github.com/robotshateme)
 - [Gareth Griffiths](https://github.com/synbyte)
 - [Deni Ardiansyah](https://github.com/denibla)
+- [Ellen Cubbin](https://github.com/ellcub)
 - [Amanda Slavinsky](https://github.com/amandaslav)
 - [Danny Wagstaff](https://github.com/danny1000008)
 - [Agham Arta Bima](https://github.com/aghambla)
