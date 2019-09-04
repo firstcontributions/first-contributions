@@ -7262,6 +7262,7 @@
 - [Saket](https://github.com/saket700)
 - [Vlad Aiftimie](https://github.com/vaiftimie)
 - [hercegtomas](https://github.com/hercegtomas)
+- [Pierre Bréchet](https://github.com/brechetp)
 - [Renato Santos](https://github.com/RNT17)
 - [Justin Tadlock](https://github.com/Justin-Tadlock)
 - [Rezwan Hossain](https://github.com/rezwan-hossain)
