@@ -15657,6 +15657,7 @@ Mário Baltazar
 - [HoreaC] (https://github.com/MercurA)
 - [AleTheBro] (https://github.com/alethebro)
 - [dcoleman] (https://github.com/dcoleman)
+- [Austin Locke] (https://github.com/austinlocke)
 - [Fredrik Eriksson](https://github.com/bazeon)
 - [Ben Basty](https://github.com/benbasty)
 - [Gerardo Alvez](https://github.com/alvezgr)
