@@ -708,7 +708,6 @@
 - [Stefan Simeonov](https://github.com/riyusso)
 - [Alexis Bourdeau](https://github.com/alexisbourdeau)
 - [Ralph Sulit](https://github.com/ralphsulit)
-- Jacob Salt
 - [Victoria Zdanovskaya](https://github.com/ladyyvii)
 - [Joseph Garcia](https://github.com/JosephGarcia)
 - [Daniel Xie](https://github.com/danieljxie)
