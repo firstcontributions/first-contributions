@@ -5762,6 +5762,7 @@
 - [Somit Mittal](https://github.com/somitmittal)
 - [Andrew Hadden](https://github.com/ahadden09)
 - [Raghav Prasad](https://github.com/raghavprasad13)
+- [Miloš Medić](https://github.com/medicmilos)
 - [Saeed Ahmadi](https://github.com/saeedahmadee)
 - [Jason Allshorn](https://github.com/supertopoz)
 - [Ano Newb](https://github.com/anonewb)
