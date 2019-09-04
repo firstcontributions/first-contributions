@@ -66,6 +66,7 @@
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
 - Mihri Ceren
+- [Eric Fang] (https://github.com/thericfang)
 - [Luke Barry] (https://github.com/lukelbarry06)
 - [Nikhil Nelson] (http://https://github.com/nike47)
 - [Nilesh Patel](https://github.com/NileshSP)
