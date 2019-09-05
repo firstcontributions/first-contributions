@@ -3870,6 +3870,7 @@
 - [Peter R](https://github.com/peterr101)
 - Tyler Clark
 - [Chase Terry](https://github.com/cdterry87)
+- [Rafael Áquila](https://github.com/aquilarafa)
 - [dhairya](https://github.com/arLong-98)
 - [Jason Lynch](https://github.com/Tessituraa)
 - [Michal Worwag](https://github.com/michal-worwag)
