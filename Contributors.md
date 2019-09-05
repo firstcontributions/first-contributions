@@ -7026,6 +7026,7 @@ Stephan Sharpe
 - [Dominic Valenciana](https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
 - [Jake Harrington](https://github.com/harringtonjd0)
+- [Joseph Verdugo](https://github.com/jrverdugo)
 - [Sally Chhuon](https://github.com/sc2225)
 - [shreya bhandare](https://github.com/shreab373)
 - [Lord Adarsh](https://github.com/adarsh-why)
