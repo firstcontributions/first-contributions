@@ -659,6 +659,7 @@
 - [Aaron Clare](https://github.com/aaronclare3)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang](https://github.com/heidandseek)
+Stephan Sharpe
 - [Jorene Ng](https://github.com/joreneng)
 - [Luis Velasquez](https://github.com/HolaSoyLuis)
 - [Harith Sankalpa](https://github.com/harith96)
