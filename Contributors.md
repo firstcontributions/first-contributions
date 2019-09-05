@@ -80,6 +80,7 @@
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 - [Armen Bakir](https://github.com/Ezall2001)
+- [Nikolay Georgiev](https://github.com/nvgeorgiev)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
 -[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
