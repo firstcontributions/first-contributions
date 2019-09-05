@@ -78,6 +78,7 @@
 - [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
+Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
