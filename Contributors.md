@@ -11,6 +11,7 @@
 - [Shanedolin](https://github.com/Shanedolin)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
+- [Samuel Kapusta](htpps://github.com/cabbagelover25)
 - [Justin Chow](https://github.com/justinchow11)
 - [kurt](https://github.com/KurtKudrat)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
