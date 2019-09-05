@@ -2074,6 +2074,7 @@
 - [George Bowers](https://github.com/gergeb)
 - [Anne Lanaza](https://github.com/mlanaza)
 - supriya
+- yuriy-ivanchenko
 - [pale](https://github.com/Paleless)
 - [Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
