@@ -194,6 +194,7 @@
 - [Arthur King Reyes](https://github.com/arthurkingreyes)
 - Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
+- [f0hss](https://github.com/f0hss/)
 - czx229
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
