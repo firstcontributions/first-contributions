@@ -354,6 +354,7 @@ Haris Siddiqui
 - [Brandyn Bushong](https://github.com/Brandynio)
 - [qkrtjrrnjs](https://github.com/qkrtjrrnjs)
 - [Eddie Garcia-Alamilla](https://github.com/edgarciaalamilla)
+- [Jenia Dysin](https://github.com/jenia90)
 - [Madi Rysbek](https://github.com/hooizit)
 - [Kartikey Srivastava](https://github.com/avatsavirs)
 - [Anton Ödman](https://github.com/banjoanton)
