@@ -225,6 +225,7 @@ Haris Siddiqui
 - Zaika Vladimir(https://github.com/Aplaus228)
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
+- [Joe Chung](https://github.com/j2chung)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
@@ -246,6 +247,7 @@ Haris Siddiqui
 - [Bryce DeBilzan] (https://github.com/bdebilzan)
 - [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
+- [Joe Chung] (https://github.com/j2chung)
 - Bryant Sirois
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
