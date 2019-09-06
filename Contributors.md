@@ -12553,6 +12553,7 @@ Stephan Sharpe
 - [Tom Hardy](https://github.com/wuxmedia)
 - [Thales Junior](https://github.com/ThalesGomesJr)
 - [Jose Freitas](http://github.com/jaugustocesar)
+- [Adam Csillag] (https://github.com/adamcsillag)
 - [Pablo França](https://github.com/magusTM)
 - [Larissa França](https://github.com/EmeraldL)
 - [Rachel Lima](https://github.com/rachellimaa)
