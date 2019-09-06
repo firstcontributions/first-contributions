@@ -15699,6 +15699,7 @@ Mário Baltazar
 - [Adam Yeager](https://github.com/krakenschloss-adamyeager)
 - [Kenny Togunloju](https://github.com/kennybky)
 - [Marchand Benjamin] (https://github.com/marchandbenjamin)
+- [Venkat Korrapati] (https://github.com/vk3305)
 - [Mairon DaSilva] (https://github.com/MaironD)
 - [Azmain Adel] (https://github.com/azmainadel)
 - [Itay Gershman] (https://github.com/ItayGershman)
