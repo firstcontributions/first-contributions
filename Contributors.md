@@ -30,6 +30,7 @@
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
+- [jb](https://github.com/jlbaldwin)
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Bhanu Pratap Singh](https://github.com/bhanu4444)
 - [Drashti Modasara](https://github.com/drashti1712)
