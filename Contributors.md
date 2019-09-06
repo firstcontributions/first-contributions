@@ -15743,3 +15743,4 @@ Mário Baltazar
 - [Narongrit Unwerawattana](https://github.com/kicito)
 - [Furkan K.](https://github.com/mfurkankara)
 - [Wes Roberson] (https://github.com/wesrob21)
+- [Nghokeng Daniel](https://github.com/dani-gouken)
