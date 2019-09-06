@@ -24,6 +24,7 @@
 - [Caroline Dahmen](https://github.com/C-Dahmen)
 - Rushabh Doshi
 - Justin Wong
+- Ben Whitney
 - Manish Sanwle
 - [Sam Jin](https://github.com/sneasing)
 - [Ajay Kumar](https://github.com/ajaykumar97)
