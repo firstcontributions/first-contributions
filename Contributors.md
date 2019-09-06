@@ -15731,6 +15731,7 @@ Mário Baltazar
 - [Koda Gabriel] (https://github.com/kodagabriel)
 - [Adam Yeager](https://github.com/theyeag)
 - [Adam Yeager](https://github.com/krakenschloss-adamyeager)
+- [Jonathan Yergin] https://github.com/JonYergin
 - [Kenny Togunloju](https://github.com/kennybky)
 - [Marchand Benjamin] (https://github.com/marchandbenjamin)
 - [Mairon DaSilva] (https://github.com/MaironD)
