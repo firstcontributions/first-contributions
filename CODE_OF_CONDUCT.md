@@ -50,6 +50,8 @@ representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
 ## Enforcement
+* one list item
+* and another one
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
