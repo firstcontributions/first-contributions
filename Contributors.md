@@ -20,6 +20,7 @@
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
 - [Tyler Lawton](https://github.com/thor-molecules)
+- [Dominic London](https://github.com/djlondon)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
