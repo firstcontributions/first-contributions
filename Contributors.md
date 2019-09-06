@@ -15760,3 +15760,4 @@ Mário Baltazar
 - [Wes Roberson] (https://github.com/wesrob21)
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
+- [Barbara Washington](https://github.com/silverbright)
