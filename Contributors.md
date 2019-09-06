@@ -8435,6 +8435,7 @@ Stephan Sharpe
 - [petrovnr](https://github.com/petrovnr)
 - [San](http://sanspace.in)
 - [Rohit Chugh](https://github.com/rohitchugh9)
+- [Haomin Yu](https://github.com/Haomin-Yu)
 - [Ajay Tanwar](https://github.com/ajayt365)
 - [Rohit Pandey](https://github.com/masterdungeon)
 - [Viral Thakkar](https://github.com/viralnt)
