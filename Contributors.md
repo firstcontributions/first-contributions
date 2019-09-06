@@ -214,6 +214,7 @@ Haris Siddiqui
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
+- Colin Fischer(https://github.com/cfischera)
 - [Ken Do](https://github.com/ken-do/)
 - [Abdi Sheikh](https://github.com/abdi-sheikh)
 - [Catana Harrington](https://github.com/CatanaH)
