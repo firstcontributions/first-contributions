@@ -21,6 +21,7 @@
 - [Daemon1024](https://github.com/daemon1024)
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Varun Agarwal](https://github.com/varunagarwal18)
+- [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Alejandro Rojas](https://github.com/Xarasho)
