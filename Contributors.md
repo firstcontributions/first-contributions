@@ -15762,3 +15762,4 @@ Mário Baltazar
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
+- [Jannisko](https://github.com/jannisko/)
