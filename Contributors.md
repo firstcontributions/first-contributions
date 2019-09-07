@@ -669,8 +669,8 @@ Haris Siddiqui
 - [Aaron Clare](https://github.com/aaronclare3)
 - [Sumit Yadav](https://github.com/sumityadav29)
 - [Heidi Chang](https://github.com/heidandseek)
-Stephan Sharpe
 - [Jorene Ng](https://github.com/joreneng)
+- [Stephan Sharpe](https://github.com/midnight-wolf)
 - [Luis Velasquez](https://github.com/HolaSoyLuis)
 - [Harith Sankalpa](https://github.com/harith96)
 - [blueblackberry](https://github.com/blueblackberry)
