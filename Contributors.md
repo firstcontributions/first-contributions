@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+-[Jai Arora] (https://github.com/Esco27)
 - [aiden](https://github.com/acdlbs)
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux)
