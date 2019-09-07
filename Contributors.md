@@ -34,6 +34,7 @@
 - [Tony K](https://github.com/memphis2coder)
 - [jb](https://github.com/jlbaldwin)
 - [Om Sitapara](https://github.com/omsitapara23)
+- [Olivier Jarrod Hebert](https://github.com/OlivierJHebert)
 - [Bhanu Pratap Singh](https://github.com/bhanu4444)
 - [Drashti Modasara](https://github.com/drashti1712)
 - [Joseph](https://github.com/Joseph7695/)
