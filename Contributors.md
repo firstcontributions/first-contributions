@@ -5,6 +5,7 @@
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
+- [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
 - [lisalidroit](https://github.com/lisalidroit))
 - [Vaibhav](https://github.com/vaibhav60)
