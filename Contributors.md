@@ -18,6 +18,7 @@
 - [HRK_Codes](https://github.com/HRK31)
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
+- [Devil-Echo]
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [dexetrous](https://github.com/deXetrous)
