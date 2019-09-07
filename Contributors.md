@@ -1110,6 +1110,7 @@ Stephan Sharpe
 - [Serdar Ashirov](https://github.com/serdartkm)
 - goodgrieff
 - [MattNewtonian](https://github.com/MattNewtonian)
+- [Bibek Shrestha](https://github.com/BibekStha)
 - [Matthew Vaughn](https://github.com/razzMattazz)
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen](https://github.com/achencoms)
