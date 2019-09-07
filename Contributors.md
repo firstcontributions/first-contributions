@@ -15764,3 +15764,4 @@ Mário Baltazar
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
 - [Jannisko](https://github.com/jannisko/)
+- [Namolab](https://github.com/namolab)
