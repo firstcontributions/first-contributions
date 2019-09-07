@@ -59,6 +59,7 @@
 - [dragoFireup](https://github.com/dragoFireup)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
+- [Shailesh Jain](https://github.com/ShailuJain)
 - [David G](https://github.com//djgrid)
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
