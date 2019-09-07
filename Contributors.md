@@ -15766,4 +15766,3 @@ Mário Baltazar
 - [Jannisko](https://github.com/jannisko/)
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
-
