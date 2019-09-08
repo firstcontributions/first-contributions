@@ -229,6 +229,7 @@ Haris Siddiqui
 - Adam Rubin
 - Roberson Lubin(https://github.com/rlubingsu)
 - Amsalkhir Ali
+- [Brandon L. Locke](https://github.com/brandonllocke/)
 - YuriyCherniy
 - Joseph Pilla
 - Muskan Hoondlani
