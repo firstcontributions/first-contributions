@@ -7949,6 +7949,7 @@ Stephan Sharpe
 - [Srabani Paikray](https://github.com/Srabanipaikray)
 - [subhamtandon](https://github.com/subhamtandon)
 - [Vanessa Osuka](https://github.com/Ijebusoma)
+- [Alessandra Wolford]
 - [Akash Saravanan](https://github.com/akashsara)
 - [masnoor96g](https://github.com/mansoor96g)
 - [Spencer Burleigh](https://github.com/leaous)
