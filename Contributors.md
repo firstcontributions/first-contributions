@@ -206,6 +206,7 @@ Haris Siddiqui
 - Hemal Shah
 - Aksh Thakur
 - [Kelvin Chung](https://github.com/kelvinccc)
+- [Mike Kost](https://github.com/vopros21)
 - [Vince Bloise] (https://github.com/vbloise3)
 - Atul Pandey
 - [Rahillah](https://github.com/AdeptSlice)
