@@ -98,7 +98,7 @@ If you go to your repository on github, you'll see  `Compare & pull request` but
 
 <img style="left;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Now submit the pull request by clicking on the "Create pull request button".
 
 <img style="left;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
