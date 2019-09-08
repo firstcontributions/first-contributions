@@ -381,6 +381,7 @@ Haris Siddiqui
 - [Shamund Gordon](https://github.com/15sora2)
 - [Shek](https://github.com/shek119)
 - [Andre Duong](https://github.com/andreduong)
+- [Richard Huang] (https://github.com/LilInformat)
 - [Jon Gregis](https://github.com/jongregis)
 - [Graham Paterson](https://github.com/grahampaterson)
 - Meet Patel
