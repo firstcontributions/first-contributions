@@ -37,6 +37,7 @@
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
 - [jb](https://github.com/jlbaldwin)
+- [Will Shields](https://github.com/wshields)
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Olivier Jarrod Hebert](https://github.com/OlivierJHebert)
 - [Bhanu Pratap Singh](https://github.com/bhanu4444)
