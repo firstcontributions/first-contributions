@@ -15780,6 +15780,7 @@ Mário Baltazar
 - [Adam Smith](https://github.com/adamphilipsmith)
 - [Rudy Summers](https://github.com/rudysummers)
 - [fengtan zhang](https://github.com/Geek-Zft)
+- [Doris Verria](https://github.com/dorisverria)
 - [Ola Frankowska](https://github.com/ofrankowska)
 - [Narongrit Unwerawattana](https://github.com/kicito)
 - [Furkan K.](https://github.com/mfurkankara)
