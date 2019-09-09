@@ -598,6 +598,7 @@ Haris Siddiqui
 - [LukaJ](https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
 - Christian Reyes
+- Yallop
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Adithya S](https://github.com/Adithya188288))
