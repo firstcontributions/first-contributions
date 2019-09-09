@@ -130,6 +130,7 @@ Haris Siddiqui
 - [Kevin Schoormans] (https://github.com/kevinschoormans)
 - Justin Wong
 - Saksham Agrawal
+- Hunor Tanko
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
@@ -4826,6 +4827,7 @@ Stephan Sharpe
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
 - [SeeSharpy](https://github.com/SeeSharpy)
+- [Hunor Tanko](https://github.com/10goo)
 - [Tom Merrifield](https://github.com/tpmerrifield)
 - [Qyunal](https://github.com/Qyunal)
 - [mnemosdev](https://github.com/mnemosdev)
