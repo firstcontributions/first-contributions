@@ -15742,6 +15742,7 @@ Mário Baltazar
 - [Itay Gershman] (https://github.com/ItayGershman)
 - [Sarah AlMutairi](https://github.com/sara13js)
 - [EDWIN BONI OIGO] (https://github.com/oigoedwin)
+- [Adam Smith](https://github.com/adamphilipsmith)
 - [Rudy Summers](https://github.com/rudysummers)
 - [fengtan zhang](https://github.com/Geek-Zft)
 - [Ola Frankowska](https://github.com/ofrankowska)
