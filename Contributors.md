@@ -13,6 +13,7 @@
 - [Vaibhav](https://github.com/vaibhav60)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
+- [Shahbaz Ali] (https://github.com/shazyriver)
 - [Justin Kim](https://github.com/naznsan)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
