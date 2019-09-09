@@ -67,6 +67,7 @@
 - Here2Dance (http://github.com/Here2Dance)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
+- [Kailee]
 - [JawnMarc](https://github.com/JawnMarc)
 - [Dysar](https://github.com/Dysar)
 - [Shailesh Jain](https://github.com/ShailuJain)
