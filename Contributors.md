@@ -15554,6 +15554,7 @@ Stephan Sharpe
 - [David Gutierrez-McCormack](https://github.com/davidmccormack)
 - [Joachim Miens](https://github.com/jojo58fr)
 - [M Farhad](https://github.com/imfarhad)
+- [Aaron Deane] (https://github.com/aarondeane)
 - [Joseph Gattuso](https://github.com/josephgattuso)
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
