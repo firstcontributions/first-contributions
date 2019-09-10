@@ -20,7 +20,7 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
+Fork this repo by clicking on the fork button on the top right of this page. This will create a of copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you have forked it from.  You can think of your repo as a working copy.
 
@@ -34,7 +34,7 @@ The next step is to clone your repo down to your machine so you can begin making
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input promt by pressing `CTRL-P` and then type the `>` character.
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
@@ -42,7 +42,7 @@ You may notice that there are already some obscure commands listed below. Those 
 
 <img src="assets/vscode-2018-08-clone1.png" alt="Clone repo" />
 
-Now type in `git clone`, only `git` or `clone` (it works like a search).
+Now type in `git clone`, only `git`, or `clone` (it works like a search).
 Select the Entry `Git: Clone` and press `Enter`
 
 <img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
