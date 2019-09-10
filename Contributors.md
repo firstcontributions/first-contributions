@@ -81,6 +81,7 @@
 - [Mohammed Anas](https://github.com/anasmohammad611)
 - [Paul Pilcher](https://github.com/Paul---)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
+- [Krzysztof Czaplejewicz](https://github.com/KrzysztofCzaplejewicz)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Malgo Mark]
 - [Chathura Gunasekara](https://github.com/cjgunase)
