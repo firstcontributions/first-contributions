@@ -15803,3 +15803,4 @@ Mário Baltazar
 - [Alex Parra](https://github.com/alex-parra)
 - [Chris Lewis](https://github.com/Ryu1284)
 - [Martin Watkins](https://github.com/martinw13)
+- [Simon Larsen](https://github.com/DeterjoSimon)
