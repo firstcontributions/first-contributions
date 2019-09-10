@@ -11811,6 +11811,7 @@ Stephan Sharpe
 - [Erin Dormier](https://github.com/erindormier)
 - [Shishir Reddy](https://github.com/shishir-reddy)
 - [Joyce Varghese](https://github.com/Joycevarg)
+- [Daniel](https://github.com/A00873484)
 - [clavierbulb](https://github.com/clavierbulb)
 - [kleyu](https://github.com/kleyu)
 - [leah](https://github.com/22poun)
