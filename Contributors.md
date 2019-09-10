@@ -15797,6 +15797,7 @@ Mário Baltazar
 - [Furkan K.](https://github.com/mfurkankara)
 - [Wes Roberson] (https://github.com/wesrob21)
 - [Darxper](https://github.com/darxper)
+- [nf2773] (https://github.com/nf2773)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
 - [Jannisko](https://github.com/jannisko/)
