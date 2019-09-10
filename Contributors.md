@@ -23,6 +23,7 @@
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
 - [Divyesh Jain](https://github.com/BlitW0)
+- [Santiago Garcia](https://github.com/santitigaga)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
 - [Stacy Meichle](https://github.com/smeichle)
 - [prince1508](http://github.com/prince1508)
