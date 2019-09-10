@@ -997,6 +997,7 @@ Stephan Sharpe
 - [Cryptographic Fool](https://github.com/cryptographicfool)
 - UnrestCure
 - [Adam](https://github.com/worstahrieu)
+- [Maksat Hanja](https://github.com/maxathanja)
 - [Jeff Shannon](https://github.com/jeffyboh)
 - [MarkMan0](https://github.com/MarkMan0)
 - [Huseyin Burak Saruhan](https://github.com/buraksaruhan)
@@ -1015,7 +1016,7 @@ Stephan Sharpe
 - [Nancy Agarwal](https://github.com/nancyagarwal14)
 - [Almog](https://github.com/almoghaimo)
 - [Karin Chechik](https://github.com/karinchechik)
-- [Ritwik](https://github.com/Dips2705
+- [Ritwik](https://github.com/Dips2705)
 - [NoobyScoob](https://github.com/NoobyScoob)
 - [Pawel Jastrzebski](https://github.com/pawjastrzebski)
 - [Maciej Mielcarski](https://github.com/mmielcarski)
@@ -13051,7 +13052,7 @@ Stephan Sharpe
 - [Scott Christian](https://github.com/dezryth)
 - [lhiny](https://github.com/lhiny)
 - [Jack](https://github.com/nul001)
-- Bhuwan Sitaula](https://github.com/babaYaga109)
+- [Bhuwan Sitaula](https://github.com/babaYaga109)
 - [Nitin](https://github.com/nitinnatural)
 - [TaeRim](https://github.com/Ta2Rim)
 - [Sam M](https://github.com/SpaceDoge04/)
