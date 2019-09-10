@@ -38,18 +38,18 @@ Now open up Visual Studio Code. The welcome page of VS Code will pop up. From th
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
+You may notice that there are already some obscure commands listed in the photos below. Those are my recently used commands. You can disregard them.
 
 <img src="assets/vscode-2018-08-clone1.png" alt="Clone repo" />
 
 Now type in `git clone`, only `git` or `clone` (it works like a search).
-Select the Entry `Git: Clone` and press `Enter`
+Use the arrow keys to select the Entry `Git: Clone` and press `Enter`
 
 <img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
 Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
 
-**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+**Important**: Make sure it is the forked repository and not the original one, otherwise this tutorial won't work.
 
 <img src="assets/vscode-2018-08-clone3.png" alt="Status popup" />
 
@@ -57,13 +57,13 @@ You should see a status popup on the bottom right of Visual Studio Code. After i
 
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next prompt, type in a descriptive name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch will also already be checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
 ## Make necessary changes
 
-Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
+Open the `Contributors.md` file and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
 Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
@@ -75,27 +75,27 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
+The sidebar will now display all files which were changed after the last commit. By hovering over the files changed and clicking the `+` (plus) symbol, the files will be staged.
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now commited to your local copy. Now the changes have to be pushed back to GitHub.
+In the top of the sidebar, type a short description of the changes you’ve made and then press the checkmark to commit your changes. Your changes have now been committed to your local copy, but now they have to be pushed back to GitHub.
 
 <img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 
-Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
+Use the three-dot icon to access more git commands and select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
 
 <img src="assets/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
 ## Submit your changes for review
 
-At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+At this point you have completed your change and pushed it to GitHub, but it still only resides in your fork of the repo. This step will show you how to submit a request for the administrator of the original repo to merge your change.
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
 <img src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Now add a title and description, and submit the pull request.
 
 <img src="assets/submit-pull-request.png" alt="submit pull request" />
 
@@ -105,11 +105,11 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebrate your contribution and share it with your friends and followers with the social media outlets on our [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+You can join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Now let's get you started contributing to other projects! We've compiled a list of projects with easy issues that you can get started on. Check out [the list of projects in the web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
