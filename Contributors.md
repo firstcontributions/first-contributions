@@ -14,6 +14,7 @@
 - [Shanedolin](https://github.com/Shanedolin)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Shahbaz Ali] (https://github.com/shazyriver)
+- [Alexis Huerta](https://github.com/alehuer07)
 - [Justin Kim](https://github.com/naznsan)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
