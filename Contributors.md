@@ -15808,3 +15808,4 @@ Mário Baltazar
 - [Chris Lewis](https://github.com/Ryu1284)
 - [Martin Watkins](https://github.com/martinw13)
 - [Simon Larsen](https://github.com/DeterjoSimon)
+- [Matteo Addesso](https://github.com/Matteadd)
