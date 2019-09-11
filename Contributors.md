@@ -96,6 +96,7 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
+- [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
 - [Eric Fang] (https://github.com/thericfang)
 - [Luke Barry] (https://github.com/lukelbarry06)
