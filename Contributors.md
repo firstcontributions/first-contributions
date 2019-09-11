@@ -98,6 +98,7 @@
 - Stefan
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
+- [Jon Crowell](https://github.com/jonrcrowell)
 - [Eric Fang] (https://github.com/thericfang)
 - [Luke Barry] (https://github.com/lukelbarry06)
 - [Nikhil Nelson] (http://https://github.com/nike47)
