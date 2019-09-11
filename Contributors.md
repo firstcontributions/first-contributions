@@ -117,6 +117,7 @@ Haris Siddiqui
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Zeinab
+- Cate
 - Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
 - AniketMagadum (https://github.com/AniketMagadum)
