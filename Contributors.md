@@ -269,6 +269,7 @@ Haris Siddiqui
 - Hamzah Malik
 - Richard Fleming
 - [Pierre-Jean Morel](https://github.com/pjdevs)
+- Sahil Desai (https://github.com/SDesai71)
 - Sam DC
 - Aditya Mohan
 - [Lam Nguyen](https://github.com/Lm-ngyn)
