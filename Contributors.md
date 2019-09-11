@@ -3033,6 +3033,7 @@ Stephan Sharpe
 - [Hong Jik Lee](https://github.com/hanklee92)
 - [Christopher Ferguson](https://github.com/clockworkomega)
 - [Yicheng Li](https://github.com/yclistanford)
+- [Molnár Mihály](https://github.com/Divide-et-impera-11)
 - [Grompie](https://github.com/Grompie)
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Krichkorn Oparad](https://github.com/bachkukkik)
