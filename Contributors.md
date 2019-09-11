@@ -15823,3 +15823,4 @@ Mário Baltazar
 - [mscorzoni]
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
+- [NatanStec](https://github.com/NatanStec)
