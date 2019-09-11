@@ -4,7 +4,7 @@
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [cricri777](https://github.com/cricri777)
-
+- [Elliot](https://github.com/elliotbaird)
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
