@@ -4,7 +4,7 @@
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [cricri777](https://github.com/cricri777)
-- [nipunarat](https://github.com/nipunarat)
+
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
@@ -21,6 +21,7 @@
 - [Krisztian Markella](https://github.com/chrismarkella)
 - [Samuel Kapusta](htpps://github.com/cabbagelover25)
 - [Justin Chow](https://github.com/justinchow11)
+- [Nipuna Ratnayake](https://github.com/nipunarat)
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
 - [Divyesh Jain](https://github.com/BlitW0)
