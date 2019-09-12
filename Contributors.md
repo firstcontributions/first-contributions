@@ -15800,6 +15800,7 @@ Mário Baltazar
 - [MrCrit](https://github.com/MrCrit)
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
+- [Allan Fry](https://github.com/TheWaterIsAlive/)
 - [CeciliaP.](https://github.com/ceci99pb) 
 - [Junwon Jung](https://github.com/jw3329) 
 - [Ansh](https://github.com/root-ansh)
@@ -15852,3 +15853,4 @@ Mário Baltazar
 -[hunterdanielson](https://github.com/hunterdanielson)
 -[bilgehannevruz](https://github.com/bilgehannevruz)
 -[TanujRohatgi](https://github.com/TanujRohatgi)
+
