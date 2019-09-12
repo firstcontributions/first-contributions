@@ -97,6 +97,7 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
+- Mike
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
 - [Jon Crowell](https://github.com/jonrcrowell)
