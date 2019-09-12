@@ -9437,6 +9437,7 @@ Stephan Sharpe
 - [zernab1](https://github.com/zernab1)
 - [Alexey Zhitnik](https://github.com/azhitnik)
 - [Mehdi Saffar](https://github.com/MehdiSaffar)
+- [Jonathan Macgregor](https://github.com/DualWielder)
 - [Sean Asiala](https://github.com/asialasr)
 - [Santatra](https://github.com/nirinarisantatra)
 - [Daryl Mae](https://github.com/darmae)
