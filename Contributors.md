@@ -101,6 +101,7 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
+- [Callum McFadgen](https://github.com/CallumMcFadgen)
 - Mike
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
