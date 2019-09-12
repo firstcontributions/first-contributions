@@ -412,6 +412,7 @@ Haris Siddiqui
 - [Graham Paterson](https://github.com/grahampaterson)
 - Meet Patel
 - rehan khan
+- [DimplyKhan13](https://github.com/DimplyKhan13)
 - Lukas Taylor
 - Sadiq
 - [Ulises Gomez](https://github.com/ulisesgomez120)
