@@ -6,7 +6,7 @@
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
-
+- [Muhammad Tehami](https://github.com/t3hami)
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
