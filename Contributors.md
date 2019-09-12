@@ -6,9 +6,8 @@
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
-
 - [sm0rux](https://github.com/sm0rux)
--[generationXcode](https://github.com/generationXcode)
+- [generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
@@ -114,8 +113,9 @@
 - [Bailey Bruketta](https://github.com/BaileyBruketta)
 - [Mayank Goel](https://github.com/MayankGoel28)
 - NabeelDanish
+- [garetethan](https://github.com/garetethan)
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
-Haris Siddiqui
+- Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
 - [Patrick Rosas] (https://github.com/PatPat95)
