@@ -167,6 +167,7 @@ Haris Siddiqui
 - Anthony Luttrell
 - Glen Edwards
 - Christian Torbica
+- [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
