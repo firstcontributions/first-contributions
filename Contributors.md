@@ -1,4 +1,4 @@
-i# Contributors
+﻿i# Contributors
 
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 -[Bean] (https://github.com/some-skill)
@@ -10,6 +10,7 @@ i# Contributors
 -[**Muhammad Atif Sheikh**](https://github.com/atif91)
 -[ManegJemo](https://github.com/L170300101)
 -[Abhishek Bhandari]
+-[Spoorthi KC](https://github.com/spoorthikc)
 -[Arun Kumar Sahoo](https://github.com/arunsahoo)
  -[Bhathiya Dasanayake](https://github.com/bhathiyad)
 - [Troy Wuollet] (https://github.com/twuollet)
