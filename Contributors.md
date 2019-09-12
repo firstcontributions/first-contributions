@@ -267,6 +267,7 @@ Haris Siddiqui
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
+- [Steven Martinez] (https://github.com/stamarty)
 - Glaiza Wagner
 - Lalitha Madduri
 - Vishal Rochlani
