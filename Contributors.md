@@ -10075,6 +10075,7 @@ Stephan Sharpe
 - [Pablo Trinidad](https://github.com/pablotrinidad)
 - [Qi Wang](https://github.com/ApplePeel90?tab=repositories)
 - [Naman Manchanda](https://github.com/namanmanchanda09)
+- [Dongsub Shim](https://github.com/DongsubShim)
 - [Sangwon Kim](https://github.com/sangwo)
 - [Caleb Burke](https://github.com/CalebMBurke)
 - [Tristan Sweet](https://github.com/sweet7799)
