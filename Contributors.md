@@ -362,6 +362,7 @@ Haris Siddiqui
 - Evangelos Mag.
 - Abhijeet Ghosh
 - Ahmad
+- Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
 - Raj
