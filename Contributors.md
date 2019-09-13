@@ -7,6 +7,7 @@
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 
+-[komalg1](https://github.com/komalg1)
 - [sm0rux](https://github.com/sm0rux)
 - [tran-phillip](https://github.com/tran-phillip)
 -[generationXcode](https://github.com/generationXcode)
