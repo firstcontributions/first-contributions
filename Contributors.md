@@ -6521,6 +6521,7 @@ Stephan Sharpe
 - [Felipe Rigo](https://github.com/rigo4rigo)
 - [Kishore Mohanavelu](https://github.com/kmohanavelu)
 - [Bryan Hitchcock](https://github.com/bryanhitchcock)
+- [Andrew Sharrock] (https://github.com/atsharrock)
 - [Anoushka Saraswat](https://github.com/anoushkasaraswat)
 - [Roland Kr](https://github.com/rolandkr)
 - [Pavlina Mitsou](https://github.com/Pavlmits)
