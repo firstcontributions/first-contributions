@@ -263,6 +263,7 @@ Haris Siddiqui
 - Josh Hageman
 - Evan H (https://github.com/ehmh123)
 -Tal Khan
+-Shantal Ewell
 - Satvinder Singh
 -Jairaj Sahgal (https://jairajsahgal.github.io)
 - [Gionelle Tribiana](https://github.com/gionellef)
