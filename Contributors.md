@@ -15849,6 +15849,7 @@ Mário Baltazar
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
+- [Kenneth Nguyen](https://github.com/KennethNguyen)
 -[keojo](https://github.com/keojo)
 -[hunterdanielson](https://github.com/hunterdanielson)
 -[bilgehannevruz](https://github.com/bilgehannevruz)
