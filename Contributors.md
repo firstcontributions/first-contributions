@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -15863,4 +15863,5 @@ Mário Baltazar
 -[TanujRohatgi](https://github.com/TanujRohatgi)
 -[DarkAEther](https://github.com/DarkAEther)
 [KleinDevDE](https://github.com/KleinDevDE)
+- [Lee Butler] (https://github.com/vxsunstriderxv)
 - [Harvey Breaux] (https://github.com/hbreauxv)
