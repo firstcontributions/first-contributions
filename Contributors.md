@@ -208,6 +208,7 @@ Haris Siddiqui
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [Sam](https://github.com/Montblac)
+- [Ethan Thomason](https://github.com/Datal0re)
 - [Cormac Lawlor](https://github.com/armedcor)
 - [David Hanover](https://github.com/DavidHanover)
 - [Seth Lachman](https://github.com/stlachman)
