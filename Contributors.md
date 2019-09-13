@@ -8,6 +8,7 @@
 - [cricri777](https://github.com/cricri777)
 
 - [sm0rux](https://github.com/sm0rux)
+- [tran-phillip](https://github.com/tran-phillip)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
