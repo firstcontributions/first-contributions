@@ -82,6 +82,7 @@
 - [dragoFireup](https://github.com/dragoFireup)
 - [Kailee]
 - [JawnMarc](https://github.com/JawnMarc)
+- [Muhammad Tehami](https://github.com/t3hami)
 - [Dysar](https://github.com/Dysar)
 - [Shailesh Jain](https://github.com/ShailuJain)
 - [David G](https://github.com//djgrid)
