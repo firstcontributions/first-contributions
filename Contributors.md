@@ -884,6 +884,7 @@ Stephan Sharpe
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
 - [Jose Arteaga](https://github.com/HoseBee)
 - [Felix Melligan](https://github.com/felix-melligan)
+- [SherryLeen](https://github.com/SherryLeen`)
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
 - [shreejeetp](https://github.com/shreejeetp)
