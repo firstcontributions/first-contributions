@@ -15876,3 +15876,4 @@ Mário Baltazar
 - [Harvey Breaux] (https://github.com/hbreauxv)
 - [SirPawle] (https://github.com/PawleN-D)
 - [Kristiyan Todorov](https://github.com/krisScript)
+- [Enrique Ramos](https://github.com/enramos)
