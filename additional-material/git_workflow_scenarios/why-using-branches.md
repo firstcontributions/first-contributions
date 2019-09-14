@@ -1,3 +1,4 @@
+
 # WHY USING BRANCHES DURING CONTRIBUTING
 
 Branches are simply pointers to a commit.
@@ -8,4 +9,5 @@ When your happy with your experiments, and want to merge you experiments in main
 <branch name> master.
  This will tell git, to add in all changes from your experiment branch into master.
 
- This way, while working in a open source project with a number of contributers, it becomes easy to merge the best suited code without altering the main code or master branch.
+ This way, while working in an open source project with a number of contributors, it becomes easy to merge the best suited code without altering the main code or master branch.
+ 
