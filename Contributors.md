@@ -18,6 +18,7 @@
 - [Vaibhav](https://github.com/vaibhav60)
 - [Cornelius Denninger](https://github.com/colodenn)
 - [Shanedolin](https://github.com/Shanedolin)
+- [John Fontana](https://github.com/jplanet)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Leonid Kozak] (https://github.com/SkimFelBon)
 - [Shahbaz Ali] (https://github.com/shazyriver)
