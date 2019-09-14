@@ -224,6 +224,7 @@ Haris Siddiqui
 - [Cristina Draghici](https://github.com/krystal25)
 - [Francois Beyers](https://github.com/blusoup)
 - [Kshamatha D](https://github.com/)
+- [Shinnosu](https://github.com/sinnosu)
 - [Saransh Chopra](https://github.com/SaranshChopra)
 - [Paul Espina](https://github.com/PaulEspina)
 - [Tomasz Jan Michalski-Sadurski](https://github.com/tommich)
