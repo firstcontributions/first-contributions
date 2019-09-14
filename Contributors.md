@@ -7982,6 +7982,7 @@ Stephan Sharpe
 - [Przemek](https://github.com/Przemek19)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Rick Haan](https://github.com/rickhaan)
+- [Lomikstik] (https://github.com/lomikstik)
 - [Davy Pulinckx](https://github.com/DavyPul)
 - [Alexey Salangin](https://github.com/Magauran)
 - [James Hobo](https://github.com/thignus)
