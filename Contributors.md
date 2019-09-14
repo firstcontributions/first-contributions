@@ -14335,6 +14335,7 @@ Stephan Sharpe
 - [Jean Mendes](https://github.com/JeanMendes)
 - [Hyun Daewon](https://github.com/hyundw84)
 - [Dewni Mithma](https://github.com/Dewni1995)
+- [Matthew Hoffman](https://github.com/BeagleDad)
 - [Omer Qureshi](https://github.com/omer413)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Gabriele Ceresara](https://github.com/ZioCecio)
