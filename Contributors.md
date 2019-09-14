@@ -379,6 +379,7 @@ Haris Siddiqui
 - Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
+- [Damian Szczepanski](https://github.com/DamianS6)
 - [Baris Mar Aziz](https://github.com/barismar)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Kan Dang](https://github.com/kandaaang)
