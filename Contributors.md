@@ -13828,6 +13828,7 @@ Stephan Sharpe
 - [Anh N. Nguyen](https://github.com/leptepkt)
 - [Yun-Ping Du](https://github.com/yunpingdu)
 - [Mitch Greene](https://github.com/gitGreene)
+- [Henrik Karlsson](https://github.com/henrik-ch)
 - [Willy Chen](https://github.com/WillyChen123)
 - [Sanika Shah](https://github.com/sanu11)
 - [Eryk Lupa](https://github.com/vistafan12)
