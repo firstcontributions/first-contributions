@@ -1412,6 +1412,7 @@ Stephan Sharpe
 - [Claudio de Oliveira Almeida Junior](https://github.com/Kirizuro)
 - [Marlin dalPozzo](https://github.com/mdalpozzo)
 - [Homercrates](https://github.com/homercrates)
+- [James Felix](https://github.com/JavaJames93)
 - [Lokesh Kedi](https://github.com/lokesh1agarwal)
 - [Dale Holstein](https://github.com/zarnerz)
 - David An
