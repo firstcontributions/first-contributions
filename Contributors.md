@@ -167,6 +167,7 @@ Haris Siddiqui
 - Vinh-Luu
 - Calum O'Donoghue 
 - [Jack Driscoll](https://github.com/jdriscoll98)
+- Randil Tennakoon (https://github.com/randiltennakoon)
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
 - [Harper G](https://github.com/harpercodes)
