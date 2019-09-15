@@ -8,7 +8,7 @@
 |<img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40">|Visual Studio Code|
 |---|---|
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. However, open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
@@ -20,11 +20,11 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
+Fork this repo by clicking on the fork button on the top right of this page. This creates a copy of this repository in your GitHub account.
 
-GitHub keeps track of the relationship between your repo and the one you have forked it from.  You can think of your repo as a working copy.
+GitHub keeps track of the relationship between your repository and the main repository which you forked it.You can think of your repository as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
+Most top-level GitHub repositories (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask permission to merge their changes  back into the top-level repo. If the top-level repo administrator likes the changes they are merged to the top-level repo and you will gain instant fame and fortune!  More on how to do that later.
 
 ## Clone your repository
 
@@ -38,18 +38,18 @@ Now open up Visual Studio Code. The welcome page of VS Code will pop up. From th
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
-You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
+You may notice that there are already some obscure commands listed in the photos below. Those are my recently used commands. Those are my recently used commands. You can disregard them.
 
 <img src="assets/vscode-2018-08-clone1.png" alt="Clone repo" />
 
 Now type in `git clone`, only `git` or `clone` (it works like a search).
-Select the Entry `Git: Clone` and press `Enter`
+Use the arrow keys to select the Entry `Git: Clone` and press `Enter`
 
 <img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
 Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
 
-**Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
+**Important**: Make sure it is the forked repository and not the original one, otherwise this tutorial won't work.
 
 <img src="assets/vscode-2018-08-clone3.png" alt="Status popup" />
 
@@ -57,13 +57,13 @@ You should see a status popup on the bottom right of Visual Studio Code. After i
 
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next prompt, type in a descriptive name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch will also already be checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
 ## Make necessary changes
 
-Open `Contributors.md` and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
+Open the `Contributors.md` file and add your name anywhere in the file. This file contains GFM (GitHub Flavored Markdown) which is a proprietary flavor of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> syntax.
 
 Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
@@ -75,11 +75,11 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
+The sidebar will now display all files which were changed after the last commit. By hovering over the files changed and clicking the `+` (plus) symbol, the files will be staged
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now commited to your local copy. Now the changes have to be pushed back to GitHub.
+In the top of the sidebar (Message text box), type a short description of the changes you’ve made and then press the checkmark to commit your changes. The changes you made are committed to your local copy, and the next step is to push those changes to GitHub repository
 
 <img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 
