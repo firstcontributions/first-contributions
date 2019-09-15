@@ -15827,6 +15827,7 @@ Mário Baltazar
 - [MrCrit](https://github.com/MrCrit)
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
+- [Nick Pula](https://github.com/npula)
 - [CeciliaP.](https://github.com/ceci99pb) 
 - [Junwon Jung](https://github.com/jw3329) 
 - [Ansh](https://github.com/root-ansh)
