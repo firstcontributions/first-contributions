@@ -81,7 +81,7 @@
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
 - [Kostas Vangos](https://github.com/white-958)
-- [Nick Pafundi](https://github.com/napafundi) 
+- [Nick Pafundi](https://github.com/napafundi)
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Here2Dance (http://github.com/Here2Dance)
@@ -171,7 +171,7 @@ Haris Siddiqui
 - [Gordon nchy](https://github.com/gordonnchy)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
-- Calum O'Donoghue 
+- Calum O'Donoghue
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - Randil Tennakoon (https://github.com/randiltennakoon)
 - [David Soldevila](https://github.com/dsoldevila)
@@ -808,7 +808,7 @@ Stephan Sharpe
 - S. P.
 - [Insia Khambhati](https://github.com/InsiaKhambhati)
 - [Austin Marler](https://github.com/AustinMarler)
-- [Nick Taylor](https://github.com/cowabungapeppercorn) 
+- [Nick Taylor](https://github.com/cowabungapeppercorn)
 - [RouxpiTech](https://github.com/RouxpiTech)
 - [Michael Bonner](https://github.com/mdb1710)
 - [Ofir Isakov](https://github.com/OfirIsakov)
@@ -1975,6 +1975,7 @@ Stephan Sharpe
 - Sunil KS
 - [Antonio GC](https://github.com/atek23/)
 - Robert Ybarra
+- [Rylan Cole](https://github.com/rylancole)
 - Haritha Senevirathne
 - [Michael Domaradzki](https://github.com/MythicRevenant)
 - Marcel W.
@@ -15833,8 +15834,8 @@ Mário Baltazar
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [Nick Pula](https://github.com/npula)
-- [CeciliaP.](https://github.com/ceci99pb) 
-- [Junwon Jung](https://github.com/jw3329) 
+- [CeciliaP.](https://github.com/ceci99pb)
+- [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
 - [Nick LiBassi](https://github.com/nlibassi)
 - [Liam Lee](https://github.com/mappyliam)
