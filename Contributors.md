@@ -70,6 +70,7 @@
 - [Erik Mueller] ErikDMueller.com
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Paul Ozyzniewski](https://github.com/OziOcb)
+- [Naman Jain] (https://github.com/namanj123in)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Boom Kularb](https://github.com/boomsquared)
