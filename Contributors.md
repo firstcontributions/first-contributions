@@ -781,6 +781,7 @@ Stephan Sharpe
 - [Evan Tang](https://github.com/evanptang)
 - [Kushal Jain](https://github.com/Kage18)
 - Yağız Mertol (https://github.com/yailke123)
+- [Rahmi Osman Kaçmaz](https://github.com/Kacmaz)
 - [Dave Hardcastle](https://github.com/dhardcastle)
 - [Chong Shen](https://github.com/qwtsc)
 - [Talha Malik](https://github.com/talham7391)
