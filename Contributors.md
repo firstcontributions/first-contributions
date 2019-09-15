@@ -6493,6 +6493,7 @@ Stephan Sharpe
 - [Shreyans Jain](https://github.com/skull-Knight)
 - [archerkg](https://github.com/archerkg)
 - [Shubham jha ](https://github.com/whoami-shubham)
+- [Michael Wojtas] (https://github.com/Sewq)
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
 - [Joaquin Erario](https://github.com/jerario)
 - [Jonathon Brandt](https://github.com/jonathonjb2015)
