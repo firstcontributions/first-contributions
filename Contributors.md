@@ -62,6 +62,7 @@
 - [Om Sitapara](https://github.com/omsitapara23)
 - [Olivier Jarrod Hebert](https://github.com/OlivierJHebert)
 - [Bhanu Pratap Singh](https://github.com/bhanu4444)
+- [Balu Nathan](https://github.com/bnathan04)
 - [Drashti Modasara](https://github.com/drashti1712)
 - [Joseph](https://github.com/Joseph7695/)
 - [joern89](https://github.com/joern89/)
