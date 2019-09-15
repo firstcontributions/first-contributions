@@ -24,7 +24,7 @@ Fork this repo by clicking on the fork button on the top right of this page. Thi
 
 GitHub keeps track of the relationship between your repository and the main repository which you forked it.You can think of your repository as a working copy.
 
-Most top-level GitHub repositories (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask permission to merge their changes  back into the top-level repo. If the top-level repo administrator likes the changes they are merged to the top-level repo and you will gain instant fame and fortune!  More on how to do that later.
+Most top-level GitHub repositories (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask permission to merge the changes back into the top-level repo. If the top-level repo administrator likes the changes they are merged to the top-level repo and you will gain instant fame and fortune!  More on how to do that later.
 
 ## Clone your repository
 
