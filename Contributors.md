@@ -15899,6 +15899,7 @@ Mário Baltazar
 [KleinDevDE](https://github.com/KleinDevDE)
 - [Lee Butler] (https://github.com/vxsunstriderxv)
 - [Harvey Breaux] (https://github.com/hbreauxv)
+- [Eric Jansen] (https://github.com/EricJ90)
 - [SirPawle] (https://github.com/PawleN-D)
 - [Kristiyan Todorov](https://github.com/krisScript)
 - [Enrique Ramos](https://github.com/enramos)
