@@ -172,6 +172,7 @@ Haris Siddiqui
 - [Gordon nchy](https://github.com/gordonnchy)
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
+- Artem Yacenko
 - Calum O'Donoghue 
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - Randil Tennakoon (https://github.com/randiltennakoon)
