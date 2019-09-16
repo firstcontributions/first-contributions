@@ -20,6 +20,7 @@
 - [Vaibhav](https://github.com/vaibhav60)
 - [Cornelius Denninger](https://github.com/colodenn)
 - [Shanedolin](https://github.com/Shanedolin)
+- [Conor Mai](https://github.com/c-mai)
 - [John Fontana](https://github.com/jplanet)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Leonid Kozak] (https://github.com/SkimFelBon)
