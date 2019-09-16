@@ -7,11 +7,11 @@
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 
--[komalg1](https://github.com/komalg1)
+- [komalg1](https://github.com/komalg1)
 - [sm0rux](https://github.com/sm0rux)
 - [tran-phillip](https://github.com/tran-phillip)
 - [AnonProductions](https://github.com/AnonProductions)
--[generationXcode](https://github.com/generationXcode)
+- [generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
@@ -135,10 +135,10 @@ Haris Siddiqui
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
--[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
+- [Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
 - Constant Likudie
 - MrMame
--[Brady Atkinson](https://github.com/BradyAtkinson)
+- [Brady Atkinson](https://github.com/BradyAtkinson)
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Zeinab
@@ -328,7 +328,7 @@ Haris Siddiqui
 - [Andrew Fiorentino] (https://github.com/afiorentino/)
 - Lee
 -sethwh
--[Ayush Mishra] (https://github.com/AYUSHNSUT/)
+- [Ayush Mishra] (https://github.com/AYUSHNSUT/)
 - yesimapro
 - Niko
 - [Nahrin Oda](https://github.com/nahrinoda)
@@ -348,7 +348,7 @@ Haris Siddiqui
 - [Ashish Singh](https://github.com/ashish-iitr)
 - [Ri Xin Yang](https://github.com/MatoPlus)
 - [Paul Taplett](https://github.com/taplett/)
--[Babatunde Ololade ](https://github.com/Babatunde50)
+- [Babatunde Ololade ](https://github.com/Babatunde50)
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
@@ -13891,7 +13891,7 @@ Stephan Sharpe
 - [Matan Davidi](https://github.com/MatanDavidi)
 - [Gustavo Martusewicz](https://github.com/gustavom)
 - [Woncheol Yang](https://github.com/sundancekid1108)
--[Elizabeth McGuire](https://github.com/beth-mcguire)
+- [Elizabeth McGuire](https://github.com/beth-mcguire)
 - [Tom Lynch](https://github.com/LNCH)
 - [Marián Varaga](https://github.com/mvaraga)
 - [Michael Hahn](https://github.com/Sp0rTB4cK)
@@ -15885,11 +15885,11 @@ Mário Baltazar
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
--[keojo](https://github.com/keojo)
--[hunterdanielson](https://github.com/hunterdanielson)
--[bilgehannevruz](https://github.com/bilgehannevruz)
--[TanujRohatgi](https://github.com/TanujRohatgi)
--[DarkAEther](https://github.com/DarkAEther)
+- [keojo](https://github.com/keojo)
+- [hunterdanielson](https://github.com/hunterdanielson)
+- [bilgehannevruz](https://github.com/bilgehannevruz)
+- [TanujRohatgi](https://github.com/TanujRohatgi)
+- [DarkAEther](https://github.com/DarkAEther)
 [KleinDevDE](https://github.com/KleinDevDE)
 - [Lee Butler] (https://github.com/vxsunstriderxv)
 - [Harvey Breaux] (https://github.com/hbreauxv)
@@ -15898,3 +15898,4 @@ Mário Baltazar
 - [Enrique Ramos](https://github.com/enramos)
 - [kilroyjones] (https://github.com/kilroyjones/)
 - [leoperegrino](https://github.com/leoperegrino)
+- [Hossein Rahimi](https://github.com/hrahimi270)
