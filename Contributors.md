@@ -8,6 +8,7 @@
 - [cricri777](https://github.com/cricri777)
 
 -[komalg1](https://github.com/komalg1)
+- [karpiuMG](https://github.com/karpiuMG)
 - [sm0rux](https://github.com/sm0rux)
 - [tran-phillip](https://github.com/tran-phillip)
 - [AnonProductions](https://github.com/AnonProductions)
