@@ -8842,6 +8842,7 @@ Stephan Sharpe
 - [Lucas Sterzinger](https://github.com/lsterzinger)
 - [Cedric Trollwut](https://github.com/Trollwut)
 - [Angie L Yu](https://github.com/AngieLYu)
+- [Rob McCormick](https://github.com/remccormick)
 - [Diego Zen](https://github.com/Diego-Zen)
 - [Ryan Flynn](https://github.com/rtflynn/)
 - [Ning LI](https://github.com/lininglouis)
