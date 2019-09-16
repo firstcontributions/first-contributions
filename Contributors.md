@@ -15906,3 +15906,4 @@ Mário Baltazar
 - [kilroyjones] (https://github.com/kilroyjones/)
 - [leoperegrino](https://github.com/leoperegrino)
 - [abbasafzal10](https://github.com/abbasafzal10)
+- [Kamil Serafinowicz] (https://github.com/Seraphimus)
