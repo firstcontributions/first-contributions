@@ -230,6 +230,7 @@ Ruslan
 - [suresh37](https://github.com/suresh37/)
 - [Oscar Flores](https://github.com/ojflores)
 - [Peter Donovan](https://github.com/pj-donovan/)
+- [Nabil Ahmed Khatri](https://github.com/nabilahmedkhatri)
 - [Emilio Carrillo](https://github.com/EmilioCarrillo)
 - [Jaquan Brown](https://github.com/JayLBrown/)
 - [Supreme Kai](https://github.com/Supreme-Kai/)
