@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -18,6 +18,7 @@
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
 - [lisalidroit](https://github.com/lisalidroit))
+ -[Dheerajreddy](https://github.com/accounted)
 - [Vaibhav](https://github.com/vaibhav60)
 - [Cornelius Denninger](https://github.com/colodenn)
 - [Shanedolin](https://github.com/Shanedolin)
