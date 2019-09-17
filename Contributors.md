@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [gus25888](https://github.com/gus25888)
 - [aiden](https://github.com/acdlbs)
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux)
