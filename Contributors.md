@@ -15913,3 +15913,4 @@ Mário Baltazar
 - [leoperegrino](https://github.com/leoperegrino)
 - [abbasafzal10](https://github.com/abbasafzal10)
 - [Kamil Serafinowicz] (https://github.com/Seraphimus)
+- [Bjornsbot] (https://github.com/bjornsbot)
