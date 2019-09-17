@@ -5974,6 +5974,7 @@ Stephan Sharpe
 - [suresh37](https://github.com/suresh37/)
 - [Oscar Flores](https://github.com/ojflores)
 - [Peter Donovan](https://github.com/pj-donovan/)
+- [Nabil Ahmed Khatri](https://github.com/nabilahmedkhatri)
 - [Emilio Carrillo](https://github.com/EmilioCarrillo)
 - [Emilio Alves Da Silva Junior](https://github.com/ejuniorasas)
 - [Jaquan Brown](https://github.com/JayLBrown/)
