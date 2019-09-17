@@ -9,6 +9,7 @@
 
 -[komalg1](https://github.com/komalg1)
 - [karpiuMG](https://github.com/karpiuMG)
+- [Anna Dorigo](https://github.com/anna-dorigo)
 - [sm0rux](https://github.com/sm0rux)
 - [tran-phillip](https://github.com/tran-phillip)
 - [AnonProductions](https://github.com/AnonProductions)
