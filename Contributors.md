@@ -49,6 +49,7 @@
 - [Devil-Echo]
 - [Xiaoye Yang](https://github.com/TomYang1993)
 - [Nithin Muthukumar](https://github.com/nithinmuthukumar)
+- [herepete] (https://github.com/herepete)
 - [Vaibhav Pandey](https://github.com/vaibhap1)
 - [sadrab10](https://github.com/sadrab10)
 - [Tyler Lawton](https://github.com/thor-molecules)
