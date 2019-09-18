@@ -719,6 +719,7 @@ Haris Siddiqui
 - [Pramesh Sharma](https://github.com/prameshsharma25)
 - [Aniket Meshram](https://github.com/aniketmeshram)
 - Ellie Taylor
+- Frulwinn Collick
 - Toby Brown
 - Abhilash Agrawal
 - [Amit Weiss](https://github.com/Amit-Weiss)
