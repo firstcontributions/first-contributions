@@ -15928,3 +15928,4 @@ Mário Baltazar
 - [Stéphane Dreyfus](https://github.com/stephanedreyfus)
 - [Jasper](https://github.com/japzio)
 - [Lalit Khatri](https://github.com/Lalit-Kumar-Khatri)
+- [Verum Emanio] (https://github.com/VerumEmanio)
