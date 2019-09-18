@@ -183,6 +183,7 @@ Haris Siddiqui
 - Artem Yacenko
 - Calum O'Donoghue 
 - [Jack Driscoll](https://github.com/jdriscoll98)
+- [Masoud Bolhassani](https://github.com/msoodb)
 - Randil Tennakoon (https://github.com/randiltennakoon)
 - [David Soldevila](https://github.com/dsoldevila)
 - [Bharadwaj-S](https://githib.com/Bharadwaj-S)
