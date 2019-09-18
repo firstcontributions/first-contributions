@@ -427,6 +427,7 @@ Haris Siddiqui
 - [Shankhadeep Dey](https://github.com/Iamshankhadeep)
 - [Matt Barbier] (https://github.com/MDBarbier)
 - [Alex Williams](https://github.com/williamsalex)
+-[Juliet Onyekaoha](https://github.com/esotericjules)
 - [Eufrasia](https://github.com/eufras1a)
 - [James Sison](https://github.com/sisball8/first-contributions)
 - [retsil](https://github.com/retsilthebastard)
