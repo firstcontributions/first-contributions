@@ -38,6 +38,7 @@
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
 - [Divyesh Jain](https://github.com/BlitW0)
+- [Hunar Jain](https://github.com/hunarjain007)
 - [sybiljasmine](https://github.com/sybiljasmine)
 - [Santiago Garcia](https://github.com/santitigaga)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
