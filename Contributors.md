@@ -15926,3 +15926,4 @@ Mário Baltazar
 - [Abhishoya Lunavat] (https://github.com/shoydex23)
 - [Stéphane Dreyfus](https://github.com/stephanedreyfus)
 - [Jasper](https://github.com/japzio)
+- [Lalit Khatri](https://github.com/Lalit-Kumar-Khatri)
