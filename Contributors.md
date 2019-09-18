@@ -15924,3 +15924,4 @@ Mário Baltazar
 - [Bjornsbot] (https://github.com/bjornsbot)
 - [Abhishoya Lunavat] (https://github.com/shoydex23)
 - [Stéphane Dreyfus](https://github.com/stephanedreyfus)
+- [Jasper](https://github.com/japzio)
