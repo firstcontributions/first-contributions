@@ -118,10 +118,10 @@
 - [Malgo Mark]
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Rahul Ranjan](https://github.com/workrahul22)
-- [Nam Hoang Nguyen] (https://github.com/namm12)
-- [Arsya Prasamya] (https://github.com/arsyaprasamya)
+- [Nam Hoang Nguyen](https://github.com/namm12)
+- [Arsya Prasamya](https://github.com/arsyaprasamya)
 - [Suprabhat Kumar](https://github.com/suprabhat25)
-- [Matt Palmer] ( https://github.com/mattppal )
+- [Matt Palmer](https://github.com/mattppal)
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
 - [Callum McFadgen](https://github.com/CallumMcFadgen)
@@ -129,9 +129,9 @@
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
 - [Jon Crowell](https://github.com/jonrcrowell)
-- [Eric Fang] (https://github.com/thericfang)
-- [Luke Barry] (https://github.com/lukelbarry06)
-- [Nikhil Nelson] (http://https://github.com/nike47)
+- [Eric Fang](https://github.com/thericfang)
+- [Luke Barry](https://github.com/lukelbarry06)
+- [Nikhil Nelson](http://https://github.com/nike47)
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
@@ -143,7 +143,7 @@
 Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
-- [Patrick Rosas] (https://github.com/PatPat95)
+- [Patrick Rosas](https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
 -[Tanmay Kulkarni](https://github.com/Tanmay-Kulkarni101)
 - Constant Likudie
@@ -155,7 +155,7 @@ Haris Siddiqui
 - Cate
 - Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
-- AniketMagadum (https://github.com/AniketMagadum)
+- [AniketMagadum](https://github.com/AniketMagadum)
 - Tristen Nollman (https://github.com/TristenSeth)
 - [Gladson Lyimo](https://github.com/Gladsons)
 - [Aaron Maritz](https://github.com/aaron-maritz)]
@@ -168,7 +168,7 @@ Haris Siddiqui
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
 - Rushabh Doshi
-- [Kevin Schoormans] (https://github.com/kevinschoormans)
+- [Kevin Schoormans](https://github.com/kevinschoormans)
 - Justin Wong
 - Saksham Agrawal
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
@@ -12779,6 +12779,7 @@ Stephan Sharpe
 - [Barbara](https://github.com/bnibia)
 - [Umberto](https://github.com/umbeebmu)
 - [Derek Lorimer](https://github.com/DerekLorimer)
+- [Daniel Burbach](https://github.com/DanBurbach)
 - [Ankit Sinha](https://github.com/ankisinha3005)
 - [Michael Pollente](https://github.com/polykhel)
 - [Prawit Boonthue](https://github.com/cantacoop)
