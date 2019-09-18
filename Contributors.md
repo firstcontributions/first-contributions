@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -7,6 +7,7 @@
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 
+-[mbricco](https://github.com/mbricco)
 -[komalg1](https://github.com/komalg1)
 - [karpiuMG](https://github.com/karpiuMG)
 - [Anna Dorigo](https://github.com/anna-dorigo)
