@@ -8786,6 +8786,7 @@ Stephan Sharpe
 - [Lewis Smith](https://github.com/lewisscottsmith)
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
+- [Seb Strug](https://github.com/sebstrug)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Ross Lillis](https://github.com/roscolil)
 - [Anamol Saxena](https://github.com/anamol-saxena)
