@@ -467,6 +467,7 @@ Haris Siddiqui
 - Steve Zhou
 - [Praveen K Singh](https://github.com/PraveenKS30)
 - [Mitchell Patrick](https://github.com/parkerthegeniuschild)
+- [Nicole DSouza](https://github.com/nicole-dsouza)
 - [Fredi Arro](https://github.com/FrediArro)
 - Jijinkh
 - NADYA POST
