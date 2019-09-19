@@ -29,6 +29,7 @@
 - [Leonid Kozak] (https://github.com/SkimFelBon)
 - [Shahbaz Ali] (https://github.com/shazyriver)
 - [Alexis Huerta](https://github.com/alehuer07)
+- [Dhruv Sawarkar](https://github.com/thatcathatechat)
 - [Justin Kim](https://github.com/naznsan)
 - [Matheus Lamezon](https://github.com/Lamezon)
 - [Krisztian Markella](https://github.com/chrismarkella)
