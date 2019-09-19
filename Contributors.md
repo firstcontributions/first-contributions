@@ -95,7 +95,7 @@
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
 - [Kostas Vangos](https://github.com/white-958)
-- [Nick Pafundi](https://github.com/napafundi) 
+- [Nick Pafundi](https://github.com/napafundi)
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Luc Berthiaume
@@ -188,7 +188,7 @@ Haris Siddiqui
 - [Nitin Gupta](https://github.com/nitingt)
 - Vinh-Luu
 - Artem Yacenko
-- Calum O'Donoghue 
+- Calum O'Donoghue
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [Masoud Bolhassani](https://github.com/msoodb)
 - Randil Tennakoon (https://github.com/randiltennakoon)
@@ -830,7 +830,7 @@ Stephan Sharpe
 - S. P.
 - [Insia Khambhati](https://github.com/InsiaKhambhati)
 - [Austin Marler](https://github.com/AustinMarler)
-- [Nick Taylor](https://github.com/cowabungapeppercorn) 
+- [Nick Taylor](https://github.com/cowabungapeppercorn)
 - [RouxpiTech](https://github.com/RouxpiTech)
 - [Michael Bonner](https://github.com/mdb1710)
 - [Ofir Isakov](https://github.com/OfirIsakov)
@@ -15865,8 +15865,8 @@ Mário Baltazar
 - [gbs4ever](https://github.com/gbs4ever)
 - [Zezhengw Wu](https://github.com/Sec-ant)
 - [Nick Pula](https://github.com/npula)
-- [CeciliaP.](https://github.com/ceci99pb) 
-- [Junwon Jung](https://github.com/jw3329) 
+- [CeciliaP.](https://github.com/ceci99pb)
+- [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
 - [Nick LiBassi](https://github.com/nlibassi)
 - [Liam Lee](https://github.com/mappyliam)
@@ -15939,3 +15939,4 @@ Mário Baltazar
 - [Verum Emanio] (https://github.com/VerumEmanio)
 - [Jianxing Ke](https://github.coom/kjr21362)
 - [Eran Nave] (https://github.com/erannave)
+- [Jose Pehovaz-Diez](https://github.com/cavu757)
