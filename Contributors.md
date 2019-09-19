@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [igor](https://github.com/igorshiota)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
@@ -8,6 +9,7 @@
 - [cricri777](https://github.com/cricri777)
 
 -[mbricco](https://github.com/mbricco)
+-[shrutika](https://github.com/shrutikamahale)
 -[komalg1](https://github.com/komalg1)
 - [karpiuMG](https://github.com/karpiuMG)
 - [Anna Dorigo](https://github.com/anna-dorigo)
