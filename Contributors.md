@@ -24,6 +24,7 @@
 - [Cornelius Denninger](https://github.com/colodenn)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Conor Mai](https://github.com/c-mai)
+- [Jayson Ng](https://github.com/kahseng94)
 - [John Fontana](https://github.com/jplanet)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Leonid Kozak] (https://github.com/SkimFelBon)
