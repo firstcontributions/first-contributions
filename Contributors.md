@@ -9997,6 +9997,7 @@ Stephan Sharpe
 - [Colton Hart](https://github.com/hartc17)
 - [Priyam Jain](https://github.com/pj1527)
 - [Cristian Adam](https://github.com/CrisAdam)
+- [Chethana Gopinath](https://github.com/Chetha)
 - [Eamon Bauman](https://github.com/ebauman)
 - [Matt Wolford](https://github.com/mattrick04)
 - [Mai](https://github.com/softseal)
