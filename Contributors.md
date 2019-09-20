@@ -5416,6 +5416,7 @@ Stephan Sharpe
 - [Crashn](https://github.com/Crashn)
 - [LRedriver](https://github.com/LRedriver)
 - [Brett Henry](https://github.com/ntacp)
+- [Sapir Kro](https://github.com/SapirKro/)
 - [nguyenhungsync](https://github.com/nguyenhungsync)
 - [Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 - [Obba Paschal](https://github.com/obbap1)
