@@ -10,6 +10,7 @@
 
 -[mbricco](https://github.com/mbricco)
 -[shrutika](https://github.com/shrutikamahale)
+- [Long Pham](https://github.com/phaml2995)
 -[komalg1](https://github.com/komalg1)
 - [karpiuMG](https://github.com/karpiuMG)
 - [Anna Dorigo](https://github.com/anna-dorigo)
