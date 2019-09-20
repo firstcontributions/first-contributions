@@ -66,6 +66,7 @@
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
+Hammad Qureshi
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
