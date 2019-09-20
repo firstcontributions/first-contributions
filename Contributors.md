@@ -111,6 +111,7 @@ Hammad Qureshi
 - [dragoFireup](https://github.com/dragoFireup)
 - [Kailee]
 - [JawnMarc](https://github.com/JawnMarc)
+- [xkbarkar](https://github.com/xkbarkar)
 - [Katarina Käll](https://github.com/katarinakall)
 - [Raheel Iqbal](https://github.com/raheel-iqbal)
 - [Muhammad Tehami](https://github.com/t3hami)
