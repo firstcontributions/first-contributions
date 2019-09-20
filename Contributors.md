@@ -92,3 +92,4 @@
 - [Mike Chatsky](https://github.com/mikeChatsky)
 - [Chris Ball](https://github.com/Balldy)
 - [Rahul Malhotra](https://github.com/rahulmalhotra9620)
+- [Hammad Qureshi](https://github.com/moemoneyb1)
