@@ -72,6 +72,7 @@
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Alejandro Rojas](https://github.com/Xarasho)
 - [Martin Shields](https://github.com/marty-shields)
+- [Szaszko David](https://github.com/Szeszkoo)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
