@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [igor](https://github.com/igorshiota)
@@ -7,7 +7,7 @@
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
-
+- [Alaa-Alali](https://github.com/aalali04)
 -[mbricco](https://github.com/mbricco)
 -[shrutika](https://github.com/shrutikamahale)
 - [Long Pham](https://github.com/phaml2995)
