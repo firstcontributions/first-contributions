@@ -220,6 +220,7 @@ Haris Siddiqui
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
 - [Ashish Paudel](https://github.com/peaceofmind123)
 - [Moshe]
+- [ulsoe05](https://github.com/ulsoe05)
 - [Alkator-Nori](https://github.com/nais000k)
 - [Omid Nassir](https://github.com/rissandimo)
 - [Milind Brahme](https://github.com/milind-brahme)
