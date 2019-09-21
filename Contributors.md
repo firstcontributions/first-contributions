@@ -30,6 +30,7 @@
 - [Conor Mai](https://github.com/c-mai)
 - [Jayson Ng](https://github.com/kahseng94)
 - [John Fontana](https://github.com/jplanet)
+- [HSTEHSTE](https://github.com/HSTEHSTE)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Leonid Kozak] (https://github.com/SkimFelBon)
 - [Shahbaz Ali] (https://github.com/shazyriver)
