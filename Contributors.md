@@ -154,6 +154,7 @@ Hammad Qureshi
 - [Jason Wang](https://github.com/kerorojason)
 - [Bailey Bruketta](https://github.com/BaileyBruketta)
 - [Mayank Goel](https://github.com/MayankGoel28)
+- [Wang Dorjee Sherpa] (https://github.com/Wangsherpa)
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 Haris Siddiqui
