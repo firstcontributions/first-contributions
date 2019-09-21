@@ -11813,6 +11813,7 @@ Stephan Sharpe
 - [Rish Agrawal](https://github.com/rishuag)
 - [Bhavesh Patidar](https://github.com/BhaveshPatidar)
 - [Rattle](https://github.com/rattle99)
+- [Eduardo Pech](https://github.com/EduardoPech)
 - [Daniel Vinitsky](https://github.com/dvinitsky)
 - [Anand K Parmar](https://github.com/anandkumarkparmar)
 - [Sayaka Suzuki](https://github.com/ssyk442)
