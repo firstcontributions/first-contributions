@@ -8,6 +8,7 @@
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
+- [Tyana Stone](https://github.com/tyanastone)
 
 -[mbricco](https://github.com/mbricco)
 -[shrutika](https://github.com/shrutikamahale)
