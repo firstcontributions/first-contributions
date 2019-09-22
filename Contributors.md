@@ -73,6 +73,7 @@
 - [Dhruv Kapur](https://github.com/dkapur17)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
+- [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
