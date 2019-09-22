@@ -15962,6 +15962,6 @@
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
 - [Ronnie](https://github.com/ro2nie)
-- [Elise](https://github.com/love-and-logic)
+- [ECP](https://github.com/love-and-logic)
 - [Orachun]
 - [Jordan Stubblefield](https://github.com/jstubb7939)
