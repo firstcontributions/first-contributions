@@ -11802,6 +11802,7 @@ Stephan Sharpe
 - [Naushad Shukoor](https://github.com/naushadS)
 - [Rashidul Hasan](https://github.com/rashidul-hasan)
 - [Shreya Patil](https://github.com/ShreyaPatil23)
+-  [Sean McGarry] (https://github.com/smcg468) 
 - [Zak Shatila](https://github.com/zakshatila)
 - [Emilio Bernal](https://github.com/eBernalZ)
 - [Devjyoti Datta](https://github.com/Dev05)
@@ -15971,3 +15972,4 @@ Mário Baltazar
 - [Jordan Stubblefield](https://github.com/jstubb7939)
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
 - [Muktadir Khan](https://github.com/muktadirkhan889)
+
