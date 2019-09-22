@@ -3988,6 +3988,7 @@ Stephan Sharpe
 - [Thomas Abbott](https://github.com/abbotttp)
 - [Leikaderp](https://github.com/Leikaderp)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
+- [Lawrence Dass](https://github.com/Lawrence4code)
 - [Neelakanta Gouda Patil](https://github.com/NEELAKANTAGOUDAPATIL)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
 - [Jaibhav Thukral](https://github.com/jaibhav)
