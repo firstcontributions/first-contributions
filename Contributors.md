@@ -170,6 +170,7 @@ Hammad Qureshi
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
+- [Zhi-Yi Chin](https://github.com/joycenerd)
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
