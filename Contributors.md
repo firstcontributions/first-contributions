@@ -198,6 +198,7 @@ Haris Siddiqui
   Aviad Ariel
 - Rushabh Doshi
 - [Kevin Schoormans] (https://github.com/kevinschoormans)
+- Cyrus Harding 
 - Justin Wong
 - Saksham Agrawal
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
