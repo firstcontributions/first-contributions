@@ -8539,6 +8539,7 @@ Stephan Sharpe
 - [Paulo Lima](https://github.com/pbruny)
 - [Sergei Tomin](https://github.com/driver-by)
 - Matan G why dont they say fu bar instead of foo bar
+- Sterna Gfonkel
 - [Abhay Chawla](https://github.com/abhaychawla)
 - [Erika Ornstein @erorcodes](https://github.com/erorcodes)
 - [Axel Espinosa Meneses @AxelDavid45](https://github.com/AxelDavid45)
