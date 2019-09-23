@@ -64,6 +64,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
 - [Bytewar](https://github.com/bytewar)
+  [jgthomas](https://github.com/jgthomas)
 - [Devil-Echo]
 - [varkychen] (https://github.com/varkychen)
 - [Xiaoye Yang](https://github.com/TomYang1993)
