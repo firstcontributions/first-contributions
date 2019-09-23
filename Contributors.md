@@ -70,6 +70,7 @@
 - [Vaibhav Pandey](https://github.com/vaibhap1)
 - [sadrab10](https://github.com/sadrab10)
 - [Tyler Lawton](https://github.com/thor-molecules)
+- [Jake Mittleman](https://github.com/jakemittleman)
 - [Dhruv Kapur](https://github.com/dkapur17)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
