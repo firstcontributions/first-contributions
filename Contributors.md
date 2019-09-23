@@ -11,10 +11,7 @@
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
-
--[mbricco](https://github.com/mbricco)
--[shivang patel](https://github.com/shivaang12)
--[shrutika](https://github.com/shrutikamahale)
+- [Shabbir Chatrissa](https://github.com/void5253)
 - [Long Pham](https://github.com/phaml2995)
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
