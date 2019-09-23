@@ -180,6 +180,7 @@ Haris Siddiqui
 - Constant Likudie
 - MrMame
 -[Brady Atkinson](https://github.com/BradyAtkinson)
+-[Josh Rigney](https://github.com/DreamSpinner22)
 - [Oren Shafir](https://github.com/Orenshaf)
 - Devraj Singh Shekhawat
 - Zeinab
