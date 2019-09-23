@@ -3365,6 +3365,7 @@ Stephan Sharpe
 - [Patrick Biffle](https://github.com/Piglacquer)
 - [Shubham Ghimire](https://github.com/shubhamghimire)
 - [Guillermo Gonzalez](https://github.com/nwni)
+- [Cosmin Petrica](https://github.com/cosmin-s-p)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Suresh Srinivas](https://github.com/suresh-srinivas)
 - [Dapeng An](https://github.com/Andapeng)
