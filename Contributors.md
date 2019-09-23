@@ -13,6 +13,7 @@
 - [Tyana Stone](https://github.com/tyanastone)
 
 -[mbricco](https://github.com/mbricco)
+-[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
 - [Long Pham](https://github.com/phaml2995)
 -[komalg1](https://github.com/komalg1)
