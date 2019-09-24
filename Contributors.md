@@ -327,6 +327,7 @@ Haris Siddiqui
 - [Brandon L. Locke](https://github.com/brandonllocke/)
 - YuriyCherniy
 - Joseph Pilla
+- Shahaf Mordechay
 - Muskan Hoondlani
 - Colin Fischer(https://github.com/cfischera)
 - [Ken Do](https://github.com/ken-do/)
