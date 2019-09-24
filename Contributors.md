@@ -5105,7 +5105,7 @@ Stephan Sharpe
 - [Pushkar](https://github.com/linton-dawson)
 - [DSdatsme](https://github.com/DSdatsme)
 - [Ritvik Jain](https://github.com/Ritvikjain)
-- [Rockwell Shabani](https://github.com/Rockwell70)
+- [Jeffrey Shabani](https://github.com/Rockwell70)
 - [Hayden Sykes](https://github.com/hasykes)
 - [Ana Carolina D Ferreira](https://github.com/anacdf)
 - [Antonio D Navarro](https://github.com/Azure7x)
