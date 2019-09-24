@@ -372,6 +372,7 @@ Haris Siddiqui
 - [Hamdi Nahhas](https://github.com/hamdi977)
 - [ldyim](https://github.com/ldyim)
 - [Dedos](https://github.com/MValdebenito)
+- [Aman Mahansaria](https://github.com/aman33459/)
 - Tiago Gonçalves
 - Christopher Mitchell
 - Arun
