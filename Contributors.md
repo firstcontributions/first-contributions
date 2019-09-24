@@ -85,6 +85,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Dominic London](https://github.com/djlondon)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
+- [Janeth Fernando](https://github.com/janethavi)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
 - [dexetrous](https://github.com/deXetrous)
