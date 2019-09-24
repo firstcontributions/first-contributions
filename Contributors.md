@@ -16,6 +16,7 @@
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
+-[Angel Lakra](https://github.com/angel112)
 - [Long Pham](https://github.com/phaml2995)
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
