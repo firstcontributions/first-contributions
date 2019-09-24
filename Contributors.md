@@ -729,6 +729,7 @@ Haris Siddiqui
 - [Colin Anderson](https://github.com/40216006)
 - [Shirish Nigam](https://github.com/techlab23)
 - Will K
+- Aaron Ehrensberger
 - [Sreedev S](https://github.com/finetard)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Jerry Chuang](https://github.com/JerChuang/)
