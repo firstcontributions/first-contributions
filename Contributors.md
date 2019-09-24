@@ -57,6 +57,7 @@
 - [Daemon1024](https://github.com/daemon1024)
 - [Bytewar](https://github.com/bytewar)
 - [Devil-Echo]
+- [Raahul Singh](https://github.com/Raahul-Singh)
 - [varkychen] (https://github.com/varkychen)
 - [Xiaoye Yang](https://github.com/TomYang1993)
 - [Nithin Muthukumar](https://github.com/nithinmuthukumar)
