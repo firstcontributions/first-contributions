@@ -16018,3 +16018,4 @@ Mário Baltazar
 - [RN2208](https://github.com/rn2208/)
 - [prakx87](https://github.com/prakx87/)
 - [Schitiz](https://github.com/Schitiz)
+- [karlangadas](https://github.com/karlangadas)
