@@ -130,6 +130,7 @@ Hammad Qureshi
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Luc Berthiaume
+- [Jake Murray](https://github.com/JMurray90)
 - Here2Dance (http://github.com/Here2Dance)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
