@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -27,6 +27,7 @@ saad hassan (https://github.com/saadhassan99)
 - [shinpark97](https://github.com/shinpark97)
 - [tran-phillip](https://github.com/tran-phillip)
 - [AnonProductions](https://github.com/AnonProductions)
+- [karl marx](https://github.com/karlmarx)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
