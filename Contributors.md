@@ -14962,6 +14962,7 @@ Stephan Sharpe
 - [James Au](https://github.com/jamesaucode)
 - Ben Walton
 - [Tulsi Jain](https://github.com/tulsiksng)
+- [Uyin Solomon](https://github.com/rootleet)
 - [Brandon Allen](https://github.com/eldon2)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
