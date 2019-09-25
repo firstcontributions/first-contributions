@@ -16022,3 +16022,4 @@ Mário Baltazar
 - [prakx87](https://github.com/prakx87/)
 - [Schitiz](https://github.com/Schitiz)
 - [karlangadas](https://github.com/karlangadas)
+- [Kyle Moreira](https://github.com/NotKharon/)
