@@ -231,6 +231,7 @@ Haris Siddiqui
 - Vinh-Luu
 - Artem Yacenko
 - Calum O'Donoghue 
+- [Karunam Goyal](https://github.com/karunamgoyal)
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [Masoud Bolhassani](https://github.com/msoodb)
 - Randil Tennakoon (https://github.com/randiltennakoon)
