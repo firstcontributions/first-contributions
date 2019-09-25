@@ -9583,6 +9583,7 @@ Stephan Sharpe
 - [Pragyan Pandey](https://github.com/pragyan478)
 - [Eric Shi](https://github.com/eric60)
 - [omichaello]()
+- [zlatsic](https://github.com/zlatsic)
 - [James (Ju Seong) Kim](https://github.com/jk2528)
 - [Addie Johnson](https://github.com/Addie27)
 - [Tanner Cook](https://github.com/tvcook)
