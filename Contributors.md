@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -295,6 +295,7 @@ Haris Siddiqui
 - [Anubhav Mishra](https://github.com/anubhavm55)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Beginner]
+- Heya
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123) 
