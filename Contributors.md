@@ -143,6 +143,7 @@ Hammad Qureshi
 - [Tim Gretler](https://github.com/tthebst)
 - [xkbarkar](https://github.com/xkbarkar)
 - [Katarina Käll](https://github.com/katarinakall)
+- [Katrina Rodriguez](https://github.com/katrinar)
 - [Raheel Iqbal](https://github.com/raheel-iqbal)
 - [Muhammad Tehami](https://github.com/t3hami)
 - [Dysar](https://github.com/Dysar)
