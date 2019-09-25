@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -15998,6 +15998,7 @@ Mário Baltazar
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
 - [Muktadir Khan](https://github.com/muktadirkhan889)
 - [Cod3rx](https://github.com/coderx7)
+- [Andy Rohde](https://github.com/AndrewPRohde)
 - [Sawsan A] (https://github.com/saleryan) 
 - [gerosprime](https://github.com/gerosprime)
 - [Marcao F](https://github.com/mackmak/) 
