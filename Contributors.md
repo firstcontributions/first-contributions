@@ -363,6 +363,7 @@ Haris Siddiqui
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
 - [Steven Martinez] (https://github.com/stamarty)
+- Habib Sorathia
 - Glaiza Wagner
 - Lalitha Madduri
 - Vishal Rochlani
