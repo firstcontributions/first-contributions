@@ -8960,6 +8960,7 @@ Stephan Sharpe
 - [Jeremy Kepf](https://github.com/Khepf)
 - wsong
 - [harrison ndegwa](https://github.com/HarryNdegwa)
+- [Alexey Truntov](https://github.com/Jesterson)
 - [Jack McCutcheon](https://github.com/JackMac2904)
 - [Hassen Morad](https://github.com/hassenmorad)
 - [Diamond KIng](https://github.com/diamondking6)
