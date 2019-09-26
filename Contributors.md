@@ -61,6 +61,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Samuel Kapusta](htpps://github.com/cabbagelover25)
 - [Justin Chow](https://github.com/justinchow11)
 - [Nipuna Ratnayake](https://github.com/nipunarat)
+
 - [Robert Brown](https://github.com/MegaCoulomb)
 - [kurt](https://github.com/KurtKudrat)
 - [Abdul] ( https://github.com/Abdul-Omar)
@@ -181,6 +182,7 @@ Hammad Qureshi
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
 - [Jon Crowell](https://github.com/jonrcrowell)
+- [Sahil Silare](https://github.com/sahil9001)
 - [Eric Fang] (https://github.com/thericfang)
 - [Luke Barry] (https://github.com/lukelbarry06)
 - [Nikhil Nelson] (http://https://github.com/nike47)
