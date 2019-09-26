@@ -14,7 +14,7 @@
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [Guilherme Balog](https://github.com/guilhermebalog)
-- [Pedro Henrique T Gama](https://github.com/pedrohtg)
+- [Pedro Henrique T Gama](https://github.com/pedrohtg
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
