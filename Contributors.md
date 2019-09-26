@@ -16025,3 +16025,4 @@ Mário Baltazar
 - [Schitiz](https://github.com/Schitiz)
 - [karlangadas](https://github.com/karlangadas)
 - [Kyle Moreira](https://github.com/NotKharon/)
+- [David Stern](https://github.com/destern-wa/)
