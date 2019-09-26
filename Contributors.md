@@ -8804,6 +8804,7 @@ Stephan Sharpe
 - [Jonathan Burk](https://github.com/JMB2K)
 - [Robert Yuen](https://github.com/rhyuen)
 - [Echoskope](https://github.com/echoskope)
+- [Otavio Pires](https://github.com/otaviopires)
 - [Kevin Madison](https://github.com/kevinlmadison)
 - [Dima Mukhin](https://github.com/DimaMukhin)
 - [Echessa](https://github.com/echessa)
