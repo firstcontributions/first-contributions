@@ -16037,3 +16037,4 @@ Mário Baltazar
 - [D Lincoln] (https://github.com/da-lincoln)
 - [Chris P] (https://github.com/j393554)
 - [Ela Bogucka] (https://github.com/ebogucka)
+- [shoom1337] (https://github.com/shoom1337) # Make shoom great again!
