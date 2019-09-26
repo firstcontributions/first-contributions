@@ -2,6 +2,7 @@
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
+- [5280Brady](https://github.com/5280Brady)
 - [sigmund](https://siggymc.deviantart.com)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [igor](https://github.com/igorshiota)
@@ -16044,3 +16045,4 @@ Mário Baltazar
 - [Hvassaa] (https://github.com/Hvassaa)
 - [Gustavo Silva] (https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
+
