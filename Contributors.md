@@ -16041,3 +16041,4 @@ Mário Baltazar
 - [Paolo Manili] (https://github.com/Delta-38)
 - [Hvassaa] (https://github.com/Hvassaa)
 - [Gustavo Silva] (https://github.com/gstvds)
+- [Sofia Rivas](https://github.com/sofiarivas)
