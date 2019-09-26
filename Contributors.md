@@ -335,6 +335,7 @@ Haris Siddiqui
 - [Richard Hu](https://github.com/rhu2001/)
 - [f0hss](https://github.com/f0hss/)
 - czx229
+- [Abruuh_ham](https://github.com/abruuham)
 - [Amar](https://github.com/immortalv5)
 - Austin Suarez
 - [Alexsander Vinogradov](https://github.com/vinogradov-am/)
