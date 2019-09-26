@@ -1742,6 +1742,7 @@ Stephan Sharpe
 - [JThissen](https://github.com/JThissen)
 - [Tyler Bromley](https://github.com/TylerBromley)
 - [Lucas Lopes](https://github.com/thuraam)
+- [Jingci Wang](https://github.com/Jingciii)
 - [Juuso Solonen](https://github.com/juusolonen)
 - [Joseph Rodrigues](https://github.com/JostonR)
 - [Narethmarch Venmey](https://github.com/mw112)
