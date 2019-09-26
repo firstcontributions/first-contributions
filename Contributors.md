@@ -82,6 +82,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Bytewar](https://github.com/bytewar)
   [jgthomas](https://github.com/jgthomas)
 - [Devil-Echo]
+- [Strayckler](https://github.com/Strayckler)
 - [Richard Nguyen](https://github.com/ripnguyen)
 - [varkychen] (https://github.com/varkychen)
 - [Xiaoye Yang](https://github.com/TomYang1993)
