@@ -16039,3 +16039,4 @@ Mário Baltazar
 - [Ela Bogucka] (https://github.com/ebogucka)
 - [Paolo Manili] (https://github.com/Delta-38)
 - [Hvassaa] (https://github.com/Hvassaa)
+- [Gustavo Silva] (https://github.com/gstvds)
