@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -138,6 +138,7 @@ Hammad Qureshi
 - Luc Berthiaume
 - [Jake Murray](https://github.com/JMurray90)
 - Here2Dance (http://github.com/Here2Dance)
+- dementor235 :)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
 - [Kailee]
