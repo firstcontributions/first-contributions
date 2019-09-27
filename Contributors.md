@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
@@ -99,7 +99,8 @@ saad hassan (https://github.com/saadhassan99)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
 - [Arthur Autz](https://github.com/blissdismissed)
-Hammad Qureshi
+- [Joebzz](https://github.com/joebzz)
+- Hammad Qureshi
 - [Janeth Fernando](https://github.com/janethavi)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
