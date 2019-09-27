@@ -3,6 +3,7 @@
 - [aiden](https://github.com/acdlbs)
 - [priya]
 - [sigmund](https://siggymc.deviantart.com)
+- [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [igor](https://github.com/igorshiota)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
