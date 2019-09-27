@@ -15,6 +15,7 @@
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [Guilherme Balog](https://github.com/guilhermebalog)
+- [Gustavo Castro](https://github.com/gacsnic)
 
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
@@ -16052,4 +16053,3 @@ Mário Baltazar
 - [Gustavo Silva] (https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
 - [Blaine Bateman](https://github.com/eafpres)
-- [Sarawut Klangphukhiao] (https://github.com/sarawukl)
