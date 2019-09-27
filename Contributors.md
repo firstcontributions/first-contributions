@@ -15991,6 +15991,7 @@ Mário Baltazar
 - [Kagawa23](https://github.com/kagawa23)
 - [mscorzoni]
 - [ZanderBE](https://github.com/ZanderBE)
+- [malworks](https://github.com/malworks/)
 - [samhauer](https://github.com/samhauer)
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
