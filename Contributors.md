@@ -1644,6 +1644,7 @@ Stephan Sharpe
 - [vbertazzo](https://github.com/vbertazzo)
 - [ravi](https://github.com/ravichalla)
 - [Conor Sullivan](https://github.com/Conorcancode)
+- [Andrés Calero](https://github.com/andcal)
 - [Bo andre][muditj](https://github.com/MuditJ)
 - [Kayode Atobatele](https://github.com/atobatele)
 - [Rynndalyn](https://github.com/rynndalyn)
