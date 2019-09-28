@@ -238,6 +238,7 @@ Haris Siddiqui
 - Cyrus Harding 
 - Justin Wong
 - Saksham Agrawal
+- Sagi Levi
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
 - Ajit Singh (https://github.com/as-ajitsingh)
