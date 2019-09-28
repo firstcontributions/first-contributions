@@ -184,6 +184,7 @@ Hammad Qureshi
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
 - [Callum McFadgen](https://github.com/CallumMcFadgen)
+- [Shubham Gupta](https://github.com/IamShubhamGupto)
 - Mike
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
