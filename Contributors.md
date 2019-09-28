@@ -117,6 +117,7 @@ Hammad Qureshi
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
+[Jonathan Valderrama](https://github.com/valdeezzee)
 - [jb](https://github.com/jlbaldwin)
 - [Will Shields](https://github.com/wshields)
 - [Om Sitapara](https://github.com/omsitapara23)
