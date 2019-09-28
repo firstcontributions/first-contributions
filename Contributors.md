@@ -2208,6 +2208,7 @@ Stephan Sharpe
 - [Siddhant Sahoo](https://github.com/SidEnigma)
 - [aboalnaga](https://github.com/aboalnaga)
 - [BlueOrange](https://github.com/lostghost-dev)
+- [Dan Addison](https://github.com/DanAddison)
 - [Ragith Sabapathipillai](https://github.com/r-saba)
 - [Edin K](https://github.com/EdinK1)
 - [Jordan Tan](https://github.com/jordantjh)
