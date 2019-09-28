@@ -18,7 +18,7 @@
 - [Tyana Stone](https://github.com/tyanastone)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
-
+- [veemish](https://github.com/veemish)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
