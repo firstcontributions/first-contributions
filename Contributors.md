@@ -7516,6 +7516,7 @@ Stephan Sharpe
 - [Obinna A. Kalu](https://github.com/obkalu)
 - [Diego Stiehl](https://github.com/seccomiro)
 - [Tom McDonald](https://github.com/Tom-McDonald)
+- [Per Wramdemark](https://github.com/perwramdemark)
 - [Rashid Lasker](https://github.com/rashidlasker)
 - [Melanie Hudson aka Seekingcat](https://github.com/seekingcat)
 - [Jacob Villegas](https://gitub.com/jacobv126)
