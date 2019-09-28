@@ -22,6 +22,7 @@
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
+-[pravallika](https://github.com/pravzzyy)
 -[Angel Lakra](https://github.com/angel112)
 - [Long Pham](https://github.com/phaml2995)
 - [Tyson LaBree](https://github.com/labree0)
