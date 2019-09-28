@@ -16057,3 +16057,4 @@ Mário Baltazar
 - [Juliana Almeida](https://github.com/julinvictus)
 - [Sarawut Klangphukhiao] (https://github.com/sarawukl)
 - [Jens L] (https://github.com/PretentiousPanda)
+- [Futuregit] (https://github.com/futuregit)
