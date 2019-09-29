@@ -9016,6 +9016,7 @@ Stephan Sharpe
 - [Andrej Premrn - mikirejf](https://github.com/mikirejf)
 - [Kalpana Dey](https://github.com/kayDey)
 - [Hamish Sams](https://github.com/Hammie217)
+- [Zach Smith] (https://github.com/zdsmit)
 - [Praveen](https://github.com/Prav92)
 - [Yogesh Patel] (https://github.com/yogeshpatel276052)
 - [Sholom Steinmetz](https://github.com/peacestone)
