@@ -16072,6 +16072,7 @@ Mário Baltazar
 - [prakx87](https://github.com/prakx87/)
 - [Schitiz](https://github.com/Schitiz)
 - [karlangadas](https://github.com/karlangadas)
+- [Gleycer Parra](https://github.com/gleycerparra)
 - [arnav35](https://github.com/arnav35)
 - [Kyle Moreira](https://github.com/NotKharon/)
 - [D Lincoln] (https://github.com/da-lincoln)
