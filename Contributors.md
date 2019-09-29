@@ -6,6 +6,7 @@
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
+- [Claudia Vargas] (https://github.com/claucvk)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
