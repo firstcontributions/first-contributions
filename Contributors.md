@@ -19,7 +19,7 @@
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
-
+- [Kristina Macekovic](https://github.com/kristinamacekovic)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
