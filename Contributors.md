@@ -10696,6 +10696,7 @@ Stephan Sharpe
 - [Leonard Dalmacio](https://github.com/leodalmacio)
 - [Kaveon Smith](https://github.com/kaveon14)
 - [Ciara Jones](https://github.com/Ciara3)
+- [Marisescu Cristian](https://github.com/cristian-marisescu/)
 - [Deepika Pandhi](https://github.com/dpandhi-git)
 - [Sylvester Hillary](https://github.com/sylvacoin)
 - [Zach Gonzales](https://github.com/zgonzales)
