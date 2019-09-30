@@ -1572,6 +1572,7 @@ Stephan Sharpe
 - Ritu S
 - Cmorph1
 - [chickendoritos](https://github.com/chickendoritos)
+- [aenkirch](https://github.com/aenkirch/)
 - Jannes E
 - Max G
 - JohntyR
