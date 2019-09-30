@@ -254,6 +254,7 @@ Haris Siddiqui
 - Shahi
 - Rhonin
 - [Soumyajit Deb](https://github.com/Maxz2136)
+- [Puneet Aggarwal](https://github.com/puneet222)
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
