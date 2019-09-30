@@ -1781,6 +1781,7 @@ Stephan Sharpe
 - [Nicolei Ocana](https://github.com/nicoleiocana)
 - [Chef Gromboli](https://github.com/Chef-Gromboli)
 - [Victoria Hobbs](https://github.com/vlhobbs)
+- [Raafay Alam](https://github.com/rffffy)
 - [Andrew Hsieh](https://github.com/ahsieh31)
 - [Blake Barton](https://github.com/blake-barton)
 - [Arun Krishna P R](https://github.com/arunkrishna2992)
