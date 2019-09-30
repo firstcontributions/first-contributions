@@ -92,6 +92,7 @@
 - [CitrusPunk](https://github.com/CitrusPunk)
 - Anshuman Singh
 - Steefan Raveenthiran
+  [Soumyajit Deb]
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Thomas Blanchard](https://github.com/a456bt)
