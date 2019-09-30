@@ -1,5 +1,5 @@
-﻿# Contributors
-
+# Contributors
+-[Hitesh Tomar]
 - [aiden](https://github.com/acdlbs)
 - [priya]
 - [sevonefive]
