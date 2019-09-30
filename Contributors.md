@@ -2101,6 +2101,7 @@ Stephan Sharpe
 - [Raymond Lo](https://github.com/rayy-lo)
 - Jerry Zhang
 - Darrin Deal
+- [Samuele Bella](https://github.com/Novaenn)
 - Manuprasad M
 - [Shawn Austin](https://github.com/JS-Austin)
 - [Aayush Gupta](https://github.com/aayushgupta97)
