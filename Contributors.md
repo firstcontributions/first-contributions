@@ -5815,7 +5815,7 @@ Stephan Sharpe
 - [David Lee](https://github.com/dlee129)
 - [Ziane Maamar](https://github.com/DRXDesign)
 - [Prateek Varshney](https://github.com/pvarshney1729)
-- [Muhammad Aliyul Murtadlo](https://github.com/mmdiyul)
+- [Muhammad Aliyul Murtadlo :panda_face:](https://github.com/mmdiyul)
 - [rajarizwan32178](https://github.com/rajarizwan32178)
 - [Pietro Metuh](https://github.com/pietrometuh)
 - [Badal Moradia](https://github.com/bamoradia)
