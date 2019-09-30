@@ -31,7 +31,7 @@
 - [Tyson LaBree](https://github.com/labree0)
 - [Irfan Shaikh]
 -[komalg1](https://github.com/komalg1)
-saad hassan (https://github.com/saadhassan99)
+- saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
 - [MarieSell](https://github.com/MarieSell)
 - [Anna Dorigo](https://github.com/anna-dorigo)
@@ -1326,7 +1326,8 @@ Stephan Sharpe
 - Bobby Shmurda (https://github.com/luuuk)
 - [Kevin Amalathas](https://github.com/amalathask)
 - [Shriram bhat](https://github.com/butcodes)
-- [Mike Disbrow](https://github.com/mdisbrow)
+- [Ashley 123] (https://github.com/dogsbody-ashley)
+-[Mike Disbrow](https://github.com/mdisbrow)
 - [Shreesh Roliwal](https://github.com/shreesh1)
 - [Eduardo Lerma](https://github.com/LaloCode)
 - [Kai Heng Ann](https://github.com/kaihengann/)
