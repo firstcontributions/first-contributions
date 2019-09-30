@@ -16140,3 +16140,4 @@ Mário Baltazar
 - [theNaavik](https://github.com/theNaavik)
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
+- [franzqat](https://github.com/franzqat)
