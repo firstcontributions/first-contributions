@@ -3,6 +3,7 @@
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
+- [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
 - [sevonefive]
 - [sigmund](https://siggymc.deviantart.com)
