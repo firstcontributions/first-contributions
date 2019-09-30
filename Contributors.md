@@ -17,6 +17,7 @@
 - [Claudia Vargas] (https://github.com/claucvk)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
+- [Chris Yu](https://github.com/chrisayu321)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
