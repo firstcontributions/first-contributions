@@ -7,6 +7,7 @@
 - [priya]
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
+- [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
