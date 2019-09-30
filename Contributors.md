@@ -5997,6 +5997,7 @@ Stephan Sharpe
 - [Videogamedunkey](https://github.com)
 - [Ryan Robinson](https://github.com/Ryan00000)
 - [anoushka](https://github.com/Anoushka-Anu)
+- [Anand Sankritya](https://github.com/snkritya)
 - [john](https://github.com/forwinder15)
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
 - [Armaan Singh Bhullar](https://github.com/ArmaanBhullar)
