@@ -16103,5 +16103,6 @@ Mário Baltazar
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
+- [Adeleye Adewale](https://github.com/Adelee2)
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [WxBDM](https://github.com/WxBDM)
