@@ -1806,6 +1806,7 @@ Stephan Sharpe
 - [Bogdan Chise](https://github.com/ChiseBogdan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
+- Brandi
 - [creep1g](https://github.com/creep1g)
 - Kaustubh Joshi
 - [Leombro](https://github.com/leombro)
