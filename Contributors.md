@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [azamat] (https://github.com/tikenov)
@@ -19,6 +19,7 @@
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 - [Chris Yu](https://github.com/chrisayu321)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
+- [Stacy Holtz] (https://github.com/stacyholtz6)
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
