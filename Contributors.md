@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
@@ -773,6 +773,7 @@ Haris Siddiqui
 - Christian Reyes
 - Yallop
 - [Nasim](https://github.com/nasimUddin)
+- [sixthsant]
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Adithya S](https://github.com/Adithya188288))
 - [Davy Chan](https://github.com/dcastellon0001)
