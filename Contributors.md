@@ -184,6 +184,7 @@ Conor Shields (https://github.com/cshields236)
 - [Kristy Nagel](https://github.com/kristynagel)
 - Steve Berryman
 - [Joel DeSante](https://github.com/JoelDesante)
+- [Anuj Yadav](https://github.com/anuj952)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
 - [Mighil Dath] (https://github.com/Mighil31)
