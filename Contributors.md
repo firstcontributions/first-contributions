@@ -17,6 +17,7 @@
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
+- [Shubham Sharma](https://github.com/sharmajsr)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [Dhanush-05](https://github.com/Dhanush-05)
 - [ykhade](https://github.com/ykhade)
