@@ -1,5 +1,6 @@
 # Contributors
 
+- [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [priya]
