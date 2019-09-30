@@ -8,6 +8,7 @@
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Rithik](https://github.com/rithikmali)
+- [Uneet Patel](https://github.com/Uneetpatel7)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
