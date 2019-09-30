@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [Rugved Vaidya](https://github.com/Rugved)
 - [priya]
 - [sigmund](https://siggymc.deviantart.com)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
@@ -15,7 +16,6 @@
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [Guilherme Balog](https://github.com/guilhermebalog)
-- [Rugved Vaidya](https://github.com/Rugved) 
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
