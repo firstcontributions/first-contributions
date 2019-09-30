@@ -6,6 +6,7 @@
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
+- [Sakshi Sinha](https://github.com/RealRadOne)
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
