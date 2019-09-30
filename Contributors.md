@@ -2165,6 +2165,7 @@ Stephan Sharpe
 - [Luke Stroud](https://github.com/Duvanchi)
 - Steve Berryman
 - [Joel DeSante](https://github.com/JoelDesante)
+- [Anuj Yadav](https://github.com/anuj952)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
 - Luke Bernstein
 - Giovanni
