@@ -16144,3 +16144,4 @@ Mário Baltazar
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
+- [Rugved](https://github.com/rugved)
