@@ -1,6 +1,8 @@
 # Contributors
 
+- [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
+- [Bhargav SNV](https://github.com/Gituser143)
 - [priya]
 - [sevonefive]
 - [sigmund](https://siggymc.deviantart.com)
@@ -35,6 +37,7 @@
 saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
 - [MarieSell](https://github.com/MarieSell)
+-[T.H.Arjun](https://github.com/tharjun2001)
 - [Anna Dorigo](https://github.com/anna-dorigo)
 - [sm0rux](https://github.com/sm0rux)
 - [shinpark97](https://github.com/shinpark97)
@@ -50,7 +53,8 @@ saad hassan (https://github.com/saadhassan99)
 - [Siddharth Kundu](https://github.com/sid995)
 - [Ahmed Ogundimu](https://github.com/mcmedal001)
 - [lisalidroit](https://github.com/lisalidroit))
- -[Dheerajreddy](https://github.com/accounted)
+- [Larry Ascona](https://github.com/La2g)
+- [Dheerajreddy](https://github.com/accounted)
 - [Vaibhav](https://github.com/vaibhav60)
 - [Antonio Malafronte] (https://github.com/salozzo86)
 - [Cornelius Denninger](https://github.com/colodenn)
@@ -14008,6 +14012,7 @@ Stephan Sharpe
 - [Sourabh Jagtap](https://github.com/sourabhjagtap95)
 - Sourabh Raikwar
 - [Nathalia Paiva Lima](https://github.com/naftalima)
+- [Enoch Sim](https://github.com/esim23)
 - [Peter Dada](https://github.com/dapetoo)
 - [Victor Bala](https://github.com/savicsly)
 - [Subrato Sarker](https://github.com/2010subrato)
@@ -16104,5 +16109,6 @@ Mário Baltazar
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
 - [Adeleye Adewale](https://github.com/Adelee2)
+- [Chuk Robertson](https://github.com/chukrobertson)
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [WxBDM](https://github.com/WxBDM)
