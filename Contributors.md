@@ -16114,3 +16114,4 @@ Mário Baltazar
 - [Chuk Robertson](https://github.com/chukrobertson)
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [WxBDM](https://github.com/WxBDM)
+- [Faraz Khan](https://github.com/Frk4)
