@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
-- [Rugved Vaidya](https://github.com/Rugved)
 - [priya]
 - [sigmund](https://siggymc.deviantart.com)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
