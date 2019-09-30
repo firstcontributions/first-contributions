@@ -172,6 +172,7 @@ Hammad Qureshi
 - [Rajitha Warusavitarana](https://github.com/rajitha1998)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
+- [Siddharth Saha](https://github.com/trunc8) 
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
 - Luc Berthiaume
