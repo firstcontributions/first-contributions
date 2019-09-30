@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Katya Fadeeva](https://github.com/fadeeva)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
