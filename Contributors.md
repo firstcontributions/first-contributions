@@ -6,6 +6,7 @@
 - [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
 - [priya]
 - [sevonefive]
+- [Abhishek Jain] (https://github.com/maniac-tech)
 - [Rithik](https://github.com/rithikmali)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
