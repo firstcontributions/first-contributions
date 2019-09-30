@@ -156,6 +156,7 @@ Hammad Qureshi
 - [Drashti Modasara](https://github.com/drashti1712)
 - [Joseph](https://github.com/Joseph7695/)
 - [joern89](https://github.com/joern89/)
+- [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
 - [Zygimantas Baltutis](https://github.com/stambus)
 - [Courtenay Wakil](https://github.com/cwakil17)
