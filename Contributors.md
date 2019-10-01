@@ -36,6 +36,7 @@
 - [cricri777](https://github.com/cricri777)
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
+- [Kyle Knickerbocker](https://github.com/ckylek)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
