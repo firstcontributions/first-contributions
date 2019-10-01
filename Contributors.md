@@ -72,6 +72,7 @@
 - [Pablo WBK](https://github.com/pablowbk) 
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
+- [bernheder](https://github.com/bernheder)
 - [Kyle Knickerbocker](https://github.com/ckylek)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
