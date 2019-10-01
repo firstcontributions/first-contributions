@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
+- [Shivam Kumar Singh](https://github.com/shivam-51)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
@@ -17,6 +18,7 @@
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Claudia Vargas] (https://github.com/claucvk)
+- [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 - [Chris Yu](https://github.com/chrisayu321)
@@ -874,6 +876,7 @@ Haris Siddiqui
 - [Abhishek Madiraju](https://github.com/AbhishekMadiraju)
 - [Haridutt Jani](https://github.com/hariduttt)
 - [Fulvio Somma](https://github.com/Fulvio97)
+- [Kee Magbanua](https://github.com/samcode23)
 - [Elena Lestini](https://github.com/Ellie2020)
 - [Ahmed Khalil Jerbi](https://github.com/HamoudaJoe)
 - [Shakti Ratan](https://github.com/sat5297)
@@ -4985,6 +4988,7 @@ Stephan Sharpe
 - [Rehnab Khan](https://github.com/rehnab)
 - [Chandra Vamsi](https://github.com/rchandravamsi14)
 - [Chuong Tran](https://github.com/chuongtrh)
+- [Stefanos Bekiaris] (https://github.com/bkstephen)
 - [Manikant](https://github.com/mmani9199)
 - [Jessie Zhu](https://github.com/jessiezhudev)
 - [Emil Kollstrom](https://github.com/kollstrom)
@@ -5794,6 +5798,7 @@ Stephan Sharpe
 - [John Lioupas](https://github.com/Logi13)
 - [Brandon Dehmer](https://github.com/manwhoScripts)
 - [Shivangi Agarwal](https://github.com/AShivangi)
+- [Vu Quoc Hoang](https://github.com/hoangvq288)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
@@ -12177,6 +12182,7 @@ Stephan Sharpe
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
 - [Raju Kalidindi](https://github.com/RajuKalidindi)
+- [Simon Poll](https://github.com/Moonstroke82)
 - Stole P
 - [Em Labor](https://github.com/emlabor)
 - [Kieran Ramnarine](https://github.com/DongerZone)
@@ -16155,3 +16161,5 @@ Mário Baltazar
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
 - [Gaurav Bansode](https://github.com/gruler05)
+- [Nikho Sagala](https://github.com/nikhosagala)
+- [Dilina Dehigama](https://github.com/dilinade)
