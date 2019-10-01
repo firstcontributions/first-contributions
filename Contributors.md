@@ -55,6 +55,7 @@
 - [Shivansh] (https://github.com/narayanshivansh49)
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
+- [Estefany Anasco] (https://github.com/anyk17)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Brian Myburgh](https://github.com/brianmyburgh)
 - [Aditya Vikram](https://github.com/avikram553)
