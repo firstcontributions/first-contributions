@@ -4210,6 +4210,7 @@ Stephan Sharpe
 - [Peter R](https://github.com/peterr101)
 - Tyler Clark
 - [Chase Terry](https://github.com/cdterry87)
+- [Jacob Wallace](https://github.com/Here1Am1)
 - [Rafael Áquila](https://github.com/aquilarafa)
 - [dhairya](https://github.com/arLong-98)
 - [Jason Lynch](https://github.com/Tessituraa)
