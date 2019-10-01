@@ -141,6 +141,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Dhruv Kapur](https://github.com/dkapur17)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
+- [Aniket Anand](https://github.com/aanand2300)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
 - [Janeth Fernando](https://github.com/janethavi)
