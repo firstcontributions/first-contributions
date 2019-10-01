@@ -71,7 +71,7 @@ git commit -m "Add <nama> to Contributors list"
 ```
 ganti `<nama>` dengan nama anda.
 
-## Dorong perubahan ke GitHub
+## Push perubahan ke GitHub
 
 Dorong perubahan menggunakan perintah `git push`:
 ```
@@ -128,7 +128,7 @@ git push origin --delete <add-nama>
 ```
 Hal ini sebenarnya tidak diperlukan namun nama dari cabang ini menunjukkan tujuan yang spesial. Masa hidupnya bisa dijadikan lebih pendek.
 
-## Ke mana lagi setelah dari sini?
+## Kemana lagi setelah dari sini?
 
 Mari rayakan kontribusi anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -146,7 +146,7 @@ Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan dafta
 
 ## Promosi
 
-Jika anda menyukai proyek ini, bintangi di [GitHub](https://github.com/Roshanjossey/first-contributions).
+Jika anda menyukai proyek ini, berikan bintang di [GitHub](https://github.com/Roshanjossey/first-contributions).
 Jika anda orang yang gemar bersosial, ikuti [Roshan](https://roshanjossey.github.io/) di
 [Twitter](https://twitter.com/sudo__bangbang) dan
 [GitHub](https://github.com/roshanjossey).
