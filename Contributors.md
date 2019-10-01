@@ -29,6 +29,7 @@
 - [Pentium1080Ti](https://github.com/Pentium1080Ti)
 - [Moinak Banerjee] (https://github.com/moinak878)
 - [MariaILopez] (https://github.com/milg15/)
+- [Oriane D](https://github.com/oriane212)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
