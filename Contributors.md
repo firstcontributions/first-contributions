@@ -16163,6 +16163,7 @@ Mário Baltazar
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
+- [José M. Martínez](https://github.com/toolson12)
 - [Chuk Robertson](https://github.com/chukrobertson)
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [Vishnu Sharma](https://github.com/vish198910)
