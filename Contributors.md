@@ -1185,6 +1185,7 @@ Stephan Sharpe
 - [Joe Pell](https://github.com/f1nesse13)
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
+- Sathyanarayanan
 - [Ahmed Lebba](https://github.com/Kungfoosian)
 - [Davis Raimon](https://github.com/davisraimon)
 - [Goh Wei Rong](https://github.com/Qooooo)
