@@ -37,6 +37,7 @@
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
+- [Joshua Abad](https://github.com/yeyoan)
 - [Hoe Hooi Yan](https://github.com/hoehooiyan)
 
 -[mbricco](https://github.com/mbricco)
