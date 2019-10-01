@@ -181,6 +181,7 @@ Hammad Qureshi
 - [Paul Ozyzniewski](https://github.com/OziOcb)
 - [Naman Jain] (https://github.com/namanj123in)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
+- [Niveditha B Bhat](https://github.com/NivedithaBBhat)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Boom Kularb](https://github.com/boomsquared)
 - [Binh Trinh](https://github.com/binhthaitrinh)
