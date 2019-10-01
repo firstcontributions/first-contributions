@@ -19,6 +19,7 @@
 - [bh-n-9]
 - [SaurabhChugh]
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
+- [Pentium1080Ti](https://github.com/Pentium1080Ti)
 - [Moinak Banerjee] (https://github.com/moinak878)
 - [MariaILopez] (https://github.com/milg15/)
 - [Sachith](https://github.com/sachith-1)
