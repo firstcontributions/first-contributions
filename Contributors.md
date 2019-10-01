@@ -16305,6 +16305,7 @@ Mário Baltazar
 - [Kunwar Ashutosh Singh](https://github.com/kunwar97)
 - [Royce Dy](https://github.com/rad182)
 - [Ashutosh Singh](https://github.com/lelouchB)
+- [Ted Chen] (https://github.com/CedThen)
 - [Undefind.me](https://github.com/rafe1486)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
 - [Satyajit Pradhan](https://github.com/satyajiit)
@@ -16329,3 +16330,4 @@ Mário Baltazar
 - [Michael Lore](https://github.com/michaellore/)
 - [Ruiyang Liu](https://github.com/ruiyangliu/)
 - [Cayo Rodrigues](https://github.com/cayorodrigues)
+
