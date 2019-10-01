@@ -4,6 +4,7 @@
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
+- [Ankit Srivastava](https://github.com/a18nov)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
