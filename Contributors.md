@@ -66,6 +66,7 @@
 - [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
+- [Adam Spindle](https://github.com/AdamSpindle)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 -.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
 - [Chris Yu](https://github.com/chrisayu321)
