@@ -7684,6 +7684,7 @@ Stephan Sharpe
 - [Max Paul](https://github.com/Max-Paul)
 - [Elliott Krohnke] (https://github.com/elliott1177)
 - [Dave Hurley](https://github.com/dmhurley)
+- [duongoku](https://github.com/duongoku)
 - [Utkarsh Dwivedi] (https://github.com/Cryptedknight)
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Junior Gantin](https://github.com/nioperas06)
