@@ -6583,6 +6583,7 @@ Stephan Sharpe
 - [Aman Sharma](https://github.com/algomaster99/)
 - [Tiago Pedutti](https://github.com/tiagopedutti)
 - [Corey Russ](https://github.com/cruss13)
+- [Duy Tong](https://github.com/duydosomething)
 - [Neutrix](https://github.com/NeuTrix)
 - [lennort123](https://github.com/lennort123)
 - [Nukeproof21](https://github.com/Nukeproof21)
