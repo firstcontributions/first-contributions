@@ -42,6 +42,7 @@
 - [Uneet Patel](https://github.com/Uneetpatel7)
 -[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
+- [q_wright]
 - [jannesrudnick](https://github.com/jannesrudnick)
 - [Eddenm]
 - [Phat Tran](https://github.com/PineyFutanaristic)
