@@ -11089,6 +11089,7 @@ Stephan Sharpe
 - [Zadjad R.](https://github.com/zjk758)
 - [Charles Oma](https://github.com/charlesoma)
 - [MaliciousWyvern (Ryan Armstrong)](https://github.com/MaliciousWyvern)
+- [Joseph Stefani](https://github.com/josephstefani08)
 - [Jorge Rodriguez](https://github.com/jorgeivvn)
 - [Tuguldur Bayarnyam](https://github.com/tuguscript)
 - [discimus-scientia](https://github.com/discimus-scientia)
