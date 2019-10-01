@@ -173,8 +173,8 @@ Now let's get you started with contributing to other projects. We've compiled a 
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
 
 ###First starts in ML and AI   
-   01> Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing.
-   02> KAGGLE is an online community of data scientists and machine learners .
+Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing.
+KAGGLE is an online community of data scientists and machine learners .
  
 ## Self-Promotion
 
