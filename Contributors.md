@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Katya Fadeeva](https://github.com/fadeeva)
@@ -15,6 +15,7 @@
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
 - [Uneet Patel](https://github.com/Uneetpatel7)
+-[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Maik Pleines] (https://github.com/mpleines)
