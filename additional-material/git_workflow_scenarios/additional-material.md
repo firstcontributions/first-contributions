@@ -1,6 +1,6 @@
 # Additional information
 
-We assume that you have already finished with the basic tutorial before coming here. The additional information will give you some information about advanced Git techniques.
+We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
@@ -31,7 +31,7 @@ This document provides information about how to resolve merge conflicts.
 > Take these steps to resolve the annoying merge conflicts.
 
 ### [Reverting a commit](reverting-a-commit.md)
-This document provides information about how to revert a commit on the remote repository. It comes in handy in case for when you need to undo a commit that has already been pushed to Github.
+This document provides information about how to revert a commit on the remote repository. It will come in handy in case you need to undo a commit that has already been pushed to Github.
 > Take these steps if you want to reverse a commit.
 
 ### [Squashing Commits](squashing-commits.md)
@@ -43,4 +43,4 @@ This document provides information about how to undo a commit on your local repo
 > Take these steps if you want to undo/reset a local commit.
 
 ### [Useful Links](Useful-links-for-further-learning.md)
-This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
+This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
