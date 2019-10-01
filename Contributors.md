@@ -17,6 +17,7 @@
 - [Uneet Patel](https://github.com/Uneetpatel7)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
+- [Kubon]
 - [Maik Pleines] (https://github.com/mpleines)
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
@@ -16200,3 +16201,4 @@ Mário Baltazar
 - [Undefind.me](https://github.com/rafe1486)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
 - [Satyajit Pradhan](https://github.com/satyajiit)
+
