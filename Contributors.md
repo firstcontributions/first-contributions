@@ -3669,6 +3669,7 @@ Stephan Sharpe
 - [Jacob Higbee](https://github.com/JacobHigbee)
 - [kenhamthescienceguy](https://github.com/kenhamthescienceguy)
 - [rozenstraws](https://github.com/rozenstraws)
+- [Akash Jain](https://github.com/akash19jain)
 - [Kevin Johnston](https://github.com/kevdotdev)
 - [shreyansh](https://github.com/shreyansh08)
 - [Samuel Gebrehiwet](https://github.com/samuelbruk)
