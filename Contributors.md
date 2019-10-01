@@ -40,6 +40,7 @@
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
 - [Gopikrishnan R] (https://github.com/gopikrishnanrmg)
+- [Shivansh] (https://github.com/narayanshivansh49)
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
