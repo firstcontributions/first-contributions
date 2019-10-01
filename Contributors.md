@@ -11072,6 +11072,7 @@ Stephan Sharpe
 - [Jakub Sosnovec](https://github.com/EpicDeas)
 - aVideogamer
 - [Karthick Sahadevan](https://github.com/karthick121)
+- [Faiz](https://github.com/faizaaulia)
 - [Eli Eliyahu](https://github.com/the-profi)
 - [Nick Mistretta](https://github.com/nickmistretta9)
 - [Michael Emmons](https://github.com/memmo01)
