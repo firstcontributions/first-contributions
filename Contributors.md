@@ -3044,6 +3044,7 @@ Stephan Sharpe
 - [Lowell Basco](https://github.com/lowellbasco)
 - [Jason Rash](http://github.com/JasonMRash)
 - Napoleon Hill
+- ozfiddler
 - Lisa Chesson
 - Mark Elishaev
 - [Jorge Diaz](https://github.com/gicadiaz)
