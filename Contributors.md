@@ -663,6 +663,7 @@ Haris Siddiqui
 - [rdollent](https://github.com/rdollent)
 - Maeve Fitzgerald
 - Ragui Halim (https://github.com/Ragui)
+- Kiran Akadas (https://github.com/KiranAkadas)
 - Raegan Bryant
 - Bradley Gray-hall
 - Robert Chun
