@@ -16156,3 +16156,4 @@ Mário Baltazar
 - [Rugved](https://github.com/rugved)
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
+- [Syafrizal](https://github.com/ikaru19)
