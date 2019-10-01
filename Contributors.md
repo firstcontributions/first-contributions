@@ -16197,3 +16197,4 @@ Mário Baltazar
 - [Ashutosh Singh](https://github.com/lelouchB)
 - [Undefind.me](https://github.com/rafe1486)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
+- [mago](https://github.com/themangomago)
