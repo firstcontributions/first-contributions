@@ -11,7 +11,7 @@
 - [aiden](https://github.com/acdlbs)
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
-- [Tanvi](http://github.com/tanvibattu)
+- [Tanvi Battu](http://github.com/tanvibattu)
 - [Badri.SR] (https://github.com/badri001)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
