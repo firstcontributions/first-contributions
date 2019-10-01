@@ -47,6 +47,7 @@
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
+- [Brian Myburgh](https://github.com/brianmyburgh)
 - [Aditya Vikram](https://github.com/avikram553)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
