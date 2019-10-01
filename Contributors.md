@@ -12,6 +12,7 @@
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Verdax97](https://github.com/Verdax97)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
