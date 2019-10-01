@@ -1601,6 +1601,7 @@ Stephan Sharpe
 - [James Felix](https://github.com/JavaJames93)
 - [Lokesh Kedi](https://github.com/lokesh1agarwal)
 - [Dale Holstein](https://github.com/zarnerz)
+- [Aryan Raj] (https://github.com/aryraj)
 - David An
 - Alice Always
 - aish
