@@ -50,6 +50,7 @@
 - [sigmund](https://siggymc.deviantart.com)
 - [q_wright]
 - [jannesrudnick](https://github.com/jannesrudnick)
+- [Danny Thompson](https://github.com/dannythompson901)
 - [Eddenm]
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
