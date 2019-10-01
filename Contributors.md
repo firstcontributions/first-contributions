@@ -183,6 +183,7 @@ Dhanish Ashraf
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
 - [Samith Basnayaka](https://github.com/SamithDB)
+- [Akshit Goyal](https://github.com/akshit15013)
 - [Gowri Rajasekaran](https://github.com/gowrimanoharir)
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
