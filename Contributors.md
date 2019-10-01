@@ -14560,6 +14560,7 @@ Stephan Sharpe
 - [James McMillan](https://github.com/jMac029)
 - [Fernando Silva](https://github.com/fernandodebrando)
 - [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)
+- [Jhonatan Ocampo Arias](https://github.com/jhonatanoc96)
 - [Sarah Chaisson](https://github.com/schaisso)
 - [Ashi Joshi](http://github.com/AshiJoshi)
 - [Guillaume Monzerol](https://github.com/gmonz36)
