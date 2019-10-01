@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
@@ -10,6 +10,7 @@
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [priya]
+- [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [Anuj Singh](https://github.com/myselfanuj)
@@ -18,6 +19,7 @@
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
 - [Uneet Patel](https://github.com/Uneetpatel7)
+-[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Maik Pleines] (https://github.com/mpleines)
@@ -16227,4 +16229,4 @@ Mário Baltazar
 - [Dmitry Xeon](https://github.com/magnoom)
 - [Akhid Yanuar A.F](https://github.com/yanuarakhid)
 - [Sherri Wheeler](https://github.com/syntaxseed)
-
+- [Adarsh Singh](https://github.com/aotrlotr)
