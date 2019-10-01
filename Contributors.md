@@ -16102,4 +16102,5 @@ Mário Baltazar
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
+- [Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)
 - [Vishwanath Joshi](https://github.com/vishnitin)
