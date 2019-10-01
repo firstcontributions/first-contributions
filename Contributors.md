@@ -16214,3 +16214,4 @@ Mário Baltazar
 - [EwaDoniec](https://github.com/EwaDoniec)
 - [Wadie](https://github.com/wadie)
 - [Dmitry Xeon](https://github.com/magnoom)
+- [Emil Nakao](https://github.com/emilnakao)
