@@ -170,6 +170,7 @@ Hammad Qureshi
 - [Sau Kamat](https://github.com/saikamat)
 - [Alejandro Rojas](https://github.com/Xarasho)
 - [Martin Shields](https://github.com/marty-shields)
+- [Anurag Natoo](https://github.com/anuragnatoo)
 - [Szaszko David](https://github.com/Szeszkoo)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
