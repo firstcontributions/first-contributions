@@ -39,6 +39,7 @@
 - [Chris Yu](https://github.com/chrisayu321)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [Stacy Holtz] (https://github.com/stacyholtz6)
+- [Mitarth Jain] (https://github.com/mitarthjain)
 - [Vincenzo Vipond] (https://github.com/Angadeon)
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Ramanujam Gond](https://github.com/ramanujamgond)
