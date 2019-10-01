@@ -4526,7 +4526,6 @@ Stephan Sharpe
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Ekansh Gupta](https://github.com/Ekansh-01)
 - [Michael Kaskun](https://github.com/QwerMike)
-- [Francesco Cartier](https://github.com/cartinez)
 - Bhabani
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
@@ -4617,6 +4616,7 @@ Stephan Sharpe
 - [Lucas Santos](https://github.com/khaosdoctor)
 - [Jaeheon Shim](https://github.com/jaeheonshim)
 - [Mikolaj Piechocki](https://github.com/mpiechocki)
+- [Francesco Cartier](https://github.com/cartinez)
 - [Ludvigch](https://github.com/ludvigch)
 - [Byren Higgin](https://github.com/byrenhiggin)
 - [Tuna Akyurek](https://github.com/akyurektuna)
