@@ -32,6 +32,7 @@
 -[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
+- [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
 - [Gopikrishnan R] (https://github.com/gopikrishnanrmg)
 - [Rayan Avelino](https://github.com/RayanXY)
@@ -552,6 +553,7 @@ Nishtha3512
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
 - Stefanie Muroya
+- Mary Heng
 - caligula5
 - [Dakota Lee Miller](https://github.com/DakotaLeeMiller)
 - [Zak Williams](https://github.com/ZeeEssDoubleU)
@@ -2434,6 +2436,7 @@ Stephan Sharpe
 - Beirut
 - Tarun Sharma
 - [Justin Madden](https://github.com/ellidin1)
+- [Arjun Singh](https://github.com/arjunbangari)
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [pradeep kumar](https://github.com/pradeepA2125)
@@ -12615,6 +12618,7 @@ Stephan Sharpe
 - [thearunster](https://github.com/thearunster)
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Jeffy](https://github.com/jeffysam6)
+- [Jeremy Mitchell](https://github.com/Jeremy-Mitchell89)
 - [Liran Mery](https://github.com/liranm)
 - [hillariee](https://github.com/hillariee)
 - [Steve Core](https:github.com/CorattiS86)
@@ -16258,4 +16262,5 @@ Mário Baltazar
 - [leprecha1](https://github.com/leprecha1)
 - [vikky12345](https://github.com/vikky12345)
 - [jissi](https://github.com/ji3427)
+- [a.m](https://github.com/amerre)
 - [ariffebr](https://github.com/ariffebr)
