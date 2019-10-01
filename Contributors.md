@@ -16120,6 +16120,7 @@ Mário Baltazar
 - [mscorzoni]
 - [ZanderBE](https://github.com/ZanderBE)
 - [malworks](https://github.com/malworks/)
+- [Gouty] (https://github.com/Gouty)
 - [samhauer](https://github.com/samhauer)
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
