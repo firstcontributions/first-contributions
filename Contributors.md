@@ -11505,6 +11505,7 @@ Stephan Sharpe
 - [Irving Delgado](https://github.com/irving2delgado)
 - [Vulchi Vijaya Kumar](https://github.com/vulchivijayakumar)
 - [Patrick Peters](https://github.com/ppeters0502)
+- [Davi Cardoso](https://github.com/daviccardoso)
 - [Colten Webb](https://github.com/coltenwebb)
 - [Jan Miksik](https://github.com/jan-miksik)
 - [Miriam Crowley](https://github.com/msperlgirl)
