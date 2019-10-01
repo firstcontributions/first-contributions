@@ -11776,6 +11776,7 @@ Bailey Wong
 - [Ankur](https://github.com/Ankurk99)
 - [Limberger](https://github.com/Limberger)
 - [Poh Ti](https://github.com/pohti)
+- [Fardin Shaik](https://github.com/IAMWILLROCK)
 - [Simon](https://github.com/Simon2828/)
 - [Tjarpsp](https://github.com/tjarpsp)
 - [AzinT](https://github.com/AzinT)
