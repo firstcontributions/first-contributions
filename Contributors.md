@@ -34,6 +34,7 @@
 - [Uneet Patel](https://github.com/Uneetpatel7)
 -[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
+- [jannesrudnick](https://github.com/jannesrudnick)
 - [Eddenm]
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
