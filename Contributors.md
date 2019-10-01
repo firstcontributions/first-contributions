@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Dhairya Patel](https://github.com/dhairya0704)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [azamat] (https://github.com/tikenov)
@@ -190,6 +191,7 @@ Hammad Qureshi
 - [Naman Jain] (https://github.com/namanj123in)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 - [Kusal Priyanka Perera](https://github.com/KusalPriyanka)
+- [Yuvin Nimnaka Perera](https://github.com/YuvinNP)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Boom Kularb](https://github.com/boomsquared)
 - [Binh Trinh](https://github.com/binhthaitrinh)
@@ -16182,3 +16184,4 @@ Mário Baltazar
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
 - [Kunwar Ashutosh Singh](https://github.com/kunwar97)
+- [Royce Dy](https://github.com/rad182)
