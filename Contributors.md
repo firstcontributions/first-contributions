@@ -28,6 +28,7 @@
 - [Chris Yu](https://github.com/chrisayu321)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [Stacy Holtz] (https://github.com/stacyholtz6)
+- [Vincenzo Vipond] (https://github.com/Angadeon)
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Ramanujam Gond](https://github.com/ramanujamgond)
 - [Jhon Rocha](https://github.com/jhonrocha)
@@ -185,6 +186,7 @@ Hammad Qureshi
 - [joern89](https://github.com/joern89/)
 - [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
+- [vemu](https://github.com/xVemu)
 - [Zygimantas Baltutis](https://github.com/stambus)
 - [Courtenay Wakil](https://github.com/cwakil17)
 - [Rasul Kireev](https://rasulkireev.com)
@@ -16197,3 +16199,4 @@ Mário Baltazar
 - [Ashutosh Singh](https://github.com/lelouchB)
 - [Undefind.me](https://github.com/rafe1486)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
+- [Satyajit Pradhan](https://github.com/satyajiit)
