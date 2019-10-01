@@ -16,7 +16,6 @@
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
-- [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
 - [bh-n-9]
 - [SaurabhChugh]
@@ -40,6 +39,7 @@
 - [sigmund](https://siggymc.deviantart.com)
 - [jannesrudnick](https://github.com/jannesrudnick)
 - [Eddenm]
+- [smnsprnskt](https://github.com/smnsprnskt)
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
 - [Gopikrishnan R] (https://github.com/gopikrishnanrmg)
@@ -16303,4 +16303,3 @@ Mário Baltazar
 - [R.Kling](https://github.com//bugfi5h)
 - [pikadev](https://github.com/pikadev)
 - [Saswata Mukherjee](https://github.com/saswatamcode)
-- [Nitin Sharma](https://github.com/huntlax) 
