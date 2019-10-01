@@ -17,6 +17,7 @@
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Rayan Avelino](https://github.com/RayanXY)
+- [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Claudia Vargas] (https://github.com/claucvk)
 - [Rizky Agung] (https://github.com/scrowten)
