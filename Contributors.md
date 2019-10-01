@@ -1497,6 +1497,7 @@ Stephan Sharpe
 - [Vishal Bahedia](https://github.com/vishalvb)
 - [Yu Wang](https://github.com/ywang412)
 - [Felix Sundqvist](https://github.com/FelixSundqvist/)
+- [Aishwary Shukla](https://github.com/AishTron7)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Val Lipat](https://github.com/vlipatdev)
 - Karen Galvez (https://github.com/kygalvez)
