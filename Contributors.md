@@ -163,6 +163,7 @@ Tasha Penwell
 - [Grant Hihn](https://github.com/nordiCode)
 - [Brinton Johnson](https://github.com/korg808)
 - [Miroslav Chabrecek](https://github.com/MiroslavCha)
+- [Akshit Goyal](https://github.com/akshit15013)
 - [Jithesh Ramesh](https://github.com/mrjithesh)
 - [Aishwarya Bansal](https://github.com/aish51197)
 - [Akshay Jain](https://github.com/aksJain0)
