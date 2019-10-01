@@ -2436,6 +2436,7 @@ Stephan Sharpe
 - Beirut
 - Tarun Sharma
 - [Justin Madden](https://github.com/ellidin1)
+- [Arjun Singh](https://github.com/arjunbangari)
 - [Adeel Zafar](https://github.com/iadeelzafar)
 - [Mateusz Wachowicz](https://github.com/najMaseu)
 - [pradeep kumar](https://github.com/pradeepA2125)
