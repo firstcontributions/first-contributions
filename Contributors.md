@@ -1767,6 +1767,7 @@ Stephan Sharpe
 - [Razvan Sandu](https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
 - [Mahesh Sunuwar](https://github.com/pmsuntuwarg)
+- [ModuleLoop](https://github.com/moduleloop)
 - [Jatin Varlyani](https://github.com/Jatin-8898)
 - [Kelly Finnerty](https://github.com/kellyfinnerty)
 - [Mark Harris](https://github.com/trickfest)
