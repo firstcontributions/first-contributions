@@ -2644,7 +2644,7 @@ Stephan Sharpe
 - [Matthew Proudman](https://github.com/MechaCoder)
 - [David Tamas-Parris](https://github.com/davidtp19)
 - [Chinu Lee](https://github.com/alelee)
-- [Javier Velez](https://github.com/jvelezx)
+- [Jim Mitsos](https://github.com/jimmitsos)- [Javier Velez](https://github.com/jvelezx)
 - Shivansh Darshan
 - Dev S
 - Simon
