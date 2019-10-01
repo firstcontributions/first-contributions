@@ -16,6 +16,8 @@ Apabila belum memiliki git, [ install segera ]( https://help.github.com/articles
 
 ## Fork repositori ini
 
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+
 Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
 Hal tersebut akan membuat salinan repositori ini di akun anda.
 
