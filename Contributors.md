@@ -5914,6 +5914,7 @@ Stephan Sharpe
 - Kashish Khullar - :P
 - Harish Indla
 - [John D'Uva](https://github.com/johnduva)
+- [Shivangi Srivastava](https://github.com/shivangisrivastava0408)
 - [Mehtaab singh](https://github.com/mehtabhazra1998)
 - [Jonn Louie Lim](https://github.com/Nojj02)
 - [Bhathiya Anuradha](https://github.com/bhathiya-anuradha)
