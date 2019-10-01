@@ -20,6 +20,7 @@
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
+- [Vrashi Shrivastsva](https://github.com/vrashi)
 - [Mohammad Aziz](https://github.com/iAziz786)
 Alvin
 - [Argyris Varalis](https://github.com/avaralis)
