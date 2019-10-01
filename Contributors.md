@@ -12615,6 +12615,7 @@ Stephan Sharpe
 - [thearunster](https://github.com/thearunster)
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Jeffy](https://github.com/jeffysam6)
+- [Jeremy Mitchell](https://github.com/Jeremy-Mitchell89)
 - [Liran Mery](https://github.com/liranm)
 - [hillariee](https://github.com/hillariee)
 - [Steve Core](https:github.com/CorattiS86)
@@ -16258,4 +16259,5 @@ Mário Baltazar
 - [leprecha1](https://github.com/leprecha1)
 - [vikky12345](https://github.com/vikky12345)
 - [jissi](https://github.com/ji3427)
+- [a.m](https://github.com/amerre)
 - [ariffebr](https://github.com/ariffebr)
