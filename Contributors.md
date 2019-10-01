@@ -16080,6 +16080,7 @@ Mário Baltazar
 - [Evan Bruchet](https://github.com/EBruchet)
 - [mskaprushchenko](https://github.com/mskarpushchenko)
 - [Ray Rojas](https://github.com/lokcito)
+- [Lucas Bergmann](https://github.com/bergmannlucas)
 - [Janine Prukop](https://github.com/JaninePrukop)
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
