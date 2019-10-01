@@ -3130,6 +3130,7 @@ Stephan Sharpe
 - [Gavriel Loria](https://github.com/gavrieltal)
 - John Kazantzis
 - Sepideh
+- [Priyansh Garg](https://github.com/garg3133)
 - [sitauros](https://github.com/sitauros)
 - [Andre Silva](https://github.com/anbrsi)
 - Lucas
