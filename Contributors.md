@@ -5307,7 +5307,8 @@ Stephan Sharpe
 - [Craig Baldry](https://github.com/CraigBaldry)
 - [Seongil Lee](https://github.com/modolee)
 - [Braelyn Rotman](https://github.com/braelynr)
-- [Joshua Manuel](https://github.com/JoshuaManuel)
+- [Joshua Manuel]
+(https://github.com/JoshuaManuel)
 - [Chris Baumler](https://github.com/cbaumler)
 - [Alvin Ho](https://github.com/cureja)
 - [Christian Coan](https://github.com/christiancoan)
@@ -5330,7 +5331,10 @@ Stephan Sharpe
 - [Zakaria Talhami](https://github.com/ZakariaTalhami)
 - [James Featherstone](https://github.com/jfeathe)
 - [Utkarsh Agrawal](https://github.com/utkarsh-42)
-- [Hrishit Prasad Biswas](https://github.com/Artistic18)
+- [Hrishit Prasad Biswas]
+(https://github.com/Joshua-Page)
+- [Joshua Page]
+(https://github.com/Artistic18)
 - [Hemanath Swaminathan](https://github.com/HemanathSwaminathan)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
