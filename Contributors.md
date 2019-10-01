@@ -9148,6 +9148,7 @@ Stephan Sharpe
 - [Pankti Majmudar](https://github.com/pankti-m)
 - [Shruthi Raju](https://github.com/shruthiiraju)
 - [Egon Malfroy](https://github.com/malfroyegon)
+- [David Kiss](https://github.com/xdavidkissx)
 - [Sabba](https://notactualgitrepo.io)
 - [Karan Nehra](https://github.com/karanehra)
 - [Patrick Hopkins](https://github.com/patrickdhopkins)
