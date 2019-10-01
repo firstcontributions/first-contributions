@@ -16226,3 +16226,5 @@ Mário Baltazar
 - [Wadie](https://github.com/wadie)
 - [Dmitry Xeon](https://github.com/magnoom)
 - [Akhid Yanuar A.F](https://github.com/yanuarakhid)
+- [Sherri Wheeler](https://github.com/syntaxseed)
+
