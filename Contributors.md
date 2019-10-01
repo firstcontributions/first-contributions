@@ -349,6 +349,7 @@ Haris Siddiqui
 - Steefan Raveenthiran
   [Soumyajit Deb]
 - [Priyankar Roy , Worlds Biggest loser](https://github.com/Flamer17)
+- [Ishitha Agarwal ](https://github.com/ishi20)
 - [Joe Caraballo](https://github.com/Caraballo114)
 - [Leo Schleier](https://github.com/ll30n4rd0)
 - [Thomas Blanchard](https://github.com/a456bt)
