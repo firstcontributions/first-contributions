@@ -1,5 +1,4 @@
 ﻿# Contributors
-
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
@@ -12,6 +11,7 @@
 - [priya]
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
+- [Vikas Kumar](https://github.com/VikasPandey121)
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
