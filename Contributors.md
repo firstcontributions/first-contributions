@@ -17,6 +17,7 @@
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [Anuj Singh](https://github.com/myselfanuj)
 - [sevonefive]
+- [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
