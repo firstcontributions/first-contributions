@@ -1,6 +1,7 @@
 # Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
+- [Shivam Kumar Singh](https://github.com/shivam-51)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
