@@ -21,6 +21,7 @@
 - [Anna-Sofia]
 - [bh-n-9]
 - [SaurabhChugh]
+- [zkhan12](https://github.com/zkhan12)
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
 - [Pentium1080Ti](https://github.com/Pentium1080Ti)
 - [Moinak Banerjee] (https://github.com/moinak878)
