@@ -1,6 +1,7 @@
 # Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
+- [Apoorv Srivastava](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
