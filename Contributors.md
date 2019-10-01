@@ -7,6 +7,7 @@
 - [Katya Fadeeva](https://github.com/fadeeva)
 -[km-js]
 - [Shivam Kumar Singh](https://github.com/shivam-51)
+- [Josh Javier](https://github.com/joshjavier)
 - [Ankit Srivastava](https://github.com/a18nov)
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
 - [azamat] (https://github.com/tikenov)
