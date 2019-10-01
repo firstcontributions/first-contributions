@@ -8657,6 +8657,7 @@ Stephan Sharpe
 - [Puugu](https://github.com/Puugu)
 - [Purbo](https://github.com/purbohadi)
 - [Robert Wadley](https://github.com/Scarycrumb45)
+- [Javier Peral](https://github.com/Juners)
 - [Mat Sac](https://github.com/matsac)
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
