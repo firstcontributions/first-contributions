@@ -16104,6 +16104,7 @@ Mário Baltazar
 - [Susan Maas](https://github.com/susanmaas)
 - [Ronnie](https://github.com/ro2nie)
 - [Orachun]
+- [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
