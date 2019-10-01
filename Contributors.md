@@ -201,6 +201,7 @@ Hammad Qureshi
 - [Jack Bicknell](https://github.com/jackbicknell14)
 - [Ritter Gustave](https://github.com/rGustave07)
 - [Hyun Chung](https://github.com/hkchung99)
+- [Sebastian Penttinen](https://github.com/sebastianpenttinen)
 - [Rajitha Warusavitarana](https://github.com/rajitha1998)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
