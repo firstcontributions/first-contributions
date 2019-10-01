@@ -12,6 +12,7 @@
 - [priya]
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
+- [Anuj Singh](https://github.com/myselfanuj)
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
