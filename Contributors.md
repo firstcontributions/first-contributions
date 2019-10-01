@@ -11,6 +11,7 @@
 - [aiden](https://github.com/acdlbs)
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
+- [Badri.SR] (https://github.com/badri001)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
@@ -61,6 +62,7 @@
 - [wwintermute](https://github.com/wwintermute)
 - [ykhade](https://github.com/ykhade)
 - [cricri777](https://github.com/cricri777)
+- [Pablo WBK](https://github.com/pablowbk) 
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [Kyle Knickerbocker](https://github.com/ckylek)
@@ -316,6 +318,7 @@ Haris Siddiqui
 - Devraj Singh Shekhawat
 - Zeinab
 - Cate
+- BA9
 - Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
 - AniketMagadum (https://github.com/AniketMagadum)
@@ -12612,6 +12615,7 @@ Stephan Sharpe
 - [thearunster](https://github.com/thearunster)
 - [gfalbarracinr](https://github.com/gfalbarracinr)
 - [Jeffy](https://github.com/jeffysam6)
+- [Jeremy Mitchell](https://github.com/Jeremy-Mitchell89)
 - [Liran Mery](https://github.com/liranm)
 - [hillariee](https://github.com/hillariee)
 - [Steve Core](https:github.com/CorattiS86)
@@ -16255,3 +16259,4 @@ Mário Baltazar
 - [leprecha1](https://github.com/leprecha1)
 - [vikky12345](https://github.com/vikky12345)
 - [jissi](https://github.com/ji3427)
+- [a.m](https://github.com/amerre)
