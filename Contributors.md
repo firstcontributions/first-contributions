@@ -6,8 +6,8 @@
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
-- [Akshatha Laxmi] (https://github.com/alastairmoody-madeye)
-- [Shivani Bisht] (https://github.com/BishtShivani)
+- [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
+- [Shivani Bisht](https://github.com/BishtShivani)
 - [priya]
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
