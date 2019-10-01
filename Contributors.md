@@ -11402,6 +11402,7 @@ Stephan Sharpe
 - [Follow Jack](https://github.com/followjack)
 - [Ricardo Martins](https://github.com/fmmricardo)
 - [Kevin Lim](https://github.com/kevinklim)
+- [faizaaulia](https://gitlab.com/faizaaulia)
 - [Miroslav Grozdanovski](https://github.com/MiroslavGrozdanovski)
 - [Ramana Sonti](https://github.com/sontivr)
 - [Ronan Souza](https://github.com/RonnanSouza)
