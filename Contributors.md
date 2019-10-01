@@ -8298,6 +8298,7 @@ Stephan Sharpe
 - [Gabriel Arruda](https://github.com/gabrieldi95)
 - [Don Krause](https://github.com/dkrausea)
 - [Yern Yee](https://github.com/YernYee)
+- [Wei Hao](https://github.com/WeiHao)
 - [Min Hoo Lee](https://github.com/minhoolee)
 - [Matic Zavadlal](https://github.com/maticzav)
 - [Nate Denys](https://github.com/ndenys650)
