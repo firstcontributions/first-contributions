@@ -24,6 +24,7 @@
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Claudia Vargas] (https://github.com/claucvk)
+- [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
