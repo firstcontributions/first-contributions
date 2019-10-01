@@ -509,6 +509,7 @@
 - [Nicholas Meschke](https://github.com/Nixsm)
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [WeiChiaChang](https://github.com/WeiChiaChang/)
+- [Mintoo Kumar](https://github.com/mintoo511)
 - [Yasha Singh](https://github.com/yashasingh)
 - [Desiderio Martinez](https://github.com/siderio2)
 - [Rishabh kr bothra](https://github.com/geekychaser)
