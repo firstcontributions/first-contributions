@@ -261,6 +261,7 @@ Hammad Qureshi
 - [Courtenay Wakil](https://github.com/cwakil17)
 - [Rasul Kireev](https://rasulkireev.com)
 - [Erik Mueller] ErikDMueller.com
+- [Karthikeya Remilla]
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Paul Ozyzniewski](https://github.com/OziOcb)
 - [Naman Jain] (https://github.com/namanj123in)
