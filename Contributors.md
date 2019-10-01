@@ -17,6 +17,7 @@
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Claudia Vargas] (https://github.com/claucvk)
+- [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 - [Chris Yu](https://github.com/chrisayu321)
