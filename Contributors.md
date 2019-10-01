@@ -26,6 +26,7 @@
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Aditya Vikram](https://github.com/avikram553)
+- [Ekin Eren](https://github.com/EkinEren)
 - [Claudia Vargas] (https://github.com/claucvk)
 - [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
