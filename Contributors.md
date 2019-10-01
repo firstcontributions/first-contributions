@@ -75,6 +75,7 @@
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
 - [Eugen Volosciuc](https://github.com/EugenVolosciuc)
+- [babywashbear]
 - [Jerome Biggins] (https://github.com/romeyb76)
 - [Adrian Kristanto](https://github.com/adriankristanto)
 - [Shubham Sharma](https://github.com/sharmajsr)
