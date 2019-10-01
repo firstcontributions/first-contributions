@@ -16,6 +16,7 @@
 - [Uneet Patel](https://github.com/Uneetpatel7)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
+- [Maik Pleines] (https://github.com/mpleines)
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Claudia Vargas] (https://github.com/claucvk)
