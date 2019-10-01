@@ -12,7 +12,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
+If you don't have Visual Studio Code on your machine, [Install it](https://code.visualstudio.com/download).
 
 **Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
 
@@ -20,11 +20,11 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
+Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
-GitHub keeps track of the relationship between your repo and the one you have forked it from.  You can think of your repo as a working copy.
+GitHub keeps track of the relationship between your repo and the one you have forked it from.You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes,they will be merged and you will gain instant fame and fortune!  More on how to do that later.
 
 ## Clone your repository
 
