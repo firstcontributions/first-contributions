@@ -250,6 +250,7 @@ Hammad Qureshi
 - [Luke Barry] (https://github.com/lukelbarry06)
 - [Nikhil Nelson] (http://https://github.com/nike47)
 - [Nilesh Patel](https://github.com/NileshSP)
+- [Bao Nguyen](https://github.com/baonguyen1320)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
