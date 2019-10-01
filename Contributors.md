@@ -11,6 +11,7 @@
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [sevonefive]
+- [fida021](https://github.com/fida021)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
