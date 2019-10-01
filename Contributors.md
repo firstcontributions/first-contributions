@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dhairya Patel](https://github.com/dhairya0704)
@@ -16248,6 +16248,7 @@ Mário Baltazar
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
 - [Rugved](https://github.com/rugved)
+- [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
