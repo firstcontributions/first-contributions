@@ -5373,6 +5373,7 @@ Stephan Sharpe
 - [Avery Biskup](https://github.com/averybiskup)
 - [Ron Laniado](https://github.com/ronlaniado)
 - [Mahesh Bhat](https://github.com/maheshbhat)
+- [Zita DePetris](https://github.com/zdepetris)
 - [Akarshit sharma](https://github.com/akarshitsharma)
 - [Akshat](https://github.com/chotuaashiq)
 - [Akhil Jasrotia](https://github.com/akhiljasrotia)
