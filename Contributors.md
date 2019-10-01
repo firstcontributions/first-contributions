@@ -4130,6 +4130,7 @@ Stephan Sharpe
 - [Gav Hanna](https://github.com/gavhanna)
 - [Will Costello](https://github.com/wgcostello)
 - [Thierry Wong](https://github.com/spookynutz)
+- [Rob Bruce](https://github.com/thevdude)
 - [Christian Becker](https://github.com/Mikrotherion)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Hossein Nedaee](https://github.com/hosseinnedaee)
