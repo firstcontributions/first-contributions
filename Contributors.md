@@ -28,6 +28,7 @@
 - [Amwalul Ikhsani] (https://github.com/amwalul)
 - [Matt Jordan]
 - [diproIV]
+- [Akshit Goyal](https://github.com/akshit15013)
 - [jlly](https://github.com/tcjill)
 - [Pushkar](https://github.com/linton-dawson)
 - [DSdatsme](https://github.com/DSdatsme)
