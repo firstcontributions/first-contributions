@@ -1,15 +1,18 @@
-﻿# Contributors
+# Contributors
 
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
+- [Ankit Srivastava](https://github.com/a18nov)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
+- [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [Anuj Singh](https://github.com/myselfanuj)
@@ -18,6 +21,7 @@
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
 - [Uneet Patel](https://github.com/Uneetpatel7)
+-[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Maik Pleines] (https://github.com/mpleines)
@@ -55,7 +59,7 @@
 - [Askat Bakyev](https://github.com/askat08)
 - [Joshua Abad](https://github.com/yeyoan)
 - [Hoe Hooi Yan](https://github.com/hoehooiyan)
-
+-[Babi Nick](https://github.com/BabiNick)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
@@ -311,6 +315,7 @@ Haris Siddiqui
 - Alexander
 - Shahi
 - Rhonin
+- Gursimar Saini
 - [Soumyajit Deb](https://github.com/Maxz2136)
 - [Puneet Aggarwal](https://github.com/puneet222)
 - Mohit Rathor
@@ -16109,7 +16114,7 @@ Mário Baltazar
 - [Ola Frankowska](https://github.com/ofrankowska)
 - [Narongrit Unwerawattana](https://github.com/kicito)
 - [Furkan K.](https://github.com/mfurkankara)
-- [Wes Roberson] (https://github.com/wesrob21)
+- [Wes Roberson](https://github.com/wesrob21)
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
@@ -16129,6 +16134,7 @@ Mário Baltazar
 - [mscorzoni]
 - [ZanderBE](https://github.com/ZanderBE)
 - [malworks](https://github.com/malworks/)
+- [Gouty] (https://github.com/Gouty)
 - [samhauer](https://github.com/samhauer)
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
@@ -16224,3 +16230,6 @@ Mário Baltazar
 - [Wadie](https://github.com/wadie)
 - [Dmitry Xeon](https://github.com/magnoom)
 - [Craig Raw](https://github.com/craigraw)
+- [Akhid Yanuar A.F](https://github.com/yanuarakhid)
+- [Adarsh Singh](https://github.com/aotrlotr)
+- [immature-mono](https://github.com/immature-mono)
