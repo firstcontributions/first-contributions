@@ -277,6 +277,7 @@ Hammad Qureshi
 - [Malgo Mark]
 - [Boas Falke](https://github.com/bofalke)
 - [Chathura Gunasekara](https://github.com/cjgunase)
+- [Hi Haiu](https://github.com/hihaiu)
 - [Rahul Ranjan](https://github.com/workrahul22)
 - [Nam Hoang Nguyen] (https://github.com/namm12)
 - [Arsya Prasamya] (https://github.com/arsyaprasamya)
