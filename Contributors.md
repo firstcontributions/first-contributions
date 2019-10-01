@@ -16250,6 +16250,7 @@ Mário Baltazar
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
 - [Ronnie](https://github.com/ro2nie)
+- [Pedro Veríssimo](https://github.com/pbv2)
 - [Orachun]
 - [Chua Kaixin] (https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
