@@ -312,6 +312,7 @@ Haris Siddiqui
 - Sagi Levi
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
+- [Balazs Gogos](https://github.com/Bl4sio)
 - Ajit Singh (https://github.com/as-ajitsingh)
 - Manish Sanwle
 - [Sam Jin](https://github.com/sneasing)
