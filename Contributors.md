@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dhairya Patel](https://github.com/dhairya0704)
@@ -154,6 +154,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Jill Oestreicher] (https://github.com/jilloestreicher)
 -[Nitisha Singh](https://github.com/NitishaS-812k)
 - [Justin Kim](https://github.com/naznsan)
+- [Anniken Syvertsen](https://github.com/annikensyvertsen)
 - [Jonathan Sims](https://github.com/jds0062)
 - [learnskies](https://github.com/learnskies)
 - [Md azad khan](https://github.com/azad1221)
