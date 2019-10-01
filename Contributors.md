@@ -12,6 +12,8 @@
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [Vikas Kumar](https://github.com/VikasPandey121)
+- [Anuj Singh](https://github.com/myselfanuj)
+
 - [sevonefive]
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
@@ -23,7 +25,9 @@
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
+- [Aditya Vikram](https://github.com/avikram553)
 - [Claudia Vargas] (https://github.com/claucvk)
+- [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
@@ -62,6 +66,7 @@
 - [Long Pham](https://github.com/phaml2995)
 - [Tyson LaBree](https://github.com/labree0)
 - [Irfan Shaikh]
+-[Satyam]
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
@@ -1185,6 +1190,7 @@ Stephan Sharpe
 - [Joe Pell](https://github.com/f1nesse13)
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
+- Sathyanarayanan
 - [Ahmed Lebba](https://github.com/Kungfoosian)
 - [Davis Raimon](https://github.com/davisraimon)
 - [Goh Wei Rong](https://github.com/Qooooo)
