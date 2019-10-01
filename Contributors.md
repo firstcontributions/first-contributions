@@ -62,6 +62,7 @@
 - [Ramanujam Gond](https://github.com/ramanujamgond)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
+- [Eugen Volosciuc](https://github.com/EugenVolosciuc)
 - [Jerome Biggins] (https://github.com/romeyb76)
 - [Adrian Kristanto](https://github.com/adriankristanto)
 - [Shubham Sharma](https://github.com/sharmajsr)
