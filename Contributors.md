@@ -7,6 +7,7 @@
 - [Ankit Srivastava](https://github.com/a18nov)
 - [azamat] (https://github.com/tikenov)
 - [aiden](https://github.com/acdlbs)
+- [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
