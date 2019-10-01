@@ -174,6 +174,7 @@ Hammad Qureshi
 - [Claudiu Andrei](https://github.com/Swishyfishie)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
+- [Sesar Hersisson] (https://github.com/sessihers)
 - [dexetrous](https://github.com/deXetrous)
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Sau Kamat](https://github.com/saikamat)
