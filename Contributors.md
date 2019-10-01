@@ -20,6 +20,7 @@
 - [SaurabhChugh]
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
 - [Moinak Banerjee] (https://github.com/moinak878)
+- [MariaILopez] (https://github.com/milg15/)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
 - [Sakshi Sinha](https://github.com/RealRadOne)
