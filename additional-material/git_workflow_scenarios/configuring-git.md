@@ -49,6 +49,8 @@ $ git config user.email "you@alternate.com"
 $ git config user.name "Your Name"
 ```
 
+In case you misspelt something, you can always use `git config --global --edit` for global changes in your preferred editor, or omit the `--global`  to change the repository settings. 
+
 ### Command-line Config
 
 These type of configurations are scoped to the current command only. All git commands take `-c` arguments before the action verb to set temporary configuration data.
