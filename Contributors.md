@@ -38,6 +38,7 @@ JAYATI SHRIVASTAVA
 - [Anthony Pereira] (https://github.com/anfornee)
 - [Sid Hackney] (https//github.com/practicalmess)
 - [Ishiita Singh] (https://github.com/ishita20)
+- [Sana] (https://github.com/0sf)
 - [Helen Fong] (https://github.com/HelenFong)
 - [Kirito-k] (https://github.com/kirito-k)
 - [Krzysztof Pantak] (https://github.com/Kielx)
