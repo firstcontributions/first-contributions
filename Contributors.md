@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
@@ -12182,6 +12182,7 @@ Stephan Sharpe
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
 - [Raju Kalidindi](https://github.com/RajuKalidindi)
+- [Simon Poll](https://github.com/Moonstroke82)
 - Stole P
 - [Em Labor](https://github.com/emlabor)
 - [Kieran Ramnarine](https://github.com/DongerZone)
