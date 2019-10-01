@@ -8150,6 +8150,7 @@ Stephan Sharpe
 - [Santanaraj Esguerra](https://github.com/akiyamamio16)
 - [Michael Martin](https://github.com/mmartin1123)
 - [Sabiha Zulfiqar](https://github.com/SabihaZulfiqar)
+- [Harshith Reddy](https://github.com/scorpiocodes)
 - [Eric Ngu](https://github.com/ericngu)
 - [Kori Riddick] (https://github.com/IvySwing)
 - [Steve Wang](https://github.com/PureHyd)
