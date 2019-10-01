@@ -620,6 +620,7 @@ bilalsiraj
 - [Jared White](https://github.com/JaredWhiteOne)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
 - [Shivangi Agarwal](https://github.com/AShivangi)
+- [Vu Quoc Hoang](https://github.com/hoangvq288)
 - [Sangamesh S Biradar](https://github.com/sanga03/)
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
