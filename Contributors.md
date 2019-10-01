@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [azamat] (https://github.com/tikenov)
@@ -16152,5 +16152,6 @@ Mário Baltazar
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
 - [Rugved](https://github.com/rugved)
+- [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
