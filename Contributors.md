@@ -7363,7 +7363,6 @@ Stephan Sharpe
 - [Ankit Raturi](https://github.com/ankitraturi)
 - [Sarath S Menon](https://github.com/sarathsme)
 - [Akhil Achuthan](https://github.com/akhilachu01)
-- [Tanish Lad](https://github.com/destinyson7)
 - [Rony Cherian](https://github.com/phoe-nix-)
 - [whytej2](https://github.com/whytej2)
 - [Angad Gill](https://github.com/angadgill92)
@@ -16237,3 +16236,4 @@ Mário Baltazar
 - [Adarsh Singh](https://github.com/aotrlotr)
 - [immature-mono](https://github.com/immature-mono)
 - [traysercassa](https://github.com/traysercassa)
+- [Tanish Lad](https://github.com/destinyson7)
