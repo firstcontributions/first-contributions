@@ -10,6 +10,7 @@
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
+- [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
