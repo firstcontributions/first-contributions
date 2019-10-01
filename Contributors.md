@@ -160,6 +160,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
 - [Janeth Fernando](https://github.com/janethavi)
+- [Simon De Greve](https://github.com/Yoiro)
 - [Claudiu Andrei](https://github.com/Swishyfishie)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
