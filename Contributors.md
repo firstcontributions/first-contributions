@@ -7188,6 +7188,7 @@ Stephan Sharpe
 - [Alvin Chipmunk](https://github.com)
 - [FilWil](https://github.com/FilWil)
 - [Duncan White](https://github.com/2ontheriver)
+- [Juan Gutierrez](https://github.com/JRaiden16)
 - [Philip Mutua](https://github.com/pmutua)
 - [Juan Dougnac](http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
