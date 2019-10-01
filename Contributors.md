@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dhairya Patel](https://github.com/dhairya0704)
@@ -16,6 +16,7 @@
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Anna-Sofia]
 - [bh-n-9]
 - [SaurabhChugh]
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
