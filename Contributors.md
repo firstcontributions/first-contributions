@@ -186,6 +186,7 @@ Hammad Qureshi
 - [joern89](https://github.com/joern89/)
 - [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
+- [vemu](https://github.com/xVemu)
 - [Zygimantas Baltutis](https://github.com/stambus)
 - [Courtenay Wakil](https://github.com/cwakil17)
 - [Rasul Kireev](https://rasulkireev.com)
