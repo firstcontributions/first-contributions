@@ -104,6 +104,7 @@ Rajesh Verma
 - [Roger Perez](https://github.com/rogercodes1)
 - [Sarah](https://github.com/sarahxoxo)
 - [Ananya](https://github.com/aravipati)
+- [Adit Chanchal](https://github.com/aditchanchal)
 - [Anda Stoica](https://github.com/andadiana)
 - [Emily Hem](https://github.com/emilyhem)
 - [Priyam Kumar](https://github.com/priiyam)
