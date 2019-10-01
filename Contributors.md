@@ -24,6 +24,7 @@
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
 - [bh-n-9]
+- [Phillip Kent Knight](https://github.com/phillipknight)
 - [SaurabhChugh]
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [zkhan12](https://github.com/zkhan12)
