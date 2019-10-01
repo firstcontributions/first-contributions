@@ -11109,7 +11109,7 @@ Stephan Sharpe
 - [Faiz](https://github.com/faizaaulia)
 - [Eli Eliyahu](https://github.com/the-profi)
 - [Nick Mistretta](https://github.com/nickmistretta9)
-- [Dylan Redmond](https://github.com/redm0nd/)
+- [Dylan Redmond](https://github.com/redm0nd)
 - [Michael Emmons](https://github.com/memmo01)
 - [Sonny Pham](https://github.com/sonnytag123)
 - [d0ubs](https://github.com/d0ubs)
