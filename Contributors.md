@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Dhairya Patel](https://github.com/dhairya0704)
+- [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [azamat] (https://github.com/tikenov)
