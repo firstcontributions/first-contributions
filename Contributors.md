@@ -257,6 +257,7 @@ Hammad Qureshi
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
+- [Donovan G](https://github.com/DonoKun)
 - [Bailey Bruketta](https://github.com/BaileyBruketta)
 - [Mayank Goel](https://github.com/MayankGoel28)
 - [Kaushik Tunuguntla](https://github.com/kaushiktlk)
