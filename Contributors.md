@@ -418,6 +418,7 @@ Haris Siddiqui
 - [RobertLD](https://github.com/RobertLD)
 - [GreyhatLinux](https://github.com/greyhatlinux)
 - [Kean Ngo](https://github.com/keanngo)
+- [Jackson Elfers](https://github.com/jackson-elfers)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
 - [Steven Martinez] (https://github.com/stamarty)
