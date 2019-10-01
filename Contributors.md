@@ -16232,3 +16232,4 @@ Mário Baltazar
 - [Akhid Yanuar A.F](https://github.com/yanuarakhid)
 - [Adarsh Singh](https://github.com/aotrlotr)
 - [immature-mono](https://github.com/immature-mono)
+- [Vechus](https://github.com/Vechus)
