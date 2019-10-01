@@ -10125,6 +10125,7 @@ Stephan Sharpe
 - [Aditya Chandla](https://github.com/adityachandla)
 - [Michael Cornelius](https://github.com/BigFun76)
 - [Brandon welsh](https://github.com/brandonarmand)
+- [Jay Amano] (https://github.com/jayamano57)
 - [Animasaun M](https://github.com/manimasa)
 - [Jo?o Santos](https://github.com/skoyah)
 - [Suleman Bashir](https://github.com/sulemanbashir)
