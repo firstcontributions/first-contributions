@@ -16,10 +16,12 @@
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
 - [bh-n-9]
 - [SaurabhChugh]
+- [zkhan12](https://github.com/zkhan12)
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
 - [Pentium1080Ti](https://github.com/Pentium1080Ti)
 - [Moinak Banerjee] (https://github.com/moinak878)
@@ -32,6 +34,7 @@
 - [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
+- [Tim Windhorst] (https://github.com/atimw)
 - [Azuremis] (https://github.com/Azuremis)
 - [Salil Cuncoliencar](https://github.com/salilbc)
 - [Rithik](https://github.com/rithikmali)
@@ -47,6 +50,7 @@
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
+- [Brian Myburgh](https://github.com/brianmyburgh)
 - [Aditya Vikram](https://github.com/avikram553)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
@@ -65,6 +69,7 @@
 - [Anchen Huang] (https://github.com/mikeyqq)
 - [Ryan Judd] (https://github.com/rjdevs7)
 - [Ramanujam Gond](https://github.com/ramanujamgond)
+- [Ramesh Sah](https://github.com/rameshKrSah)
 - [Jhon Rocha](https://github.com/jhonrocha)
 - [AminooZ](https://github.com/AminooZ)
 - [Eugen Volosciuc](https://github.com/EugenVolosciuc)
@@ -386,6 +391,7 @@ Haris Siddiqui
 - [Lok Chan](https://github.com/0903lokchan)
 - [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
+- Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
 - [Jason MacDonald](https://github.com/Jason-MacDonald)
@@ -3127,6 +3133,7 @@ Stephan Sharpe
 - [Gavriel Loria](https://github.com/gavrieltal)
 - John Kazantzis
 - Sepideh
+- [Priyansh Garg](https://github.com/garg3133)
 - [sitauros](https://github.com/sitauros)
 - [Andre Silva](https://github.com/anbrsi)
 - Lucas
@@ -8650,6 +8657,7 @@ Stephan Sharpe
 - [Puugu](https://github.com/Puugu)
 - [Purbo](https://github.com/purbohadi)
 - [Robert Wadley](https://github.com/Scarycrumb45)
+- [Javier Peral](https://github.com/Juners)
 - [Mat Sac](https://github.com/matsac)
 - [Harish Venkatesan](https://github.com/harishv7)
 - [Maulik Rathod](https://github.com/maulikrathod)
@@ -16304,4 +16312,5 @@ Mário Baltazar
 - [pikadev](https://github.com/pikadev)
 - [Saswata Mukherjee](https://github.com/saswatamcode)
 - [Nitin Sharma](https://github.com/huntlax)
+- [Michael Lore](https://github.com/michaellore/)
 - [amw](https://github.com/andrewwmweaver89)
