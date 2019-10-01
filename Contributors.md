@@ -575,6 +575,7 @@ Christian Reyes
 - [Joe Pell](https://github.com/f1nesse13)
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
+- Sathyanarayanan
 - [Ahmed Lebba](https://github.com/Kungfoosian)
 - [Goh Wei Rong](https://github.com/Qooooo)
 - [Gaelle Tjat](https://github.com/GaelleTjat)
