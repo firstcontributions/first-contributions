@@ -7835,6 +7835,7 @@ Stephan Sharpe
 - [Mason Dubelbeis](https://github.com/Twileigh)
 - [John Salter](https://github.com/NinjaSalt)
 - [William Schwab](https://github.com/wschwab)
+- [Leon Voß](https://github.com/roboleo1010)
 - [Thanapong Prathumchat](https://github.com/thanapongp)
 - [Shivam Arora](https://github.com/shivamarora13)
 - [Michael Chung](https://github.com/mikechung11)
