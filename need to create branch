@@ -1,0 +1,34 @@
+Well, branches are an awesome workflow model to get the most out of git.
+
+In every project, there are always multiple different contexts where work happens. Each feature, bugfix, experiment, or alternative of your product is actually a context of its own: it can be seen as its own "topic", clearly separated from other topics.
+
+This leaves you with an unlimited amount of different contexts. Most likely, you'll have at least one context for your "main" or "production" state, and another context for each feature, bugfix, experiment, etc.
+
+In real-world projects, work always happens in multiple of these contexts in parallel:
+
+In real-world projects, work always happens in multiple of these contexts in parallel:
+While you're preparing 2 new variations of your website's design (context 1 & 2)...
+you're also trying to fix an annoying bug (context 3).
+Besides, you also update some content on your FAQ pages (context 4), while...
+your teammate is working on a new feature for your shopping cart (context 5),...
+and another colleague is experimenting with a whole new login functionality (context 6).
+A world without branches?
+
+Not working in clearly separated contexts can will cause several problems:
+
+What happens if your client likes variation 2 of the new design? In the meantime, a host of other changes have happened! How do you launch the new design while integrating all these other changes instead of losing them?
+What happens if the shopping cart feature became obsolete because the client changed his mind? How do you get all that unwanted code (and only that code!) out?
+What do you do if that new login functionality proves to be impossible to implement? It's already mingled with all of those other changes, being almost impossible to separate out!
+How can you avoid losing track? Most likely, you shouldn't be bothered with all the topics from all of your colleagues.
+Branches to Rescue
+
+Branches are what we need to solve these problems. Because a branch represents exactly such a context in a project and helps you keep it separate from all other contexts.
+
+Here is an example of branch structure in git,
+
+
+4.1k views · View 9 Upvoters · View Sharers
+Sponsored by CircleCI
+What's the best continuous integration tool for Github?
+Test before you merge! CircleCI integrates with Github seamlessly. Free setup takes 20 seconds.
+
