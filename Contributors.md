@@ -16,6 +16,7 @@
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
 - [bh-n-9]
 - [SaurabhChugh]
