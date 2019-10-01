@@ -21,6 +21,7 @@
 - [sigmund](https://siggymc.deviantart.com)
 - [Eddenm]
 - [Maik Pleines] (https://github.com/mpleines)
+- [Gopikrishnan R] (https://github.com/gopikrishnanrmg)
 - [Rayan Avelino](https://github.com/RayanXY)
 - [Rajarshee Basu](https://github.com/basu0001)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
