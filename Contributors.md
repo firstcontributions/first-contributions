@@ -44,6 +44,7 @@
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
+- [Amy McGowan]
 - [Alan Garcia](https://github.com/alandvgarcia)
 - [Ankit Srivastava](https://github.com/a18nov)
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
