@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
@@ -21,6 +21,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Deepak Agarwal]
+- [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern] (https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
