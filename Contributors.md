@@ -50,6 +50,7 @@
 - [Azuremis] (https://github.com/Azuremis)
 - [Salil Cuncoliencar](https://github.com/salilbc)
 - [Rithik](https://github.com/rithikmali)
+- [tom-dell](https://github.com/tom-dell)
 - [Niki Jiandani](https://github.com/nikijiandani)
 - [Uneet Patel](https://github.com/Uneetpatel7)
 -[Aryaan Lambe](https://github.com/aryaanlambe)
