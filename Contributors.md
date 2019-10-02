@@ -1445,6 +1445,7 @@ Stephan Sharpe
 - [Zach James](https://github.com/ZachJames)
 - [George Meier](https://github.com/gtmeier)
 - [Florian Le Gars](https://github.com/florian-lg)
+- [Utkarsh Bhardwaj](https://github.com/UtkarshBhardwaj07)
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
 - [Jeffrey MCIntyre](https://github.com/flatman123)
