@@ -399,6 +399,9 @@ Hammad Qureshi
 - [Krzysztof Czaplejewicz](https://github.com/KrzysztofCzaplejewicz)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Malgo Mark]
+- [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
+- [Ashish Paudel](https://github.com/peaceofmind123)
+- [Moshe]
 - [Boas Falke](https://github.com/bofalke)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Hi Haiu](https://github.com/hihaiu)
@@ -504,9 +507,6 @@ Haris Siddiqui
 - [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
-- [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
-- [Ashish Paudel](https://github.com/peaceofmind123)
-- [Moshe]
 - [ulsoe05](https://github.com/ulsoe05)
 - [Alkator-Nori](https://github.com/nais000k)
 - [Omid Nassir](https://github.com/rissandimo)
@@ -16502,3 +16502,4 @@ Mário Baltazar
 - [Gaz492](https://github.com/Gaz492)
 - [Muhammad Azhar](https://github.com/2016cs101uet)
 - [Jecsan Blanco](https://github.com/jecsanb)
+- [Eduardo Silva](https://github.com/edussilva)
