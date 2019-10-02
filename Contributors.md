@@ -7640,3 +7640,4 @@ ynobry
 - [kamchai boonruam](https://github.com/JackyBeatles)
 - ZePaiva
 - [MPaul](https://github.com/chauxvive)
+- [Juan Manuel](https://github.com/JuanMa06)
