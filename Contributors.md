@@ -9,6 +9,7 @@
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [CJ Dunteman] (https://github.com/cjdunteman)
+- [Ankit Grover](https://github.com/Agrover112)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [DanielSurizon] (https://github.com/Danielsuri)
 - [Anna Levenberg](https://github.com/alevenberg)
