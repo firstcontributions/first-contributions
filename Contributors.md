@@ -16427,3 +16427,4 @@ Mário Baltazar
 - [David Port Louis](https://github.com/davidportlouis)
 - [Andrea Q](https://github.com/andrea1015)
 - [Amma G](https://github.com/AmmaGrant)
+- [Kate Gamo](https://github.com/kategamo)
