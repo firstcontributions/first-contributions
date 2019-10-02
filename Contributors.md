@@ -36,6 +36,7 @@
 - [Shakir Jamal](https://github.com/AlphaLazer)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
+- [Kevin Dorner](https://github.com/mrhspecter)
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
