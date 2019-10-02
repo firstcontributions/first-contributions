@@ -134,5 +134,3 @@ Bonkör gününüzdeyseniz, [Roshan](https://roshanjossey.github.io/)'ı
 [GitHub](https://github.com/roshanjossey)'da takip edin.
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-
-
