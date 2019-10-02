@@ -139,6 +139,7 @@
 - [Long Pham](https://github.com/phaml2995)
 - [Tyson LaBree](https://github.com/labree0)
 - [Irfan Shaikh]
+- [Vivek Sharma](https://github.com/sharmavivek223)
 -[Kelly Hodis](https://github.com/kellyhodis)
 -[Satyam]
 -[komalg1](https://github.com/komalg1)
