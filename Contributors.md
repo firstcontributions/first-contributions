@@ -11,6 +11,7 @@ Arnel Forbes
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - [Sumant Tulshibagwale](https://github.com/Sumant26)
+- [Derek olson](https://github.com/thestarvingcoder)
 - [Alex Tai](https://github.com/alextechtai)
 - [loagis](https://github.com/loagis)
 - [Deepak Sood](https://github.com/deepaksood619)
