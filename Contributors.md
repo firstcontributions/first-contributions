@@ -16205,6 +16205,7 @@ Mário Baltazar
 - [Mairon DaSilva] (https://github.com/MaironD)
 - [Azmain Adel] (https://github.com/azmainadel)
 - [Itay Gershman] (https://github.com/ItayGershman)
+- [yiyalo] (https://github.com/yiyalo)
 - [Sarah AlMutairi](https://github.com/sara13js)
 - [EDWIN BONI OIGO] (https://github.com/oigoedwin)
 - [Adam Smith](https://github.com/adamphilipsmith)
