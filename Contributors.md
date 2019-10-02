@@ -22,6 +22,7 @@
 - [Justin Brown](https://github.com/mediumjustinbieber)
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [km-js]
+- [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
