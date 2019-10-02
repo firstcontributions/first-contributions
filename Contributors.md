@@ -15997,6 +15997,7 @@ Stephan Sharpe
 - [Titus Wen](https://github.com/wen372)
 - [Toni Blackwelder](https://github.com/toni517b)
 - [Takeen Evens](https://github.com/TakiiCoder)
+- [Nived Gupta](https://github.com/nived98/)
 - [Ian Stubbs](https://github.com/Stubbs-Ian)
 - [Minhaz Alam](https://github.com/M1NH42)
 - [Desmond Qiu](https://github.com/dqiuwq)
@@ -16463,4 +16464,3 @@ Mário Baltazar
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
 - [James Kaviyil Jose](https://github.com/jamesjose03)
 - [Si Nguyen](https://github.com/nguyenphusi/)
-- [Nived Gupta](https://github.com/nived98/)
