@@ -65,6 +65,7 @@
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Badri.SR] (https://github.com/badri001)
+- [Alex Verdin](https://github.com/averdin2)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Shakir Jamal](https://github.com/AlphaLazer)
