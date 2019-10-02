@@ -14194,6 +14194,7 @@ Stephan Sharpe
 - Jatin Sharma
 -Abhishek Prajapati(https://github.com/blackviking27)
 - Kushagra Upadhyay(https://github.com/kush-archmaster)
+-vishal Chaudhary(https://github.com/Vishal335)
 - [Ashish Yadav](https://github.com/ashishyadav400)
 - [Rachit Pahwa](https://github.com/rachitpahwa08)
 - [sanspace](https://github.com/sanspace)
