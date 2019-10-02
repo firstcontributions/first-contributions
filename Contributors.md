@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Martin Wilson](https://github.com/martinwjwilson)
+- [NITIN KUMAR](https://github.com/nk095291)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
