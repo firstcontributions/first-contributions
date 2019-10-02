@@ -6,9 +6,9 @@
 
 # First Contributions
 
-'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
+It's hard. It's always hard the first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted to simplify the way new open-source contributors learn & contribute fer the first time.
 
-Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
+Readin' tales & watchin' tutorials can help, but what's better than actually doin' the stuff in a practice environment? This project aims at providin' guidance & simplifyin' the way beginners make their first contribution. If ye be lookin' to make yer first contribution, follow the steps below.
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
 
@@ -33,7 +33,7 @@ Open a terminal 'n run th' followin' git command:
 git clone "url ye jus' copied"
 ```
 
-where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
+where "url ye jus' copied" (without the quote marks) be the url to this repository (yer fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
