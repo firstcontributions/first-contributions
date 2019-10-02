@@ -26,6 +26,7 @@
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Justin Brown](https://github.com/mediumjustinbieber)
 - [Ajey prasand](https://github.com/ajeyprasand)
+- [Sarthak](https://github.com/711sarthak)
 - [km-js]
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
