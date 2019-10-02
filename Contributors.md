@@ -378,6 +378,7 @@ Hammad Qureshi
 - [Jessica Van Rooyen] (https://github.com/jessicavrooyen)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Tim Gretler](https://github.com/tthebst)
+- [Natalie Puls](https://github.com/nataliepls)
 - [xkbarkar](https://github.com/xkbarkar)
 - [Katarina Käll](https://github.com/katarinakall)
 - [Katrina Rodriguez](https://github.com/katrinar)
