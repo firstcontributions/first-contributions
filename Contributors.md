@@ -16435,6 +16435,7 @@ Mário Baltazar
 - [Undefind.me](https://github.com/rafe1486)
 - [Abdullah Sahin](https://github.com/sahin-abdullah)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
+- [Y.S. Shchur](https://github.com/secondW4ve)
 - [Satyajit Pradhan](https://github.com/satyajiit)
 - [EwaDoniec](https://github.com/EwaDoniec)
 - [Wadie](https://github.com/wadie)
