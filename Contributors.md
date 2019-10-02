@@ -15053,6 +15053,7 @@ Stephan Sharpe
 - [misha](https://github.com/msha833)
 - [Nathan](https://github.com/mutedajar)
 - [Kyle](https://github.com/weliketocode)
+- [Lauren Finley](https://www.github.com/laurenoutloud)
 - [Vinicius Min Soo](https://github.com/vinnimin)
 - [Emma Tye](https://github.com/EmmaTye)
 - [Karthikeyan Rajendran](https://github.com/vrkarthik)
