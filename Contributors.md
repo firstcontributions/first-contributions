@@ -6521,6 +6521,7 @@ Stephan Sharpe
 - [Jamie Davis](https://github.com/dev-jamie-davis)
 - [Jithu Nair](https://github.com/JithuNair)
 - [Asmin Budha](https://github.com/AsminBudha)
+- [Sheldon](https://github.com/lootster)
 - [Priyesh](https://github.com/Priyeshpandey)
 - [Kurses](https://github.com/kurses)
 - [Shubham Tarade](https://github.com/coder-shanks)
