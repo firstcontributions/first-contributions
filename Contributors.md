@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
+- [Pranesh S] (https://github.com/pranesh-sp)
 - [flashintosh] (https://github.com/flashintosh)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
