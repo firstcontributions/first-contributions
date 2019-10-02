@@ -261,6 +261,7 @@ Hammad Qureshi
 - [Thiago Santos](https://github.com/thiagolopess)
 - [Anurag Natoo](https://github.com/anuragnatoo)
 - [Szaszko David](https://github.com/Szeszkoo)
+- [Luis Pena](https://github.com/poszy)
 - [Joe-A-D](https://github.com/joe-a-d)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
