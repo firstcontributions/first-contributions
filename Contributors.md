@@ -8795,6 +8795,7 @@ Stephan Sharpe
 - [Mr. Hudson](https://github.com/AllenCompSci)
 - [Mauricio Zarallo](https://github.com/zockfoul)
 - [Saheel Wagh](https://github.com/waghspur10)
+- [Navaratnalingam Shriram](https://github.com/ShriLingam23)
 - [Ankit Jena](https://github.com/ankitjena)
 - [Aaliyah Ahmed](https://github.com/aaliyah03)
 - [Michael Smith](https://github.com/mbsmi)
