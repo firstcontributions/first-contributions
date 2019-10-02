@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 
+- [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Martin Wilson](https://github.com/martinwjwilson)
