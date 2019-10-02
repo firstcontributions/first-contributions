@@ -7,6 +7,7 @@
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 -[km-js]
+- [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Josh Javier](https://github.com/joshjavier)
 - [Alan Garcia](https://github.com/alandvgarcia)
