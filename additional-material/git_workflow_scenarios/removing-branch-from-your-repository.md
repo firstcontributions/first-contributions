@@ -15,6 +15,10 @@ git merge <add-your-name> master
 Remove `<add-your-name>` on your local machine's repo:
 ```
 git branch -d <add-your-name>
+
+or
+
+git branch -D <add-your-branch-name>
 ```
 
 You have now deleted your local machine's `<add-your-name>` branch and everything looks neat and tidy.
