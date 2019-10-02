@@ -16122,6 +16122,7 @@ Stephan Sharpe
 - [Arpit Pandey] (https://github.com./arpitansu)
 - [Nicholas Anderson](https://github.com/nicoisaverage)
 - [Jeffrey Verlyn Johnson](https://github.com/verlyn13)
+- [Conor Gaughan](https://github.com/conor-gaughan)
 - [Arpit Pandey](https://github.com./arpitansu)
 - [Deanna Thompson](https://github.com/deannathompson)
 - [Stephanie Stevens](https://github.com/lekaceleb)
