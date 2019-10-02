@@ -2066,6 +2066,7 @@ Stephan Sharpe
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
 - [Tayler Kaneko](https://github.com/taylerkaneko)
+- [nuttercd](https://github.com/nuttercd)
 - [nivlekp](https://github.com/nivlekp)
 - [Angel Merino](https://github.com/AngelMerinoB)
 - [Maciej Korolik](https://github.com/maciejkorolik)
