@@ -1,7 +1,8 @@
-# Contributors
+﻿# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
+- [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
@@ -28,12 +29,14 @@
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
+- [Aquib Baig](https://github.com/aquibbaig)
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
+- [Arpit Aggarwal](https://github.com/arpit94)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Adwait Thattey](https://github.com/adwait-thattey)
@@ -1098,6 +1101,7 @@ Stephan Sharpe
 - [Eric Hsu](https://github.com/ehsu4220)
 - Prasanth
 - [Pieter Oosthuizen](https://github.com/pieter-oosthuizen)
+- [Hemant Reddy](https://github.com/hemantreddy)
 - [Gerhard Mostert](https://github.com/Stratigix)
 - [SergeyTkachenko-Cj](https://github.com/SergeyTkachenko-Cj)
 - [ColtMulk](https://github.com/ColtMulk)
@@ -4235,6 +4239,7 @@ Stephan Sharpe
 - [Thierry Wong](https://github.com/spookynutz)
 - [Rob Bruce](https://github.com/thevdude)
 - [Christian Becker](https://github.com/Mikrotherion)
+- [Aman Chande](https://github.com/amanchande)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Hossein Nedaee](https://github.com/hosseinnedaee)
 - [Carlos](https://github.com/carlsrenatoh)
@@ -16453,4 +16458,10 @@ Mário Baltazar
 - [Angelica Omaiye](https://github.com/omaiyea)
 - [Nitin dhemiwal singh](https://github.com/nitindhemiwal)
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
-- [Harsh Singh](https://github.com/harshsngh07)
+<<<<<<< HEAD
+- 
+=======
+- [James Kaviyil Jose](https://github.com/jamesjose03)
+- [Si Nguyen](https://github.com/nguyenphusi/)
+>>>>>>> b06ec1f311ef515f23e2c54822f63698ac0ca7d7
+[Harsh Singh](https://github.com/harshsngh07)
