@@ -3988,6 +3988,7 @@ Stephan Sharpe
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
+- [Aditya Pradhan](https://github.com/AdityaPradhan1)
 - [Michael Haas](https://github.com/micha2718l)
 - [Sebastian Adamo](https://github.com/vergeofeden)
 - [David Ross](https://github.com/DavidRoss3)
