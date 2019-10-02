@@ -652,6 +652,7 @@ Nishtha3512
 - [Kekoa Kubli](https://github.com/kkubli3246)
 - Pushpal Patil
 - [なるみ](https://github.com/narumiruna)
+- [Fernando Piniani](https://github.com/fernandopiniani)
 - [John Yu](https://github.com/johnyu763)
 - [Arash Jafarzadeh] (https://github.com/arashjfz)
 - [Aggrey Chinthalima](https://github.com/killian-coder)
