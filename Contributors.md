@@ -1982,6 +1982,7 @@ Stephan Sharpe
 - [creep1g](https://github.com/creep1g)
 - Kaustubh Joshi
 - [Leombro](https://github.com/leombro)
+- [Antônio Dias](https://github.com/antoniofdias)
 - [Kareem Abuzaid](https://github.com/KareemAbuzaid)
 - Ryan Marion
 - [Ricardo Nunes](https://github.com/sanunes)
