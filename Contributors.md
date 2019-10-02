@@ -16358,3 +16358,4 @@ Mário Baltazar
 - [Biju M](https://github.com/biju4devops)
 - [Carlos M. Jimenez](https://github.com/cmjimenez90)
 - [Charles A. Rogers](https://github.com/MisterC-Rogers)
+- [Bryan Speelman](https://githublcom/crayphix)
