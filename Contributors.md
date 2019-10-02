@@ -31,6 +31,7 @@
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [zkhan12](https://github.com/zkhan12)
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
+- [Yan Qu] (https://github.com/yan-qu)
 - [Pentium1080Ti](https://github.com/Pentium1080Ti)
 - [Moinak Banerjee] (https://github.com/moinak878)
 - [MariaILopez] (https://github.com/milg15/)
