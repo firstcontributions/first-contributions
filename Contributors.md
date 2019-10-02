@@ -5,6 +5,7 @@
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Martin Wilson](https://github.com/martinwjwilson)
+- [Ye Wai Yan](https://github.com/bupstan)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
