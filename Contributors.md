@@ -32,6 +32,7 @@
 - [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
+- [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
