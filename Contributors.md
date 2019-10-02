@@ -16356,3 +16356,4 @@ Mário Baltazar
 - [Zeeslag](https://github.com/Z33SL4G)
 - [Biju M](https://github.com/biju4devops)
 - [Carlos M. Jimenez](https://github.com/cmjimenez90)
+- [Charles A. Rogers](https://github.com/MisterC-Rogers)
