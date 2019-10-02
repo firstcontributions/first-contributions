@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 
 - [flashintosh] (https://github.com/flashintosh)
 - [Shivam Birla](https://github.com/Shivam4747)
+- [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Nestor Alvarado](https://github.com/nVertoletik)
