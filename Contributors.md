@@ -3,6 +3,7 @@
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [flashintosh] (https://github.com/flashintosh)
+- [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
