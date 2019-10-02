@@ -344,6 +344,7 @@ Hammad Qureshi
 - [Hyun Chung](https://github.com/hkchung99)
 - [Sebastian Penttinen](https://github.com/sebastianpenttinen)
 - [Rajitha Warusavitarana](https://github.com/rajitha1998)
+- [Murilo Preccaro](https://github.com/mogueno)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
 - [Siddharth Saha](https://github.com/trunc8) 
