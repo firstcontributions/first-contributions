@@ -824,6 +824,7 @@ Nishtha3512
 - [Hamzeh Darwish](https://github.com/hamzehd)
 - [Sushant Kumar](https://github.com/lOne9wOlf)
 - [Toubee Lo](https://github.com/chataolauj)
+  [RohitSheoran](https://github.com/rohit0128)
 - [Neha Kulkarni](https://github.com/neha181298)
 - [Matt Woodley](https://github.com/mattwoodley)
 - [Aditya Santhosh](https://github.com/AdityaSanthosh)
