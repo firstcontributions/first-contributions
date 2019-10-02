@@ -1987,6 +1987,7 @@ Stephan Sharpe
 - [Cleave Owhiroro](https://github.com/cleave3)
 - george_g
 - OrestisV
+- [GenreShinobi](https://github.com/GenreShinobi)
 - PtJung
 - [Ranganath Achari](https://github.com/rachari)
 - [Tiffany Wise](https://github.com/Owhyze1)
