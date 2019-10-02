@@ -112,6 +112,7 @@
 - [BA] (https://github.com/ba)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [kookie](https://github.com/kookie)
+- [LBeul](https://github.com/LBeul/)
 - [Stacy Holtz] (https://github.com/stacyholtz6)
 - [Mitarth Jain] (https://github.com/mitarthjain)
 - [Vincenzo Vipond] (https://github.com/Angadeon)
