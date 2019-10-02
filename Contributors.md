@@ -47,6 +47,7 @@
 - [Oriane D](https://github.com/oriane212)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
+- [Cheatn Sinha] (https://github.com/ChetanSinha)
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [Anuj Singh](https://github.com/myselfanuj)
 - [Sensanaty](https://github.com/Sensanaty)
