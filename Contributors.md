@@ -6619,6 +6619,7 @@ Stephan Sharpe
 - [Priyanshu Nandan](https://github.com/priyanshuN)
 - [Matheus Iacono](https://github.com/matheusiacono)
 - [Sam Gordon](https://github.com/sambgordon)
+- [Babalola Taiwo](https://github.com/thywoe)
 - [Nibraas Khan](https://github.com/nibraaska)
 - [Andrew Albert](https://github.com/andyalbert)
 - [Jon-Luke Willemsen](https://github.com/jonlukewtafe)
