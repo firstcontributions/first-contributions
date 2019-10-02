@@ -117,6 +117,7 @@
 - [Jonathan Vargas](https://github.com/SrBrightside)
 - [Ramesh Sah](https://github.com/rameshKrSah)
 - [Jhon Rocha](https://github.com/jhonrocha)
+- [Petar Ivanković Milošević](https://github.com/SirTediousOfFoo)
 - [AminooZ](https://github.com/AminooZ)
 - [Eugen Volosciuc](https://github.com/EugenVolosciuc)
 - [babywashbear]
