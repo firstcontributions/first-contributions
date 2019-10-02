@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [CJ Dunteman] (https://github.com/cjdunteman)
