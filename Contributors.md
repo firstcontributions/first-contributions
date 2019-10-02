@@ -1316,7 +1316,7 @@ Stephan Sharpe
 - [Lea Whitney](https://github.com/whitWEB)
 - [Cody James](https://github.com/C-F-J)
 - Ran Levy
-- [Gokul Panneerselvam](https://github.com/gokulp96)
+- [Gokul Panneerselvam](https://github.com/gokulp96).
 - [Vishal Bahedia](https://github.com/vishalvb)
 - [Yu Wang](https://github.com/ywang412)
 - [Felix Sundqvist](https://github.com/FelixSundqvist/)
