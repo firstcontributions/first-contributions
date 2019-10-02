@@ -371,6 +371,7 @@ Hammad Qureshi
 - [Mayank Goel](https://github.com/MayankGoel28)
 - [Kaushik Tunuguntla](https://github.com/kaushiktlk)
 - [William Bowen](https://github.com/WillWBowen)
+- [Aleksa Doderovic](https://github.com/Doder)
 - [Wang Dorjee Sherpa] (https://github.com/Wangsherpa)
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
