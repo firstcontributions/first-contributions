@@ -26,6 +26,7 @@
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
+- [Stefanos Ugbit](https://github.com/stefanosu)
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
