@@ -276,6 +276,7 @@ Hammad Qureshi
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
 [Niveditha Bhat](https://github.com/NivedithaBBhat)
 - [Kusal Priyanka Perera](https://github.com/KusalPriyanka)
+- [Mofi Rahman](https://github.com/moficodes)
 - [Yuvin Nimnaka Perera](https://github.com/YuvinNP)
 - [Alex Rudkov](https://github.com/C0d3W1zzard)
 - [Boom Kularb](https://github.com/boomsquared)
