@@ -27,6 +27,7 @@
 - [Ankit Srivastava](https://github.com/a18nov)
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
 - [azamat] (https://github.com/tikenov)
+- [Manan Kevadiya] (https://github.com/manan2501)
 - [aiden](https://github.com/acdlbs)
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
