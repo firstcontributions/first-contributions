@@ -583,6 +583,7 @@ Nishtha3512
 - [Riki Syahputra](https://github.com/rikisan1993)
 - Khaild Anwar
 - Omar Rodriguez
+- [Suryanto] (https://github.com/Hiroshii8)
 - [Bryce DeBilzan] (https://github.com/bdebilzan)
 - [Charles Hedji](https://github.com/brescia57)
 - mmsmsy
