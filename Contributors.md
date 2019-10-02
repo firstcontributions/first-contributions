@@ -10,6 +10,7 @@
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [DanielSurizon] (https://github.com/Danielsuri)
 - [Anna Levenberg](https://github.com/alevenberg)
+- [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Yasir Haq](https://github.com/yasirrhaq)
