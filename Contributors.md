@@ -6621,6 +6621,7 @@ Stephan Sharpe
 - [Varun Nair](https://github.com/VarunDelft)
 - [Josh Friesen](https://github.com/joshfriesen)
 - [Palmer Hinchliffe](https://github.com/palmerhinchliffe)
+- [Hadjer Benzaamia](https://github.com/bz-hadjer)
 - [Ioannis Vaitsis](https://github.com/Vairus)
 - [juvestig](https://github.com/juvestig)
 -   [Daniel Sanatar](https://github.com/Dsanatar)
