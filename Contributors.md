@@ -1,6 +1,7 @@
 # Contributors
 
 - [Shivam Birla](https://github.com/Shivam4747)
+- [Nitin](https://github.com/yetanotherwebdev)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Nestor Alvarado](https://github.com/nVertoletik)
@@ -16403,4 +16404,3 @@ Mário Baltazar
 - [Charles A. Rogers](https://github.com/MisterC-Rogers)
 - [Bryan Speelman](https://githublcom/crayphix)
 - [Jacki Li](https://github.com/SoftMochii)
-- [Mathews Musukuma](https://github.com/Mathewsmusukuma)
