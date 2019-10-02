@@ -16349,3 +16349,4 @@ Mário Baltazar
 - [Cayo Rodrigues](https://github.com/cayorodrigues)
 - [Zeeslag](https://github.com/Z33SL4G)
 - [Biju M](https://github.com/biju4devops)
+- [Felipe Henrique](https://github.com/felipehfs)
