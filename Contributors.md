@@ -4258,6 +4258,7 @@ Stephan Sharpe
 - Rishabh Sharma
 - [Joe Tiersma](https://github.com/JavaOfDoom)
 - [MOHAMMED FAIZAAN MUZAWAR](https://github.com/faizaan-mm)
+- [badik]
 - Shlok Agarwal
 - Jelena Golova
 - [AngeredZeus](https://github.com/AngeredZeus)
