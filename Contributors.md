@@ -1,7 +1,8 @@
-# Contributors
+﻿# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
+- [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
@@ -28,6 +29,7 @@
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
+- [Aquib Baig](https://github.com/aquibbaig)
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
@@ -1099,6 +1101,7 @@ Stephan Sharpe
 - [Eric Hsu](https://github.com/ehsu4220)
 - Prasanth
 - [Pieter Oosthuizen](https://github.com/pieter-oosthuizen)
+- [Hemant Reddy](https://github.com/hemantreddy)
 - [Gerhard Mostert](https://github.com/Stratigix)
 - [SergeyTkachenko-Cj](https://github.com/SergeyTkachenko-Cj)
 - [ColtMulk](https://github.com/ColtMulk)
@@ -16457,3 +16460,4 @@ Mário Baltazar
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
 - [James Kaviyil Jose](https://github.com/jamesjose03)
 - [Ricardo Moura](https://github.com/ricardo-moura)
+- [Si Nguyen](https://github.com/nguyenphusi/)
