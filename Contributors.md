@@ -7,6 +7,7 @@
 - [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
+- [Alok Sahoo](https://github.com/aloks98)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
