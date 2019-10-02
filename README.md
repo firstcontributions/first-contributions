@@ -120,6 +120,10 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
+```
+git status
+```
+
 
 Add those changes to the branch you just created using the `git add` command:
 
