@@ -7434,6 +7434,7 @@ Stephan Sharpe
 - [Michael Isprihanto](https://github.com/michaelisprihanto)
 - [Janardhan Nallapati](https://github.com/janardhannallapati)
 - [William Leung](https://github.com/thisiswhale)
+- [Excel1](https://github.com/Excel1)
 - [Marcio Melo](https://github.com/marciosmelo)
 - [Pranav AP](https://github.com/pranav-cs)
 - [Peter Krevenets](https://github.com/GuRuGuMaWaRu)
