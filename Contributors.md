@@ -8307,6 +8307,7 @@ Stephan Sharpe
 - [Dennis T](https://github.com/dt9)
 - [John Eddie Ayson](https://github.com/aysonje)
 - [MMuIT](https://github.com/MMuIT)
+- [Kesler Lee](https://github.com/OnlineEXP)
 - [Przemek](https://github.com/Przemek19)
 - [Kris Hoja](https://github.com/krzysiekh)
 - [Rick Haan](https://github.com/rickhaan)
