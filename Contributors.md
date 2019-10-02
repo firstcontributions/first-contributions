@@ -1,5 +1,6 @@
 # Contributors
 
+- [Cedrik Boudreau] (https://github.com/cedriking)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [flashintosh] (https://github.com/flashintosh)
