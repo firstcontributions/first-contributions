@@ -1,5 +1,7 @@
 # Contributors
 
+
+- [Syyam](https://github.com/syyam)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
