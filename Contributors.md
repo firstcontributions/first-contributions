@@ -55,7 +55,7 @@
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
-- [syd]
+- [syd645]
 - [bh-n-9]
 - [Phillip Kent Knight](https://github.com/phillipknight)
 - [Samer Baslan] (https://github.com/samerbaslan
