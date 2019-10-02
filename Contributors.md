@@ -8557,6 +8557,7 @@ Orandi Harris
 - [Roi Ben Shaul](https://github.com/rughciatuk)
 - [Pratish Katiyar](https://github.com/pratishk28)
 - [Riablo](https://github.com/Riablo)
+- [Nikhil Gupta](https://github.com/Nikhilgupta18)
 - [Jeetu Chauhan](https://github.com/g2chauhan)
 - [Black Alpaca](https://github.com/BlackAlpaca/)
 - [Xraycat](https://github.com/Xraycat)
