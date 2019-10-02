@@ -105,6 +105,7 @@
 - [Aditya Vikram](https://github.com/avikram553)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
+- [JColl]
 - [Claudia Vargas] (https://github.com/claucvk)
 - [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
