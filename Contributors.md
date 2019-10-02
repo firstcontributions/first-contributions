@@ -23,6 +23,7 @@
 - [Justin Brown](https://github.com/mediumjustinbieber)
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [km-js]
+- [Johannes Breit](https://github.com/JohnBryte)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Steven Doss](https://github.com/snobbysteven)
