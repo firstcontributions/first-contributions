@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [flashintosh] (https://github.com/flashintosh)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
