@@ -4,7 +4,7 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 
 ## The List
 1.  [Interactive tutorial to git](https://try.github.io)
-2.  [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+2.  [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 3.  [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
 4.  [Git and GitHub tutorial translated to many languages](https://github.com/Roshanjossey/first-contributions)
 5.  [Merge Conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
@@ -27,6 +27,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 22. [Git commandline cheat-sheet](https://gist.github.com/davfre/8313299)
 23. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
-25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+25. [Tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 
 Keep adding more links, that you find helpful.
