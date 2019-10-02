@@ -91,7 +91,7 @@ For example:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
