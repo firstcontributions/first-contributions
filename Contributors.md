@@ -16439,3 +16439,4 @@ Mário Baltazar
 - [Amma G](https://github.com/AmmaGrant)
 - [Kate Gamo](https://github.com/kategamo)
 - [HpotsirhcH](https://github.com/HpotsirhcH)
+- [Hitesh Kaushik](https://github.com/hiteshkaushik28)
