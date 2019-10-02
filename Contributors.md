@@ -16456,3 +16456,4 @@ Mário Baltazar
 - [Nitin dhemiwal singh](https://github.com/nitindhemiwal)
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
 - [James Kaviyil Jose](https://github.com/jamesjose03)
+- [Ricardo Moura](https://github.com/ricardo-moura)
