@@ -32,6 +32,7 @@
 - [Steven Doss](https://github.com/snobbysteven)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
+- [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
 - [Alan Garcia](https://github.com/alandvgarcia)
 - [Ankit Srivastava](https://github.com/a18nov)
