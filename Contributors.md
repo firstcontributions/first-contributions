@@ -10064,6 +10064,7 @@ Stephan Sharpe
 - [imaN Neo](https://github.com/imaNNeoFighT)
 - [alik](https://github.com/ochebotar)
 - [Juliette Robin](https://github.com/Geminerica)
+- [Thomas Bang](https://github.com/thomas-bang)
 - [suchendra](https://github.com/suchendra)
 - [Schacal](https://github.com/Schacal)
 - [Matthew Sweet](https://github.com/themattbook)
