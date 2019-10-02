@@ -6,6 +6,7 @@
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
+- [Justin Brown](https://github.com/mediumjustinbieber)
 -[km-js]
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Josh Javier](https://github.com/joshjavier)
