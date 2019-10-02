@@ -4714,6 +4714,7 @@ Stephan Sharpe
 - [Franklin Wang](https://github.com/fxwang)
 - [Kelly Lawrence](https://github.com/lemonslicenebula)
 - [Terry J. Reynolds](https://github.com/terryjreynolds)
+- [Toms](https://github.com/tomzs)
 - [Alex Kluger](42947972+AKluger@users.noreply.github.com)
 - [Lokesh](https://github.com/bitlucky)
 - [Pascal Gagneur](https://github.com/pascalgagneur)
