@@ -24,6 +24,7 @@
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [km-js]
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
+- [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
