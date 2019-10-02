@@ -1099,6 +1099,7 @@ Stephan Sharpe
 - [Eric Hsu](https://github.com/ehsu4220)
 - Prasanth
 - [Pieter Oosthuizen](https://github.com/pieter-oosthuizen)
+- [Hemant Reddy](https://github.com/hemantreddy)
 - [Gerhard Mostert](https://github.com/Stratigix)
 - [SergeyTkachenko-Cj](https://github.com/SergeyTkachenko-Cj)
 - [ColtMulk](https://github.com/ColtMulk)
