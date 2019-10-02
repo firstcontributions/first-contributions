@@ -27,6 +27,7 @@
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Justin Brown](https://github.com/mediumjustinbieber)
+- [Ayuba Kamol] (https://github.com/kayub007)
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
