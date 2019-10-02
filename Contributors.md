@@ -14024,6 +14024,7 @@ Stephan Sharpe
 - [Dan Herrero](https://github.com/danherrero)
 - [xenocidewiki](https://github.com/xenocidewiki)
 - [Carlos Abdalla](https://github.com/abdalla)
+- [Pedro Pontes](https://github.com/pedroccrp)
 - [Ryan OHara](http://github.com/rao4)
 - [Ashwin.C.V](http://github.com/ashwincv)
 - [Eraldo Jr](http://github.com/ejr004)
