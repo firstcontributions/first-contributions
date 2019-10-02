@@ -123,6 +123,7 @@
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [Brian Myburgh](https://github.com/brianmyburgh)
 - [Aditya Vikram](https://github.com/avikram553)
+- [Ramona Burger](https://github.com/rmnbrgr)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
 - [JColl]
