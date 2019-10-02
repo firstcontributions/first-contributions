@@ -6093,6 +6093,7 @@ Stephan Sharpe
 - [Gabriel Cruz](https://github.com/LTKills)
 - [Sachin Singh](https://github.com/sacsachin)
 - [Akshat Srivastava](https://github.com/AkshatSrivastava2)
+- [Pedro Vicari] (https://github.com/pvicari)
 - [Pakata Goh](https://github.com/pakatagoh)
 - [Chantz Anderson](https://github.com/chantzcy)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
