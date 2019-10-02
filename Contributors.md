@@ -6675,6 +6675,7 @@ Stephan Sharpe
 - [GlacierLollipop](https://github.com/glacierlollipop)
 - [Steffen Ness](https://github.com/steffenalexander)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
+- [Hannah Stannard](https://github.com/hannahrstannard)
 - [Malika Asim](https://github.com/itsvoodoochild)
 - [Melanie Mills](https://github.com/codeherlife)
 - [Katie Stutts](https://github.com/stuttskl)
