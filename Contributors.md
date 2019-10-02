@@ -4235,6 +4235,7 @@ Stephan Sharpe
 - [Thierry Wong](https://github.com/spookynutz)
 - [Rob Bruce](https://github.com/thevdude)
 - [Christian Becker](https://github.com/Mikrotherion)
+- [Aman Chande](https://github.com/amanchande)
 - [Anuj Jindal](https://github.com/jindalAnuj)
 - [Hossein Nedaee](https://github.com/hosseinnedaee)
 - [Carlos](https://github.com/carlsrenatoh)
