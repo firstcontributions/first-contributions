@@ -3,6 +3,7 @@
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Nestor Alvarado](https://github.com/nVertoletik)
+- [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Vicente Reyes](https://github.com/reyesvicente)
