@@ -10830,6 +10830,7 @@ Stephan Sharpe
 - [Arsalan Etehad](https://github.com/ArsalanEtehad)
 - [Julia Berkovitz](https://github.com/juliaberk)
 - [Liz Lee](https://github.com/eljlee)
+- [Zach Nelson](https://github.com/virus200)
 - [Cory Steinmetz](https://github.com/Rockpile18/)
 - [Valerie Moy](https://github.com/thevalerie)
 - [Jade Hayes](https://github.com/JadeHayes)
