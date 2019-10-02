@@ -8,6 +8,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [NITIN KUMAR](https://github.com/nk095291)
+- [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
