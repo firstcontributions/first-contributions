@@ -114,6 +114,7 @@
 -[pravallika](https://github.com/pravzzyy)
 -[Srinivas (SriNandan33)](https://github.com/SriNandan33)
 -[Angel Lakra](https://github.com/angel112)
+-[Lorenzzz90](https://github.com/Lorenzzz90)
 - [Long Pham](https://github.com/phaml2995)
 - [Tyson LaBree](https://github.com/labree0)
 - [Irfan Shaikh]
