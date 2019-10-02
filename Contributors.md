@@ -16293,6 +16293,7 @@ Mário Baltazar
 - [Ashutosh Singh](https://github.com/lelouchB)
 - [Undefind.me](https://github.com/rafe1486)
 - [A. S. Zaghloul](https://github.com/Medsaad/)
+- [Y.S. Shchur](https://github.com/secondW4ve)
 - [Satyajit Pradhan](https://github.com/satyajiit)
 - [EwaDoniec](https://github.com/EwaDoniec)
 - [Wadie](https://github.com/wadie)
