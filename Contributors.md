@@ -31,6 +31,7 @@
 - [Anna-Sofia]
 - [bh-n-9]
 - [Phillip Kent Knight](https://github.com/phillipknight)
+- [Samer Baslan] (https://github.com/samerbaslan
 - [SaurabhChugh]
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [zkhan12](https://github.com/zkhan12)
