@@ -1,10 +1,11 @@
-# Contributors
+﻿# Contributors
 
 - [Shivam Birla](https://github.com/Shivam4747)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
+- [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Alok Sahoo](https://github.com/aloks98)
