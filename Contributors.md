@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
@@ -16371,6 +16371,7 @@ Mário Baltazar
 - [Jordan Stubblefield](https://github.com/jstubb7939)
 - [Rajendrasinh Parmar](https://github.com/RajendrasinhParmar)
 - [Muktadir Khan](https://github.com/muktadirkhan889)
+- [Chandan Prakash ](https://github.com/b18050)
 - [Cod3rx](https://github.com/coderx7)
 - [Andy Rohde](https://github.com/AndrewPRohde)
 - [Sawsan A] (https://github.com/saleryan) 
