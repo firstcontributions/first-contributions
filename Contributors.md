@@ -9,6 +9,7 @@
 - [Ye Wai Yan](https://github.com/bupstan)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Vicente Reyes](https://github.com/reyesvicente)
+- [Abhushan A Joshi](https://github.com/abhu-A-J)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
