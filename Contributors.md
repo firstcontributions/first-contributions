@@ -24,6 +24,7 @@
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [km-js]
 - [Johannes Breit](https://github.com/JohnBryte)
+- [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Steven Doss](https://github.com/snobbysteven)
