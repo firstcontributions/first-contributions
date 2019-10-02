@@ -21,6 +21,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Deepak Agarwal]
+- [Patrick Haberern] (https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Savethan Sritharan](https://github.com/sav7204)
