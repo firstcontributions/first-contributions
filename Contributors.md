@@ -434,6 +434,7 @@ Haris Siddiqui
 - [Omid Nassir](https://github.com/rissandimo)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [Founder Casey](https://github.com/foundercasey)
+- [Indrayani Lambat](https://github.com/lambativ)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
 - [Kayla Williams](https://github.com/kayla312)
 - [Le Aundre Jackson](https://github.com/Jacksole/)
