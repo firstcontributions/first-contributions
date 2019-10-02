@@ -15,6 +15,7 @@
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
+- [Deepak Agarwal]
 - [Alok Sahoo](https://github.com/aloks98)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
