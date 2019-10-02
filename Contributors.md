@@ -63,6 +63,7 @@
 - [SaurabhChugh]
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [ChrisIIx](https://github.com/ChrisIIx)
+- [tusnolobov](https://github.com/tusnolobov)
 - [zkhan12](https://github.com/zkhan12)
 - [SaiCharan](https://github.com/kotlasaicharanreddy)
 - [Yan Qu] (https://github.com/yan-qu)
@@ -16449,4 +16450,6 @@ Mário Baltazar
 - [Hitesh Kaushik](https://github.com/hiteshkaushik28)
 - [Kenneth Gargan](https://github.com/Kenneth-G)
 - [Angelica Omaiye](https://github.com/omaiyea)
+- [Nitin dhemiwal singh](https://github.com/nitindhemiwal)
+- [Shivanhu Kashyap](https://github.com/shivanshu27)
 - [Natalia Restrepo Franco](https://github.com/nati0921)
