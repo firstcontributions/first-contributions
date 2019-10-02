@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
 - [Shivam Birla](https://github.com/Shivam4747)
+- [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [Anna Levenberg](https://github.com/alevenberg)
