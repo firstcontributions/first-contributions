@@ -16233,3 +16233,4 @@ Mário Baltazar
 - [Akhid Yanuar A.F](https://github.com/yanuarakhid)
 - [Adarsh Singh](https://github.com/aotrlotr)
 - [immature-mono](https://github.com/immature-mono)
+- ["borBier", Yuttakhan Baingen](https://github.com/borbier)
