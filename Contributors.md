@@ -361,6 +361,7 @@ Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Ashritha Kondapally](https://github.com/Ashritha-Kondapally)
 - [Zhi-Yi Chin](https://github.com/joycenerd)
+- [Juan Guzman](https://github.com/SineSquared)
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
 - [Patrick Rosas] (https://github.com/PatPat95)
 - [Harry Coburn](https://github.com/Mattibun)
