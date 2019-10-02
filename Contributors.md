@@ -340,6 +340,7 @@ Hammad Qureshi
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
 - [Kailee]
+- [Jessica Van Rooyen] (https://github.com/jessicavrooyen)
 - [JawnMarc](https://github.com/JawnMarc)
 - [Tim Gretler](https://github.com/tthebst)
 - [xkbarkar](https://github.com/xkbarkar)
