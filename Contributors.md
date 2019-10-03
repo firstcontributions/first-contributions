@@ -27,6 +27,7 @@
 - [Manish Tomar](https://github.com/manishtomar1) 
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
+- [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
