@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
-- [enabet](https://github.com/enabet)
 - [priya]
 - [sevonefive]
 - [sigmund](https://siggymc.deviantart.com)
@@ -16078,3 +16077,4 @@ Mário Baltazar
 - [Futuregit] (https://github.com/futuregit)
 - [Matt Nelson](https://github.com/Matthew-Nelson)
 - [TonyTheTiger323/Tony Greeley](https://github.com/tonythetiger323)
+- [enabet](https://github.com/enabet)
