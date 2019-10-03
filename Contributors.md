@@ -20,6 +20,7 @@
 - [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
+- [Dhruva Mahajan](https://github.com/dhruva169)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1) 
@@ -44,7 +45,7 @@
 - [Deepak Agarwal]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
-- [Patrick Haberern] (https://github.com/Habernet)
+- [Patrick Haberern](https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Savethan Sritharan](https://github.com/sav7204)
