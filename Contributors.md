@@ -131,6 +131,7 @@
 - [Ramona Burger](https://github.com/rmnbrgr)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
+- [Nick Reisenauer](https://github.com/nickreisenauer)
 - [JColl]
 - [mrAsabol] (https://github.com/mrAsabol)
 - [Claudia Vargas] (https://github.com/claucvk)
