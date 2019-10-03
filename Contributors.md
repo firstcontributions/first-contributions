@@ -94,6 +94,7 @@
 - [Shakir Jamal](https://github.com/AlphaLazer)
 - [Aditya Kumar](https://github.com/kumaraditya1999)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
+- [Samuel Yuan](https://github.com/YuanSamuel)
 - [priya]
 - [Kevin Dorner](https://github.com/mrhspecter)
 - [Tony Morris](https://github.com/TonyDMorris)
