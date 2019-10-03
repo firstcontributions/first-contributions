@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Cedrik Boudreau] (https://github.com/cedriking)
+- [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
