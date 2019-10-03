@@ -22,6 +22,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Deepak Agarwal]
+- [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern] (https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
