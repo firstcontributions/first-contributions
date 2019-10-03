@@ -1,6 +1,6 @@
 ﻿# Contributors
 
-- [Noman Abdullah] (https://github.com/NomanAbdullah)
+- [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Cedrik Boudreau] (https://github.com/cedriking)
