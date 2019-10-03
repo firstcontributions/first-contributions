@@ -16543,5 +16543,6 @@ Mário Baltazar
 - [Yago Santos] (https://github.com/yagosansz)
 - [Ivan Gagarinov] (https://github.com/dzencot)
 - [Derek Sudduth](https://github.com/dsudduth)
+- [Zaenal Akhmad Rifai](https://github.com/togatta)
 - [Rafferty Chen](https://github.com/MagicTurtle2203)
 - [Akos Kovacs](https://github.com/plaidshirtakos)
