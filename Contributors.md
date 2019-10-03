@@ -47,6 +47,7 @@
 - [igor](https://github.com/igorshiota)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 - [Chris Yu](https://github.com/chrisayu321)
+- [Rohit Raj](https://github.com/rohit15079)
 - [BA] (https://github.com/ba)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [Stacy Holtz] (https://github.com/stacyholtz6)
