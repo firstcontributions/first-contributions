@@ -13,6 +13,7 @@
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
+- [Pranshu Aggarwal] (https://github.com/pranshuag9)
 - [Akhil Dhiman](https://github.com/akhildhiman7)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
