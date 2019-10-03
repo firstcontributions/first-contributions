@@ -828,6 +828,7 @@ Nishtha3512
 - [Richard Huang] (https://github.com/LilInformat)
 - [Jon Gregis](https://github.com/jongregis)
 - [Graham Paterson](https://github.com/grahampaterson)
+- [Dhaval Shah](https://github.com/dhavalshah18)
 - Meet Patel
 - rehan khan
 - [DimplyKhan13](https://github.com/DimplyKhan13)
