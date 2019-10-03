@@ -8286,6 +8286,7 @@ Stephan Sharpe
 - [Jesus Antonio Zu?iga Arce](https://github.com/jzunigarce)
 - [Diane Gayden](https://github.com/OTR500miles2go)
 - [Antonio Suarez](https://github.com/GrupoKino)
+- [Sayan Mondal](https://github.com/S-ayanide)
 - [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
 - [Jeff Thompson](https://github.com/jello7654)
