@@ -1202,6 +1202,7 @@ Stephan Sharpe
 - [Jonathan Yee](https://github.com/TheCountOfPeru)
 - Trisha Thakur
 - [Drew Thomas](https://github.com/DrewThomasCorps)
+- Vedhashree B
 - [Mohammad Ansari](https://github.com/MohammadAnsari98)
 - [Ronit Yakovson](https://github.com/ronityako)
 - [wa4It](https://github.com/dTCTb)
