@@ -9,6 +9,7 @@
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Lasse Stilvang](https://github.com/lassestilvang)
+- [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
