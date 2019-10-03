@@ -499,6 +499,7 @@ Haris Siddiqui
 - [Aaron Maritz](https://github.com/aaron-maritz)]
 - [Caleb Matthew Radens] (https://github.com/radlinsky)
 - [Muhammad Aditya Sasongko](https://github.com/msasongko17)
+- Vivek Rai
 - Alexander
 - Shahi
 - Rhonin
