@@ -16619,3 +16619,4 @@ Mário Baltazar
 - [Dhruv Arya](https://github.com/dhruvarya)
 - [Lorena Toscano](https://github.com/lorenatoscano)
 - [Ramya CP](https://github.com/RAMYA-CP)
+- [Guilherme Henrique de Sá](https://github.com/TSF31)
