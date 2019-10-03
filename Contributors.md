@@ -4,6 +4,7 @@
 - [flashintosh] (https://github.com/flashintosh)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
+- [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
