@@ -18,6 +18,7 @@
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [DanielSurizon] (https://github.com/Danielsuri)
 - [Ankit Grover](https://github.com/Agrover112)
+- [Shubham Gupta](https://github.com/shubham030)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Nestor Alvarado](https://github.com/nVertoletik)
