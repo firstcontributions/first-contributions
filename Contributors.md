@@ -16506,6 +16506,7 @@ Mário Baltazar
 - [Andrea Q](https://github.com/andrea1015)
 - [Amma G](https://github.com/AmmaGrant)
 - [Kate Gamo](https://github.com/kategamo)
+- [Jasmine Garcia](https://github.com/garciajasminejoy)
 - [HpotsirhcH](https://github.com/HpotsirhcH)
 - [nekw] (https://github.com/nekw)
 - [Hitesh Kaushik](https://github.com/hiteshkaushik28)
