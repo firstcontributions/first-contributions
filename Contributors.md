@@ -16534,3 +16534,4 @@ Mário Baltazar
 - [Eviltwin01](https://github.com/EvilTwin01)
 - [Yago Santos] (https://github.com/yagosansz)
 - [Ivan Gagarinov] (https://github.com/dzencot)
+- [Derek Sudduth](https://github.com/dsudduth)
