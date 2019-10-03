@@ -54,6 +54,7 @@
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
+- [Mayke Rezende] (https://github.com/maykemrezende)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Justin Brown](https://github.com/mediumjustinbieber)
