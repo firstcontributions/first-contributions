@@ -46,6 +46,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Deepak Agarwal]
+- [Sergei Nevstruev]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern](https://github.com/Habernet)
