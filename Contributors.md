@@ -416,6 +416,7 @@ Hammad Qureshi
 - [JawnMarc](https://github.com/JawnMarc)
 - [Tim Gretler](https://github.com/tthebst)
 - [Natalie Puls](https://github.com/nataliepls)
+- [Abdelrahman Shalaby](https://github.com/abdo3bido)
 - [xkbarkar](https://github.com/xkbarkar)
 - [Katarina Käll](https://github.com/katarinakall)
 - [Katrina Rodriguez](https://github.com/katrinar)
