@@ -28,6 +28,7 @@
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1) 
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
+- [Kalyan Kumar](https://github.com/kalyanstumagz)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
