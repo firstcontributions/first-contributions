@@ -16474,6 +16474,7 @@ Mário Baltazar
 - [Gustavo Silva] (https://github.com/gstvds)
 - [Sofia Rivas](https://github.com/sofiarivas)
 - [Blaine Bateman](https://github.com/eafpres)
+- [Satyajit](https://github.com/BBBS92)
 - [Juliana Almeida](https://github.com/julinvictus)
 - [Sarawut Klangphukhiao] (https://github.com/sarawukl)
 - [Jens L] (https://github.com/PretentiousPanda)
