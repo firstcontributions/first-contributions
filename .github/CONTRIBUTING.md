@@ -277,7 +277,10 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/OtacilioN">OtacilioN</a>
-        </td>
+		        </td>
+		<td> 
+			<a href="https://github.com/sparemetrix">SpareMeTrix</a>
+		</td>
         <td>
             <a href="https://github.com/nunofca">nunofca</a>
         </td>
