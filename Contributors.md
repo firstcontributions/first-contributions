@@ -12,6 +12,7 @@
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
 - [Lashan Chamodya] (https://github.com/Lashan7)
+- [Simon Huang] (https://github.com/simawn)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Siddhant Mehta] 
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
