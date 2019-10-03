@@ -74,6 +74,7 @@
 - [Mayke Rezende] (https://github.com/maykemrezende)
 - [Gabriel R Sezefredo](https://github.com/gabrieldrs)
 - [Katya Fadeeva](https://github.com/fadeeva)
+- [Vinil Vasani](https://github.com/vinilvasani)
 - [Justin Brown](https://github.com/mediumjustinbieber)
 - [Ayuba Kamol] (https://github.com/kayub007)
 - [Ajey prasand](https://github.com/ajeyprasand)
