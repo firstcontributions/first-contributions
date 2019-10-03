@@ -171,6 +171,7 @@
 -.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
 - [Chris Yu](https://github.com/chrisayu321)
 - [BA] (https://github.com/ba)
+- [Samuel Ryecroft] (https://github/samuelryecroft)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [kookie](https://github.com/kookie)
 - [LBeul](https://github.com/LBeul/)
