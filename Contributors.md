@@ -347,6 +347,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Devil-Echo]
 - [lukemclean97] (https://github.com/lukemclean97)
 - [Strayckler](https://github.com/Strayckler)
+- [Nidhi Sebastian](https://github.com/nidhisebastian008)
 - [Richard Nguyen](https://github.com/ripnguyen)
 - [Winnie Song] (https://github.com/windixxie)
 - [varkychen] (https://github.com/varkychen)
