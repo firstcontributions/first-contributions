@@ -5253,6 +5253,7 @@ Stephan Sharpe
 - [Prakhar Gupta](https://github.com/pg8469)
 - [Lawrence Lin](https://github.com/LawrenceLin690)
 - [Gaurav Aggarwal](https://github.com/msgaurav)
+- [Patrick Breen](https://github.com/ptrkbrn)
 - [Rishabh Srivastava](https://github.com/rishabhonline)
 - [Marijke Meersman](https://github.com/MarijkeM)
 - [Penthaa Patel](https://github.com/penthaapatel)
