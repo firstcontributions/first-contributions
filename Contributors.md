@@ -16473,3 +16473,4 @@ Mário Baltazar
 - [Si Nguyen](https://github.com/nguyenphusi/)
 - [Broleaf](https://github.com/BroLeaf)
 - [Torfab](https://github.com/Torfab)
+- [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
