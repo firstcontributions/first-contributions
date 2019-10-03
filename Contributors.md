@@ -71,6 +71,7 @@
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
+- [Aseem Sangalay](https://github.com/A-s-e-e-m)
 - [Arpit Aggarwal](https://github.com/arpit94)
 - [Dalida Saad](https://github.com/saaddalida)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
