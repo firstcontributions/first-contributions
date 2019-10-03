@@ -22,11 +22,11 @@ Angleški izrazi so v oklepajih, da dodajo kontekst vsebini.
 
 Če na svojem računalniku še nimaš "git", si ga [naloži]( https://help.github.com/articles/set-up-git/).
 
-## Ustvari svojo različico repository-ja ( Fork this repository )
+## Ustvari svojo različico repository-ja (Fork this repository)
 
-S pritiskom na gumb "Fork" na vrhu te strani, ustvari svojo različico repositorya ( pogosto skrajšano v "repo" ) v svojem GitHub računu.
+S pritiskom na gumb "Fork" na vrhu te strani, ustvari svojo različico repositorya (pogosto skrajšano v "repo") v svojem GitHub računu.
 
-## Kloniraj ta repository ( Clone the repository )
+## Kloniraj ta repository (Clone the repository)
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
@@ -37,7 +37,7 @@ Odpri terminal in se postavi v direktorij, v katerem želiš imeti svojo kopijo 
 ```
 git clone "url naslov, ki si ga ravno skopiral"
 ```
-"url naslov, ki si ga ravno skopiral" (brez navednic) je naslov, ki si ga skopiral na Githubu ( naslov tvoje različice projekta ). Glej prejšne korake da dobiš url naslov.
+"url naslov, ki si ga ravno skopiral" (brez navednic) je naslov, ki si ga skopiral na Githubu (naslov tvoje različice projekta). Glej prejšne korake da dobiš url naslov.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -47,7 +47,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 `this-is-you` je tvoje GitHub uporabniško ime. Ta ukaz skopira vsebino repositorya "first-contributions" z GitHuba v tvoj računalnik.
 
-## Ustvari vejo ( Create a branch )
+## Ustvari vejo (Create a branch)
 
 Prestavi se v direktorij repositorya na svojem računalniku (če še nisi v njem):
 
@@ -65,7 +65,7 @@ git checkout -b add-janez-novak
 ```
 (Ni potrebno da je v imenu veje *add*, vendar je v tem primeru smiselno, ker je namen veje da dodaš svoje ime na seznam.)
 
-## Naredi spremembe in izvedi commmit teh sprememb ( Make necessary changes and commit those changes )
+## Naredi spremembe in izvedi commmit teh sprememb (Make necessary changes and commit those changes)
 
 Odpri datoteko `Contributors.md` v urejevalniku besedila in dodaj svoje ime. Ne dodajaj ga na začetek ali konec datoteke, dodaj ga nekje vmes. Shrani datoteko.
 
@@ -86,7 +86,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 Zamenjaj `<your-name>` s svojim imenom. Tekst med navednicami je komentar spremembe, ki se shrani s spremembo.
 
-## Pošlji spremembe na GitHub ( Push changes to GitHub )
+## Pošlji spremembe na GitHub (Push changes to GitHub)
 
 Pošlji svoje spremembe z ukazom `git push`:
 ```
@@ -94,7 +94,7 @@ git push origin <add-your-branch-name>
 ```
 Zamenjaj `<add-your-branch-name>` z imenom veje, ki si jo ustvaril.
 
-## Vloži svoje spremembe v pregled ( Submit your changes for review )
+## Vloži svoje spremembe v pregled (Submit your changes for review)
 
 Če preveriš svoj repository na GitHubu, vidiš gumb `Compare & pull request`. Klikni na ta gumb.
 
@@ -106,7 +106,7 @@ Sedaj izvedi submit svojega pull requesta.
 
 Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni nabiralnik boš dobil sporočilo, da so bile spremembe združene.
 
-##  Kako nadaljevati? ( Where to go from here? )
+##  Kako nadaljevati? (Where to go from here?)
 
 Čestitke! Pravkar si končal običajni _fork -> clone -> edit -> PR_ potek dela, ki ga boš srečal kot sodelavec v odprto kodnih projektih! 
 
