@@ -22,7 +22,7 @@ include:
 
 Examples of unacceptable behaviour by participants include:
 
-*   The use of sexualized language or imagery and unwelcome sexual attention or advances.
+*   The use of sexualized language or imaginery and unwelcome sexual attention or advances.
 *   Trolling, insulting/derogatory comments, and personal or political attacks.
 *   Public or private harassment.
 *   Publishing others' private information, such as a physical or electronic address, without explicit permission.
@@ -55,7 +55,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances. The project team
-is obligated to maintain confidentiality with regard to the reporter of an
+is obligated to maintain confidentially with regard to the reporter of an
 incident. Further details of specific enforcement policies may be posted
 separately.
 
