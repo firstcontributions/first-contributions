@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Cedrik Boudreau] (https://github.com/cedriking)
@@ -1594,6 +1594,7 @@ Stephan Sharpe
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen](https://github.com/achencoms)
 - [Ahmed Khaled](https://github.com/ahmedkhaledak)
+- [Gennadi Janzen](https://github.com/gennadigennadigennadi)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh](https://github.com/duytrinhvn)
 - [Nirakar Puri](https://github.com/nirakarpuri)
