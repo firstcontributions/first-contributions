@@ -2,7 +2,7 @@
 
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Cedrik Boudreau] (https://github.com/cedriking)
-- [Sameer Kashyap] (https://github.com/Sameerkash)
+- [Sameer S Kashyap] (https://github.com/Sameerkash)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
@@ -107,7 +107,7 @@
 - [Phillip Kent Knight](https://github.com/phillipknight)
 - [Samer Baslan] (https://github.com/samerbaslan
 - [SaurabhChugh]
--[Raghavi]
+- [Raghavi]
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [tusnolobov](https://github.com/tusnolobov)
