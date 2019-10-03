@@ -29,6 +29,7 @@
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [DanielSurizon] (https://github.com/Danielsuri)
+- [dark-shadow7](https://github.com/dark-shadow7)
 - [Ankit Grover](https://github.com/Agrover112)
 - [Shubham Gupta](https://github.com/shubham030)
 - [Anna Levenberg](https://github.com/alevenberg)
