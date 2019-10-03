@@ -133,6 +133,7 @@
 - [Ramona Burger](https://github.com/rmnbrgr)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
+- [Karthik Venkataramani](https://github.com/kvenkman)
 - [Nick Reisenauer](https://github.com/nickreisenauer)
 - [JColl]
 - [mrAsabol] (https://github.com/mrAsabol)
