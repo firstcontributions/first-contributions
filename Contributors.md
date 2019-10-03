@@ -93,6 +93,7 @@
 - [azamat] (https://github.com/tikenov)
 - [Manan Kevadiya] (https://github.com/manan2501)
 - [aiden](https://github.com/acdlbs)
+- [rincewindgv](https://github.com/rincewindgv)
 - [dilapitan](https://github.com/dilapitan)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Badri.SR] (https://github.com/badri001)
