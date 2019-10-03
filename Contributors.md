@@ -193,6 +193,7 @@
 - [f1xer](https://github.com/f1xer)
 - [Hoe Hooi Yan](https://github.com/hoehooiyan)
 -[Babi Nick](https://github.com/BabiNick)
+- [Vipul Rawat](https://github.com/VipulRawat008)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
