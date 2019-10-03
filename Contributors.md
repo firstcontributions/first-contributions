@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Lukas Scholz] (https://github.com/therealgherkhin)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [flashintosh] (https://github.com/flashintosh)
