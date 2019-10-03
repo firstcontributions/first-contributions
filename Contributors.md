@@ -11917,6 +11917,7 @@ Stephan Sharpe
 - [William Dana](https://github.com/wbdana)
 - [Brandon Gant](https://github.com/bgant)
 - [Bradford Swanson](https://github.com/bradfordswanson)
+- [Mike Bicko](https://github.com/Bicko)
 - [Pranavi Dadireddy](https://github.com/PranaviDadireddy)
 - [Purva Udai Singh](https://github.com/purvaudai)
 - [George Samuel](https://github.com/samdiano)
