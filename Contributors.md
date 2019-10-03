@@ -169,6 +169,7 @@
 - [Danny Thompson](https://github.com/dannythompson901)
 - [Eddenm]
 - [Natasha]
+- [Chad Sisk](https://github.com/chadwyck242)
 - [Arpit](https://github.com/maiarpitjain)
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
