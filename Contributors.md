@@ -102,6 +102,7 @@
 - [Anuj Singh](https://github.com/myselfanuj)
 - [abhipsa002](https://github.com/abhipsa002)
 - [Sensanaty](https://github.com/Sensanaty)
+- [Rishabh Jain] (https://github.com/j-rishabh)
 - [sevonefive]
 - [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
