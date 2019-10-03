@@ -10706,6 +10706,7 @@ Stephan Sharpe
 - [Ali Kaan](https://github.com/alikaanbaci)
 - [Ching Ling Yeung](https://github.com/ChingLingYeung)
 - [Abhishek Kandi](https://github.com/abhishekkandi)
+- [Odysside] (https://github.com/Odysside)
 - [Jenna Conway](http://github.com/jennaconway)
 - [Julian Blundstone](https://github.com/colossalwombat)
 - [Michael Grupe](https://github.com/Grumic)
