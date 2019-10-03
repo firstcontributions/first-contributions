@@ -14,6 +14,7 @@
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Siddhant Mehta] 
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
+- [Argha Sarkar] (https://github.com/arghasarkar)
 - [Lasse Stilvang](https://github.com/lassestilvang)
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
