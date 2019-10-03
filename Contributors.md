@@ -4,6 +4,7 @@
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
+- [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [Matthew Piriya] (https://github.com/mvp223)
