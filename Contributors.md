@@ -5916,6 +5916,7 @@ Stephan Sharpe
 - [Rohit katlaa](https://github.com/rohitkatlaa)
 - [Vanessa Nimomo](https://github.com/VanessaNimmo)
 - [James](https://github.com/james-flynn-ie)
+- [Nash](https://github.com/jnasoy)
 - [Shubhankar Chandra Banerjee](https://github.com/shubhankarb180)
 - [Vanya Grover](https://github.com/VanyaGrover)
 - [Shivansh](https://github.com/shivanshkroos)
