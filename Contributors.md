@@ -7,6 +7,7 @@
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
+- [Lasse Stilvang](https://github.com/lassestilvang)
 - [Leesa] (https://github.com/leesadang)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
