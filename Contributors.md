@@ -1047,6 +1047,7 @@ Nishtha3512
 - [Alex Herdzik] (https://github.com/aherdzik)
 - [Colin Anderson](https://github.com/40216006)
 - [Shirish Nigam](https://github.com/techlab23)
+- [Ebbryl](https://github.com/Ebbryl)
 - Will K
 - Aaron Ehrensberger
 - [Sreedev S](https://github.com/finetard)
@@ -1202,6 +1203,7 @@ Stephan Sharpe
 - [Jonathan Yee](https://github.com/TheCountOfPeru)
 - Trisha Thakur
 - [Drew Thomas](https://github.com/DrewThomasCorps)
+- Vedhashree B
 - [Mohammad Ansari](https://github.com/MohammadAnsari98)
 - [Ronit Yakovson](https://github.com/ronityako)
 - [wa4It](https://github.com/dTCTb)
@@ -16553,3 +16555,4 @@ Mário Baltazar
 - [Akos Kovacs](https://github.com/plaidshirtakos)
 - [Mark O'Hara](https://github.com/markohara)
 - [ShermayneLee](https://github.com/leeshermayne)
+- [Andhika Samudra Wibawa](https://github.com/andhikasamudra)
