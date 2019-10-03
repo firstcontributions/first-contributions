@@ -162,6 +162,7 @@
 - [Nick Reisenauer](https://github.com/nickreisenauer)
 - [Tanner Zigrang](https://github.com/tannerzigrang)
 - [JColl]
+- [PseudoBinary](https://github.com/pseudobinary)
 - [mrAsabol] (https://github.com/mrAsabol)
 - [Claudia Vargas] (https://github.com/claucvk)
 - [Akash Ghosh](https://github.com/akash100)
