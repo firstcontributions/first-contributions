@@ -6605,6 +6605,7 @@ Stephan Sharpe
 - [Seton Raynor](https://github.com/setonr)
 - [Igor Antonov](https://github.com/IgorAntonov)
 - [Ahmed Helal Ahmed](https://github.com/AhmedHelalAhmed)
+- [Eric Newcombe](https://github.com/EricNewcombe/)
 - [Xamenyap](https://github.com/xamenyap)
 - [Luísa Silva](https://github.com/mluisas)
 - [Jenny Justh](https://github.com/jennyjj)
