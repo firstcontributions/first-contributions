@@ -3,6 +3,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Naezzin] (https://github.com/naezzin)
 - [Cedrik Boudreau] (https://github.com/cedriking)
+- [Anton de Regt] (https://github.com/antonderegt)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
 - [Spencer Robinson] (https://github.com/spenmaster)
