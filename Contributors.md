@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Lashan Chamodya] (https://github.com/Lashan7)
@@ -7724,6 +7725,7 @@ Stephan Sharpe
 - [Richa Singhal](https://github.com/RichaSinghal)
 - [Nirup Murali](https://github.com/Nirupg63)
 - [Vivek Kumar](https://github.com/vivekaltruist)
+- [Nicolò Sonnino](https://github.com/S0NN1)
 - [Thomas Herman](https://github.com/thomasherman)
 - [Sumit Kumar](https://github.com/sumitk39)
 - [Pravallika Somasani](https://github.com/spravallika)
