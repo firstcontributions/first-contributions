@@ -23,6 +23,7 @@
 - [Ankit Grover](https://github.com/Agrover112)
 - [Shubham Gupta](https://github.com/shubham030)
 - [Anna Levenberg](https://github.com/alevenberg)
+- [Jatin Narula](https://github.com/jatin96)
 - [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
