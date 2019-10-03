@@ -178,6 +178,7 @@
 - [RobinKartikeyaKhatri](https://github.com/RobinKartikeyaKhatri)
 - [Tyana Stone](https://github.com/tyanastone)
 - [bernheder](https://github.com/bernheder)
+- [Michael Seche](https://github.com/mseche)
 - [Kyle Knickerbocker](https://github.com/ckylek)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
