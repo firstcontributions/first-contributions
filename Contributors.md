@@ -16541,3 +16541,4 @@ Mário Baltazar
 - [Ivan Gagarinov] (https://github.com/dzencot)
 - [Derek Sudduth](https://github.com/dsudduth)
 - [Rafferty Chen](https://github.com/MagicTurtle2203)
+- [Akos Kovacs](https://github.com/plaidshirtakos)
