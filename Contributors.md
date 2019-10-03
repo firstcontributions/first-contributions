@@ -18,6 +18,7 @@
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
 - [Ritik Kanotra] (https://githib.com/ritikkanotra)
+- [Divyam Agrawal] (https://github.com/divyamagwl)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [Matthew Piriya] (https://github.com/mvp223)
