@@ -21,6 +21,7 @@
 - [flashintosh] (https://github.com/flashintosh)
 - [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
+  [Kevin Robitaille] (https://github.com/krobitaille93)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Dhruva Mahajan](https://github.com/dhruva169)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
