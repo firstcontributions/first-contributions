@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
@@ -18,6 +18,7 @@
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Deepak Agarwal]
+- [Emily White] (https://github.com/kropht)
 - [Alok Sahoo](https://github.com/aloks98)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
