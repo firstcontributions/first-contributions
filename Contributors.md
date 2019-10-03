@@ -5786,3 +5786,4 @@ Keithan Philander
 - [Markus Petersson](https://github.com/marpe163)
 - [Nemohack](https://github.com/nemohack)
 - [Saumya Wardhan](https://github.com/swardhan)
+- [Jeff Gaoey](https://github.com/Gaoey)
