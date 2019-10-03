@@ -3,6 +3,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
 - [Naezzin] (https://github.com/naezzin)
+- [Francisca Astengo] (https://github.com/frastengo)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Anton de Regt] (https://github.com/antonderegt)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
