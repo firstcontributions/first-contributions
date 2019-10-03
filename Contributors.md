@@ -67,6 +67,7 @@
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
+- [Dan Ince](https://github.com/dince12)
 - [Rodrigo Franco](https://github.com/rodrigoAMF)
 - [Nasir Kamal](https://github.com/nasirkamal)
 - [Stefanos Ugbit](https://github.com/stefanosu)
