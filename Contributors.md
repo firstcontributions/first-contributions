@@ -8286,6 +8286,7 @@ Stephan Sharpe
 - [Jesus Antonio Zu?iga Arce](https://github.com/jzunigarce)
 - [Diane Gayden](https://github.com/OTR500miles2go)
 - [Antonio Suarez](https://github.com/GrupoKino)
+- [Sayan Mondal](https://github.com/S-ayanide)
 - [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
 - [Jeff Thompson](https://github.com/jello7654)
@@ -16510,4 +16511,5 @@ Mário Baltazar
 - [Jecsan Blanco](https://github.com/jecsanb)
 - [juan88](https://github.com/juan88)
 - [Tristan3](https://github.com/Tristan3)
+- [Messias Henrique](https://github.com/messias-henrique)
 - [brettbot7](https://github.com/brettbot7)
