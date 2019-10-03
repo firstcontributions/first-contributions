@@ -2,6 +2,7 @@
 
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
+- [Maxime-DO](https://github.com/Maxime-DO)
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
