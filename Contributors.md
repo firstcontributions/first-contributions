@@ -16566,5 +16566,6 @@ Mário Baltazar
 - [Julien Blondeau](https://github.com/BlondeauJulien)
 - [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
 - [Indu Rupi](https://github.com/indurupi)
+- [Jyotika Sharma](https://github.com/Jyotika25)
 - [Bako Harry Rakotondratompo](https://github.com/harrylepap)
 - [VJ](https://github.com/halfsingh)
