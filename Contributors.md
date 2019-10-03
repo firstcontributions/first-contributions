@@ -3,6 +3,7 @@
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Lashan Chamodya] (https://github.com/Lashan7)
+- [Vanessa Böhner](https://github.com/vannsl)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Tachid Boonpipat] (https://github.com/Telexine)
