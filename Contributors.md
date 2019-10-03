@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dhairya Patel](https://github.com/dhairya0704)
@@ -1415,6 +1415,7 @@ Stephan Sharpe
 - [Ahmad Reza](https://github.com/hungryDev39)
 - [Anthony Chen](https://github.com/achencoms)
 - [Ahmed Khaled](https://github.com/ahmedkhaledak)
+- [Gennadi Janzen](https://github.com/gennadigennadigennadi)
 - [Danielkvist](https://github.com/danielkvist)
 - [Duy Trinh](https://github.com/duytrinhvn)
 - [Nirakar Puri](https://github.com/nirakarpuri)
