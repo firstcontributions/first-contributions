@@ -4203,6 +4203,7 @@ Stephan Sharpe
 - [Shoyeb Memon](https://github.com/memon07)
 - [Vinit Mahajan](https://github.com/mahajanvv)
 - [SH Shin](https://github.com/sshplendid)
+- [Abhishek Rastogi](https://github.com/abhirastogi)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
 - [Jai Prakash](https://github.com/last-stand)
 - [Josh Fung](https://github.com/custom-status-message)
