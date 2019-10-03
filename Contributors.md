@@ -9087,6 +9087,7 @@ Stephan Sharpe
 - [Robson Cruz](https://github.com/deadpyxel)
 - [Gopi Surendra](https://github.com/gsrc1026)
 - [Bryan Falls](https://github.com/bfalls158)
+- [Alexander Yakovenko](https://github.com/AlexVJack)
 - [David Saul](https://github.com/DSaul91)
 - [Rob Bentley](https://github.com/RobBentleyDev)
 - [Tramezzini](https://github.com/tramezzini)
