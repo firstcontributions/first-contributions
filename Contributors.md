@@ -16095,3 +16095,4 @@ Mário Baltazar
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
 - [Andrew Limaru](https://github.com/andr3wll)
+- [Guilherme Moura Ignacio](https://github.com/guimouraignacio)
