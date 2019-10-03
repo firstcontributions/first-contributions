@@ -16581,6 +16581,7 @@ Mário Baltazar
 - [Si Nguyen](https://github.com/nguyenphusi/)
 - [Broleaf](https://github.com/BroLeaf)
 - [Torfab](https://github.com/Torfab)
+- [EmilBra](https://github.com/erdustiggen)
 - [zranck](https://github.com/zranck)
 - [UnRealDinnerbone](https://github.com/unrealdinnerbone)
 - [Gaz492](https://github.com/Gaz492)
