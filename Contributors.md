@@ -6575,6 +6575,7 @@ Stephan Sharpe
 - [Joey K](https://github.com/hjk1806)
 - [Hall Bregg](https://github.com/HallBregg)
 - [Elton Jefferson](https://github.com/eltonjncorreia)
+- [Juliana Berdeville] (https://github.com/Jberdeville)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Kris Witalewski](https://github.com/witalewski)
 - [Joe Ganobsik](https://github.com/jganobsik)
