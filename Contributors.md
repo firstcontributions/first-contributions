@@ -16562,3 +16562,4 @@ Mário Baltazar
 - [Andhika Samudra Wibawa](https://github.com/andhikasamudra)
 - [Julien Blondeau](https://github.com/BlondeauJulien)
 - [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
+- [Bako Harry Rakotondratompo](https://github.com/harrylepap)
