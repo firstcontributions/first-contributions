@@ -724,6 +724,7 @@ Nishtha3512
 - Barry West (https://github.com/trenddreamer)
 - Daniel Larken
 - Michael Jackson 'King of Pop'
+- [Bryant Caruthers](https://github.com/bcaruthers)
 - Michael Giardino
 - alokranjan1234
 - [William Eller](https://github.com/WilliamEller)
