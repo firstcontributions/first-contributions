@@ -417,6 +417,8 @@ Hammad Qureshi
 - dementor235 :)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
+- [Gaurav Singh](https://github.com/gauraws)
+- Gaurav Singh
 - [Kailee]
 - [Jessica Van Rooyen] (https://github.com/jessicavrooyen)
 - [JawnMarc](https://github.com/JawnMarc)
