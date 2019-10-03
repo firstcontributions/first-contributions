@@ -16555,4 +16555,5 @@ Mário Baltazar
 - [Akos Kovacs](https://github.com/plaidshirtakos)
 - [Mark O'Hara](https://github.com/markohara)
 - [Andhika Samudra Wibawa](https://github.com/andhikasamudra)
+- [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
 - [Utkarsh Gupta](https://github.com/utkryuk)
