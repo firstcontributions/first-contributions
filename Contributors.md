@@ -139,6 +139,7 @@
 - [Ekin Eren](https://github.com/EkinEren)
 - [Karthik Venkataramani](https://github.com/kvenkman)
 - [Nick Reisenauer](https://github.com/nickreisenauer)
+- [Tanner Zigrang](https://github.com/tannerzigrang)
 - [JColl]
 - [mrAsabol] (https://github.com/mrAsabol)
 - [Claudia Vargas] (https://github.com/claucvk)
