@@ -9,7 +9,7 @@ Or, if you only want to remove one file from your previous commit. Then, you can
 ```
 git reset <file>
 ```
-The command will remove only the specified file from the staging area, but changes made on the file still remained.
+The command will remove only the specified file from the staging area, but changes made on the file will still remain.
 
 Example of ```git reset``` usage
 ```
