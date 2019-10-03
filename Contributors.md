@@ -2,7 +2,7 @@
 
 - [aiden](https://github.com/acdlbs)
 - [priya]
--[Priyanka788]
+-[Priyanka788] 
 - [sigmund](https://siggymc.deviantart.com)
 - [Edwin Sumbayak](https://github.com/edwinsbyk)
 - [igor](https://github.com/igorshiota)
@@ -356,6 +356,7 @@ Haris Siddiqui
 -Tal Khan
 -Shantal Ewell
 - Satvinder Singh
+-priyanka786
 -Jairaj Sahgal (https://jairajsahgal.github.io)
 - [Gionelle Tribiana](https://github.com/gionellef)
 - [Alex Khalin](https://github.com/alexkhalin)
