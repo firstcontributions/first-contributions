@@ -133,6 +133,7 @@
 - [jannesrudnick](https://github.com/jannesrudnick)
 - [Danny Thompson](https://github.com/dannythompson901)
 - [Eddenm]
+- [Arpit](https://github.com/maiarpitjain)
 - [Phat Tran](https://github.com/PineyFutanaristic)
 - [Maik Pleines] (https://github.com/mpleines)
 - [Gopikrishnan R] (https://github.com/gopikrishnanrmg)
