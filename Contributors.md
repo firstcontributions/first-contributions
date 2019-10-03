@@ -1,6 +1,7 @@
-# Contributors
+﻿# Contributors
 
 - [Cedrik Boudreau] (https://github.com/cedriking)
+- [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [Matthew Piriya] (https://github.com/mvp223)
