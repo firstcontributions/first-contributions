@@ -91,6 +91,7 @@
 - [Josh Javier](https://github.com/joshjavier)
 - [Amy McGowan]
 - [Raghavendra Dillikar]
+- [Vincent64ify](https://github.com/Vincent64ify)
 - [Maheep Walia](https://github.com/waliamaheep)
 - [Alan Garcia](https://github.com/alandvgarcia)
 - [Ankit Srivastava](https://github.com/a18nov)
