@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Cedrik Boudreau] (https://github.com/cedriking)
+- [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Tachid Boonpipat] (https://github.com/Telexine)
