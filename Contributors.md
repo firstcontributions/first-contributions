@@ -1662,6 +1662,7 @@ Stephan Sharpe
 - [Gerardo Torres](https://github.com/geratorres)
 - [Brecht Loos](https://github.com/loosbrecht)
 - [Faraz Murtaza](https://github.com/farazmurtaza)
+- [Theressa Marie Tan](https://github.com/tmttan03)
 - Vedant Pareek
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - [Sampath MS](https://github.com/sampath-ms/)
