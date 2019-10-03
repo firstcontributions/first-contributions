@@ -3,6 +3,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
+- [Spencer Robinson] (https://github.com/spenmaster)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
 - [Lashan Chamodya] (https://github.com/Lashan7)
