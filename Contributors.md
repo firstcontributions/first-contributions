@@ -2341,6 +2341,7 @@ Stephan Sharpe
 - [Tina Jurén](https://github.com/TinaJuren)
 - [Pingu Penghoven](https://github.com/pingu-code)
 - [Daniele Bachicchi](https://github.com/badge87)
+- [Christian Lopez](https://github.com/1Chr1s)
 - [Ivor Hill](https://github.com/ivorhill)
 - [Shlok Khandelwal](https://github.com/shlokkh)
 - [ABGEO07](https://github.com/ABGEO07)
