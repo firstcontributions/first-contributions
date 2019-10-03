@@ -1047,6 +1047,7 @@ Nishtha3512
 - [Alex Herdzik] (https://github.com/aherdzik)
 - [Colin Anderson](https://github.com/40216006)
 - [Shirish Nigam](https://github.com/techlab23)
+- [Ebbryl](https://github.com/Ebbryl)
 - Will K
 - Aaron Ehrensberger
 - [Sreedev S](https://github.com/finetard)
