@@ -64,6 +64,7 @@
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
+- [roger moore](https://github.com/rogermoorewentalongwithit)
 - [Amy McGowan]
 - [Maheep Walia](https://github.com/waliamaheep)
 - [Alan Garcia](https://github.com/alandvgarcia)
@@ -16514,6 +16515,7 @@ Mário Baltazar
 - [David Port Louis](https://github.com/davidportlouis)
 - [Andrea Q](https://github.com/andrea1015)
 - [Amma G](https://github.com/AmmaGrant)
+- [roger moore](https://github.com/rogermoorewentalongwithit)
 - [Kate Gamo](https://github.com/kategamo)
 - [Jasmine Garcia](https://github.com/garciajasminejoy)
 - [HpotsirhcH](https://github.com/HpotsirhcH)
