@@ -88,6 +88,7 @@
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
 - [Shakir Jamal](https://github.com/AlphaLazer)
+- [Aditya Kumar](https://github.com/kumaraditya1999)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
 - [priya]
 - [Kevin Dorner](https://github.com/mrhspecter)
