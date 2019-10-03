@@ -155,6 +155,7 @@
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [kookie](https://github.com/kookie)
 - [LBeul](https://github.com/LBeul/)
+- [Nimesha1996](https://github.com/Nimesha1996)
 - [Stacy Holtz] (https://github.com/stacyholtz6)
 - [Mitarth Jain] (https://github.com/mitarthjain)
 - [Vincenzo Vipond] (https://github.com/Angadeon)
