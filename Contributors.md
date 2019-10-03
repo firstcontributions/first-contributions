@@ -28,6 +28,7 @@ Kevin Hudson
 - [Badal Moradia](https://github.com/bamoradia)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
+- [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Muiris Dunworth](https://github.com/muiris)
 - [Cecilia Song Avery](https://github.com/cilavery)
 - [Peter Vondras](https://github.com/PeterVondras)
