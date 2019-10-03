@@ -47,6 +47,7 @@
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Rodrigo Franco](https://github.com/rodrigoAMF)
+- [Nasir Kamal](https://github.com/nasirkamal)
 - [Stefanos Ugbit](https://github.com/stefanosu)
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
