@@ -402,6 +402,7 @@ Hammad Qureshi
 - [Raheel Iqbal](https://github.com/raheel-iqbal)
 - [Muhammad Tehami](https://github.com/t3hami)
 - [Dysar](https://github.com/Dysar)
+  [Armando Villanueva](https://github.com/pixlflame)
 - [Carson Woods] (https://github.com/cdwoods1)
 - [Ilhambara] (https://github.com/g2ailhammubarok)
 - [Shailesh Jain](https://github.com/ShailuJain)
