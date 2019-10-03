@@ -4136,6 +4136,7 @@ Stephan Sharpe
 - [Anoop P](https://github.com/Anooppandikashala)
 - Manu
 - [James Bowler](https://github.com/jimuk07)
+- [Karan Kumar G](https://github.com/spielerr)
 - [w5bh](https://github.com/w5bh)
 - [fullheightcoding](https://github.com/fullheightcoding)
 - [Meixu Chen](https://github.com/kathychenmx)
