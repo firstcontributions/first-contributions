@@ -2,6 +2,7 @@
 
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Karan Singh] (https://github.com/karansinghgit)
+- [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [Matthew Piriya] (https://github.com/mvp223)
 - [flashintosh] (https://github.com/flashintosh)
