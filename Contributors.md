@@ -250,6 +250,7 @@
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
+- [Alexandra Davis](https://github.com/ale2157)
 - [MarieSell](https://github.com/MarieSell)
 -[T.H.Arjun](https://github.com/tharjun2001)
 -[Shekhar Srivastava](https://github.com/skrstv123)
