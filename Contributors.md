@@ -362,6 +362,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Santiago Garcia](https://github.com/santitigaga)
 - [Samskruthi J P](https://github.com/samskruthijp)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
+- [GenerationXCode]
 - [Stacy Meichle](https://github.com/smeichle)
 - [Brendan Musick](https://github.com/B-Musick)
 - [prince1508](http://github.com/prince1508)
