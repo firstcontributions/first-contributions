@@ -4589,6 +4589,7 @@ Stephan Sharpe
 - [Charvi](https://github.com/cm7799)
 - Nokod
 - Bonnie Bee
+- Katha
 - [Dade Wood](https://github.com/daw1882)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Willy Setiawan](https://github.com/willek)
