@@ -12816,6 +12816,7 @@ Stephan Sharpe
 - [Collin Choy](collincchoy.github.io)
 - [Jonas Mazza](https://github.com/JonasMazza)
 - [Sid Lab](https://github.com/SidSoft)
+- [Brad Fabian](https://github.com/BradFabian)
 - [James Baxter](https://github.com/ekstasis)
 - [Emily Wilson](https://github.com/wilsonem)
 - [Lei Chen](http://github.com/grok-phantom)
