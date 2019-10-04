@@ -153,6 +153,7 @@
 - [Sensanaty](https://github.com/Sensanaty)
 - [Rishabh Jain] (https://github.com/j-rishabh)
 - [sevonefive]
+- [Felix](https://github.com/felixfelix100)
 - [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
