@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
@@ -16685,3 +16685,4 @@ Mário Baltazar
 - [Valasulth] (https://github.com/valasulth)
 - [Arupam Kumar Saha](https://github.com/arupam)
 - [Harshaan Nihal](https://github.com/harshaannihal)
+- [Kyle Heron](https://github.com/KyleHeron)
