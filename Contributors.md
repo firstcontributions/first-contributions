@@ -1132,6 +1132,7 @@ Nishtha3512
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Ryan Chen](https://github.com/bh-c)
+- MarinaF (https://github.com/fadmarina)
 - Hector Magana
 - [Muhammad Javed](https://github.com/hamham240)
 - ohm Resistance
