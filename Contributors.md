@@ -1808,6 +1808,7 @@ Stephan Sharpe
 - [Bluekable](https://github.com/bluekable)
 - [Rex Fagin](https://github.com/faginr)
 - [Arpit Shrotriya](https://github.com/Cyclostone)
+- [Anurag Verma](https://github.com/anuragverma65)
 - [Santanu Das](https://github.com/Santanu1995)
 - [Jayshree Aishwarya](https://github.com/IamJayshree)
 - [Karson Nichols](https://github.com/nicholsk18)
