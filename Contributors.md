@@ -7530,6 +7530,7 @@ Stephan Sharpe
 - [Adam Benckeser](https://github.com/yourfriendadam)
 - [Eric Chen](https://github.com/LacticAcidCYC)
 - [Sanjay Johny](https://github.com/san45)
+- [Mike Harison](https://github.com/ironcladmerc)
 - [Michael Ebenstein](https://github.com/mebenstein-tgm)
 - [armandfardeau](https://github.com/armandfardeau/first-contributions)
 - [Lasgidy Gideon](https://github.com/lasgidy)
