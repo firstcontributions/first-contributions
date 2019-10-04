@@ -9584,6 +9584,7 @@ Stephan Sharpe
 - [Pranjal Aswani](https://github.com/aswanipranjal)
 - [Alex Noble](https://github.com/Alex-Noble4)
 - [Thales Iwashima](https://github.com/TIwashima)
+- [Stefan Koks](https://github.com/70discohits)
 - [Candelario Gutierrez](https://github.com/cande1gut)
 - [David Sharkey](https://github.com/DavidSharkey)
 - [Ahmed Youssef](https://github.com/yousse128)
