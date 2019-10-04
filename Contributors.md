@@ -1,6 +1,8 @@
-# Contributors
+﻿# Contributors
 
+- [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Dony Purnama] (https://github.com/donypurnama)
+- [Saksham Singh] (https://github.com/Saksham27)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
@@ -16719,3 +16721,6 @@ Mário Baltazar
 - [Justin ZHang](https://github.com/juzhang18)
 - [Manjot](https://github.com/tagating)
 - [Panji Awwaludi D.](https://github.com/PanjiAD)
+- [Panji Awwaludi D.](https://github.com/PanjiAD)
+- [Saurabh Shwetabh Singh](https://github.com/saurabhshwetabhsingh)
+- [Cindy Sweetpea] (https://github.com/sweetpea22)
