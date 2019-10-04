@@ -522,6 +522,7 @@ Haris Siddiqui
 -[Brady Atkinson](https://github.com/BradyAtkinson)
 -[Josh Rigney](https://github.com/DreamSpinner22)
 - [Oren Shafir](https://github.com/Orenshaf)
+- [Loon Atic] (https://github.com/toontownloony)
 - Devraj Singh Shekhawat
 - Zeinab
 - Cate
