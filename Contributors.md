@@ -30,6 +30,7 @@
 - [Siddhant Mehta] 
 - [Jurie Spies]
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
+- [Carlos Rorato] (https://github.com/carlinhosxxp)
 - [Argha Sarkar] (https://github.com/arghasarkar)
 - [Lasse Stilvang](https://github.com/lassestilvang)
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
