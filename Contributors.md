@@ -16672,3 +16672,4 @@ Mário Baltazar
 - [Jerônimo Jairo](hhttps://github.com/jeron7)
 - [YeongShern Chin](https://github.com/shern91)
 - [Man Ng](https://github.com/NgYaoShien)
+- [rushup12](https://github.com/rushup12/)
