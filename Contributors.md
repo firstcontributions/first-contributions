@@ -16750,4 +16750,3 @@ Mário Baltazar
 - [Fabricio Corrêa](https://github.com/fabriciojulio)
 - [Arthur Cavalcante](https://github.com/arthurcavalcant)
 - [Ilia Karas](https://github.com/KarasIlia)
-
