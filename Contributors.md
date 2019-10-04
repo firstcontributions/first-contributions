@@ -12,6 +12,7 @@
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Annie Ke] (https://github.com/annieke)
 - [Anshu Kumari] (https://github.com/anshukcse)
+- [Diaz Saul] (https://github.com/sauldc24)
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
 - [Spencer Robinson] (https://github.com/spenmaster)
