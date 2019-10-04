@@ -242,6 +242,7 @@
 - [Nick Reisenauer](https://github.com/nickreisenauer)
 - [Tanner Zigrang](https://github.com/tannerzigrang)
 - [JColl]
+- [Princesseuh](https://github.com/princesseuh)
 - [PseudoBinary](https://github.com/pseudobinary)
 - [mrAsabol] (https://github.com/mrAsabol)
 - [Claudia Vargas] (https://github.com/claucvk)
