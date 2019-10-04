@@ -61,6 +61,7 @@
 - [DanielSurizon] (https://github.com/Danielsuri)
 - [Ankit Grover](https://github.com/Agrover112)
 - [Shubham Gupta](https://github.com/shubham030)
+- [Prakhar Singhal] (https://github.com/Ghoul2077)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Jatin Narula](https://github.com/jatin96)
 - [Tanish Baansal](https://github.com/snaked06)
