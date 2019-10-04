@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
@@ -16680,6 +16680,7 @@ Mário Baltazar
 - [A1phyte](https://github.com/A1phyte)
 - [John Met](https://github.com/johnnymetz)
 - [Ashish Chhabbi] (https://github.com/ashishc2503)
+- [1c3t3a](https://github.com/1c3t3a)
 - [Jerônimo Jairo](hhttps://github.com/jeron7)
 - [YeongShern Chin](https://github.com/shern91)
 - [Man Ng](https://github.com/NgYaoShien)
@@ -16691,3 +16692,4 @@ Mário Baltazar
 - [Harshaan Nihal](https://github.com/harshaannihal)
 - [Kyle Heron](https://github.com/KyleHeron)
 - [bhatiaAnanya](https://github.com/bhatiaAnanya)
+
