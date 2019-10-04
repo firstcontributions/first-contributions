@@ -76,6 +76,7 @@
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Shubham Raj Chauhan](https://github.com/Shuu-7)
 - [Deepak Agarwal]
+- [Andre Guimaraes] (http://github.com/Fuedy
 - [Sergei Nevstruev]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
