@@ -6748,6 +6748,7 @@ Stephan Sharpe
 - [Jasmine](https://github.com/jasminebanger)
 - [Tal Sheldon](https://github.com/sheldonzy)
 - [Clari Romero](https://github.com/clarii)
+- [Leyza Yortanli](https://github.com/yorthyizzs)
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
