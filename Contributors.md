@@ -16731,3 +16731,4 @@ Mário Baltazar
 - [Saurabh Shwetabh Singh](https://github.com/saurabhshwetabhsingh)
 - [Sho Hiramatsu](https://github.com/Ki1r0y)
 - [Harman Singh Jolly](https://github.com/CoderJolly)
+- [Iso Thiazol](https://github.com/isothiazol)
