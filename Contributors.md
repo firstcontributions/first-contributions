@@ -10,6 +10,7 @@
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Anton de Regt] (https://github.com/antonderegt)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
+- [Annie Ke] (https://github.com/annieke)
 - [Anshu Kumari] (https://github.com/anshukcse)
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
