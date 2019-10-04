@@ -7534,6 +7534,7 @@ Stephan Sharpe
 - [Faizaan Sakib](https://github.com/fznsakib)
 - [Alyssa](https://github.com/rageunleashed69)
 - [Jack Sodeman](https://github.com/TICG)
+- [Daniel Hawkins] (https://github.com/Dynam1cDan)
 - [Hpearson](https://github.com/harrytpstudent)
 - [Sachin Shetty](https://github.com/sachinsshetty)
 - [sudheerdarla](https://github.com/sudheerdarla)
