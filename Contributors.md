@@ -892,6 +892,7 @@ Arnel Forbes
 - [Christina Zakarian] (https://github.com/czakarian)
 - [James Featherstone](https://github.com/jfeathe)
 - [Utkarsh Agrawal](https://github.com/utkarsh-42)
+- [Umar](https://github.com/umar2731)
 - [Hrishit Prasad Biswas](https://github.com/Artistic18)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Sherezz Grant](https://github.com/rezziemaven)
