@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
@@ -12695,6 +12695,7 @@ Stephan Sharpe
 - [Ilya Ivanov](https://github.com/IlyaIvanov1)
 - [Andrei Diaconu](https://github.com/AndreiDiaconu1)
 - [S Kozh](https://github.com/skozh)
+- [Lara Martins](https://github.com/larainfo)
 - [Ouadie Limouni](https://github.com/ouadielim)
 - [Ouadie Limouni](https://github.com/ouadielim)
 - [Bilal Mahmood](https://github.com/bmahmood1)
