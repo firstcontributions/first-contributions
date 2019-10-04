@@ -5441,6 +5441,7 @@ Stephan Sharpe
 - [Charles Marsala](https://github.com/cmarsala91)
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
 - [Edward Scott Elder](https://github.com/eselder)
+- [Baofeng Wu] (https://github.com/BaofengWu/)
 - [Niclas](https://github.com/buffet)
 - [Obikoya Ibiniyi](https://github.com/Hybeecodes)
 - [Kat MacCannon](https://github.com/trenzafeeds)
