@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
@@ -7243,6 +7243,7 @@ Stephan Sharpe
 - [Alwathiqubellah Abumaali](https://github.com/wathiqabumaali)
 - [NivethSaran](https://github.com/nivethsaran)
 - [Glenn Halstead](https://github.com/glennh)
+- [Ilia Karas](https://github.com/KarasIlia)
 - [Satyam Singh](hhtps://github.com/satyam0107)
 - [Gabriel Fuentes](https://github.com/Helper2020)
 - [Rakesh Mothukuri](https://github.com/rockey5520)
