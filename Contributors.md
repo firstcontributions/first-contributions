@@ -16711,4 +16711,5 @@ Mário Baltazar
 - [arshahmad](https://github.com/arshahmad)
 - [Merzoug Imad-eddine](https://github.com/serinir)
 - [Justin ZHang](https://github.com/juzhang18)
+- [Manjot](https://github.com/tagating)
 - [Panji Awwaludi D.](https://github.com/PanjiAD)
