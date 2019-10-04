@@ -7280,3 +7280,4 @@ Kashish Khullar - :P
 - [Eric Ng](https://github.com/nacleric)
 - [rachitmanchanda](https://github.com/rachitmanchanda)
 - [Zaynaib Giwa](https://github.com/zaynaib)
+- [shauryabagga](https://github.com/shauryabagga)
