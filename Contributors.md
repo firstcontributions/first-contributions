@@ -1,6 +1,7 @@
 # Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
+- [Eric Stevens] (https://github.com/doomswatter)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
 - [Naezzin] (https://github.com/naezzin)
@@ -8,7 +9,7 @@
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Ghulam Mustafa1]
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
- [Francisca Astengo] (https://github.com/frastengo)
+- [Francisca Astengo] (https://github.com/frastengo)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Suchali] (https://github.com/suchali93)
 - [Anton de Regt] (https://github.com/antonderegt)
