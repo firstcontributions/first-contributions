@@ -4441,6 +4441,7 @@ Stephan Sharpe
 - [Evaldas Suraucius](https://github.com/Evaldas22)
 - [Jessica Prim](https://github.com/jessprim)
 - [Nicolas Santos](https://github.com/nsantos16)
+- [Sherry Yang](https://5hel2l2y.github.io/)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Devina Ghoda](https://github.com/devinaghoda)
 - [Stefan Script](https://github.com/stefanscript/)
