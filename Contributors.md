@@ -169,6 +169,7 @@
 - [Sensanaty](https://github.com/Sensanaty)
 - [Rishabh Jain] (https://github.com/j-rishabh)
 - [sevonefive]
+- [Nidhee Kamble](https://github.com/nidheekamble)
 - [Felix](https://github.com/felixfelix100)
 - [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
