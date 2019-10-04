@@ -665,6 +665,7 @@ Nishtha3512
 - [Maciek Slotwinski](https://github.com/grafzero)
 - Hemal Shah
 - Aksh Thakur
+- [JG](https://github.com/JG54264)
 - [Kelvin Chung](https://github.com/kelvinccc)
 - [Mike Kost](https://github.com/vopros21)
 - [Vince Bloise] (https://github.com/vbloise3)
