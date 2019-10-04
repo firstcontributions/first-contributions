@@ -43,6 +43,7 @@
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Shanmuga Sivapragasam] (https://github.com/ShanmugaSivapragasam)
 - [Kalyan Kumar](https://github.com/kalyanstumagz)
+- [Daniel Weiss](https://github.com/dsweiss31)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
