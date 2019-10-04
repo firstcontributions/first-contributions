@@ -11,6 +11,7 @@
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Ghulam Mustafa1]
+- [Josh Deese](https://github.com/joshdeese)
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
 - [Francisca Astengo] (https://github.com/frastengo)
 - [Michael Kilcorse] (https://github.com/kilcorse-michael)
