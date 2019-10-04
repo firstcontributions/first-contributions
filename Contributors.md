@@ -2,6 +2,7 @@
 
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Naezzin] (https://github.com/naezzin)
+- [Jason Brando] (https://github.com/jasonbrandoo)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Anton de Regt] (https://github.com/antonderegt)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
