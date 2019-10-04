@@ -14995,6 +14995,7 @@ Stephan Sharpe
 - [linuxsmurfen](http://github.comm/linuxsmurfen)
 - [Amornthep.Th](https://github.com/bkkkjst)
 - [PDVega](https://github.com/PDVega/)
+- [Alec Jordan](https://github.com/AlecJ)
 - [Haim Brum](https://github.com/haimbrum)
 - [Nubi Mayowa](https://github.com/nubimayowa)
 - [Shan muhammad](https://github.com/shanmuhammad786)
