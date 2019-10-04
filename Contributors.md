@@ -47,6 +47,7 @@
 - [Vaibhavi Narayanan] (https://github.com/vibu267)
 - [flashintosh] (https://github.com/flashintosh)
 - [Aditya] (https://github.com/Cyberdragon1000)
+- [Jaswanth Krishna] (https://https://github.com/JazzKriss21)
 - [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
   [Kevin Robitaille] (https://github.com/krobitaille93)
