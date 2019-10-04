@@ -14183,6 +14183,7 @@ Stephan Sharpe
 - [pittyi2nd](https://github.com/pittyi2nd)
 - [Hoang Vu](https://github.com/hoangvq288)
 - [egordorichev](https://github.com/egordorichev)
+- [Nicholas Dalhaug](https://github.com/nicholasdalhaug)
 - [kuraus](https://github.com/kuraus)
 - [Adarsh Dwivedi](https://github.com/adarshd8127)
 - [Abdul Rehman](https://github.com/Abdul-Sen)
