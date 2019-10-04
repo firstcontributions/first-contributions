@@ -30,6 +30,7 @@
 - [Pranesh S] (https://github.com/pranesh-sp)
 - [Matthew Piriya] (https://github.com/mvp223)
 - [flashintosh] (https://github.com/flashintosh)
+- [Aditya] (https://github.com/Cyberdragon1000)
 - [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
   [Kevin Robitaille] (https://github.com/krobitaille93)
