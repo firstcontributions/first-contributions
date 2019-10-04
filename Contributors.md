@@ -700,6 +700,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123) 
 - [Francois Beyers](https://github.com/blusoup)
+- [François Gélinas](https://github.com/fgelinas)
 - [Kshamatha D](https://github.com/)
 - [Shinnosu](https://github.com/sinnosu)
 - [Saransh Chopra](https://github.com/SaranshChopra)
