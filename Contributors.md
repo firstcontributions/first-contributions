@@ -3032,6 +3032,7 @@ Stephan Sharpe
 - [Faizuddin Mohammed](https://github.com/faiztech)
 - Andreas Hayer
 - Ana Sousa
+- Martin Kleppe
 - [Chris Wolf](https://github.com/chriswolfdesign)
 - [Vinay Dahiya](https://github.com/pyvkd)
 - [Nafis Fuad](https://github.com/fuadmmnf)
