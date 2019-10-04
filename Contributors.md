@@ -4,6 +4,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
 - [Naezzin] (https://github.com/naezzin)
+- [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Ghulam Mustafa1]
