@@ -111,6 +111,7 @@
 - [Sujay Mahesh](https://github.com/Sujay66)
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
+- [Travis Moore](https://github.com/tmoore2016)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dan Ince](https://github.com/dince12)
 - [Satyajit Ghana](https://github.com/satyajitghana)
