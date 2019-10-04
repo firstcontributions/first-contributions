@@ -16653,3 +16653,4 @@ Mário Baltazar
 - [A1phyte](https://github.com/A1phyte)
 - [John Met](https://github.com/johnnymetz)
 - [Ashish Chhabbi] (https://github.com/ashishc2503)
+- [Jerônimo Jairo](hhttps://github.com/jeron7)
