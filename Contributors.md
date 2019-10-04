@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
@@ -215,6 +215,7 @@
 - [Uneet Patel](https://github.com/Uneetpatel7)
 -[Aryaan Lambe](https://github.com/aryaanlambe)
 - [sigmund](https://siggymc.deviantart.com)
+- [Jean-mrs](https://github.com/Jean-mrs)
 - [q_wright]
 - [jannesrudnick](https://github.com/jannesrudnick)
 - [Danny Thompson](https://github.com/dannythompson901)
