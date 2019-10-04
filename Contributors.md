@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
@@ -101,6 +101,7 @@
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
+- [Nikhil Karve](https://github.com/nikhilkarve)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
