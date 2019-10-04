@@ -523,6 +523,7 @@ Haris Siddiqui
 - Devraj Singh Shekhawat
 - Zeinab
 - Cate
+- Jimmy1134
 - BA9
 - Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
