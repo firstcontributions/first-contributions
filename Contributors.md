@@ -16588,6 +16588,7 @@ Mário Baltazar
 - [naveen mortha](https://github.com/nmortha)
 - [Dmitry Xeon](https://github.com/magnoom)
 - [Danilo de Menezes](https://github.com/danilomfreitas)
+- [Thomas Pauli] (https://github.com/thmspl)
 - [Craig Raw](https://github.com/craigraw)
 - [Akhid Yanuar A.F](https://github.com/yanuarakhid)
 - [Adarsh Singh](https://github.com/aotrlotr)
