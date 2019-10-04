@@ -4,6 +4,7 @@
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
+- [Brianna Degaston] (https://github.com/briannadeg)
 - [Subhendu Maji] (https://github.com/subhendu17620)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Amit Dutta](https://github.com/Amitdutta7)
