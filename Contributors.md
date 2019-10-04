@@ -16639,6 +16639,7 @@ Mário Baltazar
 - [Jyotika Sharma](https://github.com/Jyotika25)
 - [Bako Harry Rakotondratompo](https://github.com/harrylepap)
 - [VJ](https://github.com/halfsingh)
+- [Juan Parra](https://github.com/Juandkpa)
 - [Alexander Myutel](https://github.com/AlexUnderConstruction)
 - [Subhanshu](https://github.com/subhanshu2 )
 - [Sparsh Temani](https://github.com/SparshTemani)
