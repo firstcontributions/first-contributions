@@ -16654,6 +16654,7 @@ Mário Baltazar
 - [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
 - [Indu Rupi](https://github.com/indurupi)
 - [Jyotika Sharma](https://github.com/Jyotika25)
+- [Ivan Kosar](https://github.com/Elektro8)
 - [Bako Harry Rakotondratompo](https://github.com/harrylepap)
 - [VJ](https://github.com/halfsingh)
 - [Juan Parra](https://github.com/Juandkpa)
