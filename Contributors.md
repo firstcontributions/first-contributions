@@ -287,6 +287,7 @@
 - [bernheder](https://github.com/bernheder)
 - [Michael Seche](https://github.com/mseche)
 - [Kyle Knickerbocker](https://github.com/ckylek)
+- [Yves Courteau](https://github.com/kourto)
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
