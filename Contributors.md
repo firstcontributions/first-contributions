@@ -32,7 +32,7 @@
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
-- [spareek]
+- [spareek](https://github.com/sanjpareek)
 - [Aquib Baig](https://github.com/aquibbaig)
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
