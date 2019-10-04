@@ -1,5 +1,6 @@
 # Contributors
 
+- [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
