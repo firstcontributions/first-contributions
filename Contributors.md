@@ -16733,3 +16733,4 @@ Mário Baltazar
 - [Sho Hiramatsu](https://github.com/Ki1r0y)
 - [Harman Singh Jolly](https://github.com/CoderJolly)
 - [Iso Thiazol](https://github.com/isothiazol)
+- [Fabricio Corrêa](https://github.com/fabriciojulio)
