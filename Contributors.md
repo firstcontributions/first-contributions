@@ -8684,6 +8684,7 @@ Stephan Sharpe
 - [Shuyue Wang](http://github.com/k1631111)
 - [Zimi14](https://github.com/Zimi14)
 - [wmdieter](https://github.com/wmdieter)
+- [bjarkt](https://github.com/bjarkt)
 - [samanthalgibson](https://github.com/samanthalgibson)
 - [haralica](https://github.com/hare989)
 - [Atlas34](https://github.com/Atlas34)
