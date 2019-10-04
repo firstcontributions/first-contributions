@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
+- [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
