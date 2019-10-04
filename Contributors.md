@@ -16681,3 +16681,5 @@ Mário Baltazar
 - [Vpoat](https://github.com/vpeopleonatank)
 - [Adarsh Jaiswal](https://github.com/heluvaguy)
 - [AHerczeg](https://github.com/AHerczeg) 
+- [Duguet Vincent](https://https://github.com/eikyuu)
+
