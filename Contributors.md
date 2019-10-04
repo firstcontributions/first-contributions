@@ -5,6 +5,7 @@
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
+- [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
 - [Naezzin] (https://github.com/naezzin)
