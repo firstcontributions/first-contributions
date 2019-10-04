@@ -3314,6 +3314,7 @@ Conor Shields (https://github.com/cshields236)
 - [WilsonRocha](https://github.com/Sownatta)
 - [Igor Puchkov](https://github.com/IgorPuchkov2003)
 - [Martin Javorka](https://github.com/mjavorka)
+- [Augusto Terra](https://github.com/aht360)
 - [Kumar Kaniska](https://github.com/imkaniska23)
 - [Ganesh Majhi](https://github.com/ganeshmajhi)
 - [Abigaíl PaLacios](https://github.com/acpalacios)
@@ -13278,3 +13279,4 @@ Afolayan Tunde
 - Lee Wei Gen (<https://github.com/weigenie/>)
 - [Landon Ferguson](https://github.com/LandonFerg/)
 -[R F](https://github.com/kubr2017)
+
