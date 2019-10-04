@@ -22,6 +22,7 @@
 - [Simon Huang] (https://github.com/simawn)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Siddhant Mehta] 
+- [Jurie Spies]
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Argha Sarkar] (https://github.com/arghasarkar)
 - [Lasse Stilvang](https://github.com/lassestilvang)
