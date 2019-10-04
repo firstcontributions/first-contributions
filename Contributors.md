@@ -16757,3 +16757,4 @@ Mário Baltazar
 - [Thomas Koch] (https://github.com/neo167)
 - [Liang Yan] (https://github.com/liayan)
 - [Jessy Diamond] (https://github.com/jydmnd)
+- [Nico Pellerin] (https://github.com/nicopellerin)
