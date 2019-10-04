@@ -85,6 +85,7 @@
 - [Tyler Campanile] (https://github.com/tecampani)
 - [Alok Sahoo](https://github.com/aloks98)
 - [Darren lee](https://github.com/metalfox3d)
+- [Shubham Battoo](https://github.com/shubhambattoo)
 - [Jake Backer](https://github.com/jakebacker)
 - [NITIN KUMAR](https://github.com/nk095291)
 - [Sujay Mahesh](https://github.com/Sujay66)
