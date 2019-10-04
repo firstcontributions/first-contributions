@@ -77,6 +77,7 @@
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Savethan Sritharan](https://github.com/sav7204)
+- [Tyler Campanile] (https://github.com/tecampani)
 - [Alok Sahoo](https://github.com/aloks98)
 - [Darren lee](https://github.com/metalfox3d)
 - [NITIN KUMAR](https://github.com/nk095291)
