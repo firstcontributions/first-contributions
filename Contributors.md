@@ -170,6 +170,7 @@
 - [sevonefive]
 - [Felix](https://github.com/felixfelix100)
 - [Pietro Iaia] (https://github.com/PietroIaia)
+- [Jorge Garcia Cuervo] (https://github.com/JorgeGRC)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Tim Windhorst] (https://github.com/atimw)
