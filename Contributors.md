@@ -1,6 +1,7 @@
 # Contributors
 
 - [Dony Purnama] (https://github.com/donypurnama)
+- [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
 - [Naezzin] (https://github.com/naezzin)
