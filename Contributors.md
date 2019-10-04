@@ -64,6 +64,7 @@
 - [Prakhar Singhal] (https://github.com/Ghoul2077)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Jatin Narula](https://github.com/jatin96)
+- [Jessica Gladstone] (https://github.com/Jcg408)
 - [Tanish Baansal](https://github.com/snaked06)
 - [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Jeff Abney](https://github.com/JeffAbney)
