@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
@@ -16755,3 +16755,4 @@ Mário Baltazar
 - [Arthur Cavalcante](https://github.com/arthurcavalcant)
 - [Thomas Koch] (https://github.com/neo167)
 - [Liang Yan] (https://github.com/liayan)
+- [Jerome Robbins] (https://github.com/Tregz)
