@@ -16749,3 +16749,4 @@ Mário Baltazar
 - [Iso Thiazol](https://github.com/isothiazol)
 - [Fabricio Corrêa](https://github.com/fabriciojulio)
 - [Arthur Cavalcante](https://github.com/arthurcavalcant)
+- [Thomas Koch] (https://github.com/neo167)
