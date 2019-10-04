@@ -8,6 +8,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Annie Chen](https://github.com/achen6159)
+- [Ahmed Omar](https://github.com/ahmedo42)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
