@@ -32,6 +32,7 @@
   [Kevin Robitaille] (https://github.com/krobitaille93)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Dhruva Mahajan](https://github.com/dhruva169)
+- [Vinod Sharma] (https://github.com/thesaadpatel)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1) 
