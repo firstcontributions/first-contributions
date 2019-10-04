@@ -63,6 +63,7 @@
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [Ye Wai Yan](https://github.com/bupstan)
+- [Shubham Raj Chauhan](https://github.com/Shuu-7)
 - [Deepak Agarwal]
 - [Sergei Nevstruev]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
