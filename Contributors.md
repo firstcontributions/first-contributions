@@ -40,6 +40,7 @@
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
+- [Peter ELgabalwy](https://github.com/pelgabalawy)
 - [CJ Dunteman] (https://github.com/cjdunteman)
 - [AAMIR AHMAD] (https://github.com/sickwiz)
 - [DanielSurizon] (https://github.com/Danielsuri)
