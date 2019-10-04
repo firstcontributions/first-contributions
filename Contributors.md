@@ -27,7 +27,7 @@
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
 - [Gajraj Singh] (https://github.com/gajrajgchouhan)
-- [Ritik Kanotra] (https://githib.com/ritikkanotra)
+- [Ritik Kanotra] (https://github.com/ritikkanotra)
 - [Divyam Agrawal] (https://github.com/divyamagwl)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
