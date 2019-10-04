@@ -555,6 +555,7 @@ Haris Siddiqui
 - Shahi
 - Rhonin
 - Gursimar Saini
+- [Archulan Rajakumaran](https://github.com/Archulan)
 - [Soumyajit Deb](https://github.com/Maxz2136)
 - [Puneet Aggarwal](https://github.com/puneet222)
 - Mohit Rathor
