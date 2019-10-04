@@ -4,62 +4,64 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# පළමු දායකත්වය
 
-'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
+අමාරුයි. 'ඔබ පළමු වරට යම් දෙයක් කළ විට එය සැමවිටම දුෂ්කර ය. විශේෂයෙන් ඔබ සහයෝගයෙන් කටයුතු කරන විට, වැරදි 'සුව පහසු සිහින් නොවේ'. නව විවෘත-මූලාශ්‍ර දායකයින් පළමු වරට ඉගෙන ගෙන දායක වන ආකාරය සරල කිරීමට අපට අවශ්‍ය විය.
 
-Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
+කියවීමේ කතා සහ මුරටැඹ නිබන්ධන උදව් විය හැකි නමුත් ප්‍රායෝගික පරිසරයක ඇත්ත වශයෙන්ම දේවල් කරනවාට වඩා හොඳ කුමක්ද? මෙම ව්‍යාපෘතිය මඟින් ආරම්භකයින්ගේ පළමු දායකත්වය ලබා දීම සඳහා මග පෙන්වීම සහ සරල කිරීම අරමුණු කර ඇත. ඔබ පළමු දායකත්වය නොදක්වන්නේ නම්, පහත පියවර අනුගමනය කරන්න.
 
-#### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
+#### *
+ඔබ සැප පහසු විධාන විධාන රේඛාවක් නම්, [මෙහි GUI මෙවලම් භාවිතා කරමින් නිබන්ධන වන්න.]( #tutorials-using-other-tools )*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
+ඔබ යන්ත්රය මත ගිටියක් නොදක්වන්නේ නම්, [එය ස්ථාපනය කරන්න](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+##මෙම ගබඩාව දෙබල කරන්න
 
-Fork this repo by skewerin' on th' fork button on th' top o' this page.
-This will create a copy o' this repository in yer account.
 
-## Clone the repository
+මෙම පිටුවේ 'ඉහළ o' හි දෙබලක බොත්තම මත skewerin මඟින් මෙම repo කරන්න.
+මෙය ඔබගේ ගිණුමේ මෙම ගබඩාවෙහි පිටපතක් සාදනු ඇත.
+
+## නිධිය ක්ලෝන කරන්න
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Now clone this repo t' yer machine. Go t' yer GitHub account, skewer on th' clone button 'n then skewer th' *copy to clipboard* icon.
 
-Open a terminal 'n run th' followin' git command:
+දැන් මෙම රෙපෝ යන්ත්රය ක්ලෝන කරන්න. GitHub ගිණුමට යන්න, ක්ලෝන බොත්තම මත skewer කරන්න, ඉන්පසු ක්ලිප්බෝඩ් * අයිකනයට පිටපත් කරන්න.
 
+ටර්මිනලයක් විවෘත කරන්න 'n run th' followin 'git විධානය:
 ```
 git clone "url ye jus' copied"
 ```
 
-where "url ye jus' copied" (without th' quote marks) be th' url t' this repository (yer fork o' this project). See th' previous steps t' obtain th' url.
+
+එහිදී "url you jus 'පිටපත් කර ඇත (' උපුටා දැක්වීමේ ලකුණු නොමැතිව) මෙම ගබඩාව 'url t' විය යුතුය (yer fork o 'මෙම ව්‍යාපෘතිය). යූආර්එල් ලබා ගැනීමට පෙර පියවර බලන්න.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-Fer example:
+උදාහරණය:
 
 ```
 git clone https://github.com/this-be-ye/first-contributions.git
 ```
 
-where `this-be-ye` be yer GitHub username. Here ye're copyin' th' contents o' th' first-contributions repository in GitHub t' yer 'puter.
-
+එහිදී ඔබ මෙය විය යුතුය GitHub පරිශීලක නාමය. මෙන්න ඔබ GitHub t 'yer' puter හි පළමු දායකත්ව ගබඩාව පිටපත් කර ඇත.
 ## Create a branch
 
-Change t' th' repository directory on yer 'puter (if ye be nah already thar):
+යෙර් පුටරයේ ගබඩාවේ නාමාවලිය වෙනස් කරන්න (ඔබ දැනටමත් තාර් නම්):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch usin' th' `git checkout` command:
-
+දැන් git checkout` විධානය භාවිතා කරමින් ශාඛාවක් සාදන්න:
 ```
 git checkout -b <add-your-new-branch-name>
 ```
 
-Fer example:
+
+උදාහරණය:
 
 ```
 git checkout -b add-luke-oliff
@@ -67,15 +69,17 @@ git checkout -b add-luke-oliff
 
 (Th' name o' th' branch does nah needs t' 'ave th' word *add* in it, but 'tis a reasonable thin' t' include 'cause th' purpose o' this branch be t' add yer name t' a list.)
 
-## Make necessary changes 'n commit those changes
 
-Now open `Contributors.md` file in a text editor, add yer name t' it. Don't add it at th' beginnin' or end o' th' file. Put it anywhere in between. Now, save th' file.
+## අවශ්‍ය වෙනස්කම් කරන්න
+
+දැන් පෙළ සංස්කාරකයක `Contribitors.md` ගොනුව විවෘත කරන්න, එය ඔබගේ නම එකතු කරන්න. එය 'ආරම්භක' හෝ අවසානය 'ගොනුවේ' එකතු නොකරන්න. අතර ඕනෑම තැනක තබන්න. දැන්, ගොනුව සුරකින්න.
 
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
-If ye go t' th' project directory 'n execute th' command `git status`, ye'll see thar are changes.
+ඔබ ව්‍යාපෘති නාමාවලිය වෙත නොගියහොත් 'git status' විධානය ක්‍රියාත්මක නොකරන්නේ නම්, තාර් යනු වෙනස්කම් බව ඔබට පෙනෙනු ඇත.
 
-Add those changes t' th' branch ye jus' created usin' th' `git add` command:
+ 
+එම වෙනස්කම් එකතු කරන්න ඔබ විසින් නිර්මාණය කරන ලද ශාඛාව ඔබ විසින් නිර්මාණය කරන ලදි:
 
 ```
 git add Contributors.md
@@ -99,41 +103,42 @@ git push origin <add-yer-branch-name>
 
 replacin' `<add-yer-branch-name>` wit' th' name o' th' branch ye created earlier.
 
-## Submit yer changes fer review
 
-If ye go t' yer repository on GitHub, ye'll see a  `Compare & pull request` button.  Click on that button.
+## ඔබගේ වෙනස්කම් ඉදිරිපත් කරන්න
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+ඔබ GitHub හි ඔබේ ගබඩාවට නොගියහොත්, ඔබට 'සංසන්දනය කර අදින්න ඉල්ලීම` බොත්තමක් පෙනෙනු ඇත. එම බොත්තම ක්ලික් කරන්න.
 
-Now submit th' pull request.
+<img style = "පාවෙන: දකුණ;" src = "../ වත්කම් / සංසන්දනය-හා-අදින්න." alt = "අදින්න ඉල්ලීමක් සාදන්න" />
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+දැන් අදින්න ඉල්ලීම ඉදිරිපත් කරන්න.
 
-Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
+<img style = "පාවෙන: දකුණ;" src = "../ වත්කම් / submit-pull-request.png" alt = "අදින්න ඉල්ලීම ඉදිරිපත් කරන්න" />
 
-## Where t' go from here?
+වැඩි කල් යන්නට මත්තෙන් මම මේ සියලු අංගයන් ප්‍රධාන ශාඛාවට ඒකාබද්ධ කරමි. 'වෙනස්වීම්' ඒකාබද්ධ වූ පසු ඔබට දැනුම් දීමේ ඊ-තැපෑලක් ලැබෙනු ඇත.
 
-Well done! Ye jus' completed th' standard _fork -> clone -> edit -> PR_ workflow that ye'll encounter often as a contributor!
+## මෙතැනින් කොහෙද යන්නේ?
 
-Celebrate yer contribution 'n share it wit' yer hearties 'n followers by goin' t' [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+හොඳට කලා! ඔබ සම්පාදකයෙකු ලෙස බොහෝ විට මුණගැසෙන සම්මත _ ෆෝර්ක් -> ක්ලෝන -> සංස්කරණය -> පීආර්_ කාර්ය ප්‍රවාහය සම්පූර්ණ කර ඇත!
 
-Ye could join our slack crew in case ye needs any help or 'ave any riddles. [Join our slack crew](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+[වෙබ් යෙදුම] (https://roshanjossey.github.io/first-contributions/#social-share) මගින් ඔබගේ දායකත්වය සමරන්න.
 
-Now let's get ye started wit' contributin' t' other projects. We've compiled a list o' projects wit' easy issues ye can get started on. Check out [th' list o' projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
+ඔබට කිසියම් උදව්වක් අවශ්‍ය නම් හෝ යම් ප්‍රහේලිකාවක් ඇති වුවහොත් ඔබට අපගේ මන්දගාමී කාර්ය මණ්ඩලයට සම්බන්ධ විය හැකිය. [අපගේ කම්මැලි කාර්ය මණ්ඩලයට සම්බන්ධ වන්න]
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+දැන් අපි වෙනත් ව්‍යාපෘති සඳහා දායක වීමට පටන් ගනිමු. ඔබට ආරම්භ කළ හැකි පහසු ගැටළු ලැයිස්තුවක් අපි සම්පාදනය කර ඇත්තෙමු. [වෙබ් යෙදුමේ ලැයිස්තුගත කර ඇති ව්‍යාපෘති] බලන්න (https://roshanjossey.github.io/first-contributions/#project-list).
 
-## Tutorials Usin' Other Tools
+### [අතිරේක ද්‍රව්‍ය] (../ අතිරේක ද්‍රව්‍ය / git_workflow_scenarios / extra-material.md)
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+## නිබන්ධන Usin 'වෙනත් මෙවලම්
 
-## Self-Promotion
+| <a href="github-desktop-tutorial.md"> <img alt = "GitHub Desktop" src = "https://desktop.github.com/images/desktop-icon.svg" width = "100"> </a> | <a href="github-windows-vs2017-tutorial.md"> <img alt = "Visual Studio 2017" src = "https://www.visualstudio.com/wp-content/uploads/2017 /11/microsoft-visual-studio.svg "width =" 100 "> </a> | <a href="gitkraken-tutorial.md"> <img alt =" GitKraken "src =" ../ වත්කම් / gk -icon.png "width =" 100 "> </a> |
+| --- | --- | --- |
+| [GitHub Desktop] (../ github-desktop-tutorial.md) | [විෂුවල් ස්ටුඩියෝ 2017] (../ github-windows-vs2017-tutorial.md) | ) |
 
-If ye liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If ye're feelin' especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
+## ස්වයං ප්‍රවර්ධනය
+
+ඔබ මෙම ව්‍යාපෘතියට කැමති නම්, එය [GitHub] (https://github.com/Roshanjossey/first-contributions) මත තරු කරන්න.
+ඔබට විශේෂයෙන් පුණ්‍ය කටයුතුවල යෙදී සිටී නම්, [රොෂාන්] (https://roshanjossey.github.io/) අනුගමනය කරන්න
+[ට්විටර්] (https://twitter.com/sudo__bangbang) සහ
+[GitHub] (https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
