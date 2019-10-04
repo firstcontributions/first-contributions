@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
@@ -7891,6 +7891,7 @@ Stephan Sharpe
 - [Hakeem Davis](https://github.com/dearhakeemdavis)
 - [Kira](https://github.com/kiravia)
 - [waffles517](https://github.com/waffles517)
+- [Murali](http://github.com/mvenuthy/)
 - [Tal Cohen](https://github.com/TalCohen27)
 - [Ian Wolterstorff](https://github.com/iwolterstorff)
 - [Julie Buma](https://github.com/JBuma)
