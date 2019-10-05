@@ -66,6 +66,7 @@
 - [Dhruva Mahajan](https://github.com/dhruva169)
 - [Vinod Sharma] (https://github.com/thesaadpatel)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
+- [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1) 
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
