@@ -16852,3 +16852,4 @@ Mário Baltazar
 - Matheus Spaniol
 - Jade Oliveira
 - [Antônio Ribeiro](https://github.com/antoniorib91)
+- [Noel Lobo](https://github.com/coffeestains)
