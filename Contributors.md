@@ -656,7 +656,8 @@ Nishtha3512
 - Heya
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
-- [Hanna Calra ](https://github.com/calra123) 
+- [Hanna Calra ](https://github.com/calra123)
+- [Abhishek Pratap Singh] (https://github.com/prime-5)
 - [Francois Beyers](https://github.com/blusoup)
 - [Kshamatha D](https://github.com/)
 - [Shinnosu](https://github.com/sinnosu)
