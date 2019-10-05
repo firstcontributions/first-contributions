@@ -235,6 +235,7 @@
 - [Danny Thompson](https://github.com/dannythompson901)
 - [Eddenm]
 - [Natasha]
+- [Jim Walker](https://github.com/jimwalker)
 - [Chad Sisk](https://github.com/chadwyck242)
 - [Arpit](https://github.com/maiarpitjain)
 - [Phat Tran](https://github.com/PineyFutanaristic)
