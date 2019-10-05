@@ -172,6 +172,7 @@
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Nikhil Karve](https://github.com/nikhilkarve)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
+- [Ryan Dsilva](https://github.com/RyanDsilva)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Aseem Sangalay](https://github.com/A-s-e-e-m)
