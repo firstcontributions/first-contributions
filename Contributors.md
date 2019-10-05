@@ -2403,6 +2403,7 @@ Stephan Sharpe
 - Priyanka Tiwari
 - [Elias de Moraes Neto](http://github.com/eliasmaia)
 - [Rob Kos](https://github.com/robkos442)
+-  Upasana Sinha
 - [Supriya](https://github.com/SupriyaSupu)
 - [Bailey Zinger](https://github.com/bzinger2)
 - [Ania Nakayama](https://github.com/Ania-chan)
