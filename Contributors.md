@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Harshit Mittal](https://github.com/harshitmittal99)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
