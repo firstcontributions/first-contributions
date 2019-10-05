@@ -2083,6 +2083,7 @@ Stephan Sharpe
 - [Anuja Kelkar](https://github.com/anuja-kelkar)
 - [Samuel Olaegbe](https://github.com/goodhands)
 - [Jatin Taneja](https://github.com/jatintaneja90)
+- [Ranjeet Chouhan](https://github.com/im-ranu)
 - [vbertazzo](https://github.com/vbertazzo)
 - [ravi](https://github.com/ravichalla)
 - [Conor Sullivan](https://github.com/Conorcancode)
