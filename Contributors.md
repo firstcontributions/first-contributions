@@ -16785,6 +16785,7 @@ Mário Baltazar
 - [Thomas Koch] (https://github.com/neo167)
 - [Liang Yan] (https://github.com/liayan)
 - [Jessy Diamond] (https://github.com/jydmnd)
+- [Shrey Tripathi](https://github.com/shrey27tri01)
 - [Mohannad Salah](https://github.com/mohdule)
 - [Victor Diaz de Leon](https://github.com/vxdiazdel)
 - [Micah Nagel](https://github.com/mjnagel)
