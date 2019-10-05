@@ -19,10 +19,12 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Heidi]
+- [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
 - [David Martin](https://github.com/daviduster)
+- [Nicole Fafard](https://github/nicole919)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
@@ -16837,5 +16839,6 @@ Mário Baltazar
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
 - [Leandro Rasch](https://github.com/leandrorasch/)
+- [Shane Lonergan](https://github.com/shanelonergan)
 - Matheus Azzi
 - Matheus Spaniol
