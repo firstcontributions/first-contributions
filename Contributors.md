@@ -1,5 +1,4 @@
 # Contributors
-
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
@@ -259,6 +258,7 @@
 -.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
 - [Chris Yu](https://github.com/chrisayu321)
 - [John Manno](https://github.com/z0mby)
+- [Josephine Hardy](https://github.com/thewhiteswan)
 - [BA] (https://github.com/ba)
 - [Samuel Ryecroft] (https://github/samuelryecroft)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
