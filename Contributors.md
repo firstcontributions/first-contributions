@@ -667,6 +667,7 @@ Haris Siddiqui
 - [Lok Chan](https://github.com/0903lokchan)
 - [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
+- Rui Magalhaes
 - Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
