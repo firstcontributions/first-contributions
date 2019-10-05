@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Franco Colman](https://github.com/colmanfranco)
 - [Daniel Yuki](https://github.com/DanielYuki) 
@@ -21,6 +21,7 @@
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Jason Griffis] (https://github.com/jgriffis1976)
+- [Alex Nickel] (https://github.com/Cattiva)
 - [davyranger] 
 - [Ghulam Mustafa1]
 - [Donna Vitan](https://github.com/donnavitan)
