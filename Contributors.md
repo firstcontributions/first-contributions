@@ -7928,6 +7928,7 @@ Stephan Sharpe
 - [Tyler Trout](https://github.com/tiller1010)
 - [Grant Hixson](https://github.com/androidfanatic)
 - [Edmund Lai](https://github.com/EdmundLai)
+- [marcuswkl](https://github.com/marcuswkl)
 - [AndroidFanatic](https://github.com/androidfanatic)
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
 - [Erin Lewis](https://github.com/erinlewis)
