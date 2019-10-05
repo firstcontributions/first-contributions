@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Akshat Khandelwal](https://github.com/ak127a)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
