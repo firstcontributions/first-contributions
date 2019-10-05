@@ -16853,3 +16853,4 @@ Mário Baltazar
 - Matheus Spaniol
 - Jade Oliveira
 - [Antônio Ribeiro](https://github.com/antoniorib91)
+- Miguel Serra https://github.com/mcserra
