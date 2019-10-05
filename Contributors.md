@@ -9,6 +9,7 @@
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
+- [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
@@ -19,6 +20,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Heidi]
+- [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
@@ -171,6 +173,7 @@
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Nikhil Karve](https://github.com/nikhilkarve)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
+- [Ryan Dsilva](https://github.com/RyanDsilva)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Aseem Sangalay](https://github.com/A-s-e-e-m)
@@ -16837,6 +16840,8 @@ Mário Baltazar
 - [Mahima Hans](https://github.com/mahimahans111)
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
+- [Shane Lonergan](https://github.com/shanelonergan)
 - Matheus Azzi
 - Matheus Spaniol
+- Jade Oliveira
 - Willian Schenkel
