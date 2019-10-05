@@ -25,6 +25,7 @@
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Michael Jenkins] (https://github.com/KipTheTurtlebear)
 - [Heidi]
+- [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
