@@ -3,6 +3,7 @@
 - [Franco Colman](https://github.com/colmanfranco)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
+- [Adityakumar Yadav](https://github.com/Adiy2j)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Dony Purnama] (https://github.com/donypurnama)
