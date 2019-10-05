@@ -16817,4 +16817,5 @@ Mário Baltazar
 - [Ahmetcan Guvendiren](https://github.com/glacion)
 - [Dion Tseb](https://github.com/diontseb)
 - [Fardhan Ardhi](https://github.com/fardhanardhi)
--[Mahima Hans](https://github.com/mahimahans111)
+- [Mahima Hans](https://github.com/mahimahans111)
+- [Leanthony Marion-Landais](https://github.com/leanthonyml)
