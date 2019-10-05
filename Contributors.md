@@ -16842,3 +16842,4 @@ Mário Baltazar
 - [Shane Lonergan](https://github.com/shanelonergan)
 - Matheus Azzi
 - Matheus Spaniol
+- Jade Oliveira
