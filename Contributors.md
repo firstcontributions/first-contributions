@@ -474,6 +474,7 @@ Hammad Qureshi
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Sau Kamat](https://github.com/saikamat)
 - [Alejandro Rojas](https://github.com/Xarasho)
+- [Hasan Kataya](https://github.com/Hkataya)
 - [Martin Shields](https://github.com/marty-shields)
 - [Thiago Santos](https://github.com/thiagolopess)
 - [Anurag Natoo](https://github.com/anuragnatoo)
