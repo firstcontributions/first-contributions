@@ -1964,6 +1964,7 @@ Stephan Sharpe
 - [Lokesh Kedi](https://github.com/lokesh1agarwal)
 - [Dale Holstein](https://github.com/zarnerz)
 - [Aryan Raj] (https://github.com/aryraj)
+- Joshua Parker
 - David An
 - Alice Always
 - aish
