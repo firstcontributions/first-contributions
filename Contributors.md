@@ -16841,6 +16841,7 @@ Mário Baltazar
 - [Mohannad Salah](https://github.com/mohdule)
 - [Victor Diaz de Leon](https://github.com/vxdiazdel)
 - [Micah Nagel](https://github.com/mjnagel)
+- [Kelsey Júnior](https://github.com/KelseyJr)
 - [laohanme](https://github.com/laohanme)
 - [Nic M](https://github.com/nicm42)
 - [Billycarte](https://github.com/anomalousidentity)
