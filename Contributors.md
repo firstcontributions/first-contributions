@@ -41,6 +41,7 @@
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Simon Huang] (https://github.com/simawn)
 - [Karan Singh] (https://github.com/karansinghgit)
+- [Mario Zamora] (https://github.com/maczamora)
 - [Siddhant Mehta] 
 - [Jurie Spies]
 - [Martha Sharpe] (https://github.com/marthasharpe)
