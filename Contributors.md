@@ -326,6 +326,7 @@
 -[shrutika](https://github.com/shrutikamahale)
 -[pravallika](https://github.com/pravzzyy)
 -[Srinivas (SriNandan33)](https://github.com/SriNandan33)
+-[Jonas Havstein Eriksen](https://github.com/JHavstein)
 -[Angel Lakra](https://github.com/angel112)
 -[Lorenzzz90](https://github.com/Lorenzzz90)
 - [Long Pham](https://github.com/phaml2995)
