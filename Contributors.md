@@ -16827,3 +16827,4 @@ Mário Baltazar
 - [Fardhan Ardhi](https://github.com/fardhanardhi)
 - [Mahima Hans](https://github.com/mahimahans111)
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
+- [Simon Rossinskiy](https://github.com/simross/)
