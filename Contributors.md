@@ -7425,6 +7425,7 @@ Stephan Sharpe
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
 - [Kiefer Cover](https://github.com/kcover)
+- [Krzysztof Krysiński](https://github.com/flabbet)
 - [Daniel White](https://github.com/whitedann)
 - [Milco Majoor](https://github.com/MJMajoor)
 - [Abhijeet Singh](https://github.com/abhi40308)
