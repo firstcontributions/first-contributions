@@ -3,6 +3,7 @@
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
+- [Sachin Pal](https://github.com/Arrendale)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
 - [Brianna Degaston] (https://github.com/briannadeg)
