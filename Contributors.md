@@ -152,6 +152,7 @@
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
+- [Anna A]
 - [Aseem Sangalay](https://github.com/A-s-e-e-m)
 - [Arpit Aggarwal](https://github.com/arpit94)
 - [Gilberto Oliveira](https://github.com/gvoliveira)
