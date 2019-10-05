@@ -9,6 +9,7 @@
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
+- [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
