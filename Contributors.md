@@ -10,7 +10,8 @@
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
-- [Annie Chen](https://github.com/achen6159)
+- [Annie Chen](https://github.com/achen6159
+- [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
