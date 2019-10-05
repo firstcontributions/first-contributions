@@ -16815,6 +16815,7 @@ Mário Baltazar
 - [Billycarte](https://github.com/anomalousidentity)
 - [Angel Andrews K](https://github.com/ANGELANDREWSK)
 - [George James](https://github.com/georgejms)
+- [Lakshya Gupta](https://github.com/lakkshh)
 - [Lisa John](https://github.com/lisajohn132)
 - [Dimitri](https://github.com/DBelf)
 - [Chowdhury Isfatul Karim](https://github.com/isfatul-codersbd)
