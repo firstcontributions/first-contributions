@@ -116,6 +116,7 @@
 - [Patrick Haberern](https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
+- [Bedant]
 - [Savethan Sritharan](https://github.com/sav7204)
 - [Tyler Campanile] (https://github.com/tecampani)
 - [Joe Lee](https://github.com/JoeDravarol)
