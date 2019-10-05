@@ -39,6 +39,7 @@
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Suchali] (https://github.com/suchali93)
 - [Anton de Regt] (https://github.com/antonderegt)
+- [Logan Benavente] (https://github.com/drowvoloper)
 - [Rohit Sharma] (https://github.com/Mudassirali2802)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Annie Ke] (https://github.com/annieke)
