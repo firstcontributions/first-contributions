@@ -18,6 +18,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Heidi]
+- [Ciprien Bossut](https://github.com/chefchino)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
