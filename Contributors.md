@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+-[Alan Miller]
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Daniel Yuki](https://github.com/DanielYuki) 
