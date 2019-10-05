@@ -28,6 +28,7 @@
 - [Infrony](https://github.com/infrony)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
+- [Prathik.S.Nayak](https://github.com/psn221b)
 - [dileepa pavel seekkubadu](https://github.com/dileepapavel)
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
 - [Francisca Astengo] (https://github.com/frastengo)
