@@ -16863,4 +16863,5 @@ Mário Baltazar
 - Jade Oliveira
 - [Antônio Ribeiro](https://github.com/antoniorib91)
 - [Noel Lobo](https://github.com/coffeestains)
-https://github.com/bookish [Bookish]
+- [bookish] (https://github.com/bookish)
+
