@@ -1,5 +1,4 @@
-﻿# Contributors
-
+﻿# Contributor
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
@@ -15,6 +14,7 @@
 - [Brianna Degaston] (https://github.com/briannadeg)
 - [Subhendu Maji] (https://github.com/subhendu17620)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
+- [Brian Wong] (https://github.com/brianw921)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
