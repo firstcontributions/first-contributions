@@ -12647,6 +12647,7 @@ Stephan Sharpe
 - [Rajitha Disanayaka](https://github.com/rajitha302)
 - [T Mill](https://github.com/tkmiller85)
 - [Holly Deitz](https://github.com/techgravy)
+- [Tony Thell](https://github.com/tonythell)
 - [Arshdeep Singh](https://github.com/iamarshsingh)
 - [Brian Egan](https://github.com/brianjosephegan)
 - [Veronica Rally](https://github.com/vrally)
