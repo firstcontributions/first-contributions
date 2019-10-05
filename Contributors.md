@@ -207,6 +207,7 @@
 - [Samuel Yuan](https://github.com/YuanSamuel)
 - [priya]
 - [Kevin Dorner](https://github.com/mrhspecter)
+- [Miguel Solino](http://github.com/Manilator)
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
