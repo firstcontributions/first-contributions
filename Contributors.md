@@ -1,5 +1,6 @@
 # Contributors
 
+- [Akshat Khandelwal](https://github.com/ak127a)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
@@ -19,6 +20,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
+- [Michael Jenkins] (https://github.com/KipTheTurtlebear)
 - [Heidi]
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
@@ -173,6 +175,7 @@
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Nikhil Karve](https://github.com/nikhilkarve)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
+- [Ryan Dsilva](https://github.com/RyanDsilva)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Aseem Sangalay](https://github.com/A-s-e-e-m)
@@ -5929,6 +5932,7 @@ Stephan Sharpe
 - [irmina90](https://github.com/irmina90)
 - [digitaldina](https://github.com/dinaelhanan)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
+- [Ali Ahmadiavin](https://github.com/ahmadiavin)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
 - [Samith Basnayaka](https://github.com/SamithDB)
@@ -16843,3 +16847,4 @@ Mário Baltazar
 - Matheus Azzi
 - Matheus Spaniol
 - [Ricardo Alvarenga](https://github.com/lovermano)
+- Jade Oliveira
