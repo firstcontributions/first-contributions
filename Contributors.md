@@ -9900,6 +9900,7 @@ Stephan Sharpe
 - [Chris Ortiz](https://github.com/r3alz)
 - [Maxens Achiepi](https://github.com/mxch18)
 - [Vurp](https://github.com/Vurp)
+  [Calvin Fronda](https://github.com/calvinfronda)
 - [Javier Duran](https://github.com/jadur)
 - [n00bady](https://github.com/n00bady)
 - [RAJESH VERMA](https://github.com/verma-rajesh)
