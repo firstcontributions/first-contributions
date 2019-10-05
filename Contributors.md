@@ -14,6 +14,7 @@
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
+- [Vaibhav Kumar] (https://github.com/ivaibhavkr)
 - [Brianna Degaston] (https://github.com/briannadeg)
 - [Subhendu Maji] (https://github.com/subhendu17620)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
