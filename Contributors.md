@@ -24,6 +24,7 @@
 - [Alex Nickel] (https://github.com/Cattiva)
 - [davyranger] 
 - [Ghulam Mustafa1]
+- [Infrony](https://github.com/infrony)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
 - [dileepa pavel seekkubadu](https://github.com/dileepapavel)
