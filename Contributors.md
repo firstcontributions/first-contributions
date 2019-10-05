@@ -16839,3 +16839,4 @@ Mário Baltazar
 - [Simon Rossinskiy](https://github.com/simross/)
 - Matheus Azzi
 - Matheus Spaniol
+- Willian Schenkel
