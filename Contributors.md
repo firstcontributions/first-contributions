@@ -2828,6 +2828,7 @@ Stephan Sharpe
 - [Erick Todd](https://github.com/ddot727)
 - [Sonny Shum](https://github.com/sonnyshum)
 - [Stephanie Coates](https://github.com/stephaniecoates)
+- [Marcos Ceo](https://github.com/marcosceo)
 - [Christian Westbrook](https://github.com/christian-westbrook)
 - [Satyajeet Maharana](https://github.com/satyajeetmaharana)
 - [Alec W](https://github.com/AlecWilk)
