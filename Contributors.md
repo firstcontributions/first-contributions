@@ -1,6 +1,7 @@
 # Contributors
 
 - [Joel Hanson](https://github.com/Joel-hanson)
+- [Dave Roox](https://github.com/DaveRoox)
 - [Abhijith Sheheer](https://github.com/abspython)
 - [ClariSLover](https://github.com/s973125108)
 - [Jackson Chadfield](https://github.com/j-chad)
