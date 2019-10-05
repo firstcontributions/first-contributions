@@ -3,6 +3,7 @@
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Si Lam](https://github.com/silam)
+- [DzunN86](https://github.com/DzunN86)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Franco Colman](https://github.com/colmanfranco)
