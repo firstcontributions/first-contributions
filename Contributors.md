@@ -7,6 +7,7 @@
 - [Adityakumar Yadav](https://github.com/Adiy2j)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [Sachin Pal](https://github.com/Arrendale)
+- [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
 - [Brianna Degaston] (https://github.com/briannadeg)
