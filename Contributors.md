@@ -16840,5 +16840,6 @@ Mário Baltazar
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
 - [Shane Lonergan](https://github.com/shanelonergan)
+- [Cristian Malacarne huff](https://github.com/cristianhuff)
 - Matheus Azzi
 - Matheus Spaniol
