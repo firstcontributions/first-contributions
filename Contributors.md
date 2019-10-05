@@ -43,6 +43,7 @@
 - [Samith Basnayaka](https://github.com/SamithDB)
 - [Yogesh](https://github.com/yog24esh)
 - [Ritwik Sharma](https://github.com/ritrage)
+- [Lakshya Gupta](https://github.com/lakkshh)
 - [Drew Bragg](https://github.com/drbragg)
 - [Pooja Sethia](https://github.com/poojasethia)
 - [João Silva](https//github.com/l32355)
