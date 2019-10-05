@@ -39,6 +39,7 @@
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Jason Griffis] (https://github.com/jgriffis1976)
 - [Alex Nickel] (https://github.com/Cattiva)
+- [Melissa Huerta](https://github.com/piratelicorne)
 - [aleks136]
 - [davyranger] 
 - [Ghulam Mustafa1]
