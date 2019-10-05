@@ -24,6 +24,7 @@
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
+- [Eduardo Alano](https://github.com/eduardoalanonh)
 - [David Martin](https://github.com/daviduster)
 - [Nicole Fafard](https://github/nicole919)
 - [Naezzin] (https://github.com/naezzin)
