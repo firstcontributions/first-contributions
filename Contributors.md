@@ -617,6 +617,7 @@ Haris Siddiqui
 - Gursimar Saini
 - [Archulan Rajakumaran](https://github.com/Archulan)
 - [Soumyajit Deb](https://github.com/Maxz2136)
+- [Yuvaraj J](https://github.com/jyuvaraj03)
 - [Puneet Aggarwal](https://github.com/puneet222)
 - Mohit Rathor
 - [Caroline Dahmen](https://github.com/C-Dahmen)
