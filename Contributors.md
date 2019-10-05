@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Franco Colman](https://github.com/colmanfranco)
+- [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
