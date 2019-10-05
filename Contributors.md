@@ -108,6 +108,7 @@
 - [Kalyan Kumar](https://github.com/kalyanstumagz)
 - [Cikareto](https://github.com/cikareto)
 - [Daniel Weiss](https://github.com/dsweiss31)
+- [Mark Goe](https://github.com/gitmthx)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
