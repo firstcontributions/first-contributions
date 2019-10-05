@@ -78,6 +78,7 @@
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
+- **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1) 
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Shanmuga Sivapragasam] (https://github.com/ShanmugaSivapragasam)
