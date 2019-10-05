@@ -124,6 +124,7 @@
 - [Jeff Abney](https://github.com/JeffAbney)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
+- [Pieter-Jan Robrecht](https://github.com/Pieter-JanRobrecht)
 - [Kirankumar Ambati](https://github.com/kirankumarambati)
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
