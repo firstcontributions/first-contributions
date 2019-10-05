@@ -2,6 +2,7 @@
 
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
+- [Sukrit Walia](https://github.com/wukrit)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
@@ -480,6 +481,7 @@ Hammad Qureshi
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Sau Kamat](https://github.com/saikamat)
 - [Alejandro Rojas](https://github.com/Xarasho)
+- [Hasan Kataya](https://github.com/Hkataya)
 - [Martin Shields](https://github.com/marty-shields)
 - [Thiago Santos](https://github.com/thiagolopess)
 - [Anurag Natoo](https://github.com/anuragnatoo)
@@ -668,6 +670,7 @@ Haris Siddiqui
 - [Lok Chan](https://github.com/0903lokchan)
 - [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
+- Rui Magalhaes
 - Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
@@ -16833,4 +16836,6 @@ Mário Baltazar
 - [Mahima Hans](https://github.com/mahimahans111)
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
+- Matheus Azzi
+- Matheus Spaniol
 - [Gabriel Castro Fernandes](https://github.com/gabcastro)
