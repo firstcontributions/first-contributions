@@ -20,6 +20,7 @@
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
+- [Michael Jenkins] (https://github.com/KipTheTurtlebear)
 - [Heidi]
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
