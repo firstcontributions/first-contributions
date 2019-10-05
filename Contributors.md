@@ -1,5 +1,6 @@
 # Contributors
 
+- [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [Dony Purnama] (https://github.com/donypurnama)
