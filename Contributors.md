@@ -16835,3 +16835,4 @@ Mário Baltazar
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
 - Matheus Azzi
+- [Luan C. Redmann](https://github.com/redmanndotsh)
