@@ -2,12 +2,14 @@
 
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
-- [Daniel Yuki](https://github.com/DanielYuki)
+- [Sukrit Walia](https://github.com/wukrit)
+- [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
+- [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
@@ -18,10 +20,12 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Heidi]
+- [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
 - [Ahmed Omar](https://github.com/ahmedo42)
 - [David Martin](https://github.com/daviduster)
+- [Nicole Fafard](https://github/nicole919)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
@@ -169,6 +173,7 @@
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
 - [Nikhil Karve](https://github.com/nikhilkarve)
 - [Rachna Agrawal](https://github.com/rachnaagrawal)
+- [Ryan Dsilva](https://github.com/RyanDsilva)
 - [Sam Thiesen](https://github.com/samrthi)
 - [Steven Doss](https://github.com/snobbysteven)
 - [Aseem Sangalay](https://github.com/A-s-e-e-m)
@@ -480,6 +485,7 @@ Hammad Qureshi
 - [Dharmil Parekh](https://github.com/dVp007)
 - [Sau Kamat](https://github.com/saikamat)
 - [Alejandro Rojas](https://github.com/Xarasho)
+- [Hasan Kataya](https://github.com/Hkataya)
 - [Martin Shields](https://github.com/marty-shields)
 - [Thiago Santos](https://github.com/thiagolopess)
 - [Anurag Natoo](https://github.com/anuragnatoo)
@@ -668,6 +674,7 @@ Haris Siddiqui
 - [Lok Chan](https://github.com/0903lokchan)
 - [Edmund Kpodogui](https://github.com/dannkkie)
 - Anthony Luttrell
+- Rui Magalhaes
 - Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
@@ -5923,6 +5930,7 @@ Stephan Sharpe
 - [irmina90](https://github.com/irmina90)
 - [digitaldina](https://github.com/dinaelhanan)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
+- [Ali Ahmadiavin](https://github.com/ahmadiavin)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
 - [Samith Basnayaka](https://github.com/SamithDB)
@@ -16834,3 +16842,7 @@ Mário Baltazar
 - [Leanthony Marion-Landais](https://github.com/leanthonyml)
 - [Simon Rossinskiy](https://github.com/simross/)
 - [Pedro Diniz](https://github.com/PedroDNZ)
+- [Shane Lonergan](https://github.com/shanelonergan)
+- Matheus Azzi
+- Matheus Spaniol
+- Jade Oliveira
