@@ -12660,6 +12660,7 @@ Stephan Sharpe
 - [Sean Moltaji](https://github.com/sm100)
 - [Lino Lastella](https://github.com/linolastella)
 - [Dhiraj Kathayat](https://github.com/dhirajSK)
+- [Giovane da Silva Sobrinho](https://github.com/silvasobrinho)
 - [Bruno Chicre](https://github.com/BrChicre)
 - [Vasu Agrawal](https://github.com/vasuagrawal19)
 - [Aaron Schollen](https://githib.com/ianog)
