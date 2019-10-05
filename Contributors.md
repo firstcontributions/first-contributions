@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
@@ -10,6 +10,7 @@
 - [Subhendu Maji] (https://github.com/subhendu17620)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Amit Dutta](https://github.com/Amitdutta7)
+- [Vincenzo Conte](https://github.com/Brewno88)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Annie Chen](https://github.com/achen6159
@@ -15704,7 +15705,6 @@ Stephan Sharpe
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
