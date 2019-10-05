@@ -260,6 +260,7 @@
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Tim Windhorst] (https://github.com/atimw)
+- [Erik Hoversten] (https://github.com/ehoversten)
 - [Azuremis] (https://github.com/Azuremis)
 - [Salil Cuncoliencar](https://github.com/salilbc)
 - [Rithik](https://github.com/rithikmali)
