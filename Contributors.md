@@ -287,6 +287,7 @@
 - [Tim Windhorst] (https://github.com/atimw)
 - [Erik Hoversten] (https://github.com/ehoversten)
 - [Azuremis] (https://github.com/Azuremis)
+- [Paige] (https://github.com/paigemariedev)
 - [Salil Cuncoliencar](https://github.com/salilbc)
 - [Rithik](https://github.com/rithikmali)
 - [tom-dell](https://github.com/tom-dell)
