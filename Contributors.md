@@ -15,6 +15,7 @@
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Annie Ke] (https://github.com/annieke)
 - [Anshu Kumari] (https://github.com/anshukcse)
+- [Wang An](https://github.com/lofrienger)
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
 - [Spencer Robinson] (https://github.com/spenmaster)
@@ -15638,7 +15639,6 @@ Stephan Sharpe
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
