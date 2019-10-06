@@ -77,6 +77,7 @@
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
 - [Prathik.S.Nayak](https://github.com/psn221b)
+- [Brenda Flores](https://github.com/bflores88)
 - [dileepa pavel seekkubadu](https://github.com/dileepapavel)
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
 - [Francisca Astengo] (https://github.com/frastengo)
