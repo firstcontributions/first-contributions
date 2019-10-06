@@ -16883,3 +16883,5 @@ Mário Baltazar
 - [Piyush Kaushik](https://github.com/KaushikDev)
 - [Andre Scholtz](https://github.com/javamonk)
 - [Chintya Dewi] (https://github.com/chintyadewi)
+- [Harshit Tiwari] (https://github.com/FireFeathers06)
+
