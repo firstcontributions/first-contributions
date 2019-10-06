@@ -5,6 +5,7 @@
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Si Lam](https://github.com/silam)
 - [DzunN86](https://github.com/DzunN86)
+- [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [bubz](https://github.com/debubz)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Po-Ying Fu](https://github.com/AmberFu)
