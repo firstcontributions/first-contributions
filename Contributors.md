@@ -129,6 +129,7 @@
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1) 
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
+- [Saurabh Singh Gautam]
 - [Shanmuga Sivapragasam] (https://github.com/ShanmugaSivapragasam)
 - [Kalyan Kumar](https://github.com/kalyanstumagz)
 - [Cikareto](https://github.com/cikareto)
@@ -16906,4 +16907,5 @@ Mário Baltazar
 - [Navin Kumar](https://github.com/KN999)
 - [Kumara S N] (https://github.com/LiveWithCS)
 - [Xavier Sala] (https://github.com/utrescu)
+- [Dev Agarwal] (https://github.com/devagarwal1803)
 - [Mikhail Kopylov](https://github.com/abbit)
