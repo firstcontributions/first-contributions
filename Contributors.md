@@ -7181,6 +7181,7 @@ Stephan Sharpe
 - [Shashi Prakash Shah](https://github.com/spshah)
 - [Harikesh Pallantla](https://github.com/harikesh409)
 - [Jesús Muñoz](https://github.com/98789)
+- [Conall Tuohy](https://github.com/conall-tuohy)
 - [Sebastian Upjohn](https://github.com/supjohn)
 - [Patrick Endicott](https://github.com/EndoxgrO)
 - [Anthony Bilic](https://github.com/irulenot)
