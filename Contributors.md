@@ -13631,6 +13631,7 @@ Stephan Sharpe
 - [Lokesh Sharma](https://github.com/konohakesh)
 - [Nancy Sarhan](https://github.com/nancysarhan)
 - [Razor yo](https://github.com/imrazory0)
+- [Julien T. Gauthier]
 - [Steven Kidd](https://github.com/proofskiddie)
 - [Vincent Stamos](https://github.com/vstamos1)
 - [Mayank](https://github.com/mayank2652)
