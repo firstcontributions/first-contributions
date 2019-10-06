@@ -16,6 +16,7 @@
 - [DzunN86](https://github.com/DzunN86)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
+- [Mark Rutherford](https://github.com/porknbeansnz)
 - [bubz](https://github.com/debubz)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
