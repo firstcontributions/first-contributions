@@ -16893,6 +16893,7 @@ Mário Baltazar
 - [Antônio Ribeiro](https://github.com/antoniorib91)
 - [Noel Lobo](https://github.com/coffeestains)
 - [Piyush Kaushik](https://github.com/KaushikDev)
+- [zrooooiy](https://github.com/roiyz)
 - [Andre Scholtz](https://github.com/javamonk)
 - [Chintya Dewi] (https://github.com/chintyadewi)
 - [Navin Kumar](https://github.com/KN999)
