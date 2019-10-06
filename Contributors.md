@@ -40,6 +40,7 @@
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
 - [Evan Croft]
+- [Rituraj Jain] (https://github.com/RiturajJain)
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
