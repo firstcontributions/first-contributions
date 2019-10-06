@@ -16334,6 +16334,7 @@ Stephan Sharpe
 - [Sam McRuvie](https://github.com/SamMcRuvie)
 - [Thomas Dimnet](https://github.com/tdimnet)
 - [Danny Vim](https://github.com/DannyVim)
+- [James McDonald](https://github.com/jmcdona1d)
 - [Priyank Patel](https://github.com/patel-priyank)
 - [Hassan Elseoudy](https://github.com/Hassan-Elseoudy)
 - [Titus Wen](https://github.com/wen372)
