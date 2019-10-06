@@ -16,6 +16,7 @@
 - [bubz](https://github.com/debubz)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Akshat Khandelwal](https://github.com/ak127a)
+- [Arushi Pandit](https://github.com/arushipandit)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Arushi Pandit](https://github.com/arushipandit)
