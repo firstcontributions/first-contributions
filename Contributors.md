@@ -168,6 +168,7 @@
 - [Ye Wai Yan](https://github.com/bupstan)
 - [Shubham Raj Chauhan](https://github.com/Shuu-7)
 - [Deepak Agarwal]
+- [Starlord newbie] (https://github.com/instinxt)
 - [Andre Guimaraes] (http://github.com/Fuedy
 - [Sergei Nevstruev]
 - [Shakeel Iddrisu](https://github.com/shakeel30)
