@@ -8,6 +8,7 @@
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Mike Cheung](https://github.com/dev-mcheung)
+- [mayank sharma](https://github.com/mayanksharma019)
 - [Preethi Manoharan](https://github.com/preethi900)
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
