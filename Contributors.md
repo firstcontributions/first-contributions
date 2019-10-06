@@ -5693,6 +5693,7 @@ Stephan Sharpe
 - Ahlad sethi
 - [Karthick aravindan](https;//github.com/12345k)
 - [Amr Bakry](https://github.com/amrrbakry)
+- [Jon Chang](https://github.com/tobeornottobeadev)
 - [Sohail Khan](https://github.com/khan0604)
 - [Linda Oglesbee](https://github.com/linsogles)
 - [Chitranshu Srivastava](https://github.com/chitranshu651)
