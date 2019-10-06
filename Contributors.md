@@ -5,6 +5,7 @@
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Mike Cheung](https://github.com/dev-mcheung)
+- [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
 - [DzunN86](https://github.com/DzunN86)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
