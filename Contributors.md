@@ -16916,3 +16916,4 @@ Mário Baltazar
 - [Xavier Sala] (https://github.com/utrescu)
 - [Dev Agarwal] (https://github.com/devagarwal1803)
 - [Jishan Bhattacharya] (https://github.com/j16n)
+- [Stuti Jain](https://github.com/JainStuti25)
