@@ -2,6 +2,7 @@
 ﻿
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
+- [Tom Cole] (https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
