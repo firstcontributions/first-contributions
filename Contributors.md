@@ -63,6 +63,7 @@
 - [aleks136]
 - [davyranger] 
 - [Ghulam Mustafa1]
+- [Neil Stoker](https://github.com/nstoker)
 - [Infrony](https://github.com/infrony)
 - [Garvit291]
 - [Donna Vitan](https://github.com/donnavitan)
