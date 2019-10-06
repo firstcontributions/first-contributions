@@ -5603,6 +5603,7 @@ Stephan Sharpe
 - [Prateek Sharma](https://github.com/prateeksharma21)
 - [Aakarshita Tiwari](https://github.com/LeCeee)
 - [Bhupendra Rathore](https://github.com/Bhupendra1995)
+- [Alberto Fragoso](https://github.com/albertofragoso)
 - [Krishna Kant Singh](https://github.com/kks0101)
 - [Prabhakar Deep](https://github.com/prvkr)
 - shalev nehorai
