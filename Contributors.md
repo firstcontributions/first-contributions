@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 ﻿
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
@@ -7916,6 +7916,7 @@ Stephan Sharpe
 - [Prakhar tripathi](https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
 - [Alvin Yang](https://github.com/vindow)
+- [Anish Kargaonkar](https://github.com/anishkargaonkar)
 - [Sota Yamashita](https://github.com/sotayamashita)
 - [Nishant Ranjan](https://github.com/darkfist)
 - [Fakiolas Marios](https://github.com/fakiolinho)
@@ -16957,3 +16958,4 @@ Mário Baltazar
 - [Katie McCue](https://github.com/katiemccue)
 - [Diego Filgueiras] (https://github.com/diegofilbal)
 - [Caitlin Hinshaw] (https://github.com/caitlinhinshaw)
+- [Md Rakil Ahmed](https://github.com/imrakilahmed)
