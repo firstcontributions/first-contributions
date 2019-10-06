@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 ﻿
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Mike Cheung](https://github.com/dev-mcheung)
@@ -16875,3 +16875,4 @@ Mário Baltazar
 - [Antônio Ribeiro](https://github.com/antoniorib91)
 - [Noel Lobo](https://github.com/coffeestains)
 - [Piyush Kaushik](https://github.com/KaushikDev)
+- [Dennis Ong](https://github.com/dennisong45)
