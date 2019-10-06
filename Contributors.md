@@ -29,6 +29,7 @@
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Michael Jenkins] (https://github.com/KipTheTurtlebear)
+- [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
