@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 ﻿
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
@@ -13,6 +13,7 @@
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Franco Colman](https://github.com/colmanfranco)
+- [Arushi Pandit](https://github.com/arushipandit)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
 - [Daniel Yuki](https://github.com/DanielYuki) 
