@@ -44,6 +44,7 @@
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
 - [Evan Croft]
+- [Shivangi Kanchan]
 - [Rituraj Jain] (https://github.com/RiturajJain)
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
