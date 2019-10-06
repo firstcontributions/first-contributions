@@ -1,6 +1,7 @@
 # Contributors
 
 - [Aniela Wolkonowski](https://github.com/AnielaMW)
+- [Aaron gadee](https:/github.com/BallisticZer0)
 - [James Featherstone](https://github.com/jfeathe)
 - [Sonya Slegers](https://github.com/sunny-slegs)
 - [Yik Jin](https://github.com/yikjin)
