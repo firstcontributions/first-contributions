@@ -16876,3 +16876,4 @@ Mário Baltazar
 - [Antônio Ribeiro](https://github.com/antoniorib91)
 - [Noel Lobo](https://github.com/coffeestains)
 - [Piyush Kaushik](https://github.com/KaushikDev)
+- [Andre Scholtz](https://github.com/javamonk)
