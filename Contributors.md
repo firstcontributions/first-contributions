@@ -3,6 +3,7 @@
 - [Quince Joz-Bruer](https://github.com/the-german)
 -[Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Mike Cheung](https://github.com/dev-mcheung)
+- [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
 - [DzunN86](https://github.com/DzunN86)
 - [bubz](https://github.com/debubz)
