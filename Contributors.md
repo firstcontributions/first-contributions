@@ -77,6 +77,7 @@
 - [Anton de Regt] (https://github.com/antonderegt)
 - [Logan Benavente] (https://github.com/drowvoloper)
 - [Rohit Sharma] (https://github.com/Mudassirali2802)
+- [Graham Squires] (https://github.com/GDS83192)
 - [Sara De La Cruz] (https://github.com/Sara-DLC)
 - [Annie Ke] (https://github.com/annieke)
 - [Fynn Grandke] (https://github.com/FynnGrandke)
