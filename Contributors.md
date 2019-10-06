@@ -16949,6 +16949,7 @@ Mário Baltazar
 - [Anugerah Erlaut](https://github.com/aerlaut)
 - [Nate](https://github.com/ACA30)
 - [Akshita Sah](https://github.com/akshi0409)
+- [Alex Zhang](https://github.com/alex6126)
 - [Christopher Heaney](https://github.com/d4rkshell)
 - [Katie McCue](https://github.com/katiemccue)
 - [Diego Filgueiras] (https://github.com/diegofilbal)
