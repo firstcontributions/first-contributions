@@ -1902,6 +1902,7 @@ Stephan Sharpe
 - [Chris Drury](https://github.com/crdrury)
 - [Eron Begiqi](https://github.com/eronbegiqi)
 - [Anirban Dey](https://github.com/anirbandey303)
+- [Martin Fernandez](https://github.com/RickyMartin98)
 - [Jose Matundan](https://github.com/iskomtdev)
 - [Hugo Bujan Prevot](https://github.com/Drithyl)
 - [Sarah Lindau](https://github.com/LSariel)
