@@ -16,6 +16,7 @@
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [bubz](https://github.com/debubz)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
+- [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Po-Ying Fu](https://github.com/AmberFu)
