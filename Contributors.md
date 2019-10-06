@@ -35,6 +35,7 @@
 - [Sachin Pal](https://github.com/Arrendale)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
+- [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
 - [Vaibhav Kumar] (https://github.com/ivaibhavkr)
