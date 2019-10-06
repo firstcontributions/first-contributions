@@ -14,6 +14,7 @@
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
+- [Vivek Chauhan](https://github.com/cvivek503)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
