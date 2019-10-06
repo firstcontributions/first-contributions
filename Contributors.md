@@ -15991,6 +15991,7 @@ Stephan Sharpe
 - [Seongmin Choi](https://github.com/sseongmi/)
 - [Nikita Milovanov](https://github.com/nwnebel)
 - [Bernard Kacprzak](https://github.com/Bernard-code)
+- [Victor Lemos](https://github.com/grimmer10u)
 - [Alessandro Munufie](https://github.com/alexmunu)
 - [EricWang](https://github.com/bigbigDreamer)
 - [Mrigank Dembla](https://github.com/mrigankdembla/)
