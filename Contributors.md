@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
@@ -6,6 +6,7 @@
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
+- [Zubia Ali] (https://github.com/Zuzu01)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
