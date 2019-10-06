@@ -13120,6 +13120,7 @@ Stephan Sharpe
 - [Kristjan Koemets](https://github.com/Jollerr)
 - [Yueyun Shu](https://github.com/rsandx)
 - [Diego Costa](https://github.com/srdiegocosta)
+- [Oleg Kh](https://github.com/olegxrom)
 - [Matthew Guo](https://github.com/Funplings)
 - [Erik Boström](https://github.com/erikbostrom)
 - [Ahmet Aykut Ay](https://github.com/ahmetaykutay)
