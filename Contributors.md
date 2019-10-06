@@ -7916,6 +7916,7 @@ Stephan Sharpe
 - [Prakhar tripathi](https://github.com/Prakharsvnit)
 - [Ji Wu](https://github.com/j1wu)
 - [Alvin Yang](https://github.com/vindow)
+- [Anish Kargaonkar](https://github.com/anishkargaonkar)
 - [Sota Yamashita](https://github.com/sotayamashita)
 - [Nishant Ranjan](https://github.com/darkfist)
 - [Fakiolas Marios](https://github.com/fakiolinho)
