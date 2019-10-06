@@ -39,6 +39,7 @@
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
+- [Nambikai] (https://github.com/nambikai)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
