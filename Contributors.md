@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 ﻿
 - [Quince Joz-Bruer](https://github.com/the-german)
 -[Rohit Chowdary](https://github.com/urstrulyrohit)
@@ -2928,6 +2928,7 @@ Stephan Sharpe
 - [Ruben Programs](https://github.com/rubenprograms)
 - Nilam Jadhav
 - N-Mor
+- [Jacky Liu](https://github.com/Jacky-Liu1)
 - [Joe Lee](https://github.com/josephlee93)
 -_[Alexander Witedja](https://github.com/alexwitedja)
 - [nolj](https://github.com/nolanbjohnson)
