@@ -13,6 +13,7 @@
 - [Sukrit Walia](https://github.com/wukrit)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
+- [Tezan Sahu](https://tezansahu.github.io)
 - [Adityakumar Yadav](https://github.com/Adiy2j)
 - [Vivek Chauhan](https://github.com/cvivek503)
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
