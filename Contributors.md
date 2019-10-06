@@ -2066,6 +2066,7 @@ Stephan Sharpe
 - [Badyal Suresh Rahul](https://github.com/rali20)
 - [Simranjit Kaur](https://github.com/SimranjitKaurMaan)
 - [Colin Trezise](https://github.com/ColTrez)
+- sntdrr
 - [Aashish Rathi](https://github.com/aashishrathi)
  [Matthew Reich](https://github.com/matthewReich)
 - [Jatin Kathuria](https://github.com/logeekical)
