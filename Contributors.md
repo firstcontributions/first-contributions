@@ -3341,6 +3341,7 @@ Stephan Sharpe
 - Sourav
 - [Phan Son Loc](https://github.com/phansonloc1999)
 - [Sukhesh Samant](https://github.com/sukhsama)
+- [Faruk Aydın](https://github.com/hayspat)
 - [Bipul Kumar](https://github.com/imbipulkumar)
 - [Ivana](https://github.com/ivanaangelia)
 - [Andrei Mouraviev](https://github.com/amourav)
