@@ -12,6 +12,7 @@
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [bubz](https://github.com/debubz)
+- [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Franco Colman](https://github.com/colmanfranco)
