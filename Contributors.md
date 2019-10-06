@@ -16949,3 +16949,4 @@ Mário Baltazar
 - [Akshita Sah](https://github.com/akshi0409)
 - [Christopher Heaney](https://github.com/d4rkshell)
 - [Katie McCue](https://github.com/katiemccue)
+- [Diego Filgueiras] (https://github.com/diegofilbal)
