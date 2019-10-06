@@ -7,6 +7,7 @@
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
+- [Chau Nguyen](https://github.com/VanQuishi)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Preethi Manoharan](https://github.com/preethi900)
