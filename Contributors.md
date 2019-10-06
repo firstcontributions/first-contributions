@@ -771,6 +771,7 @@ Nishtha3512
 - [Ajay Kumar](https://github.com/ajaykumar97)
 - [Erika Stott](https://github.com/estott10)
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
+- [Sri Manikanta Palakollu](https://github.com/srimani-programmer)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [Sam](https://github.com/Montblac)
 - [Nick](https://github.com/yTpo1)
