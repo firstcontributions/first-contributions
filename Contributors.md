@@ -1,6 +1,7 @@
 ﻿# Contributors
 ﻿
 - [Quince Joz-Bruer](https://github.com/the-german)
+-[Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Si Lam](https://github.com/silam)
 - [DzunN86](https://github.com/DzunN86)
