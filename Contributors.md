@@ -1,7 +1,8 @@
 # Contributors
 ﻿
+- [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
--[Rohit Chowdary](https://github.com/urstrulyrohit)
+- [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Si Lam](https://github.com/silam)
