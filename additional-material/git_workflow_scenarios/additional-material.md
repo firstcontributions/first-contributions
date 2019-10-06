@@ -7,7 +7,7 @@ This document provides information about how to amend a commit on the remote rep
 > Use this when you need to adjust a commit you made.
 
 ### [Configuring git](configuring-git.md)
-This document provides information about how to configure user details and other options in git.
+This document provides information about how to Configure user details and other options in git.
 > Use this to better control your git configurations.
 
 ### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
@@ -20,7 +20,7 @@ This document provides information about how to move a Commit to another Branch.
 
 ### [Removing a File](removing-a-file.md)
 This document provides information about how to remove a file from your local repository.
-> Follow these steps to learn how to remove a file prior to a commit
+> Follow these steps to learn how to remove a file prior to a commit.
 
 ### [Removing a branch from your repository](removing-branch-from-your-repository.md)
 This document provides information about how to delete a branch from your repository.
@@ -39,7 +39,7 @@ This document provides information about how to squash commits with an interacti
 > Use this if you want to open a PR in an open source project and the reviewer asks you to squash every commit into one, with an informative commit message.
 
 ### [Undo-ing a local commit](undoing-a-commit.md)
-This document provides information about how to undo a commit on your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
+This document provides information about how to undo a commit on your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset that local repository.
 > Take these steps if you want to undo/reset a local commit.
 
 ### [Useful Links](Useful-links-for-further-learning.md)
