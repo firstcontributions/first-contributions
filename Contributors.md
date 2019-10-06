@@ -7117,6 +7117,7 @@ Stephan Sharpe
 - [Umoren Samuel](https://github.com/Umoren)
 - [Brittany Donowho](https://github.com/BrittWho)
 - [Stephane Mansour](https://github.com/StephMansour)
+- [Beau Malroney](https://github.com/beau-malroney)
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
