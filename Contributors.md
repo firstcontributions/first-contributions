@@ -16901,3 +16901,4 @@ Mário Baltazar
 - [Chintya Dewi] (https://github.com/chintyadewi)
 - [Aju George Jacob] (https://github.com/ajugjacob)
 - [Navin Kumar](https://github.com/KN999)
+- [minnimimi] (https://github.com/minnimimi)
