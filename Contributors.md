@@ -1352,3 +1352,4 @@ Cheng Chin Lim
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
 - [Vitor Dias](https://github.com/VitorDiass)
+- [Ynoa Pedro] (http://github.com/ypedroo)
