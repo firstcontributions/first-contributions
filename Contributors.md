@@ -21,6 +21,7 @@
 - [Franco Colman](https://github.com/colmanfranco)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
+- [Sarthak Kundra](https://github.com/sarthakkundra)
 - [Sukrit Walia](https://github.com/wukrit)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
