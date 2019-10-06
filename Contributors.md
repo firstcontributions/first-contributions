@@ -12834,6 +12834,7 @@ Stephan Sharpe
 - [Alan Mathew](https://github.com/alamathe1)
 - [apoc](https://github.com/apoc146)
 - [Terry](https://github.com/terry)
+- Edmond Doan
 - [Apoorv Tomar](https://github.com/apoorvtomar2222)
 - [Jeff Cutler](https://github.com/jefferycutler)
 - [Saad](https://github.com/MuhammadSaadQadeer)
