@@ -21,6 +21,7 @@
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Po-Ying Fu](https://github.com/AmberFu)
+- [Daniel Davis](https://github.com/dtdavis90)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
