@@ -3144,6 +3144,7 @@ Stephan Sharpe
 - [Janet Gordon](https://github.com/GamergirlJ)
 - [Rohan Tibrewal](https://github.com/rohantib)
 - [Kamaljot Saini](https://github.com/unsafeartist)
+- [Jakub Mańczak](https://github.com/jakubmanczak)
 - [rodegrafika](https://github.com/Rodegrafika)
 - [daniel9a](https://github.com/daniel9a)
 - [toddchrun](https://github.com/toddchrun)
