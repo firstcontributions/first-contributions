@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 ﻿
+- [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
