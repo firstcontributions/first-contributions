@@ -13502,6 +13502,7 @@ Stephan Sharpe
 - [Alex Glaze](https://github.com/glazey132)
 - [Saif Kotwal](https://github.com/saifnsound)
 - [Arjun Dandagi](https://github.com/ArjunDandagi)
+- [Siddarth Krishnan](https://github.com/sid11k)
 - [Guilherme Albuquerque](https://github.com/GuilhermeAO)
 - [Jonathan Santos](https://github.com/jsantos93)
 - [Kumar Rahul](https://github.com/dieWithYourBootsON)
