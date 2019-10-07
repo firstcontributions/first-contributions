@@ -17040,3 +17040,4 @@ rehan
 - [Shynd](https://github.com/Shynd)
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
 - [Adewoyin Oladipupo-Usoro](https://github.com/nucternal18)
+- [Nabil Elidrissi](https://github.com/niblux)
