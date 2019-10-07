@@ -63,6 +63,7 @@
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
 - [Evan Croft]
+- [Kevin Wang](https://github.com/NinjaEagle)
 - [Shivangi Kanchan]
 - [Rituraj Jain] (https://github.com/RiturajJain)
 - [Adam] (https://github.com/aabuderi)
@@ -12415,6 +12416,7 @@ Stephan Sharpe
 - [jeremie8](https://github.com/jeremie8)
 - [KyleTran](https://github.com/kyletran24)
 - [prem](https://github.com/prems1891)
+- [lupangsogood](https://github.com/lupangsogood)
 - [Cameron-Bechtloff](https://github.com/cjbechtl)
 - [Rahul Nagekar](https://github.com/RahulNagekar)
 - [Michael Kareithi](https://github.com/bikeboi)
@@ -16967,4 +16969,5 @@ Mário Baltazar
 - [Md Rakil Ahmed](https://github.com/imrakilahmed)
 - nrhein
 - [Akhil C](https://github.com/imuraki)
+- [Disha Agarwal](https://github.com/disha4u/)
 - [Natsuko Tsumagari](https://github.com/Tsumagari)
