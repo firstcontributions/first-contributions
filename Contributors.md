@@ -229,6 +229,7 @@
 - [Dheeraj Reddy](https://github.com/dheerajreddymumma)
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [Travis Moore](https://github.com/tmoore2016)
+- [Jennifer Felton] (https://github.com/jenniferafelton)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dan Ince](https://github.com/dince12)
 - [Geovanny Mantilla](https://github.com/geovanymantilla)
