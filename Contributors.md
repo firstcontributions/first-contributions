@@ -196,7 +196,8 @@
 - [Starlord newbie] (https://github.com/instinxt)
 - [Andre Guimaraes] (http://github.com/Fuedy
 - [Sergei Nevstruev]
-- [Shakeel Iddrisu](https://github.com/shakeel30)
+- [Amandeep Rikhi] (https://github.com/amandeeprikhi) (https://amandeeprikhi.me/)
+- [Shakeel risu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern](https://github.com/Habernet)
 - [Anthony Mahramus](https://github.com/mahramus)
