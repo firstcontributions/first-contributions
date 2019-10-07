@@ -10,6 +10,7 @@
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
+- [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Chau Nguyen](https://github.com/VanQuishi)
