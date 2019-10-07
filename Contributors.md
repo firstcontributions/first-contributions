@@ -168,6 +168,7 @@
 - [Devesh Chatuphale] (https://github.com/deveshchatuphale7)
 - [Vaibhavi Narayanan] (https://github.com/vibu267)
 - [flashintosh] (https://github.com/flashintosh)
+- [adrepd](https://github.com/adrepd)
 - [Aditya] (https://github.com/Cyberdragon1000)
 - [Jaswanth Krishna] (https://https://github.com/JazzKriss21)
 - [Harsh Soni] (https://github.com/harshh06)
