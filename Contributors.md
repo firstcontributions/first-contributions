@@ -121,6 +121,7 @@
 - [Brenda Flores](https://github.com/bflores88)
 - [dileepa pavel seekkubadu](https://github.com/dileepapavel)
 - [Pieter Jan Geutjens](https://github.com/pjgeutjens)
+- [Leo Gimre](https://github.com/Raioite)
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
 - [Francisca Astengo] (https://github.com/frastengo)
 - [Michael Kilcorse] (https://github.com/kilcorse-michael)
