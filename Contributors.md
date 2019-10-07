@@ -17000,3 +17000,4 @@ Mário Baltazar
 - [Jude Joel Garay](https://github.com/jjgaray/)
 rehan
 - [ThereOHM](https://github.com/ThereOHM)
+- [Victor Hugo Kunzler](https://github.com/victorkunzler)
