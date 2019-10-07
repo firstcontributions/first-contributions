@@ -23,6 +23,7 @@
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Arushi Pandit](https://github.com/arushipandit)
+- [Lifan Chu](https://github.com/cardboarder)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Quiara Kirkland](https://github.com/Cap10Kirk)
 - [Daniel Davis](https://github.com/dtdavis90)
