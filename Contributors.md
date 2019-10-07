@@ -83,6 +83,7 @@
 - [abhipsa002](https://github.com/abhipsa002)
 - [Sensanaty](https://github.com/Sensanaty)
 - [sevonefive]
+- [Ila Jindal]
 - [Pietro Iaia] (https://github.com/PietroIaia)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
