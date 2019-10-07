@@ -977,6 +977,7 @@ Nishtha3512
 - Ian
 - Pranav
 - EmixM
+- [ZacZackk](https://github.com/ZacZackk)
 - Berndu
 - Melvin (https://github.com/melvin95)
 - [Furqan Amin](https://github.com/furqanamin)
