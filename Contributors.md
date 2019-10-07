@@ -20,6 +20,7 @@
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
 - [bubz](https://github.com/debubz)
+- [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
