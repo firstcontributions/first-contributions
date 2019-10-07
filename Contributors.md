@@ -12416,6 +12416,7 @@ Stephan Sharpe
 - [jeremie8](https://github.com/jeremie8)
 - [KyleTran](https://github.com/kyletran24)
 - [prem](https://github.com/prems1891)
+- [lupangsogood](https://github.com/lupangsogood)
 - [Cameron-Bechtloff](https://github.com/cjbechtl)
 - [Rahul Nagekar](https://github.com/RahulNagekar)
 - [Michael Kareithi](https://github.com/bikeboi)
