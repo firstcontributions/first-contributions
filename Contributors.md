@@ -75,6 +75,7 @@
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
 - [Evan Croft]
+- [Ricky]
 - [Kevin Wang](https://github.com/NinjaEagle)
 - [Shivangi Kanchan]
 - [Rituraj Jain] (https://github.com/RiturajJain)
