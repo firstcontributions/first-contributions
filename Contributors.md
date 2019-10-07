@@ -117,6 +117,7 @@
 - [Diaz Saul] (https://github.com/sauldc24)
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
+- [Khushraj Rathod] (https://github.com/Holyprogrammer)
 - [Spencer Robinson] (https://github.com/spenmaster)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [abcd] (https://github.com/abcd)
