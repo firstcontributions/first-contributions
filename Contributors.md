@@ -18,6 +18,7 @@
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
+- [Bruno Mendes de Holanda Cavalcante](https://github.com/bruno-holanda15)
 - [Chau Nguyen](https://github.com/VanQuishi)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
