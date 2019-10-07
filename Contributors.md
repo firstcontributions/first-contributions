@@ -35,6 +35,7 @@
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
 - [Alfonso Lechuga](https://github.com/lechugalf)
+- [Devendra Shekhawat](https://github.com/dev-313)
 - Nathan Jones
 - Sachin Rao
 - [Mandi Howell](https://github.com/allst896)
