@@ -8495,6 +8495,7 @@ Stephan Sharpe
 - [Matt Moderwell](https://github.com/mmoderwell)
 - [Melissa Arrington](https://github.com/melissaarrington1)
 - [Laurent Devernay](https://github.com/ldevernay)
+- [Salvador Gudino](https://github.com/p4t0n1x)
 - [Darkpingouin](https://github.com/mmoderwell)
 - [Predrague](https://github.com/Predrague)
 - [Hasan Mesut Meral](https://github.com/hmmeral)
