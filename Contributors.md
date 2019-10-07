@@ -31,6 +31,7 @@
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
+- [Dhyey Gami](https://github.com/dhyey6602)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Lifan Chu](https://github.com/cardboarder)
 - [Po-Ying Fu](https://github.com/AmberFu)
