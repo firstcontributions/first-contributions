@@ -1,5 +1,12 @@
+add-Gabriel-Berry
 - [Daniel Yuki](https://github.com/DanielYuki)
 
+=======
+# Contributors
+﻿
+- [Marcelo Wis](https://github.com/marcelowis)
+- [Gustavo M](https://github.com/foofate)
+master
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
@@ -16,11 +23,13 @@
 - [DzunN86](https://github.com/DzunN86)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
+- [Mark Rutherford](https://github.com/porknbeansnz)
 - [bubz](https://github.com/debubz)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Arushi Pandit](https://github.com/arushipandit)
+- [Lifan Chu](https://github.com/cardboarder)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Quiara Kirkland](https://github.com/Cap10Kirk)
 - [Daniel Davis](https://github.com/dtdavis90)
@@ -39,6 +48,7 @@
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
+- [Nambikai] (https://github.com/nambikai)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
@@ -195,6 +205,7 @@
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Bedant]
+- [rdcs](https://github.com/riosdcs)
 - [Savethan Sritharan](https://github.com/sav7204)
 - [Tyler Campanile] (https://github.com/tecampani)
 - [Joe Lee](https://github.com/JoeDravarol)
@@ -8123,6 +8134,7 @@ Stephan Sharpe
 - [Shreyash Soni](https://github.com/ShreyashSoni)
 - [Navneet Surana](https://github.com/NavneetSurana)
 - [Christiaan Naude](https://github.com/cjnaude)
+- [Jason Juliette]
 - [Koffi Sani](https://github.com/koffisani)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
 - [Marcelo Barbosa](https://github.com/marbosa)
@@ -16963,3 +16975,5 @@ Mário Baltazar
 - [Katie McCue](https://github.com/katiemccue)
 - [Diego Filgueiras] (https://github.com/diegofilbal)
 - [Md Rakil Ahmed](https://github.com/imrakilahmed)
+- nrhein
+- [Akhil C](https://github.com/imuraki)
