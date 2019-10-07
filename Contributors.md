@@ -200,6 +200,7 @@
 - [Shubham Gupta](https://github.com/shubham030)
 - [Prakhar Singhal] (https://github.com/Ghoul2077)
 - [Anna Levenberg](https://github.com/alevenberg)
+- [Renee Davis](https://github.com/Rooster1915)
 - [Jatin Narula](https://github.com/jatin96)
 - [Jessica Gladstone] (https://github.com/Jcg408)
 - [Tanish Baansal](https://github.com/snaked06)
