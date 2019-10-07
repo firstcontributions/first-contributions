@@ -20,6 +20,7 @@
 - [Preethi Manoharan](https://github.com/preethi900)
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
+- [Aakash Jain](https://github.com/AakashJ2412)
 - [DzunN86](https://github.com/DzunN86)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
