@@ -14890,6 +14890,7 @@ Stephan Sharpe
 - [Kenneth Sweezy](https://github.com/KennethSweezy)
 - [Yashas Reddy](https://github.com/qwertyhup)
 - [Igor Matheus Diniz](https://github.com/igormatheusdiniz)
+- [Emilie Gervais](https://github.com/hexangel616)
 - [Laurie Roy](https://github.com/laurieroy)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
