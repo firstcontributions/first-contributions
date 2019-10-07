@@ -17042,3 +17042,4 @@ rehan
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
 - [Adewoyin Oladipupo-Usoro](https://github.com/nucternal18)
 - [Nabil Elidrissi](https://github.com/niblux)
+- [Willian Schenkel](https://github.com/wschenkel)
