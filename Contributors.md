@@ -1,5 +1,6 @@
 ﻿# Contributors
 ﻿
+- [Ajriel Rizqy Maulana]
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
