@@ -1,5 +1,6 @@
 ﻿# Contributors
-﻿
+
+- [Fred Adams (github/xtrp)](https://github.com/xtrp)
 - [Ajriel Rizqy Maulana]
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
