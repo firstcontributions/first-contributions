@@ -22,6 +22,7 @@
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Alberto Xamin](https://github.com/albertoxamin)
+- [Shriyansh Jain](https://github.com/Shriyansh-J)
 - [Jake Murray](https://github.com/jakerx79)
 - [Preethi Manoharan](https://github.com/preethi900)
 - [Raphael Concil](https://github.com/raphael-concil)
