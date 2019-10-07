@@ -8121,6 +8121,7 @@ Stephan Sharpe
 - [Shreyash Soni](https://github.com/ShreyashSoni)
 - [Navneet Surana](https://github.com/NavneetSurana)
 - [Christiaan Naude](https://github.com/cjnaude)
+- [Jason Juliette]
 - [Koffi Sani](https://github.com/koffisani)
 - [Gudbjartur Sigurbergsson](https://github.com/gsig123)
 - [Marcelo Barbosa](https://github.com/marbosa)
