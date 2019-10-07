@@ -290,6 +290,7 @@
 - [Alex Verdin](https://github.com/averdin2)
 - [Akshatha Laxmi](https://github.com/alastairmoody-madeye)
 - [Shivani Bisht](https://github.com/BishtShivani)
+- [Deven Vachhani](https://github.com/devsoftzz)
 - [Shakir Jamal](https://github.com/AlphaLazer)
 - [Aditya Kumar](https://github.com/kumaraditya1999)
 - [Anthony Velazquez](https://github.com/anthonyvelazquez)
