@@ -23,6 +23,7 @@
 - [Preethi Manoharan](https://github.com/preethi900)
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
+- [Aimen Aounallah](https://github.com/Mizou9999)
 - [Aakash Jain](https://github.com/AakashJ2412)
 - [Shubham Jha](https://github.com/spectrum705)
 - [DzunN86](https://github.com/DzunN86
