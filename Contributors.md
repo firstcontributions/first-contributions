@@ -10,6 +10,7 @@
 - [Naman Gupta](https://github.com/namangup)
 - [Andreas Szekely](https://github.com/Zekel97)
 - [Hamad Mohamed](https://github.com/Hamadou49)
+- [Enrique Galindo] (https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [Tom Cole](https://github.com/TomC-Codes)
