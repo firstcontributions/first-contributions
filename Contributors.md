@@ -564,6 +564,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Aniket Anand](https://github.com/aanand2300)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
+- [Ketan Khatwal] (https://github.com/ketankhatwal)
 - [Janeth Fernando](https://github.com/janethavi)
 - [Simon De Greve](https://github.com/Yoiro)
 - [Claudiu Andrei](https://github.com/Swishyfishie)
