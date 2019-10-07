@@ -129,6 +129,8 @@ git push origin --delete <add-your-name>
 ```
 Это совершенно не обязательно, но название этой ветви отражает ее довольно специфическое назначение. И продолжительность ее жизни может быть соответствующе короткой.
 
+### [Дополнительный материал](../additional-material/translations/Russian/additional-material.ru.md)
+
 ## Использование других инструментов
 
 | <a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a> | <a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a> |
