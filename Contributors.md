@@ -3510,6 +3510,7 @@ Stephan Sharpe
 - [olivia](https://github.com/itsmeolivia)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Mrinal Sinha](https://github.com/themrinalsinha)
+- [Aishat Adenike Akinyemi](https://github.com/Aishat-Akinyemi)
 - [Mallika](https://github.com/Mallika05)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
