@@ -55,6 +55,7 @@
 - [Nicola Buckhurst](https://github.com/nicolabuckhurst)
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
+- [Antonin Nhek](http://github.com/anhek)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Nambikai] (https://github.com/nambikai)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
