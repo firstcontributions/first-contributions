@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
 - [flashintosh] (https://github.com/flashintosh)
@@ -1423,6 +1423,7 @@ Stephan Sharpe
 - [Jeffrey Washigton](https://github.com/thvles)
 - [Beloqui Juan Ignacio](https://github.com/Excatter)
 - [Ronak Malik](https://github.com/BeyondPerception)
+- [Katja B](https://github.com/kopikob)
 - [Lecce Marco](https://github.com/lecciovich)
 - [Scott Ames](https://github.com/scottaames)
 - [filip filip](https://github.com/aminta5)
