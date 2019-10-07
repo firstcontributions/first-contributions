@@ -16552,6 +16552,7 @@ Stephan Sharpe
 - [Prasanth Maddali](https://github.com/mprasanth)
 - [Luis G. Martinez 🇸🇻🤔](https://github.com/LGerMa)
 - [R. Henriquez](https://github.com/arghen)
+- [Coner Murphy](https://github.com/conermurphy)
 - [Kang InSeob](https://github.com/dlstjq7685)
 - putukass
 - [Mitan Chandihok](https://github.com/mitanc)
