@@ -1,5 +1,6 @@
 # Contributors
 ﻿
+- [Marcelo Wis](https://github.com/marcelowis)
 - [Gustavo M](https://github.com/foofate)
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
