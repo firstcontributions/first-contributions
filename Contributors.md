@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
@@ -185,6 +185,7 @@
 - [Amanda Menier](https://github.com/amenier)
 - [Anna-Sofia]
 - [syd645]
+- [DingLi Bao](https://github.com/Bdl-1989)
 - [bh-n-9]
 - [Phillip Kent Knight](https://github.com/phillipknight)
 - [Samer Baslan] (https://github.com/samerbaslan
