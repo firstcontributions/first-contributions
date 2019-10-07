@@ -259,6 +259,7 @@
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
 - [Aquib Baig](https://github.com/aquibbaig)
+- [ALI MINNET](https://github.com/aliminnet)
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
 - [Angelo Ganaden Jr](https://github.com/passwordjr)
