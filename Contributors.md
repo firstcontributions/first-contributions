@@ -12293,6 +12293,7 @@ Stephan Sharpe
 - [Mohammedali H](https://github.com/alics015)
 - [Ben Crane](https://github.com/benscrane)
 - [Kean Weng Yap](https://github.com/keanweng97)
+- [Ally Lyes](https://github.com/Geillish)
 - [Dave Hill](https://github.com/biffhuxtable)
 - [Jokke Darthbrant](https://github.com/skraek)
 - [Ellen Kidane](https://github.com/ekidane)
