@@ -27,6 +27,7 @@
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
+- [P4ul](https://github.com/P4ul-J)
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
