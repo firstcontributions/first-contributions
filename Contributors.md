@@ -2,6 +2,7 @@
 ﻿
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
+- [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Gustavo M](https://github.com/foofate)
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
