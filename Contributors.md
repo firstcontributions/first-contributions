@@ -103,6 +103,7 @@
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Jason Griffis] (https://github.com/jgriffis1976)
+- [Avi Udash] (https://github.com/Fotblx25)
 - [Alex Nickel] (https://github.com/Cattiva)
 - [Melissa Huerta](https://github.com/piratelicorne)
 - [aleks136]
