@@ -15665,6 +15665,7 @@ Stephan Sharpe
 - [tullur](https://github.com/tullur)
 - [showstiller](https://github.com/showstiller)
 - [William Carattini](https://github.com/Suddenrebel)
+- [Amanda Garcia](https://github.com/agarcian031)
 - [showstiller](https://github.com/showstiller)
 - [Shradhit Subudhi](https://github.com/shradhit)
 - [berniecpa&bry](https://github.com/berniecpa)
