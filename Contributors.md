@@ -16973,6 +16973,7 @@ Mário Baltazar
 - [Dev Agarwal] (https://github.com/devagarwal1803)
 - [Jishan Bhattacharya] (https://github.com/j16n)
 - [Stuti Jain](https://github.com/JainStuti25)
+- [Roman Lebedev](https://github.com/lebedevrs9)
 - [HRAnk8t](https://github.com/hrankit)
 - [Adwit Singh Kochar](https://github.com/adwitsingh)
 - [Anugerah Erlaut](https://github.com/aerlaut)
