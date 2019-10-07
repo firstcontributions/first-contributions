@@ -13139,6 +13139,7 @@ Stephan Sharpe
 - [Dinagar R](https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
 - [J](https://github.com/j)
+- [Lindsey Monyelle](https://github.com/lmonyelle)
 - [Madhu Nagaraj](https://github.com/madhusgit)
 - [Gavin Yang](https://github.com/redagavin)
 - [Catherine Ting](https://github.com/catherineting)
