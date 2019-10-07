@@ -6,6 +6,7 @@
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Gustavo M](https://github.com/foofate)
 - [Naman Gupta](https://github.com/namangup)
+- [Hamad Mohamed](https://github.com/Hamadou49)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [Tom Cole](https://github.com/TomC-Codes)
