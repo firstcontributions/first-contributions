@@ -111,6 +111,7 @@
 - [Amy R] (https://github.com/amyriley)
 - [Evan Croft]
 - [Ricky]
+- [hug0](https://github.com/hug0git)
 - [Daveedave]
 - [Maxim] (https://github.com/maximgk97)
 - [Kevin Wang](https://github.com/NinjaEagle)
