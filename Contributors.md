@@ -9883,6 +9883,7 @@ Stephan Sharpe
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Stephanie Leazer](https://github.com/saleazer)
 - [Arica Chakraborty](https://github.com/uemarica)
+- [Aditya Neel](https://github.com/adityaneel94)
 - [Joshua Moffett](https://github.com/Wingnod)
 - [Michel Michels](https://github.com/MichelMichels)
 - [Miguel Meza](https://github.com/peyuking09)
