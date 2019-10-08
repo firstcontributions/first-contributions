@@ -16876,6 +16876,7 @@ Mário Baltazar
 - [Y.S. Shchur](https://github.com/secondW4ve)
 - [Satyajit Pradhan](https://github.com/satyajiit)
 - [EwaDoniec](https://github.com/EwaDoniec)
+- [Hritik Gupta](https://github.com/hritikgupta)
 - [Wadie](https://github.com/wadie)
 - [naveen mortha](https://github.com/nmortha)
 - [Dmitry Xeon](https://github.com/magnoom)
