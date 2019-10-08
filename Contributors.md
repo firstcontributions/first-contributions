@@ -181,6 +181,7 @@
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
 - [Gajraj Singh] (https://github.com/gajrajgchouhan)
+- [Loch] (https://github.com/disrute)
 - [Ritik Kanotra] (https://githib.com/ritikkanotra)
 - [Dev-Akash] (https://github.com/dev-akash)
 - [Divyam Agrawal] (https://github.com/divyamagwl)
