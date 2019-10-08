@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 ﻿
 - [Ajriel Rizqy Maulana]
 - [Arjun Vijaykumar]
@@ -17025,6 +17025,7 @@ Mário Baltazar
 - [Alex Zhang](https://github.com/alex6126)
 - [Christopher Heaney](https://github.com/d4rkshell)
 - [Katie McCue](https://github.com/katiemccue)
+- [Omar Vasquez Lima](http://github.com/oevl)
 - [Diego Filgueiras] (https://github.com/diegofilbal)
 - [Md Rakil Ahmed](https://github.com/imrakilahmed)
 - nrhein
