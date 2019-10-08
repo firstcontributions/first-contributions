@@ -5,6 +5,7 @@
 - [Dominic Kersch](https://github.com/AltDom)
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
+- [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
