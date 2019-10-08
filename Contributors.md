@@ -123,6 +123,7 @@
 - [Nicole Fafard](https://github/nicole919)
 - [Sev Welker](https://github.com/thegreatsevrini)
 - [Naezzin] (https://github.com/naezzin)
+- [Pranav Mehta] (https://github.com/pranav-mehta)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Vincent Lagravère] (https://github.com/JehlahdDWJ)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
