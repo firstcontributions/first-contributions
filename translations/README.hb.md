@@ -202,7 +202,7 @@ git push origin <add-your-branch-name>
   <table style="width:100%">
     <tr>
       <th><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></th>
-      <th><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></th>
+      <th><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></th>
       <th><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></th>
     </tr>
     <tr>
