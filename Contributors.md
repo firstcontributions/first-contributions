@@ -1,6 +1,7 @@
 # Contributors
 ﻿
 - [Ajriel Rizqy Maulana]
+- [Dominic Kersch](https://github.com/AltDom)
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Nick Vashon](https://gitbub.com/nvashon)
