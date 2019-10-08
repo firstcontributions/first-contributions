@@ -42,6 +42,7 @@
 - [Lindsay Fletcher](https://github.com/Javamazon)
 - [Mario Turco](https://github.com/Turkish0)
 - [Chau Nguyen](https://github.com/VanQuishi)
+- [Kiara Barias](https://github.com/Kbarias)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
