@@ -1,5 +1,5 @@
 # Contributors
-﻿
+- [MISBAH BAGASKARA]
 - [Ajriel Rizqy Maulana]
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
