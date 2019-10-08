@@ -95,6 +95,7 @@
 - [Nambikai] (https://github.com/nambikai)
 - [Professor Robotnik] (https://github.com/ProfessorRobotnik)
 - [Diego Chaves] (https://github.com/chavesdiego)
+- [Mihai Druta] (https://github.com/MihaiDruta)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
