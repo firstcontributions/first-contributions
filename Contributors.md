@@ -102,6 +102,7 @@
 - [Eduardo Alano](https://github.com/eduardoalanonh)
 - [David Martin](https://github.com/daviduster)
 - [Nicole Fafard](https://github/nicole919)
+- [Sev Welker](https://github.com/thegreatsevrini)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
