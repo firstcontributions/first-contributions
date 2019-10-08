@@ -21,6 +21,7 @@
 - [Enrique Galindo] (https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
+- [daveedavee]
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Aayush Kumar](https://github.com/aayushakumars)
