@@ -17103,3 +17103,4 @@ rehan
 - [Nelly McNellyson](https://github.com/xyre-nelly-thea)
 - [Erik Samuelsson](https://github.com/erisam)
 - [Jonathan Cardoso](https://github.com/jonathanccardoso)
+- [Dani Herrera](https://github.com/ctrl-alt-d)
