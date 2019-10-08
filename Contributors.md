@@ -4,6 +4,7 @@
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
+- [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
