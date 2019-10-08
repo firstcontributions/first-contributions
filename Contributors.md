@@ -24,6 +24,7 @@
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
+- [Anushka Jain](https://github.com/anushkajj)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Bruno Mendes de Holanda Cavalcante](https://github.com/bruno-holanda15)
 - [Chau Nguyen](https://github.com/VanQuishi)
