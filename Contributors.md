@@ -42,7 +42,7 @@
 - [Aakash Jain](https://github.com/AakashJ2412)
 - [Zaifa Khan](https://github.com/khanzaifa37) 
 - [Shubham Jha](https://github.com/spectrum705)
-- [DzunN86](https://github.com/DzunN86
+- [DzunN86](https://github.com/DzunN86)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
