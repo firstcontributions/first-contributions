@@ -12,6 +12,7 @@
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
+- [Dev bhardwaj](https://github.com/Neuron34)
 - [Chau Nguyen](https://github.com/VanQuishi)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
