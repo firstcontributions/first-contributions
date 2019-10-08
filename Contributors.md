@@ -1027,6 +1027,7 @@ Nishtha3512
 - Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
+- [Katie Blacketor](https://github.com/blackeka)
 - [Damian Szczepanski](https://github.com/DamianS6)
 - [Hoang-Bao-Duy NGUYEN](https://github.com/nhbduy)
 - [Baris Mar Aziz](https://github.com/barismar)
