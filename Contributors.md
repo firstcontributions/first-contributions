@@ -239,6 +239,7 @@
 - [rdcs](https://github.com/riosdcs)
 - [Savethan Sritharan](https://github.com/sav7204)
 - [Tyler Campanile] (https://github.com/tecampani)
+- [Prashanth Mulgundmath] (https://github.com/mullgundmath)
 - [Joe Lee](https://github.com/JoeDravarol)
 - [Rahul R](https://github.com/errxr403)
 - [Alok Sahoo](https://github.com/aloks98)
