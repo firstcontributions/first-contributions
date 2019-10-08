@@ -9881,6 +9881,7 @@ Stephan Sharpe
 - [Aditya Roy](https://github.com/han0305)
 - [Peter Burger](https://github.com/lovrenc)
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
+- [Aditya Neel](https://github.com/adityaneel94)
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Stephanie Leazer](https://github.com/saleazer)
 - [Arica Chakraborty](https://github.com/uemarica)
