@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
@@ -170,6 +170,7 @@
 - [abcd] (https://github.com/abcd)
 - [Lashan Chamodya] (https://github.com/Lashan7)
 - [Simon Huang] (https://github.com/simawn)
+- [climb-ski-code](https://github.com/climb-ski-code)
 - [Célio Mendes] (https://github.com/celio-jpeg)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Mario Zamora] (https://github.com/maczamora)
@@ -17091,3 +17092,4 @@ rehan
 - [Dilshan Ramesh](https://github.com/Dilshan97)
 - [Shubham Gupta](https://github.com/phinum)
 - [Vedant Tiwari](https://github.com/vedant-max) 
+- [Nelly McNellyson](https://github.com/xyre-nelly-thea)
