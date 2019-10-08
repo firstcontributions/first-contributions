@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
@@ -17109,3 +17109,4 @@ rehan
 - [Erik Samuelsson](https://github.com/erisam)
 - [Jonathan Cardoso](https://github.com/jonathanccardoso)
 - [Dani Herrera](https://github.com/ctrl-alt-d)
+- [Gildas Morel des Vallons](https://github.com/GildasMorel)
