@@ -298,6 +298,7 @@
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
 - [Rafael Ahrons](https://github.com/luturol)
 - [azamat] (https://github.com/tikenov)
+- [Tamarantula](https://github.com/tamarantula)
 - [Manan Kevadiya] (https://github.com/manan2501)
 - [aiden](https://github.com/acdlbs)
 - [rincewindgv](https://github.com/rincewindgv)
