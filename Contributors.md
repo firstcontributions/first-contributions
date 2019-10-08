@@ -17110,3 +17110,4 @@ rehan
 - [Erik Samuelsson](https://github.com/erisam)
 - [Jonathan Cardoso](https://github.com/jonathanccardoso)
 - [Dani Herrera](https://github.com/ctrl-alt-d)
+- [Adrien Lasselle](https://github.com/devsheder)
