@@ -5,6 +5,7 @@
 - [Dominic Kersch](https://github.com/AltDom)
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
+- [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
@@ -43,7 +44,9 @@
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
 - [P4ul](https://github.com/P4ul-J)
+- [Parth Panchal](https://github.com/parthpanchal123)
 - [Ali Daghighi](https://github.com/alidaghighi)
+- [Christian Dahlberg](https://github.com/christiandahlberg)
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
@@ -17064,4 +17067,3 @@ rehan
 - [Peter_Szeles](https://github.com/peterszeles)
 - [Mahmud](https://github.com/abm-live)
 - [Joyce Obi](https://github.com/Joyce-O)
-
