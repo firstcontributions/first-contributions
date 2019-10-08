@@ -48,6 +48,7 @@
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Dhyey Gami](https://github.com/dhyey6602)
 - [Arushi Pandit](https://github.com/arushipandit)
+- [Cliff Pham](https://github.com/cliffpham)
 - [Lifan Chu](https://github.com/cardboarder)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Quiara Kirkland](https://github.com/Cap10Kirk)
