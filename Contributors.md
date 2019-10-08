@@ -16,6 +16,7 @@
 - [Naman Gupta](https://github.com/namangup)
 - [Andreas Szekely](https://github.com/Zekel97)
 - [Hamad Mohamed](https://github.com/Hamadou49)
+- [Mario Olofsson][https://github.com/meetmario)]
 - [Sanghamitra Biswas](https://github.com/sangy987)
 - [Enrique Galindo] (https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
