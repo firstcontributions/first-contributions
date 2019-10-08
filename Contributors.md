@@ -366,6 +366,7 @@
 - [Samuel Yuan](https://github.com/YuanSamuel)
 - [priya]
 - [Sabha Kandula](https://github.com/SabhaKandula)
+- [Daniel Sánchez](https://github.com/hielfx)
 - [Kevin Dorner](https://github.com/mrhspecter)
 - [Miguel Solino](http://github.com/Manilator)
 - [Tony Morris](https://github.com/TonyDMorris)
