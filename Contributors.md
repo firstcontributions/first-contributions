@@ -79,6 +79,7 @@
 - [Atlas Alex](https://github.com/quwip10)
 - [Cliff Pham](https://github.com/cliffpham)
 - [Lifan Chu](https://github.com/cardboarder)
+- [Tiffhanie Ramos] (https://github.com/tmr166)
 - [Po-Ying Fu](https://github.com/AmberFu)
 - [Quiara Kirkland](https://github.com/Cap10Kirk)
 - [Daniel Davis](https://github.com/dtdavis90)
