@@ -174,6 +174,7 @@
 - [Divyam Agrawal] (https://github.com/divyamagwl)
 - [Tachid Boonpipat] (https://github.com/Telexine)
 - [Pranesh S] (https://github.com/pranesh-sp)
+- [Bojan Peček] (https://github.com/QQ-88)
 - [Matthew Piriya] (https://github.com/mvp223)
 - [Tomas] (https://github.com/smikis)
 - [Devesh Chatuphale] (https://github.com/deveshchatuphale7)
