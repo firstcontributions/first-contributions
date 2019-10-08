@@ -4,7 +4,6 @@
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
-- [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
