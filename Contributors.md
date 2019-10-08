@@ -17104,3 +17104,4 @@ rehan
 - [Erik Samuelsson](https://github.com/erisam)
 - [Jonathan Cardoso](https://github.com/jonathanccardoso)
 - [Dani Herrera](https://github.com/ctrl-alt-d)
+- [Stanislav Litvinenko](https://github.com/dolk13)
