@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
@@ -17073,3 +17073,4 @@ rehan
 - [Aman Agarwal](https://github.com/BeastMaster07)
 - [Peter_Szeles](https://github.com/peterszeles)
 - [Mahmud](https://github.com/abm-live)
+- [Kamil Baranowski](https://github.com/Baranixowy)
