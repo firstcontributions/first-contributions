@@ -87,6 +87,7 @@
 - [Nate Dvorachek](https://github.com/dvo4253)
 - [Sarthak Kundra](https://github.com/sarthakkundra)
 - [Sukrit Walia](https://github.com/wukrit)
+- [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Molntussen] (https://github.com/Molntussen)
