@@ -17097,3 +17097,4 @@ rehan
 - [Shubham Gupta](https://github.com/phinum)
 - [Nelly McNellyson](https://github.com/xyre-nelly-thea)
 - [Erik Samuelsson](https://github.com/erisam)
+- [Jonathan Cardoso](https://github.com/jonathanccardoso)
