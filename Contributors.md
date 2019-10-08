@@ -115,6 +115,7 @@
 - [Sev Welker](https://github.com/thegreatsevrini)
 - [Naezzin] (https://github.com/naezzin)
 - [Suresh Mangs] (https://github.com/sureshmangs)
+- [Vincent Lagravère] (https://github.com/JehlahdDWJ)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
 - [Jason Griffis] (https://github.com/jgriffis1976)
