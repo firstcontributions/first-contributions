@@ -8,6 +8,7 @@
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
 - [Cory Bergquist](https://github.com/coryjbergquist)
+- [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
