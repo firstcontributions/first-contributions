@@ -4719,7 +4719,6 @@ Stephan Sharpe
 - [Amr Hendy](https://github.com/AmrHendy)
 - [João Bini](https://github.com/joaopbini)
 - [kishan Kaushik](https://github.com/kishankaushik)
-- [Quang Hoang](https://github.com/quangpro1610)
 - [Sii Kim Lau](https://github.com/lausk97)
 - [Shashank S Shetty](https://github.com/shashankshetty1996)
 - [Anirudh Kanakatte](https://github.com/anirudhkanakatte)
@@ -17054,3 +17053,4 @@ rehan
 - [Nabil Elidrissi](https://github.com/niblux)
 - [Willian Schenkel](https://github.com/wschenkel)
 - [Aman Agarwal](https://github.com/BeastMaster07)
+- [Hoang Quang](https://github.com/quangpro1610)
