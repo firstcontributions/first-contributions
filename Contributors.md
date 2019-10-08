@@ -5,6 +5,7 @@
 - [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
 - [Arjun Vijaykumar]
+- [Cory Bergquist](https://github.com/coryjbergquist)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
