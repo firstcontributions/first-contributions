@@ -12327,6 +12327,7 @@ Stephan Sharpe
 - [Hugo Ribeiro](https://github.com/hugoribeiros)
 - [Aljon Pineda](https://github.com/aljonpineda)
 - [Shiv Kumar](https://github.com/championballer)
+- [Nicholas Smith](https://github.com/NicholasLSmith)
 - [Mohammedali H](https://github.com/alics015)
 - [Ben Crane](https://github.com/benscrane)
 - [Kean Weng Yap](https://github.com/keanweng97)
