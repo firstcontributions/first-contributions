@@ -173,6 +173,7 @@
 - [Jurie Spies]
 - [Martha Sharpe] (https://github.com/marthasharpe)
 - [Syed Modassir Ali] (https://github.com/gr33nm0nk2802)
+- [Sami Shata] (https://github.com/samicodesit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Carlos Rorato] (https://github.com/carlinhosxxp)
 - [Beni Reydman] (https://github.com/BeniReydman)
