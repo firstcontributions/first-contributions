@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Jeet Mandaliya](https://github.com/sereneinserenade)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Ajriel Rizqy Maulana]
