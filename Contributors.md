@@ -693,6 +693,7 @@ Hammad Qureshi
 - [Krzysztof Czaplejewicz](https://github.com/KrzysztofCzaplejewicz)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Malgo Mark]
+- [Sara Anwer](https://github.com/saraanwer15)
 - [Boas Falke](https://github.com/bofalke)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Hi Haiu](https://github.com/hihaiu)
