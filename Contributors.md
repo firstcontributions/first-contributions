@@ -1061,6 +1061,7 @@ Nishtha3512
 -[Juliet Onyekaoha](https://github.com/esotericjules)
 - [Eufrasia](https://github.com/eufras1a)
 - [James Sison](https://github.com/sisball8/first-contributions)
+- [J Scott Gray](https://github.com/jscottgray)
 - [retsil](https://github.com/retsilthebastard)
 - [Milad Ahmadi](https://github.com/themiladahmadi/)
 - [Tomaz Gomes](https://github.com/tomaz1502)
