@@ -38,6 +38,7 @@
 - [Jake Murray](https://github.com/jakerx79)
 - [Preethi Manoharan](https://github.com/preethi900)
 - [Raphael Concil](https://github.com/raphael-concil)
+- [Aditya Neel](https://github.com/adityaneel94)
 - [Nguyen Phu](https://github.com/vonguyenphu)
 - [Si Lam](https://github.com/silam)
 - [Aimen Aounallah](https://github.com/Mizou9999)
