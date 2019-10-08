@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 ﻿
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
@@ -8,6 +8,7 @@
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Si Lam](https://github.com/silam)
 - [DzunN86](https://github.com/DzunN86)
+- [Arushi Pandit](https://github.com/arushipandit)
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [bubz](https://github.com/debubz)
 - [Akshat Khandelwal](https://github.com/ak127a)
