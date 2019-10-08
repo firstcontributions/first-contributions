@@ -91,6 +91,7 @@
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Nambikai] (https://github.com/nambikai)
 - [Diego Chaves] (https://github.com/chavesdiego)
+- [Mihai Druta] (https://github.com/MihaiDruta)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
