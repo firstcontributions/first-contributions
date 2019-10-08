@@ -162,6 +162,7 @@
 - [Prathik.S.Nayak](https://github.com/psn221b)
 - [David Barszczak](https://github.com/dbarszczak)
 - [Brenda Flores](https://github.com/bflores88)
+- [Laura Perry] (https://github.com/iLorah)
 - [dileepa pavel seekkubadu](https://github.com/dileepapavel)
 - [Pieter Jan Geutjens](https://github.com/pjgeutjens)
 - [Leo Gimre](https://github.com/Raioite)
