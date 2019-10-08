@@ -1,6 +1,6 @@
 # Contributors
-﻿
-- [Ajriel Rizqy Maulana]
+- [MISBAH BAGASKARA PUWANTO](https://github.com/misbagas)
+- [Ajriel Rizqy Maulana](https://github.com/ajrielrm)
 - [Arjun Vijaykumar]
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Nick Vashon](https://gitbub.com/nvashon)
