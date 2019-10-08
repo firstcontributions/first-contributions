@@ -4,6 +4,7 @@
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
+- [Xena Ayala](https://github.com/xenaayala)
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
