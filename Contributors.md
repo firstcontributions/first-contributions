@@ -131,6 +131,7 @@
 - [Neil Stoker](https://github.com/nstoker)
 - [Infrony](https://github.com/infrony)
 - [Garvit291]
+- [Khuzama Shahid](https://github.com/khuzama98)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
 - [Prathik.S.Nayak](https://github.com/psn221b)
