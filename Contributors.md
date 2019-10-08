@@ -16961,6 +16961,7 @@ Mário Baltazar
 - [Shivanhu Kashyap](https://github.com/shivanshu27)
 - [James Kaviyil Jose](https://github.com/jamesjose03)
 - [Si Nguyen](https://github.com/nguyenphusi/)
+- [Bruna Barbosa](https://github.com/brubabarbosa)
 - [Broleaf](https://github.com/BroLeaf)
 - [Torfab](https://github.com/Torfab)
 - [EmilBra](https://github.com/erdustiggen)
