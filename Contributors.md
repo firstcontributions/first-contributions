@@ -302,6 +302,7 @@
 - [Arpit Aggarwal](https://github.com/arpit94)
 - [Gilberto Oliveira](https://github.com/gvoliveira)
 - [Dalida Saad](https://github.com/saaddalida)
+- [Jay Parmani](https://github.com/jsparmani)
 - [Shivam Kumar Singh](https://github.com/shivam-51)
 - [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
