@@ -43,6 +43,7 @@
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
 - [P4ul](https://github.com/P4ul-J)
+- [Parth Panchal](https://github.com/parthpanchal123)
 - [Ali Daghighi](https://github.com/alidaghighi)
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
