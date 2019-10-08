@@ -106,6 +106,7 @@
 - [Amy R] (https://github.com/amyriley)
 - [Evan Croft]
 - [Ricky]
+- [Daveedave]
 - [Maxim] (https://github.com/maximgk97)
 - [Kevin Wang](https://github.com/NinjaEagle)
 - [Shivangi Kanchan]
