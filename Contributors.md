@@ -17072,4 +17072,4 @@ rehan
 - [Aman Agarwal](https://github.com/BeastMaster07)
 - [Peter_Szeles](https://github.com/peterszeles)
 - [Mahmud](https://github.com/abm-live)
-- [Kamil B](https://github.com/Baranixowy)
+- [Kamil Baranowski](https://github.com/Baranixowy)
