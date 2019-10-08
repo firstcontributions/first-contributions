@@ -13,6 +13,7 @@
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Damian Zhang](https://github.com/Damian3930)
+- [Ji Kang](https://github.com/KangJay)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Beatriz Garcia Jiménez](https://github.com/beatrizAdalab)
