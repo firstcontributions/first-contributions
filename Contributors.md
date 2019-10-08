@@ -17118,3 +17118,4 @@ rehan
 - [Victor Chan](https://github.com/Victor3y)
 - [Adrien Lasselle](https://github.com/devsheder)
 - [Camin McCluskey](https://github.com/camin-mccluskey)
+- [Idris Lawal](https://github.com/IDTitanium)
