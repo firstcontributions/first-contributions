@@ -7869,6 +7869,7 @@ Stephan Sharpe
 - [Chris Winsor](https://github.com/cwinsor)
 - [Dominic Valenciana](https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
+- Shivam Sharma: [@ShivamS136](https://github.com/ShivamS136)
 - [Jake Harrington](https://github.com/harringtonjd0)
 - [Joseph Verdugo](https://github.com/jrverdugo)
 - [Sally Chhuon](https://github.com/sc2225)
