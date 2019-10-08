@@ -1,5 +1,6 @@
 # Contributors
-﻿
+
+- [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
 - [Arjun Vijaykumar]
