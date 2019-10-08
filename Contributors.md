@@ -36,6 +36,7 @@
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Bruno Mendes de Holanda Cavalcante](https://github.com/bruno-holanda15)
 - [Lindsay Fletcher](https://github.com/Javamazon)
+- [Mario Turco](https://github.com/Turkish0)
 - [Chau Nguyen](https://github.com/VanQuishi)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
