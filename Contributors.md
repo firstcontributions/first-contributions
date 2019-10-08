@@ -45,6 +45,7 @@
 - [P4ul](https://github.com/P4ul-J)
 - [Parth Panchal](https://github.com/parthpanchal123)
 - [Ali Daghighi](https://github.com/alidaghighi)
+- [Christian Dahlberg](https://github.com/christiandahlberg)
 - [bubz](https://github.com/debubz)
 - [ShvetaNeginhal](https://github.com/ShvetaNeginhal)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
