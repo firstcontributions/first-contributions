@@ -2,7 +2,6 @@
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
-- [Ajriel Rizqy Maulana]
 - [Dominic Kersch](https://github.com/AltDom)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
@@ -100,12 +99,8 @@
 - [Ankitkumar Singh] (https://github.com/3009aksingh)
 - [Michael Jenkins] (https://github.com/KipTheTurtlebear)
 - [Grant Chan](https://github.com/grantrzchan/)
-- [Heidi]
 - [Amy R] (https://github.com/amyriley)
-- [Evan Croft]
-- [Ricky]
 - [Kevin Wang](https://github.com/NinjaEagle)
-- [Shivangi Kanchan]
 - [Rituraj Jain] (https://github.com/RiturajJain)
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
