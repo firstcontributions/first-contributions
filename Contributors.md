@@ -10161,6 +10161,7 @@ Stephan Sharpe
 - [Andrew Davis](https://github.com/rreeppeeaatteerr)
 - [Gabriele Sani](https://github.com/gabryatfendor)
 - [Mohd Talha](https://github.com/mdtalham)
+- [Sandesh Naik](https://github.com/sandeshan)
 - [Daniel Santos](https://github.com/DanielXSantos)
 - [Chris Ortiz](https://github.com/r3alz)
 - [Maxens Achiepi](https://github.com/mxch18)
