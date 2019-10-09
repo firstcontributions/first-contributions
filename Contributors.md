@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
@@ -7375,6 +7375,7 @@ Stephan Sharpe
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [Jakkavaul](https://github.com/jakkavaul/first-contributions.git)
 - [vishal](https://github.com/cyberne7work)
+- [Osama Muhammad](https://github.com/osamamuhammad)
 - [rodelpocfemia] (https://github.com/rodelpocfemia)
 - [Manasa Devarapalli](https://github.com/dmanasa6)
 - [Benjamin Belden](https://github.com/BBelden)
