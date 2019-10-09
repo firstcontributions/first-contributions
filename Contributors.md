@@ -10,6 +10,7 @@
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Ajriel Rizqy Maulana]
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
+- [Ryan Furrer](https://github.com/ryanfurrer)
 - [Dominic Kersch](https://github.com/AltDom)
 - [Xena Ayala](https://github.com/xenaayala)
 - [Dominic Needham](https://github.com/domneedham)
