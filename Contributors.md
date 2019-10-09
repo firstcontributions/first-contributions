@@ -239,6 +239,7 @@
 - [Mario Zamora] (https://github.com/maczamora)
 - [Siddhant Mehta] 
 - [Jurie Spies]
+- [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe] (https://github.com/marthasharpe)
 - [Syed Modassir Ali] (https://github.com/gr33nm0nk2802)
 - [Sami Shata] (https://github.com/samicodesit)
