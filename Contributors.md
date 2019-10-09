@@ -17145,6 +17145,7 @@ Mário Baltazar
 - [Akshita Sah](https://github.com/akshi0409)
 - [Alex Zhang](https://github.com/alex6126)
 - [Christopher Heaney](https://github.com/d4rkshell)
+- [Renan Eccel](https://github.com/renan-eccel)
 - [Katie McCue](https://github.com/katiemccue)
 - [vorphol] (https://github.com/vorphol)
 - [Omar Vasquez Lima](http://github.com/oevl)
