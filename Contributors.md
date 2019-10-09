@@ -4089,7 +4089,6 @@ Stephan Sharpe
 - [Dhyey B](https://github.com/dhyeyb04)
 - [owais](https://github.com/owais34)
 - [SemperDisco](https://github.com/SemperDisco)
-- [Jarett Chaiken-VS](https://github.com/jdchaiken)
 - [Angelisa Maria](https://github.com/angelisamaria)
 - [Cherifa Amrouch](https://github.com/sabielo)
 - [Hunter Day](https://github.com/huntmanday)
@@ -17204,3 +17203,4 @@ rehan
 - [Kasun Hasanga] (https://github.com/KasunHasanga)
 - [Anna Gabriela] (http://github.com/annagabriela)
 - [Sporandum] (https://github.com/Sporandum)
+- [Zuffy Nufankel] (https://github.com/jdchaiken)
