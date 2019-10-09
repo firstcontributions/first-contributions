@@ -17173,6 +17173,7 @@ rehan
 - [Adrien Lasselle](https://github.com/devsheder)
 - [Camin McCluskey](https://github.com/camin-mccluskey)
 - [Idris Lawal](https://github.com/IDTitanium)
+- [Ishan Shanware](https://github.com/MegaMind77-coder)
 - [Kenny Cheng](https://github.com/hoimingkenny)
 - [Pedro Mello]
 - [Vinay Bharwani](https://github.com/vb-vinay)
@@ -17186,3 +17187,4 @@ rehan
 - [Nakarin Srijumrat](https://github.com/N4karin)
 - [cmgn](https://github.com/cmgn)
 - [Kline Borromeo](https://github.com/rekliner)
+
