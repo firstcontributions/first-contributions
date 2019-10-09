@@ -13,6 +13,7 @@
 - [Ryan Furrer](https://github.com/ryanfurrer)
 - [Dominic Kersch](https://github.com/AltDom)
 - [Xena Ayala](https://github.com/xenaayala)
+- [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
