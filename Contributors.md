@@ -17218,3 +17218,4 @@ rehan
 - [Sporandum] (https://github.com/Sporandum)
 - [Ashlyn Slawnyk] (https://github.com/ashlyn)
 - [Dimitris Kouris] (https://github.com/dskouris)
+- [Jakob Kühne](https://github.com/fuzzydoge)
