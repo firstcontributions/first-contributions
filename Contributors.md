@@ -8731,6 +8731,7 @@ Stephan Sharpe
 - [AlphaSoldier](https://github.com/AlphaSoldier)
 - [Precious Adeyinka](https://github.com/precious-adeyinka)
 - [Gagan Ganapathy](https://github.com/CodHeK)
+- [Dalton Varão](https://github.com/daltonfelipe)
 - [Freddy Rondon](https://githubt.com/ifreddyrondon)
 - [Tom Ashley](https://github.com/TomAshley1)
 - [Narinder Pal](https://github.com/np-singh)
