@@ -18,6 +18,7 @@
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Marcelo Wis](https://github.com/marcelowis)
+- [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
