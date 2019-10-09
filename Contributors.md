@@ -138,6 +138,7 @@
 - [Moises Zamora ](https://github.com/Moyalex)
 - [Sailesh Patra ](https://github.com/sailesh97)
 - [Isabela Correia] (https://github.com/isacoper)
+- [Quentin Roques](https://github.com/qroques)
 - [Brianna Degaston] (https://github.com/briannadeg)
 - [Subhendu Maji] (https://github.com/subhendu17620)
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
