@@ -1,7 +1,7 @@
 ﻿# Contributors
 
-
 - [Lyn Loh](https://github.com/lerolynn)
+- [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Amit Joseph](https://github.com/amitjoseph)
