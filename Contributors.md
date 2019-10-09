@@ -19,6 +19,7 @@
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
 - [sakchi17]
+- [Sakchi17]
 - [Michael George](https://github.com/mg4603)
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
