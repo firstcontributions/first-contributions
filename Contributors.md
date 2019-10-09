@@ -5820,6 +5820,7 @@ Stephan Sharpe
 - [<Explorer />](https://github.com/open-source-explorer)
 - josephttran
 - Ahlad sethi
+- [Matthew Kane](https://github.com/MatthewKane1995) 
 - [Karthick aravindan](https;//github.com/12345k)
 - [Amr Bakry](https://github.com/amrrbakry)
 - [Jon Chang](https://github.com/tobeornottobeadev)
