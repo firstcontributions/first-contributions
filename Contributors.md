@@ -17220,3 +17220,4 @@ rehan
 - [Ashlyn Slawnyk] (https://github.com/ashlyn)
 - [Dimitris Kouris] (https://github.com/dskouris)
 - [Jakob Kühne](https://github.com/fuzzydoge)
+- [Max Lefebvre](https://github.com/maxle5)
