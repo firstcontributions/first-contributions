@@ -1258,6 +1258,7 @@ Arnel Forbes
 - [Sarvagya Agarwal](https://github.com/sarvagya3943)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
 - [Benjamin Sivoravong](https://github.com/bensivo)
+- [Gaurav Singh](https://github.com/saintpopo)
 - [Cameron Blake](https://github.com/mcblake)
 - [Evie Skinner](https://github.com/Evie-Skinner18)
 - [Sazzyx]()
