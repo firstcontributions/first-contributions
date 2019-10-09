@@ -17217,3 +17217,4 @@ rehan
 - [Sporandum] (https://github.com/Sporandum)
 - [Ashlyn Slawnyk] (https://github.com/ashlyn)
 - [Dimitris Kouris] (https://github.com/dskouris)
+- [Regan Laurell] (https://github.com/laurelr2020)
