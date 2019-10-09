@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Parth Gupta](https://github.com/parthgpta)
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
@@ -15,6 +16,7 @@
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Ajriel Rizqy Maulana]
+- [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Ryan Furrer](https://github.com/ryanfurrer)
 - [Dominic Kersch](https://github.com/AltDom)
@@ -33,6 +35,7 @@
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
+- [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Damian Zhang](https://github.com/Damian3930)
 - [Ji Kang](https://github.com/KangJay)
@@ -5698,6 +5701,7 @@ Stephan Sharpe
 - [Dan Piazza](https://github.com/DanielJPiazza)
 - [Austin Hyder](https://github.com/DoctorMooch)
 - [Jan Carlo Once](https://github.com/jancarloonce)
+- [Rehman M Arshad](https://github.com/rehman000)
 - [Martin Breuss](https://github.com/martin-martin)
 - [Abhishek Pratap Singh](https://github.com/APSingh-007)
 - [Yash Jaiswal](https://github.com/yashjaiswal1)
@@ -12039,6 +12043,7 @@ Stephan Sharpe
 - [Duane Michael](https://github.com/wr4thchild)
 - [Shane Ko Naung](https://github.com/ShaneKoNaung)
 - [Ricardo Sawir](https://github.com/sawirricardo)
+- [Sagar Masand](https://github.com/sagarmasand10)
 - [iVarun Natu](https://github.com/Tero529)
 - [Joseph](https://github.com/roboticsdude60)
 - [Suxin Li](https://github.com/AndrewLisuxin)
