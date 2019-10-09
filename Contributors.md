@@ -4,6 +4,7 @@
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Josh McDaniel](https://github.com/mcdanije22)
+- [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Ajriel Rizqy Maulana]
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Dominic Kersch](https://github.com/AltDom)
