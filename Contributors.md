@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [lxp](https://github.com/pylxp)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
@@ -13,6 +13,7 @@
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
+- [Michael George](https://github.com/mg4603)
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [Tuhin Roy] (https://github.com/Troy96)
