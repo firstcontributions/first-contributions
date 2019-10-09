@@ -10814,6 +10814,7 @@ Stephan Sharpe
 - [Pablo Paglilla](https://github.com/PabloPaglilla)
 - [Barsha Shrestha](https://github.com/shresthabarsha)
 - [Rafa? Koz?owski](https://github.com/rafalk42)
+- [Niket Shah](https://github.com/niks36)
 - [Thomas Yeater](https://github.com/yeatert81786)
 - [Amirmehdi Naghibi](https://github.com/AmirNaghibi)
 - [Hjaldar](https://github.com/Hjaldar)
