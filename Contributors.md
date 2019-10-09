@@ -1896,6 +1896,7 @@ Stephan Sharpe
 - [Kyle Spresser](https://github.com/keyspress)
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Alice Hsiao](https://github.com/alicehsiao)
+- [Erik Meyer](https://github.com/erikmeyer2mt)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Jessie Simpauco](https://github.com/jesselton23)
 - [Mathew White](https://github.com/matiusmonkey)
