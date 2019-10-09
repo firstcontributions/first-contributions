@@ -17131,6 +17131,7 @@ rehan
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
 - [Adewoyin Oladipupo-Usoro](https://github.com/nucternal18)
 - [Nabil Elidrissi](https://github.com/niblux)
+- [Catrina Smith](https://github.com/catrinaisahuman)
 - [Willian Schenkel](https://github.com/wschenkel)
 - [James Tudsbury](https://github.com/jtuds)
 - [Aman Agarwal](https://github.com/BeastMaster07)
