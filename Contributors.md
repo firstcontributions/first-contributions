@@ -17190,6 +17190,7 @@ rehan
 - [Vinay Bharwani](https://github.com/vb-vinay)
 - [Shivam Ralli](https://github.com/sralli)
 - [Rohit A S Nair] (https://github.com/rohitasnair)
+- Deepa Malani
 - [Akbaar Anung Yudha Saputra](https://github.com/akbarsaputrait)
 - [Tharindu Dhananjaya](https://github.com/TDhananjaya)
 - [Maulik Rathod](https://github.com/maulikrathod)
