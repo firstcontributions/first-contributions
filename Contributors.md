@@ -342,6 +342,7 @@
 - [Nasir Kamal](https://github.com/nasirkamal)
 - [Stefanos Ugbit](https://github.com/stefanosu)
 - [Abhushan A Joshi](https://github.com/abhu-A-J)
+- [Mayank Parmar](https://github.com/myk7hackon)
 - [Apoorv](https://github.com/Apoorv01017/first-contributions)
 - [Dhairya Patel](https://github.com/dhairya0704)
 - [Mayke Rezende] (https://github.com/maykemrezende)
