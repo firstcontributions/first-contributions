@@ -15771,6 +15771,7 @@ Stephan Sharpe
 - [Amin Ashtiani](https://github.com/AminAshtiani)
 - [Narasimha Kumar](https://github.com/coder2213)
 - [Jodie Hartman](https://github.com/je117er)
+- [Dale Isip](https://github.com/bluewhaledelta)
 - [Steve Found](https://github.com/SteveFound)
 - [Joshua Higginbotham](https://github.com/Jhigg89)
 - [Reza Jafar](https://github.com/reza7865)
