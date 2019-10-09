@@ -20,6 +20,7 @@
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
+- [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
