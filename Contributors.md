@@ -5,6 +5,7 @@
 - [Vipul Goyal](https://github.com/vips28)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
+- [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
