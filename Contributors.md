@@ -107,6 +107,7 @@
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Antonin Nhek](http://github.com/anhek)
+- [Jeremy Tryon](https://github.com/JeremyTryon)
 - [Caitlin Lee] (http://github.com/clee1228)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Nambikai] (https://github.com/nambikai)
