@@ -493,6 +493,7 @@
 -.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
 - [Chris Yu](https://github.com/chrisayu321)
 - [John Manno](https://github.com/z0mby)
+- [Estelle](https://github.com/ekeaton)
 - [BA] (https://github.com/ba)
 - [Samuel Ryecroft] (https://github/samuelryecroft)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
