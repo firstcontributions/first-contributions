@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
