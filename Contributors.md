@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
@@ -17141,3 +17141,4 @@ rehan
 - [Idris Lawal](https://github.com/IDTitanium)
 - [Kenny Cheng](https://github.com/hoimingkenny)
 - [Pedro Mello]
+- [Vinay Bharwani](https://github.com/vb-vinay)
