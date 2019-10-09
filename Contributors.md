@@ -1413,6 +1413,7 @@ Nishtha3512
 - alexey The future DEVELOPER!
 - Christian Reyes
 - Yallop
+- [Brandon Tomás](https://github.com/brtomas0)
 - [Nasim](https://github.com/nasimUddin)
 - [sixthsant]
 - [Daniel Speer](https://github.com/potatoHVAC)
