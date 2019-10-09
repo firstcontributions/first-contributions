@@ -13,7 +13,6 @@
 - [Arjun Vijaykumar]
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
-- [Tuhin Roy] (https://github.com/Troy96)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
@@ -107,7 +106,6 @@
 - [devfoFikiCar](https://github.com/devfoFikiCar)
 - [Sachin Pal](https://github.com/Arrendale)
 - [Antonin Nhek](http://github.com/anhek)
-- [Jeremy Tryon](https://github.com/JeremyTryon)
 - [Caitlin Lee] (http://github.com/clee1228)
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Nambikai] (https://github.com/nambikai)
@@ -17145,3 +17143,4 @@ rehan
 - [Kenny Cheng](https://github.com/hoimingkenny)
 - [Pedro Mello]
 - [Vinay Bharwani](https://github.com/vb-vinay)
+- [Shivam Ralli](https://github.com/sralli)
