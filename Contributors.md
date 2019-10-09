@@ -3,6 +3,7 @@
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Ajriel Rizqy Maulana]
+- [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Dominic Kersch](https://github.com/AltDom)
 - [Xena Ayala](https://github.com/xenaayala)
 - [Dominic Needham](https://github.com/domneedham)
