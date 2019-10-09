@@ -17187,3 +17187,4 @@ rehan
 - [Nakarin Srijumrat](https://github.com/N4karin)
 - [cmgn](https://github.com/cmgn)
 - [Kline Borromeo](https://github.com/rekliner)
+- [Hector Osuna] (https://github.com/FanGoH)
