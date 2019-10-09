@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
@@ -20,6 +20,7 @@
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
+- [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
@@ -7375,6 +7376,7 @@ Stephan Sharpe
 - [Jasper Martin](https://github.com/jaspervanbrian)
 - [Jakkavaul](https://github.com/jakkavaul/first-contributions.git)
 - [vishal](https://github.com/cyberne7work)
+- [Osama Muhammad](https://github.com/osamamuhammad)
 - [rodelpocfemia] (https://github.com/rodelpocfemia)
 - [Manasa Devarapalli](https://github.com/dmanasa6)
 - [Benjamin Belden](https://github.com/BBelden)
@@ -17167,3 +17169,5 @@ rehan
 - [Tharindu Dhananjaya](https://github.com/TDhananjaya)
 - [Maulik Rathod](https://github.com/maulikrathod)
 - [Ashen Senevirathne](https://github.com/AshenSenevirathne)
+- [Aagam Doshi](https://github.com/doshiaagam)
+
