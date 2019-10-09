@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Parth Gupta](https://github.com/parthgpta)
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
