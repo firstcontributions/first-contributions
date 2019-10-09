@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [lxp](https://github.com/pylxp)
+- [Amit Joseph](https://github.com/amitjoseph)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Josh McDaniel](https://github.com/mcdanije22)
