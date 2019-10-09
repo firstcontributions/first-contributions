@@ -1300,6 +1300,7 @@ Nishtha3512
 - [Ben Russell](https://github.com/benrussell80)
 - Haran Lakha
 - [R Downes] (https://github.com/rhiannadownes)
+- [Anirudh Kashyap](https://github.com/AnirudhKashyap511)
 - [Matheus Gomes](https://github.com/mudouasenha)
 - [Jack Lovell](https://github.com/jack-rl-ovell)
 - [Callistus](https://github.com/callistusndemo)
