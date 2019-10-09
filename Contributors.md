@@ -160,6 +160,7 @@
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
 - [Julius Miyumo](https://github.com/Julius-777)
+- [Anthony Tsang](https://github.com/anthony-tsang1222)
 - [Ahmed Omar](https://github.com/ahmedo42)
 - [Eduardo Alano](https://github.com/eduardoalanonh)
 - [David Martin](https://github.com/daviduster)
