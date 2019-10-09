@@ -11283,6 +11283,7 @@ Stephan Sharpe
 - [Simon Kerkmann](https://github.com/siker102)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
+- [Helen Catanese](https://github.com/prosaicpudding)
 - [Alysson Alvaran](https://github.com/alyssonalvaran)
 - [Lavaskie Clark](https://github.com/LVSKEClark90)
 - [Noam The Great](https://github.com/DragonPie635)
