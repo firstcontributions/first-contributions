@@ -192,6 +192,7 @@ _ Jay Kim
 - [LukaJ](https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
 Christian Reyes
+- Junaid Mehmood
 - [Nasim](https://github.com/nasimUddin)
 - [Daniel Speer](https://github.com/potatoHVAC)
 - [Adithya S](https://github.com/Adithya188288))
