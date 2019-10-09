@@ -6607,7 +6607,7 @@ Stephan Sharpe
 - [Marissa Shaffer](https://github.com/msshaffer2003)
 - [Asaad Najjar](https://hithub.com/Rajjan92)
 - [Amer Sohail Shaik](https://github.com/amer-s-shaik)
-- [Jadson Luan](https://github.com/jadsonluan)
+- [Jadson Luan Soares da Silva](https://github.com/jadsonluan)
 - Elena Cristina
 - [Sankarsh Pallela](https://github.com/sankarsh98)
 - [Ashish Nandan Singh](https://github.com/ashishcodes4)
