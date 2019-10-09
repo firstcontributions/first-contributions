@@ -53,6 +53,7 @@
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
+- [ChiLau]
 - [Klaudijus Rulys](https://github.com/krulys)
 - [Laise Aquino](https://github.com/laiseaquino)
 - [Tom Cole](https://github.com/TomC-Codes)
@@ -17145,6 +17146,7 @@ Mário Baltazar
 - [Akshita Sah](https://github.com/akshi0409)
 - [Alex Zhang](https://github.com/alex6126)
 - [Christopher Heaney](https://github.com/d4rkshell)
+- [Renan Eccel](https://github.com/renan-eccel)
 - [Katie McCue](https://github.com/katiemccue)
 - [vorphol] (https://github.com/vorphol)
 - [Omar Vasquez Lima](http://github.com/oevl)
@@ -17199,3 +17201,5 @@ rehan
 - [Hector Osuna] (https://github.com/FanGoH)
 - [Hemshree] (https://github.com/Hemshree100)
 - [Kasun Hasanga] (https://github.com/KasunHasanga)
+- [Anna Gabriela] (http://github.com/annagabriela)
+- [Sporandum] (https://github.com/Sporandum)
