@@ -239,6 +239,7 @@
 - [Mario Zamora] (https://github.com/maczamora)
 - [Siddhant Mehta] 
 - [Jurie Spies]
+- [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe] (https://github.com/marthasharpe)
 - [Syed Modassir Ali] (https://github.com/gr33nm0nk2802)
 - [Sami Shata] (https://github.com/samicodesit)
@@ -1412,6 +1413,7 @@ Nishtha3512
 - alexey The future DEVELOPER!
 - Christian Reyes
 - Yallop
+- [Brandon Tomás](https://github.com/brtomas0)
 - [Nasim](https://github.com/nasimUddin)
 - [sixthsant]
 - [Daniel Speer](https://github.com/potatoHVAC)
@@ -11281,6 +11283,7 @@ Stephan Sharpe
 - [Simon Kerkmann](https://github.com/siker102)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
 - [Maged Milad](https://github.com/MagedMilad)
+- [Helen Catanese](https://github.com/prosaicpudding)
 - [Alysson Alvaran](https://github.com/alyssonalvaran)
 - [Lavaskie Clark](https://github.com/LVSKEClark90)
 - [Noam The Great](https://github.com/DragonPie635)
@@ -17092,6 +17095,7 @@ Mário Baltazar
 - - [ehmsu] (https://github.com/ehmsu)
 - [bhatiaAnanya](https://github.com/bhatiaAnanya)
 - [sureshpathipati](https://github.com/sureshpathipati)
+- [Andrew Berry](https://github.com/andpberr)
 - [arshahmad](https://github.com/arshahmad)
 - [Merzoug Imad-eddine](https://github.com/serinir)
 - [Justin ZHang](https://github.com/juzhang18)
@@ -17218,3 +17222,7 @@ rehan
 - [Ashlyn Slawnyk] (https://github.com/ashlyn)
 - [Dimitris Kouris] (https://github.com/dskouris)
 - [Regan Laurell] (https://github.com/laurelr2020)
+- [Jakob Kühne](https://github.com/fuzzydoge)
+- [Max Lefebvre](https://github.com/maxle5)
+- [Nicole Clayton](https://github.com/nclayt0n)
+- [Heather Fenton](https://github.com/hfenton)
