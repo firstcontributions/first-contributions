@@ -35,6 +35,7 @@
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Beatriz Garcia Jiménez](https://github.com/beatrizAdalab)
+- [Molly Lupton] (https://github.com/molly7657)
 - [Pål Krister Johansen](https://github.com/PQuix)
 - [Gustavo M](https://github.com/foofate)
 - [Naman Gupta](https://github.com/namangup)
