@@ -13,6 +13,7 @@
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
+- [Thodoris Pagkrakiotis](hhtps://github.com/thodoris-p)
 - [Ajriel Rizqy Maulana]
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Ryan Furrer](https://github.com/ryanfurrer)
