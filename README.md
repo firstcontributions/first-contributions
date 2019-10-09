@@ -6,9 +6,9 @@
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard when first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify in the way new open-source contributors learn & contribute their ability and passion for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment or do the things practically? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, please follow the steps given below.
 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
@@ -95,7 +95,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## Create a branch
 
-Change to the repository directory on your computer (if you are not already there):
+Change to the repository directory in your computer (if you are not already there):
 
 ```
 cd first-contributions
@@ -180,3 +180,4 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
+# Thanks and Good luck for your PR's
