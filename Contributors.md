@@ -16,6 +16,7 @@
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Ajriel Rizqy Maulana]
+- [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Ryan Furrer](https://github.com/ryanfurrer)
 - [Dominic Kersch](https://github.com/AltDom)
