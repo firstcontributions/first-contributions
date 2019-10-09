@@ -149,6 +149,7 @@
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [LWY](https://github.com/SFMDI)
+- [Maxence Wilmes] (https://github.com/Toorain)
 - [Aakash](https://github.com/Aakash-AA)
 - [Harshad Vaghasiya](https://github.com/HarshadVaghasiya)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
