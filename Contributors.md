@@ -12040,6 +12040,7 @@ Stephan Sharpe
 - [Duane Michael](https://github.com/wr4thchild)
 - [Shane Ko Naung](https://github.com/ShaneKoNaung)
 - [Ricardo Sawir](https://github.com/sawirricardo)
+- [Sagar Masand](https://github.com/sagarmasand10)
 - [iVarun Natu](https://github.com/Tero529)
 - [Joseph](https://github.com/roboticsdude60)
 - [Suxin Li](https://github.com/AndrewLisuxin)
