@@ -31,6 +31,7 @@
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
+- [Jon Zivku](https://github.com/jonzivku)
 - [Klaudijus Rulys](https://github.com/krulys)
 - [Laise Aquino](https://github.com/laiseaquino)
 - [Tom Cole](https://github.com/TomC-Codes)
