@@ -2,6 +2,7 @@
 
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
+- [Josh McDaniel](https://github.com/mcdanije22)
 - [Ajriel Rizqy Maulana]
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Dominic Kersch](https://github.com/AltDom)
