@@ -32,6 +32,7 @@
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
 - [Klaudijus Rulys](https://github.com/krulys)
+- [Alison Melendez](https://github.com/alisonmelendez)
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
