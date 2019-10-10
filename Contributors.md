@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Brandon Rosser](https://github.com/krunkbot3000)
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto) 
