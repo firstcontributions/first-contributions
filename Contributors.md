@@ -12,6 +12,7 @@
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Shekhar Shukla]
+- [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Avijit Mondal](https://github.com/avijitmondal)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
 - [Aniket Jain](https://github.com/AnJ10)
