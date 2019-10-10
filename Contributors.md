@@ -62,6 +62,7 @@
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Damian Zhang](https://github.com/Damian3930)
 - [Ji Kang](https://github.com/KangJay)
+[Prachi Sarda] (https://github.com/PrachiSarda)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Prathamesh Gawas](https://github.com/TrIXy07)
