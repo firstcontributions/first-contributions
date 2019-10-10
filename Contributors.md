@@ -6966,6 +6966,7 @@ Stephan Sharpe
 - [Ross Tapson](https://github.com/rosstapson)
 - [Pedro Acosta](https://github.com/Pcost8300)
 - [Wender Miyukii](https://github.com/Miyukii)
+- [Tiger Nie](https://github.com/haolinnie)
 - [Elliott Weeks](https://github.com/Elliott-W)
 - [David Buttler](https://github.com/dwbuttler)
 - [Prissad](https://github.com/Prissad)
