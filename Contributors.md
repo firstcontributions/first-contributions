@@ -9997,6 +9997,7 @@ Stephan Sharpe
 - [Tricia Cuninghame](https://github.com/Tricky2712)
 - [Andy F](https://github.com/DatHydroGuy)
 - [Rohan Swaby](https://github.com/Rswaby)
+- [ttermechikov] (https://github.com/ttermechikov)
 - [Caio Vilas](https://github.com/caiovilas)
 - [Brendan Hanna](https://github.com/gepetto503)
 - [Renu](https://github.com/RenuGreen)
@@ -17262,4 +17263,4 @@ rehan
 - [WHOISbinit](https://twitter.com/WHOISbinit)
 - [m-oliv](https://github.com/m-oliv)
 - [Shyam Unnikrishnan](https://github.com/shyamunnikrishnan)
-- [Aman](https://github.com/aman589)
+- [Aman](https://github.com/aman589) 
