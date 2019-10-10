@@ -172,6 +172,7 @@
 - [Nicolas Pierre-Fanfan](https://github.com/npier97)
 - [Nambikai] (https://github.com/nambikai)
 - [Professor Robotnik] (https://github.com/ProfessorRobotnik)
+- [Shubhamdeep Jha] (https://github.com/TheDudeThatCode)
 - [Diego Chaves] (https://github.com/chavesdiego)
 - [Mihai Druta] (https://github.com/MihaiDruta)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
