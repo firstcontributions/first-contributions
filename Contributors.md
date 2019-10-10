@@ -85,6 +85,7 @@
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Alberto Xamin](https://github.com/albertoxamin)
 - [Shriyansh Jain](https://github.com/Shriyansh-J)
+- [Jeffrey Norris] (https://github.com/jeffreydn1161)
 - [John Ryalls](https://github.com/pantsesquire)
 - [Gaurav Saxena](https://github.com/gsvolt)
 - [Jake Murray](https://github.com/jakerx79)
