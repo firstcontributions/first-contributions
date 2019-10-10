@@ -17298,6 +17298,7 @@ rehan
 - [Arya Valizadeh] (https://twitter.com/arya_pr0f)
 - [Bongani Mkonto](https://github.com/excitedcrayon)
 - [Kline Borromeo](https://github.com/rekliner)
+- [Nevan Oman Crowe](https://github.com/Branchman577)
 - [Hector Osuna] (https://github.com/FanGoH)
 - [Hemshree] (https://github.com/Hemshree100)
 - [Kasun Hasanga] (https://github.com/KasunHasanga)
