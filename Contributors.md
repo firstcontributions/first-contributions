@@ -12114,6 +12114,7 @@ Stephan Sharpe
 - [Johannes Merkert](https://github.com/jmerkert)
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
+- [Emil Merle](https://github.com/emilmerle)
 - [Micah Workman](https://github.com/nidoprince)
 - [Avishai Cohen](https://github.com/avirbig)
 - [Marc Cooperstein](https://github.com/mcooperstein)
