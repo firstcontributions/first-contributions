@@ -10491,6 +10491,7 @@ Stephan Sharpe
 - [Stefan K](https://github.com/StefaK)
 - [Saumya Sachdev](https://github.com/saumya0220)
 - [Michael Villanueva](https://github.com/g11v8a)
+- [Carlos David Gonzalez](https://github.com/CarlosDav1)
 - [John Murphy](https://github.com/gitoutdaway)
 - [Daniel Vidana](https://github.com/danvidana)
 - [David Denny](https://github.com/david-denny)
