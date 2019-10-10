@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
 - [Naezzin] (https://github.com/naezzin)
@@ -16623,3 +16623,4 @@ Mário Baltazar
 - [Lorena Toscano](https://github.com/lorenatoscano)
 - [Ramya CP](https://github.com/RAMYA-CP)
 - [Anahi](http://github.com/ayyoanahi)
+- [Zhoucai](https://github.com/Zucchini-byte)
