@@ -49,6 +49,7 @@
 - [Ji Kang](https://github.com/KangJay)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
+- [Prathamesh Gawas](https://github.com/TrIXy07)
 - [Beatriz Garcia Jiménez](https://github.com/beatrizAdalab)
 - [Molly Lupton] (https://github.com/molly7657)
 - [Pål Krister Johansen](https://github.com/PQuix)
