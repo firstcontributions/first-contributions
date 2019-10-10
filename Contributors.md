@@ -429,6 +429,7 @@
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
 - [Rafael Ahrons](https://github.com/luturol)
 - [azamat] (https://github.com/tikenov)
+- [Lav Senghani](https://github.com/lavlife06)
 - [Tamarantula](https://github.com/tamarantula)
 - [maslankam](https://github.com/maslankam)
 - [Manan Kevadiya] (https://github.com/manan2501)
