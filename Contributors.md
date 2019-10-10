@@ -189,6 +189,7 @@
 - [Aravind](https://github.com/Aravind22)
 - [Manon-B](https://github.com/Manon-B)
 - [LWY](https://github.com/SFMDI)
+- [Maxence Wilmes] (https://github.com/Toorain)
 - [Aakash](https://github.com/Aakash-AA)
 - [Harshad Vaghasiya](https://github.com/HarshadVaghasiya)
 - [Abdullah Al Noman] (https://github.com/NomanAbdullah)
