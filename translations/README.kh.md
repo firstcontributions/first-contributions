@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -19,7 +19,7 @@
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
@@ -54,7 +54,7 @@
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
 [🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
 [🇵🇭](translations/README.tl.md)
 [🇿🇦](translations/README.zul.md)
@@ -64,7 +64,7 @@
 [🇰🇭](translations/README.kh.md)
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 ប្រសិនបើអ្នកមិនមានកម្មវិធី GIT នៅលើម៉ាស៊ីនរបស់អ្នកទេ [ដំឡើងកម្មវិធី GIT]( https://help.github.com/articles/set-up-git/).
 
@@ -75,7 +75,7 @@ Fork this repository ដោយចុចលើប៊ូតុងforkនៅផ្�
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 ឥឡូវនេះក្លូនrespositoryដែលបានforkរួច ទៅម៉ាស៊ីនរបស់អ្នក។ ចូលទៅកាន់គណនី GitHub របស់អ្នក, បើកrespositoryដែលបានforkរួច, ចុចលើប៊ូតុងក្លូន បន្ទាប់មកចុចប៊ូតុង *copy to clipboard* icon.
 
@@ -86,7 +86,7 @@ git clone "url you just copied"
 ```
 "url you just copied" (មិនដាក់សញ្ញាធ្មេញកណ្ដុរ) urlរបស់repository (respositoryដែលបានfork). មើលជំហានមុនដើម្បីទទួលបានurl.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ឧទាហរណ៍:
 ```
@@ -115,7 +115,7 @@ git checkout -b add-alonzo-church
 
 ឥឡូវនេះបើក `Contributors.md` ក្នុងកម្មវិធីសរសេរកូឌ, បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើមឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅចន្លោះ។ ឥឡូវរក្សាទុកឯកសារ។
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 
 ប្រសិនបើអ្នកទៅទីតាំងនៃគម្រោងនិងសរសេរ `git status`ក្នុងterminal, អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
@@ -145,11 +145,11 @@ git push origin <add-your-branch-name>
 
 ប្រសិនបើអ្នកទៅកាន់repositoryក្នុងGitHubរបស់អ្នក , អ្នកនឹងឃើញប៊ូតុង  `Compare & pull request`។ ចុចលើប៊ូតុងនោះ។
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
 ឥឡូវនេះដាក់ស្នើសំណើ។
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 មិនយូរប៉ុន្មានខ្ញុំនឹងបញ្ចូលការផ្លាស់ប្ដូរទាំងអស់របស់អ្នកទៅក្នុងbranchដើមនៃគម្រោងនេះ។​ អ្នកនឹងទទួលបានការជូនដំណឹង​​​​​​​​​​​​​​​​​​​តាមរយៈអ៊ីម៉ែលនៅពេលដែលការផ្លាស់ប្តូររបស់អ្នកត្រូវបានបញ្ចូលចូលគ្នា។
 
@@ -168,15 +168,6 @@ git push origin <add-your-branch-name>
 
 ## កម្មវិធីដែលត្រូវប្រើក្នុងវគ្គនេះ
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
-## Self-Promotion
-
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
