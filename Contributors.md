@@ -26,6 +26,8 @@
 - [Harsh Rajani](https://github.com/harshrajani460)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Ajriel Rizqy Maulana]
+- [Antonino Cangialosi](https://github.com/ninoCan) 
+
 - [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Ryan Furrer](https://github.com/ryanfurrer)
