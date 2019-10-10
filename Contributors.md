@@ -463,6 +463,7 @@
 - [Miguel Solino](http://github.com/Manilator)
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
+- [Adam Brikman](https://github.com/adambrikman)
 - [Anna-Sofia]
 - [syd645]
 - [bh-n-9]
