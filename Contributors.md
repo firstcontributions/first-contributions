@@ -17223,6 +17223,7 @@ rehan
 - [Shivam Ralli](https://github.com/sralli)
 - [Rohit A S Nair] (https://github.com/rohitasnair)
 - Deepa Malani
+- [Simon Pettersson] (https://github.com/SimonPettersson92)
 - [Akbaar Anung Yudha Saputra](https://github.com/akbarsaputrait)
 - [Tharindu Dhananjaya](https://github.com/TDhananjaya)
 - [Maulik Rathod](https://github.com/maulikrathod)
