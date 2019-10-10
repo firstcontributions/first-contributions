@@ -1346,6 +1346,7 @@ Nishtha3512
 - [phongnguyen39](https://github.com/phongnguyen39)
 - [Kunal Puri](https://github.com/kunalpuri)
 - Cody Dullard
+- Sadil Chamishka
 - [Clement Sam](https://github.com/profclems)
 - [Nathan Maddox](https://github.com/nmsixteen)
   [Rohit Vishen](https://github.com/RohitVishen)
