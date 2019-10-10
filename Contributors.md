@@ -4522,6 +4522,7 @@ Stephan Sharpe
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Danny Molloy](https://github.com/strachaldrat)
 - [Dwij Sheth](https://github.com/dwij2812)
+- [Martin Bruveris](https://github.com/MartinBruveris)
 - [DB](https://github.com/dhyeyb04)
 - [Faiqa Shafqat](https://github.com/FaiqaShafqat79)
 - [kyler](https://github.com/kyler-swanson)
