@@ -160,6 +160,7 @@
 - [Aayush Agrawal](https://github.com/aayushagrawal135)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Aravind](https://github.com/Aravind22)
+- [Manon-B](https://github.com/Manon-B)
 - [LWY](https://github.com/SFMDI)
 - [Aakash](https://github.com/Aakash-AA)
 - [Harshad Vaghasiya](https://github.com/HarshadVaghasiya)
