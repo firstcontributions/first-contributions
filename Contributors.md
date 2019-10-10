@@ -413,6 +413,7 @@
 - [Rafael Ahrons](https://github.com/luturol)
 - [azamat] (https://github.com/tikenov)
 - [Tamarantula](https://github.com/tamarantula)
+- [maslankam](https://github.com/maslankam)
 - [Manan Kevadiya] (https://github.com/manan2501)
 - [aiden](https://github.com/acdlbs)
 - [rincewindgv](https://github.com/rincewindgv)
