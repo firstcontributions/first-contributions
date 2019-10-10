@@ -17269,6 +17269,7 @@ rehan
 - [Aagam Doshi](https://github.com/doshiaagam)
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
+- [David Weir](https://github.com/Davidweir57)
 - [David McGuigan](https://github.com/Vandig)
 - [Andreea Rete](https://github.com/AndreeaRete)
 - [Joe Rathborne] (https://github.com/joerathborne)
