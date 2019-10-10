@@ -41,6 +41,7 @@
 - [Michael George](https://github.com/mg4603)
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
+- [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
