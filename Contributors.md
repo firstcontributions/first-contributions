@@ -17268,6 +17268,7 @@ rehan
 - [Aagam Doshi](https://github.com/doshiaagam)
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
+- [Qiyang Zuo](https://github.com/Alpha-yoyo)
 - [Diarmuid Brady](http://github.com/nearmo)
 - [Mitsuki Irihara](https://github.com/mick722)
 - [Daniel Rimkus](https://github.com/toomanybyt3s)
