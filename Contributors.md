@@ -17268,6 +17268,7 @@ rehan
 - [Aagam Doshi](https://github.com/doshiaagam)
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
+- [Daniel Rimkus](https://github.com/toomanybyt3s)
 - [Jack Liston](https://github.com/jackliston1998)
 - [Grace Angulu](https://github.com/Grace-Angulu)
 - [Malachy Byrne](https://github.com/malmal200)
