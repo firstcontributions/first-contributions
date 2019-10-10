@@ -12,6 +12,7 @@
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
+-[Jay Dulera](https://github.com/jaydulera)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [Meghna Chhabra](https://github.com/meghna-code)
