@@ -103,6 +103,7 @@
 - [Shriyansh Jain](https://github.com/Shriyansh-J)
 - [Jeffrey Norris] (https://github.com/jeffreydn1161)
 - [John Ryalls](https://github.com/pantsesquire)
+- [Suvigya Jain](https://github.com/suvigyajain1)
 - [Gaurav Saxena](https://github.com/gsvolt)
 - [Jake Murray](https://github.com/jakerx79)
 - [Preethi Manoharan](https://github.com/preethi900)
