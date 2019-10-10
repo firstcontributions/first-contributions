@@ -17234,3 +17234,4 @@ rehan
 - [Heather Fenton](https://github.com/hfenton)
 - [Jasdeep kaur](https://www.linkedin.com/in/jasdeep-kaur-mica/)
 - [Andres Carrasco](https://github.com/sadpvndv)
+- [Sandro Mirianashvili](https://github.com/mirianashvili)
