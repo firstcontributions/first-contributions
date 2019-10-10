@@ -8307,6 +8307,7 @@ Stephan Sharpe
 - [besumi](https://github.com/besumi)
 - [jokri](https://github.com/jokri)
 - [Muhsin.K](https://github.com/muhzi4u)
+- [Adam Gutierrez](https://github.com/aggdotred)
 - [Sagnik_Ghosh](https://github.com/Sagnik-Ghosh)
 - [Eishan Lawrence](https://github.com/eishan05)
 - [Blake](https://github.com/Blake575)
