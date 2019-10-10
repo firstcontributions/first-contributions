@@ -17227,6 +17227,7 @@ rehan
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
 - [cmgn](https://github.com/cmgn)
+- [Arya Valizadeh] (https://twitter.com/arya_pr0f)
 - [Bongani Mkonto](https://github.com/excitedcrayon)
 - [Kline Borromeo](https://github.com/rekliner)
 - [Hector Osuna] (https://github.com/FanGoH)
