@@ -10,6 +10,7 @@
 - [lxp](https://github.com/pylxp)
 - [Shekhar Shukla]
 - [Avijit Mondal](https://github.com/avijitmondal)
+- [Aniket Jain](https://github.com/AnJ10)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
 -[Jay Dulera](https://github.com/jaydulera)
