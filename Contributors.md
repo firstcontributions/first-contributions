@@ -105,6 +105,7 @@
 - [Arman Najafian](https://github.com/Quarkz14)
 - [Kiara Barias](https://github.com/Kbarias)
 - [Pradeep Kumar](https://github.com/pradeep-017)
+- [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Sergio Alejandro Prieto Rengifo](https://github.com/alejolale)
