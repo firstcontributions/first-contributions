@@ -935,6 +935,7 @@ Haris Siddiqui
 - [Alkator-Nori](https://github.com/nais000k)
 - [Omid Nassir](https://github.com/rissandimo)
 - [Milind Brahme](https://github.com/milind-brahme)
+- [rqj](https://github.com/rqj)
 - [Founder Casey](https://github.com/foundercasey)
 - [Indrayani Lambat](https://github.com/lambativ)
 - [Ashutosh Paliwal,  starts with open source](https://github.com/ashu098)
