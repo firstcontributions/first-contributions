@@ -8692,5 +8692,5 @@ Orandi Harris
 - [Ören Aksakal](https://github.com/orenaksakal)
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes] (https://github.com/amandarfernandes)
+- [Angel Moses Ochoa] (https://github.com/shortalay)
 - [empty] (https://github.com/carceri)
-
