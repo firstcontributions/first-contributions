@@ -8,6 +8,7 @@
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Shekhar Shukla]
+- [Avijit Mondal](https://github.com/avijitmondal)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
