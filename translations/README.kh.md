@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-#សំរាប់អ្នកជួយលើកដំបូង
+# សំរាប់អ្នកជួយលើកដំបូង
 
 លើកដំបូងគឺពិបាក។​​ វាតែងតែពិបាកក្នងការធ្វើអ្វីមួយលើកដំបូង​ ជាពិសេសនៅពេលដែលអ្នកកំពុងសហការហើយមានកំហុសមិនមែនធ្វើជារឿងស្រួលនោះទេ។ យើងចង់ធ្វើឱ្យងាយស្រួលដល់អ្នកចែកចាយប្រភពបើកចំហថ្មីៗ(Open-source)រៀននិងចូលរួមជាលើកដំបូង។
 
@@ -61,7 +61,7 @@
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
 [🇳🇬](translations/README.igb.md)
-[KH](translations/README.kh.md)
+[🇰🇭](translations/README.kh.md)
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
