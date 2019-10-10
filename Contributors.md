@@ -438,6 +438,7 @@
 - [Oriane D](https://github.com/oriane212)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
+- [Devin Wagner] (https://github.com/dwagner003)
 - [Cheatn Sinha] (https://github.com/ChetanSinha)
 - [Trab Lyto] (https://github.com/1cb8c1)
 - [Sakshi Sinha](https://github.com/RealRadOne)
