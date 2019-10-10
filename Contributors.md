@@ -79,6 +79,7 @@
 - [ChiLau]
 - [girOly](https://github.com/girOly)
 - [Klaudijus Rulys](https://github.com/krulys)
+- [Alison Melendez](https://github.com/alisonmelendez)
 - [Laise Aquino](https://github.com/laiseaquino)
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
