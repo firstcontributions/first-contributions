@@ -774,6 +774,7 @@ Hammad Qureshi
 - [Murilo Preccaro](https://github.com/mogueno)
 - [Kostas Vangos](https://github.com/white-958)
 - [Nick Pafundi](https://github.com/napafundi) 
+- [Kenneth Howell] (https://github.com/kennethhowell)
 - [Siddharth Saha](https://github.com/trunc8) 
 - [George Yu](https://github.com/DsinCDev)
 - [Uzma Mushtaque](https://github.com/Uzmamushtaque)
