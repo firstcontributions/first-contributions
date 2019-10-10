@@ -77,6 +77,7 @@
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
+- [Jon Zivku](https://github.com/jonzivku)
 - [ChiLau]
 - [girOly](https://github.com/girOly)
 - [Klaudijus Rulys](https://github.com/krulys)
