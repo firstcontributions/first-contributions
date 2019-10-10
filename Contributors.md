@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Natalia Favareto](https://github.com/nfavareto) 
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
