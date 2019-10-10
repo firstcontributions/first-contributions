@@ -17081,6 +17081,7 @@ Mário Baltazar
 - [Andhika Samudra Wibawa](https://github.com/andhikasamudra)
 - [Julien Blondeau](https://github.com/BlondeauJulien)
 - [Ahmad Syafrudin](https://github.com/ahmadsyafrudin)
+- [Utkarsh Gupta](https://github.com/utkryuk)
 - [Indu Rupi](https://github.com/indurupi)
 - [Jyotika Sharma](https://github.com/Jyotika25)
 - [Ivan Kosar](https://github.com/Elektro8)
