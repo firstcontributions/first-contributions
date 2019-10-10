@@ -4555,6 +4555,7 @@ Stephan Sharpe
 - [Sherif Dauda](https://github.com/sherifdauda)
 - triyan
 - [milindchawre](https://github.com/milindchawre)
+- [nutzodiac](https://github.com/nutzodiac)
 - [hackerde](https://github.com/hackerde)
 - [Niall](https://github.com/nmck)
 - [Sri Manikanta Palakollu](https://github.com/srimani-programmer)
