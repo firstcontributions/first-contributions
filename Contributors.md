@@ -117,6 +117,7 @@
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Dhyey Gami](https://github.com/dhyey6602)
+- [Boris Klobucar] (https://github.com/bbborisk)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Saksham Banga](https://github/com/sakshambanga)
 - [Atlas Alex](https://github.com/quwip10)
