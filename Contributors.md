@@ -17225,3 +17225,4 @@ rehan
 - [Max Lefebvre](https://github.com/maxle5)
 - [Nicole Clayton](https://github.com/nclayt0n)
 - [Heather Fenton](https://github.com/hfenton)
+- [Jasdeep kaur](https://www.linkedin.com/in/jasdeep-kaur-mica/)
