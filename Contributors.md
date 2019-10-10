@@ -17285,5 +17285,6 @@ rehan
 - [visp] (https://github.com/vismitap)
 - [Fallest] (https://github.com/Fallest)
 - [Anirudh Jwala](https://github.com/anirudh-jwala)
+- [Allyssa](https://github.com/allyssapascual)
 - [Gustavo Chavarria](https://github.com/gustavochavarria)
 - [Simone Puhl](https://github.com/perSimone)
