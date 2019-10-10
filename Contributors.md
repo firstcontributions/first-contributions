@@ -17270,6 +17270,7 @@ rehan
 - [Aagam Doshi](https://github.com/doshiaagam)
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
+- [Ethan Clarke](hhtps://github.com/AwsumN00b)
 - [Evelina Prosyankina](https://github.com/mungle-fung)
 - [David Weir](https://github.com/Davidweir57)
 - [David McGuigan](https://github.com/Vandig)
