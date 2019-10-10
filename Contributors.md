@@ -4538,6 +4538,7 @@ Stephan Sharpe
 - [nuntjw](https://github.com/nuntjw)
 - [Anoop P](https://github.com/Anooppandikashala)
 - Manu
+- [Stefan Gal](https://github.com/stefangal)
 - [James Bowler](https://github.com/jimuk07)
 - [Karan Kumar G](https://github.com/spielerr)
 - [w5bh](https://github.com/w5bh)
