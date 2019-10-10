@@ -28,5 +28,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 23. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+26. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
 
 Keep adding more links, that you find helpful.
