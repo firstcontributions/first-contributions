@@ -40,6 +40,7 @@
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
 - [Ryan Furrer](https://github.com/ryanfurrer)
 - [Dominic Kersch](https://github.com/AltDom)
+- [Stephen Woosley] (https://github.com/stephenwoosley)
 - [Xena Ayala](https://github.com/xenaayala)
 - [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
