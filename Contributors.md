@@ -15455,6 +15455,7 @@ Stephan Sharpe
 - [Scott Wilson](https://github.com/scottjwilson)
 - [Groutch](https://github.com/groutch)
 - [Billy Tan](https://github.com/cieltan)
+- [Laura Nichols] (https://github.com/LauraCNichols)
 - [ROGER simon](https://github.com/51m0n2063r)
 - [Umar](https://github.com/umxr)
 - [Ricardo D. Ferrer](https://github.com/ricdferrer)
