@@ -3,6 +3,7 @@
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
+- [Smit Mangukiya](https://github.com/SmitMangukiya)
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
