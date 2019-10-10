@@ -20,6 +20,7 @@
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
+- [Harsh Rajani](https://github.com/harshrajani460)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Ajriel Rizqy Maulana]
 - [Anuj Attri](https://github.com/Anuj-Attri)
