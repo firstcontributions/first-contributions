@@ -212,6 +212,7 @@
 - [Ghulam Mustafa1]
 - [Neil Stoker](https://github.com/nstoker)
 - [Infrony](https://github.com/infrony)
+- [Sneha Bamba](https://github.com/sneha-bamba)
 - [Garvit291]
 - [Mayank Mani](https://github.com/MayankMani00)
 - [Rachita Bhagchandani](https://github.com/rachita18144)
