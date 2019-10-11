@@ -16478,6 +16478,7 @@ Stephan Sharpe
 - [Ronaldo Santana](https://github.com/ronssm)
 - candice tang
 - keanuf
+- [Tristan Szakács] (https://github.com/Tristochi)
 - bhugall
 - [Dave Holly](https://github.com/daveholly57)
 - [Nic Vigil](https://githib.com/nicvigil)
