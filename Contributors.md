@@ -17357,6 +17357,7 @@ rehan
 - [silksow] (https://github.com/silksow)
 - [Anna Gabriela] (http://github.com/annagabriela)
 - [Sporandum] (https://github.com/Sporandum)
+- [Deivys A Gonçalves] (https://github.com/dagoncalves)
 - [Ashlyn Slawnyk] (https://github.com/ashlyn)
 - [Mauricio Zapata] (https://github.com/emzee831)
 - [Derek Tracy] (https://github.com/tracyde)
