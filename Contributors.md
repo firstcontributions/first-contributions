@@ -8,6 +8,7 @@
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Catherine O'Hara](https://github.com/catherine-o)
+- [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
@@ -22,6 +23,7 @@
 - [Shekhar Shukla]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
+- [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
@@ -110,6 +112,7 @@
 - [Renan Gurgel](https://github.com/gurgelrenan)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
+- [Ankit Sharma](https://github.com/steveAnkit) 
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
@@ -343,8 +346,10 @@
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
+- [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
+- [Manish Tomar](https://github.com/manishtomar1) 
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Saurabh Singh Gautam]
@@ -386,6 +391,8 @@
 - [Starlord newbie] (https://github.com/instinxt)
 - [Andre Guimaraes] (http://github.com/Fuedy
 - [Sergei Nevstruev]
+- [Anastasis Grammenos](https://github.com/angrammenos97)
+- [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Amandeep Rikhi] (https://github.com/amandeeprikhi) (https://amandeeprikhi.me/)
 - [Shakeel risu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
@@ -492,8 +499,9 @@
 - [Xiao W](https://github.com/fwinac)
 - [Keir](https://github.com/Keirxyz)
 - [SaurabhChugh]
--[Raghavi]
--[MartinC](https://github.com/TheMartinCrabtree)
+- [Raghavi]
+- [Raghavi]
+- [MartinC](https://github.com/TheMartinCrabtree)
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [tusnolobov](https://github.com/tusnolobov)
@@ -17391,3 +17399,5 @@ rehan
 - [Laisha Wadhwa](https://github.com/laishawadhwa)
 - [Shivam Agrawal](https://github.com/shivampip)
 - [Lewis Reid](https://github.com/lew148)
+- [Muhammed Koçyiğit](https://github.com/muhammetkocyigit0)
+- [Vaibhav](https://github.com/iam2002)
