@@ -5,6 +5,7 @@
 - [Natalia Favareto](https://github.com/nfavareto) 
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
+- [Catherine O'Hara](https://github.com/catherine-o) 
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
