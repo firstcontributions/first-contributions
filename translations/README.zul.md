@@ -180,11 +180,3 @@ Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezi
 |---|---|---|---|
 |[Ideskithophu ye-GitHub](github-desktop-tutorial.md)|[I-Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Ikhodi ye-Visual Studio](github-windows-vs-code-tutorial.md)|
 
-## Ukuzithuthukisa
-
-Uma uthanda le phrojekthi, yenze inkanyezi ku- [GitHub](https://github.com/Roshanjossey/first-contributions).
-Uma uzizwa ikakhulukazi usizi, landela [Roshan](https://roshanjossey.github.io/) ku-
-[Twitter](https://twitter.com/sudo__bangbang) naku-
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
