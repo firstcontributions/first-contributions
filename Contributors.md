@@ -57,6 +57,7 @@
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
 - [Tuhin Roy] (https://github.com/Troy96)
+- [Kye Browning] (https://github.com/kyebrowning)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
