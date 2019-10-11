@@ -1,6 +1,6 @@
 This project was created by [Julio Uliandro Sitompul](https://instagram.com/uliandrojs).
 
-## `Gojek Indonesia`
+## `Gojek Indonesia with ReactJS`
 
 Gojek layout built using HTML5 and CSS3 for display and styling. This Project using React library Javascript.
 
