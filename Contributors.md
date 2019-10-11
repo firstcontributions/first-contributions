@@ -17362,3 +17362,4 @@ rehan
 - [Griselda Gonzalez](https://github.com/griseldaega)
 - [Matthew Delaney](https://github.com/mldelaney94)
 - [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
+- [Rifky Ari Yunanto](https://github.com/rifkyariy)
