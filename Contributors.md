@@ -17360,3 +17360,4 @@ rehan
 - [Yasmin Willis](https://github.com/yazwilly)
 - [Griselda Gonzalez](https://github.com/griseldaega)
 - [Matthew Delaney](https://github.com/mldelaney94)
+- [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
