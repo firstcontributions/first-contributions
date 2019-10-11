@@ -51,6 +51,7 @@
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Harsh Rajani](https://github.com/harshrajani460)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
+- [Thodoris Pagkrakiotis](hhtps://github.com/thodoris-p)
 - [Roberta P](https://github.com/MadamaMktg)
 - [Ajriel Rizqy Maulana]
 - [Desire Lumene](https://github.com/Desire01)
