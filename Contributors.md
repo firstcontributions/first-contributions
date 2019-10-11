@@ -62,6 +62,7 @@
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
 - [Keerti Bajaj](https://github.com/keertibajaj)
+- [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
 - [Michael George](https://github.com/mg4603)
 - [Cory Bergquist](https://github.com/coryjbergquist)
