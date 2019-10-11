@@ -16807,6 +16807,7 @@ Stephan Sharpe
 - [John Henry Galino](https://github.com/jhgalino)
 - Vinicius
 - Daniel Jorn
+- [Afroz Chakure] (https://github.com/afrozchakure)
 - [Matt Reeder](https://github.com/reedermatthew5)
 - [Jared Vandeventer](https://github.com/jvandy83)
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
