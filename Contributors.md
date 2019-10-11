@@ -7,7 +7,7 @@
 - [Natalia Favareto](https://github.com/nfavareto)
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
-- [Catherine O'Hara](https://github.com/catherine-o) 
+- [Catherine O'Hara](https://github.com/catherine-o)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
@@ -1118,6 +1118,7 @@ Nishtha3512
 - [Md Sohail] (https://github.com/talk2sohail)
 - Sahil Desai (https://github.com/SDesai71)
 - Sam DC
+- Soumaya Ranjan (https://github.com/bojack-horseman)
 - Aditya Mohan
 - [Lam Nguyen](https://github.com/Lm-ngyn)
 - Frank Savino
