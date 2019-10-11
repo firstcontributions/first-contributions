@@ -25,6 +25,7 @@
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
+- [Maike Fischer] 
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
