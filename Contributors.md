@@ -950,6 +950,7 @@ Haris Siddiqui
 - [Caroline Dahmen](https://github.com/C-Dahmen)
   Aviad Ariel
 - Rushabh Doshi
+- Abhijeet Jha (https://github.com/abhijeetk698/)
 - [Kevin Schoormans] (https://github.com/kevinschoormans)
 - Cyrus Harding
 - Justin Wong
