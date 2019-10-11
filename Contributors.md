@@ -81,6 +81,7 @@ Renjith Joseph
 - [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
 - [Michael George](https://github.com/mg4603)
+- [Bettina Lanser](https://github.com/bettina723)
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
