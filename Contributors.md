@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Parth Gupta](https://github.com/parthgpta)
@@ -17270,3 +17270,4 @@ rehan
 - [Shyam Unnikrishnan](https://github.com/shyamunnikrishnan)
 - [Aman](https://github.com/aman589)
 - [Carlo Martin] (https://github.com/CarloMtzMartin)
+- [Aupateli](https://github.com/Aupateli)
