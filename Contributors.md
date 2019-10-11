@@ -48,6 +48,7 @@
 - [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
+- [Aayush Kumar(https://github.com/aayushakumar)
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
@@ -134,6 +135,7 @@
 - [Mahwish Izhar](https://github.com/MahwishIzhar)
 - [Hur Ali](https://github.com/hurali97)
 - [Sudarshan H V](https://github.com/SudarshanHV)
+
 - [Shubham Jha](https://github.com/spectrum705)
 - [DzunN86](https://github.com/DzunN86
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
