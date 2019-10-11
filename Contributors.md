@@ -33,6 +33,7 @@
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
+- [Farihin Mohd Fitri](https://github.com/FusionAstral)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Avijit Mondal](https://github.com/avijitmondal)
