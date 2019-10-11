@@ -17433,6 +17433,7 @@ rehan
 - [Carlo Martin] (https://github.com/CarloMtzMartin)
 - [visp] (https://github.com/vismitap)
 - [Fallest] (https://github.com/Fallest)
+- [Diogo Ferreira] (https://github.com/uzantonomon)Â
 - [Anirudh Jwala](https://github.com/anirudh-jwala)
 - [Allyssa](https://github.com/allyssapascual)
 - [Gustavo Chavarria](https://github.com/gustavochavarria)
