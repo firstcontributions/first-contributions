@@ -95,6 +95,7 @@
 - [Alison Melendez](https://github.com/alisonmelendez)
 - [Laise Aquino](https://github.com/laiseaquino)
 - [Tom Cole](https://github.com/TomC-Codes)
+- [Renan Gurgel](https://github.com/gurgelrenan)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
 - [Aayush Kumar](https://github.com/aayushakumars)
