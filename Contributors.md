@@ -66,6 +66,7 @@
 - [Dominic Kersch](https://github.com/AltDom)
 - [Stephen Woosley] (https://github.com/stephenwoosley)
 - [Xena Ayala](https://github.com/xenaayala)
+- [Jev Forsberg](https://github.com/baldm0mma)
 - [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
