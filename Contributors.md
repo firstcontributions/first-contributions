@@ -1514,6 +1514,7 @@ Nishtha3512
 - [Jo Ann E.](https://github.com/Jo-IE)
 - [LukaJ](https://github.com/LukaJaj)
 - alexey The future DEVELOPER!
+- Junaid Mehmood
 - Christian Reyes
 - Yallop
 - [Brandon Tomás](https://github.com/brtomas0)
