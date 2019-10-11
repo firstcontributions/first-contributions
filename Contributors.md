@@ -21,6 +21,7 @@
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
+- [Christabel Khumalo] (https://github.com/Aurorabell)
 - [Deep Diwakar](https://github.com/deepdiwakar9)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
