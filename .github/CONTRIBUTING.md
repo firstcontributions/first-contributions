@@ -385,6 +385,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
            <a href="../translations/README.kz.md">Қазақша</a>
         </td>
+        <td>
+            <a href="../translations/README.en-tx.md">English (Texas)</a>
+        </td>
     </tr>
      <tr>
         <td>
@@ -402,6 +405,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <img width="100" src="https://avatars3.githubusercontent.com/u/12928246?s=460&v=4" alt="@kurshakuz" />
         </td>
+        <td>
+            <img width="100" src="https://avatars2.githubusercontent.com/u/43769738?s=400&v=4" alt="EarlofSquirrel"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -418,6 +424,9 @@ If you're making changes to a translation, please request a review from our prev
         </td>
         <td>
             <a href="https://github.com/kurshakuz">kurshakuz</a>
+        </td>
+        <td>
+            <a href="https://github.com/EarlofSquirrel">EarlofSquirrel</a>
         </td>
     </tr>
  </table>
