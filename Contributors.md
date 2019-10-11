@@ -27,6 +27,7 @@
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
+- [Maike Fischer] 
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
