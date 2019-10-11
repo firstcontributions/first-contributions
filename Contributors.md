@@ -17,6 +17,7 @@
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
+- [Anuska Sinha](https://github.com/theslytherin)
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Roppon Picha](https:/github.com/cocobaco)
