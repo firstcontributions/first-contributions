@@ -8,6 +8,7 @@
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Catherine O'Hara](https://github.com/catherine-o)
+- [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
