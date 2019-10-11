@@ -1836,6 +1836,7 @@ Stephan Sharpe
 - [Luis Villamil](https://github.com/Luisvillamil)
 - [Darren Lim](https://github.com/darrenlimweiyang)
 - [Tom Dale](https://github.com/tomkdale)
+- [Diego da Costa Porto](https://github.com/diegodcp)
 - [Gabriel Bustamante](https://github.com/gabrielBusta)
 - [Yanning Guo](https://github.com/GYNstyle)
 - [Shumai Ocbayes A](https://github.com/shumai9)
