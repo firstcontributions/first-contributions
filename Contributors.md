@@ -314,6 +314,7 @@ Renjith Joseph
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Mario Zamora] (https://github.com/maczamora)
 - [Siddhant Mehta]
+- [Emanuele Palermo] (https://github.com/epalermo92)
 - [Jurie Spies]
 - [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe] (https://github.com/marthasharpe)
