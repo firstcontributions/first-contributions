@@ -28,6 +28,7 @@
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Habib Sogbesan](https://github.com/hmoskva)
+- [Jack Sears](https://github.com/ItsKelo)
 - [Nayalash Mohammad](https://github.com/Nayalash)
 -[Jay Dulera](https://github.com/jaydulera)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
