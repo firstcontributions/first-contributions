@@ -37,6 +37,7 @@
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
+- [Denni Bevilacqua](https://github.com/dennib)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
