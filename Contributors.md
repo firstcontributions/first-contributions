@@ -6018,6 +6018,7 @@ Stephan Sharpe
 - [Michael](https://github.com/damoklov)
 - [Ganga S Nair](https://github.com/ganga1807)
 - [Alice Wang](https://github.com/alicelilywang)
+- [Himanshu Patel](https://github.com/Himanshu27299)
 - [Parv](https://github.com/Parv-Saini)
 - [Rizzo-41](https://github.com/Rizzo-419)
 - [Anubhav](https://github.com/annubv)
