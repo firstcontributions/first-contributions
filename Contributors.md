@@ -18,6 +18,7 @@
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
+- [Garima Mann](https://github.com/garimamann)
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
