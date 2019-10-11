@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -180,11 +180,3 @@ Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezi
 |---|---|---|---|
 |[Ideskithophu ye-GitHub](github-desktop-tutorial.md)|[I-Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Ikhodi ye-Visual Studio](github-windows-vs-code-tutorial.md)|
 
-## Ukuzithuthukisa
-
-Uma uthanda le phrojekthi, yenze inkanyezi ku- [GitHub](https://github.com/Roshanjossey/first-contributions).
-Uma uzizwa ikakhulukazi usizi, landela [Roshan](https://roshanjossey.github.io/) ku-
-[Twitter](https://twitter.com/sudo__bangbang) naku-
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
