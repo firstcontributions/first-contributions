@@ -330,6 +330,7 @@ Renjith Joseph
 - [Célio Mendes] (https://github.com/celio-jpeg)
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Mario Zamora] (https://github.com/maczamora)
+- [Kent Yang] (https://github.com/kentyang)
 - [Siddhant Mehta]
 - [Emanuele Palermo] (https://github.com/epalermo92)
 - [Jurie Spies]
