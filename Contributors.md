@@ -1,5 +1,6 @@
 # Contributors
 
+- [Desmond Chi](https://github.com/desmochi)
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto) 
