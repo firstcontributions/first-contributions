@@ -1170,6 +1170,7 @@ Nishtha3512
 - [Daniel Coker](https://github.com/danielcoker)
 - [Kamryn Phillips](https://github.com/HawtSawse)
 - [Daisy Macharia](https://github.com/daisymacharia)
+- [Colin Alexander](https://github.com/colinhalexander)
 - Ian
 - Pranav
 - EmixM
