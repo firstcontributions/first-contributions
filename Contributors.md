@@ -1,4 +1,5 @@
 # Contributors
+- [Colin McDonald](https://github.com/cmac253)
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
@@ -16,6 +17,7 @@
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
+- [Deep Diwakar](https://github.com/deepdiwakar9)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
@@ -2182,6 +2184,7 @@ Stephan Sharpe
 - [Lea Whitney](https://github.com/whitWEB)
 - [Cody James](https://github.com/C-F-J)
 - Ran Levy
+- [Gokul Panneerselvam](https://github.com/gokulp96).
 - [Vishal Bahedia](https://github.com/vishalvb)
 - [Yu Wang](https://github.com/ywang412)
 - [Felix Sundqvist](https://github.com/FelixSundqvist/)
@@ -16805,6 +16808,7 @@ Stephan Sharpe
 - [John Henry Galino](https://github.com/jhgalino)
 - Vinicius
 - Daniel Jorn
+- [Afroz Chakure] (https://github.com/afrozchakure)
 - [Matt Reeder](https://github.com/reedermatthew5)
 - [Jared Vandeventer](https://github.com/jvandy83)
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
