@@ -9763,6 +9763,7 @@ Stephan Sharpe
 - [Agham Arta Bima](https://github.com/aghambla)
 - [Jonathan Burk](https://github.com/JMB2K)
 - [Robert Yuen](https://github.com/rhyuen)
+- [Filipe Costa](https://github.com/filipe-costa)
 - [Echoskope](https://github.com/echoskope)
 - [Otavio Pires](https://github.com/otaviopires)
 - [Kevin Madison](https://github.com/kevinlmadison)
