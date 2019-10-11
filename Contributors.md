@@ -230,6 +230,7 @@ Renjith Joseph
 - [Diego Chaves] (https://github.com/chavesdiego)
 - [Mihai Druta] (https://github.com/MihaiDruta)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
+- [Steven Le] (https://github.com/lehuyl)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
