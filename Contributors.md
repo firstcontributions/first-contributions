@@ -1173,6 +1173,7 @@ Nishtha3512
 - [Kamryn Phillips](https://github.com/HawtSawse)
 - [Daisy Macharia](https://github.com/daisymacharia)
 - [Colin Alexander](https://github.com/colinhalexander)
+- [Arina Victor](https://github.com/arinavictor)
 - Ian
 - Pranav
 - EmixM
