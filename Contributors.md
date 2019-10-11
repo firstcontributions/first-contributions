@@ -38,6 +38,7 @@
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
 - [Aniket Jain](https://github.com/AnJ10)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
+- [Siddharth Panda](https://github.com/Sidray-Infinity)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Habib Sogbesan](https://github.com/hmoskva)
 - [Jack Sears](https://github.com/ItsKelo)
