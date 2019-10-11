@@ -38,6 +38,7 @@
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
+- [Rahul Raj]
 - [Denni Bevilacqua](https://github.com/dennib)
 - [Parth Santoki](https://github.com/parthsantoki01)
 - [Avijit Mondal](https://github.com/avijitmondal)
@@ -64,6 +65,7 @@
 - [Thodoris Pagkrakiotis](hhtps://github.com/thodoris-p)
 - [Roberta P](https://github.com/MadamaMktg)
 - [Ajriel Rizqy Maulana]
+- [faizal kahn]
 - [Desire Lumene](https://github.com/Desire01)
 - [Antonino Cangialosi](https://github.com/ninoCan)
 - [Anuj Attri](https://github.com/Anuj-Attri)
