@@ -3600,6 +3600,7 @@ Stephan Sharpe
 - [Debbie Flitner](https://github.com/dflitner)
 - [Patrick Olvera](https://github.com/patrickolvera)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
+- [JMT3559](https://github.com/jmtellez)
 - [Kelechi Nwosu](https://github.com/klexzi/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
