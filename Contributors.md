@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Cena Mayo](https://github.com/cena)
 - [Colin McDonald](https://github.com/cmac253)
 - [Somil Gupta](https://github.com/somilg050)
@@ -35,6 +35,7 @@
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
+-[Waleed Jameel](https://github.com/waleedj99)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
 - [Aniket Jain](https://github.com/AnJ10)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
