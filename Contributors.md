@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
@@ -15,9 +15,11 @@
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
+- [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
+- [Roppon Picha](https:/github.com/cocobaco)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
@@ -65,6 +67,7 @@
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
+- [Anshu Jalan](https://github.com/AnshuJalan)
 - [Itumeleng Masuluke](https://github.com/MasulukeI)
 - [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
@@ -3600,6 +3603,7 @@ Stephan Sharpe
 - [Debbie Flitner](https://github.com/dflitner)
 - [Patrick Olvera](https://github.com/patrickolvera)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
+- [JMT3559](https://github.com/jmtellez)
 - [Kelechi Nwosu](https://github.com/klexzi/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
 - [Sara Womiloju](https://github.com/saradoubleu/)
@@ -6559,6 +6563,7 @@ Stephan Sharpe
 - [Jacob Robinson](https://github.com/JR0210)
 - [Melis](https://github.com/melisdogan)
 - [Aidan Kelly](https://github.com/aidan-kelly)
+- [Elmer Galo](https://github.com/galoelmer)
 - [Aananya](https://github.com/aananya27)
 - [Jared White](https://github.com/JaredWhiteOne)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
@@ -17259,7 +17264,7 @@ Mário Baltazar
 rehan
 - [ThereOHM](https://github.com/ThereOHM)
 - [Born2Root](https://github.com/Born2Root)
-- [NAV1R4IN](https://github.com/NAV1R4IN)
+- [NAV1RAIN](https://github.com/NAV1RAIN)
 - [Shynd](https://github.com/Shynd)
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
 - [Adewoyin Oladipupo-Usoro](https://github.com/nucternal18)
@@ -17367,3 +17372,7 @@ rehan
 - [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
 - [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
 - [Rifky Ari Yunanto](https://github.com/rifkyariy)
+- [Rooparsh Kalia](https://github.com/rooparsh)
+- [Rifky Ari Yunanto](https://github.com/rifkyariy)
+- [Laisha Wadhwa](https://github.com/laishawadhwa)
+- [Shivam Agrawal](https://github.com/shivampip)
