@@ -6695,6 +6695,7 @@ Stephan Sharpe
 - [Daniel Biehle](https://github.com/dannybrain)
 - [NeeruRamesh](https://github.com/NeeruRamesh)
 - [Shawn Pang](https://github.com/CometS1)
+- [Michael Leners](https://github.com/micleners)
 - [Finley McIlwaine](https://github.com/FinleyMcIlwaine)
 - [Babs Craig](https://github.com/babzcraig)
 - [NotThatBowser](https://github.com/NotThatBowser)
