@@ -194,6 +194,7 @@ Renjith Joseph
 - [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Abey Hurtis](https://github.com/Abey12525)
 - [Daniel Yuki](https://github.com/DanielYuki)
+- [Gagan Agarwal](https://github.com/LazyCoder07)
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Molntussen] (https://github.com/Molntussen)
 - [Tezan Sahu](https://tezansahu.github.io)
