@@ -161,6 +161,7 @@
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Jeremiah Tabb](https://github.com/jollyjerr)
+- [Aaron Martinez] (https://github.com/amart404)
 - [Manav Khorasiya](https://github.com/ManavKhorasiya)
 - [Nate Dvorachek](https://github.com/dvo4253)
 - [Sarthak Kundra](https://github.com/sarthakkundra)
