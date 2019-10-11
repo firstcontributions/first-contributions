@@ -62,6 +62,7 @@
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
+Renjith Joseph
 - [Keerti Bajaj](https://github.com/keertibajaj)
 - [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
