@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Cena Mayo](https://github.com/cena)
+- [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
