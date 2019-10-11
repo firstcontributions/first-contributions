@@ -135,6 +135,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/ayanovsk">ayanovsk</a>
         </td>
         <td>
+           <a href="https://github.com/Shashwa7">Shashwa7</a>
+        </td>
+        <td>
             <a href="https://github.com/hercegtomas">hercegtomas</a>
         </td>
         <td>
