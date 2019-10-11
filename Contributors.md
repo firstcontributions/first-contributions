@@ -340,6 +340,7 @@ Renjith Joseph
 - [Lasse Stilvang](https://github.com/lassestilvang)
 - [Sanjay Chivukula](https://github.com/sanjay-chivukula)
 - [Leesa] (https://github.com/leesadang)
+- [Sebika] (https://github.com/sebika)
 - [Gajraj Singh] (https://github.com/gajrajgchouhan)
 - [Loch] (https://github.com/disrute)
 - [Ritik Kanotra] (https://githib.com/ritikkanotra)
