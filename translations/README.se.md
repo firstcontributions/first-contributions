@@ -123,11 +123,3 @@ Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en li
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Beröm
-
-Om du tyckte om detta projektet kan du tilldela stjärnor på [GitHub](https://github.com/Roshanjossey/first-contributions).
-Känner du dig särskilt snäll kan du följa [Roshan](https://roshanjossey.github.io/) på
-[Twitter](https://twitter.com/sudo__bangbang) och
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
