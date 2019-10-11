@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
@@ -68,6 +68,7 @@
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
+- [Anshu Jalan](https://github.com/AnshuJalan)
 - [Itumeleng Masuluke](https://github.com/MasulukeI)
 - [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
@@ -17368,3 +17369,8 @@ rehan
 - [Matthew Delaney](https://github.com/mldelaney94)
 - [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
 - [Rifky Ari Yunanto](https://github.com/rifkyariy)
+- [Rooparsh Kalia](https://github.com/rooparsh)
+- [Rifky Ari Yunanto](https://github.com/rifkyariy)
+- [Laisha Wadhwa](https://github.com/laishawadhwa)
+- [Shivam Agrawal](https://github.com/shivampip)
+
