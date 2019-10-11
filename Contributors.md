@@ -496,6 +496,7 @@ Renjith Joseph
 - [Sabha Kandula](https://github.com/SabhaKandula)
 - [Daniel Sánchez](https://github.com/hielfx)
 - [Kevin Dorner](https://github.com/mrhspecter)
+- [Marcel Smuts] (https://github.com/MarcelSmuts)
 - [Miguel Solino](http://github.com/Manilator)
 - [Tony Morris](https://github.com/TonyDMorris)
 - [Amanda Menier](https://github.com/amenier)
