@@ -12350,6 +12350,7 @@ Stephan Sharpe
 - [Jack Roof](https://github.com/jroof88)
 - [Hal DiMarchi](https://github.com/hadimarchi)
 - [Duane Shaffer](https://github.com/DuaneShaffer)
+- [Hemil Panchiwala](https://github.com/hemilpanchiwala)
 - [njw dev](https://github.com/njwdev)
 - [Rodrigo Ali](https://github.com/ElRodrigote/)
 - [Tiago Maia](https://github.com/tiagomvf)
