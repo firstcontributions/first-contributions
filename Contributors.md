@@ -26,6 +26,7 @@
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
 - [Amanda Rodger](https:;//github.com/AARodgers)
+- [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
