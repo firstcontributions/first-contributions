@@ -6559,6 +6559,7 @@ Stephan Sharpe
 - [Jacob Robinson](https://github.com/JR0210)
 - [Melis](https://github.com/melisdogan)
 - [Aidan Kelly](https://github.com/aidan-kelly)
+- [Elmer Galo](https://github.com/galoelmer)
 - [Aananya](https://github.com/aananya27)
 - [Jared White](https://github.com/JaredWhiteOne)
 - [Imaduddin A Majid](https://github.com/ImaduddinAMajid)
