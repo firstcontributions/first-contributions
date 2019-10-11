@@ -133,6 +133,7 @@
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Nguyen Phu](https://github.com/vonguyenphu)
 - [Si Lam](https://github.com/silam)
+- [Supriyanta Poddar](https://github.com/supriyanta)
 - [Mason Johnson](https://github.com/masonj88)
 - [Aimen Aounallah](https://github.com/Mizou9999)
 - [Aakash Jain](https://github.com/AakashJ2412)
