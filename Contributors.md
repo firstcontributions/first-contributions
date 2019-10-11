@@ -17,6 +17,7 @@
 - [David Victoria](https://github.com/davic64)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
+- [Deep Diwakar](https://github.com/deepdiwakar9)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
