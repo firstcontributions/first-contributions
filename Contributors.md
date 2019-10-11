@@ -66,6 +66,7 @@
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
+- [Anshu Jalan](https://github.com/AnshuJalan)
 - [Itumeleng Masuluke](https://github.com/MasulukeI)
 - [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
