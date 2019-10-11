@@ -121,11 +121,4 @@ Ara anem a preparar-nos per a contribuir a altres projectes. Hem reunit una llis
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Auto promoció
 
-Si us ha agradat aquest projecte, marqueu-lo com a favorit amb una estrella a [GitHub](https://github.com/Roshanjossey/first-contributions).
-Si us sentiu especialment agraïts, seguiu en [Roshan](https://roshanjossey.github.io/) a
-[Twitter](https://twitter.com/sudo__bangbang) i
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
