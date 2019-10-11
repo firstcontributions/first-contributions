@@ -12210,6 +12210,7 @@ Stephan Sharpe
 - [Darlene Decena](https://github.com/dardecena)
 - [Jake Crawford](https://github.com.jcrawford812)
 - [Emil Merle](https://github.com/emilmerle)
+- [Finn Kranzosch](https://github.com/FinnKr)
 - [Micah Workman](https://github.com/nidoprince)
 - [Avishai Cohen](https://github.com/avirbig)
 - [Marc Cooperstein](https://github.com/mcooperstein)
