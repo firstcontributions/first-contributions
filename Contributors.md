@@ -49,6 +49,7 @@
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
 - [Arjun Vijaykumar]
+- [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
 - [Keerti Bajaj](https://github.com/keertibajaj)
 - [Rohit Geddam](https://github.com/rohitgeddam)
