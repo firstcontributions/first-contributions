@@ -49,6 +49,7 @@
 - [Siddharth Panda](https://github.com/Sidray-Infinity)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Habib Sogbesan](https://github.com/hmoskva)
+- [Manish Kumar](https://github.com/RManish76)
 - [Jack Sears](https://github.com/ItsKelo)
 - [Nayalash Mohammad](https://github.com/Nayalash)
 -[Jay Dulera](https://github.com/jaydulera)
