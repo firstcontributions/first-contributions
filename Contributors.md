@@ -8126,6 +8126,7 @@ Stephan Sharpe
 - [Leticia Valderas](https://github.com/monaLeti)
 - [Justin Kim](https://github.com/justinkimsgithub)
 - [Amar Yadav](https://github.com/amar-yadav)
+- [Aimee Nogoy](https://github.com/akn264)
 - [Jimmy Mannan](https://github.com/jiimms)
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
