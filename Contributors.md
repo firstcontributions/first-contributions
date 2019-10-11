@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [khelalfa rabeh](https://github.com/khelalfa-rabeh96)
+- [Anurag Muayra](https://github.com/anuragmaurya)
 - [modified by bin-w](https://github.com/Tiptiks)
 - [Coding With E](https://github.com/codingwithe)
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
