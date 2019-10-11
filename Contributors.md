@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
@@ -17365,4 +17365,5 @@ rehan
 - [Griselda Gonzalez](https://github.com/griseldaega)
 - [Matthew Delaney](https://github.com/mldelaney94)
 - [Renz Christen Yeomer A. Pagulayan](https://github.com/larongbingo)
+- [Rooparsh Kalia](https://github.com/rooparsh)
 - [Rifky Ari Yunanto](https://github.com/rifkyariy)
