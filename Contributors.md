@@ -15,6 +15,7 @@
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
+- [InstaKarma](https://github.com/InstaKarma4)
 - [Shekhar Shukla]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
