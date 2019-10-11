@@ -2,10 +2,10 @@
 
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
-- [Natalia Favareto](https://github.com/nfavareto) 
+- [Natalia Favareto](https://github.com/nfavareto)
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
-- [Catherine O'Hara](https://github.com/catherine-o) 
+- [Catherine O'Hara](https://github.com/catherine-o)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
@@ -174,7 +174,7 @@
 - [Sukrit Walia](https://github.com/wukrit)
 - [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Abey Hurtis](https://github.com/Abey12525)
-- [Daniel Yuki](https://github.com/DanielYuki) 
+- [Daniel Yuki](https://github.com/DanielYuki)
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Molntussen] (https://github.com/Molntussen)
 - [Tezan Sahu](https://tezansahu.github.io)
@@ -1108,6 +1108,7 @@ Nishtha3512
 - [Md Sohail] (https://github.com/talk2sohail)
 - Sahil Desai (https://github.com/SDesai71)
 - Sam DC
+- Soumaya Ranjan (https://github.com/bojack-horseman)
 - Aditya Mohan
 - [Lam Nguyen](https://github.com/Lm-ngyn)
 - Frank Savino
