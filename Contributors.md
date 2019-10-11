@@ -24,6 +24,7 @@
 - [Garima Mann](https://github.com/garimamann)
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
+- [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
