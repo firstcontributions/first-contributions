@@ -346,8 +346,10 @@
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
+- [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
+- [Manish Tomar](https://github.com/manishtomar1) 
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Saurabh Singh Gautam]
@@ -389,6 +391,8 @@
 - [Starlord newbie] (https://github.com/instinxt)
 - [Andre Guimaraes] (http://github.com/Fuedy
 - [Sergei Nevstruev]
+- [Anastasis Grammenos](https://github.com/angrammenos97)
+- [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Amandeep Rikhi] (https://github.com/amandeeprikhi) (https://amandeeprikhi.me/)
 - [Shakeel risu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
@@ -495,8 +499,9 @@
 - [Xiao W](https://github.com/fwinac)
 - [Keir](https://github.com/Keirxyz)
 - [SaurabhChugh]
--[Raghavi]
--[MartinC](https://github.com/TheMartinCrabtree)
+- [Raghavi]
+- [Raghavi]
+- [MartinC](https://github.com/TheMartinCrabtree)
 - [Sanjeev Penupala](https://github.com/spenpal2000)
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [tusnolobov](https://github.com/tusnolobov)
