@@ -40,6 +40,7 @@
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
 - [Roberta P](https://github.com/MadamaMktg)
 - [Ajriel Rizqy Maulana]
+- [Desire Lumene](https://github.com/Desire01)
 - [Antonino Cangialosi](https://github.com/ninoCan)
 - [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
