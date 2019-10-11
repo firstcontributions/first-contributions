@@ -15,6 +15,7 @@
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Shekhar Shukla]
+- [Amanda Rodger](https:;//github.com/AARodgers)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
