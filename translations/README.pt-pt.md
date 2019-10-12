@@ -104,13 +104,3 @@ Aqui estão alguns repositórios com Issues a nível de principiante em que tu p
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-
-## Auto-promoção
-
-Se gostaste deste projecto, carrega na star em [GitHub](https://github.com/Roshanjossey/first-contributions).
-
-Se estiveres a sentir-te generoso(a), porque não seguir [Roshan](https://roshanjossey.github.io/) no
-[Twitter](https://twitter.com/sudo__bangbang) e
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
