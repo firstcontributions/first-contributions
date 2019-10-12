@@ -1,4 +1,5 @@
 # Contributors
+- [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
