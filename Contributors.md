@@ -82,6 +82,7 @@
 - [Roberta P](https://github.com/MadamaMktg)
 - [Ajriel Rizqy Maulana]
 - [Desire Lumene](https://github.com/Desire01)
+- [Jakub Drzyzga](https://github.com/JDrzyzga)
 - [Antonino Cangialosi](https://github.com/ninoCan)
 - [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
