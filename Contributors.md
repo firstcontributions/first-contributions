@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
