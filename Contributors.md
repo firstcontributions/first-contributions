@@ -431,6 +431,7 @@ Renjith Joseph
 - [Shakeel risu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern](https://github.com/Habernet)
+- [Dede Chandra](https://github.com/dedechandran)
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Bedant]
