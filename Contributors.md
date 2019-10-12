@@ -17477,6 +17477,7 @@ rehan
 - [Rifky Ari Yunanto](https://github.com/rifkyariy)
 - [Reffan Pandu A](https://github.com/reffanpandu)
 - [Muhammad Jafar](https://github.com/mhmmdjafarg)
+- [Hanami Masuda](https://github.com/HanamiM)
 - [Rooparsh Kalia](https://github.com/rooparsh)
 - [Rifky Ari Yunanto](https://github.com/rifkyariy)
 - [Cheng Li](https://github.com/azaleax)
