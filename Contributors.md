@@ -3,6 +3,7 @@
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [Bubu 🚀](https://github.com/BubuDavid)
+- [Jitendra](https://github.com/jitusd9)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
