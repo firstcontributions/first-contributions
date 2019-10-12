@@ -180,11 +180,3 @@ Sasa hebu tuanze uanze na kuchangia kwenye miradi mingine. Tumeandika orodha ya 
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Kukuza Mwenyewe
-
-Ikiwa ulipenda mradi huu, nyota kwenye [GitHub](https://github.com/Roshanjossey/first-contributions).
-Ikiwa unasikia hasa zawadi, fuata [Roshan](https://roshanjossey.github.io/) kwenye
-[Twitter](https://twitter.com/sudo__bangbang) na
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
