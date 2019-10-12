@@ -150,6 +150,7 @@ Renjith Joseph
 - [daveedavee]
 - [david c]
 - [Jon Zivku](https://github.com/jonzivku)
+- [Micah Chiang](https://github.com/micahchiang)
 - [ChiLau]
 - [girOly](https://github.com/girOly)
 - [Charles King](https://github.com/charlesdking)
