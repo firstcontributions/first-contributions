@@ -144,9 +144,3 @@ Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan dafta
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Promosi
-
-Jika anda menyukai proyek ini, bintangi di [GitHub](https://github.com/Roshanjossey/first-contributions).
-Jika anda orang yang gemar bersosial, ikuti [Roshan](https://roshanjossey.github.io/) di
-[Twitter](https://twitter.com/sudo__bangbang) dan
-[GitHub](https://github.com/roshanjossey).
