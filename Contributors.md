@@ -17499,4 +17499,5 @@ rehan
 - [gian tyo](https://github.com/giantyo)
 - [Chance Hope] (https://github.com/socal434)
 - [mij-f] (https://github.com/mij-f)
+- [Rofi Nata 🚀🚀🚀](https://github.com/quartz510)
 
