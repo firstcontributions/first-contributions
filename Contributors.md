@@ -19,6 +19,7 @@
 - [Hal Klein](https://github.com/halklein)
 - [Jaskaran Singh]
 - [Catherine O'Hara](https://github.com/catherine-o)
+- [Akanksha Jai](https://github.com/akankshajai)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Sagar Yadav](https://github.com/itsnotsagar)
