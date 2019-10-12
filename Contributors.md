@@ -3844,6 +3844,7 @@ Stephan Sharpe
 - Astitva
 - [Maneth Kulatunge](https://github.com/manethkulatunge)
 - [James Booker](https://github.com/jamesbooker)
+- [Walter Levan](https://github.com/wjlevan)
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Gavriel Loria](https://github.com/gavrieltal)
 - John Kazantzis
