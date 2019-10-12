@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Cena Mayo](https://github.com/cena)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
@@ -13430,6 +13430,7 @@ Stephan Sharpe
 - [Koder Mustafa](https://github.com/KoderTheCoder)
 - [Amine Troudi](https://github.com/protoxy)
 - [Garrison Siberry](https://github.com/Garrison88)
+- [Shruti Jha](https://github.com/ShrutiJha331)
 - [JeffyJS](https://github.com/jeffyjs)
 - [Garen C](http://github.com/88gaz88)
 - [Imtiyaz](https://github.com/ahmedmi9)
