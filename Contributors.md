@@ -5342,6 +5342,7 @@ Stephan Sharpe
 - [gcstang](https://github.com/gcstang)
 - [Ashish](https://github.com/UchihaItachi883)
 - Rohit Kashyap
+- [Thewires2](https://github.com/thewires2)
 - [Peter Maryniak](https://github.com/PMaryniak)
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
