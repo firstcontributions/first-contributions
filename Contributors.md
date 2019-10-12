@@ -97,6 +97,7 @@
 - [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
 - [Devan Moses](https://github.com/mosesds)
+- [Shira Haddad](https://github.com/shirahaddad)
 - [Aayush Kumar(https://github.com/aayushakumar)
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
