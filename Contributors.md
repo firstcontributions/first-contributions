@@ -113,6 +113,7 @@ Renjith Joseph
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Nick Vashon](https://gitbub.com/nvashon)
+- [Jayant Khandelwal](https://github.com/Jackent2B)
 - [Anshu Jalan](https://github.com/AnshuJalan)
 - [Itumeleng Masuluke](https://github.com/MasulukeI)
 - [ECP] (https://github.com/love-and-logic)
