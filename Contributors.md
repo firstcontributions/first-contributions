@@ -1,4 +1,5 @@
 # Contributors
+- [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
