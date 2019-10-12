@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Yasmin Braga] (https://github.com/yasminbraga)
 - [Cena Mayo](https://github.com/cena)
 - [Colin McDonald](https://github.com/cmac253)
 - [Bubu 🚀](https://github.com/BubuDavid)
