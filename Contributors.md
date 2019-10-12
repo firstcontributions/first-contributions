@@ -132,6 +132,7 @@ Renjith Joseph
 - [Jon Zivku](https://github.com/jonzivku)
 - [ChiLau]
 - [girOly](https://github.com/girOly)
+- [Charles King](https://github.com/charlesdking)
 - [Klaudijus Rulys](https://github.com/krulys)
 - [Alison Melendez](https://github.com/alisonmelendez)
 - [Laise Aquino](https://github.com/laiseaquino)
