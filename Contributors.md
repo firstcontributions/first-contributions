@@ -1579,6 +1579,7 @@ Nishtha3512
 - [Ash Abrahamson](https://github.com/JuicySun99)
 - [Aleks](https://github.com/Proktophantasmist)
 - [Dante](https://github.com/dantedallag)
+- [Dallas Goldswain](https://github.com/dallasgoldswain)
 - [Alex Herdzik] (https://github.com/aherdzik)
 - [Colin Anderson](https://github.com/40216006)
 - [Shirish Nigam](https://github.com/techlab23)
