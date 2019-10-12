@@ -25,6 +25,7 @@
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Hal Klein](https://github.com/halklein)
+- [Ankush Sharma](https://github.com/ScorchingShade)
 - [Jaskaran Singh]
 - Jerryco Alaba
 - [Nathaniel Graham](https://github.com/ngraham20)
