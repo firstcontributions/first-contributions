@@ -1,4 +1,6 @@
 ﻿# Contributors
+
+- [Scotty Skidmore](https://github.com/scottyskid)
 - [Cena Mayo](https://github.com/cena)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
