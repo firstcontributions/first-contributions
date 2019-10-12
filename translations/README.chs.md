@@ -1,15 +1,13 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 
 # 第一次参与开源
 
 万事起头难。特别是和其他人合作时，犯错格外令人不舒服。不过，开源的本质就是和其他人合作。我们希望为初学者带来一个简单的方法去学习及参与开源项目。
 
 阅读文章和观看教程会有所帮助。不过，有什么方法能比实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
-
-#### *此文档的 [其他语种](../Translations.md).*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -64,6 +62,9 @@ git checkout -b add-myname
 ## 对代码进行修改，而後 Commit (提交) 修改
 
 打开 `Contributors.md` 这个文件，更新文件内容，将你的名字加上去，保存修改。`git status` 这命令会列出被改动的文件。接着 `git add` 这命令则可以添加你的改动，就像如下这条命令。
+
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
 ```
 git add Contributors.md
 ```
@@ -100,21 +101,13 @@ git push origin <分支的名称>
 
 为你第一次的贡献庆祝吧，不要忘记和你的朋友以及迷弟迷妹们分享我们的[网站](https://roshanjossey.github.io/first-contributions/#social-share)哟！
 
-如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://firstcontributions.herokuapp.com)！
+如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)！
 
 还等什么，马上加入到其他项目的开发中去吧。为了方便你快速上手，我们收集了当前流行的众多代码仓库中，适合初学者解决的[问题列表](https://roshanjossey.github.io/first-contributions/#project-list)。
 
 ## 使用其他工具的教程
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="../github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>
+|---|---|---|---|
+|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-## 原作者自身推广
-
-如果你喜欢这个项目， 请给这个 [GitHub](https://github.com/Roshanjossey/first-contributions)点星星 ⭐️.
-如果你感觉今天心情好，适合做慈善, 可以 follow [Roshan](https://roshanjossey.github.io/) 的
-[Twitter](https://twitter.com/sudo__bangbang) 和
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

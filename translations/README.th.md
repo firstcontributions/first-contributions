@@ -1,19 +1,19 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# "Contribute" ผลงานใน GitHub กับผู้อื่นครั้งแรกใช่ไหม?
+# "Contribute" ผลงานใน GitHub กับผู้อื่นเป็นครั้งแรกใช่ไหม?
 
-มันเป็นเรื่องยาก, ครั้งแรกของทุกอย่างมันมักจะยากเสมอ โดยเฉพาะการทำงานร่วมกับผู้อื่น เมื่อเราทำอะไรผิดพลาดเรามักรู้สึกไม่สบายใจ แต่โอเพนซอร์ส (open source) คือโลกของการทำงานร่วมกัน! เราจึงอยากให้ผู้ที่เข้ามาใหม่ได้เรียนรู้วิธีการ "คอนทริบิ้วต์" ผลงานร่วมกับผู้อื่นใน GitHub แบบง่ายๆ
+มันเป็นเรื่องยาก, ครั้งแรกของทุกอย่างมันมักจะยากเสมอแหละ โดยเฉพาะการทำงานร่วมกับผู้อื่น เมื่อเราทำอะไรผิดพลาดเรามักจะรู้สึกไม่สบายใจ แต่โอเพนซอร์ส (open source) คือโลกของการทำงานร่วมกัน ! เราจึงอยากให้ผู้ที่เข้ามาใหม่ได้เรียนรู้วิธีการ "คอนทริบิ้วต์" ผลงานร่วมกับผู้อื่นใน GitHub แบบง่าย ๆ
 
-การอ่านบทความและการทำตามตัวอย่างต่างๆ ก็อาจช่วยได้ แต่จะมีอะไรดีไปกว่าการที่เราได้ลงมือทำสิ่งนั้นๆ ด้วยตัวเองล่ะ! โปรเจ็คนี้จะสอนให้มือใหม่ส่ง "คอนทริบิ้วชั่นครั้งแรก" ได้อย่างง่ายๆ
+การอ่านบทความและการทำตามตัวอย่างต่าง ๆ ก็อาจจะช่วยได้  แต่จะมีอะไรดีไปกว่าการที่เราได้ลงมือทำสิ่งนั้น ๆ ด้วยตัวเองล่ะ ! โปรเจ็คนี้จะสอนให้มือใหม่ส่ง "คอนทริบิ้วชั่นครั้งแรก" ได้อย่างง่าย ๆ
 
-จำเอาไว้ว่า: ทำใจให้สบาย ยิ่งคุณผ่อนคลายมากเท่าไหร่ คุณก็ยิ่งเรียนรู้ได้ดีมากขึ้นเท่านั้น!
+จำเอาไว้ว่า: ทำใจให้สบาย ยิ่งคุณผ่อนคลายมากเท่าไหร่ คุณก็ยิ่งเรียนรู้ได้ดีมากขึ้นเท่านั้น !
 
-ถ้าคุณอยากร่วมส่งคอนทริบิ้วชั่นครั้งแรกของคุณ เพียงแค่ทำตามขั้นตอนง่ายๆด้านล่าง เราบอกเลยว่า มันจะสนุกแน่นอน
+ถ้าคุณอยากร่วมส่งคอนทริบิ้วชั่นครั้งแรกของคุณ เพียงแค่ทำตามขั้นตอนง่าย ๆ ด้านล่าง เราบอกเลยว่า มันจะสนุกแน่นอน
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
-
-#### *อ่านบทความนี้ใน[ภาษาอื่นๆ](../Translations.md)*
 
 ถ้าหากคุณยังไม่ได้ติดตั้ง git ลงบนเครื่องของคุณ คุณสามารถ[ติดตั้งได้ที่นี่]( https://help.github.com/articles/set-up-git/ )
 
@@ -34,7 +34,7 @@
 ```
 git clone "url ที่คัดลอกไว้"
 ```
-"url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีคัดลอก url ได้จากหัวข้อก่อนหน้านี้
+"url ที่คัดลอกไว้" (ไม่ต้องใส่ " ") คือ url ของโปรเจ็คของคุณ คุณสามารถเลื่อนกลับไปดูวิธีการคัดลอก url ได้จากหัวข้อก่อนหน้านี้
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -66,18 +66,20 @@ git checkout -b add-alonzo-church
 
 ตอนนี้ให้เปิดไฟล์ `Contributors.md` ในโปรแกรม text editor เพิ่มชื่อของคุณลงไป จากนั้นเซฟไฟล์
 
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
+
 ในโปรแกรมเทอร์มินอล ถ้าคุณอยู่ที่ directory ของโปรเจ็ค ให้ลองพิมพ์คำสั่ง `git status` จะเห็นว่าคุณได้ทำการเปลี่ยนอะไรไปบ้าง
 
-เพิ่มการเปลี่ยนแปลงนั้นๆเข้าไปใน branch ที่เพิ่งสร้าง ด้วยคำสั่ง `git add`:
+เพิ่มการเปลี่ยนแปลงนั้น ๆ เข้าไปใน branch ที่เพิ่งสร้าง ด้วยคำสั่ง `git add`:
 ```
 git add Contributors.md
 ```
 
-ตอนนี้ "Commit" การเปลี่ยนแปลงนั้นๆ ด้วยคำสั่ง `git commit`:
+ตอนนี้ "Commit" การเปลี่ยนแปลงนั้น ๆ ด้วยคำสั่ง `git commit`:
 ```
 git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
-แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริงๆของคุณ.
+แทนที่ `<ชื่อของคุณ>` ด้วยชื่อจริง ๆ ของคุณ.
 
 ## "Push" โค้ดที่เปลี่ยนไปขึ้นบน GitHub
 
@@ -85,7 +87,7 @@ git commit -m "Add <ชื่อของคุณ> to Contributors list"
 ```
 git push origin <ชื่อ branch ของคุณ>
 ```
-แทนที่ `<ชื่อ branch ของคุณ>` ด้วยชื่อของ branch ของคุณที่เพิ่งสร้างไปเมื่อหัวข้อที่แล้วๆ (add-ชื่อ-ของ-คุณ)
+แทนที่ `<ชื่อ branch ของคุณ>` ด้วยชื่อของ branch ของคุณที่เพิ่งสร้างไปเมื่อหัวข้อที่แล้ว ๆ (add-ชื่อ-ของ-คุณ)
 
 ## ส่งผลงานของคุณและรอรีวิวจากเจ้าของโปรเจ็ค
 
@@ -100,24 +102,18 @@ git push origin <ชื่อ branch ของคุณ>
 แล้วเดี๋ยวเราจะ "Merge" หรือรวมผลงานที่คุณได้เปลี่ยนแปลงโค้ดมาที่ master branch ของโปรเจ็คนี้ คุณจะได้รับอีเมลล์ เมื่อเราได้ทำการ Merge ผลงานของคุณเรียบร้อยแล้ว
 
 ## ไปไหนต่อดีหลังจากนี้?
+ยินดีด้วย คุณเพิ่งทำวัฏจักรพื้นฐานของการทำ contribute คือ fork -> clone -> edit -> pull request ซึ่งสิ่งเหล่านี้คุณจะพบเจอเป็นปกติเมื่อเป็น contributor
+ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อน ๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
 
-ฉลองการมีส่วนร่วมของคุณ จากนั้นก็แบ่งปันให้เพื่อนๆ ได้ทราบ โดยการไปที่ [หน้าเว็บนี้](https://roshanjossey.github.io/first-contributions/#social-share)
+หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใด ๆ [เข้าร่วม slack กับเรา](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
-หรือจะมาร่วมสนทนากับเราผ่าน Slack ในกรณีที่คุณต้องการความช่วยเหลือ หรือมีข้อสงสัยใดๆ [เข้าร่วม slack กับเรา](https://firstcontributions.herokuapp.com)
+จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่น ๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
 
-จากนี้คุณสามารถคอนทริบิ้วต์ให้กับโครงการอื่นๆ ได้ โดยเราได้สร้างรายการบางส่วน เพื่อให้ง่ายต่อการเริ่มต้น [รายชื่อโครงการที่น่าสนใจ](https://roshanjossey.github.io/first-contributions/#project-list)
+### [ข้อมูลอื่น ๆ เพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
 
-### [ข้อมูลอื่นๆเพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
-
-## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่นๆ
+## ฝึกการคอนทริบิ้วต์โดยใช้เครื่องมืออื่น ๆ
 
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-
-## โปรโมทตัวเองสักหน่อย
-
-หากคุณชอบโครงการนี้ สามารถกดดาวไว้บน [GitHub](https://github.com/Roshanjossey/first-contributions) ได้ หรือหากรู้สึกดีเป็นพิเศษสามารถติดตาม [Roshan](https://roshanjossey.github.io/) บน
-[Twitter](https://twitter.com/sudo__bangbang) และ
-[GitHub](https://github.com/roshanjossey) ได้

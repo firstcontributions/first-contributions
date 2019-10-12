@@ -1,5 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Primeiras Contribuições
 
@@ -89,7 +91,7 @@ Logo estarei a incorporar as tuas mudanças no Branch principal (master) deste p
 
 Celebra as tuas contribuições e partilha-as com amigos e seguidores através da [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
- Podes também juntar-te à nossa equipa no Slack caso precises de alguma ajuda ou tenhas alguma dúvida. [Junta-te à nossa equipa no Slack](https://firstcontributions.herokuapp.com).
+ Podes também juntar-te à nossa equipa no Slack caso precises de alguma ajuda ou tenhas alguma dúvida. [Junta-te à nossa equipa no Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Aqui estão alguns repositórios com Issues a nível de principiante em que tu podes ajudar a resolver. Vai em frente e clica nos repositórios para saber mais.
 
@@ -98,15 +100,7 @@ Aqui estão alguns repositórios com Issues a nível de principiante em que tu p
 ## Tutoriais com outras ferramentas
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/vslogo.png" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-
-## Auto-promoção
-
-Se gostaste deste projecto, carrega na star em [GitHub](https://github.com/Roshanjossey/first-contributions).
-
-Se estiveres a sentir-te generoso(a), porque não seguir [Roshan](https://roshanjossey.github.io/) no
-[Twitter](https://twitter.com/sudo__bangbang) e
-[GitHub](https://github.com/roshanjossey).
