@@ -3172,6 +3172,7 @@ Stephan Sharpe
 - Boone Chen
 - [Karin Povolozki-Rabichev](https://github.com/KarinPR)
 - Alexis Dalforno
+- Michelle "Mitch" Estanol https://github.com/mitcheesta
 - [Jake S.](https://github.com/GideonWasHere)
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
