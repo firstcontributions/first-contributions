@@ -4441,6 +4441,7 @@ Stephan Sharpe
 - [Bhavy](https://github.com/bhavy007)
 - [Furkan Doğu](https://github.com/furkanDogu)
 - [Mahesh Jaganiya](https://github.com/jagzmz)
+- [takakd](https://github.com/takakd)
 - [Mukti Dwi Jatmoko](https://github.com/muktidj)
 - Mylonio
 - [Vedarth](https://github.com/Vedarth)
