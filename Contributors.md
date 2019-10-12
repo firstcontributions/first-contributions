@@ -24,6 +24,7 @@
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Hal Klein](https://github.com/halklein)
 - [Jaskaran Singh]
+- Jerryco Alaba
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
