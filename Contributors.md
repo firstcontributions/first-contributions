@@ -35,7 +35,7 @@
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
-- [Maike Fischer] 
+- [Maike Fischer]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
@@ -142,7 +142,7 @@ Renjith Joseph
 - [Renan Gurgel](https://github.com/gurgelrenan)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
-- [Ankit Sharma](https://github.com/steveAnkit) 
+- [Ankit Sharma](https://github.com/steveAnkit)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
@@ -384,7 +384,7 @@ Renjith Joseph
 - [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
-- [Manish Tomar](https://github.com/manishtomar1) 
+- [Manish Tomar](https://github.com/manishtomar1)
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Konstantin Aschbacher](https://github.com/KonstiBPC)
@@ -1239,6 +1239,7 @@ Nishtha3512
 - [Daniel Coker](https://github.com/danielcoker)
 - [Kamryn Phillips](https://github.com/HawtSawse)
 - [Daisy Macharia](https://github.com/daisymacharia)
+- [Holy Tran] (https://github.com/holytran)   
 - [Colin Alexander](https://github.com/colinhalexander)
 - [Arina Victor](https://github.com/arinavictor)
 - Ian
@@ -17476,4 +17477,3 @@ rehan
 - [EarlofSquirrel] (https://github.com/EarlofSquirrel)
 - [Danut Matei] (https://github.com/mateidanut)
 - [gian tyo](https://github.com/giantyo)
-
