@@ -39,6 +39,7 @@
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
+- [Megha K C](https://github.com/Megha-KC)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Denni Bevilacqua](https://github.com/dennib)
