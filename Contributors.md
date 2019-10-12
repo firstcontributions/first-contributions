@@ -38,6 +38,7 @@
 - [Vipul Goyal](https://github.com/vips28)
 - [Christabel Khumalo] (https://github.com/Aurorabell)
 - [Deep Diwakar](https://github.com/deepdiwakar9)
+  [Michael Staubach] (https://github.com/mstaubach)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Bill Kao](https://github.com/billkao1013)
@@ -50,6 +51,7 @@
 - [Shekhar Shukla]
 - [Maike Fischer]
 - [Yash Jaiswal] 
+
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
