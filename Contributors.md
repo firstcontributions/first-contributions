@@ -384,6 +384,7 @@ Renjith Joseph
 - [Rishad] (https://github.com/EvolOfThings)
 - [Vinod Sharma] (https://github.com/thesaadpatel)
 - [Meghan Blankenship]
+- [barry che]
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
