@@ -15518,7 +15518,6 @@ Stephan Sharpe
 - [Thanos Tsiro](https://github.com/TsiroJohn)
 - [MELLISdesigns](https://github.com/mellisdesigns)
 - [MUHAMMAD ADNAN](https://github.com/adnanpak)
-- [gian tyo](https://github.com/giantyo)
 - [Kiki Karypidou](https://github.com/kirki333)
 - [M. Mursaleen](https://github.com/mmursaleen)
 - [Bryan L](https://github.com/bdlb77)
@@ -17471,3 +17470,5 @@ rehan
 - [Raghu Kamat(RK)] (https://github.com/GeniusStorm)
 - [EarlofSquirrel] (https://github.com/EarlofSquirrel)
 - [Danut Matei] (https://github.com/mateidanut)
+- [gian tyo](https://github.com/giantyo)
+
