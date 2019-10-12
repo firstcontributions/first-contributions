@@ -417,6 +417,7 @@ Renjith Joseph
 - [Kalyan Kumar](https://github.com/kalyanstumagz)
 - [Cikareto](https://github.com/cikareto)
 - [Daniel Weiss](https://github.com/dsweiss31)
+- [Kyle McKibben](https://github.com/kylemckibben)
 - [Mark Goe](https://github.com/gitmthx)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Fru Promise][https://github.com/PromiseFru]
