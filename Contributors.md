@@ -17,6 +17,7 @@
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Hal Klein](https://github.com/halklein)
+- [Jaskaran Singh]
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
