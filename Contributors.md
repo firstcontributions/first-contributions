@@ -121,6 +121,7 @@ Renjith Joseph
 - [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
 - [Damian Zhang](https://github.com/Damian3930)
+- [Parul Parikh](https://github.com/ParulParikh3)
 - [Ji Kang](https://github.com/KangJay)
 [Prachi Sarda] (https://github.com/PrachiSarda)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
