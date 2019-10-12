@@ -27,6 +27,7 @@
 - [Hal Klein](https://github.com/halklein)
 - [Jaskaran Singh]
 - Jerryco Alaba
+- [Nathaniel Graham](https://github.com/ngraham20)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
