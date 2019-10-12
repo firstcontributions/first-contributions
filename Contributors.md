@@ -40,7 +40,7 @@
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
 - [Maike Fischer]
-- [Yash Jaiswal] 
+- [Yash Jaiswal]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
@@ -148,7 +148,7 @@ Renjith Joseph
 - [Renan Gurgel](https://github.com/gurgelrenan)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
-- [Ankit Sharma](https://github.com/steveAnkit) 
+- [Ankit Sharma](https://github.com/steveAnkit)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
@@ -390,7 +390,7 @@ Renjith Joseph
 - [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
-- [Manish Tomar](https://github.com/manishtomar1) 
+- [Manish Tomar](https://github.com/manishtomar1)
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Konstantin Aschbacher](https://github.com/KonstiBPC)
@@ -1203,6 +1203,7 @@ Nishtha3512
 - Daniel Harit (https://github.com/DanielHar)
 - Anurag Lal
 - Ritvi
+- [Jon Moon] (https://github.com/jonmoon74)
 - [Andrew Fiorentino] (https://github.com/afiorentino/)
 - Lee
 -sethwh
@@ -17486,4 +17487,3 @@ rehan
 - [Danut Matei] (https://github.com/mateidanut)
 - [gian tyo](https://github.com/giantyo)
 - [Chance Hope] (https://github.com/socal434)
-
