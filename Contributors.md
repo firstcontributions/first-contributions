@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
@@ -9,6 +8,7 @@
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
+- [Syauqy Aziz](https://github.com/syauqy)
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
