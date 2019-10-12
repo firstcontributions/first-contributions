@@ -274,6 +274,7 @@ Renjith Joseph
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Aravind](https://github.com/Aravind22)
 - [Manon-B](https://github.com/Manon-B)
+- [Jonathan Levaillant](https://github.com/jonathanlevaillant)
 - [LWY](https://github.com/SFMDI)
 - [Maxence Wilmes] (https://github.com/Toorain)
 - [Aakash](https://github.com/Aakash-AA)
