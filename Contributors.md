@@ -1,5 +1,6 @@
 ﻿# Contributors
--[Abraham William S](https://github.com/abrahamwilliam)
+- [Abraham William S](https://github.com/abrahamwilliam)
+- [Xin Duong](https://github.com/XinDuong)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
@@ -50,7 +51,7 @@
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
 - [Maike Fischer]
-- [Yash Jaiswal] 
+- [Yash Jaiswal]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
@@ -164,7 +165,7 @@ Renjith Joseph
 - [Malte Hermann](https://github.com/Pfonks)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
-- [Ankit Sharma](https://github.com/steveAnkit) 
+- [Ankit Sharma](https://github.com/steveAnkit)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
@@ -408,7 +409,7 @@ Renjith Joseph
 - [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
-- [Manish Tomar](https://github.com/manishtomar1) 
+- [Manish Tomar](https://github.com/manishtomar1)
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Konstantin Aschbacher](https://github.com/KonstiBPC)
@@ -17514,4 +17515,3 @@ rehan
 - [Chance Hope] (https://github.com/socal434)
 - [mij-f] (https://github.com/mij-f)
 - [Rofi Nata 🚀🚀🚀](https://github.com/quartz510)
-
