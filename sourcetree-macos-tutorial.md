@@ -9,9 +9,9 @@
 |<img alt="SourceTree" src="/assets/sourcetree-logo.png" width="200">|Atlassian Sourcetree|
 |---|---|
 
-It's hard. It's always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It is hard. It is always hard, when you do something for the first time. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration and working together. We wanted to simplify the way new open-source contributors learn and contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles and watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance amd simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 
 ## Sourcetree
@@ -113,7 +113,7 @@ Now you are ready to push your changes to github. This will be pushing it to you
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. Click on that button.
+If you go to your repository on github, you'll see  `Compare and pull request` button. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
