@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Abraham William S](https://github.com/abrahamwilliam)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
@@ -8898,6 +8898,7 @@ Stephan Sharpe
 - [Claire Russell](https://github.com/clairefied)
 - [Varsha-Vasudevan](https://github.com/Varsha-Vasudevan)
 - [airbnben](https://github.com/airbnben)
+- [sleaper](https://github.com/sleaper)
 - [qsunnx](https://github.com/qsunnx)
 - [Jose Urdaneta](https://github.com/urdaneta88)
 - [Niharika Shrivastava](https://github.com/orionstar25)
