@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
@@ -17485,4 +17485,5 @@ rehan
 - [EarlofSquirrel] (https://github.com/EarlofSquirrel)
 - [Danut Matei] (https://github.com/mateidanut)
 - [gian tyo](https://github.com/giantyo)
+- [Chance Hope] (https://github.com/socal434)
 
