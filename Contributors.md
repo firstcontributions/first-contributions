@@ -17,6 +17,7 @@
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
+- [Ashish Bhusal](https://github.com/bhusalashish)
 - [Arushi Jain](https://github.com/arushi-16)
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
