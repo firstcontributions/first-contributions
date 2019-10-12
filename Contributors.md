@@ -18,6 +18,7 @@
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
+- [Sagar Yadav](https://github.com/itsnotsagar)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
 - [David Victoria](https://github.com/davic64)
