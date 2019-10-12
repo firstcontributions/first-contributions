@@ -603,6 +603,7 @@ Renjith Joseph
 - [Natasha]
 - [Ndirangu]
 - [Cenoon](https://github.com/cenoon/)
+- [Prateek Aggarwal](https://github.com/Prat99)
 - [Jim Walker](https://github.com/jimwalker)
 - [Chad Sisk](https://github.com/chadwyck242)
 - [Arpit](https://github.com/maiarpitjain)
