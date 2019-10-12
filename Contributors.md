@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Sagar Pardhi](https://github.com/sagar-pardhi)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Daniel Yuki](https://github.com/DanielYuki) 
 - [Anjali Aggarwal](https://github.com/anjaliaga)
