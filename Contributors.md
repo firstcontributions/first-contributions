@@ -8,6 +8,7 @@
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [Bubu 🚀](https://github.com/BubuDavid)
+- [Carlos Estrella](https://github.com/cestrell)
 - [Jitendra](https://github.com/jitusd9)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Masoomi](https://github.com/mashsaxena)
