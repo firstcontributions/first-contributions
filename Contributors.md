@@ -28,6 +28,7 @@
 - [Bill Kao](https://github.com/billkao1013)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [Garima Mann](https://github.com/garimamann)
+- [Edmon Garcia](https://github.com/vapx)
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Jerry Benzie](https://github.com/JBenzie)
