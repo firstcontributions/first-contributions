@@ -514,6 +514,7 @@ Renjith Joseph
 - [Rafael Ahrons](https://github.com/luturol)
 - [azamat] (https://github.com/tikenov)
 - [Lav Senghani](https://github.com/lavlife06)
+- [Sahil Manchanda](https://github.com/sahilmanchanda1999)
 - [Tamarantula](https://github.com/tamarantula)
 - [maslankam](https://github.com/maslankam)
 - [Manan Kevadiya] (https://github.com/manan2501)
