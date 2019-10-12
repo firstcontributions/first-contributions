@@ -153,6 +153,7 @@ Renjith Joseph
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Jessica Pope](https://github.com/JdPope)
 - [Renan Gurgel](https://github.com/gurgelrenan)
+- [Malte Hermann](https://github.com/Pfonks)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
 - [Ankit Sharma](https://github.com/steveAnkit) 
