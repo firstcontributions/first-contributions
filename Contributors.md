@@ -25,6 +25,7 @@
 - [Deep Diwakar](https://github.com/deepdiwakar9)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
+- [Bill Kao](https://github.com/billkao1013)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [Garima Mann](https://github.com/garimamann)
 - [lxp](https://github.com/pylxp)
@@ -17434,7 +17435,7 @@ rehan
 - [Carlo Martin] (https://github.com/CarloMtzMartin)
 - [visp] (https://github.com/vismitap)
 - [Fallest] (https://github.com/Fallest)
-- [Diogo Ferreira] (https://github.com/uzantonomon)Â
+- [Diogo Ferreira] (https://github.com/uzantonomon)?
 - [Anirudh Jwala](https://github.com/anirudh-jwala)
 - [Allyssa](https://github.com/allyssapascual)
 - [Gustavo Chavarria](https://github.com/gustavochavarria)
