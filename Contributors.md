@@ -8,6 +8,7 @@
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
 - [Ashish Dukare](https://github.com/ashishdukare)
+- [Shruti Jha](https://github.com/ShrutiJha331)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
 - [Jordan Villanueva](https://github.com/joyous30)
