@@ -1,5 +1,6 @@
 ﻿# Contributors
-
+[Chao Duncan](https://github.com/MCenyuan)
+- [manojranak1](https://github.com/manojranak1)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
