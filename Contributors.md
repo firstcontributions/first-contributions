@@ -13,6 +13,7 @@
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
+- [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
