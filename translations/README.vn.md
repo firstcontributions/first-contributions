@@ -120,6 +120,3 @@ Bạn có thể tham gia slack của chúng tôi trong trường hợp bạn c�
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Quảng cáo
-
-Nếu bạn thích bản dịch này, hãy theo dõi [Tran Ly Vu](https://www.linkedin.com/in/tranlyvu/) trên [Github](https://github.com/tranlyvu) va [Twitter](https://twitter.com/vutransingapore)
