@@ -1551,6 +1551,7 @@ Nishtha3512
 - [Antonio Arroyave](https://github.com/AntonioArroyave)
 - [alli](https://github.com/alli-c)
 - [Victor Tran](https://github.com/tranhducvnn)
+- [Sebastian Munera](https://github.com/sfmunera)
 - [Gerson Santos](https://github.com/GSantos23)
 - [Anthony Pereira](https://github.com/anfornee)
 - [Nope_Hope](https://github.com/AutumnEquinox)
