@@ -17369,6 +17369,7 @@ Mário Baltazar
 - Matheus Azzi
 - Matheus Spaniol
 - Jade Oliveira
+- Seldon
 - [Antônio Ribeiro](https://github.com/antoniorib91)
 - [Noel Lobo](https://github.com/coffeestains)
 - [Piyush Kaushik](https://github.com/KaushikDev)
