@@ -175,6 +175,7 @@ Renjith Joseph
 - [Enrique Galindo] (https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
+- [Anshdeep Singh](https://github.com/ansh94)
 - [daveedavee]
 - [david c]
 - [Jon Zivku](https://github.com/jonzivku)
