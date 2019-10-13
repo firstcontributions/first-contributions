@@ -16,6 +16,7 @@
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
+- [Anthony Vo](https://github.com/anthony-vo)
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
