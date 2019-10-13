@@ -1497,6 +1497,7 @@ Nishtha3512
 - [Mohit Mohan](https://github.com/mohitmo)
 - [Ahmad Shahwaiz](https://github.com/shahwaiz90/)
 - Abhishek Bhandari
+- [Ricky Chhoukdean](https://github.com/rickychhoukdean)
 - [Benjamin Buettner] (https://github.com/B-Benja/)
 - [Aurore Vandroux](https;//github.com/ORORRR)
 - [Brianna McGovern](https://github.com/bmcgovern007)
