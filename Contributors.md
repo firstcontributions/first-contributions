@@ -8,6 +8,7 @@
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
+- [Sourav Jangra](https://github.com/souravjangra)
 - [Harsh Agrawal](https://github.com/harshag1729)
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Carlos Estrella](https://github.com/cestrell)
