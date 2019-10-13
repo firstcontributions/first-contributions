@@ -17572,4 +17572,5 @@ rehan
 - [RIZWAN AHMAD 👨‍💻](https://github.com/rizwansoaib)
 - [Caio Queiroz](https://github.com/caioq)
 - [ops1111](https://github.com/ops1111)
+- [Boris Bovin](https://github.com/TechnoidRus)
 
