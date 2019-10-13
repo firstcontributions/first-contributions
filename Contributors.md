@@ -5983,6 +5983,7 @@ Stephan Sharpe
 - [Scott Poese](https://github.com/spoese)
 - [Mitchell Fontaine](https://github.com/mitchellfontainemn)
 - [Vu Nguyen](https://github.com/vnguyen678)
+- [Diogo Oliveira](https://github.com/djdo)
 - [Saksham Gupta](https://github.com/sakshamgupta1074)
 - [Sarthak Bawal](https://github.com/Sartech-B)
 - [Arshdeep Singh Kawatra](https://github.com/arshdeepsk)
