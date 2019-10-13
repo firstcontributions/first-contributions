@@ -201,6 +201,7 @@ Renjith Joseph
 - [Lindsay Fletcher](https://github.com/Javamazon)
 - [Mario Turco](https://github.com/Turkish0)
 - [Chau Nguyen](https://github.com/VanQuishi)
+- [André Boman](https://github.com/bomsie)
 - [Arman Najafian](https://github.com/Quarkz14)
 - [Kiara Barias](https://github.com/Kbarias)
 - [Pradeep Kumar](https://github.com/pradeep-017)
