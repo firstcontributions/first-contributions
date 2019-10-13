@@ -1413,6 +1413,7 @@ Nishtha3512
 - [Tamarind Stafford](https://github.com/oshadowah)
 - [Almarose Revives](https://github.com/arevives/first-contributions.git)
 - [Aditya Nalge](https://github.com/adityanalge)
+- [Alphonsus Lussing](https://github.com/aflussing)
 - [Max Kenngott](https://github.com/maxKenngott)
 - [Jason Constam](https://github.com/jconstam)
 - [Padman Selvamanickam] (https://github.com/Padman83)
