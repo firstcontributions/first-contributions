@@ -7,6 +7,7 @@
 - [Cena Mayo](https://github.com/cena)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
+Philip Wright
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [Sourav Jangra](https://github.com/souravjangra)
