@@ -266,6 +266,7 @@ Renjith Joseph
 - [Nate Dvorachek](https://github.com/dvo4253)
 - [Sarthak Kundra](https://github.com/sarthakkundra)
 - [Sukrit Walia](https://github.com/wukrit)
+-[adithya61](https://github.com/adithya61)
 - [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Abey Hurtis](https://github.com/Abey12525)
 - [Sankar Ramaswamy](https://github.com/ROCKET19)
