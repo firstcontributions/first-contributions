@@ -36,6 +36,7 @@
 - [Ankush Sharma](https://github.com/ScorchingShade)
 - [Jaskaran Singh]
 - Jerryco Alaba
+- [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
 - [Catherine O'Hara](https://github.com/catherine-o)
