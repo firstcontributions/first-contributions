@@ -307,6 +307,7 @@ Renjith Joseph
 - [Ahmed Omar](https://github.com/ahmedo42)
 - [Eduardo Alano](https://github.com/eduardoalanonh)
 - [David Martin](https://github.com/daviduster)
+- [Janeth Delgado] (https://github.com/jdelgado111)
 - [Nicole Fafard](https://github/nicole919)
 - [Sev Welker](https://github.com/thegreatsevrini)
 - [Naezzin] (https://github.com/naezzin)
