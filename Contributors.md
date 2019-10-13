@@ -220,6 +220,7 @@ Renjith Joseph
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
 - [P4ul](https://github.com/P4ul-J)
+- [Slient](https://github.com/Zison-Yung)
 - [Parth Panchal](https://github.com/parthpanchal123)
 - [Ali Daghighi](https://github.com/alidaghighi)
 - [Christian Dahlberg](https://github.com/christiandahlberg)
