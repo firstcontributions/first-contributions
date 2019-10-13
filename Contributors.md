@@ -19,7 +19,6 @@
 - [Guilherme Balog](https://github.com/guilhermebalog)
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
-- [Kristina Macekovic](https://github.com/kristinamacekovic)
 -[mbricco](https://github.com/mbricco)
 -[shivang patel](https://github.com/shivaang12)
 -[shrutika](https://github.com/shrutikamahale)
@@ -16081,3 +16080,4 @@ Mário Baltazar
 - [TonyTheTiger323/Tony Greeley](https://github.com/tonythetiger323)
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
+- [Kristina Macekovic](https://kristinamacekovic.github.io/)
