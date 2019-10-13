@@ -67,6 +67,7 @@ Philip Wright
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
 - [Shubham Raj](https://github.com/raj808569)
+- [Will](https://github.com/csrunner20)
 - [Maike Fischer]
 - [Yash Jaiswal] 
 - [Kasra Tabrizi]
