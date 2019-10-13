@@ -66,7 +66,7 @@
 - [Shubham Raj](https://github.com/raj808569)
 - [Maike Fischer]
 - [Yash Jaiswal] 
-- [Kasra Tabrizi]
+- [Kasra Tabrizi](https://github.com/KasraTabrizi)
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
