@@ -59,7 +59,7 @@
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
 - [Maike Fischer]
-- [Yash Jaiswal] 
+- [Yash Jaiswal]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
@@ -174,7 +174,7 @@ Renjith Joseph
 - [Malte Hermann](https://github.com/Pfonks)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
-- [Ankit Sharma](https://github.com/steveAnkit) 
+- [Ankit Sharma](https://github.com/steveAnkit)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
@@ -419,7 +419,7 @@ Renjith Joseph
 - [Manish Tomar](https://github.com/manishtomar1)
 - **[Vinit Dantkale](https://github.com/Vinit-Dantkale)**
 - [Manish Tomar](https://github.com/manishtomar1)
-- [Manish Tomar](https://github.com/manishtomar1) 
+- [Manish Tomar](https://github.com/manishtomar1)
 - [mojtaba maslahatbin](https://github.com/mojtabamaslahatbin)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Konstantin Aschbacher](https://github.com/KonstiBPC)
@@ -773,7 +773,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Alexis Huerta](https://github.com/alehuer07)
 - [Ketan Lambat](https://github.com/ketan-lambat)
 - [Chandan Kumar Roy](https://github.com/chandan5362)
-- [Ashutosh Chauhan](https://github.com/masterashu)  
+- [Ashutosh Chauhan](https://github.com/masterashu)
 - [Lyndi Castrejon](https://github.com/lyndic)
 - [Dhruv Sawarkar](https://github.com/thatcathatechat)
 - [Jill Oestreicher] (https://github.com/jilloestreicher)
@@ -17532,4 +17532,5 @@ rehan
 - [Rofi Nata 🚀🚀🚀](https://github.com/quartz510)
 - [Sanjeev] (https://github.com/sanjeevbitx)
 - [Andrew Wijaya] (https://github.com/andrewdudu)
+- [jgroeneveld] (https://github.com/jgroeneveld)
 
