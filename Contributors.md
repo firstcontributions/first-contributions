@@ -75,6 +75,7 @@
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
 - [Anuneet Anand](https://github.com/anuneetanand)
 - [keyur kheni](https://github.com/Keyurkheni09)
+- [Vishavjeet Singh](https://github.com/Vishavjeet6)
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
 - [Josh McDaniel](https://github.com/mcdanije22)
