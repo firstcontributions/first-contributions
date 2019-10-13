@@ -265,6 +265,7 @@ Renjith Joseph
 - [Sukrit Walia](https://github.com/wukrit)
 - [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Abey Hurtis](https://github.com/Abey12525)
+- [Sankar Ramaswamy](https://github.com/ROCKET19)
 - [Daniel Yuki](https://github.com/DanielYuki)
 - [Gagan Agarwal](https://github.com/LazyCoder07)
 - [Anjali Aggarwal](https://github.com/anjaliaga)
