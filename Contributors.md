@@ -114,6 +114,7 @@
 - [Jev Forsberg](https://github.com/baldm0mma)
 - [Rafael Lopes](https://https://github.com/RafaelCLopes)
 - [Dominic Needham](https://github.com/domneedham)
+- [Roldán Zafra Fernando](https://github.com/FernandoRoldan93)
 - [Devan Moses](https://github.com/mosesds)
 - [Shira Haddad](https://github.com/shirahaddad)
 - [Aayush Kumar(https://github.com/aayushakumar)
