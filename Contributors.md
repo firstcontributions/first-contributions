@@ -17542,6 +17542,7 @@ rehan
 - [Ivan Ting](https://github.com/ivanting95)
 - [Kunal jain](https://github.com/aimulizer)
 - [Norman Domingo](https://github.com/nesdxr)
+- [Rahul Gupta](https://github.com/eralgua)
 - [zrabatah](https://github.com/zrabatah)
 - [Sabin Nepal](https://github.com/neymarsabin)
 - [Hazim Sami] (http://github.com/hazim)
