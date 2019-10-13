@@ -35,6 +35,7 @@
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
+- [Rohit Yadav] (https://github.com/Rohit-Yadav0)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Sagar Yadav](https://github.com/itsnotsagar)
