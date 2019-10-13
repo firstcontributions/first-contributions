@@ -70,6 +70,7 @@
 - [Yash Jaiswal] 
 - [Kasra Tabrizi]
 - [Amanda Rodger](https:;//github.com/AARodgers)
+- [Nicolas Pin](https://github.com/pythareme)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
