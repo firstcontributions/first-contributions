@@ -17507,6 +17507,7 @@ rehan
 - [Allyssa](https://github.com/allyssapascual)
 - [Gustavo Chavarria](https://github.com/gustavochavarria)
 - [Simone Puhl](https://github.com/perSimone)
+- [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Yasmin Willis](https://github.com/yazwilly)
 - [Griselda Gonzalez](https://github.com/griseldaega)
 - [Matthew Delaney](https://github.com/mldelaney94)
@@ -17543,4 +17544,3 @@ rehan
 - [Sanjeev] (https://github.com/sanjeevbitx)
 - [Andrew Wijaya] (https://github.com/andrewdudu)
 - [Pavan Soratur] (https://github.com/devPavan04)
-
