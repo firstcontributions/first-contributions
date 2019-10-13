@@ -137,6 +137,7 @@ Renjith Joseph
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Kye Browning] (https://github.com/kyebrowning)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
+- [Ben Cooper](https://github.com/MrGhostlyOrb)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Christian Preis](https://github.com/n8trufe)
