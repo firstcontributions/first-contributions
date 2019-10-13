@@ -308,6 +308,7 @@ Renjith Joseph
 - [Michael Jenkins] (https://github.com/KipTheTurtlebear)
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
+- [VijayDandu]
 - [Amy R] (https://github.com/amyriley)
 - [Evan Croft]
 - [Jon Zivku] (https://github.com/jonzivku)
