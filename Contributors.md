@@ -32,6 +32,7 @@
 - [Jaskaran Singh]
 - Jerryco Alaba
 - [Nathaniel Graham](https://github.com/ngraham20)
+- [Anwesh Budhathoki] (https://github.com/anwesh-b)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
