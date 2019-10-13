@@ -9998,6 +9998,7 @@ Stephan Sharpe
 - [Sagar Parre](https://github.com/sagar19298-sopho)
 - [John](https://github.com/krispykangaroo)
 - [Simone Dagna](https://github.com/SimoneDagna)
+- Farhan Mufti Hilmy
 - [Stu Finn](https://github.com/stufinn)
 - [Saransh Ambarte](https://github.com/sarrocks1)
 - [Bill Hammond](https://github.com/zenthunder)
