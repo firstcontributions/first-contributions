@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Abraham William S](https://github.com/abrahamwilliam)
+- [Chris Williams] (https://github.com/mistwire)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
