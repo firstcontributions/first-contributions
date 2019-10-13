@@ -55,6 +55,7 @@
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
 - [Megha K C](https://github.com/Megha-KC)
 - [Shipra Kesarwani](https://github.com/shiprakesarwani)
+- [Pranav Joglekar](https://github.com/Pranav2612000)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Denni Bevilacqua](https://github.com/dennib)
