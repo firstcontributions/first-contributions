@@ -1,5 +1,5 @@
 ﻿# Contributors
--[Abraham William S](https://github.com/abrahamwilliam)
+- [Abraham William S](https://github.com/abrahamwilliam)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
@@ -41,6 +41,7 @@
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
 - [David Victoria](https://github.com/davic64)
+- [Rajendra Prajapat](https://github.com/rajpra786)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
 - [Christabel Khumalo] (https://github.com/Aurorabell)
