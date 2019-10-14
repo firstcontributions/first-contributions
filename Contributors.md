@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
@@ -3158,6 +3158,7 @@ Stephan Sharpe
 - [Rohit Kapoor](https://github.com/algo-circle)
 - [Will Yu](https://github.com/will7zero)
 - Apurv Singh Chauhan
+- [Safa](https://github.com/safomatic)
 - [Alfonso Lechuga](https://github.com/lechugalf)
 - [Devendra Shekhawat](https://github.com/dev-313)
 - Nathan Jones
