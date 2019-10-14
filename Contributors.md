@@ -17,6 +17,7 @@
 - [Anas Yousef](https://github.com/I-XIII-I)
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
+- [Hailey Barnett] (https://github.com/haileyb0311)
 - Anirudh
 - Philip Wright
 - Adam Carroll
