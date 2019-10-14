@@ -5021,6 +5021,7 @@ Stephan Sharpe
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Simon Sølberg](https://github.com/simonsolberg/)
 - [Ivana Livaja](https://github.com/ivilili)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Samuel F](hhtps://github.com/Sam-F90)
