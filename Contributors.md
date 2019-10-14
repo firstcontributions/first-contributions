@@ -12,6 +12,7 @@
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
+- [Lucky] (https://github.com/priyam125)
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Yoda] (https://github.com/priyam125)
