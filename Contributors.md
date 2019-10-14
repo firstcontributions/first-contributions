@@ -9977,6 +9977,7 @@ Stephan Sharpe
 - [Mikki Mesfin](https://github.com/mikkimesfin)
 - [Christine Ocana](https://github.com/hikikomouri)
 - [Raffy Alcoriza](https://github.com/picapixa)
+- [Daniel Cornock](https://github.com/danielcornock)
 - [Lewis Smith](https://github.com/lewisscottsmith)
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
