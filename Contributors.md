@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Abhishek Mittal](https://github.com/amittal151)
+- [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 - [Joey Van Lierop 🚀](https://github.com/joeyvanlierop/)
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
