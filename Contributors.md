@@ -21,6 +21,7 @@
 - Anirudh
 - Philip Wright
 - Adam Carroll
+- Green S
 - [Jonah Waschek] (https://github.com/voz977)
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
