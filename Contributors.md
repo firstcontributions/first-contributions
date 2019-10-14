@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
@@ -6,6 +6,7 @@
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
+- [Priyam] (https://github.com/priyam125)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
