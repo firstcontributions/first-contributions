@@ -50,7 +50,7 @@ Philip Wright
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
 - [Jaskaran Singh]
 - Jerryco Alaba
-- [George Mani](https://github.com/georgemani1225)
+- [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
