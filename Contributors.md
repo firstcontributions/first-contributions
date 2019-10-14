@@ -16,6 +16,7 @@
 Philip Wright
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
+- [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
