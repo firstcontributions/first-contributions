@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,7 +10,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
@@ -22,7 +22,7 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
 
-GitHub keeps track of the relationship between your repo and the one you forked it from.  You can think of your repo as a working copy.
+GitHub keeps track of the relationship between your repo and the one you have forked it from.  You can think of your repo as a working copy.
 
 Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
 
@@ -34,7 +34,7 @@ The next step is to clone your repo down to your machine so you can begin making
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input promt by pressing `CTRL-P` and then type the `>` character.
+Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
@@ -57,7 +57,7 @@ You should see a status popup on the bottom right of Visual Studio Code. After i
 
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
@@ -75,11 +75,11 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are stashed.
+The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now commited to your local copy. Now the changes have to be pushed back to GitHub.
+Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
 
 <img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 

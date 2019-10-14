@@ -1,20 +1,20 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 # प्रथम योगदान
-
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 पहली बार कुछ करना कठिन होता है| ख़ास तौर पर जब आप मिलकर काम कर रहे हों तब गलतियां करना अच्छी बात नहीं है | मगर आपस में मिलना और एक जुट होकर काम करना ही तो है ओपन सोर्स| हम आपका ये पहला ओपन सोर्स कॉन्ट्रिब्यूशन/योगदान आसान बनाने में आपकी मदद करेंगे |
 
 आर्टिकल्स पढ़ना और ऑनलाइन ट्यूटोरियलज़ देखना मदद कर सकते हैं मगर बिना कुछ गलत करे खुद वो काम करने से अच्छा क्या हो सकता है? यह प्रोजेक्ट आपको आपके पहले कॉन्ट्रिब्यूशन के लिए दिशा निर्देशन में मदद करेगा | याद रखिये - जितने तनाव मुक्त होकर आप सीखेंगे उतना ही बेहतर सीख पाएंगे | अगर आप अपनी पहली कॉन्ट्रिब्यूशन करना चाहते हैं तो आगे दिए गए स्टेप्स को फॉलो करें |
 
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+
 अगर आपके कंप्यूटर पर Git नहीं है तो, [इसे स्थापित करें](https://help.github.com/articles/set-up-git/)
 
 ## रिपॉज़िटरी को फॉर्क करना
 
-कांटा बटन पर क्लिक करके इस रिपॉज़िटरी को फॉर्क कर सकते हैं| यह आपके GitHub खाते में इस रिपॉज़िटरी की एक प्रति (कॉपी) बना देगा।
+कांटा (फॉर्क) बटन पर क्लिक करके इस रिपॉज़िटरी को फॉर्क कर सकते हैं| यह आपके GitHub खाते में इस रिपॉज़िटरी की एक प्रति (कॉपी) बना देगा।
 
 ## रिपोजिटरी क्लोन
 
@@ -122,10 +122,3 @@ git push origin <अपनी-शाखा-का-नाम-जोड़ें>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## आत्म पदोन्नति
-
-अगर आपको यह प्रोजेक्ट पसंद आया, तो इसे स्टार करें [GitHub](https://github.com/Roshanjossey/first-contributions) पर | 
-यदि आप विशेष रूप से धर्मार्थ महसूस कर रहे हैं, तो follow [Roshan](https://roshanjossey.github.io/) twitter और
-[GitHub](https://github.com/roshanjossey) पर |
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
