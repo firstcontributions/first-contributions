@@ -15,6 +15,7 @@ Philip Wright
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
+- [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
 - [Malla Praveen](https://github.com/mallapraveen)
