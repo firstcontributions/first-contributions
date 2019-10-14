@@ -13,6 +13,7 @@
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
+- [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Anas Yousef](https://github.com/I-XIII-I)
