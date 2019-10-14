@@ -13,6 +13,7 @@
 - [Cena Mayo](https://github.com/cena)
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
+- [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 Philip Wright
 - [Agrim Jain](https://github.com/Agrim2411)
