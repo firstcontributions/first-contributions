@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
@@ -19,6 +19,7 @@
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - Anirudh
 - Philip Wright
+- [Jaskirat Singh](https://github.com/jaskirat23)
 - Adam Carroll
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
