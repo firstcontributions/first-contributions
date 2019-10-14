@@ -9,6 +9,7 @@
 - [Priyam] (https://github.com/priyam125)
 - [Satyam] (https://github.com/priyam125)
 - [Samrat K S] (https://github.com/Samratkashipathi)
+- [Loki] (https://github.com/priyam125)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Thor] (https://github.com/priyam125)
 - [Syauqy Aziz](https://github.com/syauqy)
