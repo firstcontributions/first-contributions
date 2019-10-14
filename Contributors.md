@@ -26,6 +26,7 @@
 - Philip Wright
 - Adam Carroll
 - Green S
+- [Norma Bunton] (https://github.com/normabunton)
 - [Jonah Waschek] (https://github.com/voz977)
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
