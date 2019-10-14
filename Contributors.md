@@ -23,6 +23,7 @@
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Maria Bolanos](https://github.com/mariabp)
+- [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
 - [Srishti Bhandari](https://github.com/Srishti-B)
