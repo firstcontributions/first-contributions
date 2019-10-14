@@ -2286,6 +2286,7 @@ Stephan Sharpe
 - [Saad Ismail](https://github.com/saadismail)
 - [Andyjdv](https://github.com/Andyjdv)
 - [Burak Yilmaz](https://github.com/burakyilmaz321)
+- [Gabriela Lopes](https://github.com/gabrieladslopes)
 - Daniel Fletemier
 - T K
 - ProximitySound
