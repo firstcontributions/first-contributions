@@ -1244,6 +1244,7 @@ Nishtha3512
 - [Kean Ngo](https://github.com/keanngo)
 - [Jackson Elfers](https://github.com/jackson-elfers)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
+- [LuciferLS](https://github.com/LuciferLS)
 - [Stryyder](https://github.com/stryyder)
 - [Steven Martinez] (https://github.com/stamarty)
 - Habib Sorathia
