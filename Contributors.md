@@ -5427,6 +5427,7 @@ Stephan Sharpe
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Mohsen Yazdani](https://github.com/imyazdani)
 - [Sayed Hamdi](https://github.com/sayedhamdi)
+- [Morgan Beaudoin](https://github.com/capacitator51)
 - [gcstang](https://github.com/gcstang)
 - [Ashish](https://github.com/UchihaItachi883)
 - Rohit Kashyap
