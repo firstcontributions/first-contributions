@@ -17606,5 +17606,5 @@ rehan
 - [Mayank Srivastav](https://github.com/codelooper)
 - [Matteo Somensi](https://github.com/MatteoSomensi)
 - [iamkhwan 🚀🚀🚀](https://github.com/iamkhwan)
-- [shaikfocus] (https://github.com/shaikficus)
+- [shaikficus](https://github.com/shaikficus)
 
