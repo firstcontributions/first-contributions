@@ -6,17 +6,20 @@
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
+- [Priyam] (https://github.com/priyam125)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
+- [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 Philip Wright
-- [Prayank](https://github.com/PrayankNair)
+- [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
+- [Maria Bolanos](https://github.com/mariabp)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
@@ -40,6 +43,7 @@ Philip Wright
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
+- [Tankred Ott](https://github.com/TankredO)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
 - [Ashish Bhusal](https://github.com/bhusalashish)
@@ -52,6 +56,7 @@ Philip Wright
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
 - [Jaskaran Singh]
 - Jerryco Alaba
+- [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
@@ -120,6 +125,7 @@ Philip Wright
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
 - [Josh McDaniel](https://github.com/mcdanije22)
+- [littlepawcoding]
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Harsh Rajani](https://github.com/harshrajani460)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
@@ -364,6 +370,7 @@ Renjith Joseph
 - [Naezzin] (https://github.com/naezzin)
 - [Pranav Mehta] (https://github.com/pranav-mehta)
 - [Suresh Mangs] (https://github.com/sureshmangs)
+- [Aresiel] (https://github.com/Aresiel)
 - [Vincent Lagravère] (https://github.com/JehlahdDWJ)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
 - [nestorsgarzonc] (https://github.com/nestorsgarzonc)
@@ -375,6 +382,7 @@ Renjith Joseph
 - [aleks136]
 - [davyranger]
 - [Ghulam Mustafa1]
+- [Vishwas Paikra](https://github.com/vishwaspaikra007)
 - [Neil Stoker](https://github.com/nstoker)
 - [Infrony](https://github.com/infrony)
 - [Sneha Bamba](https://github.com/sneha-bamba)
@@ -486,6 +494,7 @@ Renjith Joseph
 - [Q0R3Y |-|4|-|/\/](https://github.com/q0r3y)
 - [Shubham Gupta](https://github.com/shubham030)
 - [Prakhar Singhal] (https://github.com/Ghoul2077)
+- [Govind Kartha] (https://github.com/govkartha)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Renee Davis](https://github.com/Rooster1915)
 - [Jatin Narula](https://github.com/jatin96)
@@ -725,6 +734,7 @@ Renjith Joseph
 - [babywashbear]
 - [Jerome Biggins] (https://github.com/romeyb76)
 - [Adrian Kristanto](https://github.com/adriankristanto)
+- [Victor Onyebuchi](https://github.com/CodeVee)
 - [Shubham Sharma](https://github.com/sharmajsr)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
 - [Dhanush-05](https://github.com/Dhanush-05)
@@ -1241,6 +1251,7 @@ Nishtha3512
 - [Kean Ngo](https://github.com/keanngo)
 - [Jackson Elfers](https://github.com/jackson-elfers)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
+- [LuciferLS](https://github.com/LuciferLS)
 - [Stryyder](https://github.com/stryyder)
 - [Steven Martinez] (https://github.com/stamarty)
 - Habib Sorathia
@@ -17612,4 +17623,6 @@ rehan
 - [Matteo Somensi](https://github.com/MatteoSomensi)
 - [iamkhwan 🚀🚀🚀](https://github.com/iamkhwan)
 - [shaikfocus] (https://github.com/shaikficus)
+- [Sanchit Khare] (https://github.com/sanchit48)
+- [Teepob Harutaipree] (https://github.com/teepobharu)
 
