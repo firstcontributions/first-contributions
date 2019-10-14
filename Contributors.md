@@ -17547,6 +17547,7 @@ rehan
 - [Fallest] (https://github.com/Fallest)
 - [Diogo Ferreira] (https://github.com/uzantonomon)?
 - [Anirudh Jwala](https://github.com/anirudh-jwala)
+- [Adiga Boy](https://github.com/adigaboy)
 - [Allyssa](https://github.com/allyssapascual)
 - [Gustavo Chavarria](https://github.com/gustavochavarria)
 - [Simone Puhl](https://github.com/perSimone)
