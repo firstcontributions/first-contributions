@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
@@ -16,6 +16,7 @@
 - [Cena Mayo](https://github.com/cena)
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
+- [Fatima Rojo](https://github.com/serfati5)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Anas Yousef](https://github.com/I-XIII-I)
 - [Prayank Nair](https://github.com/PrayankNair)
