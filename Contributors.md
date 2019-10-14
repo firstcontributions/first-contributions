@@ -97,6 +97,7 @@ Philip Wright
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
+- [Sharath Aradhyamath](https://github.com/sharath93vive)
 - [Aniket Jain](https://github.com/AnJ10)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Siddharth Panda](https://github.com/Sidray-Infinity)
