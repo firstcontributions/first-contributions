@@ -20,6 +20,7 @@
 Philip Wright
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
+- [Jesse] (https://github.com/priyam125)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
