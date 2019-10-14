@@ -17516,6 +17516,7 @@ rehan
 - [Rhea Varkey](https://github.com/RheaV99)
 - [Kyle Herron](https://github.com/herronk2)
 - [Qiyang Zuo](https://github.com/Alpha-yoyo)
+- [Shungo Najima](https://github.com/najima44855)
 - [Diarmuid Brady](http://github.com/nearmo)
 - [Mitsuki Irihara](https://github.com/mick722)
 - [Daniel Rimkus](https://github.com/toomanybyt3s)
