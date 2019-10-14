@@ -14779,6 +14779,7 @@ Stephan Sharpe
 - [Himanshu Dewan](https://github.com/dewanhimanshu)
 - [Pedro Vicari](https://github.com/pvicari)
 - [Joseph Meli](https://github.com/JosephMeli)
+- [Steven Bell](https://github.com/thebells1111)
 - [Mayank Kumar](https://github.com/Mk-ism)
 - [Nikhil Joshi](https://github.com/diehard-coder)
 - [Sandun](https://github.com/sandunwebdev)
