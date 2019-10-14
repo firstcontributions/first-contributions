@@ -6172,6 +6172,7 @@ Stephan Sharpe
 - [Ujjawal Jaiswal](https://github.com/ujjawaljaiswal2017)
 - [Hella](https://github.com/HellaPinot)
 - [eubeez](https://github.com/eubeez)
+- [Hemangi Parmar](https://github.com/HemangiS)
 - [Dan Truong](https://github.com/kokris92)
 - [Job Onyngo](https://github.com/eubeez)
 - [Michael](https://github.com/damoklov)
