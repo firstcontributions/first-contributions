@@ -85,7 +85,6 @@
 - [Garima Mann](https://github.com/garimamann)
 - [Edmon Garcia](https://github.com/vapx)
 - [lxp](https://github.com/pylxp)
-- [Aura Kanza Caesaria](https://github.com/aurakanzaa)
 - [InstaKarma](https://github.com/InstaKarma4)
 - [Jerry Benzie](https://github.com/JBenzie)
 - [Shekhar Shukla]
