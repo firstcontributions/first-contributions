@@ -567,6 +567,7 @@ Renjith Joseph
 - [Ajey prasand](https://github.com/ajeyprasand)
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
+- [shwingu](https://github.com/supersaiyajin7/)
 - [Aquib Baig](https://github.com/aquibbaig)
 - [ALI MINNET](https://github.com/aliminnet)
 - [Johannes Breit](https://github.com/JohnBryte)
