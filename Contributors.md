@@ -17,6 +17,7 @@
 - [Anas Yousef](https://github.com/I-XIII-I)
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
+- Anirudh
 - Philip Wright
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
