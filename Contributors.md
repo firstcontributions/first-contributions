@@ -17621,6 +17621,7 @@ rehan
 - [Alex Shimono](https://github.com/afshimono)
 - [Caston Hilcher](https://github.com/castonhilcher)
 - [Ramón Isijara 🌎🚀🌌:octocat:](https://github.com/isijara)
+- [Joel Melo 🌎🚀🌌:octocat:] (https://github.com/ArquiteturaJoel)
 - [Vikram Reddy] (https://github.com/inverse634)
 - [Ram Kakkar] (https://github.com/iamramkakkar)
 - [Mayank Srivastav](https://github.com/codelooper)
