@@ -12,6 +12,7 @@
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 Philip Wright
+- [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
