@@ -14,6 +14,7 @@ Philip Wright
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
+- [Malla Praveen](https://github.com/mallapraveen)
 - [Sourav Jangra](https://github.com/souravjangra)
 - [Harsh Agrawal](https://github.com/harshag1729)
 - [Bubu 🚀](https://github.com/BubuDavid)
