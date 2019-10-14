@@ -17,6 +17,7 @@ Philip Wright
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
+- [Arslan Dogar](https://github.com/arslandogar)
 - [Malla Praveen](https://github.com/mallapraveen)
 - [Sourav Jangra](https://github.com/souravjangra)
 - [Harsh Agrawal](https://github.com/harshag1729)
@@ -17606,4 +17607,3 @@ rehan
 - [Mayank Srivastav](https://github.com/codelooper)
 - [Matteo Somensi](https://github.com/MatteoSomensi)
 - [iamkhwan 🚀🚀🚀](https://github.com/iamkhwan)
-
