@@ -13422,6 +13422,7 @@ Stephan Sharpe
 - [Chris G](https://github.com/chdgriff)
 - [Guilherme Chenci Ortiz](https://github.com/Guicortiz)
 - [Elizabeth Berg](https://github.com/reykjaviks)
+- [Elizabeth Burke](https://github.com/eburkee)
 - [dave7ter](https://github.com/dave7ter)
 - [ikke09](https://github.com/ikke09)
 - [Adrian Thinnyun](https://github.com/athinnyun)
