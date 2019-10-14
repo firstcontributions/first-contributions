@@ -38,6 +38,7 @@
 - [Jitendra](https://github.com/jitusd9)
 - [KRHero03](https://github.com/KRHero03)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
+- [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Zaycodes](https://github.com/zainababubakar)
