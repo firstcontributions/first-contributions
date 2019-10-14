@@ -202,6 +202,7 @@ aalbusoiu
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
 - [Quentin Nicolle](https://github.com/quentinncl)
+- [Simon Sølberg](https://github.com/simonsolberg/)
 - [Ivana Livaja](https://github.com/ivilili)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter salihu](https://github.com/c-virus)
