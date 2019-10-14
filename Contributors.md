@@ -20,6 +20,7 @@
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
+- [Milo Wyner](https://github.com/milowyner)
 - Anirudh
 - Philip Wright
 - Adam Carroll
