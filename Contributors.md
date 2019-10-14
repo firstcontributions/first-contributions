@@ -163,6 +163,7 @@
 - Sakchi17
 Renjith Joseph
 - [Vaibhav Singh]
+- [Carlos] (https://github.com/cwmoreiras)
 - [Nitish Rawat](https://github.com/Nitish0852)
 - [Keerti Bajaj](https://github.com/keertibajaj)
 - [Kovidh Vengala](https://github.com/kovidh208/)
