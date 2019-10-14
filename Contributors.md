@@ -13,6 +13,7 @@
 - [Carlos Estrella](https://github.com/cestrell)
 - [Jitendra](https://github.com/jitusd9)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
+- [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Zaycodes](https://github.com/zainababubakar)
