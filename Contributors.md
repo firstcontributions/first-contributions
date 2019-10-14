@@ -18,6 +18,7 @@ Philip Wright
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Carlos Estrella](https://github.com/cestrell)
 - [Jitendra](https://github.com/jitusd9)
+- [KRHero03](https://github.com/KRHero03)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Masoomi](https://github.com/mashsaxena)
 - [Sourabh Grover](https://github.com/sourabhgrover)
