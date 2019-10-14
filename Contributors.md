@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Rishi Verma](https://github.com/thecoderishi)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
