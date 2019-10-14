@@ -51,6 +51,7 @@
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
+- [Paulo Octavio] (https://github.com/paulooctavio)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Zaycodes](https://github.com/zainababubakar)
 - [Somil Gupta](https://github.com/somilg050)
