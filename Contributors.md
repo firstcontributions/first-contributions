@@ -11,8 +11,10 @@
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Cena Mayo](https://github.com/cena)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
+- [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 Philip Wright
+- [Prayank](https://github.com/PrayankNair)
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
