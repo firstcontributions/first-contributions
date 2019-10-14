@@ -44,7 +44,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇹](translations/README.it.md)
 [🇹🇭](translations/README.th.md)
 [🏴](translations/README.gl.md)
-[🇳🇵](translations/README.np.md)
+[<img src="assets/Nepal.png" width="22">](translations/README.np.md)
 [🇵🇰](translations/README.ur.md)
 [:bangladesh:](translations/README.bn.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
