@@ -7723,6 +7723,7 @@ Stephan Sharpe
 - [Qqlick](https://github.com/Qqlick)
 - [Michael Zeng](https://github.com/michaelzeng96)
 - Bailey Wong
+- WMD
 - [pqrsumit](https://github.com/pqrsumit)
 - [Themis](https://github.com/thmanoy)
 - [Aurora Maybee](https://github.com/auroramaybee)
