@@ -134,6 +134,7 @@ Philip Wright
 - Sakchi17
 Renjith Joseph
 - [Vaibhav Singh]
+- [Nitish Rawat](https://github.com/Nitish0852)
 - [Keerti Bajaj](https://github.com/keertibajaj)
 - [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
