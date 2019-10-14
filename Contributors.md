@@ -91,6 +91,7 @@ Philip Wright
 - [Rafael G. Ruiz](https://github.com/Razaloc)
 - [Pranav Joglekar](https://github.com/Pranav2612000)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
+- [hushus88](https://github.com/hushus88)
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Denni Bevilacqua](https://github.com/dennib)
 - [Parth Santoki](https://github.com/parthsantoki01)
