@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
@@ -17621,6 +17621,7 @@ rehan
 - [Alex Shimono](https://github.com/afshimono)
 - [Caston Hilcher](https://github.com/castonhilcher)
 - [Ramón Isijara 🌎🚀🌌:octocat:](https://github.com/isijara)
+- [Matthew Sims](https://github.com/simsmat116)
 - [Joel Melo 🌎🚀🌌:octocat:] (https://github.com/ArquiteturaJoel)
 - [Vikram Reddy] (https://github.com/inverse634)
 - [Ram Kakkar] (https://github.com/iamramkakkar)
