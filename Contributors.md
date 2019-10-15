@@ -19,6 +19,7 @@
 - [Satyam] (https://github.com/priyam125)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
+- [Sagarika Puri](https://github.com/SagarikaPuri)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Samuel Bétrisey](https://github.com/betrisey)
 - [Cena Mayo](https://github.com/cena)
