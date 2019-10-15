@@ -33,6 +33,7 @@
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - Marcband
+-[Siddhant Jain](https://github.com/GitSiddhant)
 - Anirudh
 - Johanna
 - Philip Wright
