@@ -87,6 +87,7 @@
 - [Arushi Jain](https://github.com/arushi-16)
 - [Alec Magnani](https://github.com/alecmagnani)
 - [Jordan Villanueva](https://github.com/joyous30)
+- [Sunny Prakash](https://github.com/sprakash57)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Hal Klein](https://github.com/halklein)
 - [Ankush Sharma](https://github.com/ScorchingShade)
