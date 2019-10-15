@@ -2,6 +2,7 @@
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
+- [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Prince Thakkar](https://github.com/Prince269090)
