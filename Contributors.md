@@ -1643,6 +1643,8 @@ Nishtha3512
 - [Alvaro Croce](https://github.com/amcroce)
 - [Adam Galt](https://github.com/AdamGalt)
 - Ali Habeeb Aladross
+- [reorezz](https://github.com/reorezz)
+- vedant
 - Danielle Rosenfeld-Lovell (https://github.com/magicpuddingcat)
 - [Daniel Cosby](https://github.com/daaanosaur)
 - [Forest Pfeiffer](https://github.com/pfife00)
