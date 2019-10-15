@@ -5999,6 +5999,7 @@ Stephan Sharpe
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
 - [Dillon Sykes](https://github.com/DillonSykes)
+- [Gideon Nnalue](https://github.com/gideonnnalue)
 - [Akash Giri](https://github.com/akashgiricse)
 - [Alejandra Gonzalez](https://github.com/alejandra-gonzalez)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
