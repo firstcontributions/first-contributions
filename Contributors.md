@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Shubham Singh](https://github.com/shubham0812)
@@ -672,6 +672,7 @@ Renjith Joseph
 - [Sabha Kandula](https://github.com/SabhaKandula)
 - [Daniel Sánchez](https://github.com/hielfx)
 - [Kevin Dorner](https://github.com/mrhspecter)
+- [Lukas auf der Landwehr] (https://github.com/Thabb)
 - [Marcel Smuts] (https://github.com/MarcelSmuts)
 - [Miguel Solino](http://github.com/Manilator)
 - [Tony Morris](https://github.com/TonyDMorris)
