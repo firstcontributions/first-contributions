@@ -7691,6 +7691,7 @@ Stephan Sharpe
 - [Jack Wu](https://github.com/jackwu413)
 - [Neeson911](https://github.com/Neeson911)
 - [Tommaso Levato](https://github.com/tommasolevato)
+- [ammarita](https://github.com/ammarita)
 - [Tommy Bojanin](https://github.com/ven1xus)
 - [Nabeel Hussain](https://github.com/nabeelh21)
 - [Ty Christian](https://github.com/tchristian315)
