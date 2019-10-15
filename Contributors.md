@@ -493,6 +493,7 @@ Renjith Joseph
 - [aiden](https://github.com/acdlbs)
 - [rincewindgv](https://github.com/rincewindgv)
 - [dilapitan](https://github.com/dilapitan)
+- [Supriyo Sarkar](https://github.com/SupriyoSarkar)
 - [Bhargav SNV](https://github.com/Gituser143)
 - [Badri.SR] (https://github.com/badri001)
 - [Alex Verdin](https://github.com/averdin2)
