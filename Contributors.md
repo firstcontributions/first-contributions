@@ -107,6 +107,7 @@
 - [Parth Gupta](https://github.com/parthgpta)
 - [Sagar Yadav](https://github.com/itsnotsagar)
 - [Chris Curl](https://github.com/ChrisCurl)
+- [Divyam Goyal](https://github.com/idivyamgoyal)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
 - [David Victoria](https://github.com/davic64)
 - [Chaz Lambert] (https://github.com/chaz-lambert)
