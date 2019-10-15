@@ -107,6 +107,7 @@
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
 - [Jaskaran Singh]
 - Jerryco Alaba
+- Gustavo Ribeiro Gomes
 - [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
