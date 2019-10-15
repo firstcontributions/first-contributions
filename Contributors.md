@@ -22,6 +22,7 @@ Philip Wright
 - [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
+- [serin tony](https://github.com/serin-cryo)
 - [Malla Praveen](https://github.com/mallapraveen)
 - [Sourav Jangra](https://github.com/souravjangra)
 - [Harsh Agrawal](https://github.com/harshag1729)
