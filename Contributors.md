@@ -48,6 +48,7 @@
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
+- [Anunay Aatipamula](https://github.com/anunay999)
 - [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
