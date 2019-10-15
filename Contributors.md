@@ -1,4 +1,5 @@
 # Contributors
+- [Alexandria Pugia](https://github.com/jasminnancy)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Shubham Singh](https://github.com/shubham0812)
