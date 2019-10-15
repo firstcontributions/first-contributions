@@ -41,6 +41,7 @@ Kanish Anand-
 - [Alexsander Ramos da Silva](https://github.com/alexsilvar)
 - [Noli Valdez III](https://github.com/nvaldeziii)
 - [Timothy](https://github.com/timtop)
+- [Aysan Isayo](https://github.com/aisayo)
 - [Srikanth Hubli](https://github.com/srikanthhubli)
 - [Ethan](https://github.com/EthanVieira)
 - [Viraj Malia](https://github.com/virajmalia)
