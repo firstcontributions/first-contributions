@@ -97,6 +97,7 @@
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
 - [David Victoria](https://github.com/davic64)
+- [Chaz Lambert] (https://github.com/chaz-lambert)
 - [Rajendra Prajapat](https://github.com/rajpra786)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
