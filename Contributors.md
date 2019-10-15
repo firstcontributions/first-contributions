@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
@@ -461,6 +461,7 @@ Renjith Joseph
 - [Karan Singh] (https://github.com/karansinghgit)
 - [Mario Zamora] (https://github.com/maczamora)
 - [Kent Yang] (https://github.com/kentyang)
+- [Sahith Reddy Adudodla] (https://github.com/sahith) 
 - [Siddhant Mehta]
 - [Emanuele Palermo] (https://github.com/epalermo92)
 - [Jurie Spies]
