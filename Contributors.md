@@ -6,6 +6,7 @@
 - [Shubham Singh](https://github.com/shubham0812)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Prince Thakkar](https://github.com/Prince269090)
+- [Calie Rushton](https://github.com/CalieR)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 - [Kyle Woomer](https://github.com/Yoshinoes)
