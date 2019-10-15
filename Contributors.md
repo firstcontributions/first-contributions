@@ -54,6 +54,7 @@
 - [Masoomi](https://github.com/mashsaxena)
 - [Paulo Octavio] (https://github.com/paulooctavio)
 - [Sourabh Grover](https://github.com/sourabhgrover)
+- [Clay Draper](https://github.com/cddraper)
 - [Zaycodes](https://github.com/zainababubakar)
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
