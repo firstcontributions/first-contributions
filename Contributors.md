@@ -7386,6 +7386,7 @@ Stephan Sharpe
 - [Sankarganesh Gandhi](https://github.com/sankarganeshgandhi)
 - [Ashkar Yoosuf](https://github.com/ashkar-yoosuf)
 - [Jake Palmer](https://github.com/palmer1842)
+- [Josh M](https://github.com/joshuarmil)
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
 - [Charlie Chew](https://github.com/s120472006)
