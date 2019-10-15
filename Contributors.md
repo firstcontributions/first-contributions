@@ -40,6 +40,7 @@
 - Anirudh
 - Johanna
 - Philip Wright
+- [Elisabeth Miller](https://github.com/libbymiller09)
 - Adam Carroll
 - Green S
 - Edwin Waweru
