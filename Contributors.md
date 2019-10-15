@@ -33,7 +33,7 @@
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - Anirudh
-- Johanna 
+- Johanna
 - Philip Wright
 - Adam Carroll
 - Green S
@@ -3443,7 +3443,7 @@ Stephan Sharpe
 - N-Mor
 - [Jacky Liu](https://github.com/Jacky-Liu1)
 - [Joe Lee](https://github.com/josephlee93)
--_[Alexander Witedja](https://github.com/alexwitedja)
+- [Alexander Witedja](https://github.com/alexwitedja)
 - [nolj](https://github.com/nolanbjohnson)
 - [Mohammed Dilruba Pamangadan](https://github.com/dilrubapamangadan)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
@@ -17718,3 +17718,4 @@ rehan
 - [Hush](https://www.github.com/HushOv)
 - [Arman](https://github.com/armanbinmahmud)
 - [Homard](https://github.com/homard)
+- [Pranav](https://github.com/pranavsnair2000)
