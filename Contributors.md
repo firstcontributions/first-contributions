@@ -7660,6 +7660,7 @@ Stephan Sharpe
 - [Michael Melvin](https://github.com/mmelvin0581)
 - [Rodrigo Reyes](https://github.com/ByteDecoder)
 - [Nathaniel Ngo](https://github.com/ndngo)
+- [Nathanielle Romero](https://github.com/nathaniellers)
 - [Wyatt Hoodes](https://github.com/whoodes)
 - [Eduardo Patrice](https://github.com/epatrice)
 - [Spoorthi Sreedhara](https://github.com/sxs71620)
