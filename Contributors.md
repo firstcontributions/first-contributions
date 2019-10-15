@@ -673,6 +673,7 @@ Renjith Joseph
 - [Sabha Kandula](https://github.com/SabhaKandula)
 - [Daniel Sánchez](https://github.com/hielfx)
 - [Kevin Dorner](https://github.com/mrhspecter)
+- [Konstantin Schwarze] (https://github.com/Konsicrafter)
 - [Lukas auf der Landwehr] (https://github.com/Thabb)
 - [Marcel Smuts] (https://github.com/MarcelSmuts)
 - [Miguel Solino](http://github.com/Manilator)
