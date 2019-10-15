@@ -28,6 +28,7 @@
 - [Rachit Garg](https://github.com/rstar900)
 - [Milo Wyner](https://github.com/milowyner)
 - [Lauren Mooney](https://github.com/laurennmooney)
+- [Surafel Hailu](https://github.com/surafelh)
 - Anirudh
 - Philip Wright
 - Adam Carroll
