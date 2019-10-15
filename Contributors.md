@@ -246,6 +246,7 @@ Renjith Joseph
 - [ChiLau]
 - [girOly](https://github.com/girOly)
 - [Charles King](https://github.com/charlesdking)
+- [Mike Howell](https://github.com/mikehowell)
 - [Klaudijus Rulys](https://github.com/krulys)
 - [Alison Melendez](https://github.com/alisonmelendez)
 - [Laise Aquino](https://github.com/laiseaquino)
