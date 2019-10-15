@@ -62,6 +62,7 @@
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Sahaj Evens](https://github.com/sahaj-evens)
 - [Desmond Chi](https://github.com/desmochi)
+- [Pilot143] (https://github.com/pilot143)
 - [Anthony Vo](https://github.com/anthony-vo)
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
