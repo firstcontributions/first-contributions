@@ -130,6 +130,7 @@
 - [Kasra Tabrizi]
 - [ymrz]
 - [Amanda Rodger](https:;//github.com/AARodgers)
+- [Teresa Livriero](https://github.com/teresa-livriero)
 - [Nicolas Pin](https://github.com/pythareme)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
