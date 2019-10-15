@@ -18,6 +18,7 @@
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Syauqy Aziz](https://github.com/syauqy)
+- [Samuel Bétrisey](https://github.com/betrisey)
 - [Cena Mayo](https://github.com/cena)
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
