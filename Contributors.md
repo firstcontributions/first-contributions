@@ -203,6 +203,7 @@ Renjith Joseph
 - [Ben Cooper](https://github.com/MrGhostlyOrb)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - [Marcelo Wis](https://github.com/marcelowis)
+- [Mrsalehi] (https://github.com/mrsalehi)
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Animesh Kumar] (https://github.com/Animo-Rey)
