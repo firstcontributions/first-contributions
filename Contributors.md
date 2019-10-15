@@ -116,6 +116,7 @@
 - [Rony Cherian](https://github.com/phoe-nix-)
 - [Angad Gill](https://github.com/angadgill92)
 - [Adi](https://github.com/adityabhushan)
+- [Rohit Chugh](https://github.com/rohitchugh9)
 - [Rahul Rayaprolu](https://github.com/rahulr91)
 - [Mukesh M](https://github.com/mukeshm)
 - [Diego Gonzalez](https://github.com/luarca84)
