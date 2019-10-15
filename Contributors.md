@@ -24,6 +24,7 @@
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
 - [Milo Wyner](https://github.com/milowyner)
+- [Lauren Mooney](https://github.com/laurennmooney)
 - Anirudh
 - Philip Wright
 - Adam Carroll
@@ -6000,6 +6001,7 @@ Stephan Sharpe
 - [Jonathan Tang](https://github.com/jTanG0506)
 - [Mamta Pal](https://github.com/palmamta)
 - [Dillon Sykes](https://github.com/DillonSykes)
+- [Gideon Nnalue](https://github.com/gideonnnalue)
 - [Akash Giri](https://github.com/akashgiricse)
 - [Alejandra Gonzalez](https://github.com/alejandra-gonzalez)
 - [Hassan Murtaza](https://github.com/MrHassanMurtaza)
@@ -15964,6 +15966,7 @@ Stephan Sharpe
 - [taekeun](https://github.com/taekeun)
 - [Andrew Hohne](https://github.com/Hohniker)
 - [Malintha Kumarage](https://github.com/malintha90)
+- [Kenny Gzine](https://github.com/gzine)
 - [LLX](https://github.com/TroyWind)
 - [marvinHubLook](https://github.com/marvinHubLook)
 - [Kim MinSu](https://gitub.com/alstn2468)
@@ -17668,3 +17671,4 @@ rehan
 - [rodrrj] (https://github.com/rodrrj)
 - [shridhar kalavagunta] (https://github.com/coolshrid)
 - [Sicun Chen] (https://github.com/sicunchen)
+- [Roy Jang](https://github.com/arejang)
