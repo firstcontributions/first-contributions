@@ -5,6 +5,7 @@
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 - [Kyle Woomer](https://github.com/Yoshinoes)
 - [Joey Van Lierop 🚀](https://github.com/joeyvanlierop/)
+- [Shruti Shukla](https://github.com/shruti0987)
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
