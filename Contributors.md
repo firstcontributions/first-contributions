@@ -2379,6 +2379,7 @@ Stephan Sharpe
 - [Patrick Johnson](https://github.com/GHPatrick)
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - [Alex Solonenko](https://github.com/Spilex)
+- [Rachel Selkirk](https://github.com/rselkirk)
 - [Mark Sargent](https://github.com/mesargent/)
 - [Mark Reed](https://github.com/markdreed512)
 - [Dan Seremet](https://github.com/danseremet/)
