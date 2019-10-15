@@ -1654,8 +1654,7 @@ Contributors
 
 -   [Chandan Kumar Roy](https://github.com/chandan5362)
 
--   [Ashutosh Chauhan](https://github.com/masterashu)  
-    
+-   [Ashutosh Chauhan](https://github.com/masterashu)
 
 -   [Lyndi Castrejon](https://github.com/lyndic)
 
@@ -11704,8 +11703,7 @@ Contributors
 
 -   [Anjali Garg](https://github.com/AnjaliGarg13)
 
--   [Ravi Gupta](https://github.com/guptaravi540)  
-    
+-   [Ravi Gupta](https://github.com/guptaravi540)
 
 -   [Oshidi Weerakulasuriya](https://github.com/OshidiWeerakulasuriya)
 
@@ -35195,6 +35193,8 @@ Contributors
 
 -   [Mayank Srivastav](https://github.com/codelooper)
 
+-   Mansi Gupta
+
 -   [Matteo Somensi](https://github.com/MatteoSomensi)
 
 -   [iamkhwan 🚀🚀🚀](https://github.com/iamkhwan)
@@ -35212,5 +35212,3 @@ Contributors
 -   [rodrrj] (https://github.com/rodrrj)
 
 -   [shridhar kalavagunta] (https://github.com/coolshrid)
-
--   Mansi Gupta
