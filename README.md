@@ -17,6 +17,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇳](translations/Translations.md)
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
+[RY](translations/README.ry.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
 [<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
@@ -110,6 +111,7 @@ For example:
 git checkout -b add-alonzo-church
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+Creating new branch helps you to work on file without changing master file.
 
 ## Make necessary changes and commit those changes
 
@@ -133,7 +135,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 replacing `<your-name>` with your name.
 
-## Push changes to GitHub
+## Push changes to GitHub account
 
 Push your changes using the command `git push`:
 ```
