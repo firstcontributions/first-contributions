@@ -34,6 +34,7 @@
 - [Norma Bunton] (https://github.com/normabunton)
 - [Jonah Waschek] (https://github.com/voz977)
 - [Agrim Jain](https://github.com/Agrim2411)
+- [Beomus](https://github.com/Beomus)
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
