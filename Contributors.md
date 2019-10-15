@@ -195,6 +195,7 @@
 - [Spirulinax] (https://github.com/spirulinax)
 - [Desire Lumene](https://github.com/Desire01)
 - [Jakub Drzyzga](https://github.com/JDrzyzga)
+- [SCrocky] (https://github.com/SCrocky)
 - [Antonino Cangialosi](https://github.com/ninoCan)
 - [Anuj Attri](https://github.com/Anuj-Attri)
 - [Rafaela Micaela](https://github.com/RafaelaMicaela)
