@@ -8,6 +8,7 @@
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Prince Thakkar](https://github.com/Prince269090)
 - [Calie Rushton](https://github.com/CalieR)
+- [Ana Beatriz](https://github.com/cchacall)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 - [Kyle Woomer](https://github.com/Yoshinoes)
