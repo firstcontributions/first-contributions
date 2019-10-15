@@ -17652,6 +17652,7 @@ rehan
 - [Cheng Li](https://github.com/azaleax)
 - [Laisha Wadhwa](https://github.com/laishawadhwa)
 - [Shivam Agrawal](https://github.com/shivampip)
+- [Aditya Parikh](https://github.com/obiwan69)
 - [Lewis Reid](https://github.com/lew148)
 - [Muhammed Koçyiğit](https://github.com/muhammetkocyigit0)
 - [Vaibhav](https://github.com/iam2002)
@@ -17710,3 +17711,4 @@ rehan
 - [Sazazezer](https://github.com/Sazazezer)
 - [Click](https://github.com/aflutter)
 - [Hush](https://www.github.com/HushOv)
+
