@@ -117,11 +117,3 @@ git push origin <शाखाको-नाम>
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## आत्म-संवर्धन
-
-यदि तपाईंले यो प्रोजेक्ट मनपर्यो भने, यसलाई [GitHub](https://github.com/Roshanjossey/first-contributions) मा तारा दिनुहोस्।
-यदि तपाइँ विशेष गरी धैर्य महसुस गर्नुहुन्छ भने, पछ्याउनुहोस् [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) र
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
