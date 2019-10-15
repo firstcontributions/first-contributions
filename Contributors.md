@@ -16632,6 +16632,7 @@ Stephan Sharpe
 - [Raul Ropero](https://github.com/codigoespagueti)
 - fmi
 - Afolayan Tunde
+- [Brendan Gilet](https://github.com/Vehemence26)
 - [Maosheng Tang](https://github.com/mshtang)
 - [Karen White](https://github.com/karen-white)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
