@@ -1,4 +1,5 @@
 # Contributors
+- [Anthony Snow](https://github.com/anthonyjr)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
