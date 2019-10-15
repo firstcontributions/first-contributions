@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Shubham Singh](https://github.com/shubham0812)
@@ -17706,3 +17706,4 @@ rehan
 - [gamo-k](https://github.com/gamo-k)
 - [Vidhya Raja](https://github.com/vidhya-raja)
 - [Sazazezer](https://github.com/Sazazezer)
+- [Click](https://github.com/aflutter)
