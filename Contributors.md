@@ -13,6 +13,7 @@
 - [Joey Van Lierop 🚀](https://github.com/joeyvanlierop/)
 - [Shruti Shukla](https://github.com/shruti0987)
 - [Ankit Dobhal](https://github.com/ankitdobhal)
+- [Jui Shah](https://github.com/shahjui2000)
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
@@ -1737,7 +1738,8 @@ Nishtha3512
 - [Swapnil Goyal](https://github.com/anon20)
 - [Ryan Modugno](https://github.com/MissBuns)
 - [Srinath Nair](https://github.com/s_nath99920)
-- [Ash Abrahamson](https://github.com/JuicySun99)
+- [Ash Abrahamson](https://github.com/
+cySun99)
 - [Aleks](https://github.com/Proktophantasmist)
 - [Dante](https://github.com/dantedallag)
 - [Dallas Goldswain](https://github.com/dallasgoldswain)
