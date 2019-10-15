@@ -36,6 +36,7 @@
 - [Jaskaran Singh]
 - Jerryco Alaba
 - [Nathaniel Graham](https://github.com/ngraham20)
+- [Abhishek Srikanth](https://github.com/AbhishekSrikanth)
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
