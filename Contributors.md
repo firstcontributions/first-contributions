@@ -8489,6 +8489,7 @@ Stephan Sharpe
 - [Vijay Kumar](https://github.com/VijayVj7)
 - Deepak Hooda
 - [Panayiotis Kaizo](https://github.com/pns2050)
+- [Shubhi Lohani] (https://github.com/ShubhiL)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Tyler Trout](https://github.com/tiller1010)
 - [Grant Hixson](https://github.com/androidfanatic)
