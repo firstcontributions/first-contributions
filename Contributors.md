@@ -48,6 +48,7 @@
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
+- [Anunay Aatipamula](https://github.com/anunay999)
 - [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
@@ -3224,6 +3225,7 @@ Stephan Sharpe
 - [Dheeraj Golchha](https://github.com/dheerajg11)
 - [Victor Machado](https://github.com/vamcs)
 - [Lewis Harvey](https://github.com/lewman215)
+- [Daniel Davies](https://github.com/darrkshade)
 - Carlos
 - [Chandima Ranaweera](https://github.com/chan4lk)
 - [Smit Gajjar](https://github.com/smitgajjar)
@@ -17704,3 +17706,4 @@ rehan
 - [gamo-k](https://github.com/gamo-k)
 - [Vidhya Raja](https://github.com/vidhya-raja)
 - [Conor Halpin](https://github.com/xboxnoob)
+- [Sazazezer](https://github.com/Sazazezer)
