@@ -33,6 +33,7 @@
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - Anirudh
+- Johanna 
 - Philip Wright
 - Adam Carroll
 - Green S
@@ -7816,7 +7817,7 @@ Stephan Sharpe
 - [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
-- [Carlos Morales](https://github.com/cmoralesmx) 
+- [Carlos Morales](https://github.com/cmoralesmx)
 - [Zippo](https://github.com/A1zippo1)
 - [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
