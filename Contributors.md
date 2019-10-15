@@ -64,7 +64,6 @@
 - [Zaycodes](https://github.com/zainababubakar)
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
-- [Eric Thörn] (https://github.com/ethorn)
 - [Sahaj Evens](https://github.com/sahaj-evens)
 - [Desmond Chi](https://github.com/desmochi)
 - [Pilot143] (https://github.com/pilot143)
@@ -17693,3 +17692,4 @@ rehan
 - [Archit Khode](https://github.com/arkits)
 - [gamo-k](https://github.com/gamo-k)
 - [Vidhya Raja](https://github.com/vidhya-raja)
+- [Nihal Khan](https://github.com/harshaannihal)
