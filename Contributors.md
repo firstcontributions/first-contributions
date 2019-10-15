@@ -131,6 +131,7 @@
 - [Denni Bevilacqua](https://github.com/dennib)
 - [Parth Santoki](https://github.com/parthsantoki01)
 - [Avijit Mondal](https://github.com/avijitmondal)
+- [Kelliann Lafferty] (https://github.com/klaffert)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
