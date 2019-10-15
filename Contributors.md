@@ -2,7 +2,7 @@
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
-- [Kashish Dewnani] (https://github.com/Kash2000)
+- [Kashish Dewnani](https://github.com/Kash2000)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Abhishek Mittal](https://github.com/amittal151)
