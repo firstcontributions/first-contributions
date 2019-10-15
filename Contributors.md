@@ -102,6 +102,7 @@
 - [David Victoria](https://github.com/davic64)
 - [Chaz Lambert] (https://github.com/chaz-lambert)
 - [Rajendra Prajapat](https://github.com/rajpra786)
+- [Gagandeep singh](https://github.com/gagan0183)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
 - [Christabel Khumalo] (https://github.com/Aurorabell)
