@@ -7223,6 +7223,7 @@ Stephan Sharpe
 - [youyou22222](https://github.com/youyou22222)
 - [Charikleia Niouraki](https://github.com/niouraki)
 - [Ujjal Sharma](https://github.com/ujjalstark)
+- [himu]
 - [Brian Kim](https://github.com/bkim121)
 - [Dinko Pehar](https://github.com/PinkFrojd)
 - [Bhavana Sudharshan](https://github.com/bhavanasudharshan)
@@ -17535,6 +17536,7 @@ Mário Baltazar
 rehan
 - [ThereOHM](https://github.com/ThereOHM)
 - [Born2Root](https://github.com/Born2Root)
+- [Shynd](https://github.com/Shynd)
 - [NAV1RAIN](https://github.com/NAV1RAIN)
 - [Shynd](https://github.com/Shynd)
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
