@@ -331,7 +331,7 @@ Renjith Joseph
 - [P4ul](https://github.com/P4ul-J)
 - [Slient](https://github.com/Zison-Yung)
 - [Parth Panchal](https://github.com/parthpanchal123)
-- [Harshil Panwar](https://github.com/HarshilP03)
+- [HarshilPanwar](https://github.com/HarshilP03)
 - [Ali Daghighi](https://github.com/alidaghighi)
 - [Christian Dahlberg](https://github.com/christiandahlberg)
 - [bubz](https://github.com/debubz)
