@@ -126,11 +126,3 @@ Nyní vám už nic nebrání v příspívání do ostatních projektů. Připrav
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Sebe propagace
-
-Pokud se vm tento projket líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
-Stránky původního autora [Roshan](https://roshanjossey.github.io/).
-[Stránky překladatele](https://bambusekd.cz).
-
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

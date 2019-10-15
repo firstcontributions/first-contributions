@@ -108,10 +108,3 @@ Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuo
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Padėka autoriui
-
-Jei jums patiko šis projektas, pažymėkite jį žvaigždute [GitHub](https://github.com/Roshanjossey/first-contributions).
-Jei jaučiatės ypač dėkingi, sekite [Roshan](https://roshanjossey.github.io/)
-[Twitter](https://twitter.com/sudo__bangbang) arba
-[GitHub](https://github.com/roshanjossey).
-

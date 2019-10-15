@@ -160,11 +160,3 @@ git push origin <add-your-branch-name>
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## నేనే ప్రమోషన్
-
-మీరు ఈ ప్రాజెక్ట్ను ఇష్టపడ్డారు ఉంటే, అది [GitHub](https://github.com/Roshanjossey/first-contributions) న స్టార్.
-మీరు ముఖ్యంగా స్వచ్ఛందంగా భావిస్తే, [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) ను అనుసరించండి  మరియు
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

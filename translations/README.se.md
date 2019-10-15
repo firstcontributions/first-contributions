@@ -120,14 +120,7 @@ Nu kan du gå vidare genom att bidra i andra projekt. Vi har sammanställt en li
 ## Handledningar för andra verktyg
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
 
-## Beröm
-
-Om du tyckte om detta projektet kan du tilldela stjärnor på [GitHub](https://github.com/Roshanjossey/first-contributions).
-Känner du dig särskilt snäll kan du följa [Roshan](https://roshanjossey.github.io/) på
-[Twitter](https://twitter.com/sudo__bangbang) och
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

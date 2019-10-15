@@ -108,6 +108,3 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-# 宣伝
-このプロジェクトがお気に召しましたら[Github](https://github.com/Roshanjossey/first-contributions)上でstarしてくださると幸いです。特にお気に召した場合には[Twitter](https://twitter.com/sudo__bangbang)上や[GitHub](https://github.com/roshanjossey)などで
-[Roshan](https://roshanjossey.github.io/)をフォローしてくださると幸いです。
