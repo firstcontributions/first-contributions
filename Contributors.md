@@ -17728,6 +17728,7 @@ rehan
 - [Stephen Ku] (https://github.com/sjku1)
 - [Prateek Pardeshi](https://github.com/prateekpardeshi)
 - [rodrrj] (https://github.com/rodrrj)
+- [ai-aig] (https://github.com/ai-gaanv)
 - [shridhar kalavagunta] (https://github.com/coolshrid)
 - [Sicun Chen] (https://github.com/sicunchen)
 - [Roy Jang](https://github.com/arejang)
