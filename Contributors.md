@@ -166,6 +166,7 @@
 - [Ajriel Rizqy Maulana]
 - [Spirulinax] (https://github.com/spirulinax)
 - [Desire Lumene](https://github.com/Desire01)
+- [Brandon Tran](https://github.com/beaveh)
 - [Jakub Drzyzga](https://github.com/JDrzyzga)
 - [Antonino Cangialosi](https://github.com/ninoCan)
 - [Anuj Attri](https://github.com/Anuj-Attri)
@@ -7798,7 +7799,7 @@ Stephan Sharpe
 - [Sean Thomas](https://github.com/thomasean)
 - [Teko Sulaiman](https://github.com/tekosulaiman)
 - [Adam Boryslawski](https://github.com/worstahrieu)
-- [Carlos Morales](https://github.com/cmoralesmx) 
+- [Carlos Morales](https://github.com/cmoralesmx)
 - [Zippo](https://github.com/A1zippo1)
 - [Caixia Han](https://https://github.com/webgirlCX)
 - [Chris Rogers](https://github.com/armitroncee)
