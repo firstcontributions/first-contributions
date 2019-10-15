@@ -20,6 +20,7 @@
 - [Zaycodes](https://github.com/zainababubakar)
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
+- [Eric Thörn] (https://github.com/ethorn)
 - [Sahaj Evens](https://github.com/sahaj-evens)
 - [Desmond Chi](https://github.com/desmochi)
 - [Anthony Vo](https://github.com/anthony-vo)
