@@ -31,5 +31,5 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 26. [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 27. [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
 28. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
-
+29. [Git video tutorials by thenewboston] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 Keep adding more links, that you find helpful.
