@@ -52,6 +52,7 @@
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - Matt L
+- Harshit kumar 
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
