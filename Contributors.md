@@ -23,6 +23,7 @@
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
+- [Rachit Garg](https://github.com/rstar900)
 - [Milo Wyner](https://github.com/milowyner)
 - [Lauren Mooney](https://github.com/laurennmooney)
 - Anirudh
