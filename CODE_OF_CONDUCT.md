@@ -11,7 +11,7 @@ orientation.
 
 ## Our Standards
 
-Examples of behaviour that contributes to creating a positive environment
+Examples of behaviour that contribute to creating a positive environment
 include:
 
 *   Using welcoming and inclusive language.
@@ -51,7 +51,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances. The project team
