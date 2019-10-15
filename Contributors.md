@@ -10835,6 +10835,7 @@ Stephan Sharpe
 - [Ron Lester Crisostomo]()
 - [Angel Young](https://github.com/angelyoung24)
 - [Melissa Lucas](https://github.com/mlucas2218)
+- [Hao Sen](https://github.com/teohsen)
 - [Will Fitch](https://github.com/WRFitch)
 - [Kyle OBrien](https://github.com/webbhostnet)
 - [Firas Omrane](https://github.com/firou1925)
