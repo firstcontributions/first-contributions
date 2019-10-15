@@ -45,6 +45,7 @@
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Maria Bolanos](https://github.com/mariabp)
+- [Usama liaquat](https://github.com/Usamaliaquat123)
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
