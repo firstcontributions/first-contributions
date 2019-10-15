@@ -8715,7 +8715,7 @@ Rohan Das
 - [Aman Jain](https://github.com/amanjain25)
 - [Justin Estaris](https://github.com/JustinEstaris)
 - [Jakob S](https://github.com/zjael)
-- [Henry](https://github.com/Henry6612700)
+- [Henry] Bio : hacktoberfest(https://github.com/Henry6612700)
 - [Ted Jacobs](https://github.com/tedjacobs)
 - [Henning K](https://github.com/Henning-K)
 - [Pranav Garg](https://github.com/pranavgarg123)
