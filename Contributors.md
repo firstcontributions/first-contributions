@@ -32,8 +32,9 @@
 - [Milo Wyner](https://github.com/milowyner)
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
+- Marcband
 - Anirudh
-- Johanna 
+- Johanna
 - Philip Wright
 - Adam Carroll
 - Green S
