@@ -14,6 +14,7 @@
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
 - [Piyush Sinha](https://github.com/piyushsinha24)
+- [Kritika Srivastava](https://github.com/Kritikas27)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [InstaKarma](https://github.com/InstaKarma4)
