@@ -278,6 +278,7 @@ Renjith Joseph
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
 - [Sergio Alejandro Prieto Rengifo](https://github.com/alejolale)
+- [Harsh Singh Bais](https://github.com/harshsbais)
 - [Alberto Xamin](https://github.com/albertoxamin)
 - [Shriyansh Jain](https://github.com/Shriyansh-J)
 - [Jeffrey Norris] (https://github.com/jeffreydn1161)
