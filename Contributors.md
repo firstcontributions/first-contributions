@@ -111,6 +111,7 @@
 - [Maike Fischer]
 - [Yash Jaiswal]
 - [Kasra Tabrizi]
+- [ymrz]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Nicolas Pin](https://github.com/pythareme)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
