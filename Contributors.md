@@ -31,6 +31,7 @@
 - Philip Wright
 - Adam Carroll
 - Green S
+- Edwin Waweru
 - [Norma Bunton] (https://github.com/normabunton)
 - [Jonah Waschek] (https://github.com/voz977)
 - [Agrim Jain](https://github.com/Agrim2411)
