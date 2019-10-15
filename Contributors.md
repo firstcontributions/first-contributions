@@ -3225,6 +3225,7 @@ Stephan Sharpe
 - [Dheeraj Golchha](https://github.com/dheerajg11)
 - [Victor Machado](https://github.com/vamcs)
 - [Lewis Harvey](https://github.com/lewman215)
+- [Daniel Davies](https://github.com/darrkshade)
 - Carlos
 - [Chandima Ranaweera](https://github.com/chan4lk)
 - [Smit Gajjar](https://github.com/smitgajjar)
