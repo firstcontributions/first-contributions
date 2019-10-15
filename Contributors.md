@@ -738,6 +738,7 @@ Edison Shek
 - [Saksham Gupta](https://github.com/sakshamgupta1074)
 - [Sarthak Bawal](https://github.com/Sartech-B)
 - [Arshdeep Singh Kawatra](https://github.com/arshdeepsk)
+- [loagis](https://github.com/loagis)
 - [KoGo Codeing](https://github.com/KoGoCoding)
 - [Uzma Faiz](https://github.com/uzmafaiz)
 - [Mason D](https://github.com/Twileigh)
