@@ -189,6 +189,7 @@ Renjith Joseph
 - [Michael George](https://github.com/mg4603)
 - [Andre Wibbeke](https://github.com/pennyJack/)
 - [Bettina Lanser](https://github.com/bettina723)
+- [**Sandeep Singh Negi**](https://github.com/sandeepnegi1996)
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
