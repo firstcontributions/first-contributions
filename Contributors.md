@@ -2162,6 +2162,7 @@
 - [Vijay Kumar](https://github.com/VijayVj7)
 - [Deepak Hooda]
 - [Panayiotis Kaizo](https://github.com/pns2050)
+- [Shubhi Lohani] (https://github.com/ShubhiL)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Grant Hixson](https://github.com/androidfanatic)
 - [AndroidFanatic](https://github.com/androidfanatic)
