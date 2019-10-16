@@ -48,6 +48,8 @@
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
+[🇷🇸](translations/README.sr.md)
+
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
@@ -164,11 +166,3 @@ git push origin <आपल्या-शाखेचे-नाव>
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-## स्वयं जाहिरात
-
-आपल्याला हा प्रकल्प आवडला असेल तर तो [गिटहबवर](https://github.com/Roshanjossey/first-contributions) तारांकित करा.
-जर आपल्याला काही आर्थिक मदत करायची ईच्छा असेल तर रोशनला [ट्विटर](https://roshanjossey.github.io/) आणि
-[गिटहबवर](https://github.com/roshanjossey) फॉलो करा.
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>

@@ -129,9 +129,3 @@ git push origin <താങ്കളുടെ-ബ്രാഞ്ചിന്റ�
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
-## സ്വയം-പ്രചാരണം 
-
-താങ്കൾക്ക് ഈ പ്രൊജക്റ്റ് ഇഷ്ടപെട്ടുവെങ്കിൽ [ഗിറ്റ്ഹബിൽ](https://github.com/firstcontributions/first-contributions) സ്റ്റാർ ചെയ്യുക. വിരോധമില്ലെങ്കിൽ [റോഷനെ](https://roshanjossey.github.io/) [ട്വിറ്ററിലും](https://twitter.com/sudo__bangbang), [ഗിറ്റ്ഹബിലും](https://github.com/roshanjossey) പിന്തുടരുക.
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

@@ -54,6 +54,8 @@
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
+[🇷🇸](translations/README.sr.md)
+
 
 
 
@@ -159,12 +161,3 @@ git push origin <add-your-branch-name>
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
-## నేనే ప్రమోషన్
-
-మీరు ఈ ప్రాజెక్ట్ను ఇష్టపడ్డారు ఉంటే, అది [GitHub](https://github.com/Roshanjossey/first-contributions) న స్టార్.
-మీరు ముఖ్యంగా స్వచ్ఛందంగా భావిస్తే, [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) ను అనుసరించండి  మరియు
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
