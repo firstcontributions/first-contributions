@@ -4411,6 +4411,7 @@ Stephan Sharpe
 - [Venkatraman Narayanan](https://github.com/vijay4313)
 - [Tomasz Witczak](https://github.com/tmwitczak)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
+- [Jared](https://github.com/jjz13744)
 - [Dexter](https:///github.com/try-dexters-lab)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
 - [shanto](https://github.com/shanto)
