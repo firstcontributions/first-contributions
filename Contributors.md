@@ -8,6 +8,7 @@
 - [Noëlie Rx](https://github.com/Noelierx)
 -[Huda Ali](https://github.com/hali0008)
 - [Rishi Verma](https://github.com/thecoderishi)
+- [Joshua Sani](https://github.com/joshysmart)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Abhishek Mittal](https://github.com/amittal151)
