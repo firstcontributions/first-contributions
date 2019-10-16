@@ -65,6 +65,7 @@
 - [Suvranil Dutta](https://github.com/neil-dev)
 - Matt L
 - Harshit kumar 
+- [Aman Dev Chowdhary](https://github.com/AthN3090)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
