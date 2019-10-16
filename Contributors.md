@@ -5,6 +5,7 @@
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Im lohith](https://github.com/Imlohith)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
+- [Emery Weist] (https://github.com/EBWeist)
 - [Tim Pedone](https://github.com/macdude357)
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Mantas Vaistaras](https://github.com/Manteliz)
