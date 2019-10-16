@@ -38,6 +38,7 @@
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
 - [Priyam] (https://github.com/priyam125)
+- [Yash Goyal] (https://github.com/yash-iiith)
 - [Satyam] (https://github.com/priyam125)
 - [Chabat] (https://github.com/chabat)
 - [Flavia] (https://github.com/flaviamedici)
