@@ -33,6 +33,7 @@
 - [Chris Williams] (https://github.com/mistwire)
 - [Priyam] (https://github.com/priyam125)
 - [Satyam] (https://github.com/priyam125)
+- [Chabat] (https://github.com/chabat)
 - [Aaradhya Jain](https://github.com/aaradhya15)
 - [Magnus] (https://github.com/Strandgaard96)
 - [Samrat K S] (https://github.com/Samratkashipathi)
