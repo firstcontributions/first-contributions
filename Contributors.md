@@ -7,6 +7,7 @@
   [Patrick Hughey](https://github.com/jphughey1)
 - [Noëlie Rx](https://github.com/Noelierx)
 -[Huda Ali](https://github.com/hali0008)
+- [Kalpit Pant](https://github.com/kalpitpant)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Joshua Sani](https://github.com/joshysmart)
 - [Mike Stewart](https://github.com/ThisBeMyName)
