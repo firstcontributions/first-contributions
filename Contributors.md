@@ -223,7 +223,8 @@
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
-Renjith Joseph
+- Renjith Joseph
+- [archery2000] (https://github.com/archery2000)
 - [Vaibhav Singh]
 - [Carlos] (https://github.com/cwmoreiras)
 - [Nitish Rawat](https://github.com/Nitish0852)
