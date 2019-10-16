@@ -13093,6 +13093,7 @@ Stephan Sharpe
 - [Carl Hossner](https://github.com/hossner)
 - [Henrik Ripa](https://github.com/Gieron)
 - [Klmnv Srg](https://github.com/klmnvsrg)
+- [dantanq](https://github.com/dantanq)
 - [Sumeeta Farrukh](https://github.com/sumeetaf)
 - [Joshua Roberts](https://github.com/banananaki)
 - [Tarek Elbeih](https://github.com/ISpoonJelly)
