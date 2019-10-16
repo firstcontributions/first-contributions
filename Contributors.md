@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Milind Sahay](https://github.com/milindsahay)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
@@ -3077,6 +3078,7 @@ Stephan Sharpe
 - kuhiga
 - [Peter Zalejski](https://github.com/pzalejski)
 - [Andi Ferhati](https://github.com/aferhati)
+[Milind Sahay](https://github.com/milindsahay)
 - goop
 - [Aramayis Orkusyan](https://github.com/AramayisOrkusyan)
 - Manoj
