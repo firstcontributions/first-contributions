@@ -546,6 +546,7 @@ Renjith Joseph
 - [Vinod Sharma] (https://github.com/thesaadpatel)
 - [Meghan Blankenship]
 - [barry che]
+- [Jibrin Baba Isah Mokwa]
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
