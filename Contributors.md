@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Daniela Ramirez](https://github.com/dxniela)
@@ -38,7 +39,6 @@
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
 - [Priyam] (https://github.com/priyam125)
-- [Yash Goyal] (https://github.com/yash-iiith)
 - [Satyam] (https://github.com/priyam125)
 - [Chabat] (https://github.com/chabat)
 - [Flavia] (https://github.com/flaviamedici)
