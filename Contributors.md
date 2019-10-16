@@ -17764,3 +17764,4 @@ rehan
 - [Paragon_Aureole](https://github.com/Paragon-Aureole)
 - [Brandon Fadairo](https://github.com/BFadairo)
 - [Spencer Ochs](https://github.com/Eochs)
+- [Will Chow](https://github.com/will-chow)
