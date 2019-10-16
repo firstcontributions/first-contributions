@@ -2031,6 +2031,7 @@ Stephan Sharpe
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
 - [shreejeetp](https://github.com/shreejeetp)
+EduardoPicolo
 - [Mazhar Ali Baig](https://github.com/mazharalibaig)
 - [Rye Guren](https://github.com/Klereue)
 - [Noah Nichols](https://github.com/noahjacknichols)
