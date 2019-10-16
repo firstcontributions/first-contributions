@@ -1,9 +1,11 @@
 ﻿# Contributors
 - [Priya Mane](https://github.com/pugnator-12)
 - [Sourav Sharma](https://github.com/rockoking)
+- [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Im lohith](https://github.com/Imlohith)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
+- [Tim Pedone](https://github.com/macdude357)
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Mantas Vaistaras](https://github.com/Manteliz)
   [Patrick Hughey](https://github.com/jphughey1)
@@ -30,6 +32,7 @@
 - [Chris Williams] (https://github.com/mistwire)
 - [Priyam] (https://github.com/priyam125)
 - [Satyam] (https://github.com/priyam125)
+- [Aaradhya Jain](https://github.com/aaradhya15)
 - [Magnus] (https://github.com/Strandgaard96)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [Shubham Chadokar](https://github.com/schadokar)
@@ -72,6 +75,7 @@
 - [Suvranil Dutta](https://github.com/neil-dev)
 - Matt L
 - Harshit kumar
+- [Dylan Clements](https://github.com/dclements9)
 - [Aman Dev Chowdhary](https://github.com/AthN3090)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
@@ -280,6 +284,7 @@
 - [Naman Gupta](https://github.com/namangup)
 - [Andreas Szekely](https://github.com/Zekel97)
 - [Sanchi]
+notForProffitt
 - [Hamad Mohamed](https://github.com/Hamadou49)
 - [Esslam Ben Ramadan](https://github.com/Esslamb)
 - [Numnumchips](https://github.com/Numnumchips)
@@ -7350,6 +7355,7 @@ Stephan Sharpe
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
 - [z5112750](https://github.com/z5112750)
+- [nishasaini](https://github.com/beingnishas)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
 - [ChrisB](https://github.com/ROF618)
 - [Andrus N](https://github.com/andrus14)
@@ -17789,8 +17795,9 @@ rehan
 - [Dharmen Shah](https://github.com/shhdharmen)
 - Me
 -{Sourav Sharma](http://github.com/rockoking)
-Hey this is sourav
-Its Sourav
+-  Hey this is sourav
+- Its Sourav
 - [Raja](https://github.com/rajakannan)
 - [Bilal Irfan](https://github.com/bilal112)
 - [Patryk Soika](https://github.com/friendimaginary)
+- [Blake O'Connell](https://github.com/blakeoconnell)
