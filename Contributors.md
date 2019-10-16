@@ -74,6 +74,7 @@
 - [Suvranil Dutta](https://github.com/neil-dev)
 - Matt L
 - Harshit kumar
+- [Dylan Clements](https://github.com/dclements9)
 - [Aman Dev Chowdhary](https://github.com/AthN3090)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
