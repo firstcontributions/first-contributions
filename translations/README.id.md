@@ -7,9 +7,9 @@
 
 Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor open-source baru belajar & berkontribusi untuk pertama kalinya.
 
-Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada benar-benar melakukan hal-hal tersebut di lingkungan praktik? Proyek ini bertujuan untuk memberikan panduan & menyederhanakan cara pemula memberikan kontribusi pertama mereka. Jika Anda ingin memberikan kontribusi pertama, ikuti langkah-langkah di bawah ini.
+Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada benar-benar melakukan hal-hal tersebut di lingkungan sebenarnya? Proyek ini bertujuan untuk memberikan panduan & menyederhanakan cara pemula memberikan kontribusi pertama mereka. Jika Anda ingin memberikan kontribusi pertama, ikuti langkah-langkah di bawah ini.
 
-#### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan alat GUI.](#tutorial-menggunakan-alat-lain)_
+#### _Jika Anda tidak nyaman dengan _command line_, [di sini ada tutorial menggunakan GUI.](#tutorial-menggunakan-alat-lain)_
 
 #### _Baca ini dalam [bahasa lain](translations/Translations.md)._
 
@@ -65,18 +65,18 @@ Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik d
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila Anda belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## Fork repositori ini
 
 Fork repositori ini dengan cara menekan tombol fork yang ada di bagian atas layar.
 Hal tersebut akan membuat salinan repositori ini di akun anda.
 
-## Klon repositori
+## Clone repositori
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon "copy to clipboard".
+Sekarang clone repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon `copy to clipboard`.
 
 Buka terminal dan eksekusi perintah git berikut:
 
@@ -84,7 +84,7 @@ Buka terminal dan eksekusi perintah git berikut:
 git clone "url yang telah anda salin"
 ```
 
-yang mana "url yang telah anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
+Di mana `url yang telah anda salin` (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -94,17 +94,17 @@ Contoh:
 git clone https://github.com/username-anda/first-contributions.git
 ```
 
-Dimana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
+Di mana `username-anda` adalah username Github anda. Pada langkah ini anda menduplikasi konten dari repositori first-contributions di GitHub ke komputer anda.
 
 ## Membuat Cabang
 
-Ganti ke direktori repositori di komputer (jika belum ada di sana):
+Ganti ke direktori repositori di komputer (jika belum ada):
 
 ```
 cd first-contributions
 ```
 
-Buat cabang dengan perintah `git checkout`:
+Buat branch baru dengan perintah `git checkout`:
 
 ```
 git checkout -b <add-nama>
@@ -116,7 +116,7 @@ Contoh:
 git checkout -b add-alonzo-church
 ```
 
-(Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
+(Nama branch tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama anda ke dalam sebuah daftar.)
 
 ## Buat perubahan yang diperlukan lalu commit perubahan tersebut
 
@@ -134,9 +134,9 @@ git commit -m "Add <nama> to Contributors list"
 
 ganti `<nama>` dengan nama anda.
 
-## Dorong perubahan ke GitHub
+## Kirim perubahan ke GitHub
 
-Dorong perubahan menggunakan perintah `git push`:
+Kirim perubahan menggunakan perintah `git push`:
 
 ```
 git push origin <add-nama>
@@ -146,7 +146,7 @@ Ganti `<add-nama>` dengan nama cabang yang sebelumnya telah dibuat.
 
 ## Submit perubahan untuk diulas
 
-Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
+Jika anda membuka repositori anda di GitHub, maka akan ada tombol `Compare & Pull Request`. Tekan tombol tersebut.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -154,15 +154,15 @@ Submit pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Segera saya akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
+Saya akan segera menggabungkan semua perubahan Anda ke _branch_ utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
 
 ## Ke mana lagi setelah dari sini?
 
-Selamat! Anda baru saja menyelesaikan garpu standar -> klon -> edit -> alur kerja PR yang akan sering Anda temui sebagai kontributor!
+Selamat! Anda baru saja menyelesaikan alur standar _fork_ -> _clone_ -> _edit_ -> alur kerja PR yang akan sering Anda temui sebagai kontributor!
 
-Mari rayakan kontribusi anda dan bagikan pengalaman tersebut bersama teman-teman dengan pergi ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Mari rayakan kontribusi anda dan bagikan pengalaman tersebut bersama teman-teman dengan berkunjung ke [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Anda dapat bergabung dengan tim slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Anda dapat bergabung dengan tim Slack kami jika membutuhkan bantuan atau memiliki pertanyaan. [Bergabung dengan tim Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Sekarang, mari mulai berkontribusi di proyek lain. Kami sudah mengumpulkan daftar proyek dengan isu yang mudah dikerjakan sehingga anda dapat segera memulai. Cek di [daftar proyek web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
