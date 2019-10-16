@@ -66,6 +66,7 @@
 - Green S
 - Edwin Waweru
 - Ujwal Kadariya
+- [Justin Del Toro](https://github.com/NightWolf1988)
 - [Norma Bunton] (https://github.com/normabunton)
 - [Nicole Raicu] (https://github.com/raicunicole)
 - [Jonah Waschek] (https://github.com/voz977)
