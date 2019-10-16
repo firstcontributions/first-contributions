@@ -46,6 +46,7 @@
 - [Rachit Garg](https://github.com/rstar900)
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
+- [Ankit Garg](https://github.com/ankitgargsma)
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - Marcband
