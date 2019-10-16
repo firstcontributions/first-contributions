@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Priya Mane](https://github.com/pugnator-12)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Im lohith](https://github.com/Imlohith)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
