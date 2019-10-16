@@ -3294,6 +3294,7 @@ Stephan Sharpe
 - [Tania Pagan-Rosario](https://github.com/TaniaPaganRosario)
 - [Asim Thapa](https://github.com/asimtut)
 - [Amarjit Singh](https://github.com/bob1982)
+- [Teresa G](https://github.com/Teresa-gg)
 - [Thanasis Ntogaris](https://github.com/thntogaris)
 - [Greg Bouras](https://github.com/gbouras)
 - [Bibek Gautam](https://github.com/bibek22)
