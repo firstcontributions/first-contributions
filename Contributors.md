@@ -13,6 +13,7 @@
 - [Kalpit Pant](https://github.com/kalpitpant)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Joshua Sani](https://github.com/joshysmart)
+- [Amandeep Singh Kalra](https://github.com/Synster)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Abhishek Mittal](https://github.com/amittal151)
