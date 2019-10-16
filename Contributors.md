@@ -4316,6 +4316,7 @@ Stephan Sharpe
 - Tim Borisenko
 - [Ariel](https://github.com/donutsteele)
 - [Austin](https://github.com/AustinLeavitt)
+- [Pallavi Yadav](https://github.com/alphanumeric-string)
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [S-Tim](https://github.com/s-tim)
 - [Muhammad Ijaz](https://github.com/mejaz992)
