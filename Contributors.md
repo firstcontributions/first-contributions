@@ -1021,6 +1021,7 @@ Hammad Qureshi
 - [Drashti Modasara](https://github.com/drashti1712)
 - [Joseph](https://github.com/Joseph7695/)
 - [Masood Qaim](https://github.com/masodaqaim/)
+- [Chris Freeman](https://github.com/ChrisFreeman/)
 - [joern89](https://github.com/joern89/)
 - [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
