@@ -15712,6 +15712,7 @@ Stephan Sharpe
 - [Warun](https://github.com/ubinix-warun)
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
+- [Hiroshi Haji](https://github.com/hirohaji)
 - [Yamin](https://github.com/yaminmhd)
 - [Siltaz](https://github.com/siltaz)
 - [Akash Ravi](https://github.com/git-ash22)
