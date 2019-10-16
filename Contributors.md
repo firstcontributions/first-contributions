@@ -39,6 +39,7 @@
 - [Sagarika Puri](https://github.com/SagarikaPuri)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Samuel Bétrisey](https://github.com/betrisey)
+- [Tarun Khandelwal](https://github.com/kaitou786)
 - [Cena Mayo](https://github.com/cena)
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
