@@ -1,6 +1,7 @@
 # Contributors
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Noëlie Rx](https://github.com/Noelierx)
+- [Mohit Kashyap](https://github.com/mk143c)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
