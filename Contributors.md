@@ -1,4 +1,5 @@
 # Contributors
+- [Rose L McKee](https://github.com/RoseLMcKee)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Shubham Singh](https://github.com/shubham0812)
