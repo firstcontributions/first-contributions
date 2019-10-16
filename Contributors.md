@@ -17816,3 +17816,4 @@ rehan
 - [MATTHEW MCGEEHAN](https://github.com/AxiomDesignCo)
 - [Ahmad Rafiqul A'la](https://github.com/Sky4Crown)
 - [KYBA](https://github.com/A-KYBA)
+- [Bruno Lima](https://github.com/beugenio)
