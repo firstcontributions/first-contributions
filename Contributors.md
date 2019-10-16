@@ -102,6 +102,7 @@
 - [Desmond Chi](https://github.com/desmochi)
 - [Pilot143] (https://github.com/pilot143)
 - [Anthony Vo](https://github.com/anthony-vo)
+- [Pravallika Kura](https://github.com/PravallikaKura)
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
