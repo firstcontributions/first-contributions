@@ -1,5 +1,5 @@
 ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,7 +8,6 @@
 Είναι πάντα δύσκολο να κάνεις κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεσαι με άλλους και κάνεις λάθη, η κατάσταση γίνεται ιδιαίτερη άβολη. Αλλά το σημαντικότερο πράγμα στο ανοιχτό λογισμικό είναι η συνεργασία και να δουλεύουμε μαζί. Θέλαμε να απλοποιήσουμε τον τρόπο με τον οποίο οι άνθρωποι που για πρώτη φορά συνεισφέρουν στο ανοιχτό λογισμικό, μαθαίνουν και κάνουν πράγματα.
 
 Μπορείτε να βοηθηθείτε διαβάζοντας άρθρα και βλέποντας ενημερωτικά βίντεο, αλλά τίποτα δε συγκρίνεται με το να δουλεύετε σε ένα πραγματικό project. Αυτό το έργο έχει στόχο να κατευθύνει και να απλοποιήσει τον τρόπο με τον οποίο οι σχετικά άπειροι συνεισφέρουν για πρώτη φορά σε κώδικα ανοιχτού λογισμικού. Σκεφτείτε ότι όσο πιο χαλαροί είστε τόσο πιο εύκολα μαθαίνετε. Εάν προσπαθείτε να κάνετε την πρώτη σας συνεισφορά σε κώδικα, ακολουθήστε τα επόμενα απλά βήματα.
-
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -125,12 +124,4 @@ git push origin <add-your-name>
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-
-## Προώθηση του πρότζεκτ
-
-Αν σας άρεσε το πρότζεκτ, προσθέστε το στα αγαπημένα (βάλτε αστεράκι) στο [GitHub](https://github.com/Roshanjossey/first-contributions).
-Αν νιώθετε ακόμα περισσότερη ευγνωμοσύνη, ακολουθήστε τον [Roshan](https://roshanjossey.github.io/) στο [Twitter](https://twitter.com/sudo__bangbang) και [GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
 

@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -54,6 +54,8 @@
 [🇨🇿](translations/README.cs.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇲🇽](translations/README.mx.md)
+[🇷🇸](translations/README.sr.md)
+
 
 
 
@@ -139,7 +141,7 @@ git push origin <add-your-branch-name>
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Tvaralō nēnu mī anni mārpulanu ī prājekṭ yokka pradhāna vibhāgāniki vilīnaṁ cēstānu. Mārpulu vilīnaṁ ayina tarvāta mīru oka nōṭiphikēṣan imeyil pondutāru.
+త్వరలో నేను మీ అన్ని మర్పులను ఈ ప్రాజెక్ట్ యొక్క ప్రధాన విభాగానికి విలీనం చేస్తాను. మార్పులు విలీనం అయిన తర్వాత మీరు ఒక నోటిఫికేషన్ ఈమెయిల్ పొందుతారు.
 
 ## ఇక్కడ నుండి ఎక్కడికి వెళ్లాలి?
 
@@ -159,12 +161,3 @@ Tvaralō nēnu mī anni mārpulanu ī prājekṭ yokka pradhāna vibhāgāniki v
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
-## నేనే ప్రమోషన్
-
-మీరు ఈ ప్రాజెక్ట్ను ఇష్టపడ్డారు ఉంటే, అది [GitHub](https://github.com/Roshanjossey/first-contributions) న స్టార్.
-మీరు ముఖ్యంగా స్వచ్ఛందంగా భావిస్తే, [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) ను అనుసరించండి  మరియు
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
