@@ -46,6 +46,7 @@
 - Anirudh
 - Johanna
 - Philip Wright
+- [Alvin X](https://github.com/AlvinYX)
 - [Elisabeth Miller](https://github.com/libbymiller09)
 - Adam Carroll
 - Green S
