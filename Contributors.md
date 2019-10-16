@@ -69,7 +69,7 @@
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - Matt L
-- Harshit kumar 
+- Harshit kumar
 - [Aman Dev Chowdhary](https://github.com/AthN3090)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
@@ -362,7 +362,7 @@
 - [Android-Nougat](https://github.com/Android-Nougat)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Dhyey Gami](https://github.com/dhyey6602)
-- [Boris Klobucar] (https://github.com/bbborisk)
+- [Boris Klobucar](https://github.com/bbborisk)
 - [Arushi Pandit](https://github.com/arushipandit)
 - [Saksham Banga](https://github/com/sakshambanga)
 - [Atlas Alex](https://github.com/quwip10)
