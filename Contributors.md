@@ -7349,6 +7349,7 @@ Stephan Sharpe
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
 - [z5112750](https://github.com/z5112750)
+- [nishasaini](https://github.com/beingnishas)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
 - [ChrisB](https://github.com/ROF618)
 - [Andrus N](https://github.com/andrus14)
