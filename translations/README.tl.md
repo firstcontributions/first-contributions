@@ -121,11 +121,3 @@ Ngayon, magsimula ka na mag-contribute sa ibang proyekto. Nagtipon kami ng lista
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Self-Promotion
-
-Kung nagustuhan mo ang proyekto na ito, i-star lang ang repo na ito sa [GitHub](https://github.com/Roshanjossey/first-contributions).
-Kung gusto mo pa ng pamamaraan ng pagpapasalamat, i-follow si [Roshan](https://roshanjossey.github.io/) sa
-[Twitter](https://twitter.com/sudo__bangbang) at sa
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

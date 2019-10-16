@@ -126,13 +126,3 @@ Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğ
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Kendi reklamım
-
-Bu projeyi sevdiyseniz, [GitHub](https://github.com/Roshanjossey/first-contributions)'da yıldız verin.
-Bonkör gününüzdeyseniz, [Roshan](https://roshanjossey.github.io/)'ı
-[Twitter](https://twitter.com/sudo__bangbang) ve
-[GitHub](https://github.com/roshanjossey)'da takip edin.
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-
-
