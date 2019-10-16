@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
