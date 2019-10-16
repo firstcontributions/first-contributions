@@ -29,6 +29,7 @@
 - [Vineet Sharma](https://github.com/Vineet-Sharma29)
 - [Nestor Alvarado](https://github.com/nVertoletik)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
+- [Shubham Rajani](https://github.com/shubham-on)
 - [Kirankumar Ambati](https://github.com/kirankumarambati)
 - [Yasir Haq](https://github.com/yasirrhaq)
 - [Martin Wilson](https://github.com/martinwjwilson)
