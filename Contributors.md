@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Mantas Vaistaras](https://github.com/Manteliz)
   [Patrick Hughey](https://github.com/jphughey1)
