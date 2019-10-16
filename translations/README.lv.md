@@ -10,7 +10,7 @@ Kaut ko paveikt pirmo reizi vienmēr ir grūti. Turklāt pieļaut kļūdas, jo �
 
 Rakstu lasīšana un pamācību skatīšanās var palīdzēt, tomēr nekas nav labāks par īstu darbību mācību vidē. Šī projekta mērķis ir sniegt norādījumus un vienkāršot veidu, kā iesācēji pievieno savu pirmo devumu. Ja tu vēlies līdzdarboties, seko turpmāk norādītajiem soļiem.
 
-#### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #tutorials-using-other-tools )*
+#### *Ja tu nejūties ērti ar komandrindu, [izmanto GUI rīku pamācības.]( #pamācības-citiem-rīkiem )*
 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
@@ -39,9 +39,9 @@ kur "tikko nokopētā saite" (bez pēdiņām) ir url uz šo repozitoriju (tavs p
 
 Piemēram:
 ```
-git clone https://github.com/tavs-lietotājvārds/first-contributions.git
+git clone https://github.com/tavs-vārds/first-contributions.git
 ```
-kur `tavs-lietotājvārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozitorija *first-contributions* saturu savā datorā.
+kur `tavs-vārds` ir tavs GitHub lietotājvārds. Šādi tu kopē GitHub repozitorija *first-contributions* saturu savā datorā.
 
 ## Izveido zaru
 
