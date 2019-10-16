@@ -4,6 +4,7 @@
 - [Mantas Vaistaras](https://github.com/Manteliz)
   [Patrick Hughey](https://github.com/jphughey1)
 - [Noëlie Rx](https://github.com/Noelierx)
+-[Huda Ali](https://github.com/hali0008)
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
