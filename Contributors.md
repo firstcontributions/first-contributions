@@ -6169,6 +6169,7 @@ Stephan Sharpe
 - [Samyuktha Prabhu](https://github.com/samyuktaprabhu)
 - [Edward Scott Elder](https://github.com/eselder)
 - [Niclas](https://github.com/buffet)
+- [Darktrooper3](https://github.com/darktrooper3)
 - [Obikoya Ibiniyi](https://github.com/Hybeecodes)
 - [Kat MacCannon](https://github.com/trenzafeeds)
 - [Shahmi Majid](https://github.com/shahmimajid)
