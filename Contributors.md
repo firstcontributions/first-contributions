@@ -17862,4 +17862,5 @@ rehan
 - [Elena Kutanov](https://github.com/ElenaKutanov)
 - [Harsh Doshi](https://github.com/harsh-doshii)
 - [Tim Ryan](https://github.com/netheavy)
+- [Richard Biros 🔥](https://github.com/birosrichard)
 
