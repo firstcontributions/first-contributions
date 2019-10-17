@@ -17682,6 +17682,7 @@ rehan
 - [Andreea Rete](https://github.com/AndreeaRete)
 - [Joe Rathborne] (https://github.com/joerathborne)
 - [Ife Makinde].(https://github.com/mckinderegg)
+- [Urko Lopez] (https://github.com/urkx)
 - [Rhea Varkey](https://github.com/RheaV99)
 - [Kyle Herron](https://github.com/herronk2)
 - [Qiyang Zuo](https://github.com/Alpha-yoyo)
@@ -17851,7 +17852,7 @@ rehan
 - [Seth Willits](https://github.com/saw142)
 - [Ankita Satapathy](http://github.com/ankita-04)
 - [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
-- [Natasha Jones] 
+- [Natasha Jones]
 - [Kat](http://github.com/helloimkat)
 - [Ivelin Iliev] (https://github.com/Iwi4a/)
 - [Kubilay Ürün](https://github.com/kubilayrn)
@@ -17860,3 +17861,5 @@ rehan
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
 - [Harsh Doshi](https://github.com/harsh-doshii)
+- [Tim Ryan](https://github.com/netheavy)
+
