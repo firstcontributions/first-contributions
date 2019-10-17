@@ -31,6 +31,7 @@
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 - [Kyle Woomer](https://github.com/Yoshinoes)
+-[Jacob Ankney](https://github.com/jankney2)
 - [Priyam Qwerty](https://github.com/aaradhya15)
 - [Joey Van Lierop 🚀](https://github.com/joeyvanlierop/)
 - [Shruti Shukla](https://github.com/shruti0987)
