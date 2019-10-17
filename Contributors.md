@@ -7,6 +7,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Im lohith](https://github.com/Imlohith)
+- [Jadson Santos](https://github.com/Jadson1197)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [Emery Weist] (https://github.com/EBWeist)
 - [Lupe Maydana] (https://github.com/luucamay)
