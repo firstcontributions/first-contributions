@@ -18,6 +18,7 @@
 - [Mantas Vaistaras](https://github.com/Manteliz)
 -  [Patrick Hughey](https://github.com/jphughey1)
 - [Rita Lin (https://github.com/cursedk7)
+- [Branden Morgan] (https://github.com/brandmorg)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Abhishek](https://github.com/wikiabhi)
 - [Aurab De](https://github.com/AurabDe)
