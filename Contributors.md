@@ -3571,6 +3571,7 @@ Stephan Sharpe
 - [Neeraj Dwivedi](https://github.com/neerajd007)
 - [Ashly Mathew](https://github.com/ashiemath)
 - [Alex Wu](https://github.com/mengw0815/)
+- [Lucas Pau](https://github.com/lucasdpau)
 - [Aghnia Prawira](https://github.com/fwrhine)
 - [Luke Aimson](https://github.com/LukeAims)
 - [Erik T](https://github.com/Etomer)
