@@ -2421,6 +2421,7 @@ Stephan Sharpe
 - [Prasanta Bose](https://github.com/boseprasanta)
 - [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
+- [Nicole Miller](https://github.com/nmillere)
 - [Martin Ramos](https://github.com/martin292)
 - [jakeec][https://github.com/jakeec]
 - [Ali Bolourian](https://github.com/abolourian)
