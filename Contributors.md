@@ -15575,6 +15575,7 @@ Stephan Sharpe
 - [Michelle Vick](https://github.com/vivega-mv)
 - [Lorrane Idevic](https://github.com/lorraneidevic)
 - [Brandon Pierce](https://github.com/bp-driptorch)
+- [Chris Humpert](https://github.com/chumpert)
 - [Bill Xi](https://github.com/element-sauce)
 - [EpicDragonSlayr](https://github.com/EpicDragonSlayr)
 - [Joao V Souto](https://github.com/JoaoVSouto)
