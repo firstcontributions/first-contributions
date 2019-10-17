@@ -1,0 +1,92 @@
+body{
+	background-color: #232323;
+	margin:0 0;
+	font-family: "Montserrat";
+}
+.square{
+	width:30%;
+	margin:1.66%;
+	background: blue;
+	padding-top: 30%;
+	float: left;
+	border-radius: 20px;
+	transition: background 0.5s;
+}
+
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 1.1;
+	padding:20px 0;
+	background-color: steelblue;
+}
+
+#option{
+		background-color: white;
+
+}
+
+#play{
+	margin: 0 0 0 30%;
+	background-color: white;
+	border:none;
+	font-weight: bold;
+	height: 100%;					
+	color: steelblue;
+	font-size: inherit;
+	letter-spacing: 1px;
+	transition: all 0.3s;
+	outline: none;
+}
+#status{
+	padding-left: 12%;
+	margin-right: 0;
+}
+
+#great{
+	text-align: center;
+}
+
+#guess{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+
+#game{
+	text-align: center;
+}
+
+.selected{
+	background-color: blue;
+}
+
+#easy{
+	border:none;
+	margin:0 0 0 14%;
+	font-weight: bold;
+	height: 100%;
+	color: steelblue;
+	font-size: inherit;
+	letter-spacing: 1px;
+	transition: all 0.3s;
+	outline: none;
+}
+
+#hard{
+	border:none;
+	margin:0 0;
+	font-weight: bold;
+	height: 100%;
+	color: steelblue; 
+	font-size: inherit;
+	letter-spacing: 1px;
+	transition: all 0.3s;
+	outline: none;
+}
