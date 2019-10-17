@@ -2,6 +2,7 @@
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
+- [Prashant Bhat](https://github.com/bhatprashant)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Daniela Ramirez](https://github.com/dxniela)
 - [Aman Saini] (https://github.com/Amansaini7)
