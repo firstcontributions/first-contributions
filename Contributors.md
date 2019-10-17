@@ -3,6 +3,7 @@
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Prashant Bhat](https://github.com/bhatprashant)
+- [Ollie de Guzman] (https://github.com/roldeguz)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Daniela Ramirez](https://github.com/dxniela)
