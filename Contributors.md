@@ -2271,6 +2271,7 @@ Stephan Sharpe
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Abdulganiyu Yusufu](https://github.com/abdulg95)
 - [Andrew Kiselev](https://github.com/akiselev1)
+- [Christopher Zentgraf](https://github.com/TheZenti)
 - [Yudi](https:/i/github.com/yudi7ll)
 - [Verduor](https://github.com/verduor)
 - [UnicodeRogue](https://github.com/UnicodeRogue)
