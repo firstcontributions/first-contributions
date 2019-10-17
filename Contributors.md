@@ -17833,5 +17833,5 @@ rehan
 - [Scott Hansford](https://github.com/zenwattage)
 - [Seth Willits](https://github.com/saw142)
 - [Ankita Satapathy](http://github.com/ankita-04)
-- [Ankita Satapathy](http://github.com/ankita-04)
+- [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
 - [Hamza Khan](https://github.com/Hamzakhann)
