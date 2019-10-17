@@ -30,6 +30,7 @@
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Prince Thakkar](https://github.com/Prince269090)
 - [Calie Rushton](https://github.com/CalieR)
+- [Andressa Siqueira] (https://github.com/siqandressa)
 - [Ana Beatriz](https://github.com/cchacall)
 - [Lucas Cuani](https://github.com/lucascuani)
 - [Anirudh Sriram](https://github.com/AnirudhSriram)
