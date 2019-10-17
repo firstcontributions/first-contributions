@@ -38,6 +38,7 @@
 - [Shruti Shukla](https://github.com/shruti0987)
 - [Ankit Dobhal](https://github.com/ankitdobhal)
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
+- [Vaibhav Patel](https://github.com/vaibhav-me999)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
 - [Priyam] (https://github.com/priyam125)
