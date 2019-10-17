@@ -71,6 +71,7 @@
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
+- [Matheus Elyasha](https://github.com/elyasha)
 - [Rachit Garg](https://github.com/rstar900)
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
