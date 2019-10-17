@@ -59,6 +59,7 @@
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Fatima Rojo](https://github.com/serfati5)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
+- [Arturo Iglesias](https://github.com/iglesias294)
 - [Gabriel Lefundes] (https://github.com/glefundes)
 - [Anas Yousef](https://github.com/I-XIII-I)
 - [Prayank Nair](https://github.com/PrayankNair)
