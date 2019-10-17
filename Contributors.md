@@ -293,7 +293,7 @@
 - [Parul Parikh](https://github.com/ParulParikh3)
 - [Ji Kang](https://github.com/KangJay)
 - [Donald Wilson](https://github.com/dlwilson88)
-- [Prachi Sarda] (https://github.com/PrachiSarda)
+[Prachi Sarda] (https://github.com/PrachiSarda)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Tarun Sharma] (https://github.com/ME-ON1)
