@@ -142,6 +142,7 @@
 - [Sunny Prakash](https://github.com/sprakash57)
 - [Adam Carolan] (https://github.com/caromur)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
+- [romeos25](https://github.com/romeos25)
 - [Hal Klein](https://github.com/halklein)
 - [Ankush Sharma](https://github.com/ScorchingShade)
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
