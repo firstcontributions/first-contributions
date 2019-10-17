@@ -2165,6 +2165,7 @@ Stephan Sharpe
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
 - Sathyanarayanan
+- Nasty G
 - [Ahmed Lebba](https://github.com/Kungfoosian)
 - [Davis Raimon](https://github.com/davisraimon)
 - [Goh Wei Rong](https://github.com/Qooooo)
