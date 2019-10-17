@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Matheus Duarte](https://github.com/MatheusPush)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Priya Mane](https://github.com/pugnator-12)
