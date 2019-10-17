@@ -20,6 +20,7 @@
 - [Rita Lin (https://github.com/cursedk7)
 - [Branden Morgan] (https://github.com/brandmorg)
 - [Noëlie Rx](https://github.com/Noelierx)
+- [Jordan Miller](https://github.com/lambduhh)
 - [Abhishek](https://github.com/wikiabhi)
 - [Aurab De](https://github.com/AurabDe)
 - [Abdulkarim] (https://https://github.com/kromy1994)
