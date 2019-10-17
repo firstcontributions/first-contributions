@@ -7,6 +7,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Im lohith](https://github.com/Imlohith)
+- [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [Emery Weist] (https://github.com/EBWeist)
@@ -18,7 +19,9 @@
 - [Mantas Vaistaras](https://github.com/Manteliz)
 -  [Patrick Hughey](https://github.com/jphughey1)
 - [Rita Lin (https://github.com/cursedk7)
+- [Branden Morgan] (https://github.com/brandmorg)
 - [Noëlie Rx](https://github.com/Noelierx)
+- [Jordan Miller](https://github.com/lambduhh)
 - [Abhishek](https://github.com/wikiabhi)
 - [Aurab De](https://github.com/AurabDe)
 - [Abdulkarim] (https://https://github.com/kromy1994)
@@ -17682,6 +17685,7 @@ rehan
 - [Andreea Rete](https://github.com/AndreeaRete)
 - [Joe Rathborne] (https://github.com/joerathborne)
 - [Ife Makinde].(https://github.com/mckinderegg)
+- [Urko Lopez] (https://github.com/urkx)
 - [Rhea Varkey](https://github.com/RheaV99)
 - [Kyle Herron](https://github.com/herronk2)
 - [Qiyang Zuo](https://github.com/Alpha-yoyo)
@@ -17851,7 +17855,7 @@ rehan
 - [Seth Willits](https://github.com/saw142)
 - [Ankita Satapathy](http://github.com/ankita-04)
 - [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
-- [Natasha Jones] 
+- [Natasha Jones]
 - [Kat](http://github.com/helloimkat)
 - [Ivelin Iliev] (https://github.com/Iwi4a/)
 - [Kubilay Ürün](https://github.com/kubilayrn)
@@ -17859,4 +17863,8 @@ rehan
 - [Yure Gabriel](https://github.com/yuregsf)
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
+- [Tim Ryan](https://github.com/netheavy)
+- [Ron Holt](https://github.com/GitarMan)
+- [Richard Biros 🔥](https://github.com/birosrichard)
 - [Harsh Doshi](https://github.com/harsh-doshii)
+
