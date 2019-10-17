@@ -17887,3 +17887,5 @@ rehan
 - [Ben Jenkins](https://github.com/benjenkins)
 - [Rafael Santiago](https://github.com/rmxsantiago)
 - [Robin k] {https://github.com/kronbergr)
+- [Giancarlo David] (https://github.com/giancarlo-david)
+
