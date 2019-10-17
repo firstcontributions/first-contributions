@@ -25,6 +25,7 @@
 - [Rishi Verma](https://github.com/thecoderishi)
 - [Joshua Sani](https://github.com/joshysmart)
 - [Mehryar](https://github.com/mehryar-m)
+- [Kshitij Dhyani](https://github.com/wimpywarlord)
 - [Amandeep Singh Kalra](https://github.com/Synster)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
