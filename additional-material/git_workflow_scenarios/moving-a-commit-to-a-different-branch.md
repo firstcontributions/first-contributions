@@ -13,13 +13,13 @@ To do this, type:
 ```git add .``` - Or try adding individual files.  
 ```git commit -m "your message here"``` - Saves and Commits the changes.  
 
-Now your changes are on the correct branch
+Now your changes are on the correct branch.
 
 
 ### Moving the latest commits to a new Branch
 To do this, type:  
 ```git branch newbranch``` -  Creates a new Branch. Saving all the Commits.  
-```git reset --hard HEAD~#``` - Move master back by # commits. Remember, these commits will be gone from master  
+```git reset --hard HEAD~#``` - Move master back by # commits. Remember, these commits will be gone from master.  
 ```git checkout newbranch``` - Goes to the branch you created. It will have all the commits.  
 
 Remember: Any changes not committed will be LOST.
