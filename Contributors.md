@@ -4,6 +4,7 @@
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Priya Mane](https://github.com/pugnator-12)
+- [Ahmed Waheed](https://github.com/mrcreamio)
 - [Daniela Ramirez](https://github.com/dxniela)
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
