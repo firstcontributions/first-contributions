@@ -67,6 +67,7 @@
 - [Arturo Iglesias](https://github.com/iglesias294)
 - [Gabriel Lefundes] (https://github.com/glefundes)
 - [Anas Yousef](https://github.com/I-XIII-I)
+- [Jeewani Shalika] (https://github.com/Jeewani1997)
 - [Prayank Nair](https://github.com/PrayankNair)
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
