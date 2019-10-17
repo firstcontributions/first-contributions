@@ -189,6 +189,7 @@
 - [Deep Diwakar](https://github.com/deepdiwakar9)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
+- [Parshav Jain](https://github.com/parshavjain10)
 - [Bill Kao](https://github.com/billkao1013)
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [Garima Mann](https://github.com/garimamann)
