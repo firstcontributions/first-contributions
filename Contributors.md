@@ -16196,6 +16196,7 @@ Stephan Sharpe
 - [Ricardo Seidel](https://github.com/Soletrar)
 - [Lee yonghyun](https://github.com/lyoungh)
 - [James Bond](https://github.com/digineo1)
+- [Alejandro Hdz](https://github.com/Ale-hub)
 - [Jangsea Park](https://github.com/jnsp)
 - [Erick Badilla](https://github.com/Ebadillav27)
 - [Chris Atanasova](https://github.com/MonoChromeLight)
