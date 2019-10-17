@@ -17859,3 +17859,4 @@ rehan
 - [Yure Gabriel](https://github.com/yuregsf)
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
+- [Harsh Doshi](https://github.com/harsh-doshii)
