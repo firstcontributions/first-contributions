@@ -157,6 +157,7 @@
 - [Nathaniel Graham](https://github.com/ngraham20)
 - [Abhishek Srikanth](https://github.com/AbhishekSrikanth)
 - [Anwesh Budhathoki] (https://github.com/anwesh-b)
+  [Ajay Chhajed](https://github.com/chhajed-ajay)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
