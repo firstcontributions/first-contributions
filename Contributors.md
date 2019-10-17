@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Daniela Ramirez](https://github.com/dxniela)
@@ -292,7 +291,8 @@
 - [Damian Zhang](https://github.com/Damian3930)
 - [Parul Parikh](https://github.com/ParulParikh3)
 - [Ji Kang](https://github.com/KangJay)
-[Prachi Sarda] (https://github.com/PrachiSarda)
+- [Donald Wilson](https://github.com/dlwilson88)
+- [Prachi Sarda] (https://github.com/PrachiSarda)
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Tarun Sharma] (https://github.com/ME-ON1)
