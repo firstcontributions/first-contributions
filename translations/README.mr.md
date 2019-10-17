@@ -48,6 +48,8 @@
 [🇸🇪](translations/README.se.md)
 [:slovenia:](translations/README.sl.md)
 [🇮🇱](translations/README.hb.md)
+[🇷🇸](translations/README.sr.md)
+
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
