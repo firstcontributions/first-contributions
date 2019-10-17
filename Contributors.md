@@ -675,6 +675,7 @@ notForProffitt
 - [DEEKSHA DAGA](https://github.com/deekshadaga)
 - [SHIVAM JAISWAL](https://github.com/shivamjaiswal64)
 - [Travis Moore](https://github.com/tmoore2016)
+- [Joan Sweeney](https://github.com/joanms)
 - [Jennifer Felton] (https://github.com/jenniferafelton)
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dan Ince](https://github.com/dince12)
