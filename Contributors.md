@@ -17682,6 +17682,7 @@ rehan
 - [Andreea Rete](https://github.com/AndreeaRete)
 - [Joe Rathborne] (https://github.com/joerathborne)
 - [Ife Makinde].(https://github.com/mckinderegg)
+- [Urko Lopez] (https://github.com/urkx)
 - [Rhea Varkey](https://github.com/RheaV99)
 - [Kyle Herron](https://github.com/herronk2)
 - [Qiyang Zuo](https://github.com/Alpha-yoyo)
