@@ -4955,7 +4955,6 @@ Stephan Sharpe
 - [Marc Brooks](https://github.com/AGeekInside)
 - [RomainLt](https://github.com/RomainLt)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
-- [Alex Oladele](https://github.com/dragid10)
 - apleht
 - [Tim Austin](https://github.com/neenjaw)
 - [Daman Tekchandani](https://github.com/daman98)
@@ -11397,6 +11396,7 @@ Stephan Sharpe
 - [Dilan Sachintha](https://github.com/dilanSachi)
 - [maqor](https://github.com/maqor)
 - [Diya Liza Varghses](https://github.com/diya-liza)
+- [Alex Oladele](https://github.com/dragid10)
 - [Manoj Deshpande](https://github.com/manojdeshpande94)
 - [Jillian Burns](https://github.com/jillianjmb)
 - [jonascastulik](https://github.com/jonascastulik)
