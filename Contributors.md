@@ -278,6 +278,7 @@
 - [Arjun Vijaykumar]
 - [Pranjal Gore](https://github.com/jalispran)
 - Sakchi17
+- Petr Osetr
 - Renjith Joseph
 - [archery2000] (https://github.com/archery2000)
 - [Vaibhav Singh]
