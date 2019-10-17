@@ -17781,6 +17781,7 @@ rehan
 - [Nhi](https://github.com/nhidiep984)
 - [Alina Karmacharya](https://github.com/alina02)
 - [Sabin Nepal](https://github.com/neymarsabin)
+- [Uri Frazier](https://github.com/furyuri/)
 - [Agile Belma](https://github.com/agilebelma)
 - [Hazim Sami] (http://github.com/hazim)
 - [Raghu Kamat(RK)] (https://github.com/GeniusStorm)
