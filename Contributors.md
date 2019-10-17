@@ -17862,4 +17862,5 @@ rehan
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
 - [Tim Ryan](https://github.com/netheavy)
+- [Ron Holt](https://github.com/GitarMan)
 - [Richard Biros 🔥](https://github.com/birosrichard)
