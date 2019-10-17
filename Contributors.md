@@ -17871,6 +17871,7 @@ rehan
 - [Bruno Lima](https://github.com/beugenio)
 - [Scott Hansford](https://github.com/zenwattage)
 - [Seth Willits](https://github.com/saw142)
+  [Nico Miguel](https://github.com/nicomigu)
 - [Ankita Satapathy](http://github.com/ankita-04)
 - [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
 - [Natasha Jones]
