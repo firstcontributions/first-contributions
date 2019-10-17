@@ -17851,7 +17851,7 @@ rehan
 - [Seth Willits](https://github.com/saw142)
 - [Ankita Satapathy](http://github.com/ankita-04)
 - [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
-- [Natasha Jones] 
+- [Natasha Jones]
 - [Kat](http://github.com/helloimkat)
 - [Ivelin Iliev] (https://github.com/Iwi4a/)
 - [Kubilay Ürün](https://github.com/kubilayrn)
@@ -17859,3 +17859,4 @@ rehan
 - [Yure Gabriel](https://github.com/yuregsf)
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
+- [Tim Ryan](https://github.com/netheavy)
