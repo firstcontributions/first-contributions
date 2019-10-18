@@ -4,6 +4,7 @@
 - [Phillip Pham](https://github.com/PHIQW)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
+- [Marisa] (https://github.com/marisawadsworth) 
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Yash Goyal](https://github.com/yash-iiith)
