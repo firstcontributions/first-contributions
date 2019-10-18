@@ -1,9 +1,8 @@
 ﻿# Contributors
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101) ![Iron Man](https://img1.looper.com/img/gallery/why-we-never-got-to-see-iron-man-4/intro.jpg)
 - [Anthony Chou](https://github.com/pycrusher)
-- **Noopur** ![Avengers](https://www.freepngimg.com/thumb/avengers/24591-2-avengers.png)
 - [Phillip Pham](https://github.com/PHIQW)
-- [Noopur](https://github.com/noopur-tiwari)
+- [Noopur Tiwari](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Marisa] (https://github.com/marisawadsworth) 
 - [Matheus Del Claro](https://github.com/mdelclaro)
