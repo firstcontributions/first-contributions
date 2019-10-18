@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Khabibullin Dinar](https://github.com/khabibd)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101) ![Iron Man](https://img1.looper.com/img/gallery/why-we-never-got-to-see-iron-man-4/intro.jpg)
 - [Anthony Chou](https://github.com/pycrusher)
 - **Noopur** ![Avengers](https://www.freepngimg.com/thumb/avengers/24591-2-avengers.png)
@@ -18,6 +19,7 @@
 - [Raj](https://github.com/rajratnpranesh)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Jac Thomas](https://github.com/jac0310)
+- [Maxime Maigret] (https://github.com/MaximeMaigret)
 - [Lara Salam] (https://github.com/larasalam)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Durga Prasad Gembali](https://github.com/prasad4491)
@@ -5947,6 +5949,7 @@ Stephan Sharpe
 - [tanu](https://github.com/TanuAgrawal123)
 - [DiFerGomAlv](https://github.com/DiFerGomAlv)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
+- [Sougata Sen] (https://github.com/sougatasen)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Neelaksh Trehan](https://github.com/cunningdolt)
 - [Bardr](https://github.com/Bardr)
