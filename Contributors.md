@@ -13614,6 +13614,7 @@ Stephan Sharpe
 - [Khayame](https://github.com/Khayame)
 - [Matt Ricko](https://github.com/MattRicko)
 - [Brandon Joplin](https://github.com/thebiggfudge)
+- [Arend Estes](https://github.com/arendestess)
 - [Tarun Kashyap](https://github.com/tarun-kashyap)
 - [Jose Francisco Matundan](https://github.com/iskomt)
 - [Connor Martin](https://github.com/connormartin7)
