@@ -5948,6 +5948,7 @@ Stephan Sharpe
 - [tanu](https://github.com/TanuAgrawal123)
 - [DiFerGomAlv](https://github.com/DiFerGomAlv)
 - [Alexandre Daltro](https://github.com/alexandrebvd)
+- [Sougata Sen] (https://github.com/sougatasen)
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Neelaksh Trehan](https://github.com/cunningdolt)
 - [Bardr](https://github.com/Bardr)
