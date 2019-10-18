@@ -631,6 +631,7 @@ notForProffitt
 - [barry che]
 - [Jibrin Baba Isah Mokwa]
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
+- [Saroj Duwal](https://https://github.com/sduwal)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1)
