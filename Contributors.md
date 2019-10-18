@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Anthony Chou](https://github.com/pycrusher)
+- [Phillip Pham](https://github.com/PHIQW)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Matheus Duarte](https://github.com/MatheusPush)
