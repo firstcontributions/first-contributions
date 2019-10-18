@@ -6,6 +6,7 @@
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Marisa] (https://github.com/marisawadsworth) 
 - [Matheus Del Claro](https://github.com/mdelclaro)
+- [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
