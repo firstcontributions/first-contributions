@@ -17931,3 +17931,4 @@ rehan
 - [Harsh Doshi](https://github.com/harsh-doshii)
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
+- [Gustavo Reis] (https://github.com/gusnreis)
