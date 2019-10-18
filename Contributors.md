@@ -17946,3 +17946,4 @@ rehan
 - [Gustavo Reis] (https://github.com/gusnreis)
 - [Manuel Laudam] (https://github.com/mandinga90)
 - [Elyan Corrêa] (https://github.com/elyancorrea)
+- [Max Rye] (https://github.com/maxrye1996)
