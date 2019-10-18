@@ -1,6 +1,5 @@
 ﻿# Contributors
 - [Anthony Chou](https://github.com/pycrusher)
-- **Noopur** ![Avengers](https://www.freepngimg.com/thumb/avengers/24591-2-avengers.png)
 - [Phillip Pham](https://github.com/PHIQW)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
