@@ -769,6 +769,7 @@ Patrizia Trammell
 - [Valentina Calabrese](https://github.com/vale-c)
 - [Vritika Singla](https://github.com/vritika1310)
 - [Jk!ng](https://github.com/Jatin-Pawar)
+-[Ahmed Waqas Nasir](https://github.com/waqasnasir)
 - [Russell Smitheram](https://github.com/smivs)
 - [Philip Hofmann](https://github.com/Phhofm)
 - [Garima Yadav](https://github.com/gary115)
