@@ -632,7 +632,6 @@ notForProffitt
 - [barry che]
 - [Jibrin Baba Isah Mokwa]
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
-- [Saroj Duwal](https://https://github.com/sduwal)
 - [Daniel G. Arnold](https://github.com/dga)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
 - [Manish Tomar](https://github.com/manishtomar1)
@@ -17931,3 +17930,4 @@ rehan
 - [Harsh Doshi](https://github.com/harsh-doshii)
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
+- [Gina van Berkel] 👾 (https://github.com/hazelnoot)
