@@ -9453,6 +9453,7 @@ Stephan Sharpe
 - [Sarthak Thakur](https://github.com/sarthakthakur24)
 - [Wathin Sonnukij](https://github.com/iamwee)
 - [Piotr Zawadzki](https://github.com/zaramid)
+- [Aharon Smbatyan](https://github.com/asmbaty)
 - [Gary Dhillon](https://github.com/gary-dhillon)
 - [Robat Das Orvi](https://github.com/orvi2014)
 - [Javier Montero](https://github.com/javmonisu)
