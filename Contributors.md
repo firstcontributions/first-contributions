@@ -17550,6 +17550,7 @@ Mário Baltazar
 - [Ivan Kosar](https://github.com/Elektro8)
 - [Bako Harry Rakotondratompo](https://github.com/harrylepap)
 - [VJ](https://github.com/halfsingh)
+- [Lala Wuhan](https://github.com/lalawuhan)
 - [Juan Parra](https://github.com/Juandkpa)
 - [Oliver Lluberes](https://github.com/Zybax)
 - [Alexander Myutel](https://github.com/AlexUnderConstruction)
