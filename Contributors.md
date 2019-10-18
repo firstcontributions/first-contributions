@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Yash Goyal](https://github.com/yash-iiith)
