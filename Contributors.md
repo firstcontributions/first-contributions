@@ -381,6 +381,7 @@ notForProffitt
 - [André Boman](https://github.com/bomsie)
 - [Arman Najafian](https://github.com/Quarkz14)
 - [Kiara Barias](https://github.com/Kbarias)
+- [Darren Trinh](https://github.com/darrentrinh)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
