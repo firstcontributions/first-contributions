@@ -180,6 +180,7 @@
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
+- [John Christian](https://github.com/eligeion)
 - [ShaileshDhama](https://github.com/ShaileshDhama)
 - [Tankred Ott](https://github.com/TankredO)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
