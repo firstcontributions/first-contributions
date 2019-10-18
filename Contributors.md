@@ -17949,3 +17949,4 @@ rehan
 - [Manuel Laudam] (https://github.com/mandinga90)
 - [Elyan Corrêa] (https://github.com/elyancorrea)
 - [Rafal Kruk] (https://github.com/rkruk)
+- [Tom LaMarre] (https://github.com/tlamarre91)
