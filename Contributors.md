@@ -5,7 +5,7 @@
 - [Phillip Pham](https://github.com/PHIQW)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
-- [Marisa] (https://github.com/marisawadsworth) 
+- [Marisa] (https://github.com/marisawadsworth)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
@@ -1657,7 +1657,7 @@ Nishtha3512
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
@@ -17935,3 +17935,4 @@ rehan
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Gustavo Reis] (https://github.com/gusnreis)
+- [Matthew Kaliara]
