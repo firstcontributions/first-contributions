@@ -2892,7 +2892,8 @@ Stephan Sharpe
 - [Brian Sakurada](https://github.com/sakubs)
 - Robert
 - [Amit](https://github.com/kuttyamit)
-- [Christopher Bradford](https://github.com/sunkencity999)
+- [Christopher Bradford]
+- (https://github.com/sunkencity999)
 - [Daniel Sameh](https://github.com/DanielSameh)
 - [Shruthi Babu](https://github.com/Shruthi-Babu)
 - [Carlos Peña](https://github.com/cerl0z)
@@ -2906,6 +2907,7 @@ Stephan Sharpe
 - [Jesse Adkins](https://github.com/JesseAdkins91)
 - [Carsen Rapp](https://github.com/carsenrapp)
 - wgoudsbloem
+- Ananta
 - [kumar Prateek](https://github.com/nerdishhomosapein)
 - [Paul Cz](https://github.com/pcz3)
 - [Huseyin Karaarslan](https://github.com/huskar20)
