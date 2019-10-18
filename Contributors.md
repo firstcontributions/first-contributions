@@ -9,6 +9,7 @@
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
+- [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
