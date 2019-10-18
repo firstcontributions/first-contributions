@@ -17951,3 +17951,4 @@ rehan
 - [Elyan Corrêa] (https://github.com/elyancorrea)
 - [Rafal Kruk] (https://github.com/rkruk)
 - [Yasminn Vaz](https://github.com/yasminnvaz)
+- [Keegan Osler](https://github.com/keeganosler)
