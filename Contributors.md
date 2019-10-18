@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101) ![Iron Man](https://img1.looper.com/img/gallery/why-we-never-got-to-see-iron-man-4/intro.jpg)
 - [Anthony Chou](https://github.com/pycrusher)
@@ -17829,6 +17829,7 @@ rehan
 - [Shivam Agrawal](https://github.com/shivampip)
 - [Lewis Reid](https://github.com/lew148)
 - [Muhammed Koçyiğit](https://github.com/muhammetkocyigit0)
+- [Anumeha U Shah] (https://github.com/AnumehaUShah)
 - [Vaibhav](https://github.com/iam2002)
 - [Phong Duong] (https://github.com/phongduong)
 - [Pranav-Khurana](https://github.com/Pranav-Khurana)
