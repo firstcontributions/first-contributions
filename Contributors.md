@@ -6,7 +6,7 @@
 - [Phillip Pham](https://github.com/PHIQW)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
-- [Marisa] (https://github.com/marisawadsworth) 
+- [Marisa] (https://github.com/marisawadsworth)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
@@ -1369,7 +1369,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 - [François Gélinas](https://github.com/fgelinas)
 - [Kshamatha D](https://github.com/)
@@ -1663,7 +1663,7 @@ Nishtha3512
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
@@ -2256,6 +2256,7 @@ Stephan Sharpe
 - [Geonho James Kim](https://github.com/kgh475926)
 - [Michael Thomas Cavanaugh](https://github.com/funkel1989)
 - [Leo](https://github.com/tangShy)
+- [Asad](https://github.com/asad1751)
 - [Rares Holota](https://github.com/prinpadure)
 - [Tony](https://github.com/aalberty)
 - [Alex H. S. Lee](https://github.com/aviidlee)
