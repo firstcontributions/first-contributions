@@ -82,6 +82,7 @@
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [blahblah] ()
 - [Shubham Chadokar](https://github.com/schadokar)
+- [Mohit Kashyap](https://github.com/mk143c)
 - [Sagarika Puri](https://github.com/SagarikaPuri)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Samuel Bétrisey](https://github.com/betrisey)
