@@ -17902,3 +17902,4 @@ rehan
 - [Rafael Santiago](https://github.com/rmxsantiago)
 - [Robin k] {https://github.com/kronbergr)
 - [Matheus Henrique](https://github.com/sealove20)
+- [Daniel Rogers](https://github.com/drohh)
