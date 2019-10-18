@@ -5972,6 +5972,7 @@ Stephan Sharpe
 - [Karuna Sehgal](https://github.com/karuna24s)
 - Daredevil Geek
 - Shaan
+- [Gowshik Prakahs](https://github.com/xDeltah)
 - [Supreet Kaur](https://github.com/supreet-kaur93)
 - [msyakir](https://github.com/Msyakir)
 - [myth.ren](https://github.com/MythRen)
