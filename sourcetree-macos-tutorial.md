@@ -31,7 +31,7 @@ You should see the "Sourcetree" modal dialog.
 
 <img style="float: right;" src="assets/sourcetree-1-main.png" alt="SourceTree Main" />
 
-From here, you want to click on Remote. If this is the first installation, then you likely haven't connected your GitHub account yet. Do so by clicking the "Connect Button".
+From here, you want to click on Remote. If this is the first installation, then you likely haven't connected your GitHub account yet. Do so by clicking the **Connect** button.
 
 <img style="float: right;" src="assets/sourcetree-2-main-connect.png" alt="SourceTree Connect" />
 
@@ -39,7 +39,7 @@ The *Accounts* dialog will appear. Click "Add" in the lower left hand corner. Th
 
 <img style="float: right;" src="assets/sourcetree-4-accounts-add.png" alt="SourceTree Connect Add" />
 
-This will open a page in your web browswer. Follow the steps given to authorize your account.
+This will open a page in your web browswer. Follow the steps given to authorize your account:
 
 ## Fork this repository
 
