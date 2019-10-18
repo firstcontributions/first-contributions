@@ -17845,6 +17845,7 @@ rehan
 - [ai-aig] (https://github.com/ai-gaanv)
 - [shridhar kalavagunta] (https://github.com/coolshrid)
 - [Sicun Chen] (https://github.com/sicunchen)
+- [Roman Peeters] (https://github.com/roman-peeters)
 - [Roy Jang](https://github.com/arejang)
 - [Archit Khode](https://github.com/arkits)
 - [gamo-k](https://github.com/gamo-k)
