@@ -7667,6 +7667,7 @@ Stephan Sharpe
 - [Johan Eriksson](https://github.com/jcer)
 - [Neptune Cabelin](https://github.com/ncabelin)
 - [Serhii Burtsev](https://github.com/z0976190100)
+- [Yohanes Manullang](https://gihub.com/yohanesam)
 - [Matt Duffy](https://github.com/DuffyCodes)
 - [Nite Coder](https://github.com/TheNiteCoder)
 - [Jacob Bovee](http://github.com/jbovee)
