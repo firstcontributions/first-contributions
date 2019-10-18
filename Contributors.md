@@ -1210,6 +1210,7 @@ Josh Breslow
 Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Ashritha Kondapally](https://github.com/Ashritha-Kondapally)
+- [Hari](https://github.com/Harikrishnan-github/)
 - [Zhi-Yi Chin](https://github.com/joycenerd)
 - [Juan Guzman](https://github.com/SineSquared)
 - [Nikolay Georgiev](https://github.com/nvgeorgiev)
