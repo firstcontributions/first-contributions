@@ -10,6 +10,7 @@
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
 - [Priya Mane](https://github.com/pugnator-12)
+- [Jac Thomas](https://github.com/jac0310)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
