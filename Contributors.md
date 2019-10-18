@@ -17914,6 +17914,7 @@ rehan
 - [Seth Willits](https://github.com/saw142)
   [Nico Miguel](https://github.com/nicomigu)
 - [Ankita Satapathy](http://github.com/ankita-04)
+- [Steffen Wies](https://github.com/573v392)
 - [Diwakar Jaiswal](http://github.com/diwakarjaiswal880)
 - [Natasha Jones]
 - [Kat](http://github.com/helloimkat)
