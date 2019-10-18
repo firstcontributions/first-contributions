@@ -17945,3 +17945,4 @@ rehan
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Gustavo Reis] (https://github.com/gusnreis)
 - [Manuel Laudam] (https://github.com/mandinga90)
+- [Elyan Corrêa] (https://github.com/elyancorrea)
