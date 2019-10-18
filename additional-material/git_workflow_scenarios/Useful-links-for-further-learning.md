@@ -1,6 +1,6 @@
 # Useful Links
 
-This document is dedicated to all the blog posts, helpful sites, tips and tricks websites that makes our lives easier. That we refer to for all our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
+This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
 
 ## The List
 1.  [Interactive tutorial to git](https://try.github.io)
@@ -28,5 +28,8 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 23. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+26. [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+27. [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
+28. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
 
 Keep adding more links, that you find helpful.

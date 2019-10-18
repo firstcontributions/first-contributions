@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,49 +11,6 @@ Je to ťažké. Je to vždy ťažké, keď niečo robíš prvýkrát. Najmä vte
 Čítanie článkov a sledovanie tutoriálov môže pomôcť, ale čo je lepšie, ako skutočne robiť veci v skúšobnom prostredí? Cieľom tohto projektu je poskytnúť usmernenie a zjednodušiť spôsob, akým prvýkrát prispievajú začiatočníci. Ak máš záujem o prvý príspevok, postupuj podľa nižšie uvedených krokov.
 
 #### *Ak sa ti nedarí s príkazovým riadkom, [tu sú návody s nástrojmi grafického rozhrania.]( #návody-pomocou-iných-nástrojov )*
-
-#### *Prečítaj si to v [ostatných jazykoch](translations/Translations.md).*
-
-[️🇬🇧](README.md)
-[🇮🇳](translations/README.hi.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴󠁥󠁳󠁧󠁡󠁿](translations/README.gl.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](README.cs.md)
-[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](README.mx.md)
-
-
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -163,11 +120,3 @@ Teraz začni s účasťou na iných projektoch. Vytvorili sme zoznam projektov s
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Propagácia seba samého
-
-Ak sa ti tento projekt páči, daj mu hviezdu [GitHub](https://github.com/Roshanjossey/first-contributions).
-Ak sa cítiš obzvlášť dobročinne, nasleduj [Roshan](https://roshanjossey.github.io/) na
-[Twitter](https://twitter.com/sudo__bangbang) a
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
