@@ -11,6 +11,7 @@
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
+- [Raj](https://github.com/rajratnpranesh)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Jac Thomas](https://github.com/jac0310)
 - [Lara Salam] (https://github.com/larasalam)
