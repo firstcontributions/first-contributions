@@ -663,6 +663,7 @@ notForProffitt
 - [DanielSurizon] (https://github.com/Danielsuri)
 - [Ankit Grover](https://github.com/Agrover112)
 - [Q0R3Y |-|4|-|/\/](https://github.com/q0r3y)
+- [Kaloyan Gangov](https://github.com/gangov)
 - [Shubham Gupta](https://github.com/shubham030)
 - [Prakhar Singhal] (https://github.com/Ghoul2077)
 - [Govind Kartha] (https://github.com/govkartha)
