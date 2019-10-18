@@ -17679,4 +17679,4 @@ rehan
 - [Sicun Chen] (https://github.com/sicunchen)
 - [Roy Jang](https://github.com/arejang)
 - [Archit Khode](https://github.com/arkits)
-- [Broderick Fowler Jr] (https://github.com/Broderickfowler)
+- [Broderick Fowler] (https://github.com/Broderickfowler)
