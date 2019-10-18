@@ -17936,6 +17936,7 @@ rehan
 - [Matheus Henrique](https://github.com/sealove20)
 - [AshimaSeth](https://github.com/ASHSETH2000)
 - [Harsh Doshi](https://github.com/harsh-doshii)
+- snikitha
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Gustavo Reis] (https://github.com/gusnreis)
