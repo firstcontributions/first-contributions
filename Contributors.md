@@ -53,6 +53,7 @@
 - [Anirudh Sriram](https://github.com/AnirudhSriram)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
+- [Nabarun Sarkar](https://github.com/nabaruns)
 - [Kyle Woomer](https://github.com/Yoshinoes)
 -[Jacob Ankney](https://github.com/jankney2)
 - [Priyam Qwerty](https://github.com/aaradhya15)
