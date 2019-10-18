@@ -106,6 +106,7 @@
 - Green S
 - Edwin Waweru
 - Ujwal Kadariya
+- [Shailendra singh Bhati] (https://github.com/SSB0734)
 - [Justin Del Toro](https://github.com/NightWolf1988)
 - [Norma Bunton] (https://github.com/normabunton)
 - [Nicole Raicu] (https://github.com/raicunicole)
