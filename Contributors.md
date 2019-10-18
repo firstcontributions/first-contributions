@@ -17846,6 +17846,7 @@ rehan
 - [Vidhya Raja](https://github.com/vidhya-raja)
 - [Sazazezer](https://github.com/Sazazezer)
 - [Click](https://github.com/aflutter)
+- [Damian Ly](https://github.com/lydamian);
 - [Hush](https://www.github.com/HushOv)
 - [Arman](https://github.com/armanbinmahmud)
 - [Homard](https://github.com/homard)
