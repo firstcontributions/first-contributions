@@ -17917,3 +17917,4 @@ rehan
 - [Matheus Henrique](https://github.com/sealove20)
 - [AshimaSeth](https://github.com/ASHSETH2000)
 - [Harsh Doshi](https://github.com/harsh-doshii)
+- [Eddie Hale](https://github.com/kaoskater08)
