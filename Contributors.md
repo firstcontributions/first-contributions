@@ -17937,3 +17937,4 @@ rehan
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Gustavo Reis] (https://github.com/gusnreis)
+- [Manuel Laudam] (https://github.com/mandinga90)
