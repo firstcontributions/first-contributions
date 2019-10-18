@@ -419,7 +419,6 @@ notForProffitt
 - [Mahwish Izhar](https://github.com/MahwishIzhar)
 - [Hur Ali](https://github.com/hurali97)
 - [Sudarshan H V](https://github.com/SudarshanHV)
-
 - [Shubham Jha](https://github.com/spectrum705)
 - [DzunN86](https://github.com/DzunN86
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
@@ -1086,6 +1085,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Aniket Anand](https://github.com/aanand2300)
 - [Arthur Autz](https://github.com/blissdismissed)
 Hammad Qureshi
+- Aryama
 - [Ketan Khatwal] (https://github.com/ketankhatwal)
 - [Janeth Fernando](https://github.com/janethavi)
 - [Simon De Greve](https://github.com/Yoiro)
@@ -16527,7 +16527,6 @@ Stephan Sharpe
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
