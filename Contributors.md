@@ -10478,6 +10478,7 @@ Stephan Sharpe
 - [Morgan Lovett](https://github.com/mrlovett)
 - [Shan Rizvi](https://github.com/OneTrueKill/)
 - [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
+- [Allen Hubbard Jr](https://github.com/allenhubbardjr)
 - [Ana Cruz](https://github.com/AnaCr)
 - [Mason Sweet](https://github.com/GhettoDrank)
 - [Srikanth Arugula](https://github.com/asrikanth27)
