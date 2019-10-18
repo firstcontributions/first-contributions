@@ -17851,6 +17851,7 @@ rehan
 - [Sazazezer](https://github.com/Sazazezer)
 - [Click](https://github.com/aflutter)
 - [Damian Ly](https://github.com/lydamian);
+- [Jonathan Lie](https://github.com/jonlie1107);
 - [Hush](https://www.github.com/HushOv)
 - [Arman](https://github.com/armanbinmahmud)
 - [Homard](https://github.com/homard)
