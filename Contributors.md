@@ -34,6 +34,7 @@
 - [Amandeep Singh Kalra](https://github.com/Synster)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
+- [Nick Hinton] (https://github.com/hintonnm94)
 - [Abhishek Mittal](https://github.com/amittal151)
 - [Prince Thakkar](https://github.com/Prince269090)
 - [Calie Rushton](https://github.com/CalieR)
