@@ -60,6 +60,7 @@
 - [Rupa Mahadevan] (https://github.com/rupadevan94)
 - [Kshitij Dhyani](https://github.com/wimpywarlord)
 - [Amandeep Singh Kalra](https://github.com/Synster)
+- [Fernando Pimenta](https://github.com/fcpimenta)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Nick Hinton] (https://github.com/hintonnm94)
