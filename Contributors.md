@@ -7,6 +7,7 @@
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
+- [Aryan Singh](https://github.com/ary1733)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Phillip Pham](https://github.com/PHIQW)
 - [Jis Mathew](https://github.com/jis-infy)
