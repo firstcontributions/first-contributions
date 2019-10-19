@@ -9,6 +9,7 @@
 - [Phillip Pham](https://github.com/PHIQW)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
+- [Carol Destreza](https://github.com/caroldestreza)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Marisa] (https://github.com/marisawadsworth)
