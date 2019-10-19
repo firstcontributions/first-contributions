@@ -81,6 +81,7 @@
 - [Ana Beatriz](https://github.com/cchacall)
 - [Della Dominic](https://github.com/DellaDominic)
 - [Lucas Cuani](https://github.com/lucascuani)
+- [Jashaul D](https://github.com/Jashaul)
 - [Anirudh Sriram](https://github.com/AnirudhSriram)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
 - [Jithika Sagar](https://github.com/JITHIKASAGAR123)
