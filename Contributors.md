@@ -97,6 +97,7 @@
 - [Vaibhav Patel](https://github.com/vaibhav-me999)
 - [Abraham William S](https://github.com/abrahamwilliam)
 - [Chris Williams] (https://github.com/mistwire)
+- [Rohit Sachdeva] (https://github.com/rohits301)
 - [Priyam] (https://github.com/priyam125)
 - [Satyam] (https://github.com/priyam125)
 - [Chabat] (https://github.com/chabat)
