@@ -68,7 +68,7 @@ Once you click the "Clone" button, you will be presented with another view to de
 
 **Once you are satisfied, click "Clone"**
 
-This will bring up the main repo browser for your repository!
+This will bring up the main repository browser for your repository!
 
 ## Create a branch
 
@@ -85,7 +85,7 @@ To do this, click **Branch (1)** which launches the naming dialog. Then **Add yo
 
 Now open `Contributors.md` file in a text editor and add your name to it, with your Github URL link, then save the file.
 
-You should be able to see and review the file that have been changed and decide what you would like to stage.  Staging is important to tell git exactly what file changes you want associated with this commit.
+You should be able to see and review the file that have been changed and decide what you would like to stage. Staging is important to tell git exactly what file changes you want associated with this commit.
 
 *Note: If you do not see the file's diff, click **Uncommitted Files** at the top of your dialog*
 
