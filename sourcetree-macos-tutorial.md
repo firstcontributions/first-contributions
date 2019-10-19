@@ -50,7 +50,7 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In Sourcetree, Click on the "Remote" button. This should load all of your GitHub repos which are listed on GitHub.
+In Sourcetree, Click on the *"Remote"* button. This should load all of your GitHub repos which are listed on GitHub.
 
 <img style="float: right;" src="assets/sourcetree-5-cloning.png" alt="clone this repository" />
 
@@ -72,7 +72,7 @@ This will bring up the main repo browser for your repository!
 
 ## Create a branch
 
-Click the branch button on the toolbar.
+Click the *branch* button on the toolbar.
 
 Name your branch "add-your-name-to-contribution", for example: "add-sally-to-contribution". 
 
@@ -125,9 +125,9 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share). :tada:
 
 You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
