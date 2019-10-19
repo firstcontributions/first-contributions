@@ -61,6 +61,7 @@
 - [Kshitij Dhyani](https://github.com/wimpywarlord)
 - [Amandeep Singh Kalra](https://github.com/Synster)
 - [Fernando Pimenta](https://github.com/fcpimenta)
+- [Mahesh Samarasinghe](https://github.com/Mahesh419)
 - [Mike Stewart](https://github.com/ThisBeMyName)
 - [Shubham Singh](https://github.com/shubham0812)
 - [Nick Hinton] (https://github.com/hintonnm94)
