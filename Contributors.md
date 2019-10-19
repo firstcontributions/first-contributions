@@ -87,6 +87,7 @@
 - [Shubham Singh](https://github.com/shubham0812)
 - [Nick Hinton] (https://github.com/hintonnm94)
 - [Abhishek Mittal](https://github.com/amittal151)
+- [Haish Sams](https://github.com/Hammie217)
 - [Prince Thakkar](https://github.com/Prince269090)
 - [Calie Rushton](https://github.com/CalieR)
 - [Andressa Siqueira] (https://github.com/siqandressa)
