@@ -11,6 +11,7 @@
 - [Anthony Chou](https://github.com/pycrusher)
 - [Aryan Singh](https://github.com/ary1733)
 - [Peter Chou] (https://github.com/peterchou3788)
+- [Arishma Persadh] (https://github.com/arishma108/)
 - [Phillip Pham](https://github.com/PHIQW)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
