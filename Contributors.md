@@ -60,7 +60,7 @@
 -[Huda Ali](https://github.com/hali0008)
 - [Kalpit Pant](https://github.com/kalpitpant)
 - [Rishi Verma](https://github.com/thecoderishi)
-- [Allison Wykle](https://github.com/hashtagallison)
+- [Allison E Wykle](https://github.com/hashtagallison)
 - [Joshua Sani](https://github.com/joshysmart)
 - [Mehryar](https://github.com/mehryar-m)
 - [Rupa Mahadevan] (https://github.com/rupadevan94)
