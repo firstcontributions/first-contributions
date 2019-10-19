@@ -6,6 +6,7 @@
 - [Ankith B V](https://github.com/abs99) 
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
+- [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
