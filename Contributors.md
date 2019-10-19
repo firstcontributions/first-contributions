@@ -12,6 +12,7 @@
 - [Aryan Singh](https://github.com/ary1733)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
+- [Tristan Holaday] (https://github.com/TristanHoladay)
 - [Phillip Pham](https://github.com/PHIQW)
 - [Kelsey Hilton](https://github.com/kelseyhilton)
 - [Jis Mathew](https://github.com/jis-infy)
