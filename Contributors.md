@@ -16258,6 +16258,7 @@ Aman Panjwani
 - [Navid Ahmadian](https://github.com/nahmadian)
 - [Syedalisait](https://github.com/syedalisait)
 - [Rahul Kumar](https://github.com/rahulkumar66)
+- [John Heusinger](https://github.com/johnheusinger)
 - [dqueric](https://github.com/dqueric)
 - [Magic56](https://github.com/magic5644)
 - [Jamibaraki](https://github.com/Jamibaraki)
