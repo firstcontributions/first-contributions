@@ -20,6 +20,7 @@
 - [Raj](https://github.com/rajratnpranesh)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Jac Thomas](https://github.com/jac0310)
+- [Harsh Jaiswal](https://github.com/harsh253)
 - [Maxime Maigret] (https://github.com/MaximeMaigret)
 - [Lara Salam] (https://github.com/larasalam)
 - [Ahmed Waheed](https://github.com/mrcreamio)
