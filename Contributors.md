@@ -150,6 +150,7 @@
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
+  [Mateusz Kulka](https://github.com/Vuziks)
 - Matt L
 - Harshit kumar
 - [Dylan Clements](https://github.com/dclements9)
