@@ -19,6 +19,7 @@
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
+- [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
 - [Yash Goyal](https://github.com/yash-iiith)
