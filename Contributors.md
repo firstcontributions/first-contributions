@@ -10,7 +10,6 @@
 - [Anthony Chou](https://github.com/pycrusher)
 - [Aryan Singh](https://github.com/ary1733)
 - [Peter Chou] (https://github.com/peterchou3788)
-- [Arishma Persadh] (https://github.com/arishma108)
 - [Phillip Pham](https://github.com/PHIQW)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
@@ -106,6 +105,8 @@
 - [Joey Van Lierop 🚀](https://github.com/joeyvanlierop/)
 - [Shruti Shukla](https://github.com/shruti0987)
 - [Ankit Dobhal](https://github.com/ankitdobhal)
+- [Arishma Persadh] (https://github.com/arishma108)
+
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Vaibhav Patel](https://github.com/vaibhav-me999)
 - [Abraham William S](https://github.com/abrahamwilliam)
