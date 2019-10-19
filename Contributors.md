@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Khabibullin Dinar](https://github.com/khabibd)
+- [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
 - [Peter Chou] (https://github.com/peterchou3788)
