@@ -66,6 +66,7 @@
 - [jmrcastillo](https://github.com/jmrcastillo)
 - [Rita Lin (https://github.com/cursedk7)
 - [Branden Morgan] (https://github.com/brandmorg)
+- [Edvin Džidić] (https://github.com/PortaX)
 - [Noëlie Rx](https://github.com/Noelierx)
 - [Jordan Miller](https://github.com/lambduhh)
 - [Abhishek](https://github.com/wikiabhi)
