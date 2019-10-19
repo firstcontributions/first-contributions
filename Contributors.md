@@ -13,6 +13,7 @@
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
 - [Phillip Pham](https://github.com/PHIQW)
+- [Kelsey Hilton](https://github.com/kelseyhilton)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
 - [Carol Destreza](https://github.com/caroldestreza)
