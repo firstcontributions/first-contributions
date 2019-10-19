@@ -14086,6 +14086,7 @@ Aman Panjwani
 - [Rambo G](https://github.com/rambog)
 - [yub](https://github.com/yub)
 - [Anmol Goel](https://github.com/goela00)
+- [Brandon Lam](https://github.com/Lammmmmm)
 - [Felix Le](https://github.com/felixle96)
 - [Anthony Ho](https://github.com/anwyho)
 - [Alice Shan](https://github.com/aliceshan)
