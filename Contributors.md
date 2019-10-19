@@ -179,6 +179,7 @@
 - [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
 - [Paulo Octavio] (https://github.com/paulooctavio)
+- [Paweł Ryks] (https://github.com/paweryk807)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Clay Draper](https://github.com/cddraper)
 - [Zaycodes](https://github.com/zainababubakar)
