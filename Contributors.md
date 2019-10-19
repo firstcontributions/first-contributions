@@ -35,6 +35,7 @@
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [Emery Weist] (https://github.com/EBWeist)
+- [Zeeshan Ali] (https://github.com/zeesh-ali)
 - [Mahima Sachdeva] (https://github.com/mahi397/)
 - [Erblina Lybesha] (https://github.com/EraBlina)
 - [Lupe Maydana] (https://github.com/luucamay)
