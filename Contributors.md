@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
@@ -17963,6 +17963,7 @@ rehan
 - snikitha
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
+- [Maria Chariskos] (https://github.com/chari-mari)
 - [Gustavo Reis] (https://github.com/gusnreis)
 - [Manuel Laudam] (https://github.com/mandinga90)
 - [Elyan Corrêa] (https://github.com/elyancorrea)
