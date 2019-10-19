@@ -92,6 +92,7 @@
 - [Magnus] (https://github.com/Strandgaard96)
 - [Samrat K S] (https://github.com/Samratkashipathi)
 - [blahblah] ()
+- [anahika] (https://github.com/anahika)
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Mohit Kashyap](https://github.com/mk143c)
 - [Sagarika Puri](https://github.com/SagarikaPuri)
