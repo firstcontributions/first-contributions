@@ -76,6 +76,7 @@
 - [Calie Rushton](https://github.com/CalieR)
 - [Andressa Siqueira] (https://github.com/siqandressa)
 - [Ana Beatriz](https://github.com/cchacall)
+- [Della Dominic](https://github.com/DellaDominic)
 - [Lucas Cuani](https://github.com/lucascuani)
 - [Anirudh Sriram](https://github.com/AnirudhSriram)
 - [Nauman Ahmad](https://github.com/naumanahmad9)
