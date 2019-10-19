@@ -167,6 +167,59 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
+### How to write good commit messages:
+
+The code should stay connected to the specs. Commit messages are the only means of doing it. Refer to the specs, whenever possible.
+
+Docs and plans become outdated at the moment stuff described in them is implemented, and you discover that things did not happen like you thought. By linking your commits to specific document, you breathe life to the specs, providing additional information about how it goes, what actually happened, what changed, while staying DRY.
+
+Besides, if you don’t describe your actions in the moment of commit, you’re doomed to repeat what you did again and again in meetings, tickets, reports.
+
+Most of the modern bug-tracking and project management systems provide integration with the source control repository, but even if they don’t, you can still drop task/ticket numbers in the commit message – something like this. Of course – don’t rely on this being the only description of your message.
+
+Mind that the commit messages may be reviewed with or without the code.
+
+This is actually a tricky part. The commit message should make sense without seeing the actual code, but still should not repeat the code changes. The best way to fully grasp this is to review the log of your project, preferably commits from someone else. What makes sense? What does not? Why? Through time, you will get used to proof-read yours.
+
+Fix:; New:; Enhancement:; Sorry:; – what did you do?
+
+Since the days of Bugzilla, Inserting formal notations in the commit message is not something new. By distinguishing the different types of action you do on the project is really helpful. Later, you can filter out only the ones who were bug related, or your sorries. Though the types are self explanatory, I will restate them.
+
+    Fix: – closing bug.
+    New: – implemented something new.
+    Enhancement: – we’re making it better.
+    Oops: – Even the best make mistakes, commits containing typos or plain non-working code. Show your shame!
+
+Feel free to determine what works for you and your team.
+Reveal your intentions, don’t describe what the code does. Tell why it does it.
+
+This is actually a statement you have already heard a thousand times, regarding the comments in the code. I avoid comments like plague (but this is another topic). However, this statement can be fully applied to the commit messages too. Just keep your mind on the purpose, not the implementation.
+Leave insights, skip profanity.
+
+I frequently discover new stuff about the programming languages I use. Neat and natural ways of using inject, for example. Don’t hesitate to drop a line or two for your findings – this may help others understand what actually happens. Sometimes, I am hesitant about the result of my session. In such cases comments like “Hum, this does not look right; Ilya, please see if you have the time.” may turn your reviewers’ attention to a problem.
+
+One last thing – don’t swear. I know. He does it. But you should not. No matter how angry are you. Feel free to swear in the traffic jam, but keep your code clean. I used to swear in comments, but do not do it anymore. You never know who will encounter it. And it will definitely be a plus for you.
+Stay concise, be up to the point.
+
+And after all – don’t become too verbose in your prose. A long commit message is usually a bad sign for too much stuff done in a single commit. A good commit message is usually one or two sentences.
+
+Finally, I want to share some good and some bad commit messages from one of our latest projects. The bad ones are usually courtesy of yours truly.
+
+The good:
+
+    remove suspended videos from playlist
+    Recover canceled beta subscription added.
+    Save ReleaseServers without validations in migration script.
+    Getting rid of stupid schema.rb that don’t understand what BIGINT is. Use SQL dump instead.
+    Whoops! We need our server_definition back here.
+
+And, some bad:
+
+    correct config — Why? what was wrong before?
+    Production related fix scripts — Actually, this is one bulk commit of totally unrelated stuff
+    Another unexpected error — Does not make sense without the code.
+    error container — What? Have you heard about punctuation?
+    tag fixes — No meaning; might as well be left blank.
 
 ## Tutorials Using Other Tools
 
