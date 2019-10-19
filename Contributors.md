@@ -19,6 +19,7 @@
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
+- [Racim Righi](https://github.com/RacimRgh)
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
