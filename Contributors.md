@@ -17982,6 +17982,7 @@ rehan
 - [Matheus Henrique](https://github.com/sealove20)
 - [AshimaSeth](https://github.com/ASHSETH2000)
 - [Harsh Doshi](https://github.com/harsh-doshii)
+- [Nuno Ferreira](https://github.com/koriolis)
 - snikitha
 - [Koketso Mmelesi](https://github.com/MorobaBW)
 - [Eddie Hale](https://github.com/kaoskater08)
