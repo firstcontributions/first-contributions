@@ -71,6 +71,7 @@
 - [Allison E Wykle](https://github.com/hashtagallison)
 - [Joshua Sani](https://github.com/joshysmart)
 - [Mehryar](https://github.com/mehryar-m)
+- [Kabindra](https://github.com/kabindrashrsth/)
 - [Rupa Mahadevan] (https://github.com/rupadevan94)
 - [Kshitij Dhyani](https://github.com/wimpywarlord)
 - [Amandeep Singh Kalra](https://github.com/Synster)
