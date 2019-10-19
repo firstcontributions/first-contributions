@@ -17981,6 +17981,7 @@ rehan
 - [Fenil Gandhi](https://github.com/fenilgandhi)
 - [Elena Kutanov](https://github.com/ElenaKutanov)
 - [Tim Ryan](https://github.com/netheavy)
+- [Nazario Benavides](https://github.com/nazmanager1)
 - [Ron Holt](https://github.com/GitarMan)
 - [Richard Biros 🔥](https://github.com/birosrichard)
 - [Ben Jenkins](https://github.com/benjenkins)
