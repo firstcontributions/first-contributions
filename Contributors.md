@@ -1384,6 +1384,7 @@ Nishtha3512
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
 - [Gaida Escobar] (https://github.com/gescobar129) 
 - [Francois Beyers](https://github.com/blusoup)
+Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
 - [Kshamatha D](https://github.com/)
 - [Shinnosu](https://github.com/sinnosu)
