@@ -417,6 +417,7 @@ notForProffitt
 - [Nguyen Phu](https://github.com/vonguyenphu)
 - [Si Lam](https://github.com/silam)
 - [Supriyanta Poddar](https://github.com/supriyanta)
+- [Nick Rodgers :octocat:](https://github.com/nickrodgers42)
 - [Mason Johnson](https://github.com/masonj88)
 - [Aimen Aounallah](https://github.com/Mizou9999)
 - [Aakash Jain](https://github.com/AakashJ2412)
