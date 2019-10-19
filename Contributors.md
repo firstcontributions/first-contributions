@@ -156,6 +156,7 @@
 - [Arslan Dogar](https://github.com/arslandogar)
 - [Malla Praveen](https://github.com/mallapraveen)
 - [Sourav Jangra](https://github.com/souravjangra)
+- [Heet Dave](https://github.com/rangheet)
 - [Harsh Agrawal](https://github.com/harshag1729)
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Carlos Estrella](https://github.com/cestrell)
