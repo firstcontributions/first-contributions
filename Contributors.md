@@ -178,6 +178,7 @@
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
 - [Anunay Aatipamula](https://github.com/anunay999)
+- [Navinda Perera](https://github.com/NavindaPerera)
 - [Srishti Bhandari](https://github.com/Srishti-B)
 - [Colin McDonald](https://github.com/cmac253)
 - [GunkPunk](https://github.com/gunkpunk)
