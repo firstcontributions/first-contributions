@@ -948,6 +948,7 @@ notForProffitt
 - [Gustavo Castro](https://github.com/gacsnic)
 - [Askat Bakyev](https://github.com/askat08)
 - [Joshua Abad](https://github.com/yeyoan)
+- [Hashini Rangala](https://github.com/Hashinirangala)
 - [f1xer](https://github.com/f1xer)
 - [Hoe Hooi Yan](https://github.com/hoehooiyan)
 -[Babi Nick](https://github.com/BabiNick)
