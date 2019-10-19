@@ -342,6 +342,7 @@
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Ben Cooper](https://github.com/MrGhostlyOrb)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
+- [Mari Bies](https://github.com/maribies)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Mrsalehi] (https://github.com/mrsalehi)
 - [Christian Preis](https://github.com/n8trufe)
