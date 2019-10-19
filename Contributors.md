@@ -1,8 +1,8 @@
 ﻿# Contributors
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
-- [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
-- [Ankith B V](https://github.com/Ankithboggaram) 
-- [Eirik Fladmark](https://github.com/Fladmark) 
+- [sheetal dadhewal](https://github.com/sheetal-dadhewal)
+- [Ankith B V](https://github.com/Ankithboggaram)
+- [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
@@ -21,7 +21,7 @@
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
-- [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Sampath Kumar Bidre](https://github.com/bidresam)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Racim Righi](https://github.com/RacimRgh)
@@ -43,7 +43,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
-- [Samya] 
+- [Samya]
 - [Im lohith](https://github.com/Imlohith)
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
@@ -1402,7 +1402,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
@@ -1698,7 +1698,7 @@ Kebana Modise
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
@@ -18003,3 +18003,4 @@ rehan
 - [Tim Richter](https://github.com/0DivTag)
 - [Carlton Branch](https://github.com/CarltonBranch)
 - [Alucard (-.-)]
+- [Daniele Atzeni](https://github.com/tz-e)
