@@ -123,7 +123,7 @@ Now let's get ye started wit' contributin' t' other projects. We've compiled a l
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Usin' Other Tools
+## Tutorials Usin' Other Tools..
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
