@@ -4629,6 +4629,7 @@ Stephan Sharpe
 - [Bhushan Jangle](https://github.com/waffwaff1)
 - [The Hero](https://github.com/heroas)
 - Pietro Barcarollo Schiavinato
+- [Piotr Skoczylas](https://github.com/PiotrSkoczylas)
 - [Raviru](https://github.com/Raviru)
 - [Anju Cheran](https://github.com/anjucheran)
 - [David Latorre](https://github.com/latorredev)
