@@ -52,6 +52,7 @@
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
 - [Samya] 
+- [Andy Davies]
 - [Im lohith](https://github.com/Imlohith)
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
