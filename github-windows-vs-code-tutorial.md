@@ -11,7 +11,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you; it will be fun.
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
@@ -25,7 +25,7 @@ Fork this repo by clicking on the fork button on the top right of this page. Thi
 
 GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged, and you will gain instant fame and fortune! More on how to do that later.
 
 ## Clone your repository
 
@@ -35,7 +35,7 @@ The next step is to clone your repo down to your machine so you can begin making
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
+Now open  Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open  the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
@@ -48,17 +48,17 @@ Select the Entry `Git: Clone` and press `Enter`
 
 <img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
 
-Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
+Paste the URL of your repository and press `Enter`. This will open  a File Explorer where you can then choose where the Git repository should be stored.
 
 **Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
 
 <img src="assets/vscode-2018-08-clone3.png" alt="Status popup" />
 
-You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
+You should see a status popup on the bottom right of Visual Studio Code. After it has finished, you can open  the cloned repository (now a folder on your machine) using the buttons in the dialog.
 
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+Open  the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
 
 <img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
 
@@ -85,13 +85,13 @@ Type something in the line on top of the explorer and press the checkmark. The c
 
 <img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 
-Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
+Use the three-dot icon to open the menu where you select the `Publish Branch` option. This should open  a dialog to put your GitHub credentials in.
 
 <img src="assets/vscode-2018-08-gh-auth.png" alt="Stashed Files">
 
 ## Submit your changes for review
 
-At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+At this point you have completed your change, but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
