@@ -17973,6 +17973,7 @@ rehan
 - [AshimaSeth](https://github.com/ASHSETH2000)
 - [Harsh Doshi](https://github.com/harsh-doshii)
 - snikitha
+- [Tebogo Mogale](https://github.com/tebbinho
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Maria Chariskos] (https://github.com/chari-mari)
