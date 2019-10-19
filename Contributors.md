@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
+- [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
 - [Ankith B V](https://github.com/Ankithboggaram) 
 - [Eirik Fladmark](https://github.com/Fladmark) 
