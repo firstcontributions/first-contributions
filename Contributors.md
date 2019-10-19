@@ -13782,6 +13782,7 @@ Stephan Sharpe
 - [Dinagar R](https://github.com/ramdinagar)
 - [Richard Deane](https://github.com/titchimoto)
 - [J](https://github.com/j)
+- [New sonAspy Guo] (https://github.com/newguonx)
 - [Lindsey Monyelle](https://github.com/lmonyelle)
 - [Madhu Nagaraj](https://github.com/madhusgit)
 - [Gavin Yang](https://github.com/redagavin)
