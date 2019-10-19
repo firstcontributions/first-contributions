@@ -20,6 +20,7 @@
 - [Marisa] (https://github.com/marisawadsworth)
 - [Hisham Bajunaid] (https://github.com/Hisham2150)
 - [Matheus Del Claro](https://github.com/mdelclaro)
+- [Adithya S Oasis](https://github.com/AdithyaOasis)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Kendra Moyars](https://github.com/kendramoyars)
