@@ -12,7 +12,7 @@
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Marisa] (https://github.com/marisawadsworth)
-- [Hisham Bajunaid] (https://https://github.com/Hisham2150)
+- [Hisham Bajunaid] (https://github.com/Hisham2150)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
