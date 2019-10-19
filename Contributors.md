@@ -6663,6 +6663,7 @@ Aman Panjwani
 - [digitaldina](https://github.com/dinaelhanan)
 - [Olayemi Ibrahim](https://github.com/yobroyem0)
 - [Ali Ahmadiavin](https://github.com/ahmadiavin)
+- [Elias F. Fyksen](https://github.com/eliasffyksen)
 - [Sahan Monaara](https://github.com/SahanMonaara)
 - [Clockclog](https://github.com/clockclog)
 - [Samith Basnayaka](https://github.com/SamithDB)
