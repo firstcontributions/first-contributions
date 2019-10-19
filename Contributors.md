@@ -17902,6 +17902,7 @@ rehan
 - [Sanchit Khare] (https://github.com/sanchit48)
 - [Teepob Harutaipree] (https://github.com/teepobharu)
 - [Stephen Ku] (https://github.com/sjku1)
+- [Laura B. Justesen] (https://github.com/laurabj)
 - [Prateek Pardeshi](https://github.com/prateekpardeshi)
 - [rodrrj] (https://github.com/rodrrj)
 - [ai-aig] (https://github.com/ai-gaanv)
