@@ -5803,6 +5803,7 @@ Aman Panjwani
 - edward-cronus
 - vibhasi
 - [Danail Kostov](https://github.com/danailkostov)
+- [kevin kovadia](https://github.com/kevIN-kovaDIA)
 - [Darien Lee](https://github.com/darienlee)
 - [Haiyun Xu](https://github.com/Haiyun-Xu)
 - [Michael Hart](https://github.com/michaeljh619)
