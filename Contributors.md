@@ -705,6 +705,7 @@ notForProffitt
 - [Daniel Weiss](https://github.com/dsweiss31)
 - [Mark Goe](https://github.com/gitmthx)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
+- [Dominic G](https://github.com/DomGarbett)
 - [Fru Promise][https://github.com/PromiseFru]
 - [Akhil Dhiman](https://github.com/akhildhiman7)
 - [Peter ELgabalwy](https://github.com/pelgabalawy)
