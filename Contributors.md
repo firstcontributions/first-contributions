@@ -17917,6 +17917,7 @@ rehan
 - [Andrew Wijaya] (https://github.com/andrewdudu)
 - [Yuvi](https://github.com/yuvgeek)
 - [Pavan Soratur] (https://github.com/devPavan04)
+- [Kyle Frisbie] (https://github.com/KyleFrisbie)
 - [Naipawat Poolsawat] (https://github.com/boraxpr)
 - [Eren Hançer 🌎🚀🌌:octocat:](https://github.com/ErenHncr)
 - [RIZWAN AHMAD 👨‍💻](https://github.com/rizwansoaib)
