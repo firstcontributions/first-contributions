@@ -165,6 +165,8 @@ You could join our slack team in case you need any help or have any questions. [
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
+Note: For complete beginners knowing only C/C++, the above may not be so easy as well, so you may try various C++ repos on Number Theory, Data Structures, Algorithms, String Processing, Graphs etc  while simultaneously trying to learn various frameworks. 
+
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 
