@@ -1,8 +1,8 @@
 ﻿# Contributors
-- [Pavel Saha](https://github.com/pavel5133)
-- [Atharva Gupta](https://github.com/AtharvaGupta01)
+- [Dipayan Mukherjee](https://github.com/DipayanMukherjee)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
+- [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Ankith B V](https://github.com/Ankithboggaram) 
 - [Ankith B V](https://github.com/abs99) 
 - [Eirik Fladmark](https://github.com/Fladmark) 
@@ -10,7 +10,6 @@
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
-- [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
@@ -41,7 +40,6 @@
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
-- [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Racim Righi](https://github.com/RacimRgh)
@@ -257,7 +255,6 @@
 - [Jaskaran Singh]
 - Jerryco Alaba
 - Gustavo Ribeiro Gomes
- [utkarshpopli26](https://github.com/utkarsh.popli26@gmail.com)
 - [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
