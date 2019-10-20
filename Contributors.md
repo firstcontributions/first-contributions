@@ -18,6 +18,7 @@
 - [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
+- [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
 - [Parth_Vyas](https://github.com/parthvyas7)
 - [Aryan Singh](https://github.com/ary1733)
