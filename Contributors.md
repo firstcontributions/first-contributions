@@ -17941,6 +17941,7 @@ rehan
 - [Shubh Mittal](https://github.com/shubh9)
 - [Nhi](https://github.com/nhidiep984)
 - [Alina Karmacharya](https://github.com/alina02)
+- [Harshit Agarwal](https://github.com/harshitagarwal93)
 - [Sabin Nepal](https://github.com/neymarsabin)
 - [Uri Frazier](https://github.com/furyuri/)
 - [Agile Belma](https://github.com/agilebelma)
