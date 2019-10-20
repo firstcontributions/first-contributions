@@ -6,6 +6,7 @@
 - [Ankith B V](https://github.com/abs99) 
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
+- [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
 - [Pavan Jindam](https://github.com/jindamp)
