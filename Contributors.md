@@ -8699,6 +8699,7 @@ Aman Panjwani
 - [Eren Sertkaya](https://github.com/erensertkaya)
 - [ft-eire] (https://github.com/ft-eire)
 - [Vinod K](https://github.com/vinodkoliyat)
+-[Nirmal Patel](https://github.com/nmpatel347)
 - [Slupi](https://github.com/Slupi)
 - [Ibrahim](https://github.com/harthii)
 - [Dino Daniel](https://github.com/dinodn)
