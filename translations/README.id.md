@@ -5,9 +5,9 @@
 
 # Kontribusi Pertama
 
-Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor open-source baru belajar & berkontribusi untuk pertama kalinya.
+Sulit. Selalu sulit saat pertama kali Anda ingin melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor baru open-source  belajar & berkontribusi untuk pertama kalinya.
 
-Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada benar-benar melakukan hal-hal tersebut di lingkungan praktik? Proyek ini bertujuan untuk memberikan panduan & menyederhanakan cara pemula memberikan kontribusi pertama mereka. Jika Anda ingin memberikan kontribusi pertama, ikuti langkah-langkah di bawah ini.
+Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada benar-benar melakukan hal-hal tersebut secara praktikum? Proyek ini bertujuan untuk memberikan panduan & menyederhanakan cara pemula memberikan kontribusi pertama mereka. Jika Anda ingin memberikan kontribusi pertama, ikuti langkah-langkah di bawah ini.
 
 #### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan alat GUI.](#tutorial-menggunakan-alat-lain)_
 
@@ -65,7 +65,7 @@ Membaca artikel & menonton tutorial dapat membantu, tetapi apa yang lebih baik d
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
+Apabila belum menginstal git, [ install segera ](https://help.github.com/articles/set-up-git/).
 
 ## Fork repositori ini
 

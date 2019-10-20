@@ -1,6 +1,6 @@
 # Informasi tambahan
 
-Kami berasumsi anda sudah menyelesaikan tutorial dasar sebelum datang ke sini. Informasi tambahan ini akan memberikan beberapa informasi mengenai teknik Git yang lebih tinggi.
+Kami berasumsi anda sudah menyelesaikan tutorial dasar sebelum datang ke sini. Informasi tambahan ini akan memberikan beberapa informasi mengenai teknik Git lanjutan.
 
 ### [Hapus cabang dari repositori anda](removing-branch-from-your-repository.md)
 Dokumen ini memberikan informasi mengenai bagaimana menghapus sebuah cabang dari repositori anda.
