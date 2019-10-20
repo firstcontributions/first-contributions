@@ -7,6 +7,7 @@
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
+- [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
