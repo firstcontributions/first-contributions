@@ -41,6 +41,7 @@
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Racim Righi](https://github.com/RacimRgh)
