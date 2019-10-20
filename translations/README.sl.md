@@ -1,12 +1,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Prvi prispevek
 
-Vsak začetek je težak. Ko sodeluješ z drugimi, so napake še veliko bolj neprijetne. Zato smo se odločili, da novincem olajšamo prispevanje k odprti kodi (ang. Open source). 
+Vsak začetek je težak. Ko sodeluješ z drugimi, so napake še veliko bolj neprijetne. Zato smo se odločili, da novincem olajšamo prispevanje k odprti kodi (ang. Open source).
 
 Branje člankov in sledenje vodičem lahko pomaga, vendar je še vedno najbolje da nove veščine vadimo sami v varnem okolju. Namen tega projekta je da novince vodi in jim olajša prvi prispevek k odprti kodi. Če želite narediti prvi prispevek, sledite spodnjim korakom.
 
@@ -17,6 +17,8 @@ Angleški izrazi so v oklepajih, da dodajo kontekst vsebini.
 #### *Preberite ta navodila v [drugih jezikih](../Translations.md).*
 
 [🇮🇳](README.hi.md) [🇲🇲](README.mm_unicode.md) [🇮🇩](README.id.md) [🇫🇷](README.fr.md) [🇪🇸](README.es.md) [🇳🇱](README.nl.md) [🇷🇺](README.ru.md) [🇯🇵](README.ja.md) [🇻🇳](README.vn.md) [🇵🇱](README.pl.md) [🇮🇷](README.fa.md) [🇮🇷](README.fa.en.md) [🇰🇷 🇰🇵](README.ko.md) [🇩🇪](README.de.md) [🇨🇳](README.chs.md) [🇹🇼](README.cht.md) [🇬🇷](README.gr.md) [🇺🇦](README.ua.md) [🇧🇷](README.pt_br.md) [🇵🇹](README.pt-pt.md) [🇮🇹](README.it.md) [🇹🇭](README.th.md) [🏴󠁥󠁳󠁧󠁡󠁿](README.gl.md) [🇵🇰](README.ur.md) [:bangladesh:](README.bn.md) [🇲🇩 🇷🇴](README.ro.md) [🇹🇷](README.tr.md) [🇸🇪](README.se.md) [🇮🇱](README.hb.md)
+[🇷🇸](translations/README.sr.md)
+
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -30,9 +32,9 @@ S pritiskom na gumb "Fork" na vrhu te strani, ustvari svojo različico repositor
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sedaj kloniraj ta repository na svoj računalnik. Pojdi v svoj GitHub račun in poišči svojo različico tega repositorya, klikni na gumb "Clone or download" in si kopiraj povezavo. Lahko uporabiš "Ctrl+C" ali pa klikni na ikono na desni strani povezave *copy to clipboard*. 
+Sedaj kloniraj ta repository na svoj računalnik. Pojdi v svoj GitHub račun in poišči svojo različico tega repositorya, klikni na gumb "Clone or download" in si kopiraj povezavo. Lahko uporabiš "Ctrl+C" ali pa klikni na ikono na desni strani povezave *copy to clipboard*.
 
-Odpri terminal in se postavi v direktorij, v katerem želiš imeti svojo kopijo repositorya. Nato zaženi naslednji ukaz: 
+Odpri terminal in se postavi v direktorij, v katerem želiš imeti svojo kopijo repositorya. Nato zaženi naslednji ukaz:
 
 ```
 git clone "url naslov, ki si ga ravno skopiral"
@@ -108,7 +110,7 @@ Kmalu bom združil tvoje spremembe v master vejo tega projekta. V svoj e-poštni
 
 ##  Kako nadaljevati? ( Where to go from here? )
 
-Čestitke! Pravkar si končal običajni _fork -> clone -> edit -> PR_ potek dela, ki ga boš srečal kot sodelavec v odprto kodnih projektih! 
+Čestitke! Pravkar si končal običajni _fork -> clone -> edit -> PR_ potek dela, ki ga boš srečal kot sodelavec v odprto kodnih projektih!
 
 Lahko se pridružiš naši slack ekipi, če rabiš pomoč ali imaš vprašanja. [Pridruži se slack ekipi](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
@@ -122,5 +124,3 @@ Sedaj lahko začneš prispevati drugim projektom. Sestavili smo seznam projektov
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

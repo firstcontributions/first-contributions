@@ -1,5 +1,5 @@
 [![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -34,7 +34,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du réperto
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-Par exemple:
+Par exemple :
 ```
 git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
@@ -52,7 +52,7 @@ Maintenant créez une branche avec le commande `git checkout` :
 git checkout -b <add-votre-nom>
 ```
 
-Par exemple:
+Par exemple :
 ```
 git checkout -b add-koffi-sani
 ```
@@ -73,7 +73,7 @@ en remplaçant `<votre-nom>` par votre nom.
 
 ## Poussez les modifications vers GitHub
 
-Poussez vos modifications avec la commande `git push`:
+Poussez vos modifications avec la commande `git push` :
 ```
 git push origin <add-votre-nom>
 ```
@@ -100,7 +100,7 @@ La branche master de votre embranchement ne subira pas de modification à cet in
  git checkout master
  ```
 
- Et ajouter l'url de mon répertoire comme  `upstream remote url`:
+ Et ajouter l'url de mon répertoire comme  `upstream remote url` :
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
