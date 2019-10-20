@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Atharva Gupta](https://github.com/AtharvaGupta01)
+- [Anurag Agrawal](https://github.com/anuragagrawal99)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
 - [Ankith B V](https://github.com/Ankithboggaram) 
