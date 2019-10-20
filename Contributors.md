@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Pratik Kumar Singh](https://github.com/singh-pk)
-- [Atharva Gupta](https://github.com/AtharvaGupta01)
+- [Pavel Saha](https://github.com/pavel5133)
+[Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
 - [Ankith B V](https://github.com/Ankithboggaram) 
@@ -10,6 +11,7 @@
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
+- [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
@@ -26,6 +28,7 @@
 - [Kelsey Hilton](https://github.com/kelseyhilton)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
+- [Yunip Shrestha](https://github.com/ddrshrez11)
 - [Carol Destreza](https://github.com/caroldestreza)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Anshul Wagadre](https://github.com/arkenstan)
@@ -39,6 +42,7 @@
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Racim Righi](https://github.com/RacimRgh)
@@ -254,6 +258,7 @@
 - [Jaskaran Singh]
 - Jerryco Alaba
 - Gustavo Ribeiro Gomes
+ [utkarshpopli26](https://github.com/utkarsh.popli26@gmail.com)
 - [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
