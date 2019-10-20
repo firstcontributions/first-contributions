@@ -2582,6 +2582,7 @@ Stephan Sharpe
 - [Aishwary Shukla](https://github.com/AishTron7)
 - [Gunner Hatmaker](https://github.com/gdhhdg)
 - [Val Lipat](https://github.com/vlipatdev)
+- [Marius Flouks](https://github.com/FlouksBerlin)
 - Karen Galvez (https://github.com/kygalvez)
 - [Chris Drury](https://github.com/crdrury)
 - [Eron Begiqi](https://github.com/eronbegiqi)
