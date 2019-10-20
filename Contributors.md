@@ -19,6 +19,7 @@
 - [Tristan Holaday] (https://github.com/TristanHoladay)
 - [Steven Schoor] (https://github.com/SSchoor163)
 - [Phillip Pham](https://github.com/PHIQW)
+- [Mayank Kumar] (https://github.com/mayank97)
 - [Kelsey Hilton](https://github.com/kelseyhilton)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
