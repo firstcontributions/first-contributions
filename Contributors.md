@@ -10,6 +10,7 @@
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
+- [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Anthony Chou](https://github.com/pycrusher)
