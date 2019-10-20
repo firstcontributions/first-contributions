@@ -37,6 +37,7 @@
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
 - [Marisa] (https://github.com/marisawadsworth)
+- [Krisztina Nogradi](https://github.com/pand4stic)
 - [Hisham Bajunaid] (https://github.com/Hisham2150)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
