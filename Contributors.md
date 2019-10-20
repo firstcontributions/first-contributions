@@ -17992,6 +17992,7 @@ rehan
 - [gamo-k](https://github.com/gamo-k)
 - [Vidhya Raja](https://github.com/vidhya-raja)
 - [Sazazezer](https://github.com/Sazazezer)
+- [Axelle](https://https://github.com/AxelleDRouge)
 - [Click](https://github.com/aflutter)
 - [Damian Ly](https://github.com/lydamian);
 - [Jonathan Lie](https://github.com/jonlie1107);
