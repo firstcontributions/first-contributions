@@ -225,6 +225,7 @@
 - [Harsh Agrawal](https://github.com/harshag1729)
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Carlos Estrella](https://github.com/cestrell)
+- [ADGiuliano](https://github.com/ADGiuliano)
 - [Ram Muthiah](https://github.com/alexa-ai)
 - [Jitendra](https://github.com/jitusd9)
 - [KRHero03](https://github.com/KRHero03)
