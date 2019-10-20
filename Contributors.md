@@ -654,6 +654,7 @@ notForProffitt
 - [Fynn Grandke] (https://github.com/FynnGrandke)
 - [Anshu Kumari] (https://github.com/anshukcse)
 - [Diaz Saul] (https://github.com/sauldc24)
+- [Franziska Zeuner](https://github.com/fzeuner)
 - [Harlan Kadison] (https://github.com/hhkadison)
 - [Alex O'Mahony] (https://github.com/MrToastMachine)
 - [Khushraj Rathod] (https://github.com/Holyprogrammer)
