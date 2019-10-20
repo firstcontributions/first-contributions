@@ -21,6 +21,7 @@
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - [Hailey Barnett] (https://github.com/haileyb0311)
 - Anirudh
+- Marcos Wesley S Alves
 - Philip Wright
 - Adam Carroll
 - Green S
