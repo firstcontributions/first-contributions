@@ -306,7 +306,8 @@
 - [Shubham Raj](https://github.com/raj808569)
 - [Will](https://github.com/csrunner20)
 - [Aman Pandey]
-- [Maike Fischer]
+- [Mridul Agrawal]
+  [Maike Fischer]
 - [Yash Jaiswal]
 - [Kasra Tabrizi]
 - [ymrz]
