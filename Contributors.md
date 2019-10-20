@@ -151,6 +151,7 @@
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
 - [Ankit Garg](https://github.com/ankitgargsma)
+- [Andrea Gines](https://github.com/andreaGines)
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - Marcband
