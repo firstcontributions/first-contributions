@@ -1681,6 +1681,7 @@ Nishtha3512
 - [Ricky Chhoukdean](https://github.com/rickychhoukdean)
 - [Benjamin Buettner] (https://github.com/B-Benja/)
 - [Aurore Vandroux](https;//github.com/ORORRR)
+- [Jose Castro](https://github.com/joseCastro-76)
 - [Brianna McGovern](https://github.com/bmcgovern007)
 - [Jill2] (https://github.com/jilloestreicher)
 - [Nick Martin](https://github.com/nick-martin-24)
@@ -1784,7 +1785,7 @@ Nishtha3512
 - [Devanshu Yadav](https://github.com/Blackwatch1910)
 - [Kylan Byrd](https://github.com/aviananalyst)
 - [Jibri Tolen](https://github.com/AlienDev1)
--[Rashini Maduka](https://github.com/RashiniMaduka)
+- [Rashini Maduka](https://github.com/RashiniMaduka)
 - [Hyun Ouk Nam](https://github.com/hyunouknam)
 - [Shantigunna](https://github.com/shantigunna22)
 - [Henry Akwerigbe](https://github.com/Henadek)
@@ -1802,7 +1803,7 @@ Nishtha3512
 - [Nasim](https://github.com/nasimUddin)
 - [sixthsant]
 - [Daniel Speer](https://github.com/potatoHVAC)
-- [Adithya S](https://github.com/Adithya188288))
+- [Adithya S](https://github.com/Adithya188288)
 - [Davy Chan](https://github.com/dcastellon0001)
 - [Prasanth Yadla](https://github.com/prashantyadla)
 - [Jordon Ulrich](https://github.com/jodgey)
@@ -2009,7 +2010,7 @@ Stephan Sharpe
 - [Tim Wong](https://github.com/imtimwong)
 - [Peretz Levinov](https://github.com/perchick03)
 - [D Wills](https://github.com/dwills1971)
-- Dimon Barankov
+- [Dimon Barankov]
 - [Braden Bodily](https://github.com/Unholydeath)
 - [P Mansukhani](https://github.com/pmansukhani)
 - [Elijah Brian](https://github.com/thexerothermic)
@@ -2018,7 +2019,7 @@ Stephan Sharpe
 - [Peter Molloy](https://github.com/pgmolloy)
 - [Ahmad Dinkins](https://github.com/AHMAD-DINKINS)
 - [Jose Medina](https://github.com/bluelouie)
-- Darshana Jaint
+- [Darshana Jaint]
 - [trialzuki](https://github.com/trialzuki)
 - [8bitjustin](https://github.com/8BitJustin)
 - [burak136](https://github.com/burak136)
@@ -2035,7 +2036,7 @@ Stephan Sharpe
 - [Srijan Kapoor](https://github.com/notpluto)
 - [Hossain Riazati](https://github.com/rriazati)
 - [Hannah Stover](https://github.com/hannahstover)
-- [Judson Higley](https://github.com/JudsonHigley
+- [Judson Higley](https://github.com/JudsonHigley)
 - [Light Yagami](https://github.com/Lightobyte)
 - [Stefan Speter](https://github.com/StefanYYC)
 - [Clement Yam](https://github.com/Tzunhei)
