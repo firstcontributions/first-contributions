@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Pratik Kumar Singh](https://github.com/singh-pk)
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
