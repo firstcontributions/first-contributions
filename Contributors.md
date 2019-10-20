@@ -78,6 +78,7 @@
 - [Greg McKibbin 🌎🚀:octocat:🌌](https://github.com/greg0714)
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Mantas Vaistaras](https://github.com/Manteliz)
+- [Sanidhya bhardwaj](https://github.com/sanidhya3340)
 -  [Patrick Hughey](https://github.com/jphughey1)
 - [jmrcastillo](https://github.com/jmrcastillo)
 - [Rita Lin (https://github.com/cursedk7)
