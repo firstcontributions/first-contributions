@@ -66,6 +66,7 @@
 - [Lara Salam] (https://github.com/larasalam)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Vasanth Ganesh](https://github.com/v4vasanth)
+- [Francesco Francomano](https://github.com/silversoul93)
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
 - [Aman Saini] (https://github.com/Amansaini7)
