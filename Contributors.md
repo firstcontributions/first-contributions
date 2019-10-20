@@ -1,5 +1,6 @@
 # Contributors
 
+- [Sarthak Tanwani](https://github.com/sarthaktanwani)
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
