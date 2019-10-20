@@ -7439,6 +7439,7 @@ Aman Panjwani
 - [Ashwin Khushlani](https://github.com/ashwinkhushlani)
 - [Recep Emül](https://github.com/rcpml)
 - [Muslim Razi](https://github.com/raz4)
+- [Jon-Michael Dreher](https://github.com/jaydray1)
 - [VJ Fernandez](https://github.com/VJFernandez123)
 - [Danny Lan](https://github.com/ddlan)
 - [Shivam Chaudhary](https://github.com/andy6975)
