@@ -11852,6 +11852,7 @@ Aman Panjwani
 - [Jay H](https://github.com/DrJuneau)
 - [Vega Ven2ra](https://github.com/VegaVen2ra)
 - [learningHere](https://github.com/learningHere)
+- [Angelica Lapastora](https://github.com/anjlapastora)
 - [Suzannah Emairi](https://github.com/emairi)
 - [Andrew Hatfield](https://github.com/andrewhatfield)
 - [Arthur Zinck](https://github.com/arthurzinck)
