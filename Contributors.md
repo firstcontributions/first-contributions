@@ -5230,6 +5230,7 @@ Aman Panjwani
 - [Preveen Raj](https://github.com/preveenraj)
 - [Cole Beck](https://github.com/claniere)
 - [espilya](https://github.com/espilya)
+- [Tanisha Sharda](https://github.com/Tanisha07)
 - [Efe Barış](https://github.com/altinay10)
 - [Sheenie](https://github.com/sheeenie)
 - [JudeYak](https://github.com/judeyak)
