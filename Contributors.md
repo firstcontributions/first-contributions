@@ -35,6 +35,7 @@
 - [Yunip Shrestha](https://github.com/ddrshrez11)
 - [Carol Destreza](https://github.com/caroldestreza)
 - [Noopur](https://github.com/noopur-tiwari)
+- [Mayank Kumar](https://github.com/mayank518)
 - [Anshul Wagadre](https://github.com/arkenstan)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
