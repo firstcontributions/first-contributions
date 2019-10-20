@@ -234,6 +234,7 @@
 - [Arushi Jain](https://github.com/arushi-16)
 - [Alec Magnani](https://github.com/alecmagnani)
 - [Jordan Villanueva](https://github.com/joyous30)
+- [Indrani Biswas](https://github.com/biswain2309)
 - [Sunny Prakash](https://github.com/sprakash57)
 - [Adam Carolan] (https://github.com/caromur)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
