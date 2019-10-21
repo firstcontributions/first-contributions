@@ -80,6 +80,7 @@
 - [Siew-Yit Yong](https://github.com/syyong)
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - [Kevin Amalathas](https://github.com/amalathask)
+- [Shubham Lad] (https://github.com/ShuLaPy)
 - [Mike Disbrow] (https://github.com/mdisbrow)
 - [Kai Heng Ann](https://github.com/kaihengann/)
 - [Javier Cabrera Puente](https://github.com/cabreration)
