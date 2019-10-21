@@ -18088,11 +18088,11 @@ rehan
 - [vivmin](https://github.com/vivmin)
 - [Adarsh Dwivedi](https://github.com/thevloper)
 - [Sarthak Rout](https://github.com/SarthakRout)
+- [Adrish Ghosh](https://github.com/adrish96)
 - [Arun Jose](https://github.com/ARUNJOSE144)
 - [Carl Jimenez](https://github.com/CarlJimenez)
 - [Kumar Sanu](https://github.com/krsanu555)
 - [Federico Benassi](https://github.com/benassi-federico-dev)
-- [nonoy g]
 - [Indra Putra](https://github.com/indraakkk)
 - [Lun Zhang](https://github.com/lunzhang)
 - [greg](https://github.com/greg-lab)
