@@ -7,7 +7,7 @@
 
 De eerste keer dat je iets nieuws probeert is altijd lastig, helemaal wanneer je samen werkt - kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven dat je het leuk zal vinden.
+Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven dat je het leuk zal vinden xxxx. 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork deze repository" />
 
