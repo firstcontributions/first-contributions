@@ -18025,6 +18025,7 @@ rehan
 - [Hush](https://www.github.com/HushOv)
 - [Arman](https://github.com/armanbinmahmud)
 - [Homard](https://github.com/homard)
+- [Firat Palta] (https://github.com/Firat35)
 - [ketan gupta](https://github.com/ketangupta34)
 - [Shakti Barath](https://github.com/shaktibarath)
 - [Deja Ballard](https://github.com/DejaBallard)
@@ -18110,3 +18111,4 @@ rehan
 - [Anthony Cobb](https://github.com/Anthonydcobb)
 - [Poojitha Maheshappa](https://github.com/Poojitha1999)
 - [Lily Otv](https://github.com/lilyotv)
+- 
