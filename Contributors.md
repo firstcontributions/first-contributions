@@ -2,6 +2,7 @@
 - [Nigel Yong](https://github.com/niyonx)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [rabindra ku senapati](https://github.com/rp0023)
+- [Shri](https://github.com/skt1598)
 - [suryaraj] (https://github.com/suryaraj95)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
