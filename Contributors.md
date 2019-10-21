@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Nigel Yong](https://github.com/niyonx)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [rabindra ku senapati](https://github.com/rp0023)
@@ -168,6 +168,7 @@
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Samuel Bétrisey](https://github.com/betrisey)
 - [Tarun Khandelwal](https://github.com/kaitou786)
+- [K K Biswas](https://github.com/kajalkb)
 - [Cena Mayo](https://github.com/cena)
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
