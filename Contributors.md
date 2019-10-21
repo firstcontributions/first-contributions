@@ -18056,6 +18056,7 @@ rehan
 - [Nuno Ferreira](https://github.com/koriolis)
 - snikitha
 - [Koketso Mmelesi](https://github.com/MorobaBW)
+- [Ever Leiva](https://github.com/C4bRiO/)
 - [Eddie Hale](https://github.com/kaoskater08)
 - [Luiz Pansarini] (https://github.com/LuizHAP)
 - [Maria Chariskos] (https://github.com/chari-mari)
