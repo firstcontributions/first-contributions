@@ -18128,3 +18128,4 @@ rehan
 - [infyblock](https://github.com/infyblock)
 - [Audrey Schmook](https://github.com/AudreySchmook)
 - [Calvin Moisan](https://github.com/moicodes)
+- [Brent Hoskins](https://github.com/BrentHoskins84)
