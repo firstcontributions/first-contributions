@@ -5,6 +5,7 @@
 Cody Dullard
 - [Jung-Won Ha] (https://github.com/JungWonHa)
 - [Sid Hackney] (https//github.com/practicalmess)
+- [Carlitos Salazar] (https//github.com/carrliitos)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando] (https://github.com/ovando-lulu)
 - [Sebastien Beaury] (https://github.com/sbeaury)
