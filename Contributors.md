@@ -3520,6 +3520,7 @@ Stephan Sharpe
 - [ootahiaoo](https://github.com/ootahiaoo)
 - [MaxlStone](https://github.com/maxl1997)
 - [Bufford Sta Maria](https://github.com/bufford99)
+- [Chae DeLaRosa](https://github.com/ChaeDLR)
 - Akriti Katiyar
 - [Max Esser](https://github.com/max-esser)
 - [William Ciesialka](https://github.com/wciesialka)
