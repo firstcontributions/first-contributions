@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Nigel Yong](https://github.com/niyonx)
 - [David Kacsor](https://github.com/DavidKacsor)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
@@ -2429,6 +2429,7 @@ Stephan Sharpe
 - [Verduor](https://github.com/verduor)
 - [UnicodeRogue](https://github.com/UnicodeRogue)
 - Daniel Jung
+- [Charlie Christiansson](https://github.com/Rodeby)
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Vignesh Nandhini Velu](https://github.com/vigneshvelu)
 - [Jtian](https://github.com/JhonsonTian)
