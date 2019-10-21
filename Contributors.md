@@ -241,6 +241,7 @@
 - [Ram Muthiah](https://github.com/alexa-ai)
 - [Jitendra](https://github.com/jitusd9)
 - [KRHero03](https://github.com/KRHero03)
+- fcrozatier
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
