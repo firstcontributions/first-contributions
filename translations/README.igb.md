@@ -58,6 +58,7 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 [🇿🇦](translations/README.afk.md)
 [🇰🇪](translations/README.kws.md)
 [🇳🇬](translations/README.igb.md)
+[🇷🇸](translations/README.sr.md)
 
 
 

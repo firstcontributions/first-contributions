@@ -61,6 +61,9 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇻🇳](translations/README.vn.md)
 [🇿🇦](translations/README.zul.md)
 [🇿🇦](translations/README.afk.md)
+[🇰🇪](translations/README.kws.md)
+[🇳🇬](translations/README.igb.md)
+[🇱🇻](translations/README.lv.md)
 
 
 
