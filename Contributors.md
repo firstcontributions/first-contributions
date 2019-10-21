@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Nigel Yong](https://github.com/niyonx)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [rabindra ku senapati](https://github.com/rp0023)
@@ -8,12 +8,12 @@
 - [Mayank_Matwa](https://github.com/MayankMatwa378)
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
-- [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
-- [Ankith B V](https://github.com/Ankithboggaram) 
+- [sheetal dadhewal](https://github.com/sheetal-dadhewal)
+- [Ankith B V](https://github.com/Ankithboggaram)
 - [Ankith B V](https://github.com/abs99)
-- [Abdul Haq Shah](https://github.com/abdulhaqshah) 
+- [Abdul Haq Shah](https://github.com/abdulhaqshah)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
-- [Eirik Fladmark](https://github.com/Fladmark) 
+- [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
@@ -52,7 +52,7 @@
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
-- [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Sampath Kumar Bidre](https://github.com/bidresam)
 - [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
@@ -80,7 +80,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
-- [Samya] 
+- [Samya]
 - [Andy Davies]
 - [Im lohith](https://github.com/Imlohith)
 - [Nandakrishna](https://github.com/nandakrishna75)
@@ -1455,7 +1455,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
@@ -1751,7 +1751,7 @@ Kebana Modise
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
@@ -18089,6 +18089,7 @@ rehan
 - [Arun Jose](https://github.com/ARUNJOSE144)
 - [Carl Jimenez](https://github.com/CarlJimenez)
 - [Kumar Sanu](https://github.com/krsanu555)
+- [Pallavi Chugh](https://github.com/pallavichugh)
 - [Federico Benassi](https://github.com/benassi-federico-dev)
 - [nonoy g]
 - [Indra Putra](https://github.com/indraakkk)
