@@ -1,5 +1,6 @@
 # Contributors
 - [Nigel Yong](https://github.com/niyonx)
+- [Mohsin Surani](https://github.com/mohsinsurani)
 - [David Kacsor](https://github.com/DavidKacsor)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
