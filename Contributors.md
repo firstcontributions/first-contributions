@@ -18126,3 +18126,4 @@ rehan
 - [Giovanni Beijl](https://github.com/Gio-Glu)
 - [infyblock](https://github.com/infyblock)
 - [Audrey Schmook](https://github.com/AudreySchmook)
+- [Calvin Moisan](https://github.com/moicodes)
