@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Nigel Yong](https://github.com/niyonx)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [rabindra ku senapati](https://github.com/rp0023)
@@ -289,6 +289,7 @@
 - Jerryco Alaba
 - Gustavo Ribeiro Gomes
  [utkarshpopli26](https://github.com/utkarsh.popli26@gmail.com)
+- [King Krist](https://github.com/00-eight)
 - [George Main](https://github.com/georgemani1225)
 - [Shivam Sood](https://github.com/shivam-sood)
 - [Nathaniel Graham](https://github.com/ngraham20)
