@@ -1,12 +1,13 @@
 ﻿# Contributors
 
 - [TechnicSparks](https://github.com/TechnicSparks)
+- [KashishSingh](https://github.com/kashplay)
 - [Yash Goyal](https://github.com/ygyash)
 - [Abylay Murzashev](https://github.com/amurzashev)
 - [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Ashu](https://github.com/ashu1999)
-- [YamitSi](https://github.com/yamitsi)
+- [YamitSi](https://github.com/yamitsi)`
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [AnnChar](https://github.com/annchar)
 - [KaranRandhir](https://github.com/KaranRandhir)
