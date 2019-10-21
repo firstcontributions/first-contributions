@@ -1972,6 +1972,7 @@ Kebana Modise
 - [Matthew Finley](https://github.com/m-fin)
 - [Yu Zhou](https://github.com/yu-zhou-7)
 - [Mateo Marenco](https://github.com/Mateo74)
+- [Kevin Hall](https://github.com/mrhallonline)
 - [Jeff Cohen](https://github.com/jcohen120)
 - [Gonzalo Campos](https://github.com/eGonzalo96)
 - [Ryan Chen](https://github.com/bh-c)
