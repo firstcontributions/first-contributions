@@ -275,6 +275,7 @@
 - [romeos25](https://github.com/romeos25)
 - [Hal Klein](https://github.com/halklein)
 - [Ankush Sharma](https://github.com/ScorchingShade)
+- [Vadim Slepich](https://github.com/d3fault333)
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
 - [Jaskaran Singh]
 - Jerryco Alaba
