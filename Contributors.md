@@ -18000,3 +18000,4 @@ rehan
 - [Tim Richter](https://github.com/0DivTag)
 - [Carlton Branch](https://github.com/CarltonBranch)
 - [Alucard (-.-)]
+- [Rodrigo Sousa de Oliveira](https://github.com/rodrigosousadf)
