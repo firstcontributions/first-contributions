@@ -27,6 +27,7 @@
 - [Parth_Vyas](https://github.com/parthvyas7)
 - [Aryan Singh](https://github.com/ary1733)
 - [pingtam4] (https://github.com/pingtam4)
+- [Manas Ranjan Swain](https://github.com/Manas173)
 - [Sathwik] (https://github.com/sathwik30)
 - [Aratnor] (https://github.com/Aratnor)
 - [Peter Chou] (https://github.com/peterchou3788)
