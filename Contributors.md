@@ -19,7 +19,7 @@
 - [Renju Jose](https://github.com/renjujv)
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
 - [Johan Altamar Rocha](https://github.com/johanaltro)
-- [Santosh Vasisht] (https://github.com/santosh50)
+- [Santosh Vasisht](https://github.com/santosh50)
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Rohan Singh](https://github.com/rusia111)
