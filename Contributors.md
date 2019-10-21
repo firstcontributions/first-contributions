@@ -18049,6 +18049,7 @@ rehan
 - [Ahmad Rafiqul A'la](https://github.com/Sky4Crown)
 - [KYBA](https://github.com/A-KYBA)
 - [Bruno Lima](https://github.com/beugenio)
+- [Fernando Rosendo] (https://github.com/fernandolgl)
 - [Scott Hansford](https://github.com/zenwattage)
 - [Seth Willits](https://github.com/saw142)
   [Nico Miguel](https://github.com/nicomigu)
