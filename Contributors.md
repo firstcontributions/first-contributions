@@ -10055,6 +10055,7 @@ Stephan Sharpe
 - [Vladi Beeblebrox](https://github.com/ewoks)
 - [Erica Culbreath](https://github.com/EriJBreeze)
 - [Chelsea C](https://github.com/sea-of-chel)
+- [Hasika Dilshani](https://github.com/HasikaDilshani)
 - [Caio Lopes](https://github.com/caiolopes)
 - [Hussain Sakriwala](https://github.com/hussainskr)
 - [Skapunker](https://github.com/skapunker)
