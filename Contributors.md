@@ -774,6 +774,7 @@ notForProffitt
 - [Govind Kartha] (https://github.com/govkartha)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Renee Davis](https://github.com/Rooster1915)
+- [Fiske Schijlen](https://github.com/fistaco)
 - [Jatin Narula](https://github.com/jatin96)
 - [Jessica Gladstone] (https://github.com/Jcg408)
 - [Tanish Baansal](https://github.com/snaked06)
