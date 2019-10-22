@@ -6826,6 +6826,7 @@ Aman Panjwani
 - [Pulkit Gupta](https://github.com/Pulkitg64)
 - [Dominic](https://github.com/doms)
 - [Tanner Crook](https://github.com/tannercrook)
+- [Seshai Hari](https://github.com/SeshaiHari)
 - [Joshua Pierre](https://github.com/JoshPad75)
 - [Brad Cutten](https://github.com/bcutten)
 - [Rolf Christian Jørgensen] (https://github.com/rcjorgensen)
