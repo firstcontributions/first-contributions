@@ -31,7 +31,8 @@
 - [Kyle Crews](https://github.com/kyle-crews)
 - [Ankith B V](https://github.com/abs99)
 - [Renju Jose](https://github.com/renjujv)
-- [netrunner1303](https://github.com/netrunner1303]
+- [netrunner1303](https://github.com/netrunner1303)
+- [glemoss] (https://github.com/glemoss)
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
 - [Santrupta Mishra](https://github.com/ChickenTheNoob)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
