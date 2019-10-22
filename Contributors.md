@@ -60,6 +60,7 @@
 - [Mayank Kumar](https://github.com/mayank518)
 - [Anshul Wagadre](https://github.com/arkenstan)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
+- [Mauricio Garcia](https://github.com/MauricioGR15)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
 - [Marisa] (https://github.com/marisawadsworth)
 - [Hisham Bajunaid] (https://github.com/Hisham2150)
