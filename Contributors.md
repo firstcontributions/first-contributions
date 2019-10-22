@@ -8912,6 +8912,7 @@ Aman Panjwani
 - [Abdel Mounaim Tazi](https://github.com/AMTazi)
 - [Saket](https://github.com/saket700)
 - [Vlad Aiftimie](https://github.com/vaiftimie)
+- [Gabriel Igor](https://github.com/gabriel-igorq)
 - [hercegtomas](https://github.com/hercegtomas)
 - [Pierre Bréchet](https://github.com/brechetp)
 - [Renato Santos](https://github.com/RNT17)
