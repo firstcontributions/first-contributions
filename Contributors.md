@@ -10,6 +10,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
 - [suryaraj] (https://github.com/suryaraj95)
+- [Miji Cherian] (https://github.com/mijicherian)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
 - [Nicholas Menezes](https://github.com/nicholasmenez)
