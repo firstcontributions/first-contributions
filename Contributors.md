@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Quratulain Ahmed](https://github.com/QuratulainAhmad)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
@@ -8384,6 +8384,7 @@ Orandi Harris
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
+- [hamza2448](https://github.com/hamza2448)
 - [AliZeeshan3](https://github.com/AliZeeshan3)
 - [MairaIjaz](https://github.com/MairaIjaz)
 - [junaidg7](https://github.com/junaidg7)
