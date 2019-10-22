@@ -1,4 +1,5 @@
 # Contributors
+- [GuoJianxin-code](http://github.com/GuoJianxin-code)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [David Kacsor](https://github.com/DavidKacsor)
