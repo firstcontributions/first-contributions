@@ -90,6 +90,7 @@
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Kathryn Sanders](https://github.com/kathryn-sanders)
+- [Raj]
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
