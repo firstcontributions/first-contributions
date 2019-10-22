@@ -18156,3 +18156,4 @@ rehan
 - [Kyli](https://github.com/ikyli)
 - [Panudet P.] (https://github.com/panudet-24mb)
 - [Henry Kyri2] (https://github.com/henrykyri)
+- [James Hazeldine] (https://github.com/BraveSrRobin)
