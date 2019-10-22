@@ -1,4 +1,5 @@
 # Contributors
+- [Mohamed Imthath](https://github.com/imzi)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
