@@ -478,6 +478,7 @@ notForProffitt
 - [Jon Zivku](https://github.com/jonzivku)
 - [Micah Chiang](https://github.com/micahchiang)
 - [ChiLau]
+- [alexxozo]
 - [girOly](https://github.com/girOly)
 - [Charles King](https://github.com/charlesdking)
 - [Mike Howell](https://github.com/mikehowell)
