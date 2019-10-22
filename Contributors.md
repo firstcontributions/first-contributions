@@ -749,6 +749,7 @@ notForProffitt
 - [Harsh Soni] (https://github.com/harshh06)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Kevin Robitaille](https://github.com/krobitaille93)
+- [Zeerak Tahir](https://github.com/zeerakt)
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Dhruva Mahajan](https://github.com/dhruva169)
 - [Rishad] (https://github.com/EvolOfThings)
