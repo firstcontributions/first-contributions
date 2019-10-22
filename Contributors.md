@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Mohamed Imthath](https://github.com/imzi)
+- [Raja Ghosh](https://github.com/rajaghosh1)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
