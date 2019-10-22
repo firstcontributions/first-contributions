@@ -212,6 +212,7 @@
 - [Elisabeth Miller](https://github.com/libbymiller09)
 - Adam Carroll
 - Green S
+- Pedisman
 - Edwin Waweru
 - Ujwal Kadariya
 - [Shailendra singh Bhati] (https://github.com/SSB0734)
