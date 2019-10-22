@@ -7370,6 +7370,7 @@ Aman Panjwani
 - [Tiffany Kyu](https://github.com/teafunnyq)
 - [Soba Arcier](https://github.com/sobaarcier)
 - [Jan Vernarsky](https://github.com/xavice)
+- [Logan Zipkes](https://github.com/LFZ96)
 - [Aaron Shivers](https://github.com/aaronshivers)
 - [Mrinmay Mukherjee](https://github.com/devmrin)
 - [Sri Chunchu](https://github.com/srichunchu)
