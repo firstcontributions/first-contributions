@@ -8384,3 +8384,6 @@ Orandi Harris
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
 - [Ayesha Batool](https://github.com/ayeshabatool119)
+- [Nabil Ahmed](https://github.com/RanaNabilAhmed)
+- [Ishaalsaifi](https://github.com/ishaalsaifi)
+- [Usama Aslam](htpps://github.com/usamaaslam2319)
