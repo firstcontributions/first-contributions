@@ -46,6 +46,7 @@ Arnel Forbes
 - [Quentin Nicolle](https://github.com/quentinncl)
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Peter Karakas](https://github.com/peti2001)
+- [Jamie N](https://github.com/ratesmayapply)
 - [H Shay](https://github.com/H-Shay)
 - [Muhazzib Uddin Farooqui](https://github.com/muhazzib)
 - [Griffin Gaeth](https://github.com/ggaeth)
