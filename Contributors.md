@@ -18198,3 +18198,4 @@ Shenyi Amand
 - [Nibir Baruah] (https://github.com/nibir8-source)
 - [Adit Khokar] (https://github.com/AditKhokar)
 - [Barış Kısır] (https://github.com/bariskisir)
+- [Rafael Barna](https://github.com/rafaelbarna)
