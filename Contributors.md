@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
+- [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
