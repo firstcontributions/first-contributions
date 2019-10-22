@@ -19,6 +19,7 @@
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
 - [Ankith B V](https://github.com/Ankithboggaram) 
+- [Kajal](https://github.com/kajal-11)
 - [Ankith B V](https://github.com/abs99)
 - [Renju Jose](https://github.com/renjujv)
 - [netrunner1303](https://github.com/netrunner1303]
