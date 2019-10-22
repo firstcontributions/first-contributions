@@ -18189,3 +18189,4 @@ Shenyi Amand
 - [Teak Guillaume](https://github.com/Teakt)
 - [Nibir Baruah] (https://github.com/nibir8-source)
 - [Adit Khokar] (https://github.com/AditKhokar)
+- [Barış Kısır] (https://github.com/bariskisir)
