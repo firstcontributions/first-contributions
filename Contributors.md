@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [alaké](https://github.com/alayeet)
+- [Cenfal](https://github.com/cenfal)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Mohamed Imthath](https://github.com/imzi)
