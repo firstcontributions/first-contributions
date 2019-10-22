@@ -32,6 +32,8 @@
 - [Ankith B V](https://github.com/Ankithboggaram) 
 - [Kajal](https://github.com/kajal-11)
 - [Mohammad kaif](https://github.com/thekaif7)
+- [Debojyoti Pramanick](https://github.com/DebojyotiPramanick)
+- [Debojyoti]
 - [Kyle Crews](https://github.com/kyle-crews)
 - [Ankith B V](https://github.com/abs99)
 - [Renju Jose](https://github.com/renjujv)
