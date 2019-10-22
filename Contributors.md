@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [sia4](https://github.com/sia4)
 - [setesti](https://github.com/setesti)
@@ -10,6 +10,7 @@
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
+- [Sankarsh](https://github.com/sankarsh98)
   Elizabeth
   Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
