@@ -91,6 +91,7 @@
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
+- [logistic-bomsiet](https://github.com/logistic-bot)
 - [Emery Weist] (https://github.com/EBWeist)
 - [Zeeshan Ali] (https://github.com/zeesh-ali)
 - [Mahima Sachdeva] (https://github.com/mahi397/)
