@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
@@ -15741,6 +15742,7 @@ Aman Panjwani
 - [Laurie Roy](https://github.com/laurieroy)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
+- [Jan Schwarz](https://github.com/2mt-schwarz)
 - [Shubham](https://github.com/officalshubhamrawal)
 - [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
@@ -17072,6 +17074,7 @@ Aman Panjwani
 - Feng JieJun Iron Man
 - [Leonard Green](https://github.com/laroygreen)
 - [kingkoma](https://github.com/kingkoma)
+- [AlexSarah] (https://github.com/AlexSarah)
 - [Ahmad Samy](https://github.com/sunshine2050)
 - [Raghu Lohe](https://github.com/raghulohe)
 - [Lv Zhi](https://github.com/Na0ture)
@@ -18149,6 +18152,7 @@ rehan
 - [Arun Jose](https://github.com/ARUNJOSE144)
 - [Carl Jimenez](https://github.com/CarlJimenez)
 - [Kumar Sanu](https://github.com/krsanu555)
+Shenyi Amand
 - [Federico Benassi](https://github.com/benassi-federico-dev)
 - [nonoy g]
 - [Indra Putra](https://github.com/indraakkk)
@@ -18180,3 +18184,6 @@ rehan
 - [Monika Muzyk](https://github.com/monikahm)
 - [Nibir Baruah](https://github.com/nibir8-source)
 - [Louis Baron](https://github.com/Liftu)
+- [Teak Guillaume](https://github.com/Teakt)
+- [Nibir Baruah](https://github.com/nibir8-source)
+- [Adit Khokar](https://github.com/AditKhokar)
