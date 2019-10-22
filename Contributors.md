@@ -18171,3 +18171,4 @@ rehan
 - [James Hazeldine] (https://github.com/BraveSrRobin)
 - [Martin Spitz](github.com/phixion)
 - [Matheus](https://github.com/PlayMa256)
+- [Lucas Lemaire](https://github.com/zwormi)
