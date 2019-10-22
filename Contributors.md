@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Mohamed Imthath](https://github.com/imzi)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
@@ -3260,6 +3260,7 @@ Stephan Sharpe
 - [Conor Shields](https://github.com/cshields236)
 - oskarito
 - [N0Ngen](https://github.com/N0Ngen)
+- [mintiti] (https://github.com/mintiti)
 - [dora harps](https://github.com/doraharper)
 - [Oliver Smith](https://github.com/olivermbs)
 - [Edward Savage](https://github.com/edwardASavage)
