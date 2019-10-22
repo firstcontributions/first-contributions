@@ -39,6 +39,7 @@
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Shahin Katebi](https://github.com/shaahin)
 - [Yash](https://github.com/YashAgrawal048)
+- [David Criado](https://github.com/xKuZz)
 - [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
 - [Parth_Vyas](https://github.com/parthvyas7)
