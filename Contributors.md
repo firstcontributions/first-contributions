@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Altay Simsek](https://github.com/altaysimsek)
 - [alaké](https://github.com/alayeet)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
