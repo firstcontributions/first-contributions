@@ -27,20 +27,20 @@
 - [Renuka Kulkarni](https://github.com/renu111k)
 - [Steven Thorne](https://github.com/steventhorne)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
-- [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
-- [Ankith B V](https://github.com/Ankithboggaram) 
+- [sheetal dadhewal](https://github.com/sheetal-dadhewal)
+- [Ankith B V](https://github.com/Ankithboggaram)
 - [Kajal](https://github.com/kajal-11)
 - [Kyle Crews](https://github.com/kyle-crews)
 - [Ankith B V](https://github.com/abs99)
 - [Renju Jose](https://github.com/renjujv)
 - [netrunner1303](https://github.com/netrunner1303)
 - [glemoss] (https://github.com/glemoss)
-- [Abdul Haq Shah](https://github.com/abdulhaqshah) 
+- [Abdul Haq Shah](https://github.com/abdulhaqshah)
 - [Santrupta Mishra](https://github.com/ChickenTheNoob)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
 - [Shantanu Bhosale](https://github.com/shantanu96)
 - [Santosh Vasisht](https://github.com/santosh50)
-- [Eirik Fladmark](https://github.com/Fladmark) 
+- [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Alberto Kiramoto] (https://github.com/akiramot)
 - [Byron Garcia](https://github.com/byronogarcia)
@@ -88,7 +88,7 @@
 - [Kathryn Sanders](https://github.com/kathryn-sanders)
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
-- [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Sampath Kumar Bidre](https://github.com/bidresam)
 - [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
@@ -116,7 +116,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
-- [Samya] 
+- [Samya]
 - [Andy Davies]
 - [Im lohith](https://github.com/Imlohith)
 - [Tim Turner](https://github.com/tturner13)
@@ -568,6 +568,7 @@ notForProffitt
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
+- [Jolanda Lapegna](https://github.com/jlapegna)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Dhyey Gami](https://github.com/dhyey6602)
 - [Boris Klobucar](https://github.com/bbborisk)
@@ -1509,7 +1510,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
@@ -1805,7 +1806,7 @@ Kebana Modise
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
