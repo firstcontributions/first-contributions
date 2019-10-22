@@ -134,6 +134,7 @@
 - [Zeeshan Ali] (https://github.com/zeesh-ali)
 - [Mahima Sachdeva] (https://github.com/mahi397/)
 - [Erblina Lybesha] (https://github.com/EraBlina)
+- [Sakshi]
 - [Lupe Maydana] (https://github.com/luucamay)
 - [Shivangi Bithel](https://github.com/shivangi-bithel)
 - [Tim Pedone](https://github.com/macdude357)
