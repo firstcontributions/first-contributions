@@ -9275,6 +9275,7 @@ Aman Panjwani
 - [Rishabh Mishra](https://github.com/rishabh09)
 - [Max Kubicki](https://github.com/maximilian-k)
 - [Connor Parsons](https://github.com/southcapital)
+- [Cheryl Klein](https://github.com/CKlein413)
 - [Aishwarya Chaturvedi](https://github.com/AishwaryaChat)
 - [Joost Kneepkens](https://github.com/kneepnl)
 - [Akshay Iyer](https://github.com/Akshayiyer12)
