@@ -13,6 +13,7 @@
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
+- [Shekhar](https://github.com/Keovkevin)
 - [Ananya](https://github.com/aravipati)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
