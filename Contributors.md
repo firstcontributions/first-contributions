@@ -3279,6 +3279,7 @@ Stephan Sharpe
 - [Peter Zalejski](https://github.com/pzalejski)
 - [Andi Ferhati](https://github.com/aferhati)
 - goop
+- Pedisman
 - [Aramayis Orkusyan](https://github.com/AramayisOrkusyan)
 - Manoj
 - [metalinux91](https://github.com/metalinux91)
