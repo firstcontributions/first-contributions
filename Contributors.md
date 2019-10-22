@@ -106,6 +106,7 @@
 - [Samya] 
 - [Andy Davies]
 - [Im lohith](https://github.com/Imlohith)
+- [Tim Turner](https://github.com/tturner13)
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
