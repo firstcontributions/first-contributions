@@ -13159,6 +13159,7 @@ Aman Panjwani
 - [David Smith](https://github.com/smithdc1)
 - [Zoe Gordin](https://github.com/zoeg21)
 - [Enes Furkan Olcay](https://github.com/fopeak)
+- [Enes Yavuz](https://github.com/ensyvz14)
 - [Elio Ramiro Flores Choque](https://github.com/erfc993)
 - [QwertyQuill](https://github.com/dmonrod)
 - [Leif Brockman](https://github.com/MrWoo034)
