@@ -659,6 +659,7 @@ notForProffitt
 - [Naezzin] (https://github.com/naezzin)
 - [Pranav Mehta] (https://github.com/pranav-mehta)
 - [Suresh Mangs] (https://github.com/sureshmangs)
+- [KillMonger] (https://github.com/KillMonger1)
 - [Aresiel] (https://github.com/Aresiel)
 - [Vincent Lagravère] (https://github.com/JehlahdDWJ)
 - [Shiva Kiran Sindham] (https://github.com/sindhams)
