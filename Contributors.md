@@ -13,7 +13,6 @@
 - [stu01509](https://github.com/stu01509)
 - [Vansh](https://github.com/kiku511)
 - [Sarah](https://github.com/sarahxoxo)
-- [Shekhar](https://github.com/Keovkevin)
 - [Ananya](https://github.com/aravipati)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Dwij Sheth](https://github.com/dwij2812)
@@ -8996,3 +8995,4 @@ Joon Jang
 - [Gabriele Ceresara](https://github.com/ZioCecio)
 
 - [⁵⁷](https://github.com/micky619)
+-[shekhar](https://github.com/Keovkevin)
