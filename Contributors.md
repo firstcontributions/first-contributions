@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 
+- [Quratulain Ahmed](https://github.com/QuratulainAhmad)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
 - [Sunil Jamkatel](https://github.com/SunilJamkatel)
 - [Quentin Nicolle](https://github.com/quentinncl)
@@ -8376,7 +8377,7 @@ Orandi Harris
 - [Devon Burley](https://github.com/dburly)
 - [Qrol](https://github.com/Qrol)
 - [Harsh Mittal](https://github.com/harsh1201)
-- [Gino Stoian] (https://github.com/ginostoian)
+- [Gino Stoian](https://github.com/ginostoian)
 - [Hajrudin Ahmetasevic](https://github.com/hajro92)
 - [Pavan Kothawade](https://github.com/pavankothawade)
 - [Emily McNair](https://github.com/mistymayem)
@@ -8384,3 +8385,14 @@ Orandi Harris
 - [Austin Casteel](https://github.com/longshotpro2)
 - [Aviv Ben Yosef](https://github.com/avivbyo)
 - [abdullahkhan23](https://github.com/abdullahkhan23)
+- [hamza2448](https://github.com/hamza2448)
+- [AliZeeshan3](https://github.com/AliZeeshan3)
+- [MairaIjaz](https://github.com/MairaIjaz)
+- [junaidg7](https://github.com/junaidg7)
+- [Abaidullah Anjum](https://github.com/Abaidullah95)
+- [WaqasZaheer45](https://github.com/waqaszaheer45)
+- [Mansoor Ahmad](https://github.com/mansoorahmad24)
+- [Ayesha Batool](https://github.com/ayeshabatool119)
+- [Nabil Ahmed](https://github.com/RanaNabilAhmed)
+- [Ishaalsaifi](https://github.com/ishaalsaifi)
+- [Usama Aslam](htpps://github.com/usamaaslam2319)
