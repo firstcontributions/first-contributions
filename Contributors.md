@@ -18179,3 +18179,4 @@ rehan
 - [Lucas Lemaire](https://github.com/zwormi)
 - [Monika Muzyk](https://github.com/monikahm)
 - [Nibir Baruah] (https://github.com/nibir8-source)
+- [Adit Khokar] (https://github.com/AditKhokar)
