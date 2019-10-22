@@ -29,6 +29,7 @@
 - [netrunner1303](https://github.com/netrunner1303]
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
 - [Johan Altamar Rocha](https://github.com/johanaltro)
+- [Shantanu Bhosale](https://github.com/shantanu96)
 - [Santosh Vasisht](https://github.com/santosh50)
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
