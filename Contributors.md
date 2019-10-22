@@ -18166,6 +18166,7 @@ rehan
 - [Calvin Moisan](https://github.com/moicodes)
 - [Brent Hoskins](https://github.com/BrentHoskins84)
 - [blazinggun](https://github.com/blasttrash)
+- [Emelie Petersson] (https://github.com/emeliepetersson)
 - [Valeria Castillo](https://github.com/vcastle)
 - [Barbara Kozlowska] (https://github.com/BarbaraKozlowska)
 - [Andre P. Santos] (https://github.com/andreztz)
