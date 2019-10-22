@@ -15742,6 +15742,7 @@ Aman Panjwani
 - [Laurie Roy](https://github.com/laurieroy)
 - [Yuvraj Singh](https://github.com/YuvrajSingh512)
 - [Fabian Dörr](https://github.com/2mt-doerr)
+- [Jan Schwarz](https://github.com/2mt-schwarz)
 - [Shubham](https://github.com/officalshubhamrawal)
 - [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
