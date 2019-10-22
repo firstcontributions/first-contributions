@@ -18181,5 +18181,6 @@ rehan
 - [Matheus](https://github.com/PlayMa256)
 - [Lucas Lemaire](https://github.com/zwormi)
 - [Monika Muzyk](https://github.com/monikahm)
+- [Teak Guillaume](https://github.com/Teakt)
 - [Nibir Baruah] (https://github.com/nibir8-source)
 - [Adit Khokar] (https://github.com/AditKhokar)
