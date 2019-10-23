@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
 - [xFabifont](https://github.com/xFabifont)
@@ -23,6 +23,7 @@
 - [Dean](https://github.com/mox10)
 -[Tharindu](https://github.com/TharinduBalasooriya)
 -[Shreya Singhal](https://github.com/shreyasinghal09)
+-[QuantumCoderQC](https://github.com/QuantumCoderQC)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
 - [Miji Cherian] (https://github.com/mijicherian)
