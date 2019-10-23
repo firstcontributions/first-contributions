@@ -9223,6 +9223,7 @@ Aman Panjwani
 - [Martin Mortensen](https://github.com/spiritsack)
 - [Martin Alonso](https://github.com/mtnalonso)
 - [Ayush Khare](https://github.com/Ayukha)
+- [leonardw](https://github.com/leonardw)
 - [Oliver Taylor](https://github.com/olitaylor)
 - [Rein Bauwens](https://github.com/reinbauwens)
 - [Igor Chiriac](https://github.com/yanime)
