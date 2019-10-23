@@ -1742,6 +1742,7 @@ Kebana Modise
 - [QQuinn](https://github.com/qquinn)
 - [Shamund Gordon](https://github.com/15sora2)
 - [Shek](https://github.com/shek119)
+- [Jiaqi Zhao](https://github.com/jqiallnatural)
 - [Andre Duong](https://github.com/andreduong)
 - [Richard Huang] (https://github.com/LilInformat)
 - [Jon Gregis](https://github.com/jongregis)
