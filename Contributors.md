@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 - [Kevin] (https://github.com/Altenmann)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
@@ -188,6 +188,7 @@
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Vaibhav Patel](https://github.com/vaibhav-me999)
 - [Abraham William S](https://github.com/abrahamwilliam)
+  [Ryano](https://github.com/ryanoccg)
 - [Chris Williams] (https://github.com/mistwire)
 - [Omer Hefets] (https://github.com/OmerHefets)
 - [Rohit Sachdeva] (https://github.com/rohits301)
