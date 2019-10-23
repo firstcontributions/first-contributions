@@ -7222,6 +7222,7 @@ Aman Panjwani
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
 - [Noelle] (https://github.com/tehtertot)
+- [Rich Pasqualone] (https://github.com/rpasqualone7)
 - [Izabela Cardozo](https://github.com/izabela963)
 - [Alexander Ivanov](https://github.com/ivalexig)
 - [Ashutosh Sangwan](https://github.com/ashkkr)
