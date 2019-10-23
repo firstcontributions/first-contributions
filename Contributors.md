@@ -67,6 +67,7 @@
 - [pingtam4] (https://github.com/pingtam4)
 - [Manas Ranjan Swain](https://github.com/Manas173)
 - [Sathwik] (https://github.com/sathwik30)
+- [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
 - [Nora Borcsok](https://github.com/borcsoknora)
