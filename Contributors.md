@@ -17920,6 +17920,7 @@ rehan
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
 - [Adewoyin Oladipupo-Usoro](https://github.com/nucternal18)
 - [Nabil Elidrissi](https://github.com/niblux)
+- [Jan Zimolka](https://github.com/Zimi14)
 - [Catrina Smith](https://github.com/catrinaisahuman)
 - [Willian Schenkel](https://github.com/wschenkel)
 - [James Tudsbury](https://github.com/jtuds)
