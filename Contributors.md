@@ -40,6 +40,7 @@
 - [Mayank_Matwa](https://github.com/MayankMatwa378)
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Renuka Kulkarni](https://github.com/renu111k)
+- [Leann Kim](https://github.com/leannkim11)
 - [Steven Thorne](https://github.com/steventhorne)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
