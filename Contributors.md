@@ -117,6 +117,7 @@
 - [Tim Turner](https://github.com/tturner13)
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
+- [Huzaifa](https://github.com/hzk120)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [logistic-bomsiet](https://github.com/logistic-bot)
 - [Emery Weist] (https://github.com/EBWeist)
