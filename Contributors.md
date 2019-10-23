@@ -67,8 +67,8 @@
 - [Manas Ranjan Swain](https://github.com/Manas173)
 - [Sathwik] (https://github.com/sathwik30)
 - [Aratnor] (https://github.com/Aratnor)
-- Tarunjot Singh
 - Sagar Sonwane
+- Tarunjot Singh
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
