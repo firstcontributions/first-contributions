@@ -18251,3 +18251,4 @@ Shenyi Amand
 - [Perlin](https://github.com/pewcodes)
 - [Joseph]((https://github.com/ClassicRevive)
 - [Kang Wei Sim](https://github.com/kangweisim)
+- [Ana Paula Lemos](https://github.com/anapaulalemos)
