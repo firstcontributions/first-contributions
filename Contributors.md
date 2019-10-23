@@ -126,6 +126,7 @@
 - [Tahsin Yazkan] (https://github.com/thsnyzkn)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
+- [QiXing Hong] (https://github.com/QI-XING)
 - [Samya] 
 - [Andy Davies]
 - [Billy Liu] (https://github.com/Billy-L)
