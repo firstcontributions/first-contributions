@@ -16,6 +16,7 @@
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
+- [Rhonda Hill] (https://github.com/rhondachill)
 - [David Kacsor](https://github.com/DavidKacsor)
 - [Sashrika Kaur](https://github.com/sashrikakaur)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
