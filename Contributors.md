@@ -2127,6 +2127,7 @@ Stephan Sharpe
 - [UlVc](https://github.com/UlVc)
 - [rino23](https://github.com/rino23)
 - [PT Prigoda](https://github.com/paulprigoda)
+- [Letícia de Souza](https://github.com/leticia-s)
 - Aruna Priyadarshini
 - ars
 - Yudi Xu evec
