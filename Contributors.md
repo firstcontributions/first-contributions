@@ -7,6 +7,7 @@
 - [Cenfal](https://github.com/cenfal)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
+- [Stephen Summering](https://github.com/summeringpainting)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Daniel Ogenrwot](https://github.com/danielogen)
 -[Shreyansh Sharma](https://github.com/ShreyanshSharma21)
