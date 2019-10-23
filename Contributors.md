@@ -105,6 +105,7 @@
 - [Emery Weist] (https://github.com/EBWeist)
 - [Zeeshan Ali] (https://github.com/zeesh-ali)
 - [Mahima Sachdeva] (https://github.com/mahi397/)
+- [Mrigendra Soni] (https://github.com/Mrig26/)
 - [Erblina Lybesha] (https://github.com/EraBlina)
 - [Lupe Maydana] (https://github.com/luucamay)
 - [Shivangi Bithel](https://github.com/shivangi-bithel)
