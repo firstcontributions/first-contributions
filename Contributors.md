@@ -24,6 +24,7 @@
 -[Tharindu](https://github.com/TharinduBalasooriya)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
+- [kratikagupta] (https://github.com/kratikagupta2002)
 - [Miji Cherian] (https://github.com/mijicherian)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
