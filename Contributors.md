@@ -67,6 +67,7 @@
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
+- [Krish Yadav] (https://github.com/Krish-Yadav-2192)
 - [Tristan Holaday] (https://github.com/TristanHoladay)
 - [Steven Schoor] (https://github.com/SSchoor163)
 - [Phillip Pham](https://github.com/PHIQW)
