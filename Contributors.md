@@ -18255,3 +18255,4 @@ Shenyi Amand
 - [Kang Wei Sim](https://github.com/kangweisim)
 - [Ana Paula Lemos](https://github.com/anapaulalemos)
 - [Cheng Yang](https://github.com/czy5074)
+- [HastaCS](https://github.com/HastaCs)
