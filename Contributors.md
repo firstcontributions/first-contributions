@@ -8906,6 +8906,7 @@ Aman Panjwani
 - [Blake](https://github.com/Blake575)
 - [Logan](https://github.com/logan9t8/)
 - [Sidekick](https://github.com/KumarAmitMehta)
+- [Daniel Shabura](https://github.com/lain7)
 - [Stanley Yu](https://github.com/stanley98yu)
 - [Tanvi Nerkar](https://github.com/tanvinerkar)
 - [Alex Scherbanov](https://github.com/koddo)
