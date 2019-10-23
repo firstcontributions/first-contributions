@@ -19,6 +19,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+-[Tharindu](https://github.com/TharinduBalasooriya)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
 - [Miji Cherian] (https://github.com/mijicherian)
@@ -122,8 +123,10 @@
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
 - [Aman Saini] (https://github.com/Amansaini7)
+- [Tahsin Yazkan] (https://github.com/thsnyzkn)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
+- [QiXing Hong] (https://github.com/QI-XING)
 - [Samya] 
 - [Andy Davies]
 - [Billy Liu] (https://github.com/Billy-L)
@@ -9223,6 +9226,7 @@ Aman Panjwani
 - [Martin Mortensen](https://github.com/spiritsack)
 - [Martin Alonso](https://github.com/mtnalonso)
 - [Ayush Khare](https://github.com/Ayukha)
+- [leonardw](https://github.com/leonardw)
 - [Oliver Taylor](https://github.com/olitaylor)
 - [Rein Bauwens](https://github.com/reinbauwens)
 - [Igor Chiriac](https://github.com/yanime)
@@ -17343,6 +17347,7 @@ Aman Panjwani
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
 - [Joao](https://github.com/Joaopedrobass)
+- [Ishita Bardhan](https://github.com/IshitaB28)
 - [Name](name)
 - james yang
 - mojib
@@ -18220,3 +18225,4 @@ Shenyi Amand
 - [leh-dev](https://github.com/leh-dev)
 - [Sahitya](https://github.com/sahi-4579)
 - [Yash](https://www.github.com/yash21saraf)
+- [Sudha](https://github.com/chvlsudha)
