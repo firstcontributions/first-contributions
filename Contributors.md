@@ -6,6 +6,7 @@
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
+- [Daniel Ogenrwot](https://github.com/danielogen)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
 - [Nigel Yong](https://github.com/niyonx)
