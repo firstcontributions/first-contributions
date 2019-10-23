@@ -28,7 +28,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🏴](translations/README.gl.md)
 [🇬🇷](translations/README.gr.md)
 [🇮🇩](translations/README.id.md)
-[🇮🇱](translations/README.hb.md) 
+[🇮🇱](translations/README.hb.md)
 [🇮🇳](translations/Translations.md)
 [🇮🇷](translations/README.fa.md)
 [🇮🇷](translations/README.fa.en.md)
@@ -69,7 +69,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+If you don't have<i> git</i> on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
 
@@ -82,7 +82,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
-Open a terminal and run the following git command:
+<h1>Open a terminal and run the following git command:</h1>
 
 ```
 git clone "url you just copied"
