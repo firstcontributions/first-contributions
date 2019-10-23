@@ -10,6 +10,7 @@
 - [Daniel Ogenrwot](https://github.com/danielogen)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
+- [Prasad Chaudhari](https://github.com/Prasad-Chaudhari)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
