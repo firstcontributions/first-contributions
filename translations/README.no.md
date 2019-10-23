@@ -10,14 +10,14 @@ Det er vanskelig. Det er alltid vanskelig å gjøre noe for første gang. Spesie
 
 Å lese artikler eller se på opplæringsvideoer kan hjelpe, men hva er vel bedre enn å faktisk gjøre det i et praktisk miljø? Dette prosjektet ønsker å veilede og forenkle måten nybegynnere lager sitt første bidrag. Hvis du er interessert i å lage ditt første bidrag, følg stegene nedenfor.
 
-#### *Hvis du er unkomfortabel med kommandolinjen, [her er noen guider av verktøy som bruker grafisk brukergrensesitt]( #tutorials-using-other-tools )
+#### *Hvis du er ukomfortabel med kommandolinjen, [her er noen guider av verktøy som bruker grafisk brukergrensesitt]( #tutorials-using-other-tools )
 
 
 #### *Les dette i [andre språk](translations/Translations.md).*
 [:bangladesh:](translations/README.bn.md)
 [🇧🇬](translations/README.bg.md)
 [🇧🇷](translations/README.pt_br.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[<img src="../assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇨🇳](translations/README.chs.md)
 [🇨🇿](translations/README.cs.md)
 [🇩🇪](translations/README.de.md)
@@ -45,7 +45,7 @@ Det er vanskelig. Det er alltid vanskelig å gjøre noe for første gang. Spesie
 [🇳🇬](translations/README.igb.md)
 [🇳🇵](translations/README.np.md)
 [🇵🇭](translations/README.tl.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="../assets/pirate.png" width="22">](translations/README.en-pirate.md)
 [🇵🇰](translations/README.ur.md)
 [🇵🇱](translations/README.pl.md)
 [🇵🇹](translations/README.pt-pt.md)
@@ -67,7 +67,7 @@ Det er vanskelig. Det er alltid vanskelig å gjøre noe for første gang. Spesie
 
 
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
 Hvis du ikke har git på datamaskinen din, [installér det]( https://help.github.com/articles/set-up-git/).
 
@@ -80,7 +80,7 @@ Da lages det en kopi av denne kolleksjonen på din bruker.
 
 ## Klon kolleksjonen
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 Klon sidespor kolleksjonen til din lokale datamaskin. Gå til GitHub-brukeren din, åpne kolleksjonen din, trykk på "clone"-knappen og deretter trykk på *kopier til utklippstavle*-ikonet.
 
@@ -93,7 +93,7 @@ hvor "url du kopierte" (uten anførselstegn) er url-en til denne kolleksjonen(di
 Se forrige steg på hvordan man får tak i url-en.
 
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For eksempel:
 ```
@@ -124,7 +124,7 @@ git checkout -b add-alonzo-church
 
 Åpne `Contributors.md` filen i et tekstredigeringsverktøy og legg til navnet ditt. Ikke legg det til i begynnelsen eller slutten, men et sted innimellom. Deretter lagre filen.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 Hvis du går til kolleksjonsmappen og kjører kommandoen `git status`, vil du se at det har skjedd noen endringer.
 
@@ -139,7 +139,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 ersatt `<your-name>` med ditt navn.
 
-## Dytt endringene tilGitHub
+## Dytt endringene til GitHub
 
 Dytt endringene dine med  `git push`:
 ```
@@ -151,11 +151,11 @@ erstatt `<add-ditt-grennavn>` med navnet på grenen du lagde tidligere.
 
 Hvis du går til kolleksjonen din på GitHub, så vil du se en `Compare & pull request`-knapp. Trykk på den.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
-Send inn din fletteforespørsel.
+Send inn din fletteforespørsel(pull request).
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
 Snart kommer jeg til å flette inn endringene dine til dette prosjektets master-gren. Du kommer til å få et varsel på e-post når endringene har blitt sammenflettet.
 
