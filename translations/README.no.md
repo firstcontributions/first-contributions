@@ -10,7 +10,7 @@ Det er vanskelig. Det er alltid vanskelig å gjøre noe for første gang. Spesie
 
 Å lese artikler eller se på opplæringsvideoer kan hjelpe, men hva er vel bedre enn å faktisk gjøre det i et praktisk miljø? Dette prosjektet ønsker å veilede og forenkle måten nybegynnere lager sitt første bidrag. Hvis du er interessert i å lage ditt første bidrag, følg stegene nedenfor.
 
-#### *Hvis du er ukomfortabel med kommandolinjen, [her er noen guider av verktøy som bruker grafisk brukergrensesitt]( #tutorials-using-other-tools )
+#### *Hvis du er ukomfortabel med kommandolinjen, [her er noen guider av verktøy som bruker grafisk brukergrensesitt]( #Guider-med-andre-verktøy. )
 
 
 #### *Les dette i [andre språk](translations/Translations.md).*
@@ -171,7 +171,7 @@ Du kan også bli med i vår Slack hvis du trenger hjelp eller har noen spørsmå
 Nå la oss hjelpe deg i gang med dine neste bidrag. Vi har satt sammen en liste med prosjekter som har enkle problemer du kan bryne deg på. Sjekk ut [listen med prosjekter i web appen](https://firstcontributions.github.io/#project-list).
 
 
-### [Ekstra materialer](additional-material/git_workflow_scenarios/additional-material.md)
+### [Ekstra materialer](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Guider med andre verktøy.
