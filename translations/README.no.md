@@ -4,16 +4,16 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# Første bidrag
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Det er vanskelig. Det er alltid vanskelig å gjøre noe for første gang. Spesielt når man samarbeider er det ikke kjekt å gjøre tabber. Vi har lyst til å gjøre det enklere for nye bidragsytere for åpen kildekode å lære og bidra for første gang.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Å lese artikler eller se på opplæringsvideoer kan hjelpe, men hva er vel bedre enn å faktisk gjøre det i et praktisk miljø? Dette prosjektet ønsker å veilede og forenkle måten nybegynnere lager sitt første bidrag. Hvis du er interessert i å lage ditt første bidrag, følg stegene nedenfor.
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+#### *Hvis du er unkomfortabel med kommandolinjen, [her er noen guider av verktøy som bruker grafisk brukergrensesitt]( #tutorials-using-other-tools )
 
-#### *Read this in [other languages](translations/Translations.md).*
 
+#### *Les dette i [andre språk](translations/Translations.md).*
 [:bangladesh:](translations/README.bn.md)
 [🇧🇬](translations/README.bg.md)
 [🇧🇷](translations/README.pt_br.md)
@@ -43,7 +43,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇾](translations/README.my.md)
 [🇳🇱](translations/README.nl.md)
 [🇳🇬](translations/README.igb.md)
-[🇳o](translations/README.no.md)
 [🇳🇵](translations/README.np.md)
 [🇵🇭](translations/README.tl.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
@@ -70,108 +69,112 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+Hvis du ikke har git på datamaskinen din, [installér det]( https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+(Norske oversettelser av git-begreper er hentet [herfra](https://github.com/Potrik98/git-pa-norsk).)
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+## Splitt denne kolleksjonen
 
-## Clone the repository
+Splitt denne kolleksjonen ved å trykke på "fork"-knappen på toppen av denne siden.
+Da lages det en kopi av denne kolleksjonen på din bruker.
+
+## Klon kolleksjonen
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
+Klon sidespor kolleksjonen til din lokale datamaskin. Gå til GitHub-brukeren din, åpne kolleksjonen din, trykk på "clone"-knappen og deretter trykk på *kopier til utklippstavle*-ikonet.
 
-Open a terminal and run the following git command:
+Åpne en terminal og kjør følgende git kommando:
 
 ```
-git clone "url you just copied"
+git clone "url du kopierte"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+hvor "url du kopierte" (uten anførselstegn) er url-en til denne kolleksjonen(ditt sidespor av prosjektet).
+Se forrige steg på hvordan man får tak i url-en.
+
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+For eksempel:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+hvor `this-is-you` er ditt GitHub-brukernavn. Her kopierer du innholdet av kolleksjonen din fra kontoen din på GitHub til datamaskinen din.
 
-## Create a branch
+## Lag en gren
 
-Change to the repository directory on your computer (if you are not already there):
+Naviger til mappen hvor kolleksjonen ligger ved å kjøre denne kommandoen i ledetekst vinduet(hvis du ikke allerede er der):
 
 ```
 cd first-contributions
 ```
-Now create a branch using the `git checkout` command:
+
+Lag en gren ved hjelp av `git checkout` kommandoen:
 ```
-git checkout -b <add-your-new-branch-name>
+git checkout -b <add-ditt-navn>
 ```
 
-For example:
+For eksempel:
 ```
 git checkout -b add-alonzo-church
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Navnet på grenen trenger ikke å hete akkurat det, men det er fornuftig med tanke på at formålet med denne grenen er å legge til navnet ditt i en liste.)branch is to add your name to a list.)
 
-## Make necessary changes and commit those changes
+## Lag de nødvendige endringene og bunt sammen de endringene
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Åpne `Contributors.md` filen i et tekstredigeringsverktøy og legg til navnet ditt. Ikke legg det til i begynnelsen eller slutten, men et sted innimellom. Deretter lagre filen.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
+Hvis du går til kolleksjonsmappen og kjører kommandoen `git status`, vil du se at det har skjedd noen endringer.
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-
-Add those changes to the branch you just created using the `git add` command:
+Legg til disse endringene til grenen du lagde ved å kjøre kommandoen `git add`:
 
 ```
 git add Contributors.md
 ```
-
-Now commit those changes using the `git commit` command:
+Nå kan du bunte endringene sammen ved å kjøre `git commit`:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-replacing `<your-name>` with your name.
+ersatt `<your-name>` med ditt navn.
 
-## Push changes to GitHub
+## Dytt endringene tilGitHub
 
-Push your changes using the command `git push`:
+Dytt endringene dine med  `git push`:
 ```
-git push origin <add-your-branch-name>
+git push origin <add-ditt-grennavn>
 ```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+erstatt `<add-ditt-grennavn>` med navnet på grenen du lagde tidligere.
 
-## Submit your changes for review
+## Send inn endringene dine til inspeksjon
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+Hvis du går til kolleksjonen din på GitHub, så vil du se en `Compare & pull request`-knapp. Trykk på den.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Send inn din fletteforespørsel.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
-
-## Where to go from here?
-
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+Snart kommer jeg til å flette inn endringene dine til dette prosjektets master-gren. Du kommer til å få et varsel på e-post når endringene har blitt sammenflettet.
 
 
-## Tutorials Using Other Tools
+## Hva nå?
+
+Gratulerer! Du har nå gjennomført den utbredte _fork -> clone -> edit -> PR_ som du kommer til å støtte på ofte som en bidragsyter.
+
+Feire bidraget ditt ved å dele det med venner og følgere ved å gå til [web app](https://firstcontributions.github.io/#social-share).
+
+Du kan også bli med i vår Slack hvis du trenger hjelp eller har noen spørsmål. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+
+Nå la oss hjelpe deg i gang med dine neste bidrag. Vi har satt sammen en liste med prosjekter som har enkle problemer du kan bryne deg på. Sjekk ut [listen med prosjekter i web appen](https://firstcontributions.github.io/#project-list).
+
+
+### [Ekstra materialer](additional-material/git_workflow_scenarios/additional-material.md)
+
+
+## Guider med andre verktøy.
 
 |<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
 |---|---|---|---|---|
