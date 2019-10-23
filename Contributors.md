@@ -16987,6 +16987,7 @@ Aman Panjwani
 - [Brendan Gilet](https://github.com/Vehemence26)
 - [Maosheng Tang](https://github.com/mshtang)
 - [Karen White](https://github.com/karen-white)
+- [Jono](https://github.com/EagleOne42)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
 - hongwen000
 - [Dominika Malinowska](https://github.com/doma1991)
