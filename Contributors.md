@@ -16837,6 +16837,7 @@ Aman Panjwani
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Se7enSquared](https://github.com/Se7enSquared)
 - Tyler Strang
+- [Panasarn Kanchanapiboon](https://github.com/musickn)
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
