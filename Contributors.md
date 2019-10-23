@@ -3,6 +3,7 @@
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
 - [Cenfal](https://github.com/cenfal)
+- [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Mohamed Imthath](https://github.com/imzi)
