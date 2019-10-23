@@ -1,4 +1,4 @@
-﻿# Contributors
+﻿ Contributors
 - [Kevin] (https://github.com/Altenmann)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
@@ -18206,3 +18206,4 @@ Shenyi Amand
 - [Barış Kısır] (https://github.com/bariskisir)
 - [Rafael Barna](https://github.com/rafaelbarna)
 - [Saksham Tomar](https://github.com/sakshamt29)
+- [simhj316](https://github.com/simhj316)
