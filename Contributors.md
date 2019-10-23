@@ -1,4 +1,5 @@
  Contributors
+- Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
