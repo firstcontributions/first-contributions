@@ -20,6 +20,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+- Tom Mutimer
 -[Tharindu](https://github.com/TharinduBalasooriya)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
@@ -71,6 +72,7 @@
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- Tom Mutimer
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
