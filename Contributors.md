@@ -30,6 +30,7 @@
 -[QuantumCoderQC](https://github.com/QuantumCoderQC)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
+- [Neha] (https://github.com/IamNeha99)
 - [Miji Cherian] (https://github.com/mijicherian)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
