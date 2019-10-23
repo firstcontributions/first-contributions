@@ -229,6 +229,7 @@
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Fatima Rojo](https://github.com/serfati5)
 - [Nikita Tonkoshkur](https://github.com/bloodwithmilk25)
+- [Poki](https://github.com/pokidokika)
 - [Vasilii Pupkin](https://github.com/shivam-sood)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Arturo Iglesias](https://github.com/iglesias294)
