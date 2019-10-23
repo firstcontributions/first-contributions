@@ -22,6 +22,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+- [Shubhika Shubhavee](https://github.com/Shubhavee)
 -[Tharindu](https://github.com/TharinduBalasooriya)
 -[Shreya Singhal](https://github.com/shreyasinghal09)
 -[QuantumCoderQC](https://github.com/QuantumCoderQC)
