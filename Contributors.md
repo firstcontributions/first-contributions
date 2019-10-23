@@ -19,6 +19,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+-[Tharindu](https://github.com/TharinduBalasooriya)
 - [Albert Vu] (https://github.com/minhlongvu/)
 - [suryaraj] (https://github.com/suryaraj95)
 - [Miji Cherian] (https://github.com/mijicherian)
