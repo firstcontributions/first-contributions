@@ -1109,6 +1109,7 @@ notForProffitt
 -[Kelly Hodis](https://github.com/kellyhodis)
 -[Satyam]
 - [GSaini02]
+- [Vijay Kumar Chhetri]
 -[komalg1](https://github.com/komalg1)
 saad hassan (https://github.com/saadhassan99)
 - [karpiuMG](https://github.com/karpiuMG)
