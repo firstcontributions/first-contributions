@@ -14821,6 +14821,7 @@ Aman Panjwani
 - [JirayuL](https://github.com/JirayuL)
 - [Arnold Marcus](https://github.com/arnoldmm54)
 - [Ishan Patel](https://github.com/ishan909)
+- [Nico Hulk] (https://github.com/pullcommitpush)
 - [iamwee](https://github.com/iamwee)
 - [Daniyel Rocha](https://github.com/dnrocha1)
 - [Ugurkan Ates](https://github.com/ugurkanates)
