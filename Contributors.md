@@ -16,6 +16,7 @@
 - [Mohsin Surani](https://github.com/mohsinsurani)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
 - [David Kacsor](https://github.com/DavidKacsor)
+- [Sashrika Kaur](https://github.com/sashrikakaur)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [Anand Bambhania](https://github.com/anandb89)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
