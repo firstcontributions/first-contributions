@@ -8,6 +8,7 @@
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Daniel Ogenrwot](https://github.com/danielogen)
+-[Shreyansh Sharma](https://github.com/ShreyanshSharma21)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
 - [Prasad Chaudhari](https://github.com/Prasad-Chaudhari)
