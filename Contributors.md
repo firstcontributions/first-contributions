@@ -17343,6 +17343,7 @@ Aman Panjwani
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
 - [Joao](https://github.com/Joaopedrobass)
+- [Ishita Bardhan](https://github.com/IshitaB28)
 - [Name](name)
 - james yang
 - mojib
