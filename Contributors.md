@@ -2,7 +2,6 @@
   - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
-- [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [xFabifont](https://github.com/xFabifont)
@@ -18295,7 +18294,7 @@ Shenyi Amand
 - [DeadilyVirus] (https://github.com/DeadilyVirus)
 - [1064774] (https://github.com/1064774)
 - [Devendra S Dhanal] (http://devendradhanal.github.io/)
-- [Stephene Canciller] (https://github.com/reviter/)
+- [Stephene Bunion Canciller] (https://github.com/reviter/)
 - [DevD] (https://about.me/devendradhanal)
 - [zerx] (https://github.com/zerx)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
