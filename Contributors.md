@@ -2,6 +2,7 @@
   - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
+- [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [xFabifont](https://github.com/xFabifont)
