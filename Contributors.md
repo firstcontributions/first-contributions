@@ -111,6 +111,7 @@
 - [Noopur](https://github.com/noopur-tiwari)
 - [Mayank Kumar](https://github.com/mayank518)
 - [Anshul Wagadre](https://github.com/arkenstan)
+- [Taylor Gagne](https://github.com/taylor009)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Mauricio Garcia](https://github.com/MauricioGR15)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
