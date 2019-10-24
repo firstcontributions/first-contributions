@@ -691,6 +691,7 @@ notForProffitt
 - [Maxim] (https://github.com/maximgk97)
 - [Kevin Wang](https://github.com/NinjaEagle)
 - [Shivangi Kanchan]
+- [Ramachandra Pai] (https://github.com/Rampai94)
 - [Rituraj Jain] (https://github.com/RiturajJain)
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
