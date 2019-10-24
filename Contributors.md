@@ -707,6 +707,7 @@ notForProffitt
 - [Shivangi Kanchan]
 - [Ramachandra Pai] (https://github.com/Rampai94)
 - [Rituraj Jain] (https://github.com/RiturajJain)
+- [Kyle Conrad] (https://github.com/KComrade53)
 - [Adam] (https://github.com/aabuderi)
 - [Veroivan] (https://github.com/veroivan)
 - [Annie Chen](https://github.com/achen6159
