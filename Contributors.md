@@ -18295,4 +18295,5 @@ Shenyi Amand
 - [Devendra S Dhanal] (http://devendradhanal.github.io/)
 - [Stephene Canciller] (https://github.com/reviter/)
 - [DevD] (https://about.me/devendradhanal)
+- [zerx] (https://github.com/zerx)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
