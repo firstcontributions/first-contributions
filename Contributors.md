@@ -5,6 +5,7 @@
 - [Kevin] (https://github.com/Altenmann)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
+- [Amy Gonzales] (https://github.com/amylearnscode)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
