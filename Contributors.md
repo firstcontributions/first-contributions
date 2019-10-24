@@ -2,6 +2,7 @@
 # Contributors
 
 - [Miftah Mizwar](https://github.com/mizwardomlank)
+- [Osman Findik](https://github.com/ofindik)
 - [Andrew Fisher](https://github.com/afisherdev)
 - [Linherest](https://github.com/linherest)
 - [Manas Khurana](https://github.com/20manas)
