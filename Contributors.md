@@ -2409,6 +2409,7 @@ Stephan Sharpe
 - [Meshi Bhatia](https://github.com/meshib)
 - Guru Prasad
 - Andrew Scheper
+- [WiredOverload](https://github.com/WiredOverload)
 - [Rupinder Deol](https://github.com/deolr)
 - [Jorge Antonio Flores](https://github.com/jflores3531)
 - [Christian McDonald](https://github.com/religionfastfood)
