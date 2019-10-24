@@ -3751,6 +3751,7 @@ Stephan Sharpe
 - Vineet Baj
 - [Chris Joy Kokkat](https://github.com/godfather808)
 - E H
+- Dagu
 - [Anirudh B](https://github.com/paplio)
 - [Dante Radovani](https://github.com/dRadest)
 - [Timur Shigapov](https://github.com/timurshigapov)
