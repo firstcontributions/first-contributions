@@ -18319,3 +18319,4 @@ Shenyi Amand
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
 - [Samuel Lamb] (https://github.com/SentientSam)
 - [WesleyCSJ] (https://github.com/wesleycsj)
+- [Paulo Carvalho](https://github.com/paulonbc)
