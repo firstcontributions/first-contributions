@@ -18265,3 +18265,4 @@ Shenyi Amand
 - [HastaCS](https://github.com/HastaCs)
 - [Suhbahstiejaan](https://github.com/Suhbahstiejaan)
 - [Rob Dunn] (https://github.com/robdunn)
+- [Dominik Piekarski](https://github.com/piekarskid)
