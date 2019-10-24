@@ -14603,6 +14603,7 @@ Aman Panjwani
 - [Omari RB](https://github.com/orbville)
 - [Awonusi Olajide](https://github.com/zenithcoder)
 - [Rajat Kanti Nandi](https://github.com/rajatkantinandi)
+- [Jesus Perez](https://github.com/jesushperez)
 - [Czeide Avanzado](https://github.com/czeideavanzado)
 - [Chamoda Pandithage](https://github.com/chamoda)
 - [Lokesh Sharma](https://github.com/konohakesh)
