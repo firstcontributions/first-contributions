@@ -16,6 +16,7 @@
 -[Shreyansh Sharma](https://github.com/ShreyanshSharma21)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
+- [Olaf Minkowicz](https://github.com/RookTKO) 
 - [Prasad Chaudhari](https://github.com/Prasad-Chaudhari)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
