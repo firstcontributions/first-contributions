@@ -32,6 +32,7 @@
 - [Miji Cherian] (https://github.com/mijicherian)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
+- [SodaLover](https://github.com/SodaLover)
 - [Nicholas Menezes](https://github.com/nicholasmenez)
 - [Mayank Shrivastava](https://github.com/MayankShrivastava17)
 - [Pavel Saha](https://github.com/pavel5133)
