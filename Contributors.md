@@ -2329,6 +2329,7 @@ Stephan Sharpe
 - [Gabriel Bustamante](https://github.com/gabrielBusta)
 - [Yanning Guo](https://github.com/GYNstyle)
 - [Shumai Ocbayes A](https://github.com/shumai9)
+- [Yair Ariel](https://github.com/yairariel)
 - [Jay Kaiser](https://github.com/jayckaiser)
 - [Austin Alv](https://github.com/ama0115)
 - [Brittany Saucedo](https://github.com/bjs1400)
