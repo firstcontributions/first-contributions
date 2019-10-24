@@ -1,6 +1,5 @@
  Contributors
-- [Rachael](https://github.com/rc700)
-- [Elite-Debashis] (https://github.com/Elite-Debashis) 
+  - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
@@ -17974,6 +17973,7 @@ rehan
 - [Nelly McNellyson](https://github.com/xyre-nelly-thea)
 - [Erik Samuelsson](https://github.com/erisam)
 - [Jonathan Cardoso](https://github.com/jonathanccardoso)
+- [Charlie Villarino](https://github.com/kcmvillarino)
 - [Dani Herrera](https://github.com/ctrl-alt-d)
 - [Ramon Pacleb](https://github.com/bananaKetchup)
 - [Victor Chan](https://github.com/Victor3y)
@@ -18300,3 +18300,4 @@ Shenyi Amand
 - [DevD] (https://about.me/devendradhanal)
 - [zerx] (https://github.com/zerx)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
+- [Samuel Lamb] (https://github.com/SentientSam)
