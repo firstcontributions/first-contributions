@@ -18269,3 +18269,4 @@ Shenyi Amand
 - [Suhbahstiejaan](https://github.com/Suhbahstiejaan)
 - [Rob Dunn] (https://github.com/robdunn)
 - [Dominik Piekarski](https://github.com/piekarskid)
+- [Murilo Pereira](https://github.com/murilopereirame)
