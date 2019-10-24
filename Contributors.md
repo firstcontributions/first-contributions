@@ -17983,6 +17983,7 @@ rehan
 - [Aagam Doshi](https://github.com/doshiaagam)
 - [Usama Tahir](https://github.com/Usama-Tahir)
 - [Nakarin Srijumrat](https://github.com/N4karin)
+- [Patrice Delley](https://github.com/P4trice)
 - [Matthew Callinan Keenan](https://github.com/matt24ck)
 - [Ethan Clarke](hhtps://github.com/AwsumN00b)
 - [Evelina Prosyankina](https://github.com/mungle-fung)
