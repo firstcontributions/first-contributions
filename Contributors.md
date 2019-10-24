@@ -6,6 +6,7 @@
 - [alaké](https://github.com/alayeet)
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
+- [Felix] (https://github.com/Admiralfe)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Stephen Summering](https://github.com/summeringpainting)
