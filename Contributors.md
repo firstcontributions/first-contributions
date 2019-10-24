@@ -10,6 +10,7 @@
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
 - [Felix] (https://github.com/Admiralfe)
+- [Snehit Mishra] (https://github.com/snehit31)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Avinash S Kurup](https://github.com/avinash10xds)
@@ -110,6 +111,7 @@
 - [Noopur](https://github.com/noopur-tiwari)
 - [Mayank Kumar](https://github.com/mayank518)
 - [Anshul Wagadre](https://github.com/arkenstan)
+- [Taylor Gagne](https://github.com/taylor009)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Mauricio Garcia](https://github.com/MauricioGR15)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
@@ -202,6 +204,7 @@
 - [Shubham Singh](https://github.com/shubham0812)
 - [Nick Hinton] (https://github.com/hintonnm94)
 - [Abhishek Mittal](https://github.com/amittal151)
+- [Tuhina Dasgupta](https://github.com/tuhinadasgupta)
 - [Haish Sams](https://github.com/Hammie217)
 - [Prince Thakkar](https://github.com/Prince269090)
 - [Calie Rushton](https://github.com/CalieR)
@@ -18302,3 +18305,4 @@ Shenyi Amand
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
 - [Samuel Lamb] (https://github.com/SentientSam)
 - [Devil Lord] (https://github.com/DevilLord9967)
+
