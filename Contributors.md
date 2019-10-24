@@ -4556,6 +4556,7 @@ Stephan Sharpe
 - [Ranjani Ramesh](https://github.com/ranju117)
 - [Mike Jones](https://github.com/mj3k11)
 - [Varun Tandon](https://github.com/v-tan)
+- [Matheus Mahnke] (https://github.com/matmahnke)
 - [Hong Jik Lee](https://github.com/hanklee92)
 - [Christopher Ferguson](https://github.com/clockworkomega)
 - [Yicheng Li](https://github.com/yclistanford)
