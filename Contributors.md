@@ -1,5 +1,6 @@
  Contributors
-  - [Elite-Debashis] (https://github.com/Elite-Debashis)
+- [Rachael](https://github.com/rc700)
+- [Elite-Debashis] (https://github.com/Elite-Debashis) 
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
