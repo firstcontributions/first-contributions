@@ -28,7 +28,7 @@ This will create of copy of this repository in your account.
 
 Now clone this repo to your machine.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it. 
+IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. GO TO YOUR FORK AND CLONE IT. 
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
