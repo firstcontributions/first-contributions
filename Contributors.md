@@ -146,6 +146,7 @@
 - [QiXing Hong] (https://github.com/QI-XING)
 - [Samya] 
 - [Andy Davies]
+- [Jesse Pham] (https://github.com/JessePham)
 - [Billy Liu] (https://github.com/Billy-L)
 - [Im lohith](https://github.com/Imlohith)
 - [Tim Turner](https://github.com/tturner13)
