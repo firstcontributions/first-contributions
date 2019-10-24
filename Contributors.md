@@ -2,6 +2,7 @@
   - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
+- [Josh Le Gresley](https://github.com/jleg13)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
 - [Cenfal](https://github.com/cenfal)
