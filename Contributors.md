@@ -10,6 +10,7 @@
 - [Felix] (https://github.com/Admiralfe)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
+- [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Daniel Ogenrwot](https://github.com/danielogen)
