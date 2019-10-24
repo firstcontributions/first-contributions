@@ -1938,6 +1938,7 @@ Kebana Modise
 - [M. Bullock](https://github.com/mb-21)
 - [Robbe Decorte](https://github.com/robbedec)
 - [Yasir Nadeem](https://github.com/m-yasir)
+- [David Valencia](https://github.com/davidvalencia-it)
 - [Robert Gleason](https://github.com/robgleason)
 - [Andre Nobre](https://github.com/4ndrenobr3)
 - [Mark Butler](https://github.com/mysteryboy73)
@@ -2008,6 +2009,7 @@ Kebana Modise
 - Junaid Mehmood
 - Christian Reyes
 - Yallop
+
 - [Brandon Tomás](https://github.com/brtomas0)
 - [Nasim](https://github.com/nasimUddin)
 - [sixthsant]
