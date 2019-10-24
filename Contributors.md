@@ -30,6 +30,7 @@
 - [Raul Canul](https://github.com/RaulECT)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+- [Prachi](https://github.com/prachijustin)
 - [Shubhika Shubhavee](https://github.com/Shubhavee)
 -[Tharindu](https://github.com/TharinduBalasooriya)
 -[Shreya Singhal](https://github.com/shreyasinghal09)
