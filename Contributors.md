@@ -24,6 +24,7 @@
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [Anand Bambhania](https://github.com/anandb89)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
+- [Ajay R] (https://github.com/drstrange11)
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Raul Canul](https://github.com/RaulECT)
 - [Shri](https://github.com/skt1598)
