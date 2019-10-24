@@ -1,6 +1,7 @@
 ﻿ Contributors
   - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
+- [ishanExtreme](https://github.com/ishanExtreme)
 - [Kevin] (https://github.com/Altenmann)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
