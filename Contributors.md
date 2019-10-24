@@ -18328,3 +18328,4 @@ Shenyi Amand
 - [Paulo Carvalho](https://github.com/paulonbc)
 - [Kaffeetasse](https://github.com/kaffeetasse)
 - [nikasxirtla] (https://github.com/nikasxirtla)
+- [bianavic] (https://github.com/bianavic)
