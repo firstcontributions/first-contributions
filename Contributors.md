@@ -63,6 +63,7 @@
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
+- [Ignatius] (https://github.com/ignatiusdork)
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
 - [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
