@@ -8886,4 +8886,5 @@ Benzene
 - [Sarah Chaisson](https://github.com/schaisso)
 - [Ashi Joshi](http://github.com/AshiJoshi)
 - [Farhan Karim](http://github.com/farhankarim)
+- [Antti-Pekka Lehtonen](https://github.com/apleht)
 
