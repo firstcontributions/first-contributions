@@ -18234,6 +18234,7 @@ rehan
 -[Ankita Ratna](https://github.com/ankitaratna)
 - [Aditya Singh](https://github.com/adityanjr)
 - [dfarley1](https://github.com/dfarley1)
+- [SandipPalit] (https://github.com/SandipPalit)
 - [vivmin](https://github.com/vivmin)
 - [Adarsh Dwivedi](https://github.com/thevloper)
 - [Sarthak Rout](https://github.com/SarthakRout)
