@@ -733,6 +733,8 @@ notForProffitt
 - [Mayank Mani](https://github.com/MayankMani00)
 - [Rachita Bhagchandani](https://github.com/rachita18144)
 - [Khuzama Shahid](https://github.com/khuzama98)
+- [Nabeel Ahmed Khan](https://github.com/n4beel)
+- [Muhammad Anas](https://github.com/muhammadanas759)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
 - [Prathik.S.Nayak](https://github.com/psn221b)
