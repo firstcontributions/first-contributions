@@ -18299,3 +18299,4 @@ Shenyi Amand
 - [DevD] (https://about.me/devendradhanal)
 - [zerx] (https://github.com/zerx)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
+- [Samuel Lamb] (https://github.com/SentientSam)
