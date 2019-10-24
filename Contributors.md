@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
   - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
@@ -18305,3 +18305,4 @@ Shenyi Amand
 - [zerx] (https://github.com/zerx)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
 - [Samuel Lamb] (https://github.com/SentientSam)
+- [WesleyCSJ] (https://github.com/wesleycsj)
