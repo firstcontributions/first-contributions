@@ -235,6 +235,7 @@
 - [Shubham Chadokar](https://github.com/schadokar)
 - [Mohit Kashyap](https://github.com/mk143c)
 - [Sagarika Puri](https://github.com/SagarikaPuri)
+- [Pullak Barik] (https://github.com/TipsByPullak)
 - [Syauqy Aziz](https://github.com/syauqy)
 - [Samuel Bétrisey](https://github.com/betrisey)
 - [Tarun Khandelwal](https://github.com/kaitou786)
