@@ -6232,6 +6232,7 @@ Aman Panjwani
 - [msyakir](https://github.com/Msyakir)
 - [myth.ren](https://github.com/MythRen)
 - [Rosalinda Prom](https://github.com/developerpeachy)
+- [James LeGeros](https://github.com/jlegeros)
 - [Karan Tandon](https://github.com/karan2dec)
 - [Richard Zhang](https://github.com/rzhang606)
 - [Lauren Reilly](https://github.com/LaurenReilly)
