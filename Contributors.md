@@ -6,6 +6,7 @@
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Josh Le Gresley](https://github.com/jleg13)
+- [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
 - [Cenfal](https://github.com/cenfal)
