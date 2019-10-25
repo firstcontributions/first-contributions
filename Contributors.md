@@ -2561,6 +2561,7 @@ Stephan Sharpe
 - [jahad English](https://github.com/jahade1)
 - [Rafal Pacholczyk](https://github.com/rpacholczyk)
 - [Nithin Singamsetti](https://github.com/nithinsingamsetti)
+- [Herma](https://github.com/hermaplusplus)
 - [Biplab Saha](https://github.com/biplabks)
 - [Willie Mangram](https://github.com/Williem3)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
