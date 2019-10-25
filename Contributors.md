@@ -302,6 +302,7 @@
 - [Alvin X](https://github.com/AlvinYX)
 - [Elisabeth Miller](https://github.com/libbymiller09)
 - Adam Carroll
+- [Yuri Reis](https://github.com/yurireeis)
 - Green S
 - Pedisman
 - Edwin Waweru
