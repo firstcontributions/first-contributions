@@ -256,6 +256,7 @@
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Animesh Kumar] (https://github.com/Animo-Rey)
+- [Andrew Rutledge] (https://github.com/nat20s-bus)
 - [Johan Pimentel] (https://github.com/zoomstereo)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jayant Khandelwal](https://github.com/Jackent2B)
