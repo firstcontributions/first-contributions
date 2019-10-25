@@ -4815,6 +4815,7 @@ Stephan Sharpe
 - kalpa wijesooriya
 - Explorer3991
 - [Denize Ignacio](https://github.com/dignacio0815)
+- [Naomi Clark](https://github.com/NaomiClark)
 - [Meetesh Kumawat](https://github.com/meetesh)
 - [Ryan Ritchie](https://github.com/punkrockwarlock)
 - [Riccardo Boselli](https://github.com/ilbose)
