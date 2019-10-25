@@ -99,6 +99,7 @@
 - [glemoss] (https://github.com/glemoss)
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
 - [Santrupta Mishra](https://github.com/ChickenTheNoob)
+- [Dominic](https://github.com/minidoc/first-contributions)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
 - [Shantanu Bhosale](https://github.com/shantanu96)
 - [Santosh Vasisht](https://github.com/santosh50)
