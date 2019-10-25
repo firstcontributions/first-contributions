@@ -88,6 +88,8 @@
 - [netrunner1303](https://github.com/netrunner1303)
 - [glemoss] (https://github.com/glemoss)
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
+- [mihinduranasinghe] (https://github.com/mihinduranasinghe)
+- [kasuntharanga] (https://github.com/kasuntharanga)
 - [Santrupta Mishra](https://github.com/ChickenTheNoob)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
 - [Shantanu Bhosale](https://github.com/shantanu96)
