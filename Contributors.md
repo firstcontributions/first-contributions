@@ -16,6 +16,7 @@
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
 - [fcbayernxi]
+- [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
