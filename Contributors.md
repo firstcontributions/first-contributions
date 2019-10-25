@@ -18,6 +18,7 @@
 - [fcbayernxi]
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
+- [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
 - [Andres Delgado] (https://github.com/abathar)
