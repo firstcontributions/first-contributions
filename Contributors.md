@@ -13,6 +13,7 @@
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
+- [syd bailey](https://github.com/sydbails)
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
 - [Felix] (https://github.com/Admiralfe)
