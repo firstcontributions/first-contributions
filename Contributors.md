@@ -3081,6 +3081,7 @@ Stephan Sharpe
 - [Jon Sibala]( https://github.com/sibalajp )
 - [Joshua Kim](https://github.com/joshualaj)
 - [Matt Saffert](https://github.com/saffe012)
+- [Danielle Cushing](https://github.com/dcushing)
 - [csdali13](https://github.com/csdali13)
 - [Diksha Verma](https://github.com/zenithexpo)
 - [unprosaic](https://github.com/unprosaic)
