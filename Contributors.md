@@ -5,6 +5,7 @@
 - Eric Githinji
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
+- [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
 - [Kevin] (https://github.com/Altenmann)
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
