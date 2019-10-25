@@ -251,6 +251,7 @@
 - [Shailendra singh Bhati] (https://github.com/SSB0734)
 - [Justin Del Toro](https://github.com/NightWolf1988)
 - [Norma Bunton] (https://github.com/normabunton)
+- Brian Corbita
 - [Nicole Raicu] (https://github.com/raicunicole)
 - [Jonah Waschek] (https://github.com/voz977)
 - [Bikash Kumar Dash] (https://github.com/bikash1317)
