@@ -61,6 +61,7 @@
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
+- [Uyen Nguyen](https://github.com/NguyenU)
 - [Parth Manhas](https://github.com/ishouldcode)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [Anmol Parikh](https://github.com/anmolparikh66)
