@@ -11,6 +11,7 @@
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Josh Le Gresley](https://github.com/jleg13)
+- [Marisa]
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
