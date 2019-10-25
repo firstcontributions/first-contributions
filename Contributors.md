@@ -17713,6 +17713,7 @@ Mário Baltazar
 - [Susan Maas](https://github.com/susanmaas)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Orachun]
+- DozyC
 - [Chua Kaixin] (https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Anna Sherlock](https://github.com/alsherlock)
