@@ -8513,6 +8513,7 @@ Aman Panjwani
 - [Ron Mapue](https://github.com/ronmaple)
 - kjfirst
 - [Osamu Morozumi](https://github.com/ozmos)
+- [Sumit Chakraborty](https://github.com/chakraborty9569)
 - [Yugesh Kothari](https://github.com/yugeshK)
 - [Mohamed Rahmouni](https://github.com/Rahamoon)
 - [Richard Snyder](https://github.com/rsnydr)
