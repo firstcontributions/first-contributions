@@ -15839,6 +15839,7 @@ Aman Panjwani
 - [Fabian Dörr](https://github.com/2mt-doerr)
 - [Jan Schwarz](https://github.com/2mt-schwarz)
 - [Merlin Mueller](https://github.com/2mt-mmueller)
+- [Nicole Jahr] (https://github.com/chirpingr0se)
 - [Shubham](https://github.com/officalshubhamrawal)
 - [Elizabeth Akpan](https://github.com/ibeth-akpan)
 - [Tanmay Mathur](https://github.com/Tanmay1201)
