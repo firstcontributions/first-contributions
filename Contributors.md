@@ -552,6 +552,7 @@ Joseph Tran
 - [Mari Bies](https://github.com/maribies)
 - [Marcelo Wis](https://github.com/marcelowis)
 - [Mrsalehi] (https://github.com/mrsalehi)
+- [Seth] (https://github.com/SSchwartz214)
 - [Christian Preis](https://github.com/n8trufe)
 - [Taras Rumezhak] (https://github.com/tarasrumezhak)
 - [Animesh Kumar] (https://github.com/Animo-Rey)
