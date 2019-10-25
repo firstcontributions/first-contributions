@@ -2,7 +2,7 @@
 
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
-- [Natalia Favareto](https://github.com/nfavareto) 
+- [Natalia Favareto](https://github.com/nfavareto)
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Brandon Escobar](https://github.com/Brandon-Escobar)
 - [Parth Gupta](https://github.com/parthgpta)
@@ -164,7 +164,7 @@
 - [Sukrit Walia](https://github.com/wukrit)
 - [Christian Dobbie](https://github.com/ChristianDobbie)
 - [Abey Hurtis](https://github.com/Abey12525)
-- [Daniel Yuki](https://github.com/DanielYuki) 
+- [Daniel Yuki](https://github.com/DanielYuki)
 - [Anjali Aggarwal](https://github.com/anjaliaga)
 - [Molntussen] (https://github.com/Molntussen)
 - [Tezan Sahu](https://tezansahu.github.io)
@@ -475,6 +475,7 @@
 -[Raghavi]
 -[MartinC](https://github.com/TheMartinCrabtree)
 - [Sanjeev Penupala](https://github.com/spenpal2000)
+- [Mary Henderson](https://github.com/liz303)
 - [ChrisIIx](https://github.com/ChrisIIx)
 - [tusnolobov](https://github.com/tusnolobov)
 - [zkhan12](https://github.com/zkhan12)
