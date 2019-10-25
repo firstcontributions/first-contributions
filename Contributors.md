@@ -1334,6 +1334,7 @@ Hammad Qureshi
 - [Ketan Khatwal] (https://github.com/ketankhatwal)
 - [Janeth Fernando](https://github.com/janethavi)
 - [Simon De Greve](https://github.com/Yoiro)
+- [Rasmus Knoth Nielsen](https://github.com/RasmusKnothNielsen/)
 - [Claudiu Andrei](https://github.com/Swishyfishie)
 - [Varun Agarwal](https://github.com/varunagarwal18)
 - [Wen](https://github.com/wenshuin)
