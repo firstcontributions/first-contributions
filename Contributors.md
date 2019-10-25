@@ -12997,6 +12997,7 @@ Aman Panjwani
 - [Luciano Strika](https://github.com/strikingloo)
 - [Robert Sampson](https://github.com/RobertJSampson)
 - [Sophie M](https://github.com/S0f1eM)
+- [Ania Z](https://github.com/azWorkshop)
 - [Fatma Mohamed](https://github.com/fatma-mohamed)
 - [Melissa Pabst](https://github.com/MelissaPabst)
 - [Adrian Anderson](https://github.com/devguru876)
