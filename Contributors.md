@@ -182,6 +182,7 @@
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
 - [Aman Saini] (https://github.com/Amansaini7)
+- [Rogue-System] (https://github.com/Rogue-System)
 - [Tahsin Yazkan] (https://github.com/thsnyzkn)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
