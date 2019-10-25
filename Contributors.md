@@ -2368,6 +2368,7 @@ Stephan Sharpe
 - [Rita Tsai](https://github.com/RitaTsai-Git)
 - [Ankit Gupta](https://github.com/aki21j)
 - [Robin Geissmann](https://github.com/geissmannsbin)
+- [Jonathan Freeman](https://github.com/JonathanWFreeman)
 - [William Freeman](https://github.com/FreemanWilliam)
 - [Sankalpa](https://github.com/0sf)
 - [Giana G.](https://github.com/gianagua)
