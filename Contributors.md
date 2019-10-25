@@ -16,6 +16,7 @@
 - [Marisa]
 - [Marly]
 - [Samriddhi Jain] (https://github.com/sammjainn)
+- [Andres Delgado] (https://github.com/abathar)
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
