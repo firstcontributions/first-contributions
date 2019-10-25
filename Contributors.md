@@ -1086,6 +1086,7 @@ notForProffitt
 - [jannesrudnick](https://github.com/jannesrudnick)
 - [Danny Thompson](https://github.com/dannythompson901)
 - [Eddenm]
+- [verneri]
 - [Natasha]
 - [Ndirangu]
 - [Cenoon](https://github.com/cenoon/)
