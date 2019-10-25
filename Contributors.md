@@ -461,6 +461,7 @@ Joseph Tran
 - [Aniket Jain](https://github.com/AnJ10)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Siddharth Panda](https://github.com/Sidray-Infinity)
+- [Stephen O'Leary](https://github.com/stephen-j-oleary)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Hyoseung Park](https//github.com/HYOSEUNG-repository)
 - [Habib Sogbesan](https://github.com/hmoskva)
