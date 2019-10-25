@@ -1548,6 +1548,7 @@ Haris Siddiqui
 - Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
+- linn
 - [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
