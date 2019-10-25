@@ -3,6 +3,7 @@
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
+- [Arjun RC] (https://github.com/arjunrc143
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
 - [Rushabh](https://github.com/Rushabh10)
