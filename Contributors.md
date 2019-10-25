@@ -3006,6 +3006,7 @@ Stephan Sharpe
 - [Kayode Atobatele](https://github.com/atobatele)
 - [Rynndalyn](https://github.com/rynndalyn)
 - [Rohit Ghatol](https://github.com/rohitghatol)
+- [Stacey Zander](https://github.com/slzander)
 - [Narlok3](https://github.com/Narlok3)
 - [Ming Yong](https://github.com/ming-yong)
 - [Csaba Barsony](https://github.com/cbarsony)
