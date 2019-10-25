@@ -12,6 +12,7 @@
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
+- [Samriddhi Jain] (https://github.com/sammjainn)
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [alaké](https://github.com/alayeet)
