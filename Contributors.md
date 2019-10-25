@@ -21,6 +21,7 @@
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
 - [Snehit Mishra] (https://github.com/snehit31)
+- [sidiousvic] (https://github.com/sidiousvic)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Kristin Hamilton](https://github.com/KristinHamilton)
