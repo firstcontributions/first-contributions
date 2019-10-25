@@ -2352,6 +2352,7 @@ Stephan Sharpe
 - [Dhruv Patel](https://github.com/druv5319)
 - [Quentin Courtheoux](https://github.com/ctxquentin)
 - [Sumit Singh](https://github.com/sumit4613)
+- [Indiancyber soldier](https://github.com/indiancybersoldier)
 - [Sarah Abraham](https://github.com/sarahab23)
 - [Nana Adjedu](https://github.com/Nadjedu)
 - [Nathan R. Hall](https://github.com/HathanNall97)
