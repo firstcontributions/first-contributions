@@ -18364,5 +18364,6 @@ Shenyi Amand
 - [nikasxirtla] (https://github.com/nikasxirtla)
 - [bianavic] (https://github.com/bianavic)
 - [zhhjoseph] (https://github.com/zhhjoseph)
+- [BEM] (https://github.com/BrunoEMendes)
 - SansClue
 - [Deepak Singh] (https://github.com/deepsingh9868)
