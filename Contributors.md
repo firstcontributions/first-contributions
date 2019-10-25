@@ -149,6 +149,7 @@
 - [Sampath Kumar Bidre](https://github.com/bidresam) 
 - [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
+- [Jean Vieuxtemps] (https://github.com/JeanVt)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Rich W](https://github.com/RichFoo)
 - [Racim Righi](https://github.com/RacimRgh)
