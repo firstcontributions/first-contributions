@@ -296,6 +296,7 @@ Joseph Tran
 - Matt L
 - Harshit kumar
 - [Dylan Clements](https://github.com/dclements9)
+- Salva Pinyol
 - [Aman Dev Chowdhary](https://github.com/AthN3090)
 - [Maria Bolanos](https://github.com/mariabp)
 - [Usama liaquat](https://github.com/Usamaliaquat123)
