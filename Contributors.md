@@ -18377,3 +18377,4 @@ Shenyi Amand
 - [nursyifaziza] (https://github.com/nursyifaziza/)
 - [jindalshiva] (https://github.com/jindalshiva/)
 - [Bruno Russi Lautenschlager] (https://github.com/brunoxd13/)
+- [Anish Sharma] (https://github.com/aneeshsharma/)
