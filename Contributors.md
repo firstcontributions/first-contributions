@@ -18391,3 +18391,4 @@ Shenyi Amand
 - [Bruno Russi Lautenschlager] (https://github.com/brunoxd13/)
 - [Anish Sharma] (https://github.com/aneeshsharma/)
 - [Sunder Eshwar] (https://github/sundereshwar/)
+- [Juan Sergio Buenviaje] (https://github/lockjio/)
