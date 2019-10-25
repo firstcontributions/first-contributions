@@ -84,6 +84,7 @@
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- [Loren Verheyden](https://github.com/LorenBoren)
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
