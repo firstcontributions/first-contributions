@@ -156,6 +156,7 @@
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
+- [Peggy](https://github.com/peggysaurus)
 - [Raphael Santos] (https://github.com/siriusthewolf)
 - [Birobrata Deb] (https://github.com/birobratadeb)
 - [Raj](https://github.com/rajratnpranesh)
