@@ -206,6 +206,7 @@
 - [Lupe Maydana] (https://github.com/luucamay)
 - [Shivangi Bithel](https://github.com/shivangi-bithel)
 - [Tim Pedone](https://github.com/macdude357)
+- [Daphne Dong] (https://github.com/DaphneDD)
 - [Erodotos Demetriou](https://github.com/Erodotos)
 - [Greg McKibbin 🌎🚀:octocat:🌌](https://github.com/greg0714)
 - [Alexandria Pugia](https://github.com/jasminnancy)
