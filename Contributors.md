@@ -40,6 +40,7 @@
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [daveedavee]
+- [Ashan Samarasinghe](https://github.com/ashan1995/)
 - [Klaudijus Rulys](https://github.com/krulys)
 - [Laise Aquino](https://github.com/laiseaquino)
 - [Tom Cole](https://github.com/TomC-Codes)
