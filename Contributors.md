@@ -14,7 +14,8 @@
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Josh Le Gresley](https://github.com/jleg13)
-- [Marisa]
+- [Harman Kahlon](https://github.com/lapy113) 
+  [Marisa]
 - [fcbayernxi]
 - [Marly]
 - [Parantak](https://github.com/parantak)
