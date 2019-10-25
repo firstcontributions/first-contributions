@@ -11486,6 +11486,7 @@ Aman Panjwani
 - [Imran Khan](https://github.com/ImranK1506)
 - [lvanwyhe](https://github.com/lvanwyhe)
 - [S4BB1R](https://github.com/S4BB1R/)
+- [Shubhang Sharma](https://github.com/humanoiA)
 - [Tiago Gomes](https://github.com/TiagoGomesDesign/)
 - [Kartik Malik](https://github.com/kartik2406)
 - [George759](https://github.com/George759)
