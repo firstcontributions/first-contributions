@@ -18393,6 +18393,7 @@ Shenyi Amand
 - [zhhjoseph] (https://github.com/zhhjoseph)
 - [BEM] (https://github.com/BrunoEMendes)
 - SansClue
+- [ViciousCupcake] (https://github.com/ViciousCupcake)
 - [Deepak Singh] (https://github.com/deepsingh9868)
 - [nursyifaziza] (https://github.com/nursyifaziza/)
 - [jindalshiva] (https://github.com/jindalshiva/)
