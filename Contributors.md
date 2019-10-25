@@ -434,6 +434,7 @@ Joseph Tran
   [Maike Fischer]
 - [Yash Jaiswal]
 - [Kasra Tabrizi]
+- [Nicholas O'Kelley](https://github.com/OkelleyDevelopment)
 - [ymrz]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Teresa Livriero](https://github.com/teresa-livriero)
