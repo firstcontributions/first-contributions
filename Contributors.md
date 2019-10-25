@@ -14154,6 +14154,7 @@ Aman Panjwani
 - [Thomas Allan](https://github.com/ThomasAllan)
 - [Emil Bergquist](https://github.com/EmilBergquist)
 - [Kristjan Koemets](https://github.com/Jollerr)
+- [Kristjan Thordarson](https://github.com/xKTHORx)
 - [Yueyun Shu](https://github.com/rsandx)
 - [Diego Costa](https://github.com/srdiegocosta)
 - [Oleg Kh](https://github.com/olegxrom)
