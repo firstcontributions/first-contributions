@@ -131,6 +131,7 @@
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
 - [Nora Borcsok](https://github.com/borcsoknora)
+- [Jordan Aquadro] (https://github.com/jquad25)
 - [Peter Chou] (https://github.com/peterchou3788)
 - [Arishma Persadh] (https://github.com/arishma108/)
 - [Krish Yadav] (https://github.com/Krish-Yadav-2192)
