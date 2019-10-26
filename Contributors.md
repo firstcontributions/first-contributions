@@ -20,6 +20,7 @@
 - [Brandi Cotton] (https://github.com/bcotton52/)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
+- [Vishal]
 - [Manny102030]
 - [fcbayernxi]
 - [Steve Frenzel](https://github.com/stevefrenzel)
