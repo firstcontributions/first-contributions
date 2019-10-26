@@ -18418,3 +18418,4 @@ Shenyi Amand
 - [Dimas Nurhilman] (https://github.com/Dimzt)
 - [Achyuth R] (https://github.com/Achyuth-R)
 - [Moises Trigueros] (https://github.com/MoisesTR)
+- [Tarık Uzumcu] (https://github.com/34Tarik)
