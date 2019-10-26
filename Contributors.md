@@ -12797,6 +12797,7 @@ Aman Panjwani
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
 - [Cara Hale](https://github.com/caradianne)
 - [rrriki](https://github.com/reveware)
+- [Fabio Percivaldi](https://github.com/fabio-percivaldi)
 - [Jacob Goodall](https://github.com/jgoodall13)
 - [Abdelrahman Mosa'ed](https://github.com/AMosa3d)
 - [Myeong Kim](https://github.com/cgopia94)
