@@ -1,5 +1,5 @@
 ﻿ Contributors
-- [Eric Felder] (https://github.com/PatBateman89)
+- [ Eric Felder ] (https://github.com/PatBateman89)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Roshan Raj] (https://github.com/roshan-raj)
