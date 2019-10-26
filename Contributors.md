@@ -17,6 +17,7 @@
 - [Anand Bambhania](https://github.com/anandb89)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
 - [rabindra ku senapati](https://github.com/rp0023)
+- [Muhammad Rizwan](https://github.com/imrizwan)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
 - [suryaraj] (https://github.com/suryaraj95)
