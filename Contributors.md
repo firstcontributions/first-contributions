@@ -17997,6 +17997,7 @@ Mário Baltazar
 - [Cristian Malacarne huff](https://github.com/cristianhuff)
 - Matheus Azzi
 - Matheus Spaniol
+- Ankit Beniwal (https://github.com/pagalprogrammer)
 - Jade Oliveira
 - Seldon
 - [Antônio Ribeiro](https://github.com/antoniorib91)
