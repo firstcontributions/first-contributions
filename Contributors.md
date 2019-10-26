@@ -5495,6 +5495,7 @@ Aman Panjwani
 - [Stefan Script](https://github.com/stefanscript/)
 - [Rappelsen](https://github.com/rappelsen)
 - [Theodore Shin](https://github.com/tshin7)
+- [Otman404](https://github.com/Otman404)
 - [Persephone](https://github.com/persephpom/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
 - [Yoad Wolfsthal](https://github.com/yoadwo)
