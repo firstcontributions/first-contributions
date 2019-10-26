@@ -1,5 +1,6 @@
 ﻿ Contributors
 - [Aditya Gupta] (https://github.com/6aditya8)
+- [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
