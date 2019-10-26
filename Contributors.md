@@ -382,6 +382,7 @@ Joseph Tran
 - [Paweł Ryks] (https://github.com/paweryk807)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Clay Draper](https://github.com/cddraper)
+- [Prashanth Thiagarajan](https://github.com/b-man157)
 - [Zaycodes](https://github.com/zainababubakar)
 - [Aditya Bansal](https://github.com/Aditya777)
 - [Alexander Blunt](https://github.com/Alexander-Blunt)
