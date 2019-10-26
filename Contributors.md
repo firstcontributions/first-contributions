@@ -1,6 +1,7 @@
 ﻿ Contributors
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Aditya Gupta] (https://github.com/6aditya8)
+- [Ananthu Ajay] (https://github.com/AnanthuAjay)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
@@ -18425,3 +18426,4 @@ Shenyi Amand
 - [Moises Trigueros] (https://github.com/MoisesTR)
 - [PS Dash] (https://github.com/CopSDeR)
 - [Aivengoe] (https://github.com/Aivengoe)
+
