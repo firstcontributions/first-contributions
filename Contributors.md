@@ -1987,6 +1987,7 @@ Edison Shek
 - [Christopher Glisch](https://github.com/Glisch)
 - [Christopher Tang](https://github.com/chrtang-exp)
 - [Hemant Mishra]()
+- [Gavin M](https://github.com/GavM281)
 - [Bilal Norelden](https://github.com/BNorelden)
 - [Epaphradito Lugayavu](http://github.com/paphra)
 - [Aunik Ahmed](https://github.com/aunik22)
