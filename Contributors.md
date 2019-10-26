@@ -7,6 +7,7 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [Arjun RC] (https://github.com/arjunrc143
+- [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
 - [Rushabh](https://github.com/Rushabh10)
