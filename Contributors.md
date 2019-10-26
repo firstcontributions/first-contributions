@@ -24,6 +24,7 @@
 - [fcbayernxi]
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
+- [Anjali B N] (https://github.com/AnjaliBN)
 - [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
