@@ -115,6 +115,7 @@
 - [Byron Garcia](https://github.com/byronogarcia)
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
+- [Lee Kian Wee](https://github.com/kianweelee)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
 - [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
