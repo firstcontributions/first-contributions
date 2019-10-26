@@ -18430,3 +18430,4 @@ Shenyi Amand
 - [Moises Trigueros] (https://github.com/MoisesTR)
 - [PS Dash] (https://github.com/CopSDeR)
 - [Aivengoe] (https://github.com/Aivengoe)
+- [Mahalinoro Razafimanjato] (https://github.com/Mahalinoro)
