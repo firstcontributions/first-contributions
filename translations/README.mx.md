@@ -4,11 +4,12 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Primera contribuciones
+# Primer contribución
 
 Es complicado. Siempre resulta difícil la primera vez que haces algo. Principalmente cuando colaboras con otros, pues cometer errores no es agradable. Queremos simplificar la forma en la que los nuevos contribuidores de _open source_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas?. Este proyecto se enfoca en guíar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
+Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las cosas en un ambiente de prácticas?. Este proyecto se enfoca en guíar y en simplificar la forma en la que los principiantes hacen su primer
+contribución. Si buscas hacer tu primer contribución, sigue los siguientes pasos que se muestran a continuación.  
 
 #### *Si no estás cómodo con la linea de comandos, [aqui hay unos tutoriales usando herramientas gráficas.]( #tutorials-using-other-tools )*
 
@@ -53,7 +54,7 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork de este repositorio" />
 
-Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
+Si no tienes git en tu equipo, sigue las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
 ## Dale Fork al repositorio
 
@@ -67,7 +68,7 @@ Esto creará una copia de este repositorio en tu cuenta.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
 
-Ahora clona este repositorio en tu equipo. ve a tu cuenta de Github, y da click en el botón "*clone or download*" y luego da click en el ícono para *copiar*.
+Ahora clona este repositorio en tu equipo. Ve a tu cuenta de Github, da click en el botón "*clone or download*" y luego da click en el ícono para *copiar*.
 
 Abre tu consola o terminal y ejecuta el siguiente comando:
 
@@ -127,7 +128,7 @@ reemplazando `<nombre>` con tu nombre.
 
 ## Carga (*Push*) tus cambios a GitHub
 
-mandar un *push* de tus cambios usando el comando `git push`:
+Hacer un *push* de tus cambios usando el comando `git push`:
 ```
 git push origin <nombre-rama>
 ```
@@ -147,11 +148,11 @@ Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de e
 
 ## ¿Cuáles son los siguientes pasos?
 
-¡Felicidades! ¡Has completado la linea de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
+¡Felicidades! ¡Has completado el flujo de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
 
 Festeja tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-También podrías unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+También puedes unirte a nuestro *equipo* de Slack en caso de que necesites ayuda o tengas alguna pregunta. [Únete a nuestro Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
