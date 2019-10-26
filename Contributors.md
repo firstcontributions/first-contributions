@@ -32,6 +32,7 @@ Arnel Forbes
 - [Effi Tramountani] (https://github.com/effi-t)
 - [Darren Lim] (https://github.com/dlim28)
 - [sahil tagunde](https://github.com/tagsahil)
+- [Berkan Ünal](https://github.com/brkn)
 - [Sushma Unnibhavi](https://github.com/sushmaunnibhavi)
 - [Karan Reddy](https://github.com/karanreddy77)
 - [Subham Mishra](https://github.com/Subham-mishra)
@@ -8758,4 +8759,5 @@ Benzene
 - [Poomchaio] (https://github.com/poomchaio)
 - [Hanung Wijaya](https://github.com/hanung665)
 - [Oguzhan Cevik](https://github.com/oguzhancevik)
-
+- [Ahmet Tügür](https://github.com/ahmettugur)
+- [Tahsin Safa Elmali](https://github.com/SafaElmali)
