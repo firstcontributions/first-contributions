@@ -43,6 +43,7 @@
 - [Mahmoud Anwar] (https://github.com/mamoanwar)
 - [Egor Gorunovich] (https://github.com/titanolodon)
 - [tweekes1] (https://github.com/tweekes1)
+- [JLeneau] (https://github.com/JLeneau)
 - [lookovathere] (https://github.com/lookovathere)
 - [Santhosh](https://github.com/sann3)
 - [Kaitlin] (https://github.com/kaitlin31415)
