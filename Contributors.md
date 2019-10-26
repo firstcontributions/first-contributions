@@ -6693,6 +6693,7 @@ Aman Panjwani
 - [Akshay_Kumar](https://github.com/AkshayKumar007)
 - [Mikhail Filatov](https://github.com/map7000)
 - [Gabriel Fonseca](https://github.com/Gabriel-de-Carvalho)
+- [João Fonseca](https://github.com/FonsecaJoao)
 - [Ebey Abraham](https://github.com/MrGrayCode)
 - [Tushar Gandhi](https://github.com/tushargandhi)
 - [Kelson Warner](https://github.com/kelsonpw)
