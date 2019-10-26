@@ -1,5 +1,6 @@
  Contributors
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
+- [tannedthighs]
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
