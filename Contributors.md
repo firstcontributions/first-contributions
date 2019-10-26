@@ -15791,6 +15791,7 @@ Aman Panjwani
 - [Chas Drow](https://github.com/cpdrow)
 - [Chad Vido](https://github.com/chavido)
 - [Bruno Silva](https://github.com/slauzinho)
+- [Zohar Shefi](https://github.com/PureShefi)
 - [Oleksii Filonenko](https://github.com/filalex77)
 - [Matthew Williams](https://github.com/orangegrove1955)
 - [Karamel Hoàngg](http://github.com/Karamel2002)
