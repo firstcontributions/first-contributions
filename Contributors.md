@@ -8771,3 +8771,4 @@ Benzene
 - [Seyid Yagmur](https://github.com/seyidyagmur)
 - [Enes Açıkoğlu](https://github.com/enesacikoglu)
 - [Berk Bilgiç](https://github.com/bbilgic)
+- [Sadık Kuzu](https://github.com/sadikkuzu)
