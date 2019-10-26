@@ -23,6 +23,7 @@
 - [Vishal]
 - [Manny102030]
 - [fcbayernxi]
+- [Melissa Kennedy](https://github.com/Melissa-Kennedy)
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
 - [Anjali B N] (https://github.com/AnjaliBN)
