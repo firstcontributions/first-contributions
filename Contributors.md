@@ -37,6 +37,7 @@
 - [syd bailey](https://github.com/sydbails)
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
+- [Matthew Mercuri](https://github.com/matthewmercuri)
 - [Mez Charney] (https://github.com/mezzolite)
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
