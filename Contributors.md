@@ -6059,6 +6059,7 @@ Aman Panjwani
 - [Saurabh Daware](https://github.com/saurabhdaware)
 - [Kiran Gangta](https://github.com/kiran1019)
 - [Vanessa Singh](https://github.com/VanessaSingh)
++ [j60tt0] (https://github.com/j60tt0)
 - [jack hu](https://github.com/jackhub)
 - [Eli Shay](https://github.com/EliShayGH)
 - [Carolyn Olsen](https://github.com/CarolynOlsen)
