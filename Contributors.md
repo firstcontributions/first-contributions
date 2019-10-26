@@ -16,6 +16,7 @@
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
+- [Manny102030]
 - [fcbayernxi]
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
