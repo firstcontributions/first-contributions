@@ -24,6 +24,7 @@
 - [Vishal]
 - [Manny102030]
 - [fcbayernxi]
+- [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
 - [Anjali B N] (https://github.com/AnjaliBN)
