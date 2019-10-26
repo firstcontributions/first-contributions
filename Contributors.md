@@ -16602,6 +16602,7 @@ Aman Panjwani
 - [Vasyl Karpeniuk](https://github.com/vkarpeniuk)
 - [Raymond Luong](https://github.com/Raymond-Luong)
 - [Daniel du Preez](https://github.com/DanDuPreez)
+- [Fabio Percivaldi](https://github.com/fabio-percivaldi)
 - [Rayen Manaa](https://github.com/Mlewii)
 - [Erik Werner](https://github.com/SOFeeA)
 - [Noeun Kim](https://github.com/NoSilver2018)
