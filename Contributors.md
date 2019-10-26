@@ -8770,3 +8770,4 @@ Benzene
 - [Ali Kırboyun](https://github.com/akirboyun)
 - [Seyid Yagmur](https://github.com/seyidyagmur)
 - [Enes Açıkoğlu](https://github.com/enesacikoglu)
+- [Sadık Kuzu](https://github.com/sadikkuzu)
