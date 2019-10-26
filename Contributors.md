@@ -663,6 +663,7 @@ notForProffitt
 - [Mason Johnson](https://github.com/masonj88)
 - [Aimen Aounallah](https://github.com/Mizou9999)
 - [Aakash Jain](https://github.com/AakashJ2412)
+- [Meg H](https://github.com/huisyy)
 - [Zaifa Khan](https://github.com/khanzaifa37)
 - [Mahwish Izhar](https://github.com/MahwishIzhar)
 - [Hur Ali](https://github.com/hurali97)
