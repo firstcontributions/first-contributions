@@ -30,6 +30,7 @@
 - [Andres Delgado] (https://github.com/abathar)
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
+- [liquidxd](https://github.com/liquidxd)
 - [alaké](https://github.com/alayeet)
 - [syd bailey](https://github.com/sydbails)
 - [Cenfal](https://github.com/cenfal)
