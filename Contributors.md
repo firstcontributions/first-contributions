@@ -155,6 +155,7 @@
 - [Marcelo P. Farjalla](https://github.com/mafarja)
 - [Mauricio Garcia](https://github.com/MauricioGR15)
 - [Brian Mulyadi](https://github.com/brianmulyadi)
+- [Spreeha Dutta] (https://github.com/Spreeha)
 - [Akshay K ] (https://github.com/akshayachar2011)
 - [Marisa] (https://github.com/marisawadsworth)
 - [Hisham Bajunaid] (https://github.com/Hisham2150)
