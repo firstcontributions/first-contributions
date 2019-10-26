@@ -4611,6 +4611,7 @@ Stephan Sharpe
 - [Tobias Haugen](https://github.com/Haugen)
 - [Matheus Nogueira](https://github.com/mmn92)
 - [Richard Sachek](https://github.com/rsachek)
+- [Khushboo Verma](https://github.com/vermakhushboo)
 - [Emily Yang](https://github.com/emilyyz92)
 - [Collins Kelechi](https://github.com/collinskelechi)
 - [Jack Holsgrove](https://github.com/jackholsgrove)
