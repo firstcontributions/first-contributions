@@ -8759,6 +8759,7 @@ Benzene
 - [LucidComplex](https://github.com/LucidComplex)
 - [Poomchaio] (https://github.com/poomchaio)
 - [Hanung Wijaya](https://github.com/hanung665)
+- [Adem Kanat](https://github.com/ademkanat)
 - [Fatma Celik](https://github.com/fclk1212 )
 - [Oguzhan Cevik](https://github.com/oguzhancevik)
 - [Ahmet Tügür](https://github.com/ahmettugur)
