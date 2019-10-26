@@ -18443,3 +18443,4 @@ Shenyi Amand
 - [Pepa Dom] (https://github.com/caprica-Six)
 - [LuckyPigeon] (https://github.com/LuckyPigeon)
 - [Mounika Smitha] (https://github.com/kallepallimounikasmitha)
+- [Fernando Ugarte] (https://github.com/hangar205)
