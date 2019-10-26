@@ -17864,6 +17864,7 @@ Mário Baltazar
 - [EwaDoniec](https://github.com/EwaDoniec)
 - [Hritik Gupta](https://github.com/hritikgupta)
 - [Wadie](https://github.com/wadie)
+- [J. Barbaran] (https://github.com/jbarbaran)
 - [naveen mortha](https://github.com/nmortha)
 - [Dmitry Xeon](https://github.com/magnoom)
 - [Danilo de Menezes](https://github.com/danilomfreitas)
