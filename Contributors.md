@@ -4,7 +4,7 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
-- Shaurya Jain 
+- [Shaurya Jain](https://github.com/smartyj44) 
 - [Arjun RC] (https://github.com/arjunrc143
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
