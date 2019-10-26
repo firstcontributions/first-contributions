@@ -68,6 +68,7 @@
 - [Carl Yoder](https://github.com/Calasada)
 - [Nigel Yong](https://github.com/niyonx)
 - [Mohsin Surani](https://github.com/mohsinsurani)
+- [Abdikarim Warsame](https://github.com/wasami)
 - [Suvam Prasad](https://github.com/SuvamPrasd)
 - [Rhonda Hill] (https://github.com/rhondachill)
 - [David Kacsor](https://github.com/DavidKacsor)
