@@ -15,6 +15,7 @@
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
 - [Marly]
+- [Ryan Rifqi Arista] (https://github.com/ryanrfq)
 - [Samriddhi Jain] (https://github.com/sammjainn)
 - [Andres Delgado] (https://github.com/abathar)
 - [Samiksha Koul] (https://github.com/skaul15)
