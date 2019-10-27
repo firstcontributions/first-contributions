@@ -16724,6 +16724,7 @@ Aman Panjwani
 - [Mohsin Ali](http://github.com/mohsinalipro)
 - [SvanderWulp](http://github.com/svanderwulp)
 - [Jordan Mor](https://github.com/jordanmor)
+- [Cody Teo](https://github.com/codyteo)
 - [Jay Moran](https://github.com/moranjay)
 - [Nicholas Saquilayan](https://github.com/nsaquilayan)
 - [ZZ](https://github.com/zachzager) be smart, be kind
