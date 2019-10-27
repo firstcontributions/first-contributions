@@ -18481,3 +18481,4 @@ Shenyi Amand
 - [sQUARys](https://github.com/sQUARys)
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
+- [Luis Teles](https://github.com/luisotavioosi)
