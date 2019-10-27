@@ -92,6 +92,7 @@
 - [Raul Canul](https://github.com/RaulECT)
 - [Bhavya Sharma]
 - [Bhavya Libera]
+- [Alex Yu] (https://github.com/uyxela)
 - [Ajit Singh] (https://github.com/ajitsinghkaler)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
