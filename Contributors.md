@@ -4266,6 +4266,7 @@ Stephan Sharpe
 - [Marek Dzwonnik](https://github.com/MarekDzw?tab=repositories)
 - [smitsky](https://github.com/smitsky)
 - [Brandon Mendez](https://github.com/brandonmendez0415/)
+- [tintin](https://github.com/tintin9999)
 - [Debbie Flitner](https://github.com/dflitner)
 - [Patrick Olvera](https://github.com/patrickolvera)
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
