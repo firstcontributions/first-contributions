@@ -87,6 +87,7 @@
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Raul Canul](https://github.com/RaulECT)
 - [Bhavya Sharma]
+- [Ajit Singh] (https://github.com/ajitsinghkaler)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
 - [Prachi](https://github.com/prachijustin)
