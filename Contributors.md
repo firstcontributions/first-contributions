@@ -599,6 +599,7 @@ Joseph Tran
 - [ECP] (https://github.com/love-and-logic)
 - [Sukriti Jaitly](https://github.com/sukritij29)
 - [Jonathan Sanderson](https://github.scom/jSwtch)
+- [kinlochuk] (https://github.com/kinlochuk)
 - [Damian Zhang](https://github.com/Damian3930)
 - [Parul Parikh](https://github.com/ParulParikh3)
 - [Ji Kang](https://github.com/KangJay)
