@@ -4695,6 +4695,7 @@ Stephan Sharpe
 - [Daniela Llivina](https://github.com/daniela-llivina)
 - [Samuel Chen](https://github.com/sam-chen-4)
 - [Dilnawaz](me@dillo.me)
+- [Haany Ali] (https://github.com/MarikIshtar007)
 - [Rocktim Saikia](https://github.com/RocktimSaikia)
 - [aneeza](https://github.com/aneezatariq)
 - [Amit Levy](https://github.com/AmitPLevy)
