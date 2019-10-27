@@ -8783,6 +8783,7 @@ Aman Panjwani
 - [U Ba Tin](https://github.com/ubatin)
 - [Sahil Shingari](https://github.com/SahilShingari)
 - [Vidushi Jain](https://github.com/VidushiJain30)
+- [Jon Rinciari](https://github.com/jonathanRinciari)
 - [Aditya Agarwal](https://github.com/itaditya)
 - [Michael Sasse](https://github.com/mikeysasse)
 - [Rohit Jakhmola](https://github.com/Rohit599)
