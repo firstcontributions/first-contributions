@@ -1,6 +1,7 @@
  Contributors
--[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
+- [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
+- [Karim Rahali](https://github.com/Karim-Rahali/)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Aditya Gupta] (https://github.com/6aditya8)
