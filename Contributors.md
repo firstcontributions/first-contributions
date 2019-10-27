@@ -18384,6 +18384,7 @@ Shenyi Amand
 - [Kshitij Srivastava](https://github.com/kshitijsriv)
 - [Giovanni Beijl](https://github.com/Gio-Glu)
 - [infyblock](https://github.com/infyblock)
+- [kabahima Ernest](https://github.com/kabahima)
 - [Audrey Schmook](https://github.com/AudreySchmook)
 - [Robert Bui](https://github.com/Metasilveur)
 - [Calvin Moisan](https://github.com/moicodes)
