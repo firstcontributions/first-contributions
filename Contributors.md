@@ -44,6 +44,7 @@
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [U Ba Tin](https://github.com/ubatin)
 - [Vidushi Jain](https://github.com/VidushiJain30)
+- [Jon Rinciari](https://github.com/jonathanRinciari)
 - [Aditya Agarwal](https://github.com/itaditya)
 - [Rohit Jakhmola](https://github.com/Rohit599)
 - [Rebecca Williams](https://github.com/Becca941)
