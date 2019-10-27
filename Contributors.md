@@ -18482,3 +18482,4 @@ Shenyi Amand
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
+- [Manish Vats](https://github.com/Manish-Kumar-Vats)
