@@ -31,6 +31,7 @@
 - [Marisa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Vishal]
+- [Hamzah Akhtar](https://github.com/hamzah70)
 - [Manny102030]
 - [fcbayernxi]
 - [Alex Moreira](https://github.com/alexbmoreira)
