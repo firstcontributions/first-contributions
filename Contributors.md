@@ -444,6 +444,7 @@ Joseph Tran
 - [Ankush Sharma](https://github.com/ScorchingShade)
 - [Vadim Slepich](https://github.com/d3fault333)
 - [Hemanth Reddy](https://github.com/HemanthReddy99)
+- [Léon ROUX](https://github.com/Nurrl)
 - [Jaskaran Singh]
 - Jerryco Alaba
 - Gustavo Ribeiro Gomes
