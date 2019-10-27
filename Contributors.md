@@ -13072,6 +13072,15 @@ Aman Panjwani
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Jake Happersett](https://github.com/JakeHappersett)
 - [Sherin Binu](https://github.com/SherOnDale13)
+
+- [Aditya Gupta] (https://github.com/6aditya8)
+- [Mudasir Issah] (https://github.com/danladi123)
+- [Roshan Raj] (https://github.com/roshan-raj)
+- [Danial Beg] (https://github.com/DanialBeg)
+- [Elite-Debashis] (https://github.com/Elite-Debashis)
+- [George Purnell](https://github.com/georgewpurnell)
+- Eric Githinji
+- [rupesh] (https://github.com/rupesh8601)
 - [Nurali Khoja](https://github.com/TheCoderFish)
 - [Nikica Maksimovski](https://github.com/NikicaCh)
 - [William Horn](https://github.com/williamh890)
