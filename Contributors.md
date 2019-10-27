@@ -36,6 +36,7 @@
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
+
 - [Anjali B N] (https://github.com/AnjaliBN)
 - [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
@@ -80,6 +81,7 @@
 - [David Kacsor](https://github.com/DavidKacsor)
 - [Sashrika Kaur](https://github.com/sashrikakaur)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
+  [Prabal gupta](https://github.com/prabalgupta12)
 - [Anand Bambhania](https://github.com/anandb89)
 - [SamWaku](https://github.com/SamWaku)
 - [Yash Shukla](https://github.com/Yash1256)
