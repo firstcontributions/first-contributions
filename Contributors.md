@@ -18460,3 +18460,4 @@ Shenyi Amand
 - [jarofblueberries] (https://github.com/jarofblueberries)
 - [tobyych] (https://github.com/tobyych)
 - [Vishnu S Reddy](https://github.com/Vishnu-S-Reddy)
+- [Tiago RS Melo](https://github.com/trsmelo)
