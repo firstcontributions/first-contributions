@@ -33,6 +33,7 @@
 - [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
+- [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
 - [Anjali B N] (https://github.com/AnjaliBN)
 - [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
