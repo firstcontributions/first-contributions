@@ -17622,6 +17622,7 @@ Mário Baltazar
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
 - [Kevin Huber](https://github.com/itskev)
 - [Monio](https://github.com/monio)
+- [g0lc0de](https://github.com/g0lc0de)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
