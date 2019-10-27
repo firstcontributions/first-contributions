@@ -37,6 +37,7 @@
 - [Marly]
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
 - [Anjali B N] (https://github.com/AnjaliBN)
+- [Pranav Kirsur] (https://github.com/pranav-kirsur)
 - [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
