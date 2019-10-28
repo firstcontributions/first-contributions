@@ -458,6 +458,7 @@ Joseph Tran
   [Ajay Chhajed](https://github.com/chhajed-ajay)
 - [Catherine O'Hara](https://github.com/catherine-o)
 - [Akanksha Jai](https://github.com/akankshajai)
+- [Sreerag E](https://github.com/cheer-g)
 - [Divyansh Falodiya](https://github.com/DivyanshFalodiya)
 - [Keecheril Jobin](https://github.com/Keecheril-Jobin)
 - [Parth Gupta](https://github.com/parthgpta)
