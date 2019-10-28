@@ -18450,6 +18450,7 @@ Shenyi Amand
 - [nikasxirtla] (https://github.com/nikasxirtla)
 - [bianavic] (https://github.com/bianavic)
 - [zhhjoseph] (https://github.com/zhhjoseph)
+- [MicahJank] (https://github.com/MicahJank)
 - [BEM] (https://github.com/BrunoEMendes)
 - SansClue
 - [ViciousCupcake] (https://github.com/ViciousCupcake)
