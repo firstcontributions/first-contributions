@@ -12303,6 +12303,7 @@ Aman Panjwani
 - [Valerie Moy](https://github.com/thevalerie)
 - [Jade Hayes](https://github.com/JadeHayes)
 - [Becca Moss](https://github.com/beccamoss)
+- [Ladoui Abdellah](https://github.com/tizam)
 - [John Anderson](https://github.com/John905)
 - [Puneeth Saladi](http://github.com/puneethsaladi)
 - [Daniel Thomas](https://github.com/dtorlando)
