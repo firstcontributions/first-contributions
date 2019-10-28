@@ -15,6 +15,7 @@
 - Eric Githinji
 - [rupesh] (https://github.com/rupesh8601)
 - [Arjun RC] (https://github.com/arjunrc143
+- [Corey Hammond] (https://github.com/corey-hammond)
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
