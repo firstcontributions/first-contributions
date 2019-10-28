@@ -35,6 +35,7 @@
 - [Manny102030]
 - [fcbayernxi]
 - [Alex Moreira](https://github.com/alexbmoreira)
+- [Zlate Theodor](https://github.com/ZlateTheodor)
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
