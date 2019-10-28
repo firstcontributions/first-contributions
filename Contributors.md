@@ -62,6 +62,7 @@
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Joema Nequinto](https://github.com/JoemaNequinto)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
+- [Jonathan Goldfuss] (https://github.com/Junglefuss)
 - [Kristin Hamilton](https://github.com/KristinHamilton)
 - [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
