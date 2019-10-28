@@ -239,6 +239,7 @@
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Huzaifa](https://github.com/hzk120)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
+- [Roven Joseph Macapagal] (https://github.com/RVMac)
 - [logistic-bomsiet](https://github.com/logistic-bot)
 - [Emery Weist] (https://github.com/EBWeist)
 - [Zeeshan Ali] (https://github.com/zeesh-ali)
