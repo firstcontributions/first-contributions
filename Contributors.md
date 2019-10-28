@@ -358,6 +358,7 @@
 - [Yuri Reis](https://github.com/yurireeis)
 - Green S
 - Pedisman
+- [Fabio Massaretto 🚀](https://github.com/FabioMasaretto/)
 - Edwin Waweru
 - Ujwal Kadariya
 - [Shailendra singh Bhati] (https://github.com/SSB0734)
