@@ -4505,6 +4505,7 @@ Kashish Khullar - :P
 - [Gaibbe](https://github.com/creixx)
 - [Sergei Gushchin](https://github.com/GuschinS)
 - [Elton Lin](https://github.com/Gustwalker)
+- [Qmitry](https://github.com/qmitry)
 - [Ryan Sherrell](https://github.com/rysherrell)
 - [Shashi shekhar](https://github.com/shekhar3311)
 - [Mathieu Frechette](https://github.com/MathFrechette)
