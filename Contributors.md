@@ -7331,6 +7331,7 @@ Aman Panjwani
 - [Raphael Croce](https://github.com/riffryder)
 - [Priyanshu Nayan](https://github.com/priyanshunayan)
 - Carol L
+- [Astraalito] (https://github.com/Astraalito)
 - [Katie Campbell](https://github.com/katyasoup)
 - [Dev Arora](https://github.com/dr0id007)
 - [Riaan Kruger](https://github.com/hpearcem)
