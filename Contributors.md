@@ -1457,6 +1457,7 @@ Josh Breslow
 - [Dysar](https://github.com/Dysar)
   [Armando Villanueva](https://github.com/pixlflame)
 - [Carson Woods] (https://github.com/cdwoods1)
+- [Eric Lepki] (https://github.com/dce23)
 - [Ilhambara] (https://github.com/g2ailhammubarok)
 - [Shailesh Jain](https://github.com/ShailuJain)
 - [Tsung-Han Ho](https://github.com/Mystes-CS)
