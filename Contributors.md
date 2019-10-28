@@ -7,6 +7,7 @@
 - [tannedthighs]
 - [Gavin OLeary]
 - [Aditya Gupta] (https://github.com/6aditya8)
+- [ByteHD] (https://github.com/ByteHD)
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
