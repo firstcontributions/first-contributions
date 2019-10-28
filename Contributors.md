@@ -13416,6 +13416,7 @@ Aman Panjwani
 - [Abraham Sheer Dela Vega](https://github.com/vegatheantler)
 - [Marek B](https://github.com/Marmare)
 - [Chase Davies](https://github.com/chasepd)
+- [Chase Lirette](https://github.com/clirette)
 - [Ina Vukmirovich](https://github.com/inavuk)
 - [Dany Diaz](https://github.com/danydiaz91)
 - [Forrest Babola](https://github.com/fbabola)
