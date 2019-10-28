@@ -15996,7 +15996,7 @@ Aman Panjwani
 - [Bruno Dias](https://github.com/brsimoes)
 - [Mustafa Ismail](https://github.com/mustafaismail22)
 - [Kristiyan Dimitrov](https://github.com/KrDimitrov/)
-- [Hamza Khalid](https://github.com/Hamza156)
+B- [Hamza Khalid](https://github.com/Hamza156)
 - [a-ray](https://github.com/a-ray)
 - [senk](https://github.com/senk)
 - [Dakdot](https://github.com/Dakdot)
@@ -18483,3 +18483,4 @@ Shenyi Amand
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
+- [Tambien](https://github.com/Tambien42)
