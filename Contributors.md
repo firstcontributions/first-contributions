@@ -866,6 +866,7 @@ notForProffitt
 - [Kent Yang] (https://github.com/kentyang)
 - [Siddhant Mehta]
 - [Emanuele Palermo] (https://github.com/epalermo92)
+- [Kevin Huynh] (https://github.com/huynhlkevin)
 - [Jurie Spies]
 - [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe] (https://github.com/marthasharpe)
