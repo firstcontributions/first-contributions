@@ -8910,6 +8910,7 @@ Benzene
 - [Diego Trazzi](https://github.com/d1Ng0)
 - [Paperweb](https://github.com/Paperweb)
 - [Vitor Bartier](https://github.com/bartier)
+- [Harish Nawaz](https://github.com/Lonewolfiz)
 - [Cheah Zixu](https://github.com/genesis331)
 - [James McMillan](https://github.com/jMac029)
 - [Fernando Silva](https://github.com/fernandodebrando)
@@ -8925,4 +8926,3 @@ Benzene
 - [Yamin](https://github.com/yaminmhd)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
-- [Harish Nawaz](https://github.com/Lonewolfiz)
