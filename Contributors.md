@@ -1823,6 +1823,7 @@ Kebana Modise
 - Abhijeet Ghosh
 - Ahmad
 - Daniel Jelenici
+- Yash Chaubey(https://github.com/the-trooper)
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
 - Raj
