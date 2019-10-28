@@ -24,6 +24,7 @@
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
+- [Vihanga Bandara] (https://github.com/vihanga-bandara)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
