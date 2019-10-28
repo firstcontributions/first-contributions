@@ -47,6 +47,7 @@
 - [Samiksha Koul] (https://github.com/skaul15)
 - [xFabifont](https://github.com/xFabifont)
 - [Gabe Widmer](https://github.com/gabedude)
+-[Brian Loveless](https://github.com/BrianLoveGa)
 - [liquidxd](https://github.com/liquidxd)
 - [alaké](https://github.com/alayeet)
 - [syd bailey](https://github.com/sydbails)
