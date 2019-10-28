@@ -54,6 +54,7 @@
 - [Teresa] (https://github.com/teresa622)
 - [Matthew Mercuri](https://github.com/matthewmercuri)
 - [Mez Charney] (https://github.com/mezzolite)
+- [Gabriel Ramaldes] https://github.com/gabrielramaldes)
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
 - [Thrishna](https://github.com/thrishna-me)
