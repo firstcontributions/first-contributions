@@ -2549,6 +2549,7 @@ Stephan Sharpe
 - [MarkMan0](https://github.com/MarkMan0)
 - [Huseyin Burak Saruhan](https://github.com/buraksaruhan)
 - [Jerome Lim](https://github.com/jeromelimzw)
+- [Christian Jarani](https://github.com/jaranimo95)
 - [greenhandatsjtu](https://github.com/greenhandatsjtu)
 - [VV Raman](https://github.com/VIGNESHinZONE/)
 - [Geonho James Kim](https://github.com/kgh475926)
