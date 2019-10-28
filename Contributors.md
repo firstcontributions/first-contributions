@@ -88,6 +88,7 @@
 - [Joy Iwendi](https://github.com/jiwendi)
 - [Ekansh Gupta] (https://github.com/Ekansh-01)
 - [Francesco Cartier](https://github.com/cartinez)
+- [Shashank-Pal](https://github.com/Shashank-10)
 - [Daniel Hernqvist](https://github.com/hernqvistdaniel)
 - [Anıl GÜRSES](https://github.com/anilgurses)
 - [Mohsen Yazdani](https://github.com/imyazdani)
