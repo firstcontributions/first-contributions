@@ -32,6 +32,7 @@
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Vishal]
 - [Manny102030]
+- [Liger-Z]
 - [fcbayernxi]
 - [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
