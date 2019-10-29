@@ -8519,6 +8519,7 @@ Aman Panjwani
 - [Abhiroop Sen](https://github.com/asen121)
 - [paulskicoa](https://github.com/paulskicoa)
 - [Prakhar Pandey](https://github.com/prakharvk)
+- [Adrià Canal](https://github.com/adriacanal)
 - [Jonathan Allou](https://github.com/jonalloub/)
 - [Steven Siperko](https://github.com/ssiperko)
 - [Nate Celeste](https://github.com/ntceleste)
