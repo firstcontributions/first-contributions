@@ -18367,6 +18367,7 @@ rehan
 - [Alucard (-.-)]
 -[Ankita Ratna](https://github.com/ankitaratna)
 - [Aditya Singh](https://github.com/adityanjr)
+- [Adriann](https://github.com/choosenonee)
 - [dfarley1](https://github.com/dfarley1)
 - [vivmin](https://github.com/vivmin)
 - [Adarsh Dwivedi](https://github.com/thevloper)
