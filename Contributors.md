@@ -9205,6 +9205,7 @@ Aman Panjwani
 - [Prateek007](https://github.com/paradox-hunter)
 - [Vijay Kumar](https://github.com/vijay925)
 - [Alex Lippincott](https://github.com/ALippincott)
+- [Luciano Marques](https://github.com/lucianoutn)
 - [Scott Prewit](https://github.com/antman)
 - [Bilal Zafar](https://github.com/Blal2306)
 - [Joe Wagner](https://github.com/joseph-wagner)
