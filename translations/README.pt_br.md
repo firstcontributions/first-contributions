@@ -5,9 +5,9 @@
 
 # Primeiras Contribuições
 
-É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, cometer erros não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
+É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, cometer erros não é algo agradável. Mas o *open source* (código aberto) se trata de colaboração e trabalho conjunto. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
-Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
+Ler artigos e ver tutoriais podem ajudar, mas o que é melhor do que realmente pôr a mão na massa em ambiente prático? Este projeto tem como objetivo guiar e simplificar a forma como os novatos fazem a sua primeira contribuição. Se quiser fazer sua primeira contribuição, siga os passos abaixo.
 
 #### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #tutoriais-com-outras-ferramentas)*
 
@@ -49,7 +49,7 @@ Vá para o diretório do repositório no seu computador (caso você não esteja 
 cd first-contributions
 ```
 
-Agora crie um Branch usando o comando `git checkout`:
+Agora crie um *Branch* usando o comando `git checkout`:
 ```
 git checkout -b <add-seu-nome>
 ```
@@ -58,7 +58,7 @@ Por exemplo:
 ```
 git checkout -b add-alonzo-church
 ```
-Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
+Obs.: O nome do *Branch* não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é de adicionar o seu nome à lista.
 
 ## Efetue as alterações necessárias e faça um Commit
 
@@ -78,11 +78,11 @@ preenchendo `<seu-nome>` com o seu nome.
 
 ## Faça um Push das alterações para o GitHub
 
-Faça um Push utilizando o comando `git push`:
+Faça um *Push* utilizando o comando `git push`:
 ```
 git push origin <add-seu-nome>
 ```
-substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
+substituindo `<add-seu-nome>` pelo nome do *Branch* que você criou anteriormente.
 
 ## Envie suas alterações para serem revisadas
 
@@ -90,7 +90,7 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull Request" />
 
-Agora envie um Pull Request.
+Agora envie uma *Pull Request*.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
