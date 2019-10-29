@@ -163,6 +163,7 @@
 - [Tim Pedone](https://github.com/macdude357)
 - [Erodotos Demetriou](https://github.com/Erodotos)
 - [Greg McKibbin 🌎🚀:octocat:🌌](https://github.com/greg0714)
+- [Sean Parker](https://github.com/SeanRParker)
 - [Alexandria Pugia](https://github.com/jasminnancy)
 - [Mantas Vaistaras](https://github.com/Manteliz)
 -  [Patrick Hughey](https://github.com/jphughey1)
