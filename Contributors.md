@@ -18483,3 +18483,4 @@ Shenyi Amand
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
+- [Guilherme Rigon](https://github.com/Guilherme-Rigon)
