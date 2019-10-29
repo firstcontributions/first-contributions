@@ -82,6 +82,7 @@
 - [Rhonda Hill] (https://github.com/rhondachill)
 - [David Kacsor](https://github.com/DavidKacsor)
 - [Sashrika Kaur](https://github.com/sashrikakaur)
+- [Ryan Brilz] (https://github.com/Ralex-crypto)
 - [Hitesh Saangwan](https://github.com/HiteshSangwan0567)
 - [Anand Bambhania](https://github.com/anandb89)
 - [SamWaku](https://github.com/SamWaku)
