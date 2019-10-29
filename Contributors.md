@@ -11258,6 +11258,7 @@ Aman Panjwani
 - [Carlos Alfaro](https://github.com/devbysalas)
 - [Emil Samuel](https://github.com/aaliste)
 - [Ian Drummond](https://github.com/ianH92)
+- [Paula McKinley](https://github.com/pmknyc/first-contributions)
 - [Ayodele Opetumo](https://github.com/ayodeleopetumo)
 - [Ali Adel](https://github.com/ali-adel)
 - [Quoc Nguyen](https://github.com/qngn93)
