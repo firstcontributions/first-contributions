@@ -5,6 +5,7 @@
 - [Marisol Abrego](https://github.com/marisolabrego)
 - czx229
 - Joseph Pilla
+- Tiffani G. Elmore
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - Sam DC
