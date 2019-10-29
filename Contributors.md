@@ -60,6 +60,7 @@
 - [Snehit Mishra] (https://github.com/snehit31)
 - [sidiousvic] (https://github.com/sidiousvic)
 - [Jon Josephson](https://github.com/gr8fuldwg)
+- Danijela
 - [Joema Nequinto](https://github.com/JoemaNequinto)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Kristin Hamilton](https://github.com/KristinHamilton)
