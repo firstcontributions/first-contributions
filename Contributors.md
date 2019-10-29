@@ -1,4 +1,5 @@
-﻿- [Jessica Campbell](https://github.com/jlcampbell)
+﻿- [Aaron Dills](https://github.com/AaronDills))
+- [Jessica Campbell](https://github.com/jlcampbell)
 - [Tyron Wytrykowski](https://github.com/tyronwyt)
 - [Bira](https://github.com/bira91)
 - [Daniel Montague](https://github.com/danMontague)
@@ -530,3 +531,5 @@
 - [Samuel Tan](https://github.com/samueltan3972)
 - [Matej Strasek](https://github.com/matejstrasek)
 - [Marianne Hval](https://github.com/mahval)
+- [Karthick Thoppe](https://github.com/karthicktv)
+- [Kurtis Taylor](https://github.com/quietgiant)
