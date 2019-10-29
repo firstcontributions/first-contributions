@@ -112,11 +112,3 @@ Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dic
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-## Eigenwerbung
-
-Wenn dir dieses Projekt gefällt, denn gib ihm doch einen Stern auf [GitHub](https://github.com/Roshanjossey/first-contributions).
-Falls du dich gerade besonders wohltätig fühlst, dann folge [Roshan](https://roshanjossey.github.io/) auf
-[Twitter](https://twitter.com/sudo__bangbang) und
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

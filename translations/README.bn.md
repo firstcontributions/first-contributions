@@ -110,10 +110,5 @@ git push origin <add-your-name>
 |---|---|---|
 |[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
 
-## সেলফ-প্রমোশন
 
-এই প্রজেক্টটি পছন্দ হলে [গিটহাবে](https://github.com/Roshanjossey/first-contributions) তারকাচিহ্নিত(star) করুন।
-এছাড়া আপনি [Roshan](https://roshanjossey.github.io/) কে ফলো করতে পারেন
-[টুইটার](https://twitter.com/sudo__bangbang) এবং
-[গিটহাব](https://github.com/roshanjossey)-এ।
 
