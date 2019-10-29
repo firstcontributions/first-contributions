@@ -4431,6 +4431,7 @@ Stephan Sharpe
 - ozfiddler
 - Lisa Chesson
 - Mark Elishaev
+- Luciano Rodriguez
 - [Jorge Diaz](https://github.com/gicadiaz)
 - [Alexander Kern](https://github.com/KernAlex)
 - [Felix Carlberg](https://github.com/Felix-Carlberg)
