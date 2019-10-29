@@ -495,6 +495,7 @@ Joseph Tran
 - [ymrz]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Teresa Livriero](https://github.com/teresa-livriero)
+- [Arpit Batra](https://github.com/arpit-batra)
 - [Nicolas Pin](https://github.com/pythareme)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
