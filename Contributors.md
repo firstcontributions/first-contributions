@@ -112,6 +112,7 @@
 - [charlottedestrait](https://github.com/charlottedestrait) 
 - [Nicholas Menezes](https://github.com/nicholasmenez)
 - [Erika Vinette] (https://github.com/erik0re)
+- [Jeff Linwood] (hhttps://github.com/jefflinwood)
 - [Mayank Shrivastava](https://github.com/MayankShrivastava17)
 - [Pavel Saha](https://github.com/pavel5133)
 - [Mayank_Matwa](https://github.com/MayankMatwa378)
