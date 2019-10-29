@@ -404,6 +404,7 @@ Joseph Tran
 - [Jitendra](https://github.com/jitusd9)
 - [KRHero03](https://github.com/KRHero03)
 - fcrozatier
+- anjanmondal
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
