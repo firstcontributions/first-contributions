@@ -91,6 +91,7 @@
 - [Ajay R] (https://github.com/drstrange11)
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Raul Canul](https://github.com/RaulECT)
+- [Manuel Carabajo](https://github.com/mcarabajo)
 - [Bhavya Sharma]
 - [Bhavya Libera]
 - [Ajit Singh] (https://github.com/ajitsinghkaler)
