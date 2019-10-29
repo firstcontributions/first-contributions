@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -2526,6 +2526,7 @@ Stephan Sharpe
 - [Rupinder Deol](https://github.com/deolr)
 - [Jorge Antonio Flores](https://github.com/jflores3531)
 - [Christian McDonald](https://github.com/religionfastfood)
+- [Brian B](https://github.com/bbad68)
 - Jared
 - [Himanshu Didwaniya](https://github.com/Dids-Himanshu)
 - [Gopakumar Ravikumar](https://github.com/gopkumr)
