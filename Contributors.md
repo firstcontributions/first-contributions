@@ -14,6 +14,7 @@
 - [Myles Heck](https://github.com/myheck)
 - [Ben Otte](https://github.com/ahtee)
 - [Anosh Billimoria](https://github.com/anbilly19/first-contributions)
+- [Amanuel Zelealem](https://github.com/JustcallmeAman/first-contributions)
 - [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
