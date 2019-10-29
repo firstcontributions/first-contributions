@@ -5,8 +5,9 @@
 
 # First Contributions
 
-|<img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40">|Visual Studio Code|
-|---|---|
+| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -22,9 +23,9 @@ If you don't have Visual Studio Code on your machine, [install it](https://code.
 
 Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
 
-GitHub keeps track of the relationship between your repo and the one you have forked it from.  You can think of your repo as a working copy.
+GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes.  All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune!  More on how to do that later.
+Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
 
 ## Clone your repository
 
@@ -32,7 +33,7 @@ Most top-level GitHub repos (i.e. ones not forked from any other repo) have a sm
 
 The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
-**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
+**CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
 Now open up Visual Studio Code. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
@@ -71,7 +72,8 @@ Copy one of the other contributors&apos; lines and modify it with your name to m
 
 ## Commit & Push changes to GitHub
 
-On the left side of VS Code is a menu with 5 icons displayed. Select the version control icon.
+On the left side of VS Code is a menu with 5 icons displayed. Select the version control/Source Control icon.
+(Shortcut : Ctrl + Shift + G)
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
 
@@ -79,7 +81,7 @@ The file explorer displays all files which were changed after the last commit. B
 
 <img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now commited to your local copy. Now the changes have to be pushed back to GitHub.
+Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
 
 <img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
 
@@ -89,7 +91,7 @@ Use the three-dot icon to open up the menu where you select the `Publish Branch`
 
 ## Submit your changes for review
 
-At this point you have completed your change but it still only resides in your repo.  This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
@@ -103,7 +105,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats! You have just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
@@ -112,7 +114,6 @@ You can join our slack team in case you need any help or have any questions. [Jo
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
-
 
 ## Tutorials Using Other Tools
 
@@ -129,4 +130,3 @@ If you're feeling especially charitable, follow [Roshan](https://roshanjossey.gi
 [GitHub](https://github.com/roshanjossey).
 
 <a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
-

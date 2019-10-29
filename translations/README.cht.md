@@ -114,11 +114,3 @@ git push origin <add-your-name>
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-## 原作者的自我行銷
-
-如果你/妳喜歡這個專案, 請給這個 [GitHub](https://github.com/Roshanjossey/first-contributions) 專案一顆星星 :star: 。
-如果妳/你覺得這超佛心, 可以追蹤 [Roshan](https://roshanjossey.github.io/) 的
-[Twitter](https://twitter.com/sudo__bangbang) 和
-[GitHub](https://github.com/roshanjossey)。
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
