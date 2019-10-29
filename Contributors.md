@@ -2070,6 +2070,7 @@ Kebana Modise
 - [Stuart Edgecombe] (https://github.com/sedgecombe)
 - [Elliot Blanchard](https://github.com/elliotblanchard)
 - murmal
+-[Abrar Hussain Syed](https://www.github.com/moxenseya)
 - [Lucas Oliveira] (https://github.com/lucas-r-oliveira)
 - [Radi Rusadi](https://github.com/radirs)
 - [Evan Finnigan](https://github.com/Evan-Finnigan)
