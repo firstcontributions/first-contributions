@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -18484,3 +18484,4 @@ Shenyi Amand
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Kunal Ambekar](https://github.com/KunalAmbekar04)
+- [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
