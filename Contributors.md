@@ -292,6 +292,7 @@ Jeremy Sipple
 - [TreliaGT](https://github.com/TreliaGT)
 - nimish
 - [Jonathan Nilsson](https://github.com/Baleith)
+- [Manish Kumar](https://githun.com/manishkr1101)
 - [Jose Antonio](https://github.com/jkno87)
 - [Ramesh](https://github.com/rameshnayak100)
 - [Aakash Shah](https://github.com/Aakash0410)
