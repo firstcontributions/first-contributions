@@ -18469,6 +18469,7 @@ Shenyi Amand
 - [Pepa Dom] (https://github.com/caprica-Six)
 - [LuckyPigeon] (https://github.com/LuckyPigeon)
 - [Mounika Smitha] (https://github.com/kallepallimounikasmitha)
+- [Stefano Cattonar] (https: //github.com/CesarStef)
 - [Fernando Ugarte] (https://github.com/hangar205)
 - [jarofblueberries] (https://github.com/jarofblueberries)
 - [tobyych] (https://github.com/tobyych)
