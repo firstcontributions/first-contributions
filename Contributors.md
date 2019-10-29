@@ -161,7 +161,7 @@
 - [Sathwik] (https://github.com/sathwik30)
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
-- [Coder_H] (https://github.com/HARSH-SHETH)
+- [Coder_H] 
 - Tarunjot Singh
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Jordan Aquadro] (https://github.com/jquad25)
