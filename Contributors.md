@@ -64,6 +64,7 @@
 - [Kristin Hamilton](https://github.com/KristinHamilton)
 - [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
+- [Tim Penders](https://github.com/srednep)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
 - [Rafael Cruz](https://github.com/ralph1786)
 - [Maryam Allahverdi] (https://github.com/maryam1986)
