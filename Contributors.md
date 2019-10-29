@@ -892,6 +892,7 @@ notForProffitt
 - [Matthew Piriya] (https://github.com/mvp223)
 - [Tomas] (https://github.com/smikis)
 - [Devesh Chatuphale] (https://github.com/deveshchatuphale7)
+- [Indekwe Patrick] (https://github.com/indepat)
 - [Vaibhavi Narayanan] (https://github.com/vibu267)
 - [flashintosh] (https://github.com/flashintosh)
 - [adrepd](https://github.com/adrepd)
