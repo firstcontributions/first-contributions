@@ -1,5 +1,5 @@
-﻿ Contributors
-  - [Elite-Debashis] (https://github.com/Elite-Debashis)
+﻿Contributors
+- [Elite-Debashis] (https://github.com/Elite-Debashis)
 - Eric Githinji
 - [Kevin] (https://github.com/Altenmann)
 - [xFabifont](https://github.com/xFabifont)
@@ -303,6 +303,7 @@ Joseph Tran
 - [Jitendra](https://github.com/jitusd9)
 - [KRHero03](https://github.com/KRHero03)
 - fcrozatier
+- [Ajmol Uddin](uddin.ajmol@gmail.com)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Bhakti Kantariya] (https://github.com/128bhakti)
 - [Masoomi](https://github.com/mashsaxena)
