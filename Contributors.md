@@ -61,6 +61,7 @@
 - [sidiousvic] (https://github.com/sidiousvic)
 - [Jon Josephson](https://github.com/gr8fuldwg)
 - [Joema Nequinto](https://github.com/JoemaNequinto)
+- [Aqeel Bacchus] (https://github.com/aqeelbacchus)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Kristin Hamilton](https://github.com/KristinHamilton)
 - [Avinash S Kurup](https://github.com/avinash10xds)
