@@ -66,6 +66,7 @@
 - [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
+- [Joshua Diaz] (https://github.com/JoshuaDiaz20)
 - [Rafael Cruz](https://github.com/ralph1786)
 - [Maryam Allahverdi] (https://github.com/maryam1986)
 - [Daniel Ogenrwot](https://github.com/danielogen)
@@ -153,6 +154,7 @@
 - [David Criado](https://github.com/xKuZz)
 - [Siddharth Sen](https://github.com/siddharth952)
 - [Baroch D.](https://github.com/barosch47/)
+- [Josh Diaz](https:github.com/joshuadiaz20
 - [Anthony Chou](https://github.com/pycrusher)
 - [Parth_Vyas](https://github.com/parthvyas7)
 - [Aryan Singh](https://github.com/ary1733)
