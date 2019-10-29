@@ -340,6 +340,7 @@
 - [Hailey Barnett] (https://github.com/haileyb0311)
 - [Matheus Elyasha](https://github.com/elyasha)
 - [Rachit Garg](https://github.com/rstar900)
+- [Eduardo Neujahr](https://github.com/Neujahr)
 - [Anushka Deshpande](https://github.com/anushkadeshpande)
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
