@@ -5,6 +5,7 @@
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
+- [Anindya Chowdhury] (https://github.com/41x3n)
 - [Gavin OLeary]
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
