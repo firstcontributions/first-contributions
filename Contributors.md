@@ -18464,6 +18464,7 @@ Shenyi Amand
 - [Achyuth R] (https://github.com/Achyuth-R)
 - [Moises Trigueros] (https://github.com/MoisesTR)
 - [PS Dash] (https://github.com/CopSDeR)
+- [Vivek] (https://github.com/VAM7686)
 - [Aivengoe] (https://github.com/Aivengoe)
 - [Mahalinoro Razafimanjato] (https://github.com/Mahalinoro)
 - [Pepa Dom] (https://github.com/caprica-Six)
