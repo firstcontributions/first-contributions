@@ -18470,6 +18470,7 @@ Shenyi Amand
 - [LuckyPigeon] (https://github.com/LuckyPigeon)
 - [Mounika Smitha] (https://github.com/kallepallimounikasmitha)
 - [Fernando Ugarte] (https://github.com/hangar205)
+- [Dave Trost](https://github.com/DaveTrost)
 - [jarofblueberries] (https://github.com/jarofblueberries)
 - [tobyych] (https://github.com/tobyych)
 - [Vishnu S Reddy](https://github.com/Vishnu-S-Reddy)
