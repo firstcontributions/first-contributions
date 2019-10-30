@@ -14,7 +14,8 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [rupesh] (https://github.com/rupesh8601)
-- [Arjun RC] (https://github.com/arjunrc143
+- [Samuel Afotey Laryea] (https://github.com/dedol1)
+- [Arjun RC] (https://github.com/arjunrc143)
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [ishanExtreme](https://github.com/ishanExtreme)
