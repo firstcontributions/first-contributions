@@ -7255,3 +7255,4 @@ Kashish Khullar - :P
 - [Pedro Vicari](https://github.com/pvicari)
 - [Joseph Meli](https://github.com/JosephMeli)
 - [Himanshu Sah](https://github.com/himanshusah)
+- [Aaron Sato](https://github.com/2asato)
