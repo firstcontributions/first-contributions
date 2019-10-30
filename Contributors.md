@@ -152,6 +152,7 @@
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
 - [Siddharth Sen](https://github.com/siddharth952)
+- [Samuel Montalvo](https://github.com/montal95)
 - [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
 - [Parth_Vyas](https://github.com/parthvyas7)
