@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -14,6 +14,7 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [rupesh] (https://github.com/rupesh8601)
+- [Mirel Springer] (https://github.com/mirel-spr)
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
