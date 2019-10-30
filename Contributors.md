@@ -6966,6 +6966,7 @@ Aman Panjwani
 - [Kevin Yu](https://github.com/kevinyu210)
 - [Akshay Krishna Upendran](https://github.com/mmikaeleriksson)
 - Dhanish Ashraf
+- [Trenton Wuerker](https://github.com/trentonwuerker) 
 - Courtney Arnold
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - Jon Robinson
