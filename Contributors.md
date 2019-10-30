@@ -579,6 +579,7 @@ Joseph Tran
 - [Cory Bergquist](https://github.com/coryjbergquist)
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
+- [**Yeokyung Yoon**](https://github.com/Y-k-Y)
 - [Tuhin Roy] (https://github.com/Troy96)
 - [Kye Browning] (https://github.com/kyebrowning)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
