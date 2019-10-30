@@ -9,6 +9,7 @@
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
+- [Aditi Garg](https://github.com/ADITI-08)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
