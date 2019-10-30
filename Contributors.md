@@ -30,6 +30,7 @@
 - [Brandi Cotton] (https://github.com/bcotton52/)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
+- [Michael Donoso] (https://github.com/Mike-Do/)
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Vishal]
 - [Manny102030]
