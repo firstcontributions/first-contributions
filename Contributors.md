@@ -79,6 +79,7 @@ Arnel Forbes
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
 - [SH Shin](https://github.com/sshplendid)
+- [Destrae] (https://github.com/Destrae)
 - [Jai Prakash](https://github.com/last-stand)
 - [Jon Taylor](https://github.com/jontaylor224)
 - Duwayne the rock Johnson
