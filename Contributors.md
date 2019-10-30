@@ -11,6 +11,7 @@
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
+- Omar Flores (https://github.com/Destyn1414)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [rupesh] (https://github.com/rupesh8601)
