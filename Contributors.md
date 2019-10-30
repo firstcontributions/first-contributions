@@ -1,4 +1,4 @@
- Contributors
+﻿ntributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -5950,10 +5950,11 @@ Aman Panjwani
 - [Ashish](https://github.com/UchihaItachi883)
 - Rohit Kashyap
 - [Thewires2](https://github.com/thewires2)
+- [Sampath Dissanayake](https://github.com/sampaththeman)
 - [Peter Maryniak](https://github.com/PMaryniak)
 - [Prachee Rajpura](https://github.com/PRajpura)
 - [Adwan Alshammari](https://github.com/adwanAK)
-- [Glenn Dejonghe] (https://github.com/binarylargeobject)
+- [Glenn Dejonghe](https://github.com/binarylargeobject)
 - [Reme Le Hane](https://github.com/RemeJuan)
 - [Franklin Wang](https://github.com/fxwang)
 - [Kelly Lawrence](https://github.com/lemonslicenebula)
