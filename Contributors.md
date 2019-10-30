@@ -86,6 +86,7 @@
 - [Anand Bambhania](https://github.com/anandb89)
 - [SamWaku](https://github.com/SamWaku)
 - [Yash Shukla](https://github.com/Yash1256)
+- [Devansh Purohit](https://github.com/devanSAGA)
 - [Anshumali Shaw](https://github.com/ankugolu)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
 - [Ajay R] (https://github.com/drstrange11)
