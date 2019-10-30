@@ -1,7 +1,8 @@
- Contributors
--[Gregory El Bajoury] (https://github.com/Injechta)
--[Rob Harman]
--[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
+﻿ Contributors
+- [Greg Williams](https://github.com/starskee)
+- [Gregory El Bajoury](https://github.com/Injechta)
+- [Rob Harman]
+- [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
