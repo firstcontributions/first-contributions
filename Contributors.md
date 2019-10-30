@@ -50,6 +50,7 @@
 - [liquidxd](https://github.com/liquidxd)
 - [alaké](https://github.com/alayeet)
 - [syd bailey](https://github.com/sydbails)
+- [Batuhan Taysı] (https://github.com/batuhantaysi)
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
 - [Matthew Mercuri](https://github.com/matthewmercuri)
