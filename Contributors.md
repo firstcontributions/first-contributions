@@ -3157,6 +3157,7 @@ Stephan Sharpe
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [Scott Abe](https://github.com/stabee)
 - [Caleb](https://github.com/MrNobody1166)
+- [Maria Carrero](https://github.com/maria-carrero)
 - jfalkmedia
 - Kersh
 - [Joe](https://github.com/jnc09)
