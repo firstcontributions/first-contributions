@@ -118,6 +118,7 @@
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Renuka Kulkarni](https://github.com/renu111k)
 - [Leann Kim](https://github.com/leannkim11)
+- [Shayan Halder](https://github.com/shayanhalder)
 - [Steven Thorne](https://github.com/steventhorne)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
