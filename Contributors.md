@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -93,6 +93,7 @@
 - [Raul Canul](https://github.com/RaulECT)
 - [Bhavya Sharma]
 - [Bhavya Libera]
+- [Trupti Langalia]
 - [Ajit Singh] (https://github.com/ajitsinghkaler)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
