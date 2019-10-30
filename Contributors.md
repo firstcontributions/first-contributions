@@ -997,6 +997,7 @@ notForProffitt
 - [Vicente Reyes](https://github.com/reyesvicente)
 - [Dan Ince](https://github.com/dince12)
 - [Geovanny Mantilla](https://github.com/geovanymantilla)
+- [Faith Idowu](https://github.com/seyidayo)
 - [Satyajit Ghana](https://github.com/satyajitghana)
 - [Rodrigo Franco](https://github.com/rodrigoAMF)
 - [Nasir Kamal](https://github.com/nasirkamal)
