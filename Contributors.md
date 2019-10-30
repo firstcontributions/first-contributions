@@ -769,6 +769,7 @@ notForProffitt
 - [Jonathan Levaillant](https://github.com/jonathanlevaillant)
 - [LWY](https://github.com/SFMDI)
 - [Maxence Wilmes] (https://github.com/Toorain)
+- [K.Sai Drishya] (https://github.com/saidrishya)
 - [Soumaya Erradi] (https://github.com/soumayaerradi)
 - [Aakash](https://github.com/Aakash-AA)
 - [Harshad Vaghasiya](https://github.com/HarshadVaghasiya)
