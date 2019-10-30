@@ -137,6 +137,7 @@
 - [Shantanu Bhosale](https://github.com/shantanu96)
 - [Santosh Vasisht](https://github.com/santosh50)
 - [Eirik Fladmark](https://github.com/Fladmark) 
+- [Bikram Singh](https://github.com/boywigh)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Javier Acosta](https://github.com/AxlTech)
 - [Alberto Kiramoto] (https://github.com/akiramot)
