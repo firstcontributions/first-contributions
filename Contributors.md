@@ -162,6 +162,8 @@
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- [Shweta Mishra] (https://github.com/shwetaekta)
+
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Jordan Aquadro] (https://github.com/jquad25)
 - [Peter Chou] (https://github.com/peterchou3788)
