@@ -40,6 +40,7 @@
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
 - [Anjali B N] (https://github.com/AnjaliBN)
 - [Pranav Kirsur] (https://github.com/pranav-kirsur)
+- [Nick Toledo] (https://github.com/Toledough)
 - [Marija] (https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
