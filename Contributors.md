@@ -98,6 +98,7 @@
 - [Dean](https://github.com/mox10)
 - [Prachi](https://github.com/prachijustin)
 - [Shubhika Shubhavee](https://github.com/Shubhavee)
+- [talarsen](https://github.com/talarsen)
 - [Daniel Strong](https://github.com/strongdan)
 -[Tharindu](https://github.com/TharinduBalasooriya)
 -[Shreya Singhal](https://github.com/shreyasinghal09)
