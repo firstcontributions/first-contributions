@@ -9751,6 +9751,7 @@ Aman Panjwani
 - [Jason Koh](https://github.com/WildlyManifest)
 - [Brandon Lum](https://github.com/theheck1)
 - [Tibor Maczelka](https://github.com/maczt83)
+- [Bart Stachurski](https://github.com/bartstachurski)
 - [Ataeraxia](https://github.com/Ataeraxia)
 - [Lucas Melin](https://github.com/lucasmelin)
 - [Rodolhe Duterval](https://github.com/bu7ch)
