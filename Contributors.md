@@ -96,6 +96,7 @@
 - [Ajit Singh] (https://github.com/ajitsinghkaler)
 - [Shri](https://github.com/skt1598)
 - [Dean](https://github.com/mox10)
+- [MilePaor](https://github.com/MilePaor)
 - [Prachi](https://github.com/prachijustin)
 - [Shubhika Shubhavee](https://github.com/Shubhavee)
 - [Daniel Strong](https://github.com/strongdan)
