@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -34,6 +34,8 @@
 - [Vishal]
 - [Manny102030]
 - [fcbayernxi]
+- [Buhari Dauda]
+- [database]
 - [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
 - [Marly]
