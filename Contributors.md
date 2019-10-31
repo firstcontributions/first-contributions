@@ -5997,6 +5997,7 @@ Aman Panjwani
 - [Emmanuel Haankwenda](https://github.com/emmanuel39hanks)
 - [Dedevava](https://github.com/dedevava)
 - [adeel afzal tech](https://github.com/adeelafzaltech)
+- [Tharuka Dhananjalee Silva](https://github.com/tharuka17)
 - [Jackson Chadfield](https://github.com/j-chad)
 - [imbassi](https://github.com/gmarap)
 - [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva)
