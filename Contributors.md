@@ -45,6 +45,7 @@
 - [Venkatraman Narayanan](https://github.com/vijay4313)
 - [Ikechukwu Kalu](https://github.com/IkechukwuAKalu)
 - [Ojo Oluwasetemi](https://github.com/Oluwasetemi)
+- [steveee](https://github.com/steveee)
 - [shanto](https://github.com/shanto)
 - [eroSanyn](https://github.com/eroSanyn)
 - [hackervon](https://github.com/hackervon)
