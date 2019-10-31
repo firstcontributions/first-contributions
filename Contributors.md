@@ -12129,6 +12129,7 @@ Aman Panjwani
 - [Henrik Johansson](https://github.com/Torasil)
 - [Maya Farber](https://github.com/farberbrodsky)
 - [Matt Southward](https://github.com/mattsouthward)
+- [Rohit Verma](https://github.com/RohitV5)
 - [Rambabu Govind](https://github.com/rambabugovind)
 - [Simon Kerkmann](https://github.com/siker102)
 - [Rashi Agarwal](https://github.com/rashiagarwal)
