@@ -10702,6 +10702,7 @@
 - [William Washington](https://github.com/willWashington)
 - [Nils Fedrigo](https://github.com/NilsFedrigo)
 - [Paladorn](https://github.com/Paladorn)
+- [Magic56](https://github.com/magic5644)
 - [Lucas Akira Morishita](https://github.com/lucas-akira/)
 - [Robinson Beaucour](https://github.com/RobinsonBeaucour/)
 - [Gökhan Özeloğlu](https://github.com/gozeloglu/)
@@ -10717,4 +10718,3 @@
 - [dqueric](https://github.com/dqueric)
 - [Aiclear]
 - [Tomer Grin]
-- [Magic56](https://github.com/magic5644)
