@@ -8935,6 +8935,7 @@ Aman Panjwani
 - [Konstantin M?ller](https://github.com/konstantin-mueller)
 - [Nithin K Vijayan](https://github.com/nithin-vijayan)
 - [Karan Deep Batra](https://github.com/krnbatra)
+- [Jorge] (http://github.com/george-DLJ)
 - [Shaznim Hussain](https://github.com/shaznimhussain)
 - [Abhijeet Goel](https://github.com/aninjamonk)
 - [Leticia Valderas](https://github.com/monaLeti)
