@@ -70,7 +70,7 @@ git checkout -b ekle-aydin-cagri-dumlu
 Örneğin:
 
 ```
-- [John Doe](https://github.com/ahmet-yilmaz)
+- [Ahmet Yılmaz](https://github.com/ahmet-yilmaz)
 ```
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
