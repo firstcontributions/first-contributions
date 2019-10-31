@@ -1,4 +1,6 @@
  Contributors
+
+-[Amit Joseph] (https://github.com/amitjoseph)
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
