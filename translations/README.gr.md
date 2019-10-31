@@ -125,11 +125,3 @@ git push origin <add-your-name>
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-
-## Προώθηση του πρότζεκτ
-
-Αν σας άρεσε το πρότζεκτ, προσθέστε το στα αγαπημένα (βάλτε αστεράκι) στο [GitHub](https://github.com/Roshanjossey/first-contributions).
-Αν νιώθετε ακόμα περισσότερη ευγνωμοσύνη, ακολουθήστε τον [Roshan](https://roshanjossey.github.io/) στο [Twitter](https://twitter.com/sudo__bangbang) και [GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-

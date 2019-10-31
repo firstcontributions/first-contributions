@@ -115,11 +115,3 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Autopromoção
-
-Se você gostou deste projeto, favorite-o com um estrela no [GitHub](https://github.com/Roshanjossey/first-contributions).
-Se estiver se sentindo especialmente caridoso, siga [Roshan](https://roshanjossey.github.io/) no
-[Twitter](https://twitter.com/sudo__bangbang) e
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
