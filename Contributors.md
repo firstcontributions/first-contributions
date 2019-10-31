@@ -18445,6 +18445,7 @@ Shenyi Amand
 - [Samuel Lamb] (https://github.com/SentientSam)
 - [WesleyCSJ] (https://github.com/wesleycsj)
 - [linsuri] (https://github.com/linsuri)
+- [Loreto Gutierrez Jr](https://github.com/loretogutierrezjr)
 - [Paulo Carvalho](https://github.com/paulonbc)
 - [Kaffeetasse](https://github.com/kaffeetasse)
 - [nikasxirtla] (https://github.com/nikasxirtla)
