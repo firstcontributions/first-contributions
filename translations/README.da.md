@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -11,46 +11,6 @@ Det er svært. Det er altid svært når det er første gang. Specielt hvis man s
 At læse artikler og se video guides hjælper, men hvad er bedre end at bruge det i praksis? Dette projekt håber at kunne tilbyde vejledning og gøre det overkommeligt for alle at lave deres første open-source bidrag.
 
 #### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer]( #tutorials-using-other-tools )*
-
-#### *Læs dette i [andre sprog](Translations.md).*
-
-[🇮🇳](README.hi.md)
-[🇲🇲](README.mm_unicode.md)
-[🇮🇩](README.id.md)
-[🇫🇷](README.fr.md)
-[🇪🇸](README.es.md)
-[<img src="../assets/catalan1.png" width="22">](README.ca.md)
-[🇳🇱](README.nl.md)
-[🇱🇹](README.lt.md)
-[🇷🇺](README.ru.md)
-[🇯🇵](README.ja.md)
-[🇻🇳](README.vn.md)
-[🇵🇱](README.pl.md)
-[🇮🇷](README.fa.md)
-[🇮🇷](README.fa.en.md)
-[🇰🇷 🇰🇵](README.ko.md)
-[🇩🇪](README.de.md)
-[🇩🇰](README.da.md)
-[🇨🇳](README.chs.md)
-[🇹🇼](README.cht.md)
-[🇬🇷](README.gr.md)
-[🇪🇬](README.eg.md)
-[🇸🇦](README.ar.md)
-[🇺🇦](README.ua.md)
-[🇧🇷](README.pt_br.md)
-[🇵🇹](README.pt-pt.md)
-[🇮🇹](README.it.md)
-[🇹🇭](README.th.md)
-[🏴](README.gl.md)
-[🇵🇰](README.ur.md)
-[:bangladesh:](README.bn.md)
-[🇲🇩 🇷🇴](README.ro.md)
-[🇹🇷](README.tr.md)
-[🇸🇪](README.se.md)
-[:slovenia:](README.sl.md)
-[🇮🇱](README.hb.md)
-[<img src="../assets/pirate.png" width="22">](README.en-pirate.md)
-
 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
@@ -158,13 +118,8 @@ Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret 
 
 ## Guides med andre værktøjer
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-## Selv-forfremmelse
 
-Hvis du kan lide dette projekt så 'star' os på [GitHub](https://github.com/Roshanjossey/first-contributions).
-Føler du dig ekstra generøs kan du følge os på [Roshan](https://roshanjossey.github.io/), på [Twitter](https://twitter.com/sudo__bangbang) og på [GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="https://github.com/firstcontributions/first-contributions/raw/master/assets/saasgrids-banner.png" width="500"></a>
