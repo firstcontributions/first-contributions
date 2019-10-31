@@ -13,6 +13,7 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
+- [Laura Lara]  
 - [rupesh] (https://github.com/rupesh8601)
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
