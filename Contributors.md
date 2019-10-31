@@ -1133,6 +1133,7 @@ notForProffitt
 - [verneri]
 - [Natasha]
 - [Ndirangu]
+- [mischha] (https://github.com/mischha)
 - [Cenoon](https://github.com/cenoon/)
 - [Prateek Aggarwal](https://github.com/Prat99)
 - [Jim Walker](https://github.com/jimwalker)
