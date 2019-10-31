@@ -18473,6 +18473,7 @@ Shenyi Amand
 - [jarofblueberries] (https://github.com/jarofblueberries)
 - [tobyych] (https://github.com/tobyych)
 - [Vishnu S Reddy](https://github.com/Vishnu-S-Reddy)
+- [Marysol Losada](https://github.com/mlosa001)
 - [Tiago RS Melo](https://github.com/trsmelo)
 - [Jithu Biju](https://github.com/achachan7)
 - [Rafly Irham](https://github.com/raflyirham)
