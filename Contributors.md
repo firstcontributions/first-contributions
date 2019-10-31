@@ -7913,6 +7913,7 @@ Aman Panjwani
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
 - [Charlie Chew](https://github.com/s120472006)
+- [Himanshu Kumar](https://github.com/crimson-red)
 - [Chiranjeevi Hegde](https://github.com/chiru091096)
 - [Mariah Buccat](https://github.com/mariahbuccat)
 - [Varun Nair](https://github.com/VarunDelft)
