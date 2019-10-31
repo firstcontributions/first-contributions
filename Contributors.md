@@ -1323,6 +1323,7 @@
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 - [Daniel Osiney](https://github.com/dharnnie)
 - [Gilliano Menezes](https://github.com/gillianomenezes)
+- [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Alex Weininger](https://github.com/alexweininger)
 - [Sureshkumar Subramani](https://github.com/sureshjsweb)
 - [Mikki Mesfin](https://github.com/mikkimesfin)
