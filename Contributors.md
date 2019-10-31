@@ -148,6 +148,7 @@
 - [Abhishek Sharma](https://github.com/abhi99-lang)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
+- [Colton Shaheen](https://github.com/coltonshaheen)
 - [Shahin Katebi](https://github.com/shaahin)
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
