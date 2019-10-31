@@ -1,5 +1,5 @@
  Contributors
--[Gregory El Bajoury] (https://github.com/Injechta)
+-[Gregory El Bajoury](https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
