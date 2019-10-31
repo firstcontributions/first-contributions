@@ -882,6 +882,7 @@ notForProffitt
 - [Sebika] (https://github.com/sebika)
 - [Gajraj Singh] (https://github.com/gajrajgchouhan)
 - [Loch] (https://github.com/disrute)
+- [Divyansh Kaushik] (https://github.com/kaushikdivyansh)
 - [Daniel Cherry](https://github.com/cherrydaniel)
 - [Ritik Kanotra] (https://githib.com/ritikkanotra)
 - [Dev-Akash] (https://github.com/dev-akash)
