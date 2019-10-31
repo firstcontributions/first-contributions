@@ -967,6 +967,7 @@ notForProffitt
 - [Anastasis Grammenos](https://github.com/angrammenos97)
 - [Shakeel Iddrisu](https://github.com/shakeel30)
 - [Amandeep Rikhi] (https://github.com/amandeeprikhi) (https://amandeeprikhi.me/)
+- [Will Downing] (https://github.com/willy-bee-down)
 - [Shakeel risu](https://github.com/shakeel30)
 - [Wadgma Masab] (https://github.com/Wadgma)
 - [Patrick Haberern](https://github.com/Habernet)
