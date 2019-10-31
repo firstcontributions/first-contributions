@@ -6,7 +6,7 @@
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Gavin OLeary]
-- [Aditya Gupta] (https://github.com/6aditya8)
+- [Aditya Gupta](https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
