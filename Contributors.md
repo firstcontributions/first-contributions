@@ -12,6 +12,7 @@
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
+- [Matt Bear](https://github.com/mattdotam)
 - Eric Githinji
 - [rupesh] (https://github.com/rupesh8601)
 - [Arjun RC] (https://github.com/arjunrc143
