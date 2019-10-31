@@ -56,6 +56,7 @@
 - [Mez Charney] (https://github.com/mezzolite)
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
+- [Beakal](https://github.com/ShegerKing)
 - [Thrishna](https://github.com/thrishna-me)
 - [Snehit Mishra] (https://github.com/snehit31)
 - [sidiousvic] (https://github.com/sidiousvic)
