@@ -8457,6 +8457,7 @@ Aman Panjwani
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
 - [Jeanne Lee](https://github.com/leejeannes)
 - [Franciscus Agnew](https://github.com/franciscusagnew)
+- [Joseph Whiunui](https://github.com/Joseph-Whiunui)
 - [Alexis Salcedo](https://github.com/alexisss1928)
 - [tonezz](https://github.com/tonezz)
 - [Tomas Dornell](https://github.com/tomas302)
