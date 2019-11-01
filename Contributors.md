@@ -11133,6 +11133,7 @@ macdara-dev
 - [Erlinis Quintana](https://github.com/erlinis)
 - [Scumpser](https://github.com/djay2815)
 - [Messiah](https://github.com/Messiahhh)
+- [Lean](https://github.com/leandroczo)
 - [Scott](https://github.com/underwaterlad)
 - [Dan](https://github.com/Daruso)
 - [Brian Do](https://github.com/briancldo)
