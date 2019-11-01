@@ -5843,6 +5843,7 @@ Aman Panjwani
 - [tobinatore](https://github.com/tobinatore/)
 - [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
+- [Lakshay Mehra] (https://github.com/lakshay365)
 - [Dhiraj Kalita](https://github.com/dhrjklt)
 - [Mayank Kamboj](http://github.com/mayankkamboj47)
 - [Maaz Jawaid](https://github.com/maaz28)
