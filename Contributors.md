@@ -18496,3 +18496,4 @@ Shenyi Amand
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [BlackSou](https://github.com/BlackSou)
 - [AbhishekSukhwal](https://github.com/sukhwal13)
+- [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
