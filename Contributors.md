@@ -18485,3 +18485,4 @@ Shenyi Amand
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [BlackSou](https://github.com/BlackSou)
+- [JP Baptista](https://github.com/johnnybaptista)
