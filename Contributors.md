@@ -51,6 +51,7 @@
 - [Gabe Widmer](https://github.com/gabedude)
 - [liquidxd](https://github.com/liquidxd)
 - [alaké](https://github.com/alayeet)
+- [rbejot](https://github.com/rbejot)
 - [syd bailey](https://github.com/sydbails)
 - [Cenfal](https://github.com/cenfal)
 - [Teresa] (https://github.com/teresa622)
