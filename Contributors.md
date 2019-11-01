@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -12930,6 +12930,7 @@ macdara-dev
 - [Tasa Lorenz](https://github.com/tloBare)
 - [Mark Li](https://github.com/Houwang123)
 - [Ihor Hrybeniuk](https://github.com/hrybeniuk)
+- [Zatox11](https://github.com/Zatox11)
 - [CH Strydom](https://github.com/lsch23)
 - [Sam Peinado](https://github.com/sampeinado)
 - [Grant Virtue](https://github.com/VirtualGrant)
