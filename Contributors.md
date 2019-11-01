@@ -71,6 +71,7 @@
 - [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
+- [Gal](https://github.com/galrotenberg3)
 - [Rafael Cruz](https://github.com/ralph1786)
 - [Maryam Allahverdi] (https://github.com/maryam1986)
 - [Daniel Ogenrwot](https://github.com/danielogen)
