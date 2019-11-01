@@ -241,6 +241,7 @@
 - [Huzaifa](https://github.com/hzk120)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [logistic-bomsiet](https://github.com/logistic-bot)
+- [K-Z](https://github.com/K-zhao)
 - [Emery Weist] (https://github.com/EBWeist)
 - [Zeeshan Ali] (https://github.com/zeesh-ali)
 - [Mahima Sachdeva] (https://github.com/mahi397/)
