@@ -33,6 +33,7 @@
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
 - [Danh Vo]
+- [Krishan Jethwa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Vishal]
 - [Manny102030]
