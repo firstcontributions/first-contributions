@@ -6105,6 +6105,7 @@ Aman Panjwani
 - [Grzmt](https://github.com/Grzmt)
 - Jeaguy
 - William Nicholson
+- [Valentin Mirchev](https://github.com/valentinMirchev)
 - [Courtney Adams](https://github.com/cadams8238)
 - [Joseph Antony](https://github.com/Joeavaikath)
 - [Joseph Crandal](https://github.com/crandalj)
