@@ -39,6 +39,7 @@
 - [Vishal]
 - [Manny102030]
 - [Jessica Santos]
+- [Lyncoln Mauricio](https://github.com/lyncolnms)
 - [fcbayernxi]
 - [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
