@@ -55,6 +55,7 @@
 - [xFabifont](https://github.com/xFabifont)
 - [Gabe Widmer](https://github.com/gabedude)
 - [liquidxd](https://github.com/liquidxd)
+- [Christos Petalotis](https://github.com/ChrisPetalotis)
 - [alaké](https://github.com/alayeet)
 - [rbejot](https://github.com/rbejot)
 - [syd bailey](https://github.com/sydbails)
