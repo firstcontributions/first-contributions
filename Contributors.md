@@ -18514,3 +18514,4 @@ Shenyi Amand
 - [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
 - [Andrew Adiletta] (https://github.com/andrewadiletta)
 - Carina Vargas
+- [Aryan Kukreja] (https://github.com/ABusyProgrammer)
