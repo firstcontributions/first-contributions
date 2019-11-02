@@ -1166,6 +1166,7 @@ notForProffitt
 - [Ramona Burger](https://github.com/rmnbrgr)
 - [Dmitri Klassen](https://github.com/klassendmitri)
 - [Ekin Eren](https://github.com/EkinEren)
+- [Thilakshan Arulnesan](https://github.com/ThilakshanArulnesan)
 - [Karthik Venkataramani](https://github.com/kvenkman)
 - [Nick Reisenauer](https://github.com/nickreisenauer)
 - [Tanner Zigrang](https://github.com/tannerzigrang)
