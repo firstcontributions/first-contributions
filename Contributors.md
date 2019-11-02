@@ -15,6 +15,7 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
+- [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
 - [Amey Kulkarni](https://github.com/ameykulkarni25dec)
 - [Arjun RC] (https://github.com/arjunrc143
