@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -5126,6 +5126,7 @@ Stephan Sharpe
 - [Pawan Jada](https://github.com/pawankjada)
 - [blank15](https://github.com/blank15)
 - [gegdd](https://github.com/gegdd)
+- [leopoldwe](https://github.com/leopoldwe)
 - [blawle](https://github.com/blawle)
 - [Raees Nazeer](https://github.com/raeesnazeer)
 - [Andy Mahoney](https://github.com/BoneKing)
