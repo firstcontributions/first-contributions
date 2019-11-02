@@ -1611,6 +1611,7 @@ Haris Siddiqui
 - [ulsoe05](https://github.com/ulsoe05)
 - [Aman Jain](https://github.com/amnjain)
 - [Alkator-Nori](https://github.com/nais000k)
+- [Audelio Lujan](https://github.com/ajd01)
 - [Omid Nassir](https://github.com/rissandimo)
 - [Milind Brahme](https://github.com/milind-brahme)
 - [rqj](https://github.com/rqj)
