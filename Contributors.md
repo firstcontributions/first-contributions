@@ -18515,3 +18515,4 @@ Shenyi Amand
 - [Andrew Adiletta] (https://github.com/andrewadiletta)
 - Carina Vargas
 - [Aryan Kukreja] (https://github.com/ABusyProgrammer)
+- [Marensius Bae Pettersen] (https://github.com/melanki)
