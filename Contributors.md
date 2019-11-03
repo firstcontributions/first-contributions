@@ -6935,6 +6935,7 @@ Aman Panjwani
 - [Ubaid Isaev](https://github.com/ubaidullah05)
 - [Marie Rogava](https://github.com/marierog)
 - [Erwan Néel](https://github.com/erwan-neel)
+- [Andrei Dombrovschi](https://github.com/Dombrovschi)
 - [Sreerej](https://github.com/ssreerej)
 - [blole](https://github.com/dumblole)
 - [gcem](https://github.com/gcem)
