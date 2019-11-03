@@ -33,6 +33,7 @@
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Brandi Cotton] (https://github.com/bcotton52/)
+- [Ekaterina Kharitonova] (https://github.com/cherrywins)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
 - [Danh Vo]
