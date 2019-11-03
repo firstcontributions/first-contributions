@@ -12133,6 +12133,7 @@ macdara-dev
 - [Renilson Picinin](https://github.com/renilsonpicinin)
 - [Daniel Nascimento](https://github.com/DNascto/)
 - [Josiel](https://github.com/JosielFaleiros)
+- [Hong Jian Lim](https://github.com/HJ29)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Gabriel Vitor Silva de Carli](https://github.com/GabrielDeCarli)
 - [Roberto Guimaraes junior](https://github.com/robertoutfpr)
