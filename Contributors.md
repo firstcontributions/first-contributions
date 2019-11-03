@@ -121,6 +121,7 @@
 - [Neha] (https://github.com/IamNeha99)
 - [Miji Cherian] (https://github.com/mijicherian)
 - [webbdays](https://github.com/webbdays)
+- [Kari Larson](https://github.com/KJLarson)
 - [Akash Nagaraj](https://github.com/grassknoted)
 - [SodaLover](https://github.com/SodaLover)
 - [charlottedestrait](https://github.com/charlottedestrait) 
