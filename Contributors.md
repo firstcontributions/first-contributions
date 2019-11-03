@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -11351,6 +11351,7 @@ macdara-dev
 - [Nick](https://github.com/nickn10)
 - [Travis Terrell](https://www.github.com/travisterrell)
 - [Cristian Rodriguez](https://github.com/crisr10)
+- [Kunal Jain]
 - [Aman Jain](https://github.com/jainaman1398)
 - [Nathan Lin](https://github.com/nlin24)
 - [Humbl3Stud3nt](https://github.com/Humbl3Stud3nt)
