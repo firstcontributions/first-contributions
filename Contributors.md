@@ -7,6 +7,7 @@
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Gavin OLeary]
+- [Richard Guerre] (https://github.com/richardguerre)
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Francesc Pons] (https://github.com/fponsar)
@@ -84,7 +85,7 @@
 - [Shreyansh Sharma](https://github.com/ShreyanshSharma21)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
-- [Olaf Minkowicz](https://github.com/RookTKO) 
+- [Olaf Minkowicz](https://github.com/RookTKO)
 - [Prasad Chaudhari](https://github.com/Prasad-Chaudhari)
 - [Rod Galdeano] (https://github.com/rodgaldeano)
 - [Carl Yoder](https://github.com/Calasada)
@@ -123,7 +124,7 @@
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
 - [SodaLover](https://github.com/SodaLover)
-- [charlottedestrait](https://github.com/charlottedestrait) 
+- [charlottedestrait](https://github.com/charlottedestrait)
 - [Nicholas Menezes](https://github.com/nicholasmenez)
 - [Erika Vinette] (https://github.com/erik0re)
 - [Mayank Shrivastava](https://github.com/MayankShrivastava17)
@@ -135,8 +136,8 @@
 - [Lindsay Groves](https://github.com/linzgroves)
 - [Steven Thorne](https://github.com/steventhorne)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
-- [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
-- [Ankith B V](https://github.com/Ankithboggaram) 
+- [sheetal dadhewal](https://github.com/sheetal-dadhewal)
+- [Ankith B V](https://github.com/Ankithboggaram)
 - [Kajal](https://github.com/kajal-11)
 - [Nilesh Tiwari](https://github.com/nt205-tech)
 - [Mohammad kaif](https://github.com/thekaif7)
@@ -145,13 +146,13 @@
 - [Renju Jose](https://github.com/renjujv)
 - [netrunner1303](https://github.com/netrunner1303)
 - [glemoss] (https://github.com/glemoss)
-- [Abdul Haq Shah](https://github.com/abdulhaqshah) 
+- [Abdul Haq Shah](https://github.com/abdulhaqshah)
 - [Santrupta Mishra](https://github.com/ChickenTheNoob)
 - [Dominic](https://github.com/minidoc/first-contributions)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
 - [Shantanu Bhosale](https://github.com/shantanu96)
 - [Santosh Vasisht](https://github.com/santosh50)
-- [Eirik Fladmark](https://github.com/Fladmark) 
+- [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Javier Acosta](https://github.com/AxlTech)
 - [Alberto Kiramoto] (https://github.com/akiramot)
@@ -209,7 +210,7 @@
 - [Kendra Moyars](https://github.com/kendramoyars)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
 - [Ignatius] (https://github.com/ignatiusdork)
-- [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Sampath Kumar Bidre](https://github.com/bidresam)
 - [Rohan045](https://github.com/1906045@kiit.ac.in)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Jean Vieuxtemps] (https://github.com/JeanVt)
@@ -230,7 +231,7 @@
 - [Maxime Maigret] (https://github.com/MaximeMaigret)
 - [Yadhukrishnan P] (https://github.com/yk-2310)
 - [Lara Salam] (https://github.com/larasalam)
-- GTExplorer 
+- GTExplorer
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Lucas Barreto](https://github.com/lucasmfb)
 - [Vasanth Ganesh](https://github.com/v4vasanth)
@@ -244,7 +245,7 @@
 - [Lyth Brown] (https://github.com/Lyth-B)
 - [Alan Gordon] (https://github.com/alangordon)
 - [QiXing Hong] (https://github.com/QI-XING)
-- [Samya] 
+- [Samya]
 - [Andy Davies]
 - [Jesse Pham] (https://github.com/JessePham)
 - [Billy Liu] (https://github.com/Billy-L)
@@ -1674,7 +1675,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
@@ -1971,7 +1972,7 @@ Kebana Modise
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Shubham Shah](https://github.com/shubham2652)
@@ -18003,7 +18004,7 @@ Mário Baltazar
 - [Jeg Garcia](https://github.com/JJEEGG2211)
 - [Michael Peters](https://github.com/michaelpeterscbus)
 - [Dhruv Arya](https://github.com/dhruvarya)
-- [Anuj Raj](https://github.com/anujraj2903) 
+- [Anuj Raj](https://github.com/anujraj2903)
 - [Lorena Toscano](https://github.com/lorenatoscano)
 - [Ramya CP](https://github.com/RAMYA-CP)
 - [Anahi](http://github.com/ayyoanahi)
