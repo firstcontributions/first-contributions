@@ -18521,3 +18521,4 @@ Shenyi Amand
 - Carina Vargas
 - [Aryan Kukreja] (https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen] (https://github.com/melanki)
+- [Ignacio Aguirre](https://github.com/Ignacio1996)
