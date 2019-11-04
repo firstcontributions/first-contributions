@@ -18533,3 +18533,4 @@ Shenyi Amand
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
 - B B Susheel Kumar (http://bbsusheelkumar.github.io)
 - [Laura-Ella Robinson] (https://github.com/Laura-Ella)
+- [Jimmy Nagy] (https://github.com/JNagy15)
