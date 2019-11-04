@@ -7,6 +7,7 @@
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Gavin OLeary]
+- [Mark Mellor]
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Francesc Pons] (https://github.com/fponsar)
