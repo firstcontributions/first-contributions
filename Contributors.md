@@ -7774,6 +7774,7 @@ Aman Panjwani
 - [Prissad](https://github.com/Prissad)
 - Pietil
 - Pietiweewl
+- [leoninerising](https://github.com/leoninerising)
 - [TreliaGT](https://github.com/TreliaGT)
 - nimish
 - [Ed Gargan](https://github.com/egargan)
