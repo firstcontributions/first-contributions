@@ -74,6 +74,7 @@
 - [Mez Charney] (https://github.com/mezzolite)
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
+- [Neto S' Ana](https://github.com/Neto-SantAna)
 - [Thrishna](https://github.com/thrishna-me)
 - [Snehit Mishra] (https://github.com/snehit31)
 - [sidiousvic] (https://github.com/sidiousvic)
