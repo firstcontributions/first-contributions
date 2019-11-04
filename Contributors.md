@@ -9,6 +9,7 @@
 - [tannedthighs]
 - [Gavin OLeary]
 - [Mark Mellor]
+- [Paweł Guzik]
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Francesc Pons] (https://github.com/fponsar)
