@@ -60,6 +60,7 @@
 - [Samriddhi Jain] (https://github.com/sammjainn)
 - [Andres Delgado] (https://github.com/abathar)
 - [Samiksha Koul] (https://github.com/skaul15)
+- [Carlos Ramirez] (https://github.com/carap)
 - [Supreeth] (https://github.com/suprth)
 - [xFabifont](https://github.com/xFabifont)
 - [Gabe Widmer](https://github.com/gabedude)
