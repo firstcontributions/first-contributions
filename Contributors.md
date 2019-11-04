@@ -3,6 +3,7 @@
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
+- [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
@@ -7773,6 +7774,7 @@ Aman Panjwani
 - [Prissad](https://github.com/Prissad)
 - Pietil
 - Pietiweewl
+- [leoninerising](https://github.com/leoninerising)
 - [TreliaGT](https://github.com/TreliaGT)
 - nimish
 - [Ed Gargan](https://github.com/egargan)
@@ -14494,6 +14496,7 @@ macdara-dev
 - [AboodMadridista](https://github.com/AboodMadridista)
 - [Amit Ambardekar](https://github.com/amitamb)
 - [Nicholas Eng](https://github.com/Nicholas-Eng)
+- [Gabriel Ramaldes](https://github.com/gabrielramaldes)
 - [Raghav Jain](https://raghav.jain)
 - [Zeeshan](https://github.com/Zeeshan009)
 - [Alan Chan](https://github.com/AlinChindea)
@@ -18534,4 +18537,8 @@ Shenyi Amand
 - B B Susheel Kumar (http://bbsusheelkumar.github.io)
 - [Laura-Ella Robinson] (https://github.com/Laura-Ella)
 - [Jimmy Nagy] (https://github.com/JNagy15)
+
 -[Prashant Bhat](https://github.com/prashantbhat84)
+=======
+- [Harfang88](https://github.com/Harfang88)
+
