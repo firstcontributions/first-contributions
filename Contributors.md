@@ -870,6 +870,7 @@ notForProffitt
 - [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe] (https://github.com/marthasharpe)
 - [Syed Modassir Ali] (https://github.com/gr33nm0nk2802)
+- [Ahmed Walid Fathy] (https://github.com/lido22)
 - [Sami Shata] (https://github.com/samicodesit)
 - [Santhosh Kumar] (https://github.com/santhosh-ch)
 - [Carlos Rorato] (https://github.com/carlinhosxxp)
