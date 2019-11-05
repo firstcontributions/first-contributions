@@ -28,6 +28,7 @@
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
+- [Sara Clements] (https://github.com/SaraClements)
 - [ishanExtreme](https://github.com/ishanExtreme)
 - [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
