@@ -204,6 +204,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇫🇷](translations/README.fr.md)
 [🏴](translations/README.gl.md)
 [🇬🇷](translations/README.gr.md)
+[🇭🇺](translations/README.hu.md)
 [🇮🇩](translations/README.id.md)
 [🇮🇱](translations/README.hb.md) 
 [🇮🇳](translations/Translations.md)
