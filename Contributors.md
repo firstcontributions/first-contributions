@@ -628,6 +628,7 @@ Joseph Tran
 - [Johan Pimentel] (https://github.com/zoomstereo)
 - [Nick Vashon](https://gitbub.com/nvashon)
 - [Jayant Khandelwal](https://github.com/Jackent2B)
+- [Thomas Ledoux](https://github.com/thomasledoux1)
 - [Anshu Jalan](https://github.com/AnshuJalan)
 - [Itumeleng Masuluke](https://github.com/MasulukeI)
 - [ECP] (https://github.com/love-and-logic)
