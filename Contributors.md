@@ -3341,6 +3341,7 @@ Stephan Sharpe
 - [Shachaf Zohar](https://github.com/shafzhr)
 - [Robert Vo](https://github.com/robertvo824)
 - [Mehran Koushkebaghi](https://github.com/Mehrank64)
+- [Nynaeva Almera](https://github.com/NynaevaAlmera)
 - [Cerebral Nomad](https://github.com/cerebralnomad)
 - [Joey Clark](https://github.com/coolrockerjoey)
 - [Mateusz Fejfer](https://github.com/MatttyFej)
