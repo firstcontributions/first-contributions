@@ -7983,6 +7983,7 @@ Aman Panjwani
 - [Thibault d'Aboville](https://github.com/ThibaultDBVLL)
 - [Mike Smith](https://github.com/MIkesmith415)
 - [Luis Fernando Robles](https://github.com/lfr4704)
+- [Angel Maldonado]
 - [Andy Yao](https://github.com/atyao)
 - [Ellie Cherrill](https://github.com/elliecherrill)
 - [Chris Page](https://github.com/pageyboy)
