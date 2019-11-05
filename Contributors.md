@@ -7537,6 +7537,7 @@ Aman Panjwani
 - [Randika Niroshan](https://github.com/RandikaNiroshan)
 - [Casey Price](https://github.com/casprice)
 - [Stephan Lyons](https://github.com/LyonsStephan/)
+- [Pete Griffin] (https://github.com/griffinpf)
 - [Leonardo Silvestre](https://github.com/Khanatoshs)
 - [Prajwal Shetty](https://github.com/Prajwal041)
 - [Evgeny Lahav](https://github.com/evgenylahav)
