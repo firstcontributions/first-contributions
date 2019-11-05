@@ -118,6 +118,7 @@
 - [Raul Canul](https://github.com/RaulECT)
 - [Bhavya Sharma]
 - [Bhavya Libera]
+- [Suryanshu Singh]
 - [David Besson] (https://github.com/dhbesson)
 - [Ajit Singh] (https://github.com/ajitsinghkaler)
 - [Shri](https://github.com/skt1598)
