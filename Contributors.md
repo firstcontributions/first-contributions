@@ -18551,3 +18551,4 @@ Shenyi Amand
 - [Laura-Ella Robinson] (https://github.com/Laura-Ella)
 - [Jimmy Nagy] (https://github.com/JNagy15)
 - [Harfang88](https://github.com/Harfang88)
+- [Thariq Alfa](https://github.com/alfaben12)
