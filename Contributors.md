@@ -10926,6 +10926,7 @@ macdara-dev
 - [Matheus Battirola](https://github.com/mcbattirola)
 - [Daniel Little](https://github.com/LittleDan9)
 - [Ashwin Soni](https://github.com/ashwinsoni)
+- [Cameron Wold](https://github.com/kojurama)
 - [Wasiq Noor](https://github.com/wasiqnoorahmad)
 - [Steven Te](https://github.com/testeven152)
 - [Kanishk Kumar](https://github.com/kanishk509)
