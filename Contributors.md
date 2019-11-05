@@ -1855,6 +1855,7 @@ Kebana Modise
 - Bienhuels B.
 - Evangelos Mag.
 - Abhijeet Ghosh
+- [Taylor Waddel](https://github.com/tmwaddel)
 - Ahmad
 - Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
