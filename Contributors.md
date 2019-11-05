@@ -8,6 +8,7 @@
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Gavin OLeary]
+- [Mohammad Shahraz Aslam]
 [Ryan Madlener] (https:://github.com/ryanmadlener)
 - [Mark Mellor]
 - [Paweł Guzik]
