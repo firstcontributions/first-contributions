@@ -1,7 +1,8 @@
-﻿ Contributors
--[Gregory El Bajoury] (https://github.com/Injechta)
--[Rob Harman]
--[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
+ Contributors
+- [Gregory El Bajoury] (https://github.com/Injechta)
+- [Yingbo Wang](https://github.com/wangyingbo)
+- [Rob Harman]
+- [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
