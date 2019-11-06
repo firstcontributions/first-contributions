@@ -57,6 +57,7 @@
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Vishal]
 - [Manny102030]
+- [Sandro Sp]
 - [Jessica Santos]
 - [Lyncoln Mauricio](https://github.com/lyncolnms)
 - [fcbayernxi]
