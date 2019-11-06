@@ -18526,6 +18526,7 @@ Shenyi Amand
 - [Kaffeetasse](https://github.com/kaffeetasse)
 - [nikasxirtla] (https://github.com/nikasxirtla)
 - [bianavic] (https://github.com/bianavic)
+- [Anestis Christidis] (https://github.com/Fjolfrin)
 - [zhhjoseph] (https://github.com/zhhjoseph)
 - [BEM] (https://github.com/BrunoEMendes)
 - SansClue
@@ -18578,3 +18579,4 @@ Shenyi Amand
 - [Daniyal Yasin](https://github.com/daniyalyasin93)
 - [Sheena]
 - [Amol Palshetkar](https://github.com/amolyp)
+
