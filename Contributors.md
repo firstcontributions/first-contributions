@@ -7,6 +7,7 @@
 - [Kaushik](https://github.com/kk77777)
 - [James Westra]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
+- [Théo Bonnet] (https://github.com/theo42500)
 - [tannedthighs]
 - [Gavin OLeary]
 - [Mohammad Shahraz Aslam]
