@@ -10646,6 +10646,7 @@ macdara-dev
 - Himanshu
 - [Justin Juno](https://github.com/junocodes)
 - [Peter Turner](https://github.com/Syntax753)
+- [Drew Yost](https://github.com/dsyost)
 - [this-is-you](https://github.com/this-is-you)
 - [Abang Farhan](https://github.com/abangfarhan)
 - [Devika Krishnadas](https://github.com/devikakrishnadas)
