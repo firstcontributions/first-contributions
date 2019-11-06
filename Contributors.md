@@ -18509,6 +18509,7 @@ Shenyi Amand
 - [Juan Sergio Buenviaje] (https://github/lockjio/)
 - [Dimas Nurhilman] (https://github.com/Dimzt)
 - [Achyuth R] (https://github.com/Achyuth-R)
+- [Fredpwol](https://github.com/Fredpwol)
 - [Moises Trigueros] (https://github.com/MoisesTR)
 - [PS Dash] (https://github.com/CopSDeR)
 - [Aivengoe] (https://github.com/Aivengoe)
