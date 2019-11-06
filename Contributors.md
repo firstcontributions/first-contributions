@@ -72,6 +72,7 @@
 - [Samiksha Koul] (https://github.com/skaul15)
 - [Carlos Ramirez] (https://github.com/carap)
 - [Supreeth] (https://github.com/suprth)
+- [Gabriel Rodriguez] (https://github.com/gabrielrodriguezg)
 - [xFabifont](https://github.com/xFabifont)
 - [Gabe Widmer](https://github.com/gabedude)
 - [liquidxd](https://github.com/liquidxd)
