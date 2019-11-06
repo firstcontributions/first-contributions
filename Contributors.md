@@ -10,8 +10,8 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [tannedthighs]
 - [Gavin OLeary]
+- [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
-[Ryan Madlener] (https:://github.com/ryanmadlener)
 - [Mark Mellor]
 - [Paweł Guzik]
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
