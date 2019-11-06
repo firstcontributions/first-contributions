@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -37,6 +37,7 @@
 - [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
 - [Kevin] (https://github.com/Altenmann)
+- [Adam] (https://github.com/BigRed77/]
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
