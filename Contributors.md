@@ -54,6 +54,7 @@
 - [Danh Vo]
 - [Krishan Jethwa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
+- [Andrew Attard](https://github.com/attard-andrew)
 - [Vishal]
 - [Manny102030]
 - [Jessica Santos]
