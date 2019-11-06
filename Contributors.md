@@ -18563,6 +18563,7 @@ Shenyi Amand
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
+- [Nikola Tomasevic] (https://github.com/niktomash)
 - [BlackSou](https://github.com/BlackSou)
 - [AbhishekSukhwal](https://github.com/sukhwal13)
 - [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
@@ -18581,3 +18582,4 @@ Shenyi Amand
 - [Simvolick] (https://github.com/Simvolick)
 - [Amol Palshetkar](https://github.com/amolyp)
 - [felipeavl](https://github.com/felipeavl)
+
