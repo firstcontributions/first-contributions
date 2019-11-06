@@ -14,6 +14,7 @@
 - [Mohammad Shahraz Aslam]
 - [Mark Mellor]
 - [Paweł Guzik]
+- [Azron Brian] (https://github.com/azronb)
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Francesc Pons] (https://github.com/fponsar)
