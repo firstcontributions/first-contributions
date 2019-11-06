@@ -18578,5 +18578,6 @@ Shenyi Amand
 - [Thariq Alfa](https://github.com/alfaben12)
 - [Daniyal Yasin](https://github.com/daniyalyasin93)
 - [Sheena]
+- [Simvolick] (https://github.com/Simvolick)
 - [Amol Palshetkar](https://github.com/amolyp)
 - [felipeavl](https://github.com/felipeavl)
