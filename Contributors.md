@@ -57,6 +57,7 @@
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Vishal]
 - [Manny102030]
+- [Sandro Sp]
 - [Jessica Santos]
 - [Lyncoln Mauricio](https://github.com/lyncolnms)
 - [fcbayernxi]
@@ -18563,6 +18564,7 @@ Shenyi Amand
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
+- [Nikola Tomasevic] (https://github.com/niktomash)
 - [BlackSou](https://github.com/BlackSou)
 - [AbhishekSukhwal](https://github.com/sukhwal13)
 - [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
@@ -18578,5 +18580,7 @@ Shenyi Amand
 - [Thariq Alfa](https://github.com/alfaben12)
 - [Daniyal Yasin](https://github.com/daniyalyasin93)
 - [Sheena]
+- [Simvolick] (https://github.com/Simvolick)
 - [Amol Palshetkar](https://github.com/amolyp)
+- [felipeavl](https://github.com/felipeavl)
 
