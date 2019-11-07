@@ -18577,7 +18577,7 @@ Shenyi Amand
 - [Aryan Kukreja] (https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen] (https://github.com/melanki)
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
-- B B Susheel Kumar (http://bbsusheelkumar.github.io)
+- [B B Susheel Kumar](http://bbsusheelkumar.github.io)
 - [Laura-Ella Robinson] (https://github.com/Laura-Ella)
 - [Jimmy Nagy] (https://github.com/JNagy15)
 - [Harfang88](https://github.com/Harfang88)
