@@ -71,6 +71,7 @@
 - [fcbayernxi]
 - [Alex Moreira](https://github.com/alexbmoreira)
 - [Steve Frenzel](https://github.com/stevefrenzel)
+o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf le mardi
 - [Marly]
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
 - [Anjali B N] (https://github.com/AnjaliBN)
