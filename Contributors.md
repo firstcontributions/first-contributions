@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -10,6 +10,7 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [tannedthighs]
 - [Gavin OLeary]
+- [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
 - [Mark Mellor]
