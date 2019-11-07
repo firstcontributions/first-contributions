@@ -10,6 +10,7 @@
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [tannedthighs]
+- [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
