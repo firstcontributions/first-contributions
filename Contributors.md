@@ -26,6 +26,7 @@
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
+- [Daniela Arenas]
 - [Khulan Myagmardorj] (https://github.com/myagmar2)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
