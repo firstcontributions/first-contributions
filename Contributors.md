@@ -12,6 +12,7 @@
 - [tannedthighs]
 - [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
+- [Andrew Dunkel] (https://github.com/andrewdunkel)
 - [AdeptSlice](https://github.com/AdeptSlice)
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
