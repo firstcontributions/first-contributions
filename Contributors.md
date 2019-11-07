@@ -671,6 +671,7 @@ notForProffitt
 - [Sanghamitra Biswas](https://github.com/sangy987)
 - [Enrique Galindo] (https://github.com/EnriqueGalindo)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
+- [Yudafikra Andika](https://github.com/yudfkra)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
 - [Anshdeep Singh](https://github.com/ansh94)
 - [daveedavee]
