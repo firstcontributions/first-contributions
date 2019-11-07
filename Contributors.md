@@ -12,6 +12,7 @@
 - [tannedthighs]
 - [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
+- [AdeptSlice](https://github.com/AdeptSlice)
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
@@ -18591,4 +18592,3 @@ rehan
 - [Simvolick] (https://github.com/Simvolick)
 - [Amol Palshetkar](https://github.com/amolyp)
 - [felipeavl](https://github.com/felipeavl)
-
