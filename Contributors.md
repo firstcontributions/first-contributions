@@ -53,6 +53,7 @@
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
 - [Ted Tran](https://github.com/TedTran2019)
+- [Giri Gopalan](https://github.com/ggopalan42)
 - [Danh Vo]
 - [Krishan Jethwa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
