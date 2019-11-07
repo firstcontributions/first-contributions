@@ -244,6 +244,7 @@
 - [Jean Vieuxtemps] (https://github.com/JeanVt)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Rich W](https://github.com/RichFoo)
+- [Édio Cerati Neto](https://github.com/darthHunterous)
 - [Racim Righi](https://github.com/RacimRgh)
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
 - [Prashant Bhat](https://github.com/bhatprashant)
