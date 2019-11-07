@@ -998,6 +998,7 @@ notForProffitt
 - [Shubham Gupta](https://github.com/shubham030)
 - [Prakhar Singhal] (https://github.com/Ghoul2077)
 - [Govind Kartha] (https://github.com/govkartha)
+- [Uğurcan Akkök](https://github.com/UgurcanAkkok)
 - [Anna Levenberg](https://github.com/alevenberg)
 - [Renee Davis](https://github.com/Rooster1915)
 - [Fiske Schijlen](https://github.com/fistaco)
