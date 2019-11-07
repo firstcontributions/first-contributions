@@ -18,6 +18,7 @@ Jeremy Sipple
 - [Jason Cole](https://github.com/jaymcole)
 - [Udit Jain](https://github.com/udit01)
 - [BugDiver](https://github.com/bugdiver)
+ water
 - [Asiedu Brempong](https://github.com/asiedubrempong)
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - [Cody Garrett](https://github.com/CsCody)
