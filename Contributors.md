@@ -59,6 +59,7 @@
 - [Ted Tran](https://github.com/TedTran2019)
 - [Giri Gopalan](https://github.com/ggopalan42)
 - [Danh Vo]
+- [Chetan Kini](https://github.com/cdkini/)
 - [Krishan Jethwa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Andrew Attard](https://github.com/attard-andrew)
