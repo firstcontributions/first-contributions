@@ -10,6 +10,7 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [tannedthighs]
 - [Gavin OLeary]
+- [AdeptSlice](https://github.com/AdeptSlice)
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
@@ -18586,4 +18587,3 @@ Shenyi Amand
 - [Simvolick] (https://github.com/Simvolick)
 - [Amol Palshetkar](https://github.com/amolyp)
 - [felipeavl](https://github.com/felipeavl)
-
