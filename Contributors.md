@@ -18,6 +18,7 @@
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
 - [Mark Mellor]
+- [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
 - [Azron Brian] (https://github.com/azronb)
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
