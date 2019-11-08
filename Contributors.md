@@ -14776,6 +14776,7 @@ macdara-dev
 - [Vinicius Luiz](https://github.com/viniciuslcpereira97)
 - [Event Horizon](https://github.com/evorizon)
 - [Ning](https://github.com/WenNingz)
+- [azxsrtyui](https://github.com/azxsrtyui)
 - [Kevin Manalili](https://github.com/maines-pet)
 - [Gabriele Gavarini](https://github.com/vartuex)
 - [Lubbock](https://github.com/Lubbock)
