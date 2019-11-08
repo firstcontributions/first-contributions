@@ -1,6 +1,7 @@
  Contributors
  -[David Vinter] (https://github.com/David510V/)
 ﻿ Contributors
+-[Vincent Cao] (https://github.com/vjcao)
 -[Gregory El Bajoury] (https://github.com/Injechta)
 -[Rob Harman]
 -[Menlam Choden]
