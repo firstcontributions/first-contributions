@@ -87,6 +87,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Carlos Ramirez] (https://github.com/carap)
 - [Supreeth] (https://github.com/suprth)
 - [Gabriel Rodriguez] (https://github.com/gabrielrodriguezg)
+- [Marcin Wolkowicz] (https://github.com/mwolkowi17)
 - [xFabifont](https://github.com/xFabifont)
 - [Gabe Widmer](https://github.com/gabedude)
 - [liquidxd](https://github.com/liquidxd)
