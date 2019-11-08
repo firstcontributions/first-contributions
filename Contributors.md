@@ -18,6 +18,7 @@
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
 - [Mark Mellor]
+- [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
 - [Azron Brian] (https://github.com/azronb)
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
@@ -96,6 +97,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Teresa] (https://github.com/teresa622)
 - [Matthew Mercuri](https://github.com/matthewmercuri)
 - [Mez Charney] (https://github.com/mezzolite)
+- [Archna] (https://github.com/Niagara1000)
 - [Felix] (https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
 - [Neto S' Ana](https://github.com/Neto-SantAna)
@@ -190,6 +192,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Javier Acosta](https://github.com/AxlTech)
+- [v-shash](https://github.com/v-shash)
 - [Alberto Kiramoto] (https://github.com/akiramot)
 - [Byron Garcia](https://github.com/byronogarcia)
 - [Rohan Singh](https://github.com/rusia111)
@@ -268,6 +271,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Yadhukrishnan P] (https://github.com/yk-2310)
 - [Lara Salam] (https://github.com/larasalam)
 - GTExplorer
+- [Joe Gibson] (https://github.com/4HisGlory)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Lucas Barreto](https://github.com/lucasmfb)
 - [Vasanth Ganesh](https://github.com/v4vasanth)
@@ -1003,6 +1007,7 @@ notForProffitt
 - [Govind Kartha] (https://github.com/govkartha)
 - [Uğurcan Akkök](https://github.com/UgurcanAkkok)
 - [Anna Levenberg](https://github.com/alevenberg)
+- [James Meyers](https://github.com/jman2454)
 - [Renee Davis](https://github.com/Rooster1915)
 - [Fiske Schijlen](https://github.com/fistaco)
 - [Brant Morton](https://github.com/brantmorton)
@@ -18601,5 +18606,10 @@ rehan
 - [felipeavl](https://github.com/felipeavl)
 - [Ece Sarioglu](https://github.com/ecesari)
 - [Kashif](https://github.com/mnkashif)
-- [Ian Richards] (https://github.com/darkshadowwarrior)
 - [Nathanael Guerrero] (https://github.com/NateG95)
+- [Ryan Stonegraber]
+- [Ian Richards](https://github.com/darkshadowwarrior)
+- [Dennis Pavlyuk](https://github.com/dpsoccerdude101)
+- [Snowyjone Mo](https://github.com/w007878)
+- [JJongmen](https://github.com/JJongmen)
+- [Min Chang Kwark](https://github.com/kwarkmc)
