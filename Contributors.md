@@ -1855,6 +1855,7 @@ Kebana Modise
 - Daniel Larken
 - Michael Jackson 'King of Pop'
 - Jenny Hu
+- [Tateshep](https://github.com/tateshep)
 - [Bryant Caruthers](https://github.com/bcaruthers)
 - Michael Giardino
 - alokranjan1234
