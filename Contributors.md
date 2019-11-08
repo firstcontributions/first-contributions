@@ -14,6 +14,7 @@
 - [James Westra]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Théo Bonnet] (https://github.com/theo42500)
+- [Hussein Sakr]
 - [tannedthighs]
 - [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
