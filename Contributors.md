@@ -1,4 +1,5 @@
-﻿ Contributors
+ Contributors
+ -[David Vinter] (https://github.com/David510V/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
