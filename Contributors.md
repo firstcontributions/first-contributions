@@ -1,12 +1,11 @@
  Contributors
- -[Ivan Gonzalez] (https://github.com/scratchmex/)
- -[David Vinter] (https://github.com/David510V/)
-﻿ Contributors
--[Gregory El Bajoury] (https://github.com/Injechta)
--[Rob Harman]
--[Menlam Choden]
+- [Ivan Gonzalez] (https://github.com/scratchmex/)
+- [David Vinter] (https://github.com/David510V/)
+﻿- [Gregory El Bajoury] (https://github.com/Injechta)
+- [Rob Harman]
+- [Menlam Choden]
 - [Nicholas Kelly]
--[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
+- [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
