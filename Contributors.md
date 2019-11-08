@@ -18607,6 +18607,7 @@ rehan
 - [felipeavl](https://github.com/felipeavl)
 - [Ece Sarioglu](https://github.com/ecesari)
 - [Kashif](https://github.com/mnkashif)
+- [Nathanael Guerrero] (https://github.com/NateG95)
 - [Ryan Stonegraber]
 - [Ian Richards](https://github.com/darkshadowwarrior)
 - [Dennis Pavlyuk](https://github.com/dpsoccerdude101)
