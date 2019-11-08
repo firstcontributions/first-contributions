@@ -721,6 +721,7 @@ notForProffitt
 - [Bruno Mendes de Holanda Cavalcante](https://github.com/bruno-holanda15)
 - [Lindsay Fletcher](https://github.com/Javamazon)
 - [Mario Turco](https://github.com/Turkish0)
+- [Jonathan Milne-Skarzenski] (https://github.com/jonny-ms)
 - [Chau Nguyen](https://github.com/VanQuishi)
 - [André Boman](https://github.com/bomsie)
 - [Arman Najafian](https://github.com/Quarkz14)
