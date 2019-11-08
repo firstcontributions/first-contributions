@@ -10069,6 +10069,7 @@ Aman Panjwani
 - [Chris Watkin](https://github.com/CQW-Code)
 - [Andrew Niekamp](https://github.com/andrewniekamp)
 - [David Yi](https://github.com/kvah)
+- [Maxwell Roberts](https://github.com/RobertsMaxwell)
 - [Aayush Babbar](https://github.com/mooonshot)
 - [Xinnan Li](https://github.com/xn0611)
 - [javmonisu](https://github.com/javmonisu)
