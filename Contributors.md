@@ -10168,6 +10168,7 @@ macdara-dev
 - [Utkarsh Deep](https://github.com/utkarshdeep)
 - [Manoel Neto](https://github.com/manoelneto-dev)
 - [Hannah(lifesizerobot)](https://github.com/lifesizerobot)
+- [DoragonSoruja](https://github.com/DoragonSoruja)
 - [justjavac](https://github.com/justjavac)
 - [Jeffrey Ho](https://github.com/Jeffrey-Ho)
 - [Magnus Landén](https://github.com/Mange95L)
