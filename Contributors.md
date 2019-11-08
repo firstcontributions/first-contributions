@@ -1004,6 +1004,7 @@ notForProffitt
 - [Govind Kartha] (https://github.com/govkartha)
 - [Uğurcan Akkök](https://github.com/UgurcanAkkok)
 - [Anna Levenberg](https://github.com/alevenberg)
+- [James Meyers](https://github.com/jman2454)
 - [Renee Davis](https://github.com/Rooster1915)
 - [Fiske Schijlen](https://github.com/fistaco)
 - [Brant Morton](https://github.com/brantmorton)
