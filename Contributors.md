@@ -8041,6 +8041,7 @@ Aman Panjwani
 - [Barkshire Purringtonn](https://github.com/barkshire)
 - [Toumboglou Giannis] (https://github.com/toumb)
 - [Beatrice Olivera](https://github.com/beatriceo)
+- [Bryce Parkman](https://github.com/bryceparkman)
 - [Hugo Bally](https://github.com/hugobally)
 - [Boris Yordanov](https://github.com/borisyordanov)
 - [Marina Dargitz](https://github.com/mdargitz)
