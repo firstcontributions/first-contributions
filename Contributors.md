@@ -12733,3 +12733,4 @@ Conor Shields (https://github.com/cshields236)
 - [FélixHub] (https://github.com/FelixHub)
 - [Rishi Khanna] (https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
+- Jamie Vaughn
