@@ -28,6 +28,7 @@
 - [Kevin] (https://github.com/Altenmann)
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
+- [Jannis Müller] (https://github.com/JannisMueller) 
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
