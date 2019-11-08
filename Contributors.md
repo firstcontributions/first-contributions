@@ -17198,6 +17198,7 @@ macdara-dev
 - [Victor Lemos](https://github.com/grimmer10u)
 - [Alessandro Munufie](https://github.com/alexmunu)
 - [EricWang](https://github.com/bigbigDreamer)
+- Jamie Vaughn
 - [Mrigank Dembla](https://github.com/mrigankdembla/)
 - Ranjana
 - IgorV
