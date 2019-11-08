@@ -36,6 +36,7 @@
 - [Brandi Cotton] (https://github.com/bcotton52/)
 - [Ekaterina Kharitonova] (https://github.com/cherrywins)
 - [Josh Le Gresley](https://github.com/jleg13)
+- [Aditya Gupta](https://github.com/6aditya8)
 - [Marisa]
 - [Danh Vo]
 - [Krishan Jethwa]
