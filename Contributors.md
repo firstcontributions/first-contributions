@@ -18601,4 +18601,5 @@ rehan
 - [felipeavl](https://github.com/felipeavl)
 - [Ece Sarioglu](https://github.com/ecesari)
 - [Kashif](https://github.com/mnkashif)
-- [Ian Richards] (https://github.com/darkshadowwarrior)
+- [Ian Richards](https://github.com/darkshadowwarrior)
+- [Dennis Pavlyuk](https://github.com/dpsoccerdude101)
