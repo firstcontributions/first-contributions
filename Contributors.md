@@ -18565,6 +18565,7 @@ rehan
 - [Stephene Canciller] (https://github.com/reviter/)
 - [DevD] (https://about.me/devendradhanal)
 - [zerx] (https://github.com/zerx)
+- [Yigit G](https://github.com/ygoc95)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
 - [Samuel Lamb] (https://github.com/SentientSam)
 - [WesleyCSJ] (https://github.com/wesleycsj)
