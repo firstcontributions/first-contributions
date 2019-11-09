@@ -54,7 +54,7 @@
 - [Adam] (https://github.com/BigRed77/]
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
-- [Jannis Müller] (https://github.com/JannisMueller) 
+- [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
@@ -15741,6 +15741,7 @@ macdara-dev
 - [Mateus](https://github.com/NaturesProphet)
 - [Shivam Agrawall](https://github.com/shivam077)
 - [Sten Marius](https://github.com/stho01)
+- [Vincent Rist](https://github.com/Centicus1000)
 - [Neolas67](https://github.com/Neolas67)
 - [Sumit Joshi](https://github.com/sumitjoshi97)
 - [MatteoAzzarelli](https://github.com/MatteoAzzarelli)
@@ -18640,4 +18641,4 @@ rehan
 - [JJongmen](https://github.com/JJongmen)
 - [Min Chang Kwark](https://github.com/kwarkmc)
 - [Tejas Shah](https://github.com/shah-tejas)
-- [SiWoC](https://github.com/SiWoC) 
+- [SiWoC](https://github.com/SiWoC)
