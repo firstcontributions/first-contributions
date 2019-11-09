@@ -9355,6 +9355,7 @@ Aman Panjwani
 - [Gaurav Bharti](https://github.com/dreamsparkx)
 - [Nathan Blaubach](https://github.com/blaubachn)
 - [Mark Moeckel](https://github.com/heymark)
+- [Michal Farkaš](https://github.com/misofarkas)
 - [Naman Sachdeva](https://github.com/namansachdeva)
 - [Tannishk Sharma](https://github.com/tannishk)
 - [Tyler Lego](https://github.com/tylerlego)
