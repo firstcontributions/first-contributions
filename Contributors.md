@@ -55,11 +55,13 @@
 - [Adam] (https://github.com/BigRed77/]
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
+- [Jannis Müller] (https://github.com/JannisMueller) 
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
 - [Brandi Cotton] (https://github.com/bcotton52/)
+- [Ekaterina Kharitonova] (https://github.com/cherrywins)
 - [Abdeslam LAM] (https://github.com/Abdes7)
 - [Kellie Allen] (https://github.com/kellieallen)
 - [Josh Le Gresley](https://github.com/jleg13)
