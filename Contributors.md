@@ -5997,6 +5997,7 @@ Aman Panjwani
 - [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Aaron Lebel](https://github.com/alebml)
+- [Florian Müller](https://github.com/McMuellermilch)
 - [Akobi joshua](https://github.com/jaeja)
 - [Marco Boncoraglio](https://github.com/marcoboncoraglio)
 - [Lam Lieu](https://github.com/LamLieu)
