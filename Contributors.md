@@ -18608,6 +18608,7 @@ rehan
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Nuh Koca](https://github.com/nuhkoca)
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
+- [Lois Ritualo](https://github.com/Frances-Lois)
 - [Nikola Tomasevic] (https://github.com/niktomash)
 - [BlackSou](https://github.com/BlackSou)
 - [AbhishekSukhwal](https://github.com/sukhwal13)
