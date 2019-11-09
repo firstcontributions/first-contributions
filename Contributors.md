@@ -289,6 +289,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Francesco Francomano](https://github.com/silversoul93)
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
+- [Varun Vora](https://github.com/varunvora)
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Rogue-System] (https://github.com/Rogue-System)
 - [Tahsin Yazkan] (https://github.com/thsnyzkn)
