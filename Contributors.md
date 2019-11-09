@@ -598,6 +598,7 @@ Joseph Tran
 - [Sanchit Dwivedi](https://github.com/sanchitdwivedi)
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
+- [Marie-Anne Mittet (https://github.com/Dynaa)
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [littlepawcoding]
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
