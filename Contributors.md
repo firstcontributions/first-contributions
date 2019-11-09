@@ -23,6 +23,7 @@
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
+- [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
 - [Mark Mellor]
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
