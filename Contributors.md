@@ -5,6 +5,7 @@
 - [Rob Harman]
 - [Menlam Choden]
 - [Nicholas Kelly]
+- [Harry Harrison] (https://github.com/HarryH-Tech)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
