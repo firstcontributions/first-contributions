@@ -64,6 +64,7 @@
 - [Kellie Allen] (https://github.com/kellieallen)
 - [Josh Le Gresley](https://github.com/jleg13)
 - [Marisa]
+- [Stephen Cahill] (https://github.com/cahillsf)
 - [Ted Tran](https://github.com/TedTran2019)
 - [Giri Gopalan](https://github.com/ggopalan42)
 - [Danh Vo]
