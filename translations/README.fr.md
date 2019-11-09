@@ -1,5 +1,8 @@
 [![L'amour du logiciel libre](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+
 
 # Premières Contributions
 
@@ -8,8 +11,6 @@ C'est toujours compliqué la première fois que l'on fait quelque chose. La peur
 Lire des articles et des tutoriels peut aider, mais qu'y a-t-il de mieux que d'essayer sans pouvoir faire d'erreurs ? Ce projet a pour ambition de fournir des conseils et simplifier la manière dont les apprentis font leur première contribution. Souvenez-vous : plus vous êtes serein, mieux vous apprenez. Si vous aspirez à faire votre première contribution, suivez tout simplement les étapes suivantes. Promis, ce sera amusant.
 
 <img align="right" width="300" src="../assets/fork.png" alt="embrancher ce repertoire" />
-
-*Lire ceci dans d'autres langues: [Indonésien](translations/README.id.md), [Espagnol](translations/README.es.md), [Dutch](translations/README.nl.md), [Hindi](translations/README.hi.md), [Russe](translations/README.ru.md), [Japonais](translations/README.ja.md), [Vietnamien](translations/README.vn.md), [Polish](translations/README.pl.md), [Korean](translations/README.ko.md), [German](translations/README.de.md), [Chinois Simplifié](translations/README.chs.md), [Chinois Traditionel](translations/README.cht.md), [Grec](translations/README.gr.md), [Arabe](translations/README.ar.md), [Ukrainien](translations/README.ua.md), [Portugais](translations/README.pt_br.md) et [Italien](translations/README.it.md).*
 
 Si vous n'avez pas git sur votre ordinateur, [ installez-le ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -33,7 +34,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du réperto
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copier l'URL dans le presse-papier" />
 
-Par exemple:
+Par exemple :
 ```
 git clone https://github.com/votre-nom-d-utilisateur/first-contributions.git
 ```
@@ -51,7 +52,7 @@ Maintenant créez une branche avec le commande `git checkout` :
 git checkout -b <add-votre-nom>
 ```
 
-Par exemple:
+Par exemple :
 ```
 git checkout -b add-koffi-sani
 ```
@@ -72,7 +73,7 @@ en remplaçant `<votre-nom>` par votre nom.
 
 ## Poussez les modifications vers GitHub
 
-Poussez vos modifications avec la commande `git push`:
+Poussez vos modifications avec la commande `git push` :
 ```
 git push origin <add-votre-nom>
 ```
@@ -99,7 +100,7 @@ La branche master de votre embranchement ne subira pas de modification à cet in
  git checkout master
  ```
 
- Et ajouter l'url de mon répertoire comme  `upstream remote url`:
+ Et ajouter l'url de mon répertoire comme  `upstream remote url` :
 ```
 git remote add upstream https://github.com/Roshanjossey/first-contributions
 ```
@@ -118,7 +119,7 @@ git push origin master
 ```
 Avertissement: Cette fois, vous poussez au répertoire distant appelé origin.
 
-A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer:
+A ce niveau j'ai fusionné votre branche  `<add-votre-nom>` avec ma branche master, et vous avez fusionné ma branche master avec votre branche master. Votre branche `<add-votre-nom>` n'est plus utile, donc vous pouvez la supprimer :
 ```
 git branch -d <add-votre-nom>
 ```
@@ -137,7 +138,7 @@ Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif es
 
 ## Où aller ensuite ?
 
-Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous auriez besoin d'aide ou auriez des questions.  [Rejoindre l'équipe sur  Slack](https://firstcontributions.herokuapp.com)
+Vous pouvez aussi rejoindre notre équipe sur Slack au cas où vous auriez besoin d'aide ou auriez des questions.  [Rejoindre l'équipe sur  Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
 
 Voici pour un débutant quelques problèmes que vous pourrez résoudre dans des répertoires populaires. Allez, visitez ces répertoires afin d'en apprendre davantage.
 

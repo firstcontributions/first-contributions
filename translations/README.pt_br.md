@@ -1,18 +1,20 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="../assets/join-slack-team.png" alt="Junte-se à nós no Slack">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Primeiras Contribuições
 
-É difícil. Sempre é difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, errar não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
+É difícil. É sempre difícil fazer algo pela primeira vez. Especialmente quando se está colaborando, cometer erros não é algo agradável. Mas *open source* (código aberto) se trata de colaboração e de trabalharmos juntos. Queremos simplificar a forma com que novos colaboradores *open source* aprendem e contribuem pela primeira vez.
 
 Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
 
 #### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #tutoriais-com-outras-ferramentas)*
 
-#### *Ler em [outros idiomas](../Translations.md)* 
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork de éste repositorio" />
+#### *Ler em [outros idiomas](../translations/Translations.md)* 
+
+<img align="right" width="300" src="../assets/fork.png" alt="fork deste repositório" />
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
 
@@ -26,7 +28,7 @@ Faça um Fork clicando no botão "Fork" no topo desta página. Isto irá criar u
 
 Agora clone este repositório para a sua máquina. Clique no botão "Clone or download" e, em seguida, clique no ícone "Copy to clipboard" para copiar a URL.
 
-Abra o seu terminal e execute o seguinte comando do git:
+Abra seu terminal e execute o seguinte comando do git:
 ```
 git clone "url que copiou"
 ```
@@ -38,7 +40,7 @@ Por exemplo:
 ```
 git clone https://github.com/seu-usuario/first-contributions.git
 ```
-onde "seu-usuario" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
 ## Crie um Branch
 
@@ -86,29 +88,30 @@ substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
 Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull e Request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull Request" />
 
 Agora envie um Pull Request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="sube la pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
 Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
 
-### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
-
 ## Para onde ir a partir daqui?
 
-Parabéns! Você completou o básico _fork -> clone -> edit -> PR_ fluxo de trabalho que você encontrará frequentemente como contribuidor!
+Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
 
 Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Você tambem pode se juntar a nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se a nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+Você também pode se juntar à nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se à nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Agora você pode coloborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
+Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-## Tutoriais com outras ferramentas
+### [ Material adicional ](../additional-material/translations/additional-material.pt_br.md)
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+## Tutoriais usando outras ferramentas
+
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+

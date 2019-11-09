@@ -1,6 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="https://firstcontributions.herokuapp.com/badge.svg">](https://firstcontributions.herokuapp.com)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
 # Pirmieji įnašai
@@ -8,8 +9,6 @@
 Sunku. Visada sunku ką nors padaryti pirmą kartą. Ypač bendradarbiaujant, klaidų darymas nėra malonus dalykas. Tačiau atviras kodas - tai bendravimas ir bendradarbiavimas. Mes norime paprasčiau paaiškinti naujiesiems atvirojo kodo kūrėjams, kaip jie gali prisidėti pirmą kartą.
 
 Galite pradėti skaityti straipsnius ir žiūrėti vadovus, bet kas gali būti geriau nei mokymasis darant be klaidų pirmą kartą? Šio projekto tikslas - suteikti patarimus ir supaprastinti tai, kaip naujokai daro pirmąjį indėlį. Prisiminkite: kuo labiau esate atsipalaidavęs, tuo geriau mokotės. Jei norite atlikti pirmąjį indėlį, atlikite toliau pateiktus paprastus veiksmus. Mes pažadame, tai bus smagu.
-
-#### *Skaitykite [kita kalba](../Translations.md)* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -96,7 +95,7 @@ Netrukus projekto autorius sujungs visus jūsų šakos pakeitimus su šio projek
 
 Džiaukitės ir atkreipkite dėmesį į savo įnašą pasidalindami šia žinia su draugais [interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#social-share).
 
-Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://firstcontributions.herokuapp.com).
+Prisijunkite prie mūsų "slack" komandos, jei jums reikia pagalbos ar turite klausimų. [Prisijungti prie slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuose yra lengvai išsprendžiamų problemų. Peržiūrėkite [projektų sąrašą interneto aplikacijoje](https://roshanjossey.github.io/first-contributions/#project-list).
 
@@ -108,11 +107,4 @@ Pradėkite tobulinti kitus projektus. Mes sukūrėme projektų sąrašą, kuriuo
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-## Padėka autoriui
-
-Jei jums patiko šis projektas, pažymėkite jį žvaigždute [GitHub](https://github.com/Roshanjossey/first-contributions).
-Jei jaučiatės ypač dėkingi, sekite [Roshan](https://roshanjossey.github.io/)
-[Twitter](https://twitter.com/sudo__bangbang) arba
-[GitHub](https://github.com/roshanjossey).
 

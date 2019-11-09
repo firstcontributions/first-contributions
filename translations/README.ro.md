@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -10,7 +10,7 @@ Este greu. Este întotdeauna greu când faci ceva pentru prima dată. Mai ales c
 
 Citirea articolelor și vizionarea tutorialelor poate ajuta, dar ce este mai bine decât să faci lucrurile fără a strica ceva? Acest proiect își propune să ofere îndrumare și simplificarea modului în care începătorii își fac prima contribuție. Amintește-ți: cu cât ești mai relaxat, cu atât mai bine înveți. Dacă dorești să faci prima ta contribuție, simplu urmați pașii de mai jos. Vă promit că va fi distractiv.
 
-#### *Citește în [alte limbi](../Translations.md).* 
+#### *Citește în [alte limbi](Translations.md).* 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -95,7 +95,7 @@ Curând eu voi îmbina toate schimbările în ramura principală a acestui proie
 
 ## De unde să mergi de aici?
 
-Sărbătați-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
+Sărbătoriți-vă contribuția și împărtășiți-o cu prietenii și adepții dvs. accesând [aplicația web](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Ați putea să vă alăturați echipei noastre în cazul în care aveți nevoie de ajutor sau aveți întrebări. [Alătură-te echipei Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
@@ -110,11 +110,3 @@ Acum, să începem să contribuiți la alte proiecte. Am compilat o listă de pr
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
-## Promovare-Personală
-
-Dacă ți-a plăcut acest proiect, pune-i o stea pe [GitHub](https://github.com/Roshanjossey/first-contributions).
-Dacă vă simțiți deosebit de caritabili, urmați-mă [Roshan](https://roshanjossey.github.io/) pe
-[Twitter](https://twitter.com/sudo__bangbang) și
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>

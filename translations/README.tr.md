@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -7,7 +7,7 @@
 
 Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
 
-Makale okumak ve eğitim videoları yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
+Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -24,7 +24,7 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 Şimdi bu depoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
-Daha sonra uçbirimi açıp aşağıdaki git komut satırını girmemiz gerekiyor:
+Daha sonra komut istemini açıp aşağıdaki git komutunu girmemiz gerekiyor:
 
 ```
 git clone "kopyaladığınız-url"
@@ -41,12 +41,12 @@ git clone https://github.com/kullanıcı-adi/first-contributions.git
 
 ## Dal (Branch) oluşturma
 
-Eğer henüz klasör içinde değilseniz uçbirimde depo klasörünün konumuna gidin:
+Eğer henüz klasör içinde değilseniz komut isteminde ana klasörünün konumuna gidin:
 
 ```
 cd first-contributions
 ```
-`git checkout` komutunu kullanarak yeni bir dal(branch) oluşutrun:
+`git checkout` komutunu kullanarak yeni bir dal(branch) oluşturun:
 ```
 git checkout -b <ekle-sizin-isminiz>
 ```
@@ -59,7 +59,7 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri onaylama
 
-Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a aşina olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
+Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a alışkın olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
 
 `Contributors.md` dosyasının sonuna bu satırı ekleyin:
 
@@ -70,12 +70,12 @@ git checkout -b ekle-aydin-cagri-dumlu
 Örneğin:
 
 ```
-- [John Doe](https://github.com/ahmet-yilmaz)
+- [Ahmet Yılmaz](https://github.com/ahmet-yilmaz)
 ```
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
 
-Uçbirim üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
+Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
 
 ```
 git add Contributors.md
@@ -85,7 +85,7 @@ git add Contributors.md
 ```
 git commit -m "<isminiz> katkıda bulunanlar listesine eklendi"
 ```
-`<isminiz>` yerine kendi isminizi yazın. 
+`<isminiz>` yerine kendi isminizi yazın.
 
 (Ç.N: Açık kaynak dünyasında dünyanın farklı yerlerinden insanlarla birlikte çalışacağınız için onay mesajını İngilizce yazabilirsiniz.)
 
@@ -109,7 +109,7 @@ Oluşturduğunuz deponun Github sayfasında `Compare & pull request` butonunu g�
 
 Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile birleştireceğiz. Bu işlem tamamlandığı zaman bir bilgilendirme postası alacaksınız.
 
-### [Sonraki adımlar](../additional_material/git_workflow_senarios/additional-material.md)
+### [Sonraki adımlar](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Bundan sonra ne yapabilirim?
 
@@ -125,14 +125,4 @@ Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğ
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-## Kendi reklamım
-
-Bu projeyi sevdiyseniz, [GitHub](https://github.com/Roshanjossey/first-contributions)'da yıldız verin.
-Bonkör gününüzdeyseniz, [Roshan](https://roshanjossey.github.io/)'ı
-[Twitter](https://twitter.com/sudo__bangbang) ve
-[GitHub](https://github.com/roshanjossey)'da takip edin.
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
-
 

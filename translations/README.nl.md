@@ -1,15 +1,17 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Eerste bijdragen
 
-Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je samen werkt kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
+De eerste keer dat je iets nieuws probeert is altijd lastig, helemaal wanneer je samen werkt - kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
+Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven dat je het leuk zal vinden xxxx. 
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../assets/fork.png" alt="fork deze repository" />
 
-#### *Lees dit in [andere talen](../Translations.md)* 
+#### *Lees dit in [andere talen](../Translations.md)*
 
 Indien je git nog niet hebt op je systeem, [ installeer het dan eerst ]( https://help.github.com/articles/set-up-git/ )
 
@@ -19,7 +21,7 @@ Fork deze repository door op de fork knop te klikken. Dit creëert een kopie van
 
 ## De repository clonen
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/clone.png" alt="kloon deze repository" />
 
 Kloon nu deze repository naar je systeem. Klik op de kloon knop en dan het kopiëren naar klembord icoon.
 
@@ -28,9 +30,9 @@ Open een terminal en voer volgend git commando uit:
 ```
 git clone "url die je net kopieerde"
 ```
-Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar deze repository is. Zie de vorige stappen om de url te vinden.
+Waar "url die je net kopieerde" (zonder aanhalingstekens) de url naar (jouw fork van) deze repository is. Zie de vorige stappen om de url te vinden.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="kopieer URL naar het klembord" />
 
 Bijvoorbeeld:
 ```
@@ -40,7 +42,7 @@ Waar 'this-is-you' je GitHub gebruikersnaam is. Hiermee kopieer je inhoud van de
 
 ## Een branch aanmaken
 
-Navigeer naar de map van de repository op je systeem als je dit nog niet deed.
+Navigeer naar de map van de repository op je systeem (mocht je daar niet al zijn).
 
 ```
 cd first-contributions
@@ -54,11 +56,13 @@ Bijvoorbeeld:
 ```
 git checkout -b add-thibmaek
 ```
-(De naam van de branch hoeft niet *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
+(De naam van de branch hoeft niet het woord *add* te bevatten. In dit voorbeeld is het wel te adviseren aangezien het doel van deze branch hiermee duidelijk wordt gemaakt.)
 
 ## Maak de benodigde wijzigingen en commit deze
 
-Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe, sla het bestand vervolgens op. Als je naar de projectmap gaat en `git status` doet, zal je de wijzigingen zien. Voeg deze toe met behulp van onderstaand `git add` commando.
+Open nu het `Contributors.md` bestand in een teksteditor en voeg je naam toe. Doe dit niet aan het begin of eind, maar ergens in het midden. Sla vervolgens het bestand op.
+
+Als je naar de projectmap gaat en `git status` doet, zul je zien dat er wijzigingen zijn. Voeg deze toe aan je branch met behulp van onderstaand `git add` commando.
 ```
 git add Contributors.md
 ```
@@ -81,19 +85,23 @@ Vervang `<je-nieuwe-branch-naam>` met de naam van de branch die je eerder aanmaa
 
 Als je naar je repository gaat op GitHub, zal je zien dat er een `Compare & pull request` knop staat. Klik hierop.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/compare-and-pull.png" alt="creëer een pull request" />
 
 Verstuur nu je pull request.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/submit-pull-request.png" alt="verstuur je pull request" />
+
+Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit project. Als de veranderingen gemerged zijn, zul je hier een e-mailnotificatie over ontvangen.
 
 ## Je fork in sync houden met de hoofd-repository
 
-Nu ga ik al je wijzigingen mergen in de master branch van dit project. Jouw fork zal deze wijzigingen niet hebben. Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
+Wanneer de pull request wordt geaccepteerd en gemerged, zal jouw fork de wijzigingen nog niet bevatten - hiervoor moet je nog een aantal extra stappen ondernemen.
+
+Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
 ```
-git remote add upstream https://github.com/multunus/first-contributions
+git remote add upstream https://github.com/firstcontributions/first-contributions
 ```
-Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Eens de wijzigingen gemerged zijn, fetch je de nieuwe versie van mijn repo.
+Hiermee vertel je git dat er nog een andere versie van dit project bestaat op dit specifieke url punt en dat we het upstream zullen noemen. Wanneer de wijzigingen gemerged zijn, kun je de nieuwe versie ophalen (fetchen) van mijn repo.
 ```
 git fetch upstream
 ```
@@ -102,7 +110,7 @@ Hiermee fetchen we alle wijzigingen in mijn fork (upstream remote). Nu zal je de
 ```
 git rebase upstream/master
 ```
-Dit voegt alle wijzigingen to die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
+Dit voegt alle wijzigingen toe die je net fetchte van de master branch. Als je nu probeert je master branch te pushen, zal je fork al deze wijzigingen ook bevatten.
 ```
 git push origin master
 ```
@@ -114,8 +122,15 @@ Merk op dat je in dit geval pusht naar de remote met de naam origin.
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
+## Hoe nu verder?
 
-## Verdergaan van hieruit
+Gefeliciteerd! Je hebt zojuist de standaard _fork -> clone -> edit -> PR_ workflow doorlopen die je vaak zult tegenkomen als bijdrager!
+
+Vier je bijdrage en deel het met je vrienden en volgers via de [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+
+Mocht je nog vragen of hulp nodig hebben dan kun je je aanmelden voor ons [Slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+
+Laten we je nu op weg helpen met het bijdragen aan andere projecten. We hebben een lijst samengesteld met projecten die makkelijke issues bevatten waar je aan kunt werken. Bekijk [de lijst op de web app](https://roshanjossey.github.io/first-contributions/#project-list)
 
 Hier zijn enkele beginner-level issues in populaire repos die je kan proberen oplossen. Ga verder naar deze repos om meer te lezen.
 
