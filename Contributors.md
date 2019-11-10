@@ -735,6 +735,7 @@ notForProffitt
 - [Arman Najafian](https://github.com/Quarkz14)
 - [Kiara Barias](https://github.com/Kbarias)
 - [Darren Trinh](https://github.com/darrentrinh)
+- [kdub1312](https://github.com/kdub1312)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
