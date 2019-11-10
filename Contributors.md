@@ -5031,6 +5031,7 @@ Stephan Sharpe
 - [Lauren Wright](https://github.com/laurenewright)
 - [Shailendra Paliwal](https://github.com/vcidst)
 - [Declan McDonough](https:github.com/deckymcdonough)
+- [Alex Gordon](https://github.com/alexgman)
 - [Puneeth](https://github.com/punndcoder28)
 - Jesse
 - Hackerrrr
