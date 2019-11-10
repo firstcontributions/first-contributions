@@ -1,4 +1,5 @@
  Contributors
+- [Matias Kachuk] (https://github.com/Kachuk/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 ﻿- [Gregory El Bajoury] (https://github.com/Injechta)
@@ -11,6 +12,8 @@
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
 - [James Westra]
+- [danrdash]
+- [Rohit Yadav](https://github.com/rohit-yadav)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Hussein Sakr]
@@ -22,6 +25,7 @@
 - [Bilal Suleman]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
+- [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
 - [Mark Mellor]
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
@@ -288,6 +292,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Francesco Francomano](https://github.com/silversoul93)
 - [Durga Prasad Gembali](https://github.com/prasad4491)
 - [Daniela Ramirez](https://github.com/dxniela)
+- [Varun Vora](https://github.com/varunvora)
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Rogue-System] (https://github.com/Rogue-System)
 - [Tahsin Yazkan] (https://github.com/thsnyzkn)
@@ -602,6 +607,7 @@ Joseph Tran
 - [Sanchit Dwivedi](https://github.com/sanchitdwivedi)
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
+- [Marie-Anne Mittet (https://github.com/Dynaa)
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [littlepawcoding]
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
@@ -730,6 +736,7 @@ notForProffitt
 - [Arman Najafian](https://github.com/Quarkz14)
 - [Kiara Barias](https://github.com/Kbarias)
 - [Darren Trinh](https://github.com/darrentrinh)
+- [kdub1312](https://github.com/kdub1312)
 - [Pradeep Kumar](https://github.com/pradeep-017)
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
@@ -18561,6 +18568,7 @@ rehan
 - [Stephene Canciller] (https://github.com/reviter/)
 - [DevD] (https://about.me/devendradhanal)
 - [zerx] (https://github.com/zerx)
+- [Yigit G](https://github.com/ygoc95)
 - [Aleksey94Dan] (https://github.com/Aleksey94Dan)
 - [Samuel Lamb] (https://github.com/SentientSam)
 - [WesleyCSJ] (https://github.com/wesleycsj)
@@ -18642,3 +18650,6 @@ rehan
 - [Min Chang Kwark](https://github.com/kwarkmc)
 - [Tejas Shah](https://github.com/shah-tejas)
 - [SiWoC](https://github.com/SiWoC)
+- [SiWoC](https://github.com/SiWoC) 
+- [Athos Garcia](https://github.com/athospg)
+- [Vishwanath Bhat](https://github.com/vishwabhat19)
