@@ -12,6 +12,7 @@
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
 - [James Westra]
+- [danrdash]
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Théo Bonnet] (https://github.com/theo42500)
