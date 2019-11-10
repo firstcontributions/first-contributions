@@ -4,6 +4,7 @@
 -[Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Kaushik](https://github.com/kk77777)
+- [Syyam](https://github.com/syyam)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
 - [Gavin OLeary]
