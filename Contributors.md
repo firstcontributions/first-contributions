@@ -19,6 +19,7 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Hussein Sakr]
 - [tannedthighs]
+- [Dawood[ (https://github.com/nadurath)
 - [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
 - [Andrew Dunkel] (https://github.com/andrewdunkel)
