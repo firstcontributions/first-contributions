@@ -2207,6 +2207,7 @@ Kebana Modise
 - [Shantigunna](https://github.com/shantigunna22)
 - [Henry Akwerigbe](https://github.com/Henadek)
 - [tolufohunsi](https://github.com/tolufohunsi)
+- Elias
 - [Zander Doby](https://github.com/papaZander)
 - [Lisa Taylor](https://github.com/lisaMTayl)
 - [asollish](https://github.com/asollish)
