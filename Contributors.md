@@ -54,6 +54,7 @@
 - [Anjali B N] (https://github.com/AnjaliBN)
 - [Pranav Kirsur] (https://github.com/pranav-kirsur)
 - [Marija] (https://github.com/mtrajkova)
+- [oferbrmn] (https://github.com/oferbrmn)
 - [Parantak](https://github.com/parantak)
 - [Samriddhi Jain] (https://github.com/sammjainn)
 - [Andres Delgado] (https://github.com/abathar)
