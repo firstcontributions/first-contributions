@@ -1171,6 +1171,7 @@ notForProffitt
 - [Amanda Menier](https://github.com/amenier)
 - [Adam Brikman](https://github.com/adambrikman)
 - [Anna-Sofia]
+- [Radim] (https://github.com/xpavlic4)
 - [syd645]
 - [bh-n-9]
 - [Phillip Kent Knight](https://github.com/phillipknight)
