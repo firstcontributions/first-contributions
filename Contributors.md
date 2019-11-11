@@ -3485,6 +3485,7 @@ Stephan Sharpe
 - Xuan Zhang
 - [Matteo Briani](https://github.com/matteo-briani)
 - Nick Wilkie
+- [Pranao Walekar](https://github.com/pranaow)
 - [nquane](https://github.com/nquane)
 - [Ariel Bereslavsky](https://github.com/ScarWar)
 - [Vijay Gaonkar](https://github.com/vgaonkar)
