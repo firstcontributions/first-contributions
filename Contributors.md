@@ -3993,6 +3993,7 @@ Stephan Sharpe
 - N-Mor
 - [Jacky Liu](https://github.com/Jacky-Liu1)
 - [Joe Lee](https://github.com/josephlee93)
+- [Gabriele Barni](https://github.com/burnout87/)
 -_[Alexander Witedja](https://github.com/alexwitedja)
 - [nolj](https://github.com/nolanbjohnson)
 - [Mohammed Dilruba Pamangadan](https://github.com/dilrubapamangadan)
