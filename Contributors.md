@@ -25,6 +25,7 @@
 - [Dawood[ (https://github.com/nadurath)
 - [Mohit] (https://github.com/newbiemohit)
 - [Gavin OLeary]
+- [jkobie] (https://github.com/jkobie)
 - [Andrew Dunkel] (https://github.com/andrewdunkel)
 - [AdeptSlice](https://github.com/AdeptSlice)
 - [Bilal Suleman]
