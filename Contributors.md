@@ -1189,6 +1189,7 @@ notForProffitt
 - [Moinak Banerjee] (https://github.com/moinak878)
 - [MariaILopez] (https://github.com/milg15/)
 - [Rasika Kedia] (https://github.com/rashrey2308/)
+- [Takuya Sakashita](https://github.com/taksk)
 - [Oriane D](https://github.com/oriane212)
 - [Sachith](https://github.com/sachith-1)
 - [Robin_Klaus_Dunbar] (https://github.com/rmklaus12)
