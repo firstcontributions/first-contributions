@@ -5343,6 +5343,7 @@ Stephan Sharpe
 - [Stanila Andrei](https://github.com/Andu033)
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
+- [Sladjan](https://github.com/sladjandr)
 - [Saravanan Elumalai](https://github.com/saravannann)
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Danny Molloy](https://github.com/strachaldrat)
