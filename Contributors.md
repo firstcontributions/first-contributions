@@ -82,6 +82,7 @@
 - [Krishan Jethwa]
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Andrew Attard](https://github.com/attard-andrew)
+- [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
 - [Manny102030]
 - [Sandro Sp]
