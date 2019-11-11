@@ -18671,3 +18671,4 @@ rehan
 - [Fyodor Prokofiev](https://github.com/fprokofiev)
 - [Jasmine Logan](https://github.com/claridiva2000)
 - [Valentino Valenti](https://github.com/1ba1)
+- [Sathvik Napa](https://github.com/sathviksunny)
