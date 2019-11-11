@@ -23,6 +23,7 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
 - [Hussein Sakr]
+- [al co]
 - [tannedthighs]
 - [Dawood[ (https://github.com/nadurath)
 - [Mohit] (https://github.com/newbiemohit)
