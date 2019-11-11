@@ -33,6 +33,7 @@
 - [Mohammad Shahraz Aslam]
 - [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
 - [Mark Mellor]
+- [Yash Shukla](https://github.com/yashukla)
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
 - [Azron Brian] (https://github.com/azronb)
