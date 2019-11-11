@@ -534,6 +534,7 @@ Joseph Tran
 - [Jaskaran Singh]
 - Jerryco Alaba
 - Gustavo Ribeiro Gomes
+- [Nico Lee]
  [utkarshpopli26](https://github.com/utkarsh.popli26@gmail.com)
 - [King Krist](https://github.com/00-eight)
 - [George Main](https://github.com/georgemani1225)
