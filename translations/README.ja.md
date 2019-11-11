@@ -25,7 +25,7 @@ Forkボタンをクリックしてこのレポジトリをフォークしてく�
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-次にレポジトリをクローンします。*Clone and download*ボタンをクリックした後に*Copy to clipboard*アイコンをクリックしてください。
+次にレポジトリをクローンします。*Clone or download*ボタンをクリックした後に*Copy to clipboard*アイコンをクリックしてください。
 
 ターミナルを開いて以下のgitコマンドを実行してください：
 
@@ -62,7 +62,7 @@ git checkout -b add-alonzo-church
 
 ## コードを変更してその変更をコミット
 
-テキストエディタで`Contributors.md`ファイルを開いてあなたの名前を追加してください。だたし、ファイルの始めや終わりにあなたの名前をつけないようにしましょう。名前リストの間のどこか好きな場所に、あなたの名前を追加するようにしましょう。あなたの名前をファイルに加えたら、ファイルを保存します。
+テキストエディタで`Contributors.md`ファイルを開いてあなたの名前を追加してください。ただし、ファイルの始めや終わりにあなたの名前をつけないようにしましょう。名前リストの間のどこか好きな場所に、あなたの名前を追加するようにしましょう。あなたの名前をファイルに加えたら、ファイルを保存します。
 
 <img align="float: right;" width="450" src="../assets/git-status.png" alt="git status" />
 
@@ -105,7 +105,7 @@ GitHub上であなたのリポジトリに行くと、`Compare & pull request`�
 
 もし何かしら質問があるようでしたら[私たちのSlack team](https://firstcontributors.slack.com/join/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)に入ってください。
 
-他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://roshanjossey.github.io/first-contributions/#project-list)を確認て見てください。
+他のプロジェクトへの貢献を始めましょう。簡単なイシューが立てられているプロジェクトのリストを作りました。ウェブアプリで[プロジェクトリスト](https://roshanjossey.github.io/first-contributions/#project-list)を確認してみてください。
 
 ### [追加リソース](../additional-material/git_workflow_scenarios/additional-material.md)
 
