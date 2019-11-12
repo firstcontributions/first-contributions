@@ -45,7 +45,7 @@
 - [Khulan Myagmardorj] (https://github.com/myagmar2)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
-- Eric Githinji
+- [Eric Githinji]
 - [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
