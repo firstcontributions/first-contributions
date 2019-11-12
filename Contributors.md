@@ -46,7 +46,7 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
--[Ananth Vankipuram] (https://github.com/nandology)
+- [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
 - [Amey Kulkarni](https://github.com/ameykulkarni25dec)
@@ -66,6 +66,7 @@
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
 - [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
+- [Hyrum "Mad Dog" Butler] (https://github.com/Brazenbillygoat)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
