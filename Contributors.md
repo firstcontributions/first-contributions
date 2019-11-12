@@ -1,4 +1,4 @@
- Contributors
+﻿ Contributors
 - [Carlos Silva] (https://github.com/sabioes)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
@@ -16,6 +16,7 @@
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
+- [Amy Thompson] (https://github.com/amythompson9)
 - [James Westra]
 - [danrdash]
 - [Rohit Yadav](https://github.com/rohit-yadav)
