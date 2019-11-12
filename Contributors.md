@@ -877,6 +877,7 @@ notForProffitt
 - [Heidi]
 - [VijayDandu]
 - [bloodwithmilk25]
+- [LakshmipathiB](https://github.com/luk0y/)
 - [Amy R] (https://github.com/amyriley)
 - [Evan Croft]
 - [Jon Zivku] (https://github.com/jonzivku)
