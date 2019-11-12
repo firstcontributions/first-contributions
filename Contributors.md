@@ -18694,3 +18694,4 @@ rehan
 - [Vikas Srivastava](https://github.com/vikassri)
 - [Miguel Martin](https://github.com/photonn)
 - [Dusan Danilovic](https://github.com/ddanilovic)
+- [Alan Boglioli](https://github.com/aboglioli)
