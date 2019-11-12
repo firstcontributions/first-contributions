@@ -246,6 +246,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- [Meilani] (https://github.com/meilani)
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Jordan Aquadro] (https://github.com/jquad25)
 - [Peter Chou] (https://github.com/peterchou3788)
