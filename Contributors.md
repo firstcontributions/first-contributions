@@ -4249,6 +4249,7 @@ Stephan Sharpe
 - [Yann Claude](https://github.com/yannclaude2)
 - [David Tran](https://github.com/dhtran91/)
 - [Derek Cardwell](https://github.com/siestacardwell)
+- [Philipp Scherer](https://github.com/philipp-scherer)
 - [Deepak Thapa](https://github.com/dtsuper3)
 - hh534
 - [Andrew Farabaugh] (https://github.com/andrew-farabaugh)
