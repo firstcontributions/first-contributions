@@ -1758,6 +1758,7 @@ Nishtha3512
 - [Anubhav Mishra](https://github.com/anubhavm55)
 - [Wesxdz](https://github.com/Wesxdz)
 - [Beginner]
+- [Romain Pascual](https://github.com/romainpascual)
 - Heya
 - [Marisol Abrego](https://github.com/marisolabrego)
 - [Cristina Draghici](https://github.com/krystal25)
