@@ -1,4 +1,4 @@
- Contributors
+ls Contributors
 - [Carlos Silva] (https://github.com/sabioes)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
@@ -388,6 +388,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Vaibhav Patel](https://github.com/vaibhav-me999)
 - [Abraham William S](https://github.com/abrahamwilliam)
   [Ryano](https://github.com/ryanoccg)
+- [Devon Flowers](https://github.com/dflowGoBlue)
 - [Chris Williams] (https://github.com/mistwire)
 - [Omer Hefets] (https://github.com/OmerHefets)
 - [Rohit Sachdeva] (https://github.com/rohits301)
@@ -18638,7 +18639,8 @@ rehan
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
-- [Nuh Koca](https://github.com/nuhkoca)
+- [Nuh Koca](https://github.com/nuhkoca)'
+-[Devon]
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [Lois Ritualo](https://github.com/Frances-Lois)
 - [Nikola Tomasevic] (https://github.com/niktomash)
