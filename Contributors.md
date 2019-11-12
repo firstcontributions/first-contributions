@@ -18678,6 +18678,7 @@ rehan
 - [Athos Garcia](https://github.com/athospg)
 - [Vishwanath Bhat](https://github.com/vishwabhat19)
 - [Fyodor Prokofiev](https://github.com/fprokofiev)
+- [Malik Cameron](https://github.com/mcam10)
 - [Jasmine Logan](https://github.com/claridiva2000)
 - [Valentino Valenti](https://github.com/1ba1)
 - [Sathvik Napa](https://github.com/sathviksunny)
