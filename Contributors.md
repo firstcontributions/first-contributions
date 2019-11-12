@@ -6663,6 +6663,7 @@ Aman Panjwani
 - [Yixian Chen](https://github.com/yxnchen)
 - [Rushit Jasani](https://github.com/rushitjasani)
 - [Tim Lucca](https://github.com/TimLucca)
+- [Shannon Pearson](https://github.com/shannonpearson)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Gabrielly de Andrade](https://github.com/gaby-andrade)
 - [Brandon Thibeaux](https://github.com/thibeaux)
