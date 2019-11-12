@@ -1,5 +1,6 @@
 ﻿ Contributors
 - [Carlos Silva] (https://github.com/sabioes)
+- [Christian Ford] (https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
