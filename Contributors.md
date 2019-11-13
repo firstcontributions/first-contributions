@@ -90,6 +90,7 @@
 - [Danh Vo]
 - [Chetan Kini](https://github.com/cdkini)
 - [Krishan Jethwa]
+- [MintsInc](https://github.com/MintsInc)
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
