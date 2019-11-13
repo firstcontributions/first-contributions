@@ -3667,6 +3667,7 @@ Stephan Sharpe
 - [John-Paul Uys](https://github.com/johnpauluys)
 - [Denis Rajlic](https://github.com/denisRajlic)
 - [Garrison Shepard](https://github.com/gtshepard)
+- [Paul Guiton](https://github.com/paul-guiton)
 - [Alex Pittenger](https://github.com/AlexPittenger)
 - [Paul Kapschitzki](https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
