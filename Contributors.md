@@ -396,6 +396,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Abraham William S](https://github.com/abrahamwilliam)
   [Ryano](https://github.com/ryanoccg)
 - [Chris Williams] (https://github.com/mistwire)
+- [Luminous Nine](https://github.com/luminousnine)
 - [Omer Hefets] (https://github.com/OmerHefets)
 - [Rohit Sachdeva] (https://github.com/rohits301)
 - [Priyam] (https://github.com/priyam125)
@@ -3666,6 +3667,7 @@ Stephan Sharpe
 - [John-Paul Uys](https://github.com/johnpauluys)
 - [Denis Rajlic](https://github.com/denisRajlic)
 - [Garrison Shepard](https://github.com/gtshepard)
+- [Paul Guiton](https://github.com/paul-guiton)
 - [Alex Pittenger](https://github.com/AlexPittenger)
 - [Paul Kapschitzki](https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
@@ -13919,6 +13921,7 @@ macdara-dev
 - [Adeyosola Mustapha](https://github.com/Adeyossy)
 - [Bhrigu Kansra](https://github.com/kinetickansra)
 - Vedhant
+- AbdelAli
 - [cserspring](https://github.com/cserspring)
 - [Bolun Huang](https://github.com/BolunH)
 - [Hu Xinpeng](https://github.com/cloudstalker)
@@ -18660,6 +18663,7 @@ rehan
 - [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
 - [Andrew Adiletta] (https://github.com/andrewadiletta)
 - Carina Vargas
+- Charles Galdin
 - [Aryan Kukreja] (https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen] (https://github.com/melanki)
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
@@ -18703,3 +18707,4 @@ rehan
 - [WildanLuthfi](https://github.com/wildanluthfi)
 - [Ibnu Halim Mustofa](https://github.com/ibnuhalimm)
 - [MrLag31](https://github.com/MrLag31)
+- [alex-lb33](https://github.com/alex-lb33)
