@@ -3667,6 +3667,7 @@ Stephan Sharpe
 - [John-Paul Uys](https://github.com/johnpauluys)
 - [Denis Rajlic](https://github.com/denisRajlic)
 - [Garrison Shepard](https://github.com/gtshepard)
+- [Paul Guiton](https://github.com/paul-guiton)
 - [Alex Pittenger](https://github.com/AlexPittenger)
 - [Paul Kapschitzki](https://github.com/PaulKapschitzki)
 - [Kyle King](https://github.com/King-Kyle)
@@ -18704,3 +18705,5 @@ rehan
 - [WildanLuthfi](https://github.com/wildanluthfi)
 - [Ibnu Halim Mustofa](https://github.com/ibnuhalimm)
 - [Yassine Lemzah](https://github.com/ylemzah)
+- [alex-lb33](https://github.com/alex-lb33)
+
