@@ -1,5 +1,6 @@
 ﻿ Contributors
 - [Anurag Kanaujia](https://github.com/aknrg77)
+- [David Rubio](https://github.com/DavidRubio24)
 - [Carlos Silva] (https://github.com/sabioes)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
