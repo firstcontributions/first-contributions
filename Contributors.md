@@ -18706,3 +18706,4 @@ rehan
 - [WildanLuthfi](https://github.com/wildanluthfi)
 - [Ibnu Halim Mustofa](https://github.com/ibnuhalimm)
 - [alex-lb33](https://github.com/alex-lb33)
+- [Baptiste Girard-Carrabin](https://github.com/Fricounet)
