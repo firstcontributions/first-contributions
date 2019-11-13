@@ -18660,6 +18660,7 @@ rehan
 - [Rifqi Rosyidi] (https://github.com/rifqirosyidi)
 - [Andrew Adiletta] (https://github.com/andrewadiletta)
 - Carina Vargas
+- Charles Galdin
 - [Aryan Kukreja] (https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen] (https://github.com/melanki)
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
