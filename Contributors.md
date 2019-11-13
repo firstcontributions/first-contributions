@@ -10669,6 +10669,7 @@ macdara-dev
 - [Anuraag Tummanapally](https://github.com/TummanapallyAnuraag)
 -   [Dylan Viranyi](https://github.com/viranyidylan)
 - [Daniel Osiney](https://github.com/dharnnie)
+- [Paul Briand](https://github.com/baguettte)
 - [Gilliano Menezes](https://github.com/gillianomenezes)
 - [Alex Weininger](https://github.com/alexweininger)
 - [Sureshkumar Subramani](https://github.com/sureshjsweb)
