@@ -29,6 +29,7 @@
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
 - [Hussein Sakr]
 - [al co]
+- [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
 - [Dawood[ (https://github.com/nadurath)
 - [Mohit] (https://github.com/newbiemohit)
