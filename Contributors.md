@@ -10,6 +10,7 @@
 - [Rob Harman]
 - [Menlam Choden]
 - [Andy song]
+- [Jonas Bak Phillipson]
 - [Nicholas Kelly]
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
