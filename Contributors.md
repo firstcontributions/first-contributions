@@ -8290,6 +8290,7 @@ Aman Panjwani
 - [Mohita Chaudhary](https://github.com/mohita02)
 - [wongsiewyuei](https://github.com/wongsiewyuei)
 - [yati padia](https://github.com/yati1998)
+- [Yoshie2000](https://github.com/Yoshie2000)
 - [Tanuj Nagpal](https://github.com/Tanuj69)
 - [David Groszek](https://github.com/p0ye)
 - [Shradha Sharma](https://github.com/Shradha27)
