@@ -415,6 +415,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Priyam] (https://github.com/priyam125)
 - [Satyam] (https://github.com/priyam125)
 - [Chabat] (https://github.com/chabat)
+- [Cassiano Gobbet] (https://github.com/cgobbet/)
 - [Flavia] (https://github.com/flaviamedici)
 - [Aaradhya Jain](https://github.com/aaradhya15)
 - [Magnus] (https://github.com/Strandgaard96)
