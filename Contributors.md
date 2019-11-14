@@ -21,6 +21,7 @@
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
+- [Kianoosh Sanatkar] (https://github.com/kianooshsanatkar)
 - [Amy Thompson] (https://github.com/amythompson9)
 - [James Westra]
 - [danrdash]
