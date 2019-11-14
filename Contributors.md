@@ -466,6 +466,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - Johanna
 - Philip Wright
 - [Alvin X](https://github.com/AlvinYX)
+- [Emma Smith](https://github.com/emzobaby)
 - [Elisabeth Miller](https://github.com/libbymiller09)
 - Adam Carroll
 - [Yuri Reis](https://github.com/yurireeis)
