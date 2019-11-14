@@ -110,6 +110,7 @@
 - [Damjan Stanisavljevic](https://github.com/damjanstanisavljevic)
 o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf le mardi
 - [Marly]
+- [Vinit](https://github.com/vinitkumawat31)
 - [Piyush Aggarwal] (https://github.com/piyushaggarwal5807)
 - [Anjali B N] (https://github.com/AnjaliBN)
 - [bnbong] (https://github.com/bnbong)
