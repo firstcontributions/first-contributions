@@ -18729,3 +18729,4 @@ rehan
 - [Nick Russo](https://github.com/nrusso21)
 - [Ted Dersch](https://github.com/tedez)
 - [Daniel Lee](https://github.com/dlee2015)
+- [Richard Cui](https://github.com/achuacui)
