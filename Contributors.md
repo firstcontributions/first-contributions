@@ -18743,4 +18743,5 @@ rehan
 - [Daniel Lee](https://github.com/dlee2015)
 - [Richard Cui](https://github.com/achuacui)
 - [navidadelpour](https://github.com/navidadelpour)
+- [Tomofumi Chiba](https://github.com/chibat)
 - [turf0909](https://github.com/turf0909)
