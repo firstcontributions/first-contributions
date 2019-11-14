@@ -96,6 +96,7 @@
 - [Krishan Jethwa]
 - [MintsInc](https://github.com/MintsInc)
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
+- [britt](github.com/magicslippers)
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
