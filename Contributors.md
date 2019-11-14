@@ -97,6 +97,7 @@
 - [MintsInc](https://github.com/MintsInc)
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
 - [britt](github.com/magicslippers)
+- [Fredrik Iglum](https://github.com/iglum)
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
