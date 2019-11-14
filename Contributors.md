@@ -102,6 +102,7 @@
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
+- [Joern Bollmeyer]
 - [Manny102030]
 - [Sandro Sp]
 - [Jessica Santos]
