@@ -18725,3 +18725,4 @@ rehan
 -[Heinrich le Roux](https://github.com/heinrichlrx)
 -[Rodrigo Nobre](https://github.com/RoderickOxen)
 - [Nick Russo](https://github.com/nrusso21)
+- [Ted Dersch](https://github.com/tedez)
