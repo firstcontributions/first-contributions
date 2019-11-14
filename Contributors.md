@@ -26,6 +26,7 @@
 - [danrdash]
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
+- [Lauren Boyd](https://github.com/lboyd93)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
 - [Hussein Sakr]
@@ -18725,3 +18726,4 @@ rehan
 -[Rodrigo Nobre](https://github.com/RoderickOxen)
 - [Nick Russo](https://github.com/nrusso21)
 - [Zach Walravens](https://github.com/zachwalravens)
+- [Ted Dersch](https://github.com/tedez)
