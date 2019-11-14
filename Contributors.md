@@ -30,6 +30,7 @@
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
 - [Hussein Sakr]
+- [Hung Hilton]
 - [al co]
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
