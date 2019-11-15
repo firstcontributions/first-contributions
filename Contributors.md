@@ -10,7 +10,7 @@
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
-﻿- [Gregory El Bajoury] (https://github.com/Injechta)
+- [Gregory El Bajoury] (https://github.com/Injechta)
 - [Rob Harman]
 - [Menlam Choden]
 - [Alex L]
