@@ -1,4 +1,5 @@
 ﻿ Contributors
+- [Amédée DERA](https://github.com/a-dera)
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [David Rubio](https://github.com/DavidRubio24)
