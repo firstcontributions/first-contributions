@@ -7,6 +7,7 @@
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
+- [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 ﻿- [Gregory El Bajoury] (https://github.com/Injechta)
