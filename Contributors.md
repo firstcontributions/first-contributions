@@ -2,14 +2,14 @@
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [David Rubio](https://github.com/DavidRubio24)
-- [Carlos Silva] (https://github.com/sabioes)
+- [Carlos Silva](https://github.com/sabioes)
 - [Shagun Chandra](https://github.com/JShug07)
-- [Christian Ford] (https://github.com/Christian-Ford)
+- [Christian Ford](https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
-﻿- [Gregory El Bajoury] (https://github.com/Injechta)
+﻿- [Gregory El Bajoury](https://github.com/Injechta)
 - [Rob Harman]
 - [Menlam Choden]
 - [Alex L]
@@ -17,10 +17,10 @@
 - [Jonas Bak Phillipson]
 - [Nicholas Kelly]
 - [Juan Perez]
-- [Harry Harrison] (https://github.com/HarryH-Tech)
+- [Harry Harrison](https://github.com/HarryH-Tech)
 - [LVZ]
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
-- [Aryen Hemvatan] (https://github.com/TheJackalTR)
+- [Aryen Hemvatan](https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
 - [Kaushik](https://github.com/kk77777)
 - [Kianoosh Sanatkar] (https://github.com/kianooshsanatkar)
@@ -30,7 +30,7 @@
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Lauren Boyd](https://github.com/lboyd93)
-- [Théo Bonnet] (https://github.com/theo42500)
+- [Théo Bonnet](https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
 - [Hussein Sakr]
 - [Hung Hilton]
@@ -38,8 +38,8 @@
 - [al co]
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-- [Dawood[ (https://github.com/nadurath)
-- [Mohit] (https://github.com/newbiemohit)
+- [Dawood(https://github.com/nadurath)
+- [Mohit](https://github.com/newbiemohit)
 - [Gavin OLeary]
 - [jkobie] (https://github.com/jkobie)
 - [jkobie1] (https://github.com/jkobie)
@@ -18752,3 +18752,4 @@ rehan
 - [turf0909](https://github.com/turf0909)
 - [peter xie](https://github.com/peterjpxie)
 - [长柳](https://github.com/Hello-World-0X)
+- [Andrei Jiroh](https://github.com/AndreiJirohHaliliDev2006)
