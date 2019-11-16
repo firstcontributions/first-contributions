@@ -68,9 +68,10 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
--[Ananth Vankipuram] (https://github.com/nandology)
+- [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
+- [Yash Priyam](https://github.com/yashpriyam)
 - [Amey Kulkarni](https://github.com/ameykulkarni25dec)
 - [Damian S] (https://github.com/Damian1-1)
 - [Arjun RC] (https://github.com/arjunrc143
