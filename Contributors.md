@@ -18,6 +18,7 @@
 - [Yi Zhang(翼翼)](https://github.com/zhangyi921)
 - [Muhammad](https://github.com/madmedmod)
 - [Jessica Reinhardt] (https://github.com/jessicareinhardt)
+- [Angélica Narváez] (https://github.com/anarvaez2493)
 - Kaobe Osolu
 - goodgrieff
 - [Duy Trinh] (https://github.com/duytrinhvn)
