@@ -1151,6 +1151,7 @@ notForProffitt
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
 - [shwingu](https://github.com/supersaiyajin7/)
+- [techievivek](https://github.com/techievivek/)
 - [Aquib Baig](https://github.com/aquibbaig)
 - [ALI MINNET](https://github.com/aliminnet)
 - [Johannes Breit](https://github.com/JohnBryte)
