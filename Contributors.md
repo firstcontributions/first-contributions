@@ -75,6 +75,7 @@
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Sam Reddy] (https://github.com/redsamg)
 -_[Cliff Roberson]
+- [William Bratz](https://github.com/wbratz)
 - [Ankit Goyal] (https://github.com/ankGoyal3)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Sara Clements] (https://github.com/SaraClements)
