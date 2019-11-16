@@ -3835,6 +3835,7 @@ Stephan Sharpe
 - [Daniel Davies](https://github.com/darrkshade)
 - Carlos
 - [Chandima Ranaweera](https://github.com/chan4lk)
+- [Mina Mamdouh](https://github.com/ReQTeCH)
 - [Smit Gajjar](https://github.com/smitgajjar)
 - [Fred Amartey](https://github.com/FredAmartey)
 - [Andreas Sandskär](https://github.com/passar)
