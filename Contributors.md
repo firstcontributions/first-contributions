@@ -7,6 +7,7 @@
 - [Christian Ford](https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
+- [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 ﻿- [Gregory El Bajoury](https://github.com/Injechta)
@@ -73,11 +74,14 @@
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [Sam Reddy] (https://github.com/redsamg)
+-_[Cliff Roberson]
+- [William Bratz](https://github.com/wbratz)
 - [Ankit Goyal] (https://github.com/ankGoyal3)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Sara Clements] (https://github.com/SaraClements)
 - [Manak Mishra] (https://github.com/manakmishra)
 - [ishanExtreme](https://github.com/ishanExtreme)
+- [Vikas Mittal](https://github.com/vikasmittal)
 - [Rushabh](https://github.com/Rushabh10)
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
 - [Kevin] (https://github.com/Altenmann)
@@ -252,6 +256,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Lee Kian Wee](https://github.com/kianweelee)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
 - [Abhishek Sharma](https://github.com/abhi99-lang)
+- [Phu Le](https://github.com/phuuvle)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Shahin Katebi](https://github.com/shaahin)
@@ -414,6 +419,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Ankit Dobhal](https://github.com/ankitdobhal)
 - [Muhammad Rasya Hamdi Syahkuan Za](https://github.com/RasyaSyahkuanza)
 - [Vaibhav Patel](https://github.com/vaibhav-me999)
+- [JosephBadua] (https://github.com/JosephBadua)
 - [Abraham William S](https://github.com/abrahamwilliam)
   [Ryano](https://github.com/ryanoccg)
 - [Chris Williams] (https://github.com/mistwire)
@@ -1147,6 +1153,7 @@ notForProffitt
 - [Sarthak](https://github.com/711sarthak)
 - [km-js]
 - [shwingu](https://github.com/supersaiyajin7/)
+- [techievivek](https://github.com/techievivek/)
 - [Aquib Baig](https://github.com/aquibbaig)
 - [ALI MINNET](https://github.com/aliminnet)
 - [Johannes Breit](https://github.com/JohnBryte)
@@ -3381,6 +3388,7 @@ Stephan Sharpe
 - [Tiffany Wise](https://github.com/Owhyze1)
 - hmr206
 - [Bogdan Chise](https://github.com/ChiseBogdan)
+- [bogivan](https://github.com/bogivan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
 - Brandi
@@ -13036,6 +13044,7 @@ macdara-dev
 - [geor](https://github.com/ge0rrr)
 - [Chewy Paste](https://github.com/ChewyPaste)
 - [Sam Lambert](https://github.com/sglambert)
+- [Tristan Klintworth](https://github.com/TKlintworth)
 - [Aditya Khadse](https://github.com/akk5597)
 - [TM Repo](https://github.com/tmrepo)
 - [Supreet Singh](https://github.com/supreetsingh247)
@@ -18614,6 +18623,7 @@ rehan
 - [leh-dev](https://github.com/leh-dev)
 - [emoser](https://github.com/emoser)
 - [Bhavya Jain](https://github.com/Bhavya-22)
+- [Vigneshwar Selvaraj](https://github.com/vigneshwarselvaraj)
 - [Sahitya](https://github.com/sahi-4579)
 - [Sudha](https://github.com/chvlsudha)
 - [Tim Dinia](https://github.com/Timdinia)
@@ -18753,3 +18763,7 @@ rehan
 - [peter xie](https://github.com/peterjpxie)
 - [长柳](https://github.com/Hello-World-0X)
 - [Andrei Jiroh](https://github.com/AndreiJirohHaliliDev2006)
+-[paradox-1234-abcd]
+- [Andrew Zaytsev](https://github.com/sofly/)
+- [Psalms Kalu] (https://github.com/psalmskalu)
+- [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
