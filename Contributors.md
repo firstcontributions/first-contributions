@@ -5706,6 +5706,7 @@ Aman Panjwani
 - [Jaeren Tredway](https://github.com/JaerenTredway)
 - [Samuel F](hhtps://github.com/Sam-F90)
 - [Peter salihu](https://github.com/c-virus)
+- [Amit Levizky](https://github.com/Amitlevizky2)
 - [Faiza Alam](https://github.com/faizaalam)
 - [Peter Karakas](https://github.com/peti2001)
 - [Jamie N](https://github.com/ratesmayapply)
