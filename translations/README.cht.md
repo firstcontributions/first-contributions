@@ -9,7 +9,7 @@
 
 閱讀文章和觀看教學會有所幫助。不過，有什麼方法能比在不會弄亂任何東西的情況下，實際動手做來得更好？本項目旨在指導初學者及簡化初學者參與開源的方式。記住：過程越輕鬆，學習效益越高。如果妳/你想要做出第一次貢獻，只需按照以下簡單步驟操作即可。跟你保證，這會很好玩 :)
 
-#### *如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學。]( #tutorials-using-other-tools )*
+#### *如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學。]( #使用其他工具的教學)*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -114,11 +114,3 @@ git push origin <add-your-name>
 |---|---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|[Visual Studio Code](../github-windows-vs-code-tutorial.md)|
 
-## 原作者的自我行銷
-
-如果你/妳喜歡這個專案, 請給這個 [GitHub](https://github.com/Roshanjossey/first-contributions) 專案一顆星星 :star: 。
-如果妳/你覺得這超佛心, 可以追蹤 [Roshan](https://roshanjossey.github.io/) 的
-[Twitter](https://twitter.com/sudo__bangbang) 和
-[GitHub](https://github.com/roshanjossey)。
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
