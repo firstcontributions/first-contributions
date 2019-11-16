@@ -7588,6 +7588,7 @@ Aman Panjwani
 - [G Heller](https://github.com/hellerguyh)
 - [Jan Kierzyk](https://github.com/kjerzyk)
 - [Brian O'Donoghue](https://github.com/BriOD)
+- [Scott Willis](https://github.com/notScottIan)
 - [Vaska Izoria](https://github.com/vaskaizoria)
 - [Harris Levine](https://github.com/pynchmeister)
 - [Dave Tolan](https://github.com/davetolan)
