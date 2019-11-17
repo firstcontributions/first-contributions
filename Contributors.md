@@ -1183,6 +1183,7 @@ notForProffitt
 - [Josh Javier](https://github.com/joshjavier)
 - [Amy McGowan]
 - [Raghavendra Dillikar]
+- [Jaroslava Secka]
 - [Vincent64ify](https://github.com/Vincent64ify)
 - [Maheep Walia](https://github.com/waliamaheep)
 - [Alan Garcia](https://github.com/alandvgarcia)
