@@ -60,6 +60,7 @@
 - [Yash Shukla](https://github.com/yashukla)
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
+- [Joelle Helm](https://github.com/Joellehelm)
 - [Azron Brian] (https://github.com/azronb)
 - [Victor Vermeulen] (https://github.com/VictorVermeulen)
 - [Aditya Gupta] (https://github.com/6aditya8)
