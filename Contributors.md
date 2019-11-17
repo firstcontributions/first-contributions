@@ -18776,3 +18776,4 @@ rehan
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
 - [John Smurk]
+- [Hinton Rago](https://github.com/ragohin)
