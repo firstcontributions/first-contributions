@@ -4510,6 +4510,7 @@ Stephan Sharpe
 - [Inguss Anosovs](https://github.com/ingussA)
 - [Shikhar Shasya](https://github.com/shikh5030)
 - [Dennis Machu](https://github.com/dennismachu)
+- [James Hong](https://github.com/hsmint)
 - [sajjas](https://github.com/sajjass)
 - [Danyal](https://github.com/danyalz)
 - [aherba](https://github.com/aherba)
