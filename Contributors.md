@@ -44,6 +44,7 @@
 - [tannedthighs]
 - [Dawood[ (https://github.com/nadurath)
 - [Mohit] (https://github.com/newbiemohit)
+- [Jayanthi Palanichamy] (jayanthi.palanichamy1997@gmail.com)
 - [Gavin OLeary]
 - [jkobie] (https://github.com/jkobie)
 - [jkobie1] (https://github.com/jkobie)
