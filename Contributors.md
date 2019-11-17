@@ -16211,6 +16211,7 @@ macdara-dev
 - [Darryl Yeo](https://github.com/darrylyeo) (darryl-yeo.com)
 - [Paulo Ramos](https://github.com/paulolramos)
 - [Peggy Tao](https://github.com/peggytao)
+- [Paulo Renato Lima] (http://github.com/paulolimasjc)
 - [Freeda Vales](https://github.com/fvales)
 - [Amanda Fernandes](https://github.com/amandarfernandes)
 - [Cristhian Caldas](https://github.com/cromero207)
