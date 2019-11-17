@@ -123,6 +123,7 @@
 - [Vishal]
 - [Joern Bollmeyer]
 - [Manny102030]
+- [EvilTrtl]
 - [Sandro Sp]
 - [Jessica Santos]
 - [Lyncoln Mauricio](https://github.com/lyncolnms)
