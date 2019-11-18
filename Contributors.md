@@ -1133,12 +1133,13 @@ notForProffitt
 - [Anthony Mahramus](https://github.com/mahramus)
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Bedant]
+- [Antoine Huguet]
 - [Kseikyo](https://github.com/kseikyo)
 - [Isabel GPils](https://github.com/Isabelgpils)
 - [rdcs](https://github.com/riosdcs)
 - [Savethan Sritharan](https://github.com/sav7204)
-- [Tyler Campanile] (https://github.com/tecampani)
-- [Prashanth Mulgundmath] (https://github.com/mullgundmath)
+- [Tyler Campanile](https://github.com/tecampani)
+- [Prashanth Mulgundmath](https://github.com/mullgundmath)
 - [Joe Lee](https://github.com/JoeDravarol)
 - [Rahul R](https://github.com/errxr403)
 - [Alok Sahoo](https://github.com/aloks98)
