@@ -108,6 +108,7 @@
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Alex Thomson] (https://github.com/alexthomson1)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
+- [Jeremy Alexandre]
 - [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
 - [Hyrum "Mad Dog" Butler] (https://github.com/Brazenbillygoat)
