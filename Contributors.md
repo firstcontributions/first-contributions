@@ -49,6 +49,7 @@
 - [Hung Hilton]
 - [Cory]
 - [al co]
+- [Marquita Hartman] (https://github.com/marquitah)
 - [kanchanfisky]
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
