@@ -18782,6 +18782,7 @@ rehan
 - [MrLag31](https://github.com/MrLag31)
 - [alex-lb33](https://github.com/alex-lb33)
 - [Baptiste Girard-Carrabin](https://github.com/Fricounet)
+- [Jerry Tan](https://github.com/tanzhongyibidu)
 - [Daljit Singh](https://github.com/dsinghnl)
 - [Ag S]
 -[Heinrich le Roux](https://github.com/heinrichlrx)
