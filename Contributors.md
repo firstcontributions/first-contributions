@@ -13512,7 +13512,7 @@ macdara-dev
 - [Justin Goldby](https://github.com/goldbeedev)
 - [Sharla Field](https://github.com/sharlafield)
 - [Jo Laba](https://github.com/JhorlyL)
-- [Ira Laurin](https://github.com/toiya)
+- [Ira E Laurin](https://github.com/toiya)
 - [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
 - [Camilo Munoz](https://github.com/jcamilom)
 - [Mark Ian Pamintuan](https://github.com/ianpamintuan)
