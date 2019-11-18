@@ -1,5 +1,6 @@
 # Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
+- [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Rob Harman]
 - [Amédée DERA](https://github.com/a-dera)
@@ -19,7 +20,8 @@
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 - [Gregory El Bajoury] (https://github.com/Injechta)
-- [Rob Harman]
+- [Samarth Grover] (https://github.com/Samarth-G)
+-[Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
 - [Alex L]
@@ -108,6 +110,7 @@
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Alex Thomson] (https://github.com/alexthomson1)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
+- [Jeremy Alexandre]
 - [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
 - [Hyrum "Mad Dog" Butler] (https://github.com/Brazenbillygoat)
@@ -18399,6 +18402,7 @@ rehan
 - [Yogesvara Das](https://github.com/YogesD)
 - [Sherlyn Sam](https://github.com/sherlo2281)
 - [cmgn](https://github.com/cmgn)
+- [Sergio Tapia-Fikes](https://github.com/Sergio16T)
 - [Arya Valizadeh](https://twitter.com/arya_pr0f)
 - [Bongani Mkonto](https://github.com/excitedcrayon)
 - [Kline Borromeo](https://github.com/rekliner)
@@ -18820,3 +18824,5 @@ rehan
 - [John Smurk]
 - [Hinton Rago](https://github.com/ragohin)
 - [Peter A Jones](https://github.com/peterajones)
+- [Anton Golionko](https://github.com/golionko)
+- [Mihai Petre](https://github.com/petremihaivalentin)
