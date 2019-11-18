@@ -52,6 +52,7 @@
 - [Mohit] (https://github.com/newbiemohit)
 - [Jayanthi Palanichamy] (jayanthi.palanichamy1997@gmail.com)
 - [Gavin OLeary]
+- [Richard Guerre](https://github.com/richardguerre)
 - [jkobie] (https://github.com/jkobie)
 - [jkobie1] (https://github.com/jkobie)
 - [Andrew Dunkel] (https://github.com/andrewdunkel)
