@@ -2850,10 +2850,11 @@ Stephan Sharpe
 - [Yi Zhang(翼翼)](https://github.com/zhangyi921)
 - [Seyd Havens](https://github.com/sthavens)
 - [Muhammad](https://github.com/madmedmod)
+- [Jessica Reinhardt] (https://github.com/jessicareinhardt)
+- [Angélica Narváez] (https://github.com/anarvaez2493)
 - [william302](https://github.com/william302)
 - [aaiban](https://github.com/aaiban)
 - Mormor Gorgor
-- [Jessica Reinhardt](https://github.com/jessicareinhardt)
 - Kaobe Osolu
 - [Dan Carroll](https://github.com/dan-carroll)
 - [Casey Godbout](https://github.com/cgodbout412)
