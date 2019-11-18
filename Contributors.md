@@ -1,7 +1,9 @@
 ﻿ Contributors
+- [Shrey Sharma] (https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
+- [Tiziano B](https://github.com/tiziano-b)
 - [David Rubio](https://github.com/DavidRubio24)
 - [Carlos Silva] (https://github.com/sabioes)
 - [Shagun Chandra](https://github.com/JShug07)
@@ -42,6 +44,7 @@
 - [Cory]
 - [al co]
 - [kanchanfisky]
+- [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
 - [Dawood[ (https://github.com/nadurath)
@@ -807,6 +810,7 @@ notForProffitt
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
+- [Sandesh Nagularapu](https://github.com/nsandesh)
 - [Sergio Alejandro Prieto Rengifo](https://github.com/alejolale)
 - [Harsh Singh Bais](https://github.com/harshsbais)
 - [Alberto Xamin](https://github.com/albertoxamin)
@@ -6214,6 +6218,7 @@ Aman Panjwani
 - [Ashna Arora](https://github.com/itsashna)
 - [Derpyhsi](https://github.com/Derpyhsi)
 - [Robert Kosak](https://github.com/rkosak237)
+- [Mouni Nischal](https://github.com/Coolchirutha)
 - [Myla Deceree Sabordo](https://github.com/mimi2495)
 - [Hiren Parmar](https://github.com/hirenparmar11)
 - [Abhishek Duggal](https://github.com/likeabhi)
@@ -13508,7 +13513,7 @@ macdara-dev
 - [Justin Goldby](https://github.com/goldbeedev)
 - [Sharla Field](https://github.com/sharlafield)
 - [Jo Laba](https://github.com/JhorlyL)
-- [Ira Laurin](https://github.com/toiya)
+- [Ira E Laurin](https://github.com/toiya)
 - [Tamiris Fernanda Malacrida](https://github.com/tamirismalacrida)
 - [Camilo Munoz](https://github.com/jcamilom)
 - [Mark Ian Pamintuan](https://github.com/ianpamintuan)
@@ -18787,6 +18792,7 @@ rehan
 - [长柳](https://github.com/Hello-World-0X)
 -[paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
+- [Ranjith Kumar] 
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
 - [John Smurk]
