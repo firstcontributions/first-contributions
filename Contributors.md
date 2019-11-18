@@ -445,6 +445,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [JosephBadua] (https://github.com/JosephBadua)
 - [Abraham William S](https://github.com/abrahamwilliam)
   [Ryano](https://github.com/ryanoccg)
+- [Devon Flowers](https://github.com/dflowGoBlue)
 - [Chris Williams] (https://github.com/mistwire)
 - [Luminous Nine](https://github.com/luminousnine)
 - [Omer Hefets] (https://github.com/OmerHefets)
@@ -18735,7 +18736,8 @@ rehan
 - [kedMertens] (https://github.com/kedMertens)
 - [Heather Monarch](https://github.com/hrmonarch)
 - [Luis Teles](https://github.com/luisotavioosi)
-- [Nuh Koca](https://github.com/nuhkoca)
+- [Nuh Koca](https://github.com/nuhkoca)'
+-[Devon]
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [Lois Ritualo](https://github.com/Frances-Lois)
 - [Nikola Tomasevic] (https://github.com/niktomash)
