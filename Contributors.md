@@ -1,4 +1,5 @@
 ﻿ Contributors
+- [Amédée DERA](https://github.com/a-dera)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
 - [Anurag Kanaujia](https://github.com/aknrg77)
@@ -14,7 +15,7 @@
 - [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
-﻿- [Gregory El Bajoury] (https://github.com/Injechta)
+- [Gregory El Bajoury] (https://github.com/Injechta)
 - [Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
