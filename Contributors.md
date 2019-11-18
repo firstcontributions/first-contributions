@@ -18402,6 +18402,7 @@ rehan
 - [Yogesvara Das](https://github.com/YogesD)
 - [Sherlyn Sam](https://github.com/sherlo2281)
 - [cmgn](https://github.com/cmgn)
+- [Sergio Tapia-Fikes](https://github.com/Sergio16T)
 - [Arya Valizadeh](https://twitter.com/arya_pr0f)
 - [Bongani Mkonto](https://github.com/excitedcrayon)
 - [Kline Borromeo](https://github.com/rekliner)
