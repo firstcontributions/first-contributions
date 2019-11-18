@@ -5502,6 +5502,7 @@ Stephan Sharpe
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Santiago Rodríguez](https://github.com/SantiagoR8)
 - [Seth Polyniak](https://github.com/sethpoly)
+- [Jet Sng](https://github.com/Tripdox)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [Vipul Chodankar](https://github.com/whiplash7)
 - [Mayank Kanoria](https://github.com/mkanoria)
@@ -15451,6 +15452,7 @@ macdara-dev
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
+
 - [Adam Hill](https://github.com/Cadarn)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
