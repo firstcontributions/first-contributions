@@ -18823,3 +18823,4 @@ rehan
 - [John Smurk]
 - [Hinton Rago](https://github.com/ragohin)
 - [Anton Golionko](https://github.com/golionko)
+- [Mihai Petre](https://github.com/petremihaivalentin)
