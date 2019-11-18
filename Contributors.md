@@ -11,6 +11,7 @@
 - [Tiziano B](https://github.com/tiziano-b)
 - [David Rubio](https://github.com/DavidRubio24)
 - [Carlos Silva] (https://github.com/sabioes)
+- [Joao Portela] (https://github.com/jcbastosportela)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
