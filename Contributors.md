@@ -19,7 +19,8 @@
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 - [Gregory El Bajoury] (https://github.com/Injechta)
-- [Rob Harman]
+- [Samarth Grover] (https://github.com/Samarth-G)
+-[Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
 - [Alex L]
