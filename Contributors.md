@@ -41,6 +41,7 @@
 - [Hung Hilton]
 - [Cory]
 - [al co]
+- [kanchanfisky]
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
 - [Dawood[ (https://github.com/nadurath)
