@@ -18779,6 +18779,7 @@ rehan
 - [Vishalan](https://github.com/vishalan)
 - [WildanLuthfi](https://github.com/wildanluthfi)
 - [Ibnu Halim Mustofa](https://github.com/ibnuhalimm)
+- [Yassine Lemzah](https://github.com/ylemzah)
 - [Qwen]
 - [MrLag31](https://github.com/MrLag31)
 - [alex-lb33](https://github.com/alex-lb33)
