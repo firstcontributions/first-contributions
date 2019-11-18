@@ -100,6 +100,7 @@
 - [Adam] (https://github.com/BigRed77/]
 - [Bobby G] (https://github.com/bob2517/)
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
+- [Alex Thomson] (https://github.com/alexthomson1)
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
 - [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
@@ -345,7 +346,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Yadhukrishnan P] (https://github.com/yk-2310)
 - [Lara Salam] (https://github.com/larasalam)
 - GTExplorer
-- [Joe Gibson] (https://github.com/4HisGlory)
+- [Joe Gibson](https://github.com/4HisGlory)
 - [Ahmed Waheed](https://github.com/mrcreamio)
 - [Lucas Barreto](https://github.com/lucasmfb)
 - [Vasanth Ganesh](https://github.com/v4vasanth)
