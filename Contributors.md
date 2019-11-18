@@ -1,5 +1,6 @@
 # Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
+- [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Rob Harman]
 - [Amédée DERA](https://github.com/a-dera)
