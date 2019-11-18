@@ -808,6 +808,7 @@ notForProffitt
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
+- [Sandesh Nagularapu](https://github.com/nsandesh)
 - [Sergio Alejandro Prieto Rengifo](https://github.com/alejolale)
 - [Harsh Singh Bais](https://github.com/harshsbais)
 - [Alberto Xamin](https://github.com/albertoxamin)
