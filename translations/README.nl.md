@@ -1,13 +1,13 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Eerste bijdragen
 
-Het is altijd moeilijk de eerste keer dat je iets doet. Helemaal wanneer je samen werkt kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
+De eerste keer dat je iets nieuws probeert is altijd lastig, helemaal wanneer je samen werkt - kan het maken van fouten erg vervelend zijn. Maar in open-source ontkom je niet aan samenwerken. We willen het graag makkelijker maken om te leren en bij te dragen voor de eerste keer aan een open-source project.
 
-Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg de onderstaande stappen. Wij beloven dat je het leuk zal zijn.
+Het kan helpen om de artikelen te lezen en de video's te bekijken, maar niets is beter dan het gelijk te doen terwijl je leert en je niet de kans hebt om een fout te maken. Dit project richt zich op het begeleiden en het makkelijker maken voor beginners om hun eerste bijdrage te leveren aan een project. Onthoud: Hoe meer ontspannen je bent hoe beter je leert. Indien je op zoek bent om je eerste bijdrage te leveren aan open-source volg dan de onderstaande stappen. Wij beloven dat je het leuk zal vinden xxxx. 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork deze repository" />
 
@@ -95,7 +95,7 @@ Nu ga ik (de beheerder) al je wijzigingen mergen in de master branch van dit pro
 
 ## Je fork in sync houden met de hoofd-repository
 
-Wanneer de pull request wordt geaccepteerd en gemerged, zal jouw fork de wijzigingen nog niet bevatten. Hiervoor moet je nog een aantal extra stappen ondernemen.
+Wanneer de pull request wordt geaccepteerd en gemerged, zal jouw fork de wijzigingen nog niet bevatten - hiervoor moet je nog een aantal extra stappen ondernemen.
 
 Om beide repo's met elkaar in sync te houden voeg je de hoofd repo (mijne) url in als `upstream remote url`.
 ```
