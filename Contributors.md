@@ -106,6 +106,7 @@
 - [Andrés Posadas] (https://github.com/Andres-Posadas)
 - [Jannis Müller] (https://github.com/JannisMueller)
 - [Chinmay Atrawalkar] (https://github.com/catrawalkar)
+- [Hyrum "Mad Dog" Butler] (https://github.com/Brazenbillygoat)
 - [Dipanjan Ghosh] (https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez] (https://github.com/WannaBeProgrammer22)
 - [Amy Gonzales] (https://github.com/amylearnscode)
