@@ -1,5 +1,4 @@
 # Contributors
-- [Hisiste]
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
@@ -4265,6 +4264,7 @@ Stephan Sharpe
 - [Srilekha Talluri](https://github.com/Srilekha26)
 - [Jesse Neumann](https://github.com/Jesse989)
 - [Daniel Li](https://github.com/dan9710li)
+- [Hisiste](https://github.com/Hisiste)
 - [Edwin Diaz](https://github.com/dne-0)
 - [Ryan Kelley](https://github.com/rdkelley)
 - [CHAITANYA REDDY](https://github.com/lvrchaitanya)
