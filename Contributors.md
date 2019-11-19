@@ -741,6 +741,7 @@ Joseph Tran
 - [Kovidh Vengala](https://github.com/kovidh208/)
 - [Rohit Geddam](https://github.com/rohitgeddam)
 - [Michael George](https://github.com/mg4603)
+- [Bridget Murphy](https://github.com/brmu8861)
 - [Andre Wibbeke](https://github.com/pennyJack/)
 - [Bettina Lanser](https://github.com/bettina723)
 - [**Sandeep Singh Negi**](https://github.com/sandeepnegi1996)
