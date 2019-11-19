@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
@@ -9,8 +9,10 @@
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [Tiziano B](https://github.com/tiziano-b)
+- [Hunter Wang](https://github.com/fishfly)
 - [David Rubio](https://github.com/DavidRubio24)
 - [Carlos Silva] (https://github.com/sabioes)
+- [Joao Portela] (https://github.com/jcbastosportela)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Karim jano] (https://github.com/kareemjano)
@@ -21,6 +23,8 @@
 - [David Vinter] (https://github.com/David510V/)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Samarth Grover] (https://github.com/Samarth-G)
+- [Lucas Mitchell] (https://github.com/ljmitchell200)
+- [Moses Amiedor] (https://github.com/atmdboss)
 -[Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
@@ -31,6 +35,7 @@
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
 - [LVZ]
+- [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
@@ -49,6 +54,7 @@
 - [Hung Hilton]
 - [Cory]
 - [al co]
+- [Marquita Hartman] (https://github.com/marquitah)
 - [kanchanfisky]
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
@@ -92,8 +98,10 @@
 - [Damian S] (https://github.com/Damian1-1)
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
+- [AK47] 
 - [Sam Reddy] (https://github.com/redsamg)
 -_[Cliff Roberson]
+- [Sharona Young](https://github.com/sharonay2015)
 - [Ahmad Kahla]
 - [William Bratz](https://github.com/wbratz)
 - [Ankit Goyal] (https://github.com/ankGoyal3)
@@ -4262,6 +4270,7 @@ Stephan Sharpe
 - [Srilekha Talluri](https://github.com/Srilekha26)
 - [Jesse Neumann](https://github.com/Jesse989)
 - [Daniel Li](https://github.com/dan9710li)
+- [Hisiste](https://github.com/Hisiste)
 - [Edwin Diaz](https://github.com/dne-0)
 - [Ryan Kelley](https://github.com/rdkelley)
 - [CHAITANYA REDDY](https://github.com/lvrchaitanya)
@@ -5304,6 +5313,7 @@ Stephan Sharpe
 - [Darshana Joshi](https://github.com/Joshi-D)
 - [Angus](https://github.com/AngusGardnerWKC)
 - [Satyam Kumar](https://github.com/satyamtg)
+- [PhyHawk](https://github.com/PhyHawk)
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
@@ -15743,6 +15753,7 @@ macdara-dev
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
 - [K Zhao](https://github.com/K-zhao)
 - [Faseem Munna](https://github.com/faseem9048080829)
+- [Carlos Mendoza] (https://github.com/CAMYR71)
 - [Mayank Srivastav](https://github.com/mks198766)
 - Shea Wilson
 - [Jason Oats](https://github.com/jason-oats)
@@ -18794,9 +18805,12 @@ rehan
 - [Alan Boglioli](https://github.com/aboglioli)
 - [Vishalan](https://github.com/vishalan)
 - [WildanLuthfi](https://github.com/wildanluthfi)
+- [timtody](https://github.com/timtody)
 - [Ibnu Halim Mustofa](https://github.com/ibnuhalimm)
 - [Yassine Lemzah](https://github.com/ylemzah)
+- [Thomas Manwa](https://github.com/thomasmanwa)
 - [Qwen]
+- [TauOmega](https://github.com/TauOmega/)
 - [MrLag31](https://github.com/MrLag31)
 - [alex-lb33](https://github.com/alex-lb33)
 - [Baptiste Girard-Carrabin](https://github.com/Fricounet)
@@ -18818,11 +18832,13 @@ rehan
 - [Andrew Zaytsev](https://github.com/sofly/)
 - [Ranjith Kumar] 
 - [Psalms Kalu] (https://github.com/psalmskalu)
+- [joel](https://github.com/sudo-glitch)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
 - [Dinesh Viswanathan](https://github.com/dineshviswanath)
 - [Shelly Dogra](https://github.com/geekgal97)
 - [John Smurk]
 - [Hinton Rago](https://github.com/ragohin)
 - [Peter A Jones](https://github.com/peterajones)
+- [chriscofromvicoz](https://github.com/chriscofromvicoz)
 - [Anton Golionko](https://github.com/golionko)
 - [Mihai Petre](https://github.com/petremihaivalentin)
