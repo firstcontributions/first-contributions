@@ -531,6 +531,7 @@ Noam Taub
 - [Shriram bhat](https://github.com/butcodes)
 - [Mike Disbrow] (https://github.com/mdisbrow)
 - [Shreesh Roliwal] (https://github.com/shreesh1)
+- [Noam Taub] (https://github.com/noamtaub)
 - [Eduardo Lerma] (https://github.com/LaloCode)
 - [Kai Heng Ann](https://github.com/kaihengann/)
 - [Javier Cabrera Puente](https://github.com/cabreration)
