@@ -35,6 +35,7 @@
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
 - [LVZ]
+- [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [rheagezelle] (https://github.com/rheagezelle)
