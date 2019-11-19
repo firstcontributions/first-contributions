@@ -140,6 +140,8 @@
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
 - [Joern Bollmeyer]
+- [Jason Bourne]
+- [Jason Bourne the Second]
 - [Manny102030]
 - [EvilTrtl]
 - [Sandro Sp]
