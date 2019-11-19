@@ -18810,6 +18810,7 @@ rehan
 - [Yassine Lemzah](https://github.com/ylemzah)
 - [Thomas Manwa](https://github.com/thomasmanwa)
 - [Qwen]
+- [TauOmega](https://github.com/TauOmega/)
 - [MrLag31](https://github.com/MrLag31)
 - [alex-lb33](https://github.com/alex-lb33)
 - [Baptiste Girard-Carrabin](https://github.com/Fricounet)
