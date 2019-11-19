@@ -22,6 +22,7 @@
 - [David Vinter] (https://github.com/David510V/)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Samarth Grover] (https://github.com/Samarth-G)
+- [Lucas Mitchell] (https://github.com/ljmitchell200)
 -[Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
