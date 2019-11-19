@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
@@ -18835,3 +18835,4 @@ rehan
 - [Hinton Rago](https://github.com/ragohin)
 - [Anton Golionko](https://github.com/golionko)
 - [Mihai Petre](https://github.com/petremihaivalentin)
+- [chriscofromvicoz](https://github.com/chriscofromvicoz)
