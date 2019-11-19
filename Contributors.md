@@ -15751,6 +15751,7 @@ macdara-dev
 - [Ramón Chancay Ortega](https://github.com/devrchancay)
 - [K Zhao](https://github.com/K-zhao)
 - [Faseem Munna](https://github.com/faseem9048080829)
+- [Carlos Mendoza] (https://github.com/CAMYR71)
 - [Mayank Srivastav](https://github.com/mks198766)
 - Shea Wilson
 - [Jason Oats](https://github.com/jason-oats)
