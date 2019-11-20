@@ -22,6 +22,7 @@
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Al Muntrasir abir](https://github.com/amabirbd)
 - [Olivia Davis](https://github.com/oliviadavis593)
+- [Camilo Recce](https://github.com/oxyz2G)
 - [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
