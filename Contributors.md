@@ -2928,6 +2928,7 @@ Stephan Sharpe
 - [Mohammed Yehia](https://github.com/engmohammedyehia)
 - [Devanand Gowda](https://github.com/DevanandGowda)
 - Rahul Jyoti
+Noam Taub
 - [Max Yurs](https://github.com/MaxYurs)
 - Bobby Shmurda (https://github.com/luuuk)
 - [Kevin Amalathas](https://github.com/amalathask)
