@@ -19,6 +19,7 @@
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Al Muntrasir abir](https://github.com/amabirbd)
+- [Olivia Davis](https://github.com/oliviadavis593)
 - [Ivan Rodriguez] (https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
@@ -101,7 +102,7 @@
 - [Damian S] (https://github.com/Damian1-1)
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
-- [AK47] 
+- [AK47]
 - [Sam Reddy] (https://github.com/redsamg)
 -_[Cliff Roberson]
 - [Sharona Young](https://github.com/sharonay2015)
@@ -18839,7 +18840,7 @@ rehan
 - [长柳](https://github.com/Hello-World-0X)
 -[paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
-- [Ranjith Kumar] 
+- [Ranjith Kumar]
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [joel](https://github.com/sudo-glitch)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
