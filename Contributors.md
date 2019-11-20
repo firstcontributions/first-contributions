@@ -100,7 +100,7 @@
 - [Damian S] (https://github.com/Damian1-1)
 - [Arjun RC] (https://github.com/arjunrc143
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
-- [AK47] 
+- [AK47]
 - [Sam Reddy] (https://github.com/redsamg)
 -_[Cliff Roberson]
 - [Sharona Young](https://github.com/sharonay2015)
@@ -1375,6 +1375,7 @@ notForProffitt
 - [AminooZ](https://github.com/AminooZ)
 - [Eugen Volosciuc](https://github.com/EugenVolosciuc)
 - [babywashbear]
+- [suprnrdy] (https://github.com/suprnrdy)
 - [Jerome Biggins] (https://github.com/romeyb76)
 - [Adrian Kristanto](https://github.com/adriankristanto)
 - [Victor Onyebuchi](https://github.com/CodeVee)
@@ -18834,7 +18835,7 @@ rehan
 - [长柳](https://github.com/Hello-World-0X)
 -[paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
-- [Ranjith Kumar] 
+- [Ranjith Kumar]
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [joel](https://github.com/sudo-glitch)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
