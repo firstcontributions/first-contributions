@@ -37,6 +37,7 @@
 - [Nicholas Kelly]
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
+- [Ariel Herrera] (https://github.com/arielherrera)
 - [LVZ]
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
@@ -10368,7 +10369,7 @@ macdara-dev
 - [Peerarust Siriamphan](https://github.com/Gnoyoyo)
 - [Ales Jagric](https://github.com/OmegaModr)
 - [Puugu](https://github.com/Puugu)
-- [Purbo](https://github.com/purbohadi)
+ - [Purbo](https://github.com/purbohadi)
 - [Robert Wadley](https://github.com/Scarycrumb45)
 - [Javier Peral](https://github.com/Juners)
 - [Mat Sac](https://github.com/matsac)
@@ -18846,6 +18847,7 @@ rehan
 - [Psalms Kalu] (https://github.com/psalmskalu)
 - [joel](https://github.com/sudo-glitch)
 - [Anjolaoluwa Olubusi](https://github.com/anjolaolubusi)
+- [John Smurk]
 - [Dinesh Viswanathan](https://github.com/dineshviswanath)
 - [Shelly Dogra](https://github.com/geekgal97)
 - [John Smurk]
