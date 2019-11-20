@@ -11106,6 +11106,7 @@ macdara-dev
 - [Jose Fernando Lopez Fernandez](https://github.com/lopezfjose)
 - [Allen Hubbard Jr](https://github.com/allenhubbardjr)
 - [Ana Cruz](https://github.com/AnaCr)
+- [John Desmond] (https://github.com/yohn-dezmon)
 - [Mason Sweet](https://github.com/GhettoDrank)
 - [Srikanth Arugula](https://github.com/asrikanth27)
 - [Aaron Faubion](https://github.com/afaubz)
