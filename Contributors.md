@@ -20,6 +20,7 @@
 - [Nicholas Kelly]
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
+- [Ariel Herrera] (https://github.com/arielherrera)
 - [LVZ]
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
