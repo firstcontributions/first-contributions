@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
@@ -18863,3 +18863,4 @@ rehan
 - [Paul Kim](https://thekpaul.dev/)
 - [ahdelron](https://github.com/ahdelron)
 - [Simi23](https://github.com/Simi23)
+-[jtruo](https://github.com/jtruo)
