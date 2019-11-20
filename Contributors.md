@@ -50,6 +50,7 @@
 - [Amy Thompson] (https://github.com/amythompson9)
 - [James Westra]
 - [danrdash]
+- [Charun Upara](https://github.com/charunupara)
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Lauren Boyd](https://github.com/lboyd93)
