@@ -18708,6 +18708,7 @@ rehan
 - [Indra4ev3r] (https://github.com/indra4ev3r)
 - [praveen070290] (https://github.com/praveen070290)
 - [DeadilyVirus] (https://github.com/DeadilyVirus)
+- [nagendraDevara] (https://github.com/NagendraDevara/)
 - [1064774] (https://github.com/1064774)
 - [Devendra S Dhanal] (http://devendradhanal.github.io/)
 - [Stephene Canciller] (https://github.com/reviter/)
