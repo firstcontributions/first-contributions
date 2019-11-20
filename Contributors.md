@@ -4,6 +4,7 @@
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Rob Harman]
 - [Amédée DERA](https://github.com/a-dera)
+- [Ismail Tlemcani] (https://github.com/Ismailtlem)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
 - [Anurag Kanaujia](https://github.com/aknrg77)
