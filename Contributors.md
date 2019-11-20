@@ -18844,4 +18844,4 @@ rehan
 - [chriscofromvicoz](https://github.com/chriscofromvicoz)
 - [Anton Golionko](https://github.com/golionko)
 - [Mihai Petre](https://github.com/petremihaivalentin)
-- [Mark May](https://gitubh.com/innovationext)
+- [Mark May]
