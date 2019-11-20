@@ -92,6 +92,7 @@
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
+- [Rahil Husain]
 - [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
