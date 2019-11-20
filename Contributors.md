@@ -9997,6 +9997,7 @@ Aman Panjwani
 - [Alexey Salangin](https://github.com/Magauran)
 - [James Hobo](https://github.com/thignus)
 - [Jason Koh](https://github.com/WildlyManifest)
+- [Casey O'Brien](https://github.com/obriecas)
 - [Brandon Lum](https://github.com/theheck1)
 - [Tibor Maczelka](https://github.com/maczt83)
 - [Ataeraxia](https://github.com/Ataeraxia)
