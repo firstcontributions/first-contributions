@@ -1379,6 +1379,7 @@ notForProffitt
 - [AminooZ](https://github.com/AminooZ)
 - [Eugen Volosciuc](https://github.com/EugenVolosciuc)
 - [babywashbear]
+- [suprnrdy] (https://github.com/suprnrdy)
 - [Jerome Biggins] (https://github.com/romeyb76)
 - [Adrian Kristanto](https://github.com/adriankristanto)
 - [Victor Onyebuchi](https://github.com/CodeVee)
