@@ -26,7 +26,8 @@
 - [Samarth Grover] (https://github.com/Samarth-G)
 - [Lucas Mitchell] (https://github.com/ljmitchell200)
 - [Moses Amiedor] (https://github.com/atmdboss)
--[Rob Harman]
+- [Karim Awan]
+- [Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
 - [Alex L]
