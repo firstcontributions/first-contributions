@@ -32,6 +32,7 @@
 -[Rob Harman]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
+- [Philipp Schardt] (https://github.com/philippschardt)
 - [Alex L]
 - [Andy song]
 - [Jonas Bak Phillipson]
