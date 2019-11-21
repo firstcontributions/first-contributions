@@ -3,6 +3,7 @@
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Rob Harman]
+- [Frederica Melbourne]
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
