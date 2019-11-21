@@ -7,7 +7,7 @@
 
 Zor gelir. Bir işi ilk kez yapmak her zaman zor gelir. Özellikle birileriyle işbirliği içindeyseniz, hata yapmak içinize sinmez. Fakat açık kaynağın temelinde işbirliği ve birlikte çalışma yatar. Biz açık kaynak projelere ilk kez katkıda bulunacak kişilerin süreci öğrenmesini ve ilk katkılarını sunmalarını kolaylaştırmak istiyoruz.
 
-Makale okumak ve eğitim videoları yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
+Makale okumak ve eğitim videoları izlemek yardımcı olabilir, fakat bir işi gerçekten yapmanın yerini ne tutabilir ki? Bu proje yeni başlayanların veya ilk defa katkıda bulunacakların işini kolaylaştırmak ve onlara rehberlik etmek amacındadır. Unutmayın ki ne kadar rahat olursanız o kadar rahat öğrenirsiniz. Eğer bir GitHub projesine ilk defa katkıda bulunacaksanız, aşağıda gösterilen basit adımları izlemeniz yeterli olacaktır. Söz veriyoruz, eğlenceli olacak.
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -24,7 +24,7 @@ Bu işlem sizin hesabınız altında projenin bir kopyasını oluşturacaktır.
 
 Şimdi bu depoyu bilgisayarınıza klonlayın. Bunun için 'clone' butonuna basıp ardından *copy to clipboard* ikonuna basın.
 
-Daha sonra uçbirimi açıp aşağıdaki git komut satırını girmemiz gerekiyor:
+Daha sonra komut istemini açıp aşağıdaki git komutunu girmemiz gerekiyor:
 
 ```
 git clone "kopyaladığınız-url"
@@ -41,7 +41,7 @@ git clone https://github.com/kullanıcı-adi/first-contributions.git
 
 ## Dal (Branch) oluşturma
 
-Eğer henüz klasör içinde değilseniz uçbirimde depo klasörünün konumuna gidin:
+Eğer henüz klasör içinde değilseniz komut isteminde ana klasörünün konumuna gidin:
 
 ```
 cd first-contributions
@@ -59,7 +59,7 @@ git checkout -b ekle-aydin-cagri-dumlu
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri onaylama
 
-Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a aşina olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
+Şimdi, bir metin editöründe `Contributors.md` dosyasını açın. Hafif bir işaretleme dili olan Markdown'a alışkın olmanız gerekmektedir. Nasıl kullanacağınızı öğrenmek için bu [kopya kağıdına](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) göz atabilirsiniz.
 
 `Contributors.md` dosyasının sonuna bu satırı ekleyin:
 
@@ -70,12 +70,12 @@ git checkout -b ekle-aydin-cagri-dumlu
 Örneğin:
 
 ```
-- [John Doe](https://github.com/ahmet-yilmaz)
+- [Ahmet Yılmaz](https://github.com/ahmet-yilmaz)
 ```
 
 `](` arasında boşluk olmadığından emin olun. Dosyayı kaydedin ve kapatın.
 
-Uçbirim üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
+Komut istemi üzerinde proje klasörüne gidip `git status` komutunu yazdığınızda yaptığınız değişiklikleri göreceksiniz. `git add` komutu ile bu değişiklikleri oluşturduğunuz dal içine ekleyin.
 
 ```
 git add Contributors.md
