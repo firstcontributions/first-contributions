@@ -9528,6 +9528,7 @@ Aman Panjwani
 - [Salome Suxiashvili](https://github.com/salome)
 - [Luka Khonelidze](https://github.com/luka)
 - [Keith Watson](https://github.com/WhowantsToknow)
+- [Mike Watson](https://github.com/mwatson128)
 - [Jonny](https://github.com/Yeti725)
 - [Nekom Glew](https://github.com/MrGrim48)
 - [Daniel Millier](https://github.com/DanJMillier)
