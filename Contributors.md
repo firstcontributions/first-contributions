@@ -8,6 +8,7 @@
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
+- [Jamie Mayer](https://github.com/jamiemayer)
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [Tiziano B](https://github.com/tiziano-b)
