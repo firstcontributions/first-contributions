@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
+- [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Rob Harman]
