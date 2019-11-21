@@ -18675,6 +18675,7 @@ rehan
 - [Jacob Usadi](https://github.com/jusadi)
 - [Kshitij Srivastava](https://github.com/kshitijsriv)
 - [Giovanni Beijl](https://github.com/Gio-Glu)
+- [Nick Sivridis](https://github.com/nicksiv)
 - [infyblock](https://github.com/infyblock)
 - [kabahima Ernest](https://github.com/kabahima)
 - [Audrey Schmook](https://github.com/AudreySchmook)
