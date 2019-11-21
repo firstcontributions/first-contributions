@@ -18886,6 +18886,7 @@ rehan
 - [Paul Kim](https://thekpaul.dev/)
 - [ahdelron](https://github.com/ahdelron)
 - [Tom Nicholson](https://github.com/tomanicholson)
+- [jmknn33](https://github.com/jmknn33)
 - [Simi23](https://github.com/Simi23)
 -[jtruo](https://github.com/jtruo)
 -[Ra]
