@@ -18669,6 +18669,7 @@ rehan
 - [Lily Otv](https://github.com/lilyotv)
 - [Emily](https://github.com/emily990)
 - [Yothin Homjan](https://github.com/yotheone0909)
+- [Jacob Usadi](https://github.com/jusadi)
 - [Kshitij Srivastava](https://github.com/kshitijsriv)
 - [Giovanni Beijl](https://github.com/Gio-Glu)
 - [infyblock](https://github.com/infyblock)
