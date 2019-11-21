@@ -96,6 +96,7 @@
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Daniela Arenas]
 - [Khulan Myagmardorj] (https://github.com/myagmar2)
+- [Rahmanu Hermawan] (https://github.com/rahmanuh)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
