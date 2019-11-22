@@ -1037,6 +1037,7 @@ notForProffitt
 - [Leo Gimre](https://github.com/Raioite)
 - [Tongfei Zhang] (https://github.com/zhangtongfei)
 - [Francisca Astengo] (https://github.com/frastengo)
+- [Galina Karabelova] (https://github.com/Galina655)
 - [Michael Kilcorse] (https://github.com/kilcorse-michael)
 - [Cedrik Boudreau] (https://github.com/cedriking)
 - [Suchali] (https://github.com/suchali93)
