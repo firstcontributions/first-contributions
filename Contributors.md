@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
@@ -57,6 +57,7 @@
 - [James Westra]
 - [danrdash]
 - [Rohit Yadav](https://github.com/rohit-yadav)
+- [Chiraze D.]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [Bryan Luu]
 - [Lauren Boyd](https://github.com/lboyd93)
