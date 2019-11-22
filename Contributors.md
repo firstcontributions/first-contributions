@@ -672,6 +672,7 @@ Joseph Tran
 - [Shekhar Shukla]
 - [Shubham Raj](https://github.com/raj808569)
 - [Will](https://github.com/csrunner20)
+- [Julian](https://github.com/wongjulian4213)
 - [Aman Pandey]
 - [Mridul Agrawal]
   [Maike Fischer]
