@@ -4,6 +4,7 @@
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
+- [Karim Chaari] (https://github.com/karim-ch)
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Amédée DERA](https://github.com/a-dera)
