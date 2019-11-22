@@ -9204,6 +9204,7 @@ Aman Panjwani
 - [Amar Yadav](https://github.com/amar-yadav)
 - [Aimee Nogoy](https://github.com/akn264)
 - [Jimmy Mannan](https://github.com/jiimms)
+- [Petar Gavazov](https://github.com/TheSowut)
 - [Soroush Torkzadeh](https://github.com/sorousht)
 - [Yuanyuan Sheng](https://github.com/yuanyuansheng)
 - [Zachery Anderson](https://github.com/erxrick)
