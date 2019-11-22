@@ -16790,7 +16790,7 @@ macdara-dev
 - [Alex Baas](https://github.com/b-a-a-s)
 - [Darren f J](https://github.com/DarrenfJ)
 - [Subasree Arvind](https://github.com/SubasreeArvind)
-- [Steve Kerney] (https://github.com/kerneysa/)
+- [Steven Kerney] (https://github.com/kerneysa/)
 - [Alyona Owlyona](https://github.com/startonmonday)
 - [Lucas Araújo Rodrigues de Lima](https://github.com/lucasarj)
 - [Aqeel Anas](https://github.com/Unrealaq)
