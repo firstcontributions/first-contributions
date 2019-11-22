@@ -3,6 +3,7 @@
 - [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
+- [Malcome Baggett](https://github.com/MalcomeBaggett)
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Amédée DERA](https://github.com/a-dera)
