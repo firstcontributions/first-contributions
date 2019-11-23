@@ -6,6 +6,7 @@
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
 - [Karim Chaari] (https://github.com/karim-ch)
+- [Shrutte Murali] (https://github.com/shrutte97)
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Paul Gordon](https://github.com/pgordon89)
