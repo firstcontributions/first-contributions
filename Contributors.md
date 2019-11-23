@@ -8,6 +8,7 @@
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
