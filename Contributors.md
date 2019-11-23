@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
@@ -9,6 +9,7 @@
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Sean R]
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
