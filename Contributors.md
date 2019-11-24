@@ -18908,6 +18908,7 @@ rehan
 - [ahdelron](https://github.com/ahdelron)
 - [Tom Nicholson](https://github.com/tomanicholson)
 - [jmknn33](https://github.com/jmknn33)
+- [Cedric Membrez](https://github.com/cmembrez)
 - [Simi23](https://github.com/Simi23)
 -[jtruo](https://github.com/jtruo)
 -[Ra]
