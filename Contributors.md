@@ -27,6 +27,7 @@
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
+- [Kshitiz Kashyap](https://github.com/kshitizkashyap)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Manish Kumar] (https://github.com/Max143)
