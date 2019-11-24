@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
@@ -9,6 +9,7 @@
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Sean R]
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
@@ -26,8 +27,10 @@
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
+- [Kshitiz Kashyap](https://github.com/kshitizkashyap)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
+- [Manish Kumar] (https://github.com/Max143)
 - [Al Muntrasir abir](https://github.com/amabirbd)
 - [Olivia Davis](https://github.com/oliviadavis593)
 - [Camilo Recce](https://github.com/oxyz2G)
@@ -256,6 +259,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Micah Jones]
 - [Juan Canals] (https://github.com/juancanals75)
 - [Suryanshu Singh]
+- [Akshay Bhamare] (https://github.com/adb2396)
 - [Ujjwal Jain] (https://github.com/ujjwal29)
 - [David Besson] (https://github.com/dhbesson)
 - [Krass Iankov] (https://github.com/Krass101)
@@ -394,6 +398,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Maxime Maigret] (https://github.com/MaximeMaigret)
 - [Yadhukrishnan P] (https://github.com/yk-2310)
 - [Lara Salam] (https://github.com/larasalam)
+- [Alex Yang](https://github.com/ayang726)
 - GTExplorer
 - [Joe Gibson](https://github.com/4HisGlory)
 - [Ahmed Waheed](https://github.com/mrcreamio)
@@ -18117,6 +18122,7 @@ Mário Baltazar
 - [Lalit Khatri](https://github.com/Lalit-Kumar-Khatri)
 - [Verum Emanio](https://github.com/VerumEmanio)
 - [Jianxing Ke](https://github.coom/kjr21362)
+- [Ivan Sousa](https://github.com/0gener)
 - [Eran Nave](https://github.com/erannave)
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
@@ -18909,3 +18915,4 @@ rehan
 - [Mike McPherson] (https://github.com/MikeMcPherson)
 - [Hendro] (https://github.com/hpkishere)
 - [Jason] (https://github.com/JasonS09)
+- [Frank Harvey McManus](https://github.com/thefrankharvey)
