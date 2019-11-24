@@ -43,6 +43,7 @@
 - [Lucas Mitchell] (https://github.com/ljmitchell200)
 - [Moses Amiedor] (https://github.com/atmdboss)
 -[Rob Harman]
+- [Anthony Calvo]
 - [Menlam Choden]
 - [Muthu Nagarajan] (https://github.com/muthunagarajan1)
 - [Philipp Schardt] (https://github.com/philippschardt)
