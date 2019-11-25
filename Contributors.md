@@ -8237,6 +8237,7 @@ Aman Panjwani
 - [Goutham](https://github.com/gouthamkn)
 - [Ectras](https://github.com/Ectras)
 - [Umer Hasan](https://github.com/umerhasan17)
+- [Jacob Johansson] (https://github.com/Keexer)
 - [GlacierLollipop](https://github.com/glacierlollipop)
 - [Steffen Ness](https://github.com/steffenalexander)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
