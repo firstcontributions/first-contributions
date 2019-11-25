@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
+- [Alejandro Garcia] (https://github.com/agc133)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
