@@ -73,6 +73,7 @@
 - [Lauren Boyd](https://github.com/lboyd93)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
+- [Matt Thurling] (https://github.com/MattThurling)
 - [Dawit Tirore] (https://github.com/Tirore96)
 - [Hussein Sakr]
 - [Hung Hilton]
