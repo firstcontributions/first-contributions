@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
@@ -18919,5 +18919,6 @@ rehan
 - [Hendro] (https://github.com/hpkishere)
 - [Jason] (https://github.com/JasonS09)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
+- [Matt Germaine](https://github.com/mgermaine93)]
 - [mpnigh]
 
