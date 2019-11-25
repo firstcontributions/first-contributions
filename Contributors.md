@@ -7714,6 +7714,7 @@ Aman Panjwani
 - [Vinay Agarwal](https://github.com/AgarwalVinay)
 - [Niaz Ahmad](https://github.com/niaza)
 - [Pierre Cassier](https://github.com/peterk6e)
+- [Stephen Gardner](https://github.com/bipolarprobe)
 - [Nathaniel Lee](https://github.com/nslee90)
 - [Dontavious Sanders](https://github.com/sanddc318)
 - [Yash Khare](https://github.com/yashk2000)
