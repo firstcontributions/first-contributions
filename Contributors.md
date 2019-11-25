@@ -11,6 +11,7 @@
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Sean R]
+- [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
