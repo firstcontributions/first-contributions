@@ -120,7 +120,7 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [Rahil Husain]
-- [Eric Seals](https://github.com/erjseals) 
+- [Eric Seals](https://github.com/erjseals)
 - [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
@@ -214,6 +214,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [rbejot](https://github.com/rbejot)
 - [syd bailey](https://github.com/sydbails)
 - [Cenfal](https://github.com/cenfal)
+- [bjowe](https://github.com/bjowe)
 - [Teresa] (https://github.com/teresa622)
 - [Matthew Mercuri](https://github.com/matthewmercuri)
 - [Mez Charney] (https://github.com/mezzolite)
@@ -18925,4 +18926,3 @@ rehan
 - [Jason] (https://github.com/JasonS09)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
-
