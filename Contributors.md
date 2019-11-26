@@ -1,6 +1,6 @@
 ﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
--[Ahmed Zahran]
+- [Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
@@ -12,6 +12,7 @@
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Sean R]
+- [Joshua Cleverley] (https://github.com/JoshuaCleverley)
 - [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
@@ -18936,4 +18937,3 @@ rehan
 - [mpnigh]
 - [Smit](https://github.com/smit666)
 - [Yodi Satriani](https://github.com/yodist)
-
