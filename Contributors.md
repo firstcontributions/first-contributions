@@ -3819,6 +3819,7 @@ Noam Taub
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Luke Stroud](https://github.com/Duvanchi)
 - Steve Berryman
+- [Michal Sawicki](https://github.com/mksawic)
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Anuj Yadav](https://github.com/anuj952)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
