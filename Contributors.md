@@ -12,6 +12,7 @@
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Sean R]
+- [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
