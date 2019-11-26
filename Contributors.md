@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 -[Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
@@ -44,6 +44,7 @@
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
+- [Sandra Marcela Herrera Arriaga] (https://github.com/SandraMarcelaHerrerraArriaga)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Samarth Grover] (https://github.com/Samarth-G)
 - [Lucas Mitchell] (https://github.com/ljmitchell200)
@@ -547,6 +548,8 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Robert Chaing] (https://github.com/rc41186)
 - [Matheus Elyasha](https://github.com/elyasha)
 - [Rachit Garg](https://github.com/rstar900)
+
+
 - [Anushka Deshpande](https://github.com/anushkadeshpande)
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
