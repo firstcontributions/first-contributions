@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
@@ -7,6 +7,7 @@
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Simon Shapiro] (https://github.com/Simlion28)
 - [Amédée DERA](https://github.com/a-dera)
 - [Ismail Tlemcani] (https://github.com/Ismailtlem)
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
