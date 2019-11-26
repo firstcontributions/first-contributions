@@ -82,6 +82,7 @@
 - [Hung Hilton]
 - [Cory]
 - [al co]
+- [Chad Fenwick](https://github.com/ChadwickFenwick)
 - [Marquita Hartman] (https://github.com/marquitah)
 - [kanchanfisky]
 - [Matt Johnson](https://github.com/stlmattjohnson)
