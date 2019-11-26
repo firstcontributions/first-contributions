@@ -122,7 +122,7 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [Rahil Husain]
-- [Eric Seals](https://github.com/erjseals) 
+- [Eric Seals](https://github.com/erjseals)
 - [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
@@ -9034,6 +9034,7 @@ Aman Panjwani
 - [KidSunday](https://github.com/KidSunday)
 - [Nishant Rodrigues](https://github.com/nishnash54)
 - [Rohan Taneja](https://github.com/rohan20)
+- [Matt Burton] (https://github.com/13mtfb)
 - [Nirmala Thapa](https://github.com/nirmalathapa)
 - [kibablu](https://github.com/kibablu)
 - [Manuka Maduranga](https://github.com/manukam)
@@ -18929,4 +18930,3 @@ rehan
 - [Jason] (https://github.com/JasonS09)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
-
