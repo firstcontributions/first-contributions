@@ -18901,6 +18901,7 @@ rehan
 - [peter xie](https://github.com/peterjpxie)
 - [Parthiban Dayalan](https://github.com/parthibandayalan)
 - [长柳](https://github.com/Hello-World-0X)
+- [Kalani Scarrott](https://github.com/kscarrott)
 -[paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
 - [Ranjith Kumar]
