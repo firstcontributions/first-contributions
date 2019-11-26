@@ -18935,4 +18935,5 @@ rehan
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
 - [Smit](https://github.com/smit666)
+- [Yodi Satriani](https://github.com/yodist)
 
