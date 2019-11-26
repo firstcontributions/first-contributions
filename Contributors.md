@@ -55,6 +55,7 @@
 - [Andy song]
 - [Jonas Bak Phillipson]
 - [Nicholas Kelly]
+- [Nico Tanne] (https://github.com/El0quenz)
 - [Juan Perez]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
 - [Ariel Herrera] (https://github.com/arielherrera)
