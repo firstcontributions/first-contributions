@@ -78,7 +78,7 @@
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Chiraze D.]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
-- [Bryan Luu]
+- [Joy Kinsinger] (https://github.com/jkinsinger)
 - [Lauren Boyd](https://github.com/lboyd93)
 - [Théo Bonnet] (https://github.com/theo42500)
 - [Aditya Mahapatra] (https://github.com/adityamahapatra)
