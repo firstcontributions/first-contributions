@@ -888,6 +888,7 @@ notForProffitt
 - [Darren Trinh](https://github.com/darrentrinh)
 - [kdub1312](https://github.com/kdub1312)
 - [Pradeep Kumar](https://github.com/pradeep-017)
+- [Danish Sharjeel](https://github.com/dsharjeel)
 - [Nathan Boyd](https://github.com/nBoyd-98)
 - [Jenny Mandl](https://github.com/jennyspaghetti)
 - [Mike Cheung](https://github.com/dev-mcheung)
@@ -18951,6 +18952,7 @@ rehan
 - [Hendro] (https://github.com/hpkishere)
 - [Jason] (https://github.com/JasonS09)
 - [persist_xyz] (https://github.com/persist_xyz)
+- [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [Matt Germaine](https://github.com/mgermaine93)]
 - [mpnigh]
