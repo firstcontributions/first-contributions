@@ -27,6 +27,7 @@
 - [Jamie Mayer](https://github.com/jamiemayer)
 - [Shanthan Chamala] (https://github.com/shanthanchamala)
 - [Anurag Kanaujia](https://github.com/aknrg77)
+- [Arnaav Goyal](https://github.com/arnaavgoyal)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [Tiziano B](https://github.com/tiziano-b)
 - [Richard Tinajero] (https://github.com/rj-tinajero)
