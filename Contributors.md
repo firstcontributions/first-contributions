@@ -1842,6 +1842,7 @@ Haris Siddiqui
 - Josia Rodriguez
 - Glen Edwards
 - Christian Torbica
+- Victoria B
 - linn
 - [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
