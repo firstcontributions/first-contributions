@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
+-[Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
@@ -11,6 +12,7 @@
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Sean R]
+- [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
@@ -31,6 +33,7 @@
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
+- [Dylan Westerhold](https://github.com/dwesty17)
 - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
@@ -82,6 +85,7 @@
 - [Hung Hilton]
 - [Cory]
 - [al co]
+- [Chad Fenwick](https://github.com/ChadwickFenwick)
 - [Marquita Hartman] (https://github.com/marquitah)
 - [kanchanfisky]
 - [Matt Johnson](https://github.com/stlmattjohnson)
@@ -122,7 +126,7 @@
 - [George Purnell](https://github.com/georgewpurnell)
 - Eric Githinji
 - [Rahil Husain]
-- [Eric Seals](https://github.com/erjseals) 
+- [Eric Seals](https://github.com/erjseals)
 - [Ananth Vankipuram] (https://github.com/nandology)
 - [Stuti Patel](https://github.com/stuti8P)
 - [rupesh] (https://github.com/rupesh8601)
@@ -302,6 +306,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Leann Kim](https://github.com/leannkim11)
 - [Lindsay Groves](https://github.com/linzgroves)
 - [Steven Thorne](https://github.com/steventhorne)
+- [Hai Anh Hoang](https://github.com/hhanh)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal)
 - [Ankith B V](https://github.com/Ankithboggaram)
@@ -3815,6 +3820,7 @@ Noam Taub
 - [Kristy Nagel](https://github.com/kristynagel)
 - [Luke Stroud](https://github.com/Duvanchi)
 - Steve Berryman
+- [Michal Sawicki](https://github.com/mksawic)
 - [Joel DeSante](https://github.com/JoelDesante)
 - [Anuj Yadav](https://github.com/anuj952)
 - [Ojaswi Athghara](https://github.com/ojaswi825)
@@ -18900,6 +18906,7 @@ rehan
 - [peter xie](https://github.com/peterjpxie)
 - [Parthiban Dayalan](https://github.com/parthibandayalan)
 - [长柳](https://github.com/Hello-World-0X)
+- [Kalani Scarrott](https://github.com/kscarrott)
 -[paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
 - [Ranjith Kumar]
@@ -18923,6 +18930,7 @@ rehan
 - [Cedric Membrez](https://github.com/cmembrez)
 - [Simi23](https://github.com/Simi23)
 -[jtruo](https://github.com/jtruo)
+- [Nick Adams]()
 -[Ra]
 - [Mike McPherson] (https://github.com/MikeMcPherson)
 - [Hendro] (https://github.com/hpkishere)
@@ -18930,3 +18938,5 @@ rehan
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
 - [Pulkit Sharma] (https://github.com/pulkitsharma7790)
+- [Smit](https://github.com/smit666)
+- [Yodi Satriani](https://github.com/yodist)
