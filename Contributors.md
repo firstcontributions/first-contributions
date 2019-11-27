@@ -718,6 +718,7 @@ Joseph Tran
 - [Kasra Tabrizi]
 - [Nicholas O'Kelley](https://github.com/OkelleyDevelopment)
 - [ymrz]
+- [Jonathan Troy]
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Teresa Livriero](https://github.com/teresa-livriero)
 - [Nicolas Pin](https://github.com/pythareme)
