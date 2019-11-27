@@ -18965,6 +18965,7 @@ rehan
 - [Derek Anderson](https://github.com/andder1)
 - [Smit](https://github.com/smit666)
 - [Yodi Satriani](https://github.com/yodist)
+- [Teddy Gauthier] (https://github.com/LordPax)
 - [Pulkit Sharma](https://github.com/pulkitsharma7790)
 - [Adam Brzeziński](https://github.com/adabrz777)
 - [Babu S]
