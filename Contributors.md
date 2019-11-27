@@ -1,6 +1,6 @@
 # Contributors
 - [Gregory El Bajoury] (https://github.com/Injechta)
--[Ahmed Zahran]
+- [Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
@@ -14,6 +14,7 @@
 - [Frederica Melbourne]
 - [Simon Shapiro] (https://github.com/Simlion28)
 - [Sean R]
+- [Joshua Cleverley] (https://github.com/JoshuaCleverley)
 - [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
 - [Lindsey Hensley] (http://github.com/linzeestomp)
