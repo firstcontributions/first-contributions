@@ -18950,6 +18950,7 @@ rehan
 - [Mike McPherson] (https://github.com/MikeMcPherson)
 - [Hendro] (https://github.com/hpkishere)
 - [Jason] (https://github.com/JasonS09)
+- [persist_xyz] (https://github.com/persist_xyz)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [Matt Germaine](https://github.com/mgermaine93)]
 - [mpnigh]
