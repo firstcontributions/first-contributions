@@ -36,6 +36,7 @@
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Dylan Westerhold](https://github.com/dwesty17)
 - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
+- [Arna Maity] (https://github.com/Arna-Maity)
 - [Karim jano] (https://github.com/kareemjano)
 - [Matias Kachuk] (https://github.com/Kachuk/)
 - [Manish Kumar] (https://github.com/Max143)
@@ -700,6 +701,7 @@ Joseph Tran
 - [Will](https://github.com/csrunner20)
 - [Julian](https://github.com/wongjulian4213)
 - [Aman Pandey]
+- [Gilles Charlier](https://github.com/charliergi)
 - [Mridul Agrawal]
   [Maike Fischer]
 - [Yash Jaiswal]
@@ -18108,6 +18110,7 @@ Mário Baltazar
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
 - [mscorzoni]
+- [Luke Polson]
 - [ZanderBE](https://github.com/ZanderBE)
 - [Ankit Kumar](https://github.com/NotAnkit)
 - [malworks](https://github.com/malworks/)
@@ -18491,6 +18494,7 @@ rehan
 - [Nevan Oman Crowe](https://github.com/Branchman577)
 - [Hector Osuna](https://github.com/FanGoH)
 - [Hemshree](https://github.com/Hemshree100)
+- [Lewis Patten](https://github.com/CellEight)
 - [Kasun Hasanga](https://github.com/KasunHasanga)
 - [silksow](https://github.com/silksow)
 - [Anna Gabriela](http://github.com/annagabriela)
