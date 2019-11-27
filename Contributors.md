@@ -1,4 +1,5 @@
 # Contributors
+- [Kevin Aragon] (https://github.com/AragonCodes)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
