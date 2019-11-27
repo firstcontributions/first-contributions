@@ -700,6 +700,7 @@ Joseph Tran
 - [Will](https://github.com/csrunner20)
 - [Julian](https://github.com/wongjulian4213)
 - [Aman Pandey]
+- [Gilles Charlier](https://github.com/charliergi)
 - [Mridul Agrawal]
   [Maike Fischer]
 - [Yash Jaiswal]
