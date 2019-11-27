@@ -77,6 +77,7 @@
 - [Amy Thompson] (https://github.com/amythompson9)
 - [James Westra]
 - [danrdash]
+- [Bryan Burzon] (https://github.com/Bburzon)
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Chiraze D.]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
