@@ -18491,6 +18491,7 @@ rehan
 - [Nevan Oman Crowe](https://github.com/Branchman577)
 - [Hector Osuna](https://github.com/FanGoH)
 - [Hemshree](https://github.com/Hemshree100)
+- [Lewis Patten](https://github.com/CellEight)
 - [Kasun Hasanga](https://github.com/KasunHasanga)
 - [silksow](https://github.com/silksow)
 - [Anna Gabriela](http://github.com/annagabriela)
