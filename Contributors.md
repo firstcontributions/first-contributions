@@ -12,6 +12,7 @@
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Simon Shapiro] (https://github.com/Simlion28)
 - [Sean R]
 - [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
