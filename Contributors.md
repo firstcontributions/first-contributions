@@ -1269,6 +1269,7 @@ notForProffitt
 - [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
 - [Amy McGowan]
+- [Abhishek Jain](https://github.com/AbhishekJain2033)
 - [Raghavendra Dillikar]
 - [Jaroslava Secka]
 - [Vincent64ify](https://github.com/Vincent64ify)
@@ -18945,5 +18946,5 @@ rehan
 - [mpnigh]
 - [Smit](https://github.com/smit666)
 - [Yodi Satriani](https://github.com/yodist)
-- [Pulkit Sharma] (https://github.com/pulkitsharma7790)
+- [Pulkit Sharma](https://github.com/pulkitsharma7790)
 - [Adam Brzeziński](https://github.com/adabrz777)
