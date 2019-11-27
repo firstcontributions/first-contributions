@@ -1979,6 +1979,7 @@
 - [Eesha Goyal](https://github.com/eeshagoyal)
 - [Shinjanee Gupta](https://github.com/Shinjanee)
 - [Vikranth Kanumuru](https://github.com/highskillzz)
+- [Nikolaos Kalomoiris](https://github.com/nikalomoiris)
 - [Sukhada Kulkarni](https://github.com/Sukhada11)
 - [Karolin Thunman](https://github.com/Kath-1)
 - [Aditya Khursale](https://github.com/AdityaKhursale)
@@ -3568,4 +3569,3 @@
 - [Sharad Vijalapuram](https://github.com/sharad-vm)
 - [Sean Carpenter](https://github.com/secarpenter)
 - [Trigueiro Neto](https://github.com/grandtrigger)
-- [Nikolaos Kalomoiris](https://github.com/nikalomoiris)
