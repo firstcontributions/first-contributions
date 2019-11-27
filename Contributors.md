@@ -2,6 +2,7 @@
 - [Gregory El Bajoury] (https://github.com/Injechta)
 -[Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
+- [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
