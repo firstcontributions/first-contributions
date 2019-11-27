@@ -18949,6 +18949,7 @@ rehan
 - [Jason] (https://github.com/JasonS09)
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [mpnigh]
+- [Derek Anderson](https://github.com/andder1)
 - [Smit](https://github.com/smit666)
 - [Yodi Satriani](https://github.com/yodist)
 - [Pulkit Sharma](https://github.com/pulkitsharma7790)
