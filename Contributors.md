@@ -18911,6 +18911,7 @@ rehan
 - [Vivek Rungta](https://github.com/vivek2108)
 - [Ag S]
 -[Heinrich le Roux](https://github.com/heinrichlrx)
+-[Ethan Fritz](https://github.com/efbsmash)
 -[Rodrigo Nobre](https://github.com/RoderickOxen)
 - [Nick Russo](https://github.com/nrusso21)
 - [Ted Dersch](https://github.com/tedez)
