@@ -13331,6 +13331,7 @@ macdara-dev
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Yann Hoffmann](https://github.com/Yann21)
 - [Carolina Ceja](https://github.com/cejac)
+- [Taylor Wilkinson] (https://github.com/tjw87912)
 - [Suraj Shah](https://github.com/sshah98)
 - [Jacob Zwickler](https://github.com/Zwiqler94)
 - [Steve Pickering](https://github.com/spickering-git)
