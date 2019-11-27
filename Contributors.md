@@ -33,6 +33,7 @@
 - [Hunter Wang](https://github.com/fishfly)
 - [David Rubio](https://github.com/DavidRubio24)
 - [Carlos Silva] (https://github.com/sabioes)
+- Kaustubh Dixit
 - [Joao Portela] (https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
