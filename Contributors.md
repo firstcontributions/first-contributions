@@ -3,6 +3,7 @@
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 - [Alejandro Garcia] (https://github.com/agc133)
+- [Nuria Vázquez] (https://github.com/vaznuria)
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Gina Kim] (https://github.com/GHK15)
