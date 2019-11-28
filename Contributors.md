@@ -8327,6 +8327,7 @@ Aman Panjwani
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
 - [Simon M](https://github.com/nmsq)
+- [Kari Finnilä](https://github.com/kfinnila)
 - [Mayank Gupta](https://github.com/mayank2424)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
