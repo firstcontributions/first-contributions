@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
@@ -11,6 +11,7 @@
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Shrutte Murali] (https://github.com/shrutte97)
+- [Rushi Notaria]
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Simon Shapiro] (https://github.com/Simlion28)
