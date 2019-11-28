@@ -5914,6 +5914,7 @@ Aman Panjwani
 - [Abhishek Sarolia](https://github.com/asarolia)
 - [Bilawal dar](https://github.com/bilawal1234)
 - [Anindita Mandal](https://github.com/Anindita7)
+- [Anindit Karmakar](https://github.com/aninditkarmakar)
 - Edison Shek
 - [Mayank Singh Rajkumar](https://github.com/canter-nawab)
 - [Pedro de Barros Veríssimo](https://github.com/pbv2)
