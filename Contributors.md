@@ -44,7 +44,7 @@
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
-- [Sandra Marcela Herrera Arriaga] (https://github.com/SandraMarcelaHerrerraArriaga)
+- [Sandra Marcela Herrera Arriaga] (https://github.com/SandraMarcelaHerreraArriaga)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Samarth Grover] (https://github.com/Samarth-G)
 - [Lucas Mitchell] (https://github.com/ljmitchell200)
