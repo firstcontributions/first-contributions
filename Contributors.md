@@ -22,6 +22,7 @@
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Rob Harman]
 - [Frederica Melbourne]
+- [Kamil Pacanek] (https://github.com/KamilPacanek)
 - [Simon Shapiro] (https://github.com/Simlion28)
 - [Sean R]
 - [Joshua Cleverley] (https://github.com/JoshuaCleverley)
