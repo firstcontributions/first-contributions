@@ -1,7 +1,7 @@
 # Contributors
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [from vs code Yuriy]
-- [Gary Heffernan]
+- [Gary Heffernan Jr]
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Gregory El Bajoury] (https://github.com/Injechta)
