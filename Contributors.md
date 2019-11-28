@@ -18,6 +18,7 @@
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rushi Notaria]
+- [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Rob Harman]
 - [Frederica Melbourne]
 - [Simon Shapiro] (https://github.com/Simlion28)
