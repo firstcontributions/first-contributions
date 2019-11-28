@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [from vs code Yuriy]
 - [Serdar İlarslan] (https://github.com/jokercraft)
@@ -614,6 +614,7 @@ Joseph Tran
 - [Usama liaquat](https://github.com/Usamaliaquat123)
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - lin
+- Sochima Omenkeukwu
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
 - [Anunay Aatipamula](https://github.com/anunay999)
