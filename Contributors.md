@@ -18983,4 +18983,5 @@ rehan
 - [Babu S]
 - [Daedil-Ithil](https://github.com/Daedil-Ithil)
 - [Medine Ceylan](https://github.com/medineceylan)
+- [Yuriy Cherniy]
 - [Philip Winnington](https://github.com/pwinning1991)
