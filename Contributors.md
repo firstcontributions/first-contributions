@@ -9286,6 +9286,7 @@ Aman Panjwani
 - [Pratik6554](https://github.com/pratik6554)
 - [Beatorizu](https://github.com/beatorizu)
 - [hsk97](https://github.com/hsk97)
+- [Jason Knight] (https://github.com/binary-knight)
 - [Lucas Espindola](https://github.com/espindolaa)
 - [Mouath Ibrahim](https://github.com/iMouath)
 - [Narendra Avula](https://github.com/narendradivi)
