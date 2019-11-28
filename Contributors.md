@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
@@ -18975,3 +18975,4 @@ rehan
 - [Pulkit Sharma](https://github.com/pulkitsharma7790)
 - [Adam Brzeziński](https://github.com/adabrz777)
 - [Babu S]
+- [Mathieu Chevet](https://github.com/mathieuchevet2)
