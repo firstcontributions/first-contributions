@@ -20,6 +20,7 @@
 - [Jesucrist0](https://github.com/Jesucrist0)
 - [Gabo Lopez](https://github.com/Gabolan)
 - [Adico](https://github.com/adico1)
+- [Vipin Malik] (https://github.com/0Vipin0)
 - [Sol Renato] (https://github.com/SRNT)
 - [Mehran Koushkebaghi] (https://github.com/Mehrank64)
 - [Cerebral Nomad] (https://github.com/cerebralnomad)
