@@ -3596,6 +3596,7 @@ Noam Taub
 - [Alec Mills](https://github.com/OxSon)
 - [Abhranil Bhattacharjee](https://github.com/abhranil08)
 - Matt Chang
+- [Vipin Malik](https://github.com/0Vipin0)
 - [David Perez](https://github.com/davidpv)
 - [lcherukuri](https://github.com/lcherukuri)
 - [Geoffrey Van Meirhaeghe](https://github.com/chetmayor)
