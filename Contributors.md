@@ -146,6 +146,7 @@
 - [Rahmanu Hermawan] (https://github.com/rahmanuh)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
 - [George Purnell](https://github.com/georgewpurnell)
+- [Colin Walsh](https://github.com/cmwalshWVU)
 - Eric Githinji
 - [Rahil Husain]
 - [Eric Seals](https://github.com/erjseals)
