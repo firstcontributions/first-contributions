@@ -93,6 +93,7 @@
 - [Kianoosh Sanatkar] (https://github.com/kianooshsanatkar)
 - [Amy Thompson] (https://github.com/amythompson9)
 - [James Westra]
+- [kittled]
 - [danrdash]
 - [Bryan Burzon] (https://github.com/Bburzon)
 - [Rohit Yadav](https://github.com/rohit-yadav)
