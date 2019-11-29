@@ -2901,6 +2901,7 @@ Stephan Sharpe
 - [Verduor](https://github.com/verduor)
 - [UnicodeRogue](https://github.com/UnicodeRogue)
 - Daniel Jung
+- [Joseph G](https://github.com/pearatme)
 - [Charlie Christiansson](https://github.com/Rodeby)
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Vignesh Nandhini Velu](https://github.com/vigneshvelu)
