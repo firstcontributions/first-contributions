@@ -1674,10 +1674,11 @@ Hammad Qureshi
 - [Masood Qaim](https://github.com/masodaqaim/)
 - [Chris Freeman](https://github.com/ChrisFreeman/)
 - [joern89](https://github.com/joern89/)
+- [Naman Jain](https://github.com/namanj123in)
 - [bvineyar](https://github.com/bvineyar/)
 - [trayscrape]
 - [vemu](https://github.com/xVemu)
-Josh Breslow
+- Josh Breslow
 - [Zygimantas Baltutis](https://github.com/stambus)
 - [Courtenay Wakil](https://github.com/cwakil17)
 - [Rasul Kireev](https://rasulkireev.com)
@@ -1685,9 +1686,9 @@ Josh Breslow
 - [Karthikeya Remilla]
 - [Paulo Rodrigues](https://github.com/pauloandreget)
 - [Paul Ozyzniewski](https://github.com/OziOcb)
-- [Naman Jain] (https://github.com/namanj123in)
+- [Naman Jain](https://github.com/namanj123in)
 - [Abhilasha Nagpal](https://github.com/AbhilashaN)
-[Niveditha Bhat](https://github.com/NivedithaBBhat)
+- [Niveditha Bhat](https://github.com/NivedithaBBhat)
 - [Kusal Priyanka Perera](https://github.com/KusalPriyanka)
 - [Mofi Rahman](https://github.com/moficodes)
 - [Yuvin Nimnaka Perera](https://github.com/YuvinNP)
