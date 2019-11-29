@@ -18952,6 +18952,7 @@ rehan
 - [Richard Cui](https://github.com/achuacui)
 - [navidadelpour](https://github.com/navidadelpour)
 - [Tomofumi Chiba](https://github.com/chibat)
+- [Bryce Howard](https://github.com/kbHoward2)
 - [turf0909](https://github.com/turf0909)
 - [peter xie](https://github.com/peterjpxie)
 - [Parthiban Dayalan](https://github.com/parthibandayalan)
