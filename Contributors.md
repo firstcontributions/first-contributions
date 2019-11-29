@@ -21,6 +21,7 @@
 - [Rushi Notaria]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Rob Harman]
+- [Jwad Aziz] (https://github.com/jwad96)
 - [Frederica Melbourne]
 - [Kamil Pacanek] (https://github.com/KamilPacanek)
 - [Simon Shapiro] (https://github.com/Simlion28)
