@@ -18902,7 +18902,8 @@ rehan
 - [Kashif](https://github.com/mnkashif)
 - [Ian Richards] (https://github.com/darkshadowwarrior)
 - Suman Shrestha
--[Mariam Leigh](https://github.com/mariamLeigh)
+- [Arijit Saha](https://github.com/TheArijitSaha)
+- [Mariam Leigh](https://github.com/mariamLeigh)
 - [Nathanael Guerrero] (https://github.com/NateG95)
 - [Ryan Stonegraber]
 - [Ian Richards](https://github.com/darkshadowwarrior)
@@ -18941,9 +18942,9 @@ rehan
 - [Vivek Rungta](https://github.com/vivek2108)
 - [Julius Kimuli](https://github.com/jkimuli)
 - [Ag S]
--[Heinrich le Roux](https://github.com/heinrichlrx)
--[Ethan Fritz](https://github.com/efbsmash)
--[Rodrigo Nobre](https://github.com/RoderickOxen)
+- [Heinrich le Roux](https://github.com/heinrichlrx)
+- [Ethan Fritz](https://github.com/efbsmash)
+- [Rodrigo Nobre](https://github.com/RoderickOxen)
 - [Nick Russo](https://github.com/nrusso21)
 - [Ted Dersch](https://github.com/tedez)
 - [Daniel Lee](https://github.com/dlee2015)
@@ -18955,7 +18956,7 @@ rehan
 - [Parthiban Dayalan](https://github.com/parthibandayalan)
 - [长柳](https://github.com/Hello-World-0X)
 - [Kalani Scarrott](https://github.com/kscarrott)
--[paradox-1234-abcd]
+- [paradox-1234-abcd]
 - [Andrew Zaytsev](https://github.com/sofly/)
 - [Ranjith Kumar]
 - [Psalms Kalu] (https://github.com/psalmskalu)
@@ -18977,9 +18978,9 @@ rehan
 - [jmknn33](https://github.com/jmknn33)
 - [Cedric Membrez](https://github.com/cmembrez)
 - [Simi23](https://github.com/Simi23)
--[jtruo](https://github.com/jtruo)
+- [jtruo](https://github.com/jtruo)
 - [Nick Adams]()
--[Ra]
+- [Ra]
 - [Mike McPherson] (https://github.com/MikeMcPherson)
 - [Hendro] (https://github.com/hpkishere)
 - [Jason] (https://github.com/JasonS09)
