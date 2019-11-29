@@ -103,6 +103,7 @@
 - [Hussein Sakr]
 - [Hung Hilton]
 - [Cory]
+- [Kevin Neely] (https://github.com/kneely)
 - [al co]
 - [Chad Fenwick](https://github.com/ChadwickFenwick)
 - [Marquita Hartman] (https://github.com/marquitah)
