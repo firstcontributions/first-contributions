@@ -138,12 +138,3 @@ git push origin <તમારી-શાખા-નામ-ઉમેરો>
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
-
-## આત્મ પ્રમોશન
-
-
-જો તમને આ પ્રોજેક્ટ પસંદ આયો, તો તેને સ્ટાર કરો [GitHub](https://github.com/Roshanjossey/first-contributions) પર. 
-
-જો તમે ખાસ કરીને ધર્માર્થ અનુભવો છો, તો follow [Roshan](https://roshanjossey.github.io/) twitter અને
-[GitHub](https://github.com/roshanjossey) પર.
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
