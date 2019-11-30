@@ -102,7 +102,7 @@ git push origin <add-your-name>
 
 在[這個網站](https://roshanjossey.github.io/first-contributions/#social-share)慶祝妳/你的成就並跟朋友及追隨者分享。
 
-如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+如果有任何疑問或想獲得更多協助，歡迎加入我們的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 
 現在就動手為其他專案貢獻你/妳的心力。我們整理了一個清單，裡面的專案都有簡單的議題可以著手。[去看看吧！](https://roshanjossey.github.io/first-contributions/#project-list)
 
