@@ -50,6 +50,7 @@
 - [Richard Tinajero] (https://github.com/rj-tinajero)
 - [Hunter Wang](https://github.com/fishfly)
 - [David Rubio](https://github.com/DavidRubio24)
+- [Sean Keane](https://github.com/seankeane)
 - [Sehyeong Lee](https://github.com/lsh23)
 - [Carlos Silva] (https://github.com/sabioes)
 - Kaustubh Dixit
