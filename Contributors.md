@@ -41,6 +41,7 @@
 - [Shrey Sharma] (https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
 - [Jamie Mayer](https://github.com/jamiemayer)
+- [Alex Crossley] (https://github.com/albeyal)
 - [Shanthan Chamala] (https://github.com/shanthanchamala)
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Arnaav Goyal](https://github.com/arnaavgoyal)
