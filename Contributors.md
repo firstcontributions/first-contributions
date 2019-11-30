@@ -16,6 +16,7 @@
 - [Arkadip](https://github.com/darkmatter18)
 - [Myungwoo Yang] (https://github.com/myungwoo-Y)
 - [Gina Kim] (https://github.com/GHK15)
+- [Sean Yeh] (https://github.com/seyeh)
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
