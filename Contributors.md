@@ -45,6 +45,7 @@
 - [doyoun Jeong](https://github.com/ooyuo)
 - [Jamie Mayer](https://github.com/jamiemayer)
 - [Alex Crossley] (https://github.com/albeyal)
+- [Anusha Chenreddy] (https://github.com/AnushaChenreddy)
 - [Shanthan Chamala] (https://github.com/shanthanchamala)
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Arnaav Goyal](https://github.com/arnaavgoyal)
