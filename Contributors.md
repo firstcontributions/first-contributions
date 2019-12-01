@@ -117,6 +117,7 @@
 - [Hussein Sakr]
 - [Hung Hilton]
 - [Cory]
+- [Alan] (https://github.com/0x416c616e)
 - [Kevin Neely] (https://github.com/kneely)
 - [al co]
 - [Chad Fenwick](https://github.com/ChadwickFenwick)
