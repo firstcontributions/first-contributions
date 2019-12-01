@@ -15,6 +15,7 @@
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Arkadip](https://github.com/darkmatter18)
+- [Soliu F. Okandeji](https://github.com/okandeji1)
 - [Myungwoo Yang] (https://github.com/myungwoo-Y)
 - [Gina Kim] (https://github.com/GHK15)
 - [Sean Yeh] (https://github.com/seyeh)
