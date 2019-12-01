@@ -141,6 +141,7 @@
 - [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
 - [Mark Mellor]
 - [Yash Shukla](https://github.com/yashukla)
+- [Samir Ansari](https://github.com/syansari)
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
 - [Joelle Helm](https://github.com/Joellehelm)
