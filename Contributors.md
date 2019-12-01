@@ -1,8 +1,10 @@
 ﻿# Contributors
 - [Yunki](https://github.com/yunkii)
+- [kazky] (http://github.com/kazky)
 - [Wonjun Chun] (https://github.com/WonjunChun)
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [from vs code Yuriy]
+- [Ryan Challen] (https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
@@ -16,6 +18,7 @@
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Arkadip](https://github.com/darkmatter18)
+- [Soliu F. Okandeji](https://github.com/okandeji1)
 - [Myungwoo Yang] (https://github.com/myungwoo-Y)
 - [Gina Kim] (https://github.com/GHK15)
 - [Sean Yeh] (https://github.com/seyeh)
@@ -51,6 +54,7 @@
 - [Richard Tinajero] (https://github.com/rj-tinajero)
 - [Hunter Wang](https://github.com/fishfly)
 - [David Rubio](https://github.com/DavidRubio24)
+- [Sean Keane](https://github.com/seankeane)
 - [Sehyeong Lee](https://github.com/lsh23)
 - [Carlos Silva] (https://github.com/sabioes)
 - Kaustubh Dixit
@@ -73,6 +77,7 @@
 - [David Vinter] (https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
 - [Sandra Marcela Herrera Arriaga] (https://github.com/SandraMarcelaHerrerraArriaga)
+- [Preetham R Kotian] (https://github.com/preethamrk)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Samarth Grover] (https://github.com/Samarth-G)
 - [Lucas Mitchell] (https://github.com/ljmitchell200)
@@ -114,6 +119,7 @@
 - [Hussein Sakr]
 - [Hung Hilton]
 - [Cory]
+- [Alan] (https://github.com/0x416c616e)
 - [Kevin Neely] (https://github.com/kneely)
 - [al co]
 - [Chad Fenwick](https://github.com/ChadwickFenwick)
@@ -140,6 +146,7 @@
 - [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
 - [Mark Mellor]
 - [Yash Shukla](https://github.com/yashukla)
+- [Samir Ansari](https://github.com/syansari)
 - [Cameron Tully-Smith] (https://github.com/cameronts)
 - [Paweł Guzik]
 - [Joelle Helm](https://github.com/Joellehelm)
@@ -185,6 +192,7 @@
 - [Pablo Cañas Castellanos] (https://github.com/pcanas/)
 - [Kevin] (https://github.com/Altenmann)
 - [Adam] (https://github.com/BigRed77/]
+- [skillpoint-dev](https://github.com/skillpoint-dev)
 - [Bobby G] (https://github.com/bob2517/)
 - [Natnael-Alemayehu] (https://github.com/NatnaelAlemayehu)
 - [Alex Thomson] (https://github.com/alexthomson1)
@@ -573,6 +581,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Nikita Tonkoshkur](https://github.com/bloodwithmilk25)
 - [Poki](https://github.com/pokidokika)
 - [Vasilii Pupkin](https://github.com/shivam-sood)
+- [Will Garrison]
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Arturo Iglesias](https://github.com/iglesias294)
 - [Gabriel Lefundes] (https://github.com/glefundes)
@@ -15732,6 +15741,7 @@ macdara-dev
 - last3oy
 - [Namer Afzal](https://github.com/NaCoder92)
 - Bruce bi
+- [Mukul](https://github.com/CS-savvy)
 - [Dileep](https://github.com/IshankaDSenevirathne)
 - [Sejla Ali] (https://github.com/sejlaali)
 - [Sam Barrowclough](https://github.com/sambarrowclough)
@@ -19016,3 +19026,4 @@ rehan
 - [lolmc](https://github.com/lolmc00)
 - [Bin Gao](https://github.com/BinGaoX)
 - [jamtot](https://github.com/jamtot)
+- [Rez Gholizadeh] (https://github.com/rzgholizadeh)
