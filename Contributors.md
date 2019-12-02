@@ -29,6 +29,7 @@
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rushi Notaria]
+- [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Rob Harman]
 - [Jwad Aziz] (https://github.com/jwad96)
