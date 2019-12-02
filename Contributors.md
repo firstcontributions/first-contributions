@@ -12,6 +12,7 @@
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 - [Amarachi Iwuh] (https://github.com/amarachi97)
+- [Anurag Volety] (https://github.com/AnuragVolety)
 - [Gary Heffernan] (https://github.com/garyHeffernan)
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Nuria Vázquez] (https://github.com/vaznuria)
