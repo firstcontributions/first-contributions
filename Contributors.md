@@ -19020,6 +19020,7 @@ rehan
 - [Frank Harvey McManus](https://github.com/thefrankharvey)
 - [Matt Germaine](https://github.com/mgermaine93)]
 - [mpnigh]
+- [nsalladay](https://github.com/nsalladay)
 - [Sritam Behera](https://github.com/sritambehera)
 - [Derek Anderson](https://github.com/andder1)
 - [Smit](https://github.com/smit666)
