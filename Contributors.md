@@ -14864,6 +14864,7 @@ macdara-dev
 - [Tom Raley](https://github.com/halcyondays22)
 - [Tom Hardy](https://github.com/wuxmedia)
 - [Thales Junior](https://github.com/ThalesGomesJr)
+- [Himanshu Borah](https://github.com/boorah)
 - [Tegar Jagat Geni Arya Perkasa](https://github.com/tegarjgap)
 - [Jose Freitas](http://github.com/jaugustocesar)
 - [Adam Csillag] (https://github.com/adamcsillag)
