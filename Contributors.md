@@ -4959,6 +4959,7 @@ Noam Taub
 - [Richard Sachek](https://github.com/rsachek)
 - [Khushboo Verma](https://github.com/vermakhushboo)
 - [Emily Yang](https://github.com/emilyyz92)
+- [Vincent Tran](https://github.com/vihutr)
 - [Collins Kelechi](https://github.com/collinskelechi)
 - [Jack Holsgrove](https://github.com/jackholsgrove)
 - [Maxwell Chen](https://github.com/maxhchen)
