@@ -19028,3 +19028,4 @@ rehan
 - [Bin Gao](https://github.com/BinGaoX)
 - [jamtot](https://github.com/jamtot)
 - [Rez Gholizadeh] (https://github.com/rzgholizadeh)
+- [Manuel Sanchez] (https://github.com/manuelsanc)
