@@ -1,12 +1,12 @@
 <body><article class="markdown-body"><p><a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://camo.githubusercontent.com/d41b9884bd102b525c8fb9a8c3c8d3bbed2b67f0/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313033" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" style="max-width:100%;"></a>
-<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY" rel="nofollow"><img align="right" width="150" src="../assets/join-slack-team.png" data-canonical-src="https://firstcontributions.herokuapp.com/badge.svg" style="max-width:100%;"></a>
+<a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM" rel="nofollow"><img align="right" width="150" src="../assets/join-slack-team.png" data-canonical-src="https://firstcontributions.herokuapp.com/badge.svg" style="max-width:100%;"></a>
 <a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/76f0e887c183ccc31c1cb63c33d2dbf48cb2df51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667" alt="License: MIT" data-canonical-src="https://img.shields.io/badge/License-MIT-green.svg" style="max-width:100%;"></a>
 <a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a></p>
 <p dir="rtl">بخاطر ترجمه ضعیف شرمندم میتونین نسخه فینگلیش رو بخونین که قطعا بهتره</p>
 <h1 dir="rtl">
 <a id="user-content-اولین-مشارکت" class="anchor" href="#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>اولین مشارکت</h1>
 <p dir="rtl">سخته . همیشه سخته که برای اولین بار کاری رو انجام بدی. مخصوصا وقتی داری همکاری میکنی. اشتباه کردن چیز راحتی نیست. اما دنیای متن باز تماماً درباره مشارکت و همکاری هست. ما میخواستیم تا راه رو ساده کنیم تا مشارکت کننده های جدید این همکاری رو برای بار اول یاد بگیرن</p>
-<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ حدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
+<p dir="rtl">خوندن مقالات و نگاه کردن ویدیو های آموزشی میتونه کمک کنه. اما چی از واقعاً انجام دادن کار بدون خرابکاری بهتره ؟ هدف این پروژه فراهم کردن یک راهنما و ساده کردن مسیر برای تازه کار هاست تا اولین مشارکت رو انجام بدن. یادت باشه: هرچی ریلکس تر باشی. بهتر یاد میگیری. اگه میخوای اولین همکاریت رو انجام بدی فقط راهنمای قدم به قدم ساده زیر رو انجام بده. ما قول میدیم. خوش میگذره </p>
 
 <p dir="rtl">اگه روی دستگاهت گیت نداری.
 <a href="https://help.github.com/articles/set-up-git/"> نصبش کن</a>.</p>
@@ -47,7 +47,7 @@
 </code></pre>
 <p dir="rtl">لازم نیست کلمه
 <code>add</code>
-رو اول اسم برنچ بنویسی اما از اونجا که حدف از ساخت این برنچ اضافه کردن اسمت به لیست هست کار منطقی ای هست</p>
+رو اول اسم برنچ بنویسی اما از اونجا که هدف از ساخت این برنچ اضافه کردن اسمت به لیست هست کار منطقی ای هست</p>
 <h2 dir="rtl">
 <a id="user-content-تغیرات-ضروری-رو-انجام-بده-و-کامیت-کن" class="anchor" href="#%D8%AA%D8%BA%DB%8C%D8%B1%D8%A7%D8%AA-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C-%D8%B1%D9%88-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%A8%D8%AF%D9%87-%D9%88-%DA%A9%D8%A7%D9%85%DB%8C%D8%AA-%DA%A9%D9%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>تغیرات ضروری رو انجام بده و کامیت کن</h2>
 <p dir="rtl">حالا فایل
