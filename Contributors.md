@@ -32,6 +32,7 @@
 - [Rushi Notaria]
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
+- [Mohamad Nachabe] (https://github.com/mohamadnachabe)
 - [Rob Harman]
 - [Jwad Aziz] (https://github.com/jwad96)
 - [Frederica Melbourne]
