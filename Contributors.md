@@ -2558,6 +2558,7 @@ Stephan Sharpe
 - [Eric Hsu](https://github.com/ehsu4220)
 - Prasanth
 - [Pieter Oosthuizen](https://github.com/pieter-oosthuizen)
+- [David Smith] (https://github.com/shutupbobpage)
 - [Hemant Reddy](https://github.com/hemantreddy)
 - [Gerhard Mostert](https://github.com/Stratigix)
 - [SergeyTkachenko-Cj](https://github.com/SergeyTkachenko-Cj)
@@ -19027,3 +19028,4 @@ rehan
 - [Bin Gao](https://github.com/BinGaoX)
 - [jamtot](https://github.com/jamtot)
 - [Rez Gholizadeh] (https://github.com/rzgholizadeh)
+
