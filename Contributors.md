@@ -13235,6 +13235,7 @@ macdara-dev
 - [Supreet Singh](https://github.com/supreetsingh247)
 - [Idan Raman](https://github.com/Idanraman)
 - [Brian-Burke](https://github.com/bburke1996)
+- [Gabriela Rojas] (https://github.com/rojas-gabriela)
 - [Kalalau Cantrell](https://github.com/klcantrell)
 - [Srinivasu Reddy](https://github.com/Srinu3366)
 - [Jerry Noftz](https://github.com/jnoftz)
