@@ -77,25 +77,25 @@
 - [Ivan Gonzalez] (https://github.com/scratchmex/)
 - [David Vinter] (https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
-- [Sandra Marcela Herrera Arriaga] (https://github.com/SandraMarcelaHerrerraArriaga)
-- [Preetham R Kotian] (https://github.com/preethamrk)
-- [Gregory El Bajoury] (https://github.com/Injechta)
-- [Samarth Grover] (https://github.com/Samarth-G)
-- [Lucas Mitchell] (https://github.com/ljmitchell200)
-- [Moses Amiedor] (https://github.com/atmdboss)
--[Rob Harman]
-- [Anthony Calvo]
-- [Menlam Choden]
-- [Muthu Nagarajan] (https://github.com/muthunagarajan1)
-- [Philipp Schardt] (https://github.com/philippschardt)
-- [Alex L]
-- [Andy song]
-- [Jonas Bak Phillipson]
-- [Nicholas Kelly]
-- [Nico Tanne] (https://github.com/El0quenz)
-- [Juan Perez]
-- [Harry Harrison] (https://github.com/HarryH-Tech)
-- [Ariel Herrera] (https://github.com/arielherrera)
+- [Sandra Marcela Herrera Arriaga](https://github.com/SandraMarcelaHerreraArriaga)
+- [Preetham R Kotian](https://github.com/preethamrk)
+- [Gregory El Bajoury](https://github.com/Injechta)
+- [Samarth Grover](https://github.com/Samarth-G)
+- [Lucas Mitchell](https://github.com/ljmitchell200)
+- [Moses Amiedor](https://github.com/atmdboss)
+- Rob Harman
+- Anthony Calvo
+- Menlam Choden
+- [Muthu Nagarajan](https://github.com/muthunagarajan1)
+- [Philipp Schardt](https://github.com/philippschardt)
+- Alex L
+- Andy song
+- Jonas Bak Phillipson
+- Nicholas Kelly
+- [Nico Tanne](https://github.com/El0quenz)
+- Juan Perez
+- [Harry Harrison](https://github.com/HarryH-Tech)
+- [Ariel Herrera](https://github.com/arielherrera)
 - [LVZ]
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
