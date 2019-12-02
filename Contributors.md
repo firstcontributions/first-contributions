@@ -38,6 +38,7 @@
 - [Simon Shapiro] (https://github.com/Simlion28)
 - [Sean R]
 - [Harsha K]
+- [Cem Kavuklu] (https://github.com/cemkavuklu)
 - [Joshua Cleverley] (https://github.com/JoshuaCleverley)
 - [Erik Kristofer Anderson] (https://github.com/erik-kristofer-anderson)
 - [Akshaya] (https://github.com/Akshayamittu)
