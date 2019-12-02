@@ -1,5 +1,5 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -8,9 +8,9 @@
 
 প্রথমবারের মত কোন কাজ করতে গেলে তা কঠিন বলেই মনে হবে। আর আপনি যদি অন্যদের কাজে সহযোগিতা করেন, তাহলে ভুলভ্রান্তিগুলো অত্যন্ত বিব্রতকর। অথচ 'ওপেন সোর্স'-এর মূল বিষয়টিই হচ্ছে পারস্পরিক সহযোগিতা ও একত্রে কাজ করা। আমরা চাই ওপেন সোর্সে অবদান রাখতে ইচ্ছুক নবীনরা যেন সহজেই শিখতে পারে এবং প্রথমবারের মত তাদের অবদান রাখতে পারে।
 
-প্রবন্ধ পড়ে এবং টিউটোরিয়াল দেখে অনেক কিছুই শেখা যায়, কিন্তু ব্যবহারিক পদ্ধতিতে কাজ করার চেয়ে ভালো কিছু হতে পারে না। এই প্রজেক্টের লক্ষ্য হচ্ছে নবীনদের দিকনির্দেশনা দেওয়া আর সেই সাথে তাদের প্রথম অবদান রাখার কাজটি সহজ করে তোলা। আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের সহজ ধাপগুলো অনুসরণ করুন। কথা দিচ্ছি, এই প্রক্রিয়াটি অত্যন্ত মজার ও অানন্দদায়ক।
+প্রবন্ধ পড়ে এবং টিউটোরিয়াল দেখে অনেক কিছুই শেখা যায়, কিন্তু ব্যবহারিক পদ্ধতিতে কাজ করার চেয়ে ভালো কিছু হতে পারে না। এই প্রজেক্টের লক্ষ্য হচ্ছে নবীনদের দিকনির্দেশনা দেওয়া আর সেই সাথে তাদের প্রথম অবদান রাখার কাজটি সহজ করে তোলা। আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের সহজ ধাপগুলো অনুসরণ করুন। কথা দিচ্ছি, এই প্রক্রিয়াটি অত্যন্ত মজার ও আনন্দদায়ক।
 
-#### *এই লেখাটি [অন্য ভাষা](translations/Translations.md).*য় পড়ুন* 
+#### *এই লেখাটি [অন্য ভাষায়  পড়ুন]translations/Translations.md). 
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -23,6 +23,7 @@
 
 ## রিপোজিটরি ক্লোন করুন
 
+
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
 এখন এই রিপোটি আপনার কম্পিউটারে ক্লোন করুন। এজন্যে প্রথমে ক্লোন(Clone) বাটনে ক্লিক করুন। এরপর ক্লিক করুন *ক্লিপবোর্ডে কপি করুন(copy to clipboard)* আইকনটিতে।
@@ -32,7 +33,7 @@
 ```
 git clone "url you just copied"
 ```
-যেখানে "url you just copied" (উদ্ধৃতি চিহ্ণ ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
+যেখানে "url you just copied" (উদ্ধৃত চিহ্ণ ব্যতীত) হচ্ছে এই রিপোজিটরির ইউআরএল যা আপনি পূর্বের ধাপেই পেয়েছেন।
 
 <img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -110,10 +111,5 @@ git push origin <add-your-name>
 |---|---|---|
 |[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
 
-## সেলফ-প্রমোশন
 
-এই প্রজেক্টটি পছন্দ হলে [গিটহাবে](https://github.com/Roshanjossey/first-contributions) তারকাচিহ্নিত(star) করুন।
-এছাড়া আপনি [Roshan](https://roshanjossey.github.io/) কে ফলো করতে পারেন
-[টুইটার](https://twitter.com/sudo__bangbang) এবং
-[গিটহাব](https://github.com/roshanjossey)-এ।
 
