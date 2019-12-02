@@ -8,6 +8,7 @@
 - [Gary Heffernan]
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
+- [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 - [Amarachi Iwuh] (https://github.com/amarachi97)
