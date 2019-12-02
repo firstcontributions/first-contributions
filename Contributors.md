@@ -1320,6 +1320,7 @@ notForProffitt
 - [Abhishek Jain](https://github.com/AbhishekJain2033)
 - [Raghavendra Dillikar]
 - [Jaroslava Secka]
+- [Jafrul Sadek Nabil](https://github.com/n4b1l007)
 - [Vincent64ify](https://github.com/Vincent64ify)
 - [Maheep Walia](https://github.com/waliamaheep)
 - [Alan Garcia](https://github.com/alandvgarcia)
