@@ -27,7 +27,7 @@
 یہ آپ کے کھاتے میں اس کی ایک نقل ذخیرہ کرے گا۔.
 </div>
 
-## <div dir="rtl"> ذخیرے کا کلون کجیے </div>
+## <div dir="rtl">ذخیرے کا کلون کیجیے</div>
 
 <div dir="rtl">
 اب آپ اپنی مشین پر یہ ریپو کلون کریں.
@@ -121,10 +121,10 @@ git push origin <add-your-name>
 
 ### <div dir="rtl"> [ اضافی مواد ](../additional-material/git_workflow_scenarios/additional-material.md) </div>
 
-## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔ </div>
+## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔   </div>
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
