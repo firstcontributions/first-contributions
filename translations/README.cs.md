@@ -113,7 +113,7 @@ Blahopřejeme! Právě jste dokončili standardní _fork -> clone -> edit ->_ pr
 
 Oslavte svůj první příspěvek se svými přáteli a následovníky přes [webovou aplikaci](https://roshanjossey.github.io/first-contributions/#social-share).
 
-V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu]https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+V případě, že byste měli jakékoliv otázky nebo potřebovali pomoct, můžete se [přidat k našemu Slack teamu](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
 Nyní vám už nic nebrání v příspívání do ostatních projektů. Připravili jsme pro vás seznam projektů, které mají jednoduché záležitosti k vyřešení/naprogramování, se kterými můžete začít. Podívejte se [zde](https://roshanjossey.github.io/first-contributions/#project-list).
 
@@ -126,11 +126,3 @@ Nyní vám už nic nebrání v příspívání do ostatních projektů. Připrav
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Sebe propagace
-
-Pokud se vm tento projket líbí, dejte mu hvězdičku na [GitHubu](https://github.com/Roshanjossey/first-contributions).
-Stránky původního autora [Roshan](https://roshanjossey.github.io/).
-[Stránky překladatele](https://bambusekd.cz).
-
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
