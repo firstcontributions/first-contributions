@@ -19037,4 +19037,5 @@ rehan
 - [Bin Gao](https://github.com/BinGaoX)
 - [jamtot](https://github.com/jamtot)
 - [Rez Gholizadeh] (https://github.com/rzgholizadeh)
+- [Bitaron](https://github.com/Bitaron)
 - [Manuel Sanchez] (https://github.com/manuelsanc)
