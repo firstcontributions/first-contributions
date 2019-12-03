@@ -323,6 +323,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Bhavya Libera]
 - [Micah Jones]
 - [Juan Canals] (https://github.com/juancanals75)
+- [Miguel Sanchez] (https://github.com/miguedep)
 - [Suryanshu Singh]
 - [Akshay Bhamare] (https://github.com/adb2396)
 - [Ujjwal Jain] (https://github.com/ujjwal29)
