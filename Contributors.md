@@ -1973,6 +1973,7 @@ Kebana Modise
 - jankit
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Ramiz Khan](https://github.com/ramizkhan99)
+- [Mihir Joshi](https://github.com/mformihir)
 - [John Whitaker](https://github.com/jwhitake)
 - [Ayomide Bamidele] (https://github.com/MozarellaMan)
 - [Maciek Slotwinski](https://github.com/grafzero)
