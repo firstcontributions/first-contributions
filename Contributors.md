@@ -19049,3 +19049,4 @@ rehan
 - [jamtot](https://github.com/jamtot)
 - [Rez Gholizadeh] (https://github.com/rzgholizadeh)
 - [Manuel Sanchez] (https://github.com/manuelsanc)
+- [Bruno Verussa](https://github.com/bverussa)
