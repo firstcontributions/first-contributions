@@ -6819,6 +6819,7 @@ Aman Panjwani
 - [Garrett Yaworski](https://github.com/gy162134)
 - [jahomax](https://github.com/jahomax)
 - [Joseph Harskamp](https://github.com/jeh26033)
+- [herstky] (https://github.com/herstky)
 - [Daniel Menachem](https://github.com/doom3007)
 - [jhartkopf](https://github.com/jhartkopf)
 - [Brennen Green](https://github.com/brennengreen)
