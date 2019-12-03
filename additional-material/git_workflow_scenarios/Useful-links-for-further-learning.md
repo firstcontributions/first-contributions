@@ -28,5 +28,9 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 23. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+26. [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+27. [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
+28. [Version Control using Git](https://ourcodingclub.github.io/2017/02/27/git.html)
+29. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 Keep adding more links, that you find helpful.
