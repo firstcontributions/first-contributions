@@ -18693,6 +18693,7 @@ rehan
 - [Prateek Pardeshi](https://github.com/prateekpardeshi)
 - [rodrrj](https://github.com/rodrrj)
 - [ai-aig](https://github.com/ai-gaanv)
+- [atit patel]
 - [shridhar kalavagunta](https://github.com/coolshrid)
 - [Sicun Chen](https://github.com/sicunchen)
 - [Roman Peeters](https://github.com/roman-peeters)
