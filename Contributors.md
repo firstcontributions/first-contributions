@@ -39,6 +39,7 @@
 - [Frederica Melbourne]
 - [Kamil Pacanek] (https://github.com/KamilPacanek)
 - [Simon Shapiro] (https://github.com/Simlion28)
+- [cstriker107](https://github.com/cstriker107)
 - [Sean R]
 - [Harsha K]
 - [Cem Kavuklu] (https://github.com/cemkavuklu)
@@ -10338,7 +10339,7 @@ Aman Panjwani
 - [Justin Abbott](https://github.com/justinabbott)
 - [Akkshay Lawrence](https://github.com/akkshaylawrence)
 - [cek-cek](https://github.com/cek-cek)
--   [chris_randle](https://github.com/narnys)
+- [chris_randle](https://github.com/narnys)
 - [Renan Vichetti](https://github.com/rvconessa)
 - [GaganDeep Singh](https://github.com/SGagan)
 - [MikeWLloyd](https://github.com/MikeWLloyd)
