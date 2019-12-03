@@ -16,6 +16,7 @@
 - [Gary Heffernan] (https://github.com/garyHeffernan)
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Nuria Vázquez] (https://github.com/vaznuria)
+- [Elle Mouton] (https://github.com/ellemouton)
 - [Babu Gopalakrishnan] (https://github.com/brgopalakrishnan)
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
