@@ -8,6 +8,7 @@
 - [Jordon Ulrich] (https://github.com/jodgey)
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
 - [Vama Mehta] (https://github.com/vamagithub)
+- [Happy Coder] (https://github.com/Haooy-Coder)
 - [Akshat Tyagi] (https://github.com/akshatyagi)
 - [Thomas Grutsch](https://github.com/ThomasGrutsch)
 - [Banjoanton](https://github.com/banjoanton)
