@@ -19066,3 +19066,4 @@ rehan
 - [Pierre Locus](https://github.com/pierrelocus)
 - [Dodeca b](https://github.com/polygonart6777)
 - [Ryan Riley Puzon](https://github.com/rpuzon01)
+- [JuSeong Kim](https://github.com/Sigmaflo2)
