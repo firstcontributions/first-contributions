@@ -1,4 +1,5 @@
 # Contributors
+- cmd-prompt
 -andreww
 - [Yunki](https://github.com/yunkii)
 - [prabusah](https://github.com/prabusah)
