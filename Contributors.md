@@ -6,6 +6,7 @@
 - [Wonjun Chun] (https://github.com/WonjunChun)
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [from vs code Yuriy]
+- [Eeshani Patel] (https://github.com/eeshani-p01)
 - [Ryan Challen] (https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - [Serdar İlarslan] (https://github.com/jokercraft)
