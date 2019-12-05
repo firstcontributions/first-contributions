@@ -148,6 +148,7 @@
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
+- [Soomin] (https://github.com/soominl)
 - [Dawood[ (https://github.com/nadurath)
 -[Tawhidul ISlam(https://github.com/lastsaintcrucified)
 - [Mohit] (https://github.com/newbiemohit)
