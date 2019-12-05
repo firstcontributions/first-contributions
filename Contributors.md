@@ -11,7 +11,9 @@
 - [Ryan Challen] (https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - [Serdar İlarslan] (https://github.com/jokercraft)
-- [Mahak Bansal]
+
+
+
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
@@ -417,6 +419,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Koushik] (https://github.com/koushikchowdhury2016)
 - [Aratnor] (https://github.com/Aratnor)
 - Tarunjot Singh
+- [Mahak Bansal]
 - [Meilani] (https://github.com/meilani)
 - [Nora Borcsok](https://github.com/borcsoknora)
 - [Jordan Aquadro] (https://github.com/jquad25)
