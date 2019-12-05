@@ -198,6 +198,7 @@
 - [William Bratz](https://github.com/wbratz)
 - [Ankit Goyal] (https://github.com/ankGoyal3)
 - [Rob Kruzel] (https://github.com/rkruzel19)
+- [Jash Sanghvi](https://github.com/ziplin)
 - [Acerbis Gianluca](https://github.com/acerbisgianluca)
 - [Sara Clements] (https://github.com/SaraClements)
 - [Manak Mishra] (https://github.com/manakmishra)
