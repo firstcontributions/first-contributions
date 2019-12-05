@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - cmd-prompt
 -andreww
 - [Yunki](https://github.com/yunkii)
@@ -2068,6 +2068,7 @@ Kebana Modise
 - [George Papadas](https://github.com/gpapadas)
 - [Cecilia Hanson](https://github.com/cmhanson93)
 - Jay Kim
+- [Basavaraj Munnoli](https://github.com/basavaraj96)
 - [Hamdi Nahhas](https://github.com/hamdi977)
 - [ldyim](https://github.com/ldyim)
 - [Dedos](https://github.com/MValdebenito)
