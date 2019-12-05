@@ -13,6 +13,7 @@
 - Something 20191205 0812
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
+- [Paul Thomas]
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
