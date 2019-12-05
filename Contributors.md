@@ -1,6 +1,7 @@
 ﻿# Contributors
 - cmd-prompt
 -andreww
+- [Alan Kavanagh](https://github.com/goidel)
 - [Yunki](https://github.com/yunkii)
 - [prabusah](https://github.com/prabusah)
 - [kazky] (http://github.com/kazky)
