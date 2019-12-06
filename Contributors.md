@@ -7710,6 +7710,7 @@ Aman Panjwani
 - [Zamblom](https://github.com/Zamblom)
 - Kevin Hudson
 - [Matthew Bent](https://github.com/mattbent)
+- [Heiker Gil](https://github.com/heikergil)
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [TechSupportSparky](https://github.com/TechSupportSparky)
 - [Raphael Croce](https://github.com/riffryder)
