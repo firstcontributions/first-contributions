@@ -8649,6 +8649,7 @@ Aman Panjwani
 - [Marlo Carreon](https://github.com/mcarreon)
 - [Rahul Krishna](https://github.com/krishrahul98)
 - [Qqlick](https://github.com/Qqlick)
+- [Andrew Kennedy](https://github.com/andreasdk)
 - [Michael Zeng](https://github.com/michaelzeng96)
 - Bailey Wong
 - WMD
