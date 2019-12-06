@@ -19090,8 +19090,10 @@ rehan
 - [Ryan Riley Puzon](https://github.com/rpuzon01)
 - [JuSeong Kim](https://github.com/Sigmaflo2)
 - [Aubrey Fletcher](https://github.com/aubreyfletcher6682)
+- [Anchal Bhalla](https://github.com/anchalbhalla)
 - [Munjue Kim](https://github.com/dorothy184)
 - [ifuture-pro](https://github.com/ifuture-pro)
 - [Ajinkya-gore](https://github.com/ajinkya7)
 - [Anton Dikarev](https://github.com/TonyDik)
 - [Mohammed Bilal](https://github.com/mdb571)
+
