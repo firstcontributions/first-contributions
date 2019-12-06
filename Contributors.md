@@ -23,6 +23,7 @@
 - [Anurag Volety] (https://github.com/AnuragVolety)
 - [Gary Heffernan] (https://github.com/garyHeffernan)
 - [Alejandro Garcia] (https://github.com/agc133)
+- [Sachin Mahesh] (https://github.com/cyrus303)
 - [Nuria Vázquez] (https://github.com/vaznuria)
 - [Sandeep Sharma](https://github.com/sandyyy007)
 - [Elle Mouton] (https://github.com/ellemouton)
