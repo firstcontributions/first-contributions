@@ -107,6 +107,7 @@
 - Nicholas Kelly
 - [Nico Tanne](https://github.com/El0quenz)
 - Juan Perez
+- [Phoenix181] (https://github.com/Phoenix181)
 - [Harry Harrison](https://github.com/HarryH-Tech)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [LVZ]
