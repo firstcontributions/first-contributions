@@ -38,6 +38,7 @@
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rushi Notaria]
+- [Lauren C]
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Mohamad Nachabe] (https://github.com/mohamadnachabe)
