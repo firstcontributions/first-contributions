@@ -4,18 +4,18 @@
 - [Alan Kavanagh](https://github.com/goidel)
 - [Yunki](https://github.com/yunkii)
 - [prabusah](https://github.com/prabusah)
-- [kazky] (http://github.com/kazky)
-- [Wonjun Chun] (https://github.com/WonjunChun)
-- [Robert Hostler] (https://github.com/RobertHostler)
+- [kazky](http://github.com/kazky)
+- [Wonjun Chun](https://github.com/WonjunChun)
+- [Robert Hostler](https://github.com/RobertHostler)
 - [from vs code Yuriy]
 - [Eeshani Patel](https://github.com/eeshani-p01)
-- [Ryan Challen] (https://github.com/RyanChallen/)
+- [Ryan Challen](https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - Something 20191205 0812
-- [Serdar İlarslan] (https://github.com/jokercraft)
-- [Kevin Aragon] (https://github.com/AragonCodes)
+- [Serdar İlarslan](https://github.com/jokercraft)
+- [Kevin Aragon](https://github.com/AragonCodes)
 - [Paul Thomas]
-- [Tomasz Holeksa] (https://github.com/TomaszHol)
+- [Tomasz Holeksa](https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 [Debaditya Dutta] (https://github.com/Deb-28)
@@ -1577,6 +1577,7 @@ saad hassan (https://github.com/saadhassan99)
 - [Melissa Darshini] (https://github.com/melda94)
 - [Samantha Hott](https://github.com/shott6)
 - [Nikhil Namal](https://github.com/NikhilNamal17)
+- [Shane Muirhead](https://github.com/ShaneMuir)
 - [Moksh Shukla](https://github.com/moksh-shukla)
 - [Siddharth Kundu](https://github.com/sid995)
 - [Ahmed Ogundimu](https://github.com/mcmedal001)
