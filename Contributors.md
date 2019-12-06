@@ -143,6 +143,7 @@
 - [Matt Thurling] (https://github.com/MattThurling)
 - [Dawit Tirore] (https://github.com/Tirore96)
 - [Hussein Sakr]
+- [Chelsea Reynolds] (https://github.com/chelsea1994)
 - [Hung Hilton]
 - [Cory]
 - [Alan] (https://github.com/0x416c616e)
