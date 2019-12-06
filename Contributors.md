@@ -184,6 +184,7 @@
 - [Francesc Pons] (https://github.com/fponsar)
 - [Wojciech Dobrychłop] (https://github.com/WojDob)
 - [Mudasir Issah] (https://github.com/danladi123)
+- [AFknUsername] (https://github.com/AFknUsername)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Daniela Arenas]
