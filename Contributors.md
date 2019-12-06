@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - cmd-prompt
 -andreww
 - [Alan Kavanagh](https://github.com/goidel)
@@ -19,6 +19,7 @@
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
 [Debaditya Dutta] (https://github.com/Deb-28)
+- [Dirk Kadijk] (https://github.com/dirkkadijk)
 - [Amarachi Iwuh] (https://github.com/amarachi97)
 - [Anurag Volety] (https://github.com/AnuragVolety)
 - [Gary Heffernan] (https://github.com/garyHeffernan)
