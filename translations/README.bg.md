@@ -10,9 +10,9 @@
 
 Четенето на статии и гледането на видео уроци помага, но има ли по-добър учител от практиката в защитена среда? Целта на този проект е да напътства и опрости първите стъпки на новобранците в участието и приноса към отворен софтуеър. Ако искате да направите първата си контрибуция и да станете част от обществото на отворен софтуеър, следвайте стъпките по-долу.
 
-#### *Ако не се чувствате комфортно използвайки command line (терминал), [ето и уроци за използването на програми с графичен интерфейс]( #tutorials-using-other-tools )*
+#### *Ако не се чувствате комфортно използвайки command line (терминал), [ето и уроци за използването на програми с графичен интерфейс]( #уроци-за-иползването-на-други-приложения )*
 
-#### *Можете да прочетете тази статия и на [други езици](translations/Translations.md).*
+#### *Можете да прочетете тази статия и на [други езици](/translations/Translations.md).*
 
 [🇮🇳](translations/README.hi.md)
 [🇲🇲](translations/README.mm_unicode.md)
@@ -157,12 +157,11 @@ git push origin <add-your-branch-name>
 
 Време да започнете да допринасяте и към други приекти. Ние сме съставили списък с проекти съдържащи лесни проблеми, които са лесни за начало. Проверете  [списъка от приекти в уеб приложението](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Допълнителни материали](additional-material/git_workflow_scenarios/additional-material.md)
+### [Допълнителни материали](/additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Уроци за иползването на други приложения
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|<a href="/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
 |---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
+|[GitHub Desktop](/github-desktop-tutorial.md)|[Visual Studio 2017](/github-windows-vs2017-tutorial.md)|[GitKraken](/gitkraken-tutorial.md)|[Visual Studio Code](/github-windows-vs-code-tutorial.md)|
