@@ -172,6 +172,7 @@
 - [AdeptSlice](https://github.com/AdeptSlice)
 - [VijayaPrakashGullapalli](https://github.com/VijayaPrakashGullapalli)
 - [Bilal Suleman]
+- [Daniel Borisov.]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
 - [Eddie Martinez-Lopez](https://github.com/rockcanteverdie)
@@ -209,7 +210,7 @@
 - [Suraj Chandgude] (https://github.com/iamsurajdc)
 - [AK47]
 - [Sam Reddy] (https://github.com/redsamg)
--_[Cliff Roberson]
+- [Cliff Roberson]
 - [Sharona Young](https://github.com/sharonay2015)
 - [Ahmad Kahla]
 - [William Bratz](https://github.com/wbratz)
