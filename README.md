@@ -44,6 +44,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇾](translations/README.my.md)
 [🇳🇱](translations/README.nl.md)
 [🇳🇬](translations/README.igb.md)
+[🇳🇴](translations/README.no.md)
 [🇳🇵](translations/README.np.md)
 [🇵🇭](translations/README.tl.md)
 [<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
