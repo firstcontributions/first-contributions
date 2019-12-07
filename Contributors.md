@@ -6998,6 +6998,7 @@ Aman Panjwani
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [Nitesh Nanda](https://github.com/niteshnanda02)
 - [Akshay Gupta](https://github.com/theakshaygupta)
+- [Guanzhou Jose Hu](https://josehu.com)
 - [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)
 - [Sanjana Ekanayake](https://github.com/Sanjanaekanayake)
 - [Tashima Dilrukshi](https://github.com/Tashimadilrukshi)
