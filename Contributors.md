@@ -1,6 +1,7 @@
 # Contributors
 - cmd-prompt
 -andreww
+- [Felix Lee](https://github.com/leeyt54)
 - [Eric Kim](https://github.com/erickim)
 - [Alan Kavanagh](https://github.com/goidel)
 - [Yunki](https://github.com/yunkii)
