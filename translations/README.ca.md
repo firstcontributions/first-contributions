@@ -10,7 +10,7 @@
 
 Llegir articles i mirar tutorials pot ser d'ajuda, però què millor que fer les coses en un entorn de pràctiques? Aquest projecte és una guia, simplificant la forma de fer la primera contribució per als principiants. Si voleu fer la primera contribució, seguiu les instruccions que es mostren a continuació: 
 
-#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)]( #tutorials-using-other-tools )*
+#### *Si no esteu còmode amb la línia d'ordres, [aquí hi ha tutorials utilitzant eines amb Interfaç Gràfica (GUI)](#tutorials-amb-altres-eines)*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fer fork d'aquest repsoitori" />
 
