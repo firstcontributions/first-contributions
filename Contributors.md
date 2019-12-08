@@ -19109,3 +19109,4 @@ rehan
 - [Manatsu Takahashi](https://github.com/your-diary)
 - [Rajesh K](https://github.com/rajesharma470)
 - [Devendra Parihar](https://github.com/devendra-parihar)
+- [Adrian Faisal](https://github.com/apldex)
