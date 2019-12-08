@@ -86,6 +86,7 @@
 - [Sehyeong Lee](https://github.com/lsh23)
 - [Carlos Silva] (https://github.com/sabioes)
 - Kaustubh Dixit
+-Komal Jhanwar
 - [Joao Portela] (https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
