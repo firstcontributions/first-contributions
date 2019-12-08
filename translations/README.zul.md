@@ -11,9 +11,9 @@ Kulukhuni. Kuhlale kunzima okokuqala lapho wenza okuthile. Ikakhulukazi uma ubam
 
 Ukufunda izihloko nokufundiswa kokubuka kungasiza, kodwa yini engcono kunokwenza okwamanje izinto ezenzakalweni? Le phrojekthi ihlose ukunikeza isiqondiso nokwenza ukuthi abaqalayo benze indlela yabo yokuqala. Uma ubheka ukwenza umnikelo wakho wokuqala, landela izinyathelo ezingezansi.
 
-#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.]( #tutorials-using-other-tools )*
+#### *Uma ungakhululekile ngomugqa womyalo, [nansi izifundo ezisebenzisa amathuluzi we-GUI.](#izinto-ezengeziwe-1)*
 
-#### *Funda lokhu  [kwezinye izilimi.](translations/Translations.md).*
+#### *Funda lokhu  [kwezinye izilimi.](/translations/Translations.md).*
 
 [🇮🇳](translations/README.hi.md)
 [🇲🇲](translations/README.mm_unicode.md)
@@ -173,11 +173,11 @@ Ungakwazi ukujoyina ithimba lethu elihle uma kwenzeka udinga noma yiluphi usizo 
 
 Manje ake siqale ngokunikela ngeminye imiklamo. Senze uhlu lwamaphrojekthi ngezinkinga ezilula ongaqala ngazo. Hlola  [uhlu lwamaphrojekthi kuhlelo lokusebenza lewebhu .](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Izinto ezengeziwe](additional-material/git_workflow_scenarios/additional-material.md)
+### [Izinto ezengeziwe](/additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Izinto ezengeziwe
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[Ideskithophu ye-GitHub](github-desktop-tutorial.md)|[I-Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Ikhodi ye-Visual Studio](github-windows-vs-code-tutorial.md)|
+|<a href="/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="/gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|---|---|---|---|---|
+|[GitHub Desktop](/github-desktop-tutorial.md)|[Visual Studio 2017](/github-windows-vs2017-tutorial.md)|[GitKraken](/gitkraken-tutorial.md)|[Visual Studio Code](/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](/sourcetree-macos-tutorial.md)|
