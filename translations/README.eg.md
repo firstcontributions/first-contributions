@@ -17,7 +17,7 @@
 </div>
 
 
-#### *Read this in [other languages](../Translations.md)* 
+#### *Read this in [other languages](/translations/Translations.md)* 
 
 
 <div dir="rtl">
@@ -148,10 +148,10 @@ git push origin "add-your-name"
 <div dir="rtl">يلا نخليك تبدأ تساهم في مشاريع بجد؟ عملنا قائمة بمشاريع بمشاكل بسيطة ممكن تبدأ بيها النهاردة.</div>
 <div dir="rtl">شوف <a href="https://roshanjossey.github.io/first-contributions/#project-list">قائمة المشاريع على الموقع. </a> </div>
 
-## <div dir="rtl"><a href="../additional-material/additional-material.md">حاجات وأدوات زيادة</a></div>
+## <div dir="rtl"><a href="/additional-material/git_workflow_scenarios/additional-material.md">حاجات وأدوات زيادة</a></div>
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="/gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|[GitHub Desktop](/github-desktop-tutorial.md)|[Visual Studio 2017](/github-windows-vs2017-tutorial.md)|[GitKraken](/gitkraken-tutorial.md)|
