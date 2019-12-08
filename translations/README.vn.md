@@ -11,7 +11,7 @@ Lần đầu tiên bạn làm điều gì đó thật khó khăn. Đặc biệt 
 
 Việc đọc hướng dẫn có tác dụng, nhưng có gì tốt hơn là thực sự đóng góp trong môi trường thực tiễn? project này nhằm mục đích cung cấp hướng dẫn và đơn giản hóa cách thức những người mới tham gia đóng góp. Nếu bạn mong muốn thực hiện việc đóng góp đầu tiên của mình, chỉ cần làm theo các bước đơn giản bên dưới.
 
-#### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.]( #tutorials-using-other-tools )*
+#### *Nếu bạn không thích làm việc với dòng lệnh, [đây là hướng dẫn sử dụng GUI.](#hướng-dẫn-sử-dụng-các-công-cụ-khác)*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
@@ -112,11 +112,11 @@ Bạn có thể tham gia slack của chúng tôi trong trường hợp bạn c�
 
 Để hỗ trợ bạn với việc đóng góp cho các project khác. Chúng tôi đã chuẩn bị danh sách các project đơn giản mà bạn có thể bắt đầu. Hãy kiểm tra [danh sách các project](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Tài liệu bổ sung](additional-material/git_workflow_scenarios/additional-material.md)
+### [Tài liệu bổ sung](/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Hướng dẫn sử dụng các công cụ khác
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+|<a href="/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="/gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|---|---|---|---|---|
+|[GitHub Desktop](/github-desktop-tutorial.md)|[Visual Studio 2017](/github-windows-vs2017-tutorial.md)|[GitKraken](/gitkraken-tutorial.md)|[Visual Studio Code](/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](/sourcetree-macos-tutorial.md)|
 
