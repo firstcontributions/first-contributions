@@ -1,6 +1,7 @@
 # Contributors
 - cmd-prompt
 -andreww
+- [Ghayoor ul Haq](https://github.com/GhayoorUlHaq)
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Felix Lee](https://github.com/leeyt54)
 - [Eric Kim](https://github.com/erickim)
