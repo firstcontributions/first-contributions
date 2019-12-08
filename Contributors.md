@@ -30,6 +30,7 @@
 - [Sachin Mahesh] (https://github.com/cyrus303)
 - [Nuria Vázquez] (https://github.com/vaznuria)
 - [Sandeep Sharma](https://github.com/sandyyy007)
+- [Ghayoor ul Haq](https://github.com/GhayoorUlHaq)
 - [Elle Mouton] (https://github.com/ellemouton)
 - [Babu Gopalakrishnan] (https://github.com/brgopalakrishnan)
 - [Marcos Hernandez] (https://github.com/MarcosHernandezArg)
