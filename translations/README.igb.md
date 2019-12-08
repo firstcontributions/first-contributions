@@ -10,9 +10,9 @@ O siri ike. Ọ na-esiri gị ike mgbe mbụ i mere ihe. Karịsịa mgbe ị na
 
 Ịgụ isiokwu & nkuzi ntanetị nwere ike inyere gị aka, ma gịnị dị mma karịa ime ihe ahụ na-eme ihe omume? Ihe oru a bu iji nye nduzi & mee ka ndi mmadu bidoro ibu onyinye mbu. Ọ bụrụ na ị na-achọ ime onyinye mbụ gị, gbasoo nzọụkwụ dị n'okpuru.
 
-#### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.]( #tutorials-using-other-tools )*
+#### *Ọ bụrụ na ị naghị enwe mmasị na akara iwu, [ebe a bụ nkuzi na-eji ngwaọrụ GUI.](#nkuzi-na-iji-ihe-ndi-ozo)*
 
-#### *Gụọ nke a n'asụsụ [ndị ọzọ](translations/Translations.md).*
+#### *Gụọ nke a n'asụsụ [ndị ọzọ](/translations/Translations.md).*
 
 
 [🇮🇳](translations/README.hi.md)
@@ -175,10 +175,10 @@ Nalee onyinye gị ma soro ndị enyi gị na ụmụazụ gị kerịta ya site
 Ugbu a, ka anyị malite site na inye onyinye maka ọrụ ndị ọzọ. Anyị ejikọtawo ndepụta nke oru na okwu dị mfe ị nwere ike ịmalite. Lelee [ndepụta nke oru na ngwa weebụ ](https://roshanjossey.github.io/first-contributions/#project-list).
 
 
-### [Ihe ndi ozo](additional-material/git_workflow_scenarios/additional-material.md)
+### [Ihe ndi ozo](/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Nkuzi na iji ihe ndi ozo
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
+|<a href="/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="/gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
+|---|---|---|---|---|
+|[GitHub Desktop](/github-desktop-tutorial.md)|[Visual Studio 2017](/github-windows-vs2017-tutorial.md)|[GitKraken](/gitkraken-tutorial.md)|[Visual Studio Code](/github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](/sourcetree-macos-tutorial.md)|
