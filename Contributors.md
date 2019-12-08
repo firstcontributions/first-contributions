@@ -11133,6 +11133,7 @@ macdara-dev
 - [Maksym Kosenko](https://github.com/maxie7)
 - [Bill Oniszko](https://github.com/boniszko)
 - [Sam Wischnewsky](https://github.com/samw430)
+- [Kirill Sosnovskii](https://github.com/MagicTearsAsunder)
 - [Yong Wang](https://github.com/yongwangd)
 - [Aarthi Gurusami](https://github.com/agurusa)
 - [James Wang](https://github.com/alphafishprop)
