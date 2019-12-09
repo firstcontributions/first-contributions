@@ -998,6 +998,7 @@ notForProffitt
 - [Aakash Jain](https://github.com/AakashJ2412)
 - [Meg H](https://github.com/huisyy)
 - [Zid Talel]
+- [Timothy Wang](https://github.com/Twang720)
 - [Zaifa Khan](https://github.com/khanzaifa37)
 - [Mahwish Izhar](https://github.com/MahwishIzhar)
 - [Hur Ali](https://github.com/hurali97)
