@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - cmd-prompt
 -andreww
 - [Aleksander Haugmo](https://github.com/opinion)
@@ -19119,4 +19119,5 @@ rehan
 - [Rajesh K](https://github.com/rajesharma470)
 - [Devendra Parihar](https://github.com/devendra-parihar)
 - [Adrian Faisal](https://github.com/apldex)
+- [Hong Xiang Yue](https://github.com/hxyue1)
 - [Albert Lee](https://github.com/albemlee)
