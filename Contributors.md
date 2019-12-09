@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - cmd-prompt
 -andreww
 - [Aleksander Haugmo](https://github.com/opinion)
@@ -19,6 +19,7 @@
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Paul Thomas]
+- [Cameron Harris]
 - [Abdullah Khairi] (https://github.com/iriahk89)
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
