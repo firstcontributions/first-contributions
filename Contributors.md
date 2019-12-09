@@ -137,6 +137,7 @@
 - [Kaushik](https://github.com/kk77777)
 - [Kianoosh Sanatkar] (https://github.com/kianooshsanatkar)
 - [Amy Thompson] (https://github.com/amythompson9)
+- [Gustavo SIlveira] (https://github.com/GustavoASIlveira)
 - [James Westra]
 - [kittled]
 - [danrdash]
