@@ -55,6 +55,7 @@
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Mohamad Nachabe] (https://github.com/mohamadnachabe)
 - [Rob Harman]
+- [Audric Ganser] (https://github.com/audricganser)
 - [Jwad Aziz] (https://github.com/jwad96)
 - [Frederica Melbourne]
 - [Kamil Pacanek] (https://github.com/KamilPacanek)
