@@ -97,6 +97,7 @@
 - [Shagun Chandra](https://github.com/JShug07)
 - [Christian Ford] (https://github.com/Christian-Ford)
 - [Dylan Westerhold](https://github.com/dwesty17)
+- [Chris Lee] (https://github.com/cleecode)
 - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
 - [Arna Maity] (https://github.com/Arna-Maity)
 - [Kunagu Varun Kumar] (https://github.com/kunaguvarun)
