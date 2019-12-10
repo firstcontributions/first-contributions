@@ -2,6 +2,7 @@
 - cmd-prompt
 -andreww
 - [Aleksander Haugmo](https://github.com/opinion)
+- [Enrique Madrid] (https://github.com/enmadrid76)
 - [Felix Lee](https://github.com/leeyt54)
 - [Eric Kim](https://github.com/erickim)
 - [Alan Kavanagh](https://github.com/goidel)
