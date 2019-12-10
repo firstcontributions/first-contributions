@@ -32,6 +32,7 @@
 - [Gary Heffernan] (https://github.com/garyHeffernan)
 - [Alejandro Garcia] (https://github.com/agc133)
 - [Sachin Mahesh] (https://github.com/cyrus303)
+- [Venkatesh Wadawadagi](https://github.com/realvenky)
 - [Nuria Vázquez] (https://github.com/vaznuria)
 - [Sandeep Sharma](https://github.com/sandyyy007)
 - [Ghayoor ul Haq](https://github.com/GhayoorUlHaq)
