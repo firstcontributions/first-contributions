@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - cmd-prompt
 -andreww
 - [Aleksander Haugmo](https://github.com/opinion)
@@ -55,6 +55,7 @@
 - [Shrutte Murali] (https://github.com/shrutte97)
 - [Rushi Notaria]
 - [Lauren C]
+- [Krystal A] (https://github.com/KrysA2490)
 - [Dawid Motak](https://github.com/Motii1)
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
