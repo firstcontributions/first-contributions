@@ -4,6 +4,7 @@
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Enrique Madrid] (https://github.com/enmadrid76)
 - [Felix Lee](https://github.com/leeyt54)
+- [Bryan Rodríguez](https://github.com/bernestdev)
 - [Eric Kim](https://github.com/erickim)
 - [Karma Dolkar](https://github.com/karmadolkar)
 - [Alan Kavanagh](https://github.com/goidel)
