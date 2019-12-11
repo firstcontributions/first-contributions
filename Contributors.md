@@ -13,6 +13,7 @@
 - [prabusah](https://github.com/prabusah)
 - [Preetham] (https://github.com/akaashpreetham1)
 - [kazky] (http://github.com/kazky)
+- [Jack Biscupski] (https://github.com/jay-bis)
 - [Wonjun Chun] (https://github.com/WonjunChun)
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [from vs code Yuriy]
