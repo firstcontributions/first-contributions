@@ -143,6 +143,7 @@
 - [Harry Harrison](https://github.com/HarryH-Tech)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [LVZ]
+- [Erica Xia](https://github.com/EricaXia)
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
 - [Aryen Hemvatan](https://github.com/TheJackalTR)
