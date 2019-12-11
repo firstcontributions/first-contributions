@@ -5,6 +5,7 @@
 - [Enrique Madrid] (https://github.com/enmadrid76)
 - [Felix Lee](https://github.com/leeyt54)
 - [Bryan Rodríguez](https://github.com/bernestdev)
+- [Jordan Jones](https://github.com/jordavejones)
 - [Eric Kim](https://github.com/erickim)
 - [Karma Dolkar](https://github.com/karmadolkar)
 - [Alan Kavanagh](https://github.com/goidel)
