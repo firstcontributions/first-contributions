@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - cmd-prompt
 -andreww
 - [Aleksander Haugmo](https://github.com/opinion)
@@ -19117,6 +19117,7 @@ rehan
 - [Bruno Verussa](https://github.com/bverussa)
 - [Pierre Locus](https://github.com/pierrelocus)
 - [Dodeca b](https://github.com/polygonart6777)
+- [Francesco Blaise]
 - [Ryan Riley Puzon](https://github.com/rpuzon01)
 - [JuSeong Kim](https://github.com/Sigmaflo2)
 - [Aubrey Fletcher](https://github.com/aubreyfletcher6682)
