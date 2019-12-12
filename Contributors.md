@@ -27,6 +27,7 @@
 - [Paul Thomas]
 - [Cameron Harris]
 - [Abdullah Khairi] (https://github.com/iriahk89)
+- [Juan Diego Marin] (https://github.com/Juantonn)
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
