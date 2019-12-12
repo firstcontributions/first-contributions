@@ -19133,6 +19133,7 @@ rehan
 - [Dodeca b](https://github.com/polygonart6777)
 - [Ryan Riley Puzon](https://github.com/rpuzon01)
 - [JuSeong Kim](https://github.com/Sigmaflo2)
+- Deya Sarkar
 - [Aubrey Fletcher](https://github.com/aubreyfletcher6682)
 - [Munjue Kim](https://github.com/dorothy184)
 - [ifuture-pro](https://github.com/ifuture-pro)
