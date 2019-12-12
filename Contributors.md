@@ -1,6 +1,7 @@
 ﻿# Contributors
 - cmd-prompt
 -andreww
+- [Tim] (https://github.com/adlotsof)
 - [Jamie] (https://github.com/jamiemorgan14)
 - [Shelly] (https://github.com/shellyhu3)
 - [Aleksander Haugmo](https://github.com/opinion)
