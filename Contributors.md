@@ -28,6 +28,7 @@
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Paul Thomas]
+- [Jason Polanco] (https://github.com/JayPolanco)
 - [Cameron Harris]
 - [Abdullah Khairi] (https://github.com/iriahk89)
 - [Juan Diego Marin] (https://github.com/Juantonn)
