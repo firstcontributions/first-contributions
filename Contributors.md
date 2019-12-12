@@ -1990,6 +1990,7 @@ Haris Siddiqui
 Nishtha3512
 - [Mathob Jehanno](https://github.com/mJehanno)
 - [Pragat Pandya](https://githubcom/psp2103)
+- [Sagar Singh Saud](https://github.com/sagarsaud51)
 - [Singam Bhargav Ram](https://github.com/SBhargav15)
 - [Je Hyun Kim](https://github.com/je-hyun)
 - [Soumick Pyne] (https://github.com/Soumick-Pyne)
