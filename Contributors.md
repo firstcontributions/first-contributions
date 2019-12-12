@@ -8850,6 +8850,7 @@ Aman Panjwani
 - [Skyelah Bay](https://github.com/SkyelahBay)
 - [Akhtam Ismatov](https://github.com/Akhtam)
 - [Tushar Sharma](https://github.com/Tusharsharma118/)
+- [Jefferson Wagner](https://github.com/ClackABat/)
 - kiruthika
 - [Ray Kugler](https://github.com/raykugler)
 - [Matthew Denend](https://github.com/mdenend)
