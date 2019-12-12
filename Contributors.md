@@ -16,6 +16,7 @@
 - [Jack Biscupski] (https://github.com/jay-bis)
 - [Wonjun Chun] (https://github.com/WonjunChun)
 - [Robert Hostler] (https://github.com/RobertHostler)
+- [Logan Hershberger] (https://github.com/loganhersh)
 - [from vs code Yuriy]
 - [Eeshani Patel](https://github.com/eeshani-p01)
 - [Divij Bajaj](https://github.com/divij30bajaj)
