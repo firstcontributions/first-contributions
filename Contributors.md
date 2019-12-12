@@ -1,6 +1,7 @@
 ﻿# Contributors
 - cmd-prompt
 -andreww
+- [Shelly] (https://github.com/shellyhu3)
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Enrique Madrid] (https://github.com/enmadrid76)
 - [Felix Lee](https://github.com/leeyt54)
