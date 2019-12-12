@@ -150,6 +150,7 @@
 - [Harry Harrison](https://github.com/HarryH-Tech)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [LVZ]
+- [Maciej Nachtygal](https://github.com/macieyn)
 - [Erica Xia](https://github.com/EricaXia)
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
