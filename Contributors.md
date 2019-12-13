@@ -19159,3 +19159,4 @@ rehan
 - [Joe G](https://github.com/gleitej)
 - [BluScrn] (https://github.com/Bluscrn)
 - [João Oliveira] (https://github.com/jgoliveira) from vscode
+- [João Oliveira] (https://github.com/jgoliveira) from cmdline
