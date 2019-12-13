@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - cmd-prompt
 -andreww
 - Harsha
@@ -323,6 +323,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Gabriel Rodriguez] (https://github.com/gabrielrodriguezg)
 - [Marcin Wolkowicz] (https://github.com/mwolkowi17)
 - [xFabifont](https://github.com/xFabifont)
+- [CGDM101](https://github.com/CGDM101)
 - [Gabe Widmer](https://github.com/gabedude)
 - [liquidxd](https://github.com/liquidxd)
 - [Christos Petalotis](https://github.com/ChrisPetalotis)
