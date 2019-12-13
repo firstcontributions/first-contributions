@@ -119,6 +119,7 @@
 - [Dylan Westerhold](https://github.com/dwesty17)
 - [Chris Lee] (https://github.com/cleecode)
 - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
+- [Edward F](https://github.com/ejfarber)
 - [Arna Maity] (https://github.com/Arna-Maity)
 - [Kunagu Varun Kumar] (https://github.com/kunaguvarun)
 - [Karim jano] (https://github.com/kareemjano)
