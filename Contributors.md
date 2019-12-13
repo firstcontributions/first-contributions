@@ -19162,3 +19162,4 @@ rehan
 - [Joe G](https://github.com/gleitej)
 - [BluScrn] (https://github.com/Bluscrn)
 - [Rubens Saraiva] (https://github.com/rsaraiva)
+- [Shashant Nagpure] (https://github.com/ShashantNagpure)
