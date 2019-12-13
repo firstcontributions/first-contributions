@@ -1,6 +1,7 @@
 ﻿# Contributors
 - cmd-prompt
 -andreww
+- [Yufan] (http://github.com/yxc775)
 - [Tim] (https://github.com/adlotsof)
 - [Shuojin]
 - [Jamie] (https://github.com/jamiemorgan14)
