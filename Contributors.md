@@ -8485,6 +8485,7 @@ Aman Panjwani
 - [Manuel Seromenho](https://github.com/manuelseromenho)
 - [Ratika Bhuwalka](http://github.com/ratikabhuwalka)
 - Ephesius
+- [Lorenzo Cappellotto](https://github.com/gitcapp)
 - [The Sicilian Bull](https://github.com/denisjlanza)
 - [Ritika Nair](https://github.com/ritikavnair)
 - [Ovidiu Sabau](https://github.com/OvidiuSabau)
