@@ -8956,6 +8956,7 @@ Aman Panjwani
 - [ankush-rawat](https://github.com/Rawkush)
 - [Rachel Shawn](https://github.com/rkruShawn)
 - [KLR](https://github.com/karthicrajakumar)
+- [Marius Grigore] (https://github.com/grigorem)
 - [Mohammed Zubair khan](https://github.com/Mohammedzubairkhan)
 - [Duha Hassan](https://github.com/duha-h)
 - [Abhiroop Sen](https://github.com/asen121)
