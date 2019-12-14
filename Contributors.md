@@ -80,6 +80,7 @@
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Mohamad Nachabe] (https://github.com/mohamadnachabe)
+- [Erin Leck] (https://github.com/eel87)
 - [Rob Harman]
 - [Joey Seiler] (https://github.com/seilerjr)
 - [Audric Ganser] (https://github.com/audricganser)
