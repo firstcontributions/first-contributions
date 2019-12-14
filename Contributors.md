@@ -4,6 +4,7 @@
 - Harsha
 - Angelica
 - [Yufan] (http://github.com/yxc775)
+nitin sontineni
 - [Tim] (https://github.com/adlotsof)
 - [Shuojin]
 - [Jamie] (https://github.com/jamiemorgan14)
