@@ -2,6 +2,7 @@
 - cmd-prompt
 -andreww
 - Harsha
+- Angelica
 - [Yufan] (http://github.com/yxc775)
 - [Tim] (https://github.com/adlotsof)
 - [Shuojin]
