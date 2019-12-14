@@ -9129,6 +9129,7 @@ Aman Panjwani
 - [Lasgidy Gideon](https://github.com/lasgidy)
 - [Lina Grybauskaite](https://github.com/linaou)
 - [Faizaan Sakib](https://github.com/fznsakib)
+- [Oğuzhan Yıldız](https://github.com/bugraoguzhanyildiz)
 - [Alyssa](https://github.com/rageunleashed69)
 - [Jack Sodeman](https://github.com/TICG)
 - [Daniel Hawkins] (https://github.com/Dynam1cDan)
