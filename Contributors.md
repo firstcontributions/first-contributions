@@ -779,6 +779,7 @@
 - [Seth Polyniak](https://github.com/sethpoly)
 - [Nikhil Anand](https://github.com/muj-programmer)
 - [Vipul Chodankar](https://github.com/whiplash7)
+- [Maya Treacy] (https://github.com/mtreacy002)
 - [Mayank Kanoria](https://github.com/mkanoria)
 - [MC_Leut](https://github.com/MCLeut)
 - [Sherif Dauda](https://github.com/sherifdauda)
