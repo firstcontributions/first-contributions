@@ -6440,6 +6440,7 @@ Aman Panjwani
 - [Brandon Avila](https://github.com/brandonravila)
 - Cody
 - Nipun Goel
+- [Ivine B](https://github.com/ivineb)
 - [Gus Person](https://github.com/gusperson)
 - [Ivan Ivanov - Bolzano](https://github.com/ivivanov18)
 - [Tiffany F](https://github.com/tifffai)
