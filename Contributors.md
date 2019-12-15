@@ -7,6 +7,7 @@
 - [Tharupahan] (https://github.com/Tharupahan)
 - [Tim] (https://github.com/adlotsof)
 - [Shuojin]
+- [ovezovs] (https://github.com/ovezovs)
 - [Jamie] (https://github.com/jamiemorgan14)
 - [Mahmood Darwish] (https://github.com/Mahmood-Darwish)
 - [Rebecca] (https://github.com/rmmartino)
