@@ -17516,7 +17516,7 @@ macdara-dev
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
-- [Dipanshu Agarwal](https://github.com/Dipanshu9689)
+- [Dipanshu Agarwal](https://github.com/dipanshuagarwal)
 - [Fergus Mac](https://github.com/fergusmac)
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [grun00](https://github.com/grun00)
