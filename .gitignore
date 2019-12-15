@@ -81,3 +81,8 @@ config.json
 Session.vim
 .netrwhist
 *~
+
+#PyCharm
+#
+__pycache__/
+venv/
