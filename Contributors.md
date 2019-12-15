@@ -7,6 +7,7 @@
 - [Tim] (https://github.com/adlotsof)
 - [Shuojin]
 - [Jamie] (https://github.com/jamiemorgan14)
+- [Mahmood Darwish] (https://github.com/Mahmood-Darwish)
 - [Rebecca] (https://github.com/rmmartino)
 - [Shelly] (https://github.com/shellyhu3)
 - [Aleksander Haugmo](https://github.com/opinion)
