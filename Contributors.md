@@ -457,6 +457,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Rohan Singh](https://github.com/rusia111)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
 - [Lee Kian Wee](https://github.com/kianweelee)
+- [Aryeh Marnyansky] (https://github.com/marnyansky/)
 - [Kaushal Gosaliya](https://github.com/kaushalgosaliya5)
 - [Krass Iankov] (https://github.com/Krass101)
 - [Abhishek Sharma](https://github.com/abhi99-lang)
