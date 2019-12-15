@@ -17,6 +17,7 @@
 - [Felix Lee](https://github.com/leeyt54)
 - [Bryan Rodríguez](https://github.com/bernestdev)
 - [Jordan Jones](https://github.com/jordavejones)
+- [Adam Cassidy](https://github.com/AdamCassidy)
 - [Eric Kim](https://github.com/erickim)
 - [Shiwam Jaiswal](https://github.com/jshiwam)
 - [Karma Dolkar](https://github.com/karmadolkar)
