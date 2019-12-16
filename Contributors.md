@@ -49,6 +49,7 @@
 - [Neil Gayeta] (https://github.com/neilrg2)
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
+- [David Rowan](https://github.com/rowanD72)
 - [Ahmed Zahran]
 - [Heath Robinson] (https://github.com/heathexer)
 [Debaditya Dutta] (https://github.com/Deb-28)
