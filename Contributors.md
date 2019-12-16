@@ -97,6 +97,7 @@
 - [Jwad Aziz] (https://github.com/jwad96)
 - [Frederica Melbourne]
 - [Kamil Pacanek] (https://github.com/KamilPacanek)
+- [Narendra Chaudhary] (https://github.com/narendrachaudhary51)
 - [Simon Shapiro] (https://github.com/Simlion28)
 - [cstriker107](https://github.com/cstriker107)
 - [Sean R]
