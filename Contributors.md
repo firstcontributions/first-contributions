@@ -19179,6 +19179,7 @@ rehan
 - [Adrian Faisal](https://github.com/apldex)
 - [Hong Xiang Yue](https://github.com/hxyue1)
 - [Albert Lee](https://github.com/albemlee)
+- [William Blan](https://github.com/AncientRickles)
 - [Aurelie Verrot](https://github.com/aurelieverrot)
 - [Kevin Lee](https://github.com/kevhlee)
 - [xingly](https://github.com/xingly)
