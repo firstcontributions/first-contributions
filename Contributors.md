@@ -10270,6 +10270,7 @@ Aman Panjwani
 - [Nate Denys](https://github.com/ndenys650)
 - [Fajar Maulana Firdaus](https://github.com/sosispanggang)
 - [Dmitry Kudriavtsev](https://github.com/dkudriavtsev)
+- [Luciano Menendez](https://github.com/LuchoJuniors)
 - [Hoomaaan]
 - [Mark Freeman](https://github.com/Jac08H)
 - [Zac Cericola](https://github.com/zcericola)
