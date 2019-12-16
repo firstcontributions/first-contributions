@@ -15,6 +15,7 @@
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [Ahmed Zahran]
+- [Enock Kasaadha] (https://github.com/EnockKasaadha)
 - [Amarachi Iwuh] (https://github.com/amarachi97)
 - [Anurag Volety] (https://github.com/AnuragVolety)
 - [Gary Heffernan] (https://github.com/garyHeffernan)
