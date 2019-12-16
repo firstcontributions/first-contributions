@@ -2,6 +2,7 @@
 - cmd-prompt
 -andreww
 - Harsha
+-[Olivier]
 - Angelica
 - [Erin] (https://github.com/erniekins)
 - [Paras Tripathi] (https://github.com/parastripathi)
