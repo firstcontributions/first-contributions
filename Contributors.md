@@ -4,6 +4,7 @@
 - Harsha
 - Angelica
 - [Erin] (https://github.com/erniekins)
+- [Paras Tripathi] (https://github.com/parastripathi)
 - [Yufan] (http://github.com/yxc775)
 - [Tharupahan] (https://github.com/Tharupahan)
 - [Tim] (https://github.com/adlotsof)
