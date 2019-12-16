@@ -6737,6 +6737,7 @@ Aman Panjwani
 - [Kartik Gupta](https://github.com/Z3N00)
 - [Yakub Babtunde](https://github.com/tyak99)
 - [Itay Nakash](https://github.com/itaynakash)
+- [Nikolai Kulikov](https://github.com/kokushkin)
 - [Itay Finci](https://github.com//FIITAY)
   [Joseph Myalla](https://github.com//sojelee)
 - [Ohad Leshno](https://github.com/ohadleshno)
