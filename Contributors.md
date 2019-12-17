@@ -1997,6 +1997,7 @@ Haris Siddiqui
 - [Le Aundre Jackson](https://github.com/Jacksole/)
 - [Libby H](https://github.com)
 - [CitrusPunk](https://github.com/CitrusPunk)
+- Sifon Isaac
 - [Graham Guthrie](https://github.com/grahamguthrie99)
 - Anshuman Singh
 - Steefan Raveenthiran
