@@ -19204,5 +19204,6 @@ rehan
 - [Ken Jenkins] (https://github.com/kenjenkins)
 - [Tom Balcombe] (https://github.com/tbal999)
 - [Smurfwow] (https://github.com/Smurfwow)
+- [Harsh Sharma](https://github.com/harshthecoder-27)
 - HAWK-Soft
 - Ronly
