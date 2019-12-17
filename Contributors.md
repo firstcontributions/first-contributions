@@ -186,6 +186,7 @@
 - [kittled]
 - [danrdash]
 - [Bryan Burzon] (https://github.com/Bburzon)
+- [M Agr]
 - [Rohit Yadav](https://github.com/rohit-yadav)
 - [Chiraze D.]
 - [Piyush Aggarwal] (https://github.com/piyush5807)
