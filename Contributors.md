@@ -136,6 +136,7 @@
 - [Carlos Silva] (https://github.com/sabioes)
 - Kaustubh Dixit
 -Komal Jhanwar
+- [Colin Duggan](https://github.com/cdugga)
 - [Joao Portela] (https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
 - [Shagun Chandra](https://github.com/JShug07)
