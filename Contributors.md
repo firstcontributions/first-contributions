@@ -31,6 +31,7 @@
 - [prabusah](https://github.com/prabusah)
 - [Ramonta Lee](https://github.com/Ramonta-Lee)
 - [Preetham] (https://github.com/akaashpreetham1)
+- [Alex Chondrogiannis] (https://github.com/alexchond)
 - [kazky] (http://github.com/kazky)
 - [Jack Biscupski] (https://github.com/jay-bis)
 - [Wonjun Chun] (https://github.com/WonjunChun)
