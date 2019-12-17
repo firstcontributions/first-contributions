@@ -7,6 +7,7 @@
 -[Olivier]
 - Angelica
 - [Erin] (https://github.com/erniekins)
+- [Tenzin Ngawang] (https://github.com/Tenzin1010)
 - [Paras Tripathi] (https://github.com/parastripathi)
 - [Yufan] (http://github.com/yxc775)
 - [Tharupahan] (https://github.com/Tharupahan)
