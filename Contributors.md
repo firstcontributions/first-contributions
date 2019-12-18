@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Ben] (https://github.com/zerler)
+- [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
 - cmd-prompt
 - Laslaa Mohammed
