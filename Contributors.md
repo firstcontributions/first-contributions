@@ -63,6 +63,7 @@
 - [Heath Robinson] (https://github.com/heathexer)
 [Debaditya Dutta] (https://github.com/Deb-28)
 - [Dirk Kadijk] (https://github.com/dirkkadijk)
+- [Anna Shilova] (https://github.com/thesparrow)
 - [Crystl Fall] (https://github.com/Fall-crystl)
 - [Amarachi Iwuh] (https://github.com/amarachi97)
 - [Anurag Volety] (https://github.com/AnuragVolety)
