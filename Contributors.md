@@ -19201,6 +19201,7 @@ rehan
 - [Albert Lee](https://github.com/albemlee)
 - [William Blan](https://github.com/AncientRickles)
 - [Aurelie Verrot](https://github.com/aurelieverrot)
+- [Lucas Alves de Almeida](Https://github.com/lalves86)
 - [Kevin Lee](https://github.com/kevhlee)
 - [xingly](https://github.com/xingly)
 - [Stefan Backovic](https://github.com/ck0ba)
