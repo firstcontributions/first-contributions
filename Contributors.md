@@ -19210,7 +19210,7 @@ rehan
 - [Shashant Nagpure] (https://github.com/ShashantNagpure)
 - [Sosoyeong](http://github.com/Sosoyeong)
 - [Ken Jenkins] (https://github.com/kenjenkins)
-- [Priyanka](https://github.com/Priyanka04-R)
+- [Priyanka R](https://github.com/Priyanka04-R)
 - [Tom Balcombe] (https://github.com/tbal999)
 - [Smurfwow] (https://github.com/Smurfwow)
 - [Harsh Sharma](https://github.com/harshthecoder-27)
