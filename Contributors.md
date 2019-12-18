@@ -14091,6 +14091,7 @@ macdara-dev
 - [Henrik Ripa](https://github.com/Gieron)
 - [Klmnv Srg](https://github.com/klmnvsrg)
 - [dantanq](https://github.com/dantanq)
+- [Minh Duong](https://github.com/johncegom)
 - [Sumeeta Farrukh](https://github.com/sumeetaf)
 - [Joshua Roberts](https://github.com/banananaki)
 - [Tarek Elbeih](https://github.com/ISpoonJelly)
