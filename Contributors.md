@@ -7,6 +7,7 @@
 - Harsha
 -[Olivier]
 - Angelica
+- [Emir] (https://github.com/EmirVatric)
 - [Erin] (https://github.com/erniekins)
 - [Tenzin Ngawang] (https://github.com/Tenzin1010)
 - [Paras Tripathi] (https://github.com/parastripathi)
