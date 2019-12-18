@@ -5,7 +5,8 @@
 - Laslaa Mohammed
 -andreww
 - Harsha
--[Olivier]
+- [Olivier]
+- [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
 - [Emir] (https://github.com/EmirVatric)
 - [Erin] (https://github.com/erniekins)
