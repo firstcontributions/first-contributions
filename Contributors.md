@@ -113,6 +113,7 @@
 - [cstriker107](https://github.com/cstriker107)
 - [Sean R]
 - [Harsha K]
+- [Alec Fremier] (https://github.com/alecfrem)
 - [Cem Kavuklu] (https://github.com/cemkavuklu)
 - [Iván Alberquilla] (https://github.com/ialberquilla)
 - [Joshua Cleverley] (https://github.com/JoshuaCleverley)
