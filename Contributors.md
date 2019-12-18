@@ -2,7 +2,8 @@
 - cmd-prompt
 -andreww
 - Harsha
--[Olivier]
+- [Olivier]
+- [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
 - [Erin] (https://github.com/erniekins)
 - [Paras Tripathi] (https://github.com/parastripathi)
