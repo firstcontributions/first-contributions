@@ -5196,6 +5196,7 @@ Noam Taub
 - [Sayan Sivakumaran](https://github.com/sivakusayan)
 - [VinayakR](https://github.com/vinayak519/)
 - [William Gooch](https://github.com/william-gooch/)
+- [Tyler Pursell](https://github.com/someper05)
 - [Flavio Wuensche](https://github.com/fwuensche)
 - [Rishabh Bansal](https://github.com/rishabh-bansal)
 - [David Velasquez](https://github.com/tripping-smalls)
