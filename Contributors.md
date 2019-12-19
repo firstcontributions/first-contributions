@@ -28,6 +28,7 @@
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Djeudjam Verane](https://github.com/vdjeudjam)
 - [Enrique Madrid] (https://github.com/enmadrid76)
+- [Niharika AT] (https://github.com/tniharika)
 - [Felix Lee](https://github.com/leeyt54)
 - [Bryan Rodríguez](https://github.com/bernestdev)
 - [Jordan Jones](https://github.com/jordavejones)
