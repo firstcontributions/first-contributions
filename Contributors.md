@@ -7,6 +7,7 @@
 - Laslaa Mohammed
 -andreww
 - Harsha
+- [Blair] (https://github.com/Blair221)
 - [Olivier]
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
