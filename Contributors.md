@@ -257,6 +257,7 @@
 - [Mudasir Issah] (https://github.com/danladi123)
 - [AFknUsername] (https://github.com/AFknUsername)
 - [Roshan Raj] (https://github.com/roshan-raj)
+- [Rishabh Jain] (https://github.com/rishabhj007)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Daniela Arenas]
 - [Khulan Myagmardorj] (https://github.com/myagmar2)
