@@ -11155,6 +11155,7 @@ macdara-dev
 - [qmlowery](https://github.com/qmlowery)
 - [Eyal Mendel](https://github.com/eyalmendel)
 - [Simran Kohli](https://github.com/simran0807)
+- Rishi-Purwar
 - [Kapil Goyal](https://github.com/kapil-goyal)
 - [Kapil Rijhwani](https://github.com/KapilRijhwani)
 - [Andr? Segatto Carrasque](https://github.com/andseg)
