@@ -9786,6 +9786,7 @@ Aman Panjwani
 - [Muskan Sharma](https://github.com/StarWonder67)
 - [Manuel Figueroa](https://github.com/manuelfs12)
 - [Jean Zombie](https://github.com/Jean-Zombie)
+- [Dov Rinkoff](https://github.com/dov-rinkoff)
 - [Ofonime Francis](https://github.com/opiumated)
 - [Velimir Kumric](https://github.com/vkumric)
 - [Monir Zaman](https://github.com/zamanuap)
