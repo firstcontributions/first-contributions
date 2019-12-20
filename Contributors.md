@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Asrori](https://github.com/Asrori)
 - [Suhani](https://github.com/suhani-goel)
@@ -518,6 +518,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Arishma Persadh] (https://github.com/arishma108/)
 - [Krish Yadav] (https://github.com/Krish-Yadav-2192)
 - [Tristan Holaday] (https://github.com/TristanHoladay)
+- [Rafael Souza](https://github.com/RafaelSouza94)
 - [Steven Schoor] (https://github.com/SSchoor163)
 - [Phillip Pham](https://github.com/PHIQW)
 - [hongmei](https://github.com/imhongmei)
