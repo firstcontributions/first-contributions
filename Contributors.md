@@ -415,6 +415,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Yash Shukla](https://github.com/Yash1256)
   [Salman Khan](https://github.com/Salmankhancodes)
 - [Anshumali Shaw](https://github.com/ankugolu)
+- [Valeriy Chistyakov](https://github.com/airens)
 - [Abhinav Shukla](https://github.com/AbsMechanik)
 - [Ajay R] (https://github.com/drstrange11)
 - [Ryan Schreck] (https://github.com/ryanSchreck)
