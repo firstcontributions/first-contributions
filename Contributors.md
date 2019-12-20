@@ -3506,6 +3506,7 @@ Noam Taub
 - Kent T
 - [Ashish Deep Singh](https://github.com/adsbhatial)
 - Nikhil
+- [John Heckbert](https://github.com/jheckbert)
 - [Matthew Hadfield](https://github.com/matthadfield)
 - [Joseph Gale](https://github.com/josephgale)
 - [Nate Mock](https://github.com/Nate-Mock)
