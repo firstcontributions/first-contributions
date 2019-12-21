@@ -1,6 +1,7 @@
 # Contributors
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Asrori](https://github.com/Asrori)
+- [Brad Singleton](https://github.com/bradjsingleton)
 - [Suhani](https://github.com/suhani-goel)
 - [Ben] (https://github.com/zerler)
 - [Akhil Singh] (https://github.com/HumbleBustler)
