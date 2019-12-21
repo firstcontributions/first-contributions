@@ -15,6 +15,7 @@
 - [Olivier]
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
+- [Allegra Copland] (https://github.com/snickercop)
 - [Emir] (https://github.com/EmirVatric)
 - [Erin] (https://github.com/erniekins)
 - [Tenzin Ngawang] (https://github.com/Tenzin1010)
@@ -392,7 +393,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Joema Nequinto](https://github.com/JoemaNequinto)
 - [Bawilu-Mafuta Beker](https://github.com/Dayenkai)
 - [Kristin Hamilton](https://github.com/KristinHamilton)
-- [Martin V.](https://github.com/einszweidreii) 
+- [Martin V.](https://github.com/einszweidreii)
 - [Avinash S Kurup](https://github.com/avinash10xds)
 - [Stephen Summering](https://github.com/summeringpainting)
 - [Joseph-Emmanuel Banzio](https://github.com/Ghaust)
