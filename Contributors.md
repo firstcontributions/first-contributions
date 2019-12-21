@@ -885,6 +885,7 @@ Joseph Tran
 - [Farihin Mohd Fitri](https://github.com/FusionAstral)
 - [Megha K C](https://github.com/Megha-KC)
 - [Shipra Kesarwani](https://github.com/shiprakesarwani)
+- [Chase Struse](https://github.com/ChaseStruse)
 - [Rafael G. Ruiz](https://github.com/Razaloc)
 - [Pranav Joglekar](https://github.com/Pranav2612000)
 - [Utkarsh Rai](https://github.com/Utkarsh98)
