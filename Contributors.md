@@ -1,5 +1,6 @@
 # Contributors
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
+- [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Suhani](https://github.com/suhani-goel)
