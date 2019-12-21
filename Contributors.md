@@ -173,6 +173,7 @@
 - [David Vinter] (https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
 - [Sandra Marcela Herrera Arriaga](https://github.com/SandraMarcelaHerreraArriaga)
+- [Shikhar Goswami](hhtps://github.com/Goshikhar23)
 - [Preetham R Kotian](https://github.com/preethamrk)
 - [Gregory El Bajoury](https://github.com/Injechta)
 - [Samarth Grover](https://github.com/Samarth-G)
