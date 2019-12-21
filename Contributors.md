@@ -28,6 +28,7 @@
 - [Mahmood Darwish] (https://github.com/Mahmood-Darwish)
 - [Rebecca] (https://github.com/rmmartino)
 - [Shelly] (https://github.com/shellyhu3)
+- [Brandy] (https://github.com/bdmcarthur)
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Djeudjam Verane](https://github.com/vdjeudjam)
 - [Enrique Madrid] (https://github.com/enmadrid76)
