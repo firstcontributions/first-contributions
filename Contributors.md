@@ -53,6 +53,7 @@
 - [kazky] (http://github.com/kazky)
 - [Jack Biscupski] (https://github.com/jay-bis)
 - [Wonjun Chun] (https://github.com/WonjunChun)
+- [Shiranox] (https://github.com/shiranox)
 - [Robert Hostler] (https://github.com/RobertHostler)
 - [Mark Starling] (https://github.com/markstarling)
 - [from vs code Yuriy]
