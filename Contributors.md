@@ -1887,6 +1887,7 @@ Hammad Qureshi
 - [Tsung-Han Ho](https://github.com/Mystes-CS)
 - [David G](https://github.com//djgrid)
 - [Bill Buchanan](https://www.yyesoftware.com)
+- [Bach Tran](https://github.com/bachtran)
 - [Ernest Lee](https://github.com/leeer812)
   vikvdd
 - [Sourav Aich](https://github.com/souravaich)
