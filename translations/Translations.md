@@ -16,7 +16,11 @@
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
 | 🇧🇬 | [Bulgarian](translations/README.bg.md) |
+<<<<<<< HEAD
 | 🇲🇰 | [Македонски](README.mk.md) |
+=======
+| <img src="../assets/nmk.png" width="22"> | [Македонски](README.mk.md) |
+>>>>>>> c74b281308957880e6a9db63ae95239761802953
 | 🇭🇺 | [Magyar](translations/README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
