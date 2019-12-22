@@ -40,6 +40,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇱🇹](translations/README.lt.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
 [🇲🇲](translations/README.mm_unicode.md)
+[🇲🇰](translations/README.mk.md)
 [🇲🇽](translations/README.mx.md)
 [🇲🇾](translations/README.my.md)
 [🇳🇱](translations/README.nl.md)
@@ -65,7 +66,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇰🇪](translations/README.kws.md)
 [🇳🇬](translations/README.igb.md)
 [🇱🇻](translations/README.lv.md)
-[GUJ](translations/README.guj.md)
+[🇬🇺🇯](translations/README.guj.md)
 
 
 
