@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
