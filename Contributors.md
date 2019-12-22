@@ -106,6 +106,7 @@
 - [Yoni Sisso](https://github.com/yonis9)
 - [Rushi Notaria]
 - [Lauren C]
+- [Chan Chan (aka csquare)](https://github.com/c5quare)
 - [Krystal A] (https://github.com/KrysA2490)
 - [Juan Lopez](https://github.com/juanlpez5/)
 - [Dawid Motak](https://github.com/Motii1)
