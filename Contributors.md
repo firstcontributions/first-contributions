@@ -12,6 +12,7 @@
 -andreww
 - Harsha
 - [Blair] (https://github.com/Blair221)
+- Rachel Kadel
 - [Olivier]
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
