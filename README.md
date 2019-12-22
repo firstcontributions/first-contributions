@@ -40,6 +40,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇱🇹](translations/README.lt.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)
 [🇲🇲](translations/README.mm_unicode.md)
+[<img src="assets/nkm.png" width="22">](translations/README.mk.md)
 [🇲🇽](translations/README.mx.md)
 [🇲🇾](translations/README.my.md)
 [🇳🇱](translations/README.nl.md)
