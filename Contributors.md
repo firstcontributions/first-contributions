@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
@@ -1941,6 +1941,7 @@ Hammad Qureshi
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 Haris Siddiqui
 - [Armen Bakir](https://github.com/Ezall2001)
+- [Isabella Bond](https://github.com/isabellabond)
 - [Ashritha Kondapally](https://github.com/Ashritha-Kondapally)
 - [Hari](https://github.com/Harikrishnan-github/)
 - [Zhi-Yi Chin](https://github.com/joycenerd)
