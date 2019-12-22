@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
@@ -18,6 +18,7 @@
 - [Emir] (https://github.com/EmirVatric)
 - [Erin] (https://github.com/erniekins)
 - [Tenzin Ngawang] (https://github.com/Tenzin1010)
+- [Simon Shapiro] (https://github.com/Simon-Shapiro)
 - [Paras Tripathi] (https://github.com/parastripathi)
 - [Yufan] (http://github.com/yxc775)
 - [Tharupahan] (https://github.com/Tharupahan)
