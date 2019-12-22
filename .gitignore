@@ -81,3 +81,6 @@ config.json
 Session.vim
 .netrwhist
 *~
+*.iml
+*.ipr
+*.iws
