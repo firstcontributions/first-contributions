@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
+- [Mohamed El Amri](https://github.com/elamrimohamed)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
