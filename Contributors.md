@@ -19258,6 +19258,7 @@ rehan
 - [Jack Casey](https://github.com/jackdcasey)
 - [Park Junseong](https://github.com/rasauq1122)
 - [Luke SungukJung](https://github.com/LukeSungukJung)
+- [Taylor Malamut](https://github.com/tmalamut)
 - [Jorge Jiménez](https://github.com/xadrijo)
 - [Edward Webb](https://github.com/edwudw)
 - [Victor Garcia](https://github.com/vicvic75vg)
