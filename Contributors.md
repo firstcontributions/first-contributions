@@ -124,6 +124,7 @@
 - [Simon Shapiro] (https://github.com/Simlion28)
 - [cstriker107](https://github.com/cstriker107)
 - [Sean R]
+- [Sibuscus](https://github.com/Sibuscus)
 - [Harsha K]
 - [Alec Fremier] (https://github.com/alecfrem)
 - [Cem Kavuklu] (https://github.com/cemkavuklu)
