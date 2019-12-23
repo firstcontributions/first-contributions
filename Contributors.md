@@ -154,7 +154,6 @@
 - [Anusha Chenreddy] (https://github.com/AnushaChenreddy)
 - [Shanthan Chamala] (https://github.com/shanthanchamala)
 - [Gary Dever] (http://github.com/garydever)
-
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Arnaav Goyal](https://github.com/arnaavgoyal)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
