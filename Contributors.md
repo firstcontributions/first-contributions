@@ -118,6 +118,7 @@
 - [Krystal A] (https://github.com/KrysA2490)
 - [Juan Lopez](https://github.com/juanlpez5/)
 - [Dawid Motak](https://github.com/Motii1)
+  [Francesco Negriolli](https://github.com/francesco-n)
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Mohamad Nachabe] (https://github.com/mohamadnachabe)
@@ -153,6 +154,7 @@
 - [Anusha Chenreddy] (https://github.com/AnushaChenreddy)
 - [Shanthan Chamala] (https://github.com/shanthanchamala)
 - [Gary Dever] (http://github.com/garydever)
+
 - [Anurag Kanaujia](https://github.com/aknrg77)
 - [Arnaav Goyal](https://github.com/arnaavgoyal)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
