@@ -923,6 +923,7 @@ Joseph Tran
 - [Habib Sogbesan](https://github.com/hmoskva)
 - [Manish Kumar](https://github.com/RManish76)
 - [Jack Sears](https://github.com/ItsKelo)
+- [Sardonick]
 - [Maadesh Sivakumar](https://github.com/Maadesh)
 - [Nayalash Mohammad](https://github.com/Nayalash)
 -[Jay Dulera](https://github.com/jaydulera)
