@@ -8,6 +8,7 @@
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Suhani](https://github.com/suhani-goel)
 - [Ben] (https://github.com/zerler)
+- [Aahel Guha] (https://github.com/aahel)
 - [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
 - cmd-prompt
