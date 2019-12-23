@@ -19271,6 +19271,7 @@ rehan
 - [Priyanka R](https://github.com/Priyanka04-R)
 - [Tom Balcombe] (https://github.com/tbal999)
 - [Smurfwow] (https://github.com/Smurfwow)
+- [Mario Amaya] (https://github.com/MAmaya1)
 - [Harsh Sharma](https://github.com/harshthecoder-27)
 - HAWK-Soft
 - Ronly
