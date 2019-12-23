@@ -774,6 +774,7 @@ Joseph Tran
 - [Gonzalo Mellizo-Soto](https://github.com/gonmeso)
 - lin
 - Sochima Omenkeukwu
+- [Linkprada] (https://github.com/linkprada)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
 - [Anunay Aatipamula](https://github.com/anunay999)
