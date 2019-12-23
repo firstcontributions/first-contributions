@@ -118,6 +118,7 @@
 - [Krystal A] (https://github.com/KrysA2490)
 - [Juan Lopez](https://github.com/juanlpez5/)
 - [Dawid Motak](https://github.com/Motii1)
+  [Francesco Negriolli](https://github.com/francesco-n)
 - [Himanshu Mishra]
 - [Marc-Antoine Robin] (https://github.com/robinm3)
 - [Mohamad Nachabe] (https://github.com/mohamadnachabe)
