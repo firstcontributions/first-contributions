@@ -16,6 +16,7 @@
 - Harsha
 - [Blair] (https://github.com/Blair221)
 - Rachel Kadel
+- Alexander Kartalis (https://github.com/Over-Coded)
 - [Olivier]
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
