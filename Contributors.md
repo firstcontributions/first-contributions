@@ -31,6 +31,7 @@
 - [ovezovs] (https://github.com/ovezovs)
 - [Jamie] (https://github.com/jamiemorgan14)
 - [Mahmood Darwish] (https://github.com/Mahmood-Darwish)
+- [Brian Liou] (https://github.com/iamsand)
 - [Rebecca] (https://github.com/rmmartino)
 - [Shelly] (https://github.com/shellyhu3)
 - [Brandy] (https://github.com/bdmcarthur)
