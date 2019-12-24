@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mohamed El Amri](https://github.com/elamrimohamed)
@@ -19283,5 +19283,6 @@ rehan
 - [Edward Webb](https://github.com/edwudw)
 - [Victor Garcia](https://github.com/vicvic75vg)
 - [Douglas Oliveira](https://github.com/douglasolv)
+- [Nadine Castro](https://github.com/lachica426)
 - [Ozzy Nsaka](https://github.com/kusiroll)
 - [Jack Wang](https://github.com/whb7762300)
