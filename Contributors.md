@@ -7,6 +7,7 @@
 - [Ben] (https://github.com/zerler)
 - [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
+- [Pulkit Mehta] (https://github.com/pulkitmehtawork)
 - cmd-prompt
 - Laslaa Mohammed
 -andreww
