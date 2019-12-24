@@ -2394,6 +2394,7 @@ Kebana Modise
 - [Joe Miao](https://github.com/miaozeyu)
 - Thomas
 - J Zedd
+- Johakins
 - [Kevan Lucchini](https://github.com/kevanlucc)
 - [David Cobileac](https://github.com/cobileacd)
 - [T Cavanagh](https://github.com/tcavan0)
