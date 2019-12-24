@@ -342,6 +342,7 @@
 - [Giri Gopalan](https://github.com/ggopalan42)
 - [Danh Vo]
 - [Chetan Kini](https://github.com/cdkini)
+~ [Chetan Sharma](https://github.com/cschetan77/)
 - [Krishan Jethwa]
 - [MintsInc](https://github.com/MintsInc)
 - [ravi-kumar-maury](https://github.com/ravi-kumar-maury/)
