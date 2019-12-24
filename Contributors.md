@@ -8,6 +8,7 @@
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
+- [Tio Saputra](https://github.com/karyatio)
 - [Ben] (https://github.com/zerler)
 - [Aahel Guha] (https://github.com/aahel)
 - [Akhil Singh] (https://github.com/HumbleBustler)
