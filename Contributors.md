@@ -1,6 +1,7 @@
 ﻿# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
+- [Mudit Jain](https://github.com/pythogeeker)
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
