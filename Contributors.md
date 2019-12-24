@@ -14,6 +14,7 @@
 - [Aahel Guha] (https://github.com/aahel)
 - [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
+- [Pulkit Mehta] (https://github.com/pulkitmehtawork)
 - cmd-prompt
 - Laslaa Mohammed
 -andreww
