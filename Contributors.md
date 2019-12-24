@@ -280,6 +280,7 @@ Conor Shields (https://github.com/cshields236)
 - [@Ibrahim](https://github.com/Ibrahimy437)
 - [Rohith Saranga](https://github.com/rohith203)
 - [Drake Zhang](https://github.com/zzhzzhzzh)
+- [Steven Tat](https://github.com/steventat)
 - Abbas
 - [Devendra Singh Shekhawat](https://github.com/dev-313)
 - [Angela Liu](https://github.com/rgangela99)
