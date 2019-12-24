@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
@@ -835,7 +835,8 @@ Joseph Tran
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [John Christian](https://github.com/eligeion)
 - [ShaileshDhama](https://github.com/ShaileshDhama)
-- [Sandrico Provo: 👨🏾‍💻](https://github.com/sandricoprovo)
+- [Sandrico Provo: 👨🏾
+💻](https://github.com/sandricoprovo)
 - [No Name Girl]
 - [Tankred Ott](https://github.com/TankredO)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
@@ -6606,7 +6607,8 @@ Aman Panjwani
 - [Pankaj Niroula](https://github.com/npankaj365)
 - [Amitabh Kumar](https://github.com/AmitabhPathak)
 - [Lydia Lane](https://github.com/LydiaLane)
-- [Youssef Khedher 👨‍💻](https://github.com/ykhedher)
+- [Youssef Khedher 👨
+💻](https://github.com/ykhedher)
 - [Rakesh Pavan](https://github.com/Rakeshpavan333)
 - [Raneesh Gomez](https://github.com/codeSmart2307)
 - [Braxton Fair](https://github.com/taxborn)
@@ -18867,7 +18869,8 @@ rehan
 - [Kyle Frisbie](https://github.com/KyleFrisbie)
 - [Naipawat Poolsawat](https://github.com/boraxpr)
 - [Eren Hançer 🌎🚀🌌:octocat:](https://github.com/ErenHncr)
-- [RIZWAN AHMAD 👨‍💻](https://github.com/rizwansoaib)
+- [RIZWAN AHMAD 👨
+💻](https://github.com/rizwansoaib)
 - [Caio Queiroz](https://github.com/caioq)
 - [ops1111](https://github.com/ops1111)
 - [Boris Bovin](https://github.com/TechnoidRus)
@@ -19015,6 +19018,7 @@ rehan
 - [Phunara Ruangyoo](https://github.com/omigus)
 - [Kyli](https://github.com/ikyli)
 - [Panudet P.](https://github.com/panudet-24mb)
+- [Pablo Beitman](https://github.com/pablo8635)
 - [Henry Kyri2](https://github.com/henrykyri)
 - [James Hazeldine](https://github.com/BraveSrRobin)
 - [Martin Spitz](github.com/phixion)
