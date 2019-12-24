@@ -2520,6 +2520,7 @@ Kebana Modise
 - [Daniel Cosby](https://github.com/daaanosaur)
 - [Forest Pfeiffer](https://github.com/pfife00)
 - N.Venkatesh (https://github.com/venkyjntu-git)
+- [Jason Harris](https://github.com/jasonbharris)
 - [VectorVanVranton](https://github.com/vectorvanvranton)
 - [Kishore Kumar Anand](https://github.com/kishorekumar2309)
 - [Space Cowboy](https://github.com/SpaceCowboy326)
