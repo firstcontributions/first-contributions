@@ -81,6 +81,7 @@
 - [Abdullah Khairi] (https://github.com/iriahk89)
 - [Juan Diego Marin] (https://github.com/Juantonn)
 - [Neil Gayeta] (https://github.com/neilrg2)
+- [YogiAgency] (https://github.com/YogiAgency)
 - [Tomasz Holeksa] (https://github.com/TomaszHol)
 - [Gregory El Bajoury] (https://github.com/Injechta)
 - [David Rowan](https://github.com/rowanD72)
