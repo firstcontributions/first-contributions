@@ -5987,6 +5987,7 @@ Aman Panjwani
 - [Rebecca Tjandra](https://github.com/rebaka)
 - [Jessica Wilson](https://github.com/Jlw2uc)
 - [Aris Nguyen](https://github.com/arisng)
+- [Harish Jaglan](https://github.com/hrs786)
 - [Brianna Green](https://github.com/bronna)
 - [wensonchen](https://github.com/wensonchen)
 - [Vivek](https://github.com/vickygopalshetty)
