@@ -11,6 +11,7 @@
 - [Suhani](https://github.com/suhani-goel)
 - [Tio Saputra](https://github.com/karyatio)
 - [Ben] (https://github.com/zerler)
+- [Jose] (https://github.com/Valtiel0)
 - [Aahel Guha] (https://github.com/aahel)
 - [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
