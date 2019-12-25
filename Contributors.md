@@ -25,6 +25,7 @@
 - Rachel Kadel
 - Alexander Kartalis (https://github.com/Over-Coded)
 - [Olivier]
+- [Parinya Sanyai] (https://github.com/parinya-s)
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
 - [Emir] (https://github.com/EmirVatric)
