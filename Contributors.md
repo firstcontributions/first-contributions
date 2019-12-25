@@ -19244,6 +19244,7 @@ rehan
 - [Seonggwan Ko](https://github.com/gggch414)
 - [harsh-tripathi](https://github.com/HarshTripathi2712)
 - [Buhai Yeh](https://github.com/Richsea)
+- [Arnav Gupta](https://github.com/guptaarnav)
 - [lolmc](https://github.com/lolmc00)
 - [Bin Gao](https://github.com/BinGaoX)
 - [jamtot](https://github.com/jamtot)
