@@ -119,6 +119,7 @@
 - [Henkho Dryza](https://github.com/henkhodryza)
 - [Karim Chaari] (https://github.com/karim-ch)
 - [Shrutte Murali] (https://github.com/shrutte97)
+- [Deividas Rimkus] (https://github.com/Lisviks)
 - [Yoni Sisso](https://github.com/yonis9)
 - [Rushi Notaria]
 - [Lauren C]
