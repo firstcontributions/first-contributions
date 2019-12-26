@@ -16,6 +16,7 @@
 - [Akhil Singh] (https://github.com/HumbleBustler)
 - [Zunaib] (https://github.com/Zunaib)
 - [Pulkit Mehta] (https://github.com/pulkitmehtawork)
+- [Dan_b] (https://github.com/DanBasson/first-contributions)
 - cmd-prompt
 - [M A] (https://www.google.com)
 - Laslaa Mohammed
