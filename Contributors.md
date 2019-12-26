@@ -78,6 +78,7 @@
 - [Gary Heffernan]
 - Something 20191205 0812
 - [Omri Dagan] (https://github.com/daganomri)
+- [Ron Waller] (https://github.com/RonWaller)
 - [Serdar İlarslan] (https://github.com/jokercraft)
 - [Kevin Aragon] (https://github.com/AragonCodes)
 - [Paul Thomas]
