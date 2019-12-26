@@ -73,6 +73,7 @@
 - [from vs code Yuriy]
 - [Eeshani Patel](https://github.com/eeshani-p01)
 - [Divij Bajaj](https://github.com/divij30bajaj)
+- [Andreas Wittmann](https://github.com/andiwi)
 - [Ryan Challen] (https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - Something 20191205 0812
