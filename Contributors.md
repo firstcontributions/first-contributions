@@ -11109,6 +11109,7 @@ macdara-dev
 - [Lewis Smith](https://github.com/lewisscottsmith)
 - [Ashish Mishra](https://github.com/ashish10677)
 - [Bruce Willke](https://github.com/brucewillke)
+- [Tony Chen](https://github.com/tonychen11)
 - [Seb Strug](https://github.com/sebstrug)
 - [Wiruj Suwanpramote](https://github.com/XtheWiz)
 - [Ross Lillis](https://github.com/roscolil)
