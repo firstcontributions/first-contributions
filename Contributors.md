@@ -537,6 +537,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
 - [Shahin Katebi](https://github.com/shaahin)
+- [Mohit Singh](https://github.com/mohitsingh999)
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
 - [Siddharth Sen](https://github.com/siddharth952)
