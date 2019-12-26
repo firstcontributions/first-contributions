@@ -4379,7 +4379,7 @@ Noam Taub
 - [Jacky Liu](https://github.com/Jacky-Liu1)
 - [Joe Lee](https://github.com/josephlee93)
 - [Gabriele Barni](https://github.com/burnout87/)
--_[Alexander Witedja](https://github.com/alexwitedja)
+- [Alexander Witedja](https://github.com/alexwitedja)
 - [nolj](https://github.com/nolanbjohnson)
 - [Mohammed Dilruba Pamangadan](https://github.com/dilrubapamangadan)
 - [Patrick Duvall](https://github.com/Patrick-Duvall)
@@ -18134,6 +18134,7 @@ macdara-dev
 - [Joao](https://github.com/Joaopedrobass)
 - [Ishita Bardhan](https://github.com/IshitaB28)
 - [Name](name)
+- [Max Brooks](https://github.com/maxbrooks114)
 - james yang
 - mojib
 - [Dheeraj Agrawal](https://github.com/dka72/)
