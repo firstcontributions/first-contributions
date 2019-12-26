@@ -2,6 +2,7 @@
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
+- [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
