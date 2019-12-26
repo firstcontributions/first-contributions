@@ -21,6 +21,7 @@
 - Laslaa Mohammed
 -andreww
 - Harsha
+- [Amjad] (https://github.com/amjad-salah)
 - [Blair] (https://github.com/Blair221)
 - Rachel Kadel
 - Alexander Kartalis (https://github.com/Over-Coded)
