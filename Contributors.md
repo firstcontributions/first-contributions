@@ -18122,6 +18122,7 @@ Mário Baltazar
 - [Kelsey Júnior](https://github.com/KelseyJr)
 - [laohanme](https://github.com/laohanme)
 - [Nic M](https://github.com/nicm42)
+- [Shaphan Nzabonimana](https://github.com/nshaphan)
 - [Billycarte](https://github.com/anomalousidentity)
 - [Angel Andrews K](https://github.com/ANGELANDREWSK)
 - [George James](https://github.com/georgejms)
