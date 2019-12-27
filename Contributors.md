@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
@@ -20,6 +20,9 @@
 - [Zunaib](https://github.com/Zunaib)
 - [Pulkit Mehta](https://github.com/pulkitmehtawork)
 - [Dan_b](https://github.com/DanBasson/first-contributions)
+- [Ben](https://github.com/zerler)
+- [Akhil Singh](https://github.com/HumbleBustler)
+- [Nate Liu](https://github.com/n8liu)
 - cmd-prompt
 - [M A](https://www.google.com)
 - Laslaa Mohammed
@@ -36,6 +39,8 @@
 - [Yufan](http://github.com/yxc775)
 - [Tharupahan](https://github.com/Tharupahan)
 - [Tim](https://github.com/adlotsof)
+- [Yash Patel](https://github.com/yashpatel20)
+- [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Shuojin]
 - [ovezovs](https://github.com/ovezovs)
 - [Jamie](https://github.com/jamiemorgan14)
@@ -50,6 +55,7 @@
 - [Brian Liou] (https://github.com/iamsand)
 - [Brandy](https://github.com/bdmcarthur)
 - [Aleksander Haugmo](https://github.com/opinion)
+- [Anna Malawista] (https://github.com/annamalawista)
 - [Djeudjam Verane](https://github.com/vdjeudjam)
 - [Enrique Madrid](https://github.com/enmadrid76)
 - [Niharika AT](https://github.com/tniharika)
@@ -77,6 +83,7 @@
 - [Divij Bajaj](https://github.com/divij30bajaj)
 - [Ryan Challen](https://github.com/RyanChallen/)
 - [Gary Heffernan]
+- test prasit-plays
 - Something 20191205 0812
 - [Serdar İlarslan](https://github.com/jokercraft)
 - [Kevin Aragon](https://github.com/AragonCodes)
@@ -268,12 +275,13 @@
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
 - [Soomin](https://github.com/soominl)
-- [Dawood[ (https://github.com/nadurath)
--[Tawhidul ISlam(https://github.com/lastsaintcrucified)
+- [Dawood](https://github.com/nadurath)
+- [Tawhidul ISlam](https://github.com/lastsaintcrucified)
 - [Mohit](https://github.com/newbiemohit)
 - [Jayanthi Palanichamy](jayanthi.palanichamy1997@gmail.com)
 - [Gavin OLeary]
 - [Manuel Aceituno](https://github.com/Acemanu412)
+- [Shivam Kalra](https://github.com/kalrashivam)
 - [Richard Guerre](https://github.com/richardguerre)
 - [jkobie](https://github.com/jkobie)
 - [jkobie1](https://github.com/jkobie)
@@ -460,6 +468,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Abhinav Shukla](https://github.com/AbsMechanik)
 - [Ajay R](https://github.com/drstrange11)
 - [Ryan Schreck](https://github.com/ryanSchreck)
+- [Ruchir Chheda](https://github.com/Ruchirchheda)
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Raul Canul](https://github.com/RaulECT)
 - [Bhavya Sharma]
@@ -525,6 +534,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Javier Acosta](https://github.com/AxlTech)
+- [Swarit](https://github.com/swaritsharma)
 - [v-shash](https://github.com/v-shash)
 - [Faisal Ahmed](https://github.com/tomriddle25)
 - [Alberto Kiramoto](https://github.com/akiramot)
@@ -18644,6 +18654,7 @@ Mário Baltazar
 - [Kelsey Júnior](https://github.com/KelseyJr)
 - [laohanme](https://github.com/laohanme)
 - [Nic M](https://github.com/nicm42)
+- [Shaphan Nzabonimana](https://github.com/nshaphan)
 - [Billycarte](https://github.com/anomalousidentity)
 - [Angel Andrews K](https://github.com/ANGELANDREWSK)
 - [George James](https://github.com/georgejms)
@@ -19320,6 +19331,8 @@ rehan
 - [Jack Wang](https://github.com/whb7762300)
 - [Kevin Reber](https://github.com/kevinreber)
 - [Joey Vico](https://github.com/steelvelveteen)
+- [Rafael](https://github.com/rafael-cagliari)
 - [Jooseung Song](https://github.com/sjs5904)
 - [JackJackE](https://github.com/mtjin)
 -[Estifanos](https://github.com/Estif017)
+- [atoaster](https://github.com/atoaster)
