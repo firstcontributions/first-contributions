@@ -526,6 +526,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Javier Acosta](https://github.com/AxlTech)
+- [Swarit](https://github.com/swaritsharma)
 - [v-shash](https://github.com/v-shash)
 - [Faisal Ahmed](https://github.com/tomriddle25)
 - [Alberto Kiramoto] (https://github.com/akiramot)
