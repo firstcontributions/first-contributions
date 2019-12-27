@@ -1,6 +1,6 @@
 # Contributors
 - Jason Cozzitorto
-- [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
+- [Aravindh Anbalagan](https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
@@ -13,8 +13,8 @@
 - [Tio Saputra](https://github.com/karyatio)
 - [Ben] (https://github.com/zerler)
 - [Jose] (https://github.com/Valtiel0)
-- [Aahel Guha] (https://github.com/aahel)
-- [Akhil Singh] (https://github.com/HumbleBustler)
+- [Aahel Guha](https://github.com/aahel)
+- [Akhil Singh](https://github.com/HumbleBustler)
 - [Nate Liu] (https://github.com/n8liu)
 - [Zunaib] (https://github.com/Zunaib)
 - [Pulkit Mehta] (https://github.com/pulkitmehtawork)
@@ -24,6 +24,7 @@
 - Laslaa Mohammed
 -andreww
 - Harsha
+- [Van Ribeiro](https://github.com/vanribeiro)
 - [Amjad] (https://github.com/amjad-salah)
 - [Blair] (https://github.com/Blair221)
 - Rachel Kadel
