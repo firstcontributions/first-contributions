@@ -8916,6 +8916,7 @@ Aman Panjwani
 - [Maximilian Sarter](https://github.com/rqd3)
 - [dblankin](https://github.com/dblankin)
 - [Divyansh Kamboj](https://github.com/agile)
+- [Luis de Olano](https://github.com/lm-olano)
 - [Vengret](https://www.github.com/vengret)
 - [Arel Clemente](https://github.com/arelC)
 - [Collin Smith](https://github.com/crsmi)
