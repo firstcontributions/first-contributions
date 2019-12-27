@@ -35,6 +35,7 @@
 - [Emir] (https://github.com/EmirVatric)
 - [Erin] (https://github.com/erniekins)
 - [Tenzin Ngawang] (https://github.com/Tenzin1010)
+- [Yash Patel] (https://github.com/yashpatel20)
 - [Simon Shapiro] (https://github.com/Simon-Shapiro)
 - [Paras Tripathi] (https://github.com/parastripathi)
 - [Yufan] (http://github.com/yxc775)
