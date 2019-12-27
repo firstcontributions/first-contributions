@@ -18786,6 +18786,7 @@ rehan
 - [Yogesvara Das](https://github.com/YogesD)
 - [Sherlyn Sam](https://github.com/sherlo2281)
 - [cmgn](https://github.com/cmgn)
+- [Peter English](https://github.com/PeterEnglish)
 - [Sergio Tapia-Fikes](https://github.com/Sergio16T)
 - [Arya Valizadeh](https://twitter.com/arya_pr0f)
 - [Bongani Mkonto](https://github.com/excitedcrayon)
@@ -19334,5 +19335,6 @@ rehan
 - [Rafael](https://github.com/rafael-cagliari)
 - [Jooseung Song](https://github.com/sjs5904)
 - [JackJackE](https://github.com/mtjin)
--[Estifanos](https://github.com/Estif017)
+- [Estifanos](https://github.com/Estif017)
 - [atoaster](https://github.com/atoaster)
+- 
