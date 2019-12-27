@@ -276,6 +276,7 @@
 - [Jayanthi Palanichamy] (jayanthi.palanichamy1997@gmail.com)
 - [Gavin OLeary]
 - [Manuel Aceituno] (https://github.com/Acemanu412)
+- [Shivam Kalra] (https://github.com/kalrashivam)
 - [Richard Guerre](https://github.com/richardguerre)
 - [jkobie] (https://github.com/jkobie)
 - [jkobie1] (https://github.com/jkobie)
