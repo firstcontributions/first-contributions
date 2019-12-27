@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jason Cozzitorto
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
@@ -15,6 +15,7 @@
 - [Jose] (https://github.com/Valtiel0)
 - [Aahel Guha] (https://github.com/aahel)
 - [Akhil Singh] (https://github.com/HumbleBustler)
+- [Nate] (https://github.com/n8liu)
 - [Zunaib] (https://github.com/Zunaib)
 - [Pulkit Mehta] (https://github.com/pulkitmehtawork)
 - [Dan_b] (https://github.com/DanBasson/first-contributions)
