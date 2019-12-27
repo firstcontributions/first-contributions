@@ -48,6 +48,7 @@
 - [Shelly] (https://github.com/shellyhu3)
 - [Brandy] (https://github.com/bdmcarthur)
 - [Aleksander Haugmo](https://github.com/opinion)
+- [Anna Malawista] (https://github.com/annamalawista)
 - [Djeudjam Verane](https://github.com/vdjeudjam)
 - [Enrique Madrid] (https://github.com/enmadrid76)
 - [Niharika AT] (https://github.com/tniharika)
