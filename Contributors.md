@@ -1642,6 +1642,7 @@ notForProffitt
 - [LBeul](https://github.com/LBeul/)
 - [Nimesha1996](https://github.com/Nimesha1996)
 - [Stacy Holtz](https://github.com/stacyholtz6)
+- [Michael Charles Aubrey](https://github.com/mcaubrey)
 - [Mitarth Jain](https://github.com/mitarthjain)
 - [Vincenzo Vipond](https://github.com/Angadeon)
 - [Anchen Huang](https://github.com/mikeyqq)
