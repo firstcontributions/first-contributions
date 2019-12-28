@@ -85,6 +85,7 @@
 - [Jack Biscupski](https://github.com/jay-bis)
 - [Wonjun Chun](https://github.com/WonjunChun)
 - [Robert Hostler](https://github.com/RobertHostler)
+- [Michael Crombie](https://github.com/mcrombie)
 - [Mark Starling](https://github.com/markstarling)
 - [from vs code Yuriy]
 - [Eeshani Patel](https://github.com/eeshani-p01)
