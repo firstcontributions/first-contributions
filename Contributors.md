@@ -10,6 +10,7 @@
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
 - [Tio Saputra](https://github.com/karyatio)
+- [Adeyemi Ridwan](https://github.com/profread)
 - [Ben] (https://github.com/zerler)
 - [Jose] (https://github.com/Valtiel0)
 - [Aahel Guha] (https://github.com/aahel)
