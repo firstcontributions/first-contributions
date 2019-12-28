@@ -51,6 +51,7 @@
 - [Shelly](https://github.com/shellyhu3)
 - [Amjad](https://github.com/amjad-salah)
 - Rachel Kadel
+- [Balaraman M](https://github.com/balaraman-08 "Balaraman's GitHub account")
 - [Alexander Kartalis](https://github.com/Over-Coded)
 - [Parinya Sanyai](https://github.com/parinya-s)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
