@@ -66,7 +66,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇰🇪](translations/README.kws.md)
 [🇳🇬](translations/README.igb.md)
 [🇱🇻](translations/README.lv.md)
-[🇬🇺🇯](translations/README.guj.md)
+[GUJ](translations/README.guj.md)
 
 
 
