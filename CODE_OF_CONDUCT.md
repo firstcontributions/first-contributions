@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Contributors Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -26,7 +26,7 @@ Examples of unacceptable behaviour by participants include:
 *   Trolling, insulting/derogatory comments, and personal or political attacks.
 *   Public or private harassment.
 *   Publishing others' private information, such as a physical or electronic address, without explicit permission.
-*   Other conduct which could reasonably be considered inappropriate in a professional setting.
+*   Other conduct which could reasonably considered inappropriate in a professional setting.
 
 ## Our Responsibilities
 
@@ -54,7 +54,7 @@ further defined and clarified by project maintainers.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
 All complaints will be reviewed and investigated and will result in a response
-that is deemed necessary and appropriate to the circumstances. The project team
+that is deemed necessary and appropriate to the situation. The project team
 is obligated to maintain confidentiality with regard to the reporter of an
 incident. Further details of specific enforcement policies may be posted
 separately.
