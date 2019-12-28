@@ -55,6 +55,7 @@
 - [Parinya Sanyai](https://github.com/parinya-s)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Brian Liou] (https://github.com/iamsand)
+- [Vedant Shetty] (https://github.com/vedantshetty)
 - [Brandy](https://github.com/bdmcarthur)
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Anna Malawista] (https://github.com/annamalawista)
