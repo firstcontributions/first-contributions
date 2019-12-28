@@ -10684,6 +10684,7 @@ macdara-dev
 - [Jo?o Gabriel](https://github.com/jgbrittos)
 - [Darshan](https://github.com/darshan45)
 - [Developer Wahala](https://github.com/devwahala)
+- [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip)
 - [Chen Hui Jing](https://github.com/huijing)
 - [blue98](https://github.com/blue98)
 - [Ravi kishore Thella](https://github.com/ravikishorethella)
