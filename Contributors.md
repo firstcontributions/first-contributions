@@ -60,6 +60,7 @@
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Brian Liou] (https://github.com/iamsand)
 - [Vedant Shetty] (https://github.com/vedantshetty)
+- [Minyoung Jeong] (https://github.com/jeong242)
 - [Brandy](https://github.com/bdmcarthur)
 - [Aleksander Haugmo](https://github.com/opinion)
 - [Anna Malawista] (https://github.com/annamalawista)
