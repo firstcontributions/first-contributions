@@ -11,6 +11,7 @@
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
 - [Ben](https://github.com/zerler)
+- [Hemant Vashist](https://github.com/HemantVashist)
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Zunaib](https://github.com/Zunaib)
 - [Yeejkoob Thao](https://github.com/yeejkoobt)
