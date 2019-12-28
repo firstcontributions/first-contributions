@@ -1,5 +1,6 @@
 # Contributors
 - Jason Cozzitorto
+- [Stanley Chu] (https://github.com/YBSker)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
