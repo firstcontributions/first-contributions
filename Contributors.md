@@ -1363,6 +1363,7 @@ notForProffitt
 - [Rishad](https://github.com/EvolOfThings)
 - [Vinod Sharma](https://github.com/thesaadpatel)
 - [Meghan Blankenship]
+- [Logan Good]
 - [barry che]
 - [Jibrin Baba Isah Mokwa]
 - [Diana Miller](https://github.com/diana-mm)
