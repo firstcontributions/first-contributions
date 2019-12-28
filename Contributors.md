@@ -1,4 +1,5 @@
 # Contributors
+- [Ali Zeaiter] (https://github.com/alizeaiter)
 - Jason Cozzitorto
 - [Stanley Chu] (https://github.com/YBSker)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
