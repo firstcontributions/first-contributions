@@ -957,6 +957,7 @@ Joseph Tran
 - [Parth Santoki](https://github.com/parthsantoki01)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Kelliann Lafferty](https://github.com/klaffert)
+- [Tammy Laforest](http://github.com/tammylaforest)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
