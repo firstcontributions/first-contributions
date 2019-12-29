@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - Jason Cozzitorto
@@ -4070,6 +4070,7 @@ Noam Taub
 - [Kye Davey](https://github.com/kyedavey)
 - [Ian Baer](https://github.com/itwbaer)
 - [Nathan Brown](https://github.com/N8Brown)
+- [Paul Ireland](https://github.com/trashytop)
 - [David Johnson](https://github.com/thedogrant)
 - [Sriharsha Bandaru](https://github.com/harshabandaru)
 - [Randy Le](https://github.com/RandyKoiSA)
