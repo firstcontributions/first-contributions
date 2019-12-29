@@ -37,6 +37,7 @@
 - Angelica
 - [Emir](https://github.com/EmirVatric)
 - [Erin](https://github.com/erniekins)
+- [D-Tara](https://github.com/d-tara)
 - [Roberto Nicolás Savinelli](https://github.com/rnsavinelli)
 - [Tenzin Ngawang](https://github.com/Tenzin1010)
 - [Paras Tripathi](https://github.com/parastripathi)
