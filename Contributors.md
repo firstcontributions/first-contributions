@@ -10024,6 +10024,7 @@ Aman Panjwani
 - [Bryce Hull](https://github.com/bahull)
 - [Rudy Olsson](https://github.com/rudyolsson)
 - [Kevin Vu](https://github.com/kkv263)
+- [Nic Way](https://github.com/PicklePet)
 - [Mikaela Hallenberg](https://github.com/mikaelahallenberg)
 - [Luigi Pizarro](https://github.com/soyluking)
 - [Michaelsun Baluyos](https://github.com/michaelsunb)
