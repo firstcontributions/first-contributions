@@ -17,6 +17,7 @@
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Zunaib](https://github.com/Zunaib)
 - [Yeejkoob Thao](https://github.com/yeejkoobt)
+- [GC Phillips](https://github.com/gcphillips)
 - [Tio Saputra](https://github.com/karyatio)
 - [Jose](https://github.com/Valtiel0)
 - [Aahel Guha](https://github.com/aahel)
