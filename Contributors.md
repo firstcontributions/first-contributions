@@ -20,6 +20,7 @@
 - [Yeejkoob Thao](https://github.com/yeejkoobt)
 - [GC Phillips](https://github.com/gcphillips)
 - [Tio Saputra](https://github.com/karyatio)
+- [Federico Toledo](https://github.com/fedetoledo)
 - [Jose](https://github.com/Valtiel0)
 - [Aahel Guha](https://github.com/aahel)
 - [Zunaib](https://github.com/Zunaib)
