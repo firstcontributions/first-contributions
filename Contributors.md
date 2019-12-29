@@ -1998,6 +1998,7 @@ Hammad Qureshi
 - NabeelDanish
 - [Ba Nyar Naing](https://github.com/ba-nyar-naing)
 Haris Siddiqui
+- [Maddie Moon](https://github.com/maddmoon)
 - [Armen Bakir](https://github.com/Ezall2001)
 - [Isabella Bond](https://github.com/isabellabond)
 - [Ashritha Kondapally](https://github.com/Ashritha-Kondapally)
