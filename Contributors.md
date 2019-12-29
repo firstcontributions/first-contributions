@@ -52,6 +52,7 @@
 - [Shuojin]
 - [ovezovs](https://github.com/ovezovs)
 - [Ramsay Grove](https://github.com/GroveIV)
+- [Jabiu](https://github.com/jabiu)
 - [Jamie](https://github.com/jamiemorgan14)
 - [Mahmood Darwish](https://github.com/Mahmood-Darwish)
 - [Ayoub Elmahdaoui](https://github.com/ayoubmehd)
