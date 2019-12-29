@@ -1,5 +1,6 @@
 # Contributors
 - [Ali Zeaiter] (https://github.com/alizeaiter)
+- [Deepank kartikey] (https://github.com/deepank120896)
 - Jason Cozzitorto
 - [Stanley Chu] (https://github.com/YBSker)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
