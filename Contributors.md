@@ -19339,6 +19339,7 @@ rehan
 - HAWK-Soft
 - [Sai Adarsh Babu K](https://github.com/SaiAdarsh)
 - Ronly
+- [Ray Millares](https://github.com/rmill019)
 - [Nikunj Bansal](https://github.com/Nikunjbansal99)
 - [Jack Casey](https://github.com/jackdcasey)
 - [Park Junseong](https://github.com/rasauq1122)
