@@ -7020,6 +7020,7 @@ Aman Panjwani
 - [Gayathri Krishnaswamy](https://github.com/gayathri-krishnaswamy)
 - [George Parsons](https://github.com/geopar)
 - [Lucy S](https://github.com/girlingoggles)
+- [Lukas Sundberg](https://github.com/ggLukas)
 - [Markus Maelzer](https://github.com/markus-maelzer)
 - [Vikash Kumar Yadav](https://github.com/geekfreak97)
 - [Daniel Smith](https://github.com/techydan)
