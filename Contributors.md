@@ -169,6 +169,7 @@
 - [Jwad Aziz](https://github.com/jwad96)
 - [Frederica Melbourne]
 - [fluoxas](https://github.com/fluoxas)
+- [Duc Trinh](https://github.com/dtrinh914)
 - [Kamil Pacanek](https://github.com/KamilPacanek)
 - [Narendra Chaudhary](https://github.com/narendrachaudhary51)
 - [Simon Shapiro](https://github.com/Simlion28)
