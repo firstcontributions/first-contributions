@@ -2475,6 +2475,7 @@ Kebana Modise
 - [Aditya Santhosh](https://github.com/AdityaSanthosh)
 - [Ritu Banerjee](https://github.com/rituparnab)
 - [Bean](https://github.com/some-skill)
+- [Darius Jipa](https://github.com/JADarius)
 - [Yasmin](https://github.com/YasminLago)
 - [Soniya Nayak](https://github.com/Soniyanayak51)
 - [Sam Glazier](https://github.com/sglazier)
