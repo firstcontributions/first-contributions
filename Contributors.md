@@ -8137,6 +8137,7 @@ Aman Panjwani
 - [Kevin Rosenberg](https://github.com/kevsters)
 - [daniel hemmati](https://github.com/danielhemmati)
 - [Igor Strapko](https://github.com/igorstrapko/)
+- [Tony Cheang](https://github.com/tonycheang)
 - [Sohaib Moinuddin](https://github.com/SohaibMoinuddin)
 - [Tyrell Roberts](https://github.com/TyrellR7872)
 - [Sanya Swain](https://github.com/sanyaswain)
