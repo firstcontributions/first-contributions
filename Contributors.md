@@ -46,6 +46,7 @@
 - [Erin](https://github.com/erniekins)
 - [D-Tara](https://github.com/d-tara)
 - [Roberto Nicolás Savinelli](https://github.com/rnsavinelli)
+- [Shamin Asfaq](https://github.com/ShaminAsfaq)
 - [Tenzin Ngawang](https://github.com/Tenzin1010)
 - [Paras Tripathi](https://github.com/parastripathi)
 - [Yufan](http://github.com/yxc775)
