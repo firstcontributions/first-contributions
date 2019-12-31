@@ -83,6 +83,7 @@
 - [Felix Lee](https://github.com/leeyt54)
 - [Bryan Rodríguez](https://github.com/bernestdev)
 - [Jordan Jones](https://github.com/jordavejones)
+- [Andrew Quick](https://github.com/andrewtquick)
 - [Adam Cassidy](https://github.com/AdamCassidy)
 - [Eric Kim](https://github.com/erickim)
 - [Ronen-Margolin](https://github.com/Ronemisimus)
