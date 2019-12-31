@@ -10,7 +10,7 @@
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
-- Wilson Horrell 
+- Wilson Horrell
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
@@ -1334,6 +1334,7 @@ notForProffitt
 - [Anshu Kumari](https://github.com/anshukcse)
 - [Diaz Saul](https://github.com/sauldc24)
 - [Franziska Zeuner](https://github.com/fzeuner)
+- [rsb :octocat:](https://github.com/rsb-dev)
 - [Harlan Kadison](https://github.com/hhkadison)
 - [Alex O'Mahony](https://github.com/MrToastMachine)
 - [Khushraj Rathod](https://github.com/Holyprogrammer)
