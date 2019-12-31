@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Ali Zeaiter] (https://github.com/alizeaiter)
+- [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
 - [Shigeto Jeng]
