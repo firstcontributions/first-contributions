@@ -217,6 +217,7 @@
 - [Sehyeong Lee](https://github.com/lsh23)
 - [Carlos Silva](https://github.com/sabioes)
 - Kaustubh Dixit
+- Jun Zhao
 -Komal Jhanwar
 - [Colin Duggan](https://github.com/cdugga)
 - [Joao Portela](https://github.com/jcbastosportela)
