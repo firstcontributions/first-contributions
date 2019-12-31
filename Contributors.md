@@ -65,6 +65,7 @@
 - [Jamie](https://github.com/jamiemorgan14)
 - [Mahmood Darwish](https://github.com/Mahmood-Darwish)
 - [Ayoub Elmahdaoui](https://github.com/ayoubmehd)
+- [Auston Rogers](https://github.com/arogers4495)
 - [Rebecca](https://github.com/rmmartino)
 - [Shelly](https://github.com/shellyhu3)
 - [Amjad](https://github.com/amjad-salah)
