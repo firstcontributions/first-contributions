@@ -157,6 +157,7 @@
 - [Nasrallah Adel Nasrallah](https://github.com/Nasrallah-Adel)
 - [Yingbo Wang](https://github.com/wangyingbo)
 - [Malcome Baggett](https://github.com/MalcomeBaggett)
+- [Dan](https://github.com/dan015)
 - [Henkho Dryza](https://github.com/henkhodryza)
 - [Karim Chaari](https://github.com/karim-ch)
 - [Ibironke Marvellous](https://github.com/Marvel-Ib)
