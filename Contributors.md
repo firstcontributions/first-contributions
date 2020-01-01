@@ -13463,6 +13463,7 @@ macdara-dev
 - [Poe C](https://github.com/poesche)
 - [Jonathan Gin](https://github.com/JonathanGin52)
 - [Myeong Kim](https://github.com/cgopia94)
+- [Alaz Tetik](https://gitghub.com/alaztetik)
 - [Kyle Gildea](https://github.com/kylegildea)
 - [Amrutha A J](https://github.com/amrutha-a-j)
 - [S Chua](https://github.com/graphcalibur)
