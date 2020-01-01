@@ -9530,6 +9530,7 @@ Aman Panjwani
 - [Fakiolas Marios](https://github.com/fakiolinho)
 - [Praful Singh](https://github.com/prafulSingh)
 - [Rodrigo Cordova](https://github.com/Thrasheristico)
+- [Mistie Beardmore] (https://github.com/MistieOut)
 - [Samuel Hwang](https://github.com/samhwangg)
 - [Denis Orehovsky](https://github.com/apirobot)
 - [William Sutton](https://github.com/suttonwilliamd)
