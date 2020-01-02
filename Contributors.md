@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [Sailesh Dahal] (https://github.com/saileshbro)
@@ -19402,6 +19402,7 @@ rehan
 - [Derek Salerno](https://github.com/dereksalerno)
 - [Simon Huang] (https://github.com/shuang854)
 - [Guimaraez] (https://github.com/guimaraez)
+- [Paul Baisley] (https://github.com/wavinginspace)
 - [Puzatron] (https://github.com/Puzatron)
 - [Ashish Tilak] (https://github.com/ashishtilak)
 - [Renan Carlos] (https://github.com/RenanCarlos-coder)
