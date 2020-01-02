@@ -60,6 +60,7 @@
 - [Yash Patel](https://github.com/yashpatel20)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Shuojin]
+- [devennn]
 - [ovezovs](https://github.com/ovezovs)
 - [mstava](https://github.com/Mstava)
 - [Ramsay Grove](https://github.com/GroveIV)
