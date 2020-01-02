@@ -19402,4 +19402,5 @@ rehan
 - [Shanu](https://github.com/prathams7)
 - [Chloe Ramage](https://github.com/ramage002)
 - [Shahrukh Jalil] (https://github.com/jalilshahrukh)
+- [Can Badstuber] (https://github.com/CanK93/)
 - [Matt Corby] (https://github.com/mcorby17)
