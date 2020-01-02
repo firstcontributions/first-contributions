@@ -15298,6 +15298,7 @@ macdara-dev
 - [Manish](https://github.com/dakait)
 - [Protocol73](https://github.com/Protocol73)
 - [Eran Segal](https://github.com/segaler)
+- [Nithin Pingili](https://github.com/nithinp300)
 - [Kalidrev](https://github.com/kalidrev)
 - [Bui Le Vu Tam](https://github.com/itsmetambui)
 - [Shruti Shastri](https://github.com/shrutishastri)
