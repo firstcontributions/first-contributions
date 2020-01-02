@@ -127,6 +127,7 @@
 - [Jason Polanco](https://github.com/JayPolanco)
 - [Cameron Harris]
 - [Abdullah Khairi](https://github.com/iriahk89)
+- [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
 - [Neil Gayeta](https://github.com/neilrg2)
 - [Tomasz Holeksa](https://github.com/TomaszHol)
