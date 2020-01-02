@@ -196,6 +196,7 @@
 - [Joshua Cleverley](https://github.com/JoshuaCleverley)
 - [Erik Kristofer Anderson](https://github.com/erik-kristofer-anderson)
 - [Akshaya](https://github.com/Akshayamittu)
+- [Jiachen Niu](https://github.com/Hackerry)
 - [Lindsey Hensley](http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
