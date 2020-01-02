@@ -3423,6 +3423,7 @@ Noam Taub
 - Ross McCaig
 - Bruce Wayne
 - Rijul singh
+- [Adam Vidler](https://github.com/avidler)
 - [Bluekable](https://github.com/bluekable)
 - [Rex Fagin](https://github.com/faginr)
 - [Arpit Shrotriya](https://github.com/Cyclostone)
