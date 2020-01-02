@@ -1,11 +1,12 @@
 ﻿# Contributors
-- [Sailesh Dahal](https://github.com/saileshbro)
+- [Sailesh Dahal] (https://github.com/saileshbro)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
 - [Shigeto Jeng]
 - Jason Cozzitorto
+- [Anchit Mishra] (https://github.com/anchit1729)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
