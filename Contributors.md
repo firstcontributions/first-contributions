@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [Sailesh Dahal] (https://github.com/saileshbro)
@@ -5739,6 +5739,7 @@ Noam Taub
 - [Nicolas Mesa](https://github.com/nicolasmesa)
 - [mrjomp](https://github.com/mrjomp)
 - [Mike Allen](https://github.com/mallenjr)
+- [Parshwa Shah](https://github.com/Parshwa52)
 - [Stan Smoczyk](https://github.com/stansmoczyk)
 - [JanellAmely](https://github.com/3CatMax)
 - [Pusakiller](https://github.com/Pusakiller)
