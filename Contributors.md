@@ -1,11 +1,13 @@
 ﻿# Contributors
-- [Sailesh Dahal](https://github.com/saileshbro)
+- [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
+- [Sailesh Dahal] (https://github.com/saileshbro)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
 - [Shigeto Jeng]
 - Jason Cozzitorto
+- [Anchit Mishra] (https://github.com/anchit1729)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
@@ -59,6 +61,7 @@
 - [Yash Patel](https://github.com/yashpatel20)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Shuojin]
+- [devennn]
 - [ovezovs](https://github.com/ovezovs)
 - [mstava](https://github.com/Mstava)
 - [Ramsay Grove](https://github.com/GroveIV)
@@ -196,6 +199,7 @@
 - [Joshua Cleverley](https://github.com/JoshuaCleverley)
 - [Erik Kristofer Anderson](https://github.com/erik-kristofer-anderson)
 - [Akshaya](https://github.com/Akshayamittu)
+- [Jiachen Niu](https://github.com/Hackerry)
 - [Lindsey Hensley](http://github.com/linzeestomp)
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
@@ -267,6 +271,7 @@
 - [Ariel Herrera](https://github.com/arielherrera)
 - [Naomi Bonnin] (https://github.com/naomi172839)
 - [LVZ]
+- [poxiao2]
 - [Maciej Nachtygal](https://github.com/macieyn)
 - [Erica Xia](https://github.com/EricaXia)
 - [Ashutosh Anand](https://github.com/ashutoshanand13)
@@ -19398,3 +19403,6 @@ rehan
 - [Shanu](https://github.com/prathams7)
 - [Chloe Ramage](https://github.com/ramage002)
 - [Cesar Acosta](https://github.com/cacosta33)
+- [Shahrukh Jalil] (https://github.com/jalilshahrukh)
+- [Can Badstuber] (https://github.com/CanK93/)
+- [Matt Corby] (https://github.com/mcorby17)
