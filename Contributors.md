@@ -5767,6 +5767,7 @@ Noam Taub
 - [Aashita Arora](https://github.com/aashitaarora)
 - [Lauren Tingler](https://github.com/laurenolivia18)
 - [Banana Paper](https://github.com/BananaPaper)
+- [modanway](https://github.com/modanway)
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
