@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
+- [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
