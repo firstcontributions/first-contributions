@@ -2631,6 +2631,7 @@ Kebana Modise
 - [Kirito-k](https://github.com/kirito-k)
 - [SnowyDavid](https://github.com/SnowyDavid)
 - [Krzysztof Pantak](https://github.com/Kielx)
+- [Shreyas Pradhan](https://github.com/claretgrace0801)
 - [Iñaki Liendo](https://github.com/tempdata73)
 - [Lulu Ovando](https://github.com/ovando-lulu)
 - [Sebastien Beaury](https://github.com/sbeaury)
