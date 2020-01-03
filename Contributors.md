@@ -58,6 +58,7 @@
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
 - [Steffen Ness](https://github.com/steffenalexander)
+-	[The Stig](https://github.com/juvestig)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - Malika Asim
 - [Melanie Mills] (https://github.com/codeherlife)
