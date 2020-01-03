@@ -8580,6 +8580,7 @@ Aman Panjwani
 - [Jacob Johansson](https://github.com/Keexer)
 - [GlacierLollipop](https://github.com/glacierlollipop)
 - [Steffen Ness](https://github.com/steffenalexander)
+-	[The Stig](https://github.com/juvestig)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Hannah Stannard](https://github.com/hannahrstannard)
 - [Malika Asim](https://github.com/itsvoodoochild)
