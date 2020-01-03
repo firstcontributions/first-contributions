@@ -17590,6 +17590,7 @@ macdara-dev
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
+- [Iyossias Eshete](https://github.com/iyossias-eshete)
 - [Lucian Dinu](https://github.com/luciandinu93)
 - [meSSH](https://github.com/IAmSSH)
 - [Ewan Stern](https://github.com/ewanstern)
