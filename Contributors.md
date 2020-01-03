@@ -3719,6 +3719,7 @@ Noam Taub
 - [Chef Gromboli](https://github.com/Chef-Gromboli)
 - [Victoria Hobbs](https://github.com/vlhobbs)
 - [Raafay Alam](https://github.com/rffffy)
+- [Rami](https://github.com/ZrnH)
 - [Sarfaraz Alam](https://github.com/coder-tle)
 - [Andrew Hsieh](https://github.com/ahsieh31)
 - [Blake Barton](https://github.com/blake-barton)
