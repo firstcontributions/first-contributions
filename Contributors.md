@@ -23,6 +23,7 @@
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
 - [Ben](https://github.com/zerler)
+- [Jamarr](https://github.com/jgreen0123)
 - [Hemant Vashist](https://github.com/HemantVashist)
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Zunaib](https://github.com/Zunaib)
