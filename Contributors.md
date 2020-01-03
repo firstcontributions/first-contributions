@@ -8160,6 +8160,7 @@ Aman Panjwani
 - [Anthony Serrano](https://github.com/aserrabi)
 - [Robert Aitken](https://github.com/robert-aitken)
 - [Arnon Danon](https://github.com/ArnonDanon)
+- [Coffee Bean] (https://github.com/c0ff33-b34n
 - [Troy Udarbe](https://github.com/tjudarbe)
 - [hamit taylan yuce](https://github.com/htaylanyuce)
 - [Sumit Singh](https://github.com/sumit9696)
