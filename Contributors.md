@@ -11,6 +11,7 @@
 - Jason Cozzitorto
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Stanley Chu] (https://github.com/YBSker)
+- [Adithya TP] (https://github.com/adithya-tp)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
