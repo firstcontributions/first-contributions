@@ -13560,6 +13560,7 @@ macdara-dev
 - [Seshu En](https://github.com/seshuen)
 - [Adam Hawley](htpps://github.com/TheGuyOnHisComputer)
 - [Addie Padernal](https://github.com/addiek13)
+- [Nick Rodriguez](https://github.com/nickgrod)
 - [TheY3TI](https://github.com/TheY3TI)
 - [David Cho](https://github.com/profnachos)
 - [Edgar Paez](https://github.com/edgarpaez)
