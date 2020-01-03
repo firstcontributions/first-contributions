@@ -7,6 +7,7 @@
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
+  [Lucas Eduardo]
 - [Shigeto Jeng]
 - Jason Cozzitorto
 - [Anchit Mishra] (https://github.com/anchit1729)
