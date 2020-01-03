@@ -226,6 +226,7 @@
 - [Arnaav Goyal](https://github.com/arnaavgoyal)
 - [Yuanyuan Tian](https://github.com/Yuanyuan2018)
 - [Tiziano B](https://github.com/tiziano-b)
+- [Brendan Polo](https://github.com/bpolo14)
 - [Richard Tinajero](https://github.com/rj-tinajero)
 - [Hunter Wang](https://github.com/fishfly)
 - [David Rubio](https://github.com/DavidRubio24)
