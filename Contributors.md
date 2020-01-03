@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [Sailesh Dahal] (https://github.com/saileshbro)
@@ -19391,6 +19391,7 @@ rehan
 - [Harsh Sharma](https://github.com/harshthecoder-27)
 - HAWK-Soft
 - [Sai Adarsh Babu K](https://github.com/SaiAdarsh)
+- [Kiana Perst](https://github.com/Kiana-P)
 - Ronly
 - [Ray Millares](https://github.com/rmill019)
 - [Nikunj Bansal](https://github.com/Nikunjbansal99)
