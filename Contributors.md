@@ -19168,6 +19168,7 @@ rehan
 - [zerx](https://github.com/zerx)
 - [Yigit G](https://github.com/ygoc95)
 - [Aleksey94Dan](https://github.com/Aleksey94Dan)
+- [Rupesh Patil](https://github.com/rupeish)
 - [Samuel Lamb](https://github.com/SentientSam)
 - [WesleyCSJ](https://github.com/wesleycsj)
 - [linsuri](https://github.com/linsuri)
