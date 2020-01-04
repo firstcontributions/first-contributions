@@ -13677,6 +13677,7 @@ macdara-dev
 - [Colten Webb](https://github.com/coltenwebb)
 - [Jan Miksik](https://github.com/jan-miksik)
 - [Miriam Crowley](https://github.com/msperlgirl)
+- [Elias Simon](https://github.com/Riesyeti)
 - [Michael Ruth](https://github.com/rubbersidedown)
 - [Ronan Ruth](https://github.com/Ronan998)
 - [Todd Hoffman](https://github.com/toddahoffman)
