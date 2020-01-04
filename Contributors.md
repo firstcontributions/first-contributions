@@ -39,6 +39,7 @@
 - [Md Golam Rahman Tushar](https://github.com/grtushar)
 - [Bibin Alex](https://github.com/bibinca1975)
 - [Aahel Guha](https://github.com/aahel)
+- [Barry Henry](https://github.com/BarryHenryJr)
 - [Zunaib](https://github.com/Zunaib)
 - [Warmbreeze](https://github.com/warmbreeze)
 - [Pulkit Mehta](https://github.com/pulkitmehtawork)
