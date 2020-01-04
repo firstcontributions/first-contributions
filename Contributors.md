@@ -27,6 +27,7 @@
 - [Brad Singleton](https://github.com/bradjsingleton)
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
+- [Utkarsh Sinha](https://github.com/Utkarsh2524992)
 - [Ben](https://github.com/zerler)
 - [Jamarr](https://github.com/jgreen0123)
 - [Hemant Vashist](https://github.com/HemantVashist)
