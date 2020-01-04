@@ -76,6 +76,7 @@
 - [devennn]
 - [ovezovs](https://github.com/ovezovs)
 - [mstava](https://github.com/Mstava)
+- [M.Hassan Ahmed](https://github.com/hassan11196)
 - [Ramsay Grove](https://github.com/GroveIV)
 - [Jabiu](https://github.com/jabiu)
 - [Jamie](https://github.com/jamiemorgan14)
