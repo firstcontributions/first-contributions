@@ -43,6 +43,7 @@
 - [Barry Henry](https://github.com/BarryHenryJr)
 - [Zunaib](https://github.com/Zunaib)
 - [Warmbreeze](https://github.com/warmbreeze)
+- [Klajdi Bodurri](https://github.com/kbodurri)
 - [Pulkit Mehta](https://github.com/pulkitmehtawork)
 - [Dan_b](https://github.com/DanBasson/first-contributions)
 - [Ben](https://github.com/zerler)
