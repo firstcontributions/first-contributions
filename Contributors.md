@@ -868,6 +868,7 @@ Joseph Tran
 - lin
 - Sochima Omenkeukwu
 - [Linkprada] (https://github.com/linkprada)
+- [Oliver Voogd] (https://github.com/OliverVoogd)
 - [Mike Brugnoni](https://github.com/mbrugnoni)
 - [Sagar Utekar](https://github.com/sagar2366)
 - [Anunay Aatipamula](https://github.com/anunay999)
