@@ -709,6 +709,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
 - [Huzaifa](https://github.com/hzk120)
+- [Claudia HM] (https://github.com/claudia-hm)
 - [Davi Ximenes de Aquino](https://github.com/daviximenes)
 - [logistic-bomsiet](https://github.com/logistic-bot)
 - [K-Z](https://github.com/K-zhao)
