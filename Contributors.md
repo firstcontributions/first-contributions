@@ -76,6 +76,7 @@
 - [Boris Chen](https://github.com/DigitalZenChen2017)
 - [Yash Patel](https://github.com/yashpatel20)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
+- [Ajay Singh](https://github.com/segsev)
 - [Shuojin]
 - [devennn]
 - [ovezovs](https://github.com/ovezovs)
