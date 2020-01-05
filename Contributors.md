@@ -11,6 +11,7 @@
   [Lucas Eduardo]
 - [Shigeto Jeng]
 - Jason Cozzitorto
+-[Rashik Adhikari] (https://github.com/rashik06)
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Adithya TP] (https://github.com/adithya-tp)
