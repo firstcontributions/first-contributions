@@ -1,5 +1,6 @@
 # Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
+- [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
 - [Toni Oliver Arlandy] (https://github.com/ajoliverar)
 - [Shakil Alam] (https://github.com/itxshakiil)
