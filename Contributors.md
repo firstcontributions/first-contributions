@@ -123,6 +123,7 @@
 - [Karma Dolkar](https://github.com/karmadolkar)
 - [Alan Kavanagh](https://github.com/goidel)
 - [Yunki](https://github.com/yunkii)
+- [Marius Franzén](https://github.com/mariusfranzen)
 - [prabusah](https://github.com/prabusah)
 - [Ramonta Lee](https://github.com/Ramonta-Lee)
 - [Preetham](https://github.com/akaashpreetham1)
