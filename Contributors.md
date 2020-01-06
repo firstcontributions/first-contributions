@@ -75,6 +75,7 @@
 - [Yufan](http://github.com/yxc775)
 - [Tharupahan](https://github.com/Tharupahan)
 - [Tim](https://github.com/adlotsof)
+- [Sehyeong Lee] (https://github.com/lsh23)
 - [Boris Chen](https://github.com/DigitalZenChen2017)
 - [Yash Patel](https://github.com/yashpatel20)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
