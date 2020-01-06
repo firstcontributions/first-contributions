@@ -18203,6 +18203,7 @@ macdara-dev
 - [Ashford Hill](http://github.com/ashfordhill)
 - [Abhinav Gupta](https://github.com/abhinvgupta/)
 - [Vincent Tern](https://github.com/vincenttern)
+- [Patrick Carty](https://github.com/pcarty92)
 - [Alejandro Marco](http://amisdoinghisbest.com)
 - [Rajarajan Balasubramanian](https://github.com/rajarajanb)
 - [Dominik Petrovic](https://github.com/nixxcode)
