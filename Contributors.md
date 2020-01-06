@@ -11,6 +11,7 @@
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
 - [Shigeto Jeng]
+  [Evelyn Chang]
 - Jason Cozzitorto
 -[Rashik Adhikari] (https://github.com/rashik06)
 - [Anchit Mishra] (https://github.com/anchit1729)
