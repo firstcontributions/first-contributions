@@ -3,6 +3,7 @@
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
 - [Toni Oliver Arlandy] (https://github.com/ajoliverar)
+- [Nicholas Pandelakis] (https://github.com/npandelakis)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
