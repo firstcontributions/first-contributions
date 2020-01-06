@@ -44,6 +44,7 @@
 - [Hemant Vashist](https://github.com/HemantVashist)
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Zunaib](https://github.com/Zunaib)
+- [Anna Presnyakova](https://github.com/chiffenok)
 - [Yeejkoob Thao](https://github.com/yeejkoobt)
 - [GC Phillips](https://github.com/gcphillips)
 - [Tio Saputra](https://github.com/karyatio)
