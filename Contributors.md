@@ -16745,6 +16745,7 @@ macdara-dev
 - [Mon555](https://github.com/mon555)
 - [Priyendu Mori](https://github.com/priyendumori)
 - [Gabrielle Devanz](https://github.com/gabrielledevz)
+- [Parth Thakker] (https://github.com/parthdt)
 - [Rui Neto](https://github.com/rnetonet)
 - [Harshni](https://github.com/harshnipriya)
 - [Bardackx](https://github.com/bardackx)
