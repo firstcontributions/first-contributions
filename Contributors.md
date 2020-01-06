@@ -13819,7 +13819,7 @@ macdara-dev
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
 - [Andrew Juby](https://github.com/juby)
 - [Kwadwo Busumtwi](https://github.com/supasheva)
-- [Erlang Jenssen]
+- [Erlang Jenssen] 
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Yann Hoffmann](https://github.com/Yann21)
