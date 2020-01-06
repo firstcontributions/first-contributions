@@ -38,6 +38,7 @@
 - [Suhani](https://github.com/suhani-goel)
 - [Utkarsh Sinha](https://github.com/Utkarsh2524992)
 - [Ben](https://github.com/zerler)
+- [Joel Garplind](https://github.com/jgarplind)
 - [Jamarr](https://github.com/jgreen0123)
 - [Hemant Vashist](https://github.com/HemantVashist)
 - [Akhil Singh](https://github.com/HumbleBustler)
