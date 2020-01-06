@@ -29,6 +29,7 @@
 - [Thomas Holmegaard] (https://github.com/thom9346)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
 - [Omar-Shezan](https://github.com/OmarShezan)
+- [Hendrik Alberts](https://github.com/SuperSafie)
 - [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
 - [Brad Singleton](https://github.com/bradjsingleton)
