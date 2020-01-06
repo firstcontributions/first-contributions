@@ -10,6 +10,7 @@
 - [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
+- [Siyan Shaikh] (https://github.com/siyans56)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
 - [Shigeto Jeng]
