@@ -23,6 +23,7 @@
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - Wilson Horrell
+- [Sehyeong Lee] (https://github.com/lsh23)
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
 - [Thomas Holmegaard] (https://github.com/thom9346)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
