@@ -19,8 +19,9 @@
 - [Shigeto Jeng]
   [Evelyn Chang]
 - Jason Cozzitorto
+- [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
--[Rashik Adhikari] (https://github.com/rashik06)
+- [Rashik Adhikari] (https://github.com/rashik06)
 - [Amr Akmal]   (https://github.com/amroakmal)
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
