@@ -3054,6 +3054,7 @@ Stephan Sharpe
 - [Harsh Maheshwari](https://github.com/harshchinu)
 - [Wilson Staley](https://github.com/wilstaley)
 - [Lauran Ando](https://github.com/Lau7an)
+- [Mike Crawford](https://github.com/miscmike)
 - [Aju Tamang](https://github.com/Aju100)
 - [Josh Zheng](https://github.com/jadeGeist)
 - [Botond Hajdu](https://github.com/hajduboti)
