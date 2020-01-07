@@ -218,6 +218,9 @@ If you're making changes to a translation, please request a review from our prev
         <td>
             <a href="https://github.com/stefanoszisidis">stefanoszisidis</a>
         </td>
+	<td>
+            <a href="https://github.com/normyp">normyp</a>
+        </td>
         <td>
             <a href="https://github.com/iMouath">iMouath</a>
         </td>
