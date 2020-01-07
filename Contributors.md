@@ -13871,7 +13871,7 @@ macdara-dev
 - [Kaustubh Pandey](https://github.com/kaustubh-pandey)
 - [Andrew Juby](https://github.com/juby)
 - [Kwadwo Busumtwi](https://github.com/supasheva)
-- [Erlang Jenssen] 
+- [Erlang Jenssen]
 - [Thomas Fear](https://github.com/Novaras)
 - [Nicholas Vincent-Hill](https://github.com/nvincenthill)
 - [Yann Hoffmann](https://github.com/Yann21)
@@ -15656,6 +15656,7 @@ macdara-dev
 - [Anurag Rai](https://github.com/anurag-rai)
 - [Zara Saldanha](https://github.com/zara-nicole)
 - [Robert Smayda](https://github.com/rsmayda)
+- [Justinas Marozas](https://github.com/justinas-marozas)
 - [Vitor de Lima](https://github.com/vitorlc)
 - [Rafael Gomes](https://github.com/elrafa-sg)
 - [Will Kaczmarek](https://github.com/KaczmarekWill)
