@@ -212,6 +212,7 @@
 - [Mohamad Nachabe](https://github.com/mohamadnachabe)
 - [Erin Leck](https://github.com/eel87)
 - [Rob Harman]
+- [Joel Clark](https://github.com/joelhenryclark123)
 - [Joey Seiler](https://github.com/seilerjr)
 - [Audric Ganser](https://github.com/audricganser)
 - [Jwad Aziz](https://github.com/jwad96)
@@ -9194,6 +9195,7 @@ Aman Panjwani
 - [Dilsheen Kaur](https://github.com/dilsheen)
 - [Akshit Dhar](https://github.com/kyrierose)
 - [Eddie Dong](https://github.com/Eddienewpath)
+- Joel Clark
 - [Tyrant Davis](https://github.com/tyrantdavis)
 - [Shubham Patraf](https://github.com/Shubham189)
 - [Ben Trono](https://github.com/BT-VT)
