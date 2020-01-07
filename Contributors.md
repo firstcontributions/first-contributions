@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
@@ -17576,7 +17576,8 @@ macdara-dev
 - [Seiichi Ariga](https://github.com/s-ariga)
 - [Seung-Hyun-Jeon](https://github.com/robinstart)
 - [Yang Gyeong-mo](https://github.com/yangkyeongmo/)
--   [Jake Goodwin](https://github.com/JakeGoodwin)
+- [Jonathan Armstrong](https://github.com/ArmstrongPhysics)
+- [Jake Goodwin](https://github.com/JakeGoodwin)
 - [Gauhar Ayub Khan](https://github.com/gauharayub)
 - [Misha Krul](https://github.com/mishakrul)
 - [dorf06](https://github.com/dorf06)
@@ -17636,7 +17637,6 @@ macdara-dev
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
@@ -19245,7 +19245,7 @@ rehan
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Nuh Koca](https://github.com/nuhkoca)'
 - [Joshua Farina](https://github.com/joshred83)
--[Devon]
+- [Devon]
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [Lois Ritualo](https://github.com/Frances-Lois)
 - [Nikola Tomasevic](https://github.com/niktomash)
