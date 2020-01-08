@@ -1,5 +1,6 @@
 # Contributors
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
+- [Nouamane Tazi]
 - [Cam Makin] (https://github.com/cammakin)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
