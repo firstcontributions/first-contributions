@@ -10904,6 +10904,7 @@ macdara-dev
 - [Klara Miffili](https://github.com/Miffili)
 - [Niic](https://github.com/niiccolas)
 - [Ifunanya Ikemma](https://github.com/Iphytech)
+- [James Jung] (https://github.com/jameswsj10)
 - [Igor Cvitas](https://github.com/Vijuu)
 - [Adjie Saputra Wijaya](http://github.com/uyeh)
 - [Alper Karatas](http://github.com/malperk)
