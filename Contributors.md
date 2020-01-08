@@ -27,6 +27,7 @@
 - [Amr Akmal]   (https://github.com/amroakmal)
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
+-[Joshua Goossen] (https://github.com/Goosse)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Adithya TP] (https://github.com/adithya-tp)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
