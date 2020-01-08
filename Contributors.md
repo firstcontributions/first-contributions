@@ -60,6 +60,7 @@
 - [Federico Toledo](https://github.com/fedetoledo)
 - [Jose](https://github.com/Valtiel0)
 - [Md Golam Rahman Tushar](https://github.com/grtushar)
+- [Victor F](https://github.com/Vicfs)
 - [Bibin Alex](https://github.com/bibinca1975)
 - [Aahel Guha](https://github.com/aahel)
 - [Barry Henry](https://github.com/BarryHenryJr)
