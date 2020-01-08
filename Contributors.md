@@ -142,6 +142,7 @@
 - [Andreas Wittmann](https://github.com/andiwi)
 - [Omri Dagan](https://github.com/daganomri)
 - [Ron Waller](https://github.com/RonWaller)
+- [Justin Higgs](https://githjub.com/televators)
 - [Paul Thomas]
 - [Jason Polanco](https://github.com/JayPolanco)
 - [Cameron Harris]
