@@ -636,6 +636,7 @@ CMBloodMeridian
 - Abdelkader Lagha
 - [Vinay Kumar](https://github.com/vinayk18)	
 - [Monty Britton](https://github.com/MontyBr)
+- [Sheldon Tauro](https://github.com/sheldontauro)
 - Christina Luna (https://github.com/christinaluna)
 - Ashwani (https://github.com/ashwani12131)
 - [Raul Dutta](https://github.com/duttar18)
