@@ -10782,6 +10782,7 @@ macdara-dev
 - [Christian](https://github.com/christiansgithub)
 - [Abhi](https://github.com/abhi010101)
 - [Narendra Mandadapu](https://github.com/scriptstar)
+- [Tiago Peixoto](https://github.com/tiago-peixoto)
 - [tkuanlun350](https://github.com/tkuanlun350)
 - [G?khan Gurbeto?lu](https://github.com/ggurbet)
 - [Sourab Kanthavar](https://github.com/Skanthavar)
