@@ -40,6 +40,7 @@
 - [Omar-Shezan](https://github.com/OmarShezan)
 - [Hendrik Alberts](https://github.com/SuperSafie)
 - [Bear Kruz](https://github.com/bearkruz)
+- [Miha Drofenik](https://github.com/Burzo)
 - [Asrori](https://github.com/Asrori)
 - [Mohmed Anis Agwan](https://github.com/anis-agwan)
 - [Brad Singleton](https://github.com/bradjsingleton)
