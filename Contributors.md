@@ -263,6 +263,7 @@ Joshua Cronin
 - [Willie Mangram](https://github.com/Williem3)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Nauman Shakir](https://github.com/Nauman3S)
+- [Sheldon Tauro](https://github.com/sheldontauro)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
 - [Samyuktha](https://github.com/samyukthagopalsamy)
 - [Abdulganiyu Yusufu] (https://github.com/abdulg95)
