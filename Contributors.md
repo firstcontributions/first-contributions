@@ -17,6 +17,7 @@
 - [Siyan Shaikh] (https://github.com/siyans56)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
+  [Matthieu Stockbauer]
 - [Shigeto Jeng]
   [Evelyn Chang]
 - Jason Cozzitorto
