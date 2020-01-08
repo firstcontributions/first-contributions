@@ -85,6 +85,7 @@
 - [Emir](https://github.com/EmirVatric)
 - [Erin](https://github.com/erniekins)
 - [D-Tara](https://github.com/d-tara)
+- [Adam](https://github.com/anon)
 - [Roberto Nicolás Savinelli](https://github.com/rnsavinelli)
 - [Shamin Asfaq](https://github.com/ShaminAsfaq)
 - [Tenzin Ngawang](https://github.com/Tenzin1010)
