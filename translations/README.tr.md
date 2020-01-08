@@ -115,7 +115,7 @@ Yaptığınız değişiklikleri en kısa zamanda projenin "master" dalı ile bir
 
 Sunduğunuz katkının coşkusunu yaşamak ve bunu arkadaşlarınız ve takipçilerinizle paylaşmak için [bu bağlantıdaki](https://roshanjossey.github.io/first-contributions/#social-share) uygulamamızı kullanabilirsiniz.
 
-Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
+Bir sorunuz veya yardıma ihtiyacınız olursa Slack takımımıza katılabilirsiniz. [Slack takımına katıl](https://firstcontributions.herokuapp.com)
 
 Artık diğer projelere katkı sunmaya hazırsınız. Çözmeye başlayabileceğiniz giriş seviyesindeki konulara (issue) sahip projeleri [sizin için derledik](https://roshanjossey.github.io/first-contributions/#project-list).
 
