@@ -19484,5 +19484,6 @@ rehan
 - [Pim Ganzeboom](https://github.com/Speekless)
 - [Rahmad Subakti](https://github.com/rahmadsubakti)
 - [Shubham Bose] - I'm right here folks
+- [Ariel Lasry](https://github.com/lasryariel/)
 - [PJDunand]
 - [Farhan Khalifa Ibrahim] (https://github.com/Farhan-Khalifa-Ibrahim)
