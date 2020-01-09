@@ -1217,6 +1217,7 @@ notForProffitt
 - [Gaurav Saxena](https://github.com/gsvolt)
 - [Jake Murray](https://github.com/jakerx79)
 - [Preethi Manoharan](https://github.com/preethi900)
+- [Akash Parvatikar](https://github.com/justtryingtosurvive)
 - [Kris Shore](https://github.com/kshore2k)
 - [Raphael Concil](https://github.com/raphael-concil)
 - [Nguyen Phu](https://github.com/vonguyenphu)
