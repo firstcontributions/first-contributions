@@ -247,6 +247,7 @@
 - [Sibuscus](https://github.com/Sibuscus)
 - [Harsha K]
 - [Alec Fremier](https://github.com/alecfrem)
+- [Mayur Bansal](https://github.com/Mayur290)
 - [Cem Kavuklu](https://github.com/cemkavuklu)
 - [Iván Alberquilla](https://github.com/ialberquilla)
 - [Joshua Cleverley](https://github.com/JoshuaCleverley)
