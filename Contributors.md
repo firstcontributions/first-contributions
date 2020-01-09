@@ -10,6 +10,7 @@
 - [Adithya Nayak] (https://github.com/beltmankelo)
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
 - [Shakil Alam] (https://github.com/itxshakiil)
+- [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
