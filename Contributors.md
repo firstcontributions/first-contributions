@@ -4366,6 +4366,7 @@ Noam Taub
 - I dont know
 - Allison
 - [Potato Banana](https://github.com/u-wut-m8)
+- [Arthur Cerveira](https://github.com/arthurcerveira)
 - [Pasan](https://github.com/pasanprem)
 - [Brett Shelley](github.com/brettshelley)(brettshelley.dev)
 - [W. van der Goot](https://github.com/watszon)
