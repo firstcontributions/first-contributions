@@ -183,6 +183,7 @@
 - [Gregory El Bajoury](https://github.com/Injechta)
 - [David Rowan](https://github.com/rowanD72)
 - [Ahmed Zahran]
+- [Tony Anzalone]
 - [Heath Robinson](https://github.com/heathexer)
 [Debaditya Dutta](https://github.com/Deb-28)
 - [Dirk Kadijk](https://github.com/dirkkadijk)
