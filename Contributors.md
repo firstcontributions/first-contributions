@@ -19461,6 +19461,7 @@ rehan
 - [Taylor Malamut](https://github.com/tmalamut)
 - [Jorge Jiménez](https://github.com/xadrijo)
 - [Edward Webb](https://github.com/edwudw)
+- [Ebenezar Isaac](https://github.com/ebenezarisaac)
 - [Victor Garcia](https://github.com/vicvic75vg)
 - [Nadine Castro] (https://github.com/lachica426)
 - [Douglas Oliveira](https://github.com/douglasolv)
