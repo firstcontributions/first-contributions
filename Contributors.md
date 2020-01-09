@@ -23,6 +23,7 @@
 - [Shigeto Jeng]
   [Evelyn Chang]
 - Jason Cozzitorto
+  [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
 - [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
