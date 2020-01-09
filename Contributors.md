@@ -19488,6 +19488,7 @@ rehan
 - [Renan Carlos] (https://github.com/RenanCarlos-coder)
 - [Shanu](https://github.com/prathams7)
 - [Chloe Ramage](https://github.com/ramage002)
+- [Jordan Robert Byamugisha](https://github.com/Jordan-Rob)
 - [Cesar Acosta](https://github.com/cacosta33)
 - [Shahrukh Jalil] (https://github.com/jalilshahrukh)
 - [Can Badstuber] (https://github.com/CanK93/)
