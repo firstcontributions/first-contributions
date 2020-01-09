@@ -58,6 +58,7 @@
 - [Anubhav] (https://github.com/visAnu17/)
 - [Joel Garplind](https://github.com/jgarplind)
 - [Jamarr](https://github.com/jgreen0123)
+- [Mohamed Akl](https://github.com/mohamedakl1)
 - [Hemant Vashist](https://github.com/HemantVashist)
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Zunaib](https://github.com/Zunaib)
