@@ -25,7 +25,7 @@ Please note, this tutorial is for MacOS. It is similar with Sourcetree on Window
 Please note, this tutorial is for MacOS. Please refer to the [Windows Tutorial]() for Sourcetree if that is what you want to use.
 -->
 
-Download [Sourcetree](https://www.sourcetreeapp.com), Install and open it.
+Download [Sourcetree](https://www.sourcetreeapp.com), install and open it.
 
 You should see the "Sourcetree" modal dialog.
 
