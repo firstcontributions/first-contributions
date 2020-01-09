@@ -864,6 +864,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Milo Wyner](https://github.com/milowyner)
 - [Ankit Garg](https://github.com/ankitgargsma)
 - [Andrea Gines](https://github.com/andreaGines)
+- [Maria Terrenal](https://github.com/mdterrenal)
 - [Lauren Mooney](https://github.com/laurennmooney)
 - [Surafel Hailu](https://github.com/surafelh)
 - [changicho](https://github.com/changicho)
@@ -19503,4 +19504,4 @@ rehan
 - [PJDunand]
 - [Derwin Wu]
 - [Farhan Khalifa Ibrahim] (https://github.com/Farhan-Khalifa-Ibrahim)
-- [plantprogrammer](https://github.com/plantprogrammer) 
+- [plantprogrammer](https://github.com/plantprogrammer)
