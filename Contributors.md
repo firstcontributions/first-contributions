@@ -872,6 +872,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 -[Siddhant Jain](https://github.com/GitSiddhant)
 - Anirudh
 - Johanna
+- [Adam M]()
 - Philip Wright
 - [Alvin X](https://github.com/AlvinYX)
 - [Emma Smith](https://github.com/emzobaby)
