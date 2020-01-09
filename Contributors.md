@@ -19496,6 +19496,7 @@ rehan
 - [romain Bouvet](https://github.com/rbABRAXAS)
 - [Reymai] (https://github.com/Reymai)
 - [DK Kim](https://github.com/dkview)
+- [Alex Lee](https://github.com/alexlee311)
 - [Timothy Brits](https://github.com/timmohb)
 - [Pim Ganzeboom](https://github.com/Speekless)
 - [Rahmad Subakti](https://github.com/rahmadsubakti)
