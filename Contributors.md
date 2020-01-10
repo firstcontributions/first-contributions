@@ -9238,6 +9238,7 @@ Aman Panjwani
 - [Ben Trono](https://github.com/BT-VT)
 - [Gegory Leleytner](https://github.com/RunFMe)
 - [Owen Gifford](https://github.com/oweng2018)
+- [Nick Racken](https://github.com/racken)
 - [Avijit Roy](https://github.com/avijitpunk)
 - [James Farrell](https://github.com/wopps)
 - [Yashwanth Manchikatla](https://github.com/yashwanthmanchikatla)
