@@ -8324,6 +8324,7 @@ Aman Panjwani
 - [rroche](https://github.com/rrocheec)
 - [Gusti Ridhoni Syahputera](https://github.com/gusti-syahputera)
 - [Jun Teng](https://github.com/teng-oh)
+- [Peter Teng](https://github.com/peterywteng)
 - [Hasib Zunair](https://github.com/hasibzunair)
 - [Hashini Galappaththi](https://github.com/hashi93)
 - [Salha Salman](https://github.com/salhasalman)
