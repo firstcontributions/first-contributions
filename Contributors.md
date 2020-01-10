@@ -19526,3 +19526,4 @@ rehan
 - [Tony Tang] (https://github.com/tonytangdev/)
 - [Alex Phan] (https://github.com/Edgeoutrock/)
 - [Bernardo Garza] (https://github.com/bernardogarza)
+- [Manuel Duran] (https://github.com/manuelreneduran)
