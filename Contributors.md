@@ -1,4 +1,5 @@
 # Contributors
+- Harrison Corupe (https://github.com/Hcorupe)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
