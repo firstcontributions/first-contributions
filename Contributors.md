@@ -40,6 +40,7 @@
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
+- Alper Battal
 - Wilson Horrell
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Damon Kasner] (https://github.com/DamonK19)
