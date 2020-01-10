@@ -19530,3 +19530,5 @@ rehan
 - [Bernardo Garza] (https://github.com/bernardogarza)
 - [Manuel Duran] (https://github.com/manuelreneduran)
 - [Anthony Stanicki](https://github.com/anstan96)
+- [Atul Raj Gupta] (https://github.com/raazatul7)
+
