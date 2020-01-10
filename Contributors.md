@@ -19522,3 +19522,4 @@ rehan
 - [plantprogrammer](https://github.com/plantprogrammer)
 - [Tony Tang] (https://github.com/tonytangdev/)
 - [Alex Phan] (https://github.com/Edgeoutrock/)
+- [Bernardo Garza] (https://github.com/bernardogarza)
