@@ -32,6 +32,7 @@
 - [Mudit Jain](https://github.com/pythogeeker)
 - [Mohammad-Bilal-Bhatti](https://github.com/Mohammad-Bilal-Bhatti "Git Hub Account Link")
 - [Mohamed El Amri](https://github.com/elamrimohamed)
+- [Shadrach Tuck] (https://github.com/shadrachtuck)
 - Wilson Horrell
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
