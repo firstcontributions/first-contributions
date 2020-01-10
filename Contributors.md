@@ -142,6 +142,7 @@
 - [Enrique Madrid](https://github.com/enmadrid76)
 - [Niharika AT](https://github.com/tniharika)
 - [Felix Lee](https://github.com/leeyt54)
+- [Omar Sinan](https://github.com/omarsinan)
 - [Bryan Rodríguez](https://github.com/bernestdev)
 - [Jordan Jones](https://github.com/jordavejones)
 - [Andrew Quick](https://github.com/andrewtquick)
