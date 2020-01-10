@@ -3062,6 +3062,7 @@ Stephan Sharpe
 - [Ryan Levitt](https://github.com/rlevv)
 - [Ryan Fox](https://github.com/ryanfox-software)
 - [Enzo Swayne](https://github.com/MistyMtnHop11)
+- [Nima M](https://github.com/nima-m-git)
 - [Jonathan Estacio](https://github.com/estacioj91)
 - [Ibnul Kayes](https://github.com/image7)
 - [Sundar Murthi](https://github.com/sundar1195)
