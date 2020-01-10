@@ -11108,6 +11108,7 @@ macdara-dev
 - [Mizuki Mukai](kikki-git)
 - [Bhoomchai L](https://github.com/bhoomchai)
 - [MT Huebsch](https://github.com/mt-huebsch)
+- [James Bernhardt](https://github.com/voxspero)
 - [Sidhant Subramanian](https://github.com/coderoda)
 - [Ryan Wittibschlager](https://github.com/wittibs)
 - [Arpan Samanta](https://github.com/arpan1998)
