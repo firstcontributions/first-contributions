@@ -26,8 +26,8 @@
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
   [Jonathan Ayers] (https://github.com/jfayerz)
-- [Arjun Sapkota] (http://arjunsapkota.com/)
   [Matthieu Stockbauer]
+- [Arjun Sapkota] (http://arjunsapkota.com/)
 - [Shigeto Jeng]
   [Evelyn Chang]
 - Jason Cozzitorto
