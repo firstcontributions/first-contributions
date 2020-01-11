@@ -20,6 +20,7 @@
 - [Rui Chow]()
 - [Peter Mai](https://github.com/Peter-Mai)
 - [Lucas]
+- [Ulrich Neud]
 - [Blythe Totsch]
 - [Ragan Lake]
 - [Amos Nzivu]
