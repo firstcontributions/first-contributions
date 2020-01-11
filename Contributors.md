@@ -1,4 +1,5 @@
 # Contributors
+
 - [Nguyễn Huỳnh Lợi](https://github.com/loia5tqd001)
 - Harrison Corupe (https://github.com/Hcorupe)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
@@ -17,6 +18,7 @@
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
+- [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
@@ -9183,6 +9185,7 @@ Aman Panjwani
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Ygor Tavela](https://github.com/ytavela)
 - [Noah Haasis](https://github.com/noahhaasis)
+- [Adrian Branescu](https://github.com/adrianbranescu)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [sahilsharma011](https://github.com/sahilsharma011)
