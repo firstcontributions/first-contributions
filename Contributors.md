@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Harrison Corupe (https://github.com/Hcorupe)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
@@ -9182,6 +9182,7 @@ Aman Panjwani
 - [Cheryl Hartman](https://github.com/chartman4)
 - [Ygor Tavela](https://github.com/ytavela)
 - [Noah Haasis](https://github.com/noahhaasis)
+- [Adrian Branescu](https://github.com/adrianbranescu)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [sahilsharma011](https://github.com/sahilsharma011)
