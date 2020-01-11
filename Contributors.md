@@ -2,6 +2,7 @@
 - Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
+- [Casey McLellan] (https://github.com/cdmclellan7)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
