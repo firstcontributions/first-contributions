@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Harrison Corupe (https://github.com/Hcorupe)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
@@ -105,6 +105,7 @@
 - [Erin](https://github.com/erniekins)
 - [D-Tara](https://github.com/d-tara)
 - [Adam](https://github.com/anon)
+- [Rahul Kumar Pal](https://github.com/vicky724)
 - [Roberto Nicolás Savinelli](https://github.com/rnsavinelli)
 - [Shamin Asfaq](https://github.com/ShaminAsfaq)
 - [Tenzin Ngawang](https://github.com/Tenzin1010)
