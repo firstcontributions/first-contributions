@@ -1,4 +1,5 @@
 # Contributors
+- Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
