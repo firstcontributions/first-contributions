@@ -11,6 +11,7 @@
 - [Faith Isaac] (https://github.com/frisaac)
 - [Adithya Nayak] (https://github.com/beltmankelo)
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
+- [Jeffrey Chow] (https://github.com/chow1340)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
