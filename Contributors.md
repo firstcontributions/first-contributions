@@ -4,6 +4,7 @@
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
+- [Vatsala Jha]
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
