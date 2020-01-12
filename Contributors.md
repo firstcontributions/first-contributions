@@ -11012,6 +11012,7 @@ macdara-dev
 - [Pradeep](https://github.com/pradunmt)
 - [Ilza Maria](https://github.com/ilzinha)
 - [Laura Monteiro](https://github.com/lauratavares)
+- [Shashank](https://github.com/scramjet911)
 - [Angela Lin](https://github.com/tigclaw)
 - [Carlos Ferreira](https://github.com/carlosf)
 - [ChaiBapchya](https://github.com/ChaiBapchya)
