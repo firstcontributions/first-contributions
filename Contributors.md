@@ -32,6 +32,7 @@
   [Jonathan Ayers] (https://github.com/jfayerz)
   [Matthieu Stockbauer]
 - [Shigeto Jeng]
+    [Steve Mullins] (https://github.com/sgmullins)
   [Evelyn Chang]
 - Jason Cozzitorto
   [Tomasz Mejer] (https://github.com/tomek-em)
