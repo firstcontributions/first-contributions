@@ -7358,6 +7358,7 @@ Aman Panjwani
 - [Amwalul Ikhsani](https://github.com/amwalul)
 - [Matt Jordan](https://github.com/mattjordan)
 - [Snir The Man](https://github.com/snirtheman)
+- [Mátyás Angyal](https://github.com/amatyas001)
 - [Dimitris Kokkaliaroglou](https://github.com/loxagossnake)
 - [Sean Yeo](https://github.com/SeanYeoTE)
 - [Karthik Kothuri](https://github.com/KKothuri)
