@@ -187,6 +187,7 @@
 - [Paul Thomas]
 - [Jason Polanco](https://github.com/JayPolanco)
 - [Cameron Harris]
+- [crawler]
 - [Abdullah Khairi](https://github.com/iriahk89)
 - [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
