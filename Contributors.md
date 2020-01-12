@@ -10,6 +10,7 @@
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
 - [Deva Kumar] (https://github.com/devak997)
+- [Emir Zivcic] (https://github.com/EEmZZ)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
