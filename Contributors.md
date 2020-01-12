@@ -2,6 +2,7 @@
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
+- Ben Soderholm (https://github.com/ben-sod)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
@@ -23,7 +24,7 @@
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
--  Cheeki Breeki 
+-  Cheeki Breeki
 [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
