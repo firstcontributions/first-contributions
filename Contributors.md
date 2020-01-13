@@ -252,6 +252,7 @@
 - [Krystal A](https://github.com/KrysA2490)
 - [Deividas Rimkus](https://github.com/Lisviks)
 - [Chan Chan (aka csquare)](https://github.com/c5quare)
+- [Rick Mackenbach](https://github.com/Rick-Mackenbach)
 - [Juan Lopez](https://github.com/juanlpez5/)
 - [Dawid Motak](https://github.com/Motii1)
   [Francesco Negriolli](https://github.com/francesco-n)
@@ -19568,4 +19569,5 @@ rehan
 - [Anthony Stanicki](https://github.com/anstan96)
 - [Prateek Jha](https://github.com/prateekj07394)
 - [Anssi Herranen](https://github.com/relicode)
+- [Sahil Rajput] (https://github.com/sahilrajput2223)
 - [Doanobu 14](https://github.com/doanobu14)
