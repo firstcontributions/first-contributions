@@ -31,6 +31,7 @@
 - [Siyan Shaikh] (https://github.com/siyans56)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
+  [dave Ramirez Bombastic]
   [Jonathan Ayers] (https://github.com/jfayerz)
   [Matthieu Stockbauer]
 - [Shigeto Jeng]
