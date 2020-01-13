@@ -12,6 +12,7 @@
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
+- [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
 - [Emir Zivcic] (https://github.com/EEmZZ)
