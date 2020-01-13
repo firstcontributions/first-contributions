@@ -16,6 +16,7 @@
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
+- [Johnny Hane] (https://github.com/katangafor)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
 - [Toni Oliver Arlandy] (https://github.com/ajoliverar)
