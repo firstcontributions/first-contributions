@@ -6,16 +6,19 @@
 - Kevin Joseph (https://github.com/devilsangel)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
+- Maryam Nawaz (https://github.com/mjemnawaz)
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
+- [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
+- [Johnny Hane] (https://github.com/katangafor)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
 - [Toni Oliver Arlandy] (https://github.com/ajoliverar)
@@ -27,6 +30,7 @@
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Trisha Gupta]
+- [Steve Ahlswede] (https://github.com/SevenFoldDeep)
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Marzia Bruno] (https://github.com/mmcbruno)
