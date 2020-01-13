@@ -29,6 +29,7 @@
 - [Trisha Gupta]
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
+- [Marzia Bruno] (https://github.com/mmcbruno)
 -  Cheeki Breeki
 [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
