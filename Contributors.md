@@ -28,6 +28,7 @@
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Trisha Gupta]
+- [Steve Ahlswede] (https://github.com/SevenFoldDeep)
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Marzia Bruno] (https://github.com/mmcbruno)
