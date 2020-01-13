@@ -6015,6 +6015,7 @@ Noam Taub
 - [Fleuron Gnadekpa](https://github.com/fleuronvilik)
 - [appygal](https://github.com/appygal)
 - [Marc Brooks](https://github.com/AGeekInside)
+- [Szymon Woźniak] (https://github.com/simonusher)
 - [RomainLt](https://github.com/RomainLt)
 - [Idayat Abdulsalam](https://github.com/Abdulsalam13)
 - [Alex Oladele](https://github.com/dragid10)
