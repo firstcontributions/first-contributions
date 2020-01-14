@@ -9733,6 +9733,7 @@ Aman Panjwani
 - [Slupi](https://github.com/Slupi)
 - [Ibrahim](https://github.com/harthii)
 - [Dino Daniel](https://github.com/dinodn)
+- [Sayali Gad] (https://github.com/sayali-gad/)
 - [Preston Nalls](https://github.com/pjnalls)
 - [SVinodh](https://github.com/paintedskies)
 - [Freudianslip99](https://github.com/freudianslip99)
