@@ -4,6 +4,7 @@
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
 - Kevin Joseph (https://github.com/devilsangel)
+- Shivam Sharma [https://github.com/shivam0311]
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
 - Maryam Nawaz (https://github.com/mjemnawaz)
