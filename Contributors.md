@@ -3,6 +3,7 @@
 - Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
+- Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
