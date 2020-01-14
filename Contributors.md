@@ -2214,6 +2214,7 @@ Haris Siddiqui
 - [Moshe]
 - [ulsoe05](https://github.com/ulsoe05)
 - [Sudeshna Bhowmik](https://github.com/SudeshnaBhowmik)
+- [Ben B. Miller](https://github.com/bmillsmc)
 - [Aman Jain](https://github.com/amnjain)
 - [Alkator-Nori](https://github.com/nais000k)
 - [Audelio Lujan](https://github.com/ajd01)
