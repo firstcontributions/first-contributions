@@ -72,6 +72,7 @@
 - Adnan Ashraf
 - Wilson Horrell
 - [Sehyeong Lee] (https://github.com/lsh23)
+- [Ezra Muskat] (https://github.com/ezramuskat)
 - [Damon Kasner] (https://github.com/DamonK19)
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
 - [Thomas Holmegaard] (https://github.com/thom9346)
