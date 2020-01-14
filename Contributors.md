@@ -13,6 +13,7 @@
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Nouamane Tazi]
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
+- [Jorge Luis R. R. Junior] (https://github.com/mindravens)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
 - [Emir Zivcic] (https://github.com/EEmZZ)
