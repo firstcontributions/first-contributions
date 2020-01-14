@@ -10201,6 +10201,7 @@ Aman Panjwani
 - [Kunal Vishnoi](https://github.com/kunalvishnoi)
 - [Ankit Tiwari](https://github.com/anku255)
 - [Erik Lopez](https://github.com/eglopez07)
+- [Clademir Zampieri](https://github.com/ClademirZampieri)
 - [Renisha Christie. A](https://github.com/crisner)
 - [Anto Samalona](https://github.com/antosamalona)
 - [Dimitrio Mandamadiotis](https://github.com/dimitrio-m)
