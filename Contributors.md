@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
@@ -11,6 +11,7 @@
 - [Casey McLellan] (https://github.com/cdmclellan7)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
+- [Hannes Kinnunen](https://github.com/Steellow)
 - [Nouamane Tazi]
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
