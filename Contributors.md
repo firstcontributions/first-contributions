@@ -20,6 +20,7 @@
 - [Hariom Singh] (https://github.com/hariom454)
 - [Toni Oliver Arlandy] (https://github.com/ajoliverar)
 - [Faith Isaac] (https://github.com/frisaac)
+- [Madhur Vashistha](https://github.com/Madhur215)
 - [Adithya Nayak] (https://github.com/beltmankelo)
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
 - [Jeffrey Chow] (https://github.com/chow1340)
