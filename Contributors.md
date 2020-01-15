@@ -33,6 +33,7 @@
 - [Madhur Vashistha](https://github.com/Madhur215)
 - [Adithya Nayak] (https://github.com/beltmankelo)
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
+- [Wingky Faisal] (https://github.com/macwink)
 - [Jeffrey Chow] (https://github.com/chow1340)
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [AlvaroVM](https://github.com/vmalvaro)
