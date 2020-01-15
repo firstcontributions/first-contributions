@@ -15,6 +15,7 @@
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Hannes Kinnunen](https://github.com/Steellow)
 - [Nouamane Tazi]
+- [Tyler Sanbar] (https://github.com/tylersanbar)
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
