@@ -999,6 +999,7 @@ Joseph Tran
 - [Pilot143](https://github.com/pilot143)
 - [Anthony Vo](https://github.com/anthony-vo)
 - [Pravallika Kura](https://github.com/PravallikaKura)
+- [F0Xde](https://github.com/F0Xde)
 - [Praveen Honavar](https://github.com/PD606)
 - [James Drysdale](https://github.com/JamesDrysdale)
 - [Ashish Dukare](https://github.com/ashishdukare)
