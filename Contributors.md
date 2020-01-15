@@ -19573,6 +19573,7 @@ rehan
 - [Rahmad Subakti](https://github.com/rahmadsubakti)
 - [Shubham Bose] - I'm right here folks
 - [Ariel Lasry](https://github.com/lasryariel/)
+- [Dan Eder](https://github.com/dfe325)
 - [PJDunand]
 - [Derwin Wu]
 - [Jeff Perkinson] (https://jperk224.github.io/)
