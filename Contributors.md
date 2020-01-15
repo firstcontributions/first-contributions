@@ -1287,6 +1287,7 @@ notForProffitt
 - [Jayvic San Antonio](https://github.com/jpsanantonio)
 - [Silviu-Constantin Anton](https://github.com/SilviuCAnton)
 - [Mark Rutherford](https://github.com/porknbeansnz)
+- [Eric Falchier](https://github.com/eric38383)
 - [P4ul](https://github.com/P4ul-J)
 - [Slient](https://github.com/Zison-Yung)
 - [Parth Panchal](https://github.com/parthpanchal123)
