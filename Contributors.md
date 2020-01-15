@@ -11358,6 +11358,7 @@ macdara-dev
 - [Michal Danco](https://github.com/devdanco)
 - [venkyvb](https://github.com/venkyvb)
 - [n3u3w3lt](https://github.com/n3u3w3lt)
+- [Christopher Haddox](https://github.com/cmhaddox)
 - Himanshu
 - [Justin Juno](https://github.com/junocodes)
 - [Peter Turner](https://github.com/Syntax753)
