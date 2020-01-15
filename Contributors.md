@@ -19593,5 +19593,5 @@ rehan
 - [LucaRossi77](https://github.com/LucaRossi77)
 - [DM]
 - [cloudXA](https://cloudXA)
--[Tyler Noble](https://NobleTyler.github.io)
--[John Carlo Gutierrez](https://github.com/MarcelloCarlo)
+- [Tyler Noble](https://NobleTyler.github.io)
+- [John Carlo Gutierrez](https://github.com/MarcelloCarlo)
