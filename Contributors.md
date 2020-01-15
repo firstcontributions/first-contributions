@@ -52,6 +52,7 @@
 - [Shigeto Jeng]
     [Steve Mullins] (https://github.com/sgmullins)
   [Evelyn Chang]
+- [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
 - Jason Cozzitorto
   [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
