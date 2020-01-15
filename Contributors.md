@@ -9,6 +9,7 @@
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - Wilson Horrell 
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
+- [Debopriyo Majumder](https://github.com/guddu75)
 - [Bear Kruz](https://github.com/bearkruz)
 - [Asrori](https://github.com/Asrori)
 - [Brad Singleton](https://github.com/bradjsingleton)
