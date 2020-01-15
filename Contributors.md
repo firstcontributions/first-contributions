@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Harrison Corupe (https://github.com/Hcorupe)
@@ -19593,3 +19593,4 @@ rehan
 - [LucaRossi77](https://github.com/LucaRossi77)
 - [DM]
 - [cloudXA](https://cloudXA)
+-[Tyler Noble](https://NobleTyler.github.io)
