@@ -15,6 +15,7 @@
   [Evelyn Chang]
 - Jason Cozzitorto
 -[Rashik Adhikari] (https://github.com/rashik06)
+-[Pranjal Walia] (https://github.com/masterchief01)
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
 - [Stanley Chu] (https://github.com/YBSker)
