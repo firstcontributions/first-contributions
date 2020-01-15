@@ -495,6 +495,7 @@
 - [Hyrum "Mad Dog" Butler](https://github.com/Brazenbillygoat)
 - [Dipanjan Ghosh](https://github.com/Dipanjan9)
 - [Jerwin Ivan Fernandez](https://github.com/WannaBeProgrammer22)
+- [David Matthews Jr.](https://github.com/davidwm2)
 - [Saitama](https://github.com/saitama-op)
 - [Amy Gonzales](https://github.com/amylearnscode)
 - [Brandi Cotton](https://github.com/bcotton52/)
