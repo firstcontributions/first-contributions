@@ -20,6 +20,7 @@
 - [Nouamane Tazi]
 - [Tyler Sanbar] (https://github.com/tylersanbar)
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
+- [Ryan Talbot](https://github.com/ryanjtalbot)
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
