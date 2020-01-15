@@ -10,6 +10,7 @@
 - Hrishikesh Shinde [https://github.com/Oathbreaker20] 
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
+- [Chakib Atmane] (https://github.com/chak-eeb)
 - Maryam Nawaz (https://github.com/mjemnawaz)
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
