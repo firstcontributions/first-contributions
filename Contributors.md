@@ -6,6 +6,7 @@
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
 - Shivam Sharma [https://github.com/shivam0311]
+- Hrishikesh Shinde [https://github.com/Oathbreaker20] 
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
 - Maryam Nawaz (https://github.com/mjemnawaz)
