@@ -25,6 +25,7 @@
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Ryan Talbot](https://github.com/ryanjtalbot)
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
+- [Cyrus Rohail] (https://github.com/Abe101)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
 - [Emir Zivcic] (https://github.com/EEmZZ)
