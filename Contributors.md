@@ -13757,6 +13757,7 @@ macdara-dev
 - [Andrew Chau](https://github.com/a4chau)
 - [SurenSN](https://github.com/SurenSN)
 - [Zachariah Garcia](https://github.com/zachacaria)
+- [Andreas Rimmelspacher](https://github.com/AndreasInfo)
 - [Jesus Redondo](https://github.com/JSRound)
 - [Otazz](https://github.com/Otazz)
 - [Malcolm Kee](https://github.com/malcolm-kee)
