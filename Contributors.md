@@ -49,8 +49,8 @@
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Marzia Bruno] (https://github.com/mmcbruno)
--  Cheeki Breeki
-[Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
+- [Cheeki Breeki]
+- [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
 - [Siyan Shaikh] (https://github.com/siyans56)
@@ -418,8 +418,7 @@
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-- 
-[Soomin](https://github.com/soominl)
+- [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
 - [Mohit](https://github.com/newbiemohit)
