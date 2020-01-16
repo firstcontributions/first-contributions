@@ -2,6 +2,7 @@
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
+- Adean Colon (https://github.com/AdeanColon)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
