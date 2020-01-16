@@ -1479,6 +1479,7 @@ notForProffitt
 - [Siddhant Mehta]
 - [Emanuele Palermo](https://github.com/epalermo92)
 - [Jurie Spies]
+- [Ziyi Liu](https://github.com/ziiiliu)
 - [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe](https://github.com/marthasharpe)
 - [Syed Modassir Ali](https://github.com/gr33nm0nk2802)
