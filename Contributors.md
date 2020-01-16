@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
@@ -19604,6 +19604,7 @@ rehan
 - [Anssi Herranen](https://github.com/relicode)
 - [Sahil Rajput] (https://github.com/sahilrajput2223)
 - [Doanobu 14](https://github.com/doanobu14)
+- [Vladislav Zamesin] (https://github.com/vladonslv)
 - [Arvis Up](https://github.com/ArvisUp)
 - [Matt985](https://github.com/matt985)
 - [LucaRossi77](https://github.com/LucaRossi77)
