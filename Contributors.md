@@ -29,6 +29,7 @@
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
+- [Joseph Mpo Yeti](https://github.com/joseph-mpo-yeti)
 - [Johnny Hane] (https://github.com/katangafor)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
 - [Hariom Singh] (https://github.com/hariom454)
