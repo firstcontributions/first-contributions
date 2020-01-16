@@ -19620,4 +19620,5 @@ rehan
 - [FarinHeit](https://github.com/FarinHeiT)
 - [Lauren Shareshian](https://github.com/laurenshareshian)
 - [Marsel Gray](https://github.com/marselgray)
+- [Sophie Zhao](https://github.com/sophsoph321)
 - [King Elisha](https://github.com/elishaking)
