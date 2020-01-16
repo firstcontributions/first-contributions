@@ -12,6 +12,7 @@
 - [Vatsala Jha]
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Amanda Taylor] (https://github.com/ataylor)
+- [Christophe Meyering] (https://github.com/ChrisMeyering)
 - Maryam Nawaz (https://github.com/mjemnawaz)
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
