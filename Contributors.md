@@ -153,6 +153,7 @@
 - [Shahin Katebi](https://github.com/shaahin)
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
+- [Iraz Irfan] (https://github.com/irazirfan)
 - [Siddharth Sen](https://github.com/siddharth952)
 - [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
