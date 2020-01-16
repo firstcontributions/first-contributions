@@ -418,7 +418,8 @@
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-- [Soomin](https://github.com/soominl)
+- 
+[Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
 - [Mohit](https://github.com/newbiemohit)
@@ -8997,6 +8998,7 @@ Aman Panjwani
 - [Vincent Tern](https://github.com/vincenttern)
 - [Oliver Wilkins](https://github.com/HomelessSandwich)
 - [Preeti Mukherjee](https://github.com/preeti98)
+- [Stephen Charbonneau] (https://github.com/istareatscreens)
 - [Yashashwee Chakrabarty](https://github.com/Yashashwee)
 - [Stephen Bowers](https://github.com/stephenbowers)
 - [Eduardo Yutaka Nakanishi](https://github.com/eduardoyutaka)
