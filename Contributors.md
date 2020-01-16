@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
@@ -19624,3 +19624,4 @@ rehan
 - [Marsel Gray](https://github.com/marselgray)
 - [Sophie Zhao](https://github.com/sophsoph321)
 - [King Elisha](https://github.com/elishaking)
+- [SkowroDamian](https://github.com/SkowroDamian)
