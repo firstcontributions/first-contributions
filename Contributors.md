@@ -47,6 +47,7 @@
 - [Faith Isaac] (https://github.com/frisaac)
 - [Madhur Vashistha](https://github.com/Madhur215)
 - [Adithya Nayak] (https://github.com/beltmankelo)
+- [Paul Brady] (https:/github.com/bradypp)
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
 - [Wingky Faisal] (https://github.com/macwink)
 - [Jeffrey Chow] (https://github.com/chow1340)
