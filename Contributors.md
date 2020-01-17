@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Minuth Prom (https://github.com/minuth)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Bob Yu (https://github.com/magicprogram1234)
@@ -6737,6 +6737,7 @@ Aman Panjwani
 - [Ivan Ivanov - Bolzano](https://github.com/ivivanov18)
 - [Tiffany F](https://github.com/tifffai)
 - [Somesh rf](https://github.com/someshrf)
+- [Rodrigo Martins](https://github.com/rodrigo-r-martins)
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
