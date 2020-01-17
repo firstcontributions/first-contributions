@@ -9473,6 +9473,7 @@ Aman Panjwani
 - [Reyes Cheng](https://github.com/machiko)
 - [Stan Koropchan](https://github.com/koropchan)
 - [Svetozar Korytiak](https://github.com/korytiak)
+- [Pedro Maldonado](https://github.com/wp4nuv)
 - [Ariz Zubair](https://github.com/arizzubair)
 - [Brett Davis](https://github.com/saintbernie)
 - [Benjamin Kuschner](https://github.com/bkuschner)
