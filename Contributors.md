@@ -15,7 +15,7 @@
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Ritul Jain] (https://github.com/ritul120)
-- [Jason Xie] 
+- [Jason Xie]
 - [Vatsala Jha]
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
@@ -38,6 +38,7 @@
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
+- [Azalea Vaseghi] (https://github.com/avaseghi)
 - [Joseph Mpo Yeti](https://github.com/joseph-mpo-yeti)
 - [Johnny Hane] (https://github.com/katangafor)
 - [Michael Matos Baez] (https://github.com/eatyourabstractions)
