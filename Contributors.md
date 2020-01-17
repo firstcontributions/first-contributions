@@ -10,6 +10,7 @@
 - Kevin Joseph (https://github.com/devilsangel)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
+- Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Vatsala Jha]
