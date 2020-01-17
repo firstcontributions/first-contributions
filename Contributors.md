@@ -5326,6 +5326,7 @@ Noam Taub
 - [Shane Bailey](https://github.com/dshaneb)
 - [Anastas Radosavljevic](https://github.com/anastasrado)
 - [Hamed Diakite](https://github.com/hdkid7/)
+- [Paul Adu-Gyamfi](https://github.com/PaulAduGyamfi)
 - [Vladimir Tretyak](https://github.com/tretyakvl);
 - [Leon Liang](https://github.com/leonliang0395)
 - [Christian Parraga](https://github.com/chispofish)
