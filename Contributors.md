@@ -11226,6 +11226,7 @@ macdara-dev
 - [HemeraOne](https://github.com/HemeraOne)
 - [ajborka](https://www.github.com/ajborka)
 - [Dorrito](https://github.com/DORRITO)
+- [shashidharreddy dakuri](https://github.com/shashidharreddydakuri)
 - [Vitaly Fiks](https://github.com/VitalyFiks)
 - [Ajay Kumar Jogawath](https://github.com/akjogawath)
 - [devsur](https://github.com/devsur)
