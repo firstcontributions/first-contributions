@@ -7,7 +7,7 @@
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
 - Shivam Sharma [https://github.com/shivam0311]
-- Hrishikesh Shinde [https://github.com/Oathbreaker20] 
+- Hrishikesh Shinde [https://github.com/Oathbreaker20]
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
 - [Chakib Atmane] (https://github.com/chak-eeb)
@@ -56,6 +56,7 @@
   [Lucas Eduardo]
   [dave Ramirez Bombastic]
   [Jonathan Ayers] (https://github.com/jfayerz)
+  [Akhilesh Sirohi] (https://github.com/Akhilesh-Cyber)
   [Matthieu Stockbauer]
 - [Shigeto Jeng]
     [Steve Mullins] (https://github.com/sgmullins)
