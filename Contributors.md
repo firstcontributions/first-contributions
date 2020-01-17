@@ -122,6 +122,7 @@
 - [Md Golam Rahman Tushar](https://github.com/grtushar)
 - [Victor F](https://github.com/Vicfs)
 - [Bibin Alex](https://github.com/bibinca1975)
+- [Titus Davis](https://github.com/EnigmaticGiant)
 - [Aahel Guha](https://github.com/aahel)
 - [Barry Henry](https://github.com/BarryHenryJr)
 - [Zunaib](https://github.com/Zunaib)
