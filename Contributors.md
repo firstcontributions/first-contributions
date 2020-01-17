@@ -13,6 +13,7 @@
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Jared Blumer] (https://github.com/jaredblumer)
+- [Ritul Jain] (https://github.com/ritul120)
 - [Vatsala Jha]
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Amanda Taylor] (https://github.com/ataylor)
