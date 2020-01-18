@@ -435,6 +435,7 @@
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
+<<<<<<< HEAD
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -718,7 +719,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Mohit Singh](https://github.com/mohitsingh999)
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
-- [Iraz Irfan] (https://github.com/irazirfan)
+- [Iraz Irfan](https://github.com/irazirfan)
 - [Siddharth Sen](https://github.com/siddharth952)
 - [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
