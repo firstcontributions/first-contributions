@@ -11,7 +11,6 @@
 - Kevin Joseph (https://github.com/devilsangel)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
-- Andy Trinh (https://github.com/andyttrinh)
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Jared Blumer] (https://github.com/jaredblumer)
@@ -67,6 +66,7 @@
 - [Siyan Shaikh] (https://github.com/siyans56)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
+  [Andy Trinh] (https://github.com/andyttrinh)
   [dave Ramirez Bombastic]
   [Jonathan Ayers] (https://github.com/jfayerz)
   [Akhilesh Sirohi] (https://github.com/Akhilesh-Cyber)
