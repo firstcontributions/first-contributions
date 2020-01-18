@@ -55,6 +55,7 @@
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Trisha Gupta]
+- [Andy Trinh] (https://github.com/andyttrinh)
 - [Steve Ahlswede] (https://github.com/SevenFoldDeep)
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
@@ -66,7 +67,6 @@
 - [Siyan Shaikh] (https://github.com/siyans56)
 - [Abinaya Mahendiran] (https://github.com/abinayam)
   [Lucas Eduardo]
-  [Andy Trinh] (https://github.com/andyttrinh)
   [dave Ramirez Bombastic]
   [Jonathan Ayers] (https://github.com/jfayerz)
   [Akhilesh Sirohi] (https://github.com/Akhilesh-Cyber)
