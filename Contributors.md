@@ -18,6 +18,7 @@
 - [Ritul Jain] (https://github.com/ritul120)
 - [Jason Xie]
 - [Vatsala Jha]
+- {Shrusty Singh}
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Amanda Taylor] (https://github.com/ataylor)
