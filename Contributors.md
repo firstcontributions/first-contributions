@@ -5,6 +5,7 @@
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Piyush Aggarwal] (https://github.com/piyush5807)
 - [tannedthighs]
+- [Iraz Irfan](https://github.com/irazirfan)
 - [Gavin OLeary]
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Mudasir Issah] (https://github.com/danladi123)
@@ -153,7 +154,6 @@
 - [Shahin Katebi](https://github.com/shaahin)
 - [Yash](https://github.com/YashAgrawal048)
 - [David Criado](https://github.com/xKuZz)
-- [Iraz Irfan] (https://github.com/irazirfan)
 - [Siddharth Sen](https://github.com/siddharth952)
 - [Baroch D.](https://github.com/barosch47/)
 - [Anthony Chou](https://github.com/pycrusher)
