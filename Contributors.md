@@ -3396,6 +3396,7 @@ Stephan Sharpe
 - [Camelicax](https://github.com/camelicax)
 - [Kristian Umlauf](https://github.com/greenje11o)
 - [Lavender Ding](https://github.com/Lavender-Ding)
+  [aed22] (https://github.com/aed22)
 - [tkez](https://github.com/tkez)
 - [Jei](https://github.com/Jae-kwang)
 - [Hendra Polover](https://github.com/hdpolover)
