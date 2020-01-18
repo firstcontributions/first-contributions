@@ -13,6 +13,7 @@
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
+- [Max Robinson] (https://github.com/MaxamillianRN)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Ritul Jain] (https://github.com/ritul120)
 - [Jason Xie]
