@@ -140,6 +140,7 @@
 - [Warmbreeze](https://github.com/warmbreeze)
 - [Klajdi Bodurri](https://github.com/kbodurri)
 - [Pulkit Mehta](https://github.com/pulkitmehtawork)
+- [omesb](https://omesb.github.io)
 - [Dan_b](https://github.com/DanBasson/first-contributions)
 - [Ben](https://github.com/zerler)
 - [Akhil Singh](https://github.com/HumbleBustler)
