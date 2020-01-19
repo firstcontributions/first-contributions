@@ -41,6 +41,7 @@
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
 - [Emir Zivcic] (https://github.com/EEmZZ)
+- [Sahil Siddiq] (aka Valdaarhun)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
 - [Azalea Vaseghi] (https://github.com/avaseghi)
