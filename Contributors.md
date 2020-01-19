@@ -100,6 +100,7 @@
 - Alper Battal
 - Adnan Ashraf
 - Wilson Horrell
+- David Lui
 - Michael Fernez (https://github.com/mjfernez)
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Ezra Muskat] (https://github.com/ezramuskat)
