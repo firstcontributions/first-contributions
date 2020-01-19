@@ -12301,6 +12301,7 @@ macdara-dev
 - [Mikel Tejero](https://github.com/teje87)
 - [Dave Regg](https://github.com/drregg6)
 - [Agitaev Seid Akhmed](https://github.com/agitaev)
+- [Hemant Kumar](https://github.com/hkbiet)
 - [Michael Dimitras](https://github.com/michaeldimitras)
 - [Ron Montero](https://github.com/rhmdev)
 - [ZoomStop](https://github.com/ZoomStop)
