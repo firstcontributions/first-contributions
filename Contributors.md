@@ -560,6 +560,7 @@
 - [EvilTrtl]
 - [Sandro Sp]
 - [Jessica Santos]
+- [Alex Petrescu](https://github.com/alexpetrescu)
 - [Lyncoln Mauricio](https://github.com/lyncolnms)
 - [Alyne Mascareli](https://github.com/alynemascareli)
 - [fcbayernxi]
