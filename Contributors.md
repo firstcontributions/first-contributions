@@ -17,6 +17,7 @@
 - [Max Robinson] (https://github.com/MaxamillianRN)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Ritul Jain] (https://github.com/ritul120)
+- [Chirag Tutlani] (https://github.com/Chirag161198)
 - [Isaac Velasquez] (https://github.com/notemaster)
 - [Jason Xie]
 - [Vatsala Jha]
