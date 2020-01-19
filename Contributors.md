@@ -19662,4 +19662,5 @@ rehan
 - snipes400
 - [John Jeco Villanueva](https://github.com/johnjecov)
 - [Denis Onder](https://github.com/denis-onder)
+- [Jesse Hoang](https://github.com/jlhoang)
 - [Thaufeki](https://github.com/thaufeki)
