@@ -374,6 +374,7 @@
 - [Matias Kachuk](https://github.com/Kachuk/)
 - [Manish Kumar](https://github.com/Max143)
 - [Al Muntrasir abir](https://github.com/amabirbd)
+- Fel
 - [Olivia Davis](https://github.com/oliviadavis593)
 - [Camilo Recce](https://github.com/oxyz2G)
 - [Rachel Harvill](https://github.com/rsharvill)
