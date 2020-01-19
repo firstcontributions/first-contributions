@@ -59,6 +59,7 @@
 - [Erin](https://github.com/erniekins)
 - [D-Tara](https://github.com/d-tara)
 - [Roberto Nicolás Savinelli](https://github.com/rnsavinelli)
+- [Chukuka Nicholas Ogude](https://github.com/CollyNyxOleum)
 - [Shamin Asfaq](https://github.com/ShaminAsfaq)
 - [Tenzin Ngawang](https://github.com/Tenzin1010)
 - [Paras Tripathi](https://github.com/parastripathi)
