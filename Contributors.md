@@ -22,6 +22,7 @@
 - [Jason Xie]
 - [Vatsala Jha]
 - {Shrusty Singh}
+- [Khalid Shaikh] (https://github.com/mkhalid-s)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Amanda Taylor] (https://github.com/ataylor)
