@@ -2,6 +2,7 @@
 - Minuth Prom (https://github.com/minuth)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
+- Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
