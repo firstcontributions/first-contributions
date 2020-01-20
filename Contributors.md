@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Minuth Prom (https://github.com/minuth)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
@@ -8925,6 +8925,7 @@ Aman Panjwani
 - [Jessé Souza](https://github.com/jessesouza21)
 - [Patrick Pelayo](https://github.com/ppelayo1)
 - [Lionel Ortega](https://github.com/busonlineyes)
+- [Jayson Lorenzen](https://github.com/jaysonlorenzen)
 - [Arun Kumar Arunachalam](https://github.com/aak211th)
 - [Hirak Adhvaryu](https://github.com/somebodyanybody)
 - [Henry Scheible](https://github.com/bubsy2103h)
