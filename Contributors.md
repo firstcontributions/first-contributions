@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Minuth Prom (https://github.com/minuth)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
@@ -21,6 +21,7 @@
 - [Ritul Jain] (https://github.com/ritul120)
 - [Chirag Tutlani] (https://github.com/Chirag161198)
 - [Isaac Velasquez] (https://github.com/notemaster)
+- [Levi Cavalcante](https://github.com/ivelevi)
 - [Jason Xie]
 - [Vatsala Jha]
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
