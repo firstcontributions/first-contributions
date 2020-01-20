@@ -111,6 +111,7 @@
 - Wilson Horrell
 - David Lui
 - Marc Fitzgerald
+- Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Ezra Muskat] (https://github.com/ezramuskat)
