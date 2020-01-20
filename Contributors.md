@@ -19412,6 +19412,7 @@ rehan
 - [Andrew Adiletta](https://github.com/andrewadiletta)
 - Carina Vargas
 - Charles Galdin
+-[lonelyyy](https://github.com/lone1yyy)
 - [Aryan Kukreja](https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen](https://github.com/melanki)
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
