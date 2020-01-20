@@ -11532,6 +11532,7 @@ macdara-dev
 - [Shubham Sachdeva](https://github.com/shubhamsachdeva)
 - [Oikonomou Evangelos](https://github.com/DeadlyFrame))
 - [Josh Coles](https://github.com/joshcoles)
+- [Michael Li](https://github.com/Michaelli26)
 - [Tim Sweeney](http://github.com/sweeneyt)
 - [Shawn Spears](http://github.com/shawnspears)
 - [Vivek Raj](http://github.com/vivekrajx)
