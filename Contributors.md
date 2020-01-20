@@ -38,6 +38,7 @@
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Hannes Kinnunen](https://github.com/Steellow)
 - [Nouamane Tazi]
+- [Sashidhar Kanuboddi](https://github.com/sashi2295)
 - [Tyler Sanbar] (https://github.com/tylersanbar)
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Ryan Talbot](https://github.com/ryanjtalbot)
