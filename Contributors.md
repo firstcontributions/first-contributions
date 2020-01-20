@@ -4,6 +4,7 @@
 - Reuben G Day (https://github.com/theReuben)
 - Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
+- Paul Dill (https://github.com/Dillweed5446)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Adean Colon (https://github.com/AdeanColon)
