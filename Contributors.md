@@ -21,6 +21,7 @@
 - [Isaac Velasquez] (https://github.com/notemaster)
 - [Jason Xie]
 - [Vatsala Jha]
+- [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
 - [Khalid Shaikh] (https://github.com/mkhalid-s)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
