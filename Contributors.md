@@ -21,6 +21,7 @@
 - [Ritul Jain] (https://github.com/ritul120)
 - [Chirag Tutlani] (https://github.com/Chirag161198)
 - [Isaac Velasquez] (https://github.com/notemaster)
+- [David Holt](https://github.com/dholtdev)
 - [Levi Cavalcante](https://github.com/ivelevi)
 - [Jason Xie]
 - [Vatsala Jha]
