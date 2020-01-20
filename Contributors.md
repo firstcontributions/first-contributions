@@ -26,6 +26,7 @@
 - [Levi Cavalcante](https://github.com/ivelevi)
 - [Jason Xie]
 - [Vatsala Jha]
+- [Maria Fernandez] (https://github.com/mariahfernnn)
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
