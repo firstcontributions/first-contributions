@@ -17,6 +17,7 @@
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
 - [Nikoleta Koleva] (https://github.com/ibexiae)
+- Sahil Patel (https://github.com/sahilpatel18)
 - [Max Robinson] (https://github.com/MaxamillianRN)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Ritul Jain] (https://github.com/ritul120)
@@ -1521,7 +1522,7 @@ notForProffitt
 - [Siddhant Mehta]
 - [Emanuele Palermo](https://github.com/epalermo92)
 - [Jurie Spies]
-- [Fabrizio Pomata](https://github.com/Fapo92) 
+- [Fabrizio Pomata](https://github.com/Fapo92)
 - [Ziyi Liu](https://github.com/ziiiliu)
 - [Nathaniel Adams](https://github.com/astroboogie)
 - [Martha Sharpe](https://github.com/marthasharpe)
