@@ -19654,6 +19654,7 @@ rehan
 - [Shubham Bose] - I'm right here folks
 - [Ariel Lasry](https://github.com/lasryariel/)
 - [Dan Eder](https://github.com/dfe325)
+- [Karne] - This is a great repository.
 - [PJDunand]
 - [Derwin Wu]
 - [Jeff Perkinson] (https://jperk224.github.io/)
