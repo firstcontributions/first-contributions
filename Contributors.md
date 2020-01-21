@@ -462,7 +462,6 @@
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-<<<<<<< HEAD
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -2258,6 +2257,7 @@ Haris Siddiqui
 - Artem Yacenko
 - Calum O'Donoghue
 - [Karunam Goyal](https://github.com/karunamgoyal)
+- Seebiscuts
 - [Jack Driscoll](https://github.com/jdriscoll98)
 - [Masoud Bolhassani](https://github.com/msoodb)
 - Randil Tennakoon (https://github.com/randiltennakoon)
