@@ -184,6 +184,7 @@
 - [Olivier]
 - [Salvador-Cuevas](https://github.com/Jeroo)
 - Angelica
+- [Harshita Kalsi](https://github.com/harshitakalsi5)
 - [Emir](https://github.com/EmirVatric)
 - [Erin](https://github.com/erniekins)
 - [D-Tara](https://github.com/d-tara)
