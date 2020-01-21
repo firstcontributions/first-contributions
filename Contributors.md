@@ -39,6 +39,7 @@
 - [Amanda Taylor] (https://github.com/ataylor)
 - [Christophe Meyering] (https://github.com/ChrisMeyering)
 - Maryam Nawaz (https://github.com/mjemnawaz)
+- Jason Riggs (https://github.com/riggja)
 - [Alan Constantino](https://github.com/AlanConstantino)
 - [Casey McLellan] (https://github.com/cdmclellan7)
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
