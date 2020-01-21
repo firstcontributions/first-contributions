@@ -7883,6 +7883,7 @@ Aman Panjwani
 - Pankaj Khemani
 - [Abay](https://github.com/abaykan)
 - [c-kirkeby](https://github.com/c-kirkeby)
+- [Noah Johnson](http://github.com/jnoahjohnson)
 - [Jonathan Brooks](https://github.com/blauks)
 - Andrea Catania
 - [Ayoub Ghaninou](https://github.com/Ayoubghaninou)
