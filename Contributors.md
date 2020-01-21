@@ -276,6 +276,7 @@
 - [Tomasz Holeksa](https://github.com/TomaszHol)
 - [Gregory El Bajoury](https://github.com/Injechta)
 - [David Rowan](https://github.com/rowanD72)
+- [Archer Fabling](https://github.com/Archie4575)
 - [Ahmed Zahran]
 - [Tony Anzalone]
 - [Heath Robinson](https://github.com/heathexer)
