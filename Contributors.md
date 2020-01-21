@@ -13696,6 +13696,7 @@ macdara-dev
 - [Jo P.](https://github.com/jomustech)
 - [Gerardo Alcantara](https://github.com/GeraAlcantara)
 - [Harish Venkatesan](https://github.com/harishv7)
+- [Edward Cabanatan](https://github.com/edzedez)
 - [Ahmed AlAskalany](https://github.com/AlAskalany)
 - [Noah Sragow](https://github.com/nsragow)
 - [Sushrut Hajirnis](https://github.com/sushruthajirnis)
