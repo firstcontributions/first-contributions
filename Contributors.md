@@ -33,6 +33,7 @@
 - [Jason Xie]
 - [Vatsala Jha]
 - [Maria Fernandez] (https://github.com/mariahfernnn)
+- [Anthony Le](https://github.com/hauscloud)
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
