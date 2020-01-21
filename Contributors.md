@@ -5,6 +5,7 @@
 - Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Paul Dill (https://github.com/Dillweed5446)
+- Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Adean Colon (https://github.com/AdeanColon)
