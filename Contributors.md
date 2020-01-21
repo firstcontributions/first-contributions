@@ -119,6 +119,7 @@
 - Adnan Ashraf
 - Wilson Horrell
 - David Lui
+- Catherine Thomsen
 - Marc Fitzgerald
 - Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
