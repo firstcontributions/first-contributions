@@ -19693,3 +19693,5 @@ rehan
 - [socraticdev](https://github.com/socraticDevBlog/)
 - [MF]
 - [Timur Abasov](https://github.com/Abas-Tim)
+- [Nick Morin] (https://github.com/nick97eagles)
+
