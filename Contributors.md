@@ -7083,6 +7083,7 @@ Aman Panjwani
 - [Sorokin Ruslan](https://github.com/PufonBarn)
 - [Samuel Funston](https://github.com/sfunston)
 - [VK](https://github.com/venkat-kaniti)
+- [Evgenii Klepilin](https://github.com/EvgeniiKlepilin)
 - [Evgeny Kasian](https://github.com/ievgenk)
 - [Ethan Roberts Snitchezzz](https://github.com/eth12)
 - [Patrick Schemering](https://github.com/pschemer)
