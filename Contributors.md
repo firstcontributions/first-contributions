@@ -8710,6 +8710,7 @@ Aman Panjwani
 - [Sankarganesh Gandhi](https://github.com/sankarganeshgandhi)
 - [Ashkar Yoosuf](https://github.com/ashkar-yoosuf)
 - [Jake Palmer](https://github.com/palmer1842)
+- [Gilberto Vento](https://github.com/gilbva)
 - [Josh M](https://github.com/joshuarmil)
 - [Manish Kumar Jagnani](https://github.com/Jaggu-123)
 - [Vinicius Vaz](https://github.com/VinVaz)
