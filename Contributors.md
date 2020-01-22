@@ -4,6 +4,7 @@
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
 - Coco Lin (https://github.com/cocolin041)
+- Vitor Rigolon (https://github.com/vrigolon)
 - Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Paul Dill (https://github.com/Dillweed5446)
