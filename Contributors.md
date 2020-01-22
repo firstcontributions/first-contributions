@@ -2942,6 +2942,7 @@ Stephan Sharpe
 - [Luis Velasquez](https://github.com/HolaSoyLuis)
 - [Harith Sankalpa](https://github.com/harith96)
 - [blueblackberry](https://github.com/blueblackberry)
+- [Marco Dizo](https://github.com/mdizo)
 - [Archie Lewis](https://github.com/acl76)
 - [Sahil](https://github.com/itachiuchiha97)
 - [Arshitha Basavaraj](https://github.com/Arshitha)
