@@ -11,6 +11,7 @@
 - Bob Yu (https://github.com/magicprogram1234)
 - Dan Singletary (https://github.com/dvsingletary)
 - Adean Colon (https://github.com/AdeanColon)
+- Floyd Askew (https://github.com/MrAskew)
 - Anshuman Kataria (https://github.com/AnshumanKataria)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
