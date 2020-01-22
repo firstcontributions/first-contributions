@@ -38,6 +38,7 @@
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
+- Sangharsh Seth (https://github.com/SangharshSeth)
 - [Khalid Shaikh] (https://github.com/mkhalid-s)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
