@@ -326,6 +326,7 @@
 - [Yoni Sisso](https://github.com/yonis9)
 - [Rushi Notaria]
 - [Lauren C]
+- [Tegaguru](https://github.com/tegaguru)
 - [Krystal A](https://github.com/KrysA2490)
 - [Deividas Rimkus](https://github.com/Lisviks)
 - [Chan Chan (aka csquare)](https://github.com/c5quare)
