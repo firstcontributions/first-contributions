@@ -6640,6 +6640,7 @@ Aman Panjwani
 - [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [David Langford Smith](https://github.com/StationaryDave)
+- Bartlomiej Sz
 - [Priyal Narang](https://github.com/PriyalNarang)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
