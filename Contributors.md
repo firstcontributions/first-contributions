@@ -7921,6 +7921,7 @@ Aman Panjwani
 - [Manthan Keim](https://github.com/ManthanKeim)
 - [Malsha](https://github.com/malshanishadini)
 - [Jose Garrido](https://github.com/josej30)
+- August Weinbren (https://github.com/augustweinbren)
 - [Achiv Chauhan](https://github.com/achiv)
 - [Neung](https://github.com/apirom9)
 - [W Y](https://github.com/WYCodeBook)
