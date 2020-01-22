@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Minuth Prom (https://github.com/minuth)
+- Brian Smith (https://github.com/LuosRestil)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
