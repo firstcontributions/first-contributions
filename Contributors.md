@@ -19,6 +19,7 @@
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
+- Floyd Askew (https://github.com/MrAskew)
 - Vivek Singh Bisht (https://github.com/Bviveksingh)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
