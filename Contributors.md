@@ -187,6 +187,7 @@
 - [Olivier]
 - [Salvador-Cuevas](https://github.com/Jeroo)
 - Angelica
+- [Brian Appleton](https://github.com/appleton6509)
 - [Harshita Kalsi](https://github.com/harshitakalsi5)
 - [Emir](https://github.com/EmirVatric)
 - [Erin](https://github.com/erniekins)
