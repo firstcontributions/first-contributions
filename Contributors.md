@@ -66,6 +66,7 @@
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
 - [Cyrus Rohail] (https://github.com/Abe101)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
+- [Ian Gallagher] (https://github.com/igallag)
 - [Deva Kumar] (https://github.com/devak997)
 - [Parker Downing] (https://github.com/parkerd21)
 - [Emir Zivcic] (https://github.com/EEmZZ)
