@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 - Mark Foster (https://github.com/markfoster314)
+- Punit Patel (https://github.com/punitpatel2601)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
 - Brian Smith (https://github.com/LuosRestil)
