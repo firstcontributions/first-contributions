@@ -1731,6 +1731,7 @@ Stephan Sharpe
 - [Chiranjeevi Tapal](https://github.com/chiranjeevitapal)
 - [Luis Haro](https://github.com/lharo)
 - [Maria Pettit](https://github.com/mnope)
+- [Jahnvi Gupta](http://github.com/jahnvigupta)
 - [Stefan Simeonov](https://github.com/riyusso)
 - [Alexis Bourdeau](https://github.com/alexisbourdeau)
 - [Ralph Sulit](https://github.com/ralphsulit)
