@@ -240,6 +240,7 @@
 - [Balaraman M](https://github.com/balaraman-08 "Balaraman's GitHub account")
 - [Alexander Kartalis](https://github.com/Over-Coded)
 - [Parinya Sanyai](https://github.com/parinya-s)
+- [Ivan Pangrazio] (https://github.com/ipangrazio)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
 - [Brian Liou] (https://github.com/iamsand)
 - [Vedant Shetty] (https://github.com/vedantshetty)
