@@ -8353,6 +8353,7 @@ Aman Panjwani
 - [Ishaan Malik](https://github.com/Ishaan28malik)
 - [Deth Tek](https://github.com/DethTek)
 - [Somit Mittal](https://github.com/somitmittal)
+- [Gustaf Holst](https://github.com/gustafholst)
 - [Andrew Hadden](https://github.com/ahadden09)
 - [Raghav Prasad](https://github.com/raghavprasad13)
 - [Miloš Medić](https://github.com/medicmilos)
