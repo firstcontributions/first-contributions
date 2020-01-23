@@ -1254,6 +1254,7 @@ Joseph Tran
 - [Ishita Bhatnagar](https://github.com/IshitaB08)
 - [**Yiorgos Yiannakoulias**](https://github.com/yiorgosynkl)
 - [Tuhin Roy](https://github.com/Troy96)
+- [Andre Morpa](https://github.com/Morpa)
 - [Kye Browning](https://github.com/kyebrowning)
 - [Jorden Vijayaratnam](https://github.com/JordenCI)
 - [Ben Cooper](https://github.com/MrGhostlyOrb)
