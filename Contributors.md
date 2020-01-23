@@ -135,6 +135,7 @@
 - David Lui
 - Catherine Thomsen
 - Marc Fitzgerald
+- madhm88
 - Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
 - [Sehyeong Lee] (https://github.com/lsh23)
