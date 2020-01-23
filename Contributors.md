@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Mark Foster (https://github.com/markfoster314)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
@@ -60,6 +60,7 @@
 - [Agbo Emmanuel] (https://github.com/Emmanuelagbo-4)
 - [Ahmad Shalabi](https://github.com/ahmadshalabi)
 - [Hannes Kinnunen](https://github.com/Steellow)
+- [Aaron Martin](https://github.com/amart201)
 - [Nouamane Tazi]
 - [Sashidhar Kanuboddi](https://github.com/sashi2295)
 - [Tyler Sanbar] (https://github.com/tylersanbar)
