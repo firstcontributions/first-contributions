@@ -4,6 +4,7 @@
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
+- Mahmoud Osman (https://github.com/mosman-dev)
 - Coco Lin (https://github.com/cocolin041)
 - Vitor Rigolon (https://github.com/vrigolon)
 - Paul Kang (https://github.com/pkang29)
