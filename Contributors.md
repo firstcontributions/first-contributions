@@ -7668,6 +7668,7 @@ Aman Panjwani
 - [Morne Zeelie](https://github.com/holla22)
 - [Piyush Aggarwal](https://github.com/piyushagru)
 - [Bhavuk Kalra](https://github.com/bhavukkalra)
+- [David Morton](https://github.com/davidmorton0)
 - [Dhyey B 04](https://github.com/dhyeyb04)
 - [Erin Bugbee](https://github.com/erinbugbee)
 - [Ashok Singh](https://github.com/XLAR-8)
