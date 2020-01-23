@@ -19,6 +19,7 @@
 - Adean Colon (https://github.com/AdeanColon)
 - Lucas Cyrne (https://github.com/lucascyrne)
 - Anshuman Kataria (https://github.com/AnshumanKataria)
+- Moshe Goldberg (https://github.com/moish82)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
