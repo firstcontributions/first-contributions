@@ -472,6 +472,7 @@
 - [Joy Kinsinger](https://github.com/jkinsinger)
 - [Lauren Boyd](https://github.com/lboyd93)
 - [Théo Bonnet](https://github.com/theo42500)
+- [xoak] (https://github.com/xoak)
 - [Aditya Mahapatra](https://github.com/adityamahapatra)
 - [Matt Thurling](https://github.com/MattThurling)
 - [Dawit Tirore](https://github.com/Tirore96)
