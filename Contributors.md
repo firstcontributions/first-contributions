@@ -88,6 +88,7 @@
 - [Shakil Alam] (https://github.com/itxshakiil)
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
+- [Christopher Saless] (https://github.com/cmsaless)
 - [Trisha Gupta]
 - [Andy Trinh] (https://github.com/andyttrinh)
 - [Steve Ahlswede] (https://github.com/SevenFoldDeep)
