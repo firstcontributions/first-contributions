@@ -118,6 +118,7 @@
 - [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
 - [Rashik Adhikari] (https://github.com/rashik06)
+- [Suyash Raj] (https://github.com/suyash-sneo)
 - [Amr Akmal]   (https://github.com/amroakmal)
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
