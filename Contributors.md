@@ -3577,6 +3577,7 @@ Noam Taub
 - [Marius Flouks](https://github.com/FlouksBerlin)
 - Karen Galvez (https://github.com/kygalvez)
 - [Chris Drury](https://github.com/crdrury)
+- [Vincent Tandya](https://github.com/VTifand)
 - [Eron Begiqi](https://github.com/eronbegiqi)
 - [Anirban Dey](https://github.com/anirbandey303)
 - [Martin Fernandez](https://github.com/RickyMartin98)
