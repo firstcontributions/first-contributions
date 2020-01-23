@@ -3007,6 +3007,7 @@ Stephan Sharpe
 - [Bill Wagner](https://github.com/billwagner3)
 - kurt Kobain
 - Pritt
+- [Dmitrii Bludov](https://github.com/Mitri45)
 - [Adam Green](https://github.com/CatByt)
 - [Aakash](https://github.com/saiaakash)
 - [John Braganza](https://github.com/Youth-Li)
