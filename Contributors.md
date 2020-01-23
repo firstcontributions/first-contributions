@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Mark Foster (https://github.com/markfoster314)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
@@ -12,6 +12,7 @@
 - Paul Kang (https://github.com/pkang29)
 - Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
+- Onel Hirmez (https://github.com/onel95)
 - Paul Dill (https://github.com/Dillweed5446)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
@@ -19746,3 +19747,4 @@ rehan
 - [Pranjal Dave](https://github.com/davePranjal)
 - [SMBITZ](https://github.com/smbitz)
 - [Faith Oyedemi](https://github.com/lere01)
+
