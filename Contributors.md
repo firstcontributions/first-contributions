@@ -1442,6 +1442,7 @@ notForProffitt
 - [Moises Zamora ](https://github.com/Moyalex)
 - [Sailesh Patra ](https://github.com/sailesh97)
 - [Isabela Correia](https://github.com/isacoper)
+- [Hemendra Singh Rajawat](https://github.com/hemendrarajawat)
 - [Tanmay Vij](https://github.com/tanmayvij)
 - [Quentin Roques](https://github.com/qroques)
 - [Brianna Degaston](https://github.com/briannadeg)
