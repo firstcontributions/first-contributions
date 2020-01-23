@@ -1,5 +1,6 @@
 ﻿# Contributors
--Ka Chingsubam (https://github.com/kachingsubam)
+- Mark Foster (https://github.com/markfoster314)
+- Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
 - Brian Smith (https://github.com/LuosRestil)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
