@@ -66,6 +66,7 @@
 - [Cyrus Rohail] (https://github.com/Abe101)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Deva Kumar] (https://github.com/devak997)
+- [Parker Downing] (https://github.com/parkerd21)
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Sahil Siddiq] (aka Valdaarhun)
 - [Edward Hwang] (https://github.com/edwardlhwang)
