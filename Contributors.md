@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Dax Patel (https://github.com/letapxad)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Ryuki Kuga (https://github.com/ryukikikie)
