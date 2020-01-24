@@ -4,6 +4,7 @@
 - Punit Patel (https://github.com/punitpatel2601)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
+- Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Yousef Murad(https://github.com/YousefMorad)
