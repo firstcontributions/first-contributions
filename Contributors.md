@@ -7007,6 +7007,7 @@ Aman Panjwani
 - [Howie Andersen](https://github.com/howieandersen)
 - [Arav Dave](https://github.com/aravdave)
 - [Kim](https://github.com/kimmeccsb)
+- [Alan Koger](https://github.com/adkoge)
 - [Kimbo](https://github.com/KimboTodd)
 - [Mohd Mushfique](https://github.com/mdmush)
 - [David Hawkes](https://github.com/cchawkesd)
