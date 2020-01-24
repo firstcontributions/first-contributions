@@ -16,6 +16,7 @@
 - Coco Lin (https://github.com/cocolin041)
 - Vitor Rigolon (https://github.com/vrigolon)
 - Paul Kang (https://github.com/pkang29)
+- Samyak Shreyash (https://github.com/SamyakHacker)
 - Balaji Soundararajan (https://github.com/soundarb)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Paul Dill (https://github.com/Dillweed5446)
