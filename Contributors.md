@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Mark Foster (https://github.com/markfoster314)
+- Ryuki Kuga (https://github.com/ryukikikie)
 - Punit Patel (https://github.com/punitpatel2601)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Minuth Prom (https://github.com/minuth)
