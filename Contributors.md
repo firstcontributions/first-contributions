@@ -3853,6 +3853,7 @@ Noam Taub
 - [Stacey Zander](https://github.com/slzander)
 - [Narlok3](https://github.com/Narlok3)
 - [Ming Yong](https://github.com/ming-yong)
+- [Gianfranco Nuschese](https://github.com/giagnus64)
 - [Csaba Barsony](https://github.com/cbarsony)
 - [Ziyang Li](https://github.com/paseaf)
 - [Christy Jacob](https://github.com/christyjacob4)
