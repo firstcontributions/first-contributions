@@ -14,6 +14,7 @@
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Coco Lin (https://github.com/cocolin041)
+- Patrick Hutt (https://github.com/pathutt)
 - Vitor Rigolon (https://github.com/vrigolon)
 - Paul Kang (https://github.com/pkang29)
 - Balaji Soundararajan (https://github.com/soundarb)
