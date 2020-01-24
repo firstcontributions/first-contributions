@@ -10,6 +10,7 @@
 - Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
+- Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
