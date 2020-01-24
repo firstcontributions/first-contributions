@@ -37,6 +37,7 @@
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - Sahil Patel (https://github.com/sahilpatel18)
 - [Travis Ricks](https://github.com/travisricks)
+- Yamini Rangarajan (https://github.com/YaminiRangarajan)
 - [Max Robinson] (https://github.com/MaxamillianRN)
 - [Jared Blumer] (https://github.com/jaredblumer)
 - [Ritul Jain] (https://github.com/ritul120)
