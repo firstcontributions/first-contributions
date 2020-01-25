@@ -24,6 +24,7 @@
 - Andrew O'Brien (https://github.com/alo9507)
 - Srikanth Kashyap Pulipaka (https://github.com/srikanthpulipaka)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
+- James Myers 
 - Paul Dill (https://github.com/Dillweed5446)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
