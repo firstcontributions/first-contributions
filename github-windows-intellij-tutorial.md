@@ -31,11 +31,11 @@ Most top-level GitHub repos (i.e. ones not forked from any other repo) have a sm
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
-The next step is to clone your repo down to your machine so you can begin making changes. VS Code needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
+The next step is to clone your repo down to your machine so you can begin making changes. IntelliJ IDEA needs the URL of your repo, so click the "clone" button and then click the "copy to clipboard" icon.
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up IntelliJ IDEA. The welcome page of VS Code will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
+Now open up IntelliJ IDEA. The welcome page of IntelliJ IDEA will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
 
 <img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
 
@@ -72,7 +72,7 @@ Copy one of the other contributors&apos; lines and modify it with your name to m
 
 ## Commit & Push changes to GitHub
 
-On the left side of VS Code is a menu with 5 icons displayed. Select the version control/Source Control icon.
+On the left side of IntelliJ IDEA is a menu with 5 icons displayed. Select the version control/Source Control icon.
 (Shortcut : Ctrl + Shift + G)
 
 <img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
