@@ -19,6 +19,7 @@
 - [Jonas Bak Phillipson]
 - [Nicholas Kelly]
 - [Juan Perez]
+- [Erik Strauss] (https://github.com/estrauss35)
 - [Harry Harrison] (https://github.com/HarryH-Tech)
 - [LVZ]
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
