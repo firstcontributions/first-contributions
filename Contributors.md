@@ -148,6 +148,7 @@
 - Alen
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
+- [Payton Jewell] (https://github.com/paytonjewell)
 -[Joshua Goossen] (https://github.com/Goosse)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Adithya TP] (https://github.com/adithya-tp)
