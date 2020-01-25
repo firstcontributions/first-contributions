@@ -203,6 +203,7 @@
 - [Titus Davis](https://github.com/EnigmaticGiant)
 - [Aahel Guha](https://github.com/aahel)
 - [Barry Henry](https://github.com/BarryHenryJr)
+- [petrus-vb](https://github.com/petrus-vb)
 - [Zunaib](https://github.com/Zunaib)
 - [Warmbreeze](https://github.com/warmbreeze)
 - [Klajdi Bodurri](https://github.com/kbodurri)
