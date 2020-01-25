@@ -57,6 +57,7 @@
 - [Howard Wang] (https://github.com/HowardWang0915)
 - [David Holt](https://github.com/dholtdev)
 - [Levi Cavalcante](https://github.com/ivelevi)
+- [Ron Huberfeld](https://github.com/ron-huberfeld)
 - [Jason Xie]
 - [Vatsala Jha]
 - [Maria Fernandez] (https://github.com/mariahfernnn)
