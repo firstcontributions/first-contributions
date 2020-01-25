@@ -3,6 +3,7 @@
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Ryuki Kuga (https://github.com/ryukikikie)
+- Dan Piazza (https://github.com/DanielJPiazza)
 - Punit Patel (https://github.com/punitpatel2601)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Jhamere Wilson (https://github.com/JhamereWilson)
