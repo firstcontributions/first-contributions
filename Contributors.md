@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Dax Patel (https://github.com/letapxad)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
@@ -2678,6 +2678,7 @@ Kebana Modise
 - [Dan Satchy](https://github.com/dansatchy)
 - Deric Siu
 - [Tamarind Stafford](https://github.com/oshadowah)
+- [Elizabeth Sweet] (https://github.com/esweet13)
 - [Almarose Revives](https://github.com/arevives/first-contributions.git)
 - [Aditya Nalge](https://github.com/adityanalge)
 - [Alphonsus Lussing](https://github.com/aflussing)
