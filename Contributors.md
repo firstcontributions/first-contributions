@@ -134,6 +134,7 @@
   [Evelyn Chang]
 - [StrangeAlmond] (https://github.com/StrangeAlmond)
 - [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
+- [Sammy Nichols] (https://github.com/SammyFantana)
 - Jason Cozzitorto
   [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
