@@ -35,32 +35,33 @@ The next step is to clone your repo down to your machine so you can begin making
 
 **CAREFUL:** One mistake that new contributors often make is to clone the repo you forked _from_ rather than cloning your repo. Check your browser's address bar and make sure you are cloning your repo.
 
-Now open up IntelliJ IDEA. The welcome page of IntelliJ IDEA will pop up. From there press `F1` to open up the bar shown below. Notice that there is already a `>` (greater than) sign in the text field. You can also get to the input prompt by pressing `CTRL-P` and then type the `>` character.
+Now open up IntelliJ IDEA. 
 
-<img src="assets/vscode-2018-08-clone.png" alt="Clone Popup (Command Popup)" />
+IntelliJ IDEA allows you to check out (in Git terms clone) an existing repository and create a new project based on the data you've downloaded.
 
-You may notice that there are already some obscure commands listed below. Those are my recently used commands. So just don't care about them.
+From the main menu, choose VCS | Get from Version Control, or, if no project is currently opened, click Get from Version Control on the Welcome screen.
 
-<img src="assets/vscode-2018-08-clone1.png" alt="Clone repo" />
+In the Get from Version Control dialog, specify the URL of the remote repository you want to clone (you can click Test to make sure that connection to the remote can be established), or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
 
-Now type in `git clone`, only `git` or `clone` (it works like a search).
-Select the Entry `Git: Clone` and press `Enter`
+Click Clone. If you want to create a IntelliJ IDEA project based on the sources you have cloned, click Yes in the confirmation dialog. Git root mapping will be automatically set to the project root directory.
 
-<img src="assets/vscode-2018-08-clone2.png" alt="Paste Repository URL in" />
-
-Paste the URL of your repository and press `Enter`. This will open up a File Explorer where you can then choose where the Git repository should be stored.
+If your project contains submodules, they will also be cloned and automatically registered as project roots.
 
 **Important**: Make sure it is the forked repository and not the original one, otherwise it won't work.
 
-<img src="assets/vscode-2018-08-clone3.png" alt="Status popup" />
-
-You should see a status popup on the bottom right of IntelliJ IDEA. After it has finished, you can open up the cloned repository (now a folder on your machine) using the buttons in the dialog.
-
 ## Create a branch
 
-Open up the command palette again by pressing `F1`. Type in `branch` and select the `create branch` command from there. In the next step type in the name of your new branch, for example `add-david-kroell`. Press enter and the branch will be created. The branch is also already checked out. [What does checkout mean?](https://www.git-scm.com/docs/git-checkout)
+In Git, branching is a powerful mechanism that allows you to diverge from the main development line, for example, when you need to work on a feature, or freeze a certain state of a code base for a release, and so on.
 
-<img src="assets/vscode-2018-08-branch.png" alt="Branches Command Palette" />
+In IntelliJ IDEA, all operations with branches are performed in the Git Branches popup. To invoke it, click the Git widget in the Status bar or press Ctrl+Shift+`.
+
+The name of the branch that is currently checked out is displayed in the Git widget in the Status bar.
+
+In the Branches popup, choose New Branch.
+
+In the dialog that opens, specify the branch name, and make sure the Checkout branch option is selected if you want to switch to that branch.
+
+The new branch will start from the current HEAD. If you want to start a branch from a previous commit instead of the current branch HEAD, select this commit in the Log tab of the Version Control tool window Alt+9 and choose New Branch from the context menu.
 
 ## Make necessary changes
 
@@ -68,26 +69,19 @@ Open `Contributors.md` and add your name anywhere in the file. This file contain
 
 Copy one of the other contributors&apos; lines and modify it with your name to make sure you get the syntax right - it can be picky.
 
-<img src="assets/vscode-2018-08-changes.png" alt="Add your name" />
-
 ## Commit & Push changes to GitHub
 
-On the left side of IntelliJ IDEA is a menu with 5 icons displayed. Select the version control/Source Control icon.
-(Shortcut : Ctrl + Shift + G)
+Select the files you want to commit or an entire changelist in the Local Changes tab of the Version Control tool window Alt+9 and press Ctrl+K or click Commit Commit button on the toolbar.
 
-<img src="assets/vscode-2018-08-commit.png" alt="Commit changes" />
+The Commit Changes dialog that opens lists all files that have been modified since the last commit, as well as all newly added unversioned files.
 
-The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
+Enter a meaningful commit message.
 
-<img src="assets/vscode-2018-08-commit1.png" alt="Stashed Files">
+You can click Commit Message history Commit Message history Ctrl+M to choose from the list of recent commit messages.
 
-Type something in the line on top of the explorer and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
+You can also edit the commit message later before you've pushed the commit.
 
-<img src="assets/vscode-2018-08-push.png" alt="Stashed Files">
-
-Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
-
-<img src="assets/vscode-2018-08-gh-auth.png" alt="Stashed Files">
+Press Ctrl+Shift+K or choose VCS | Git | Push from the main menu. The Push Commits dialog opens showing all Git repositories (for multi-repository projects) and listing all commits made in the current branch in each repository since the last push.
 
 ## Submit your changes for review
 
@@ -116,11 +110,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
-
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
-|---|---|---|---|---|
-|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
-
+[Back to main page](README.md)
 
 ## Self-Promotion
 
