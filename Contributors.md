@@ -9981,6 +9981,7 @@ Aman Panjwani
 - [Tanvi Nerkar](https://github.com/tanvinerkar)
 - [Alex Scherbanov](https://github.com/koddo)
 - [David](https://github.com/nowtech)
+- [cr27](https://github.com/cr27)
 - [Prerna Sony](https://github.com/prernasony)
 - [binkpitch](https://github.com/binkpitch)
 - [Ashish Singh](https://github.com/ashishkumsingh)
