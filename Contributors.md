@@ -11,6 +11,7 @@
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - [Vatsala Jha]
 - [Chakib Atmane] (https://github.com/chak-eeb)
+- [Daman Deep Singh] (https://github.com/ddsb01)
 - [Amanda Taylor] (https://github.com/ataylor)
 - [Christophe Meyering] (https://github.com/ChrisMeyering)
 - Maryam Nawaz (https://github.com/mjemnawaz)
