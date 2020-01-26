@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Dax Patel (https://github.com/letapxad)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
@@ -7,6 +7,7 @@
 - Punit Patel (https://github.com/punitpatel2601)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Jhamere Wilson (https://github.com/JhamereWilson)
+- Tasbiha Asim (https://github.com/tasbihaasim)
 - Minuth Prom (https://github.com/minuth)
 - Wan Nasrul Irfan (https://github.com/TehHatrix)
 - Vitor Madalosso (https://github.com/vmadalosso)
@@ -40,6 +41,7 @@
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
+- Tasbiha Asim (https://github.com/tasbihaasim)
 - Floyd Askew (https://github.com/MrAskew)
 - Sachi Grannan (https://github.com/sachix1001)
 - Vivek Singh Bisht (https://github.com/Bviveksingh)
