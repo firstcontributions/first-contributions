@@ -30,6 +30,7 @@
 - Srikanth Kashyap Pulipaka (https://github.com/srikanthpulipaka)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - James Myers 
+- DuongDao daokiem (https://github.com/duongkstn)
 - Alireza Akhoundi
 - Paul Dill (https://github.com/Dillweed5446)
 - Hatef Palizgar(https://github.com/palizgar)
