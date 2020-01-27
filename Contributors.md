@@ -1334,6 +1334,7 @@ Joseph Tran
 - [Sanchi]
 notForProffitt
 - [Hamad Mohamed](https://github.com/Hamadou49)
+- [Adrianov R.](https://github.com/corvus-rex)
 - [Esslam Ben Ramadan](https://github.com/Esslamb)
 - [Numnumchips](https://github.com/Numnumchips)
 - [Mario Olofsson][https://github.com/meetmario)]
