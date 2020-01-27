@@ -14,6 +14,7 @@
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
+- [Tyler McEwen](https://github.com/thaimac)
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Coco Lin (https://github.com/cocolin041)
