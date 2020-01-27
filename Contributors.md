@@ -236,6 +236,7 @@
 - Laslaa Mohammed
 -andreww
 - Harsha
+- FryedRice
 - Mukund
 - [Blair](https://github.com/Blair221)
 - [Olivier]
