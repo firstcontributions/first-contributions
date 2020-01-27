@@ -178,6 +178,7 @@
 - madhm88
 - Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
+- Sunit Wilson
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Ezra Muskat] (https://github.com/ezramuskat)
 - [Damon Kasner] (https://github.com/DamonK19)
