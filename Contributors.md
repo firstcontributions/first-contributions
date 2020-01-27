@@ -15234,6 +15234,7 @@ macdara-dev
 - [Alistair Amick](https://github.com/AlistairAmick)
 - [Lee Roberts](https://github.com/leejroberts)
 - [Seth Wyma](https://github.com/SethWyma)
+- [Seth Blanck](http://github.com/fatcow240)
 - [Scott Blackwood](https://github.com/SDBlackwood)
 - [Derek Xia](https://github.com/derek-xia)
 - [Nick Cruess](https://github.com/ngcruess)
