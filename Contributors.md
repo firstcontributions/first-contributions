@@ -20,6 +20,7 @@
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Sakshi Gupta
+- Keri Goltz
 - Coco Lin (https://github.com/cocolin041)
 - Prayag Desale(https://github.com/prayagd)
 - Patrick Hutt (https://github.com/pathutt)
