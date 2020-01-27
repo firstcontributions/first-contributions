@@ -66,6 +66,7 @@
 - [Levi Cavalcante](https://github.com/ivelevi)
 - [Ron Huberfeld](https://github.com/ron-huberfeld)
 - [Aidan Webster] (https://github.com/aweb0505)
+- [Eyal Ganor] (https://github.com/eyalganor123)
 - [Jason Xie]
 - [Vatsala Jha]
 - [Maria Fernandez] (https://github.com/mariahfernnn)
