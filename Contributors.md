@@ -181,6 +181,7 @@
 - Catherine Thomsen
 - Marc Fitzgerald
 - madhm88
+- Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
 - Sunit Wilson
