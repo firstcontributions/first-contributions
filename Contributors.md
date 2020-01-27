@@ -330,6 +330,7 @@
 - [Abdullah Khairi](https://github.com/iriahk89)
 - [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
+- [Juan Carlos Colombo] (https://github.com/juan-colombo95)
 - [Neil Gayeta](https://github.com/neilrg2)
 - [Tomasz Holeksa](https://github.com/TomaszHol)
 - [Gregory El Bajoury](https://github.com/Injechta)
