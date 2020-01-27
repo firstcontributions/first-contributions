@@ -152,6 +152,7 @@
 - [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
 - [Rashik Adhikari] (https://github.com/rashik06)
+-[Nikhil Richard] (https://github.com/nikhilr5)
 - [Suyash Raj] (https://github.com/suyash-sneo)
 - [Amr Akmal]   (https://github.com/amroakmal)
 - Alen
