@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Minuth Prom](https://github.com/minuth)
 - [Mikhail Beresnev](https://github.com/Mikhail-Beresnev)
 - [Yousef Murad](https://github.com/YousefMorad)
@@ -19719,3 +19719,4 @@
 - [Cody Brewer](https://github.com/CodyBrewer)
 - [Pranjal Dave](https://github.com/davePranjal)
 - [SMBITZ](https://github.com/smbitz)
+- [Rachel Burke](https://github.com/RachelBurke)
