@@ -217,6 +217,7 @@
 - [Jose](https://github.com/Valtiel0)
 - [Md Golam Rahman Tushar](https://github.com/grtushar)
 - [Victor F](https://github.com/Vicfs)
+- [Tom Straszewski] (https://github.com/tomski80)
 - [Bibin Alex](https://github.com/bibinca1975)
 - [Titus Davis](https://github.com/EnigmaticGiant)
 - [Aahel Guha](https://github.com/aahel)
