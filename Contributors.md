@@ -7324,6 +7324,7 @@ Aman Panjwani
 - [George Parsons](https://github.com/geopar)
 - [Lucy S](https://github.com/girlingoggles)
 - [Lukas Sundberg](https://github.com/ggLukas)
+- [Lukas Bolz](https://github.com/L-Bolz)
 - [Markus Maelzer](https://github.com/markus-maelzer)
 - [Vikash Kumar Yadav](https://github.com/geekfreak97)
 - [Daniel Smith](https://github.com/techydan)
