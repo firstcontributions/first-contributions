@@ -7372,6 +7372,7 @@ Aman Panjwani
 - [Martin Breuss](https://github.com/martin-martin)
 - [Abhishek Pratap Singh](https://github.com/APSingh-007)
 - [Yash Jaiswal](https://github.com/yashjaiswal1)
+- [Andrea Luciano](https://github.com/adlucio87)
 - [Jordan Moreno-Lacalle](https://github.com/jordanmlacalle)
 - [Sahaj Oberoi](https://github.com/OberoiSahaj)
 - [Guneet Singh](http://github.com/SethiGuneet)
