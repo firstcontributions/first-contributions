@@ -156,6 +156,7 @@
 - Jason Cozzitorto
   [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
+- [Oindrila Barik] (https://github.com/oindrilabarik14)
 - [Manuel Puchades] (https://github.com/neletdev)
 - [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
