@@ -245,6 +245,7 @@
 -andreww
 - Harsha
 - FryedRice
+- FryedRice2
 - Mukund
 - [Blair](https://github.com/Blair221)
 - [Olivier]
