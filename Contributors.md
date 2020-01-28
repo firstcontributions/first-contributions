@@ -5902,6 +5902,7 @@ Noam Taub
 - [PranavKrishnan](https://github.com/PranavKrishnan1)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [aalizwel23](https://github.com/aalizwel23)
+- [Piotr Fryc](https://github.com/zephyrus8888)
 - [Maruthi Mohan Reddy Putha](https://github.com/MaruthiMohanReddyPutha)
 - [Sabi K](https://github.com/sabiku85)
 - [chetangaur](https://github.com/chetangaur)
