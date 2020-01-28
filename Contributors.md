@@ -1,4 +1,5 @@
 # Contributors
+- Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
 - Dax Patel (https://github.com/letapxad)
@@ -36,7 +37,7 @@
 - Andrew O'Brien (https://github.com/alo9507)
 - Srikanth Kashyap Pulipaka (https://github.com/srikanthpulipaka)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
-- James Myers 
+- James Myers
 - DuongDao daokiem (https://github.com/duongkstn)
 - Alireza Akhoundi
 - Paul Dill (https://github.com/Dillweed5446)
