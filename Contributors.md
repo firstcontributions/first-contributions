@@ -9254,6 +9254,7 @@ Aman Panjwani
 - [Linus Young](https://github.com/st4rgut22)
 - [Amarsingh Pardeshi](https://github.com/amarsiingh)
 - [Dara Carolan](https://github.com/daraclare)
+- [Edgar Popovici](https://github.com/edgarpop)
 - [Brian Wahome](https://github.com/GitWahome)
 - [Silas Carvalho](https://github.com/silasalvares)
 - [Adithya Menon](https://github.com/adithyamenon)
