@@ -15544,6 +15544,7 @@ macdara-dev
 - [shabari jonnalagadda](https://github.com/shabari004)
 - [Rafael Sampy](https://github.com/rafaelsampy)
 - [Vinicius Baroni Soares](https://github.com/vinibs)
+- [Justin Lee](https://github.com/githubjsl118)
 - [Priyanka Garg](https://github.com/garg-priyanka)
 - [Kara Konieczny](https://github.com/apersonfromflorida)
 - [Jefferson de França Filho](https://github.com/JaTemJeff)
