@@ -1843,6 +1843,7 @@ notForProffitt
 - [Radim](https://github.com/xpavlic4)
 - [syd645]
 - [bh-n-9]
+  [Luke P. Cecil]
 - [Phillip Kent Knight](https://github.com/phillipknight)
 - [Samer Baslan](https://github.com/samerbaslan
 - [Xiao W](https://github.com/fwinac)
