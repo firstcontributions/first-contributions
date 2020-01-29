@@ -26,6 +26,7 @@
 - [Tyler McEwen](https://github.com/thaimac)
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
+- Gerald Zapata
 - Sakshi Gupta
 - Ryan Sneesby
 - Keri Goltz
