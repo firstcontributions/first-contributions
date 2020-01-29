@@ -35,6 +35,7 @@
 - Prayag Desale(https://github.com/prayagd)
 - Patrick Hutt (https://github.com/pathutt)
 - Bailey C Cheung (https://github.com/bcg73)
+- Marco Canto (https://github.com/marcocanto)
 - Vitor Rigolon (https://github.com/vrigolon)
 - Paul Kang (https://github.com/pkang29)
 - Samyak Shreyash (https://github.com/SamyakHacker)
