@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
@@ -3614,6 +3614,7 @@ Noam Taub
 - [Tanmay Shah](https://github.com/TanmayDineshkumarShah)
 - [Sampath MS](https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
+- Alexander Bengtsson
 - [Patrick Johnson](https://github.com/GHPatrick)
 - [Fahad Mahmood](https://github.com/Fahad-Mahmood)
 - [Alex Solonenko](https://github.com/Spilex)
