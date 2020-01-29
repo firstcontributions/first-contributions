@@ -4,6 +4,7 @@
 -Mike
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
+- Vinita Hissaria (https://github.com/vinita22)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
