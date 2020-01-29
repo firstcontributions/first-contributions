@@ -23,6 +23,7 @@
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Sakshi Gupta
+- Ryan Sneesby
 - Keri Goltz
 - itakenaps
 - [Salman Zafar](https://github.com/maanizfar)
