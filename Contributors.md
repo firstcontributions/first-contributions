@@ -414,6 +414,7 @@
 - [Erin Leck](https://github.com/eel87)
 - [Rob Harman]
 - [Joey Seiler](https://github.com/seilerjr)
+- [Tommi Björklund](https://github.com/Tommibjo)
 - [Audric Ganser](https://github.com/audricganser)
 - [Jwad Aziz](https://github.com/jwad96)
 - [Frederica Melbourne]
