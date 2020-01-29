@@ -287,6 +287,7 @@
 - [mstava](https://github.com/Mstava)
 - [M.Hassan Ahmed](https://github.com/hassan11196)
 - [Ramsay Grove](https://github.com/GroveIV)
+- [Zoltan Kuli](https://github.com/ZoltanKuli)
 - [Jabiu](https://github.com/jabiu)
 - [Jamie](https://github.com/jamiemorgan14)
 - [Mahmood Darwish](https://github.com/Mahmood-Darwish)
