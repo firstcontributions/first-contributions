@@ -53,6 +53,7 @@
 - Moshe Goldberg (https://github.com/moish82)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Bryant Vaughn (https://github.com/BryantVaughn)
+- 
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
 - Kevin Joseph (https://github.com/devilsangel)
@@ -197,6 +198,7 @@
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Ezra Muskat] (https://github.com/ezramuskat)
 - [Damon Kasner] (https://github.com/DamonK19)
+- [Antti](https://github.com/Anpes99)
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
 - [Thomas Holmegaard] (https://github.com/thom9346)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
