@@ -2,6 +2,7 @@
 - Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
+- Ty Jenkins (https://github.com/Yujiman85)
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
 - Mark Foster (https://github.com/markfoster314)
