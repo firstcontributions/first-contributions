@@ -144,6 +144,7 @@
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Marzia Bruno] (https://github.com/mmcbruno)
 -  Cheeki Breeki
+- [JereIsThere] (https://github.com/JereIsThere)
 [Nabeel Farooqui] (https://github.com/nabeelfarooqui98)
 - [Milad Abbasi](https://github.com/milad-abbasi)
 - [Deepank kartikey] (https://github.com/deepank120896)
