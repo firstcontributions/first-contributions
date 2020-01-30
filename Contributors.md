@@ -6288,6 +6288,7 @@ Noam Taub
 - Hector Barajas
 - Akshay Sonawane
 - Chirag Agarwal
+- [Ricardo Oliveira](https://gitbhub.com/ricardomoliveira)
 - [Tintu Thomas](https://github.com/tintutm)
 - [Alex Tai](https://github.com/alextechtai)
 - [Leo T.](https://github.com/taydakov)
