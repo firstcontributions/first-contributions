@@ -12833,6 +12833,7 @@ macdara-dev
 - [Sheena Mattu](https://github.com/sheenapercy)
 - [Filip Mihalic](https://github.com/nathan-drake)
 - [Asad Mehdi](https://github.com/asadmehdi785)
+- [Luke Hedgecox](https://github.com/hedgecox)
 - [James Gadoury](https://github.com/jamesGadoury)
 - [Rafael Possenti](https://github.com/rafaelpossenti)
 - [Bryan Tam](https://github.com/nitehawk39)
