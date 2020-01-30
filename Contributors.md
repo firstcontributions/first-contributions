@@ -18457,6 +18457,7 @@ macdara-dev
 - [Fabian Mesias](https://github.com/ifmr24)
 - [ThankGod Ofurum](https://github.com/tcofurum)
 - [Ross Wilkinson](https://github.com/rgwilkin)
+- [Damien Levitt] (https://github.com/damienlevitt)
 - N-ion
 - [Victor Zohni](https://github.com/vzohni)
 - [Vinay Calastry](https://github.com/vinaycalastry)
