@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
@@ -407,6 +407,7 @@
 - [Marcos Hernandez](https://github.com/MarcosHernandezArg)
 - [Yusoof Mohammad](https://github.com/fuzuyx)
 - [Arkadip](https://github.com/darkmatter18)
+- [Ankit Kumar](https://github.com/ankit59345)
 - [Soliu F. Okandeji](https://github.com/okandeji1)
 - [Myungwoo Yang](https://github.com/myungwoo-Y)
 - [Gina Kim](https://github.com/GHK15)
