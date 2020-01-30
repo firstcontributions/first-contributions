@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
 - Apiwat Chuaphan (https://github.com/apiwatc)
@@ -4657,6 +4657,7 @@ Noam Taub
 - [Vikram Singh Bedi](https://github.com/singhVikram97)
 - [Carlo De Los Reyes](https://github.com/nattysplines)
 - [Mondonville](https://github.com/mondonville)
+- [Johan Andersson] (https://github.com/tpi15jan)
 - [abuznego](https://github.com/abuznego23)
 - [romanvx](https://github.com/romanvx)
 - [bish singh](https://github.com/bishtrial)
