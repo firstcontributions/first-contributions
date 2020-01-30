@@ -148,6 +148,7 @@
 - [Andy Trinh] (https://github.com/andyttrinh)
 - [Steve Ahlswede] (https://github.com/SevenFoldDeep)
 - [Ganesh Chincholkar] (https://github.com/ganeshpc)
+- [Hassan Masood] (https://github.com/hassan54)
 - [Aditya Prasad] (https://github.com/adityaprasad97)
 - [Ali Zeaiter] (https://github.com/alizeaiter)
 - [Marzia Bruno] (https://github.com/mmcbruno)
