@@ -8,6 +8,7 @@
 - Kiran Saini (https://github.com/sainik73)
 - Vinita Hissaria (https://github.com/vinita22)
 - Mark Foster (https://github.com/markfoster314)
+- Constantino Mavrakis
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
