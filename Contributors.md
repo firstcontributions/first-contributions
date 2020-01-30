@@ -4,6 +4,7 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -EdwinVanLeth
 -Mike
+- Lasse No
 - Ty Jenkins (https://github.com/Yujiman85)
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
