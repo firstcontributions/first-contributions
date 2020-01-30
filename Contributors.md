@@ -22,8 +22,9 @@
 - Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
 - Allen Deckert(https://github.com/adeckert1010)
+- Lennart Blumentrath (https://github.com/lennizle)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
-- Seuymour utts 
+- Seuymour utts
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
 - Jonathan Kim (https://github.com/Jonathan-K88)
