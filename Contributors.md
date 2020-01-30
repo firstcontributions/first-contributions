@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
@@ -23,6 +23,7 @@
 - [Tyler McEwen](https://github.com/thaimac)
 - Reuben G Day (https://github.com/theReuben)
 - Mahmoud Osman (https://github.com/mosman-dev)
+- Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
 - Ryan Sneesby
 - Keri Goltz
