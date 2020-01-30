@@ -3,6 +3,7 @@
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
 - Apiwat Chuaphan (https://github.com/apiwatc)
+- Jai Mistry (https://github.com/jaimistry)
 -EdwinVanLeth
 -Mike
 - Lasse No
