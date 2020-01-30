@@ -1284,6 +1284,7 @@ Joseph Tran
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
 - [Marie-Anne Mittet (https://github.com/Dynaa)
+- [Geraldo Júnior] (https://github.com/Gerjunior)
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [littlepawcoding]
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
