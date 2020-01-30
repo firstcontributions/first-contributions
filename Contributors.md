@@ -19,6 +19,7 @@
 - Wan Nasrul Irfan (https://github.com/TehHatrix)
 - Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
+- Allen Deckert(https://github.com/adeckert1010)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
