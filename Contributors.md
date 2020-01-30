@@ -14313,6 +14313,7 @@ macdara-dev
 - [Jokke Darthbrant](https://github.com/skraek)
 - [Ellen Kidane](https://github.com/ekidane)
 - [Justin Goldby](https://github.com/goldbeedev)
+- [Claudio Gandra](https://github.com/chokladio)
 - [Sharla Field](https://github.com/sharlafield)
 - [Jo Laba](https://github.com/JhorlyL)
 - [Ira E Laurin](https://github.com/toiya)
