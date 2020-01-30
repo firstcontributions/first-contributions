@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
@@ -4146,6 +4146,7 @@ Noam Taub
 - [Abhranil Bhattacharjee](https://github.com/abhranil08)
 - Matt Chang
 - [Vipin Malik](https://github.com/0Vipin0)
+- [Regina Márquez](https://github.com/regmar98)
 - [David Perez](https://github.com/davidpv)
 - [lcherukuri](https://github.com/lcherukuri)
 - [Geoffrey Van Meirhaeghe](https://github.com/chetmayor)
