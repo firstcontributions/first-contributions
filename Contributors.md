@@ -34,6 +34,7 @@
 - Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
 - Ryan Sneesby
+- Johanharry
 - Keri Goltz
 - itakenaps
 - [Salman Zafar](https://github.com/maanizfar)
