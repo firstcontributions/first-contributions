@@ -1,4 +1,5 @@
 # Contributors
+- Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
 - Apiwat Chuaphan (https://github.com/apiwatc)
