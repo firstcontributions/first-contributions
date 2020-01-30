@@ -12069,6 +12069,7 @@ macdara-dev
 - [Kaaylim](https://github.com/kaaylim)
 - [Ashton](https://github.com/shepparda13)
 - [Nick](https://github.com/codekip)
+- [Christian Reyes](https://github.com/flowingcreyes)
 - [Kate Hanahoe](https://github.com/KateHanahoe)
 - [build65](https://github.com/build65)
 - [Pradhuman Goyal](https://github.com/pradhumangoyal)
