@@ -1,5 +1,6 @@
-﻿# Contributors
+# Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
+- Amin Elhami (https://github.com/Amin747)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 -Mike
 - Ty Jenkins (https://github.com/Yujiman85)
