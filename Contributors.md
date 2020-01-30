@@ -18745,6 +18745,7 @@ Mário Baltazar
 - [Divya Nayal](https://github.com/divyanayal)
 - [Shikha Shah](https://github.com/shikha-812)
 - [chakMan](https://github.com/187107363)
+- [TusharT](https://github.com/TusharT)
 - k3klein
 - [HoreaC](https://github.com/MercurA)
 - [AleTheBro](https://github.com/alethebro)
