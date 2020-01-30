@@ -50,6 +50,7 @@
 - Paul Dill (https://github.com/Dillweed5446)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
+- Tyler Martin (https://github.com/TYLER-JM)
 - Dan Singletary (https://github.com/dvsingletary)
 - Adean Colon (https://github.com/AdeanColon)
 - Lucas Cyrne (https://github.com/lucascyrne)
