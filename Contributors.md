@@ -169,6 +169,7 @@
 - [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
 - [Sammy Nichols] (https://github.com/SammyFantana)
 - Jason Cozzitorto
+- [Dandy Reyes] (https://github.com/dandyreyes)
   [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
 - [Oindrila Barik] (https://github.com/oindrilabarik14)
