@@ -1,6 +1,7 @@
 # Contributors
 - Jeff Lu (https://github.com/HiIamJeff)
 - Apiwat Chuaphan (https://github.com/apiwatc)
+-EdwinVanLeth
 -Mike
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
