@@ -6,6 +6,7 @@
 - Jai Mistry (https://github.com/jaimistry)
 -EdwinVanLeth
 -Mike
+- James Tufarelli (https://github.com/Minituff)
 - Lasse No
 - Ty Jenkins (https://github.com/Yujiman85)
 - Dax Patel (https://github.com/letapxad)
