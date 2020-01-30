@@ -176,6 +176,7 @@
 - [Shigeto Jeng]
     [Steve Mullins] (https://github.com/sgmullins)
   [Evelyn Chang]
+  [CleverPossum]
 - [StrangeAlmond] (https://github.com/StrangeAlmond)
 - [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
 - [Sammy Nichols] (https://github.com/SammyFantana)
