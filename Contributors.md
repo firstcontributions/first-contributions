@@ -25,6 +25,7 @@
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Sakshi Gupta
 - Ryan Sneesby
+- Johanharry
 - Keri Goltz
 - itakenaps
 - [Salman Zafar](https://github.com/maanizfar)
