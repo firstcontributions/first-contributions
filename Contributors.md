@@ -21,6 +21,7 @@
 - Brian Smith (https://github.com/LuosRestil)
 - Allen Deckert(https://github.com/adeckert1010)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
+- Seuymour utts 
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
 - Jonathan Kim (https://github.com/Jonathan-K88)
@@ -8213,7 +8214,7 @@ Aman Panjwani
 - Finish
 - Christian Oettl
 - [Laksh Dhamija](https://github.com/Alumenium)
-- Kaj 
+- Kaj
 - [Zhana Dougherty](https://github.com/ZPPD)
 - [RaidAndFade](https://github.com/raidandfade)
 - [Edward Ezekiel](https://github.com/edezekiel)
