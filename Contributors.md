@@ -24,6 +24,7 @@
 - Minuth Prom (https://github.com/minuth)
 - Sanyam Mittal (https://github.com/sanyam142mittal)
 - Wan Nasrul Irfan (https://github.com/TehHatrix)
+- Eric Maddox (https://github.com/maddtech)
 -MarkusWasHere
 - Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
