@@ -215,6 +215,7 @@
 - David Lui
 - Catherine Thomsen
 - Marc Fitzgerald
+- Jui Pradhan
 - madhm88
 - Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
