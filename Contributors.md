@@ -11798,6 +11798,7 @@ macdara-dev
 - [Evan LeValley](https://github.com/holmcross)
 - [Joe Tomaselli](https://github.com/tjomaselli)
 - [Eskaine](https://github.com/eskaine)
+- [Richárd Szegh](https://github.com/richardszegh)
 - [Rathna Subramanian](https://github.com/rathnasubramanian2603)
 - [Roger Zimmermann](https://github.com/AlpineCoder)
 - [Carsten](https://github.com/ckruhs)
