@@ -58,6 +58,7 @@
 - Andrew O'Brien (https://github.com/alo9507)
 - Srikanth Kashyap Pulipaka (https://github.com/srikanthpulipaka)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
+- Son Thach (https://github.com/hson011011)
 - James Myers
 - DuongDao daokiem (https://github.com/duongkstn)
 - Alireza Akhoundi
