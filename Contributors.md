@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
@@ -186,6 +186,7 @@
 - [StrangeAlmond] (https://github.com/StrangeAlmond)
 - [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
 - [Sammy Nichols] (https://github.com/SammyFantana)
+- [Raphaele Lamaze] (https://github.com/raphaele42)
 - Jason Cozzitorto
 - [Dandy Reyes] (https://github.com/dandyreyes)
   [Tomasz Mejer] (https://github.com/tomek-em)
