@@ -47,6 +47,7 @@
 - Johanharry
 - Keri Goltz
 - itakenaps
+- Kimberly Ong (http://github.com/kimberlyohq)
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
 - [Salman Zafar](https://github.com/maanizfar)
 - Coco Lin (https://github.com/cocolin041)
