@@ -8,6 +8,7 @@
 -Mike
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
+- Michael Geletka
 - Ty Jenkins (https://github.com/Yujiman85)
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
