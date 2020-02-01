@@ -1275,6 +1275,7 @@ Joseph Tran
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Kelliann Lafferty](https://github.com/klaffert)
 - [Tammy Laforest](http://github.com/tammylaforest)
+- [Kimberly Ong](https://github.com/kimberlyohq)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
 -[Yagnik Sakhiya](https://github.com/sakhiya07)
