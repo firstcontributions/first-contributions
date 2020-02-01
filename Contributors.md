@@ -47,6 +47,7 @@
 - Sakshi Gupta
 - Ryan Sneesby
 - Johanharry
+- Menarul Alam
 - Keri Goltz
 - itakenaps
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
