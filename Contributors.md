@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - FlorinM (https://github.com/florinmuscalu/)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
@@ -19862,6 +19862,7 @@ rehan
 - [Louie Pascual](https://github.com/louiepascual)
 - [Rodrigo Bondoc](https://github.com/rbondoc28)
 - [DM]
+- [Billy Madison]
 - [cloudXA](https://cloudXA)
 - [Tyler Noble](https://NobleTyler.github.io)
 - [John Carlo Gutierrez](https://github.com/MarcelloCarlo)
@@ -19911,3 +19912,4 @@ rehan
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
 - [Huan Phan](https://github.com/phanthaihuan)
+
