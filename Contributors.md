@@ -51,6 +51,7 @@
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
 - [Salman Zafar](https://github.com/maanizfar)
 - Coco Lin (https://github.com/cocolin041)
+- Aleksander Altmäe (https://github.com/AleksanderAlt)
 - Prayag Desale(https://github.com/prayagd)
 - Patrick Hutt (https://github.com/pathutt)
 - Bailey C Cheung (https://github.com/bcg73)
