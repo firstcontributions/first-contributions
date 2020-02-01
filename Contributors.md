@@ -1,4 +1,5 @@
 ﻿# Contributors
+- FlorinM (https://github.com/florinmuscalu/)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
