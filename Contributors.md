@@ -9998,6 +9998,7 @@ Aman Panjwani
 - [Shubhi Lohani](https://github.com/ShubhiL)
 - [Kartik Sharma](https://github.com/StarryFire)
 - [Tyler Trout](https://github.com/tiller1010)
+- [Trang Nguyen](https://github.com/tracy2811)
 - [Grant Hixson](https://github.com/androidfanatic)
 - [Edmund Lai](https://github.com/EdmundLai)
 - [marcuswkl](https://github.com/marcuswkl)
