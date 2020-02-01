@@ -14,6 +14,7 @@
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
 - Vinita Hissaria (https://github.com/vinita22)
+- Tejasri Kadari (https://github.com/tejasri28)
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
