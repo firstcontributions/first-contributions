@@ -7,6 +7,7 @@
 - Abby Lemon (https://github.com/abbylemon)
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
+- Andreas Eibert
 -EdwinVanLeth
 -Mike
 -Rachel
