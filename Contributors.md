@@ -41,6 +41,7 @@
 - Lennart Blumentrath (https://github.com/lennizle)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
+- Shivam Gupta
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
 - Jonathan Kim (https://github.com/Jonathan-K88)
