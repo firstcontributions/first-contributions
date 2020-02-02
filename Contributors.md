@@ -18320,6 +18320,7 @@ macdara-dev
 - [Patrick Uzuwe](https://github.com/puzuwe)
 - [James Miller](https://github.com/JamesMMiller)
 - Matt Z
+- Veeresh
 - Aleksi Maunu :O
 - [Werner Krauth](https://github.com/WernerKrauth)
 - Med Fam
