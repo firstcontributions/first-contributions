@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
 - Nazri Yahya 
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
