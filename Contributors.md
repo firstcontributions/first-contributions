@@ -1,7 +1,7 @@
 ﻿# Contributors
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
-- Nazri Yahya 
+- Nazri Yahya
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
@@ -25,7 +25,7 @@
 - Tejasri Kadari (https://github.com/tejasri28)
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -56,7 +56,7 @@
 - Sakshi Gupta
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - Keri Goltz
 - itakenaps
@@ -11425,6 +11425,7 @@ macdara-dev
 - [Josh Leib](https://github.com/leibjuwp)
 - [Soumil Ghosh](https://github.com/lonewolf16)
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
+- [Simon Whittenbury] (https://github.com/rznsid)
 - [Sally Chin](https://github.com/summerhopes)
 - [Sanduni Wickramathunga](https://github.com/sanduniYW)
 - [Darian Low](https://github.com/shoe17)
