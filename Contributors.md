@@ -19930,3 +19930,4 @@ rehan
 - [Sunil](https://github.com/sunnysesh)
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
+- [Anton Miranouski](https://github.com/AntonMiranouski)
