@@ -60,6 +60,7 @@
 - Keri Goltz
 - itakenaps
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
+- Red Starfish
 - [Salman Zafar](https://github.com/maanizfar)
 - Coco Lin (https://github.com/cocolin041)
 - Aleksander Altmäe (https://github.com/AleksanderAlt)
