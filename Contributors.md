@@ -12585,6 +12585,7 @@ macdara-dev
 - [Jeremy Cruz](https://github.com/JCruz8482)
 - [Mius00](https://github.com/mius00)
 - [Rizky Januarianto](https://github.com/januarry)
+- Nayana Bhashitha
 - [Alex Kondov](https://github.com/AlexKondov)
 - [Hareluuu](https://github.com/hareluuu)
 - [RotV](https://github.com/thogthag)
