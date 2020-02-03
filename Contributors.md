@@ -12629,6 +12629,7 @@ macdara-dev
 - [Pedro Cruz](https://github.com/cruzpedro)
 - [Nick H](https://github.com/Nicknarp)
 - g0sar
+- [James Capps](https://github.com/jamescapps)
 - [Nikita Smirnov](https://github.com/nismirno)
 - [Ingrid Machado](https://github.com/ingridmachado)
 - [Brent Farand](https://github.com/BFarand)
