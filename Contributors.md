@@ -8165,6 +8165,7 @@ Aman Panjwani
 - [Arjo Jo](https://github.com/afjo)
 - [Michael Schoderer](https://github.com/schoderer)
 - [Emma Andrews](https://github.com/emma-andrews)
+- [Ronier Ramos](https://github.com/RRonier)
 - [Emma Collier](https://github.com/Axiematic)
 - [Tony Incendi](https://github.com/incendi)
 - [Bhavay Anand](https://github.com/bhavayAnand9)
