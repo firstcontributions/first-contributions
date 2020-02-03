@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - FlorinM (https://github.com/florinmuscalu/)
 - Nazri Yahya 
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
@@ -19922,3 +19922,4 @@ rehan
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
 - [Huan Phan](https://github.com/phanthaihuan)
+- [Luke Moresea] (https://github.com/moreselh)
