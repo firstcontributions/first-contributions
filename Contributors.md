@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
 - Nazri Yahya 
