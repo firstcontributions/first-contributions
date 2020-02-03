@@ -16,6 +16,7 @@
 -Rachel
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
+- Nikhil joshi
 - Michael Geletka
 - Ty Jenkins (https://github.com/Yujiman85)
 - Dax Patel (https://github.com/letapxad)
