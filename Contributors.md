@@ -20,6 +20,7 @@
 - Nikhil joshi
 - Michael Geletka
 - Ty Jenkins (https://github.com/Yujiman85)
+- Tom Holmes (https://github.com/tholmes59)
 - Dax Patel (https://github.com/letapxad)
 - Kiran Saini (https://github.com/sainik73)
 - Vinita Hissaria (https://github.com/vinita22)
