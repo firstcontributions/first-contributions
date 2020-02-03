@@ -11425,7 +11425,7 @@ macdara-dev
 - [Josh Leib](https://github.com/leibjuwp)
 - [Soumil Ghosh](https://github.com/lonewolf16)
 - [Cassi Gallagher-Shearer](https://github.com/CassiG)
-- [Simon Whittenbury] (https://github.com/rznsid)
+- [Simon Whittenbury](https://github.com/rznsid)
 - [Sally Chin](https://github.com/summerhopes)
 - [Sanduni Wickramathunga](https://github.com/sanduniYW)
 - [Darian Low](https://github.com/shoe17)
