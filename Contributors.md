@@ -23,6 +23,7 @@
 - Lasse No
 - Nikhil joshi
 - Michael Geletka
+- Bradley Peterson (https://github.com/bpetersonisme)
 - Ty Jenkins (https://github.com/Yujiman85)
 - Tom Holmes (https://github.com/tholmes59)
 - Dax Patel (https://github.com/letapxad)
