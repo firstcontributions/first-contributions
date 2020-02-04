@@ -7218,6 +7218,7 @@ Aman Panjwani
 - [Haoda Wang](https://github.com/h313)
 - [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
+- [Omoruyi Omofonmwan](https://github.com/ACompleteNoobSmoke)
 -   Abi Castro
 - Steve Johnson
 - [<span style="color: green;">Hunter Rancourt</span>](https://github.com/skwid138)
