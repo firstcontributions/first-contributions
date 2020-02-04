@@ -130,6 +130,7 @@
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
+- Louisa B (https://github.com/VZee)
 - Sangharsh Seth (https://github.com/SangharshSeth)
 - [Reinaldo Salla] (https://github.com/ReinaldoSalla/)
 - [Meredith Strickland] (https://github.com/merestrickland)
