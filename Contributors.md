@@ -32,6 +32,7 @@
 - [Jaed Lambert](https://github.com/Mxshadowcaster)
 - [Jamie Vaughn](https://github.com/JamieVaughn)
 - [trysh]
+- [Augustus Otu](https://github.com/Augani)
 - [matmatomate] (https://github.com/matmatomate/first-contributions)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3] (https://github.com/CristianPip3)
