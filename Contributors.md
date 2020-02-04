@@ -17,6 +17,7 @@
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
+- Youssef HAJARI (https://github.com/youssefhajari)
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
 - Nikhil joshi
