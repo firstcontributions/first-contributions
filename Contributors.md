@@ -15129,6 +15129,7 @@ macdara-dev
 - [Elizabeth Burke](https://github.com/eburkee)
 - [dave7ter](https://github.com/dave7ter)
 - [ikke09](https://github.com/ikke09)
+- [Cameron Hattendorf](https://github.com/Camboridesbikes)
 - [Adrian Thinnyun](https://github.com/athinnyun)
 - [Kjell Fjeldsaunet](https://github.com/kjell-fjeldsaunet)
 - [Dylan Sharhon](https://github.com/dsharhon)
