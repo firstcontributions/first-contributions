@@ -19168,6 +19168,7 @@ Mário Baltazar
 - [Simon Rossinskiy](https://github.com/simross/)
 - [Shane Lonergan](https://github.com/shanelonergan)
 - [Cristian Malacarne huff](https://github.com/cristianhuff)
+- Martin Cernohorsky
 - Matheus Azzi
 - Matheus Spaniol
 - Ankit Beniwal (https://github.com/pagalprogrammer)
