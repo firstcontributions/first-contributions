@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
