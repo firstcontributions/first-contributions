@@ -63,6 +63,7 @@
 - Johanharry
 - Sian Murray 
 - Menarul Alam
+- [Heesang Whang](https://github.com/hwhang0917)
 - Keri Goltz
 - itakenaps
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
