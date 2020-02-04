@@ -19945,3 +19945,4 @@ rehan
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
 - [Marc Delaunay] (https://github.com/DelaMarc)
+- [Philipp Zech] (https://github.com/lokalmatador)
