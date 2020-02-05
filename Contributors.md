@@ -64,6 +64,7 @@ Derek Leach
 - Mahmoud Osman (https://github.com/mosman-dev)
 - Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
+- Shannon Murphy
 - Ryan Sneesby
 - Johanharry
 - Sian Murray 
