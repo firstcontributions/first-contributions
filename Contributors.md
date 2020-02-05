@@ -13,6 +13,9 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
+
+  Arpit
+
 -EdwinVanLeth
 -Mike
 - Yeongyoon Park (https://github.com/ypark66)
