@@ -15,6 +15,7 @@
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
 - Jon Henley
+- Rachael Smith (https://github.com/rachael-smith)
 -EdwinVanLeth
 -Mike
 - Yeongyoon Park (https://github.com/ypark66)
