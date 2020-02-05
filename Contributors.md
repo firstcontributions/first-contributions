@@ -2190,6 +2190,7 @@ saad hassan (https://github.com/saadhassan99)
 - linsurii
 - [mousalerci} (https://github.com/mousalerci)
 - [Prakhar Uniyal](https://github.com/PrakharUniyal)
+- [Allie Landry] (https://github.com/alextylr)
 - [tommy](https://github.com/thoyvo/)
 - [dylan](https://github.com/dhc-sapphire)
 - [Shanto Mathew](https://github.com/shanto12)
