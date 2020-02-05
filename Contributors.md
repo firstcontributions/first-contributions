@@ -19961,3 +19961,4 @@ rehan
 - [Akey Edm] (https://github.com/Akey-Edm)
 - [Andre Y Pegov] (https://github.com/KislyMonk/)
 - [Laks Castro :D] (https://github.com/LaksCastro/)
+- [Alan J Correa] (https://github.com/thealanjason/)
