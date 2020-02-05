@@ -252,6 +252,7 @@ Deepika Padmanabhan
 - Catherine Thomsen
 - Marc Fitzgerald
 - Jui Pradhan
+- Andros Kalou
 - madhm88
 - Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
