@@ -21,6 +21,7 @@
 - Youssef HAJARI (https://github.com/youssefhajari)
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
+- UTQNG
 - Nikhil joshi
 - Michael Geletka
 - Bradley Peterson (https://github.com/bpetersonisme)
