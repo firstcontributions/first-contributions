@@ -437,6 +437,7 @@ Deepika Padmanabhan
 - [Amarachi Iwuh](https://github.com/amarachi97)
 - [Anurag Volety](https://github.com/AnuragVolety)
 - [Youngju Chae](https://github.com/dn1470)
+- [Brian Rui](https://github.com/RuiBrian)
 - [Gary Heffernan](https://github.com/garyHeffernan)
 - [Alejandro Garcia](https://github.com/agc133)
 - [Sachin Mahesh](https://github.com/cyrus303)
