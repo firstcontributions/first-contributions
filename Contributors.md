@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
@@ -6966,6 +6966,7 @@ Aman Panjwani
 - [JuanJoseGonGi](https://github.com/JuanJoseGonGi)
 - [Sai Satwik Kuppili](https://github.com/SaiSatwik)
 - [Taruchit Goyal](https://github.com/taruchit)
+- [Rolf Kristian Andreassen](https://github.com/RolfKr)
 - [bogo-sort](https://github.com/bogo-sort)
 - [Bhuvanachandu](https://github.com/bhuvi99)
 - [Truong Nguyen Anh Hoang](https://github.com/Lucifer99Black)
