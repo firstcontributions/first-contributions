@@ -22,6 +22,7 @@
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
 - UTQNG
+Will-C
 - Nikhil joshi
 - Michael Geletka
 - Bradley Peterson (https://github.com/bpetersonisme)
