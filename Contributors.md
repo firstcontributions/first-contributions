@@ -426,6 +426,7 @@ Deepika Padmanabhan
 - [Archer Fabling](https://github.com/Archie4575)
 - [Ahmed Zahran]
 - [Tony Anzalone]
+- [Benjamin Fawcett](https://github.com/benjaminfawcett)
 - [Heath Robinson](https://github.com/heathexer)
 [Debaditya Dutta](https://github.com/Deb-28)
 - [Dirk Kadijk](https://github.com/dirkkadijk)
