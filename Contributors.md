@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
@@ -19952,6 +19952,7 @@ rehan
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
+- [Sanghoon Kim](https://github.com/Kumahoon)
 - [Marc Delaunay] (https://github.com/DelaMarc)
-- [Philipp Zech] (https://github.com/lokalmatador)
+- [Philipp Zech] (https://github.com/lokalmatad)
 - [Akey Edm] (https://github.com/Akey-Edm)
