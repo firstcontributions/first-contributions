@@ -660,6 +660,7 @@ Deepika Padmanabhan
 - [Paweł Guzik]
 - [Joelle Helm](https://github.com/Joellehelm)
 - [Azron Brian](https://github.com/azronb)
+- [Roman Kastusik](https://github.com/Roman-Ka)
 - [Victor Vermeulen](https://github.com/VictorVermeulen)
 - [Aditya Gupta](https://github.com/6aditya8)
 - [Francesc Pons](https://github.com/fponsar)
