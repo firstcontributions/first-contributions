@@ -16,6 +16,7 @@
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
 - Jon Henley
+- Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
 -EdwinVanLeth
 -Mike
