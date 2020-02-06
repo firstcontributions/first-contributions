@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
@@ -54,6 +54,7 @@ Will-C
 Derek Leach
 - Sanyam Mittal (https://github.com/sanyam142mittal)
 - Wan Nasrul Irfan (https://github.com/TehHatrix)
+- Adrian Romanski (https://github.com/AdrianRomanski)
 - Eric Maddox (https://github.com/maddtech)
 -MarkusWasHere
 - Vitor Madalosso (https://github.com/vmadalosso)
