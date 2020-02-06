@@ -142,6 +142,7 @@ Deepika Padmanabhan
 - [Eyal Ganor] (https://github.com/eyalganor123)
 - [Jason Xie]
 - [Vatsala Jha]
+- [Ayush Aryan] (https://github.com/ayush4712)
 - [Maria Fernandez] (https://github.com/mariahfernnn)
 - [Kan Phongjaroenwit] (https://github.com/kan4k4)
 - [Will] (https://github.com/hyperthread18)
