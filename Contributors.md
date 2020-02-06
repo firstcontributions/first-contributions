@@ -28,6 +28,7 @@
 Will-C
 - Nikhil joshi
 - Michael Geletka
+- Jo Peng (https://github.com/jopeng5)
 - Bradley Peterson (https://github.com/bpetersonisme)
 - Ty Jenkins (https://github.com/Yujiman85)
 - Tom Holmes (https://github.com/tholmes59)
