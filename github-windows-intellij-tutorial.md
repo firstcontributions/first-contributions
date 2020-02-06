@@ -21,11 +21,11 @@ If you don't have IntelliJ IDEA on your machine, [install it](https://www.jetbra
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-Fork this repo by clicking on the fork button on the top right of this page. This will create of copy of this repository in your GitHub account.
+Fork this repo by clicking on the fork button on the top right of this page. This will create a copy of this repository in your GitHub account.
 
 GitHub keeps track of the relationship between your repo and the one you have forked it from. You can think of your repo as a working copy.
 
-Most top-level GitHub repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to ask for their changes to be merged back into the top-level repo. If the top-level repo administrator likes the changes they will be merged and you will gain instant fame and fortune! More on how to do that later.
+Most top-level GitHub Repos (i.e. ones not forked from any other repo) have a small core team of people who can directly commit changes. All other contributors must fork the repo and make changes in the fork, then create a Pull Request to request to merge back their changes into the top-level repo. If the top-level repo administrator approves the changes they will be merged, and you will gain instant fame and fortune! More on how to do that later.
 
 ## Clone your repository
 
@@ -41,9 +41,9 @@ IntelliJ IDEA allows you to check out (in Git terms clone) an existing repositor
 
 From the main menu, choose VCS | Get from Version Control, or, if no project is currently opened, click Get from Version Control on the Welcome screen.
 
-In the Get from Version Control dialog, specify the URL of the remote repository you want to clone (you can click Test to make sure that connection to the remote can be established), or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
+In the Get from Version Control dialog, specify the URL of the remote repository you want to clone (you can click Test to make sure that connection to the remote can be established) or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
 
-Click Clone. If you want to create a IntelliJ IDEA project based on the sources you have cloned, click Yes in the confirmation dialog. Git root mapping will be automatically set to the project root directory.
+Click Clone. If you want to create an IntelliJ IDEA project based on the sources you have cloned, click Yes in the confirmation dialog. Git root mapping will be automatically set to the project root directory.
 
 If your project contains submodules, they will also be cloned and automatically registered as project roots.
 
@@ -51,7 +51,7 @@ If your project contains submodules, they will also be cloned and automatically 
 
 ## Create a branch
 
-In Git, branching is a powerful mechanism that allows you to diverge from the main development line, for example, when you need to work on a feature, or freeze a certain state of a code base for a release, and so on.
+In Git, branching is a powerful mechanism that allows you to diverge from the main development line, for example, when you need to work on a feature or freeze a certain state of a codebase for a release, and so on.
 
 In IntelliJ IDEA, all operations with branches are performed in the Git Branches popup. To invoke it, click the Git widget in the Status bar or press Ctrl+Shift+`.
 
