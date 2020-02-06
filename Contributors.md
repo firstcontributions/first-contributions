@@ -6328,6 +6328,7 @@ Noam Taub
 - [Abhishek Rastogi](https://github.com/abhirastogi)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
 - [Jai Prakash](https://github.com/last-stand)
+- [Tom Beer](https://tom-beer.github.io/)
 - [Josh Fung](https://github.com/custom-status-message)
 - [Jon Taylor](https://github.com/jontaylor224)
 - Duwayne the rock Johnson
