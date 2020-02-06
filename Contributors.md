@@ -19874,7 +19874,7 @@ rehan
 - [Rafael](https://github.com/rafael-cagliari)
 - [Jooseung Song](https://github.com/sjs5904)
 - [JackJackE](https://github.com/mtjin)
--[Estifanos](https://github.com/Estif017)
+- [Estifanos](https://github.com/Estif017)
 - [atoaster](https://github.com/atoaster)
 - [Hugh Winchester](https://github.com/hughwin)
 - [Derek Salerno](https://github.com/dereksalerno)
@@ -19927,6 +19927,7 @@ rehan
 - [Louie Pascual](https://github.com/louiepascual)
 - [Rodrigo Bondoc](https://github.com/rbondoc28)
 - [DM]
+- [kovashad](https://github.com/kovashad)
 - [cloudXA](https://cloudXA)
 - [Tyler Noble](https://NobleTyler.github.io)
 - [John Carlo Gutierrez](https://github.com/MarcelloCarlo)
@@ -19985,4 +19986,4 @@ rehan
 - [Andre Y Pegov] (https://github.com/KislyMonk/)
 - [Laks Castro :D] (https://github.com/LaksCastro/)
 - [Alan J Correa] (https://github.com/thealanjason/)
-  [Kristopher Doidge] (https://github.com/kris-doidge)
+- [Kristopher Doidge] (https://github.com/kris-doidge)
