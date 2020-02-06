@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
@@ -10922,6 +10922,7 @@ Aman Panjwani
 - [luisslanca](https://github.com/luisslanca)
 - [Mohamed Gomaa](https://github.com/mrgomaa)
 - [James Lave](https://github.com/jameslave)
+- [paapz](https://github.com/lucid-dreem)
 - [Rovaron](https://github.com/Rovaron)
 - [KayrabCebll](https://github.com/kayrabCebll)
 - [Augusto Queiroz](https://github.com/AugustoQueiroz)
