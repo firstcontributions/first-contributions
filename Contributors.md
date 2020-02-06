@@ -1,4 +1,5 @@
 # Contributors
+- Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
