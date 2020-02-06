@@ -4444,6 +4444,7 @@ Noam Taub
 - Muhammad Jamshed
 - Masahiro
 - [Raymond Lo](https://github.com/rayy-lo)
+- [Ahmad Ali](https://github.com/aa947)
 - Jerry Zhang
 - Darrin Deal
 - [Samuele Bella](https://github.com/Novaenn)
