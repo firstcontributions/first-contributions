@@ -23,6 +23,7 @@
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
 - Youssef HAJARI (https://github.com/youssefhajari)
+- Nikita Moonen (https://github.com/nikkiita)
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
 - UTQNG
