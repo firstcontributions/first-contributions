@@ -1,6 +1,7 @@
 # Contributors
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
+- Nick B (https://github.com/ceramicskull)
 - Somal Chakraborty(https://github.com/SomalRudra)
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
