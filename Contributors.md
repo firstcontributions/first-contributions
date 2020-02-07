@@ -527,6 +527,7 @@ Deepika Padmanabhan
 - [Paul Gordon](https://github.com/pgordon89)
 - [Amédée DERA](https://github.com/a-dera)
 - [Paulo de Tarso Vilarinho Castelo Branco Filho](https://github.com/PauloVilarinho)
+- [Walton Tseng](https://github.com/WaSorX)
 - [Ismail Tlemcani](https://github.com/Ismailtlem)
 - [Shrey Sharma](https://github.com/shrey-sharma2202)
 - [doyoun Jeong](https://github.com/ooyuo)
