@@ -262,6 +262,7 @@ Deepika Padmanabhan
 - [Mohamed El Amri](https://github.com/elamrimohamed)
 - Alper Battal
 - Adnan Ashraf
+- Yunus Bahtiar
 - Wilson Horrell
 - David Lui
 - Catherine Thomsen
