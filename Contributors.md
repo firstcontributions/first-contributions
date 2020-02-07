@@ -94,6 +94,7 @@ Derek Leach
 - Bailey C Cheung (https://github.com/bcg73)
 - Marco Canto (https://github.com/marcocanto)
 - Vitor Rigolon (https://github.com/vrigolon)
+- [Samuel T Almeida](https://github.com/samuelTheAlmeida)
 - Paul Kang (https://github.com/pkang29)
 - Samyak Shreyash (https://github.com/SamyakHacker)
 - Balaji Soundararajan (https://github.com/soundarb)
@@ -19989,3 +19990,4 @@ rehan
 - [Alan J Correa] (https://github.com/thealanjason/)
   [Kristopher Doidge] (https://github.com/kris-doidge)
 - [Changnoi97] (https://github.com/RioRocker97)
+- [Adam Morrissett] (https://github.com/MeelonUsk)
