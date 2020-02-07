@@ -17,6 +17,7 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
+- [Yarooob Al Mostafa](https://github.com/Yarob50)
 - Jon Henley
 - Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
