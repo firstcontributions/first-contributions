@@ -16646,6 +16646,7 @@ macdara-dev
 - [Dominic Cooper-Wootton](https://github.com/DrGrimshaw)
 - [Amy Nott](https://github.com/majorkira)
 - [TheDreamSaver](https://github.com/TheDreamSaver)
+- [Patrick Crowe](https://github.com/pcrowe22)
 - [Jon Tonti](https://github.com/jtontiwith)
 - [Ajmal hassan](https://github.com/Ajmal-hassan)
 - [Mouffy](https://github.com/mcampourcy)
