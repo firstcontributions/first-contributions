@@ -797,6 +797,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Matthew Mercuri](https://github.com/matthewmercuri)
 - [Mez Charney](https://github.com/mezzolite)
 - [Archna](https://github.com/Niagara1000)
+- [Chethan](https://github.com/chethan477)
 - [Felix](https://github.com/Admiralfe)
 - [Prince](https://github.com/Prince-Shivaram)
 - [Neto S' Ana](https://github.com/Neto-SantAna)
