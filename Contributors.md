@@ -2467,6 +2467,7 @@ Haris Siddiqui
 - Christian Torbica
 - Victoria B
 - linn
+- another first-timer
 - [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
