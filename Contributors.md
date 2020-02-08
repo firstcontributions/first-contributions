@@ -13,6 +13,7 @@
 - Jeff Lu (https://github.com/HiIamJeff)
 - AmujoDotun (https://github.com/AmujoDotun)
 - Amin Elhami (https://github.com/Amin747)
+- Rythm Agarwal
 - Vojtech Vanek (https://github.com/Vanevo00)
 - Abby Lemon (https://github.com/abbylemon)
 - Apiwat Chuaphan (https://github.com/apiwatc)
