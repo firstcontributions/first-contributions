@@ -997,6 +997,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Rich W](https://github.com/RichFoo)
 - [Édio Cerati Neto](https://github.com/darthHunterous)
+- [Kayla Noronha](https://github.com/K-Noronha "Kayla's Github")
 - [Racim Righi](https://github.com/RacimRgh)
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
 - [Prashant Bhat](https://github.com/bhatprashant)
