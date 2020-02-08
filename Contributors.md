@@ -186,6 +186,7 @@ Deepika Padmanabhan
 - [Leon Skrilec](https://github.com/LeonSkrilec/)
 - [Ryan Talbot](https://github.com/ryanjtalbot)
 - [Jorge Luis R. R. Junior] (https://github.com/mindravens)
+- [Freeman Senecharles] (https://github.com/bane163)
 - [Cyrus Rohail] (https://github.com/Abe101)
 - [Garrett Lee Noble] (https://github.com/GarrettNoble)
 - [Ian Gallagher] (https://github.com/igallag)
