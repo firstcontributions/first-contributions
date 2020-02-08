@@ -25,6 +25,7 @@
 -EdwinVanLeth
 - Ash Fairley
 -Mike
+-Linus
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
