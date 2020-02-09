@@ -43,6 +43,7 @@ Will-C
 - Nikhil joshi
 - Bethany Roberts 
 - Michael Geletka
+- Warren Harper
 - Jo Peng (https://github.com/jopeng5)
 - Bradley Peterson (https://github.com/bpetersonisme)
 - Ty Jenkins (https://github.com/Yujiman85)
