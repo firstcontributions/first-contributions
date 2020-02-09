@@ -298,6 +298,7 @@ Deepika Padmanabhan
 - [Basem Mostafa] (https://github.com/Basem98)
 - [Miha Drofenik](https://github.com/Burzo)
 - [Asrori](https://github.com/Asrori)
+- [H Srinivas](https://github.com/ShrineExplorer)
 - [VTDac] (https://github.com/vtdac)
 - [yasamnoya](https://github.com/yasmnoya)
 - [Rohit sharma] (https://github.com/ROHIT318)
