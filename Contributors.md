@@ -1,6 +1,7 @@
 # Contributors
 - Noemptytags
 - Tanish Malekar (https://github.com/tanish-malekar)
+- Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
 - Solomon Selvakumar (https://github.com/solozzz)
