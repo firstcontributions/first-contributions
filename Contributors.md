@@ -20020,6 +20020,7 @@ rehan
 - [Alesha Ray] (https://github.com/alesharay)
 - [Ogooluwa Akinola](https://github.com/rovilay)
 - furkan
+- [Dmitry Soldakin] (https://github.com/dsoldatkin)
 - [Tanish Malekar](https://github.com/tanish-malekar)
 - [Aayush Shrivastava](https://github.com/aayushbest)
 - [Éden Pereira](https://github.com/edenpsilva)
