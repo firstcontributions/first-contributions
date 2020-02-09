@@ -23,6 +23,7 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
+- Helder Jefferson Ferreira da Luz (https://github.com/Helderjfl)
 - [Yarooob Al Mostafa](https://github.com/Yarob50)
 - Jon Henley
 - Sean Tuttle (https://github.com/vandysean)
