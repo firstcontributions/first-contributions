@@ -25,6 +25,7 @@
 | 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
+| :cambodia: | [ភាសាខ្មែរ](README.km.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
 | 🇩🇪  | [Deutsch](README.de.md) |
 | 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |

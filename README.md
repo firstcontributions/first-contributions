@@ -36,6 +36,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇮🇹](translations/README.it.md)
 [🇯🇵](translations/README.ja.md)
 [🇰🇪](translations/README.kws.md)
+[:cambodia:](translations/README.km.md)
 [🇰🇷 🇰🇵](translations/README.ko.md)
 [🇱🇹](translations/README.lt.md)
 [🇲🇩 🇷🇴](translations/README.ro.md)

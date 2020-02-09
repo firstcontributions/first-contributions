@@ -30,6 +30,7 @@
 - [Nicholas Pandelakis] (https://github.com/npandelakis)
 - [Jeffrey Chow] (https://github.com/chow1340)
 - [Shakil Alam] (https://github.com/itxshakiil)
+- [Sophal Hong] (https://github.com/sophalHong)
 - [AlvaroVM](https://github.com/vmalvaro)
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Trisha Gupta]
