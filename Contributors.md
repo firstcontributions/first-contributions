@@ -1,5 +1,6 @@
 # Contributors
 - Amon Peter (https://github.com/AmonPeter)
+- Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Noemptytags
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Andrus Kessel (https://github.com/antant314)
