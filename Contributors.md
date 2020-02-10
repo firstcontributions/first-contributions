@@ -31,6 +31,7 @@
 - Sean Lamb (https://github.com/seanlamb)
 -EdwinVanLeth
 - Ash Fairley
+- [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Linus
 - Yeongyoon Park (https://github.com/ypark66)
