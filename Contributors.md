@@ -20027,3 +20027,4 @@ rehan
 - [Aayush Shrivastava](https://github.com/aayushbest)
 - [Éden Pereira](https://github.com/edenpsilva)
 - [Robert Rodgers](https://github.com/rodge54)
+- [Shawn McAllister](https://github.com/ShawnMcA)
