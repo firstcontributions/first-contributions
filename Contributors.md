@@ -142,6 +142,7 @@ Deepika Padmanabhan
 - Floyd Askew (https://github.com/MrAskew)
 - Sachi Grannan (https://github.com/sachix1001)
 - Vivek Singh Bisht (https://github.com/Bviveksingh)
+- Abdulla Donmez(https://github.com/AColtZz)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
