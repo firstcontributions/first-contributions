@@ -1,4 +1,5 @@
 # Contributors
+- Amon Peter (https://github.com/AmonPeter)
 - Noemptytags
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Andrus Kessel (https://github.com/antant314)
