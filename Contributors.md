@@ -28,6 +28,7 @@
 - Jon Henley
 - Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
+- Sean Lamb (https://github.com/seanlamb)
 -EdwinVanLeth
 - Ash Fairley
 -Mike
