@@ -7,7 +7,7 @@
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
-- Nazri Yahya 
+- Nazri Yahya
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - AmujoDotun (https://github.com/AmujoDotun)
@@ -46,13 +46,13 @@ Will-C
 - Tejasri Kadari (https://github.com/tejasri28)
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
 - Dan Piazza (https://github.com/DanielJPiazza)
--pat mcdermott
 - Punit Patel (https://github.com/punitpatel2601)
+-pat mcdermott
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Jhamere Wilson (https://github.com/JhamereWilson)
 - Minuth Prom (https://github.com/minuth)
@@ -81,7 +81,7 @@ Derek Leach
 - Shannon Murphy
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - Keri Goltz
@@ -19996,3 +19996,4 @@ rehan
 - [Changnoi97] (https://github.com/RioRocker97)
 - [Pushpender Aggarwal] (https://github.com/pushpender-aggarwal)
 - [H Knee] (https://github.com/OmKneescient)
+- [Noel Figart] (https://github.com/NoelFigart)
