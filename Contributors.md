@@ -4959,6 +4959,7 @@ Noam Taub
 - Marjakuusi
 - NuclearApe
 - Gloria Ojukwu
+- Thomas G (https://github.com/itoi06)
 - [Chaz](https://github.com/chaz303)
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Nikhil Bansal](https://github.com/NikhilBansal1999)
