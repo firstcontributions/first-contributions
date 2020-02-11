@@ -4,6 +4,7 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Noemptytags
 - Tanish Malekar (https://github.com/tanish-malekar)
+- Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
@@ -98,6 +99,7 @@ Derek Leach
 - Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
 - Shannon Murphy
+- Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
 - Sian Murray 
@@ -126,6 +128,7 @@ Derek Leach
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Son Thach (https://github.com/hson011011)
 - James Myers
+- Will Constable (https://github.com/Will130785)
 - Syed Aslam
 Deepika Padmanabhan
 - DuongDao daokiem (https://github.com/duongkstn)
@@ -277,6 +280,7 @@ Deepika Padmanabhan
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
 - [Payton Jewell] (https://github.com/paytonjewell)
 -[Joshua Goossen] (https://github.com/Goosse)
+- [Oleksii Zhytnyk] (https://github.com/zhtnk)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Adithya TP] (https://github.com/adithya-tp)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
@@ -20046,3 +20050,4 @@ rehan
 - [Vasilis Siomos](https://github.com/vasilis-siomos)
 - [Joon Park](https://github.com/andifer702)
 - [Thatchakon J](https://github.com/dsjin)
+- [Heron Zhang](https://github.com/HeronZhang)
