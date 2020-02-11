@@ -1,4 +1,7 @@
 # Contributors
+- Harsh Srivastava (https://github.com/harsh-sri)
+- Amon Peter (https://github.com/AmonPeter)
+- Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Noemptytags
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Andrus Kessel (https://github.com/antant314)
@@ -15,8 +18,10 @@
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
+- Nicolas Maximiliano Caruso (https://github.com/Valkyries12)
 - AmujoDotun (https://github.com/AmujoDotun)
 - Amin Elhami (https://github.com/Amin747)
+- Aminu Abdulmalik (https://github.com/miawoltn)
 - Rythm Agarwal
 - Vojtech Vanek (https://github.com/Vanevo00)
 - Abby Lemon (https://github.com/abbylemon)
@@ -29,8 +34,11 @@
 - Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
 - Sean Lamb (https://github.com/seanlamb)
+- Preeti Sharma
 -EdwinVanLeth
 - Ash Fairley
+- Hank Liu (https://github.com/junxingliu)
+- [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Linus
 - Yeongyoon Park (https://github.com/ypark66)
@@ -139,6 +147,7 @@ Deepika Padmanabhan
 - Floyd Askew (https://github.com/MrAskew)
 - Sachi Grannan (https://github.com/sachix1001)
 - Vivek Singh Bisht (https://github.com/Bviveksingh)
+- Abdulla Donmez(https://github.com/AColtZz)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
 - Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
@@ -281,6 +290,7 @@ Deepika Padmanabhan
 - Wilson Horrell
 - David Lui
 - Catherine Thomsen
+- Jordan Fite
 - Marc Fitzgerald
 - Jui Pradhan
 - Andros Kalou
@@ -654,10 +664,10 @@ Deepika Padmanabhan
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-<<<<<<< HEAD
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
+- [Antonio Foushee](https://github.com/ToniTepes)
 - [Mohit](https://github.com/newbiemohit)
 - [Jayanthi Palanichamy](jayanthi.palanichamy1997@gmail.com)
 - [Gavin OLeary]
@@ -4956,6 +4966,7 @@ Noam Taub
 - Marjakuusi
 - NuclearApe
 - Gloria Ojukwu
+- Thomas G (https://github.com/itoi06)
 - [Chaz](https://github.com/chaz303)
 - [Francisco Vargas](https://github.com/fjvarg4k)
 - [Nikhil Bansal](https://github.com/NikhilBansal1999)
@@ -20005,6 +20016,7 @@ rehan
 - [Xuan](https://github.com/Danissss)
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
+- Freedom0001
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
@@ -20026,6 +20038,11 @@ rehan
 - [Tanish Malekar](https://github.com/tanish-malekar)
 - [Aayush Shrivastava](https://github.com/aayushbest)
 - [Éden Pereira](https://github.com/edenpsilva)
+- [Md Rathik](https://github.com/mdrathik)
 - [Robert Rodgers](https://github.com/rodge54)
 - [Shawn McAllister](https://github.com/ShawnMcA)
-- [José Aguilera](https://github.com/jsaguilera12)
+- [José Aguilera](https://github.com/jsaguilera1
+- [Seo CheongUn](https://github.com/newdeal123)
+- [Vasilis Siomos](https://github.com/vasilis-siomos)
+- [Joon Park](https://github.com/andifer702)
+- [Thatchakon J](https://github.com/dsjin)
