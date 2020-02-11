@@ -80,11 +80,11 @@ Derek Leach
 - Adrian Romanski (https://github.com/AdrianRomanski)
 - Eric Maddox (https://github.com/maddtech)
 -MarkusWasHere
-- Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
 - Allen Deckert(https://github.com/adeckert1010)
 - Lennart Blumentrath (https://github.com/lennizle)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
+- Vitor Madalosso (https://github.com/vmadalosso)
 - Seuymour utts
 - Shivam Gupta
 - Sean Collins (https://github.com/seanmcollins)
