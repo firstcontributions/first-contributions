@@ -27,7 +27,8 @@
 - Apiwat Chuaphan (https://github.com/apiwatc)
 - Jai Mistry (https://github.com/jaimistry)
 - Andreas Eibert
- [Yarooob Al Mostafa](https://github.com/Yarob50)
+- Helder Jefferson Ferreira da Luz (https://github.com/Helderjfl)
+- [Yarooob Al Mostafa](https://github.com/Yarob50)
 - Jon Henley
 - Sean Tuttle (https://github.com/vandysean)
 - Rachael Smith (https://github.com/rachael-smith)
@@ -20012,6 +20013,7 @@ rehan
 - [Xuan](https://github.com/Danissss)
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
+- Freedom0001
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
@@ -20037,4 +20039,3 @@ rehan
 - [Shawn McAllister](https://github.com/ShawnMcA)
 - [Seo CheongUn](https://github.com/newdeal123)
 - [Vasilis Siomos](https://github.com/vasilis-siomos)
-- Freedom0001
