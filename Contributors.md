@@ -36,6 +36,7 @@
 - Sean Lamb (https://github.com/seanlamb)
 -EdwinVanLeth
 - Ash Fairley
+- Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Linus
