@@ -16,6 +16,7 @@
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
 - Nazri Yahya 
+- Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
