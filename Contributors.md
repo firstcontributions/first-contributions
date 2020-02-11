@@ -289,6 +289,7 @@ Deepika Padmanabhan
 - Wilson Horrell
 - David Lui
 - Catherine Thomsen
+- Jordan Fite
 - Marc Fitzgerald
 - Jui Pradhan
 - Andros Kalou
