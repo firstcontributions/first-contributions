@@ -780,6 +780,7 @@ Deepika Padmanabhan
 - [Andrew Attard](https://github.com/attard-andrew)
 - [Bhanu V Gupta](https://github.com/Bhanu-mbvg)
 - [Vishal]
+- [Sebastian Montero](https://github.com/stealth-insights)
 - [Joern Bollmeyer]
 - [Jason Bourne]
 - [Jason Bourne the Second]
