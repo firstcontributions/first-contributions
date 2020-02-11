@@ -277,6 +277,7 @@ Deepika Padmanabhan
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
 - [Payton Jewell] (https://github.com/paytonjewell)
 -[Joshua Goossen] (https://github.com/Goosse)
+- [Oleksii Zhytnyk] (https://github.com/zhtnk)
 - [Stanley Chu] (https://github.com/YBSker)
 - [Adithya TP] (https://github.com/adithya-tp)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
