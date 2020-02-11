@@ -1,4 +1,4 @@
-﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
@@ -10,7 +10,9 @@
 
 প্রবন্ধ পড়ে এবং টিউটোরিয়াল দেখে অনেক কিছুই শেখা যায়, কিন্তু ব্যবহারিক পদ্ধতিতে কাজ করার চেয়ে ভালো কিছু হতে পারে না। এই প্রজেক্টের লক্ষ্য হচ্ছে নবীনদের দিকনির্দেশনা দেওয়া আর সেই সাথে তাদের প্রথম অবদান রাখার কাজটি সহজ করে তোলা। আপনি যদি ওপেন সোর্সে আপনার প্রথম অবদান রাখতে চান, তাহলে নিচের সহজ ধাপগুলো অনুসরণ করুন। কথা দিচ্ছি, এই প্রক্রিয়াটি অত্যন্ত মজার ও আনন্দদায়ক।
 
-#### *এই লেখাটি [অন্য ভাষায়  পড়ুন]translations/Translations.md). 
+#### *কমান্ড লাইন ইন্টারফেস এ স্বাচ্ছন্দ্য বোধ না করলে, [এখান থেকে গ্রাফিকাল ইন্টারফেস দিয়ে কিভাবে কাজ টি করতে হয় তার টিউটোরিয়াল দেখুন।]( #অন্যান্য-টুল-ব্যবহারের-টিউটোরিয়াল )*
+
+#### *এই লেখাটি [অন্য ভাষায়  পড়ুন।](translations/Translations.md)*
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
