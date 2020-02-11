@@ -15,7 +15,7 @@
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
-- Nazri Yahya 
+- Nazri Yahya
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
@@ -40,7 +40,7 @@
 -EdwinVanLeth
 - Ash Fairley
 - Hank Liu (https://github.com/junxingliu)
-- [Aditya Singh](https://github.com/Aditya1001001) 
+- [Aditya Singh](https://github.com/Aditya1001001)
 -Mike
 -Linus
 - Yeongyoon Park (https://github.com/ypark66)
@@ -53,7 +53,7 @@
 - UTQNG
 Will-C
 - Nikhil joshi
-- Bethany Roberts 
+- Bethany Roberts
 - Michael Geletka
 - Warren Harper
 - Jo Peng (https://github.com/jopeng5)
@@ -67,7 +67,7 @@ Will-C
 - Tejasri Kadari (https://github.com/tejasri28)
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -103,7 +103,7 @@ Derek Leach
 - Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
@@ -270,6 +270,7 @@ Deepika Padmanabhan
 - [Oindrila Barik] (https://github.com/oindrilabarik14)
 - [Manuel Puchades] (https://github.com/neletdev)
 - [Ross Baker] (https://github.com/r0ss26)
+- [Marco Gutierrez] (https://github.com/MarcoGutierrez)
 - [Roberto](https://github.com/rdm100)
 - [Rashik Adhikari] (https://github.com/rashik06)
 -[Nikhil Richard] (https://github.com/nikhilr5)
