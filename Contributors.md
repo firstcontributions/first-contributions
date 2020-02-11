@@ -25,6 +25,7 @@
 - Amin Elhami (https://github.com/Amin747)
 - Aminu Abdulmalik (https://github.com/miawoltn)
 - Rythm Agarwal
+- Evan P (https://github.com/evanmpicard)
 - Vojtech Vanek (https://github.com/Vanevo00)
 - Abby Lemon (https://github.com/abbylemon)
 - Apiwat Chuaphan (https://github.com/apiwatc)
