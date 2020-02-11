@@ -99,6 +99,7 @@ Derek Leach
 - Camila Gomez Schrader (https://github.com/camila0216)
 - Sakshi Gupta
 - Shannon Murphy
+- Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
 - Sian Murray 
