@@ -80,7 +80,6 @@ Derek Leach
 - Adrian Romanski (https://github.com/AdrianRomanski)
 - Eric Maddox (https://github.com/maddtech)
 -MarkusWasHere
-- Vitor Madalosso (https://github.com/vmadalosso)
 - Brian Smith (https://github.com/LuosRestil)
 - Allen Deckert(https://github.com/adeckert1010)
 - Lennart Blumentrath (https://github.com/lennizle)
@@ -211,6 +210,7 @@ Deepika Padmanabhan
 - [Parker Downing] (https://github.com/parkerd21)
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Sahil Siddiq] (aka Valdaarhun)
+- Vitor Madalosso (https://github.com/vmadalosso)
 - [Edward Hwang] (https://github.com/edwardlhwang)
 - [Cam Makin] (https://github.com/cammakin)
 - [Azalea Vaseghi] (https://github.com/avaseghi)
