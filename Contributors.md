@@ -20014,6 +20014,7 @@ rehan
 - [Xuan](https://github.com/Danissss)
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
+- Freedom0001
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
