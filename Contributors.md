@@ -20038,6 +20038,7 @@ rehan
 - [Tanish Malekar](https://github.com/tanish-malekar)
 - [Aayush Shrivastava](https://github.com/aayushbest)
 - [Éden Pereira](https://github.com/edenpsilva)
+- [Md Rathik](https://github.com/mdrathik)
 - [Robert Rodgers](https://github.com/rodge54)
 - [Shawn McAllister](https://github.com/ShawnMcA)
 - [Seo CheongUn](https://github.com/newdeal123)
