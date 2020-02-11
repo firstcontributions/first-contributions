@@ -128,6 +128,7 @@ Derek Leach
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Son Thach (https://github.com/hson011011)
 - James Myers
+- Will Constable (https://github.com/Will130785)
 - Syed Aslam
 Deepika Padmanabhan
 - DuongDao daokiem (https://github.com/duongkstn)
