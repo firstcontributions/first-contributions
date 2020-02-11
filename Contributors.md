@@ -300,6 +300,7 @@ Deepika Padmanabhan
 - Jui Pradhan
 - Andros Kalou
 - madhm88
+- noamgot
 - Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
 - Michael Fernez (https://github.com/mjfernez)
