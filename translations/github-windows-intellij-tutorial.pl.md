@@ -66,7 +66,7 @@ Nowa gałąź rozpocznie się od pozycji wartości wskaźnika HEAD. Jeśli chces
 
 ## Dokonaj niezbędnych zmian
 
-Otwórz `Contributors.md` i dopisz swoje imię i nazwisko gdziekolwiek w pliku. Ten plik zawiera GFM (GitHub Flavored Markdown), który jest zastrzeżonym formatem składni<a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
+Otwórz `Contributors.md` i dopisz swoje imię i nazwisko gdziekolwiek w pliku. Ten plik zawiera GFM (GitHub Flavored Markdown), który jest zastrzeżonym formatem składni <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a>.
 
 Skopiuj jedną z linii kontrybutorów, zmodyfikuj go swoim nazwiskiem, aby upewnić się, że masz poprawną składnię - może być wybredna.
 
@@ -106,11 +106,10 @@ Gratulacje! Właśnie ukończyłeś standardowy proces roboczy _rozgałęzienie 
 
 Możesz dołączyć do naszego zespołu na Slack'u, jeśli potrzebujesz pomocy lub masz pytania.. [Dołącz do Slack'a](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Teraz zacznij od udziału w innych projektach. Zebraliśmy listę projektów z łatwymi problemami, od których możesz zacząć. Sprawdź [listę projektów na stronie](https://roshanjossey.github.io/first-contributions/#project-list).
+Teraz zacznij od udziału w innych projektach. Zebraliśmy listę projektów z łatwymi problemami, od których możesz zacząć. Sprawdź [listę projektów.](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [Materiały dodatkowe](additional-material/git_workflow_scenarios/additional-material.md)
 
-## Poradnik przy użyciu innych narzędzi
 [Powrót do strony głównej](README.md)
 
 ## Autopromocja
