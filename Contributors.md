@@ -791,6 +791,7 @@ Deepika Padmanabhan
 - [Joern Bollmeyer]
 - [Jason Bourne]
 - [Jason Bourne the Second]
+- [Will Barnard](https://github.com/mrwillbarnz)
 - [Manny102030]
 - [EvilTrtl]
 - [Sandro Sp]
