@@ -1330,6 +1330,7 @@ Joseph Tran
 - [Chaz Lambert](https://github.com/chaz-lambert)
 - [Rajendra Prajapat](https://github.com/rajpra786)
 - [Gagandeep singh](https://github.com/gagan0183)
+- [Harshak Krishnaa K](https://github.com/Harshak777)
 - [Swati Choudhary](https://github.com/SwatiChoudhary695)
 - [Vipul Goyal](https://github.com/vips28)
 - [Christabel Khumalo](https://github.com/Aurorabell)
