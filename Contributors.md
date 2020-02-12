@@ -18,7 +18,7 @@
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
-- Nazri Yahya 
+- Nazri Yahya
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
@@ -44,7 +44,7 @@
 -EdwinVanLeth
 - Ash Fairley
 - Hank Liu (https://github.com/junxingliu)
-- [Aditya Singh](https://github.com/Aditya1001001) 
+- [Aditya Singh](https://github.com/Aditya1001001)
 -Mike
 -Linus
 - Revenge (https://github.com/RevengeDude/first-contributions)
@@ -58,7 +58,7 @@
 - UTQNG
 Will-C
 - Nikhil joshi
-- Bethany Roberts 
+- Bethany Roberts
 - Michael Geletka
 - Warren Harper
 - Jo Peng (https://github.com/jopeng5)
@@ -72,7 +72,7 @@ Will-C
 - Tejasri Kadari (https://github.com/tejasri28)
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -108,7 +108,7 @@ Derek Leach
 - Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
@@ -184,6 +184,7 @@ Deepika Padmanabhan
 - [Kan Phongjaroenwit] (https://github.com/kan4k4)
 - [Will] (https://github.com/hyperthread18)
 - [Anthony Le](https://github.com/hauscloud)
+- [Elena Lettner](https://github.com/elenalettner)
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
