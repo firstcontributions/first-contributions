@@ -1,5 +1,6 @@
 # Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
+- Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Noemptytags
