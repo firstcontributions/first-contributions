@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
@@ -14740,6 +14740,7 @@ macdara-dev
 - [Emilio Bernal](https://github.com/eBernalZ)
 - [Devjyoti Datta](https://github.com/Dev05)
 - [Charlotte Newcomer](https://github.com/FamNew)
+- [Maxime Dionne](https://github.com/maxdionne)
 - [Ron Forbes](https://github.com/ronforbes)
 - [Jack Mead](https://github.com/JM3ad)
 - [Elijah Templeton](https://github.com/AutoluxAfter)
