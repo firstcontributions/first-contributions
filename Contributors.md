@@ -44,6 +44,7 @@
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Linus
+- Revenge (https://github.com/RevengeDude/first-contributions)
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
