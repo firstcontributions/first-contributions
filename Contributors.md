@@ -161,6 +161,7 @@ Deepika Padmanabhan
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - Sahil Patel (https://github.com/sahilpatel18)
 - [Travis Ricks](https://github.com/travisricks)
+- [Urtea] (https://github.com/Urtea)
 - Alex Thompson (https://github.com/amthomps11)
 - Yamini Rangarajan (https://github.com/YaminiRangarajan)
 - [Max Robinson] (https://github.com/MaxamillianRN)
