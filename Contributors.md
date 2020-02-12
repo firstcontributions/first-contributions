@@ -5,6 +5,7 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Noemptytags
 - Anuraj Guha
+- Jot
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Andrus Kessel (https://github.com/antant314)
