@@ -5777,6 +5777,7 @@ Noam Taub
 - [Pranoppal](https://github.com/pranoppal)
 - [Moses613](https://github.com/Moses613)
 - Jason
+- Ori M
 - [Alvaro Cueva](https://github.com/varopxndx)
 - Dhruv
 - Darion Toney
