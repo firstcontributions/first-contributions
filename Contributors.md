@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
@@ -20053,6 +20053,7 @@ rehan
 - [Philipp Zech] (https://github.com/lokalmatador)
 - [Shubham Dubey](https://github.com/Shubham-Git-Hub)
 - [Akey Edm] (https://github.com/Akey-Edm)
+- [Perry Chan] (https://github.com/clhperry)
 - [Andre Y Pegov] (https://github.com/KislyMonk/)
 - [Laks Castro :D] (https://github.com/LaksCastro/)
 - [Alan J Correa] (https://github.com/thealanjason/)
@@ -20075,3 +20076,4 @@ rehan
 - [Joon Park](https://github.com/andifer702)
 - [Thatchakon J](https://github.com/dsjin)
 - [Heron Zhang](https://github.com/HeronZhang)
+
