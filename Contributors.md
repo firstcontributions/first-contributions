@@ -10548,6 +10548,7 @@ Aman Panjwani
 - [Marcos Wesley](https://github.com/Marcos314)
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Rúben Lopes](https://github.com/benmpl)
+- [Luca Cambi](https://github.com/lucaCambi77)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull](https://github.com/bahull)
 - [Rudy Olsson](https://github.com/rudyolsson)
