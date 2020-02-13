@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
@@ -19,6 +19,7 @@
 - Chris Otter(https://github.com/cotter3/)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
+- Maurizio van der Werf (https://github.com/Maurizio1986)
 - Nazri Yahya 
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
