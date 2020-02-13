@@ -23,6 +23,7 @@
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
+- Bulat Sultanov
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Nicolas Maximiliano Caruso (https://github.com/Valkyries12)
