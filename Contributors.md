@@ -2772,6 +2772,7 @@ Kebana Modise
 - Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
+- [Caspar Fuller](https://github.com/cjf-fuller) 
 - Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
