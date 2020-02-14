@@ -19274,6 +19274,7 @@ Mário Baltazar
 - [Shane Lonergan](https://github.com/shanelonergan)
 - [Cristian Malacarne huff](https://github.com/cristianhuff)
 - Martin Cernohorsky
+- Jason Funderburker :frog:
 - Matheus Azzi
 - Matheus Spaniol
 - Ankit Beniwal (https://github.com/pagalprogrammer)
