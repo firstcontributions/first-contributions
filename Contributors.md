@@ -11,8 +11,9 @@
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Bill E
-- akshay naidu 
+- akshay naidu
 - Mike Vinoski (https://github.com/acidrain777)
+- Martin Au-yeung (https://github.com/Foamyseal)
 - Solomon Selvakumar (https://github.com/solozzz)
 - Nick B (https://github.com/ceramicskull)
 - Somal Chakraborty(https://github.com/SomalRudra)
@@ -21,7 +22,7 @@
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
 - Maurizio van der Werf (https://github.com/Maurizio1986)
-- Nazri Yahya 
+- Nazri Yahya
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
@@ -50,7 +51,7 @@
 -EdwinVanLeth
 - Ash Fairley
 - Hank Liu (https://github.com/junxingliu)
-- [Aditya Singh](https://github.com/Aditya1001001) 
+- [Aditya Singh](https://github.com/Aditya1001001)
 -Mike
 -Linus
 - Revenge (https://github.com/RevengeDude/first-contributions)
@@ -64,7 +65,7 @@
 - UTQNG
 Will-C
 - Nikhil joshi
-- Bethany Roberts 
+- Bethany Roberts
 - Michael Geletka
 - Warren Harper
 - Jo Peng (https://github.com/jopeng5)
@@ -79,7 +80,7 @@ Will-C
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
 - Lokman Ahmad (https://github.com/VeLoct84)
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -115,7 +116,7 @@ Derek Leach
 - Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
