@@ -20034,6 +20034,7 @@ rehan
 - [Pranjal Dave](https://github.com/davePranjal)
 - [SMBITZ](https://github.com/smbitz)
 - [Faith Oyedemi](https://github.com/lere01)
+- [treefortmaniac](https://github.com/Maniac7)
 - [jconnpow](https://github.com/jconnpow)
 - [Nel Milenkovic](https://github.com/NemanjaMilenkovic)
 - [Sarah Ting](https://github.com/sarahjting)
