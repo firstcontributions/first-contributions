@@ -18460,6 +18460,7 @@ Shenyi Amand
 - [Anish Sharma] (https://github.com/aneeshsharma/)
 - [Sunder Eshwar] (https://github/sundereshwar/)
 - [Juan Sergio Buenviaje] (https://github/lockjio/)
+- [João Correia](https://github.com/jpcorreia99)
 - [Dimas Nurhilman] (https://github.com/Dimzt)
 - [Achyuth R] (https://github.com/Achyuth-R)
 - [Moises Trigueros] (https://github.com/MoisesTR)
