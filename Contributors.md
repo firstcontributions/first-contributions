@@ -203,6 +203,7 @@ Deepika Padmanabhan
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Daman Deep Singh] (https://github.com/ddsb01)
+- [Hideki Ishiguro](https://github.com/hideckies)
 - [Amanda Taylor] (https://github.com/ataylor)
 - [Christophe Meyering] (https://github.com/ChrisMeyering)
 - Maryam Nawaz (https://github.com/mjemnawaz)
