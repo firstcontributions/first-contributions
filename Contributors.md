@@ -9997,6 +9997,7 @@ Aman Panjwani
 - [webgene](https://github.com/webgene)
 - [solodynamo](https://github.com/solodynamo)
 - [nicolas oppitz](https://github.com/nickoppitz)
+- [Jitendra Khadse] (https://github.com/jitendrakhadse)
 - [wilgjah](https://github.com/wilkinv)
 - [dwilson88](https://github.com/dlwilson88)
 - [kamdz](https://github.com/kamdz)
