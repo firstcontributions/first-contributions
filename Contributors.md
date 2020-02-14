@@ -54,6 +54,7 @@
 -Mike
 -Linus
 - Revenge (https://github.com/RevengeDude/first-contributions)
+- Manaswita Tyagi
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
