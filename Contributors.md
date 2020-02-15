@@ -19997,6 +19997,7 @@ rehan
 - [Derwin Wu]
 - [Jeff Perkinson] (https://jperk224.github.io/)
 - [Farhan Khalifa Ibrahim] (https://github.com/Farhan-Khalifa-Ibrahim)
+- [Colin Dixon] (https://github.com/dixoncb)
 - [plantprogrammer](https://github.com/plantprogrammer)
 - [Tony Tang] (https://github.com/tonytangdev/)
 - [Alex Phan] (https://github.com/Edgeoutrock/)
