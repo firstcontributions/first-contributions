@@ -9997,6 +9997,7 @@ Aman Panjwani
 - [Shrut](https://github.com/shrut1996)
 - [webgene](https://github.com/webgene)
 - [solodynamo](https://github.com/solodynamo)
+- [trillaxe](https://github.com/trillaxe)
 - [nicolas oppitz](https://github.com/nickoppitz)
 - [Enrique Gan] (https://github.com/PitEG)
 - [Jitendra Khadse] (https://github.com/jitendrakhadse)
