@@ -622,6 +622,7 @@ Deepika Padmanabhan
 - [Al Muntrasir abir](https://github.com/amabirbd)
 - [Olivia Davis](https://github.com/oliviadavis593)
 - [Camilo Recce](https://github.com/oxyz2G)
+- [R Mullur](https://github.com/rmullur)
 - [Rachel Harvill](https://github.com/rsharvill)
 - [Ivan Rodriguez](https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez](https://github.com/scratchmex/)
