@@ -1,4 +1,5 @@
 # Contributors
+- Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
