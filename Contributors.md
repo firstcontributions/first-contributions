@@ -3359,6 +3359,7 @@
 - [Krish Kunal](https://github.com/krish-kunal)
 - [Vimukthi Bandara](https://github.com/breezage)
 - [Jovan Kelly](http://github.com/kellyjovan)
+  [Christopher Mullins](https://github.com/codermullins)
 - [Thuhini](https://github.com/Thuhini)
 - [lenni108](https://github.com/lenni108)
 - [PranjalGupta2199](https://github.com/PranjalGupta2199)
