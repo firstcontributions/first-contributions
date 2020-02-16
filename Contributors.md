@@ -20074,6 +20074,7 @@ rehan
 - [Pratyush](https://github.com/prat31)
 - [Sunil](https://github.com/sunnysesh)
 - Freedom0001
+- [Jeremiah Kamama](https://github.com/JeremiahKamama)
 - [Huan Phan](https://github.com/phanthaihuan)
 - [Luke Moresea] (https://github.com/moreselh)
 - [Philip Obiorah](https://github.com/philipobiorah)
