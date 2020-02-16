@@ -477,6 +477,7 @@ Deepika Padmanabhan
 - [Ryan Challen](https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - Ramzor
+- Pierre Cazaubon
 - test prasit-plays
 - Something 20191205 0812
 - [Serdar İlarslan](https://github.com/jokercraft)
