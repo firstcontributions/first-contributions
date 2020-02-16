@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Ashwini Jha
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
@@ -20029,6 +20029,7 @@ rehan
 -[Iulia Bejsovec](https://github.com/Iulia22)
 -[Peter Turner](https://github.com/Syntax753)
 - [FarinHeit](https://github.com/FarinHeiT)
+- [Zarah Shibli](https://github.com/ZaraahShibli)
 - [Lauren Shareshian](https://github.com/laurenshareshian)
 - [Marsel Gray](https://github.com/marselgray)
 - [Sophie Zhao](https://github.com/sophsoph321)
