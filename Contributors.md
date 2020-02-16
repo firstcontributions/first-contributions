@@ -10,6 +10,7 @@
 - Noemptytags
 - Anuraj Guha
 - Jot
+- [Simon]()
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
