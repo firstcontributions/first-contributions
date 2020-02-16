@@ -49,6 +49,7 @@
 - Preeti Sharma
 -EdwinVanLeth
 - Ash Fairley
+- Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
