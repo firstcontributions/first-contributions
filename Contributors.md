@@ -327,6 +327,7 @@ Deepika Padmanabhan
 - Andros Kalou
 - madhm88
 - noamgot
+- Roni Lockwood (https://github.com/Rtlockwood-O)
 - Sean Kehoe (https://github.com/Egglton)
 - Richmond Dzoku
 - Joey Martin (http://github.com/joeymartin888)
