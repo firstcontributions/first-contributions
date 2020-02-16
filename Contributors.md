@@ -6,6 +6,7 @@
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
+- Haruka Taro
 - Noemptytags
 - Anuraj Guha
 - Jot
