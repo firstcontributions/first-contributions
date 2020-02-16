@@ -15,6 +15,7 @@
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
+- Nicklas Rouvinen(https://github.com/nickrou)
 - Bill E
 - akshay naidu
 - Rama Maheswari
