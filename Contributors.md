@@ -10,6 +10,7 @@
 - Noemptytags
 - Anuraj Guha
 - Jot
+- Christian Spencer (https://github.com/Refuro)
 - [Simon]()
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
