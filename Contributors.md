@@ -396,6 +396,7 @@ Deepika Padmanabhan
 -andreww
 - Harsha
 - FryedRice
+- [Yash](https://github.com/piyler279)
 - FryedRice2
 - Mukund
 - [Blair](https://github.com/Blair221)
