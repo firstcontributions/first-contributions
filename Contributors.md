@@ -11,6 +11,7 @@
 - Noemptytags
 - Anuraj Guha
 - Jot
+- Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
