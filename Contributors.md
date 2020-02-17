@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Ashwini Jha
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
@@ -76,6 +76,7 @@
 - James Tufarelli (https://github.com/Minituff)
 - Lasse No
 - UTQNG
+- Jack Fetkovich
 Will-C
 - Nikhil joshi
 - Bethany Roberts 
