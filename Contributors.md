@@ -20133,3 +20133,4 @@ rehan
 - [Satoshi Tanoue](https://github.com/SatoshiTanoue) :hatching_chick:
 - [Daniel Ehrmann](https://github.com/daehrmann)
 - [Yoshiki Itou](htts://github.com/YoshikiIto)
+- [masatsugu hirata](https://github.com/masatsuguhirata)
