@@ -19973,6 +19973,7 @@ rehan
 - [Luke SungukJung](https://github.com/LukeSungukJung)
 - [Taylor Malamut](https://github.com/tmalamut)
 - [Jorge Jiménez](https://github.com/xadrijo)
+- [Hung Nguyen](https://github.com/Hungnguyen720)
 - [Edward Webb](https://github.com/edwudw)
 - [Ebenezar Isaac](https://github.com/ebenezarisaac)
 - [Victor Garcia](https://github.com/vicvic75vg)
