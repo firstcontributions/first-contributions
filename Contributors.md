@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Ashwini Jha
+- Steve Feivor
 - Song Ning Peng
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
