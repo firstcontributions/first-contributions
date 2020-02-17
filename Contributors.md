@@ -31,6 +31,7 @@
 - Somal Chakraborty(https://github.com/SomalRudra)
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
+- Eritoro(https://github.com/eritoro/)
 - Samuel Bhushan (https://github.com/samuelbhu)
 - Qiang Qin(https://github.com/qinqiangdavid)
 - FlorinM (https://github.com/florinmuscalu/)
