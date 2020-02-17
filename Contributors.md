@@ -1,5 +1,6 @@
 # Contributors
 - Harsh Srivastava (https://github.com/harsh-sri)
+- Harshit Jain 
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
@@ -15,7 +16,7 @@
 - Somal Chakraborty(https://github.com/SomalRudra)
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
-- Qiang Qin(https://github.com/qinqiangdavid)
+- Qiang Qin(https://github.com/qinqiangdavid)s
 - FlorinM (https://github.com/florinmuscalu/)
 - Nazri Yahya 
 - Adriano Kultzak
