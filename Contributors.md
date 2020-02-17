@@ -11,6 +11,7 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Noemptytags
+- Horvath Aron 
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Anuraj Guha
 - Jot
