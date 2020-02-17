@@ -20129,5 +20129,5 @@ rehan
 - [Pawel Zelmanski](https://github.com/Wilczek770)
 - [Satoshi Tanoue](https://github.com/SatoshiTanoue) :hatching_chick:
 - [Daniel Ehrmann](https://github.com/daehrmann)
-- [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Yoshiki Itou](htts://github.com/YoshikiIto)
+- [masatsugu hirata](https://github.com/masatsuguhirata)
