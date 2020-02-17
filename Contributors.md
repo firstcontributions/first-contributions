@@ -1,6 +1,7 @@
 ﻿# Contributors
 - Ashwini Jha
 - Song Ning Peng
+- Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
