@@ -20126,6 +20126,7 @@ rehan
 - [Takuya Suemura](https://github.com/tsuemura)
 - [Robert Young](https://github.com/robertyoung2)
 - Daniel Codrea (https://github.com/danielcodrea)
+- [Takaaki Fujimori](https://github.com/tttt-ffff)
 - [Pawel Zelmanski](https://github.com/Wilczek770)
 - [Satoshi Tanoue](https://github.com/SatoshiTanoue) :hatching_chick:
 - [Daniel Ehrmann](https://github.com/daehrmann)
