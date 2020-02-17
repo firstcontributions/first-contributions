@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Ashwini Jha
 - Song Ning Peng
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
@@ -123,6 +123,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- John Kaiser (https://github.com/friedunit)
 - Sean Collins (https://github.com/seanmcollins)
 - Bryan Top (https://github.com/BryanTop)
 - Yousef Murad(https://github.com/YousefMorad)
@@ -18548,6 +18549,7 @@ macdara-dev
 - [Hayes](https://github.com/hazer888)
 - [Pankil Kalra](https://github.com/pankilkalra10)
 - [1F0](https://github.com/1f0)
+- [John Kaiser]]
 - [Yuvansh Agrawal](https://github.com/yuvag)
 - [lahla81](https://github.com/lahla81)
 - [Dhananjay](https://github.com/dhanoz)
