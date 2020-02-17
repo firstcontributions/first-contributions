@@ -17,6 +17,7 @@
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
+- Roman Maru (https://github.com/RomanMaru)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
