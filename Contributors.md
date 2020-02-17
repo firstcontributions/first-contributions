@@ -786,6 +786,7 @@ Deepika Padmanabhan
 - [Kevin](https://github.com/Altenmann)
 - [Adam](https://github.com/BigRed77/]
 - [skillpoint-dev](https://github.com/skillpoint-dev)
+- [jellevdbos] (https://github.com/jellevdbos)
 - [Bobby G](https://github.com/bob2517/)
 - [Natnael-Alemayehu](https://github.com/NatnaelAlemayehu)
 - [Alex Thomson](https://github.com/alexthomson1)
