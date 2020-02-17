@@ -7,6 +7,7 @@
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Furkan Mutlu (https://github.com/furkanmutlu)
+- Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Noemptytags
