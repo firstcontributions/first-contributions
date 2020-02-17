@@ -20126,5 +20126,4 @@ rehan
 - Daniel Codrea (https://github.com/danielcodrea)
 - [Pawel Zelmanski](https://github.com/Wilczek770)
 - [Daniel Ehrmann](https://github.com/daehrmann)
-- [Lucio Camargo](https://github.com/luciomcamargo)
 - [Takaaki Fujimori](https://github.com/tttt-ffff)
