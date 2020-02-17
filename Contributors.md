@@ -13,6 +13,7 @@
 - Noemptytags
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Anuraj Guha
+- Turkei \o/
 - Jot
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
