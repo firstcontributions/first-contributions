@@ -786,6 +786,7 @@ Deepika Padmanabhan
 - [Kevin](https://github.com/Altenmann)
 - [Adam](https://github.com/BigRed77/]
 - [skillpoint-dev](https://github.com/skillpoint-dev)
+- [jellevdbos] (https://github.com/jellevdbos)
 - [Bobby G](https://github.com/bob2517/)
 - [Natnael-Alemayehu](https://github.com/NatnaelAlemayehu)
 - [Alex Thomson](https://github.com/alexthomson1)
@@ -20057,6 +20058,7 @@ rehan
 - [socraticdev](https://github.com/socraticDevBlog/)
 - [Dilara Odur](https://github.com/dilaraodur)
 - [MF]
+- [Junshi-Kubot](https://github.com/j-kubota)
 - [cBridges851](https://github.com/cBridges851)
 - [Timur Abasov](https://github.com/Abas-Tim)
 - [Priyanka Subramanyam](https://github.com/priyankasrs)
@@ -20125,5 +20127,7 @@ rehan
 - [Robert Young](https://github.com/robertyoung2)
 - Daniel Codrea (https://github.com/danielcodrea)
 - [Pawel Zelmanski](https://github.com/Wilczek770)
+- [Satoshi Tanoue](https://github.com/SatoshiTanoue) :hatching_chick:
 - [Daniel Ehrmann](https://github.com/daehrmann)
 - [masatsugu hirata](https://github.com/masatsuguhirata)
+- [Yoshiki Itou](htts://github.com/YoshikiIto)
