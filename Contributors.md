@@ -9,6 +9,7 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Noemptytags
+- Jay Lin (https://github.com/JetPlaneJJ)
 - Anuraj Guha
 - Jot
 - Sonam Klein (https://github.com/sonamdo)
