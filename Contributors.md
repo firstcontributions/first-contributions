@@ -1,7 +1,9 @@
 ﻿# Contributors
 - Ashwini Jha
+- Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
+- Sethu Ram Kumar
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
@@ -720,7 +722,7 @@ Deepika Padmanabhan
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-<<<<<<< HEAD
+
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -17941,6 +17943,7 @@ macdara-dev
 - [showstiller](https://github.com/showstiller)
 - [Shradhit Subudhi](https://github.com/shradhit)
 - [berniecpa&bry](https://github.com/berniecpa)
+- [Okan Uzun](https://github.com/OkanUzun)
 - [dylanavery720](https://github.com/dylanavery720)
 - [rrohak](https://github.com/rrohak)
 - [VijayrajS](https://github.com/VijayrajS/)
@@ -20144,4 +20147,9 @@ rehan
 - [Daniel Ehrmann](https://github.com/daehrmann)
 - [Yoshiki Itou](htts://github.com/YoshikiIto)
 - [masatsugu hirata](https://github.com/masatsuguhirata)
+- [Patrick Shiel](https://github.com/patrickshiel)
+- [Mehmet Durmaz](https://github.com/mehmetdurmazz)
+- [Eugenio Pacceli](https://github.com/Neto-Almeida)
+- [Inacio Neves](https://github.com/InacioNeves)
+- [Isabella Granater](https://github.com/isabellagranater)
 - [Sandhya Senthil]
