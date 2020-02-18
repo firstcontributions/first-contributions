@@ -721,7 +721,6 @@ Deepika Padmanabhan
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-<<<<<<< HEAD
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -20148,3 +20147,4 @@ rehan
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
 - [CarolineKuckla](https://github.com/CarolineKuckla) 
+- [Inacio Neves](https://github.com/InacioNeves)
