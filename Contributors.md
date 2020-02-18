@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Ashwini Jha
 - Steve Feivor
 - Song Ning Peng
@@ -20146,3 +20146,4 @@ rehan
 - [Yoshiki Itou](htts://github.com/YoshikiIto)
 - [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Patrick Shiel](https://github.com/patrickshiel)
+- [Sam Blundell](https://github.com/SamB1990) :metal:
