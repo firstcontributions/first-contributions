@@ -3,6 +3,8 @@
 - Steve Feivor
 - Song Ning Peng
 - Sethu Ram Kumar
+- Luís Eduardo Doopiat
+- Vitor Pillecco
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
