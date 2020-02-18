@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Ashwini Jha
+- Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
 - Sethu Ram Kumar
@@ -721,7 +722,6 @@ Deepika Padmanabhan
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-<<<<<<< HEAD
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -6291,7 +6291,7 @@ Noam Taub
 - [Kadar Tibor](https://github.com/KadarTibor)
 - [Carlos Ramirez](https://github.com/calbertora)
 - [Sladjan](https://github.com/sladjandr)
-[Mark Procarione](https://github.com/markproc)
+  [Mark Procarione](https://github.com/markproc)
 - [Saravanan Elumalai](https://github.com/saravannann)
 - [Ologunowa Samuel](https://github.com/Samueltommzy)
 - [Danny Molloy](https://github.com/strachaldrat)
@@ -18874,7 +18874,7 @@ macdara-dev
 - [Bajtekp](https://github.com/bajtekp)
 - [Praneet Kedari](https://github.com/lakers38)
 - [Lionel Stewart](https://github.com/Lionel-Stewart)
-Mário Baltazar
+  Mário Baltazar
 - [anandfnc](https://github.com/anandfnc)
 - [PerceptionD](https://github.com/PerceptionD)
 - [Gacut](https://github.com/Gacut)
@@ -19360,7 +19360,7 @@ Mário Baltazar
 - [Ranjith Tellakula](https://github.com/tranjith/)
 - [Julio Uliandro Sitompul](https://github.com/vilogra/)
 - [Jude Joel Garay](https://github.com/jjgaray/)
-rehan
+  rehan
 - [ThereOHM](https://github.com/ThereOHM)
 - [Born2Root](https://github.com/Born2Root)
 - [Shynd](https://github.com/Shynd)
@@ -19785,7 +19785,7 @@ rehan
 - [Luis Teles](https://github.com/luisotavioosi)
 - [Nuh Koca](https://github.com/nuhkoca)'
 - [Joshua Farina](https://github.com/joshred83)
--[Devon]
+- [Devon]
 - [Şeyma Nur Mutlu](https://github.com/seymanurmutlu)
 - [Lois Ritualo](https://github.com/Frances-Lois)
 - [Nikola Tomasevic](https://github.com/niktomash)
@@ -19795,7 +19795,7 @@ rehan
 - [Andrew Adiletta](https://github.com/andrewadiletta)
 - Carina Vargas
 - Charles Galdin
--[lonelyyy](https://github.com/lone1yyy)
+- [lonelyyy](https://github.com/lone1yyy)
 - [Aryan Kukreja](https://github.com/ABusyProgrammer)
 - [Marensius Bae Pettersen](https://github.com/melanki)
 - [Ignacio Aguirre](https://github.com/Ignacio1996)
@@ -19891,9 +19891,9 @@ rehan
 - [jmknn33](https://github.com/jmknn33)
 - [Cedric Membrez](https://github.com/cmembrez)
 - [Simi23](https://github.com/Simi23)
--[jtruo](https://github.com/jtruo)
+- [jtruo](https://github.com/jtruo)
 - [Nick Adams]()
--[Ra]
+- [Ra]
 - [Mike McPherson](https://github.com/MikeMcPherson)
 - [Hendro](https://github.com/hpkishere)
 - [Jason](https://github.com/JasonS09)
@@ -20149,3 +20149,4 @@ rehan
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
 - [Júlia Zanchi](https://github.com/juliazanchi?tab=stars)
 - Eduarda Pavan
+- [Inacio Neves](https://github.com/InacioNeves)
