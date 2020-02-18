@@ -1390,6 +1390,7 @@ Joseph Tran
 - [Vipul Goyal](https://github.com/vips28)
 - [Christabel Khumalo](https://github.com/Aurorabell)
 - [Deep Diwakar](https://github.com/deepdiwakar9)
+- [Jeff Black] (https://github.com/jtblackk)
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Parshav Jain](https://github.com/parshavjain10)
