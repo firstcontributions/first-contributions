@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Ashwini Jha
+- Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
 - Sethu Ram Kumar
