@@ -20,6 +20,7 @@
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Anuraj Guha
 - Turkei \o/
+- Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
 - Jot
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
