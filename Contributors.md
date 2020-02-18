@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Ashwini Jha
+- Steve Feivor
 - Song Ning Peng
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
