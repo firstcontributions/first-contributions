@@ -840,6 +840,7 @@ Deepika Padmanabhan
 - [Jason Bourne]
 - [Jason Bourne the Second]
 - [Will Barnard](https://github.com/mrwillbarnz)
+- [Brett Fattori](https://github.com/bfattori-TDA)
 - [Manny102030]
 - [EvilTrtl]
 - [Sandro Sp]
