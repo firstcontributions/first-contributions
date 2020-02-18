@@ -3,6 +3,7 @@
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
+- Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
 - Sethu Ram Kumar
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
