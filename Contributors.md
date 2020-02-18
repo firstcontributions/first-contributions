@@ -329,6 +329,7 @@ Deepika Padmanabhan
 -[Joshua Goossen] (https://github.com/Goosse)
 - [Oleksii Zhytnyk] (https://github.com/zhtnk)
 - [Stanley Chu] (https://github.com/YBSker)
+- [Eric Levy] (https://github.com/ericslevy)
 - [Adithya TP] (https://github.com/adithya-tp)
 - [Aravindh Anbalagan] (https://github.com/aravindh-prabhakaran)
 - [Sundeep Charan Ramkumar](https://github.com/sunguru98)
