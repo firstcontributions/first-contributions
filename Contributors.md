@@ -12,6 +12,7 @@
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Leo Emman
 - Noemptytags
 - Horvath Aron 
 - Jay Lin (https://github.com/JetPlaneJJ)
