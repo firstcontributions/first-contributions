@@ -20147,3 +20147,5 @@ rehan
 - [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
+- [Júlia Zanchi](https://github.com/juliazanchi?tab=stars)
+- Eduarda Pavan
