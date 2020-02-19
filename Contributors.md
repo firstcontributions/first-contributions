@@ -14736,6 +14736,7 @@ macdara-dev
 - [Mohammed Larabi](https://github.com/MohammedLarabi)
 - [Tejit Pabari](https://github.com/tejitpabari99)
 - [Dmitrij Melichov](https://github.com/dmhv)
+- [Canvaskan](https://github.com/canvaskan)
 - [Santosh Gokul](https://github.com/santo-monto)
 - [Santosh Hemashekar](https://github.com/hemashekarsantosh)
 - [Alfie Bowman](https://github.com/a1fus)
@@ -16474,7 +16475,6 @@ macdara-dev
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
-
 - [Adam Hill](https://github.com/Cadarn)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
@@ -18177,7 +18177,6 @@ macdara-dev
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
