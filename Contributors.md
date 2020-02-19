@@ -17126,6 +17126,7 @@ macdara-dev
 - [Sandy](https://github.com/sandy1999)
 - [Hai](https://github.com/ngochai94)
 - [Nishant Gautam](https://github.com/NishantGautam023)
+- [Jordan Kelley](https://github.com/JordanKelley)
 - [Zilde Neto](https://github.com/zsmn)
 - [Sam](https://github.com/amrnumenor)
 - [DargieDChouwy](https://github.com/DargieDChouwy)
