@@ -19353,6 +19353,7 @@ Mário Baltazar
 - [Mohammad Yasin Memon](https://github.com/memonyasin)
 - [Jishan Bhattacharya](https://github.com/j16n)
 - [Stuti Jain](https://github.com/JainStuti25)
+- [Maxime Chourré](https://github.com/Harfeur)
 - [Roman Lebedev](https://github.com/lebedevrs9)
 - [HRAnk8t](https://github.com/hrankit)
 - [Adwit Singh Kochar](https://github.com/adwitsingh)
@@ -20170,4 +20171,4 @@ rehan
 - [Tõnn Toomsalu]https://github.com/tonn24
 - [DucPV](https://github.com/PhanDuc)
 - [px3ltd](https://github.com/mb0ma)
-- [Michael DiLalo](https://github.com/mvd366)
+- [Michael DiLalo](https://github.com/mvd366) 
