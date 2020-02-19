@@ -380,6 +380,7 @@ Deepika Padmanabhan
 - [Rohit sharma] (https://github.com/ROHIT318)
 - [Mohmed Anis Agwan](https://github.com/anis-agwan)
 - [Brad Singleton](https://github.com/bradjsingleton)
+- [Isaac Ayele] (https://github.com/Journeyman92
 - [Cormac] (https://github.com/cormacd9818)
 - [Suhani](https://github.com/suhani-goel)
 - [Utkarsh Sinha](https://github.com/Utkarsh2524992)
