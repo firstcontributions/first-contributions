@@ -668,6 +668,7 @@ Deepika Padmanabhan
 - [Ivan Gonzalez](https://github.com/scratchmex/)
 - [David Vinter](https://github.com/David510V/)
 - [Jon Boland](https://github.com/jonboland)
+- [The-Kor](https://github.com/The-Kor)
 - [Shradha DOshi](https://github.com/shraddhakdoshi)
 - [Sandra Marcela Herrera Arriaga](https://github.com/SandraMarcelaHerreraArriaga)
 - [Shikhar Goswami](hhtps://github.com/Goshikhar23)
