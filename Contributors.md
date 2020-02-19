@@ -289,7 +289,7 @@ Deepika Padmanabhan
 - [Sailesh Dahal] (https://github.com/saileshbro)
 - [Christopher Saless] (https://github.com/cmsaless)
 - [Trisha Gupta]
-- [Andre Vonderheyde] (https://github.com/aheyde18)
+- [Andre Vonderheyde] (https://github.com/AndreSHeyde)
 - [Andy Trinh] (https://github.com/andyttrinh)
 - [Steve Ahlswede] (https://github.com/SevenFoldDeep)
 - [Ganesh Chincholkar] (https://github.com/ganeshpc)
