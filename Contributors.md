@@ -28,6 +28,7 @@
 - Turkei \o/
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
 - Jot
+- kayode Aina(https://github.com/firstcontributions/first-contributions)
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
