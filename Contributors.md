@@ -7140,6 +7140,7 @@ Aman Panjwani
 - [Robert Aragon](https://github.com/PixoDev)
 - [geeknik](https://twitter.com/geeknik)
 - [Isay Razilov](https://github.com/IsayRazilov)
+- Chris
 - [Kunj Dedhia](https://github.com/kunjdedhia)
 - [yuchengs](https://github.com/yuchengs)
 - [Leonardo Cavazzani](https://github.com/lCavazzani)
