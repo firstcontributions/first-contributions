@@ -131,6 +131,7 @@ Will-C
 - Dan Piazza (https://github.com/DanielJPiazza)
 -pat mcdermott
 - Punit Patel (https://github.com/punitpatel2601)
+- David Domingues (https://github.com/davidc2p)
 - Ka Chingsubam (https://github.com/kachingsubam)
 - Jhamere Wilson (https://github.com/JhamereWilson)
 - Minuth Prom (https://github.com/minuth)
