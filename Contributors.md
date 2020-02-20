@@ -9708,6 +9708,7 @@ Aman Panjwani
 - [Rik Schoonbeek](https://github.com/RikSchoonbeek)
 - [Meelad Dawood](https://github.com/meeladdawood)
 - [dawiditer](https://github.com/dawiditer)
+- [Cameron Badgley](https://github.com/cameron-badgley)
 - [zihao Lin](https://github.com/schneiderlin)
 - [Stella Lu](https://github.com/stella-lu/)
 - [Jose Tandavala](https://github.com/tandavala)
