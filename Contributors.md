@@ -24,6 +24,7 @@
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
 - Horvath Aron 
+- Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Anuraj Guha
 - Turkei \o/
