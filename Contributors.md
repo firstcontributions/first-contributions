@@ -20187,3 +20187,4 @@ rehan
 - [Vivek Shakya](https://github.com/shakyav)
 - [Walter Lu](https://github.com/WalterLu3) 
 - [Siddarth Patil] (https://github.com/siddarth-patil)
+- [Francesco Maria D'Auria] (https://github.com/Ex-Novo)
