@@ -4,6 +4,7 @@
 - Kyle Grube (https://github.com/kgrube5)
 - Ashwini Jha
 - 516M
+- Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
