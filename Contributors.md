@@ -90,6 +90,7 @@
 - Sean Lamb (https://github.com/seanlamb)
 - Preeti Sharma
 -EdwinVanLeth
+- Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
