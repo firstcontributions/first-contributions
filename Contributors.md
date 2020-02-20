@@ -526,6 +526,7 @@ Deepika Padmanabhan
 - [Ryan Challen](https://github.com/RyanChallen/)
 - [Gary Heffernan]
 - Ramzor
+- Julian Janisch
 - Pierre Cazaubon
 - test prasit-plays
 - Something 20191205 0812
