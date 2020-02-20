@@ -72,6 +72,7 @@
 - Amin Elhami (https://github.com/Amin747)
 - Matthew Phipps (https://github.com/mphipps2017)
 - Aminu Abdulmalik (https://github.com/miawoltn)
+- Megan Cullins (https://github.com/mcullins)
 - Rythm Agarwal
 - Evan P (https://github.com/evanmpicard)
 - Vojtech Vanek (https://github.com/Vanevo00)
