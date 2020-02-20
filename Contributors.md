@@ -1131,6 +1131,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown](https://github.com/Lyth-B)
 - [Alan Gordon](https://github.com/alangordon)
+- [Try2Runs](https://github.com/try2runs/)
 - [QiXing Hong](https://github.com/QI-XING)
 - [Samya]
 - [Andy Davies]
