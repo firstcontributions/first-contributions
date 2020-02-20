@@ -7651,6 +7651,7 @@ Aman Panjwani
 - [Yixian Chen](https://github.com/yxnchen)
 - [Rushit Jasani](https://github.com/rushitjasani)
 - [Tim Lucca](https://github.com/TimLucca)
+- [Hakeem Kushoro](https://github.com/PlatinumKH)
 - [Shannon Pearson](https://github.com/shannonpearson)
 - [Gabriele Corti](https://github.com/borntofrappe)
 - [Gabrielly de Andrade](https://github.com/gaby-andrade)
