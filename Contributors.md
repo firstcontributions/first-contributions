@@ -27,6 +27,7 @@
 - Horvath Aron 
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
+- Lakshay Arora (https://github.com/LakshayArora12)
 - Anuraj Guha
 - Turkei \o/
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
