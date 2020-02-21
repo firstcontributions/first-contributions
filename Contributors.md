@@ -12,6 +12,7 @@
 - Steve Feivor
 - Song Ning Peng
 - Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
+- Adrieli Polsin
 - Sethu Ram Kumar
 - [maisa bertotti] (https://github.com/MaisaBertotti)
 - Johnathon Wood (https://github.com/jaywood128)
