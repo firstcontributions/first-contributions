@@ -8,6 +8,8 @@ If you're making changes to a translation, please request a review from our prev
 
 ### Our reviewers :sparkles:
 
+####Edson
+
 <table>
     <tr>
         <td>
