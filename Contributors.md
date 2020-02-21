@@ -147,6 +147,7 @@ Will-C
 - Ryuki Kuga (https://github.com/ryukikikie)
 - Dan Piazza (https://github.com/DanielJPiazza)
 -pat mcdermott
+- Erik Trygg (https://github.com/firely)
 - Punit Patel (https://github.com/punitpatel2601)
 - David Domingues (https://github.com/davidc2p)
 - Ka Chingsubam (https://github.com/kachingsubam)
