@@ -3920,6 +3920,7 @@ Noam Taub
 - rpturan
 - [Benjamin Allen](https://github.com/imami777)
 - [Manel Puigcerver Navarro](https://github.com/ManelPNavarro)
+- [bunnysamurai](https://github.com/bunnysamurai)
 - vidya
 - Ross McCaig
 - Bruce Wayne
