@@ -14,6 +14,7 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Leo Emman
+- Caroline Kuckla
 - Noemptytags
 - Horvath Aron 
 - Jay Lin (https://github.com/JetPlaneJJ)
@@ -20147,4 +20148,3 @@ rehan
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
 - [Inacio Neves](https://github.com/InacioNeves)
-- [CarolineKuckla](https://github.com/CarolineKuckla)
