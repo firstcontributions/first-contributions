@@ -101,6 +101,7 @@
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Linus
+- Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
 - Yeongyoon Park (https://github.com/ypark66)
