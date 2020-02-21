@@ -5,6 +5,7 @@
 - Kyle Grube (https://github.com/kgrube5)
 - Ashwini Jha
 - 516M
+- Edson Sozo
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
