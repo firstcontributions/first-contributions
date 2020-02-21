@@ -10,13 +10,14 @@
 - Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Furkan Mutlu (https://github.com/furkanmutlu)
-- Spintec (https://github.com/Spintec)
+- Spintec(https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Leo Emman
 - Noemptytags
 - Horvath Aron 
 - Jay Lin (https://github.com/JetPlaneJJ)
+- [Isadora Masiero dos Santos](https://github.com/IsadoraMSantos)
 - Anuraj Guha
 - Turkei \o/
 - Jot
