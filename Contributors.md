@@ -28,8 +28,8 @@
 Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
-- João Pedro
-- Horvath Aron 
+- Horvath Aron
+- Joao Pedro 
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Lakshay Arora (https://github.com/LakshayArora12)
