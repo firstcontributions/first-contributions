@@ -23,6 +23,7 @@
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Ana Clara Oliveira Bona
 - Chelsea Xu (https://github.com/ChelseaXu)
 - Leo Emman
 Julia Bolting
