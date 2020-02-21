@@ -8,6 +8,7 @@
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
+- Corey Fontenot (https://github.com/corey-fontenot)
 - Bagelbun
 - willwalsh96
 - Vagner Luis Carneiro de Campos
@@ -1282,7 +1283,6 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Matheus Elyasha](https://github.com/elyasha)
 - [Rachit Garg](https://github.com/rstar900)
 - [Nicholas David Lister](https://github.com/nicholasdavidlister)
-
 - [Anushka Deshpande](https://github.com/anushkadeshpande)
 - [Teemu Kaaria](https://github.com/teemukaaria)
 - [Milo Wyner](https://github.com/milowyner)
