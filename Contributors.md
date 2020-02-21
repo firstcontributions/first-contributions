@@ -755,7 +755,6 @@ Deepika Padmanabhan
 - [Matt Johnson](https://github.com/stlmattjohnson)
 - [John Pena](https://github.com/johnalexanderpena)
 - [tannedthighs]
-
 - [Soomin](https://github.com/soominl)
 - [Dawood](https://github.com/nadurath)
 - [Tawhidul ISlam](https://github.com/lastsaintcrucified)
@@ -20195,6 +20194,8 @@ rehan
 - [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
+- [Geovana Arndt](https://github.com/GeovanaArndt)
+- [Inacio Neves](https://github.com/InacioNeves
 - [Eugenio Pacceli](https://github.com/Neto-Almeida)
 - [Inacio Neves](https://github.com/InacioNeves)
 - [Isabella Granater](https://github.com/isabellagranater)
