@@ -9,6 +9,7 @@
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
 - Bagelbun
+- willwalsh96
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
