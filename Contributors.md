@@ -8,6 +8,7 @@
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
+- Bagelbun
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
