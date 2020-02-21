@@ -19752,6 +19752,7 @@ rehan
 - [Sudha](https://github.com/chvlsudha)
 - [Tim Dinia](https://github.com/Timdinia)
 - [Praneeth Paikray](https://github.com/Praneeth16)
+- Jacob Moore
 - [SunnySs](https://github.com/SunnySs)
 - [Perlin](https://github.com/pewcodes)
 - [Joseph]((https://github.com/ClassicRevive)
