@@ -21,6 +21,7 @@
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
+- Margaret Ogbor (https://github.com/peggylicious)
 - Nicklas Rouvinen(https://github.com/nickrou)
 - Bill E
 - akshay naidu
@@ -36,7 +37,7 @@
 - FlorinM (https://github.com/florinmuscalu/)
 - Maurizio van der Werf (https://github.com/Maurizio1986)
 - Martin Friedmann (https://github.com/friedmannmartin)
-- Nazri Yahya 
+- Nazri Yahya
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
@@ -67,7 +68,7 @@
 - Ash Fairley
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
-- [Aditya Singh](https://github.com/Aditya1001001) 
+- [Aditya Singh](https://github.com/Aditya1001001)
 -Mike
 -Linus
 - Revenge (https://github.com/RevengeDude/first-contributions)
@@ -83,7 +84,7 @@
 - Jack Fetkovich
 Will-C
 - Nikhil joshi
-- Bethany Roberts 
+- Bethany Roberts
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
 - Warren Harper
@@ -99,7 +100,7 @@ Will-C
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
 - Lokman Ahmad (https://github.com/VeLoct84)
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -135,7 +136,7 @@ Derek Leach
 - Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
@@ -2798,7 +2799,7 @@ Kebana Modise
 - Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
-- [Caspar Fuller](https://github.com/cjf-fuller) 
+- [Caspar Fuller](https://github.com/cjf-fuller)
 - Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
@@ -11606,7 +11607,7 @@ macdara-dev
 - [@fanbyprinciple](https://github.com/fanbyprinciple))
 - [Cheng](https://github.com/machiko)
 - [David Rojas](https://github.com/DavidRojas1612)
-- [Michael Woollard](https://github.com/MJW19) 
+- [Michael Woollard](https://github.com/MJW19)
 - [Aman Tiwari](https://github.com/aman9875)
 - [Kunal Chakrabarty](https://github.com/KUNAL1612)
 - [Omer Can Yazici](https://github.com/yaziciom)
@@ -20109,7 +20110,7 @@ rehan
 - [Alesha Ray] (https://github.com/alesharay)
 - [Ogooluwa Akinola](https://github.com/rovilay)
 - furkan
-- some dude 
+- some dude
 - [Dmitry Soldakin] (https://github.com/dsoldatkin)
 - [Tanish Malekar](https://github.com/tanish-malekar)
 - [Aayush Shrivastava](https://github.com/aayushbest)
