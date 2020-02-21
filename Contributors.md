@@ -45,6 +45,7 @@ Julia Bolting
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
+- Alberto Ferrando
 - Roman Maru (https://github.com/RomanMaru)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
