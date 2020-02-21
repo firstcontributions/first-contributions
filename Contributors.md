@@ -11819,6 +11819,7 @@ macdara-dev
 - [this-is-you](https://github.com/this-is-you)
 - [Abang Farhan](https://github.com/abangfarhan)
 - [Devika Krishnadas](https://github.com/devikakrishnadas)
+- [Marko Jović](https://github.com/marko-jovic)
 - [Mohammad Apel Mahmod](https://github.com/amahmod)
 - [Arshad AQ](https://github.com/ArshadAQ)
 - [Dexter Rualo](https://github.com/dexrualo)
