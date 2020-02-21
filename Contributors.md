@@ -25,6 +25,7 @@
 - Haruka Taro
 - Chelsea Xu (https://github.com/ChelseaXu)
 - Leo Emman
+Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
 - Horvath Aron 
