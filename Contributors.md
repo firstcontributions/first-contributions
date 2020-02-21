@@ -41,6 +41,7 @@
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
+- [Joseph Kinahan](https://github.com/majortomdev)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
 - [Adam Luczak](https://github.com/aluczak)
 - [Mochammad Ilham Maulana](https://github.com/ilhamhzrd20)
