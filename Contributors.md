@@ -1,4 +1,5 @@
 # Contributors
+- David Perlman (https://github.com/dperlman)
 - Ahmad Kasem (https://github.com/AhmadKasem)
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
