@@ -8188,6 +8188,7 @@ Aman Panjwani
 - [Coreplo](https://github.com/Coreplo)
 - [Demetrius Lewis](https://github.com/Dlewis89)
 - [Rahul Thakare](https://github.com/bantya)
+- [Mendax](https://github.com/justmendax)
 - [Arnesh Agrawal](https://github.com/Arnesh07)
 - [Shayan Araghi](https://github.com/ShayanAraghi)
 - [Ufuk Özçelik](https://github.com/UfukOzcelik)
