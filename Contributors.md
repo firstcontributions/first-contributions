@@ -3555,6 +3555,7 @@ Stephan Sharpe
 - [Ignacio Reyna](https://github.com/ignacioreyna)
 - zwitter1802
 - Sathyanarayanan
+- Tsarass
 - Nasty G
 - [Ahmed Lebba](https://github.com/Kungfoosian)
 - [Davis Raimon](https://github.com/davisraimon)
