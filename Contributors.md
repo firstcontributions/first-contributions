@@ -6966,6 +6966,7 @@ Aman Panjwani
 - [bpese](https://github.com/bpese)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
+- [Rohit Ghosh](https://github.com/Stickycover)
 - [tobinatore](https://github.com/tobinatore/)
 - [Alex Sorokin](https://github.com/kanvik175)
 - [Lakshay Wadhwa](http://github.com/luck-u)
