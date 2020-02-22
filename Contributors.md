@@ -16,6 +16,7 @@
 - Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
 - Adrieli Polsin
 - Sethu Ram Kumar
+- vencut18
 - [maisa bertotti] (https://github.com/MaisaBertotti)
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
