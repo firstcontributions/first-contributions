@@ -3247,6 +3247,7 @@ Kebana Modise
 - [Mayank Tomar](https://github.com/mayanktomar)
 - [Ambar Mendez](https://github.com/ambarmendez)
 - [Edison Esguerra](https://github.com/edisket)
+- Melanie (unExpectedBracket)
 - [Philip Simmons](https://github.com/oghusky)
 - [Itay Ankri](https://github.com/itayankri)
 - [Tracie Witteborg](https://github.com/alwaysTracieT)
