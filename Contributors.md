@@ -6,6 +6,7 @@
 - Kyle Grube (https://github.com/kgrube5)
 - Ashwini Jha
 - 516M
+- KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
