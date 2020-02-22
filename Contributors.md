@@ -80,6 +80,7 @@ Julia Bolting
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Bulat Sultanov
+- [Hardik Jain](https://github.com/nepython)
 - Brenda Ribeiro
 - Afua Kesewa Boateng (https://github.com/AfuaKB)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
