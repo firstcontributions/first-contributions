@@ -37,7 +37,7 @@
 Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
-- Horvath Aron 
+- Horvath Aron
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
 - Lakshay Arora (https://github.com/LakshayArora12)
@@ -57,6 +57,7 @@ Julia Bolting
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Vinay
 - Ahrman
+- Priyadarshini Chettiar (https://github.com/priyadarshu)
 - Aditya Abhishek
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
@@ -77,7 +78,7 @@ Julia Bolting
 - FlorinM (https://github.com/florinmuscalu/)
 - Maurizio van der Werf (https://github.com/Maurizio1986)
 - Martin Friedmann (https://github.com/friedmannmartin)
-- Nazri Yahya 
+- Nazri Yahya
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
@@ -112,7 +113,7 @@ Julia Bolting
 - Ash Fairley
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
-- [Aditya Singh](https://github.com/Aditya1001001) 
+- [Aditya Singh](https://github.com/Aditya1001001)
 -Mike
 -Linus
 - Helder
@@ -129,7 +130,7 @@ Julia Bolting
 - Jack Fetkovich
 Will-C
 - Nikhil joshi
-- Bethany Roberts 
+- Bethany Roberts
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
 - Warren Harper
@@ -145,7 +146,7 @@ Will-C
 - Mark Foster (https://github.com/markfoster314)
 - Constantino Mavrakis
 - Lokman Ahmad (https://github.com/VeLoct84)
-- George Chorozidis (https://github.com/ChiefGeorge) 
+- George Chorozidis (https://github.com/ChiefGeorge)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Ryuki Kuga (https://github.com/ryukikikie)
@@ -184,7 +185,7 @@ Derek Leach
 - Guglielmo Feis (https://github.com/1110sillabo)
 - Ryan Sneesby
 - Johanharry
-- Sian Murray 
+- Sian Murray
 - Menarul Alam
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
@@ -2864,7 +2865,7 @@ Kebana Modise
 - Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
-- [Caspar Fuller](https://github.com/cjf-fuller) 
+- [Caspar Fuller](https://github.com/cjf-fuller)
 - Raj
 - Nafan h
 - [Benito Luna](https://github.com/BLuna)
@@ -11682,7 +11683,7 @@ macdara-dev
 - [@fanbyprinciple](https://github.com/fanbyprinciple))
 - [Cheng](https://github.com/machiko)
 - [David Rojas](https://github.com/DavidRojas1612)
-- [Michael Woollard](https://github.com/MJW19) 
+- [Michael Woollard](https://github.com/MJW19)
 - [Aman Tiwari](https://github.com/aman9875)
 - [Kunal Chakrabarty](https://github.com/KUNAL1612)
 - [Omer Can Yazici](https://github.com/yaziciom)
@@ -20235,7 +20236,7 @@ rehan
 - [embento](https://github.com/embento)
 - [Michael DiLalo](https://github.com/mvd366)
 - [Vivek Shakya](https://github.com/shakyav)
-- [Walter Lu](https://github.com/WalterLu3) 
+- [Walter Lu](https://github.com/WalterLu3)
 - [Siddarth Patil] (https://github.com/siddarth-patil)
 - [mushahid baig](https://mirzamushahid123.github.io/mushhahid123.github.io/)
 - [Daniel Liu](https://github.com/thundermiracle)
