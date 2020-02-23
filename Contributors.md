@@ -20244,3 +20244,4 @@ rehan
 - [iostream85](https://github.com/iostream85)
 - [NomadicDaggy](https://github.com/NomadicDaggy)
 - [SandeepNayak](https://github.com/sannayak1)
+- [Wojciech_Ołownia](https://github.com/olowek92)
