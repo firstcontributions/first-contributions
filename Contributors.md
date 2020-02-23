@@ -11,6 +11,7 @@
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Charlotte Dibb
+- Look back
 - Bagelbun
 - willwalsh96
 - [Idris Olubisi](https://github.com/olanetsoft)
