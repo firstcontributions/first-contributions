@@ -4,6 +4,8 @@
 - Ahmad Kasem (https://github.com/AhmadKasem)
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
+  Amit Karnam (https://github.com/AmitKarnam)
+
 - Ashwini Jha
 - 516M
 - KoaLaYT (https://github.com/KoaLaYT)
