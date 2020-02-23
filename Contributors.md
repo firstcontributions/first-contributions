@@ -298,6 +298,7 @@ Deepika Padmanabhan
 - [Ian Gallagher] (https://github.com/igallag)
 - [Deva Kumar] (https://github.com/devak997)
 - [Parker Downing] (https://github.com/parkerd21)
+- [Mubarak Akinsola] (https://github.com/Mubby09)
 - [Emir Zivcic] (https://github.com/EEmZZ)
 - [Sahil Siddiq] (aka Valdaarhun)
 - [Edward Hwang] (https://github.com/edwardlhwang)
