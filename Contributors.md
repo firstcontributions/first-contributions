@@ -13,13 +13,14 @@
 - Charlotte Dibb
 - Bagelbun
 - willwalsh96
+- [Idris Olubisi](https://github.com/olanetsoft)
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
 - Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
 - Adrieli Polsin
 - Sethu Ram Kumar
-- [maisa bertotti] (https://github.com/MaisaBertotti)
+- [maisa bertotti](https://github.com/MaisaBertotti)
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Sarah Guthals (https://github.com/sguthals)
