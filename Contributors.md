@@ -19331,6 +19331,7 @@ Mário Baltazar
 - [Jerônimo Jairo](hhttps://github.com/jeron7)
 - [YeongShern Chin](https://github.com/shern91)
 - [Man Ng](https://github.com/NgYaoShien)
+- [Taylor Pechacke](https://github.com/tpechacek/)
 - [Vpoat](https://github.com/vpeopleonatank)
 - [Adarsh Jaiswal](https://github.com/heluvaguy)
 - [AHerczeg](https://github.com/AHerczeg)
