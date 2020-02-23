@@ -23,6 +23,7 @@
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Charles Inki (https://github.com/codetaromiura)
 - Chelsea Xu (https://github.com/ChelseaXu)
 - Leo Emman
 - Daksh (https://github.com/dushyant19/)
