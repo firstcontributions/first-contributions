@@ -64,6 +64,7 @@ Julia Bolting
 - Bill E
 - Ruben80 (https://github.com/Ruben80)
 - akshay naidu
+- [Huajian Qiu](https://github.com/huajian1069)
 - Rama Maheswari
 - Mike Vinoski (https://github.com/acidrain777)
 - Solomon Selvakumar (https://github.com/solozzz)
