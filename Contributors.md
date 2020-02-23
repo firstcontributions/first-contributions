@@ -33,6 +33,7 @@
 - Ana Clara Oliveira Bona
 - Chelsea Xu (https://github.com/ChelseaXu)
 - Leo Emman
+- Omri Tal (https://github.com/omriutal)
 - Dirceli
 Julia Bolting
 - Daksh (https://github.com/dushyant19/)
