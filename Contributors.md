@@ -9595,6 +9595,7 @@ Aman Panjwani
 - [Deji Adesoga](https://github.com/desoga10)
 - [Jonathan Cooper](https://github.com/jon23cooper)
 - [James Tompkins](https://github.com/JamesTompkins)
+- [Kyle O'Connell](https://github.com/kjoconnell89)
 - [Michael Nelson](https://github.com/mtnj356)
 - [Luke Lan](https://github.com/luke84320136)
 - [Waterval](https://github.com/waterval)
