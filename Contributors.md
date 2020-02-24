@@ -20175,6 +20175,7 @@ rehan
 - [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
+- [Mirza Mushahid](https://github.com/mirzamushahid123)
 - [Eugenio Pacceli](https://github.com/Neto-Almeida)
 - [Inacio Neves](https://github.com/InacioNeves)
 - [Isabella Granater](https://github.com/isabellagranater)
@@ -20186,4 +20187,3 @@ rehan
 - [Vivek Shakya](https://github.com/shakyav)
 - [Walter Lu](https://github.com/WalterLu3) 
 - [Siddarth Patil] (https://github.com/siddarth-patil)
-- [Mirza Mushahid](https://github.com/mirzamushahid123)
