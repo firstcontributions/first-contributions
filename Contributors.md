@@ -6,6 +6,7 @@
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
 - Ashwini Jha
+- Prashanth Pai
 - 516M
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
