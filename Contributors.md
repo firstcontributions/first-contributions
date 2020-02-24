@@ -17514,6 +17514,7 @@ macdara-dev
 - [Ammara](https://github.com/UmmeAmmaraa)
 - [Johan Wahyudi](https://github.com/johanwahyudi)
 - [Saba Younis](https://github.com/sabayounis)
+- [Muddasir](http://github.com/muddasirali)
 - [kouranes](https://github.com/kouranes)
 - [Nouman Nazir](https://github.com/nomii44)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
