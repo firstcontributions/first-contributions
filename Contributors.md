@@ -17475,6 +17475,7 @@ macdara-dev
 - [Andrei Luis](https://github.com/AndreiLuis)
 - [arvvn](https://github.com/arvvn)
 - [Beatriz Miranda](https://github.com/BeaMtrix)
+- [Syed Huzaifah](http://github.com/huzaifah15)
 - [Cooper Stainbrook](https://github.com/cstainbrook)
 - [Deise Silva](https://github.com/AtreydesKS)
 - [Eric Monteiro Galotti de Souza](https://github.com/EricMGS)
