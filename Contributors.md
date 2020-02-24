@@ -199,6 +199,7 @@ Derek Leach
 - [Rafael Karosuo](https://github.com/karosuo)
 - Keri Goltz
 - itakenaps
+- [Felipe L](https://github.com/FelipeGLopez)
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
 - Red Starfish
 - [Salman Zafar](https://github.com/maanizfar)
