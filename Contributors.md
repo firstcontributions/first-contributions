@@ -17507,6 +17507,7 @@ macdara-dev
 - [Derry Handoyo](https://github.com/derryhandoyo)
 - [Simon Müller](https://github.com/Rubbertick)
 - [Warun](https://github.com/ubinix-warun)
+- [Adil Waheed](http://github.com/Aadil750)
 - [Jmichit](https://github.com/jmichit)
 - [Shreya](https://github.com/shrechak)
 - [Yamin](https://github.com/yaminmhd)
