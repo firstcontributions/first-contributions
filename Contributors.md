@@ -60,6 +60,7 @@ Julia Bolting
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Vinay
 - Ahrman
+- Avishree Khare
 - Aditya Abhishek
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
