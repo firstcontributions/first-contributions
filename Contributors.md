@@ -17503,6 +17503,7 @@ macdara-dev
 - [Guillaume Monzerol](https://github.com/gmonz36)
 - [Adil Ameeq](https:/github.com/adilameeq)
 - [Farhan Karim](http://github.com/farhankarim)
+- [Adil Waheed](http://github.com/Aadil750)
 - [Nicola Hastings](https://github.com/nickihastings)
 - [Derry Handoyo](https://github.com/derryhandoyo)
 - [Simon Müller](https://github.com/Rubbertick)
