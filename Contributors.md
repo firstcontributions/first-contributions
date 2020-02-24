@@ -1315,6 +1315,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - Marcband
 -[Siddhant Jain](https://github.com/GitSiddhant)
 - Anirudh
+- [Mohammed Fareed](https://github.com/MohammedFareed)
 - Johanna
 - batsaikhan tuguldur
 - [Adam M]()
