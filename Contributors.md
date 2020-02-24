@@ -99,6 +99,7 @@ Julia Bolting
 - Matthew Phipps (https://github.com/mphipps2017)
 - Aminu Abdulmalik (https://github.com/miawoltn)
 - Megan Cullins (https://github.com/mcullins)
+- Alind Sharma (https://github.com/alindsharmasimply)
 - Rythm Agarwal
 - Evan P (https://github.com/evanmpicard)
 - Vojtech Vanek (https://github.com/Vanevo00)
