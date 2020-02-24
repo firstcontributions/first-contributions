@@ -34,6 +34,7 @@
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Ben Rosen
 - Devon Scewmer(https://github.com/dnbroo)
 - Ana Clara Oliveira Bona
 - Chelsea Xu (https://github.com/ChelseaXu)
