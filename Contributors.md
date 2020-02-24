@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Aniket Narayan (https://github.com/mrgooglr)
 - Antonio Cassano (https://github.com/antoniocassano84)
 - David Perlman (https://github.com/dperlman)
@@ -3139,6 +3139,7 @@ Kebana Modise
 - [Prajakta Deosthali](https://github.com/PrajaktaDeosthali)
 - [Rajnish Kr Singh](https://github.com/RajnishKrSingh)
 - [Isaac Patton](https://github.com/Built4HumanityDev)
+- [Isaac Colson](https://github.com/isaaccolson)
 - [Taylor Richardson](https://github.com/Mertyton)
 - [Jung-Won Ha](https://github.com/JungWonHa)
 - [Cesar A. Perez](https://github.com/PerezArmando)
