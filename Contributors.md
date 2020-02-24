@@ -17595,6 +17595,7 @@ macdara-dev
 - [Ahmed Chaari](https://github.com/Omnicouleur)
 - [Ivan Varela](https://github.com/DevIvanVarela)
 - [Michal Skreczko](https://github.com/mskreczko)
+- [mushahid](http://github.com/mirzamushahid123)
 - [Julle Juliusson](https://github.com/Ret3x)
 - [Keisuke Mori](https://github.com/kigamittsu)
 - [Tuomas Sahlsten](https://github.com/sahlsten)
