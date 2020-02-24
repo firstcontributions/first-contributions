@@ -17515,6 +17515,7 @@ macdara-dev
 - [Saba Younis](https://github.com/sabayounis)
 - [kouranes](https://github.com/kouranes)
 - [Nouman Nazir](https://github.com/nomii44)
+- [Shayanlakhani](http://github.com/shayanlakhani)
 - [Sergey Kaznakhovskiy](https://github.com/fredeastside)
 - [Muhammad Usman](https://github.com/itkidunya)
 - [Tuseef Ahmad](https://github.com/tuseefahmad)
