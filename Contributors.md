@@ -20186,3 +20186,4 @@ rehan
 - [Vivek Shakya](https://github.com/shakyav)
 - [Walter Lu](https://github.com/WalterLu3) 
 - [Siddarth Patil] (https://github.com/siddarth-patil)
+- [Minal Ashfaq](https://minal15.github.io/)
