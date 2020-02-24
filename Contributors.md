@@ -8951,7 +8951,7 @@ Aman Panjwani
 - [Kris Witalewski](https://github.com/witalewski)
 - [Joe Ganobsik](https://github.com/jganobsik)
 - [Rigo Ramirez](https://github.com/reegoram)
-- [Sohail876](http://github.com/sohail876)
+- [Sohail](http://github.com/sohail876)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
 - [Bobby Liang Wei Tan](https://github.com/tanliangwei)
 - [Rohit K Bharadwaj](https://github.com/rohit901)
