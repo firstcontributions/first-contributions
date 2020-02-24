@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Aniket Narayan (https://github.com/mrgooglr)
 - Antonio Cassano (https://github.com/antoniocassano84)
 - David Perlman (https://github.com/dperlman)
@@ -20265,3 +20265,4 @@ rehan
 - [Hakeem](https://github.com/Hakeem-star)
 - [Ruslan Tsulin](https://github.com/batkomahno2008)
 - Akinbode Abitogun (https://github.com/abitoguna)
+- [Stephen Farrell](https://github.com/steebi)
