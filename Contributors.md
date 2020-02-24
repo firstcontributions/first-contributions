@@ -20215,6 +20215,7 @@ rehan
 - [Joon Park](https://github.com/andifer702)
 - [Thatchakon J](https://github.com/dsjin)
 - [Heron Zhang](https://github.com/HeronZhang)
+- [Minal Ashfaq](https://minal15.github.io/)
 - [Ed Einfeld] (https://github.com/edfeld)
 - <Paul Ray> {https://github.com/PaulXchange}
 - [Takuya Suemura](https://github.com/tsuemura)
