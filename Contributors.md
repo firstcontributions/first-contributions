@@ -426,6 +426,8 @@ Deepika Padmanabhan
 - [omesb](https://omesb.github.io)
 - [Dan_b](https://github.com/DanBasson/first-contributions)
 - [Ben](https://github.com/zerler)
+
+
 - [Akhil Singh](https://github.com/HumbleBustler)
 - [Nate Liu](https://github.com/n8liu)
 - cmd-prompt
@@ -20188,5 +20190,6 @@ rehan
 - [Vivek Shakya](https://github.com/shakyav)
 - [Walter Lu](https://github.com/WalterLu3) 
 - [Siddarth Patil] (https://github.com/siddarth-patil)
+- [Amaechi Amarachi](https://github.com/amycruz97)
 - [mushahid baig](https://mirzamushahid123.github.io/mushhahid123.github.io/)
 - [Daniel Liu](https://github.com/thundermiracle)
