@@ -51,6 +51,7 @@ Julia Bolting
 - Turkei \o/
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
 - Jot
+- FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
 - kayode Aina(https://github.com/firstcontributions/first-contributions)
 - Sonam Klein (https://github.com/sonamdo)
