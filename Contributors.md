@@ -13531,6 +13531,7 @@ macdara-dev
 - [Bryan Noriega](https://github.com/melicard)
 - [Luke Jennings](https://github.com/MoltenBear)
 - [Phakin Cheangkrachange](https://github.com/teamsoo)
+- [Mirza Mushahid](https://github.com/mirzamushahid123)
 - [Jessi DiTocco](https://github.com/jessiditocco)
 - [Arsalan Etehad](https://github.com/ArsalanEtehad)
 - [Julia Berkovitz](https://github.com/juliaberk)
