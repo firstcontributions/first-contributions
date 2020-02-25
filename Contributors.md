@@ -147,6 +147,7 @@ Julia Bolting
 - Jack Fetkovich
 Will-C
 - Nikhil joshi
+- Jofel
 - Bethany Roberts 
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
