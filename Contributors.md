@@ -9,6 +9,7 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
+- Pooja Singh
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
