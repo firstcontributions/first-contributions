@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Ryan Westcott (https://github.com/RywesTech)
 - Aniket Narayan (https://github.com/mrgooglr)
 - Antonio Cassano (https://github.com/antoniocassano84)
@@ -18,6 +18,7 @@
 - Look back
 - Bagelbun
 - willwalsh96
+- BurbonPig
 - [Idris Olubisi](https://github.com/olanetsoft)
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
