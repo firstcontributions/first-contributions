@@ -16809,7 +16809,6 @@ macdara-dev
 - [Rishil](https://github.com/rishilss99)
 - [Guillem Garcia](https://github.com/cgodgers)
 - [Vansh Devgan](https://github.com/vanshdevgans)
-- [TRY](https://github.
 - [TRY](https://github.com/TheRealYann)
 - [Dylan Nakahodo](http://github.com/dylannakahodo)
 - [NAMAN JAIN](https://github.com/njain794)
