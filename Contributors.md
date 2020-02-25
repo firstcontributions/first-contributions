@@ -9,7 +9,6 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
-- [Vishal Ibitwar](https://github.com/vishalibitwar)
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
@@ -498,6 +497,7 @@ Deepika Padmanabhan
 - [Paras Tripathi](https://github.com/parastripathi)
 - [Yufan](http://github.com/yxc775)
 - [Tharupahan](https://github.com/Tharupahan)
+- [Vishal Ibitwar](https://github.com/vishalibitwar)
 - [Tim](https://github.com/adlotsof)
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Boris Chen](https://github.com/DigitalZenChen2017)
