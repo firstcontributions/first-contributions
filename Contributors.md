@@ -18421,6 +18421,7 @@ rehan
 - [AshimaSeth](https://github.com/ASHSETH2000)
 - [Harsh Doshi](https://github.com/harsh-doshii)
 - [Nuno Ferreira](https://github.com/koriolis)
+- [Bilal Minhas] (https://github.com/bilalm354)
 - snikitha
 - [Kieff Wong](https://github.com/kieffwong)
 - [Koketso Mmelesi](https://github.com/MorobaBW)
