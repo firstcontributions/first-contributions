@@ -1,4 +1,5 @@
 ﻿# Contributors
+- John Fitzhenry (https://github.com/fitzhenry)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aniket Narayan (https://github.com/mrgooglr)
 - Antonio Cassano (https://github.com/antoniocassano84)
