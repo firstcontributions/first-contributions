@@ -58,6 +58,7 @@ Julia Bolting
 - FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
 - kayode Aina(https://github.com/firstcontributions/first-contributions)
+- Tushar Phirke(https://github.com/phirketushar)
 - Sonam Klein (https://github.com/sonamdo)
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
