@@ -20284,4 +20284,5 @@ rehan
 - [Stephen Farrell](https://github.com/steebi)
 - [Eodie](https://github.com/eodie)
 - [Rajaraman](https://github.com/raja4tech)
+- [Daniel Bright](https://github.com/brahyt)
 - [Richard Folea](https://github.com/Aelof3)
