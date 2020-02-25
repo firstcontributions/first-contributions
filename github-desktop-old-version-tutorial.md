@@ -11,7 +11,7 @@
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+Reading articles and watching tutorials can help, but nothing comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are, the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -34,7 +34,7 @@ If it is not already selected, click on `Clone`. Then choose first-contributions
 
 <img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-Choose the directory on your machine you would like to clone first-contributions into 
+Choose the directory on your machine you would like to clone(save) first-contributions into 
 
 <img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
