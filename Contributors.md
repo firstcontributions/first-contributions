@@ -45,6 +45,7 @@ Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
 - Subham Kumar
+- Michael Childress
 - Horvath Aron 
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
