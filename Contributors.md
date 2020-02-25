@@ -6341,6 +6341,7 @@ Noam Taub
 - [gsguglielmo](https://github.com/gsguglielmo)
 - [balaram2](https://github.com/balaram2/)
 - [nocomms5](https://github.com/nocomms5)
+- [0xBlackMirror] (https://github.com/0xBlackMirror)
 - [Summit Suen](https://github.com/suensummit)
 - [Cobrettie Garner](https://github.com/Cobrettie)
 - [Marichka Offen](https://github.com/Marichka94)
