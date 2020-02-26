@@ -1,4 +1,5 @@
 # Contributors
+- Drake Beuter (https://github.com/DrakeBeuter)
 - Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
