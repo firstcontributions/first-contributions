@@ -1,4 +1,6 @@
-﻿# Contributors
+﻿
+# Contributors
+- Eric Lian (https://github.com/EricZhengLian)
 - John Fitzhenry (https://github.com/fitzhenry)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
