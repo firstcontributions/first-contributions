@@ -6,6 +6,7 @@
 - John Fitzhenry (https://github.com/fitzhenry)
 - Ricks (https://github.com/iamricks)
 - Shakeane Hinds (https://github.com/shakeanehinds)
+- Diref
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
