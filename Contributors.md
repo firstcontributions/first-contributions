@@ -1,4 +1,5 @@
 # Contributors
+- Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
