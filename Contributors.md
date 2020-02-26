@@ -1,4 +1,5 @@
 # Contributors
+- Daniel Elleman (https://github.com/ellemand)
 - Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
