@@ -188,6 +188,7 @@ Will-C
 - Punit Patel (https://github.com/punitpatel2601)
 - David Domingues (https://github.com/davidc2p)
 - Ka Chingsubam (https://github.com/kachingsubam)
+- [Gilbert Hopkins](https://github.com/gboogy)
 - Jhamere Wilson (https://github.com/JhamereWilson)
 - Minuth Prom (https://github.com/minuth)
 Derek Leach
