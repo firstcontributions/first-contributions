@@ -87,6 +87,7 @@ Julia Bolting
 - Vinay
 - Ahrman
 - Avishree Khare
+- Jack Jones (https://github.com/jonesjacklewis)
 - Aditya Abhishek
 - Andrus Kessel (https://github.com/antant314)
 - Christian De La Torre(https://github.com/cleeksdlt)
