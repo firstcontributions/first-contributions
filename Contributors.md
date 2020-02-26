@@ -18,6 +18,7 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
+- Mayur Lalwani
 - Pooja Singh
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
