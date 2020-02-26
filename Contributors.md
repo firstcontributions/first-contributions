@@ -16,6 +16,7 @@
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
+- Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
 - Charlotte Dibb
 - Look back
 - Bagelbun
