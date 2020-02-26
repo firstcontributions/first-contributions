@@ -1,4 +1,5 @@
 # Contributors
+- Nicholas Nautiyal
 - Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
