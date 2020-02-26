@@ -1,4 +1,5 @@
 # Contributors
+- Amanda Tracy (https://github.com/tracyam)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
