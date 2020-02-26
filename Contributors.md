@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Jonah Song (https://github.com/jonahsong)
 - John Fitzhenry (https://github.com/fitzhenry)
 - Ricks (https://github.com/iamricks)
 - Shakeane Hinds (https://github.com/shakeanehinds)
