@@ -727,6 +727,7 @@ Deepika Padmanabhan
 - Jun Zhao
 - Fenkil A
 -Komal Jhanwar
+- [Steven Duijvesteijn](https://github.com/stevenduijvesteijn)
 - [Colin Duggan](https://github.com/cdugga)
 - [Joao Portela](https://github.com/jcbastosportela)
 - [Atul Shukla]  (https://github.com/atulsbit)
