@@ -21,7 +21,8 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
--Mark Kariuki
+- Mark Kariuki
+- Mittul Mandhan
 - Caleb Contreras
 - Mayur Lalwani
 - Pooja Singh
