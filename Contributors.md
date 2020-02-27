@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Gaven Martung (https://github.com/GavenMartung)
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
@@ -25,6 +25,7 @@
 - Caleb Contreras
 - Mayur Lalwani
 - Pooja Singh
+- Ameera Najah
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
