@@ -55,15 +55,12 @@ Leer artículos y ver tutoriales puede ayudar, pero ¿Qué mejor que hacer las c
 
 Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
 
-## Dale Fork al repositorio
+## Crea un *Fork* del repositorio
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
-Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
+Haz un "fork" de este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
 
-## Clona "Clone" el repositorio
+## Clona (*Clone*) el repositorio
 
 <img align="right" width="300" src="../assets/clone.png" alt="clonar este repositorio" />
 

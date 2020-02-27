@@ -263,6 +263,7 @@ Deepika Padmanabhan
 - Paul Dill (https://github.com/Dillweed5446)
 - Maria Dias
 - Praveen(https://github.com/praveennadiminti)
+- [Adrian Osorio](https://github.com/dev-adriano)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
 - Tyler Martin (https://github.com/TYLER-JM)
