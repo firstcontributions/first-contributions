@@ -1,6 +1,7 @@
 # Contributors
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
+- Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
