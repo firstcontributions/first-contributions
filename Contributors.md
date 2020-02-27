@@ -9,6 +9,7 @@
 - Ricks (https://github.com/iamricks)
 - Shakeane Hinds (https://github.com/shakeanehinds)
 - Diref
+- [Hanan Mufti](https://github.com/h-ARTS)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
