@@ -25,6 +25,7 @@
 - 516M
 - Mark Kariuki
 - Mittul Mandhan
+- Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
 - Mayur Lalwani
 - Pooja Singh
