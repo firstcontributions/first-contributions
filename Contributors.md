@@ -8358,6 +8358,7 @@ Aman Panjwani
 - [Mariia Tkachenko](https://github.com/mary-tkachenko)
 - [aman kumar soni](https://github.com/computerwala)
 - [Mansi Breja](https://github.com/MansiBreja)
+- [Matteo Alessandro Stefania](https://github.com/TeoSandroSte)
 - [Long Tran](https://github.com/nhulongctk35)
 - [Luka Kovacic](https://github.com/Lux652)
 - [Russell Goldman](https://github.com/russellgoldman)
