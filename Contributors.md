@@ -109,6 +109,7 @@ Julia Bolting
 - Nick B (https://github.com/ceramicskull)
 - Lukas Gokl (https://github.com/Glukas132)
 - nemesis06
+- Sijo Jose
 - Somal Chakraborty(https://github.com/SomalRudra)
 - Vignesh Deivanayagam(https://github.com/superzaiyan/)
 - Chris Otter(https://github.com/cotter3/)
