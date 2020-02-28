@@ -945,6 +945,7 @@ Deepika Padmanabhan
 - [Brett Fattori](https://github.com/bfattori-TDA)
 - [Manny102030]
 - [EvilTrtl]
+- [Bad Cafe](https://github.com/bad-cafe)
 - [ShubhaIn]
 - [Sandro Sp]
 - [Jessica Santos]
