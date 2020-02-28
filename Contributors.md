@@ -160,6 +160,7 @@ Julia Bolting
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Angshuman Bhowmik(https://github.com/Angshuman032001)
+[Paul](https://github.com/prussell21)
 -Linus
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
