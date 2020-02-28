@@ -41,6 +41,7 @@
 - Look back
 - Bagelbun
 - willwalsh96
+- Priya Jagadeesan(https://github.com/priya-dharsinij)
 - [Idris Olubisi](https://github.com/olanetsoft)
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
