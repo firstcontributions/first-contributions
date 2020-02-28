@@ -20340,4 +20340,5 @@ rehan
 - [Tiago Correia](https://github.com/tiagorcorreia)
 - [Aleksandr Iurkin] (https://github.com/AlexYurkin)
 - [Andrew C](https://github.com/achoi2)
+- Jennifer Novak (https://github.com/Jennifer-Novak)
 - [Adebayo Ilerioluwa](https://github.com/adebayoileri)
