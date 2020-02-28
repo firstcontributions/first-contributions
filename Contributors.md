@@ -943,6 +943,7 @@ Deepika Padmanabhan
 - [Jason Bourne the Second]
 - [Will Barnard](https://github.com/mrwillbarnz)
 - [Brett Fattori](https://github.com/bfattori-TDA)
+- [Brettster](https://github.com/bfattori)
 - [Manny102030]
 - [EvilTrtl]
 - [Bad Cafe](https://github.com/bad-cafe)
