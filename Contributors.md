@@ -20330,6 +20330,7 @@ rehan
 - Akinbode Abitogun (https://github.com/abitoguna)
 - [Stephen Farrell](https://github.com/steebi)
 - [Eodie](https://github.com/eodie)
+- [awpathum](https://github.com/awpathum)
 - [Rajaraman](https://github.com/raja4tech)
 - [Daniel Bright](https://github.com/brahyt)
 - [Richard Folea](https://github.com/Aelof3)
