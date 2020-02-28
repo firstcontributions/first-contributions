@@ -4085,6 +4085,9 @@ Noam Taub
 - David An
 - Alice Always
 - aish
+- Leonardo R.
+- Marcella B.
+- Reuel K. 
 - [Mini Mel](https://github.com/Mini-mel)
 - Bug2k19
 - Sajith Bandara
