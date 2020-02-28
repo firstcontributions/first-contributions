@@ -33,6 +33,7 @@
 - Pooja Singh
 - Ameera Najah
 - KoaLaYT (https://github.com/KoaLaYT)
+- [mehari](https://github.com/mymehari02)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
 - Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
