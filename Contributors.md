@@ -40,6 +40,7 @@
 - Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
 - Charlotte Dibb
 - Look back
+Izaroth (https://github.com/Izarothy)
 - Bagelbun
 - willwalsh96
 - Priya Jagadeesan(https://github.com/priya-dharsinij)
