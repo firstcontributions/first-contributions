@@ -10173,6 +10173,7 @@ Aman Panjwani
 - [solodynamo](https://github.com/solodynamo)
 - [trillaxe](https://github.com/trillaxe)
 - [nicolas oppitz](https://github.com/nickoppitz)
+- [Akash Paul](https://github.com/AddictedA1)
 - [Enrique Gan] (https://github.com/PitEG)
 - [Jitendra Khadse] (https://github.com/jitendrakhadse)
 - [wilgjah](https://github.com/wilkinv)
