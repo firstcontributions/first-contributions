@@ -32,6 +32,7 @@
 - Caleb Contreras
 - Mayur Lalwani
 - Pooja Singh
+- Izaroth (https://github.com/Izarothy)
 - Ameera Najah
 - KoaLaYT (https://github.com/KoaLaYT)
 - [Mehari](https://github.com/mymehari02)
