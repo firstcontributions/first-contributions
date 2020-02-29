@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
+- Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
