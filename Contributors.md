@@ -9,6 +9,7 @@
 - Ekki Lu
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
+- Bryan Baker (https://github.com/bry310)
 - John Fitzhenry (https://github.com/fitzhenry)
 - Ricks (https://github.com/iamricks)
 - Shakeane Hinds (https://github.com/shakeanehinds)
