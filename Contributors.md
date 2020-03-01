@@ -2482,6 +2482,7 @@ Hammad Qureshi
 - [Szaszko David](https://github.com/Szeszkoo)
 - [Luis Pena](https://github.com/poszy)
 - [Joe-A-D](https://github.com/joe-a-d)
+- [Stephen Oyeyo](https://github.com/sulemaez)
 - [Nidhi Surya Prakash](https://github.com/nidhiprakash)
 - [Tony K](https://github.com/memphis2coder)
 [Jonathan Valderrama](https://github.com/valdeezzee)
