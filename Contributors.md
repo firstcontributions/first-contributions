@@ -12862,6 +12862,7 @@ macdara-dev
 - [DaoBee](https://github.com/daobee)
 - [Mihir Thatte](https://github.com/mihirthatte)
 - [Mebtte](https://github.com/mebtte)
+- [Mandong Pedroza](https://github.com/mand0ng)
 - [Agustin Daguerre](https://github.com/agustindaguerre)
 - [Alex Calhoun](https://github.com/alhoun17)
 - [Marc Young](https://github.com/marcjlyoung)
