@@ -513,6 +513,7 @@ Deepika Padmanabhan
 - [Barry Henry](https://github.com/BarryHenryJr)
 - [petrus-vb](https://github.com/petrus-vb)
 - [Zunaib](https://github.com/Zunaib)
+- [Kaike Alves Silva](https://github.com/kaikealves)
 - [Jasmyne](https://github.com/jazzyb21)
 - [Alyona Rodin] (https://github.com/TalRodin)
 - [Warmbreeze](https://github.com/warmbreeze)
