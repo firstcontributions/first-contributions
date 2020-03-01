@@ -12,6 +12,7 @@
 - Bryan Baker (https://github.com/bry310)
 - John Fitzhenry (https://github.com/fitzhenry)
 - Ricks (https://github.com/iamricks)
+- Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
 - Diref
 - [Hanan Mufti](https://github.com/h-ARTS)
