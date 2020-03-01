@@ -86,6 +86,7 @@ Julia Bolting
 - Anuraj Guha
 - Turkei \o/
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
+- Yousuf
 - Jot
 - FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
