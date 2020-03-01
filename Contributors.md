@@ -20355,3 +20355,4 @@ rehan
 - [Aleksandr Iurkin] (https://github.com/AlexYurkin)
 - [Andrew C](https://github.com/achoi2)
 - [Adebayo Ilerioluwa](https://github.com/adebayoileri)
+- Rachele Lahr (https://github.com/Rachele-Lahr)
