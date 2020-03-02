@@ -80,6 +80,7 @@ Julia Bolting
 - Noemptytags
 - Subham Kumar
 - Michael Childress
+- Adam Mlodozeniec
 - Horvath Aron 
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
