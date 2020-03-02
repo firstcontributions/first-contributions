@@ -15,6 +15,7 @@
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
+- Marcelly
 - Antonio Cassano (https://github.com/antoniocassano84)
 - KogoKing (https://github.com/kogoking)
 - David Perlman (https://github.com/dperlman)
