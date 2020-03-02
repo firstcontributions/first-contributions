@@ -24,11 +24,12 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
-- Mark Kariuki
+Milena Antoniutti (https://github.com/milenaifpr)
+- Mark Kariuki 
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
-- Mayur Lalwani
+- Mayur Lalwani 
 - Pooja Singh
 - Ameera Najah
 - KoaLaYT (https://github.com/KoaLaYT)
