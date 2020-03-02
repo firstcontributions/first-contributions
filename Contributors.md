@@ -40,6 +40,7 @@
 - Pooja Singh
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
+- Sarinhatomal
 - KoaLaYT (https://github.com/KoaLaYT)
 - [Mehari](https://github.com/mymehari02)
 - Jordyn (https://github.com/jordy337)
