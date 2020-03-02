@@ -29,6 +29,7 @@
 - Kyle Grube (https://github.com/kgrube5)
 - [segfault-philosopher] (https://github.com/segfault-philosopher)
 - Ashwini Jha
+- Isadora
 - Prashanth Pai
 - 516M
 - Mark Kariuki
