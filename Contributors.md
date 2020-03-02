@@ -106,6 +106,7 @@ Julia Bolting
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Vinay
+  Telma Thomas (https://github.com/telmathomas)
 - Ahrman
 - Avishree Khare
 - Jack Jones (https://github.com/jonesjacklewis)
