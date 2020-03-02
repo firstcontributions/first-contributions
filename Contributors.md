@@ -32,6 +32,7 @@
 - Prashanth Pai
 - 516M
 - Mark Kariuki
+- LarissaAssis
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
