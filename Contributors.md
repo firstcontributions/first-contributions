@@ -72,7 +72,7 @@ Julia Bolting
 - Noemptytags
 - Subham Kumar
 - Michael Childress
-- Gustavo Federovicz Meira Rocha (https://github.com/GustavoFMRocha)
+- Gustavo Federovicz Meira Rocha  (https://github.com/GustavoFMRocha)
 - Horvath Aron 
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
