@@ -20373,3 +20373,4 @@ rehan
 - [Andrew C](https://github.com/achoi2)
 - [Adebayo Ilerioluwa](https://github.com/adebayoileri)
 - [codestealthy] (https://github.com/codestealthy)
+- [Michael Schneider] (https://github.com/michaelsndr)
