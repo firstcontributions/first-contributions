@@ -60,8 +60,6 @@
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Murilo Mundel
-- Joao viqueto Graziota
-- Isabel Dolinski
 - Phoebe Zhou [https://github.com/babyzhouying]
 - Ben Rosen
 - Devon Scewmer(https://github.com/dnbroo)
@@ -127,6 +125,7 @@ Julia Bolting
 - Adriano Kultzak
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Bulat Sultanov
+- Isabel Dolinski
 - [Hardik Jain](https://github.com/nepython)
 - Brenda Ribeiro
 - Afua Kesewa Boateng (https://github.com/AfuaKB)
@@ -273,6 +272,7 @@ Deepika Padmanabhan
 - Paul Dill (https://github.com/Dillweed5446)
 - Maria Dias
 - Can Karaman
+- Joao viqueto Graziota
 - Praveen(https://github.com/praveennadiminti)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
