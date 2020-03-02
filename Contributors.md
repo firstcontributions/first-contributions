@@ -115,6 +115,7 @@ Julia Bolting
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Vinay
   Telma Thomas (https://github.com/telmathomas)
+- Ana Rokenbach
 - Ahrman
 - Avishree Khare
 - Jack Jones (https://github.com/jonesjacklewis)
