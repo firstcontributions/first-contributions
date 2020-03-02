@@ -59,6 +59,9 @@
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Murilo Mundel
+- Joao viqueto Graziota
+- Isabel Dolinski
 - Phoebe Zhou [https://github.com/babyzhouying]
 - Ben Rosen
 - Devon Scewmer(https://github.com/dnbroo)
