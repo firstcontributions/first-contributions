@@ -31,6 +31,7 @@
 - Mayur Lalwani
 - Pooja Singh
 - Ameera Najah
+- Sarinhatomal
 - KoaLaYT (https://github.com/KoaLaYT)
 - Jordyn (https://github.com/jordy337)
 - Chinedumc (https://github.com/chinedumc)
