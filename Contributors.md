@@ -11,6 +11,7 @@
 - Ricks (https://github.com/iamricks)
 - Shakeane Hinds (https://github.com/shakeanehinds)
 - Diref
+- Joel Josafa
 - [Hanan Mufti](https://github.com/h-ARTS)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
