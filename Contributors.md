@@ -26,6 +26,7 @@
 - Ahmad Kasem (https://github.com/AhmadKasem)
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
+- [segfault-philosopher] (https://github.com/segfault-philosopher)
 - Ashwini Jha
 - Prashanth Pai
 - 516M
