@@ -10369,6 +10369,7 @@ Aman Panjwani
 - [nancho313](https://github.com/nancho313)
 - len probert
 - Philippos Johnson
+- [Nikolaos Alexiou](https://github.com/nalexiou)
 - [joseph](https://github.com/Joseph1989)
 - [manuella valenca](https://github.com/manuellavalenca)
 - [Pablo J](https://github.com/pablo0910)
