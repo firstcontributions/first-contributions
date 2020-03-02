@@ -36,6 +36,7 @@
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
 - Mayur Lalwani
+- Karini lbo 
 - Pooja Singh
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
