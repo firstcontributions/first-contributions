@@ -32,6 +32,7 @@
 - [segfault-philosopher] (https://github.com/segfault-philosopher)
 - Ashwini Jha
 - Prashanth Pai
+Junior Schroh (https://github.com/JuniorSchroh)
 - 516M
 - Mark Kariuki
 - LarissaAssis
