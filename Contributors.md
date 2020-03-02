@@ -5,6 +5,7 @@
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
+- Rhyan Stefanowicz
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
 - John Fitzhenry (https://github.com/fitzhenry)
