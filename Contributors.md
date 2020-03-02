@@ -17,6 +17,7 @@
 - Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
 - Diref
+- Silvano Filho
 - [Hanan Mufti](https://github.com/h-ARTS)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
