@@ -67,6 +67,7 @@
 - Leo Emman
 - Omri Tal (https://github.com/omriutal)
 - Dirceli
+- Murilo Mundel
 Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
@@ -417,6 +418,7 @@ Deepika Padmanabhan
 - [Suyash Raj] (https://github.com/suyash-sneo)
 - [Amr Akmal]   (https://github.com/amroakmal)
 - Alen
+- Joao Vitor Grazziotin
 - Cherry Santos
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
@@ -737,6 +739,7 @@ Deepika Padmanabhan
 - Kaustubh Dixit
 - Jun Zhao
 - Fenkil A
+- Isabela Dolinski
 -Komal Jhanwar
 - [Steven Duijvesteijn](https://github.com/stevenduijvesteijn)
 - [Colin Duggan](https://github.com/cdugga)
