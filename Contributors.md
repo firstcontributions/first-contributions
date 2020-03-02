@@ -20007,6 +20007,7 @@ rehan
 - [Ted Dersch](https://github.com/tedez)
 - [Daniel Lee](https://github.com/dlee2015)
 - [Richard Cui](https://github.com/achuacui)
+- [Heloise Jukowski](https://github.com/heloisejukowski)
 - [navidadelpour](https://github.com/navidadelpour)
 - [Tomofumi Chiba](https://github.com/chibat)
 - [Bryce Howard](https://github.com/kbHoward2)
