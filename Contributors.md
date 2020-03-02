@@ -8,6 +8,8 @@
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
+- Walter Filho
+- Michel pexe
 - Prakhar Nahar (https://github.com/thatprakhar)
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
