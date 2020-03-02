@@ -272,7 +272,7 @@ Deepika Padmanabhan
 - Paul Dill (https://github.com/Dillweed5446)
 - Maria Dias
 - Can Karaman
-- Joao viqueto Graziota
+- Joao Victor gRAZZIOTIN
 - Praveen(https://github.com/praveennadiminti)
 - Hatef Palizgar(https://github.com/palizgar)
 - Bob Yu (https://github.com/magicprogram1234)
