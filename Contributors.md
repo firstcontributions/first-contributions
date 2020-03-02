@@ -23,6 +23,7 @@
 - Kyle Grube (https://github.com/kgrube5)
 - Ashwini Jha
 - Prashanth Pai
+Junior Schroh (https://github.com/JuniorSchroh)
 - 516M
 - Mark Kariuki
 - Mittul Mandhan
