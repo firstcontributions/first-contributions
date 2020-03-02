@@ -41,6 +41,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Caleb Contreras
 - Mayur Lalwani
 - Karini lbo 
+- Otavio rasera
 - Pooja Singh
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
