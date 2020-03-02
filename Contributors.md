@@ -12742,6 +12742,7 @@ macdara-dev
 - [Alisson Valdir de Souza](https://github.com/alivs)
 - [Tucker](https://github.com/TuckMonty)
 - [Mitchell Jeppson](https://github.com/mitchelljeppson)
+- [Nonso Andre](https://github.com/andre4400)
 - [Camber Griffin](https://github.com/camberlucian)
 - [mac-time](https://github.com/mac-time)
 - [Antonio Bucciol](https://github.com/TBuc)
