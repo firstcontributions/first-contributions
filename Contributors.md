@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
+- [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
 - Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
