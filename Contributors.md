@@ -25,6 +25,7 @@
 - Prashanth Pai
 - 516M
 - Mark Kariuki
+- Bruno_Muller
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
