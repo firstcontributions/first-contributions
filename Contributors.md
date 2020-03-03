@@ -13,6 +13,7 @@
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
 - Luis Guilherme Chavarski
+- Michael S.J. (https:github.com/mjohns09)
 - Abhijit
 - Kevin M (https://github.com/kmckigney)
 - Maren Westermann (https://github.com/marenwestermann)
