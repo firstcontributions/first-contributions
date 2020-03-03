@@ -107,6 +107,7 @@ Julia Bolting
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
 - Yousuf
 - Jot
+- Aurora Awasthi
 - FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
 - kayode Aina(https://github.com/firstcontributions/first-contributions)
