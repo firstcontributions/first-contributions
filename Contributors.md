@@ -436,6 +436,7 @@ Deepika Padmanabhan
 - [Sammy Nichols] (https://github.com/SammyFantana)
 - [Raphaele Lamaze] (https://github.com/raphaele42)
 - Jason Cozzitorto
+- [Ronney Martin] (https://github.com/hirsute-chauve)
 - [Dandy Reyes] (https://github.com/dandyreyes)
   [Tomasz Mejer] (https://github.com/tomek-em)
 - [J Walker] (https://github.com/jwalker0903)
