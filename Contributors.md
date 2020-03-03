@@ -10514,6 +10514,7 @@ Aman Panjwani
 - [Divyanshi Sharma](https://github.com/divyanshi26/)
 - [Hieratikos](https://github.com/Hieratikos)
 - [Piash Sarker](https://github.com/piashsarker)
+- [Goutham Kamath](https://github.com/GouthamKamath)
 - [Marek](https://github.com/marekpetak)
 - [Ido](https://github.com/idodana)
 - [Knave](https://github.com/knave)
