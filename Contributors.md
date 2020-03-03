@@ -663,6 +663,7 @@ Deepika Padmanabhan
 - [Cameron Harris]
 - [crawler]
 - [Abdullah Khairi](https://github.com/iriahk89)
+- [Taíssa Caroline da Silva]
 - [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
 - [Juan Carlos Colombo] (https://github.com/juan-colombo95)
