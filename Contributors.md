@@ -15,6 +15,7 @@
 - Ekki Lu
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
+- Leonardo Matias
 - Abhijit
 - Meir till when march 17
 - Kevin M (https://github.com/kmckigney)
