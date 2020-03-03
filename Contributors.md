@@ -200,6 +200,9 @@ Julia Bolting
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
+ -gabriela
+ -larissa
+ -leticia
 - Yeongyoon Park (https://github.com/ypark66)
 -Muhammad bin fayyaz (https://github.com/MuhammadPen)
 -Rachel
