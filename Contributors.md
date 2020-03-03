@@ -5777,6 +5777,8 @@ Noam Taub
 - [Akram Khan](https://github.com/akram02)
 - [kevin theron](https://github.com/Osyx31)
 - [Goerge Onoji](https://github.com/Ghreeyn)
+- [Eduardo Karpovoisch](https://github.com/EduardoKarpovisch)
+- [Leandro Gordo Fragoso](https://github.com/LeandrinhoDaGalera)
 - [Suraj Branwal](https://github.com/brandier-jd)
 - [Dinesh Vijayakumar](https://github.com/busybee1149)
 - [Carl Balmer](https://github.com/carlbalmer)
