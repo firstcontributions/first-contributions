@@ -129,7 +129,8 @@ Julia Bolting
 - Vinay
   Telma Thomas (https://github.com/telmathomas)
 - Ana Rokenbach
-- Ahrman
+- Eduarda Souza
+Ahrman
 - Avishree Khare
 - Jack Jones (https://github.com/jonesjacklewis)
 - Aditya Abhishek
