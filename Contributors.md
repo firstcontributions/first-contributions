@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
@@ -30,6 +30,7 @@
 - Rafael Portaluppi
  Bruna Chagas (https://github.com/brunajanainachagas)
 - [Hanan Mufti](https://github.com/h-ARTS)
+- MattHew Phraxayavong (https://github.com/PhraxayaM)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
