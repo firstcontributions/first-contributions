@@ -13306,6 +13306,7 @@ macdara-dev
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
+- Eduarda  Morandi
 - [Matt Steadman](https://github.com/mattsteadman)
 - [Jarl](https://github.com/Biograf)
 - [Anne Lee Steele](https://github.com/aleesteele)
@@ -18624,6 +18625,7 @@ macdara-dev
 - [Jono](https://github.com/EagleOne42)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
 - hongwen000
+- Rebecca Andolfato 
 - [Dominika Malinowska](https://github.com/doma1991)
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
