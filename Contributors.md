@@ -432,6 +432,7 @@ Deepika Padmanabhan
 - [Shigeto Jeng]
     [Steve Mullins] (https://github.com/sgmullins)
   [Evelyn Chang]
+  [Bryan Myung]
   [CleverPossum]
 - [StrangeAlmond] (https://github.com/StrangeAlmond)
 - [SeungJun (Leon) Lee] (https://github.com/Leonlee190)
