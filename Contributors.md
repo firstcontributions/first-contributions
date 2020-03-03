@@ -12,6 +12,7 @@
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
+- Luis Guilherme Chavarski
 - Abhijit
 - Kevin M (https://github.com/kmckigney)
 - Prakhar Nahar (https://github.com/thatprakhar)
@@ -78,6 +79,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Thomas Yee (https://github.com/thomas-yee)
 - Samuel Alarco
+-Tatiane Gonçalves
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
@@ -256,6 +258,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- Ana Wowcsuk
 - Conor Barr (https://github.com/Conor94)
 - William Perkins (https://github.com/wjperk)
 - [João Guilherme Hagemann](https://github.com/jghagemann)
@@ -664,6 +667,7 @@ Deepika Padmanabhan
 - [Cameron Harris]
 - [crawler]
 - [Abdullah Khairi](https://github.com/iriahk89)
+- [Taíssa Caroline da Silva]
 - [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
 - [Juan Carlos Colombo] (https://github.com/juan-colombo95)
@@ -13286,6 +13290,7 @@ macdara-dev
 - [Luke Stoward](https://github.com/Stoward94)
 - [Pepijn Overbeeke](https://github.com/pepijno)
 - [Rohith Gilla](https://github.com/Rohithgilla12)
+- [NathanNicole] (https://github.com/niiconii)
 - [Andrew Robilliard](https://github.com/ALRobilliard)
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Abhishek Kumar](https://github.com/KmrAbhi)
@@ -20407,4 +20412,6 @@ rehan
 - [Rivindu Wijedoru] (https://github.com/rivindu1289)
 - [Sergio Marques] (https://github.com/sfm1977/)
 - [Laura Van Luyn] (https://github.com/lauravanluyn)
-- 
+add-Jackcelly-Ikenoue
+- [Lucas Zapotoczny] (https://github.com/lucaswh0)
+
