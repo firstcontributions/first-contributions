@@ -45,6 +45,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Mark Kariuki
 - LarissaAssis
 - Mittul Mandhan
+- Jear Jujaroen (https://github.com/jearjujaroen)
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
 - Mayur Lalwani
