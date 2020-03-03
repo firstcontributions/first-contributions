@@ -11,6 +11,7 @@
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
+- Femi Oladeji (https://github.com/djfemz)
 - Abhijit
 - Kevin M (https://github.com/kmckigney)
 - Prakhar Nahar (https://github.com/thatprakhar)
