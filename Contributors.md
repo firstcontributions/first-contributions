@@ -27,6 +27,7 @@
 -Eduarda Souza
  Diref
 - Ulhas Bhagwat
+- [Julio Denis] (https://github.com/jfdenis)
 - [Kashish Goel] (https://github.com/teddyphotos) 
 - Rafael Portaluppi
  Bruna Chagas (https://github.com/brunajanainachagas)
