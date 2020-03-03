@@ -15,6 +15,7 @@
 - Luis Guilherme Chavarski
 - Abhijit
 - Kevin M (https://github.com/kmckigney)
+- Maren Westermann (https://github.com/marenwestermann)
 - Prakhar Nahar (https://github.com/thatprakhar)
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
