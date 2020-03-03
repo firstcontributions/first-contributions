@@ -797,6 +797,7 @@ Deepika Padmanabhan
 - [Camilo Recce](https://github.com/oxyz2G)
 - [R Mullur](https://github.com/rmullur)
 - [Rachel Harvill](https://github.com/rsharvill)
+- [Bruno Nobre Zisman](https://github.com/brunozisman)
 - [Ivan Rodriguez](https://github.com/Ivan-Rdrgz/)
 - [Ivan Gonzalez](https://github.com/scratchmex/)
 - [David Vinter](https://github.com/David510V/)
