@@ -24,6 +24,7 @@
 - Rafael Portaluppi
  Bruna Chagas (https://github.com/brunajanainachagas)
 - [Hanan Mufti](https://github.com/h-ARTS)
+- Adit (https://github.com/adit2107)
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
@@ -45,6 +46,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
 - Caleb Contreras
+- Adit Ratnam (https://github.com/adit210)
 - Mayur Lalwani
 - Karini lbo 
 - Otavio rasera
