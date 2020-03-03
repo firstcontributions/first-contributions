@@ -500,6 +500,7 @@ Deepika Padmanabhan
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
 - [Thomas Holmegaard] (https://github.com/thom9346)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
+- [Gabriel Baltazar] (https://github.com/gbbaltazar)
 - [Omar-Shezan](https://github.com/OmarShezan)
 - [Hendrik Alberts](https://github.com/SuperSafie)
 - [Seth Feingold] (https://github.com/sethfeingold)
