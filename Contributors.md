@@ -197,6 +197,7 @@ Julia Bolting
 -Angshuman Bhowmik(https://github.com/Angshuman032001)
 [Paul](https://github.com/prussell21)
 -Linus
+-Ellen Dozoretz (https://github.com/dozoretze) 
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
