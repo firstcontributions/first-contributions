@@ -78,6 +78,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Thomas Yee (https://github.com/thomas-yee)
 - Samuel Alarco
+-Tatiane Gonçalves
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
