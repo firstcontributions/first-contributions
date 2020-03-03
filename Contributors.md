@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Somil Sharma] (https://github.com/somilsharma8)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
