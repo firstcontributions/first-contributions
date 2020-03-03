@@ -33,6 +33,7 @@
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
+- Thomas Tamber
 - Antonio Cassano (https://github.com/antoniocassano84)
 - KogoKing (https://github.com/kogoking)
 - David Perlman (https://github.com/dperlman)
