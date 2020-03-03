@@ -255,6 +255,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- Gabriel Manfroi (https://github.com/gabemanfroi)
 - Conor Barr (https://github.com/Conor94)
 - William Perkins (https://github.com/wjperk)
 - [João Guilherme Hagemann](https://github.com/jghagemann)
