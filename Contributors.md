@@ -12,6 +12,7 @@
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
+- Luis Guilherme Chavarski
 - Abhijit
 - Kevin M (https://github.com/kmckigney)
 - Prakhar Nahar (https://github.com/thatprakhar)
@@ -72,12 +73,14 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Song Ning Peng
 - Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
 - Adrieli Polsin
+- Matheus Maidel (https://github.com/Masthues)
 - Sethu Ram Kumar
 - [maisa bertotti](https://github.com/MaisaBertotti)
 - Johnathon Wood (https://github.com/jaywood128)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Thomas Yee (https://github.com/thomas-yee)
 - Samuel Alarco
+-Tatiane Gonçalves
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - Jazib Ali (https://github.com/mianjazibali)
@@ -119,15 +122,18 @@ Julia Bolting
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
 - Alberto Ferrando
-- Gabriela 
+- Gabriela
+- Gabriel Eddu Costa & Gabriele Mitzco Glaab 
 - Roman Maru (https://github.com/RomanMaru)
+- Luisa Arndt (https://github.com/luisaarndt)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
 - Vinay
   Telma Thomas (https://github.com/telmathomas)
 - Ana Rokenbach
-- Ahrman
+- Eduarda Souza
+Ahrman
 - Avishree Khare
 - Jack Jones (https://github.com/jonesjacklewis)
 - Aditya Abhishek
@@ -197,6 +203,7 @@ Julia Bolting
 -Angshuman Bhowmik(https://github.com/Angshuman032001)
 [Paul](https://github.com/prussell21)
 -Linus
+-Ellen Dozoretz (https://github.com/dozoretze) 
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
@@ -210,6 +217,7 @@ Julia Bolting
 - UTQNG
 - Jack Fetkovich
 Will-C
+ Fernanda e Ariane
 - Nikhil joshi
 - Jofel
 - Bethany Roberts 
@@ -255,6 +263,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- Ana Wowcsuk
 - Conor Barr (https://github.com/Conor94)
 - William Perkins (https://github.com/wjperk)
 - [João Guilherme Hagemann](https://github.com/jghagemann)
@@ -356,6 +365,7 @@ Deepika Padmanabhan
 - [Sam Ayorinde] (https://github.com/Sam-Devs)
 - [Ethan Soo Hon](https://github.com/ethanny2)
 - {Shrusty Singh}
+- [Maria](https://github.com/mariatanazildo/first-contributions.git)
 - Louisa B (https://github.com/VZee)
 - Sangharsh Seth (https://github.com/SangharshSeth)
 - [Reinaldo Salla] (https://github.com/ReinaldoSalla/)
@@ -497,6 +507,7 @@ Deepika Padmanabhan
 - [Wan Cheng Phua] (https://github.com/wanchengphua)
 - [Thomas Holmegaard] (https://github.com/thom9346)
 - [Arsenii-Petushkov](https://github.com/Petushkoff_Develop)
+- [Gabriel Baltazar] (https://github.com/gbbaltazar)
 - [Omar-Shezan](https://github.com/OmarShezan)
 - [Hendrik Alberts](https://github.com/SuperSafie)
 - [Seth Feingold] (https://github.com/sethfeingold)
@@ -663,6 +674,7 @@ Deepika Padmanabhan
 - [Cameron Harris]
 - [crawler]
 - [Abdullah Khairi](https://github.com/iriahk89)
+- [Taíssa Caroline da Silva]
 - [Oscar Gomezese](https://github.com/oscaradv)
 - [Juan Diego Marin](https://github.com/Juantonn)
 - [Juan Carlos Colombo] (https://github.com/juan-colombo95)
@@ -7774,6 +7786,7 @@ Aman Panjwani
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Keshav Kabra](https://github.com/everlearner)
 - [Tomas Ye](https://github.com/TomasDavidYe)
+- [Victor Hugo](https://github.com/VitaoDesgracadao)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [yusufcodes](https://github.com/yusufcodes)
 - [Aqsa Rehman](https://github.com/aqsarehman)
@@ -13285,6 +13298,7 @@ macdara-dev
 - [Luke Stoward](https://github.com/Stoward94)
 - [Pepijn Overbeeke](https://github.com/pepijno)
 - [Rohith Gilla](https://github.com/Rohithgilla12)
+- [NathanNicole] (https://github.com/niiconii)
 - [Andrew Robilliard](https://github.com/ALRobilliard)
 - [Melissa Sorrells](https://github.com/msorre2)
 - [Abhishek Kumar](https://github.com/KmrAbhi)
@@ -18097,6 +18111,7 @@ macdara-dev
 - [Rayen Manaa](https://github.com/Mlewii)
 - [Erik Werner](https://github.com/SOFeeA)
 - [Noeun Kim](https://github.com/NoSilver2018)
+- [Melissa Hamann](https://github.com/melissahamann)
 - [Dongwon Kim](https://github.com/dev-dongwon)
 - [giorgi aptsiauri](https://github.com/giorgi3092)
 - [Deepak Kumar Singh](https://github.com/SmushBall)
@@ -20326,6 +20341,7 @@ rehan
 - [Alesha Ray] (https://github.com/alesharay)
 - [Ogooluwa Akinola](https://github.com/rovilay)
 - furkan
+- [Derike Novak] [Eduardo Silva] [Vinicius Wendt] (https://github.com/DerikeNovak)
 - some dude
 - [Edward Wang](https://github.com/kaidame-na)
 - [Dmitry Soldakin] (https://github.com/dsoldatkin)
@@ -20407,3 +20423,4 @@ rehan
 - [Sergio Marques] (https://github.com/sfm1977/)
 - [Laura Van Luyn] (https://github.com/lauravanluyn)
 - [Jackcelly Ikenoue] (https://github.com/Jackcelly)
+- [Lucas Zapotoczny] (https://github.com/lucaswh0)
