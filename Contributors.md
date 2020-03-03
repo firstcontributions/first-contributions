@@ -16,6 +16,7 @@
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
 - Abhijit
+- Meir till when march 17
 - Kevin M (https://github.com/kmckigney)
 - Maren Westermann (https://github.com/marenwestermann)
 - Prakhar Nahar (https://github.com/thatprakhar)
