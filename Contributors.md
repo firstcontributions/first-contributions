@@ -3905,6 +3905,7 @@ Noam Taub
 - [Mike Disbrow](https://github.com/mdisbrow)
 - [Shreesh Roliwal](https://github.com/shreesh1)
 - [Eduardo Lerma](https://github.com/LaloCode)
+- [Rodrigo Boarão](https://github.com/Boarudo)
  - [Kai Heng Ann](https://github.com/kaihengann/)
 - [Javier Cabrera Puente](https://github.com/cabreration)
 - [Georgios Karakos](https://github.com/giorg0skar)
