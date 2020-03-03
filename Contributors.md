@@ -125,6 +125,7 @@ Julia Bolting
 - Gabriela
 - Gabriel Eddu Costa & Gabriele Mitzco Glaab 
 - Roman Maru (https://github.com/RomanMaru)
+- Luisa Arndt (https://github.com/luisaarndt)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
