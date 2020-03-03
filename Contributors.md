@@ -35,6 +35,7 @@
 - Ruben80 (https://github.com/Ruben80)
 - akshay naidu
 - Rama Maheswari
+- Caroline Kuckla
 - Mike Vinoski (https://github.com/acidrain777)
 - Solomon Selvakumar (https://github.com/solozzz)
 - Nick B (https://github.com/ceramicskull)
