@@ -23,7 +23,8 @@
 - Ricks (https://github.com/iamricks)
 - Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
-- Diref
+-Eduarda Souza
+ Diref
 - Rafael Portaluppi
  Bruna Chagas (https://github.com/brunajanainachagas)
 - [Hanan Mufti](https://github.com/h-ARTS)
