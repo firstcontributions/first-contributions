@@ -11,6 +11,7 @@
 - Seraphina Anderson (https://github.com/Seraph2000)
 - Ekki Lu
 - Abhijit
+- Kevin M (https://github.com/kmckigney)
 - Prakhar Nahar (https://github.com/thatprakhar)
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
