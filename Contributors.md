@@ -37,6 +37,7 @@
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
 - [segfault-philosopher] (https://github.com/segfault-philosopher)
+- Vitor Henrique de Matos Alvarenga
 - Ashwini Jha
 - Prashanth Pai
 Junior Schroh (https://github.com/JuniorSchroh)
