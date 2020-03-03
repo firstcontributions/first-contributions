@@ -7774,6 +7774,7 @@ Aman Panjwani
 - [Nicole Martindale](https://github.com/nikiollie)
 - [Keshav Kabra](https://github.com/everlearner)
 - [Tomas Ye](https://github.com/TomasDavidYe)
+- [Victor Hugo](https://github.com/VitaoDesgracadao)
 - [Colton Boston](https://github.com/ColtonBoston)
 - [yusufcodes](https://github.com/yusufcodes)
 - [Aqsa Rehman](https://github.com/aqsarehman)
