@@ -121,6 +121,7 @@ Julia Bolting
 - Alberto Ferrando
 - Gabriela 
 - Roman Maru (https://github.com/RomanMaru)
+- Luisa Arndt (https://github.com/luisaarndt)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
 - Mehedi Hasan Shifat (https://github.com/mh-shifat)
