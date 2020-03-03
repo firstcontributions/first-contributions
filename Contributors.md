@@ -20339,6 +20339,7 @@ rehan
 - [Alesha Ray] (https://github.com/alesharay)
 - [Ogooluwa Akinola](https://github.com/rovilay)
 - furkan
+- [Derike Novak] [Eduardo Silva] [Vinicius Wendt] (https://github.com/DerikeNovak)
 - some dude
 - [Edward Wang](https://github.com/kaidame-na)
 - [Dmitry Soldakin] (https://github.com/dsoldatkin)
