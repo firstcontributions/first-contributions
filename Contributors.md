@@ -119,7 +119,8 @@ Julia Bolting
 - Christian Spencer (https://github.com/Refuro)
 - [Simon]()
 - Alberto Ferrando
-- Gabriela 
+- Gabriela
+- Gabriel Eddu Costa & Gabriele Mitzco Glaab 
 - Roman Maru (https://github.com/RomanMaru)
 - [Rupesh Biswas](https://github.com/rupesh-biswas)
 - Tanish Malekar (https://github.com/tanish-malekar)
