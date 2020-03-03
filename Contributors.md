@@ -26,6 +26,7 @@
 - Shakeane Hinds (https://github.com/shakeanehinds)
 -Eduarda Souza
  Diref
+- Ulhas Bhagwat
 - [Kashish Goel] (https://github.com/teddyphotos) 
 - Rafael Portaluppi
  Bruna Chagas (https://github.com/brunajanainachagas)
