@@ -171,6 +171,7 @@ Ahrman
 - Bulat Sultanov
 - [Hardik Jain](https://github.com/nepython)
 - Brenda Ribeiro
+- Hari Krishnan U M
 - Afua Kesewa Boateng (https://github.com/AfuaKB)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
