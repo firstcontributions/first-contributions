@@ -7,6 +7,7 @@
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
 - Alex Rose
+- imemya19
 - Vivek Khimani
 - Prasanth Varada (https://github.com/prasanthvarada)
 - Mateusz Kocik (https://github.com/matkot11)
