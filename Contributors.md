@@ -20382,6 +20382,7 @@ rehan
 - [Trey Dahlberg](https://github.com/DeliciousLunch55/)
 - [Shawn McAllister](https://github.com/ShawnMcA)
 - [Seo CheongUn](https://github.com/newdeal123)
+- [Kramer Johnson](https://github.com/HaakenJ)
 - [Albert Jin](https://github.com/alberttjin)
 - [Vasilis Siomos](https://github.com/vasilis-siomos)
 - [Joon Park](https://github.com/andifer702)
