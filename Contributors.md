@@ -20423,6 +20423,7 @@ rehan
 - [Ruslan Tsulin](https://github.com/batkomahno2008)
 - Akinbode Abitogun (https://github.com/abitoguna)
 - [Stephen Farrell](https://github.com/steebi)
+- Amit Kumar (https://github.com/dageramit)
 - [Eodie](https://github.com/eodie)
 - [awpathum](https://github.com/awpathum)
 - [Rajaraman](https://github.com/raja4tech)
