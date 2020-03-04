@@ -12342,6 +12342,7 @@ macdara-dev
 - [smellinor](https://github.com/smellinor)
 - [Annabel MacGregor](http://github.com/a-macgregor)
 - [Gareth](https://github.com/Gareth-L)
+- [David Allen](https://github.com/davidallencode)
 - [josaks](https://github.com/josaks)
 - [huytq](https://github.com/huy-truong)
 - [vignesh](https://github.com/vettyvignesh)
