@@ -73,6 +73,7 @@
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
 | 🇧🇬 | [Bulgarian](translations/README.bg.md) |
+| 🇲🇰 | [Македонски](README.mk.md) |
 | 🇭🇺 | [Magyar](translations/README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
@@ -102,6 +103,7 @@
 | 🇲🇾 | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
 | 🇨🇿 | [Czech](README.cs.md) |
 | :slovenia: | [Slovenščina](README.sl.md) |
+| 🇳🇴 | [Norsk](README.no.md) |
 | 🇸🇪 | [Svenska](README.se.md) |
 | 🇩🇰 | [Dansk](README.da.md) |
 | 🇪🇬 | [المصرية](README.eg.md) |
