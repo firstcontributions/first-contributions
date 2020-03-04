@@ -8,7 +8,7 @@
 -Jawad-nafad
 - Alex Rose
 - Vivek Khimani
-- Prasanth Varada (https://github.com/prasanthvarada)
+- Prasanth Varada
 - Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
 - Hugh Shanno (http://github.com/HughShanno)
