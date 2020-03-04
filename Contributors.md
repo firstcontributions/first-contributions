@@ -108,6 +108,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Pearl Takang
 - Lucas Treuke
 - Phoebe Zhou [https://github.com/babyzhouying]
 - Ben Rosen
