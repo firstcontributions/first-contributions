@@ -1,4 +1,5 @@
 # Contributors
+- Triumph Odemudia (https://github.com/todemudia)
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
 - Andy Hou (https://github.com/imandyh/first-contributions)
