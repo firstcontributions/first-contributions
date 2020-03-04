@@ -20431,6 +20431,7 @@ rehan
 - [Eunchae Jeon](https://github.com/grayfreesia)
 - [Renan Siqueira](https://github.com/renan-siqueira)
 - [Tiago Correia](https://github.com/tiagorcorreia)
+- [Chrezon] (https://github.com/Chrezon)
 - [Aleksandr Iurkin] (https://github.com/AlexYurkin)
 - [Andrew C](https://github.com/achoi2)
 - [Adebayo Ilerioluwa](https://github.com/adebayoileri)
