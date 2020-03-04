@@ -43,6 +43,7 @@
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
 - Thomas Tamber
+- María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
 - KogoKing (https://github.com/kogoking)
 - David Perlman (https://github.com/dperlman)
