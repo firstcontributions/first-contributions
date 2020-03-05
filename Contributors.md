@@ -1,12 +1,12 @@
 # Contributors
--Frances McConnell
-- [Somil Sharma] (https://github.com/somilsharma8)
+- Frances McConnell
+- [Somil Sharma] ()
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
--Jawad-nafad
+- Jawad-nafad
 - Alex Rose
 - imemya19
 - Vivek Khimani
@@ -35,13 +35,13 @@
 - Ricks (https://github.com/iamricks)
 - Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
--Eduarda Souza
- Diref
+- Eduarda Souza
+- Diref
 - Ulhas Bhagwat
 - [Julio Denis] (https://github.com/jfdenis)
 - [Kashish Goel] (https://github.com/teddyphotos) 
 - Rafael Portaluppi
- Bruna Chagas (https://github.com/brunajanainachagas)
+- Bruna Chagas (https://github.com/brunajanainachagas)
 - [Hanan Mufti](https://github.com/h-ARTS)
 - MattHew Phraxayavong (https://github.com/PhraxayaM)
 - Ryan Westcott (https://github.com/RywesTech)
@@ -60,7 +60,7 @@
 - Vitor Henrique de Matos Alvarenga
 - Ashwini Jha
 - Prashanth Pai
-Junior Schroh (https://github.com/JuniorSchroh)
+- Junior Schroh (https://github.com/JuniorSchroh)
 - 516M
 - [url8m8](https://github.com/url8m8/)
 - Mark Kariuki
@@ -86,7 +86,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Look back
 - Bagelbun
 - willwalsh96
--shadrul
+- shadrul
 - Priya Jagadeesan(https://github.com/priya-dharsinij)
 - [Gayoung Lee](https://github.com/gayounglee57)
 - [Idris Olubisi](https://github.com/olanetsoft)
@@ -103,7 +103,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Dhruv Sarawagi (https://github.com/optimusPrime999)
 - Thomas Yee (https://github.com/thomas-yee)
 - Samuel Alarco
--Tatiane Gonçalves
+- Tatiane Gonçalves
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - thainara lucia ubinski
@@ -312,6 +312,7 @@ Derek Leach
 - [Heesang Whang](https://github.com/hwhang0917)
 - [Nikita Volchok](https://github.com/nonick891)
 - [Rafael Karosuo](https://github.com/karosuo)
+- [Armon Roberts](https://github.com/armonkahil)
 - Keri Goltz
 - itakenaps
 - [Felipe L](https://github.com/FelipeGLopez)
