@@ -86,6 +86,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - willwalsh96
 -shadrul
 - Priya Jagadeesan(https://github.com/priya-dharsinij)
+- [Gayoung Lee](https://github.com/gayounglee57)
 - [Idris Olubisi](https://github.com/olanetsoft)
 - Vagner Luis Carneiro de Campos
 - Steve Feivor
