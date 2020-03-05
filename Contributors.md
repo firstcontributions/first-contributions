@@ -21,6 +21,7 @@
 - Ekki Lu
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
+Abdullah Binladin
 - Leonardo Matias
 - Nate
 - Shreyas PJ
@@ -258,7 +259,7 @@ Will-C
 - Ty Jenkins (https://github.com/Yujiman85)
 - Tom Holmes (https://github.com/tholmes59)
 - Dax Patel (https://github.com/letapxad)
-- Kiran Saini (https://github.com/sainik73)
+- Kiran Saini (hthttps://github.com/abinladin/first-contributionstps://github.com/sainik73)
 - Suliman Alsaid (https://github.con/saloomi2012)
 - Vinita Hissaria (https://github.com/vinita22)
 - Tejasri Kadari (https://github.com/tejasri28)
