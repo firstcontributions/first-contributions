@@ -21,6 +21,7 @@
 - Seraphina Anderson (https://github.com/Seraph2000)
 - [Alex Fernandez](https://github.com/afermon)
 - Ekki Lu
+- Jacob Cunningham (https://github.com/JacobPRC)
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
 - Leonardo Matias
