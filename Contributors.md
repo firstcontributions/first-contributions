@@ -38,8 +38,9 @@
 - Ricks (https://github.com/iamricks)
 - Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
--Eduarda Souza
- Diref
+- Eduarda Souza
+- [Tort](https://github.com/mtorcellini)
+- Diref
 - Ulhas Bhagwat
 - [Julio Denis] (https://github.com/jfdenis)
 - [Kashish Goel] (https://github.com/teddyphotos) 
