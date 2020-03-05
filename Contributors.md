@@ -61,6 +61,7 @@
 - Ashwini Jha
 - Prashanth Pai
 - Junior Schroh (https://github.com/JuniorSchroh)
+- [Kari Swarthout](https://github.com/kswarthout)
 - 516M
 - [url8m8](https://github.com/url8m8/)
 - Mark Kariuki
