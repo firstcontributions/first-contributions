@@ -11,6 +11,7 @@
 -Jawad-nafad
 - Alex Rose
 - imemya19
+- [Ashlyn Morin](https://github.com/littl3birdy)
 - Vivek Khimani
 - Prasanth Varada (https://github.com/prasanthvarada)
 - Mateusz Kocik (https://github.com/matkot11)
