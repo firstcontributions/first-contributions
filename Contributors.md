@@ -15,6 +15,7 @@
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
+- [Alex Fernandez](https://github.com/afermon)
 - Ekki Lu
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
