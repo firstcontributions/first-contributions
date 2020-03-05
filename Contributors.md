@@ -4407,6 +4407,7 @@ Noam Taub
 - [Andrew Hsieh](https://github.com/ahsieh31)
 - [Blake Barton](https://github.com/blake-barton)
 - [Arun Krishna P R](https://github.com/arunkrishna2992)
+- Sreenithi Sridharan
 - [Gico Carlo Evangelista](https://github.com/RiceAbove)
 - [Brian Cimmino](https://github.com/cimminob)
 - [Mario Codes](https://github.com/MarioCodes)
