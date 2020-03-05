@@ -19,6 +19,7 @@
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
 - Leonardo Matias
+- Nate
 - Abhijit
 - Meir till when march 17
 - Kevin M (https://github.com/kmckigney)
