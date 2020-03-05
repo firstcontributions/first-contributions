@@ -1,5 +1,6 @@
 # Contributors
 - Joaquín M2
+- Kipling Liu
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
