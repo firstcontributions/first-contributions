@@ -6134,6 +6134,7 @@ Noam Taub
 - [Maggie Bauer](https://github.com/maggiebauer)
 - [Marc Marquez](https://github.com/marc-marquez)
 - julio-garcia-fc
+- [Fernando Mendoza Olivares](https://github.com/sheepyjeep)
 - Skooma Den
 - wefromstars
 - [Steve Prakope](https://github.com/prakope)
