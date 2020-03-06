@@ -25,6 +25,7 @@
 - Nate
 - Shreyas PJ
 - Abhijit
+- Christine P.
 - Meir till when march 17
 - Kevin M (https://github.com/kmckigney)
 - Maren Westermann (https://github.com/marenwestermann)
