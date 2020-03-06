@@ -274,6 +274,7 @@ Will-C
 - Lokman Ahmad (https://github.com/VeLoct84)
 - George Chorozidis (https://github.com/ChiefGeorge) 
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
+- Ryan Ellis (https://github.com/rellis2)
 - Rafael Ninalaya (https://github.com/rantNYC)
 - Rafael Viana (https://github.com/vianarafael)
 - Ryuki Kuga (https://github.com/ryukikikie)
