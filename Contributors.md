@@ -16,6 +16,7 @@
 - imemya19
 - [Ashlyn Morin](https://github.com/littl3birdy)
 - Vivek Khimani
+- Chandrashekhar Choudhary
 - Prasanth Varada (https://github.com/prasanthvarada)
 - Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
