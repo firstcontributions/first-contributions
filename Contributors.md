@@ -1,4 +1,5 @@
 # Contributors
+- Annie Watson
 - Joaquín M2
 - Kipling Liu
 -Frances McConnell
