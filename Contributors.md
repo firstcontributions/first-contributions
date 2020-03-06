@@ -20492,3 +20492,4 @@ rehan
 - [Martin Brown] (https://github.com/theMBdev)
 - [Savvas IO] (https://github.com/savvasio)
 - [Lucas Pereira](https://github.com/LucaSansa)
+- [George Chatzopoulos](https://github.com/GeorgeChatzo)
