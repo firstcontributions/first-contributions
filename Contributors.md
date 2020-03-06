@@ -13714,6 +13714,7 @@ macdara-dev
 - [John Hong](https://github.com/Johnhong25)
 - [Scott Peterson](https://github.com/scpeterson)
 - [vimery](https://github.com/vimery)
+- [Juan Vargas] (https://github.com/juandej18)
 - [Andy Bae](https://github.com/baeandy)
 - [Mahmoud Mousa Hamad](https://github.com/MahmoudMousaHamad/)
 - [Jishnu V](https://github.com/jishnuvijayan97)
