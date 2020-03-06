@@ -34,6 +34,7 @@
 - Shreyas PJ
 - Abhijit
 - Christine P.
+-Harshal Sharma
 - Meir till when march 17
 - [Bernie Abraham](https://github.com/bernieabraham)
 - Kevin M (https://github.com/kmckigney)
