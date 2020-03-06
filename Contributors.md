@@ -33,6 +33,7 @@
 - Shreyas PJ
 - Abhijit
 - Meir till when march 17
+- [Bernie Abraham](https://github.com/bernieabraham)
 - Kevin M (https://github.com/kmckigney)
 - Maren Westermann (https://github.com/marenwestermann)
 - Prakhar Nahar (https://github.com/thatprakhar)
