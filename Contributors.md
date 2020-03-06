@@ -20460,6 +20460,7 @@ rehan
 - Akinbode Abitogun (https://github.com/abitoguna)
 - [Stephen Farrell](https://github.com/steebi)
 - Amit Kumar (https://github.com/dageramit)
+- [Albaalah Waqaar](https://github.com/Albaalah)
 - [Eodie](https://github.com/eodie)
 - [awpathum](https://github.com/awpathum)
 - [Rajaraman](https://github.com/raja4tech)
