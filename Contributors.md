@@ -60,6 +60,7 @@
 - Thomas Tamber
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
+- RR Carter
 - KogoKing (https://github.com/kogoking)
 - David Perlman (https://github.com/dperlman)
 - Ahmad Kasem (https://github.com/AhmadKasem)
