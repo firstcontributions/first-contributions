@@ -20483,3 +20483,4 @@ rehan
 - [José Manuel Echeverri Palacio] (https://github.com/josemanuelep)
 - [Martin Brown] (https://github.com/theMBdev)
 - [Savvas IO] (https://github.com/savvasio)
+- [Kevin Tucker] (https://github.com/blackcronus)
