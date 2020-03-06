@@ -7,6 +7,7 @@
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
 - Andy Hou (https://github.com/imandyh/first-contributions)
+- [Gurbalan Harikrishnan](https://github.com/Gurubalan-GIT)
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
