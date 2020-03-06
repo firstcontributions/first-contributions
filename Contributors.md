@@ -1,5 +1,6 @@
 # Contributors
 - Annie Watson
+- Jae Joo (https://github.com/jj534)
 - Joaquín M2
 - Kipling Liu
 -Frances McConnell
