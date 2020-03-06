@@ -15,6 +15,7 @@
 - [Shane Gable](https://github.com/gableshane)
 - imemya19
 - [Ashlyn Morin](https://github.com/littl3birdy)
+- braintho (https://github.com/braintho)
 - Vivek Khimani
 -Vasudev Harshal.
 - Chandrashekhar Choudhary
