@@ -20503,3 +20503,4 @@ rehan
 - [Lucas Pereira](https://github.com/LucaSansa)
 - [George Chatzopoulos](https://github.com/GeorgeChatzo)
 - [Marvin Telis] (https://github.com/telmardev)
+- [Navneet Singh] (https://github.com/navneet35)
