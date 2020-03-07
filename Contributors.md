@@ -241,6 +241,7 @@ Ahrman
 -EdwinVanLeth
 - Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
+- Jonas Skywalker
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
