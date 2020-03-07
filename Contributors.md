@@ -1,5 +1,6 @@
 # Contributors
 - Annie Watson
+
 - Jae Joo (https://github.com/jj534)
 - Joaquín M2
 - Kipling Liu
@@ -14,6 +15,7 @@
 - Clinton ceeb3
 - Alex Rose
 - Babak P.adam
+-Chhavi Munjal(https://github.com/chhavi18387)
 - [Shane Gable](https://github.com/gableshane)
 - imemya19
 - [Ashlyn Morin](https://github.com/littl3birdy)
