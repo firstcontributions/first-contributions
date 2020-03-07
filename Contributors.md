@@ -11,6 +11,7 @@
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
+- Clinton ceeb3
 - Alex Rose
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
