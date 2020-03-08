@@ -13,6 +13,7 @@
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
+-Andy Seracuse
 - Clinton ceeb3
 - Alex Rose
 - Siddhant Chimankar (https://github.com/siddhantchimankar)
