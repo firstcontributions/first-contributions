@@ -19052,6 +19052,7 @@ macdara-dev
 - [William Spruyt](https://github.com/SayemW)
 - [Eternal Rift](https://github.com/EternalRift)
 - [Luke Colpo](https://github.com/lukecolpo/first-contributions)
+- Juan G.
 - [Alan da Matta](https://github.com/alandamatta)
 - [Ameya Joshi](https://github.com/joshiameya99)
 - [Maksat Hanja](https://github.com/maxathanja)
