@@ -11628,6 +11628,7 @@ macdara-dev
 - [Ralph Chen](https://github.com/xralphack)
 - [Jack Hao](https://github.com/jackhhao)
 - [Bhaskar Gupta](https://github.com/bhaskargupta98)
+- [Malcolm Burdorf](https://github.com/malcolmBurdorf)
 - [Ryan Pluss](https://github.com/r-pluss)
 - [Anat Portnoy](https://github.com/Anat-Port)
 - [Arshad Khan](https://github.com/arshadkhan39687)
