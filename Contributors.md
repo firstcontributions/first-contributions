@@ -10583,6 +10583,7 @@ Aman Panjwani
 - [Abir Bin Ayub Khan, AbSak](https://github.com/absak)
 - [Ekpenyong Okpo](https://github.com/okpoEkpenyong)
 - [Micah Hedrick](https://github.com/MH0303)
+- [Jurek Kurianski](https://github.com/jurek100)
 - [Nomi Vos](https://github.com/nomi811)
 - [Christopher Chiu](https://github.com/vicehope)
 - [Ali Ashraf](https://github.com/syedaliashraf)
