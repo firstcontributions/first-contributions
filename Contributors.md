@@ -10,6 +10,7 @@
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
+- Utkarsh 
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
