@@ -4,6 +4,7 @@
 - Jae Joo (https://github.com/jj534)
 - Srikar Reddy (https://github.com/sunny117)
 - Joaquín M2
+- Akshatha H
 - Kipling Liu
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
