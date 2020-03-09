@@ -1994,6 +1994,7 @@ notForProffitt
 - [Garvit291]
 - [Mayank Mani](https://github.com/MayankMani00)
 - [Rachita Bhagchandani](https://github.com/rachita18144)
+- [Cauê Aquino Nogueira](http://github.com/caueaquino)
 - [Khuzama Shahid](https://github.com/khuzama98)
 - [Donna Vitan](https://github.com/donnavitan)
 - [Josh Deese](https://github.com/joshdeese)
