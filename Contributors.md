@@ -90,6 +90,7 @@
 - [Kari Swarthout](https://github.com/kswarthout)
 Junior Schroh (https://github.com/JuniorSchroh)
 - 516M
+- Vincent Terpstra
 - [url8m8](https://github.com/url8m8/)
 - Mark Kariuki
 - LarissaAssis
