@@ -5,6 +5,7 @@
 - Srikar Reddy (https://github.com/sunny117)
 - Joaquín M2
 - Kipling Liu
+- jian zhen
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
