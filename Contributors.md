@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - Mateusz Kocik (https://github.com/matkot11)
@@ -28,6 +28,7 @@
 - Ashwini Jha
 - Prashanth Pai
 - 516M
+- Aman Tayal
 - Mark Kariuki
 - Mittul Mandhan
 - Julian Hendrix (https://github.com/swishahendrix)
