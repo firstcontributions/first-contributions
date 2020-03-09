@@ -14,6 +14,7 @@
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
 - Clinton ceeb3
+- Saloni Yadav (https://github.com/salyadav)
 - Alex Rose
 - Siddhant Chimankar (https://github.com/siddhantchimankar)
 - Babak P.adam
