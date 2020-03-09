@@ -847,6 +847,7 @@ Deepika Padmanabhan
 - [Carlos Silva](https://github.com/sabioes)
 - Kaustubh Dixit
 - Jun Zhao
+- Thomas A
 - Fenkil A
 -Komal Jhanwar
 - [Steven Duijvesteijn](https://github.com/stevenduijvesteijn)
