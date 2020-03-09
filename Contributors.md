@@ -3029,6 +3029,7 @@ Kebana Modise
 - swang
 - R Banerjee
 - Colin M. Misbach
+- [Anastasios Kristofer Barianos](https://github.com/barianos)
 - Techtonic Flash
 - [Tom Hall](https://github.com/thall1961)
 - Bienhuels B.
@@ -20526,3 +20527,4 @@ rehan
 - [M Fahad Khawaja] (https://https://github.com/mfahadkh00)
 - [Alex You] (https://github.com/alexkyou1996)
 - [Mandee Chan](https://github.com/mandeechan)
+
