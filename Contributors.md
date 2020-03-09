@@ -518,6 +518,7 @@ Deepika Padmanabhan
 - [Amr Akmal]   (https://github.com/amroakmal)
 - Alen
 - Cherry Santos
+- Armen Dela Cruz
 - [Anchit Mishra] (https://github.com/anchit1729)
 - [Mostafa Ahmed] (https://github.com/MostafaAhmed95)
 - [Payton Jewell] (https://github.com/paytonjewell)
