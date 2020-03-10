@@ -75,6 +75,7 @@
 - Sanchit Trivedi
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
+- Kristin Tuisk
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
 - AE
