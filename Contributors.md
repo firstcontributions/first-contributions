@@ -17158,6 +17158,7 @@ macdara-dev
 - [okrsnak](https://github.com/okrsnak)
 - [Mateus](https://github.com/NaturesProphet)
 - [Shivam Agrawall](https://github.com/shivam077)
+- [Tamas Berki](https://github.com/dzsobacsi)
 - [Sten Marius](https://github.com/stho01)
 - [Vincent Rist](https://github.com/Centicus1000)
 - [Neolas67](https://github.com/Neolas67)
