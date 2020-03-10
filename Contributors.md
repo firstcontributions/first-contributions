@@ -76,6 +76,7 @@
 - Aida Krzalic (https://github.com/krzalica)
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
+- AE
 - Thomas Tamber
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
