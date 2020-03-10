@@ -8902,6 +8902,7 @@ Aman Panjwani
 - [anoushka](https://github.com/Anoushka-Anu)
 - [Anand Sankritya](https://github.com/snkritya)
 - [john](https://github.com/forwinder15)
+- [xStrafez](https://github.com/xstrafez)
 - [Aldo Paul Carranza - Hitzoft](https://github.com/hitzoft)
 - [Armaan Singh Bhullar](https://github.com/ArmaanBhullar)
 - [Anisha Pai](https://github.com/anishapai)
