@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Jerry Jxu
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
@@ -19438,6 +19438,7 @@ Mário Baltazar
 - [Faraz Khan](https://github.com/Frk4)
 - [Samrat19](https://github.com/samrat19)
 - [theNaavik](https://github.com/theNaavik)
+- [vincent](https://github.com/vincentcvr6)
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
