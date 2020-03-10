@@ -2,6 +2,7 @@
 - Jerry Jxu
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
+- Ko Chi(https://github.com/kochix2)
 - Srikar Reddy (https://github.com/sunny117)
 - Joaquín M2
 - Akshatha H
