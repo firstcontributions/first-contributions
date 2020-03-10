@@ -20520,6 +20520,7 @@ rehan
 - [Carol Adão](https://github.com/caroladao)
 [Maruf Hossen]
 - [Slavina Stefanova] (https://github.com/blancadesal)
+- [Ranjodh Singh](https://github.com/Ranjodhsandhu/)
 - [Damian Wójcik] (https://github.com/damianwojcik)
 - [José Manuel Echeverri Palacio] (https://github.com/josemanuelep)
 - [Martin Brown] (https://github.com/theMBdev)
