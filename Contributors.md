@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Jerry Jxu
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
@@ -52,6 +52,7 @@
 - Abhijit
 - Christine P.
 -Harshal Sharma
+- Semuca
 - Meir till when march 17
 - [Bernie Abraham](https://github.com/bernieabraham)
 - Kevin M (https://github.com/kmckigney)
