@@ -52,6 +52,7 @@
 - Michael S.J. (https:github.com/mjohns09)
 - Leonardo Matias
 - Nate
+- Craig Wyse
 - Shreyas PJ
 - Abhijit
 - Christine P.
