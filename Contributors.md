@@ -7,6 +7,7 @@
 - Srikar Reddy (https://github.com/sunny117)
 - Joaquín M2
 - Akshatha H
+- Joe
 - Lokesh Yadav
 - Hridayesh Sham Pawar
 - Kipling Liu
