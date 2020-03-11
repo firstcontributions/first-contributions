@@ -1798,6 +1798,7 @@ notForProffitt
 - [ChiLau]
 - [alexxozo]
 - [girOly](https://github.com/girOly)
+- [fumiadeyemi](https://github.com/fumiadeyemi)
 - [Charles King](https://github.com/charlesdking)
 - [Mike Howell](https://github.com/mikehowell)
 - [Klaudijus Rulys](https://github.com/krulys)
