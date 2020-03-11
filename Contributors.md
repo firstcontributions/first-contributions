@@ -12526,6 +12526,7 @@ macdara-dev
 - [Michele Salvador](https://github.com/michelesalvador)
 - [Arpit Jhunjhunwala](https://github.com/arpitjjw)
 - [Brandon Zhu](https://github.com/Brandonlucaszhu)
+- [Nikola Malenic](https://github.com/Sarrruman)
 - [Nabheet Madan](https://github.com/nabheetcloud)
 - [Tremaine Neethling](https://github.com/TremaineNeethling)
 - [David Goodrich](https://github.com/djgoodrich)
