@@ -85,6 +85,7 @@
 - Kristin Tuisk
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
+- jkim1708
 - AE
 - Thomas Tamber
 - María Sola (https://github.com/mariasola)
