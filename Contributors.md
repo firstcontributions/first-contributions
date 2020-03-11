@@ -1,4 +1,5 @@
 # Contributors
+- Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
