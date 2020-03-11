@@ -7774,6 +7774,7 @@ Aman Panjwani
 - [Louis Chris Orona](https://github.com/louischrisorona)
 - [Satyam Mahajan](https://github.com/dynastyqb55)
 - [Mahesh](https://github.com/mforgaian)
+- [Zil Norvilis](https://github.com/zilton7)
 - [Jeremy Beising](https://github.com/jbeising)
 - [Chetan Nagarkar](https://github.com/cnagarkar)
 - [Christine Xiang](https://github.com/yutingcxiang)
