@@ -19,6 +19,7 @@
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
+- Nicole Perey
 -Jawad-nafad
 -Andy Seracuse
 - Sara Sands
