@@ -56,6 +56,7 @@
 - Nate
 - Craig Wyse
 - Shreyas PJ
+- Alex
 - Abhijit
 - Christine P.
 -Harshal Sharma
