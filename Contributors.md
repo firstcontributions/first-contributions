@@ -20564,3 +20564,4 @@ rehan
 - [Lasha Loladze] (https://github.com/lashaloladze)
 - [Kareem_Amr] (https://github.com/kareemamrr)
 - [Ankush Dutt] (https://github.com/ankushdutt)
+- [Sterling Smith] (https://github.com/sterlingssmith)
