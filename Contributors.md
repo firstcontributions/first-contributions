@@ -9,6 +9,7 @@
 - Joaquín M2
 - Akshatha H
 - Joe
+- [Jamison Cozart](https://github.com/jamisoncozart)
 - Lokesh Yadav
 - Hridayesh Sham Pawar
 - Kipling Liu
