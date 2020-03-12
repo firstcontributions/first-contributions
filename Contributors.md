@@ -236,6 +236,7 @@ Ahrman
 - Nazri Yahya 
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
+- Francesco Gastaldi 
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Bulat Sultanov
 - [Hardik Jain](https://github.com/nepython)
