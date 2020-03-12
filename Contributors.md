@@ -131,6 +131,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Charlotte Dibb
 - Look back
 - Bagelbun
+- Mor Schlesinger (https://github.com/scmor3)
 - willwalsh96
 -shadrul
 - Priya Jagadeesan(https://github.com/priya-dharsinij)
