@@ -1102,6 +1102,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Anjali B N](https://github.com/AnjaliBN)
 - [bnbong](https://github.com/bnbong)
 - [Laura Brooks](https://github.com/lebrooks)
+- [Jamie Maclean](https://github.com/JamieMaclean)
 - [Pranav Kirsur](https://github.com/pranav-kirsur)
 - [Marija](https://github.com/mtrajkova)
 - [Parantak](https://github.com/parantak)
