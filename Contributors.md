@@ -9293,6 +9293,7 @@ Aman Panjwani
 - [Jackson Salt](https://github.com/SaltJackson)
 - [Ryan Anstotz](https://github.com/ranstotz)
 - [Abdullah Mohamed](https://github.com/0xCC00FFEE)
+- [Tanveer Iqbal] (https://github.com/tqiqbal)
 - [Rocko](https://github.com/RockoCC)
 - [Nomit Pahuja](https://github.com/nomitpahuja)
 - [Jasmine](https://github.com/jasminebanger)
