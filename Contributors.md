@@ -20574,3 +20574,4 @@ rehan
 - [Kareem_Amr] (https://github.com/kareemamrr)
 - [Ankush Dutt] (https://github.com/ankushdutt)
 - [Sterling Smith] (https://github.com/sterlingssmith)
+- [João Pedro Martins Watson](https://github.com/JoaoMWatson)
