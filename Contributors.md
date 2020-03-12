@@ -276,12 +276,13 @@ Ahrman
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
--Mike
--Angshuman Bhowmik(https://github.com/Angshuman032001)
-[Paul](https://github.com/prussell21)
+- Mike
+- [Mwadime Makokha](https://github.com/CalvoM) 
+- Angshuman Bhowmik(https://github.com/Angshuman032001)
+- [Paul](https://github.com/prussell21)
 -Linus
--Muhammad Baqir (https://github.com/mbaqiraltaf)
--Ellen Dozoretz (https://github.com/dozoretze) 
+- Muhammad Baqir (https://github.com/mbaqiraltaf)
+- Ellen Dozoretz (https://github.com/dozoretze) 
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
