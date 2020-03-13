@@ -186,6 +186,7 @@ Julia Bolting
 - Turkei \o/
 - Alyona Ivanushkina (https://github.com/AlyonaIvanushkina)
 - Yousuf
+- Megan Gayle
 - Jot
 - Aurora Awasthi
 - FedeBuonco
