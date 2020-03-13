@@ -161,7 +161,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Sarah Guthals (https://github.com/sguthals)
 - Harsh Srivastava (https://github.com/harsh-sri)
 - thainara lucia ubinski
-- Jazib Alisab (https://github.com/mianjazibali)
+- Jazib Ali (https://github.com/mianjazibali)
 - Amon Peter (https://github.com/AmonPeter)
 - Furkan Mutlu (https://github.com/furkanmutlu)
 - Spintec (https://github.com/Spintec)
@@ -282,6 +282,7 @@ Ahrman
 -EdwinVanLeth
 - Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
+  Abhshek kumar
 - Enio Novalo (https://github.com/eniovalo)
 - Jonas Skywalke
 - Kyle
