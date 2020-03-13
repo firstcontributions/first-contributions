@@ -270,7 +270,8 @@ Ahrman
 - Rachael Smith (https://github.com/rachael-smith)
 - Sean Lamb (https://github.com/seanlamb)
 - Preeti Sharma
--EdwinVanLeth
+- [A Shiv Alagar](https://github.com/ashivalagar)
+- EdwinVanLeth
 - Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
 - Enio Novalo (https://github.com/eniovalo)
@@ -278,12 +279,12 @@ Ahrman
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
--Mike
--Angshuman Bhowmik(https://github.com/Angshuman032001)
+- Mike
+- Angshuman Bhowmik(https://github.com/Angshuman032001)
 [Paul](https://github.com/prussell21)
--Linus
--Muhammad Baqir (https://github.com/mbaqiraltaf)
--Ellen Dozoretz (https://github.com/dozoretze) 
+- Linus
+- Muhammad Baqir (https://github.com/mbaqiraltaf)
+- Ellen Dozoretz (https://github.com/dozoretze) 
 - Helder
 - Revenge (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
@@ -323,7 +324,7 @@ Will-C
 - Rafael Viana (https://github.com/vianarafael)
 - Ryuki Kuga (https://github.com/ryukikikie)
 - Dan Piazza (https://github.com/DanielJPiazza)
--pat mcdermott
+- pat mcdermott
 - Erik Trygg (https://github.com/firely)
 - Punit Patel (https://github.com/punitpatel2601)
 - David Domingues (https://github.com/davidc2p)
