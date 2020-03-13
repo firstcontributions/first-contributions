@@ -27,6 +27,7 @@
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
 -Nicole Perey
+-Jesus Gil
 -Jawad-nafad
 -Andy Seracuse
 - Sara Sands
