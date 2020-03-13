@@ -172,6 +172,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Haruka Taro
 - Pearl Takang
 - Lucas Treuke
+- Arto Halonen [https://github.com/Haloft]
 - Phoebe Zhou [https://github.com/babyzhouying]
 - Ben Rosen
 - Devon Scewmer(https://github.com/dnbroo)
