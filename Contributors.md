@@ -4,6 +4,7 @@
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
+- Cristian Cuevas ( https://github.com/Ccuevas3410)
 - Jess
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
