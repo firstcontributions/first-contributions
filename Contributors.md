@@ -279,7 +279,8 @@ Ahrman
 - Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
 - Enio Novalo (https://github.com/eniovalo)
-- Jonas Skywalker
+- Jonas Skywalke
+- Kyle
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
 - [Aditya Singh](https://github.com/Aditya1001001) 
