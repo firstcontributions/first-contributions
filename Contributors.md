@@ -11,6 +11,7 @@
 - Srikar Reddy (https://github.com/sunny117)
 - Joaquín M2
 - Akshatha H
+-Mujahid Bappai(https://github.com/mujeex)
 - Joe
 - [Jamison Cozart](https://github.com/jamisoncozart)
 - Lokesh Yadav
