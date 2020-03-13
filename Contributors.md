@@ -39,6 +39,7 @@
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
 - imemya19
+- Harshini2898
 - [Ashlyn Morin](https://github.com/littl3birdy)
 - [Aadya Mishra](https://github.com/panda2498)
 - [Maciej Gajewski](https://github.com/MaciejGajewski)
