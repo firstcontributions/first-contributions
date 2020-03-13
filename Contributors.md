@@ -83,6 +83,7 @@
 - Shakeane Hinds (https://github.com/shakeanehinds)
 -Eduarda Souza
  Diref
+- Anirban Ghosh
 - Ulhas Bhagwat
 - [Julio Denis] (https://github.com/jfdenis)
 - [Kashish Goel] (https://github.com/teddyphotos) 
