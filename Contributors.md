@@ -2,6 +2,7 @@
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
+- Jess
 - Annie Watson
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
