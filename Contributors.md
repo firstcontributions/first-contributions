@@ -1060,6 +1060,7 @@ Deepika Padmanabhan
 - [jellevdbos] (https://github.com/jellevdbos)
 - [Bobby G](https://github.com/bob2517/)
 - [Natnael-Alemayehu](https://github.com/NatnaelAlemayehu)
+- [Silver1063](https://github.com/Silver1063)
 - [Alex Thomson](https://github.com/alexthomson1)
 - [Andrés Posadas](https://github.com/Andres-Posadas)
 - [Jeremy Alexandre]
