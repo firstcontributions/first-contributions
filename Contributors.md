@@ -17102,6 +17102,7 @@ macdara-dev
 - [Max Taylor](https://github.com/twally3)
 - [Arthur Vasconcellos](https://github.com/arthursvpb)
 - [Rupna Maitra](https://github.com/zonex909)
+- [Bruno Noronha Fragomeni](https://github.com/Godzrage)
 - [Piyush Poply](https://github.com/Piyushp2283)
 - [Lucas León](https://github.com/lucasleon2107)
 - [shachashou](https://github.com/shachashou)
