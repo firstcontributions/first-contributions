@@ -36,6 +36,7 @@
 - imemya19
 - [Ashlyn Morin](https://github.com/littl3birdy)
 - [Aadya Mishra](https://github.com/panda2498)
+- [Maciej Gajewski](https://github.com/MaciejGajewski)
 - braintho (https://github.com/braintho)
 - Vivek Khimani
 -Vasudev Harshal.
