@@ -9895,6 +9895,7 @@ Aman Panjwani
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
+- [Jetter C](https://github.com/JetterC) 
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
 - [Jeanne Lee](https://github.com/leejeannes)
 - [Franciscus Agnew](https://github.com/franciscusagnew)
