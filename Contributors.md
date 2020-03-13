@@ -275,6 +275,7 @@ Ahrman
 - Rachael Smith (https://github.com/rachael-smith)
 - Sean Lamb (https://github.com/seanlamb)
 - Preeti Sharma
+- [Amruth Raghav](https://github.com/amruthraghav)
 -EdwinVanLeth
 - Artem Jheleznov (https://github.com/Reverlight)
 - Ash Fairley
