@@ -80,6 +80,7 @@
 - Aniket Narayan (https://github.com/mrgooglr)
 - Marcelly
 - AE
+- leaSaraa
 - Thomas Tamber
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
