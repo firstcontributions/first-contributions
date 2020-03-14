@@ -1,4 +1,5 @@
 # Contributors
+- [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - Will Chen
 - Captain Roberts
 - Inigo Garcia Bastida (https://github.com/inigogb)
