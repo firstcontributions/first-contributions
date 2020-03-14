@@ -173,6 +173,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Spintec (https://github.com/Spintec)
 - Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
+- Arthyvelli
 - Pearl Takang
 - Lucas Treuke
 - Arto Halonen [https://github.com/Haloft]
