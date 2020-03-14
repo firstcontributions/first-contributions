@@ -68,6 +68,7 @@
 - Alex
 - Abhijit
 - Christine P.
+- Manikanta Loya (https://github.com/manikanta-72)
 -Harshal Sharma
 - Semuca
 - Meir till when march 17
