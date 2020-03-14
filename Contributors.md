@@ -6344,6 +6344,7 @@ Noam Taub
 - [Wian Stienstra](https://github.com/wianws)
 - Chukwurado
 - [Jing Heng](https://github.com/limjh16)
+- [Szymon Janecki] (https://github.com/szjanecki)
 - [Courtney Corlew](https://github.com/courtneycorlew)
 - [Julian](https://github.com/julian1)
 - [Haelmorn](https://github.com/Haelmorn)
