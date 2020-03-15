@@ -1824,8 +1824,8 @@ Joseph Tran
 - [Gustavo M](https://github.com/foofate)
 - [Naman Gupta](https://github.com/namangup)
 - [Andreas Szekely](https://github.com/Zekel97)
-- [Sanchi]
-notForProffitt
+- [Sanchi] notForProffitt
+- [praseodeveloper]
 - [Hamad Mohamed](https://github.com/Hamadou49)
 - [Adrianov R.](https://github.com/corvus-rex)
 - [Esslam Ben Ramadan](https://github.com/Esslamb)
