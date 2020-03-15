@@ -5817,6 +5817,7 @@ Noam Taub
 - [Ashok Karale](https://github.com/ashokkarale)
 - [Kvc TT](https://github.com/kvctt)
 - [Tung Minh Vu](https://github.com/Tungmv1711)
+- [Patrick Brown](http://github.com/abc123)
 - [Marcin Placzek](https://github.com/aprii)
 - [Utkarsh](https://github.com/ukbaranwal)
 - [Dimitri McDaniel](https://github.com/ibmiti)
