@@ -177,6 +177,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Haruka Taro
 - Arthyvelli
 - Pearl Takang
+- Victor Llanir
 - Lucas Treuke
 - Arto Halonen [https://github.com/Haloft]
 - Phoebe Zhou [https://github.com/babyzhouying]
