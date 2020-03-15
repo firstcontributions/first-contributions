@@ -2,6 +2,7 @@
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - Will Chen
 - Captain Roberts
+- Shoaib Ahmed
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
