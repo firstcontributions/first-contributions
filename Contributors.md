@@ -33,6 +33,7 @@
 -Jesus Gil
 -Jawad-nafad
 -Andy Seracuse
+-Stergios Sozos
 - Sara Sands
 - [Kunal Bhattacharya] (https://github.com/kunaljubce)
 - Clinton ceeb3
