@@ -182,6 +182,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Haruka Taro
 - Arthyvelli
 - Pearl Takang
+- Will Parker
 - Victor Llanir
 - Lucas Treuke
 - Arto Halonen [https://github.com/Haloft]
