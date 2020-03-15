@@ -210,6 +210,7 @@ Julia Bolting
 - Yousuf
 - Megan Gayle
 - Jot
+- [Roger Worrell](https://github.com/raworre)
 - Aurora Awasthi
 - FedeBuonco
 - Vikram Mondal (https://github.com/vikram7599)
