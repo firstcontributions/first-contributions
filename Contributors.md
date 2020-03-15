@@ -3,6 +3,7 @@
 - Will Chen
 - Captain Roberts
 - Shoaib Ahmed
+- Rohit Chugh
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
