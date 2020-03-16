@@ -687,6 +687,7 @@ Deepika Padmanabhan
 - Laslaa Mohammed
 -andreww
 - Harsha
+- Devansh Amin (https://github.com/devanshamin)
 - FryedRice
 - [Yash](https://github.com/piyler279)
 - FryedRice2
