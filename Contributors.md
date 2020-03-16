@@ -8082,6 +8082,7 @@ Aman Panjwani
 - [Aditya Narayan Shahi](https://github.com/Shahi9935)
 - [Mahdi HB](https://github.com/mhb8898)
 - [Maku](https://github.com/makupi/)
+- Jagjot Mann (https://github.com/Jagjotmann45)
 - [Amwalul Ikhsani](https://github.com/amwalul)
 - [Matt Jordan](https://github.com/mattjordan)
 - [Snir The Man](https://github.com/snirtheman)
@@ -20628,3 +20629,4 @@ rehan
 - [Alfonso Fortunato](https://github.com/MovieMaker93)
 - [Karan Gupta] (https://github.com/karan2801)
 - [Eric Wang] (https://github.com/ewang10)
+
