@@ -1,6 +1,7 @@
 # Contributors
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - Will Chen
+-Harshu
 - Captain Roberts
 - Shoaib Ahmed
 - Rohit Chugh
