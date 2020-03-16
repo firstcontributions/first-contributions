@@ -10,6 +10,7 @@
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Jess
+- Efthymia Kostaki
 - Annie Watson
 - Anna Shera
 - Jae Joo (https://github.com/jj534)
