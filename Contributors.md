@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - Will Chen
 -Harshu
@@ -20573,6 +20573,7 @@ rehan
 - [Hakeem](https://github.com/Hakeem-star)
 - [Ruslan Tsulin](https://github.com/batkomahno2008)
 - Akinbode Abitogun (https://github.com/abitoguna)
+- [Daniel Chirillo](https://github.com/danchirillo)
 - [Stephen Farrell](https://github.com/steebi)
 - Amit Kumar (https://github.com/dageramit)
 - [Albaalah Waqaar](https://github.com/Albaalah)
