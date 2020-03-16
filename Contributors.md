@@ -334,6 +334,7 @@ Will-C
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
 - Warren Harper
+- Matthew Patrick
 - Jo Peng (https://github.com/jopeng5)
 - Bradley Peterson (https://github.com/bpetersonisme)
 - Ty Jenkins (https://github.com/Yujiman85)
