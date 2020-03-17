@@ -31,13 +31,9 @@
 
 <div dir="rtl">
 <h2> בצעו FORK למאגר זה </h2>
+כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
 <a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>
 </div>
-
-<div dir="rtl">
-כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
-</div>
-
 
 <div dir="rtl">
 <h2> שכפול המאגר </h2>
