@@ -1,5 +1,6 @@
 # Contributors
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
+- [Pablo Reyes](https://github.com/PabloRN)
 - Will Chen
 -Harshu
 - Captain Roberts
