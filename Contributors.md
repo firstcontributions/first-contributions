@@ -20472,6 +20472,7 @@ rehan
 - [Deneb99] (https://github.com/Deneb99)
 - [socraticdev](https://github.com/socraticDevBlog/)
 - [Dilara Odur](https://github.com/dilaraodur)
+- [maxluchterhand1](https://github.com/maxluchterhand1)
 - [MF]
 - [Junshi-Kubot](https://github.com/j-kubota)
 - [cBridges851](https://github.com/cBridges851)
