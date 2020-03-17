@@ -20515,6 +20515,7 @@ rehan
 - [Derike Novak] [Eduardo Silva] [Vinicius Wendt] (https://github.com/DerikeNovak)
 - some dude
 - [Chris Ekstedt]
+- [James Chang]
 - [Edward Wang](https://github.com/kaidame-na)
 - [Dmitry Soldakin] (https://github.com/dsoldatkin)
 - [Tanish Malekar](https://github.com/tanish-malekar)
