@@ -14,6 +14,7 @@
 - Efthymia Kostaki
 - Annie Watson
 - Anna Shera
+- kyuhyunlee
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
 - Srikar Reddy (https://github.com/sunny117)
