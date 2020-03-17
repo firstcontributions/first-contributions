@@ -3,7 +3,6 @@
 - Will Chen
 -Harshu
 - Captain Roberts
-- Mckenzie Chen
 - Shoaib Ahmed
 - Rohit Chugh
 - Gurdeep Singh
