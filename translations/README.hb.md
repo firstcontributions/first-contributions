@@ -35,14 +35,12 @@
 
 <div dir="rtl">
 <!--<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>-->
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img align="left" width="300" src="../assets/fork.png" alt="fork this repository"></a>
+<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img align="left" width="300" src="../assets/fork.png" alt="fork this repository"></a>
 </div>
 
 <div dir="rtl">
 כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
 </div>
-
-<hr/>
 
 <div dir="rtl">
 <h2> שכפול המאגר </h2>
