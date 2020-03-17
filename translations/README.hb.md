@@ -34,11 +34,12 @@
 </div>
 
 <div dir="rtl">
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>
+<!--<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>-->
+<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img align="left" width="300" src="../assets/fork.png" alt="fork this repository">
 </div>
 
 <div dir="rtl">
-כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK <br/> בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
+כדי לבצע FORK למאגר זה, ניתן ללחוץ על כפתור ה – FORK בתחילת העמוד. פעולה זה תיצור עותק של מאגר זה בחשבון שלכם.
 </div>
 
 <div dir="rtl">
