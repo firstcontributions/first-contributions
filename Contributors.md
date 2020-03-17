@@ -20553,6 +20553,7 @@ rehan
 - [Tõnn Toomsalu]https://github.com/tonn24
 - [Eugene Tsi](https://github.com/eugenetsi)
 - [DucPV](https://github.com/PhanDuc)
+- [Wen Chuang](https://github.com/csisharderthanithought)
 - [px3ltd](https://github.com/mb0ma)
 - [embento](https://github.com/embento)
 - [Michael DiLalo](https://github.com/mvd366)
