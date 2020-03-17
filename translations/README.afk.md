@@ -175,11 +175,3 @@ Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saa
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visuele Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visuele Studio Kode](github-windows-vs-code-tutorial.md)|
 
-## Self-bevordering
-
-As jy van hierdie projek hou, sterf dit op [GitHub](https://github.com/Roshanjossey/first-contributions).
-As jy veral liefdadigheid voel, volg [Roshan](https://roshanjossey.github.io/) op
-[Twitter](https://twitter.com/sudo__bangbang) en
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

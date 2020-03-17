@@ -166,11 +166,3 @@ git push origin <add-your-branch-name>
 |---|---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
-## Реклама
-
-Ако този проект ви хареса, хасайте го в [GitHub](https://github.com/Roshanjossey/first-contributions).
-Ако сме ви харесали изключително много, последвайте [Roshan](https://roshanjossey.github.io/) в
-[Twitter](https://twitter.com/sudo__bangbang) и
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="https://app.saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>

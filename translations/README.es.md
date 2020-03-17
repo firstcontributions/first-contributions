@@ -119,12 +119,3 @@ Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyect
 |<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
-
-## Auto promoción
-
-Si te gustó este proyecto, márcalo como favorito con una estrella en [GitHub](https://github.com/Roshanjossey/first-contributions).
-Si te sientes agradecido, sigue a [Roshan](https://roshanjossey.github.io/) en
-[Twitter](https://twitter.com/sudo__bangbang) y
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="../assets/saasgrids-banner.png" width="500"></a>
