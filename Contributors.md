@@ -19,6 +19,7 @@
 - Joaquín M2
 - Akshatha H
 - Jimycool
+- [Sergio Escalante](https://github.com/sergioesca6)
 -Mujahid Bappai(https://github.com/mujeex)
 - Joe
 - [Jamison Cozart](https://github.com/jamisoncozart)
