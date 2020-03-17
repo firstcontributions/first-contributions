@@ -14525,7 +14525,7 @@ macdara-dev
 - [Andreas Rimmelspacher](https://github.com/AndreasInfo)
 - [Jesus Redondo](https://github.com/JSRound)
 - [Otazz](https://github.com/Otazz)
-- [Masoud Masoumi Moghadam](https://github.com/masouduut94)    
+- [Masoud Masoumi Moghadam](https://github.com/masouduut94)
 - [Malcolm Kee](https://github.com/malcolm-kee)
 - [stdevelopr](https://github.com/stdevelopr)
 - [Pavan TVBA](https://github.com/pavantvba)
