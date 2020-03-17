@@ -11,7 +11,8 @@
 
 <div dir="rtl">
 זה קשה. זה תמיד קשה כשעושים משהו בפעם הראשונה. במיוחד כאשר משתפים פעולה, לעשות טעויות זה לא משהו נוח. רצינו להקל על הדרך שבה תורמים חדשים לומדים ותורמים בפעם הראשונה.
-<br />
+<br/>
+<br/>
 קריאת כתבות וצפייה בסרטוני הדרכה יכולים לעזור, אבל מה יותר טוב מאשר לבצע את הדברים בסביבת למידה? המטרה של הפרויקט הזה היא לתת הכוונה ולפשט את הדרך שבה מתחילים מבצעים את התרומה הראשונה שלהם. אם אתם מחפשים לבצע את התרומה הראשונה שלכם, עקבו אחרי הצעדים למטה.
 </div>
 
@@ -30,7 +31,6 @@
 </div>
 
 <div dir="rtl">
-<!--<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>-->
 <a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img align="left" width="300" src="../assets/fork.png" alt="fork this repository"></a>
 </div>
 
