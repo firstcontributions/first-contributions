@@ -55,6 +55,7 @@
 - Alex Rose
 - Siddhant Chimankar (https://github.com/siddhantchimankar)
 - Andy Jarcho
+- [Juliette Tworsey] (https://github.com/firebuggirl)
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
 - imemya19
