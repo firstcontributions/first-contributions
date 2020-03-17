@@ -1,4 +1,5 @@
 # Contributors
+- [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - [Pablo Reyes](https://github.com/PabloRN)
