@@ -5307,6 +5307,7 @@ Noam Taub
 - [Jejulee](https://github.com/jejulee)
 - [Conor Tracey](https://github.com/ctracey94)
 - [Marissa Shivers](https://github.com/marissashivers)
+- [Malcolm II](https://github.com/Jrhotrod)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Tomas F](https://github.com/tomasforsman)
 - [Macambira](https://github.com/SrBromelia/)
