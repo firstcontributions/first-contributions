@@ -30,11 +30,8 @@
 </div>
 
 <div dir="rtl">
-<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>
-</div>
-
-<div dir="rtl">
 <h2> בצעו FORK למאגר זה </h2>
+<a href="/Roshanjossey/first-contributions/blob/master/assets/fork.png"><img img style="float: left;" width="300" src="../assets/fork.png" alt="fork this repository"></a>
 </div>
 
 <div dir="rtl">
