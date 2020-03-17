@@ -18759,6 +18759,7 @@ macdara-dev
 - [Dmitry Cherednikov](https://github.com/dcherednikov)
 - [FélixHub](https://github.com/FelixHub)
 - [Joel Lashrbook](https://github.com/jkl92)
+- [Jason Klebes](https://github.com/jklebes)
 - [Rishi Khanna](https://github.com/khannar62)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
