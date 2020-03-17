@@ -1999,6 +1999,7 @@ notForProffitt
 - [Erwin](https://github.com/ErwinG01)
 - [Abdullah Al Noman](https://github.com/NomanAbdullah)
 - [Ankitkumar Singh](https://github.com/3009aksingh)
+- [Gary Sun](https://https://github.com/Gy74S)
 - [Michael Jenkins](https://github.com/KipTheTurtlebear)
 - [Grant Chan](https://github.com/grantrzchan/)
 - [Heidi]
