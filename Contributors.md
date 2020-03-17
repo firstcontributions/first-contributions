@@ -14,6 +14,7 @@
 - Jerry Jxu
 - Jess
 - Efthymia Kostaki
+- Siji Bamgboyee
 - Annie Watson
 - Anna Shera
 - Saumya Gandhi
