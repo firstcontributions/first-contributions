@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
@@ -20674,4 +20674,5 @@ rehan
 - [ReconPorpoise](https://github.com/ReconPorpoise)
 - Raja Majumdar (https://github.com/Reymor)
 - [Zach Howard](https://github.com/zdhoward)
+- [Divyansh Singh] (https://github.com/divided7)
 - [Shalini] (https://github.com/shalinyp)
