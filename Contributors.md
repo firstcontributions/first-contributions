@@ -63,6 +63,7 @@
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Manisha Tiwari](https://github.com/manishatiwari393)
 - [Android-Nougat](https://github.com/Android-Nougat)
+- [Jenny Truong](https://github.com/jenny-tru/)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Dhyey Gami](https://github.com/dhyey6602)
 - [Arushi Pandit](https://github.com/arushipandit)
