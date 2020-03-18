@@ -36,6 +36,7 @@
 - Hridayesh Sham Pawar
 - Kipling Liu
 - Albedith Golovnya
+- [PaKo](https://github.com/pako8128)
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
