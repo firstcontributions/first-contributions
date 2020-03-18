@@ -7368,6 +7368,7 @@ Aman Panjwani
 - [Sayed Hamdi](https://github.com/sayedhamdi)
 - [gcstang](https://github.com/gcstang)
 - [Ashish](https://github.com/UchihaItachi883)
+- [Damrek](https://github.com/damrek/)
 - Rohit Kashyap
 - [Thewires2](https://github.com/thewires2)
 - [Peter Maryniak](https://github.com/PMaryniak)
