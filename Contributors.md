@@ -13,6 +13,7 @@
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Jess
+- Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
 - Annie Watson
