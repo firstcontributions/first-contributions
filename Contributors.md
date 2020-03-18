@@ -68,6 +68,7 @@
 - [Maciej Gajewski](https://github.com/MaciejGajewski)
 - braintho (https://github.com/braintho)
 - Vivek Khimani
+- Kainaat Singh (https://github.com/KainaatSingh)
 -Vasudev Harshal.
 - Chandrashekhar Choudhary
 - Prasanth Varada (https://github.com/prasanthvarada)
