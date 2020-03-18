@@ -96,6 +96,7 @@
 - Manikanta Loya (https://github.com/manikanta-72)
 -Harshal Sharma
 - Semuca
+- Krish
 - Meir till when march 17
 - [Bernie Abraham](https://github.com/bernieabraham)
 - Kevin M (https://github.com/kmckigney)
