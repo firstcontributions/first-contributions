@@ -22,6 +22,7 @@
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
 - Srikar Reddy (https://github.com/sunny117)
+- Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
 - Akshatha H
 - Jimycool
