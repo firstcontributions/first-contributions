@@ -17,6 +17,7 @@
 - Efthymia Kostaki
 - Siji Bamgboyee
 - Annie Watson
+- Samuel Burton-Laurie
 - Anna Shera
 - Ahmed Zaghrat
 - Saumya Gandhi
