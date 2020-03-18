@@ -5,7 +5,8 @@
 - [Pablo Reyes](https://github.com/PabloRN)
 - Will Chen
 -Harshu
-- Captain Roberts
+- Captain Robert
+- Gauri Bhardwaj
 - Shoaib Ahmed
 - Rohit Chugh
 - Gurdeep Singh
