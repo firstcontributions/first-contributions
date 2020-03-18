@@ -18,6 +18,7 @@
 - Siji Bamgboyee
 - Annie Watson
 - Anna Shera
+- Ahmed Zaghrat
 - Saumya Gandhi
 - kyuhyunlee
 - Jae Joo (https://github.com/jj534)
