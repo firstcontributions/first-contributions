@@ -39,6 +39,7 @@
 - Lokesh Yadav
 - Hridayesh Sham Pawar
 - Kipling Liu
+- Rehan Ayub
 - Albedith Golovnya
 - [PaKo](https://github.com/pako8128)
 -Frances McConnell
