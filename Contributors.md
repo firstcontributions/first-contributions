@@ -123,6 +123,7 @@
 - AE
 - leaSaraa
 - Thomas Tamber
+- Balázs Nagy
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
 - RR Carter
