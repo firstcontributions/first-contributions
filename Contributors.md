@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
@@ -34,6 +34,7 @@
 - [Sergio Escalante](https://github.com/sergioesca6)
 -Mujahid Bappai(https://github.com/mujeex)
 - Joe
+- mglasder
 - [Jamison Cozart](https://github.com/jamisoncozart)
 - Lokesh Yadav
 - Hridayesh Sham Pawar
