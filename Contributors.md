@@ -27,6 +27,7 @@
 - Lokesh Yadav
 - Hridayesh Sham Pawar
 - Kipling Liu
+- Rehan Ayub
 - Albedith Golovnya
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
