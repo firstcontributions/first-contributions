@@ -85,6 +85,7 @@
 - Luis Guilherme Chavarski
 - Michael S.J. (https:github.com/mjohns09)
 - Leonardo Matias
+- Sami L.
 - Nate
 - Craig Wyse
 - Shreyas PJ
