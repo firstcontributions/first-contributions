@@ -67,6 +67,7 @@
 - [Juliette Tworsey] (https://github.com/firebuggirl)
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
+- William Goble
 - imemya19
 - Harshini2898
 - [Ashlyn Morin](https://github.com/littl3birdy)
