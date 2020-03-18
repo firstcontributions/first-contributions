@@ -2416,6 +2416,7 @@ notForProffitt
 - [Aditya Vikram](https://github.com/avikram553)
 - [Ramona Burger](https://github.com/rmnbrgr)
 - [Dmitri Klassen](https://github.com/klassendmitri)
+- [Manoj Khubchandani](https://github.com/manojkhubchandani)
 - [Ekin Eren](https://github.com/EkinEren)
 - [Thilakshan Arulnesan](https://github.com/ThilakshanArulnesan)
 - [Karthik Venkataramani](https://github.com/kvenkman)
