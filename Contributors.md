@@ -99,6 +99,7 @@
 - Maren Westermann (https://github.com/marenwestermann)
 - Prakhar Nahar (https://github.com/thatprakhar)
 - Pracha Promthaw (https://github.com/kimmypracha)
+- [Adamu Abubakar Abba](https://github.com/IamSadiq/)
 - Jonah Song (https://github.com/jonahsong)
 - Bryan Baker (https://github.com/bry310)
 - John Fitzhenry (https://github.com/fitzhenry)
