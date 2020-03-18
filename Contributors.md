@@ -26,6 +26,7 @@
 - Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
 - Akshatha H
+- Humadnity
 - Jimycool
 - [Sergio Escalante](https://github.com/sergioesca6)
 -Mujahid Bappai(https://github.com/mujeex)
