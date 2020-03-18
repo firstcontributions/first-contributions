@@ -1,4 +1,5 @@
 # Contributors
+
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
@@ -18,6 +19,7 @@
 - Annie Watson
 - Anna Shera
 - Saumya Gandhi
+- Driss
 - kyuhyunlee
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
