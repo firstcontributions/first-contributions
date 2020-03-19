@@ -5,6 +5,7 @@
 - [Pablo Reyes](https://github.com/PabloRN)
 - Will Chen
 -Harshu
+- [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
 - Shoaib Ahmed
