@@ -4536,3 +4536,4 @@
 - [InfiniteFor](https://github.com/InfiniteFor)
 - [Collin Choy](collincchoy.github.io)
 - [Jonas Mazza](https://github.com/JonasMazza)
+- [Cole Blackman](https://github.com/coleblackman)
