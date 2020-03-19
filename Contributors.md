@@ -16,6 +16,7 @@
 - Jerry Jxu
 - Jess
 - Shibani Mahapatra
+- [Ibukunoluwa Esan](https://github.com/d-inquisitor)
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
