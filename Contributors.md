@@ -14,6 +14,7 @@
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Jess
+- Shibani Mahapatra
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
