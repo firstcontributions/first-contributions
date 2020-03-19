@@ -292,6 +292,7 @@ Ahrman
 - Nazri Yahya 
 - Steve Saunders (https://github.com/stevenCsaunders)
 - Adriano Kultzak
+- [Marina Costa](https://github.com/MarinaFroes)
 - Francesco Gastaldi 
 - AbdurRahman Zaghloul (https://github.com/AbdurRahmanMZag)
 - Bulat Sultanov
