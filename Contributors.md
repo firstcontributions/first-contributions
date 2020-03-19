@@ -5028,6 +5028,7 @@ Noam Taub
 - Maurits Cottyn
 - [Matko Cvitkovic](https://github.com/Cvilec)
 - Jon H
+- Jeremy Schwed
 - [Veryverybored](https://github.com/vvb10)
 - [Krupal Jadhav](https://github.com/kjkrupal)
 - [Dennis John](https://github.com/djohn002)
