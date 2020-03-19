@@ -138,6 +138,7 @@
 - jkim1708
 - AE
 - leaSaraa
+- David Billingsley
 - Thomas Tamber
 - Balázs Nagy
 - María Sola (https://github.com/mariasola)
