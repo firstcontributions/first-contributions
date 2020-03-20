@@ -4,6 +4,7 @@
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - [Pablo Reyes](https://github.com/PabloRN)
+- [Michelle Dalli](https://github.com/MichelleDalli)
 - Will Chen
 -Harshu
 - [China](corona-virus@world.in)
