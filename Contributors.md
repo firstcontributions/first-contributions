@@ -15,6 +15,7 @@
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Jess
+- Daniel
 - Shibani Mahapatra
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
 - Aman Thapliyal
