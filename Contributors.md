@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Sahib Saify](https://github.com/ssaify)
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
