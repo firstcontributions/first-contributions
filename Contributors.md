@@ -10345,6 +10345,7 @@ Aman Panjwani
 - [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Naman](https://github.com/warmachine0609)
 - [Rudolph Hernandez](https://rudolphh.github.io)
+- Michael John Shoemaker
 - [Victor Muigua](https://github.com/vamuigua)
 -   [Matt Moderwell](https://github.com/mmoderwell)
 - [Wolfgang S](https://github.com/WSchindler)
