@@ -66,6 +66,7 @@
 - [Cibelle Montor] (https://github.com/cibellem)
 - Saloni Yadav (https://github.com/salyadav)
 - Alex Rose
+- Phil Cowan (https://github.com/phil4lif)
 - Siddhant Chimankar (https://github.com/siddhantchimankar)
 - Andy Jarcho
 - [Juliette Tworsey] (https://github.com/firebuggirl)
