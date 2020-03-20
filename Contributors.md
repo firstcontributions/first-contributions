@@ -244,6 +244,7 @@ Julia Bolting
 - Yousuf
 - Megan Gayle
 - Jot
+- [Billy Zoellers](https://github.com/billyzoellers)
 - [Roger Worrell](https://github.com/raworre)
 - Aurora Awasthi
 - FedeBuonco
