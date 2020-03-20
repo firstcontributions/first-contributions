@@ -311,6 +311,7 @@ Ahrman
 - Nicolas Maximiliano Caruso (https://github.com/Valkyries12)
 - AmujoDotun (https://github.com/AmujoDotun)
 - Amin Elhami (https://github.com/Amin747)
+- [Caleb Mabry] (https://github.com/caleb-mabry)
 - Matthew Phipps (https://github.com/mphipps2017)
 - Aminu Abdulmalik (https://github.com/miawoltn)
 - Megan Cullins (https://github.com/mcullins)
