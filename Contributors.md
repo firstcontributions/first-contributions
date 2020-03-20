@@ -166,6 +166,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - [url8m8](https://github.com/url8m8/)
 - Mark Kariuki
 - LarissaAssis
+- Lucas Zillig
 - Mittul Mandhan
 - Jear Jujaroen (https://github.com/jearjujaroen)
 - Julian Hendrix (https://github.com/swishahendrix)
