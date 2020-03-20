@@ -20693,6 +20693,7 @@ rehan
 - Raja Majumdar (https://github.com/Reymor)
 - [Zach Howard](https://github.com/zdhoward)
 - [Divyansh Singh] (https://github.com/divided7)
+- [Lauren Morgan] (https://github.com/rg326/)
 - [Shalini] (https://github.com/shalinyp)
 - [Geoffrey Couten] (https://github.com/geoffctn)
 - [KellyFromSales] (https://github.com/kellyfromsales)
