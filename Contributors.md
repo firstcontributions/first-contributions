@@ -412,6 +412,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- Charles Witherspoon (https://github.com/charles-witherspoon)
 - Ana Wowcsuk
 - Conor Barr (https://github.com/Conor94)
 - William Perkins (https://github.com/wjperk)
