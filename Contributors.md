@@ -143,6 +143,7 @@
 - leaSaraa
 - David Billingsley
 - Thomas Tamber
+- Bhargav Acharya
 - Balázs Nagy
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
