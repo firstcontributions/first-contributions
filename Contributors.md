@@ -35,7 +35,7 @@
 - Ahmed Zaghrat
 - Saumya Gandhi
 - Sachin Hegde
-- B Elamar dev247dotcom
+- Bakhta Elamar
 - kyuhyunlee
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
