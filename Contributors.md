@@ -9,6 +9,7 @@
 - [Pablo Reyes](https://github.com/PabloRN)
 - Will Chen
 -Harshu
+- Kevin Stensson
 - [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
