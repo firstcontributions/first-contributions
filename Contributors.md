@@ -66,6 +66,7 @@
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
+- [Stephen Ngai] (github.com/stephen-ngai)
 -Nicole Perey
 -Jesus Gil
 - Robbie Murray (hhtps://github.com/RobbieMurray)
