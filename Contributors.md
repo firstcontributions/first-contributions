@@ -421,6 +421,7 @@
 - Brian Smith (https://github.com/LuosRestil)
 - Allen Deckert(https://github.com/adeckert1010)
 - Szymon Baginski
+- Remy Roux
 - Lennart Blumentrath (https://github.com/lennizle)
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
