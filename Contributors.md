@@ -13,6 +13,7 @@
 - Captain Robert
 - Gauri Bhardwaj
 - Shoaib Ahmed
+- [pakistan] Muhammad hamza
 - Rohit Chugh
 - Gurdeep Singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
