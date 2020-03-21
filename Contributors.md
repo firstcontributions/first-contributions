@@ -41,6 +41,7 @@
 - Joaquín M2
 - Akshatha H
 - Humadnity
+- [Gaspzubs](https://github.com/gaspzubs/)
 - Jimycool
 - [Sergio Escalante](https://github.com/sergioesca6)
 -Mujahid Bappai(https://github.com/mujeex)
