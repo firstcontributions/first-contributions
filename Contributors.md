@@ -20,6 +20,7 @@
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - Jess
+- Nadim Rubeiz
 - Daniel
 - Shibani Mahapatra
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
