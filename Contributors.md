@@ -9,7 +9,6 @@
 - [Pablo Reyes](https://github.com/PabloRN)
 - Will Chen
 -Harshu
-- [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
 - Shoaib Ahmed
@@ -16430,6 +16429,7 @@ macdara-dev
 - [Mridul Agarwal](https://github.com/mridul2899)
 - [Menekam Rudy](https://github.com/Rudy-Menekam)
 - [Ankur](https://github.com/Ankurk99)
+- [Sangeeth](https://github.com/nerdvarma)
 - [Limberger](https://github.com/Limberger)
 - [Poh Ti](https://github.com/pohti)
 - [Fardin Shaik](https://github.com/IAMWILLROCK)
@@ -16888,7 +16888,6 @@ macdara-dev
 - [David Bambusek](https://github.com/bambusekd)
 - [Bovorasr](https://github.com/bovorasr)
 - [Alex](https://github.com/alex)
-
 - [Adam Hill](https://github.com/Cadarn)
 - [Victor Neves](https://github.com/Neves4)
 - [Thomas Chisholm](https://github.com/ThomasChisholm)
@@ -18603,7 +18602,6 @@ macdara-dev
 - [Carlos Fernandez](https://github.com/CarlosMFdz)
 - [Joss Sparks](https://github.com/RemakingEden)
 - [Joshua Cammock](https://github.com/JCammock)
-
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
