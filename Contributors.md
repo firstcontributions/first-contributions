@@ -26,6 +26,7 @@
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
+- [Stef1000]
 - Annie Watson
 - Samuel Burton-Laurie
 - Anna Shera
