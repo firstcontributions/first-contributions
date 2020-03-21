@@ -99,6 +99,7 @@
 - Hugh Shanno (http://github.com/HughShanno)
 - Amanda Tracy (https://github.com/tracyam)
 - Seraphina Anderson (https://github.com/Seraph2000)
+- Suria V (https://github.com/surivig18)
 - [Alex Fernandez](https://github.com/afermon)
 - Ekki Lu
 - [Ahmed Elmaghallawy](https://github.com/ahmedelmaghallawy)
