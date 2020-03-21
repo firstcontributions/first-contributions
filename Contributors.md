@@ -2459,6 +2459,7 @@ notForProffitt
 - [Tanner Zigrang](https://github.com/tannerzigrang)
 - [JColl]
 - [Princesseuh](https://github.com/princesseuh)
+- [Alex Peffer](https://github.com/ayypeff)
 - [PseudoBinary](https://github.com/pseudobinary)
 - [mrAsabol](https://github.com/mrAsabol)
 - [Claudia Vargas](https://github.com/claucvk)
