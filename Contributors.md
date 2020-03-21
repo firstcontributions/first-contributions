@@ -20,7 +20,6 @@
 - Daniel
 - Shibani Mahapatra
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
-- [Michelle Dalli](https://github.com/MichelleDalli)
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
