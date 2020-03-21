@@ -7,6 +7,7 @@
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - [Pablo Reyes](https://github.com/PabloRN)
+- [Trish Spraggins](https://github.com/PSpraggins)
 - Will Chen
 -Harshu
 - Kevin Stensson
