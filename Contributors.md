@@ -19,6 +19,7 @@
 - [Jason Xie]
 - [Vatsala Jha]
 - {Shrusty Singh}
+- [Joanna Raygoza] (https://github.com/Joannaraygoza)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
 - [Amanda Taylor] (https://github.com/ataylor)
