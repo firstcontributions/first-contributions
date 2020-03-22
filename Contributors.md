@@ -21,6 +21,7 @@
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
+- sarthak bhardwaj (https://github.com/1sarthakbhardwaj)
 - Jess
 - Nadim Rubeiz
 - Daniel
