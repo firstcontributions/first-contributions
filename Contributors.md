@@ -197,6 +197,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - kherhozen
 - Marbin Wong(wmarbin.github.io)
 - Pooja Singh
+- Mikycid (https://github.com/Mikycid)
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
 - Sarinhatomal
@@ -20735,3 +20736,4 @@ rehan
 - [Bhawna Kumari](https://github.com/bk0110)
 - [Koen Meijer](https://github.com/KoenMeijer)
 - [Luke Howsam](https://github.com/luke-h1)
+
