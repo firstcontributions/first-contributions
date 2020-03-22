@@ -191,6 +191,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Mittul Mandhan
 - Jear Jujaroen (https://github.com/jearjujaroen)
 - Julian Hendrix (https://github.com/swishahendrix)
+- Monika Osochowska (https://github.com/kokosanki)
 - Caleb Contreras
 - Mayur Lalwani
 - Karini lbo 
