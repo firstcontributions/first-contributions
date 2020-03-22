@@ -20178,6 +20178,7 @@ rehan
 - [Tim Dinia](https://github.com/Timdinia)
 - [Praneeth Paikray](https://github.com/Praneeth16)
 - Jacob Moore
+- Nathan Barnes
 - [SunnySs](https://github.com/SunnySs)
 - [Perlin](https://github.com/pewcodes)
 - [Joseph]((https://github.com/ClassicRevive)
