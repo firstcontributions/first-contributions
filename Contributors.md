@@ -8005,6 +8005,7 @@ Aman Panjwani
 - [Aqsa Rehman](https://github.com/aqsarehman)
 - [IgorOliveira42](https://github.com/igoroliveira42)
 - Corne Kooyman
+- Nathan Thomas (https://github.com/nthomas1069)
 - SaiSai
 - [Mandia Samuels](https://github.com/Satraan)
 - [Satwato Dey](https://github.com/satwato)
