@@ -235,7 +235,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Amon Peter (https://github.com/AmonPeter)
 - Furkan Mutlu (https://github.com/furkanmutlu)
 - Spintec (https://github.com/Spintec)
-- Marcio Molina Morassutti (https://github.com/Marcio-MM)
+-- Marcio Molina Morassutti (https://github.com/Marcio-MM)
 - Haruka Taro
 - Arthyvelli
 - Pearl Takang
@@ -20736,3 +20736,4 @@ rehan
 - [Koen Meijer](https://github.com/KoenMeijer)
 - [Luke Howsam](https://github.com/luke-h1)
 - [Lukas Walter](https://github.com/lukw4l)
+- [Mert ERCAN](https://github.com/mertercan)
