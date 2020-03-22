@@ -11,6 +11,7 @@
 - Ekki Lu
 - Abhijit
 - Prakhar Nahar (https://github.com/thatprakhar)
+- Joseph Blackledge (https://github.com/BlueDiablos)
 - Pracha Promthaw (https://github.com/kimmypracha)
 - Jonah Song (https://github.com/jonahsong)
 - Bryan Baker (https://github.com/bry310)
