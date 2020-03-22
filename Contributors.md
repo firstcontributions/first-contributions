@@ -27,6 +27,7 @@
 - Nadim Rubeiz
 - Daniel
 - Shibani Mahapatra
+- [Anand P](https://github.com/anandp033)
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
 - Aman Thapliyal
 - Efthymia Kostaki
