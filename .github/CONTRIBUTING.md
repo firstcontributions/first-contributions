@@ -360,6 +360,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/lukeoliff">lukeoliff</a>
         </td>
         <td>
+            <a href="https://github.com/malavikasmenon">Malavika S Menon</a>
+        </td>
+        <td>
             <a href="https://github.com/yamac-kurtulus">yamac-kurtulus</a>
         </td>
         <td>
