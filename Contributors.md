@@ -128,6 +128,7 @@
 - Kevin M (https://github.com/kmckigney)
 - Maren Westermann (https://github.com/marenwestermann)
 - Prakhar Nahar (https://github.com/thatprakhar)
+- Joseph Blackledge (https://github.com/BlueDiablos)
 - Pracha Promthaw (https://github.com/kimmypracha)
 - [Adamu Abubakar Abba](https://github.com/IamSadiq/)
 - Jonah Song (https://github.com/jonahsong)
