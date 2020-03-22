@@ -60,6 +60,7 @@
 -Frances McConnell
 - [Somil Sharma] (https://github.com/somilsharma8)
 - Gbolahan Eniodunmo (https://github.com/folly77folly)
+- Ishan Patel (https://github.com/definepi314/)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
 - Utkarsh 
