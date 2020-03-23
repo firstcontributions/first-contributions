@@ -20748,3 +20748,4 @@ rehan
 - [Lukas Walter](https://github.com/lukw4l)
 - [Mert ERCAN](https://github.com/mertercan)
 - [Sahil Pattni] (https://github.com/Sahil-Pattni)
+- [Augusto Cruz](https://github.com/augusto-cruz)
