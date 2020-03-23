@@ -6417,6 +6417,7 @@ Noam Taub
 - [Ayush Jain](https://github.com/AJ-54)
 - [j4y](https://github.com/j4ys)
 - [Vero Ramirez]
+- [Rafael ARIAS] (https://github.com/rafaelefucho)
 - [Nisal097](https://github.com/Nisal097)
 - [Pj18](https://github.com/Pj18)
 - [Luciano](https://github.com/luciano-7)
