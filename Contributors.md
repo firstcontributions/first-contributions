@@ -37,6 +37,7 @@
 - Siji Bamgboyee
 - [Stef1000]
 - Annie Watson
+- [CSenshi](https://github.com/CSenshi)
 - Samuel Burton-Laurie
 - Anna Shera
 - Ahmed Zaghrat
