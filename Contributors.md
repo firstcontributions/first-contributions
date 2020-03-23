@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Olivier Sonrel
 - [yingl](https://github.com/godsome)
 - [ACAYspace](https://github.com/ACAYspace)
@@ -27,6 +27,7 @@
 - Jess
 - Nadim Rubeiz
 - Daniel
+- Maha
 - Shibani Mahapatra
 - [Anand P](https://github.com/anandp033)
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
