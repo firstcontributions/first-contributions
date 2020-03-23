@@ -27,6 +27,7 @@
 - sarthak bhardwaj (https://github.com/1sarthakbhardwaj)
 - Jess
 - Nadim Rubeiz
+- Pavan Sabnis
 - Daniel
 - DSHP
 - Maha
