@@ -96,6 +96,7 @@
 - [Shane Gable](https://github.com/gableshane)
 - William Goble
 - imemya19
+- georgeCog
 - oazaboy
 - Brownboy
 - Harshini2898
