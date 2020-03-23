@@ -95,6 +95,7 @@
 - [Shane Gable](https://github.com/gableshane)
 - William Goble
 - imemya19
+- oazaboy
 - Brownboy
 - Harshini2898
 - [Ashlyn Morin](https://github.com/littl3birdy)
