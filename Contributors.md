@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Olivier Sonrel
 - Shipra Khattri
 - [yingl](https://github.com/godsome)
@@ -808,6 +808,7 @@ Deepika Padmanabhan
 - [Parinya Sanyai](https://github.com/parinya-s)
 - [Ivan Pangrazio] (https://github.com/ipangrazio)
 - [Simon Shapiro](https://github.com/Simon-Shapiro)
+- [Bryn Phillips](https://github.com/brynphillips)
 - [Brian Liou] (https://github.com/iamsand)
 - [Vedant Shetty] (https://github.com/vedantshetty)
 - Dion Klaassen
