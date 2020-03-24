@@ -39,6 +39,7 @@
 - Shibani Mahapatra
 - [Anand P](https://github.com/anandp033)
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
+- [Johan Rin](https://github.com/johanrin)
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
