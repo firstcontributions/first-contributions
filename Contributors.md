@@ -20777,4 +20777,3 @@ rehan
 - [Augusto Cruz](https://github.com/augusto-cruz)
 - [Wojciech Kowanski](https://github.com/KowanskiWojciech)
 - [Kunal Patrikar](https://github.com/kunalpat25)
-- [Willy Enrique](https://github.com/wilenrq16)
