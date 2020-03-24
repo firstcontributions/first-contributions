@@ -14,6 +14,7 @@
 - REEEEEEEEEEEEE
 -Harshu
 - Kevin Stensson
+-Daler
 - [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
