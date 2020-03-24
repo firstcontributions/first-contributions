@@ -196,6 +196,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - [url8m8](https://github.com/url8m8/)
 - Mark Kariuki
 - LarissaAssis
+- [Rahul Raj] (https://github.com/notoveryet1308/)
 - Lucas Zillig
 - Mittul Mandhan
 - Jear Jujaroen (https://github.com/jearjujaroen)
@@ -262,7 +263,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Devon Scewmer(https://github.com/dnbroo)
 - Ana Clara Oliveira Bona
 - Chelsea Xu (https://github.com/ChelseaXu)
-- Leo Emman
+- Leo Emman 
 - Omri Tal (https://github.com/omriutal)
 - Dirceli
 Julia Bolting
