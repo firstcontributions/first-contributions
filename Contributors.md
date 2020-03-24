@@ -157,6 +157,7 @@
 - Saket Suraj (https://github.com/Saketsuraj)
 - Shakeane Hinds (https://github.com/shakeanehinds)
 - Abhinav (github.com/bighero3)
+- Jason Cheng
 -Eduarda Souza
  Diref
 - Anirban Ghosh
