@@ -901,6 +901,7 @@ Deepika Padmanabhan
 - [Alejandro Garcia](https://github.com/agc133)
 - [Sachin Mahesh](https://github.com/cyrus303)
 - [YogiAgency](https://github.com/YogiAgency)
+- [Paul Steppacher](https://github.com/how-about-this)
 - [Milan Chandro](https://github.com/milanu13)
 - [Venkatesh Wadawadagi](https://github.com/realvenky)
 - [Nuria Vázquez](https://github.com/vaznuria)
