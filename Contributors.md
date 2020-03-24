@@ -18,6 +18,7 @@
 - Kevin Stensson
 - Raju Kumar
 -Daler
+- Aryan Maurya
 - [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
