@@ -10,6 +10,7 @@
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - [Pablo Reyes](https://github.com/PabloRN)
 - [Trish Spraggins](https://github.com/PSpraggins)
+- [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
 - REEEEEEEEEEEEE
 -Harshu
