@@ -1,6 +1,7 @@
 ﻿# Contributors
 - Olivier Sonrel
 - Shipra Khattri
+- Akash gupta
 - [yingl](https://github.com/godsome)
 - [ACAYspace](https://github.com/ACAYspace)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
