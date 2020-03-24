@@ -14,6 +14,7 @@
 - REEEEEEEEEEEEE
 -Harshu
 - Kevin Stensson
+- Raju Kumar
 -Daler
 - [China](corona-virus@world.in)
 - Captain Robert
