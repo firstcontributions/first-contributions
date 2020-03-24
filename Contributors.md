@@ -15646,6 +15646,7 @@ macdara-dev
 - [Aidan Saull](https://github.com/ASaull)
 - [Helgi Helgason](https://github.com/HelgiHe)
 - [Omar Hamdan](https://github.com/omarhamdan)
+- [Monique Ferreira](https://github.com/ferreiramonique)
 - [Victor Orozco](https://github.com/metrognome1)
 - [Rocky Santiago](https://github.com/RockySantiago)
 - [Fernando Recede](https://github.com/fernandorecede)
