@@ -46,6 +46,7 @@
 - Aman Thapliyal
 - Efthymia Kostaki
 - Siji Bamgboyee
+-Efereyan Karen Simisola
 - [Stef1000]
 - Annie Watson
 - [CSenshi](https://github.com/CSenshi)
