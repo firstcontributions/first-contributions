@@ -10100,6 +10100,7 @@ Aman Panjwani
 - [STephen Docy](https://github.com/sdocy)
 - [Stephen Jacob](https://github.com/sjacob90)
 - [Lucas Paganini](https://github.com/LucasPaganini)
+- [Lachsschleuder] (https://github.com/Lachsschleuder)
 - [Neloy Ahmed](https://github.com/neloy-ahmed)
 - [Harjot Singh Parmr](https://github.com/harjotsinghparmar)
 - [Dilsheen Kaur](https://github.com/dilsheen)
