@@ -1050,6 +1050,7 @@ Deepika Padmanabhan
 - [Ariel Herrera](https://github.com/arielherrera)
 - [Naomi Bonnin] (https://github.com/naomi172839)
 - [LVZ]
+- [Stefan Niedermayr] (https://github.com/stefan-niedermayr/)
 - [poxiao2]
 - [Maciej Nachtygal](https://github.com/macieyn)
 - [Erica Xia](https://github.com/EricaXia)
