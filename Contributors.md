@@ -86,7 +86,6 @@
 -Jesus Gil
 - Robbie Murray (hhtps://github.com/RobbieMurray)
 -Jawad-nafad
--Tushit Garg
 -Andy Seracuse
 -Bhavesh K.
 -Stergios Sozos
@@ -105,6 +104,7 @@
 - William Goble
 - imemya19
 - georgeCog
+- Tushit Garg
 - oazaboy
 - Brownboy
 - Harshini2898
