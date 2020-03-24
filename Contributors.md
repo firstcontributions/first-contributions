@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Adam Pawtel
 - Olivier Sonrel
 - Shipra Khattri
 - Akash gupta
