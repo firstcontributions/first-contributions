@@ -16,6 +16,7 @@
 - REEEEEEEEEEEEE
 -Harshu
 - Kevin Stensson
+- [hemant-1332](https://github.com/hemant-1332)
 - Raju Kumar
 -Daler
 - [China](corona-virus@world.in)
