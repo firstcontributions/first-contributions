@@ -266,6 +266,7 @@ Julia Bolting
 - Michael Childress
 - Adam Mlodozeniec
 - Horvath Aron 
+- Harsha Vardhan
 - Marianna Campbell
 - Abe Aftahi (https://github.com/Kourosh-af)
 - Jay Lin (https://github.com/JetPlaneJJ)
