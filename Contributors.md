@@ -20766,6 +20766,7 @@ rehan
 - [Lauren Morgan] (https://github.com/rg326/)
 - [Shalini] (https://github.com/shalinyp)
 - [Geoffrey Couten] (https://github.com/geoffctn)
+- [HimanshuShekhar] (https://github.com/palhiman)
 - [KellyFromSales] (https://github.com/kellyfromsales)
 - [dreambeyondit] (https://github.com/dreambeyondit)
 - [Kenneth Mui](https://github.com/klmui)
