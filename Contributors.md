@@ -1,5 +1,6 @@
 # Contributors
 - ZemaBlue
+- GyaaniGuy
 - Adam Pawtel
 - Olivier Sonrel
 - Shipra Khattri
