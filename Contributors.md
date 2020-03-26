@@ -53,6 +53,7 @@
 - [Stef1000]
 - Annie Watson
 - [CSenshi](https://github.com/CSenshi)
+- [Tex Liao](https://github.com/liaocCM)
 - Samuel Burton-Laurie
 - Anna Shera
 - Ahmed Zaghrat
