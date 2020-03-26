@@ -71,6 +71,7 @@
 - Joaquín M2
 - Akshatha H
 - Humadnity
+- postulatas
 - [Ophelia H] (https://github.com/opheliah95)
 - [Gaspzubs](https://github.com/gaspzubs/)
 - Jimycool
