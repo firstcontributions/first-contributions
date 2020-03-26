@@ -6,6 +6,7 @@
 - Shipra Khattri
 - Akash gupta
 - [yingl](https://github.com/godsome)
+- [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Sahib Saify](https://github.com/ssaify)
