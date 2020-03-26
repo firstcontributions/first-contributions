@@ -32,6 +32,7 @@
 - Rohit Chugh
 - Gurdeep Singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
+- Tanvi Deshpande
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - sarthak bhardwaj (https://github.com/1sarthakbhardwaj)
