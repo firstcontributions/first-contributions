@@ -17,6 +17,7 @@
 - [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
 - REEEEEEEEEEEEE
+- [Harshit Varma](https://github.com/hrshtv)
 -Harshu
 -Praveenkumar
 - Kevin Stensson
