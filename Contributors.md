@@ -707,6 +707,7 @@ Deepika Padmanabhan
 - madhm88
 - noamgot
 - mojojojo
+- Vannak Suos (<https://github.com/vannaksuos)>
 - Redgen
 - Roni Lockwood (https://github.com/Rtlockwood-O)
 - Sean Kehoe (https://github.com/Egglton)
