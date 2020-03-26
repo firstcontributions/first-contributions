@@ -70,8 +70,8 @@
 - Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
 - Akshatha H
-- Humadnity
 - postulatas
+- Humadnity
 - [Ophelia H] (https://github.com/opheliah95)
 - [Gaspzubs](https://github.com/gaspzubs/)
 - Jimycool
