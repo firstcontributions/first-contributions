@@ -20630,6 +20630,7 @@ rehan
 - furkan
 - [Derike Novak] [Eduardo Silva] [Vinicius Wendt] (https://github.com/DerikeNovak)
 - some dude
+- halcyoff
 - [Chris Ekstedt]
 - [James Chang]
 - [Edward Wang](https://github.com/kaidame-na)
