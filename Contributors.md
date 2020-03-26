@@ -14366,6 +14366,7 @@ macdara-dev
 - [Cristian-perez](https://github.com/snaket2003)
 - [psychedopps](https://github.com/psychedopps)
 - [Geoff-Sher](https://github.com/TheSnuggle)
+- [Florian Förderreuther](https://github.com/FloFoer)
 - [Palash Jhamnani](https://github.com/palashjhamnani)
 - [Anju Karanji](https://github.com/anjukaranji)
 - [jaskaran singh](https://github.com/Jaskaran12)
