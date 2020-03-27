@@ -1,5 +1,6 @@
 # Contributors
 - ZemaBlue
+- Talhah Patelia
 - GyaaniGuy
 - Adam Pawtel
 - Olivier Sonrel
