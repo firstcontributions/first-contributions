@@ -10343,6 +10343,7 @@ Aman Panjwani
 - [Denis Dombrovski](https://github.com/ddenis1994)
 - [Jonathan Rinciari](https://github.com/jonathanRinciari)
 [Mark Williams](https://github.com/cf-s)
+- [proloy](https://github.com/ronyx18)
 - [Hcbille](https://github.com/hcbille)
 - [jdouty](https://github.com/jdouty)
 - [taeguk1991](http://github.com/taeguk1991)
