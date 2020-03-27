@@ -17,6 +17,7 @@
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
 - [Pablo Reyes](https://github.com/PabloRN)
 - [Trish Spraggins](https://github.com/PSpraggins)
+- Christina Schweipert (https://github.com/cschweipert)
 - [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
 - REEEEEEEEEEEEE
