@@ -3,6 +3,7 @@
 - GyaaniGuy
 - Adam Pawtel
 - Olivier Sonrel
+- Larry San Nicolas
 - Shipra Khattri
 - Akash gupta
 - [yingl](https://github.com/godsome)
