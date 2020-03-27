@@ -39,6 +39,7 @@
 - [pakistan] Muhammad hamza
 - Aamna Ozair
 - Rohit Chugh
+- Poto-feu (https://github.com/Poto-Feu)
 - Gurdeep Singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - Tanvi Deshpande
@@ -774,6 +775,7 @@ Deepika Padmanabhan
 - [Bibin Alex](https://github.com/bibinca1975)
 - [Titus Davis](https://github.com/EnigmaticGiant)
 - [Aahel Guha](https://github.com/aahel)
+- [Sinister Marooner](https://github.com/SinisterMarooner)
 - [Abhinavram Ananth](https://github.com/ableabhinav)
 - [Barry Henry](https://github.com/BarryHenryJr)
 - [petrus-vb](https://github.com/petrus-vb)
