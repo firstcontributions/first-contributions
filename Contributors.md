@@ -12219,6 +12219,7 @@ macdara-dev
 - [Jesse Jacobs](https://github.com/jjacobs21)
 - [Nick Talbert](https://github.com/lifeSource-Hub)
 - [Claudius King](https://github.com/protean-phoenix)
+- [Cameron Killins](https://github.com/cameronkillins)
 - [Mohit Gauniyal](https://github.com/mohitgauniyal19a)
 - [Karen King](https://github.com/lorlenes)
 - [Saif](https://github.com/saifcoding)
