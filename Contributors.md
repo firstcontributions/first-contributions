@@ -4,7 +4,8 @@
 - Adam Pawtel
 - Olivier Sonrel
 - Shipra Khattri
-- Akash gupta
+- Akash gupta 
+- Hamed Jabbari 
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
