@@ -1133,6 +1133,7 @@ Deepika Padmanabhan
 - [AdeptSlice](https://github.com/AdeptSlice)
 - [VijayaPrakashGullapalli](https://github.com/VijayaPrakashGullapalli)
 - [Bilal Suleman]
+- [Emily Kuo](https://github.com/emilyskuo)
 - [Daniel Borisov.]
 - [Ryan Madlener](https://github.com/ryanmadlener)
 - [Mohammad Shahraz Aslam]
