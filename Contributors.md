@@ -5043,6 +5043,7 @@ Noam Taub
 - [Nirliptha Bangalore](https://github.com/bvnirliptha)
 - [Andrew Kassab](https://github.com/andrewkassab)
 - [Rawad Karam](https://github.com/rawad663)
+- [Marcus Christerson](https://github.com/marcchr)
 - [Ellen Puhalovich](https://github.com/epuhalovich)
 - [Eduardo Canale](https://github.com/EduardoCanale)
 - [Nicolas Hermet](https://github.com/Nicolas-Hermet)
