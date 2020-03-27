@@ -127,6 +127,7 @@
 - Brownboy
 - Harshini2898
 - [Ashlyn Morin](https://github.com/littl3birdy)
+- [Vladimir Panov](https://github.com/CleverShovel)
 - [Aadya Mishra](https://github.com/panda2498)
 - [Maciej Gajewski](https://github.com/MaciejGajewski)
 - braintho (https://github.com/braintho)
