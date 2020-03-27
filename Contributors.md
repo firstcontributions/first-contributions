@@ -83,6 +83,7 @@
 - mglasder
 - [Jamison Cozart](https://github.com/jamisoncozart)
 - Lokesh Yadav
+- [Phat Marc] (https://github.com/phat-marc)
 - Hridayesh Sham Pawar
 - Kipling Liu
 - Rehan Ayub
