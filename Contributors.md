@@ -5,7 +5,7 @@
 - Olivier Sonrel
 - Shipra Khattri
 - Akash gupta 
-- Hamed Jabbari 
+- [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
