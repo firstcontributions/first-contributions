@@ -33,6 +33,8 @@
 - Shoaib Ahmed
 - Andreas Grigoriadis
 - [pakistan] Muhammad hamza
+- Aamna Ozair
+- Andreas Grigoriadis
 - Rohit Chugh
 - Gurdeep Singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
