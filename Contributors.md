@@ -46,6 +46,7 @@
 - Daniel
 - DSHP
 - Maha
+- Gerry F
 - Shibani Mahapatra
 - [Anand P](https://github.com/anandp033)
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
