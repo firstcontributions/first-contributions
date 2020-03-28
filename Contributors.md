@@ -26,6 +26,7 @@
 - REEEEEEEEEEEEE
 - [Harshit Varma](https://github.com/hrshtv)
 -Harshu
+- Colin Nelson
 -Praveenkumar
 - Kevin Stensson
 - [hemant-1332](https://github.com/hemant-1332)
