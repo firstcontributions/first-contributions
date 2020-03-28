@@ -1,5 +1,6 @@
 # Contributors
 - ZemaBlue
+- Rohit Lambora
 - Talhah Patelia
 - GyaaniGuy
 - Adam Pawtel
