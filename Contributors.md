@@ -121,6 +121,7 @@
 - [Ashlyn Morin](https://github.com/littl3birdy)
 - [Aadya Mishra](https://github.com/panda2498)
 - [Maciej Gajewski](https://github.com/MaciejGajewski)
+- [Saajidah Gafoor](https://github.com/sgafoor195)
 - braintho (https://github.com/braintho)
 - Vivek Khimani
 - Kainaat Singh (https://github.com/KainaatSingh)
