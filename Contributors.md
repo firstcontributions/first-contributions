@@ -1,6 +1,7 @@
 # Contributors
 - Oba Api
 - ZemaBlue
+- Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
 - Talhah Patelia
 - GyaaniGuy
