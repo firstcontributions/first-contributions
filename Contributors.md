@@ -7918,6 +7918,7 @@ Aman Panjwani
 - [Urszula](https://github.com/CebUleczka)
 - James Strong
 - Bill Carleton
+- [Kanza Sheikh](https://github.com/KanzaSheikh)
 - [Arka Mitra](https://github.com/thearkamitra)
 - [Yaderson Patiño](https://github.com/yaderson)
 - [Mladen Ristić](https://github.com/mladenristic1997)
