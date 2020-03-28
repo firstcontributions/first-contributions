@@ -71,6 +71,7 @@
 - Samuel Burton-Laurie
 - Anna Shera
 - Ahmed Zaghrat
+- Pawan Wadhwani
 - Saumya Gandhi
 - Sachin Hegde
 - čingimingi
