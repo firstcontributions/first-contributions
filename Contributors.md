@@ -35,6 +35,7 @@
 - [China](corona-virus@world.in)
 - Captain Robert
 - Gauri Bhardwaj
+- Ela Zaman
 - Shoaib Ahmed
 - Andreas Grigoriadis
 - [pakistan] Muhammad hamza
