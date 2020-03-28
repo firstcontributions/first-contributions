@@ -489,6 +489,7 @@ Derek Leach
 - Shivam Gupta
 - Charles Witherspoon (https://github.com/charles-witherspoon)
 - Ana Wowcsuk
+- [Jeremy Shaw](https://github.com/jeremyshaw)
 - Conor Barr (https://github.com/Conor94)
 - William Perkins (https://github.com/wjperk)
 - [João Guilherme Hagemann](https://github.com/jghagemann)
