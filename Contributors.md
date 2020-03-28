@@ -44,6 +44,7 @@
 - Rohit Chugh
 - Gurdeep Singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
+- [Jose Urbina](https://github.com/jurbinan)
 - Tanvi Deshpande
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
