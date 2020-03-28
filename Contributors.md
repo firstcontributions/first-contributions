@@ -1022,6 +1022,7 @@ Deepika Padmanabhan
 - [Sehyeong Lee](https://github.com/lsh23)
 - [Carlos Silva](https://github.com/sabioes)
 - Kaustubh Dixit
+- Sourabh Berde
 - Jun Zhao
 - Thomas A
 - Fenkil A
