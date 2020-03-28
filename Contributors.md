@@ -9569,6 +9569,7 @@ Aman Panjwani
 - [Patrick Pruss](https://github.com/ppruss)
 - [Alex Martineau](https://github.com/AlMartineau)
 - [Jason Wang](https://github.com/jawang94)
+- [Michael Broniola] (https://github.com/omoogo)
 - [Matthew Krcmaric](https://github.com/mkrcmaric)
 - [Daniel B. Papp](https://github.com/chef-danny-d)
 - [Sagar Patel](https://github.com/patelsv)
