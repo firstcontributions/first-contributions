@@ -6,7 +6,7 @@
 - Olivier Sonrel
 - Larry San Nicolas
 - Shipra Khattri
-- Akash gupta 
+- Akash gupta
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
@@ -6979,6 +6979,7 @@ Noam Taub
 - [Mike Capps](https://github.com/MikeCapps2006)
 - [Adrija Acharyya](https://github.com/adrijaacharyya)
 - [Jaco Minnaar](https://github.com/Jaco-Minnaar)
+- [Max Broo](https://github.com/maxwbro)
 - [Ross Clark](https://github.com/ross-clark)
 - [Gromet Spaal](https://github.com/grommuz)
 - [Maria Aveiro](https://github.com/aveirinha)
