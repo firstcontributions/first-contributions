@@ -112,6 +112,7 @@
 - [Katie Kunz](https://github.com/kwazykt)
 - Utkarsh 
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
+- [Abhay Raj Singh](https://github.com/alphasingh)
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
 - [Stephen Ngai] (github.com/stephen-ngai)
