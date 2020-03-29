@@ -34,7 +34,8 @@
 - Anna Shera
 - Ahmed Zaghrat
 - Saumya Gandhi
-- Sachin Hegde -_ B - Elamar_
+- Sachin Hegde -
+  _ dev247dotcom_
 - kyuhyunlee
 - Jae Joo (https://github.com/jj534)
 - Ko Chi(https://github.com/kochix2)
