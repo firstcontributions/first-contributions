@@ -11,6 +11,7 @@
 - Larry San Nicolas
 - Shipra Khattri
 - Akash gupta
+- Marta Pinol
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
