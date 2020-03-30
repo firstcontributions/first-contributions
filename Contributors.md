@@ -3207,6 +3207,7 @@ Kebana Modise
 - [Bryant Caruthers](https://github.com/bcaruthers)
 - Michael Giardino
 - alokranjan1234
+- Eldar Takach
 - [William Eller](https://github.com/WilliamEller)
 - [Ashish Singh](https://github.com/ashish-iitr)
 - [Ri Xin Yang](https://github.com/MatoPlus)
