@@ -69,6 +69,7 @@
 - [Johan Rin](https://github.com/johanrin)
 - Aman Thapliyal
 - Efthymia Kostaki
+- Domingo Sanchez
 - Siji Bamgboyee
 -Efereyan Karen Simisola
 - [Stef1000]
