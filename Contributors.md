@@ -1,4 +1,5 @@
 # Contributors
+- [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
 - Oba Api
 - ZemaBlue
