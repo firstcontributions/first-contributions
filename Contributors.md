@@ -60,6 +60,7 @@
 - Jess
 - Nadim Rubeiz
 - Pavan Sabnis
+- Anirudh G (https://github.com/anirudh-g99)
 - Daniel
 - DSHP
 - Maha
