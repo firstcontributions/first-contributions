@@ -7,6 +7,7 @@
 - Talhah Patelia
 - GyaaniGuy
 - Adam Pawtel
+- [reddtoric](https://github.com/reddtoric)
 - Olivier Sonrel
 - Larry San Nicolas
 - Shipra Khattri
