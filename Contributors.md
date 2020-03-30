@@ -262,6 +262,7 @@
 - [Yash Jaiswal]
 - [Kasra Tabrizi]
 - [ymrz]
+- [Sahil Bairagi](https://github.com/Sahil-k1509)
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Teresa Livriero](https://github.com/teresa-livriero)
 - [Nicolas Pin](https://github.com/pythareme)
