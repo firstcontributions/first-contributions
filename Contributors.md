@@ -1,6 +1,7 @@
 # Contributors
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
+- Ryan McCall (https://github.com/RyanMcCall)
 - Oba Api
 - ZemaBlue
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
