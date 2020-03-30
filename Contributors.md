@@ -272,6 +272,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
 - Charlotte Dibb
 - Look back
+- mamutahr (https://github.com/mamutahr)
 - Bagelbun
 - Mor Schlesinger (https://github.com/scmor3)
 - willwalsh96
