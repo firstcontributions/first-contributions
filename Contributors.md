@@ -18,6 +18,7 @@
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
+- [bradagy](https://github.com/bradagy)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Sahib Saify](https://github.com/ssaify)
 - [Max la Menace](https://github.com/Max-le)
