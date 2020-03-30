@@ -264,6 +264,7 @@ CMBloodMeridian
 - [Abdurrahman Therwi](https://github.com/amtherwi)
 - Jian
 - [Evan Bailey](https://github.com/Spacetime02)
+- [Avishka Amunugama](https://github.com/a-avishka)
 - Abdelkader Lagha
 - [Monty Britton](https://github.com/MontyBr)
 - Christina Luna (https://github.com/christinaluna)
