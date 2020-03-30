@@ -90,6 +90,7 @@
 - Joaquín M2
 - Akshatha H
 - postulatas
+- tqlloki
 - Humadnity
 - [Ophelia H] (https://github.com/opheliah95)
 - [Gaspzubs](https://github.com/gaspzubs/)
