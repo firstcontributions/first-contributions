@@ -35,6 +35,7 @@
 - [Harshit Varma](https://github.com/hrshtv)
 -Harshu
 - Colin Nelson
+- [Moises Miguel](https://github.com/moimigueldev) 
 -Praveenkumar
 - Kevin Stensson
 - Helen Lants
