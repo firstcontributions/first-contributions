@@ -94,8 +94,7 @@
 - Srikar Reddy (https://github.com/sunny117)
 - Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
-- Akshatha H
-- postulatas
+- Akshatha H - postulatas
 - tqlloki
 - Humadnity
 - [Ophelia H] (https://github.com/opheliah95)
@@ -3002,6 +3001,7 @@ Haris Siddiqui
 - Rui Magalhaes
 - Josia Rodriguez
 - Glen Edwards
+- [Rebecca Curry](https://github.com/RebeccaCurry)
 - Christian Torbica
 - Victoria B
 - linn
