@@ -10455,6 +10455,7 @@ Aman Panjwani
 - [Jake Frn](https://github.com/jakefrn)
 - [Hauwa Abashiya](https://github.com/azhiya)
 - [Napat](https://github.com/napatwongchr)
+- [Nico Reggio](https://github.com/NicoReggio)
 - [Eric Audran](https://github.com/Nevosis)
 - [Silvino Vieiew](https://github.com/silvinovieira)
 - [Michael Isprihanto](https://github.com/michaelisprihanto)
