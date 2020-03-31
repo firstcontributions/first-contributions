@@ -3002,6 +3002,7 @@ Haris Siddiqui
 - Rui Magalhaes
 - Josia Rodriguez
 - Glen Edwards
+- [Rebecca Curry](https://github.com/RebeccaCurry)
 - Christian Torbica
 - Victoria B
 - linn
