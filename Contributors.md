@@ -40,6 +40,7 @@
 - [hemant-1332](https://github.com/hemant-1332)
 - Raju Kumar
 - Madeline Milagros
+- jagadeeshc1
 -Daler
 - ctripp1
 - Aryan Maurya
