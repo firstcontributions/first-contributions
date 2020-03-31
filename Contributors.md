@@ -15246,6 +15246,7 @@ macdara-dev
 - [Nicolas Vastrade](https://github.com/nicolius13)
 - [Mahesh Reddy](https://github.com/maheshreddys)
 - [Taewan Park](https://github.com/Taewan-P)
+- Adrian Pather
 - [Irenee Ajeneza](https://github.com/ireneea)
 - [Lakshya](https://github.com/lakkshh)
 - [Can Özyurt](https://github.com/cmeer)
