@@ -15141,6 +15141,7 @@ macdara-dev
 - [Adhil Juvane](https://github.com/adhiljuvane)
 - [ryakosh](https://github.com/ryakosh)
 - [lvujnovic](https://github.com/lvujnovic)
+- [Alexander Gillespie](https://github.com/AlexanderGillespie)
 - [Amr Abouelleil](https://github.com/osiris1975)
 - [Diane Leigh](https://github.com/leighd2008)
 - [James Hubert](https://github.com/JamesHubert)
