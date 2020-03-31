@@ -88,6 +88,7 @@
 - Pawan Wadhwani
 - Saumya Gandhi
 - Sachin Hegde
+- Nana Kwame (<https://github.com/Kwame007)>
 - čingimingi
 - Ilay David Almalem
 - kyuhyunlee
