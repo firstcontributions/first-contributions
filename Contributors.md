@@ -4,6 +4,7 @@
 - David Movsesyan (https://github.com/coldSeattle)
 - Ryan McCall (https://github.com/RyanMcCall)
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
+- Omer Mujtaba (https://github.com/omermujtaba18)
 - Oba Api
 - ZemaBlue
 - George Owira Amoth
