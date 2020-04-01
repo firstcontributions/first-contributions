@@ -24,6 +24,7 @@
 - [bradagy](https://github.com/bradagy)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Sahib Saify](https://github.com/ssaify)
+- [Kenny D](https://github.com/ken-diep)
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
@@ -20891,3 +20892,4 @@ Marcos Concon
 - [WatDuhHekBro](https://github.com/WatDuhHekBro)
 - Shabby Alonso
 - Tanner Cottle [(https://github.com/tannerkc), (http://tannercottle.com)]
+- [Colin Kinghorn](https://github.com/colinkcodes)
