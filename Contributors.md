@@ -1,5 +1,4 @@
 # Contributors
-- Tanner Cottle [(https://github.com/tannerkc), (http://tannercottle.com)]
 - Dracula Tepes
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
@@ -20891,4 +20890,4 @@ Marcos Concon
 - [Jonne Kaunisto](https://github.com/jonnekaunisto)
 - [WatDuhHekBro](https://github.com/WatDuhHekBro)
 - Shabby Alonso
-
+- Tanner Cottle [(https://github.com/tannerkc), (http://tannercottle.com)]
