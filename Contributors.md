@@ -6,6 +6,7 @@
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Oba Api
 - ZemaBlue
+- George Owira Amoth
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
 - Talhah Patelia
