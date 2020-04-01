@@ -9525,6 +9525,7 @@ Aman Panjwani
 - [Melissa Freiser](https://github.com/mofoshow)
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
+- [Thierry Araujo](https://github.com/thierryaraujo)
 - [Akash Barve](https://github.com/AkashBarve)
 - [Ikeoha Chidi](https://github.com/ikeohachidi)
 - [Carina Walker](https://github.com/carina3) 03.04.19
