@@ -82,6 +82,7 @@
 - Efthymia Kostaki
 - Domingo Sanchez
 - Siji Bamgboyee
+- Edwin Wong (https://github.com/edwinwongy)
 -Efereyan Karen Simisola
 - [Stef1000]
 - Annie Watson
