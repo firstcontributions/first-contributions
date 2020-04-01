@@ -24,6 +24,7 @@
 - [bradagy](https://github.com/bradagy)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Sahib Saify](https://github.com/ssaify)
+- [Kenny D](https://github.com/ken-diep)
 - [Max la Menace](https://github.com/Max-le)
 - Matheus Donato
 - [Tarunraj Amuthan](https://github.com/tarunraj-work)
