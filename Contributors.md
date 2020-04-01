@@ -20890,3 +20890,4 @@ Marcos Concon
 - [Jonne Kaunisto](https://github.com/jonnekaunisto)
 - [WatDuhHekBro](https://github.com/WatDuhHekBro)
 - Shabby Alonso
+- [Colin Kinghorn](https://github.com/colinkcodes)
