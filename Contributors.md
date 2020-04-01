@@ -84,6 +84,7 @@
 - Annie Watson
 - [CSenshi](https://github.com/CSenshi)
 - [Tex Liao](https://github.com/liaocCM)
+- [Smile](https://github.com/smilep)
 - Samuel Burton-Laurie
 - Anna Shera
 - Ahmed Zaghrat
