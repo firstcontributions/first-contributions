@@ -17,6 +17,7 @@
 - [Macky Ben Jonah](https://github.com/Mackyboy12/)
 - Talhah Patelia
 - viz
+- April Day (https://github.com/AprilDDay)
 - GyaaniGuy
 - Adam Pawtel
 - [reddtoric](https://github.com/reddtoric)
