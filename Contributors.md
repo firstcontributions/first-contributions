@@ -14,6 +14,7 @@
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
 - Talhah Patelia
+- viz
 - GyaaniGuy
 - Adam Pawtel
 - [reddtoric](https://github.com/reddtoric)
