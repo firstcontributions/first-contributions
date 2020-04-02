@@ -9593,6 +9593,7 @@ Aman Panjwani
 - [Kristian Os](https://github.com/codedevstem)
 - [Thiago Brasil](https://github.com/tchaguitos)
 - [Marcos Wesley](https://github.com/Marcos314)
+- [Emir Velazquez](https://github.com/EmirVelazquez)
 - [Leonardo Pedreira](https://github.com/leopedreira)
 - [Rúben Lopes](https://github.com/benmpl)
 - [Uliana Sirotina](https://github.com/bulliana)
