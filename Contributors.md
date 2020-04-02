@@ -20905,4 +20905,4 @@ Marcos Concon
 - [alirezainjast](https://github.com/alirezainjast)
 - [Kaue Reinbold](https://github.com/KaueReinbold)
 - [Hally Bianan](https://github.com/itshally)
-- [Edith Yiyi](https://github.com/evileleven)
+- [Edith Yi](https://github.com/evileleven)
