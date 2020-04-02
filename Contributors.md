@@ -19,6 +19,7 @@
 - Shipra Khattri
 - Akash gupta
 - Marta Pinol
+- Eric Wang
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
