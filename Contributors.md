@@ -1,6 +1,7 @@
 # Contributors
 - ZemaBlue
 - Rohit Lambora
+- [Macky Ben Jonah](https://github.com/Mackyboy12/)
 - Talhah Patelia
 - GyaaniGuy
 - Adam Pawtel
