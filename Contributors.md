@@ -19857,6 +19857,7 @@ Mário Baltazar
 - [AHerczeg](https://github.com/AHerczeg)
 - [Duy Tran](https://github.com/TaxiNumber1729)
 - [Valasulth](https://github.com/valasulth)
+- [Joseph Rewald](https://github.com/josephrewald)
 - [Arupam Kumar Saha](https://github.com/arupam)
 - [Harshaan Nihal](https://github.com/harshaannihal)
 - [Kyle Heron](https://github.com/KyleHeron)
