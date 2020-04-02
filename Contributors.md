@@ -8,6 +8,7 @@
 - Omer Mujtaba (https://github.com/omermujtaba18)
 - Oba Api
 - ZemaBlue
+- Asheer Rizvi (https://github.com/asheerrizvi)
 - George Owira Amoth
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
