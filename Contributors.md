@@ -1,5 +1,6 @@
 # Contributors
 - Dracula Tepes
+- Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
 - Ryan McCall (https://github.com/RyanMcCall)
