@@ -7,6 +7,7 @@
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Omer Mujtaba (https://github.com/omermujtaba18)
 - Oba Api
+- [Fabian Muema](https://github.com/fabianmuema)
 - ZemaBlue
 - Asheer Rizvi (https://github.com/asheerrizvi)
 - George Owira Amoth
