@@ -339,6 +339,7 @@ Julia Bolting
 - Daksh (https://github.com/dushyant19/)
 - Noemptytags
 - Subham Kumar
+- Ahmet Aktürk
 - Michael Childress
 - Adam Mlodozeniec
 - Horvath Aron 
