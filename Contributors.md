@@ -206,6 +206,7 @@
 - Alex
 - Abhijit
 - Christine P.
+- Akshat Mittal
 - Manikanta Loya (https://github.com/manikanta-72)
 -Harshal Sharma
 - Semuca
