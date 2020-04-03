@@ -20645,6 +20645,7 @@ rehan
 - [Jeff Perkinson] (https://jperk224.github.io/)
 - [Farhan Khalifa Ibrahim] (https://github.com/Farhan-Khalifa-Ibrahim)
 - [Colin Dixon] (https://github.com/dixoncb)
+- [William Chen] (https://github.com/wchen-oxy)
 - [plantprogrammer](https://github.com/plantprogrammer)
 - [Tony Tang] (https://github.com/tonytangdev/)
 - [Alex Phan] (https://github.com/Edgeoutrock/)
@@ -20930,3 +20931,4 @@ Marcos Concon
 - [Hally Bianan](https://github.com/itshally)
 - [Edith Yi](https://github.com/evileleven)
 - [Alan Yeung](https://github.com/yeungalan0)
+
