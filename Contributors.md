@@ -1683,6 +1683,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Fatima Rojo](https://github.com/serfati5)
+- [Madalyn Singer] (https://github.com/madalynsinger)
 - [Nikita Tonkoshkur](https://github.com/bloodwithmilk25)
 - [Poki](https://github.com/pokidokika)
 - [Vasilii Pupkin](https://github.com/shivam-sood)
