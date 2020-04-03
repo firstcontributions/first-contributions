@@ -94,7 +94,8 @@
 - Domingo Sanchez
 - Siji Bamgboyee
 - Edwin Wong (https://github.com/edwinwongy)
--Efereyan Karen Simisola
+- Efereyan Karen Simisola
+- [Utkarsh Verma](https://github.com/utkarshvermaa)
 - [Stef1000]
 - Annie Watson
 - [CSenshi](https://github.com/CSenshi)
