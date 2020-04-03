@@ -293,6 +293,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Chinedumc (https://github.com/chinedumc)
 - Jean Ricardo Monteiro (https://github.com/JeanMonteiro)
 - Charlotte Dibb
+- Hadi Patel
 - Look back
 - mamutahr (https://github.com/mamutahr)
 - Bagelbun
