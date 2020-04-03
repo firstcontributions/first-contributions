@@ -26,6 +26,7 @@
 - Shipra Khattri
 - Akash gupta
 - Marta Pinol
+- Timothy Pham (https://github.com/tpham2580)
 - Akshit Goyal (https://github.com/akshitgoyal1998)
 - Alberto R
 - Eric Wang
