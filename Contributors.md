@@ -141,6 +141,7 @@
 - Ishan Patel (https://github.com/definepi314/)
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
+- [Ramsey El-Naggar](https://github.com/relnaggar)
 - Utkarsh 
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
 - [Abhay Raj Singh](https://github.com/alphasingh)
