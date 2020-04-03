@@ -20921,3 +20921,5 @@ Marcos Concon
 - [Kaue Reinbold](https://github.com/KaueReinbold)
 - [Hally Bianan](https://github.com/itshally)
 - [Edith Yi](https://github.com/evileleven)
+- [Brian Bassard](https://github.com/BrianBassard)
+
