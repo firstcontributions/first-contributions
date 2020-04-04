@@ -10,6 +10,7 @@
 - Oba Api
 - [Fabian Muema](https://github.com/fabianmuema)
 - ZemaBlue
+- Abhinav Pratik (https://github.com/pratikabhinav)
 - Asheer Rizvi (https://github.com/asheerrizvi)
 - George Owira Amoth
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
