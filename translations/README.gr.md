@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# [<img align="left"  width="50" src="assets/readme-icon.png">](https://firstcontributions.github.io) Πρώτη Συνεισφορά
+# [<img align="left"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Πρώτη Συνεισφορά
 
 Είναι πάντα δύσκολο να κάνεις κάτι για πρώτη φορά. Ειδικά όταν συνεργάζεσαι με άλλους και κάνεις λάθη, η κατάσταση γίνεται ιδιαίτερη άβολη. Αλλά το σημαντικότερο πράγμα στο ανοιχτό λογισμικό είναι η συνεργασία και να δουλεύουμε μαζί. Θέλαμε να απλοποιήσουμε τον τρόπο με τον οποίο οι άνθρωποι που για πρώτη φορά συνεισφέρουν στο ανοιχτό λογισμικό, μαθαίνουν και κάνουν πράγματα.
 
