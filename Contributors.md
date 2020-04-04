@@ -26,6 +26,7 @@
 - Larry San Nicolas
 - Shipra Khattri
 - Akash gupta
+- Vaibhav Sachan(Butowskii)
 - Marta Pinol
 - Timothy Pham (https://github.com/tpham2580)
 - Akshit Goyal (https://github.com/akshitgoyal1998)
