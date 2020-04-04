@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# [<img align="left"  width="50" src="assets/readme-icon.png">](https://firstcontributions.github.io) First Contributions
+# [<img align="left"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) First Contributions
 
 'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
 
