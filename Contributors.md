@@ -22,6 +22,7 @@
 - GyaaniGuy
 - Adam Pawtel
 - [reddtoric](https://github.com/reddtoric)
+- [Victor Vazquez](https://github.com/VictorVazquezRey)
 - Olivier Sonrel
 - Larry San Nicolas
 - Shipra Khattri
