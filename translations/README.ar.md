@@ -6,7 +6,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# <div dir="rtl">مساهمتك الأولى</div> [<img align="right"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io)  
+# [<img align="right"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) <div dir="rtl">مساهمتك الأولى</div> 
 
 <div dir="rtl">
 الصعوبة متوقعة عندما تبدأ بأي عمل جديد، خصوصاً إذا كان العمل يتضمن أشخاص آخرون، مما يجعل الوقوع في الخطأ مزعجا.
