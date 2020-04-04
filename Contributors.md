@@ -12,6 +12,7 @@
 - ZemaBlue
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Theodor Dimitriadis (https://github.com/theodimi404)
+- Savvas Filippidis (https://github.com/SavFil)
 - Asheer Rizvi (https://github.com/asheerrizvi)
 - George Owira Amoth
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
