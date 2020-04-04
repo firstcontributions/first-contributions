@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# [<img align="left"  width="50" src="assets/readme-icon.png">](https://firstcontributions.github.io) Første bidrag
+# [<img align="left"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Første bidrag
 
 Det er svært. Det er altid svært når det er første gang. Specielt hvis man samarbejder er det ikke rart at begå fejl. Vi vil simplificere den store udfordring det er for nybegyndere at lære om open-source, og at lave deres f'rste bidrag.
 
