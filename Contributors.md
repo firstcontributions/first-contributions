@@ -18433,6 +18433,7 @@ macdara-dev
 - [humboo](https://github.com/humboo)
 - [Jeremy Dean](https://github.com/deanj20)
 - [Scott Dauer](https://github.com/swdauer)
+- Frosten Church
 - [Seongkyu Lee](https://github.com/queuestack)
 - [Jason Tsang](https://github.com/jasonrtsang)
 - [Pedro Legua](https://github.com/pedroadrian987)
