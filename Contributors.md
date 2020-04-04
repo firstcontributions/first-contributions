@@ -1,4 +1,5 @@
 # Contributors
+- Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
 - Dracula Tepes
 - Marcell Gibbs(https://github.com/0silverback0)
