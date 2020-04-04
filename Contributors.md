@@ -6,6 +6,7 @@
 - David Movsesyan (https://github.com/coldSeattle)
 - Ryan McCall (https://github.com/RyanMcCall)
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
+- [Sarthak Vineet Kumar](https://github.com/sarthakchaudhary13)
 - Omer Mujtaba (https://github.com/omermujtaba18)
 - Linda Woo (https://github.com/lindakwoo)
 - Oba Api
