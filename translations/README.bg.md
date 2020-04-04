@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# [<img align="right"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Първи стъпки
+# [<img  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Първи стъпки
 
 Трудно е. Когато правиш нещо за пръв път винаги е трудно. Още повече, когато се работи съвместно с други хора. Затова решихме да опростим процеса на учене за новобранците в допринасянето към отворен софтуеър.
 
