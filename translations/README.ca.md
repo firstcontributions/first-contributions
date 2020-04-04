@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# [<img align="left"  width="50" src="assets/readme-icon.png">](https://firstcontributions.github.io) Primeres Contribucions
+# [<img align="left"  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Primeres Contribucions
 
 És difícil. Sempre ho és quan es fa algo per primera vegada. Especialment quan es col·labora amb altres, ja que efectuar errades no es gens agradable. Es vol simplificar la manera en que els col·laboradors de codi obert aprenen i contribueixen per primera vegada.
 
