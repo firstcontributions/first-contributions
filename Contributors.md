@@ -24,6 +24,7 @@
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
+- Maese Burgui
 - viz
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
