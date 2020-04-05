@@ -11328,6 +11328,7 @@ Aman Panjwani
 - [Ashley Woodall](https://github.com/ashwoodall)
 - [Stefan Bachmann](https://github.com/sbcodes)
 - [Alice Chuang](https://github.com/AliceWonderland)
+- [Nikita Orlov](https://github.com/orlovcs)
 - hommat
 - [John Earl](https://github.com/jearl4)
 - [Ed Mendoza](https://github.com/Polyneue)
