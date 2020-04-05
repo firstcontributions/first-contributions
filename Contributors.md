@@ -1722,6 +1722,7 @@ o Pierre Hamelin, roi sur la montagne, seigneur du NordSud, premier du nom, sauf
 - [Matheus Elyasha](https://github.com/elyasha)
 - [Rachit Garg](https://github.com/rstar900)
 - [Nicholas David Lister](https://github.com/nicholasdavidlister)
+- [Emma Blott](http://https://github.com/blotty23)
 
 - [Anushka Deshpande](https://github.com/anushkadeshpande)
 - [Teemu Kaaria](https://github.com/teemukaaria)
@@ -19915,6 +19916,7 @@ Mário Baltazar
 - [Graham Healy](https://github.com/grahamhealy20)
 - [Sho Hiramatsu](https://github.com/Ki1r0y)
 - [Harman Singh Jolly](https://github.com/CoderJolly)
+- [Emma Blott](https://github.com/blotty23)
 - [Iso Thiazol](https://github.com/isothiazol)
 - [Fabricio Corrêa](https://github.com/fabriciojulio)
 - [Arthur Cavalcante](https://github.com/arthurcavalcant)
