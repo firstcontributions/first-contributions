@@ -8906,6 +8906,7 @@ Aman Panjwani
 - Alon
 - Max
 - Harry Zhang
+- [Zebus Aqua](https://github.com/aquabouncer)
 - [Minh Chau](https://github.com/ctrongminh)
 - [Malik](https://github.com/glossopm)
 - [Cody Garrett](https://github.com/CsCody)
