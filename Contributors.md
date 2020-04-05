@@ -34,6 +34,7 @@
 - [Victor Vazquez](https://github.com/VictorVazquezRey)
 - Olivier Sonrel
 - Larry San Nicolas
+- Sarthak Bhat
 - Shipra Khattri
 - Akash gupta
 - Vaibhav Sachan(Butowskii)
