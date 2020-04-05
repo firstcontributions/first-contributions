@@ -8997,6 +8997,7 @@ Aman Panjwani
 - [J.T. Robinson](https://github.com/jtrob704)
 - Saurabh Bansal
 - Pia K
+- [Peter Cheng](https://github.com/pqcheng)
 - [James King](https://github.com/2000jcking)
 - [Chon Pa Sa](https://github.com/ChonPaSa)
 - Kashish Khullar - :P
