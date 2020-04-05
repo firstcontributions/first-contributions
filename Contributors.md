@@ -5633,6 +5633,7 @@ Aman Panjwani
 - [Mora Ogunro](https://github.com/MoraOgunro)
 - [Cesare Laurenziello](https://github.com/laurenziello)
 - [Rohit Mazumder](https://github.com/RohitMazumder)
+- [Rohit Raj](https://github.com/rohit15079)
 - [Pablo Triandafilide](https://github.com/pablotrianda)
 - [Anish Badri R S](https://github.com/anishbadhri)
 - [Ina Singhal](https://github.com/inasinghal17)
