@@ -4822,6 +4822,7 @@ Noam Taub
 - [Harshal Chaudhari](https://github.com/harshalchaudhari35)
 - [Scott Abe](https://github.com/stabee)
 - [Sol Renato](https://github.com/SRNT)
+- [Jordan Perkins](https://github.com/jordanperkins98)
 - [Kosmas Dimitropoulos](https://github.com/kosmasdimitropoulos)
 - [Apurva Jain](https://github.com/jainapurva)
 - anuj yadav
