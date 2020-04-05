@@ -132,7 +132,7 @@
 - [Ophelia H] (https://github.com/opheliah95)
 - [Gaspzubs](https://github.com/gaspzubs/)
 - Jimycool
-- Carl
+- Carl S.
 - [Sergio Escalante](https://github.com/sergioesca6)
 -Mujahid Bappai(https://github.com/mujeex)
 - Joe
