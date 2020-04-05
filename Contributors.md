@@ -20962,3 +20962,4 @@ Marcos Concon
 - [James Potts](https://github.com/jjpiv)
 - [LoserAlwaysMe](https://github.com/LoserAlwaysMe)
 - [Damian Hennek](https://github.com/heniu1985)
+- [Aarav Akali](https://github.com/sirwatsalot)
