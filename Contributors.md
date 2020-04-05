@@ -22,6 +22,7 @@
 - Rohit Lambora
 - [Macky Ben Jonah](https://github.com/Mackyboy12/)
 - Talhah Patelia
+- Jana Jarolimova
 - viz
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
