@@ -411,6 +411,7 @@ Ahrman
 - Christian De La Torre(https://github.com/cleeksdlt)
 - Nicklas Rouvinen(https://github.com/nickrou)
 - Bill E
+- [Chris Norton](https://github.com/thatoneguy43)
 - Ruben80 (https://github.com/Ruben80)
 - Karl Bast
 - akshay naidu
