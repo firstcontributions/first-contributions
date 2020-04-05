@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# पहिलो योगदान
+# [<img  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) पहिलो योगदान
 यो कठिन छ। पहिलो पल्ट केहि गर्दा सधै कठिन हुन्छ। बिशेष गरि जब तपाई योगदान गर्दै हुनुहुन्छ,गल्ति हुनु सहज कुरा हैन। हामी नया खुला स्रोत योगदानकर्ताले सिक्ने र योगदान गर्ने तरिका लाई सहज बनाउन चहन्थियेउम।
 
 लेखहरू पढ्न र ट्यूटोरियलहरू हेर्न मद्दत गर्न सक्दछ, तर वास्तवमा एक अभ्यास वातावरणमा गरेर हेर्दा भन्दा के असल होला र। यो परियोजनाले निर्देशन प्रदान गर्न र शुरुआती शुरुवातहरूलाई उनीहरूको पहिलो योगदान प्रदान गर्ने तरिका सरल बनाउँदछ। यदि तपाईं आफ्नो पहिलो योगदान बनाउन खोज्दै हुनुहुन्छ भने तलको चरणहरू पालना गर्नुहोस्।
@@ -113,7 +113,6 @@ git push origin <शाखाको-नाम>
 
 ## ट्यूटोरियलहरू अन्य उपकरणहरू प्रयोग गर्दै
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
-
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
+|---|---|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|

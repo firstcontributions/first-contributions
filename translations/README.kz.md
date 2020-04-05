@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# Жобаға алғашқы үлес қосу
+# [<img  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Жобаға алғашқы үлес қосу
 
 Бұл қиын. Бірдеңе істегенде бірінші кезекте әрқашан қиын. Қателіктер жасау өте жағымсыз, әсіресе командада жұмыс істесеңіз. Барлық open source проекттер ынтымақтастық пен бірегей жұмыстан тұрады. Біз бастаушы әзірлеушілер үшін оқыту мен бірлесіп жұмыс істеудегі алғашқы қадамдарды жеңілдеткіміз келеді.
 

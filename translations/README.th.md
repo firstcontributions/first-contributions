@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# "Contribute" ผลงานใน GitHub กับผู้อื่นเป็นครั้งแรกใช่ไหม?
+# [<img  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io) Contribute" ผลงานใน GitHub กับผู้อื่นเป็นครั้งแรกใช่ไหม?
 
 มันเป็นเรื่องยาก, ครั้งแรกของทุกอย่างมันมักจะยากเสมอแหละ โดยเฉพาะการทำงานร่วมกับผู้อื่น เมื่อเราทำอะไรผิดพลาดเรามักจะรู้สึกไม่สบายใจ แต่โอเพนซอร์ส (open source) คือโลกของการทำงานร่วมกัน ! เราจึงอยากให้ผู้ที่เข้ามาใหม่ได้เรียนรู้วิธีการ "คอนทริบิ้วต์" ผลงานร่วมกับผู้อื่นใน GitHub แบบง่าย ๆ
 

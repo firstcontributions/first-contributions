@@ -2,7 +2,7 @@
 <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love"></a><a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a><a href="https://www.codetriage.com/roshanjossey/first-contributions" rel="nofollow"><img src="https://camo.githubusercontent.com/8e53aecabdd0316ce198fe932798bb0f8754b30f/68747470733a2f2f7777772e636f64657472696167652e636f6d2f726f7368616e6a6f737365792f66697273742d636f6e747269627574696f6e732f6261646765732f75736572732e737667" alt="Open Source Helpers"></a><a href="https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM"><img align="left" width="150" src="../assets/join-slack-team.png"></a>
 </div>
 
-# <div dir="rtl"> پہلی شراکت </div>
+# <div dir="rtl"> پہلی شراکت[<img  width="50" src="../assets/readme-icon.png">](https://firstcontributions.github.io)  </div>
 
 <div dir="rtl">
 یہ مشکل ہے. پہلی بار جب آپ کچھ کرتے ہو تو وہ ہمیشہ مشکل لگتا ہے. خاص طور پر جب آپ تعاون کر رہے ہیں، غلطیاں کرنا کوئ پرسکون چیز نہیں ہے. لیکن اوپن سورس مکمل طورپر تعاون اور مل جل کر کام کرنے کا نام ہے. ہم چاہتے ہیں کہ نئے اوپن سورس کے معاونین اسےآسانی سے سیکھیں اور پہلی بار اس میں شرکت کریں.
@@ -124,9 +124,9 @@ git push origin <add-your-name>
 ## <div dir="rtl"> دوسرے ٹولز کو استعمال کرتے ہوئے سبق۔   </div>
 
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://camo.githubusercontent.com/90c576dade3a169088f993aebe41242a9c2f064d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63642f56697375616c5f53747564696f5f323031375f4c6f676f2e737667" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
+|---|---|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
 
 ## <div dir="rtl"> یہاں سے کہاں جایا جائے؟ </div>
 
