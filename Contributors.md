@@ -20947,3 +20947,4 @@ Marcos Concon
 - [Edith Yi](https://github.com/evileleven)
 - [Alan Yeung](https://github.com/yeungalan0)
 - [Daniel Lelonu](https://github.com/Flemel1)
+- [Danilo Brandolin](https://github.com/Dan2908)
