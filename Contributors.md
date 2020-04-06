@@ -27,6 +27,7 @@
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
+- Caleb Mitchell (https://github.com/Calebj20)
 - Maese Burgui
 - viz
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
