@@ -80,6 +80,7 @@
 - ctripp1
 - Aryan Maurya
 - [China](corona-virus@world.in)
+- [Sevan Badal](https://stackoverflow.com/users/12407970/sevan-golnazarian?tab=profile)
 - Captain Robert
 - Gauri Bhardwaj
 - Ela Zaman
