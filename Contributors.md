@@ -16,6 +16,7 @@
 - ZemaBlue
 - AkchhayAlok
 -Zamey
+-Tatiana Nsei
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Theodor Dimitriadis (https://github.com/theodimi404)
 - Savvas Filippidis (https://github.com/SavFil)
