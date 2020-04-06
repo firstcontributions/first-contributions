@@ -18590,6 +18590,7 @@ macdara-dev
 - [Juxley](https://github.com/juxley)
 - [Yashaswi Yogeshwara](https://github.com/yashaswiyogeshwara)
 - [autumnlee](https://github.com/gaeulautumn)
+- [eon0140](https://github.com/eon0140)
 - [David Yu](https://github.com/davidoffyuy)
 - ajupazhamayil
 - [Gabriel Tremblay](https://github.com/Tremblay2112)
