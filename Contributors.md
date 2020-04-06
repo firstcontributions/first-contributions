@@ -14,6 +14,7 @@
 - PH Saurav (https://github.com/phsaurav)
 - ZemaBlue
 - AkchhayAlok
+-Zamey
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Theodor Dimitriadis (https://github.com/theodimi404)
 - Savvas Filippidis (https://github.com/SavFil)
