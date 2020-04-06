@@ -11469,6 +11469,7 @@ Aman Panjwani
 - [Wade Hammes](https://github.com/wadehammes)
 - [Jyri Vaha-Pietila](https://github.com/jjjyrki)
 - [Elizabeth Fuller](https://github.com/epfuller1000)
+- [Sasikumar Sugumar]
 - [Susan Brooks](https://github.com/getjnxed)
 - [Santanaraj Esguerra](https://github.com/akiyamamio16)
 - [Michael Martin](https://github.com/mmartin1123)
