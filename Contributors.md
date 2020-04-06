@@ -13,6 +13,7 @@
 - [Fabian Muema](https://github.com/fabianmuema)
 - PH Saurav (https://github.com/phsaurav)
 - ZemaBlue
+- AkchhayAlok
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Theodor Dimitriadis (https://github.com/theodimi404)
 - Savvas Filippidis (https://github.com/SavFil)
