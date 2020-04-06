@@ -15730,6 +15730,7 @@ macdara-dev
 - [Rishabh Ravindra](https://github.com/rishabhravindra)
 - [Ravi Bharadwaj](https://github.com/Ravi-0809)
 - [Hans Gunnoo](https://github.com/Albert-Hanstein)
+- [Matteo Golin](https://github.com/linguini1)
 - [Matthew Chen](https://github.com/mattc30)
 - [Unnati Pulla](https://github.com/UnnatiPulla)
 - [Simon Pearson](https://github.com/simon-pearson)
