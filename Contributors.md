@@ -1,4 +1,5 @@
 # Contributors
+- Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
