@@ -3340,6 +3340,7 @@ Kebana Modise
 - [Katie Blacketor](https://github.com/blackeka)
 - [Damian Szczepanski](https://github.com/DamianS6)
 - [Hoang-Bao-Duy NGUYEN](https://github.com/nhbduy)
+- [Akash-Gujju](https://github.com/akashgujju)
 - [Baris Mar Aziz](https://github.com/barismar)
 - [Aman Chaudhary](https://github.com/agcy1210)
 - [Kan Dang](https://github.com/kandaaang)
