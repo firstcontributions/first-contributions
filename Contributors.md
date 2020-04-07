@@ -31,7 +31,8 @@
 - Jana Jarolimova
 - benhill
 - Caleb Mitchell (https://github.com/Calebj20)
-- Maese Burgui
+- Maese Burgui\
+- Ryan Turner (https://github.com/too-far)
 - viz
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
