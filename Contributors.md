@@ -32,6 +32,7 @@
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
+- vraj9845
 - Caleb Mitchell (https://github.com/Calebj20)
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
