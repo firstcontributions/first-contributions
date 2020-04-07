@@ -57,9 +57,6 @@ Si no tienes git en tu equipo, aquí las instrucciones para instalarlo en el [en
 
 ## Dale Fork al repositorio
 
-Fork this repo by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
 Dale "fork" a este repositorio dando click en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
 
