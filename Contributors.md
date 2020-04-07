@@ -9,6 +9,7 @@
 - David Movsesyan (https://github.com/coldSeattle)
 - Ryan McCall (https://github.com/RyanMcCall)
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
+- Gage Eide (https://github.com/gage117)
 - Omer Mujtaba (https://github.com/omermujtaba18)
 - Linda Woo (https://github.com/lindakwoo)
 - Oba Api
