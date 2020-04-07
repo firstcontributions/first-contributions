@@ -132,6 +132,7 @@
 - Ahmed Zaghrat
 - Pawan Wadhwani
 - Saumya Gandhi
+- [Yanny Thompson] (https://github.com/yanco9a)
 - Sachin Hegde
 - Nana Kwame (<https://github.com/Kwame007)>
 - čingimingi
