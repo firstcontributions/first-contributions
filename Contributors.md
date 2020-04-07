@@ -8623,6 +8623,7 @@ Aman Panjwani
 - [Kevin Yu](https://github.com/kevinyu210)
 - [Akshay Krishna Upendran](https://github.com/mmikaeleriksson)
 - Dhanish Ashraf
+- Alex McGraw (https://github.com/JAlexMcGraw/first-contributions.git)
 - Courtney Arnold
 - [AJ Jordan](https://github.com/enigmatic-agent-scully)
 - Jon Robinson
