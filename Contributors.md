@@ -16,6 +16,7 @@
 - [Fabian Muema](https://github.com/fabianmuema)
 - PH Saurav (https://github.com/phsaurav)
 - ZemaBlue
+- Chris Noone
 - AkchhayAlok
 -Zamey
 - TomoSakura
