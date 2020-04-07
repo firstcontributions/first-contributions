@@ -34,6 +34,7 @@ vsp0
 - Jana Jarolimova
 - benhill
 - vraj9845
+- hicham maaqoul (https://github.com/maaqoul)
 - Caleb Mitchell (https://github.com/Calebj20)
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
