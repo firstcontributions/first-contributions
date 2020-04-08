@@ -1,9 +1,11 @@
-# Contributors
+﻿# Contributors
+- Skyula (https://github.com/Skyula)
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
 - Dracula Tepes
+- [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
@@ -50,6 +52,7 @@ vsp0
 - Larry San Nicolas
 - Sarthak Bhat
 - Shipra Khattri
+-Jonas Artmeier (https://github.com/JonasArtmeier)
 - Akash gupta
 - Vaibhav Sachan(Butowskii)
 - Marta Pinol
@@ -74,6 +77,7 @@ vsp0
 - Christina Schweipert (https://github.com/cschweipert)
 - [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
+- Marcus Bell
 - REEEEEEEEEEEEE
 - [Harshit Varma](https://github.com/hrshtv)
 -Harshu
@@ -570,6 +574,7 @@ Derek Leach
 - Mikhail Beresnev (https://github.com/Mikhail-Beresnev)
 - Seuymour utts
 - Shivam Gupta
+- Kishan Kumar Gupta (https://github.com/kishankg)
 - Charles Witherspoon (https://github.com/charles-witherspoon)
 - Ana Wowcsuk
 - [Jeremy Shaw](https://github.com/jeremyshaw)
@@ -19677,6 +19682,7 @@ Mário Baltazar
 - [Mairon DaSilva](https://github.com/MaironD)
 - [Azmain Adel](https://github.com/azmainadel)
 - [Itay Gershman](https://github.com/ItayGershman)
+- [Rakibuzzaman Rahat](https://github.com/sleipnir029)
 - [yiyalo](https://github.com/yiyalo)
 - [Sarah AlMutairi](https://github.com/sara13js)
 - [EDWIN BONI OIGO](https://github.com/oigoedwin)
@@ -21007,3 +21013,6 @@ Marcos Concon
 - [harrisrl2023](https://github.com/harrisrl2023)
 - [Ariel R.R.M.](https://github.com/ari-os310)
 - [Jas B](https://github.com/jbertovic)
+- Van Helsing
+- [Sangminnn][https://github.com/sangminnn]
+- Kritika Gupta
