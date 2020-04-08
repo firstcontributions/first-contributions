@@ -4,6 +4,7 @@
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
 - Dracula Tepes
+- [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
