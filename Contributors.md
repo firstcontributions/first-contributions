@@ -370,6 +370,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Pearl Takang
 - Will Parker
 - Victor Llanir
+- [Ameen Jalali](https://github.com/AmeenJalali)
 - Gad Horovitz
 - Lucas Treuke
 - Arto Halonen [https://github.com/Haloft]
@@ -8279,6 +8280,7 @@ Aman Panjwani
 - [Raxalon](https://github.com/raxalon)
 - [Tyrone Damasceno](https://github.com/tyronedamasceno)
 - [Kevin Gasca](https://github.com/GascaK)
+- [Ameen](https://stackoverflow.com/users/13084168/ameen)
 - [Mahmoud Anwar](https://github.com/mamoanwar)
 - [Egor Gorunovich](https://github.com/titanolodon)
 - [Egor Pishchalnikov](https://github.com/tjbulick)
