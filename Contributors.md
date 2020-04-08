@@ -75,6 +75,7 @@ vsp0
 - Christina Schweipert (https://github.com/cschweipert)
 - [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
+- Marcus Bell
 - REEEEEEEEEEEEE
 - [Harshit Varma](https://github.com/hrshtv)
 -Harshu
