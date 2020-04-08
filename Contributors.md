@@ -15846,6 +15846,7 @@ macdara-dev
 - [Jaime Arteaga](https://github.com/jandres742/)
 - [Nicholas Rogers](https://github.com/TheirOwn)
 - [Francisca Matamala](https://github.com/Jamonzito)
+- Aris Plexidas
 - [Ozge Demir](https://github.com/ozge-demir)
 - [Will Cutler](https://github.com/dantraboy)
 - [sladewinter](https://github.com/sladewinter)
