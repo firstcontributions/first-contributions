@@ -52,6 +52,7 @@ vsp0
 - Larry San Nicolas
 - Sarthak Bhat
 - Shipra Khattri
+-Jonas Artmeier (https://github.com/JonasArtmeier)
 - Akash gupta
 - Vaibhav Sachan(Butowskii)
 - Marta Pinol
