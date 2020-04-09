@@ -507,6 +507,7 @@ Ahrman
 - Kyle
 - Akintan Lape (https://github.com/lape15)
 - Hank Liu (https://github.com/junxingliu)
+- [David Hsiao](https://github.com/dhsiao510) 
 - [Aditya Singh](https://github.com/Aditya1001001) 
 -Mike
 -Angshuman Bhowmik(https://github.com/Angshuman032001)
