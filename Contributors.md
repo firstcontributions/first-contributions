@@ -1877,6 +1877,7 @@ Joseph Tran
 - [Keecheril Jobin](https://github.com/Keecheril-Jobin)
 - [Parth Gupta](https://github.com/parthgpta)
 - [Sagar Yadav](https://github.com/itsnotsagar)
+- [stephanie Nkwatoh].(https://github.com/steph237)
 - [Chris Curl](https://github.com/ChrisCurl)
 - [Divyam Goyal](https://github.com/idivyamgoyal)
 - [Smit Mangukiya](https://github.com/SmitMangukiya)
@@ -2667,6 +2668,7 @@ notForProffitt
 - [Dhanush-05](https://github.com/Dhanush-05)
 - [wwintermute](https://github.com/wwintermute)
 - [ykhade](https://github.com/ykhade)
+- [Stephanie Nkwatoh](https://github.com/steph237)
 - [purkie]
 - [cricri777](https://github.com/cricri777)
 - [Pablo WBK](https://github.com/pablowbk)
