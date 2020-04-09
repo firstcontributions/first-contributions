@@ -32,6 +32,7 @@ vsp0
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
 - [Macky Ben Jonah](https://github.com/Mackyboy12/)
+mohit singh
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
