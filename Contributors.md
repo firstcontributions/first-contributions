@@ -19193,6 +19193,7 @@ macdara-dev
 - [Juan Belieni](https://github.com/juanbelieni)
 - [Louis Michael](https://github.com/Louis-Michael)
 - [Hagai Sh]()
+- [Chelsea] (https://github.com/dev-tang)
 - [Sokratis Kouimtzidis](https://github.com/sokratix)
 - [doesnotcompute420](https://github.com/doesnotcompute420)
 - [Jose Ramon Martinez](https://github.com/JRamonMC)
