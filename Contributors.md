@@ -17,6 +17,7 @@
 - Oba Api
 - [Fabian Muema](https://github.com/fabianmuema)
 - PH Saurav (https://github.com/phsaurav)
+- Minhajul Alam (https://github.com/minhajulalamcse)
 vsp0
 - ZemaBlue
 - Chris Noone
