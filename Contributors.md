@@ -194,6 +194,7 @@ mohit singh
 - Saurav Baid ( github.com/SauravBaid)
 -Nicole Perey
 -Jesus Gil
+- [Jess Chapman] (https://github.com/jessdoesjavascript)
 - Robbie Murray (hhtps://github.com/RobbieMurray)
 - Björn Persson
 -Jawad-nafad
