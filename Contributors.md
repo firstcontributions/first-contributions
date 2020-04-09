@@ -21,10 +21,10 @@ vsp0
 - ZemaBlue
 - Chris Noone
 - AkchhayAlok
--Zamey
+- Zamey
 - swrdmstr
 - TomoSakura
--Tatiana Nsei
+- Tatiana Nsei
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Praveen Kumar(https://github.com/alphapk/)
 - Theodor Dimitriadis (https://github.com/theodimi404)
@@ -54,7 +54,7 @@ vsp0
 - Larry San Nicolas
 - Sarthak Bhat
 - Shipra Khattri
--Jonas Artmeier (https://github.com/JonasArtmeier)
+- Jonas Artmeier (https://github.com/JonasArtmeier)
 - Akash gupta
 - Vaibhav Sachan(Butowskii)
 - Marta Pinol
@@ -83,10 +83,10 @@ vsp0
 - Marcus Bell
 - REEEEEEEEEEEEE
 - [Harshit Varma](https://github.com/hrshtv)
--Harshu
+- Harshu
 - Colin Nelson
 - [Moises Miguel](https://github.com/moimigueldev) 
--Praveenkumar
+- Praveenkumar
 - Kevin Stensson
 - Helen Lants
 - [hemant-1332](https://github.com/hemant-1332)
@@ -94,7 +94,7 @@ vsp0
 - deconixmj
 - Madeline Milagros
 - jagadeeshc1
--Daler
+- Daler
 - ctripp1
 - Aryan Maurya
 - [China](corona-virus@world.in)
