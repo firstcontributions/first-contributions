@@ -25,6 +25,7 @@
 - Jana Jarolimova
 - benhill
 - viz
+- Saka Ricky
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
