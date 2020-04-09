@@ -4,6 +4,7 @@
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
+- [Mehmet Can Demir](https://github.com/mcandemir)
 - Dracula Tepes
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
