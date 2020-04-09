@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Skyula (https://github.com/Skyula)
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
@@ -50,6 +50,7 @@ vsp0
 - [Victor Vazquez](https://github.com/VictorVazquezRey)
 - Olivier Sonrel
 - Larry San Nicolas
+- Emmie Ohnuki
 - Sarthak Bhat
 - Shipra Khattri
 -Jonas Artmeier (https://github.com/JonasArtmeier)
