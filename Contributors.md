@@ -115,6 +115,7 @@ vsp0
 - Jess
 - Nadim Rubeiz
 - Pavan Sabnis
+- Rom Ber
 - Anirudh G (https://github.com/anirudh-g99)
 - Daniel
 - DSHP
