@@ -382,6 +382,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Furkan Mutlu (https://github.com/furkanmutlu)
 - Spintec (https://github.com/Spintec)
 -- Marcio Molina Morassutti (https://github.com/Marcio-MM)
+- Abdallah Daknache (https://github.com/abdallahdak7)
 - Haruka Taro
 - Arthyvelli
 - Pearl Takang
