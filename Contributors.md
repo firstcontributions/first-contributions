@@ -42,6 +42,7 @@ vsp0
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
 - viz
+- Saka Ricky
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
