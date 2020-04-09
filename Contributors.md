@@ -10,6 +10,7 @@
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
 - David Movsesyan (https://github.com/coldSeattle)
+- Vishal Kalaskar
 - Ryan McCall (https://github.com/RyanMcCall)
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Gage Eide (https://github.com/gage117)
