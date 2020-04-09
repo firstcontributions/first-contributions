@@ -13639,6 +13639,7 @@ macdara-dev
 - [Danh Nguyen](https://github.com/NguyenDa18)
 - [Rahul S Varma](https://github.com/Raul9595)
 - [Gary Dawson Smith](https://github.com/garydawsonsmith)
+- [John Mendes](https://github.com/jhmendes)
 - [Aman Sidhant](https://github.com/amansidhant)
 - [Ade](https://github.com/adelina1985a/)
 - [Luke Wahlmeier](https://github.com/lukehw)
