@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Sid
 - Skyula (https://github.com/Skyula)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
@@ -186,6 +186,7 @@ mohit singh
 - [Phat Marc] (https://github.com/phat-marc)
 - Hridayesh Sham Pawar
 - Kipling Liu
+- [Jennifer Cho](https://github.com/jenniferwcho)
 - Rehan Ayub
 - Albedith Golovnya
 - [PaKo](https://github.com/pako8128)
