@@ -120,6 +120,7 @@ mohit singh
 - Aamna Ozair
 - Rohit Chugh
 - Gurdeep Singh
+- Evan Tang
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - [Jose Urbina](https://github.com/jurbinan)
 - Tanvi Deshpande
