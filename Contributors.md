@@ -47,6 +47,7 @@ mohit singh
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
 - viz
+- subhadeep chatterjee
 - Saka Ricky
 - victore
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
