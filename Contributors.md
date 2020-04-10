@@ -41,6 +41,7 @@ mohit singh
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
+- [Kunal Kundu](https://github.com/tinfoil-knight)
 - vraj9845
 - hicham maaqoul (https://github.com/maaqoul)
 - Caleb Mitchell (https://github.com/Calebj20)
