@@ -119,6 +119,7 @@ mohit singh
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - [Jose Urbina](https://github.com/jurbinan)
 - Tanvi Deshpande
+- Siddharth Sharma
 - Gubba Jaydeep (https://github.com/Gubba-Jaydeep)
 - Jerry Jxu
 - sarthak bhardwaj (https://github.com/1sarthakbhardwaj)
