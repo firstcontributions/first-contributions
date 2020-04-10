@@ -7,6 +7,7 @@
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
 - [Mehmet Can Demir](https://github.com/mcandemir)
+- Akash V
 - Dracula Tepes
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
