@@ -1,6 +1,7 @@
 # Contributors
 - Sid
 - Skyula (https://github.com/Skyula)
+- [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
