@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Skyula (https://github.com/Skyula)
+- [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
