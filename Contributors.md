@@ -131,6 +131,7 @@ mohit singh
 - DSHP
 - Maha
 - Gerry F
+- Piyush Malpure (https://github.com/PiyushMalpure)
 - Shibani Mahapatra
 - [Anand P](https://github.com/anandp033)
 - [Ibukunoluwa Esan](https://github.com/d-inquisitor)
