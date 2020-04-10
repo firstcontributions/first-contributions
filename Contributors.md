@@ -1,4 +1,5 @@
 ﻿# Contributors
+- Sid
 - Skyula (https://github.com/Skyula)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
