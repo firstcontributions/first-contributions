@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
@@ -20993,6 +20993,7 @@ Marcos Concon
 - [Edith Yi](https://github.com/evileleven)
 - [revolution beta] (https://github.com/Roey-coding)
 - [Alan Yeung](https://github.com/yeungalan0)
+- Shiwoh Betty.
 - [Daniel Lelonu](https://github.com/Flemel1)
 - [Danilo Brandolin](https://github.com/Dan2908)
 - [James Potts](https://github.com/jjpiv)
