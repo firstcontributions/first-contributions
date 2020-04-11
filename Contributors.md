@@ -57,6 +57,7 @@ mohit singh
 - subhadeep chatterjee
 - Saka Ricky
 - victore
+-german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
