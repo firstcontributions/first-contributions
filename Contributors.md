@@ -1201,6 +1201,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - Nicholas Kelly
 - [Nico Tanne](https://github.com/El0quenz)
 - Juan Perez
+- [Luis Victoria](https://github.com/LV)
 - [Harry Harrison](https://github.com/HarryH-Tech)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [Naomi Bonnin] (https://github.com/naomi172839)
