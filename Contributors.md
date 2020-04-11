@@ -251,6 +251,7 @@ mohit singh
 -Vasudev Harshal.
 - Chandrashekhar Choudhary
 - Prasanth Varada (https://github.com/prasanthvarada)
+- [Patrick Weber](https://github.com/web-pat)
 - Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
 - Hugh Shanno (http://github.com/HughShanno)
