@@ -28,6 +28,7 @@
 - Minhajul Alam (https://github.com/minhajulalamcse)
 vsp0
 - ZemaBlue
+- John Mack
 - Chris Noone
 - AkchhayAlok
 -Zamey
