@@ -44,7 +44,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇽](translations/README.mx.md "Mexico")
 [🇲🇾](translations/README.my.md "Bahasa Melayu / بهاس ملايو‎ / Malay")
 [🇳🇱](translations/README.nl.md "Nederlands")
-[🇳🇬](translations/README.igb.md "Igbo - Nigeria")
+[🇳🇬](translations/README.igb.md "Igbo (Nigeria)")
 [🇳🇴](translations/README.no.md "Norsk")
 [🇳🇵](translations/README.np.md "नेपाली")
 [🇵🇭](translations/README.tl.md "Wikang Filipino")
