@@ -1,13 +1,17 @@
-# Contributors
+﻿# Contributors
 - Sid
 - Skyula (https://github.com/Skyula)
+- [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
+- [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
 - Guilherme Baufaker (https://github.com/baufaker)
 - Mostafa Anter(https://github.com/MostafaAnter)
 - [Mehmet Can Demir](https://github.com/mcandemir)
+- [Dweep Panchal](https://github.com/dweep612)
 - Akash V
+- [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
@@ -26,6 +30,7 @@
 vsp0
 - ZemaBlue
 -yatharth agarwal
+- John Mack
 - Chris Noone
 - AkchhayAlok
 -Zamey
@@ -54,6 +59,7 @@ mohit singh
 - subhadeep chatterjee
 - Saka Ricky
 - victore
+-german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
@@ -172,6 +178,7 @@ mohit singh
 - Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
 - Akshatha H
+- Azeez T
 - raleighsmvp
 - postulatas
 - tqlloki
@@ -249,6 +256,7 @@ mohit singh
 -Vasudev Harshal.
 - Chandrashekhar Choudhary
 - Prasanth Varada (https://github.com/prasanthvarada)
+- [Patrick Weber](https://github.com/web-pat)
 - Mateusz Kocik (https://github.com/matkot11)
 - Gaven Martung (https://github.com/GavenMartung)
 - Hugh Shanno (http://github.com/HughShanno)
@@ -275,6 +283,7 @@ mohit singh
 -Harshal Sharma
 - Semuca
 - Krish
+- developer-97
 - Meir till when march 17
 - [Bernie Abraham](https://github.com/bernieabraham)
 - Kevin M (https://github.com/kmckigney)
@@ -1199,6 +1208,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - Nicholas Kelly
 - [Nico Tanne](https://github.com/El0quenz)
 - Juan Perez
+- [Luis Victoria](https://github.com/LV)
 - [Harry Harrison](https://github.com/HarryH-Tech)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [Naomi Bonnin] (https://github.com/naomi172839)
@@ -20799,6 +20809,7 @@ rehan
 - [treefortmaniac](https://github.com/Maniac7)
 - [jconnpow](https://github.com/jconnpow)
 - [Kalin]
+- [Gareth Bale]
 - [Nel Milenkovic](https://github.com/NemanjaMilenkovic)
 - [Sarah Ting](https://github.com/sarahjting)
 - [dave](https://github.com/davidh38)
@@ -21055,3 +21066,5 @@ Marcos Concon
 * Ben Li (2020 April 8th) *
 - [Stefan Hornet](https://github.com/shornet)
 -[Akarsh S Shetty](https://github.com/akarsh77)
+- asd
+- [Hugo Feijó](https://github.com/hugo-feijo)
