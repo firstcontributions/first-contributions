@@ -16,6 +16,7 @@
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
+- [Fran Extremera](https://github.com/franexmo81)
 - David Movsesyan (https://github.com/coldSeattle)
 - Vishal Kalaskar
 - Ryan McCall (https://github.com/RyanMcCall)
