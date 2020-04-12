@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Sid
 - Skyula (https://github.com/Skyula)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
@@ -21069,3 +21069,4 @@ Marcos Concon
 - [Hugo Feijó](https://github.com/hugo-feijo)
 - [Evan Sciancalepore] (https://github.com/evanscianc)
 - [Camilo Hernández] (https://github.com/camiloahm)
+- [Sumukh Ballal] (https://github.com/sumukhballal)
