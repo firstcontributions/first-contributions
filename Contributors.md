@@ -11,6 +11,7 @@
 - Mostafa Anter(https://github.com/MostafaAnter)
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - [Dweep Panchal](https://github.com/dweep612)
+- [Leeo](https://github.com/M1zz)
 - Akash V
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
