@@ -72,6 +72,7 @@ mohit singh
 - Shipra Khattri
 -Jonas Artmeier (https://github.com/JonasArtmeier)
 - Akash gupta
+- [Sagar Mamdapure](https://github.com/sagarmamdapure)
 - Vaibhav Sachan(Butowskii)
 - Marta Pinol
 - Timothy Pham (https://github.com/tpham2580)
