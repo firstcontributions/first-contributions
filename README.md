@@ -65,7 +65,6 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇿🇦](translations/README.zul.md "Zulu (South Africa)")
 [🇿🇦](translations/README.afk.md "Afrikaans (South Africa)")
 [🇰🇪](translations/README.kws.md "Kiswahili (Kenya)")
-[🇳🇬](translations/README.igb.md [Igbo (Nigeria)])
 [🇱🇻](translations/README.lv.md)
 [GUJ](translations/README.guj.md "ગુજરાતી")
 
