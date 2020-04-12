@@ -177,6 +177,7 @@ mohit singh
 - Siddarth Venkateswaran (https://github.com/sidvenkat1988)
 - Joaquín M2
 - Akshatha H
+- Azeez T
 - raleighsmvp
 - postulatas
 - tqlloki
