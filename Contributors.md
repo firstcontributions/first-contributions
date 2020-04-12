@@ -21079,3 +21079,4 @@ rehan
 - [Omid Hojabri] (https://github.com/hojabri/)
 - [Tom McCarthy] (https://github.com/tmpmccarthy1)
 - [Christian Dresler] (https://github.com/cbdp)
+- [Florian Béclin] (https://github.com/fbeclin)
