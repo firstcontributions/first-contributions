@@ -1,6 +1,7 @@
 # Contributors
 - Sid
 - Skyula (https://github.com/Skyula)
+- Yosi A (https://github.com/echoen99)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
