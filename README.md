@@ -41,7 +41,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇩 🇷🇴](translations/README.ro.md "Limba Română")
 [🇲🇲](translations/README.mm_unicode.md "မြန်မာ")
 [🇲🇰](translations/README.mk.md "Македонски")
-[🇲🇽](translations/README.mx.md "Mexico")
+[🇲🇽](translations/README.mx.md "México")
 [🇲🇾](translations/README.my.md "Bahasa Melayu / بهاس ملايو‎ / Malay")
 [🇳🇱](translations/README.nl.md "Nederlands")
 [🇳🇬](translations/README.igb.md "Igbo (Nigeria)")
