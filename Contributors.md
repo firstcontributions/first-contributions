@@ -7,6 +7,7 @@
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
 - Wanielton Ferreira (https://github.com/FMKani)
+- [Davide Bellone](https://github.com/bellons91)
 - Guilherme Baufaker (https://github.com/baufaker)
 - [Cengiz Ucar] (https://github.com/ccengizucar)
 - Mostafa Anter(https://github.com/MostafaAnter)
