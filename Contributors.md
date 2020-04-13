@@ -16886,6 +16886,7 @@ macdara-dev
 - [JustBSka](https://github.com/JustBSka)
 - [gdim7](https://github.com/gdim7)
 - [Tomas K](https://github.com/tomaskul/)
+- [Jack Tuohy](https://github.com/jack-tuohy)
 - [StefanDu](https://github.com/StefanDu)
 - [Sebastien Bossoutrot](https://github.com/SebBossoutrot)
 - [Efraim Ramsen](https://github.com/efraimramsen)
