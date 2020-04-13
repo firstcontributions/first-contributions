@@ -91,6 +91,7 @@ mohit singh
 - Akshit Goyal (https://github.com/akshitgoyal1998)
 - Alberto R
 - Eric Wang
+- [Théo Dumont](https://github.com/theodumont)
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
