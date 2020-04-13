@@ -17,6 +17,7 @@
 - [Leeo](https://github.com/M1zz)
 - Akash V
 - o.f
+- Will F
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - [tempixtl](https://github.com/tempixtl)
