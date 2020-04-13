@@ -40,6 +40,7 @@ vsp0
 - AkchhayAlok
 -Zamey
 - TomoSakura
+- [Yorman](https://github.com/yorstick17)
 -Tatiana Nsei
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Praveen Kumar(https://github.com/alphapk/)
