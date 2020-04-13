@@ -134,6 +134,7 @@ mohit singh
 - Rohit Chugh
 - Gurdeep Singh
 - Evan Tang
+- Adithya Bhat P R
 - Inigo Garcia Bastida (https://github.com/inigogb)
 - [Jose Urbina](https://github.com/jurbinan)
 - Tanvi Deshpande
