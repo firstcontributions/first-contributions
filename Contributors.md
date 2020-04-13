@@ -21083,3 +21083,4 @@ rehan
 - [Christian Dresler] (https://github.com/cbdp)
 - [Florian Béclin] (https://github.com/fbeclin)
 - [Helen Glass] (https://github.com/GraffleFraff)
+- [Kushal Patel] (https://github.com/kushalgithub)
