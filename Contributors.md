@@ -1,5 +1,6 @@
 # Contributors
 - Sid
+- [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
