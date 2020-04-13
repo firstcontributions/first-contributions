@@ -15,6 +15,7 @@
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
 - Akash V
+- o.f
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - [tempixtl](https://github.com/tempixtl)
