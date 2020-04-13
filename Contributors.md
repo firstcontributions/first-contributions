@@ -98,6 +98,7 @@ mohit singh
 - [bradagy](https://github.com/bradagy)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Tobias Hellbusch](https://github.com/tobiashellbusch)
+- [Jaime Rodriguez] (https://github.com/JaimeVRodriguez)
 - [Sahib Saify](https://github.com/ssaify)
 - [Kenny D](https://github.com/ken-diep)
 - Shiva Saravanan
