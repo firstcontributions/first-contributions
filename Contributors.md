@@ -1333,6 +1333,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - [Cliff Roberson]
 - [Sharona Young](https://github.com/sharonay2015)
 - [Ahmad Kahla]
+- [DaveyPocket] (https://github.com/DaveyPocket)
 - [William Bratz](https://github.com/wbratz)
 - [Caleb Reyes] (https://github.com/Cakeday)
 - [Ankit Goyal](https://github.com/ankGoyal3)
