@@ -3,6 +3,7 @@
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
+- [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
