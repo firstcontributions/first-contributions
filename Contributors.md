@@ -23,6 +23,7 @@
 - David Movsesyan (https://github.com/coldSeattle)
 - Vishal Kalaskar
 - Ryan McCall (https://github.com/RyanMcCall)
+- Sarina Jami
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Gage Eide (https://github.com/gage117)
 - Omer Mujtaba (https://github.com/omermujtaba18)
