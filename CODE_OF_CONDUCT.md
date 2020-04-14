@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-
+# Lily Tan
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
