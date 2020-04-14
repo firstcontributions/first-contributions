@@ -331,6 +331,7 @@ mohit singh
 - [Hanan Mufti](https://github.com/h-ARTS)
 - MattHew Phraxayavong (https://github.com/PhraxayaM)
 - Sanchit Trivedi
+- Rajat Gupta 
 - Ryan Westcott (https://github.com/RywesTech)
 - Aida Krzalic (https://github.com/krzalica)
 - Kristin Tuisk
