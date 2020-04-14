@@ -880,6 +880,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - Joey Martin (http://github.com/joeymartin888)
 - Michael Fernez (https://github.com/mjfernez)
 - Sunit Wilson
+- [João Victor Ribeiro] (https://github.com/jvictorribeiro)
 - [Sehyeong Lee] (https://github.com/lsh23)
 - [Ezra Muskat] (https://github.com/ezramuskat)
 - [Damon Kasner] (https://github.com/DamonK19)
