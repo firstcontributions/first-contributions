@@ -20,7 +20,6 @@
 - Akash V
 - [Nightcrawler](https://github.com/nightcrawler-)
 - o.f
-- Seema Saharan(https://github.com/seema1711)
 - Will F
 - Sarah Rose 
 - [Lukesheep](https://github.com/lukesheep)
@@ -80,6 +79,7 @@ mohit singh
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
+- Seema Saharan (https://github.com/seema1711)
 - GyaaniGuy
 - Adam Pawtel
 - Humza Hasan
