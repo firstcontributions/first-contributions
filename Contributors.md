@@ -79,6 +79,7 @@ mohit singh
 - April Day (https://github.com/AprilDDay)
 - GyaaniGuy
 - Adam Pawtel
+- Humza Hasan
 - [reddtoric](https://github.com/reddtoric)
 - [Victor Vazquez](https://github.com/VictorVazquezRey)
 - Olivier Sonrel
