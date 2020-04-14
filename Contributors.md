@@ -21,6 +21,7 @@
 - [Nightcrawler](https://github.com/nightcrawler-)
 - o.f
 - Will F
+- [William Chan](https://github.com/willie3838)
 - Sarah Rose 
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
