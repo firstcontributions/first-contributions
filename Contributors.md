@@ -101,6 +101,7 @@ mohit singh
 - [Théo Dumont](https://github.com/theodumont)
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
+- [potopaz](https://github.com/potopaz)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
 - [bradagy](https://github.com/bradagy)
