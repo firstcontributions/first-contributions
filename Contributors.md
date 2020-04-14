@@ -21,6 +21,7 @@
 - [Nightcrawler](https://github.com/nightcrawler-)
 - o.f
 - Will F
+- Sarah Rose 
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
