@@ -79,7 +79,6 @@ mohit singh
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
-- Seema Saharan (https://github.com/seema1711)
 - GyaaniGuy
 - Adam Pawtel
 - Humza Hasan
@@ -107,6 +106,7 @@ mohit singh
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Tobias Hellbusch](https://github.com/tobiashellbusch)
 - [Jaime Rodriguez] (https://github.com/JaimeVRodriguez)
+- [Seema Saharan] (https://github.com/seema1711)
 - [Sahib Saify](https://github.com/ssaify)
 - [Kenny D](https://github.com/ken-diep)
 - Shiva Saravanan
