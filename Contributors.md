@@ -3,6 +3,7 @@
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
+- [Juan M Huerta](https://github.com/JuanMHuerta)
 - Christian Nell  (https://github.com/cnell7)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Ferus Wylde](https://github.com/ferus-wylde)
