@@ -4,6 +4,7 @@
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
 - Christian Nell  (https://github.com/cnell7)
+- [Hassan Raza] (https://github.com/HassanRazaMuhammadTufail)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
