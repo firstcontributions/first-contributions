@@ -1,4 +1,5 @@
 # Contributors
+- [Ethan Glover](https://github.com/eglove)
 - Sid
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
