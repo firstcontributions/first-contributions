@@ -52,6 +52,7 @@ Graham (https://github.com/thefullnelson)
 - Sili Wang (https://github.com/enigdata)
 - Minhajul Alam (https://github.com/minhajulalamcse)
 vsp0
+- Vadimskyi (https://github.com/eXiz7)
 - ZemaBlue
 - John Mack
 - Chris Noone
