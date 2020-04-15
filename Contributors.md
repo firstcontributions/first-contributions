@@ -6,6 +6,7 @@
 - [Juan M Huerta](https://github.com/JuanMHuerta)
 - Christian Nell  (https://github.com/cnell7)
 - My name is Slim Shady
+Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
