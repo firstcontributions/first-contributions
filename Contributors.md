@@ -19,6 +19,7 @@
 - [Leeo](https://github.com/M1zz)
 - Akash V
 - [Nightcrawler](https://github.com/nightcrawler-)
+- [Andres Rolon](https://github.com/Saintares97)
 - o.f
 - Will F
 - [William Chan](https://github.com/willie3838)
