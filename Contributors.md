@@ -21,6 +21,7 @@ Graham (https://github.com/thefullnelson)
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
 - Akash V
+- ZaneFlynt
 - [Nightcrawler](https://github.com/nightcrawler-)
 - [Andres Rolon](https://github.com/Saintares97)
 - o.f
