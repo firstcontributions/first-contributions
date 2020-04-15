@@ -29,6 +29,7 @@ Graham (https://github.com/thefullnelson)
 - Will F
 - [William Chan](https://github.com/willie3838)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
+- [Aristeidis Tomaras](https://github.com/saavedra29)
 - Sarah Rose 
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
