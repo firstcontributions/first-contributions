@@ -1,4 +1,5 @@
 # Contributors
+- [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
 - Sid
 - [Anna Carey] (https://github.com/annacarey)
