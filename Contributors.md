@@ -4580,6 +4580,7 @@ Noam Taub
 - Sajith Bandara
 - [James White](https://github.com/jamesw922)
 - Ankita Chowdhry
+- [Connor Orr](https://github.com/connororr)
 - Gandalf-the-Tartan
 - [Alex Puga](https://github.com/alpuga)
 - [AlexFreyr](https://github.com/AlexFreyr)
