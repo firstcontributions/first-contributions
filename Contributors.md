@@ -3,7 +3,10 @@
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
+- [Juan M Huerta](https://github.com/JuanMHuerta)
 - Christian Nell  (https://github.com/cnell7)
+- My name is Slim Shady
+Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
@@ -19,10 +22,14 @@
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
 - Akash V
+- ZaneFlynt
 - [Nightcrawler](https://github.com/nightcrawler-)
+- [Andres Rolon](https://github.com/Saintares97)
 - o.f
 - Will F
-- Sarah Rose
+- [William Chan](https://github.com/willie3838)
+- [Shams Kasozi](https://github.com/Shams-kasozi)
+- Sarah Rose 
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
@@ -101,12 +108,14 @@ mohit singh
 - [Théo Dumont](https://github.com/theodumont)
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
+- [potopaz](https://github.com/potopaz)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
 - [ACAYspace](https://github.com/ACAYspace)
 - [bradagy](https://github.com/bradagy)
 - [Sarah Dreischer](https://github.com/sarahdreischer)
 - [Tobias Hellbusch](https://github.com/tobiashellbusch)
 - [Jaime Rodriguez] (https://github.com/JaimeVRodriguez)
+- [Seema Saharan] (https://github.com/seema1711)
 - [Sahib Saify](https://github.com/ssaify)
 - [Kenny D](https://github.com/ken-diep)
 - Shiva Saravanan
@@ -4575,6 +4584,7 @@ Noam Taub
 - Sajith Bandara
 - [James White](https://github.com/jamesw922)
 - Ankita Chowdhry
+- [Connor Orr](https://github.com/connororr)
 - Gandalf-the-Tartan
 - [Alex Puga](https://github.com/alpuga)
 - [AlexFreyr](https://github.com/AlexFreyr)
@@ -8881,6 +8891,7 @@ Aman Panjwani
 - [Russell Goldman](https://github.com/russellgoldman)
 - [Basheer88](https://github.com/Basheer88)
 - [xyphan](https://github.com/xyphanajay)
+- [Sheng Ng] NTS
 - [Pranay Agarwal](https://github.com/pranayag)
 - [iamprayush](https://github.com/iamprayush)
 - [vuquocan](https://github.com/vuquocan1987)
@@ -9635,6 +9646,7 @@ Aman Panjwani
 - [Praxitelis Nikolaou](https://github.com/Praxitelis)
 - [Shubham Pampattiwar](https://github.com/shubhamself7)
 - alonzo church
+- Remya Kadekuzhi
 - [Ryan Uselmann](https://github.com/SiriusScaper) Git contributing refresher
 - [Karthik Iyer](https://github.com/kni6228)
 - [Ahmed Abdulkadir](https://github.com/ahmedabdulkdir)
@@ -21115,3 +21127,7 @@ rehan
 - [Brian] (https://github.com/deathlyface)
 - [Florian Förster] (https://github.com/florianjr)
 - [CYL](https://github.com/yardleyCao)
+- [James Joseph] (https://github.com/superghetti) 
+- [Morghan] (https://github.com/morghan)
+-[SWATI TRIPATHI](https://github.com/swati-gwc)
+- [RN2208](https://github.com/rn2208)
