@@ -7,6 +7,7 @@
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
 - [Juan M Huerta](https://github.com/JuanMHuerta)
+- [Hassan Raza](https://github.com/HassanRazaMuhammadTufail)
 - Christian Nell  (https://github.com/cnell7)
 - My name is Slim Shady
 Graham (https://github.com/thefullnelson)
