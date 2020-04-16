@@ -98,6 +98,7 @@ mohit singh
 - [Victor Vazquez](https://github.com/VictorVazquezRey)
 - Olivier Sonrel
 - Larry San Nicolas
+- [Utkarsh Rai] (https://github.com/utkarshrai2811)
 - Sarthak Bhat
 - Shipra Khattri
 -Jonas Artmeier (https://github.com/JonasArtmeier)
