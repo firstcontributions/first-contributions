@@ -9637,6 +9637,7 @@ Aman Panjwani
 - [Elaguy](https://github.com/elaguy)
 - [Javisth](https://github.com/javisth)
 - [Aquakor](https://github.com/Aquakor)
+- [Fabio Amorelli](https://github.com/fabioavf)
 - [Adam Benali](https://github.com/AdamBenali)
 - [Pamela Van Wyk](https://github.com/Squeakidy)
 - [Caleb Bolton](https://github.com/AstroBolt) Wubba Lubba Dub Dub!
