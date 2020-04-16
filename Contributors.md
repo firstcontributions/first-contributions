@@ -1021,6 +1021,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - [Amjad](https://github.com/amjad-salah)
 - Rachel Kadel
 - [Balaraman M](https://github.com/balaraman-08 "Balaraman's GitHub account")
+- [Ben Rombaut](https://github.com/brombaut)
 - [Alexander Kartalis](https://github.com/Over-Coded)
 - [Parinya Sanyai](https://github.com/parinya-s)
 - [Ivan Pangrazio] (https://github.com/ipangrazio)
