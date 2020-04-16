@@ -66,6 +66,7 @@ vsp0
 -Zamey
 - TomoSakura
 - [Yorman](https://github.com/yorstick17)
+- G.Nitish
 -Tatiana Nsei
 - Abhinav Pratik (https://github.com/pratikabhinav)
 - Praveen Kumar(https://github.com/alphapk/)
