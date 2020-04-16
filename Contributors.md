@@ -1995,6 +1995,7 @@ Joseph Tran
 - [Julian](https://github.com/wongjulian4213)
 - [Aman Pandey]
 - [Gilles Charlier](https://github.com/charliergi)
+- [Donny Ortiz]
 - [Mridul Agrawal]
   [Maike Fischer]
 - [Yash Jaiswal]
