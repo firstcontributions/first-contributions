@@ -39,6 +39,7 @@ Graham (https://github.com/thefullnelson)
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
+- [Rubén Lorenzo](https://github.com/rubenlorenzo)
 - [Fran Extremera](https://github.com/franexmo81)
 - David Movsesyan (https://github.com/coldSeattle)
 - Vishal Kalaskar
