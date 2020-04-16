@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [hyojun Kim](https://github.com/nandong1104)
 - [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
@@ -83,6 +83,7 @@ mohit singh
 - Caleb Mitchell (https://github.com/Calebj20)
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
+- Manav Gakhar (https://github.com/manavgakhar)
 - viz
 - subhadeep chatterjee
 - Saka Ricky
