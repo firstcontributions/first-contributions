@@ -1,6 +1,7 @@
 # Contributors
 - [Coding CEO](https://github.com/coding-CEO)
 - [hyojun Kim](https://github.com/nandong1104)
+- [Guy Shur](https://github.com/guyshur)
 - [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
 - Sid
