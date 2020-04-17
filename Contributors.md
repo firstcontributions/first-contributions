@@ -30,6 +30,7 @@ Graham (https://github.com/thefullnelson)
 - [Leeo](https://github.com/M1zz)
 - Akash V
 - ZaneFlynt
+- Sérgio Franco de Sá
 - [Alan451](https://github.com/Alan451)
 - [Nightcrawler](https://github.com/nightcrawler-)
 - [Andres Rolon](https://github.com/Saintares97)
