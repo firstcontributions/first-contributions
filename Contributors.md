@@ -67,6 +67,7 @@ vsp0
 - John Mack
 - Chris Noone
 - AkchhayAlok
+- Alex Walley
 -Zamey
 - TomoSakura
 - [Yorman](https://github.com/yorstick17)
