@@ -18,6 +18,7 @@ Graham (https://github.com/thefullnelson)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
+-Jaswant Singh (https://github.com/jassiG)
 - Wanielton Ferreira (https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
 - Guilherme Baufaker (https://github.com/baufaker)
