@@ -12359,6 +12359,7 @@ macdara-dev
 - [Ellen Cubbin](https://github.com/ellcub)
 - [Amanda Slavinsky](https://github.com/amandaslav)
 - [Danny Wagstaff](https://github.com/danny1000008)
+- [Lato](https://github.com/steriano)
 - [Agham Arta Bima](https://github.com/aghambla)
 - [Jonathan Burk](https://github.com/JMB2K)
 - [Robert Yuen](https://github.com/rhyuen)
