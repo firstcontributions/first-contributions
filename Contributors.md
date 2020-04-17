@@ -9425,6 +9425,7 @@ Aman Panjwani
 - [Emilio Alves Da Silva Junior](https://github.com/ejuniorasas)
 - [Jaquan Brown](https://github.com/JayLBrown/)
 - [Supreme Kai](https://github.com/Supreme-Kai/)
+- [Julian Valle](https://github.com/uncannyvalle/)
 - [Caz W](https://github.com/cazyw)
 - [landmn](https://github.com/landmn)
 - [Rossella Ferrandino](https://github.com/RossellaFer)
