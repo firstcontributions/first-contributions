@@ -117,7 +117,7 @@ mohit singh
 -Jonas Artmeier (https://github.com/JonasArtmeier)
 - Akash gupta
 - [Sagar Mamdapure](https://github.com/sagarmamdapure)
-- [Sebastian Mansfield-Barry](https://github.com/SebastianMansfieldBarr)
+- [Sebastian Mansfield-Barry](https://github.com/SebastianMansfieldBarry)
 - Vaibhav Sachan(Butowskii)
 - Marta Pinol
 - Timothy Pham (https://github.com/tpham2580)
