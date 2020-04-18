@@ -14,6 +14,7 @@
 - My name is Slim Shady
 Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
+- [Zeronfinity](https://github.com/Zeronfinity)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
