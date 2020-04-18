@@ -28,6 +28,7 @@ Graham (https://github.com/thefullnelson)
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
+- [NHU](https://github.com/thanhtruongnhu)
 - Akash V
 - ZaneFlynt
 - Sérgio Franco de Sá
