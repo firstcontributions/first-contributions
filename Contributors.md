@@ -25,6 +25,7 @@ Graham (https://github.com/thefullnelson)
 - [Cengiz Ucar] (https://github.com/ccengizucar)
 - D Mabu Jaheer Abbas
 - Mostafa Anter(https://github.com/MostafaAnter)
+- [zer0eXploit](https://github.com/zer0eXploit) :satisfied:
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
