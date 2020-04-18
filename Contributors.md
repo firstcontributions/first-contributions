@@ -19569,3 +19569,4 @@ rehan
 - [Prateek Jha](https://github.com/prateekj07394)
 - [Anssi Herranen](https://github.com/relicode)
 - [Doanobu 14](https://github.com/doanobu14)
+- [Berk Tezkosar] (https://github.com/berktezkosar/first-contributions.git)
