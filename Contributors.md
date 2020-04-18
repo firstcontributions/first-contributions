@@ -38,6 +38,7 @@ Graham (https://github.com/thefullnelson)
 - [Andres Rolon](https://github.com/Saintares97)
 - o.f
 - Will F
+- [Sandip Dust](https://github.com/SandipDust)
 - [William Chan](https://github.com/willie3838)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
