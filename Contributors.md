@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Coding CEO](https://github.com/coding-CEO)
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
@@ -9,6 +9,7 @@
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
 - [Juan M Huerta](https://github.com/JuanMHuerta)
+- [Manik Arora] (https://github.com/maniaxiom)
 - [Hassan Raza](https://github.com/HassanRazaMuhammadTufail)
 - Christian Nell  (https://github.com/cnell7)
 - My name is Slim Shady
