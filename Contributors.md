@@ -267,6 +267,7 @@ mohit singh
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
 - [Stephen Ngai] (github.com/stephen-ngai)
+- [Danny Mato] (github.com/dannymato)
 - Saurav Baid ( github.com/SauravBaid)
 -Nicole Perey
 -Jesus Gil
