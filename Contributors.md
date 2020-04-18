@@ -238,6 +238,7 @@ mohit singh
 - Humadnity
 - [Ophelia H] (https://github.com/opheliah95)
 - [Gaspzubs](https://github.com/gaspzubs/)
+- [Rajen Tandel](https://github.com/rtandel/)
 - Jimycool
 - Carl S.
 - [Sergio Escalante](https://github.com/sergioesca6)
