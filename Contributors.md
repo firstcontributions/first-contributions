@@ -573,6 +573,7 @@ Ahrman
 - Helder Jefferson Ferreira da Luz (https://github.com/Helderjfl)
 - [Yarooob Al Mostafa](https://github.com/Yarob50)
 - Jon Henley
+- Animesh Kumar
 - Yellap Nave (https://github.com/YellapNave/)
 - Mathew :D
 - Sean Tuttle (https://github.com/vandysean)
