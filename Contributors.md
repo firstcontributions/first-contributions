@@ -2179,6 +2179,7 @@ notForProffitt
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Prachi Poddar](https://github.com/prachipoddar20)
 - [Ankit Sharma](https://github.com/steveAnkit)
+- [Tim Bartsch](https://github.com/timbartsch)
 - [Aayush Kumar](https://github.com/aayushakumars)
 - [Quince Joz-Bruer](https://github.com/the-german)
 - [Anushka Jain](https://github.com/anushkajj)
