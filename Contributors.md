@@ -33,6 +33,7 @@ Graham (https://github.com/thefullnelson)
 - [Leeo](https://github.com/M1zz)
 - [NHU](https://github.com/thanhtruongnhu)
 - Akash V
+- Tushar Maheshwari
 - ZaneFlynt
 - Sérgio Franco de Sá
 - [Alan451](https://github.com/Alan451)
