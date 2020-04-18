@@ -13,6 +13,7 @@
 - [Francesc Pons] (https://github.com/fponsar)
 - [Connie R] (https://github.com/connie-reinholdsson)
 - [Lucy Barber] (https://github.com/lbarber729)
+- [Antonie Petit] (https://github.com/AntoinePetit24)
 - [Mudasir Issah] (https://github.com/danladi123)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
