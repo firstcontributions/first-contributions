@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Coding CEO](https://github.com/coding-CEO)
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
@@ -45,6 +45,7 @@ Ashi
 - o.f
 - Will F
 - [Sandip Dust](https://github.com/SandipDust)
+- [Rishit Pandey] (httpss://github.com/RishitPandey)
 - [William Chan](https://github.com/willie3838)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
