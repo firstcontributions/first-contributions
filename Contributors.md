@@ -13350,6 +13350,7 @@ macdara-dev
 - [Edan Lewis](https://github.com/fishshiz)
 - [Kevin Nguyen](https://github.com/kwin555)
 - [Tara Matthew](https://github.com/taramatt93)
+- [Taral Patel](https://github.com/taralpatel610)
 - [Vin?cius Figueiredo](https://github.com/mvinoba)
 - [Aruparna Maity](https://github.com/AruparnaMaity)
 - [Nick Adriaanse](https://github.com/shinedog)
