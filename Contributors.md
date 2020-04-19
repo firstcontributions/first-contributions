@@ -5,6 +5,7 @@
 - [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
 - Sid
+- [Erick Fana] (https://github.com/greatBrain)
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
