@@ -197,6 +197,7 @@ mohit singh
 - Nadim Rubeiz
 - Pavan Sabnis
 - Rom Ber
+- [Mubeen Ghauri](https://github.com/mubeenghauri)
 - Anirudh G (https://github.com/anirudh-g99)
 - Daniel
 - DSHP
