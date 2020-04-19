@@ -13,6 +13,7 @@
 - [Manik Arora] (https://github.com/maniaxiom)
 - [Hassan Raza](https://github.com/HassanRazaMuhammadTufail)
 - Christian Nell  (https://github.com/cnell7)
+- [Rodrigo Santos](https://github.com/rdgSantos-js)
 - My name is Slim Shady
 Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
