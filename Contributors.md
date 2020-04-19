@@ -5,6 +5,7 @@
 - [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
 - Sid
+- [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - Yosi A (https://github.com/echoen99)
