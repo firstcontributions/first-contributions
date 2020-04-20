@@ -7042,6 +7042,7 @@ Noam Taub
 - [Daniel Harris](https://github.com/killerbearddude)
 - [Chet Lynch](https://github.com/tree7gate)
 - [Jason Chau](https://github.com/chauvansang)
+- [Wesley Kater](https://github.com/Katert)
 - [Ion Tarna](https://github.com/IonTarna)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [Santiago Rodríguez](https://github.com/SantiagoR8)
