@@ -86,6 +86,7 @@ vsp0
 - Chris Noone
 - AkchhayAlok
 - Alex Walley
+- Mathias Verboven (https://github.com/moci)
 -Zamey
 - TomoSakura
 - [Yorman](https://github.com/yorstick17)
