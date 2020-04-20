@@ -66,6 +66,7 @@ Ashi
 - Vishal Kalaskar
    [Lwithwma Brahma](https://github.com/lwithwma)
 - Ryan McCall (https://github.com/RyanMcCall)
+- Ruben Fonte
 - Sarina Jami
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Gage Eide (https://github.com/gage117)
