@@ -9052,6 +9052,7 @@ Aman Panjwani
 - [Kaushal Dokania](https://github.com/KaushalDokania)
 - Alon
 - Max
+- [Daniel_Feinblatt] (https://github.com/danielfeinblatt)
 - Harry Zhang
 - [Zebus Aqua](https://github.com/aquabouncer)
 - [Minh Chau](https://github.com/ctrongminh)
