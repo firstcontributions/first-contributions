@@ -47,6 +47,7 @@ Ashi
 - [Andres Rolon](https://github.com/Saintares97)
 - o.f
 - Will F
+- Basel
 - [Sandip Dust](https://github.com/SandipDust)
 - [Rishit Pandey] (httpss://github.com/RishitPandey)
 - [William Chan](https://github.com/willie3838)
