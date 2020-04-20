@@ -1,4 +1,5 @@
 # Contributors
+- [Johnny Tirado](https://github.com/jclocks)
 - [Coding CEO](https://github.com/coding-CEO)
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
