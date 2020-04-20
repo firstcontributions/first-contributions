@@ -309,6 +309,7 @@ mohit singh
 - [Shane Gable](https://github.com/gableshane)
 - William Goble
 - imemya19
+- Cameron Baird
 - georgeCog
 - Tushit Garg
 - oazaboy
