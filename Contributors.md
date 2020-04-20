@@ -609,18 +609,18 @@ Ahrman
 - Hank Liu (https://github.com/junxingliu)
 - [David Hsiao](https://github.com/dhsiao510) 
 - [Aditya Singh](https://github.com/Aditya1001001) 
--Mike
--Angshuman Bhowmik(https://github.com/Angshuman032001)
-[Paul](https://github.com/prussell21)
--Linus
--Muhammad Baqir (https://github.com/mbaqiraltaf)
--Ellen Dozoretz (https://github.com/dozoretze) 
+- Mike
+- [Angshuman Bhowmik](https://github.com/Angshuman032001)
+- [Paul](https://github.com/prussell21)
+- Linus
+- [Muhammad Baqir] (https://github.com/mbaqiraltaf)
+- [Ellen Dozoretz] (https://github.com/dozoretze) 
 - Helder
-- Revenge (https://github.com/RevengeDude/first-contributions)
+- [Revenge] (https://github.com/RevengeDude/first-contributions)
 - Manaswita Tyagi
 - Yeongyoon Park (https://github.com/ypark66)
--Muhammad bin fayyaz (https://github.com/MuhammadPen)
--Rachel
+- Muhammad bin fayyaz (https://github.com/MuhammadPen)
+- Rachel
 - Youssef HAJARI (https://github.com/youssefhajari)
 - Nikita Moonen (https://github.com/nikkiita)
 - James Tufarelli (https://github.com/Minituff)
