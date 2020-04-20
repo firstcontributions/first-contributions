@@ -340,6 +340,7 @@ mohit singh
 - Craig Wyse
 - Shreyas PJ
 - Tuncer Tunçer
+- [Sanchit Pandey](https://github.com/sanchitpandey)
 - Alex
 - Abhijit
 - Christine P.
