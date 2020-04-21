@@ -11474,6 +11474,7 @@ Aman Panjwani
 - [Lukas Podolski](https://github.com/Taufi)
 - [luisenrike](https://github.com/luisenrike)
 - [Eric Jonelunas](https://github.com/ejjonzey)
+- Harald Töpfer
 - [Xing Wang](https://github.com/xingwang)
 - [Harish Raju](https://github.com/harisharaju1)
 - [Limak1](https://github.com/limak1)
