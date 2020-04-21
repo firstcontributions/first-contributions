@@ -41,6 +41,7 @@ Ashi
 - [Leeo](https://github.com/M1zz)
 - [NHU](https://github.com/thanhtruongnhu)
 - Akash V
+- Julia 
 - Tushar Maheshwari
 - ZaneFlynt
 - Tiliwie
