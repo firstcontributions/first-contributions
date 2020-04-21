@@ -20799,6 +20799,7 @@ rehan
 - [Park Junseong](https://github.com/rasauq1122)
 - [Mat Tommy] (https://github.com/MatGitTommy)
 - [Luke SungukJung](https://github.com/LukeSungukJung)
+-[Kevin Soria](https://github.com/kevin-soria)
 - [Taylor Malamut](https://github.com/tmalamut)
 - [Jorge Jiménez](https://github.com/xadrijo)
 - [Hung Nguyen](https://github.com/Hungnguyen720)
@@ -21208,3 +21209,4 @@ rehan
 -[Girkov Arpa](https://github.com/GirkovArpa)
 -[Rohit kumar varma](https://github.com/rohitkumarvarma1)
 -[Omar Laham] (https://github.com/OmarLaham)
+-
