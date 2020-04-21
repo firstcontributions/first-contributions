@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Johnny Tirado](https://github.com/jclocks)
 - [Coding CEO](https://github.com/coding-CEO)
 - [hyojun Kim](https://github.com/nandong1104)
@@ -303,6 +303,7 @@ mohit singh
 - Saloni Yadav (https://github.com/salyadav)
 - Alex Rose
 - Phil Cowan (https://github.com/phil4lif)
+- Anish Upadhayay (https://github.com/aupadhayay3)
 - Siddhant Chimankar (https://github.com/siddhantchimankar)
 - Andy Jarcho
 - [Juliette Tworsey] (https://github.com/firebuggirl)
