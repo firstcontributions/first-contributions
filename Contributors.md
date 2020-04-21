@@ -10305,6 +10305,7 @@ Aman Panjwani
 - [Pragadesh Vasudevan](https://github.com/PragadeshVasudevan)
 - [mngdnmw](https://github.com/mngdnmw)
 - [mefff](https://github.com/mefff)
+- [Trevor Akiyama](https://github.com/trevorakiyama)
 - [Alexander Vladimirov](https://github.com/AlexanderVladimirov9090)
 - [JD Bequette](https://github.com/jdbequette)
 - [jmadd](https://github.com/jmadd)
