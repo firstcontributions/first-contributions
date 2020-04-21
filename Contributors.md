@@ -14,29 +14,29 @@
 - Adi Mazuz (https://github.com/Adimazuz)
 - Yosi A (https://github.com/echoen99)
 - [Juan M Huerta](https://github.com/JuanMHuerta)
-- [Manik Arora] (https://github.com/maniaxiom)
+- [Manik Arora](https://github.com/maniaxiom)
 - [Hassan Raza](https://github.com/HassanRazaMuhammadTufail)
-- Christian Nell  (https://github.com/cnell7)
+- Christian Nell (https://github.com/cnell7)
 - [Rodrigo Santos](https://github.com/rdgSantos-js)
 - My name is Slim Shady
 -Sai Jayakeerthi
 -Chirag Sharma
 - [Abdullahi Aliyu Musa](https://github.com/abdoullfurya)
-Graham (https://github.com/thefullnelson)
+- [Graham](https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Zeronfinity](https://github.com/Zeronfinity)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
-- Tomas Dougan (https://github.com/taurreco)
+- [Tomas Dougan](https://github.com/taurreco)
 Ashi
--Jaswant Singh (https://github.com/jassiG)
-- Wanielton Ferreira (https://github.com/FMKani)
+- [Jaswant Singh](https://github.com/jassiG)
+- [Wanielton Ferreira](https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
-- Guilherme Baufaker (https://github.com/baufaker)
-- [Cengiz Ucar] (https://github.com/ccengizucar)
+- [Guilherme Baufaker](https://github.com/baufaker)
+- [Cengiz Ucar](https://github.com/ccengizucar)
 - D Mabu Jaheer Abbas
-- Mostafa Anter(https://github.com/MostafaAnter)
+- [Mostafa Anter](https://github.com/MostafaAnter)
 - [zer0eXploit](https://github.com/zer0eXploit) :satisfied:
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - [Dweep Panchal](https://github.com/dweep612)
@@ -54,7 +54,7 @@ Ashi
 - Will F
 - Basel
 - [Sandip Dust](https://github.com/SandipDust)
-- [Rishit Pandey] (httpss://github.com/RishitPandey)
+- [Rishit Pandey](httpss://github.com/RishitPandey)
 - [William Chan](https://github.com/willie3838)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
