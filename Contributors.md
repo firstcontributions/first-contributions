@@ -349,6 +349,7 @@ mohit singh
 - Shreyas PJ
 - Tuncer Tunçer
 - [Sanchit Pandey](https://github.com/sanchitpandey)
+- [Nicholas Gohman](https://github.com/njgohman)
 - Alex
 - Abhijit
 - Christine P.
