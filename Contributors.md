@@ -10,6 +10,7 @@
 - [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
+- [cwoszczak] (https://github.com/cwoszczak)
 - Adi Mazuz (https://github.com/Adimazuz)
 - Yosi A (https://github.com/echoen99)
 - [Juan M Huerta](https://github.com/JuanMHuerta)
