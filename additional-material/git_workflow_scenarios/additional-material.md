@@ -16,7 +16,26 @@ This document provides information about how to keep your forked repository up-t
 
 ### [Moving a Commit to a different Branch](moving-a-commit-to-a-different-branch.md)
 This document provides information about how to move a Commit to another Branch.
-> Take these steps to move a commit to another branch.
+> Moving to an existing branch
+If you want to move your commits to an existing branch:
+
+git checkout existingbranch
+git merge master         # Bring the commits here
+git checkout master
+git reset --keep HEAD~3  # Move master back by 3 commits.
+git checkout existingbranch
+The --keep option preserves any uncommitted changes that you might have in unrelated files, or aborts if those changes would have to be overwritten -- similarly to what git checkout does. If it aborts, git stash your changes and retry, or use --hard to lose the changes (even from files that didn't change between the commits!)
+
+Moving to a new branch
+This method works by creating a new branch with the first command (git branch newbranch) but not switching to it. Then we roll back the current branch (master) and switch to the new branch to continue working.
+
+git branch newbranch      # Create a new branch, containing all current commits
+git reset --keep HEAD~3   # Move master back by 3 commits (Make sure you know how many commits you need to go back)
+git checkout newbranch    # Go to the new branch that still has the desired commits
+
+But  make sure how many commits to go back. Alternatively, instead of HEAD~3, you can simply provide the hash of the commit (or the reference like origin/master) you want to revert back to, e.g:
+
+git reset --keep a1b2c3d4 (community wiki) (https://stackoverflow.com/questions/1628563/move-the-most-recent-commits-to-a-new-branch-with-git)
 
 ### [Removing a File](removing-a-file.md)
 This document provides information about how to remove a file from your local repository.
