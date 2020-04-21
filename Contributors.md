@@ -143,6 +143,7 @@ mohit singh
 - Timothy Pham (https://github.com/tpham2580)
 - Akshit Goyal (https://github.com/akshitgoyal1998)
 - Alberto R
+- Julia Pocciotti
 - Eric Wang
 - [Théo Dumont](https://github.com/theodumont)
 - [Hamed jabbari] (https://github.com/hamedjbbri)
