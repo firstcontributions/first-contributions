@@ -69,6 +69,7 @@ Ashi
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
 - Sarah Rose 
+- Abby Davidow
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
