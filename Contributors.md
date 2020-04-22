@@ -42,6 +42,7 @@ Ashi
 - Mostafa Anter(https://github.com/MostafaAnter)
 - [zer0eXploit](https://github.com/zer0eXploit) :satisfied:
 - [Mehmet Can Demir](https://github.com/mcandemir)
+- Sifat Moonjerin
 - [Dweep Panchal](https://github.com/dweep612)
 - [Leeo](https://github.com/M1zz)
 - [NHU](https://github.com/thanhtruongnhu)
