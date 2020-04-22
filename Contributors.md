@@ -18030,6 +18030,7 @@ macdara-dev
 - [Benjamin Garness](http://github.com/bmgarness)
 - [Pedro Terriquez](https://github.com/PedroTerriquez)
 - [Prakash Kumar](https://github.com/theprakashkumar)
+- [Dan McNaughton](https://github.com/dmcnaughtond)
 - [Emily McNair](https://github.com/mistymayem)
 - [Ludwig Guerin](https://github.com/Voltra)
 - [Chris Lucas](https://github.com/lucasaid/)
