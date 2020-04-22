@@ -31,6 +31,7 @@ Graham (https://github.com/thefullnelson)
 - Tomas Dougan (https://github.com/taurreco)
 Ashi
 -Jaswant Singh (https://github.com/jassiG)
+- Ryan King (https://github.com/RussianElmo)
 - Wanielton Ferreira (https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
 - Guilherme Baufaker (https://github.com/baufaker)
