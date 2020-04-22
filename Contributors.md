@@ -21,6 +21,7 @@
 - [Rodrigo Santos](https://github.com/rdgSantos-js)
 - My name is Slim Shady
 -Sai Jayakeerthi
+- [zain ahmed] (https://github.com/zainbinfurqan)
 -Chirag Sharma
 - [Abdullahi Aliyu Musa](https://github.com/abdoullfurya)
 Graham (https://github.com/thefullnelson)
