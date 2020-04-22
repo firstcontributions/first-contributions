@@ -20,6 +20,7 @@
 - [Hassan Raza](https://github.com/HassanRazaMuhammadTufail)
 - Christian Nell  (https://github.com/cnell7)
 - [Rodrigo Santos](https://github.com/rdgSantos-js)
+- [Nola Smith] (https://github.com/SmithNola)
 - My name is Slim Shady
 -Sai Jayakeerthi
 - [zain ahmed] (https://github.com/zainbinfurqan)
