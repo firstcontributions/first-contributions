@@ -12850,6 +12850,7 @@ macdara-dev
 - [Cameron Wold](https://github.com/kojurama)
 - [Wasiq Noor](https://github.com/wasiqnoorahmad)
 - [Steven Te](https://github.com/testeven152)
+- [Bora Öztürk](https://github.com/boraozturk)
 - [Kanishk Kumar](https://github.com/kanishk509)
 - [Eslam Shala](https://github.com/eslamunto)
 - [webitekt](https://github.com/webitekt)
