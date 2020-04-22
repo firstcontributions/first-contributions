@@ -7349,6 +7349,7 @@ Aman Panjwani
 - [Jason Lynch](https://github.com/Tessituraa)
 - [Douglas Keeney](https://github.com/imchasek)
 - [Michal Worwag](https://github.com/michal-worwag)
+- [Wagner Dias](https://github.com/dias-wagner)
 - [Jonathan Chao](https://github.com/JChao7)
 - [Jason Beals](https://github.com/jbeals12)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
