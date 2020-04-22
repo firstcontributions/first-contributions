@@ -227,6 +227,7 @@ mohit singh
 - Aman Thapliyal
 - Efthymia Kostaki
 - Domingo Sanchez
+- Luciano Aguerre
 - Siji Bamgboyee
 - Edwin Wong (https://github.com/edwinwongy)
 - Efereyan Karen Simisola
