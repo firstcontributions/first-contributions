@@ -21125,6 +21125,7 @@ rehan
 - [dreambeyondit] (https://github.com/dreambeyondit)
 - [Kenneth Mui](https://github.com/klmui)
 - [Bhawna Kumari](https://github.com/bk0110)
+- [Daniel Josefsson](https://github.com/danjosef)
 - [Koen Meijer](https://github.com/KoenMeijer)
 - [Luke Howsam](https://github.com/luke-h1)
 - [Lukas Walter](https://github.com/lukw4l)
