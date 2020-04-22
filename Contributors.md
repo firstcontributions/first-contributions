@@ -47,6 +47,7 @@ Ashi
 - [NHU](https://github.com/thanhtruongnhu)
 - Akash V
 - Tushar Maheshwari
+- [kevinnls](https://github.com/kevinnls)
 - ZaneFlynt
 - Tiliwie
 - Sérgio Franco de Sá
