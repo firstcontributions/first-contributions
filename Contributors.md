@@ -6118,6 +6118,7 @@ Noam Taub
 - [bag0ul](https://github.com/Bag0ul)
 - NH
 - [Harshal Lele](https://github.com/harshlele)
+- [saeedhassansolangi](https://github.com/saeedhassansolangi)
 - POPAMAN
 - Pragyan Mehrotra
 - [Fabio Cardenas](https://github.com/fcarden)
