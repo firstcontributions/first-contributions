@@ -31,6 +31,7 @@ Graham (https://github.com/thefullnelson)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
 - Tomas Dougan (https://github.com/taurreco)
 Ashi
+- [Claude Will] (https://github.com/claudewill1)
 -Jaswant Singh (https://github.com/jassiG)
 - Ryan King (https://github.com/RussianElmo)
 - Wanielton Ferreira (https://github.com/FMKani)
