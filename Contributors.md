@@ -340,6 +340,7 @@ mohit singh
 - Tushit Garg
 - oazaboy
 - Markopolo1
+- Akhil Chaudhary (https://github.com/Akhil-chaudhary)
 - Michael Lumley (https://github.com/mjlumley)
 - Brownboy
 - Harshini2898
