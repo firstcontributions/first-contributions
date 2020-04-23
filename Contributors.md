@@ -15,6 +15,7 @@ Daniel Caesar
 - [Ethan Glover](https://github.com/eglove)
 - [Priya Patel](https://github.com/PRXYA)
 - [Cavasian](https://github.com/cavasian)
+- [Krzysztof Kruk](https://github.com/krukkrz)
 - Sid
 - [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
