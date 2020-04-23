@@ -3799,6 +3799,7 @@ Kebana Modise
 - [Tonmoy Baruah](https://github.com/christoperDe/first-contributions)
 - [Kyon Lee](https://github.com/kyonlee)
 - [Kamal Kant Sharma](https://github.com/kamalbhardwaj)
+- [Kamal Aminu](https://github.com/kameen744)
 - [Alex Mendiola](https://github.com/kmannarbor)
 - [Mateusz Piguła](httsp://github.com/mateuszpigula)
 - [Akshat Tyagi](https://github.com/akshatyagi)
