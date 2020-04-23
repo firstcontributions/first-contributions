@@ -5279,6 +5279,7 @@ Noam Taub
 - [Paul Ireland](https://github.com/trashytop)
 - [David Johnson](https://github.com/thedogrant)
 - [Sriharsha Bandaru](https://github.com/harshabandaru)
+- [Erick Rogers](https://github.com/erickjrogers/)
 - [Randy Le](https://github.com/RandyKoiSA)
 - [bt franzen](https://github.com/bfranzen19)
 - [stardust3dd](https://github.com/stardust3dd)
