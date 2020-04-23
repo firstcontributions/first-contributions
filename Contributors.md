@@ -12558,6 +12558,7 @@ macdara-dev
 - [Abang Farhan](https://github.com/abangfarhan)
 - [Devika Krishnadas](https://github.com/devikakrishnadas)
 - [Marko Jović](https://github.com/marko-jovic)
+- [Marko Marin](https://github.com/mmarin707)
 - [Mohammad Apel Mahmod](https://github.com/amahmod)
 - [Arshad AQ](https://github.com/ArshadAQ)
 - [Dexter Rualo](https://github.com/dexrualo)
