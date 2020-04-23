@@ -12,6 +12,7 @@ Daniel Caesar
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Ethan Glover](https://github.com/eglove)
 - [Priya Patel](https://github.com/PRXYA)
+- [Cavasian](https://github.com/cavasian)
 - Sid
 - [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
