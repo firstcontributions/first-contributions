@@ -165,6 +165,7 @@ mohit singh
 - Akshit Goyal (https://github.com/akshitgoyal1998)
 - Alberto R
 - Eric Wang
+- Jordan Chabot (https://github.com/jordan-chabot)
 - [Théo Dumont](https://github.com/theodumont)
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
