@@ -9843,6 +9843,7 @@ Aman Panjwani
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Hannah Stannard](https://github.com/hannahrstannard)
 - [Malika Asim](https://github.com/itsvoodoochild)
+- [Katherine](https://github.com/kkcc14)
 - [Melanie Mills](https://github.com/codeherlife)
 - [Katie Stutts](https://github.com/stuttskl)
 - [Patrick Pruss](https://github.com/ppruss)
