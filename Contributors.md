@@ -131,6 +131,7 @@ mohit singh
 - benhill
 - [Kunal Kundu](https://github.com/tinfoil-knight)
 - vraj9845
+- [Daniel Tamming](https://github.com/danieltamming)
 - hicham maaqoul (https://github.com/maaqoul)
 - Caleb Mitchell (https://github.com/Calebj20)
 - Maese Burgui\
