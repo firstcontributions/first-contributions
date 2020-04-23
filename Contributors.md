@@ -8,6 +8,7 @@
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
 - [Paulo Farias](https://github.com/paulovgf)
+- [Daniel Caesar](https://github.com/danieldcaesar)
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Ethan Glover](https://github.com/eglove)
 - [Priya Patel](https://github.com/PRXYA)
