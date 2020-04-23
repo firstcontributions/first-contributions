@@ -383,6 +383,7 @@ mohit singh
 -Harshal Sharma
 - Semuca
 - Krish
+- [Lahcen EDAIF](https://github.com/devlaheda)
 - developer-97
 - Meir till when march 17
 - [Bernie Abraham](https://github.com/bernieabraham)
