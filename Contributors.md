@@ -2,6 +2,7 @@
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 - [Rodrigo]
 - [gunthine] (https://github.com/gunthine)
+- [Kyle Horton](https://github.com/kylehorton33)
 - [Nicole](https://github.com/nicoleyyr)
 - [Amelia Milne] (https://github.com/meelszz)
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
