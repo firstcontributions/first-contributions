@@ -10,6 +10,7 @@
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
 - [Paulo Farias](https://github.com/paulovgf)
+- [Mohammad Manzoor Alam](https://github.com/mohammadmanzoor8972)
 - [motorjunkie] (https://github.com/akashsonth)
 Daniel Caesar
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
