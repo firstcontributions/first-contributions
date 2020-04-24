@@ -80,6 +80,7 @@ Ashi
 - [Aristeidis Tomaras](https://github.com/saavedra29)
 - Sarah Rose 
 - Abby Davidow
+- Arpit Jain [https://github.com/calvincodes]
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
