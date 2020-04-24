@@ -86,6 +86,7 @@ Ashi
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
 - [tempixtl](https://github.com/tempixtl)
+- [Davide Benini](https://github.com/Boccolo)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
 - [Rubén Lorenzo](https://github.com/rubenlorenzo)
