@@ -460,6 +460,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Jear Jujaroen (https://github.com/jearjujaroen)
 - Julian Hendrix (https://github.com/swishahendrix)
 - Monika Osochowska (https://github.com/kokosanki)
+- Brian de Buiteach
 - Caleb Contreras
 - Mayur Lalwani
 - Karini lbo 
