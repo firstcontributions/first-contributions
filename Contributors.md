@@ -4692,6 +4692,7 @@ Noam Taub
 - [Ashikur Rashid Khan](https://github.com/ARK17)
 - [Peterson oaikhenah](https://github.com/nextwebb)
 - [Ishara M]
+- [Kian Fay]
 - [Rohit Retnakaran](https://github.com/rohit16794)
 - Junhwi Kim
 - [Raymond Ng](https://github.com/RaymondNg0054)
