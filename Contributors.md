@@ -1,4 +1,5 @@
-﻿# Contributors
+# Contributors
+-[Kushal Bhanot](https://github.com/KushalBhanot)]
 - [Rodrigo]
 - [gunthine] (https://github.com/gunthine)
 - [Amelia Milne] (https://github.com/meelszz)
