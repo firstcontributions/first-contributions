@@ -56,6 +56,7 @@ Ashi
 - Wanielton Ferreira (https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
 - Guilherme Baufaker (https://github.com/baufaker)
+- [Meer Suri](https://github.com/meersuri)
 - [Cengiz Ucar] (https://github.com/ccengizucar)
 - D Mabu Jaheer Abbas
 - Mostafa Anter(https://github.com/MostafaAnter)
