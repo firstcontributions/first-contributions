@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 - [Rodrigo]
 - [gunthine] (https://github.com/gunthine)
@@ -799,6 +799,7 @@ Deepika Padmanabhan
 - Moshe Goldberg (https://github.com/moish82)
 - Harrison Corupe (https://github.com/Hcorupe)
 - Bryant Vaughn (https://github.com/BryantVaughn)
+- Kevin Pandya (https://github.com/kevinpandya)
 - Aviv Eldan (https://github.com/aviveldan)
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
