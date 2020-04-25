@@ -1,5 +1,6 @@
 ﻿# Contributors
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
+- [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - [gunthine] (https://github.com/gunthine)
 - [Kyle Horton](https://github.com/kylehorton33)
