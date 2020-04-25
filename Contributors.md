@@ -20111,6 +20111,7 @@ Mário Baltazar
 - [Juan Parra](https://github.com/Juandkpa)
 - [Oliver Lluberes](https://github.com/Zybax)
 - [Alexander Myutel](https://github.com/AlexUnderConstruction)
+- [Subhadip Halder](https://github.com/subhadiphere)
 - [Subhanshu](https://github.com/subhanshu2 )
 - [Sparsh Temani](https://github.com/SparshTemani)
 - [AnActualEmerald](https://github.com/AnActualEmerald)
