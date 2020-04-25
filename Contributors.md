@@ -2,6 +2,7 @@
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
+- [adriancf-br] (https://github.com/adriancf-br)
 - [gunthine] (https://github.com/gunthine)
 - [Kyle Horton](https://github.com/kylehorton33)
 - [Nicole](https://github.com/nicoleyyr)
