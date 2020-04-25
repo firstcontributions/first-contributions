@@ -45,7 +45,8 @@ Daniel Caesar
 Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Zeronfinity](https://github.com/Zeronfinity)
-- [Beth-19](https://github.com/Beth-19)
+- [Abhishek Sharma](https://github.com/abhishekshrm53)
+- [Beth-19](https://github.com/Beth-19i)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
