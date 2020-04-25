@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 - [Rodrigo]
 - [gunthine] (https://github.com/gunthine)
@@ -318,6 +318,7 @@ mohit singh
 - [Abhay Raj Singh](https://github.com/alphasingh)
 - [Jacob Paine](https://github.com/jacobpaine)
 - [Ruben Meza](https://github.com/rubenmeza)
+- [Sushovan Karmakar](https://github.com/sushovankarmakar)
 - [Stephen Ngai] (github.com/stephen-ngai)
 - [Danny Mato] (github.com/dannymato)
 - Saurav Baid ( github.com/SauravBaid)
