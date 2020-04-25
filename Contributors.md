@@ -446,6 +446,7 @@ mohit singh
 - Thomas Tamber
 - Bhargav Acharya
 - Balázs Nagy
+- Muasiq ((https://github.com/muasiq)
 - María Sola (https://github.com/mariasola)
 - Antonio Cassano (https://github.com/antoniocassano84)
 - RR Carter
