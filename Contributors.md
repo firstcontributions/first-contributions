@@ -46,7 +46,7 @@ Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
 - [Zeronfinity](https://github.com/Zeronfinity)
 - [Abhishek Sharma](https://github.com/abhishekshrm53)
-- [Beth-19](https://github.com/Beth-19i)
+- [Beth-19](https://github.com/Beth-19)
 - [Ferus Wylde](https://github.com/ferus-wylde)
 - [Baha chammakhi](https://github.com/bahachammakhi)
 - [Yang Xu](https://github.com/YangXu19) :satisfied:
