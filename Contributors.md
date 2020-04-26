@@ -7749,6 +7749,7 @@ Aman Panjwani
 - [Piyush555](https://github.com/Piyush-555)
 - [Faraidoon Naghdali](https://github.com/fnaghdali)
 - [Brittany Morris](https://github.com/brittmmendez/)
+- [Jammy Loeur](https://github.com/loeurj/)
 - [Sergio Sanchez](https://github.com/snchzsrg)
 - [Juliette Tworsey](https://github.com/firebuggirl/)
 - [Anubhab Sen](https://github.com/anubhabsen)
