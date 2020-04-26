@@ -145,6 +145,8 @@ vsp0
 - Rohit Lambora
 - [Macky Ben Jonah](https://github.com/Mackyboy12/)
 mohit singh
+- [manish]
+- manish
 - Harshit sharma
 - Talhah Patelia
 - Jana Jarolimova
