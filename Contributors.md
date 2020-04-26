@@ -10786,6 +10786,7 @@ Aman Panjwani
 - [Lord Adarsh](https://github.com/adarsh-why)
 - [Milos Macura](https://github.com/milosmac94)
 - [Roshan Jossey](https://github.com/Roshanjossey)
+- [Firnas Aleem](https://github.com/AMFIRNAS)
 - [Ray Al](https://github.com/ray4spd)
 - [Christian Brill](https://github.com/christianbrill)
 - [Ujjwal](https://github.com/uforujjwal)
