@@ -82,6 +82,7 @@ Ashi
 - [Alan451](https://github.com/Alan451)
 - [Nightcrawler](https://github.com/nightcrawler-)
 - [Andres Rolon](https://github.com/Saintares97)
+- [John-Louis Rumingan](https://github.com/JohnLouisRumingan)
 - o.f
 - Will F
 - kallekutta
