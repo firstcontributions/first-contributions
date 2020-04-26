@@ -93,7 +93,6 @@ Ashi
 - [William Chan](https://github.com/willie3838)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
-- Sarah Rose
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
@@ -210,8 +209,6 @@ mohit singh
 - [Harshit Varma](https://github.com/hrshtv)
 -Harshu
 - Colin Nelson
-- [Moises Miguel](https://github.com/moimigueldev)
--Praveenkumar
 - Kevin Stensson
 - Helen Lants
 - [hemant-1332](https://github.com/hemant-1332)
