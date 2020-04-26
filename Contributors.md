@@ -15917,6 +15917,7 @@ macdara-dev
 - [Wesley Maffly-Kipp](https://github.com/maffkipp)
 - [graezzon algemer](https://github.com/graezzon)
 - [Diego Garcia](https://github.com/diegarc)
+- [Angela Bi] (https://github.com/aaangelaaa)
 - [Leon Hojegian](https://github.com/leonh71)
 - [Al Po](https://github.com/seik0ixtem)
 - [Rishabh Bajpai](https://github.com/CodeSeeker99)
