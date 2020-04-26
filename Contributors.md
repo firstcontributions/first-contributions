@@ -513,6 +513,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Song Ning Peng
 - Enigmart (Luigi Cuomo) (https://github.com/Enigmart-dev)
 - Adrieli Polsin
+- Pablo Colturi
 - [Shrey Ravi](https://github.com/ShreyRavi)
 - Matheus Maidel (https://github.com/Masthues)
 - Sethu Ram Kumar
