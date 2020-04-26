@@ -210,7 +210,8 @@ mohit singh
 -Harshu
 - Colin Nelson
 - [Moises Miguel](https://github.com/moimigueldev) 
--Praveenkumar
+- [aajjt]https://github.com/aajjt
+- Praveenkumar
 - Kevin Stensson
 - Helen Lants
 - [hemant-1332](https://github.com/hemant-1332)
