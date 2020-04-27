@@ -6966,6 +6966,7 @@ Noam Taub
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [Tanish Kapur](https://github.com/tan33sh)
 - [Philippe Targino](https://github.com/ptargino)
+- [Terrance Lewis](https://github.com/TerranceDwan)
 - [Navanjana Keshalya](https://github.com/NavanjanaKeshalya)
 - [Bryan Endres](https://github.com/bendres97)
 - [QrBe](https://github.com/QrBe)
