@@ -467,6 +467,7 @@ mohit singh
 - Ahmad Kasem (https://github.com/AhmadKasem)
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
+- Mikhail Mazukabzov ()
 - [segfault-philosopher] (https://github.com/segfault-philosopher)
 - Vitor Henrique de Matos Alvarenga
 - Ashwini Jha
