@@ -22,6 +22,7 @@
 - [Luiz Borba](https://github.com/lborba)
 - [motorjunkie] (https://github.com/akashsonth)
 - [Xia Liu] (https://github.com/lxlyp438)
+- [Rishabh Bajaj] (https://github.com/RishabhBajaj97)
 Daniel Caesar
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Andrew Cramp](https://github.com/AndrewCramp)
