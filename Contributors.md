@@ -6,6 +6,7 @@
 - [Rodrigo]
 - [adriancf-br] (https://github.com/adriancf-br)
 - [gunthine] (https://github.com/gunthine)
+- [Sielik] (https://github.com/Sielik)
 - [Kyle Horton](https://github.com/kylehorton33)
 - [Nicole](https://github.com/nicoleyyr)
 - [Amelia Milne] (https://github.com/meelszz)
