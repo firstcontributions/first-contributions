@@ -11908,6 +11908,7 @@ Aman Panjwani
 - [Jianhao Tan](https://github.com/jaanhio)
 - [Prajwal Patil](https://github.com/prajwalkpatil)
 - [Alex Hsu](https://github.com/Juchuhsu)
+- [Jonathan Abbott] (https://github.com/Tooskito)
 - [avcoder](https://github.com/avcoder)
 - [Chris Bridges](https://github.com/chrisbridges)
 - [Janice Keita](https://github.com/Gotaskaen)
