@@ -113,6 +113,7 @@ Ashi
 - Ryan McCall (https://github.com/RyanMcCall)
 - Ruben Fonte
 - Sarina Jami
+- [Aman Pal](https://github.com/amanpal99)
 - [m013s087] (https://github.com/m013s087)
 - Ibrahim Abdulsamad (https://github.com/ib-Jkid)
 - Gage Eide (https://github.com/gage117)
