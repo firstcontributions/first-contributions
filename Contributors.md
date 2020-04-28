@@ -3,6 +3,7 @@
 - Andy Hou (https://github.com/imandyh/first-contributions)
 - [Katie Kunz](https://github.com/kwazykt)
 - [Charlotte Tusset](https://github.com/CharlotteTusset)
+- [Robin Natale] (https://github.com/robin-natale)
 - [Jacob Paine](https://github.com/jacobpaine)
 -Jawad-nafad
 - Alex Rose
