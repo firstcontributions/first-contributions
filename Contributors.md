@@ -95,6 +95,7 @@ Ashi
 - Will F
 - kallekutta
 - Basel
+Griffin Cosgrove
 - [Nadpher](https://github.com/Nadpher)
 - [Sandip Dust](https://github.com/SandipDust)
 - [Rishit Pandey] (httpss://github.com/RishitPandey)
