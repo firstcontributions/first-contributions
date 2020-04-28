@@ -1,7 +1,8 @@
-﻿# Contributors
+# Contributors
 - [MLiao](https://github.com/mancyliao)
 - [albrah12]
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
+-[Kiran Babu Muddam](https://github.com/kiranbabumuddam)]
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - [adriancf-br] (https://github.com/adriancf-br)
@@ -19,9 +20,11 @@
 - [Guy Shur](https://github.com/guyshur)
 - [Paulo Farias](https://github.com/paulovgf)
 - [Mohammad Manzoor Alam](https://github.com/mohammadmanzoor8972)
+- [Naveen Venkatesan](https://github.com/naveenv92)
 - [Luiz Borba](https://github.com/lborba)
 - [motorjunkie] (https://github.com/akashsonth)
 - [Xia Liu] (https://github.com/lxlyp438)
+- [Rishabh Bajaj] (https://github.com/RishabhBajaj97)
 Daniel Caesar
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Andrew Cramp](https://github.com/AndrewCramp)
@@ -164,7 +167,8 @@ mohit singh
 - subhadeep chatterjee
 - Saka Ricky
 - victore
--german
+- [Nicholas Castle](https://github.com/Nicholas-Castle)
+-german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
 - April Day (https://github.com/AprilDDay)
@@ -360,6 +364,7 @@ mohit singh
 - [Juliette Tworsey] (https://github.com/firebuggirl)
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
+- [Bharat Kammakatla](https://github.com/bharatkammakatla)
 - William Goble
 - imemya19
 - Cameron Baird
@@ -421,6 +426,7 @@ mohit singh
 - Yug Gupta ( https://github.com/Yuggupta27 )
 - Joseph Blackledge (https://github.com/BlueDiablos)
 - Pracha Promthaw (https://github.com/kimmypracha)
+- Miles Gordon (https://github.com/gordonm867)
 - [Adamu Abubakar Abba](https://github.com/IamSadiq/)
 - Jonah Song (https://github.com/jonahsong)
 - Bryan Baker (https://github.com/bry310)
@@ -466,6 +472,7 @@ mohit singh
 - Ahmad Kasem (https://github.com/AhmadKasem)
 - Bruno Lima (https://github.com/LimaBD)
 - Kyle Grube (https://github.com/kgrube5)
+- Mikhail Mazukabzov ()
 - [segfault-philosopher] (https://github.com/segfault-philosopher)
 - Vitor Henrique de Matos Alvarenga
 - Ashwini Jha
@@ -492,6 +499,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Youssef08
 - kherhozen
 - Marbin Wong(wmarbin.github.io)
+- Pruthvi Bardolia
 - Pooja Singh
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
@@ -701,7 +709,8 @@ Will-C
  Fernanda e Ariane
 - Nikhil joshi
 - Jofel
-- Bethany Roberts
+- Jeevan Atigre
+- Bethany Roberts 
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
 - Warren Harper
@@ -2449,6 +2458,7 @@ notForProffitt
 - [nestorsgarzonc](https://github.com/nestorsgarzonc)
 - [Jason Griffis](https://github.com/jgriffis1976)
 - [Avi Udash](https://github.com/Fotblx25)
+- Bruno Tavares
 - [Sahaja Yerramsetti](https://github.com/sahajay)
 - [Alex Nickel](https://github.com/Cattiva)
 - [Melissa Huerta](https://github.com/piratelicorne)
@@ -6968,6 +6978,7 @@ Noam Taub
 - [joshuaOgwang](https://github.com/joshuaOgwang)
 - [Tanish Kapur](https://github.com/tan33sh)
 - [Philippe Targino](https://github.com/ptargino)
+- [Terrance Lewis](https://github.com/TerranceDwan)
 - [Navanjana Keshalya](https://github.com/NavanjanaKeshalya)
 - [Bryan Endres](https://github.com/bendres97)
 - [QrBe](https://github.com/QrBe)
@@ -21318,7 +21329,9 @@ rehan
 - [Nasir Hemed](https://github.com/nasirhemed)
 -[Daniel Koceja](https://github.com/koceja)
 -[Raghul Vaikundam](https://github.com/raghulvaikundam)
+-[America Murray](https://github.com/america-develops)
 -[Fabien Neves](https://github.com/fneves78)
 -[Mohammed EL KALAKHI](https://github.com/melkalakhi)
 - [Anastasiia Pustova](https://github.com/AnastasiiaKrush)
 -[Smitha Sanehalli](https://github.com/smithasanehalli)
+-[Neelmani Vispute](https://github.com/neelmanivispute)
