@@ -23,6 +23,7 @@
 - [Naveen Venkatesan](https://github.com/naveenv92)
 - [Luiz Borba](https://github.com/lborba)
 - [motorjunkie] (https://github.com/akashsonth)
+- [Jolene Ng] (https://github.com/jolenenjy)
 - [Xia Liu] (https://github.com/lxlyp438)
 - [Rishabh Bajaj] (https://github.com/RishabhBajaj97)
 Daniel Caesar
