@@ -704,6 +704,7 @@ Will-C
  Fernanda e Ariane
 - Nikhil joshi
 - Jofel
+- Jeevan Atigre
 - Bethany Roberts 
 - Michael Geletka
 - [Stanislas DIBI](https://github.com/standibi)
