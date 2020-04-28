@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [MLiao](https://github.com/mancyliao)
 - [albrah12]
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
@@ -425,6 +425,7 @@ mohit singh
 - Yug Gupta ( https://github.com/Yuggupta27 )
 - Joseph Blackledge (https://github.com/BlueDiablos)
 - Pracha Promthaw (https://github.com/kimmypracha)
+- Miles Gordon (https://github.com/gordonm867)
 - [Adamu Abubakar Abba](https://github.com/IamSadiq/)
 - Jonah Song (https://github.com/jonahsong)
 - Bryan Baker (https://github.com/bry310)
