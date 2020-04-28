@@ -3337,6 +3337,7 @@ Nishtha3512
 - [Je Hyun Kim](https://github.com/je-hyun)
 - [Soumick Pyne](https://github.com/Soumick-Pyne)
 - [Jusitn Stauffer](https://github.com/justindstauffer)
+- [Austin Benoit](https://github.com/AustinBenoit)
 - [Roberson Lubin](https://github.com/rlubingsu)
 - Arielle Jasmine Michelle Irada
 - [Ajay Kumar](https://github.com/ajaykumar97)
