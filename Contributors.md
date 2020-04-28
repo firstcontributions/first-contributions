@@ -498,6 +498,7 @@ Junior Schroh (https://github.com/JuniorSchroh)
 - Youssef08
 - kherhozen
 - Marbin Wong(wmarbin.github.io)
+- Pruthvi Bardolia
 - Pooja Singh
 - Izaroth (https://github.com/Izarothy)
 - Ameera Najah
