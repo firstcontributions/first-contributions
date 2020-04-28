@@ -364,6 +364,7 @@ mohit singh
 - [Juliette Tworsey] (https://github.com/firebuggirl)
 - Babak P.adam
 - [Shane Gable](https://github.com/gableshane)
+- [Bharat Kammakatla](https://github.com/bharatkammakatla)
 - William Goble
 - imemya19
 - Cameron Baird
