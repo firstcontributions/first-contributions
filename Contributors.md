@@ -42,6 +42,7 @@ Daniel Caesar
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
 - [cwoszczak] (https://github.com/cwoszczak)
+- [Luke KB](https://github.com/Luke-kb)
 - Adi Mazuz (https://github.com/Adimazuz)
 - Yosi A (https://github.com/echoen99)
 - [Juan M Huerta](https://github.com/JuanMHuerta)
