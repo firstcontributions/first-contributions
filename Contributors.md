@@ -166,6 +166,7 @@ mohit singh
 - subhadeep chatterjee
 - Saka Ricky
 - victore
+- [Nicholas Castle](https://github.com/Nicholas-Castle)
 -german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
