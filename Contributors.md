@@ -2706,6 +2706,7 @@ notForProffitt
 - [Josh Javier](https://github.com/joshjavier)
 - [Amy McGowan]
 - [Abhishek Jain](https://github.com/AbhishekJain2033)
+- [Walter Tay Ann Lee](https://github.com/watate)
 - [Raghavendra Dillikar]
 - [Jaroslava Secka]
 - [Jafrul Sadek Nabil](https://github.com/n4b1l007)
