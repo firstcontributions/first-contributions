@@ -1,4 +1,5 @@
 # Contributors
+- [Cory Jia] (https://github.com/coryjia)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
 - [albrah12]
