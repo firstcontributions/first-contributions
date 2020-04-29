@@ -18,6 +18,7 @@
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
 - [Kaeli Flanagan](https://github.com/kaelif)
 - [Johnny Tirado](https://github.com/jclocks)
+- [Aylin Arabadzhieva](https://github.com/aarabadjieva)
 - [Coding CEO](https://github.com/coding-CEO)
 - [Lauren Stephenson](https://github.com/CompSciLauren)
 - [Kelsey Rauber](https://github.com/klcsteeler)
