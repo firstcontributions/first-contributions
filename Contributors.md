@@ -40,6 +40,7 @@ Casey Jones
 - [Priya Patel](https://github.com/PRXYA)
 - [Cavasian](https://github.com/cavasian)
 - [Krzysztof Kruk](https://github.com/krukkrz)
+- [Cory Catherall](https://github.com/Tera15)
 - Sid
 - [iamvoyno](https://github.com/iamvoyno)
 - [Tatiana Faramarzi](https://github.com/tfaramar)
