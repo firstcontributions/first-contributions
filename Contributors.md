@@ -7,6 +7,7 @@
 -[Kiran Babu Muddam](https://github.com/kiranbabumuddam)]
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
+- Daniel
 - [adriancf-br] (https://github.com/adriancf-br)
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
