@@ -76,6 +76,7 @@ Ashi
 - Ryan King (https://github.com/RussianElmo)
 - Wanielton Ferreira (https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
+- [George Tian](https://https://github.com/georgetian3)
 - Guilherme Baufaker (https://github.com/baufaker)
 - [Meer Suri](https://github.com/meersuri)
 - [Cengiz Ucar] (https://github.com/ccengizucar)
