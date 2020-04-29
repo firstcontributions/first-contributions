@@ -14,7 +14,7 @@ Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä on
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Jos sinulla ei ole git asennettuna koneellesi, [asenna se.](https://help.github.com/articles/set-up-git/).
+Jos sinulla ei ole git asennettuna koneellesi, [asenna se](https://help.github.com/articles/set-up-git/).
 
 ## Forkkaa tämä repositorio
 
@@ -46,7 +46,7 @@ Kirjoita GitHub-käyttäjänimesi 'nimesi' teksin sijaan. Tämä komento kopioi 
 
 ## Luo branch
 
-Mene repositoriosi kansioon koneellasi (ellet jo ole sielä).
+Mene repositoriosi kansioon koneellasi (ellet jo ole siellä).
 
 ```
 cd first-contributions
@@ -108,22 +108,22 @@ Seuraavaksi suorita pull request.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
 
-Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen emailiisi kun muutokset ovat mergetty.
+Seuraavaksi mergeän muutoksesi tämän projektin master-branchiin. Tulet saamaan ilmoituksen sähköpostiisi kun muutokset ovat mergetty.
 
 ## Mihin seuraavaksi?
 
-Onneksi olkoon! Olet juuri suorittanut tavanomaisen *Fork -> Clone -> Edit -> Pull Request* työnkulun joka tulee vastaasi usein contribuoijana!
+Onneksi olkoon! Olet juuri suorittanut tavanomaisen *Fork -> Clone -> Edit -> Pull Request* -työnkulun joka tulee vastaasi usein kontribuoijana!
 
-Juhlista contribuutiotasi ja jaa se ystävillesi ja followereillesi menemällä [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Juhlista kontribuutiotasi ja jaa se ystävillesi ja followereillesi menemällä [Web Appiin](https://roshanjossey.github.io/first-contributions/#social-share).
 
 Voit liittyä Slack tiimiimme jos sinulla on kysyttävää. [Liity Slack tiimiin](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Jos haluaisit contribuoida muihin projekteihin, me olemme koonneet listan yksinkertaisista ensimmäisistä issueista työskenneltäväksesi. [Lista löytyy Web-Appistamme.](https://roshanjossey.github.io/first-contributions/#project-list).
+Jos haluaisit kontribuoida muihin projekteihin, me olemme koonneet listan yksinkertaisista ensimmäisistä issueista työskenneltäväksesi. [Lista löytyy Web-Appistamme](https://roshanjossey.github.io/first-contributions/#project-list).
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Lisämateriaaleja](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Muiden työkalujen tutoriaaleja
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
+|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
+|---|---|---|---|---|---|
+|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
