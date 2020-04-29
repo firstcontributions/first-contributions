@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Cory Jia] (https://github.com/coryjia)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
@@ -40,6 +40,7 @@ Casey Jones
 - [Cavasian](https://github.com/cavasian)
 - [Krzysztof Kruk](https://github.com/krukkrz)
 - Sid
+- [iamvoyno](https://github.com/iamvoyno)
 - [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
