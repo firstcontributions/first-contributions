@@ -12,6 +12,7 @@
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
 - [Kyle Horton](https://github.com/kylehorton33)
+- [Upamanyu Das](https://github.com/tintindas)
 - [Nicole](https://github.com/nicoleyyr)
 - [Amelia Milne] (https://github.com/meelszz)
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
