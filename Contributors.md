@@ -152,6 +152,7 @@ vsp0
 - Mathias Verboven (https://github.com/moci)
 -Zamey
 - TomoSakura
+- Jorge M.
 - [Yorman](https://github.com/yorstick17)
 - G.Nitish
 -Tatiana Nsei
