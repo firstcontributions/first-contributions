@@ -2657,6 +2657,7 @@ notForProffitt
 - [Baekhan Sung](https://github.com/mountwo23)
 - [Bedant]
 - [Antoine Huguet]
+- [Nishit Prasad] (https://github.com/nishit-prasad)
 - [Kseikyo](https://github.com/kseikyo)
 - [Isabel GPils](https://github.com/Isabelgpils)
 - [rdcs](https://github.com/riosdcs)
