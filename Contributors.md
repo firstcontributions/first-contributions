@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Cory Jia] (https://github.com/coryjia)
+- [Hrishikesh Bawane](https://github.com/hrishibawane)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
 - [albrah12]
