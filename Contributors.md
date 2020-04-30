@@ -3,6 +3,7 @@
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
 - [albrah12]
+- [Yirui Huang](https://github.com/yiruiHH)
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 -[Kiran Babu Muddam](https://github.com/kiranbabumuddam)]
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
