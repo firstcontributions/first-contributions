@@ -858,7 +858,7 @@ Deepika Padmanabhan
 - Abdulla Donmez(https://github.com/AColtZz)
 - Shivam Sharma [https://github.com/shivam0311]
 - Hrishikesh Shinde [https://github.com/Oathbreaker20]
-- Sanchit Mendiratta (https://github.com/sanchit-mendiratta)
+- Sanchit Mendiratta (https://github.com/sanchit-mendiratta) -Emmanuel Braxton (https://github.com/eggsoverezee) 
 - [Nikoleta Koleva] (https://github.com/ibexiae)
 - Sahil Patel (https://github.com/sahilpatel18)
 - [Travis Ricks](https://github.com/travisricks)
