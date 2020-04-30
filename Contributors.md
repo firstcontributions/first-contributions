@@ -7433,6 +7433,7 @@ Aman Panjwani
 - Shlok Agarwal
 - Jelena Golova
 - [AngeredZeus](https://github.com/AngeredZeus)
+- [Tom Archer](https://github.com/greyhairandglasses)
 - [Peter R](https://github.com/peterr101)
 - Tyler Clark
 - [Chase Terry](https://github.com/cdterry87)
