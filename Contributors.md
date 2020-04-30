@@ -231,6 +231,7 @@ mohit singh
 - [Pablo Reyes](https://github.com/PabloRN)
 - [Trish Spraggins](https://github.com/PSpraggins)
 - Christina Schweipert (https://github.com/cschweipert)
+- [Vahe Yavrumian] (https://github.com/yavrumian)
 - [Milan Chheta](https://github.com/milanchheta)
 - Will Chen
 - Marcus Bell
