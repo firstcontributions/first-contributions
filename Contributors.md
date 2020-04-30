@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Cory Jia] (https://github.com/coryjia)
 - [Hrishikesh Bawane](https://github.com/hrishibawane)
@@ -19632,6 +19632,7 @@ macdara-dev
 - [Virag Umathe](https://github.com/viragumathe5)
 - [Kyle Morris](https://github.com/assimil0)
 - [Murphy Yip](https://github.com/mfmyip)
+- [Christopher O'Driscoll] (https://github.com/odris013)
 - [Ezechio](https://github.com/ezechio)
 - [Lily Chen](https://github.com/liliburg711)
 - [Cameron Faust](https://github.com/CameronAFaust)
