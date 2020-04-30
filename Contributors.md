@@ -21365,3 +21365,4 @@ rehan
 - [Raghuveer Adari] (https://github.com/raghuadari)
 - [Leonardo Rochedo](https://github.com/Learnir)
 - [Dave Winters] (https://github.com/cetaus)
+- [Alex Magill] (https://github.com/alexmagill)
