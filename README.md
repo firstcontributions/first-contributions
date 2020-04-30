@@ -57,7 +57,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇸🇪](translations/README.se.md)
 [:slovakia:](translations/README.slk.md)
 [:slovenia:](translations/README.sl.md)
-[🇹🇦](translations/README.ta.md)
+[🇮🇳](translations/README.ta.md "தமிழ்")
 [🇹🇭](translations/README.th.md)
 [🇹🇷](translations/README.tr.md)
 [🇹🇼](translations/README.cht.md)
