@@ -184,6 +184,7 @@ mohit singh
 - subhadeep chatterjee
 - Saka Ricky
 - victore
+- [GenerousBawls] (https://github.com/generousbawls)
 - [Nicholas Castle](https://github.com/Nicholas-Castle)
 -german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
