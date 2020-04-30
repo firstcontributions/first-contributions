@@ -15,6 +15,7 @@
 - [Kyle Horton](https://github.com/kylehorton33)
 - [Upamanyu Das](https://github.com/tintindas)
 - [Nicole](https://github.com/nicoleyyr)
+- [Mysterio-18] (https://github.com/Mysterio-18)
 - [Amelia Milne] (https://github.com/meelszz)
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
 - [Kaeli Flanagan](https://github.com/kaelif)
