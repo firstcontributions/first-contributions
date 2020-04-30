@@ -75,6 +75,7 @@ vsp0
 -Zamey
 - TomoSakura
 - [Yorman](https://github.com/yorstick17)
+- [arctdav](https://github.com/arctdav)
 - G.Nitish
 -Tatiana Nsei
 - Abhinav Pratik (https://github.com/pratikabhinav)
