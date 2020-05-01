@@ -11,6 +11,7 @@
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - Daniel
+- [kimyongkuk](https://github.com/k0603156)
 - [adriancf-br] (https://github.com/adriancf-br)
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
