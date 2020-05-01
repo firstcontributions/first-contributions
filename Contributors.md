@@ -174,6 +174,7 @@ vsp0
 - [Macky Ben Jonah](https://github.com/Mackyboy12/)
 mohit singh
 - Harshit sharma
+- Tomasz Pawlowski
 - Talhah Patelia
 - Jana Jarolimova
 - benhill
