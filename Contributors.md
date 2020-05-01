@@ -8212,6 +8212,7 @@ Aman Panjwani
 - Daredevil Geek
 - Shaan
 - [Gowshik Prakahs](https://github.com/xDeltah)
+- [Thalhatou Yahya](https://github.com/thalhatou)
 - [Supreet Kaur](https://github.com/supreet-kaur93)
 - [msyakir](https://github.com/Msyakir)
 - [myth.ren](https://github.com/MythRen)
