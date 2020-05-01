@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="இந்த repository ஐ fork செய்யவும்" />
 
-உங்கள் கணினிியில் git இல்லை என்றால், [install செய்யவும்](https://help.github.com/articles/set-up-git/).
+உங்கள் கணினியில் git இல்லை என்றால், [install செய்யவும்](https://help.github.com/articles/set-up-git/).
 
 ## இந்த repository ஐ fork செய்தல்
 
@@ -43,7 +43,7 @@ git clone "நீங்கள் copy செய்த url"
 git clone https://github.com/இது நீங்கள்/first-contributions.git
 ```
 
-இங்கு `இது நீங்கள்` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் Github கணக்கில் செயட்படுத்துகிறீர்கள். 
+இங்கு `இது நீங்கள்` என்பது GitHub username என்பதாகும். இதன் மூலம் நீங்கள் first-contributions repository இன் பிரதி ஒன்றை உங்கள் GitHub கணக்கில் செயட்படுத்துகிறீர்கள். 
 
 ## கிளையொன்றை  உருவாக்குதல்
 
