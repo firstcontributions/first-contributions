@@ -2133,6 +2133,7 @@ Joseph Tran
 - [Nicholas O'Kelley](https://github.com/OkelleyDevelopment)
 - [ymrz]
 - [Jonathan Troy]
+- [Tommy Lombardo](https://github.com/tomster902)
 - [Amanda Rodger](https:;//github.com/AARodgers)
 - [Teresa Livriero](https://github.com/teresa-livriero)
 - [Nicolas Pin](https://github.com/pythareme)
