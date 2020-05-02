@@ -433,6 +433,7 @@ mohit singh
 - Sami L.
 - Nate
 - Craig Wyse
+- Bartek R
 - Shreyas PJ
 - Tuncer Tunçer
 - [Sanchit Pandey](https://github.com/sanchitpandey)
