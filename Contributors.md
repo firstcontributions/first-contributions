@@ -38,6 +38,7 @@
 - [Davied Stein]
 - [Jolene Ng] (https://github.com/jolenenjy)
 - [Xia Liu] (https://github.com/lxlyp438)
+- [Rajendra Pragadareddi](https://github.com/rajendra-pragadareddi)
 - [Rishabh Bajaj] (https://github.com/RishabhBajaj97)
 Daniel Caesar
 Casey Jones
