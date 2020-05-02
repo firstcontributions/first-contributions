@@ -123,6 +123,7 @@ Griffin Cosgrove
 - [Sandip Dust](https://github.com/SandipDust)
 - [Rishit Pandey] (httpss://github.com/RishitPandey)
 - [William Chan](https://github.com/willie3838)
+- [Kazeem Adetunji](https://github.com/ogbeche77)
 - [Shams Kasozi](https://github.com/Shams-kasozi)
 - [Aristeidis Tomaras](https://github.com/saavedra29)
 - Sarah Rose 
