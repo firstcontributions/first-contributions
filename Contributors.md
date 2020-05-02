@@ -7734,6 +7734,7 @@ Aman Panjwani
 - [Vast Peng](https://github.com/keatingsmith)
 - [Vikki111](https://github.com/Vikki111)
 - [Archit Singla](https://github.com/architsingla13)
+- [Nick 2]
 - [Sourabh Tripathi](https://github.com/Sourabhtripathi)
 - [Julie Martin](https://github.com/juliebugmtl)
 - [Nitin Suresh](https://github.com/aqurilla)
