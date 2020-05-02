@@ -74,6 +74,7 @@ Casey Jones
 - [Abdullahi Aliyu Musa](https://github.com/abdoullfurya)
 Graham (https://github.com/thefullnelson)
 - [CoffeePoweredComputers](https://github.com/CoffeePoweredComputers)
+- [Arsh Sharma](https://github.com/RinkiyaKeDad)
 - [Zeronfinity](https://github.com/Zeronfinity)
 - [Abhishek Sharma](https://github.com/abhishekshrm53)
 - [Beth-19](https://github.com/Beth-19)
