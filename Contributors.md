@@ -7738,6 +7738,7 @@ Aman Panjwani
 - [Julie Martin](https://github.com/juliebugmtl)
 - [Nitin Suresh](https://github.com/aqurilla)
 - [Saul Barros](https://github.com/dsbsaul)
+- [Nick Langer](https://github.com/NickLanger1990)
 - [Sumanth Kumar Nayak](https://github.com/sumanth0904)
 - [ABDulgaphy](https://github.com/abdulgaphy)
 - [Shawn Flores](https://github.com/priultimus)
