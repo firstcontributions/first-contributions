@@ -12093,6 +12093,7 @@ macdara-dev
 - [Randall Whitlock](https://github.com/randallwhitlock)
 - [charlesmonson](https://github.com/charlesmonson)
 - [scaperex](https://github.com/scaperex)
+- [Eyal Azulay](https://github.com/eazulay)
 - [imyrfield](https://github.com/imyrfield)
 - [Rahul R](https://github.com/RahulR19)
 - [melisaim](https://github.com/MelisaIm)
