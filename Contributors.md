@@ -70,6 +70,7 @@ Casey Jones
 - [Rodrigo Santos](https://github.com/rdgSantos-js)
 - [Nola Smith] (https://github.com/SmithNola)
 - [githubbuch](https://github.com/githubbuch)
+- [Allan Bruno](https://github.com/allanbrunorj)
 - My name is Slim Shady
 -Sai Jayakeerthi
 - [zain ahmed] (https://github.com/zainbinfurqan)
