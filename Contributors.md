@@ -27,6 +27,7 @@
 - [Coding CEO](https://github.com/coding-CEO)
 - [Lauren Stephenson](https://github.com/CompSciLauren)
 - [Kelsey Rauber](https://github.com/klcsteeler)
+-AtomicSamurai
 - [hyojun Kim](https://github.com/nandong1104)
 - [Guy Shur](https://github.com/guyshur)
 - [Paulo Farias](https://github.com/paulovgf)
