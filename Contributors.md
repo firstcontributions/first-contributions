@@ -333,6 +333,7 @@ mohit singh
 - [Yanny Thompson] (https://github.com/yanco9a)
 - Sachin Hegde
 - Nana Kwame (<https://github.com/Kwame007)>
+- [Hazhir Derakhshi](https://github.com/volfgox)
 - čingimingi
 - Ilay David Almalem
 - kyuhyunlee
