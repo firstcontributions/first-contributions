@@ -832,6 +832,7 @@ Derek Leach
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
 - Red Starfish
 - [Salman Zafar](https://github.com/maanizfar)
+- Mateusz Magulski(https://github.com/mateuszmagulski) 
 - Coco Lin (https://github.com/cocolin041)
 - Aleksander Altmäe (https://github.com/AleksanderAlt)
 - Prayag Desale(https://github.com/prayagd)
