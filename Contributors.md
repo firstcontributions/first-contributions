@@ -21273,6 +21273,7 @@ rehan
 - [Augusto Cruz](https://github.com/augusto-cruz)
 - [Wojciech Kowanski](https://github.com/KowanskiWojciech)
 - [Kunal Patrikar](https://github.com/kunalpat25)
+- Tugdual Kerjan
 - [Abhishek Naswale] (https://github.com/abhinaswale)
 - [Willy Enrique](https://github.com/wilenrq16)
 - [Turbinya](https://github.com/Turbinya)
