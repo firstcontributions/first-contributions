@@ -206,6 +206,7 @@ mohit singh
 - victore
 - [GenerousBawls] (https://github.com/generousbawls)
 - [Nicholas Castle](https://github.com/Nicholas-Castle)
+- Madhav G
 -german 
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
