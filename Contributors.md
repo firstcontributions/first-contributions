@@ -5967,6 +5967,7 @@ Noam Taub
 - [Akshat Mittal](https://github.com/akshatmittal19)
 - [Dreyah](https://github.com/dreyahcodes)
 - [Angry Chum](https://github.com/AngryChum)
+- [Adam Stelmaszyk](https://github.com/adamstelmaszyk)
 - fabbellotti
 - [Yann Claude](https://github.com/yannclaude2)
 - [David Tran](https://github.com/dhtran91/)
