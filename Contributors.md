@@ -75,7 +75,6 @@ Casey Jones
 - [Allan Bruno](https://github.com/allanbrunorj)
 - [Mohsin Ul Islam](https://github.com/Mohsin-Ul-Islam)
 - My name is Slim Shady
-- [Gihan Maarasingha] (https://github.com/gihanmarasingha)
 -Sai Jayakeerthi
 - [zain ahmed] (https://github.com/zainbinfurqan)
 - [saish naik] (https://github.com/SaishNaik)
