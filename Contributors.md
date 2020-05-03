@@ -21273,6 +21273,7 @@ rehan
 - [Imam Ihsan] (https://github.com/imamihsaan)
 - [Jiajun Guo] (https://github.com/gkaku)
 - Sandeep Reddy!
+- [shaocong shi] (https://github.com/nemo0433)
 - [Muhammed OKUR] (https://github.com/okursoftware)
 - [Zach Heller](https://github.com/zacheller)
 - [A. Frank](https://github.com/af608)
