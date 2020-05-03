@@ -872,6 +872,7 @@ Deepika Padmanabhan
 - Aviv Eldan (https://github.com/aviveldan)
 - Ben Soderholm (https://github.com/ben-sod)
 - Joe Sardini (https://github.com/Joe-Sardini/first-contributions)
+- joehink (https://github.com/joehink)
 - Kevin Joseph (https://github.com/devilsangel)
 - Floyd Askew (https://github.com/MrAskew)
 - Sachi Grannan (https://github.com/sachix1001)
