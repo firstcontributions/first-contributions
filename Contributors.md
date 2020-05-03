@@ -14029,6 +14029,7 @@ macdara-dev
 - [Tristan Sweet](https://github.com/sweet7799)
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
+- [Revaz Meishvili](https://github.com/Rezga12)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
 - [Matt Steadman](https://github.com/mattsteadman)
 - [Jarl](https://github.com/Biograf)
