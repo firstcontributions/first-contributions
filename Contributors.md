@@ -16771,6 +16771,7 @@ macdara-dev
 - [Prawit Boonthue](https://github.com/cantacoop)
 - [Param](https://github.com/Param999)
 - [watzki](https://github.com/watzki)
+- [Nico Verboven](https://github.com/nverboven)
 - [Chandan Hegde](https://github.com/goliathbirdeater178)
 - [Kudzai V](https://github.com/kudzaidotnet)
 - [Stephen Under](https://github.com/stephenunder)
