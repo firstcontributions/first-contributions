@@ -16,6 +16,7 @@
 - [RECturtle](https://github.com/RECturtle)
 - [kimyongkuk](https://github.com/k0603156)
 - [adriancf-br] (https://github.com/adriancf-br)
+- [Aaryamann Challani](https://github.com/aaryamannchallani)
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
 - [Kyle Horton](https://github.com/kylehorton33)
