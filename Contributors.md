@@ -32,6 +32,7 @@
 - [Amelia Milne] (https://github.com/meelszz)
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
 - [Kaeli Flanagan](https://github.com/kaelif)
+- [Arpit Falcon](https://github.com/arpitfalcon)
 - [Johnny Tirado](https://github.com/jclocks)
 - [Aylin Arabadzhieva](https://github.com/aarabadjieva)
 - [Coding CEO](https://github.com/coding-CEO)
