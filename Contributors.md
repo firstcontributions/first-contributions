@@ -16,6 +16,7 @@
 - [Rodrigo]
 - Daniel
 -bleee
+- [Muhammad Adeel Hussain] (https://github.com/Adeel-logiciel)
 - [YudeMgoy](https://github.com/yudemgoy)
 - [RECturtle](https://github.com/RECturtle)
 - [kimyongkuk](https://github.com/k0603156)
