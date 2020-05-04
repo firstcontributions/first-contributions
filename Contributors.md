@@ -50,6 +50,7 @@
 - [Luiz Borba](https://github.com/lborba)
 - [motorjunkie] (https://github.com/akashsonth)
 - [Davied Stein]
+- [Da-kota]
 - [Jolene Ng] (https://github.com/jolenenjy)
 - [Xia Liu] (https://github.com/lxlyp438)
 - [Rajendra Pragadareddi](https://github.com/rajendra-pragadareddi)
