@@ -14,6 +14,7 @@
 - [Rodrigo]
 - Daniel
 -bleee
+- [YudeMgoy](https://github.com/yudemgoy)
 - [RECturtle](https://github.com/RECturtle)
 - [kimyongkuk](https://github.com/k0603156)
 - [adriancf-br] (https://github.com/adriancf-br)
