@@ -87,6 +87,7 @@ Casey Jones
 -Sai Jayakeerthi
 - [zain ahmed] (https://github.com/zainbinfurqan)
 - [saish naik] (https://github.com/SaishNaik)
+- [Wellington Mekhoe](https://github.com/Motswako)
 -Chirag Sharma
 - [Abdullahi Aliyu Musa](https://github.com/abdoullfurya)
 Graham (https://github.com/thefullnelson)
