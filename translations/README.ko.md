@@ -125,7 +125,7 @@ git push origin <add-your-name>
 
 ## 이제 무엇을 하나요?
 
-여러분의 첫 기여를 축하합니다. 이제 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)으로 이동하여 친구 및 팔로워와 공유하십시오.
+여러분의 첫 기여를 축하드립니다. 이제 [웹 앱](https://roshanjossey.github.io/first-contributions/#social-share)으로 이동하여 친구 및 팔로워와 공유하십시오.
 
 도움이 필요하거나 질문이 있을 경우, 우리의 slack 팀에 합류할 수 있습니다. [slack 팀 가입하기](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
