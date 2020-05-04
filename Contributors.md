@@ -1,5 +1,6 @@
 # Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
+- [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
 - [Hrishikesh Bawane](https://github.com/hrishibawane)
 - [Vivek](https://github.com/vivek32ta)
