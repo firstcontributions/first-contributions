@@ -25,6 +25,7 @@
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
 - [Kyle Horton](https://github.com/kylehorton33)
+- [Haley Ramirez] (https://github.com/haleylikesrocks) 
 - [Mustafa Ay](https://github.com/muzzyay)
 - [Upamanyu Das](https://github.com/tintindas)
 - [Nicole](https://github.com/nicoleyyr)
