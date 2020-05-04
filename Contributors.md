@@ -1,6 +1,9 @@
 # Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
+- [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
+- [Mohammad Namvarpour](https://github.com/IamMamad)
+- [Kyle Hawkins](https://github.com/osidekyle)
 - [Hrishikesh Bawane](https://github.com/hrishibawane)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
@@ -13,6 +16,7 @@
 - [Rodrigo]
 - Daniel
 -bleee
+- [YudeMgoy](https://github.com/yudemgoy)
 - [RECturtle](https://github.com/RECturtle)
 - [kimyongkuk](https://github.com/k0603156)
 - [adriancf-br] (https://github.com/adriancf-br)
@@ -20,6 +24,7 @@
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
 - [Kyle Horton](https://github.com/kylehorton33)
+- [Mustafa Ay](https://github.com/muzzyay)
 - [Upamanyu Das](https://github.com/tintindas)
 - [Nicole](https://github.com/nicoleyyr)
 - [Mysterio-18] (https://github.com/Mysterio-18)
@@ -334,6 +339,7 @@ mohit singh
 - [Yanny Thompson] (https://github.com/yanco9a)
 - Sachin Hegde
 - Nana Kwame (<https://github.com/Kwame007)>
+- [Hazhir Derakhshi](https://github.com/volfgox)
 - čingimingi
 - Ilay David Almalem
 - kyuhyunlee
@@ -832,6 +838,7 @@ Derek Leach
 - Sreemoyee Chowdhury (https://github.com/haikubabe)
 - Red Starfish
 - [Salman Zafar](https://github.com/maanizfar)
+- Mateusz Magulski(https://github.com/mateuszmagulski) 
 - Coco Lin (https://github.com/cocolin041)
 - Aleksander Altmäe (https://github.com/AleksanderAlt)
 - Prayag Desale(https://github.com/prayagd)
@@ -2084,6 +2091,7 @@ Joseph Tran
 - [ShaileshDhama](https://github.com/ShaileshDhama)
 - [Sandrico Provo: 👨🏾‍💻](https://github.com/sandricoprovo)
 - [No Name Girl]
+- [Tankred](https://github.com/tankred)
 - [Tankred Ott](https://github.com/TankredO)
 - [Deepak Honakeri](https://github.com/deepakHonakeri05)
 - [Natalia Favareto](https://github.com/nfavareto)
@@ -10180,6 +10188,7 @@ Aman Panjwani
 - [archerkg](https://github.com/archerkg)
 - [Shubham jha ](https://github.com/whoami-shubham)
 - [Nikhil Shridhar]
+- [Carlos De Gracia](https://github.com/carlosdegraciar)
 - [Joker Wang](https://github.com/DongchengWang)
 - [Michael Wojtas](https://github.com/Sewq)
 - [Virginia Balseiro](https://github.com/VirginiaBalseiro)
@@ -14029,6 +14038,7 @@ macdara-dev
 - [Tristan Sweet](https://github.com/sweet7799)
 - [Louis Payne](https://github.com/louispayne10)
 - [Amin Limbada](https://github.com/loxator)
+- [Revaz Meishvili](https://github.com/Rezga12)
 - [Rajarshi Ghoshal](https://github.com/rajarshighoshal)
 - [Matt Steadman](https://github.com/mattsteadman)
 - [Jarl](https://github.com/Biograf)
@@ -14863,6 +14873,7 @@ macdara-dev
 - [Homero Marin](https://github.com/homero304)
 - [staysee](https://github.com/staysee)
 - [dwino](https://github.com/dwino)
+- [Gihan Marasingha] (https://github.com/gihanmarasingha)
 - [Gabriel Lechenco](https://github.com/lechenco)
 - [Gabriel Dain](https://github.com/gabrieldain)
 - [Nikhil Bhatewara](https://github.com/nikhilbhatewara)
@@ -20936,6 +20947,7 @@ rehan
 - [Sandy Goodnews](https://github.com/sandygudie)
 - [Joe G](https://github.com/gleitej)
 - [BluScrn](https://github.com/Bluscrn)
+- [Ronnie Moncayo](https://github.com/ronniemh)
 - [Hamed Omar]aka[Kevin Omar]
 - [Rubens Saraiva](https://github.com/rsaraiva)
 - [Shashant Nagpure](https://github.com/ShashantNagpure)
@@ -21289,6 +21301,7 @@ rehan
 - [Mengjia LYU]  (https://github.com/YumekaMengjiaLYU)
 - [Yang Fan] (https://github.com/BachelorDog)
 - [Yionr] (https://github.com/Yionr)
+- [John Ferguson] (https://github.com/johncferguson)
 - [llllIIIIllll] (https://github.com/llllIIIIllll/)
 - [wwhurin](https://github.com/johndoe)
 - [Benjamin Schichtholz](https://github.com/benlayerwood)
@@ -21421,3 +21434,6 @@ rehan
 - [Gene74] (https://github.com/Gene74)
 - [Paula Deville](https://github.com/pauladeville)
 - [Rahul Joshi](https://github.com/mrjoshi0147)
+- [Joseph Betts](https://github.com/JBetts97)
+- [Mudit Saraf] (https://github.com/sarafmudit)
+- [adrin425] (https://github.com/adrin425)
