@@ -21137,7 +21137,7 @@ rehan
 - [Heron Zhang](https://github.com/HeronZhang)
 - [Minal Ashfaq](https://minal15.github.io/)
 - [Ed Einfeld] (https://github.com/edfeld)
-- <Paul Ray> {https://github.com/PaulXchange}
+- [Paul Ray] (https://github.com/PaulXchange/)
 - [Takuya Suemura](https://github.com/tsuemura)
 - [Robert Young](https://github.com/robertyoung2)
 - Daniel Codrea (https://github.com/danielcodrea)
@@ -21420,3 +21420,4 @@ rehan
 - [Kedar Rudrawar](https://github.com/kedarrudrawar)
 - [Gene74] (https://github.com/Gene74)
 - [Paula Deville](https://github.com/pauladeville)
+- [Rahul Joshi](https://github.com/mrjoshi0147)
