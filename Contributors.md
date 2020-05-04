@@ -21436,3 +21436,4 @@ rehan
 - [Joseph Betts](https://github.com/JBetts97)
 - [Mudit Saraf] (https://github.com/sarafmudit)
 - [adrin425] (https://github.com/adrin425)
+- [Rui Seabra] (https://github.com/seabrarui)
