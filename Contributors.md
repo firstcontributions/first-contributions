@@ -15,6 +15,7 @@
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - Daniel
+- [Rafael Faria] (https://github.com/rafaelsfaria)
 -bleee
 - Saarvani
 - [Muhammad Adeel Hussain] (https://github.com/Adeel-logiciel)
