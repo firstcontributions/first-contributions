@@ -13013,6 +13013,7 @@ macdara-dev
 - [Sait Gulmez](https://github.com/saitgulmez)
 - [Hari Kuduva](https://github.com/sriharikuduva)
 - [Kinsey Favre](https://github.com/kinstalinist)
+- [koanx](https://github.com/koanx)
 - [Taylor Prescott](https://github.com/taycott3)
 - [Dmitriy V](https//github.com/VoronD)
 -   Rohan Das
