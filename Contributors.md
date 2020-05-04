@@ -3,6 +3,7 @@
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
 - [Mohammad Namvarpour](https://github.com/IamMamad)
+- [Kyle Hawkins](https://github.com/osidekyle)
 - [Hrishikesh Bawane](https://github.com/hrishibawane)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
