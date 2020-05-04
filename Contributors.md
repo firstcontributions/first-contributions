@@ -142,6 +142,7 @@ Griffin Cosgrove
 - Sarah Rose 
 - Abby Davidow
 - Arpit Jain [https://github.com/calvincodes]
+- [pwielgus] (https://github.com/pwielgus)
 - Cullen Dolan [https://github.com/cullendolan]
 - [Lukesheep](https://github.com/lukesheep)
 - Dracula Tepes
