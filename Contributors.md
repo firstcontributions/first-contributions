@@ -2103,6 +2103,7 @@ Joseph Tran
 - [Natalia Favareto](https://github.com/nfavareto)
 - [Ashish Bhusal](https://github.com/bhusalashish)
 - [Arushi Jain](https://github.com/arushi-16)
+- [David Polefrone](https://github.com/dpolefrone)
 - [Alec Magnani](https://github.com/alecmagnani)
 - [Jordan Villanueva](https://github.com/joyous30)
 - [Indrani Biswas](https://github.com/biswain2309)
