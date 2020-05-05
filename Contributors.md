@@ -1437,6 +1437,7 @@ Hannah Cusworth (https://github.com/Bewick225)
 - [Ariel Herrera](https://github.com/arielherrera)
 - [Naomi Bonnin] (https://github.com/naomi172839)
 - [LVZ]
+- [Luis Rubio] (https://github.com/Lu-77)
 - [Stefan Niedermayr] (https://github.com/stefan-niedermayr/)
 - [poxiao2]
 - [Maciej Nachtygal](https://github.com/macieyn)
