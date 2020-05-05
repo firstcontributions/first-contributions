@@ -15,6 +15,7 @@
 - [albrah12]
 - Neha
 - Ayush Garg (IIT DELHI)
+- [Aneesh Mistry](https://github.com/4neesh) 
 - [Yirui Huang](https://github.com/yiruiHH)
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 -[Kiran Babu Muddam](https://github.com/kiranbabumuddam)]
