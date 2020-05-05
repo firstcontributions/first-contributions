@@ -9997,6 +9997,7 @@ Aman Panjwani
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
 - [Muhammad Fawwaz / abuuzayr](https://github.com/abuuzayr)
+- [Xiaotong He / xhe23](https://github.com/xhe23)
 - [Shahe Ansar](https://github.com/ShaheAnsar)
 - [Shadrach Jakes](https://github.com/ShadrachJ)
 - [Stan Lud](https://github.com/StanislasL)
