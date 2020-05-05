@@ -181,6 +181,7 @@ Griffin Cosgrove
 vsp0
 - Vadimskyi (https://github.com/eXiz7)
 - ZemaBlue
+- Dilip Kharel
 - John Mack
 - Noorul
 - Yellow Stevens (https://github.com/yellow-stevens23)
