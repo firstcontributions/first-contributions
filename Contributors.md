@@ -159,6 +159,7 @@ Griffin Cosgrove
 - [pwielgus] (https://github.com/pwielgus)
 - Cullen Dolan [https://github.com/cullendolan]
 - [Lukesheep](https://github.com/lukesheep)
+  [HalisKara](https://github.com/bllhlskr)
 - Dracula Tepes
 - Dhiraj Das(https://github.com/godhiraj-code)
 - [tempixtl](https://github.com/tempixtl)
