@@ -10,6 +10,7 @@
 - [Mohammed Yuns](https://github.com/Yunus0497)
 - [albrah12]
 - Neha
+- Ayush Garg (IIT DELHI)
 - [Yirui Huang](https://github.com/yiruiHH)
 -[Kushal Bhanot](https://github.com/KushalBhanot)]
 -[Kiran Babu Muddam](https://github.com/kiranbabumuddam)]
