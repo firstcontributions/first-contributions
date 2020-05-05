@@ -66,6 +66,7 @@ Casey Jones
 - [Priya Patel](https://github.com/PRXYA)
 - [Cavasian](https://github.com/cavasian)
 - [Krzysztof Kruk](https://github.com/krukkrz)
+- [goddrinksjava](https://github.com/goddrinksjava/)
 - [Cory Catherall](https://github.com/Tera15)
 - Sid
 - [iamvoyno](https://github.com/iamvoyno)
