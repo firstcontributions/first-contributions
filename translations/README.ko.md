@@ -99,7 +99,7 @@ git commit -m "Add <Your-name> to Contributors list"
 
 `<Your-name>`을 당신의 이름으로 바꾸세요.
 
-## 변경사항을 깃허브에 푸시하기
+## 변경사항을 깃허브에 push하기
 
 `git push` 명령으로 변경사항을 푸시합니다.
 
