@@ -1,5 +1,6 @@
 # Contributors
 -[Chaitanya Tanga](https://github.com/chaitanyatanga)
+-[Ahmed Abdulkareem Rezik](https://github.com/ahmedrezik)
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
