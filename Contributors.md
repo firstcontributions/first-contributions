@@ -188,6 +188,7 @@ Griffin Cosgrove
 - Minhajul Alam (https://github.com/minhajulalamcse)
 vsp0
 - Vadimskyi (https://github.com/eXiz7)
+- [appie](https://github.com/abdalla-rko)
 - ZemaBlue
 - Dilip Kharel
 - John Mack
