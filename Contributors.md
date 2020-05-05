@@ -9722,6 +9722,7 @@ Aman Panjwani
 - [Thomas Joaquini](https://github.com/tjoaquini)
 - [Vadim Shestopalov](https://github.com/vchulski)
 - [vamshi aruru](https://github.com/vamshiaruru)
+- [Joon Kim](https://github.com/doku2684)
 - [tksunw](https://github.com/tksunw)
 - [Renata Gizzi](https://github.com/RenataGizzi)
 - [Harry Waugh](https://github.com/hw16471)
