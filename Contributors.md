@@ -25,6 +25,7 @@
 - Daniel
 - [Jacek](https://github.com/iamjacek)
 -bleee
+- Allen Zhang (https://github.com/capitalallen)
 - Saarvani
 - [M Sai Anurag](https://github.com/avayer)
 - Shivani (https://github.com/Shivani-Goud)
