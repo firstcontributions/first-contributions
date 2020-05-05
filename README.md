@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 [:bangladesh:](translations/README.bn.md)
 [🇧🇬](translations/README.bg.md)
-[🇧🇷](translations/README.pt_br.md)
+[<img src="assets/brazil.png" width="22">](translations/README.pt_br.md)
 [<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇨🇳](translations/README.chs.md)
 [🇨🇿](translations/README.cs.md)
