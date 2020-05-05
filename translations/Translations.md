@@ -32,7 +32,7 @@
 | 🇬🇷 | [ελληνικά](README.gr.md) |
 | العربية | [العربية](README.ar.md) |
 | 🇺🇦 | [Українська](README.ua.md) |
-| 🇧🇷 | [Português (Brasil)](README.pt_br.md) |
+| <img src="../assets/brazil.png" width="22"> | [Português (Brasil)](README.pt_br.md) |
 | 🇵🇹 | [Português (Portugal)](README.pt-pt.md) |
 | 🇮🇹 | [Italiano](README.it.md)
 | 🇹🇭 | [ภาษาไทย](README.th.md) |
