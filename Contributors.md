@@ -60,6 +60,7 @@
 - [Rishabh Bajaj] (https://github.com/RishabhBajaj97)
 Daniel Caesar
 Casey Jones
+Brighton Dube
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Andrew Cramp](https://github.com/AndrewCramp)
 - [Ashish S](https://github.com/lazy-revolution)

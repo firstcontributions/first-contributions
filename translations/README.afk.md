@@ -3,16 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-
 # Eerste Bydraes
 
 Dit is moeilik. Dit is altyd moeilik om die eerste keer iets te doen. Veral wanneer jy saamwerk, maak foute nie 'n gemaklike ding nie. Ons wou die manier waarop nuwe open source bydraers vir die eerste keer leer en bydra, vereenvoudig.
 
 Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die praktyk te doen? Hierdie projek het ten doel om leiding te gee en die manier waarop beginners hul eerste bydrae maak, te vereenvoudig. As jy jou eerste bydrae wil maak, volg die onderstaande stappe.
 
-#### *As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.]( #tutorials-using-other-tools )*
+#### _As jy nie gemaklik is met die opdraglyn nie, [is daar tutoriale wat GUI-instrumente gebruik.](#tutorials-using-other-tools)_
 
-#### *Lees dit in [ander tale .](translations/Translations.md).*
+#### _Lees dit in [ander tale .](translations/Translations.md)._
 
 [🇮🇳](translations/README.hi.md)
 [🇲🇲](translations/README.mm_unicode.md)
@@ -58,11 +57,9 @@ Lees artikels en kyk tutoriale kan help, maar wat is beter as om die goed in die
 [🇰🇪](translations/README.kws.md)
 [🇳🇬](translations/README.igb.md)
 
-
-
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-As jy nie git op jou masjien het nie, [installeer dit]( https://help.github.com/articles/set-up-git/).
+As jy nie git op jou masjien het nie, [installeer dit](https://help.github.com/articles/set-up-git/).
 
 ## Vork hierdie bewaarplek
 
@@ -74,7 +71,7 @@ Vork hierdie repo deur op die vurk knoppie bo-aan hierdie bladsy te klik. Dit sa
 
 Klone nou die vurk repo aan jou masjien. Gaan na jou GitHub-rekening, maak die vurk repo oop, klik op die kloonknop en klik dan op die kopie na die knipbord- ikoon.
 
-Open 'n terminaal en voer die volgende git opdrag uit:
+Maak oop 'n terminaal en voer die volgende git opdrag uit:
 
 ```
 git clone "url you just copied"
@@ -121,7 +118,6 @@ Nou oop `Contributors.md` lêer in 'n teksredigeerder, voeg jou naam daarby. Moe
 <img align="right" width="450" src="../assets/git-status.png" alt="git status" />
 
 As u na die projekgids gaan en die opdrag uitvoer `git status`, sal u sien dat daar veranderinge is.
-
 
 Voeg die veranderinge by die tak wat jy net geskep het deur die `git add` opdrag te gebruik:
 
@@ -171,7 +167,6 @@ Kom ons begin met die bydrae tot ander projekte. Ons het 'n lys van projekte saa
 
 ### [Bykomende materiaal](additional-material/git_workflow_scenarios/additional-material.md)
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
-|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visuele Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visuele Studio Kode](github-windows-vs-code-tutorial.md)|
-
+| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](github-desktop-tutorial.md)                                                                                             | [Visuele Studio 2017](github-windows-vs2017-tutorial.md)                                                                                                                             | [GitKraken](gitkraken-tutorial.md)                                                                | [Visuele Studio Kode](github-windows-vs-code-tutorial.md)                                                                                                                 |
