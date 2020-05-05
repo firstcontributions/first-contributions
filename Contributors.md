@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
@@ -340,6 +340,7 @@ mohit singh
 - [Johan Rin](https://github.com/johanrin)
 - Aman Thapliyal
 - Efthymia Kostaki
+- Bruno Pezer (https://github.com/RiffLord/)
 - Domingo Sanchez
 - Luciano Aguerre
 - Siji Bamgboyee
