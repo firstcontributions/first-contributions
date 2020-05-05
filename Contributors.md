@@ -21452,3 +21452,4 @@ rehan
 - [Rui Seabra] (https://github.com/seabrarui)
 - [Milos Ilic] (https://github.com/MilosIl)
 - [Matthew Apuya] (https://github.com/mapuya19)
+- [Diego Sousa] (https://github.com/diegosousaDev)
