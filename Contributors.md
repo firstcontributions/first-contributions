@@ -3,6 +3,7 @@
 -[Ahmed Abdulkareem Rezik](https://github.com/ahmedrezik)
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
+- Brijesh
 - [Cory Jia] (https://github.com/coryjia)
 - [Mohammad Namvarpour](https://github.com/IamMamad)
 - [Kyle Hawkins](https://github.com/osidekyle)
