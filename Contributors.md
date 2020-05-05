@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
@@ -21,6 +21,7 @@
 -bleee
 - Saarvani
 - Shivani (https://github.com/Shivani-Goud)
+- hiifun.me (https://github.com/patilprajwal)
 - [Muhammad Adeel Hussain] (https://github.com/Adeel-logiciel)
 - [YudeMgoy](https://github.com/yudemgoy)
 - [RECturtle](https://github.com/RECturtle)
