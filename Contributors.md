@@ -5,6 +5,7 @@
 - [Mohammad Namvarpour](https://github.com/IamMamad)
 - [Kyle Hawkins](https://github.com/osidekyle)
 - [Hrishikesh Bawane](https://github.com/hrishibawane)
+- [Muhammad Ahmed Memon](https://github.com/MuhammadAhmedMemon)
 - [Vivek](https://github.com/vivek32ta)
 - [MLiao](https://github.com/mancyliao)
 - [Mohammed Yuns](https://github.com/Yunus0497)
