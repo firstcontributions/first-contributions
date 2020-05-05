@@ -1,5 +1,6 @@
 # Contributors
 - [Ryan Shrewsbury] (https://github.com/ryants51)
+- [DAVID SEO]
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - [Cory Jia] (https://github.com/coryjia)
 - [Mohammad Namvarpour](https://github.com/IamMamad)
@@ -32,6 +33,7 @@
 - [Mustafa Ay](https://github.com/muzzyay)
 - [Upamanyu Das](https://github.com/tintindas)
 - [Nicole](https://github.com/nicoleyyr)
+- [DAVID SEO]
 - [Mysterio-18] (https://github.com/Mysterio-18)
 - [Amelia Milne] (https://github.com/meelszz)
 - [Archana Ramakrishnan] (https://github.com/archanaramakrishnan)
@@ -110,6 +112,7 @@ Ashi
 - [Claude Will] (https://github.com/claudewill1)
 -Jaswant Singh (https://github.com/jassiG)
 - Ryan King (https://github.com/RussianElmo)
+- DAVID SEO (https//github.com/mrSeoDavid)
 - Wanielton Ferreira (https://github.com/FMKani)
 - [Davide Bellone](https://github.com/bellons91)
 - [George Tian](https://https://github.com/georgetian3)
@@ -122,6 +125,7 @@ Ashi
 - [zer0eXploit](https://github.com/zer0eXploit) :satisfied:
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - Sifat Moonjerin
+- DAVID SEO (HTTPS://GITHUB.COM/mrSeoDavid)
 - [Dweep Panchal](https://github.com/dweep612)
 - [Priyojit kharibam](https://github.com/priyojitk)
 - [Leeo](https://github.com/M1zz)
