@@ -21470,3 +21470,4 @@ rehan
 - [Matthew Apuya] (https://github.com/mapuya19)
 - [Diego Sousa] (https://github.com/diegosousaDev)
 - [Damien Baudet] (https://github.com/damienBAUDET)
+- [Nikhil Khandelwal](https://github.com/khandelwal-nikhil)
