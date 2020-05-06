@@ -441,6 +441,7 @@
 - [Petar Trbos](https://github.com/Petar-T)
 - [Ildarov](https://github.com/Devit951)
 - [Irfan Rafif](https://github.com/mirfanrafif)
+- [Lenny Dennis](https://github.com/LennyDennis)
 - [Rahul Anand](https://github.com/RahulGo8u)
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
 - [Parkash Pant](https://github.com/parkashpant)
@@ -973,3 +974,4 @@
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
+
