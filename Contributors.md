@@ -45,6 +45,7 @@
 - [Mantas Astrauskas](https://github.com/MAstrauskas)
 - [Preyansh Kaushik](https://github.com/preyansh98)
 - [Anirudh](https://github.com/Anirudh09)
+- [Alonzo Church](https://github.com/Awesome)
 - [Damien Burke](https://github.com/DamienJBurke)
 - [Satyam Mishra](https://github.com/satyam15mishra)
 - [DJFILL](https://github.com/djfill)
