@@ -22,6 +22,7 @@
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - [Lia Porto](https://github.com/liaporto)
+-[Puneeth Kashyap](https://github.com/hatake-kakashi2202)
 - Daniel
 - [Jacek](https://github.com/iamjacek)
 -bleee
