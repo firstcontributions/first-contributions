@@ -915,6 +915,7 @@
 - [Eran Nave](https://github.com/erannave)
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
+- [aantikainen] (https://github.com/aantikainen)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
