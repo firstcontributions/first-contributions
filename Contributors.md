@@ -21480,7 +21480,7 @@ rehan
 - [Kedar Rudrawar](https://github.com/kedarrudrawar)
 - [Gene74] (https://github.com/Gene74)
 - [Paula Deville](https://github.com/pauladeville)
-  [Daniel Richards](https://github/RichardsDigital)
+- [Daniel Richards](https://github/RichardsDigital)
 - [Joseph Betts](https://github.com/JBetts97)
 - [Mudit Saraf] (https://github.com/sarafmudit)
 - [adrin425] (https://github.com/adrin425)
