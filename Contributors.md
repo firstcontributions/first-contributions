@@ -27,6 +27,7 @@
 -bleee
 - Allen Zhang (https://github.com/capitalallen)
 - Saarvani
+- [starkizard](https://github.com/starkizard)
 - [M Sai Anurag](https://github.com/avayer)
 - Shivani (https://github.com/Shivani-Goud)
 - hiifun.me (https://github.com/patilprajwal)
