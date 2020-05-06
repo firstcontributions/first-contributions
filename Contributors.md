@@ -21489,3 +21489,4 @@ rehan
 - [Diego Sousa] (https://github.com/diegosousaDev)
 - [Damien Baudet] (https://github.com/damienBAUDET)
 - [Nikhil Khandelwal](https://github.com/khandelwal-nikhil)
+- [Nico Putzehl](https://github.com/aid-nputzehl)
