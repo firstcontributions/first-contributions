@@ -4,6 +4,7 @@
 - [Ryan Shrewsbury] (https://github.com/ryants51)
 - [Zahra Fatemi] (https://github.com/Zahrafatemi)
 - Brijesh
+- [Xiaofeng Paul Lin] (https://github.com/Paul11100/)
 - [Cory Jia] (https://github.com/coryjia)
 - [Mohammad Namvarpour](https://github.com/IamMamad)
 - [Kyle Hawkins](https://github.com/osidekyle)
