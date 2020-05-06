@@ -1,0 +1,12 @@
+name: "Automerging PRs"
+description: "Automatically merges any PR that has no conflicts and changed the file Contributors.md"
+
+inputs:
+  message:
+    description: "The message a new contributor will get after having merged his/her PR"
+    default: "Thank you for your pull request. I am happy to merge it right away!"
+    required: true
+
+runs:
+  using: "node12"
+  main: "dist/index.js"
