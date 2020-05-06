@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Chaitanya Tanga](https://github.com/chaitanyatanga)
 -[Ahmed Abdulkareem Rezik](https://github.com/ahmedrezik)
 - [Ryan Shrewsbury] (https://github.com/ryants51)
@@ -234,6 +234,7 @@ mohit singh
 - Maese Burgui\
 - Ryan Turner (https://github.com/too-far)
 - viz
+- Hao Nguyen - Hang a, anh nho em (https://github.com/NguyenQuocHao/)
 - subhadeep chatterjee
 - Saka Ricky
 - victore
