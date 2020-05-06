@@ -15,6 +15,7 @@
 - [Mohammed Yuns](https://github.com/Yunus0497)
 - [albrah12]
 - Neha
+- [Yashdeep Bachhas](https://github.com/yash-93)
 - Ayush Garg (IIT DELHI)
 - [Aneesh Mistry](https://github.com/4neesh) 
 - [Yirui Huang](https://github.com/yiruiHH)
