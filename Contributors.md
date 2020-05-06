@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -8,6 +8,7 @@
 - [expert-geeks](https://github.com/expert-geeks)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
+- [Adesh Kumar](https://github.com/adeskmr)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
