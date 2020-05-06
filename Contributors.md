@@ -11623,6 +11623,7 @@ Aman Panjwani
 - [Scott Williams aka Rogues](https://github.com/Rogue00)
 - [Natalie Smith](https://github.com/natmegs)
 - [Kyle McKibben](https://github.com/kylemckibben)
+- whimsicalities
 - [Patrick Stephens](https://github.com/patsteph)
 - [Zara Otamias](https://github.com/zotamias)
 - [Ali Rodell](https://github.com/alirodell)
