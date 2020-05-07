@@ -332,6 +332,7 @@
 - [elgaspar](https://github.com/elgaspar)
 - [Purvi Patel](https://github.com/ppatel6)
 - [cleverinx](https://github.com/cleverinx)
+- [Jingchao Zhou](https://github.com/zhoujc999)
 - [Carlos Herrera](https://github.com/carlosherrera1113)
 - [ritikaaa17](https://github.com/ritikaaa17)
 - [kjain22](https://github.com/kapil-jain123)
