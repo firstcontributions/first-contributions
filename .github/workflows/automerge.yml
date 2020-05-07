@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Debugging
+        run: echo ${{github.event.pull_request.number}}   
       - uses: actions/checkout@v1
 
       - name: merge-pr
