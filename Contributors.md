@@ -714,6 +714,7 @@
 - [Bridget Chew](https://github.com/bchew3)
 - [Miffy Chen](https://github.com/miffycs)
 - [Yiğit Anış](https://github.com/yigitanis)
+- [Stacy Riley](https://github.com/Stacy-Riley)
 - [Noah Elliott](https://github.com/2l2t)
 - [Mervin Ng](https://github.com/m6ng)
 - [run me](https://github.com/run-me)
