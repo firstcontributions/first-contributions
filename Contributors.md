@@ -21,6 +21,7 @@
 - [Brandon Allen](https://github.com/eldon2)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
+- [bp](https://github.com/benediktpetko)
 - [Puneeth PS](https://github.com/puneethps)
 - [evanca](https://github.com/evanca)
 - [Shubham Atlani](https://github.com/shubhamatlani)
