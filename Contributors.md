@@ -19,6 +19,7 @@
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
 - [Brandon Allen](https://github.com/eldon2)
+- [Coco](https://github.com/coco4024)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
 - [Puneeth PS](https://github.com/puneethps)
