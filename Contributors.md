@@ -122,6 +122,7 @@
 - [Brandon E](https://github.com/ChoppinLumber)
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
+- [Susmitha](https://github.com/susmithasrimani)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
