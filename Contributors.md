@@ -74,6 +74,7 @@
 - [Shivam Rathore](https://github.com/rathore05)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Deathless Kraken](https://github.com/DeathlessKraken)
+- [Hassan Shakeel](https://github.com/mHassan20896)
 - [Sean Donnellan](https://github.com/seandonnellan)
 - [Ramsay Sewell](https://github.com/ramsaysewell)
 - [Philip Cosentino](https://github.com/pcbootsy)
