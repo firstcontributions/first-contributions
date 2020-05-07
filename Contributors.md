@@ -59,6 +59,7 @@
 - [brriann](https://github.com/brriann)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Satvir Sandhu](https://github.com/356Sandhu)
+- [Neissa Dorsinville](https://github.com/neissacodes)
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
