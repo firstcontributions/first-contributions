@@ -39,6 +39,7 @@
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
+- [Rohit Satwadhar](https://github.com/riotgage)
 - [oranjjun](https://github.com/oranjjun)
 - [Greg Mac](https://github.com/gregmacdev)
 - [Wen Liang](https://github.com/wensuk)
