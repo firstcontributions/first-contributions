@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -18,6 +18,7 @@
 - [James Au](https://github.com/jamesaucode)
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
+-[Myat Thu Ko](https://github.com/MyatThuKo)
 - [Brandon Allen](https://github.com/eldon2)
 - [Cassandra Lee](https://github.com/yieng)
 - [Jordi Hoven](https://github.com/Jordakoes)
