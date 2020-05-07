@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -260,6 +260,7 @@
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
+- [Dexy](https://github.com/dexypy)
 - [Manuel Pissanos](https://github.com/mpissanos)
 - [Alvin Jorrel Pascual](https://github.com/alvinjorrel)
 - [Nate deBoer](https://github.com/CrazyMuppets)
