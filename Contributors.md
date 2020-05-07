@@ -241,6 +241,7 @@
 - [Sam Richardson](https://github.com/samjrrr)
 - [Pratheek Athreya](https://github.com/pratheekbalaji)
 - [Aparna Annapragada](https://github.com/aparnaannapragada)
+- [Taja House](https://github.com/tajahouse)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
