@@ -476,6 +476,7 @@
 - [Luke Kuo](https://github.com/DarkGoomba)
 - [Bruno Cezani](https://githib.com/bcezani)
 - [Jaime R](https://github.com/JaimeRado)
+- [Mikael Tallbo](https://github.com/mtallbo)
 - [Gabriel Silva](https://github.com/GOBDS)
 - [Campelo Guedes](https://github.com/campeloguedes)
 - [Zyjin](https://github.com/Zygen360)
