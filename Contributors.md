@@ -13,6 +13,7 @@
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Daneel Rakow](https://github.com/daneelrakow)
+- [Coco](https://github.com/coco4024)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
