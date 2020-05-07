@@ -10,6 +10,7 @@
 - [Maraket](https://github.com/Maraket)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Dan Chif](https://github.com/nadchif)
+- [Coco](https://github.com/coco4024)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Daneel Rakow](https://github.com/daneelrakow)
