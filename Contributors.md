@@ -663,6 +663,7 @@
 - [Przem Wierzbicki](https://github.com/przemwierzbicki)
 - [Bradley Delgado](https://github.com/Brakeo)
 - [grzegorzgit](https://github.com/grzegorzgit)
+- [Quiyet Brul](https://github.com/quiyetbrul)
 - [divanshu](https://github.com/ddivanshu)
 - [SudeepaGo](https://github.com/SudeepaGo)
 - [Star](https://github.com/yabdyli)
@@ -973,4 +974,4 @@
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
-- [Quiyet Brul](https://github.com/quiyetbrul)
+
