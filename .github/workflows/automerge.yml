@@ -17,5 +17,5 @@ jobs:
         uses: ./.github/actions/automerge
         if: ${{github.event.pull_request.additions == 1 || (github.event.pull_request.additions == 2 && github.event.pull_request.deletions == 1)}}
         with:
-          repo-token: ${{secrets.MergeToken}}
+          repo-token: ${{secrets.GITHUB_TOKEN}}
           number: ${{github.event.pull_request.number}}
