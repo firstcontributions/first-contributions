@@ -972,4 +972,5 @@
 - [Nikho Sagala](https://github.com/nikhosagala)
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
+- Robert Flaherty
 - [Gord Bolli](https://github.com/gbolli)
