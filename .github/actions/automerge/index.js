@@ -28,11 +28,11 @@ We'd love to hear your thoughts about this project. Let us know how we can impro
     });
 
     // Merge pull request
-    const { data: pullRequest } = await octokit.pulls.merge({
-      repo,
-      owner,
-      pull_number: prnumber
-    });
+    //const { data: pullRequest } = await octokit.pulls.merge({
+    //  repo,
+    //  owner,
+    //  pull_number: prnumber
+    //});
 
 
   } catch (error) {
