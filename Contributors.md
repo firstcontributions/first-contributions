@@ -115,6 +115,7 @@
 - [Agis Kounelis](https://github.com/AgisKounelis)
 - [Kameel](https://github.com/kam-eeel)
 - [Sure](https://github.com/surebhandari)
+- [way](https://github.com/way)
 - [Abhishek Ahirwar](https://github.com/abhiahirwar)
 - [Swarna Sarkar](https://github.com/sarkarsd)
 - [jt120](https://github.com/jt120)
