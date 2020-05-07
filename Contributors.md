@@ -11,6 +11,7 @@
 - [Filipe Pinato](https://github.com/tiofih)
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
+- [Vibhor Agarwal](https://github.com/vibhor98)
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [archithadge](https://github.com/archithadge)
