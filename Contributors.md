@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -973,3 +973,4 @@
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
+- [Haardik Dharma](https://github.com/haardikdharma10)
