@@ -888,6 +888,7 @@
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
+- [mpatel17](https://github.com/mpatel17)
 - [keojo](https://github.com/keojo)
 - [hunterdanielson](https://github.com/hunterdanielson)
 - [bilgehannevruz](https://github.com/bilgehannevruz)
