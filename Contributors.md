@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -15,6 +16,7 @@
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
+- [Spencer Call](https://github.com/scall12)
 - [James Au](https://github.com/jamesaucode)
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
@@ -425,7 +427,7 @@
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
 - [Jesrapo](https://github.com/jesrapo)
 - [Dmitriy Makarov](https://github.com/dmxich)
-- [Moayad  Badawi](https://github.com/moayad-badawi)
+- [Moayad Badawi](https://github.com/moayad-badawi)
 - [Adam Stolarczyk](https://github.com/apm30)
 - [Bonnie Brown](https://github.com/brownbonnie)
 - [Swaraj Dehuri](https://github.com/darkknight27)
