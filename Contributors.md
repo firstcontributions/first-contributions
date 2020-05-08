@@ -663,6 +663,7 @@
 - [Przem Wierzbicki](https://github.com/przemwierzbicki)
 - [Bradley Delgado](https://github.com/Brakeo)
 - [grzegorzgit](https://github.com/grzegorzgit)
+- [AJLanza](https://github.com/ajlanza)
 - [divanshu](https://github.com/ddivanshu)
 - [SudeepaGo](https://github.com/SudeepaGo)
 - [Star](https://github.com/yabdyli)
