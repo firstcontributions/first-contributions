@@ -119,6 +119,7 @@
 - [Swarna Sarkar](https://github.com/sarkarsd)
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
+- [Rahul Sonanis](https://github.com/RahulSonanis)
 - [Brandon E](https://github.com/ChoppinLumber)
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
