@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
@@ -165,6 +165,7 @@
 - [Joshua Cammock](https://github.com/JCammock)
 - [Lindos Pechos](https://github.com/LindosPechos)
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
+- [Col Roberts](https://github.com/ColR)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
 - [Joshua Key](https://github.com/JoshuaKey)
