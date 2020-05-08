@@ -6,6 +6,7 @@
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
 - [expert-geeks](https://github.com/expert-geeks)
+- [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
 - [Filipe Pinato](https://github.com/tiofih)
