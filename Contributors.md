@@ -402,6 +402,7 @@
 - [Washington Añasco](https://github.com/Washio1995)
 - [Raul Ropero](https://github.com/codigoespagueti)
 - [Brendan Gilet](https://github.com/Vehemence26)
+- [Diego Marcillo](https://github.com/diegomarcillop)
 - [Maosheng Tang](https://github.com/mshtang)
 - [Karen White](https://github.com/karen-white)
 - [Jono](https://github.com/EagleOne42)
