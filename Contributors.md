@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Purvansh Shah](https://github.com/purvansh11)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
