@@ -29,6 +29,7 @@
 - [Tran Le Quoc Anh](https://github.com/Al0ngsy)
 - [bethuel](https://github.com/bcmmbaga)
 - [rkg18](https://github.com/rkg18)
+- [Jonathan Kamau](https://github.com/jonathankamau)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
 - [Ben](https://github.com/ChecksumFailed)
