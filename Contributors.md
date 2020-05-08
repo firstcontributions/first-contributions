@@ -15,6 +15,7 @@
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
+- [Palak Mantry](https://github.com/pal-16)
 - [James Au](https://github.com/jamesaucode)
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
