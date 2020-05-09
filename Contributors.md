@@ -44,6 +44,7 @@
 - [oranjjun](https://github.com/oranjjun)
 - [Greg Mac](https://github.com/gregmacdev)
 - [Wen Liang](https://github.com/wensuk)
+- [siddharth kumar](https://github.com/Siddharth-coder13)
 - [Mantas Astrauskas](https://github.com/MAstrauskas)
 - [Preyansh Kaushik](https://github.com/preyansh98)
 - [Anirudh](https://github.com/Anirudh09)
