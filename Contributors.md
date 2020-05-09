@@ -71,6 +71,7 @@
 - [Nikhil K.](https://github.com/nk108)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
+- [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
