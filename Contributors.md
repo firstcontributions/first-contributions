@@ -4,6 +4,7 @@
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
+- [Connor Doherty] (https://github.com/connord96)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
 - [expert-geeks](https://github.com/expert-geeks)
