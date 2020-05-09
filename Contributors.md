@@ -37,6 +37,7 @@
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
 - [Ben](https://github.com/ChecksumFailed)
+- [Vladimir Beliakov](https://github.com/VladimirBeliakov)
 - [Erik Hsu](https://github.com/erikhsu)
 - [Pranesh](https://github.com/klostur)
 - [Ahmad Sami](https://github.com/Asami1997)
