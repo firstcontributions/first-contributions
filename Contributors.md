@@ -127,6 +127,7 @@
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
+- [Kevin Mbuthia](https://github.com/Kevinmbuthia)
 - [Prakash Sukumar](https://github.com/praknetlg)
 - [David Fernandes](https://github.com/codigospredicados)
 - [Marcin Lubowicz](https://github.com/Moviss)
