@@ -367,6 +367,7 @@
 - [Mrigank Dembla](https://github.com/mrigankdembla/)
 - [Josh Prakke](https://github.com/JPrakke)
 - [Dmitry Cherednikov](https://github.com/dcherednikov)
+- [Venu](https://github.com/venuDev)
 - [FélixHub](https://github.com/FelixHub)
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Jason Klebes](https://github.com/jklebes)
@@ -991,3 +992,4 @@
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
 - [Nitish Vijai](https://github.com/nitishvijai)
+
