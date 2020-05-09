@@ -46,6 +46,7 @@
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
 - [oranjjun](https://github.com/oranjjun)
+- [Anis Bouhdaoui](https://github.com/abouhdaoui)
 - [Greg Mac](https://github.com/gregmacdev)
 - [Wen Liang](https://github.com/wensuk)
 - [siddharth kumar](https://github.com/Siddharth-coder13)
