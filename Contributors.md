@@ -647,6 +647,7 @@
 - [machao](https://github.com/McSources)
 - [dudakp](https://github.com/dudakp/)
 - [Michael Luo](https://github.com/michaeljluo)
+- [Aaron Beach](https://github.com/aaron-beach)
 - [Nolan Baldwin](https://github.com/NBALWDIN18)
 - [Salma Amr](https://github.com/SalmaAmrAhmed)
 - [Adrian Cruz](https://github.com/ainzacruz)
