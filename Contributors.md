@@ -865,6 +865,7 @@
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
+  [Himanshu Gosavi](https://github.com/Himanshu-2998-hash)  
 - [Jannisko](https://github.com/jannisko/)
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
@@ -894,6 +895,7 @@
 - [TanujRohatgi](https://github.com/TanujRohatgi)
 - [DarkAEther](https://github.com/DarkAEther)
 - [KleinDevDE](https://github.com/KleinDevDE)
+
 - [Lee Butler](https://github.com/vxsunstriderxv)
 - [Harvey Breaux](https://github.com/hbreauxv)
 - [Eric Jansen](https://github.com/EricJ90)
