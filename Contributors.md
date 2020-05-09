@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
@@ -981,4 +981,5 @@
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
+- [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
