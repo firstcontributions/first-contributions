@@ -31,6 +31,7 @@
 - [Zeyi Chen](https://github.com/zeyichen)
 - [Tran Le Quoc Anh](https://github.com/Al0ngsy)
 - [bethuel](https://github.com/bcmmbaga)
+- [arvind] (https://github.com/CoderArvind)
 - [rkg18](https://github.com/rkg18)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
