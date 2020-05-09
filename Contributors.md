@@ -787,6 +787,7 @@
 - [Brandon Mitchell](https://github.com/brandontmitchell)
 - [Jacky Lin](https://github.com/clin113jhu)
 - [Tyler Crites](https://github.com/zebbzz)
+- [Ranjith Palanisamy](https://github.com/rr2013)
 - [Sina Kabki](https://github.com/sinacodes95)
 - [LelPel](https://github.com/lelpel)
 - [Katherine Landry](https://github.com/kburckin)
