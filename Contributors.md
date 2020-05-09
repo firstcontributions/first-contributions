@@ -19,6 +19,7 @@
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
+- [Basil Fawlty](https://github.com/malyszm)
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
 - [Brandon Allen](https://github.com/eldon2)
