@@ -7,6 +7,7 @@
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
 - [Connor Doherty](https://github.com/connord96)
+- [Kavita Vaishnaw](https://github.com/kavita-v)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
