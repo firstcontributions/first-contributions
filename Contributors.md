@@ -1000,6 +1000,7 @@
 - [Nikho Sagala](https://github.com/nikhosagala)
 - [Arun Thakur](https://github.com/chandarunthakur)
 - [Dilina Dehigama](https://github.com/dilinade)
+- [Dillon Bendig](https://github.com/dbendig17)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Gord Bolli](https://github.com/gbolli)
 - [Haardik Dharma](https://github.com/haardikdharma10)
