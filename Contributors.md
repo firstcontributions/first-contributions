@@ -763,6 +763,7 @@
 - [Andrew Bellucci](https://github.com/imbellucci)
 - [Tomas](https://github.com/Tomheza)
 - [Juan Francisco Kurucz](https://github.com/juanfkurucz)
+- [Kevin Aydin][https://github.com/kevinaydin]
 - [Rupinder Kaur](https://github.com/RupKaur2001)
 - [Twumasi Pennoh](https://github.com/twumasipennoh)
 - [DiligentDisaster](https://github.com/DiligentDisaster)
