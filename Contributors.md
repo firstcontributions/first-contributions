@@ -2,6 +2,7 @@
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
+- [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
 - [Connor Doherty](https://github.com/connord96)
