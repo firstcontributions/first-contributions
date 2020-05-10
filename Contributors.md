@@ -441,6 +441,7 @@
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
 - [Sandeepa AMCP](https://github.com/sandeepaamcp)
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
+- [Pierre Monferrand](https://github.com/monferrand)
 - [Jesrapo](https://github.com/jesrapo)
 - [Dmitriy Makarov](https://github.com/dmxich)
 - [Moayad  Badawi](https://github.com/moayad-badawi)
