@@ -1005,3 +1005,4 @@
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
 - [Rajat Singh](https://github.com/rajat641)
+- [Jack Burrus](https://github.com/jackburrus)
