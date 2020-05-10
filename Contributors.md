@@ -84,6 +84,7 @@
 - [pyku](https://github.com/pyku/)
 - [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
+- [Sandeep Nanjundaswamy] (https://github.com/sandeepn623)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
 - [Harsh Prabhu](https://github.com/harsh1599)
