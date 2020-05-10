@@ -17,6 +17,7 @@
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
+- [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
