@@ -827,6 +827,7 @@
 - [Azhar Anwar](https://github.com/iamazhar)
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
 - [Alexander Santos](https://github.com/ronkiro)
+- [Ayoub Idouhamou](https://github.com/ayoub-idouhamou)
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
 - [Kirk Lennon](https://github.com/kirklennon)
