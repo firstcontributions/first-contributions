@@ -1006,5 +1006,6 @@
 - [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
+- [Shreya Choubey](https://github.com/shreyachoubey29)
 - [Rajat Singh](https://github.com/rajat641)
 - [Jack Burrus](https://github.com/jackburrus)
