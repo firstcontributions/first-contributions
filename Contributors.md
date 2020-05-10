@@ -1009,3 +1009,4 @@
 - [Shreya Choubey](https://github.com/shreyachoubey29)
 - [Rajat Singh](https://github.com/rajat641)
 - [Jack Burrus](https://github.com/jackburrus)
+- [Yann Scheiffer](https://github.com/yaschei)
