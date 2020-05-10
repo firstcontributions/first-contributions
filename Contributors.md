@@ -1011,4 +1011,4 @@
 - [Rajat Singh](https://github.com/rajat641)
 - [Jack Burrus](https://github.com/jackburrus)
 - [Yann Scheiffer](https://github.com/yaschei)
-- [NoneLone](https://github.com/nonelone)
+- [None Lone](https://github.com/nonelone)
