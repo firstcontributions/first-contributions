@@ -1000,6 +1000,7 @@
 - [Rugved](https://github.com/rugved)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Abinav Baskar](https://github.com/abinav-baskar)
+- [Pratik Tiwari](https://github.com/pratiktiwari13)
 - [Sagar Datta](https://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
 - [Nikho Sagala](https://github.com/nikhosagala)
