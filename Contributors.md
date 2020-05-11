@@ -508,6 +508,7 @@ Rachit Tiwari
 - [Jaime R](https://github.com/JaimeRado)
 - [Gabriel Silva](https://github.com/GOBDS)
 - [Campelo Guedes](https://github.com/campeloguedes)
+- [Bryan Murphy](https://github.com/murphyb2)
 - [Zyjin](https://github.com/Zygen360)
 - [Tiago Maia](https://github.com/tiagomvf)
 - [Yunfei Jing](https://github.com/yunfeijing)
