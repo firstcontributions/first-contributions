@@ -790,7 +790,7 @@ Rachit Tiwari
 - [Tomas](https://github.com/Tomheza)
 - [Shailesh Shah](https://github.com/shaileshs)
 - [Juan Francisco Kurucz](https://github.com/juanfkurucz)
-- [Kevin Aydin][https://github.com/kevinaydin]
+- [Kevin Aydin](https://github.com/kevinaydin)
 - [Rupinder Kaur](https://github.com/RupKaur2001)
 - [Twumasi Pennoh](https://github.com/twumasipennoh)
 - [DiligentDisaster](https://github.com/DiligentDisaster)
@@ -1038,3 +1038,4 @@ Rachit Tiwari
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [MorganR Developer](https://github.com/morganrdeveloper)
+- [Quinn Wai Wong](https://github.com/quinnwai)
