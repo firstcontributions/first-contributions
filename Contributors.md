@@ -16,6 +16,7 @@
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
 - [Filipe Pinato](https://github.com/tiofih)
+- [Madhurima Chakraborty] (https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
