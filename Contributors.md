@@ -73,6 +73,7 @@ Rachit Tiwari
 - [tangarts](https://github.com/tangarts)
 - [Girish Poojari](https://github.com/girishpoojari)
 - [jtisaac](https://github.com/jtisaac)
+- [Uday Rajoriya](https://github.com/udayrajoriya)
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
