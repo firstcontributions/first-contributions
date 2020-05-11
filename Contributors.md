@@ -1034,3 +1034,4 @@ Rachit Tiwari
 - [None Lone](https://github.com/nonelone)
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
+- [MorganR Developer](https://github.com/morganrdeveloper)
