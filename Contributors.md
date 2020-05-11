@@ -541,6 +541,7 @@
 - [Priyanka Kariya](https://github.com/tishakariya)
 - [Araminta Robertson](https://github.com/minta98)
 - [Summerok](https://github.com/Summerok)
+- [Ren Tanola](https://github.com/RenanEtAl)
 - [vskwirblies](https://github.com/vskwirblies)
 - [Andrew Heilman](https://github.com/heilmanandrew)
 - [Kerry Jackson](https://github.com/kerryja)
