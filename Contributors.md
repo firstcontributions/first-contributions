@@ -1015,4 +1015,3 @@
 - [Jack Burrus](https://github.com/jackburrus)
 - [Yann Scheiffer](https://github.com/yaschei)
 - [None Lone](https://github.com/nonelone)
-
