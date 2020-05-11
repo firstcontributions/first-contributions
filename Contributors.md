@@ -1,5 +1,6 @@
 # Contributors
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
+- [Micael Illoa](https://github.com/micaelillos)
 - [Eren]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
