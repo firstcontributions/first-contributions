@@ -695,6 +695,7 @@
 - [divanshu](https://github.com/ddivanshu)
 - [SudeepaGo](https://github.com/SudeepaGo)
 - [Star](https://github.com/yabdyli)
+- [vaish shri](https://github.com/whydoyoucare)
 - [Joseph Spinelli](https://github.com/joespinelli7)
 - [Vince Grilli](https://github.com/VinceGrilli)
 - [Farhat SH](https://github.com/farhatcode)
