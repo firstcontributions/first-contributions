@@ -770,6 +770,7 @@
 - [Zoheb Rahiman](https://github.com/rahiman-zoheb)
 - [Andrew Bellucci](https://github.com/imbellucci)
 - [Tomas](https://github.com/Tomheza)
+- [Shailesh Shah](https://github.com/shaileshs)
 - [Juan Francisco Kurucz](https://github.com/juanfkurucz)
 - [Kevin Aydin][https://github.com/kevinaydin]
 - [Rupinder Kaur](https://github.com/RupKaur2001)
