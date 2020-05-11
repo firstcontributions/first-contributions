@@ -379,6 +379,7 @@
 - [Mrigank Dembla](https://github.com/mrigankdembla/)
 - [Josh Prakke](https://github.com/JPrakke)
 - [Dmitry Cherednikov](https://github.com/dcherednikov)
+- [Venu](https://github.com/venuDev)
 - [FélixHub](https://github.com/FelixHub)
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Jason Klebes](https://github.com/jklebes)
