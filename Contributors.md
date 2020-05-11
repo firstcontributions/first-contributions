@@ -41,6 +41,7 @@
 - [rkg18](https://github.com/rkg18)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
+- [Shubham Saha](https://github.com/Helinskii)
 - [Ben](https://github.com/ChecksumFailed)
 - [Vladimir Beliakov](https://github.com/VladimirBeliakov)
 - [Erik Hsu](https://github.com/erikhsu)
