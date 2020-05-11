@@ -61,6 +61,7 @@
 - [Anirudh](https://github.com/Anirudh09)
 - [Alonzo Church](https://github.com/Awesome)
 - [Damien Burke](https://github.com/DamienJBurke)
+- [Arindam Majumder](https://github.com/i-m-arin)
 - [Satyam Mishra](https://github.com/satyam15mishra)
 - [DJFILL](https://github.com/djfill)
 - [BenEwing33](https://github.com/BenEwing33)
