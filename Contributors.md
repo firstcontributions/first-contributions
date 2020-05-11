@@ -20,6 +20,7 @@
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
+- [Jordan Miracle](https://github.com/jordanmiracle) 
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
 - [Eric Hansen](https://github.com/ehansen247)
