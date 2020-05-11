@@ -72,6 +72,7 @@
 - [doMConSwiss](https://github.com/doMConSwiss)
 - [GeorgesD](https://github.com/sergeod9)
 - [Davi Pessanha](https://github.com/dpessanha/)
+- [Siddharth Singh](https://github.com/Siddharth-cmd)
 - [brriann](https://github.com/brriann)
 - [Gurmehar Sandhu](https://github.com/GurmeharS)
 - [Satvir Sandhu](https://github.com/356Sandhu)
