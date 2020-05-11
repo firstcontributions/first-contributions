@@ -14,6 +14,7 @@
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
+- [Takigavin](https://github.com/takigavin)
 - [expert-geeks](https://github.com/expert-geeks)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
