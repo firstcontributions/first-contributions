@@ -1063,4 +1063,3 @@ Rachit Tiwari
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
-- [Dhruv Mehta](https://github.com/Dhruv-194)
