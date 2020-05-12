@@ -498,6 +498,7 @@ Rachit Tiwari
 - [Oliver Fenn](https://github.com/OliverFenn)
 - [Zanoni Contreras](https://github.com/zamboni86)
 - [Łukasz Pasek](https://github.com/lukaszpasek)
+- [Efrén Vázquez](https://github.com/efrensho)
 - [Patrick Uzuwe](https://github.com/puzuwe)
 - [James Miller](https://github.com/JamesMMiller)
 - [SolalC](https://github.com/SolalC)
