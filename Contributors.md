@@ -168,6 +168,7 @@ Rachit Tiwari
 - [Neal Stumpf](https://github.com/MildlyOffensive)
 - [Roopa Madihally](https://github.com/roopabdr)
 - [JR Cook](https://github.com/Eldorian)
+- [Carson Piehl](https://github.com/CarsonPiehl)
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tpartridge1](https://github.com/tpartridge1)
