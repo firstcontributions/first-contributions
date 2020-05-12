@@ -203,6 +203,7 @@ Rachit Tiwari
 - [Alimur Razi Rana](https://github.com/Alimurrazi)
 - [Manoj M](https://github.com/manoj1222)
 - [Jorge N](https://github.com/jinaoc)
+- [Jenn Park](https://github.com/j3nniis)
 - [Joshua Key](https://github.com/JoshuaKey)
 - [Coder](https://github.com/coder9604)
 - [Kin Kin](https://github.com/adkinley)
