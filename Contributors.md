@@ -357,6 +357,7 @@ Rachit Tiwari
 - [Tharp Arthur](https://github.com/arthurtharp)
 - [Ayus Das](https://github.com/ayusdas2000)
 - [Primarch Strelok](https://github.com/primarchstrelok)
+- [Roy Regev](https://github.com/royreg)
 - [Jeffrey Warner](https://github.com/jeffnwarner)
 - [William Huynh](https://github.com/w2huy)
 - [Aviral Bajpai](https://github.com/aviral19)
