@@ -660,6 +660,7 @@ Rachit Tiwari
 - [Mitali Purwar](https://github.com/MitaliPurwar21)
 - [Teyjattt](https://github.com/Teyjattt)
 - [DonClaveau3](https://github.com/DonClaveau3)
+- [Aradhana Singh](https://github.com/Aradhana-Singh)
 - [viamarie77](https://github.com/viamarie77)
 - [dystar](https://github.com/dystar)
 - [stephenjwinn](https://github.com/stephenjwinn)
