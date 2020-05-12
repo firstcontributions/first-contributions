@@ -1,4 +1,5 @@
 # Contributors
+- [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Micael Illoa](https://github.com/micaelillos)
 - [Eren]
