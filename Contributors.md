@@ -877,6 +877,7 @@ Rachit Tiwari
 - [Avantikaa](https://github.com/Avantikaa)
 - [qiaojun](https://github.com/qiaojun2016)
 - [jinhokong](https://github.com/jinhokong)
+- [Michael Morrow] (https://github.com/mamorrow1957)
 - [Matthew Kerlin](https://github.com/MerlinGoneSuperSaiyan)
 - [Miguel Magana](https://https://github.com/miguelmagana)
 - [Divya Nayal](https://github.com/divyanayal)
