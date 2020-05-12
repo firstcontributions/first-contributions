@@ -448,6 +448,7 @@ Rachit Tiwari
 - [Saim Farid](https://github.com/saimfd)
 - [Washington Añasco](https://github.com/Washio1995)
 - [Raul Ropero](https://github.com/codigoespagueti)
+- [Sudeep Basnet](https://github.com/sudbasnet)
 - [Gaurav](https://github.com/Gaurav2511)
 - [Brendan Gilet](https://github.com/Vehemence26)
 - [Maosheng Tang](https://github.com/mshtang)
