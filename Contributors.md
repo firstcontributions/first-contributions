@@ -158,6 +158,7 @@ Rachit Tiwari
 - [CodeSadhu](https://github.com/CodeSadhu)
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
+- [Paramesh Chandra]
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
