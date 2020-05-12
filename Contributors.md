@@ -31,6 +31,7 @@ Aman Goel
 - [Jordan Miracle](https://github.com/jordanmiracle)
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
+- [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
 Drew Ferrell
