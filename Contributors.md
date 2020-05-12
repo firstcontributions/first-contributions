@@ -1047,4 +1047,5 @@ Rachit Tiwari
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [MorganR Developer](https://github.com/morganrdeveloper)
+- [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
