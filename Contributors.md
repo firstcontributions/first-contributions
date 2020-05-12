@@ -3,6 +3,7 @@
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Micael Illoa](https://github.com/micaelillos)
 - [Eren]
+- [Nourma Bumgarner]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
