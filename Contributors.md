@@ -599,6 +599,7 @@ Rachit Tiwari
 - [Holtek](https://github.com/Holtek)
 - [Turpster](https://github.com/Turpster)
 - [Lian De Ho](https://github.com/LDHo)
+- [Patricia Ray](https://github.com/pray9)
 - [jaroot](https://github.com/jaroot32)
 - [ceheiss](https://github.com/ceheiss)
 - [diksub](https://github.com/dikisubagja)
