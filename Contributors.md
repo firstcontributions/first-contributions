@@ -758,6 +758,7 @@ Rachit Tiwari
 - [Brian Joo](https://github.com/brianhjoo)
 - [Odafe](https://github.com/od41)
 - [Ramesh Joshi](https://github.com/rjoshig)
+- [Allen Shin](https://github.com/geeuho)
 - [Yulian Karapetkov](https://github.com/yuliankarapetkov)
 - [Gustavo Maeda](https://github.com/nihil1911)
 - [Amos Mwangi](https://github.com/AmosMwangi)
