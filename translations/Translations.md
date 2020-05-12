@@ -2,13 +2,13 @@
 
 |  | Translated Link |
 | --- | --- |
-| 🇮🇳 | [ગુજરાતી](README.guj.md) |
-| 🇮🇳 | [हिन्दी](README.hi.md) |
-| 🇮🇳 | [मराठी](README.mr.md) |
-| 🇮🇳 | [മലയാളം](README.ml.md) |
-| 🇮🇳 | [తెలుగు](README.te.md) |
-| 🇮🇳 🇧🇩 | [বাংলা](README.bn.md) |
-| 🇮🇳 🇱🇰 | [தமிழ்](README.ta.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> | [ગુજરાતી](README.guj.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> | [हिन्दी](README.hi.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> | [मराठी](README.mr.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> | [മലയാളം](README.ml.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> | [తెలుగు](README.te.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> <img src="https://image.flaticon.com/icons/svg/939/939643.svg" width="22"> | [বাংলা](README.bn.md) |
+| <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="22"> <img src="https://image.flaticon.com/icons/svg/206/206725.svg" width="22"> | [தமிழ்](README.ta.md) |
 | 🇲🇲 | [မြန်မာ](README.mm_unicode.md) |
 | 🇮🇩 | [Bahasa Indonesia](README.id.md) |
 | <img src="../assets/catalan1.png" width="22"> | [Català](README.ca.md) |
@@ -20,7 +20,7 @@
 | 🇲🇰 | [Македонски](README.mk.md) |
 | 🇭🇺 | [Magyar](translations/README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
-| 🇯🇵 | [日本語](README.ja.md) |
+| <img src="https://image.flaticon.com/icons/svg/168/168038.svg" width="22"> | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
 | 🇮🇷 | [فارسی](README.fa.md) |
@@ -28,7 +28,7 @@
 | 🇱🇹 | [Lietuvių kalba](README.lt.md) |
 | 🇰🇷 🇰🇵 | [한국어](README.ko.md) |
 | 🇩🇪  | [Deutsch](README.de.md) |
-| 🇨🇳 🇹🇼 | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
+| <img src="https://image.flaticon.com/icons/svg/164/164938.svg" width="22"> <img src="https://attachedlanguage.com/wp-content/uploads/2018/01/taiwan-flag-icon-300x200.png" width="22"> | [中文(Simplified)](README.chs.md), [中文(Traditional)](README.cht.md) |
 | 🇬🇷 | [ελληνικά](README.gr.md) |
 | العربية | [العربية](README.ar.md) |
 | 🇺🇦 | [Українська](README.ua.md) |
