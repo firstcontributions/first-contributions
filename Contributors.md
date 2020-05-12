@@ -985,6 +985,7 @@ Rachit Tiwari
 - [karlangadas](https://github.com/karlangadas)
 - [Gleycer Parra](https://github.com/gleycerparra)
 - [arnav35](https://github.com/arnav35)
+- [Vladimir Plizga](https://github.com/Toparvion)
 - [Kyle Moreira](https://github.com/NotKharon/)
 - [D Lincoln](https://github.com/da-lincoln)
 - [Chris P](https://github.com/j393554)
