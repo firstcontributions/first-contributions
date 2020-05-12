@@ -1032,6 +1032,7 @@ Rachit Tiwari
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
+- [Sergio García](https://github.com/sergiogp98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
 - [Nitish Vijai](https://github.com/nitishvijai)
