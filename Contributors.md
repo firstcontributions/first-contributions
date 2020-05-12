@@ -1062,3 +1062,4 @@ Rachit Tiwari
 - [MorganR Developer](https://github.com/morganrdeveloper)
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
+- [Collins Thomas] (https://github.com/cicerothoma)
