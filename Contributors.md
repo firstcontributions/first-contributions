@@ -278,6 +278,7 @@ Rachit Tiwari
 - [Yash Gupta](https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
 - [Sam Richardson](https://github.com/samjrrr)
+- [Ryan Kavanagh](https://github.com/ryankav)
 - [Pratheek Athreya](https://github.com/pratheekbalaji)
 - [Aparna Annapragada](https://github.com/aparnaannapragada)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
