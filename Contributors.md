@@ -253,6 +253,7 @@ Rachit Tiwari
 - [Prabal Roy Choudhury](https://github.com/prabalrc)
 - [Chin Hong](https://github.com/chinhong1703)
 - [Artit Pinthong](https://github.com/str4t3gy)
+- [Spencer Finkel](https://github.com/MushinMiscellanea)
 - [Taylor Danielson](https://github.com/disabledtech/)
 - [Jason Bland](https://github.com/jasonbland)
 - [Alex Parmentier](https://github.com/alexparm4)
