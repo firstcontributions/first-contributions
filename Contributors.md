@@ -358,6 +358,7 @@ Jeevan Kiran Lenka
 - [Lucas Oliveira](https://github.com/Lucas-F-Oliveira)
 - [Sunny Setia](https://github.com/sunnysetia93)
 - [nnuch](https://github.com/nnuch)
+- [Tanmay-Chavan](https://github.com/Tanmay-Chavan)
 - [Kinoahi](https://github.com/Kinoahi)
 - [Tony-oldport](https://github.com/tony-oldport/)
 - [Jonathan Barker](https://github.com/jonathanbarker)
