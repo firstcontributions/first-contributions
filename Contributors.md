@@ -194,7 +194,7 @@ Rachit Tiwari
 - [Henrique Resende](https://github.com/HenryXV)
 - [Igor Kulakov](https://github.com/iiKulakov)
 - [Richard Theaker](https://github.com/rtheaker)
-- [Kaiser](https://github.com/kaisernahid)
+- [Kaiser](https://github.com/kaisernahid)notepad++ vs sublime
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
@@ -641,6 +641,7 @@ Rachit Tiwari
 - [Jim Armstrong](https://github.com/41northstudios)
 - [AdamThahir](https://github.com/AdamThahir)
 - [Julia González](https://github.com/yuliagg)
+- [Luís Lyra](https://github.com/lhllyra)
 - [Jim Schlader](https://github.com/jamesschlader)
 - [Jacob Pieczynski](https://github.com/jacobpie)
 - [AbdulMuqeeth Mohammed](https://github.com/abdulmuqeeth)
