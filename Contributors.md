@@ -1081,3 +1081,4 @@ Jeevan Kiran Lenka
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
 - [Raksha Kannusami](https://github.com/rakshakannu)
+- [Omer Zinman](https://github.com/omer7642)
