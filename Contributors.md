@@ -25,6 +25,7 @@ Aman Goel
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
+- [Ayush Mandloi] (https://github.com/ayushmandloi2)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Madhurima Chakraborty] (https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
