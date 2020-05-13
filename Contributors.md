@@ -35,6 +35,7 @@ Aman Goel
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [Jordan Miracle](https://github.com/jordanmiracle)
+- Sophie
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
