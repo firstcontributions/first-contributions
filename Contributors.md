@@ -1,6 +1,7 @@
 # Contributors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
+- [Artur de Andrade](https://github.com/ArturDeAndrade)
 - [Micael Illoa](https://github.com/micaelillos)
 - [Eren]
 - [Nourma Bumgarner]
