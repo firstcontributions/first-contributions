@@ -552,6 +552,7 @@ Jeevan Kiran Lenka
 - [Jose Ramon Martinez](https://github.com/JRamonMC)
 - [yea678](https://github.com/yea678)
 - [Beth Ackerman](https://github.com/betheackers)
+- [Pushpam Anand](https://github.com/Pushpam-iitd)
 - [FcKoOl](https://github.com/FcKoOl)
 - [Edmund Lewry](https://github.com/EdmundLewry)
 - [Janne Ilonen](https://github.com/JanneIlonen)
