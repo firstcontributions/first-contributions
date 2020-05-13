@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
@@ -22,6 +22,7 @@
 Aman Goel
 - [Takigavin](https://github.com/takigavin)
 - [expert-geeks](https://github.com/expert-geeks)
+- [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
 - [Filipe Pinato](https://github.com/tiofih)
