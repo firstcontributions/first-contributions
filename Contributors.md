@@ -45,6 +45,7 @@ Drew Ferrell
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](httpss://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
+- [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
 - [Puneeth PS](https://github.com/puneethps)
