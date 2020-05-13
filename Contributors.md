@@ -1,8 +1,10 @@
 ﻿# Contributors
+
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
 - [Micael Illoa](https://github.com/micaelillos)
+- [Stuart Palmer](https://stuart-p.github.io/)
 - [Eren]
 - [Nourma Bumgarner]
 - [juvestiggy]
@@ -19,13 +21,13 @@
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
-Aman Goel
+  Aman Goel
 - [Takigavin](https://github.com/takigavin)
 - [expert-geeks](https://github.com/expert-geeks)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
 - [Filipe Pinato](https://github.com/tiofih)
-- [Madhurima Chakraborty] (https://github.com/Nimmo1993)
+- [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
@@ -37,7 +39,7 @@ Aman Goel
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
-Drew Ferrell
+  Drew Ferrell
 - [Basil Fawlty](https://github.com/malyszm)
 - [Blake Wright](https://github.com/blakewright1)
 - [Tulsi Jain](https://github.com/tulsiksng)
@@ -56,7 +58,7 @@ Drew Ferrell
 - [Kurtis Huff](https://github.com/kmhuff)
 - [Tran Le Quoc Anh](https://github.com/Al0ngsy)
 - [bethuel](https://github.com/bcmmbaga)
-- [arvind] (https://github.com/CoderArvind)
+- [arvind](https://github.com/CoderArvind)
 - [rkg18](https://github.com/rkg18)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
@@ -68,7 +70,7 @@ Drew Ferrell
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
-Rachit Tiwari
+  Rachit Tiwari
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
 - [oranjjun](https://github.com/oranjjun)
@@ -109,7 +111,7 @@ Rachit Tiwari
 - [pyku](https://github.com/pyku/)
 - [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
-- [Sandeep Nanjundaswamy] (https://github.com/sandeepn623)
+- [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
 - [Harsh Prabhu](https://github.com/harsh1599)
@@ -172,7 +174,7 @@ Rachit Tiwari
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
 - [Prakash Sukumar](https://github.com/praknetlg)
 - [David Fernandes](https://github.com/codigospredicados)
-Jeevan Kiran Lenka
+  Jeevan Kiran Lenka
 - [Marcin Lubowicz](https://github.com/Moviss)
 - [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
@@ -307,7 +309,7 @@ Jeevan Kiran Lenka
 - [Tim Albert](https://github.com/talbert1209)
 - [Alif Jahan](https://github.com/zxalif)
 - [Tamar Shacked](https://github.com/tshacked)
-- [Dhaval Desai] (https://github.com/xPetra)
+- [Dhaval Desai](https://github.com/xPetra)
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
@@ -482,7 +484,7 @@ Jeevan Kiran Lenka
 - [Pierre Monferrand](https://github.com/monferrand)
 - [Jesrapo](https://github.com/jesrapo)
 - [Dmitriy Makarov](https://github.com/dmxich)
-- [Moayad  Badawi](https://github.com/moayad-badawi)
+- [Moayad Badawi](https://github.com/moayad-badawi)
 - [Adam Stolarczyk](https://github.com/apm30)
 - [Bonnie Brown](https://github.com/brownbonnie)
 - [Swaraj Dehuri](https://github.com/darkknight27)
@@ -888,7 +890,7 @@ Jeevan Kiran Lenka
 - [Avantikaa](https://github.com/Avantikaa)
 - [qiaojun](https://github.com/qiaojun2016)
 - [jinhokong](https://github.com/jinhokong)
-- [Michael Morrow] (https://github.com/mamorrow1957)
+- [Michael Morrow](https://github.com/mamorrow1957)
 - [Matthew Kerlin](https://github.com/MerlinGoneSuperSaiyan)
 - [Miguel Magana](https://https://github.com/miguelmagana)
 - [Divya Nayal](https://github.com/divyanayal)
@@ -940,7 +942,7 @@ Jeevan Kiran Lenka
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
-  [Himanshu Gosavi](https://github.com/Himanshu-2998-hash)  
+  [Himanshu Gosavi](https://github.com/Himanshu-2998-hash)
 - [Jannisko](https://github.com/jannisko/)
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
