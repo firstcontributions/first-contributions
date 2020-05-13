@@ -22,6 +22,7 @@
 - [Meerkat1999](https://github.com/Meerkats1999)
 Aman Goel
 - [Takigavin](https://github.com/takigavin)
+- [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
