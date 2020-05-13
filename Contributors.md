@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
@@ -170,6 +170,7 @@ Rachit Tiwari
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
 - [Prakash Sukumar](https://github.com/praknetlg)
 - [David Fernandes](https://github.com/codigospredicados)
+Jeevan Kiran Lenka
 - [Marcin Lubowicz](https://github.com/Moviss)
 - [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
