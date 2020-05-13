@@ -750,6 +750,7 @@ Jeevan Kiran Lenka
 - [Piotr Gargula](https://github.com/pgagula)
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
+- [jc]
 - [Joao](https://github.com/Joaopedrobass)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
