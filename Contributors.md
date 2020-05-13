@@ -1000,6 +1000,7 @@ Jeevan Kiran Lenka
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
 - [Pedro Veríssimo](https://github.com/pbv2)
+- [Steve Clelland] (https://github.com/SteveClelland) 
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Howard Jiang](https://github.com/hjiang4332)
