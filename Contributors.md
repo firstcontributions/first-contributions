@@ -1093,5 +1093,6 @@ Rachit Tiwari
 - [Raksha Kannusami](https://github.com/rakshakannu)
 - [Omer Zinman](https://github.com/omer7642)
 - [Mustafa Sadedil](https://github.com/sadedil)
+- [bradwl](https://github.com/bradwl)
 - [TahsanVai](https://github.com/tahsanvai)
 - [Maya The Dog](https://www.linkedin.com/in/mayathedog)
