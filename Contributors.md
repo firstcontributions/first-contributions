@@ -8,6 +8,7 @@
 - [Micael Illoa](https://github.com/micaelillos)
 - [Stuart Palmer](https://stuart-p.github.io/)
 - [Eren]
+- [Bhavik Chavda](https://github.com/chavda-bhavik)
 - [Nourma Bumgarner]
 - [juvestiggy]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
