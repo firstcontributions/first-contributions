@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Richard Laveau](https://github.com/richardlaveau)
@@ -77,6 +77,7 @@
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 Rachit Tiwari
+- [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
@@ -1084,6 +1085,7 @@ Rachit Tiwari
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [MorganR Developer](https://github.com/morganrdeveloper)
+- [skwiryt](https://github.com/skwiryt)
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
@@ -1091,3 +1093,4 @@ Rachit Tiwari
 - [Omer Zinman](https://github.com/omer7642)
 - [Mustafa Sadedil](https://github.com/sadedil)
 - [TahsanVai](https://github.com/tahsanvai)
+- [Maya The Dog](https://www.linkedin.com/in/mayathedog)
