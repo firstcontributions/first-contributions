@@ -199,6 +199,7 @@ Rachit Tiwari
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tpartridge1](https://github.com/tpartridge1)
+Saloni Goyal
 - [Shenyu](https://github.com/lishenyu16)
 - [Akshat](https://github.com/AkshatChhapolia)
 - [Peter Kim](https://github.com/PeterKim1967)
