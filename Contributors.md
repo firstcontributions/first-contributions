@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Richard Laveau](https://github.com/richardlaveau)
@@ -30,7 +31,7 @@
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
-- [Ayush Mandloi] (https://github.com/ayushmandloi2)
+- [Ayush Mandloi](https://github.com/ayushmandloi2)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
@@ -53,6 +54,7 @@
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](httpss://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
+- [Elvis Salaton](https://github.com/Salaton)
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
@@ -76,7 +78,7 @@
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
-Rachit Tiwari
+  Rachit Tiwari
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
@@ -1008,7 +1010,7 @@ Rachit Tiwari
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
 - [Pedro Veríssimo](https://github.com/pbv2)
-- [Steve Clelland] (https://github.com/SteveClelland) 
+- [Steve Clelland](https://github.com/SteveClelland)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Howard Jiang](https://github.com/hjiang4332)
