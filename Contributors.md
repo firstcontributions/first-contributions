@@ -1082,6 +1082,7 @@ Jeevan Kiran Lenka
 - [Jack Burrus](https://github.com/jackburrus)
 - [Yann Scheiffer](https://github.com/yaschei)
 - [None Lone](https://github.com/nonelone)
+- [Brian Miller](https://github.com/bmill42)
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [MorganR Developer](https://github.com/morganrdeveloper)
