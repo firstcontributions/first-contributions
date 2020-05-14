@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Augusto Spinelli](https://github.com/gutospinelli)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
