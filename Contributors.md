@@ -1,5 +1,6 @@
-# Contributors
+﻿# Contributors
 - [Bijesh Mohan](https://github.com/bijeshmohan)
+- [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
@@ -8,6 +9,7 @@
 - [Nourma Bumgarner]
 - [juvestiggy]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sayantan Karmakar](https://github.com/sayantank)
@@ -22,6 +24,7 @@
 - [Meerkat1999](https://github.com/Meerkats1999)
 Aman Goel
 - [Takigavin](https://github.com/takigavin)
+- [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
@@ -29,6 +32,7 @@ Aman Goel
 - [Ayush Mandloi] (https://github.com/ayushmandloi2)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Madhurima Chakraborty] (https://github.com/Nimmo1993)
+Muskan Maheshwari
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Carnival Wilson](https://github.com/TiKebek)
@@ -73,6 +77,8 @@ Drew Ferrell
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 Rachit Tiwari
+- [Dhruv Mehta](https://github.com/dhruvmehtaaa)
+- [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
 - [oranjjun](https://github.com/oranjjun)
@@ -87,6 +93,7 @@ Rachit Tiwari
 - [Alonzo Church](https://github.com/Awesome)
 - [Damien Burke](https://github.com/DamienJBurke)
 - [Arindam Majumder](https://github.com/i-m-arin)
+- [Art Vandelay](https://github.com/dtboiko)
 - [Satyam Mishra](https://github.com/satyam15mishra)
 - [DJFILL](https://github.com/djfill)
 - [BenEwing33](https://github.com/BenEwing33)
@@ -1078,6 +1085,7 @@ Jeevan Kiran Lenka
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
 - [MorganR Developer](https://github.com/morganrdeveloper)
+- [skwiryt](https://github.com/skwiryt)
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
@@ -1085,3 +1093,5 @@ Jeevan Kiran Lenka
 - [Omer Zinman](https://github.com/omer7642)
 - [Mustafa Sadedil](https://github.com/sadedil)
 - [bradwl](https://github.com/bradwl)
+- [TahsanVai](https://github.com/tahsanvai)
+- [Maya The Dog](https://www.linkedin.com/in/mayathedog)
