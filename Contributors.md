@@ -199,6 +199,7 @@ Rachit Tiwari
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tpartridge1](https://github.com/tpartridge1)
+Saloni Goyal
 - [Shenyu](https://github.com/lishenyu16)
 - [Akshat](https://github.com/AkshatChhapolia)
 - [Peter Kim](https://github.com/PeterKim1967)
@@ -659,6 +660,7 @@ Rachit Tiwari
 - [Lana](https://github.com/lanaabirached)
 - [Lige Williamson](https://github.com/Lige-w)
 - [CarlosOGM](https://github.com/CarlosOGM)
+- [yuvaaraaja](https://github.com/yuvaaraaja)
 - [Keiran Glynn](https://github.com/KeiranGlynn)
 - [Danilo Zabala II](https://github.com/dczii)
 - [KK998](https://github.com/KK998)
