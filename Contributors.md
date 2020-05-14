@@ -74,6 +74,7 @@ Drew Ferrell
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 Rachit Tiwari
+- [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
 - [oranjjun](https://github.com/oranjjun)
