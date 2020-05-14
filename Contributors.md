@@ -538,6 +538,7 @@ Rachit Tiwari
 - [Luiz Felipe Domingues](https://github.com/lfsando)
 - [Hardy Xu](https://github.com/xuxin3101)
 - [penpenpng](https://github.com/penpenpng)
+- [Giovanni Ciandrini] (https://github.com/gciandro13)
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
