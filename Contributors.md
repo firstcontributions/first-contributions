@@ -772,6 +772,7 @@ Rachit Tiwari
 - [Piotr Gargula](https://github.com/pgagula)
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
+- [Ben Balentine](https://github.com/BenBamboozled)
 - [jc]
 - [Joao](https://github.com/Joaopedrobass)
 - [Selvaa](https://github.com/selvaa3009)
