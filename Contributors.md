@@ -9,6 +9,7 @@
 - [Nourma Bumgarner]
 - [juvestiggy]
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sayantan Karmakar](https://github.com/sayantank)
