@@ -1088,6 +1088,7 @@ Saloni Goyal
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
 - [Shreya Choubey](https://github.com/shreyachoubey29)
+- [Fiona Xie](https://github.com/xiefiona)
 - [Rajat Singh](https://github.com/rajat641)
 - [Jack Burrus](https://github.com/jackburrus)
 - [Yann Scheiffer](https://github.com/yaschei)
