@@ -1107,3 +1107,4 @@ Saloni Goyal
 - [bradwl](https://github.com/bradwl)
 - [TahsanVai](https://github.com/tahsanvai)
 - [Maya The Dog](https://www.linkedin.com/in/mayathedog)
+- [Paweł Wrzosek](https://github.com/wrzonki)
