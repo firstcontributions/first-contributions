@@ -1,5 +1,6 @@
 # Contributors
 - [Bijesh Mohan](https://github.com/bijeshmohan)
+- [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
