@@ -2,6 +2,7 @@
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
+theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Artur de Andrade](https://github.com/ArturDeAndrade)
