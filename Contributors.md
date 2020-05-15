@@ -872,6 +872,7 @@ Saloni Goyal
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
 - [Arzyon](https://github.com/Arzyon)
+- [Aidan McArthur](https://github.com/amcarthur)
 - [MegaSalmon](https://github.com/MegaSalmon)
 - [Alex H](https://github.com/afhare/)
 - [Martin Carles](https://github.com/martincarles)
