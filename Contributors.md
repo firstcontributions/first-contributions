@@ -14,6 +14,7 @@ theerrors
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
+- [Sam Venables] (https://github.com/vensaherald)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
