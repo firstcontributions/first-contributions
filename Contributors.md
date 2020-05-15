@@ -333,6 +333,7 @@ Saloni Goyal
 - [Manuel Pissanos](https://github.com/mpissanos)
 - [Alvin Jorrel Pascual](https://github.com/alvinjorrel)
 - [Nate deBoer](https://github.com/CrazyMuppets)
+- [Giacomo Tumini](https://github.com/jacktumi)
 - [Se7enSquared](https://github.com/Se7enSquared)
 - [Panasarn Kanchanapiboon](https://github.com/musickn)
 - [Sary Sodaney](https://github.com/sodaney)
