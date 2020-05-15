@@ -482,6 +482,7 @@ Saloni Goyal
 - [Karen White](https://github.com/karen-white)
 - [Jono](https://github.com/EagleOne42)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
+Avani Shah-Trial
 - [Dominika Malinowska](https://github.com/doma1991)
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
