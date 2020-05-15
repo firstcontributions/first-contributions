@@ -27,6 +27,7 @@ theerrors
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
   Aman Goel
+- [Jonas Hucklenbroich](https://johuck.tk)
 - [Takigavin](https://github.com/takigavin)
 - [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
