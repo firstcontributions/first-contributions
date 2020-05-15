@@ -61,6 +61,7 @@ theerrors
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
+- [Elvis Salaton](https://github.com/Salaton)
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
