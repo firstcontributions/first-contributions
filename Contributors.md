@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
@@ -1088,7 +1088,8 @@ Saloni Goyal
 - [Gord Bolli](https://github.com/gbolli)
 - [Sergio García](https://github.com/sergiogp98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
-- [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
+- [BHMBS Ibrahim👨
+💻](https://github.com/barhouum7)
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
 - [Shreya Choubey](https://github.com/shreyachoubey29)
@@ -1113,3 +1114,4 @@ Saloni Goyal
 - [Maya The Dog](https://www.linkedin.com/in/mayathedog)
 - [Paweł Wrzosek](https://github.com/wrzonki)
 - [steadily-worked](https://github.com/steadily-worked)
+- [ashwani-rathee](https://github.com/ashwani-rathee)
