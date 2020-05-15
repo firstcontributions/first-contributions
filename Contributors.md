@@ -9,14 +9,7 @@
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
-- [Artur de Andrade](https://github.com/ArturDeAndrade)
-- [Micael Illoa](https://github.com/micaelillos)
-- [Stuart Palmer](https://stuart-p.github.io/)
-- [Eren]
-- [Bhavik Chavda](https://github.com/chavda-bhavik)
-- [Nourma Bumgarner]
-- [juvestiggy]
-- [Prateek](https://github.com/Prateek-ps)
+- Kartik Gambhir
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
