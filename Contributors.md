@@ -12,6 +12,7 @@ theerrors
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- siddharth chauhan
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
