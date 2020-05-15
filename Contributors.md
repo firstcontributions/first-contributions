@@ -19,6 +19,7 @@ theerrors
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
+- [Peter Stange](https://github.com/dipstange)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
 - [Connor Doherty](https://github.com/connord96)
