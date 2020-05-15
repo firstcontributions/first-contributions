@@ -15,6 +15,7 @@ theerrors
 - [juvestiggy]
 - [Prateek](https://github.com/Prateek-ps)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Mat Sol]
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
