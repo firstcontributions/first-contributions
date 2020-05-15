@@ -295,6 +295,7 @@ Saloni Goyal
 - [Alex Parmentier](https://github.com/alexparm4)
 - [Andy Long](https://github.com/along5)
 - [Logan Watson](https://github.com/lwatson2)
+- [Ranjit Saimbi](https://github.com/RanjitSaimbi/)
 - [Francesco Sardone](https://github.com/Airsit)
 - [Michael Shea](https://github.com/soum-io)
 - [Priyanka Bakhshi](https://github.com/PriyankaRBakhshi)
