@@ -1100,6 +1100,7 @@ Avani Shah-Trial
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
+- [Mruga Shah](https://github.com/mruga30)
 - [Sergio García](https://github.com/sergiogp98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨‍💻](https://github.com/barhouum7)
