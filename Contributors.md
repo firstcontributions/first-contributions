@@ -21,6 +21,7 @@ theerrors
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [Peter Stange](https://github.com/dipstange)
+- [Thomas Moulton] (https://github.com/Thomas6)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
 - [Connor Doherty](https://github.com/connord96)
