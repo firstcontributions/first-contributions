@@ -1040,6 +1040,7 @@ Avani Shah-Trial
 - [Steve Clelland](https://github.com/SteveClelland)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
+- [Howling Wolf Table](https://https://github.com/HowlingWolfTable)
 - [Howard Jiang](https://github.com/hjiang4332)
 - [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
