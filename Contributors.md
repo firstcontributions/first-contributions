@@ -62,6 +62,7 @@ theerrors
 - [Jordi Hoven](https://github.com/Jordakoes)
 - [Puneeth PS](https://github.com/puneethps)
 - [evanca](https://github.com/evanca)
+- [Tomas Rejhons](https://github.com/tomasrejhons)
 - [AnhHoang](https://github.com/Splroak)
 - [Shubham Atlani](https://github.com/shubhamatlani)
 - [Nikhil Arya](https://github.com/nikhilaryann)
