@@ -4,6 +4,7 @@
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
+- [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
