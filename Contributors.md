@@ -8,6 +8,7 @@
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
+- [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
