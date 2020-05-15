@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Sareen Shah] (https://github.com/sareen279)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
@@ -37,7 +37,7 @@ theerrors
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
-- [Ayush Mandloi] (https://github.com/ayushmandloi2)
+- [Ayush Mandloi](https://github.com/ayushmandloi2)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
@@ -85,7 +85,8 @@ theerrors
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
-Rachit Tiwari
+  Rachit Tiwari
+- [Tristan Mc](https://github.com/T-mclennan)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
@@ -1033,7 +1034,7 @@ Avani Shah-Trial
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
 - [Pedro Veríssimo](https://github.com/pbv2)
-- [Steve Clelland] (https://github.com/SteveClelland) 
+- [Steve Clelland](https://github.com/SteveClelland)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Howard Jiang](https://github.com/hjiang4332)
