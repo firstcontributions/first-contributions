@@ -515,6 +515,7 @@ Avani Shah-Trial
 - [Krishna Mohan](https://github.com/kmohan217gg)
 - [Joydeep Tapaswi](https://github.com/tapaswimail)
 - [Sandeepa AMCP](https://github.com/sandeepaamcp)
+- [John Murphy](https://github.com/johnemurphy1/)
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
 - [Pierre Monferrand](https://github.com/monferrand)
 - [Jesrapo](https://github.com/jesrapo)
