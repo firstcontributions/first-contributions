@@ -1106,6 +1106,7 @@ Avani Shah-Trial
 - [Brian Miller](https://github.com/bmill42)
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
+- [tino ]
 - [MorganR Developer](https://github.com/morganrdeveloper)
 - [skwiryt](https://github.com/skwiryt)
 - [Ravi Gupta](https://github.com/rgupta1234)
