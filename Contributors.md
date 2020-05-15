@@ -705,6 +705,7 @@ Saloni Goyal
 - [Teyjattt](https://github.com/Teyjattt)
 - [DonClaveau3](https://github.com/DonClaveau3)
 - [Aradhana Singh](https://github.com/Aradhana-Singh)
+- [3timesFaster](https://github.com/3timesfaster) 
 - [viamarie77](https://github.com/viamarie77)
 - [dystar](https://github.com/dystar)
 - [stephenjwinn](https://github.com/stephenjwinn)
