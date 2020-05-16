@@ -12,6 +12,7 @@
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 theerrors
+-[Babatunde Koiki](https://github.com/Babatunde13)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
