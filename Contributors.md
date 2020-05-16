@@ -7,6 +7,7 @@
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
+- [Prateek Kumar Singh](https://github.com/pksgmv)
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
