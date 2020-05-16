@@ -1062,6 +1062,7 @@ Avani Shah-Trial
 - [Muktadir Khan](https://github.com/muktadirkhan889)
 - [Cod3rx](https://github.com/coderx7)
 - [Andy Rohde](https://github.com/AndrewPRohde)
+- [MrSnix](https://github.com/MrSnix)
 - [Sawsan A](https://github.com/saleryan)
 - [gerosprime](https://github.com/gerosprime)
 - [Marcao F](https://github.com/mackmak/)
