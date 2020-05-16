@@ -369,6 +369,7 @@ Saloni Goyal
 - [Saurabh Suman](https://github.com/saurabh98s)
 - [Keegan Smith](https://github.com/keegan211)
 - [Soniya Doshi](https://github.com/soniyadoshi)
+- [hitalolee](https://github.com/hitalolee)
 - [Sharath Rao](https://github.com/srylix10)
 - [Bulent Turkmen](https://github.com/faranjit)
 - [Chor Visalrotanak](https://github.com/visalrotanak)
