@@ -1145,3 +1145,4 @@ Avani Shah-Trial
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [Zoe-KL](https://github.com/zoe-kl)
 - [Nesh Ojiambo](https://github.com/neshoj)
+- [Bart van Lierop](https://github.com/bvanlierop)
