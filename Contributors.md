@@ -2,6 +2,7 @@
 - [Sareen Shah](https://github.com/sareen279)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
+- [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
