@@ -824,6 +824,7 @@ Avani Shah-Trial
 - [@brownesc](https://github.com/brownesc)
 - [Chaitanya Sama](https://github.com/chaitanyasama)
 - [Charlyp](https://github.com/charlespierru)
+- [Aloïs Brun](https://github.com/AloisBrun)
 - [Myron Liu](https://github.com/myron-liu)
 - [wet-dog](https://github.com/wet-dog)
 - [Brian Joo](https://github.com/brianhjoo)
