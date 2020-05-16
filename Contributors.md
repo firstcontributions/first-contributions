@@ -279,8 +279,8 @@ Saloni Goyal
 - [Chris Walters](https://github.com/Chriswalt64)
 - [Visaj Kapadia](https://github.com/visajkapadia)
 - [Jorge Gabitto](https://github.com/jgabitto)
-- [Yvon Manzi](https://github.com/yvonmanzi)
-
+- [Yvon Manzi](https://github.com/yvonmanzi) 
+- [Genard Montes](https://github.com/G-Montes)
 - [Monish Khambhati](https://github.com/moni2096)
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
