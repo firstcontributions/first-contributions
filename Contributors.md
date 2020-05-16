@@ -9,24 +9,25 @@
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
-theerrors
+- [theerrors](github-address-to-be-updated)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Shiv Shankar](https://github.com/sivsnkr)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
-- Kartik Gambhir
+- [Kartik Gambhir](github-address-to-be-updated)
 - [Swati Jain](https://github.com/swati345)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
-- siddharth chauhan
+- [siddharth chauhan](github-address-to-be-updated)
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
-- [Sam Venables] (https://github.com/vensaherald)
+- [Michael Adewunmi](https://github.com/michaelAdewunmi)
+- [Sam Venables](https://github.com/vensaherald)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [Peter Stange](https://github.com/dipstange)
-- [Thomas Moulton] (https://github.com/Thomas6)
+- [Thomas Moulton](https://github.com/Thomas6)
 - [MEC](https://github.com/mecpl)
 - [SKRUW](https://github.com/skruw)
 - [Connor Doherty](https://github.com/connord96)
@@ -34,7 +35,7 @@ theerrors
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
-  Aman Goel
+- [Aman Goel](github-address-to-be-updated)
 - [Jonas Hucklenbroich](https://johuck.tk)
 - [Takigavin](https://github.com/takigavin)
 - [Chris Baird](https://github.com/chris-baird)
@@ -51,14 +52,14 @@ theerrors
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [Jordan Miracle](https://github.com/jordanmiracle)
-- Sophie
+- [Sophie](github-address-to-be-updated)
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
-- Ayan
+- [Ayan](github-address-to-be-updated)
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
 - [James Au](https://github.com/jamesaucode)
-  Drew Ferrell
+- [Drew Ferrell](github-address-to-be-updated)
 - [Basil Fawlty](https://github.com/malyszm)
 - [Blake Wright](https://github.com/blakewright1)
 - [Tulsi Jain](https://github.com/tulsiksng)
@@ -82,7 +83,7 @@ theerrors
 - [Tran Le Quoc Anh](https://github.com/Al0ngsy)
 - [bethuel](https://github.com/bcmmbaga)
 - [arvind](https://github.com/CoderArvind)
-- Aryaman
+- [Aryaman](github-address-to-be-updated)
 - [rkg18](https://github.com/rkg18)
 - [m401](https://github.com/m401)
 - [Claire Wright](https://github.com/ccannawright)
@@ -94,7 +95,7 @@ theerrors
 - [Ahmad Sami](https://github.com/Asami1997)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
-  Rachit Tiwari
+- [Rachit Tiwari](github-address-to-be-updated)
 - [Tristan Mc](https://github.com/T-mclennan)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
@@ -198,7 +199,7 @@ theerrors
 - [CodeSadhu](https://github.com/CodeSadhu)
 - [John Prideaux](https://github.com/jpridx)
 - [Javad Yadegari](https://github.com/jyadegari)
-- [Paramesh Chandra]
+- [Paramesh Chandra](github-address-to-be-updated)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
 - [Kevin Satur](https://github.com/math-ecen)
@@ -206,7 +207,7 @@ theerrors
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
 - [Prakash Sukumar](https://github.com/praknetlg)
 - [David Fernandes](https://github.com/codigospredicados)
-  Jeevan Kiran Lenka
+- [Jeevan Kiran Lenka](github-address-to-be-updated)
 - [Marcin Lubowicz](https://github.com/Moviss)
 - [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
@@ -216,7 +217,7 @@ theerrors
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
 - [tpartridge1](https://github.com/tpartridge1)
-Saloni Goyal
+- [Saloni Goyal](github-address-to-be-updated)
 - [Shenyu](https://github.com/lishenyu16)
 - [Recep Daban](https://github.com/worthrd)
 - [Motunrayo Koyejo](https://github.com/motunrayokoyejo)
@@ -510,7 +511,7 @@ Saloni Goyal
 - [Karen White](https://github.com/karen-white)
 - [Jono](https://github.com/EagleOne42)
 - [Alexandru Săndulescu](https://github.com/alexsandulescu)
-Avani Shah-Trial
+- [Avani Shah-Trial](github-address-to-be-updated)
 - [Dominika Malinowska](https://github.com/doma1991)
 - [Andrei Ionita](https://github.com/Andrei-Ionita)
 - [Liz Burton](https://github.com/lizbur10)
@@ -573,7 +574,7 @@ Avani Shah-Trial
 - [Luiz Felipe Domingues](https://github.com/lfsando)
 - [Hardy Xu](https://github.com/xuxin3101)
 - [penpenpng](https://github.com/penpenpng)
-- [Giovanni Ciandrini] (https://github.com/gciandro13)
+- [Giovanni Ciandrini](https://github.com/gciandro13)
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
@@ -807,7 +808,7 @@ Avani Shah-Trial
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
 - [Ben Balentine](https://github.com/BenBamboozled)
-- [jc]
+- [jc](github-address-to-be-updated)
 - [Joao](https://github.com/Joaopedrobass)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
@@ -1133,7 +1134,7 @@ Avani Shah-Trial
 - [Brian Miller](https://github.com/bmill42)
 - [Kostas Grodis](https://github.com/grodis)
 - [Cy-Dev-Tex](https://github.com/Cy-dev-tex)
-- [tino ]
+- [tino](github-address-to-be-updated)
 - [MorganR Developer](https://github.com/morganrdeveloper)
 - [skwiryt](https://github.com/skwiryt)
 - [Ravi Gupta](https://github.com/rgupta1234)
