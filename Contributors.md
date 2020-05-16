@@ -12,6 +12,7 @@
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [Shiv Shankar](https://github.com/sivsnkr)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
