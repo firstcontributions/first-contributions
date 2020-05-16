@@ -1,4 +1,5 @@
 # Contributors
+- [Anurag Gupta](https://github.com/anuraggupta29)
 - [Sareen Shah](https://github.com/sareen279)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
