@@ -15,6 +15,7 @@ theerrors
 - [Shiv Shankar](https://github.com/sivsnkr)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
+- [Swati Jain](https://github.com/swati345)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - siddharth chauhan
 - [Cesar Molina](https://github.com/cesarMtorres)
