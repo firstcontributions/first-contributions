@@ -17,6 +17,7 @@ theerrors
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
 - [Swati Jain](https://github.com/swati345)
+- [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - siddharth chauhan
 - [Cesar Molina](https://github.com/cesarMtorres)
