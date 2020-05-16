@@ -112,6 +112,7 @@ theerrors
 - [Preyansh Kaushik](https://github.com/preyansh98)
 - [Anirudh](https://github.com/Anirudh09)
 - [Alonzo Church](https://github.com/Awesome)
+- [Preetham Kulai](https://github.com/scamper07)
 - [Damien Burke](https://github.com/DamienJBurke)
 - [Arindam Majumder](https://github.com/i-m-arin)
 - [Art Vandelay](https://github.com/dtboiko)
