@@ -12,6 +12,7 @@
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Shiv Shankar](https://github.com/sivsnkr)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - Kartik Gambhir
