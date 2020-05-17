@@ -17,6 +17,7 @@ theerrors
 -[Babatunde Koiki](https://github.com/Babatunde13)
 - [Richard Laveau](https://github.com/richardlaveau)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
+- [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Shiv Shankar](https://github.com/sivsnkr)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
