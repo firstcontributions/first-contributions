@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Arkadyuti Bandyopadhyay] (https://github.com/ARKEOLOGIST)
@@ -256,6 +256,7 @@ Saloni Goyal
 - [François Bibeau](https://github.com/fbibeau)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
+- [James Ma] (https://github.com/jamesma100)
 - [Lucian Dinu](https://github.com/luciandinu93)
 - [meSSH](https://github.com/IAmSSH)
 - [AatPa](https://github.com/AatPa)
