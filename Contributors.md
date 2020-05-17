@@ -123,6 +123,7 @@ theerrors
 - [Damien Burke](https://github.com/DamienJBurke)
 - [Arindam Majumder](https://github.com/i-m-arin)
 - [Art Vandelay](https://github.com/dtboiko)
+- [Nolan McShea] (https://github.com/Nuolong)
 - [Satyam Mishra](https://github.com/satyam15mishra)
 - [DJFILL](https://github.com/djfill)
 - [BenEwing33](https://github.com/BenEwing33)
