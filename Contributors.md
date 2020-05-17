@@ -111,6 +111,7 @@ theerrors
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
   Rachit Tiwari
 - [Tristan Mc](https://github.com/T-mclennan)
+- [Dugg Antocicco](https://github.com/dantocicco)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
