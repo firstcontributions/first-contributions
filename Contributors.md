@@ -124,6 +124,7 @@ theerrors
 - [Anis Bouhdaoui](https://github.com/abouhdaoui)
 - [Greg Mac](https://github.com/gregmacdev)
 - [Olushesi toheeb](https://github.com/OlushesiToheeb)
+- [Chocobobafett](https://github.com/Chocobobafett)
 - [Wen Liang](https://github.com/wensuk)
 - [siddharth kumar](https://github.com/Siddharth-coder13)
 - [Mantas Astrauskas](https://github.com/MAstrauskas)
