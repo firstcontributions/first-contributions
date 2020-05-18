@@ -435,6 +435,7 @@ Saloni Goyal
 - [Tim Crammond](https://github.com/tcramm0nd/)
 - [Tony-oldport](https://github.com/tony-oldport/)
 - [Jonathan Barker](https://github.com/jonathanbarker)
+- [whiteduke3](https://github.com/whiteduke3)
 - [Alex Rainier](https://github.com/acrainier1)
 - [Steven Moe](https://github.com/stevenny)
 - [Ben Mattson](https://github.com/benmattson7)
