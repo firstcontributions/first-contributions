@@ -7,6 +7,7 @@
 - [Claire](https://github.com/claire-1)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
+- [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Roshan Kanwar](https://github.com/roshan0708)
