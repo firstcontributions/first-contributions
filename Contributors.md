@@ -195,6 +195,7 @@ Manzoor
 - [Michał Domarus](https://github.com/mdomarus)
 - [Carlos Castro](https://github.com/zero4994)
 - [Michelle Law](https//github.com/feamoda)
+- [Vinay Maurya](https//github.com/VinayMaurya001)
 - [tkolleh](https://github.com/tkolleh)
 - [muxyu](https://github.com/muxyu)
 - [SignatureKT] (https://github.com/SignatureKT)
