@@ -11,6 +11,7 @@
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [carmour](https://github.com/carmour)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
+-[Ssali Jonathan](https://github.com/jod35)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
