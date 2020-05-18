@@ -56,6 +56,7 @@ theerrors
 - [Takigavin](https://github.com/takigavin)
 - [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
+Manzoor
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
