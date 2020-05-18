@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Anurag Gupta](https://github.com/anuraggupta29)
@@ -1198,3 +1198,4 @@ Avani Shah-Trial
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [madpeh](https://github.com/madpeh)
 - [Ambati Vasanth](https://github.com/Vasanth289)
+- [Ayush Kumar](https://github.com/ayushkr3301)
