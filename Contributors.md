@@ -45,6 +45,7 @@ theerrors
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables] (https://github.com/vensaherald)
 - [Sayantan Karmakar](https://github.com/sayantank)
+- [Eric Sanders](https://github.com/BigECire)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [Peter Stange](https://github.com/dipstange)
