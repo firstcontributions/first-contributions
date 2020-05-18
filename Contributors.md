@@ -4,6 +4,7 @@
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Arkadyuti Bandyopadhyay] (https://github.com/ARKEOLOGIST)
 - [Sareen Shah](https://github.com/sareen279)
+- [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
