@@ -597,6 +597,7 @@ Avani Shah-Trial
 - [Ryan Redburn](https://github.com/RyanRedburn)
 - [Ryan Oliveira](https://github.com/Ryoliveira)
 - [Martynas Matimaitis](https://github.com/mmaaartin)
+- [Mirko Vetrano](https://github.com/mirko-vetrano)
 - [Przemek Orechwa](https://https://github.com/PrzeOr82)
 - [Oliver Fenn](https://github.com/OliverFenn)
 - [Zanoni Contreras](https://github.com/zamboni86)
