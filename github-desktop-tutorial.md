@@ -123,7 +123,6 @@ Now let's get you started with contributing to other projects. We've compiled a 
 |---|---|---|---|---|---|
 |[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
 
-
 ## Self-Promotion
 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
