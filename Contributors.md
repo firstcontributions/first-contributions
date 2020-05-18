@@ -69,6 +69,7 @@ theerrors
 - Sophie
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
+- [bubbameetze](https://github.com/bubbameetze)
 - Ayan
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
