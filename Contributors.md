@@ -22,6 +22,7 @@ Piyush Goel
 - [Megan Thong](https://github.com/pikamegan)
 theerrors
 -[Babatunde Koiki](https://github.com/Babatunde13)
+-[Harsh Vardhan](https://github.com/harsh-1907)
 -[Abhijith Basavaraj] (https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Richard Laveau](https://github.com/richardlaveau)
