@@ -12,6 +12,7 @@
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
+- [Katie Wilday] (https://github.com/katiewilday)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 -[Ssali Jonathan](https://github.com/jod35)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
