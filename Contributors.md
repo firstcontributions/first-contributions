@@ -1,6 +1,7 @@
 # Contributors
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
+-[Rion Ghosh](https://github.com/Rion12)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Arkadyuti Bandyopadhyay] (https://github.com/ARKEOLOGIST)
 - [Sareen Shah](https://github.com/sareen279)
