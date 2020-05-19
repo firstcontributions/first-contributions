@@ -967,6 +967,7 @@
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
 - [Rugved](https://github.com/rugved)
+- [Øyvind Hatland](https://github.com/Hatland87)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Sagar Datta](ttps://github.com/sagar-datta)
 - [John Curcio](https://github.com/johncurcio)
