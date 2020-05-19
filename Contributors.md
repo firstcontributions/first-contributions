@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Anurag Gupta](https://github.com/anuraggupta29)
@@ -50,6 +50,7 @@ theerrors
 - [Eric Sanders](https://github.com/BigECire)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
+- [Mayank Rikh](https://github.com/mrikh)
 - [Peter Stange](https://github.com/dipstange)
 - [Thomas Moulton] (https://github.com/Thomas6)
 - [MEC](https://github.com/mecpl)
