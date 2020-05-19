@@ -55,6 +55,7 @@ theerrors
 - [Sam Venables] (https://github.com/vensaherald)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
+- [Urse Searle](https://github.com/GleebleNeeble)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
 - [Gaurav Kumar Singh](https://github.com/gkssingh51)
 - [Mayank Rikh](https://github.com/mrikh)
