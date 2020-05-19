@@ -573,6 +573,7 @@ Avani Shah-Trial
 - [Sandeepa AMCP](https://github.com/sandeepaamcp)
 - [John Murphy](https://github.com/johnemurphy1/)
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
+Arriola Coding
 - [Pierre Monferrand](https://github.com/monferrand)
 - [Jesrapo](https://github.com/jesrapo)
 - [Dmitriy Makarov](https://github.com/dmxich)
