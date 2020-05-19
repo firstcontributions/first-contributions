@@ -1216,6 +1216,7 @@ Arriola Coding
 - [Akshay-Arora](https://github.com/TheKingbyKey)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [Zoe-KL](https://github.com/zoe-kl)
+- [Josseline Perdomo](https://github.com/josselineperdomo)
 - [Christian Mitch](https://github.com/christian-rwynn/)
 - [Nesh Ojiambo](https://github.com/neshoj)
 - [Bart van Lierop](https://github.com/bvanlierop)
