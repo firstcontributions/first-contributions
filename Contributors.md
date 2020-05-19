@@ -29,6 +29,7 @@ Piyush Goel
 theerrors
 [Olatunji Dolapo](https://github.com/nofeesahdee)
 - [Rahul Tumpala](https://github.com/raul-1911)
+- [Aditya Maheshwari](https://github.com/maverick12345678)
 -[Babatunde Koiki](https://github.com/Babatunde13)
 -[Harsh Vardhan](https://github.com/harsh-1907)
 -[Abhijith Basavaraj] (https://github.com/AbhijithBasavaraj)
