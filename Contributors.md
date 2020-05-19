@@ -56,6 +56,7 @@ theerrors
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables] (https://github.com/vensaherald)
+Chifundo Kasiya
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
 - [Bhavesh Choudhary](https://github.com/webstar-code)
