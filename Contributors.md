@@ -26,6 +26,7 @@
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - [Jeremy Wong](http://github.com/jwjeremy)
+Kyle Hayden
 Piyush Goel
 - [Megan Thong](https://github.com/pikamegan)
 theerrors
@@ -178,6 +179,7 @@ Manzoor
 - [Satvir Sandhu](https://github.com/356Sandhu)
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Xuan Tao](https://github.com/Tobby0824/)
+
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Marcel Gehlen](https://github.com/mgehlen)
