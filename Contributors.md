@@ -81,6 +81,7 @@ Manzoor
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
 - [Ayush Mandloi](https://github.com/ayushmandloi2)
+- [Anthony Hill] (https://github.com/anthonyhi11)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
