@@ -95,6 +95,7 @@ Manzoor
 - Ayan
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
+- [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
   Drew Ferrell
 - [Basil Fawlty](https://github.com/malyszm)
