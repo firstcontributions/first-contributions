@@ -1082,6 +1082,7 @@ Arriola Coding
 - [AndyCE](https://github.com/AndyCE)
 - [samhauer](https://github.com/samhauer)
 - [Boomly](https://github.com/Boomly)
+- [Grace Wilcox] (https://github.com/gracewilcox)
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
