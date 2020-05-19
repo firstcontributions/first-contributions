@@ -54,6 +54,7 @@ theerrors
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Titir Adhikary](http://github.com/cubixpro)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
+- [Destinee Ekanem](https://github.com/Desss64)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables] (https://github.com/vensaherald)
 - [Sayantan Karmakar](https://github.com/sayantank)
