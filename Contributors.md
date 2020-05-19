@@ -15,6 +15,7 @@
 -[Ssali Jonathan](https://github.com/jod35)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
+- [Gunish Matta](https://github.com/gunishmatta)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
