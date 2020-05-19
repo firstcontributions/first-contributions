@@ -33,6 +33,7 @@ theerrors
 -[Abhijith Basavaraj] (https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Richard Laveau](https://github.com/richardlaveau)
+- [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
