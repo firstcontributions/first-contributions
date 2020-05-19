@@ -1202,6 +1202,7 @@ Arriola Coding
 - [Nesh Ojiambo](https://github.com/neshoj)
 - [Bart van Lierop](https://github.com/bvanlierop)
 - [Abhishek Mohanta](https://github.com/FxGs)
+- [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
