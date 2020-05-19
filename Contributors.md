@@ -48,6 +48,7 @@ theerrors
 - [Swati Jain](https://github.com/swati345)
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- kyle
 - siddharth chauhan
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
@@ -1219,3 +1220,4 @@ Arriola Coding
 - [madpeh](https://github.com/madpeh)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
+
