@@ -46,6 +46,7 @@ theerrors
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
 - [Cesar Molina](https://github.com/cesarMtorres)
+- [Titir Adhikary](http://github.com/cubixpro)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables] (https://github.com/vensaherald)
