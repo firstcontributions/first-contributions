@@ -633,6 +633,7 @@
 - [Oliver Fenn](https://github.com/OliverFenn)
 - [Zanoni Contreras](https://github.com/zamboni86)
 - [Łukasz Pasek](https://github.com/lukaszpasek)
+- [Barry Cairns](https://github.com/barrycairns)
 - [Efrén Vázquez](https://github.com/efrensho)
 - [Patrick Uzuwe](https://github.com/puzuwe)
 - [James Miller](https://github.com/JamesMMiller)
