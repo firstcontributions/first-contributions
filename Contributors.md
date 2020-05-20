@@ -119,6 +119,7 @@
 - [Neeyat Lotlikar](https://github.com/Aurum1611)
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Jordi Hoven](https://github.com/Jordakoes)
+- [bp](https://github.com/benediktpetko)
 - [Puneeth PS](https://github.com/puneethps)
 - [evanca](https://github.com/evanca)
 - [Tomas Rejhons](https://github.com/tomasrejhons)
