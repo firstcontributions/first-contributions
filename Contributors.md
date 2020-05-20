@@ -1097,6 +1097,7 @@
 - [Grace Wilcox](https://github.com/gracewilcox)
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
+- [Jennifer Park](https://github.com/j3nniis)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
 - [mpatel17](https://github.com/mpatel17)
 - [keojo](https://github.com/keojo)
