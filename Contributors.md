@@ -18,6 +18,7 @@
 - [Katie Wilday] (https://github.com/katiewilday)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 -[Ssali Jonathan](https://github.com/jod35)
+- [Sanskar Patro] (https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman] (https://github.com/joelhart)
