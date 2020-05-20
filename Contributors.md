@@ -335,6 +335,7 @@
 - [Jim Ritchie](https://github.com/beldin0)
 - [Fabiano Ricci](https://github.com/faricci)
 - [Hao Wei Goh](https://github.com/haowei920)
+- [Comadfrik](https://github.com/comadfrik)
 - [Saboo](https://github.com/Saboo27)
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [Matt SQ](https://github.com/greyghost13)
