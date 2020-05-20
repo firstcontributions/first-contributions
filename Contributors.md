@@ -1026,6 +1026,7 @@
 - [Andy Liu](https://github.com/AndyLiuCodes)
 - [Lauren Partin](https://github.com/hensleyl4)
 - [Steven Delaney](https://github.com/sddelaney)
+- [Dilith Jayakody](https://github.com/dilithjay)
 - [Madusudhanan Bairappan](https://github.com/madhusona)
 - [Jake Kwon](https://github.com/FoxeyesJK)
 - [OmkarLubal](https://github.com/omkarlubal/)
