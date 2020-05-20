@@ -1194,6 +1194,7 @@
 - [Dilina Dehigama](https://github.com/dilinade)
 - [Dillon Bendig](https://github.com/dbendig17)
 - [Miyuru Thathsara](https://github.com/MiyuruThathsara)
+- [Robert Flaherty](https://github.com/roberteflaherty)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
 - [Iner Lofgren](https://github.com/InerLeeLofgren)
