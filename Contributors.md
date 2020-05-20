@@ -9,6 +9,7 @@
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
+- [Rumen Kasabov](https://github.com/rkasabov)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
 - [Saurabh Pal](https://github.com/bestpal97)
