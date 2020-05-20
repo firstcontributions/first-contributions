@@ -85,6 +85,7 @@
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
 - [Maraket](https://github.com/Maraket)
+- [Adesh Kumar](https://github.com/adeskmr)
 - [Lucas Zanin](https://github.com/LucasZan1n)
 - [Ayush Mandloi](https://github.com/ayushmandloi2)
 - [Anthony Hill](https://github.com/anthonyhi11)
