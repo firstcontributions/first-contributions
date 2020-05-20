@@ -1131,6 +1131,7 @@
 - [Eran Nave](https://github.com/erannave)
 - [Saran Sappa](https://github.com/saransappa)
 - [Susan Maas](https://github.com/susanmaas)
+- [aantikainen] (https://github.com/aantikainen)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Steve Clelland](https://github.com/SteveClelland)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
