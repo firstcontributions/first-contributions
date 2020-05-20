@@ -1243,6 +1243,7 @@
 - [Akshay-Arora](https://github.com/TheKingbyKey)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [Zoe-KL](https://github.com/zoe-kl)
+- [K@fuNet](https://github.com/kafunet)
 - [Christian Mitch](https://github.com/christian-rwynn/)
 - [Josseline Perdomo](https://github.com/josselineperdomo)
 - [Nesh Ojiambo](https://github.com/neshoj)
