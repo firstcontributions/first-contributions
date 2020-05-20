@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
@@ -28,6 +28,7 @@
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Charlotte Sides](https://github.com/charsides)
+- [Cedric Muuo] (https://github.com/damian-sketch)
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
