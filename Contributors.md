@@ -1202,6 +1202,7 @@
 - [Robert Flaherty](https://github.com/roberteflaherty)
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
+- [George Balchev](https://github.com/gbalchev)
 - [Iner Lofgren](https://github.com/InerLeeLofgren)
 - [jerp86](https://github.com/jerp86)
 - [Mruga Shah](https://github.com/mruga30)
