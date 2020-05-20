@@ -91,6 +91,7 @@
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
 - [Steve Hardy](https://github.com/Govanator12)
+- [Vibhor Agarwal](https://github.com/vibhor98)
 - [Mohan](https://github.com/mohankgaddam)
 - [Christopher Gardner](https://github.com/Orbitsub)
 - [Carnival Wilson](https://github.com/TiKebek)
