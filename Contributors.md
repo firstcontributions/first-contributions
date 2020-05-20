@@ -21,6 +21,7 @@
 - [Ssali Jonathan](https://github.com/jod35)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
+- [Rohit Nethi](https://github.com/RohitNethi)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman](https://github.com/joelhart)
 - [Gunish Matta](https://github.com/gunishmatta)
