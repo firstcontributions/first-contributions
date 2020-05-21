@@ -681,6 +681,7 @@
 - [penpenpng](https://github.com/penpenpng)
 - [Giovanni Ciandrini](https://github.com/gciandro13)
 - [Jasmine Tracey](https://github.com/traceyjas)
+- [Gabriel Ilochi](https://github.com/gblend)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
 - [Hary Kwon](https://github.com/Harry-Kwon)
 - [Drew Sommer](https://github.com/apsommer)
