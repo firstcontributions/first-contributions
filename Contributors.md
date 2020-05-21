@@ -38,6 +38,8 @@
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
+- [Jeremy Wong](http://github.com/jwjeremy)
+- Kyle Hayden
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
@@ -203,6 +205,7 @@
 - [Neissa Dorsinville](https://github.com/neissacodes)
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Xuan Tao](https://github.com/Tobby0824/)
+
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Meenakshi Kushwaha](https://github.com/meenakshi-kushwaha)
