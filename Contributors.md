@@ -305,6 +305,7 @@
 - [Carson Piehl](https://github.com/CarsonPiehl)
 - [Jovan Jocic](https://github.com/the-jovan)
 - [jhkim](https://github.com/capefeather)
+- [tralbi](https://github.com/Tralbi)
 - [tpartridge1](https://github.com/tpartridge1)
 - [Saloni Goyal](https://github.com/gsaloni11)
 - [Shenyu](https://github.com/lishenyu16)
