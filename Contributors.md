@@ -65,6 +65,7 @@
 - [Matthew Sabia](https://github.com/MatthewSabia)
 - [Cesar Molina](https://github.com/cesarMtorres)
 - [Titir Adhikary](http://github.com/cubixpro)
+- [Elena Tartaglia](https://github.com/eigensong)
 - [Rishabh Nanawati](https://github.com/nrishabh/)
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables](https://github.com/vensaherald)
