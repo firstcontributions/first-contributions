@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>GD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E42235" offset="0%"></stop>
+            <stop stop-color="#CE1225" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#079B77" offset="0%"></stop>
+            <stop stop-color="#007B5D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="17" height="11"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFD938" offset="0%"></stop>
+            <stop stop-color="#FDD117" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFD93B" offset="0%"></stop>
+            <stop stop-color="#FDD117" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#E21C30" offset="0%"></stop>
+            <stop stop-color="#CE1225" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GD">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <g id="Rectangle-1128" transform="translate(2.000000, 2.000000)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                <path d="M1.2948789,5.59885368 C1.57800611,6.05195195 1.98448743,6.3510373 2.36308877,6.42779338 C2.57152317,6.47005051 2.18990286,5.51415964 2.35620138,5.41024479 C2.49809484,5.32157992 3.18079024,6.11649051 3.24057126,5.95064666 C3.37811632,5.56907067 3.29697727,5.02872102 2.99097509,4.53901516 C2.5519756,3.83646911 2.53483743,4.30016223 1.3480481,3.79686228 C1.47213428,4.51662311 0.855879404,4.89630764 1.2948789,5.59885368 L1.2948789,5.59885368 Z" id="Oval-180" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+                <path d="M0,0 L17,0 L8.5,5.5 L0,0 Z M0,11 L8.5,5.5 L17,11 L0,11 Z" id="Rectangle-1129" fill="url(#linearGradient-7)" mask="url(#mask-5)"></path>
+                <circle id="Oval-179" fill="url(#linearGradient-8)" mask="url(#mask-5)" cx="8.5" cy="5.5" r="2.5"></circle>
+                <polygon id="Star-96" fill="url(#linearGradient-6)" mask="url(#mask-5)" points="8.5 6.27129709 7.3244295 7.11803399 7.76645288 5.73834391 6.59788697 4.88196601 8.04664295 4.87600755 8.5 3.5 8.95335705 4.87600755 10.402113 4.88196601 9.23354712 5.73834391 9.6755705 7.11803399"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>AD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#1537D1" offset="0%"></stop>
+            <stop stop-color="#0522A5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#EA3058" offset="0%"></stop>
+            <stop stop-color="#CE173E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFCF3C" offset="0%"></stop>
+            <stop stop-color="#FECB2F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AD">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask" fill="url(#linearGradient-3)" x="10" y="0" width="11" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="7" y="0" width="7" height="15"></rect>
+            <polygon id="Rectangle-139-Copy" fill="#FFEDB1" points="9.5 6.5 10.5 6.5 10.5 7 9.5 7"></polygon>
+            <path d="M9.6650265,7.9595207 C9.68963036,8.25476702 9.9569379,8.5 10.2524408,8.5 L10.7475592,8.5 C11.042238,8.5 11.3105295,8.2528489 11.3349735,7.9595207 L11.4566002,6.5 L9.54339977,6.5 L9.6650265,7.9595207 Z M9.04128242,6.49538898 C9.01848277,6.2217932 9.2157526,6 9.49538898,6 L11.504611,6 C11.7782068,6 11.9820206,6.2157526 11.9587176,6.49538898 L11.8332464,8.00104344 C11.7872707,8.55275191 11.3030501,9 10.7475592,9 L10.2524408,9 C9.69880801,9 9.21311164,8.55733967 9.16675362,8.00104344 L9.04128242,6.49538898 Z" id="Rectangle-137" fill="#D32E28" fill-rule="nonzero"></path>
+            <polygon id="Rectangle-139" fill="#D32E28" points="9.5 7 11.5 7 11.5 7.5 11 7.5 10 7.5 9.5 7.5"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>TZ</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#33CC4D" offset="0%"></stop>
+            <stop stop-color="#2AB441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#2DAFE4" offset="0%"></stop>
+            <stop stop-color="#1BA4DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFD84F" offset="0%"></stop>
+            <stop stop-color="#FCD036" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#262626" offset="0%"></stop>
+            <stop stop-color="#0D0D0D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TZ">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <polygon id="Rectangle-2" fill="url(#linearGradient-2)" points="0.00149566929 10.0039496 21.0014957 0.00394961946 0.00149566929 0.00394961946"></polygon>
+            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" points="0.00149566929 15.0039496 21.0014957 15.0039496 21.0014957 5.00394962"></polygon>
+            <polygon id="Rectangle-2" fill="url(#linearGradient-4)" points="2.31328447 17.0039725 22.6295352 4.30897007 18.6897069 -1.99607326 -1.62654387 10.6989292"></polygon>
+            <polygon id="Rectangle-2" fill="url(#linearGradient-5)" points="-0.470403564 17.3078992 24.1229912 1.94024053 21.4733949 -2.29999995 -3.11999989 13.0676587"></polygon>
+        </g>
+    </g>
+</svg>

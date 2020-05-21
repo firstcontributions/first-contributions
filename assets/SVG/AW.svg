@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>AW</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#5098EA" offset="0%"></stop>
+            <stop stop-color="#458BDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E82045" offset="0%"></stop>
+            <stop stop-color="#D01739" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AW">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <path d="M1.80304035,4.95957252 C1.39898655,4.7864066 1.39898655,4.2135934 1.80304035,4.04042748 L3.36921134,3.36921134 L4.04042748,1.80304035 C4.2135934,1.39898655 4.7864066,1.39898655 4.95957252,1.80304035 L5.63078866,3.36921134 L7.19695965,4.04042748 C7.60101345,4.2135934 7.60101345,4.7864066 7.19695965,4.95957252 L5.63078866,5.63078866 L4.95957252,7.19695965 C4.7864066,7.60101345 4.2135934,7.60101345 4.04042748,7.19695965 L3.36921134,5.63078866 L1.80304035,4.95957252 Z" id="Star" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <polygon id="Star" fill="url(#linearGradient-3)" points="3.75 5.25 2 4.5 3.75 3.75 4.5 2 5.25 3.75 7 4.5 5.25 5.25 4.5 7"></polygon>
+            <rect id="Rectangle-1337" fill="#F9D536" x="0" y="11" width="21" height="1"></rect>
+            <rect id="Rectangle-1337-Copy" fill="#F9D536" x="0" y="9" width="21" height="1"></rect>
+        </g>
+    </g>
+</svg>

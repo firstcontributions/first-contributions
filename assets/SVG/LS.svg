@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>LS</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0C33B8" offset="0%"></stop>
+            <stop stop-color="#05279D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1DB158" offset="0%"></stop>
+            <stop stop-color="#149447" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#262626" offset="0%"></stop>
+            <stop stop-color="#0D0D0D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LS">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="5"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="10" width="21" height="5"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="5" width="21" height="5"></rect>
+            <path d="M10,7.49999999 L10.3417969,6.47460937 C10.42917,6.21248985 10.5695229,6.20856856 10.6582031,6.47460936 L11,7.49999994 L11.8609543,8.79143142 C11.9377471,8.90662067 11.9176025,9.06952286 11.8062744,9.14731216 C11.8062744,9.14731216 11.5,9.5 10.5,9.5 C9.5,9.5 9.19372559,9.14731216 9.19372559,9.14731216 C9.0867339,9.0659539 9.06561279,8.90158081 9.13904572,8.79143143 L10,7.49999999 Z" id="Rectangle-328" fill="url(#linearGradient-4)"></path>
+            <path d="M10.5,7.5 C9.94771525,7.5 9.5,7.05228475 9.5,6.5 C9.5,5.94771525 9.94771525,5.5 10.5,5.5 C11.0522847,5.5 11.5,5.94771525 11.5,6.5 C11.5,7.05228475 11.0522847,7.5 10.5,7.5 Z M10.5,7.5 C10.7761424,7.5 11,6.77614237 11,6.5 C11,6.22385763 10.7761424,6 10.5,6 C10.2238576,6 10,6.22385763 10,6.5 C10,6.77614237 10.2238576,7.5 10.5,7.5 Z" id="Combined-Shape" fill="#242424" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

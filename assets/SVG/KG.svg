@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>KG</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F22A46" offset="0%"></stop>
+            <stop stop-color="#E71834" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFF04D" offset="0%"></stop>
+            <stop stop-color="#FFEE35" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KG">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <circle id="Oval-9" fill="url(#linearGradient-3)" cx="10.5" cy="7.5" r="2.5"></circle>
+            <path d="M10.5,11.0352098 L9.27613486,12.8621035 L8.96612997,10.6851139 L7.07080609,11.8000732 L7.73606171,9.70416723 L5.54467123,9.88636057 L7.05342533,8.28665818 L5,7.5 L7.05342533,6.71334182 L5.54467123,5.11363943 L7.73606171,5.29583277 L7.07080609,3.19992685 L8.96612997,4.31488606 L9.27613486,2.13789648 L10.5,3.96479024 L11.7238651,2.13789648 L12.03387,4.31488606 L13.9291939,3.19992685 L13.2639383,5.29583277 L15.4553288,5.11363943 L13.9465747,6.71334182 L16,7.5 L13.9465747,8.28665818 L15.4553288,9.88636057 L13.2639383,9.70416723 L13.9291939,11.8000732 L12.03387,10.6851139 L11.7238651,12.8621035 L10.5,11.0352098 Z M10.5,11 C12.4329966,11 14,9.43299662 14,7.5 C14,5.56700338 12.4329966,4 10.5,4 C8.56700338,4 7,5.56700338 7,7.5 C7,9.43299662 8.56700338,11 10.5,11 Z" id="Star-28" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>

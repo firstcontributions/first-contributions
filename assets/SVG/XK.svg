@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>XK</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2F5FBF" offset="0%"></stop>
+            <stop stop-color="#244EA3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E9C072" offset="0%"></stop>
+            <stop stop-color="#CFA557" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XK">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <path d="M9,3.5 L8.29289322,3.70710678 L8.5,3 L8.29289322,2.29289322 L9,2.5 L9.70710678,2.29289322 L9.5,3 L9.70710678,3.70710678 L9,3.5 Z M12,3.5 L11.2928932,3.70710678 L11.5,3 L11.2928932,2.29289322 L12,2.5 L12.7071068,2.29289322 L12.5,3 L12.7071068,3.70710678 L12,3.5 Z M15,4.5 L14.2928932,4.70710678 L14.5,4 L14.2928932,3.29289322 L15,3.5 L15.7071068,3.29289322 L15.5,4 L15.7071068,4.70710678 L15,4.5 Z M17,6.5 L16.2928932,6.70710678 L16.5,6 L16.2928932,5.29289322 L17,5.5 L17.7071068,5.29289322 L17.5,6 L17.7071068,6.70710678 L17,6.5 Z M4,6.5 L3.29289322,6.70710678 L3.5,6 L3.29289322,5.29289322 L4,5.5 L4.70710678,5.29289322 L4.5,6 L4.70710678,6.70710678 L4,6.5 Z M6,4.5 L5.29289322,4.70710678 L5.5,4 L5.29289322,3.29289322 L6,3.5 L6.70710678,3.29289322 L6.5,4 L6.70710678,4.70710678 L6,4.5 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <polygon id="Rectangle-1408" fill="url(#linearGradient-3)" points="9 10 8 9.5 7 7.5 8 7.5 9 6.5 9.5 5.5 10.5 5 11 5.5 12 6 12 6.5 12.5 7 14 8 13.5 9.5 12 11 11.5 10 10 11 10 12 9.5 11.5"></polygon>
+        </g>
+    </g>
+</svg>

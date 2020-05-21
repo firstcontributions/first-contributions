@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>RW</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2D754D" offset="0%"></stop>
+            <stop stop-color="#235F3E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#25B1EB" offset="0%"></stop>
+            <stop stop-color="#1AA3DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FAD546" offset="0%"></stop>
+            <stop stop-color="#FAD12F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#EDC738" offset="0%"></stop>
+            <stop stop-color="#E5BE2A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RW">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="11" width="21" height="4"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="7"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-4)" x="0" y="7" width="21" height="4"></rect>
+            <polygon id="Star-31" fill="url(#linearGradient-5)" points="16 4.5 15.2346331 5.34775907 15.2928932 4.20710678 14.1522409 4.26536686 15 3.5 14.1522409 2.73463314 15.2928932 2.79289322 15.2346331 1.65224093 16 2.5 16.7653669 1.65224093 16.7071068 2.79289322 17.8477591 2.73463314 17 3.5 17.8477591 4.26536686 16.7071068 4.20710678 16.7653669 5.34775907"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>CN</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F1361D" offset="0%"></stop>
+            <stop stop-color="#DF2910" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.0590477%" y1="1.70370869%" x2="62.9409523%" y2="98.2962913%" id="linearGradient-3">
+            <stop stop-color="#FFDC42" offset="0%"></stop>
+            <stop stop-color="#FDD217" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFDC42" offset="0%"></stop>
+            <stop stop-color="#FDD217" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CN">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <path d="M10.1294095,4.48296291 L9.5,4.8660254 L9.51703709,4.12940952 L9.1339746,3.5 L9.87059048,3.51703709 L10.5,3.1339746 L10.4829629,3.87059048 L10.8660254,4.5 L10.1294095,4.48296291 Z M8.28081443,2.44939702 L7.55448142,2.32556815 L8.05060298,1.78081443 L8.17443185,1.05448142 L8.71918557,1.55060298 L9.44551858,1.67443185 L8.94939702,2.21918557 L8.82556815,2.94551858 L8.28081443,2.44939702 Z M8.64618585,8.97815238 L8.03052844,9.38294759 L8.02184762,8.64618585 L7.61705241,8.03052844 L8.35381415,8.02184762 L8.96947156,7.61705241 L8.97815238,8.35381415 L9.38294759,8.96947156 L8.64618585,8.97815238 Z M9.91317591,6.99240388 L9.18084796,7.07357644 L9.50759612,6.41317591 L9.42642356,5.68084796 L10.0868241,6.00759612 L10.819152,5.92642356 L10.4924039,6.58682409 L10.5735764,7.31915204 L9.91317591,6.99240388 Z" id="Star-2" fill="url(#linearGradient-3)"></path>
+            <polygon id="Star-8" fill="url(#linearGradient-4)" points="5 6.17000005 3.23664424 7.42705098 3.88726383 5.3615499 2.14683045 4.07294902 4.31229123 4.05345008 5 2 5.68770877 4.05345008 7.85316955 4.07294902 6.11273617 5.3615499 6.76335576 7.42705098"></polygon>
+        </g>
+    </g>
+</svg>

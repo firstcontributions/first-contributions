@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>MN</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#146BBC" offset="0%"></stop>
+            <stop stop-color="#0B5396" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E43642" offset="0%"></stop>
+            <stop stop-color="#C32A34" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#F8D246" offset="0%"></stop>
+            <stop stop-color="#F9CE2F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MN">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-2)" x="7" y="0" width="7" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="7" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="14" y="0" width="7" height="15"></rect>
+            <path d="M4,9 L5,9 L5,12 L4,12 L4,9 Z M2,9 L3,9 L3,12 L2,12 L2,9 Z M3,11 L4,11 L3.5,12 L3,11 Z M3,9 L4,9 L3.5,10 L3,9 Z M3,8 L3.5,7.5 L4,8 L3,8 Z M3.5,9 C3.22385763,9 3,8.77614237 3,8.5 C3,8.22385763 3.22385763,8 3.5,8 C3.77614237,8 4,8.22385763 4,8.5 C4,8.77614237 3.77614237,9 3.5,9 Z M3.5,11 C3.22385763,11 3,10.7761424 3,10.5 C3,10.2238576 3.22385763,10 3.5,10 C3.77614237,10 4,10.2238576 4,10.5 C4,10.7761424 3.77614237,11 3.5,11 Z" id="Rectangle-1611" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>CU</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0B389F" offset="0%"></stop>
+            <stop stop-color="#052E8D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E12A43" offset="0%"></stop>
+            <stop stop-color="#CD1931" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CU">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="3"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="6" width="21" height="3"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="3" width="21" height="3"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="12" width="21" height="3"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="9" width="21" height="3"></rect>
+            <polygon id="Rectangle-83" fill="url(#linearGradient-3)" points="0 0 10 7.5 0 15"></polygon>
+            <polygon id="Star-53" fill="url(#linearGradient-1)" points="3.5 8.26701627 2.3244295 9.11803399 2.77052418 7.73702106 1.59788697 6.88196601 3.04915915 6.8794708 3.5 5.5 3.95084085 6.8794708 5.40211303 6.88196601 4.22947582 7.73702106 4.6755705 9.11803399"></polygon>
+        </g>
+    </g>
+</svg>

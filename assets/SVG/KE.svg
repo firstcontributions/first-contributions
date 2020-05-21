@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>KE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#262626" offset="0%"></stop>
+            <stop stop-color="#0D0D0D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#018301" offset="0%"></stop>
+            <stop stop-color="#006700" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#DC0808" offset="0%"></stop>
+            <stop stop-color="#BC0000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.5,10.5 C3.5,10.5 5,8.53756612 5,5.5 C5,2.46243388 3.5,0.5 2.5,0.5 C1.5,0.5 0,2.46243388 0,5.5 C0,8.53756612 1.5,10.5 2.5,10.5 Z" id="path-5"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KE">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="4"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="11" width="21" height="4"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="4" width="21" height="7"></rect>
+            <rect id="Rectangle-2-Copy-4" fill="url(#linearGradient-4)" x="0" y="5" width="21" height="5"></rect>
+            <g id="Oval-225" transform="translate(8.000000, 2.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#BC0000" xlink:href="#path-5"></use>
+                <ellipse id="Mask-Copy" fill="url(#linearGradient-2)" mask="url(#mask-6)" cx="-1.5" cy="5.5" rx="2.5" ry="5.5"></ellipse>
+                <ellipse id="Mask-Copy-2" fill="url(#linearGradient-2)" mask="url(#mask-6)" cx="6.5" cy="5.5" rx="2.5" ry="5.5"></ellipse>
+                <path d="M2.5,7 C2.22385763,7 2,6.32842712 2,5.5 C2,4.67157288 2.22385763,4 2.5,4 C2.77614237,4 3,4.67157288 3,5.5 C3,6.32842712 2.77614237,7 2.5,7 Z M2.5,4 C2.22385763,4 2,3.1045695 2,2 C2,0.8954305 2.22385763,0 2.5,0 C2.77614237,0 3,0.8954305 3,2 C3,3.1045695 2.77614237,4 2.5,4 Z M2.5,11 C2.22385763,11 2,10.1045695 2,9 C2,7.8954305 2.22385763,7 2.5,7 C2.77614237,7 3,7.8954305 3,9 C3,10.1045695 2.77614237,11 2.5,11 Z" id="Oval-228" fill="url(#linearGradient-1)" mask="url(#mask-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

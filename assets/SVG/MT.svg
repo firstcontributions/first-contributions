@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>MT</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#DE233C" offset="0%"></stop>
+            <stop stop-color="#CD1931" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4,3 L4,2 L3,2 L3,3 L2,3 L2,4 L3,4 L3,5 L4,5 L4,4 L5,4 L5,3 L4,3 Z" id="path-3"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MT">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2-Copy-2" fill="url(#linearGradient-2)" x="11" y="0" width="10" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="11" height="15"></rect>
+            <g id="Rectangle-364">
+                <use fill="#CCCCCD" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke-opacity="0.66" stroke="#7B716A" stroke-width="0.5" d="M4.25,2.75 L5.25,2.75 L5.25,4.25 L4.25,4.25 L4.25,5.25 L2.75,5.25 L2.75,4.25 L1.75,4.25 L1.75,2.75 L2.75,2.75 L2.75,1.75 L4.25,1.75 L4.25,2.75 Z"></path>
+            </g>
+            <circle id="Oval-20" fill="#7B716A" cx="3.5" cy="3.5" r="1"></circle>
+        </g>
+    </g>
+</svg>

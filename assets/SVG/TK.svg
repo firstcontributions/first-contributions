@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>TK</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0637C5" offset="0%"></stop>
+            <stop stop-color="#002CAA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FDD33F" offset="0%"></stop>
+            <stop stop-color="#FED02F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TK">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <path d="M4,12 L19,12 L19,13 L3,13 L4,12 Z M11.5,6 C14.5,4 18,2 18,2 C18,2 16.3573445,5.07344524 16.5,6.5 C16.6906779,8.40677857 19,11 19,11 L5,11 C5,11 8.5,8 11.5,6 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+            <polygon id="Star-2" fill="#FFFFFF" points="4 9 3.29289322 9.20710678 3.5 8.5 3.29289322 7.79289322 4 8 4.70710678 7.79289322 4.5 8.5 4.70710678 9.20710678"></polygon>
+            <polygon id="Star-2" fill="#FFFFFF" points="5 2.5 4.29289322 2.70710678 4.5 2 4.29289322 1.29289322 5 1.5 5.70710678 1.29289322 5.5 2 5.70710678 2.70710678"></polygon>
+            <polygon id="Star-2" fill="#FFFFFF" points="7 5.5 6.29289322 5.70710678 6.5 5 6.29289322 4.29289322 7 4.5 7.70710678 4.29289322 7.5 5 7.70710678 5.70710678"></polygon>
+            <polygon id="Star-2" fill="#FFFFFF" points="2 5.5 1.29289322 5.70710678 1.5 5 1.29289322 4.29289322 2 4.5 2.70710678 4.29289322 2.5 5 2.70710678 5.70710678"></polygon>
+        </g>
+    </g>
+</svg>

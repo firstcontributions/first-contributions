@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>BY</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E54252" offset="0%"></stop>
+            <stop stop-color="#C63442" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#5CBE6B" offset="0%"></stop>
+            <stop stop-color="#4EA55B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BY">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="10"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="10" width="21" height="5"></rect>
+            <path d="M3,12.75 L3,15 L2.22044605e-16,15 L2.22044605e-16,0 L3,0 L3,2.25 L2.5,3 L3,3.75 L3,5.25 L2.5,6 L3,6.75 L3,8.25 L2.5,9 L3,9.75 L3,11.25 L2.5,12 L3,12.75 Z" id="Rectangle-1512" fill="url(#linearGradient-1)"></path>
+            <path d="M-1.5,3 L-0.5,1.5 L0.5,3 L-0.5,4.5 L-1.5,3 Z M-1.5,6 L-0.5,4.5 L0.5,6 L-0.5,7.5 L-1.5,6 Z M-1.5,9 L-0.5,7.5 L0.5,9 L-0.5,10.5 L-1.5,9 Z M-1.5,12 L-0.5,10.5 L0.5,12 L-0.5,13.5 L-1.5,12 Z" id="Rectangle-1513" fill="url(#linearGradient-2)"></path>
+            <path d="M0.5,1.5 L1.5,0 L2.5,1.5 L1.5,3 L0.5,1.5 Z M0.5,4.5 L1.5,3 L2.5,4.5 L1.5,6 L0.5,4.5 Z M0.5,7.5 L1.5,6 L2.5,7.5 L1.5,9 L0.5,7.5 Z M0.5,10.5 L1.5,9 L2.5,10.5 L1.5,12 L0.5,10.5 Z M0.5,13.5 L1.5,12 L2.5,13.5 L1.5,15 L0.5,13.5 Z" id="Rectangle-1513" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

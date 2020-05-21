@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>DZ</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#048345" offset="0%"></stop>
+            <stop stop-color="#04753E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E81B42" offset="0%"></stop>
+            <stop stop-color="#D20F34" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DZ">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="11" height="15"></rect>
+            <rect id="Rectangle-2-Copy-2" fill="url(#linearGradient-1)" x="11" y="0" width="10" height="15"></rect>
+            <polygon id="Star-8" fill="url(#linearGradient-3)" points="13 8.28000003 11.8244295 9.11803399 12.2581759 7.74103327 11.097887 6.88196601 12.5415275 6.86896672 13 5.5 13.4584725 6.86896672 14.902113 6.88196601 13.7418241 7.74103327 14.1755705 9.11803399"></polygon>
+            <path d="M13.2600002,4.21400036 C12.4889281,3.46100558 11.4526533,3 10.3131751,3 C7.93107426,3 6,5.01471863 6,7.5 C6,9.98528137 7.93107426,12 10.3131751,12 C11.4526533,12 12.4889281,11.5389944 13.2600002,10.7859996 C12.7281556,11.0391564 12.1265684,11.1818182 11.4894956,11.1818182 C9.32394935,11.1818182 7.5684273,9.53341203 7.5684273,7.5 C7.5684273,5.46658797 9.32394935,3.81818182 11.4894956,3.81818182 C12.1265684,3.81818182 12.7281556,3.96084355 13.2600002,4.21400036 L13.2600002,4.21400036 Z" id="Oval-3" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>

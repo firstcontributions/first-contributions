@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>MX</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E3283E" offset="0%"></stop>
+            <stop stop-color="#CC162C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#128A60" offset="0%"></stop>
+            <stop stop-color="#0B6848" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MX">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask" fill="url(#linearGradient-2)" x="10" y="0" width="11" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="7" height="15"></rect>
+            <rect id="Rectangle-2-Copy" fill="url(#linearGradient-1)" x="7" y="0" width="7" height="15"></rect>
+            <path d="M8,7 C8,7.90143048 8.48152018,8.71954992 9.24677273,9.16357911 C9.48561975,9.3021674 9.79159152,9.22089165 9.93017981,8.98204463 C10.0687681,8.74319762 9.98749235,8.43722585 9.74864534,8.29863755 C9.28867518,8.03174504 9,7.54127594 9,7 C9,6.72385763 8.77614237,6.5 8.5,6.5 C8.22385763,6.5 8,6.72385763 8,7 Z M11.8455353,9.10731545 C12.5588244,8.65111736 13,7.86294784 13,7 C13,6.72385763 12.7761424,6.5 12.5,6.5 C12.2238576,6.5 12,6.72385763 12,7 C12,7.5182519 11.7356132,7.99058439 11.3067388,8.26487951 C11.0741065,8.41366406 11.0061345,8.72286348 11.1549191,8.95549574 C11.3037036,9.188128 11.612903,9.2561 11.8455353,9.10731545 Z" id="Oval-5" fill="#8C9157" fill-rule="nonzero"></path>
+            <ellipse id="Oval-5" fill="#C59262" cx="10.5" cy="6.5" rx="1" ry="1.5"></ellipse>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>CD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#158AFF" offset="0%"></stop>
+            <stop stop-color="#007FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#CE1120" offset="0%"></stop>
+            <stop stop-color="#E11B2B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CD">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <g id="Group-2" transform="translate(-4.290000, -1.440000)">
+                <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="4.29377901" y="1.44262682" width="21" height="15"></rect>
+                <polygon id="Rectangle-69-Copy" fill="#FDD216" transform="translate(14.281566, 9.255882) rotate(153.000000) translate(-14.281566, -9.255882) " points="-0.2184339 6.25588182 28.7815661 6.25588182 28.7815661 12.2558818 -0.2184339 12.2558818"></polygon>
+                <rect id="Rectangle-69" fill="url(#linearGradient-3)" transform="translate(14.557467, 9.073824) rotate(153.000000) translate(-14.557467, -9.073824) " x="0.0574665988" y="7.07382404" width="29" height="4"></rect>
+                <polygon id="Star-8" fill="#FDD216" points="7.79377901 5.91762686 6.32431588 6.9651693 6.86649887 5.2439184 5.41613772 4.17008433 7.22068837 4.15383522 7.79377901 2.44262682 8.36686965 4.15383522 10.1714203 4.17008433 8.72105915 5.2439184 9.26324214 6.9651693"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

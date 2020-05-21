@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>NP</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,4.52970994e-14 L1.49531555,1.44969983e-09 C1.77404508,1.71991806e-09 2.18849134,0.125660898 2.41306716,0.27537811 L13.1751914,7.4501276 C13.6307206,7.75381374 13.5469637,8 13.0029699,8 L6,8 L13.2473794,14.341457 C13.6630403,14.7051603 13.5500512,15 12.9931545,15 L0,15 L0,4.52970994e-14 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EE1B44" offset="0%"></stop>
+            <stop stop-color="#DD153C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0543A8" offset="0%"></stop>
+            <stop stop-color="#003893" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L1.49531555,0 C1.77404508,0 2.18849134,0.125660896 2.41306716,0.275378108 L13.1751914,7.4501276 C13.6307206,7.75381374 13.5469637,8 13.0029699,8 L6,8 L13.2473794,14.341457 C13.6630403,14.7051603 13.5500512,15 12.9931545,15 L0,15 L0,0 Z" id="path-6"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NP">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="Mask-Copy" mask="url(#mask-3)">
+                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <path stroke="url(#linearGradient-5)" stroke-width="1" d="M0.5,0.5 L0.5,14.5 L12.6692753,14.5 L4.6692753,7.5 L12.3486122,7.5 L2.13571706,0.691403255 C1.9922793,0.59577808 1.67411734,0.5 1.49531555,0.5 L0.5,0.5 Z"></path>
+            </g>
+            <path d="M5.13831521,5.85057555 C5.42639761,5.77162618 5.69198348,5.66364925 5.92688132,5.53210575 C5.69389395,6.37838213 4.9187606,7 3.99844063,7 C3.07812065,7 2.3029873,6.37838213 2.06999993,5.53210575 C2.30554809,5.66401343 2.57195443,5.77222387 2.86095923,5.85123059 L3.25,5.5 L2.6141807,4.92597485 L3.46966991,4.96966991 L3.42597485,4.1141807 L4,4.75 L4.57402515,4.1141807 L4.53033009,4.96966991 L5.3858193,4.92597485 L4.75,5.5 L5.13831521,5.85057555 L5.13831521,5.85057555 Z M4,12 L3.23463314,12.8477591 L3.29289322,11.7071068 L2.15224093,11.7653669 L3,11 L2.15224093,10.2346331 L3.29289322,10.2928932 L3.23463314,9.15224093 L4,10 L4.76536686,9.15224093 L4.70710678,10.2928932 L5.84775907,10.2346331 L5,11 L5.84775907,11.7653669 L4.70710678,11.7071068 L4.76536686,12.8477591 L4,12 Z" id="Star-93" fill="url(#linearGradient-1)" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

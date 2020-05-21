@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>RS</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#17508F" offset="0%"></stop>
+            <stop stop-color="#114175" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E1444D" offset="0%"></stop>
+            <stop stop-color="#C53840" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.5,2.5 C0.5,1.82617791 0.873828888,0.484626524 0.873828888,0.484626524 C0.943511269,0.216974685 1.2157526,0 1.49538898,0 L3.50461102,0 C3.7782068,0 4.05735636,0.214117162 4.12617111,0.481138541 C4.12617111,0.481138541 4.5,1.81010532 4.5,2.5 C4.5,3.1449728 4.12359554,4.51947242 4.12359554,4.51947242 C4.05533561,4.78486047 3.85530376,5.17418671 3.66748512,5.37236309 C3.66748512,5.37236309 3.25,6 2.5,6 C1.75,6 1.33251488,5.37236309 1.33251488,5.37236309 C1.14887198,5.16671263 0.942643642,4.78284423 0.873828888,4.51260075 C0.873828888,4.51260075 0.5,3.16104539 0.5,2.5 Z" id="path-4"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RS">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="5" width="21" height="5"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="5"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="10" width="21" height="5"></rect>
+            <g id="Rectangle-1668" transform="translate(4.000000, 5.000000)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                <polygon id="Line" fill="#C43840" fill-rule="nonzero" mask="url(#mask-5)" points="4.42191312 -0.202781928 -0.202781928 5.57808688 0.578086881 6.20278193 5.20278193 0.421913119"></polygon>
+                <polygon id="Line" fill="#C43840" fill-rule="nonzero" mask="url(#mask-5)" points="-0.202781928 0.421913119 4.42191312 6.20278193 5.20278193 5.57808688 0.578086881 -0.202781928"></polygon>
+            </g>
+            <ellipse id="Oval-214" fill="#FFFFFF" cx="6.5" cy="7.5" rx="1" ry="1.5"></ellipse>
+            <path d="M5,4 L4.5,3 L5.5,3.5 L6.5,3 L7.5,3.5 L8.5,3 L8,4 L8,4.5 C8,4.77614237 7.7842474,5 7.50461102,5 L5.49538898,5 C5.2217932,5 5,4.76806641 5,4.5 L5,4 Z" id="Rectangle-1669" fill="#D1A43A"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>BI</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E4233B" offset="0%"></stop>
+            <stop stop-color="#CC162C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#34CD4E" offset="0%"></stop>
+            <stop stop-color="#2AB441" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#DF2239" offset="0%"></stop>
+            <stop stop-color="#CC162C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BI">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <g id="Group-2" transform="translate(-2.080000, -1.440000)">
+                <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="2.08023771" y="1.43733467" width="21" height="15"></rect>
+                <polygon id="Rectangle-253" fill="url(#linearGradient-3)" points="2 1.43733467 11 8.93733467 2 16.4373347"></polygon>
+                <polygon id="Rectangle-253" fill="url(#linearGradient-3)" transform="translate(18.580000, 8.937335) scale(-1, 1) translate(-18.580000, -8.937335) " points="14.0799999 1.43733467 23.0799999 8.93733467 14.0799999 16.4373347"></polygon>
+                <path d="M10.3586667,6.23264816 L1.11838581,-1.77635684e-15 L1.11022302e-15,1.65807515 L9.23955861,7.89023612 C9.13603457,8.22085713 9.08023771,8.57257987 9.08023771,8.93733467 C9.08023771,9.30208947 9.13603457,9.65381222 9.23955861,9.98443323 L1.77635684e-15,16.2165942 L1.11838581,17.8746693 L10.3586667,11.6420212 C10.9629797,12.1389684 11.7367651,12.4373347 12.5802377,12.4373347 C13.4237103,12.4373347 14.1974957,12.1389684 14.8018087,11.6420212 L24.0420896,17.8746693 L25.1604754,16.2165942 L15.9209168,9.98443323 C16.0244408,9.65381222 16.0802377,9.30208947 16.0802377,8.93733467 C16.0802377,8.57257987 16.0244408,8.22085713 15.9209168,7.89023612 L25.1604754,1.65807515 L24.0420896,-3.55271368e-15 L14.8018087,6.23264816 C14.1974957,5.73570091 13.4237103,5.43733467 12.5802377,5.43733467 C11.7367651,5.43733467 10.9629797,5.73570091 10.3586667,6.23264816 Z" id="Rectangle-2" fill="url(#linearGradient-1)"></path>
+                <path d="M12.5802377,7.93733467 L11.8731309,8.14444145 L12.0802377,7.43733467 L11.8731309,6.73022789 L12.5802377,6.93733467 L13.2873445,6.73022789 L13.0802377,7.43733467 L13.2873445,8.14444145 L12.5802377,7.93733467 Z M11.0802377,10.4373347 L10.3731309,10.6444415 L10.5802377,9.93733467 L10.3731309,9.23022789 L11.0802377,9.43733467 L11.7873445,9.23022789 L11.5802377,9.93733467 L11.7873445,10.6444415 L11.0802377,10.4373347 Z M14.0802377,10.4373347 L13.3731309,10.6444415 L13.5802377,9.93733467 L13.3731309,9.23022789 L14.0802377,9.43733467 L14.7873445,9.23022789 L14.5802377,9.93733467 L14.7873445,10.6444415 L14.0802377,10.4373347 Z" id="Star-2" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>NR</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0744A7" offset="0%"></stop>
+            <stop stop-color="#00307D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FCC747" offset="0%"></stop>
+            <stop stop-color="#FEC539" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NR">
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="Rectangle-1337" fill="url(#linearGradient-3)" x="0" y="6" width="21" height="2"></rect>
+            <polygon id="Star-27" fill="url(#linearGradient-1)" points="5.5 12.25 4.72745751 13.3776413 4.76526843 12.0112712 3.47745751 12.4694631 4.31117935 11.3862712 3 11 4.31117935 10.6137288 3.47745751 9.53053687 4.76526843 9.98872876 4.72745751 8.62235871 5.5 9.75 6.27254249 8.62235871 6.23473157 9.98872876 7.52254249 9.53053687 6.68882065 10.6137288 8 11 6.68882065 11.3862712 7.52254249 12.4694631 6.23473157 12.0112712 6.27254249 13.3776413"></polygon>
+        </g>
+    </g>
+</svg>
