@@ -1289,3 +1289,4 @@
 - [Radek Miernik](https://github.com/RadekMiernik)
 - [Oblivion76] (https://github.com/oblivion76)
 - [Samrat De](https://github.com/SamratDe)
+- [Bryon Czaja](https://github.com/Bryon0)
