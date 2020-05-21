@@ -617,6 +617,7 @@
 - [Vidit Jain](https://github.com/viditjain5598)
 - [Alejandro Gonzalez](https://github.com/thehumanlegion)
 - [Nathan Huh](https://github.com/AmberLlama81)
+- [Shreya Pathak](https://github.com/Shreya-Pathak)
 - [NUX:PR](https://github.com/nuxpr)
 - [Przemysław Pierzchałka](https://github.com/Websited/)
 - [Albert Lai](https://github.com/albertlai431)
