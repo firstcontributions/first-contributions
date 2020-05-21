@@ -8,6 +8,7 @@
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Anurag Gupta](https://github.com/anuraggupta29)
+- [Ram  Ghimire](https://github.com/ramghimirecr7)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
