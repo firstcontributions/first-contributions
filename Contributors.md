@@ -1169,6 +1169,7 @@
 - [aantikainen] (https://github.com/aantikainen)
 - [Pedro Veríssimo](https://github.com/pbv2)
 - [Steve Clelland](https://github.com/SteveClelland)
+- [Richard Marrone](https://github.com/RichardMarrone)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Howling Wolf Table](https://https://github.com/HowlingWolfTable)
