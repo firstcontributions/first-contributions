@@ -63,6 +63,7 @@
 - [Swati Jain](https://github.com/swati345)
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- kyle
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
