@@ -30,6 +30,7 @@
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Roshan Kanwar](https://github.com/roshan0708)
+- [Navin M](https://github.com/navin-m)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Charlotte Sides](https://github.com/charsides)
 - [Cedric Muuo] (https://github.com/damian-sketch)
