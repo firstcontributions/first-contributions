@@ -40,6 +40,7 @@
 - [Megan Thong](https://github.com/pikamegan)
 - [theerrors](https://github.com/TheErrrors)
 - [Olatunji Dolapo](https://github.com/nofeesahdee)
+- [Josh Smith] (https://github.com/smithjosh024)
 - [Rahul Tumpala](https://github.com/raul-1911)
 - [Aditya Maheshwari](https://github.com/maverick12345678)
 - [Babatunde Koiki](https://github.com/Babatunde13)
