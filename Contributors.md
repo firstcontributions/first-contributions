@@ -22,6 +22,7 @@
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
 - [Katie Wilday](https://github.com/katiewilday)
+- [Farooq Chawla](https://github.com/farooqhassanchawla)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Ssali Jonathan](https://github.com/jod35)
 - [Sanskar Patro](https://github.com/sanskar-p)
