@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Nathan Taylor](https://github.com/pecan.pine)
+- [Hakeem Gayle](https://github.com/hakeem123)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Rion Ghosh](https://github.com/Rion12)
