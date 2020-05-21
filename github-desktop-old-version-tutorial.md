@@ -34,7 +34,7 @@ If it is not already selected, click on `Clone`. Then choose first-contributions
 
 <img style="float: right;" src="assets/dt-clone2.png" alt="clone this repository" />
 
-Choose the directory on your machine you would like to clone first-contributions into 
+Choose the directory on your machine you would like to clone first-contributions into
 
 <img style="float: right;" src="assets/dt-clone3.png" alt="clone this repository" />
 
@@ -54,7 +54,7 @@ Click on `Create new branch`
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor and add your name to it, then save the file. 
+Now open `Contributors.md` file in a text editor and add your name to it, then save the file.
 
 You can see that there are changes to Contributors.md and they have been added.
 
@@ -107,9 +107,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Tutorials Using Other Tools
 
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|
-|---|---|---|
-|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
+|---|---|---|---|
+|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
 
 ## Self-Promotion
 
