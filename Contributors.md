@@ -1261,6 +1261,7 @@
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
 - [Ambati Vasanth](https://github.com/Vasanth289)
+- [Ambatti Raydu] (https://github.com/tahsanvai)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
 - [Garima Kalra](https://github.com/kalragarima)
