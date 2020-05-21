@@ -9,6 +9,7 @@
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram  Ghimire](https://github.com/ramghimirecr7)
+- [Dries Cruyskens](https://github.com/DriesCruyskens)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Sareen Shah](https://github.com/sareen279)
