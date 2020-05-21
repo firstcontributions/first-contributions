@@ -316,6 +316,7 @@
 - [Ryan McCormick](https://github.com/rmccorm4)
 - [Standley Eugene](https://github.com/estand25)
 - [Neo Choi](https://github.com/vampireneo)
+- [Pavlina Gargova](https://github.com/pavlinagargova)
 - [Peter Zinkovsky](https://github.com/peterz3)
 - [Nik Lutzenhiser](https://github.com/Smokstak)
 - [Jan Biardzki](https://github.com/yanchesky/)
