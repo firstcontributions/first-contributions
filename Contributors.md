@@ -279,6 +279,7 @@
 - [Paramesh Chandra](https://github.com/paramphy)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
 - [thojest](https://github.com/thojest)
+- [Gediminas Makutenas](https://github.com/Senatrius)
 - [Kevin Satur](https://github.com/math-ecen)
 - [Bohdan Konorin](https://github.com/bogdaner2)
 - [Kevin Mbuthia](https://github.com/Kevinmbuthia)
