@@ -65,6 +65,7 @@
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Kartik Gambhir](https://github.com/whokartikgambhir)
 - [Swati Jain](https://github.com/swati345)
+- [Jean Lomibao](https://github.com/jlomibao1995)
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - kyle
