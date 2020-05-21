@@ -598,6 +598,7 @@
 - [Liz Burton](https://github.com/lizbur10)
 - [Karan G0vil](https://github.com/karangovil)
 - [Jordan van Beijnhem](https://github.com/jordanvanbeijnhem)
+- [JonatanBarr](https://github.com/jonybar9)
 - [Vidit Jain](https://github.com/viditjain5598)
 - [Alejandro Gonzalez](https://github.com/thehumanlegion)
 - [Nathan Huh](https://github.com/AmberLlama81)
