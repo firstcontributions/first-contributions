@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Nathan Taylor](https://github.com/pecan.pine)
@@ -1308,3 +1308,4 @@
 - [Aaishwary Jivnani](https://github.com/aishwary2112)
 - [Elvis Iraguha](https://github.com/elvisiraguha)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
+- [ChiSpade](https://github.com/chispade)
