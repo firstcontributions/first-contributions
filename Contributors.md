@@ -1310,3 +1310,4 @@
 - [Elvis Iraguha](https://github.com/elvisiraguha)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
+- [Manasvi](https://github.com/mmbhatk)
