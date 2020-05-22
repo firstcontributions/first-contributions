@@ -54,6 +54,7 @@
 - [Rahul Tumpala](https://github.com/raul-1911)
 - [Aditya Maheshwari](https://github.com/maverick12345678)
 - [Babatunde Koiki](https://github.com/Babatunde13)
+- [Samuel Bekele](https://github.com/s4mu3lbk)
 - [Harsh Vardhan](https://github.com/harsh-1907)
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
