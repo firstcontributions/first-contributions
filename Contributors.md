@@ -135,6 +135,7 @@
 - [Ayan](https://github.com/ayansaha1991)
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
+- [Palak Mantry](https://github.com/pal-16)
 - [Spencer Call](https://github.com/scall12)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
