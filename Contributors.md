@@ -108,6 +108,7 @@
 - [Takigavin](https://github.com/takigavin)
 - [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
+- [pratyush garg](https://github.com/PratyushGarg2222)
 - [Manzoor](https://github.com/manzoormahmood)
 - [Siddharth Agrawal](https://github.com/sidchiku9)
 - [Ranjeet kumar](https://github.com/ranjeet44)
