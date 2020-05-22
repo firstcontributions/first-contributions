@@ -1345,3 +1345,4 @@
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
 - [Manasvi](https://github.com/mmbhatk)
+- [FreezeSnail](https://github.com/FreezeSnail)
