@@ -71,6 +71,7 @@
 - [Jean Lomibao](https://github.com/jlomibao1995)
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
+- [Purvansh Shah](https://github.com/purvansh11)
 - kyle
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
