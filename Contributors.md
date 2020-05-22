@@ -187,6 +187,7 @@
 - [Razan Rauniyar](https://github.com/razan45)
 - [allEyezOnCode](https://github.com/allEyezOnCode)
 - [kartikchauhan](https://github.com/kartikchauhan)
+- [Rohit Satwadhar](https://github.com/riotgage)
 - [ChiragSaini](https://github.com/ChiragSaini)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
