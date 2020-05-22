@@ -1014,6 +1014,7 @@
 - [Wladyslaw](https://github.com/Graidaris)
 - [Zoheb Rahiman](https://github.com/rahiman-zoheb)
 - [Andrew Bellucci](https://github.com/imbellucci)
+- [Ojasvi Khanna] (https://github.com/okay16)
 - [Tomas](https://github.com/Tomheza)
 - [Shailesh Shah](https://github.com/shaileshs)
 - [Juan Francisco Kurucz](https://github.com/juanfkurucz)
