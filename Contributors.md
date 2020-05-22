@@ -1315,6 +1315,7 @@
 - [TahsanVai](https://github.com/tahsanvai)
 - [Maya The Dog](https://www.linkedin.com/in/mayathedog)
 - [Paweł Wrzosek](https://github.com/wrzonki)
+- [Nick Hutchison](https://github.com/Hutcharmy)
 - [steadily-worked](https://github.com/steadily-worked)
 - [Akshay-Arora](https://github.com/TheKingbyKey)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
