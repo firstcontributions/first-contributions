@@ -27,6 +27,7 @@
 - [Farooq Chawla](https://github.com/farooqhassanchawla)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Ssali Jonathan](https://github.com/jod35)
+- [David Rozmajzl](https://github.com/dmr121)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
 - [Rohit Nethi](https://github.com/RohitNethi)
