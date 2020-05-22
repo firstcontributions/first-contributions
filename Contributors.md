@@ -533,6 +533,7 @@
 - [William Huynh](https://github.com/w2huy)
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
+- [Pretam Ray](https://github.com/raypretam)
 - [Goutham Menon](https://github.com/gouthammenon3)
 - [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
