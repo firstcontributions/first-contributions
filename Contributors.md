@@ -1251,6 +1251,7 @@
 - [George Balchev](https://github.com/gbalchev)
 - [Iner Lofgren](https://github.com/InerLeeLofgren)
 - [jerp86](https://github.com/jerp86)
+- [ChickenHawkXP] (https://github.com/ChickenHawkXP)
 - [Mruga Shah](https://github.com/mruga30)
 - [Sergio García](https://github.com/sergiogp98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
