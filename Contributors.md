@@ -1239,6 +1239,7 @@
 - [Rugved](https://github.com/rugved)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Abinav Baskar](https://github.com/abinav-baskar)
+- [Pratik Tiwari](https://github.com/pratiktiwari13)
 - [Sagar Datta](https://github.com/sagar-datta)
 - [LordRegis22](https://github.com/lordregis22)
 - [John Curcio](https://github.com/johncurcio)
