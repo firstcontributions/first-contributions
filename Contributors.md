@@ -238,6 +238,7 @@
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
 - [Deathless Kraken](https://github.com/DeathlessKraken)
+- [Hassan Shakeel](https://github.com/mHassan20896)
 - [Sean Donnellan](https://github.com/seandonnellan)
 - [Ramsay Sewell](https://github.com/ramsaysewell)
 - [Philip Cosentino](https://github.com/pcbootsy)
