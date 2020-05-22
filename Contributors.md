@@ -631,6 +631,7 @@
 - [Sudeep Basnet](https://github.com/sudbasnet)
 - [Gaurav](https://github.com/Gaurav2511)
 - [Brendan Gilet](https://github.com/Vehemence26)
+- [Diego Marcillo](https://github.com/diegomarcillop)
 - [Maosheng Tang](https://github.com/mshtang)
 - [Ishaan Radia](https://github.com/iiradia)
 - [Karen White](https://github.com/karen-white)
