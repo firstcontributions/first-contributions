@@ -1182,6 +1182,7 @@
 - [Harvey Breaux](https://github.com/hbreauxv)
 - [Eric Jansen](https://github.com/EricJ90)
 - [SirPawle](https://github.com/PawleN-D)
+- [Wenchao](https://github.com/grewwc)
 - [Kristiyan Todorov](https://github.com/krisScript)
 - [Enrique Ramos](https://github.com/enramos)
 - [Mark Robinson](https://github.com/MarkRobinsonJr)
