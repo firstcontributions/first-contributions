@@ -222,6 +222,7 @@
 - [Justin Cagle](https://github.com/jcagle2001)
 - [Miguel Vellasco](https://github.com/mvellasco)
 - [Nikola Drakulic](https://github.com/Drakula44)
+- [Saif Kazi](https://github.com/Saif807380)
 - [Nikhil K.](https://github.com/nk108)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
