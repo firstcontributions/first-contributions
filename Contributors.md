@@ -376,6 +376,7 @@
 - [Nathan Schneider](https://github.com/nathanlschneider)
 - [Rebecca Cho](https://github.com/choeuna)
 - [Sreymeas Nao](https://github.com/meass)
+- [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Nigel Moore](https://github.com/nimows)
 - [jecodeduweb](https://github.com/jecodeduweb)
 - [IcerOut](https://github.com/IcerOut)
