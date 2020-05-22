@@ -8,6 +8,7 @@
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
+-[Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram  Ghimire](https://github.com/ramghimirecr7)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
