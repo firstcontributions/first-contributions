@@ -737,6 +737,7 @@
 - [Rafal Grzyb](https://github.com/Grzybotron)
 - [sotajensede](https://github.com/sotajensede)
 - [peterp](https://github.com/peterp)
+- [Aaron Smith](https://github.com/aarondanielsmith)
 - [Juan Belieni](https://github.com/juanbelieni)
 - [Louis Michael](https://github.com/Louis-Michael)
 - [Sokratis Kouimtzidis](https://github.com/sokratix)
