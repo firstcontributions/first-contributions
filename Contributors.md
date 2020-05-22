@@ -233,6 +233,7 @@
 - [Nikhil K.](https://github.com/nk108)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
+- [Bhavya](https://github.com/raobhavya92)
 - [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
