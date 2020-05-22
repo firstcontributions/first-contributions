@@ -1276,6 +1276,7 @@
 - [skwiryt](https://github.com/skwiryt)
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Quinn Wai Wong](https://github.com/quinnwai)
+- [Collins Thomas](https://github.com/cicerothoma)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
 - [Dhruv Mehta](https://github.com/Dhruv-194)
 - [Raksha Kannusami](https://github.com/rakshakannu)
