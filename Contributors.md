@@ -318,6 +318,7 @@
 - [JR Cook](https://github.com/Eldorian)
 - [Neal Stumpf](https://github.com/MildlyOffensive)
 - [Roopa Madihally](https://github.com/roopabdr)
+- [Devesh Singh](https://github.com/crazyserpent42)
 - [JR Cook](https://github.com/Eldorian)
 - [Carson Piehl](https://github.com/CarsonPiehl)
 - [Jovan Jocic](https://github.com/the-jovan)
