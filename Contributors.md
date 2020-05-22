@@ -19,6 +19,7 @@
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
+- 
 - [Rumen Kasabov](https://github.com/rkasabov)
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
@@ -47,6 +48,7 @@
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
+- [Andrew Mukare](https://github.com/JudgeFudge19)
 - [Jeremy Wong](http://github.com/jwjeremy)
 - Kyle Hayden
 - [Jeremy Wong](https://github.com/jwjeremy)
