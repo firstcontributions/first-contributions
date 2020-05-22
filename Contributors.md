@@ -1,4 +1,5 @@
 # Contributors
+- [Kanak Raj] (https://github.com/kanak8278)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Riyadh Ouz](https://github.com/riyadh20)
