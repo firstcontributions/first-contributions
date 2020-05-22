@@ -330,6 +330,7 @@
 - [Nik Lutzenhiser](https://github.com/Smokstak)
 - [Jan Biardzki](https://github.com/yanchesky/)
 - [Henrique Resende](https://github.com/HenryXV)
+- [Ankramoon 🦊️😎️🐺️](https://github.com/Ankramoon)
 - [Igor Kulakov](https://github.com/iiKulakov)
 - [Richard Theaker](https://github.com/rtheaker)
 - [Kaiser](https://github.com/kaisernahid)
