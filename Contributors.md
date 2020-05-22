@@ -134,6 +134,7 @@
 - [Ayan](https://github.com/ayansaha1991)
 - [Yadunandan Bhat](https://github.com/yadunandanbhat)
 - [Eric Hansen](https://github.com/ehansen247)
+- [Spencer Call](https://github.com/scall12)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
 - [Drew Ferrell](https://github.com/drew-ferrell)
