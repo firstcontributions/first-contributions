@@ -70,6 +70,7 @@
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - kyle
+- [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [rimow](https://github.com/rimow)
