@@ -1069,6 +1069,7 @@
 - [Ranjith Palanisamy](https://github.com/rr2013)
 - [Sina Kabki](https://github.com/sinacodes95)
 - [LelPel](https://github.com/lelpel)
+- [Mason Entrican](https://github.com/masonentrican)
 - [Katherine Landry](https://github.com/kburckin)
 - [Abel Nam](https://github.com/inema)
 - [Chris Quevedo](https://github.com/christopherQuevedo)
