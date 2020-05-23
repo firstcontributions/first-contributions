@@ -62,6 +62,7 @@
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - [Andrew Mukare](https://github.com/JudgeFudge19)
 - [Jeremy Wong](http://github.com/jwjeremy)
+- [Steven Eubank](http://github.com/smeubank)
 - Kyle Hayden
 - SK
 - [Jeremy Wong](https://github.com/jwjeremy)
