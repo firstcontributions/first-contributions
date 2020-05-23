@@ -398,6 +398,7 @@
 - [Lucas Melo](https://github.com/lucasmeloo)
 - [Matt SQ](https://github.com/greyghost13)
 - [John McGonagle](https://github.com/jgonagle)
+- [Manas Joshi](https://github.com/manasjoshi14)
 - [Steven Zilberberg](https://github.com/srz2)
 - [Justin Hiester](https://github.com/jhiester)
 - [Giwoo G Lee](https://github.com/gglee89)
