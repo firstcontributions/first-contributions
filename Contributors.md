@@ -7,6 +7,7 @@
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
+- [Noy Wolfson](https://github.com/noywolfson)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Sareen Shah](https://github.com/sareen279)
