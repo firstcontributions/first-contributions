@@ -1,4 +1,5 @@
 # Contributors
+- [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
