@@ -1340,6 +1340,7 @@
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
+- [Sthen Campana](https://github.com/SupremeWhale)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
