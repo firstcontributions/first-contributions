@@ -13,6 +13,7 @@
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 theerrors
 - [Richard Laveau](https://github.com/richardlaveau)
+- [Zubair Idris Aweda](https://github.com/Zubs)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Shiv Shankar](https://github.com/sivsnkr)
