@@ -1,5 +1,4 @@
 # Contributors
-
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
@@ -16,7 +15,8 @@
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Rion Ghosh](https://github.com/Rion12)
 - [tlylt](https://github.com/tlylt)
-- [Sahil Bajaj](https://github.com/sahilbajaj82) -[Corrie Graham](https://github.com/CorrieGra)
+- [Sahil Bajaj](https://github.com/sahilbajaj82)
+- [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
@@ -159,7 +159,8 @@
 - [Basil Fawlty](https://github.com/malyszm)
 - [Blake Wright](https://github.com/blakewright1)
 - [Tulsi Jain](https://github.com/tulsiksng)
-- [Uyin Solomon](https://github.com/rootleet) -[Myat Thu Ko](https://github.com/MyatThuKo)
+- [Uyin Solomon](https://github.com/rootleet)
+- [Myat Thu Ko](https://github.com/MyatThuKo)
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
@@ -241,7 +242,6 @@
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Rendy Setiawan](https://github.com/VenansiusRendy)
 - [Xuan Tao](https://github.com/Tobby0824/)
-
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Meenakshi Kushwaha](https://github.com/meenakshi-kushwaha)
