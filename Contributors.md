@@ -4,6 +4,7 @@
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
+- [Shreyas Pandey](https://github.com/shrey-devep)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
