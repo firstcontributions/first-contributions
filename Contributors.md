@@ -4,6 +4,7 @@
 - [trysh](https://github.com/trysh)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
+- [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
 - [Pranav Kulkarni](https://github.com/freakcap)
 - [Enrique Torrez](https://gihub.com/etorr)
