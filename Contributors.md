@@ -16,6 +16,7 @@
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Brandon Banh](https://github.com/Tigerstripes2013)
 - [Rion Ghosh](https://github.com/Rion12)
+- [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
