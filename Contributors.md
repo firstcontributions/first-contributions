@@ -39,6 +39,7 @@
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman](https://github.com/joelhart)
 - [Gunish Matta](https://github.com/gunishmatta)
+- [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Navin M](https://github.com/navin-m)
