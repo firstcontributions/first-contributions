@@ -1335,6 +1335,7 @@
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [manyang-lual](https://github.com/manyang-lual)
 - [Zoe-KL](https://github.com/zoe-kl)
+- [Sara Maxwell](https://github.com/smaxwell953)
 - [K@fuNet](https://github.com/kafunet)
 - [Christian Mitch](https://github.com/christian-rwynn/)
 - [Josseline Perdomo](https://github.com/josselineperdomo)
