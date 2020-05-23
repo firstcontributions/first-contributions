@@ -1276,6 +1276,7 @@
 - [Vishnu Sharma](https://github.com/vish198910)
 - [WxBDM](https://github.com/WxBDM)
 - [Faraz Khan](https://github.com/Frk4)
+- [Adam Goldstone](https://github.com/amg93)
 - [Samrat19](https://github.com/samrat19)
 - [theNaavik](https://github.com/theNaavik)
 - [vincent](https://github.com/vincentcvr6)
