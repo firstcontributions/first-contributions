@@ -16,6 +16,7 @@
 - [Rion Ghosh](https://github.com/Rion12)
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
+- [Noy Wolfson](https://github.com/noywolfson)
 - [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
