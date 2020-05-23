@@ -4,6 +4,7 @@
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Kushwanth Reddy](https://github.com/codekushi)
+- [Pranav Kulkarni](https://github.com/freakcap)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Shreyas Pandey](https://github.com/shrey-devep)
