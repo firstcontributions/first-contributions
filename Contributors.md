@@ -1326,6 +1326,7 @@
 - [steadily-worked](https://github.com/steadily-worked)
 - [Akshay-Arora](https://github.com/TheKingbyKey)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
+- [manyang-lual](https://github.com/manyang-lual)
 - [Zoe-KL](https://github.com/zoe-kl)
 - [K@fuNet](https://github.com/kafunet)
 - [Christian Mitch](https://github.com/christian-rwynn/)
