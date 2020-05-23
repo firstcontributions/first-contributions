@@ -13,6 +13,7 @@
 - [Hakeem Gayle](https://github.com/hakeem123)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
+- [Brandon Banh](https://github.com/Tigerstripes2013)
 - [Rion Ghosh](https://github.com/Rion12)
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
