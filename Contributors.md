@@ -24,6 +24,7 @@
 - [Ram Ghimire](https://github.com/ramghimirecr7)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
 - [Bharath SM](https://github.com/bharathsm)
+- [Rekib Ahmed](https://github.com/rekib0023)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Sareen Shah](https://github.com/sareen279)
