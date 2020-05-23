@@ -540,6 +540,7 @@
 - [Jimmy Jeong](https://github.com/jeongjimmy32)
 - [@rezzco](https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
+- [Hannah Lord](https://github.com/hcl1610)
 - [Lucas Oliveira](https://github.com/Lucas-F-Oliveira)
 - [Sunny Setia](https://github.com/sunnysetia93)
 - [nnuch](https://github.com/nnuch)
