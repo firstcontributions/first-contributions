@@ -1,10 +1,11 @@
 # Contributors
-
+- [Thomas Harbin](https://github.com/thomasharbin)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Kushwanth Reddy](https://github.com/codekushi)
+- [Pranav Kulkarni](https://github.com/freakcap)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Shreyas Pandey](https://github.com/shrey-devep)
@@ -14,7 +15,8 @@
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Rion Ghosh](https://github.com/Rion12)
 - [tlylt](https://github.com/tlylt)
-- [Sahil Bajaj](https://github.com/sahilbajaj82) -[Corrie Graham](https://github.com/CorrieGra)
+- [Sahil Bajaj](https://github.com/sahilbajaj82)
+- [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
@@ -56,6 +58,7 @@
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - [Jeremy Wong](http://github.com/jwjeremy)
 - Kyle Hayden
+- SK
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
@@ -157,7 +160,8 @@
 - [Basil Fawlty](https://github.com/malyszm)
 - [Blake Wright](https://github.com/blakewright1)
 - [Tulsi Jain](https://github.com/tulsiksng)
-- [Uyin Solomon](https://github.com/rootleet) -[Myat Thu Ko](https://github.com/MyatThuKo)
+- [Uyin Solomon](https://github.com/rootleet)
+- [Myat Thu Ko](https://github.com/MyatThuKo)
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
@@ -239,7 +243,6 @@
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Rendy Setiawan](https://github.com/VenansiusRendy)
 - [Xuan Tao](https://github.com/Tobby0824/)
-
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Meenakshi Kushwaha](https://github.com/meenakshi-kushwaha)
@@ -1339,6 +1342,7 @@
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
+- [Sthen Campana](https://github.com/SupremeWhale)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
