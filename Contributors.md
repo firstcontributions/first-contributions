@@ -32,6 +32,7 @@
 - [Augusto Spinelli](https://github.com/gutospinelli)
 - [Claire](https://github.com/claire-1)
 - [Saurabh Pal](https://github.com/bestpal97)
+- [Isaac Oldwood](https://github.com/IsaacOldwood)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Boy Mustafa](https://github.com/boymustafa)
