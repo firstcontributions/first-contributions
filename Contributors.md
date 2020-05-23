@@ -241,7 +241,7 @@
 - [Skylar Liang](https://github.com/SkylarLJY)
 - [Rendy Setiawan](https://github.com/VenansiusRendy)
 - [Xuan Tao](https://github.com/Tobby0824/)
-
+- [James Rock]
 - [John Lin](https://github.com/jlin22)
 - [Ralph Quirequire](https://github.com/ralphqq)
 - [Meenakshi Kushwaha](https://github.com/meenakshi-kushwaha)
