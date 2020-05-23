@@ -1369,3 +1369,4 @@
 - [Manasvi](https://github.com/mmbhatk)
 - [FreezeSnail](https://github.com/FreezeSnail)
 - [Audrey Yang](https://github.com/audrey-yang)
+- [John Hsiung](https://github.com/btwear)
