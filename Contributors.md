@@ -1,4 +1,5 @@
 # Contributors
+- [trysh](https://github.com/trysh)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Enrique Torrez](https://gihub.com/etorr)
