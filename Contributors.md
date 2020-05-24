@@ -101,6 +101,7 @@
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
 - [Cesar Molina](https://github.com/cesarMtorres)
+- [Gary Glatfelter](https://github.com/garyglatfelter)
 - [Titir Adhikary](http://github.com/cubixpro)
 - [Samarpan Chakravarty](http://github.com/sam308)
 - [Elena Tartaglia](https://github.com/eigensong)
