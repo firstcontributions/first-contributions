@@ -87,6 +87,7 @@
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
 - [Richard Laveau](https://github.com/richardlaveau)
+- [Zubair Idris Aweda](https://github.com/Zubs)
 - [Yogesh Singh](https://github.com/yogeshsingh01)
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Rivka Klein](https://github.com/RivkieKlein)
