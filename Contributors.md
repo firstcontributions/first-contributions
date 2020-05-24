@@ -1,5 +1,4 @@
 # Contributors
-
 -   [Thomas Harbin](https://github.com/thomasharbin)
 -   [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 -   [Muhammed Milan](https://github.com/milan090)
