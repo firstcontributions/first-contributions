@@ -1288,6 +1288,7 @@
 - [Vinicius Philot](https://github.com/vphilot)
 - [Calum Chamberlain](https://github.com/CalumChamberlain)
 - [franzqat](https://github.com/franzqat)
+- [Chris Vo](https://github.com/VoChrisK)
 - [Rugved](https://github.com/rugved)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
 - [Abinav Baskar](https://github.com/abinav-baskar)
