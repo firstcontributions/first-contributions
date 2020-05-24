@@ -74,6 +74,7 @@
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
+- [Oleksiy Onishchenko] (https://github.com/Oleksiy1990)
 - [theerrors](https://github.com/TheErrrors)
 - [Olatunji Dolapo](https://github.com/nofeesahdee)
 - [Josh Smith](https://github.com/smithjosh024)
