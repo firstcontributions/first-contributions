@@ -18,7 +18,6 @@
 - [Brandon Banh](https://github.com/Tigerstripes2013)
 - [Rion Ghosh](https://github.com/Rion12)
 - [Ajit Bhat](https://github.com/abhat3)
-- [Rishu Ambasta]
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
@@ -28,6 +27,7 @@
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
 - [Bharath SM](https://github.com/bharathsm)
 - [Rekib Ahmed](https://github.com/rekib0023)
+- [Rishu](https:github.com/rahulsinha2911)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Sareen Shah](https://github.com/sareen279)
