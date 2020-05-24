@@ -1395,5 +1395,6 @@
 - [FreezeSnail](https://github.com/FreezeSnail)
 - [Audrey Yang](https://github.com/audrey-yang)
 - [John Hsiung](https://github.com/btwear)
+- [Jessica Scortecci](https://github.com/jessica-scortecci)
 - [Douglas Ferlini](https://github.com/douglasferlini)
 - [Aswin Mahendiran](https://github.com/aswinmahendiran)
