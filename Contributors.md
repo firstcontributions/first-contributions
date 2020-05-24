@@ -12,6 +12,7 @@
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
+- [Neil Sharma](https://github.com/neil-sharma-123)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Brandon Banh](https://github.com/Tigerstripes2013)
