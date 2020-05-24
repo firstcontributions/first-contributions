@@ -153,6 +153,7 @@
 - [Tristan Verduzco](https://github.com/VerduzcoTristan)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Dan Chif](https://github.com/nadchif)
+- [ripal patel](https://github.com/srip1)
 - [Steve Hardy](https://github.com/Govanator12)
 - [Vibhor Agarwal](https://github.com/vibhor98)
 - [Mohan](https://github.com/mohankgaddam)
