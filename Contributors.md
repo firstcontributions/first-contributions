@@ -1317,6 +1317,7 @@
 - [ChickenHawkXP](https://github.com/ChickenHawkXP)
 - [Mruga Shah](https://github.com/mruga30)
 - [Sergio García](https://github.com/sergiogp98)
+- [Ananth Kamath](https://github.com/agk98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨💻](https://github.com/barhouum7)
 - [Josh Favre](http://github.com/Jofa11)
