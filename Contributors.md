@@ -529,6 +529,7 @@
 - [Dhaval Desai](https://github.com/xPetra)
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
+- [Vatsal Kesarwani](https://github.com/plazzy99)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
 - [Dexy](https://github.com/dexypy)
 - [Manuel Pissanos](https://github.com/mpissanos)
