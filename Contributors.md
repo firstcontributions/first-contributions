@@ -1,6 +1,6 @@
 ﻿# Contributors
 - [Thomas Harbin](https://github.com/thomasharbin)
-- [Kavya_Agarwal] (https://github.com/KavyaAgarwal2001)
+- [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
 - [Taha Moghrabi](https://github.com/marketerly)
