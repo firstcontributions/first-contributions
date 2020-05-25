@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Kavya_Agarwal] (https://github.com/KavyaAgarwal2001)
 - [Muhammed Milan](https://github.com/milan090)
@@ -13,6 +13,7 @@
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Shreyas Pandey](https://github.com/shrey-devep)
+- [Sara Iftikhar](https://github.com/sara9i)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
 - [Neil Sharma](https://github.com/neil-sharma-123)
@@ -62,6 +63,7 @@
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
+- [Sungchang Park](https://github.com/psch300)
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Navin M](https://github.com/navin-m)
 - [Casneil Simpson](https://github.com/casneil)
@@ -177,6 +179,7 @@
 - [Eric Hansen](https://github.com/ehansen247)
 - [Palak Mantry](https://github.com/pal-16)
 - [Spencer Call](https://github.com/scall12)
+- [qjx](https://github.com/404notfoundqjx)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
 - [Drew Ferrell](https://github.com/drew-ferrell)
@@ -512,6 +515,7 @@
 - [Alif Jahan](https://github.com/zxalif)
 - [Brady Haden](https://github.com/bhaden94)
 - [Tamar Shacked](https://github.com/tshacked)
+- [Thomas Lambell](https://github.com/thomas-lambell)
 - [Dhaval Desai](https://github.com/xPetra)
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
@@ -1407,3 +1411,4 @@
 - [Brian Pechkis](https://github.com/bpechkis)
 - [Roy Jackman](https://github.com/royJackman)
 - [Benjamin Sarkis](https://github.com/sarkisben)
+- [Kristin Hodge](https://github.com/kristinnhodge)
