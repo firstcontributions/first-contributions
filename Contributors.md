@@ -45,6 +45,7 @@
 - [Saurabh Pal](https://github.com/bestpal97)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
+- [Patrick Wheeler](https://github.com/vader-coder)
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
