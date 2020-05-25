@@ -4,6 +4,7 @@
 - [Muhammed Milan](https://github.com/milan090)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
+- [chrislockard](https://github.com/chrislockard)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Bruno Rabelo](https://github.com/brunorabelo)
