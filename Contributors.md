@@ -15,6 +15,7 @@
 - [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
+- [Andy Pavey](https://github.com/apavey1)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Sara Iftikhar](https://github.com/sara9i)
 - [Nathan Taylor](https://github.com/pecan.pine)
