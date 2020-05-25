@@ -1386,6 +1386,7 @@
 - [Radek Miernik](https://github.com/RadekMiernik)
 - [Oblivion76](https://github.com/oblivion76)
 - [Samrat De](https://github.com/SamratDe)
+- [Victor Wei](https://github.com/victor-wei126)
 - [Bryon Czaja](https://github.com/Bryon0)
 - [Bertram Wooster](https://github.com/woosterbertram)
 - [Aaishwary Jivnani](https://github.com/aishwary2112)
