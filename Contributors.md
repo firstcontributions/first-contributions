@@ -1386,7 +1386,7 @@
 - [Marko Monsalud](https://github.com/markomonsalud)
 - [Aastha Singh](https://github.com/aasthasingh650)
 - [Radek Miernik](https://github.com/RadekMiernik)
-- [Hema Omprakash](https://github.com/HemaO) 
+- [Hema Omprakash](https://github.com/HemaO)
 - [Eileen Landa](https://github.com/ladylanda)
 - [Todd Brogowski](https://github.com/toddswrittenword) Hi!
 - [Radek Miernik](https://github.com/RadekMiernik)
@@ -1409,3 +1409,4 @@
 - [Brian Pechkis](https://github.com/bpechkis)
 - [Roy Jackman](https://github.com/royJackman)
 - [Benjamin Sarkis](https://github.com/sarkisben)
+- [Kristin Hodge](https://github.com/kristinnhodge)
