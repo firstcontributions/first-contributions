@@ -12,6 +12,7 @@
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
 - [Pranav Kulkarni](https://github.com/freakcap)
+- [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Shreyas Pandey](https://github.com/shrey-devep)
