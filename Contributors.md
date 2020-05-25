@@ -1,6 +1,7 @@
 ﻿# Contributors
+
 - [Thomas Harbin](https://github.com/thomasharbin)
-- [Kavya_Agarwal] (https://github.com/KavyaAgarwal2001)
+- [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
 - [Taha Moghrabi](https://github.com/marketerly)
@@ -59,6 +60,7 @@
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Ssali Jonathan](https://github.com/jod35)
 - [David Rozmajzl](https://github.com/dmr121)
+- [Binu David](https://github.com/BinuDavid)
 - [Mohammed Tausif Uddin Ansari](https://github.com/TausifAnsari)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
@@ -87,7 +89,7 @@
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
-- [Oleksiy Onishchenko] (https://github.com/Oleksiy1990)
+- [Oleksiy Onishchenko](https://github.com/Oleksiy1990)
 - [theerrors](https://github.com/TheErrrors)
 - [Olatunji Dolapo](https://github.com/nofeesahdee)
 - [Josh Smith](https://github.com/smithjosh024)
@@ -1418,4 +1420,4 @@
 - [Roy Jackman](https://github.com/royJackman)
 - [Benjamin Sarkis](https://github.com/sarkisben)
 - [Kristin Hodge](https://github.com/kristinnhodge)
-- [Scramocell] (https://github.com/Scramocell)
+- [Scramocell](https://github.com/Scramocell)
