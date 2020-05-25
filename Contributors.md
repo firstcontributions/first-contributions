@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Kavya_Agarwal] (https://github.com/KavyaAgarwal2001)
 - [Muhammed Milan](https://github.com/milan090)
@@ -511,6 +511,7 @@
 - [Alif Jahan](https://github.com/zxalif)
 - [Brady Haden](https://github.com/bhaden94)
 - [Tamar Shacked](https://github.com/tshacked)
+- [Thomas Lambell](https://github.com/thomas-lambell)
 - [Dhaval Desai](https://github.com/xPetra)
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
