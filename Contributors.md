@@ -2,6 +2,7 @@
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Kavya_Agarwal] (https://github.com/KavyaAgarwal2001)
 - [Muhammed Milan](https://github.com/milan090)
+- [Taha Moghrabi](https://github.com/marketerly)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [chrislockard](https://github.com/chrislockard)
