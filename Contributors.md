@@ -1004,6 +1004,7 @@
 - [Piotr Gargula](https://github.com/pgagula)
 - [hrj](https://github.com/1170300812)
 - [lucasebs](https://github.com/lucasebs)
+- [Dale H](https://github.com/dhuettenmoser)
 - [Ben Balentine](https://github.com/BenBamboozled)
 - [jc](https://github.com/jc-appier)
 - [Joao](https://github.com/Joaopedrobass)
