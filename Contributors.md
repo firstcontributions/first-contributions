@@ -404,6 +404,7 @@
 - [Richard Theaker](https://github.com/rtheaker)
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
+- [Felipe Borges](https://github.com/felipejsborges)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
 - [James Ma](https://github.com/jamesma100)
