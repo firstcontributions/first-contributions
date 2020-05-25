@@ -61,6 +61,7 @@
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
+- [son_of_man]
 - [Roshan Kanwar](https://github.com/roshan0708)
 - [Navin M](https://github.com/navin-m)
 - [Casneil Simpson](https://github.com/casneil)
