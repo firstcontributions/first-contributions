@@ -1248,6 +1248,7 @@
 - [Richard Marrone](https://github.com/RichardMarrone)
 - [Chua Kaixin](https://github.com/ChuaKaixin)
 - [Ismail Vohra](https://github.com/ismailvohra)
+- [Bruce Wang](https://github.com/brucewang45)
 - [Howling Wolf Table](https://https://github.com/HowlingWolfTable)
 - [Howard Jiang](https://github.com/hjiang4332)
 - [Anna Sherlock](https://github.com/alsherlock)
