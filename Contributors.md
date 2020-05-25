@@ -22,6 +22,7 @@
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Brandon Banh](https://github.com/Tigerstripes2013)
+- [Prashant Kumar](https://github.com/prashantk01)
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sergio Peschiera](https://github.com/sergiopg)
 - [Ajit Bhat](https://github.com/abhat3)
