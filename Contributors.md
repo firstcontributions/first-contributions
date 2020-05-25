@@ -612,6 +612,7 @@
 - [Samuel Fuller](https://github.com/samuelfuller01)
 - [Ian Sherwood](https://github.com/eyesurewould)
 - [Seungil Ahn](https://github.com/dkstm95)
+- [William Guimarães](https://github.com/WillGuima)
 - [Raghunandan M. A.](https://github.com/raghu-ma)
 - [agtokty](https://github.com/agtokty)
 - [Torbjørn Bratland](https://github.com/tobratland)
