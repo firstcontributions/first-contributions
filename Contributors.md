@@ -30,7 +30,7 @@
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
-- [Dale Richards](https://github.com/sporksnail
+- [Dale Richards](https://github.com/sporksnail)
 - [Bharath SM](https://github.com/bharathsm)
 - [Rekib Ahmed](https://github.com/rekib0023)
 - [Rishu](https:github.com/rahulsinha2911)
