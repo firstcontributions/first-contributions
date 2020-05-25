@@ -44,6 +44,7 @@
 - [Saurabh Pal](https://github.com/bestpal97)
 - [Lucas Alcantara](https://github.com/Lukmin1999)
 - [Abhishek Kumar](https://github.com/abhishekrnc)
+- [Patrick Wheeler](https://github.com/vader-coder)
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
@@ -1383,7 +1384,7 @@
 - [Marko Monsalud](https://github.com/markomonsalud)
 - [Aastha Singh](https://github.com/aasthasingh650)
 - [Radek Miernik](https://github.com/RadekMiernik)
-- [Hema Omprakash](https://github.com/HemaO) 
+- [Hema Omprakash](https://github.com/HemaO)
 - [Eileen Landa](https://github.com/ladylanda)
 - [Todd Brogowski](https://github.com/toddswrittenword) Hi!
 - [Radek Miernik](https://github.com/RadekMiernik)
