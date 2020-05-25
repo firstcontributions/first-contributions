@@ -73,6 +73,7 @@
 - SK
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
+- [Sagar-AArya](https://github.com/Sagar-AArya)
 - [Megan Thong](https://github.com/pikamegan)
 - [theerrors](https://github.com/TheErrrors)
 - [Olatunji Dolapo](https://github.com/nofeesahdee)
