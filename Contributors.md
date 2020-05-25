@@ -446,6 +446,7 @@
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
 - [Mackey Lao](https://github.com/MackeyLao)
+- [Sagar AArya](https://github.com/Sagar-AArya)
 - [Sergio Peña](https://github.com/Sergiop79)
 - [Mahmoud Adel](https://github.com/mohmyo)
 - [Matt Silva](https://github.com/MattSilva)
