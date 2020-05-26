@@ -787,6 +787,7 @@
 - [Drake Gens](https://github.com/drakegens)
 - [Dave Holly](https://github.com/daveholly57)
 - [Nic Vigil](https://githib.com/nicvigil)
+- [Ronit Singh](https://github.com/ronitsingh1405)
 - [Luke Kuo](https://github.com/DarkGoomba)
 - [Bruno Cezani](https://githib.com/bcezani)
 - [Jaime R](https://github.com/JaimeRado)
