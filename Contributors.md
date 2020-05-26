@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Audrey Bergeron (https://github.com/abergeron1905)]
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
