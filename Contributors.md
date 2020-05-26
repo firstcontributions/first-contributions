@@ -312,6 +312,7 @@
 - [Karl Peet](https://github.com/karlpeet92)
 - [jo](https://github.com/folde01)
 - [Edwina Muir](https://github.com/edgmuir)
+- [Sandip Dutta](https://github.com/Dutta-SD)
 - [jhavn](https://github.com/jhavn)
 - [yasnogor](https://github.com/yasnogor)
 - [newguy](https://github.com/puneepth)
