@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Kyle Fanner (https://github.com/KyleFanner)]
 - [Audrey Bergeron (https://github.com/abergeron1905)]
 - [Arpan Dutta ](https://github.com/smalldutta)
@@ -1443,3 +1443,4 @@
 - [NiteGod] (https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
 - [Jacob Korf] (https://github.com/jacob-korf)
+- [Shaswat Swarup] (https://github.com/shaswat94) 
