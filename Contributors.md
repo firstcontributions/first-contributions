@@ -1335,6 +1335,7 @@
 - [Faraz Khan](https://github.com/Frk4)
 - [Adam Goldstone](https://github.com/amg93)
 - [Samrat19](https://github.com/samrat19)
+  [Omar Ajerray](https://github.com/iomeanslife)
 - [theNaavik](https://github.com/theNaavik)
 - [vincent](https://github.com/vincentcvr6)
 - [Vinicius Philot](https://github.com/vphilot)
