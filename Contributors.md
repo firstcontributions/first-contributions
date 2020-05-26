@@ -1437,3 +1437,4 @@
 - [NiteGod] (https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
 - [Jacob Korf] (https://github.com/jacob-korf)
+- [Daniel Muremwa](https://github.com/muremwa)
