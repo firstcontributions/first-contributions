@@ -151,6 +151,7 @@
 - [Abby Johnson](https://githib.com/AbbyArsenic)
 - [Connor Doherty](https://github.com/connord96)
 - [Kavita Vaishnaw](https://github.com/kavita-v)
+- [Aditya Kshirsagar](https://github.com/ad17ya)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Russ_Wilcox](https://github.com/rwilcox518)
 - [Meerkat1999](https://github.com/Meerkats1999)
