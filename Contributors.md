@@ -277,6 +277,7 @@
 - [Satvir Sandhu](https://github.com/356Sandhu)
 - [Neissa Dorsinville](https://github.com/neissacodes)
 - [Skylar Liang](https://github.com/SkylarLJY)
+- [Ololade](https://github.com/lolyparty)
 - [Rendy Setiawan](https://github.com/VenansiusRendy)
 - [Xuan Tao](https://github.com/Tobby0824/)
 - [John Lin](https://github.com/jlin22)
