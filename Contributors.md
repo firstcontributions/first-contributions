@@ -394,6 +394,7 @@
 - [tralbi](https://github.com/Tralbi)
 - [tpartridge1](https://github.com/tpartridge1)
 - [Saloni Goyal](https://github.com/gsaloni11)
+- [Andy Palmer](https://github.com/andipalmur)
 - [Shenyu](https://github.com/lishenyu16)
 - [Recep Daban](https://github.com/worthrd)
 - [Motunrayo Koyejo](https://github.com/motunrayokoyejo)
