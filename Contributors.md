@@ -1243,6 +1243,7 @@
 - [Jennifer Park](https://github.com/j3nniis)
 - [Kenneth Nguyen](https://github.com/KennethNguyen)
 - [mpatel17](https://github.com/mpatel17)
+- [Kushal Gopal](https://github.com/kushal-gopal)
 - [keojo](https://github.com/keojo)
 - [hunterdanielson](https://github.com/hunterdanielson)
 - [bilgehannevruz](https://github.com/bilgehannevruz)
