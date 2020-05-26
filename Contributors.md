@@ -1,5 +1,5 @@
 ﻿# Contributors
-- [Audrey Bergeron (https://github.com/abergeron1905)]
+- [Audrey Bergeron](https://github.com/abergeron1905)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
@@ -1434,7 +1434,7 @@
 - [Benjamin Sarkis](https://github.com/sarkisben)
 - [Kristin Hodge](https://github.com/kristinnhodge)
 - [Scramocell](https://github.com/Scramocell)
-- [NiteGod] (https://github.com/NiteGod)
+- [NiteGod](https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
-- [Jacob Korf] (https://github.com/jacob-korf)
+- [Jacob Korf](https://github.com/jacob-korf)
 - [Daniel Muremwa](https://github.com/muremwa)
