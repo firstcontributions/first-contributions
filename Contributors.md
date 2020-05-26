@@ -1,6 +1,6 @@
 # Contributors
-- [Kyle Fanner (https://github.com/KyleFanner)]
-- [Audrey Bergeron (https://github.com/abergeron1905)]
+- [Kyle Fanner](https://github.com/KyleFanner)
+- [Audrey Bergeron](https://github.com/abergeron1905)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
@@ -1440,7 +1440,8 @@
 - [Benjamin Sarkis](https://github.com/sarkisben)
 - [Kristin Hodge](https://github.com/kristinnhodge)
 - [Scramocell](https://github.com/Scramocell)
-- [NiteGod] (https://github.com/NiteGod)
+- [NiteGod](https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
-- [Jacob Korf] (https://github.com/jacob-korf)
-- [Shaswat Swarup] (https://github.com/shaswat94) 
+- [Jacob Korf](https://github.com/jacob-korf)
+- [Shaswat Swarup](https://github.com/shaswat94)
+- [Daniel Muremwa](https://github.com/muremwa)
