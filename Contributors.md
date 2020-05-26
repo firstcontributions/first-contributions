@@ -997,6 +997,7 @@
 - [Joseph Spinelli](https://github.com/joespinelli7)
 - [Vince Grilli](https://github.com/VinceGrilli)
 - [Farhat SH](https://github.com/farhatcode)
+- [Duncan Davies](https://github.com/duncandavies)
 - [David Gutierrez-McCormack](https://github.com/davidmccormack)
 - [UnnatiiTibrewal](https://github.com/unnatii)
 - [Joachim Miens](https://github.com/jojo58fr)
