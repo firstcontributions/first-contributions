@@ -1445,3 +1445,5 @@
 - [Jacob Korf](https://github.com/jacob-korf)
 - [Shaswat Swarup](https://github.com/shaswat94)
 - [Daniel Muremwa](https://github.com/muremwa)
+-[Jared Strober](https://github.com/JaredStrober)
+
