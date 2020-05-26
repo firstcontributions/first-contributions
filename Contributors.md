@@ -18,6 +18,7 @@
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Andy Pavey](https://github.com/apavey1)
+-[Pratik Singh](https://github.com/kitarp29)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
 - [Sara Iftikhar](https://github.com/sara9i)
