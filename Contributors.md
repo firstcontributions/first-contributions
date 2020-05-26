@@ -21,6 +21,7 @@
 -[Pratik Singh](https://github.com/kitarp29)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
+- [Wilson Chau](https://github.com/a19950605)
 - [Sara Iftikhar](https://github.com/sara9i)
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
