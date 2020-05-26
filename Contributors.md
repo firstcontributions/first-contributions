@@ -70,6 +70,7 @@
 - [Ssali Jonathan](https://github.com/jod35)
 - [David Rozmajzl](https://github.com/dmr121)
 - [Binu David](https://github.com/BinuDavid)
+- [Alec Barnard](https://github.com/alecbar)
 - [Mohammed Tausif Uddin Ansari](https://github.com/TausifAnsari)
 - [Sanskar Patro](https://github.com/sanskar-p)
 - [Jeremy Williams](https://gitbuh.com/jeremy-w-williams)
