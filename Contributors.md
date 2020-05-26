@@ -630,6 +630,7 @@
 - [William Guimarães](https://github.com/WillGuima)
 - [Raghunandan M. A.](https://github.com/raghu-ma)
 - [agtokty](https://github.com/agtokty)
+- [Bradford Bailey](https://github.com/bradferd)
 - [Torbjørn Bratland](https://github.com/tobratland)
 - [NdengangEdwin](https://github.com/ndengangEdwin)
 - [Mario Saputra](https://github.com/mariosaputra)
