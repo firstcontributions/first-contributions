@@ -1,4 +1,5 @@
 # Contributors
+
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
@@ -6,7 +7,7 @@
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
-- [Ajay Chamba] (https://https://github.com/ajaychamba)
+- [Ajay Chamba](https://https://github.com/ajaychamba)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
@@ -54,7 +55,7 @@
 - [Rishu](https:github.com/rahulsinha2911)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
-- [Chanakya Patel] (https://github.com/patelchanakya)
+- [Chanakya Patel](https://github.com/patelchanakya)
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
@@ -1478,3 +1479,4 @@
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Mark Holcomb](https://github.com/Marknoodle)
+- [Chris Arias](https://github.com/ChrisArias-dev)
