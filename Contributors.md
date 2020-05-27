@@ -1457,3 +1457,4 @@
 - [Shaswat Swarup](https://github.com/shaswat94)
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Subash Sreeram](https://github.com/sreesub)
+- [Katie Gu] (https://github.com/katie-gu)
