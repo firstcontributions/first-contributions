@@ -54,6 +54,7 @@
 - [Rishu](https:github.com/rahulsinha2911)
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
+- [Chanakya Patel] (https://github.com/patelchanakya)
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
