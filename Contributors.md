@@ -198,6 +198,7 @@
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [Jordan Miracle](https://github.com/jordanmiracle)
 - [Sophie](https://github.com/sophiawa)
+- [Dhanesh Shetty](https://github.com/DhaneshShetty)
 - [Udit Singhania](https://github.com/udisinghania)
 - [archithadge](https://github.com/archithadge)
 - [bubbameetze](https://github.com/bubbameetze)
