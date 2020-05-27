@@ -1,11 +1,12 @@
 # Contributors
+
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
-- [Ajay Chamba] (https://https://github.com/ajaychamba)
+- [Ajay Chamba](https://https://github.com/ajaychamba)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
@@ -43,6 +44,7 @@
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
+- [Bethzait Becerra](https://github.com/bethbecerra)
 - [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
