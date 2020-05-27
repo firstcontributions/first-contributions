@@ -185,6 +185,7 @@
 - [Coco](https://github.com/coco4024)
 - [Tristan Verduzco](https://github.com/VerduzcoTristan)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
+- [Jay Bhoyar](https://github.com/jaybhoyar)
 - [Dan Chif](https://github.com/nadchif)
 - [ripal patel](https://github.com/srip1)
 - [Steve Hardy](https://github.com/Govanator12)
