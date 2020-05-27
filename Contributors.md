@@ -6,6 +6,7 @@
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Rahul Parmar](https://github.com/ramrap)
+- [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
