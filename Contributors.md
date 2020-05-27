@@ -1372,6 +1372,7 @@
 - [Ananth Kamath](https://github.com/agk98)
 - [Haardik Dharma](https://github.com/haardikdharma10)
 - [BHMBS Ibrahim👨💻](https://github.com/barhouum7)
+- [Ibrahim Alausa](https://github.com/tosinibrahim96)
 - [Josh Favre](http://github.com/Jofa11)
 - [Nitish Vijai](https://github.com/nitishvijai)
 - [Kartikey Porwal](https://github.com/kartikeyporwal)
