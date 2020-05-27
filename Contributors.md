@@ -2,6 +2,7 @@
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
+- [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
