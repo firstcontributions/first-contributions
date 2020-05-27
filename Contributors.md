@@ -1,4 +1,5 @@
 # Contributors
+- [Nathaniel Li] (https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Arpan Dutta ](https://github.com/smalldutta)
