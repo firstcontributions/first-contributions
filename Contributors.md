@@ -1130,6 +1130,7 @@
 - [MegaSalmon](https://github.com/MegaSalmon)
 - [Alex H](https://github.com/afhare/)
 - [Martin Carles](https://github.com/martincarles)
+- [Neil Morrison](https://github.com/neilmorr)
 - [Rian Schmit](https://github.com/Rian-Schmit)
 - [Austin Blandford](https://github.com/ABlandford)
 - [Brendan Cleveland](https://github.com/BCleveland)
