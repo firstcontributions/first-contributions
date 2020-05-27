@@ -696,6 +696,7 @@
 - [Neel](https://github.com/spiyer99)
 - [Tigran Harutyunyan](https://github.com/caboose008)
 - [Jakub Banasik](https://github.com/jakubbanasik)
+- [Hyodo](https://github.com/eduardo-hyodo)
 - [João Batista](https://github.com/JBDionisio)
 - [Sam Matthews](https://github.com/FiendySam/)
 - [Alec Bartley](https://github.com/tabbartley/)
