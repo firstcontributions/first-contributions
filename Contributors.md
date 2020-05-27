@@ -1461,4 +1461,3 @@
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Subash Sreeram](https://github.com/sreesub)
 - [Katie Gu](https://github.com/katie-gu)
-- [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
