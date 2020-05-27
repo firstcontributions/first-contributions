@@ -1,5 +1,5 @@
 # Contributors
-- [Nathaniel Li] (https://github.com/EthicalAmbiguity)
+- [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Arpan Dutta ](https://github.com/smalldutta)
@@ -1273,7 +1273,7 @@
 - [kilroyjones](https://github.com/kilroyjones/)
 - [leoperegrino](https://github.com/leoperegrino)
 - [abbasafzal10](https://github.com/abbasafzal10)
-- [kaulc] (https://github.com/kaulc)
+- [kaulc](https://github.com/kaulc)
 - [Kamil Serafinowicz](https://github.com/Seraphimus)
 - [Bjornsbot](https://github.com/bjornsbot)
 - [Abhishoya Lunavat](https://github.com/shoydex23)
@@ -1441,6 +1441,7 @@
 - [Elvis Iraguha](https://github.com/elvisiraguha)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
+- [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
 - [Manasvi](https://github.com/mmbhatk)
 - [FreezeSnail](https://github.com/FreezeSnail)
 - [Audrey Yang](https://github.com/audrey-yang)
