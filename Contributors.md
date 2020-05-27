@@ -1469,3 +1469,4 @@
 - [Subash Sreeram](https://github.com/sreesub)
 - [Katie Gu](https://github.com/katie-gu)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
+- [Kate Raskauskas](https://github.com/kateapault)
