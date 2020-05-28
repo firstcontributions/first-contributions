@@ -1492,5 +1492,6 @@
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Mark Holcomb](https://github.com/Marknoodle)
+- [Liina Adamson] (https://github.com/LiinaAd)
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
