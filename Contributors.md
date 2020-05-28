@@ -27,6 +27,7 @@
 - [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
 - [Jalansh Munshi](https://github.com/JalanshMunshi)
 - [Enrique Torrez](https://gihub.com/etorr)
+- [Yashraj Jain](https://github.com/yashrajjain726)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Andy Pavey](https://github.com/apavey1)
 - [Dhairya](https://github.com/dhairya2019)
