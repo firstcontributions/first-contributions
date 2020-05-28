@@ -1,5 +1,4 @@
 # Contributors
-
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Audrey Bergeron](https://github.com/abergeron1905)
@@ -16,6 +15,7 @@
 - [Taha Moghrabi](https://github.com/marketerly)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
+- [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
@@ -1479,4 +1479,3 @@
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Mark Holcomb](https://github.com/Marknoodle)
-- [Chris Arias](https://github.com/ChrisArias-dev)
