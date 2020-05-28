@@ -24,6 +24,7 @@
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Ankit Goel](https://github.com/ankitgoel25)
+- [Thiago Almeida](https://github.com/tbalmeida)
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
 - [Pranav Kulkarni](https://github.com/freakcap)
