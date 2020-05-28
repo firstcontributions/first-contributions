@@ -46,6 +46,7 @@
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
+- [Bethzait Becerra](https://github.com/bethbecerra)
 - [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
