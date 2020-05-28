@@ -22,6 +22,7 @@
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - [Jeremy Wong](http://github.com/jwjeremy)
 Piyush Goel
+- [Kali Littlefield](https://github.com/Kali-Littlefield)
 - [Megan Thong](https://github.com/pikamegan)
 theerrors
 [Olatunji Dolapo](https://github.com/nofeesahdee)
