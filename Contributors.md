@@ -139,6 +139,7 @@
 - [Ville Mäkilä](https://github.com/vilmaguila)
 - [Pyae Phyo Khant](https://github.com/PyaePhyoKhant)
 - [Purvansh Shah](https://github.com/purvansh11)
+- [Tania Malhotra](https://github.com/taniaMalhotra)
 - kyle
 - mirlayne
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
