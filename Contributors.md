@@ -103,6 +103,7 @@
 - [Steven Eubank](http://github.com/smeubank)
 - Kyle Hayden
 - SK
+- [Jake Shoemaker] (https://github.com/jakeshoemaker)
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
