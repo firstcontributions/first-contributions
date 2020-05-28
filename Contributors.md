@@ -3,6 +3,7 @@
 - [gabgodBB](https://github.com/gabgodBB)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Aashish khatri] (https://github.com/aashish-khatri)
+- [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Peter Kang](https://github.com/pswk1)
