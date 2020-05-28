@@ -203,6 +203,7 @@
 - [Palak Mantry](https://github.com/pal-16)
 - [Spencer Call](https://github.com/scall12)
 - [qjx](https://github.com/404notfoundqjx)
+- [Hadeel bader] (https://github.com/hadeelbader)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
 - [Drew Ferrell](https://github.com/drew-ferrell)
