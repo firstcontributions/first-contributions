@@ -45,6 +45,7 @@
 - [Prashant Kumar](https://github.com/prashantk01)
 - [Rion Ghosh](https://github.com/Rion12)
 - [Sergio Peschiera](https://github.com/sergiopg)
+- [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
