@@ -104,10 +104,11 @@
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
 - [Andrew Mukare](https://github.com/JudgeFudge19)
 - [Jeremy Wong](http://github.com/jwjeremy)
+- [Kali Littlefield](https://github.com/Kali-Littlefield)
 - [Steven Eubank](http://github.com/smeubank)
 - Kyle Hayden
 - SK
-- [Jake Shoemaker] (https://github.com/jakeshoemaker)
+- [Jake Shoemaker](https://github.com/jakeshoemaker)
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
 - [Megan Thong](https://github.com/pikamegan)
