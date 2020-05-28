@@ -1,7 +1,7 @@
 # Contributors
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Kyle Fanner](https://github.com/KyleFanner)
-- [Aashish Khatri] (https://github.com/aashish-khatri)
+- [Aashish khatri] (https://github.com/aashish-khatri)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Peter Kang](https://github.com/pswk1)
