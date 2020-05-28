@@ -108,6 +108,7 @@
 - [Jeremy Wong](http://github.com/jwjeremy)
 - [Kali Littlefield](https://github.com/Kali-Littlefield)
 - [Steven Eubank](http://github.com/smeubank)
+- Shantanu Shukla
 - Kyle Hayden
 - SK
 - [Jake Shoemaker](https://github.com/jakeshoemaker)
