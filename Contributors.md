@@ -11,6 +11,7 @@
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
+- [Nico Beukes](https://github.com/nico-beukes)
 - [Ajay Chamba](https://github.com/ajaychamba)
 - [Daniel Segal] (https://github.com/DanielSegal1)
 - [Rakesh Pareek](https://github.com/rkpareek)
