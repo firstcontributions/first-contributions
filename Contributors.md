@@ -1536,6 +1536,7 @@
 - [Rushabh Sancheti](https://github.com/Rushabh2397)
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
+- [Eric Sprecher](https://github.com/eric-sprecher/)
 - [Channing Morillo](https://github.com/ChanningDev)
 - [Silvio Sznifer](https://github.com/silviosznifer/)
 - [Carlos Salazar](https://github.com/carlosIUSalazar)
