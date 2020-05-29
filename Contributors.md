@@ -1528,5 +1528,6 @@
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Channing Morillo](https://github.com/ChanningDev)
+- [Kohki Shiga](https://github.com/Saggitarie)
 - [Manjil Tamang](https://github.com/manjillama)
 - [Yuhuan Fan](https://github.com/Yuhuan0207)
