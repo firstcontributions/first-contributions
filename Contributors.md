@@ -1155,6 +1155,7 @@
 - [Kevin Huber](https://github.com/itskev)
 - [Monio](https://github.com/monio)
 - [Eric Jorgensen](https://github.com/theericjorgensen)
+- [Cristian Sanchez](https://github.com/cristianscy)
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
