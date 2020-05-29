@@ -1,5 +1,4 @@
 # Contributors
-
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [gabgodBB](https://github.com/gabgodBB)
 - [Kyle Fanner](https://github.com/KyleFanner)
@@ -488,6 +487,7 @@
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Nigel Moore](https://github.com/nimows)
 - [jecodeduweb](https://github.com/jecodeduweb)
+- [Riku Kawano](https://github.com/rikukawano)
 - [IcerOut](https://github.com/IcerOut)
 - [Alireza fassih](https://github.com/alireza-fassih)
 - [Orestis Tanis](https://github.com/OrestisTanis)
