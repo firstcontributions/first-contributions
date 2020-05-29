@@ -780,6 +780,7 @@
 - [JonatanBarr](https://github.com/jonybar9)
 - [Vidit Jain](https://github.com/viditjain5598)
 - [Alejandro Gonzalez](https://github.com/thehumanlegion)
+- [Ben Langlois](https://github.com/BenLanglois)
 - [Nathan Huh](https://github.com/AmberLlama81)
 - [Shreya Pathak](https://github.com/Shreya-Pathak)
 - [NUX:PR](https://github.com/nuxpr)
