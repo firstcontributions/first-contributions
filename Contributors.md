@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Audrey Bergeron (https://github.com/abergeron1905)]
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Thomas Harbin](https://github.com/thomasharbin)
@@ -18,8 +19,7 @@
 - [Jalansh Munshi](https://github.com/JalanshMunshi)
 - [Enrique Torrez](https://gihub.com/etorr)
 - [Riyadh Ouz](https://github.com/riyadh20)
-- [Andy Pavey](https://github.com/apavey1)
--[Pratik Singh](https://github.com/kitarp29)
+- [Andy Pavey](https://github.com/apavey1) -[Pratik Singh](https://github.com/kitarp29)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
 - [Wilson Chau](https://github.com/a19950605)
@@ -1089,6 +1089,7 @@
 - [DiligentDisaster](https://github.com/DiligentDisaster)
 - [Christopher Chmielewski](https://github.com/ChristopherChmielewski)
 - [Heinrich Malan](https://github.com/heinrichmalan)
+- [Max Rumford](https://github.com/Blitzableiter)
 - [abudawud](https://github.com/abudawud)
 - [David Azael Bernal](https://github.com/davidazael)
 - [Lydia Velasquez](https://https://github.com/lydiarachel)
@@ -1433,6 +1434,6 @@
 - [Benjamin Sarkis](https://github.com/sarkisben)
 - [Kristin Hodge](https://github.com/kristinnhodge)
 - [Scramocell](https://github.com/Scramocell)
-- [NiteGod] (https://github.com/NiteGod)
+- [NiteGod](https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
-- [Jacob Korf] (https://github.com/jacob-korf)
+- [Jacob Korf](https://github.com/jacob-korf)
