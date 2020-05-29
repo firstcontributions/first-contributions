@@ -1436,6 +1436,7 @@
 - [Omer Zinman](https://github.com/omer7642)
 - [Mustafa Sadedil](https://github.com/sadedil)
 - [bradwl](https://github.com/bradwl)
+- [Melvin](https://github.com/melvinkcx)
 - [jamesng123](https://github.com/jamesng123)
 - [TahsanVai](https://github.com/tahsanvai)
 - [Maya The Dog](https://www.linkedin.com/in/mayathedog)
