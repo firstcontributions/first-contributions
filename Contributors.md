@@ -81,6 +81,7 @@
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Chanakya Patel](https://github.com/patelchanakya)
+- [karamba34](https://github.com/karamba34)
 - [Sareen Shah](https://github.com/sareen279)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
