@@ -1063,6 +1063,7 @@
 - [Dale H](https://github.com/dhuettenmoser)
 - [Ben Balentine](https://github.com/BenBamboozled)
 - [jc](https://github.com/jc-appier)
+- [cwcraw](https://github.com/cwcraw)
 - [Joao](https://github.com/Joaopedrobass)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
