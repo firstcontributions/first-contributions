@@ -279,6 +279,7 @@
 - [Erik Hsu](https://github.com/erikhsu)
 - [Pranesh](https://github.com/klostur)
 - [Ahmad Sami](https://github.com/Asami1997)
+- [Mako Kusuda](https://github.com/makokusuda)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 - [Rachit Tiwari](https://github.com/rachittiwari8562)
