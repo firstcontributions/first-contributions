@@ -1,4 +1,5 @@
 # Contributors
+
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
@@ -16,7 +17,7 @@
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
 - [Ajay Chamba](https://github.com/ajaychamba)
-- [Daniel Segal] (https://github.com/DanielSegal1)
+- [Daniel Segal](https://github.com/DanielSegal1)
 - [Rakesh Pareek](https://github.com/rkpareek)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
@@ -109,7 +110,7 @@
 - [Rohit Nethi](https://github.com/RohitNethi)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman](https://github.com/joelhart)
-- [Sultan Sarazbanov] (https://gitbhub.com/avokado1337)
+- [Sultan Sarazbanov](https://gitbhub.com/avokado1337)
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
@@ -581,6 +582,7 @@
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
 - [Rafael Rubia](https://github.com/rafaelrubia)
+- [Max Rumford](https://github.com/Blitzableiter)
 - [Vishal Gole](https://github.com/golevishal)
 - [Daniel](https://github.com/jfdaniel77)
 - [Hassan Tasleem](https://github.com/hass321)
