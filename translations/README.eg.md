@@ -37,7 +37,7 @@
 
 <div dir="rtl">
 انسخ المشروع دة لجهازك.
-اضغط Clone بعدين دوس على أيقونة Copy to clipboard
+دوس على Clone بعدين دوس على أيقونة Copy to clipboard
 </div>
 <img style="float: left;" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 <div dir="rtl">
@@ -48,7 +48,7 @@
 git clone "url you just copied"
 ```
 
-<div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع اللي على حسابك فى github.</div>
+<div dir="rtl">بدل "url you just copied" حط الرابط اللي نسخته من الخطوة اللي فاتت، الرابط دة بتاع المشروع.</div>
 
 <div dir="rtl">على سبيل المثال:</div>
 
@@ -57,7 +57,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 <div dir="rtl">
-في هذا المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
+في المثال دة لاحظ ان 'this-is-you' هيكون إسم حسابك في موقع github، الأمر دة هينسخ محتويات المشروع لجهازك الخاص عشان تقدر تعدل عليه بحرية في أي وقت.
 </div>
 <br>
 

@@ -16,9 +16,9 @@
 | 🇪🇸 | [Español](README.es.md) |
 | 🇳🇱 | [Nederlands](README.nl.md) |
 | 🇷🇺 | [Русский язык](README.ru.md) |
-| 🇧🇬 | [Bulgarian](translations/README.bg.md) |
+| 🇧🇬 | [Bulgarian](README.bg.md) |
 | 🇲🇰 | [Македонски](README.mk.md) |
-| 🇭🇺 | [Magyar](translations/README.hu.md) |
+| 🇭🇺 | [Magyar](README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
 | 🇻🇳 | [Tiếng Việt](README.vn.md) |
