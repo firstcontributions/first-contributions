@@ -1458,7 +1458,6 @@
 - [Akshay-Arora](https://github.com/TheKingbyKey)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [manyang-lual](https://github.com/manyang-lual)
--  
 - [Zoe-KL](https://github.com/zoe-kl)
 - [Sara Maxwell](https://github.com/smaxwell953)
 - [K@fuNet](https://github.com/kafunet)
