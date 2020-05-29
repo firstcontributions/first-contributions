@@ -34,6 +34,7 @@
 - [Thiago Almeida](https://github.com/tbalmeida)
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
+- [Ekansh Bhatnagar](https://github.com/EkanshBhatnagar)
 - [Pranav Kulkarni](https://github.com/freakcap)
 - [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
 - [Jalansh Munshi](https://github.com/JalanshMunshi)
