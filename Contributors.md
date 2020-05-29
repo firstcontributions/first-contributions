@@ -1508,4 +1508,5 @@
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Channing Morillo](https://github.com/ChanningDev)
+- [Carlos Salazar](https://github.com/carlosIUSalazar)
 - [Manjil Tamang](https://github.com/manjillama)
