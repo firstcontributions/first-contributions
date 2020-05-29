@@ -1456,6 +1456,7 @@
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
 - [Sthen Campana](https://github.com/SupremeWhale)
+- [Garrett Chun](https://github.com/kapakahi)
 - [Anshu Aradhyula](https://github.com/yellowyetti)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
@@ -1509,3 +1510,4 @@
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Channing Morillo](https://github.com/ChanningDev)
 - [Manjil Tamang](https://github.com/manjillama)
+
