@@ -862,7 +862,7 @@
 - [Furkan K.](https://github.com/mfurkankara)
 - [Elizandra Dalpra](https://github.com/ElizandraDalpra)
 - [Wes Roberson](https://github.com/wesrob21)
-- [podoodoo] (https://github.com/podoodoo)
+- [podoodoo](https://github.com/podoodoo)
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
