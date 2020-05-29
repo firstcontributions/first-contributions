@@ -1499,6 +1499,7 @@
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
 - [Subash Sreeram](https://github.com/sreesub)
+- [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
@@ -1509,4 +1510,3 @@
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Channing Morillo](https://github.com/ChanningDev)
 - [Manjil Tamang](https://github.com/manjillama)
-- [Polly Sutcliffe](https://github.com/pollyj)
