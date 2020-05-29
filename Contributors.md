@@ -1,5 +1,4 @@
 # Contributors
-
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [gabgodBB](https://github.com/gabgodBB)
 - [Kyle Fanner](https://github.com/KyleFanner)
