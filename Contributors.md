@@ -7,6 +7,7 @@
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Peter Kang](https://github.com/pswk1)
+- [Julia Kyung](https://github.com/juliakyung)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
