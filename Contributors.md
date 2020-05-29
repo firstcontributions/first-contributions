@@ -1419,6 +1419,7 @@
 - [Jack Burrus](https://github.com/jackburrus)
 - [Yann Scheiffer](https://github.com/yaschei)
 - [Kit Leonard](https://github.com/kit-repo-depot)
+- [Aizhan](https://github.com/aizhanti)
 - [None Lone](https://github.com/nonelone)
 - [Brian Miller](https://github.com/bmill42)
 - [Kostas Grodis](https://github.com/grodis)
