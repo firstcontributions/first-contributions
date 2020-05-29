@@ -108,6 +108,7 @@
 - [Rohit Nethi](https://github.com/RohitNethi)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman](https://github.com/joelhart)
+- [Sultan Sarazbanov] (https://gitbhub.com/avokado1337)
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
