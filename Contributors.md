@@ -1492,6 +1492,7 @@
 - [Bryon Czaja](https://github.com/Bryon0)
 - [Bertram Wooster](https://github.com/woosterbertram)
 - [Aaishwary Jivnani](https://github.com/aishwary2112)
+- [Phuong Tran](https://github.com/phuonggg)
 - [Elvis Iraguha](https://github.com/elvisiraguha)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
