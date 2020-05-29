@@ -12,6 +12,7 @@
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Ajay Chamba](https://github.com/ajaychamba)
+- [Daniel Segal] (https://github.com/DanielSegal1)
 - [Rakesh Pareek](https://github.com/rkpareek)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
