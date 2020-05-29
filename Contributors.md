@@ -845,6 +845,7 @@
 - [Yunfei Jing](https://github.com/yunfeijing)
 - [Rafal Grzyb](https://github.com/Grzybotron)
 - [sotajensede](https://github.com/sotajensede)
+- [Jack Nowinski](https://github.com/jnowinski)
 - [peterp](https://github.com/peterp)
 - [Aaron Smith](https://github.com/aarondanielsmith)
 - [Juan Belieni](https://github.com/juanbelieni)
