@@ -23,6 +23,7 @@
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
 - [Taha Moghrabi](https://github.com/marketerly)
+- [Halee Pagel](https://github.com/haleepagel)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
