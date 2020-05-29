@@ -1266,6 +1266,7 @@
 - [CeciliaP.](https://github.com/ceci99pb)
 - [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
+- [Raissa] (https://github.com/rraissa)
 - [Nick LiBassi](https://github.com/nlibassi)
 - [Liam Lee](https://github.com/mappyliam)
 - [loozy5331](https://github.com/loozy5331)
