@@ -802,6 +802,7 @@
 - [Swaraj Dehuri](https://github.com/darkknight27)
 - [Bassem - NextGLabs](https://github.com/nextglabs)
 - [Raghid Elewa](https://github.com/relewa)
+- [Ryan Deckard](https://github.com/rldeckard)
 - [Abhishek Mohite](https://github.com/astroncoda)
 - [Saullo Carvalho](https://github.com/saullocarvalho)
 - [Darshan Patidar](https://github.com/darshanpatidar1)
