@@ -12,6 +12,7 @@
 - [Julia Kyung](https://github.com/juliakyung)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
+- [Ougni Chakraborty](https://github.com/ougni)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
