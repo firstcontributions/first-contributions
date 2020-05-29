@@ -1500,6 +1500,7 @@
 - [Aaishwary Jivnani](https://github.com/aishwary2112)
 - [Phuong Tran](https://github.com/phuonggg)
 - [Elvis Iraguha](https://github.com/elvisiraguha)
+- [Shuntaro Maekawa](https://github.com/maegatro)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
 - [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
