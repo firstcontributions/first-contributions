@@ -1507,6 +1507,7 @@
 - [Shaswat Swarup](https://github.com/shaswat94)
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
+- [Andy Wei](https://github.com/AndrewWei-Colosseum)
 - [Subash Sreeram](https://github.com/sreesub)
 - [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
