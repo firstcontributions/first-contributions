@@ -357,6 +357,7 @@
 - [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
+- [Amanda B](https://github.com/critterconvention)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
