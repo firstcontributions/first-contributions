@@ -1270,6 +1270,7 @@
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
 - [nickfiggins](https://github.com/nickfiggins)
+- [Roger Voss](https://github.com/rogerrogerv)
 - [Roger T](https://github.com/RogerT22)
 - [Asad Butt](https://github.com/asdal)
 - [Ron Gaza](https://github.com/fugarza)
