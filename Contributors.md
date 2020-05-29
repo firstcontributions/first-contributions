@@ -1410,6 +1410,7 @@
 - [Chris Vo](https://github.com/VoChrisK)
 - [Rugved](https://github.com/rugved)
 - [LahirukaWijesinghe](https://github.com/lahirukawijes)
+- [Futurne](https://github.com/Futurne)
 - [Abinav Baskar](https://github.com/abinav-baskar)
 - [Pratik Tiwari](https://github.com/pratiktiwari13)
 - [Sagar Datta](https://github.com/sagar-datta)
