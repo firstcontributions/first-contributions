@@ -1,4 +1,5 @@
 # Contributors
+- [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [gabgodBB](https://github.com/gabgodBB)
