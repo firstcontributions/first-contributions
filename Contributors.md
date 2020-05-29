@@ -1520,6 +1520,7 @@
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Mark Holcomb](https://github.com/Marknoodle)
 - [Liina Adamson] (https://github.com/LiinaAd)
+- [Rushabh Sancheti](https://github.com/Rushabh2397)
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Channing Morillo](https://github.com/ChanningDev)
