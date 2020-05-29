@@ -1499,6 +1499,7 @@
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
 - [Subash Sreeram](https://github.com/sreesub)
+- [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
