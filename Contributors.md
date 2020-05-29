@@ -235,6 +235,7 @@
 - [Carnival Wilson](https://github.com/TiKebek)
 - [Austin Hufstetler](https://github.com/austinHufstetler)
 - [Daneel Rakow](https://github.com/daneelrakow)
+- [Jonathan Raxa](https://github.com/jonathanraxa/)
 - [Jordan Miracle](https://github.com/jordanmiracle)
 - [Sophie](https://github.com/sophiawa)
 - [Dhanesh Shetty](https://github.com/DhaneshShetty)
