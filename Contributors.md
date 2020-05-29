@@ -792,6 +792,7 @@
 - [Julio Alvarado](https://github.com/JulioJoulesAlvarado)
 - [Parkash Pant](https://github.com/parkashpant)
 - [Stephen Paslaski](https://github.com/paslasks)
+- [Josh Hagins](https://github.com/BlitheBacon)
 - [Sci-Phy](https://github.com/Sci-Phy)
 - [Ryan Redburn](https://github.com/RyanRedburn)
 - [Ryan Oliveira](https://github.com/Ryoliveira)
