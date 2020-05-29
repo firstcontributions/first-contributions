@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
@@ -306,6 +306,7 @@
 - [Greg Mac](https://github.com/gregmacdev)
 - [Olushesi toheeb](https://github.com/OlushesiToheeb)
 - [Chocobobafett](https://github.com/Chocobobafett)
+- [Hiba Umair](https://github.com/HibaU)
 - [Wen Liang](https://github.com/wensuk)
 - [Stef](https://github.com/iamstefin)
 - [siddharth kumar](https://github.com/Siddharth-coder13)
