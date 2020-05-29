@@ -26,6 +26,7 @@
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
+- [Yurika Namba](https://github.com/yurikanamba)
 - [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
