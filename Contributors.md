@@ -333,6 +333,7 @@
 - [Nikola Drakulic](https://github.com/Drakula44)
 - [Saif Kazi](https://github.com/Saif807380)
 - [Nikhil K.](https://github.com/nk108)
+- [John E.](https://github.com/JohnEver2017)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
 - [Bhavya](https://github.com/raobhavya92)
