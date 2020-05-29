@@ -1,4 +1,5 @@
 # Contributors
+
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [gabgodBB](https://github.com/gabgodBB)
 - [Kyle Fanner](https://github.com/KyleFanner)
@@ -1476,6 +1477,7 @@
 - [madpeh](https://github.com/madpeh)
 - [Sthen Campana](https://github.com/SupremeWhale)
 - [Anshu Aradhyula](https://github.com/yellowyetti)
+- [Jeff Bentley](https://github.com/jbentleyjp)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
 - [Joe Lee](https://github.com/jlee-sysdig)
