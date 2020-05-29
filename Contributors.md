@@ -1472,6 +1472,7 @@
 - [Josseline Perdomo](https://github.com/josselineperdomo)
 - [Nesh Ojiambo](https://github.com/neshoj)
 - [Bart van Lierop](https://github.com/bvanlierop)
+- [Yuya Harada](https://github.com/yuya-h-29)
 - [Abhishek Mohanta](https://github.com/FxGs)
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
