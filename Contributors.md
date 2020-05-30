@@ -10,6 +10,7 @@
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Peter Kang](https://github.com/pswk1)
 - [Julia Kyung](https://github.com/juliakyung)
+- [Gary Shi] (https://github.com/Gary1q2)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Ougni Chakraborty](https://github.com/ougni)
