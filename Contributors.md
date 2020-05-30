@@ -303,6 +303,7 @@
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
 - [Rachit Tiwari](https://github.com/rachittiwari8562)
+- [Iniobong Benson](https://github.com/linibensonjr)
 - [Tristan Mc](https://github.com/T-mclennan)
 - [Dugg Antocicco](https://github.com/dantocicco)
 - [Dhruv Mehta](https://github.com/dhruvmehtaaa)
