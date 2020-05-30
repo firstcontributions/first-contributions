@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
@@ -10,8 +11,8 @@
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Peter Kang](https://github.com/pswk1)
 - [Julia Kyung](https://github.com/juliakyung)
-- [Gary Shi] (https://github.com/Gary1q2)
-- [Manjushree Pradhan] (https://github.com/first-contributions_WS)
+- [Gary Shi](https://github.com/Gary1q2)
+- [Manjushree Pradhan](https://github.com/first-contributions_WS)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Ougni Chakraborty](https://github.com/ougni)
@@ -20,7 +21,7 @@
 - [Nico Beukes](https://github.com/nico-beukes)
 - [Hui Yi Liang](https://github.com/huiyi-liang)
 - [Ajay Chamba](https://github.com/ajaychamba)
-- [Daniel Segal] (https://github.com/DanielSegal1)
+- [Daniel Segal](https://github.com/DanielSegal1)
 - [Rakesh Pareek](https://github.com/rkpareek)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
@@ -70,7 +71,7 @@
 - [Tom Rowbotham](https://github.com/tomrowbo)
 - [Ajit Bhat](https://github.com/abhat3)
 - [tlylt](https://github.com/tlylt)
-- [Nicola Checcacci] (https://github.com/stranicola)
+- [Nicola Checcacci](https://github.com/stranicola)
 - [Sahil Bajaj](https://github.com/sahilbajaj82)
 - [Noy Wolfson](https://github.com/noywolfson)
 - [Bethzait Becerra](https://github.com/bethbecerra)
@@ -115,7 +116,7 @@
 - [Rohit Nethi](https://github.com/RohitNethi)
 - [Bijesh Mohan](https://github.com/bijeshmohan)
 - [Joel Hartman](https://github.com/joelhart)
-- [Sultan Sarazbanov] (https://gitbhub.com/avokado1337)
+- [Sultan Sarazbanov](https://gitbhub.com/avokado1337)
 - [Gunish Matta](https://github.com/gunishmatta)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
@@ -138,7 +139,7 @@
 - Shantanu Shukla
 - Kyle Hayden
 - SK
--AL
+  -AL
 - [Jake Shoemaker](https://github.com/jakeshoemaker)
 - [Jeremy Wong](https://github.com/jwjeremy)
 - [Piyush Goel](https://github.com/piyushgoell)
@@ -891,8 +892,7 @@
 - [mpenrow](https://github.com/mpenrow)
 - [Beth Ackerman](https://github.com/betheackers)
 - [Pushpam Anand](https://github.com/Pushpam-iitd)
-- [FcKoOl](https://github.com/FcKoOl)
--[Omrigl](https://github.com/omrigl)
+- [FcKoOl](https://github.com/FcKoOl) -[Omrigl](https://github.com/omrigl)
 - [Edmund Lewry](https://github.com/EdmundLewry)
 - [Janne Ilonen](https://github.com/JanneIlonen)
 - [Zizy Zhu](https://github.com/zuzy)
@@ -1278,7 +1278,7 @@
 - [CeciliaP.](https://github.com/ceci99pb)
 - [Junwon Jung](https://github.com/jw3329)
 - [Ansh](https://github.com/root-ansh)
-- [Raissa] (https://github.com/rraissa)
+- [Raissa](https://github.com/rraissa)
 - [Nick LiBassi](https://github.com/nlibassi)
 - [Liam Lee](https://github.com/mappyliam)
 - [loozy5331](https://github.com/loozy5331)
@@ -1306,7 +1306,7 @@
 - [Furkan K.](https://github.com/mfurkankara)
 - [Elizandra Dalpra](https://github.com/ElizandraDalpra)
 - [Wes Roberson](https://github.com/wesrob21)
-- [podoodoo] (https://github.com/podoodoo)
+- [podoodoo](https://github.com/podoodoo)
 - [Darxper](https://github.com/darxper)
 - [Nghokeng Daniel](https://github.com/dani-gouken)
 - [Barbara Washington](https://github.com/silverbright)
@@ -1576,8 +1576,9 @@
 - [Manjil Tamang](https://github.com/manjillama)
 - [Yuhuan Fan](https://github.com/Yuhuan0207)
 - [Shubham Arya](https://github.com/mrjoker05)
+- [S Nitesh Singh](https://github.com/niteshseram)
 - [Purvesh Shende](https://github.com/purveshshende2)
 - [Damilola Oduronbi](https://github.com/oracleot)
 - [Jason Liu](https://github.com/jkfliu)
--Hrushikesh Akhade
+  -Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
