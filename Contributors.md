@@ -1403,6 +1403,7 @@
 - [Jens L](https://github.com/PretentiousPanda)
 - [Futuregit](https://github.com/futuregit)
 - [Matt Nelson](https://github.com/Matthew-Nelson)
+- [Sunny Patel](https://github.com/spp1991)
 - [TonyTheTiger323/Tony Greeley](https://github.com/tonythetiger323)
 - [Stenout](https://github.com/stenout)
 - [Jangrie](https://github.com/jangrie)
