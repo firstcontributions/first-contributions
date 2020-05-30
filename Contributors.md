@@ -8,6 +8,7 @@
 - [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
+- [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
 - [Julia Kyung](https://github.com/juliakyung)
 - [Gary Shi] (https://github.com/Gary1q2)
