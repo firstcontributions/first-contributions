@@ -1111,6 +1111,7 @@
 - [@brownesc](https://github.com/brownesc)
 - [Chaitanya Sama](https://github.com/chaitanyasama)
 - [Charlyp](https://github.com/charlespierru)
+- [Xof](https://github.com/ctitof137)
 - [Aloïs Brun](https://github.com/AloisBrun)
 - [Myron Liu](https://github.com/myron-liu)
 - [wet-dog](https://github.com/wet-dog)
