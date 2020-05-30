@@ -32,6 +32,7 @@
 - [Halee Pagel](https://github.com/haleepagel)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
+- [Aryaman Parekh](https://github.com/aparekh5)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Yurika Namba](https://github.com/yurikanamba)
 - [Chris Arias](https://github.com/ChrisArias-dev)
