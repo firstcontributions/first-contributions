@@ -431,6 +431,7 @@
 - [Susmitha](https://github.com/susmithasrimani)
 - [Paramesh Chandra](https://github.com/paramphy)
 - [Sashwat Anagolum](https://github.com/SashwatAnagolum)
+- [Luis Sánchez](https://github.com/gareffpma)
 - [thojest](https://github.com/thojest)
 - [Gediminas Makutenas](https://github.com/Senatrius)
 - [Kevin Satur](https://github.com/math-ecen)
