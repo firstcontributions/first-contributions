@@ -619,6 +619,7 @@
 - [Dexy](https://github.com/dexypy)
 - [Manuel Pissanos](https://github.com/mpissanos)
 - [Alvin Jorrel Pascual](https://github.com/alvinjorrel)
+- [Blade Boles](https://github.com/BladeBoles)
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Giacomo Tumini](https://github.com/jacktumi)
 - [Se7enSquared](https://github.com/Se7enSquared)
