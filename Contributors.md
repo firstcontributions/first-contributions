@@ -1546,6 +1546,7 @@
 - [NiteGod](https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
 - [Jacob Korf](https://github.com/jacob-korf)
+- [GL Ruggero](https://github.com/rgl76)
 - [Shaswat Swarup](https://github.com/shaswat94)
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
