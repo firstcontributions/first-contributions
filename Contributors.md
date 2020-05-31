@@ -1523,6 +1523,7 @@
 - [Rory Garton-Smith](https://github.com/rorcores/)
 - [madpeh](https://github.com/madpeh)
 - [Sthen Campana](https://github.com/SupremeWhale)
+- [Garrett Chun](https://github.com/kapakahi)
 - [Anshu Aradhyula](https://github.com/yellowyetti)
 - [Jeff Bentley](https://github.com/jbentleyjp)
 - [Ambati Vasanth](https://github.com/Vasanth289)
