@@ -21,6 +21,7 @@
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
 - [Hui Yi Liang](https://github.com/huiyi-liang)
+- [Cryptic Bit](https://github.com/crypticbit)
 - [Ajay Chamba](https://github.com/ajaychamba)
 - [Daniel Segal] (https://github.com/DanielSegal1)
 - [Rakesh Pareek](https://github.com/rkpareek)
