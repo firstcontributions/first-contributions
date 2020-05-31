@@ -35,6 +35,7 @@
 - [trysh](https://github.com/trysh)
 - [Aryaman Parekh](https://github.com/aparekh5)
 - [Tristan Deane] (https://github.com/IM-Deane)
+- [Mohcine Sakhi] (https://github.com/mohcine-sakhi)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Yurika Namba](https://github.com/yurikanamba)
 - [Chris Arias](https://github.com/ChrisArias-dev)
