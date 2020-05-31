@@ -17,6 +17,7 @@
 - [Julia Kyung](https://github.com/juliakyung)
 - [Gary Shi] (https://github.com/Gary1q2)
 - [Manjushree Pradhan] (https://github.com/first-contributions_WS)
+- [Duo Chen](https://github.com/duochen13)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Ougni Chakraborty](https://github.com/ougni)
