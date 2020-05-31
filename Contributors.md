@@ -1583,9 +1583,6 @@
 - [Carlos Salazar](https://github.com/carlosIUSalazar)
 - [Kohki Shiga](https://github.com/Saggitarie)
 - [Manjil Tamang](https://github.com/manjillama)
-
-
-=======
 - [Yuhuan Fan](https://github.com/Yuhuan0207)
 - [Shubham Arya](https://github.com/mrjoker05)
 - [Purvesh Shende](https://github.com/purveshshende2)
@@ -1594,4 +1591,3 @@
 -Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
 - [Jansen Yan](https://github.com/jyan500)
-
