@@ -81,6 +81,7 @@
 - [Farooq Chawla](https://github.com/farooqhassanchawla)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Ssali Jonathan](https://github.com/jod35)
+- [Banobe Pascal](https://github.com/banobepascal)
 - [David Rozmajzl](https://github.com/dmr121)
 - [Binu David](https://github.com/BinuDavid)
 - [Alec Barnard](https://github.com/alecbar)
