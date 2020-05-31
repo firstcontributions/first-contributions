@@ -369,6 +369,7 @@
 - [John E.](https://github.com/JohnEver2017)
 - [Aris Panagiotopoulos](https://github.com/aristeidys)
 - [pyku](https://github.com/pyku/)
+- [asubedy](https://github.com/asubedy)
 - [Bhavya](https://github.com/raobhavya92)
 - [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
