@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
@@ -1593,6 +1593,7 @@
 - [Purvesh Shende](https://github.com/purveshshende2)
 - [Damilola Oduronbi](https://github.com/oracleot)
 - [Jason Liu](https://github.com/jkfliu)
+- [Vivek Gupta] (https://github.com/vivekguptaraw)
 -Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
 - [Jansen Yan](https://github.com/jyan500)
