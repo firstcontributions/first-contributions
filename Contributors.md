@@ -1549,6 +1549,7 @@
 - [Benjamin Sarkis](https://github.com/sarkisben)
 - [Kristin Hodge](https://github.com/kristinnhodge)
 - [Scramocell](https://github.com/Scramocell)
+- [April Ainsworth](https://github.com/aprilcodes)
 - [NiteGod](https://github.com/NiteGod)
 - [Berke Kalkan](https://github.com/BerkeKalkan)
 - [Jacob Korf](https://github.com/jacob-korf)
