@@ -32,6 +32,7 @@
 - [Ajay Chamba](https://github.com/ajaychamba)
 - [Ross Decker](https://github.com/bulldog72)
 - [Daniel Segal] (https://github.com/DanielSegal1)
+- [Manjunath Bhat](https://github.com/rbhatmanjunath)
 - [Rakesh Pareek](https://github.com/rkpareek)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
