@@ -1609,5 +1609,6 @@
 - [Vivek Gupta] (https://github.com/vivekguptaraw)
 -Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
+- [Pete James](https://github.com/PeteJames21)
 - [Jansen Yan](https://github.com/jyan500)
 - [Hadi Sandid](https://github.com/hsandid)
