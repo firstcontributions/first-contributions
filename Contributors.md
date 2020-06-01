@@ -1589,6 +1589,7 @@
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
+- [Samuel Scott] (https://github.com/SamuelScotts)
 - [Mark Holcomb](https://github.com/Marknoodle)
 - [Liina Adamson](https://github.com/LiinaAd)
 - [Rushabh Sancheti](https://github.com/Rushabh2397)
