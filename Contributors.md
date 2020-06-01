@@ -535,6 +535,7 @@
 - [Jenn Park](https://github.com/j3nniis)
 - [Joshua Key](https://github.com/JoshuaKey)
 - [Coder](https://github.com/coder9604)
+- [rewisch](https://github.com/rewisch)
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
 - [Rebecca Cho](https://github.com/choeuna)
