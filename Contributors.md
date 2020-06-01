@@ -66,6 +66,7 @@
 - [Yashraj Jain](https://github.com/yashrajjain726)
 - [Riyadh Ouz](https://github.com/riyadh20)
 - [Andy Pavey](https://github.com/apavey1)
+- [Kyle Conlon] (https://github.com/KConlon13)
 - [Dhairya](https://github.com/dhairya2019)
 - [Pratik Singh](https://github.com/kitarp29)
 - [Shreyas Pandey](https://github.com/shrey-devep)
