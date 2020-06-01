@@ -215,6 +215,7 @@
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables](https://github.com/vensaherald)
 - [Debasish Chakroborti](https://github.com/joydeba)
+- [jerseywithak](https://github.com/jerseywithak)
 - [Chifundo Kasiya](https://github.com/fundo89)
 - [Sayantan Karmakar](https://github.com/sayantank)
 - [Eric Sanders](https://github.com/BigECire)
