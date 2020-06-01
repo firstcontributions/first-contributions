@@ -42,6 +42,7 @@
 - [Halee Pagel](https://github.com/haleepagel)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
+- [Dean Huynh](https://github.com/deanhuynh)
 - [Aryaman Parekh](https://github.com/aparekh5)
 - [Tristan Deane] (https://github.com/IM-Deane)
 - [Mohcine Sakhi] (https://github.com/mohcine-sakhi)
