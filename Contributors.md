@@ -1575,6 +1575,7 @@
 - [Jacob Korf](https://github.com/jacob-korf)
 - [GL Ruggero](https://github.com/rgl76)
 - [Shaswat Swarup](https://github.com/shaswat94)
+- [Daryl Galvez](https://github.com/darylkevin)
 - [Daniel Muremwa](https://github.com/muremwa)
 - [Jared Strober](https://github.com/JaredStrober)
 - [Andy Wei](https://github.com/AndrewWei-Colosseum)
