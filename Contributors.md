@@ -15,6 +15,7 @@
 - [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
 - [Julia Kyung](https://github.com/juliakyung)
+- Kramer Silva
 - [Gary Shi] (https://github.com/Gary1q2)
 - [Manjushree Pradhan] (https://github.com/first-contributions_WS)
 - [Duo Chen](https://github.com/duochen13)
