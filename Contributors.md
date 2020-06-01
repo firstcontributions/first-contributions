@@ -2,6 +2,7 @@
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Adam Alston](https://github.com/adamalston)
 - [Doyeon Lim](https://github.com/fenneccat/)
+- [Nathan Acosta](https://github.com/nathanacosta)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
