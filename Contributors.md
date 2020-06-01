@@ -885,6 +885,7 @@
 - [dlikas](https://github.com/dlikas)
 - [Drake Gens](https://github.com/drakegens)
 - [Dave Holly](https://github.com/daveholly57)
+- [Michael Uy] (https://github.com/macky-uy)
 - [Nic Vigil](https://githib.com/nicvigil)
 - [Ronit Singh](https://github.com/ronitsingh1405)
 - [Luke Kuo](https://github.com/DarkGoomba)
