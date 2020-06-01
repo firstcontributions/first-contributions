@@ -10,6 +10,7 @@
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
+- [Helber Belmiro](https://github.com/hbelmiro)
 - [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
 - [Samuel Sandoval](https://github.com/samuelsandoval1)
