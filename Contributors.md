@@ -41,6 +41,7 @@
 - [Doniyor Abduvokhidov](https://github.com/DoniDev)
 - [Muhammed Milan](https://github.com/milan090)
 - [Taha Moghrabi](https://github.com/marketerly)
+- [Robert Mcgregor](https://github.com/exitcode0)
 - [Aaron Fang](https://github.com/ajfang)
 - [Halee Pagel](https://github.com/haleepagel)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
