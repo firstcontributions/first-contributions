@@ -1517,6 +1517,7 @@
 - [Nick Hutchison](https://github.com/Hutcharmy)
 - [steadily-worked](https://github.com/steadily-worked)
 - [Akshay-Arora](https://github.com/TheKingbyKey)
+- [Elvin Gadd](https://github.com/hilldrupbf)
 - [ashwani-rathee](https://github.com/ashwani-rathee)
 - [manyang-lual](https://github.com/manyang-lual)
 - [Zoe-KL](https://github.com/zoe-kl)
