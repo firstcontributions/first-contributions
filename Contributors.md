@@ -171,6 +171,7 @@
 - [Babatunde Koiki](https://github.com/Babatunde13)
 - [Samuel Bekele](https://github.com/s4mu3lbk)
 - [Mister Tibs](https://github.com/MisterTibs)
+- [Pavel Shlepnev](https://github.com/Pavel6625)
 - [Harsh Vardhan](https://github.com/harsh-1907)
 - [Abhijith Basavaraj](https://github.com/AbhijithBasavaraj)
 - [Lakshya Khatri](https://github.com/LakshyaKhatri)
