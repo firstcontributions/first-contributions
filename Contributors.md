@@ -1268,6 +1268,7 @@
 - [EswarR](https://github.com/EswarR99)
 - [Tong Jin](https://github.com/tjin35)
 - [Sayaka Ono](https://github.com/SayakaOno)
+- [Alex Major](https://github.com/alexmajor)
 - [Avantikaa](https://github.com/Avantikaa)
 - [qiaojun](https://github.com/qiaojun2016)
 - [jinhokong](https://github.com/jinhokong)
