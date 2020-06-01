@@ -61,6 +61,7 @@
 - [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
+- [Brian McGarry](https://github.com/breenmcgoo)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Ankit Goel](https://github.com/ankitgoel25)
 - [Thiago Almeida](https://github.com/tbalmeida)
