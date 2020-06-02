@@ -9,6 +9,7 @@
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
 - [gabgodBB](https://github.com/gabgodBB)
+- [Escape0707](https://github.com/escape0707)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Sushant Kumar](https://github.com/baldraider)
