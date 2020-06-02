@@ -119,6 +119,7 @@
 - [Chanakya Patel](https://github.com/patelchanakya)
 - [karamba34](https://github.com/karamba34)
 - [Sareen Shah](https://github.com/sareen279)
+- [Jai Nagda](https://github.com/jainagda)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
 - [Rumen Kasabov](https://github.com/rkasabov)
