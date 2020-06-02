@@ -1,4 +1,5 @@
 # Contributors
+- [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Adam Alston](https://github.com/adamalston)
