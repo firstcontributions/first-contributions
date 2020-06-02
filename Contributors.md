@@ -1373,6 +1373,7 @@
 - [ZanderBE](https://github.com/ZanderBE)
 - [Ankit Kumar](https://github.com/NotAnkit)
 - [malworks](https://github.com/malworks/)
+- [Shivam Rajput](https://github.com/ChaoticBlack)
 - [Gouty](https://github.com/Gouty)
 - [AndyCE](https://github.com/AndyCE)
 - [Joshua](https://github.com/joshuabrrs)
