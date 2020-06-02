@@ -16,6 +16,7 @@
 - [gabgodBB](https://github.com/gabgodBB)
 - [Escape0707](https://github.com/escape0707)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
+- [Michael Cope](https://github.com/Mecope1/)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
