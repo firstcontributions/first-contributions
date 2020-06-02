@@ -7,6 +7,7 @@
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
+- Ismail Kassim
 - [gabgodBB](https://github.com/gabgodBB)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Kyle Fanner](https://github.com/KyleFanner)
