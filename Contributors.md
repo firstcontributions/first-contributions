@@ -198,6 +198,7 @@
 - [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
 - [Shiv Shankar](https://github.com/sivsnkr)
+- [Abhimanyu Das](https://github.com/abhimanyudas747)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Kartik Gambhir](https://github.com/whokartikgambhir)
 - [Swati Jain](https://github.com/swati345)
