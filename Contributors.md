@@ -10,6 +10,7 @@
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
 - [Daivik Purani](https://github.com/DAIIVIIK)
+- [Austin Ogola](https://github.com/augolla/)
 - [gabgodBB](https://github.com/gabgodBB)
 - [Escape0707](https://github.com/escape0707)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
