@@ -1660,3 +1660,4 @@
 - [Hailey Gu](https://github.com/HaileyGu)
 - [Alexander Garcia](https://github.com/yalex1402)
 - [Phil Liao](https://github.com/phil-ociraptor)
+- [Beatriz Rezener](https://github.com/beatrizrezener)
