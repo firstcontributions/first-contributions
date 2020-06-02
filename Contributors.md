@@ -4,7 +4,7 @@
 - [Yosef Salmalian](https://github.com/usefss)
 - [Adam Alston](https://github.com/adamalston)
 - [Doyeon Lim](https://github.com/fenneccat/)
-- [Danish Farid] (https://twitter.com/danishnxt)
+- [Danish Farid] (https://www.twitter.com/danishnxt)
 - [Nathan Acosta](https://github.com/nathanacosta)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
