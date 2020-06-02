@@ -1,7 +1,9 @@
 # Contributors
+
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Yosef Salmalian](https://github.com/usefss)
+- [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Nathan Acosta](https://github.com/nathanacosta)
