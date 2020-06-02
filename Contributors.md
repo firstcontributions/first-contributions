@@ -1619,6 +1619,7 @@
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
 - [Samuel Scott] (https://github.com/SamuelScotts)
+- [Nelyanne V] (https://github.com/nelyanne-v)
 - [Mark Holcomb](https://github.com/Marknoodle)
 - [Liina Adamson](https://github.com/LiinaAd)
 - [Rushabh Sancheti](https://github.com/Rushabh2397)
