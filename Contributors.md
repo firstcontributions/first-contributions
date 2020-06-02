@@ -374,6 +374,7 @@
 - [DJFILL](https://github.com/djfill)
 - [BenEwing33](https://github.com/BenEwing33)
 - [tangarts](https://github.com/tangarts)
+- [mihmin98](https://github.com/mihmin98)
 - [Girish Poojari](https://github.com/girishpoojari)
 - [jtisaac](https://github.com/jtisaac)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
