@@ -259,6 +259,7 @@
 - [Cadi Howley](https://github.com/cadihowley)
 - [Jonas Hucklenbroich](https://johuck.tk)
 - [Takigavin](https://github.com/takigavin)
+- [kryzbone](https://github.com/kryzbone)
 - [Chris Baird](https://github.com/chris-baird)
 - [expert-geeks](https://github.com/expert-geeks)
 - [pratyush garg](https://github.com/PratyushGarg2222)
