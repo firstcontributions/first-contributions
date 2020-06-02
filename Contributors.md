@@ -78,6 +78,7 @@
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Chanakya Patel](https://github.com/patelchanakya)
 - [Sareen Shah](https://github.com/sareen279)
+- [Jai Nagda](https://github.com/jainagda)
 - [John Ravager](https://github.com/ravager-io)
 - [Anantha Sai Satwik](https://github.com/SaiSatwik2226)
 - [Rumen Kasabov](https://github.com/rkasabov)
