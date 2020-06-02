@@ -8,6 +8,7 @@
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
+- [Daivik Purani](https://github.com/DAIIVIIK)
 - [gabgodBB](https://github.com/gabgodBB)
 - [Escape0707](https://github.com/escape0707)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
