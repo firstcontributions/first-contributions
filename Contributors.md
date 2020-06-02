@@ -41,6 +41,7 @@
 - [Ajay Chamba](https://github.com/ajaychamba)
 - [Ross Decker](https://github.com/bulldog72)
 - [Daniel Segal] (https://github.com/DanielSegal1)
+- [Ron Morgenstern] (https://github.com/ronmorgen)
 - [Manjunath Bhat](https://github.com/rbhatmanjunath)
 - [Rakesh Pareek](https://github.com/rkpareek)
 - [Rahul Parmar](https://github.com/ramrap)
