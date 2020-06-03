@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
@@ -208,6 +208,7 @@
 - [Gabija Svedkauskaite](https://github.com/GabijaSvedkauskaite)
 - [Rivka Klein](https://github.com/RivkieKlein)
 - [Rucha Bhatt Joshi](https://github.com/RuchaBhattJoshi)
+- [Eloiza Tabing](https://github.com/elogs)
 - [Shiv Shankar](https://github.com/sivsnkr)
 - [Abhimanyu Das](https://github.com/abhimanyudas747)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
