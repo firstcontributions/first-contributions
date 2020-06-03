@@ -13,6 +13,7 @@
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
+- [Dan Fleming](https://github.com/DanFleming)
 - [Daivik Purani](https://github.com/DAIIVIIK)
 - [Austin Ogola](https://github.com/augolla/)
 - [gabgodBB](https://github.com/gabgodBB)
