@@ -30,6 +30,7 @@
 - [Duo Chen](https://github.com/duochen13)
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
+- [viswitha](https://github.com/viswitha)
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Thomas Harbin](https://github.com/thomasharbin)
