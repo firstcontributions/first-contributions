@@ -46,6 +46,7 @@
 - [viswitha](https://github.com/viswitha)
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Ougni Chakraborty](https://github.com/ougni)
+- [Nathan Ormond](https://github.com/NathOrmond)
 - [Thomas Harbin](https://github.com/thomasharbin)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
