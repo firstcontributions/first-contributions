@@ -86,19 +86,13 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
-Open a terminal and run the following git command:
-
-```
-git clone "url you just copied"
-```
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
-For example:
+Open a terminal and run `git clone` with the url you just copied, which will look something like this:
 ```
 git clone https://github.com/this-is-you/first-contributions.git
 ```
+
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
