@@ -1658,3 +1658,4 @@
 - [Hailey Gu](https://github.com/HaileyGu)
 - [Alexander Garcia](https://github.com/yalex1402)
 - [Phil Liao](https://github.com/phil-ociraptor)
+- [Sinane Si Mohammed](https://github.com/ssi-moha)
