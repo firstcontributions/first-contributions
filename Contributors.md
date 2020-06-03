@@ -652,6 +652,7 @@
 - [Jacob Vanmeter](https://github.com/unroasted)
 - [Joshua Cook](https://github.com/jdcook3)
 - [Rafael Rubia](https://github.com/rafaelrubia)
+- [Max Rumford](https://github.com/Blitzableiter)
 - [Vishal Gole](https://github.com/golevishal)
 - [Daniel](https://github.com/jfdaniel77)
 - [Hassan Tasleem](https://github.com/hass321)
