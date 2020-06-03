@@ -1663,3 +1663,4 @@
 - [Phil Liao](https://github.com/phil-ociraptor)
 - [Beatriz Rezener](https://github.com/beatrizrezener)
 - [Van S.](https://github.com/Hi-Van)
+- [Kenneth Lee](https://github.com/Leeoku)
