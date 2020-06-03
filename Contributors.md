@@ -1609,6 +1609,7 @@
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
 - [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
+- [beckibloom](https://github.com/beckibloom)
 - [Manasvi](https://github.com/mmbhatk)
 - [FreezeSnail](https://github.com/FreezeSnail)
 - [Audrey Yang](https://github.com/audrey-yang)
