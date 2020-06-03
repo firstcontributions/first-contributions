@@ -1579,6 +1579,7 @@
 - [Sthen Campana](https://github.com/SupremeWhale)
 - [Garrett Chun](https://github.com/kapakahi)
 - [Anshu Aradhyula](https://github.com/yellowyetti)
+- [Mark Hall](https://github.com/helmguy)
 - [Jeff Bentley](https://github.com/jbentleyjp)
 - [Ambati Vasanth](https://github.com/Vasanth289)
 - [Ayush Kumar](https://github.com/ayushkr3301)
