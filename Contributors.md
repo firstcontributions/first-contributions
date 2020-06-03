@@ -19,6 +19,7 @@
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Michael Cope](https://github.com/Mecope1/)
 - [Kyle Fanner](https://github.com/KyleFanner)
+- [Nick MacDonald](https://github.com/macdo226)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Helber Belmiro](https://github.com/hbelmiro)
