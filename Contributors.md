@@ -1,5 +1,6 @@
 # Contributors
 - [Alexandr Mertl](https://github.com/sasutpasut)
+- [Ashik Paul](https://github.com/Ashikpaul)
 - [Niranjan](https://github.com/niranjantuty)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
