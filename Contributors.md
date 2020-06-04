@@ -39,6 +39,7 @@
 - [Julia Kyung](https://github.com/juliakyung)
 - Kramer Silva
 - [Jacob Rodgers](https://github.com/rodgersj097)
+- [Anirudh Sharma] (https://github.com/Minecraftian14)
 - [Gary Shi] (https://github.com/Gary1q2)
 - [Manjushree Pradhan] (https://github.com/first-contributions_WS)
 - [Jaspreet Singh](https://github.com/Jsar3004)
