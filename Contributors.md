@@ -1661,6 +1661,7 @@
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Eric Sprecher](https://github.com/eric-sprecher/)
 - [Channing Morillo](https://github.com/ChanningDev)
+- [Gauri Bindu] (https://github.com/gaurisbindu)
 - [Silvio Sznifer](https://github.com/silviosznifer/)
 - [Carlos Salazar](https://github.com/carlosIUSalazar)
 - [Kohki Shiga](https://github.com/Saggitarie)
