@@ -133,6 +133,7 @@
 - [Corrie Graham](https://github.com/CorrieGra)
 - [Anurag Gupta](https://github.com/anuraggupta29)
 - [Ram Ghimire](https://github.com/ramghimirecr7)
+- [vetlelg](https://github.com/vetlelg)
 - [Dries Cruyskens](https://github.com/DriesCruyskens)
 - [Dale Richards](https://github.com/sporksnail)
 - [Bharath SM](https://github.com/bharathsm)
