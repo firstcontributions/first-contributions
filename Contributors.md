@@ -589,6 +589,7 @@
 - [Riku Kawano](https://github.com/rikukawano)
 - [IcerOut](https://github.com/IcerOut)
 - [Alireza fassih](https://github.com/alireza-fassih)
+- [Varad Khandelwal](https://github.com/varadkhandelwal)
 - [Orestis Tanis](https://github.com/OrestisTanis)
 - [Eric Ingland](https://github.com/eingland)
 - [Jim Ritchie](https://github.com/beldin0)
