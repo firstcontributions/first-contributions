@@ -430,7 +430,9 @@
 - [Bhavya](https://github.com/raobhavya92)
 - [Karthik](https://github.com/knagab2/)
 - [Alberto Valdiviez](https://github.com/albertogfv)
-- [Sandeep Nanjundaswamy](https://github.com/sandeepn623)
+- [Sandeep Nanjundaswamy](https://github.com/
+- [Srishti Gupta](https://github.com/Srishti-1302)
+sandeepn623)
 - [Kuncoro Yoko](https://github.com/Zemhart)
 - [Shivam Rathore](https://github.com/rathore05)
 - [Amanda B](https://github.com/critterconvention)
