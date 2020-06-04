@@ -1652,6 +1652,7 @@
 - [Mark Holcomb](https://github.com/Marknoodle)
 - [Liina Adamson](https://github.com/LiinaAd)
 - [Rushabh Sancheti](https://github.com/Rushabh2397)
+- [Pierre Monier](https://github.com/Pierre-Monier)
 - [Sudipto Ghosh](https://github.com/sudiptog81)
 - [Cyril the Real]knoodl(https://github.com/Cyril-the-Real)
 - [Eric Sprecher](https://github.com/eric-sprecher/)
