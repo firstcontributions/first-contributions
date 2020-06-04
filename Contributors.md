@@ -29,6 +29,7 @@
 - [Nick MacDonald](https://github.com/macdo226)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
+- [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - [Ioane Margiani](https://github.com/iko1133)
 - [Neagu](https://github.com/brijing)
