@@ -63,6 +63,7 @@
 - [Daniel Segal](https://github.com/DanielSegal1)
 - [Ujjwal472](https://github.com/Ujjwal472)
 - [Rakesh Pareek](https://github.com/rkpareek)
+  [Isha Jain](https://github.com/ishajain15)
 - [Rahul Parmar](https://github.com/ramrap)
 - [Giovanni Caldarola](https://github.com/mind000)
 - [Kavya_Agarwal](https://github.com/KavyaAgarwal2001)
