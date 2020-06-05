@@ -38,6 +38,7 @@
 - [Michael Cope](https://github.com/Mecope1/)
 - [Chathura Nimesh](https://github.com/kana800)
 - [Kyle Fanner](https://github.com/KyleFanner)
+- [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
 - [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
