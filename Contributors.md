@@ -8,6 +8,7 @@
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
 - [Olaosebikan Tosin](https://github.com/tosebikan)
+- [Samuel Gits](https://github.com/samgits)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Yosef Salmalian](https://github.com/usefss)
