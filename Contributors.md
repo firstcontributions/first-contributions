@@ -52,6 +52,7 @@
 - [Peter Kang](https://github.com/pswk1)
 - [Julia Kyung](https://github.com/juliakyung)
 - Kramer Silva
+- [Jitesh Kamnani](https://github.com/jvkamnani)
 - [Jacob Rodgers](https://github.com/rodgersj097)
 - [Anirudh Sharma](https://github.com/Minecraftian14)
 - [Gary Shi](https://github.com/Gary1q2)
