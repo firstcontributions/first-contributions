@@ -3,6 +3,7 @@
 - [Lisovenko Vladislav] (https://github.com/VladCoder)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
+- [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Niranjan](https://github.com/niranjantuty)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
