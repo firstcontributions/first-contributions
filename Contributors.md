@@ -253,6 +253,7 @@
 - [Tania Malhotra](https://github.com/taniaMalhotra)
 - kyle
 - mirlayne
+- Vivek Vinod
 - daksh doshi
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
