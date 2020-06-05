@@ -1703,4 +1703,5 @@
 - [richie](https://github.com/cowsed)
 - [meih](https://github.com/meih124)
 - [Vitaly Volk](https://github.com/podcasts-prevail)
+- [Nugie_Miko] (https://github.com/nugiemiko)
 - [Gain John](https://github.com/dhaxor)
