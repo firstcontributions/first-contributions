@@ -56,5 +56,6 @@
 | 🇿🇦 | [Afrikaans (South Africa)](README.afk.md) |
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
 | 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
+| 🇬🇪 | [ქართული](README.ge.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
 | 🇫🇮 | [Suomeksi](README.fi.md) |
