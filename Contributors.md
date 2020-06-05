@@ -1,5 +1,4 @@
 ﻿# Contributors
-- [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Lisovenko Vladislav] (https://github.com/VladCoder)
 - [Ashik Paul](https://github.com/Ashikpaul)
