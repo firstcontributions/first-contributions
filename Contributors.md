@@ -57,6 +57,7 @@
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
 - [Thomas Harbin](https://github.com/thomasharbin)
+- [Runyu] (https://github.com/runyud)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
 - [Hui Yi Liang](https://github.com/huiyi-liang)
