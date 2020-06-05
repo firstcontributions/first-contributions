@@ -1,5 +1,6 @@
 # Contributors
 - [Alexandr Mertl](https://github.com/sasutpasut)
+- [Lisovenko Vladislav] (https://github.com/VladCoder)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Niranjan](https://github.com/niranjantuty)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
@@ -28,7 +29,7 @@
 - [Escape0707](https://github.com/escape0707)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
 - [Michael Cope](https://github.com/Mecope1/)
-- [Chathura Nimesh](https://github.com/kana800) 
+- [Chathura Nimesh](https://github.com/kana800)
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Nick MacDonald](https://github.com/macdo226)
 - [Sushant Kumar](https://github.com/baldraider)
