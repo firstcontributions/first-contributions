@@ -24,6 +24,7 @@
 - [Josh Valdivia 🦦](https://github.com/jlsaldana)
 - [Donald Shanty Jr.](https://github.com/clefbassman)
 - [Peter Kang](https://github.com/pswk1)
+- [Rene Baron](https://github.com/realb12)
 - [Julia Kyung](https://github.com/juliakyung)
 - Kramer Silva
 - [Gary Shi] (https://github.com/Gary1q2)
