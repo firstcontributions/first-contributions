@@ -14,6 +14,7 @@
 - [Adam Alston](https://github.com/adamalston)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Danish Farid](https://www.twitter.com/danishnxt)
+- Aditya Shrivastav
 - [Alka Trivedi](https://github.com/Alka-git12)
 - [Subtle Hyperbole](https://github.com/SubtleHyperbole)
 - [Nathan Acosta](https://github.com/nathanacosta)
