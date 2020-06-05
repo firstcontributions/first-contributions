@@ -27,6 +27,7 @@
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
+- [Ranajay Medya](https://github.com/ranajay99)
 - [Julian Pacheco](https://github.com/julianpacheco/)
 - [Sam Kim](https://github.com/lekoreanbaguette)
 - [Dan Fleming](https://github.com/DanFleming)
