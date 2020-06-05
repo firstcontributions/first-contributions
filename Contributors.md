@@ -1,5 +1,4 @@
-﻿# Contributors
-
+# Contributors
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Lisovenko Vladislav](https://github.com/VladCoder)
@@ -17,6 +16,7 @@
 - [Yosef Salmalian](https://github.com/usefss)
 - [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
+- [Kehinde Abe](https://github.com/kennyOlakunle)
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
@@ -1711,7 +1711,9 @@
 - [Maximalyono](https://github.com/maximalyono)
 - [richie](https://github.com/cowsed)
 - [meih](https://github.com/meih124)
+- [Dwij Rastogi](https://github.com/fr05t99)
 - [Vitaly Volk](https://github.com/podcasts-prevail)
 - [Nugie_Miko](https://github.com/nugiemiko)
 - [Gain John](https://github.com/dhaxor)
 - [Sanjeev Choudhary](https://github.com/snjv9)
+- [Ronard Luna](https://github.com/rlgerman25)
