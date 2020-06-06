@@ -813,6 +813,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Purvi Patel](https://github.com/ppatel6)
 - [cleverinx](https://github.com/cleverinx)
 - [Carlos Herrera](https://github.com/carlosherrera1113)
+- [Nicholas Lin](https://github.com/Nicholas-Lin)
 - [ritikaaa17](https://github.com/ritikaaa17)
 - [kjain22](https://github.com/kapil-jain123)
 - [Samuel Fuller](https://github.com/samuelfuller01)
