@@ -9,6 +9,7 @@
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Praveen Gupta](https://github.com/Praveengupta1)
 - [Niranjan](https://github.com/niranjantuty)
+- [Garrett Kent](https://github.com/GarrettKent)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
 - [Olaosebikan Tosin](https://github.com/tosebikan)
