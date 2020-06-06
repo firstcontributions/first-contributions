@@ -268,6 +268,7 @@
 - mirlayne
 - Vivek Vinod
 - daksh doshi
+- [Fatima Bint] (https://github.com/Fatima-Bint)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
