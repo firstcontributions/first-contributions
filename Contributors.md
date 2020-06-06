@@ -1721,3 +1721,4 @@
 - [Gain John](https://github.com/dhaxor)
 - [Sanjeev Choudhary](https://github.com/snjv9)
 - [Ronard Luna](https://github.com/rlgerman25)
+- [Pavel Malinov](https://github.com/pmmalinov01)
