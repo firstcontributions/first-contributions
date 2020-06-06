@@ -34,6 +34,7 @@
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
 - Ismail Kassim
+- Yusuf Reed
 - [Ranajay Medya](https://github.com/ranajay99)
 - [Prateek Jain](https://github.com/prateeja)
 - [Julian Pacheco](https://github.com/julianpacheco/)
@@ -51,7 +52,7 @@
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
-- [Sushant Kumar](https://github.com/baldraider)
+https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
