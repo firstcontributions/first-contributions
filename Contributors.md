@@ -70,6 +70,7 @@
 - [Nathan Taylor](https://github.com/pecan.pine)
 - [Hakeem Gayle](https://github.com/hakeem123)
 - [Neil Sharma](https://github.com/neil-sharma-123)
+- [Newman Thurairatnam](https://github.com/NewmanJ1987)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Ajith Arakkal](https://github.com/Ajith1202)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
