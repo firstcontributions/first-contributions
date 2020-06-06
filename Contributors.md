@@ -24,6 +24,7 @@
 - [Alka Trivedi](https://github.com/Alka-git12)
 - [Subtle Hyperbole](https://github.com/SubtleHyperbole)
 - [Phuc Cai](https://github.com/hoangphuc05)
+- [Tran Ly Vu](https://github.com/tranlyvu)
 - [Nathan Acosta](https://github.com/nathanacosta)
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
