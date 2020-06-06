@@ -19,6 +19,7 @@
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Yosef Salmalian](https://github.com/usefss)
+- [Sam Thoyre](https://github.com/thorski1)
 - [Daooda BA 🐱‍👤](https://github.com/daoodaba975)
 - [Adam Alston](https://github.com/adamalston)
 - [Kehinde Abe](https://github.com/kennyOlakunle)
