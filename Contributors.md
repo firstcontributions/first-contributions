@@ -139,6 +139,7 @@
 - [Neil Sharma](https://github.com/neil-sharma-123)
 - [Livia Hedin](https://github.com/LivHed)
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
+- [dpluong](https://github.com/dpluong)
 - [Ajith Arakkal](https://github.com/Ajith1202)
 - [Shantosh Kumar](https://github.com/shantoshkumar)
 - [Brandon Banh](https://github.com/Tigerstripes2013)
