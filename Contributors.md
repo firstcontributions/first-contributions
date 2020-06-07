@@ -665,6 +665,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Monish Khambhati](https://github.com/moni2096)
 - [Justin Do](https://github.com/justinkhado)
 - [DCSnial](https://github.com/wangyanchang21)
+- [Erin Cho](https://github.com/erin-cho)
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
 - [Biplab Mazumder](https://github.com/biplab-ca)
