@@ -7,6 +7,7 @@
 - [Yingfan Chen](https://github.com/yingfc)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
+- [Adela Darmansyah](https://github.com/ayohana)
 - [Lisovenko Vladislav](https://github.com/VladCoder)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
