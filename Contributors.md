@@ -801,6 +801,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Aviral Bajpai](https://github.com/aviral19)
 - [Shawn Smith](https://github.com/shawnsmith88)
 - [Pretam Ray](https://github.com/raypretam)
+- [Dedy Puji](https://github.com/ddypjj)
 - [Goutham Menon](https://github.com/gouthammenon3)
 - [Aman Sharma](https://github.com/amanshharma)
 - [Phani Harish](https://github.com/phaniharish)
