@@ -1738,6 +1738,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Sinane Si Mohammed](https://github.com/ssi-moha)
 - [Beatriz Rezener](https://github.com/beatrizrezener)
 - [Van S.](https://github.com/Hi-Van)
+- [NextAdda](https://github.com/nextadda)
 - [Kenneth Lee](https://github.com/Leeoku)
 - [Maximalyono](https://github.com/maximalyono)
 - [richie](https://github.com/cowsed)
