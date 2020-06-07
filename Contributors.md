@@ -1659,6 +1659,7 @@
 - [Subash Sreeram](https://github.com/sreesub)
 - [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
+- [Yuhe Tang] (https://github.com/dondon1993)
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
