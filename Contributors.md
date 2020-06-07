@@ -368,6 +368,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Spencer Call](https://github.com/scall12)
 - [qjx](https://github.com/404notfoundqjx)
 - [Hadeel bader](https://github.com/hadeelbader)
+- [TheCoolCrab](https://github.com/thecoolcrab)
 - [Øyvind Hatland](https://github.com/hatland87)
 - [James Au](https://github.com/jamesaucode)
 - [Drew Ferrell](https://github.com/drew-ferrell)
