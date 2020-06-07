@@ -128,6 +128,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Ankit Goel](https://github.com/ankitgoel25)
 - [Thiago Almeida](https://github.com/tbalmeida)
+- [Sachu Verma](https://github.com/sachinverma53121)
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
 - [Ekansh Bhatnagar](https://github.com/EkanshBhatnagar)
