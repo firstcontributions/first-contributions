@@ -60,6 +60,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
 - [Hu Yang](https://github.com/huyang117)
+- [Naga Harshita](https://github.com/NagaHarshita)
 - [Ioane Margiani](https://github.com/iko1133)
 - [Neagu](https://github.com/brijing)
 - [Audrey Bergeron](https://github.com/abergeron1905)
