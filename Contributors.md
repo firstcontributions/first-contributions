@@ -4,6 +4,7 @@
 - [David Damer](https://github.com/David-Damer)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Yingfan Chen](https://github.com/yingfc)
+- [Isaa Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
 - [Lisovenko Vladislav](https://github.com/VladCoder)
 - [Ashik Paul](https://github.com/Ashikpaul)
