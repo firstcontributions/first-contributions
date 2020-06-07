@@ -9,6 +9,7 @@
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
+- [Simon Brumfield Jr](https://github.com/brumfields)
 - [Praveen Gupta](https://github.com/Praveengupta1)
 - [Niranjan](https://github.com/niranjantuty)
 - [Garrett Kent](https://github.com/GarrettKent)
