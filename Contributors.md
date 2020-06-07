@@ -1750,3 +1750,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ronard Luna](https://github.com/rlgerman25)
 - [Michael Hall](https://github.com/mah51)
 - [Tomiwa Salau 🤩🤩🤩](https://github.com/AyonzOnTop)
+- [Pavel Malinov](https://github.com/pmmalinov01)
