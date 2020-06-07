@@ -1734,6 +1734,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Danil Hendra](https://github.com/danilhendras)
 - [joshi-b](https://github.com/joshi-b)
 - [Hailey Gu](https://github.com/HaileyGu)
+- Loki
 - [Alexander Garcia](https://github.com/yalex1402)
 - [Phil Liao](https://github.com/phil-ociraptor)
 - [Sinane Si Mohammed](https://github.com/ssi-moha)
