@@ -898,6 +898,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Stephane Le Port](https://github.com/stleport)
 - [Mikołaj Koszczyc](https://github.com/mikoszczyc)
 - [Jed Mijares](https://github.com/jedmijares)
+- [kesarsauce](https://github.com/kesarsauce)
 - [Zen Chong Lit Wei](https://github.com/lordzizzy)
 - [Ashok Kumar](https://github.com/ashokkumar)
 - [Onn Tai Yong](https://github.com/yongot)
