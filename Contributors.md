@@ -1694,6 +1694,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Phuong Tran](https://github.com/phuonggg)
 - [Elvis Iraguha](https://github.com/elvisiraguha)
 - [Shuntaro Maekawa](https://github.com/maegatro)
+- [Ganesh Mani](https://github.com/ganeshatgithub)
 - [Tamiya Onodera](https://github.com/tamiya-onodera)
 - [ChiSpade](https://github.com/chispade)
 - [Abdelkader Ait Assou](https://github.com/toscanoGithub/)
