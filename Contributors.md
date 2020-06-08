@@ -1,9 +1,10 @@
 ﻿# Contributors
+- Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
-- [David Damer](https://github.com/David-Damer)
+- [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
