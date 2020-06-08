@@ -47,6 +47,7 @@
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
+- se7enmoons
 - Ismail Kassim
 - Yusuf Reed
 - [Ranajay Medya](https://github.com/ranajay99)
