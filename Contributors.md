@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Rahul Rajan
+- [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
 - [David Damer](https://github.com/David-Damer)
