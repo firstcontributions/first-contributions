@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - Rahul Rajan
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
@@ -62,7 +63,7 @@
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
-https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
+  https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
@@ -96,6 +97,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
 - [Thomas Harbin](https://github.com/thomasharbin)
+- [Nicky Choi](https://github.com/njch5)
 - [Runyu](https://github.com/runyud)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Raghav Shukla](https://github.com/Raghav-byte)
@@ -288,7 +290,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - mirlayne
 - Vivek Vinod
 - daksh doshi
-- [Fatima Bint] (https://github.com/Fatima-Bint)
+- [Fatima Bint](https://github.com/Fatima-Bint)
 - [Tanushree Unakal](https://github.com/tanu-unakal)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
@@ -870,7 +872,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Jason Klebes](https://github.com/jklebes)
 - [Rishi Khanna](https://github.com/khannar62)
-- [DD155] (https://github.com/DD155)
+- [DD155](https://github.com/DD155)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance](https://github.com/zer0tolerance)
@@ -1719,7 +1721,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Subash Sreeram](https://github.com/sreesub)
 - [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
-- [Yuhe Tang] (https://github.com/dondon1993)
+- [Yuhe Tang](https://github.com/dondon1993)
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
@@ -1776,7 +1778,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Tomiwa Salau 🤩🤩🤩](https://github.com/AyonzOnTop)
 - [Pavel Malinov](https://github.com/pmmalinov01)
 - [pankaj kumar](https://github.com/pankaj2961)
-- [Jessie Matias] (https://github.com/jessiematias)
+- [Jessie Matias](https://github.com/jessiematias)
 - [Kola Campbell](https://github.com/kcola)
 - [Travis Byr](https://github.com/travisbyr)
-- [Satyen Verma] (https://github.com/satyenverma)
+- [Satyen Verma](https://github.com/satyenverma)
