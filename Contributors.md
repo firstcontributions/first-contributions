@@ -17,6 +17,7 @@
 - [Simon Brumfield Jr](https://github.com/brumfields)
 - [Praveen Gupta](https://github.com/Praveengupta1)
 - [Niranjan](https://github.com/niranjantuty)
+- [Kelvin](https://github.com/kelvinabella)
 - [Garrett Kent](https://github.com/GarrettKent)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
