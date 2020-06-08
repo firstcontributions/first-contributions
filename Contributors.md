@@ -3,6 +3,7 @@
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
 - [David Damer](https://github.com/David-Damer)
+- [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Yingfan Chen](https://github.com/yingfc)
 - [Isaac Jacob](https://github.com/Candyman770)
