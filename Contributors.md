@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Rahul Rajan
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
@@ -33,6 +33,7 @@
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
 - Costea Ionut-Andrei
+- Reem
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Alka Trivedi](https://github.com/Alka-git12)
 - [Subtle Hyperbole](https://github.com/SubtleHyperbole)
