@@ -5,6 +5,7 @@
 - [David Damer](https://github.com/David-Damer)
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
+- [Bruno Rito] (https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
