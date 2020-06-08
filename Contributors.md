@@ -1074,6 +1074,7 @@
 - [Takeen Evens](https://github.com/TakiiCoder)
 - [Ian Stubbs](https://github.com/Stubbs-Ian)
 - [Minhaz Alam](https://github.com/M1NH42)
+- [Firdaus Ashiddiqi Noor](https://github.com/fowaah55)
 - [Desmond Qiu](https://github.com/dqiuwq)
 - [Udit Pant](https://github.com/uditp26)
 - [Moonil Son](https://github.com/und32g2ound-kr)
