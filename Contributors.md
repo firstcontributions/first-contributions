@@ -918,6 +918,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Gaurav](https://github.com/Gaurav2511)
 - [Brendan Gilet](https://github.com/Vehemence26)
 - [Diego Marcillo](https://github.com/diegomarcillop)
+- [kesarsauce](https://github.com/kesarsauce)
 - [Maosheng Tang](https://github.com/mshtang)
 - [Ishaan Radia](https://github.com/iiradia)
 - [Karen White](https://github.com/karen-white)
