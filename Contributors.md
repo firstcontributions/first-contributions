@@ -4,6 +4,7 @@
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - Roy Ancri
 - [David Damer](https://github.com/David-Damer)
+- Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Bruno Rito] (https://github.com/ritobruno)
