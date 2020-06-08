@@ -1776,3 +1776,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jessie Matias] (https://github.com/jessiematias)
 - [Kola Campbell](https://github.com/kcola)
 - [Travis Byr](https://github.com/travisbyr)
+- [Satyen Verma] (https://github.com/satyenverma)
