@@ -1572,6 +1572,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Vishwanath Joshi](https://github.com/vishnitin)
 - [Vishnu Sharma](https://github.com/vish198910)
 - [WxBDM](https://github.com/WxBDM)
+- [Inoarby](https://github.com/Inoarby)
 - [Faraz Khan](https://github.com/Frk4)
 - [Adam Goldstone](https://github.com/amg93)
 - [Melissa Womack](https://github.com/Melissajwomack)
