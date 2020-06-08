@@ -116,6 +116,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Robert Mcgregor](https://github.com/exitcode0)
 - [Aaron Fang](https://github.com/ajfang)
 - [Halee Pagel](https://github.com/haleepagel)
+- [Raul Galindo](https://github.com/raulesgalindo)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Dean Huynh](https://github.com/deanhuynh)
