@@ -1245,6 +1245,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [jc](https://github.com/jc-appier)
 - [cwcraw](https://github.com/cwcraw)
 - [Joao](https://github.com/Joaopedrobass)
+- [Jamiel Capatayan](https://github.com/JamielCapatayan)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
 - [Janko Bosnjakovic](https://github.com/jb-99)
