@@ -23,6 +23,7 @@
 - [Praveen Gupta](https://github.com/Praveengupta1)
 - New User
 - [Niranjan](https://github.com/niranjantuty)
+- [Mir Ameen](https://github.com/mirameen)
 - [Kelvin](https://github.com/kelvinabella)
 - [Garrett Kent](https://github.com/GarrettKent)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
