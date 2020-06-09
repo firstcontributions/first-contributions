@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
@@ -1278,6 +1278,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Trent Bosak](https://github.com/bosaktrent)
 - [Iftakhar Alam Rizve](https://github.com/Iftakharalamrizve)
 - [Nanthakarn limkool](https://github.com/ZEZAY)
+- [Vaishnavi]
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
 - [Ron Mallory](https://github.com/RonMallory)
