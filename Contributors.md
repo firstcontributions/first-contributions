@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
+- [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
