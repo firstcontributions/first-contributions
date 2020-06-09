@@ -1,5 +1,6 @@
 # Contributors
 - [Thomas Harbin](https://github.com/thomasharbin)
+- [Andrew Reeves](https://github.com/areeves9)
 - [Soumalya Kundu <3](https://github.com/Soumalya1857)
 - [trysh](https://github.com/trysh)
 - [Sanket Vyawahare](https://github.com/imsanketvyawahare)
