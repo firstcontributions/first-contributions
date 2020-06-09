@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
@@ -7,6 +7,7 @@
 - Roy Ancri
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
+- [Christopher Smit - Minc Development]
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - [Bruno Rito] (https://github.com/ritobruno)
