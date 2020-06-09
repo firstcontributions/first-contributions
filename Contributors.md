@@ -1,4 +1,5 @@
 ﻿# Contributors
+
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
@@ -10,7 +11,7 @@
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
-- [Bruno Rito] (https://github.com/ritobruno)
+- [Bruno Rito](https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Isaac Jacob](https://github.com/Candyman770)
@@ -24,7 +25,7 @@
 - [Simon Brumfield Jr](https://github.com/brumfields)
 - [Harshavardhan Yadala](https://github.com/yharsha)
 - [Praveen Gupta](https://github.com/Praveengupta1)
-- New User
+- [Khadija Mobsit](https://github.com/mobsit)
 - [Niranjan](https://github.com/niranjantuty)
 - [Kelvin](https://github.com/kelvinabella)
 - [Garrett Kent](https://github.com/GarrettKent)
@@ -78,7 +79,7 @@
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
-https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
+  https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
@@ -96,7 +97,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Julia Kyung](https://github.com/juliakyung)
 - Kramer Silva
 - [Jitesh Kamnani](https://github.com/jvkamnani)
-- [Zulfiqar Ahmed] (https://github.com/zulfiqarjunejo)
+- [Zulfiqar Ahmed](https://github.com/zulfiqarjunejo)
 - [Jacob Rodgers](https://github.com/rodgersj097)
 - [Anirudh Sharma](https://github.com/Minecraftian14)
 - [Gary Shi](https://github.com/Gary1q2)
@@ -308,7 +309,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - mirlayne
 - Vivek Vinod
 - daksh doshi
-- [Fatima Bint] (https://github.com/Fatima-Bint)
+- [Fatima Bint](https://github.com/Fatima-Bint)
 - [Tanushree Unakal](https://github.com/tanu-unakal)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
 - [Khizar Alam](https://github.com/kheealam/)
@@ -890,7 +891,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Joel Lashrbook](https://github.com/jkl92)
 - [Jason Klebes](https://github.com/jklebes)
 - [Rishi Khanna](https://github.com/khannar62)
-- [DD155] (https://github.com/DD155)
+- [DD155](https://github.com/DD155)
 - [bjaxbjax](https://github.com/bjaxbjax)
 - [keerthimohan93](https://github.com/keerthimohan93)
 - [zer0tolerance](https://github.com/zer0tolerance)
@@ -1744,7 +1745,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Subash Sreeram](https://github.com/sreesub)
 - [Polly Sutcliffe](https://github.com/pollyj)
 - [Katie Gu](https://github.com/katie-gu)
-- [Yuhe Tang] (https://github.com/dondon1993)
+- [Yuhe Tang](https://github.com/dondon1993)
 - [Elias Nordlinder](https://github.com/EliasNo)
 - [Mohsin Zafar](https://github.com/mohsinzafaruk1996/)
 - [Kate Raskauskas](https://github.com/kateapault)
@@ -1804,10 +1805,10 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Tomiwa Salau 🤩🤩🤩](https://github.com/AyonzOnTop)
 - [Pavel Malinov](https://github.com/pmmalinov01)
 - [pankaj kumar](https://github.com/pankaj2961)
-- [Jessie Matias] (https://github.com/jessiematias)
+- [Jessie Matias](https://github.com/jessiematias)
 - [Kola Campbell](https://github.com/kcola)
 - [Travis Byr](https://github.com/travisbyr)
-- [Satyen Verma] (https://github.com/satyenverma)
-- [Suktriti Sood] (https://github.com/Sukriti-sood)
-- [Oliver O'Brien] (https://github.com/oliverob)
-- [Kushal Shrestha] (https://github.com/kushalshrestha)
+- [Satyen Verma](https://github.com/satyenverma)
+- [Suktriti Sood](https://github.com/Sukriti-sood)
+- [Oliver O'Brien](https://github.com/oliverob)
+- [Kushal Shrestha](https://github.com/kushalshrestha)
