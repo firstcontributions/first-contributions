@@ -99,6 +99,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Julia Kyung](https://github.com/juliakyung)
 - Kramer Silva
 - [Jitesh Kamnani](https://github.com/jvkamnani)
+- [Cassio Leite](https://github.com/cassiopl)
 - [Zulfiqar Ahmed] (https://github.com/zulfiqarjunejo)
 - [Jacob Rodgers](https://github.com/rodgersj097)
 - [Anirudh Sharma](https://github.com/Minecraftian14)
