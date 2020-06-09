@@ -1156,6 +1156,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [BBrown](https://github.com/BBrown4)
 - [Jim Armstrong](https://github.com/41northstudios)
 - [AdamThahir](https://github.com/AdamThahir)
+- [Ryan Shar](https://github.com/rShar01)
 - [Julia González](https://github.com/yuliagg)
 - [Luís Lyra](https://github.com/lhllyra)
 - [Jim Schlader](https://github.com/jamesschlader)
