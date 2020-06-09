@@ -1784,6 +1784,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [richie](https://github.com/cowsed)
 - [porks](https://github.com/csporks)
 - [meih](https://github.com/meih124)
+- [David Druker](https://github.com/gitdove)
 - [Dwij Rastogi](https://github.com/fr05t99)
 - [Vitaly Volk](https://github.com/podcasts-prevail)
 - [Nugie_Miko](https://github.com/nugiemiko)
