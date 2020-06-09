@@ -154,6 +154,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Brian McGarry](https://github.com/breenmcgoo)
 - [Jubayer Abdullah Joy](https://github.com/JubayerJoy)
 - [Ankit Goel](https://github.com/ankitgoel25)
+- [Elvis Gastelum](https://github.com/ElvisGastelum)
 - [Thiago Almeida](https://github.com/tbalmeida)
 - [Sachu Verma](https://github.com/sachinverma53121)
 - [Bruno Rabelo](https://github.com/brunorabelo)
