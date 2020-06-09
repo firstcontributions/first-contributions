@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
@@ -21,6 +21,7 @@
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Simon Brumfield Jr](https://github.com/brumfields)
+- [Harshavardhan Yadala](https://github.com/yharsha)
 - [Praveen Gupta](https://github.com/Praveengupta1)
 - New User
 - [Niranjan](https://github.com/niranjantuty)
