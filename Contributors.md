@@ -53,6 +53,7 @@
 - se7enmoons
 - Ismail Kassim
 - Yusuf Reed
+- po10tial
 - [Ranajay Medya](https://github.com/ranajay99)
 - [Prateek Jain](https://github.com/prateeja)
 - [Julian Pacheco](https://github.com/julianpacheco/)
