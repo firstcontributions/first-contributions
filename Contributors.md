@@ -1799,3 +1799,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Kola Campbell](https://github.com/kcola)
 - [Travis Byr](https://github.com/travisbyr)
 - [Satyen Verma] (https://github.com/satyenverma)
+- [Suktriti Sood] (https://github.com/Sukriti-sood)
