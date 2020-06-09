@@ -32,6 +32,7 @@
 - [Samuel Gits](https://github.com/samgits)
 - [Zaid Jilani](https://github.com/zjilani)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
+- [Akshit Proothi](https://github.com/akshitproothi)
 - [Kumar Paras Karan](https://github.com/kumarparas2000)
 - [Yosef Salmalian](https://github.com/usefss)
 - [Sam Thoyre](https://github.com/thorski1)
