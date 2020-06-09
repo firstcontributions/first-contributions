@@ -1756,6 +1756,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Purvesh Shende](https://github.com/purveshshende2)
 - [Damilola Oduronbi](https://github.com/oracleot)
 - [Jason Liu](https://github.com/jkfliu)
+- [Kyle Racel](https://github.com/kbracel)
 - [Vivek Gupta](https://github.com/vivekguptaraw)
   -Hrushikesh Akhade
 - [Julian Boyce](https://github.com/julianboyce)
