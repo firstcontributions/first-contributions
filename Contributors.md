@@ -4,6 +4,7 @@
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
+- [Terry J. Park](https://github.com/park-jsdev)
 - Roy Ancri
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
