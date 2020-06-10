@@ -231,6 +231,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Arkadyuti Bandyopadhyay](https://github.com/ARKEOLOGIST)
 - [Swapnil Agrawal](https://github.com/swap2ag)
 - [Chanakya Patel](https://github.com/patelchanakya)
+- [Mario Calce](https://github.com/calcem)
 - [karamba34](https://github.com/karamba34)
 - [Sareen Shah](https://github.com/sareen279)
 - [Jai Nagda](https://github.com/jainagda)
