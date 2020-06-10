@@ -19,6 +19,7 @@
 - [sneha jogur](https://github.com/JogurSneha)
 - [Adela Darmansyah](https://github.com/ayohana)
 - [Lisovenko Vladislav](https://github.com/VladCoder)
+- [Moaz bin Mokhtar] (https://github.com/moaz-mokhtar)
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
