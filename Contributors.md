@@ -8,6 +8,7 @@
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
 - Mason Ashment
+- [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - Moshe Stone
 - [David Damer](CDavid-Damer)
