@@ -16,6 +16,7 @@
 - [Bruno Rito] (https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
+- Harshit Gangwar
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
