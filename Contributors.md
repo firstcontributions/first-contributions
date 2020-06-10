@@ -450,6 +450,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ankit Arya](https://github.com/Ankit714)
 - [Pranesh](https://github.com/klostur)
 - [Ahmad Sami](https://github.com/Asami1997)
+- [Akshay Gadag](https://github.com/Akshay-Gadag)
 - [Mako Kusuda](https://github.com/makokusuda)
 - [Yash Budukh](https://github.com/budukhyash)
 - [Ruchika Gupta](https://github.com/ruchikaguptaa)
