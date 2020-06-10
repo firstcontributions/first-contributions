@@ -9,6 +9,7 @@
 - [Terry J. Park](https://github.com/park-jsdev)
 - Mason Ashment
 - Roy Ancri
+- Moshe Stone
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
