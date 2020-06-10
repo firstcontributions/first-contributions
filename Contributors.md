@@ -121,6 +121,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Arpan Dutta ](https://github.com/smalldutta)
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Adin Ilfeld](https://github.com/adinilfeld)
+- [Tony Nicola](https://github.com/tdnicola)
 - [viswitha](https://github.com/viswitha)
 - [Nihit Natu](https://github.com/nihit97natu)
 - [Ougni Chakraborty](https://github.com/ougni)
