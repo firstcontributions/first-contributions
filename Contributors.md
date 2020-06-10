@@ -29,6 +29,7 @@
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
+- [Amin Burhan](https://github.com/aminnb)
 - [Simon Brumfield Jr](https://github.com/brumfields)
 - [Harshavardhan Yadala](https://github.com/yharsha)
 - [Praveen Gupta](https://github.com/Praveengupta1)
