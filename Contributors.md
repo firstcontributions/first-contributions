@@ -18,6 +18,7 @@
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Harshit Gangwar
+- [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
