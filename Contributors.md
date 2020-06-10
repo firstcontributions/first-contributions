@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
 - [Faris Hasković] (https://github.com/Faski1)
@@ -88,6 +88,7 @@
 - [Kyle Fanner](https://github.com/KyleFanner)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
+- [Damien Aries] (https://github.com/damienaries)
 https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
