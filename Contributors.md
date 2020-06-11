@@ -1,10 +1,11 @@
-﻿# Contributors
+# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
 - [Lukasz Gorka] (https://github.com/lukaszgorka2010)
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
+- [Nurin Fazil](https://github.com/nurinfazil)
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
