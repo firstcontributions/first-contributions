@@ -1489,6 +1489,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jake Kwon](https://github.com/FoxeyesJK)
 - [OmkarLubal](https://github.com/omkarlubal/)
 - [SarahOBrien](https://github.com/sarahob)
+- [Stefan Harms](https://github.com/St3fa11)
 - [Sanil Sinai Borkar](https://github.com/sanilborkar)
 - [MrCrit](https://github.com/MrCrit)
 - [gbs4ever](https://github.com/gbs4ever)
