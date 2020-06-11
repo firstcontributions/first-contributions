@@ -1805,6 +1805,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Carlos Salazar](https://github.com/carlosIUSalazar)
 - [Kohki Shiga](https://github.com/Saggitarie)
 - [Manjil Tamang](https://github.com/manjillama)
+- [Josip Kasap](https://github.com/jopejoso)
 - [Yuhuan Fan](https://github.com/Yuhuan0207)
 - [Shubham Arya](https://github.com/mrjoker05)
 - [S Nitesh Singh](https://github.com/niteshseram)
