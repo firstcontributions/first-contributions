@@ -10,6 +10,7 @@
 - Mason Ashment
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
+- Sylveste
 - raj chordia
 - Moshe Stone
 - Andrew Barton
