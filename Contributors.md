@@ -664,6 +664,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Richard Theaker](https://github.com/rtheaker)
 - [Kaiser](https://github.com/kaisernahid)
 - [François Bibeau](https://github.com/fbibeau)
+- [Kevin Ruiz](https://github.com/Kevin-Lyle-Ruiz)
 - [Felipe Borges](https://github.com/felipejsborges)
 - [Snehal Somalraju](https://github.com/ssomalraju1)
 - [Iyossias Eshete](https://github.com/iyossias-eshete)
