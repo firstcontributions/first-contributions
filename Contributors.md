@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
@@ -1868,3 +1868,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Aya Khaled] (https://github.com/AyaKhaledYousef)
 - [Jagadish](https://github.com/Jaggu437)
 - [Steven S] (https://github.com/sysung)
+- [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
