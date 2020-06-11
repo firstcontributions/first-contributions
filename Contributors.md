@@ -816,6 +816,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [syxter](https://github.com/syxter)
 - [Vatsal Kesarwani](https://github.com/plazzy99)
 - [Elizabeth Jolly](https://github.com/thelizzerd)
+- [Intuinum](https://github.com/intuinum)
 - [Dexy](https://github.com/dexypy)
 - [Manuel Pissanos](https://github.com/mpissanos)
 - [Alvin Jorrel Pascual](https://github.com/alvinjorrel)
