@@ -4,6 +4,9 @@
 - [Roman Rokon ⭐⭐⭐⭐⭐⭐⭐](https://github.com/rokonxr)
 - Nirbhay Singh \*\*\*(https://github.com/Nirbhay007)
 - [Faris Hasković](https://github.com/Faski1)
+- Mihir Rane (https://github.com/ranemihir)
+- Nirbhay Singh ***(https://github.com/Nirbhay007)
+- [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
@@ -13,9 +16,11 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - raj chordia
+- Hemant Kumar
 - Moshe Stone
 - Andrew Barton
 - Sylveste
+- [Shiva] (https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
