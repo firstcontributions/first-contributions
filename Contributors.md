@@ -15,6 +15,7 @@
 - raj chordia
 - Hemant Kumar
 - Moshe Stone
+- [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
 - Sylveste
 - [Shiva] (https://github.com/shivaak)
