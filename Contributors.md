@@ -65,6 +65,7 @@
 - Aditya Shrivastav
 - Costea Ionut-Andrei
 - Reem
+- CatTail
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Naqiya Ghulamali](https://github.com/Kia-G)
 - [Alka Trivedi](https://github.com/Alka-git12)
