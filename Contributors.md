@@ -138,6 +138,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Tony Nicola](https://github.com/tdnicola)
 - [viswitha](https://github.com/viswitha)
 - [Nihit Natu](https://github.com/nihit97natu)
+- [Aashita Agarwal]
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Nathan Ormond](https://github.com/NathOrmond)
 - [Thomas Harbin](https://github.com/thomasharbin)
