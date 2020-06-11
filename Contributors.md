@@ -30,7 +30,7 @@
 - Harshit Gangwar
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - [Ali Najmaldin](https://github.com/OGALI)
-- [Dion Niazi] (https://github.com/dn3gy)
+- [Dion Niazi](https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
 - [Adela Darmansyah](https://github.com/ayohana)
