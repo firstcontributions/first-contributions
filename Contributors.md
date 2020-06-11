@@ -78,7 +78,7 @@
 - Ismail Kassim
 - Yusuf Reed
 - po10tial
-- [Colin W](https://github.com/cw171) 
+- [Colin W](https://github.com/cw171)
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
 - [Prateek Jain](https://github.com/prateeja)
@@ -392,6 +392,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Anthony Hill](https://github.com/anthonyhi11)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Coco](https://github.com/coco4024)
+- [Graeme Keates](https://github.com/gskeates)
 - [Tristan Verduzco](https://github.com/VerduzcoTristan)
 - [Madhurima Chakraborty](https://github.com/Nimmo1993)
 - [Yang Ningxin](https://github.com/nixgnin)
