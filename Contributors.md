@@ -76,6 +76,7 @@
 - Ismail Kassim
 - Yusuf Reed
 - po10tial
+- [Colin W](https://github.com/cw171) 
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
 - [Prateek Jain](https://github.com/prateeja)
