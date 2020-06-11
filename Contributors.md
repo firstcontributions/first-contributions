@@ -1118,6 +1118,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [kingkoma](https://github.com/kingkoma)
 - [AlexSarah](https://github.com/AlexSarah)
 - [Ahmad Samy](https://github.com/sunshine2050)
+- [Vajhe](https://github.com/Vajhe)
 - [Raghu Lohe](https://github.com/raghulohe)
 - [Lv Zhi](https://github.com/Na0ture)
 - [Vyner](https://github.com/Vyner)
