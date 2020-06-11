@@ -12,6 +12,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - raj chordia
+- Hemant Kumar
 - Moshe Stone
 - Andrew Barton
 - Sylveste
