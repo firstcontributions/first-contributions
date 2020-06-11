@@ -290,6 +290,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Anand Kumar Singh](https://github.com/Anand-Kumar-Singh)
 - [Prateek Kumar Singh](https://github.com/pksgmv)
 - [Mikheil Nazgaidze](https://github.com/bnMikheili)
+- raj chordai
 - [Andrew Mukare](https://github.com/JudgeFudge19)
 - [Jeremy Wong](http://github.com/jwjeremy)
 - [Kali Littlefield](https://github.com/Kali-Littlefield)
