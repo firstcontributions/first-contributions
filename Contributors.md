@@ -11,6 +11,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - Moshe Stone
+- Andrew Barton
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
