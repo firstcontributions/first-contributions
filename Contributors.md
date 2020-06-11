@@ -14,6 +14,7 @@
 - Moshe Stone
 - Andrew Barton
 - Sylveste
+- [Shiva] (https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
