@@ -13,6 +13,7 @@
 - raj chordia
 - Moshe Stone
 - Andrew Barton
+- Sylveste
 - [David Damer](CDavid-Damer)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
