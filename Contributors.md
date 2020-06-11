@@ -350,6 +350,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Fatima Bint] (https://github.com/Fatima-Bint)
 - [Tanushree Unakal](https://github.com/tanu-unakal)
 - [Ryan McGarry](https://https://github.com/rmcgarry3)
+- Ethan B
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
