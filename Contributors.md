@@ -1042,6 +1042,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Hardy Xu](https://github.com/xuxin3101)
 - [penpenpng](https://github.com/penpenpng)
 - [Giovanni Ciandrini](https://github.com/gciandro13)
+- [Justin Brown](https://github.com/justinbrowncodes)
 - [Jasmine Tracey](https://github.com/traceyjas)
 - [Gabriel Ilochi](https://github.com/gblend)
 - [Zeyu Keith Fu](https://github.com/ZeyuKeithFu)
