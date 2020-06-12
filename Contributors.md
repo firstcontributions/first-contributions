@@ -1334,6 +1334,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [cwcraw](https://github.com/cwcraw)
 - [Joao](https://github.com/Joaopedrobass)
 - [Jamiel Capatayan](https://github.com/JamielCapatayan)
+- [Remus Sferle](https://github.com/SarCoptU)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
 - [Janko Bosnjakovic](https://github.com/jb-99)
@@ -1883,3 +1884,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Steven S] (https://github.com/sysung)
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
+
