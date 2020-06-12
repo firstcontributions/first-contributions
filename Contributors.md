@@ -189,6 +189,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Mohcine Sakhi](https://github.com/mohcine-sakhi)
 - [Mahitha Devarakonda](https://github.com/mahitha22)
 - [Vineet Vatsal](https://github.com/pret3nti0u5)
+- [Jared Jacobsen](https://github.com/jaredjacobsen)
 - [Yurika Namba](https://github.com/yurikanamba)
 - [Chris Arias](https://github.com/ChrisArias-dev)
 - [chrislockard](https://github.com/chrislockard)
