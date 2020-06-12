@@ -38,6 +38,7 @@
 - [Dion Niazi] (https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
 - [sneha jogur](https://github.com/JogurSneha)
+- [Pranav Bhat](https://github.com/pranavbhat)
 - [Adela Darmansyah](https://github.com/ayohana)
 - [Lisovenko Vladislav](https://github.com/VladCoder)
 - [Moaz bin Mokhtar] (https://github.com/moaz-mokhtar)
