@@ -1685,6 +1685,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
 - [Merin Babu](https://github.com/MerinBabu)
+- [tourian](https://github.com/crono1023
 - [George Balchev](https://github.com/gbalchev)
 - [Iner Lofgren](https://github.com/InerLeeLofgren)
 - [jerp86](https://github.com/jerp86)
