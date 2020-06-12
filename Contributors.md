@@ -1879,3 +1879,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jagadish](https://github.com/Jaggu437)
 - [Steven S] (https://github.com/sysung)
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
+- [Travis Major](https://github.com/schfiftyfive)
