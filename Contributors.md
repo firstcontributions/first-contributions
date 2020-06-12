@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 -jenny heyyy
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
@@ -1883,3 +1883,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Steven S] (https://github.com/sysung)
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
+- [Pippi Longstocking]
