@@ -1629,6 +1629,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Marcao F](https://github.com/mackmak/)
 - [RN2208](https://github.com/rn2208/)
 - [prakx87](https://github.com/prakx87/)
+- [Hocky Yudhiono](https://github.com/hockyy)
 - [Schitiz](https://github.com/Schitiz)
 - [AdeLaNa](https://github.com/AdeLana-O)
 - [karlangadas](https://github.com/karlangadas)
