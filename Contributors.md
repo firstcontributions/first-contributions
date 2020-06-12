@@ -218,6 +218,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Pratik Singh](https://github.com/kitarp29)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
+- [Rupam Dey](https://github.com/jonesjacky)
 - [Ambuj Singh](https://github.com/singhambuj)
 - [Sohan Shingade](https://github.com/sohan-shingade)
 - [Wilson Chau](https://github.com/a19950605)
