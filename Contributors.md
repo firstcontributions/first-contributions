@@ -16,6 +16,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - raj chordia
+- Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
 - [Maria Garcia](https://github.com/MariaGarciaCS)
