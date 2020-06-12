@@ -80,6 +80,7 @@
 - Costea Ionut-Andrei
 - Reem
 - CatTail
+- [Tarun Kanodia](https://github.com/tarunkanodia)
 - [Mike Dombrowski](https://github.com/m-dombrowski)
 - [Naqiya Ghulamali](https://github.com/Kia-G)
 - [Alka Trivedi](https://github.com/Alka-git12)
