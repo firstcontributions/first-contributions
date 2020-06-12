@@ -1617,6 +1617,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ismail Vohra](https://github.com/ismailvohra)
 - [Bruce Wang](https://github.com/brucewang45)
 - [Howling Wolf Table](https://https://github.com/HowlingWolfTable)
+- [Rohan George D](https://github.com/Rohan-GD)
 - [Howard Jiang](https://github.com/hjiang4332)
 - [Anna Sherlock](https://github.com/alsherlock)
 - [Jordan Stubblefield](https://github.com/jstubb7939)
