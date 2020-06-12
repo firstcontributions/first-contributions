@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
 - [Faris Hasković] (https://github.com/Faski1)
@@ -11,6 +11,7 @@
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - raj chordia
+- yuvarajan
 - Moshe Stone
 - Andrew Barton
 - Sylveste
