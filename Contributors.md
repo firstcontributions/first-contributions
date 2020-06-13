@@ -25,6 +25,7 @@ ram964
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
 - Sylveste
+- Janitha Missaka
 - Shabunken (https://github.com/shabunken))
 - [Shiva] (https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
