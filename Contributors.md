@@ -116,6 +116,7 @@ ram964
 - [Ben Holvey](https://github.com/benholvey)
 - [Susan Johnson](https://github.com/cybero)
 - [gabgodBB](https://github.com/gabgodBB)
+- [Juan Hernandez](https://github.com/juanphdz)
 - [Escape0707](https://github.com/escape0707)
 - [Basian Lesi](https://github.com/BasianLesi)
 - [Shubhankar Unhale](https://github.com/shubhankarunhale)
