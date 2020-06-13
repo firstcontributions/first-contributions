@@ -227,6 +227,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Kyle Conlon](https://github.com/KConlon13)
 - [Dhairya](https://github.com/dhairya2019)
 - [Pratik Singh](https://github.com/kitarp29)
+- [Priyanka Jalan](https://github.com/prianka01)
 - [Shreyas Pandey](https://github.com/shrey-devep)
 - [Blake Schlin](https://github.com/Bschlin)
 - [Rupam Dey](https://github.com/jonesjacky)
