@@ -12,6 +12,7 @@ ram964
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
+- [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
