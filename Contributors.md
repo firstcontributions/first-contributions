@@ -1878,6 +1878,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [David Druker](https://github.com/gitdove)
 - [Dwij Rastogi](https://github.com/fr05t99)
 - [Vitaly Volk](https://github.com/podcasts-prevail)
+- [BoujieRolls] (https://github.com/boujierolls)
 - [Nugie_Miko](https://github.com/nugiemiko)
 - [Gain John](https://github.com/dhaxor)
 - [Sanjeev Choudhary](https://github.com/snjv9)
@@ -1903,3 +1904,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
 - [Pippi Longstocking]
+
