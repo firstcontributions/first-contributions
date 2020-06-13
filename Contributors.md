@@ -20,6 +20,7 @@ ram964
 - [Mario Rosa](https://github.com/SergJohn)
 - Roy Ancri
 - raj chordia
+- Alex Y.
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
