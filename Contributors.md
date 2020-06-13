@@ -33,6 +33,7 @@
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Harshit Gangwar
+- [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi] (https://github.com/dn3gy)
