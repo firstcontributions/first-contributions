@@ -1046,6 +1046,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ryan Deckard](https://github.com/rldeckard)
 - [Abhishek Mohite](https://github.com/astroncoda)
 - [Saullo Carvalho](https://github.com/saullocarvalho)
+- [Richard Chan](https://github.com/NG-Rich/)
 - [Darshan Patidar](https://github.com/darshanpatidar1)
 - [Rai Santosh](https://github.com/Gitsanto)
 - [Lionel Voirol](https://github.com/lionelvoirol)
