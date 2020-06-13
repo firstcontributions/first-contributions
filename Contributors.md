@@ -12,6 +12,7 @@
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
 - Mason Ashment
+- Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
 - [Jasdeep S Shangari] (https://github.com/shangarijasdeep24)
 - [Mario Rosa](https://github.com/SergJohn)
