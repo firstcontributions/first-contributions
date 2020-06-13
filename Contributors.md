@@ -1897,3 +1897,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
 - [Pippi Longstocking]
+- [Jannat Patel](https://github.com/pateljannat)
