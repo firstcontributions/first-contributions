@@ -92,6 +92,7 @@
 - [Nathaniel Li](https://github.com/EthicalAmbiguity)
 - [Nathan Brachotte](https://github.com/nathanbrachotte)
 - [Shlok Jethwa](https://github.com/shlokjethwa)
+  [Brent Basiano] (https://github.com/renbrent)
 - se7enmoons
 - Ismail Kassim
 - Yusuf Reed
