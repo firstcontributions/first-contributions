@@ -1,5 +1,6 @@
 ﻿# Contributors
--jenny heyyy
+- [Zeke Jeske](https://github.com/zeke-jeske)
+- jenny heyyy
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
