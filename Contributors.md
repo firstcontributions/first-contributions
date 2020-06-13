@@ -1907,3 +1907,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
 - [Travis Major](https://github.com/schfiftyfive)
 - [Pippi Longstocking]
+- [Stephen Clarke](https://github.com/sdclarkelab)
