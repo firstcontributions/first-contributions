@@ -1,5 +1,5 @@
 ﻿# Contributors
--jenny heyyy
+- jenny heyyy
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
@@ -24,6 +24,7 @@ ram964
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
+- Shweta Karwa
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
 - Sylveste
