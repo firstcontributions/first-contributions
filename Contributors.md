@@ -34,6 +34,7 @@ ram964
 - [Bruno Rito] (https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
+- Rui Luís
 - Harshit Gangwar
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
