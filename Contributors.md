@@ -1,6 +1,7 @@
 ﻿# Contributors
 - jenny heyyy
 - fis Arain
+- Pathik Ghugare (https://github.com/Patrickbro13)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
