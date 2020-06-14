@@ -1379,6 +1379,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Trent Bosak](https://github.com/bosaktrent)
 - [Iftakhar Alam Rizve](https://github.com/Iftakharalamrizve)
 - [Nanthakarn limkool](https://github.com/ZEZAY)
+- [Walker Scott]
 - [Vaishnavi]
 - [Bishnu Murmu](https://github.com/bishnumurmu)
 - [Sergey Rudenko](https://github.com/rudensergey)
