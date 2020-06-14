@@ -15,6 +15,7 @@ ram964
 - [Terry J. Park](https://github.com/park-jsdev)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
+- Amit
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
 - [Jasdeep S Shangari] (https://github.com/shangarijasdeep24)
