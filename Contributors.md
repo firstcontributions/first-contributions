@@ -1930,3 +1930,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
 - [Victor Doh Kim](https://github.com/dohkim)
+- [Justin Kuan](https://github.com/jkuan1)
