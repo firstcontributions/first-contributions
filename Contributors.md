@@ -1508,6 +1508,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Schnell Theo](https://github.com/Elsasser67)
 - [Kirk Lennon](https://github.com/kirklennon)
 - [Phil H.](https://github.com/kungfuphil)
+- [Zachary Yamaoka](https://github.com/zacharyyamaoka)
 - [EswarR](https://github.com/EswarR99)
 - [Tong Jin](https://github.com/tjin35)
 - [Sayaka Ono](https://github.com/SayakaOno)
