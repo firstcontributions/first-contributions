@@ -41,6 +41,7 @@ ram964
 - Shabunken (https://github.com/shabunken))
 - [Shiva] (https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
+- [David Lugo Jz](https://github.com/DavidLJz)
 - Christopher LeBoeuf
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
