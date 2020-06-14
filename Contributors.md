@@ -1928,3 +1928,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
+- [Victor Doh Kim](https://github.com/dohkim)
