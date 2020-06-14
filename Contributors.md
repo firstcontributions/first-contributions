@@ -9,6 +9,7 @@
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
 ram964
+- [Praveen Nair](https://github.com/PraveenCNR)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
