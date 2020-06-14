@@ -11,6 +11,7 @@
 - Rahul Rajan
 ram964
 - [Praveen Nair](https://github.com/PraveenCNR)
+- [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
