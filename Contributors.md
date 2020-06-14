@@ -99,6 +99,7 @@ ram964
 - Aditya Shrivastav
 - Costea Ionut-Andrei
 - [Mark Kulube](https://github.com/markkulube)
+- [Gega Darakhvelidze](https://github.com/gdara17)
 - Reem
 - CatTail
 - [Tarun Kanodia](https://github.com/tarunkanodia)
