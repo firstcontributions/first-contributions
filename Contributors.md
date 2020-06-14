@@ -1923,6 +1923,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Ashok Saini] (https://github.com/wifineural)
 - [Nate Jones] (https://github.com/n09jones)
 - [Aya Khaled] (https://github.com/AyaKhaledYousef)
+- [Víctor González] (https://github.com/VictorRdz)
 - [Jagadish](https://github.com/Jaggu437)
 - [Steven S] (https://github.com/sysung)
 - [Grégori Fernandes de Lima] (https://github.com/gregoriLima)
