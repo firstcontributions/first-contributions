@@ -1,6 +1,7 @@
 ﻿# Contributors
 - jenny heyyy
 - fis Arain
+- Pathik Ghugare (https://github.com/Patrickbro13)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
@@ -8,6 +9,7 @@
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
 ram964
+- [Praveen Nair](https://github.com/PraveenCNR)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Priyanshu Dangi](https://github.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
@@ -15,6 +17,8 @@ ram964
 - [Terry J. Park](https://github.com/park-jsdev)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
+- Amit
+- [Harshavardhan](https://github.com/Ajatasatruvu)
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
 - [Jasdeep S Shangari] (https://github.com/shangarijasdeep24)
@@ -27,6 +31,7 @@ ram964
 - Hemant Kumar
 - Moshe Stone
 - Shweta Karwa
+- aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
 - Sylveste
@@ -95,6 +100,7 @@ ram964
 - Aditya Shrivastav
 - Costea Ionut-Andrei
 - [Mark Kulube](https://github.com/markkulube)
+- [Gega Darakhvelidze](https://github.com/gdara17)
 - Reem
 - CatTail
 - [Tarun Kanodia](https://github.com/tarunkanodia)
@@ -1508,6 +1514,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Schnell Theo](https://github.com/Elsasser67)
 - [Kirk Lennon](https://github.com/kirklennon)
 - [Phil H.](https://github.com/kungfuphil)
+- [Zachary Yamaoka](https://github.com/zacharyyamaoka)
 - [EswarR](https://github.com/EswarR99)
 - [Tong Jin](https://github.com/tjin35)
 - [Sayaka Ono](https://github.com/SayakaOno)
@@ -1878,6 +1885,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Hailey Gu](https://github.com/HaileyGu)
 - Loki
 - [Alexander Garcia](https://github.com/yalex1402)
+- [Simon Aust](http://github.com/siaust)
 - [Phil Liao](https://github.com/phil-ociraptor)
 - [Sinane Si Mohammed](https://github.com/ssi-moha)
 - [Beatriz Rezener](https://github.com/beatrizrezener)
@@ -1918,3 +1926,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Jannat Patel](https://github.com/pateljannat)
+- [Ryan Goudie](https://github.com/RyanGoudie)
