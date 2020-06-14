@@ -51,6 +51,7 @@ ram964
 - Salsabil
 - Rui Luís
 - Harshit Gangwar
+- Kazuma Tonegawa
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - [Ali Najmaldin](https://github.com/OGALI)
