@@ -27,7 +27,7 @@ ram964
 - Hemant Kumar
 - Moshe Stone
 - Shweta Karwa
-- ag
+- aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
 - Sylveste
