@@ -53,7 +53,6 @@ ram964
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
 - Rui Luís
-- nikhil
 - Harshit Gangwar
 - Kazuma Tonegawa
 - [Cheyenne Montgomery]
