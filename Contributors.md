@@ -623,6 +623,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Philip Cosentino](https://github.com/pcbootsy)
 - [Ron Hershkovitz](https://github.com/RonRon8080)
 - [Maitreya Dange](https://github.com/MaitreyaDange)
+- [Joshua Fogelson](https://github.com/JoshuaFogelson)
 - [Kenert Karu](https://github.com/951219)
 - [Karl Peet](https://github.com/karlpeet92)
 - [jo](https://github.com/folde01)
