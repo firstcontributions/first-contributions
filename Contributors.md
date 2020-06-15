@@ -60,6 +60,7 @@ ram964
 - Kazuma Tonegawa
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
+- barua 
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi] (https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
