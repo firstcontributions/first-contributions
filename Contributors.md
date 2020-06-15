@@ -1,5 +1,6 @@
 ﻿# Contributors
 - jenny heyyy
+- Harsh Patel(https://github.com/HarshPatel270698)
 - fis Arain
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
