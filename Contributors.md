@@ -1952,3 +1952,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Justin Kuan](https://github.com/jkuan1)
 - [Hari Krishnamurthy](https://github.com/harry389)
 - [Soroye Sodiq](https://github.com/Soroyesodiq)
+- [Thrishul Sherigar](https://github.com/3shool)
