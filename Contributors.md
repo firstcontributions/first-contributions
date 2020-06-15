@@ -76,6 +76,7 @@ ram964
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
+- [Juan Alegría](https://github.com/zejiran)
 - [Amin Burhan](https://github.com/aminnb)
 - [Simon Brumfield Jr](https://github.com/brumfields)
 - [Harshavardhan Yadala](https://github.com/yharsha)
