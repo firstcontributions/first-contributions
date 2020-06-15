@@ -975,6 +975,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Bradford Bailey](https://github.com/bradferd)
 - [Torbjørn Bratland](https://github.com/tobratland)
 - [NdengangEdwin](https://github.com/ndengangEdwin)
+- [Sam McClure](https://github.com/sam-mcclure)
 - [Mario Saputra](https://github.com/mariosaputra)
 - [Caleb Taylor](https://github.com/sexling)
 - [Shivang Goria](https://github.com/shivanggoria)
