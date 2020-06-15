@@ -33,6 +33,7 @@ ram964
 - Shweta Karwa
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
+- [Darshan Chudiwal](https://github.com/kvothemaedre)
 - Andrew Barton
 - Sylveste
 - Shweta
@@ -1926,3 +1927,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Pippi Longstocking]
 - [Stephen Clarke](https://github.com/sdclarkelab)
 - [Ryan Goudie](https://github.com/RyanGoudie)
+
