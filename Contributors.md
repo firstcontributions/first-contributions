@@ -16,7 +16,8 @@ ram964
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Sarah Wu](https://github.com/9237sarah)
-- [Priyanshu Dangi](https://github.com/PriyanshuDangi)
+- Vinayak Sankar
+- [Priyanshu Dangi](https://githuVb.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
 - [Terry J. Park](https://github.com/park-jsdev)
