@@ -1249,6 +1249,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [yuvaaraaja](https://github.com/yuvaaraaja)
 - [Keiran Glynn](https://github.com/KeiranGlynn)
 - [Danilo Zabala II](https://github.com/dczii)
+- [MarcusAd](https://github.com/MarcusAd)
 - [KK998](https://github.com/KK998)
 - [Owen Eribo](https://github.com/oweneribo)
 - [Daniel Stankovic](https://github.com/DanielStankovic)
