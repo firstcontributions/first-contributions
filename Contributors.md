@@ -497,6 +497,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Uyin Solomon](https://github.com/rootleet)
 - [Caio Canoas](https://github.com/caiocanoas)
 - [Myat Thu Ko](https://github.com/MyatThuKo)
+- [Surya Shankar](https://github.com/Freakqency)
 - [Brandon Allen](https://github.com/eldon2)
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Todsapon Boontap](https://github.com/at-syot)
