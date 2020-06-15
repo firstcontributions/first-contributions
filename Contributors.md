@@ -44,6 +44,7 @@ ram964
 - Andrew Barton
 - Sylveste
 - Shweta
+- Jens Krueger
 - Janitha Missaka
 - Shabunken (https://github.com/shabunken))
 - [Shiva] (https://github.com/shivaak)
