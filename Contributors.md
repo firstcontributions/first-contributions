@@ -1956,3 +1956,5 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Soroye Sodiq](https://github.com/Soroyesodiq)
 - [Thrishul Sherigar](https://github.com/3shool)
 - [Michael Etiobhio](https://github.com/micodian)
+- [Levi Jacoby](https://github.com/LeviJacoby1991)
+
