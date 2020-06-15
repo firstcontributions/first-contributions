@@ -421,6 +421,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Chris Constantino](https://github.com/caconstan)
 - [Sam Venables](https://github.com/vensaherald)
 - [Debasish Chakroborti](https://github.com/joydeba)
+- [Roland Christensen](https://github.com/RolandChristensen/)
 - [jerseywithak](https://github.com/jerseywithak)
 - [Chifundo Kasiya](https://github.com/fundo89)
 - [Sayantan Karmakar](https://github.com/sayantank)
