@@ -29,6 +29,7 @@ ram964
 - Roy Ancri
 - raj chordia
 - Alex Y.
+- Colby Haskell (https://github.com/colbyhaskell)
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
