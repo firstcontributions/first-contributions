@@ -319,6 +319,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Abhishek Kumar](https://github.com/abhishekrnc)
 - [Patrick Wheeler](https://github.com/vader-coder)
 - [Karsten Aichholz](https://github.com/karsten-aichholz)
+- [HussienMoustafaZaky](https://github.com/HussienMoustafa)
 - [Boy Mustafa](https://github.com/boymustafa)
 - [carmour](https://github.com/carmour)
 - [Katie Wilday](https://github.com/katiewilday)
