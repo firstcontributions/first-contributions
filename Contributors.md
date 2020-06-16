@@ -63,7 +63,7 @@ ram964
 - Kazuma Tonegawa
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
-- barua 
+- barua
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi] (https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
@@ -1965,3 +1965,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Michael Etiobhio](https://github.com/micodian)
 - [Jack Delahunt](https://github.com/jackdelahunt)
 - [Allen Yao](https://github.com/ayao451)
+- [Surya Teja Togaru](https://github.com/ayrustogaru)
