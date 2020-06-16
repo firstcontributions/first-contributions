@@ -1267,6 +1267,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Sathish Thiyagarajan](https://github.com/sathish-t)
 - [Ananthalakshmi Sankar](https://github.com/anu294)
 - [Fabian Mesias](https://github.com/ifmr24)
+- [Devon Lewis](https://github.com/ayodlo)
 - [ThankGod Ofurum](https://github.com/tcofurum)
 - [Ross Wilkinson](https://github.com/rgwilkin)
 - [michaelrdt](https://github.com/MichaelRDT)
