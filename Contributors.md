@@ -3,6 +3,7 @@
 - jenny heyyy
 - Harsh Patel(https://github.com/HarshPatel270698)
 - fis Arain
+- David Hunter
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
