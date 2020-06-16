@@ -1984,3 +1984,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Dimitra Athina Moraiti] (https://github.com/DimitraMoraiti)
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
 - [Dennis Daubney](https://github.com/MrOolong)
+- [Carlos Barrera 🎧 🚀](https://github.com/barrera713)
