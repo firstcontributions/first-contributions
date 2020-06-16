@@ -864,6 +864,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Aparna Annapragada](https://github.com/aparnaannapragada)
 - [Taja House](https://github.com/tajahouse)
 - [Max Fahrmeyer](https://github.com/MaxFahr)
+- [Jack Palaia](https://github.com/jackpalaia)
 - [Melvin Reodique](https://github.com/mreodique)
 - [REDACTED](https://github.com/REDACTED)
 - [Ramesh](https://github.com/rallu)
