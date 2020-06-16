@@ -99,6 +99,7 @@ ram964
 - [Lishihong](https://github.com/lieric7766)
 - [Samuel Gits](https://github.com/samgits)
 - [Abdul Rahman Hadji Ibrahim](https://github.com/AbonIamme)
+- [Stephen Darragh](https://github.com/srdau)
 - [Zaid Jilani](https://github.com/zjilani)
 - [Sanjukta Bhattacharya](https://github.com/bsanjukta235)
 - [Jonathan Watson](https://github.com/jrwatson99)
