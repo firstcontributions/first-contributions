@@ -39,7 +39,7 @@ ram964
 - Hemant Kumar
 - Moshe Stone
 - Shweta Karwa
-- [Iago Nunes](https>://github.com/iago)
+- [Iago Nunes](https://github.com/iago)
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
 - Andrew Barton
