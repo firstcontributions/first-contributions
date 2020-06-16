@@ -25,6 +25,7 @@ ram964
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - Amit
+- Satya Prakash Satyam (https://github.com/satty2810/)
 - [Harshavardhan](https://github.com/Ajatasatruvu)
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
