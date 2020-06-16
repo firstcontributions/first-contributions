@@ -43,6 +43,7 @@ ram964
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
+- Rahul Katamneni
 - Shweta Karwa
 - [Iago Nunes](https>://github.com/iago)
 - aga
