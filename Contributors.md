@@ -774,6 +774,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jenn Park](https://github.com/j3nniis)
 - [Joshua Key](https://github.com/JoshuaKey)
 - [Coder](https://github.com/coder9604)
+- [Le-Roi](https://github.com/Le-Roi777)
 - [rewisch](https://github.com/rewisch)
 - [Kin Kin](https://github.com/adkinley)
 - [Nathan Schneider](https://github.com/nathanlschneider)
