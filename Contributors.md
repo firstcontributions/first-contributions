@@ -1974,3 +1974,4 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Jack Delahunt](https://github.com/jackdelahunt)
 - [Allen Yao](https://github.com/ayao451)
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
+- [Dennis Daubney](https://github.com/MrOolong)
