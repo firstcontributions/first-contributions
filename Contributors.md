@@ -140,6 +140,7 @@ ram964
   [Brent Basiano] (https://github.com/renbrent)
 - se7enmoons
 - Ismail Kassim
+- Kate Fogg
 - Yusuf Reed
 - po10tial
 - [Colin W](https://github.com/cw171)
