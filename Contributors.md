@@ -629,6 +629,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Amanda B](https://github.com/critterconvention)
 - [Harsh Prabhu](https://github.com/harsh1599)
 - [Uday Rajoriya](https://github.com/udayrajoriya)
+- [Mehdi CHERFI](https://github.com/cherfim)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
 - [Deathless Kraken](https://github.com/DeathlessKraken)
 - [Hassan Shakeel](https://github.com/mHassan20896)
