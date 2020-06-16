@@ -12,6 +12,7 @@
 - [Lukasz Gorka] (https://github.com/lukaszgorka2010)
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
+- LA
 ram964
 - [Praveen Nair](https://github.com/PraveenCNR)
 - [Jersey Fonseca](https://github.com/jfonseca8)
