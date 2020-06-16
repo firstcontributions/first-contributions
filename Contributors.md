@@ -4,6 +4,7 @@
 - Harsh Patel(https://github.com/HarshPatel270698)
 - fis Arain
 - David Hunter
+- Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
