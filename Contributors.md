@@ -20,6 +20,7 @@ ram964
 - [Neilzon Viloria](https://github.com/neilZon)
 - [Sarah Wu](https://github.com/9237sarah)
 - Vinayak Sankar
+- Hope T
 - [Priyanshu Dangi](https://githuVb.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
 - [Aditya Pranav 🤩🙌🙏](https://github.com/adityakpranav)
