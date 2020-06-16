@@ -1881,6 +1881,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Snehansh Akhaury](https://github.com/snehansh)
 - [Princewill Ohuabunwa](https://github.com/princewill)
 - [Daniel Muremwa](https://github.com/muremwa)
+- [nanoblit](https://github.com/nanoblit/)
 - [Jared Strober](https://github.com/JaredStrober)
 - [Andy Wei](https://github.com/AndrewWei-Colosseum)
 - [Subash Sreeram](https://github.com/sreesub)
