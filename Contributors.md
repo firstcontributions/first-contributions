@@ -1,4 +1,5 @@
 # Contributors
+- [BrandoTheDev](https://github.com/BrandoTheDev)
 - rahul123@
 - jenny heyyy
 - Harsh Patel(https://github.com/HarshPatel270698)
