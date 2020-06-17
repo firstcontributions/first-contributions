@@ -397,6 +397,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Rahul Tumpala](https://github.com/raul-1911)
 - [Aditya Maheshwari](https://github.com/maverick12345678)
 - [Babatunde Koiki](https://github.com/Babatunde13)
+- [Sasha Tankov](https://github.com/sashatankov)
 - [Samuel Bekele](https://github.com/s4mu3lbk)
 - [Mister Tibs](https://github.com/MisterTibs)
 - [Harsh Vardhan](https://github.com/harsh-1907)
