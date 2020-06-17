@@ -36,6 +36,7 @@ ram964
 - Amit
 - Ethan So (https://github.com/ethanso56)
 - Satya Prakash Satyam (https://github.com/satty2810/)
+- [Brian Mboya](https://github.com/asheux)
 - [Harshavardhan](https://github.com/Ajatasatruvu)
 - Hitendra tiwari (https://github.com/azgithubhpt)
 - Sri
