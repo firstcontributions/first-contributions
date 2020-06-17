@@ -1313,6 +1313,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Virag Umathe](https://github.com/viragumathe5)
 - [Kyle Morris](https://github.com/assimil0)
 - [Murphy Yip](https://github.com/mfmyip)
+- [Gustavo Oliveira](https://github.com/gtanansi)
 - [Ezechio](https://github.com/ezechio)
 - [Lily Chen](https://github.com/liliburg711)
 - [Cameron Faust](https://github.com/CameronAFaust)
