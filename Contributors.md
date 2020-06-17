@@ -51,6 +51,7 @@ ram964
 - raj chordia
 - Alex Y.
 - Colby Haskell (https://github.com/colbyhaskell)
+- Enda Moore (https://github.com/EndaMoore)
 - Viktor Basharkevich (https://github.com/ViktorBash)
 - Hemant Kumar
 - Moshe Stone
