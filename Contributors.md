@@ -1990,3 +1990,4 @@ Kayla Rubin
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
 - [Dennis Daubney](https://github.com/MrOolong)
 - [Carlos Barrera 🎧 🚀](https://github.com/barrera713)
+- [Tuan Hoang Tran](https://github.com/TuanTranEngineer)
