@@ -1783,6 +1783,7 @@ Kayla Rubin
 - [Shreya Vanga](https://github.com/shreyathevampire)
 - [Gord Bolli](https://github.com/gbolli)
 - [Merin Babu](https://github.com/MerinBabu)
+- [Omar](https://github.com/omarASC5)
 - [tourian](https://github.com/crono1023
 - [George Balchev](https://github.com/gbalchev)
 - [Iner Lofgren](https://github.com/InerLeeLofgren)
