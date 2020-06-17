@@ -16,6 +16,7 @@
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
 - LA
+- [Sebastien Casimir] (https://github.com/scasimir327)
 - Sharukh (https://github.com/syedm1)
 ram964
 -[Sachin Naik]
