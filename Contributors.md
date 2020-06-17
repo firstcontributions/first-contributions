@@ -15,6 +15,7 @@
 - Rahul Rajan
 - LA
 ram964
+-[Sachin Naik]
 - [Praveen Nair](https://github.com/PraveenCNR)
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
