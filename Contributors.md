@@ -71,6 +71,7 @@ ram964
 - Rui Luís
 - Harshit Gangwar
 - Kazuma Tonegawa
+- [Ali Risheh](https://github.com/aicam)
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
