@@ -923,6 +923,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [vimal-o-nathan](https://github.com/vimal-o-nathan)
 - [Dipanshu Agarwal](https://github.com/Dipanshu9689)
 - [Fergus Mac](https://github.com/fergusmac)
+  [Adeola Boluogun](https://github.com/boluogun-adeola)
 - [Jonathan Miller](https://gitlab.com/jonmiller131313)
 - [grun00](https://github.com/grun00)
 - [Shanil De Silva](https://github.com/shanil07)
