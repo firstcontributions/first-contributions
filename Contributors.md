@@ -1809,6 +1809,7 @@ Kayla Rubin
 - [skwiryt](https://github.com/skwiryt)
 - Én
 - [Ravi Gupta](https://github.com/rgupta1234)
+- [Dov Edelson] (https://github.com/adredelson)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Collins Thomas](https://github.com/cicerothoma)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
