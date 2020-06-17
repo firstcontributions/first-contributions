@@ -3,7 +3,7 @@
 - rahul123@
 - jenny heyyy
 - Harsh Patel(https://github.com/HarshPatel270698)
--Sara Morsy (https://github.com/SaraMorsy)
+- Sara Morsy (https://github.com/SaraMorsy)
 - fis Arain
 - Krishnasai
 - David Hunter
