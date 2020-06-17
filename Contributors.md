@@ -22,6 +22,7 @@ ram964
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
+- [Rohan Sharma](https://github.com/18rohan)
 - [Sarah Wu](https://github.com/9237sarah)
 - Vinayak Sankar
 - Hope T
