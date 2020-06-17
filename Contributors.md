@@ -1,8 +1,9 @@
-﻿# Contributors
+# Contributors
 - rahul123@
 - jenny heyyy
 - Harsh Patel(https://github.com/HarshPatel270698)
 - fis Arain
+- Krishnasai
 - David Hunter
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
