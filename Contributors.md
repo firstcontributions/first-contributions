@@ -1832,6 +1832,7 @@ Kayla Rubin
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Dov Edelson] (https://github.com/adredelson)
 - [Quinn Wai Wong](https://github.com/quinnwai)
+- [Brian Cariddi](https://github.com/bcariddi)
 - [Collins Thomas](https://github.com/cicerothoma)
 - [Kyeong Jun Lee](https://github.com/whoiskjl)
 - [Dhruv Mehta](https://github.com/Dhruv-194)
