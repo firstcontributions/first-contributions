@@ -8,6 +8,7 @@
 - Murat Görgüner
 - Krishnasai
 - David Hunter
+- Francisco Javier Olmos
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
