@@ -16,6 +16,7 @@
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
 - [Lukasz Gorka] (https://github.com/lukaszgorka2010)
 - [Faris Hasković] (https://github.com/Faski1)
+- yvnr (https://github.com/yvnr)
 - Rahul Rajan
 - LA
 - [Sebastien Casimir] (https://github.com/scasimir327)
