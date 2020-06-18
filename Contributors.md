@@ -80,6 +80,7 @@ ram964
 - anizhou
 - Jens Krueger
 - Janitha Missaka
+- Sinclair Guthrie
 - Shabunken (https://github.com/shabunken))
 - [Shiva] (https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
