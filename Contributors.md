@@ -1974,6 +1974,7 @@ Kayla Rubin
 - [Kenneth Lee](https://github.com/Leeoku)
 - [Maximalyono](https://github.com/maximalyono)
 - [richie](https://github.com/cowsed)
+- [Idir D](https://github.com/idir75)
 - [porks](https://github.com/csporks)
 - [meih](https://github.com/meih124)
 - [David Druker](https://github.com/gitdove)
