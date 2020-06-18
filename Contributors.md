@@ -32,6 +32,7 @@ ram964
 - [Rohan Sharma](https://github.com/18rohan)
 - [Sarah Wu](https://github.com/9237sarah)
 - Vinayak Sankar
+- [Lee Choon Siong](https://github.com/choonsiong)
 - Hope T
 - [Chris Wallace] (https://github.com/cswall86)
 - [Priyanshu Dangi](https://githuVb.com/PriyanshuDangi)
