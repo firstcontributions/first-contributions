@@ -67,7 +67,7 @@ ram964
 - Andrew Barton
 - Sylveste
 - Shweta
-- Upquark00 
+- Upquark00
 - Jens Krueger
 - Janitha Missaka
 - Shabunken (https://github.com/shabunken))
@@ -2025,3 +2025,4 @@ Kayla Rubin
 - [Kherin Bundhoo](https://github.com/kherin)
 - Ahmed Zaki
 - [Zhang heng](https://github.com/msdn129)
+- [Pierce McGeough](https://github.com/piercemcgeough)
