@@ -1429,6 +1429,7 @@ Kayla Rubin
 - [Ramesh Mamidala](https://github.com/rameshmamidalaa/)
 - [Piotr Gargula](https://github.com/pgagula)
 - [hrj](https://github.com/1170300812)
+- [Ron R](https://github.com/rsrulloda)
 - [lucasebs](https://github.com/lucasebs)
 - [Dale H](https://github.com/dhuettenmoser)
 - [Ben Balentine](https://github.com/BenBamboozled)
