@@ -297,6 +297,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Rupam Dey](https://github.com/jonesjacky)
 - [Ambuj Singh](https://github.com/singhambuj)
 - [Sohan Shingade](https://github.com/sohan-shingade)
+- [naczea](https://github.com/naczea)
 - [Wilson Chau](https://github.com/a19950605)
 - [Sara Iftikhar](https://github.com/sara9i)
 - [Nathan Taylor](https://github.com/pecan.pine)
