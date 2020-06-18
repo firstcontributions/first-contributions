@@ -2033,4 +2033,4 @@ Kayla Rubin
 - [Zhang heng](https://github.com/msdn129)
 - [Pierce McGeough](https://github.com/piercemcgeough)
 - [AmineAML](https://github.com/AmineAML)
-- [Tony Huang] (https://github.com/tonyhuang-hxb)
+- [Tony Huang](https://github.com/tonyhuang-hxb)
