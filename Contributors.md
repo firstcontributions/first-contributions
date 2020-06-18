@@ -23,6 +23,7 @@
 ram964
 -[Sachin Naik]
 - [Praveen Nair](https://github.com/PraveenCNR)
+- Aditya Tambi (https://github.com/adityatambi)
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
