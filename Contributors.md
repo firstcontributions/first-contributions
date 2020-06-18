@@ -69,6 +69,7 @@ ram964
 - Moshe Stone
 - Imed Touhami
 - Rahul Katamneni
+- Jeremiah Zagada
 - Shweta Karwa
 - [Iago Nunes](https>://github.com/iago)
 - aga
