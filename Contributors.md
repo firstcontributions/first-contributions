@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - rahul123@
 - jenny heyyy
@@ -42,6 +42,7 @@ ram964
 - Mason Ashment
 - Amit
 - Ethan So (https://github.com/ethanso56)
+- Jorge Sanchez (https://github.com/jjsanchezf)
 - Satya Prakash Satyam (https://github.com/satty2810/)
 - [Brian Mboya](https://github.com/asheux)
 - [Harshavardhan](https://github.com/Ajatasatruvu)
