@@ -45,6 +45,7 @@ ram964
 - Sri
 - Robbe Goethals
 - raddd
+- syntacticgeorge
 - [Jasdeep S Shangari] (https://github.com/shangarijasdeep24)
 - [Mario Rosa](https://github.com/SergJohn)
 - Alphie Kiu https://github.com/AlphieKiu
