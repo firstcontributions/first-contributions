@@ -199,6 +199,7 @@ ram964
 - [Michael Cope](https://github.com/Mecope1/)
 - [Chathura Nimesh](https://github.com/kana800)
 - [Kyle Fanner](https://github.com/KyleFanner)
+- [Pratik Kulkarni](https://github.com/praaatik)
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
 - [Damien Aries] (https://github.com/damienaries)
