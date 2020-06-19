@@ -943,6 +943,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Nate deBoer](https://github.com/CrazyMuppets)
 - [Giacomo Tumini](https://github.com/jacktumi)
 - [Se7enSquared](https://github.com/Se7enSquared)
+- [Lastminute](https://github.com/lstmnt)
 - [Panasarn Kanchanapiboon](https://github.com/musickn)
 - [Sary Sodaney](https://github.com/sodaney)
 - [sparamas](https://github.com/sparamas)
