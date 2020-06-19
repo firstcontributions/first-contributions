@@ -50,6 +50,7 @@ ram964
 - [Terry J. Park](https://github.com/park-jsdev)
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
+- [Dana Brannon](https://github.com/dmbrannon)
 - Amit
 - Ethan So (https://github.com/ethanso56)
 - Jorge Sanchez (https://github.com/jjsanchezf)
