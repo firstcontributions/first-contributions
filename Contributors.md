@@ -22,6 +22,7 @@
 - [Faris Hasković] (https://github.com/Faski1)
 - yvnr (https://github.com/yvnr)
 - Rahul Rajan
+- Falguni Raina
 - LA
 - [Vinnicius Andrade] (https://github.com/vinnicius)
 - [Bolutife O.] (https://github.com/bolu-tife)
