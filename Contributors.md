@@ -1,6 +1,7 @@
 # Contributors
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - rahul123@
+- [Divyanshu Yadav](https://github.com/thedivyanshuyadav)
 - jenny heyyy
 - Harsh Patel(https://github.com/HarshPatel270698)
 -Sara Morsy (https://github.com/SaraMorsy)
