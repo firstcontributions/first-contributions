@@ -1,4 +1,5 @@
 # Contributors
+- [KyleMorgan](https://github.com/kmorgan8588)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
 - rahul123@
 - jenny heyyy
