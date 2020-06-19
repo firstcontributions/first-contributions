@@ -52,6 +52,7 @@ ram964
 - [Miten Gajjar 😋](https://github.com/GajjarMiten)
 - Mason Ashment
 - [Dana Brannon](https://github.com/dmbrannon)
+- Jahnavi(https://github.com/jahnavi-muralidhar)
 - Amit
 - Ethan So (https://github.com/ethanso56)
 - Jorge Sanchez (https://github.com/jjsanchezf)
