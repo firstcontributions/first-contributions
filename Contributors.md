@@ -2064,3 +2064,4 @@ Kayla Rubin
 - [Tony Huang] (https://github.com/tonyhuang-hxb)
 – [F.J. Genus](https://github.com/FJKhan)
 - [Charles Kuo](https://github.com/kuoyenchia)
+- [Lucas Fraga](https://github.com/LucasLeipnitz)
