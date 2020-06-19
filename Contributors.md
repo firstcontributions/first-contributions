@@ -10,6 +10,7 @@
 - Jens D.
 - David Hunter
 - Francisco Javier Olmos
+-[Augustine Virgo] (https://github.com/virgoaugustine)
 - Leandro B (https://github.com/lerbal7)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
