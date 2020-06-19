@@ -1930,6 +1930,7 @@ Kayla Rubin
 - [FreezeSnail](https://github.com/FreezeSnail)
 - [Audrey Yang](https://github.com/audrey-yang)
 - [John Hsiung](https://github.com/btwear)
+- [Maya Warren](https://github.com/maya-warren)
 - [Jessica Scortecci](https://github.com/jessica-scortecci)
 - [Douglas Ferlini](https://github.com/douglasferlini)
 - [Aswin Mahendiran](https://github.com/aswinmahendiran)
