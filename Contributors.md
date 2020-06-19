@@ -184,6 +184,7 @@ ram964
 - [Julian Pacheco](https://github.com/julianpacheco/)
 - [Sam Kim](https://github.com/lekoreanbaguette)
 - [Dan Fleming](https://github.com/DanFleming)
+- [Helen Chen](https://github.com/helenchen1003)
 - [Daivik Purani](https://github.com/DAIIVIIK)
 - [Austin Ogola](https://github.com/augolla/)
 - [Ben Holvey](https://github.com/benholvey)
