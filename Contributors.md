@@ -37,6 +37,7 @@ ram964
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
 - Hope T
+- [Sean Justice](https://github.com/scjustice)
 - [Chris Wallace] (https://github.com/cswall86)
 - [Priyanshu Dangi](https://githuVb.com/PriyanshuDangi)
 - [Kytham Deepak](https://github.com/Deephacks619)
