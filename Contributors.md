@@ -10,6 +10,7 @@
 - Jens D.
 - David Hunter
 - Francisco Javier Olmos
+- Leandro B (https://github.com/lerbal7)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
