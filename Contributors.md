@@ -387,6 +387,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Joel Hartman](https://github.com/joelhart)
 - [Sultan Sarazbanov](https://gitbhub.com/avokado1337)
 - [Gunish Matta](https://github.com/gunishmatta)
+- [Jonas Gollenz](https://github.com/jgollenz)
 - [Aviram Yitzhak](https://github.com/aviramyi)
 - [Krishna Indani](https://github.com/krishnaindani)
 - [Woosik Kim 😁🇰🇷](https://github.com/well-balanced)
