@@ -2048,3 +2048,4 @@ Kayla Rubin
 - [AmineAML](https://github.com/AmineAML)
 - [Tony Huang] (https://github.com/tonyhuang-hxb)
 – [F.J. Genus](https://github.com/FJKhan)
+- [Charles Kuo](https://github.com/kuoyenchia)
