@@ -616,6 +616,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [kartikchauhan](https://github.com/kartikchauhan)
 - [Rohit Satwadhar](https://github.com/riotgage)
 - [ChiragSaini](https://github.com/ChiragSaini)
+- [Zain Qureshi](https://github.com/ZainnQureshii)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
 - [Anis Bouhdaoui](https://github.com/abouhdaoui)
