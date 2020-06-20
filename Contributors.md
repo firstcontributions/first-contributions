@@ -200,6 +200,7 @@ ram964
 - [Colin W](https://github.com/cw171)
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
+- [Anurag Gupta](https://github.com/AnuragGupta806)
 - [Ilya Golubkov](https://github.com/tocs77)
 - [Prateek Jain](https://github.com/prateeja)
 - [Julian Pacheco](https://github.com/julianpacheco/)
