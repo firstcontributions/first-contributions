@@ -68,6 +68,7 @@ ram964
 - Sri
 - Robbe Goethals
 - raddd
+- [Balldoro](https://github.com/Balldoro)
 - syntacticgeorge
 - [Jasdeep S Shangari] (https://github.com/shangarijasdeep24)
 - [Mario Rosa](https://github.com/SergJohn)
