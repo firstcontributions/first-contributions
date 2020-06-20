@@ -997,6 +997,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Isaac Burton](https://github.com/burtonyaboy)
 - [Adib Al-Amir](https://github.com/adibalamir)
 - [Jimmy Jeong](https://github.com/jeongjimmy32)
+- [Levi Stovall](https://github.com/levistovall)
 - [@rezzco](https://github.com/rezzco)
 - [Danilo Galvão](https://github.com/Fisiquelaz)
 - [Hannah Lord](https://github.com/hcl1610)
