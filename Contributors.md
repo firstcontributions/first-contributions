@@ -31,6 +31,7 @@
 - [Faris Hasković] (https://github.com/Faski1)
 - yvnr (https://github.com/yvnr)
 - Rahul Rajan
+- Adam Asaad
 - Falguni Raina
 - Michael Mamich (https://github.com/MMMamich) 🤓
 - LA
