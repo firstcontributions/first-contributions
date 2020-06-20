@@ -25,9 +25,9 @@ Forkněte (vytvoření kopie z originálu, z anglického *fork* - *vidlička*, j
 
 <img align="right" width="300" src="../assets/clone.png" alt="naklonujte tento repozitář" />
 
-Nyní nakolujte (anglicky *clone*) forknutý repozitář na váš počítač, nakolování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
+Nyní naklonujte (anglicky *clone*) forknutý repozitář na váš počítač, naklonování není nic jiného než stáhnutí obrazu repozitáře k vám na počítač. Na vašem GitHub účtu si otevřete forknutý repozitář, klikněte na tlačítko **Clone or download** a následně v okýnku, které se objeví, klikněte na tlačítko s ikonkou **copy to clipboard** vedle URL adresy, čímž si ji zkopírujete do schránky.
 
-Teď otevřte terminál a spusťte následující příkaz:
+Teď otevřete terminál a spusťte následující příkaz:
 
 ```
 git clone "url které jste právě zkopírovali"
@@ -79,7 +79,7 @@ Tyto změny do dané větvě přidáte příkazem `git add`:
 git add Contributors.md
 ```
 
-Zbýva je teď už jen potvrdit (anglicky *commit*) příkazem `git commit`:
+Zbývá už jen potvrdit (anglicky *commit*) změny příkazem `git commit`:
 
 ```
 git commit -m "Add <vase-jmeno> to Contributors list"
@@ -105,7 +105,7 @@ Teď vytvořte žádost o přetažení vaší větve do originálního repozitá
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="potvrďte pull request" />
 
-Brzy budu provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
+Brzy budou správci provádět zapracování vašich změn do hlavní (anglicky *master*) větve tohoto projektu. Až se do ní vaše změny dostanou, dostanete emailové upozornění.
 
 ## Kam dále?
 
