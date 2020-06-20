@@ -1597,6 +1597,7 @@ Kayla Rubin
 - [Swarnagowri Bhambore](https://github.com/swarnagowri)
 - [Brandon Mitchell](https://github.com/brandontmitchell)
 - [Abdullah Ali](https://github.com/attaryz)
+- [Kelechi Precious Nwachukwu](github.com/PluckyPrecious)
 - [Jacky Lin](https://github.com/clin113jhu)
 - [Tyler Crites](https://github.com/zebbzz)
 - [Ranjith Palanisamy](https://github.com/rr2013)
