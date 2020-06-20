@@ -1485,6 +1485,7 @@ Kayla Rubin
 - [hrj](https://github.com/1170300812)
 - [Ron R](https://github.com/rsrulloda)
 - [lucasebs](https://github.com/lucasebs)
+- [Thomas](https://github.com/thomasochs82)
 - [Dale H](https://github.com/dhuettenmoser)
 - [Ben Balentine](https://github.com/BenBamboozled)
 - [jc](https://github.com/jc-appier)
