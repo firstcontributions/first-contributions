@@ -1389,6 +1389,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Riccardo Di Benedetto](https://github.com/dibericky)
 - [Brian De Sousa](https://github.com/briandesousa)
 - [Mazhar Ali Baig](https://github.com/mazharalibaig)
+- [Hitesh Kumar](https://github.com/hitesh710)
 - [Anish](https://github.com/sai9100957575)
 - [alib28](https://github.com/alib28)
 - [Mitali Purwar](https://github.com/MitaliPurwar21)
