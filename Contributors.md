@@ -233,6 +233,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Peter Kang](https://github.com/pswk1)
 - [Rene Baron](https://github.com/realb12)
 - [Julia Kyung](https://github.com/juliakyung)
+- [Geuntaek Kwon](https://github.com/flowertaekk-dev)
 - Kramer Silva
 - [Jitesh Kamnani](https://github.com/jvkamnani)
 - [Kwame Asante](https://github.com/kwamekert)
