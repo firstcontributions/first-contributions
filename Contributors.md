@@ -56,6 +56,7 @@ ram964
 - Mason Ashment
 - [Dana Brannon](https://github.com/dmbrannon)
 - Jahnavi(https://github.com/jahnavi-muralidhar)
+- [Atharva Ikhar](https://github.com/atharva444/)
 - Amit
 - Ethan So (https://github.com/ethanso56)
 - Jorge Sanchez (https://github.com/jjsanchezf)
