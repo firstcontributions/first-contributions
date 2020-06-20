@@ -1146,6 +1146,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Alejandro Gonzalez](https://github.com/thehumanlegion)
 - [Ben Langlois](https://github.com/BenLanglois)
 - [Nathan Huh](https://github.com/AmberLlama81)
+- [Jarryl Miles Subang](https://github.com/suoobs)
 - [Shreya Pathak](https://github.com/Shreya-Pathak)
 - [NUX:PR](https://github.com/nuxpr)
 - [Przemysław Pierzchałka](https://github.com/Websited/)
