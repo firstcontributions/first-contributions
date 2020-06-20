@@ -26,6 +26,7 @@
 - yvnr (https://github.com/yvnr)
 - Rahul Rajan
 - Falguni Raina
+- Michael Mamich (https://github.com/MMMamich) 🤓
 - LA
 - [Vinnicius Andrade] (https://github.com/vinnicius)
 - [Bolutife O.] (https://github.com/bolu-tife)
