@@ -14,6 +14,7 @@
 - Naim Bijapure(https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
+-Divisha Gupta(https://github.com/divishagupta99)
 - Francisco Javier Olmos
 -[Augustine Virgo] (https://github.com/virgoaugustine)
 - Leandro B (https://github.com/lerbal7)
