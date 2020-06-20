@@ -7,6 +7,7 @@
 - Harsh Patel(https://github.com/HarshPatel270698)
 -Sara Morsy (https://github.com/SaraMorsy)
 - fis Arain
+- Abhishek Vaish(https://github.com/Abhishekvaish)
 - Murat Görgüner
 - Krishnasai
 - Jens D.
