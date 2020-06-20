@@ -111,6 +111,7 @@ ram964
 - Harshit Gangwar
 - Kazuma Tonegawa
 - [Ali Risheh](https://github.com/aicam)
+- [Shashank](https://github.com/shashankmotruri)
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
