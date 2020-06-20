@@ -13,9 +13,12 @@
 - Jens D.
 - Naim Bijapure(https://github.com/Naim-Bijapure)
 - David Hunter
+- Abah Gift
+-Divisha Gupta(https://github.com/divishagupta99)
 - Francisco Javier Olmos
 -[Augustine Virgo] (https://github.com/virgoaugustine)
 - Leandro B (https://github.com/lerbal7)
+- Oyindamola Olatunji (https://github.com/ikeadeoyin)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
@@ -43,6 +46,7 @@ ram964
 - [Neilzon Viloria](https://github.com/neilZon)
 - [Rohan Sharma](https://github.com/18rohan)
 - [Sarah Wu](https://github.com/9237sarah)
+- [Zainab Abubakar](https://github.com/zaycodes)
 - Vinayak Sankar
 - [Lee Choon Siong](https://github.com/choonsiong)
 - Hope T
@@ -89,6 +93,7 @@ ram964
 - [Iago Nunes](https>://github.com/iago)
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
+- [Ruth Ikegah] (https://github.com/Ruth-ikegah)
 - Andrew Barton
 - Sylveste
 - Shweta
@@ -111,6 +116,7 @@ ram964
 - Harshit Gangwar
 - Kazuma Tonegawa
 - [Ali Risheh](https://github.com/aicam)
+- [Shashank](https://github.com/shashankmotruri)
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
@@ -195,6 +201,7 @@ ram964
 - [Colin W](https://github.com/cw171)
 - Vijay R S(https://github.com/Vijayselvakumar)
 - [Ranajay Medya](https://github.com/ranajay99)
+- [Anurag Gupta](https://github.com/AnuragGupta806)
 - [Ilya Golubkov](https://github.com/tocs77)
 - [Prateek Jain](https://github.com/prateeja)
 - [Julian Pacheco](https://github.com/julianpacheco/)
@@ -311,6 +318,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Sachu Verma](https://github.com/sachinverma53121)
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
+- [Omotola Shogunle](https://github.com/Omotola28)
 - [Ekansh Bhatnagar](https://github.com/EkanshBhatnagar)
 - [Pranav Kulkarni](https://github.com/freakcap)
 - [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
@@ -946,6 +954,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Alif Jahan](https://github.com/zxalif)
 - [Brady Haden](https://github.com/bhaden94)
 - [Tamar Shacked](https://github.com/tshacked)
+-[Ololade Olanrewaju](https://github.com/lolade-dev)
 - [dgzdgz](https://github.com/dgzdgz)
 - [Thomas Lambell](https://github.com/thomas-lambell)
 - [Dhaval Desai](https://github.com/xPetra)
@@ -1387,6 +1396,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Riccardo Di Benedetto](https://github.com/dibericky)
 - [Brian De Sousa](https://github.com/briandesousa)
 - [Mazhar Ali Baig](https://github.com/mazharalibaig)
+- [Hitesh Kumar](https://github.com/hitesh710)
 - [Anish](https://github.com/sai9100957575)
 - [alib28](https://github.com/alib28)
 - [Mitali Purwar](https://github.com/MitaliPurwar21)
