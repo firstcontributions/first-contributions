@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
@@ -30,6 +30,7 @@
 - Falguni Raina
 - Michael Mamich (https://github.com/MMMamich) 🤓
 - LA
+- [Temitope Babatola] (https://github.com/BBimie)
 - [Vinnicius Andrade] (https://github.com/vinnicius)
 - [Bolutife O.] (https://github.com/bolu-tife)
 - [Sebastien Casimir] (https://github.com/scasimir327)
@@ -130,6 +131,7 @@ ram964
 - [Shaik Zayeer Hussain](https://github.com/Zayeer)
 - [Ashik Paul](https://github.com/Ashikpaul)
 - [Nithiyashree MG](https://github.com/mgncodes)
+- [Temitope Babatola](https://github.com/BBimie)
 - [Krishanu Shashwat](https://github.com/kshashwat007)
 - [Juan Alegría](https://github.com/zejiran)
 - [Amin Burhan](https://github.com/aminnb)
