@@ -91,6 +91,7 @@ ram964
 - [Iago Nunes](https>://github.com/iago)
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
+- [Ruth Ikegah] (https://github.com/Ruth-ikegah)
 - Andrew Barton
 - Sylveste
 - Shweta
