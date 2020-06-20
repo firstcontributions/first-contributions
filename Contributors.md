@@ -17,6 +17,7 @@
 - Francisco Javier Olmos
 -[Augustine Virgo] (https://github.com/virgoaugustine)
 - Leandro B (https://github.com/lerbal7)
+- Oyindamola Olatunji (https://github.com/ikeadeoyin)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
 - Pathik Ghugare (https://github.com/Patrickbro13)
 - Satty Kaur (https://github.com/SattyKaur)
