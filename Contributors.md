@@ -11,12 +11,13 @@
 - [Harsh Patel](https://github.com/HarshPatel270698)
 - [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
+- [Jane Muthoni](https://github.com/muchirijane)
 - [Mahmoud Attia](https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
 - [Abhishek Vaish](https://github.com/Abhishekvaish)
 - Murat Görgüner
 - Krishnasai
-- [Mahmoud Attia](https://github.com/Atattia)
+- [Mahmoud Attia](https://github.com/Atattia
 - Jens D.
 - [Anuj Upadhyaya](https://github.com/anuj98)
 - [Ayush Sinha](https://github.com/ayushsinha-13)
