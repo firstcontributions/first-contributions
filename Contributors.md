@@ -201,6 +201,7 @@
 - Mathias
 - [Mark Kulube](https://github.com/markkulube)
 - Malachi Ivey
+- [Karim Kohel](https://github.com/karimkohel)
 - [Gega Darakhvelidze](https://github.com/gdara17)
 - Reem
 - [limetree1723](https://github.com/limetree1723)
