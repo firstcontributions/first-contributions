@@ -1720,6 +1720,7 @@ Kayla Rubin
 - [Alex Parra](https://github.com/alex-parra)
 - [Chris Lewis](https://github.com/Ryu1284)
 - [Martin Watkins](https://github.com/martinw13)
+- [Jesse Rurka] (https://github.com/RurkaJ)
 - [Simon Larsen](https://github.com/DeterjoSimon)
 - [Kagawa23](https://github.com/kagawa23)
 - [ZanderBE](https://github.com/ZanderBE)
