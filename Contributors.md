@@ -736,6 +736,7 @@
 - [Uday Rajoriya](https://github.com/udayrajoriya)
 - [Mehdi CHERFI](https://github.com/cherfim)
 - [Muhammad Hassan Shakeel](https://github.com/mHassan20896)
+- [Umair Hafeez](https://github.com/umairhm)
 - [Deathless Kraken](https://github.com/DeathlessKraken)
 - [Hassan Shakeel](https://github.com/mHassan20896)
 - [Sean Donnellan](https://github.com/seandonnellan)
