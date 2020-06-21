@@ -121,6 +121,7 @@
 - [David Damer](CDavid-Damer)
 - [David Lugo Jz](https://github.com/DavidLJz)
 - Christopher LeBoeuf
+- [Christopher Smit - Minc Development]
 - [Ritwik Sinha](https://github.com/Ritwik880)
 - [Alexandr Mertl](https://github.com/sasutpasut)
 - Salsabil
