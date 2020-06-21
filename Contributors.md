@@ -105,6 +105,7 @@ ram964
 - [Iago Nunes](https://github.com/iago)
 - aga
 - [Maria Garcia](https://github.com/MariaGarciaCS)
+- [Darshan Chudiwal](https://github.com/kvothemaedre)
 - [Ruth Ikegah] (https://github.com/Ruth-ikegah)
 - Andrew Barton
 - Sylveste
