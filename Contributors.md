@@ -12,6 +12,7 @@
 - Murat Görgüner
 - Krishnasai
 - Jens D.
+- Ayush Sinha (https://github.com/ayushsinha-13)
 - Deppah
 - Naim Bijapure(https://github.com/Naim-Bijapure)
 - David Hunter
