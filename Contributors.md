@@ -2,6 +2,7 @@
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
 - [BrandoTheDev](https://github.com/BrandoTheDev)
+- [Frostack](https://github.com/Frostack)
 - rahul123@
 - jenny heyyy
 - Iqra Muhammad(https://github.com/cemeiq)	
