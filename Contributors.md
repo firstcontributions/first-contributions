@@ -14,6 +14,7 @@
 - Murat Görgüner
 - Krishnasai
 - Jens D.
+- Anuj Upadhyaya (https://github.com/anuj98)
 - Ayush Sinha (https://github.com/ayushsinha-13)
 - Deppah
 - Naim Bijapure(https://github.com/Naim-Bijapure)
