@@ -117,6 +117,7 @@
 - Jens Krueger
 - Janitha Missaka
 - Sinclair Guthrie
+- Anirudh N
 - Shabunken (https://github.com/shabunken))
 - [Shiva](https://github.com/shivaak)
 - [David Damer](CDavid-Damer)
