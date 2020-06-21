@@ -8,7 +8,8 @@
 - aslam khan
 - Iqra Muhammad(https://github.com/cemeiq)	
 - Harsh Patel(https://github.com/HarshPatel270698)
--Sara Morsy (https://github.com/SaraMorsy)
+- 
+  <[Sara Morsy] (https://github.com/SaraMorsy)>
 - fis Arain
 - Mahmoud Attia (https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
