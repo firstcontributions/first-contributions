@@ -1509,6 +1509,7 @@ Kayla Rubin
 - [cwcraw](https://github.com/cwcraw)
 - [Joao](https://github.com/Joaopedrobass)
 - [Jamiel Capatayan](https://github.com/JamielCapatayan)
+- [Remus Sferle](https://github.com/SarCoptU)
 - [Mike Bailey] (https://github.com/mikebailey-sf)
 - [Selvaa](https://github.com/selvaa3009)
 - [Tobias Wirtz](https://github.com/tobiaswirtz)
