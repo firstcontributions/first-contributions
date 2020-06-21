@@ -1912,9 +1912,9 @@
 - [tino](https://github.com/tinotenda6)
 - [MorganR Developer](https://github.com/morganrdeveloper)
 - [skwiryt](https://github.com/skwiryt)
-- Én
 - [Ravi Gupta](https://github.com/rgupta1234)
 - [Dov Edelson](https://github.com/adredelson)
+- [DefinedRisk](https://github.com/definedrisk)
 - [Quinn Wai Wong](https://github.com/quinnwai)
 - [Brian Cariddi](https://github.com/bcariddi)
 - [Collins Thomas](https://github.com/cicerothoma)
