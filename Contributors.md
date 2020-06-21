@@ -644,6 +644,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Zain Qureshi](https://github.com/ZainnQureshii)
 - [Asha Sankar Ramalaxmi](https://github.com/Ashsr)
 - [oranjjun](https://github.com/oranjjun)
+- [Anton Chuchuva](https://github.com/achuchuva)
 - [Anis Bouhdaoui](https://github.com/abouhdaoui)
 - [Greg Mac](https://github.com/gregmacdev)
 - [Olushesi toheeb](https://github.com/OlushesiToheeb)
