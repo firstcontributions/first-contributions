@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Zeke Jeske](https://github.com/zeke-jeske)
 - [Shriram Dharmadhikari](https://github.com/shriramd12)
 - [KyleMorgan](https://github.com/kmorgan8588)
@@ -7,27 +7,26 @@
 - rahul123@
 - jenny heyyy
 - aslam khan
-- Iqra Muhammad(https://github.com/cemeiq)	
-- Harsh Patel(https://github.com/HarshPatel270698)
-- 
-  <[Sara Morsy] (https://github.com/SaraMorsy)>
+- [Iqra Muhammad](https://github.com/cemeiq)	
+- [Harsh Patel](https://github.com/HarshPatel270698)
+- [Sara Morsy](https://github.com/SaraMorsy)>
 - fis Arain
-- Mahmoud Attia (https://github.com/Atattia)
+- [Mahmoud Attia](https://github.com/Atattia)
 - [Akash Raj](https://github.com/aaksr)
-- Abhishek Vaish(https://github.com/Abhishekvaish)
+- [Abhishek Vaish](https://github.com/Abhishekvaish)
 - Murat Görgüner
 - Krishnasai
-- Mahmoud Attia (https://github.com/Atattia)
+- [Mahmoud Attia](https://github.com/Atattia)
 - Jens D.
-- Anuj Upadhyaya (https://github.com/anuj98)
-- Ayush Sinha (https://github.com/ayushsinha-13)
+- [Anuj Upadhyaya](https://github.com/anuj98)
+- [Ayush Sinha](https://github.com/ayushsinha-13)
 - Deppah
-- Naim Bijapure(https://github.com/Naim-Bijapure)
+- [Naim Bijapure](https://github.com/Naim-Bijapure)
 - David Hunter
 - Abah Gift
--Divisha Gupta(https://github.com/divishagupta99)
+- [Divisha Gupta](https://github.com/divishagupta99)
 - Francisco Javier Olmos
--[Augustine Virgo] (https://github.com/virgoaugustine)
+- [Augustine Virgo](https://github.com/virgoaugustine)
 - Leandro B (https://github.com/lerbal7)
 - Oyindamola Olatunji (https://github.com/ikeadeoyin)
 - Harprit Singh Chhabada(https://github.com/hchhabada)
@@ -35,22 +34,22 @@
 - Satty Kaur (https://github.com/SattyKaur)
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
 - Mihir Rane (https://github.com/ranemihir)
-- Nirbhay Singh ***(https://github.com/Nirbhay007)
-- [Lukasz Gorka] (https://github.com/lukaszgorka2010)
-- [Faris Hasković] (https://github.com/Faski1)
-- yvnr (https://github.com/yvnr)
+- [Nirbhay Singh](https://github.com/Nirbhay007)
+- [Lukasz Gorka](https://github.com/lukaszgorka2010)
+- [Faris Hasković](https://github.com/Faski1)
+- [yvnr](https://github.com/yvnr)
 - Rahul Rajan
 - Adam Asaad
 - Falguni Raina
-- Michael Mamich (https://github.com/MMMamich) 🤓
+- [Michael Mamich](https://github.com/MMMamich) 🤓
 - LA
-- [Temitope Babatola] (https://github.com/BBimie)
-- [Vinnicius Andrade] (https://github.com/vinnicius)
-- [Bolutife O.] (https://github.com/bolu-tife)
-- [Sebastien Casimir] (https://github.com/scasimir327)
-- Sharukh (https://github.com/syedm1)
-ram964
--[Sachin Naik]
+- [Temitope Babatola](https://github.com/BBimie)
+- [Vinnicius Andrade](https://github.com/vinnicius)
+- [Bolutife O.](https://github.com/bolu-tife)
+- [Sebastien Casimir](https://github.com/scasimir327)
+- [Sharukh](https://github.com/syedm1)
+- ram964
+- [Sachin Naik]
 - [Praveen Nair](https://github.com/PraveenCNR)
 - Aditya Tambi (https://github.com/adityatambi)
 - [Jersey Fonseca](https://github.com/jfonseca8)
@@ -2105,7 +2104,7 @@ Kayla Rubin
 - [Jack Delahunt](https://github.com/jackdelahunt)
 - [Marc Timperley](https://github.com/MarcTimperley)
 - [Allen Yao](https://github.com/ayao451)
-- [Dimitra Athina Moraiti] (https://github.com/DimitraMoraiti)
+- [Dimitra Athina Moraiti](https://github.com/DimitraMoraiti)
 - [Surya Teja Togaru](https://github.com/ayrustogaru)
 - [Dennis Daubney](https://github.com/MrOolong)
 - [Carlos Barrera 🎧 🚀](https://github.com/barrera713)
@@ -2117,11 +2116,11 @@ Kayla Rubin
 - [Pierce McGeough](https://github.com/piercemcgeough)
 - [AmineAML](https://github.com/AmineAML)
 - [Tony Huang](https://github.com/tonyhuang-hxb)
-- [Yushi Yang] (https://github.com/yangyushi)
+- [Yushi Yang](https://github.com/yangyushi)
 – [F.J. Genus](https://github.com/FJKhan)
 - [Charles Kuo](https://github.com/kuoyenchia)
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
 - [Braxton Lamey](https://github.com/Bmc1977)
-- [Selam Gessese] (https://github.com/sygessese)
-- [Sachin Diwate] (https://github.com/dsachin) 
-- [Sukritee Shrivastava] (https://github.com/sukritee)
+- [Selam Gessese](https://github.com/sygessese)
+- [Sachin Diwate](https://github.com/dsachin) 
+- [Sukritee Shrivastava](https://github.com/sukritee)
