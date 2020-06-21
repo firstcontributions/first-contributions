@@ -101,6 +101,7 @@
 - Moshe Stone
 - Imed Touhami
 - Rahul Katamneni
+- Mustafa Taha
 - Jeremiah Zagada
 - Shweta Karwa
 - [Iago Nunes](https://github.com/iago)
