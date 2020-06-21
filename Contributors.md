@@ -328,6 +328,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Sachu Verma](https://github.com/sachinverma53121)
 - [Bruno Rabelo](https://github.com/brunorabelo)
 - [Kushwanth Reddy](https://github.com/codekushi)
+- [Monica Uwalaka](https://github.com/Monica-Uwalaka)
 - [Omotola Shogunle](https://github.com/Omotola28)
 - [Ekansh Bhatnagar](https://github.com/EkanshBhatnagar)
 - [Pranav Kulkarni](https://github.com/freakcap)
