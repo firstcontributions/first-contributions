@@ -1,5 +1,6 @@
 # Contributors
 - Joshua Lopez ⭐⭐⭐⭐⭐(https://github.com/cJoshLo)
+- [Roman Rokon ⭐⭐⭐⭐⭐⭐⭐](https://github.com/rokonxr)
 - Nirbhay Singh ***(https://github.com/Nirbhay007)
 - [Faris Hasković] (https://github.com/Faski1)
 - Rahul Rajan
