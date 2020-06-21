@@ -568,6 +568,7 @@
 - [Adesh Kumar](https://github.com/adeskmr)
 - [Lucas Zanin](https://github.com/LucasZan1n)
 - [Ayush Mandloi](https://github.com/ayushmandloi2)
+- [Karthik Panambur] https://github.com/karthik-panambur
 - [Anthony Hill](https://github.com/anthonyhi11)
 - [Filipe Pinato](https://github.com/tiofih)
 - [Coco](https://github.com/coco4024)
