@@ -2058,6 +2058,7 @@ Kayla Rubin
 - [Ashok Saini] (https://github.com/wifineural)
 - [Nate Jones] (https://github.com/n09jones)
 - [Aya Khaled] (https://github.com/AyaKhaledYousef)
+- [Burhanuddin Rangwala] (https://github.com/burhan786)
 - [Víctor González] (https://github.com/VictorRdz)
 - [Ahmed Abdulkarim](https://github.com/quipcode)
 - [Jagadish](https://github.com/Jaggu437)
