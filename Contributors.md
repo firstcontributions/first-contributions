@@ -1110,6 +1110,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Yaron Lidengoltz](https://github.com/Yaron-Lidengoltz)
 - [Xi Ming](https://github.com/seki2020)
 - [Michael Properzi](https://github.com/erzimj)
+- [TheDopplerEffects](https://github.com/TheDopplerEffects)
 - [Masahiro Okamoto](https://github.com/okamotchan)
 - [Robiquet](https://github.com/Robiquet)
 - [Rishabh Jain](https://github.com/jainrish)
