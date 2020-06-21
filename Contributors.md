@@ -136,7 +136,7 @@
 - [Cheyenne Montgomery]
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - barua
--[Sayed Mannan Ahmad](https://github.com/MannanAhmad)
+- [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
 - [Ali Najmaldin](https://github.com/OGALI)
 - [Dion Niazi](https://github.com/dn3gy)
 - [Isaac Jacob](https://github.com/Candyman770)
@@ -172,7 +172,7 @@
 - [Elvis Takkis](https://github.com/kruvikonserv)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
 - [Olaosebikan Tosin](https://github.com/tosebikan)
-  = [Chi-shing Tong](https://github.com/artongdou)
+- [Chi-shing Tong](https://github.com/artongdou)
 - [mkjodhani](https://github.com/mkjodhani)
 - [Lishihong](https://github.com/lieric7766)
 - [Samuel Gits](https://github.com/samgits)
