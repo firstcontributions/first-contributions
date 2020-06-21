@@ -2094,6 +2094,7 @@ Kayla Rubin
 - [Pierce McGeough](https://github.com/piercemcgeough)
 - [AmineAML](https://github.com/AmineAML)
 - [Tony Huang] (https://github.com/tonyhuang-hxb)
+- [Yushi Yang] (https://github.com/yangyushi)
 – [F.J. Genus](https://github.com/FJKhan)
 - [Charles Kuo](https://github.com/kuoyenchia)
 - [Lucas Fraga](https://github.com/LucasLeipnitz)
