@@ -192,6 +192,7 @@
 - [Doyeon Lim](https://github.com/fenneccat/)
 - [Danish Farid](https://www.twitter.com/danishnxt)
 - Aditya Shrivastav
+- [Goutami Padmanabhan](https://github.com/goutamiiyer/)
 - Costea Ionut-Andrei
 - Mathias
 - [Mark Kulube](https://github.com/markkulube)
@@ -244,7 +245,7 @@
 - [Beka Gogaladze](https://github.com/beqakd)
 - [Nick MacDonald](https://github.com/macdo226)
 - [Damien Aries](https://github.com/damienaries)
-  https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://github.com/baldraider)
+- [Sushant Kumar](https://github.com/baldraider)
 - [Aashish khatri](https://github.com/aashish-khatri)
 - [Rishabh Agarwal](https://github.com/RishabhAgarwal-2001)
 - [Helber Belmiro](https://github.com/hbelmiro)
